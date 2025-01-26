@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Заказать буст - MLBB Boost</title>
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/animations.css">
+  <link rel="stylesheet" href="styles/order.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="page-transition"></div>
+  
+  <header>
+    <nav class="main-nav">
+      <div class="logo">
+        <svg width="40" height="40" viewBox="0 0 40 40">
+          <path d="M20 0L40 10V30L20 40L0 30V10L20 0Z" fill="#0A1A2F"/>
+          <path d="M20 5L35 12.5V27.5L20 35L5 27.5V12.5L20 5Z" fill="#00FF9D"/>
+        </svg>
+        <span>MLBB Boost</span>
+      </div>
+      <button class="mobile-menu-btn">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="#home">Главная</a></li>
+        <li><a href="#services">Услуги</a></li>
+        <li><a href="#reviews">Отзывы</a></li>
+        <li><a href="#security">Безопасность</a></li>
+        <li><a href="#contact">Контакты</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="order-page">
+    <div class="character-bg"></div>
+    
+    <section class="order-section">
+      <div class="order-container">
+        <h1 class="glowing-text">Оформление заказа</h1>
+        
+        <div class="order-grid">
+          <div class="order-form-container">
+            <form id="boost-order-form" class="glass-form">
+              <div class="form-step active" data-step="1">
+                <h3>Выберите текущий ранг</h3>
+                <div class="rank-selector">
+                  <div class="rank-option" data-rank="warrior">
+                    <img src="images/ranks/warrior.png" alt="Warrior">
+                    <span>Warrior</span>
+                  </div>
+                  <div class="rank-option" data-rank="elite">
+                    <img src="images/ranks/elite.png" alt="Elite">
+                    <span>Elite</span>
+                  </div>
+                  <div class="rank-option" data-rank="master">
+                    <img src="images/ranks/master.png" alt="Master">
+                    <span>Master</span>
+                  </div>
+                  <div class="rank-option" data-rank="grandmaster">
+                    <img src="images/ranks/grandmaster.png" alt="Grandmaster">
+                    <span>Grandmaster</span>
+                  </div>
+                  <div class="rank-option" data-rank="epic">
+                    <img src="images/ranks/epic.png" alt="Epic">
+                    <span>Epic</span>
+                  </div>
+                  <div class="rank-option" data-rank="legend">
+                    <img src="images/ranks/legend.png" alt="Legend">
+                    <span>Legend</span>
+                  </div>
+                  <div class="rank-option" data-rank="mythic">
+                    <img src="images/ranks/mythic.png" alt="Mythic">
+                    <span>Mythic</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-step" data-step="2">
+                <h3>Выберите желаемый ранг</h3>
+                <div class="rank-selector">
+                  <div class="rank-option" data-rank="elite">
+                    <img src="images/ranks/elite.png" alt="Elite">
+                    <span>Elite</span>
+                  </div>
+                  <div class="rank-option" data-rank="master">
+                    <img src="images/ranks/master.png" alt="Master">
+                    <span>Master</span>
+                  </div>
+                  <div class="rank-option" data-rank="grandmaster">
+                    <img src="images/ranks/grandmaster.png" alt="Grandmaster">
+                    <span>Grandmaster</span>
+                  </div>
+                  <div class="rank-option" data-rank="epic">
+                    <img src="images/ranks/epic.png" alt="Epic">
+                    <span>Epic</span>
+                  </div>
+                  <div class="rank-option" data-rank="legend">
+                    <img src="images/ranks/legend.png" alt="Legend">
+                    <span>Legend</span>
+                  </div>
+                  <div class="rank-option" data-rank="mythic">
+                    <img src="images/ranks/mythic.png" alt="Mythic">
+                    <span>Mythic</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-step" data-step="3">
+                <h3>Дополнительные опции</h3>
+                <div class="options-grid">
+                  <label class="option-card">
+                    <input type="checkbox" name="stream">
+                    <span class="option-content">
+                      <i class="fas fa-video"></i>
+                      <span>Стрим буста</span>
+                    </span>
+                  </label>
+                  <label class="option-card">
+                    <input type="checkbox" name="priority">
+                    <span class="option-content">
+                      <i class="fas fa-bolt"></i>
+                      <span>Приоритетный буст</span>
+                    </span>
+                  </label>
+                  <label class="option-card">
+                    <input type="checkbox" name="heroes">
+                    <span class="option-content">
+                      <i class="fas fa-user-ninja"></i>
+                      <span>Выбор героев</span>
+                    </span>
+                  </label>
+                </div>
+              </div>
+
+              <div class="form-navigation">
+                <button type="button" class="nav-button prev" disabled>Назад</button>
+                <div class="progress-bar">
+                  <div class="progress"></div>
+                </div>
+                <button type="button" class="nav-button next">Далее</button>
+              </div>
+            </form>
+          </div>
+
+          <div class="order-summary glass-panel">
+            <h3>Ваш заказ</h3>
+            <div class="summary-content">
+              <div class="summary-item">
+                <span>Текущий ранг:</span>
+                <span id="current-rank-display">-</span>
+              </div>
+              <div class="summary-item">
+                <span>Желаемый ранг:</span>
+                <span id="desired-rank-display">-</span>
+              </div>
+              <div class="summary-item">
+                <span>Дополнительно:</span>
+                <ul id="options-display"></ul>
+              </div>
+              <div class="price-display">
+                <span>Итого:</span>
+                <span id="total-price">0 ₽</span>
+              </div>
+            </div>
+            <button type="submit" class="submit-order" disabled>
+              Оформить заказ
+              <i class="fas fa-arrow-right"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-section">
+        <h4>MLBB Boost</h4>
+        <p>Профессиональные услуги буста в Mobile Legends</p>
+      </div>
+      <div class="footer-section">
+        <h4>Ссылки</h4>
+        <ul>
+          <li><a href="#services">Услуги</a></li>
+          <li><a href="#reviews">Отзывы</a></li>
+          <li><a href="#security">Безопасность</a></li>
+          <li><a href="#contact">Контакты</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h4>Социальные сети</h4>
+        <div class="social-links">
+          <a href="https://discord.gg/mlboost"><i class="fab fa-discord"></i></a>
+          <a href="https://t.me/mlboost"><i class="fab fa-telegram"></i></a>
+          <a href="https://instagram.com/mlboost"><i class="fab fa-instagram"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 MLBB Boost. Все права защищены.</p>
+    </div>
+  </footer>
+
+  <script src="js/animations.js"></script>
+  <script src="js/order.js"></script>
+</body>
+</html>

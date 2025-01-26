@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Отзывы - ML Boost</title>
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/animations.css">
+  <link rel="stylesheet" href="styles/reviews.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="page-transition"></div>
+  
+  <!-- Navigation -->
+  <header class="site-header">
+    <nav class="main-nav">
+      <div class="nav-container">
+        <a href="index.html" class="logo-link">
+          <div class="logo">
+            <svg width="40" height="40" viewBox="0 0 40 40">
+              <path d="M20 0L40 10V30L20 40L0 30V10L20 0Z" fill="#0A1A2F"/>
+              <path d="M20 5L35 12.5V27.5L20 35L5 27.5V12.5L20 5Z" fill="#00FF9D"/>
+            </svg>
+            <span>MLBB Boost</span>
+          </div>
+        </a>
+
+        <div class="nav-menu">
+          <ul class="nav-list">
+            <li><a href="index.html" class="nav-link">Главная</a></li>
+            <li><a href="services.html" class="nav-link active">Услуги</a></li>
+            <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
+            <li><a href="faq.html" class="nav-link">FAQ</a></li>
+            <li><a href="https://t.me/Cla1ve" target="_blank" class="nav-link cta">
+              <i class="fab fa-telegram"></i>Связаться
+            </a></li>
+          </ul>
+        </div>
+
+        <button class="menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+
+
+  <main class="reviews-page">
+    <div class="container">
+      <h1 class="reviews-title">Отзывы наших клиентов</h1>
+      <div class="telegram-notice">
+        <i class="fab fa-telegram"></i>
+        <div class="notice-content">
+          <h3>Больше отзывов в нашем Telegram канале!</h3>
+          <p>Ознакомьтесь с реальными скриншотами покупок и отзывами клиентов</p>
+          <a href="https://t.me/boost_mlbb" target="_blank" class="notice-button">
+            Перейти в канал
+            <i class="fas fa-arrow-right"></i>
+          </a>
+        </div>
+      </div>
+
+      <div class="stats-banner">
+        <div class="stat-item">
+          <div class="stat-value">4.9</div>
+          <div class="stat-label">Средняя оценка</div>
+          <div class="stars">★★★★★</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value">100+</div>
+          <div class="stat-label">Отзывов</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value">98%</div>
+          <div class="stat-label">Довольных клиентов</div>
+        </div>
+      </div>
+    </div>
+
+    <section class="reviews-grid">
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">Все отзывы</button>
+        <button class="filter-btn" data-filter="recent">Последние</button>
+        <button class="filter-btn" data-filter="top">Топ оценки</button>
+      </div>
+
+      <div class="reviews-container" id="reviews-container">
+        <!-- Reviews will be loaded dynamically -->
+      </div>
+
+      <template id="review-template">
+        <div class="review-card">
+          <div class="review-header">
+            <div class="reviewer-info">
+              <div class="reviewer-avatar">
+                <img src="" alt="">
+              </div>
+              <div class="reviewer-details">
+                <h4 class="reviewer-name"></h4>
+                <div class="review-date"></div>
+              </div>
+            </div>
+            <div class="review-rating"></div>
+          </div>
+          <div class="review-content">
+            <p class="review-text"></p>
+          </div>
+          <div class="review-boost-details">
+            <div class="boost-from"></div>
+            <i class="fas fa-arrow-right"></i>
+            <div class="boost-to"></div>
+          </div>
+        </div>
+      </template>
+
+      <div class="load-more">
+        <button id="load-more-btn" class="load-more-btn">
+          Показать ещё
+          <i class="fas fa-spinner fa-spin" style="display: none;"></i>
+        </button>
+      </div>
+    </section>
+
+    <section class="leave-review">
+      <h2>Оставить отзыв</h2>
+      <div class="review-form glass-form disabled">
+        <div class="disabled-message">
+          <i class="fas fa-lock"></i>
+          <p>Оставить отзыв вы сможете только после покупки</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+   <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-info">
+          <div class="footer-logo">
+            <svg width="40" height="40" viewBox="0 0 40 40">
+              <path d="M20 0L40 10V30L20 40L0 30V10L20 0Z" fill="#0A1A2F"/>
+              <path d="M20 5L35 12.5V27.5L20 35L5 27.5V12.5L20 5Z" fill="#00FF9D"/>
+            </svg>
+            <span>MLBB Boost</span>
+          </div>
+          <p>Профессиональный буст в Mobile Legends от PRO игроков</p>
+        </div>
+
+        <div class="footer-social">
+          <h4>Свяжитесь с нами</h4>
+          <div class="social-links">
+            <a href="https://t.me/Cla1ve" target="_blank">
+              <i class="fab fa-telegram"></i>
+              <span>Telegram</span>
+            </a>
+            <a href="https://t.me/boost_mlbb" target="_blank">
+              <i class="fab fa-telegram"></i>
+              <span>Канал</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2025 MLBB Boost. Все права защищены.</p>
+      </div>
+    </div>
+  </footer>
+
+
+
+  <script src="js/animations.js"></script>
+  <script src="js/reviews.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

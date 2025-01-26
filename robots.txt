@@ -1,0 +1,51 @@
+User-agent: *
+Allow: /
+Sitemap: https://boostmlbb.ru/sitemap.xml
+
+# Запрещаем индексацию служебных файлов и директорий
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/raw/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.txt$
+Disallow: /*?*
+Disallow: /*&*
+Disallow: /*.php$
+Disallow: /*.log$
+Disallow: /*.sql$
+Disallow: /*.ini$
+Disallow: /*.env$
+
+# Разрешаем основные страницы
+Allow: /index.html
+Allow: /services.html
+Allow: /reviews.html
+Allow: /faq.html
+Allow: /contact.html
+Allow: /images/*.jpg$
+Allow: /images/*.png$
+Allow: /images/*.webp$
+Allow: /styles/*.css$
+
+# Правила для Яндекс.Бота
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
+Clean-param: yclid&_openstat
+Clean-param: gclid&fbclid
+
+# Правила для Google
+User-agent: Googlebot
+Allow: /
+Allow: /*.css
+Allow: /*.js
+
+# Хост
+Host: https://boostmlbb.ru
+
+# Crawl-delay
+Crawl-delay: 1 

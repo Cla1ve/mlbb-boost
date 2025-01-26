@@ -1,0 +1,213 @@
+.contact-page {
+  background: linear-gradient(135deg, var(--primary-dark), #152642);
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.contact-page::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('../Mobile Legends Selena transparent_ Virus by b-la-ze on DeviantArt.png') center/cover no-repeat;
+  opacity: 0.1;
+  filter: blur(3px);
+  pointer-events: none;
+}
+
+.contact-section {
+  position: relative;
+  z-index: 1;
+  padding: 8rem 2rem;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.contact-content {
+  padding: 3rem;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(0, 255, 157, 0.1);
+}
+
+.glowing-text {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  background: linear-gradient(45deg, #fff, var(--accent-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 20px rgba(0, 255, 157, 0.5);
+}
+
+.contact-desc {
+  color: var(--text-gray);
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  line-height: 1.6;
+}
+
+.contact-info {
+  margin-bottom: 3rem;
+}
+
+.contact-info h3 {
+  color: var(--accent-green);
+  margin-bottom: 1.5rem;
+}
+
+.contact-info ul {
+  list-style: none;
+}
+
+.contact-info li {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.contact-info li:hover {
+  transform: translateX(10px);
+}
+
+.contact-info i {
+  color: var(--accent-green);
+}
+
+.contact-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.contact-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.contact-button.primary {
+  background: var(--accent-green);
+  color: var(--primary-dark);
+}
+
+.contact-button.secondary {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--primary-light);
+}
+
+.contact-button:hover {
+  transform: translateY(-2px);
+}
+
+.contact-image {
+  position: relative;
+  text-align: center;
+}
+
+.floating-character {
+  max-width: 100%;
+  animation: floatAnimation 6s ease-in-out infinite;
+  filter: brightness(1.2) contrast(1.1);
+}
+
+@media (max-width: 768px) {
+  .contact-section {
+    padding: 100px 1rem 2rem;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .contact-content {
+    padding: 2rem;
+    margin: 0 1rem;
+  }
+
+  .glowing-text {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .contact-desc {
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .contact-info {
+    margin-bottom: 2rem;
+  }
+
+  .contact-info li {
+    padding: 1rem;
+  }
+
+  .contact-actions {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .contact-button {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .contact-image {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-section {
+    padding: 90px 0.5rem 2rem;
+  }
+
+  .contact-content {
+    padding: 1.5rem;
+    margin: 0 0.5rem;
+  }
+
+  .glowing-text {
+    font-size: 1.8rem;
+  }
+
+  .contact-desc {
+    font-size: 0.9rem;
+  }
+
+  .contact-info h3 {
+    font-size: 1.2rem;
+  }
+
+  .contact-info li {
+    padding: 0.8rem;
+    font-size: 0.9rem;
+  }
+
+  .contact-button {
+    padding: 0.8rem 1.5rem;
+    font-size: 0.9rem;
+  }
+}
