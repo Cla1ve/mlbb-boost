@@ -73,39 +73,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // FAQ specific animations
-  const faqItems = document.querySelectorAll('.faq-item');
-  if (faqItems.length) {
-    faqItems.forEach(item => {
-      const question = item.querySelector('.faq-question');
-      if (!question) return;
-      
-      question.addEventListener('click', () => {
-        const currentlyActive = document.querySelector('.faq-item.active');
-        if (currentlyActive && currentlyActive !== item) {
-          currentlyActive.classList.remove('active');
-        }
-        item.classList.toggle('active');
-      });
-    });
-    
-    // Animate items on scroll
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, {
-      threshold: 0.1
-    });
-
-    faqItems.forEach(item => {
-      observer.observe(item);
-    });
-  }
-
   // Navigation link highlight
   const currentPath = window.location.pathname;
   document.querySelectorAll('.nav-link').forEach(link => {

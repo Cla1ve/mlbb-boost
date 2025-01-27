@@ -51,7 +51,8 @@
   margin-bottom: 1rem;
   background: linear-gradient(45deg, #fff, var(--accent-green));
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
   animation: glow 2s ease-in-out infinite;
 }
 
@@ -95,7 +96,8 @@
   margin-bottom: 0.5rem;
   background: linear-gradient(45deg, #fff, var(--accent-green));
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
 }
 
 .stat-label {
@@ -536,4 +538,16 @@
   to {
     box-shadow: 0 0 20px rgba(0, 255, 157, 0.4);
   }
+}
+
+.reviews-title {
+  font-size: 3rem;
+  text-align: center;
+  margin: 5rem 0;
+  font-weight: 700;
+  background: linear-gradient(135deg, #00FF9D 0%, #00A3FF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 20px rgba(0, 255, 157, 0.3);
 }

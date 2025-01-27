@@ -5,32 +5,17 @@ document.addEventListener('DOMContentLoaded', () => {
   // Добавляем обработчик на каждый элемент FAQ
   faqItems.forEach(item => {
     const question = item.querySelector('.faq-question');
-    const answer = item.querySelector('.faq-answer');
     
     question.addEventListener('click', () => {
       // Закрываем все остальные элементы
       faqItems.forEach(otherItem => {
         if (otherItem !== item && otherItem.classList.contains('active')) {
           otherItem.classList.remove('active');
-          otherItem.querySelector('.faq-answer').style.display = 'none';
         }
       });
       
       // Переключаем текущий элемент
-      const isActive = item.classList.toggle('active');
-      
-      // Плавно показываем/скрываем ответ
-      if (isActive) {
-        answer.style.display = 'block';
-        answer.style.animation = 'slideDown 0.3s ease forwards';
-      } else {
-        answer.style.animation = 'slideUp 0.3s ease forwards';
-        setTimeout(() => {
-          if (!item.classList.contains('active')) {
-            answer.style.display = 'none';
-          }
-        }, 300);
-      }
+      item.classList.toggle('active');
     });
   });
 
@@ -43,8 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }, {
-    threshold: 0.1,
-    rootMargin: '0px 0px -50px 0px'
+    threshold: 0.1
   });
 
   // Добавляем задержку для каждого элемента

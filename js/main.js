@@ -206,22 +206,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
   }
-
-  // FAQ Functionality
-  document.querySelectorAll('.faq-question').forEach(question => {
-    question.addEventListener('click', () => {
-      const faqItem = question.parentElement;
-      const isActive = faqItem.classList.contains('active');
-      
-      // Закрываем все остальные ответы
-      document.querySelectorAll('.faq-item').forEach(item => {
-        item.classList.remove('active');
-      });
-      
-      // Открываем/закрываем текущий ответ
-      if (!isActive) {
-        faqItem.classList.add('active');
-      }
-    });
-  });
 });

@@ -4,12 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>FAQ - MLBB Boost</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="images/logo.svg">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  
   <link rel="stylesheet" href="styles/main.css">
   <link rel="stylesheet" href="styles/animations.css">
   <link rel="stylesheet" href="styles/faq.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
+  <div class="page-transition"></div>
+  <div class="menu-overlay"></div>
+  
   <!-- Navigation -->
   <header class="site-header">
     <nav class="main-nav">
@@ -26,12 +35,14 @@
 
         <div class="nav-menu">
           <ul class="nav-list">
-            <li><a href="index.html" class="nav-link">Главная</a></li>
-            <li><a href="services.html" class="nav-link active">Услуги</a></li>
-            <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
-            <li><a href="faq.html" class="nav-link">FAQ</a></li>
+            <li><a href="index.html" class="nav-link"><i class="fas fa-home"></i> Главная</a></li>
+            <li><a href="services.html" class="nav-link"><i class="fas fa-star"></i> Услуги</a></li>
+            <li><a href="reviews.html" class="nav-link"><i class="fas fa-comments"></i> Отзывы</a></li>
+            <li><a href="faq.html" class="nav-link active"><i class="fas fa-question-circle"></i> FAQ</a></li>
+            <li class="nav-divider"></li>
             <li><a href="https://t.me/Cla1ve" target="_blank" class="nav-link cta">
-              <i class="fab fa-telegram"></i>Связаться
+              <i class="fab fa-telegram"></i>
+              <span>Связаться</span>
             </a></li>
           </ul>
         </div>
@@ -221,8 +232,7 @@
   </footer>
 
   <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-
+  <script src="js/animations.js"></script>
   <script src="js/faq.js"></script>
-  <script src="js/main.js"></script>
 </body>
 </html>
