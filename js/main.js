@@ -45,9 +45,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Добавляем кнопку CTA в конец
     const ctaLi = document.createElement('li');
     ctaLi.innerHTML = `
-      <a href="https://t.me/Cla1ve" target="_blank" class="nav-link cta">
+      <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="nav-link cta">
         <i class="fab fa-telegram"></i>
-        Связаться
+        Купить буст
       </a>
     `;
     navList.appendChild(ctaLi);
