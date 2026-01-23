@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const menuItems = [
     { text: 'Главная', link: 'index.html', icon: 'fas fa-home' },
     { text: 'Услуги', link: 'services.html', icon: 'fas fa-star' },
+    { text: 'Цены', link: 'prices.html', icon: 'fas fa-tags' },
     { text: 'Отзывы', link: 'reviews.html', icon: 'fas fa-comments' },
     { text: 'FAQ', link: 'faq.html', icon: 'fas fa-question-circle' }
   ];

@@ -88,6 +88,7 @@
           <ul class="nav-list">
             <li><a href="index.html" class="nav-link">Главная</a></li>
             <li><a href="services.html" class="nav-link active">Услуги</a></li>
+            <li><a href="prices.html" class="nav-link">Цены</a></li>
             <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
             <li><a href="faq.html" class="nav-link">FAQ</a></li>
             <li><a href="about.html" class="nav-link"><i class="fas fa-users"></i> О нас</a></li>
@@ -113,8 +114,17 @@
       <h1 class="services-title">Наши услуги</h1>
       <p class="services-subtitle">Выберите подходящий вариант буста</p>
 
+      <!-- Кнопка цен -->
+      <div class="prices-button-container">
+        <a href="prices.html" class="prices-button">
+          <i class="fas fa-tags"></i>
+          <span>Посмотреть цены</span>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+      </div>
+
       <div class="services-grid">
-        <a href="contact.html" class="service-card">
+        <a href="contact.html?type=standard" class="service-card" data-boost-type="standard">
           <div class="service-icon">
             <i class="fas fa-user-shield"></i>
           </div>
@@ -126,7 +136,19 @@
           </div>
         </a>
 
-        <a href="contact.html" class="service-card">
+        <a href="contact.html?type=role" class="service-card" data-boost-type="role">
+          <div class="service-icon">
+            <i class="fas fa-mask"></i>
+          </div>
+          <h3>Буст на 1 роли</h3>
+          <p>Игра на выбранной роли</p>
+          <div class="service-footer">
+            <span>Заказать буст</span>
+            <i class="fas fa-arrow-right"></i>
+          </div>
+        </a>
+
+        <a href="contact.html?type=party" class="service-card" data-boost-type="party">
           <div class="service-icon">
             <i class="fas fa-users"></i>
           </div>
@@ -138,7 +160,7 @@
           </div>
         </a>
 
-        <a href="contact.html" class="service-card">
+        <a href="contact.html?type=hero" class="service-card" data-boost-type="hero">
           <div class="service-icon">
             <i class="fas fa-user-ninja"></i>
           </div>
@@ -150,36 +172,12 @@
           </div>
         </a>
 
-        <a href="contact.html" class="service-card">
-          <div class="service-icon">
-            <i class="fas fa-star"></i>
-          </div>
-          <h3>Калибровка</h3>
-          <p>10 игр калибровки</p>
-          <div class="service-footer">
-            <span>Заказать буст</span>
-            <i class="fas fa-arrow-right"></i>
-          </div>
-        </a>
-
-        <a href="contact.html" class="service-card">
+        <a href="contact.html?type=rising" class="service-card" data-boost-type="rising">
           <div class="service-icon">
             <i class="fas fa-bolt"></i>
           </div>
           <h3>Rising буст</h3>
-          <p>Быстрый подъем ранга</p>
-          <div class="service-footer">
-            <span>Заказать буст</span>
-            <i class="fas fa-arrow-right"></i>
-          </div>
-        </a>
-
-        <a href="contact.html" class="service-card">
-          <div class="service-icon">
-            <i class="fas fa-calendar-alt"></i>
-          </div>
-          <h3>Сезонный буст</h3>
-          <p>Поднятие ранга в сезоне</p>
+          <p>Быстрый подъём ранга</p>
           <div class="service-footer">
             <span>Заказать буст</span>
             <i class="fas fa-arrow-right"></i>

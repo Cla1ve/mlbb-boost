@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Цены на буст - MLBB Boost</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="images/logo.svg">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="images/logo-512x512.png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  
+  <!-- Мета-теги для изображений -->
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">
+  <meta property="og:image:type" content="image/png">
+  
+  <!-- SEO мета-теги -->
+  <meta name="description" content="Актуальные цены на буст Mobile Legends. Стоимость прокачки ранга от Warrior до Mythic Glory. Цены за звезду от 50 рублей.">
+  <meta name="keywords" content="цены буст mobile legends, стоимость буста ml, прайс буст млбб, цена прокачки mobile legends">
+  
+  <!-- Schema.org разметка -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Boost MLBB",
+      "url": "https://boostmlbb.ru/prices",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://boostmlbb.ru/images/logo-512x512.png",
+        "width": "512",
+        "height": "512",
+        "contentUrl": "https://boostmlbb.ru/images/logo-512x512.png"
+      }
+    }
+  </script>
+  
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();
+    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(99684184, "init", {
+      clickmap:true,
+      trackLinks:true,
+      accurateTrackBounce:true,
+      webvisor:true,
+      ecommerce:"dataLayer"
+    });
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/99684184" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <!-- /Yandex.Metrika counter -->
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HJ7194FZC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-6HJ7194FZC');
+  </script>
+  <!-- /Google Analytics -->
+
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/prices.css">
+  <link rel="stylesheet" href="styles/legal.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="page-transition"></div>
+  
+  <!-- Navigation -->
+  <header class="site-header">
+    <nav class="main-nav">
+      <div class="nav-container">
+        <a href="index.html" class="logo-link">
+          <div class="logo">
+            <svg width="40" height="40" viewBox="0 0 40 40">
+              <path d="M20 0L40 10V30L20 40L0 30V10L20 0Z" fill="#0A1A2F"/>
+              <path d="M20 5L35 12.5V27.5L20 35L5 27.5V12.5L20 5Z" fill="#00FF9D"/>
+            </svg>
+            <span>MLBB Boost</span>
+          </div>
+        </a>
+
+        <div class="nav-menu">
+          <ul class="nav-list">
+            <li><a href="index.html" class="nav-link">Главная</a></li>
+            <li><a href="services.html" class="nav-link">Услуги</a></li>
+            <li><a href="prices.html" class="nav-link active">Цены</a></li>
+            <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
+            <li><a href="faq.html" class="nav-link">FAQ</a></li>
+            <li><a href="about.html" class="nav-link"><i class="fas fa-users"></i> О нас</a></li>
+            <li><a href="documents.html" class="nav-link"><i class="fas fa-file-alt"></i> Документы</a></li>
+            <li><a href="https://t.me/cla1ve_boost_bot" target="_blank" class="nav-link cta">
+              <i class="fab fa-telegram"></i>Купить буст
+            </a></li>
+          </ul>
+        </div>
+
+        <button class="menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main class="prices-page">
+    <div class="container">
+      <h1 class="prices-title">Цены на буст</h1>
+      <p class="prices-subtitle">Актуальные цены за 1 звезду в каждом ранге</p>
+      
+      <!-- Индикатор загрузки -->
+      <div class="loading-indicator" id="loading-indicator">
+        <i class="fas fa-spinner fa-spin"></i>
+        <span>Загрузка цен...</span>
+      </div>
+
+      <!-- Легенда типов буста -->
+      <div class="prices-legend">
+        <div class="legend-item">
+          <i class="fas fa-user-shield"></i>
+          <span>Стандарт</span>
+          <p>Обычный буст со входом</p>
+        </div>
+        <div class="legend-item">
+          <i class="fas fa-mask"></i>
+          <span>На роли</span>
+          <p>Игра на выбранной роли</p>
+        </div>
+        <div class="legend-item">
+          <i class="fas fa-user-ninja"></i>
+          <span>На герое</span>
+          <p>Буст MMR персонажа</p>
+        </div>
+        <div class="legend-item">
+          <i class="fas fa-users"></i>
+          <span>В пати</span>
+          <p>Совместная игра</p>
+        </div>
+      </div>
+
+      <!-- Таблица цен по рангам -->
+      <div class="prices-grid" id="prices-grid">
+        <!-- Цены будут загружены через JavaScript -->
+        
+        <!-- Fallback для статичного отображения -->
+        <div class="rank-price-card" data-category="warrior_elite">
+          <div class="rank-images">
+            <img src="Ранги/Warrior.webp" alt="Warrior" class="rank-img">
+            <img src="Ранги/Elite.webp" alt="Elite" class="rank-img">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Воин, Элита</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">50 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">50 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">65 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">90 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="master_gm">
+          <div class="rank-images">
+            <img src="Ранги/Master.webp" alt="Master" class="rank-img">
+            <img src="Ранги/Grandmaster.webp" alt="Grandmaster" class="rank-img">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Мастер, ГМ</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">70 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">75 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">105 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">130 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="epic">
+          <div class="rank-images">
+            <img src="Ранги/Epic.webp" alt="Epic" class="rank-img single">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Эпик</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">85 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">90 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">130 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">180 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="legend">
+          <div class="rank-images">
+            <img src="Ранги/Legend.webp" alt="Legend" class="rank-img single">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Легенда</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">90 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">95 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">140 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">200 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="mythic">
+          <div class="rank-images">
+            <img src="Ранги/Mythic.webp" alt="Mythic" class="rank-img single">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Мифик</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">100 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">110 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">140 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">240 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="honor">
+          <div class="rank-images">
+            <img src="Ранги/Mythical_Honor.webp" alt="Mythical Honor" class="rank-img single">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Мифическая Честь</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">115 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">125 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">165 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">250 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="glory">
+          <div class="rank-images">
+            <img src="Ранги/Mythical_Glory.webp" alt="Mythical Glory" class="rank-img single">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Мифическая Слава</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">130 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">140 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">190 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">310 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="immortal">
+          <div class="rank-images">
+            <img src="Ранги/Mythical_Immortal.webp" alt="Mythical Immortal" class="rank-img single">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Мифический Бессмертный</h3>
+            <div class="prices-row">
+              <div class="price-item">
+                <span class="price-label">Стандарт</span>
+                <span class="price-value" data-type="standard">160 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На роли</span>
+                <span class="price-value" data-type="role">170 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">На герое</span>
+                <span class="price-value" data-type="hero">215 ₽</span>
+              </div>
+              <div class="price-item">
+                <span class="price-label">В пати</span>
+                <span class="price-value" data-type="party">370 ₽</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Секция Rising буста -->
+      <section class="rising-section">
+        <div class="rising-header">
+          <img src="Ранги/rising.webp" alt="Rising" class="rising-icon">
+          <div class="rising-title-block">
+            <h2>Rising буст</h2>
+            <p>Цены за каждый этап</p>
+          </div>
+        </div>
+
+        <div class="rising-prices-grid">
+          <div class="rising-price-card">
+            <div class="stage-number">1</div>
+            <div class="stage-info">
+              <span class="stage-label">Этап</span>
+              <span class="stage-price">1 000 ₽</span>
+            </div>
+          </div>
+
+          <div class="rising-price-card">
+            <div class="stage-number">2</div>
+            <div class="stage-info">
+              <span class="stage-label">Этап</span>
+              <span class="stage-price">1 200 ₽</span>
+            </div>
+          </div>
+
+          <div class="rising-price-card">
+            <div class="stage-number">3</div>
+            <div class="stage-info">
+              <span class="stage-label">Этап</span>
+              <span class="stage-price">1 400 ₽</span>
+            </div>
+          </div>
+
+          <div class="rising-price-card">
+            <div class="stage-number">4</div>
+            <div class="stage-info">
+              <span class="stage-label">Этап</span>
+              <span class="stage-price">1 600 ₽</span>
+            </div>
+          </div>
+
+          <div class="rising-price-card">
+            <div class="stage-number">5</div>
+            <div class="stage-info">
+              <span class="stage-label">Этап</span>
+              <span class="stage-price">1 800 ₽</span>
+            </div>
+          </div>
+
+          <div class="rising-price-card">
+            <div class="stage-number">6</div>
+            <div class="stage-info">
+              <span class="stage-label">Этап</span>
+              <span class="stage-price">2 200 ₽</span>
+            </div>
+          </div>
+
+          <div class="rising-price-card highlight">
+            <div class="stage-number">7</div>
+            <div class="stage-info">
+              <span class="stage-label">Этап</span>
+              <span class="stage-price">3 000 ₽</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="rising-cta">
+          <p>Для уточнения стоимости и заказа Rising буста свяжитесь напрямую:</p>
+          <a href="https://t.me/Cla1ve" target="_blank" class="rising-button">
+            <i class="fab fa-telegram"></i>
+            Написать @Cla1ve
+          </a>
+        </div>
+      </section>
+
+      <!-- Дисклеймер -->
+      <div class="prices-disclaimer">
+        <i class="fas fa-info-circle"></i>
+        <p>Цены указаны за 1 звезду. Итоговая стоимость зависит от количества звёзд. 
+           Используйте <a href="contact.html">калькулятор</a> для расчёта точной стоимости.</p>
+      </div>
+
+      <!-- CTA блок -->
+      <div class="prices-cta-block">
+        <h3>Готовы заказать буст?</h3>
+        <div class="cta-buttons">
+          <a href="contact.html" class="cta-button primary">
+            <i class="fas fa-calculator"></i>
+            Рассчитать стоимость
+          </a>
+          <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="cta-button secondary">
+            <i class="fab fa-telegram"></i>
+            Заказать в боте
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer legal-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-column">
+          <h4>Реквизиты</h4>
+          <ul class="requisites-list">
+            <li><span class="label">ИП:</span> Маматисаков Э.С.</li>
+            <li><span class="label">ИНН:</span> 690606792301</li>
+            <li><span class="label">ОГРНИП:</span> 40802810500009266500</li>
+            <li><span class="label">Адрес:</span> г. Москва</li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Контакты</h4>
+          <ul>
+            <li><a href="mailto:cla1veisdetta@gmail.com"><i class="fas fa-envelope"></i> cla1veisdetta@gmail.com</a></li>
+            <li><a href="tel:+79332032910"><i class="fas fa-phone"></i> +7 (933) 203-29-10</a></li>
+            <li><a href="https://t.me/Cla1ve" target="_blank"><i class="fab fa-telegram"></i> @Cla1ve</a></li>
+            <li><a href="https://t.me/cla1ve_boost_bot" target="_blank"><i class="fas fa-robot"></i> Telegram-бот</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Документы</h4>
+          <ul>
+            <li><a href="offer.html">Публичная оферта</a></li>
+            <li><a href="privacy.html">Политика конфиденциальности</a></li>
+            <li><a href="terms.html">Условия использования</a></li>
+            <li><a href="refund.html">Политика возврата</a></li>
+            <li><a href="disclaimer.html">Дисклеймер</a></li>
+            <li><a href="cookies.html">Политика cookies</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column">
+          <h4>Безопасность</h4>
+          <div class="payment-icons">
+            <span class="payment-icon">СБП</span>
+            <span class="payment-icon">VISA</span>
+            <span class="payment-icon">MC</span>
+            <span class="payment-icon">МИР</span>
+          </div>
+          <div class="ssl-badge">
+            <i class="fas fa-lock"></i> Защищено SSL
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-divider"></div>
+
+      <div class="footer-bottom-content">
+        <p>&copy; 2025 MLBB Boost. Все права защищены.</p>
+        <div class="footer-bottom-links">
+          <a href="sitemap-page.html">Карта сайта</a>
+          <a href="security.html">Безопасность</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/animations.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/prices.js"></script>
+  <script src="js/consent.js"></script>
+</body>
+</html>

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Контакты - MLBB Boost</title>
+  <title>Рассчитать стоимость буста - MLBB Boost</title>
   
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="images/logo.svg">
@@ -11,27 +11,8 @@
   <link rel="icon" type="image/png" sizes="512x512" href="images/logo-512x512.png">
   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
   
-  <!-- Мета-теги для изображений -->
-  <meta property="og:image:width" content="512">
-  <meta property="og:image:height" content="512">
-  <meta property="og:image:type" content="image/png">
-  
-  <!-- Schema.org разметка -->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Boost MLBB",
-      "url": "https://boostmlbb.ru/contact",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://boostmlbb.ru/images/logo-512x512.png",
-        "width": "512",
-        "height": "512",
-        "contentUrl": "https://boostmlbb.ru/images/logo-512x512.png"
-      }
-    }
-  </script>
+  <!-- SEO мета-теги -->
+  <meta name="description" content="Калькулятор стоимости буста Mobile Legends. Рассчитайте точную цену прокачки ранга онлайн. Скидка 10% на первый заказ!">
   
   <!-- Yandex.Metrika counter -->
   <script type="text/javascript">
@@ -50,7 +31,6 @@
     });
   </script>
   <noscript><div><img src="https://mc.yandex.ru/watch/99684184" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-  <!-- /Yandex.Metrika counter -->
 
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HJ7194FZC"></script>
@@ -60,7 +40,6 @@
     gtag('js', new Date());
     gtag('config', 'G-6HJ7194FZC');
   </script>
-  <!-- /Google Analytics -->
   
   <link rel="stylesheet" href="styles/main.css">
   <link rel="stylesheet" href="styles/animations.css">
@@ -71,7 +50,7 @@
 <body>
   <div class="page-transition"></div>
   
-   <!-- Navigation -->
+  <!-- Navigation -->
   <header class="site-header">
     <nav class="main-nav">
       <div class="nav-container">
@@ -89,6 +68,7 @@
           <ul class="nav-list">
             <li><a href="index.html" class="nav-link">Главная</a></li>
             <li><a href="services.html" class="nav-link">Услуги</a></li>
+            <li><a href="prices.html" class="nav-link">Цены</a></li>
             <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
             <li><a href="faq.html" class="nav-link">FAQ</a></li>
             <li><a href="about.html" class="nav-link"><i class="fas fa-users"></i> О нас</a></li>
@@ -108,48 +88,321 @@
     </nav>
   </header>
 
-
-
   <main class="contact-page">
     <section class="contact-section">
       <div class="container">
-        <div class="contact-grid">
-          <div class="contact-content">
-            <h1 class="glowing-text">Купить буст</h1>
-            <p class="contact-desc">Оформите заказ буста через наш Telegram бот - быстро, удобно и безопасно</p>
+        <h1 class="page-title">Рассчитать стоимость</h1>
+        <p class="page-subtitle">Выберите тип буста и укажите ранги для расчёта</p>
+
+        <!-- Telegram Channels -->
+        <div class="telegram-channels">
+          <a href="https://t.me/Cla1ve_boost_mlbb" target="_blank" class="channel-link main">
+            <i class="fab fa-telegram"></i>
+            <span>Основной канал</span>
+          </a>
+          <a href="https://t.me/cla1ve_boost" target="_blank" class="channel-link reviews">
+            <i class="fas fa-star"></i>
+            <span>350+ отзывов</span>
+          </a>
+        </div>
+
+        <!-- Выбор типа буста -->
+        <div class="boost-type-selector">
+          <button class="boost-type-btn active" data-type="standard">
+            <i class="fas fa-user-shield"></i>
+            <span>Обычный</span>
+          </button>
+          <button class="boost-type-btn" data-type="role">
+            <i class="fas fa-mask"></i>
+            <span>На роли</span>
+          </button>
+          <button class="boost-type-btn" data-type="party">
+            <i class="fas fa-users"></i>
+            <span>В пати</span>
+          </button>
+          <button class="boost-type-btn" data-type="hero">
+            <i class="fas fa-user-ninja"></i>
+            <span>MMR</span>
+          </button>
+          <button class="boost-type-btn rising" data-type="rising">
+            <i class="fas fa-bolt"></i>
+            <span>Rising</span>
+          </button>
+        </div>
+
+        <!-- Описание типа буста -->
+        <div class="boost-type-description" id="boost-description">
+          <div class="description-content" data-type="standard">
+            <h3><i class="fas fa-user-shield"></i> Обычный буст</h3>
+            <p>Бустер играет со входом в ваш аккаунт. Самый быстрый и эффективный способ поднять ранг.</p>
+          </div>
+          <div class="description-content hidden" data-type="role">
+            <h3><i class="fas fa-mask"></i> Буст на роли</h3>
+            <p>Бустер играет только на выбранной вами роли (танк, маг, стрелок и т.д.).</p>
+          </div>
+          <div class="description-content hidden" data-type="party">
+            <h3><i class="fas fa-users"></i> Совместный буст</h3>
+            <p>Играете вместе с бустером в одной команде. Вы учитесь и поднимаете ранг одновременно!</p>
+          </div>
+          <div class="description-content hidden" data-type="hero">
+            <h3><i class="fas fa-user-ninja"></i> Буст MMR</h3>
+            <p>Прокачка рейтинга на конкретном герое для топа сервера или страны.</p>
+          </div>
+          <div class="description-content hidden" data-type="rising">
+            <h3><i class="fas fa-bolt"></i> Rising буст</h3>
+            <p>Прохождение Rising mode с гарантией результата. Цена зависит от этапа.</p>
+          </div>
+        </div>
+
+        <!-- Контейнер калькулятора -->
+        <div class="calculator-container" id="calculator-container">
+          <!-- Калькулятор для обычных типов -->
+          <div class="calculator-form" id="calculator-form">
             
-            <div class="contact-info">
-              <h3>Преимущества бота:</h3>
-              <ul>
-                <li>
-                  <i class="fas fa-check"></i>
-                  <span>Мгновенное оформление заказа 24/7</span>
-                </li>
-                <li>
-                  <i class="fas fa-check"></i>
-                  <span>Автоматический расчет стоимости</span>
-                </li>
-                <li>
-                  <i class="fas fa-check"></i>
-                  <span>Отслеживание статуса заказа</span>
-                </li>
-              </ul>
+            <!-- Блок выбора рангов -->
+            <div class="rank-selection-block">
+              <!-- Текущий ранг -->
+              <div class="rank-selector-card">
+                <div class="rank-image-preview" id="rank-image-from">
+                  <div class="rank-placeholder"><i class="fas fa-question"></i></div>
+                </div>
+                <div class="rank-selector-content">
+                  <div class="form-group">
+                    <label for="rank-from">
+                      <i class="fas fa-arrow-up"></i> Текущий ранг
+                    </label>
+                    <select id="rank-from" class="rank-select">
+                      <option value="" disabled selected>Выберите ранг</option>
+                    </select>
+                  </div>
+                  <div class="form-group stars-group" id="stars-container-from">
+                    <label for="stars-from">
+                      <i class="fas fa-star"></i> Звёзды
+                    </label>
+                    <select id="stars-from" class="stars-select">
+                      <option value="1">1 звезда</option>
+                      <option value="2">2 звезды</option>
+                      <option value="3">3 звезды</option>
+                      <option value="4">4 звезды</option>
+                      <option value="5">5 звёзд</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Стрелка -->
+              <div class="rank-arrow">
+                <i class="fas fa-arrow-right"></i>
+              </div>
+
+              <!-- Желаемый ранг -->
+              <div class="rank-selector-card target">
+                <div class="rank-image-preview" id="rank-image-to">
+                  <div class="rank-placeholder"><i class="fas fa-trophy"></i></div>
+                </div>
+                <div class="rank-selector-content">
+                  <div class="form-group">
+                    <label for="rank-to">
+                      <i class="fas fa-trophy"></i> Желаемый ранг
+                    </label>
+                    <select id="rank-to" class="rank-select">
+                      <option value="" disabled selected>Выберите ранг</option>
+                    </select>
+                  </div>
+                  <div class="form-group stars-group" id="stars-container-to">
+                    <label for="stars-to">
+                      <i class="fas fa-star"></i> Звёзды
+                    </label>
+                    <select id="stars-to" class="stars-select">
+                      <option value="1">1 звезда</option>
+                      <option value="2">2 звезды</option>
+                      <option value="3">3 звезды</option>
+                      <option value="4">4 звезды</option>
+                      <option value="5" selected>5 звёзд</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
             </div>
 
-            <div class="contact-actions">
-              <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="contact-button primary">
+            <!-- Чекбокс слабый аккаунт -->
+            <div class="weak-account-option">
+              <label class="checkbox-container">
+                <input type="checkbox" id="weak-account">
+                <span class="checkmark"></span>
+                <span class="checkbox-label">
+                  <i class="fas fa-exclamation-triangle"></i>
+                  Слабый аккаунт (+10%)
+                </span>
+              </label>
+              <p class="weak-account-hint">Отметьте, если на аккаунте мало героев или слабые эмблемы</p>
+            </div>
+
+            <!-- Минимум звёзд -->
+            <div class="min-stars-notice">
+              <i class="fas fa-info-circle"></i>
+              <span>Минимальный заказ — 3 звезды</span>
+            </div>
+
+            <!-- Кнопка расчёта -->
+            <button type="button" class="calculate-btn" id="calculate-btn">
+              <i class="fas fa-calculator"></i>
+              Рассчитать стоимость
+            </button>
+          </div>
+
+          <!-- Rising секция -->
+          <div class="rising-calculator hidden" id="rising-calculator">
+            <div class="rising-info">
+              <img src="Ранги/rising.webp" alt="Rising" class="rising-img">
+              <div class="rising-text">
+                <h3>Rising буст</h3>
+                <p>Выберите этап для просмотра стоимости</p>
+              </div>
+            </div>
+
+            <div class="rising-stages">
+              <div class="rising-stage" data-stage="1">
+                <div class="stage-num">1</div>
+                <div class="stage-details">
+                  <span class="stage-title">Этап 1</span>
+                  <span class="stage-cost">1 000 ₽</span>
+                </div>
+              </div>
+              <div class="rising-stage" data-stage="2">
+                <div class="stage-num">2</div>
+                <div class="stage-details">
+                  <span class="stage-title">Этап 2</span>
+                  <span class="stage-cost">1 200 ₽</span>
+                </div>
+              </div>
+              <div class="rising-stage" data-stage="3">
+                <div class="stage-num">3</div>
+                <div class="stage-details">
+                  <span class="stage-title">Этап 3</span>
+                  <span class="stage-cost">1 400 ₽</span>
+                </div>
+              </div>
+              <div class="rising-stage" data-stage="4">
+                <div class="stage-num">4</div>
+                <div class="stage-details">
+                  <span class="stage-title">Этап 4</span>
+                  <span class="stage-cost">1 600 ₽</span>
+                </div>
+              </div>
+              <div class="rising-stage" data-stage="5">
+                <div class="stage-num">5</div>
+                <div class="stage-details">
+                  <span class="stage-title">Этап 5</span>
+                  <span class="stage-cost">1 800 ₽</span>
+                </div>
+              </div>
+              <div class="rising-stage" data-stage="6">
+                <div class="stage-num">6</div>
+                <div class="stage-details">
+                  <span class="stage-title">Этап 6</span>
+                  <span class="stage-cost">2 200 ₽</span>
+                </div>
+              </div>
+              <div class="rising-stage highlight" data-stage="7">
+                <div class="stage-num">7</div>
+                <div class="stage-details">
+                  <span class="stage-title">Этап 7</span>
+                  <span class="stage-cost">3 000 ₽</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="rising-cta">
+              <p>Для заказа Rising буста напишите напрямую:</p>
+              <a href="https://t.me/Cla1ve" target="_blank" class="rising-order-btn">
                 <i class="fab fa-telegram"></i>
-                Купить буст в боте
-              </a>
-              <a href="https://t.me/Cla1ve_boost_mlbb" target="_blank" class="contact-button secondary">
-                <i class="fab fa-telegram"></i>
-                Отзывы клиентов
+                Написать @Cla1ve
               </a>
             </div>
           </div>
+        </div>
 
-          <div class="contact-image">
-            <img src="pngwing.com (4).png" alt="Character" class="floating-character">
+        <!-- Результат расчёта -->
+        <div class="calculation-result hidden" id="calculation-result">
+          <div class="result-header">
+            <i class="fas fa-receipt"></i>
+            <h3>Стоимость буста</h3>
+          </div>
+          
+          <div class="result-summary">
+            <div class="result-row">
+              <span class="result-label">Тип буста:</span>
+              <span class="result-value" id="result-type">Обычный</span>
+            </div>
+            <div class="result-row">
+              <span class="result-label">Маршрут:</span>
+              <span class="result-value" id="result-route">-</span>
+            </div>
+            <div class="result-row">
+              <span class="result-label"><i class="fas fa-clock"></i> Срок:</span>
+              <span class="result-value" id="result-time">уточняется</span>
+            </div>
+            <div class="result-row">
+              <span class="result-label"><i class="fas fa-trophy"></i> Винрейт:</span>
+              <span class="result-value highlight-green" id="result-winrate">90%+</span>
+            </div>
+          </div>
+
+          <div class="price-display">
+            <div class="original-price">
+              <span class="price-label">Обычная цена:</span>
+              <span class="price-value strikethrough" id="original-price">0 ₽</span>
+            </div>
+            <div class="discounted-price">
+              <span class="price-label">Ваша цена:</span>
+              <span class="price-value highlight" id="discounted-price">0 ₽</span>
+            </div>
+          </div>
+
+          <div class="discount-badge">
+            <i class="fas fa-gift"></i>
+            <span>Скидка 10% на первую покупку!</span>
+          </div>
+
+          <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="order-btn" id="order-btn">
+            <i class="fab fa-telegram"></i>
+            Оформить заказ
+          </a>
+          
+          <p class="order-hint">Нажмите, чтобы перейти в бот и оформить заказ</p>
+        </div>
+
+        <!-- Ошибка расчёта -->
+        <div class="calculation-error hidden" id="calculation-error">
+          <i class="fas fa-exclamation-circle"></i>
+          <p id="error-message">Произошла ошибка при расчёте</p>
+          <button class="retry-btn" id="retry-btn">
+            <i class="fas fa-redo"></i>
+            Попробовать снова
+          </button>
+        </div>
+
+        <!-- Преимущества -->
+        <div class="advantages-block">
+          <h3>Почему выбирают нас</h3>
+          <div class="advantages-grid">
+            <div class="advantage-item">
+              <i class="fas fa-shield-alt"></i>
+              <span>100% безопасность</span>
+            </div>
+            <div class="advantage-item">
+              <i class="fas fa-trophy"></i>
+              <span>PRO игроки</span>
+            </div>
+            <div class="advantage-item">
+              <i class="fas fa-clock"></i>
+              <span>24/7 поддержка</span>
+            </div>
+            <div class="advantage-item">
+              <i class="fas fa-star"></i>
+              <span>Винрейт 90%+</span>
+            </div>
           </div>
         </div>
       </div>
@@ -181,14 +434,15 @@
         </div>
 
         <div class="footer-column">
-          <h4>Документы</h4>
+          <h4>Наши каналы</h4>
+          <ul>
+            <li><a href="https://t.me/Cla1ve_boost_mlbb" target="_blank"><i class="fab fa-telegram"></i> Основной канал</a></li>
+            <li><a href="https://t.me/cla1ve_boost" target="_blank"><i class="fas fa-star"></i> Отзывы (350+)</a></li>
+          </ul>
+          <h4 style="margin-top: 1rem;">Документы</h4>
           <ul>
             <li><a href="offer.html">Публичная оферта</a></li>
             <li><a href="privacy.html">Политика конфиденциальности</a></li>
-            <li><a href="terms.html">Условия использования</a></li>
-            <li><a href="refund.html">Политика возврата</a></li>
-            <li><a href="disclaimer.html">Дисклеймер</a></li>
-            <li><a href="cookies.html">Политика cookies</a></li>
           </ul>
         </div>
 
@@ -220,6 +474,7 @@
 
   <script src="js/animations.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/calculator.js"></script>
   <script src="js/consent.js"></script>
 </body>
 </html>
