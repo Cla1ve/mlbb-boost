@@ -1,9 +1,23 @@
 /**
- * MLBB Boost - Calculator Module v3.1
- * С ручным вводом звёзд для мифических рангов
+ * MLBB Boost - Calculator Module v3.2
+ * С поддержкой HTTPS для GitHub Pages
  */
 
-const CALCULATE_API_URL = 'http://46.149.68.193:8001/calculate';
+// Базовые URL API
+const API_BASE_HTTP = 'http://46.149.68.193:8001';
+const API_BASE_HTTPS = 'https://46.149.68.193:8001'; // После настройки HTTPS
+
+// Определяем URL API в зависимости от протокола
+const getApiUrl = () => {
+  // Если сайт на HTTPS (GitHub Pages), используем HTTPS версию API
+  if (window.location.protocol === 'https:') {
+    return `${API_BASE_HTTPS}/calculate`;
+  }
+  // Для локальной разработки используем HTTP
+  return `${API_BASE_HTTP}/calculate`;
+};
+
+const CALCULATE_API_URL = getApiUrl();
 const DISCOUNT_PERCENT = 10;
 const MIN_STARS_ORDER = 3;
 
@@ -17,7 +31,7 @@ const RANK_STRUCTURE = {
   legend: { name: 'Легенда', divisions: 5, starsPerDiv: 5, order: 5, img: 'Ранги/Legend.webp' }
 };
 
-// Мифические ранги
+// Мифические ранги (звёзды вместо дивизионов)
 const MYTHIC_RANKS = {
   mythic: { name: 'Мифик', from: 1, to: 24, order: 6, img: 'Ранги/Mythic.webp' },
   honor: { name: 'Мифическая честь', from: 25, to: 49, order: 7, img: 'Ранги/Mythical_Honor.webp' },
@@ -81,15 +95,19 @@ function initCalculator() {
   }
 
   // Валидация при изменении звёзд
-  ['stars-from', 'stars-to'].forEach(id => {
-    const el = document.getElementById(id);
-    if (el) {
-      el.addEventListener('change', () => {
-        if (id === 'stars-from') validateAndFilterTargetRanks();
-      });
-      el.addEventListener('input', () => {
-        if (id === 'stars-from') validateAndFilterTargetRanks();
-      });
+  document.addEventListener('change', (e) => {
+    if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
+      if (e.target.id === 'stars-from') {
+        validateAndFilterTargetRanks();
+      }
+    }
+  });
+
+  document.addEventListener('input', (e) => {
+    if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
+      if (e.target.id === 'stars-from') {
+        validateAndFilterTargetRanks();
+      }
     }
   });
 
@@ -268,7 +286,9 @@ function validateAndFilterTargetRanks() {
 function getStarsValue(type) {
   const starsEl = document.getElementById(`stars-${type}`);
   if (!starsEl) return 1;
-  return parseInt(starsEl.value) || 1;
+  const value = starsEl.value;
+  if (!value || value === '') return 1;
+  return parseInt(value) || 1;
 }
 
 /**
@@ -460,8 +480,13 @@ async function calculatePrice() {
         rank_to: rankTo,
         boost_type: BOOST_TYPES[currentBoostType].apiType,
         weak_account_markup: isWeakAccount ? 10 : 0
-      })
+      }),
+      mode: 'cors'
     });
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
 
     const result = await response.json();
 
@@ -480,7 +505,21 @@ async function calculatePrice() {
     }
   } catch (error) {
     console.error('Ошибка расчёта:', error);
-    showError('Ошибка соединения с сервером. Попробуйте позже.');
+    
+    let errorMessage = 'Ошибка соединения с сервером. ';
+    
+    if (error.message && error.message.includes('Failed to fetch')) {
+      if (window.location.protocol === 'https:') {
+        errorMessage += 'Проблема с HTTPS соединением. ';
+        errorMessage += 'Если HTTPS ещё не настроен на сервере, используйте локальную версию сайта или закажите буст через Telegram-бота.';
+      } else {
+        errorMessage += 'Проверьте подключение к интернету или попробуйте позже.';
+      }
+    } else {
+      errorMessage += 'Попробуйте позже или закажите буст через Telegram-бота.';
+    }
+    
+    showError(errorMessage);
   } finally {
     calculateBtn.innerHTML = originalText;
     calculateBtn.disabled = false;
