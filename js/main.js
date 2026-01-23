@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
     { text: 'Услуги', link: 'services.html', icon: 'fas fa-star' },
     { text: 'Цены', link: 'prices.html', icon: 'fas fa-tags' },
     { text: 'Отзывы', link: 'reviews.html', icon: 'fas fa-comments' },
-    { text: 'FAQ', link: 'faq.html', icon: 'fas fa-question-circle' }
+    { text: 'FAQ', link: 'faq.html', icon: 'fas fa-question-circle' },
+    { text: 'О нас', link: 'about.html', icon: 'fas fa-users' }
   ];
 
   const navList = document.querySelector('.nav-list');
@@ -24,7 +25,16 @@ document.addEventListener('DOMContentLoaded', () => {
     // Добавляем новые пункты меню
     menuItems.forEach((item, index) => {
       const li = document.createElement('li');
-      const isActive = window.location.pathname.endsWith(item.link);
+      const currentPath = window.location.pathname;
+      const currentPage = currentPath.split('/').pop() || 'index.html';
+      
+      // Определяем активную страницу
+      let isActive = false;
+      if (item.link === 'index.html') {
+        isActive = currentPage === '' || currentPage === 'index.html' || currentPath === '/' || currentPath.endsWith('/');
+      } else {
+        isActive = currentPage === item.link || currentPath.endsWith('/' + item.link);
+      }
       
       li.innerHTML = `
         <a href="${item.link}" class="nav-link ${isActive ? 'active' : ''}">
@@ -34,13 +44,6 @@ document.addEventListener('DOMContentLoaded', () => {
       `;
       
       navList.appendChild(li);
-      
-      // Добавляем разделитель после каждого пункта, кроме последнего
-      if (index < menuItems.length - 1) {
-        const divider = document.createElement('div');
-        divider.className = 'nav-divider';
-        navList.appendChild(divider);
-      }
     });
 
     // Добавляем кнопку CTA в конец

@@ -1,108 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Основные страницы -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Главная страница -->
   <url>
     <loc>https://boostmlbb.ru/</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://boostmlbb.ru/index.html</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
+  
+  <!-- Основные страницы услуг -->
   <url>
     <loc>https://boostmlbb.ru/services.html</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+  
   <url>
     <loc>https://boostmlbb.ru/prices.html</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+  
+  <url>
+    <loc>https://boostmlbb.ru/contact.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Страницы доверия -->
   <url>
     <loc>https://boostmlbb.ru/reviews.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://boostmlbb.ru/faq.html</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  
   <url>
     <loc>https://boostmlbb.ru/about.html</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://boostmlbb.ru/contact.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://boostmlbb.ru/faq.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   
   <!-- Юридические документы -->
   <url>
-    <loc>https://boostmlbb.ru/offer.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <loc>https://boostmlbb.ru/documents.html</loc>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
+  
+  <url>
+    <loc>https://boostmlbb.ru/offer.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
   <url>
     <loc>https://boostmlbb.ru/privacy.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
+  
   <url>
     <loc>https://boostmlbb.ru/terms.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
+  
   <url>
     <loc>https://boostmlbb.ru/refund.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
+  
   <url>
     <loc>https://boostmlbb.ru/disclaimer.html</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://boostmlbb.ru/security.html</loc>
-    <lastmod>2026-01-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://boostmlbb.ru/cookies.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  
   <url>
-    <loc>https://boostmlbb.ru/sitemap-page.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <loc>https://boostmlbb.ru/security.html</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://boostmlbb.ru/cookies.html</loc>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
+  
   <url>
-    <loc>https://boostmlbb.ru/documents.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <loc>https://boostmlbb.ru/sitemap-page.html</loc>
+    <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.3</priority>
   </url>
 </urlset>

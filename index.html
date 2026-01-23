@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -14,14 +15,17 @@
   <meta property="og:description" content="Безопасный буст Mobile Legends от PRO игроков с турниров MCC ✓ Винрейт 90%+ ✓ Быстрая прокачка ML от Warrior до Mythic Glory ✓ Гарантия безопасности ✓ Круглосуточная поддержка ✓ Низкие цены от 100₽">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://boostmlbb.ru/">
-  <meta property="og:image" content="https://boostmlbb.ru/images/og-image.jpg">
+  <meta property="og:image" content="https://boostmlbb.ru/images/logo-512x512.png">
   <meta property="og:site_name" content="Boost MLBB">
   
   <!-- Twitter Card теги -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Профессиональный буст Mobile Legends от PRO игроков | Цены от 100₽">
   <meta name="twitter:description" content="Безопасный буст Mobile Legends от PRO игроков с турниров MCC ✓ Винрейт 90%+ ✓ Быстрая прокачка ML от Warrior до Mythic Glory ✓ Гарантия результата">
-  <meta name="twitter:image" content="https://boostmlbb.ru/images/twitter-card.jpg">
+  <meta name="twitter:image" content="https://boostmlbb.ru/images/logo-512x512.png">
+  
+  <!-- Google Search Console верификация (ЗАМЕНИТЕ НА ВАШ КОД!) -->
+  <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE_HERE"> -->
   
   <!-- Дополнительные мета-теги -->
   <meta name="author" content="Boost MLBB - Профессиональный буст Mobile Legends">
@@ -64,7 +68,9 @@
       trackLinks:true,
       accurateTrackBounce:true,
       webvisor:true,
-      ecommerce:"dataLayer"
+      ecommerce:"dataLayer",
+      trackHash:false,
+      defer:true
     });
   </script>
   <noscript><div><img src="https://mc.yandex.ru/watch/99684184" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
@@ -105,13 +111,12 @@
 
         <div class="nav-menu">
           <ul class="nav-list">
-            <li><a href="" class="nav-link active">Главная</a></li>
+            <li><a href="index.html" class="nav-link active">Главная</a></li>
             <li><a href="services.html" class="nav-link">Услуги</a></li>
             <li><a href="prices.html" class="nav-link">Цены</a></li>
             <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
             <li><a href="faq.html" class="nav-link">FAQ</a></li>
             <li><a href="about.html" class="nav-link"><i class="fas fa-users"></i> О нас</a></li>
-            <li><a href="documents.html" class="nav-link"><i class="fas fa-file-alt"></i> Документы</a></li>
             <li><a href="https://t.me/cla1ve_boost_bot" target="_blank" class="nav-link cta">
               <i class="fab fa-telegram"></i>Купить буст
             </a></li>
@@ -486,6 +491,7 @@
         <p>&copy; 2025 MLBB Boost. Все права защищены.</p>
         <div class="footer-bottom-links">
           <a href="sitemap-page.html">Карта сайта</a>
+          <a href="documents.html">Документы</a>
           <a href="security.html">Безопасность</a>
         </div>
       </div>
@@ -499,13 +505,24 @@
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "Boost MLBB",
+      "name": "Boost MLBB - Профессиональный буст Mobile Legends",
+      "alternateName": ["MLBB Boost", "Буст Mobile Legends", "Прокачка ML"],
       "url": "https://boostmlbb.ru/",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://boostmlbb.ru/search?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
+      "description": "Профессиональный буст Mobile Legends от PRO игроков с турниров MCC. Безопасная прокачка ML аккаунта с гарантией результата.",
+      "inLanguage": "ru-RU"
+    }
+  </script>
+  
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Главная",
+        "item": "https://boostmlbb.ru/"
+      }]
     }
   </script>
   
@@ -514,28 +531,49 @@
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Boost MLBB",
+      "legalName": "ИП Маматисаков Э.С.",
       "url": "https://boostmlbb.ru",
       "logo": {
         "@type": "ImageObject",
         "url": "https://boostmlbb.ru/images/logo-512x512.png",
         "width": "512",
-        "height": "512",
-        "contentUrl": "https://boostmlbb.ru/images/logo-512x512.png"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://boostmlbb.ru/images/logo-512x512.png",
-        "width": "512",
         "height": "512"
+      },
+      "image": "https://boostmlbb.ru/images/logo-512x512.png",
+      "description": "Профессиональный буст Mobile Legends Bang Bang от PRO игроков с турниров MCC. Безопасная прокачка аккаунта с гарантией результата.",
+      "email": "cla1veisdetta@gmail.com",
+      "telephone": "+7-933-203-29-10",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Москва",
+        "addressCountry": "RU"
       },
       "sameAs": [
         "https://t.me/Cla1ve_boost_mlbb",
-        "https://t.me/cla1ve_boost_bot"
+        "https://t.me/cla1ve_boost_bot",
+        "https://t.me/cla1ve_boost",
+        "https://t.me/Cla1ve"
       ],
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "customer service",
-        "availableLanguage": ["Russian"]
+        "telephone": "+7-933-203-29-10",
+        "email": "cla1veisdetta@gmail.com",
+        "availableLanguage": ["Russian"],
+        "areaServed": "RU",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "350",
+        "bestRating": "5",
+        "worstRating": "1"
       }
     }
   </script>

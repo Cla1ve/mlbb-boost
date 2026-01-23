@@ -1,51 +1,71 @@
+# robots.txt for boostmlbb.ru
+# Last updated: 2026-01-24
+
+# Default rules for all crawlers
 User-agent: *
 Allow: /
-Sitemap: https://boostmlbb.ru/sitemap.xml
+Allow: /index.html
+Allow: /services.html
+Allow: /prices.html
+Allow: /reviews.html
+Allow: /faq.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /offer.html
+Allow: /privacy.html
+Allow: /terms.html
+Allow: /refund.html
+Allow: /disclaimer.html
+Allow: /security.html
+Allow: /cookies.html
+Allow: /documents.html
+Allow: /sitemap-page.html
 
-# Запрещаем индексацию служебных файлов и директорий
-Disallow: /js/
-Disallow: /css/
-Disallow: /images/raw/
+# Allow CSS and JS for proper rendering
+Allow: /styles/
+Allow: /js/
+Allow: /images/
+
+# Block admin and system directories
 Disallow: /admin/
 Disallow: /cgi-bin/
 Disallow: /tmp/
-Disallow: /*.json$
-Disallow: /*.xml$
-Disallow: /*.txt$
+Disallow: /.git/
+Disallow: /.env
+
+# Block query strings to prevent duplicate content
 Disallow: /*?*
-Disallow: /*&*
-Disallow: /*.php$
-Disallow: /*.log$
-Disallow: /*.sql$
-Disallow: /*.ini$
-Disallow: /*.env$
 
-# Разрешаем основные страницы
-Allow: /index.html
-Allow: /services.html
-Allow: /reviews.html
-Allow: /faq.html
-Allow: /contact.html
-Allow: /images/*.jpg$
-Allow: /images/*.png$
-Allow: /images/*.webp$
-Allow: /styles/*.css$
+# Allow sitemap explicitly
+Allow: /sitemap.xml
 
-# Правила для Яндекс.Бота
+# Sitemap location
+Sitemap: https://boostmlbb.ru/sitemap.xml
+
+# Google-specific rules
+User-agent: Googlebot
+Allow: /
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.webp$
+Allow: /*.svg$
+Crawl-delay: 1
+
+# Googlebot-Image
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.webp$
+
+# Yandex-specific rules
 User-agent: Yandex
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
 Clean-param: yclid&_openstat
 Clean-param: gclid&fbclid
 
-# Правила для Google
-User-agent: Googlebot
-Allow: /
-Allow: /*.css
-Allow: /*.js
-
-# Хост
+# Host directive (Yandex)
 Host: https://boostmlbb.ru
-
-# Crawl-delay
-Crawl-delay: 1 
