@@ -89,319 +89,566 @@
   </header>
 
   <main class="contact-page">
+    <!-- Animated Background Particles -->
+    <div class="particles-container" id="particles-bg">
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+    </div>
+
     <section class="contact-section">
       <div class="container">
-        <h1 class="page-title">Рассчитать стоимость</h1>
-        <p class="page-subtitle">Выберите тип буста и укажите ранги для расчёта</p>
+        <!-- Hero Header -->
+        <div class="calculator-hero">
+          <div class="hero-badge">
+            <i class="fas fa-calculator"></i>
+            <span>Калькулятор</span>
+          </div>
+          <h1 class="page-title">
+            <span class="title-line">Рассчитать</span>
+            <span class="title-line accent">стоимость буста</span>
+          </h1>
+          <p class="page-subtitle">Выберите тип буста и укажите ранги для мгновенного расчёта</p>
+        </div>
 
-        <!-- Telegram Channels -->
+        <!-- Telegram Channels - Redesigned -->
         <div class="telegram-channels">
           <a href="https://t.me/Cla1ve_boost_mlbb" target="_blank" class="channel-link main">
-            <i class="fab fa-telegram"></i>
-            <span>Основной канал</span>
+            <div class="channel-icon">
+              <i class="fab fa-telegram"></i>
+            </div>
+            <div class="channel-info">
+              <span class="channel-title">Основной канал</span>
+              <span class="channel-desc">Новости и акции</span>
+            </div>
+            <i class="fas fa-arrow-right channel-arrow"></i>
           </a>
           <a href="https://t.me/cla1ve_boost" target="_blank" class="channel-link reviews">
-            <i class="fas fa-star"></i>
-            <span>350+ отзывов</span>
+            <div class="channel-icon">
+              <i class="fas fa-star"></i>
+            </div>
+            <div class="channel-info">
+              <span class="channel-title">350+ отзывов</span>
+              <span class="channel-desc">Реальные клиенты</span>
+            </div>
+            <i class="fas fa-arrow-right channel-arrow"></i>
           </a>
         </div>
 
-        <!-- Выбор типа буста -->
-        <div class="boost-type-selector">
-          <button class="boost-type-btn active" data-type="standard">
-            <i class="fas fa-user-shield"></i>
-            <span>Обычный</span>
-          </button>
-          <button class="boost-type-btn" data-type="role">
-            <i class="fas fa-mask"></i>
-            <span>На роли</span>
-          </button>
-          <button class="boost-type-btn" data-type="party">
-            <i class="fas fa-users"></i>
-            <span>В пати</span>
-          </button>
-          <button class="boost-type-btn" data-type="hero">
-            <i class="fas fa-user-ninja"></i>
-            <span>MMR</span>
-          </button>
-          <button class="boost-type-btn rising" data-type="rising">
-            <i class="fas fa-bolt"></i>
-            <span>Rising</span>
-          </button>
+        <!-- Boost Type Selector - Premium Tabs -->
+        <div class="boost-type-wrapper">
+          <div class="boost-type-selector">
+            <div class="selector-glow"></div>
+            <button class="boost-type-btn active" data-type="standard">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-user-shield"></i>
+              </div>
+              <span class="btn-label">Обычный</span>
+              <span class="btn-tag">Популярный</span>
+            </button>
+            <button class="boost-type-btn" data-type="role">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-mask"></i>
+              </div>
+              <span class="btn-label">На роли</span>
+            </button>
+            <button class="boost-type-btn" data-type="party">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-users"></i>
+              </div>
+              <span class="btn-label">В пати</span>
+              <span class="btn-tag duo">Duo</span>
+            </button>
+            <button class="boost-type-btn" data-type="hero">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-user-ninja"></i>
+              </div>
+              <span class="btn-label">MMR</span>
+            </button>
+            <button class="boost-type-btn rising" data-type="rising">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-bolt"></i>
+              </div>
+              <span class="btn-label">Rising</span>
+              <span class="btn-tag hot">Hot</span>
+            </button>
+          </div>
         </div>
 
-        <!-- Описание типа буста -->
+        <!-- Boost Type Description - Cards Style -->
         <div class="boost-type-description" id="boost-description">
           <div class="description-content" data-type="standard">
-            <h3><i class="fas fa-user-shield"></i> Обычный буст</h3>
-            <p>Бустер играет со входом в ваш аккаунт. Самый быстрый и эффективный способ поднять ранг.</p>
+            <div class="desc-icon">
+              <i class="fas fa-user-shield"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Обычный буст</h3>
+              <p>Бустер играет со входом в ваш аккаунт. Самый быстрый и эффективный способ поднять ранг.</p>
+            </div>
+            <div class="desc-features">
+              <span class="feature"><i class="fas fa-bolt"></i> Быстро</span>
+              <span class="feature"><i class="fas fa-shield-alt"></i> Безопасно</span>
+            </div>
           </div>
           <div class="description-content hidden" data-type="role">
-            <h3><i class="fas fa-mask"></i> Буст на роли</h3>
-            <p>Бустер играет только на выбранной вами роли (танк, маг, стрелок и т.д.).</p>
+            <div class="desc-icon role">
+              <i class="fas fa-mask"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Буст на роли</h3>
+              <p>Бустер играет только на выбранной вами роли (танк, маг, стрелок и т.д.).</p>
+            </div>
+            <div class="desc-features">
+              <span class="feature"><i class="fas fa-crosshairs"></i> Точно</span>
+              <span class="feature"><i class="fas fa-chart-line"></i> +WR</span>
+            </div>
           </div>
           <div class="description-content hidden" data-type="party">
-            <h3><i class="fas fa-users"></i> Совместный буст</h3>
-            <p>Играете вместе с бустером в одной команде. Вы учитесь и поднимаете ранг одновременно!</p>
+            <div class="desc-icon party">
+              <i class="fas fa-users"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Совместный буст</h3>
+              <p>Играете вместе с бустером в одной команде. Вы учитесь и поднимаете ранг одновременно!</p>
+            </div>
+            <div class="desc-features">
+              <span class="feature"><i class="fas fa-graduation-cap"></i> Обучение</span>
+              <span class="feature"><i class="fas fa-gamepad"></i> Веселье</span>
+            </div>
           </div>
           <div class="description-content hidden" data-type="hero">
-            <h3><i class="fas fa-user-ninja"></i> Буст MMR</h3>
-            <p>Прокачка рейтинга на конкретном герое для топа сервера или страны.</p>
+            <div class="desc-icon hero">
+              <i class="fas fa-user-ninja"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Буст MMR</h3>
+              <p>Прокачка рейтинга на конкретном герое для топа сервера или страны.</p>
+            </div>
+            <div class="desc-features">
+              <span class="feature"><i class="fas fa-medal"></i> Топ</span>
+              <span class="feature"><i class="fas fa-crown"></i> Престиж</span>
+            </div>
           </div>
           <div class="description-content hidden" data-type="rising">
-            <h3><i class="fas fa-bolt"></i> Rising буст</h3>
-            <p>Прохождение Rising mode с гарантией результата. Цена зависит от этапа.</p>
+            <div class="desc-icon rising">
+              <i class="fas fa-bolt"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Rising буст</h3>
+              <p>Прохождение Rising mode с гарантией результата. Цена зависит от этапа.</p>
+            </div>
+            <div class="desc-features">
+              <span class="feature"><i class="fas fa-fire"></i> Горячо</span>
+              <span class="feature"><i class="fas fa-check-circle"></i> Гарантия</span>
+            </div>
           </div>
         </div>
 
-        <!-- Контейнер калькулятора -->
+        <!-- Calculator Container - Premium Glass -->
         <div class="calculator-container" id="calculator-container">
-          <!-- Калькулятор для обычных типов -->
+          <!-- Calculator Form -->
           <div class="calculator-form" id="calculator-form">
             
-            <!-- Блок выбора рангов -->
+            <!-- Progress Steps Indicator -->
+            <div class="calc-progress">
+              <div class="progress-step active" data-step="1">
+                <div class="step-num">1</div>
+                <span>Текущий</span>
+              </div>
+              <div class="progress-line"></div>
+              <div class="progress-step" data-step="2">
+                <div class="step-num">2</div>
+                <span>Желаемый</span>
+              </div>
+              <div class="progress-line"></div>
+              <div class="progress-step" data-step="3">
+                <div class="step-num">3</div>
+                <span>Расчёт</span>
+              </div>
+            </div>
+            
+            <!-- Rank Selection Block - Premium Cards -->
             <div class="rank-selection-block">
-              <!-- Текущий ранг -->
-              <div class="rank-selector-card">
+              <!-- Current Rank Card -->
+              <div class="rank-selector-card" id="rank-card-from">
+                <div class="card-header">
+                  <span class="card-label">
+                    <i class="fas fa-location-dot"></i>
+                    Сейчас
+                  </span>
+                </div>
                 <div class="rank-image-preview" id="rank-image-from">
-                  <div class="rank-placeholder"><i class="fas fa-question"></i></div>
+                  <div class="rank-placeholder">
+                    <div class="placeholder-icon">
+                      <i class="fas fa-question"></i>
+                    </div>
+                    <span>Выберите ранг</span>
+                  </div>
                 </div>
                 <div class="rank-selector-content">
                   <div class="form-group">
                     <label for="rank-from">
-                      <i class="fas fa-arrow-up"></i> Текущий ранг
+                      <i class="fas fa-chevron-up"></i> Текущий ранг
                     </label>
-                    <select id="rank-from" class="rank-select">
-                      <option value="" disabled selected>Выберите ранг</option>
-                    </select>
+                    <div class="select-wrapper">
+                      <select id="rank-from" class="rank-select">
+                        <option value="" disabled selected>Выберите ранг</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
                   </div>
                   <div class="form-group stars-group" id="stars-container-from">
                     <label for="stars-from">
                       <i class="fas fa-star"></i> Звёзды
                     </label>
-                    <select id="stars-from" class="stars-select">
-                      <option value="1">1 звезда</option>
-                      <option value="2">2 звезды</option>
-                      <option value="3">3 звезды</option>
-                      <option value="4">4 звезды</option>
-                      <option value="5">5 звёзд</option>
-                    </select>
+                    <div class="select-wrapper">
+                      <select id="stars-from" class="stars-select">
+                        <option value="1">1 звезда</option>
+                        <option value="2">2 звезды</option>
+                        <option value="3">3 звезды</option>
+                        <option value="4">4 звезды</option>
+                        <option value="5">5 звёзд</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
                   </div>
                 </div>
               </div>
 
-              <!-- Стрелка -->
+              <!-- Arrow with animation -->
               <div class="rank-arrow">
-                <i class="fas fa-arrow-right"></i>
+                <div class="arrow-circle">
+                  <i class="fas fa-arrow-right"></i>
+                </div>
+                <div class="arrow-line"></div>
               </div>
 
-              <!-- Желаемый ранг -->
-              <div class="rank-selector-card target">
+              <!-- Target Rank Card -->
+              <div class="rank-selector-card target" id="rank-card-to">
+                <div class="card-header">
+                  <span class="card-label target">
+                    <i class="fas fa-flag-checkered"></i>
+                    Цель
+                  </span>
+                </div>
                 <div class="rank-image-preview" id="rank-image-to">
-                  <div class="rank-placeholder"><i class="fas fa-trophy"></i></div>
+                  <div class="rank-placeholder">
+                    <div class="placeholder-icon target">
+                      <i class="fas fa-trophy"></i>
+                    </div>
+                    <span>Выберите цель</span>
+                  </div>
                 </div>
                 <div class="rank-selector-content">
                   <div class="form-group">
                     <label for="rank-to">
                       <i class="fas fa-trophy"></i> Желаемый ранг
                     </label>
-                    <select id="rank-to" class="rank-select">
-                      <option value="" disabled selected>Выберите ранг</option>
-                    </select>
+                    <div class="select-wrapper">
+                      <select id="rank-to" class="rank-select">
+                        <option value="" disabled selected>Выберите ранг</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
                   </div>
                   <div class="form-group stars-group" id="stars-container-to">
                     <label for="stars-to">
                       <i class="fas fa-star"></i> Звёзды
                     </label>
-                    <select id="stars-to" class="stars-select">
-                      <option value="1">1 звезда</option>
-                      <option value="2">2 звезды</option>
-                      <option value="3">3 звезды</option>
-                      <option value="4">4 звезды</option>
-                      <option value="5" selected>5 звёзд</option>
-                    </select>
+                    <div class="select-wrapper">
+                      <select id="stars-to" class="stars-select">
+                        <option value="1">1 звезда</option>
+                        <option value="2">2 звезды</option>
+                        <option value="3">3 звезды</option>
+                        <option value="4">4 звезды</option>
+                        <option value="5" selected>5 звёзд</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
 
-            <!-- Чекбокс слабый аккаунт -->
-            <div class="weak-account-option">
-              <label class="checkbox-container">
-                <input type="checkbox" id="weak-account">
-                <span class="checkmark"></span>
-                <span class="checkbox-label">
-                  <i class="fas fa-exclamation-triangle"></i>
-                  Слабый аккаунт (+10%)
-                </span>
-              </label>
-              <p class="weak-account-hint">Отметьте, если на аккаунте мало героев или слабые эмблемы</p>
+            <!-- Options Section -->
+            <div class="options-section">
+              <!-- Weak Account Checkbox - Premium Toggle -->
+              <div class="weak-account-option">
+                <label class="toggle-container">
+                  <input type="checkbox" id="weak-account">
+                  <span class="toggle-slider"></span>
+                  <div class="toggle-content">
+                    <div class="toggle-header">
+                      <i class="fas fa-exclamation-triangle"></i>
+                      <span class="toggle-title">Слабый аккаунт</span>
+                      <span class="toggle-badge">+10%</span>
+                    </div>
+                    <p class="toggle-desc">Мало героев или слабые эмблемы</p>
+                  </div>
+                </label>
+              </div>
+
+              <!-- Min Stars Notice - Pill Style -->
+              <div class="min-stars-notice">
+                <div class="notice-icon">
+                  <i class="fas fa-info"></i>
+                </div>
+                <span>Минимальный заказ — <strong>3 звезды</strong></span>
+              </div>
             </div>
 
-            <!-- Минимум звёзд -->
-            <div class="min-stars-notice">
-              <i class="fas fa-info-circle"></i>
-              <span>Минимальный заказ — 3 звезды</span>
-            </div>
-
-            <!-- Кнопка расчёта -->
+            <!-- Calculate Button - Premium Style -->
             <button type="button" class="calculate-btn" id="calculate-btn">
-              <i class="fas fa-calculator"></i>
-              Рассчитать стоимость
+              <span class="btn-content">
+                <i class="fas fa-calculator"></i>
+                <span>Рассчитать стоимость</span>
+              </span>
+              <span class="btn-loading hidden">
+                <i class="fas fa-spinner fa-spin"></i>
+                <span>Расчёт...</span>
+              </span>
+              <div class="btn-shine"></div>
             </button>
           </div>
 
-          <!-- Rising секция -->
+          <!-- Rising Calculator - Premium Style -->
           <div class="rising-calculator hidden" id="rising-calculator">
-            <div class="rising-info">
-              <img src="Ранги/rising.webp" alt="Rising" class="rising-img">
+            <div class="rising-header">
+              <div class="rising-img-wrapper">
+                <img src="Ранги/rising.webp" alt="Rising" class="rising-img">
+                <div class="rising-glow"></div>
+              </div>
               <div class="rising-text">
-                <h3>Rising буст</h3>
+                <h3>
+                  <span class="rising-icon"><i class="fas fa-bolt"></i></span>
+                  Rising буст
+                </h3>
                 <p>Выберите этап для просмотра стоимости</p>
               </div>
             </div>
 
-            <div class="rising-stages">
+            <div class="rising-stages-grid">
               <div class="rising-stage" data-stage="1">
-                <div class="stage-num">1</div>
-                <div class="stage-details">
-                  <span class="stage-title">Этап 1</span>
-                  <span class="stage-cost">1 000 ₽</span>
+                <div class="stage-number">1</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 1</span>
+                  <span class="stage-price">1 000 ₽</span>
                 </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
               </div>
               <div class="rising-stage" data-stage="2">
-                <div class="stage-num">2</div>
-                <div class="stage-details">
-                  <span class="stage-title">Этап 2</span>
-                  <span class="stage-cost">1 200 ₽</span>
+                <div class="stage-number">2</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 2</span>
+                  <span class="stage-price">1 200 ₽</span>
                 </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
               </div>
               <div class="rising-stage" data-stage="3">
-                <div class="stage-num">3</div>
-                <div class="stage-details">
-                  <span class="stage-title">Этап 3</span>
-                  <span class="stage-cost">1 400 ₽</span>
+                <div class="stage-number">3</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 3</span>
+                  <span class="stage-price">1 400 ₽</span>
                 </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
               </div>
               <div class="rising-stage" data-stage="4">
-                <div class="stage-num">4</div>
-                <div class="stage-details">
-                  <span class="stage-title">Этап 4</span>
-                  <span class="stage-cost">1 600 ₽</span>
+                <div class="stage-number">4</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 4</span>
+                  <span class="stage-price">1 600 ₽</span>
                 </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
               </div>
               <div class="rising-stage" data-stage="5">
-                <div class="stage-num">5</div>
-                <div class="stage-details">
-                  <span class="stage-title">Этап 5</span>
-                  <span class="stage-cost">1 800 ₽</span>
+                <div class="stage-number">5</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 5</span>
+                  <span class="stage-price">1 800 ₽</span>
                 </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
               </div>
               <div class="rising-stage" data-stage="6">
-                <div class="stage-num">6</div>
-                <div class="stage-details">
-                  <span class="stage-title">Этап 6</span>
-                  <span class="stage-cost">2 200 ₽</span>
+                <div class="stage-number">6</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 6</span>
+                  <span class="stage-price">2 200 ₽</span>
                 </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
               </div>
-              <div class="rising-stage highlight" data-stage="7">
-                <div class="stage-num">7</div>
-                <div class="stage-details">
-                  <span class="stage-title">Этап 7</span>
-                  <span class="stage-cost">3 000 ₽</span>
+              <div class="rising-stage hot" data-stage="7">
+                <div class="hot-badge"><i class="fas fa-fire"></i></div>
+                <div class="stage-number">7</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 7</span>
+                  <span class="stage-price">3 000 ₽</span>
                 </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
               </div>
             </div>
 
             <div class="rising-cta">
-              <p>Для заказа Rising буста напишите напрямую:</p>
+              <div class="cta-divider">
+                <span>Для заказа</span>
+              </div>
               <a href="https://t.me/Cla1ve" target="_blank" class="rising-order-btn">
-                <i class="fab fa-telegram"></i>
-                Написать @Cla1ve
+                <span class="btn-text">
+                  <i class="fab fa-telegram"></i>
+                  Написать @Cla1ve
+                </span>
+                <span class="btn-arrow"><i class="fas fa-arrow-right"></i></span>
               </a>
             </div>
           </div>
         </div>
 
-        <!-- Результат расчёта -->
+        <!-- Calculation Result - Premium Card -->
         <div class="calculation-result hidden" id="calculation-result">
-          <div class="result-header">
-            <i class="fas fa-receipt"></i>
-            <h3>Стоимость буста</h3>
-          </div>
-          
-          <div class="result-summary">
-            <div class="result-row">
-              <span class="result-label">Тип буста:</span>
-              <span class="result-value" id="result-type">Обычный</span>
+          <div class="result-card">
+            <!-- Success Icon Animation -->
+            <div class="result-icon-wrapper">
+              <div class="result-icon">
+                <i class="fas fa-check"></i>
+              </div>
+              <div class="icon-rings">
+                <div class="ring ring-1"></div>
+                <div class="ring ring-2"></div>
+              </div>
             </div>
-            <div class="result-row">
-              <span class="result-label">Маршрут:</span>
-              <span class="result-value" id="result-route">-</span>
-            </div>
-            <div class="result-row">
-              <span class="result-label"><i class="fas fa-clock"></i> Срок:</span>
-              <span class="result-value" id="result-time">уточняется</span>
-            </div>
-            <div class="result-row">
-              <span class="result-label"><i class="fas fa-trophy"></i> Винрейт:</span>
-              <span class="result-value highlight-green" id="result-winrate">90%+</span>
-            </div>
-          </div>
 
-          <div class="price-display">
-            <div class="original-price">
-              <span class="price-label">Обычная цена:</span>
-              <span class="price-value strikethrough" id="original-price">0 ₽</span>
+            <h3 class="result-title">Расчёт готов!</h3>
+            
+            <!-- Route Visual -->
+            <div class="result-route-visual">
+              <div class="route-point from">
+                <span class="route-label">Старт</span>
+              </div>
+              <div class="route-line">
+                <div class="route-progress"></div>
+                <i class="fas fa-chevron-right route-arrow"></i>
+              </div>
+              <div class="route-point to">
+                <span class="route-label">Цель</span>
+              </div>
             </div>
-            <div class="discounted-price">
-              <span class="price-label">Ваша цена:</span>
-              <span class="price-value highlight" id="discounted-price">0 ₽</span>
+            
+            <div class="result-details">
+              <div class="detail-item">
+                <div class="detail-icon"><i class="fas fa-gamepad"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Тип буста</span>
+                  <span class="detail-value" id="result-type">Обычный</span>
+                </div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-icon"><i class="fas fa-route"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Маршрут</span>
+                  <span class="detail-value" id="result-route">-</span>
+                </div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-icon"><i class="fas fa-clock"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Срок выполнения</span>
+                  <span class="detail-value" id="result-time">уточняется</span>
+                </div>
+              </div>
+              <div class="detail-item highlight">
+                <div class="detail-icon"><i class="fas fa-trophy"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Гарантия винрейта</span>
+                  <span class="detail-value green" id="result-winrate">90%+</span>
+                </div>
+              </div>
             </div>
-          </div>
 
-          <div class="discount-badge">
-            <i class="fas fa-gift"></i>
-            <span>Скидка 10% на первую покупку!</span>
-          </div>
+            <!-- Price Block - Premium -->
+            <div class="price-block">
+              <div class="price-original">
+                <span class="price-old-label">Без скидки:</span>
+                <span class="price-old-value" id="original-price">0 ₽</span>
+              </div>
+              <div class="price-final">
+                <span class="price-new-label">Ваша цена:</span>
+                <span class="price-new-value" id="discounted-price">
+                  <span class="price-number">0</span>
+                  <span class="price-currency">₽</span>
+                </span>
+              </div>
+            </div>
 
-          <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="order-btn" id="order-btn">
-            <i class="fab fa-telegram"></i>
-            Оформить заказ
-          </a>
-          
-          <p class="order-hint">Нажмите, чтобы перейти в бот и оформить заказ</p>
+            <!-- Discount Badge - Animated -->
+            <div class="discount-ribbon">
+              <div class="ribbon-content">
+                <i class="fas fa-gift"></i>
+                <span>Скидка <strong>10%</strong> на первый заказ!</span>
+              </div>
+              <div class="ribbon-shine"></div>
+            </div>
+
+            <!-- Order Button - Premium -->
+            <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="order-btn-premium" id="order-btn">
+              <span class="btn-main">
+                <i class="fab fa-telegram"></i>
+                <span>Оформить заказ</span>
+              </span>
+              <span class="btn-sub">Перейти в Telegram-бот</span>
+            </a>
+          </div>
         </div>
 
-        <!-- Ошибка расчёта -->
+        <!-- Calculation Error - Improved -->
         <div class="calculation-error hidden" id="calculation-error">
-          <i class="fas fa-exclamation-circle"></i>
-          <p id="error-message">Произошла ошибка при расчёте</p>
-          <button class="retry-btn" id="retry-btn">
-            <i class="fas fa-redo"></i>
-            Попробовать снова
-          </button>
+          <div class="error-card">
+            <div class="error-icon">
+              <i class="fas fa-exclamation-triangle"></i>
+            </div>
+            <h4>Упс! Что-то пошло не так</h4>
+            <p id="error-message">Произошла ошибка при расчёте</p>
+            <button class="retry-btn" id="retry-btn">
+              <i class="fas fa-redo"></i>
+              <span>Попробовать снова</span>
+            </button>
+          </div>
         </div>
 
-        <!-- Преимущества -->
-        <div class="advantages-block">
-          <h3>Почему выбирают нас</h3>
-          <div class="advantages-grid">
-            <div class="advantage-item">
-              <i class="fas fa-shield-alt"></i>
-              <span>100% безопасность</span>
+        <!-- Trust Indicators - Premium -->
+        <div class="trust-section">
+          <h3 class="trust-title">
+            <span class="title-icon"><i class="fas fa-shield-alt"></i></span>
+            Почему выбирают нас
+          </h3>
+          <div class="trust-grid">
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-lock"></i>
+              </div>
+              <span class="trust-label">100% безопасность</span>
+              <span class="trust-desc">VPN + приватность</span>
             </div>
-            <div class="advantage-item">
-              <i class="fas fa-trophy"></i>
-              <span>PRO игроки</span>
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-crown"></i>
+              </div>
+              <span class="trust-label">PRO игроки</span>
+              <span class="trust-desc">Топ-100 сервера</span>
             </div>
-            <div class="advantage-item">
-              <i class="fas fa-clock"></i>
-              <span>24/7 поддержка</span>
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-headset"></i>
+              </div>
+              <span class="trust-label">24/7 поддержка</span>
+              <span class="trust-desc">Всегда на связи</span>
             </div>
-            <div class="advantage-item">
-              <i class="fas fa-star"></i>
-              <span>Винрейт 90%+</span>
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-chart-line"></i>
+              </div>
+              <span class="trust-label">Винрейт 90%+</span>
+              <span class="trust-desc">Гарантируем</span>
             </div>
           </div>
         </div>

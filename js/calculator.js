@@ -9,11 +9,11 @@ const API_BASE_HTTPS = 'https://cla1veisapi.ru';
 
 // Определяем URL API в зависимости от протокола
 const getApiUrl = () => {
-  // Если сайт на HTTPS (GitHub Pages), используем HTTPS версию API
+  // Если сайт на HTTPS, используем HTTPS версию API
   if (window.location.protocol === 'https:') {
     return `${API_BASE_HTTPS}/calculate`;
   }
-  // Для локальной разработки используем HTTP
+  // Для HTTP используем HTTP
   return `${API_BASE_HTTP}/calculate`;
 };
 
@@ -53,6 +53,7 @@ let currentBoostType = 'standard';
 document.addEventListener('DOMContentLoaded', () => {
   initCalculator();
   parseUrlParams();
+  initAnimations();
 });
 
 function initCalculator() {
@@ -84,6 +85,7 @@ function initCalculator() {
       updateStarsInput('from');
       updateRankImage('from');
       validateAndFilterTargetRanks();
+      updateProgressSteps();
     });
   }
   
@@ -91,6 +93,7 @@ function initCalculator() {
     rankToSelect.addEventListener('change', () => {
       updateStarsInput('to');
       updateRankImage('to');
+      updateProgressSteps();
     });
   }
 
@@ -100,6 +103,7 @@ function initCalculator() {
       if (e.target.id === 'stars-from') {
         validateAndFilterTargetRanks();
       }
+      updateProgressSteps();
     }
   });
 
@@ -113,6 +117,81 @@ function initCalculator() {
 
   updateRankImage('from');
   updateRankImage('to');
+}
+
+/**
+ * Инициализация анимаций
+ */
+function initAnimations() {
+  // Добавляем интерактивные частицы
+  createParticles();
+  
+  // Анимация карточек при наведении
+  initCardHoverEffects();
+}
+
+/**
+ * Создание дополнительных частиц
+ */
+function createParticles() {
+  const container = document.getElementById('particles-bg');
+  if (!container) return;
+  
+  for (let i = 0; i < 10; i++) {
+    const particle = document.createElement('div');
+    particle.className = 'particle';
+    particle.style.left = `${Math.random() * 100}%`;
+    particle.style.top = `${Math.random() * 100}%`;
+    particle.style.animationDelay = `${Math.random() * 10}s`;
+    particle.style.animationDuration = `${12 + Math.random() * 10}s`;
+    particle.style.opacity = `${0.1 + Math.random() * 0.3}`;
+    container.appendChild(particle);
+  }
+}
+
+/**
+ * Эффекты при наведении на карточки
+ */
+function initCardHoverEffects() {
+  const cards = document.querySelectorAll('.rank-selector-card');
+  cards.forEach(card => {
+    card.addEventListener('mouseenter', () => {
+      card.style.transform = 'translateY(-2px)';
+    });
+    card.addEventListener('mouseleave', () => {
+      card.style.transform = 'translateY(0)';
+    });
+  });
+}
+
+/**
+ * Обновление индикатора прогресса
+ */
+function updateProgressSteps() {
+  const rankFrom = document.getElementById('rank-from');
+  const rankTo = document.getElementById('rank-to');
+  const steps = document.querySelectorAll('.progress-step');
+  
+  if (!steps.length) return;
+  
+  // Сбрасываем все шаги
+  steps.forEach(step => {
+    step.classList.remove('active', 'completed');
+  });
+  
+  // Шаг 1 - текущий ранг
+  if (rankFrom && rankFrom.value) {
+    steps[0]?.classList.add('completed');
+    steps[1]?.classList.add('active');
+  } else {
+    steps[0]?.classList.add('active');
+  }
+  
+  // Шаг 2 - желаемый ранг  
+  if (rankTo && rankTo.value) {
+    steps[1]?.classList.add('completed');
+    steps[2]?.classList.add('active');
+  }
 }
 
 /**
@@ -213,13 +292,15 @@ function updateStarsInput(type) {
       <label for="stars-${type}">
         <i class="fas fa-star"></i> Очки
       </label>
-      <input type="number" 
-             id="stars-${type}" 
-             class="stars-input" 
-             min="${minStars}" 
-             max="${maxStars}" 
-             value="${defaultVal}"
-             placeholder="${minStars}-${maxStars}">
+      <div class="select-wrapper">
+        <input type="number" 
+               id="stars-${type}" 
+               class="stars-input" 
+               min="${minStars}" 
+               max="${maxStars}" 
+               value="${defaultVal}"
+               placeholder="${minStars}-${maxStars}">
+      </div>
       <span class="stars-hint">${minStars} - ${maxStars}</span>
     `;
   } else {
@@ -244,9 +325,12 @@ function createStarsSelect(type, maxStars, selectMax) {
     <label for="stars-${type}">
       <i class="fas fa-star"></i> Звёзды
     </label>
-    <select id="stars-${type}" class="stars-select">
-      ${options}
-    </select>
+    <div class="select-wrapper">
+      <select id="stars-${type}" class="stars-select">
+        ${options}
+      </select>
+      <i class="fas fa-caret-down select-arrow"></i>
+    </div>
   `;
 }
 
@@ -464,8 +548,16 @@ async function calculatePrice() {
   }
 
   const calculateBtn = document.getElementById('calculate-btn');
-  const originalText = calculateBtn.innerHTML;
-  calculateBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Расчёт...';
+  const btnContent = calculateBtn.querySelector('.btn-content');
+  const btnLoading = calculateBtn.querySelector('.btn-loading');
+  
+  // Показываем загрузку
+  if (btnContent && btnLoading) {
+    btnContent.classList.add('hidden');
+    btnLoading.classList.remove('hidden');
+  } else {
+    calculateBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Расчёт...';
+  }
   calculateBtn.disabled = true;
 
   hideResult();
@@ -521,7 +613,16 @@ async function calculatePrice() {
     
     showError(errorMessage);
   } finally {
-    calculateBtn.innerHTML = originalText;
+    // Восстанавливаем кнопку
+    const btnContentRestore = calculateBtn.querySelector('.btn-content');
+    const btnLoadingRestore = calculateBtn.querySelector('.btn-loading');
+    
+    if (btnContentRestore && btnLoadingRestore) {
+      btnContentRestore.classList.remove('hidden');
+      btnLoadingRestore.classList.add('hidden');
+    } else {
+      calculateBtn.innerHTML = '<i class="fas fa-calculator"></i> Рассчитать стоимость';
+    }
     calculateBtn.disabled = false;
   }
 }
@@ -540,12 +641,32 @@ function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate) 
   if (resultType) resultType.textContent = BOOST_TYPES[currentBoostType].name;
   if (resultRoute) resultRoute.textContent = `${rankFrom} → ${rankTo}`;
   if (originalPriceEl) originalPriceEl.textContent = formatPrice(originalPrice);
-  if (discountedPriceEl) discountedPriceEl.textContent = formatPrice(discountedPrice);
+  
+  // Обновленный формат для нового дизайна
+  if (discountedPriceEl) {
+    const priceNumber = discountedPriceEl.querySelector('.price-number');
+    const priceCurrency = discountedPriceEl.querySelector('.price-currency');
+    
+    if (priceNumber && priceCurrency) {
+      priceNumber.textContent = discountedPrice.toLocaleString('ru-RU');
+    } else {
+      discountedPriceEl.textContent = formatPrice(discountedPrice);
+    }
+  }
+  
   if (resultTime) resultTime.textContent = estimatedTime;
   if (resultWinrate) resultWinrate.textContent = winrate;
 
+  // Обновляем прогресс-шаги
+  const steps = document.querySelectorAll('.progress-step');
+  steps.forEach(step => step.classList.add('completed'));
+
   resultBlock?.classList.remove('hidden');
-  resultBlock?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  
+  // Анимация появления результата
+  setTimeout(() => {
+    resultBlock?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }, 100);
 }
 
 function formatPrice(price) {
