@@ -110,88 +110,193 @@
 
 
   <main class="services-page">
-    <div class="container">
-      <h1 class="services-title">Наши услуги</h1>
-      <p class="services-subtitle">Выберите подходящий вариант буста</p>
-
-      <!-- Кнопка цен -->
-      <div class="prices-button-container">
-        <a href="prices.html" class="prices-button">
-          <i class="fas fa-tags"></i>
-          <span>Посмотреть цены</span>
-          <i class="fas fa-arrow-right"></i>
-        </a>
+    <!-- Hero Section -->
+    <div class="services-hero">
+      <div class="hero-particles"></div>
+      <div class="container">
+        <div class="hero-badge">
+          <i class="fas fa-star"></i>
+          <span>Услуги</span>
+        </div>
+        <h1 class="services-title">Выберите тип буста</h1>
+        <p class="services-subtitle">Подберём оптимальный вариант под ваши задачи и бюджет</p>
+        
+        <div class="quick-actions">
+          <a href="prices.html" class="quick-btn">
+            <i class="fas fa-tags"></i>
+            <span>Цены</span>
+          </a>
+          <a href="contact.html" class="quick-btn primary">
+            <i class="fas fa-calculator"></i>
+            <span>Калькулятор</span>
+          </a>
+        </div>
       </div>
+    </div>
 
+    <div class="container">
+      <!-- Services Grid - Premium Cards -->
       <div class="services-grid">
-        <a href="contact.html?type=standard" class="service-card" data-boost-type="standard">
+        <!-- Standard Boost -->
+        <a href="contact.html?type=standard" class="service-card featured" data-boost-type="standard">
+          <div class="card-badge">Популярный</div>
+          <div class="card-glow"></div>
           <div class="service-icon">
             <i class="fas fa-user-shield"></i>
           </div>
-          <h3>Обычный буст</h3>
-          <p>Со входом в аккаунт</p>
+          <div class="service-content">
+            <h3>Обычный буст</h3>
+            <p>Бустер играет со входом в ваш аккаунт. Самый быстрый и эффективный способ.</p>
+            <ul class="service-features">
+              <li><i class="fas fa-check"></i> Максимальная скорость</li>
+              <li><i class="fas fa-check"></i> Винрейт 90%+</li>
+              <li><i class="fas fa-check"></i> VPN защита</li>
+            </ul>
+          </div>
           <div class="service-footer">
-            <span>Заказать буст</span>
-            <i class="fas fa-arrow-right"></i>
+            <span class="price-from">от 50₽/звезда</span>
+            <div class="footer-btn">
+              <span>Заказать</span>
+              <i class="fas fa-arrow-right"></i>
+            </div>
           </div>
         </a>
 
+        <!-- Party Boost -->
+        <a href="contact.html?type=party" class="service-card duo" data-boost-type="party">
+          <div class="card-badge duo">Duo</div>
+          <div class="card-glow duo"></div>
+          <div class="service-icon duo">
+            <i class="fas fa-users"></i>
+          </div>
+          <div class="service-content">
+            <h3>Совместный буст</h3>
+            <p>Играете вместе с бустером в одной команде. Учитесь и растёте!</p>
+            <ul class="service-features">
+              <li><i class="fas fa-check"></i> Играете сами</li>
+              <li><i class="fas fa-check"></i> Обучение в процессе</li>
+              <li><i class="fas fa-check"></i> Безопасно</li>
+            </ul>
+          </div>
+          <div class="service-footer">
+            <span class="price-from">от 90₽/звезда</span>
+            <div class="footer-btn">
+              <span>Заказать</span>
+              <i class="fas fa-arrow-right"></i>
+            </div>
+          </div>
+        </a>
+
+        <!-- Role Boost -->
         <a href="contact.html?type=role" class="service-card" data-boost-type="role">
+          <div class="card-glow"></div>
           <div class="service-icon">
             <i class="fas fa-mask"></i>
           </div>
-          <h3>Буст на 1 роли</h3>
-          <p>Игра на выбранной роли</p>
+          <div class="service-content">
+            <h3>Буст на роли</h3>
+            <p>Бустер играет только на выбранной вами роли (танк, маг, стрелок и т.д.).</p>
+            <ul class="service-features">
+              <li><i class="fas fa-check"></i> Выбор роли</li>
+              <li><i class="fas fa-check"></i> Улучшение WR роли</li>
+            </ul>
+          </div>
           <div class="service-footer">
-            <span>Заказать буст</span>
-            <i class="fas fa-arrow-right"></i>
+            <span class="price-from">от 50₽/звезда</span>
+            <div class="footer-btn">
+              <span>Заказать</span>
+              <i class="fas fa-arrow-right"></i>
+            </div>
           </div>
         </a>
 
-        <a href="contact.html?type=party" class="service-card" data-boost-type="party">
-          <div class="service-icon">
-            <i class="fas fa-users"></i>
-          </div>
-          <h3>Совместный буст</h3>
-          <p>Игра в команде с бустером</p>
-          <div class="service-footer">
-            <span>Заказать буст</span>
-            <i class="fas fa-arrow-right"></i>
-          </div>
-        </a>
-
+        <!-- MMR Boost -->
         <a href="contact.html?type=hero" class="service-card" data-boost-type="hero">
+          <div class="card-glow"></div>
           <div class="service-icon">
             <i class="fas fa-user-ninja"></i>
           </div>
-          <h3>Буст MMR</h3>
-          <p>На одном персонаже</p>
+          <div class="service-content">
+            <h3>Буст MMR</h3>
+            <p>Прокачка рейтинга на конкретном герое для топа сервера или страны.</p>
+            <ul class="service-features">
+              <li><i class="fas fa-check"></i> Топ по герою</li>
+              <li><i class="fas fa-check"></i> Престижные значки</li>
+            </ul>
+          </div>
           <div class="service-footer">
-            <span>Заказать буст</span>
-            <i class="fas fa-arrow-right"></i>
+            <span class="price-from">от 65₽/звезда</span>
+            <div class="footer-btn">
+              <span>Заказать</span>
+              <i class="fas fa-arrow-right"></i>
+            </div>
           </div>
         </a>
 
-        <a href="contact.html?type=rising" class="service-card" data-boost-type="rising">
-          <div class="service-icon">
+        <!-- Rising Boost -->
+        <a href="contact.html?type=rising" class="service-card rising" data-boost-type="rising">
+          <div class="card-badge hot">Hot</div>
+          <div class="card-glow rising"></div>
+          <div class="service-icon rising">
             <i class="fas fa-bolt"></i>
           </div>
-          <h3>Rising буст</h3>
-          <p>Быстрый подъём ранга</p>
+          <div class="service-content">
+            <h3>Rising буст</h3>
+            <p>Прохождение Rising mode с гарантией результата. Фиксированная цена за этап.</p>
+            <ul class="service-features">
+              <li><i class="fas fa-check"></i> 7 этапов</li>
+              <li><i class="fas fa-check"></i> Гарантия результата</li>
+            </ul>
+          </div>
           <div class="service-footer">
-            <span>Заказать буст</span>
-            <i class="fas fa-arrow-right"></i>
+            <span class="price-from">от 1000₽/этап</span>
+            <div class="footer-btn">
+              <span>Заказать</span>
+              <i class="fas fa-arrow-right"></i>
+            </div>
           </div>
         </a>
       </div>
 
-      <!-- Referral Banner -->
+      <!-- Features Block -->
+      <div class="services-features">
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fas fa-shield-alt"></i></div>
+          <h4>100% Безопасность</h4>
+          <p>VPN защита и полная конфиденциальность</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fas fa-trophy"></i></div>
+          <h4>PRO Игроки</h4>
+          <p>Участники турниров MCC</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fas fa-headset"></i></div>
+          <h4>24/7 Поддержка</h4>
+          <p>Всегда на связи</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon"><i class="fas fa-chart-line"></i></div>
+          <h4>Винрейт 90%+</h4>
+          <p>Гарантируем результат</p>
+        </div>
+      </div>
+
+      <!-- Referral Banner - Premium -->
       <div class="referral-banner">
-        <div class="referral-content">
+        <div class="banner-glow"></div>
+        <div class="referral-icon">
           <i class="fas fa-gift"></i>
+        </div>
+        <div class="referral-content">
+          <span class="referral-badge">Бонус</span>
           <h3>5 звёзд в подарок</h3>
           <p>При заказе вашего друга от 25 звёзд</p>
         </div>
+        <a href="https://t.me/Cla1ve" target="_blank" class="referral-btn">
+          <span>Написать @Cla1ve</span>
+          <i class="fas fa-arrow-right"></i>
+        </a>
       </div>
     </div>
   </main>

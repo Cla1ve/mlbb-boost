@@ -128,154 +128,302 @@
   </header>
 
   <main>
-    <!-- Hero Section -->
+    <!-- Hero Section - Premium -->
     <section class="hero">
       <div id="particles-js"></div>
+      <div class="hero-gradient-overlay"></div>
       <div class="hero-character hardware-accelerated"></div>
 
       <div class="hero-content container">
+        <!-- Trust Badge -->
+        <div class="hero-badge">
+          <div class="badge-icon"><i class="fas fa-shield-alt"></i></div>
+          <span>Проверенный сервис</span>
+          <div class="badge-dot"></div>
+          <span>350+ отзывов</span>
+        </div>
+
         <h1 class="glowing-text">
-          <span>Профессиональный буст Mobile Legends</span>
-          от PRO-игроков с турниров MCC
+          <span class="text-line">Профессиональный буст</span>
+          <span class="text-line gradient">Mobile Legends</span>
+          <span class="text-line small">от PRO-игроков с турниров MCC</span>
         </h1>
         
         <p class="hero-subtitle">
-          Безопасная и быстрая прокачка ML аккаунта от команды профессионалов с опытом участия в турнирах МСС. Гарантируем высокий винрейт и быстрое выполнение заказа.
+          Безопасная и быстрая прокачка ML аккаунта от команды профессионалов. Гарантируем высокий винрейт 90%+ и быстрое выполнение заказа.
         </p>
 
-        <div class="hero-features">
-          <div class="feature-item">
-            <i class="fas fa-trophy"></i>
-            <span>PRO-игроки с турниров МСС</span>
+        <!-- Stats Row -->
+        <div class="hero-stats">
+          <div class="stat-card">
+            <div class="stat-icon"><i class="fas fa-trophy"></i></div>
+            <div class="stat-info">
+              <span class="stat-value">MCC</span>
+              <span class="stat-label">PRO игроки</span>
+            </div>
           </div>
-          <div class="feature-item">
-            <i class="fas fa-star"></i>
-            <span>Винрейт более 90%</span>
+          <div class="stat-card">
+            <div class="stat-icon"><i class="fas fa-chart-line"></i></div>
+            <div class="stat-info">
+              <span class="stat-value">90%+</span>
+              <span class="stat-label">Винрейт</span>
+            </div>
           </div>
-          <div class="feature-item">
-            <i class="fas fa-shield-alt"></i>
-            <span>100% безопасность аккаунта</span>
+          <div class="stat-card">
+            <div class="stat-icon"><i class="fas fa-lock"></i></div>
+            <div class="stat-info">
+              <span class="stat-value">100%</span>
+              <span class="stat-label">Безопасность</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon"><i class="fas fa-headset"></i></div>
+            <div class="stat-info">
+              <span class="stat-value">24/7</span>
+              <span class="stat-label">Поддержка</span>
+            </div>
           </div>
         </div>
 
+        <!-- CTA Buttons -->
         <div class="hero-actions">
           <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="cta-button primary button-feedback">
-            <span>Купить буст</span>
-            <i class="fas fa-shopping-cart"></i>
+            <span class="btn-icon"><i class="fab fa-telegram"></i></span>
+            <span class="btn-text">
+              <span class="btn-main">Купить буст</span>
+              <span class="btn-sub">Перейти в бот</span>
+            </span>
+            <span class="btn-arrow"><i class="fas fa-arrow-right"></i></span>
           </a>
-          <a href="https://t.me/Cla1ve_boost_mlbb" target="_blank" class="cta-button secondary">
-            <span>Отзывы в канале</span>
-            <i class="fab fa-telegram"></i>
+          <a href="contact.html" class="cta-button secondary">
+            <span class="btn-icon"><i class="fas fa-calculator"></i></span>
+            <span class="btn-text">
+              <span class="btn-main">Рассчитать цену</span>
+              <span class="btn-sub">Калькулятор</span>
+            </span>
+          </a>
+        </div>
+
+        <!-- Scroll Indicator -->
+        <div class="scroll-indicator">
+          <span>Листай вниз</span>
+          <div class="scroll-arrow"><i class="fas fa-chevron-down"></i></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services Preview Section -->
+    <section class="services-preview">
+      <div class="container">
+        <div class="section-header">
+          <div class="header-badge"><i class="fas fa-star"></i> Услуги</div>
+          <h2>Выберите тип буста</h2>
+          <p>Подберём оптимальный вариант под ваши задачи</p>
+        </div>
+
+        <div class="services-slider">
+          <a href="contact.html?type=standard" class="service-preview-card">
+            <div class="card-glow"></div>
+            <div class="service-icon-wrap">
+              <i class="fas fa-user-shield"></i>
+            </div>
+            <h3>Обычный буст</h3>
+            <p>Со входом в аккаунт</p>
+            <div class="card-tag popular">Популярный</div>
+            <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
+          </a>
+
+          <a href="contact.html?type=party" class="service-preview-card">
+            <div class="card-glow duo"></div>
+            <div class="service-icon-wrap duo">
+              <i class="fas fa-users"></i>
+            </div>
+            <h3>Совместный буст</h3>
+            <p>Играем вместе с вами</p>
+            <div class="card-tag duo">Duo</div>
+            <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
+          </a>
+
+          <a href="contact.html?type=role" class="service-preview-card">
+            <div class="card-glow"></div>
+            <div class="service-icon-wrap">
+              <i class="fas fa-mask"></i>
+            </div>
+            <h3>Буст на роли</h3>
+            <p>На выбранной роли</p>
+            <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
+          </a>
+
+          <a href="contact.html?type=hero" class="service-preview-card">
+            <div class="card-glow"></div>
+            <div class="service-icon-wrap">
+              <i class="fas fa-user-ninja"></i>
+            </div>
+            <h3>Буст MMR</h3>
+            <p>Топ по герою</p>
+            <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
+          </a>
+
+          <a href="contact.html?type=rising" class="service-preview-card rising">
+            <div class="card-glow rising"></div>
+            <div class="service-icon-wrap rising">
+              <i class="fas fa-bolt"></i>
+            </div>
+            <h3>Rising буст</h3>
+            <p>Прохождение режима</p>
+            <div class="card-tag hot">Hot</div>
+            <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
+          </a>
+        </div>
+
+        <div class="section-cta">
+          <a href="services.html" class="link-btn">
+            <span>Все услуги</span>
+            <i class="fas fa-arrow-right"></i>
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Team Section -->
-    <section class="team">
+    <!-- Why Us Section -->
+    <section class="why-us">
       <div class="container">
         <div class="section-header">
-          <h2>Наша команда</h2>
-          <p>Опытные PRO игроки на вашей стороне</p>
+          <div class="header-badge"><i class="fas fa-shield-alt"></i> Преимущества</div>
+          <h2>Почему выбирают нас</h2>
+          <p>Доверие клиентов - наш главный приоритет</p>
         </div>
 
-        <div class="team-grid">
-          <div class="team-card">
-            <div class="card-image">
-              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" 
-                   data-src="kairi.png" 
-                   alt="Pro Player" 
-                   class="team-image"
-                   loading="lazy">
+        <div class="why-us-grid">
+          <div class="why-card">
+            <div class="why-icon">
+              <i class="fas fa-trophy"></i>
+              <div class="icon-bg"></div>
             </div>
-            <div class="card-content">
+            <div class="why-content">
               <h3>PRO Игроки</h3>
-              <p>Участники турниров МСС</p>
-              <div class="team-stats">
-                <div class="stat-item">
-                  <div class="stat-value">50+</div>
-                  <div class="stat-label">Турниров</div>
-                </div>
-              </div>
+              <p>Участники турниров MCC и топ-100 мира по звёздам</p>
             </div>
+            <div class="why-number">01</div>
           </div>
 
-          <div class="team-card">
-            <div class="card-image">
-              <div class="team-image-placeholder">
-                <i class="fas fa-star"></i>
-              </div>
+          <div class="why-card">
+            <div class="why-icon">
+              <i class="fas fa-bolt"></i>
+              <div class="icon-bg"></div>
             </div>
-            <div class="card-content">
-              <h3>Топы мира по звёздам</h3>
-              <p>Сильнейшие игроки в рейтинге</p>
-              <div class="team-stats">
-                <div class="stat-item">
-                  <div class="stat-value">1000+</div>
-                  <div class="stat-label">Звезд</div>
-                </div>
-              </div>
+            <div class="why-content">
+              <h3>Быстрая работа</h3>
+              <p>До 25 звёзд в день с сохранением высокого винрейта</p>
             </div>
+            <div class="why-number">02</div>
+          </div>
+
+          <div class="why-card">
+            <div class="why-icon">
+              <i class="fas fa-lock"></i>
+              <div class="icon-bg"></div>
+            </div>
+            <div class="why-content">
+              <h3>100% Безопасность</h3>
+              <p>VPN защита, никаких банов за всю историю работы</p>
+            </div>
+            <div class="why-number">03</div>
+          </div>
+
+          <div class="why-card">
+            <div class="why-icon">
+              <i class="fas fa-headset"></i>
+              <div class="icon-bg"></div>
+            </div>
+            <div class="why-content">
+              <h3>24/7 Поддержка</h3>
+              <p>Всегда на связи, отвечаем в течение 5 минут</p>
+            </div>
+            <div class="why-number">04</div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Advantages Section -->
-    <section class="advantages">
+    <!-- Social Proof Section -->
+    <section class="social-proof">
       <div class="container">
-        <div class="section-header">
-          <h2>Наши преимущества</h2>
-          <p>Почему клиенты выбирают именно нас</p>
-        </div>
-
-        <div class="advantages-grid">
-          <div class="advantage-card">
-            <i class="fas fa-user-clock"></i>
-            <h3>Цена-качество</h3>
-            <p>Гарантируем самые быстрые сроки и лучшее качество, 90%+ винрейт</p>
+        <div class="proof-content">
+          <div class="proof-stats">
+            <div class="proof-stat">
+              <span class="proof-value">350+</span>
+              <span class="proof-label">Отзывов</span>
+            </div>
+            <div class="proof-divider"></div>
+            <div class="proof-stat">
+              <span class="proof-value">98%</span>
+              <span class="proof-label">Довольных</span>
+            </div>
+            <div class="proof-divider"></div>
+            <div class="proof-stat">
+              <span class="proof-value">4.9</span>
+              <span class="proof-label">Рейтинг</span>
+            </div>
           </div>
 
-          <div class="advantage-card">
-            <i class="fas fa-clock"></i>
-            <h3>24/7 без выходных</h3>
-            <p>Работаем круглосуточно, готовы помочь с прокачкой в любое время</p>
-          </div>
-
-          <div class="advantage-card">
-            <i class="fas fa-user-secret"></i>
-            <h3>Конфиденциальность</h3>
-            <p>Полная анонимность, никто не узнает о использовании наших услуг</p>
-          </div>
-
-          <div class="advantage-card">
-            <i class="fas fa-gamepad"></i>
-            <h3>Безопасность</h3>
-            <p>Полная безопасность аккаунта, никаких рисков</p>
+          <div class="proof-cta">
+            <p>Читайте реальные отзывы наших клиентов</p>
+            <a href="https://t.me/cla1ve_boost" target="_blank" class="telegram-btn">
+              <i class="fab fa-telegram"></i>
+              <span>Канал отзывов</span>
+            </a>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Referral Section -->
+    <!-- Referral Section - Premium -->
     <section class="referral">
       <div class="container">
         <div class="referral-card">
+          <div class="referral-decoration">
+            <div class="deco-circle"></div>
+            <div class="deco-circle small"></div>
+          </div>
           <div class="referral-content">
             <div class="referral-icon">
               <i class="fas fa-gift"></i>
+              <div class="icon-pulse"></div>
             </div>
             <div class="referral-text">
+              <span class="referral-badge">Бонус</span>
               <h2>Реферальная программа</h2>
-              <h3>5 звёзд в подарок</h3>
-              <p>Приведите друга и получите бонус! При заказе вашего друга от 25 звёзд - 5 звёзд вам в подарок</p>
-              <div class="referral-actions">
-                <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="cta-button secondary">
-                  <i class="fab fa-telegram"></i>
-                  Купить буст
-                </a>
+              <div class="referral-highlight">
+                <span class="highlight-value">5</span>
+                <span class="highlight-label">звёзд в подарок</span>
               </div>
+              <p>Приведите друга с заказом от 25 звёзд и получите 5 звёзд бесплатно!</p>
+              <a href="https://t.me/Cla1ve" target="_blank" class="referral-btn">
+                <i class="fab fa-telegram"></i>
+                <span>Написать @Cla1ve</span>
+              </a>
             </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="final-cta">
+      <div class="container">
+        <div class="cta-content">
+          <h2>Готовы начать?</h2>
+          <p>Оформите заказ прямо сейчас и получите скидку 10%</p>
+          <div class="cta-buttons">
+            <a href="https://t.me/cla1ve_boost_bot" target="_blank" class="cta-primary">
+              <i class="fab fa-telegram"></i>
+              <span>Купить буст</span>
+            </a>
+            <a href="contact.html" class="cta-secondary">
+              <i class="fas fa-calculator"></i>
+              <span>Рассчитать цену</span>
+            </a>
           </div>
         </div>
       </div>
