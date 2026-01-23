@@ -4,8 +4,8 @@
  */
 
 // Базовые URL API
-const API_BASE_HTTP = 'http://46.149.68.193:8001';
-const API_BASE_HTTPS = 'https://46.149.68.193:8001'; // После настройки HTTPS
+const API_BASE_HTTP = 'http://cla1veisapi.ru';
+const API_BASE_HTTPS = 'https://cla1veisapi.ru';
 
 // Определяем URL API в зависимости от протокола
 const getApiUrl = () => {

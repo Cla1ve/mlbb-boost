@@ -1,9 +1,21 @@
 /**
  * MLBB Boost - Prices Module
- * Загрузка цен из API с кэшированием на 3 дня
+ * Загрузка цен из API с кэшированием на 1 час
  */
 
-const PRICES_API_URL = 'http://46.149.68.193:8001/prices/formatted';
+// Базовые URL API
+const API_BASE_HTTP = 'http://cla1veisapi.ru';
+const API_BASE_HTTPS = 'https://cla1veisapi.ru';
+
+// Определяем URL API в зависимости от протокола
+const getPricesApiUrl = () => {
+  if (window.location.protocol === 'https:') {
+    return `${API_BASE_HTTPS}/prices/formatted`;
+  }
+  return `${API_BASE_HTTP}/prices/formatted`;
+};
+
+const PRICES_API_URL = getPricesApiUrl();
 const CACHE_KEY = 'mlbb_prices_cache';
 const CACHE_DURATION = 60 * 60 * 1000; // 1 час в миллисекундах
 
