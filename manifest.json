@@ -1,0 +1,36 @@
+{
+  "name": "Boost MLBB — Буст Mobile Legends",
+  "short_name": "MLBB Boost",
+  "description": "Профессиональный буст Mobile Legends от PRO игроков. Безопасная прокачка ранга с гарантией результата.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0A1A2F",
+  "theme_color": "#00FF9D",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "dir": "ltr",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "images/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["games", "shopping"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}

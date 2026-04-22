@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512" height="512" viewBox="0 0 512 512">
+  <path d="M256 0L512 128V384L256 512L0 384V128L256 0Z" fill="#0A1A2F"/>
+  <path d="M256 64L448 160V352L256 448L64 352V160L256 64Z" fill="#00FF9D"/>
+</svg> 
