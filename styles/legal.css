@@ -716,14 +716,64 @@
   }
 }
 
+@media (max-width: 768px) {
+  .site-footer.legal-footer {
+    padding: 35px 0 15px;
+  }
+}
+
 @media (max-width: 576px) {
   .footer-grid {
     grid-template-columns: 1fr;
-    gap: 30px;
+    gap: 24px;
+  }
+  
+  .footer-column h4 {
+    font-size: 0.9rem;
+    margin-bottom: 14px;
+  }
+  
+  .footer-column p,
+  .footer-column li,
+  .footer-column a {
+    font-size: 0.82rem;
+  }
+  
+  .requisites-list {
+    font-size: 0.8rem !important;
   }
   
   .footer-bottom-content {
     flex-direction: column;
     text-align: center;
+    gap: 10px;
+  }
+  
+  .footer-bottom-content p {
+    font-size: 0.78rem;
+  }
+  
+  .footer-bottom-links {
+    gap: 14px;
+  }
+  
+  .footer-bottom-links a {
+    font-size: 0.78rem;
+  }
+  
+  .payment-icons {
+    margin-top: 10px;
+  }
+  
+  .payment-icon {
+    width: 40px;
+    height: 26px;
+    font-size: 0.65rem;
+  }
+  
+  .ssl-badge {
+    font-size: 0.78rem;
+    padding: 6px 12px;
+    margin-top: 10px;
   }
 }

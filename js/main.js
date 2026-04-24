@@ -57,21 +57,24 @@ document.addEventListener('DOMContentLoaded', () => {
     navList.appendChild(ctaLi);
 
     // Добавляем стили для корректного отображения
-    navList.style.display = 'flex';
-    navList.style.alignItems = 'center';
-    navList.style.gap = '2rem';
+    if (window.innerWidth > 768) {
+      navList.style.display = 'flex';
+      navList.style.alignItems = 'center';
+      navList.style.gap = '0.5rem';
+    }
   }
 
   // Particles.js Config
   const particlesContainer = document.getElementById('particles-js');
+  const isMobile = window.innerWidth <= 768;
   if (particlesContainer && typeof particlesJS !== 'undefined') {
     particlesJS('particles-js', {
       particles: {
         number: {
-          value: 80,
+          value: isMobile ? 30 : 80,
           density: {
             enable: true,
-            value_area: 800
+            value_area: isMobile ? 600 : 800
           }
         },
         color: {
@@ -199,7 +202,7 @@ document.addEventListener('DOMContentLoaded', () => {
   lazyImages.forEach(img => imageObserver.observe(img));
 
   // Кэширование для ускорения загрузки
-  if ('serviceWorker' in navigator) {
+  if ('serviceWorker' in navigator && location.protocol !== 'file:') {
     window.addEventListener('load', () => {
       navigator.serviceWorker.register('/service-worker.js')
         .then(registration => {

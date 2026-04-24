@@ -227,7 +227,7 @@
     </section>
 
     <!-- Services Preview Section -->
-    <section class="services-preview">
+    <section class="services-preview reveal">
       <div class="container">
         <div class="section-header">
           <div class="header-badge"><i class="fas fa-star"></i> Услуги</div>
@@ -235,57 +235,73 @@
           <p>Подберём оптимальный вариант под ваши задачи</p>
         </div>
 
-        <div class="services-slider">
-          <a href="contact.html?type=standard" class="service-preview-card">
+        <div class="services-slider stagger-children">
+          <a href="contact.html?type=standard" class="service-preview-card reveal" style="--child-index: 0">
             <div class="card-glow"></div>
             <div class="service-icon-wrap">
               <i class="fas fa-user-shield"></i>
             </div>
-            <h3>Обычный буст</h3>
-            <p>Со входом в аккаунт</p>
-            <div class="card-tag popular">Популярный</div>
+            <div class="card-text">
+              <div class="card-title-row">
+                <h3>Обычный буст</h3>
+                <span class="card-tag popular">Популярный</span>
+              </div>
+              <p>Со входом в аккаунт</p>
+            </div>
             <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
           </a>
 
-          <a href="contact.html?type=party" class="service-preview-card">
+          <a href="contact.html?type=party" class="service-preview-card reveal" style="--child-index: 1">
             <div class="card-glow duo"></div>
             <div class="service-icon-wrap duo">
               <i class="fas fa-users"></i>
             </div>
-            <h3>Совместный буст</h3>
-            <p>Играем вместе с вами</p>
-            <div class="card-tag duo">Duo</div>
+            <div class="card-text">
+              <div class="card-title-row">
+                <h3>Совместный буст</h3>
+                <span class="card-tag duo">Duo</span>
+              </div>
+              <p>Играем вместе с вами</p>
+            </div>
             <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
           </a>
 
-          <a href="contact.html?type=role" class="service-preview-card">
+          <a href="contact.html?type=role" class="service-preview-card reveal" style="--child-index: 2">
             <div class="card-glow"></div>
             <div class="service-icon-wrap">
               <i class="fas fa-mask"></i>
             </div>
-            <h3>Буст на роли</h3>
-            <p>На выбранной роли</p>
+            <div class="card-text">
+              <h3>Буст на роли</h3>
+              <p>На выбранной роли</p>
+            </div>
             <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
           </a>
 
-          <a href="contact.html?type=hero" class="service-preview-card">
+          <a href="contact.html?type=hero" class="service-preview-card reveal" style="--child-index: 3">
             <div class="card-glow"></div>
             <div class="service-icon-wrap">
               <i class="fas fa-user-ninja"></i>
             </div>
-            <h3>Буст MMR</h3>
-            <p>Топ по герою</p>
+            <div class="card-text">
+              <h3>Буст MMR</h3>
+              <p>Топ по герою</p>
+            </div>
             <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
           </a>
 
-          <a href="contact.html?type=rising" class="service-preview-card rising">
+          <a href="contact.html?type=rising" class="service-preview-card rising reveal" style="--child-index: 4">
             <div class="card-glow rising"></div>
             <div class="service-icon-wrap rising">
               <i class="fas fa-bolt"></i>
             </div>
-            <h3>Rising буст</h3>
-            <p>Прохождение режима</p>
-            <div class="card-tag hot">Hot</div>
+            <div class="card-text">
+              <div class="card-title-row">
+                <h3>Rising буст</h3>
+                <span class="card-tag hot">Hot</span>
+              </div>
+              <p>Прохождение режима</p>
+            </div>
             <div class="card-arrow"><i class="fas fa-arrow-right"></i></div>
           </a>
         </div>
@@ -300,7 +316,7 @@
     </section>
 
     <!-- Why Us Section -->
-    <section class="why-us">
+    <section class="why-us reveal">
       <div class="container">
         <div class="section-header">
           <div class="header-badge"><i class="fas fa-shield-alt"></i> Преимущества</div>
@@ -308,8 +324,8 @@
           <p>Доверие клиентов - наш главный приоритет</p>
         </div>
 
-        <div class="why-us-grid">
-          <div class="why-card">
+        <div class="why-us-grid stagger-children">
+          <div class="why-card reveal" style="--child-index: 0">
             <div class="why-icon">
               <i class="fas fa-trophy"></i>
               <div class="icon-bg"></div>
@@ -321,7 +337,7 @@
             <div class="why-number">01</div>
           </div>
 
-          <div class="why-card">
+          <div class="why-card reveal" style="--child-index: 1">
             <div class="why-icon">
               <i class="fas fa-bolt"></i>
               <div class="icon-bg"></div>
@@ -333,7 +349,7 @@
             <div class="why-number">02</div>
           </div>
 
-          <div class="why-card">
+          <div class="why-card reveal" style="--child-index: 2">
             <div class="why-icon">
               <i class="fas fa-lock"></i>
               <div class="icon-bg"></div>
@@ -345,7 +361,7 @@
             <div class="why-number">03</div>
           </div>
 
-          <div class="why-card">
+          <div class="why-card reveal" style="--child-index: 3">
             <div class="why-icon">
               <i class="fas fa-headset"></i>
               <div class="icon-bg"></div>
@@ -361,22 +377,22 @@
     </section>
 
     <!-- Social Proof Section -->
-    <section class="social-proof">
+    <section class="social-proof reveal-scale">
       <div class="container">
         <div class="proof-content">
           <div class="proof-stats">
             <div class="proof-stat">
-              <span class="proof-value">350+</span>
+              <span class="proof-value" data-counter="true" data-counter-start="0" data-counter-end="350">350+</span>
               <span class="proof-label">Отзывов</span>
             </div>
             <div class="proof-divider"></div>
             <div class="proof-stat">
-              <span class="proof-value">98%</span>
+              <span class="proof-value" data-counter="true" data-counter-start="0" data-counter-end="98">98%</span>
               <span class="proof-label">Довольных</span>
             </div>
             <div class="proof-divider"></div>
             <div class="proof-stat">
-              <span class="proof-value">4.9</span>
+              <span class="proof-value" data-counter="true" data-counter-start="0" data-counter-end="4.9">4.9</span>
               <span class="proof-label">Рейтинг</span>
             </div>
           </div>
@@ -393,7 +409,7 @@
     </section>
 
     <!-- Referral Section - Premium -->
-    <section class="referral">
+    <section class="referral reveal">
       <div class="container">
         <div class="referral-card">
           <div class="referral-decoration">
@@ -424,7 +440,7 @@
     </section>
 
     <!-- CTA Section -->
-    <section class="final-cta">
+    <section class="final-cta reveal">
       <div class="container">
         <div class="cta-content">
           <h2>Готовы заказать буст Mobile Legends?</h2>
