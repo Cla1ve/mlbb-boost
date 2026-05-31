@@ -638,22 +638,35 @@ function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate) 
 
   const discountedPrice = Math.round(originalPrice * (1 - DISCOUNT_PERCENT / 100));
 
+  // Remember raw RUB amounts so we can re-render on language/rate change.
+  if (originalPriceEl) originalPriceEl.dataset.rub = originalPrice;
+  if (discountedPriceEl) discountedPriceEl.dataset.rub = discountedPrice;
+
+  const useUsd = !!(window.MLBBCurrency && window.MLBBCurrency.isEnglish && window.MLBBCurrency.isEnglish());
+
   if (resultType) resultType.textContent = BOOST_TYPES[currentBoostType].name;
   if (resultRoute) resultRoute.textContent = `${rankFrom} → ${rankTo}`;
   if (originalPriceEl) originalPriceEl.textContent = formatPrice(originalPrice);
-  
+
   // Обновленный формат для нового дизайна
   if (discountedPriceEl) {
     const priceNumber = discountedPriceEl.querySelector('.price-number');
     const priceCurrency = discountedPriceEl.querySelector('.price-currency');
-    
+
     if (priceNumber && priceCurrency) {
-      priceNumber.textContent = discountedPrice.toLocaleString('ru-RU');
+      if (useUsd) {
+        // USD: symbol goes before the amount -> render in the number span.
+        priceNumber.textContent = window.MLBBCurrency.format(discountedPrice);
+        priceCurrency.textContent = '';
+      } else {
+        priceNumber.textContent = discountedPrice.toLocaleString('ru-RU');
+        priceCurrency.textContent = '\u20BD';
+      }
     } else {
       discountedPriceEl.textContent = formatPrice(discountedPrice);
     }
   }
-  
+
   if (resultTime) resultTime.textContent = estimatedTime;
   if (resultWinrate) resultWinrate.textContent = winrate;
 
@@ -669,7 +682,48 @@ function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate) 
   }, 100);
 }
 
+/**
+ * Перерисовка цены результата при смене языка/курса (RUB <-> USD)
+ */
+function refreshResultCurrency() {
+  const originalPriceEl = document.getElementById('original-price');
+  const discountedPriceEl = document.getElementById('discounted-price');
+  const useUsd = !!(window.MLBBCurrency && window.MLBBCurrency.isEnglish && window.MLBBCurrency.isEnglish());
+
+  if (originalPriceEl) {
+    const rub = parseInt(originalPriceEl.dataset.rub || '0', 10);
+    originalPriceEl.textContent = formatPrice(rub);
+  }
+  if (discountedPriceEl) {
+    const rub = parseInt(discountedPriceEl.dataset.rub || '0', 10);
+    const priceNumber = discountedPriceEl.querySelector('.price-number');
+    const priceCurrency = discountedPriceEl.querySelector('.price-currency');
+    if (priceNumber && priceCurrency) {
+      if (useUsd) {
+        priceNumber.textContent = window.MLBBCurrency.format(rub);
+        priceCurrency.textContent = '';
+      } else {
+        priceNumber.textContent = rub.toLocaleString('ru-RU');
+        priceCurrency.textContent = '\u20BD';
+      }
+    } else {
+      discountedPriceEl.textContent = formatPrice(rub);
+    }
+  }
+}
+
+// Initialize the placeholder in the right currency on load.
+document.addEventListener('DOMContentLoaded', refreshResultCurrency);
+
+// Re-render the result if the exchange rate loads/changes after calculation.
+document.addEventListener('mlbb:ratechange', refreshResultCurrency);
+// Re-render the result when the site language switches (RUB <-> USD).
+document.addEventListener('mlbb:langchange', refreshResultCurrency);
+
 function formatPrice(price) {
+  if (window.MLBBCurrency && window.MLBBCurrency.format) {
+    return window.MLBBCurrency.format(price);
+  }
   return price.toLocaleString('ru-RU') + ' ₽';
 }
 

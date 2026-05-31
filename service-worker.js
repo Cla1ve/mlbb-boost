@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'mlbb-boost-v3';
+const CACHE_VERSION = 'mlbb-boost-v4';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;
@@ -29,6 +29,7 @@ const STATIC_ASSETS = [
   '/js/i18n-legal.js',
   '/js/i18n-legal-body.js',
   '/js/i18n.js',
+  '/js/currency.js',
   '/manifest.json'
 ];
 

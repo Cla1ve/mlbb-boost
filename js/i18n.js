@@ -92,6 +92,16 @@
   var observer = null;
   var booting = true;
 
+  // Post-translation text transforms (e.g. currency conversion).
+  // Each transform receives the EN string and returns a possibly modified one.
+  var transforms = [];
+  function runTransforms(str) {
+    for (var i = 0; i < transforms.length; i++) {
+      try { str = transforms[i](str); } catch (e) {}
+    }
+    return str;
+  }
+
   /* ---------------- helpers ---------------- */
 
   function hasCyrillic(s) { return /[А-Яа-яЁё]/.test(s); }
@@ -169,11 +179,17 @@
       translated = transliterate(trimmed);
     }
 
-    if (translated !== null && translated !== trimmed) {
+    // Base EN string: dictionary/translit result, otherwise the original.
+    var base = (translated !== null) ? translated : trimmed;
+
+    // Apply post-translation transforms (currency, etc.).
+    var finalText = transforms.length ? runTransforms(base) : base;
+
+    if (finalText !== trimmed) {
       // Preserve leading / trailing whitespace of the original node.
       var lead = (original.match(/^\s*/) || [''])[0];
       var trail = (original.match(/\s*$/) || [''])[0];
-      var value = lead + translated + trail;
+      var value = lead + finalText + trail;
       if (node.nodeValue !== value) node.nodeValue = value;
     }
   }
@@ -199,7 +215,9 @@
       }
       var trimmed = original.trim();
       var t = translatePhrase(trimmed);
-      if (t !== null && t !== trimmed) el.setAttribute(attr, t);
+      var base = (t !== null) ? t : trimmed;
+      var finalText = transforms.length ? runTransforms(base) : base;
+      if (finalText !== trimmed) el.setAttribute(attr, finalText);
     }
   }
 
@@ -271,7 +289,8 @@
     if (origTitle === null) origTitle = document.title;
     if (currentLang === 'en') {
       var t = translatePhrase(origTitle.trim());
-      document.title = t || origTitle;
+      var base = t || origTitle;
+      document.title = transforms.length ? runTransforms(base) : base;
     } else {
       document.title = origTitle;
     }
@@ -295,7 +314,8 @@
         continue;
       }
       var tr = translatePhrase(original.trim());
-      if (tr !== null) m.setAttribute('content', tr);
+      var metaBase = (tr !== null) ? tr : original;
+      m.setAttribute('content', transforms.length ? runTransforms(metaBase) : metaBase);
     }
 
     // hreflang + html lang
@@ -338,6 +358,11 @@
       try { localStorage.setItem(STORAGE_KEY, lang); } catch (e) {}
       syncUrl(lang);
     }
+
+    // Notify listeners (e.g. calculator) that the language changed.
+    try {
+      document.dispatchEvent(new CustomEvent('mlbb:langchange', { detail: { lang: lang } }));
+    } catch (e) {}
 
     if (observer) {
       observer.observe(document.body, { childList: true, subtree: true });
@@ -491,6 +516,24 @@
   // Public API
   window.MLBBi18n = {
     set: function (lang) { applyLanguage(lang, true); },
-    get: function () { return currentLang; }
+    get: function () { return currentLang; },
+    // Register a post-translation text transform (e.g. currency conversion).
+    registerTransform: function (fn) {
+      if (typeof fn === 'function' && transforms.indexOf(fn) === -1) {
+        transforms.push(fn);
+        if (!booting && currentLang !== DEFAULT_LANG) {
+          walk(document.body);
+          rewriteBotText(document.body);
+          handleHead();
+        }
+      }
+    },
+    // Re-run translation + transforms (used when the exchange rate updates).
+    refresh: function () {
+      if (currentLang === DEFAULT_LANG) return;
+      walk(document.body);
+      rewriteBotText(document.body);
+      handleHead();
+    }
   };
 })();
