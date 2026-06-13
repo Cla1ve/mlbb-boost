@@ -68,6 +68,13 @@
     sortNewest:     { ru: 'Сначала новые', en: 'Newest first' },
     sortOldest:     { ru: 'Сначала старые',en: 'Oldest first' },
     sortRating:     { ru: 'По оценке',     en: 'Highest rated' },
+    routeFrom:      { ru: 'Старт',         en: 'From' },
+    routeTo:        { ru: 'Цель',          en: 'To' },
+    star1:          { ru: '1 звезда',      en: '1 star' },
+    star2:          { ru: '2 звезды',      en: '2 stars' },
+    star3:          { ru: '3 звезды',      en: '3 stars' },
+    star4:          { ru: '4 звезды',      en: '4 stars' },
+    star5:          { ru: '5 звёзд',       en: '5 stars' },
     verified:       { ru: 'Проверенный бустер', en: 'Verified booster' },
     boosterDid:     { ru: 'Выполнил заказ',     en: 'Completed the order' },
     clientRated:    { ru: 'Оценка клиента',     en: 'Client rating' },
@@ -201,7 +208,7 @@
    * ============================================================ */
   var container, ratingFilters, boostFilters, boosterSelect, sortSelect,
       searchInput, searchClear, metaLine, loadMoreWrap, loadMoreBtn,
-      newPill, statCount, statRating;
+      newPill, statCount, statRating, statHappy, bannerCount;
 
   /* ============================================================
    * Утилиты
@@ -325,21 +332,6 @@
     var box = el('div', 'rc-params');
     var any = false;
 
-    // Ранг
-    if (!r.is_legacy && (r.rank_from || r.rank_to)) {
-      var rankRow = el('div', 'rc-param rc-param--rank');
-      rankRow.appendChild(icon('fas fa-ranking-star'));
-      var rbody = el('div', 'rc-param-body');
-      rbody.appendChild(el('span', 'rc-param-label', L('rankLabel')));
-      var route = el('span', 'rc-rank-route');
-      route.appendChild(el('span', 'rc-rank-from', localizeRank(r.rank_from) || '—'));
-      route.appendChild(icon('fas fa-arrow-right-long'));
-      route.appendChild(el('span', 'rc-rank-to', localizeRank(r.rank_to) || '—'));
-      rbody.appendChild(route);
-      rankRow.appendChild(rbody);
-      box.appendChild(rankRow); any = true;
-    }
-
     // Rising
     if (r.rising) {
       var stage = r.rising.stage_name || r.rising.stage;
@@ -362,6 +354,28 @@
     if (r.duration) { box.appendChild(paramRow('fa-clock', L('durationLabel'), localizeDuration(r.duration))); any = true; }
 
     return any ? box : null;
+  }
+
+  // Заметный блок «Старт -> Цель»
+  function buildRoute(r) {
+    if (r.is_legacy || (!r.rank_from && !r.rank_to)) return null;
+    var route = el('div', 'rc-route');
+
+    var from = el('div', 'rc-route-col');
+    from.appendChild(el('span', 'rc-route-cap', L('routeFrom')));
+    from.appendChild(el('span', 'rc-route-rank', localizeRank(r.rank_from) || '—'));
+    route.appendChild(from);
+
+    var arrow = el('div', 'rc-route-arrow');
+    arrow.appendChild(icon('fas fa-arrow-right-long'));
+    route.appendChild(arrow);
+
+    var to = el('div', 'rc-route-col rc-route-col--to');
+    to.appendChild(el('span', 'rc-route-cap', L('routeTo')));
+    to.appendChild(el('span', 'rc-route-rank', localizeRank(r.rank_to) || '—'));
+    route.appendChild(to);
+
+    return route;
   }
 
   function buildStars(rating) {
@@ -422,6 +436,10 @@
       }
       card.appendChild(badge);
     }
+
+    /* --- Заметный маршрут Старт -> Цель --- */
+    var route = buildRoute(r);
+    if (route) card.appendChild(route);
 
     /* --- Текст отзыва клиента --- */
     var content = el('div', 'rc-content');
@@ -522,9 +540,8 @@
     var q = norm(state.search);
     var out = state.all.filter(function (r) {
       if (state.filterRating !== 'all') {
-        var rt = r.rating == null ? -1 : r.rating;
-        if (state.filterRating === '5') { if (rt !== 5) return false; }
-        else if (rt < parseInt(state.filterRating, 10)) return false;
+        var rt = r.rating == null ? 0 : r.rating;
+        if (rt !== parseInt(state.filterRating, 10)) return false;
       }
       if (state.filterBoost !== 'all' && (r.boost_type || '') !== state.filterBoost) return false;
       if (state.filterBooster !== 'all' && (!r.booster || r.booster.ref !== state.filterBooster)) return false;
@@ -611,62 +628,122 @@
   }
 
   function updateStats() {
-    if (statCount) {
-      var total = state.total != null ? state.total : state.all.length;
-      statCount.textContent = total + ((state.loadedAll || state.total == null) ? '' : '+');
-    }
-    if (statRating && state.all.length) {
-      var sum = 0, cnt = 0;
+    var total = state.total != null ? state.total : state.all.length;
+    if (statCount) statCount.textContent = String(total);
+    if (bannerCount) bannerCount.textContent = String(total);
+
+    if (state.all.length) {
+      var sum = 0, rated = 0, happy = 0;
       for (var i = 0; i < state.all.length; i++) {
-        if (state.all[i].rating != null) { sum += state.all[i].rating; cnt++; }
+        var v = state.all[i].rating;
+        if (v >= 1 && v <= 5) { sum += v; rated++; if (v >= 4) happy++; }
       }
-      if (cnt) statRating.textContent = (sum / cnt).toFixed(1);
+      if (rated) {
+        if (statRating) statRating.textContent = (sum / rated).toFixed(1);
+        if (statHappy) statHappy.textContent = Math.floor(happy / rated * 100) + '%';
+        updateSchema(total, sum / rated);
+      }
     }
+  }
+
+  // Синхронизируем JSON-LD aggregateRating (плейсхолдеры 350 / 4.9) один раз.
+  var schemaDone = false;
+  function updateSchema(count, rating) {
+    if (schemaDone || count == null) return;
+    var scripts = document.querySelectorAll('script[type="application/ld+json"]');
+    Array.prototype.forEach.call(scripts, function (sc) {
+      if (sc.textContent.indexOf('aggregateRating') === -1) return;
+      var t = sc.textContent
+        .replace(/("reviewCount"\s*:\s*")350(")/g, '$1' + count + '$2')
+        .replace(/("ratingValue"\s*:\s*")4\.9(")/g, '$1' + rating.toFixed(1) + '$2');
+      if (t !== sc.textContent) sc.textContent = t;
+    });
+    schemaDone = true;
   }
 
   /* ============================================================
    * Построение панели фильтров
    * ============================================================ */
+  function ratingCounts() {
+    var c = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
+    for (var i = 0; i < state.all.length; i++) {
+      var v = state.all[i].rating;
+      if (v >= 1 && v <= 5) c[v]++;
+    }
+    return c;
+  }
+  function boostCounts() {
+    var c = Object.create(null);
+    for (var i = 0; i < state.all.length; i++) {
+      var t = state.all[i].boost_type;
+      if (t && BOOST_META[t]) c[t] = (c[t] || 0) + 1;
+    }
+    return c;
+  }
+  function countBadge(n) { return el('span', 'fb-count', String(n)); }
+
   function buildRatingFilters() {
     if (!ratingFilters) return;
+    var counts = ratingCounts();
+    var totalAll = state.total != null ? state.total : state.all.length;
     ratingFilters.innerHTML = '';
-    var defs = [['all', 'fa-layer-group', L('all')], ['5', 'fa-star', L('stars5')],
-                ['4', 'fa-star', L('stars4')], ['3', 'fa-star', L('stars3')]];
-    defs.forEach(function (d) {
-      var b = el('button', 'filter-btn' + (d[0] === state.filterRating ? ' active' : ''));
-      b.setAttribute('data-rating', d[0]);
-      b.appendChild(icon('fas ' + d[1]));
-      b.appendChild(el('span', null, ' ' + d[2]));
+
+    var addBtn = function (value, build, count, empty) {
+      var b = el('button', 'filter-btn' + (value === state.filterRating ? ' active' : '') + (empty ? ' is-empty' : ''));
+      b.setAttribute('data-rating', value);
+      build(b);
+      b.appendChild(countBadge(count));
       b.addEventListener('click', function () {
-        state.filterRating = d[0]; state.visible = INITIAL_VISIBLE;
-        syncActive(ratingFilters, 'data-rating', d[0]); render();
+        state.filterRating = value; state.visible = INITIAL_VISIBLE;
+        syncActive(ratingFilters, 'data-rating', value); render();
       });
       ratingFilters.appendChild(b);
-    });
+    };
+
+    addBtn('all', function (b) {
+      b.appendChild(icon('fas fa-layer-group'));
+      b.appendChild(el('span', null, ' ' + L('all')));
+    }, totalAll, false);
+
+    for (var s = 5; s >= 1; s--) {
+      (function (star) {
+        addBtn(String(star), function (b) {
+          b.setAttribute('aria-label', L('star' + star));
+          b.setAttribute('title', L('star' + star));
+          var lab = el('span', 'fb-stars');
+          lab.appendChild(el('span', 'fb-num', String(star)));
+          lab.appendChild(icon('fas fa-star'));
+          b.appendChild(lab);
+        }, counts[star] || 0, (counts[star] || 0) === 0);
+      })(s);
+    }
   }
 
   function buildBoostFilters() {
     if (!boostFilters) return;
+    var counts = boostCounts();
     var present = Object.create(null);
     state.all.forEach(function (r) { if (r.boost_type && BOOST_META[r.boost_type]) present[r.boost_type] = true; });
     var types = BOOST_ORDER.filter(function (t) { return present[t]; });
+    var allCount = state.total != null ? state.total : state.all.length;
 
     boostFilters.innerHTML = '';
-    var mk = function (value, iconCls, label) {
+    var mk = function (value, iconCls, label, count) {
       var b = el('button', 'filter-btn' + (value === state.filterBoost ? ' active' : ''));
       b.setAttribute('data-boost', value);
       b.appendChild(icon('fas ' + iconCls));
       b.appendChild(el('span', null, ' ' + label));
+      b.appendChild(countBadge(count));
       b.addEventListener('click', function () {
         state.filterBoost = value; state.visible = INITIAL_VISIBLE;
         syncActive(boostFilters, 'data-boost', value); render();
       });
       return b;
     };
-    boostFilters.appendChild(mk('all', 'fa-layer-group', L('allTypes')));
+    boostFilters.appendChild(mk('all', 'fa-layer-group', L('allTypes'), allCount));
     types.forEach(function (t) {
       var m = BOOST_META[t];
-      boostFilters.appendChild(mk(t, m.icon, m[state.lang] != null ? m[state.lang] : m.ru));
+      boostFilters.appendChild(mk(t, m.icon, m[state.lang] != null ? m[state.lang] : m.ru, counts[t] || 0));
     });
     boostFilters.parentNode.style.display = types.length ? '' : 'none';
   }
@@ -716,6 +793,7 @@
   }
 
   function rebuildFilters() {
+    buildRatingFilters();
     buildBoostFilters();
     buildBoosterFilter();
   }
@@ -927,6 +1005,8 @@
     newPill = document.getElementById('reviews-new-pill');
     statCount = document.getElementById('stat-reviews-count');
     statRating = document.getElementById('stat-reviews-rating');
+    statHappy = document.getElementById('stat-reviews-happy');
+    bannerCount = document.getElementById('reviews-banner-count');
 
     state.lang = getLang();
     applyStaticLabels();

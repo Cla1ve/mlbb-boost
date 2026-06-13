@@ -1459,3 +1459,120 @@
   .reviews-new-pill { width: 100%; justify-content: center; }
   .rc-avatar { width: 46px; height: 46px; min-width: 46px; font-size: 1.2rem; }
 }
+
+/* ============================================================
+   REVIEWS v5.0 — filter counts, exact star filters, route block
+   ============================================================ */
+
+/* ---------------- Filter chips with counts ---------------- */
+.filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.filter-btn i { margin-right: 0; }
+
+.fb-stars {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.fb-num { font-weight: 800; }
+
+.fb-stars i { color: #FFC542; font-size: 0.8rem; }
+
+.filter-btn.active .fb-stars i { color: var(--primary-dark); }
+
+.fb-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.4rem;
+  height: 1.4rem;
+  padding: 0 0.4rem;
+  margin-left: 0.15rem;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 20px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-gray);
+  line-height: 1;
+}
+
+.filter-btn.active .fb-count {
+  background: rgba(10, 26, 47, 0.22);
+  color: var(--primary-dark);
+}
+
+.filter-btn.is-empty {
+  opacity: 0.4;
+}
+
+.filter-btn.is-empty .fb-count {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* ---------------- Prominent boost badge ---------------- */
+.rc-boost-badge {
+  padding: 0.5rem 1rem;
+  font-size: 0.86rem;
+  border-radius: 12px;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+}
+
+.rc-boost-badge i { font-size: 0.95rem; }
+
+/* ---------------- Start -> Target route ---------------- */
+.rc-route {
+  display: flex;
+  align-items: stretch;
+  gap: 0.6rem;
+  padding: 0.85rem;
+  background: linear-gradient(135deg, rgba(0, 255, 157, 0.06), rgba(0, 212, 255, 0.05));
+  border: 1px solid rgba(0, 255, 157, 0.16);
+  border-radius: 14px;
+}
+
+.rc-route-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  min-width: 0;
+}
+
+.rc-route-cap {
+  font-size: 0.64rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-gray);
+}
+
+.rc-route-col--to .rc-route-cap { color: var(--accent-green); }
+
+.rc-route-rank {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--primary-light);
+  line-height: 1.3;
+}
+
+.rc-route-col--to .rc-route-rank { color: var(--accent-green); }
+
+.rc-route-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent-green);
+  font-size: 0.95rem;
+  opacity: 0.8;
+  padding: 0 0.1rem;
+}
+
+@media (max-width: 380px) {
+  .rc-route { flex-direction: column; gap: 0.4rem; }
+  .rc-route-arrow { transform: rotate(90deg); }
+}
