@@ -203,6 +203,41 @@
       'finally said goodbye to Epic 😌 the booster was awesome, fast and high quality. will come back again!'
   };
 
+  /* ---- live reviews UI (reviews.js v3) ---- */
+  R['Бустер'] = 'Booster';
+  R['Открыть отзыв'] = 'Open review';
+  R['Без комментария'] = 'No comment';
+
+  /* boost type labels */
+  R['Стандартный буст'] = 'Standard boost';
+  R['Буст на роли'] = 'Role boost';
+  R['Буст на герое'] = 'Hero boost';
+  R['Буст в пати'] = 'Party boost';
+  R['Rising: вход'] = 'Rising: login';
+  R['Rising: пати'] = 'Rising: party';
+
+  /* chip labels */
+  R['Герой:'] = 'Hero:';
+  R['Роль:'] = 'Role:';
+
+  /* filters */
+  R['Оценка'] = 'Rating';
+  R['Все'] = 'All';
+  R['5 звёзд'] = '5 stars';
+  R['4+ звёзды'] = '4+ stars';
+  R['3+ звезды'] = '3+ stars';
+  R['Все типы'] = 'All types';
+  R['Показать ещё'] = 'Show more';
+
+  /* states */
+  R['Ничего не найдено'] = 'Nothing found';
+  R['Под выбранные фильтры пока нет отзывов. Попробуйте смягчить условия.'] =
+    'No reviews match the selected filters yet. Try relaxing the conditions.';
+  R['Не удалось загрузить отзывы'] = 'Failed to load reviews';
+  R['Проверьте соединение и попробуйте ещё раз.'] = 'Check your connection and try again.';
+  R['Повторить'] = 'Retry';
+  R['Появились новые отзывы'] = 'New reviews available';
+
   window.MLBB_DICT = window.MLBB_DICT || {};
   for (var k in R) {
     if (R.hasOwnProperty(k)) window.MLBB_DICT[k] = R[k];

@@ -169,7 +169,7 @@
           <div class="stat-card">
             <div class="stat-icon"><i class="fas fa-chart-line"></i></div>
             <div class="stat-info">
-              <span class="stat-value">4.9</span>
+              <span class="stat-value" id="stat-reviews-rating">4.9</span>
               <span class="stat-label">Рейтинг</span>
             </div>
             <div class="stars">●●●●●</div>
@@ -177,7 +177,7 @@
           <div class="stat-card">
             <div class="stat-icon"><i class="fas fa-comments"></i></div>
             <div class="stat-info">
-              <span class="stat-value">350+</span>
+              <span class="stat-value" id="stat-reviews-count">350+</span>
               <span class="stat-label">Отзывов</span>
             </div>
           </div>
@@ -211,45 +211,32 @@
     </div>
 
     <section class="reviews-grid">
-      <div class="filters">
-        <button class="filter-btn active" data-filter="all">Все отзывы</button>
-        <button class="filter-btn" data-filter="recent">Последние</button>
-        <button class="filter-btn" data-filter="top">Топ оценки</button>
+      <div class="reviews-toolbar">
+        <div class="filter-row" id="rating-filters" role="group" aria-label="Фильтр по оценке">
+          <span class="filter-row-label"><i class="fas fa-star"></i> Оценка</span>
+          <button class="filter-btn active" data-rating="all">Все</button>
+          <button class="filter-btn" data-rating="5">5 звёзд</button>
+          <button class="filter-btn" data-rating="4">4+ звёзды</button>
+          <button class="filter-btn" data-rating="3">3+ звезды</button>
+        </div>
+        <div class="filter-row" id="boost-filters" role="group" aria-label="Фильтр по типу буста">
+          <!-- Типы буста подгружаются динамически -->
+        </div>
       </div>
+
+      <button class="reviews-new-pill" id="reviews-new-pill" type="button" aria-live="polite">
+        <i class="fas fa-arrow-up"></i>
+        <span class="new-pill-text">Появились новые отзывы</span>
+      </button>
 
       <div class="reviews-container" id="reviews-container">
-        <!-- Reviews will be loaded dynamically -->
+        <!-- Отзывы загружаются из API -->
       </div>
-
-      <template id="review-template">
-        <div class="review-card">
-          <div class="review-header">
-            <div class="reviewer-info">
-              <div class="reviewer-avatar">
-                <img src="" alt="">
-              </div>
-              <div class="reviewer-details">
-                <h4 class="reviewer-name"></h4>
-                <div class="review-date"></div>
-              </div>
-            </div>
-            <div class="review-rating"></div>
-          </div>
-          <div class="review-content">
-            <p class="review-text"></p>
-          </div>
-          <div class="review-boost-details">
-            <div class="boost-from"></div>
-            <i class="fas fa-arrow-right"></i>
-            <div class="boost-to"></div>
-          </div>
-        </div>
-      </template>
 
       <div class="load-more">
         <button id="load-more-btn" class="load-more-btn">
           Показать ещё
-          <i class="fas fa-spinner fa-spin" style="display: none;"></i>
+          <i class="fas fa-chevron-down"></i>
         </button>
       </div>
     </section>
