@@ -1576,3 +1576,113 @@
   .rc-route { flex-direction: column; gap: 0.4rem; }
   .rc-route-arrow { transform: rotate(90deg); }
 }
+
+/* ============================================================
+   REVIEWS v6.0 — mobile overflow hardening (no horizontal scroll)
+   ============================================================ */
+
+/* Контейнеры и карточка не должны вылезать за ширину экрана */
+.reviews-grid,
+.reviews-toolbar,
+.reviews-container,
+.review-card {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.review-card {
+  overflow: hidden;            /* страховка от любого вылета контента */
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Все flex/grid-потомки должны уметь сжиматься (по умолчанию min-width:auto) */
+.rc-head,
+.rc-booster,
+.rc-booster-meta,
+.rc-rating-wrap,
+.rc-content,
+.rc-params,
+.rc-param,
+.rc-param-body,
+.rc-foot,
+.rc-foot-info,
+.rc-route,
+.rc-route-col {
+  min-width: 0;
+}
+
+/* Длинные строки (тексты-«простыни», номера, ранги) переносятся */
+.rc-text,
+.rc-route-rank,
+.rc-param-value,
+.rc-chip,
+.rc-order,
+.rc-date {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Имя бустера обрезается многоточием в пределах доступной ширины */
+.rc-booster-meta .reviewer-name {
+  max-width: 100%;
+}
+
+/* Бейджи/баджи переносятся, а не растягивают карточку */
+.rc-boost-badge { flex-wrap: wrap; max-width: 100%; }
+.rc-postno { white-space: nowrap; }
+
+/* Тулбар: ничего не вылезает */
+.filter-row { max-width: 100%; }
+.filter-btn { max-width: 100%; }
+.reviews-search { max-width: 100%; }
+#reviews-search { max-width: 100%; }
+.select-wrap select { max-width: 100%; }
+
+/* ---------- <= 768px ---------- */
+@media (max-width: 768px) {
+  .reviews-grid { padding: 0 0.85rem 3rem; }
+  .review-card { padding: 1.15rem; }
+  .rc-params { padding: 0.75rem; }
+  .rc-foot { flex-direction: column; align-items: stretch; gap: 0.7rem; }
+  .rc-tg-btn { justify-content: center; width: 100%; }
+  .rc-foot-info { flex-direction: row; flex-wrap: wrap; gap: 0.5rem 1rem; }
+}
+
+/* ---------- <= 560px ---------- */
+@media (max-width: 560px) {
+  .reviews-hero { padding: 95px 0 36px; }
+  .reviews-grid { padding: 0 0.7rem 2.5rem; }
+
+  /* Шапка карточки: бустер сверху, оценка уезжает в свою строку при нехватке места */
+  .rc-head { gap: 0.6rem; }
+  .rc-rating-wrap { align-items: flex-end; }
+  .rc-avatar { width: 44px; height: 44px; min-width: 44px; font-size: 1.15rem; }
+  .rc-booster-meta .reviewer-name { font-size: 1rem; }
+
+  /* Фильтры: горизонтальная прокрутка чипов вместо переноса в кашу */
+  #rating-filters,
+  #boost-filters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 0.25rem;
+  }
+  #rating-filters::-webkit-scrollbar,
+  #boost-filters::-webkit-scrollbar { display: none; }
+  .filter-btn { flex: 0 0 auto; }
+
+  .filter-block { gap: 0.5rem; align-items: stretch; flex-direction: column; }
+}
+
+/* ---------- <= 400px ---------- */
+@media (max-width: 400px) {
+  .reviews-grid { padding: 0 0.6rem 2.25rem; }
+  .review-card { padding: 1rem; border-radius: 16px; }
+  .rc-content { padding-left: 1.3rem; }
+  .rc-route { flex-direction: column; gap: 0.45rem; padding: 0.75rem; }
+  .rc-route-arrow { transform: rotate(90deg); }
+  .rc-boost-badge { font-size: 0.8rem; padding: 0.45rem 0.8rem; }
+  .rc-rating { font-size: 0.92rem; }
+}

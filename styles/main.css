@@ -609,3 +609,24 @@ body {
     font-size: 0.75rem;
   }
 }
+
+/* ============================================================
+   GLOBAL MOBILE SAFEGUARDS — prevent any horizontal overflow
+   ============================================================ */
+
+/* Медиа никогда не шире контейнера */
+img, svg, video, canvas {
+  max-width: 100%;
+}
+
+/* Длинные слова/строки/ссылки переносятся, а не ломают вёрстку */
+body {
+  overflow-wrap: break-word;
+}
+
+/* Длинные email/ссылки в подвалах и контактах не вылезают */
+a[href^="mailto:"],
+a[href^="tel:"] {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}

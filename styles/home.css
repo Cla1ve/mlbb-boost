@@ -1556,3 +1556,28 @@
     padding: 3rem 0;
   }
 }
+
+/* ============================================================
+   Proof CTA buttons — responsive (reviews + telegram)
+   ============================================================ */
+@media (max-width: 768px) {
+  .proof-cta-buttons {
+    width: 100%;
+    justify-content: center;
+  }
+  .proof-cta-buttons .reviews-btn,
+  .proof-cta-buttons .telegram-btn {
+    flex: 1 1 auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 420px) {
+  .proof-cta-buttons {
+    flex-direction: column;
+  }
+  .proof-cta-buttons .reviews-btn,
+  .proof-cta-buttons .telegram-btn {
+    width: 100%;
+  }
+}
