@@ -236,6 +236,7 @@
   R['Не удалось загрузить отзывы'] = 'Failed to load reviews';
   R['Проверьте соединение и попробуйте ещё раз.'] = 'Check your connection and try again.';
   R['Повторить'] = 'Retry';
+  R['Отзывы в Telegram'] = 'Reviews on Telegram';
   R['Появились новые отзывы'] = 'New reviews available';
 
   window.MLBB_DICT = window.MLBB_DICT || {};

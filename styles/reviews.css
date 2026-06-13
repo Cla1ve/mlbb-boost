@@ -1023,6 +1023,34 @@
 
 .reviews-retry-btn:hover { transform: translateY(-2px); }
 
+.reviews-message-actions {
+  margin-top: 1.25rem;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.reviews-message-actions .reviews-retry-btn { margin-top: 0; }
+
+.reviews-tg-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.4rem;
+  background: linear-gradient(135deg, #0088cc, #229ED9);
+  border-radius: 50px;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.reviews-tg-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(34, 158, 217, 0.4);
+}
+
 /* ---------------- Responsive ---------------- */
 @media (max-width: 768px) {
   .filter-row { justify-content: flex-start; }
@@ -1035,4 +1063,399 @@
   .filter-row-label { width: 100%; margin-bottom: 0.15rem; }
   .rc-top { flex-direction: row; }
   .reviews-new-pill { width: 100%; justify-content: center; }
+}
+
+/* ============================================================
+   REVIEWS v4.0 — search, selects, clearer booster card, params
+   ============================================================ */
+
+/* ---------------- Toolbar ---------------- */
+.reviews-toolbar {
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 20px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.filter-block {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+/* search */
+.reviews-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.reviews-search > i {
+  position: absolute;
+  left: 1rem;
+  color: var(--accent-green);
+  font-size: 0.95rem;
+  pointer-events: none;
+}
+
+#reviews-search {
+  width: 100%;
+  padding: 0.85rem 2.6rem 0.85rem 2.6rem;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 14px;
+  color: var(--primary-light);
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.25s ease, background 0.25s ease;
+}
+
+#reviews-search::placeholder { color: var(--text-gray); }
+
+#reviews-search:focus {
+  border-color: rgba(0, 255, 157, 0.45);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+#reviews-search-clear {
+  position: absolute;
+  right: 0.6rem;
+  width: 28px;
+  height: 28px;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.08);
+  border: none;
+  border-radius: 50%;
+  color: var(--text-gray);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+#reviews-search-clear.show { display: inline-flex; }
+#reviews-search-clear:hover { background: rgba(255, 255, 255, 0.16); color: var(--primary-light); }
+
+/* selects */
+.filter-selects {
+  gap: 1rem;
+}
+
+.select-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  flex: 1;
+  min-width: 200px;
+}
+
+.select-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-gray);
+}
+
+.select-label i { color: var(--accent-green); }
+
+.select-wrap select {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 100%;
+  padding: 0.7rem 2.2rem 0.7rem 0.9rem;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  color: var(--primary-light);
+  font-size: 0.9rem;
+  cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%2300FF9D' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.9rem center;
+  transition: border-color 0.25s ease;
+}
+
+.select-wrap select:focus { outline: none; border-color: rgba(0, 255, 157, 0.45); }
+.select-wrap select option { background: #0D2341; color: var(--primary-light); }
+
+/* meta line */
+.reviews-meta {
+  font-size: 0.82rem;
+  color: var(--text-gray);
+  padding-top: 0.25rem;
+}
+
+/* ---------------- Card head: clear BOOSTER ---------------- */
+.rc-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.rc-booster {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  min-width: 0;
+}
+
+.rc-avatar {
+  position: relative;
+  width: 52px;
+  height: 52px;
+  min-width: 52px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: #fff;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.18);
+}
+
+.rc-avatar-check {
+  position: absolute;
+  right: -4px;
+  bottom: -4px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--accent-green);
+  color: var(--primary-dark);
+  border: 2px solid #0D2341;
+  border-radius: 50%;
+  font-size: 0.55rem;
+}
+
+.rc-booster-meta { min-width: 0; }
+
+.rc-role-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-green);
+  background: rgba(0, 255, 157, 0.1);
+  border: 1px solid rgba(0, 255, 157, 0.22);
+  padding: 0.12rem 0.5rem;
+  border-radius: 20px;
+  margin-bottom: 0.3rem;
+}
+
+.rc-booster-meta .reviewer-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--primary-light);
+  margin: 0 0 0.15rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+
+.rc-booster-sub {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.76rem;
+  color: var(--text-gray);
+}
+
+.rc-booster-sub i { color: var(--accent-green); opacity: 0.85; }
+
+.rc-rating-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.25rem;
+  white-space: nowrap;
+}
+
+.rc-rating { font-size: 1rem; letter-spacing: 1px; line-height: 1; }
+.rc-stars-full { color: #FFC542; text-shadow: 0 0 10px rgba(255, 197, 66, 0.4); }
+.rc-stars-empty { color: rgba(255, 255, 255, 0.18); }
+
+.rc-rating-cap {
+  font-size: 0.66rem;
+  color: var(--text-gray);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* ---------------- Boost badge + post № ---------------- */
+.rc-boost-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  align-self: flex-start;
+  padding: 0.4rem 0.85rem;
+  border-radius: 10px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+}
+
+.rc-boost-badge .rc-postno {
+  margin-left: 0.15rem;
+  padding-left: 0.5rem;
+  border-left: 1px solid currentColor;
+  opacity: 0.7;
+  font-size: 0.74rem;
+}
+
+/* ---------------- Review text ---------------- */
+.rc-content { position: relative; padding-left: 1.6rem; }
+
+.rc-quote {
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  color: var(--accent-green);
+  opacity: 0.35;
+  font-size: 0.95rem;
+}
+
+.rc-text {
+  font-size: 0.95rem;
+  color: #C7CBD1;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.rc-text--empty { font-style: italic; color: var(--text-gray); opacity: 0.7; }
+
+/* ---------------- Order params ---------------- */
+.rc-params {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  padding: 0.9rem;
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 14px;
+}
+
+.rc-param {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+}
+
+.rc-param > i {
+  color: var(--accent-green);
+  font-size: 0.85rem;
+  margin-top: 0.18rem;
+  width: 16px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.rc-param-body {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.rc-param-label { color: var(--text-gray); }
+.rc-param-value { color: var(--primary-light); font-weight: 600; }
+
+.rc-rank-route {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.rc-rank-from,
+.rc-rank-to {
+  padding: 0.25rem 0.6rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--primary-light);
+}
+
+.rc-rank-to { background: rgba(0, 255, 157, 0.1); border-color: rgba(0, 255, 157, 0.25); color: var(--accent-green); }
+.rc-rank-route i { color: var(--accent-green); font-size: 0.75rem; }
+
+/* ---------------- Footer ---------------- */
+.rc-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.rc-foot-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 0;
+}
+
+.rc-date,
+.rc-order {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.76rem;
+  color: var(--text-gray);
+}
+
+.rc-date i, .rc-order i { opacity: 0.7; }
+
+.rc-tg-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.6rem 1.05rem;
+  background: linear-gradient(135deg, #0088cc, #229ED9);
+  color: #fff;
+  border-radius: 50px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.rc-tg-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(34, 158, 217, 0.4); }
+
+/* ---------------- Responsive ---------------- */
+@media (max-width: 768px) {
+  .reviews-toolbar { padding: 1rem; }
+  .filter-selects { flex-direction: column; align-items: stretch; }
+  .select-wrap { min-width: 0; }
+  .rc-foot { flex-direction: column; align-items: stretch; }
+  .rc-tg-btn { justify-content: center; }
+  .rc-booster-meta .reviewer-name { max-width: 150px; }
+}
+
+@media (max-width: 480px) {
+  .rc-head { flex-direction: row; }
+  .reviews-new-pill { width: 100%; justify-content: center; }
+  .rc-avatar { width: 46px; height: 46px; min-width: 46px; font-size: 1.2rem; }
 }

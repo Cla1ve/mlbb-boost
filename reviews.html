@@ -211,33 +211,50 @@
     </div>
 
     <section class="reviews-grid">
-      <div class="reviews-toolbar">
-        <div class="filter-row" id="rating-filters" role="group" aria-label="Фильтр по оценке">
-          <span class="filter-row-label"><i class="fas fa-star"></i> Оценка</span>
-          <button class="filter-btn active" data-rating="all">Все</button>
-          <button class="filter-btn" data-rating="5">5 звёзд</button>
-          <button class="filter-btn" data-rating="4">4+ звёзды</button>
-          <button class="filter-btn" data-rating="3">3+ звезды</button>
+      <div class="reviews-toolbar" data-i18n-skip>
+        <div class="reviews-search">
+          <i class="fas fa-magnifying-glass"></i>
+          <input id="reviews-search" type="search" autocomplete="off" spellcheck="false" />
+          <button id="reviews-search-clear" type="button" aria-label="Очистить поиск">
+            <i class="fas fa-xmark"></i>
+          </button>
         </div>
-        <div class="filter-row" id="boost-filters" role="group" aria-label="Фильтр по типу буста">
-          <!-- Типы буста подгружаются динамически -->
+
+        <div class="filter-block">
+          <span class="filter-row-label"><i class="fas fa-star"></i> <span data-label="rating"></span></span>
+          <div class="filter-row" id="rating-filters"></div>
         </div>
+
+        <div class="filter-block">
+          <span class="filter-row-label"><i class="fas fa-bolt"></i> <span data-label="boostType"></span></span>
+          <div class="filter-row" id="boost-filters"></div>
+        </div>
+
+        <div class="filter-block filter-selects">
+          <label class="select-wrap">
+            <span class="select-label"><i class="fas fa-headset"></i> <span data-label="booster"></span></span>
+            <select id="booster-filter"></select>
+          </label>
+          <label class="select-wrap">
+            <span class="select-label"><i class="fas fa-arrow-down-wide-short"></i> <span data-label="sort"></span></span>
+            <select id="sort-select"></select>
+          </label>
+        </div>
+
+        <div class="reviews-meta" id="reviews-meta"></div>
       </div>
 
-      <button class="reviews-new-pill" id="reviews-new-pill" type="button" aria-live="polite">
+      <button class="reviews-new-pill" id="reviews-new-pill" type="button" aria-live="polite" data-i18n-skip>
         <i class="fas fa-arrow-up"></i>
-        <span class="new-pill-text">Появились новые отзывы</span>
+        <span class="new-pill-text"></span>
       </button>
 
-      <div class="reviews-container" id="reviews-container">
+      <div class="reviews-container" id="reviews-container" data-i18n-skip>
         <!-- Отзывы загружаются из API -->
       </div>
 
-      <div class="load-more">
-        <button id="load-more-btn" class="load-more-btn">
-          Показать ещё
-          <i class="fas fa-chevron-down"></i>
-        </button>
+      <div class="load-more" data-i18n-skip>
+        <button id="load-more-btn" class="load-more-btn"></button>
       </div>
     </section>
 
