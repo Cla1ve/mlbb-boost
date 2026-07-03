@@ -1,0 +1,10 @@
+name = "mlbb-boost-markdown"
+main = "src/index.js"
+compatibility_date = "2025-04-01"
+
+routes = [
+  { pattern = "boostmlbb.ru/*", zone_id = "YOUR_ZONE_ID" }
+]
+
+[placement]
+mode = "smart"

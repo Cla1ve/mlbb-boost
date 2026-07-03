@@ -8,6 +8,27 @@
       "description": "Calculate the price of a Mobile Legends Bang Bang rank boost and read customer reviews for boostmlbb.ru.",
       "url": "https://boostmlbb.ru/.well-known/agent-skills/mlbb-boost-pricing/SKILL.md",
       "sha256": "4c032bf184c6c6ecfdfec52e32d1767653f73b622ad4f9aaeea2d57de42eee14"
+    },
+    {
+      "name": "markdown-negotiation",
+      "type": "skill",
+      "description": "Support Accept: text/markdown content negotiation for AI agents requesting markdown versions of pages.",
+      "url": "https://boostmlbb.ru/.well-known/agent-skills/markdown-negotiation/SKILL.md",
+      "sha256": "3898c03d480b68df91ee2e921aeccf043f1ec3d53b81941103ae9a6ac6bd006f"
+    },
+    {
+      "name": "link-headers",
+      "type": "skill",
+      "description": "Link response headers for agent discovery per RFC 8288, pointing agents to API catalog, skills, FAQ, and about page.",
+      "url": "https://boostmlbb.ru/.well-known/agent-skills/link-headers/SKILL.md",
+      "sha256": "cfa49c6954334813cbba1ce3f92931ff3272a2aeaef5a98ebe1758fc0cd7842c"
+    },
+    {
+      "name": "dns-aid",
+      "type": "skill",
+      "description": "DNS for AI Discovery (DNS-AID) records under boostmlbb.ru enabling DNS-based agent endpoint discovery.",
+      "url": "https://boostmlbb.ru/.well-known/agent-skills/dns-aid/SKILL.md",
+      "sha256": "95fabdc45682bddbf0bfa9569f8812c95fa0b0670eb6537a606f065f745802a6"
     }
   ]
 }
