@@ -24,11 +24,11 @@
       "sha256": "cfa49c6954334813cbba1ce3f92931ff3272a2aeaef5a98ebe1758fc0cd7842c"
     },
     {
-      "name": "dns-aid",
+      "name": "auth-md",
       "type": "skill",
-      "description": "DNS for AI Discovery (DNS-AID) records under boostmlbb.ru enabling DNS-based agent endpoint discovery.",
-      "url": "https://boostmlbb.ru/.well-known/agent-skills/dns-aid/SKILL.md",
-      "sha256": "95fabdc45682bddbf0bfa9569f8812c95fa0b0670eb6537a606f065f745802a6"
+      "description": "Auth.md agent registration metadata for boostmlbb.ru, documenting public API access and Telegram bot ordering.",
+      "url": "https://boostmlbb.ru/.well-known/agent-skills/auth-md/SKILL.md",
+      "sha256": "01ec33162013241a4521aee8c40ac19fe21fba6d05a23df6bc24a31ed92d1706"
     }
   ]
 }
