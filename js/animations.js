@@ -1,10 +1,33 @@
 document.addEventListener('DOMContentLoaded', () => {
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
   // ============================================
   // SCROLL REVEAL - IntersectionObserver
+  // с автоматическим stagger для соседних карточек
   // ============================================
   const revealElements = document.querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale');
-  
-  if (revealElements.length > 0 && 'IntersectionObserver' in window) {
+
+  if (prefersReducedMotion) {
+    revealElements.forEach(el => el.classList.add('revealed'));
+  } else if (revealElements.length > 0 && 'IntersectionObserver' in window) {
+    // Даём соседним reveal-элементам внутри одного родителя
+    // небольшую каскадную задержку — секции "оживают" волной.
+    const parentGroups = new Map();
+    revealElements.forEach(el => {
+      const parent = el.parentElement;
+      if (!parentGroups.has(parent)) parentGroups.set(parent, []);
+      parentGroups.get(parent).push(el);
+    });
+    parentGroups.forEach(group => {
+      if (group.length > 1) {
+        group.forEach((el, i) => {
+          if (!el.style.transitionDelay) {
+            el.style.transitionDelay = `${Math.min(i * 70, 350)}ms`;
+          }
+        });
+      }
+    });
+
     const revealObserver = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
@@ -112,19 +135,24 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   const closeMenu = () => {
-    if (menuToggle) menuToggle.classList.remove('active');
+    if (menuToggle) {
+      menuToggle.classList.remove('active');
+      menuToggle.setAttribute('aria-expanded', 'false');
+    }
     if (navMenu) navMenu.classList.remove('active');
     if (overlay) overlay.classList.remove('active');
     body.style.overflow = '';
   };
   
   if (menuToggle && navMenu) {
+    menuToggle.setAttribute('aria-expanded', 'false');
     menuToggle.addEventListener('click', () => {
       const isActive = navMenu.classList.contains('active');
       if (isActive) {
         closeMenu();
       } else {
         menuToggle.classList.add('active');
+        menuToggle.setAttribute('aria-expanded', 'true');
         navMenu.classList.add('active');
         overlay.classList.add('active');
         body.style.overflow = 'hidden';
@@ -132,6 +160,14 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     overlay.addEventListener('click', closeMenu);
+
+    // Закрытие меню по Escape — базовое UX-ожидание
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && navMenu.classList.contains('active')) {
+        closeMenu();
+        menuToggle.focus();
+      }
+    });
 
     document.querySelectorAll('.nav-link').forEach(link => {
       link.addEventListener('click', closeMenu);
@@ -145,9 +181,9 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ============================================
-  // CARD TILT EFFECT (desktop only)
+  // CARD TILT EFFECT (desktop only, отключается при reduced motion)
   // ============================================
-  if (window.innerWidth > 768) {
+  if (window.innerWidth > 768 && !prefersReducedMotion && window.matchMedia('(hover: hover)').matches) {
     const tiltCards = document.querySelectorAll('.service-preview-card, .why-card, .stat-card');
     
     tiltCards.forEach(card => {

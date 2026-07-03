@@ -116,31 +116,39 @@
 <body>
   <div class="page-transition"></div>
   
-  <header>
+  <header class="site-header">
     <nav class="main-nav">
-      <div class="logo">
-        <svg width="40" height="40" viewBox="0 0 40 40">
-          <path d="M20 0L40 10V30L20 40L0 30V10L20 0Z" fill="#0A1A2F"/>
-          <path d="M20 5L35 12.5V27.5L20 35L5 27.5V12.5L20 5Z" fill="#00FF9D"/>
-        </svg>
-        <span>MLBB Boost</span>
+      <div class="nav-container">
+        <a href="index.html" class="logo-link">
+          <div class="logo">
+            <svg width="40" height="40" viewBox="0 0 40 40">
+              <path d="M20 0L40 10V30L20 40L0 30V10L20 0Z" fill="#0A1A2F"/>
+              <path d="M20 5L35 12.5V27.5L20 35L5 27.5V12.5L20 5Z" fill="#00FF9D"/>
+            </svg>
+            <span>MLBB Boost</span>
+          </div>
+        </a>
+
+        <div class="nav-menu">
+          <ul class="nav-list">
+            <li><a href="index.html" class="nav-link">Главная</a></li>
+            <li><a href="services.html" class="nav-link">Услуги</a></li>
+            <li><a href="prices.html" class="nav-link">Цены</a></li>
+            <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
+            <li><a href="faq.html" class="nav-link">FAQ</a></li>
+            <li><a href="about.html" class="nav-link"><i class="fas fa-users"></i> О нас</a></li>
+            <li><a href="https://t.me/cla1ve_boost_bot?start=site" target="_blank" class="nav-link cta">
+              <i class="fab fa-telegram"></i>Купить буст
+            </a></li>
+          </ul>
+        </div>
+
+        <button class="menu-toggle" aria-label="Toggle menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
       </div>
-      <button class="mobile-menu-btn">
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
-      <ul class="nav-links">
-        <li><a href="index.html">Главная</a></li>
-        <li><a href="services.html">Услуги</a></li>
-        <li><a href="reviews.html">Отзывы</a></li>
-        <li><a href="faq.html">FAQ</a></li>
-        <li><a href="about.html"><i class="fas fa-users"></i> О нас</a></li>
-        <li><a href="documents.html"><i class="fas fa-file-alt"></i> Документы</a></li>
-        <li><a href="https://t.me/cla1ve_boost_bot?start=site" target="_blank">
-          <i class="fab fa-telegram"></i>Купить буст
-        </a></li>
-      </ul>
     </nav>
   </header>
 
@@ -158,31 +166,31 @@
                 <h3>Выберите текущий ранг</h3>
                 <div class="rank-selector">
                   <div class="rank-option" data-rank="warrior">
-                    <img src="images/ranks/warrior.png" alt="Ранг Warrior Mobile Legends — буст до Warrior">
+                    <img loading="lazy" decoding="async" src="Ранги/Warrior.webp" alt="Ранг Warrior Mobile Legends — буст до Warrior">
                     <span>Warrior</span>
                   </div>
                   <div class="rank-option" data-rank="elite">
-                    <img src="images/ranks/elite.png" alt="Ранг Elite Mobile Legends — буст до Elite">
+                    <img loading="lazy" decoding="async" src="Ранги/Elite.webp" alt="Ранг Elite Mobile Legends — буст до Elite">
                     <span>Elite</span>
                   </div>
                   <div class="rank-option" data-rank="master">
-                    <img src="images/ranks/master.png" alt="Ранг Master Mobile Legends — буст до Master">
+                    <img loading="lazy" decoding="async" src="Ранги/Master.webp" alt="Ранг Master Mobile Legends — буст до Master">
                     <span>Master</span>
                   </div>
                   <div class="rank-option" data-rank="grandmaster">
-                    <img src="images/ranks/grandmaster.png" alt="Ранг Grandmaster Mobile Legends — буст до Grandmaster">
+                    <img loading="lazy" decoding="async" src="Ранги/Grandmaster.webp" alt="Ранг Grandmaster Mobile Legends — буст до Grandmaster">
                     <span>Grandmaster</span>
                   </div>
                   <div class="rank-option" data-rank="epic">
-                    <img src="images/ranks/epic.png" alt="Ранг Epic Mobile Legends — буст до Epic">
+                    <img loading="lazy" decoding="async" src="Ранги/Epic.webp" alt="Ранг Epic Mobile Legends — буст до Epic">
                     <span>Epic</span>
                   </div>
                   <div class="rank-option" data-rank="legend">
-                    <img src="images/ranks/legend.png" alt="Ранг Legend Mobile Legends — буст до Legend">
+                    <img loading="lazy" decoding="async" src="Ранги/Legend.webp" alt="Ранг Legend Mobile Legends — буст до Legend">
                     <span>Legend</span>
                   </div>
                   <div class="rank-option" data-rank="mythic">
-                    <img src="images/ranks/mythic.png" alt="Ранг Mythic Mobile Legends — буст до Mythic">
+                    <img loading="lazy" decoding="async" src="Ранги/Mythic.webp" alt="Ранг Mythic Mobile Legends — буст до Mythic">
                     <span>Mythic</span>
                   </div>
                 </div>
@@ -192,27 +200,27 @@
                 <h3>Выберите желаемый ранг</h3>
                 <div class="rank-selector">
                   <div class="rank-option" data-rank="elite">
-                    <img src="images/ranks/elite.png" alt="Буст до ранга Elite Mobile Legends">
+                    <img loading="lazy" decoding="async" src="Ранги/Elite.webp" alt="Буст до ранга Elite Mobile Legends">
                     <span>Elite</span>
                   </div>
                   <div class="rank-option" data-rank="master">
-                    <img src="images/ranks/master.png" alt="Буст до ранга Master Mobile Legends">
+                    <img loading="lazy" decoding="async" src="Ранги/Master.webp" alt="Буст до ранга Master Mobile Legends">
                     <span>Master</span>
                   </div>
                   <div class="rank-option" data-rank="grandmaster">
-                    <img src="images/ranks/grandmaster.png" alt="Буст до ранга Grandmaster Mobile Legends">
+                    <img loading="lazy" decoding="async" src="Ранги/Grandmaster.webp" alt="Буст до ранга Grandmaster Mobile Legends">
                     <span>Grandmaster</span>
                   </div>
                   <div class="rank-option" data-rank="epic">
-                    <img src="images/ranks/epic.png" alt="Буст до ранга Epic Mobile Legends">
+                    <img loading="lazy" decoding="async" src="Ранги/Epic.webp" alt="Буст до ранга Epic Mobile Legends">
                     <span>Epic</span>
                   </div>
                   <div class="rank-option" data-rank="legend">
-                    <img src="images/ranks/legend.png" alt="Буст до ранга Legend Mobile Legends">
+                    <img loading="lazy" decoding="async" src="Ранги/Legend.webp" alt="Буст до ранга Legend Mobile Legends">
                     <span>Legend</span>
                   </div>
                   <div class="rank-option" data-rank="mythic">
-                    <img src="images/ranks/mythic.png" alt="Буст до ранга Mythic Mobile Legends">
+                    <img loading="lazy" decoding="async" src="Ранги/Mythic.webp" alt="Буст до ранга Mythic Mobile Legends">
                     <span>Mythic</span>
                   </div>
                 </div>
@@ -294,7 +302,7 @@
             <li><span class="label">ИП:</span> Маматисаков Э.С.</li>
             <li><span class="label">ИНН:</span> 690606792301</li>
             <li><span class="label">ОГРНИП:</span> 40802810500009266500</li>
-            <li><span class="label">Адрес:</span> г. Москва</li>
+            <li><span class="label">Адрес:</span> ��. Москва</li>
           </ul>
         </div>
 
@@ -314,7 +322,7 @@
             <li><a href="offer.html">Публичная оферта</a></li>
             <li><a href="privacy.html">Политика конфиденциальности</a></li>
             <li><a href="terms.html">Условия использования</a></li>
-            <li><a href="refund.html">Политика возврата</a></li>
+            <li><a href="refund.html">Политика возвра��а</a></li>
             <li><a href="disclaimer.html">Дисклеймер</a></li>
             <li><a href="cookies.html">Политика cookies</a></li>
           </ul>
@@ -346,6 +354,7 @@
     </div>
   </footer>
 
+  <script src="js/main.js"></script>
   <script src="js/animations.js"></script>
   <script src="js/order.js"></script>
   <script src="js/consent.js"></script>

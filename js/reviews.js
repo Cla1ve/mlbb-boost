@@ -27,7 +27,8 @@
   var API_BASE_HTTPS = 'https://cla1veisapi.ru';
 
   function apiBase() {
-    return window.location.protocol === 'https:' ? API_BASE_HTTPS : API_BASE_HTTP;
+    // Всегда HTTPS: HTTP-вариант API отдаёт 301-редирект и запросы обрываются.
+    return API_BASE_HTTPS;
   }
   function reviewsUrl(limit, offset) {
     return apiBase() + '/reviews?limit=' + limit + '&offset=' + offset;

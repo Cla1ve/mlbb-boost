@@ -562,13 +562,18 @@
     font-size: 0.8rem !important;
   }
   
+  /* На мобильных кнопки остаются в один ряд —
+     баннер занимает меньше места и не перекрывает контент */
   .consent-banner-actions {
-    flex-direction: column;
+    flex-direction: row;
   }
-  
+
   .consent-banner-btn {
-    width: 100%;
     justify-content: center;
+  }
+
+  .consent-banner-btn.more {
+    flex: 0 0 auto;
   }
 }
 

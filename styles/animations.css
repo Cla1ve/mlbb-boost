@@ -80,9 +80,9 @@
 
 .reveal {
   opacity: 0;
-  transform: translateY(35px);
-  transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1),
-              transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateY(28px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
   will-change: opacity, transform;
 }
 
@@ -139,12 +139,11 @@
    LOGO & NAV ANIMATIONS
    ============================================ */
 
-.logo {
-  animation: floatAnimation 4s ease-in-out infinite;
-}
+/* Постоянная float-анимация логотипа удалена:
+   бесконечное покачивание в шапке отвлекает и выглядит дёшево. */
 
 .hero-content {
-  animation: fadeIn 1.2s ease-out;
+  animation: fadeIn 1s var(--ease-out-expo, ease-out);
 }
 
 .main-nav {
@@ -188,11 +187,11 @@
 }
 
 .cta-button.primary {
-  animation: glowPulse 3s ease-in-out infinite;
+  animation: glowPulse 5s ease-in-out infinite;
 }
 
 .cta-button:hover {
-  transform: translateY(-3px) scale(1.02);
+  transform: translateY(-2px);
 }
 
 .cta-button.primary:hover {
@@ -388,10 +387,6 @@ input:focus, select:focus, textarea:focus {
    ============================================ */
 
 @media (max-width: 768px) {
-  .logo {
-    animation: floatAnimation 3s ease-in-out infinite;
-  }
-
   .hero-content {
     animation: fadeIn 0.8s ease-out;
   }

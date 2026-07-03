@@ -7,12 +7,10 @@
 const API_BASE_HTTP = 'http://cla1veisapi.ru';
 const API_BASE_HTTPS = 'https://cla1veisapi.ru';
 
-// Определяем URL API в зависимости от протокола
+// Всегда используем HTTPS: HTTP-версия API отвечает 301-редиректом,
+// из-за чего запросы с локальных/HTTP-хостов обрывались.
 const getPricesApiUrl = () => {
-  if (window.location.protocol === 'https:') {
-    return `${API_BASE_HTTPS}/prices/formatted`;
-  }
-  return `${API_BASE_HTTP}/prices/formatted`;
+  return `${API_BASE_HTTPS}/prices/formatted`;
 };
 
 const PRICES_API_URL = getPricesApiUrl();

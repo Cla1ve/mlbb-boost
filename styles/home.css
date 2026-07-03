@@ -113,14 +113,14 @@
 
 .text-line {
   display: block;
-  font-size: 2.8rem;
+  font-size: clamp(2rem, 4.5vw, 2.8rem);
   font-weight: 800;
   line-height: 1.15;
   color: var(--primary-light);
 }
 
 .text-line.gradient {
-  font-size: 3.2rem;
+  font-size: clamp(2.2rem, 5vw, 3.2rem);
   background: linear-gradient(135deg, #00FF9D 0%, #00D4FF 50%, #00FF9D 100%);
   background-size: 200% auto;
   -webkit-background-clip: text;
@@ -130,10 +130,12 @@
 }
 
 .text-line.small {
-  font-size: 1.4rem;
+  font-family: var(--font-body);
+  font-size: clamp(1.05rem, 2.5vw, 1.35rem);
   font-weight: 500;
   color: var(--text-gray);
   margin-top: 0.5rem;
+  letter-spacing: 0;
 }
 
 @keyframes gradientShift {

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agentskills.io/schemas/discovery/v0.2.0/index.json",
+  "version": "0.2.0",
+  "skills": [
+    {
+      "name": "mlbb-boost-pricing",
+      "type": "skill",
+      "description": "Calculate the price of a Mobile Legends Bang Bang rank boost and read customer reviews for boostmlbb.ru.",
+      "url": "https://boostmlbb.ru/.well-known/agent-skills/mlbb-boost-pricing/SKILL.md",
+      "sha256": "4c032bf184c6c6ecfdfec52e32d1767653f73b622ad4f9aaeea2d57de42eee14"
+    }
+  ]
+}

@@ -55,6 +55,10 @@
   
   <!-- PWA Manifest -->
   <link rel="manifest" href="manifest.json">
+
+  <!-- Agent discovery (RFC 8288 link relations в HTML — GitHub Pages не поддерживает HTTP-заголовки) -->
+  <link rel="api-catalog" type="application/linkset+json" href="/.well-known/api-catalog">
+  <link rel="service-desc" href="/.well-known/agent-skills/index.json">
   <meta name="theme-color" content="#00FF9D">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -63,7 +67,6 @@
   
   <!-- Preconnect to required origins -->
   <link rel="preconnect" href="https://cdnjs.cloudflare.com">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
   
   <!-- Yandex.Metrika counter -->
   <script type="text/javascript">

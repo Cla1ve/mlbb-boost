@@ -19,7 +19,8 @@
 
   var API_HTTP = 'http://cla1veisapi.ru';
   var API_HTTPS = 'https://cla1veisapi.ru';
-  function base() { return location.protocol === 'https:' ? API_HTTPS : API_HTTP; }
+  // Всегда HTTPS: HTTP-вариант API отдаёт 301-редирект и запросы обрываются.
+  function base() { return API_HTTPS; }
 
   var CACHE_KEY = 'mlbb_reviews_cache_v2';
   var TTL = 30 * 60 * 1000;

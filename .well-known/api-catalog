@@ -1,0 +1,30 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://cla1veisapi.ru",
+      "service-desc": [
+        {
+          "href": "https://cla1veisapi.ru/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://boostmlbb.ru/faq.html",
+          "type": "text/html"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://cla1veisapi.ru/reviews/stats"
+        }
+      ],
+      "service-meta": [
+        {
+          "href": "https://boostmlbb.ru/.well-known/agent-skills/index.json",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}

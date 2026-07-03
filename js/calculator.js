@@ -7,14 +7,10 @@
 const API_BASE_HTTP = 'http://cla1veisapi.ru';
 const API_BASE_HTTPS = 'https://cla1veisapi.ru';
 
-// Определяем URL API в зависимости от протокола
+// Всегда используем HTTPS: HTTP-версия API отвечает 301-редиректом,
+// из-за чего POST-запросы (fetch) обрывались с ошибкой соединения.
 const getApiUrl = () => {
-  // Если сайт на HTTPS, используем HTTPS версию API
-  if (window.location.protocol === 'https:') {
-    return `${API_BASE_HTTPS}/calculate`;
-  }
-  // Для HTTP используем HTTP
-  return `${API_BASE_HTTP}/calculate`;
+  return `${API_BASE_HTTPS}/calculate`;
 };
 
 const CALCULATE_API_URL = getApiUrl();

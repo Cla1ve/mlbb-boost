@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'mlbb-boost-v4';
+const CACHE_VERSION = 'mlbb-boost-v5';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;
@@ -69,6 +69,12 @@ self.addEventListener('fetch', event => {
 
   if (request.method !== 'GET') return;
 
+  const url = new URL(request.url);
+
+  // Никогда не перехватываем кросс-доменные запросы (API, шрифты, CDN):
+  // кэширование ответов API приводило к устаревшим ценам и отзывам.
+  if (url.origin !== self.location.origin) return;
+
   if (isNavigationRequest(request)) {
     event.respondWith(
       fetch(request)
@@ -97,22 +103,18 @@ self.addEventListener('fetch', event => {
     return;
   }
 
+  // JS/CSS: сеть в приоритете, кэш — только как офлайн-фолбэк.
+  // Раньше отдавался кэш прежде сети, из-за чего пользователи
+  // получали устаревшие скрипты после обновления сайта.
   event.respondWith(
-    caches.match(request)
-      .then(cached => {
-        if (cached) {
-          const fetchPromise = fetch(request).then(response => {
-            const cloned = response.clone();
-            caches.open(STATIC_CACHE).then(cache => cache.put(request, cloned));
-            return response;
-          }).catch(() => cached);
-          return cached;
-        }
-        return fetch(request).then(response => {
-          const cloned = response.clone();
-          caches.open(DYNAMIC_CACHE).then(cache => cache.put(request, cloned));
-          return response;
-        }).catch(() => new Response('Offline', { status: 503, statusText: 'Service Unavailable' }));
+    fetch(request)
+      .then(response => {
+        const cloned = response.clone();
+        caches.open(STATIC_CACHE).then(cache => cache.put(request, cloned));
+        return response;
       })
+      .catch(() => caches.match(request).then(cached =>
+        cached || new Response('Offline', { status: 503, statusText: 'Service Unavailable' })
+      ))
   );
-}); 
+});
