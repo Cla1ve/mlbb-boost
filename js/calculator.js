@@ -3,8 +3,7 @@
  * С поддержкой HTTPS для GitHub Pages
  */
 
-// Базовые URL API
-const API_BASE_HTTP = 'http://cla1veisapi.ru';
+// Базовый URL API
 const API_BASE_HTTPS = 'https://cla1veisapi.ru';
 
 // Всегда используем HTTPS: HTTP-версия API отвечает 301-редиректом,

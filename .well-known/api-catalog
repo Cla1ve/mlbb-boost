@@ -14,11 +14,6 @@
           "type": "text/html"
         }
       ],
-      "status": [
-        {
-          "href": "https://cla1veisapi.ru/reviews/stats"
-        }
-      ],
       "service-meta": [
         {
           "href": "https://boostmlbb.ru/.well-known/agent-skills/index.json",

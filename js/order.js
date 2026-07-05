@@ -1,163 +1,264 @@
 document.addEventListener('DOMContentLoaded', () => {
   const form = document.getElementById('boost-order-form');
-  const steps = document.querySelectorAll('.form-step');
+  const steps = Array.from(document.querySelectorAll('.form-step'));
   const progress = document.querySelector('.progress');
   const prevBtn = document.querySelector('.nav-button.prev');
   const nextBtn = document.querySelector('.nav-button.next');
   const submitBtn = document.querySelector('.submit-order');
-  
+  const currentRankDisplay = document.getElementById('current-rank-display');
+  const desiredRankDisplay = document.getElementById('desired-rank-display');
+  const optionsDisplay = document.getElementById('options-display');
+  const totalPriceDisplay = document.getElementById('total-price');
+
+  if (!form || !steps.length || !progress || !prevBtn || !nextBtn || !submitBtn) return;
+
+  const ranks = {
+    warrior: { order: 0, label: 'Warrior' },
+    elite: { order: 1, label: 'Elite' },
+    master: { order: 2, label: 'Master' },
+    grandmaster: { order: 3, label: 'Grandmaster' },
+    epic: { order: 4, label: 'Epic' },
+    legend: { order: 5, label: 'Legend' },
+    mythic: { order: 6, label: 'Mythic' }
+  };
+
+  const tierPrices = {
+    elite: 450,
+    master: 700,
+    grandmaster: 900,
+    epic: 1350,
+    legend: 1800,
+    mythic: 2500
+  };
+
+  const optionPrices = {
+    stream: 300,
+    priority: 500,
+    heroes: 400
+  };
+
+  const optionLabels = {
+    stream: 'Стрим буста',
+    priority: 'Приоритетный буст',
+    heroes: 'Выбор героев'
+  };
+
   let currentStep = 1;
-  
-  function updateStep(direction) {
+
+  function getSelectedRank(stepNumber) {
+    const step = form.querySelector(`.form-step[data-step="${stepNumber}"]`);
+    const selected = step ? step.querySelector('.rank-option.selected') : null;
+    return selected ? selected.dataset.rank : null;
+  }
+
+  function getCurrentRank() {
+    return getSelectedRank(1);
+  }
+
+  function getDesiredRank() {
+    return getSelectedRank(2);
+  }
+
+  function getSelectedOptions() {
+    return Array.from(document.querySelectorAll('.option-card input:checked')).map(input => input.name);
+  }
+
+  function rankLabel(rankKey) {
+    return ranks[rankKey] ? ranks[rankKey].label : '-';
+  }
+
+  function canGoToNextStep() {
+    if (currentStep === 1 && !getCurrentRank()) {
+      showNotification('Сначала выберите текущий ранг.', 'warning');
+      return false;
+    }
+
+    if (currentStep === 2) {
+      const currentRank = getCurrentRank();
+      const desiredRank = getDesiredRank();
+
+      if (!desiredRank) {
+        showNotification('Выберите желаемый ранг.', 'warning');
+        return false;
+      }
+
+      if (currentRank && ranks[desiredRank].order <= ranks[currentRank].order) {
+        showNotification('Желаемый ранг должен быть выше текущего.', 'warning');
+        return false;
+      }
+    }
+
+    return true;
+  }
+
+  function setStep(nextStep) {
+    const bounded = Math.max(1, Math.min(steps.length, nextStep));
+    const previousStep = currentStep;
     steps[currentStep - 1].classList.remove('active');
-    currentStep += direction;
+    currentStep = bounded;
     steps[currentStep - 1].classList.add('active');
-    
-    // Update progress bar
+
     progress.style.width = `${(currentStep / steps.length) * 100}%`;
-    
-    // Update navigation buttons
     prevBtn.disabled = currentStep === 1;
     nextBtn.style.display = currentStep === steps.length ? 'none' : 'block';
-    submitBtn.disabled = currentStep !== steps.length;
-    
-    // Animate new step
-    steps[currentStep - 1].style.animation = direction > 0 ? 
-      'slideInRight 0.5s ease forwards' : 
-      'slideInLeft 0.5s ease forwards';
+    submitBtn.disabled = !isOrderReady();
+
+    steps[currentStep - 1].style.animation = bounded > previousStep
+      ? 'slideInRight 0.5s ease forwards'
+      : 'slideInLeft 0.5s ease forwards';
   }
-  
-  prevBtn.addEventListener('click', () => updateStep(-1));
-  nextBtn.addEventListener('click', () => updateStep(1));
-  
-  // Handle rank selection
-  const rankOptions = document.querySelectorAll('.rank-option');
-  const ranks = {
-    warrior: 0,
-    elite: 1,
-    master: 2,
-    grandmaster: 3,
-    epic: 4,
-    legend: 5,
-    mythic: 6
-  };
-  rankOptions.forEach(option => {
-    option.addEventListener('click', () => {
-      const currentSelected = option.parentElement.querySelector('.selected');
-      if (currentSelected) {
-        currentSelected.classList.remove('selected');
-      }
-      option.classList.add('selected');
-      
-      // Update summary
-      updateOrderSummary();
-    });
-  });
-  
-  // Handle additional options
-  const optionInputs = document.querySelectorAll('.option-card input');
-  optionInputs.forEach(input => {
-    input.addEventListener('change', updateOrderSummary);
-  });
-  
-  function updateOrderSummary() {
-    // Update displays and calculate price
-    const currentRank = document.querySelector('.rank-option.selected[data-rank="current"]')?.dataset.rank;
-    const desiredRank = document.querySelector('.rank-option.selected[data-rank="desired"]')?.dataset.rank;
-    
-    document.getElementById('current-rank-display').textContent = currentRank || '-';
-    document.getElementById('desired-rank-display').textContent = desiredRank || '-';
-    
-    // Calculate and update price
-    calculatePrice();
-  }
-  
+
   function calculatePrice() {
-    // Add your price calculation logic here
-    const basePrice = 500;
-    let totalPrice = basePrice;
-    
-    // Get current and desired ranks
-    const currentRank = document.querySelector('.rank-option.selected[data-rank="current"]')?.dataset.rank;
-    const desiredRank = document.querySelector('.rank-option.selected[data-rank="desired"]')?.dataset.rank;
-    
-    // Check if desired rank is higher than current rank
-    if (ranks[desiredRank] <= ranks[currentRank]) {
-      showNotification('Желаемый ранг должен быть выше текущего!');
+    const currentRank = getCurrentRank();
+    const desiredRank = getDesiredRank();
+
+    if (!currentRank || !desiredRank || ranks[desiredRank].order <= ranks[currentRank].order) {
+      return 0;
+    }
+
+    let total = 0;
+    Object.keys(ranks).forEach(rankKey => {
+      const order = ranks[rankKey].order;
+      if (order > ranks[currentRank].order && order <= ranks[desiredRank].order) {
+        total += tierPrices[rankKey] || 0;
+      }
+    });
+
+    getSelectedOptions().forEach(option => {
+      total += optionPrices[option] || 0;
+    });
+
+    return total;
+  }
+
+  function isOrderReady() {
+    const currentRank = getCurrentRank();
+    const desiredRank = getDesiredRank();
+    return !!(
+      currentRank &&
+      desiredRank &&
+      ranks[desiredRank] &&
+      ranks[currentRank] &&
+      ranks[desiredRank].order > ranks[currentRank].order
+    );
+  }
+
+  function updateOrderSummary() {
+    const currentRank = getCurrentRank();
+    const desiredRank = getDesiredRank();
+    const selectedOptions = getSelectedOptions();
+    const totalPrice = calculatePrice();
+
+    if (currentRankDisplay) currentRankDisplay.textContent = rankLabel(currentRank);
+    if (desiredRankDisplay) desiredRankDisplay.textContent = rankLabel(desiredRank);
+
+    if (optionsDisplay) {
+      optionsDisplay.innerHTML = '';
+      if (selectedOptions.length) {
+        selectedOptions.forEach(option => {
+          const item = document.createElement('li');
+          item.textContent = optionLabels[option] || option;
+          optionsDisplay.appendChild(item);
+        });
+      } else {
+        const item = document.createElement('li');
+        item.textContent = 'Без доп. опций';
+        optionsDisplay.appendChild(item);
+      }
+    }
+
+    if (totalPriceDisplay) {
+      totalPriceDisplay.textContent = totalPrice
+        ? `от ${totalPrice.toLocaleString('ru-RU')} ₽`
+        : '0 ₽';
+    }
+
+    submitBtn.disabled = !isOrderReady();
+  }
+
+  function handleRankSelection(option) {
+    const step = option.closest('.form-step');
+    if (!step) return;
+
+    step.querySelectorAll('.rank-option').forEach(item => item.classList.remove('selected'));
+    option.classList.add('selected');
+
+    const currentRank = getCurrentRank();
+    const desiredRank = getDesiredRank();
+
+    if (currentRank && desiredRank && ranks[desiredRank].order <= ranks[currentRank].order) {
+      const desiredStep = form.querySelector('.form-step[data-step="2"]');
+      const selectedDesired = desiredStep ? desiredStep.querySelector('.rank-option.selected') : null;
+      if (selectedDesired) selectedDesired.classList.remove('selected');
+    }
+
+    updateOrderSummary();
+  }
+
+  function submitOrder(event) {
+    if (event) event.preventDefault();
+
+    if (!isOrderReady()) {
+      showNotification('Проверьте текущий и желаемый ранг перед оформлением.', 'warning');
       return;
     }
-    
-    // Calculate price based on rank difference
-    const rankDifference = ranks[desiredRank] - ranks[currentRank];
-    totalPrice = basePrice * rankDifference;
-    
-    // Add option prices
-    optionInputs.forEach(input => {
-      if (input.checked) {
-        totalPrice += 500; // Example additional cost
-      }
-    });
-    
-    document.getElementById('total-price').textContent = `${totalPrice} ₽`;
-  }
-  
-  // Form submission
-  form.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    
+
     submitBtn.disabled = true;
-    submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Обработка...';
-    
+    submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Открываем Telegram...';
+
+    const currentRank = rankLabel(getCurrentRank());
+    const desiredRank = rankLabel(getDesiredRank());
+    const selectedOptions = getSelectedOptions().map(option => optionLabels[option]).join(', ') || 'без доп. опций';
+    const totalPrice = calculatePrice();
+
     try {
-      // Get current and desired ranks
-      const currentRank = document.querySelector('.rank-option.selected[data-rank="current"]')?.dataset.rank;
-      const desiredRank = document.querySelector('.rank-option.selected[data-rank="desired"]')?.dataset.rank;
-      const server = document.getElementById('server').value;
-      
-      // Calculate price
-      calculatePrice();
-      
-      // Show confirmation dialog
-      const confirmed = await showConfirmationDialog({
+      sessionStorage.setItem('mlbb_order_draft', JSON.stringify({
         currentRank,
         desiredRank,
-        server,
-        price: document.getElementById('total-price').textContent
-      });
-      
-      if (confirmed) {
-        // Add your order submission logic here
-        await new Promise(resolve => setTimeout(resolve, 2000)); // Simulate API call
-        
-        showNotification('Заказ успешно оформлен!', 'success');
-        setTimeout(() => {
-          window.location.href = '/order-success.html';
-        }, 1500);
-      } else {
-        submitBtn.disabled = false;
-        submitBtn.innerHTML = 'Оформить заказ <i class="fas fa-arrow-right"></i>';
-      }
-    } catch (error) {
-      showNotification('Произошла ошибка. Попробуйте позже.', 'error');
-      submitBtn.disabled = false;
-      submitBtn.innerHTML = 'Оформить заказ <i class="fas fa-arrow-right"></i>';
-    }
+        options: selectedOptions,
+        estimatedPriceRub: totalPrice,
+        createdAt: new Date().toISOString()
+      }));
+    } catch (error) {}
+
+    window.location.href = 'https://t.me/cla1ve_boost_bot?start=site_order';
+  }
+
+  function showNotification(message, type) {
+    const existing = document.querySelector('.order-notification');
+    if (existing) existing.remove();
+
+    const note = document.createElement('div');
+    note.className = `order-notification ${type || 'info'}`;
+    note.textContent = message;
+    document.body.appendChild(note);
+
+    setTimeout(() => {
+      note.classList.add('visible');
+    }, 10);
+
+    setTimeout(() => {
+      note.classList.remove('visible');
+      setTimeout(() => note.remove(), 250);
+    }, 2600);
+  }
+
+  prevBtn.addEventListener('click', () => setStep(currentStep - 1));
+  nextBtn.addEventListener('click', () => {
+    if (canGoToNextStep()) setStep(currentStep + 1);
   });
-  
-  function showConfirmationDialog({ currentRank, desiredRank, server, price }) {
-    return new Promise((resolve) => {
-      const confirmed = confirm(
-        `Подтвердите заказ:\n
-        От: ${currentRank.toUpperCase()}\n
-        До: ${desiredRank.toUpperCase()}\n
-        Сервер: ${server}\n
-        Стоимость: ${price}`
-      );
-      resolve(confirmed);
-    });
-  }
-  
-  function showNotification(message, type = 'success') {
-    alert(message);
-  }
+
+  form.addEventListener('submit', submitOrder);
+  submitBtn.addEventListener('click', submitOrder);
+
+  document.querySelectorAll('.rank-option').forEach(option => {
+    option.addEventListener('click', () => handleRankSelection(option));
+  });
+
+  document.querySelectorAll('.option-card input').forEach(input => {
+    input.addEventListener('change', updateOrderSummary);
+  });
+
+  setStep(1);
+  updateOrderSummary();
 });

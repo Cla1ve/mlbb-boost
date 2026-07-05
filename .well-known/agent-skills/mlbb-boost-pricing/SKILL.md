@@ -24,7 +24,7 @@ Request body (JSON):
 ```
 
 - `rank_from` / `rank_to` — rank names in Russian, format: `"<Ранг> <Ступень> <N> звезд"`. Ranks: Воин, Элита, Мастер, Грандмастер, Эпик, Легенда, Мифик.
-- `boost_type` — `"standard"` or `"priority"`.
+- `boost_type` — `"standard"`, `"role"`, `"hero"`, or `"party"`.
 - `weak_account_markup` — surcharge percent for weak accounts (0–30).
 
 The response contains the calculated price in RUB and any applicable discount.
@@ -33,7 +33,7 @@ The response contains the calculated price in RUB and any applicable discount.
 
 `GET https://cla1veisapi.ru/reviews?limit=10&offset=0` — paginated customer reviews.
 
-`GET https://cla1veisapi.ru/reviews/stats` — aggregate stats (total reviews, average rating).
+The `/reviews` response includes pagination metadata. Use `pagination.total` as the raw API count, and ignore reviews that lack complete boost details (`boost_type`, route/boost parameters, booster, rating, and order id) when rendering public review cards.
 
 ## Place an order
 

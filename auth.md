@@ -29,7 +29,7 @@ The public API at `https://cla1veisapi.ru` requires no authentication:
 |---|---|---|
 | `/calculate` | POST | Calculate boost price |
 | `/reviews` | GET | Retrieve customer reviews |
-| `/reviews/stats` | GET | Review aggregate statistics |
+| `/prices/formatted` | GET | Retrieve the current formatted public price list |
 
 ## Order Registration (via Telegram)
 
@@ -44,6 +44,6 @@ The bot handles authentication, payment, and order tracking.
 
 Skills are registered in `.well-known/agent-skills/index.json`:
 
-- `mlbb-boost-pricing` — Calculate prices from rank/star parameters
+- `mlbb-boost-pricing` — Calculate prices from rank/star parameters and read filtered reviews
 - `markdown-negotiation` — Request pages as Markdown (`Accept: text/markdown`)
 - `link-headers` — Link relations for resource discovery (RFC 8288)

@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'mlbb-boost-v5';
+const CACHE_VERSION = 'mlbb-boost-v6';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;
@@ -15,21 +15,30 @@ const STATIC_ASSETS = [
   '/order.html',
   '/styles/main.css',
   '/styles/animations.css',
-  '/styles/home.css',
-  '/styles/services.css',
-  '/styles/prices.css',
+  '/styles/about.css',
   '/styles/contact.css',
+  '/styles/faq.css',
+  '/styles/home.css',
   '/styles/legal.css',
+  '/styles/order.css',
+  '/styles/prices.css',
+  '/styles/reviews.css',
+  '/styles/services.css',
   '/js/main.js',
   '/js/animations.js',
   '/js/calculator.js',
   '/js/consent.js',
+  '/js/faq.js',
   '/js/i18n-dict.js',
   '/js/i18n-reviews.js',
   '/js/i18n-legal.js',
   '/js/i18n-legal-body.js',
   '/js/i18n.js',
   '/js/currency.js',
+  '/js/order.js',
+  '/js/prices.js',
+  '/js/review-stats.js',
+  '/js/reviews.js',
   '/manifest.json'
 ];
 

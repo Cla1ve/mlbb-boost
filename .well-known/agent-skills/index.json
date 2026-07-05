@@ -7,7 +7,7 @@
       "type": "skill",
       "description": "Calculate the price of a Mobile Legends Bang Bang rank boost and read customer reviews for boostmlbb.ru.",
       "url": "https://boostmlbb.ru/.well-known/agent-skills/mlbb-boost-pricing/SKILL.md",
-      "sha256": "4c032bf184c6c6ecfdfec52e32d1767653f73b622ad4f9aaeea2d57de42eee14"
+      "sha256": "4bc5acde3c69ced4210b15f407b5759787d88fa73b4c31e2fa854925935edc4b"
     },
     {
       "name": "markdown-negotiation",

@@ -231,6 +231,32 @@
   cursor: not-allowed;
 }
 
+.order-notification {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  z-index: 2000;
+  max-width: min(420px, calc(100vw - 32px));
+  padding: 0.9rem 1.2rem;
+  color: var(--primary-light);
+  background: rgba(13, 35, 65, 0.96);
+  border: 1px solid rgba(0, 255, 157, 0.24);
+  border-radius: 12px;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.35);
+  transform: translate(-50%, 18px);
+  opacity: 0;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.order-notification.visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+.order-notification.warning {
+  border-color: rgba(255, 197, 66, 0.35);
+}
+
 .order-form-container::before {
   content: '';
   position: absolute;

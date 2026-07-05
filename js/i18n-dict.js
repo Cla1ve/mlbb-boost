@@ -41,7 +41,7 @@ window.MLBB_DICT = {
 
   /* ===================== INDEX (HERO) ===================== */
   'Проверенный сервис': 'Trusted service',
-  '350+ отзывов': '350+ reviews',
+  '850+ отзывов': '850+ reviews',
   'Профессиональный буст': 'Professional boost',
   'от PRO-игроков с турниров MCC': 'by PRO players from MCC tournaments',
   'Безопасная и быстрая прокачка ML аккаунта от команды профессионалов. Гарантируем высокий винрейт 90%+ и быстрое выполнение заказа.':
@@ -139,6 +139,7 @@ window.MLBB_DICT = {
   'Цены на буст': 'Boost prices',
   'Актуальные цены за 1 звезду в каждом ранге': 'Current prices per 1 star in each rank',
   'Загрузка цен...': 'Loading prices...',
+  'Показан актуальный резервный прайс от 05.07.2026': 'Showing the current fallback price list from 2026-07-05',
   'Стандарт': 'Standard',
   'На роли': 'Role',
   'На герое': 'On hero',
@@ -163,7 +164,7 @@ window.MLBB_DICT = {
   'Новости и акции': 'News and promos',
   'Наши каналы': 'Our channels',
   'Реальные клиенты': 'Real clients',
-  'Отзывы (350+)': 'Reviews (350+)',
+  'Отзывы (850+)': 'Reviews (850+)',
   'Обычный': 'Standard',
   'MMR': 'MMR',
   'Rising': 'Rising',
@@ -307,7 +308,7 @@ window.MLBB_DICT = {
   'Отзывы наших клиентов': "Our clients' reviews",
   'Реальные отзывы от реальных клиентов': 'Real reviews from real clients',
   'Все отзывы в Telegram!': 'All reviews on Telegram!',
-  '350+ реальных отзывов со скриншотами': '350+ real reviews with screenshots',
+  '850+ реальных отзывов со скриншотами': '850+ real reviews with screenshots',
   'Открыть канал': 'Open the channel',
   'Все отзывы': 'All reviews',
   'Последние': 'Recent',
@@ -366,17 +367,17 @@ window.MLBB_DICT = {
   'Этап': 'Stage',
 
   /* ===================== SEO: TITLES ===================== */
-  'Буст Mobile Legends от PRO игроков | Цены от 100₽ | Прокачка ML':
-    'Mobile Legends Boost by PRO Players | Prices from 100₽ | ML Rank Up',
+  'Буст Mobile Legends от PRO игроков | Цены от 50₽ | Прокачка ML':
+    'Mobile Legends Boost by PRO Players | Prices from 50₽ | ML Rank Up',
   'Услуги буста Mobile Legends | Обычный, Совместный, MMR буст ML':
     'Mobile Legends Boost Services | Standard, Duo, MMR ML Boost',
   'Калькулятор буста Mobile Legends | Рассчитать стоимость прокачки ML':
     'Mobile Legends Boost Calculator | Estimate Your ML Boost Cost',
   'Цены на буст Mobile Legends 2026 | Прайс-лист ML буста от 50₽':
     'Mobile Legends Boost Prices 2026 | ML Boost Price List from 50₽',
-  'Отзывы о буста Mobile Legends | 350+ реальных отзывов клиентов':
-    'Mobile Legends Boost Reviews | 350+ Real Client Reviews',
-  'FAQ - Часто задаваемые вопросы о буста Mobile Legends':
+  'Отзывы о бусте Mobile Legends | 850+ реальных отзывов клиентов':
+    'Mobile Legends Boost Reviews | 850+ Real Client Reviews',
+  'FAQ - Часто задаваемые вопросы о бусте Mobile Legends':
     'FAQ - Frequently Asked Questions About Mobile Legends Boost',
   'О нас | Команда PRO-игроков Mobile Legends | Boost MLBB':
     'About Us | Team of Mobile Legends PRO Players | Boost MLBB',
@@ -384,20 +385,20 @@ window.MLBB_DICT = {
     'Order Mobile Legends Boost | Place an ML Rank Up Order Online',
 
   /* ===================== SEO: META DESCRIPTIONS ===================== */
-  'Профессиональный буст Mobile Legends Bang Bang от PRO игроков ✓ Безопасная прокачка ML ✓ Быстрый подъем ранга от эпика до  миф 100+ ✓ Винрейт 90%+ ✓ Гарантия результата ✓ Низкие цены от 100₽ ✓ Круглосуточная поддержка 24/7 ✓ Анонимность':
-    'Professional Mobile Legends Bang Bang boost by PRO players ✓ Safe ML rank up ✓ Fast rank progress from Epic to Mythic 100+ ✓ 90%+ win rate ✓ Guaranteed result ✓ Low prices from 100₽ ✓ 24/7 support ✓ Anonymity',
+  'Профессиональный буст Mobile Legends Bang Bang от PRO игроков ✓ Безопасная прокачка ML ✓ Быстрый подъём ранга от Epic до Mythic 100+ ✓ Винрейт 90%+ ✓ Гарантия результата ✓ Цены от 50₽ ✓ Поддержка 24/7 ✓ Анонимность':
+    'Professional Mobile Legends Bang Bang boost by PRO players ✓ Safe ML rank up ✓ Fast rank progress from Epic to Mythic 100+ ✓ 90%+ win rate ✓ Guaranteed result ✓ Prices from 50₽ ✓ 24/7 support ✓ Anonymity',
   'Все виды буста Mobile Legends: обычный буст, совместный буст в пати, буст MMR на герое, Rising буст. Цены от 50₽ за звезду. PRO игроки MCC. Гарантия 90%+ винрейта.':
     'All types of Mobile Legends boost: standard boost, duo party boost, hero MMR boost, Rising boost. Prices from 50₽ per star. MCC PRO players. 90%+ win rate guarantee.',
   'Онлайн калькулятор стоимости буста Mobile Legends. Рассчитайте точную цену прокачки ранга от Warrior до Mythic Glory. Скидка 10% на первый заказ! Мгновенный расчёт.':
     'Online Mobile Legends boost cost calculator. Estimate the exact rank-up price from Warrior to Mythic Glory. 10% off your first order! Instant estimate.',
-  'Актуальные цены на буст Mobile Legends 2026. Стоимость прокачки ранга: Warrior-Elite от 50₽, Epic от 85₽, Legend от 90₽, Mythic от 100₽ за звезду. Rising буст от 1000₽.':
-    'Current Mobile Legends boost prices for 2026. Rank-up cost: Warrior-Elite from 50₽, Epic from 85₽, Legend from 90₽, Mythic from 100₽ per star. Rising boost from 1000₽.',
-  'Реальные отзывы клиентов о буста Mobile Legends. 350+ отзывов, рейтинг 4.9/5. Читайте честные отзывы о прокачке ML аккаунтов от Warrior до Mythic Glory.':
-    'Real client reviews about Mobile Legends boosting. 350+ reviews, 4.9/5 rating. Read honest reviews about ML account boosting from Warrior to Mythic Glory.',
-  'Ответы на частые вопросы о буста Mobile Legends: безопасность аккаунта, время выполнения, оплата, гарантии. Узнайте всё о прокачке ML перед заказом.':
+  'Актуальные цены на буст Mobile Legends 2026. Стоимость прокачки ранга: Warrior-Elite от 50₽, Epic от 90₽, Legend от 95₽, Mythic от 115₽ за звезду. Rising буст от 1000₽.':
+    'Current Mobile Legends boost prices for 2026. Rank-up cost: Warrior-Elite from 50₽, Epic from 90₽, Legend from 95₽, Mythic from 115₽ per star. Rising boost from 1000₽.',
+  'Реальные отзывы клиентов о бусте Mobile Legends. 850+ отзывов, рейтинг 4.9/5. Читайте честные отзывы о прокачке ML аккаунтов от Warrior до Mythic Glory.':
+    'Real client reviews about Mobile Legends boosting. 850+ reviews, 4.9/5 rating. Read honest reviews about ML account boosting from Warrior to Mythic Glory.',
+  'Ответы на частые вопросы о бусте Mobile Legends: безопасность аккаунта, время выполнения, оплата, гарантии. Узнайте всё о прокачке ML перед заказом.':
     'Answers to common questions about Mobile Legends boosting: account safety, turnaround time, payment, guarantees. Learn everything about ML boosting before ordering.',
-  'Команда профессиональных бустеров Mobile Legends. PRO игроки с турниров MCC, топ-100 мира по звёздам. Винрейт 90%+, 350+ отзывов, 0 банов за всё время работы.':
-    'A team of professional Mobile Legends boosters. PRO players from MCC tournaments, global top-100 by stars. 90%+ win rate, 350+ reviews, 0 bans throughout our history.',
+  'Команда профессиональных бустеров Mobile Legends. PRO игроки с турниров MCC, топ-100 мира по звёздам. Винрейт 90%+, 850+ отзывов, 0 банов за всё время работы.':
+    'A team of professional Mobile Legends boosters. PRO players from MCC tournaments, global top-100 by stars. 90%+ win rate, 850+ reviews, 0 bans throughout our history.',
   'Оформите заказ на буст Mobile Legends онлайн. Выберите текущий и желаемый ранг, доп. опции. Безопасная прокачка ML от PRO игроков MCC. Гарантия 90%+ винрейта. Цены от 50₽/звезда.':
     'Place your Mobile Legends boost order online. Choose your current and target rank plus extra options. Safe ML boosting by MCC PRO players. 90%+ win rate guarantee. Prices from 50₽/star.'
 };
@@ -406,10 +407,10 @@ window.MLBB_DICT_EXTRA = {
   /* ===================== SEO: OPEN GRAPH / TWITTER ===================== */
   'Профессиональный буст Mobile Legends от PRO игроков | Быстрая прокачка ML с гарантией':
     'Professional Mobile Legends Boost by PRO Players | Fast, Guaranteed ML Rank Up',
-  'Безопасный буст Mobile Legends от PRO игроков с турниров MCC ✓ Винрейт 90%+ ✓ Быстрая прокачка ML от Warrior до Mythic Glory ✓ Гарантия безопасности ✓ Круглосуточная поддержка ✓ Низкие цены от 100₽':
-    'Safe Mobile Legends boost by PRO players from MCC tournaments ✓ 90%+ win rate ✓ Fast ML rank up from Warrior to Mythic Glory ✓ Safety guarantee ✓ 24/7 support ✓ Low prices from 100₽',
-  'Профессиональный буст Mobile Legends от PRO игроков | Цены от 100₽':
-    'Professional Mobile Legends Boost by PRO Players | Prices from 100₽',
+  'Безопасный буст Mobile Legends от PRO игроков с турниров MCC ✓ Винрейт 90%+ ✓ Быстрая прокачка ML от Warrior до Mythic Glory ✓ Гарантия безопасности ✓ Поддержка 24/7 ✓ Цены от 50₽':
+    'Safe Mobile Legends boost by PRO players from MCC tournaments ✓ 90%+ win rate ✓ Fast ML rank up from Warrior to Mythic Glory ✓ Safety guarantee ✓ 24/7 support ✓ Prices from 50₽',
+  'Профессиональный буст Mobile Legends от PRO игроков | Цены от 50₽':
+    'Professional Mobile Legends Boost by PRO Players | Prices from 50₽',
   'Безопасный буст Mobile Legends от PRO игроков с турниров MCC ✓ Винрейт 90%+ ✓ Быстрая прокачка ML от Warrior до Mythic Glory ✓ Гарантия результата':
     'Safe Mobile Legends boost by PRO players from MCC tournaments ✓ 90%+ win rate ✓ Fast ML rank up from Warrior to Mythic Glory ✓ Guaranteed result',
   'Услуги буста Mobile Legends | Все виды прокачки ML':
@@ -427,22 +428,22 @@ window.MLBB_DICT_EXTRA = {
   'Рассчитайте стоимость буста ML онлайн.': 'Estimate the cost of an ML boost online.',
   'Цены на буст Mobile Legends 2026 | Прайс-лист от 50₽':
     'Mobile Legends Boost Prices 2026 | Price List from 50₽',
-  'Актуальные цены на буст ML. Warrior-Elite от 50₽, Epic от 85₽, Mythic от 100₽ за звезду. Калькулятор стоимости.':
-    'Current ML boost prices. Warrior-Elite from 50₽, Epic from 85₽, Mythic from 100₽ per star. Cost calculator.',
+  'Актуальные цены на буст ML. Warrior-Elite от 50₽, Epic от 90₽, Mythic от 115₽ за звезду. Калькулятор стоимости.':
+    'Current ML boost prices. Warrior-Elite from 50₽, Epic from 90₽, Mythic from 115₽ per star. Cost calculator.',
   'Цены на буст Mobile Legends 2026': 'Mobile Legends Boost Prices 2026',
   'Прайс-лист буста ML. От 50₽ за звезду.': 'ML boost price list. From 50₽ per star.',
-  'Отзывы о буста Mobile Legends | 350+ реальных отзывов':
-    'Mobile Legends Boost Reviews | 350+ Real Reviews',
-  'Рейтинг 4.9/5 на основе 350+ отзывов. 98% довольных клиентов. Читайте реальные отзывы о прокачке ML.':
-    '4.9/5 rating based on 350+ reviews. 98% satisfied clients. Read real reviews about ML boosting.',
-  'Отзывы о буста Mobile Legends': 'Mobile Legends Boost Reviews',
-  '350+ реальных отзывов. Рейтинг 4.9/5.': '350+ real reviews. 4.9/5 rating.',
-  'FAQ - Вопросы и ответы о буста Mobile Legends':
+  'Отзывы о бусте Mobile Legends | 850+ реальных отзывов':
+    'Mobile Legends Boost Reviews | 850+ Real Reviews',
+  'Рейтинг 4.9/5 на основе 850+ отзывов. 98% довольных клиентов. Читайте реальные отзывы о прокачке ML.':
+    '4.9/5 rating based on 850+ reviews. 98% satisfied clients. Read real reviews about ML boosting.',
+  'Отзывы о бусте Mobile Legends': 'Mobile Legends Boost Reviews',
+  '850+ реальных отзывов. Рейтинг 4.9/5.': '850+ real reviews. 4.9/5 rating.',
+  'FAQ - Вопросы и ответы о бусте Mobile Legends':
     'FAQ - Questions and Answers About Mobile Legends Boost',
-  'Всё о буста ML: безопасность, сроки, оплата, гарантии. Читайте перед заказом.':
+  'Всё о бусте ML: безопасность, сроки, оплата, гарантии. Читайте перед заказом.':
     'Everything about ML boosting: safety, timing, payment, guarantees. Read before ordering.',
   'FAQ буст Mobile Legends': 'Mobile Legends Boost FAQ',
-  'Ответы на все вопросы о буста ML.': 'Answers to all questions about ML boosting.',
+  'Ответы на все вопросы о бусте ML.': 'Answers to all questions about ML boosting.',
   'О команде профессиональных бустеров Mobile Legends | ML буст от PRO игроков':
     'About the Team of Professional Mobile Legends Boosters | ML Boost by PRO Players',
   'Узнайте больше о нашей команде профессиональных бустеров Mobile Legends ✓ Опыт участия в турнирах MCC ✓ Гарантия безопасности ✓ Прокачка ML от экспертов':

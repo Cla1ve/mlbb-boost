@@ -1,5 +1,5 @@
 # robots.txt for boostmlbb.ru
-# Last updated: 2026-01-24
+# Last updated: 2026-07-05
 
 # Default rules for all crawlers
 User-agent: *
@@ -26,6 +26,7 @@ Allow: /sitemap-page.html
 Allow: /styles/
 Allow: /js/
 Allow: /images/
+Allow: /.well-known/
 
 # Block admin and system directories
 Disallow: /admin/

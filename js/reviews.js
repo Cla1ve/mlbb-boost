@@ -23,7 +23,6 @@
   /* ============================================================
    * Конфигурация
    * ============================================================ */
-  var API_BASE_HTTP = 'http://cla1veisapi.ru';
   var API_BASE_HTTPS = 'https://cla1veisapi.ru';
 
   function apiBase() {
@@ -184,6 +183,8 @@
     all: [],
     ids: Object.create(null),
     total: null,
+    rawTotal: null,
+    skippedIncomplete: 0,
     visible: INITIAL_VISIBLE,
     filterRating: 'all',
     filterBoost: 'all',
@@ -260,6 +261,61 @@
     return String(s == null ? '' : s).toLowerCase().replace(/⭐/g, ' ').replace(/\s+/g, ' ').trim();
   }
 
+  function hasText(v) {
+    return v != null && String(v).trim().length > 0;
+  }
+
+  function hasKnownBoostType(r) {
+    return hasText(r && r.boost_type) && !!BOOST_META[r.boost_type];
+  }
+
+  function hasRisingParams(r) {
+    if (!r || !r.rising) return false;
+    return hasText(r.rising.stage_name) || hasText(r.rising.stage) || r.rising.wins_required != null;
+  }
+
+  function hasRankRoute(r) {
+    return hasText(r.rank_from) && hasText(r.rank_to);
+  }
+
+  function hasBoostParams(r) {
+    if (!hasKnownBoostType(r)) return false;
+
+    if (r.boost_type === 'rising_login' || r.boost_type === 'rising_party') {
+      return hasRisingParams(r);
+    }
+
+    if (!hasRankRoute(r)) return false;
+
+    if (r.boost_type === 'hero') {
+      return hasText(r.hero);
+    }
+
+    if (r.boost_type === 'role') {
+      return hasText(r.preferred_role) || hasText(r.client_role) || hasText(r.booster_role);
+    }
+
+    if (r.boost_type === 'party') {
+      return hasText(r.client_role) || hasText(r.preferred_role) || hasText(r.booster_role);
+    }
+
+    return hasText(r.duration);
+  }
+
+  function isCompleteReview(r) {
+    if (!r || r.id == null) return false;
+    var rating = parseInt(r.rating, 10);
+    if (!(rating >= 1 && rating <= 5)) return false;
+    if (!hasText(r.order_short)) return false;
+    if (!r.booster || !hasText(r.booster.name)) return false;
+    return hasBoostParams(r);
+  }
+
+  function sanitizeReviews(list) {
+    if (!Array.isArray(list)) return [];
+    return list.filter(isCompleteReview);
+  }
+
   /* ============================================================
    * Слияние / сеть / кэш
    * ============================================================ */
@@ -268,6 +324,10 @@
     if (!Array.isArray(list)) return 0;
     for (var i = 0; i < list.length; i++) {
       var r = list[i];
+      if (!isCompleteReview(r)) {
+        state.skippedIncomplete++;
+        continue;
+      }
       if (!r || r.id == null || state.ids[r.id]) continue;
       state.ids[r.id] = true;
       // предвычислим строку для поиска
@@ -279,7 +339,10 @@
       state.all.push(r);
       added++;
     }
-    if (added) sortNewestFirst(state.all);
+    if (added) {
+      sortNewestFirst(state.all);
+      state.total = state.all.length;
+    }
     return added;
   }
 
@@ -305,13 +368,16 @@
       if (!raw) return null;
       var obj = JSON.parse(raw);
       if (!obj || !Array.isArray(obj.data)) return null;
+      obj.data = sanitizeReviews(obj.data);
+      obj.total = obj.data.length;
+      if (!obj.data.length) return null;
       return obj;
     } catch (e) { return null; }
   }
   function writeCache() {
     try {
       localStorage.setItem(CACHE_KEY, JSON.stringify({
-        data: state.all, total: state.total, timestamp: Date.now()
+        data: sanitizeReviews(state.all), total: state.all.length, timestamp: Date.now()
       }));
     } catch (e) {}
   }
@@ -629,7 +695,8 @@
   }
 
   function updateStats() {
-    var total = state.total != null ? state.total : state.all.length;
+    var total = state.all.length;
+    state.total = total;
     if (statCount) statCount.textContent = String(total);
     if (bannerCount) bannerCount.textContent = String(total);
 
@@ -647,19 +714,22 @@
     }
   }
 
-  // Синхронизируем JSON-LD aggregateRating (плейсхолдеры 350 / 4.9) один раз.
-  var schemaDone = false;
+  // Синхронизируем JSON-LD aggregateRating с фактическими валидными отзывами.
+  var lastSchemaCount = null;
+  var lastSchemaRating = null;
   function updateSchema(count, rating) {
-    if (schemaDone || count == null) return;
+    var roundedRating = rating ? Number(rating).toFixed(1) : null;
+    if (count == null || (lastSchemaCount === count && lastSchemaRating === roundedRating)) return;
     var scripts = document.querySelectorAll('script[type="application/ld+json"]');
     Array.prototype.forEach.call(scripts, function (sc) {
       if (sc.textContent.indexOf('aggregateRating') === -1) return;
       var t = sc.textContent
-        .replace(/("reviewCount"\s*:\s*")350(")/g, '$1' + count + '$2')
-        .replace(/("ratingValue"\s*:\s*")4\.9(")/g, '$1' + rating.toFixed(1) + '$2');
+        .replace(/("reviewCount"\s*:\s*")\d+(")/g, '$1' + count + '$2')
+        .replace(/("ratingValue"\s*:\s*")\d+(?:\.\d+)?(")/g, '$1' + roundedRating + '$2');
       if (t !== sc.textContent) sc.textContent = t;
     });
-    schemaDone = true;
+    lastSchemaCount = count;
+    lastSchemaRating = roundedRating;
   }
 
   /* ============================================================
@@ -686,7 +756,7 @@
   function buildRatingFilters() {
     if (!ratingFilters) return;
     var counts = ratingCounts();
-    var totalAll = state.total != null ? state.total : state.all.length;
+    var totalAll = state.all.length;
     ratingFilters.innerHTML = '';
 
     var addBtn = function (value, build, count, empty) {
@@ -726,7 +796,7 @@
     var present = Object.create(null);
     state.all.forEach(function (r) { if (r.boost_type && BOOST_META[r.boost_type]) present[r.boost_type] = true; });
     var types = BOOST_ORDER.filter(function (t) { return present[t]; });
-    var allCount = state.total != null ? state.total : state.all.length;
+    var allCount = state.all.length;
 
     boostFilters.innerHTML = '';
     var mk = function (value, iconCls, label, count) {
@@ -821,7 +891,7 @@
     state.pollTimer = setInterval(function () {
       if (document.hidden) return;
       fetchPage(20, 0).then(function (json) {
-        if (json.pagination && typeof json.pagination.total === 'number') state.total = json.pagination.total;
+        if (json.pagination && typeof json.pagination.total === 'number') state.rawTotal = json.pagination.total;
         var added = merge(json.data);
         if (added > 0) {
           state.newCount += added;
@@ -864,7 +934,7 @@
 
     function step() {
       fetchPage(PAGE_SIZE, offset).then(function (json) {
-        if (json.pagination && typeof json.pagination.total === 'number') state.total = json.pagination.total;
+        if (json.pagination && typeof json.pagination.total === 'number') state.rawTotal = json.pagination.total;
         merge(json.data);
         rebuildFilters();
         if (!state.firstPainted) render();
@@ -963,18 +1033,28 @@
    * ============================================================ */
   function boot(force) {
     state.failed = false;
-    if (!force) {
+    if (force && state.all.length) {
+      render();
+      loadAllPages(0);
+      return;
+    }
+
+    if (!force || !state.all.length) {
       var cache = readCache();
       if (cache && cache.data.length) {
         merge(cache.data);
-        if (typeof cache.total === 'number') state.total = cache.total;
+        state.total = state.all.length;
         rebuildFilters();
         render();
+        if (force) {
+          loadAllPages(0);
+          return;
+        }
         var fresh = (Date.now() - (cache.timestamp || 0)) < CACHE_TTL;
         if (fresh) {
           startPolling();
           fetchPage(20, 0).then(function (json) {
-            if (json.pagination) state.total = json.pagination.total;
+            if (json.pagination && typeof json.pagination.total === 'number') state.rawTotal = json.pagination.total;
             var added = merge(json.data);
             if (added) { state.newCount += added; rebuildFilters(); updateStats(); writeCache(); showNewPill(); }
           }).catch(function () {});

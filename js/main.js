@@ -18,6 +18,9 @@ document.addEventListener('DOMContentLoaded', () => {
   ];
 
   const navList = document.querySelector('.nav-list');
+  const currentPath = window.location.pathname;
+  const currentPage = currentPath.split('/').pop() || 'index.html';
+  const normalizedCurrent = currentPage.replace(/\.html$/i, '') || 'index';
   // Очищаем текущий список
   if (navList) {
     navList.innerHTML = '';
@@ -25,15 +28,14 @@ document.addEventListener('DOMContentLoaded', () => {
     // Добавляем новые пункты меню
     menuItems.forEach((item, index) => {
       const li = document.createElement('li');
-      const currentPath = window.location.pathname;
-      const currentPage = currentPath.split('/').pop() || 'index.html';
+      const normalizedLink = item.link.replace(/\.html$/i, '');
       
       // Определяем активную страницу
       let isActive = false;
       if (item.link === 'index.html') {
-        isActive = currentPage === '' || currentPage === 'index.html' || currentPath === '/' || currentPath.endsWith('/');
+        isActive = normalizedCurrent === 'index' || currentPath === '/' || currentPath.endsWith('/');
       } else {
-        isActive = currentPage === item.link || currentPath.endsWith('/' + item.link);
+        isActive = normalizedCurrent === normalizedLink || currentPath.endsWith('/' + item.link);
       }
       
       li.innerHTML = `
@@ -48,9 +50,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Добавляем кнопку CTA в конец
     const ctaLi = document.createElement('li');
+    const isOrderPage = normalizedCurrent === 'order' || currentPath.endsWith('/order.html');
     ctaLi.innerHTML = `
-      <a href="https://t.me/cla1ve_boost_bot?start=site" target="_blank" class="nav-link cta">
-        <i class="fab fa-telegram"></i>
+      <a href="order.html" class="nav-link cta ${isOrderPage ? 'active' : ''}">
+        <i class="fas fa-shopping-cart"></i>
         Купить буст
       </a>
     `;
