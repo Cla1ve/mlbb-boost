@@ -11,7 +11,7 @@ Allow: /prices.html
 Allow: /reviews.html
 Allow: /faq.html
 Allow: /about.html
-Allow: /contact.html
+Allow: /order.html
 Allow: /offer.html
 Allow: /privacy.html
 Allow: /terms.html

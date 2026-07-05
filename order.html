@@ -3,23 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Заказать буст Mobile Legends | Оформить заказ на прокачку ML онлайн</title>
+  <title>Калькулятор буста Mobile Legends | Рассчитать стоимость прокачки ML</title>
   
   <!-- SEO мета-теги -->
-  <meta name="description" content="Оформите заказ на буст Mobile Legends онлайн. Выберите текущий и желаемый ранг, доп. опции. Безопасная прокачка ML от PRO игроков MCC. Гарантия 90%+ винрейта. Цены от 50₽/звезда.">
-  <meta name="keywords" content="заказать буст mobile legends, оформить буст ml, купить буст mlbb онлайн, заказ прокачки ml, буст ранга ml заказать, оформить заказ буст mobile legends">
+  <meta name="description" content="Онлайн калькулятор стоимости буста Mobile Legends. Рассчитайте точную цену прокачки ранга от Warrior до Mythic Glory. Скидка 10% на первый заказ! Мгновенный расчёт.">
+  <meta name="keywords" content="калькулятор буста mobile legends, рассчитать стоимость буста ml, калькулятор прокачки ml, цена буста mlbb калькулятор, сколько стоит буст до мифика">
   <meta name="google-site-verification" content="uTSHJejcShYlE8SICFMGS7KNCuNChRwM5-QtvNomFuM">
   <meta name="robots" content="index, follow">
   
   <!-- Canonical URL -->
-  <link rel="canonical" href="https://boostmlbb.ru/order.html">
-  <link rel="alternate" hreflang="en" href="https://boostmlbb.ru/order.html?lang=en">
+  <link rel="canonical" href="order.html">
+  <link rel="alternate" hreflang="en" href="order.html?lang=en">
   
   <!-- Open Graph теги -->
-  <meta property="og:title" content="Заказать буст Mobile Legends | Оформление заказа онлайн">
-  <meta property="og:description" content="Оформите заказ на буст ML онлайн. Выберите ранг, опции, получите мгновенный расчёт. PRO игроки, гарантия безопасности.">
+  <meta property="og:title" content="Калькулятор буста Mobile Legends | Рассчитать стоимость">
+  <meta property="og:description" content="Мгновенный расчёт стоимости буста ML. Скидка 10% на первый заказ!">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://boostmlbb.ru/order.html">
+  <meta property="og:url" content="order.html">
   <meta property="og:image" content="https://boostmlbb.ru/images/logo-512x512.png">
   <meta property="og:image:width" content="512">
   <meta property="og:image:height" content="512">
@@ -28,8 +28,8 @@
   
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Заказать буст Mobile Legends онлайн">
-  <meta name="twitter:description" content="Оформите заказ на буст ML. Выбор ранга, опции, мгновенный расчёт.">
+  <meta name="twitter:title" content="Калькулятор буста Mobile Legends">
+  <meta name="twitter:description" content="Рассчитайте стоимость буста ML онлайн.">
   <meta name="twitter:image" content="https://boostmlbb.ru/images/logo-512x512.png">
   
   <!-- Favicon -->
@@ -38,25 +38,21 @@
   <link rel="icon" type="image/png" sizes="512x512" href="images/logo-512x512.png">
   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
   
-  <!-- Мета-теги для изображений -->
-  <meta property="og:image:width" content="512">
-  <meta property="og:image:height" content="512">
-  <meta property="og:image:type" content="image/png">
-  
   <!-- Schema.org разметка -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "Заказ буста Mobile Legends",
-      "description": "Онлайн оформление заказа на буст Mobile Legends. Выбор ранга, дополнительных опций, мгновенный расчёт стоимости.",
-      "url": "https://boostmlbb.ru/order.html",
-      "provider": {
-        "@type": "Organization",
-        "name": "Boost MLBB",
-        "url": "https://boostmlbb.ru"
-      },
-      "areaServed": "RU"
+      "@type": "WebApplication",
+      "name": "Калькулятор буста Mobile Legends",
+      "description": "Онлайн калькулятор для расчёта стоимости буста Mobile Legends",
+      "url": "order.html",
+      "applicationCategory": "UtilityApplication",
+      "operatingSystem": "Web Browser",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "RUB"
+      }
     }
   </script>
   
@@ -66,7 +62,7 @@
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://boostmlbb.ru/"},
-        {"@type": "ListItem", "position": 2, "name": "Заказ", "item": "https://boostmlbb.ru/order.html"}
+        {"@type": "ListItem", "position": 2, "name": "Калькулятор", "item": "order.html"}
       ]
     }
   </script>
@@ -84,11 +80,12 @@
       trackLinks:true,
       accurateTrackBounce:true,
       webvisor:true,
-      ecommerce:"dataLayer"
+      ecommerce:"dataLayer",
+      trackHash:false,
+      defer:true
     });
   </script>
   <noscript><div><img src="https://mc.yandex.ru/watch/99684184" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-  <!-- /Yandex.Metrika counter -->
 
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HJ7194FZC"></script>
@@ -98,11 +95,10 @@
     gtag('js', new Date());
     gtag('config', 'G-6HJ7194FZC');
   </script>
-  <!-- /Google Analytics -->
   
   <link rel="stylesheet" href="styles/main.css">
   <link rel="stylesheet" href="styles/animations.css">
-  <link rel="stylesheet" href="styles/order.css">
+  <link rel="stylesheet" href="styles/contact.css">
   <link rel="stylesheet" href="styles/legal.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <!-- i18n: RU/EN language switcher -->
@@ -120,6 +116,7 @@
 <body>
   <div class="page-transition"></div>
   
+  <!-- Navigation -->
   <header class="site-header">
     <nav class="main-nav">
       <div class="nav-container">
@@ -141,13 +138,13 @@
             <li><a href="reviews.html" class="nav-link">Отзывы</a></li>
             <li><a href="faq.html" class="nav-link">FAQ</a></li>
             <li><a href="about.html" class="nav-link"><i class="fas fa-users"></i> О нас</a></li>
-            <li><a href="order.html" class="nav-link cta active">
+            <li><a href="order.html" class="nav-link cta">
               <i class="fas fa-shopping-cart"></i>Купить буст
             </a></li>
           </ul>
         </div>
 
-        <button class="menu-toggle" aria-label="Toggle menu">
+        <button class="menu-toggle">
           <span></span>
           <span></span>
           <span></span>
@@ -156,147 +153,555 @@
     </nav>
   </header>
 
-  <main class="order-page">
-    <div class="character-bg"></div>
-    
-    <section class="order-section">
-      <div class="order-container">
-        <h1 class="glowing-text">Оформление заказа</h1>
-        
-        <div class="order-grid">
-          <div class="order-form-container">
-            <form id="boost-order-form" class="glass-form">
-              <div class="form-step active" data-step="1">
-                <h3>Выберите текущий ранг</h3>
-                <div class="rank-selector">
-                  <div class="rank-option" data-rank="warrior">
-                    <img loading="lazy" decoding="async" src="Ранги/Warrior.webp" alt="Ранг Warrior Mobile Legends — буст до Warrior">
-                    <span>Warrior</span>
-                  </div>
-                  <div class="rank-option" data-rank="elite">
-                    <img loading="lazy" decoding="async" src="Ранги/Elite.webp" alt="Ранг Elite Mobile Legends — буст до Elite">
-                    <span>Elite</span>
-                  </div>
-                  <div class="rank-option" data-rank="master">
-                    <img loading="lazy" decoding="async" src="Ранги/Master.webp" alt="Ранг Master Mobile Legends — буст до Master">
-                    <span>Master</span>
-                  </div>
-                  <div class="rank-option" data-rank="grandmaster">
-                    <img loading="lazy" decoding="async" src="Ранги/Grandmaster.webp" alt="Ранг Grandmaster Mobile Legends — буст до Grandmaster">
-                    <span>Grandmaster</span>
-                  </div>
-                  <div class="rank-option" data-rank="epic">
-                    <img loading="lazy" decoding="async" src="Ранги/Epic.webp" alt="Ранг Epic Mobile Legends — буст до Epic">
-                    <span>Epic</span>
-                  </div>
-                  <div class="rank-option" data-rank="legend">
-                    <img loading="lazy" decoding="async" src="Ранги/Legend.webp" alt="Ранг Legend Mobile Legends — буст до Legend">
-                    <span>Legend</span>
-                  </div>
-                  <div class="rank-option" data-rank="mythic">
-                    <img loading="lazy" decoding="async" src="Ранги/Mythic.webp" alt="Ранг Mythic Mobile Legends — буст до Mythic">
-                    <span>Mythic</span>
-                  </div>
-                </div>
-              </div>
+  <main class="contact-page">
+    <!-- Animated Background Particles -->
+    <div class="particles-container" id="particles-bg">
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div>
+    </div>
 
-              <div class="form-step" data-step="2">
-                <h3>Выберите желаемый ранг</h3>
-                <div class="rank-selector">
-                  <div class="rank-option" data-rank="elite">
-                    <img loading="lazy" decoding="async" src="Ранги/Elite.webp" alt="Буст до ранга Elite Mobile Legends">
-                    <span>Elite</span>
-                  </div>
-                  <div class="rank-option" data-rank="master">
-                    <img loading="lazy" decoding="async" src="Ранги/Master.webp" alt="Буст до ранга Master Mobile Legends">
-                    <span>Master</span>
-                  </div>
-                  <div class="rank-option" data-rank="grandmaster">
-                    <img loading="lazy" decoding="async" src="Ранги/Grandmaster.webp" alt="Буст до ранга Grandmaster Mobile Legends">
-                    <span>Grandmaster</span>
-                  </div>
-                  <div class="rank-option" data-rank="epic">
-                    <img loading="lazy" decoding="async" src="Ранги/Epic.webp" alt="Буст до ранга Epic Mobile Legends">
-                    <span>Epic</span>
-                  </div>
-                  <div class="rank-option" data-rank="legend">
-                    <img loading="lazy" decoding="async" src="Ранги/Legend.webp" alt="Буст до ранга Legend Mobile Legends">
-                    <span>Legend</span>
-                  </div>
-                  <div class="rank-option" data-rank="mythic">
-                    <img loading="lazy" decoding="async" src="Ранги/Mythic.webp" alt="Буст до ранга Mythic Mobile Legends">
-                    <span>Mythic</span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="form-step" data-step="3">
-                <h3>Дополнительные опции</h3>
-                <div class="options-grid">
-                  <label class="option-card">
-                    <input type="checkbox" name="stream">
-                    <span class="option-content">
-                      <i class="fas fa-video"></i>
-                      <span>Стрим буста</span>
-                    </span>
-                  </label>
-                  <label class="option-card">
-                    <input type="checkbox" name="priority">
-                    <span class="option-content">
-                      <i class="fas fa-bolt"></i>
-                      <span>Приоритетный буст</span>
-                    </span>
-                  </label>
-                  <label class="option-card">
-                    <input type="checkbox" name="heroes">
-                    <span class="option-content">
-                      <i class="fas fa-user-ninja"></i>
-                      <span>Выбор героев</span>
-                    </span>
-                  </label>
-                </div>
-              </div>
-
-              <div class="form-navigation">
-                <button type="button" class="nav-button prev" disabled>Назад</button>
-                <div class="progress-bar">
-                  <div class="progress"></div>
-                </div>
-                <button type="button" class="nav-button next">Далее</button>
-              </div>
-            </form>
+    <section class="contact-section">
+      <div class="container">
+        <!-- Hero Header -->
+        <div class="calculator-hero">
+          <div class="hero-badge">
+            <i class="fas fa-calculator"></i>
+            <span>Калькулятор</span>
           </div>
+          <h1 class="page-title">
+            <span class="title-line">Рассчитать</span>
+            <span class="title-line accent">стоимость буста</span>
+          </h1>
+          <p class="page-subtitle">Выберите тип буста и укажите ранги для мгновенного расчёта</p>
+        </div>
 
-          <div class="order-summary glass-panel">
-            <h3>Ваш заказ</h3>
-            <div class="summary-content">
-              <div class="summary-item">
-                <span>Текущий ранг:</span>
-                <span id="current-rank-display">-</span>
+        <!-- Telegram Channels - Redesigned -->
+        <div class="telegram-channels">
+          <a href="https://t.me/Cla1ve_boost_mlbb" target="_blank" class="channel-link main">
+            <div class="channel-icon">
+              <i class="fab fa-telegram"></i>
+            </div>
+            <div class="channel-info">
+              <span class="channel-title">Основной канал</span>
+              <span class="channel-desc">Новости и акции</span>
+            </div>
+            <i class="fas fa-arrow-right channel-arrow"></i>
+          </a>
+          <a href="https://t.me/cla1ve_boost" target="_blank" class="channel-link reviews">
+            <div class="channel-icon">
+              <i class="fas fa-star"></i>
+            </div>
+            <div class="channel-info">
+              <span class="channel-title">850+ отзывов</span>
+              <span class="channel-desc">Реальные клиенты</span>
+            </div>
+            <i class="fas fa-arrow-right channel-arrow"></i>
+          </a>
+        </div>
+
+        <!-- Boost Type Selector - Premium Tabs -->
+        <div class="boost-type-wrapper">
+          <div class="boost-type-selector">
+            <div class="selector-glow"></div>
+            <button class="boost-type-btn active" data-type="standard">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-user-shield"></i>
               </div>
-              <div class="summary-item">
-                <span>Желаемый ранг:</span>
-                <span id="desired-rank-display">-</span>
+              <span class="btn-label">Обычный</span>
+              <span class="btn-tag">Популярный</span>
+            </button>
+            <button class="boost-type-btn" data-type="role">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-mask"></i>
               </div>
-              <div class="summary-item">
-                <span>Дополнительно:</span>
-                <ul id="options-display"></ul>
+              <span class="btn-label">На роли</span>
+            </button>
+            <button class="boost-type-btn" data-type="party">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-users"></i>
               </div>
-              <div class="price-display">
-                <span>Итого:</span>
-                <span id="total-price">0 ₽</span>
+              <span class="btn-label">В пати</span>
+              <span class="btn-tag duo">Duo</span>
+            </button>
+            <button class="boost-type-btn" data-type="hero">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-user-ninja"></i>
+              </div>
+              <span class="btn-label">MMR</span>
+            </button>
+            <button class="boost-type-btn rising" data-type="rising">
+              <div class="btn-icon-wrap">
+                <i class="fas fa-bolt"></i>
+              </div>
+              <span class="btn-label">Rising</span>
+              <span class="btn-tag hot">Hot</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Boost Type Description - Cards Style -->
+        <div class="boost-type-description" id="boost-description">
+          <div class="description-content" data-type="standard">
+            <div class="desc-icon">
+              <i class="fas fa-user-shield"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Обычный буст</h3>
+              <p>Бустер играет со входом в ваш аккаунт. Самый быстрый и эффективный способ поднять ранг.</p>
+            </div>
+          </div>
+          <div class="description-content hidden" data-type="role">
+            <div class="desc-icon role">
+              <i class="fas fa-mask"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Буст на роли</h3>
+              <p>Бустер играет только на выбранной вами роли (танк, маг, стрелок и т.д.).</p>
+            </div>
+          </div>
+          <div class="description-content hidden" data-type="party">
+            <div class="desc-icon party">
+              <i class="fas fa-users"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Совместный буст</h3>
+              <p>Играете вместе с бустером в одной команде. Вы учитесь и поднимаете ранг одновременно!</p>
+            </div>
+          </div>
+          <div class="description-content hidden" data-type="hero">
+            <div class="desc-icon hero">
+              <i class="fas fa-user-ninja"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Буст MMR</h3>
+              <p>Прокачка рейтинга на конкретном герое для топа сервера или страны.</p>
+            </div>
+          </div>
+          <div class="description-content hidden" data-type="rising">
+            <div class="desc-icon rising">
+              <i class="fas fa-bolt"></i>
+            </div>
+            <div class="desc-text">
+              <h3>Rising буст</h3>
+              <p>Прохождение Rising mode с гарантией результата. Цена зависит от этапа.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Calculator Container - Premium Glass -->
+        <div class="calculator-container" id="calculator-container">
+          <!-- Calculator Form -->
+          <div class="calculator-form" id="calculator-form">
+            
+            <!-- Progress Steps Indicator -->
+            <div class="calc-progress">
+              <div class="progress-step active" data-step="1">
+                <div class="step-num">1</div>
+                <span>Текущий</span>
+              </div>
+              <div class="progress-line"></div>
+              <div class="progress-step" data-step="2">
+                <div class="step-num">2</div>
+                <span>Желаемый</span>
+              </div>
+              <div class="progress-line"></div>
+              <div class="progress-step" data-step="3">
+                <div class="step-num">3</div>
+                <span>Расчёт</span>
               </div>
             </div>
-            <button type="submit" class="submit-order" disabled>
-              Оформить заказ
-              <i class="fas fa-arrow-right"></i>
+            
+            <!-- Rank Selection Block - Premium Cards -->
+            <div class="rank-selection-block">
+              <!-- Current Rank Card -->
+              <div class="rank-selector-card" id="rank-card-from">
+                <div class="card-header">
+                  <span class="card-label">
+                    <i class="fas fa-location-dot"></i>
+                    Сейчас
+                  </span>
+                </div>
+                <div class="rank-image-preview" id="rank-image-from">
+                  <div class="rank-placeholder">
+                    <div class="placeholder-icon">
+                      <i class="fas fa-question"></i>
+                    </div>
+                    <span>Выберите ранг</span>
+                  </div>
+                </div>
+                <div class="rank-selector-content">
+                  <div class="form-group">
+                    <label for="rank-from">
+                      <i class="fas fa-chevron-up"></i> Текущий ранг
+                    </label>
+                    <div class="select-wrapper">
+                      <select id="rank-from" class="rank-select">
+                        <option value="" disabled selected>Выберите ранг</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
+                  </div>
+                  <div class="form-group stars-group" id="stars-container-from">
+                    <label for="stars-from">
+                      <i class="fas fa-star"></i> Звёзды
+                    </label>
+                    <div class="select-wrapper">
+                      <select id="stars-from" class="stars-select">
+                        <option value="1">1 звезда</option>
+                        <option value="2">2 звезды</option>
+                        <option value="3">3 звезды</option>
+                        <option value="4">4 звезды</option>
+                        <option value="5">5 звёзд</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Arrow with animation -->
+              <div class="rank-arrow">
+                <div class="arrow-circle">
+                  <i class="fas fa-arrow-right"></i>
+                </div>
+                <div class="arrow-line"></div>
+              </div>
+
+              <!-- Target Rank Card -->
+              <div class="rank-selector-card target" id="rank-card-to">
+                <div class="card-header">
+                  <span class="card-label target">
+                    <i class="fas fa-flag-checkered"></i>
+                    Цель
+                  </span>
+                </div>
+                <div class="rank-image-preview" id="rank-image-to">
+                  <div class="rank-placeholder">
+                    <div class="placeholder-icon target">
+                      <i class="fas fa-trophy"></i>
+                    </div>
+                    <span>Выберите цель</span>
+                  </div>
+                </div>
+                <div class="rank-selector-content">
+                  <div class="form-group">
+                    <label for="rank-to">
+                      <i class="fas fa-trophy"></i> Желаемый ранг
+                    </label>
+                    <div class="select-wrapper">
+                      <select id="rank-to" class="rank-select">
+                        <option value="" disabled selected>Выберите ранг</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
+                  </div>
+                  <div class="form-group stars-group" id="stars-container-to">
+                    <label for="stars-to">
+                      <i class="fas fa-star"></i> Звёзды
+                    </label>
+                    <div class="select-wrapper">
+                      <select id="stars-to" class="stars-select">
+                        <option value="1">1 звезда</option>
+                        <option value="2">2 звезды</option>
+                        <option value="3">3 звезды</option>
+                        <option value="4">4 звезды</option>
+                        <option value="5" selected>5 звёзд</option>
+                      </select>
+                      <i class="fas fa-caret-down select-arrow"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Options Section -->
+            <div class="options-section">
+              <!-- Weak Account Checkbox - Premium Toggle -->
+              <div class="weak-account-option">
+                <label class="toggle-container">
+                  <input type="checkbox" id="weak-account">
+                  <span class="toggle-slider"></span>
+                  <div class="toggle-content">
+                    <div class="toggle-header">
+                      <i class="fas fa-exclamation-triangle"></i>
+                      <span class="toggle-title">Слабый аккаунт</span>
+                      <span class="toggle-badge">+10%</span>
+                    </div>
+                    <p class="toggle-desc">Мало героев или слабые эмблемы</p>
+                  </div>
+                </label>
+              </div>
+
+              <!-- Min Stars Notice - Pill Style -->
+              <div class="min-stars-notice">
+                <div class="notice-icon">
+                  <i class="fas fa-info"></i>
+                </div>
+                <span>Минимальный заказ — <strong>3 звезды</strong></span>
+              </div>
+            </div>
+
+            <!-- Calculate Button - Premium Style -->
+            <button type="button" class="calculate-btn" id="calculate-btn">
+              <span class="btn-content">
+                <i class="fas fa-calculator"></i>
+                <span>Рассчитать стоимость</span>
+              </span>
+              <span class="btn-loading hidden">
+                <i class="fas fa-spinner fa-spin"></i>
+                <span>Расчёт...</span>
+              </span>
+              <div class="btn-shine"></div>
             </button>
+          </div>
+
+          <!-- Rising Calculator - Premium Style -->
+          <div class="rising-calculator hidden" id="rising-calculator">
+            <div class="rising-header">
+              <div class="rising-img-wrapper">
+                <img src="Ранги/rising.webp" alt="Rising" class="rising-img">
+                <div class="rising-glow"></div>
+              </div>
+              <div class="rising-text">
+                <h3>
+                  <span class="rising-icon"><i class="fas fa-bolt"></i></span>
+                  Rising буст
+                </h3>
+                <p>Выберите этап для просмотра стоимости</p>
+              </div>
+            </div>
+
+            <div class="rising-stages-grid">
+              <div class="rising-stage" data-stage="1">
+                <div class="stage-number">1</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 1</span>
+                  <span class="stage-price">1 000 ₽</span>
+                </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
+              </div>
+              <div class="rising-stage" data-stage="2">
+                <div class="stage-number">2</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 2</span>
+                  <span class="stage-price">1 200 ₽</span>
+                </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
+              </div>
+              <div class="rising-stage" data-stage="3">
+                <div class="stage-number">3</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 3</span>
+                  <span class="stage-price">1 400 ₽</span>
+                </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
+              </div>
+              <div class="rising-stage" data-stage="4">
+                <div class="stage-number">4</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 4</span>
+                  <span class="stage-price">1 600 ₽</span>
+                </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
+              </div>
+              <div class="rising-stage" data-stage="5">
+                <div class="stage-number">5</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 5</span>
+                  <span class="stage-price">1 800 ₽</span>
+                </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
+              </div>
+              <div class="rising-stage" data-stage="6">
+                <div class="stage-number">6</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 6</span>
+                  <span class="stage-price">2 200 ₽</span>
+                </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
+              </div>
+              <div class="rising-stage hot" data-stage="7">
+                <div class="hot-badge"><i class="fas fa-fire"></i></div>
+                <div class="stage-number">7</div>
+                <div class="stage-info">
+                  <span class="stage-name">Этап 7</span>
+                  <span class="stage-price">3 000 ₽</span>
+                </div>
+                <div class="stage-check"><i class="fas fa-check"></i></div>
+              </div>
+            </div>
+
+            <div class="rising-cta">
+              <div class="cta-divider">
+                <span>Для заказа</span>
+              </div>
+              <a href="https://t.me/Cla1ve" target="_blank" class="rising-order-btn">
+                <span class="btn-text">
+                  <i class="fab fa-telegram"></i>
+                  Написать @Cla1ve
+                </span>
+                <span class="btn-arrow"><i class="fas fa-arrow-right"></i></span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Calculation Result - Premium Card -->
+        <div class="calculation-result hidden" id="calculation-result">
+          <div class="result-card">
+            <!-- Success Icon Animation -->
+            <div class="result-icon-wrapper">
+              <div class="result-icon">
+                <i class="fas fa-check"></i>
+              </div>
+              <div class="icon-rings">
+                <div class="ring ring-1"></div>
+                <div class="ring ring-2"></div>
+              </div>
+            </div>
+
+            <h3 class="result-title">Расчёт готов!</h3>
+            
+            <!-- Route Visual -->
+            <div class="result-route-visual">
+              <div class="route-point from">
+                <span class="route-label">Старт</span>
+              </div>
+              <div class="route-line">
+                <div class="route-progress"></div>
+                <i class="fas fa-chevron-right route-arrow"></i>
+              </div>
+              <div class="route-point to">
+                <span class="route-label">Цель</span>
+              </div>
+            </div>
+            
+            <div class="result-details">
+              <div class="detail-item">
+                <div class="detail-icon"><i class="fas fa-gamepad"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Тип буста</span>
+                  <span class="detail-value" id="result-type">Обычный</span>
+                </div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-icon"><i class="fas fa-route"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Маршрут</span>
+                  <span class="detail-value" id="result-route">-</span>
+                </div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-icon"><i class="fas fa-clock"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Срок выполнения</span>
+                  <span class="detail-value" id="result-time">уточняется</span>
+                </div>
+              </div>
+              <div class="detail-item highlight">
+                <div class="detail-icon"><i class="fas fa-trophy"></i></div>
+                <div class="detail-info">
+                  <span class="detail-label">Гарантия винрейта</span>
+                  <span class="detail-value green" id="result-winrate">90%+</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Price Block - Premium -->
+            <div class="price-block">
+              <div class="price-original">
+                <span class="price-old-label">Без скидки:</span>
+                <span class="price-old-value" id="original-price" data-i18n-skip>0 ₽</span>
+              </div>
+              <div class="price-final">
+                <span class="price-new-label">Ваша цена:</span>
+                <span class="price-new-value" id="discounted-price" data-i18n-skip>
+                  <span class="price-number">0</span>
+                  <span class="price-currency">₽</span>
+                </span>
+              </div>
+            </div>
+
+            <!-- Discount Badge - Animated -->
+            <div class="discount-ribbon">
+              <div class="ribbon-content">
+                <i class="fas fa-gift"></i>
+                <span>Скидка <strong>10%</strong> на первый заказ!</span>
+              </div>
+              <div class="ribbon-shine"></div>
+            </div>
+
+            <!-- Order Button - Premium -->
+            <a href="https://t.me/cla1ve_boost_bot?start=site" target="_blank" class="order-btn-premium" id="order-btn">
+              <span class="btn-main">
+                <i class="fab fa-telegram"></i>
+                <span>Оформить заказ</span>
+              </span>
+              <span class="btn-sub">Перейти в Telegram-бот</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Calculation Error - Improved -->
+        <div class="calculation-error hidden" id="calculation-error">
+          <div class="error-card">
+            <div class="error-icon">
+              <i class="fas fa-exclamation-triangle"></i>
+            </div>
+            <h4>Упс! Что-то пошло не так</h4>
+            <p id="error-message">Произошла ошибка при расчёте</p>
+            <button class="retry-btn" id="retry-btn">
+              <i class="fas fa-redo"></i>
+              <span>Попробовать снова</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Trust Indicators - Premium -->
+        <div class="trust-section">
+          <h3 class="trust-title">
+            <span class="title-icon"><i class="fas fa-shield-alt"></i></span>
+            Почему выбирают нас
+          </h3>
+          <div class="trust-grid">
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-lock"></i>
+              </div>
+              <span class="trust-label">100% безопасность</span>
+              <span class="trust-desc">VPN + приватность</span>
+            </div>
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-crown"></i>
+              </div>
+              <span class="trust-label">PRO игроки</span>
+              <span class="trust-desc">Топ-100 сервера</span>
+            </div>
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-headset"></i>
+              </div>
+              <span class="trust-label">24/7 поддержка</span>
+              <span class="trust-desc">Всегда на связи</span>
+            </div>
+            <div class="trust-card">
+              <div class="trust-icon">
+                <i class="fas fa-chart-line"></i>
+              </div>
+              <span class="trust-label">Винрейт 90%+</span>
+              <span class="trust-desc">Гарантируем</span>
+            </div>
           </div>
         </div>
       </div>
     </section>
   </main>
 
+  <!-- Footer -->
   <footer class="site-footer legal-footer">
     <div class="container">
       <div class="footer-grid">
@@ -321,14 +726,15 @@
         </div>
 
         <div class="footer-column">
-          <h4>Документы</h4>
+          <h4>Наши каналы</h4>
+          <ul>
+            <li><a href="https://t.me/Cla1ve_boost_mlbb" target="_blank"><i class="fab fa-telegram"></i> Основной канал</a></li>
+            <li><a href="https://t.me/cla1ve_boost" target="_blank"><i class="fas fa-star"></i> Отзывы (850+)</a></li>
+          </ul>
+          <h4 style="margin-top: 1rem;">Документы</h4>
           <ul>
             <li><a href="offer.html">Публичная оферта</a></li>
             <li><a href="privacy.html">Политика конфиденциальности</a></li>
-            <li><a href="terms.html">Условия использования</a></li>
-            <li><a href="refund.html">Политика возврата</a></li>
-            <li><a href="disclaimer.html">Дисклеймер</a></li>
-            <li><a href="cookies.html">Политика cookies</a></li>
           </ul>
         </div>
 
@@ -358,9 +764,9 @@
     </div>
   </footer>
 
-  <script src="js/main.js"></script>
   <script src="js/animations.js"></script>
-  <script src="js/order.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/calculator.js"></script>
   <script src="js/consent.js"></script>
 </body>
 </html>
