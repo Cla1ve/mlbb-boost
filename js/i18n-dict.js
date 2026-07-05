@@ -139,7 +139,6 @@ window.MLBB_DICT = {
   'Цены на буст': 'Boost prices',
   'Актуальные цены за 1 звезду в каждом ранге': 'Current prices per 1 star in each rank',
   'Загрузка цен...': 'Loading prices...',
-  'Показан актуальный резервный прайс от 05.07.2026': 'Showing the current fallback price list from 2026-07-05',
   'Стандарт': 'Standard',
   'На роли': 'Role',
   'На герое': 'On hero',

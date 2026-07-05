@@ -419,56 +419,14 @@ function hideLoading() {
  */
 function setDataStatus(mode, timestamp) {
   const node = document.getElementById('prices-data-status');
-  if (!node) return;
-
   lastDataStatusMode = mode;
   lastDataStatusTimestamp = timestamp || null;
 
-  const lang = getLang();
-  const time = timestamp ? formatTimestamp(timestamp, lang) : '';
-
-  const labels = {
-    live: {
-      ru: `Цены обновлены из API${time ? `: ${time}` : ''}`,
-      en: `Prices updated from API${time ? `: ${time}` : ''}`
-    },
-    'cache-fresh': {
-      ru: `Показаны актуальные цены из кэша${time ? `: ${time}` : ''}`,
-      en: `Showing fresh cached prices${time ? `: ${time}` : ''}`
-    },
-    'cache-stale': {
-      ru: `API временно недоступен, показаны последние сохранённые цены${time ? `: ${time}` : ''}`,
-      en: `API is temporarily unavailable, showing last saved prices${time ? `: ${time}` : ''}`
-    },
-    fallback: {
-      ru: 'API временно недоступен, показан резервный прайс от 05.07.2026',
-      en: 'API is temporarily unavailable, showing the fallback price list from 2026-07-05'
-    }
-  };
-
-  node.textContent = (labels[mode] && labels[mode][lang]) || labels.fallback.ru;
-  node.dataset.status = mode;
-}
-
-function getLang() {
-  try {
-    return window.MLBBi18n && window.MLBBi18n.get && window.MLBBi18n.get() === 'en' ? 'en' : 'ru';
-  } catch (error) {
-    return 'ru';
-  }
-}
-
-function formatTimestamp(timestamp, lang) {
-  try {
-    return new Date(timestamp).toLocaleString(lang === 'en' ? 'en-GB' : 'ru-RU', {
-      day: '2-digit',
-      month: '2-digit',
-      year: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit'
-    });
-  } catch (error) {
-    return '';
+  if (node) {
+    node.textContent = '';
+    node.hidden = true;
+    node.setAttribute('aria-hidden', 'true');
+    node.dataset.status = mode;
   }
 }
 
