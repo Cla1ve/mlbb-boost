@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'mlbb-boost-v7';
+const CACHE_VERSION = 'mlbb-boost-v8';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;

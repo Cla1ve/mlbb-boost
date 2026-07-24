@@ -311,9 +311,25 @@
     return hasBoostParams(r);
   }
 
+  // API может помечать формат текста внутренним префиксом вроде
+  // "review_html_v1::". Он не является частью отзыва и не должен попадать
+  // ни в карточку, ни в поиск, ни в локальный кэш.
+  var REVIEW_TEXT_MARKER = /^(?:[\s\uFEFF\u200B]*review_html_v\d+::)+[\s\uFEFF\u200B]*/i;
+
+  function cleanReviewText(value) {
+    if (value == null) return '';
+    return String(value).replace(REVIEW_TEXT_MARKER, '').trim();
+  }
+
+  function normalizeReview(r) {
+    if (!r || typeof r !== 'object') return r;
+    r.text = cleanReviewText(r.text);
+    return r;
+  }
+
   function sanitizeReviews(list) {
     if (!Array.isArray(list)) return [];
-    return list.filter(isCompleteReview);
+    return list.map(normalizeReview).filter(isCompleteReview);
   }
 
   /* ============================================================
@@ -323,7 +339,7 @@
     var added = 0;
     if (!Array.isArray(list)) return 0;
     for (var i = 0; i < list.length; i++) {
-      var r = list[i];
+      var r = normalizeReview(list[i]);
       if (!isCompleteReview(r)) {
         state.skippedIncomplete++;
         continue;
