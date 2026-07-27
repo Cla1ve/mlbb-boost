@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
     navList.appendChild(ctaLi);
 
     // Добавляем стили для корректного отображения
-    if (window.innerWidth > 768) {
+    if (window.innerWidth > 1024) {
       navList.style.display = 'flex';
       navList.style.alignItems = 'center';
       navList.style.gap = '0.5rem';

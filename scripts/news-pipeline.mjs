@@ -335,6 +335,9 @@ function validatePost(post, { allowDraft = false } = {}) {
   if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(post.slug ?? '')) {
     errors.push('slug должен состоять из строчных латинских букв, цифр и дефисов.');
   }
+  if (['page', 'category'].includes(post.slug)) {
+    errors.push(`slug="${post.slug}" зарезервирован для навигации архива.`);
+  }
   if (!allowDraft && post.status !== 'published') {
     errors.push('Публикуемый материал должен иметь status="published".');
   }
@@ -343,6 +346,12 @@ function validatePost(post, { allowDraft = false } = {}) {
   }
   if ((post.description ?? '').length < 90 || (post.description ?? '').length > 180) {
     errors.push('description должен быть длиной 90–180 символов.');
+  }
+  if ((post.category ?? '').trim().toLocaleLowerCase('en-US') === 'all') {
+    errors.push('category="all" зарезервирована для общего фильтра.');
+  }
+  if (typeof post.category === 'string' && post.category !== post.category.trim()) {
+    errors.push('category не должна содержать пробелы по краям.');
   }
   if (!validateIsoDate(post.datePublished) || !validateIsoDate(post.dateModified)) {
     errors.push('datePublished и dateModified должны быть корректными ISO 8601 датами.');
@@ -384,6 +393,42 @@ function validatePost(post, { allowDraft = false } = {}) {
     }
     if (typeof post.hero.caption !== 'string' || !normalizeText(post.hero.caption)) {
       errors.push('hero.caption обязателен.');
+    }
+    const focalPointMatch = typeof post.hero.focalPoint === 'string'
+      ? post.hero.focalPoint.match(/^(\d{1,3}(?:\.\d+)?)%\s+(\d{1,3}(?:\.\d+)?)%$/)
+      : null;
+    if (
+      !focalPointMatch ||
+      Number(focalPointMatch[1]) > 100 ||
+      Number(focalPointMatch[2]) > 100
+    ) {
+      errors.push('hero.focalPoint должен содержать две координаты от 0% до 100%.');
+    }
+    if (!['cover', 'contain'].includes(post.hero.cardFit)) {
+      errors.push('hero.cardFit должен быть "cover" или "contain".');
+    }
+    const provenance = post.hero.provenance;
+    if (!provenance || typeof provenance !== 'object' || Array.isArray(provenance)) {
+      errors.push('hero.provenance обязателен для проверки происхождения изображения.');
+    } else {
+      if (!['generated', 'supplied', 'licensed', 'original'].includes(provenance.type)) {
+        errors.push('hero.provenance.type должен описывать допустимое происхождение изображения.');
+      }
+      if (typeof provenance.creator !== 'string' || !normalizeText(provenance.creator)) {
+        errors.push('hero.provenance.creator должен быть непустой строкой.');
+      }
+      if (!validateDateOnly(provenance.created) || provenance.created > currentMoscowDate()) {
+        errors.push('hero.provenance.created должен быть реальной, не будущей датой YYYY-MM-DD.');
+      }
+      if (typeof provenance.rights !== 'string' || normalizeText(provenance.rights).length < 20) {
+        errors.push('hero.provenance.rights должен явно фиксировать права и ограничения.');
+      }
+      if (
+        provenance.type === 'generated' &&
+        (typeof provenance.prompt !== 'string' || normalizeText(provenance.prompt).length < 60)
+      ) {
+        errors.push('Для generated-обложки нужен содержательный hero.provenance.prompt.');
+      }
     }
   }
   if (!Array.isArray(post.blocks) || post.blocks.length < 6) {
@@ -755,24 +800,25 @@ function renderCommonHead() {
   <link rel="service-doc" href="/faq.html">
   <link rel="describedby" href="/about.html">
   <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-  <link rel="stylesheet" href="/styles/main.css?v=2">
+  <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=2">
+  <link rel="stylesheet" href="/styles/news.css?v=3">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">`;
 }
 
 function renderScripts() {
   return `
-  <script defer src="/js/main.js?v=2"></script>
+  <script defer src="/js/main.js?v=3"></script>
   <script defer src="/js/consent.js?v=2"></script>
-  <script defer src="/js/news.js?v=2"></script>`;
+  <script defer src="/js/news.js?v=3"></script>`;
 }
 
-function renderCard(post, { featured = false, eager = false } = {}) {
+function renderCard(post, { featured = false, eager = false, href = null } = {}) {
+  const cardHref = href ?? `/news/${post.slug}/`;
   return `
-  <article class="news-card${featured ? ' news-card--featured' : ''}" data-news-card data-category="${escapeHtml(post.category)}">
-    <a class="news-card__link" href="/news/${escapeHtml(post.slug)}/" aria-label="${escapeHtml(post.title)}">
-      <figure class="news-card__media">
+  <article class="news-card${featured ? ' news-card--featured' : ''}" data-news-card data-category="${escapeHtml(post.category)}"${featured ? ' data-featured="true"' : ''}>
+    <a class="news-card__link" href="${escapeHtml(cardHref)}" aria-label="${escapeHtml(post.title)}">
+      <figure class="news-card__media" style="--card-object-fit: ${escapeHtml(post.hero.cardFit)}; --card-object-position: ${escapeHtml(post.hero.focalPoint)}">
         <picture>
           ${post.hero.webpSrcset ? `<source type="image/webp" srcset="${escapeHtml(post.hero.webpSrcset)}" sizes="${featured ? '(max-width: 900px) 100vw, 62vw' : '(max-width: 768px) 100vw, 33vw'}">` : ''}
           <img src="${escapeHtml(post.hero.src)}"
@@ -798,8 +844,10 @@ function renderCard(post, { featured = false, eager = false } = {}) {
   </article>`;
 }
 
-function renderIndex(posts) {
+function renderIndex(posts, { previewSlug = null } = {}) {
   const [featured, ...rest] = posts;
+  const preview = Boolean(previewSlug);
+  const pageSize = 10;
   const socialImage = featured?.hero ?? {
     src: '/images/logo-512x512.png',
     width: 512,
@@ -808,6 +856,10 @@ function renderIndex(posts) {
   };
   const categories = [...new Set(posts.map((post) => post.category))];
   const canonical = `${SITE_ORIGIN}/news/`;
+  const cardOptions = (post, options = {}) => ({
+    ...options,
+    href: post.slug === previewSlug ? `/news/_preview/${post.slug}/` : null
+  });
   const itemList = posts.map((post, index) => ({
     '@type': 'ListItem',
     position: index + 1,
@@ -854,10 +906,10 @@ ${GENERATED_MARKER}
   <title>Новости Mobile Legends: патчи, мета и киберспорт</title>
   <meta name="description" content="Проверенные новости Mobile Legends: официальные патчи, расписания турниров, изменения меты и практичные гайды без слухов и скрытой рекламы.">
   <meta name="author" content="Редакция Boost MLBB">
-  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-  <link rel="canonical" href="${canonical}">
+  <meta name="robots" content="${preview ? 'noindex, nofollow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}">
+  ${preview ? '' : `<link rel="canonical" href="${canonical}">
   <link rel="alternate" hreflang="ru" href="${canonical}">
-  <link rel="alternate" hreflang="x-default" href="${canonical}">
+  <link rel="alternate" hreflang="x-default" href="${canonical}">`}
   <meta property="og:locale" content="ru_RU">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Boost MLBB">
@@ -873,53 +925,68 @@ ${GENERATED_MARKER}
   <meta name="twitter:description" content="Проверенные новости, патчи, мета и киберспорт Mobile Legends.">
   <meta name="twitter:image" content="${absoluteUrl(socialImage.src)}">
   ${renderCommonHead()}
-  <script type="application/ld+json">${safeJson(jsonLd)}</script>
+  ${preview ? '' : `<script type="application/ld+json">${safeJson(jsonLd)}</script>`}
 </head>
 <body class="news-page">
   <a class="skip-link" href="#main-content">Перейти к содержанию</a>
+  ${preview ? '<div class="preview-banner" role="status">Локальный предпросмотр ленты · страница закрыта от индексации</div>' : ''}
   ${renderNavigation('news')}
   <main id="main-content">
     <section class="news-masthead">
       <div class="container news-masthead__grid">
         <div class="news-masthead__copy">
           <p class="editorial-kicker"><span></span> Boost MLBB · редакция</p>
-          <h1>Mobile Legends.<br><em>Без шума.</em></h1>
+          <h1><span>Mobile Legends.</span><em>Без шума.</em></h1>
           <p class="news-masthead__lead">Патчи, турниры и мета — с первоисточниками, московским временем и понятным выводом для игрока.</p>
-          <a class="news-masthead__jump" href="#latest">Свежий материал <span aria-hidden="true">↓</span></a>
-        </div>
-        <div class="news-masthead__desk" aria-label="Принципы редакции">
-          <span class="desk-label">Как мы работаем</span>
-          <ol>
-            <li><span>01</span> Находим первичный источник</li>
-            <li><span>02</span> Проверяем дату и контекст</li>
-            <li><span>03</span> Отделяем факты от вывода</li>
-          </ol>
-          <p>У каждого материала есть дата обновления и открытый список источников.</p>
+          <a class="news-masthead__jump" href="#latest">К новостям <span aria-hidden="true">↓</span></a>
         </div>
       </div>
     </section>
 
-    <section class="news-feed-section" id="latest">
+    <section class="news-feed-section" id="latest" data-news-feed data-page-size="${pageSize}">
       <div class="container">
         <div class="news-section-heading">
           <div>
             <p class="section-eyebrow">Последнее</p>
-            <h2>Главный материал</h2>
+            <h2 id="news-results-title" tabindex="-1">Главные материалы</h2>
           </div>
-          <div class="news-filters" role="group" aria-label="Фильтр новостей">
-            <button type="button" class="news-filter is-active" data-news-filter="all" aria-pressed="true">Все</button>
-            ${categories.map((category) => `<button type="button" class="news-filter" data-news-filter="${escapeHtml(category)}" aria-pressed="false">${escapeHtml(category)}</button>`).join('')}
+          <div class="news-filter-tools" data-news-controls hidden>
+            <div class="news-filters" role="group" aria-label="Фильтр новостей">
+              <button type="button" class="news-filter is-active" data-news-filter="all" aria-pressed="true">Все</button>
+              ${categories.map((category) => `<button type="button" class="news-filter" data-news-filter="${escapeHtml(category)}" aria-pressed="false">${escapeHtml(category)}</button>`).join('')}
+            </div>
+            <label class="news-filter-select">
+              <span>Тема</span>
+              <select data-news-filter-select aria-label="Фильтр новостей по теме">
+                <option value="all">Все материалы</option>
+                ${categories.map((category) => `<option value="${escapeHtml(category)}">${escapeHtml(category)}</option>`).join('')}
+              </select>
+            </label>
           </div>
         </div>
         <div class="news-status" aria-live="polite" data-news-status></div>
         ${featured
-          ? renderCard(featured, { featured: true, eager: true })
+          ? renderCard(featured, cardOptions(featured, { featured: true, eager: true }))
           : `<div class="news-empty">
               <p class="section-eyebrow">Лента обновляется</p>
               <h2>Редакция готовит следующий проверенный материал.</h2>
               <p>Здесь появятся публикации с источниками, датой проверки и понятным выводом для игрока.</p>
             </div>`}
-        ${rest.length ? `<div class="news-grid">${rest.map((post) => renderCard(post)).join('')}</div>` : ''}
+        ${rest.length ? `<div class="news-grid">${rest.map((post) => renderCard(post, cardOptions(post))).join('')}</div>` : ''}
+        <div class="news-filter-empty" data-news-filter-empty hidden>
+          <p class="section-eyebrow">Пока пусто</p>
+          <h3>В этой теме ещё нет материалов.</h3>
+          <p>Выберите другую категорию — новые направления появляются автоматически вместе с публикациями.</p>
+        </div>
+        <nav class="news-pagination" data-news-pagination aria-label="Страницы новостей" hidden>
+          <button type="button" class="news-pagination__step" data-news-page-step="previous">
+            <span aria-hidden="true">←</span><span>Назад</span>
+          </button>
+          <div class="news-pagination__pages" data-news-pages></div>
+          <button type="button" class="news-pagination__step" data-news-page-step="next">
+            <span>Дальше</span><span aria-hidden="true">→</span>
+          </button>
+        </nav>
       </div>
     </section>
 
@@ -974,7 +1041,7 @@ function renderBlock(block) {
         <table>
           <caption>${escapeHtml(block.caption)}</caption>
           <thead><tr>${block.headers.map((header) => `<th scope="col">${escapeHtml(header)}</th>`).join('')}</tr></thead>
-          <tbody>${block.rows.map((row) => `<tr>${row.map((cell, index) => `<${index === 0 ? 'th scope="row"' : 'td'}>${escapeHtml(cell)}</${index === 0 ? 'th' : 'td'}>`).join('')}</tr>`).join('')}</tbody>
+          <tbody>${block.rows.map((row) => `<tr>${row.map((cell, index) => `<${index === 0 ? 'th scope="row"' : 'td'} data-label="${escapeHtml(block.headers[index])}">${escapeHtml(cell)}</${index === 0 ? 'th' : 'td'}>`).join('')}</tr>`).join('')}</tbody>
         </table>
       </div>
       ${block.note ? `<p class="article-table-note">${escapeHtml(block.note)}</p>` : ''}`;
@@ -1029,6 +1096,9 @@ function renderBlock(block) {
 function renderArticle(post, { preview = false } = {}) {
   const canonical = articleUrl(post);
   const toc = post.blocks.filter((block) => block.type === 'heading');
+  const hasMeaningfulUpdate = (
+    new Date(post.dateModified).getTime() - new Date(post.datePublished).getTime()
+  ) >= 60_000;
   const newsArticle = {
     '@type': 'NewsArticle',
     '@id': `${canonical}#article`,
@@ -1125,16 +1195,17 @@ ${GENERATED_MARKER}
           <nav class="breadcrumbs" aria-label="Хлебные крошки">
             <ol>
               <li><a href="/">Главная</a></li>
-              <li><a href="/news/">Новости</a></li>
-              <li aria-current="page">${escapeHtml(post.title)}</li>
+              <li class="breadcrumbs-news"><a href="/news/">Новости</a></li>
+              <li class="breadcrumbs-current" aria-current="page"><span>${escapeHtml(post.title)}</span></li>
             </ol>
           </nav>
           <div class="article-topics">
             <span class="article-category">${escapeHtml(post.category)}</span>
             ${post.tags.slice(0, 3).map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}
           </div>
-          <h1>${escapeHtml(post.title)}</h1>
-          <p class="article-deck">${escapeHtml(post.excerpt)}</p>
+        </div>
+
+        <div class="container article-meta">
           <div class="article-byline">
             <span class="author-mark" aria-hidden="true">B</span>
             <div>
@@ -1144,25 +1215,29 @@ ${GENERATED_MARKER}
                 · ${readingTime(post)} мин чтения
               </span>
             </div>
-            <span class="article-updated">Обновлено <time datetime="${escapeHtml(post.dateModified)}">${escapeHtml(formatDateTime(post.dateModified))}</time></span>
+            ${hasMeaningfulUpdate ? `<span class="article-updated">Обновлено <time datetime="${escapeHtml(post.dateModified)}">${escapeHtml(formatDateTime(post.dateModified))}</time></span>` : ''}
           </div>
         </div>
-      </header>
 
-      <div class="container article-hero-media">
-        <figure>
-          <picture>
-            ${post.hero.webpSrcset ? `<source type="image/webp" srcset="${escapeHtml(post.hero.webpSrcset)}" sizes="(max-width: 1320px) 100vw, 1320px">` : ''}
-            <img src="${escapeHtml(post.hero.src)}"
-                 width="${post.hero.width}"
-                 height="${post.hero.height}"
-                 alt="${escapeHtml(post.hero.alt)}"
-                 fetchpriority="high"
-                 decoding="async">
-          </picture>
-          <figcaption>${escapeHtml(post.hero.caption)}</figcaption>
-        </figure>
-      </div>
+        <div class="container article-hero-media">
+          <figure>
+            <picture>
+              ${post.hero.webpSrcset ? `<source type="image/webp" srcset="${escapeHtml(post.hero.webpSrcset)}" sizes="(max-width: 1000px) 100vw, 1000px">` : ''}
+              <img src="${escapeHtml(post.hero.src)}"
+                   width="${post.hero.width}"
+                   height="${post.hero.height}"
+                   alt="${escapeHtml(post.hero.alt)}"
+                   fetchpriority="high"
+                   decoding="async">
+            </picture>
+          </figure>
+        </div>
+
+        <div class="container article-heading">
+          <h1>${escapeHtml(post.title)}</h1>
+          <p class="article-deck">${escapeHtml(post.excerpt)}</p>
+        </div>
+      </header>
 
       <div class="container article-layout">
         <aside class="article-rail">
@@ -1327,6 +1402,7 @@ async function preparePublishedPosts(data) {
   }
 
   const slugs = new Set();
+  const categoryLabels = new Map();
   const allowedStatuses = new Set(['published', 'draft']);
   for (const post of data.posts) {
     if (!allowedStatuses.has(post?.status)) {
@@ -1338,6 +1414,15 @@ async function preparePublishedPosts(data) {
     }
     if (slugs.has(post.slug)) throw new Error(`Повторяющийся slug: ${post.slug}`);
     slugs.add(post.slug);
+    const categoryKey = post.category.trim().toLocaleLowerCase('ru-RU');
+    const existingCategory = categoryLabels.get(categoryKey);
+    if (existingCategory && existingCategory !== post.category) {
+      throw new Error(
+        `Категории "${existingCategory}" и "${post.category}" отличаются только регистром. ` +
+        'Используйте одно написание, чтобы фильтр не дублировался.'
+      );
+    }
+    categoryLabels.set(categoryKey, post.category);
     await assertHeroExists(post);
   }
 
@@ -1453,10 +1538,18 @@ async function previewDraft(draftPath) {
   if (errors.length) throw new Error(`Черновик не прошёл проверку:\n- ${errors.join('\n- ')}`);
   await assertHeroExists(post);
 
+  const data = await readJson(DATA_FILE);
+  const publishedPosts = await preparePublishedPosts(data);
+  const previewPosts = [post, ...publishedPosts.filter((published) => published.slug !== post.slug)];
   const previewDir = path.join(PREVIEW_ROOT, post.slug);
   await mkdir(previewDir, { recursive: true });
-  await writeFile(path.join(previewDir, 'index.html'), renderArticle(post, { preview: true }), 'utf8');
-  return path.join(previewDir, 'index.html');
+  const articlePreview = path.join(previewDir, 'index.html');
+  const listingPreview = path.join(previewDir, 'listing.html');
+  await Promise.all([
+    writeFile(articlePreview, renderArticle(post, { preview: true }), 'utf8'),
+    writeFile(listingPreview, renderIndex(previewPosts, { previewSlug: post.slug }), 'utf8')
+  ]);
+  return `Статья: ${articlePreview}\nЛента: ${listingPreview}`;
 }
 
 async function publishDraft(draftPath, { update = false } = {}) {

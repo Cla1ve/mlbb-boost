@@ -49,41 +49,184 @@
     if (typeof window.ym === 'function') window.ym(YM_ID, 'reachGoal', name, params);
   }
 
-  function initFilters() {
+  function initNewsListing() {
+    const feed = document.querySelector('[data-news-feed]');
     const buttons = Array.from(document.querySelectorAll('[data-news-filter]'));
+    const controls = document.querySelector('[data-news-controls]');
+    const select = document.querySelector('[data-news-filter-select]');
     const cards = Array.from(document.querySelectorAll('[data-news-card]'));
     const status = document.querySelector('[data-news-status]');
-    if (!buttons.length || !cards.length) return;
+    const empty = document.querySelector('[data-news-filter-empty]');
+    const pagination = document.querySelector('[data-news-pagination]');
+    const pages = document.querySelector('[data-news-pages]');
+    const previous = document.querySelector('[data-news-page-step="previous"]');
+    const next = document.querySelector('[data-news-page-step="next"]');
+    const heading = document.querySelector('#news-results-title');
+    const grid = document.querySelector('.news-grid');
+    if (!feed || !buttons.length) return;
+    if (!cards.length) {
+      if (status) status.textContent = 'Опубликованных материалов пока нет.';
+      const url = new URL(window.location.href);
+      url.searchParams.delete('category');
+      url.searchParams.delete('page');
+      window.history.replaceState({}, '', url);
+      return;
+    }
+
+    const pageSize = Math.max(1, Number.parseInt(feed.dataset.pageSize || '10', 10) || 10);
+    const availableFilters = new Set(buttons.map((button) => button.dataset.newsFilter));
+    let activeFilter = 'all';
+    let currentPage = 1;
+
+    const readUrlState = () => {
+      const params = new URL(window.location.href).searchParams;
+      const requestedFilter = params.get('category') || 'all';
+      const rawPage = params.get('page') || '1';
+      const requestedPage = /^[1-9]\d*$/.test(rawPage) ? Number(rawPage) : 1;
+      activeFilter = availableFilters.has(requestedFilter) ? requestedFilter : 'all';
+      currentPage = Number.isSafeInteger(requestedPage) ? requestedPage : 1;
+    };
+
+    const writeUrlState = (mode) => {
+      const url = new URL(window.location.href);
+      if (activeFilter === 'all') url.searchParams.delete('category');
+      else url.searchParams.set('category', activeFilter);
+      if (currentPage > 1) url.searchParams.set('page', String(currentPage));
+      else url.searchParams.delete('page');
+      window.history[mode === 'push' ? 'pushState' : 'replaceState']({}, '', url);
+    };
+
+    const pageTokens = (totalPages) => {
+      if (totalPages <= 7) return Array.from({ length: totalPages }, (_, index) => index + 1);
+      const values = new Set([1, totalPages, currentPage - 1, currentPage, currentPage + 1]);
+      const numbers = [...values]
+        .filter((value) => value >= 1 && value <= totalPages)
+        .sort((a, b) => a - b);
+      const tokens = [];
+      numbers.forEach((number, index) => {
+        if (index > 0 && number - numbers[index - 1] > 1) tokens.push('ellipsis');
+        tokens.push(number);
+      });
+      return tokens;
+    };
+
+    const renderPagination = (totalPages) => {
+      if (!pagination || !pages || !previous || !next) return;
+      pagination.hidden = totalPages <= 1;
+      previous.disabled = currentPage <= 1;
+      next.disabled = currentPage >= totalPages;
+      pages.replaceChildren();
+
+      pageTokens(totalPages).forEach((token) => {
+        if (token === 'ellipsis') {
+          const ellipsis = document.createElement('span');
+          ellipsis.className = 'news-pagination__ellipsis';
+          ellipsis.textContent = '…';
+          ellipsis.setAttribute('aria-hidden', 'true');
+          pages.appendChild(ellipsis);
+          return;
+        }
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'news-pagination__page';
+        button.dataset.newsPageNumber = String(token);
+        button.textContent = String(token);
+        button.setAttribute('aria-label', `Страница ${token}`);
+        if (token === currentPage) {
+          button.classList.add('is-current');
+          button.setAttribute('aria-current', 'page');
+        }
+        pages.appendChild(button);
+      });
+    };
+
+    const scrollToResults = () => {
+      if (!heading) return;
+      heading.focus({ preventScroll: true });
+      heading.scrollIntoView({
+        behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+        block: 'start'
+      });
+    };
+
+    const render = ({ historyMode = null, shouldScroll = false } = {}) => {
+      const matching = cards.filter(
+        (card) => activeFilter === 'all' || card.dataset.category === activeFilter
+      );
+      const totalPages = Math.max(1, Math.ceil(matching.length / pageSize));
+      currentPage = Math.min(Math.max(currentPage, 1), totalPages);
+      const start = (currentPage - 1) * pageSize;
+      const visible = new Set(matching.slice(start, start + pageSize));
+
+      cards.forEach((card) => {
+        card.hidden = !visible.has(card);
+      });
+      if (grid) {
+        const gridCards = Array.from(grid.querySelectorAll('[data-news-card]'));
+        grid.hidden = gridCards.length > 0 && gridCards.every((card) => card.hidden);
+      }
+      buttons.forEach((button) => {
+        const active = button.dataset.newsFilter === activeFilter;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', String(active));
+      });
+      if (select) select.value = activeFilter;
+      if (empty) empty.hidden = matching.length > 0;
+      renderPagination(matching.length ? totalPages : 0);
+
+      if (status) {
+        const rangeStart = matching.length ? start + 1 : 0;
+        const rangeEnd = Math.min(start + pageSize, matching.length);
+        const categoryText = activeFilter === 'all' ? 'во всех темах' : `в теме «${activeFilter}»`;
+        status.textContent = matching.length
+          ? `Показаны материалы ${rangeStart}–${rangeEnd} из ${matching.length} ${categoryText}. Страница ${currentPage} из ${totalPages}.`
+          : `Материалов ${categoryText} пока нет.`;
+      }
+      if (historyMode) writeUrlState(historyMode);
+      if (shouldScroll) scrollToResults();
+      if (controls) controls.hidden = false;
+    };
 
     buttons.forEach((button) => {
       button.addEventListener('click', () => {
-        const filter = button.dataset.newsFilter;
-
-        buttons.forEach((candidate) => {
-          const active = candidate === button;
-          candidate.classList.toggle('is-active', active);
-          candidate.setAttribute('aria-pressed', String(active));
-        });
-
-        let visibleCount = 0;
-        cards.forEach((card) => {
-          const visible = filter === 'all' || card.dataset.category === filter;
-          card.hidden = !visible;
-          if (visible) visibleCount += 1;
-        });
-
-        if (status) {
-          status.textContent = `Показано материалов: ${visibleCount}`;
-        }
+        if (button.dataset.newsFilter === activeFilter && currentPage === 1) return;
+        activeFilter = button.dataset.newsFilter;
+        currentPage = 1;
+        render({ historyMode: 'push' });
       });
     });
+    select?.addEventListener('change', () => {
+      if (select.value === activeFilter && currentPage === 1) return;
+      activeFilter = select.value;
+      currentPage = 1;
+      render({ historyMode: 'push' });
+    });
+    pagination?.addEventListener('click', (event) => {
+      if (!(event.target instanceof Element)) return;
+      const pageButton = event.target.closest('[data-news-page-number]');
+      const stepButton = event.target.closest('[data-news-page-step]');
+      let targetPage = currentPage;
+      if (pageButton) targetPage = Number.parseInt(pageButton.dataset.newsPageNumber, 10);
+      if (stepButton?.dataset.newsPageStep === 'previous') targetPage -= 1;
+      if (stepButton?.dataset.newsPageStep === 'next') targetPage += 1;
+      if (!Number.isInteger(targetPage) || targetPage === currentPage) return;
+      currentPage = targetPage;
+      render({ historyMode: 'push', shouldScroll: true });
+    });
+    window.addEventListener('popstate', () => {
+      readUrlState();
+      render();
+    });
+
+    readUrlState();
+    render({ historyMode: 'replace' });
   }
 
   function initMobileNavigation() {
     const toggle = document.querySelector('.menu-toggle');
     const menu = document.querySelector('.nav-menu');
     if (!toggle || !menu) return;
-    const mobileQuery = window.matchMedia('(max-width: 768px)');
+    const mobileQuery = window.matchMedia('(max-width: 1024px)');
     const focusableSelector = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
 
     let overlay = document.querySelector('.menu-overlay');
@@ -234,14 +377,16 @@
     });
   }
 
-  document.addEventListener('DOMContentLoaded', () => {
+  const initPage = () => {
     loadAnalytics();
     initMobileNavigation();
-    initFilters();
+    initNewsListing();
     initReadingProgress();
     initTableOfContents();
     initTracking();
-  });
+  };
+
+  initPage();
 
   window.addEventListener('mlbb:consent-granted', () => {
     loadAnalytics();

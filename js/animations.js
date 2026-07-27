@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const menuToggle = document.querySelector('.menu-toggle');
   const navMenu = document.querySelector('.nav-menu');
   const body = document.body;
-  const mobileMenuQuery = window.matchMedia('(max-width: 768px)');
+  const mobileMenuQuery = window.matchMedia('(max-width: 1024px)');
   const menuFocusableSelector = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
   
   let overlay = document.querySelector('.menu-overlay');

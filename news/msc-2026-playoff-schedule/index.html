@@ -44,9 +44,9 @@
   <link rel="service-doc" href="/faq.html">
   <link rel="describedby" href="/about.html">
   <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-  <link rel="stylesheet" href="/styles/main.css?v=2">
+  <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=2">
+  <link rel="stylesheet" href="/styles/news.css?v=3">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -185,16 +185,17 @@
           <nav class="breadcrumbs" aria-label="Хлебные крошки">
             <ol>
               <li><a href="/">Главная</a></li>
-              <li><a href="/news/">Новости</a></li>
-              <li aria-current="page">MSC 2026 Mobile Legends: сетка плей-офф и расписание матчей 29–30 июля</li>
+              <li class="breadcrumbs-news"><a href="/news/">Новости</a></li>
+              <li class="breadcrumbs-current" aria-current="page"><span>MSC 2026 Mobile Legends: сетка плей-офф и расписание матчей 29–30 июля</span></li>
             </ol>
           </nav>
           <div class="article-topics">
             <span class="article-category">Киберспорт</span>
             <span>MSC 2026</span><span>Mobile Legends</span><span>Киберспорт</span>
           </div>
-          <h1>MSC 2026 Mobile Legends: сетка плей-офф и расписание матчей 29–30 июля</h1>
-          <p class="article-deck">TLPH и SRG выбыли, а Aurora стала сенсацией группы B. Собрали официальную сетку MSC 2026 и перевели расписание на московское время.</p>
+        </div>
+
+        <div class="container article-meta">
           <div class="article-byline">
             <span class="author-mark" aria-hidden="true">B</span>
             <div>
@@ -204,25 +205,29 @@
                 · 3 мин чтения
               </span>
             </div>
-            <span class="article-updated">Обновлено <time datetime="2026-07-27T21:15:00+03:00">27 июля 2026 г. в 21:15 GMT+3</time></span>
+
           </div>
         </div>
-      </header>
 
-      <div class="container article-hero-media">
-        <figure>
-          <picture>
-            <source type="image/webp" srcset="/images/news/msc-2026-playoffs-768.webp 768w, /images/news/msc-2026-playoffs-1200.webp 1200w, /images/news/msc-2026-playoffs-1672.webp 1672w" sizes="(max-width: 1320px) 100vw, 1320px">
-            <img src="/images/news/msc-2026-playoffs.jpg"
-                 width="1672"
-                 height="941"
-                 alt="Сетка плей-офф MSC 2026 Mobile Legends с восемью командами на фоне киберспортивной арены"
-                 fetchpriority="high"
-                 decoding="async">
-          </picture>
-          <figcaption>Редакционная иллюстрация Boost MLBB для материала о плей-офф MSC 2026.</figcaption>
-        </figure>
-      </div>
+        <div class="container article-hero-media">
+          <figure>
+            <picture>
+              <source type="image/webp" srcset="/images/news/msc-2026-playoffs-768.webp 768w, /images/news/msc-2026-playoffs-1200.webp 1200w, /images/news/msc-2026-playoffs-1672.webp 1672w" sizes="(max-width: 1000px) 100vw, 1000px">
+              <img src="/images/news/msc-2026-playoffs.jpg"
+                   width="1672"
+                   height="941"
+                   alt="Сетка плей-офф MSC 2026 Mobile Legends с восемью командами на фоне киберспортивной арены"
+                   fetchpriority="high"
+                   decoding="async">
+            </picture>
+          </figure>
+        </div>
+
+        <div class="container article-heading">
+          <h1>MSC 2026 Mobile Legends: сетка плей-офф и расписание матчей 29–30 июля</h1>
+          <p class="article-deck">TLPH и SRG выбыли, а Aurora стала сенсацией группы B. Собрали официальную сетку MSC 2026 и перевели расписание на московское время.</p>
+        </div>
+      </header>
 
       <div class="container article-layout">
         <aside class="article-rail">
@@ -248,7 +253,7 @@
         <table>
           <caption>Четвертьфиналы MSC 2026 — московское время</caption>
           <thead><tr><th scope="col">Дата</th><th scope="col">Время МСК</th><th scope="col">Матч</th></tr></thead>
-          <tbody><tr><th scope="row">29 июля</th><td>13:00</td><td>Yangon Galacticos — PRO Esports</td></tr><tr><th scope="row">29 июля</th><td>15:30</td><td>Team Vitality — Team Falcons PH</td></tr><tr><th scope="row">30 июля</th><td>13:00</td><td>Team Vamos — Team Spirit</td></tr><tr><th scope="row">30 июля</th><td>15:30</td><td>Aurora Gaming — ONIC</td></tr></tbody>
+          <tbody><tr><th scope="row" data-label="Дата">29 июля</th><td data-label="Время МСК">13:00</td><td data-label="Матч">Yangon Galacticos — PRO Esports</td></tr><tr><th scope="row" data-label="Дата">29 июля</th><td data-label="Время МСК">15:30</td><td data-label="Матч">Team Vitality — Team Falcons PH</td></tr><tr><th scope="row" data-label="Дата">30 июля</th><td data-label="Время МСК">13:00</td><td data-label="Матч">Team Vamos — Team Spirit</td></tr><tr><th scope="row" data-label="Дата">30 июля</th><td data-label="Время МСК">15:30</td><td data-label="Матч">Aurora Gaming — ONIC</td></tr></tbody>
         </table>
       </div>
       <p class="article-table-note">Время сверено с официальными афишами MOONTON от 27 июля 2026 года. Организатор может изменить расписание; при обновлении мы поправим таблицу и дату материала.</p>
@@ -412,8 +417,8 @@
     </div>
   </footer>
 
-  <script defer src="/js/main.js?v=2"></script>
+  <script defer src="/js/main.js?v=3"></script>
   <script defer src="/js/consent.js?v=2"></script>
-  <script defer src="/js/news.js?v=2"></script>
+  <script defer src="/js/news.js?v=3"></script>
 </body>
 </html>

@@ -37,9 +37,9 @@
   <link rel="service-doc" href="/faq.html">
   <link rel="describedby" href="/about.html">
   <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-  <link rel="stylesheet" href="/styles/main.css?v=2">
+  <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=2">
+  <link rel="stylesheet" href="/styles/news.css?v=3">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -90,6 +90,7 @@
 </head>
 <body class="news-page">
   <a class="skip-link" href="#main-content">Перейти к содержанию</a>
+
 
   <header class="site-header">
     <nav class="main-nav" aria-label="Основная навигация">
@@ -143,39 +144,39 @@
       <div class="container news-masthead__grid">
         <div class="news-masthead__copy">
           <p class="editorial-kicker"><span></span> Boost MLBB · редакция</p>
-          <h1>Mobile Legends.<br><em>Без шума.</em></h1>
+          <h1><span>Mobile Legends.</span><em>Без шума.</em></h1>
           <p class="news-masthead__lead">Патчи, турниры и мета — с первоисточниками, московским временем и понятным выводом для игрока.</p>
-          <a class="news-masthead__jump" href="#latest">Свежий материал <span aria-hidden="true">↓</span></a>
-        </div>
-        <div class="news-masthead__desk" aria-label="Принципы редакции">
-          <span class="desk-label">Как мы работаем</span>
-          <ol>
-            <li><span>01</span> Находим первичный источник</li>
-            <li><span>02</span> Проверяем дату и контекст</li>
-            <li><span>03</span> Отделяем факты от вывода</li>
-          </ol>
-          <p>У каждого материала есть дата обновления и открытый список источников.</p>
+          <a class="news-masthead__jump" href="#latest">К новостям <span aria-hidden="true">↓</span></a>
         </div>
       </div>
     </section>
 
-    <section class="news-feed-section" id="latest">
+    <section class="news-feed-section" id="latest" data-news-feed data-page-size="10">
       <div class="container">
         <div class="news-section-heading">
           <div>
             <p class="section-eyebrow">Последнее</p>
-            <h2>Главный материал</h2>
+            <h2 id="news-results-title" tabindex="-1">Главные материалы</h2>
           </div>
-          <div class="news-filters" role="group" aria-label="Фильтр новостей">
-            <button type="button" class="news-filter is-active" data-news-filter="all" aria-pressed="true">Все</button>
-            <button type="button" class="news-filter" data-news-filter="Киберспорт" aria-pressed="false">Киберспорт</button>
+          <div class="news-filter-tools" data-news-controls hidden>
+            <div class="news-filters" role="group" aria-label="Фильтр новостей">
+              <button type="button" class="news-filter is-active" data-news-filter="all" aria-pressed="true">Все</button>
+              <button type="button" class="news-filter" data-news-filter="Киберспорт" aria-pressed="false">Киберспорт</button>
+            </div>
+            <label class="news-filter-select">
+              <span>Тема</span>
+              <select data-news-filter-select aria-label="Фильтр новостей по теме">
+                <option value="all">Все материалы</option>
+                <option value="Киберспорт">Киберспорт</option>
+              </select>
+            </label>
           </div>
         </div>
         <div class="news-status" aria-live="polite" data-news-status></div>
 
-  <article class="news-card news-card--featured" data-news-card data-category="Киберспорт">
+  <article class="news-card news-card--featured" data-news-card data-category="Киберспорт" data-featured="true">
     <a class="news-card__link" href="/news/msc-2026-playoff-schedule/" aria-label="MSC 2026 Mobile Legends: сетка плей-офф и расписание матчей 29–30 июля">
-      <figure class="news-card__media">
+      <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/msc-2026-playoffs-768.webp 768w, /images/news/msc-2026-playoffs-1200.webp 1200w, /images/news/msc-2026-playoffs-1672.webp 1672w" sizes="(max-width: 900px) 100vw, 62vw">
           <img src="/images/news/msc-2026-playoffs.jpg"
@@ -200,6 +201,20 @@
     </a>
   </article>
 
+        <div class="news-filter-empty" data-news-filter-empty hidden>
+          <p class="section-eyebrow">Пока пусто</p>
+          <h3>В этой теме ещё нет материалов.</h3>
+          <p>Выберите другую категорию — новые направления появляются автоматически вместе с публикациями.</p>
+        </div>
+        <nav class="news-pagination" data-news-pagination aria-label="Страницы новостей" hidden>
+          <button type="button" class="news-pagination__step" data-news-page-step="previous">
+            <span aria-hidden="true">←</span><span>Назад</span>
+          </button>
+          <div class="news-pagination__pages" data-news-pages></div>
+          <button type="button" class="news-pagination__step" data-news-page-step="next">
+            <span>Дальше</span><span aria-hidden="true">→</span>
+          </button>
+        </nav>
       </div>
     </section>
 
@@ -281,8 +296,8 @@
     </div>
   </footer>
 
-  <script defer src="/js/main.js?v=2"></script>
+  <script defer src="/js/main.js?v=3"></script>
   <script defer src="/js/consent.js?v=2"></script>
-  <script defer src="/js/news.js?v=2"></script>
+  <script defer src="/js/news.js?v=3"></script>
 </body>
 </html>

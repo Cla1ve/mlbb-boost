@@ -6,6 +6,7 @@
     "dev": "serve -l 3000 --no-clipboard .",
     "start": "serve -l 3000 --no-clipboard .",
     "news:build": "node scripts/news-pipeline.mjs build",
+    "news:image": "node scripts/news-image.mjs",
     "news:validate": "node scripts/news-pipeline.mjs validate",
     "site:prepare": "npm run news:build && npm run news:validate",
     "worker:deploy": "wrangler deploy",
@@ -13,6 +14,7 @@
   },
   "devDependencies": {
     "serve": "^14.2.4",
+    "sharp": "^0.34.5",
     "wrangler": "^4.0.0"
   },
   "dependencies": {
