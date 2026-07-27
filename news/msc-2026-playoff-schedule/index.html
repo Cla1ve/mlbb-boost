@@ -231,11 +231,13 @@
 
       <div class="container article-layout">
         <aside class="article-rail">
-          <nav class="article-toc" aria-label="Содержание статьи">
-            <p>В материале</p>
-            <ol><li><a href="#schedule">Расписание четвертьфиналов MSC 2026 по Москве</a></li><li><a href="#bracket">Полная сетка: четыре пары и восемь команд</a></li><li><a href="#upsets">Aurora удивила группу B, а два фаворита вылетели</a></li><li><a href="#viewership">MSC уже собрал больше двух миллионов зрителей одновременно</a></li><li><a href="#watch">Где смотреть MSC 2026</a></li><li><a href="#updates">Что обновим после четвертьфиналов</a></li></ol>
-          </nav>
-          <a class="rail-back" href="/news/"><span aria-hidden="true">←</span> Все новости</a>
+          <div class="article-rail__sticky">
+            <nav class="article-toc" aria-label="Содержание статьи" data-article-toc>
+              <p>В материале</p>
+              <ol><li><a href="#schedule">Расписание четвертьфиналов MSC 2026 по Москве</a></li><li><a href="#bracket">Полная сетка: четыре пары и восемь команд</a></li><li><a href="#upsets">Aurora удивила группу B, а два фаворита вылетели</a></li><li><a href="#viewership">MSC уже собрал больше двух миллионов зрителей одновременно</a></li><li><a href="#watch">Где смотреть MSC 2026</a></li><li><a href="#updates">Что обновим после четвертьфиналов</a></li></ol>
+            </nav>
+            <a class="rail-back" href="/news/"><span aria-hidden="true">←</span> Все новости</a>
+          </div>
         </aside>
 
         <div class="article-content" id="article-content">
@@ -259,15 +261,18 @@
       <p class="article-table-note">Время сверено с официальными афишами MOONTON от 27 июля 2026 года. Организатор может изменить расписание; при обновлении мы поправим таблицу и дату материала.</p>
 
       <aside class="rank-cta" aria-labelledby="rank-up">
-        <div class="rank-cta__signal" aria-hidden="true"><span></span><span></span><span></span></div>
+        <div class="rank-cta__emblem" aria-hidden="true"><span></span></div>
         <div class="rank-cta__copy">
-          <p>Твой следующий ранг</p>
-          <h2 id="rank-up">Плей-офф начинается 29 июля. Твой ап — когда решишь ты.</h2>
-          <span>Выбери текущий и желаемый ранг — калькулятор покажет стоимость подъёма.</span>
+          <p>Калькулятор ранга</p>
+          <h2 id="rank-up">Сколько стоит поднять ранг?</h2>
+          <span>Выбери текущий ранг и цель — цена появится сразу.</span>
         </div>
         <div class="rank-cta__action">
-          <a href="/order.html?type=standard" data-news-cta data-cta-position="after-schedule">Рассчитать подъём ранга <span aria-hidden="true">→</span></a>
-          <small>Сначала расчёт — решение за тобой</small>
+          <a href="/order.html?type=standard" data-news-cta data-cta-position="after-schedule">
+            <span class="rank-cta__button-label">Рассчитать стоимость</span>
+            <span class="rank-cta__arrow" aria-hidden="true">→</span>
+          </a>
+          <small>Расчёт — бесплатно. Решение — за тобой.</small>
         </div>
       </aside>
 <h2 id="bracket">Полная сетка: четыре пары и восемь команд</h2>
@@ -351,7 +356,7 @@
             <div class="article-tags" aria-label="Темы материала">
               <span>MSC 2026</span><span>Mobile Legends</span><span>Киберспорт</span><span>Расписание матчей</span>
             </div>
-            <p>Нашли неточность? <a href="mailto:cla1veisdetta@gmail.com?subject=%D0%A3%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%3A%20MSC%202026%20Mobile%20Legends%3A%20%D1%81%D0%B5%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BB%D0%B5%D0%B9-%D0%BE%D1%84%D1%84%20%D0%B8%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D1%87%D0%B5%D0%B9%2029%E2%80%9330%20%D0%B8%D1%8E%D0%BB%D1%8F">Напишите редакции</a>.</p>
+            <p>Нашли неточность? <a href="https://t.me/Cla1ve" rel="noopener noreferrer" target="_blank" aria-label="Написать в редакцию в Telegram, @Cla1ve (откроется в новой вкладке)">Напишите @Cla1ve в Telegram <span aria-hidden="true">↗</span></a>.</p>
           </footer>
         </div>
       </div>

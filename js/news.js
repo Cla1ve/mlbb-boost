@@ -330,28 +330,51 @@
 
   function initTableOfContents() {
     const links = Array.from(document.querySelectorAll('.article-toc a[href^="#"]'));
-    if (!links.length || !('IntersectionObserver' in window)) return;
+    if (!links.length) return;
 
     const targets = links
       .map((link) => document.querySelector(link.getAttribute('href')))
       .filter(Boolean);
+    if (!targets.length) return;
 
     const linkById = new Map(links.map((link) => [link.getAttribute('href').slice(1), link]));
-    const observer = new IntersectionObserver((entries) => {
-      const visible = entries
-        .filter((entry) => entry.isIntersecting)
-        .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
-      if (!visible.length) return;
+    let activeId = '';
+    let ticking = false;
+    const setActive = (target) => {
+      if (!target || target.id === activeId) return;
+      activeId = target.id;
+      links.forEach((link) => {
+        link.classList.remove('is-active');
+        link.removeAttribute('aria-current');
+      });
+      const active = linkById.get(target.id);
+      if (active) {
+        active.classList.add('is-active');
+        active.setAttribute('aria-current', 'location');
+      }
+    };
 
-      links.forEach((link) => link.classList.remove('is-active'));
-      const active = linkById.get(visible[0].target.id);
-      if (active) active.classList.add('is-active');
-    }, {
-      rootMargin: '-18% 0px -68% 0px',
-      threshold: 0
-    });
+    const update = () => {
+      const activationLine = Math.min(220, Math.max(112, window.innerHeight * 0.22));
+      let activeTarget = targets[0];
+      for (const target of targets) {
+        if (target.getBoundingClientRect().top > activationLine) break;
+        activeTarget = target;
+      }
+      setActive(activeTarget);
+      ticking = false;
+    };
 
-    targets.forEach((target) => observer.observe(target));
+    const requestUpdate = () => {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(update);
+    };
+
+    window.addEventListener('scroll', requestUpdate, { passive: true });
+    window.addEventListener('resize', requestUpdate, { passive: true });
+    window.addEventListener('hashchange', requestUpdate);
+    update();
   }
 
   function initTracking() {
