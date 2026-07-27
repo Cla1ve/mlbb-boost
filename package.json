@@ -5,8 +5,11 @@
   "scripts": {
     "dev": "serve -l 3000 --no-clipboard .",
     "start": "serve -l 3000 --no-clipboard .",
-    "deploy": "wrangler deploy",
-    "dev:worker": "wrangler dev"
+    "news:build": "node scripts/news-pipeline.mjs build",
+    "news:validate": "node scripts/news-pipeline.mjs validate",
+    "site:prepare": "npm run news:build && npm run news:validate",
+    "worker:deploy": "wrangler deploy",
+    "worker:dev": "wrangler dev"
   },
   "devDependencies": {
     "serve": "^14.2.4",

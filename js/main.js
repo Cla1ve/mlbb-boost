@@ -9,37 +9,35 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Добавляем разделы в мобильное меню
   const menuItems = [
-    { text: 'Главная', link: 'index.html', icon: 'fas fa-home' },
-    { text: 'Услуги', link: 'services.html', icon: 'fas fa-star' },
-    { text: 'Цены', link: 'prices.html', icon: 'fas fa-tags' },
-    { text: 'Отзывы', link: 'reviews.html', icon: 'fas fa-comments' },
-    { text: 'FAQ', link: 'faq.html', icon: 'fas fa-question-circle' },
-    { text: 'О нас', link: 'about.html', icon: 'fas fa-users' }
+    { text: 'Главная', link: '/', icon: 'fas fa-home', section: 'home' },
+    { text: 'Услуги', link: '/services.html', icon: 'fas fa-star', section: 'services' },
+    { text: 'Цены', link: '/prices.html', icon: 'fas fa-tags', section: 'prices' },
+    { text: 'Отзывы', link: '/reviews.html', icon: 'fas fa-comments', section: 'reviews' },
+    { text: 'Новости', link: '/news/', icon: 'fas fa-newspaper', section: 'news' },
+    { text: 'FAQ', link: '/faq.html', icon: 'fas fa-question-circle', section: 'faq' },
+    { text: 'О нас', link: '/about.html', icon: 'fas fa-users', section: 'about' }
   ];
 
   const navList = document.querySelector('.nav-list');
   const currentPath = window.location.pathname;
-  const currentPage = currentPath.split('/').pop() || 'index.html';
-  const normalizedCurrent = currentPage.replace(/\.html$/i, '') || 'index';
+  const normalizedPath = currentPath.replace(/\/index\.html$/i, '/');
   // Очищаем текущий список
   if (navList) {
     navList.innerHTML = '';
     
     // Добавляем новые пункты меню
-    menuItems.forEach((item, index) => {
+    menuItems.forEach((item) => {
       const li = document.createElement('li');
-      const normalizedLink = item.link.replace(/\.html$/i, '');
       
       // Определяем активную страницу
-      let isActive = false;
-      if (item.link === 'index.html') {
-        isActive = normalizedCurrent === 'index' || currentPath === '/' || currentPath.endsWith('/');
-      } else {
-        isActive = normalizedCurrent === normalizedLink || currentPath.endsWith('/' + item.link);
-      }
+      const isActive = item.section === 'home'
+        ? normalizedPath === '/'
+        : item.section === 'news'
+          ? normalizedPath.startsWith('/news/')
+          : normalizedPath === item.link;
       
       li.innerHTML = `
-        <a href="${item.link}" class="nav-link ${isActive ? 'active' : ''}">
+        <a href="${item.link}" class="nav-link ${isActive ? 'active' : ''}" ${isActive ? 'aria-current="page"' : ''}>
           <i class="${item.icon}"></i>
           ${item.text}
         </a>
@@ -50,9 +48,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Добавляем кнопку CTA в конец
     const ctaLi = document.createElement('li');
-    const isOrderPage = normalizedCurrent === 'order' || currentPath.endsWith('/order.html');
+    const isOrderPage = normalizedPath === '/order.html';
     ctaLi.innerHTML = `
-      <a href="order.html" class="nav-link cta ${isOrderPage ? 'active' : ''}">
+      <a href="/order.html?type=standard" class="nav-link cta ${isOrderPage ? 'active' : ''}" ${isOrderPage ? 'aria-current="page"' : ''}>
         <i class="fas fa-shopping-cart"></i>
         Купить буст
       </a>
@@ -132,17 +130,27 @@ document.addEventListener('DOMContentLoaded', () => {
   // Smooth Scrolling
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
+      const targetSelector = this.getAttribute('href');
       e.preventDefault();
-      const target = document.querySelector(this.getAttribute('href'));
+      if (targetSelector === '#') {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        return;
+      }
+
+      const target = document.querySelector(targetSelector);
       if (target) {
         const headerOffset = 80;
-        const elementPosition = target.getBoundingClientRect().top;
-        const offsetPosition = elementPosition - headerOffset;
+        const offsetPosition = window.scrollY + target.getBoundingClientRect().top - headerOffset;
 
-        window.scrollBy({
+        window.scrollTo({
           top: offsetPosition,
           behavior: 'smooth'
         });
+
+        if (!target.matches('a[href], button, input, select, textarea, [tabindex]')) {
+          target.setAttribute('tabindex', '-1');
+        }
+        target.focus({ preventScroll: true });
       }
     });
   });

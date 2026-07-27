@@ -21,6 +21,8 @@ Allow: /security.html
 Allow: /cookies.html
 Allow: /documents.html
 Allow: /sitemap-page.html
+Allow: /news/
+Allow: /news/rss.xml
 
 # Allow CSS and JS for proper rendering
 Allow: /styles/
@@ -48,6 +50,7 @@ Allow: /sitemap.xml
 
 # Sitemap location
 Sitemap: https://boostmlbb.ru/sitemap.xml
+Sitemap: https://boostmlbb.ru/news-sitemap.xml
 
 # Google-specific rules
 User-agent: Googlebot
@@ -75,4 +78,4 @@ Clean-param: yclid&_openstat
 Clean-param: gclid&fbclid
 
 # Host directive (Yandex)
-Host: https://boostmlbb.ru
+Host: boostmlbb.ru

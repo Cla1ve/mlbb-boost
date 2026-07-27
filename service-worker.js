@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'mlbb-boost-v8';
+const CACHE_VERSION = 'mlbb-boost-v10';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;
@@ -12,7 +12,7 @@ const STATIC_ASSETS = [
   '/reviews.html',
   '/faq.html',
   '/about.html',
-  '/order.html',
+  '/news/',
   '/styles/main.css',
   '/styles/animations.css',
   '/styles/about.css',
@@ -20,6 +20,7 @@ const STATIC_ASSETS = [
   '/styles/faq.css',
   '/styles/home.css',
   '/styles/legal.css',
+  '/styles/news.css',
   '/styles/order.css',
   '/styles/prices.css',
   '/styles/reviews.css',
@@ -39,6 +40,7 @@ const STATIC_ASSETS = [
   '/js/prices.js',
   '/js/review-stats.js',
   '/js/reviews.js',
+  '/js/news.js',
   '/manifest.json'
 ];
 

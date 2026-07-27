@@ -19,6 +19,7 @@
   function saveConsent() {
     localStorage.setItem(CONSENT_KEY, 'true');
     localStorage.setItem(CONSENT_DATE_KEY, new Date().toISOString());
+    window.dispatchEvent(new CustomEvent('mlbb:consent-granted'));
   }
 
   // Создаём компактный баннер в правом нижнем углу
@@ -39,8 +40,8 @@
           <p><strong>Мы заботимся о вашей конфиденциальности</strong></p>
           <p class="consent-banner-desc">
             Используя сайт, вы соглашаетесь с 
-            <a href="privacy.html">Политикой конфиденциальности</a> и 
-            <a href="offer.html">Публичной офертой</a>. 
+            <a href="/privacy.html">Политикой конфиденциальности</a> и
+            <a href="/offer.html">Публичной офертой</a>.
             Мы также используем cookies.
           </p>
         </div>
@@ -72,7 +73,7 @@
     });
     
     document.getElementById('consent-more').addEventListener('click', function() {
-      window.open('privacy.html', '_blank');
+      window.open('/privacy.html', '_blank', 'noopener,noreferrer');
     });
     
     document.getElementById('consent-close').addEventListener('click', function() {
@@ -91,26 +92,6 @@
         banner.remove();
       }, 300);
     }
-  }
-
-  // Smooth scroll для якорных ссылок
-  function initSmoothScroll() {
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function(e) {
-        const targetId = this.getAttribute('href');
-        if (targetId === '#') {
-          e.preventDefault();
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-          return;
-        }
-        
-        const target = document.querySelector(targetId);
-        if (target) {
-          e.preventDefault();
-          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-      });
-    });
   }
 
   // Back to top functionality
@@ -142,7 +123,6 @@
     }
     
     // Инициализация функций для юридических страниц
-    initSmoothScroll();
     initBackToTop();
   });
 

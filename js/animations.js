@@ -126,6 +126,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const menuToggle = document.querySelector('.menu-toggle');
   const navMenu = document.querySelector('.nav-menu');
   const body = document.body;
+  const mobileMenuQuery = window.matchMedia('(max-width: 768px)');
+  const menuFocusableSelector = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
   
   let overlay = document.querySelector('.menu-overlay');
   if (!overlay) {
@@ -134,50 +136,82 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.appendChild(overlay);
   }
 
-  const closeMenu = () => {
+  const syncMenuAccessibility = () => {
+    if (!navMenu) return;
+    const closedOnMobile = mobileMenuQuery.matches && !navMenu.classList.contains('active');
+    navMenu.inert = closedOnMobile;
+    if (closedOnMobile) navMenu.setAttribute('aria-hidden', 'true');
+    else navMenu.removeAttribute('aria-hidden');
+  };
+
+  const closeMenu = ({ restoreFocus = false } = {}) => {
     if (menuToggle) {
       menuToggle.classList.remove('active');
       menuToggle.setAttribute('aria-expanded', 'false');
+      menuToggle.setAttribute('aria-label', 'Открыть меню');
     }
     if (navMenu) navMenu.classList.remove('active');
     if (overlay) overlay.classList.remove('active');
     body.style.overflow = '';
+    syncMenuAccessibility();
+    if (restoreFocus && menuToggle) menuToggle.focus();
   };
   
   if (menuToggle && navMenu) {
+    if (!navMenu.id) navMenu.id = 'site-navigation';
+    menuToggle.setAttribute('aria-controls', navMenu.id);
+    menuToggle.setAttribute('aria-label', 'Открыть меню');
     menuToggle.setAttribute('aria-expanded', 'false');
     menuToggle.addEventListener('click', () => {
       const isActive = navMenu.classList.contains('active');
       if (isActive) {
-        closeMenu();
+        closeMenu({ restoreFocus: true });
       } else {
+        navMenu.inert = false;
+        navMenu.removeAttribute('aria-hidden');
         menuToggle.classList.add('active');
         menuToggle.setAttribute('aria-expanded', 'true');
+        menuToggle.setAttribute('aria-label', 'Закрыть меню');
         navMenu.classList.add('active');
         overlay.classList.add('active');
         body.style.overflow = 'hidden';
+        navMenu.querySelector(menuFocusableSelector)?.focus();
       }
     });
 
-    overlay.addEventListener('click', closeMenu);
+    overlay.addEventListener('click', () => closeMenu({ restoreFocus: true }));
 
-    // Закрытие меню по Escape — базовое UX-ожидание
+    // Escape и Tab удерживают фокус внутри открытого мобильного меню.
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && navMenu.classList.contains('active')) {
-        closeMenu();
-        menuToggle.focus();
+        closeMenu({ restoreFocus: true });
+        return;
+      }
+      if (e.key === 'Tab' && navMenu.classList.contains('active')) {
+        const focusable = Array.from(navMenu.querySelectorAll(menuFocusableSelector))
+          .filter((element) => !element.inert && element.offsetParent !== null);
+        if (!focusable.length) return;
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
+        }
       }
     });
 
-    document.querySelectorAll('.nav-link').forEach(link => {
-      link.addEventListener('click', closeMenu);
+    navMenu.addEventListener('click', (event) => {
+      if (event.target.closest('a')) closeMenu();
     });
 
-    window.addEventListener('resize', () => {
-      if (window.innerWidth > 768 && navMenu.classList.contains('active')) {
-        closeMenu();
-      }
+    mobileMenuQuery.addEventListener('change', () => {
+      if (!mobileMenuQuery.matches && navMenu.classList.contains('active')) closeMenu();
+      syncMenuAccessibility();
     });
+    syncMenuAccessibility();
   }
 
   // ============================================

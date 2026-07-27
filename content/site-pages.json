@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "pathname": "/",
+      "lastmod": "2026-07-27"
+    },
+    {
+      "pathname": "/services.html",
+      "lastmod": "2026-07-05"
+    },
+    {
+      "pathname": "/prices.html",
+      "lastmod": "2026-07-05"
+    },
+    {
+      "pathname": "/order.html",
+      "lastmod": "2026-07-27"
+    },
+    {
+      "pathname": "/reviews.html",
+      "lastmod": "2026-07-05"
+    },
+    {
+      "pathname": "/about.html",
+      "lastmod": "2026-07-05"
+    },
+    {
+      "pathname": "/faq.html",
+      "lastmod": "2026-07-05"
+    },
+    {
+      "pathname": "/documents.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/offer.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/privacy.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/terms.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/refund.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/disclaimer.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/security.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/cookies.html",
+      "lastmod": "2026-07-04"
+    },
+    {
+      "pathname": "/sitemap-page.html",
+      "lastmod": "2026-07-27"
+    }
+  ]
+}
