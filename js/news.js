@@ -3,6 +3,32 @@
 
   const GA_ID = 'G-6HJ7194FZC';
   const YM_ID = 99684184;
+  const locale = document.documentElement.lang === 'en' ? 'en' : 'ru';
+  const copy = locale === 'en'
+    ? {
+        noPublished: 'No stories have been published yet.',
+        page: 'Page',
+        allTopics: 'across all topics',
+        inTopic: (topic) => `in “${topic}”`,
+        status: (start, end, total, topic, page, pages) => (
+          `Showing stories ${start}–${end} of ${total} ${topic}. Page ${page} of ${pages}.`
+        ),
+        empty: (topic) => `There are no stories ${topic} yet.`,
+        menuOpen: 'Open menu',
+        menuClose: 'Close menu'
+      }
+    : {
+        noPublished: 'Опубликованных материалов пока нет.',
+        page: 'Страница',
+        allTopics: 'во всех темах',
+        inTopic: (topic) => `в теме «${topic}»`,
+        status: (start, end, total, topic, page, pages) => (
+          `Показаны материалы ${start}–${end} из ${total} ${topic}. Страница ${page} из ${pages}.`
+        ),
+        empty: (topic) => `Материалов ${topic} пока нет.`,
+        menuOpen: 'Открыть меню',
+        menuClose: 'Закрыть меню'
+      };
   let analyticsLoaded = false;
   let articleViewTracked = false;
 
@@ -65,7 +91,7 @@
     const grid = document.querySelector('.news-grid');
     if (!feed || !buttons.length) return;
     if (!cards.length) {
-      if (status) status.textContent = 'Опубликованных материалов пока нет.';
+      if (status) status.textContent = copy.noPublished;
       const url = new URL(window.location.href);
       url.searchParams.delete('category');
       url.searchParams.delete('page');
@@ -131,7 +157,7 @@
         button.className = 'news-pagination__page';
         button.dataset.newsPageNumber = String(token);
         button.textContent = String(token);
-        button.setAttribute('aria-label', `Страница ${token}`);
+        button.setAttribute('aria-label', `${copy.page} ${token}`);
         if (token === currentPage) {
           button.classList.add('is-current');
           button.setAttribute('aria-current', 'page');
@@ -177,10 +203,12 @@
       if (status) {
         const rangeStart = matching.length ? start + 1 : 0;
         const rangeEnd = Math.min(start + pageSize, matching.length);
-        const categoryText = activeFilter === 'all' ? 'во всех темах' : `в теме «${activeFilter}»`;
+        const activeButton = buttons.find((button) => button.dataset.newsFilter === activeFilter);
+        const activeLabel = activeButton?.textContent.trim() || activeFilter;
+        const categoryText = activeFilter === 'all' ? copy.allTopics : copy.inTopic(activeLabel);
         status.textContent = matching.length
-          ? `Показаны материалы ${rangeStart}–${rangeEnd} из ${matching.length} ${categoryText}. Страница ${currentPage} из ${totalPages}.`
-          : `Материалов ${categoryText} пока нет.`;
+          ? copy.status(rangeStart, rangeEnd, matching.length, categoryText, currentPage, totalPages)
+          : copy.empty(categoryText);
       }
       if (historyMode) writeUrlState(historyMode);
       if (shouldScroll) scrollToResults();
@@ -248,7 +276,7 @@
       menu.classList.remove('active');
       overlay.classList.remove('active');
       toggle.setAttribute('aria-expanded', 'false');
-      toggle.setAttribute('aria-label', 'Открыть меню');
+      toggle.setAttribute('aria-label', copy.menuOpen);
       document.body.style.overflow = '';
       syncClosedAccessibility();
       if (restoreFocus) toggle.focus();
@@ -261,7 +289,7 @@
       menu.classList.add('active');
       overlay.classList.add('active');
       toggle.setAttribute('aria-expanded', 'true');
-      toggle.setAttribute('aria-label', 'Закрыть меню');
+      toggle.setAttribute('aria-label', copy.menuClose);
       document.body.style.overflow = 'hidden';
       menu.querySelector(focusableSelector)?.focus();
     };
@@ -382,7 +410,7 @@
     const slug = window.location.pathname.split('/').filter(Boolean).pop() || 'news-index';
 
     if (article && analyticsLoaded && !articleViewTracked) {
-      trackEvent('news_article_view', { article_slug: slug });
+      trackEvent('news_article_view', { article_slug: slug, content_language: locale });
       articleViewTracked = true;
     }
 
@@ -393,6 +421,7 @@
       link.addEventListener('click', () => {
         trackEvent('news_cta_click', {
           article_slug: slug,
+          content_language: locale,
           cta_position: link.dataset.ctaPosition || 'unknown',
           cta_variant: 'rank-calculator'
         });

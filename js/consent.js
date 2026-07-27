@@ -9,6 +9,30 @@
   // Ключи для localStorage
   const CONSENT_KEY = 'mlbb_consent_accepted';
   const CONSENT_DATE_KEY = 'mlbb_consent_date';
+  const isEnglish = document.documentElement.lang === 'en';
+  const copy = isEnglish
+    ? {
+        title: 'Your privacy matters',
+        description: 'By using this site, you agree to the',
+        privacy: 'Privacy Policy',
+        conjunction: 'and',
+        offer: 'Public Offer',
+        cookies: 'We also use cookies.',
+        accept: 'Accept',
+        more: 'Learn more',
+        close: 'Close'
+      }
+    : {
+        title: 'Мы заботимся о вашей конфиденциальности',
+        description: 'Используя сайт, вы соглашаетесь с',
+        privacy: 'Политикой конфиденциальности',
+        conjunction: 'и',
+        offer: 'Публичной офертой',
+        cookies: 'Мы также используем cookies.',
+        accept: 'Принять',
+        more: 'Подробнее',
+        close: 'Закрыть'
+      };
 
   // Проверяем, давал ли пользователь согласие
   function hasConsent() {
@@ -37,23 +61,23 @@
           <i class="fas fa-shield-alt"></i>
         </div>
         <div class="consent-banner-text">
-          <p><strong>Мы заботимся о вашей конфиденциальности</strong></p>
+          <p><strong>${copy.title}</strong></p>
           <p class="consent-banner-desc">
-            Используя сайт, вы соглашаетесь с 
-            <a href="/privacy.html">Политикой конфиденциальности</a> и
-            <a href="/offer.html">Публичной офертой</a>.
-            Мы также используем cookies.
+            ${copy.description}
+            <a href="/privacy.html${isEnglish ? '?lang=en' : ''}">${copy.privacy}</a> ${copy.conjunction}
+            <a href="/offer.html${isEnglish ? '?lang=en' : ''}">${copy.offer}</a>.
+            ${copy.cookies}
           </p>
         </div>
         <div class="consent-banner-actions">
           <button class="consent-banner-btn accept" id="consent-accept">
-            <i class="fas fa-check"></i> Принять
+            <i class="fas fa-check"></i> ${copy.accept}
           </button>
           <button class="consent-banner-btn more" id="consent-more">
-            Подробнее
+            ${copy.more}
           </button>
         </div>
-        <button class="consent-banner-close" id="consent-close" title="Закрыть">
+        <button class="consent-banner-close" id="consent-close" title="${copy.close}">
           <i class="fas fa-times"></i>
         </button>
       </div>
@@ -73,7 +97,7 @@
     });
     
     document.getElementById('consent-more').addEventListener('click', function() {
-      window.open('/privacy.html', '_blank', 'noopener,noreferrer');
+      window.open(`/privacy.html${isEnglish ? '?lang=en' : ''}`, '_blank', 'noopener,noreferrer');
     });
     
     document.getElementById('consent-close').addEventListener('click', function() {

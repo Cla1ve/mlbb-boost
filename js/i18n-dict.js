@@ -12,6 +12,7 @@ window.MLBB_DICT = {
   'Услуги': 'Services',
   'Цены': 'Prices',
   'Отзывы': 'Reviews',
+  'Новости': 'News',
   'О нас': 'About',
   'Купить буст': 'Buy boost',
   'Документы': 'Documents',
@@ -55,6 +56,13 @@ window.MLBB_DICT = {
   'Смотреть отзывы': 'View reviews',
   'Отзывы клиентов': 'Client reviews',
   'Листай вниз': 'Scroll down',
+  'Свежий материал': 'Latest story',
+  'MSC 2026: сетка плей-офф и расписание по Москве': 'MSC 2026: Playoff Bracket and Moscow Schedule',
+  'Четыре пары, точное время матчей 29–30 июля и главное перед решающей стадией турнира.':
+    'Four matchups, exact July 29–30 start times, and everything that matters before the knockout stage.',
+  'Открыть новость': 'Open story',
+  'Редакционная обложка плей-офф MSC 2026 с турнирной сеткой':
+    'MSC 2026 playoff bracket with a futuristic esports trophy',
 
   /* ===================== INDEX (SERVICES PREVIEW) ===================== */
   'Буст Mobile Legends — выберите тип прокачки': 'Mobile Legends boost — choose your boost type',

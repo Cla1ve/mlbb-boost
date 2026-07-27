@@ -9,6 +9,7 @@
       "description": "Групповой этап MSC 2026 завершён: восемь команд вышли в плей-офф. Пары, формат BO5/BO7 и точное время матчей 29–30 июля по Москве.",
       "excerpt": "TLPH и SRG выбыли, а Aurora стала сенсацией группы B. Собрали официальную сетку MSC 2026 и перевели расписание на московское время.",
       "category": "Киберспорт",
+      "categoryKey": "esports",
       "tags": [
         "MSC 2026",
         "Mobile Legends",
@@ -197,6 +198,200 @@
           "text": "Сохраните страницу: результаты появятся здесь же. Постоянный URL помогает не терять контекст, а дата обновления показывает, когда таблица и сетка проверялись в последний раз."
         }
       ],
+      "translations": {
+        "en": {
+          "title": "MSC 2026 Mobile Legends: Playoff Bracket and July 29–30 Match Schedule",
+          "seoTitle": "MSC 2026 Playoff Bracket and Match Schedule",
+          "description": "The MSC 2026 group stage is over, with eight teams through to the playoffs. See the matchups, BO5/BO7 format, and Moscow start times for July 29–30.",
+          "excerpt": "TLPH and SRG are out, while Aurora stunned Group B. Here is the official MSC 2026 bracket, with every start time converted to Moscow time.",
+          "category": "Esports",
+          "tags": [
+            "MSC 2026",
+            "Mobile Legends",
+            "Esports",
+            "Match Schedule"
+          ],
+          "hero": {
+            "src": "/images/news/msc-2026-playoffs-en.jpg",
+            "width": 1600,
+            "height": 900,
+            "webpSrcset": "/images/news/msc-2026-playoffs-en-768.webp 768w, /images/news/msc-2026-playoffs-en-1200.webp 1200w, /images/news/msc-2026-playoffs-en-1600.webp 1600w",
+            "alt": "MSC 2026 Mobile Legends playoff bracket with eight teams in a futuristic esports arena",
+            "caption": "An original Boost MLBB editorial illustration for our MSC 2026 playoff coverage.",
+            "provenance": {
+              "type": "generated",
+              "creator": "OpenAI ImageGen",
+              "created": "2026-07-28",
+              "rights": "Original editorial illustration created for Boost MLBB without reference images, logos, characters, or third-party trademarks.",
+              "prompt": "Edit the existing Boost MLBB MSC 2026 playoff artwork while preserving its composition, deep-navy palette, emerald bracket, cyan lighting, and central trophy. Replace only the Russian poster lettering with the exact English lines “MSC 2026”, “PLAYOFFS”, and “JULY 29–30 · MSK”. Add no other text, logos, characters, trademarks, or visual changes."
+            }
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "short",
+              "title": "The story in 30 seconds",
+              "items": [
+                "The playoffs run from July 29 to 31, with the Grand Final on August 1.",
+                "Eight teams remain in the bracket; Team Liquid PH and Selangor Red Giants have been eliminated.",
+                "The quarterfinals and semifinals are best-of-five, while the final is best-of-seven."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The Mid Season Cup 2026 group stage ended with two major eliminations. Defending champion Team Liquid Philippines and last year’s runner-up Selangor Red Giants both missed the knockout stage. The eight remaining teams now enter a single-elimination bracket: one series loss ends their tournament."
+            },
+            {
+              "type": "heading",
+              "id": "schedule",
+              "text": "MSC 2026 quarterfinal schedule in Moscow time"
+            },
+            {
+              "type": "paragraph",
+              "text": "MOONTON published the match times in GMT+8. Below, they have been converted to Moscow time (MSK, UTC+3). Moscow is 5 hours behind, so 5 hours were subtracted from every time on the official posters."
+            },
+            {
+              "type": "table",
+              "caption": "MSC 2026 quarterfinals — Moscow time",
+              "headers": [
+                "Date",
+                "Time (MSK)",
+                "Match"
+              ],
+              "rows": [
+                [
+                  "July 29",
+                  "13:00",
+                  "Yangon Galacticos — PRO Esports"
+                ],
+                [
+                  "July 29",
+                  "15:30",
+                  "Team Vitality — Team Falcons PH"
+                ],
+                [
+                  "July 30",
+                  "13:00",
+                  "Team Vamos — Team Spirit"
+                ],
+                [
+                  "July 30",
+                  "15:30",
+                  "Aurora Gaming — ONIC"
+                ]
+              ],
+              "note": "Times were checked against MOONTON’s official posters dated July 27, 2026. The organizer may change the schedule; if that happens, we will update both the table and the article’s modified date."
+            },
+            {
+              "type": "cta",
+              "id": "rank-up",
+              "eyebrow": "Rank calculator",
+              "title": "How much does a rank boost cost?",
+              "text": "Choose your current rank and target—the price appears instantly.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "The estimate is free. The choice is yours.",
+              "position": "after-schedule"
+            },
+            {
+              "type": "heading",
+              "id": "bracket",
+              "text": "Full bracket: four matchups, eight teams"
+            },
+            {
+              "type": "matches",
+              "title": "MSC 2026 quarterfinal matchups",
+              "matches": [
+                {
+                  "teamA": "Yangon Galacticos",
+                  "teamB": "PRO Esports",
+                  "meta": "July 29 · 13:00 MSK"
+                },
+                {
+                  "teamA": "Team Vitality",
+                  "teamB": "Team Falcons PH",
+                  "meta": "July 29 · 15:30 MSK"
+                },
+                {
+                  "teamA": "Team Vamos",
+                  "teamB": "Team Spirit",
+                  "meta": "July 30 · 13:00 MSK"
+                },
+                {
+                  "teamA": "Aurora Gaming",
+                  "teamB": "ONIC",
+                  "meta": "July 30 · 15:30 MSK"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Every quarterfinal and semifinal uses a BO5 format: a team must win three games to take the series. The Grand Final on August 1 will be BO7, with four wins required to become champion."
+            },
+            {
+              "type": "callout",
+              "label": "Why these teams were paired",
+              "text": "The highest-placed teams in each group earned the right to choose their opponent. Pick order was determined by game differential. Each favorite selected a familiar opponent it had already beaten in the group stage."
+            },
+            {
+              "type": "heading",
+              "id": "upsets",
+              "text": "Aurora surprised Group B as two favorites went out"
+            },
+            {
+              "type": "paragraph",
+              "text": "Aurora Gaming’s run was the defining story of Group B. The team first defeated defending champion Team Liquid PH, then beat ONIC to finish first. TLPH never recovered from its opening loss and exited the tournament in its second match."
+            },
+            {
+              "type": "paragraph",
+              "text": "ONIC, meanwhile, fought back through the lower side of the group, eliminating Selangor Red Giants to claim a playoff spot. That makes Aurora versus ONIC a rematch—but this time, there is no room for error."
+            },
+            {
+              "type": "heading",
+              "id": "viewership",
+              "text": "MSC has already passed two million concurrent viewers"
+            },
+            {
+              "type": "paragraph",
+              "text": "According to Esports Charts, the group stage peaked at 2,010,159 concurrent viewers during ONIC versus SRG. That figure was current at publication time; with the playoffs and Grand Final still to come, the tournament’s final peak could climb higher."
+            },
+            {
+              "type": "heading",
+              "id": "watch",
+              "text": "Where to watch MSC 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "MLBB Esports publishes the official English-language broadcasts and match replays. Check the stream listing before each series begins, as the organizer posts the latest start time and commentary lineup there."
+            },
+            {
+              "type": "linkCard",
+              "label": "Official broadcast",
+              "title": "MLBB Esports on YouTube",
+              "description": "Live streams, highlights, and full match replays",
+              "href": "https://www.youtube.com/c/MLBBeSports"
+            },
+            {
+              "type": "heading",
+              "id": "updates",
+              "text": "What we will update after the quarterfinals"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Add the score of every series played on July 29 and 30.",
+                "Update the semifinal matchups once they are confirmed.",
+                "Record the Grand Final result on August 1 without changing this page’s URL."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Bookmark this page: the results will appear here. Keeping one permanent URL preserves the tournament context, while the modified date shows when the schedule and bracket were last verified."
+            }
+          ],
+          "editorialNote": "The matchups and factual details come from MOONTON publications and official tournament posters. Times were converted manually from GMT+8 to Moscow time (MSK, UTC+3). The audience figure is attributed to Esports Charts and reflects the data available at publication time. No official artwork was copied: a separate editorial illustration was created for this article."
+        }
+      },
       "sources": [
         {
           "title": "MLBB Mid Season Cup Group Stage concludes; the Knockout Stage beckons",

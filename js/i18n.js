@@ -235,6 +235,54 @@
     }
   }
 
+  function handleNewsLink(el) {
+    if (!el.hasAttribute || !el.hasAttribute('href')) return;
+    if (!origHref.has(el)) origHref.set(el, el.getAttribute('href'));
+    var original = origHref.get(el);
+    if (!original || /^(?:https?:|mailto:|tel:|#)/i.test(original)) return;
+
+    var parsed;
+    try {
+      parsed = new URL(original, location.origin);
+    } catch (e) {
+      return;
+    }
+    if (!parsed.pathname.startsWith('/news/')) return;
+
+    if (currentLang === 'en') {
+      parsed.pathname = parsed.pathname.replace(/^\/news\//, '/en/news/');
+      parsed.searchParams.delete('lang');
+      el.setAttribute('href', parsed.pathname + parsed.search + parsed.hash);
+    } else {
+      el.setAttribute('href', original);
+    }
+  }
+
+  function handleLocalizedNewsAssets() {
+    var assets = document.querySelectorAll('[data-news-en-src]');
+    for (var i = 0; i < assets.length; i++) {
+      var asset = assets[i];
+      var source = asset.closest('picture') && asset.closest('picture').querySelector('source[data-news-en-srcset]');
+      if (!asset.hasAttribute('data-news-ru-src')) {
+        asset.setAttribute('data-news-ru-src', asset.getAttribute('src') || '');
+        asset.setAttribute('data-news-ru-alt', asset.getAttribute('alt') || '');
+      }
+      if (source && !source.hasAttribute('data-news-ru-srcset')) {
+        source.setAttribute('data-news-ru-srcset', source.getAttribute('srcset') || '');
+      }
+
+      if (currentLang === 'en') {
+        asset.setAttribute('src', asset.getAttribute('data-news-en-src'));
+        asset.setAttribute('alt', asset.getAttribute('data-news-en-alt') || asset.getAttribute('alt'));
+        if (source) source.setAttribute('srcset', source.getAttribute('data-news-en-srcset'));
+      } else {
+        asset.setAttribute('src', asset.getAttribute('data-news-ru-src'));
+        asset.setAttribute('alt', asset.getAttribute('data-news-ru-alt'));
+        if (source) source.setAttribute('srcset', source.getAttribute('data-news-ru-srcset'));
+      }
+    }
+  }
+
   /* ---------------- tree walking ---------------- */
 
   function walk(root) {
@@ -247,7 +295,10 @@
     // Attributes + telegram on element nodes.
     if (root.nodeType === 1) {
       handleAttributes(root);
-      if (root.tagName === 'A') handleTelegram(root);
+      if (root.tagName === 'A') {
+        handleTelegram(root);
+        handleNewsLink(root);
+      }
     }
 
     var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
@@ -277,7 +328,10 @@
         if (SKIP_TAGS[el.tagName]) continue;
         if (el.closest && el.closest('[data-i18n-skip]')) continue;
         handleAttributes(el);
-        if (el.tagName === 'A') handleTelegram(el);
+        if (el.tagName === 'A') {
+          handleTelegram(el);
+          handleNewsLink(el);
+        }
       }
     }
   }
@@ -351,6 +405,7 @@
     // Telegram bot visible text "@cla1ve_boost_bot" -> "@Cla1ve" handled via
     // dictionary; ensure any stray occurrence is covered too.
     rewriteBotText(document.body);
+    handleLocalizedNewsAssets();
 
     updateSwitcherUI();
 

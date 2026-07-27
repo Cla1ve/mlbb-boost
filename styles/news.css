@@ -43,6 +43,22 @@
   background: rgba(6, 18, 30, 0.88);
 }
 
+.news-page .lang-switcher .lang-option {
+  text-decoration: none;
+}
+
+.news-page .lang-switcher .lang-option:focus-visible {
+  outline: 2px solid var(--news-cyan);
+  outline-offset: 2px;
+}
+
+@media (max-width: 1024px) {
+  .news-page .lang-switcher {
+    margin-left: auto;
+    margin-right: 0.65rem;
+  }
+}
+
 .news-page .site-footer {
   background: #05101a;
   border-top: 1px solid var(--news-border);
