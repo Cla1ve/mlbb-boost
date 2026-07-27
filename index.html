@@ -104,7 +104,7 @@
   <!-- Existing styles -->
   <link rel="stylesheet" href="styles/main.css">
   <link rel="stylesheet" href="styles/animations.css">
-  <link rel="stylesheet" href="/styles/home.css?v=2">
+  <link rel="stylesheet" href="/styles/home.css?v=3">
   <link rel="stylesheet" href="styles/legal.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
@@ -216,20 +216,21 @@
 
         <!-- CTA Buttons -->
         <div class="hero-actions">
-          <a href="https://t.me/cla1ve_boost_bot?start=site" target="_blank" class="cta-button primary button-feedback">
-            <span class="btn-icon"><i class="fab fa-telegram"></i></span>
+          <a href="/order.html?type=standard" class="cta-button primary">
+            <span class="btn-icon"><i class="fas fa-shopping-cart" aria-hidden="true"></i></span>
             <span class="btn-text">
               <span class="btn-main">Купить буст</span>
-              <span class="btn-sub">Перейти в бот</span>
+              <span class="btn-sub">Оформить заказ</span>
             </span>
-            <span class="btn-arrow"><i class="fas fa-arrow-right"></i></span>
+            <span class="btn-arrow" aria-hidden="true"><i class="fas fa-arrow-right"></i></span>
           </a>
-          <a href="order.html" class="cta-button secondary">
-            <span class="btn-icon"><i class="fas fa-calculator"></i></span>
+          <a href="/reviews.html" class="cta-button secondary">
+            <span class="btn-icon"><i class="fas fa-comments" aria-hidden="true"></i></span>
             <span class="btn-text">
-              <span class="btn-main">Рассчитать цену</span>
-              <span class="btn-sub">Калькулятор</span>
+              <span class="btn-main">Смотреть отзывы</span>
+              <span class="btn-sub">Отзывы клиентов</span>
             </span>
+            <span class="btn-arrow" aria-hidden="true"><i class="fas fa-arrow-right"></i></span>
           </a>
         </div>
 
@@ -238,34 +239,6 @@
           <span>Листай вниз</span>
           <div class="scroll-arrow"><i class="fas fa-chevron-down"></i></div>
         </div>
-      </div>
-    </section>
-
-    <section class="home-news reveal" aria-labelledby="home-news-title">
-      <div class="container">
-        <a class="home-news-card" href="/news/msc-2026-playoff-schedule/">
-          <figure class="home-news-card__media">
-            <picture>
-              <source
-                type="image/webp"
-                srcset="/images/news/msc-2026-playoffs-768.webp 768w, /images/news/msc-2026-playoffs-1200.webp 1200w"
-                sizes="(max-width: 768px) 100vw, 42vw">
-              <img
-                src="/images/news/msc-2026-playoffs.jpg"
-                width="1672"
-                height="941"
-                loading="lazy"
-                decoding="async"
-                alt="Редакционная обложка плей-офф MSC 2026 с турнирной сеткой">
-            </picture>
-          </figure>
-          <div class="home-news-card__content">
-            <span class="home-news-card__eyebrow"><i class="fas fa-bolt" aria-hidden="true"></i> Свежий материал</span>
-            <h2 id="home-news-title">MSC 2026: сетка плей-офф и расписание по Москве</h2>
-            <p>Четыре пары, точное время матчей 29–30 июля и главное перед решающей стадией турнира.</p>
-            <span class="home-news-card__action">Открыть новость <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
-          </div>
-        </a>
       </div>
     </section>
 
@@ -454,6 +427,34 @@
             </div>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section class="home-news reveal" aria-labelledby="home-news-title">
+      <div class="container">
+        <a class="home-news-card" href="/news/msc-2026-playoff-schedule/">
+          <figure class="home-news-card__media">
+            <picture>
+              <source
+                type="image/webp"
+                srcset="/images/news/msc-2026-playoffs-768.webp 768w, /images/news/msc-2026-playoffs-1200.webp 1200w"
+                sizes="(max-width: 768px) 100vw, 42vw">
+              <img
+                src="/images/news/msc-2026-playoffs.jpg"
+                width="1672"
+                height="941"
+                loading="lazy"
+                decoding="async"
+                alt="Редакционная обложка плей-офф MSC 2026 с турнирной сеткой">
+            </picture>
+          </figure>
+          <div class="home-news-card__content">
+            <span class="home-news-card__eyebrow"><i class="fas fa-bolt" aria-hidden="true"></i> Свежий материал</span>
+            <h2 id="home-news-title">MSC 2026: сетка плей-офф и расписание по Москве</h2>
+            <p>Четыре пары, точное время матчей 29–30 июля и главное перед решающей стадией турнира.</p>
+            <span class="home-news-card__action">Открыть новость <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+          </div>
+        </a>
       </div>
     </section>
 

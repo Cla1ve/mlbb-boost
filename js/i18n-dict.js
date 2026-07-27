@@ -52,6 +52,8 @@ window.MLBB_DICT = {
   'Перейти в бот': 'Open the bot',
   'Рассчитать цену': 'Calculate price',
   'Калькулятор': 'Calculator',
+  'Смотреть отзывы': 'View reviews',
+  'Отзывы клиентов': 'Client reviews',
   'Листай вниз': 'Scroll down',
 
   /* ===================== INDEX (SERVICES PREVIEW) ===================== */

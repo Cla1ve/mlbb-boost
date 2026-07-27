@@ -215,8 +215,11 @@
 
 .cta-button {
   display: flex;
+  flex: 1 1 0;
   align-items: center;
   gap: 0.75rem;
+  min-width: 0;
+  min-height: 72px;
   padding: 1rem 1.5rem;
   border-radius: 14px;
   text-decoration: none;
@@ -260,6 +263,11 @@
   background: rgba(255, 255, 255, 0.05);
 }
 
+.cta-button.secondary .btn-arrow {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--accent-green);
+}
+
 .btn-text {
   display: flex;
   flex-direction: column;
@@ -282,6 +290,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-left: auto;
   background: rgba(0, 0, 0, 0.15);
   border-radius: 50%;
   font-size: 0.75rem;
@@ -1232,15 +1241,21 @@
   
   .hero-actions {
     flex-direction: column;
-    width: 100%;
+    width: calc(100% - 2rem);
     gap: 0.75rem;
   }
   
   .cta-button {
     width: 100%;
+    min-width: 0;
+    min-height: 64px;
     justify-content: center;
     padding: 0.85rem 1.25rem;
     border-radius: 12px;
+  }
+
+  .cta-button.secondary {
+    min-width: 0;
   }
   
   .btn-icon {
