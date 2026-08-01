@@ -57,9 +57,10 @@ window.MLBB_DICT = {
   'Отзывы клиентов': 'Client reviews',
   'Листай вниз': 'Scroll down',
   'Свежий материал': 'Latest story',
-  'MSC 2026: сетка плей-офф и расписание по Москве': 'MSC 2026: Playoff Bracket and Moscow Schedule',
-  'Четыре пары, точное время матчей 29–30 июля и главное перед решающей стадией турнира.':
-    'Four matchups, exact July 29–30 start times, and everything that matters before the knockout stage.',
+  'MSC 2026 завершён: Team Spirit — чемпион, все результаты плей-офф':
+    'MSC 2026 Results: Team Spirit Win a Historic Mobile Legends Title',
+  'Team Spirit стала первым неазиатским чемпионом MSC после финала 4:3 с Yangon Galacticos. Здесь — все восемь серий плей-офф, призовые, MVP и зрительские итоги.':
+    "Team Spirit became MSC's first non-Asian champion after a 4:3 final against Yangon Galacticos. Here are all eight playoff series, prizes, MVP, and viewership results.",
   'Открыть новость': 'Open story',
   'Редакционная обложка плей-офф MSC 2026 с турнирной сеткой':
     'MSC 2026 playoff bracket with a futuristic esports trophy',
