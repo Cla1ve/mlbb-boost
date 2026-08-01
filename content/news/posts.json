@@ -4,20 +4,21 @@
     {
       "slug": "msc-2026-playoff-schedule",
       "status": "published",
-      "title": "MSC 2026 Mobile Legends: сетка плей-офф и расписание матчей 29–30 июля",
-      "seoTitle": "MSC 2026: сетка плей-офф и расписание матчей",
-      "description": "Групповой этап MSC 2026 завершён: восемь команд вышли в плей-офф. Пары, формат BO5/BO7 и точное время матчей 29–30 июля по Москве.",
-      "excerpt": "TLPH и SRG выбыли, а Aurora стала сенсацией группы B. Собрали официальную сетку MSC 2026 и перевели расписание на московское время.",
+      "title": "MSC 2026 завершён: Team Spirit — чемпион, все результаты плей-офф",
+      "seoTitle": "MSC 2026: Team Spirit — чемпион, результаты плей-офф",
+      "description": "Team Spirit выиграла MSC 2026, победив Yangon Galacticos 4:3 в гранд-финале. Все результаты плей-офф, путь чемпиона, MVP, призовые и аудитория.",
+      "excerpt": "Team Spirit стала первым неазиатским чемпионом MSC после финала 4:3 с Yangon Galacticos. Здесь — все восемь серий плей-офф, призовые, MVP и зрительские итоги.",
       "category": "Киберспорт",
       "categoryKey": "esports",
       "tags": [
         "MSC 2026",
         "Mobile Legends",
         "Киберспорт",
-        "Расписание матчей"
+        "Team Spirit",
+        "Результаты турнира"
       ],
       "datePublished": "2026-07-27T21:15:00+03:00",
-      "dateModified": "2026-07-27T21:15:00+03:00",
+      "dateModified": "2026-08-01T22:08:20+03:00",
       "hero": {
         "src": "/images/news/msc-2026-playoffs.jpg",
         "width": 1672,
@@ -39,177 +40,286 @@
         {
           "type": "keyFacts",
           "id": "short",
-          "title": "Главное за 30 секунд",
+          "title": "Итоги за 30 секунд",
           "items": [
-            "Плей-офф пройдёт с 29 по 31 июля, гранд-финал — 1 августа.",
-            "В сетке осталось восемь команд; Team Liquid PH и Selangor Red Giants выбыли.",
-            "Четвертьфиналы и полуфиналы сыграют до трёх побед, финал — до четырёх."
+            "Team Spirit выиграла MSC 2026, победив Yangon Galacticos 4:3 в гранд-финале 1 августа.",
+            "Путь чемпиона: 3:0 с Team Vamos, 3:0 с ONIC ID и 4:3 с Yangon Galacticos — суммарно 10:3 по картам.",
+            "ONIC ID заняла третье место после победы 3:0 над Team Falcons PH.",
+            "KidBomba получил награду MVP, а Team Spirit заработала $1 000 000 и 1 000 клубных очков EWC."
           ]
         },
         {
           "type": "paragraph",
-          "text": "Групповой этап Mid Season Cup 2026 завершён двумя громкими вылетами. Действующий чемпион Team Liquid Philippines и финалист прошлого года Selangor Red Giants не попали в решающую стадию. Восемь оставшихся команд переходят в single-elimination: одно поражение завершает турнир."
+          "text": "MSC 2026 завершён: Team Spirit стала чемпионом, одолев Yangon Galacticos со счётом 4:3 в решающей серии BO7. Финал прошёл 1 августа 2026 года в Париже и потребовал все семь карт. Ниже собраны окончательная сетка плей-офф, путь победителя, четыре лучшие команды, призовые, MVP и проверенный срез аудитории — без устаревших прогнозов и обещаний обновить результаты позже."
         },
         {
           "type": "heading",
-          "id": "schedule",
-          "text": "Расписание четвертьфиналов MSC 2026 по Москве"
+          "id": "final",
+          "text": "Team Spirit — чемпион MSC 2026"
         },
         {
           "type": "paragraph",
-          "text": "MOONTON опубликовала время матчей в часовом поясе GMT+8. Ниже — перевод в московское время, UTC+3. Разница составляет пять часов: из времени на официальной афише вычтено пять часов."
+          "text": "В гранд-финале Yangon Galacticos взяла три карты, но четвёртую победу в серии и титул забрала Team Spirit — 3:4 в записи официального канала MLBB Esports. Чемпион получила $1 000 000 и 1 000 клубных очков Esports World Cup; финалист — $500 000 и 750 очков."
         },
         {
-          "type": "table",
-          "caption": "Четвертьфиналы MSC 2026 — московское время",
-          "headers": [
-            "Дата",
-            "Время МСК",
-            "Матч"
-          ],
-          "rows": [
-            [
-              "29 июля",
-              "13:00",
-              "Yangon Galacticos — PRO Esports"
-            ],
-            [
-              "29 июля",
-              "15:30",
-              "Team Vitality — Team Falcons PH"
-            ],
-            [
-              "30 июля",
-              "13:00",
-              "Team Vamos — Team Spirit"
-            ],
-            [
-              "30 июля",
-              "15:30",
-              "Aurora Gaming — ONIC"
-            ]
-          ],
-          "note": "Время сверено с официальными афишами MOONTON от 27 июля 2026 года. Организатор может изменить расписание; при обновлении мы поправим таблицу и дату материала."
+          "type": "paragraph",
+          "text": "Официальный русскоязычный канал MLBB Esports назвал Team Spirit первым неазиатским коллективом, завоевавшим мировой трофей. Для самой серии MSC это также первый чемпион за пределами Азии: команда из региона EECA прервала многолетнюю последовательность победителей из Юго-Восточной Азии."
+        },
+        {
+          "type": "callout",
+          "label": "Почему финал стал историческим",
+          "text": "Team Spirit вошла в решающую серию после двух сухих побед 3:0, но Yangon Galacticos заставила чемпиона сыграть все семь карт. Это была единственная команда, которая забрала карты у Spirit в плей-офф."
         },
         {
           "type": "cta",
           "id": "rank-up",
-          "eyebrow": "Калькулятор ранга",
-          "title": "Сколько стоит поднять ранг?",
-          "text": "Выбери текущий ранг и цель — цена появится сразу.",
+          "eyebrow": "После MSC 2026",
+          "title": "Узнай цену подъёма ранга",
+          "text": "Выбери текущий и желаемый ранг — калькулятор сразу покажет стоимость.",
           "button": "Рассчитать стоимость",
           "href": "/order.html?type=standard",
-          "note": "Расчёт — бесплатно. Решение — за тобой.",
-          "position": "after-schedule"
+          "note": "Без оплаты и обязательств.",
+          "position": "after-final"
         },
         {
           "type": "heading",
-          "id": "bracket",
-          "text": "Полная сетка: четыре пары и восемь команд"
+          "id": "results",
+          "text": "Все результаты плей-офф MSC 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Восемь команд сыграли single-elimination с отдельным матчем за третье место. В таблице сохранено фактическое время начала по Москве, МСК (UTC+3); Париж находился в CEST (UTC+2), на один час позади. Все даты относятся к 2026 году, а счёт каждой серии сверен с официальными публикациями MLBB Esports."
+        },
+        {
+          "type": "table",
+          "caption": "Плей-офф MSC 2026 — окончательные результаты и время по Москве",
+          "headers": [
+            "Раунд",
+            "Дата и время (МСК)",
+            "Матч",
+            "Счёт"
+          ],
+          "rows": [
+            [
+              "Четвертьфинал",
+              "29 июля · 13:00",
+              "Yangon Galacticos — PRO Esports",
+              "3:0"
+            ],
+            [
+              "Четвертьфинал",
+              "29 июля · 15:30",
+              "Team Vitality — Team Falcons PH",
+              "1:3"
+            ],
+            [
+              "Четвертьфинал",
+              "30 июля · 13:00",
+              "Team Vamos — Team Spirit",
+              "0:3"
+            ],
+            [
+              "Четвертьфинал",
+              "30 июля · 15:30",
+              "Aurora Gaming — ONIC ID",
+              "2:3"
+            ],
+            [
+              "Полуфинал",
+              "31 июля · 13:00",
+              "Team Falcons PH — Yangon Galacticos",
+              "2:3"
+            ],
+            [
+              "Полуфинал",
+              "31 июля · 15:30",
+              "Team Spirit — ONIC ID",
+              "3:0"
+            ],
+            [
+              "Матч за 3-е место",
+              "1 августа · 12:00",
+              "Team Falcons PH — ONIC ID",
+              "0:3"
+            ],
+            [
+              "Гранд-финал",
+              "1 августа · 15:00",
+              "Yangon Galacticos — Team Spirit",
+              "3:4"
+            ]
+          ],
+          "note": "Четвертьфиналы, полуфиналы и матч за третье место проходили в BO5; гранд-финал — в BO7."
+        },
+        {
+          "type": "heading",
+          "id": "champion-path",
+          "text": "Путь Team Spirit к титулу: две сухие серии и семь карт в финале"
         },
         {
           "type": "matches",
-          "title": "Четвертьфинальные пары MSC 2026",
+          "title": "Три серии Team Spirit в плей-офф",
           "matches": [
-            {
-              "teamA": "Yangon Galacticos",
-              "teamB": "PRO Esports",
-              "meta": "29 июля · 13:00 МСК"
-            },
-            {
-              "teamA": "Team Vitality",
-              "teamB": "Team Falcons PH",
-              "meta": "29 июля · 15:30 МСК"
-            },
             {
               "teamA": "Team Vamos",
               "teamB": "Team Spirit",
-              "meta": "30 июля · 13:00 МСК"
+              "meta": "Четвертьфинал · 30 июля · 0:3"
             },
             {
-              "teamA": "Aurora Gaming",
-              "teamB": "ONIC",
-              "meta": "30 июля · 15:30 МСК"
+              "teamA": "Team Spirit",
+              "teamB": "ONIC ID",
+              "meta": "Полуфинал · 31 июля · 3:0"
+            },
+            {
+              "teamA": "Yangon Galacticos",
+              "teamB": "Team Spirit",
+              "meta": "Гранд-финал · 1 августа · 3:4"
             }
           ]
         },
         {
           "type": "paragraph",
-          "text": "Все четвертьфиналы и полуфиналы проходят в формате BO5: серия заканчивается, когда одна команда берёт три карты. Гранд-финал 1 августа сыграют в BO7 — чемпиону понадобятся четыре победы."
+          "text": "Team Spirit закончила плей-офф с десятью выигранными и тремя проигранными картами. Итог 10:3 и разница +7 — редакционный расчёт по трём официальным счетам. До финала команда не уступила ни одной карты; все три поражения пришлись на серию с Yangon Galacticos."
         },
         {
           "type": "callout",
-          "label": "Почему получились именно такие пары",
-          "text": "Команды верхней части групп получили право выбирать соперника. Порядок выбора определили по разнице выигранных и проигранных карт. Каждый фаворит выбрал знакомого оппонента, которого уже побеждал в группе."
+          "label": "Что видно по счёту",
+          "text": "Самое сильное сопротивление чемпиону оказала Yangon Galacticos. Команда из Мьянмы прошла PRO Esports 3:0 и Team Falcons PH 3:2, а затем довела решающую BO7 до седьмой карты."
         },
         {
           "type": "heading",
-          "id": "upsets",
-          "text": "Aurora удивила группу B, а два фаворита вылетели"
+          "id": "placements",
+          "text": "Призовые, MVP и четыре лучшие команды"
+        },
+        {
+          "type": "table",
+          "caption": "Первые четыре места MSC 2026",
+          "headers": [
+            "Место",
+            "Команда",
+            "Призовые",
+            "Очки EWC"
+          ],
+          "rows": [
+            [
+              "1",
+              "Team Spirit",
+              "$1 000 000",
+              "1 000"
+            ],
+            [
+              "2",
+              "Yangon Galacticos",
+              "$500 000",
+              "750"
+            ],
+            [
+              "3",
+              "ONIC ID",
+              "$250 000",
+              "500"
+            ],
+            [
+              "4",
+              "Team Falcons PH",
+              "$150 000",
+              "300"
+            ]
+          ],
+          "note": "Места, выплаты и клубные очки первых четырёх команд подтверждены официальными итоговыми публикациями MLBB Esports."
         },
         {
           "type": "paragraph",
-          "text": "Главный сюжет группы B — рывок Aurora Gaming. Команда сначала обыграла действующего чемпиона Team Liquid PH, затем победила ONIC и заняла первое место. TLPH не восстановилась после стартового поражения и покинула турнир во втором матче."
-        },
-        {
-          "type": "paragraph",
-          "text": "ONIC, наоборот, отыгралась через нижнюю часть группы: команда выбила Selangor Red Giants и забрала место в плей-офф. Поэтому четвертьфинал Aurora — ONIC станет повтором уже сыгранного противостояния, но теперь без права на ошибку."
+          "text": "Официальный регламент распределяет между командами $3 000 000 и отдельно предусматривает $25 000 для MVP. Официальный канал Team Spirit назвал обладателем награды KidBomba. Это не следует путать с командными призовыми: бонус MVP вынесен в регламенте отдельной строкой."
         },
         {
           "type": "heading",
           "id": "viewership",
-          "text": "MSC уже собрал больше двух миллионов зрителей одновременно"
+          "text": "Аудитория MSC 2026: пик пришёлся не на финал"
         },
         {
           "type": "paragraph",
-          "text": "По данным Esports Charts, пиковая одновременная аудитория группового этапа достигла 2 010 159 зрителей во время матча ONIC — SRG. Это показатель на момент публикации: впереди плей-офф и гранд-финал, поэтому итоговый рекорд турнира ещё может измениться."
+          "text": "По данным Esports Charts, актуальным после финала 1 августа, турнир достиг пика в 2 888 127 одновременных зрителей. Самой популярной стала четвертьфинальная серия ONIC ID — Aurora Gaming; финал Yangon Galacticos — Team Spirit собрал 1 871 918 зрителей на пике. Это аудитория отслеживаемых платформ, а не число уникальных пользователей."
+        },
+        {
+          "type": "table",
+          "caption": "Предварительно финализированные показатели Esports Charts на 1 августа 2026 года",
+          "headers": [
+            "Метрика",
+            "Значение",
+            "Контекст"
+          ],
+          "rows": [
+            [
+              "Пиковая аудитория",
+              "2 888 127",
+              "ONIC ID — Aurora Gaming"
+            ],
+            [
+              "Пик гранд-финала",
+              "1 871 918",
+              "Yangon Galacticos — Team Spirit"
+            ],
+            [
+              "Часы просмотра",
+              "45 139 801",
+              "Все отслеживаемые трансляции"
+            ],
+            [
+              "Средняя аудитория",
+              "509 575",
+              "За 88 ч 35 мин эфира"
+            ]
+          ],
+          "note": "Esports Charts мог дополнительно скорректировать данные после первичной модерации итогов турнира."
         },
         {
           "type": "heading",
-          "id": "watch",
-          "text": "Где смотреть MSC 2026"
+          "id": "takeaways",
+          "text": "Три вывода по завершённой сетке"
         },
         {
           "type": "paragraph",
-          "text": "Официальные англоязычные трансляции и записи матчей публикует канал MLBB Esports. Перед началом серии проверьте карточку эфира: организатор указывает актуальное время и состав комментаторов."
-        },
-        {
-          "type": "linkCard",
-          "label": "Официальная трансляция",
-          "title": "MLBB Esports на YouTube",
-          "description": "Эфиры, хайлайты и полные записи матчей",
-          "href": "https://www.youtube.com/c/MLBBeSports"
-        },
-        {
-          "type": "heading",
-          "id": "updates",
-          "text": "Что обновим после четвертьфиналов"
+          "text": "Ниже — редакционный разбор, основанный только на официальных счетах, без приписывания командам неподтверждённых причин побед и поражений."
         },
         {
           "type": "list",
           "items": [
-            "Добавим счёт каждой серии 29 и 30 июля.",
-            "Обновим пары полуфиналов, когда они определятся.",
-            "Зафиксируем результат гранд-финала 1 августа без смены URL страницы."
+            "Team Spirit была единственной командой, которая выиграла и четвертьфинал, и полуфинал со счётом 3:0.",
+            "Yangon Galacticos прошла от сухой победы в четвертьфинале до решающей седьмой карты гранд-финала.",
+            "ONIC ID восстановилась после поражения 0:3 в полуфинале и тем же счётом победила Team Falcons PH в матче за бронзу."
           ]
         },
         {
+          "type": "heading",
+          "id": "watch",
+          "text": "Где посмотреть записи MSC 2026"
+        },
+        {
           "type": "paragraph",
-          "text": "Сохраните страницу: результаты появятся здесь же. Постоянный URL помогает не терять контекст, а дата обновления показывает, когда таблица и сетка проверялись в последний раз."
+          "text": "Турнир завершён, поэтому вместо ссылок на будущие эфиры полезнее открыть записи, хайлайты и игровые дни. Их публикует официальный канал MLBB Esports; даты и счёт в этой статье уже зафиксированы как итоговые."
+        },
+        {
+          "type": "linkCard",
+          "label": "Официальные записи",
+          "title": "MLBB Esports на YouTube",
+          "description": "Полные эфиры, хайлайты и записи матчей MSC 2026",
+          "href": "https://www.youtube.com/c/MLBBeSports"
         }
       ],
       "translations": {
         "en": {
-          "title": "MSC 2026 Mobile Legends: Playoff Bracket and July 29–30 Match Schedule",
-          "seoTitle": "MSC 2026 Playoff Bracket and Match Schedule",
-          "description": "The MSC 2026 group stage is over, with eight teams through to the playoffs. See the matchups, BO5/BO7 format, and Moscow start times for July 29–30.",
-          "excerpt": "TLPH and SRG are out, while Aurora stunned Group B. Here is the official MSC 2026 bracket, with every start time converted to Moscow time.",
+          "title": "MSC 2026 Results: Team Spirit Win a Historic Mobile Legends Title",
+          "seoTitle": "MSC 2026 Results: Team Spirit Crowned Champion",
+          "description": "Team Spirit won MSC 2026 by beating Yangon Galacticos 4:3 in the Grand Final. See every playoff score, the champion's run, MVP, prizes, and viewership.",
+          "excerpt": "Team Spirit became MSC's first non-Asian champion after a 4:3 final against Yangon Galacticos. Here are all eight playoff series, prizes, MVP, and viewership results.",
           "category": "Esports",
           "tags": [
             "MSC 2026",
             "Mobile Legends",
             "Esports",
-            "Match Schedule"
+            "Team Spirit",
+            "Tournament Results"
           ],
           "hero": {
             "src": "/images/news/msc-2026-playoffs-en.jpg",
@@ -230,189 +340,357 @@
             {
               "type": "keyFacts",
               "id": "short",
-              "title": "The story in 30 seconds",
+              "title": "Results in 30 seconds",
               "items": [
-                "The playoffs run from July 29 to 31, with the Grand Final on August 1.",
-                "Eight teams remain in the bracket; Team Liquid PH and Selangor Red Giants have been eliminated.",
-                "The quarterfinals and semifinals are best-of-five, while the final is best-of-seven."
+                "Team Spirit won MSC 2026 by defeating Yangon Galacticos 4:3 in the Grand Final on August 1.",
+                "The champion's run: 3:0 over Team Vamos, 3:0 over ONIC ID, and 4:3 over Yangon Galacticos—a combined 10:3 map record.",
+                "ONIC ID finished third after a 3:0 victory over Team Falcons PH.",
+                "KidBomba received the MVP award, while Team Spirit earned $1,000,000 and 1,000 EWC Club Championship points."
               ]
             },
             {
               "type": "paragraph",
-              "text": "The Mid Season Cup 2026 group stage ended with two major eliminations. Defending champion Team Liquid Philippines and last year’s runner-up Selangor Red Giants both missed the knockout stage. The eight remaining teams now enter a single-elimination bracket: one series loss ends their tournament."
+              "text": "MSC 2026 is over: Team Spirit are the champions after beating Yangon Galacticos 4:3 in the deciding BO7 series. The Grand Final took place in Paris on August 1, 2026, and went the full seven games. Below is the completed playoff bracket, the winner's route, the top four, prize money, MVP, and a verified viewership snapshot—with the outdated predictions and promises of later updates removed."
             },
             {
               "type": "heading",
-              "id": "schedule",
-              "text": "MSC 2026 quarterfinal schedule in Moscow time"
+              "id": "final",
+              "text": "Team Spirit are the MSC 2026 champions"
             },
             {
               "type": "paragraph",
-              "text": "MOONTON published the match times in GMT+8. Below, they have been converted to Moscow time (MSK, UTC+3). Moscow is 5 hours behind, so 5 hours were subtracted from every time on the official posters."
+              "text": "Yangon Galacticos took three games in the Grand Final, but Team Spirit claimed the fourth win and the title—the official MLBB Esports result lists the series as 3:4. The champion earned $1,000,000 and 1,000 Esports World Cup Club Championship points; the runner-up received $500,000 and 750 points."
             },
             {
-              "type": "table",
-              "caption": "MSC 2026 quarterfinals — Moscow time",
-              "headers": [
-                "Date",
-                "Time (MSK)",
-                "Match"
-              ],
-              "rows": [
-                [
-                  "July 29",
-                  "13:00",
-                  "Yangon Galacticos — PRO Esports"
-                ],
-                [
-                  "July 29",
-                  "15:30",
-                  "Team Vitality — Team Falcons PH"
-                ],
-                [
-                  "July 30",
-                  "13:00",
-                  "Team Vamos — Team Spirit"
-                ],
-                [
-                  "July 30",
-                  "15:30",
-                  "Aurora Gaming — ONIC"
-                ]
-              ],
-              "note": "Times were checked against MOONTON’s official posters dated July 27, 2026. The organizer may change the schedule; if that happens, we will update both the table and the article’s modified date."
+              "type": "paragraph",
+              "text": "The official Russian-language MLBB Esports channel described Team Spirit as the first non-Asian team to win a world trophy. They are also the first MSC champion from outside Asia, with the EECA representative ending the event's long run of Southeast Asian winners."
+            },
+            {
+              "type": "callout",
+              "label": "Why the final was historic",
+              "text": "Team Spirit entered the deciding series after two 3:0 sweeps, but Yangon Galacticos forced the champion to play all seven games. They were the only team to take maps from Spirit in the playoffs."
             },
             {
               "type": "cta",
               "id": "rank-up",
-              "eyebrow": "Rank calculator",
-              "title": "How much does a rank boost cost?",
-              "text": "Choose your current rank and target—the price appears instantly.",
+              "eyebrow": "After MSC 2026",
+              "title": "Check your rank-up estimate",
+              "text": "Choose your current and target rank to see the calculator estimate instantly.",
               "button": "Calculate the price",
               "href": "/order.html?type=standard",
-              "note": "The estimate is free. The choice is yours.",
-              "position": "after-schedule"
+              "note": "No payment or commitment.",
+              "position": "after-final"
             },
             {
               "type": "heading",
-              "id": "bracket",
-              "text": "Full bracket: four matchups, eight teams"
+              "id": "results",
+              "text": "All MSC 2026 playoff results"
+            },
+            {
+              "type": "paragraph",
+              "text": "Eight teams played a single-elimination bracket with a separate third-place match. The table preserves the historical start times in Moscow time (MSK, UTC+3); Paris was one hour behind in CEST (UTC+2). Every date is in 2026, and every series score was checked against official MLBB Esports result posts."
+            },
+            {
+              "type": "table",
+              "caption": "MSC 2026 playoffs — final results and Moscow start times",
+              "headers": [
+                "Round",
+                "Date and time (MSK)",
+                "Match",
+                "Score"
+              ],
+              "rows": [
+                [
+                  "Quarterfinal",
+                  "July 29 · 13:00",
+                  "Yangon Galacticos — PRO Esports",
+                  "3:0"
+                ],
+                [
+                  "Quarterfinal",
+                  "July 29 · 15:30",
+                  "Team Vitality — Team Falcons PH",
+                  "1:3"
+                ],
+                [
+                  "Quarterfinal",
+                  "July 30 · 13:00",
+                  "Team Vamos — Team Spirit",
+                  "0:3"
+                ],
+                [
+                  "Quarterfinal",
+                  "July 30 · 15:30",
+                  "Aurora Gaming — ONIC ID",
+                  "2:3"
+                ],
+                [
+                  "Semifinal",
+                  "July 31 · 13:00",
+                  "Team Falcons PH — Yangon Galacticos",
+                  "2:3"
+                ],
+                [
+                  "Semifinal",
+                  "July 31 · 15:30",
+                  "Team Spirit — ONIC ID",
+                  "3:0"
+                ],
+                [
+                  "3rd-place match",
+                  "August 1 · 12:00",
+                  "Team Falcons PH — ONIC ID",
+                  "0:3"
+                ],
+                [
+                  "Grand Final",
+                  "August 1 · 15:00",
+                  "Yangon Galacticos — Team Spirit",
+                  "3:4"
+                ]
+              ],
+              "note": "The quarterfinals, semifinals, and third-place match were BO5; the Grand Final was BO7."
+            },
+            {
+              "type": "heading",
+              "id": "champion-path",
+              "text": "Team Spirit's title run: two sweeps and seven games in the final"
             },
             {
               "type": "matches",
-              "title": "MSC 2026 quarterfinal matchups",
+              "title": "Team Spirit's three playoff series",
               "matches": [
-                {
-                  "teamA": "Yangon Galacticos",
-                  "teamB": "PRO Esports",
-                  "meta": "July 29 · 13:00 MSK"
-                },
-                {
-                  "teamA": "Team Vitality",
-                  "teamB": "Team Falcons PH",
-                  "meta": "July 29 · 15:30 MSK"
-                },
                 {
                   "teamA": "Team Vamos",
                   "teamB": "Team Spirit",
-                  "meta": "July 30 · 13:00 MSK"
+                  "meta": "Quarterfinal · July 30 · 0:3"
                 },
                 {
-                  "teamA": "Aurora Gaming",
-                  "teamB": "ONIC",
-                  "meta": "July 30 · 15:30 MSK"
+                  "teamA": "Team Spirit",
+                  "teamB": "ONIC ID",
+                  "meta": "Semifinal · July 31 · 3:0"
+                },
+                {
+                  "teamA": "Yangon Galacticos",
+                  "teamB": "Team Spirit",
+                  "meta": "Grand Final · August 1 · 3:4"
                 }
               ]
             },
             {
               "type": "paragraph",
-              "text": "Every quarterfinal and semifinal uses a BO5 format: a team must win three games to take the series. The Grand Final on August 1 will be BO7, with four wins required to become champion."
+              "text": "Team Spirit finished the playoffs with ten map wins and three map losses. The 10:3 record and +7 differential are our calculation from the three official series scores. The team did not drop a map before the final; all three losses came against Yangon Galacticos."
             },
             {
               "type": "callout",
-              "label": "Why these teams were paired",
-              "text": "The highest-placed teams in each group earned the right to choose their opponent. Pick order was determined by game differential. Each favorite selected a familiar opponent it had already beaten in the group stage."
+              "label": "What the scores show",
+              "text": "Yangon Galacticos gave the champion its strongest resistance. The Myanmar team beat PRO Esports 3:0 and Team Falcons PH 3:2 before taking the deciding BO7 series to game seven."
             },
             {
               "type": "heading",
-              "id": "upsets",
-              "text": "Aurora surprised Group B as two favorites went out"
+              "id": "placements",
+              "text": "Top four, prize money, and MVP"
+            },
+            {
+              "type": "table",
+              "caption": "MSC 2026 top four",
+              "headers": [
+                "Place",
+                "Team",
+                "Prize money",
+                "EWC points"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "Team Spirit",
+                  "$1,000,000",
+                  "1,000"
+                ],
+                [
+                  "2",
+                  "Yangon Galacticos",
+                  "$500,000",
+                  "750"
+                ],
+                [
+                  "3",
+                  "ONIC ID",
+                  "$250,000",
+                  "500"
+                ],
+                [
+                  "4",
+                  "Team Falcons PH",
+                  "$150,000",
+                  "300"
+                ]
+              ],
+              "note": "The official MLBB Esports final posts confirm the top-four placements, payouts, and Club Championship points."
             },
             {
               "type": "paragraph",
-              "text": "Aurora Gaming’s run was the defining story of Group B. The team first defeated defending champion Team Liquid PH, then beat ONIC to finish first. TLPH never recovered from its opening loss and exited the tournament in its second match."
-            },
-            {
-              "type": "paragraph",
-              "text": "ONIC, meanwhile, fought back through the lower side of the group, eliminating Selangor Red Giants to claim a playoff spot. That makes Aurora versus ONIC a rematch—but this time, there is no room for error."
+              "text": "The official rulebook distributes $3,000,000 among the teams and lists a separate $25,000 MVP award. Team Spirit's official channel named KidBomba as the MVP recipient. That bonus is distinct from the team's prize money and appears on its own line in the rulebook."
             },
             {
               "type": "heading",
               "id": "viewership",
-              "text": "MSC has already passed two million concurrent viewers"
+              "text": "MSC 2026 viewership peaked outside the final"
             },
             {
               "type": "paragraph",
-              "text": "According to Esports Charts, the group stage peaked at 2,010,159 concurrent viewers during ONIC versus SRG. That figure was current at publication time; with the playoffs and Grand Final still to come, the tournament’s final peak could climb higher."
+              "text": "According to Esports Charts data current after the August 1 final, the tournament peaked at 2,888,127 concurrent viewers. The most-watched series was the ONIC ID versus Aurora Gaming quarterfinal; the Yangon Galacticos versus Team Spirit final peaked at 1,871,918. These are viewers across tracked platforms, not unique users."
+            },
+            {
+              "type": "table",
+              "caption": "Provisionally finalized Esports Charts data as of August 1, 2026",
+              "headers": [
+                "Metric",
+                "Value",
+                "Context"
+              ],
+              "rows": [
+                [
+                  "Peak viewers",
+                  "2,888,127",
+                  "ONIC ID — Aurora Gaming"
+                ],
+                [
+                  "Grand Final peak",
+                  "1,871,918",
+                  "Yangon Galacticos — Team Spirit"
+                ],
+                [
+                  "Hours watched",
+                  "45,139,801",
+                  "All tracked broadcasts"
+                ],
+                [
+                  "Average viewers",
+                  "509,575",
+                  "Across 88h 35m of airtime"
+                ]
+              ],
+              "note": "Esports Charts may make additional adjustments after its initial post-event moderation."
             },
             {
               "type": "heading",
-              "id": "watch",
-              "text": "Where to watch MSC 2026"
+              "id": "takeaways",
+              "text": "Three takeaways from the completed bracket"
             },
             {
               "type": "paragraph",
-              "text": "MLBB Esports publishes the official English-language broadcasts and match replays. Check the stream listing before each series begins, as the organizer posts the latest start time and commentary lineup there."
-            },
-            {
-              "type": "linkCard",
-              "label": "Official broadcast",
-              "title": "MLBB Esports on YouTube",
-              "description": "Live streams, highlights, and full match replays",
-              "href": "https://www.youtube.com/c/MLBBeSports"
-            },
-            {
-              "type": "heading",
-              "id": "updates",
-              "text": "What we will update after the quarterfinals"
+              "text": "The points below are editorial observations based only on official scores; they do not assign unverified reasons for any team's wins or losses."
             },
             {
               "type": "list",
               "items": [
-                "Add the score of every series played on July 29 and 30.",
-                "Update the semifinal matchups once they are confirmed.",
-                "Record the Grand Final result on August 1 without changing this page’s URL."
+                "Team Spirit were the only team to win both their quarterfinal and semifinal by 3:0.",
+                "Yangon Galacticos went from a quarterfinal sweep to the deciding seventh game of the Grand Final.",
+                "ONIC ID recovered from a 0:3 semifinal defeat and beat Team Falcons PH by the same score in the bronze match."
               ]
             },
             {
+              "type": "heading",
+              "id": "watch",
+              "text": "Where to watch MSC 2026 replays"
+            },
+            {
               "type": "paragraph",
-              "text": "Bookmark this page: the results will appear here. Keeping one permanent URL preserves the tournament context, while the modified date shows when the schedule and bracket were last verified."
+              "text": "The tournament is over, so replays, highlights, and full match days are more useful than links to upcoming streams. The official MLBB Esports channel publishes them, while the dates and scores in this article are now fixed as final results."
+            },
+            {
+              "type": "linkCard",
+              "label": "Official replays",
+              "title": "MLBB Esports on YouTube",
+              "description": "Full broadcasts, highlights, and MSC 2026 match replays",
+              "href": "https://www.youtube.com/c/MLBBeSports"
             }
           ],
-          "editorialNote": "The matchups and factual details come from MOONTON publications and official tournament posters. Times were converted manually from GMT+8 to Moscow time (MSK, UTC+3). The audience figure is attributed to Esports Charts and reflects the data available at publication time. No official artwork was copied: a separate editorial illustration was created for this article."
+          "editorialNote": "Updated on August 1, 2026, after the tournament ended: the schedule was replaced by the completed bracket, all eight series, the top four, prize money, and MVP. Scores and placements were checked against official MLBB Esports posts; the format and prize table come from the official rulebook. The 10–3 map record and +7 differential are editorial calculations from Team Spirit's three official series scores. Audience figures are an Esports Charts snapshot from August 1 and may receive further service-side adjustments. The existing localized hero and news-card preview remain unchanged at the publisher's request."
         }
       },
       "sources": [
         {
-          "title": "MLBB Mid Season Cup Group Stage concludes; the Knockout Stage beckons",
-          "publisher": "MOONTON Games",
-          "url": "https://en.moonton.com/news/359.html",
-          "accessed": "2026-07-27"
+          "title": "Mobile Legends: Bang Bang Mid Season Cup — Official Rules",
+          "publisher": "Esports World Cup / MOONTON Games",
+          "url": "https://cdn.esportsworldcup.com/resources/uploads/MSC_at_EWC_26_Rulebook_c5937d8775.pdf",
+          "accessed": "2026-08-01"
         },
         {
-          "title": "MSC 2026 Group Stage and Knockout Stage format",
+          "title": "Team Falcons MENA soars into the Mobile Legends: Bang Bang Mid Season Cup at the 2026 Esports World Cup after Wild Card triumph; the Main Stage awaits!",
           "publisher": "MOONTON Games",
           "url": "https://en.moonton.com/news/355.html",
-          "accessed": "2026-07-27"
+          "accessed": "2026-08-01"
         },
         {
-          "title": "MLBB Mid Season Cup 2026 viewership statistics",
+          "title": "EWC26 Media Guide",
+          "publisher": "Esports World Cup",
+          "url": "https://cdn.esportsworldcup.com/resources/uploads/EWC_26_Media_Guide_short_d6f73c0f8a.pdf",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Yangon Galacticos 3:0 PRO Esports — MSC 2026 quarterfinal",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10001",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Team Vitality 1:3 Team Falcons PH — MSC 2026 quarterfinal",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10009",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Team Vamos 0:3 Team Spirit — MSC 2026 quarterfinal",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10027",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Aurora Gaming 2:3 ONIC ID — MSC 2026 quarterfinal",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10036",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Team Falcons PH 2:3 Yangon Galacticos — MSC 2026 semifinal",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10060",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Team Spirit 3:0 ONIC ID — MSC 2026 semifinal",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10071",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Team Falcons PH 0:3 ONIC ID — MSC 2026 third-place match",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10087",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "Yangon Galacticos 3:4 Team Spirit — MSC 2026 Grand Final",
+          "publisher": "MLBB Esports",
+          "url": "https://t.me/mlbbesports/10104",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "KidBomba — MSC 2026 MVP",
+          "publisher": "Team Spirit MLBB",
+          "url": "https://t.me/TSpiritMLBB/5025",
+          "accessed": "2026-08-01"
+        },
+        {
+          "title": "MLBB Mid Season Cup 2026 / Statistics",
           "publisher": "Esports Charts",
           "url": "https://escharts.com/tournaments/mobile-legends/mlbb-mid-season-cup-2026",
-          "accessed": "2026-07-27"
+          "accessed": "2026-08-01"
         }
       ],
-      "editorialNote": "Факты и пары взяты из публикаций и турнирных афиш MOONTON. Время вручную переведено из GMT+8 в МСК (UTC+3). Показатель аудитории атрибутирован Esports Charts и зафиксирован на момент публикации. Официальные изображения не копировались: для статьи создана отдельная редакционная иллюстрация."
+      "editorialNote": "Обновлено 1 августа 2026 года после завершения турнира: расписание заменено итоговой сеткой, добавлены все восемь серий, топ-4, призовые и MVP. Счёт и места сверены с официальными публикациями MLBB Esports; формат и призовая сетка — с официальным регламентом. Итог 10:3 по картам и разница +7 — расчёт редакции по трём сериям Team Spirit. Аудиторные показатели — снимок Esports Charts на 1 августа и могут быть дополнительно скорректированы сервисом. Существующие локализованные обложка и превью карточки сохранены без изменений по запросу владельца."
     }
   ]
 }

@@ -1264,7 +1264,7 @@ function renderScripts() {
   return `
   <script defer src="/js/consent.js?v=3"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=4"></script>`;
+  <script defer src="/js/news.js?v=5"></script>`;
 }
 
 function renderCard(post, { featured = false, eager = false, href = null, locale = 'ru' } = {}) {
@@ -1498,7 +1498,7 @@ function renderBlock(block, locale = 'ru') {
       </aside>`;
     case 'table':
       return `
-      <div class="article-table-wrap" role="region" aria-label="${escapeHtml(block.caption)}" tabindex="0">
+      <div class="article-table-wrap" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>
         <table>
           <caption>${escapeHtml(block.caption)}</caption>
           <thead><tr>${block.headers.map((header) => `<th scope="col">${escapeHtml(header)}</th>`).join('')}</tr></thead>
@@ -1545,7 +1545,7 @@ function renderBlock(block, locale = 'ru') {
           <span>${escapeHtml(block.text)}</span>
         </div>
         <div class="rank-cta__action">
-          <a href="${escapeHtml(siteHref(block.href, locale))}" data-news-cta data-cta-position="${escapeHtml(block.position)}">
+          <a href="${escapeHtml(block.href)}" data-news-cta data-cta-position="${escapeHtml(block.position)}">
             <span class="rank-cta__button-label">${escapeHtml(block.button)}</span>
             <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
@@ -1723,7 +1723,7 @@ ${GENERATED_MARKER}
           </div>
         </aside>
 
-        <div class="article-content" id="article-content">
+        <div class="article-content" id="article-content" tabindex="-1">
           ${post.blocks.map((block) => renderBlock(block, locale)).join('\n')}
 
           <section class="article-sources" id="sources">
@@ -2196,6 +2196,15 @@ async function validateGenerated() {
       }
       if (!html.includes('data-article-toc')) {
         throw new Error(`${label}: отсутствует навигация по материалу.`);
+      }
+      if (!html.includes('<div class="article-content" id="article-content" tabindex="-1">')) {
+        throw new Error(`${label}: skip-link ведёт на нефокусируемое содержимое статьи.`);
+      }
+      if (!html.includes('href="/order.html?type=standard" data-news-cta')) {
+        throw new Error(`${label}: CTA должен сохранять общий target /order.html?type=standard.`);
+      }
+      if (/class="article-table-wrap[^"]*"[^>]*tabindex="0"/.test(html)) {
+        throw new Error(`${label}: таблица не должна быть постоянной лишней Tab-остановкой.`);
       }
       if (locale === 'en' && /[А-Яа-яЁё]/u.test(html)) {
         throw new Error(`${label}: в английском HTML обнаружена кириллица.`);

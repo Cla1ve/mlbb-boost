@@ -405,6 +405,29 @@
     update();
   }
 
+  function initScrollableTables() {
+    const regions = Array.from(document.querySelectorAll('[data-scroll-region]'));
+    if (!regions.length) return;
+
+    let ticking = false;
+    const sync = () => {
+      regions.forEach((region) => {
+        const scrollable = window.matchMedia('(min-width: 701px)').matches &&
+          region.scrollWidth > region.clientWidth + 1;
+        if (scrollable) region.setAttribute('tabindex', '0');
+        else region.removeAttribute('tabindex');
+      });
+      ticking = false;
+    };
+
+    window.addEventListener('resize', () => {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(sync);
+    }, { passive: true });
+    sync();
+  }
+
   function initTracking() {
     const article = document.querySelector('.article-page article');
     const slug = window.location.pathname.split('/').filter(Boolean).pop() || 'news-index';
@@ -435,6 +458,7 @@
     initNewsListing();
     initReadingProgress();
     initTableOfContents();
+    initScrollableTables();
     initTracking();
   };
 
