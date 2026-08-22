@@ -691,6 +691,479 @@
         }
       ],
       "editorialNote": "Обновлено 1 августа 2026 года после завершения турнира: расписание заменено итоговой сеткой, добавлены все восемь серий, топ-4, призовые и MVP. Счёт и места сверены с официальными публикациями MLBB Esports; формат и призовая сетка — с официальным регламентом. Итог 10:3 по картам и разница +7 — расчёт редакции по трём сериям Team Spirit. Аудиторные показатели — снимок Esports Charts на 1 августа и могут быть дополнительно скорректированы сервисом. Существующие локализованные обложка и превью карточки сохранены без изменений по запросу владельца."
+    },
+    {
+      "slug": "m8-istanbul-world-road",
+      "status": "published",
+      "title": "M8 по MLBB: где пройдёт чемпионат мира и как команды попадут в Стамбул",
+      "seoTitle": "M8 MLBB: Стамбул, отборы и путь на чемпионат мира",
+      "description": "M8 World Championship пройдёт через Wild Card в Бангкоке и Main Stage в Стамбуле. Разбираем подтверждённые отборы MCT SEA, EA и статус EECA/MCC.",
+      "excerpt": "Стамбул примет Main Stage M8, Бангкок — Wild Card. Самый подробный подтверждённый маршрут уже есть у MCT SEA; для MCC и других регионов ещё ждём квоты.",
+      "category": "Киберспорт",
+      "categoryKey": "esports",
+      "tags": [
+        "M8 World Championship",
+        "Mobile Legends",
+        "Киберспорт",
+        "Стамбул",
+        "MCC",
+        "MCT"
+      ],
+      "datePublished": "2026-08-22T23:31:02+03:00",
+      "dateModified": "2026-08-22T23:31:02+03:00",
+      "hero": {
+        "src": "/images/news/m8-istanbul-world-road-ru.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/m8-istanbul-world-road-ru-768.webp 768w, /images/news/m8-istanbul-world-road-ru-1200.webp 1200w, /images/news/m8-istanbul-world-road-ru-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Постер M8 2027 с маршрутом Бангкок — Стамбул и кристаллическим трофеем в футуристической арене",
+        "caption": "Оригинальный постер Boost MLBB к гиду по квалификации M8.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen",
+          "created": "2026-08-22",
+          "rights": "Оригинальный локализованный редакционный постер создан для Boost MLBB на основе собственной сгенерированной сцены и прежнего собственного макета сайта; без официальных логотипов, персонажей и сторонних товарных знаков.",
+          "prompt": "Use case: text-localization and precise layout edit. Asset type: Russian 16:9 editorial hero poster for a Boost MLBB news article. Image 1 is the original M8 scene to preserve as the main visual foundation and edit target. Image 2 is a previous Boost MLBB poster used only as a reference for its left-text/right-visual hierarchy, dark navy palette, emerald/white text treatment, and editorial spacing; do not copy its bracket geometry or exact scene. Transform Image 1 into a polished Russian M8 news poster: recompose the trophy and route scene toward the right 55–60% and create calm near-black space on the left. Render exactly once and no other text: “M8 2027”, “ПУТЬ В СТАМБУЛ”, “БАНГКОК · СТАМБУЛ”. Use tall condensed premium esports uppercase; luminous emerald for “M8 2027”, dominant white for “ПУТЬ В СТАМБУЛ”, and a smaller route line with “БАНГКОК” in emerald and the rest off-white. Keep all lettering inside x=4–42% and y=22–82%, readable at 350 px, with exact Cyrillic spelling. Preserve the crystalline trophy, converging luminous routes, deep navy arena, restrained cyan, emerald accents and distant warm-gold gateway. No official logos, characters, skins, team or sponsor marks, flags, maps, city landmarks, UI, badges, watermarks or unrequested glyphs. Avoid misspelling, duplicated words, tiny text, clutter, copied brackets, cropped focal subjects, muddy shadows and artifacts. Output one publication-ready 1600×900-or-larger Russian poster."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Главное за 30 секунд",
+          "items": [
+            "Main Stage M8 пройдёт в Стамбуле, Türkiye; Wild Card — в Бангкоке, Таиланд. Точные игровые дни M8 ещё не названы.",
+            "Первый полностью опубликованный маршрут M8 — MCT SEA: группы 9–10 декабря, плей-офф 11–13 декабря 2026 года.",
+            "Топ-2 MCT SEA получит прямые места в Main Stage; 3-е и 4-е места уйдут в Wild Card, откуда в Main Stage выйдут три команды.",
+            "Для MCT EECA, включая путь команд MCC, а также MCT AMER и EMEA точные квоты и расписания пока не раскрыты."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Короткий ответ: M8 World Championship впервые перенесёт главную сцену M Series в Европу — в Стамбул, Türkiye; стадия Wild Card состоится в Бангкоке, Таиланд. На 21 августа 2026 года MOONTON Games уже подробно опубликовала путь через MCT Southeast Asia, обозначила следующий турнир Восточной Азии в Улан-Баторе и подтвердила, что квалификационные фазы MCT EECA, EMEA и Americas будут раскрыты позже. Поэтому ниже — не догадка о будущих слотах, а карта того, что уже можно планировать командам и болельщикам."
+        },
+        {
+          "type": "heading",
+          "id": "locations",
+          "text": "Где пройдёт M8 и что известно о датах"
+        },
+        {
+          "type": "table",
+          "caption": "M8 World Championship: подтверждённые точки маршрута",
+          "headers": [
+            "Этап",
+            "Локация",
+            "Что подтверждено",
+            "Чего ещё нет"
+          ],
+          "rows": [
+            [
+              "Wild Card",
+              "Бангкок, Таиланд",
+              "Стадия состоится в Таиланде; из неё в Main Stage пройдут три команды по пути MCT SEA.",
+              "Точные даты, полный состав и общий формат Wild Card."
+            ],
+            [
+              "Main Stage / Finals",
+              "Стамбул, Türkiye",
+              "M8 станет первой M Series на европейской сцене.",
+              "Точные игровые дни, арена, сетка и число участников."
+            ]
+          ],
+          "note": "В официальных сообщениях на момент проверки указаны города и роль этапов, но не опубликован полный календарь M8."
+        },
+        {
+          "type": "paragraph",
+          "text": "Важно не смешивать два календаря. Отборы идут во второй половине 2026 года, а сам M8 относится к началу 2027-го. Именно поэтому декабрьские даты MCT SEA — это даты квалификации, а не даты матчей в Стамбуле. Для зрителей из России и стран EECA сейчас разумнее следить за анонсами конкретных MCT-турниров: без опубликованного времени начала переводить будущие матчи в МСК было бы выдумкой."
+        },
+        {
+          "type": "heading",
+          "id": "sea-route",
+          "text": "Самый ясный путь: MCT SEA в декабре"
+        },
+        {
+          "type": "paragraph",
+          "text": "MCT SEA объединяет 12 команд из 11 суверенных стран Юго-Восточной Азии. Это не замена всем национальным лигам, а отдельный международный мост для сильных не-франшизных составов. Внутри него есть вход через MSL Myanmar, MPL Cambodia, MPL Singapore, локальные квалификации Вьетнама, Тимора-Лесте, Брунея и Лаоса. Таиланд получит два места: обычное и дополнительное как страна-хозяйка первого MCT SEA. Чемпионы MDL Philippines, MDL Indonesia и MAL Malaysia составят отдельную Open League Qualifier Group и разыграют один выход в плей-офф."
+        },
+        {
+          "type": "table",
+          "caption": "MCT SEA — расписание и цена каждого места",
+          "headers": [
+            "Дата 2026",
+            "Стадия",
+            "Что решается"
+          ],
+          "rows": [
+            [
+              "9–10 декабря",
+              "Group Stage",
+              "Первые два места групп A, B и C идут в плей-офф; третьи места получают шанс через Last Chance Qualifier."
+            ],
+            [
+              "10 декабря",
+              "Last Chance Qualifier",
+              "Один матч BO1 за последний слот в плей-офф среди третьих мест групп A, B и C."
+            ],
+            [
+              "11–13 декабря",
+              "Knockout Playoffs",
+              "1–2-е места: прямой Main Stage M8 в Стамбуле; 3–4-е: Wild Card M8 в Бангкоке."
+            ]
+          ],
+          "note": "Из Wild Card в Main Stage пройдут три команды. Это подтверждённое правило для маршрута MCT SEA, а не универсальная квота для каждого региона."
+        },
+        {
+          "type": "callout",
+          "label": "Почему это важнее одной региональной лиги",
+          "text": "MCT SEA показывает новую логику M8: место получают не за название региона, а за конкретный путь. Для открытых и развивающих лиг это реальный шанс выйти на мировую сцену через отдельную квалификацию, а не только через MPL."
+        },
+        {
+          "type": "cta",
+          "id": "m8-rank-plan",
+          "eyebrow": "Твой путь к Mythic",
+          "title": "Проверь цену подъёма ранга",
+          "text": "Выбери текущий и желаемый ранг — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-sea-route"
+        },
+        {
+          "type": "heading",
+          "id": "regional-status",
+          "text": "Восточная Азия, Америки, EECA и EMEA: что подтверждено, а что ждать"
+        },
+        {
+          "type": "table",
+          "caption": "Статус региональных дорог на 21 августа 2026 года",
+          "headers": [
+            "Регион / контур",
+            "Уже подтверждено",
+            "Статус"
+          ],
+          "rows": [
+            [
+              "East Asia (Китай, Монголия, Япония, Корея)",
+              "Следующий MCT EA x ESN пройдёт в Улан-Баторе 31 октября; MOONTON называет его дорогой к M8.",
+              "Детальные участники, формат и квоты ещё не опубликованы."
+            ],
+            [
+              "Americas (Северная, Центральная и Латинская Америка, Бразилия)",
+              "MCT AMER входит в пяти-регионную структуру и должен продолжить M8-цикл позже.",
+              "Нет опубликованных дат, сетки или числа мест."
+            ],
+            [
+              "EECA / MCC (Восточная Европа и Центральная Азия)",
+              "MCT EECA прямо назван среди следующих фаз квалификации; победа Team Spirit на MSC усилила статус региона.",
+              "Нет подтверждённого правила, что три команды MCC получают путёвки на M8."
+            ],
+            [
+              "EMEA (Европа, Ближний Восток и Африка)",
+              "MCT EMEA входит в тот же следующий пакет M8-квалификаций.",
+              "Нет опубликованных дат, слотов и отбора."
+            ],
+            [
+              "Франшизные MPL и партнёрские лиги",
+              "Они существуют параллельно с MCT в глобальной системе MLBB Esports.",
+              "Их конкретные маршруты и распределение мест M8 надо ждать в регламентах организатора."
+            ]
+          ],
+          "note": "Статусы «нет опубликовано» означают отсутствие подтверждения в текущем официальном наборе источников, а не отсутствие будущего отбора."
+        },
+        {
+          "type": "heading",
+          "id": "eeca-mcc",
+          "text": "Что это значит для России, EECA и MCC"
+        },
+        {
+          "type": "paragraph",
+          "text": "Россия и соседние страны входят в интересующий читателей контур EECA, но сейчас важно не подменять надежду фактом. После исторической победы Team Spirit на MSC 2026 регион действительно получил мощный международный аргумент: MOONTON прямо называет команду первым чемпионом крупного международного MLBB-турнира за пределами Юго-Восточной Азии. Однако эта победа не публикует регламент M8 автоматически. В проверенных первичных источниках нет подтверждения формулы «три команды из MCC получат M8». Пока MOONTON не выпустит правила MCT EECA или MCC, корректная позиция такова: путь будет, но число мест, этапы и способ отбора неизвестны."
+        },
+        {
+          "type": "callout",
+          "label": "Как читать следующий анонс",
+          "text": "Ищите четыре вещи: название турнира, дату, число слотов в Main Stage и Wild Card, а также правило передачи слота при повторной квалификации. Без всех четырёх деталей новость о «путёвке на M8» остаётся неполной."
+        },
+        {
+          "type": "heading",
+          "id": "watchlist",
+          "text": "Что отслеживать дальше"
+        },
+        {
+          "type": "list",
+          "items": [
+            "MCT EA x ESN в Улан-Баторе 31 октября: организатор уже обещал отдельно раскрыть состав, формат и квалификационные правила.",
+            "Официальные анонсы MCT EECA, MCT EMEA и MCT AMER: именно в них появятся региональные даты и квоты M8.",
+            "Полный регламент M8: даты Бангкока и Стамбула, список участников, формат Wild Card и Main Stage, призовой фонд.",
+            "Итоги MCT SEA 11–13 декабря: они назовут первые две команды Main Stage и две команды Wild Card по этому маршруту."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Этот материал намеренно отделяет подтверждённые маршруты от ожиданий. Как только появится официальный регламент по MCC/EECA или другим регионам, его стоит добавлять в ту же страницу, сохраняя URL: так читатель увидит не новую статью с противоречащими цифрами, а прозрачную историю обновления M8."
+        },
+        {
+          "type": "linkCard",
+          "label": "Официальный источник",
+          "title": "MOONTON: MCT SEA и подтверждённый путь к M8",
+          "description": "Полный анонс с календарём MCT SEA, слотами Main Stage и Wild Card",
+          "href": "https://en.moonton.com/news/362.html"
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "M8 MLBB: Where Worlds Will Be Held and How Teams Can Reach Istanbul",
+          "seoTitle": "M8 MLBB: Istanbul, Qualifiers, and the Road to Worlds",
+          "description": "M8 World Championship will run through a Bangkok Wild Card and an Istanbul Main Stage. Here is the confirmed MCT SEA route, EA status, and what EECA/MCC still awaits.",
+          "excerpt": "Istanbul hosts the M8 Main Stage and Bangkok hosts Wild Card. MCT SEA already has a detailed route; MCC and other regional quotas are still pending.",
+          "category": "Esports",
+          "tags": [
+            "M8 World Championship",
+            "Mobile Legends",
+            "Esports",
+            "Istanbul",
+            "MCC",
+            "MCT"
+          ],
+          "hero": {
+            "src": "/images/news/m8-istanbul-world-road-en.jpg",
+            "width": 1600,
+            "height": 900,
+            "webpSrcset": "/images/news/m8-istanbul-world-road-en-768.webp 768w, /images/news/m8-istanbul-world-road-en-1200.webp 1200w, /images/news/m8-istanbul-world-road-en-1600.webp 1600w",
+            "focalPoint": "50% 50%",
+            "cardFit": "contain",
+            "alt": "M8 2027 Road to Istanbul poster with a Bangkok–Istanbul route and a crystalline trophy in a futuristic arena",
+            "caption": "An original Boost MLBB poster for this M8 qualification guide.",
+            "provenance": {
+              "type": "generated",
+              "creator": "OpenAI ImageGen",
+              "created": "2026-08-22",
+              "rights": "Original localized editorial poster created for Boost MLBB from its own generated scene and previous in-house site layout, without official logos, characters, or third-party trademarks.",
+              "prompt": "Use case: text-localization. Asset type: English 16:9 editorial hero poster for the paired Boost MLBB news article. Image 1 is the approved Russian M8 poster and the edit target. Replace only the Russian poster lettering with the exact English wording, exactly once and with no other text: “M8 2027”, “ROAD TO ISTANBUL”, “BANGKOK · ISTANBUL”. Preserve the entire composition, trophy, route geometry, lighting, deep-navy background, emerald/cyan/gold palette, text hierarchy, typography style, text-block position, margins, and visual balance. Keep “M8 2027” luminous emerald at upper-left; set “ROAD TO ISTANBUL” in the same tall condensed premium esports uppercase style, split into balanced lines if needed; set the small route line with “BANGKOK” in emerald and the rest off-white. All English letters must be crisp, correctly spelled, readable at 350 px and inside the existing left text area. Change only the lettering; no Russian letters may remain. Do not add logos, badges, watermarks, flags, maps, landmarks, UI, sponsor marks, extra words, numbers or glyphs. Avoid misspelling, duplicated text, mixed languages, tiny type, overlap, arena changes, cropped subjects and artifacts. Output one publication-ready 1600×900-or-larger English poster."
+            }
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "The 30-second answer",
+              "items": [
+                "The Main Stage M8 will be in Istanbul, Türkiye, while the Wild Card will be in Bangkok, Thailand. Exact M8 match dates have not been announced.",
+                "The first fully published M8 route is MCT SEA: groups run on December 9–10 and playoffs on December 11–13, 2026.",
+                "MCT SEA's Top-2 qualify directly for Main Stage; place 3 and place 4 go to Wild Card, where three teams reach Main Stage.",
+                "Exact quotas and schedules for MCT EECA, including the MCC route, plus MCT AMER and EMEA have not yet been released."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The short answer is that M8 World Championship will bring the M Series' main stage to Europe for the first time, in Istanbul, Türkiye, while its Wild Card stage will be in Bangkok, Thailand. As of August 21, 2026, MOONTON Games has published a detailed MCT Southeast Asia route, named the next East Asia tournament in Ulaanbaatar, and confirmed that MCT EECA, EMEA, and Americas qualification phases will be announced later. This is therefore a map of what teams and fans can plan around now—not a guess at future slots."
+            },
+            {
+              "type": "heading",
+              "id": "locations",
+              "text": "Where M8 will be held and what we know about dates"
+            },
+            {
+              "type": "table",
+              "caption": "M8 World Championship: confirmed stops on the route",
+              "headers": [
+                "Stage",
+                "Location",
+                "Confirmed",
+                "Still unannounced"
+              ],
+              "rows": [
+                [
+                  "Wild Card",
+                  "Bangkok, Thailand",
+                  "The stage will take place in Thailand; three teams will reach Main Stage through the MCT SEA route.",
+                  "Exact dates, the full field, and the overall Wild Card format."
+                ],
+                [
+                  "Main Stage / Finals",
+                  "Istanbul, Türkiye",
+                  "M8 will be the first M Series on a European stage.",
+                  "Exact match days, venue, bracket, and participant count."
+                ]
+              ],
+              "note": "The official announcements specify cities and stage roles at the time of checking, but not the complete M8 calendar."
+            },
+            {
+              "type": "paragraph",
+              "text": "It is important not to merge two calendars. Qualifiers take place in the second half of 2026, while M8 itself belongs to early 2027. December MCT SEA dates are qualification dates, not Istanbul match dates. For fans in Russia and across EECA, the sensible next step is to follow specific MCT announcements: without a published start time, converting a future match into Moscow time would be invented information."
+            },
+            {
+              "type": "heading",
+              "id": "sea-route",
+              "text": "The clearest route: MCT SEA in December"
+            },
+            {
+              "type": "paragraph",
+              "text": "MCT SEA brings together 12 teams from 11 sovereign Southeast Asian countries. It does not replace every domestic league; it is a cross-regional bridge for strong non-franchised rosters. Entry points include MSL Myanmar, MPL Cambodia, MPL Singapore, and local qualifiers in Vietnam, Timor-Leste, Brunei, and Laos. Thailand receives two berths: its regular berth plus a host-country berth for the first MCT SEA. The MDL Philippines, MDL Indonesia, and MAL Malaysia champions make up a separate Open League Qualifier Group and play for one playoff berth."
+            },
+            {
+              "type": "table",
+              "caption": "MCT SEA — schedule and what each finish earns",
+              "headers": [
+                "2026 date",
+                "Stage",
+                "What is decided"
+              ],
+              "rows": [
+                [
+                  "December 9–10",
+                  "Group Stage",
+                  "The top two from Groups A, B, and C reach playoffs; third places get a Last Chance Qualifier opportunity."
+                ],
+                [
+                  "December 10",
+                  "Last Chance Qualifier",
+                  "One BO1 match for the final playoff spot among the third-place teams from Groups A, B, and C."
+                ],
+                [
+                  "December 11–13",
+                  "Knockout Playoffs",
+                  "Places 1–2: direct Main Stage M8 in Istanbul; places 3–4: Wild Card M8 in Bangkok."
+                ]
+              ],
+              "note": "Three teams advance from Wild Card to Main Stage. This is a confirmed MCT SEA route rule, not a universal quota for every region."
+            },
+            {
+              "type": "callout",
+              "label": "Why this matters beyond one league",
+              "text": "MCT SEA shows M8's new logic: a place comes through a defined route, not simply a region label. Open and developing leagues gain a real route to the world stage through dedicated qualification, not only through an MPL."
+            },
+            {
+              "type": "cta",
+              "id": "m8-rank-plan",
+              "eyebrow": "Your Mythic route",
+              "title": "Check your rank-up estimate",
+              "text": "Choose your current and target rank to see the calculator estimate instantly.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-sea-route"
+            },
+            {
+              "type": "heading",
+              "id": "regional-status",
+              "text": "East Asia, Americas, EECA, and EMEA: what is confirmed and what awaits"
+            },
+            {
+              "type": "table",
+              "caption": "Regional-route status as of August 21, 2026",
+              "headers": [
+                "Region / circuit",
+                "Already confirmed",
+                "Status"
+              ],
+              "rows": [
+                [
+                  "East Asia (China, Mongolia, Japan, Korea)",
+                  "The next MCT EA x ESN will be in Ulaanbaatar on October 31; MOONTON calls it a route toward M8 qualification.",
+                  "Detailed participants, format, and quotas are still unpublished."
+                ],
+                [
+                  "Americas (North, Central, and Latin America, Brazil)",
+                  "MCT AMER is part of the five-region structure and is due to continue the M8 cycle later.",
+                  "No published dates, bracket, or number of places."
+                ],
+                [
+                  "EECA / MCC (Eastern Europe and Central Asia)",
+                  "MCT EECA is explicitly named among the next qualification phases; Team Spirit's MSC win strengthened the region's profile.",
+                  "No confirmed rule says three MCC teams receive M8 berths."
+                ],
+                [
+                  "EMEA (Europe, Middle East, and Africa)",
+                  "MCT EMEA is part of the same next set of M8 qualification circuits.",
+                  "No published dates, slots, or selection format."
+                ],
+                [
+                  "Franchised MPL and partner leagues",
+                  "They operate alongside MCT within the global MLBB Esports system.",
+                  "Their specific M8 routes and allocation must await organizer regulations."
+                ]
+              ],
+              "note": "“Not published” means no confirmation was found in the current official source set; it does not mean no future qualifier will exist."
+            },
+            {
+              "type": "heading",
+              "id": "eeca-mcc",
+              "text": "What this means for Russia, EECA, and MCC"
+            },
+            {
+              "type": "paragraph",
+              "text": "Russia and neighboring countries are part of the EECA story that matters to this article's readers, but hope must not be presented as fact. Team Spirit's historic MSC 2026 win gives the region a powerful international marker: MOONTON describes the team as the first champion from outside Southeast Asia to win an official international MLBB major. That win does not publish M8 regulations automatically, however. The primary sources checked for this article do not confirm a formula under which three MCC teams receive M8 places. Until MOONTON releases MCT EECA or MCC rules, the accurate position is simple: there will be a route, but its number of slots, stages, and selection method are unknown."
+            },
+            {
+              "type": "callout",
+              "label": "How to read the next announcement",
+              "text": "Look for four things: the tournament name, date, Main Stage and Wild Card slot counts, and the rule for passing down a slot after repeat qualification. Without all four, a report of an “M8 berth” is incomplete."
+            },
+            {
+              "type": "heading",
+              "id": "watchlist",
+              "text": "What to watch next"
+            },
+            {
+              "type": "list",
+              "items": [
+                "MCT EA x ESN in Ulaanbaatar on October 31: the organizer has promised separate participant, format, and qualification details.",
+                "Official MCT EECA, MCT EMEA, and MCT AMER announcements: those will set the regional M8 dates and quotas.",
+                "The full M8 rules: Bangkok and Istanbul dates, participant list, Wild Card and Main Stage format, and prize pool.",
+                "MCT SEA results on December 11–13: they will name the first two Main Stage teams and two Wild Card teams from this route."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "This article deliberately separates confirmed routes from expectations. Once an official MCC/EECA or another regional regulation appears, it should be added to this same page without changing the URL. That lets readers see a transparent M8 update history rather than a new article with contradictory numbers."
+            },
+            {
+              "type": "linkCard",
+              "label": "Official source",
+              "title": "MOONTON: MCT SEA and its confirmed road to M8",
+              "description": "Full announcement with the MCT SEA calendar, Main Stage slots, and Wild Card places",
+              "href": "https://en.moonton.com/news/362.html"
+            }
+          ],
+          "editorialNote": "Research snapshot checked on August 21, 2026. The article distinguishes announced M8 routes from unannounced quotas: the detailed MCT SEA path, the October 31 MCT EA event, and the later MCT EECA/EMEA/AMER phases come from MOONTON Games. Team Spirit's MSC 2026 result is context for EECA, not evidence of an M8 slot allocation. Update this stable URL when an organizer publishes the M8 rulebook, exact dates, or a regional MCT/MCC format. A dedicated English poster with verified wording was generated on August 22, 2026."
+        }
+      },
+      "sources": [
+        {
+          "title": "MLBB Championship Tour (MCT) officially expands to Southeast Asia in Q4 2026 as the next phase of MLBB's esports globalisation strategy",
+          "publisher": "MOONTON Games",
+          "url": "https://en.moonton.com/news/362.html",
+          "accessed": "2026-08-21"
+        },
+        {
+          "title": "GZG crowned MCT East Asia champions, Ulaanbaatar announced as next tournament destination",
+          "publisher": "MOONTON Games",
+          "url": "https://en.moonton.com/news/339.html",
+          "accessed": "2026-08-21"
+        },
+        {
+          "title": "Team Spirit validates Mobile Legends: Bang Bang's global expansion strategy with historic Mid Season Cup win at the 2026 Esports World Cup in Paris",
+          "publisher": "MOONTON Games",
+          "url": "https://en.moonton.com/news/360.html",
+          "accessed": "2026-08-21"
+        },
+        {
+          "title": "Mobile Legends: Bang Bang unveils new formats for historic MSC and MWI as tournaments headline 2026 Esports World Cup",
+          "publisher": "MOONTON Games",
+          "url": "https://en.moonton.com/news/341.html",
+          "accessed": "2026-08-21"
+        },
+        {
+          "title": "Aurora Gaming secures MLBB Türkiye Championship three-peat as Season 7 celebrates record viewership and partnership lineup!",
+          "publisher": "MOONTON Games",
+          "url": "https://en.moonton.com/news/346.html",
+          "accessed": "2026-08-21"
+        }
+      ],
+      "editorialNote": "Срез источников проверен 21 августа 2026 года. Материал отделяет опубликованные маршруты M8 от нераскрытых квот: подробный путь MCT SEA, турнир MCT EA 31 октября и будущие фазы MCT EECA/EMEA/AMER подтверждены MOONTON Games. Победа Team Spirit на MSC 2026 — контекст для EECA, а не доказательство распределения слотов M8. Обновляйте этот стабильный URL, когда организатор опубликует регламент M8, точные даты или формат регионального MCT/MCC. Отдельный русский постер с проверенным текстом создан 22 августа 2026 года."
     }
   ]
 }

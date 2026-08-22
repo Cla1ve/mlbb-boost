@@ -405,6 +405,49 @@
     update();
   }
 
+  function initCounterMatrices() {
+    document.querySelectorAll('[data-counter-matrix]').forEach((matrix) => {
+      const tool = matrix.querySelector('[data-counter-tool]');
+      const search = matrix.querySelector('[data-counter-search]');
+      const status = matrix.querySelector('[data-counter-status]');
+      const empty = matrix.querySelector('[data-counter-empty]');
+      const entries = Array.from(matrix.querySelectorAll('[data-counter-entry]'));
+      if (!tool || !search || !entries.length) return;
+
+      const normalize = (value) => value
+        .toLocaleLowerCase(locale === 'en' ? 'en' : 'ru')
+        .normalize('NFKD')
+        .replace(/\p{Diacritic}/gu, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      const entryText = new Map(
+        entries.map((entry) => [entry, normalize(entry.textContent || '')])
+      );
+
+      const render = () => {
+        const query = normalize(search.value);
+        let visible = 0;
+        entries.forEach((entry) => {
+          const matches = !query || entryText.get(entry).includes(query);
+          entry.hidden = !matches;
+          if (matches) visible += 1;
+        });
+        if (empty) empty.hidden = visible !== 0;
+        if (status) {
+          status.textContent = locale === 'en'
+            ? `Showing ${visible} of ${entries.length} heroes`
+            : `Показано героев: ${visible} из ${entries.length}`;
+        }
+      };
+
+      tool.hidden = false;
+      search.addEventListener('input', render);
+      search.addEventListener('search', render);
+      render();
+    });
+  }
+
   function initScrollableTables() {
     const regions = Array.from(document.querySelectorAll('[data-scroll-region]'));
     if (!regions.length) return;
@@ -458,6 +501,7 @@
     initNewsListing();
     initReadingProgress();
     initTableOfContents();
+    initCounterMatrices();
     initScrollableTables();
     initTracking();
   };

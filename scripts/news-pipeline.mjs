@@ -398,6 +398,12 @@ function collectBlockText(block) {
     }
   }
 
+  if (Array.isArray(block.entries)) {
+    for (const entry of block.entries) {
+      values.push(entry.hero, entry.role, entry.picks, entry.why, entry.fallback);
+    }
+  }
+
   return values.map(normalizeText).filter(Boolean);
 }
 
@@ -604,6 +610,76 @@ function inspectImage(buffer) {
   throw new Error('Формат изображения не распознан или файл повреждён.');
 }
 
+function collectStringValues(value, output = []) {
+  if (typeof value === 'string') {
+    output.push(value);
+    return output;
+  }
+  if (Array.isArray(value)) {
+    value.forEach((item) => collectStringValues(item, output));
+    return output;
+  }
+  if (value && typeof value === 'object') {
+    Object.values(value).forEach((item) => collectStringValues(item, output));
+  }
+  return output;
+}
+
+function factualAnchors(value) {
+  const text = collectStringValues(value).join('\n');
+  const numberPattern = String.raw`(?:\d{1,3}(?:[ \u00a0,]\d{3})+|\d+(?:[.,:/]\d+)*)`;
+  const numeric = text.match(new RegExp(
+    String.raw`[+-]?${numberPattern}(?:\s*[–—-]\s*[+-]?${numberPattern})?(?:\s*%)?`,
+    'g'
+  )) ?? [];
+  return numeric.map((token) => {
+    const compact = token.replace(/[ \u00a0]+/g, '').replace(/[—-]/g, '–');
+    return /^\d{1,3}(?:,\d{3})+(?:%|$)/.test(compact)
+      ? compact.replace(/,/g, '')
+      : compact.replace(/,/g, '.');
+  }).sort();
+}
+
+function writtenNumberAnchors(value) {
+  const text = collectStringValues(value).join('\n');
+  const numberWords = [
+    [/(?<![\p{L}\p{N}_])(?:zero|ноль|нуль)(?![\p{L}\p{N}_])/giu, '0'],
+    [/(?<![\p{L}\p{N}_])(?:one|один|одна|одно|одного|одной)(?![\p{L}\p{N}_])/giu, '1'],
+    [/(?<![\p{L}\p{N}_])(?:two|два|две|двух)(?![\p{L}\p{N}_])/giu, '2'],
+    [/(?<![\p{L}\p{N}_])(?:three|три|трёх|трех)(?![\p{L}\p{N}_])/giu, '3'],
+    [/(?<![\p{L}\p{N}_])(?:four|четыре|четырёх|четырех)(?![\p{L}\p{N}_])/giu, '4'],
+    [/(?<![\p{L}\p{N}_])(?:five|пять|пяти)(?![\p{L}\p{N}_])/giu, '5'],
+    [/(?<![\p{L}\p{N}_])(?:six|шесть|шести)(?![\p{L}\p{N}_])/giu, '6'],
+    [/(?<![\p{L}\p{N}_])(?:seven|семь|семи)(?![\p{L}\p{N}_])/giu, '7'],
+    [/(?<![\p{L}\p{N}_])(?:eight|восемь|восьми)(?![\p{L}\p{N}_])/giu, '8'],
+    [/(?<![\p{L}\p{N}_])(?:nine|девять|девяти)(?![\p{L}\p{N}_])/giu, '9'],
+    [/(?<![\p{L}\p{N}_])(?:ten|десять|десяти)(?![\p{L}\p{N}_])/giu, '10']
+  ];
+  return numberWords.flatMap(([pattern, normalized]) => (
+    Array.from(text.matchAll(pattern), () => normalized)
+  )).sort();
+}
+
+function uncoveredAnchors(primary, counterpart, counterpartWords) {
+  const available = new Map();
+  [...counterpart, ...counterpartWords].forEach((anchor) => {
+    available.set(anchor, (available.get(anchor) ?? 0) + 1);
+  });
+  return primary.filter((anchor) => {
+    const count = available.get(anchor) ?? 0;
+    if (!count) return true;
+    available.set(anchor, count - 1);
+    return false;
+  });
+}
+
+function protectedLatinTerms(value) {
+  const text = collectStringValues(value).join('\n');
+  const multiWord = text.match(/\b[A-Z][A-Za-z0-9+'’-]*(?:\s+(?:[A-Z][A-Za-z0-9+'’-]*|[A-Z]{2,}[A-Z0-9+.-]*)){1,5}\b/g) ?? [];
+  const acronyms = text.match(/\b[A-Z]{2,}[A-Z0-9+.-]*\b/g) ?? [];
+  return [...new Set([...multiWord, ...acronyms])];
+}
+
 function validateTranslationParity(source, translated, locale) {
   const errors = [];
   const sourceBlocks = Array.isArray(source.blocks) ? source.blocks : [];
@@ -622,6 +698,27 @@ function validateTranslationParity(source, translated, locale) {
     }
     if ((sourceBlock.id ?? null) !== (translatedBlock.id ?? null)) {
       errors.push(`${label}.id должен оставаться "${sourceBlock.id ?? ''}".`);
+    }
+    const sourceAnchors = factualAnchors(sourceBlock);
+    const translatedAnchors = factualAnchors(translatedBlock);
+    const sourceOnly = uncoveredAnchors(
+      sourceAnchors,
+      translatedAnchors,
+      writtenNumberAnchors(translatedBlock)
+    );
+    const translatedOnly = uncoveredAnchors(
+      translatedAnchors,
+      sourceAnchors,
+      writtenNumberAnchors(sourceBlock)
+    );
+    if (sourceOnly.length || translatedOnly.length) {
+      errors.push(`${label} должен сохранять все числа, даты, время, версии и счёт.`);
+    }
+    const translatedText = collectStringValues(translatedBlock).join('\n').toLocaleLowerCase('en');
+    for (const term of protectedLatinTerms(sourceBlock)) {
+      if (!translatedText.includes(term.toLocaleLowerCase('en'))) {
+        errors.push(`${label} должен сохранять имя или кодовую строку "${term}".`);
+      }
     }
     if (sourceBlock.type === 'cta') {
       for (const key of ['href', 'position']) {
@@ -658,6 +755,16 @@ function validateTranslationParity(source, translated, locale) {
           match.teamB !== translatedMatch.teamB
         ) {
           errors.push(`${label}.matches[${matchIndex}] должен сохранять названия обеих команд.`);
+        }
+      });
+    }
+    if (sourceBlock.type === 'counterMatrix') {
+      if (sourceBlock.entries?.length !== translatedBlock.entries?.length) {
+        errors.push(`${label}.entries должен содержать то же число героев.`);
+      }
+      sourceBlock.entries?.forEach((entry, entryIndex) => {
+        if (entry.hero !== translatedBlock.entries?.[entryIndex]?.hero) {
+          errors.push(`${label}.entries[${entryIndex}].hero должен сохранять героя и порядок.`);
         }
       });
     }
@@ -846,6 +953,7 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
     'keyFacts',
     'table',
     'matches',
+    'counterMatrix',
     'callout',
     'list',
     'linkCard',
@@ -941,6 +1049,35 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
           ))
         ) {
           errors.push('matches.matches должен содержать teamA, teamB и meta для каждой пары.');
+        }
+        break;
+      case 'counterMatrix':
+        requireText(block, [
+          'id',
+          'eyebrow',
+          'title',
+          'searchLabel',
+          'searchPlaceholder',
+          'emptyText',
+          'picksLabel',
+          'whyLabel',
+          'fallbackLabel'
+        ]);
+        if (
+          !Array.isArray(block.entries) ||
+          block.entries.length < 4 ||
+          block.entries.some((entry) => (
+            !entry ||
+            typeof entry !== 'object' ||
+            Array.isArray(entry) ||
+            ['hero', 'role', 'picks', 'why', 'fallback'].some(
+              (field) => typeof entry[field] !== 'string' || !normalizeText(entry[field])
+            )
+          ))
+        ) {
+          errors.push(
+            'counterMatrix.entries должен содержать минимум четыре героя с полями hero, role, picks, why и fallback.'
+          );
         }
         break;
       case 'callout':
@@ -1256,7 +1393,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=4">
+  <link rel="stylesheet" href="/styles/news.css?v=5">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">`;
 }
 
@@ -1498,7 +1635,7 @@ function renderBlock(block, locale = 'ru') {
       </aside>`;
     case 'table':
       return `
-      <div class="article-table-wrap" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>
+      <div class="article-table-wrap article-table-wrap--cols-${Math.min(block.headers.length, 4)}" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>
         <table>
           <caption>${escapeHtml(block.caption)}</caption>
           <thead><tr>${block.headers.map((header) => `<th scope="col">${escapeHtml(header)}</th>`).join('')}</tr></thead>
@@ -1516,6 +1653,51 @@ function renderBlock(block, locale = 'ru') {
           <p>${escapeHtml(match.meta)}</p>
         </article>`).join('')}
       </div>`;
+    case 'counterMatrix':
+      return `
+      <section class="counter-matrix" aria-labelledby="${escapeHtml(block.id)}-title" data-counter-matrix>
+        <header class="counter-matrix__header">
+          <p class="article-box-label">${escapeHtml(block.eyebrow)}</p>
+          <h3 id="${escapeHtml(block.id)}-title">${escapeHtml(block.title)}</h3>
+        </header>
+        <div class="counter-matrix__tool" data-counter-tool hidden>
+          <label for="${escapeHtml(block.id)}-search">${escapeHtml(block.searchLabel)}</label>
+          <input id="${escapeHtml(block.id)}-search"
+                 type="search"
+                 inputmode="search"
+                 autocomplete="off"
+                 placeholder="${escapeHtml(block.searchPlaceholder)}"
+                 data-counter-search>
+          <p aria-live="polite" data-counter-status></p>
+        </div>
+        <div class="counter-matrix__grid">
+          ${block.entries.map((entry, index) => `
+          <article class="counter-card" data-counter-entry>
+            <header>
+              <span aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
+              <div>
+                <h4>${escapeHtml(entry.hero)}</h4>
+                <p>${escapeHtml(entry.role)}</p>
+              </div>
+            </header>
+            <dl>
+              <div>
+                <dt>${escapeHtml(block.picksLabel)}</dt>
+                <dd>${escapeHtml(entry.picks)}</dd>
+              </div>
+              <div>
+                <dt>${escapeHtml(block.whyLabel)}</dt>
+                <dd>${escapeHtml(entry.why)}</dd>
+              </div>
+              <div>
+                <dt>${escapeHtml(block.fallbackLabel)}</dt>
+                <dd>${escapeHtml(entry.fallback)}</dd>
+              </div>
+            </dl>
+          </article>`).join('')}
+        </div>
+        <p class="counter-matrix__empty" data-counter-empty hidden>${escapeHtml(block.emptyText)}</p>
+      </section>`;
     case 'callout':
       return `
       <aside class="article-callout">
@@ -1965,7 +2147,7 @@ function renderGeneratedFiles(posts, staticPages) {
 async function writeGeneratedFiles(files) {
   const staged = [];
   const originals = new Map();
-  const committed = [];
+  const swaps = [];
   try {
     for (const [filePath, content] of files) {
       await mkdir(path.dirname(filePath), { recursive: true });
@@ -1980,22 +2162,32 @@ async function writeGeneratedFiles(files) {
       staged.push({ filePath, tempPath });
     }
     for (const { filePath, tempPath } of staged) {
+      const original = originals.get(filePath);
+      const backupPath = `${filePath}.${process.pid}.${Date.now()}.${swaps.length}.backup`;
+      const swap = {
+        filePath,
+        backupPath,
+        originalMoved: false,
+        newCommitted: false
+      };
+      swaps.push(swap);
+      if (original.exists) {
+        await rename(filePath, backupPath);
+        swap.originalMoved = true;
+      }
       await rename(tempPath, filePath);
-      committed.push(filePath);
+      swap.newCommitted = true;
     }
   } catch (error) {
     await Promise.all(staged.map(({ tempPath }) => rm(tempPath, { force: true }).catch(() => {})));
     const rollbackErrors = [];
-    for (const filePath of committed.reverse()) {
-      const original = originals.get(filePath);
+    for (const swap of swaps.reverse()) {
+      const { filePath, backupPath, originalMoved, newCommitted } = swap;
       try {
-        if (!original.exists) {
-          await rm(filePath, { force: true });
-          continue;
+        if (newCommitted) await rm(filePath, { force: true });
+        if (originalMoved) {
+          await rename(backupPath, filePath);
         }
-        const rollbackPath = `${filePath}.${process.pid}.${Date.now()}.rollback`;
-        await writeFile(rollbackPath, original.content, 'utf8');
-        await rename(rollbackPath, filePath);
       } catch (rollbackError) {
         rollbackErrors.push(`${filePath}: ${rollbackError.message}`);
       }
@@ -2005,6 +2197,9 @@ async function writeGeneratedFiles(files) {
     }
     throw error;
   }
+  await Promise.all(swaps
+    .filter(({ originalMoved }) => originalMoved)
+    .map(({ backupPath }) => rm(backupPath, { force: true })));
 }
 
 async function findOrphanedGeneratedArticles(posts, locale = 'ru') {
@@ -2203,7 +2398,7 @@ async function validateGenerated() {
       if (!html.includes('href="/order.html?type=standard" data-news-cta')) {
         throw new Error(`${label}: CTA должен сохранять общий target /order.html?type=standard.`);
       }
-      if (/class="article-table-wrap[^"]*"[^>]*tabindex="0"/.test(html)) {
+      if (/class="article-table-wrap[^\"]*"[^>]*tabindex="0"/.test(html)) {
         throw new Error(`${label}: таблица не должна быть постоянной лишней Tab-остановкой.`);
       }
       if (locale === 'en' && /[А-Яа-яЁё]/u.test(html)) {
@@ -2268,6 +2463,16 @@ async function validateGenerated() {
     const negativeErrors = validatePost(broken);
     if (!negativeErrors.some((error) => error.includes('translations.en.blocks'))) {
       throw new Error('Негативная проверка не обнаружила структурно неполный английский перевод.');
+    }
+
+    const factualMismatch = structuredClone(posts[0]);
+    const factualTable = factualMismatch.translations.en.blocks.find((block) => block.type === 'table');
+    if (factualTable?.rows?.[0]?.[1]) {
+      factualTable.rows[0][1] = `${factualTable.rows[0][1]}1`;
+      const factualErrors = validatePost(factualMismatch);
+      if (!factualErrors.some((error) => error.includes('числа, даты, время, версии и счёт'))) {
+        throw new Error('Негативная проверка не обнаружила фактическое расхождение RU/EN.');
+      }
     }
   }
 

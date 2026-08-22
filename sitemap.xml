@@ -68,17 +68,31 @@
   </url>
   <url>
     <loc>https://boostmlbb.ru/news/</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-08-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/en/news/</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-08-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/news/m8-istanbul-world-road/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/m8-istanbul-world-road/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/m8-istanbul-world-road/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/m8-istanbul-world-road/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/news/msc-2026-playoff-schedule/</loc>
