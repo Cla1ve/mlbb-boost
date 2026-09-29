@@ -212,9 +212,11 @@ function placementInference() {
       : 'Вы указали 0 матчей, но в текущем ранге уже есть звёзды. Проверьте ранг и число матчей.' };
   }
   if (matches !== null && wins !== null && wins > matches) {
+    const winsWord = wins === 1 ? 'победу' : wins >= 2 && wins <= 4 ? 'победы' : 'побед';
+    const matchesWord = matches === 1 ? 'матч' : matches >= 2 && matches <= 4 ? 'матча' : 'матчей';
     return { wins, origin: 'matches', error: isEnglish()
-      ? `${stars}⭐ means ${wins} wins, but only ${matches} matches were entered. Check your rank and match count.`
-      : `${stars}⭐ означают ${wins} побед, но сыграно только ${matches} матчей. Проверьте ранг и число матчей.` };
+      ? `${stars}⭐ means ${wins} ${wins === 1 ? 'win' : 'wins'}, but only ${matches} ${matches === 1 ? 'match was' : 'matches were'} entered. Check your rank and match count.`
+      : `Текущий ранг ${stars}⭐ означает ${wins} ${winsWord}, но сыграно только ${matches} ${matchesWord}. Проверьте ранг и число матчей.` };
   }
   return { wins, error: '', origin: '' };
 }
