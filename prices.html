@@ -59,6 +59,7 @@
           {"@type": "Offer", "name": "Master/GM буст", "price": "75", "priceCurrency": "RUB"},
           {"@type": "Offer", "name": "Epic буст", "price": "90", "priceCurrency": "RUB"},
           {"@type": "Offer", "name": "Legend буст", "price": "95", "priceCurrency": "RUB"},
+          {"@type": "Offer", "name": "Mythic placement win", "price": "165", "priceCurrency": "RUB", "description": "Price for one placement win"},
           {"@type": "Offer", "name": "Mythic буст", "price": "115", "priceCurrency": "RUB"},
           {"@type": "Offer", "name": "Mythical Honor буст", "price": "125", "priceCurrency": "RUB"},
           {"@type": "Offer", "name": "Mythical Glory буст", "price": "160", "priceCurrency": "RUB"},
@@ -111,11 +112,11 @@
   <!-- /Google Analytics -->
 
   <link rel="stylesheet" href="styles/main.css">
-  <link rel="stylesheet" href="styles/prices.css">
+  <link rel="stylesheet" href="styles/prices.css?v=mythic-calibration-3">
   <link rel="stylesheet" href="styles/legal.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <!-- i18n: RU/EN language switcher -->
-  <script defer src="js/i18n-dict.js"></script>
+  <script defer src="js/i18n-dict.js?v=mythic-calibration-3"></script>
   <script defer src="js/i18n-reviews.js"></script>
   <script defer src="js/i18n-legal.js"></script>
   <script defer src="js/i18n-legal-body.js"></script>
@@ -176,7 +177,7 @@
           <span>Прайс-лист</span>
         </div>
         <h1 class="prices-title">Цены на буст</h1>
-        <p class="prices-subtitle">Актуальные цены за 1 звезду; калибровка — за победу</p>
+        <p class="prices-subtitle">Актуальные тарифы на буст по рангам</p>
         
         <div class="hero-cta">
           <a href="order.html" class="calc-btn">
@@ -229,19 +230,19 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">50 ₽</span>
+                <span class="price-value" data-type="standard">50 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">55 ₽</span>
+                <span class="price-value" data-type="role">55 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">65 ₽</span>
+                <span class="price-value" data-type="hero">65 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">90 ₽</span>
+                <span class="price-value" data-type="party">90 ₽/⭐</span>
               </div>
             </div>
           </div>
@@ -257,19 +258,19 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">75 ₽</span>
+                <span class="price-value" data-type="standard">75 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">80 ₽</span>
+                <span class="price-value" data-type="role">80 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">100 ₽</span>
+                <span class="price-value" data-type="hero">100 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">115 ₽</span>
+                <span class="price-value" data-type="party">115 ₽/⭐</span>
               </div>
             </div>
           </div>
@@ -284,19 +285,19 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">90 ₽</span>
+                <span class="price-value" data-type="standard">90 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">95 ₽</span>
+                <span class="price-value" data-type="role">95 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">115 ₽</span>
+                <span class="price-value" data-type="hero">115 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">190 ₽</span>
+                <span class="price-value" data-type="party">190 ₽/⭐</span>
               </div>
             </div>
           </div>
@@ -311,20 +312,35 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">95 ₽</span>
+                <span class="price-value" data-type="standard">95 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">100 ₽</span>
+                <span class="price-value" data-type="role">100 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">120 ₽</span>
+                <span class="price-value" data-type="hero">120 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">205 ₽</span>
+                <span class="price-value" data-type="party">205 ₽/⭐</span>
               </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rank-price-card" data-category="mythic_calibration">
+          <div class="rank-images">
+            <img loading="lazy" decoding="async" src="Ранги/Mythic.webp" alt="Мифическая калибровка" class="rank-img single">
+          </div>
+          <div class="rank-info">
+            <h3 class="rank-name">Мифическая калибровка</h3>
+            <div class="prices-row">
+              <div class="price-item"><span class="price-label">Стандарт</span><span class="price-value" data-type="standard">165 ₽/победу</span></div>
+              <div class="price-item"><span class="price-label">На роли</span><span class="price-value" data-type="role">180 ₽/победу</span></div>
+              <div class="price-item"><span class="price-label">На герое</span><span class="price-value" data-type="hero">225 ₽/победу</span></div>
+              <div class="price-item"><span class="price-label">В пати</span><span class="price-value" data-type="party">315 ₽/победу</span></div>
             </div>
           </div>
         </div>
@@ -338,36 +354,20 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">115 ₽</span>
+                <span class="price-value" data-type="standard">115 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">120 ₽</span>
+                <span class="price-value" data-type="role">120 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">140 ₽</span>
+                <span class="price-value" data-type="hero">140 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">240 ₽</span>
+                <span class="price-value" data-type="party">240 ₽/⭐</span>
               </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="rank-price-card" data-category="mythic_calibration">
-          <div class="rank-images">
-            <img loading="lazy" decoding="async" src="Ранги/Mythic.webp" alt="Мифическая калибровка" class="rank-img single">
-          </div>
-          <div class="rank-info">
-            <h3 class="rank-name">Мифическая калибровка</h3>
-            <p class="calibration-price-note">Цена за победу · до +2 звёзд. Учитываем точный прогресс 10 матчей.</p>
-            <div class="prices-row">
-              <div class="price-item"><span class="price-label">Стандарт</span><span class="price-value" data-type="standard">165 ₽</span></div>
-              <div class="price-item"><span class="price-label">На роли</span><span class="price-value" data-type="role">180 ₽</span></div>
-              <div class="price-item"><span class="price-label">На герое</span><span class="price-value" data-type="hero">225 ₽</span></div>
-              <div class="price-item"><span class="price-label">В пати</span><span class="price-value" data-type="party">315 ₽</span></div>
             </div>
           </div>
         </div>
@@ -381,19 +381,19 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">125 ₽</span>
+                <span class="price-value" data-type="standard">125 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">140 ₽</span>
+                <span class="price-value" data-type="role">140 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">165 ₽</span>
+                <span class="price-value" data-type="hero">165 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">290 ₽</span>
+                <span class="price-value" data-type="party">290 ₽/⭐</span>
               </div>
             </div>
           </div>
@@ -408,19 +408,19 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">160 ₽</span>
+                <span class="price-value" data-type="standard">160 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">165 ₽</span>
+                <span class="price-value" data-type="role">165 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">205 ₽</span>
+                <span class="price-value" data-type="hero">205 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">380 ₽</span>
+                <span class="price-value" data-type="party">380 ₽/⭐</span>
               </div>
             </div>
           </div>
@@ -435,19 +435,19 @@
             <div class="prices-row">
               <div class="price-item">
                 <span class="price-label">Стандарт</span>
-                <span class="price-value" data-type="standard">175 ₽</span>
+                <span class="price-value" data-type="standard">175 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На роли</span>
-                <span class="price-value" data-type="role">185 ₽</span>
+                <span class="price-value" data-type="role">185 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">На герое</span>
-                <span class="price-value" data-type="hero">240 ₽</span>
+                <span class="price-value" data-type="hero">240 ₽/⭐</span>
               </div>
               <div class="price-item">
                 <span class="price-label">В пати</span>
-                <span class="price-value" data-type="party">445 ₽</span>
+                <span class="price-value" data-type="party">445 ₽/⭐</span>
               </div>
             </div>
           </div>
@@ -534,8 +534,8 @@
       <!-- Дисклеймер -->
       <div class="prices-disclaimer">
         <i class="fas fa-info-circle"></i>
-        <p>Цены указаны за 1 звезду. Итоговая стоимость зависит от количества звёзд. 
-           Используйте <a href="order.html">калькулятор</a> для расчёта точной стоимости.</p>
+        <p>Итоговая стоимость зависит от маршрута и типа буста.
+           Используйте <a href="order.html">калькулятор</a> для точного расчёта.</p>
       </div>
 
       <!-- CTA блок -->
@@ -620,7 +620,7 @@
 
   <script src="js/animations.js"></script>
   <script src="js/main.js"></script>
-  <script src="js/prices.js"></script>
+  <script src="js/prices.js?v=mythic-calibration-3"></script>
   <script src="js/consent.js"></script>
 </body>
 </html>

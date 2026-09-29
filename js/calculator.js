@@ -758,22 +758,6 @@ function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate, 
   if (resultTime) resultTime.textContent = estimatedTime;
   if (resultWinrate) resultWinrate.textContent = winrate;
 
-  const calibrationResult = document.getElementById('calibration-result');
-  const segment = calculation?.breakdown?.find(item => item.category === 'mythic_calibration');
-  if (calibrationResult) {
-    calibrationResult.classList.toggle('hidden', !segment);
-    if (segment) {
-      calibrationResult.dataset.wins = String(segment.wins);
-      calibrationResult.dataset.unitRub = String(segment.price_per_win);
-      calibrationResult.dataset.costRub = String(segment.cost);
-      calibrationResult.dataset.stars = String(segment.result_stars);
-      calibrationResult.dataset.overshoot = String(calculation?.calibration?.overshoot_stars || 0);
-      refreshCalibrationResultCurrency();
-    } else {
-      calibrationResult.textContent = '';
-    }
-  }
-
   // Обновляем прогресс-шаги
   const steps = document.querySelectorAll('.progress-step');
   steps.forEach(step => step.classList.add('completed'));
@@ -814,22 +798,6 @@ function refreshResultCurrency() {
       discountedPriceEl.textContent = formatPrice(rub);
     }
   }
-  refreshCalibrationResultCurrency();
-}
-
-function refreshCalibrationResultCurrency() {
-  const node = document.getElementById('calibration-result');
-  if (!node || node.classList.contains('hidden')) return;
-  const wins = Number(node.dataset.wins);
-  const stars = Number(node.dataset.stars);
-  const price = formatPrice(Number(node.dataset.unitRub));
-  const total = formatPrice(Number(node.dataset.costRub));
-  const english = !!(window.MLBBCurrency?.isEnglish?.());
-  const extra = Number(node.dataset.overshoot);
-  node.textContent = (english
-    ? `💎 Placement: ${wins} wins × ${price} = ${total} · +${stars}⭐`
-    : `💎 Калибровка: ${wins} побед × ${price} = ${total} · +${stars}⭐`) +
-    (extra ? (english ? ` · +${extra}⭐ past target` : ` · +${extra}⭐ сверх цели`) : '');
 }
 
 // Initialize the placeholder in the right currency on load.

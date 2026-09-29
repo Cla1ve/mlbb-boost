@@ -19,6 +19,7 @@ const CACHE_DURATION = 60 * 60 * 1000; // 1 час в миллисекундах
 const BACKGROUND_REFRESH_AFTER = 30 * 60 * 1000;
 let lastDataStatusMode = 'fallback';
 let lastDataStatusTimestamp = null;
+let lastRenderedPrices = null;
 
 // Последний проверенный fallback с API на 2026-07-05.
 // Он нужен для первого визита, если API временно недоступен и localStorage ещё пуст.
@@ -64,16 +65,6 @@ const LAST_KNOWN_PRICES = [
     ]
   },
   {
-    category: 'mythic',
-    category_name: 'Мифик',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 140 },
-      { type: 'party', type_name: 'В пати', price: 240 },
-      { type: 'role', type_name: 'На роли', price: 120 },
-      { type: 'standard', type_name: 'Стандарт', price: 115 }
-    ]
-  },
-  {
     category: 'mythic_calibration',
     category_name: 'Мифическая калибровка',
     unit: 'win',
@@ -82,6 +73,16 @@ const LAST_KNOWN_PRICES = [
       { type: 'party', type_name: 'В пати', price: 315 },
       { type: 'role', type_name: 'На роли', price: 180 },
       { type: 'standard', type_name: 'Стандарт', price: 165 }
+    ]
+  },
+  {
+    category: 'mythic',
+    category_name: 'Мифик',
+    prices: [
+      { type: 'hero', type_name: 'На герое', price: 140 },
+      { type: 'party', type_name: 'В пати', price: 240 },
+      { type: 'role', type_name: 'На роли', price: 120 },
+      { type: 'standard', type_name: 'Стандарт', price: 115 }
     ]
   },
   {
@@ -129,8 +130,8 @@ const SCHEMA_OFFER_NAMES = {
   master_gm: 'Master/GM буст',
   epic: 'Epic буст',
   legend: 'Legend буст',
-  mythic: 'Mythic буст',
   mythic_calibration: 'Mythic placement win',
+  mythic: 'Mythic буст',
   honor: 'Mythical Honor буст',
   glory: 'Mythical Glory буст',
   immortal: 'Mythical Immortal буст'
@@ -323,6 +324,9 @@ function cachePrices(data) {
  */
 function renderPrices(pricesData) {
   if (!isValidPricesData(pricesData)) return;
+  lastRenderedPrices = pricesData;
+
+  const english = !!window.MLBBCurrency?.isEnglish?.();
 
   pricesData.forEach(category => {
     const card = document.querySelector(`[data-category="${category.category}"]`);
@@ -331,7 +335,11 @@ function renderPrices(pricesData) {
     category.prices.forEach(priceItem => {
       const priceElement = card.querySelector(`[data-type="${priceItem.type}"]`);
       if (priceElement) {
-        priceElement.textContent = `${priceItem.price} ₽`;
+        const unit = category.category === 'mythic_calibration'
+          ? (english ? 'win' : 'победу') : '⭐';
+        const amount = window.MLBBCurrency?.format?.(priceItem.price)
+          || `${priceItem.price} ₽`;
+        priceElement.textContent = `${amount}/${unit}`;
         priceElement.classList.add('updated');
       }
     });
@@ -444,6 +452,10 @@ function setDataStatus(mode, timestamp) {
 
 document.addEventListener('mlbb:langchange', () => {
   setDataStatus(lastDataStatusMode, lastDataStatusTimestamp);
+  if (lastRenderedPrices) renderPrices(lastRenderedPrices);
+});
+document.addEventListener('mlbb:ratechange', () => {
+  if (lastRenderedPrices) renderPrices(lastRenderedPrices);
 });
 
 /**

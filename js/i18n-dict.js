@@ -149,10 +149,8 @@ window.MLBB_DICT = {
   'Прайс-лист': 'Price list',
   'Цены на буст': 'Boost prices',
   'Актуальные цены за 1 звезду в каждом ранге': 'Current prices per 1 star in each rank',
-  'Актуальные цены за 1 звезду; калибровка — за победу': 'Current prices per star; placement is priced per win',
+  'Актуальные тарифы на буст по рангам': 'Current boost rates by rank',
   'Мифическая калибровка': 'Mythic placement',
-  'Цена за победу · до +2 звёзд. Учитываем точный прогресс 10 матчей.':
-    'Price per win · up to +2 stars. Your exact 10-match progress is included.',
   'Загрузка цен...': 'Loading prices...',
   'Стандарт': 'Standard',
   'На роли': 'Role',
@@ -161,10 +159,11 @@ window.MLBB_DICT = {
   'Цены за каждый этап': 'Prices for each stage',
   'Для уточнения стоимости и заказа Rising буста свяжитесь напрямую:':
     'To confirm the price and order a Rising boost, contact us directly:',
-  'Цены указаны за 1 звезду. Итоговая стоимость зависит от количества звёзд. Используйте':
-    'Prices are per 1 star. The final cost depends on the number of stars. Use the',
+  'Итоговая стоимость зависит от маршрута и типа буста. Используйте':
+    'The final price depends on your route and boost type. Use the',
   'калькулятор': 'calculator',
   'для расчёта точной стоимости.': 'to calculate the exact cost.',
+  'для точного расчёта.': 'for an exact quote.',
   'Готовы заказать буст?': 'Ready to order a boost?',
   'Рассчитать стоимость': 'Calculate the price',
   'Заказать в боте': 'Order in the bot',

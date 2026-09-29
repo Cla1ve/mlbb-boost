@@ -737,7 +737,7 @@ a[href^="tel:"] {
 }
 .options-section { flex-wrap: wrap; }
 .calibration-card.hidden, .calibration-progress.hidden,
-#calibration-wins-wrap.hidden, .calibration-result.hidden { display: none; }
+#calibration-wins-wrap.hidden { display: none; }
 .calibration-heading { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
 .calibration-heading img { object-fit: contain; }
 .calibration-heading strong, .calibration-heading span { display: block; }
@@ -745,12 +745,3 @@ a[href^="tel:"] {
 .calibration-heading span { opacity: .78; font-size: .85rem; }
 .calibration-card label { display: block; margin: 12px 0 8px; font-weight: 600; }
 .calibration-card .rank-select { width: 100%; }
-.calibration-result {
-  margin-top: 14px;
-  padding: 12px 16px;
-  border-radius: 12px;
-  border: 1px solid rgba(217, 177, 92, .35);
-  background: rgba(217, 177, 92, .08);
-  color: #f4dfad;
-  line-height: 1.45;
-}
