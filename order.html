@@ -95,13 +95,13 @@
     gtag('config', 'G-6HJ7194FZC');
   </script>
   
-  <link rel="stylesheet" href="styles/main.css?v=mythic-infer-1">
+  <link rel="stylesheet" href="styles/main.css?v=mythic-choice-1">
   <link rel="stylesheet" href="styles/animations.css">
   <link rel="stylesheet" href="styles/contact.css?v=mythic-target-1">
   <link rel="stylesheet" href="styles/legal.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <!-- i18n: RU/EN language switcher -->
-  <script defer src="js/i18n-dict.js?v=mythic-infer-1"></script>
+  <script defer src="js/i18n-dict.js?v=mythic-choice-1"></script>
   <script defer src="js/i18n-reviews.js"></script>
   <script defer src="js/i18n-legal.js"></script>
   <script defer src="js/i18n-legal-body.js"></script>
@@ -428,17 +428,25 @@
                 </div>
                 <div class="calibration-invalid hidden" id="calibration-invalid" aria-live="polite">
                   <strong>Проверьте текущий ранг</strong>
+                  <blockquote class="calibration-odd-quote hidden" id="calibration-odd-quote">
+                    <p><span>Вы указали:</span> <img src="Ранги/Mythic.webp" alt="" width="21" height="21"> <strong id="calibration-odd-rank" data-i18n-skip></strong></p>
+                    <p>При калибровке первые 5 побед дают по 2⭐️. До 10⭐️ число звёзд должно быть чётным.</p>
+                  </blockquote>
                   <p id="calibration-invalid-reason" data-i18n-skip></p>
-                  <p>Сверьте звёзды и число матчей в профиле игры.</p>
+                  <p id="calibration-invalid-hint" data-i18n-skip></p>
+                  <div class="calibration-rank-choices hidden" id="calibration-rank-choices">
+                    <button type="button" id="calibration-rank-lower"><img src="Ранги/Mythic.webp" alt="" width="20" height="20"><span data-i18n-skip></span></button>
+                    <button type="button" id="calibration-rank-higher"><img src="Ранги/Mythic.webp" alt="" width="20" height="20"><span data-i18n-skip></span></button>
+                  </div>
                   <div class="calibration-invalid-actions">
-                    <button type="button" id="calibration-recalculate">🔄 Пересчитать</button>
+                    <button type="button" id="calibration-recalculate">✏️ Указать другой ранг</button>
                     <button type="button" id="calibration-invalid-back">◀️ Назад</button>
                   </div>
                 </div>
                 <p class="calibration-question" id="calibration-status-label">Проходили ли вы калибровку в этом сезоне?</p>
                 <div class="calibration-choices" role="radiogroup" aria-labelledby="calibration-status-label">
-                  <label><input id="calibration-status-passed" type="radio" name="calibration-status" value="passed"><span>Да, пройдена</span></label>
-                  <label><input id="calibration-status-active" type="radio" name="calibration-status" value="active"><span>Нет, ещё идёт</span></label>
+                  <label><input id="calibration-status-passed" type="radio" name="calibration-status" value="passed"><span>✅ Да</span></label>
+                  <label><input id="calibration-status-active" type="radio" name="calibration-status" value="active"><span>❌ Нет</span></label>
                 </div>
                 <div class="calibration-progress hidden" id="calibration-progress">
                   <label for="calibration-matches">Сколько матчей калибровки уже сыграли?</label>
@@ -788,7 +796,7 @@
 
   <script src="js/animations.js"></script>
   <script src="js/main.js"></script>
-  <script src="js/calculator.js?v=mythic-infer-3"></script>
+  <script src="js/calculator.js?v=mythic-choice-1"></script>
   <script src="js/consent.js"></script>
 </body>
 </html>

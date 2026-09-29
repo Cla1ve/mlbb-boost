@@ -148,20 +148,33 @@ function initializeCalibrationFields() {
   });
   matches.addEventListener('change', updateCalibrationFields);
   document.getElementById('calibration-wins')?.addEventListener('change', updateCalibrationFields);
+  for (const [id, adjustment] of [
+    ['calibration-rank-lower', -1], ['calibration-rank-higher', 1],
+  ]) {
+    document.getElementById(id)?.addEventListener('click', () => {
+      const inferred = placementInference();
+      const currentStars = getStarsValue('from');
+      if (inferred.origin !== 'status' || currentStars < 1 || currentStars > 9 || currentStars % 2 !== 1) return;
+      restoreRequestedTarget();
+      document.getElementById('stars-from').value = String(currentStars + adjustment);
+      matches.value = '';
+      document.getElementById('calibration-wins').value = '';
+      validateAndFilterTargetRanks();
+      updateProgressSteps();
+      updateCalibrationFields();
+      hideResult();
+      hideError();
+      (document.getElementById('rank-to').value ? matches : document.getElementById('rank-to')).focus();
+    });
+  }
   document.getElementById('calibration-recalculate')?.addEventListener('click', () => {
     restoreRequestedTarget();
-    document.getElementById('rank-from').value = '';
-    document.getElementById('rank-to').value = '';
     resetCalibrationSelection();
-    updateStarsInput('from');
-    updateStarsInput('to');
-    updateRankImage('from');
-    updateRankImage('to');
-    validateAndFilterTargetRanks();
     updateCalibrationFields();
     hideResult();
     hideError();
-    document.getElementById('rank-from').focus();
+    const starsFrom = document.getElementById('stars-from');
+    starsFrom?.focus();
   });
   document.getElementById('calibration-invalid-back')?.addEventListener('click', () => {
     if (calibrationInvalidOrigin === 'matches') {
@@ -318,7 +331,26 @@ function updateCalibrationFields() {
   const invalid = document.getElementById('calibration-invalid');
   invalid?.classList.toggle('hidden', !inferred.error);
   const reason = document.getElementById('calibration-invalid-reason');
-  if (reason) reason.textContent = inferred.error;
+  const oddRank = !!inferred.error && inferred.origin === 'status';
+  document.getElementById('calibration-odd-quote')?.classList.toggle('hidden', !oddRank);
+  document.getElementById('calibration-rank-choices')?.classList.toggle('hidden', !oddRank);
+  if (reason) {
+    reason.textContent = oddRank ? '' : inferred.error;
+    reason.classList.toggle('hidden', oddRank);
+  }
+  const hint = document.getElementById('calibration-invalid-hint');
+  if (hint) hint.textContent = oddRank
+    ? (isEnglish() ? 'Check your stars in the game profile and choose the correct rank.'
+      : 'Сверьте звёзды в профиле игры и выберите верный ранг.')
+    : (isEnglish() ? 'Check your stars and match count in the game profile.'
+      : 'Сверьте звёзды и число матчей в профиле игры.');
+  if (oddRank) {
+    const name = isEnglish() ? 'Mythic' : 'Мифик';
+    const stars = getStarsValue('from');
+    document.getElementById('calibration-odd-rank').textContent = `${name}, ${stars}⭐️`;
+    document.querySelector('#calibration-rank-lower span').textContent = `${name} ${stars - 1}⭐️`;
+    document.querySelector('#calibration-rank-higher span').textContent = `${name} ${stars + 1}⭐️`;
+  }
   document.getElementById('calibration-status-label')?.classList.toggle('hidden', !!inferred.error);
   document.querySelector('.calibration-choices')?.classList.toggle('hidden', !!inferred.error);
   progress.classList.toggle('hidden', status !== 'active' || !fromMythic);

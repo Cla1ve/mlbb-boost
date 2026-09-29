@@ -764,11 +764,15 @@ a[href^="tel:"] {
 .calibration-invalid.hidden { display: none; }
 .calibration-invalid > strong { color: #ffd7d7; }
 .calibration-invalid p { margin: 8px 0; font-size: .9rem; line-height: 1.4; }
-.calibration-invalid-actions { display: flex; gap: 8px; margin-top: 12px; }
-.calibration-invalid-actions button { flex: 1; padding: 10px; border-radius: 9px; border: 1px solid rgba(255,255,255,.16); color: #fff; background: rgba(0,0,0,.18); cursor: pointer; }
-#calibration-recalculate { color: #083021; background: #00e69a; border-color: #00e69a; font-weight: 700; }
-#calibration-recalculate:hover { background: #45ffb5; }
-.calibration-invalid-actions button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+.calibration-odd-quote { margin: 10px 0 0; padding: 10px 12px; border-left: 3px solid #68bfff; border-radius: 7px; background: rgba(68,148,210,.1); }
+.calibration-odd-quote.hidden, #calibration-invalid-reason.hidden, .calibration-rank-choices.hidden { display: none; }
+.calibration-odd-quote p:first-child { display: flex; align-items: center; flex-wrap: wrap; gap: 4px; }
+.calibration-odd-quote img, .calibration-rank-choices img { object-fit: contain; vertical-align: middle; }
+.calibration-rank-choices, .calibration-invalid-actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin-top: 12px; }
+.calibration-rank-choices button, .calibration-invalid-actions button { min-width: 0; padding: 10px 7px; border-radius: 9px; border: 1px solid rgba(255,255,255,.16); color: #fff; background: rgba(0,0,0,.18); cursor: pointer; }
+.calibration-rank-choices button { display: flex; align-items: center; justify-content: center; gap: 5px; font-weight: 600; }
+.calibration-rank-choices button:hover, .calibration-invalid-actions button:hover { border-color: rgba(104,191,255,.7); background: rgba(104,191,255,.12); }
+.calibration-rank-choices button:focus-visible, .calibration-invalid-actions button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
 .placement-target-note, .result-target-note {
   display: block; margin: 10px 0 0; color: #e5d0a2; font-size: .82rem; line-height: 1.45;
 }
