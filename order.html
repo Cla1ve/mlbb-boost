@@ -95,13 +95,13 @@
     gtag('config', 'G-6HJ7194FZC');
   </script>
   
-  <link rel="stylesheet" href="styles/main.css?v=mythic-calibration-3">
+  <link rel="stylesheet" href="styles/main.css?v=mythic-target-1">
   <link rel="stylesheet" href="styles/animations.css">
-  <link rel="stylesheet" href="styles/contact.css">
+  <link rel="stylesheet" href="styles/contact.css?v=mythic-target-1">
   <link rel="stylesheet" href="styles/legal.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <!-- i18n: RU/EN language switcher -->
-  <script defer src="js/i18n-dict.js"></script>
+  <script defer src="js/i18n-dict.js?v=mythic-target-1"></script>
   <script defer src="js/i18n-reviews.js"></script>
   <script defer src="js/i18n-legal.js"></script>
   <script defer src="js/i18n-legal-body.js"></script>
@@ -413,6 +413,7 @@
                     </div>
                   </div>
                 </div>
+                <p class="placement-target-note hidden" id="placement-target-note" data-i18n-skip aria-live="polite"></p>
               </div>
             </div>
 
@@ -422,16 +423,14 @@
                 <div class="calibration-heading">
                   <img src="Ранги/Mythic.webp" alt="" width="36" height="36">
                   <div>
-                    <strong>Мифическая калибровка</strong>
-                    <span>Уточним прогресс для точного расчёта</span>
+                    <strong>Миф. калибровка</strong>
                   </div>
                 </div>
-                <label for="calibration-status">Проходили ли вы калибровку в этом сезоне?</label>
-                <select id="calibration-status" class="rank-select">
-                  <option value="" selected>Выберите ответ</option>
-                  <option value="passed">Да</option>
-                  <option value="active">Нет</option>
-                </select>
+                <p class="calibration-question" id="calibration-status-label">Проходили ли вы калибровку в этом сезоне?</p>
+                <div class="calibration-choices" role="radiogroup" aria-labelledby="calibration-status-label">
+                  <label><input id="calibration-status-passed" type="radio" name="calibration-status" value="passed"><span>Да, пройдена</span></label>
+                  <label><input id="calibration-status-active" type="radio" name="calibration-status" value="active"><span>Нет, ещё идёт</span></label>
+                </div>
                 <div class="calibration-progress hidden" id="calibration-progress">
                   <label for="calibration-matches">Сколько матчей калибровки уже сыграли?</label>
                   <select id="calibration-matches" class="rank-select">
@@ -466,9 +465,11 @@
                 <div class="notice-icon">
                   <i class="fas fa-info"></i>
                 </div>
-                <span>Минимальный заказ — <strong>3 звезды</strong></span>
+                <span>Минимальный заказ — <strong>5 звёзд</strong></span>
               </div>
             </div>
+
+            <p class="form-error hidden" id="form-error" role="alert"></p>
 
             <!-- Calculate Button - Premium Style -->
             <button type="button" class="calculate-btn" id="calculate-btn">
@@ -618,6 +619,7 @@
                 <div class="detail-info">
                   <span class="detail-label">Маршрут</span>
                   <span class="detail-value" id="result-route">-</span>
+                  <small class="result-target-note hidden" id="result-target-note" data-i18n-skip></small>
                 </div>
               </div>
               <div class="detail-item">
@@ -670,20 +672,6 @@
           </div>
         </div>
 
-        <!-- Calculation Error - Improved -->
-        <div class="calculation-error hidden" id="calculation-error">
-          <div class="error-card">
-            <div class="error-icon">
-              <i class="fas fa-exclamation-triangle"></i>
-            </div>
-            <h4>Упс! Что-то пошло не так</h4>
-            <p id="error-message">Произошла ошибка при расчёте</p>
-            <button class="retry-btn" id="retry-btn">
-              <i class="fas fa-redo"></i>
-              <span>Попробовать снова</span>
-            </button>
-          </div>
-        </div>
 
         <!-- Trust Indicators - Premium -->
         <div class="trust-section">
@@ -791,7 +779,7 @@
 
   <script src="js/animations.js"></script>
   <script src="js/main.js"></script>
-  <script src="js/calculator.js?v=mythic-calibration-3"></script>
+  <script src="js/calculator.js?v=mythic-target-4"></script>
   <script src="js/consent.js"></script>
 </body>
 </html>

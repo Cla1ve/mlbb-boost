@@ -203,6 +203,9 @@ window.MLBB_DICT = {
   'Цель': 'Target',
   'Выберите цель': 'Select a target',
   'Желаемый ранг': 'Target rank',
+  'Миф. калибровка': 'Mythic placement',
+  'Да, пройдена': 'Yes, completed',
+  'Нет, ещё идёт': 'No, in progress',
   'Уточним прогресс для точного расчёта': 'Enter your progress for an accurate quote',
   'Проходили ли вы калибровку в этом сезоне?': 'Have you completed placement this season?',
   'Выберите ответ': 'Select an answer',
@@ -249,8 +252,14 @@ window.MLBB_DICT = {
   'Пожалуйста, выберите текущий ранг': 'Please select your current rank',
   'Пожалуйста, выберите желаемый ранг': 'Please select your target rank',
   'Желаемый ранг должен быть выше текущего': 'The target rank must be higher than the current one',
-  'Минимальный заказ — 3 звезды. Выберите более высокий целевой ранг.':
-    'Minimum order is 3 stars. Please choose a higher target rank.',
+  'Минимальный заказ — 5 звёзд. Выберите более высокий целевой ранг.':
+    'Minimum order is 5 stars. Please choose a higher target rank.',
+  'Укажите, проходили ли вы калибровку в этом сезоне.':
+    'Please say whether you have completed placement this season.',
+  'Укажите точное число сыгранных матчей калибровки: от 0 до 9.':
+    'Select the exact number of placement matches played: 0 to 9.',
+  'Укажите точное число побед в калибровке.':
+    'Select the exact number of placement wins.',
   'Не удалось рассчитать стоимость. Проверьте выбранные ранги.':
     'Could not calculate the price. Please check the selected ranks.',
   'Ошибка соединения с сервером. Проблема с HTTPS соединением. Если HTTPS ещё не настроен на сервере, используйте локальную версию сайта или закажите буст через Telegram-бота.':

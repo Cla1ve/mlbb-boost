@@ -4,7 +4,8 @@
  */
 
 // Базовый URL API
-const API_BASE_HTTPS = 'https://cla1veisapi.ru';
+const API_BASE_HTTPS = window.location.hostname === 'localhost'
+  ? 'http://127.0.0.1:8766' : 'https://cla1veisapi.ru';
 
 // Всегда используем HTTPS: HTTP-версия API отвечает 301-редиректом,
 // из-за чего POST-запросы (fetch) обрывались с ошибкой соединения.
@@ -14,7 +15,7 @@ const getApiUrl = () => {
 
 const CALCULATE_API_URL = getApiUrl();
 const DISCOUNT_PERCENT = 10;
-const MIN_STARS_ORDER = 3;
+const MIN_STARS_ORDER = 5;
 
 // Структура рангов
 const RANK_STRUCTURE = {
@@ -28,7 +29,7 @@ const RANK_STRUCTURE = {
 
 // Мифические ранги (звёзды вместо дивизионов)
 const MYTHIC_RANKS = {
-  mythic: { name: 'Мифик', from: 1, to: 24, order: 6, img: 'Ранги/Mythic.webp' },
+  mythic: { name: 'Мифик', from: 0, to: 24, order: 6, img: 'Ранги/Mythic.webp' },
   honor: { name: 'Мифическая честь', from: 25, to: 49, order: 7, img: 'Ранги/Mythical_Honor.webp' },
   glory: { name: 'Мифическая слава', from: 50, to: 99, order: 8, img: 'Ранги/Mythical_Glory.webp' },
   immortal: { name: 'Мифический бессмертный', from: 100, to: 2000, order: 9, img: 'Ранги/Mythical_Immortal.webp' }
@@ -44,6 +45,15 @@ const BOOST_TYPES = {
 };
 
 let currentBoostType = 'standard';
+let requestedCalibrationTargetStars = null;
+
+function calibrationStatus() {
+  return document.querySelector('input[name="calibration-status"]:checked')?.value || '';
+}
+
+function isEnglish() {
+  return window.MLBBi18n?.get?.() === 'en';
+}
 
 document.addEventListener('DOMContentLoaded', () => {
   initCalculator();
@@ -53,6 +63,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function initCalculator() {
   generateRankOptions();
+  for (const eventName of ['change', 'input']) {
+    document.getElementById('calculator-form')?.addEventListener(eventName, () => {
+      hideError();
+      hideResult();
+    });
+  }
 
   document.querySelectorAll('.boost-type-btn').forEach(btn => {
     btn.addEventListener('click', () => selectBoostType(btn.dataset.type));
@@ -61,11 +77,6 @@ function initCalculator() {
   const calculateBtn = document.getElementById('calculate-btn');
   if (calculateBtn) {
     calculateBtn.addEventListener('click', calculatePrice);
-  }
-
-  const retryBtn = document.getElementById('retry-btn');
-  if (retryBtn) {
-    retryBtn.addEventListener('click', calculatePrice);
   }
 
   document.querySelectorAll('.rising-stage').forEach(stage => {
@@ -88,6 +99,7 @@ function initCalculator() {
   
   if (rankToSelect) {
     rankToSelect.addEventListener('change', () => {
+      requestedCalibrationTargetStars = null;
       updateStarsInput('to');
       updateRankImage('to');
       updateProgressSteps();
@@ -98,6 +110,7 @@ function initCalculator() {
   // Валидация при изменении звёзд
   document.addEventListener('change', (e) => {
     if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
+      if (e.target.id === 'stars-to') requestedCalibrationTargetStars = null;
       if (e.target.id === 'stars-from') {
         resetCalibrationSelection();
         validateAndFilterTargetRanks();
@@ -109,6 +122,7 @@ function initCalculator() {
 
   document.addEventListener('input', (e) => {
     if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
+      if (e.target.id === 'stars-to') requestedCalibrationTargetStars = null;
       if (e.target.id === 'stars-from') {
         resetCalibrationSelection();
         validateAndFilterTargetRanks();
@@ -128,13 +142,20 @@ function initializeCalibrationFields() {
   for (let count = 0; count <= 9; count++) {
     matches.add(new Option(String(count), String(count)));
   }
-  document.getElementById('calibration-status')?.addEventListener('change', updateCalibrationFields);
+  document.querySelectorAll('input[name="calibration-status"]').forEach(field => {
+    field.addEventListener('change', updateCalibrationFields);
+  });
   matches.addEventListener('change', updateCalibrationFields);
+  document.getElementById('calibration-wins')?.addEventListener('change', updateCalibrationFields);
   updateCalibrationFields();
 }
 
 function resetCalibrationSelection() {
-  for (const id of ['calibration-status', 'calibration-matches', 'calibration-wins']) {
+  restoreRequestedTarget();
+  document.querySelectorAll('input[name="calibration-status"]').forEach(field => {
+    field.checked = false;
+  });
+  for (const id of ['calibration-matches', 'calibration-wins']) {
     const field = document.getElementById(id);
     if (field) field.value = '';
   }
@@ -151,26 +172,85 @@ function needsCalibrationQuestion() {
   return !MYTHIC_RANKS[fromKey];
 }
 
+function restoreRequestedTarget() {
+  if (requestedCalibrationTargetStars !== null) {
+    const field = document.getElementById('stars-to');
+    if (field) field.value = String(requestedCalibrationTargetStars);
+    requestedCalibrationTargetStars = null;
+  }
+  document.getElementById('placement-target-note')?.classList.add('hidden');
+}
+
+function updatePlacementTargetPreview() {
+  const note = document.getElementById('placement-target-note');
+  const targetField = document.getElementById('stars-to');
+  const targetKey = document.getElementById('rank-to')?.selectedOptions[0]?.dataset.rankKey;
+  if (!note || !targetField || !needsCalibrationQuestion() ||
+      calibrationStatus() !== 'active' || targetKey !== 'mythic') {
+    restoreRequestedTarget();
+    return;
+  }
+
+  const fromKey = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey;
+  const requested = requestedCalibrationTargetStars ?? Number(targetField.value);
+  if (!Number.isInteger(requested) || requested < 1 || requested > 24) {
+    restoreRequestedTarget();
+    return;
+  }
+
+  let matches = 0;
+  let wins = 0;
+  if (fromKey === 'mythic') {
+    const matchesValue = document.getElementById('calibration-matches')?.value;
+    if (matchesValue === '') { restoreRequestedTarget(); return; }
+    matches = Number(matchesValue);
+    const winsValue = document.getElementById('calibration-wins')?.value;
+    if (matches > 0 && winsValue === '') { restoreRequestedTarget(); return; }
+    wins = matches === 0 ? 0 : Number(winsValue);
+  }
+
+  const routeStars = requested - (fromKey === 'mythic' ? getStarsValue('from') : 0);
+  if (routeStars <= 0) { restoreRequestedTarget(); return; }
+  const doubleWins = Math.min(10 - matches, Math.max(0, 5 - wins));
+  const paidWins = Math.min(doubleWins, Math.ceil(routeStars / 2));
+  const adjustment = paidWins * 2 - Math.min(routeStars, paidWins * 2);
+  if (!adjustment) { restoreRequestedTarget(); return; }
+
+  const actual = requested + adjustment;
+  requestedCalibrationTargetStars = requested;
+  if (actual <= 24) targetField.value = String(actual);
+  const rankName = actual >= 25
+    ? (isEnglish() ? 'Mythic Honor' : 'Мифическая честь')
+    : (isEnglish() ? 'Mythic' : 'Мифик');
+  note.textContent = isEnglish()
+    ? `The last win gives +2⭐. Target: ${rankName} ${actual}⭐.`
+    : `Последняя победа даёт +2⭐️. Цель: ${rankName} ${actual}⭐️.`;
+  note.classList.remove('hidden');
+}
+
 function updateCalibrationFields() {
   const card = document.getElementById('calibration-card');
-  const status = document.getElementById('calibration-status');
   const progress = document.getElementById('calibration-progress');
   const matches = document.getElementById('calibration-matches');
   const winsWrap = document.getElementById('calibration-wins-wrap');
   const wins = document.getElementById('calibration-wins');
-  if (!card || !status || !progress || !matches || !winsWrap || !wins) return;
+  if (!card || !progress || !matches || !winsWrap || !wins) return;
   const needed = needsCalibrationQuestion();
   card.classList.toggle('hidden', !needed);
   if (!needed) {
-    status.value = '';
+    document.querySelectorAll('input[name="calibration-status"]').forEach(field => {
+      field.checked = false;
+    });
     matches.value = '';
     wins.value = '';
+    restoreRequestedTarget();
     return;
   }
   const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
-  progress.classList.toggle('hidden', status.value !== 'active' || !fromMythic);
+  const status = calibrationStatus();
+  progress.classList.toggle('hidden', status !== 'active' || !fromMythic);
   const count = matches.value === '' ? null : Number(matches.value);
-  winsWrap.classList.toggle('hidden', !fromMythic || status.value !== 'active' || count === null || count === 0);
+  winsWrap.classList.toggle('hidden', !fromMythic || status !== 'active' || count === null || count === 0);
   const selectedWin = wins.value;
   wins.innerHTML = '<option value="">Выберите точное число</option>';
   if (count !== null && count > 0) {
@@ -179,20 +259,27 @@ function updateCalibrationFields() {
     }
     if (selectedWin !== '' && Number(selectedWin) <= count) wins.value = selectedWin;
   }
+  updatePlacementTargetPreview();
 }
 
 function readCalibration() {
   if (!needsCalibrationQuestion()) return null;
-  const status = document.getElementById('calibration-status')?.value;
-  if (!status) throw new Error('Укажите, проходили ли вы калибровку в этом сезоне.');
+  const status = calibrationStatus();
+  if (!status) throw Object.assign(new Error(isEnglish()
+    ? 'Select whether you have completed placement this season.'
+    : 'Укажите, проходили ли вы калибровку в этом сезоне.'), { fieldId: 'calibration-status-passed' });
   if (status === 'passed') return { status: 'passed' };
   const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
   if (!fromMythic) return { status: 'active', matches_played: 0, wins_played: 0 };
   const matchesValue = document.getElementById('calibration-matches')?.value;
-  if (matchesValue === '') throw new Error('Укажите точное число сыгранных матчей калибровки: от 0 до 9.');
+  if (matchesValue === '') throw Object.assign(new Error(isEnglish()
+    ? 'Select the exact number of placement matches played, from 0 to 9.'
+    : 'Укажите точное число сыгранных матчей калибровки: от 0 до 9.'), { fieldId: 'calibration-matches' });
   const matches = Number(matchesValue);
   const winsValue = document.getElementById('calibration-wins')?.value;
-  if (matches > 0 && winsValue === '') throw new Error('Укажите точное число побед в калибровке.');
+  if (matches > 0 && winsValue === '') throw Object.assign(new Error(isEnglish()
+    ? 'Select the exact number of placement wins.'
+    : 'Укажите точное число побед в калибровке.'), { fieldId: 'calibration-wins' });
   return { status: 'active', matches_played: matches, wins_played: matches === 0 ? 0 : Number(winsValue) };
 }
 
@@ -333,6 +420,7 @@ function generateRankOptions() {
     optionFrom.dataset.maxStars = rank.to;
     
     const optionTo = optionFrom.cloneNode(true);
+    if (key === 'mythic') optionTo.dataset.minStars = 1;
     
     optgroupFrom.appendChild(optionFrom);
     optgroupTo.appendChild(optionTo);
@@ -361,8 +449,8 @@ function updateStarsInput(type) {
   
   if (isMythic) {
     // Мифические ранги - текстовый ввод
-    const minStars = parseInt(selectedOption.dataset.minStars) || 1;
-    const maxStars = parseInt(selectedOption.dataset.maxStars) || 999;
+    const minStars = Number(selectedOption.dataset.minStars);
+    const maxStars = Number(selectedOption.dataset.maxStars);
     const defaultVal = type === 'from' ? minStars : minStars;
     
     starsContainer.innerHTML = `
@@ -448,14 +536,15 @@ function getStarsValue(type) {
   const starsEl = document.getElementById(`stars-${type}`);
   if (!starsEl) return 1;
   const value = starsEl.value;
-  if (!value || value === '') return 1;
-  return parseInt(value) || 1;
+  if (value === '') return 1;
+  const parsed = Number.parseInt(value, 10);
+  return Number.isNaN(parsed) ? 1 : parsed;
 }
 
 /**
  * Вычисление абсолютных звёзд
  */
-function calculateAbsoluteStars(type) {
+function calculateAbsoluteStars(type, starsOverride = null) {
   const rankSelect = document.getElementById(`rank-${type}`);
   
   if (!rankSelect) return 0;
@@ -465,7 +554,7 @@ function calculateAbsoluteStars(type) {
 
   const rankKey = option.dataset.rankKey;
   const isMythic = option.dataset.isMythic === 'true';
-  const stars = getStarsValue(type);
+  const stars = starsOverride === null ? getStarsValue(type) : starsOverride;
   
   let total = 0;
   const rankOrder = ['warrior', 'elite', 'master', 'grandmaster', 'epic', 'legend'];
@@ -547,7 +636,6 @@ function selectBoostType(type) {
   const calculatorForm = document.getElementById('calculator-form');
   const risingCalculator = document.getElementById('rising-calculator');
   const calculationResult = document.getElementById('calculation-result');
-  const calculationError = document.getElementById('calculation-error');
 
   if (type === 'rising') {
     calculatorForm?.classList.add('hidden');
@@ -558,7 +646,6 @@ function selectBoostType(type) {
   }
   
   calculationResult?.classList.add('hidden');
-  calculationError?.classList.add('hidden');
   updateCalibrationFields();
 }
 
@@ -570,7 +657,7 @@ function selectRisingStage(stageElement) {
 /**
  * Формирование строки ранга для API
  */
-function buildRankString(type) {
+function buildRankString(type, starsOverride = null) {
   const rankSelect = document.getElementById(`rank-${type}`);
   
   if (!rankSelect) return '';
@@ -580,7 +667,7 @@ function buildRankString(type) {
 
   const rankKey = option.dataset.rankKey;
   const isMythic = option.dataset.isMythic === 'true';
-  const stars = getStarsValue(type);
+  const stars = starsOverride === null ? getStarsValue(type) : starsOverride;
   
   if (isMythic) {
     const rankName = MYTHIC_RANKS[rankKey]?.name || rankKey;
@@ -593,35 +680,54 @@ function buildRankString(type) {
   }
 }
 
+function validateSelectedStars(type) {
+  const option = document.getElementById(`rank-${type}`)?.selectedOptions[0];
+  if (!option || option.dataset.isMythic !== 'true') return true;
+  const field = document.getElementById(`stars-${type}`);
+  const value = Number(field?.value);
+  const min = Number(option.dataset.minStars);
+  const max = Number(option.dataset.maxStars);
+  if (field?.value !== '' && Number.isInteger(value) && value >= min && value <= max) return true;
+  showError(
+    isEnglish() ? `Enter a whole number from ${min} to ${max}.`
+      : `Укажите целое число очков от ${min} до ${max}.`,
+    `stars-${type}`,
+  );
+  return false;
+}
+
 /**
  * Расчёт стоимости
  */
 async function calculatePrice() {
+  hideError();
   const rankFrom = buildRankString('from');
-  const rankTo = buildRankString('to');
+  const rankTo = buildRankString('to', requestedCalibrationTargetStars);
   const isWeakAccount = document.getElementById('weak-account')?.checked || false;
 
   if (!rankFrom) {
-    showError('Пожалуйста, выберите текущий ранг');
+    showError('Пожалуйста, выберите текущий ранг', 'rank-from');
     return;
   }
   
   if (!rankTo) {
-    showError('Пожалуйста, выберите желаемый ранг');
+    showError('Пожалуйста, выберите желаемый ранг', 'rank-to');
     return;
   }
 
+  if (!validateSelectedStars('from') || !validateSelectedStars('to')) return;
+
   const fromStars = calculateAbsoluteStars('from');
-  const toStars = calculateAbsoluteStars('to');
+  const toStars = calculateAbsoluteStars('to', requestedCalibrationTargetStars);
   const starsDiff = toStars - fromStars;
   
   if (starsDiff <= 0) {
-    showError('Желаемый ранг должен быть выше текущего');
+    showError('Желаемый ранг должен быть выше текущего', 'rank-to');
     return;
   }
 
   if (starsDiff < MIN_STARS_ORDER) {
-    showError(`Минимальный заказ — ${MIN_STARS_ORDER} звезды. Выберите более высокий целевой ранг.`);
+    showError(`Минимальный заказ — ${MIN_STARS_ORDER} звёзд. Выберите более высокий целевой ранг.`, 'stars-to');
     return;
   }
 
@@ -629,7 +735,7 @@ async function calculatePrice() {
   try {
     calibration = readCalibration();
   } catch (error) {
-    showError(error.message);
+    showError(error.message, error.fieldId);
     return;
   }
 
@@ -672,8 +778,8 @@ async function calculatePrice() {
     if (result.success && result.total !== undefined) {
       displayResult(
         result.total, 
-        result.rank_from?.display || rankFrom, 
-        result.rank_to?.display || rankTo,
+        formatResultRank(result.rank_from, rankFrom),
+        formatResultRank(result.rank_to, rankTo),
         result.estimated_time || 'уточняется',
         result.winrate || '90%+',
         result
@@ -715,6 +821,11 @@ async function calculatePrice() {
   }
 }
 
+function formatResultRank(rank, fallback) {
+  return String(rank?.display || fallback)
+    .replace(/(\d+)\s+зв[её]зд(?:ы|а)?/gi, '$1⭐');
+}
+
 function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate, calculation) {
   const resultBlock = document.getElementById('calculation-result');
   const resultType = document.getElementById('result-type');
@@ -734,6 +845,12 @@ function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate, 
 
   if (resultType) resultType.textContent = BOOST_TYPES[currentBoostType].name;
   if (resultRoute) resultRoute.textContent = `${rankFrom} → ${rankTo}`;
+  const targetNote = document.getElementById('result-target-note');
+  if (targetNote) {
+    targetNote.dataset.adjusted = calculation?.calibration?.target_adjustment_stars ? 'true' : 'false';
+    targetNote.classList.toggle('hidden', targetNote.dataset.adjusted !== 'true');
+    renderResultTargetNote();
+  }
   if (originalPriceEl) originalPriceEl.textContent = formatPrice(originalPrice);
 
   // Обновленный формат для нового дизайна
@@ -807,6 +924,18 @@ document.addEventListener('DOMContentLoaded', refreshResultCurrency);
 document.addEventListener('mlbb:ratechange', refreshResultCurrency);
 // Re-render the result when the site language switches (RUB <-> USD).
 document.addEventListener('mlbb:langchange', refreshResultCurrency);
+document.addEventListener('mlbb:langchange', () => {
+  updatePlacementTargetPreview();
+  renderResultTargetNote();
+});
+
+function renderResultTargetNote() {
+  const note = document.getElementById('result-target-note');
+  if (!note || note.dataset.adjusted !== 'true') return;
+  note.textContent = isEnglish()
+    ? 'The last placement win gives +2⭐.'
+    : 'Последняя победа даёт +2⭐️.';
+}
 
 function formatPrice(price) {
   if (window.MLBBCurrency && window.MLBBCurrency.format) {
@@ -815,17 +944,26 @@ function formatPrice(price) {
   return price.toLocaleString('ru-RU') + ' ₽';
 }
 
-function showError(message) {
-  const errorBlock = document.getElementById('calculation-error');
-  const errorMessage = document.getElementById('error-message');
-  
-  if (errorMessage) errorMessage.textContent = message;
-  errorBlock?.classList.remove('hidden');
-  errorBlock?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+function showError(message, fieldId = null) {
+  const error = document.getElementById('form-error');
+  if (!error) return;
+  error.textContent = message;
+  error.classList.remove('hidden');
+  const field = fieldId ? document.getElementById(fieldId) : null;
+  if (field) {
+    field.setAttribute('aria-invalid', 'true');
+    field.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    field.focus({ preventScroll: true });
+  } else {
+    error.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
 }
 
 function hideError() {
-  document.getElementById('calculation-error')?.classList.add('hidden');
+  document.getElementById('form-error')?.classList.add('hidden');
+  document.querySelectorAll('#calculator-form [aria-invalid="true"]').forEach(field => {
+    field.removeAttribute('aria-invalid');
+  });
 }
 
 function hideResult() {

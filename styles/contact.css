@@ -1923,7 +1923,7 @@
 
   .rank-selector-content {
     flex-direction: row;
-    align-items: flex-end;
+    align-items: flex-start;
   }
 
   .stars-group {
