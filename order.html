@@ -95,13 +95,13 @@
     gtag('config', 'G-6HJ7194FZC');
   </script>
   
-  <link rel="stylesheet" href="styles/main.css?v=mythic-target-1">
+  <link rel="stylesheet" href="styles/main.css?v=mythic-infer-1">
   <link rel="stylesheet" href="styles/animations.css">
   <link rel="stylesheet" href="styles/contact.css?v=mythic-target-1">
   <link rel="stylesheet" href="styles/legal.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <!-- i18n: RU/EN language switcher -->
-  <script defer src="js/i18n-dict.js?v=mythic-target-1"></script>
+  <script defer src="js/i18n-dict.js?v=mythic-infer-1"></script>
   <script defer src="js/i18n-reviews.js"></script>
   <script defer src="js/i18n-legal.js"></script>
   <script defer src="js/i18n-legal-body.js"></script>
@@ -424,6 +424,15 @@
                   <img src="Ранги/Mythic.webp" alt="" width="36" height="36">
                   <div>
                     <strong>Миф. калибровка</strong>
+                  </div>
+                </div>
+                <div class="calibration-invalid hidden" id="calibration-invalid" aria-live="polite">
+                  <strong>Проверьте текущий ранг</strong>
+                  <p id="calibration-invalid-reason" data-i18n-skip></p>
+                  <p>Сверьте звёзды и число матчей в профиле игры.</p>
+                  <div class="calibration-invalid-actions">
+                    <button type="button" id="calibration-recalculate">🔄 Пересчитать</button>
+                    <button type="button" id="calibration-invalid-back">◀️ Назад</button>
                   </div>
                 </div>
                 <p class="calibration-question" id="calibration-status-label">Проходили ли вы калибровку в этом сезоне?</p>
@@ -779,7 +788,7 @@
 
   <script src="js/animations.js"></script>
   <script src="js/main.js"></script>
-  <script src="js/calculator.js?v=mythic-target-4"></script>
+  <script src="js/calculator.js?v=mythic-infer-2"></script>
   <script src="js/consent.js"></script>
 </body>
 </html>

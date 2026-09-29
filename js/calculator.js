@@ -46,6 +46,7 @@ const BOOST_TYPES = {
 
 let currentBoostType = 'standard';
 let requestedCalibrationTargetStars = null;
+let calibrationInvalidOrigin = '';
 
 function calibrationStatus() {
   return document.querySelector('input[name="calibration-status"]:checked')?.value || '';
@@ -147,10 +148,40 @@ function initializeCalibrationFields() {
   });
   matches.addEventListener('change', updateCalibrationFields);
   document.getElementById('calibration-wins')?.addEventListener('change', updateCalibrationFields);
+  document.getElementById('calibration-recalculate')?.addEventListener('click', () => {
+    restoreRequestedTarget();
+    document.getElementById('rank-from').value = '';
+    document.getElementById('rank-to').value = '';
+    resetCalibrationSelection();
+    updateStarsInput('from');
+    updateStarsInput('to');
+    updateRankImage('from');
+    updateRankImage('to');
+    validateAndFilterTargetRanks();
+    updateCalibrationFields();
+    hideResult();
+    hideError();
+    document.getElementById('rank-from').focus();
+  });
+  document.getElementById('calibration-invalid-back')?.addEventListener('click', () => {
+    if (calibrationInvalidOrigin === 'matches') {
+      matches.value = '';
+    } else {
+      document.querySelectorAll('input[name="calibration-status"]').forEach(field => {
+        field.checked = false;
+      });
+    }
+    calibrationInvalidOrigin = '';
+    updateCalibrationFields();
+    hideError();
+    (matches.value === '' && calibrationStatus() === 'active'
+      ? matches : document.getElementById('calibration-status-active')).focus();
+  });
   updateCalibrationFields();
 }
 
 function resetCalibrationSelection() {
+  calibrationInvalidOrigin = '';
   restoreRequestedTarget();
   document.querySelectorAll('input[name="calibration-status"]').forEach(field => {
     field.checked = false;
@@ -159,6 +190,33 @@ function resetCalibrationSelection() {
     const field = document.getElementById(id);
     if (field) field.value = '';
   }
+}
+
+function placementInference() {
+  if (calibrationStatus() !== 'active' ||
+      document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey !== 'mythic') {
+    return { wins: null, error: '', origin: '' };
+  }
+  const stars = getStarsValue('from');
+  const matchesValue = document.getElementById('calibration-matches')?.value;
+  const matches = matchesValue === '' ? null : Number(matchesValue);
+  if (stars >= 0 && stars <= 10 && stars % 2) {
+    return { wins: null, origin: 'status', error: isEnglish()
+      ? `You entered ${stars}⭐. The first five placement wins give 2⭐ each, so the current total up to 10⭐ must be even.`
+      : `Вы указали ${stars}⭐. Первые пять побед калибровки дают по 2⭐, поэтому до 10⭐ число звёзд должно быть чётным.` };
+  }
+  const wins = stars >= 0 && stars <= 10 ? stars / 2 : null;
+  if (matches !== null && stars > 0 && matches === 0) {
+    return { wins, origin: 'matches', error: isEnglish()
+      ? 'You entered 0 matches, but your current rank already has placement stars. Check your rank and match count.'
+      : 'Вы указали 0 матчей, но в текущем ранге уже есть звёзды. Проверьте ранг и число матчей.' };
+  }
+  if (matches !== null && wins !== null && wins > matches) {
+    return { wins, origin: 'matches', error: isEnglish()
+      ? `${stars}⭐ means ${wins} wins, but only ${matches} matches were entered. Check your rank and match count.`
+      : `${stars}⭐ означают ${wins} побед, но сыграно только ${matches} матчей. Проверьте ранг и число матчей.` };
+  }
+  return { wins, error: '', origin: '' };
 }
 
 function needsCalibrationQuestion() {
@@ -204,9 +262,13 @@ function updatePlacementTargetPreview() {
     const matchesValue = document.getElementById('calibration-matches')?.value;
     if (matchesValue === '') { restoreRequestedTarget(); return; }
     matches = Number(matchesValue);
+    const inferred = placementInference();
+    if (inferred.error) { restoreRequestedTarget(); return; }
     const winsValue = document.getElementById('calibration-wins')?.value;
-    if (matches > 0 && winsValue === '') { restoreRequestedTarget(); return; }
-    wins = matches === 0 ? 0 : Number(winsValue);
+    if (inferred.wins === null && matches > 0 && winsValue === '') {
+      restoreRequestedTarget(); return;
+    }
+    wins = inferred.wins ?? (matches === 0 ? 0 : Number(winsValue));
   }
 
   const routeStars = requested - (fromKey === 'mythic' ? getStarsValue('from') : 0);
@@ -244,13 +306,23 @@ function updateCalibrationFields() {
     matches.value = '';
     wins.value = '';
     restoreRequestedTarget();
+    document.getElementById('calibration-invalid')?.classList.add('hidden');
     return;
   }
   const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
   const status = calibrationStatus();
+  const inferred = placementInference();
+  calibrationInvalidOrigin = inferred.origin;
+  const invalid = document.getElementById('calibration-invalid');
+  invalid?.classList.toggle('hidden', !inferred.error);
+  const reason = document.getElementById('calibration-invalid-reason');
+  if (reason) reason.textContent = inferred.error;
+  document.getElementById('calibration-status-label')?.classList.toggle('hidden', !!inferred.error);
+  document.querySelector('.calibration-choices')?.classList.toggle('hidden', !!inferred.error);
   progress.classList.toggle('hidden', status !== 'active' || !fromMythic);
   const count = matches.value === '' ? null : Number(matches.value);
-  winsWrap.classList.toggle('hidden', !fromMythic || status !== 'active' || count === null || count === 0);
+  if (inferred.error) progress.classList.add('hidden');
+  winsWrap.classList.toggle('hidden', !fromMythic || status !== 'active' || count === null || count === 0 || inferred.wins !== null);
   const selectedWin = wins.value;
   wins.innerHTML = '<option value="">Выберите точное число</option>';
   if (count !== null && count > 0) {
@@ -259,7 +331,8 @@ function updateCalibrationFields() {
     }
     if (selectedWin !== '' && Number(selectedWin) <= count) wins.value = selectedWin;
   }
-  updatePlacementTargetPreview();
+  if (inferred.error) restoreRequestedTarget();
+  else updatePlacementTargetPreview();
 }
 
 function readCalibration() {
@@ -271,11 +344,16 @@ function readCalibration() {
   if (status === 'passed') return { status: 'passed' };
   const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
   if (!fromMythic) return { status: 'active', matches_played: 0, wins_played: 0 };
+  const inferred = placementInference();
+  if (inferred.error) throw Object.assign(new Error(inferred.error), { fieldId: 'rank-from' });
   const matchesValue = document.getElementById('calibration-matches')?.value;
   if (matchesValue === '') throw Object.assign(new Error(isEnglish()
     ? 'Select the exact number of placement matches played, from 0 to 9.'
     : 'Укажите точное число сыгранных матчей калибровки: от 0 до 9.'), { fieldId: 'calibration-matches' });
   const matches = Number(matchesValue);
+  if (inferred.wins !== null) {
+    return { status: 'active', matches_played: matches, wins_played: inferred.wins };
+  }
   const winsValue = document.getElementById('calibration-wins')?.value;
   if (matches > 0 && winsValue === '') throw Object.assign(new Error(isEnglish()
     ? 'Select the exact number of placement wins.'
@@ -925,7 +1003,7 @@ document.addEventListener('mlbb:ratechange', refreshResultCurrency);
 // Re-render the result when the site language switches (RUB <-> USD).
 document.addEventListener('mlbb:langchange', refreshResultCurrency);
 document.addEventListener('mlbb:langchange', () => {
-  updatePlacementTargetPreview();
+  updateCalibrationFields();
   renderResultTargetNote();
 });
 
