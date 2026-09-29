@@ -203,8 +203,6 @@ window.MLBB_DICT = {
   'Цель': 'Target',
   'Выберите цель': 'Select a target',
   'Желаемый ранг': 'Target rank',
-  '✅ Да': '✅ Yes',
-  '❌ Нет': '❌ No',
   'Уточним прогресс для точного расчёта': 'Enter your progress for an accurate quote',
   'Проходили ли вы калибровку в этом сезоне?': 'Have you completed placement this season?',
   'Выберите ответ': 'Select an answer',
