@@ -862,3 +862,9 @@
     border-radius: 12px;
   }
 }
+.calibration-price-note {
+  margin: 0 0 14px;
+  color: #decba1;
+  font-size: .88rem;
+  line-height: 1.4;
+}

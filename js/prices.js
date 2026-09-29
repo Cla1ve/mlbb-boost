@@ -74,6 +74,17 @@ const LAST_KNOWN_PRICES = [
     ]
   },
   {
+    category: 'mythic_calibration',
+    category_name: 'Мифическая калибровка',
+    unit: 'win',
+    prices: [
+      { type: 'hero', type_name: 'На герое', price: 225 },
+      { type: 'party', type_name: 'В пати', price: 315 },
+      { type: 'role', type_name: 'На роли', price: 180 },
+      { type: 'standard', type_name: 'Стандарт', price: 165 }
+    ]
+  },
+  {
     category: 'honor',
     category_name: 'Честь',
     prices: [
@@ -119,6 +130,7 @@ const SCHEMA_OFFER_NAMES = {
   epic: 'Epic буст',
   legend: 'Legend буст',
   mythic: 'Mythic буст',
+  mythic_calibration: 'Mythic placement win',
   honor: 'Mythical Honor буст',
   glory: 'Mythical Glory буст',
   immortal: 'Mythical Immortal буст'

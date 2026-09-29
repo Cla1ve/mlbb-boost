@@ -95,7 +95,7 @@
     gtag('config', 'G-6HJ7194FZC');
   </script>
   
-  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/main.css?v=mythic-calibration-2">
   <link rel="stylesheet" href="styles/animations.css">
   <link rel="stylesheet" href="styles/contact.css">
   <link rel="stylesheet" href="styles/legal.css">
@@ -418,6 +418,33 @@
 
             <!-- Options Section -->
             <div class="options-section">
+              <div class="calibration-card hidden" id="calibration-card">
+                <div class="calibration-heading">
+                  <img src="Ранги/Mythic.webp" alt="" width="36" height="36">
+                  <div>
+                    <strong>Мифическая калибровка</strong>
+                    <span>Уточним прогресс для точного расчёта</span>
+                  </div>
+                </div>
+                <label for="calibration-status">Проходили ли вы калибровку в этом сезоне?</label>
+                <select id="calibration-status" class="rank-select">
+                  <option value="" selected>Выберите ответ</option>
+                  <option value="passed">Да</option>
+                  <option value="active">Нет</option>
+                </select>
+                <div class="calibration-progress hidden" id="calibration-progress">
+                  <label for="calibration-matches">Сколько матчей калибровки уже сыграли?</label>
+                  <select id="calibration-matches" class="rank-select">
+                    <option value="" selected>Выберите точное число</option>
+                  </select>
+                  <div id="calibration-wins-wrap" class="hidden">
+                    <label for="calibration-wins">Сколько побед одержали в этих матчах?</label>
+                    <select id="calibration-wins" class="rank-select">
+                      <option value="" selected>Выберите точное число</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
               <!-- Weak Account Checkbox - Premium Toggle -->
               <div class="weak-account-option">
                 <label class="toggle-container">
@@ -623,6 +650,7 @@
                 </span>
               </div>
             </div>
+            <div class="calibration-result hidden" id="calibration-result"></div>
 
             <!-- Discount Badge - Animated -->
             <div class="discount-ribbon">

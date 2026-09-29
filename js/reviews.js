@@ -84,6 +84,7 @@
     boosterRoleLabel:{ ru: 'Роль бустера', en: 'Booster role' },
     rankLabel:      { ru: 'Ранг',          en: 'Rank' },
     durationLabel:  { ru: 'Срок',          en: 'Duration' },
+    calibrationLabel: { ru: 'Калибровка', en: 'Placement' },
     orderLabel:     { ru: 'Заказ',         en: 'Order' },
     stageLabel:     { ru: 'Этап',          en: 'Stage' },
     winsLabel:      { ru: 'Нужно побед',   en: 'Wins required' },
@@ -350,6 +351,7 @@
       r.__search = norm([
         r.text, r.booster && r.booster.name, r.hero, r.rank_from, r.rank_to,
         r.preferred_role, r.client_role, r.booster_role, r.boost_type_name,
+        r.calibration ? 'калибровка placement' : '',
         r.order_short, r.post_no != null ? ('№' + r.post_no + ' ' + r.post_no) : ''
       ].join(' '));
       state.all.push(r);
@@ -434,6 +436,16 @@
     }
 
     // Срок
+    if (r.calibration && Number(r.calibration.wins) > 0) {
+      var placementWins = Number(r.calibration.wins);
+      var placementStars = Number(r.calibration.result_stars) || placementWins * 2;
+      var winWord = placementWins === 1 ? 'победа' :
+        (placementWins < 5 ? 'победы' : 'побед');
+      var placementText = state.lang === 'en'
+        ? placementWins + (placementWins === 1 ? ' win' : ' wins') + ' · +' + placementStars + '⭐'
+        : placementWins + ' ' + winWord + ' · +' + placementStars + '⭐';
+      box.appendChild(paramRow('fa-trophy', L('calibrationLabel'), placementText)); any = true;
+    }
     if (r.duration) { box.appendChild(paramRow('fa-clock', L('durationLabel'), localizeDuration(r.duration))); any = true; }
 
     return any ? box : null;

@@ -77,10 +77,12 @@ function initCalculator() {
   
   if (rankFromSelect) {
     rankFromSelect.addEventListener('change', () => {
+      resetCalibrationSelection();
       updateStarsInput('from');
       updateRankImage('from');
       validateAndFilterTargetRanks();
       updateProgressSteps();
+      updateCalibrationFields();
     });
   }
   
@@ -89,6 +91,7 @@ function initCalculator() {
       updateStarsInput('to');
       updateRankImage('to');
       updateProgressSteps();
+      updateCalibrationFields();
     });
   }
 
@@ -96,22 +99,101 @@ function initCalculator() {
   document.addEventListener('change', (e) => {
     if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
       if (e.target.id === 'stars-from') {
+        resetCalibrationSelection();
         validateAndFilterTargetRanks();
       }
       updateProgressSteps();
+      updateCalibrationFields();
     }
   });
 
   document.addEventListener('input', (e) => {
     if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
       if (e.target.id === 'stars-from') {
+        resetCalibrationSelection();
         validateAndFilterTargetRanks();
       }
+      updateCalibrationFields();
     }
   });
 
   updateRankImage('from');
   updateRankImage('to');
+  initializeCalibrationFields();
+}
+
+function initializeCalibrationFields() {
+  const matches = document.getElementById('calibration-matches');
+  if (!matches) return;
+  for (let count = 0; count <= 9; count++) {
+    matches.add(new Option(String(count), String(count)));
+  }
+  document.getElementById('calibration-status')?.addEventListener('change', updateCalibrationFields);
+  matches.addEventListener('change', updateCalibrationFields);
+  updateCalibrationFields();
+}
+
+function resetCalibrationSelection() {
+  for (const id of ['calibration-status', 'calibration-matches', 'calibration-wins']) {
+    const field = document.getElementById(id);
+    if (field) field.value = '';
+  }
+}
+
+function needsCalibrationQuestion() {
+  if (currentBoostType === 'rising') return false;
+  const from = document.getElementById('rank-from');
+  const to = document.getElementById('rank-to');
+  const fromKey = from?.selectedOptions[0]?.dataset.rankKey;
+  const toKey = to?.selectedOptions[0]?.dataset.rankKey;
+  if (!fromKey || !toKey || !MYTHIC_RANKS[toKey]) return false;
+  if (fromKey === 'mythic') return getStarsValue('from') <= 15;
+  return !MYTHIC_RANKS[fromKey];
+}
+
+function updateCalibrationFields() {
+  const card = document.getElementById('calibration-card');
+  const status = document.getElementById('calibration-status');
+  const progress = document.getElementById('calibration-progress');
+  const matches = document.getElementById('calibration-matches');
+  const winsWrap = document.getElementById('calibration-wins-wrap');
+  const wins = document.getElementById('calibration-wins');
+  if (!card || !status || !progress || !matches || !winsWrap || !wins) return;
+  const needed = needsCalibrationQuestion();
+  card.classList.toggle('hidden', !needed);
+  if (!needed) {
+    status.value = '';
+    matches.value = '';
+    wins.value = '';
+    return;
+  }
+  const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
+  progress.classList.toggle('hidden', status.value !== 'active' || !fromMythic);
+  const count = matches.value === '' ? null : Number(matches.value);
+  winsWrap.classList.toggle('hidden', !fromMythic || status.value !== 'active' || count === null || count === 0);
+  const selectedWin = wins.value;
+  wins.innerHTML = '<option value="">Выберите точное число</option>';
+  if (count !== null && count > 0) {
+    for (let winCount = 0; winCount <= count; winCount++) {
+      wins.add(new Option(String(winCount), String(winCount)));
+    }
+    if (selectedWin !== '' && Number(selectedWin) <= count) wins.value = selectedWin;
+  }
+}
+
+function readCalibration() {
+  if (!needsCalibrationQuestion()) return null;
+  const status = document.getElementById('calibration-status')?.value;
+  if (!status) throw new Error('Укажите, проходили ли вы калибровку в этом сезоне.');
+  if (status === 'passed') return { status: 'passed' };
+  const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
+  if (!fromMythic) return { status: 'active', matches_played: 0, wins_played: 0 };
+  const matchesValue = document.getElementById('calibration-matches')?.value;
+  if (matchesValue === '') throw new Error('Укажите точное число сыгранных матчей калибровки: от 0 до 9.');
+  const matches = Number(matchesValue);
+  const winsValue = document.getElementById('calibration-wins')?.value;
+  if (matches > 0 && winsValue === '') throw new Error('Укажите точное число побед в калибровке.');
+  return { status: 'active', matches_played: matches, wins_played: matches === 0 ? 0 : Number(winsValue) };
 }
 
 /**
@@ -477,6 +559,7 @@ function selectBoostType(type) {
   
   calculationResult?.classList.add('hidden');
   calculationError?.classList.add('hidden');
+  updateCalibrationFields();
 }
 
 function selectRisingStage(stageElement) {
@@ -542,6 +625,14 @@ async function calculatePrice() {
     return;
   }
 
+  let calibration;
+  try {
+    calibration = readCalibration();
+  } catch (error) {
+    showError(error.message);
+    return;
+  }
+
   const calculateBtn = document.getElementById('calculate-btn');
   const btnContent = calculateBtn.querySelector('.btn-content');
   const btnLoading = calculateBtn.querySelector('.btn-loading');
@@ -566,7 +657,8 @@ async function calculatePrice() {
         rank_from: rankFrom,
         rank_to: rankTo,
         boost_type: BOOST_TYPES[currentBoostType].apiType,
-        weak_account_markup: isWeakAccount ? 10 : 0
+        weak_account_markup: isWeakAccount ? 10 : 0,
+        calibration
       }),
       mode: 'cors'
     });
@@ -583,7 +675,8 @@ async function calculatePrice() {
         result.rank_from?.display || rankFrom, 
         result.rank_to?.display || rankTo,
         result.estimated_time || 'уточняется',
-        result.winrate || '90%+'
+        result.winrate || '90%+',
+        result
       );
     } else if (result.error) {
       showError(result.error);
@@ -622,7 +715,7 @@ async function calculatePrice() {
   }
 }
 
-function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate) {
+function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate, calculation) {
   const resultBlock = document.getElementById('calculation-result');
   const resultType = document.getElementById('result-type');
   const resultRoute = document.getElementById('result-route');
@@ -665,6 +758,22 @@ function displayResult(originalPrice, rankFrom, rankTo, estimatedTime, winrate) 
   if (resultTime) resultTime.textContent = estimatedTime;
   if (resultWinrate) resultWinrate.textContent = winrate;
 
+  const calibrationResult = document.getElementById('calibration-result');
+  const segment = calculation?.breakdown?.find(item => item.category === 'mythic_calibration');
+  if (calibrationResult) {
+    calibrationResult.classList.toggle('hidden', !segment);
+    if (segment) {
+      calibrationResult.dataset.wins = String(segment.wins);
+      calibrationResult.dataset.unitRub = String(segment.price_per_win);
+      calibrationResult.dataset.costRub = String(segment.cost);
+      calibrationResult.dataset.stars = String(segment.result_stars);
+      calibrationResult.dataset.overshoot = String(calculation?.calibration?.overshoot_stars || 0);
+      refreshCalibrationResultCurrency();
+    } else {
+      calibrationResult.textContent = '';
+    }
+  }
+
   // Обновляем прогресс-шаги
   const steps = document.querySelectorAll('.progress-step');
   steps.forEach(step => step.classList.add('completed'));
@@ -705,6 +814,22 @@ function refreshResultCurrency() {
       discountedPriceEl.textContent = formatPrice(rub);
     }
   }
+  refreshCalibrationResultCurrency();
+}
+
+function refreshCalibrationResultCurrency() {
+  const node = document.getElementById('calibration-result');
+  if (!node || node.classList.contains('hidden')) return;
+  const wins = Number(node.dataset.wins);
+  const stars = Number(node.dataset.stars);
+  const price = formatPrice(Number(node.dataset.unitRub));
+  const total = formatPrice(Number(node.dataset.costRub));
+  const english = !!(window.MLBBCurrency?.isEnglish?.());
+  const extra = Number(node.dataset.overshoot);
+  node.textContent = (english
+    ? `💎 Placement: ${wins} wins × ${price} = ${total} · +${stars}⭐`
+    : `💎 Калибровка: ${wins} побед × ${price} = ${total} · +${stars}⭐`) +
+    (extra ? (english ? ` · +${extra}⭐ past target` : ` · +${extra}⭐ сверх цели`) : '');
 }
 
 // Initialize the placeholder in the right currency on load.
