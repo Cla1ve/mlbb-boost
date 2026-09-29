@@ -46,7 +46,6 @@ const BOOST_TYPES = {
 
 let currentBoostType = 'standard';
 let requestedCalibrationTargetStars = null;
-let calibrationInvalidOrigin = '';
 
 function calibrationStatus() {
   return document.querySelector('input[name="calibration-status"]:checked')?.value || '';
@@ -113,7 +112,8 @@ function initCalculator() {
     if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
       if (e.target.id === 'stars-to') requestedCalibrationTargetStars = null;
       if (e.target.id === 'stars-from') {
-        resetCalibrationSelection();
+        restoreRequestedTarget();
+        document.getElementById('calibration-wins').value = '';
         validateAndFilterTargetRanks();
       }
       updateProgressSteps();
@@ -125,7 +125,8 @@ function initCalculator() {
     if (e.target.id === 'stars-from' || e.target.id === 'stars-to') {
       if (e.target.id === 'stars-to') requestedCalibrationTargetStars = null;
       if (e.target.id === 'stars-from') {
-        resetCalibrationSelection();
+        restoreRequestedTarget();
+        document.getElementById('calibration-wins').value = '';
         validateAndFilterTargetRanks();
       }
       updateCalibrationFields();
@@ -148,53 +149,10 @@ function initializeCalibrationFields() {
   });
   matches.addEventListener('change', updateCalibrationFields);
   document.getElementById('calibration-wins')?.addEventListener('change', updateCalibrationFields);
-  for (const [id, adjustment] of [
-    ['calibration-rank-lower', -1], ['calibration-rank-higher', 1],
-  ]) {
-    document.getElementById(id)?.addEventListener('click', () => {
-      const inferred = placementInference();
-      const currentStars = getStarsValue('from');
-      if (inferred.origin !== 'status' || currentStars < 1 || currentStars > 9 || currentStars % 2 !== 1) return;
-      restoreRequestedTarget();
-      document.getElementById('stars-from').value = String(currentStars + adjustment);
-      matches.value = '';
-      document.getElementById('calibration-wins').value = '';
-      validateAndFilterTargetRanks();
-      updateProgressSteps();
-      updateCalibrationFields();
-      hideResult();
-      hideError();
-      (document.getElementById('rank-to').value ? matches : document.getElementById('rank-to')).focus();
-    });
-  }
-  document.getElementById('calibration-recalculate')?.addEventListener('click', () => {
-    restoreRequestedTarget();
-    resetCalibrationSelection();
-    updateCalibrationFields();
-    hideResult();
-    hideError();
-    const starsFrom = document.getElementById('stars-from');
-    starsFrom?.focus();
-  });
-  document.getElementById('calibration-invalid-back')?.addEventListener('click', () => {
-    if (calibrationInvalidOrigin === 'matches') {
-      matches.value = '';
-    } else {
-      document.querySelectorAll('input[name="calibration-status"]').forEach(field => {
-        field.checked = false;
-      });
-    }
-    calibrationInvalidOrigin = '';
-    updateCalibrationFields();
-    hideError();
-    (matches.value === '' && calibrationStatus() === 'active'
-      ? matches : document.getElementById('calibration-status-active')).focus();
-  });
   updateCalibrationFields();
 }
 
 function resetCalibrationSelection() {
-  calibrationInvalidOrigin = '';
   restoreRequestedTarget();
   document.querySelectorAll('input[name="calibration-status"]').forEach(field => {
     field.checked = false;
@@ -211,18 +169,22 @@ function placementInference() {
     return { wins: null, error: '', origin: '' };
   }
   const stars = getStarsValue('from');
+  const starsField = document.getElementById('stars-from');
+  if (starsField?.value === '' || !Number.isInteger(stars) || stars < 0 || stars > 24) {
+    return { wins: null, error: '', origin: '' };
+  }
   const matchesValue = document.getElementById('calibration-matches')?.value;
   const matches = matchesValue === '' ? null : Number(matchesValue);
   if (stars >= 0 && stars <= 10 && stars % 2) {
     return { wins: null, origin: 'status', error: isEnglish()
-      ? `You entered ${stars}⭐. The first five placement wins give 2⭐ each, so the current total up to 10⭐ must be even.`
-      : `Вы указали ${stars}⭐. Первые пять побед калибровки дают по 2⭐, поэтому до 10⭐ число звёзд должно быть чётным.` };
+      ? 'During active placement, enter an even star total up to 10⭐.'
+      : 'При активной калибровке до 10⭐ укажите чётное число звёзд.' };
   }
   const wins = stars >= 0 && stars <= 10 ? stars / 2 : null;
   if (matches !== null && stars > 0 && matches === 0) {
     return { wins, origin: 'matches', error: isEnglish()
-      ? 'You entered 0 matches, but your current rank already has placement stars. Check your rank and match count.'
-      : 'Вы указали 0 матчей, но в текущем ранге уже есть звёзды. Проверьте ранг и число матчей.' };
+      ? 'Your rank already has stars. Enter the number of matches played.'
+      : 'В текущем ранге уже есть звёзды. Укажите число сыгранных матчей.' };
   }
   if (matches !== null && wins !== null && wins > matches) {
     const winsWord = wins === 1 ? 'победу' : wins >= 2 && wins <= 4 ? 'победы' : 'побед';
@@ -232,6 +194,34 @@ function placementInference() {
       : `Текущий ранг ${stars}⭐ означает ${wins} ${winsWord}, но сыграно только ${matches} ${matchesWord}. Проверьте ранг и число матчей.` };
   }
   return { wins, error: '', origin: '' };
+}
+
+function setCalibrationFieldError(fieldId, message) {
+  const field = document.getElementById(fieldId);
+  const error = document.getElementById(`${fieldId}-error`);
+  if (!field || !error) return false;
+  error.textContent = message;
+  error.classList.remove('hidden');
+  field.dataset.calibrationInvalid = 'true';
+  field.setAttribute('aria-invalid', 'true');
+  const descriptions = new Set((field.getAttribute('aria-describedby') || '').split(' ').filter(Boolean));
+  descriptions.add(error.id);
+  field.setAttribute('aria-describedby', [...descriptions].join(' '));
+  return true;
+}
+
+function clearCalibrationFieldErrors() {
+  for (const fieldId of ['stars-from', 'calibration-status-passed', 'calibration-matches', 'calibration-wins']) {
+    const field = document.getElementById(fieldId);
+    const error = document.getElementById(`${fieldId}-error`);
+    error?.classList.add('hidden');
+    if (!field?.dataset.calibrationInvalid) continue;
+    delete field.dataset.calibrationInvalid;
+    field.removeAttribute('aria-invalid');
+    const descriptions = (field.getAttribute('aria-describedby') || '').split(' ').filter(id => id && id !== error?.id);
+    if (descriptions.length) field.setAttribute('aria-describedby', descriptions.join(' '));
+    else field.removeAttribute('aria-describedby');
+  }
 }
 
 function needsCalibrationQuestion() {
@@ -312,6 +302,7 @@ function updateCalibrationFields() {
   const winsWrap = document.getElementById('calibration-wins-wrap');
   const wins = document.getElementById('calibration-wins');
   if (!card || !progress || !matches || !winsWrap || !wins) return;
+  clearCalibrationFieldErrors();
   const needed = needsCalibrationQuestion();
   card.classList.toggle('hidden', !needed);
   if (!needed) {
@@ -321,42 +312,19 @@ function updateCalibrationFields() {
     matches.value = '';
     wins.value = '';
     restoreRequestedTarget();
-    document.getElementById('calibration-invalid')?.classList.add('hidden');
     return;
   }
   const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
   const status = calibrationStatus();
   const inferred = placementInference();
-  calibrationInvalidOrigin = inferred.origin;
-  const invalid = document.getElementById('calibration-invalid');
-  invalid?.classList.toggle('hidden', !inferred.error);
-  const reason = document.getElementById('calibration-invalid-reason');
-  const oddRank = !!inferred.error && inferred.origin === 'status';
-  document.getElementById('calibration-odd-quote')?.classList.toggle('hidden', !oddRank);
-  document.getElementById('calibration-rank-choices')?.classList.toggle('hidden', !oddRank);
-  if (reason) {
-    reason.textContent = oddRank ? '' : inferred.error;
-    reason.classList.toggle('hidden', oddRank);
+  if (inferred.error) {
+    setCalibrationFieldError(inferred.origin === 'status' ? 'stars-from' : 'calibration-matches', inferred.error);
   }
-  const hint = document.getElementById('calibration-invalid-hint');
-  if (hint) hint.textContent = oddRank
-    ? (isEnglish() ? 'Check your stars in the game profile and choose the correct rank.'
-      : 'Сверьте звёзды в профиле игры и выберите верный ранг.')
-    : (isEnglish() ? 'Check your stars and match count in the game profile.'
-      : 'Сверьте звёзды и число матчей в профиле игры.');
-  if (oddRank) {
-    const name = isEnglish() ? 'Mythic' : 'Мифик';
-    const stars = getStarsValue('from');
-    document.getElementById('calibration-odd-rank').textContent = `${name}, ${stars}⭐️`;
-    document.querySelector('#calibration-rank-lower span').textContent = `${name} ${stars - 1}⭐️`;
-    document.querySelector('#calibration-rank-higher span').textContent = `${name} ${stars + 1}⭐️`;
-  }
-  document.getElementById('calibration-status-label')?.classList.toggle('hidden', !!inferred.error);
-  document.querySelector('.calibration-choices')?.classList.toggle('hidden', !!inferred.error);
-  progress.classList.toggle('hidden', status !== 'active' || !fromMythic);
+  progress.classList.toggle('hidden', status !== 'active' || !fromMythic || inferred.origin === 'status');
   const count = matches.value === '' ? null : Number(matches.value);
-  if (inferred.error) progress.classList.add('hidden');
-  winsWrap.classList.toggle('hidden', !fromMythic || status !== 'active' || count === null || count === 0 || inferred.wins !== null);
+  const showWins = fromMythic && status === 'active' && count !== null && count > 0 && inferred.wins === null;
+  winsWrap.classList.toggle('hidden', !showWins);
+  progress.classList.toggle('with-wins', showWins);
   const selectedWin = wins.value;
   wins.innerHTML = '<option value="">Выберите точное число</option>';
   if (count !== null && count > 0) {
@@ -379,7 +347,9 @@ function readCalibration() {
   const fromMythic = document.getElementById('rank-from')?.selectedOptions[0]?.dataset.rankKey === 'mythic';
   if (!fromMythic) return { status: 'active', matches_played: 0, wins_played: 0 };
   const inferred = placementInference();
-  if (inferred.error) throw Object.assign(new Error(inferred.error), { fieldId: 'rank-from' });
+  if (inferred.error) throw Object.assign(new Error(inferred.error), {
+    fieldId: inferred.origin === 'status' ? 'stars-from' : 'calibration-matches',
+  });
   const matchesValue = document.getElementById('calibration-matches')?.value;
   if (matchesValue === '') throw Object.assign(new Error(isEnglish()
     ? 'Select the exact number of placement matches played, from 0 to 9.'
@@ -567,7 +537,7 @@ function updateStarsInput(type) {
     
     starsContainer.innerHTML = `
       <label for="stars-${type}">
-        <i class="fas fa-star"></i> Очки
+        <i class="fas fa-star"></i> Звёзды
       </label>
       <div class="select-wrapper">
         <input type="number" 
@@ -1057,11 +1027,16 @@ function formatPrice(price) {
 }
 
 function showError(message, fieldId = null) {
+  const field = fieldId ? document.getElementById(fieldId) : null;
+  if (field && setCalibrationFieldError(fieldId, message)) {
+    field.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    field.focus({ preventScroll: true });
+    return;
+  }
   const error = document.getElementById('form-error');
   if (!error) return;
   error.textContent = message;
   error.classList.remove('hidden');
-  const field = fieldId ? document.getElementById(fieldId) : null;
   if (field) {
     field.setAttribute('aria-invalid', 'true');
     field.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -1074,7 +1049,7 @@ function showError(message, fieldId = null) {
 function hideError() {
   document.getElementById('form-error')?.classList.add('hidden');
   document.querySelectorAll('#calculator-form [aria-invalid="true"]').forEach(field => {
-    field.removeAttribute('aria-invalid');
+    if (!field.dataset.calibrationInvalid) field.removeAttribute('aria-invalid');
   });
 }
 
