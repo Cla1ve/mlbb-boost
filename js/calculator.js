@@ -231,6 +231,7 @@ function needsCalibrationQuestion() {
   const fromKey = from?.selectedOptions[0]?.dataset.rankKey;
   const toKey = to?.selectedOptions[0]?.dataset.rankKey;
   if (!fromKey || !toKey || !MYTHIC_RANKS[toKey]) return false;
+  if (toKey === 'mythic' && getStarsValue('to') === 0) return false;
   if (fromKey === 'mythic') return getStarsValue('from') < 10;
   return !MYTHIC_RANKS[fromKey];
 }
@@ -502,7 +503,6 @@ function generateRankOptions() {
     optionFrom.dataset.maxStars = rank.to;
     
     const optionTo = optionFrom.cloneNode(true);
-    if (key === 'mythic') optionTo.dataset.minStars = 1;
     
     optgroupFrom.appendChild(optionFrom);
     optgroupTo.appendChild(optionTo);
