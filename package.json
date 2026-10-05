@@ -13,7 +13,7 @@
     "site:sync-data": "node scripts/sync-public-data.mjs",
     "site:build": "node scripts/site-build.mjs && npm run news:build",
     "site:validate": "node scripts/validate-site.mjs && npm run news:validate",
-    "test": "node scripts/test-calibration-routes.cjs && node scripts/test-worker.cjs && node scripts/test-review-text.cjs",
+    "test": "node scripts/test-calibration-routes.cjs && node scripts/test-bot-calculation-link.cjs && node scripts/test-worker.cjs && node scripts/test-review-text.cjs",
     "site:prepare": "npm run site:build && npm run site:validate && npm test",
     "worker:deploy": "wrangler deploy",
     "worker:dev": "wrangler dev"
