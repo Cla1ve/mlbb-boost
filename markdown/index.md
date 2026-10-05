@@ -149,20 +149,17 @@ Team Spirit стала первым неазиатским чемпионом MS
 
     Буст ранга, пати, роль или герой — найдите услугу под вашу цель.
 
-    [Сравнить услуги](https://boostmlbb.ru/services.html)
 2.  02
 
     ### Узнайте стоимость
 
     Укажите текущий и желаемый ранги. Калькулятор покажет сумму заказа.
 
-    [Рассчитать стоимость](https://boostmlbb.ru/order.html)
 3.  03
 
     ### Оформите заказ
 
     Откройте Telegram-бота, согласуйте заказ и удобное время начала.
 
-    [Открыть бота](https://t.me/cla1ve_boost_bot?start=site)
 
-[Мифическая калибровка](https://boostmlbb.ru/guides/mythic-placement.html)[Помощь с выбором формата](https://boostmlbb.ru/guides/party-boost.html)
+[Рассчитать стоимость буста](https://boostmlbb.ru/order.html)

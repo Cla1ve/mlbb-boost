@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'mlbb-boost-v30-ui';
+const CACHE_VERSION = 'mlbb-boost-v31-order-guide';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;

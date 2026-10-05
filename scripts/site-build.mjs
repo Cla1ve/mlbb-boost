@@ -209,7 +209,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
-    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=30'; document.head.append(interfaceStyle);
+    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=31'; document.head.append(interfaceStyle);
     document.querySelector('script[src*="/js/ui.js"]')?.remove();
     if (['prices.html', 'reviews.html'].includes(file)) {
       const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);

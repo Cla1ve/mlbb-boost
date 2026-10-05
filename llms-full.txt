@@ -270,23 +270,20 @@ Choose a format, check the price and arrange a convenient time.
 
     Rank boost, party play, a preferred role or hero. Find the option that suits your goal.
 
-    [Compare services](https://boostmlbb.ru/en/services.html)
 2.  02
 
     ### Check the price
 
     Enter your current and target ranks. The calculator will show your order estimate.
 
-    [Calculate the price](https://boostmlbb.ru/en/order.html)
 3.  03
 
     ### Place your order
 
     Open the Telegram bot to arrange your order and confirm the start time.
 
-    [Open the bot](https://t.me/cla1ve_boost_bot?start=site)
 
-[Mythic placement](https://boostmlbb.ru/en/guides/mythic-placement.html)[Help choosing a format](https://boostmlbb.ru/en/guides/party-boost.html)
+[Calculate boost price](https://boostmlbb.ru/en/order.html)
 
 ---
 
