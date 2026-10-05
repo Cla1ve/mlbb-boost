@@ -23,8 +23,6 @@ On hero
 
 In party
 
-Base rates in RUB, checked 2026-10-05. [Public price source](https://cla1veisapi.ru/prices/formatted).
-
 ![Warrior](/images/ranks/Warrior.webp) ![Elite](/images/ranks/Elite.webp)
 
 ### Warrior, Elite
@@ -176,13 +174,3 @@ The final price depends on your route and boost type. Use the [calculator](https
 ### Ready to order a boost?
 
 [Calculate the price](https://boostmlbb.ru/en/order.html) [Order in the bot](https://t.me/cla1ve_boost_bot?start=site)
-
-## How MLBB boost pricing works
-
-Rank boost rates are quoted per star. Mythic placement is charged per win and calculated separately. A route crossing several ranks adds up the cost of each part; multiplying every star by the starting rank rate would be inaccurate.
-
-The minimum rank boost order is 5 stars. Account requirements can affect the total: the calculator shows surcharges and a possible first-order discount separately. Confirm discount eligibility and the final amount before payment.
-
-The table lists base rates in roubles. The verification date appears above the table. If the API is unavailable, the last checked price list stays available. Dollar amounts shown interactively are estimates using the exchange rate.
-
-[Calculate your route](https://boostmlbb.ru/en/order.html)[Understand Mythic placement](https://boostmlbb.ru/en/guides/mythic-placement.html)[Refund policy](https://boostmlbb.ru/en/refund.html)

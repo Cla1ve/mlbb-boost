@@ -1,5 +1,5 @@
 ---
-title: "Mobile Legends Boost Reviews & Source Links | MLBB Boost"
+title: "Mobile Legends Boost Customer Reviews | MLBB Boost"
 description: "Read published MLBB Boost customer reviews, ratings and original Telegram messages. Filter by assigned player, service type and rating."
 canonical: https://boostmlbb.ru/en/reviews.html
 language: en
@@ -29,9 +29,9 @@ Real reviews from real clients
 
 You can leave a review only after a purchase
 
-## Published reviews and their sources
+## Customer reviews on Telegram
 
-1151 complete published reviews; average 5.0/5; 99% rated 4 or 5. Checked 2026-10-05. These figures describe published reviews, not independent certification.
+1151 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
 
 > спасибо за усердную работу 🥰
 >
@@ -44,5 +44,3 @@ You can leave a review only after a purchase
 > Идеально, быстро и четко
 >
 > 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/1954)
-
-The original review texts above are in Russian. Interactive filters load the complete public collection. If loading fails, these source links remain available.

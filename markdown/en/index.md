@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/
 language: en
 ---
 
-Reviews with sources
+Customer reviews
 
 1151 reviews
 
@@ -21,7 +21,7 @@ Role Choose a role
 
 Hero Choose a hero
 
-[Buy boost Place order](https://boostmlbb.ru/en/order.html?type=standard) [View reviews Client reviews](https://boostmlbb.ru/en/reviews.html)
+[Buy boost Place order](https://boostmlbb.ru/en/order.html?type=standard) [View reviews Customer reviews](https://boostmlbb.ru/en/reviews.html)
 
 Scroll down
 
@@ -137,31 +137,22 @@ Confirm your order and first-order discount eligibility
 
 [Buy boost](https://t.me/cla1ve_boost_bot?start=site) [Calculate price](https://boostmlbb.ru/en/order.html)
 
-From estimate to order
+## How to order a boost
 
-## How to order a Mobile Legends boost
+1.  ### Choose a service
 
-1.  ### Choose a format
-
-    Account boosting requires game account access. With party play, you play alongside the assigned player. Preferred role, hero and Rising options are also available.
+    Choose rank boosting, party play, a preferred role or a hero to suit your goal.
 
     [Compare services](https://boostmlbb.ru/en/services.html)
-2.  ### Calculate your route
+2.  ### Check the price
 
-    Enter your current and target ranks, stars and Mythic placement status. Each part of the route uses its own rank rate.
+    Enter your current and target ranks in the calculator to see your order estimate.
 
-    [Open calculator](https://boostmlbb.ru/en/order.html)
-3.  ### Check the terms
+    [Calculate the price](https://boostmlbb.ru/en/order.html)
+3.  ### Place your order
 
-    Read published reviews, the refund policy and account access risks. Confirm the price and timing with support before paying.
+    Open the Telegram bot, choose your service and confirm the start time.
 
-    [Read the FAQ](https://boostmlbb.ru/en/faq.html)
-4.  ### Place your order
+    [Open the Telegram bot](https://t.me/cla1ve_boost_bot?start=site)
 
-    Orders and player assignment are arranged through Telegram. The website calculator provides a preliminary estimate.
-
-    [Contact support](https://t.me/Cla1ve)
-
-**MLBB Boost is an independent service.** We help arrange game services and player assignments under the [public offer](https://boostmlbb.ru/en/offer.html). The service is not an official partner of MOONTON Games.
-
-[How Mythic placement pricing works](https://boostmlbb.ru/en/guides/mythic-placement.html)[Party play versus account boosting](https://boostmlbb.ru/en/guides/party-boost.html)
+[Mythic placement](https://boostmlbb.ru/en/guides/mythic-placement.html)[Choose your boost format](https://boostmlbb.ru/en/guides/party-boost.html)

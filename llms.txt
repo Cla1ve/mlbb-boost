@@ -2,7 +2,7 @@
 
 > Independent service for arranging Mobile Legends: Bang Bang rank boosts and party play. Not affiliated with MOONTON Games.
 
-Orders are arranged through Telegram. Estimates use public API base rates in RUB; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.
+Orders are arranged through Telegram. Check the website prices and calculator for order estimates; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.
 
 ## Services and policies
 - [About MLBB Boost — Service, Contacts & Policies](https://boostmlbb.ru/en/about.html)
@@ -12,20 +12,17 @@ Orders are arranged through Telegram. Estimates use public API base rates in RUB
 - [Mobile Legends Boost Calculator — Route Price | MLBB Boost](https://boostmlbb.ru/en/order.html)
 - [MLBB Boost Prices by Rank & Placement Wins | MLBB Boost](https://boostmlbb.ru/en/prices.html)
 - [Refund Policy | MLBB Boost - boostmlbb.ru](https://boostmlbb.ru/en/refund.html)
-- [Mobile Legends Boost Reviews & Source Links | MLBB Boost](https://boostmlbb.ru/en/reviews.html)
+- [Mobile Legends Boost Customer Reviews | MLBB Boost](https://boostmlbb.ru/en/reviews.html)
 - [Security and Payments Policy | MLBB Boost - boostmlbb.ru](https://boostmlbb.ru/en/security.html)
 - [MLBB Boost Services: Rank, Party & Hero | MLBB Boost](https://boostmlbb.ru/en/services.html)
 
 ## Guides
-- [MLBB Mythic Placement Pricing Explained | MLBB Boost](https://boostmlbb.ru/en/guides/mythic-placement.html)
+- [MLBB Mythic Placement — Rates & Orders | MLBB Boost](https://boostmlbb.ru/en/guides/mythic-placement.html)
 - [MLBB Party Play vs Account Boosting | MLBB Boost](https://boostmlbb.ru/en/guides/party-boost.html)
 
 ## Machine-readable public resources
-- [API description](https://cla1veisapi.ru/openapi.json)
-- [Current price list](https://cla1veisapi.ru/prices/formatted)
-- [API catalog](https://boostmlbb.ru/.well-known/api-catalog.json)
 - [Full content in Markdown](https://boostmlbb.ru/llms-full.txt)
 - [Russian news feed](https://boostmlbb.ru/news/rss.xml)
 - [English news feed](https://boostmlbb.ru/en/news/rss.xml)
 
-Static Markdown alternatives are declared by each HTML page. Accept: text/markdown negotiation is not enabled on GitHub Pages.
+Read the linked website pages for the complete service terms.

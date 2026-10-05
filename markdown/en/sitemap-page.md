@@ -14,7 +14,7 @@ Full list of boostmlbb.ru pages
 -   [Homepage](https://boostmlbb.ru/en/)
 -   [Our services](https://boostmlbb.ru/en/services.html)
 -   [Boost prices](https://boostmlbb.ru/en/prices.html)
--   [Client reviews](https://boostmlbb.ru/en/reviews.html)
+-   [Customer reviews](https://boostmlbb.ru/en/reviews.html)
 -   [Mobile Legends news](https://boostmlbb.ru/en/news/)
 -   [Frequently asked questions](https://boostmlbb.ru/en/faq.html)
 -   [About](https://boostmlbb.ru/en/about.html)

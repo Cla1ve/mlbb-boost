@@ -59,6 +59,9 @@ for (const pathname of paths) {
     }
   }
   const markdown = document.querySelector('link[type="text/markdown"]');
+  for (const link of document.querySelectorAll('main a[href], .site-footer a[href]')) {
+    assert(!link.getAttribute('href').includes('cla1veisapi.ru'), `${pathname}: backend link shown to customers`);
+  }
   if (markdown) assert((await read(filename(new URL(markdown.href, canonical).pathname))).includes(`canonical: ${canonical}`));
   if (pathname.includes('404.html')) assert(document.querySelector('meta[name="robots"]').content.includes('noindex'));
   pages.set(canonical, { document, targets });
@@ -81,6 +84,10 @@ assert.equal(data.prices.length, 9);
 assert(Number.isFinite(Date.parse(data.checkedAt)));
 for (const langPath of ['', '/en']) {
   const pricePage = pages.get(origin + langPath + '/prices.html').document;
+  assert(!pricePage.querySelector('[data-seo-generated="price-date"],[data-seo-generated="content"]'), 'Technical price information must stay out of the customer page');
+  for (const price of pricePage.querySelectorAll('[data-category="mythic_calibration"] [data-type]')) {
+    assert(price.textContent.endsWith(langPath ? '/win' : '/победа'), 'Incorrect placement price unit');
+  }
   for (const row of data.prices) for (const price of row.prices) {
     assert.equal(Number.parseFloat(pricePage.querySelector(`[data-category="${row.category}"] [data-type="${price.type}"]`).textContent), price.price, 'Static prices differ from the API snapshot');
   }

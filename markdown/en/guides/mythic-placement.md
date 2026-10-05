@@ -1,38 +1,34 @@
 ---
-title: "MLBB Mythic Placement Pricing Explained | MLBB Boost"
-description: "How MLBB Boost calculates Mythic placement: per-win pricing, Legend to Mythic entry and rank routes after placement."
+title: "MLBB Mythic Placement — Rates & Orders | MLBB Boost"
+description: "Compare Mobile Legends Mythic placement formats and per-win rates. Learn what to enter in the calculator and how to order Mythic rank entry."
 canonical: https://boostmlbb.ru/en/guides/mythic-placement.html
 language: en
 ---
 
 [Home](https://boostmlbb.ru/en/) / [Services](https://boostmlbb.ru/en/services.html)
 
-# Mythic placement: how your order is calculated
+# Mythic placement in Mobile Legends
 
-MLBB Boost calculates ordinary rank progression per star and Mythic placement per win. These are different pricing units, so they appear as separate parts of an estimate.
+Choose a boost format and enter how many placement matches you have already played. The calculator will show your order estimate.
 
-## From Legend to Mythic
+## Placement rates
 
-If your target is entering Mythic at zero stars, the order ends at the rank boundary. Extra placement wins are not required for that target. If your target continues higher, the calculator includes placement and subsequent stars as separate parts.
+Rates are quoted per win. Account, party, role and hero boosting have different rates. Compare them on the [prices page](https://boostmlbb.ru/en/prices.html) or check your estimate in the [calculator](https://boostmlbb.ru/en/order.html).
 
-## If you are already in Mythic
+## What to enter
 
-Specify whether placement is complete. If it is not, enter the matches played and wins so the remaining part can be calculated without charging again for completed progress. After placement, the route uses current and target stars.
+-   Your current rank and star count.
+-   Whether placement is complete; if not, matches played and wins.
+-   Your target rank and preferred boost format.
 
-## What per-win pricing means
+## If you only want to enter Mythic
 
-The placement rate covers one paid win. It is not a price for the entire placement stage or every match played. Account, role, hero and party formats have different rates; see the current price list.
+From Legend, you can select Mythic with zero stars. Extra placement wins are not needed for that target. If you want to progress further, select your target star count.
 
-## Check before ordering
+## Place your order
 
-1.  Current rank and exact star count.
-2.  Placement status, matches played and wins.
-3.  Target rank and boost format.
-4.  Surcharges, discount conditions and total.
-5.  Start time and estimated timing with support.
+Check the estimate, then open the Telegram bot and confirm the start time. If you are unsure which fields to select, support can help with your order.
 
-This guide explains the service's calculation. Game rules can change; if the game and calculator disagree, confirm your route with support before paying. Individual match results and absence of sanctions are not guaranteed.
-
-[Calculate placement](https://boostmlbb.ru/en/order.html)[Per-star and per-win rates](https://boostmlbb.ru/en/prices.html)[Questions and answers](https://boostmlbb.ru/en/faq.html)
+[Check the price](https://boostmlbb.ru/en/order.html)[Place your order](https://t.me/cla1ve_boost_bot?start=site)[Ask a question](https://t.me/Cla1ve)
 
 MLBB Boost editorial team · Updated 5 October 2026

@@ -524,7 +524,7 @@ function renderPrices(pricesData) {
       const priceElement = card.querySelector(`[data-type="${priceItem.type}"]`);
       if (priceElement) {
         const unit = category.category === 'mythic_calibration'
-          ? (english ? 'win' : 'победу') : '⭐';
+          ? (english ? 'win' : 'победа') : '⭐';
         const amount = window.MLBBCurrency?.format?.(priceItem.price)
           || `${priceItem.price} ₽`;
         priceElement.textContent = `${amount}/${unit}`;
@@ -626,23 +626,8 @@ function hideLoading() {
  * Статус свежести данных для доверия и диагностики.
  */
 function setDataStatus(mode, timestamp) {
-  const node = document.getElementById('prices-data-status');
   lastDataStatusMode = mode;
   lastDataStatusTimestamp = timestamp || null;
-
-  if (node) {
-    const english = document.documentElement.lang === 'en';
-    node.textContent = mode === 'live'
-      ? (english ? 'Updated from the public price API.' : 'Обновлено из публичного API цен.')
-      : mode === 'cache-stale'
-        ? (english ? 'Cached prices; confirm the final amount before paying.' : 'Цены из кэша; подтвердите итоговую сумму перед оплатой.')
-        : mode === 'fallback'
-          ? (english ? 'Last checked prices; live updates are temporarily unavailable.' : 'Последний проверенный прайс; обновление временно недоступно.')
-          : (english ? 'Recent cached prices.' : 'Недавно обновлённые цены из кэша.');
-    node.hidden = false;
-    node.removeAttribute('aria-hidden');
-    node.dataset.status = mode;
-  }
 }
 
 document.addEventListener('mlbb:langchange', () => {

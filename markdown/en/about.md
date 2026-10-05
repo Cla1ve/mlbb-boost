@@ -66,15 +66,3 @@ No account sharing
 Confirm your order and first-order discount eligibility
 
 [Message @Cla1ve](https://t.me/Cla1ve) [Telegram bot](https://t.me/cla1ve_boost_bot?start=site)
-
-## How the service works
-
-MLBB Boost helps confirm the rank route, price, game format and assigned player. The public offer explains the service's role and each party's responsibilities. Before ordering, ask support about the player and order terms.
-
-## Reviews and news editorial standards
-
-Customer reviews are published on the website and Telegram. The reviews section links to original messages; ratings describe published records and are not independent certification of the service.
-
-MLBB news includes publication and update dates, source links and editorial attribution. Schedules and results are checked against official organizer announcements; unconfirmed information is identified separately. Report corrections through the support contact.
-
-[Service role in the public offer](https://boostmlbb.ru/en/offer.html)[Reviews with sources](https://boostmlbb.ru/en/reviews.html)[News and sources](https://boostmlbb.ru/en/news/)[Ask support](https://t.me/Cla1ve)

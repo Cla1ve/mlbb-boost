@@ -9,28 +9,26 @@ language: en
 
 # Party play or account boosting: choose your format
 
-The main difference is who plays on your account. With account boosting, the assigned player plays. With party boosting, you play alongside them on your own account.
+With account boosting, the assigned player plays on your account. With party play, you play alongside them on your own account.
 
 ## Account boosting
 
-This option lets you agree on a rank route and have the assigned player handle gameplay. It requires game account access. Confirm the login method, work schedule and progress checks before paying. Under the published service rules, access to your email is not required.
+Choose this format if you want the assigned player to handle your rank progression. Confirm your target, login method and start time. Game account access is needed; email access is not required.
 
 ## Playing together in a party
 
-You retain control of your account and join matches with the assigned player. Agree on timing, region and roles. If you cannot play at the agreed time, completion can take longer. Party play has its own rates.
+You retain control of your account and join the matches. Agree on a convenient time, region and roles. Party play has its own rates.
 
-## Preferred role and hero
+## Preferred role or hero
 
-Role boosting specifies the assigned player's role. Hero boosting completes the route on a chosen hero and is priced per star. Hero rating changes depend on matches and game rules; a server, country or global leaderboard position is not guaranteed.
+You can select the assigned player's role or the hero used for the route. Hero boosting is priced per star. MMR changes depend on matches and game rules; a leaderboard position is not guaranteed.
 
-## Comparing the price
+## Choosing your format
 
-Use the same current and target ranks in the calculator, then compare account and party formats. Include placement status and account requirements. The displayed first-order discount requires eligibility confirmation; it does not apply to every order.
+Choose party play if you want to play together, or account boosting if you prefer the assigned player to handle gameplay. Compare the price for the same ranks in the calculator, then arrange your order through the Telegram bot.
 
-## Access and risks
+Before sharing account access, read the [security guidance](https://boostmlbb.ru/en/security.html) and [refund policy](https://boostmlbb.ru/en/refund.html).
 
-Sharing game account access carries risks. Party play lets you participate without sharing access with the assigned player, but does not guarantee every match result. Read the security guidance, disclaimer and refund policy before paying.
-
-[Calculate party play](https://boostmlbb.ru/en/order.html?type=party)[All formats](https://boostmlbb.ru/en/services.html)[Security guidance](https://boostmlbb.ru/en/security.html)[Disclaimer](https://boostmlbb.ru/en/disclaimer.html)
+[Calculate party play](https://boostmlbb.ru/en/order.html?type=party)[All services](https://boostmlbb.ru/en/services.html)[Place your order](https://t.me/cla1ve_boost_bot?start=site)
 
 MLBB Boost editorial team · Updated 5 October 2026

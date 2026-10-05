@@ -8,7 +8,8 @@
     "news:build": "node scripts/news-pipeline.mjs build",
     "news:image": "node scripts/news-image.mjs",
     "news:validate": "node scripts/news-pipeline.mjs validate",
-    "site:assets": "node scripts/site-assets.mjs",
+    "site:assets": "node scripts/site-effects.mjs && node scripts/site-assets.mjs",
+    "site:effects": "node scripts/site-effects.mjs",
     "site:sync-data": "node scripts/sync-public-data.mjs",
     "site:build": "node scripts/site-build.mjs && npm run news:build",
     "site:validate": "node scripts/validate-site.mjs && npm run news:validate",
@@ -20,7 +21,9 @@
   "devDependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.4.2",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "esbuild": "^0.28.1",
     "linkedom": "^0.18.13",
+    "particles.js": "^2.0.0",
     "serve": "^14.2.4",
     "sharp": "^0.35.5",
     "wrangler": "^4.0.0"

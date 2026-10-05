@@ -167,11 +167,9 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (file === 'prices.html') {
       for (const row of data.prices) for (const price of row.prices) {
         const element = document.querySelector(`[data-category="${row.category}"] [data-type="${price.type}"]`);
-        if (element) element.textContent = `${price.price} ₽/${row.category === 'mythic_calibration' ? (lang === 'en' ? 'win' : 'победу') : '⭐'}`;
+        if (element) element.textContent = `${price.price} ₽/${row.category === 'mythic_calibration' ? (lang === 'en' ? 'win' : 'победа') : '⭐'}`;
       }
-      block(document, 'price-date', `<div class="container seo-note" role="note">${lang === 'en' ? 'Base rates in RUB, checked' : 'Базовые тарифы в рублях, проверены'} <time datetime="${changedDate}">${changedDate}</time>. <a href="https://cla1veisapi.ru/prices/formatted">${lang === 'en' ? 'Public price source' : 'Источник тарифов'}</a>.</div>`);
-      const note = document.querySelector('[data-seo-generated="price-date"]');
-      document.querySelector('#prices-grid').before(note);
+      document.querySelector('#prices-data-status')?.remove();
     }
     for (const row of data.prices) {
       if (row.category !== 'warrior_elite') continue;
@@ -191,13 +189,13 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       for (const [id, value] of [['stat-reviews-count', stats.count], ['reviews-banner-count', stats.count], ['stat-reviews-rating', stats.rating.toFixed(1)], ['stat-reviews-happy', stats.satisfaction + '%']]) {
         const node = document.getElementById(id); if (node) node.textContent = String(value);
       }
-      const descriptionText = lang === 'en' ? `${stats.count} complete published reviews; average ${stats.rating.toFixed(1)}/5; ${stats.satisfaction}% rated 4 or 5. Checked ${changedDate}. These figures describe published reviews, not independent certification.` : `${stats.count} полных опубликованных отзывов; средняя оценка ${stats.rating.toFixed(1)}/5; ${stats.satisfaction}% оценок — 4 или 5. Проверено ${changedDate}. Эти показатели описывают опубликованные отзывы, а не независимую сертификацию.`;
+      const descriptionText = lang === 'en' ? `${stats.count} customer reviews, average rating ${stats.rating.toFixed(1)}/5. Read the original reviews on Telegram.` : `${stats.count} отзывов клиентов, средняя оценка ${stats.rating.toFixed(1)}/5. Оригиналы отзывов доступны в Telegram.`;
       const quotes = data.reviews.slice(0, 3).map(r => {
         const { document: fragment } = parseHTML(`<div>${r.text.replace(/^review_html_v1::/, '')}</div>`);
         const text = fragment.querySelector('div').textContent;
         return `<blockquote><p lang="ru">${escape(text)}</p><footer>${r.rating}/5 · <a href="${escape(r.messageLink)}" target="_blank" rel="noopener noreferrer">${lang === 'en' ? 'Original Telegram review' : 'Исходный отзыв в Telegram'}</a></footer></blockquote>`;
       }).join('');
-      block(document, 'reviews-snapshot', `<section class="seo-section"><div class="container"><h2>${lang === 'en' ? 'Published reviews and their sources' : 'Опубликованные отзывы и их источники'}</h2><p>${descriptionText}</p><div class="seo-quotes" data-i18n-skip>${quotes}</div><p>${lang === 'en' ? 'The original review texts above are in Russian. Interactive filters load the complete public collection. If loading fails, these source links remain available.' : 'Выше — тексты из публичных сообщений. Интерактивные фильтры загружают полную коллекцию. При ошибке загрузки ссылки на исходные отзывы остаются доступны.'}</p></div></section>`);
+      block(document, 'reviews-snapshot', `<section class="seo-section"><div class="container"><h2>${lang === 'en' ? 'Customer reviews on Telegram' : 'Отзывы клиентов в Telegram'}</h2><p>${descriptionText}</p><div class="seo-quotes" data-i18n-skip>${quotes}</div></div></section>`);
     }
     const nav = document.querySelector('.nav-container');
     if (nav) {
@@ -210,7 +208,18 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (main) main.id = 'main-content';
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
-    document.querySelectorAll('script[src*="particles.min.js"]').forEach(node => node.remove());
+    for (const node of document.querySelectorAll('script[src],link[href*="/styles/seo.css"]')) {
+      const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
+      const asset = new URL(node.getAttribute(attribute), origin);
+      if (['/js/main.js', '/js/prices.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
+        asset.searchParams.set('v', '24');
+        node.setAttribute(attribute, asset.pathname + asset.search);
+      }
+    }
+    if (file === 'index.html' && !document.querySelector('script[src*="particles.min.js"]')) {
+      const effects = document.createElement('script'); effects.src = '/js/vendor/particles.min.js'; effects.setAttribute('defer', ''); document.head.append(effects);
+    }
+    document.querySelector('#particles-js')?.setAttribute('aria-hidden', 'true');
     document.querySelectorAll('link[href*="font-awesome"]').forEach(node => node.setAttribute('href', '/styles/icons.css'));
     document.querySelectorAll('link[rel="preconnect"][href*="cdnjs"]').forEach(node => node.remove());
     for (const node of document.querySelectorAll('script[src*="i18n-legal"],script[src*="i18n-reviews"]')) {
@@ -266,8 +275,8 @@ await save('js/i18n-seo.js', `/* Generated from content/seo-translations.json. *
 const pricesJS = await read('js/prices.js');
 await save('js/prices.js', pricesJS.replace(/const LAST_KNOWN_PRICES = \[[\s\S]*?\n\];/, `const LAST_KNOWN_PRICES = ${JSON.stringify(data.prices, null, 2)};`).replace(/Последний проверенный fallback с API на [\d-]+\./, `Последний проверенный fallback с API на ${changedDate}.`));
 await save('js/review-stats.js', `/* Generated public review aggregate. No full review downloads on landing pages. */\n(function () {\n  'use strict';\n  var stats = ${JSON.stringify(data.reviewStats)};\n  function apply() {\n    document.querySelectorAll('[data-review-stat]').forEach(function (node) {\n      var key = node.getAttribute('data-review-stat');\n      node.textContent = key === 'rating' ? stats.rating.toFixed(1) : key === 'satisfaction' ? stats.satisfaction + '%' : String(stats[key]);\n    });\n  }\n  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();\n})();\n`);
-await save('llms.txt', `# MLBB Boost\n\n> Independent service for arranging Mobile Legends: Bang Bang rank boosts and party play. Not affiliated with MOONTON Games.\n\nOrders are arranged through Telegram. Estimates use public API base rates in RUB; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.\n\n## Services and policies\n${rendered.filter(p => ['index.html', 'services.html', 'prices.html', 'order.html', 'faq.html', 'about.html', 'reviews.html', 'refund.html', 'security.html', 'disclaimer.html'].includes(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Guides\n${rendered.filter(p => p.file.startsWith('guides/') && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Machine-readable public resources\n- [API description](https://cla1veisapi.ru/openapi.json)\n- [Current price list](https://cla1veisapi.ru/prices/formatted)\n- [API catalog](${origin}/.well-known/api-catalog.json)\n- [Full content in Markdown](${origin}/llms-full.txt)\n- [Russian news feed](${origin}/news/rss.xml)\n- [English news feed](${origin}/en/news/rss.xml)\n\nStatic Markdown alternatives are declared by each HTML page. Accept: text/markdown negotiation is not enabled on GitHub Pages.\n`);
-await save('llms-full.txt', `# MLBB Boost public content\n\nGenerated from the same HTML content available to visitors. Canonical pages and current API prices remain authoritative.\n\n${rendered.filter(p => p.lang === 'en' && (config.pages[p.file] || p.file.startsWith('guides/'))).map(p => `## ${p.title}\n\nSource: ${p.url}\n\n${p.text}`).join('\n\n---\n\n')}\n`);
+await save('llms.txt', `# MLBB Boost\n\n> Independent service for arranging Mobile Legends: Bang Bang rank boosts and party play. Not affiliated with MOONTON Games.\n\nOrders are arranged through Telegram. Check the website prices and calculator for order estimates; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.\n\n## Services and policies\n${rendered.filter(p => ['index.html', 'services.html', 'prices.html', 'order.html', 'faq.html', 'about.html', 'reviews.html', 'refund.html', 'security.html', 'disclaimer.html'].includes(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Guides\n${rendered.filter(p => p.file.startsWith('guides/') && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Machine-readable public resources\n- [Full content in Markdown](${origin}/llms-full.txt)\n- [Russian news feed](${origin}/news/rss.xml)\n- [English news feed](${origin}/en/news/rss.xml)\n\nRead the linked website pages for the complete service terms.\n`);
+await save('llms-full.txt', `# MLBB Boost public content\n\nGenerated from the same HTML content available to visitors. Canonical website pages remain authoritative.\n\n${rendered.filter(p => p.lang === 'en' && (config.pages[p.file] || p.file.startsWith('guides/'))).map(p => `## ${p.title}\n\nSource: ${p.url}\n\n${p.text}`).join('\n\n---\n\n')}\n`);
 const catalogue = await read('.well-known/api-catalog');
 await save('.well-known/api-catalog.json', catalogue);
 const skills = JSON.parse(await read('.well-known/agent-skills/index.json'));

@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const particlesContainer = document.getElementById('particles-js');
   const isMobile = window.innerWidth <= 768;
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (particlesContainer && !isMobile && !reducedMotion && typeof particlesJS !== 'undefined') {
+  if (particlesContainer && !reducedMotion && typeof particlesJS !== 'undefined') {
     particlesJS('particles-js', {
       particles: {
         number: {
