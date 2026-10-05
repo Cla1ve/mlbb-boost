@@ -46,6 +46,8 @@ const BOOST_TYPES = {
 
 let currentBoostType = 'standard';
 let requestedCalibrationTargetStars = null;
+let calculationRevision = 0;
+const BOT_ORDER_URL = 'https://t.me/cla1ve_boost_bot?start=site';
 
 function calibrationStatus() {
   return document.querySelector('input[name="calibration-status"]:checked')?.value || '';
@@ -718,7 +720,6 @@ function selectBoostType(type) {
 
   const calculatorForm = document.getElementById('calculator-form');
   const risingCalculator = document.getElementById('rising-calculator');
-  const calculationResult = document.getElementById('calculation-result');
 
   if (type === 'rising') {
     calculatorForm?.classList.add('hidden');
@@ -728,7 +729,7 @@ function selectBoostType(type) {
     risingCalculator?.classList.add('hidden');
   }
   
-  calculationResult?.classList.add('hidden');
+  hideResult();
   updateCalibrationFields();
 }
 
@@ -826,6 +827,9 @@ async function calculatePrice() {
     return;
   }
 
+  const boostType = currentBoostType;
+  const orderUrl = buildBotOrderUrl(boostType, isWeakAccount, calibration);
+
   const calculateBtn = document.getElementById('calculate-btn');
   const btnContent = calculateBtn.querySelector('.btn-content');
   const btnLoading = calculateBtn.querySelector('.btn-loading');
@@ -841,6 +845,7 @@ async function calculatePrice() {
 
   hideResult();
   hideError();
+  const revision = calculationRevision;
 
   try {
     const response = await fetch(CALCULATE_API_URL, {
@@ -849,7 +854,7 @@ async function calculatePrice() {
       body: JSON.stringify({
         rank_from: rankFrom,
         rank_to: rankTo,
-        boost_type: BOOST_TYPES[currentBoostType].apiType,
+        boost_type: BOOST_TYPES[boostType].apiType,
         weak_account_markup: isWeakAccount ? 10 : 0,
         calibration
       }),
@@ -861,8 +866,11 @@ async function calculatePrice() {
     }
 
     const result = await response.json();
+    if (revision !== calculationRevision) return;
 
     if (result.success && result.total !== undefined) {
+      const orderButton = document.getElementById('order-btn');
+      if (orderButton) orderButton.href = orderUrl;
       displayResult(
         result.total, 
         formatResultRank(result.rank_from, rankFrom),
@@ -877,6 +885,7 @@ async function calculatePrice() {
         : 'Не удалось рассчитать стоимость. Проверьте выбранные ранги и попробуйте ещё раз.');
     }
   } catch (error) {
+    if (revision !== calculationRevision) return;
     console.error('Ошибка расчёта:', error);
     
     showError(document.documentElement.lang === 'en'
@@ -895,6 +904,20 @@ async function calculatePrice() {
     }
     calculateBtn.disabled = false;
   }
+}
+
+function buildBotOrderUrl(boostType, weakAccount, calibration) {
+  const rankToken = (type, starsOverride = null) => {
+    const option = document.getElementById(`rank-${type}`).selectedOptions[0];
+    const rank = RANK_STRUCTURE[option.dataset.rankKey] || MYTHIC_RANKS[option.dataset.rankKey];
+    const division = option.dataset.isMythic === 'true' ? 0 : Number(option.dataset.division);
+    const stars = starsOverride === null ? getStarsValue(type) : starsOverride;
+    return `${rank.order}-${division}-${stars}`;
+  };
+  const type = { standard: 's', role: 'r', party: 'p', hero: 'h' }[boostType];
+  const status = { passed: 'p', active: 'a' }[calibration?.status] || 'n';
+  const payload = `siteq1_${type}_${rankToken('from')}_${rankToken('to', requestedCalibrationTargetStars)}_${weakAccount && boostType !== 'party' ? 1 : 0}_${status}_${calibration?.matches_played || 0}_${calibration?.wins_played || 0}`;
+  return `https://t.me/cla1ve_boost_bot?start=${payload}`;
 }
 
 function formatResultRank(rank, fallback) {
@@ -1048,6 +1071,9 @@ function hideError() {
 }
 
 function hideResult() {
+  calculationRevision++;
+  const orderButton = document.getElementById('order-btn');
+  if (orderButton) orderButton.href = BOT_ORDER_URL;
   document.getElementById('calculation-result')?.classList.add('hidden');
 }
 
