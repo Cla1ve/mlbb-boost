@@ -19,20 +19,20 @@ const MIN_STARS_ORDER = 5;
 
 // Структура рангов
 const RANK_STRUCTURE = {
-  warrior: { name: 'Воин', divisions: 3, starsPerDiv: 3, order: 0, img: 'Ранги/Warrior.webp' },
-  elite: { name: 'Элита', divisions: 3, starsPerDiv: 4, order: 1, img: 'Ранги/Elite.webp' },
-  master: { name: 'Мастер', divisions: 4, starsPerDiv: 4, order: 2, img: 'Ранги/Master.webp' },
-  grandmaster: { name: 'Грандмастер', divisions: 5, starsPerDiv: 5, order: 3, img: 'Ранги/Grandmaster.webp' },
-  epic: { name: 'Эпик', divisions: 5, starsPerDiv: 5, order: 4, img: 'Ранги/Epic.webp' },
-  legend: { name: 'Легенда', divisions: 5, starsPerDiv: 5, order: 5, img: 'Ранги/Legend.webp' }
+  warrior: { name: 'Воин', divisions: 3, starsPerDiv: 3, order: 0, img: '/images/ranks/Warrior.webp' },
+  elite: { name: 'Элита', divisions: 3, starsPerDiv: 4, order: 1, img: '/images/ranks/Elite.webp' },
+  master: { name: 'Мастер', divisions: 4, starsPerDiv: 4, order: 2, img: '/images/ranks/Master.webp' },
+  grandmaster: { name: 'Грандмастер', divisions: 5, starsPerDiv: 5, order: 3, img: '/images/ranks/Grandmaster.webp' },
+  epic: { name: 'Эпик', divisions: 5, starsPerDiv: 5, order: 4, img: '/images/ranks/Epic.webp' },
+  legend: { name: 'Легенда', divisions: 5, starsPerDiv: 5, order: 5, img: '/images/ranks/Legend.webp' }
 };
 
 // Мифические ранги (звёзды вместо дивизионов)
 const MYTHIC_RANKS = {
-  mythic: { name: 'Мифик', from: 0, to: 24, order: 6, img: 'Ранги/Mythic.webp' },
-  honor: { name: 'Мифическая честь', from: 25, to: 49, order: 7, img: 'Ранги/Mythical_Honor.webp' },
-  glory: { name: 'Мифическая слава', from: 50, to: 99, order: 8, img: 'Ранги/Mythical_Glory.webp' },
-  immortal: { name: 'Мифический бессмертный', from: 100, to: 2000, order: 9, img: 'Ранги/Mythical_Immortal.webp' }
+  mythic: { name: 'Мифик', from: 0, to: 24, order: 6, img: '/images/ranks/Mythic.webp' },
+  honor: { name: 'Мифическая честь', from: 25, to: 49, order: 7, img: '/images/ranks/Mythical_Honor.webp' },
+  glory: { name: 'Мифическая слава', from: 50, to: 99, order: 8, img: '/images/ranks/Mythical_Glory.webp' },
+  immortal: { name: 'Мифический бессмертный', from: 100, to: 2000, order: 9, img: '/images/ranks/Mythical_Immortal.webp' }
 };
 
 // Типы буста
@@ -709,6 +709,7 @@ function selectBoostType(type) {
   
   document.querySelectorAll('.boost-type-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.type === type);
+    btn.setAttribute('aria-pressed', String(btn.dataset.type === type));
   });
 
   document.querySelectorAll('.description-content').forEach(desc => {
@@ -732,8 +733,12 @@ function selectBoostType(type) {
 }
 
 function selectRisingStage(stageElement) {
-  document.querySelectorAll('.rising-stage').forEach(s => s.classList.remove('selected'));
+  document.querySelectorAll('.rising-stage').forEach(s => {
+    s.classList.remove('selected');
+    s.setAttribute('aria-pressed', 'false');
+  });
   stageElement.classList.add('selected');
+  stageElement.setAttribute('aria-pressed', 'true');
 }
 
 /**
@@ -863,7 +868,7 @@ async function calculatePrice() {
         formatResultRank(result.rank_from, rankFrom),
         formatResultRank(result.rank_to, rankTo),
         result.estimated_time || 'уточняется',
-        result.winrate || '90%+',
+        result.winrate || 'уточняется',
         result
       );
     } else if (result.error) {

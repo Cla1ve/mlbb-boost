@@ -1,0 +1,328 @@
+{
+  "checkedAt": "2026-10-05T12:56:02.828Z",
+  "source": "https://cla1veisapi.ru",
+  "prices": [
+    {
+      "category": "warrior_elite",
+      "category_name": "Воин, Элита",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 65,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 95,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 60,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 55,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "master_gm",
+      "category_name": "Мастер, ГМ",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 105,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 120,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 85,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 80,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "epic",
+      "category_name": "Эпик",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 120,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 185,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 100,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 95,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "legend",
+      "category_name": "Легенда",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 135,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 200,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 120,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 105,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "mythic_calibration",
+      "category_name": "Мифическая калибровка",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 225,
+          "unit": "win"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 355,
+          "unit": "win"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 195,
+          "unit": "win"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 180,
+          "unit": "win"
+        }
+      ],
+      "unit": "win"
+    },
+    {
+      "category": "mythic",
+      "category_name": "Мифик",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 160,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 255,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 140,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 125,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "honor",
+      "category_name": "Честь",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 175,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 295,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 145,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 135,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "glory",
+      "category_name": "Слава",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 200,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 400,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 160,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 145,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "immortal",
+      "category_name": "Бессмертный",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 240,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 440,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 180,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 165,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    }
+  ],
+  "reviewStats": {
+    "count": 1151,
+    "rating": 5,
+    "satisfaction": 99
+  },
+  "reviews": [
+    {
+      "id": 2100,
+      "rating": 5,
+      "text": "review_html_v1::спасибо за усердную работу <tg-emoji emoji-id=\"5447567034541973507\">🥰</tg-emoji>",
+      "messageLink": "https://t.me/Cla1ve_boost/1956"
+    },
+    {
+      "id": 2099,
+      "rating": 5,
+      "text": "review_html_v1::лучший",
+      "messageLink": "https://t.me/Cla1ve_boost/1955"
+    },
+    {
+      "id": 2097,
+      "rating": 5,
+      "text": "review_html_v1::Идеально, быстро и четко",
+      "messageLink": "https://t.me/Cla1ve_boost/1954"
+    },
+    {
+      "id": 2096,
+      "rating": 5,
+      "text": "review_html_v1::Все четко",
+      "messageLink": "https://t.me/Cla1ve_boost/1953"
+    },
+    {
+      "id": 2094,
+      "rating": 5,
+      "text": "review_html_v1::🔥🔥🔥🔥🔥",
+      "messageLink": "https://t.me/Cla1ve_boost/1952"
+    },
+    {
+      "id": 2091,
+      "rating": 5,
+      "text": "review_html_v1::Как обычно лучше всех",
+      "messageLink": "https://t.me/Cla1ve_boost/1951"
+    }
+  ]
+}

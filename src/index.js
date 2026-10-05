@@ -4,7 +4,7 @@ const INTERNAL_HEADER = 'x-markdown-internal';
 const MARKDOWN_ACCEPT = 'text/markdown';
 
 const DISCOVERY_LINKS = [
-  '</.well-known/api-catalog>; rel="api-catalog"; type="application/linkset+json"',
+  '</.well-known/api-catalog.json>; rel="api-catalog"; type="application/linkset+json"',
   '</.well-known/agent-skills/index.json>; rel="service-desc"',
   '</faq.html>; rel="service-doc"',
   '</about.html>; rel="describedby"',
@@ -21,19 +21,20 @@ const turndownService = new TurndownService({
 
 export default {
   async fetch(request) {
+    if (!['GET', 'HEAD'].includes(request.method)) return fetch(request);
     if (request.headers.get(INTERNAL_HEADER)) {
       return fetch(request);
     }
 
     const url = new URL(request.url);
-    const ext = url.pathname.split('.').pop().toLowerCase();
-    if (ext && !['html', 'htm', ''].includes(ext) && !url.pathname.endsWith('/')) {
+    const ext = url.pathname.match(/\.([a-z0-9]+)$/i)?.[1]?.toLowerCase();
+    if (ext && !['html', 'htm'].includes(ext)) {
       return fetch(request);
     }
 
     const accept = request.headers.get('Accept') || '';
 
-    if (accept.includes(MARKDOWN_ACCEPT)) {
+    if (request.method === 'GET' && acceptsMarkdown(accept)) {
       try {
         const response = await handleMarkdown(request);
         if (response) return response;
@@ -43,7 +44,8 @@ export default {
     }
 
     const originResponse = await fetch(request);
-    return addDiscoveryLinks(originResponse);
+    return (originResponse.headers.get('Content-Type') || '').startsWith('text/html')
+      ? addDiscoveryLinks(originResponse) : originResponse;
   },
 };
 
@@ -63,11 +65,15 @@ async function handleMarkdown(request) {
   const processed = processHTML(html, new URL(request.url));
 
   const markdownResponse = new Response(processed.markdown, {
+    status: res.status,
     headers: {
       'Content-Type': 'text/markdown; charset=utf-8',
       'x-markdown-tokens': String(processed.tokenCount),
       'Vary': 'Accept',
       'Content-Signal': 'ai-train=no, search=yes, ai-input=yes',
+      'Content-Language': html.match(/<html\b[^>]*\blang=["']([^"']+)/i)?.[1] || 'ru',
+      'Cache-Control': res.headers.get('Cache-Control') || 'public, max-age=0, must-revalidate',
+      'Link': `<${extractCanonical(html) || new URL(request.url).origin + new URL(request.url).pathname}>; rel="canonical"`,
     },
   });
 
@@ -76,6 +82,9 @@ async function handleMarkdown(request) {
 
 function addDiscoveryLinks(response) {
   const newHeaders = new Headers(response.headers);
+  const vary = new Set((newHeaders.get('Vary') || '').split(',').map(value => value.trim()).filter(Boolean));
+  vary.add('Accept');
+  newHeaders.set('Vary', [...vary].join(', '));
   for (const link of DISCOVERY_LINKS) {
     newHeaders.append('Link', link);
   }
@@ -93,14 +102,18 @@ function processHTML(html, url) {
   const frontmatter = buildFrontmatter(cleaned);
   const jsonldBlocks = extractJSONLD(cleaned);
 
+  cleaned = cleaned.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1] || cleaned.replace(/<head\b[^>]*>[\s\S]*?<\/head>/gi, '');
   cleaned = cleaned
     .replace(/<script[\s\S]*?<\/script>/gi, '')
     .replace(/<style[\s\S]*?<\/style>/gi, '')
     .replace(/<noscript[\s\S]*?<\/noscript>/gi, '')
     .replace(/<iframe[\s\S]*?<\/iframe>/gi, '')
     .replace(/<nav[\s\S]*?<\/nav>/gi, '')
-    .replace(/<header[^>]*>[\s\S]*?<\/header>/gi, '')
-    .replace(/<footer[\s\S]*?<\/footer>/gi, '');
+    .replace(/<(?:header|footer)\b[^>]*class=["'][^"']*site-(?:header|footer)[^"']*["'][^>]*>[\s\S]*?<\/(?:header|footer)>/gi, '')
+    .replace(/\b(href|src)=["']([^"']+)["']/gi, (match, attr, value) => {
+      if (/^(?:data:|javascript:)/i.test(value)) return match;
+      try { return `${attr}="${new URL(value, url).href}"`; } catch { return match; }
+    });
 
   let markdown = turndownService.turndown(cleaned);
 
@@ -127,18 +140,36 @@ function buildFrontmatter(html) {
   if (!title && !description && !image) return '';
 
   let fm = '---\n';
-  if (title) fm += `title: ${title}\n`;
-  if (description) fm += `description: ${description}\n`;
-  if (image) fm += `image: ${image}\n`;
+  if (title) fm += `title: ${JSON.stringify(title)}\n`;
+  if (description) fm += `description: ${JSON.stringify(description)}\n`;
+  if (image) fm += `image: ${JSON.stringify(image)}\n`;
+  const canonical = extractCanonical(html);
+  if (canonical) fm += `canonical: ${canonical}\n`;
   fm += '---';
 
   return fm;
 }
 
 function extractMeta(html, attr, value) {
-  const re = new RegExp(`<meta\\s+${attr}="${value}"\\s+content="([^"]*)"`, 'i');
-  const match = html.match(re);
-  return match ? match[1] : null;
+  const tags = html.match(/<meta\b[^>]*>/gi) || [];
+  const target = tags.find(tag => new RegExp(`\\b${attr}=["']${value}["']`, 'i').test(tag));
+  return target?.match(/\bcontent=(["'])([\s\S]*?)\1/i)?.[2] || null;
+}
+
+function extractCanonical(html) {
+  const tag = (html.match(/<link\b[^>]*>/gi) || []).find(tag => /\brel=["']canonical["']/i.test(tag));
+  return tag?.match(/\bhref=(["'])([\s\S]*?)\1/i)?.[2] || null;
+}
+
+function acceptsMarkdown(accept) {
+  const entries = accept.split(',').map(value => {
+    const [type, ...parameters] = value.trim().split(';');
+    const quality = parameters.find(parameter => parameter.trim().startsWith('q='));
+    return { type: type.trim().toLowerCase(), q: quality ? Number(quality.trim().slice(2)) : 1 };
+  });
+  const markdown = entries.find(entry => entry.type === MARKDOWN_ACCEPT);
+  const html = entries.find(entry => entry.type === 'text/html');
+  return !!markdown && markdown.q > 0 && Number.isFinite(markdown.q) && (!html || markdown.q >= html.q);
 }
 
 function extractTitle(html) {

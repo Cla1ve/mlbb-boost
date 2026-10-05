@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (menuToggle) {
       menuToggle.classList.remove('active');
       menuToggle.setAttribute('aria-expanded', 'false');
-      menuToggle.setAttribute('aria-label', 'Открыть меню');
+      menuToggle.setAttribute('aria-label', document.documentElement.lang === 'en' ? 'Open menu' : 'Открыть меню');
     }
     if (navMenu) navMenu.classList.remove('active');
     if (overlay) overlay.classList.remove('active');
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (menuToggle && navMenu) {
     if (!navMenu.id) navMenu.id = 'site-navigation';
     menuToggle.setAttribute('aria-controls', navMenu.id);
-    menuToggle.setAttribute('aria-label', 'Открыть меню');
+    menuToggle.setAttribute('aria-label', document.documentElement.lang === 'en' ? 'Open menu' : 'Открыть меню');
     menuToggle.setAttribute('aria-expanded', 'false');
     menuToggle.addEventListener('click', () => {
       const isActive = navMenu.classList.contains('active');
@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         navMenu.removeAttribute('aria-hidden');
         menuToggle.classList.add('active');
         menuToggle.setAttribute('aria-expanded', 'true');
-        menuToggle.setAttribute('aria-label', 'Закрыть меню');
+        menuToggle.setAttribute('aria-label', document.documentElement.lang === 'en' ? 'Close menu' : 'Закрыть меню');
         navMenu.classList.add('active');
         overlay.classList.add('active');
         body.style.overflow = 'hidden';

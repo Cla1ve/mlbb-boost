@@ -1,0 +1,31 @@
+/* Shared readable content, guides and progressive enhancement. */
+.skip-link { position: fixed; top: 10px; left: 12px; z-index: 10001; padding: 12px 18px; border-radius: 8px; background: #00ff9d; color: #061220; transform: translateY(-160%); font-weight: 700; }
+.skip-link:focus { transform: translateY(0); }
+.seo-section { padding: clamp(36px, 6vw, 80px) 0; }
+.seo-section h2 { font-size: clamp(1.5rem, 3vw, 2.35rem); margin: 0 0 22px; }
+.seo-section h3 { margin-bottom: 12px; font-size: 1.15rem; }
+.seo-section p, .seo-guide p { max-width: 78ch; color: #c8d2df; margin: 0 0 18px; }
+.seo-section a, .seo-guide a, .seo-note a { color: #00ff9d; text-decoration: underline; text-underline-offset: 4px; }
+.seo-eyebrow { display: block; color: #00ff9d; font-size: .85rem; letter-spacing: .08em; margin-bottom: 12px; }
+.seo-steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; list-style-position: inside; }
+.seo-steps li { padding: 24px; border: 1px solid #24415c; border-radius: 16px; background: #0d2341; }
+.seo-steps li::marker { color: #00ff9d; font-weight: 700; }
+.seo-steps h3 { margin-top: 14px; }
+.seo-note { padding: 20px 24px; margin-top: 24px; border: 1px solid #31516c; border-radius: 12px; color: #dce6ef; line-height: 1.7; }
+.seo-links { display: flex; gap: 12px 24px; flex-wrap: wrap; margin-top: 22px; }
+.seo-links a { padding: 8px 0; }
+.seo-quotes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin: 22px 0; }
+.seo-quotes blockquote { margin: 0; padding: 24px; border-left: 3px solid #00ff9d; background: #0d2341; border-radius: 0 12px 12px 0; }
+.seo-quotes footer { font-size: .9rem; }
+.seo-guide { max-width: 940px; padding-top: 120px; padding-bottom: 64px; }
+.seo-guide nav { margin-bottom: 28px; color: #c8d2df; }
+.seo-guide h1 { font-size: clamp(2rem, 4.4vw, 3.2rem); margin-bottom: 24px; }
+.seo-guide h2 { font-size: 1.6rem; margin: 36px 0 16px; }
+.seo-guide li { margin: 8px 0 8px 24px; color: #c8d2df; }
+.seo-lead { font-size: 1.15rem; }
+.seo-date { margin-top: 36px!important; font-size: .9rem; }
+.lang-option { min-width: 42px; min-height: 42px; display: inline-flex; align-items: center; justify-content: center; text-decoration: none; }
+button.rising-stage { font: inherit; color: inherit; text-align: left; }
+.faq-item[open] .faq-answer { max-height: none; opacity: 1; }
+@media(max-width:900px) { .seo-steps { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+@media(max-width:600px) { .seo-steps,.seo-quotes { grid-template-columns: 1fr; } .seo-note { padding: 16px; } .seo-guide { padding-top: 96px; } }

@@ -142,9 +142,9 @@
     usdPerRub = cached.rate;
     haveLiveRate = true;
     // Refresh in the background if the cache is stale.
-    if (Date.now() - cached.ts > CACHE_TTL) fetchRate();
+    if (document.documentElement.lang === 'en' && Date.now() - cached.ts > CACHE_TTL) fetchRate();
   } else {
-    fetchRate();
+    if (document.documentElement.lang === 'en') fetchRate();
   }
 
   // Register the price transform with the i18n engine (runs only in EN).

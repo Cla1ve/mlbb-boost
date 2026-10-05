@@ -4,67 +4,255 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://boostmlbb.ru/</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/services.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/services.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/prices.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/prices.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/order.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/order.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/order.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/order.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/reviews.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/reviews.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/about.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/about.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/faq.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/faq.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/documents.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/documents.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/documents.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/documents.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/offer.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/offer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/offer.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/offer.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/privacy.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/privacy.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/terms.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/terms.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/refund.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/refund.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/refund.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/refund.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/disclaimer.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/disclaimer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/disclaimer.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/disclaimer.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/security.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/security.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/security.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/security.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/cookies.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/cookies.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/sitemap-page.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/sitemap-page.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/sitemap-page.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/sitemap-page.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/about.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/about.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/cookies.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/cookies.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/disclaimer.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/disclaimer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/disclaimer.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/disclaimer.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/documents.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/documents.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/documents.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/documents.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/faq.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/faq.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/offer.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/offer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/offer.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/offer.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/order.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/order.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/order.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/order.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/prices.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/prices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/prices.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/privacy.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/refund.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/refund.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/refund.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/refund.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/reviews.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/reviews.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/security.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/security.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/security.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/security.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/services.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/services.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/sitemap-page.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/sitemap-page.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/sitemap-page.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/sitemap-page.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/terms.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/terms.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/guides/mythic-placement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/mythic-placement.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/mythic-placement.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/mythic-placement.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/guides/mythic-placement.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/mythic-placement.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/mythic-placement.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/mythic-placement.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/guides/party-boost.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/party-boost.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/party-boost.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/party-boost.html"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/guides/party-boost.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/party-boost.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/party-boost.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/party-boost.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/news/</loc>

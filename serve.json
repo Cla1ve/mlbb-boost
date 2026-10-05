@@ -1,0 +1,66 @@
+{
+  "cleanUrls": false,
+  "directoryListing": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/en/",
+      "destination": "/en/index.html"
+    },
+    {
+      "source": "/en",
+      "destination": "/en/index.html"
+    },
+    {
+      "source": "/news/",
+      "destination": "/news/index.html"
+    },
+    {
+      "source": "/news",
+      "destination": "/news/index.html"
+    },
+    {
+      "source": "/en/news/",
+      "destination": "/en/news/index.html"
+    },
+    {
+      "source": "/en/news",
+      "destination": "/en/news/index.html"
+    },
+    {
+      "source": "/news/m8-istanbul-world-road/",
+      "destination": "/news/m8-istanbul-world-road/index.html"
+    },
+    {
+      "source": "/news/m8-istanbul-world-road",
+      "destination": "/news/m8-istanbul-world-road/index.html"
+    },
+    {
+      "source": "/en/news/m8-istanbul-world-road/",
+      "destination": "/en/news/m8-istanbul-world-road/index.html"
+    },
+    {
+      "source": "/en/news/m8-istanbul-world-road",
+      "destination": "/en/news/m8-istanbul-world-road/index.html"
+    },
+    {
+      "source": "/news/msc-2026-playoff-schedule/",
+      "destination": "/news/msc-2026-playoff-schedule/index.html"
+    },
+    {
+      "source": "/news/msc-2026-playoff-schedule",
+      "destination": "/news/msc-2026-playoff-schedule/index.html"
+    },
+    {
+      "source": "/en/news/msc-2026-playoff-schedule/",
+      "destination": "/en/news/msc-2026-playoff-schedule/index.html"
+    },
+    {
+      "source": "/en/news/msc-2026-playoff-schedule",
+      "destination": "/en/news/msc-2026-playoff-schedule/index.html"
+    }
+  ]
+}

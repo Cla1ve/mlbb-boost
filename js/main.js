@@ -7,68 +7,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Добавляем разделы в мобильное меню
-  const menuItems = [
-    { text: 'Главная', link: '/', icon: 'fas fa-home', section: 'home' },
-    { text: 'Услуги', link: '/services.html', icon: 'fas fa-star', section: 'services' },
-    { text: 'Цены', link: '/prices.html', icon: 'fas fa-tags', section: 'prices' },
-    { text: 'Отзывы', link: '/reviews.html', icon: 'fas fa-comments', section: 'reviews' },
-    { text: 'Новости', link: '/news/', icon: 'fas fa-newspaper', section: 'news' },
-    { text: 'FAQ', link: '/faq.html', icon: 'fas fa-question-circle', section: 'faq' },
-    { text: 'О нас', link: '/about.html', icon: 'fas fa-users', section: 'about' }
-  ];
-
-  const navList = document.querySelector('.nav-list');
-  const currentPath = window.location.pathname;
-  const normalizedPath = currentPath.replace(/\/index\.html$/i, '/');
-  // Очищаем текущий список
-  if (navList) {
-    navList.innerHTML = '';
-    
-    // Добавляем новые пункты меню
-    menuItems.forEach((item) => {
-      const li = document.createElement('li');
-      
-      // Определяем активную страницу
-      const isActive = item.section === 'home'
-        ? normalizedPath === '/'
-        : item.section === 'news'
-          ? normalizedPath.startsWith('/news/')
-          : normalizedPath === item.link;
-      
-      li.innerHTML = `
-        <a href="${item.link}" class="nav-link ${isActive ? 'active' : ''}" ${isActive ? 'aria-current="page"' : ''}>
-          <i class="${item.icon}"></i>
-          ${item.text}
-        </a>
-      `;
-      
-      navList.appendChild(li);
-    });
-
-    // Добавляем кнопку CTA в конец
-    const ctaLi = document.createElement('li');
-    const isOrderPage = normalizedPath === '/order.html';
-    ctaLi.innerHTML = `
-      <a href="/order.html?type=standard" class="nav-link cta ${isOrderPage ? 'active' : ''}" ${isOrderPage ? 'aria-current="page"' : ''}>
-        <i class="fas fa-shopping-cart"></i>
-        Купить буст
-      </a>
-    `;
-    navList.appendChild(ctaLi);
-
-    // Добавляем стили для корректного отображения
-    if (window.innerWidth > 1024) {
-      navList.style.display = 'flex';
-      navList.style.alignItems = 'center';
-      navList.style.gap = '0.5rem';
-    }
-  }
-
   // Particles.js Config
   const particlesContainer = document.getElementById('particles-js');
   const isMobile = window.innerWidth <= 768;
-  if (particlesContainer && typeof particlesJS !== 'undefined') {
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (particlesContainer && !isMobile && !reducedMotion && typeof particlesJS !== 'undefined') {
     particlesJS('particles-js', {
       particles: {
         number: {
@@ -133,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const targetSelector = this.getAttribute('href');
       e.preventDefault();
       if (targetSelector === '#') {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
         return;
       }
 
@@ -144,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         window.scrollTo({
           top: offsetPosition,
-          behavior: 'smooth'
+          behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
         });
 
         if (!target.matches('a[href], button, input, select, textarea, [tabindex]')) {

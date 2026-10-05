@@ -21,99 +21,287 @@ let lastDataStatusMode = 'fallback';
 let lastDataStatusTimestamp = null;
 let lastRenderedPrices = null;
 
-// Последний проверенный fallback с API на 2026-07-05.
+// Последний проверенный fallback с API на 2026-10-05.
 // Он нужен для первого визита, если API временно недоступен и localStorage ещё пуст.
 const LAST_KNOWN_PRICES = [
   {
-    category: 'warrior_elite',
-    category_name: 'Воин, Элита',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 65 },
-      { type: 'party', type_name: 'В пати', price: 90 },
-      { type: 'role', type_name: 'На роли', price: 55 },
-      { type: 'standard', type_name: 'Стандарт', price: 50 }
-    ]
+    "category": "warrior_elite",
+    "category_name": "Воин, Элита",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 65,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 95,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 60,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 55,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   },
   {
-    category: 'master_gm',
-    category_name: 'Мастер, ГМ',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 100 },
-      { type: 'party', type_name: 'В пати', price: 115 },
-      { type: 'role', type_name: 'На роли', price: 80 },
-      { type: 'standard', type_name: 'Стандарт', price: 75 }
-    ]
+    "category": "master_gm",
+    "category_name": "Мастер, ГМ",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 105,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 120,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 85,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 80,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   },
   {
-    category: 'epic',
-    category_name: 'Эпик',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 115 },
-      { type: 'party', type_name: 'В пати', price: 190 },
-      { type: 'role', type_name: 'На роли', price: 95 },
-      { type: 'standard', type_name: 'Стандарт', price: 90 }
-    ]
+    "category": "epic",
+    "category_name": "Эпик",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 120,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 185,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 100,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 95,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   },
   {
-    category: 'legend',
-    category_name: 'Легенда',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 120 },
-      { type: 'party', type_name: 'В пати', price: 205 },
-      { type: 'role', type_name: 'На роли', price: 100 },
-      { type: 'standard', type_name: 'Стандарт', price: 95 }
-    ]
+    "category": "legend",
+    "category_name": "Легенда",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 135,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 200,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 120,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 105,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   },
   {
-    category: 'mythic_calibration',
-    category_name: 'Мифическая калибровка',
-    unit: 'win',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 225 },
-      { type: 'party', type_name: 'В пати', price: 315 },
-      { type: 'role', type_name: 'На роли', price: 180 },
-      { type: 'standard', type_name: 'Стандарт', price: 165 }
-    ]
+    "category": "mythic_calibration",
+    "category_name": "Мифическая калибровка",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 225,
+        "unit": "win"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 355,
+        "unit": "win"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 195,
+        "unit": "win"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 180,
+        "unit": "win"
+      }
+    ],
+    "unit": "win"
   },
   {
-    category: 'mythic',
-    category_name: 'Мифик',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 140 },
-      { type: 'party', type_name: 'В пати', price: 240 },
-      { type: 'role', type_name: 'На роли', price: 120 },
-      { type: 'standard', type_name: 'Стандарт', price: 115 }
-    ]
+    "category": "mythic",
+    "category_name": "Мифик",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 160,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 255,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 140,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 125,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   },
   {
-    category: 'honor',
-    category_name: 'Честь',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 165 },
-      { type: 'party', type_name: 'В пати', price: 290 },
-      { type: 'role', type_name: 'На роли', price: 140 },
-      { type: 'standard', type_name: 'Стандарт', price: 125 }
-    ]
+    "category": "honor",
+    "category_name": "Честь",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 175,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 295,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 145,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 135,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   },
   {
-    category: 'glory',
-    category_name: 'Слава',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 205 },
-      { type: 'party', type_name: 'В пати', price: 380 },
-      { type: 'role', type_name: 'На роли', price: 165 },
-      { type: 'standard', type_name: 'Стандарт', price: 160 }
-    ]
+    "category": "glory",
+    "category_name": "Слава",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 200,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 400,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 160,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 145,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   },
   {
-    category: 'immortal',
-    category_name: 'Бессмертный',
-    prices: [
-      { type: 'hero', type_name: 'На герое', price: 240 },
-      { type: 'party', type_name: 'В пати', price: 445 },
-      { type: 'role', type_name: 'На роли', price: 185 },
-      { type: 'standard', type_name: 'Стандарт', price: 175 }
-    ]
+    "category": "immortal",
+    "category_name": "Бессмертный",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 240,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 440,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 180,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 165,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
   }
 ];
 
@@ -443,9 +631,16 @@ function setDataStatus(mode, timestamp) {
   lastDataStatusTimestamp = timestamp || null;
 
   if (node) {
-    node.textContent = '';
-    node.hidden = true;
-    node.setAttribute('aria-hidden', 'true');
+    const english = document.documentElement.lang === 'en';
+    node.textContent = mode === 'live'
+      ? (english ? 'Updated from the public price API.' : 'Обновлено из публичного API цен.')
+      : mode === 'cache-stale'
+        ? (english ? 'Cached prices; confirm the final amount before paying.' : 'Цены из кэша; подтвердите итоговую сумму перед оплатой.')
+        : mode === 'fallback'
+          ? (english ? 'Last checked prices; live updates are temporarily unavailable.' : 'Последний проверенный прайс; обновление временно недоступно.')
+          : (english ? 'Recent cached prices.' : 'Недавно обновлённые цены из кэша.');
+    node.hidden = false;
+    node.removeAttribute('aria-hidden');
     node.dataset.status = mode;
   }
 }

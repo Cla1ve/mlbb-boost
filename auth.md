@@ -45,5 +45,5 @@ The bot handles authentication, payment, and order tracking.
 Skills are registered in `.well-known/agent-skills/index.json`:
 
 - `mlbb-boost-pricing` — Calculate prices from rank/star parameters and read filtered reviews
-- `markdown-negotiation` — Request pages as Markdown (`Accept: text/markdown`)
+- `markdown-negotiation` — Discover the static Markdown alternative declared in each HTML page. GitHub Pages does not negotiate `Accept: text/markdown`.
 - `link-headers` — Link relations for resource discovery (RFC 8288)

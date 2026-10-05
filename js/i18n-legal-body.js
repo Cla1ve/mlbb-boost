@@ -23,8 +23,8 @@
     '1. Общие положения': '1. General provisions',
     'Настоящая Политика конфиденциальности (далее – Политика) определяет порядок обработки и защиты персональных данных пользователей Сервиса, расположенного по адресу':
       'This Privacy Policy (hereinafter — the Policy) defines the procedure for processing and protecting the personal data of users of the Service located at',
-    'Оператором персональных данных является: Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ, ОГРНИП 40802810500009266500, ИНН 690606792301 (далее – Оператор).':
-      'The personal data operator is: Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH, OGRNIP 40802810500009266500, TIN 690606792301 (hereinafter — the Operator).',
+    'Оператором персональных данных является: Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ, ОГРНИП 326690000001430, ИНН 690606792301 (далее – Оператор).':
+      'The personal data operator is: Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH, OGRNIP 326690000001430, TIN 690606792301 (hereinafter — the Operator).',
     'Политика разработана в соответствии с Федеральным законом от 27.07.2006 № 152-ФЗ «О персональных данных» (далее – ФЗ-152).':
       'The Policy is developed in accordance with Federal Law No. 152-FZ of 27.07.2006 "On Personal Data" (hereinafter — FZ-152).',
     'Использование Сервиса означает безоговорочное согласие Пользователя с настоящей Политикой и указанными в ней условиями обработки персональных данных.':
@@ -231,7 +231,7 @@
     'Реквизиты Оператора': 'Operator details',
     'ИП Маматисаков Элмурат Сапарбекович': 'Sole Proprietor Mamatisakov Elmurat Saparbekovich',
     'ИНН: 690606792301': 'TIN: 690606792301',
-    'ОГРНИП: 40802810500009266500': 'OGRNIP: 40802810500009266500',
+    'ОГРНИП: 326690000001430': 'OGRNIP: 326690000001430',
     'Адрес: г. Москва': 'Address: Moscow',
     'Обращения по вопросам защиты персональных данных рассматриваются в течение 30 (тридцати) дней с момента получения.':
       'Inquiries regarding personal data protection are reviewed within 30 (thirty) days of receipt.',
@@ -262,8 +262,8 @@
     'Реквизиты Агента': 'Agent details',
     'Срок действия и изменение условий': 'Validity and changes to the terms',
     'Обработка персональных данных': 'Processing of personal data',
-    'Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ, действующий на основании Свидетельства о государственной регистрации (ОГРНИП 40802810500009266500), именуемый в дальнейшем «Агент», предлагает любому физическому лицу, именуемому в дальнейшем «Принципал» (или «Заказчик»), заключить настоящий Агентский договор (далее – Договор) на нижеследующих условиях.':
-      'Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH, acting on the basis of the State Registration Certificate (OGRNIP 40802810500009266500), hereinafter the "Agent", offers any natural person, hereinafter the "Principal" (or "Customer"), to enter into this Agency Agreement (hereinafter — the Agreement) on the following terms.',
+    'Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ, действующий на основании Свидетельства о государственной регистрации (ОГРНИП 326690000001430), именуемый в дальнейшем «Агент», предлагает любому физическому лицу, именуемому в дальнейшем «Принципал» (или «Заказчик»), заключить настоящий Агентский договор (далее – Договор) на нижеследующих условиях.':
+      'Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH, acting on the basis of the State Registration Certificate (OGRNIP 326690000001430), hereinafter the "Agent", offers any natural person, hereinafter the "Principal" (or "Customer"), to enter into this Agency Agreement (hereinafter — the Agreement) on the following terms.',
     '1. Термины и определения': '1. Terms and definitions',
     '1.1. Агент': '1.1. Agent',
     '— Индивидуальный предприниматель, предоставляющий автоматизированную площадку (интерфейс) для взаимодействия Заказчиков и Исполнителей.':
@@ -366,8 +366,8 @@
     'Изменение условий': 'Changes to the terms',
     '1.1. Настоящие Условия использования (далее — «Условия») регулируют порядок использования интернет-сервиса boostmlbb.ru (далее — «Сервис»), расположенного по адресу https://boostmlbb.ru и включающего Telegram-бот по адресу https://t.me/cla1ve_boost_bot?start=site.':
       '1.1. These Terms of Use (hereinafter — the "Terms") govern the use of the internet service boostmlbb.ru (hereinafter — the "Service"), located at https://boostmlbb.ru and including the Telegram bot at https://t.me/cla1ve_boost_bot?start=site.',
-    '1.2. Оператором Сервиса является Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ, ОГРНИП 40802810500009266500, ИНН 690606792301 (далее — «Оператор» или «Агент»).':
-      '1.2. The Service Operator is Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH, OGRNIP 40802810500009266500, TIN 690606792301 (hereinafter — the "Operator" or "Agent").',
+    '1.2. Оператором Сервиса является Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ, ОГРНИП 326690000001430, ИНН 690606792301 (далее — «Оператор» или «Агент»).':
+      '1.2. The Service Operator is Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH, OGRNIP 326690000001430, TIN 690606792301 (hereinafter — the "Operator" or "Agent").',
     '1.3. Использование Сервиса означает полное и безоговорочное согласие Пользователя с настоящими Условиями, а также с:':
       '1.3. Use of the Service means the User\'s full and unconditional agreement to these Terms, as well as to:',
     'Публичной офертой (Агентским договором)': 'the Public Offer (Agency Agreement)',
@@ -560,8 +560,8 @@
     'Форс-мажорные обстоятельства': 'Force majeure circumstances',
     '1.1. Настоящая Политика возврата денежных средств (далее — «Политика») устанавливает условия и порядок возврата денежных средств Заказчикам (Принципалам) за услуги, оказываемые через Сервис boostmlbb.ru.':
       '1.1. This Refund Policy (hereinafter — the "Policy") establishes the conditions and procedure for refunding funds to Customers (Principals) for services provided via the boostmlbb.ru Service.',
-    '1.2. Оператор Сервиса — Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ (ОГРНИП 40802810500009266500, ИНН 690606792301) — выступает гарантом безопасности сделки. Оператор, действуя в качестве Агента, обеспечивает возврат денежных средств Заказчику за счет средств Исполнителя, удерживаемых или подлежащих выплате Исполнителю, в случаях, предусмотренных настоящей Политикой.':
-      '1.2. The Service Operator — Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH (OGRNIP 40802810500009266500, TIN 690606792301) — acts as a guarantor of the transaction\'s security. Acting as the Agent, the Operator ensures a refund to the Customer out of the Provider\'s funds withheld or payable to the Provider, in the cases provided for by this Policy.',
+    '1.2. Оператор Сервиса — Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ (ОГРНИП 326690000001430, ИНН 690606792301) — выступает гарантом безопасности сделки. Оператор, действуя в качестве Агента, обеспечивает возврат денежных средств Заказчику за счет средств Исполнителя, удерживаемых или подлежащих выплате Исполнителю, в случаях, предусмотренных настоящей Политикой.':
+      '1.2. The Service Operator — Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH (OGRNIP 326690000001430, TIN 690606792301) — acts as a guarantor of the transaction\'s security. Acting as the Agent, the Operator ensures a refund to the Customer out of the Provider\'s funds withheld or payable to the Provider, in the cases provided for by this Policy.',
     '1.3. Политика разработана в соответствии с Гражданским кодексом РФ, Законом РФ «О защите прав потребителей» и Публичной офертой (Агентским договором) Сервиса.':
       '1.3. The Policy is developed in accordance with the Russian Civil Code, the Russian Law "On Consumer Protection", and the Service\'s Public Offer (Agency Agreement).',
     'Важная информация': 'Important information',
@@ -762,8 +762,8 @@
     'Применимое законодательство': 'Applicable law',
     '1.1. Настоящий Дисклеймер (отказ от ответственности) является неотъемлемой частью Публичной оферты (Агентского договора) и Условий использования Сервиса boostmlbb.ru.':
       '1.1. This Disclaimer is an integral part of the Public Offer (Agency Agreement) and the Terms of Use of the boostmlbb.ru Service.',
-    '1.2. Оператор Сервиса — Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ (ОГРНИП 40802810500009266500, ИНН 690606792301).':
-      '1.2. The Service Operator — Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH (OGRNIP 40802810500009266500, TIN 690606792301).',
+    '1.2. Оператор Сервиса — Индивидуальный предприниматель МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ (ОГРНИП 326690000001430, ИНН 690606792301).':
+      '1.2. The Service Operator — Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH (OGRNIP 326690000001430, TIN 690606792301).',
     '1.3. Используя Сервис, Пользователь подтверждает, что:': '1.3. By using the Service, the User confirms that they:',
     'Полностью прочитал и понял настоящий Дисклеймер': 'Have fully read and understood this Disclaimer',
     'Осознаёт все риски, связанные с использованием Сервиса':
@@ -977,8 +977,8 @@
     'Контакты службы безопасности': 'Security service contacts',
     '1.1. Настоящая Политика безопасности и платежей (далее — «Политика») определяет меры по защите данных пользователей и обеспечению безопасности финансовых операций в Сервисе boostmlbb.ru.':
       '1.1. This Security and Payments Policy (hereinafter — the "Policy") defines the measures to protect user data and ensure the security of financial transactions in the boostmlbb.ru Service.',
-    '1.2. Оператор Сервиса — ИП МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ (ОГРНИП 40802810500009266500, ИНН 690606792301) — принимает все необходимые организационные и технические меры для защиты информации.':
-      '1.2. The Service Operator — Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH (OGRNIP 40802810500009266500, TIN 690606792301) — takes all necessary organizational and technical measures to protect information.',
+    '1.2. Оператор Сервиса — ИП МАМАТИСАКОВ ЭЛМУРАТ САПАРБЕКОВИЧ (ОГРНИП 326690000001430, ИНН 690606792301) — принимает все необходимые организационные и технические меры для защиты информации.':
+      '1.2. The Service Operator — Sole Proprietor MAMATISAKOV ELMURAT SAPARBEKOVICH (OGRNIP 326690000001430, TIN 690606792301) — takes all necessary organizational and technical measures to protect information.',
     '1.3. Политика разработана в соответствии с:': '1.3. The Policy is developed in accordance with:',
     'Федеральным законом № 149-ФЗ «Об информации, информационных технологиях и о защите информации»':
       'Federal Law No. 149-FZ "On Information, Information Technologies and Information Protection"',

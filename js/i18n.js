@@ -40,6 +40,10 @@
    * are impossible to enumerate (e.g. "Мифик 5★ → Мифик 20★").
    * ---------------------------------------------------------------- */
   var PATTERNS = [
+    [/^(\d+) отзывов$/, '$1 reviews'],
+    [/^Отзывы \((\d+)\)$/, 'Reviews ($1)'],
+    [/от (\d+)₽\/звезда/g, 'from $1 ₽/star'],
+    [/победу/g, 'win'],
     [/Мифическая\s+Честь/g, 'Mythic Honor'],
     [/Мифическая\s+честь/g, 'Mythic Honor'],
     [/Мифическая\s+Слава/g, 'Mythic Glory'],
@@ -378,6 +382,7 @@
   }
 
   function ensureHreflang() {
+    if (document.documentElement.hasAttribute('data-static-locale')) return;
     if (document.querySelector('link[hreflang="en"]')) return;
     var head = document.head;
     var base = location.origin + location.pathname;
@@ -395,6 +400,10 @@
 
   function applyLanguage(lang, persist) {
     if (SUPPORTED.indexOf(lang) === -1) lang = DEFAULT_LANG;
+    if (persist && document.documentElement.hasAttribute('data-static-locale') && lang !== document.documentElement.getAttribute('data-static-locale')) {
+      navigateLanguage(lang);
+      return;
+    }
     currentLang = lang;
 
     if (observer) observer.disconnect();
@@ -438,6 +447,7 @@
   }
 
   function syncUrl(lang) {
+    if (document.documentElement.hasAttribute('data-static-locale')) return;
     try {
       var url = new URL(location.href);
       if (lang === 'en') url.searchParams.set('lang', 'en');
@@ -448,8 +458,26 @@
 
   /* ---------------- switcher UI ---------------- */
 
+  function navigateLanguage(lang) {
+    var url = new URL(location.href);
+    var pathname = url.pathname.replace(/^\/en(?=\/)/, '').replace(/\/index\.html$/i, '/');
+    url.pathname = lang === 'en' ? '/en' + pathname : pathname;
+    url.searchParams.delete('lang');
+    try { localStorage.setItem(STORAGE_KEY, lang); } catch (e) {}
+    location.assign(url.toString());
+  }
+
   function buildSwitcher() {
-    if (document.querySelector('.lang-switcher')) return;
+    var existing = document.querySelector('.lang-switcher');
+    if (existing) {
+      existing.addEventListener('click', function (e) {
+        var link = e.target.closest('a[data-lang]');
+        if (!link || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+        e.preventDefault();
+        navigateLanguage(link.getAttribute('data-lang'));
+      });
+      return;
+    }
 
     var wrap = document.createElement('div');
     wrap.className = 'lang-switcher';
@@ -500,7 +528,9 @@
     for (var i = 0; i < opts.length; i++) {
       var on = opts[i].getAttribute('data-lang') === currentLang;
       opts[i].classList.toggle('active', on);
-      opts[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+      if (opts[i].tagName === 'A') {
+        if (on) opts[i].setAttribute('aria-current', 'true'); else opts[i].removeAttribute('aria-current');
+      } else opts[i].setAttribute('aria-pressed', on ? 'true' : 'false');
     }
   }
 
@@ -531,6 +561,8 @@
   /* ---------------- init ---------------- */
 
   function detectInitialLang() {
+    var staticLocale = document.documentElement.getAttribute('data-static-locale');
+    if (staticLocale) return staticLocale;
     var fromUrl = null;
     try {
       fromUrl = new URL(location.href).searchParams.get('lang');
@@ -545,6 +577,13 @@
   }
 
   function init() {
+    if (document.documentElement.hasAttribute('data-static-locale')) {
+      var requested = new URL(location.href).searchParams.get('lang');
+      if (requested && SUPPORTED.indexOf(requested) !== -1 && requested !== document.documentElement.getAttribute('data-static-locale')) {
+        navigateLanguage(requested);
+        return;
+      }
+    }
     buildSwitcher();
     setupObserver();
     var lang = detectInitialLang();

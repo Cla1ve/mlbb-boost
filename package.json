@@ -8,13 +8,21 @@
     "news:build": "node scripts/news-pipeline.mjs build",
     "news:image": "node scripts/news-image.mjs",
     "news:validate": "node scripts/news-pipeline.mjs validate",
-    "site:prepare": "npm run news:build && npm run news:validate",
+    "site:assets": "node scripts/site-assets.mjs",
+    "site:sync-data": "node scripts/sync-public-data.mjs",
+    "site:build": "node scripts/site-build.mjs && npm run news:build",
+    "site:validate": "node scripts/validate-site.mjs && npm run news:validate",
+    "test": "node scripts/test-calibration-routes.cjs && node scripts/test-worker.cjs",
+    "site:prepare": "npm run site:build && npm run site:validate && npm test",
     "worker:deploy": "wrangler deploy",
     "worker:dev": "wrangler dev"
   },
   "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "linkedom": "^0.18.13",
     "serve": "^14.2.4",
-    "sharp": "^0.34.5",
+    "sharp": "^0.35.5",
     "wrangler": "^4.0.0"
   },
   "dependencies": {

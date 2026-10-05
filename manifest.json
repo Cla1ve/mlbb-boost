@@ -1,8 +1,8 @@
 {
   "name": "Boost MLBB — Буст Mobile Legends",
   "short_name": "MLBB Boost",
-  "description": "Профессиональный буст Mobile Legends от PRO игроков. Безопасная прокачка ранга с гарантией результата.",
-  "start_url": "/index.html",
+  "description": "Форматы буста Mobile Legends, актуальные тарифы, калькулятор и опубликованные отзывы. Согласование заказа в Telegram.",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0A1A2F",
   "theme_color": "#00FF9D",

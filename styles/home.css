@@ -46,7 +46,7 @@
   bottom: 0;
   width: 75%;
   height: 100%;
-  background: url('../Gusion - Cosmic Gleam-no-bg-preview (carve.photos).png') no-repeat;
+  background: url('/images/hero-736.webp') no-repeat;
   background-size: contain;
   background-position: bottom right;
   opacity: 0.6;
@@ -1735,3 +1735,8 @@
     width: 100%;
   }
 }
+@media (max-width: 768px) {
+  .hero-character { background-image: url('/images/hero-480.webp'); }
+}
+/* Make the first meaningful heading visible immediately. */
+.hero .glowing-text, .hero .hero-badge, .hero .hero-subtitle { animation: none; }

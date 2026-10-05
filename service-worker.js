@@ -1,50 +1,11 @@
-const CACHE_VERSION = 'mlbb-boost-v22';
+const CACHE_VERSION = 'mlbb-boost-v23-seo';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;
 
 const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/services.html',
-  '/prices.html',
-  '/order.html',
-  '/reviews.html',
-  '/faq.html',
-  '/about.html',
-  '/news/',
-  '/en/news/',
-  '/styles/main.css',
-  '/styles/animations.css',
-  '/styles/about.css',
-  '/styles/contact.css',
-  '/styles/faq.css',
-  '/styles/home.css',
-  '/styles/legal.css',
-  '/styles/news.css',
-  '/styles/order.css',
-  '/styles/prices.css',
-  '/styles/reviews.css',
-  '/styles/services.css',
-  '/js/main.js',
-  '/js/animations.js',
-  '/js/calculator.js',
-  '/js/consent.js',
-  '/js/faq.js',
-  '/js/i18n-dict.js',
-  '/js/i18n-reviews.js',
-  '/js/i18n-legal.js',
-  '/js/i18n-legal-body.js',
-  '/js/i18n.js',
-  '/js/currency.js',
-  '/js/order.js',
-  '/js/prices.js',
-  '/js/review-stats.js',
-  '/js/reviews.js',
-  '/js/news.js',
-  '/js/news-language.js',
-  '/manifest.json',
-  '/manifest-en.json'
+  '/', '/en/', '/styles/main.css', '/styles/home.css',
+  '/styles/animations.css', '/styles/seo.css', '/styles/icons.css'
 ];
 
 const IMAGE_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.webp', '.svg', '.gif', '.ico'];
@@ -94,10 +55,10 @@ self.addEventListener('fetch', event => {
       fetch(request)
         .then(response => {
           const cloned = response.clone();
-          caches.open(DYNAMIC_CACHE).then(cache => cache.put(request, cloned));
+          if (response.ok) caches.open(DYNAMIC_CACHE).then(cache => cache.put(request, cloned));
           return response;
         })
-        .catch(() => caches.match(request).then(cached => cached || caches.match('/index.html')))
+        .catch(() => caches.match(request).then(cached => cached || caches.match(url.pathname.startsWith('/en/') ? '/en/' : '/')))
     );
     return;
   }

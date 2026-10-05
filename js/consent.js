@@ -36,13 +36,15 @@
 
   // Проверяем, давал ли пользователь согласие
   function hasConsent() {
-    return localStorage.getItem(CONSENT_KEY) === 'true';
+    try { return localStorage.getItem(CONSENT_KEY) === 'true'; } catch { return false; }
   }
 
   // Сохраняем согласие
   function saveConsent() {
-    localStorage.setItem(CONSENT_KEY, 'true');
-    localStorage.setItem(CONSENT_DATE_KEY, new Date().toISOString());
+    try {
+      localStorage.setItem(CONSENT_KEY, 'true');
+      localStorage.setItem(CONSENT_DATE_KEY, new Date().toISOString());
+    } catch { /* The banner remains usable when browser storage is unavailable. */ }
     window.dispatchEvent(new CustomEvent('mlbb:consent-granted'));
   }
 
@@ -64,8 +66,8 @@
           <p><strong>${copy.title}</strong></p>
           <p class="consent-banner-desc">
             ${copy.description}
-            <a href="/privacy.html${isEnglish ? '?lang=en' : ''}">${copy.privacy}</a> ${copy.conjunction}
-            <a href="/offer.html${isEnglish ? '?lang=en' : ''}">${copy.offer}</a>.
+            <a href="${isEnglish ? '/en' : ''}/privacy.html">${copy.privacy}</a> ${copy.conjunction}
+            <a href="${isEnglish ? '/en' : ''}/offer.html">${copy.offer}</a>.
             ${copy.cookies}
           </p>
         </div>
@@ -97,7 +99,7 @@
     });
     
     document.getElementById('consent-more').addEventListener('click', function() {
-      window.open(`/privacy.html${isEnglish ? '?lang=en' : ''}`, '_blank', 'noopener,noreferrer');
+      window.open(`${isEnglish ? '/en' : ''}/privacy.html`, '_blank', 'noopener,noreferrer');
     });
     
     document.getElementById('consent-close').addEventListener('click', function() {

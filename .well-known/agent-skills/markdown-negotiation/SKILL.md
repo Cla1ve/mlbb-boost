@@ -1,25 +1,22 @@
-# Markdown Content Negotiation
+# Static Markdown alternatives
 
-Support `Accept: text/markdown` content negotiation so agents can request
-markdown versions of pages on boostmlbb.ru.
-See [llmstxt.org](https://llmstxt.org/) and
-[Markdown for Agents](https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/).
+The production website is hosted on GitHub Pages. `Accept: text/markdown`
+does not currently change its HTML response. Do not assume negotiation is active.
 
-## Usage
+Each commercial, policy and guide HTML page declares a static alternative:
 
-Request any page with the `Accept: text/markdown` header:
-
-```bash
-curl https://boostmlbb.ru/ -H "Accept: text/markdown"
+```html
+<link rel="alternate" type="text/markdown" href="/markdown/en/prices.md">
 ```
 
-The response will include:
-- `Content-Type: text/markdown`
-- `x-markdown-tokens` with estimated token count
+Examples:
+- https://boostmlbb.ru/markdown/index.md
+- https://boostmlbb.ru/markdown/en/prices.md
+- https://boostmlbb.ru/markdown/en/guides/mythic-placement.md
+- https://boostmlbb.ru/llms.txt
+- https://boostmlbb.ru/llms-full.txt
 
-## Implementation
-
-Enabled via Cloudflare Worker (`src/index.js`) using Turndown for
-HTML-to-Markdown conversion. Strips navigation, header, footer, scripts,
-and styles before conversion. Preserves JSON-LD structured data and
-YAML frontmatter from meta tags.
+These resources contain the same public content as the HTML pages, with canonical
+URLs in their frontmatter. GitHub Pages may serve `.md` as plain text; the file
+body is Markdown. The optional Worker in `src/index.js` supports negotiation only
+after separate deployment and route configuration. It is not the production host.

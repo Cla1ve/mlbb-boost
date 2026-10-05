@@ -321,7 +321,8 @@ function siteHref(href, locale = 'ru') {
     return href.replace(/^\/news\//, '/en/news/');
   }
   const url = new URL(href, SITE_ORIGIN);
-  url.searchParams.set('lang', 'en');
+  url.pathname = '/en' + url.pathname;
+  url.searchParams.delete('lang');
   return `${url.pathname}${url.search}${url.hash}`;
 }
 
@@ -1386,15 +1387,14 @@ function renderCommonHead(locale = 'ru') {
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="manifest" href="${locale === 'en' ? '/manifest-en.json' : '/manifest.json'}">
   <link rel="alternate" type="application/rss+xml" title="${escapeHtml(config.rssTitle)}" href="${localeRootUrl(locale)}rss.xml">
-  <link rel="api-catalog" type="application/linkset+json" href="/.well-known/api-catalog">
+  <link rel="api-catalog" type="application/linkset+json" href="/.well-known/api-catalog.json">
   <link rel="service-desc" href="/.well-known/agent-skills/index.json">
   <link rel="service-doc" href="${siteHref('/faq.html', locale)}">
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
-  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
   <link rel="stylesheet" href="/styles/news.css?v=5">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">`;
+  <link rel="stylesheet" href="/styles/icons.css">`;
 }
 
 function renderScripts() {
@@ -1482,7 +1482,7 @@ function renderIndex(posts, { previewSlug = null, locale = 'ru' } = {}) {
         isPartOf: {
           '@type': 'WebSite',
           name: 'Boost MLBB',
-          url: `${SITE_ORIGIN}${locale === 'en' ? '/?lang=en' : '/'}`
+          url: `${SITE_ORIGIN}${locale === 'en' ? '/en/' : '/'}`
         }
       },
       {
@@ -1727,7 +1727,7 @@ function renderBlock(block, locale = 'ru') {
           <span>${escapeHtml(block.text)}</span>
         </div>
         <div class="rank-cta__action">
-          <a href="${escapeHtml(block.href)}" data-news-cta data-cta-position="${escapeHtml(block.position)}">
+          <a href="${escapeHtml(siteHref(block.href, locale))}" data-news-cta data-cta-position="${escapeHtml(block.position)}">
             <span class="rank-cta__button-label">${escapeHtml(block.button)}</span>
             <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
@@ -2043,7 +2043,13 @@ ${entries.map(({ post, locale }) => `  <url>
 function renderMainSitemap(posts, staticPages) {
   const entries = [];
   for (const page of staticPages) {
-    entries.push({ loc: absoluteUrl(page.pathname), lastmod: page.lastmod });
+    const russianPath = page.pathname.replace(/^\/en(?=\/)/, '');
+    const englishPath = '/en' + russianPath;
+    entries.push({ loc: absoluteUrl(page.pathname), lastmod: page.lastmod,
+      alternates: {
+        ru: absoluteUrl(russianPath), en: absoluteUrl(englishPath), 'x-default': absoluteUrl(russianPath)
+      }
+    });
   }
   const archiveLastmod = (posts.length
     ? posts.reduce((latest, post) => (
@@ -2331,7 +2337,7 @@ async function validateGenerated() {
   for (const [file, expected] of expectedFiles) {
     const content = await readFile(file, 'utf8');
     if (!content.trim()) throw new Error(`Пустой сгенерированный файл: ${file}`);
-    if (content !== expected) {
+    if (content.replace(/\r\n/g, '\n') !== expected.replace(/\r\n/g, '\n')) {
       throw new Error(`Сгенерированный файл устарел: ${file}. Запустите npm run news:build.`);
     }
   }
@@ -2395,7 +2401,7 @@ async function validateGenerated() {
       if (!html.includes('<div class="article-content" id="article-content" tabindex="-1">')) {
         throw new Error(`${label}: skip-link ведёт на нефокусируемое содержимое статьи.`);
       }
-      if (!html.includes('href="/order.html?type=standard" data-news-cta')) {
+      if (!html.includes(`href="${siteHref('/order.html?type=standard', locale)}" data-news-cta`)) {
         throw new Error(`${label}: CTA должен сохранять общий target /order.html?type=standard.`);
       }
       if (/class="article-table-wrap[^\"]*"[^>]*tabindex="0"/.test(html)) {

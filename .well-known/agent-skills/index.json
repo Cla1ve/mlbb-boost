@@ -7,21 +7,21 @@
       "type": "skill",
       "description": "Calculate the price of a Mobile Legends Bang Bang rank boost and read customer reviews for boostmlbb.ru.",
       "url": "https://boostmlbb.ru/.well-known/agent-skills/mlbb-boost-pricing/SKILL.md",
-      "sha256": "4bc5acde3c69ced4210b15f407b5759787d88fa73b4c31e2fa854925935edc4b"
+      "sha256": "4cb3560b98381ffaa0d51d8b291e1af9fe27089ceb314672e98b6662b4607d39"
     },
     {
       "name": "markdown-negotiation",
       "type": "skill",
-      "description": "Support Accept: text/markdown content negotiation for AI agents requesting markdown versions of pages.",
+      "description": "Find static Markdown alternatives for public HTML pages. GitHub Pages does not negotiate Accept: text/markdown.",
       "url": "https://boostmlbb.ru/.well-known/agent-skills/markdown-negotiation/SKILL.md",
-      "sha256": "3898c03d480b68df91ee2e921aeccf043f1ec3d53b81941103ae9a6ac6bd006f"
+      "sha256": "b8d5afbd8bb982745299c6efdcd23ef4fc90b2cd7482276209a3088820847d34"
     },
     {
       "name": "link-headers",
       "type": "skill",
-      "description": "Link response headers for agent discovery per RFC 8288, pointing agents to API catalog, skills, FAQ, and about page.",
+      "description": "Discover the public API, documentation and agent resources via HTML link elements on GitHub Pages.",
       "url": "https://boostmlbb.ru/.well-known/agent-skills/link-headers/SKILL.md",
-      "sha256": "cfa49c6954334813cbba1ce3f92931ff3272a2aeaef5a98ebe1758fc0cd7842c"
+      "sha256": "33210d71fec79451a902b35507bf5c3e9e8bbad74f13ae75fe227dd67317ea6e"
     },
     {
       "name": "auth-md",

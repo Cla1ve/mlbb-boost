@@ -3,67 +3,147 @@
   "pages": [
     {
       "pathname": "/",
-      "lastmod": "2026-08-01"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/services.html",
-      "lastmod": "2026-07-05"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/prices.html",
-      "lastmod": "2026-07-05"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/order.html",
-      "lastmod": "2026-07-27"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/reviews.html",
-      "lastmod": "2026-07-05"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/about.html",
-      "lastmod": "2026-07-05"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/faq.html",
-      "lastmod": "2026-07-05"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/documents.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/offer.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/privacy.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/terms.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/refund.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/disclaimer.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/security.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/cookies.html",
-      "lastmod": "2026-07-04"
+      "lastmod": "2026-10-05"
     },
     {
       "pathname": "/sitemap-page.html",
-      "lastmod": "2026-07-27"
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/about.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/cookies.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/disclaimer.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/documents.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/faq.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/offer.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/order.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/prices.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/privacy.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/refund.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/reviews.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/security.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/services.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/sitemap-page.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/terms.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/guides/mythic-placement.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/guides/mythic-placement.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/guides/party-boost.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/en/guides/party-boost.html",
+      "lastmod": "2026-10-05"
     }
   ]
 }
