@@ -79,7 +79,7 @@
             ${copy.more}
           </button>
         </div>
-        <button class="consent-banner-close" id="consent-close" title="${copy.close}">
+        <button class="consent-banner-close" id="consent-close" title="${copy.close}" aria-label="${copy.close}">
           <i class="fas fa-times"></i>
         </button>
       </div>

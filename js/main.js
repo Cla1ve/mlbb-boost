@@ -7,68 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Particles.js Config
-  const particlesContainer = document.getElementById('particles-js');
-  const isMobile = window.innerWidth <= 768;
-  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (particlesContainer && !reducedMotion && typeof particlesJS !== 'undefined') {
-    particlesJS('particles-js', {
-      particles: {
-        number: {
-          value: isMobile ? 30 : 80,
-          density: {
-            enable: true,
-            value_area: isMobile ? 600 : 800
-          }
-        },
-        color: {
-          value: '#00FF9D'
-        },
-        shape: {
-          type: 'circle'
-        },
-        opacity: {
-          value: 0.5,
-          random: false
-        },
-        size: {
-          value: 3,
-          random: true
-        },
-        line_linked: {
-          enable: true,
-          distance: 150,
-          color: '#00FF9D',
-          opacity: 0.4,
-          width: 1
-        },
-        move: {
-          enable: true,
-          speed: 2,
-          direction: 'none',
-          random: false,
-          straight: false,
-          out_mode: 'out',
-          bounce: false
-        }
-      },
-      interactivity: {
-        detect_on: 'canvas',
-        events: {
-          onhover: {
-            enable: true,
-            mode: 'repulse'
-          },
-          onclick: {
-            enable: true,
-            mode: 'push'
-          },
-          resize: true
-        }
-      },
-      retina_detect: true
-    });
-  }
+  // Homepage effects are owned by hero-effects.js.
 
   // Smooth Scrolling
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {

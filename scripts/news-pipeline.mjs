@@ -1394,12 +1394,13 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
   <link rel="stylesheet" href="/styles/news.css?v=5">
-  <link rel="stylesheet" href="/styles/icons.css">`;
+  <link rel="stylesheet" href="/styles/icons.css?v=30">
+  <link rel="stylesheet" href="/styles/ui.css?v=30">`;
 }
 
 function renderScripts() {
   return `
-  <script defer src="/js/consent.js?v=3"></script>
+  <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
   <script defer src="/js/news.js?v=5"></script>`;
 }

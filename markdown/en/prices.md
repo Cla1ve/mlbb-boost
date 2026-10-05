@@ -35,6 +35,8 @@ On hero 65 ₽/⭐
 
 In party 95 ₽/⭐
 
+[Calculate order](https://boostmlbb.ru/en/order.html)
+
 ![Master](/images/ranks/Master.webp) ![Grandmaster](/images/ranks/Grandmaster.webp)
 
 ### Master, GM
@@ -46,6 +48,8 @@ Role 85 ₽/⭐
 On hero 105 ₽/⭐
 
 In party 120 ₽/⭐
+
+[Calculate order](https://boostmlbb.ru/en/order.html)
 
 ![Epic](/images/ranks/Epic.webp)
 
@@ -59,6 +63,8 @@ On hero 120 ₽/⭐
 
 In party 185 ₽/⭐
 
+[Calculate order](https://boostmlbb.ru/en/order.html)
+
 ![Legend](/images/ranks/Legend.webp)
 
 ### Legend
@@ -70,6 +76,8 @@ Role 120 ₽/⭐
 On hero 135 ₽/⭐
 
 In party 200 ₽/⭐
+
+[Calculate order](https://boostmlbb.ru/en/order.html)
 
 ![Mythic placement](/images/ranks/Mythic.webp)
 
@@ -83,6 +91,8 @@ On hero225 ₽/win
 
 In party355 ₽/win
 
+[Calculate order](https://boostmlbb.ru/en/order.html)
+
 ![Mythic](/images/ranks/Mythic.webp)
 
 ### Mythic
@@ -94,6 +104,8 @@ Role 140 ₽/⭐
 On hero 160 ₽/⭐
 
 In party 255 ₽/⭐
+
+[Calculate order](https://boostmlbb.ru/en/order.html)
 
 ![Mythical Honor](/images/ranks/Mythical_Honor.webp)
 
@@ -107,6 +119,8 @@ On hero 175 ₽/⭐
 
 In party 295 ₽/⭐
 
+[Calculate order](https://boostmlbb.ru/en/order.html)
+
 ![Mythical Glory](/images/ranks/Mythical_Glory.webp)
 
 ### Mythic Glory
@@ -119,6 +133,8 @@ On hero 200 ₽/⭐
 
 In party 400 ₽/⭐
 
+[Calculate order](https://boostmlbb.ru/en/order.html)
+
 ![Mythical Immortal](/images/ranks/Mythical_Immortal.webp)
 
 ### Mythic Immortal
@@ -130,6 +146,8 @@ Role 180 ₽/⭐
 On hero 240 ₽/⭐
 
 In party 440 ₽/⭐
+
+[Calculate order](https://boostmlbb.ru/en/order.html)
 
 ![Rising](/images/ranks/rising.webp)
 

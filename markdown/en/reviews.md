@@ -9,7 +9,7 @@ Reviews
 
 # Our clients' reviews
 
-Real reviews from real clients
+Customer feedback about assigned players and completed orders
 
 5.0 Rating
 
@@ -17,13 +17,17 @@ Real reviews from real clients
 
 1151 Reviews
 
-99% Satisfied
+99% Positive ratings
 
 ### All reviews on Telegram!
 
 1151 published reviews with screenshots
 
 [Open the channel](https://t.me/cla1ve_boost)
+
+Review filters
+
+Reset filters
 
 ## Leave a review
 

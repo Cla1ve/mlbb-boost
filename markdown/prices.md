@@ -35,6 +35,8 @@ language: ru
 
 В пати 95 ₽/⭐
 
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
+
 ![Master](/images/ranks/Master.webp) ![Grandmaster](/images/ranks/Grandmaster.webp)
 
 ### Мастер, ГМ
@@ -46,6 +48,8 @@ language: ru
 На герое 105 ₽/⭐
 
 В пати 120 ₽/⭐
+
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
 
 ![Epic](/images/ranks/Epic.webp)
 
@@ -59,6 +63,8 @@ language: ru
 
 В пати 185 ₽/⭐
 
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
+
 ![Legend](/images/ranks/Legend.webp)
 
 ### Легенда
@@ -70,6 +76,8 @@ language: ru
 На герое 135 ₽/⭐
 
 В пати 200 ₽/⭐
+
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
 
 ![Мифическая калибровка](/images/ranks/Mythic.webp)
 
@@ -83,6 +91,8 @@ language: ru
 
 В пати355 ₽/победа
 
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
+
 ![Mythic](/images/ranks/Mythic.webp)
 
 ### Мифик
@@ -94,6 +104,8 @@ language: ru
 На герое 160 ₽/⭐
 
 В пати 255 ₽/⭐
+
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
 
 ![Mythical Honor](/images/ranks/Mythical_Honor.webp)
 
@@ -107,6 +119,8 @@ language: ru
 
 В пати 295 ₽/⭐
 
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
+
 ![Mythical Glory](/images/ranks/Mythical_Glory.webp)
 
 ### Мифическая Слава
@@ -119,6 +133,8 @@ language: ru
 
 В пати 400 ₽/⭐
 
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
+
 ![Mythical Immortal](/images/ranks/Mythical_Immortal.webp)
 
 ### Мифический Бессмертный
@@ -130,6 +146,8 @@ language: ru
 На герое 240 ₽/⭐
 
 В пати 440 ₽/⭐
+
+[Рассчитать заказ](https://boostmlbb.ru/order.html)
 
 ![Rising](/images/ranks/rising.webp)
 

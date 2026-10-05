@@ -319,7 +319,7 @@
 
   function cleanReviewText(value) {
     if (value == null) return '';
-    return String(value).replace(REVIEW_TEXT_MARKER, '').trim();
+    return window.MLBBReviewText ? window.MLBBReviewText.clean(value) : String(value).replace(REVIEW_TEXT_MARKER, '').replace(/<\/?tg-emoji\b[^>]*>/gi, '').trim();
   }
 
   function normalizeReview(r) {
@@ -670,6 +670,8 @@
 
   function render() {
     if (state.failed && !state.all.length) return;
+    var fallback = document.querySelector('[data-seo-generated="reviews-snapshot"]');
+    if (fallback) fallback.hidden = state.all.length > 0;
     var filtered = getFiltered();
 
     if (!filtered.length) {
@@ -790,6 +792,7 @@
     var addBtn = function (value, build, count, empty) {
       var b = el('button', 'filter-btn' + (value === state.filterRating ? ' active' : '') + (empty ? ' is-empty' : ''));
       b.setAttribute('data-rating', value);
+      b.setAttribute('aria-pressed', String(value === state.filterRating));
       build(b);
       b.appendChild(countBadge(count));
       b.addEventListener('click', function () {
@@ -830,6 +833,7 @@
     var mk = function (value, iconCls, label, count) {
       var b = el('button', 'filter-btn' + (value === state.filterBoost ? ' active' : ''));
       b.setAttribute('data-boost', value);
+      b.setAttribute('aria-pressed', String(value === state.filterBoost));
       b.appendChild(icon('fas ' + iconCls));
       b.appendChild(el('span', null, ' ' + label));
       b.appendChild(countBadge(count));
@@ -888,6 +892,7 @@
   function syncActive(root, attr, value) {
     Array.prototype.forEach.call(root.querySelectorAll('.filter-btn'), function (b) {
       b.classList.toggle('active', b.getAttribute(attr) === value);
+      b.setAttribute('aria-pressed', String(b.getAttribute(attr) === value));
     });
   }
 
@@ -1101,6 +1106,7 @@
   function init() {
     container = document.getElementById('reviews-container');
     if (!container) return;
+    document.getElementById('reviews-reset')?.addEventListener('click', resetFilters);
 
     ratingFilters = document.getElementById('rating-filters');
     boostFilters = document.getElementById('boost-filters');

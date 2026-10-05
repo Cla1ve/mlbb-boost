@@ -1,6 +1,7 @@
 import { readFile, writeFile, rename } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import reviewText from '../js/review-text.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const target = path.join(root, 'content/public-data.json');
@@ -49,7 +50,7 @@ async function sync() {
   const complete = [...new Map(raw.filter(completeReview).map(r => [String(r.id), r])).values()];
   if (!complete.length) throw new Error('No complete public reviews');
   const safe = complete.filter(r => hasText(r.text) && /^https:\/\/t\.me\//.test(r.message_link || '')).slice(0, 6).map(r => ({
-    id: r.id, rating: Number(r.rating), text: String(r.text), messageLink: r.message_link,
+    id: r.id, rating: Number(r.rating), text: reviewText.clean(r.text), messageLink: r.message_link,
   }));
   const payload = {
     source: api, prices,

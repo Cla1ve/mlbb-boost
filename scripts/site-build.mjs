@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import vm from 'node:vm';
 import { parseHTML } from 'linkedom';
 import TurndownService from 'turndown';
+import reviewText from '../js/review-text.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const origin = 'https://boostmlbb.ru';
@@ -132,7 +133,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
   for (const lang of ['ru', 'en']) {
     const { document } = parseHTML(source);
     const navigation = document.querySelector('.nav-list');
-    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-gamepad'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-star'], ['/news/', 'Новости', 'fa-newspaper'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-info-circle']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Заказать</a></li>';
+    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-star'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-comments'], ['/news/', 'Новости', 'fa-newspaper'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-users']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Купить буст</a></li>';
     for (const element of document.querySelectorAll('.channel-title, .site-footer a')) {
       element.innerHTML = element.innerHTML.replace(/\d+\+? отзывов/g, `${data.reviewStats.count} отзывов`).replace(/Отзывы \(\d+\+?\)/g, `Отзывы (${data.reviewStats.count})`);
     }
@@ -191,8 +192,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       }
       const descriptionText = lang === 'en' ? `${stats.count} customer reviews, average rating ${stats.rating.toFixed(1)}/5. Read the original reviews on Telegram.` : `${stats.count} отзывов клиентов, средняя оценка ${stats.rating.toFixed(1)}/5. Оригиналы отзывов доступны в Telegram.`;
       const quotes = data.reviews.slice(0, 3).map(r => {
-        const { document: fragment } = parseHTML(`<div>${r.text.replace(/^review_html_v1::/, '')}</div>`);
-        const text = fragment.querySelector('div').textContent;
+        const text = reviewText.clean(r.text);
         return `<blockquote><p lang="ru">${escape(text)}</p><footer>${r.rating}/5 · <a href="${escape(r.messageLink)}" target="_blank" rel="noopener noreferrer">${lang === 'en' ? 'Original Telegram review' : 'Исходный отзыв в Telegram'}</a></footer></blockquote>`;
       }).join('');
       block(document, 'reviews-snapshot', `<section class="seo-section"><div class="container"><h2>${lang === 'en' ? 'Customer reviews on Telegram' : 'Отзывы клиентов в Telegram'}</h2><p>${descriptionText}</p><div class="seo-quotes" data-i18n-skip>${quotes}</div></div></section>`);
@@ -208,19 +208,65 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (main) main.id = 'main-content';
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
+    document.querySelector('link[href*="/styles/ui.css"]')?.remove();
+    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=30'; document.head.append(interfaceStyle);
+    document.querySelector('script[src*="/js/ui.js"]')?.remove();
+    if (['prices.html', 'reviews.html'].includes(file)) {
+      const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);
+    }
     for (const node of document.querySelectorAll('script[src],link[href*="/styles/seo.css"]')) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
-      if (['/js/main.js', '/js/prices.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '25' : '24');
+      if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
+        asset.searchParams.set('v', '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
     if (file === 'index.html' && !document.querySelector('script[src*="particles.min.js"]')) {
       const effects = document.createElement('script'); effects.src = '/js/vendor/particles.min.js'; effects.setAttribute('defer', ''); document.head.append(effects);
     }
+    if (file === 'index.html') {
+      const container = document.querySelector('#particles-js');
+      container.innerHTML = '<img class="hero-lightning-fallback" src="/images/hero-network.svg" width="1440" height="900" alt="">';
+      document.querySelector('.effects-toggle')?.remove();
+      const controls = document.querySelector('.hero-controls');
+      if (controls) { controls.before(...controls.childNodes); controls.remove(); }
+      document.querySelector('script[src*="/js/hero-effects.js"]')?.remove();
+      const controller = document.createElement('script'); controller.src = '/js/hero-effects.js?v=30'; controller.setAttribute('defer', ''); document.head.append(controller);
+    }
+    if (file === 'reviews.html') {
+      document.querySelector('script[src*="/js/review-text.js"]')?.remove();
+      const cleaner = document.createElement('script'); cleaner.src = '/js/review-text.js?v=30';
+      document.querySelector('script[src*="/js/reviews.js"]').before(cleaner);
+      document.querySelector('#reviews-search').setAttribute('aria-label', lang === 'en' ? 'Search customer reviews' : 'Поиск по отзывам клиентов');
+      const toolbar = document.querySelector('.reviews-toolbar');
+      let disclosure = toolbar.querySelector('.review-filter-options');
+      if (!disclosure) {
+        disclosure = document.createElement('details'); disclosure.className = 'review-filter-options'; disclosure.open = true;
+        toolbar.querySelector('.reviews-search').after(disclosure);
+        toolbar.querySelectorAll('.filter-block').forEach(node => disclosure.append(node));
+      }
+      disclosure.querySelector('summary')?.remove();
+      const summary = document.createElement('summary'); summary.textContent = lang === 'en' ? 'Review filters' : 'Фильтры отзывов'; summary.setAttribute('data-i18n-skip', ''); disclosure.prepend(summary);
+      let footer = toolbar.querySelector('.reviews-controls-footer');
+      if (!footer) { footer = document.createElement('div'); footer.className = 'reviews-controls-footer'; footer.append(document.querySelector('#reviews-meta')); toolbar.append(footer); }
+      footer.querySelector('.reviews-reset')?.remove();
+      const reset = document.createElement('button'); reset.type = 'button'; reset.className = 'reviews-reset'; reset.id = 'reviews-reset'; reset.textContent = lang === 'en' ? 'Reset filters' : 'Сбросить фильтры'; reset.setAttribute('data-i18n-skip', ''); footer.append(reset);
+    }
+    if (file === 'prices.html') {
+      document.querySelector('.price-format-bar')?.remove();
+      const bar = document.createElement('div'); bar.className = 'price-format-bar'; bar.hidden = true; bar.setAttribute('data-i18n-skip', '');
+      const formats = lang === 'en' ? [['all','All formats'],['standard','Account'],['party','Party'],['role','Role'],['hero','Hero']] : [['all','Все форматы'],['standard','Обычный'],['party','В пати'],['role','На роли'],['hero','На герое']];
+      bar.innerHTML = `<span class="price-format-label">${lang === 'en' ? 'Compare rates by format' : 'Сравните тарифы по формату'}</span><div class="price-format-options" role="group" aria-label="${lang === 'en' ? 'Boost format' : 'Формат буста'}">${formats.map(([value,label]) => `<button type="button" data-price-format="${value}" aria-pressed="${value === 'all'}">${label}</button>`).join('')}</div>`;
+      const grid = document.querySelector('#prices-grid'); grid.before(bar);
+      grid.querySelectorAll('.price-card-link').forEach(node => node.remove());
+      grid.querySelectorAll('.rank-info').forEach(node => {
+        const link = document.createElement('a'); link.href = localized('/order.html', lang); link.className = 'price-card-link'; link.setAttribute('data-i18n-skip', ''); link.innerHTML = `${lang === 'en' ? 'Calculate order' : 'Рассчитать заказ'} <i class="fas fa-arrow-right" aria-hidden="true"></i>`; node.append(link);
+      });
+    }
     document.querySelector('#particles-js')?.setAttribute('aria-hidden', 'true');
     document.querySelectorAll('link[href*="font-awesome"]').forEach(node => node.setAttribute('href', '/styles/icons.css'));
+    document.querySelectorAll('link[href*="/styles/icons.css"]').forEach(node => node.setAttribute('href', '/styles/icons.css?v=30'));
     document.querySelectorAll('link[rel="preconnect"][href*="cdnjs"]').forEach(node => node.remove());
     for (const node of document.querySelectorAll('script[src*="i18n-legal"],script[src*="i18n-reviews"]')) {
       if (config.pages[file] || guide) {
@@ -264,7 +310,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     const output = lang === 'en' ? 'en/' + file : file;
     await save(output, '<!DOCTYPE html>\n' + document.documentElement.outerHTML + '\n');
     const mainCopy = main.cloneNode(true);
-    mainCopy.querySelectorAll('script, style, .loader, #particles-js, .hero-gradient-overlay, .hero-character').forEach(el => el.remove());
+    mainCopy.querySelectorAll('script, style, .loader, #particles-js, .hero-gradient-overlay, .hero-character, .effects-toggle, .price-format-bar').forEach(el => el.remove());
     for (const anchor of mainCopy.querySelectorAll('a[href]')) anchor.href = new URL(anchor.getAttribute('href'), origin).href;
     const text = markdown.turndown(mainCopy.innerHTML).replace(/[\t ]+$/gm, '');
     await save(mdPath.slice(1), `---\ntitle: ${JSON.stringify(title)}\ndescription: ${JSON.stringify(description)}\ncanonical: ${canonical}\nlanguage: ${lang}\n---\n\n${text}\n`);

@@ -83,6 +83,9 @@ const data = JSON.parse(await read('content/public-data.json'));
 assert.equal(data.prices.length, 9);
 assert(Number.isFinite(Date.parse(data.checkedAt)));
 for (const langPath of ['', '/en']) {
+  const home = pages.get(origin + langPath + '/').document;
+  assert(home.querySelector('#particles-js img[src="/images/hero-network.svg"]'), 'Static lightning must remain available without JavaScript');
+  assert(!home.querySelector('.effects-toggle'), 'Animation controls must not appear on the customer page');
   const pricePage = pages.get(origin + langPath + '/prices.html').document;
   assert(!pricePage.querySelector('[data-seo-generated="price-date"],[data-seo-generated="content"]'), 'Technical price information must stay out of the customer page');
   for (const price of pricePage.querySelectorAll('[data-category="mythic_calibration"] [data-type]')) {
@@ -92,6 +95,8 @@ for (const langPath of ['', '/en']) {
     assert.equal(Number.parseFloat(pricePage.querySelector(`[data-category="${row.category}"] [data-type="${price.type}"]`).textContent), price.price, 'Static prices differ from the API snapshot');
   }
   assert.equal(pages.get(origin + langPath + '/reviews.html').document.getElementById('stat-reviews-happy').textContent, data.reviewStats.satisfaction + '%');
+  const reviewPage = pages.get(origin + langPath + '/reviews.html').document;
+  assert(!/tg-emoji|emoji-id|review_html_v\d+::/.test(reviewPage.querySelector('[data-seo-generated="reviews-snapshot"]').textContent), 'Telegram markup must not leak into static reviews');
 }
 assert.deepEqual(JSON.parse(await read('content/translation-gaps.json')), [], 'Untranslated English content');
 for (const [url, { document }] of pages) {
