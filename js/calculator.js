@@ -871,28 +871,17 @@ async function calculatePrice() {
         result.winrate || 'уточняется',
         result
       );
-    } else if (result.error) {
-      showError(result.error);
     } else {
-      showError('Не удалось рассчитать стоимость. Проверьте выбранные ранги.');
+      showError(document.documentElement.lang === 'en'
+        ? 'Could not calculate the price. Check your selected ranks and try again.'
+        : 'Не удалось рассчитать стоимость. Проверьте выбранные ранги и попробуйте ещё раз.');
     }
   } catch (error) {
     console.error('Ошибка расчёта:', error);
     
-    let errorMessage = 'Ошибка соединения с сервером. ';
-    
-    if (error.message && error.message.includes('Failed to fetch')) {
-      if (window.location.protocol === 'https:') {
-        errorMessage += 'Проблема с HTTPS соединением. ';
-        errorMessage += 'Если HTTPS ещё не настроен на сервере, используйте локальную версию сайта или закажите буст через Telegram-бота.';
-      } else {
-        errorMessage += 'Проверьте подключение к интернету или попробуйте позже.';
-      }
-    } else {
-      errorMessage += 'Попробуйте позже или закажите буст через Telegram-бота.';
-    }
-    
-    showError(errorMessage);
+    showError(document.documentElement.lang === 'en'
+      ? 'Could not calculate the price. Try again or place your order through the Telegram bot.'
+      : 'Не удалось рассчитать стоимость. Попробуйте ещё раз или оформите заказ в Telegram-боте.');
   } finally {
     // Восстанавливаем кнопку
     const btnContentRestore = calculateBtn.querySelector('.btn-content');

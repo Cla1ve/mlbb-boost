@@ -211,8 +211,8 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     for (const node of document.querySelectorAll('script[src],link[href*="/styles/seo.css"]')) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
-      if (['/js/main.js', '/js/prices.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', '24');
+      if (['/js/main.js', '/js/prices.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '25' : '24');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
