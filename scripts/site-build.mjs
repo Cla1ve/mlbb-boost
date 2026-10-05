@@ -232,7 +232,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const controls = document.querySelector('.hero-controls');
       if (controls) { controls.before(...controls.childNodes); controls.remove(); }
       document.querySelector('script[src*="/js/hero-effects.js"]')?.remove();
-      const controller = document.createElement('script'); controller.src = '/js/hero-effects.js?v=30'; controller.setAttribute('defer', ''); document.head.append(controller);
+      const controller = document.createElement('script'); controller.src = '/js/hero-effects.js?v=32'; controller.setAttribute('defer', ''); document.head.append(controller);
     }
     if (file === 'reviews.html') {
       document.querySelector('script[src*="/js/review-text.js"]')?.remove();
