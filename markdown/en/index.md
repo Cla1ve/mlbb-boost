@@ -77,27 +77,27 @@ Advantages
 
 Customer trust is our top priority
 
-### Player assignment
+### PRO Players
 
-Confirm the assigned player’s experience and availability before ordering
+MCC tournament players and the global top-100 by stars
 
 01
 
-### Route-based timing
+### Fast work
 
-The calculator provides an estimate; timing is confirmed before payment
+Up to 25 stars a day while keeping a high win rate
 
 02
 
-### Account access terms
+### 100% Safety
 
-Party play needs no shared access; read the risks and terms for account boosting
+VPN protection, zero bans throughout our history
 
 03
 
-### Telegram support
+### 24/7 Support
 
-Confirm pricing, start time and order questions through Telegram
+Always in touch, we reply within 5 minutes
 
 04
 

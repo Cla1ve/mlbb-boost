@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'mlbb-boost-v32-network-start';
+const CACHE_VERSION = 'mlbb-boost-v33-benefit-copy';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const DYNAMIC_CACHE = `${CACHE_VERSION}-dynamic`;
 const IMAGE_CACHE = `${CACHE_VERSION}-images`;
