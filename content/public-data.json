@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-05T14:41:31.542Z",
+  "checkedAt": "2026-10-07T08:48:33.229Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,35 @@
     }
   ],
   "reviewStats": {
-    "count": 1151,
+    "count": 1155,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2110,
+      "rating": 5,
+      "text": "Быстро четко.",
+      "messageLink": "https://t.me/Cla1ve_boost/1966"
+    },
+    {
+      "id": 2108,
+      "rating": 5,
+      "text": "Все отлично",
+      "messageLink": "https://t.me/Cla1ve_boost/1964"
+    },
+    {
+      "id": 2105,
+      "rating": 5,
+      "text": "Loid лучший бустер всем советую❤️",
+      "messageLink": "https://t.me/Cla1ve_boost/1963"
+    },
+    {
+      "id": 2104,
+      "rating": 5,
+      "text": "Спасибо Мурзик 😘",
+      "messageLink": "https://t.me/Cla1ve_boost/1961"
+    },
     {
       "id": 2100,
       "rating": 5,
@@ -299,30 +323,6 @@
       "rating": 5,
       "text": "лучший",
       "messageLink": "https://t.me/Cla1ve_boost/1955"
-    },
-    {
-      "id": 2097,
-      "rating": 5,
-      "text": "Идеально, быстро и четко",
-      "messageLink": "https://t.me/Cla1ve_boost/1954"
-    },
-    {
-      "id": 2096,
-      "rating": 5,
-      "text": "Все четко",
-      "messageLink": "https://t.me/Cla1ve_boost/1953"
-    },
-    {
-      "id": 2094,
-      "rating": 5,
-      "text": "🔥🔥🔥🔥🔥",
-      "messageLink": "https://t.me/Cla1ve_boost/1952"
-    },
-    {
-      "id": 2091,
-      "rating": 5,
-      "text": "Как обычно лучше всех",
-      "messageLink": "https://t.me/Cla1ve_boost/1951"
     }
   ]
 }
