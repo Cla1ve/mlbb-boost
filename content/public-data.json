@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T09:07:24.669Z",
+  "checkedAt": "2026-10-09T09:13:32.798Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,23 @@
     }
   ],
   "reviewStats": {
-    "count": 1158,
+    "count": 1160,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2118,
+      "rating": 5,
+      "text": "Гуд 👍",
+      "messageLink": "https://t.me/Cla1ve_boost/1979"
+    },
+    {
+      "id": 2116,
+      "rating": 5,
+      "text": "Лучший 🔥",
+      "messageLink": "https://t.me/Cla1ve_boost/1970"
+    },
     {
       "id": 2114,
       "rating": 5,
@@ -311,18 +323,6 @@
       "rating": 5,
       "text": "Быстро четко.",
       "messageLink": "https://t.me/Cla1ve_boost/1966"
-    },
-    {
-      "id": 2108,
-      "rating": 5,
-      "text": "Все отлично",
-      "messageLink": "https://t.me/Cla1ve_boost/1964"
-    },
-    {
-      "id": 2105,
-      "rating": 5,
-      "text": "Loid лучший бустер всем советую❤️",
-      "messageLink": "https://t.me/Cla1ve_boost/1963"
     }
   ]
 }
