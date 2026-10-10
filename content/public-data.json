@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-09T09:13:32.798Z",
+  "checkedAt": "2026-10-10T08:37:33.729Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,35 @@
     }
   ],
   "reviewStats": {
-    "count": 1160,
+    "count": 1164,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2122,
+      "rating": 5,
+      "text": "Быстро четко.✅",
+      "messageLink": "https://t.me/Cla1ve_boost/1984"
+    },
+    {
+      "id": 2121,
+      "rating": 5,
+      "text": "идеально, спасибо",
+      "messageLink": "https://t.me/Cla1ve_boost/1983"
+    },
+    {
+      "id": 2120,
+      "rating": 5,
+      "text": "Супер",
+      "messageLink": "https://t.me/Cla1ve_boost/1981"
+    },
+    {
+      "id": 2119,
+      "rating": 5,
+      "text": "как всегда 1000 из 10. обожаю😍😍😍",
+      "messageLink": "https://t.me/Cla1ve_boost/1980"
+    },
     {
       "id": 2118,
       "rating": 5,
@@ -299,30 +323,6 @@
       "rating": 5,
       "text": "Лучший 🔥",
       "messageLink": "https://t.me/Cla1ve_boost/1970"
-    },
-    {
-      "id": 2114,
-      "rating": 5,
-      "text": "Всё быстро, оперативно, аккавант не украли 😂😂 всё объяснил и подробно описал в чате сам процесс и вообще какие есть опции и виды бустоа. Бестик, в общем",
-      "messageLink": "https://t.me/Cla1ve_boost/1969"
-    },
-    {
-      "id": 2113,
-      "rating": 5,
-      "text": "Все збс спасибо",
-      "messageLink": "https://t.me/Cla1ve_boost/1968"
-    },
-    {
-      "id": 2111,
-      "rating": 5,
-      "text": "рекомендую,все ахуена сделал",
-      "messageLink": "https://t.me/Cla1ve_boost/1967"
-    },
-    {
-      "id": 2110,
-      "rating": 5,
-      "text": "Быстро четко.",
-      "messageLink": "https://t.me/Cla1ve_boost/1966"
     }
   ]
 }
