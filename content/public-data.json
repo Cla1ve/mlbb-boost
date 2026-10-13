@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-12T09:22:37.929Z",
+  "checkedAt": "2026-10-13T09:32:24.304Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,35 @@
     }
   ],
   "reviewStats": {
-    "count": 1169,
+    "count": 1173,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2138,
+      "rating": 5,
+      "text": "Всё выполнено быстро и качественно",
+      "messageLink": "https://t.me/Cla1ve_boost/2004"
+    },
+    {
+      "id": 2137,
+      "rating": 5,
+      "text": "как всегда отыграл на адк на 10000 из 10. спасибо большое ✌🏻",
+      "messageLink": "https://t.me/Cla1ve_boost/2002"
+    },
+    {
+      "id": 2136,
+      "rating": 5,
+      "text": "Самая крутая) 😎",
+      "messageLink": "https://t.me/Cla1ve_boost/2001"
+    },
+    {
+      "id": 2135,
+      "rating": 5,
+      "text": "Всё прекрасно, рад сотрудничеству!",
+      "messageLink": "https://t.me/Cla1ve_boost/2000"
+    },
     {
       "id": 2133,
       "rating": 5,
@@ -299,30 +323,6 @@
       "rating": 5,
       "text": "Все Гуд",
       "messageLink": "https://t.me/Cla1ve_boost/1994"
-    },
-    {
-      "id": 2126,
-      "rating": 5,
-      "text": "Четко",
-      "messageLink": "https://t.me/Cla1ve_boost/1990"
-    },
-    {
-      "id": 2125,
-      "rating": 5,
-      "text": "Супер буст. Быстро, чётко. Заказываю повторно. Рекомендую",
-      "messageLink": "https://t.me/Cla1ve_boost/1989"
-    },
-    {
-      "id": 2124,
-      "rating": 5,
-      "text": "Как всегда все на высшем уровне",
-      "messageLink": "https://t.me/Cla1ve_boost/1986"
-    },
-    {
-      "id": 2122,
-      "rating": 5,
-      "text": "Быстро четко.✅",
-      "messageLink": "https://t.me/Cla1ve_boost/1984"
     }
   ]
 }
