@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-13T09:32:24.304Z",
+  "checkedAt": "2026-10-14T07:45:36.046Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1173,
+    "count": 1178,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2146,
+      "rating": 5,
+      "text": "Всё хорошо",
+      "messageLink": "https://t.me/Cla1ve_boost/2012"
+    },
+    {
+      "id": 2145,
+      "rating": 5,
+      "text": "Все хорошо, проблем не было",
+      "messageLink": "https://t.me/Cla1ve_boost/2011"
+    },
+    {
+      "id": 2144,
+      "rating": 5,
+      "text": "Лучший",
+      "messageLink": "https://t.me/Cla1ve_boost/2008"
+    },
+    {
+      "id": 2143,
+      "rating": 5,
+      "text": "Как обычно быстро четко)",
+      "messageLink": "https://t.me/Cla1ve_boost/2007"
+    },
+    {
+      "id": 2142,
+      "rating": 5,
+      "text": "замечательный роум. большое спасибо!!",
+      "messageLink": "https://t.me/Cla1ve_boost/2006"
+    },
+    {
       "id": 2138,
       "rating": 5,
       "text": "Всё выполнено быстро и качественно",
       "messageLink": "https://t.me/Cla1ve_boost/2004"
-    },
-    {
-      "id": 2137,
-      "rating": 5,
-      "text": "как всегда отыграл на адк на 10000 из 10. спасибо большое ✌🏻",
-      "messageLink": "https://t.me/Cla1ve_boost/2002"
-    },
-    {
-      "id": 2136,
-      "rating": 5,
-      "text": "Самая крутая) 😎",
-      "messageLink": "https://t.me/Cla1ve_boost/2001"
-    },
-    {
-      "id": 2135,
-      "rating": 5,
-      "text": "Всё прекрасно, рад сотрудничеству!",
-      "messageLink": "https://t.me/Cla1ve_boost/2000"
-    },
-    {
-      "id": 2133,
-      "rating": 5,
-      "text": "Все шикарно. Очень быстрый буст, и милый бустер. Добавил звездочку) Вернусь к нему еще раз",
-      "messageLink": "https://t.me/Cla1ve_boost/1999"
-    },
-    {
-      "id": 2130,
-      "rating": 5,
-      "text": "Все Гуд",
-      "messageLink": "https://t.me/Cla1ve_boost/1994"
     }
   ]
 }

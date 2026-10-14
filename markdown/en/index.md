@@ -7,7 +7,7 @@ language: en
 
 Trusted service
 
-1173 reviews
+1178 reviews
 
 # Professional boost Mobile Legends by PRO players from MCC tournaments
 
@@ -101,7 +101,7 @@ Always in touch, we reply within 5 minutes
 
 04
 
-1173 Reviews
+1178 Reviews
 
 99% Satisfied
 
