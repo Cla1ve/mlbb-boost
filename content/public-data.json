@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-14T07:45:36.046Z",
+  "checkedAt": "2026-10-15T07:32:58.274Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1178,
+    "count": 1183,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2154,
+      "rating": 5,
+      "text": "большое спасибо, хороший буст🫂 спасибо за винстрик 🫶🏻",
+      "messageLink": "https://t.me/Cla1ve_boost/2019"
+    },
+    {
+      "id": 2152,
+      "rating": 5,
+      "text": "🔥🔥🔥🔥🔥",
+      "messageLink": "https://t.me/Cla1ve_boost/2018"
+    },
+    {
+      "id": 2151,
+      "rating": 5,
+      "text": "Всё идеально и быстро сделано",
+      "messageLink": "https://t.me/Cla1ve_boost/2017"
+    },
+    {
+      "id": 2149,
+      "rating": 5,
+      "text": "Мне очень сильно понравился ваш буст, если мне в следующий раз понадобится буст я попробую связаться с вами. Спасибо вам большое )",
+      "messageLink": "https://t.me/Cla1ve_boost/2015"
+    },
+    {
+      "id": 2148,
+      "rating": 5,
+      "text": "как всегда самый найкрутейший мидер. обожаю",
+      "messageLink": "https://t.me/Cla1ve_boost/2013"
+    },
+    {
       "id": 2146,
       "rating": 5,
       "text": "Всё хорошо",
       "messageLink": "https://t.me/Cla1ve_boost/2012"
-    },
-    {
-      "id": 2145,
-      "rating": 5,
-      "text": "Все хорошо, проблем не было",
-      "messageLink": "https://t.me/Cla1ve_boost/2011"
-    },
-    {
-      "id": 2144,
-      "rating": 5,
-      "text": "Лучший",
-      "messageLink": "https://t.me/Cla1ve_boost/2008"
-    },
-    {
-      "id": 2143,
-      "rating": 5,
-      "text": "Как обычно быстро четко)",
-      "messageLink": "https://t.me/Cla1ve_boost/2007"
-    },
-    {
-      "id": 2142,
-      "rating": 5,
-      "text": "замечательный роум. большое спасибо!!",
-      "messageLink": "https://t.me/Cla1ve_boost/2006"
-    },
-    {
-      "id": 2138,
-      "rating": 5,
-      "text": "Всё выполнено быстро и качественно",
-      "messageLink": "https://t.me/Cla1ve_boost/2004"
     }
   ]
 }
