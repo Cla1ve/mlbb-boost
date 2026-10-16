@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-15T07:32:58.274Z",
+  "checkedAt": "2026-10-16T07:18:28.290Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -195,7 +195,7 @@
         {
           "type": "hero",
           "type_name": "На герое",
-          "price": 175,
+          "price": 165,
           "unit": "star"
         },
         {
@@ -226,7 +226,38 @@
         {
           "type": "hero",
           "type_name": "На герое",
-          "price": 200,
+          "price": 180,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 360,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 155,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 140,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "immortal",
+      "category_name": "Бессмертный",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 215,
           "unit": "star"
         },
         {
@@ -249,80 +280,49 @@
         }
       ],
       "unit": "star"
-    },
-    {
-      "category": "immortal",
-      "category_name": "Бессмертный",
-      "prices": [
-        {
-          "type": "hero",
-          "type_name": "На герое",
-          "price": 240,
-          "unit": "star"
-        },
-        {
-          "type": "party",
-          "type_name": "В пати",
-          "price": 440,
-          "unit": "star"
-        },
-        {
-          "type": "role",
-          "type_name": "На роли",
-          "price": 180,
-          "unit": "star"
-        },
-        {
-          "type": "standard",
-          "type_name": "Стандарт",
-          "price": 165,
-          "unit": "star"
-        }
-      ],
-      "unit": "star"
     }
   ],
   "reviewStats": {
-    "count": 1183,
+    "count": 1188,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2160,
+      "rating": 5,
+      "text": "Всё супер быстро без лишних вопросов спасибо!!!!",
+      "messageLink": "https://t.me/Cla1ve_boost/2026"
+    },
+    {
+      "id": 2159,
+      "rating": 5,
+      "text": "Все хорошо, молодец) 👍 👌",
+      "messageLink": "https://t.me/Cla1ve_boost/2025"
+    },
+    {
+      "id": 2158,
+      "rating": 5,
+      "text": "Быстро,чётко🫶🏻",
+      "messageLink": "https://t.me/Cla1ve_boost/2024"
+    },
+    {
+      "id": 2157,
+      "rating": 5,
+      "text": "Отличный буст, как всегда 👍🏻❤️",
+      "messageLink": "https://t.me/Cla1ve_boost/2022"
+    },
+    {
+      "id": 2156,
+      "rating": 5,
+      "text": "Идеально",
+      "messageLink": "https://t.me/Cla1ve_boost/2021"
+    },
+    {
       "id": 2154,
       "rating": 5,
       "text": "большое спасибо, хороший буст🫂 спасибо за винстрик 🫶🏻",
       "messageLink": "https://t.me/Cla1ve_boost/2019"
-    },
-    {
-      "id": 2152,
-      "rating": 5,
-      "text": "🔥🔥🔥🔥🔥",
-      "messageLink": "https://t.me/Cla1ve_boost/2018"
-    },
-    {
-      "id": 2151,
-      "rating": 5,
-      "text": "Всё идеально и быстро сделано",
-      "messageLink": "https://t.me/Cla1ve_boost/2017"
-    },
-    {
-      "id": 2149,
-      "rating": 5,
-      "text": "Мне очень сильно понравился ваш буст, если мне в следующий раз понадобится буст я попробую связаться с вами. Спасибо вам большое )",
-      "messageLink": "https://t.me/Cla1ve_boost/2015"
-    },
-    {
-      "id": 2148,
-      "rating": 5,
-      "text": "как всегда самый найкрутейший мидер. обожаю",
-      "messageLink": "https://t.me/Cla1ve_boost/2013"
-    },
-    {
-      "id": 2146,
-      "rating": 5,
-      "text": "Всё хорошо",
-      "messageLink": "https://t.me/Cla1ve_boost/2012"
     }
   ]
 }

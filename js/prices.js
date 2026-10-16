@@ -21,7 +21,7 @@ let lastDataStatusMode = 'fallback';
 let lastDataStatusTimestamp = null;
 let lastRenderedPrices = null;
 
-// Последний проверенный fallback с API на 2026-10-15.
+// Последний проверенный fallback с API на 2026-10-16.
 // Он нужен для первого визита, если API временно недоступен и localStorage ещё пуст.
 const LAST_KNOWN_PRICES = [
   {
@@ -217,7 +217,7 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 175,
+        "price": 165,
         "unit": "star"
       },
       {
@@ -248,7 +248,38 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 200,
+        "price": 180,
+        "unit": "star"
+      },
+      {
+        "type": "party",
+        "type_name": "В пати",
+        "price": 360,
+        "unit": "star"
+      },
+      {
+        "type": "role",
+        "type_name": "На роли",
+        "price": 155,
+        "unit": "star"
+      },
+      {
+        "type": "standard",
+        "type_name": "Стандарт",
+        "price": 140,
+        "unit": "star"
+      }
+    ],
+    "unit": "star"
+  },
+  {
+    "category": "immortal",
+    "category_name": "Бессмертный",
+    "prices": [
+      {
+        "type": "hero",
+        "type_name": "На герое",
+        "price": 215,
         "unit": "star"
       },
       {
@@ -267,37 +298,6 @@ const LAST_KNOWN_PRICES = [
         "type": "standard",
         "type_name": "Стандарт",
         "price": 145,
-        "unit": "star"
-      }
-    ],
-    "unit": "star"
-  },
-  {
-    "category": "immortal",
-    "category_name": "Бессмертный",
-    "prices": [
-      {
-        "type": "hero",
-        "type_name": "На герое",
-        "price": 240,
-        "unit": "star"
-      },
-      {
-        "type": "party",
-        "type_name": "В пати",
-        "price": 440,
-        "unit": "star"
-      },
-      {
-        "type": "role",
-        "type_name": "На роли",
-        "price": 180,
-        "unit": "star"
-      },
-      {
-        "type": "standard",
-        "type_name": "Стандарт",
-        "price": 165,
         "unit": "star"
       }
     ],
