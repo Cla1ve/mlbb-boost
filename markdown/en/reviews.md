@@ -15,13 +15,13 @@ Customer feedback about assigned players and completed orders
 
 ●●●●●
 
-1190 Reviews
+1191 Reviews
 
 99% Positive ratings
 
 ### All reviews on Telegram!
 
-1190 published reviews with screenshots
+1191 published reviews with screenshots
 
 [Open the channel](https://t.me/cla1ve_boost)
 
@@ -35,7 +35,11 @@ You can leave a review only after a purchase
 
 ## Customer reviews on Telegram
 
-1190 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+1191 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+
+> как всегда 10000 из 10 очень люблю
+>
+> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2030)
 
 > Все отлично
 >
@@ -44,7 +48,3 @@ You can leave a review only after a purchase
 > Как всегда на высоте🔥
 >
 > 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2027)
-
-> Всё супер быстро без лишних вопросов спасибо!!!!
->
-> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2026)
