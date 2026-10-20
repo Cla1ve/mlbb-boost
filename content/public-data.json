@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-19T07:53:44.872Z",
+  "checkedAt": "2026-10-20T07:42:46.079Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,35 @@
     }
   ],
   "reviewStats": {
-    "count": 1193,
+    "count": 1197,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2176,
+      "rating": 5,
+      "text": "Лучший бустер. Беру 3 раз и ни одного луза. 100 вр!!!",
+      "messageLink": "https://t.me/Cla1ve_boost/2042"
+    },
+    {
+      "id": 2175,
+      "rating": 5,
+      "text": "Все пушка",
+      "messageLink": "https://t.me/Cla1ve_boost/2041"
+    },
+    {
+      "id": 2173,
+      "rating": 5,
+      "text": "Быстрый, очень быстрый буст. Молодцы.",
+      "messageLink": "https://t.me/Cla1ve_boost/2040"
+    },
+    {
+      "id": 2172,
+      "rating": 5,
+      "text": "Как всегда все отлично",
+      "messageLink": "https://t.me/Cla1ve_boost/2039"
+    },
     {
       "id": 2170,
       "rating": 5,
@@ -299,30 +323,6 @@
       "rating": 5,
       "text": "очень хороший адк, спасибо большое",
       "messageLink": "https://t.me/Cla1ve_boost/2034"
-    },
-    {
-      "id": 2165,
-      "rating": 5,
-      "text": "как всегда 10000 из 10 очень люблю",
-      "messageLink": "https://t.me/Cla1ve_boost/2030"
-    },
-    {
-      "id": 2163,
-      "rating": 5,
-      "text": "Все отлично",
-      "messageLink": "https://t.me/Cla1ve_boost/2028"
-    },
-    {
-      "id": 2162,
-      "rating": 5,
-      "text": "Как всегда на высоте🔥",
-      "messageLink": "https://t.me/Cla1ve_boost/2027"
-    },
-    {
-      "id": 2160,
-      "rating": 5,
-      "text": "Всё супер быстро без лишних вопросов спасибо!!!!",
-      "messageLink": "https://t.me/Cla1ve_boost/2026"
     }
   ]
 }
