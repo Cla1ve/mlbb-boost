@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T07:42:47.742Z",
+  "checkedAt": "2026-10-23T07:40:20.634Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1202,
+    "count": 1207,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2201,
+      "rating": 5,
+      "text": "Всё отлично и быстро",
+      "messageLink": "https://t.me/Cla1ve_boost/2072"
+    },
+    {
+      "id": 2200,
+      "rating": 5,
+      "text": "Очень быстрое выполнения заказа в очень короткие сроки",
+      "messageLink": "https://t.me/Cla1ve_boost/2069"
+    },
+    {
+      "id": 2199,
+      "rating": 5,
+      "text": "Как всегда, все Гуд",
+      "messageLink": "https://t.me/Cla1ve_boost/2068"
+    },
+    {
+      "id": 2194,
+      "rating": 5,
+      "text": "боженька на адк, реально. спасибо за саваги и крутой кда😍😍😍",
+      "messageLink": "https://t.me/Cla1ve_boost/2063"
+    },
+    {
+      "id": 2193,
+      "rating": 5,
+      "text": "Спасибо\nОчень быстро все сделал ✨🥳",
+      "messageLink": "https://t.me/Cla1ve_boost/2060"
+    },
+    {
       "id": 2188,
       "rating": 5,
       "text": "Просто лучший!",
       "messageLink": "https://t.me/Cla1ve_boost/2057"
-    },
-    {
-      "id": 2186,
-      "rating": 5,
-      "text": "Всё было сделано быстро и чётко, я благодарен за помощь!",
-      "messageLink": "https://t.me/Cla1ve_boost/2052"
-    },
-    {
-      "id": 2182,
-      "rating": 5,
-      "text": "Хорошее обслуживания и сроки выполнения",
-      "messageLink": "https://t.me/Cla1ve_boost/2048"
-    },
-    {
-      "id": 2180,
-      "rating": 5,
-      "text": "оооочень крутой эксп, роум и мид!!! спасибо за саваги😍😍 и крутецкий кда! да и в целом рада знакомству, невероятно приятный человечек❤️🙏🏻 миллион из десяти",
-      "messageLink": "https://t.me/Cla1ve_boost/2047"
-    },
-    {
-      "id": 2179,
-      "rating": 5,
-      "text": "Всё супер пупер дупер",
-      "messageLink": "https://t.me/Cla1ve_boost/2046"
-    },
-    {
-      "id": 2176,
-      "rating": 5,
-      "text": "Лучший бустер. Беру 3 раз и ни одного луза. 100 вр!!!",
-      "messageLink": "https://t.me/Cla1ve_boost/2042"
     }
   ]
 }
