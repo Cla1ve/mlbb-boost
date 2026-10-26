@@ -69,13 +69,13 @@ In party 185 ₽/⭐
 
 ### Legend
 
-Standard 105 ₽/⭐
+Standard 95 ₽/⭐
 
-Role 120 ₽/⭐
+Role 100 ₽/⭐
 
-On hero 135 ₽/⭐
+On hero 120 ₽/⭐
 
-In party 200 ₽/⭐
+In party 185 ₽/⭐
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 
@@ -83,13 +83,13 @@ In party 200 ₽/⭐
 
 ### Mythic placement
 
-Standard180 ₽/win
+Standard165 ₽/win
 
-Role195 ₽/win
+Role180 ₽/win
 
-On hero225 ₽/win
+On hero205 ₽/win
 
-In party355 ₽/win
+In party320 ₽/win
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 
@@ -97,13 +97,13 @@ In party355 ₽/win
 
 ### Mythic
 
-Standard 125 ₽/⭐
+Standard 120 ₽/⭐
 
-Role 140 ₽/⭐
+Role 125 ₽/⭐
 
-On hero 160 ₽/⭐
+On hero 145 ₽/⭐
 
-In party 255 ₽/⭐
+In party 225 ₽/⭐
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 
@@ -111,13 +111,13 @@ In party 255 ₽/⭐
 
 ### Mythic Honor
 
-Standard 135 ₽/⭐
+Standard 120 ₽/⭐
 
-Role 145 ₽/⭐
+Role 125 ₽/⭐
 
-On hero 165 ₽/⭐
+On hero 145 ₽/⭐
 
-In party 295 ₽/⭐
+In party 255 ₽/⭐
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 
@@ -125,13 +125,13 @@ In party 295 ₽/⭐
 
 ### Mythic Glory
 
-Standard 140 ₽/⭐
+Standard 145 ₽/⭐
 
-Role 155 ₽/⭐
+Role 160 ₽/⭐
 
-On hero 180 ₽/⭐
+On hero 185 ₽/⭐
 
-In party 360 ₽/⭐
+In party 345 ₽/⭐
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 
@@ -139,13 +139,13 @@ In party 360 ₽/⭐
 
 ### Mythic Immortal
 
-Standard 145 ₽/⭐
+Standard 160 ₽/⭐
 
-Role 160 ₽/⭐
+Role 175 ₽/⭐
 
 On hero 215 ₽/⭐
 
-In party 400 ₽/⭐
+In party 360 ₽/⭐
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 

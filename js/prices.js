@@ -21,7 +21,7 @@ let lastDataStatusMode = 'fallback';
 let lastDataStatusTimestamp = null;
 let lastRenderedPrices = null;
 
-// Последний проверенный fallback с API на 2026-10-25.
+// Последний проверенный fallback с API на 2026-10-26.
 // Он нужен для первого визита, если API временно недоступен и localStorage ещё пуст.
 const LAST_KNOWN_PRICES = [
   {
@@ -124,25 +124,25 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 135,
+        "price": 120,
         "unit": "star"
       },
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 200,
+        "price": 185,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 120,
+        "price": 100,
         "unit": "star"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 105,
+        "price": 95,
         "unit": "star"
       }
     ],
@@ -155,25 +155,25 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 225,
+        "price": 205,
         "unit": "win"
       },
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 355,
+        "price": 320,
         "unit": "win"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 195,
+        "price": 180,
         "unit": "win"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 180,
+        "price": 165,
         "unit": "win"
       }
     ],
@@ -186,25 +186,25 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 160,
+        "price": 145,
         "unit": "star"
       },
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 255,
+        "price": 225,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 140,
+        "price": 125,
         "unit": "star"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 125,
+        "price": 120,
         "unit": "star"
       }
     ],
@@ -217,25 +217,25 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 165,
+        "price": 145,
         "unit": "star"
       },
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 295,
+        "price": 255,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 145,
+        "price": 125,
         "unit": "star"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 135,
+        "price": 120,
         "unit": "star"
       }
     ],
@@ -248,25 +248,25 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 180,
+        "price": 185,
         "unit": "star"
       },
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 360,
+        "price": 345,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 155,
+        "price": 160,
         "unit": "star"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 140,
+        "price": 145,
         "unit": "star"
       }
     ],
@@ -285,19 +285,19 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 400,
+        "price": 360,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 160,
+        "price": 175,
         "unit": "star"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 145,
+        "price": 160,
         "unit": "star"
       }
     ],
