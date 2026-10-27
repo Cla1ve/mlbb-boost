@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T07:53:47.721Z",
+  "checkedAt": "2026-10-27T07:59:27.708Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1219,
+    "count": 1224,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2225,
+      "rating": 5,
+      "text": "Все хорошо, молодец, быстрее чем даже бот время посчитал)",
+      "messageLink": "https://t.me/Cla1ve_boost/2105"
+    },
+    {
+      "id": 2224,
+      "rating": 5,
+      "text": "Быстро и без поражений",
+      "messageLink": "https://t.me/Cla1ve_boost/2104"
+    },
+    {
+      "id": 2189,
+      "rating": 5,
+      "text": "ну проста босс хз",
+      "messageLink": "https://t.me/Cla1ve_boost/2102"
+    },
+    {
+      "id": 2190,
+      "rating": 5,
+      "text": "Быстрый подьем ранга и приятный по общении бустер",
+      "messageLink": "https://t.me/Cla1ve_boost/2099"
+    },
+    {
+      "id": 2197,
+      "rating": 5,
+      "text": "Спасибо",
+      "messageLink": "https://t.me/Cla1ve_boost/2098"
+    },
+    {
       "id": 2220,
       "rating": 5,
       "text": "Все четко",
       "messageLink": "https://t.me/Cla1ve_boost/2095"
-    },
-    {
-      "id": 2219,
-      "rating": 5,
-      "text": "Все четко быстро, как и всегда 🤝",
-      "messageLink": "https://t.me/Cla1ve_boost/2091"
-    },
-    {
-      "id": 2216,
-      "rating": 5,
-      "text": "Быстро, четко спасибо",
-      "messageLink": "https://t.me/Cla1ve_boost/2087"
-    },
-    {
-      "id": 2214,
-      "rating": 5,
-      "text": "Лучший, огромное спасибо! Обращусь ещё)",
-      "messageLink": "https://t.me/Cla1ve_boost/2086"
-    },
-    {
-      "id": 2212,
-      "rating": 5,
-      "text": "спасибо большое, Ракунчик)",
-      "messageLink": "https://t.me/Cla1ve_boost/2085"
-    },
-    {
-      "id": 2211,
-      "rating": 5,
-      "text": "Я очень доволен ой работой данного бустера, все было сделано качественно и со всеми уточнениями, спасибо)",
-      "messageLink": "https://t.me/Cla1ve_boost/2084"
     }
   ]
 }
