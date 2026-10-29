@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-28T08:42:03.691Z",
+  "checkedAt": "2026-10-29T08:38:08.111Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1231,
+    "count": 1236,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2236,
+      "rating": 5,
+      "text": "Все быстро и качественно ❤️",
+      "messageLink": "https://t.me/Cla1ve_boost/2126"
+    },
+    {
+      "id": 2235,
+      "rating": 5,
+      "text": "Идеально",
+      "messageLink": "https://t.me/Cla1ve_boost/2124"
+    },
+    {
+      "id": 2234,
+      "rating": 5,
+      "text": "все гуд",
+      "messageLink": "https://t.me/Cla1ve_boost/2123"
+    },
+    {
+      "id": 2233,
+      "rating": 5,
+      "text": "Все гуд",
+      "messageLink": "https://t.me/Cla1ve_boost/2122"
+    },
+    {
+      "id": 2232,
+      "rating": 5,
+      "text": "👍👍👍👍👍",
+      "messageLink": "https://t.me/Cla1ve_boost/2120"
+    },
+    {
       "id": 2231,
       "rating": 5,
       "text": "быстро, отлично",
       "messageLink": "https://t.me/Cla1ve_boost/2119"
-    },
-    {
-      "id": 2095,
-      "rating": 5,
-      "text": "Очень хорошая бустерша) рекомендую) пушка ракета 🚀",
-      "messageLink": "https://t.me/Cla1ve_boost/2118"
-    },
-    {
-      "id": 2106,
-      "rating": 5,
-      "text": "Терпение хороший бустер всем советую❤️",
-      "messageLink": "https://t.me/Cla1ve_boost/2117"
-    },
-    {
-      "id": 2129,
-      "rating": 5,
-      "text": "Спасибо все супер",
-      "messageLink": "https://t.me/Cla1ve_boost/2116"
-    },
-    {
-      "id": 2174,
-      "rating": 5,
-      "text": "Шик все понравилось",
-      "messageLink": "https://t.me/Cla1ve_boost/2115"
-    },
-    {
-      "id": 2213,
-      "rating": 5,
-      "text": "лучший",
-      "messageLink": "https://t.me/Cla1ve_boost/2111"
     }
   ]
 }
