@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T08:44:42.214Z",
+  "checkedAt": "2026-10-31T08:30:32.725Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1241,
+    "count": 1251,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
-      "id": 2242,
+      "id": 2253,
       "rating": 5,
-      "text": "самый лучший)",
-      "messageLink": "https://t.me/Cla1ve_boost/2135"
+      "text": "Нормас",
+      "messageLink": "https://t.me/Cla1ve_boost/2150"
     },
     {
-      "id": 2241,
+      "id": 2252,
       "rating": 5,
-      "text": "Все четко.",
-      "messageLink": "https://t.me/Cla1ve_boost/2132"
+      "text": "Мужик",
+      "messageLink": "https://t.me/Cla1ve_boost/2149"
     },
     {
-      "id": 2240,
+      "id": 2251,
       "rating": 5,
-      "text": "как всегда отлично",
-      "messageLink": "https://t.me/Cla1ve_boost/2131"
+      "text": "Шпашибо, свага, +rep",
+      "messageLink": "https://t.me/Cla1ve_boost/2146"
     },
     {
-      "id": 2239,
+      "id": 2250,
       "rating": 5,
-      "text": "Самый офигенный бустер",
-      "messageLink": "https://t.me/Cla1ve_boost/2129"
+      "text": "Буст отличный, спасибо за игру\nМне просто хотелось побегать на мурчалках без проигрышей, все было на высшем уровне",
+      "messageLink": "https://t.me/Cla1ve_boost/2145"
     },
     {
-      "id": 2237,
+      "id": 2249,
       "rating": 5,
-      "text": "Блестящщще)",
-      "messageLink": "https://t.me/Cla1ve_boost/2128"
+      "text": "Один из лучших бустеров сервиса, надежный и ответственный",
+      "messageLink": "https://t.me/Cla1ve_boost/2144"
     },
     {
-      "id": 2236,
+      "id": 2248,
       "rating": 5,
-      "text": "Все быстро и качественно ❤️",
-      "messageLink": "https://t.me/Cla1ve_boost/2126"
+      "text": "Топовый",
+      "messageLink": "https://t.me/Cla1ve_boost/2143"
     }
   ]
 }

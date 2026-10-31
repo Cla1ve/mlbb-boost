@@ -19,7 +19,7 @@ language: ru
 
 ](https://t.me/Cla1ve_boost_mlbb)[
 
-1241 отзывов Реальные клиенты
+1251 отзывов Реальные клиенты
 
 ](https://t.me/cla1ve_boost)
 
