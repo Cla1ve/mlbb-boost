@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01T09:22:43.039Z",
+  "checkedAt": "2026-11-02T09:38:40.360Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1258,
+    "count": 1263,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2267,
+      "rating": 5,
+      "text": "Все четко, спасибо\nПрофи, знает свое дело\nСоветую",
+      "messageLink": "https://t.me/Cla1ve_boost/2171"
+    },
+    {
+      "id": 2266,
+      "rating": 5,
+      "text": "спасибо, все супер + буду обращаться еще",
+      "messageLink": "https://t.me/Cla1ve_boost/2169"
+    },
+    {
+      "id": 2265,
+      "rating": 5,
+      "text": "Все сделали очень быстро и в приятной атмосфере",
+      "messageLink": "https://t.me/Cla1ve_boost/2168"
+    },
+    {
+      "id": 2264,
+      "rating": 5,
+      "text": "Качественно и быстро",
+      "messageLink": "https://t.me/Cla1ve_boost/2167"
+    },
+    {
+      "id": 2263,
+      "rating": 5,
+      "text": "Все круто, быстро, качественно",
+      "messageLink": "https://t.me/Cla1ve_boost/2165"
+    },
+    {
       "id": 2261,
       "rating": 5,
       "text": "Да вообще умничка)",
       "messageLink": "https://t.me/Cla1ve_boost/2164"
-    },
-    {
-      "id": 2260,
-      "rating": 5,
-      "text": "Просто босс блять,  Потом начальник нахуй",
-      "messageLink": "https://t.me/Cla1ve_boost/2160"
-    },
-    {
-      "id": 2259,
-      "rating": 5,
-      "text": "Быстро , четко , без лишней суеты , все объяснил , рассказал и сделал как надо",
-      "messageLink": "https://t.me/Cla1ve_boost/2159"
-    },
-    {
-      "id": 2258,
-      "rating": 5,
-      "text": "Великолепная работа бустера,ответственный подход и приятный бонус к заказу",
-      "messageLink": "https://t.me/Cla1ve_boost/2158"
-    },
-    {
-      "id": 2257,
-      "rating": 5,
-      "text": "Профессиональная работа\nЗверь товарищ\nВсем советую",
-      "messageLink": "https://t.me/Cla1ve_boost/2157"
-    },
-    {
-      "id": 2255,
-      "rating": 5,
-      "text": "Спасибо!!!",
-      "messageLink": "https://t.me/Cla1ve_boost/2153"
     }
   ]
 }
