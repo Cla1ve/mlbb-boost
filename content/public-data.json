@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T09:41:05.299Z",
+  "checkedAt": "2026-11-04T09:27:34.694Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,17 @@
     }
   ],
   "reviewStats": {
-    "count": 1265,
+    "count": 1266,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2270,
+      "rating": 5,
+      "text": "Четко",
+      "messageLink": "https://t.me/Cla1ve_boost/2175"
+    },
     {
       "id": 2269,
       "rating": 5,
@@ -317,12 +323,6 @@
       "rating": 5,
       "text": "Все сделали очень быстро и в приятной атмосфере",
       "messageLink": "https://t.me/Cla1ve_boost/2168"
-    },
-    {
-      "id": 2264,
-      "rating": 5,
-      "text": "Качественно и быстро",
-      "messageLink": "https://t.me/Cla1ve_boost/2167"
     }
   ]
 }
