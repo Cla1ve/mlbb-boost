@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T09:27:34.694Z",
+  "checkedAt": "2026-11-05T09:36:32.693Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -139,13 +139,13 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 320,
+          "price": 335,
           "unit": "win"
         },
         {
           "type": "role",
           "type_name": "На роли",
-          "price": 180,
+          "price": 185,
           "unit": "win"
         },
         {
@@ -170,13 +170,13 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 225,
+          "price": 240,
           "unit": "star"
         },
         {
           "type": "role",
           "type_name": "На роли",
-          "price": 125,
+          "price": 135,
           "unit": "star"
         },
         {
@@ -201,13 +201,13 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 255,
+          "price": 240,
           "unit": "star"
         },
         {
           "type": "role",
           "type_name": "На роли",
-          "price": 125,
+          "price": 135,
           "unit": "star"
         },
         {
@@ -226,13 +226,44 @@
         {
           "type": "hero",
           "type_name": "На герое",
-          "price": 185,
+          "price": 155,
           "unit": "star"
         },
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 345,
+          "price": 280,
+          "unit": "star"
+        },
+        {
+          "type": "role",
+          "type_name": "На роли",
+          "price": 140,
+          "unit": "star"
+        },
+        {
+          "type": "standard",
+          "type_name": "Стандарт",
+          "price": 125,
+          "unit": "star"
+        }
+      ],
+      "unit": "star"
+    },
+    {
+      "category": "immortal",
+      "category_name": "Бессмертный",
+      "prices": [
+        {
+          "type": "hero",
+          "type_name": "На герое",
+          "price": 180,
+          "unit": "star"
+        },
+        {
+          "type": "party",
+          "type_name": "В пати",
+          "price": 335,
           "unit": "star"
         },
         {
@@ -249,45 +280,20 @@
         }
       ],
       "unit": "star"
-    },
-    {
-      "category": "immortal",
-      "category_name": "Бессмертный",
-      "prices": [
-        {
-          "type": "hero",
-          "type_name": "На герое",
-          "price": 215,
-          "unit": "star"
-        },
-        {
-          "type": "party",
-          "type_name": "В пати",
-          "price": 360,
-          "unit": "star"
-        },
-        {
-          "type": "role",
-          "type_name": "На роли",
-          "price": 175,
-          "unit": "star"
-        },
-        {
-          "type": "standard",
-          "type_name": "Стандарт",
-          "price": 160,
-          "unit": "star"
-        }
-      ],
-      "unit": "star"
     }
   ],
   "reviewStats": {
-    "count": 1266,
+    "count": 1267,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2271,
+      "rating": 5,
+      "text": "Добри бустер😇",
+      "messageLink": "https://t.me/Cla1ve_boost/2176"
+    },
     {
       "id": 2270,
       "rating": 5,
@@ -317,12 +323,6 @@
       "rating": 5,
       "text": "спасибо, все супер + буду обращаться еще",
       "messageLink": "https://t.me/Cla1ve_boost/2169"
-    },
-    {
-      "id": 2265,
-      "rating": 5,
-      "text": "Все сделали очень быстро и в приятной атмосфере",
-      "messageLink": "https://t.me/Cla1ve_boost/2168"
     }
   ]
 }

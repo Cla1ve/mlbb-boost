@@ -21,7 +21,7 @@ let lastDataStatusMode = 'fallback';
 let lastDataStatusTimestamp = null;
 let lastRenderedPrices = null;
 
-// Последний проверенный fallback с API на 2026-11-04.
+// Последний проверенный fallback с API на 2026-11-05.
 // Он нужен для первого визита, если API временно недоступен и localStorage ещё пуст.
 const LAST_KNOWN_PRICES = [
   {
@@ -161,13 +161,13 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 320,
+        "price": 335,
         "unit": "win"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 180,
+        "price": 185,
         "unit": "win"
       },
       {
@@ -192,13 +192,13 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 225,
+        "price": 240,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 125,
+        "price": 135,
         "unit": "star"
       },
       {
@@ -223,13 +223,13 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 255,
+        "price": 240,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 125,
+        "price": 135,
         "unit": "star"
       },
       {
@@ -248,25 +248,25 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 185,
+        "price": 155,
         "unit": "star"
       },
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 345,
+        "price": 280,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 160,
+        "price": 140,
         "unit": "star"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 145,
+        "price": 125,
         "unit": "star"
       }
     ],
@@ -279,25 +279,25 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "hero",
         "type_name": "На герое",
-        "price": 215,
+        "price": 180,
         "unit": "star"
       },
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 360,
+        "price": 335,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 175,
+        "price": 160,
         "unit": "star"
       },
       {
         "type": "standard",
         "type_name": "Стандарт",
-        "price": 160,
+        "price": 145,
         "unit": "star"
       }
     ],
