@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T09:29:52.964Z",
+  "checkedAt": "2026-11-07T08:54:21.655Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -263,7 +263,7 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 335,
+          "price": 330,
           "unit": "star"
         },
         {
@@ -283,11 +283,23 @@
     }
   ],
   "reviewStats": {
-    "count": 1268,
+    "count": 1270,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2281,
+      "rating": 5,
+      "text": "Первый и единственный.",
+      "messageLink": "https://t.me/Cla1ve_boost/2186"
+    },
+    {
+      "id": 2279,
+      "rating": 5,
+      "text": "Красавчик, рекомендую к выбору исполнителя",
+      "messageLink": "https://t.me/Cla1ve_boost/2184"
+    },
     {
       "id": 2277,
       "rating": 5,
@@ -311,18 +323,6 @@
       "rating": 5,
       "text": "Всё супер пупер дупер ❤️",
       "messageLink": "https://t.me/Cla1ve_boost/2174"
-    },
-    {
-      "id": 2268,
-      "rating": 5,
-      "text": "тебе спасибо)",
-      "messageLink": "https://t.me/Cla1ve_boost/2172"
-    },
-    {
-      "id": 2267,
-      "rating": 5,
-      "text": "Все четко, спасибо\nПрофи, знает свое дело\nСоветую",
-      "messageLink": "https://t.me/Cla1ve_boost/2171"
     }
   ]
 }
