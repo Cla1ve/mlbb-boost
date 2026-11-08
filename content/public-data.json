@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T08:54:21.655Z",
+  "checkedAt": "2026-11-08T09:07:43.315Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -257,7 +257,7 @@
         {
           "type": "hero",
           "type_name": "На герое",
-          "price": 180,
+          "price": 175,
           "unit": "star"
         },
         {
@@ -283,11 +283,23 @@
     }
   ],
   "reviewStats": {
-    "count": 1270,
+    "count": 1272,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2284,
+      "rating": 5,
+      "text": "Все четенько, спасибо",
+      "messageLink": "https://t.me/Cla1ve_boost/2191"
+    },
+    {
+      "id": 2283,
+      "rating": 5,
+      "text": "Усё с кайфом! Спасибо!!! Бистро, качественно. Рекомендосьён",
+      "messageLink": "https://t.me/Cla1ve_boost/2189"
+    },
     {
       "id": 2281,
       "rating": 5,
@@ -311,18 +323,6 @@
       "rating": 5,
       "text": "Добри бустер😇",
       "messageLink": "https://t.me/Cla1ve_boost/2176"
-    },
-    {
-      "id": 2270,
-      "rating": 5,
-      "text": "Четко",
-      "messageLink": "https://t.me/Cla1ve_boost/2175"
-    },
-    {
-      "id": 2269,
-      "rating": 5,
-      "text": "Всё супер пупер дупер ❤️",
-      "messageLink": "https://t.me/Cla1ve_boost/2174"
     }
   ]
 }
