@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T09:07:43.315Z",
+  "checkedAt": "2026-11-09T09:55:07.194Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -269,7 +269,7 @@
         {
           "type": "role",
           "type_name": "На роли",
-          "price": 160,
+          "price": 155,
           "unit": "star"
         },
         {
@@ -283,11 +283,17 @@
     }
   ],
   "reviewStats": {
-    "count": 1272,
+    "count": 1273,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2287,
+      "rating": 5,
+      "text": "Великолепная работа",
+      "messageLink": "https://t.me/Cla1ve_boost/2193"
+    },
     {
       "id": 2284,
       "rating": 5,
@@ -317,12 +323,6 @@
       "rating": 5,
       "text": "Крутая 😎)",
       "messageLink": "https://t.me/Cla1ve_boost/2182"
-    },
-    {
-      "id": 2271,
-      "rating": 5,
-      "text": "Добри бустер😇",
-      "messageLink": "https://t.me/Cla1ve_boost/2176"
     }
   ]
 }
