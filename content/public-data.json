@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T09:55:07.194Z",
+  "checkedAt": "2026-11-10T09:59:07.703Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,17 @@
     }
   ],
   "reviewStats": {
-    "count": 1273,
+    "count": 1274,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2290,
+      "rating": 5,
+      "text": "Лапочка! Спасибо огромное ему. Желаю ему и другим успехов в работе и отдыхать побольше!",
+      "messageLink": "https://t.me/Cla1ve_boost/2198"
+    },
     {
       "id": 2287,
       "rating": 5,
@@ -317,12 +323,6 @@
       "rating": 5,
       "text": "Красавчик, рекомендую к выбору исполнителя",
       "messageLink": "https://t.me/Cla1ve_boost/2184"
-    },
-    {
-      "id": 2277,
-      "rating": 5,
-      "text": "Крутая 😎)",
-      "messageLink": "https://t.me/Cla1ve_boost/2182"
     }
   ]
 }
