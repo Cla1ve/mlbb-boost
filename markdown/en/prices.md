@@ -139,13 +139,13 @@ In party 280 ₽/⭐
 
 ### Mythic Immortal
 
-Standard 145 ₽/⭐
+Standard 140 ₽/⭐
 
 Role 155 ₽/⭐
 
 On hero 175 ₽/⭐
 
-In party 330 ₽/⭐
+In party 325 ₽/⭐
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 

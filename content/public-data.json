@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T09:59:07.703Z",
+  "checkedAt": "2026-11-11T09:33:33.265Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -263,7 +263,7 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 330,
+          "price": 325,
           "unit": "star"
         },
         {
@@ -275,7 +275,7 @@
         {
           "type": "standard",
           "type_name": "Стандарт",
-          "price": 145,
+          "price": 140,
           "unit": "star"
         }
       ],
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1274,
+    "count": 1279,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
+      "id": 2298,
+      "rating": 5,
+      "text": "Прекрасный бустер, поддерживает связь с заказчиком.\nОтвечает на все вопросы.\nЦена дороговато но  - качество супер. Поэтому соразмерно.\nРекомендую.",
+      "messageLink": "https://t.me/Cla1ve_boost/2208"
+    },
+    {
+      "id": 2296,
+      "rating": 5,
+      "text": "Спасибо за быстрый буст",
+      "messageLink": "https://t.me/Cla1ve_boost/2204"
+    },
+    {
+      "id": 2295,
+      "rating": 5,
+      "text": "Заказывала впервые, немного переживала, но всё прошло хорошо 😊Несмотря на пару неудачных игр, бустер не оставил это без внимания и даже докинул 2 звёздочки бесплатно. Спасибо за старания и хорошее отношение! 🥰",
+      "messageLink": "https://t.me/Cla1ve_boost/2203"
+    },
+    {
+      "id": 2294,
+      "rating": 5,
+      "text": "быстро и четко, спасибо брат))",
+      "messageLink": "https://t.me/Cla1ve_boost/2202"
+    },
+    {
+      "id": 2292,
+      "rating": 5,
+      "text": "брат просто король, спасибо большое, все очень четко",
+      "messageLink": "https://t.me/Cla1ve_boost/2201"
+    },
+    {
       "id": 2290,
       "rating": 5,
       "text": "Лапочка! Спасибо огромное ему. Желаю ему и другим успехов в работе и отдыхать побольше!",
       "messageLink": "https://t.me/Cla1ve_boost/2198"
-    },
-    {
-      "id": 2287,
-      "rating": 5,
-      "text": "Великолепная работа",
-      "messageLink": "https://t.me/Cla1ve_boost/2193"
-    },
-    {
-      "id": 2284,
-      "rating": 5,
-      "text": "Все четенько, спасибо",
-      "messageLink": "https://t.me/Cla1ve_boost/2191"
-    },
-    {
-      "id": 2283,
-      "rating": 5,
-      "text": "Усё с кайфом! Спасибо!!! Бистро, качественно. Рекомендосьён",
-      "messageLink": "https://t.me/Cla1ve_boost/2189"
-    },
-    {
-      "id": 2281,
-      "rating": 5,
-      "text": "Первый и единственный.",
-      "messageLink": "https://t.me/Cla1ve_boost/2186"
-    },
-    {
-      "id": 2279,
-      "rating": 5,
-      "text": "Красавчик, рекомендую к выбору исполнителя",
-      "messageLink": "https://t.me/Cla1ve_boost/2184"
     }
   ]
 }
