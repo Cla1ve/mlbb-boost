@@ -143,7 +143,7 @@ Standard 140 ₽/⭐
 
 Role 155 ₽/⭐
 
-On hero 175 ₽/⭐
+On hero 170 ₽/⭐
 
 In party 325 ₽/⭐
 

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T09:56:11.549Z",
+  "checkedAt": "2026-11-13T09:41:09.446Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -257,7 +257,7 @@
         {
           "type": "hero",
           "type_name": "На герое",
-          "price": 175,
+          "price": 170,
           "unit": "star"
         },
         {
@@ -283,11 +283,35 @@
     }
   ],
   "reviewStats": {
-    "count": 1284,
+    "count": 1288,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2311,
+      "rating": 5,
+      "text": "Быстро и качественно!",
+      "messageLink": "https://t.me/Cla1ve_boost/2223"
+    },
+    {
+      "id": 2310,
+      "rating": 5,
+      "text": "Буст был выполнен быстро и качественно, результатом очень довольна. Выдал три саваги и несколько маньяков, чудесно керрил 5 игр подряд. Очень рекомендую как бустера.",
+      "messageLink": "https://t.me/Cla1ve_boost/2222"
+    },
+    {
+      "id": 2308,
+      "rating": 5,
+      "text": "Всё отлично, быстро нашли компромисс в ситуации, результатом полностью доволен. Спасибо, Amoral.",
+      "messageLink": "https://t.me/Cla1ve_boost/2220"
+    },
+    {
+      "id": 2307,
+      "rating": 5,
+      "text": "С удовольствием покатала в отличной команде 🔥",
+      "messageLink": "https://t.me/Cla1ve_boost/2219"
+    },
     {
       "id": 2305,
       "rating": 5,
@@ -299,30 +323,6 @@
       "rating": 5,
       "text": "быстро чотенько",
       "messageLink": "https://t.me/Cla1ve_boost/2214"
-    },
-    {
-      "id": 2301,
-      "rating": 5,
-      "text": "Просто замечательно",
-      "messageLink": "https://t.me/Cla1ve_boost/2212"
-    },
-    {
-      "id": 2300,
-      "rating": 5,
-      "text": "Брат самый лучший, уважаю как сестра брата❤️",
-      "messageLink": "https://t.me/Cla1ve_boost/2211"
-    },
-    {
-      "id": 2299,
-      "rating": 5,
-      "text": "спасибо за буст аккаунта, качество работы меня приятно удивило, всё сделано быстро и четко",
-      "messageLink": "https://t.me/Cla1ve_boost/2210"
-    },
-    {
-      "id": 2298,
-      "rating": 5,
-      "text": "Прекрасный бустер, поддерживает связь с заказчиком.\nОтвечает на все вопросы.\nЦена дороговато но  - качество супер. Поэтому соразмерно.\nРекомендую.",
-      "messageLink": "https://t.me/Cla1ve_boost/2208"
     }
   ]
 }
