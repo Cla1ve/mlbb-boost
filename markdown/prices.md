@@ -145,7 +145,7 @@ language: ru
 
 На герое 170 ₽/⭐
 
-В пати 325 ₽/⭐
+В пати 320 ₽/⭐
 
 [Рассчитать заказ](https://boostmlbb.ru/order.html)
 

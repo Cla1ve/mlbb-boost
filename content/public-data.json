@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T09:41:09.446Z",
+  "checkedAt": "2026-11-14T09:04:30.953Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -263,7 +263,7 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 325,
+          "price": 320,
           "unit": "star"
         },
         {
@@ -283,11 +283,23 @@
     }
   ],
   "reviewStats": {
-    "count": 1288,
+    "count": 1290,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2314,
+      "rating": 5,
+      "text": "крутой как обычна спс",
+      "messageLink": "https://t.me/Cla1ve_boost/2233"
+    },
+    {
+      "id": 2313,
+      "rating": 5,
+      "text": "Всё прошло отлично, я очень довольна результатом! Буст сделали быстро, без каких-либо проблем. Спасибо большое за работу и приятное общение ❤️ Обязательно обращусь ещё раз!",
+      "messageLink": "https://t.me/Cla1ve_boost/2231"
+    },
     {
       "id": 2311,
       "rating": 5,
@@ -311,18 +323,6 @@
       "rating": 5,
       "text": "С удовольствием покатала в отличной команде 🔥",
       "messageLink": "https://t.me/Cla1ve_boost/2219"
-    },
-    {
-      "id": 2305,
-      "rating": 5,
-      "text": "все четко))",
-      "messageLink": "https://t.me/Cla1ve_boost/2218"
-    },
-    {
-      "id": 2302,
-      "rating": 5,
-      "text": "быстро чотенько",
-      "messageLink": "https://t.me/Cla1ve_boost/2214"
     }
   ]
 }
