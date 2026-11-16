@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-15T09:35:07.473Z",
+  "checkedAt": "2026-11-16T09:53:17.051Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -269,7 +269,7 @@
         {
           "type": "role",
           "type_name": "На роли",
-          "price": 155,
+          "price": 150,
           "unit": "star"
         },
         {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1292,
+    "count": 1300,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
-      "id": 2317,
+      "id": 2327,
       "rating": 5,
-      "text": "огромное спасибо.\nберу уже второй раз у него и только радуюсь. все просто отлично 💕",
-      "messageLink": "https://t.me/Cla1ve_boost/2236"
+      "text": "Лучшая",
+      "messageLink": "https://t.me/Cla1ve_boost/2254"
     },
     {
-      "id": 2316,
+      "id": 2326,
       "rating": 5,
-      "text": "Быстро, качественно",
-      "messageLink": "https://t.me/Cla1ve_boost/2234"
+      "text": "все сделал быстро и четко",
+      "messageLink": "https://t.me/Cla1ve_boost/2252"
     },
     {
-      "id": 2314,
+      "id": 2325,
       "rating": 5,
-      "text": "крутой как обычна спс",
-      "messageLink": "https://t.me/Cla1ve_boost/2233"
+      "text": "Всё выполнено в срок, качественно. Бустер вежливый",
+      "messageLink": "https://t.me/Cla1ve_boost/2249"
     },
     {
-      "id": 2313,
+      "id": 2324,
       "rating": 5,
-      "text": "Всё прошло отлично, я очень довольна результатом! Буст сделали быстро, без каких-либо проблем. Спасибо большое за работу и приятное общение ❤️ Обязательно обращусь ещё раз!",
-      "messageLink": "https://t.me/Cla1ve_boost/2231"
+      "text": "очень быстро получилось, бустер приятный человек в общении и по скилу…\nя бы дал",
+      "messageLink": "https://t.me/Cla1ve_boost/2248"
     },
     {
-      "id": 2311,
+      "id": 2323,
       "rating": 5,
-      "text": "Быстро и качественно!",
-      "messageLink": "https://t.me/Cla1ve_boost/2223"
+      "text": "отличный чел, все сделал четко и быстро",
+      "messageLink": "https://t.me/Cla1ve_boost/2247"
     },
     {
-      "id": 2310,
+      "id": 2322,
       "rating": 5,
-      "text": "Буст был выполнен быстро и качественно, результатом очень довольна. Выдал три саваги и несколько маньяков, чудесно керрил 5 игр подряд. Очень рекомендую как бустера.",
-      "messageLink": "https://t.me/Cla1ve_boost/2222"
+      "text": "Красавчик! Быстро, оперативно, хорошо",
+      "messageLink": "https://t.me/Cla1ve_boost/2243"
     }
   ]
 }
