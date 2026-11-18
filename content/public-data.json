@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T09:53:17.051Z",
+  "checkedAt": "2026-11-18T10:18:15.886Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -201,7 +201,7 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 240,
+          "price": 255,
           "unit": "star"
         },
         {
@@ -232,7 +232,7 @@
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 280,
+          "price": 295,
           "unit": "star"
         },
         {
@@ -257,13 +257,13 @@
         {
           "type": "hero",
           "type_name": "На герое",
-          "price": 170,
+          "price": 180,
           "unit": "star"
         },
         {
           "type": "party",
           "type_name": "В пати",
-          "price": 320,
+          "price": 325,
           "unit": "star"
         },
         {
@@ -283,46 +283,46 @@
     }
   ],
   "reviewStats": {
-    "count": 1300,
+    "count": 1307,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
     {
-      "id": 2327,
+      "id": 2336,
       "rating": 5,
-      "text": "Лучшая",
-      "messageLink": "https://t.me/Cla1ve_boost/2254"
+      "text": "все отлично",
+      "messageLink": "https://t.me/Cla1ve_boost/2269"
     },
     {
-      "id": 2326,
+      "id": 2334,
       "rating": 5,
-      "text": "все сделал быстро и четко",
-      "messageLink": "https://t.me/Cla1ve_boost/2252"
+      "text": "Большое спасибо очень выручили, поддержка отличная. metaldemon от души сделал все красиво и быстро. Всем советую ❤️",
+      "messageLink": "https://t.me/Cla1ve_boost/2264"
     },
     {
-      "id": 2325,
+      "id": 2333,
       "rating": 5,
-      "text": "Всё выполнено в срок, качественно. Бустер вежливый",
-      "messageLink": "https://t.me/Cla1ve_boost/2249"
+      "text": "Второй раз купил буст.\nСделали ещё лучше, чем в первый, все поставленные задачи выполнены. Крутой бустер.",
+      "messageLink": "https://t.me/Cla1ve_boost/2262"
     },
     {
-      "id": 2324,
+      "id": 2332,
       "rating": 5,
-      "text": "очень быстро получилось, бустер приятный человек в общении и по скилу…\nя бы дал",
-      "messageLink": "https://t.me/Cla1ve_boost/2248"
+      "text": "Приятный вежливый бустер, работой доволен",
+      "messageLink": "https://t.me/Cla1ve_boost/2260"
     },
     {
-      "id": 2323,
+      "id": 2331,
       "rating": 5,
-      "text": "отличный чел, все сделал четко и быстро",
-      "messageLink": "https://t.me/Cla1ve_boost/2247"
+      "text": "лучший, спасибо)",
+      "messageLink": "https://t.me/Cla1ve_boost/2259"
     },
     {
-      "id": 2322,
+      "id": 2330,
       "rating": 5,
-      "text": "Красавчик! Быстро, оперативно, хорошо",
-      "messageLink": "https://t.me/Cla1ve_boost/2243"
+      "text": "Все отлично",
+      "messageLink": "https://t.me/Cla1ve_boost/2258"
     }
   ]
 }

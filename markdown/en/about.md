@@ -17,7 +17,7 @@ Telegram Contact
 
 RU / EN Support
 
-1300 Reviews
+1307 Reviews
 
 01
 

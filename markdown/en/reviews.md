@@ -15,13 +15,13 @@ Customer feedback about assigned players and completed orders
 
 ●●●●●
 
-1300 Reviews
+1307 Reviews
 
 99% Positive ratings
 
 ### All reviews on Telegram!
 
-1300 published reviews with screenshots
+1307 published reviews with screenshots
 
 [Open the channel](https://t.me/cla1ve_boost)
 
@@ -35,16 +35,16 @@ You can leave a review only after a purchase
 
 ## Customer reviews on Telegram
 
-1300 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+1307 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
 
-> Лучшая
+> все отлично
 >
-> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2254)
+> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2269)
 
-> все сделал быстро и четко
+> Большое спасибо очень выручили, поддержка отличная. metaldemon от души сделал все красиво и быстро. Всем советую ❤️
 >
-> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2252)
+> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2264)
 
-> Всё выполнено в срок, качественно. Бустер вежливый
+> Второй раз купил буст. Сделали ещё лучше, чем в первый, все поставленные задачи выполнены. Крутой бустер.
 >
-> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2249)
+> 5/5 · [Original Telegram review](https://t.me/Cla1ve_boost/2262)
