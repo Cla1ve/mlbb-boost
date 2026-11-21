@@ -139,11 +139,11 @@ In party 295 ₽/⭐
 
 ### Mythic Immortal
 
-Standard 140 ₽/⭐
+Standard 135 ₽/⭐
 
 Role 150 ₽/⭐
 
-On hero 180 ₽/⭐
+On hero 175 ₽/⭐
 
 In party 325 ₽/⭐
 
