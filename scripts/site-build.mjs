@@ -136,6 +136,10 @@ function fillTokens(html, lang) {
     })
     .replace(/\{\{rankCards:([\w,]+)(?:\|(\w+))?\}\}/g, (_, list, highlight) => rankCards(list, highlight, lang))
     .replace(/\{\{routeTiles:(\w+)\}\}/g, (_, type) => routeTiles(type, lang))
+    .replace(/\{\{reviews:(\w+)\}\}/g, (_, kind) => {
+      const pick = data.reviews.filter(r => kind === 'hero' ? r.boostType === 'hero' : kind === 'party' ? r.boostType === 'party' : kind === 'mythic' ? /Миф/.test(r.rankTo || '') : true).slice(0, 3);
+      return pick.length ? reviewWall(pick, lang) : '';
+    })
     .replace(/\{\{priceData\}\}/g, () => `<script type="application/json" id="rank-tool-prices">${JSON.stringify(Object.fromEntries(data.prices.map(r => [r.category, Object.fromEntries(r.prices.map(p => [p.type, p.price]))])))}</script>`)
     .replace(/\{\{reviewCount\}\}/g, () => new Intl.NumberFormat(en ? 'en-US' : 'ru-RU').format(data.reviewStats.count).replace(/[\u00a0\u202f]/g, ' '))
     .replace(/\{\{checkedDate\}\}/g, () => formatDate(changedDate, lang))
@@ -150,6 +154,17 @@ function fillTokens(html, lang) {
       if (!(name in named)) throw new Error(`Unknown content token ${token}`);
       return money(named[name], lang);
     });
+}
+function reviewCard(r, lang) {
+  const en = lang === 'en';
+  const stars = '★'.repeat(Math.max(0, Math.min(5, r.rating))) + '☆'.repeat(5 - Math.max(0, Math.min(5, r.rating)));
+  const date = r.published ? formatDate(r.published, lang) : '';
+  const route = r.rankFrom && r.rankTo ? `<p class="review-card__route" lang="ru">${escape(r.rankFrom)} → ${escape(r.rankTo)}</p>` : '';
+  const chips = [r.boostType && typeLabels[lang][r.boostType] ? `<span>${typeLabels[lang][r.boostType]}</span>` : '', r.hero ? `<span lang="ru">${escape(r.hero)}</span>` : '', r.duration ? `<span lang="ru">${escape(r.duration)}</span>` : ''].join('');
+  return `<article class="review-card"><header><span class="review-card__stars" aria-label="${en ? 'Rating' : 'Оценка'} ${r.rating}/5">${stars}</span>${date ? `<time datetime="${r.published}">${date}</time>` : ''}</header>${route}${chips ? `<div class="review-card__chips">${chips}</div>` : ''}<blockquote lang="ru">${escape(reviewText.clean(r.text))}</blockquote><footer>${r.booster ? `<span>${en ? 'Booster' : 'Бустер'}: <b lang="ru">${escape(r.booster)}</b></span>` : ''}<a href="${escape(r.messageLink)}" target="_blank" rel="noopener noreferrer">${en ? 'Original on Telegram' : 'Оригинал в Telegram'}</a></footer></article>`;
+}
+function reviewWall(reviews, lang) {
+  return `<div class="review-wall" data-i18n-skip>${reviews.map(r => reviewCard(r, lang)).join('')}</div>`;
 }
 function guideHub(hub, lang) {
   const en = lang === 'en';
@@ -297,11 +312,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
         const node = document.getElementById(id); if (node) node.textContent = String(value);
       }
       const descriptionText = lang === 'en' ? `${stats.count} customer reviews, average rating ${stats.rating.toFixed(1)}/5. Read the original reviews on Telegram.` : `${stats.count} отзывов клиентов, средняя оценка ${stats.rating.toFixed(1)}/5. Оригиналы отзывов доступны в Telegram.`;
-      const quotes = data.reviews.slice(0, 3).map(r => {
-        const text = reviewText.clean(r.text);
-        return `<blockquote><p lang="ru">${escape(text)}</p><footer>${r.rating}/5 · <a href="${escape(r.messageLink)}" target="_blank" rel="noopener noreferrer">${lang === 'en' ? 'Original Telegram review' : 'Исходный отзыв в Telegram'}</a></footer></blockquote>`;
-      }).join('');
-      block(document, 'reviews-snapshot', `<section class="seo-section"><div class="container"><h2>${lang === 'en' ? 'Customer reviews on Telegram' : 'Отзывы клиентов в Telegram'}</h2><p>${descriptionText}</p><div class="seo-quotes" data-i18n-skip>${quotes}</div></div></section>`);
+      block(document, 'reviews-snapshot', `<section class="seo-section review-wall-section"><div class="container"><h2>${lang === 'en' ? 'Latest customer reviews' : 'Последние отзывы клиентов'}</h2><p>${descriptionText}</p>${reviewWall(data.reviews, lang)}</div></section>`);
     }
     const nav = document.querySelector('.nav-container');
     if (nav) {
@@ -324,7 +335,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '33' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '34' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

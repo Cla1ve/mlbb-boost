@@ -72,6 +72,40 @@ Party335 ₽/win
 
 From Legend V it is 25 stars to Mythic. Prices for them and for stars after placement are on the [Mythic boost](https://boostmlbb.ru/en/boost/mythic.html) page, and the full rank ladder is in our [ranks guide](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/).
 
+## Customer reviews in Mythic
+
+Latest reviews from our Telegram channel, unedited and in Russian.
+
+★★★★★21 November 2026
+
+Мифический бессмертный, 326⭐ → Мифический бессмертный, 342⭐
+
+Account7ч 5м после оплаты
+
+> Все круто, самый лучший бустер.
+
+Booster: **Elleana**[Original on Telegram](https://t.me/Cla1ve_boost/2277)
+
+★★★★★20 November 2026
+
+Мифический бессмертный, 180⭐ → Мифический бессмертный, 185⭐
+
+HeroХарли1ч 31м после оплаты
+
+> Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+
+Booster: **Ясик**[Original on Telegram](https://t.me/Cla1ve_boost/2275)
+
+★★★★★19 November 2026
+
+Мифический бессмертный, 157⭐ → Мифический бессмертный, 168⭐
+
+HeroХарли нолан4ч 34м после оплаты
+
+> Отличная работа, приятный и общительный бустер, доволен
+
+Booster: **metaldemon**[Original on Telegram](https://t.me/Cla1ve_boost/2272)
+
 ## Price your placement
 
 Enter the matches played and your goal — the calculator shows the price.

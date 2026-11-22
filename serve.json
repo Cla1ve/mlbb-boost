@@ -109,6 +109,38 @@
     {
       "source": "/en/news/mlbb-meta-tier-list",
       "destination": "/en/news/mlbb-meta-tier-list/index.html"
+    },
+    {
+      "source": "/news/mlbb-current-patch/",
+      "destination": "/news/mlbb-current-patch/index.html"
+    },
+    {
+      "source": "/news/mlbb-current-patch",
+      "destination": "/news/mlbb-current-patch/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-current-patch/",
+      "destination": "/en/news/mlbb-current-patch/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-current-patch",
+      "destination": "/en/news/mlbb-current-patch/index.html"
+    },
+    {
+      "source": "/news/mlbb-redeem-codes-guide/",
+      "destination": "/news/mlbb-redeem-codes-guide/index.html"
+    },
+    {
+      "source": "/news/mlbb-redeem-codes-guide",
+      "destination": "/news/mlbb-redeem-codes-guide/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-redeem-codes-guide/",
+      "destination": "/en/news/mlbb-redeem-codes-guide/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-redeem-codes-guide",
+      "destination": "/en/news/mlbb-redeem-codes-guide/index.html"
     }
   ]
 }

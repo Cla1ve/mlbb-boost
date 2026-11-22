@@ -49,9 +49,18 @@ async function sync() {
   }
   const complete = [...new Map(raw.filter(completeReview).map(r => [String(r.id), r])).values()];
   if (!complete.length) throw new Error('No complete public reviews');
-  const safe = complete.filter(r => hasText(r.text) && /^https:\/\/t\.me\//.test(r.message_link || '')).slice(0, 6).map(r => ({
-    id: r.id, rating: Number(r.rating), text: reviewText.clean(r.text), messageLink: r.message_link,
-  }));
+  const plain = value => String(value || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+  const safe = complete
+    .filter(r => hasText(r.text) && /^https:\/\/t\.me\//.test(r.message_link || ''))
+    .map(r => ({ r, text: reviewText.clean(r.text) }))
+    .filter(({ text }) => text.length >= 12)
+    .slice(0, 60)
+    .map(({ r, text }) => ({
+      id: r.id, rating: Number(r.rating), text, messageLink: r.message_link,
+      boostType: r.boost_type || null, rankFrom: plain(r.rank_from) || null, rankTo: plain(r.rank_to) || null,
+      hero: plain(r.hero) || null, duration: plain(r.duration) || null, booster: plain(r.booster?.name) || null,
+      published: String(r.published_at || '').slice(0, 10) || null
+    }));
   const payload = {
     source: api, prices,
     reviewStats: {

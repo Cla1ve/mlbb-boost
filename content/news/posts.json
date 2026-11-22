@@ -1790,7 +1790,7 @@
         "Мифик"
       ],
       "datePublished": "2026-11-22T13:44:00+03:00",
-      "dateModified": "2026-11-22T13:54:09+03:00",
+      "dateModified": "2026-11-22T14:34:38+03:00",
       "hero": {
         "src": "/images/news/mlbb-season-end-rank-reset.jpg",
         "width": 1600,
@@ -1841,7 +1841,7 @@
             [
               "Начало 42 сезона",
               "16 сентября 2026",
-              "Вышло вместе с обновлением 2.2.16"
+              "Официальные патч-ноты 2.2.16"
             ],
             [
               "Ожидаемый конец 42 сезона",
@@ -1863,7 +1863,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Сроки сдвигаются: 40 сезон шёл 98 дней, 39 сезон — 84 дня. Поэтому не стоит откладывать последние звёзды на 15 декабря. Если в игре таймер показывает другую дату, верьте таймеру."
+          "text": "Сроки сдвигаются: 40 сезон шёл 98 дней, 39 сезон — 84 дня. Прошлую смену MOONTON провёл так: 41 сезон закрылся 15 сентября в 21:59:59 по серверному времени, 42 открылся 16 сентября в 00:00:00. Поэтому не стоит откладывать последние звёзды на 15 декабря. Если в игре таймер показывает другую дату, верьте таймеру."
         },
         {
           "type": "heading",
@@ -1966,9 +1966,9 @@
       ],
       "sources": [
         {
-          "title": "Mobile Legends: Bang Bang official website, updates section (Update 2.2.16)",
+          "title": "2.2.16 Patch Notes",
           "publisher": "MOONTON",
-          "url": "https://www.mobilelegends.com/",
+          "url": "https://www.mobilelegends.com/news/articleldetail?newsid=3503357",
           "accessed": "2026-11-22"
         },
         {
@@ -2042,7 +2042,7 @@
                 [
                   "Season 42 start",
                   "16 September 2026",
-                  "Released with update 2.2.16"
+                  "Official 2.2.16 patch notes"
                 ],
                 [
                   "Expected Season 42 end",
@@ -2064,7 +2064,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Season length varies: Season 40 ran for 98 days and Season 39 for 84 days. Do not leave your last stars for 15 December. If the in-game timer shows a different date, trust the timer."
+              "text": "Season length varies: Season 40 ran for 98 days and Season 39 for 84 days. MOONTON ran the last changeover like this: Season 41 closed on 15 September at 21:59:59 server time, and Season 42 opened on 16 September at 00:00:00. So do not leave your last stars for 15 December. If the in-game timer shows a different date, trust the timer."
             },
             {
               "type": "heading",
@@ -3076,6 +3076,762 @@
             }
           ],
           "editorialNote": "Figures are official MOONTON statistics for 30 days, updated on 21 November 2026 at 23:55. Tiers are our own calculation based on win rate only, for heroes with a pick rate of 0.5% or more. The editors keep a copy of the data."
+        }
+      }
+    },
+    {
+      "slug": "mlbb-current-patch",
+      "status": "published",
+      "title": "Какой сейчас патч в MLBB: обновление 2.2.16 и что оно изменило",
+      "seoTitle": "Патч MLBB 2.2.16: что изменилось и какой сейчас патч",
+      "description": "Текущий патч Mobile Legends — 2.2.16. Переработка Маши и Бруно, кого усилили и ослабили, экономика и карта 2026 года, и как это видно в статистике героев.",
+      "excerpt": "Главное из патча 2.2.16: новая Маша и Бруно, усиления и ослабления, экономика матча, карта 2026 года и что стало с героями через два месяца.",
+      "category": "Патчи",
+      "categoryKey": "patches",
+      "tags": [
+        "Mobile Legends",
+        "Патч 2.2.16",
+        "Баланс",
+        "Маша",
+        "Сезон 42"
+      ],
+      "datePublished": "2026-11-22T14:36:46+03:00",
+      "dateModified": "2026-11-22T14:36:46+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-current-patch.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-current-patch-768.webp 768w, /images/news/mlbb-current-patch-1200.webp 1200w, /images/news/mlbb-current-patch-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Кристаллические весы в тёмной арене: чаша с яркими изумрудными кристаллами поднята, вторая с голубыми опущена",
+        "caption": "Иллюстрация Boost MLBB к разбору патча.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen via Codex",
+          "created": "2026-11-22",
+          "rights": "Original illustration created for Boost MLBB; no Mobile Legends characters, logos, rank emblems or interface.",
+          "prompt": "Original 16:9 premium esports editorial hero, text-free: a large ornate crystal balance scale floating in a dark arena, one pan raised with bright emerald crystals, the other lower with dimmer cyan crystals, shards and light particles around the beam; deep navy and near-black palette; no characters, logos, rank emblems, UI or text."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Текущий патч MLBB — 2.2.16. Он вышел 16 сентября 2026 года вместе с началом 42 сезона.",
+            "К 10-летию игры переработаны Маша и Бруно, ещё шесть героев получили новый облик модели: Пакито, Кадита, Клинт, Ло Йи, Броуди и Баданг.",
+            "Усилены Аулус, Аргус, Алдос и Лукас; ослаблены Мия, Ханаби, Мелисса, Ли Сун-Син и Пакито.",
+            "Следующий крупный патч ждут вместе с 43 сезоном: прошлые два вышли в первый день сезона, 17 июня и 16 сентября."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Обновление 2.2.16 — последний крупный патч Mobile Legends на 22 ноября 2026 года. Разработчики подтянули слабых лесников и героев линии опыта, полностью переделали Машу и Бруно и замедлили экономику матча, чтобы отстающей команде было проще отыграться. Ниже — главное из официальных патч-нотов и то, как эти изменения выглядят в статистике спустя два месяца."
+        },
+        {
+          "type": "heading",
+          "id": "heroes",
+          "text": "Что патч сделал с героями: два месяца спустя"
+        },
+        {
+          "type": "table",
+          "caption": "Герои с крупными изменениями в 2.2.16 и их статистика за последние 30 дней",
+          "headers": [
+            "Герой",
+            "В патче",
+            "Победы сейчас",
+            "Запрет сейчас"
+          ],
+          "rows": [
+            [
+              "Маша",
+              "переработка",
+              "60,47%",
+              "40,76%"
+            ],
+            [
+              "Марсель",
+              "изменения",
+              "57,49%",
+              "41,06%"
+            ],
+            [
+              "Аргус",
+              "усиление",
+              "56,76%",
+              "0,97%"
+            ],
+            [
+              "Бруно",
+              "переработка",
+              "53,76%",
+              "0,28%"
+            ],
+            [
+              "Сан",
+              "изменения",
+              "53,69%",
+              "34,40%"
+            ],
+            [
+              "Аулус",
+              "усиление",
+              "53,48%",
+              "31,27%"
+            ],
+            [
+              "Лукас",
+              "усиление",
+              "52,03%",
+              "32,91%"
+            ],
+            [
+              "Алдос",
+              "усиление",
+              "51,76%",
+              "0,56%"
+            ],
+            [
+              "Ханаби",
+              "ослабление",
+              "52,64%",
+              "4,29%"
+            ],
+            [
+              "Пакито",
+              "ослабление",
+              "50,04%",
+              "18,65%"
+            ],
+            [
+              "Мия",
+              "ослабление",
+              "49,72%",
+              "4,64%"
+            ],
+            [
+              "Одетта",
+              "изменения",
+              "49,68%",
+              "0,27%"
+            ],
+            [
+              "Ли Сун-Син",
+              "ослабление",
+              "49,14%",
+              "2,62%"
+            ],
+            [
+              "Зилонг",
+              "ослабление",
+              "46,28%",
+              "0,49%"
+            ],
+            [
+              "Тигрил",
+              "усиление",
+              "45,20%",
+              "7,39%"
+            ]
+          ],
+          "note": "Направление изменений — из официальных патч-нотов. Проценты — официальная статистика MOONTON за 30 дней на всех рангах, обновление 21 ноября 2026 года."
+        },
+        {
+          "type": "paragraph",
+          "text": "Переработка сработала сильнее, чем ждали: Маша сейчас на первом месте по проценту побед во всей игре — 60,47%. Аргус после усиления поднялся до 56,76%. Ханаби ослабили, но она остаётся самым популярным героем и выигрывает 52,64%. Тигрилу сократили перезарядку второго навыка, однако процент побед у него всё ещё один из самых низких — 45,20%."
+        },
+        {
+          "type": "heading",
+          "id": "masha-bruno",
+          "text": "Новая Маша и новый Бруно"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Маша стала бойцом-берсерком для долгих драк, а не убийцей для сплит-пуша. У неё по-прежнему три полоски здоровья, а атака со стороны оставленной раны включает ярость: три широких удара, устойчивость, скорость атаки и передвижения.",
+            "Второй навык Маши сбрасывает перезарядку каждый раз, когда она теряет одну из жизней.",
+            "Бруно сохранил стиль стрелка с мячом, но мячом стало проще управлять: дальность зависит от скорости передвижения, мяч лежит на земле 3 секунды вместо 2 и не перелетает через стены.",
+            "Ультимейт Бруно теперь коротко оглушает первую цель, сильно замедляет её и отбрасывает на дальность его атаки."
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "economy",
+          "text": "Экономика матча и карта 2026 года"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Золото с Рогатой ящерицы, Огненного жука и Лавового голема снижено на 13%.",
+            "Бонус за убийства для отстающей команды теперь срабатывает при разнице в 1500 золота вместо 2000.",
+            "Золото с миньонов растёт со временем чуть медленнее.",
+            "С 28 сентября действует годовое обновление карты: огоньки обзора подсвечивают скрытых врагов, Черепаха вместо щита призывает союзную черепаху на линию, а за разрушение башен вся команда получает заметно больше золота."
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Что это значит в рейтинге",
+          "text": "MOONTON объясняет изменения тем, что матчи шли слишком быстро и отстающей команде было трудно отыграться. Для рейтинга это значит, что преимущество в золоте стало менее надёжным: игру чаще приходится доводить до конца, а ошибки в поздней стадии стоят дороже."
+        },
+        {
+          "type": "cta",
+          "id": "patch-rank",
+          "eyebrow": "Патч не помогает с рангом",
+          "title": "Узнайте цену буста до своей цели",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-economy"
+        },
+        {
+          "type": "heading",
+          "id": "system",
+          "text": "Режимы, сезон и другие изменения"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Режим против ИИ и пользовательские матчи открываются с ранга Элита, «Магические шахматы» — с 12 уровня, режим 1 на 1 — с 25 уровня.",
+            "Появился многопользовательский тренировочный лагерь: Режим — Против ИИ и пользовательские — Тренировочный лагерь.",
+            "Переделана визитка игрока: можно показать 3D-модель героя и собрать набор карточек с Мифической медалью, коллекцией и достижениями.",
+            "Сезонный облик 42 сезона — Flamehide Thane для Попола и Купы, рамка аватара — Starward Decade."
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "next",
+          "text": "Когда выйдет следующий патч"
+        },
+        {
+          "type": "paragraph",
+          "text": "Два последних крупных обновления, 2.1.88 (17 июня) и 2.2.16 (16 сентября), вышли в день старта нового сезона. Конец 42 сезона ожидают 16 декабря, поэтому следующий большой патч вероятнее всего придёт тогда же. Официальной даты пока нет. Когда патч выйдет, мы обновим этот материал и тир-лист героев."
+        }
+      ],
+      "sources": [
+        {
+          "title": "2.2.16 Patch Notes",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/news/articleldetail?newsid=3503357",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Mobile Legends: Bang Bang — Hero Rank (official statistics, past 30 days)",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/rank",
+          "accessed": "2026-11-22"
+        }
+      ],
+      "editorialNote": "Пересказ официальных патч-нотов 2.2.16 своими словами; цифры героев — официальная статистика MOONTON за 30 дней, обновление 21 ноября 2026 года. Дату следующего патча MOONTON не объявлял — это оценка по двум прошлым обновлениям.",
+      "translations": {
+        "en": {
+          "title": "Current MLBB patch: update 2.2.16 and what it changed",
+          "seoTitle": "MLBB patch 2.2.16: what changed and the current patch",
+          "description": "The current Mobile Legends patch is 2.2.16. Masha and Bruno reworks, buffs and nerfs, the match economy and the 2026 map, and how it shows in hero statistics.",
+          "excerpt": "The key points of patch 2.2.16: the new Masha and Bruno, buffs and nerfs, match economy, the 2026 map and what happened to heroes two months later.",
+          "category": "Patches",
+          "tags": [
+            "Mobile Legends",
+            "Patch 2.2.16",
+            "Balance",
+            "Masha",
+            "Season 42"
+          ],
+          "hero": {
+            "alt": "A crystal balance scale in a dark arena: one pan with bright emerald crystals raised, the other with cyan crystals lowered",
+            "caption": "Boost MLBB illustration for the patch breakdown."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In short",
+              "items": [
+                "The current MLBB patch is 2.2.16. It came out on 16 September 2026 together with the start of Season 42.",
+                "For the game’s 10th anniversary Masha and Bruno were reworked, and six more heroes got new models: Paquito, Kadita, Clint, Luo Yi, Brody and Badang.",
+                "Aulus, Argus, Aldous and Lukas were buffed; Miya, Hanabi, Melissa, Yi Sun-shin and Paquito were nerfed.",
+                "The next major patch is expected with Season 43: the last two arrived on the first day of a season, 17 June and 16 September."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Update 2.2.16 is the latest major Mobile Legends patch as of 22 November 2026. The developers lifted weak junglers and EXP lane heroes, fully reworked Masha and Bruno and slowed the match economy so a team that falls behind can come back more easily. Below are the key points from the official patch notes and how those changes look in the statistics two months later."
+            },
+            {
+              "type": "heading",
+              "id": "heroes",
+              "text": "What the patch did to heroes, two months on"
+            },
+            {
+              "type": "table",
+              "caption": "Heroes with major changes in 2.2.16 and their stats for the last 30 days",
+              "headers": [
+                "Hero",
+                "In the patch",
+                "Win rate now",
+                "Ban rate now"
+              ],
+              "rows": [
+                [
+                  "Masha",
+                  "rework",
+                  "60.47%",
+                  "40.76%"
+                ],
+                [
+                  "Marcel",
+                  "adjusted",
+                  "57.49%",
+                  "41.06%"
+                ],
+                [
+                  "Argus",
+                  "buff",
+                  "56.76%",
+                  "0.97%"
+                ],
+                [
+                  "Bruno",
+                  "rework",
+                  "53.76%",
+                  "0.28%"
+                ],
+                [
+                  "Sun",
+                  "adjusted",
+                  "53.69%",
+                  "34.40%"
+                ],
+                [
+                  "Aulus",
+                  "buff",
+                  "53.48%",
+                  "31.27%"
+                ],
+                [
+                  "Lukas",
+                  "buff",
+                  "52.03%",
+                  "32.91%"
+                ],
+                [
+                  "Aldous",
+                  "buff",
+                  "51.76%",
+                  "0.56%"
+                ],
+                [
+                  "Hanabi",
+                  "nerf",
+                  "52.64%",
+                  "4.29%"
+                ],
+                [
+                  "Paquito",
+                  "nerf",
+                  "50.04%",
+                  "18.65%"
+                ],
+                [
+                  "Miya",
+                  "nerf",
+                  "49.72%",
+                  "4.64%"
+                ],
+                [
+                  "Odette",
+                  "adjusted",
+                  "49.68%",
+                  "0.27%"
+                ],
+                [
+                  "Yi Sun-shin",
+                  "nerf",
+                  "49.14%",
+                  "2.62%"
+                ],
+                [
+                  "Zilong",
+                  "nerf",
+                  "46.28%",
+                  "0.49%"
+                ],
+                [
+                  "Tigreal",
+                  "buff",
+                  "45.20%",
+                  "7.39%"
+                ]
+              ],
+              "note": "The direction of each change comes from the official patch notes. Percentages are official MOONTON statistics for 30 days across all ranks, updated on 21 November 2026."
+            },
+            {
+              "type": "paragraph",
+              "text": "The rework landed harder than expected: Masha now has the highest win rate in the game at 60.47%. Argus climbed to 56.76% after his buff. Hanabi was nerfed but is still the most picked hero and wins 52.64%. Tigreal got a shorter cooldown on his second skill, yet his win rate remains one of the lowest at 45.20%."
+            },
+            {
+              "type": "heading",
+              "id": "masha-bruno",
+              "text": "The new Masha and the new Bruno"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Masha is now a berserker fighter built for long fights rather than an assassin for split-pushing. She still has three HP bars, and attacking from the side of the wound she left triggers Feral: three wide claw strikes plus Resilience, Attack Speed and Movement Speed.",
+                "Masha’s second skill resets its cooldown each time she loses one of her lives.",
+                "Bruno keeps his ball-kicking marksman style, but the ball is easier to control: its distance scales with Movement Speed, it stays on the ground for 3 seconds instead of 2 and no longer crosses walls.",
+                "Bruno’s ultimate now briefly stuns the first target, slows it heavily and knocks it back to his attack range."
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "economy",
+              "text": "Match economy and the 2026 map"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Gold from the Horned Lizard, Fire Beetle and Lava Golem is down 13%.",
+                "The comeback kill bounty now triggers at a 1500 gold deficit instead of 2000.",
+                "Minion gold grows a little more slowly over time.",
+                "Since 28 September the annual map update is live: vision wisps reveal hidden enemies, the Turtle spawns an allied turtle on a lane instead of a shield, and destroying turrets gives the whole team much more gold."
+              ]
+            },
+            {
+              "type": "callout",
+              "label": "What it means in ranked",
+              "text": "MOONTON says matches were too fast and teams that fell behind struggled to come back. In ranked this means a gold lead is less safe: games more often go the distance, and late-game mistakes cost more."
+            },
+            {
+              "type": "cta",
+              "id": "patch-rank",
+              "eyebrow": "A patch will not climb for you",
+              "title": "Check the boost price to your goal",
+              "text": "Enter your current rank and goal — the calculator shows the price at once.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-economy"
+            },
+            {
+              "type": "heading",
+              "id": "system",
+              "text": "Modes, season and other changes"
+            },
+            {
+              "type": "list",
+              "items": [
+                "VS A.I. and Custom matches unlock at Elite rank, Magic Chess at level 12 and 1 VS 1 at level 25.",
+                "A Multiplayer Training Camp was added: Mode — VS A.I. & Custom — Multiplayer Training Camp.",
+                "The player Namecard was reworked: you can show a 3D hero model and arrange cards with your Mythic medal, collection and achievements.",
+                "The Season 42 skin is Flamehide Thane for Popol and Kupa, and the avatar border is Starward Decade."
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "next",
+              "text": "When the next patch comes out"
+            },
+            {
+              "type": "paragraph",
+              "text": "The last two major updates, 2.1.88 (17 June) and 2.2.16 (16 September), arrived on the day a new season started. Season 42 is expected to end on 16 December, so the next big patch will most likely come then. There is no official date yet. Once it is out, we will update this guide and the hero tier list."
+            }
+          ],
+          "editorialNote": "A summary of the official 2.2.16 patch notes in our own words; hero figures are official MOONTON statistics for 30 days, updated on 21 November 2026. MOONTON has not announced the next patch date — it is an estimate based on the last two updates."
+        }
+      }
+    },
+    {
+      "slug": "mlbb-redeem-codes-guide",
+      "status": "published",
+      "title": "Промокоды MLBB: куда вводить и почему код не работает",
+      "seoTitle": "Промокоды MLBB: куда вводить и почему не работают",
+      "description": "Куда вводить промокоды Mobile Legends: официальная страница mobilelegends.com/redeem, Game ID, Zone ID и код из игровой почты. Почему код не работает и как не попасться мошенникам.",
+      "excerpt": "Пошаговый ввод промокода на официальной странице MOONTON, где взять Game ID и Zone ID, почему код не срабатывает и как отличить мошеннический сайт.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Mobile Legends",
+        "Промокоды",
+        "Redeem",
+        "Алмазы",
+        "Безопасность"
+      ],
+      "datePublished": "2026-11-22T14:38:00+03:00",
+      "dateModified": "2026-11-22T14:38:00+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-redeem-codes-guide.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-redeem-codes-guide-768.webp 768w, /images/news/mlbb-redeem-codes-guide-1200.webp 1200w, /images/news/mlbb-redeem-codes-guide-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Изумрудный кристаллический ключ в светящемся замке открывает небольшой сундук с подарком",
+        "caption": "Иллюстрация Boost MLBB к гиду по промокодам.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen via Codex",
+          "created": "2026-11-22",
+          "rights": "Original illustration created for Boost MLBB; no Mobile Legends characters, logos, rank emblems or interface.",
+          "prompt": "Original 16:9 premium esports editorial hero, text-free: a glowing emerald crystal key inserted into a floating crystal lock panel that opens a small radiant gift chest, light particles rising; deep navy and near-black palette, restrained cyan light; no characters, logos, rank emblems, UI or text."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Промокоды MLBB вводят на официальной странице mobilelegends.com/redeem, а не в самой игре.",
+            "Нужны четыре поля: код, Game ID, Zone ID и код подтверждения, который придёт в игровую почту.",
+            "Код подтверждения действует 30 минут. Награда приходит в игровую почту.",
+            "Пароль от аккаунта для ввода промокода не нужен. Сайт, который его просит, — мошеннический."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "В самой Mobile Legends поля для промокода нет, поэтому многие ищут его в настройках и не находят. Коды вводят на сайте MOONTON в разделе «Выкуп наград игры». Ниже — пошаговая инструкция по официальной форме и разбор, почему код может не сработать. Списка «рабочих кодов» здесь нет: проверить их заранее нельзя, а коды из неофициальных подборок чаще всего уже истекли."
+        },
+        {
+          "type": "heading",
+          "id": "where",
+          "text": "Куда вводить промокод"
+        },
+        {
+          "type": "table",
+          "caption": "Поля официальной формы mobilelegends.com/redeem",
+          "headers": [
+            "Поле",
+            "Что ввести",
+            "Где взять"
+          ],
+          "rows": [
+            [
+              "Redemption code",
+              "Сам промокод",
+              "Из официального источника, где его раздали"
+            ],
+            [
+              "Game ID",
+              "Номер вашего аккаунта",
+              "Профиль в игре: строка ID рядом с ником"
+            ],
+            [
+              "Zone ID",
+              "Номер сервера",
+              "Там же, число в скобках после Game ID"
+            ],
+            [
+              "Verification Code",
+              "Код подтверждения",
+              "Придёт в игровую почту после кнопки Send"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "steps",
+          "text": "Как ввести промокод: пошагово"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Откройте профиль в игре и запишите два числа: Game ID и Zone ID в скобках, например 123456789 (1234).",
+            "Зайдите на mobilelegends.com/redeem и выберите язык сайта, если нужно.",
+            "Вставьте промокод в поле Redemption code, затем Game ID и Zone ID.",
+            "Нажмите Send. В игре откройте почту: туда придёт код подтверждения, он действует 30 минут.",
+            "Введите код подтверждения на сайте и нажмите Redeem. Награда придёт в игровую почту."
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Безопасность",
+          "text": "Официальная форма не спрашивает ни пароль, ни почту, ни данные Moonton ID. Если сайт с «бесплатными алмазами» просит войти в аккаунт, закройте его: так угоняют аккаунты."
+        },
+        {
+          "type": "heading",
+          "id": "not-working",
+          "text": "Почему промокод не работает"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Код истёк. У каждого кода свой срок, и после него он перестаёт приниматься.",
+            "Код закончился. Многие коды рассчитаны на ограниченное число активаций.",
+            "Код уже использован на этом аккаунте. Один и тот же код второй раз не сработает.",
+            "Код для другого региона или события. Часть кодов может работать только на определённых серверах.",
+            "Ошибка в Game ID или Zone ID. Проверьте оба числа в профиле, особенно номер сервера в скобках.",
+            "Код подтверждения устарел. Если прошло больше 30 минут, нажмите Send ещё раз."
+          ]
+        },
+        {
+          "type": "cta",
+          "id": "redeem-rank",
+          "eyebrow": "Ранг кодом не получить",
+          "title": "Узнайте цену буста до своей цели",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-not-working"
+        },
+        {
+          "type": "heading",
+          "id": "sources",
+          "text": "Где искать настоящие промокоды"
+        },
+        {
+          "type": "paragraph",
+          "text": "Настоящие коды MOONTON раздаёт сам: в официальных сообществах игры, во время крупных турниров и специальных событий. Если код опубликован на сайте-подборке без ссылки на источник, проверьте дату и не вводите его нигде, кроме mobilelegends.com/redeem. Сервисов, которые «генерируют» промокоды или алмазы, не существует."
+        },
+        {
+          "type": "paragraph",
+          "text": "Мы не публикуем списки кодов: проверить код, не активировав его на своём аккаунте, нельзя, а устаревшие подборки только тратят время. Если MOONTON выпустит код для всех игроков, мы напишем о нём в новостях со ссылкой на источник."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mobile Legends: Bang Bang — Redeem game rewards",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/redeem",
+          "accessed": "2026-11-22"
+        }
+      ],
+      "editorialNote": "Поля формы и срок кода подтверждения проверены на официальной странице mobilelegends.com/redeem 22 ноября 2026 года. Мы не публикуем и не проверяем конкретные промокоды.",
+      "translations": {
+        "en": {
+          "title": "MLBB redeem codes: where to enter them and why a code fails",
+          "seoTitle": "MLBB redeem codes: where to enter and why they fail",
+          "description": "Where to enter Mobile Legends redeem codes: the official mobilelegends.com/redeem page, Game ID, Zone ID and an in-game mail code. Why codes fail and how to avoid scams.",
+          "excerpt": "Step-by-step redemption on the official MOONTON page, where to find your Game ID and Zone ID, why a code fails and how to spot a scam site.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Redeem codes",
+            "Redeem",
+            "Diamonds",
+            "Safety"
+          ],
+          "hero": {
+            "alt": "An emerald crystal key in a glowing lock opening a small gift chest",
+            "caption": "Boost MLBB illustration for the redeem codes guide."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In short",
+              "items": [
+                "MLBB redeem codes are entered on the official page mobilelegends.com/redeem, not inside the game.",
+                "You need four fields: the code, your Game ID, Zone ID and a verification code sent to your in-game mail.",
+                "The verification code is valid for 30 minutes. The reward arrives in your in-game mail.",
+                "You never need your account password to redeem a code. A site that asks for it is a scam."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Mobile Legends has no redeem field inside the game, so many players look for it in the settings and never find it. Codes are entered on the MOONTON website in the Redeem game rewards section. Below is a step-by-step guide to the official form and why a code may fail. There is no list of “working codes” here: they cannot be checked in advance, and codes from unofficial lists have usually expired."
+            },
+            {
+              "type": "heading",
+              "id": "where",
+              "text": "Where to enter a redeem code"
+            },
+            {
+              "type": "table",
+              "caption": "Fields of the official form at mobilelegends.com/redeem",
+              "headers": [
+                "Field",
+                "What to enter",
+                "Where to find it"
+              ],
+              "rows": [
+                [
+                  "Redemption code",
+                  "The code itself",
+                  "From the official source that gave it out"
+                ],
+                [
+                  "Game ID",
+                  "Your account number",
+                  "In-game profile: the ID line next to your name"
+                ],
+                [
+                  "Zone ID",
+                  "Your server number",
+                  "Same place, the number in brackets after the Game ID"
+                ],
+                [
+                  "Verification Code",
+                  "A confirmation code",
+                  "Sent to your in-game mail after you press Send"
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "steps",
+              "text": "How to redeem a code, step by step"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Open your in-game profile and note two numbers: the Game ID and the Zone ID in brackets, for example 123456789 (1234).",
+                "Go to mobilelegends.com/redeem and pick the site language if needed.",
+                "Paste the code into Redemption code, then enter your Game ID and Zone ID.",
+                "Press Send. Open your in-game mail: the verification code arrives there and is valid for 30 minutes.",
+                "Enter the verification code on the site and press Redeem. The reward arrives in your in-game mail."
+              ]
+            },
+            {
+              "type": "callout",
+              "label": "Safety",
+              "text": "The official form never asks for your password, email or Moonton ID details. If a “free diamonds” site asks you to log in, close it: that is how accounts get stolen."
+            },
+            {
+              "type": "heading",
+              "id": "not-working",
+              "text": "Why a redeem code does not work"
+            },
+            {
+              "type": "list",
+              "items": [
+                "The code has expired. Every code has its own deadline, after which it is no longer accepted.",
+                "The code has run out. Many codes have a limited number of activations.",
+                "The code was already used on this account. The same code will not work twice.",
+                "The code is for another region or event. Some codes may work only on certain servers.",
+                "A typo in the Game ID or Zone ID. Check both numbers in your profile, especially the server number in brackets.",
+                "The verification code is stale. If more than 30 minutes have passed, press Send again."
+              ]
+            },
+            {
+              "type": "cta",
+              "id": "redeem-rank",
+              "eyebrow": "No code gives you rank",
+              "title": "Check the boost price to your goal",
+              "text": "Enter your current rank and goal — the calculator shows the price at once.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-not-working"
+            },
+            {
+              "type": "heading",
+              "id": "sources",
+              "text": "Where to find real redeem codes"
+            },
+            {
+              "type": "paragraph",
+              "text": "MOONTON hands out real codes itself: in the game’s official communities, during major tournaments and at special events. If a code appears on a list site without a link to its source, check the date and never enter it anywhere except mobilelegends.com/redeem. Services that “generate” codes or diamonds do not exist."
+            },
+            {
+              "type": "paragraph",
+              "text": "We do not publish code lists: a code cannot be checked without redeeming it on your own account, and outdated lists only waste time. If MOONTON releases a code for all players, we will cover it in the news with a link to the source."
+            }
+          ],
+          "editorialNote": "The form fields and the verification code lifetime were checked on the official mobilelegends.com/redeem page on 22 November 2026. We do not publish or test specific codes."
         }
       }
     }

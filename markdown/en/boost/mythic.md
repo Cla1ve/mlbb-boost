@@ -130,6 +130,40 @@ Account boost prices; time is the median of completed orders on that stretch.
     You can check your rank in the bot after every game and leave a review at the end.
 
 
+## Reviews of Mythic rank boosts
+
+Latest reviews from our Telegram channel, unedited and in Russian.
+
+★★★★★21 November 2026
+
+Мифический бессмертный, 326⭐ → Мифический бессмертный, 342⭐
+
+Account7ч 5м после оплаты
+
+> Все круто, самый лучший бустер.
+
+Booster: **Elleana**[Original on Telegram](https://t.me/Cla1ve_boost/2277)
+
+★★★★★20 November 2026
+
+Мифический бессмертный, 180⭐ → Мифический бессмертный, 185⭐
+
+HeroХарли1ч 31м после оплаты
+
+> Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+
+Booster: **Ясик**[Original on Telegram](https://t.me/Cla1ve_boost/2275)
+
+★★★★★19 November 2026
+
+Мифический бессмертный, 157⭐ → Мифический бессмертный, 168⭐
+
+HeroХарли нолан4ч 34м после оплаты
+
+> Отличная работа, приятный и общительный бустер, доволен
+
+Booster: **metaldemon**[Original on Telegram](https://t.me/Cla1ve_boost/2272)
+
 ## Price your route
 
 Your rank now, the goal and the format — the total appears at once.

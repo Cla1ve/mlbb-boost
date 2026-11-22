@@ -203,6 +203,40 @@ Party320 ₽/⭐
 
 A hero leaderboard place for a server or country is not guaranteed: hero rating depends on match results. Read the [security recommendations](https://boostmlbb.ru/en/security.html) before sharing an account.
 
+## Hero boost reviews
+
+Latest reviews from our Telegram channel, unedited and in Russian.
+
+★★★★★20 November 2026
+
+Мифический бессмертный, 180⭐ → Мифический бессмертный, 185⭐
+
+HeroХарли1ч 31м после оплаты
+
+> Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+
+Booster: **Ясик**[Original on Telegram](https://t.me/Cla1ve_boost/2275)
+
+★★★★★19 November 2026
+
+Мифический бессмертный, 157⭐ → Мифический бессмертный, 168⭐
+
+HeroХарли нолан4ч 34м после оплаты
+
+> Отличная работа, приятный и общительный бустер, доволен
+
+Booster: **metaldemon**[Original on Telegram](https://t.me/Cla1ve_boost/2272)
+
+★★★★★17 November 2026
+
+Мифический бессмертный, 105⭐ → Мифический бессмертный, 155⭐
+
+HeroЛюнокс1д 10ч 35м после оплаты
+
+> Второй раз купил буст. Сделали ещё лучше, чем в первый, все поставленные задачи выполнены. Крутой бустер.
+
+Booster: **Дайтона**[Original on Telegram](https://t.me/Cla1ve_boost/2262)
+
 ## What your hero costs
 
 Pick the Hero format and a goal — the total appears at once.

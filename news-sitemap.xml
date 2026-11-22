@@ -4,6 +4,62 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-redeem-codes-guide/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-redeem-codes-guide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-redeem-codes-guide/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T14:38:00+03:00</news:publication_date>
+      <news:title>Промокоды MLBB: куда вводить и почему код не работает</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-redeem-codes-guide/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-redeem-codes-guide/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T14:38:00+03:00</news:publication_date>
+      <news:title>MLBB redeem codes: where to enter them and why a code fails</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/news/mlbb-current-patch/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-current-patch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-current-patch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-current-patch/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T14:36:46+03:00</news:publication_date>
+      <news:title>Какой сейчас патч в MLBB: обновление 2.2.16 и что оно изменило</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-current-patch/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-current-patch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-current-patch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-current-patch/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T14:36:46+03:00</news:publication_date>
+      <news:title>Current MLBB patch: update 2.2.16 and what it changed</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/mlbb-meta-tier-list/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-meta-tier-list/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-meta-tier-list/"/>
