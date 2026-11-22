@@ -50,3 +50,7 @@ We're ready to answer any question you have on Telegram. Don't hesitate to reach
 Message us on Telegram to discuss your question
 
 [Message us](https://t.me/Cla1ve) [Telegram bot](https://t.me/cla1ve_boost_bot?start=site)
+
+## Rank guides
+
+[**Ranks in order**Stars, Mythic thresholds and match calculator](https://boostmlbb.ru/en/guides/mlbb-ranks.html)[**Mythic placement**How the 10 matches work](https://boostmlbb.ru/en/guides/mythic-placement.html)[**Party or account boost**Which format to choose](https://boostmlbb.ru/en/guides/party-boost.html)

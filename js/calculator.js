@@ -704,6 +704,29 @@ function parseUrlParams() {
   if (type && BOOST_TYPES[type]) {
     selectBoostType(type);
   }
+  // Route prefill from guide tools: ?from=legend-5&fs=1&to=glory&ts=60
+  if (type !== 'rising') {
+    applyRankParam('from', params.get('from'), params.get('fs'));
+    applyRankParam('to', params.get('to'), params.get('ts'));
+  }
+}
+
+function applyRankParam(type, rankParam, starsParam) {
+  if (!rankParam || !/^[a-z]+(?:-[1-5])?$/.test(rankParam)) return;
+  const select = document.getElementById(`rank-${type}`);
+  if (!select) return;
+  const value = rankParam.includes('-') ? rankParam.replace('-', '|') : `${rankParam}|mythic`;
+  const option = [...select.options].find(item => item.value === value && !item.disabled);
+  if (!option) return;
+  select.value = value;
+  select.dispatchEvent(new Event('change', { bubbles: true }));
+  const stars = Number(starsParam);
+  const field = document.getElementById(`stars-${type}`);
+  if (!field || starsParam === null || starsParam === '' || !Number.isInteger(stars)) return;
+  if (field.tagName === 'SELECT' && ![...field.options].some(item => item.value === String(stars))) return;
+  field.value = String(stars);
+  field.dispatchEvent(new Event('input', { bubbles: true }));
+  field.dispatchEvent(new Event('change', { bubbles: true }));
 }
 
 function selectBoostType(type) {

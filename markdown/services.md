@@ -121,3 +121,7 @@ Hot
 При заказе вашего друга от 25 звёзд
 
 [Написать @Cla1ve](https://t.me/Cla1ve)
+
+## Подробнее о форматах и рангах
+
+[**Буст Мифика**Цены на Честь, Славу и Бессмертного](https://boostmlbb.ru/boost/mythic.html)[**Буст на герое**Ранг и рейтинг выбранного героя](https://boostmlbb.ru/boost/hero.html)[**Калькулятор матчей**Сколько играть самому до цели](https://boostmlbb.ru/guides/mlbb-ranks.html)[**Калибровка Мифика**10 матчей и двойные победы](https://boostmlbb.ru/guides/mythic-placement.html)

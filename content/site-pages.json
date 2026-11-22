@@ -131,11 +131,11 @@
     },
     {
       "pathname": "/guides/mythic-placement.html",
-      "lastmod": "2026-10-05"
+      "lastmod": "2026-11-22"
     },
     {
       "pathname": "/en/guides/mythic-placement.html",
-      "lastmod": "2026-10-05"
+      "lastmod": "2026-11-22"
     },
     {
       "pathname": "/guides/party-boost.html",
@@ -144,6 +144,30 @@
     {
       "pathname": "/en/guides/party-boost.html",
       "lastmod": "2026-10-05"
+    },
+    {
+      "pathname": "/guides/mlbb-ranks.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "pathname": "/en/guides/mlbb-ranks.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "pathname": "/boost/mythic.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "pathname": "/en/boost/mythic.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "pathname": "/boost/hero.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "pathname": "/en/boost/hero.html",
+      "lastmod": "2026-11-22"
     }
   ]
 }

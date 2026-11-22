@@ -30,3 +30,44 @@ button.rising-stage { font: inherit; color: inherit; text-align: left; }
 .faq-item[open] .faq-answer { max-height: none; opacity: 1; }
 @media(max-width:900px) { .seo-steps { grid-template-columns: repeat(2,minmax(0,1fr)); } }
 @media(max-width:600px) { .seo-steps,.seo-steps.order-steps,.seo-quotes { grid-template-columns: 1fr; } .seo-note { padding: 16px; } .seo-guide { padding-top: 96px; } }
+/* Guides, service pages and the matches-to-rank tool (2026-11-22). */
+.seo-guide-wide { max-width: 1040px; }
+.seo-table-wrap { overflow-x: auto; margin: 18px 0 26px; -webkit-overflow-scrolling: touch; }
+.seo-table { width: 100%; min-width: 520px; border-collapse: collapse; font-size: .97rem; }
+.seo-table caption { text-align: left; color: #c8d2df; font-size: .9rem; padding-bottom: 10px; }
+.seo-table th, .seo-table td { padding: 11px 12px; border-bottom: 1px solid rgba(255,255,255,.08); text-align: left; vertical-align: top; }
+.seo-table thead th { color: #00ff9d; font-weight: 600; font-size: .9rem; white-space: nowrap; }
+.seo-table tbody th { color: #fff; font-weight: 500; }
+.seo-table td { color: #c8d2df; white-space: nowrap; }
+.seo-faq { margin-top: 40px; }
+.seo-faq details { border-bottom: 1px solid rgba(255,255,255,.1); padding: 14px 0; }
+.seo-faq summary { cursor: pointer; font-weight: 600; color: #fff; list-style-position: outside; }
+.seo-faq details p { margin: 10px 0 0; }
+.seo-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.seo-section .seo-cards a { display: flex; flex-direction: column; gap: 6px; padding: 18px 20px; border-radius: 12px; background: #0d2341; border: 1px solid rgba(0,255,157,.18); text-decoration: none; color: #fff; transition: border-color .2s ease, transform .2s ease; }
+.seo-section .seo-cards a span { color: #c8d2df; font-size: .92rem; }
+.seo-section .seo-cards a:hover, .seo-section .seo-cards a:focus-visible { border-color: #00ff9d; transform: translateY(-2px); }
+.rank-tool { margin: 28px 0 8px; padding: clamp(18px, 3vw, 28px); border-radius: 16px; background: #0d2341; border: 1px solid rgba(0,255,157,.22); }
+.seo-guide .rank-tool h2 { margin-top: 0; }
+.rank-tool-form { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.rank-tool-form fieldset { border: 1px solid rgba(255,255,255,.1); border-radius: 12px; padding: 12px 14px 14px; margin: 0; display: grid; gap: 10px; min-width: 0; }
+.rank-tool-form .rank-tool-wide { grid-column: 1 / -1; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); align-items: end; }
+.rank-tool-form legend { color: #00ff9d; font-weight: 600; padding: 0 6px; }
+.rank-tool-form label { display: grid; gap: 6px; color: #c8d2df; font-size: .92rem; }
+.rank-tool-form select, .rank-tool-form input[type="number"] { width: 100%; min-height: 44px; padding: 8px 10px; border-radius: 10px; border: 1px solid rgba(255,255,255,.18); background: #0a1a2f; color: #fff; font: inherit; }
+.rank-tool-form input[type="range"] { width: 100%; accent-color: #00ff9d; min-height: 32px; }
+.rank-tool-form output { color: #fff; font-weight: 600; }
+.rank-tool-form .rank-tool-check { display: flex; align-items: center; gap: 10px; min-height: 44px; }
+.rank-tool-check input { width: 20px; height: 20px; accent-color: #00ff9d; }
+.rank-tool-result { margin-top: 20px; }
+.rank-tool-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin: 0; }
+.rank-tool-stats div { background: #0a1a2f; border-radius: 12px; padding: 14px; }
+.rank-tool-stats dt { color: #c8d2df; font-size: .85rem; }
+.rank-tool-stats dd { margin: 6px 0 0; font-size: 1.45rem; font-weight: 700; color: #fff; font-variant-numeric: tabular-nums; }
+.seo-guide .rank-tool-note { margin: 14px 0 0; font-size: .9rem; }
+.rank-tool-actions { display: flex; flex-wrap: wrap; gap: 12px 22px; align-items: center; margin-top: 16px; }
+.seo-guide .rank-tool-actions .rank-tool-primary { display: inline-flex; align-items: center; min-height: 44px; padding: 0 20px; border-radius: 10px; background: #00ff9d; color: #0a1a2f; font-weight: 700; text-decoration: none; }
+.seo-guide .rank-tool-error { margin: 14px 0 0; color: #ffb4b4; }
+@media (min-width: 1200px) { .footer-grid:has(.footer-guides) { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 28px; } }
+@media (max-width: 720px) { .rank-tool-form { grid-template-columns: 1fr; } .rank-tool-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (prefers-reduced-motion: reduce) { .seo-section .seo-cards a { transition: none; } }

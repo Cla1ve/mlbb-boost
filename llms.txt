@@ -17,8 +17,11 @@ Orders are arranged through Telegram. Check the website prices and calculator fo
 - [MLBB Boost Services: Rank, Party & Hero | MLBB Boost](https://boostmlbb.ru/en/services.html)
 
 ## Guides
-- [MLBB Mythic Placement — Rates & Orders | MLBB Boost](https://boostmlbb.ru/en/guides/mythic-placement.html)
+- [Mythic placement in Mobile Legends: 10 matches, stars and price | MLBB Boost](https://boostmlbb.ru/en/guides/mythic-placement.html)
 - [MLBB Party Play vs Account Boosting | MLBB Boost](https://boostmlbb.ru/en/guides/party-boost.html)
+- [Mobile Legends ranks in order: stars, Mythic and match calculator | MLBB Boost](https://boostmlbb.ru/en/guides/mlbb-ranks.html)
+- [MLBB Mythic boost: Honor, Glory and Immortal prices | MLBB Boost](https://boostmlbb.ru/en/boost/mythic.html)
+- [Mobile Legends hero boost: prices and hero rating | MLBB Boost](https://boostmlbb.ru/en/boost/hero.html)
 
 ## Machine-readable public resources
 - [Full content in Markdown](https://boostmlbb.ru/llms-full.txt)

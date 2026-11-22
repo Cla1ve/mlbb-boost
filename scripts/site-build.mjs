@@ -85,6 +85,66 @@ function block(document, tag, content) {
   document.querySelector(`[data-seo-generated="${tag}"]`)?.remove();
   document.querySelector('main').append(...wrapper.childNodes);
 }
+const guideOf = file => config.guides.find(g => g.file === file);
+const footerGuides = [
+  ['/guides/mlbb-ranks.html', 'Ранги и калькулятор матчей', 'Ranks and match calculator'],
+  ['/boost/mythic.html', 'Буст Мифика', 'Mythic boost'],
+  ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
+  ['/guides/mythic-placement.html', 'Калибровка Мифика', 'Mythic placement'],
+  ['/guides/party-boost.html', 'Пати или обычный буст', 'Party or account boost']
+];
+const typeLabels = { ru: { standard: 'Обычный', role: 'На роли', hero: 'На герое', party: 'В пати' }, en: { standard: 'Account', role: 'Role', hero: 'Hero', party: 'Party' } };
+const typeOrder = ['standard', 'role', 'hero', 'party'];
+const priceOf = (category, type) => data.prices.find(r => r.category === category)?.prices.find(p => p.type === type)?.price;
+const money = (value, lang) => `${new Intl.NumberFormat(lang === 'en' ? 'en-US' : 'ru-RU').format(value).replace(/[\u00a0\u202f]/g, ' ')} ₽`;
+const categoryName = (row, lang) => lang === 'en' ? translate(row.category_name, 'content/seo-pages.json') : row.category_name;
+function formatDate(iso, lang) {
+  const text = new Intl.DateTimeFormat(lang === 'en' ? 'en-GB' : 'ru-RU', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${iso}T12:00:00Z`));
+  return text.replace(/\s*г\.$/, '');
+}
+// Route examples priced from the same public snapshot as /prices.html (stars × base rate).
+const routeExamples = [
+  ['legend', 25, 'Легенда V 1⭐ → Мифик 0⭐', 'Legend V 1⭐ → Mythic 0⭐'],
+  ['mythic', 15, 'Мифик 10⭐ → Мифическая честь 25⭐', 'Mythic 10⭐ → Mythical Honor 25⭐'],
+  ['honor', 25, 'Мифическая честь 25⭐ → Мифическая слава 50⭐', 'Mythical Honor 25⭐ → Mythical Glory 50⭐'],
+  ['glory', 50, 'Мифическая слава 50⭐ → Мифический бессмертный 100⭐', 'Mythical Glory 50⭐ → Mythical Immortal 100⭐'],
+  ['immortal', 50, 'Мифический бессмертный 100⭐ → 150⭐', 'Mythical Immortal 100⭐ → 150⭐']
+];
+function fillTokens(html, lang) {
+  const en = lang === 'en';
+  return html
+    .replace(/\{\{prices:(\w+(?:,\w+)*)\}\}/g, (_, list) => {
+      const categories = list.split(',');
+      const rows = data.prices.filter(r => categories.includes(r.category) || list === 'all');
+      return `<div class="seo-table-wrap"><table class="seo-table"><caption>${en ? 'Base rate per star in RUB; Mythic placement is per win' : 'Базовый тариф за звезду, ₽; калибровка Мифика — за победу'}</caption><thead><tr><th scope="col">${en ? 'Rank' : 'Ранг'}</th>${typeOrder.map(t => `<th scope="col">${typeLabels[lang][t]}</th>`).join('')}</tr></thead><tbody>${rows.map(r => `<tr><th scope="row">${categoryName(r, lang)}</th>${typeOrder.map(t => `<td>${money(priceOf(r.category, t), lang)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+    })
+    .replace(/\{\{routes(?::(\w+))?\}\}/g, (_, only) => {
+      const types = only ? [only] : typeOrder;
+      return `<div class="seo-table-wrap"><table class="seo-table"><caption>${en ? 'Example routes: stars × base rate, before discounts' : 'Примеры маршрутов: звёзды × базовый тариф, без скидок'}</caption><thead><tr><th scope="col">${en ? 'Route' : 'Маршрут'}</th><th scope="col">${en ? 'Stars' : 'Звёзд'}</th>${types.map(t => `<th scope="col">${typeLabels[lang][t]}</th>`).join('')}</tr></thead><tbody>${routeExamples.map(([category, stars, ru, enName]) => `<tr><th scope="row">${en ? enName : ru}</th><td>${stars}</td>${types.map(t => `<td>${money(priceOf(category, t) * stars, lang)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+    })
+    .replace(/\{\{priceData\}\}/g, () => `<script type="application/json" id="rank-tool-prices">${JSON.stringify(Object.fromEntries(data.prices.map(r => [r.category, Object.fromEntries(r.prices.map(p => [p.type, p.price]))])))}</script>`)
+    .replace(/\{\{reviewCount\}\}/g, () => new Intl.NumberFormat(en ? 'en-US' : 'ru-RU').format(data.reviewStats.count).replace(/[\u00a0\u202f]/g, ' '))
+    .replace(/\{\{checkedDate\}\}/g, () => formatDate(changedDate, lang))
+    .replace(/\{\{(\w+)\}\}/g, (token, name) => {
+      const named = {
+        mythicFrom: priceOf('mythic', 'standard'), immortalStd: priceOf('immortal', 'standard'),
+        heroFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'hero'))), heroMythic: priceOf('mythic', 'hero'), heroImmortal: priceOf('immortal', 'hero'),
+        calibrationStd: priceOf('mythic_calibration', 'standard'), calibrationParty: priceOf('mythic_calibration', 'party'),
+        gloryRouteStd: priceOf('glory', 'standard') * 50, gloryRouteHero: priceOf('glory', 'hero') * 50, gloryRouteParty: priceOf('glory', 'party') * 50
+      };
+      if (!(name in named)) throw new Error(`Unknown content token ${token}`);
+      return money(named[name], lang);
+    });
+}
+function guideArticle(guide, lang) {
+  const en = lang === 'en';
+  const [, , body, rawFaq = []] = guide[lang];
+  const faq = rawFaq.map(([q, a]) => [q, fillTokens(a, lang)]);
+  const updated = guide.updated || '2026-10-05';
+  const crumbs = guide.kind === 'service' ? [localized('/services.html', lang), en ? 'Services' : 'Услуги'] : [localized('/services.html', lang), en ? 'Services' : 'Услуги'];
+  const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
+  return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></article>`;
+}
 function schema(document, file, lang, title, description, url) {
   document.querySelectorAll('script[type="application/ld+json"]').forEach(node => node.remove());
   const org = {
@@ -96,9 +156,14 @@ function schema(document, file, lang, title, description, url) {
     contactPoint: { '@type': 'ContactPoint', contactType: 'customer support', url: 'https://t.me/Cla1ve', availableLanguage: ['Russian', 'English'] }
   };
   const web = { '@type': 'WebSite', '@id': `${origin}/#website`, name: 'MLBB Boost', alternateName: 'Boost MLBB', url: origin + '/', publisher: { '@id': org['@id'] }, inLanguage: ['ru', 'en'] };
-  const page = { '@type': file.startsWith('guides/') ? 'Article' : file === 'about.html' ? 'AboutPage' : file === 'reviews.html' ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
-  if (file.startsWith('guides/')) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = `${origin}/images/social-${lang}.png`; page.datePublished = '2026-10-05'; page.dateModified = '2026-10-05'; }
+  const guide = guideOf(file);
+  const isArticle = guide && guide.kind !== 'service';
+  const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : file === 'reviews.html' ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
+  if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
   const graph = [org, web, page];
+  if (guide?.kind === 'service') graph.push({ '@type': 'Service', '@id': `${url}#service`, name: document.querySelector('h1').textContent.trim(), serviceType: 'Mobile Legends: Bang Bang rank boosting', provider: { '@id': org['@id'] }, areaServed: lang === 'en' ? 'Worldwide' : 'RU', url, offers: { '@type': 'AggregateOffer', priceCurrency: 'RUB', lowPrice: Math.min(...data.prices.filter(r => guide.priceCategories?.includes(r.category) ?? true).map(r => r.prices.find(p => p.type === (guide.priceType || 'standard')).price)), offerCount: data.prices.length } });
+  if (guide?.[lang][3]?.length) graph.push({ '@type': 'FAQPage', '@id': `${url}#faq`, mainEntity: guide[lang][3].map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: fillTokens(a, lang).replace(/<[^>]+>/g, '') } })) });
+  if (guide?.tool) graph.push({ '@type': 'WebApplication', '@id': `${url}#tool`, name: guide.tool[lang], url, applicationCategory: 'GameApplication', operatingSystem: 'Web browser', offers: { '@type': 'Offer', price: 0, priceCurrency: 'RUB' } });
   if (file !== 'index.html' && file !== '404.html') graph.push({ '@type': 'BreadcrumbList', '@id': `${url}#breadcrumbs`, itemListElement: [
     { '@type': 'ListItem', position: 1, name: lang === 'en' ? 'Home' : 'Главная', item: origin + localized('/', lang) },
     { '@type': 'ListItem', position: 2, name: document.querySelector('h1')?.textContent.trim() || title, item: url }
@@ -125,7 +190,7 @@ const rendered = [];
 const aboutTemplate = await read('about.html');
 for (const guide of config.guides) {
   const { document } = parseHTML(aboutTemplate);
-  document.querySelector('main').innerHTML = `<article class="seo-guide container"><nav aria-label="Хлебные крошки"><a href="/">Главная</a> / <a href="/services.html">Услуги</a></nav>${guide.ru[2]}<p class="seo-date">Редакция MLBB Boost · Обновлено 5 октября 2026</p></article>`;
+  document.querySelector('main').innerHTML = guideArticle(guide, 'ru');
   await save(guide.file, '<!DOCTYPE html>\n' + document.documentElement.outerHTML + '\n');
 }
 for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
@@ -138,7 +203,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       element.innerHTML = element.innerHTML.replace(/\d+\+? отзывов/g, `${data.reviewStats.count} отзывов`).replace(/Отзывы \(\d+\+?\)/g, `Отзывы (${data.reviewStats.count})`);
     }
     document.querySelectorAll('[data-seo-generated]').forEach(node => node.remove());
-    if (file.startsWith('guides/')) document.querySelector('main').innerHTML = '';
+    if (guideOf(file)) document.querySelector('main').innerHTML = '';
     if (lang === 'en') translateDOM(document.body, file);
     document.documentElement.lang = lang;
     document.documentElement.setAttribute('data-static-locale', lang);
@@ -146,7 +211,20 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     const metadata = guide ? guide[lang] : config.pages[file]?.[lang];
     const title = metadata?.[0] || (lang === 'en' ? translate(document.title, file) : document.title);
     const description = metadata?.[1] || (lang === 'en' ? translate(document.querySelector('meta[name="description"]')?.content || '', file) : document.querySelector('meta[name="description"]')?.content || '');
-    if (guide) document.querySelector('main').innerHTML = `<article class="seo-guide container"><nav aria-label="${lang === 'en' ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${lang === 'en' ? 'Home' : 'Главная'}</a> / <a href="${localized('/services.html', lang)}">${lang === 'en' ? 'Services' : 'Услуги'}</a></nav>${guide[lang][2]}<p class="seo-date">${lang === 'en' ? 'MLBB Boost editorial team · Updated 5 October 2026' : 'Редакция MLBB Boost · Обновлено 5 октября 2026'}</p></article>`;
+    if (guide) document.querySelector('main').innerHTML = guideArticle(guide, lang);
+    for (const src of guide?.scripts || []) {
+      document.querySelector(`script[src^="${src}"]`)?.remove();
+      const script = document.createElement('script'); script.src = `${src}?v=${guide.updated || 1}`; script.setAttribute('defer', ''); document.head.append(script);
+    }
+    if (config.related?.[file]) block(document, 'related', config.related[file][lang]);
+    const footerGrid = document.querySelector('.site-footer .footer-grid');
+    if (footerGrid) {
+      footerGrid.querySelector('.footer-guides')?.remove();
+      const column = document.createElement('div'); column.className = 'footer-column footer-guides'; column.setAttribute('data-i18n-skip', '');
+      column.innerHTML = `<h4>${lang === 'en' ? 'Guides' : 'Полезное'}</h4><ul>${footerGuides.map(([href, ru, en]) => `<li><a href="${href}">${lang === 'en' ? en : ru}</a></li>`).join('')}</ul>`;
+      const columns = [...footerGrid.children].filter(node => node.classList.contains('footer-column'));
+      if (columns[1]) columns[1].after(column); else footerGrid.append(column);
+    }
     document.title = title;
     for (const [name, value, property] of [
       ['description', description], ['robots', file === '404.html' ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
@@ -218,7 +296,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '31' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '31' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
@@ -321,8 +399,8 @@ await save('js/i18n-seo.js', `/* Generated from content/seo-translations.json. *
 const pricesJS = await read('js/prices.js');
 await save('js/prices.js', pricesJS.replace(/const LAST_KNOWN_PRICES = \[[\s\S]*?\n\];/, `const LAST_KNOWN_PRICES = ${JSON.stringify(data.prices, null, 2)};`).replace(/Последний проверенный fallback с API на [\d-]+\./, `Последний проверенный fallback с API на ${changedDate}.`));
 await save('js/review-stats.js', `/* Generated public review aggregate. No full review downloads on landing pages. */\n(function () {\n  'use strict';\n  var stats = ${JSON.stringify(data.reviewStats)};\n  function apply() {\n    document.querySelectorAll('[data-review-stat]').forEach(function (node) {\n      var key = node.getAttribute('data-review-stat');\n      node.textContent = key === 'rating' ? stats.rating.toFixed(1) : key === 'satisfaction' ? stats.satisfaction + '%' : String(stats[key]);\n    });\n  }\n  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();\n})();\n`);
-await save('llms.txt', `# MLBB Boost\n\n> Independent service for arranging Mobile Legends: Bang Bang rank boosts and party play. Not affiliated with MOONTON Games.\n\nOrders are arranged through Telegram. Check the website prices and calculator for order estimates; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.\n\n## Services and policies\n${rendered.filter(p => ['index.html', 'services.html', 'prices.html', 'order.html', 'faq.html', 'about.html', 'reviews.html', 'refund.html', 'security.html', 'disclaimer.html'].includes(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Guides\n${rendered.filter(p => p.file.startsWith('guides/') && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Machine-readable public resources\n- [Full content in Markdown](${origin}/llms-full.txt)\n- [Russian news feed](${origin}/news/rss.xml)\n- [English news feed](${origin}/en/news/rss.xml)\n\nRead the linked website pages for the complete service terms.\n`);
-await save('llms-full.txt', `# MLBB Boost public content\n\nGenerated from the same HTML content available to visitors. Canonical website pages remain authoritative.\n\n${rendered.filter(p => p.lang === 'en' && (config.pages[p.file] || p.file.startsWith('guides/'))).map(p => `## ${p.title}\n\nSource: ${p.url}\n\n${p.text}`).join('\n\n---\n\n')}\n`);
+await save('llms.txt', `# MLBB Boost\n\n> Independent service for arranging Mobile Legends: Bang Bang rank boosts and party play. Not affiliated with MOONTON Games.\n\nOrders are arranged through Telegram. Check the website prices and calculator for order estimates; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.\n\n## Services and policies\n${rendered.filter(p => ['index.html', 'services.html', 'prices.html', 'order.html', 'faq.html', 'about.html', 'reviews.html', 'refund.html', 'security.html', 'disclaimer.html'].includes(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Guides\n${rendered.filter(p => guideOf(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Machine-readable public resources\n- [Full content in Markdown](${origin}/llms-full.txt)\n- [Russian news feed](${origin}/news/rss.xml)\n- [English news feed](${origin}/en/news/rss.xml)\n\nRead the linked website pages for the complete service terms.\n`);
+await save('llms-full.txt', `# MLBB Boost public content\n\nGenerated from the same HTML content available to visitors. Canonical website pages remain authoritative.\n\n${rendered.filter(p => p.lang === 'en' && (config.pages[p.file] || guideOf(p.file))).map(p => `## ${p.title}\n\nSource: ${p.url}\n\n${p.text}`).join('\n\n---\n\n')}\n`);
 const catalogue = await read('.well-known/api-catalog');
 await save('.well-known/api-catalog.json', catalogue);
 const skills = JSON.parse(await read('.well-known/agent-skills/index.json'));
@@ -338,9 +416,11 @@ for (const file of [...pageFiles.filter(f => f !== '404.html'), ...config.guides
   for (const lang of ['ru', 'en']) {
     const pathname = localized(filePath(file), lang);
     const existing = manifest.pages.find(p => p.pathname === pathname);
-    if (!existing) manifest.pages.push({ pathname, lastmod: '2026-10-05' });
+    if (!existing) manifest.pages.push({ pathname, lastmod: guideOf(file)?.published || '2026-10-05' });
     else if (existing.lastmod < '2026-10-05') existing.lastmod = '2026-10-05';
     const entry = manifest.pages.find(p => p.pathname === pathname);
+    const guideUpdated = guideOf(file)?.updated;
+    if (guideUpdated && entry.lastmod < guideUpdated) entry.lastmod = guideUpdated;
     if (['index.html', 'about.html', 'prices.html', 'services.html', 'reviews.html'].includes(file) && entry.lastmod < changedDate) entry.lastmod = changedDate;
   }
 }

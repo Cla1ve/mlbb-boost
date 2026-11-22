@@ -192,3 +192,7 @@ language: ru
 ### Готовы заказать буст?
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html) [Заказать в боте](https://t.me/cla1ve_boost_bot?start=site)
+
+## Цены по рангам и форматам
+
+[**Буст Мифика**Примеры маршрутов до Славы и Бессмертного](https://boostmlbb.ru/boost/mythic.html)[**Буст на герое**Тарифы на выбранном герое](https://boostmlbb.ru/boost/hero.html)[**Сколько матчей самому**Сравните цену с временем игры](https://boostmlbb.ru/guides/mlbb-ranks.html)

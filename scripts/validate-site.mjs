@@ -100,10 +100,26 @@ for (const langPath of ['', '/en']) {
 }
 assert.deepEqual(JSON.parse(await read('content/translation-gaps.json')), [], 'Untranslated English content');
 for (const [url, { document }] of pages) {
-  if (!url.includes('/en/') || !/^\/(en\/)?(index|services|order|prices|reviews|faq|about)\.html$|\/en\/$|\/en\/guides\//.test(new URL(url).pathname)) continue;
+  if (!url.includes('/en/') || !/^\/(en\/)?(index|services|order|prices|reviews|faq|about)\.html$|\/en\/$|\/en\/(?:guides|boost)\//.test(new URL(url).pathname)) continue;
   const main = document.querySelector('main').cloneNode(true);
   main.querySelectorAll('script, style, [lang="ru"]').forEach(e => e.remove());
   assert(!/[А-Яа-яЁё]/.test(main.textContent), `${url}: Russian text in English main content`);
+}
+for (const langPath of ['', '/en']) {
+  for (const pathname of ['/guides/mlbb-ranks.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html']) {
+    const page = pages.get(origin + langPath + pathname);
+    assert(page, `${pathname}: guide page missing from the sitemap`);
+    const graph = JSON.parse(page.document.querySelector('script[type="application/ld+json"]').textContent)['@graph'];
+    const faq = graph.find(node => node['@type'] === 'FAQPage');
+    const visible = [...page.document.querySelectorAll('.seo-faq summary')].map(node => node.textContent.trim());
+    assert(faq && visible.length && faq.mainEntity.length === visible.length, `${pathname}: FAQ markup must match the visible FAQ`);
+    assert.deepEqual(faq.mainEntity.map(q => q.name), visible, `${pathname}: FAQ questions differ from the page`);
+    assert(!/\{\{\w/.test(page.document.querySelector('main').innerHTML), `${pathname}: unreplaced content token`);
+    assert(page.document.querySelector('.footer-guides a[href$="/guides/mlbb-ranks.html"]'), `${pathname}: footer guide links missing`);
+  }
+  const tool = pages.get(origin + langPath + '/guides/mlbb-ranks.html').document;
+  assert(tool.querySelector('#rank-tool form') && tool.querySelector('script[src^="/js/rank-tool.js"]'), 'Rank tool must be present');
+  assert(JSON.parse(tool.getElementById('rank-tool-prices').textContent).immortal.standard > 0, 'Rank tool price snapshot missing');
 }
 const skills = JSON.parse(await read('.well-known/agent-skills/index.json'));
 for (const skill of skills.skills) {

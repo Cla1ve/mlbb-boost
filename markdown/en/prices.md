@@ -192,3 +192,7 @@ The final price depends on your route and boost type. Use the [calculator](https
 ### Ready to order a boost?
 
 [Calculate the price](https://boostmlbb.ru/en/order.html) [Order in the bot](https://t.me/cla1ve_boost_bot?start=site)
+
+## Prices by rank and format
+
+[**Mythic boost**Route examples to Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rates on your chosen hero](https://boostmlbb.ru/en/boost/hero.html)[**Matches on your own**Compare the price with play time](https://boostmlbb.ru/en/guides/mlbb-ranks.html)

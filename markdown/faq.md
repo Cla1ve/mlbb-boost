@@ -50,3 +50,7 @@ FAQ
 Напишите нам в Telegram — согласуем ваш вопрос
 
 [Написать](https://t.me/Cla1ve) [Telegram бот](https://t.me/cla1ve_boost_bot?start=site)
+
+## Гайды по рангам
+
+[**Ранги по порядку**Звёзды, пороги Мифика и калькулятор матчей](https://boostmlbb.ru/guides/mlbb-ranks.html)[**Калибровка Мифика**Как работают 10 матчей](https://boostmlbb.ru/guides/mythic-placement.html)[**Пати или обычный буст**Какой формат выбрать](https://boostmlbb.ru/guides/party-boost.html)

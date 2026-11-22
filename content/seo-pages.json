@@ -81,15 +81,45 @@
     {
       "file": "guides/mythic-placement.html",
       "ru": [
-        "Мифическая калибровка Mobile Legends — тарифы и заказ | MLBB Boost",
-        "Мифическая калибровка MLBB: тариф за одну победу, выбор формата и оформление заказа. Что указать в калькуляторе и как заказать переход в Мифик.",
-        "<h1>Мифическая калибровка в Mobile Legends</h1><p class=\"seo-lead\">Выберите формат буста и укажите, сколько матчей калибровки уже сыграно. Калькулятор покажет стоимость вашего заказа.</p><h2>Тариф калибровки</h2><p>Стоимость указана за одну победу. Для обычного буста, пати, роли и героя действуют разные тарифы. Сравните их на <a href=\"/prices.html\">странице цен</a> или сразу узнайте сумму в <a href=\"/order.html\">калькуляторе</a>.</p><h2>Что указать в заказе</h2><ul><li>Текущий ранг и количество звёзд.</li><li>Завершена ли калибровка; если нет — число сыгранных матчей и побед.</li><li>Желаемый ранг и подходящий формат буста.</li></ul><h2>Если вам нужен только вход в Мифик</h2><p>При переходе из Легенды можно выбрать Мифик с нулём звёзд. Для такой цели не нужно добавлять победы калибровки. Если хотите продвинуться выше, укажите нужное количество звёзд.</p><h2>Как оформить заказ</h2><p>Рассчитайте стоимость, затем откройте Telegram-бота и согласуйте время начала. Если не знаете, какие данные выбрать, поддержка поможет с заказом.</p><div class=\"seo-links\"><a href=\"/order.html\">Узнать стоимость</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Оформить заказ</a><a href=\"https://t.me/Cla1ve\">Задать вопрос</a></div>"
+        "Калибровка Мифика в Mobile Legends: 10 матчей, звёзды и цена | MLBB Boost",
+        "Как работает калибровка Мифика в MLBB: 10 матчей, двойные победы без потери звёзд, до 10 звёзд. Тариф буста калибровки за победу и что указать в калькуляторе.",
+        "<h1>Калибровка Мифика в Mobile Legends</h1>\n<p class=\"seo-lead\">Калибровка Мифика — первые 10 матчей после Легенды I. Победа в них даёт две звезды, поражение звёзд не снимает, поэтому за калибровку можно набрать до 10 звёзд. Буст калибровки оплачивается за победу: в обычном бусте {{calibrationStd}}.</p>\n<h2>Как работает калибровка</h2>\n<ul><li>Матчей калибровки — 10, побед с двойными звёздами — до 5 засчитываемых в цену заказа.</li><li>Поражение тратит матч калибровки, но звёзды не снимает.</li><li>После 10 матчей звёзды снова считаются по одной за победу и поражение.</li></ul>\n<h2>Тариф калибровки</h2>\n<p>Стоимость указана за одну победу. Для обычного буста, пати, роли и героя действуют разные тарифы; полная таблица — на странице <a href=\"/boost/mythic.html\">буста Мифика</a> и на <a href=\"/prices.html\">странице цен</a>.</p>\n<h2>Что указать в калькуляторе</h2>\n<ul><li>Текущий ранг и количество звёзд.</li><li>Завершена ли калибровка; если нет — сколько матчей уже сыграно и сколько из них выиграно.</li><li>Желаемый ранг и формат буста.</li></ul>\n<p>Калькулятор проверит, сходятся ли звёзды и сыгранные матчи, и подскажет, если цифры противоречат друг другу.</p>\n<h2>Если нужен только вход в Мифик</h2>\n<p>При переходе из Легенды выберите цель «Мифик» с нулём звёзд: тогда калибровка в заказ не входит. Если хотите выше, укажите нужное количество звёзд — калькулятор сам добавит победы калибровки.</p>\n<h2>Сколько матчей займёт путь самому</h2>\n<p>Калибровка — самый быстрый участок Мифика. Дальше при 52% побед звезда стоит в среднем 8–9 матчей. Посчитайте свой путь в <a href=\"/guides/mlbb-ranks.html\">калькуляторе матчей</a>.</p>\n<div class=\"seo-links\"><a href=\"/order.html\">Узнать стоимость</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Оформить заказ</a><a href=\"https://t.me/Cla1ve\">Задать вопрос</a></div>",
+        [
+          [
+            "Сколько матчей в калибровке Мифика?",
+            "10 матчей. Победа в них приносит две звезды, поражение звёзд не снимает."
+          ],
+          [
+            "Сколько звёзд можно получить за калибровку?",
+            "До 10 звёзд Мифика — пять двойных побед."
+          ],
+          [
+            "Сколько стоит буст калибровки?",
+            "Тариф указан за победу: {{calibrationStd}} в обычном бусте, {{calibrationParty}} в пати. Сумму под ваши сыгранные матчи покажет калькулятор."
+          ]
+        ]
       ],
       "en": [
-        "MLBB Mythic Placement — Rates & Orders | MLBB Boost",
-        "Compare Mobile Legends Mythic placement formats and per-win rates. Learn what to enter in the calculator and how to order Mythic rank entry.",
-        "<h1>Mythic placement in Mobile Legends</h1><p class=\"seo-lead\">Choose a boost format and enter how many placement matches you have already played. The calculator will show your order estimate.</p><h2>Placement rates</h2><p>Rates are quoted per win. Account, party, role and hero boosting have different rates. Compare them on the <a href=\"/en/prices.html\">prices page</a> or check your estimate in the <a href=\"/en/order.html\">calculator</a>.</p><h2>What to enter</h2><ul><li>Your current rank and star count.</li><li>Whether placement is complete; if not, matches played and wins.</li><li>Your target rank and preferred boost format.</li></ul><h2>If you only want to enter Mythic</h2><p>From Legend, you can select Mythic with zero stars. Extra placement wins are not needed for that target. If you want to progress further, select your target star count.</p><h2>Place your order</h2><p>Check the estimate, then open the Telegram bot and confirm the start time. If you are unsure which fields to select, support can help with your order.</p><div class=\"seo-links\"><a href=\"/en/order.html\">Check the price</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Place your order</a><a href=\"https://t.me/Cla1ve\">Ask a question</a></div>"
-      ]
+        "Mythic placement in Mobile Legends: 10 matches, stars and price | MLBB Boost",
+        "How Mythic placement works in MLBB: 10 matches, double wins with no star loss, up to 10 stars. Placement boost price per win and what to enter in the calculator.",
+        "<h1>Mythic placement in Mobile Legends</h1>\n<p class=\"seo-lead\">Mythic placement is the first 10 matches after Legend I. A win gives two stars and a loss removes none, so placement can add up to 10 stars. A placement boost is priced per win: {{calibrationStd}} for an account boost.</p>\n<h2>How placement works</h2>\n<ul><li>There are 10 placement matches; up to 5 double-star wins count toward the order price.</li><li>A loss uses a placement match but does not remove stars.</li><li>After 10 matches stars again change by one per win or loss.</li></ul>\n<h2>Placement rate</h2>\n<p>The price is per win. Account, party, role and hero boosts have different rates; see the full table on the <a href=\"/boost/mythic.html\">Mythic boost</a> page and the <a href=\"/prices.html\">prices page</a>.</p>\n<h2>What to enter in the calculator</h2>\n<ul><li>Your current rank and stars.</li><li>Whether placement is finished; if not, how many matches you played and how many you won.</li><li>Your target rank and boost format.</li></ul>\n<p>The calculator checks that your stars and played matches agree and tells you if they do not.</p>\n<h2>If you only need to enter Mythic</h2>\n<p>From Legend, choose Mythic with zero stars as the goal: placement is then not part of the order. To go higher, enter the stars you need and the calculator adds the placement wins.</p>\n<h2>How many matches it takes on your own</h2>\n<p>Placement is the fastest part of Mythic. After it, at a 52% win rate a star costs 8–9 matches on average. Estimate your own route in the <a href=\"/guides/mlbb-ranks.html\">match calculator</a>.</p>\n<div class=\"seo-links\"><a href=\"/order.html\">Check the price</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Place an order</a><a href=\"https://t.me/Cla1ve\">Ask a question</a></div>",
+        [
+          [
+            "How many matches are in Mythic placement?",
+            "10 matches. A win gives two stars and a loss removes none."
+          ],
+          [
+            "How many stars can placement give?",
+            "Up to 10 Mythic stars — five double wins."
+          ],
+          [
+            "How much is a placement boost?",
+            "It is priced per win: {{calibrationStd}} for an account boost and {{calibrationParty}} in a party. The calculator shows the total for the matches you have played."
+          ]
+        ]
+      ],
+      "published": "2026-10-05",
+      "updated": "2026-11-22"
     },
     {
       "file": "guides/party-boost.html",
@@ -102,7 +132,219 @@
         "MLBB Party Play vs Account Boosting | MLBB Boost",
         "Compare Mobile Legends party play and account boosting: who plays, access requirements, pricing, preferred roles and scheduling.",
         "<h1>Party play or account boosting: choose your format</h1><p class=\"seo-lead\">With account boosting, the assigned player plays on your account. With party play, you play alongside them on your own account.</p><h2>Account boosting</h2><p>Choose this format if you want the assigned player to handle your rank progression. Confirm your target, login method and start time. Game account access is needed; email access is not required.</p><h2>Playing together in a party</h2><p>You retain control of your account and join the matches. Agree on a convenient time, region and roles. Party play has its own rates.</p><h2>Preferred role or hero</h2><p>You can select the assigned player's role or the hero used for the route. Hero boosting is priced per star. MMR changes depend on matches and game rules; a leaderboard position is not guaranteed.</p><h2>Choosing your format</h2><p>Choose party play if you want to play together, or account boosting if you prefer the assigned player to handle gameplay. Compare the price for the same ranks in the calculator, then arrange your order through the Telegram bot.</p><p>Before sharing account access, read the <a href=\"/en/security.html\">security guidance</a> and <a href=\"/en/refund.html\">refund policy</a>.</p><div class=\"seo-links\"><a href=\"/en/order.html?type=party\">Calculate party play</a><a href=\"/en/services.html\">All services</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Place your order</a></div>"
+      ],
+      "published": "2026-10-05"
+    },
+    {
+      "file": "guides/mlbb-ranks.html",
+      "published": "2026-11-22",
+      "updated": "2026-11-22",
+      "scripts": [
+        "/js/rank-tool.js"
+      ],
+      "wide": true,
+      "tool": {
+        "ru": "Калькулятор матчей до ранга Mobile Legends",
+        "en": "Mobile Legends matches-to-rank calculator"
+      },
+      "ru": [
+        "Ранги Mobile Legends по порядку: звёзды, Мифик и калькулятор матчей | MLBB Boost",
+        "Все 10 рангов MLBB от Воина до Мифического бессмертного: сколько звёзд в каждом, пороги Мифика, калибровка и калькулятор — сколько матчей нужно до вашей цели.",
+        "<h1>Ранги Mobile Legends по порядку и калькулятор матчей</h1>\n<p class=\"seo-lead\">В Mobile Legends: Bang Bang 10 рангов: Воин, Элита, Мастер, Грандмастер, Эпик, Легенда, Мифик, Мифическая честь, Мифическая слава и Мифический бессмертный. До Мифика нужно набрать 112 звёзд. Дальше дивизионов нет: Честь начинается с 25 звёзд, Слава — с 50, Бессмертный — со 100.</p>\n<section class=\"rank-tool\" id=\"rank-tool\" aria-labelledby=\"rank-tool-title\">{{priceData}}<h2 id=\"rank-tool-title\">Калькулятор: сколько матчей до вашей цели</h2>\n<p>Выберите текущий ранг и цель. Расчёт покажет, сколько звёзд осталось, сколько матчей это займёт при вашем проценте побед и сколько стоит буст этого пути.</p>\n<form class=\"rank-tool-form\" novalidate>\n<fieldset><legend>Сейчас</legend><label>Ранг<select name=\"from\" data-rank-select></select></label><label>Звёзды<input name=\"fromStars\" type=\"number\" inputmode=\"numeric\" min=\"0\" value=\"1\"></label></fieldset>\n<fieldset><legend>Цель</legend><label>Ранг<select name=\"to\" data-rank-select></select></label><label>Звёзды<input name=\"toStars\" type=\"number\" inputmode=\"numeric\" min=\"0\" value=\"0\"></label></fieldset>\n<fieldset class=\"rank-tool-wide\"><legend>Ваша игра</legend><label>Процент побед: <output name=\"wrOut\">52%</output><input name=\"wr\" type=\"range\" min=\"45\" max=\"70\" step=\"1\" value=\"52\"></label><label>Матчей в день<input name=\"perDay\" type=\"number\" inputmode=\"numeric\" min=\"1\" max=\"60\" value=\"8\"></label><label class=\"rank-tool-check\"><input name=\"placementDone\" type=\"checkbox\"> Калибровка Мифика уже пройдена</label></fieldset>\n</form>\n<div class=\"rank-tool-result\" aria-live=\"polite\" hidden>\n<dl class=\"rank-tool-stats\"><div><dt>Звёзд до цели</dt><dd data-out=\"stars\">—</dd></div><div><dt>Матчей самому</dt><dd data-out=\"matches\">—</dd></div><div><dt>Дней игры</dt><dd data-out=\"days\">—</dd></div><div><dt>Буст этого пути</dt><dd data-out=\"price\">—</dd></div></dl>\n<p class=\"rank-tool-note\" data-out=\"note\"></p>\n<div class=\"rank-tool-actions\"><a class=\"rank-tool-primary\" data-out=\"order\" href=\"/order.html\">Точная цена в калькуляторе</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Оформить в Telegram</a></div>\n</div>\n<p class=\"rank-tool-error\" data-out=\"error\" hidden></p>\n<noscript><p>Калькулятор работает с JavaScript. Таблица рангов и примеры ниже доступны без него.</p></noscript>\n</section>\n<h2>Таблица рангов: сколько звёзд в каждом</h2>\n<p>Победа в рейтинговом матче даёт звезду, поражение снимает её. Когда дивизион заполнен, следующая победа переводит в следующий дивизион. Путь от Воина III до Мифика — 112 звёзд: больше всего их в Грандмастере, Эпике и Легенде, по 25 в каждом.</p>\n<div class=\"seo-table-wrap\"><table class=\"seo-table\"><caption>Ранги Mobile Legends по порядку</caption><thead><tr><th scope=\"col\">Ранг</th><th scope=\"col\">Дивизионы</th><th scope=\"col\">Звёзд в дивизионе</th><th scope=\"col\">Звёзд в ранге</th><th scope=\"col\">Набрано к концу ранга</th></tr></thead><tbody>\n<tr><th scope=\"row\">1. Воин</th><td>III–I</td><td>3</td><td>9</td><td>9</td></tr>\n<tr><th scope=\"row\">2. Элита</th><td>III–I</td><td>4</td><td>12</td><td>21</td></tr>\n<tr><th scope=\"row\">3. Мастер</th><td>IV–I</td><td>4</td><td>16</td><td>37</td></tr>\n<tr><th scope=\"row\">4. Грандмастер</th><td>V–I</td><td>5</td><td>25</td><td>62</td></tr>\n<tr><th scope=\"row\">5. Эпик</th><td>V–I</td><td>5</td><td>25</td><td>87</td></tr>\n<tr><th scope=\"row\">6. Легенда</th><td>V–I</td><td>5</td><td>25</td><td>112</td></tr>\n<tr><th scope=\"row\">7. Мифик</th><td>—</td><td>—</td><td>0–24</td><td>вход после Легенды I</td></tr>\n<tr><th scope=\"row\">8. Мифическая честь</th><td>—</td><td>—</td><td>25–49</td><td>с 25 звёзд Мифика</td></tr>\n<tr><th scope=\"row\">9. Мифическая слава</th><td>—</td><td>—</td><td>50–99</td><td>с 50 звёзд</td></tr>\n<tr><th scope=\"row\">10. Мифический бессмертный</th><td>—</td><td>—</td><td>100+</td><td>со 100 звёзд, без верхней границы</td></tr>\n</tbody></table></div>\n<h2>Как набираются звёзды в Мифике</h2>\n<p>После Легенды I начинается Мифик. Здесь звёзды копятся без дивизионов, а названия рангов меняются по порогам: 25 звёзд — Мифическая честь, 50 — Мифическая слава, 100 — Мифический бессмертный. После 100 звёзд счёт продолжается без ограничения, поэтому заказы «Бессмертный 100 → 150» и выше — обычное дело.</p>\n<p>Первые матчи в Мифике — калибровка: 10 игр, в которых победа приносит сразу две звезды, а поражение звёзд не снимает. Подробно о ней — в <a href=\"/guides/mythic-placement.html\">гайде по калибровке Мифика</a>.</p>\n<h2>Защита звезды и очки повышения</h2>\n<p>С Эпика при поражении иногда срабатывает защита звезды: звезда не снимается. Калькулятор считает, что это происходит примерно раз в шесть поражений. В Эпике и Легенде ещё копятся очки повышения звезды: за хорошие матчи шкала заполняется и даёт лишнюю звезду, примерно раз в 35–50 игр. Точных цифр Moonton не публикует, поэтому это оценка, а не правило игры.</p>\n<h2>Сколько матчей нужно до Мифика и выше</h2>\n<p>Главное — процент побед. При 50% побед каждая звезда в Мифике стоит около 12 матчей, при 55% — около 6, при 60% — около 4. Поэтому разница в пару процентов превращает сотню матчей в три сотни.</p>\n<div class=\"seo-table-wrap\"><table class=\"seo-table\"><caption>Сколько матчей нужно самому (оценка по модели калькулятора)</caption><thead><tr><th scope=\"col\">Путь</th><th scope=\"col\">Звёзд</th><th scope=\"col\">50% побед</th><th scope=\"col\">52%</th><th scope=\"col\">55%</th><th scope=\"col\">60%</th></tr></thead><tbody>\n<tr><th scope=\"row\">Эпик V → Мифик</th><td>50</td><td>~470</td><td>~350</td><td>~250</td><td>~170</td></tr>\n<tr><th scope=\"row\">Легенда V → Мифик</th><td>25</td><td>~240</td><td>~180</td><td>~130</td><td>~90</td></tr>\n<tr><th scope=\"row\">Мифик → Мифическая честь</th><td>25</td><td>~190</td><td>~140</td><td>~100</td><td>~70</td></tr>\n<tr><th scope=\"row\">Честь → Мифическая слава</th><td>25</td><td>~300</td><td>~210</td><td>~140</td><td>~90</td></tr>\n<tr><th scope=\"row\">Слава → Мифический бессмертный</th><td>50</td><td>~600</td><td>~420</td><td>~290</td><td>~190</td></tr>\n</tbody></table></div>\n<p>Оценка учитывает двойные победы калибровки, защиту звезды и очки повышения. На рангах ниже Эпика реальный путь обычно короче: звёзды там теряются реже.</p>\n<h2>Сколько времени это занимает у бустеров</h2>\n<p>По {{reviewCount}} опубликованным отзывам и 2 289 выполненным заказам с ноября 2025 года медиана от начала до конца заказа такая: Легенда → Мифик — около 5 часов (130 заказов), Мифик → Мифическая честь — около 6 часов (159), Честь → Слава — около 8 часов (163), Слава → Бессмертный — около 6,5 часа (179). Это время активной работы над заказом, а не обещание срока: оно зависит от звёзд в заказе и очереди.</p>\n<div class=\"seo-links\"><a href=\"/boost/mythic.html\">Буст Мифика: цены по рангам</a><a href=\"/order.html\">Калькулятор стоимости</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Оформить заказ</a></div>",
+        [
+          [
+            "Какие ранги есть в Mobile Legends по порядку?",
+            "Воин, Элита, Мастер, Грандмастер, Эпик, Легенда, Мифик, Мифическая честь, Мифическая слава и Мифический бессмертный — всего 10 рангов."
+          ],
+          [
+            "Сколько звёзд нужно, чтобы дойти до Мифика?",
+            "112 звёзд от Воина III: 9 в Воине, 12 в Элите, 16 в Мастере и по 25 в Грандмастере, Эпике и Легенде."
+          ],
+          [
+            "Сколько звёзд нужно для Мифической славы и Бессмертного?",
+            "Мифическая слава начинается с 50 звёзд Мифика, Мифический бессмертный — со 100. Мифическая честь — с 25."
+          ],
+          [
+            "Сколько матчей в калибровке Мифика?",
+            "10 матчей. В них победа даёт две звезды, а поражение звёзд не снимает, поэтому за калибровку можно набрать до 10 звёзд."
+          ],
+          [
+            "Сколько матчей нужно, чтобы поднять Мифическую славу до Бессмертного?",
+            "Это 50 звёзд. При 55% побед — около 290 матчей, при 52% — около 420. Точную оценку под ваш процент побед покажет калькулятор на этой странице."
+          ]
+        ]
+      ],
+      "en": [
+        "Mobile Legends ranks in order: stars, Mythic and match calculator | MLBB Boost",
+        "All 10 MLBB ranks from Warrior to Mythical Immortal: stars per rank, Mythic thresholds, placement and a calculator for how many matches you need to reach your goal.",
+        "<h1>Mobile Legends ranks in order and match calculator</h1>\n<p class=\"seo-lead\">Mobile Legends: Bang Bang has 10 ranks: Warrior, Elite, Master, Grandmaster, Epic, Legend, Mythic, Mythical Honor, Mythical Glory and Mythical Immortal. You need 112 stars to reach Mythic. After that there are no divisions: Honor starts at 25 stars, Glory at 50 and Immortal at 100.</p>\n<section class=\"rank-tool\" id=\"rank-tool\" aria-labelledby=\"rank-tool-title\">{{priceData}}<h2 id=\"rank-tool-title\">Calculator: how many matches to your goal</h2>\n<p>Choose your current rank and your goal. You will see the stars left, how many matches that takes at your win rate and what a boost of the same route costs.</p>\n<form class=\"rank-tool-form\" novalidate>\n<fieldset><legend>Now</legend><label>Rank<select name=\"from\" data-rank-select></select></label><label>Stars<input name=\"fromStars\" type=\"number\" inputmode=\"numeric\" min=\"0\" value=\"1\"></label></fieldset>\n<fieldset><legend>Goal</legend><label>Rank<select name=\"to\" data-rank-select></select></label><label>Stars<input name=\"toStars\" type=\"number\" inputmode=\"numeric\" min=\"0\" value=\"0\"></label></fieldset>\n<fieldset class=\"rank-tool-wide\"><legend>Your games</legend><label>Win rate: <output name=\"wrOut\">52%</output><input name=\"wr\" type=\"range\" min=\"45\" max=\"70\" step=\"1\" value=\"52\"></label><label>Matches per day<input name=\"perDay\" type=\"number\" inputmode=\"numeric\" min=\"1\" max=\"60\" value=\"8\"></label><label class=\"rank-tool-check\"><input name=\"placementDone\" type=\"checkbox\"> Mythic placement already finished</label></fieldset>\n</form>\n<div class=\"rank-tool-result\" aria-live=\"polite\" hidden>\n<dl class=\"rank-tool-stats\"><div><dt>Stars to goal</dt><dd data-out=\"stars\">—</dd></div><div><dt>Matches on your own</dt><dd data-out=\"matches\">—</dd></div><div><dt>Days of play</dt><dd data-out=\"days\">—</dd></div><div><dt>Boost for this route</dt><dd data-out=\"price\">—</dd></div></dl>\n<p class=\"rank-tool-note\" data-out=\"note\"></p>\n<div class=\"rank-tool-actions\"><a class=\"rank-tool-primary\" data-out=\"order\" href=\"/order.html\">Exact price in the calculator</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Order in Telegram</a></div>\n</div>\n<p class=\"rank-tool-error\" data-out=\"error\" hidden></p>\n<noscript><p>The calculator needs JavaScript. The rank table and examples below work without it.</p></noscript>\n</section>\n<h2>Rank table: how many stars each rank has</h2>\n<p>A ranked win adds a star and a loss removes one. When a division is full, the next win moves you to the next division. The road from Warrior III to Mythic is 112 stars, most of them in Grandmaster, Epic and Legend with 25 each.</p>\n<div class=\"seo-table-wrap\"><table class=\"seo-table\"><caption>Mobile Legends ranks in order</caption><thead><tr><th scope=\"col\">Rank</th><th scope=\"col\">Divisions</th><th scope=\"col\">Stars per division</th><th scope=\"col\">Stars in rank</th><th scope=\"col\">Total by the end of rank</th></tr></thead><tbody>\n<tr><th scope=\"row\">1. Warrior</th><td>III–I</td><td>3</td><td>9</td><td>9</td></tr>\n<tr><th scope=\"row\">2. Elite</th><td>III–I</td><td>4</td><td>12</td><td>21</td></tr>\n<tr><th scope=\"row\">3. Master</th><td>IV–I</td><td>4</td><td>16</td><td>37</td></tr>\n<tr><th scope=\"row\">4. Grandmaster</th><td>V–I</td><td>5</td><td>25</td><td>62</td></tr>\n<tr><th scope=\"row\">5. Epic</th><td>V–I</td><td>5</td><td>25</td><td>87</td></tr>\n<tr><th scope=\"row\">6. Legend</th><td>V–I</td><td>5</td><td>25</td><td>112</td></tr>\n<tr><th scope=\"row\">7. Mythic</th><td>—</td><td>—</td><td>0–24</td><td>after Legend I</td></tr>\n<tr><th scope=\"row\">8. Mythical Honor</th><td>—</td><td>—</td><td>25–49</td><td>from 25 Mythic stars</td></tr>\n<tr><th scope=\"row\">9. Mythical Glory</th><td>—</td><td>—</td><td>50–99</td><td>from 50 stars</td></tr>\n<tr><th scope=\"row\">10. Mythical Immortal</th><td>—</td><td>—</td><td>100+</td><td>from 100 stars, no upper limit</td></tr>\n</tbody></table></div>\n<h2>How stars work in Mythic</h2>\n<p>Mythic starts after Legend I. Stars accumulate without divisions and the rank name changes at thresholds: 25 stars is Mythical Honor, 50 is Mythical Glory and 100 is Mythical Immortal. The count continues past 100 without a cap, so orders such as Immortal 100 → 150 are common.</p>\n<p>The first Mythic matches are placement: 10 games where a win gives two stars and a loss removes none. Read more in the <a href=\"/guides/mythic-placement.html\">Mythic placement guide</a>.</p>\n<h2>Star protection and star raising points</h2>\n<p>From Epic upward a loss sometimes triggers star protection and no star is removed. The calculator assumes this happens about once in six losses. In Epic and Legend star raising points also build up: good matches fill a bar that grants an extra star roughly every 35–50 games. Moonton does not publish exact figures, so these are estimates rather than game rules.</p>\n<h2>How many matches it takes to reach Mythic and above</h2>\n<p>Win rate matters most. At 50% wins each Mythic star costs about 12 matches, at 55% about 6 and at 60% about 4. A couple of percent turns a hundred matches into three hundred.</p>\n<div class=\"seo-table-wrap\"><table class=\"seo-table\"><caption>Matches needed on your own (estimate from the calculator model)</caption><thead><tr><th scope=\"col\">Route</th><th scope=\"col\">Stars</th><th scope=\"col\">50% wins</th><th scope=\"col\">52%</th><th scope=\"col\">55%</th><th scope=\"col\">60%</th></tr></thead><tbody>\n<tr><th scope=\"row\">Epic V → Mythic</th><td>50</td><td>~470</td><td>~350</td><td>~250</td><td>~170</td></tr>\n<tr><th scope=\"row\">Legend V → Mythic</th><td>25</td><td>~240</td><td>~180</td><td>~130</td><td>~90</td></tr>\n<tr><th scope=\"row\">Mythic → Mythical Honor</th><td>25</td><td>~190</td><td>~140</td><td>~100</td><td>~70</td></tr>\n<tr><th scope=\"row\">Honor → Mythical Glory</th><td>25</td><td>~300</td><td>~210</td><td>~140</td><td>~90</td></tr>\n<tr><th scope=\"row\">Glory → Mythical Immortal</th><td>50</td><td>~600</td><td>~420</td><td>~290</td><td>~190</td></tr>\n</tbody></table></div>\n<p>The estimate includes double placement wins, star protection and star raising points. Below Epic the real road is usually shorter because stars are lost less often.</p>\n<h2>How long it takes our boosters</h2>\n<p>Across {{reviewCount}} published reviews and 2,289 completed orders since November 2025, the median time from start to finish is: Legend → Mythic about 5 hours (130 orders), Mythic → Mythical Honor about 6 hours (159), Honor → Glory about 8 hours (163), Glory → Immortal about 6.5 hours (179). This is active order time, not a promised deadline: it depends on the stars in the order and the queue.</p>\n<div class=\"seo-links\"><a href=\"/boost/mythic.html\">Mythic boost prices by rank</a><a href=\"/order.html\">Price calculator</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Place an order</a></div>",
+        [
+          [
+            "What are the Mobile Legends ranks in order?",
+            "Warrior, Elite, Master, Grandmaster, Epic, Legend, Mythic, Mythical Honor, Mythical Glory and Mythical Immortal — 10 ranks in total."
+          ],
+          [
+            "How many stars do you need to reach Mythic?",
+            "112 stars from Warrior III: 9 in Warrior, 12 in Elite, 16 in Master and 25 each in Grandmaster, Epic and Legend."
+          ],
+          [
+            "How many stars are Mythical Glory and Immortal?",
+            "Mythical Glory starts at 50 Mythic stars and Mythical Immortal at 100. Mythical Honor starts at 25."
+          ],
+          [
+            "How many matches are in Mythic placement?",
+            "10 matches. A win gives two stars and a loss removes none, so placement can add up to 10 stars."
+          ],
+          [
+            "How many matches does it take to go from Mythical Glory to Immortal?",
+            "That is 50 stars. At a 55% win rate it is about 290 matches, at 52% about 420. The calculator on this page estimates it for your own win rate."
+          ]
+        ]
+      ]
+    },
+    {
+      "file": "boost/mythic.html",
+      "kind": "service",
+      "published": "2026-11-22",
+      "updated": "2026-11-22",
+      "wide": true,
+      "priceType": "standard",
+      "priceCategories": [
+        "mythic",
+        "honor",
+        "glory",
+        "immortal"
+      ],
+      "ru": [
+        "Буст Мифика MLBB: цены на Честь, Славу и Бессмертного | MLBB Boost",
+        "Буст Мифика в Mobile Legends: цены за звезду Мифика, Мифической чести, славы и бессмертного во всех форматах, примеры маршрутов и реальное время выполнения заказов.",
+        "<h1>Буст Мифика в Mobile Legends: Честь, Слава и Бессмертный</h1>\n<p class=\"seo-lead\">Буст Мифика — это набор звёзд от входа в Мифик до Мифической чести, славы или бессмертного. Стоимость считается за звезду: в обычном бусте от {{mythicFrom}} за звезду Мифика, в Бессмертном — {{immortalStd}}. Ниже — тарифы всех форматов, примеры маршрутов и реальное время выполнения.</p>\n<h2>Цены буста Мифика за звезду</h2>\n<p>Тариф зависит от ранга, на котором набирается звезда, и формата: обычный буст со входом, на выбранной роли, на герое или совместная игра в пати. Таблица обновляется из того же прайса, что и <a href=\"/prices.html\">страница цен</a>, по состоянию на {{checkedDate}}.</p>\n{{prices:mythic_calibration,mythic,honor,glory,immortal}}\n<h2>Сколько стоит маршрут целиком</h2>\n<p>Цена маршрута — это звёзды каждого ранга, умноженные на его тариф. Скидка первого заказа и надбавки подтверждаются в боте перед оплатой.</p>\n{{routes}}\n<h2>Какие заказы делают чаще всего</h2>\n<p>Мифические ранги — основная часть работы сервиса. Из 2 289 выполненных заказов с ноября 2025 года больше всего — внутри Мифического бессмертного (569 заказов, медиана 1 620 ₽) и Мифической славы (343). Медианное время выполнения: Мифик → Честь — около 6 часов, Честь → Слава — около 8, Слава → Бессмертный — около 6,5, добор звёзд внутри Бессмертного — около 4,5 часа.</p>\n<h2>Как выбрать формат</h2>\n<ul><li><strong>Обычный буст</strong> — самый дешёвый: бустер играет на вашем аккаунте любыми героями.</li><li><strong>На роли</strong> — бустер играет только на выбранной роли, чтобы не ломать статистику по ролям.</li><li><strong>На герое</strong> — весь путь на одном герое: растут звёзды и рейтинг этого героя. Подробнее — <a href=\"/boost/hero.html\">буст на герое</a>.</li><li><strong>В пати</strong> — вы играете сами вместе с бустером и не передаёте аккаунт. Сравнение — в <a href=\"/guides/party-boost.html\">гайде по пати</a>.</li></ul>\n<h2>Если вы ещё в Легенде</h2>\n<p>Вход в Мифик — это 25 звёзд Легенды от Легенды V. После входа начинается калибровка: 10 матчей с двойными победами. Её можно заказать отдельно, тариф указан за победу. Как указать калибровку в калькуляторе — в <a href=\"/guides/mythic-placement.html\">гайде по калибровке</a>. Сколько матчей займёт путь самому — в <a href=\"/guides/mlbb-ranks.html\">калькуляторе матчей</a>.</p>\n<div class=\"seo-links\"><a href=\"/order.html?type=standard\">Рассчитать буст Мифика</a><a href=\"/reviews.html\">Отзывы клиентов</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Оформить в Telegram</a></div>",
+        [
+          [
+            "Сколько стоит буст Мифической славы до Бессмертного?",
+            "Это 50 звёзд Славы. В обычном бусте — {{gloryRouteStd}}, на герое — {{gloryRouteHero}}, в пати — {{gloryRouteParty}} по базовому тарифу. Итог с вашей скидкой покажет калькулятор."
+          ],
+          [
+            "Сколько длится буст Мифика?",
+            "По выполненным заказам медиана — от 4,5 до 8 часов на заказ в зависимости от ранга и числа звёзд. Время начала согласуется в боте."
+          ],
+          [
+            "Можно ли заказать звёзды внутри Бессмертного?",
+            "Да. После 100 звёзд счёт не ограничен, и самый частый заказ сервиса — добор звёзд внутри Мифического бессмертного."
+          ],
+          [
+            "Нужно ли передавать аккаунт?",
+            "Для обычного буста, роли и героя — да, нужен вход в игровой аккаунт, доступ к почте не нужен. В пати вы играете сами и аккаунт не передаёте."
+          ],
+          [
+            "Чем буст Мифика отличается от калибровки?",
+            "Калибровка — первые 10 матчей Мифика с двойными победами, её тариф указан за победу. Буст Мифика — набор звёзд после неё, тариф за звезду."
+          ]
+        ]
+      ],
+      "en": [
+        "MLBB Mythic boost: Honor, Glory and Immortal prices | MLBB Boost",
+        "Mythic boost in Mobile Legends: per-star prices for Mythic, Mythical Honor, Glory and Immortal in every format, route examples and real order completion times.",
+        "<h1>Mythic boost in Mobile Legends: Honor, Glory and Immortal</h1>\n<p class=\"seo-lead\">A Mythic boost adds stars from your Mythic entry up to Mythical Honor, Glory or Immortal. It is priced per star: an account boost starts at {{mythicFrom}} per Mythic star, and Immortal stars cost {{immortalStd}}. Below are the rates for every format, route examples and real completion times.</p>\n<h2>Mythic boost price per star</h2>\n<p>The rate depends on the rank where the star is earned and on the format: account boost, a chosen role, a chosen hero or playing together in a party. The table uses the same price list as the <a href=\"/prices.html\">prices page</a>, as of {{checkedDate}}.</p>\n{{prices:mythic_calibration,mythic,honor,glory,immortal}}\n<h2>What a full route costs</h2>\n<p>A route price is the stars of each rank multiplied by its rate. The first-order discount and any markups are confirmed in the bot before payment.</p>\n{{routes}}\n<h2>The most common orders</h2>\n<p>Mythic ranks are most of the work. Out of 2,289 orders completed since November 2025, the largest groups are inside Mythical Immortal (569 orders, median 1,620 ₽) and Mythical Glory (343). Median completion time: Mythic → Honor about 6 hours, Honor → Glory about 8, Glory → Immortal about 6.5, and extra stars inside Immortal about 4.5 hours.</p>\n<h2>How to choose a format</h2>\n<ul><li><strong>Account boost</strong> — the cheapest: the booster plays your account with any heroes.</li><li><strong>Role</strong> — the booster plays only your chosen role so your role statistics stay clean.</li><li><strong>Hero</strong> — the whole route on one hero, raising both stars and that hero’s rating. See <a href=\"/boost/hero.html\">hero boost</a>.</li><li><strong>Party</strong> — you play together with the booster and keep your account. Compare in the <a href=\"/guides/party-boost.html\">party guide</a>.</li></ul>\n<h2>If you are still in Legend</h2>\n<p>Getting into Mythic takes 25 Legend stars from Legend V. Placement follows: 10 matches with double wins. It can be ordered separately and is priced per win. See how to enter placement in the calculator in the <a href=\"/guides/mythic-placement.html\">placement guide</a>, and how many matches the route takes on your own in the <a href=\"/guides/mlbb-ranks.html\">match calculator</a>.</p>\n<div class=\"seo-links\"><a href=\"/order.html?type=standard\">Calculate a Mythic boost</a><a href=\"/reviews.html\">Customer reviews</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Order in Telegram</a></div>",
+        [
+          [
+            "How much is a boost from Mythical Glory to Immortal?",
+            "That is 50 Glory stars: {{gloryRouteStd}} for an account boost, {{gloryRouteHero}} on a hero and {{gloryRouteParty}} in a party at the base rate. The calculator shows the total with your discount."
+          ],
+          [
+            "How long does a Mythic boost take?",
+            "Across completed orders the median is 4.5 to 8 hours per order depending on the rank and the number of stars. The start time is agreed in the bot."
+          ],
+          [
+            "Can I order stars inside Immortal?",
+            "Yes. The count has no cap after 100 stars, and extra stars inside Mythical Immortal are the most common order."
+          ],
+          [
+            "Do I have to share my account?",
+            "For account, role and hero boosts the booster needs to log in to the game account; email access is not required. In a party you play yourself and keep the account."
+          ],
+          [
+            "How is a Mythic boost different from placement?",
+            "Placement is the first 10 Mythic matches with double wins and is priced per win. A Mythic boost adds stars after it and is priced per star."
+          ]
+        ]
+      ]
+    },
+    {
+      "file": "boost/hero.html",
+      "kind": "service",
+      "published": "2026-11-22",
+      "updated": "2026-11-22",
+      "wide": true,
+      "priceType": "hero",
+      "ru": [
+        "Буст на герое Mobile Legends: цены и рейтинг героя | MLBB Boost",
+        "Буст MLBB на выбранном герое: бустер поднимает ранг только вашим героем. Цены за звезду по рангам, популярные герои, сроки по реальным заказам и оформление в Telegram.",
+        "<h1>Буст на герое Mobile Legends: ранг и рейтинг вашего героя</h1>\n<p class=\"seo-lead\">Буст на герое — рейтинговый маршрут, который бустер проходит только на выбранном вами герое. Растут звёзды аккаунта и рейтинг этого героя, а статистика остаётся «на мейне». Цена — от {{heroFrom}} за звезду, в Мифических рангах — {{heroMythic}}–{{heroImmortal}}.</p>\n<h2>Цены буста на герое</h2>\n<p>Тариф считается за звезду и зависит от ранга. Цены обновляются из общего прайса, по состоянию на {{checkedDate}}; рядом для сравнения — обычный буст и роль.</p>\n{{prices:all}}\n<h2>Примеры маршрутов на герое</h2>\n{{routes:hero}}\n<h2>Самый популярный формат сервиса</h2>\n<p>С ноября 2025 года выполнено 816 заказов на герое — больше, чем любого другого формата. Заказывали 182 разных героя. Чаще всего: Ангела (51 заказ), Селена (34), Люнокс (30), Хаябуса и Фанни (по 23), Харли (22), Чу (21), Кармилла и Леоморд (по 20), Ксавьер и Валентина (по 18). Медианное время выполнения заказа — около 6 часов.</p>\n<h2>Как проходит заказ</h2>\n<ul><li>Укажите героя, текущий ранг и цель в <a href=\"/order.html?type=hero\">калькуляторе</a> — он покажет стоимость.</li><li>В Telegram-боте подтвердите заказ и время начала. Герой должен быть на аккаунте.</li><li>Бустер играет только этим героем; ход буста можно смотреть в боте.</li></ul>\n<p>Место в топе героя по серверу или стране не гарантируется: рейтинг героя зависит от результатов матчей и правил игры. Перед передачей аккаунта прочитайте <a href=\"/security.html\">рекомендации по безопасности</a>.</p>\n<h2>Герой, роль или обычный буст</h2>\n<p>Если важен только ранг — обычный буст дешевле. Если не хотите портить статистику роли — <a href=\"/services.html\">буст на роли</a>. Если нужен рейтинг конкретного героя — этот формат. Для звёзд в Мифической славе и Бессмертном сравните форматы на странице <a href=\"/boost/mythic.html\">буста Мифика</a>.</p>\n<div class=\"seo-links\"><a href=\"/order.html?type=hero\">Рассчитать буст на герое</a><a href=\"/reviews.html\">Отзывы клиентов</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Оформить в Telegram</a></div>",
+        [
+          [
+            "Что такое буст на герое в MLBB?",
+            "Бустер поднимает ранг вашего аккаунта, играя только выбранным героем. Вместе со звёздами растёт рейтинг этого героя."
+          ],
+          [
+            "Сколько стоит буст на герое?",
+            "От {{heroFrom}} за звезду на низких рангах до {{heroImmortal}} за звезду в Мифическом бессмертном. Точную сумму маршрута покажет калькулятор."
+          ],
+          [
+            "На каких героях можно заказать буст?",
+            "На любом герое, который есть на аккаунте. За год заказывали 182 разных героя; чаще всего — Ангелу, Селену и Люнокс."
+          ],
+          [
+            "Гарантируется ли место в топе героя?",
+            "Нет. Рейтинг героя зависит от результатов матчей и правил игры, поэтому место в топе сервера или страны не обещаем."
+          ],
+          [
+            "Чем буст на герое отличается от буста на роли?",
+            "На роли бустер может брать разных героев одной роли. На герое весь путь проходит одним выбранным героем."
+          ]
+        ]
+      ],
+      "en": [
+        "Mobile Legends hero boost: prices and hero rating | MLBB Boost",
+        "MLBB boost on your chosen hero: the booster raises your rank playing only that hero. Per-star prices by rank, popular heroes, real completion times and Telegram ordering.",
+        "<h1>Hero boost in Mobile Legends: rank and hero rating</h1>\n<p class=\"seo-lead\">A hero boost is a ranked route that the booster plays only on the hero you choose. Your account stars and that hero’s rating grow while your statistics stay on your main. Prices start at {{heroFrom}} per star; Mythic ranks cost {{heroMythic}}–{{heroImmortal}}.</p>\n<h2>Hero boost prices</h2>\n<p>The rate is per star and depends on the rank. Prices come from the main price list as of {{checkedDate}}; account and role rates are shown for comparison.</p>\n{{prices:all}}\n<h2>Hero route examples</h2>\n{{routes:hero}}\n<h2>Our most popular format</h2>\n<p>Since November 2025 we have completed 816 hero orders — more than any other format — on 182 different heroes. The most ordered: Angela (51 orders), Selena (34), Lunox (30), Hayabusa and Fanny (23 each), Harley (22), Chou (21), Carmilla and Leomord (20 each), Xavier and Valentina (18 each). The median order takes about 6 hours.</p>\n<h2>How an order works</h2>\n<ul><li>Enter the hero, your rank and your goal in the <a href=\"/order.html?type=hero\">calculator</a> to see the price.</li><li>Confirm the order and start time in the Telegram bot. The hero must be on the account.</li><li>The booster plays only that hero; you can follow progress in the bot.</li></ul>\n<p>A place in the hero leaderboard for a server or country is not guaranteed: hero rating depends on match results and game rules. Read the <a href=\"/security.html\">security recommendations</a> before sharing an account.</p>\n<h2>Hero, role or account boost</h2>\n<p>If only the rank matters, an account boost is cheaper. If you want to keep role statistics clean, choose a <a href=\"/services.html\">role boost</a>. If you need a specific hero’s rating, choose this format. For Mythical Glory and Immortal stars, compare formats on the <a href=\"/boost/mythic.html\">Mythic boost</a> page.</p>\n<div class=\"seo-links\"><a href=\"/order.html?type=hero\">Calculate a hero boost</a><a href=\"/reviews.html\">Customer reviews</a><a href=\"https://t.me/cla1ve_boost_bot?start=site\">Order in Telegram</a></div>",
+        [
+          [
+            "What is a hero boost in MLBB?",
+            "The booster raises your account rank playing only the hero you choose. That hero’s rating grows together with the stars."
+          ],
+          [
+            "How much does a hero boost cost?",
+            "From {{heroFrom}} per star in low ranks to {{heroImmortal}} per star in Mythical Immortal. The calculator shows the exact route price."
+          ],
+          [
+            "Which heroes can be boosted?",
+            "Any hero on the account. Over the year customers ordered 182 different heroes; Angela, Selena and Lunox most often."
+          ],
+          [
+            "Is a hero leaderboard place guaranteed?",
+            "No. Hero rating depends on match results and game rules, so a server or country leaderboard place is not promised."
+          ],
+          [
+            "How is a hero boost different from a role boost?",
+            "In a role boost the booster may use different heroes of one role. In a hero boost the whole route is played on one chosen hero."
+          ]
+        ]
       ]
     }
-  ]
+  ],
+  "related": {
+    "services.html": {
+      "ru": "<section class=\"seo-section\"><div class=\"container\"><h2>Подробнее о форматах и рангах</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Буст Мифика</strong><span>Цены на Честь, Славу и Бессмертного</span></a><a href=\"/boost/hero.html\"><strong>Буст на герое</strong><span>Ранг и рейтинг выбранного героя</span></a><a href=\"/guides/mlbb-ranks.html\"><strong>Калькулятор матчей</strong><span>Сколько играть самому до цели</span></a><a href=\"/guides/mythic-placement.html\"><strong>Калибровка Мифика</strong><span>10 матчей и двойные победы</span></a></div></div></section>",
+      "en": "<section class=\"seo-section\"><div class=\"container\"><h2>More about formats and ranks</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Mythic boost</strong><span>Honor, Glory and Immortal prices</span></a><a href=\"/boost/hero.html\"><strong>Hero boost</strong><span>Rank and rating of your hero</span></a><a href=\"/guides/mlbb-ranks.html\"><strong>Match calculator</strong><span>How long the route takes on your own</span></a><a href=\"/guides/mythic-placement.html\"><strong>Mythic placement</strong><span>10 matches and double wins</span></a></div></div></section>"
+    },
+    "prices.html": {
+      "ru": "<section class=\"seo-section\"><div class=\"container\"><h2>Цены по рангам и форматам</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Буст Мифика</strong><span>Примеры маршрутов до Славы и Бессмертного</span></a><a href=\"/boost/hero.html\"><strong>Буст на герое</strong><span>Тарифы на выбранном герое</span></a><a href=\"/guides/mlbb-ranks.html\"><strong>Сколько матчей самому</strong><span>Сравните цену с временем игры</span></a></div></div></section>",
+      "en": "<section class=\"seo-section\"><div class=\"container\"><h2>Prices by rank and format</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Mythic boost</strong><span>Route examples to Glory and Immortal</span></a><a href=\"/boost/hero.html\"><strong>Hero boost</strong><span>Rates on your chosen hero</span></a><a href=\"/guides/mlbb-ranks.html\"><strong>Matches on your own</strong><span>Compare the price with play time</span></a></div></div></section>"
+    },
+    "faq.html": {
+      "ru": "<section class=\"seo-section\"><div class=\"container\"><h2>Гайды по рангам</h2><div class=\"seo-cards\"><a href=\"/guides/mlbb-ranks.html\"><strong>Ранги по порядку</strong><span>Звёзды, пороги Мифика и калькулятор матчей</span></a><a href=\"/guides/mythic-placement.html\"><strong>Калибровка Мифика</strong><span>Как работают 10 матчей</span></a><a href=\"/guides/party-boost.html\"><strong>Пати или обычный буст</strong><span>Какой формат выбрать</span></a></div></div></section>",
+      "en": "<section class=\"seo-section\"><div class=\"container\"><h2>Rank guides</h2><div class=\"seo-cards\"><a href=\"/guides/mlbb-ranks.html\"><strong>Ranks in order</strong><span>Stars, Mythic thresholds and match calculator</span></a><a href=\"/guides/mythic-placement.html\"><strong>Mythic placement</strong><span>How the 10 matches work</span></a><a href=\"/guides/party-boost.html\"><strong>Party or account boost</strong><span>Which format to choose</span></a></div></div></section>"
+    }
+  }
 }
