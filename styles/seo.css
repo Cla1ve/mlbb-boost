@@ -233,3 +233,8 @@ a.lp-card::after { content: '→'; position: absolute; right: 18px; top: 50%; tr
 .review-card blockquote { flex: 1; }
 .review-card__route { font-size: .92rem !important; }
 @media (max-width: 560px) { .lp-callout { flex-direction: column; align-items: flex-start; } }
+
+/* Phones: no empty band between the header and the breadcrumbs on landings. */
+@media (max-width: 768px) {
+  .lp-page .lp-hero { padding-top: 24px; }
+}

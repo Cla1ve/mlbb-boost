@@ -1446,7 +1446,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=12">
+  <link rel="stylesheet" href="/styles/news.css?v=13">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">`;
 }

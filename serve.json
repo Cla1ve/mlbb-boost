@@ -157,6 +157,22 @@
     {
       "source": "/en/news/mlbb-change-nickname",
       "destination": "/en/news/mlbb-change-nickname/index.html"
+    },
+    {
+      "source": "/heroes/",
+      "destination": "/heroes/index.html"
+    },
+    {
+      "source": "/heroes",
+      "destination": "/heroes/index.html"
+    },
+    {
+      "source": "/en/heroes/",
+      "destination": "/en/heroes/index.html"
+    },
+    {
+      "source": "/en/heroes",
+      "destination": "/en/heroes/index.html"
     }
   ]
 }

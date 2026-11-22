@@ -2433,3 +2433,35 @@ body:has(.article-content) { background: #0b1a2b; }
 @media (max-width: 560px) { .hero-tiers__row { grid-template-columns: 58px minmax(0, 1fr); } .hero-tiers__tier strong { font-size: 1.5rem; } .hero-tiers__list { grid-template-columns: repeat(auto-fill, minmax(64px, 1fr)); } .hero-tiers__list img { width: 48px; height: 48px; } }
 .hero-tiers__list a { display: flex; flex-direction: column; align-items: center; gap: 3px; color: inherit; text-decoration: none; }
 .hero-tiers__list a:hover .hero-tiers__name, .hero-tiers__list a:focus-visible .hero-tiers__name { color: #00ff9d; }
+
+/* Compact table cards on phones (2026-11-22): the first cell is the card title,
+   the rest sit two per line instead of one tall stack. */
+@media (max-width: 800px) {
+  .article-table-wrap table,
+  .article-table-wrap--cols-3 table { min-width: 0; }
+  .article-table-wrap tbody tr,
+  .article-table-wrap--cols-2 tbody tr,
+  .article-table-wrap--cols-4 tbody tr { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .article-table-wrap tbody tr > *,
+  .article-table-wrap--cols-4 tbody tr > * {
+    grid-column: auto;
+    padding: 0.55rem 0.85rem;
+    border-top: 0;
+    font-size: 0.9rem;
+    line-height: 1.42;
+    background: none !important;
+  }
+  .article-table-wrap tbody tr > :last-child { grid-column: auto; }
+  .article-table-wrap tbody tr > :first-child,
+  .article-table-wrap--cols-2 tbody tr > :nth-child(n),
+  .article-table-wrap--cols-4 tbody tr > :last-child:nth-child(even) { grid-column: 1 / -1; }
+  .article-table-wrap tbody tr > :first-child {
+    padding-top: 0.75rem;
+    font-weight: 750;
+    font-size: 0.98rem;
+    color: #fff;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .article-table-wrap tbody tr > :last-child { padding-bottom: 0.75rem; }
+  .article-table-wrap tbody th { min-width: 0; }
+}
