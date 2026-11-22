@@ -381,7 +381,7 @@
 
 .home-news-card__media img {
   object-fit: cover;
-  object-position: left center;
+  object-position: center;
   transition: transform 550ms cubic-bezier(0.2, 0.75, 0.25, 1);
 }
 

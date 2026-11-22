@@ -111,15 +111,15 @@ VPN защита, никаких банов за всю историю рабо�
 
 [Все отзывы](https://boostmlbb.ru/reviews.html) [Канал отзывов](https://t.me/cla1ve_boost)
 
- [![Официальная форма ввода промокода: Redemption code, Game ID, Zone ID и код подтверждения](/images/news/mlbb-redeem-codes-guide.jpg)
+ [![Табло финала MSC 2026: Team Spirit обыграла Yangon Galacticos 4:3, путь чемпиона 3:0, 3:0 и 4:3](/images/news/msc-2026-playoff-schedule.jpg)
 
 Свежий материал
 
-## Промокоды MLBB: куда вводить и почему код не работает
+## MSC 2026 завершён: Team Spirit — чемпион, все результаты плей-офф
 
-Пошаговый ввод промокода на официальной странице MOONTON, где взять Game ID и Zone ID, почему код не срабатывает и как отличить мошеннический сайт.
+Team Spirit стала первым неазиатским чемпионом MSC после финала 4:3 с Yangon Galacticos. Здесь — все восемь серий плей-офф, призовые, MVP и зрительские итоги.
 
-Открыть новость](https://boostmlbb.ru/news/mlbb-redeem-codes-guide/)
+Открыть новость](https://boostmlbb.ru/news/msc-2026-playoff-schedule/)
 
 Бонус
 

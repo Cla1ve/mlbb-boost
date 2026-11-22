@@ -6,7 +6,152 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 19:33:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:03:00 GMT</lastBuildDate>
+    <item>
+      <title>How to change your MLBB nickname: price, invisible name, symbols</title>
+      <link>https://boostmlbb.ru/en/news/mlbb-change-nickname/</link>
+      <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-change-nickname/</guid>
+      <description>We change the name in the profile, sort out the card price, build a blank nickname from Unicode characters and check that the game accepts it.</description>
+      <dc:creator>Boost MLBB Editorial Team</dc:creator>
+      <category>Guides</category>
+      <pubDate>Sun, 22 Nov 2026 20:03:00 GMT</pubDate>
+      <yandex:genre>article</yandex:genre>
+      <yandex:full-text>In brief
+
+You change your nickname in the profile: tap the avatar in the top-left corner, then your name.
+
+On a new account the first change is free. After that you need a Rename Card.
+
+The card costs diamonds. Guides quote 239 and 299 diamonds, so check the exact price in the shop.
+
+A blank nickname is built from invisible Unicode characters, but the game may reject them.
+
+Your Mobile Legends nickname is seen by teammates on the loading screen, by opponents after the match and by anyone who opens your profile. Changing it takes a couple of taps, but only once for free. Here is where the rename button is, what the card costs, how to make an invisible nickname and why a symbol from a generator may be refused.
+
+How to change your nickname: step by step
+
+In the main menu, tap your avatar in the top-left corner. Your profile opens.
+
+Tap your current nickname or the pencil icon next to it.
+
+Type the new name. If it has symbols, put it together in your notes first and paste it in one go.
+
+Tap OK. If you have not used the free change yet, the name changes without a card.
+
+If the free change is gone, the game asks for a Rename Card. A card you bought can also be used from the backpack: find it among your items and tap Use.
+
+Rank, stars, heroes, skins and statistics stay where they were after a rename. The account is identified by Game ID and Zone ID, not by the nickname, so your friends stay too: they simply see the new name.
+
+How much a nickname change costs
+
+Ways to change your nickname and their price
+
+We found no official MOONTON price list. The figures come from guides by ONE Esports (May 2025) and aesthetic.name (October 2026).
+
+Way
+
+Price
+
+Condition
+
+First change
+
+Free
+
+Once per account, if you have never renamed
+
+Rename Card from the shop
+
+239 or 299 diamonds according to guides
+
+The exact price is shown in the shop before you buy
+
+Season first top-up quest
+
+50 diamonds
+
+According to ONE Esports: top up three times on different days
+
+English guides find the card in the shop under the Special tab: ONE Esports gives the path Shop → Preparation → Special, aesthetic.name says Shop → Special → Items. MOONTON moves shop sections around from time to time, so it is quicker to open the shop and scroll through the item tabs.
+
+Settle on the nickname first and check that it is free. If the name is taken or a symbol is not supported, the game shows an error and the name stays the same. Fix the name and try again; you do not need a second card for that.
+
+Before you buy
+
+How to make an invisible nickname
+
+A blank name is not made with spaces but with characters that look empty while the game treats them as a letter or a sign. The two Unicode characters in the table below are the usual choice.
+
+Characters for an invisible nickname
+
+Copy what is inside the square brackets. On a phone it is easier to copy the character with the brackets, paste it into your notes and delete the brackets.
+
+Character
+
+Code
+
+What it is
+
+[ㅤ]
+
+U+3164
+
+Hangul Filler, an empty Korean letter
+
+[⠀]
+
+U+2800
+
+Braille Pattern Blank, an empty Braille sign
+
+Copy an empty character from the table.
+
+Open the rename window in your profile and delete the old nickname.
+
+Paste the character. If the game says the name is taken, add one or two more empty characters in a row or mix both kinds.
+
+Tap OK and open your profile: the name should look empty.
+
+There is no guarantee. The Indonesian outlet Katadata warned in November 2026 that not every blank character passes the check and that the rules can change with a game update. If one character is refused, try the other. Some players may see a box instead of an empty space.
+
+Symbols and stylish nicknames
+
+Besides Latin and Cyrillic letters, players often add hieroglyphs and decorative signs. Generator sites offer hundreds of options, but many of their &quot;fonts&quot; are made of rare Unicode characters: the game may refuse them or show boxes. One or two simple signs are the safer choice.
+
+Signs players often put in a nickname
+
+Paste the finished nickname into the rename field before buying a card. If a sign does not fit, the game tells you right away.
+
+Sign
+
+Example nickname
+
+ツ
+
+Shadowツ
+
+彡
+
+彡Shadow彡
+
+「 」
+
+「Shadow」
+
+★
+
+★Shadow★
+
+丶
+
+TAG丶Shadow, a team tag before the name
+
+MOONTON does not officially state how many characters a nickname can have. The aesthetic.name guide gives 4 to 16 characters and warns that some signs count as two. It also mentions a 7 days pause between renames. We have not checked this ourselves, so go by the message the game shows.</yandex:full-text>
+      <media:group>
+        <media:content url="https://boostmlbb.ru/images/news/mlbb-change-nickname.jpg" type="image/jpeg" medium="image" width="1600" height="900"/>
+        <media:thumbnail url="https://boostmlbb.ru/images/news/mlbb-change-nickname.jpg" width="1600" height="900"/>
+      </media:group>
+    </item>
     <item>
       <title>MLBB redeem codes: where to enter them and why a code fails</title>
       <link>https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/</link>

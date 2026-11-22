@@ -18,7 +18,7 @@
         "Результаты турнира"
       ],
       "datePublished": "2026-07-27T21:15:00+03:00",
-      "dateModified": "2026-11-22T19:43:45+03:00",
+      "dateModified": "2026-11-22T20:00:34+03:00",
       "hero": {
         "src": "/images/news/msc-2026-playoff-schedule.jpg",
         "width": 1600,
@@ -26,7 +26,7 @@
         "webpSrcset": "/images/news/msc-2026-playoff-schedule-768.webp 768w, /images/news/msc-2026-playoff-schedule-1200.webp 1200w, /images/news/msc-2026-playoff-schedule-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Табло финала MSC 2026: Team Spirit 4, Yangon Galacticos 3, Париж, 1 августа 2026",
+        "alt": "Табло финала MSC 2026: Team Spirit обыграла Yangon Galacticos 4:3, путь чемпиона 3:0, 3:0 и 4:3",
         "caption": "Иллюстрация Boost MLBB.",
         "provenance": {
           "type": "original",
@@ -321,7 +321,7 @@
             "Tournament Results"
           ],
           "hero": {
-            "alt": "MSC 2026 final scoreboard: Team Spirit 4, Yangon Galacticos 3, Paris, 1 August 2026",
+            "alt": "MSC 2026 final scoreboard: Team Spirit beat Yangon Galacticos 4:3, champion path 3:0, 3:0 and 4:3",
             "caption": "Boost MLBB illustration."
           },
           "blocks": [
@@ -4871,6 +4871,435 @@
             }
           ],
           "editorialNote": "The form fields and the verification code lifetime were checked on the official mobilelegends.com/redeem page on 22 November 2026. We do not publish or test specific codes."
+        }
+      }
+    },
+    {
+      "slug": "mlbb-change-nickname",
+      "status": "published",
+      "title": "Как сменить ник в MLBB: цена, невидимый ник и символы",
+      "seoTitle": "Как сменить ник в MLBB: цена и невидимый ник",
+      "description": "Как поменять ник в Mobile Legends: где кнопка, сколько стоит карточка смены имени, бесплатная первая смена, невидимый ник из пустых символов и знаки для красивого ника.",
+      "excerpt": "Меняем имя в профиле, разбираемся с ценой карточки, собираем пустой ник из символов Unicode и проверяем, что игра его примет.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Mobile Legends",
+        "Ник",
+        "Смена имени",
+        "Невидимый ник",
+        "Символы"
+      ],
+      "datePublished": "2026-11-22T23:03:00+03:00",
+      "dateModified": "2026-11-22T23:03:00+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-change-nickname.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-change-nickname-768.webp 768w, /images/news/mlbb-change-nickname-1200.webp 1200w, /images/news/mlbb-change-nickname-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Окно смены имени в Mobile Legends: новый ник со знаками 彡 и ツ, карточка смены имени и кнопка OK",
+        "caption": "Иллюстрация Boost MLBB. Иконка героя — MOONTON.",
+        "provenance": {
+          "type": "original",
+          "creator": "Boost MLBB",
+          "created": "2026-11-22",
+          "rights": "Original layout made by Boost MLBB; the hero icon is a MOONTON game asset used for editorial illustration."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Ник меняют в профиле: нажмите на аватар в левом верхнем углу, затем на своё имя.",
+            "На новом аккаунте первая смена бесплатная. Дальше нужна карточка смены имени (Rename Card).",
+            "Карточка продаётся за алмазы. Гайды называют 239 и 299 алмазов, так что точную цену смотрите в магазине.",
+            "Пустой ник собирают из невидимых символов Unicode, но игра может их отклонить."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ник в Mobile Legends видят союзники на экране загрузки, соперники в конце матча и все, кто открывает ваш профиль. Поменять его можно за пару касаний, но бесплатно это получится только один раз. Разберём, где кнопка смены имени, сколько стоит карточка, как сделать невидимый ник и почему знак из генератора может не пройти."
+        },
+        {
+          "type": "heading",
+          "id": "steps",
+          "text": "Как сменить ник: пошагово"
+        },
+        {
+          "type": "list",
+          "items": [
+            "В главном меню нажмите на аватар в левом верхнем углу. Откроется профиль.",
+            "Нажмите на текущий ник или на значок карандаша рядом с ним.",
+            "Введите новое имя. Если в нём есть символы, соберите ник заранее в заметках и вставьте целиком.",
+            "Нажмите «ОК». Если бесплатная смена ещё не использована, ник поменяется без карточки.",
+            "Если бесплатная смена уже потрачена, игра попросит карточку смены имени. Купленную карточку можно применить и из рюкзака: найдите её среди предметов и нажмите «Использовать»."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ранг, звёзды, герои, скины и статистика после смены имени остаются на месте. Аккаунт определяется по Game ID и Zone ID, а не по нику, поэтому друзья никуда не денутся: они просто увидят новое имя."
+        },
+        {
+          "type": "heading",
+          "id": "price",
+          "text": "Сколько стоит смена ника"
+        },
+        {
+          "type": "table",
+          "caption": "Способы сменить ник и их цена",
+          "headers": [
+            "Способ",
+            "Цена",
+            "Условие"
+          ],
+          "rows": [
+            [
+              "Первая смена",
+              "Бесплатно",
+              "Один раз на аккаунт, если ник ещё не меняли"
+            ],
+            [
+              "Карточка смены имени в магазине",
+              "239 или 299 алмазов по данным гайдов",
+              "Точная цена видна в магазине перед покупкой"
+            ],
+            [
+              "Задание первого пополнения сезона",
+              "50 алмазов",
+              "По данным ONE Esports: пополнить счёт три раза в разные дни"
+            ]
+          ],
+          "note": "Официальной таблицы цен MOONTON мы не нашли. Цифры взяты из гайдов ONE Esports (май 2025) и aesthetic.name (октябрь 2026)."
+        },
+        {
+          "type": "paragraph",
+          "text": "В английских гайдах карточку ищут в магазине на вкладке Special: ONE Esports описывает путь Shop → Preparation → Special, aesthetic.name пишет Shop → Special → Items. MOONTON время от времени переставляет разделы, поэтому проще открыть магазин и пролистать вкладки с предметами."
+        },
+        {
+          "type": "callout",
+          "label": "Перед покупкой",
+          "text": "Придумайте ник заранее и проверьте, свободен ли он. Если имя занято или символ не поддерживается, игра покажет ошибку и ник не сменится. Поправьте имя и попробуйте снова, вторая карточка для этого не нужна."
+        },
+        {
+          "type": "heading",
+          "id": "invisible",
+          "text": "Как сделать невидимый ник"
+        },
+        {
+          "type": "paragraph",
+          "text": "Для пустого имени берут не пробел, а символы, которые выглядят пустыми, но для игры считаются буквой или знаком. Чаще всего это два символа Unicode из таблицы ниже."
+        },
+        {
+          "type": "table",
+          "caption": "Символы для невидимого ника",
+          "headers": [
+            "Символ",
+            "Код",
+            "Что это"
+          ],
+          "rows": [
+            [
+              "[ㅤ]",
+              "U+3164",
+              "Hangul Filler, пустая корейская буква"
+            ],
+            [
+              "[⠀]",
+              "U+2800",
+              "Braille Pattern Blank, пустой знак шрифта Брайля"
+            ]
+          ],
+          "note": "Копируйте то, что внутри квадратных скобок. На телефоне удобнее скопировать символ вместе со скобками, вставить в заметки и удалить скобки."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Скопируйте пустой символ из таблицы.",
+            "Откройте смену имени в профиле и удалите старый ник.",
+            "Вставьте символ. Если игра пишет, что имя занято, добавьте ещё один или два пустых символа подряд или смешайте оба вида.",
+            "Нажмите «ОК» и откройте профиль: имя должно выглядеть пустым."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Гарантии тут нет. Индонезийское издание Katadata в ноябре 2026 года предупреждало, что не каждый пустой символ проходит проверку и что правила могут поменяться с обновлением игры. Если один символ не принимают, попробуйте второй. У части игроков вместо пустого места может показываться квадрат."
+        },
+        {
+          "type": "cta",
+          "id": "nick-rank",
+          "eyebrow": "Новый ник, новый ранг",
+          "title": "Узнайте цену буста до своей цели",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-invisible"
+        },
+        {
+          "type": "heading",
+          "id": "symbols",
+          "text": "Символы и красивые ники"
+        },
+        {
+          "type": "paragraph",
+          "text": "Кроме латиницы и кириллицы, в ник часто ставят иероглифы и декоративные знаки. Сайты-генераторы предлагают сотни вариантов, но многие их «шрифты» собраны из редких символов Unicode: игра может их не принять или показать квадратами. Надёжнее взять один или два простых знака."
+        },
+        {
+          "type": "table",
+          "caption": "Знаки, которые часто ставят в ник",
+          "headers": [
+            "Знак",
+            "Пример ника"
+          ],
+          "rows": [
+            [
+              "ツ",
+              "Shadowツ"
+            ],
+            [
+              "彡",
+              "彡Shadow彡"
+            ],
+            [
+              "「 」",
+              "「Shadow」"
+            ],
+            [
+              "★",
+              "★Shadow★"
+            ],
+            [
+              "丶",
+              "TAG丶Shadow, тег команды перед ником"
+            ]
+          ],
+          "note": "Вставьте готовый ник в поле смены имени до покупки карточки. Если знак не подходит, игра скажет об этом сразу."
+        },
+        {
+          "type": "paragraph",
+          "text": "Сколько символов можно вписать, MOONTON официально не указывает. Гайд aesthetic.name называет от 4 до 16 символов и предупреждает, что некоторые знаки считаются за два. Там же упомянута пауза в 7 дней между сменами имени. Сами мы это не проверяли, поэтому ориентируйтесь на сообщение игры."
+        }
+      ],
+      "sources": [
+        {
+          "title": "How to change your name in Mobile Legends: Bang Bang",
+          "publisher": "ONE Esports",
+          "url": "https://www.oneesports.gg/mobile-legends/how-to-change-your-name-mlbb/",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "How to Change Name in Mobile Legends (2026 Guide & Card Cost)",
+          "publisher": "aesthetic.name",
+          "url": "https://aesthetic.name/blog/how-to-change-mlbb-name/",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Nama ML Spasi Kosong Pendek dan Panjang, Bisa Copy Paste dan Cara Membuatnya",
+          "publisher": "Katadata",
+          "url": "https://katadata.co.id/lifestyle/varia/6afbe594c3537/nama-ml-spasi-kosong-pendek-dan-panjang-bisa-copy-paste-dan-cara-membuatnya",
+          "accessed": "2026-11-22"
+        }
+      ],
+      "editorialNote": "Шаги и цены сверены 22 ноября 2026 года по гайдам ONE Esports, aesthetic.name и Katadata. Официальной справки MOONTON о смене ника и цене карточки мы не нашли, поэтому цену проверяйте в игровом магазине.",
+      "translations": {
+        "en": {
+          "title": "How to change your MLBB nickname: price, invisible name, symbols",
+          "seoTitle": "How to change your MLBB name: price and invisible name",
+          "description": "How to change your Mobile Legends nickname: where the button is, what a Rename Card costs, the free first change, an invisible name and signs for a stylish name.",
+          "excerpt": "We change the name in the profile, sort out the card price, build a blank nickname from Unicode characters and check that the game accepts it.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Nickname",
+            "Rename",
+            "Invisible name",
+            "Symbols"
+          ],
+          "hero": {
+            "alt": "Mobile Legends rename window: a new nickname with the 彡 and ツ signs, a Rename Card and the OK button",
+            "caption": "Boost MLBB illustration. Hero icon: MOONTON."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "You change your nickname in the profile: tap the avatar in the top-left corner, then your name.",
+                "On a new account the first change is free. After that you need a Rename Card.",
+                "The card costs diamonds. Guides quote 239 and 299 diamonds, so check the exact price in the shop.",
+                "A blank nickname is built from invisible Unicode characters, but the game may reject them."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Your Mobile Legends nickname is seen by teammates on the loading screen, by opponents after the match and by anyone who opens your profile. Changing it takes a couple of taps, but only once for free. Here is where the rename button is, what the card costs, how to make an invisible nickname and why a symbol from a generator may be refused."
+            },
+            {
+              "type": "heading",
+              "id": "steps",
+              "text": "How to change your nickname: step by step"
+            },
+            {
+              "type": "list",
+              "items": [
+                "In the main menu, tap your avatar in the top-left corner. Your profile opens.",
+                "Tap your current nickname or the pencil icon next to it.",
+                "Type the new name. If it has symbols, put it together in your notes first and paste it in one go.",
+                "Tap OK. If you have not used the free change yet, the name changes without a card.",
+                "If the free change is gone, the game asks for a Rename Card. A card you bought can also be used from the backpack: find it among your items and tap Use."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Rank, stars, heroes, skins and statistics stay where they were after a rename. The account is identified by Game ID and Zone ID, not by the nickname, so your friends stay too: they simply see the new name."
+            },
+            {
+              "type": "heading",
+              "id": "price",
+              "text": "How much a nickname change costs"
+            },
+            {
+              "type": "table",
+              "caption": "Ways to change your nickname and their price",
+              "headers": [
+                "Way",
+                "Price",
+                "Condition"
+              ],
+              "rows": [
+                [
+                  "First change",
+                  "Free",
+                  "Once per account, if you have never renamed"
+                ],
+                [
+                  "Rename Card from the shop",
+                  "239 or 299 diamonds according to guides",
+                  "The exact price is shown in the shop before you buy"
+                ],
+                [
+                  "Season first top-up quest",
+                  "50 diamonds",
+                  "According to ONE Esports: top up three times on different days"
+                ]
+              ],
+              "note": "We found no official MOONTON price list. The figures come from guides by ONE Esports (May 2025) and aesthetic.name (October 2026)."
+            },
+            {
+              "type": "paragraph",
+              "text": "English guides find the card in the shop under the Special tab: ONE Esports gives the path Shop → Preparation → Special, aesthetic.name says Shop → Special → Items. MOONTON moves shop sections around from time to time, so it is quicker to open the shop and scroll through the item tabs."
+            },
+            {
+              "type": "callout",
+              "label": "Before you buy",
+              "text": "Settle on the nickname first and check that it is free. If the name is taken or a symbol is not supported, the game shows an error and the name stays the same. Fix the name and try again; you do not need a second card for that."
+            },
+            {
+              "type": "heading",
+              "id": "invisible",
+              "text": "How to make an invisible nickname"
+            },
+            {
+              "type": "paragraph",
+              "text": "A blank name is not made with spaces but with characters that look empty while the game treats them as a letter or a sign. The two Unicode characters in the table below are the usual choice."
+            },
+            {
+              "type": "table",
+              "caption": "Characters for an invisible nickname",
+              "headers": [
+                "Character",
+                "Code",
+                "What it is"
+              ],
+              "rows": [
+                [
+                  "[ㅤ]",
+                  "U+3164",
+                  "Hangul Filler, an empty Korean letter"
+                ],
+                [
+                  "[⠀]",
+                  "U+2800",
+                  "Braille Pattern Blank, an empty Braille sign"
+                ]
+              ],
+              "note": "Copy what is inside the square brackets. On a phone it is easier to copy the character with the brackets, paste it into your notes and delete the brackets."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Copy an empty character from the table.",
+                "Open the rename window in your profile and delete the old nickname.",
+                "Paste the character. If the game says the name is taken, add one or two more empty characters in a row or mix both kinds.",
+                "Tap OK and open your profile: the name should look empty."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "There is no guarantee. The Indonesian outlet Katadata warned in November 2026 that not every blank character passes the check and that the rules can change with a game update. If one character is refused, try the other. Some players may see a box instead of an empty space."
+            },
+            {
+              "type": "cta",
+              "id": "nick-rank",
+              "eyebrow": "New name, new rank",
+              "title": "Check the boost price to your goal",
+              "text": "Enter your current rank and goal — the calculator shows the price at once.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-invisible"
+            },
+            {
+              "type": "heading",
+              "id": "symbols",
+              "text": "Symbols and stylish nicknames"
+            },
+            {
+              "type": "paragraph",
+              "text": "Besides Latin and Cyrillic letters, players often add hieroglyphs and decorative signs. Generator sites offer hundreds of options, but many of their \"fonts\" are made of rare Unicode characters: the game may refuse them or show boxes. One or two simple signs are the safer choice."
+            },
+            {
+              "type": "table",
+              "caption": "Signs players often put in a nickname",
+              "headers": [
+                "Sign",
+                "Example nickname"
+              ],
+              "rows": [
+                [
+                  "ツ",
+                  "Shadowツ"
+                ],
+                [
+                  "彡",
+                  "彡Shadow彡"
+                ],
+                [
+                  "「 」",
+                  "「Shadow」"
+                ],
+                [
+                  "★",
+                  "★Shadow★"
+                ],
+                [
+                  "丶",
+                  "TAG丶Shadow, a team tag before the name"
+                ]
+              ],
+              "note": "Paste the finished nickname into the rename field before buying a card. If a sign does not fit, the game tells you right away."
+            },
+            {
+              "type": "paragraph",
+              "text": "MOONTON does not officially state how many characters a nickname can have. The aesthetic.name guide gives 4 to 16 characters and warns that some signs count as two. It also mentions a 7 days pause between renames. We have not checked this ourselves, so go by the message the game shows."
+            }
+          ],
+          "editorialNote": "Steps and prices were checked on 22 November 2026 against guides by ONE Esports, aesthetic.name and Katadata. We found no official MOONTON help page on renaming or the card price, so check the price in the in-game shop."
         }
       }
     }

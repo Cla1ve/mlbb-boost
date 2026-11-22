@@ -1693,7 +1693,7 @@ function renderBlock(block, locale = 'ru') {
     case 'keyFacts':
       return `
       <aside class="article-key-facts" aria-labelledby="${escapeHtml(block.id)}">
-        <p class="article-box-label">${escapeHtml(copy.short)}</p>
+        ${block.title.trim().toLowerCase() === copy.short.toLowerCase() ? '' : `<p class="article-box-label">${escapeHtml(copy.short)}</p>`}
         <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
         <ul>${block.items.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul>
       </aside>`;
@@ -2555,7 +2555,7 @@ async function validateGenerated() {
     const factualMismatch = structuredClone(posts[0]);
     const factualTable = factualMismatch.translations.en.blocks.find((block) => block.type === 'table');
     if (factualTable?.rows?.[0]?.[1]) {
-      factualTable.rows[0][1] = `${factualTable.rows[0][1]}1`;
+      factualTable.rows[0][1] = `${factualTable.rows[0][1]} 17`;
       const factualErrors = validatePost(factualMismatch);
       if (!factualErrors.some((error) => error.includes('числа, даты, время, версии и счёт'))) {
         throw new Error('Негативная проверка не обнаружила фактическое расхождение RU/EN.');

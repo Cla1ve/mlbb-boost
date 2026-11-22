@@ -23,6 +23,7 @@ async function save(file, text) {
 const escape = text => String(text).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const config = JSON.parse(await read('content/seo-pages.json'));
 const heroesData = JSON.parse(await read('content/heroes.json'));
+const HOME_NEWS_SLUG = 'msc-2026-playoff-schedule';
 const newsPosts = JSON.parse(await read('content/news/posts.json')).posts.filter(post => post.status === 'published');
 config.guides.push(...heroGuides(heroesData));
 const data = JSON.parse(await read('content/public-data.json'));
@@ -287,16 +288,16 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     document.querySelectorAll('[data-seo-generated]').forEach(node => node.remove());
     if (guideOf(file)) document.querySelector('main').innerHTML = '';
     if (file === 'index.html') {
-      // The home "fresh article" card always shows the newest published news post.
+      // The home "fresh article" card shows the pinned post (owner's choice), otherwise the newest one.
       const card = document.querySelector('.home-news-card');
-      const newest = [...newsPosts].sort((a, b) => Date.parse(b.datePublished) - Date.parse(a.datePublished))[0];
+      const newest = newsPosts.find(post => post.slug === HOME_NEWS_SLUG) || [...newsPosts].sort((a, b) => Date.parse(b.datePublished) - Date.parse(a.datePublished))[0];
       if (card && newest) {
         const post = lang === 'en' ? { ...newest, ...newest.translations.en, hero: { ...newest.hero, ...(newest.translations.en.hero || {}) } } : newest;
         card.setAttribute('href', `${lang === 'en' ? '/en' : ''}/news/${newest.slug}/`);
         const source = card.querySelector('source');
         if (source) { source.setAttribute('srcset', post.hero.webpSrcset); source.removeAttribute('data-news-en-srcset'); }
         const img = card.querySelector('img');
-        if (img) { img.setAttribute('src', post.hero.src); img.setAttribute('width', String(post.hero.width)); img.setAttribute('height', String(post.hero.height)); img.setAttribute('alt', post.hero.alt); for (const attr of ['data-news-en-src', 'data-news-en-alt']) img.removeAttribute(attr); img.closest('figure')?.setAttribute('data-i18n-skip', ''); }
+        if (img) { img.setAttribute('src', post.hero.src); img.setAttribute('width', String(post.hero.width)); img.setAttribute('height', String(post.hero.height)); img.setAttribute('alt', post.hero.alt); img.setAttribute('style', `object-position: ${post.hero.focalPoint || '50% 50%'}`); for (const attr of ['data-news-en-src', 'data-news-en-alt']) img.removeAttribute(attr); img.closest('figure')?.setAttribute('data-i18n-skip', ''); }
         const title = card.querySelector('h2'); if (title) { title.textContent = post.title; title.setAttribute('data-i18n-skip', ''); }
         const text = card.querySelector('.home-news-card__content p'); if (text) { text.textContent = post.excerpt; text.setAttribute('data-i18n-skip', ''); }
       }

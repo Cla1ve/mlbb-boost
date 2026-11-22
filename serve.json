@@ -141,6 +141,22 @@
     {
       "source": "/en/news/mlbb-redeem-codes-guide",
       "destination": "/en/news/mlbb-redeem-codes-guide/index.html"
+    },
+    {
+      "source": "/news/mlbb-change-nickname/",
+      "destination": "/news/mlbb-change-nickname/index.html"
+    },
+    {
+      "source": "/news/mlbb-change-nickname",
+      "destination": "/news/mlbb-change-nickname/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-change-nickname/",
+      "destination": "/en/news/mlbb-change-nickname/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-change-nickname",
+      "destination": "/en/news/mlbb-change-nickname/index.html"
     }
   ]
 }
