@@ -51,6 +51,12 @@ Carmilla is listed as a counter for these heroes.
 
 Carmilla sits in tier S of our win-rate tier list and ranks 14 of 133 heroes. BOOST MLBB customers ordered 20 hero boosts on Carmilla over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/carmilla.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Carmilla page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Carmilla). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Carmilla
 
 The booster plays only this hero, so the hero rating grows with your rank.

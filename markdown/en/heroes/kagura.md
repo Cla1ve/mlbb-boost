@@ -51,6 +51,12 @@ Kagura is listed as a counter for these heroes.
 
 Kagura sits in tier A of our win-rate tier list and ranks 42 of 133 heroes. In patch 2.2.16 the hero was buffed. BOOST MLBB customers ordered 16 hero boosts on Kagura over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/kagura.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Kagura page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kagura). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Kagura
 
 The booster plays only this hero, so the hero rating grows with your rank.

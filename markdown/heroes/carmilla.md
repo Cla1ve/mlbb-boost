@@ -51,6 +51,12 @@ language: ru
 
 «Кармилла» — тир S в нашем тир-листе по проценту побед, 14-е место из 133 героев. За год клиенты BOOST MLBB заказали 20 бустов на герое «Кармилла». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
 
+## История и навыки
+
+![](/images/heroes/carmilla.webp)
+
+Историю героя, навыки и реплики собирает [страница Carmilla в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Carmilla) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+
 ## Буст на герое «Кармилла»
 
 Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.

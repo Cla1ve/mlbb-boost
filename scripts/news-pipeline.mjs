@@ -1316,7 +1316,6 @@ function renderNavigation(active = 'news', locale = 'ru', languageTargets = null
     ['/prices.html', copy.nav.prices, 'fas fa-tags', 'prices'],
     ['/reviews.html', copy.nav.reviews, 'fas fa-comments', 'reviews'],
     ['/news/', copy.nav.news, 'fas fa-newspaper', 'news'],
-    ['/heroes/', copy.nav.heroes, 'fas fa-user-shield', 'heroes'],
     ['/faq.html', copy.nav.faq, 'fas fa-question-circle', 'faq'],
     ['/about.html', copy.nav.about, 'fas fa-users', 'about']
   ];
@@ -1368,6 +1367,7 @@ function renderFooter(locale = 'ru') {
           <h4>${escapeHtml(copy.editorial)}</h4>
           <ul>
             <li><a href="${siteHref('/news/', locale)}">${escapeHtml(copy.news)}</a></li>
+            <li><a href="${siteHref('/heroes/', locale)}">${locale === 'en' ? 'All MLBB heroes' : 'Все герои MLBB'}</a></li>
             <li><a href="${siteHref('/about.html', locale)}">${escapeHtml(copy.about)}</a></li>
             <li><a href="${siteHref('/faq.html', locale)}">${escapeHtml(copy.faq)}</a></li>
             <li><a href="${siteHref('/sitemap-page.html', locale)}">${escapeHtml(copy.sitemap)}</a></li>
@@ -1448,7 +1448,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/legal.css">
   <link rel="stylesheet" href="/styles/news.css?v=12">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
-  <link rel="stylesheet" href="/styles/ui.css?v=31">`;
+  <link rel="stylesheet" href="/styles/ui.css?v=32">`;
 }
 
 function renderScripts() {

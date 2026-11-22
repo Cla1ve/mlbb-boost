@@ -23,6 +23,7 @@ async function save(file, text) {
 const escape = text => String(text).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const config = JSON.parse(await read('content/seo-pages.json'));
 const heroesData = JSON.parse(await read('content/heroes.json'));
+const newsPosts = JSON.parse(await read('content/news/posts.json')).posts.filter(post => post.status === 'published');
 config.guides.push(...heroGuides(heroesData));
 const data = JSON.parse(await read('content/public-data.json'));
 const changedDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Moscow', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(data.checkedAt));
@@ -95,7 +96,7 @@ const footerGuides = [
   ['/boost/mythic.html', 'Буст Мифика', 'Mythic boost'],
   ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
   ['/guides/mythic-placement.html', 'Калибровка Мифика', 'Mythic placement'],
-  ['/guides/party-boost.html', 'Пати или со входом', 'Party or account']
+  ['/heroes/', 'Все герои MLBB', 'All MLBB heroes']
 ];
 const typeLabels = { ru: { standard: 'Обычный', role: 'На роли', hero: 'На герое', party: 'В пати' }, en: { standard: 'Account', role: 'Role', hero: 'Hero', party: 'Party' } };
 const typeOrder = ['standard', 'role', 'hero', 'party'];
@@ -163,8 +164,11 @@ function reviewCard(r, lang) {
   const en = lang === 'en';
   const stars = '★'.repeat(Math.max(0, Math.min(5, r.rating))) + '☆'.repeat(5 - Math.max(0, Math.min(5, r.rating)));
   const date = r.published ? formatDate(r.published, lang) : '';
-  const route = r.rankFrom && r.rankTo ? `<p class="review-card__route" lang="ru">${escape(r.rankFrom)} → ${escape(r.rankTo)}</p>` : '';
-  const chips = [r.boostType && typeLabels[lang][r.boostType] ? `<span>${typeLabels[lang][r.boostType]}</span>` : '', r.hero ? `<span lang="ru">${escape(r.hero)}</span>` : '', r.duration ? `<span lang="ru">${escape(r.duration)}</span>` : ''].join('');
+  const split = value => { const m = String(value).match(/^(.*?),\s*(\d+⭐)$/); return m ? [m[1], m[2]] : [String(value), '']; };
+  const [fromRank, fromStars] = split(r.rankFrom || ''), [toRank, toStars] = split(r.rankTo || '');
+  const routeText = fromRank === toRank && fromStars && toStars ? `${fromRank} ${fromStars} → ${toStars}` : `${r.rankFrom} → ${r.rankTo}`;
+  const route = r.rankFrom && r.rankTo ? `<p class="review-card__route" lang="ru">${escape(routeText)}</p>` : '';
+  const chips = [r.boostType && typeLabels[lang][r.boostType] ? `<span>${typeLabels[lang][r.boostType]}</span>` : '', r.hero ? `<span lang="ru">${escape(r.hero)}</span>` : '', r.duration ? `<span lang="ru">${escape(String(r.duration).replace(/\s*после оплаты$/, ''))}</span>` : ''].join('');
   return `<article class="review-card"><header><span class="review-card__stars" aria-label="${en ? 'Rating' : 'Оценка'} ${r.rating}/5">${stars}</span>${date ? `<time datetime="${r.published}">${date}</time>` : ''}</header>${route}${chips ? `<div class="review-card__chips">${chips}</div>` : ''}<blockquote lang="ru">${escape(reviewText.clean(r.text))}</blockquote><footer>${r.booster ? `<span>${en ? 'Booster' : 'Бустер'}: <b lang="ru">${escape(r.booster)}</b></span>` : ''}<a href="${escape(r.messageLink)}" target="_blank" rel="noopener noreferrer">${en ? 'Original on Telegram' : 'Оригинал в Telegram'}</a></footer></article>`;
 }
 function reviewWall(reviews, lang) {
@@ -276,12 +280,27 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
   for (const lang of ['ru', 'en']) {
     const { document } = parseHTML(source);
     const navigation = document.querySelector('.nav-list');
-    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-star'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-comments'], ['/news/', 'Новости', 'fa-newspaper'], ['/heroes/', 'Герои', 'fa-user-shield'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-users']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Купить буст</a></li>';
+    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-star'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-comments'], ['/news/', 'Новости', 'fa-newspaper'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-users']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Купить буст</a></li>';
     for (const element of document.querySelectorAll('.channel-title, .site-footer a')) {
       element.innerHTML = element.innerHTML.replace(/\d+\+? отзывов/g, `${data.reviewStats.count} отзывов`).replace(/Отзывы \(\d+\+?\)/g, `Отзывы (${data.reviewStats.count})`);
     }
     document.querySelectorAll('[data-seo-generated]').forEach(node => node.remove());
     if (guideOf(file)) document.querySelector('main').innerHTML = '';
+    if (file === 'index.html') {
+      // The home "fresh article" card always shows the newest published news post.
+      const card = document.querySelector('.home-news-card');
+      const newest = [...newsPosts].sort((a, b) => Date.parse(b.datePublished) - Date.parse(a.datePublished))[0];
+      if (card && newest) {
+        const post = lang === 'en' ? { ...newest, ...newest.translations.en, hero: { ...newest.hero, ...(newest.translations.en.hero || {}) } } : newest;
+        card.setAttribute('href', `${lang === 'en' ? '/en' : ''}/news/${newest.slug}/`);
+        const source = card.querySelector('source');
+        if (source) { source.setAttribute('srcset', post.hero.webpSrcset); source.removeAttribute('data-news-en-srcset'); }
+        const img = card.querySelector('img');
+        if (img) { img.setAttribute('src', post.hero.src); img.setAttribute('width', String(post.hero.width)); img.setAttribute('height', String(post.hero.height)); img.setAttribute('alt', post.hero.alt); for (const attr of ['data-news-en-src', 'data-news-en-alt']) img.removeAttribute(attr); img.closest('figure')?.setAttribute('data-i18n-skip', ''); }
+        const title = card.querySelector('h2'); if (title) { title.textContent = post.title; title.setAttribute('data-i18n-skip', ''); }
+        const text = card.querySelector('.home-news-card__content p'); if (text) { text.textContent = post.excerpt; text.setAttribute('data-i18n-skip', ''); }
+      }
+    }
     if (lang === 'en') translateDOM(document.body, file);
     document.documentElement.lang = lang;
     document.documentElement.setAttribute('data-static-locale', lang);
@@ -364,7 +383,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
-    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=31'; document.head.append(interfaceStyle);
+    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=32'; document.head.append(interfaceStyle);
     document.querySelector('script[src*="/js/ui.js"]')?.remove();
     if (['prices.html', 'reviews.html'].includes(file)) {
       const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);
@@ -373,7 +392,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '36' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '37' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

@@ -51,6 +51,12 @@ language: ru
 
 «Тигрил» — тир D в нашем тир-листе по проценту побед, 126-е место из 133 героев. В патче 2.2.16 герой усилен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
 
+## История и навыки
+
+![](/images/heroes/tigreal.webp)
+
+Историю героя, навыки и реплики собирает [страница Tigreal в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Tigreal) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+
 ## Буст на герое «Тигрил»
 
 Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.

@@ -51,6 +51,12 @@ Lancelot is listed as a counter for these heroes.
 
 Lancelot sits in tier D of our win-rate tier list and ranks 130 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/lancelot.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Lancelot page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lancelot). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Lancelot
 
 The booster plays only this hero, so the hero rating grows with your rank.

@@ -51,6 +51,12 @@ language: ru
 
 «Хаябуса» — тир C в нашем тир-листе по проценту побед, 108-е место из 133 героев. За год клиенты BOOST MLBB заказали 23 бустов на герое «Хаябуса». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
 
+## История и навыки
+
+![](/images/heroes/hayabusa.webp)
+
+Историю героя, навыки и реплики собирает [страница Hayabusa в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hayabusa) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+
 ## Буст на герое «Хаябуса»
 
 Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.

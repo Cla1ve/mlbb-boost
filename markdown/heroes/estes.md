@@ -51,6 +51,12 @@ language: ru
 
 «Эстес» — тир A в нашем тир-листе по проценту побед, 17-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
 
+## История и навыки
+
+![](/images/heroes/estes.webp)
+
+Историю героя, навыки и реплики собирает [страница Estes в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Estes) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+
 ## Буст на герое «Эстес»
 
 Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.

@@ -51,6 +51,12 @@ Edith is listed as a counter for these heroes.
 
 Edith sits in tier A of our win-rate tier list and ranks 19 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In patch 2.2.16 the hero was buffed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/edith.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Edith page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Edith). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Edith
 
 The booster plays only this hero, so the hero rating grows with your rank.

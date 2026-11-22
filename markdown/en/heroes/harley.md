@@ -51,6 +51,12 @@ Harley is listed as a counter for these heroes.
 
 Harley sits in tier C of our win-rate tier list and ranks 107 of 133 heroes. BOOST MLBB customers ordered 22 hero boosts on Harley over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/harley.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Harley page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harley). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Harley
 
 The booster plays only this hero, so the hero rating grows with your rank.

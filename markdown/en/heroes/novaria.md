@@ -45,6 +45,12 @@ MOONTON’s official statistics list these heroes as the toughest opponents for 
 
 Novaria sits in tier B of our win-rate tier list and ranks 78 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/novaria.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Novaria page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Novaria). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Novaria
 
 The booster plays only this hero, so the hero rating grows with your rank.

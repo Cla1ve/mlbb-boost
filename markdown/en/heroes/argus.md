@@ -51,6 +51,12 @@ Argus is listed as a counter for these heroes.
 
 Argus sits in tier S of our win-rate tier list and ranks 3 of 133 heroes. In patch 2.2.16 the hero was buffed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/argus.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Argus page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Argus). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Argus
 
 The booster plays only this hero, so the hero rating grows with your rank.

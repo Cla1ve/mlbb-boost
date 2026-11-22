@@ -51,6 +51,12 @@ Freya is listed as a counter for these heroes.
 
 Freya sits in tier B of our win-rate tier list and ranks 86 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/freya.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Freya page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Freya). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Freya
 
 The booster plays only this hero, so the hero rating grows with your rank.

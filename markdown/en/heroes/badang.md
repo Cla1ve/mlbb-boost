@@ -45,6 +45,12 @@ MOONTON’s official statistics list these heroes as the toughest opponents for 
 
 Badang sits in tier B of our win-rate tier list and ranks 58 of 133 heroes. BOOST MLBB customers ordered 15 hero boosts on Badang over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/badang.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Badang page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Badang). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Badang
 
 The booster plays only this hero, so the hero rating grows with your rank.

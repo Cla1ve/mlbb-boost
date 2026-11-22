@@ -45,6 +45,12 @@ MOONTON’s official statistics list these heroes as the toughest opponents for 
 
 Kadita sits in tier A of our win-rate tier list and ranks 37 of 133 heroes. In patch 2.2.16 the hero was adjusted without a clear buff or nerf. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/kadita.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Kadita page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kadita). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Kadita
 
 The booster plays only this hero, so the hero rating grows with your rank.

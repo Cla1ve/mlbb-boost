@@ -51,6 +51,12 @@ Xavier is listed as a counter for these heroes.
 
 Xavier sits in tier A of our win-rate tier list and ranks 34 of 133 heroes. BOOST MLBB customers ordered 18 hero boosts on Xavier over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/xavier.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Xavier page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Xavier). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Xavier
 
 The booster plays only this hero, so the hero rating grows with your rank.

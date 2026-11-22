@@ -51,6 +51,12 @@ Esmeralda is listed as a counter for these heroes.
 
 Esmeralda sits in tier C of our win-rate tier list and ranks 119 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/esmeralda.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Esmeralda page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Esmeralda). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Esmeralda
 
 The booster plays only this hero, so the hero rating grows with your rank.

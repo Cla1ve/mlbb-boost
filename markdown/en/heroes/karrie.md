@@ -51,6 +51,12 @@ Karrie is listed as a counter for these heroes.
 
 Karrie sits in tier C of our win-rate tier list and ranks 93 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/karrie.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Karrie page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karrie). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Karrie
 
 The booster plays only this hero, so the hero rating grows with your rank.

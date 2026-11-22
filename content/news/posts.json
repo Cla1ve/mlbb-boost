@@ -18,22 +18,21 @@
         "Результаты турнира"
       ],
       "datePublished": "2026-07-27T21:15:00+03:00",
-      "dateModified": "2026-08-01T22:08:20+03:00",
+      "dateModified": "2026-11-22T19:43:45+03:00",
       "hero": {
-        "src": "/images/news/msc-2026-playoffs.jpg",
-        "width": 1672,
-        "height": 941,
-        "webpSrcset": "/images/news/msc-2026-playoffs-768.webp 768w, /images/news/msc-2026-playoffs-1200.webp 1200w, /images/news/msc-2026-playoffs-1672.webp 1672w",
+        "src": "/images/news/msc-2026-playoff-schedule.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/msc-2026-playoff-schedule-768.webp 768w, /images/news/msc-2026-playoff-schedule-1200.webp 1200w, /images/news/msc-2026-playoff-schedule-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Сетка плей-офф MSC 2026 Mobile Legends с восемью командами на фоне киберспортивной арены",
-        "caption": "Редакционная иллюстрация Boost MLBB для материала о плей-офф MSC 2026.",
+        "alt": "Табло финала MSC 2026: Team Spirit 4, Yangon Galacticos 3, Париж, 1 августа 2026",
+        "caption": "Иллюстрация Boost MLBB.",
         "provenance": {
-          "type": "generated",
-          "creator": "OpenAI ImageGen",
-          "created": "2026-07-27",
-          "rights": "Оригинальная редакционная иллюстрация без референсных изображений, логотипов, героев и чужих товарных знаков.",
-          "prompt": "Тёмная премиальная киберспортивная сцена Mobile Legends в фирменной палитре Boost MLBB: глубокий navy, изумрудный и cyan-свет, симметричная турнирная сетка и центральный трофей; без персонажей, официальных логотипов и чужих товарных знаков, с безопасной центральной композицией для адаптивных форматов."
+          "type": "original",
+          "creator": "Boost MLBB",
+          "created": "2026-11-22",
+          "rights": "Original layout made by Boost MLBB with text and an emoji trophy; no MOONTON, team or tournament logos."
         }
       },
       "blocks": [
@@ -322,19 +321,8 @@
             "Tournament Results"
           ],
           "hero": {
-            "src": "/images/news/msc-2026-playoffs-en.jpg",
-            "width": 1600,
-            "height": 900,
-            "webpSrcset": "/images/news/msc-2026-playoffs-en-768.webp 768w, /images/news/msc-2026-playoffs-en-1200.webp 1200w, /images/news/msc-2026-playoffs-en-1600.webp 1600w",
-            "alt": "MSC 2026 Mobile Legends playoff bracket with eight teams in a futuristic esports arena",
-            "caption": "An original Boost MLBB editorial illustration for our MSC 2026 playoff coverage.",
-            "provenance": {
-              "type": "generated",
-              "creator": "OpenAI ImageGen",
-              "created": "2026-07-28",
-              "rights": "Original editorial illustration created for Boost MLBB without reference images, logos, characters, or third-party trademarks.",
-              "prompt": "Edit the existing Boost MLBB MSC 2026 playoff artwork while preserving its composition, deep-navy palette, emerald bracket, cyan lighting, and central trophy. Replace only the Russian poster lettering with the exact English lines “MSC 2026”, “PLAYOFFS”, and “JULY 29–30 · MSK”. Add no other text, logos, characters, trademarks, or visual changes."
-            }
+            "alt": "MSC 2026 final scoreboard: Team Spirit 4, Yangon Galacticos 3, Paris, 1 August 2026",
+            "caption": "Boost MLBB illustration."
           },
           "blocks": [
             {
@@ -710,22 +698,21 @@
         "Стамбул"
       ],
       "datePublished": "2026-08-22T23:31:02+03:00",
-      "dateModified": "2026-11-22T13:53:24+03:00",
+      "dateModified": "2026-11-22T19:43:45+03:00",
       "hero": {
-        "src": "/images/news/m8-istanbul-world-road-ru.jpg",
+        "src": "/images/news/m8-istanbul-world-road.jpg",
         "width": 1600,
         "height": 900,
-        "webpSrcset": "/images/news/m8-istanbul-world-road-ru-768.webp 768w, /images/news/m8-istanbul-world-road-ru-1200.webp 1200w, /images/news/m8-istanbul-world-road-ru-1600.webp 1600w",
+        "webpSrcset": "/images/news/m8-istanbul-world-road-768.webp 768w, /images/news/m8-istanbul-world-road-1200.webp 1200w, /images/news/m8-istanbul-world-road-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Постер M8 2027 с маршрутом Бангкок — Стамбул и кристаллическим трофеем в футуристической арене",
-        "caption": "Оригинальный постер Boost MLBB к гиду по квалификации M8.",
+        "alt": "Карточка M8: Бангкок → Стамбул, декабрь 2026 и январь 2027, призовой фонд $1 000 000",
+        "caption": "Иллюстрация Boost MLBB.",
         "provenance": {
-          "type": "generated",
-          "creator": "OpenAI ImageGen",
-          "created": "2026-08-22",
-          "rights": "Оригинальный локализованный редакционный постер создан для Boost MLBB на основе собственной сгенерированной сцены и прежнего собственного макета сайта; без официальных логотипов, персонажей и сторонних товарных знаков.",
-          "prompt": "Use case: text-localization and precise layout edit. Asset type: Russian 16:9 editorial hero poster for a Boost MLBB news article. Image 1 is the original M8 scene to preserve as the main visual foundation and edit target. Image 2 is a previous Boost MLBB poster used only as a reference for its left-text/right-visual hierarchy, dark navy palette, emerald/white text treatment, and editorial spacing; do not copy its bracket geometry or exact scene. Transform Image 1 into a polished Russian M8 news poster: recompose the trophy and route scene toward the right 55–60% and create calm near-black space on the left. Render exactly once and no other text: “M8 2027”, “ПУТЬ В СТАМБУЛ”, “БАНГКОК · СТАМБУЛ”. Use tall condensed premium esports uppercase; luminous emerald for “M8 2027”, dominant white for “ПУТЬ В СТАМБУЛ”, and a smaller route line with “БАНГКОК” in emerald and the rest off-white. Keep all lettering inside x=4–42% and y=22–82%, readable at 350 px, with exact Cyrillic spelling. Preserve the crystalline trophy, converging luminous routes, deep navy arena, restrained cyan, emerald accents and distant warm-gold gateway. No official logos, characters, skins, team or sponsor marks, flags, maps, city landmarks, UI, badges, watermarks or unrequested glyphs. Avoid misspelling, duplicated words, tiny text, clutter, copied brackets, cropped focal subjects, muddy shadows and artifacts. Output one publication-ready 1600×900-or-larger Russian poster."
+          "type": "original",
+          "creator": "Boost MLBB",
+          "created": "2026-11-22",
+          "rights": "Original layout made by Boost MLBB with text and an emoji trophy; no MOONTON, team or tournament logos."
         }
       },
       "blocks": [
@@ -972,21 +959,8 @@
             "Istanbul"
           ],
           "hero": {
-            "src": "/images/news/m8-istanbul-world-road-en.jpg",
-            "width": 1600,
-            "height": 900,
-            "webpSrcset": "/images/news/m8-istanbul-world-road-en-768.webp 768w, /images/news/m8-istanbul-world-road-en-1200.webp 1200w, /images/news/m8-istanbul-world-road-en-1600.webp 1600w",
-            "focalPoint": "50% 50%",
-            "cardFit": "contain",
-            "alt": "M8 2027 Road to Istanbul poster with a Bangkok–Istanbul route and a crystalline trophy in a futuristic arena",
-            "caption": "An original Boost MLBB poster for this M8 qualification guide.",
-            "provenance": {
-              "type": "generated",
-              "creator": "OpenAI ImageGen",
-              "created": "2026-08-22",
-              "rights": "Original localized editorial poster created for Boost MLBB from its own generated scene and previous in-house site layout, without official logos, characters, or third-party trademarks.",
-              "prompt": "Use case: text-localization. Asset type: English 16:9 editorial hero poster for the paired Boost MLBB news article. Image 1 is the approved Russian M8 poster and the edit target. Replace only the Russian poster lettering with the exact English wording, exactly once and with no other text: “M8 2027”, “ROAD TO ISTANBUL”, “BANGKOK · ISTANBUL”. Preserve the entire composition, trophy, route geometry, lighting, deep-navy background, emerald/cyan/gold palette, text hierarchy, typography style, text-block position, margins, and visual balance. Keep “M8 2027” luminous emerald at upper-left; set “ROAD TO ISTANBUL” in the same tall condensed premium esports uppercase style, split into balanced lines if needed; set the small route line with “BANGKOK” in emerald and the rest off-white. All English letters must be crisp, correctly spelled, readable at 350 px and inside the existing left text area. Change only the lettering; no Russian letters may remain. Do not add logos, badges, watermarks, flags, maps, landmarks, UI, sponsor marks, extra words, numbers or glyphs. Avoid misspelling, duplicated text, mixed languages, tiny type, overlap, arena changes, cropped subjects and artifacts. Output one publication-ready 1600×900-or-larger English poster."
-            }
+            "alt": "M8 card: Bangkok to Istanbul, December 2026 and January 2027, $1,000,000 prize pool",
+            "caption": "Boost MLBB illustration."
           },
           "blocks": [
             {

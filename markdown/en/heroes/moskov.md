@@ -51,6 +51,12 @@ Moskov is listed as a counter for these heroes.
 
 Moskov sits in tier B of our win-rate tier list and ranks 56 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/moskov.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Moskov page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Moskov). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Moskov
 
 The booster plays only this hero, so the hero rating grows with your rank.

@@ -220,3 +220,16 @@ button.rising-stage { font: inherit; color: inherit; text-align: left; }
 @media (prefers-reduced-motion: reduce) { .hero-chip { transition: none; } }
 .lp-chips li a { display: inline-flex; align-items: center; gap: 8px; color: inherit; text-decoration: none; }
 .lp-chips li:has(a):hover { border-color: rgba(0,255,157,.55); }
+/* Landing lower sections: centred column, callout card, tidy cards */
+.lp-page .lp-body { margin-left: auto; margin-right: auto; }
+.lp-callout { display: flex; align-items: center; gap: 18px; padding: 18px 22px; border-radius: 16px; background: linear-gradient(135deg, rgba(0,255,157,.08), #10243a 60%); border: 1px solid rgba(0,255,157,.2); }
+.lp-callout img { width: 64px; height: 64px; object-fit: contain; flex: 0 0 auto; border-radius: 14px; }
+.lp-callout p { margin: 0 !important; color: #dce6ef !important; line-height: 1.6; }
+.lp-callout a { color: #00ff9d; text-underline-offset: 4px; }
+.lp-card { position: relative; }
+a.lp-card { padding-right: 44px; }
+a.lp-card::after { content: '→'; position: absolute; right: 18px; top: 50%; transform: translateY(-50%); color: #00ff9d; font-weight: 700; }
+.review-wall { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); align-items: stretch; }
+.review-card blockquote { flex: 1; }
+.review-card__route { font-size: .92rem !important; }
+@media (max-width: 560px) { .lp-callout { flex-direction: column; align-items: flex-start; } }

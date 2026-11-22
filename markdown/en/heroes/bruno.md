@@ -51,6 +51,12 @@ Bruno is listed as a counter for these heroes.
 
 Bruno sits in tier S of our win-rate tier list and ranks 10 of 133 heroes. In patch 2.2.16 the hero was reworked for the game’s 10th anniversary. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/bruno.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Bruno page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Bruno). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Bruno
 
 The booster plays only this hero, so the hero rating grows with your rank.

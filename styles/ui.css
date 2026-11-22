@@ -7,7 +7,7 @@ button { cursor:pointer; }
 [hidden] { display:none!important; }
 main { scroll-margin-top:100px; }
 main [id] { scroll-margin-top:104px; }
-.nav-link { min-height:44px; display:inline-flex; align-items:center; }
+.nav-link { min-height:44px; display:inline-flex; align-items:center; white-space:nowrap; }
 .site-header { border-bottom:1px solid var(--ui-border); }
 .site-header .logo-link { flex-shrink:0; }
 .site-header .logo span { white-space:nowrap; }
@@ -143,7 +143,7 @@ main [id] { scroll-margin-top:104px; }
 @media(min-width:1025px) and (max-aspect-ratio:18/10) {
   .hero-character { width:80%; right:-20%; background-size:auto 90%; }
 }
-@media(min-width:1025px) and (max-width:1279px) {
+@media(min-width:1025px) and (max-width:1399px) {
   .nav-container { padding-inline:20px; }
   .logo { gap:8px; }
   .logo svg { width:30px; height:30px; }

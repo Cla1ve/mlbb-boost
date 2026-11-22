@@ -51,6 +51,12 @@ Uranus is listed as a counter for these heroes.
 
 Uranus sits in tier B of our win-rate tier list and ranks 83 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/uranus.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Uranus page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Uranus). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Uranus
 
 The booster plays only this hero, so the hero rating grows with your rank.

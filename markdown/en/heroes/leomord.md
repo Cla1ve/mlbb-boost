@@ -51,6 +51,12 @@ Leomord is listed as a counter for these heroes.
 
 Leomord sits in tier B of our win-rate tier list and ranks 60 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. BOOST MLBB customers ordered 20 hero boosts on Leomord over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/leomord.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Leomord page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Leomord). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Leomord
 
 The booster plays only this hero, so the hero rating grows with your rank.

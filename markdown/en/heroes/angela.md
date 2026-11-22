@@ -51,6 +51,12 @@ Angela is listed as a counter for these heroes.
 
 Angela sits in tier B of our win-rate tier list and ranks 67 of 133 heroes. BOOST MLBB customers ordered 51 hero boosts on Angela over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/angela.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Angela page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Angela). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Angela
 
 The booster plays only this hero, so the hero rating grows with your rank.

@@ -51,6 +51,12 @@ Martis is listed as a counter for these heroes.
 
 Martis sits in tier C of our win-rate tier list and ranks 118 of 133 heroes. BOOST MLBB customers ordered 14 hero boosts on Martis over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
 
+## Lore and skills
+
+![](/images/heroes/martis.webp)
+
+The hero’s backstory, skills and voice lines are collected on the [Martis page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Martis). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+
 ## Boost on Martis
 
 The booster plays only this hero, so the hero rating grows with your rank.
