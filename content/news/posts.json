@@ -2184,7 +2184,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:29:19+03:00",
-      "dateModified": "2026-11-22T19:27:27+03:00",
+      "dateModified": "2026-11-22T22:33:40+03:00",
       "hero": {
         "src": "/images/news/mlbb-meta-tier-list.jpg",
         "width": 1600,
@@ -2234,62 +2234,74 @@
                 {
                   "name": "Маша",
                   "icon": "/images/heroes/masha.webp",
-                  "value": "60,47%"
+                  "value": "60,47%",
+                  "href": "/heroes/masha.html"
                 },
                 {
                   "name": "Аргус",
                   "icon": "/images/heroes/argus.webp",
-                  "value": "56,76%"
+                  "value": "56,76%",
+                  "href": "/heroes/argus.html"
                 },
                 {
                   "name": "Рафаэль",
                   "icon": "/images/heroes/rafaela.webp",
-                  "value": "54,57%"
+                  "value": "54,57%",
+                  "href": "/heroes/rafaela.html"
                 },
                 {
                   "name": "Валир",
                   "icon": "/images/heroes/valir.webp",
-                  "value": "54,13%"
+                  "value": "54,13%",
+                  "href": "/heroes/valir.html"
                 },
                 {
                   "name": "Флорин",
                   "icon": "/images/heroes/floryn.webp",
-                  "value": "54,06%"
+                  "value": "54,06%",
+                  "href": "/heroes/floryn.html"
                 },
                 {
                   "name": "Минотавр",
                   "icon": "/images/heroes/minotaur.webp",
-                  "value": "53,77%"
+                  "value": "53,77%",
+                  "href": "/heroes/minotaur.html"
                 },
                 {
                   "name": "Бруно",
                   "icon": "/images/heroes/bruno.webp",
-                  "value": "53,76%"
+                  "value": "53,76%",
+                  "href": "/heroes/bruno.html"
                 },
                 {
                   "name": "Сан",
                   "icon": "/images/heroes/sun.webp",
-                  "value": "53,69%"
+                  "value": "53,69%",
+                  "href": "/heroes/sun.html"
                 },
                 {
                   "name": "Глу",
                   "icon": "/images/heroes/gloo.webp",
-                  "value": "53,55%"
+                  "value": "53,55%",
+                  "href": "/heroes/gloo.html"
                 },
                 {
                   "name": "Аулус",
                   "icon": "/images/heroes/aulus.webp",
-                  "value": "53,48%"
+                  "value": "53,48%",
+                  "href": "/heroes/aulus.html"
                 },
                 {
                   "name": "Кармилла",
                   "icon": "/images/heroes/carmilla.webp",
-                  "value": "53,32%"
+                  "value": "53,32%",
+                  "href": "/heroes/carmilla.html"
                 },
                 {
                   "name": "Обсидия",
                   "icon": "/images/heroes/obsidia.webp",
-                  "value": "53,22%"
+                  "value": "53,22%",
+                  "href": "/heroes/obsidia.html"
                 }
               ]
             },
@@ -2300,87 +2312,104 @@
                 {
                   "name": "Эстес",
                   "icon": "/images/heroes/estes.webp",
-                  "value": "52,74%"
+                  "value": "52,74%",
+                  "href": "/heroes/estes.html"
                 },
                 {
                   "name": "Ханаби",
                   "icon": "/images/heroes/hanabi.webp",
-                  "value": "52,64%"
+                  "value": "52,64%",
+                  "href": "/heroes/hanabi.html"
                 },
                 {
                   "name": "Горд",
                   "icon": "/images/heroes/gord.webp",
-                  "value": "52,63%"
+                  "value": "52,63%",
+                  "href": "/heroes/gord.html"
                 },
                 {
                   "name": "Линг",
                   "icon": "/images/heroes/ling.webp",
-                  "value": "52,56%"
+                  "value": "52,56%",
+                  "href": "/heroes/ling.html"
                 },
                 {
                   "name": "Минситтар",
                   "icon": "/images/heroes/minsitthar.webp",
-                  "value": "52,04%"
+                  "value": "52,04%",
+                  "href": "/heroes/minsitthar.html"
                 },
                 {
                   "name": "Лукас",
                   "icon": "/images/heroes/lukas.webp",
-                  "value": "52,03%"
+                  "value": "52,03%",
+                  "href": "/heroes/lukas.html"
                 },
                 {
                   "name": "Белерик",
                   "icon": "/images/heroes/belerick.webp",
-                  "value": "51,82%"
+                  "value": "51,82%",
+                  "href": "/heroes/belerick.html"
                 },
                 {
                   "name": "Бартс",
                   "icon": "/images/heroes/barats.webp",
-                  "value": "51,67%"
+                  "value": "51,67%",
+                  "href": "/heroes/barats.html"
                 },
                 {
                   "name": "Циклоп",
                   "icon": "/images/heroes/cyclops.webp",
-                  "value": "51,66%"
+                  "value": "51,66%",
+                  "href": "/heroes/cyclops.html"
                 },
                 {
                   "name": "Ксавьер",
                   "icon": "/images/heroes/xavier.webp",
-                  "value": "51,56%"
+                  "value": "51,56%",
+                  "href": "/heroes/xavier.html"
                 },
                 {
                   "name": "Атлас",
                   "icon": "/images/heroes/atlas.webp",
-                  "value": "51,49%"
+                  "value": "51,49%",
+                  "href": "/heroes/atlas.html"
                 },
                 {
                   "name": "Сильвана",
                   "icon": "/images/heroes/silvanna.webp",
-                  "value": "51,36%"
+                  "value": "51,36%",
+                  "href": "/heroes/silvanna.html"
                 },
                 {
                   "name": "Кадита",
                   "icon": "/images/heroes/kadita.webp",
-                  "value": "51,33%"
+                  "value": "51,33%",
+                  "href": "/heroes/kadita.html"
                 },
                 {
                   "name": "Гвиневра",
                   "icon": "/images/heroes/guinevere.webp",
-                  "value": "51,27%"
+                  "value": "51,27%",
+                  "href": "/heroes/guinevere.html"
                 },
                 {
                   "name": "Сабер",
                   "icon": "/images/heroes/saber.webp",
-                  "value": "51,18%"
+                  "value": "51,18%",
+                  "href": "/heroes/saber.html"
                 },
                 {
                   "name": "Кагура",
                   "icon": "/images/heroes/kagura.webp",
-                  "value": "51,13%"
+                  "value": "51,13%",
+                  "href": "/heroes/kagura.html"
                 },
                 {
                   "name": "Хильда",
                   "icon": "/images/heroes/hilda.webp",
-                  "value": "51,07%"
+                  "value": "51,07%",
+                  "href": "/heroes/hilda.html"
                 }
               ]
             },
@@ -2391,167 +2420,200 @@
                 {
                   "name": "Сесилион",
                   "icon": "/images/heroes/cecilion.webp",
-                  "value": "50,98%"
+                  "value": "50,98%",
+                  "href": "/heroes/cecilion.html"
                 },
                 {
                   "name": "Цзэтянь",
                   "icon": "/images/heroes/zetian.webp",
-                  "value": "50,89%"
+                  "value": "50,89%",
+                  "href": "/heroes/zetian.html"
                 },
                 {
                   "name": "Алиса",
                   "icon": "/images/heroes/alice.webp",
-                  "value": "50,73%"
+                  "value": "50,73%",
+                  "href": "/heroes/alice.html"
                 },
                 {
                   "name": "Калеа",
                   "icon": "/images/heroes/kalea.webp",
-                  "value": "50,40%"
+                  "value": "50,40%",
+                  "href": "/heroes/kalea.html"
                 },
                 {
                   "name": "Беатрис",
                   "icon": "/images/heroes/beatrix.webp",
-                  "value": "50,37%"
+                  "value": "50,37%",
+                  "href": "/heroes/beatrix.html"
                 },
                 {
                   "name": "Эйдора",
                   "icon": "/images/heroes/eudora.webp",
-                  "value": "50,37%"
+                  "value": "50,37%",
+                  "href": "/heroes/eudora.html"
                 },
                 {
                   "name": "Клинт",
                   "icon": "/images/heroes/clint.webp",
-                  "value": "50,35%"
+                  "value": "50,35%",
+                  "href": "/heroes/clint.html"
                 },
                 {
                   "name": "Москов",
                   "icon": "/images/heroes/moskov.webp",
-                  "value": "50,30%"
+                  "value": "50,30%",
+                  "href": "/heroes/moskov.html"
                 },
                 {
                   "name": "Эймон",
                   "icon": "/images/heroes/aamon.webp",
-                  "value": "50,26%"
+                  "value": "50,26%",
+                  "href": "/heroes/aamon.html"
                 },
                 {
                   "name": "Баданг",
                   "icon": "/images/heroes/badang.webp",
-                  "value": "50,20%"
+                  "value": "50,20%",
+                  "href": "/heroes/badang.html"
                 },
                 {
                   "name": "Вэйл",
                   "icon": "/images/heroes/vale.webp",
-                  "value": "50,10%"
+                  "value": "50,10%",
+                  "href": "/heroes/vale.html"
                 },
                 {
                   "name": "Иксия",
                   "icon": "/images/heroes/ixia.webp",
-                  "value": "50,06%"
+                  "value": "50,06%",
+                  "href": "/heroes/ixia.html"
                 },
                 {
                   "name": "Пакито",
                   "icon": "/images/heroes/paquito.webp",
-                  "value": "50,04%"
+                  "value": "50,04%",
+                  "href": "/heroes/paquito.html"
                 },
                 {
                   "name": "Хирара",
                   "icon": "/images/heroes/hirara.webp",
-                  "value": "50,03%"
+                  "value": "50,03%",
+                  "href": "/heroes/hirara.html"
                 },
                 {
                   "name": "Броуди",
                   "icon": "/images/heroes/brody.webp",
-                  "value": "49,99%"
+                  "value": "49,99%",
+                  "href": "/heroes/brody.html"
                 },
                 {
                   "name": "Ангела",
                   "icon": "/images/heroes/angela.webp",
-                  "value": "49,97%"
+                  "value": "49,97%",
+                  "href": "/heroes/angela.html"
                 },
                 {
                   "name": "Джулиан",
                   "icon": "/images/heroes/julian.webp",
-                  "value": "49,96%"
+                  "value": "49,96%",
+                  "href": "/heroes/julian.html"
                 },
                 {
                   "name": "Икс.Борг",
                   "icon": "/images/heroes/x-borg.webp",
-                  "value": "49,96%"
+                  "value": "49,96%",
+                  "href": "/heroes/x-borg.html"
                 },
                 {
                   "name": "Кайя",
                   "icon": "/images/heroes/kaja.webp",
-                  "value": "49,82%"
+                  "value": "49,82%",
+                  "href": "/heroes/kaja.html"
                 },
                 {
                   "name": "Мия",
                   "icon": "/images/heroes/miya.webp",
-                  "value": "49,72%"
+                  "value": "49,72%",
+                  "href": "/heroes/miya.html"
                 },
                 {
                   "name": "Су Ё",
                   "icon": "/images/heroes/suyou.webp",
-                  "value": "49,70%"
+                  "value": "49,70%",
+                  "href": "/heroes/suyou.html"
                 },
                 {
                   "name": "Нолан",
                   "icon": "/images/heroes/nolan.webp",
-                  "value": "49,70%"
+                  "value": "49,70%",
+                  "href": "/heroes/nolan.html"
                 },
                 {
                   "name": "Одетта",
                   "icon": "/images/heroes/odette.webp",
-                  "value": "49,68%"
+                  "value": "49,68%",
+                  "href": "/heroes/odette.html"
                 },
                 {
                   "name": "Инь",
                   "icon": "/images/heroes/yin.webp",
-                  "value": "49,61%"
+                  "value": "49,61%",
+                  "href": "/heroes/yin.html"
                 },
                 {
                   "name": "Новария",
                   "icon": "/images/heroes/novaria.webp",
-                  "value": "49,56%"
+                  "value": "49,56%",
+                  "href": "/heroes/novaria.html"
                 },
                 {
                   "name": "Сора",
                   "icon": "/images/heroes/sora.webp",
-                  "value": "49,49%"
+                  "value": "49,49%",
+                  "href": "/heroes/sora.html"
                 },
                 {
                   "name": "Лейла",
                   "icon": "/images/heroes/layla.webp",
-                  "value": "49,41%"
+                  "value": "49,41%",
+                  "href": "/heroes/layla.html"
                 },
                 {
                   "name": "Чичи",
                   "icon": "/images/heroes/cici.webp",
-                  "value": "49,40%"
+                  "value": "49,40%",
+                  "href": "/heroes/cici.html"
                 },
                 {
                   "name": "Вексана",
                   "icon": "/images/heroes/vexana.webp",
-                  "value": "49,31%"
+                  "value": "49,31%",
+                  "href": "/heroes/vexana.html"
                 },
                 {
                   "name": "Дариус",
                   "icon": "/images/heroes/dyrroth.webp",
-                  "value": "49,30%"
+                  "value": "49,30%",
+                  "href": "/heroes/dyrroth.html"
                 },
                 {
                   "name": "Фрейя",
                   "icon": "/images/heroes/freya.webp",
-                  "value": "49,23%"
+                  "value": "49,23%",
+                  "href": "/heroes/freya.html"
                 },
                 {
                   "name": "Джонсон",
                   "icon": "/images/heroes/johnson.webp",
-                  "value": "49,22%"
+                  "value": "49,22%",
+                  "href": "/heroes/johnson.html"
                 },
                 {
                   "name": "Ли Сун-Син",
                   "icon": "/images/heroes/yi-sun-shin.webp",
-                  "value": "49,14%"
+                  "value": "49,14%",
+                  "href": "/heroes/yi-sun-shin.html"
                 }
               ]
             },
@@ -2562,97 +2624,116 @@
                 {
                   "name": "Чонг",
                   "icon": "/images/heroes/yu-zhong.webp",
-                  "value": "48,94%"
+                  "value": "48,94%",
+                  "href": "/heroes/yu-zhong.html"
                 },
                 {
                   "name": "Аврора",
                   "icon": "/images/heroes/aurora.webp",
-                  "value": "48,94%"
+                  "value": "48,94%",
+                  "href": "/heroes/aurora.html"
                 },
                 {
                   "name": "Тамуз",
                   "icon": "/images/heroes/thamuz.webp",
-                  "value": "48,91%"
+                  "value": "48,91%",
+                  "href": "/heroes/thamuz.html"
                 },
                 {
                   "name": "Кэрри",
                   "icon": "/images/heroes/karrie.webp",
-                  "value": "48,85%"
+                  "value": "48,85%",
+                  "href": "/heroes/karrie.html"
                 },
                 {
                   "name": "Алукард",
                   "icon": "/images/heroes/alucard.webp",
-                  "value": "48,85%"
+                  "value": "48,85%",
+                  "href": "/heroes/alucard.html"
                 },
                 {
                   "name": "Клауд",
                   "icon": "/images/heroes/claude.webp",
-                  "value": "48,85%"
+                  "value": "48,85%",
+                  "href": "/heroes/claude.html"
                 },
                 {
                   "name": "Альфа",
                   "icon": "/images/heroes/alpha.webp",
-                  "value": "48,84%"
+                  "value": "48,84%",
+                  "href": "/heroes/alpha.html"
                 },
                 {
                   "name": "Кимми",
                   "icon": "/images/heroes/kimmy.webp",
-                  "value": "48,77%"
+                  "value": "48,77%",
+                  "href": "/heroes/kimmy.html"
                 },
                 {
                   "name": "Госсен",
                   "icon": "/images/heroes/gusion.webp",
-                  "value": "48,61%"
+                  "value": "48,61%",
+                  "href": "/heroes/gusion.html"
                 },
                 {
                   "name": "Карина",
                   "icon": "/images/heroes/karina.webp",
-                  "value": "48,55%"
+                  "value": "48,55%",
+                  "href": "/heroes/karina.html"
                 },
                 {
                   "name": "Селена",
                   "icon": "/images/heroes/selena.webp",
-                  "value": "48,33%"
+                  "value": "48,33%",
+                  "href": "/heroes/selena.html"
                 },
                 {
                   "name": "Лесли",
                   "icon": "/images/heroes/lesley.webp",
-                  "value": "48,29%"
+                  "value": "48,29%",
+                  "href": "/heroes/lesley.html"
                 },
                 {
                   "name": "Чан'Э",
                   "icon": "/images/heroes/change.webp",
-                  "value": "48,20%"
+                  "value": "48,20%",
+                  "href": "/heroes/change.html"
                 },
                 {
                   "name": "Харли",
                   "icon": "/images/heroes/harley.webp",
-                  "value": "48,17%"
+                  "value": "48,17%",
+                  "href": "/heroes/harley.html"
                 },
                 {
                   "name": "Хаябуса",
                   "icon": "/images/heroes/hayabusa.webp",
-                  "value": "48,14%"
+                  "value": "48,14%",
+                  "href": "/heroes/hayabusa.html"
                 },
                 {
                   "name": "Хелкарт",
                   "icon": "/images/heroes/helcurt.webp",
-                  "value": "47,61%"
+                  "value": "47,61%",
+                  "href": "/heroes/helcurt.html"
                 },
                 {
                   "name": "Нана",
                   "icon": "/images/heroes/nana.webp",
-                  "value": "47,29%"
+                  "value": "47,29%",
+                  "href": "/heroes/nana.html"
                 },
                 {
                   "name": "Мартис",
                   "icon": "/images/heroes/martis.webp",
-                  "value": "47,24%"
+                  "value": "47,24%",
+                  "href": "/heroes/martis.html"
                 },
                 {
                   "name": "Эсмеральда",
                   "icon": "/images/heroes/esmeralda.webp",
-                  "value": "47,00%"
+                  "value": "47,00%",
+                  "href": "/heroes/esmeralda.html"
                 }
               ]
             },
@@ -2663,47 +2744,56 @@
                 {
                   "name": "Бальмонд",
                   "icon": "/images/heroes/balmond.webp",
-                  "value": "46,68%"
+                  "value": "46,68%",
+                  "href": "/heroes/balmond.html"
                 },
                 {
                   "name": "Зилонг",
                   "icon": "/images/heroes/zilong.webp",
-                  "value": "46,28%"
+                  "value": "46,28%",
+                  "href": "/heroes/zilong.html"
                 },
                 {
                   "name": "Гатоткача",
                   "icon": "/images/heroes/gatotkaca.webp",
-                  "value": "45,35%"
+                  "value": "45,35%",
+                  "href": "/heroes/gatotkaca.html"
                 },
                 {
                   "name": "Тигрил",
                   "icon": "/images/heroes/tigreal.webp",
-                  "value": "45,20%"
+                  "value": "45,20%",
+                  "href": "/heroes/tigreal.html"
                 },
                 {
                   "name": "Чу",
                   "icon": "/images/heroes/chou.webp",
-                  "value": "45,10%"
+                  "value": "45,10%",
+                  "href": "/heroes/chou.html"
                 },
                 {
                   "name": "Ланселот",
                   "icon": "/images/heroes/lancelot.webp",
-                  "value": "43,13%"
+                  "value": "43,13%",
+                  "href": "/heroes/lancelot.html"
                 },
                 {
                   "name": "Грейнджер",
                   "icon": "/images/heroes/granger.webp",
-                  "value": "43,00%"
+                  "value": "43,00%",
+                  "href": "/heroes/granger.html"
                 },
                 {
                   "name": "Фанни",
                   "icon": "/images/heroes/fanny.webp",
-                  "value": "42,62%"
+                  "value": "42,62%",
+                  "href": "/heroes/fanny.html"
                 },
                 {
                   "name": "Франко",
                   "icon": "/images/heroes/franco.webp",
-                  "value": "41,57%"
+                  "value": "41,57%",
+                  "href": "/heroes/franco.html"
                 }
               ]
             }
@@ -3128,62 +3218,74 @@
                     {
                       "name": "Masha",
                       "icon": "/images/heroes/masha.webp",
-                      "value": "60.47%"
+                      "value": "60.47%",
+                      "href": "/en/heroes/masha.html"
                     },
                     {
                       "name": "Argus",
                       "icon": "/images/heroes/argus.webp",
-                      "value": "56.76%"
+                      "value": "56.76%",
+                      "href": "/en/heroes/argus.html"
                     },
                     {
                       "name": "Rafaela",
                       "icon": "/images/heroes/rafaela.webp",
-                      "value": "54.57%"
+                      "value": "54.57%",
+                      "href": "/en/heroes/rafaela.html"
                     },
                     {
                       "name": "Valir",
                       "icon": "/images/heroes/valir.webp",
-                      "value": "54.13%"
+                      "value": "54.13%",
+                      "href": "/en/heroes/valir.html"
                     },
                     {
                       "name": "Floryn",
                       "icon": "/images/heroes/floryn.webp",
-                      "value": "54.06%"
+                      "value": "54.06%",
+                      "href": "/en/heroes/floryn.html"
                     },
                     {
                       "name": "Minotaur",
                       "icon": "/images/heroes/minotaur.webp",
-                      "value": "53.77%"
+                      "value": "53.77%",
+                      "href": "/en/heroes/minotaur.html"
                     },
                     {
                       "name": "Bruno",
                       "icon": "/images/heroes/bruno.webp",
-                      "value": "53.76%"
+                      "value": "53.76%",
+                      "href": "/en/heroes/bruno.html"
                     },
                     {
                       "name": "Sun",
                       "icon": "/images/heroes/sun.webp",
-                      "value": "53.69%"
+                      "value": "53.69%",
+                      "href": "/en/heroes/sun.html"
                     },
                     {
                       "name": "Gloo",
                       "icon": "/images/heroes/gloo.webp",
-                      "value": "53.55%"
+                      "value": "53.55%",
+                      "href": "/en/heroes/gloo.html"
                     },
                     {
                       "name": "Aulus",
                       "icon": "/images/heroes/aulus.webp",
-                      "value": "53.48%"
+                      "value": "53.48%",
+                      "href": "/en/heroes/aulus.html"
                     },
                     {
                       "name": "Carmilla",
                       "icon": "/images/heroes/carmilla.webp",
-                      "value": "53.32%"
+                      "value": "53.32%",
+                      "href": "/en/heroes/carmilla.html"
                     },
                     {
                       "name": "Obsidia",
                       "icon": "/images/heroes/obsidia.webp",
-                      "value": "53.22%"
+                      "value": "53.22%",
+                      "href": "/en/heroes/obsidia.html"
                     }
                   ]
                 },
@@ -3194,87 +3296,104 @@
                     {
                       "name": "Estes",
                       "icon": "/images/heroes/estes.webp",
-                      "value": "52.74%"
+                      "value": "52.74%",
+                      "href": "/en/heroes/estes.html"
                     },
                     {
                       "name": "Hanabi",
                       "icon": "/images/heroes/hanabi.webp",
-                      "value": "52.64%"
+                      "value": "52.64%",
+                      "href": "/en/heroes/hanabi.html"
                     },
                     {
                       "name": "Gord",
                       "icon": "/images/heroes/gord.webp",
-                      "value": "52.63%"
+                      "value": "52.63%",
+                      "href": "/en/heroes/gord.html"
                     },
                     {
                       "name": "Ling",
                       "icon": "/images/heroes/ling.webp",
-                      "value": "52.56%"
+                      "value": "52.56%",
+                      "href": "/en/heroes/ling.html"
                     },
                     {
                       "name": "Minsitthar",
                       "icon": "/images/heroes/minsitthar.webp",
-                      "value": "52.04%"
+                      "value": "52.04%",
+                      "href": "/en/heroes/minsitthar.html"
                     },
                     {
                       "name": "Lukas",
                       "icon": "/images/heroes/lukas.webp",
-                      "value": "52.03%"
+                      "value": "52.03%",
+                      "href": "/en/heroes/lukas.html"
                     },
                     {
                       "name": "Belerick",
                       "icon": "/images/heroes/belerick.webp",
-                      "value": "51.82%"
+                      "value": "51.82%",
+                      "href": "/en/heroes/belerick.html"
                     },
                     {
                       "name": "Barats",
                       "icon": "/images/heroes/barats.webp",
-                      "value": "51.67%"
+                      "value": "51.67%",
+                      "href": "/en/heroes/barats.html"
                     },
                     {
                       "name": "Cyclops",
                       "icon": "/images/heroes/cyclops.webp",
-                      "value": "51.66%"
+                      "value": "51.66%",
+                      "href": "/en/heroes/cyclops.html"
                     },
                     {
                       "name": "Xavier",
                       "icon": "/images/heroes/xavier.webp",
-                      "value": "51.56%"
+                      "value": "51.56%",
+                      "href": "/en/heroes/xavier.html"
                     },
                     {
                       "name": "Atlas",
                       "icon": "/images/heroes/atlas.webp",
-                      "value": "51.49%"
+                      "value": "51.49%",
+                      "href": "/en/heroes/atlas.html"
                     },
                     {
                       "name": "Silvanna",
                       "icon": "/images/heroes/silvanna.webp",
-                      "value": "51.36%"
+                      "value": "51.36%",
+                      "href": "/en/heroes/silvanna.html"
                     },
                     {
                       "name": "Kadita",
                       "icon": "/images/heroes/kadita.webp",
-                      "value": "51.33%"
+                      "value": "51.33%",
+                      "href": "/en/heroes/kadita.html"
                     },
                     {
                       "name": "Guinevere",
                       "icon": "/images/heroes/guinevere.webp",
-                      "value": "51.27%"
+                      "value": "51.27%",
+                      "href": "/en/heroes/guinevere.html"
                     },
                     {
                       "name": "Saber",
                       "icon": "/images/heroes/saber.webp",
-                      "value": "51.18%"
+                      "value": "51.18%",
+                      "href": "/en/heroes/saber.html"
                     },
                     {
                       "name": "Kagura",
                       "icon": "/images/heroes/kagura.webp",
-                      "value": "51.13%"
+                      "value": "51.13%",
+                      "href": "/en/heroes/kagura.html"
                     },
                     {
                       "name": "Hilda",
                       "icon": "/images/heroes/hilda.webp",
-                      "value": "51.07%"
+                      "value": "51.07%",
+                      "href": "/en/heroes/hilda.html"
                     }
                   ]
                 },
@@ -3285,167 +3404,200 @@
                     {
                       "name": "Cecilion",
                       "icon": "/images/heroes/cecilion.webp",
-                      "value": "50.98%"
+                      "value": "50.98%",
+                      "href": "/en/heroes/cecilion.html"
                     },
                     {
                       "name": "Zetian",
                       "icon": "/images/heroes/zetian.webp",
-                      "value": "50.89%"
+                      "value": "50.89%",
+                      "href": "/en/heroes/zetian.html"
                     },
                     {
                       "name": "Alice",
                       "icon": "/images/heroes/alice.webp",
-                      "value": "50.73%"
+                      "value": "50.73%",
+                      "href": "/en/heroes/alice.html"
                     },
                     {
                       "name": "Kalea",
                       "icon": "/images/heroes/kalea.webp",
-                      "value": "50.40%"
+                      "value": "50.40%",
+                      "href": "/en/heroes/kalea.html"
                     },
                     {
                       "name": "Beatrix",
                       "icon": "/images/heroes/beatrix.webp",
-                      "value": "50.37%"
+                      "value": "50.37%",
+                      "href": "/en/heroes/beatrix.html"
                     },
                     {
                       "name": "Eudora",
                       "icon": "/images/heroes/eudora.webp",
-                      "value": "50.37%"
+                      "value": "50.37%",
+                      "href": "/en/heroes/eudora.html"
                     },
                     {
                       "name": "Clint",
                       "icon": "/images/heroes/clint.webp",
-                      "value": "50.35%"
+                      "value": "50.35%",
+                      "href": "/en/heroes/clint.html"
                     },
                     {
                       "name": "Moskov",
                       "icon": "/images/heroes/moskov.webp",
-                      "value": "50.30%"
+                      "value": "50.30%",
+                      "href": "/en/heroes/moskov.html"
                     },
                     {
                       "name": "Aamon",
                       "icon": "/images/heroes/aamon.webp",
-                      "value": "50.26%"
+                      "value": "50.26%",
+                      "href": "/en/heroes/aamon.html"
                     },
                     {
                       "name": "Badang",
                       "icon": "/images/heroes/badang.webp",
-                      "value": "50.20%"
+                      "value": "50.20%",
+                      "href": "/en/heroes/badang.html"
                     },
                     {
                       "name": "Vale",
                       "icon": "/images/heroes/vale.webp",
-                      "value": "50.10%"
+                      "value": "50.10%",
+                      "href": "/en/heroes/vale.html"
                     },
                     {
                       "name": "Ixia",
                       "icon": "/images/heroes/ixia.webp",
-                      "value": "50.06%"
+                      "value": "50.06%",
+                      "href": "/en/heroes/ixia.html"
                     },
                     {
                       "name": "Paquito",
                       "icon": "/images/heroes/paquito.webp",
-                      "value": "50.04%"
+                      "value": "50.04%",
+                      "href": "/en/heroes/paquito.html"
                     },
                     {
                       "name": "Hirara",
                       "icon": "/images/heroes/hirara.webp",
-                      "value": "50.03%"
+                      "value": "50.03%",
+                      "href": "/en/heroes/hirara.html"
                     },
                     {
                       "name": "Brody",
                       "icon": "/images/heroes/brody.webp",
-                      "value": "49.99%"
+                      "value": "49.99%",
+                      "href": "/en/heroes/brody.html"
                     },
                     {
                       "name": "Angela",
                       "icon": "/images/heroes/angela.webp",
-                      "value": "49.97%"
+                      "value": "49.97%",
+                      "href": "/en/heroes/angela.html"
                     },
                     {
                       "name": "Julian",
                       "icon": "/images/heroes/julian.webp",
-                      "value": "49.96%"
+                      "value": "49.96%",
+                      "href": "/en/heroes/julian.html"
                     },
                     {
                       "name": "X.Borg",
                       "icon": "/images/heroes/x-borg.webp",
-                      "value": "49.96%"
+                      "value": "49.96%",
+                      "href": "/en/heroes/x-borg.html"
                     },
                     {
                       "name": "Kaja",
                       "icon": "/images/heroes/kaja.webp",
-                      "value": "49.82%"
+                      "value": "49.82%",
+                      "href": "/en/heroes/kaja.html"
                     },
                     {
                       "name": "Miya",
                       "icon": "/images/heroes/miya.webp",
-                      "value": "49.72%"
+                      "value": "49.72%",
+                      "href": "/en/heroes/miya.html"
                     },
                     {
                       "name": "Suyou",
                       "icon": "/images/heroes/suyou.webp",
-                      "value": "49.70%"
+                      "value": "49.70%",
+                      "href": "/en/heroes/suyou.html"
                     },
                     {
                       "name": "Nolan",
                       "icon": "/images/heroes/nolan.webp",
-                      "value": "49.70%"
+                      "value": "49.70%",
+                      "href": "/en/heroes/nolan.html"
                     },
                     {
                       "name": "Odette",
                       "icon": "/images/heroes/odette.webp",
-                      "value": "49.68%"
+                      "value": "49.68%",
+                      "href": "/en/heroes/odette.html"
                     },
                     {
                       "name": "Yin",
                       "icon": "/images/heroes/yin.webp",
-                      "value": "49.61%"
+                      "value": "49.61%",
+                      "href": "/en/heroes/yin.html"
                     },
                     {
                       "name": "Novaria",
                       "icon": "/images/heroes/novaria.webp",
-                      "value": "49.56%"
+                      "value": "49.56%",
+                      "href": "/en/heroes/novaria.html"
                     },
                     {
                       "name": "Sora",
                       "icon": "/images/heroes/sora.webp",
-                      "value": "49.49%"
+                      "value": "49.49%",
+                      "href": "/en/heroes/sora.html"
                     },
                     {
                       "name": "Layla",
                       "icon": "/images/heroes/layla.webp",
-                      "value": "49.41%"
+                      "value": "49.41%",
+                      "href": "/en/heroes/layla.html"
                     },
                     {
                       "name": "Cici",
                       "icon": "/images/heroes/cici.webp",
-                      "value": "49.40%"
+                      "value": "49.40%",
+                      "href": "/en/heroes/cici.html"
                     },
                     {
                       "name": "Vexana",
                       "icon": "/images/heroes/vexana.webp",
-                      "value": "49.31%"
+                      "value": "49.31%",
+                      "href": "/en/heroes/vexana.html"
                     },
                     {
                       "name": "Dyrroth",
                       "icon": "/images/heroes/dyrroth.webp",
-                      "value": "49.30%"
+                      "value": "49.30%",
+                      "href": "/en/heroes/dyrroth.html"
                     },
                     {
                       "name": "Freya",
                       "icon": "/images/heroes/freya.webp",
-                      "value": "49.23%"
+                      "value": "49.23%",
+                      "href": "/en/heroes/freya.html"
                     },
                     {
                       "name": "Johnson",
                       "icon": "/images/heroes/johnson.webp",
-                      "value": "49.22%"
+                      "value": "49.22%",
+                      "href": "/en/heroes/johnson.html"
                     },
                     {
                       "name": "Yi Sun-shin",
                       "icon": "/images/heroes/yi-sun-shin.webp",
-                      "value": "49.14%"
+                      "value": "49.14%",
+                      "href": "/en/heroes/yi-sun-shin.html"
                     }
                   ]
                 },
@@ -3456,97 +3608,116 @@
                     {
                       "name": "Yu Zhong",
                       "icon": "/images/heroes/yu-zhong.webp",
-                      "value": "48.94%"
+                      "value": "48.94%",
+                      "href": "/en/heroes/yu-zhong.html"
                     },
                     {
                       "name": "Aurora",
                       "icon": "/images/heroes/aurora.webp",
-                      "value": "48.94%"
+                      "value": "48.94%",
+                      "href": "/en/heroes/aurora.html"
                     },
                     {
                       "name": "Thamuz",
                       "icon": "/images/heroes/thamuz.webp",
-                      "value": "48.91%"
+                      "value": "48.91%",
+                      "href": "/en/heroes/thamuz.html"
                     },
                     {
                       "name": "Karrie",
                       "icon": "/images/heroes/karrie.webp",
-                      "value": "48.85%"
+                      "value": "48.85%",
+                      "href": "/en/heroes/karrie.html"
                     },
                     {
                       "name": "Alucard",
                       "icon": "/images/heroes/alucard.webp",
-                      "value": "48.85%"
+                      "value": "48.85%",
+                      "href": "/en/heroes/alucard.html"
                     },
                     {
                       "name": "Claude",
                       "icon": "/images/heroes/claude.webp",
-                      "value": "48.85%"
+                      "value": "48.85%",
+                      "href": "/en/heroes/claude.html"
                     },
                     {
                       "name": "Alpha",
                       "icon": "/images/heroes/alpha.webp",
-                      "value": "48.84%"
+                      "value": "48.84%",
+                      "href": "/en/heroes/alpha.html"
                     },
                     {
                       "name": "Kimmy",
                       "icon": "/images/heroes/kimmy.webp",
-                      "value": "48.77%"
+                      "value": "48.77%",
+                      "href": "/en/heroes/kimmy.html"
                     },
                     {
                       "name": "Gusion",
                       "icon": "/images/heroes/gusion.webp",
-                      "value": "48.61%"
+                      "value": "48.61%",
+                      "href": "/en/heroes/gusion.html"
                     },
                     {
                       "name": "Karina",
                       "icon": "/images/heroes/karina.webp",
-                      "value": "48.55%"
+                      "value": "48.55%",
+                      "href": "/en/heroes/karina.html"
                     },
                     {
                       "name": "Selena",
                       "icon": "/images/heroes/selena.webp",
-                      "value": "48.33%"
+                      "value": "48.33%",
+                      "href": "/en/heroes/selena.html"
                     },
                     {
                       "name": "Lesley",
                       "icon": "/images/heroes/lesley.webp",
-                      "value": "48.29%"
+                      "value": "48.29%",
+                      "href": "/en/heroes/lesley.html"
                     },
                     {
                       "name": "Chang'e",
                       "icon": "/images/heroes/change.webp",
-                      "value": "48.20%"
+                      "value": "48.20%",
+                      "href": "/en/heroes/change.html"
                     },
                     {
                       "name": "Harley",
                       "icon": "/images/heroes/harley.webp",
-                      "value": "48.17%"
+                      "value": "48.17%",
+                      "href": "/en/heroes/harley.html"
                     },
                     {
                       "name": "Hayabusa",
                       "icon": "/images/heroes/hayabusa.webp",
-                      "value": "48.14%"
+                      "value": "48.14%",
+                      "href": "/en/heroes/hayabusa.html"
                     },
                     {
                       "name": "Helcurt",
                       "icon": "/images/heroes/helcurt.webp",
-                      "value": "47.61%"
+                      "value": "47.61%",
+                      "href": "/en/heroes/helcurt.html"
                     },
                     {
                       "name": "Nana",
                       "icon": "/images/heroes/nana.webp",
-                      "value": "47.29%"
+                      "value": "47.29%",
+                      "href": "/en/heroes/nana.html"
                     },
                     {
                       "name": "Martis",
                       "icon": "/images/heroes/martis.webp",
-                      "value": "47.24%"
+                      "value": "47.24%",
+                      "href": "/en/heroes/martis.html"
                     },
                     {
                       "name": "Esmeralda",
                       "icon": "/images/heroes/esmeralda.webp",
-                      "value": "47.00%"
+                      "value": "47.00%",
+                      "href": "/en/heroes/esmeralda.html"
                     }
                   ]
                 },
@@ -3557,47 +3728,56 @@
                     {
                       "name": "Balmond",
                       "icon": "/images/heroes/balmond.webp",
-                      "value": "46.68%"
+                      "value": "46.68%",
+                      "href": "/en/heroes/balmond.html"
                     },
                     {
                       "name": "Zilong",
                       "icon": "/images/heroes/zilong.webp",
-                      "value": "46.28%"
+                      "value": "46.28%",
+                      "href": "/en/heroes/zilong.html"
                     },
                     {
                       "name": "Gatotkaca",
                       "icon": "/images/heroes/gatotkaca.webp",
-                      "value": "45.35%"
+                      "value": "45.35%",
+                      "href": "/en/heroes/gatotkaca.html"
                     },
                     {
                       "name": "Tigreal",
                       "icon": "/images/heroes/tigreal.webp",
-                      "value": "45.20%"
+                      "value": "45.20%",
+                      "href": "/en/heroes/tigreal.html"
                     },
                     {
                       "name": "Chou",
                       "icon": "/images/heroes/chou.webp",
-                      "value": "45.10%"
+                      "value": "45.10%",
+                      "href": "/en/heroes/chou.html"
                     },
                     {
                       "name": "Lancelot",
                       "icon": "/images/heroes/lancelot.webp",
-                      "value": "43.13%"
+                      "value": "43.13%",
+                      "href": "/en/heroes/lancelot.html"
                     },
                     {
                       "name": "Granger",
                       "icon": "/images/heroes/granger.webp",
-                      "value": "43.00%"
+                      "value": "43.00%",
+                      "href": "/en/heroes/granger.html"
                     },
                     {
                       "name": "Fanny",
                       "icon": "/images/heroes/fanny.webp",
-                      "value": "42.62%"
+                      "value": "42.62%",
+                      "href": "/en/heroes/fanny.html"
                     },
                     {
                       "name": "Franco",
                       "icon": "/images/heroes/franco.webp",
-                      "value": "41.57%"
+                      "value": "41.57%",
+                      "href": "/en/heroes/franco.html"
                     }
                   ]
                 }

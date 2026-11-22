@@ -6,6 +6,7 @@ import vm from 'node:vm';
 import { parseHTML } from 'linkedom';
 import TurndownService from 'turndown';
 import reviewText from '../js/review-text.js';
+import { heroGuides, profileArt } from './hero-pages.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const origin = 'https://boostmlbb.ru';
@@ -21,6 +22,8 @@ async function save(file, text) {
 }
 const escape = text => String(text).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const config = JSON.parse(await read('content/seo-pages.json'));
+const heroesData = JSON.parse(await read('content/heroes.json'));
+config.guides.push(...heroGuides(heroesData));
 const data = JSON.parse(await read('content/public-data.json'));
 const changedDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Moscow', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(data.checkedAt));
 const context = vm.createContext({ window: { MLBB_DICT: {} } });
@@ -49,7 +52,7 @@ function translateDOM(element, file) {
   [...element.childNodes].forEach(node => translateDOM(node, file));
 }
 const pageFiles = (await readdir(root)).filter(file => file.endsWith('.html') && !file.startsWith('enot_'));
-const filePath = file => file === 'index.html' ? '/' : `/${file}`;
+const filePath = file => file === 'index.html' ? '/' : file.endsWith('/index.html') ? `/${file.slice(0, -'index.html'.length)}` : `/${file}`;
 const localized = (pathname, lang) => lang === 'en' ? `/en${pathname}` : pathname;
 const allPaths = new Set([...pageFiles.map(filePath), ...config.guides.map(g => filePath(g.file))]);
 function localURL(value, lang, isNavigation) {
@@ -200,6 +203,7 @@ function uiArt(kind, lang) {
       `<div class="ui-placement">${rankImg('Mythic', 'ui-placement__rank')}<div class="ui-matches">${dots}</div></div>`,
       `<span>${t('Мифик', 'Mythic')}</span><strong>8⭐</strong>`);
   }
+  if (kind.startsWith('profile:')) return profileArt(kind.slice(8), lang, heroesData);
   if (kind === 'party') return card(t('Пати', 'Party'), t('Готовы', 'Ready'),
     `<div class="ui-lobby"><div class="ui-player">${rankImg('Mythical_Glory')}<div><strong>${t('Вы', 'You')}</strong><span>${t('Мифическая слава', 'Mythical Glory')}</span></div><span class="ui-ready"></span></div><div class="ui-player">${rankImg('Mythical_Immortal')}<div><strong>${t('Бустер', 'Booster')}</strong><span>${t('Бессмертный', 'Immortal')}</span></div><span class="ui-ready"></span></div></div>`,
     `<span>${t('Вход в аккаунт', 'Account login')}</span><strong>${t('не нужен', 'not needed')}</strong>`);
@@ -210,12 +214,12 @@ function guideArticle(guide, lang) {
   const [, , body, rawFaq = []] = guide[lang];
   const faq = rawFaq.map(([q, a]) => [q, fillTokens(a, lang)]);
   const updated = guide.updated || '2026-10-05';
-  const crumbs = guide.kind === 'service' ? [localized('/services.html', lang), en ? 'Services' : 'Услуги'] : [localized('/services.html', lang), en ? 'Services' : 'Услуги'];
+  const crumbs = guide.crumb ? [localized(guide.crumb[0], lang), en ? guide.crumb[2] : guide.crumb[1]] : [localized('/services.html', lang), en ? 'Services' : 'Услуги'];
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
   if (guide.layout === 'landing') {
     const hero = guide[lang][4];
     const art = guide.art ? `<div class="lp-hero__art">${uiArt(guide.art, lang)}</div>` : '';
-    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero${guide.art ? ' lp-hero--art' : ''}"><div class="hero-glow"></div><div class="container lp-hero__grid"><div class="lp-hero__copy"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="fab fa-telegram"></i><span>${hero.secondary[0]}</span></a></div></div>${art}</div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
+    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero${guide.art ? ' lp-hero--art' : ''}"><div class="hero-glow"></div><div class="container lp-hero__grid"><div class="lp-hero__copy"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="${hero.secondaryIcon ? `fas ${hero.secondaryIcon}` : 'fab fa-telegram'}"></i><span>${hero.secondary[0]}</span></a></div></div>${art}</div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
   }
   return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></article>`;
 }
@@ -272,7 +276,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
   for (const lang of ['ru', 'en']) {
     const { document } = parseHTML(source);
     const navigation = document.querySelector('.nav-list');
-    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-star'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-comments'], ['/news/', 'Новости', 'fa-newspaper'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-users']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Купить буст</a></li>';
+    if (navigation) navigation.innerHTML = [['/', 'Главная', 'fa-home'], ['/services.html', 'Услуги', 'fa-star'], ['/prices.html', 'Цены', 'fa-tags'], ['/reviews.html', 'Отзывы', 'fa-comments'], ['/news/', 'Новости', 'fa-newspaper'], ['/heroes/', 'Герои', 'fa-user-shield'], ['/faq.html', 'FAQ', 'fa-question-circle'], ['/about.html', 'О нас', 'fa-users']].map(([href, label, icon]) => `<li><a href="${href}" class="nav-link"><i class="fas ${icon}" aria-hidden="true"></i>${label}</a></li>`).join('') + '<li><a href="/order.html" class="nav-link cta"><i class="fas fa-shopping-cart" aria-hidden="true"></i>Купить буст</a></li>';
     for (const element of document.querySelectorAll('.channel-title, .site-footer a')) {
       element.innerHTML = element.innerHTML.replace(/\d+\+? отзывов/g, `${data.reviewStats.count} отзывов`).replace(/Отзывы \(\d+\+?\)/g, `Отзывы (${data.reviewStats.count})`);
     }
@@ -369,7 +373,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '35' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '36' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
@@ -473,8 +477,8 @@ await save('js/i18n-seo.js', `/* Generated from content/seo-translations.json. *
 const pricesJS = await read('js/prices.js');
 await save('js/prices.js', pricesJS.replace(/const LAST_KNOWN_PRICES = \[[\s\S]*?\n\];/, `const LAST_KNOWN_PRICES = ${JSON.stringify(data.prices, null, 2)};`).replace(/Последний проверенный fallback с API на [\d-]+\./, `Последний проверенный fallback с API на ${changedDate}.`));
 await save('js/review-stats.js', `/* Generated public review aggregate. No full review downloads on landing pages. */\n(function () {\n  'use strict';\n  var stats = ${JSON.stringify(data.reviewStats)};\n  function apply() {\n    document.querySelectorAll('[data-review-stat]').forEach(function (node) {\n      var key = node.getAttribute('data-review-stat');\n      node.textContent = key === 'rating' ? stats.rating.toFixed(1) : key === 'satisfaction' ? stats.satisfaction + '%' : String(stats[key]);\n    });\n  }\n  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();\n})();\n`);
-await save('llms.txt', `# MLBB Boost\n\n> Independent service for arranging Mobile Legends: Bang Bang rank boosts and party play. Not affiliated with MOONTON Games.\n\nOrders are arranged through Telegram. Check the website prices and calculator for order estimates; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.\n\n## Services and policies\n${rendered.filter(p => ['index.html', 'services.html', 'prices.html', 'order.html', 'faq.html', 'about.html', 'reviews.html', 'refund.html', 'security.html', 'disclaimer.html'].includes(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Guides\n${rendered.filter(p => guideOf(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Machine-readable public resources\n- [Full content in Markdown](${origin}/llms-full.txt)\n- [Russian news feed](${origin}/news/rss.xml)\n- [English news feed](${origin}/en/news/rss.xml)\n\nRead the linked website pages for the complete service terms.\n`);
-await save('llms-full.txt', `# MLBB Boost public content\n\nGenerated from the same HTML content available to visitors. Canonical website pages remain authoritative.\n\n${rendered.filter(p => p.lang === 'en' && (config.pages[p.file] || guideOf(p.file))).map(p => `## ${p.title}\n\nSource: ${p.url}\n\n${p.text}`).join('\n\n---\n\n')}\n`);
+await save('llms.txt', `# MLBB Boost\n\n> Independent service for arranging Mobile Legends: Bang Bang rank boosts and party play. Not affiliated with MOONTON Games.\n\nOrders are arranged through Telegram. Check the website prices and calculator for order estimates; first-order discount eligibility and timing must be confirmed before payment. Account access carries risks; no guarantee of no sanctions. Published reviews are not independently certified.\n\n## Services and policies\n${rendered.filter(p => ['index.html', 'services.html', 'prices.html', 'order.html', 'faq.html', 'about.html', 'reviews.html', 'refund.html', 'security.html', 'disclaimer.html'].includes(p.file) && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Guides\n${rendered.filter(p => guideOf(p.file) && !guideOf(p.file).noLlms && p.lang === 'en').map(p => `- [${p.title}](${p.url})`).join('\n')}\n\n## Machine-readable public resources\n- [Full content in Markdown](${origin}/llms-full.txt)\n- [Russian news feed](${origin}/news/rss.xml)\n- [English news feed](${origin}/en/news/rss.xml)\n\nRead the linked website pages for the complete service terms.\n`);
+await save('llms-full.txt', `# MLBB Boost public content\n\nGenerated from the same HTML content available to visitors. Canonical website pages remain authoritative.\n\n${rendered.filter(p => p.lang === 'en' && (config.pages[p.file] || (guideOf(p.file) && !guideOf(p.file).noLlms))).map(p => `## ${p.title}\n\nSource: ${p.url}\n\n${p.text}`).join('\n\n---\n\n')}\n`);
 const catalogue = await read('.well-known/api-catalog');
 await save('.well-known/api-catalog.json', catalogue);
 const skills = JSON.parse(await read('.well-known/agent-skills/index.json'));

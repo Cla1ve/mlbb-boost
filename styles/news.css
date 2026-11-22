@@ -2431,3 +2431,5 @@ body:has(.article-content) { background: #0b1a2b; }
 .hero-tiers__value { color: #9fb3c6; font-size: .72rem; font-variant-numeric: tabular-nums; }
 .hero-tiers__note { margin: 0; padding: .8rem 1.2rem; border-top: 1px solid #1e3650; color: #a9b8c6; font-size: .82rem; }
 @media (max-width: 560px) { .hero-tiers__row { grid-template-columns: 58px minmax(0, 1fr); } .hero-tiers__tier strong { font-size: 1.5rem; } .hero-tiers__list { grid-template-columns: repeat(auto-fill, minmax(64px, 1fr)); } .hero-tiers__list img { width: 48px; height: 48px; } }
+.hero-tiers__list a { display: flex; flex-direction: column; align-items: center; gap: 3px; color: inherit; text-decoration: none; }
+.hero-tiers__list a:hover .hero-tiers__name, .hero-tiers__list a:focus-visible .hero-tiers__name { color: #00ff9d; }

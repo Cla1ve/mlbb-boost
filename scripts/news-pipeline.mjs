@@ -60,6 +60,7 @@ const UI = {
       prices: 'Цены',
       reviews: 'Отзывы',
       news: 'Новости',
+      heroes: 'Герои',
       faq: 'FAQ',
       about: 'О нас',
       buy: 'Купить буст'
@@ -162,6 +163,7 @@ const UI = {
       prices: 'Prices',
       reviews: 'Reviews',
       news: 'News',
+      heroes: 'Heroes',
       faq: 'FAQ',
       about: 'About',
       buy: 'Buy boost'
@@ -1314,6 +1316,7 @@ function renderNavigation(active = 'news', locale = 'ru', languageTargets = null
     ['/prices.html', copy.nav.prices, 'fas fa-tags', 'prices'],
     ['/reviews.html', copy.nav.reviews, 'fas fa-comments', 'reviews'],
     ['/news/', copy.nav.news, 'fas fa-newspaper', 'news'],
+    ['/heroes/', copy.nav.heroes, 'fas fa-user-shield', 'heroes'],
     ['/faq.html', copy.nav.faq, 'fas fa-question-circle', 'faq'],
     ['/about.html', copy.nav.about, 'fas fa-users', 'about']
   ];
@@ -1443,7 +1446,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=11">
+  <link rel="stylesheet" href="/styles/news.css?v=12">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=31">`;
 }
@@ -1766,7 +1769,7 @@ function renderBlock(block, locale = 'ru') {
         ${block.tiers.map((tier) => `
         <div class="hero-tiers__row hero-tiers__row--${escapeHtml(tier.tier.toLowerCase())}">
           <div class="hero-tiers__tier"><strong>${escapeHtml(tier.tier)}</strong><span>${escapeHtml(tier.label)}</span></div>
-          <ul class="hero-tiers__list">${tier.heroes.map((hero) => `<li><img src="${escapeHtml(hero.icon)}" width="56" height="56" alt="" loading="lazy" decoding="async"><span class="hero-tiers__name">${escapeHtml(hero.name)}</span><span class="hero-tiers__value">${escapeHtml(hero.value)}</span></li>`).join('')}</ul>
+          <ul class="hero-tiers__list">${tier.heroes.map((hero) => `<li>${hero.href ? `<a href="${escapeHtml(hero.href)}">` : ''}<img src="${escapeHtml(hero.icon)}" width="56" height="56" alt="" loading="lazy" decoding="async"><span class="hero-tiers__name">${escapeHtml(hero.name)}</span><span class="hero-tiers__value">${escapeHtml(hero.value)}</span>${hero.href ? '</a>' : ''}</li>`).join('')}</ul>
         </div>`).join('')}
         ${block.note ? `<p class="hero-tiers__note">${escapeHtml(block.note)}</p>` : ''}
       </figure>`;
