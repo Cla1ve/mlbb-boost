@@ -122,6 +122,10 @@ When your friend orders 25+ stars
 
 [Message @Cla1ve](https://t.me/Cla1ve)
 
-## More about formats and ranks
+More
 
-[**Mythic boost**Honor, Glory and Immortal prices](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rank and MMR of your hero](https://boostmlbb.ru/en/boost/hero.html)[**Party or account**How the formats differ](https://boostmlbb.ru/en/guides/party-boost.html)[**Mythic placement**10 matches and double wins](https://boostmlbb.ru/en/guides/mythic-placement.html)
+## Formats and rules
+
+Prices, timing and differences of each boost format.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/guides/party-640.webp)Guide**Party or account boost**How the formats differ and which costs lessOpen](https://boostmlbb.ru/en/guides/party-boost.html) [![](/images/guides/placement-640.webp)Guide**Mythic placement**10 matches, double wins and priceOpen](https://boostmlbb.ru/en/guides/mythic-placement.html)

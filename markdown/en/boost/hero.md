@@ -15,6 +15,8 @@ The booster raises your rank playing only your chosen hero — both stars and he
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
+![An emerald crystal shield with a sword on a pedestal](/images/guides/hero-boost.jpg)
+
 **816**hero orders
 
 **182**different heroes
@@ -230,3 +232,11 @@ How is a hero boost different from a role boost?
 In a role boost the booster may use different heroes of one role. In a hero boost the whole route is one hero.
 
 MLBB Boost editorial team · Updated 22 November 2026
+
+Related
+
+## Other formats and guides
+
+Compare with the Mythic boost and party.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/party-640.webp)Guide**Party or account boost**How the formats differ and which costs lessOpen](https://boostmlbb.ru/en/guides/party-boost.html) [![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)

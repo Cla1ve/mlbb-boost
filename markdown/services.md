@@ -122,6 +122,10 @@ Hot
 
 [Написать @Cla1ve](https://t.me/Cla1ve)
 
-## Подробнее о форматах и рангах
+Подробнее
 
-[**Буст Мифика**Цены на Честь, Славу и Бессмертного](https://boostmlbb.ru/boost/mythic.html)[**Буст на герое**Ранг и ММР выбранного героя](https://boostmlbb.ru/boost/hero.html)[**Пати или со входом**Чем отличаются форматы](https://boostmlbb.ru/guides/party-boost.html)[**Калибровка Мифика**10 матчей и двойные победы](https://boostmlbb.ru/guides/mythic-placement.html)
+## Форматы и правила
+
+Цены, сроки и отличия каждого формата буста.
+
+[![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html) [![](/images/guides/party-640.webp)Гайд**Пати или со входом**Чем отличаются форматы и что дешевлеОткрыть](https://boostmlbb.ru/guides/party-boost.html) [![](/images/guides/placement-640.webp)Гайд**Калибровка Мифика**10 матчей, двойные победы и ценаОткрыть](https://boostmlbb.ru/guides/mythic-placement.html)

@@ -15,6 +15,8 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)[Написать в Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
+![Изумрудный кристаллический щит с мечом на пьедестале](/images/guides/hero-boost.jpg)
+
 **816**заказов на герое
 
 **182**разных героя
@@ -230,3 +232,11 @@ language: ru
 На роли бустер может брать разных героев одной роли. На герое весь путь проходит одним героем.
 
 Редакция MLBB Boost · Обновлено 22 ноября 2026
+
+Ещё по теме
+
+## Другие форматы и гайды
+
+Сравните с бустом Мифика и пати.
+
+[![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/guides/party-640.webp)Гайд**Пати или со входом**Чем отличаются форматы и что дешевлеОткрыть](https://boostmlbb.ru/guides/party-boost.html) [![](/images/news/mlbb-meta-tier-list-768.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистикеОткрыть](https://boostmlbb.ru/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/)

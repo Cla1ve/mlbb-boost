@@ -15,6 +15,8 @@ Placement
 
 [Calculate the price](https://boostmlbb.ru/en/order.html)[Ask a question](https://t.me/Cla1ve)
 
+![A crystal gate inside a ring of ten glowing stones](/images/guides/placement.jpg)
+
 **10**placement matches
 
 **×2**stars per win
@@ -91,3 +93,11 @@ How much is a placement boost?
 It is priced per win: 165 ₽ for an account boost and 335 ₽ in a party. The calculator shows the total for the matches you have played.
 
 MLBB Boost editorial team · Updated 22 November 2026
+
+Related
+
+## After placement
+
+Mythic star prices and the full rank ladder.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html)

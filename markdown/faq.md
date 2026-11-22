@@ -51,6 +51,10 @@ FAQ
 
 [Написать](https://t.me/Cla1ve) [Telegram бот](https://t.me/cla1ve_boost_bot?start=site)
 
-## Гайды по рангам
+Гайды
 
-[**Ранги по порядку**Звёзды, пороги Мифика, калибровка](https://boostmlbb.ru/news/mlbb-ranks-in-order/)[**Конец сезона и сброс**Когда закончится 42 сезон](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)[**Калибровка Мифика**Как работают 10 матчей](https://boostmlbb.ru/guides/mythic-placement.html)
+## Ответы подробнее
+
+Ранги, калибровка и конец сезона — с таблицами и цифрами.
+
+[![](/images/news/mlbb-meta-tier-list-768.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистикеОткрыть](https://boostmlbb.ru/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/guides/placement-640.webp)Гайд**Калибровка Мифика**10 матчей, двойные победы и ценаОткрыть](https://boostmlbb.ru/guides/mythic-placement.html)

@@ -2168,6 +2168,916 @@
           "editorialNote": "The season end date is a tracker estimate based on past season lengths. We will update this guide when Moonton announces the time and will check the table against the game after the reset. Order data comes from completed orders in the BOOST MLBB bot."
         }
       }
+    },
+    {
+      "slug": "mlbb-meta-tier-list",
+      "status": "published",
+      "title": "Мета MLBB в ноябре 2026: тир-лист героев по официальной статистике",
+      "seoTitle": "Тир-лист MLBB ноябрь 2026: мета 42 сезона",
+      "description": "Тир-лист Mobile Legends на ноябрь 2026 по официальной статистике MOONTON: лучшие герои по проценту побед, самые частые баны и кто сильнее в Мифической славе.",
+      "excerpt": "Тир-лист 42 сезона по официальной статистике за 30 дней: сильнейшие герои, баны, популярные и слабые герои, отличия Мифической славы.",
+      "category": "Мета",
+      "categoryKey": "meta",
+      "tags": [
+        "Mobile Legends",
+        "Мета",
+        "Тир-лист",
+        "Герои",
+        "Сезон 42"
+      ],
+      "datePublished": "2026-11-22T14:29:19+03:00",
+      "dateModified": "2026-11-22T14:29:19+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-meta-tier-list.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-meta-tier-list-768.webp 768w, /images/news/mlbb-meta-tier-list-1200.webp 1200w, /images/news/mlbb-meta-tier-list-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Светящийся пятиступенчатый кристаллический пьедестал на фоне столбцов-диаграмм в тёмной арене",
+        "caption": "Иллюстрация Boost MLBB к тир-листу.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen via Codex",
+          "created": "2026-11-22",
+          "rights": "Original illustration created for Boost MLBB; no Mobile Legends characters, logos, rank emblems or interface.",
+          "prompt": "Original 16:9 premium esports editorial hero, text-free: a five-level tiered crystal podium in a dark arena, the top tier small and brightest emerald, lower tiers wider and dimmer, with glowing translucent bar-chart columns behind it; deep navy and near-black palette, restrained cyan light; no characters, logos, rank emblems, UI or text."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Лучший процент побед за 30 дней у Маши — 60,47%, но её берут лишь в 0,52% матчей.",
+            "Чаще всех банят Хирару: 68,00% матчей на всех рангах и 86,53% в Мифической славе.",
+            "Самый популярный герой — Ханаби (2,43% выбора), а Тигрил при 2,00% выбора выигрывает только 45,20%.",
+            "Слабее всех сейчас Франко, Фанни и Грейнджер: от 41,57% до 43,00% побед."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Мы собрали мету 42 сезона по официальной статистике MOONTON: раздел «Рейтинг героев» на mobilelegends.com показывает процент выбора, побед и запрета для каждого героя. Взяли последние 30 дней на всех рангах, данные обновлены 21 ноября 2026 года в 23:55. Отдельно сравнили с Мифической славой — там играют иначе, чем в среднем по игре."
+        },
+        {
+          "type": "heading",
+          "id": "tier-list",
+          "text": "Тир-лист героев на ноябрь 2026"
+        },
+        {
+          "type": "table",
+          "caption": "Тир-лист по проценту побед, все ранги, 30 дней",
+          "headers": [
+            "Тир",
+            "Процент побед",
+            "Героев",
+            "Герои"
+          ],
+          "rows": [
+            [
+              "S",
+              "от 53%",
+              "12",
+              "Маша, Аргус, Рафаэль, Валир, Флорин, Минотавр, Бруно, Сан, Глу, Аулус, Кармилла, Обсидия"
+            ],
+            [
+              "A",
+              "51–53%",
+              "17",
+              "Эстес, Ханаби, Горд, Линг, Минситтар, Лукас, Белерик, Бартс, Циклоп, Ксавьер, Атлас, Сильвана, Кадита, Гвиневра, Сабер, Кагура, Хильда"
+            ],
+            [
+              "B",
+              "49–51%",
+              "33",
+              "Сесилион, Цзэтянь, Алиса, Калеа, Беатрис, Эйдора, Клинт, Москов, Эймон, Баданг, Вэйл, Иксия, Пакито, Хирара, Броуди, Ангела, Джулиан, Икс.Борг, Кайя, Мия, Су Ё, Нолан, Одетта, Инь, Новария, Сора, Лейла, Чичи, Вексана, Дариус, Фрейя, Джонсон, Ли Сун-Син"
+            ],
+            [
+              "C",
+              "47–49%",
+              "19",
+              "Чонг, Аврора, Тамуз, Кэрри, Алукард, Клауд, Альфа, Кимми, Госсен, Карина, Селена, Лесли, Чан'Э, Харли, Хаябуса, Хелкарт, Нана, Мартис, Эсмеральда"
+            ],
+            [
+              "D",
+              "ниже 47%",
+              "9",
+              "Бальмонд, Зилонг, Гатоткача, Тигрил, Чу, Ланселот, Грейнджер, Фанни, Франко"
+            ]
+          ],
+          "note": "В тир-лист попали герои, которых выбирают хотя бы в 0,50% матчей: у редких героев процент побед скачет от малой выборки."
+        },
+        {
+          "type": "paragraph",
+          "text": "Тир здесь — только процент побед. Он не учитывает сложность героя и вашу роль: Фанни в D-тире, но это один из самых сложных героев, и средний процент побед мало говорит о том, как она играет в руках опытного игрока. Если вы уверенно играете на герое из тира C, менять его на героя из S ради цифры смысла нет."
+        },
+        {
+          "type": "heading",
+          "id": "strongest",
+          "text": "Самые сильные герои месяца"
+        },
+        {
+          "type": "table",
+          "caption": "Десять героев с лучшим процентом побед",
+          "headers": [
+            "Герой",
+            "Победы",
+            "Выбор",
+            "Запрет"
+          ],
+          "rows": [
+            [
+              "Маша",
+              "60,47%",
+              "0,52%",
+              "40,76%"
+            ],
+            [
+              "Аргус",
+              "56,76%",
+              "0,53%",
+              "0,97%"
+            ],
+            [
+              "Рафаэль",
+              "54,57%",
+              "0,86%",
+              "12,92%"
+            ],
+            [
+              "Валир",
+              "54,13%",
+              "1,21%",
+              "3,72%"
+            ],
+            [
+              "Флорин",
+              "54,06%",
+              "0,94%",
+              "13,33%"
+            ],
+            [
+              "Минотавр",
+              "53,77%",
+              "1,00%",
+              "8,43%"
+            ],
+            [
+              "Бруно",
+              "53,76%",
+              "0,55%",
+              "0,28%"
+            ],
+            [
+              "Сан",
+              "53,69%",
+              "1,75%",
+              "34,40%"
+            ],
+            [
+              "Глу",
+              "53,55%",
+              "0,76%",
+              "41,96%"
+            ],
+            [
+              "Аулус",
+              "53,48%",
+              "0,77%",
+              "31,27%"
+            ]
+          ],
+          "note": "Только герои с долей выбора от 0,50%."
+        },
+        {
+          "type": "callout",
+          "label": "Почему Маша и Марсель так высоко",
+          "text": "У Маши 60,47% побед, у Марселя — 57,49%. Но их выбирают редко, а банят часто: Машу в 40,76% матчей, Марселя в 41,06%. В Мифической славе запрет растёт до 72,71% и 71,47% — сильные игроки не дают им попасть в матч."
+        },
+        {
+          "type": "heading",
+          "id": "bans",
+          "text": "Кого банят чаще всего"
+        },
+        {
+          "type": "table",
+          "caption": "Десять героев с самым высоким процентом запрета",
+          "headers": [
+            "Герой",
+            "Победы",
+            "Выбор",
+            "Запрет"
+          ],
+          "rows": [
+            [
+              "Хирара",
+              "50,03%",
+              "0,60%",
+              "68,00%"
+            ],
+            [
+              "Белерик",
+              "51,82%",
+              "1,69%",
+              "56,84%"
+            ],
+            [
+              "Эйдора",
+              "50,37%",
+              "1,79%",
+              "48,34%"
+            ],
+            [
+              "Обсидия",
+              "53,22%",
+              "2,21%",
+              "47,79%"
+            ],
+            [
+              "Эстес",
+              "52,74%",
+              "0,64%",
+              "46,83%"
+            ],
+            [
+              "Глу",
+              "53,55%",
+              "0,76%",
+              "41,96%"
+            ],
+            [
+              "Марсель",
+              "57,49%",
+              "0,29%",
+              "41,06%"
+            ],
+            [
+              "Маша",
+              "60,47%",
+              "0,52%",
+              "40,76%"
+            ],
+            [
+              "Сан",
+              "53,69%",
+              "1,75%",
+              "34,40%"
+            ],
+            [
+              "Лукас",
+              "52,03%",
+              "0,82%",
+              "32,91%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Хирара — особый случай: процент побед у неё средний, 50,03%, но её банят в 68,00% матчей. Игроки убирают её, не дожидаясь, пока против неё придётся играть. Белерик в бане в 56,84% матчей при 51,82% побед."
+        },
+        {
+          "type": "cta",
+          "id": "meta-rank",
+          "eyebrow": "Мета не помогает поднять ранг",
+          "title": "Узнайте цену буста до своей цели",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-bans"
+        },
+        {
+          "type": "heading",
+          "id": "popular",
+          "text": "Популярные, но не самые сильные"
+        },
+        {
+          "type": "table",
+          "caption": "Самые часто выбираемые герои",
+          "headers": [
+            "Герой",
+            "Победы",
+            "Выбор",
+            "Запрет"
+          ],
+          "rows": [
+            [
+              "Ханаби",
+              "52,64%",
+              "2,43%",
+              "4,29%"
+            ],
+            [
+              "Обсидия",
+              "53,22%",
+              "2,21%",
+              "47,79%"
+            ],
+            [
+              "Мия",
+              "49,72%",
+              "2,20%",
+              "4,64%"
+            ],
+            [
+              "Тигрил",
+              "45,20%",
+              "2,00%",
+              "7,39%"
+            ],
+            [
+              "Нолан",
+              "49,70%",
+              "1,90%",
+              "15,51%"
+            ],
+            [
+              "Лейла",
+              "49,41%",
+              "1,90%",
+              "1,76%"
+            ],
+            [
+              "Лесли",
+              "48,29%",
+              "1,84%",
+              "8,46%"
+            ],
+            [
+              "Эйдора",
+              "50,37%",
+              "1,79%",
+              "48,34%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Популярность и сила не совпадают. Ханаби и Обсидия держатся выше 50% побед, а Тигрил — самый частый танк в списке, но выигрывает только 45,20%. Мия и Лейла чуть ниже 50%: на них учатся новички, и это тянет цифру вниз."
+        },
+        {
+          "type": "heading",
+          "id": "glory",
+          "text": "Что меняется в Мифической славе"
+        },
+        {
+          "type": "table",
+          "caption": "Кто сильнее в Мифической славе, чем в среднем по игре",
+          "headers": [
+            "Герой",
+            "Все ранги",
+            "Мифическая слава",
+            "Рост"
+          ],
+          "rows": [
+            [
+              "Сабер",
+              "51,18%",
+              "53,50%",
+              "2,32 п.п."
+            ],
+            [
+              "Дариус",
+              "49,30%",
+              "51,36%",
+              "2,06 п.п."
+            ],
+            [
+              "Фрейя",
+              "49,23%",
+              "51,01%",
+              "1,78 п.п."
+            ],
+            [
+              "Грейнджер",
+              "43,00%",
+              "44,74%",
+              "1,74 п.п."
+            ],
+            [
+              "Ксавьер",
+              "51,56%",
+              "52,56%",
+              "1,00 п.п."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Кто слабее в Мифической славе",
+          "headers": [
+            "Герой",
+            "Все ранги",
+            "Мифическая слава",
+            "Падение"
+          ],
+          "rows": [
+            [
+              "Нана",
+              "47,29%",
+              "45,08%",
+              "2,21 п.п."
+            ],
+            [
+              "Глу",
+              "53,55%",
+              "51,59%",
+              "1,96 п.п."
+            ],
+            [
+              "Белерик",
+              "51,82%",
+              "49,98%",
+              "1,84 п.п."
+            ],
+            [
+              "Ханаби",
+              "52,64%",
+              "50,83%",
+              "1,81 п.п."
+            ],
+            [
+              "Сильвана",
+              "51,36%",
+              "49,56%",
+              "1,80 п.п."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "weak",
+          "text": "Самые слабые герои сейчас"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Франко — 41,57% побед при 0,94% выбора.",
+            "Фанни — 42,62% побед при 0,65% выбора.",
+            "Грейнджер — 43,00% побед при 1,33% выбора.",
+            "Ланселот — 43,13% побед при 0,51% выбора.",
+            "Чу — 45,10% побед при 1,04% выбора.",
+            "Тигрил — 45,20% побед при 2,00% выбора."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Мы обновляем этот материал раз в месяц и после крупных патчей. Следующая проверка — после старта 43 сезона: вместе с ним обычно выходит обновление баланса, и тир-лист заметно меняется."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mobile Legends: Bang Bang — Hero Rank (official statistics, past 30 days)",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/rank",
+          "accessed": "2026-11-22"
+        }
+      ],
+      "editorialNote": "Цифры — официальная статистика MOONTON за 30 дней, обновление 21 ноября 2026 года, 23:55. Тиры — наш расчёт только по проценту побед для героев с долей выбора от 0,5%. Копия данных хранится у редакции.",
+      "translations": {
+        "en": {
+          "title": "MLBB meta in November 2026: hero tier list from official statistics",
+          "seoTitle": "MLBB tier list November 2026: Season 42 meta",
+          "description": "Mobile Legends tier list for November 2026 from official MOONTON statistics: best heroes by win rate, most banned heroes and who is stronger in Mythical Glory.",
+          "excerpt": "Season 42 tier list from 30 days of official statistics: strongest heroes, bans, popular and weak heroes, and how Mythical Glory differs.",
+          "category": "Meta",
+          "tags": [
+            "Mobile Legends",
+            "Meta",
+            "Tier list",
+            "Heroes",
+            "Season 42"
+          ],
+          "hero": {
+            "alt": "A glowing five-level crystal podium in front of bar-chart columns in a dark arena",
+            "caption": "Boost MLBB illustration for the tier list."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In short",
+              "items": [
+                "Masha has the best 30-day win rate at 60.47%, but she appears in only 0.52% of matches.",
+                "Hirara is banned the most: in 68.00% of matches across all ranks and 86.53% in Mythical Glory.",
+                "Hanabi is the most picked hero (2.43%), while Tigreal wins only 45.20% at a 2.00% pick rate.",
+                "Franco, Fanny and Granger are the weakest right now, with 41.57% to 43.00% wins."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "We built the Season 42 meta from MOONTON’s official statistics: the Hero Rank section on mobilelegends.com shows the pick, win and ban rate of every hero. We took the last 30 days across all ranks, with data updated on 21 November 2026 at 23:55. We also compared it with Mythical Glory, where the game is played differently from the average."
+            },
+            {
+              "type": "heading",
+              "id": "tier-list",
+              "text": "Hero tier list for November 2026"
+            },
+            {
+              "type": "table",
+              "caption": "Tier list by win rate, all ranks, 30 days",
+              "headers": [
+                "Tier",
+                "Win rate",
+                "Heroes",
+                "Hero list"
+              ],
+              "rows": [
+                [
+                  "S",
+                  "53% and up",
+                  "12",
+                  "Masha, Argus, Rafaela, Valir, Floryn, Minotaur, Bruno, Sun, Gloo, Aulus, Carmilla, Obsidia"
+                ],
+                [
+                  "A",
+                  "51–53%",
+                  "17",
+                  "Estes, Hanabi, Gord, Ling, Minsitthar, Lukas, Belerick, Barats, Cyclops, Xavier, Atlas, Silvanna, Kadita, Guinevere, Saber, Kagura, Hilda"
+                ],
+                [
+                  "B",
+                  "49–51%",
+                  "33",
+                  "Cecilion, Zetian, Alice, Kalea, Beatrix, Eudora, Clint, Moskov, Aamon, Badang, Vale, Ixia, Paquito, Hirara, Brody, Angela, Julian, X.Borg, Kaja, Miya, Suyou, Nolan, Odette, Yin, Novaria, Sora, Layla, Cici, Vexana, Dyrroth, Freya, Johnson, Yi Sun-shin"
+                ],
+                [
+                  "C",
+                  "47–49%",
+                  "19",
+                  "Yu Zhong, Aurora, Thamuz, Karrie, Alucard, Claude, Alpha, Kimmy, Gusion, Karina, Selena, Lesley, Chang'e, Harley, Hayabusa, Helcurt, Nana, Martis, Esmeralda"
+                ],
+                [
+                  "D",
+                  "below 47%",
+                  "9",
+                  "Balmond, Zilong, Gatotkaca, Tigreal, Chou, Lancelot, Granger, Fanny, Franco"
+                ]
+              ],
+              "note": "Only heroes picked in at least 0.50% of matches are included: rare heroes have noisy win rates from small samples."
+            },
+            {
+              "type": "paragraph",
+              "text": "A tier here is the win rate only. It ignores hero difficulty and your role: Fanny sits in tier D, but she is one of the hardest heroes, and an average win rate says little about how she plays in experienced hands. If you are confident on a tier C hero, swapping to a tier S hero just for the number makes little sense."
+            },
+            {
+              "type": "heading",
+              "id": "strongest",
+              "text": "The strongest heroes of the month"
+            },
+            {
+              "type": "table",
+              "caption": "Ten heroes with the best win rate",
+              "headers": [
+                "Hero",
+                "Win",
+                "Pick",
+                "Ban"
+              ],
+              "rows": [
+                [
+                  "Masha",
+                  "60.47%",
+                  "0.52%",
+                  "40.76%"
+                ],
+                [
+                  "Argus",
+                  "56.76%",
+                  "0.53%",
+                  "0.97%"
+                ],
+                [
+                  "Rafaela",
+                  "54.57%",
+                  "0.86%",
+                  "12.92%"
+                ],
+                [
+                  "Valir",
+                  "54.13%",
+                  "1.21%",
+                  "3.72%"
+                ],
+                [
+                  "Floryn",
+                  "54.06%",
+                  "0.94%",
+                  "13.33%"
+                ],
+                [
+                  "Minotaur",
+                  "53.77%",
+                  "1.00%",
+                  "8.43%"
+                ],
+                [
+                  "Bruno",
+                  "53.76%",
+                  "0.55%",
+                  "0.28%"
+                ],
+                [
+                  "Sun",
+                  "53.69%",
+                  "1.75%",
+                  "34.40%"
+                ],
+                [
+                  "Gloo",
+                  "53.55%",
+                  "0.76%",
+                  "41.96%"
+                ],
+                [
+                  "Aulus",
+                  "53.48%",
+                  "0.77%",
+                  "31.27%"
+                ]
+              ],
+              "note": "Only heroes with a pick rate of 0.50% or more."
+            },
+            {
+              "type": "callout",
+              "label": "Why Masha and Marcel rank so high",
+              "text": "Masha wins 60.47% and Marcel 57.49%. But they are rarely picked and often banned: Masha in 40.76% of matches, Marcel in 41.06%. In Mythical Glory the ban rate rises to 72.71% and 71.47% — strong players keep them out of the match."
+            },
+            {
+              "type": "heading",
+              "id": "bans",
+              "text": "Who gets banned the most"
+            },
+            {
+              "type": "table",
+              "caption": "Ten heroes with the highest ban rate",
+              "headers": [
+                "Hero",
+                "Win",
+                "Pick",
+                "Ban"
+              ],
+              "rows": [
+                [
+                  "Hirara",
+                  "50.03%",
+                  "0.60%",
+                  "68.00%"
+                ],
+                [
+                  "Belerick",
+                  "51.82%",
+                  "1.69%",
+                  "56.84%"
+                ],
+                [
+                  "Eudora",
+                  "50.37%",
+                  "1.79%",
+                  "48.34%"
+                ],
+                [
+                  "Obsidia",
+                  "53.22%",
+                  "2.21%",
+                  "47.79%"
+                ],
+                [
+                  "Estes",
+                  "52.74%",
+                  "0.64%",
+                  "46.83%"
+                ],
+                [
+                  "Gloo",
+                  "53.55%",
+                  "0.76%",
+                  "41.96%"
+                ],
+                [
+                  "Marcel",
+                  "57.49%",
+                  "0.29%",
+                  "41.06%"
+                ],
+                [
+                  "Masha",
+                  "60.47%",
+                  "0.52%",
+                  "40.76%"
+                ],
+                [
+                  "Sun",
+                  "53.69%",
+                  "1.75%",
+                  "34.40%"
+                ],
+                [
+                  "Lukas",
+                  "52.03%",
+                  "0.82%",
+                  "32.91%"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Hirara is a special case: her win rate is average at 50.03%, yet she is banned in 68.00% of matches. Players remove her before they have to face her. Belerick is banned in 56.84% of matches with 51.82% wins."
+            },
+            {
+              "type": "cta",
+              "id": "meta-rank",
+              "eyebrow": "The meta will not climb for you",
+              "title": "Check the boost price to your goal",
+              "text": "Enter your current rank and goal — the calculator shows the price at once.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-bans"
+            },
+            {
+              "type": "heading",
+              "id": "popular",
+              "text": "Popular but not the strongest"
+            },
+            {
+              "type": "table",
+              "caption": "The most picked heroes",
+              "headers": [
+                "Hero",
+                "Win",
+                "Pick",
+                "Ban"
+              ],
+              "rows": [
+                [
+                  "Hanabi",
+                  "52.64%",
+                  "2.43%",
+                  "4.29%"
+                ],
+                [
+                  "Obsidia",
+                  "53.22%",
+                  "2.21%",
+                  "47.79%"
+                ],
+                [
+                  "Miya",
+                  "49.72%",
+                  "2.20%",
+                  "4.64%"
+                ],
+                [
+                  "Tigreal",
+                  "45.20%",
+                  "2.00%",
+                  "7.39%"
+                ],
+                [
+                  "Nolan",
+                  "49.70%",
+                  "1.90%",
+                  "15.51%"
+                ],
+                [
+                  "Layla",
+                  "49.41%",
+                  "1.90%",
+                  "1.76%"
+                ],
+                [
+                  "Lesley",
+                  "48.29%",
+                  "1.84%",
+                  "8.46%"
+                ],
+                [
+                  "Eudora",
+                  "50.37%",
+                  "1.79%",
+                  "48.34%"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Popularity and strength do not match. Hanabi and Obsidia stay above 50% wins, while Tigreal is the most picked tank on the list but wins only 45.20%. Miya and Layla sit just under 50%: new players learn on them, which pulls the number down."
+            },
+            {
+              "type": "heading",
+              "id": "glory",
+              "text": "What changes in Mythical Glory"
+            },
+            {
+              "type": "table",
+              "caption": "Who is stronger in Mythical Glory than on average",
+              "headers": [
+                "Hero",
+                "All ranks",
+                "Mythical Glory",
+                "Gain"
+              ],
+              "rows": [
+                [
+                  "Saber",
+                  "51.18%",
+                  "53.50%",
+                  "2.32 pp"
+                ],
+                [
+                  "Dyrroth",
+                  "49.30%",
+                  "51.36%",
+                  "2.06 pp"
+                ],
+                [
+                  "Freya",
+                  "49.23%",
+                  "51.01%",
+                  "1.78 pp"
+                ],
+                [
+                  "Granger",
+                  "43.00%",
+                  "44.74%",
+                  "1.74 pp"
+                ],
+                [
+                  "Xavier",
+                  "51.56%",
+                  "52.56%",
+                  "1.00 pp"
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "caption": "Who is weaker in Mythical Glory",
+              "headers": [
+                "Hero",
+                "All ranks",
+                "Mythical Glory",
+                "Drop"
+              ],
+              "rows": [
+                [
+                  "Nana",
+                  "47.29%",
+                  "45.08%",
+                  "2.21 pp"
+                ],
+                [
+                  "Gloo",
+                  "53.55%",
+                  "51.59%",
+                  "1.96 pp"
+                ],
+                [
+                  "Belerick",
+                  "51.82%",
+                  "49.98%",
+                  "1.84 pp"
+                ],
+                [
+                  "Hanabi",
+                  "52.64%",
+                  "50.83%",
+                  "1.81 pp"
+                ],
+                [
+                  "Silvanna",
+                  "51.36%",
+                  "49.56%",
+                  "1.80 pp"
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "weak",
+              "text": "The weakest heroes right now"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Franco — 41.57% wins at a 0.94% pick rate.",
+                "Fanny — 42.62% wins at a 0.65% pick rate.",
+                "Granger — 43.00% wins at a 1.33% pick rate.",
+                "Lancelot — 43.13% wins at a 0.51% pick rate.",
+                "Chou — 45.10% wins at a 1.04% pick rate.",
+                "Tigreal — 45.20% wins at a 2.00% pick rate."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "We update this guide once a month and after major patches. The next check comes after Season 43 starts: a balance update usually arrives with it, and the tier list shifts noticeably."
+            }
+          ],
+          "editorialNote": "Figures are official MOONTON statistics for 30 days, updated on 21 November 2026 at 23:55. Tiers are our own calculation based on win rate only, for heroes with a pick rate of 0.5% or more. The editors keep a copy of the data."
+        }
+      }
     }
   ]
 }

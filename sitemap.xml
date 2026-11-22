@@ -297,6 +297,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/"/>
   </url>
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-meta-tier-list/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-meta-tier-list/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-meta-tier-list/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-meta-tier-list/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-meta-tier-list/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-meta-tier-list/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-meta-tier-list/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-meta-tier-list/"/>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/mlbb-ranks-in-order/</loc>
     <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-ranks-in-order/"/>

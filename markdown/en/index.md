@@ -137,9 +137,13 @@ Confirm your order and first-order discount eligibility
 
 [Buy boost](https://t.me/cla1ve_boost_bot?start=site) [Calculate price](https://boostmlbb.ru/en/order.html)
 
-## Useful for players
+Useful
 
-[**Season 42 end**Expected date and rank reset chart](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[**Ranks in order**All tiers, stars and Mythic](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[**Mythic boost**Honor, Glory and Immortal prices](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rank and MMR of your hero](https://boostmlbb.ru/en/boost/hero.html)
+## Guides and news for players
+
+What changes this season, how ranks work and what a boost costs.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/news/m8-istanbul-world-road-en-768.webp)Esports**M8: CIS teams**Dates, qualified teams and Team SpiritOpen](https://boostmlbb.ru/en/news/m8-istanbul-world-road/)
 
 GET STARTED
 

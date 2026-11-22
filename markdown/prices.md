@@ -193,6 +193,10 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html) [Заказать в боте](https://t.me/cla1ve_boost_bot?start=site)
 
+Подробнее
+
 ## Цены по рангам и форматам
 
-[**Буст Мифика**Маршруты до Славы и Бессмертного](https://boostmlbb.ru/boost/mythic.html)[**Буст на герое**Тарифы на выбранном герое](https://boostmlbb.ru/boost/hero.html)[**Конец 42 сезона**Дата и куда упадёт ранг](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)
+Маршруты с ценами и что будет с рангом в конце сезона.
+
+[![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)

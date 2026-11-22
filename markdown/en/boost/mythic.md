@@ -15,6 +15,8 @@ Stars in Mythic, Honor, Glory and Immortal. A star costs from 120 ₽; the calcu
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=standard)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
+![An emerald crystal crown on three glowing tiers](/images/guides/mythic-boost.jpg)
+
 **2,289**orders completed
 
 **about 6 h**median Mythic order
@@ -157,3 +159,11 @@ What happens to my stars at season end?
 At the reset Immortal and Glory drop to Legend V, Honor to Epic I and Mythic to Epic II. Rewards follow the highest rank you reached that season.
 
 MLBB Boost editorial team · Updated 22 November 2026
+
+Related
+
+## Read before ordering
+
+How ranks work and what happens to your stars after the reset.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/guides/placement-640.webp)Guide**Mythic placement**10 matches, double wins and priceOpen](https://boostmlbb.ru/en/guides/mythic-placement.html)

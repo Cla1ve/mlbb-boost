@@ -110,7 +110,8 @@
           "secondary": [
             "Задать вопрос",
             "https://t.me/Cla1ve"
-          ]
+          ],
+          "alt": "Кристаллические врата в кольце из десяти светящихся камней"
         }
       ],
       "en": [
@@ -143,13 +144,15 @@
           "secondary": [
             "Ask a question",
             "https://t.me/Cla1ve"
-          ]
+          ],
+          "alt": "A crystal gate inside a ring of ten glowing stones"
         }
       ],
       "published": "2026-10-05",
       "updated": "2026-11-22",
       "layout": "landing",
-      "kind": "service"
+      "kind": "service",
+      "image": "placement"
     },
     {
       "file": "guides/party-boost.html",
@@ -183,7 +186,8 @@
           "secondary": [
             "Написать в Telegram",
             "https://t.me/cla1ve_boost_bot?start=site"
-          ]
+          ],
+          "alt": "Две кристаллические фигуры игроков на одной платформе"
         }
       ],
       "en": [
@@ -216,13 +220,15 @@
           "secondary": [
             "Message on Telegram",
             "https://t.me/cla1ve_boost_bot?start=site"
-          ]
+          ],
+          "alt": "Two crystal player figures on one platform"
         }
       ],
       "published": "2026-10-05",
       "layout": "landing",
       "updated": "2026-11-22",
-      "kind": "service"
+      "kind": "service",
+      "image": "party"
     },
     {
       "file": "boost/mythic.html",
@@ -274,7 +280,8 @@
           "secondary": [
             "Написать в Telegram",
             "https://t.me/cla1ve_boost_bot?start=site"
-          ]
+          ],
+          "alt": "Изумрудная кристаллическая корона на трёх светящихся ступенях"
         }
       ],
       "en": [
@@ -315,10 +322,12 @@
           "secondary": [
             "Message on Telegram",
             "https://t.me/cla1ve_boost_bot?start=site"
-          ]
+          ],
+          "alt": "An emerald crystal crown on three glowing tiers"
         }
       ],
-      "layout": "landing"
+      "layout": "landing",
+      "image": "mythic-boost"
     },
     {
       "file": "boost/hero.html",
@@ -364,7 +373,8 @@
           "secondary": [
             "Написать в Telegram",
             "https://t.me/cla1ve_boost_bot?start=site"
-          ]
+          ],
+          "alt": "Изумрудный кристаллический щит с мечом на пьедестале"
         }
       ],
       "en": [
@@ -405,28 +415,592 @@
           "secondary": [
             "Message on Telegram",
             "https://t.me/cla1ve_boost_bot?start=site"
-          ]
+          ],
+          "alt": "An emerald crystal shield with a sword on a pedestal"
         }
       ],
-      "layout": "landing"
+      "layout": "landing",
+      "image": "hero-boost"
     }
   ],
   "related": {
+    "index.html": {
+      "ru": {
+        "id": "players",
+        "label": "Полезное",
+        "title": "Гайды и новости для игроков",
+        "text": "Что меняется в сезоне, как устроены ранги и сколько стоит буст.",
+        "items": [
+          [
+            "Конец 42 сезона",
+            "Ожидаемая дата и куда упадёт ранг",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Статья"
+          ],
+          [
+            "Тир-лист ноября 2026",
+            "Сильнейшие герои и баны по официальной статистике",
+            "/news/mlbb-meta-tier-list/",
+            "/images/news/mlbb-meta-tier-list-768.webp",
+            "Мета"
+          ],
+          [
+            "Ранги по порядку",
+            "Все звания, звёзды и пороги Мифика",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Статья"
+          ],
+          [
+            "M8: кто едет от СНГ",
+            "Даты, участники и Team Spirit",
+            "/news/m8-istanbul-world-road/",
+            "/images/news/m8-istanbul-world-road-ru-768.webp",
+            "Киберспорт"
+          ]
+        ]
+      },
+      "en": {
+        "id": "players",
+        "label": "Useful",
+        "title": "Guides and news for players",
+        "text": "What changes this season, how ranks work and what a boost costs.",
+        "items": [
+          [
+            "Season 42 end",
+            "Expected date and where your rank drops",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Article"
+          ],
+          [
+            "Tier list, November 2026",
+            "Strongest heroes and bans from official statistics",
+            "/news/mlbb-meta-tier-list/",
+            "/images/news/mlbb-meta-tier-list-768.webp",
+            "Meta"
+          ],
+          [
+            "Ranks in order",
+            "All tiers, stars and Mythic thresholds",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Article"
+          ],
+          [
+            "M8: CIS teams",
+            "Dates, qualified teams and Team Spirit",
+            "/news/m8-istanbul-world-road/",
+            "/images/news/m8-istanbul-world-road-en-768.webp",
+            "Esports"
+          ]
+        ]
+      }
+    },
     "services.html": {
-      "ru": "<section class=\"seo-section\"><div class=\"container\"><h2>Подробнее о форматах и рангах</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Буст Мифика</strong><span>Цены на Честь, Славу и Бессмертного</span></a><a href=\"/boost/hero.html\"><strong>Буст на герое</strong><span>Ранг и ММР выбранного героя</span></a><a href=\"/guides/party-boost.html\"><strong>Пати или со входом</strong><span>Чем отличаются форматы</span></a><a href=\"/guides/mythic-placement.html\"><strong>Калибровка Мифика</strong><span>10 матчей и двойные победы</span></a></div></div></section>",
-      "en": "<section class=\"seo-section\"><div class=\"container\"><h2>More about formats and ranks</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Mythic boost</strong><span>Honor, Glory and Immortal prices</span></a><a href=\"/boost/hero.html\"><strong>Hero boost</strong><span>Rank and MMR of your hero</span></a><a href=\"/guides/party-boost.html\"><strong>Party or account</strong><span>How the formats differ</span></a><a href=\"/guides/mythic-placement.html\"><strong>Mythic placement</strong><span>10 matches and double wins</span></a></div></div></section>"
+      "ru": {
+        "id": "formats",
+        "label": "Подробнее",
+        "title": "Форматы и правила",
+        "text": "Цены, сроки и отличия каждого формата буста.",
+        "items": [
+          [
+            "Буст Мифика",
+            "Цены на звёзды в Чести, Славе и Бессмертном",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Буст ММР на герое",
+            "Ранг и рейтинг выбранного героя",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Пати или со входом",
+            "Чем отличаются форматы и что дешевле",
+            "/guides/party-boost.html",
+            "/images/guides/party-640.webp",
+            "Гайд"
+          ],
+          [
+            "Калибровка Мифика",
+            "10 матчей, двойные победы и цена",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Гайд"
+          ]
+        ]
+      },
+      "en": {
+        "id": "formats",
+        "label": "More",
+        "title": "Formats and rules",
+        "text": "Prices, timing and differences of each boost format.",
+        "items": [
+          [
+            "Mythic boost",
+            "Star prices in Honor, Glory and Immortal",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Hero MMR boost",
+            "Rank and rating of your hero",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Party or account boost",
+            "How the formats differ and which costs less",
+            "/guides/party-boost.html",
+            "/images/guides/party-640.webp",
+            "Guide"
+          ],
+          [
+            "Mythic placement",
+            "10 matches, double wins and price",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Guide"
+          ]
+        ]
+      }
     },
     "prices.html": {
-      "ru": "<section class=\"seo-section\"><div class=\"container\"><h2>Цены по рангам и форматам</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Буст Мифика</strong><span>Маршруты до Славы и Бессмертного</span></a><a href=\"/boost/hero.html\"><strong>Буст на герое</strong><span>Тарифы на выбранном герое</span></a><a href=\"/news/mlbb-season-end-rank-reset/\"><strong>Конец 42 сезона</strong><span>Дата и куда упадёт ранг</span></a></div></div></section>",
-      "en": "<section class=\"seo-section\"><div class=\"container\"><h2>Prices by rank and format</h2><div class=\"seo-cards\"><a href=\"/boost/mythic.html\"><strong>Mythic boost</strong><span>Routes to Glory and Immortal</span></a><a href=\"/boost/hero.html\"><strong>Hero boost</strong><span>Rates on your chosen hero</span></a><a href=\"/news/mlbb-season-end-rank-reset/\"><strong>Season 42 end</strong><span>Date and where your rank drops</span></a></div></div></section>"
+      "ru": {
+        "id": "prices",
+        "label": "Подробнее",
+        "title": "Цены по рангам и форматам",
+        "text": "Маршруты с ценами и что будет с рангом в конце сезона.",
+        "items": [
+          [
+            "Буст Мифика",
+            "Цены на звёзды в Чести, Славе и Бессмертном",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Буст ММР на герое",
+            "Ранг и рейтинг выбранного героя",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Конец 42 сезона",
+            "Ожидаемая дата и куда упадёт ранг",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Статья"
+          ]
+        ]
+      },
+      "en": {
+        "id": "prices",
+        "label": "More",
+        "title": "Prices by rank and format",
+        "text": "Routes with prices and what happens to your rank at season end.",
+        "items": [
+          [
+            "Mythic boost",
+            "Star prices in Honor, Glory and Immortal",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Hero MMR boost",
+            "Rank and rating of your hero",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Season 42 end",
+            "Expected date and where your rank drops",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Article"
+          ]
+        ]
+      }
     },
     "faq.html": {
-      "ru": "<section class=\"seo-section\"><div class=\"container\"><h2>Гайды по рангам</h2><div class=\"seo-cards\"><a href=\"/news/mlbb-ranks-in-order/\"><strong>Ранги по порядку</strong><span>Звёзды, пороги Мифика, калибровка</span></a><a href=\"/news/mlbb-season-end-rank-reset/\"><strong>Конец сезона и сброс</strong><span>Когда закончится 42 сезон</span></a><a href=\"/guides/mythic-placement.html\"><strong>Калибровка Мифика</strong><span>Как работают 10 матчей</span></a></div></div></section>",
-      "en": "<section class=\"seo-section\"><div class=\"container\"><h2>Rank guides</h2><div class=\"seo-cards\"><a href=\"/news/mlbb-ranks-in-order/\"><strong>Ranks in order</strong><span>Stars, Mythic thresholds, placement</span></a><a href=\"/news/mlbb-season-end-rank-reset/\"><strong>Season end and reset</strong><span>When Season 42 ends</span></a><a href=\"/guides/mythic-placement.html\"><strong>Mythic placement</strong><span>How the 10 matches work</span></a></div></div></section>"
+      "ru": {
+        "id": "guides",
+        "label": "Гайды",
+        "title": "Ответы подробнее",
+        "text": "Ранги, калибровка и конец сезона — с таблицами и цифрами.",
+        "items": [
+          [
+            "Тир-лист ноября 2026",
+            "Сильнейшие герои и баны по официальной статистике",
+            "/news/mlbb-meta-tier-list/",
+            "/images/news/mlbb-meta-tier-list-768.webp",
+            "Мета"
+          ],
+          [
+            "Ранги по порядку",
+            "Все звания, звёзды и пороги Мифика",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Статья"
+          ],
+          [
+            "Конец 42 сезона",
+            "Ожидаемая дата и куда упадёт ранг",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Статья"
+          ],
+          [
+            "Калибровка Мифика",
+            "10 матчей, двойные победы и цена",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Гайд"
+          ]
+        ]
+      },
+      "en": {
+        "id": "guides",
+        "label": "Guides",
+        "title": "Detailed answers",
+        "text": "Ranks, placement and season end — with tables and numbers.",
+        "items": [
+          [
+            "Tier list, November 2026",
+            "Strongest heroes and bans from official statistics",
+            "/news/mlbb-meta-tier-list/",
+            "/images/news/mlbb-meta-tier-list-768.webp",
+            "Meta"
+          ],
+          [
+            "Ranks in order",
+            "All tiers, stars and Mythic thresholds",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Article"
+          ],
+          [
+            "Season 42 end",
+            "Expected date and where your rank drops",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Article"
+          ],
+          [
+            "Mythic placement",
+            "10 matches, double wins and price",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Guide"
+          ]
+        ]
+      }
     },
-    "index.html": {
-      "ru": "<section class=\"seo-section\"><div class=\"container\"><h2>Полезное игрокам</h2><div class=\"seo-cards\"><a href=\"/news/mlbb-season-end-rank-reset/\"><strong>Конец 42 сезона</strong><span>Ожидаемая дата и таблица сброса ранга</span></a><a href=\"/news/mlbb-ranks-in-order/\"><strong>Ранги по порядку</strong><span>Все звания, звёзды и Мифик</span></a><a href=\"/boost/mythic.html\"><strong>Буст Мифика</strong><span>Цены на Честь, Славу и Бессмертного</span></a><a href=\"/boost/hero.html\"><strong>Буст на герое</strong><span>Ранг и ММР вашего героя</span></a></div></div></section>",
-      "en": "<section class=\"seo-section\"><div class=\"container\"><h2>Useful for players</h2><div class=\"seo-cards\"><a href=\"/news/mlbb-season-end-rank-reset/\"><strong>Season 42 end</strong><span>Expected date and rank reset chart</span></a><a href=\"/news/mlbb-ranks-in-order/\"><strong>Ranks in order</strong><span>All tiers, stars and Mythic</span></a><a href=\"/boost/mythic.html\"><strong>Mythic boost</strong><span>Honor, Glory and Immortal prices</span></a><a href=\"/boost/hero.html\"><strong>Hero boost</strong><span>Rank and MMR of your hero</span></a></div></div></section>"
+    "boost/mythic.html": {
+      "ru": {
+        "id": "more",
+        "label": "Ещё по теме",
+        "title": "Что почитать перед заказом",
+        "text": "Как устроены ранги и что будет со звёздами после сброса.",
+        "items": [
+          [
+            "Конец 42 сезона",
+            "Ожидаемая дата и куда упадёт ранг",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Статья"
+          ],
+          [
+            "Ранги по порядку",
+            "Все звания, звёзды и пороги Мифика",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Статья"
+          ],
+          [
+            "Буст ММР на герое",
+            "Ранг и рейтинг выбранного героя",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Калибровка Мифика",
+            "10 матчей, двойные победы и цена",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Гайд"
+          ]
+        ]
+      },
+      "en": {
+        "id": "more",
+        "label": "Related",
+        "title": "Read before ordering",
+        "text": "How ranks work and what happens to your stars after the reset.",
+        "items": [
+          [
+            "Season 42 end",
+            "Expected date and where your rank drops",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Article"
+          ],
+          [
+            "Ranks in order",
+            "All tiers, stars and Mythic thresholds",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Article"
+          ],
+          [
+            "Hero MMR boost",
+            "Rank and rating of your hero",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Mythic placement",
+            "10 matches, double wins and price",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Guide"
+          ]
+        ]
+      }
+    },
+    "boost/hero.html": {
+      "ru": {
+        "id": "more",
+        "label": "Ещё по теме",
+        "title": "Другие форматы и гайды",
+        "text": "Сравните с бустом Мифика и пати.",
+        "items": [
+          [
+            "Буст Мифика",
+            "Цены на звёзды в Чести, Славе и Бессмертном",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Пати или со входом",
+            "Чем отличаются форматы и что дешевле",
+            "/guides/party-boost.html",
+            "/images/guides/party-640.webp",
+            "Гайд"
+          ],
+          [
+            "Тир-лист ноября 2026",
+            "Сильнейшие герои и баны по официальной статистике",
+            "/news/mlbb-meta-tier-list/",
+            "/images/news/mlbb-meta-tier-list-768.webp",
+            "Мета"
+          ],
+          [
+            "Ранги по порядку",
+            "Все звания, звёзды и пороги Мифика",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Статья"
+          ]
+        ]
+      },
+      "en": {
+        "id": "more",
+        "label": "Related",
+        "title": "Other formats and guides",
+        "text": "Compare with the Mythic boost and party.",
+        "items": [
+          [
+            "Mythic boost",
+            "Star prices in Honor, Glory and Immortal",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Party or account boost",
+            "How the formats differ and which costs less",
+            "/guides/party-boost.html",
+            "/images/guides/party-640.webp",
+            "Guide"
+          ],
+          [
+            "Tier list, November 2026",
+            "Strongest heroes and bans from official statistics",
+            "/news/mlbb-meta-tier-list/",
+            "/images/news/mlbb-meta-tier-list-768.webp",
+            "Meta"
+          ],
+          [
+            "Ranks in order",
+            "All tiers, stars and Mythic thresholds",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Article"
+          ]
+        ]
+      }
+    },
+    "guides/mythic-placement.html": {
+      "ru": {
+        "id": "more",
+        "label": "Ещё по теме",
+        "title": "Что дальше после калибровки",
+        "text": "Цены на звёзды Мифика и полная лестница рангов.",
+        "items": [
+          [
+            "Буст Мифика",
+            "Цены на звёзды в Чести, Славе и Бессмертном",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Ранги по порядку",
+            "Все звания, звёзды и пороги Мифика",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Статья"
+          ],
+          [
+            "Конец 42 сезона",
+            "Ожидаемая дата и куда упадёт ранг",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Статья"
+          ],
+          [
+            "Буст ММР на герое",
+            "Ранг и рейтинг выбранного героя",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Услуга"
+          ]
+        ]
+      },
+      "en": {
+        "id": "more",
+        "label": "Related",
+        "title": "After placement",
+        "text": "Mythic star prices and the full rank ladder.",
+        "items": [
+          [
+            "Mythic boost",
+            "Star prices in Honor, Glory and Immortal",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Ranks in order",
+            "All tiers, stars and Mythic thresholds",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Article"
+          ],
+          [
+            "Season 42 end",
+            "Expected date and where your rank drops",
+            "/news/mlbb-season-end-rank-reset/",
+            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "Article"
+          ],
+          [
+            "Hero MMR boost",
+            "Rank and rating of your hero",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Service"
+          ]
+        ]
+      }
+    },
+    "guides/party-boost.html": {
+      "ru": {
+        "id": "more",
+        "label": "Ещё по теме",
+        "title": "Другие форматы",
+        "text": "Буст на герое, Мифик и калибровка.",
+        "items": [
+          [
+            "Буст ММР на герое",
+            "Ранг и рейтинг выбранного героя",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Буст Мифика",
+            "Цены на звёзды в Чести, Славе и Бессмертном",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Услуга"
+          ],
+          [
+            "Калибровка Мифика",
+            "10 матчей, двойные победы и цена",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Гайд"
+          ],
+          [
+            "Ранги по порядку",
+            "Все звания, звёзды и пороги Мифика",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Статья"
+          ]
+        ]
+      },
+      "en": {
+        "id": "more",
+        "label": "Related",
+        "title": "Other formats",
+        "text": "Hero boost, Mythic and placement.",
+        "items": [
+          [
+            "Hero MMR boost",
+            "Rank and rating of your hero",
+            "/boost/hero.html",
+            "/images/guides/hero-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Mythic boost",
+            "Star prices in Honor, Glory and Immortal",
+            "/boost/mythic.html",
+            "/images/guides/mythic-boost-640.webp",
+            "Service"
+          ],
+          [
+            "Mythic placement",
+            "10 matches, double wins and price",
+            "/guides/mythic-placement.html",
+            "/images/guides/placement-640.webp",
+            "Guide"
+          ],
+          [
+            "Ranks in order",
+            "All tiers, stars and Mythic thresholds",
+            "/news/mlbb-ranks-in-order/",
+            "/images/news/mlbb-ranks-in-order-768.webp",
+            "Article"
+          ]
+        ]
+      }
     }
   }
 }

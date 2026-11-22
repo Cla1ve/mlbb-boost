@@ -2381,3 +2381,12 @@
 .related-card__meta { padding: 0 18px; color: #8fa3b8; font-size: .82rem; font-weight: 500; }
 .related-card__title { padding: 0 18px; font-size: 1.02rem; line-height: 1.35; font-weight: 700; color: #fff; }
 @media (prefers-reduced-motion: reduce) { .article-next .related-card { transition: none; } }
+
+/* Table readability (2026-11-22): larger text, zebra rows, wrapping first column. */
+.article-table-wrap th,
+.article-table-wrap td { padding: 0.85rem 1.1rem; font-size: 0.95rem; line-height: 1.5; }
+.article-table-wrap thead th { font-size: 0.74rem; }
+.article-table-wrap tbody th { white-space: normal; min-width: 9rem; }
+.article-table-wrap tbody tr:nth-child(even) th,
+.article-table-wrap tbody tr:nth-child(even) td { background: rgba(255, 255, 255, 0.025); }
+.article-table-wrap--cols-3 table { min-width: 520px; }

@@ -120,9 +120,13 @@ Message us on Telegram to discuss your question
 
 [Message us](https://t.me/Cla1ve) [Telegram bot](https://t.me/cla1ve_boost_bot?start=site)
 
-## Rank guides
+Guides
 
-[**Ranks in order**Stars, Mythic thresholds, placement](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[**Season end and reset**When Season 42 ends](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[**Mythic placement**How the 10 matches work](https://boostmlbb.ru/en/guides/mythic-placement.html)
+## Detailed answers
+
+Ranks, placement and season end — with tables and numbers.
+
+[![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/guides/placement-640.webp)Guide**Mythic placement**10 matches, double wins and priceOpen](https://boostmlbb.ru/en/guides/mythic-placement.html)
 
 ---
 
@@ -262,9 +266,13 @@ Confirm your order and first-order discount eligibility
 
 [Buy boost](https://t.me/cla1ve_boost_bot?start=site) [Calculate price](https://boostmlbb.ru/en/order.html)
 
-## Useful for players
+Useful
 
-[**Season 42 end**Expected date and rank reset chart](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[**Ranks in order**All tiers, stars and Mythic](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[**Mythic boost**Honor, Glory and Immortal prices](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rank and MMR of your hero](https://boostmlbb.ru/en/boost/hero.html)
+## Guides and news for players
+
+What changes this season, how ranks work and what a boost costs.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/news/m8-istanbul-world-road-en-768.webp)Esports**M8: CIS teams**Dates, qualified teams and Team SpiritOpen](https://boostmlbb.ru/en/news/m8-istanbul-world-road/)
 
 GET STARTED
 
@@ -667,9 +675,13 @@ The final price depends on your route and boost type. Use the [calculator](https
 
 [Calculate the price](https://boostmlbb.ru/en/order.html) [Order in the bot](https://t.me/cla1ve_boost_bot?start=site)
 
+More
+
 ## Prices by rank and format
 
-[**Mythic boost**Routes to Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rates on your chosen hero](https://boostmlbb.ru/en/boost/hero.html)[**Season 42 end**Date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)
+Routes with prices and what happens to your rank at season end.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)
 
 ---
 
@@ -844,9 +856,13 @@ When your friend orders 25+ stars
 
 [Message @Cla1ve](https://t.me/Cla1ve)
 
-## More about formats and ranks
+More
 
-[**Mythic boost**Honor, Glory and Immortal prices](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rank and MMR of your hero](https://boostmlbb.ru/en/boost/hero.html)[**Party or account**How the formats differ](https://boostmlbb.ru/en/guides/party-boost.html)[**Mythic placement**10 matches and double wins](https://boostmlbb.ru/en/guides/mythic-placement.html)
+## Formats and rules
+
+Prices, timing and differences of each boost format.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/guides/party-640.webp)Guide**Party or account boost**How the formats differ and which costs lessOpen](https://boostmlbb.ru/en/guides/party-boost.html) [![](/images/guides/placement-640.webp)Guide**Mythic placement**10 matches, double wins and priceOpen](https://boostmlbb.ru/en/guides/mythic-placement.html)
 
 ---
 
@@ -863,6 +879,8 @@ Placement
 10 matches where a win gives two stars and a loss removes none. A boost costs 165 ₽ per win.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html)[Ask a question](https://t.me/Cla1ve)
+
+![A crystal gate inside a ring of ten glowing stones](/images/guides/placement.jpg)
 
 **10**placement matches
 
@@ -941,6 +959,14 @@ It is priced per win: 165 ₽ for an account boost and 335 ₽ in a party. The c
 
 MLBB Boost editorial team · Updated 22 November 2026
 
+Related
+
+## After placement
+
+Mythic star prices and the full rank ladder.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html)
+
 ---
 
 ## MLBB party boost or account boost: which to choose | MLBB Boost
@@ -956,6 +982,8 @@ Party or account
 In a party you play yourself with the booster. In an account boost the booster plays on your account.
 
 [Calculate party](https://boostmlbb.ru/en/order.html?type=party)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
+
+![Two crystal player figures on one platform](/images/guides/party.jpg)
 
 ### Account boost
 
@@ -1131,6 +1159,14 @@ No. You log in yourself and invite the booster to your group.
 
 MLBB Boost editorial team · Updated 22 November 2026
 
+Related
+
+## Other formats
+
+Hero boost, Mythic and placement.
+
+[![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/placement-640.webp)Guide**Mythic placement**10 matches, double wins and priceOpen](https://boostmlbb.ru/en/guides/mythic-placement.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)
+
 ---
 
 ## MLBB Mythic boost: Honor, Glory and Immortal prices | MLBB Boost
@@ -1146,6 +1182,8 @@ Mythic ranks
 Stars in Mythic, Honor, Glory and Immortal. A star costs from 120 ₽; the calculator shows the exact total.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=standard)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
+
+![An emerald crystal crown on three glowing tiers](/images/guides/mythic-boost.jpg)
 
 **2,289**orders completed
 
@@ -1290,6 +1328,14 @@ At the reset Immortal and Glory drop to Legend V, Honor to Epic I and Mythic to 
 
 MLBB Boost editorial team · Updated 22 November 2026
 
+Related
+
+## Read before ordering
+
+How ranks work and what happens to your stars after the reset.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/guides/placement-640.webp)Guide**Mythic placement**10 matches, double wins and priceOpen](https://boostmlbb.ru/en/guides/mythic-placement.html)
+
 ---
 
 ## MLBB hero MMR boost: prices and popular heroes | MLBB Boost
@@ -1305,6 +1351,8 @@ Hero boost
 The booster raises your rank playing only your chosen hero — both stars and hero rating grow. From 65 ₽ per star.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
+
+![An emerald crystal shield with a sword on a pedestal](/images/guides/hero-boost.jpg)
 
 **816**hero orders
 
@@ -1521,3 +1569,11 @@ How is a hero boost different from a role boost?
 In a role boost the booster may use different heroes of one role. In a hero boost the whole route is one hero.
 
 MLBB Boost editorial team · Updated 22 November 2026
+
+Related
+
+## Other formats and guides
+
+Compare with the Mythic boost and party.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/party-640.webp)Guide**Party or account boost**How the formats differ and which costs lessOpen](https://boostmlbb.ru/en/guides/party-boost.html) [![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)

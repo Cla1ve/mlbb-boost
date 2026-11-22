@@ -93,6 +93,22 @@
     {
       "source": "/en/news/mlbb-season-end-rank-reset",
       "destination": "/en/news/mlbb-season-end-rank-reset/index.html"
+    },
+    {
+      "source": "/news/mlbb-meta-tier-list/",
+      "destination": "/news/mlbb-meta-tier-list/index.html"
+    },
+    {
+      "source": "/news/mlbb-meta-tier-list",
+      "destination": "/news/mlbb-meta-tier-list/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-meta-tier-list/",
+      "destination": "/en/news/mlbb-meta-tier-list/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-meta-tier-list",
+      "destination": "/en/news/mlbb-meta-tier-list/index.html"
     }
   ]
 }

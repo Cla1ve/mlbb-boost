@@ -15,6 +15,8 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=standard)[Написать в Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
+![Изумрудная кристаллическая корона на трёх светящихся ступенях](/images/guides/mythic-boost.jpg)
+
 **2 289**заказов выполнено
 
 **около 6 ч**медиана на заказ в Мифике
@@ -157,3 +159,11 @@ language: ru
 Бессмертный и Слава при сбросе опускаются в Легенду V, Честь — в Эпик I, Мифик — в Эпик II. Награды выдают по самому высокому рангу за сезон.
 
 Редакция MLBB Boost · Обновлено 22 ноября 2026
+
+Ещё по теме
+
+## Что почитать перед заказом
+
+Как устроены ранги и что будет со звёздами после сброса.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/) [![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html) [![](/images/guides/placement-640.webp)Гайд**Калибровка Мифика**10 матчей, двойные победы и ценаОткрыть](https://boostmlbb.ru/guides/mythic-placement.html)

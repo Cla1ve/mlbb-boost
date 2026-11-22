@@ -1383,6 +1383,24 @@ function renderFooter(locale = 'ru') {
 function renderCommonHead(locale = 'ru') {
   const config = localeConfig(locale);
   return `
+  <meta name="yandex-verification" content="61a4cbd156a4f1eb">
+  <meta name="google-site-verification" content="uTSHJejcShYlE8SICFMGS7KNCuNChRwM5-QtvNomFuM">
+  <script>
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();
+    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(99684184, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:false, defer:true });
+  </script>
+  <noscript><div><img decoding="async" src="https://mc.yandex.ru/watch/99684184" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HJ7194FZC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-6HJ7194FZC');
+  </script>
   <meta name="theme-color" content="#071522">
   <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
   <link rel="icon" type="image/png" href="/images/favicon.png">
@@ -1395,7 +1413,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=7">
+  <link rel="stylesheet" href="/styles/news.css?v=8">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=31">`;
 }

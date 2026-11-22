@@ -193,6 +193,10 @@ The final price depends on your route and boost type. Use the [calculator](https
 
 [Calculate the price](https://boostmlbb.ru/en/order.html) [Order in the bot](https://t.me/cla1ve_boost_bot?start=site)
 
+More
+
 ## Prices by rank and format
 
-[**Mythic boost**Routes to Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rates on your chosen hero](https://boostmlbb.ru/en/boost/hero.html)[**Season 42 end**Date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)
+Routes with prices and what happens to your rank at season end.
+
+[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)

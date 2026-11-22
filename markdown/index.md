@@ -137,9 +137,13 @@ Team Spirit стала первым неазиатским чемпионом MS
 
 [Купить буст](https://t.me/cla1ve_boost_bot?start=site) [Рассчитать цену](https://boostmlbb.ru/order.html)
 
-## Полезное игрокам
+Полезное
 
-[**Конец 42 сезона**Ожидаемая дата и таблица сброса ранга](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)[**Ранги по порядку**Все звания, звёзды и Мифик](https://boostmlbb.ru/news/mlbb-ranks-in-order/)[**Буст Мифика**Цены на Честь, Славу и Бессмертного](https://boostmlbb.ru/boost/mythic.html)[**Буст на герое**Ранг и ММР вашего героя](https://boostmlbb.ru/boost/hero.html)
+## Гайды и новости для игроков
+
+Что меняется в сезоне, как устроены ранги и сколько стоит буст.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-meta-tier-list-768.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистикеОткрыть](https://boostmlbb.ru/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/) [![](/images/news/m8-istanbul-world-road-ru-768.webp)Киберспорт**M8: кто едет от СНГ**Даты, участники и Team SpiritОткрыть](https://boostmlbb.ru/news/m8-istanbul-world-road/)
 
 НАЧАТЬ ЗАКАЗ
 

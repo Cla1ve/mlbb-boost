@@ -151,6 +151,11 @@ function fillTokens(html, lang) {
       return money(named[name], lang);
     });
 }
+function guideHub(hub, lang) {
+  const en = lang === 'en';
+  const tiles = hub.items.map(([title, text, href, image, kind]) => `<a class="hub-tile" href="${href}"><span class="hub-tile__media"><img src="${image}" width="640" height="360" alt="" loading="lazy" decoding="async"></span><span class="hub-tile__body"><span class="hub-tile__kind">${kind}</span><strong>${title}</strong><span class="hub-tile__text">${text}</span><span class="hub-tile__go">${en ? 'Open' : 'Открыть'} <i class="fas fa-arrow-right" aria-hidden="true"></i></span></span></a>`).join('');
+  return `<section class="guide-hub" aria-labelledby="hub-${hub.id}"><div class="container"><div class="guide-hub__head"><span class="guide-hub__label">${hub.label}</span><h2 id="hub-${hub.id}">${hub.title}</h2><p>${hub.text}</p></div><div class="guide-hub__grid">${tiles}</div></div></section>`;
+}
 function guideArticle(guide, lang) {
   const en = lang === 'en';
   const [, , body, rawFaq = []] = guide[lang];
@@ -160,7 +165,8 @@ function guideArticle(guide, lang) {
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
   if (guide.layout === 'landing') {
     const hero = guide[lang][4];
-    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero"><div class="hero-glow"></div><div class="container"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="fab fa-telegram"></i><span>${hero.secondary[0]}</span></a></div></div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
+    const art = guide.image ? `<picture class="lp-hero__art"><source type="image/webp" srcset="/images/guides/${guide.image}-640.webp 640w, /images/guides/${guide.image}-1200.webp 1200w" sizes="(max-width: 900px) 92vw, 520px"><img src="/images/guides/${guide.image}.jpg" width="1200" height="675" alt="${escape(hero.alt || '')}" fetchpriority="high" decoding="async"></picture>` : '';
+    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero${guide.image ? ' lp-hero--art' : ''}"><div class="hero-glow"></div><div class="container lp-hero__grid"><div class="lp-hero__copy"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="fab fa-telegram"></i><span>${hero.secondary[0]}</span></a></div></div>${art}</div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
   }
   return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></article>`;
 }
@@ -178,7 +184,7 @@ function schema(document, file, lang, title, description, url) {
   const guide = guideOf(file);
   const isArticle = guide && guide.kind !== 'service';
   const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : file === 'reviews.html' ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
-  if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
+  if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
   const graph = [org, web, page];
   if (guide?.kind === 'service') graph.push({ '@type': 'Service', '@id': `${url}#service`, name: document.querySelector('h1').textContent.trim(), serviceType: 'Mobile Legends: Bang Bang rank boosting', provider: { '@id': org['@id'] }, areaServed: lang === 'en' ? 'Worldwide' : 'RU', url, offers: { '@type': 'AggregateOffer', priceCurrency: 'RUB', lowPrice: Math.min(...data.prices.filter(r => guide.priceCategories?.includes(r.category) ?? true).map(r => r.prices.find(p => p.type === (guide.priceType || 'standard')).price)), offerCount: data.prices.length } });
   if (guide?.[lang][3]?.length) graph.push({ '@type': 'FAQPage', '@id': `${url}#faq`, mainEntity: guide[lang][3].map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: fillTokens(a, lang).replace(/<[^>]+>/g, '') } })) });
@@ -238,7 +244,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelector(`script[src^="${src}"]`)?.remove();
       const script = document.createElement('script'); script.src = `${src}?v=${guide.updated || 1}`; script.setAttribute('defer', ''); document.head.append(script);
     }
-    if (config.related?.[file]) block(document, 'related', config.related[file][lang]);
+    if (config.related?.[file]) block(document, 'related', typeof config.related[file][lang] === 'string' ? config.related[file][lang] : guideHub(config.related[file][lang], lang));
     const footerGrid = document.querySelector('.site-footer .footer-grid');
     if (footerGrid) {
       footerGrid.querySelector('.footer-guides')?.remove();
@@ -251,9 +257,9 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     for (const [name, value, property] of [
       ['description', description], ['robots', file === '404.html' ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
       ['og:title', title, true], ['og:description', description, true], ['og:type', guide ? 'article' : 'website', true], ['og:locale', lang === 'en' ? 'en_US' : 'ru_RU', true],
-      ['og:url', origin + localized(filePath(file), lang), true], ['og:image', `${origin}/images/social-${lang}.png`, true],
-      ['og:image:width', '1200', true], ['og:image:height', '630', true], ['og:image:alt', lang === 'en' ? 'MLBB Boost — rank boost options and calculator' : 'MLBB Boost — услуги буста и калькулятор', true],
-      ['twitter:card', 'summary_large_image'], ['twitter:title', title], ['twitter:description', description], ['twitter:image', `${origin}/images/social-${lang}.png`], ['theme-color', '#0A1A2F']
+      ['og:url', origin + localized(filePath(file), lang), true], ['og:image', guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`, true],
+      ['og:image:width', '1200', true], ['og:image:height', guide?.image ? '675' : '630', true], ['og:image:alt', lang === 'en' ? 'MLBB Boost — rank boost options and calculator' : 'MLBB Boost — услуги буста и калькулятор', true],
+      ['twitter:card', 'summary_large_image'], ['twitter:title', title], ['twitter:description', description], ['twitter:image', guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`], ['theme-color', '#0A1A2F']
     ]) meta(document, `meta[${property ? 'property' : 'name'}="${name}"]`, name, value, property);
     document.querySelectorAll('meta[name="keywords"],meta[name="revisit-after"],meta[name="geo.position"],meta[name="ICBM"],meta[name="language"],meta[name="distribution"],meta[name="rating"]').forEach(node => node.remove());
     document.querySelectorAll('link[rel="canonical"],link[hreflang],link[rel="alternate"][type="text/markdown"]').forEach(node => node.remove());
@@ -318,7 +324,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '32' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '33' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

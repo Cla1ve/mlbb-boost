@@ -15,6 +15,8 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html)[Задать вопрос](https://t.me/Cla1ve)
 
+![Кристаллические врата в кольце из десяти светящихся камней](/images/guides/placement.jpg)
+
 **10**матчей калибровки
 
 **×2**звезды за победу
@@ -91,3 +93,11 @@ language: ru
 Тариф указан за победу: 165 ₽ в обычном бусте, 335 ₽ в пати. Сумму под ваши сыгранные матчи покажет калькулятор.
 
 Редакция MLBB Boost · Обновлено 22 ноября 2026
+
+Ещё по теме
+
+## Что дальше после калибровки
+
+Цены на звёзды Мифика и полная лестница рангов.
+
+[![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html)
