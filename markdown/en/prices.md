@@ -141,11 +141,11 @@ In party 295 ₽/⭐
 
 Standard 135 ₽/⭐
 
-Role 150 ₽/⭐
+Role 145 ₽/⭐
 
 On hero 175 ₽/⭐
 
-In party 325 ₽/⭐
+In party 320 ₽/⭐
 
 [Calculate order](https://boostmlbb.ru/en/order.html)
 

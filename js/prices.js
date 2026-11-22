@@ -21,7 +21,7 @@ let lastDataStatusMode = 'fallback';
 let lastDataStatusTimestamp = null;
 let lastRenderedPrices = null;
 
-// Последний проверенный fallback с API на 2026-11-21.
+// Последний проверенный fallback с API на 2026-11-22.
 // Он нужен для первого визита, если API временно недоступен и localStorage ещё пуст.
 const LAST_KNOWN_PRICES = [
   {
@@ -285,13 +285,13 @@ const LAST_KNOWN_PRICES = [
       {
         "type": "party",
         "type_name": "В пати",
-        "price": 325,
+        "price": 320,
         "unit": "star"
       },
       {
         "type": "role",
         "type_name": "На роли",
-        "price": 150,
+        "price": 145,
         "unit": "star"
       },
       {
