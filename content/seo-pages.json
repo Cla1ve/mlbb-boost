@@ -346,7 +346,7 @@
       "ru": [
         "Буст ММР на герое MLBB: цены и популярные герои | MLBB Boost",
         "Буст на герое в Mobile Legends: бустер поднимает ранг только вашим героем, растёт его ММР. Цены за звезду, популярные герои, сроки по реальным заказам.",
-        "<div class=\"lp-stats\"><div class=\"lp-stat\"><strong>816</strong><span>заказов на герое</span></div><div class=\"lp-stat\"><strong>182</strong><span>разных героя</span></div><div class=\"lp-stat\"><strong>около 6 ч</strong><span>медиана на заказ</span></div><div class=\"lp-stat\"><strong>{{heroFrom}}</strong><span>за звезду</span></div></div><section class=\"lp-section\"><h2>Каких героев заказывают чаще всего</h2><p class=\"lp-intro\">Число — выполненные заказы с ноября 2025 года. Подходит любой герой, который есть на аккаунте.</p><ul class=\"lp-chips\"><li>Ангела <span>51</span></li><li>Селена <span>34</span></li><li>Люнокс <span>30</span></li><li>Хаябуса <span>23</span></li><li>Фанни <span>23</span></li><li>Харли <span>22</span></li><li>Чу <span>21</span></li><li>Кармилла <span>20</span></li><li>Леоморд <span>20</span></li><li>Ксавьер <span>18</span></li><li>Валентина <span>18</span></li><li>Кагура <span>16</span></li></ul></section><section class=\"lp-section\"><h2>Цены за звезду на герое</h2><p class=\"lp-intro\">Тариф «На герое» выделен. Рядом — обычный буст, роль и пати для сравнения.</p>{{rankCards:all|hero}}</section><section class=\"lp-section\"><h2>Примеры маршрутов на герое</h2>{{routeTiles:hero}}</section><section class=\"lp-section\"><h2>Чем отличается от других форматов</h2><div class=\"lp-cards\"><a class=\"lp-card\" href=\"/order.html?type=hero\"><strong>На герое</strong><span>Весь путь одним героем. Растут звёзды аккаунта и рейтинг героя.</span></a><a class=\"lp-card\" href=\"/order.html?type=role\"><strong>На роли</strong><span>Бустер берёт разных героев одной роли.</span></a><a class=\"lp-card\" href=\"/order.html?type=standard\"><strong>Обычный буст</strong><span>Любые герои, если важен только ранг. Дешевле.</span></a><a class=\"lp-card\" href=\"/boost/mythic.html\"><strong>Буст Мифика</strong><span>Цены на звёзды в Чести, Славе и Бессмертном.</span></a></div></section><section class=\"lp-section\"><h2>Как проходит заказ</h2><ol class=\"order-steps lp-steps\"><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">01</span></div><h3>Выберите героя и цель</h3><p>В калькуляторе укажите формат «На герое», ранг сейчас и цель.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-paper-plane\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">02</span></div><h3>Подтвердите в боте</h3><p>Назовите героя и согласуйте время начала. Герой должен быть на аккаунте.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-trophy\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">03</span></div><h3>Получите ранг</h3><p>Бустер играет только этим героем, ход буста виден в боте.</p></li></ol></section><p class=\"lp-note\">Место в топе героя по серверу или стране не гарантируем: рейтинг героя зависит от результатов матчей. Перед передачей аккаунта прочитайте <a href=\"/security.html\">рекомендации по безопасности</a>.</p><section class=\"lp-section\"><h2>Отзывы о бусте на герое</h2><p class=\"lp-intro\">Последние отзывы из Telegram-канала, без правок.</p>{{reviews:hero}}</section><section class=\"lp-final\"><h2>Сколько стоит ваш герой</h2><p>Выберите формат «На герое» и цель — сумма появится сразу.</p><a class=\"calc-btn\" href=\"/order.html?type=hero\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i><span>Рассчитать стоимость</span></a></section>",
+        "<div class=\"lp-stats\"><div class=\"lp-stat\"><strong>816</strong><span>заказов на герое</span></div><div class=\"lp-stat\"><strong>182</strong><span>разных героя</span></div><div class=\"lp-stat\"><strong>около 6 ч</strong><span>медиана на заказ</span></div><div class=\"lp-stat\"><strong>{{heroFrom}}</strong><span>за звезду</span></div></div><section class=\"lp-section\"><h2>Каких героев заказывают чаще всего</h2><p class=\"lp-intro\">Число — выполненные заказы с ноября 2025 года. Подходит любой герой, который есть на аккаунте.</p><ul class=\"lp-chips\"><li><a href=\"/heroes/angela.html\">Ангела <span>51</span></a></li><li><a href=\"/heroes/selena.html\">Селена <span>34</span></a></li><li><a href=\"/heroes/lunox.html\">Люнокс <span>30</span></a></li><li><a href=\"/heroes/hayabusa.html\">Хаябуса <span>23</span></a></li><li><a href=\"/heroes/fanny.html\">Фанни <span>23</span></a></li><li><a href=\"/heroes/harley.html\">Харли <span>22</span></a></li><li><a href=\"/heroes/chou.html\">Чу <span>21</span></a></li><li><a href=\"/heroes/carmilla.html\">Кармилла <span>20</span></a></li><li><a href=\"/heroes/leomord.html\">Леоморд <span>20</span></a></li><li><a href=\"/heroes/xavier.html\">Ксавьер <span>18</span></a></li><li><a href=\"/heroes/valentina.html\">Валентина <span>18</span></a></li><li><a href=\"/heroes/kagura.html\">Кагура <span>16</span></a></li></ul></section><section class=\"lp-section\"><h2>Цены за звезду на герое</h2><p class=\"lp-intro\">Тариф «На герое» выделен. Рядом — обычный буст, роль и пати для сравнения.</p>{{rankCards:all|hero}}</section><section class=\"lp-section\"><h2>Примеры маршрутов на герое</h2>{{routeTiles:hero}}</section><section class=\"lp-section\"><h2>Чем отличается от других форматов</h2><div class=\"lp-cards\"><a class=\"lp-card\" href=\"/order.html?type=hero\"><strong>На герое</strong><span>Весь путь одним героем. Растут звёзды аккаунта и рейтинг героя.</span></a><a class=\"lp-card\" href=\"/order.html?type=role\"><strong>На роли</strong><span>Бустер берёт разных героев одной роли.</span></a><a class=\"lp-card\" href=\"/order.html?type=standard\"><strong>Обычный буст</strong><span>Любые герои, если важен только ранг. Дешевле.</span></a><a class=\"lp-card\" href=\"/boost/mythic.html\"><strong>Буст Мифика</strong><span>Цены на звёзды в Чести, Славе и Бессмертном.</span></a></div></section><section class=\"lp-section\"><h2>Как проходит заказ</h2><ol class=\"order-steps lp-steps\"><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">01</span></div><h3>Выберите героя и цель</h3><p>В калькуляторе укажите формат «На герое», ранг сейчас и цель.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-paper-plane\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">02</span></div><h3>Подтвердите в боте</h3><p>Назовите героя и согласуйте время начала. Герой должен быть на аккаунте.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-trophy\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">03</span></div><h3>Получите ранг</h3><p>Бустер играет только этим героем, ход буста виден в боте.</p></li></ol></section><p class=\"lp-note\">Место в топе героя по серверу или стране не гарантируем: рейтинг героя зависит от результатов матчей. Перед передачей аккаунта прочитайте <a href=\"/security.html\">рекомендации по безопасности</a>.</p><section class=\"lp-section\"><h2>Отзывы о бусте на герое</h2><p class=\"lp-intro\">Последние отзывы из Telegram-канала, без правок.</p>{{reviews:hero}}</section><section class=\"lp-final\"><h2>Сколько стоит ваш герой</h2><p>Выберите формат «На герое» и цель — сумма появится сразу.</p><a class=\"calc-btn\" href=\"/order.html?type=hero\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i><span>Рассчитать стоимость</span></a></section>",
         [
           [
             "Что такое буст ММР на герое?",
@@ -388,7 +388,7 @@
       "en": [
         "MLBB hero MMR boost: prices and popular heroes | MLBB Boost",
         "Hero boost in Mobile Legends: the booster raises your rank playing only your hero, so its MMR grows. Per-star prices, popular heroes and real order times.",
-        "<div class=\"lp-stats\"><div class=\"lp-stat\"><strong>816</strong><span>hero orders</span></div><div class=\"lp-stat\"><strong>182</strong><span>different heroes</span></div><div class=\"lp-stat\"><strong>about 6 h</strong><span>median order</span></div><div class=\"lp-stat\"><strong>{{heroFrom}}</strong><span>per star</span></div></div><section class=\"lp-section\"><h2>The most ordered heroes</h2><p class=\"lp-intro\">Numbers are completed orders since November 2025. Any hero on the account works.</p><ul class=\"lp-chips\"><li>Angela <span>51</span></li><li>Selena <span>34</span></li><li>Lunox <span>30</span></li><li>Hayabusa <span>23</span></li><li>Fanny <span>23</span></li><li>Harley <span>22</span></li><li>Chou <span>21</span></li><li>Carmilla <span>20</span></li><li>Leomord <span>20</span></li><li>Xavier <span>18</span></li><li>Valentina <span>18</span></li><li>Kagura <span>16</span></li></ul></section><section class=\"lp-section\"><h2>Hero boost price per star</h2><p class=\"lp-intro\">The Hero rate is highlighted. Account, role and party rates are shown for comparison.</p>{{rankCards:all|hero}}</section><section class=\"lp-section\"><h2>Hero route examples</h2>{{routeTiles:hero}}</section><section class=\"lp-section\"><h2>How it differs from other formats</h2><div class=\"lp-cards\"><a class=\"lp-card\" href=\"/order.html?type=hero\"><strong>Hero</strong><span>The whole route on one hero. Account stars and hero rating both grow.</span></a><a class=\"lp-card\" href=\"/order.html?type=role\"><strong>Role</strong><span>The booster uses different heroes of one role.</span></a><a class=\"lp-card\" href=\"/order.html?type=standard\"><strong>Account boost</strong><span>Any heroes when only the rank matters. Cheaper.</span></a><a class=\"lp-card\" href=\"/boost/mythic.html\"><strong>Mythic boost</strong><span>Star prices in Honor, Glory and Immortal.</span></a></div></section><section class=\"lp-section\"><h2>How an order works</h2><ol class=\"order-steps lp-steps\"><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">01</span></div><h3>Choose the hero and goal</h3><p>In the calculator pick the Hero format, your rank now and your goal.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-paper-plane\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">02</span></div><h3>Confirm in the bot</h3><p>Name the hero and agree the start time. The hero must be on the account.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-trophy\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">03</span></div><h3>Get your rank</h3><p>The booster plays only that hero, and progress shows in the bot.</p></li></ol></section><p class=\"lp-note\">A hero leaderboard place for a server or country is not guaranteed: hero rating depends on match results. Read the <a href=\"/security.html\">security recommendations</a> before sharing an account.</p><section class=\"lp-section\"><h2>Hero boost reviews</h2><p class=\"lp-intro\">Latest reviews from our Telegram channel, unedited and in Russian.</p>{{reviews:hero}}</section><section class=\"lp-final\"><h2>What your hero costs</h2><p>Pick the Hero format and a goal — the total appears at once.</p><a class=\"calc-btn\" href=\"/order.html?type=hero\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i><span>Calculate the price</span></a></section>",
+        "<div class=\"lp-stats\"><div class=\"lp-stat\"><strong>816</strong><span>hero orders</span></div><div class=\"lp-stat\"><strong>182</strong><span>different heroes</span></div><div class=\"lp-stat\"><strong>about 6 h</strong><span>median order</span></div><div class=\"lp-stat\"><strong>{{heroFrom}}</strong><span>per star</span></div></div><section class=\"lp-section\"><h2>The most ordered heroes</h2><p class=\"lp-intro\">Numbers are completed orders since November 2025. Any hero on the account works.</p><ul class=\"lp-chips\"><li><a href=\"/heroes/angela.html\">Angela <span>51</span></a></li><li><a href=\"/heroes/selena.html\">Selena <span>34</span></a></li><li><a href=\"/heroes/lunox.html\">Lunox <span>30</span></a></li><li><a href=\"/heroes/hayabusa.html\">Hayabusa <span>23</span></a></li><li><a href=\"/heroes/fanny.html\">Fanny <span>23</span></a></li><li><a href=\"/heroes/harley.html\">Harley <span>22</span></a></li><li><a href=\"/heroes/chou.html\">Chou <span>21</span></a></li><li><a href=\"/heroes/carmilla.html\">Carmilla <span>20</span></a></li><li><a href=\"/heroes/leomord.html\">Leomord <span>20</span></a></li><li><a href=\"/heroes/xavier.html\">Xavier <span>18</span></a></li><li><a href=\"/heroes/valentina.html\">Valentina <span>18</span></a></li><li><a href=\"/heroes/kagura.html\">Kagura <span>16</span></a></li></ul></section><section class=\"lp-section\"><h2>Hero boost price per star</h2><p class=\"lp-intro\">The Hero rate is highlighted. Account, role and party rates are shown for comparison.</p>{{rankCards:all|hero}}</section><section class=\"lp-section\"><h2>Hero route examples</h2>{{routeTiles:hero}}</section><section class=\"lp-section\"><h2>How it differs from other formats</h2><div class=\"lp-cards\"><a class=\"lp-card\" href=\"/order.html?type=hero\"><strong>Hero</strong><span>The whole route on one hero. Account stars and hero rating both grow.</span></a><a class=\"lp-card\" href=\"/order.html?type=role\"><strong>Role</strong><span>The booster uses different heroes of one role.</span></a><a class=\"lp-card\" href=\"/order.html?type=standard\"><strong>Account boost</strong><span>Any heroes when only the rank matters. Cheaper.</span></a><a class=\"lp-card\" href=\"/boost/mythic.html\"><strong>Mythic boost</strong><span>Star prices in Honor, Glory and Immortal.</span></a></div></section><section class=\"lp-section\"><h2>How an order works</h2><ol class=\"order-steps lp-steps\"><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">01</span></div><h3>Choose the hero and goal</h3><p>In the calculator pick the Hero format, your rank now and your goal.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-paper-plane\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">02</span></div><h3>Confirm in the bot</h3><p>Name the hero and agree the start time. The hero must be on the account.</p></li><li><div class=\"order-step-top\"><span class=\"order-step-icon\"><i class=\"fas fa-trophy\" aria-hidden=\"true\"></i></span><span class=\"order-step-number\" aria-hidden=\"true\">03</span></div><h3>Get your rank</h3><p>The booster plays only that hero, and progress shows in the bot.</p></li></ol></section><p class=\"lp-note\">A hero leaderboard place for a server or country is not guaranteed: hero rating depends on match results. Read the <a href=\"/security.html\">security recommendations</a> before sharing an account.</p><section class=\"lp-section\"><h2>Hero boost reviews</h2><p class=\"lp-intro\">Latest reviews from our Telegram channel, unedited and in Russian.</p>{{reviews:hero}}</section><section class=\"lp-final\"><h2>What your hero costs</h2><p>Pick the Hero format and a goal — the total appears at once.</p><a class=\"calc-btn\" href=\"/order.html?type=hero\"><i class=\"fas fa-calculator\" aria-hidden=\"true\"></i><span>Calculate the price</span></a></section>",
         [
           [
             "What is an MMR boost on a hero?",
@@ -454,18 +454,18 @@
             "Мета"
           ],
           [
+            "Все герои MLBB",
+            "Процент побед и контрпики 133 героев",
+            "/heroes/",
+            "hero:hanabi",
+            "Герои"
+          ],
+          [
             "Какой сейчас патч",
             "Обновление 2.2.16 и что оно изменило",
             "/news/mlbb-current-patch/",
             "hero:bruno",
             "Патч"
-          ],
-          [
-            "Куда вводить промокоды",
-            "Официальная форма и почему код не работает",
-            "/news/mlbb-redeem-codes-guide/",
-            "fa:fa-gift",
-            "Гайд"
           ]
         ]
       },
@@ -490,18 +490,18 @@
             "Meta"
           ],
           [
+            "All MLBB heroes",
+            "Win rates and counters for 133 heroes",
+            "/heroes/",
+            "hero:hanabi",
+            "Heroes"
+          ],
+          [
             "Current patch",
             "Update 2.2.16 and what it changed",
             "/news/mlbb-current-patch/",
             "hero:bruno",
             "Patch"
-          ],
-          [
-            "Where to redeem codes",
-            "The official form and why a code fails",
-            "/news/mlbb-redeem-codes-guide/",
-            "fa:fa-gift",
-            "Guide"
           ]
         ]
       }
@@ -655,6 +655,13 @@
             "Статья"
           ],
           [
+            "Все герои MLBB",
+            "Процент побед и контрпики 133 героев",
+            "/heroes/",
+            "hero:hanabi",
+            "Герои"
+          ],
+          [
             "Куда вводить промокоды",
             "Официальная форма и почему код не работает",
             "/news/mlbb-redeem-codes-guide/",
@@ -667,13 +674,6 @@
             "/news/mlbb-current-patch/",
             "hero:bruno",
             "Патч"
-          ],
-          [
-            "Калибровка Мифика",
-            "10 матчей, двойные победы и цена",
-            "/guides/mythic-placement.html",
-            "rank:Mythic",
-            "Гайд"
           ]
         ]
       },
@@ -691,6 +691,13 @@
             "Article"
           ],
           [
+            "All MLBB heroes",
+            "Win rates and counters for 133 heroes",
+            "/heroes/",
+            "hero:hanabi",
+            "Heroes"
+          ],
+          [
             "Where to redeem codes",
             "The official form and why a code fails",
             "/news/mlbb-redeem-codes-guide/",
@@ -703,13 +710,6 @@
             "/news/mlbb-current-patch/",
             "hero:bruno",
             "Patch"
-          ],
-          [
-            "Mythic placement",
-            "10 matches, double wins and price",
-            "/guides/mythic-placement.html",
-            "rank:Mythic",
-            "Guide"
           ]
         ]
       }
@@ -796,6 +796,13 @@
         "text": "Сравните с бустом Мифика и пати.",
         "items": [
           [
+            "Все герои MLBB",
+            "Процент побед и контрпики 133 героев",
+            "/heroes/",
+            "hero:hanabi",
+            "Герои"
+          ],
+          [
             "Буст Мифика",
             "Цены на звёзды в Чести, Славе и Бессмертном",
             "/boost/mythic.html",
@@ -815,13 +822,6 @@
             "/news/mlbb-meta-tier-list/",
             "hero:masha",
             "Мета"
-          ],
-          [
-            "Ранги по порядку",
-            "Все звания, звёзды и пороги Мифика",
-            "/news/mlbb-ranks-in-order/",
-            "ranks:Epic,Legend",
-            "Статья"
           ]
         ]
       },
@@ -831,6 +831,13 @@
         "title": "Other formats and guides",
         "text": "Compare with the Mythic boost and party.",
         "items": [
+          [
+            "All MLBB heroes",
+            "Win rates and counters for 133 heroes",
+            "/heroes/",
+            "hero:hanabi",
+            "Heroes"
+          ],
           [
             "Mythic boost",
             "Star prices in Honor, Glory and Immortal",
@@ -851,13 +858,6 @@
             "/news/mlbb-meta-tier-list/",
             "hero:masha",
             "Meta"
-          ],
-          [
-            "Ranks in order",
-            "All tiers, stars and Mythic thresholds",
-            "/news/mlbb-ranks-in-order/",
-            "ranks:Epic,Legend",
-            "Article"
           ]
         ]
       }

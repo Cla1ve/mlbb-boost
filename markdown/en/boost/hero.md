@@ -39,18 +39,18 @@ Median order**≈ 6 h**
 
 Numbers are completed orders since November 2025. Any hero on the account works.
 
--   Angela 51
--   Selena 34
--   Lunox 30
--   Hayabusa 23
--   Fanny 23
--   Harley 22
--   Chou 21
--   Carmilla 20
--   Leomord 20
--   Xavier 18
--   Valentina 18
--   Kagura 16
+-   [Angela 51](https://boostmlbb.ru/en/heroes/angela.html)
+-   [Selena 34](https://boostmlbb.ru/en/heroes/selena.html)
+-   [Lunox 30](https://boostmlbb.ru/en/heroes/lunox.html)
+-   [Hayabusa 23](https://boostmlbb.ru/en/heroes/hayabusa.html)
+-   [Fanny 23](https://boostmlbb.ru/en/heroes/fanny.html)
+-   [Harley 22](https://boostmlbb.ru/en/heroes/harley.html)
+-   [Chou 21](https://boostmlbb.ru/en/heroes/chou.html)
+-   [Carmilla 20](https://boostmlbb.ru/en/heroes/carmilla.html)
+-   [Leomord 20](https://boostmlbb.ru/en/heroes/leomord.html)
+-   [Xavier 18](https://boostmlbb.ru/en/heroes/xavier.html)
+-   [Valentina 18](https://boostmlbb.ru/en/heroes/valentina.html)
+-   [Kagura 16](https://boostmlbb.ru/en/heroes/kagura.html)
 
 ## Hero boost price per star
 
@@ -283,4 +283,4 @@ Related
 
 Compare with the Mythic boost and party.
 
-[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Service**Mythic boost**Star prices in Honor, Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Guide**Party or account boost**How the formats differ and which costs less](https://boostmlbb.ru/en/guides/party-boost.html)[![](/images/heroes/masha.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statistics](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)
+[![](/images/heroes/hanabi.webp)Heroes**All MLBB heroes**Win rates and counters for 133 heroes](https://boostmlbb.ru/en/heroes/)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Service**Mythic boost**Star prices in Honor, Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Guide**Party or account boost**How the formats differ and which costs less](https://boostmlbb.ru/en/guides/party-boost.html)[![](/images/heroes/masha.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statistics](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/)

@@ -39,18 +39,18 @@ language: ru
 
 Число — выполненные заказы с ноября 2025 года. Подходит любой герой, который есть на аккаунте.
 
--   Ангела 51
--   Селена 34
--   Люнокс 30
--   Хаябуса 23
--   Фанни 23
--   Харли 22
--   Чу 21
--   Кармилла 20
--   Леоморд 20
--   Ксавьер 18
--   Валентина 18
--   Кагура 16
+-   [Ангела 51](https://boostmlbb.ru/heroes/angela.html)
+-   [Селена 34](https://boostmlbb.ru/heroes/selena.html)
+-   [Люнокс 30](https://boostmlbb.ru/heroes/lunox.html)
+-   [Хаябуса 23](https://boostmlbb.ru/heroes/hayabusa.html)
+-   [Фанни 23](https://boostmlbb.ru/heroes/fanny.html)
+-   [Харли 22](https://boostmlbb.ru/heroes/harley.html)
+-   [Чу 21](https://boostmlbb.ru/heroes/chou.html)
+-   [Кармилла 20](https://boostmlbb.ru/heroes/carmilla.html)
+-   [Леоморд 20](https://boostmlbb.ru/heroes/leomord.html)
+-   [Ксавьер 18](https://boostmlbb.ru/heroes/xavier.html)
+-   [Валентина 18](https://boostmlbb.ru/heroes/valentina.html)
+-   [Кагура 16](https://boostmlbb.ru/heroes/kagura.html)
 
 ## Цены за звезду на герое
 
@@ -283,4 +283,4 @@ language: ru
 
 Сравните с бустом Мифика и пати.
 
-[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и Бессмертном](https://boostmlbb.ru/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Гайд**Пати или со входом**Чем отличаются форматы и что дешевле](https://boostmlbb.ru/guides/party-boost.html)[![](/images/heroes/masha.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистике](https://boostmlbb.ru/news/mlbb-meta-tier-list/)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги Мифика](https://boostmlbb.ru/news/mlbb-ranks-in-order/)
+[![](/images/heroes/hanabi.webp)Герои**Все герои MLBB**Процент побед и контрпики 133 героев](https://boostmlbb.ru/heroes/)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и Бессмертном](https://boostmlbb.ru/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Гайд**Пати или со входом**Чем отличаются форматы и что дешевле](https://boostmlbb.ru/guides/party-boost.html)[![](/images/heroes/masha.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистике](https://boostmlbb.ru/news/mlbb-meta-tier-list/)
