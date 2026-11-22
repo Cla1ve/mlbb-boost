@@ -48,6 +48,14 @@ let currentBoostType = 'standard';
 let requestedCalibrationTargetStars = null;
 let calculationRevision = 0;
 const BOT_ORDER_URL = 'https://t.me/cla1ve_boost_bot?start=site';
+// English visitors order through the owner's personal Telegram instead of the Russian-language bot.
+const OWNER_DM_URL = 'https://t.me/Cla1ve';
+function isEnglishPage() {
+  return document.documentElement.lang === 'en' || isEnglish();
+}
+function defaultOrderUrl() {
+  return isEnglishPage() ? OWNER_DM_URL : BOT_ORDER_URL;
+}
 
 function calibrationStatus() {
   return document.querySelector('input[name="calibration-status"]:checked')?.value || '';
@@ -851,7 +859,7 @@ async function calculatePrice() {
   }
 
   const boostType = currentBoostType;
-  const orderUrl = buildBotOrderUrl(boostType, isWeakAccount, calibration);
+  const orderUrl = isEnglishPage() ? OWNER_DM_URL : buildBotOrderUrl(boostType, isWeakAccount, calibration);
 
   const calculateBtn = document.getElementById('calculate-btn');
   const btnContent = calculateBtn.querySelector('.btn-content');
@@ -1096,7 +1104,7 @@ function hideError() {
 function hideResult() {
   calculationRevision++;
   const orderButton = document.getElementById('order-btn');
-  if (orderButton) orderButton.href = BOT_ORDER_URL;
+  if (orderButton) orderButton.href = defaultOrderUrl();
   document.getElementById('calculation-result')?.classList.add('hidden');
 }
 

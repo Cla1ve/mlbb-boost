@@ -15,7 +15,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html)[Задать вопрос](https://t.me/Cla1ve)
 
-![Кристаллические врата в кольце из десяти светящихся камней](/images/guides/placement.jpg)
+Калибровка Мифика6 из 10
+
+![](/images/ranks/Mythic.webp)
+
++2+20+2+2078910
+
+Мифик**8⭐**
 
 **10**матчей калибровки
 
@@ -134,4 +140,4 @@ language: ru
 
 Цены на звёзды Мифика и полная лестница рангов.
 
-[![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html)
+[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и Бессмертном](https://boostmlbb.ru/boost/mythic.html)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги Мифика](https://boostmlbb.ru/news/mlbb-ranks-in-order/)[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт ранг](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)[![](/images/heroes/harley.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного героя](https://boostmlbb.ru/boost/hero.html)

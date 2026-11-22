@@ -15,7 +15,13 @@ Placement
 
 [Calculate the price](https://boostmlbb.ru/en/order.html)[Ask a question](https://t.me/Cla1ve)
 
-![A crystal gate inside a ring of ten glowing stones](/images/guides/placement.jpg)
+Mythic placement6 of 10
+
+![](/images/ranks/Mythic.webp)
+
++2+20+2+2078910
+
+Mythic**8⭐**
 
 **10**placement matches
 
@@ -134,4 +140,4 @@ Related
 
 Mythic star prices and the full rank ladder.
 
-[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html)
+[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Service**Mythic boost**Star prices in Honor, Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Article**Season 42 end**Expected date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[![](/images/heroes/harley.webp)Service**Hero MMR boost**Rank and rating of your hero](https://boostmlbb.ru/en/boost/hero.html)

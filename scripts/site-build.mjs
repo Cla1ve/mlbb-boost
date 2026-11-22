@@ -167,10 +167,43 @@ function reviewCard(r, lang) {
 function reviewWall(reviews, lang) {
   return `<div class="review-wall" data-i18n-skip>${reviews.map(r => reviewCard(r, lang)).join('')}</div>`;
 }
+const rankImg = (name, cls = '') => `<img class="${cls}" src="/images/ranks/${name}.webp" width="160" height="160" alt="" loading="lazy" decoding="async">`;
+const heroImg = (slug, cls = '') => `<img class="${cls}" src="/images/heroes/${slug}.webp" width="96" height="96" alt="" loading="lazy" decoding="async">`;
+function hubVisual(spec) {
+  const [kind, value] = spec.split(':');
+  if (kind === 'rank') return rankImg(value, 'hub-tile__rank');
+  if (kind === 'ranks') return value.split(',').map(name => rankImg(name, 'hub-tile__rank hub-tile__rank--pair')).join('');
+  if (kind === 'hero') return heroImg(value, 'hub-tile__hero');
+  return `<i class="fas ${value}" aria-hidden="true"></i>`;
+}
 function guideHub(hub, lang) {
   const en = lang === 'en';
-  const tiles = hub.items.map(([title, text, href, image, kind]) => `<a class="hub-tile" href="${href}"><span class="hub-tile__media"><img src="${image}" width="640" height="360" alt="" loading="lazy" decoding="async"></span><span class="hub-tile__body"><span class="hub-tile__kind">${kind}</span><strong>${title}</strong><span class="hub-tile__text">${text}</span><span class="hub-tile__go">${en ? 'Open' : 'Открыть'} <i class="fas fa-arrow-right" aria-hidden="true"></i></span></span></a>`).join('');
-  return `<section class="guide-hub" aria-labelledby="hub-${hub.id}"><div class="container"><div class="guide-hub__head"><span class="guide-hub__label">${hub.label}</span><h2 id="hub-${hub.id}">${hub.title}</h2><p>${hub.text}</p></div><div class="guide-hub__grid">${tiles}</div></div></section>`;
+  const tiles = hub.items.map(([title, text, href, visual, kind]) => `<a class="hub-tile" href="${href}"><span class="hub-tile__media" aria-hidden="true">${hubVisual(visual)}</span><span class="hub-tile__body"><span class="hub-tile__kind">${kind}</span><strong>${title}</strong><span class="hub-tile__text">${text}</span></span><i class="fas fa-arrow-right hub-tile__go" aria-hidden="true"></i></a>`).join('');
+  return `<section class="guide-hub" aria-labelledby="hub-${hub.id}"><div class="container"><div class="guide-hub__head"><span class="guide-hub__label">${hub.label}</span><h2 id="hub-${hub.id}">${hub.title}</h2>${hub.text ? `<p>${hub.text}</p>` : ''}</div><div class="guide-hub__grid">${tiles}</div></div></section>`;
+}
+// Product-style illustrations for landing heroes: the order as the bot shows it, with real rank icons.
+function uiArt(kind, lang) {
+  const en = lang === 'en';
+  const t = (ru, enText) => en ? enText : ru;
+  const card = (head, pill, body, foot) => `<div class="ui-art" aria-hidden="true"><div class="ui-card"><div class="ui-card__head"><span>${head}</span>${pill ? `<span class="ui-pill">${pill}</span>` : ''}</div>${body}<div class="ui-card__foot">${foot}</div></div></div>`;
+  const route = (a, aLabel, b, bLabel) => `<div class="ui-route"><figure>${rankImg(a)}<figcaption>${aLabel}</figcaption></figure><span class="ui-route__arrow"><i class="fas fa-arrow-right"></i></span><figure>${rankImg(b)}<figcaption>${bLabel}</figcaption></figure></div>`;
+  const progress = (pct, label) => `<div class="ui-progress"><span class="ui-progress__track"><span class="ui-progress__fill" style="width:${pct}%"></span></span><span class="ui-progress__label">${label}</span></div>`;
+  if (kind === 'mythic') return fillTokens(card(t('Ваш заказ', 'Your order'), t('Обычный', 'Account'),
+    route('Mythical_Glory', t('Слава 50⭐', 'Glory 50⭐'), 'Mythical_Immortal', t('Бессмертный 100⭐', 'Immortal 100⭐')) + progress(68, t('34 из 50⭐ · 21W 4L', '34 of 50⭐ · 21W 4L')),
+    `<span>${t('Итого', 'Total')}</span><strong>{{gloryRouteStd}}</strong>`), lang);
+  if (kind === 'hero') return fillTokens(card(t('Буст на герое', 'Hero boost'), t('На герое', 'Hero'),
+    `<div class="ui-hero">${heroImg('harley', 'ui-hero__icon')}<div><strong>${t('Харли', 'Harley')}</strong><span>${t('Бессмертный 157⭐ → 168⭐', 'Immortal 157⭐ → 168⭐')}</span></div>${rankImg('Mythical_Immortal', 'ui-hero__rank')}</div>` + progress(82, t('9 из 11⭐ · 10W 1L', '9 of 11⭐ · 10W 1L')),
+    `<span>${t('Медиана заказа', 'Median order')}</span><strong>${t('≈ 6 ч', '≈ 6 h')}</strong>`), lang);
+  if (kind === 'placement') {
+    const dots = ['w', 'w', 'l', 'w', 'w', 'l', '', '', '', ''].map((r, i) => `<span class="ui-match ui-match--${r || 'next'}">${r === 'w' ? '+2' : r === 'l' ? '0' : i + 1}</span>`).join('');
+    return card(t('Калибровка Мифика', 'Mythic placement'), t('6 из 10', '6 of 10'),
+      `<div class="ui-placement">${rankImg('Mythic', 'ui-placement__rank')}<div class="ui-matches">${dots}</div></div>`,
+      `<span>${t('Мифик', 'Mythic')}</span><strong>8⭐</strong>`);
+  }
+  if (kind === 'party') return card(t('Пати', 'Party'), t('Готовы', 'Ready'),
+    `<div class="ui-lobby"><div class="ui-player">${rankImg('Mythical_Glory')}<div><strong>${t('Вы', 'You')}</strong><span>${t('Мифическая слава', 'Mythical Glory')}</span></div><span class="ui-ready"></span></div><div class="ui-player">${rankImg('Mythical_Immortal')}<div><strong>${t('Бустер', 'Booster')}</strong><span>${t('Бессмертный', 'Immortal')}</span></div><span class="ui-ready"></span></div></div>`,
+    `<span>${t('Вход в аккаунт', 'Account login')}</span><strong>${t('не нужен', 'not needed')}</strong>`);
+  return '';
 }
 function guideArticle(guide, lang) {
   const en = lang === 'en';
@@ -181,8 +214,8 @@ function guideArticle(guide, lang) {
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
   if (guide.layout === 'landing') {
     const hero = guide[lang][4];
-    const art = guide.image ? `<picture class="lp-hero__art"><source type="image/webp" srcset="/images/guides/${guide.image}-640.webp 640w, /images/guides/${guide.image}-1200.webp 1200w" sizes="(max-width: 900px) 92vw, 520px"><img src="/images/guides/${guide.image}.jpg" width="1200" height="675" alt="${escape(hero.alt || '')}" fetchpriority="high" decoding="async"></picture>` : '';
-    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero${guide.image ? ' lp-hero--art' : ''}"><div class="hero-glow"></div><div class="container lp-hero__grid"><div class="lp-hero__copy"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="fab fa-telegram"></i><span>${hero.secondary[0]}</span></a></div></div>${art}</div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
+    const art = guide.art ? `<div class="lp-hero__art">${uiArt(guide.art, lang)}</div>` : '';
+    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero${guide.art ? ' lp-hero--art' : ''}"><div class="hero-glow"></div><div class="container lp-hero__grid"><div class="lp-hero__copy"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="fab fa-telegram"></i><span>${hero.secondary[0]}</span></a></div></div>${art}</div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
   }
   return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></article>`;
 }
@@ -336,7 +369,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '34' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '35' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
@@ -371,6 +404,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       footer.querySelector('.reviews-reset')?.remove();
       const reset = document.createElement('button'); reset.type = 'button'; reset.className = 'reviews-reset'; reset.id = 'reviews-reset'; reset.textContent = lang === 'en' ? 'Reset filters' : 'Сбросить фильтры'; reset.setAttribute('data-i18n-skip', ''); footer.append(reset);
     }
+    if (file === 'order.html' && lang === 'en') document.getElementById('order-btn')?.setAttribute('href', 'https://t.me/Cla1ve');
     if (file === 'prices.html') {
       document.querySelector('.price-format-bar')?.remove();
       const bar = document.createElement('div'); bar.className = 'price-format-bar'; bar.hidden = true; bar.setAttribute('data-i18n-skip', '');

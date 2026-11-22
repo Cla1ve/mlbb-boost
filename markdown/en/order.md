@@ -167,7 +167,7 @@ Your price: 0 ₽
 
 Discount **10%** on your first order!
 
-[Place order Open the Telegram bot](https://t.me/cla1ve_boost_bot?start=site)
+[Place order Open the Telegram bot](https://t.me/Cla1ve)
 
 ### Why players choose us
 

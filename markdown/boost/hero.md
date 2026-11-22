@@ -15,7 +15,17 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)[Написать в Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
-![Изумрудный кристаллический щит с мечом на пьедестале](/images/guides/hero-boost.jpg)
+Буст на героеНа герое
+
+![](/images/heroes/harley.webp)
+
+**Харли**Бессмертный 157⭐ → 168⭐
+
+![](/images/ranks/Mythical_Immortal.webp)
+
+9 из 11⭐ · 10W 1L
+
+Медиана заказа**≈ 6 ч**
 
 **816**заказов на герое
 
@@ -273,4 +283,4 @@ language: ru
 
 Сравните с бустом Мифика и пати.
 
-[![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/guides/party-640.webp)Гайд**Пати или со входом**Чем отличаются форматы и что дешевлеОткрыть](https://boostmlbb.ru/guides/party-boost.html) [![](/images/news/mlbb-meta-tier-list-768.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистикеОткрыть](https://boostmlbb.ru/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/)
+[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и Бессмертном](https://boostmlbb.ru/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Гайд**Пати или со входом**Чем отличаются форматы и что дешевле](https://boostmlbb.ru/guides/party-boost.html)[![](/images/heroes/masha.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистике](https://boostmlbb.ru/news/mlbb-meta-tier-list/)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги Мифика](https://boostmlbb.ru/news/mlbb-ranks-in-order/)

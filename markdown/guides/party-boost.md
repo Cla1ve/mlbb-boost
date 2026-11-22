@@ -15,7 +15,17 @@ language: ru
 
 [Рассчитать пати](https://boostmlbb.ru/order.html?type=party)[Написать в Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
-![Две кристаллические фигуры игроков на одной платформе](/images/guides/party.jpg)
+ПатиГотовы
+
+![](/images/ranks/Mythical_Glory.webp)
+
+**Вы**Мифическая слава
+
+![](/images/ranks/Mythical_Immortal.webp)
+
+**Бустер**Бессмертный
+
+Вход в аккаунт**не нужен**
 
 ### Обычный буст
 
@@ -197,4 +207,4 @@ language: ru
 
 Буст на герое, Мифик и калибровка.
 
-[![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html) [![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/guides/placement-640.webp)Гайд**Калибровка Мифика**10 матчей, двойные победы и ценаОткрыть](https://boostmlbb.ru/guides/mythic-placement.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/)
+[![](/images/heroes/harley.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного героя](https://boostmlbb.ru/boost/hero.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и Бессмертном](https://boostmlbb.ru/boost/mythic.html)[![](/images/ranks/Mythic.webp)Гайд**Калибровка Мифика**10 матчей, двойные победы и цена](https://boostmlbb.ru/guides/mythic-placement.html)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги Мифика](https://boostmlbb.ru/news/mlbb-ranks-in-order/)

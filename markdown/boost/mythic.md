@@ -15,7 +15,19 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=standard)[Написать в Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
-![Изумрудная кристаллическая корона на трёх светящихся ступенях](/images/guides/mythic-boost.jpg)
+Ваш заказОбычный
+
+![](/images/ranks/Mythical_Glory.webp)
+
+Слава 50⭐
+
+![](/images/ranks/Mythical_Immortal.webp)
+
+Бессмертный 100⭐
+
+34 из 50⭐ · 21W 4L
+
+Итого**6 250 ₽**
 
 **2 289**заказов выполнено
 
@@ -200,4 +212,4 @@ language: ru
 
 Как устроены ранги и что будет со звёздами после сброса.
 
-[![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-ranks-in-order-768.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги МификаОткрыть](https://boostmlbb.ru/news/mlbb-ranks-in-order/) [![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html) [![](/images/guides/placement-640.webp)Гайд**Калибровка Мифика**10 матчей, двойные победы и ценаОткрыть](https://boostmlbb.ru/guides/mythic-placement.html)
+[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт ранг](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Статья**Ранги по порядку**Все звания, звёзды и пороги Мифика](https://boostmlbb.ru/news/mlbb-ranks-in-order/)[![](/images/heroes/harley.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного героя](https://boostmlbb.ru/boost/hero.html)[![](/images/ranks/Mythic.webp)Гайд**Калибровка Мифика**10 матчей, двойные победы и цена](https://boostmlbb.ru/guides/mythic-placement.html)

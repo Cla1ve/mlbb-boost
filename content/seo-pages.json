@@ -160,7 +160,7 @@
       "updated": "2026-11-22",
       "layout": "landing",
       "kind": "service",
-      "image": "placement"
+      "art": "placement"
     },
     {
       "file": "guides/party-boost.html",
@@ -236,7 +236,7 @@
       "layout": "landing",
       "updated": "2026-11-22",
       "kind": "service",
-      "image": "party"
+      "art": "party"
     },
     {
       "file": "boost/mythic.html",
@@ -335,7 +335,7 @@
         }
       ],
       "layout": "landing",
-      "image": "mythic-boost"
+      "art": "mythic"
     },
     {
       "file": "boost/hero.html",
@@ -428,7 +428,7 @@
         }
       ],
       "layout": "landing",
-      "image": "hero-boost"
+      "art": "hero"
     }
   ],
   "related": {
@@ -443,28 +443,28 @@
             "Конец 42 сезона",
             "Ожидаемая дата и куда упадёт ранг",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Статья"
           ],
           [
             "Тир-лист ноября 2026",
             "Сильнейшие герои и баны по официальной статистике",
             "/news/mlbb-meta-tier-list/",
-            "/images/news/mlbb-meta-tier-list-768.webp",
+            "hero:masha",
             "Мета"
           ],
           [
             "Какой сейчас патч",
             "Обновление 2.2.16 и что оно изменило",
             "/news/mlbb-current-patch/",
-            "/images/news/mlbb-current-patch-768.webp",
+            "hero:bruno",
             "Патч"
           ],
           [
             "Куда вводить промокоды",
             "Официальная форма и почему код не работает",
             "/news/mlbb-redeem-codes-guide/",
-            "/images/news/mlbb-redeem-codes-guide-768.webp",
+            "fa:fa-gift",
             "Гайд"
           ]
         ]
@@ -479,28 +479,28 @@
             "Season 42 end",
             "Expected date and where your rank drops",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Article"
           ],
           [
             "Tier list, November 2026",
             "Strongest heroes and bans from official statistics",
             "/news/mlbb-meta-tier-list/",
-            "/images/news/mlbb-meta-tier-list-768.webp",
+            "hero:masha",
             "Meta"
           ],
           [
             "Current patch",
             "Update 2.2.16 and what it changed",
             "/news/mlbb-current-patch/",
-            "/images/news/mlbb-current-patch-768.webp",
+            "hero:bruno",
             "Patch"
           ],
           [
             "Where to redeem codes",
             "The official form and why a code fails",
             "/news/mlbb-redeem-codes-guide/",
-            "/images/news/mlbb-redeem-codes-guide-768.webp",
+            "fa:fa-gift",
             "Guide"
           ]
         ]
@@ -517,28 +517,28 @@
             "Буст Мифика",
             "Цены на звёзды в Чести, Славе и Бессмертном",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Услуга"
           ],
           [
             "Буст ММР на герое",
             "Ранг и рейтинг выбранного героя",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Услуга"
           ],
           [
             "Пати или со входом",
             "Чем отличаются форматы и что дешевле",
             "/guides/party-boost.html",
-            "/images/guides/party-640.webp",
+            "ranks:Mythical_Glory,Mythical_Glory",
             "Гайд"
           ],
           [
             "Калибровка Мифика",
             "10 матчей, двойные победы и цена",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Гайд"
           ]
         ]
@@ -553,28 +553,28 @@
             "Mythic boost",
             "Star prices in Honor, Glory and Immortal",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Service"
           ],
           [
             "Hero MMR boost",
             "Rank and rating of your hero",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Service"
           ],
           [
             "Party or account boost",
             "How the formats differ and which costs less",
             "/guides/party-boost.html",
-            "/images/guides/party-640.webp",
+            "ranks:Mythical_Glory,Mythical_Glory",
             "Guide"
           ],
           [
             "Mythic placement",
             "10 matches, double wins and price",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Guide"
           ]
         ]
@@ -591,21 +591,21 @@
             "Буст Мифика",
             "Цены на звёзды в Чести, Славе и Бессмертном",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Услуга"
           ],
           [
             "Буст ММР на герое",
             "Ранг и рейтинг выбранного героя",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Услуга"
           ],
           [
             "Конец 42 сезона",
             "Ожидаемая дата и куда упадёт ранг",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Статья"
           ]
         ]
@@ -620,21 +620,21 @@
             "Mythic boost",
             "Star prices in Honor, Glory and Immortal",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Service"
           ],
           [
             "Hero MMR boost",
             "Rank and rating of your hero",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Service"
           ],
           [
             "Season 42 end",
             "Expected date and where your rank drops",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Article"
           ]
         ]
@@ -651,28 +651,28 @@
             "Ранги по порядку",
             "Все звания, звёзды и пороги Мифика",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Статья"
           ],
           [
             "Куда вводить промокоды",
             "Официальная форма и почему код не работает",
             "/news/mlbb-redeem-codes-guide/",
-            "/images/news/mlbb-redeem-codes-guide-768.webp",
+            "fa:fa-gift",
             "Гайд"
           ],
           [
             "Какой сейчас патч",
             "Обновление 2.2.16 и что оно изменило",
             "/news/mlbb-current-patch/",
-            "/images/news/mlbb-current-patch-768.webp",
+            "hero:bruno",
             "Патч"
           ],
           [
             "Калибровка Мифика",
             "10 матчей, двойные победы и цена",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Гайд"
           ]
         ]
@@ -687,28 +687,28 @@
             "Ranks in order",
             "All tiers, stars and Mythic thresholds",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Article"
           ],
           [
             "Where to redeem codes",
             "The official form and why a code fails",
             "/news/mlbb-redeem-codes-guide/",
-            "/images/news/mlbb-redeem-codes-guide-768.webp",
+            "fa:fa-gift",
             "Guide"
           ],
           [
             "Current patch",
             "Update 2.2.16 and what it changed",
             "/news/mlbb-current-patch/",
-            "/images/news/mlbb-current-patch-768.webp",
+            "hero:bruno",
             "Patch"
           ],
           [
             "Mythic placement",
             "10 matches, double wins and price",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Guide"
           ]
         ]
@@ -725,28 +725,28 @@
             "Конец 42 сезона",
             "Ожидаемая дата и куда упадёт ранг",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Статья"
           ],
           [
             "Ранги по порядку",
             "Все звания, звёзды и пороги Мифика",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Статья"
           ],
           [
             "Буст ММР на герое",
             "Ранг и рейтинг выбранного героя",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Услуга"
           ],
           [
             "Калибровка Мифика",
             "10 матчей, двойные победы и цена",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Гайд"
           ]
         ]
@@ -761,28 +761,28 @@
             "Season 42 end",
             "Expected date and where your rank drops",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Article"
           ],
           [
             "Ranks in order",
             "All tiers, stars and Mythic thresholds",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Article"
           ],
           [
             "Hero MMR boost",
             "Rank and rating of your hero",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Service"
           ],
           [
             "Mythic placement",
             "10 matches, double wins and price",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Guide"
           ]
         ]
@@ -799,28 +799,28 @@
             "Буст Мифика",
             "Цены на звёзды в Чести, Славе и Бессмертном",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Услуга"
           ],
           [
             "Пати или со входом",
             "Чем отличаются форматы и что дешевле",
             "/guides/party-boost.html",
-            "/images/guides/party-640.webp",
+            "ranks:Mythical_Glory,Mythical_Glory",
             "Гайд"
           ],
           [
             "Тир-лист ноября 2026",
             "Сильнейшие герои и баны по официальной статистике",
             "/news/mlbb-meta-tier-list/",
-            "/images/news/mlbb-meta-tier-list-768.webp",
+            "hero:masha",
             "Мета"
           ],
           [
             "Ранги по порядку",
             "Все звания, звёзды и пороги Мифика",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Статья"
           ]
         ]
@@ -835,28 +835,28 @@
             "Mythic boost",
             "Star prices in Honor, Glory and Immortal",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Service"
           ],
           [
             "Party or account boost",
             "How the formats differ and which costs less",
             "/guides/party-boost.html",
-            "/images/guides/party-640.webp",
+            "ranks:Mythical_Glory,Mythical_Glory",
             "Guide"
           ],
           [
             "Tier list, November 2026",
             "Strongest heroes and bans from official statistics",
             "/news/mlbb-meta-tier-list/",
-            "/images/news/mlbb-meta-tier-list-768.webp",
+            "hero:masha",
             "Meta"
           ],
           [
             "Ranks in order",
             "All tiers, stars and Mythic thresholds",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Article"
           ]
         ]
@@ -873,28 +873,28 @@
             "Буст Мифика",
             "Цены на звёзды в Чести, Славе и Бессмертном",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Услуга"
           ],
           [
             "Ранги по порядку",
             "Все звания, звёзды и пороги Мифика",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Статья"
           ],
           [
             "Конец 42 сезона",
             "Ожидаемая дата и куда упадёт ранг",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Статья"
           ],
           [
             "Буст ММР на герое",
             "Ранг и рейтинг выбранного героя",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Услуга"
           ]
         ]
@@ -909,28 +909,28 @@
             "Mythic boost",
             "Star prices in Honor, Glory and Immortal",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Service"
           ],
           [
             "Ranks in order",
             "All tiers, stars and Mythic thresholds",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Article"
           ],
           [
             "Season 42 end",
             "Expected date and where your rank drops",
             "/news/mlbb-season-end-rank-reset/",
-            "/images/news/mlbb-season-end-rank-reset-768.webp",
+            "ranks:Mythical_Immortal,Legend",
             "Article"
           ],
           [
             "Hero MMR boost",
             "Rank and rating of your hero",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Service"
           ]
         ]
@@ -947,28 +947,28 @@
             "Буст ММР на герое",
             "Ранг и рейтинг выбранного героя",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Услуга"
           ],
           [
             "Буст Мифика",
             "Цены на звёзды в Чести, Славе и Бессмертном",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Услуга"
           ],
           [
             "Калибровка Мифика",
             "10 матчей, двойные победы и цена",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Гайд"
           ],
           [
             "Ранги по порядку",
             "Все звания, звёзды и пороги Мифика",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Статья"
           ]
         ]
@@ -983,28 +983,28 @@
             "Hero MMR boost",
             "Rank and rating of your hero",
             "/boost/hero.html",
-            "/images/guides/hero-boost-640.webp",
+            "hero:harley",
             "Service"
           ],
           [
             "Mythic boost",
             "Star prices in Honor, Glory and Immortal",
             "/boost/mythic.html",
-            "/images/guides/mythic-boost-640.webp",
+            "ranks:Mythical_Glory,Mythical_Immortal",
             "Service"
           ],
           [
             "Mythic placement",
             "10 matches, double wins and price",
             "/guides/mythic-placement.html",
-            "/images/guides/placement-640.webp",
+            "rank:Mythic",
             "Guide"
           ],
           [
             "Ranks in order",
             "All tiers, stars and Mythic thresholds",
             "/news/mlbb-ranks-in-order/",
-            "/images/news/mlbb-ranks-in-order-768.webp",
+            "ranks:Epic,Legend",
             "Article"
           ]
         ]

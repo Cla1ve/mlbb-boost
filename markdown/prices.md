@@ -199,4 +199,4 @@ language: ru
 
 Маршруты с ценами и что будет с рангом в конце сезона.
 
-[![](/images/guides/mythic-boost-640.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и БессмертномОткрыть](https://boostmlbb.ru/boost/mythic.html) [![](/images/guides/hero-boost-640.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного герояОткрыть](https://boostmlbb.ru/boost/hero.html) [![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)
+[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Услуга**Буст Мифика**Цены на звёзды в Чести, Славе и Бессмертном](https://boostmlbb.ru/boost/mythic.html)[![](/images/heroes/harley.webp)Услуга**Буст ММР на герое**Ранг и рейтинг выбранного героя](https://boostmlbb.ru/boost/hero.html)[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт ранг](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)

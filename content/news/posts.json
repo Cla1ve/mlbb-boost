@@ -1276,7 +1276,7 @@
         "Калибровка"
       ],
       "datePublished": "2026-11-22T13:44:00+03:00",
-      "dateModified": "2026-11-22T13:54:09+03:00",
+      "dateModified": "2026-11-22T19:27:27+03:00",
       "hero": {
         "src": "/images/news/mlbb-ranks-in-order.jpg",
         "width": 1600,
@@ -1284,14 +1284,13 @@
         "webpSrcset": "/images/news/mlbb-ranks-in-order-768.webp 768w, /images/news/mlbb-ranks-in-order-1200.webp 1200w, /images/news/mlbb-ranks-in-order-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Лестница из десяти парящих кристаллических платформ, каждая выше и ярче предыдущей, на вершине изумрудный кристалл",
-        "caption": "Иллюстрация Boost MLBB к гиду по рангам.",
+        "alt": "Десять иконок рангов Mobile Legends от Воина до Мифического бессмертного на растущих ступенях",
+        "caption": "Иллюстрация Boost MLBB. Иконки рангов и героев — MOONTON.",
         "provenance": {
-          "type": "generated",
-          "creator": "OpenAI ImageGen via Codex",
+          "type": "original",
+          "creator": "Boost MLBB",
           "created": "2026-11-22",
-          "rights": "Оригинальная иллюстрация создана для Boost MLBB; без персонажей, логотипов, эмблем рангов и интерфейса Mobile Legends.",
-          "prompt": "Original 16:9 premium esports editorial hero, text-free: an ascending staircase of ten floating faceted emerald crystal platforms rising from lower left to upper right, each brighter than the last, the top platform crowned by a radiant emerald-cyan crystal; deep navy and near-black palette with soft cyan light trails; no characters, logos, rank emblems, UI or text."
+          "rights": "Original layout made by Boost MLBB; rank emblems and hero icons are MOONTON game assets used for editorial illustration."
         }
       },
       "blocks": [
@@ -1548,8 +1547,8 @@
             "Placement"
           ],
           "hero": {
-            "alt": "A staircase of ten floating crystal platforms, each higher and brighter than the last, with an emerald crystal on top",
-            "caption": "Boost MLBB illustration for the ranks guide."
+            "alt": "Ten Mobile Legends rank emblems from Warrior to Mythical Immortal on rising steps",
+            "caption": "Boost MLBB illustration. Rank and hero icons: MOONTON."
           },
           "blocks": [
             {
@@ -1790,7 +1789,7 @@
         "Мифик"
       ],
       "datePublished": "2026-11-22T13:44:00+03:00",
-      "dateModified": "2026-11-22T14:34:38+03:00",
+      "dateModified": "2026-11-22T19:27:27+03:00",
       "hero": {
         "src": "/images/news/mlbb-season-end-rank-reset.jpg",
         "width": 1600,
@@ -1798,14 +1797,13 @@
         "webpSrcset": "/images/news/mlbb-season-end-rank-reset-768.webp 768w, /images/news/mlbb-season-end-rank-reset-1200.webp 1200w, /images/news/mlbb-season-end-rank-reset-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Светящиеся изумрудные песочные часы в тёмной арене: кристаллические ступени внутри опускаются вниз",
-        "caption": "Иллюстрация Boost MLBB к материалу о конце сезона.",
+        "alt": "Карточка сброса: Мифический бессмертный 100+ звёзд переходит в Легенду V 16.12, сезон 42 сменяется 43",
+        "caption": "Иллюстрация Boost MLBB. Иконки рангов и героев — MOONTON.",
         "provenance": {
-          "type": "generated",
-          "creator": "OpenAI ImageGen via Codex",
+          "type": "original",
+          "creator": "Boost MLBB",
           "created": "2026-11-22",
-          "rights": "Оригинальная иллюстрация создана для Boost MLBB; без персонажей, логотипов, эмблем рангов и интерфейса Mobile Legends.",
-          "prompt": "Original 16:9 premium esports editorial hero, text-free: a tall luminous emerald hourglass centred in a dark arena, its upper bulb holding stacked glowing faceted crystal tiers, a thin stream of light particles falling to smaller dimmer tiers in the lower bulb; deep navy and near-black palette, restrained cyan edge light, quiet dark edges; no characters, logos, rank emblems, UI or text."
+          "rights": "Original layout made by Boost MLBB; rank emblems and hero icons are MOONTON game assets used for editorial illustration."
         }
       },
       "blocks": [
@@ -2006,8 +2004,8 @@
             "Mythic"
           ],
           "hero": {
-            "alt": "A glowing emerald hourglass in a dark arena with crystal steps sinking inside it",
-            "caption": "Boost MLBB illustration for the season end guide."
+            "alt": "Reset card: Mythical Immortal 100+ stars becomes Legend V on 16.12 as Season 42 turns into 43",
+            "caption": "Boost MLBB illustration. Rank and hero icons: MOONTON."
           },
           "blocks": [
             {
@@ -2186,7 +2184,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:29:19+03:00",
-      "dateModified": "2026-11-22T14:29:19+03:00",
+      "dateModified": "2026-11-22T19:27:27+03:00",
       "hero": {
         "src": "/images/news/mlbb-meta-tier-list.jpg",
         "width": 1600,
@@ -2194,14 +2192,13 @@
         "webpSrcset": "/images/news/mlbb-meta-tier-list-768.webp 768w, /images/news/mlbb-meta-tier-list-1200.webp 1200w, /images/news/mlbb-meta-tier-list-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Светящийся пятиступенчатый кристаллический пьедестал на фоне столбцов-диаграмм в тёмной арене",
-        "caption": "Иллюстрация Boost MLBB к тир-листу.",
+        "alt": "Тир-лист S, A и B с иконками героев: Маша, Аргус, Рафаэль и другие",
+        "caption": "Иллюстрация Boost MLBB. Иконки рангов и героев — MOONTON.",
         "provenance": {
-          "type": "generated",
-          "creator": "OpenAI ImageGen via Codex",
+          "type": "original",
+          "creator": "Boost MLBB",
           "created": "2026-11-22",
-          "rights": "Original illustration created for Boost MLBB; no Mobile Legends characters, logos, rank emblems or interface.",
-          "prompt": "Original 16:9 premium esports editorial hero, text-free: a five-level tiered crystal podium in a dark arena, the top tier small and brightest emerald, lower tiers wider and dimmer, with glowing translucent bar-chart columns behind it; deep navy and near-black palette, restrained cyan light; no characters, logos, rank emblems, UI or text."
+          "rights": "Original layout made by Boost MLBB; rank emblems and hero icons are MOONTON game assets used for editorial illustration."
         }
       },
       "blocks": [
@@ -2226,47 +2223,492 @@
           "text": "Тир-лист героев на ноябрь 2026"
         },
         {
-          "type": "table",
+          "type": "heroTiers",
+          "id": "tiers",
           "caption": "Тир-лист по проценту побед, все ранги, 30 дней",
-          "headers": [
-            "Тир",
-            "Процент побед",
-            "Героев",
-            "Герои"
+          "tiers": [
+            {
+              "tier": "S",
+              "label": "от 53%",
+              "heroes": [
+                {
+                  "name": "Маша",
+                  "icon": "/images/heroes/masha.webp",
+                  "value": "60,47%"
+                },
+                {
+                  "name": "Аргус",
+                  "icon": "/images/heroes/argus.webp",
+                  "value": "56,76%"
+                },
+                {
+                  "name": "Рафаэль",
+                  "icon": "/images/heroes/rafaela.webp",
+                  "value": "54,57%"
+                },
+                {
+                  "name": "Валир",
+                  "icon": "/images/heroes/valir.webp",
+                  "value": "54,13%"
+                },
+                {
+                  "name": "Флорин",
+                  "icon": "/images/heroes/floryn.webp",
+                  "value": "54,06%"
+                },
+                {
+                  "name": "Минотавр",
+                  "icon": "/images/heroes/minotaur.webp",
+                  "value": "53,77%"
+                },
+                {
+                  "name": "Бруно",
+                  "icon": "/images/heroes/bruno.webp",
+                  "value": "53,76%"
+                },
+                {
+                  "name": "Сан",
+                  "icon": "/images/heroes/sun.webp",
+                  "value": "53,69%"
+                },
+                {
+                  "name": "Глу",
+                  "icon": "/images/heroes/gloo.webp",
+                  "value": "53,55%"
+                },
+                {
+                  "name": "Аулус",
+                  "icon": "/images/heroes/aulus.webp",
+                  "value": "53,48%"
+                },
+                {
+                  "name": "Кармилла",
+                  "icon": "/images/heroes/carmilla.webp",
+                  "value": "53,32%"
+                },
+                {
+                  "name": "Обсидия",
+                  "icon": "/images/heroes/obsidia.webp",
+                  "value": "53,22%"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "label": "51–53%",
+              "heroes": [
+                {
+                  "name": "Эстес",
+                  "icon": "/images/heroes/estes.webp",
+                  "value": "52,74%"
+                },
+                {
+                  "name": "Ханаби",
+                  "icon": "/images/heroes/hanabi.webp",
+                  "value": "52,64%"
+                },
+                {
+                  "name": "Горд",
+                  "icon": "/images/heroes/gord.webp",
+                  "value": "52,63%"
+                },
+                {
+                  "name": "Линг",
+                  "icon": "/images/heroes/ling.webp",
+                  "value": "52,56%"
+                },
+                {
+                  "name": "Минситтар",
+                  "icon": "/images/heroes/minsitthar.webp",
+                  "value": "52,04%"
+                },
+                {
+                  "name": "Лукас",
+                  "icon": "/images/heroes/lukas.webp",
+                  "value": "52,03%"
+                },
+                {
+                  "name": "Белерик",
+                  "icon": "/images/heroes/belerick.webp",
+                  "value": "51,82%"
+                },
+                {
+                  "name": "Бартс",
+                  "icon": "/images/heroes/barats.webp",
+                  "value": "51,67%"
+                },
+                {
+                  "name": "Циклоп",
+                  "icon": "/images/heroes/cyclops.webp",
+                  "value": "51,66%"
+                },
+                {
+                  "name": "Ксавьер",
+                  "icon": "/images/heroes/xavier.webp",
+                  "value": "51,56%"
+                },
+                {
+                  "name": "Атлас",
+                  "icon": "/images/heroes/atlas.webp",
+                  "value": "51,49%"
+                },
+                {
+                  "name": "Сильвана",
+                  "icon": "/images/heroes/silvanna.webp",
+                  "value": "51,36%"
+                },
+                {
+                  "name": "Кадита",
+                  "icon": "/images/heroes/kadita.webp",
+                  "value": "51,33%"
+                },
+                {
+                  "name": "Гвиневра",
+                  "icon": "/images/heroes/guinevere.webp",
+                  "value": "51,27%"
+                },
+                {
+                  "name": "Сабер",
+                  "icon": "/images/heroes/saber.webp",
+                  "value": "51,18%"
+                },
+                {
+                  "name": "Кагура",
+                  "icon": "/images/heroes/kagura.webp",
+                  "value": "51,13%"
+                },
+                {
+                  "name": "Хильда",
+                  "icon": "/images/heroes/hilda.webp",
+                  "value": "51,07%"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "label": "49–51%",
+              "heroes": [
+                {
+                  "name": "Сесилион",
+                  "icon": "/images/heroes/cecilion.webp",
+                  "value": "50,98%"
+                },
+                {
+                  "name": "Цзэтянь",
+                  "icon": "/images/heroes/zetian.webp",
+                  "value": "50,89%"
+                },
+                {
+                  "name": "Алиса",
+                  "icon": "/images/heroes/alice.webp",
+                  "value": "50,73%"
+                },
+                {
+                  "name": "Калеа",
+                  "icon": "/images/heroes/kalea.webp",
+                  "value": "50,40%"
+                },
+                {
+                  "name": "Беатрис",
+                  "icon": "/images/heroes/beatrix.webp",
+                  "value": "50,37%"
+                },
+                {
+                  "name": "Эйдора",
+                  "icon": "/images/heroes/eudora.webp",
+                  "value": "50,37%"
+                },
+                {
+                  "name": "Клинт",
+                  "icon": "/images/heroes/clint.webp",
+                  "value": "50,35%"
+                },
+                {
+                  "name": "Москов",
+                  "icon": "/images/heroes/moskov.webp",
+                  "value": "50,30%"
+                },
+                {
+                  "name": "Эймон",
+                  "icon": "/images/heroes/aamon.webp",
+                  "value": "50,26%"
+                },
+                {
+                  "name": "Баданг",
+                  "icon": "/images/heroes/badang.webp",
+                  "value": "50,20%"
+                },
+                {
+                  "name": "Вэйл",
+                  "icon": "/images/heroes/vale.webp",
+                  "value": "50,10%"
+                },
+                {
+                  "name": "Иксия",
+                  "icon": "/images/heroes/ixia.webp",
+                  "value": "50,06%"
+                },
+                {
+                  "name": "Пакито",
+                  "icon": "/images/heroes/paquito.webp",
+                  "value": "50,04%"
+                },
+                {
+                  "name": "Хирара",
+                  "icon": "/images/heroes/hirara.webp",
+                  "value": "50,03%"
+                },
+                {
+                  "name": "Броуди",
+                  "icon": "/images/heroes/brody.webp",
+                  "value": "49,99%"
+                },
+                {
+                  "name": "Ангела",
+                  "icon": "/images/heroes/angela.webp",
+                  "value": "49,97%"
+                },
+                {
+                  "name": "Джулиан",
+                  "icon": "/images/heroes/julian.webp",
+                  "value": "49,96%"
+                },
+                {
+                  "name": "Икс.Борг",
+                  "icon": "/images/heroes/x-borg.webp",
+                  "value": "49,96%"
+                },
+                {
+                  "name": "Кайя",
+                  "icon": "/images/heroes/kaja.webp",
+                  "value": "49,82%"
+                },
+                {
+                  "name": "Мия",
+                  "icon": "/images/heroes/miya.webp",
+                  "value": "49,72%"
+                },
+                {
+                  "name": "Су Ё",
+                  "icon": "/images/heroes/suyou.webp",
+                  "value": "49,70%"
+                },
+                {
+                  "name": "Нолан",
+                  "icon": "/images/heroes/nolan.webp",
+                  "value": "49,70%"
+                },
+                {
+                  "name": "Одетта",
+                  "icon": "/images/heroes/odette.webp",
+                  "value": "49,68%"
+                },
+                {
+                  "name": "Инь",
+                  "icon": "/images/heroes/yin.webp",
+                  "value": "49,61%"
+                },
+                {
+                  "name": "Новария",
+                  "icon": "/images/heroes/novaria.webp",
+                  "value": "49,56%"
+                },
+                {
+                  "name": "Сора",
+                  "icon": "/images/heroes/sora.webp",
+                  "value": "49,49%"
+                },
+                {
+                  "name": "Лейла",
+                  "icon": "/images/heroes/layla.webp",
+                  "value": "49,41%"
+                },
+                {
+                  "name": "Чичи",
+                  "icon": "/images/heroes/cici.webp",
+                  "value": "49,40%"
+                },
+                {
+                  "name": "Вексана",
+                  "icon": "/images/heroes/vexana.webp",
+                  "value": "49,31%"
+                },
+                {
+                  "name": "Дариус",
+                  "icon": "/images/heroes/dyrroth.webp",
+                  "value": "49,30%"
+                },
+                {
+                  "name": "Фрейя",
+                  "icon": "/images/heroes/freya.webp",
+                  "value": "49,23%"
+                },
+                {
+                  "name": "Джонсон",
+                  "icon": "/images/heroes/johnson.webp",
+                  "value": "49,22%"
+                },
+                {
+                  "name": "Ли Сун-Син",
+                  "icon": "/images/heroes/yi-sun-shin.webp",
+                  "value": "49,14%"
+                }
+              ]
+            },
+            {
+              "tier": "C",
+              "label": "47–49%",
+              "heroes": [
+                {
+                  "name": "Чонг",
+                  "icon": "/images/heroes/yu-zhong.webp",
+                  "value": "48,94%"
+                },
+                {
+                  "name": "Аврора",
+                  "icon": "/images/heroes/aurora.webp",
+                  "value": "48,94%"
+                },
+                {
+                  "name": "Тамуз",
+                  "icon": "/images/heroes/thamuz.webp",
+                  "value": "48,91%"
+                },
+                {
+                  "name": "Кэрри",
+                  "icon": "/images/heroes/karrie.webp",
+                  "value": "48,85%"
+                },
+                {
+                  "name": "Алукард",
+                  "icon": "/images/heroes/alucard.webp",
+                  "value": "48,85%"
+                },
+                {
+                  "name": "Клауд",
+                  "icon": "/images/heroes/claude.webp",
+                  "value": "48,85%"
+                },
+                {
+                  "name": "Альфа",
+                  "icon": "/images/heroes/alpha.webp",
+                  "value": "48,84%"
+                },
+                {
+                  "name": "Кимми",
+                  "icon": "/images/heroes/kimmy.webp",
+                  "value": "48,77%"
+                },
+                {
+                  "name": "Госсен",
+                  "icon": "/images/heroes/gusion.webp",
+                  "value": "48,61%"
+                },
+                {
+                  "name": "Карина",
+                  "icon": "/images/heroes/karina.webp",
+                  "value": "48,55%"
+                },
+                {
+                  "name": "Селена",
+                  "icon": "/images/heroes/selena.webp",
+                  "value": "48,33%"
+                },
+                {
+                  "name": "Лесли",
+                  "icon": "/images/heroes/lesley.webp",
+                  "value": "48,29%"
+                },
+                {
+                  "name": "Чан'Э",
+                  "icon": "/images/heroes/change.webp",
+                  "value": "48,20%"
+                },
+                {
+                  "name": "Харли",
+                  "icon": "/images/heroes/harley.webp",
+                  "value": "48,17%"
+                },
+                {
+                  "name": "Хаябуса",
+                  "icon": "/images/heroes/hayabusa.webp",
+                  "value": "48,14%"
+                },
+                {
+                  "name": "Хелкарт",
+                  "icon": "/images/heroes/helcurt.webp",
+                  "value": "47,61%"
+                },
+                {
+                  "name": "Нана",
+                  "icon": "/images/heroes/nana.webp",
+                  "value": "47,29%"
+                },
+                {
+                  "name": "Мартис",
+                  "icon": "/images/heroes/martis.webp",
+                  "value": "47,24%"
+                },
+                {
+                  "name": "Эсмеральда",
+                  "icon": "/images/heroes/esmeralda.webp",
+                  "value": "47,00%"
+                }
+              ]
+            },
+            {
+              "tier": "D",
+              "label": "ниже 47%",
+              "heroes": [
+                {
+                  "name": "Бальмонд",
+                  "icon": "/images/heroes/balmond.webp",
+                  "value": "46,68%"
+                },
+                {
+                  "name": "Зилонг",
+                  "icon": "/images/heroes/zilong.webp",
+                  "value": "46,28%"
+                },
+                {
+                  "name": "Гатоткача",
+                  "icon": "/images/heroes/gatotkaca.webp",
+                  "value": "45,35%"
+                },
+                {
+                  "name": "Тигрил",
+                  "icon": "/images/heroes/tigreal.webp",
+                  "value": "45,20%"
+                },
+                {
+                  "name": "Чу",
+                  "icon": "/images/heroes/chou.webp",
+                  "value": "45,10%"
+                },
+                {
+                  "name": "Ланселот",
+                  "icon": "/images/heroes/lancelot.webp",
+                  "value": "43,13%"
+                },
+                {
+                  "name": "Грейнджер",
+                  "icon": "/images/heroes/granger.webp",
+                  "value": "43,00%"
+                },
+                {
+                  "name": "Фанни",
+                  "icon": "/images/heroes/fanny.webp",
+                  "value": "42,62%"
+                },
+                {
+                  "name": "Франко",
+                  "icon": "/images/heroes/franco.webp",
+                  "value": "41,57%"
+                }
+              ]
+            }
           ],
-          "rows": [
-            [
-              "S",
-              "от 53%",
-              "12",
-              "Маша, Аргус, Рафаэль, Валир, Флорин, Минотавр, Бруно, Сан, Глу, Аулус, Кармилла, Обсидия"
-            ],
-            [
-              "A",
-              "51–53%",
-              "17",
-              "Эстес, Ханаби, Горд, Линг, Минситтар, Лукас, Белерик, Бартс, Циклоп, Ксавьер, Атлас, Сильвана, Кадита, Гвиневра, Сабер, Кагура, Хильда"
-            ],
-            [
-              "B",
-              "49–51%",
-              "33",
-              "Сесилион, Цзэтянь, Алиса, Калеа, Беатрис, Эйдора, Клинт, Москов, Эймон, Баданг, Вэйл, Иксия, Пакито, Хирара, Броуди, Ангела, Джулиан, Икс.Борг, Кайя, Мия, Су Ё, Нолан, Одетта, Инь, Новария, Сора, Лейла, Чичи, Вексана, Дариус, Фрейя, Джонсон, Ли Сун-Син"
-            ],
-            [
-              "C",
-              "47–49%",
-              "19",
-              "Чонг, Аврора, Тамуз, Кэрри, Алукард, Клауд, Альфа, Кимми, Госсен, Карина, Селена, Лесли, Чан'Э, Харли, Хаябуса, Хелкарт, Нана, Мартис, Эсмеральда"
-            ],
-            [
-              "D",
-              "ниже 47%",
-              "9",
-              "Бальмонд, Зилонг, Гатоткача, Тигрил, Чу, Ланселот, Грейнджер, Фанни, Франко"
-            ]
-          ],
-          "note": "В тир-лист попали герои, которых выбирают хотя бы в 0,50% матчей: у редких героев процент побед скачет от малой выборки."
+          "note": "В тир-лист попали герои, которых выбирают хотя бы в 0,50% матчей. Иконки героев — MOONTON."
         },
         {
           "type": "paragraph",
@@ -2634,7 +3076,7 @@
           "accessed": "2026-11-22"
         }
       ],
-      "editorialNote": "Цифры — официальная статистика MOONTON за 30 дней, обновление 21 ноября 2026 года, 23:55. Тиры — наш расчёт только по проценту побед для героев с долей выбора от 0,5%. Копия данных хранится у редакции.",
+      "editorialNote": "Цифры — официальная статистика MOONTON за 30 дней, обновление 21 ноября 2026 года, 23:55. Тиры — наш расчёт только по проценту побед для героев с долей выбора от 0,5%. Копия данных хранится у редакции. Иконки героев — MOONTON.",
       "translations": {
         "en": {
           "title": "MLBB meta in November 2026: hero tier list from official statistics",
@@ -2650,8 +3092,8 @@
             "Season 42"
           ],
           "hero": {
-            "alt": "A glowing five-level crystal podium in front of bar-chart columns in a dark arena",
-            "caption": "Boost MLBB illustration for the tier list."
+            "alt": "S, A and B tier list with hero icons: Masha, Argus, Rafaela and others",
+            "caption": "Boost MLBB illustration. Rank and hero icons: MOONTON."
           },
           "blocks": [
             {
@@ -2675,47 +3117,492 @@
               "text": "Hero tier list for November 2026"
             },
             {
-              "type": "table",
+              "type": "heroTiers",
+              "id": "tiers",
               "caption": "Tier list by win rate, all ranks, 30 days",
-              "headers": [
-                "Tier",
-                "Win rate",
-                "Heroes",
-                "Hero list"
+              "tiers": [
+                {
+                  "tier": "S",
+                  "label": "53% and up",
+                  "heroes": [
+                    {
+                      "name": "Masha",
+                      "icon": "/images/heroes/masha.webp",
+                      "value": "60.47%"
+                    },
+                    {
+                      "name": "Argus",
+                      "icon": "/images/heroes/argus.webp",
+                      "value": "56.76%"
+                    },
+                    {
+                      "name": "Rafaela",
+                      "icon": "/images/heroes/rafaela.webp",
+                      "value": "54.57%"
+                    },
+                    {
+                      "name": "Valir",
+                      "icon": "/images/heroes/valir.webp",
+                      "value": "54.13%"
+                    },
+                    {
+                      "name": "Floryn",
+                      "icon": "/images/heroes/floryn.webp",
+                      "value": "54.06%"
+                    },
+                    {
+                      "name": "Minotaur",
+                      "icon": "/images/heroes/minotaur.webp",
+                      "value": "53.77%"
+                    },
+                    {
+                      "name": "Bruno",
+                      "icon": "/images/heroes/bruno.webp",
+                      "value": "53.76%"
+                    },
+                    {
+                      "name": "Sun",
+                      "icon": "/images/heroes/sun.webp",
+                      "value": "53.69%"
+                    },
+                    {
+                      "name": "Gloo",
+                      "icon": "/images/heroes/gloo.webp",
+                      "value": "53.55%"
+                    },
+                    {
+                      "name": "Aulus",
+                      "icon": "/images/heroes/aulus.webp",
+                      "value": "53.48%"
+                    },
+                    {
+                      "name": "Carmilla",
+                      "icon": "/images/heroes/carmilla.webp",
+                      "value": "53.32%"
+                    },
+                    {
+                      "name": "Obsidia",
+                      "icon": "/images/heroes/obsidia.webp",
+                      "value": "53.22%"
+                    }
+                  ]
+                },
+                {
+                  "tier": "A",
+                  "label": "51–53%",
+                  "heroes": [
+                    {
+                      "name": "Estes",
+                      "icon": "/images/heroes/estes.webp",
+                      "value": "52.74%"
+                    },
+                    {
+                      "name": "Hanabi",
+                      "icon": "/images/heroes/hanabi.webp",
+                      "value": "52.64%"
+                    },
+                    {
+                      "name": "Gord",
+                      "icon": "/images/heroes/gord.webp",
+                      "value": "52.63%"
+                    },
+                    {
+                      "name": "Ling",
+                      "icon": "/images/heroes/ling.webp",
+                      "value": "52.56%"
+                    },
+                    {
+                      "name": "Minsitthar",
+                      "icon": "/images/heroes/minsitthar.webp",
+                      "value": "52.04%"
+                    },
+                    {
+                      "name": "Lukas",
+                      "icon": "/images/heroes/lukas.webp",
+                      "value": "52.03%"
+                    },
+                    {
+                      "name": "Belerick",
+                      "icon": "/images/heroes/belerick.webp",
+                      "value": "51.82%"
+                    },
+                    {
+                      "name": "Barats",
+                      "icon": "/images/heroes/barats.webp",
+                      "value": "51.67%"
+                    },
+                    {
+                      "name": "Cyclops",
+                      "icon": "/images/heroes/cyclops.webp",
+                      "value": "51.66%"
+                    },
+                    {
+                      "name": "Xavier",
+                      "icon": "/images/heroes/xavier.webp",
+                      "value": "51.56%"
+                    },
+                    {
+                      "name": "Atlas",
+                      "icon": "/images/heroes/atlas.webp",
+                      "value": "51.49%"
+                    },
+                    {
+                      "name": "Silvanna",
+                      "icon": "/images/heroes/silvanna.webp",
+                      "value": "51.36%"
+                    },
+                    {
+                      "name": "Kadita",
+                      "icon": "/images/heroes/kadita.webp",
+                      "value": "51.33%"
+                    },
+                    {
+                      "name": "Guinevere",
+                      "icon": "/images/heroes/guinevere.webp",
+                      "value": "51.27%"
+                    },
+                    {
+                      "name": "Saber",
+                      "icon": "/images/heroes/saber.webp",
+                      "value": "51.18%"
+                    },
+                    {
+                      "name": "Kagura",
+                      "icon": "/images/heroes/kagura.webp",
+                      "value": "51.13%"
+                    },
+                    {
+                      "name": "Hilda",
+                      "icon": "/images/heroes/hilda.webp",
+                      "value": "51.07%"
+                    }
+                  ]
+                },
+                {
+                  "tier": "B",
+                  "label": "49–51%",
+                  "heroes": [
+                    {
+                      "name": "Cecilion",
+                      "icon": "/images/heroes/cecilion.webp",
+                      "value": "50.98%"
+                    },
+                    {
+                      "name": "Zetian",
+                      "icon": "/images/heroes/zetian.webp",
+                      "value": "50.89%"
+                    },
+                    {
+                      "name": "Alice",
+                      "icon": "/images/heroes/alice.webp",
+                      "value": "50.73%"
+                    },
+                    {
+                      "name": "Kalea",
+                      "icon": "/images/heroes/kalea.webp",
+                      "value": "50.40%"
+                    },
+                    {
+                      "name": "Beatrix",
+                      "icon": "/images/heroes/beatrix.webp",
+                      "value": "50.37%"
+                    },
+                    {
+                      "name": "Eudora",
+                      "icon": "/images/heroes/eudora.webp",
+                      "value": "50.37%"
+                    },
+                    {
+                      "name": "Clint",
+                      "icon": "/images/heroes/clint.webp",
+                      "value": "50.35%"
+                    },
+                    {
+                      "name": "Moskov",
+                      "icon": "/images/heroes/moskov.webp",
+                      "value": "50.30%"
+                    },
+                    {
+                      "name": "Aamon",
+                      "icon": "/images/heroes/aamon.webp",
+                      "value": "50.26%"
+                    },
+                    {
+                      "name": "Badang",
+                      "icon": "/images/heroes/badang.webp",
+                      "value": "50.20%"
+                    },
+                    {
+                      "name": "Vale",
+                      "icon": "/images/heroes/vale.webp",
+                      "value": "50.10%"
+                    },
+                    {
+                      "name": "Ixia",
+                      "icon": "/images/heroes/ixia.webp",
+                      "value": "50.06%"
+                    },
+                    {
+                      "name": "Paquito",
+                      "icon": "/images/heroes/paquito.webp",
+                      "value": "50.04%"
+                    },
+                    {
+                      "name": "Hirara",
+                      "icon": "/images/heroes/hirara.webp",
+                      "value": "50.03%"
+                    },
+                    {
+                      "name": "Brody",
+                      "icon": "/images/heroes/brody.webp",
+                      "value": "49.99%"
+                    },
+                    {
+                      "name": "Angela",
+                      "icon": "/images/heroes/angela.webp",
+                      "value": "49.97%"
+                    },
+                    {
+                      "name": "Julian",
+                      "icon": "/images/heroes/julian.webp",
+                      "value": "49.96%"
+                    },
+                    {
+                      "name": "X.Borg",
+                      "icon": "/images/heroes/x-borg.webp",
+                      "value": "49.96%"
+                    },
+                    {
+                      "name": "Kaja",
+                      "icon": "/images/heroes/kaja.webp",
+                      "value": "49.82%"
+                    },
+                    {
+                      "name": "Miya",
+                      "icon": "/images/heroes/miya.webp",
+                      "value": "49.72%"
+                    },
+                    {
+                      "name": "Suyou",
+                      "icon": "/images/heroes/suyou.webp",
+                      "value": "49.70%"
+                    },
+                    {
+                      "name": "Nolan",
+                      "icon": "/images/heroes/nolan.webp",
+                      "value": "49.70%"
+                    },
+                    {
+                      "name": "Odette",
+                      "icon": "/images/heroes/odette.webp",
+                      "value": "49.68%"
+                    },
+                    {
+                      "name": "Yin",
+                      "icon": "/images/heroes/yin.webp",
+                      "value": "49.61%"
+                    },
+                    {
+                      "name": "Novaria",
+                      "icon": "/images/heroes/novaria.webp",
+                      "value": "49.56%"
+                    },
+                    {
+                      "name": "Sora",
+                      "icon": "/images/heroes/sora.webp",
+                      "value": "49.49%"
+                    },
+                    {
+                      "name": "Layla",
+                      "icon": "/images/heroes/layla.webp",
+                      "value": "49.41%"
+                    },
+                    {
+                      "name": "Cici",
+                      "icon": "/images/heroes/cici.webp",
+                      "value": "49.40%"
+                    },
+                    {
+                      "name": "Vexana",
+                      "icon": "/images/heroes/vexana.webp",
+                      "value": "49.31%"
+                    },
+                    {
+                      "name": "Dyrroth",
+                      "icon": "/images/heroes/dyrroth.webp",
+                      "value": "49.30%"
+                    },
+                    {
+                      "name": "Freya",
+                      "icon": "/images/heroes/freya.webp",
+                      "value": "49.23%"
+                    },
+                    {
+                      "name": "Johnson",
+                      "icon": "/images/heroes/johnson.webp",
+                      "value": "49.22%"
+                    },
+                    {
+                      "name": "Yi Sun-shin",
+                      "icon": "/images/heroes/yi-sun-shin.webp",
+                      "value": "49.14%"
+                    }
+                  ]
+                },
+                {
+                  "tier": "C",
+                  "label": "47–49%",
+                  "heroes": [
+                    {
+                      "name": "Yu Zhong",
+                      "icon": "/images/heroes/yu-zhong.webp",
+                      "value": "48.94%"
+                    },
+                    {
+                      "name": "Aurora",
+                      "icon": "/images/heroes/aurora.webp",
+                      "value": "48.94%"
+                    },
+                    {
+                      "name": "Thamuz",
+                      "icon": "/images/heroes/thamuz.webp",
+                      "value": "48.91%"
+                    },
+                    {
+                      "name": "Karrie",
+                      "icon": "/images/heroes/karrie.webp",
+                      "value": "48.85%"
+                    },
+                    {
+                      "name": "Alucard",
+                      "icon": "/images/heroes/alucard.webp",
+                      "value": "48.85%"
+                    },
+                    {
+                      "name": "Claude",
+                      "icon": "/images/heroes/claude.webp",
+                      "value": "48.85%"
+                    },
+                    {
+                      "name": "Alpha",
+                      "icon": "/images/heroes/alpha.webp",
+                      "value": "48.84%"
+                    },
+                    {
+                      "name": "Kimmy",
+                      "icon": "/images/heroes/kimmy.webp",
+                      "value": "48.77%"
+                    },
+                    {
+                      "name": "Gusion",
+                      "icon": "/images/heroes/gusion.webp",
+                      "value": "48.61%"
+                    },
+                    {
+                      "name": "Karina",
+                      "icon": "/images/heroes/karina.webp",
+                      "value": "48.55%"
+                    },
+                    {
+                      "name": "Selena",
+                      "icon": "/images/heroes/selena.webp",
+                      "value": "48.33%"
+                    },
+                    {
+                      "name": "Lesley",
+                      "icon": "/images/heroes/lesley.webp",
+                      "value": "48.29%"
+                    },
+                    {
+                      "name": "Chang'e",
+                      "icon": "/images/heroes/change.webp",
+                      "value": "48.20%"
+                    },
+                    {
+                      "name": "Harley",
+                      "icon": "/images/heroes/harley.webp",
+                      "value": "48.17%"
+                    },
+                    {
+                      "name": "Hayabusa",
+                      "icon": "/images/heroes/hayabusa.webp",
+                      "value": "48.14%"
+                    },
+                    {
+                      "name": "Helcurt",
+                      "icon": "/images/heroes/helcurt.webp",
+                      "value": "47.61%"
+                    },
+                    {
+                      "name": "Nana",
+                      "icon": "/images/heroes/nana.webp",
+                      "value": "47.29%"
+                    },
+                    {
+                      "name": "Martis",
+                      "icon": "/images/heroes/martis.webp",
+                      "value": "47.24%"
+                    },
+                    {
+                      "name": "Esmeralda",
+                      "icon": "/images/heroes/esmeralda.webp",
+                      "value": "47.00%"
+                    }
+                  ]
+                },
+                {
+                  "tier": "D",
+                  "label": "below 47%",
+                  "heroes": [
+                    {
+                      "name": "Balmond",
+                      "icon": "/images/heroes/balmond.webp",
+                      "value": "46.68%"
+                    },
+                    {
+                      "name": "Zilong",
+                      "icon": "/images/heroes/zilong.webp",
+                      "value": "46.28%"
+                    },
+                    {
+                      "name": "Gatotkaca",
+                      "icon": "/images/heroes/gatotkaca.webp",
+                      "value": "45.35%"
+                    },
+                    {
+                      "name": "Tigreal",
+                      "icon": "/images/heroes/tigreal.webp",
+                      "value": "45.20%"
+                    },
+                    {
+                      "name": "Chou",
+                      "icon": "/images/heroes/chou.webp",
+                      "value": "45.10%"
+                    },
+                    {
+                      "name": "Lancelot",
+                      "icon": "/images/heroes/lancelot.webp",
+                      "value": "43.13%"
+                    },
+                    {
+                      "name": "Granger",
+                      "icon": "/images/heroes/granger.webp",
+                      "value": "43.00%"
+                    },
+                    {
+                      "name": "Fanny",
+                      "icon": "/images/heroes/fanny.webp",
+                      "value": "42.62%"
+                    },
+                    {
+                      "name": "Franco",
+                      "icon": "/images/heroes/franco.webp",
+                      "value": "41.57%"
+                    }
+                  ]
+                }
               ],
-              "rows": [
-                [
-                  "S",
-                  "53% and up",
-                  "12",
-                  "Masha, Argus, Rafaela, Valir, Floryn, Minotaur, Bruno, Sun, Gloo, Aulus, Carmilla, Obsidia"
-                ],
-                [
-                  "A",
-                  "51–53%",
-                  "17",
-                  "Estes, Hanabi, Gord, Ling, Minsitthar, Lukas, Belerick, Barats, Cyclops, Xavier, Atlas, Silvanna, Kadita, Guinevere, Saber, Kagura, Hilda"
-                ],
-                [
-                  "B",
-                  "49–51%",
-                  "33",
-                  "Cecilion, Zetian, Alice, Kalea, Beatrix, Eudora, Clint, Moskov, Aamon, Badang, Vale, Ixia, Paquito, Hirara, Brody, Angela, Julian, X.Borg, Kaja, Miya, Suyou, Nolan, Odette, Yin, Novaria, Sora, Layla, Cici, Vexana, Dyrroth, Freya, Johnson, Yi Sun-shin"
-                ],
-                [
-                  "C",
-                  "47–49%",
-                  "19",
-                  "Yu Zhong, Aurora, Thamuz, Karrie, Alucard, Claude, Alpha, Kimmy, Gusion, Karina, Selena, Lesley, Chang'e, Harley, Hayabusa, Helcurt, Nana, Martis, Esmeralda"
-                ],
-                [
-                  "D",
-                  "below 47%",
-                  "9",
-                  "Balmond, Zilong, Gatotkaca, Tigreal, Chou, Lancelot, Granger, Fanny, Franco"
-                ]
-              ],
-              "note": "Only heroes picked in at least 0.50% of matches are included: rare heroes have noisy win rates from small samples."
+              "note": "Only heroes picked in at least 0.50% of matches are included. Hero icons: MOONTON."
             },
             {
               "type": "paragraph",
@@ -3075,7 +3962,7 @@
               "text": "We update this guide once a month and after major patches. The next check comes after Season 43 starts: a balance update usually arrives with it, and the tier list shifts noticeably."
             }
           ],
-          "editorialNote": "Figures are official MOONTON statistics for 30 days, updated on 21 November 2026 at 23:55. Tiers are our own calculation based on win rate only, for heroes with a pick rate of 0.5% or more. The editors keep a copy of the data."
+          "editorialNote": "Figures are official MOONTON statistics for 30 days, updated on 21 November 2026 at 23:55. Tiers are our own calculation based on win rate only, for heroes with a pick rate of 0.5% or more. The editors keep a copy of the data. Hero icons: MOONTON."
         }
       }
     },
@@ -3096,7 +3983,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:36:46+03:00",
-      "dateModified": "2026-11-22T14:36:46+03:00",
+      "dateModified": "2026-11-22T19:27:27+03:00",
       "hero": {
         "src": "/images/news/mlbb-current-patch.jpg",
         "width": 1600,
@@ -3104,14 +3991,13 @@
         "webpSrcset": "/images/news/mlbb-current-patch-768.webp 768w, /images/news/mlbb-current-patch-1200.webp 1200w, /images/news/mlbb-current-patch-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Кристаллические весы в тёмной арене: чаша с яркими изумрудными кристаллами поднята, вторая с голубыми опущена",
-        "caption": "Иллюстрация Boost MLBB к разбору патча.",
+        "alt": "Патч 2.2.16: Маша, Аргус и Аулус усилены, Мия и Ханаби ослаблены",
+        "caption": "Иллюстрация Boost MLBB. Иконки рангов и героев — MOONTON.",
         "provenance": {
-          "type": "generated",
-          "creator": "OpenAI ImageGen via Codex",
+          "type": "original",
+          "creator": "Boost MLBB",
           "created": "2026-11-22",
-          "rights": "Original illustration created for Boost MLBB; no Mobile Legends characters, logos, rank emblems or interface.",
-          "prompt": "Original 16:9 premium esports editorial hero, text-free: a large ornate crystal balance scale floating in a dark arena, one pan raised with bright emerald crystals, the other lower with dimmer cyan crystals, shards and light particles around the beam; deep navy and near-black palette; no characters, logos, rank emblems, UI or text."
+          "rights": "Original layout made by Boost MLBB; rank emblems and hero icons are MOONTON game assets used for editorial illustration."
         }
       },
       "blocks": [
@@ -3340,8 +4226,8 @@
             "Season 42"
           ],
           "hero": {
-            "alt": "A crystal balance scale in a dark arena: one pan with bright emerald crystals raised, the other with cyan crystals lowered",
-            "caption": "Boost MLBB illustration for the patch breakdown."
+            "alt": "Patch 2.2.16: Masha, Argus and Aulus buffed, Miya and Hanabi nerfed",
+            "caption": "Boost MLBB illustration. Rank and hero icons: MOONTON."
           },
           "blocks": [
             {
@@ -3560,7 +4446,7 @@
         "Безопасность"
       ],
       "datePublished": "2026-11-22T14:38:00+03:00",
-      "dateModified": "2026-11-22T14:38:00+03:00",
+      "dateModified": "2026-11-22T19:27:27+03:00",
       "hero": {
         "src": "/images/news/mlbb-redeem-codes-guide.jpg",
         "width": 1600,
@@ -3568,14 +4454,13 @@
         "webpSrcset": "/images/news/mlbb-redeem-codes-guide-768.webp 768w, /images/news/mlbb-redeem-codes-guide-1200.webp 1200w, /images/news/mlbb-redeem-codes-guide-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Изумрудный кристаллический ключ в светящемся замке открывает небольшой сундук с подарком",
-        "caption": "Иллюстрация Boost MLBB к гиду по промокодам.",
+        "alt": "Официальная форма ввода промокода: Redemption code, Game ID, Zone ID и код подтверждения",
+        "caption": "Иллюстрация Boost MLBB. Иконки рангов и героев — MOONTON.",
         "provenance": {
-          "type": "generated",
-          "creator": "OpenAI ImageGen via Codex",
+          "type": "original",
+          "creator": "Boost MLBB",
           "created": "2026-11-22",
-          "rights": "Original illustration created for Boost MLBB; no Mobile Legends characters, logos, rank emblems or interface.",
-          "prompt": "Original 16:9 premium esports editorial hero, text-free: a glowing emerald crystal key inserted into a floating crystal lock panel that opens a small radiant gift chest, light particles rising; deep navy and near-black palette, restrained cyan light; no characters, logos, rank emblems, UI or text."
+          "rights": "Original layout made by Boost MLBB; rank emblems and hero icons are MOONTON game assets used for editorial illustration."
         }
       },
       "blocks": [
@@ -3715,8 +4600,8 @@
             "Safety"
           ],
           "hero": {
-            "alt": "An emerald crystal key in a glowing lock opening a small gift chest",
-            "caption": "Boost MLBB illustration for the redeem codes guide."
+            "alt": "The official redeem form: Redemption code, Game ID, Zone ID and verification code",
+            "caption": "Boost MLBB illustration. Rank and hero icons: MOONTON."
           },
           "blocks": [
             {

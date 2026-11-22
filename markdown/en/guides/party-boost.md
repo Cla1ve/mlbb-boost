@@ -15,7 +15,17 @@ In a party you play yourself with the booster. In an account boost the booster p
 
 [Calculate party](https://boostmlbb.ru/en/order.html?type=party)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
-![Two crystal player figures on one platform](/images/guides/party.jpg)
+PartyReady
+
+![](/images/ranks/Mythical_Glory.webp)
+
+**You**Mythical Glory
+
+![](/images/ranks/Mythical_Immortal.webp)
+
+**Booster**Immortal
+
+Account login**not needed**
 
 ### Account boost
 
@@ -197,4 +207,4 @@ Related
 
 Hero boost, Mythic and placement.
 
-[![](/images/guides/hero-boost-640.webp)Service**Hero MMR boost**Rank and rating of your heroOpen](https://boostmlbb.ru/en/boost/hero.html) [![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/placement-640.webp)Guide**Mythic placement**10 matches, double wins and priceOpen](https://boostmlbb.ru/en/guides/mythic-placement.html) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)
+[![](/images/heroes/harley.webp)Service**Hero MMR boost**Rank and rating of your hero](https://boostmlbb.ru/en/boost/hero.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Service**Mythic boost**Star prices in Honor, Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[![](/images/ranks/Mythic.webp)Guide**Mythic placement**10 matches, double wins and price](https://boostmlbb.ru/en/guides/mythic-placement.html)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)

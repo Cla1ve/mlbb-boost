@@ -55,6 +55,7 @@ for (const lang of ['ru', 'en']) {
 }
 
 (async () => {
+  context.document.documentElement.lang = 'ru';
   route('epic', 'legend');
   vm.runInContext('requestedCalibrationTargetStars = null', context);
   fields['weak-account'].checked = true;
@@ -81,5 +82,11 @@ for (const lang of ['ru', 'en']) {
   await vm.runInContext('calculatePrice()', context);
   assert.equal(fields['calculation-result'].classList.contains('hidden'), false);
   assert.equal(new URL(fields['order-btn'].href).searchParams.get('start'), payloads[0]);
+  context.document.documentElement.lang = 'en';
+  await vm.runInContext('calculatePrice()', context);
+  assert.equal(fields['order-btn'].href, 'https://t.me/Cla1ve', 'English orders go to the owner DM');
+  vm.runInContext('hideResult()', context);
+  assert.equal(fields['order-btn'].href, 'https://t.me/Cla1ve');
+  context.document.documentElement.lang = 'ru';
   console.log('Bot links: both languages, all Rank types, original placement target and stale responses passed.');
 })().catch(error => { console.error(error); process.exitCode = 1; });

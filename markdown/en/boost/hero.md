@@ -15,7 +15,17 @@ The booster raises your rank playing only your chosen hero — both stars and he
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
-![An emerald crystal shield with a sword on a pedestal](/images/guides/hero-boost.jpg)
+Hero boostHero
+
+![](/images/heroes/harley.webp)
+
+**Harley**Immortal 157⭐ → 168⭐
+
+![](/images/ranks/Mythical_Immortal.webp)
+
+9 of 11⭐ · 10W 1L
+
+Median order**≈ 6 h**
 
 **816**hero orders
 
@@ -273,4 +283,4 @@ Related
 
 Compare with the Mythic boost and party.
 
-[![](/images/guides/mythic-boost-640.webp)Service**Mythic boost**Star prices in Honor, Glory and ImmortalOpen](https://boostmlbb.ru/en/boost/mythic.html) [![](/images/guides/party-640.webp)Guide**Party or account boost**How the formats differ and which costs lessOpen](https://boostmlbb.ru/en/guides/party-boost.html) [![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-ranks-in-order-768.webp)Article**Ranks in order**All tiers, stars and Mythic thresholdsOpen](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)
+[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Service**Mythic boost**Star prices in Honor, Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Guide**Party or account boost**How the formats differ and which costs less](https://boostmlbb.ru/en/guides/party-boost.html)[![](/images/heroes/masha.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statistics](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)

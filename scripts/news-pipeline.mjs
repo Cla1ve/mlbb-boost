@@ -407,6 +407,12 @@ function collectBlockText(block) {
     }
   }
 
+  if (Array.isArray(block.tiers)) {
+    for (const tier of block.tiers) {
+      values.push(`${tier.tier} ${tier.label}: ${(tier.heroes || []).map((hero) => `${hero.name} ${hero.value}`).join(', ')}`);
+    }
+  }
+
   return values.map(normalizeText).filter(Boolean);
 }
 
@@ -761,6 +767,20 @@ function validateTranslationParity(source, translated, locale) {
         }
       });
     }
+    if (sourceBlock.type === 'heroTiers') {
+      if (sourceBlock.tiers?.length !== translatedBlock.tiers?.length) {
+        errors.push(`${label}.tiers должен содержать то же число тиров.`);
+      }
+      sourceBlock.tiers?.forEach((tier, tierIndex) => {
+        const other = translatedBlock.tiers?.[tierIndex];
+        if (tier.tier !== other?.tier || tier.heroes?.length !== other?.heroes?.length) {
+          errors.push(`${label}.tiers[${tierIndex}] должен сохранять тир и число героев.`);
+        }
+        tier.heroes?.forEach((hero, heroIndex) => {
+          if (hero.icon !== other?.heroes?.[heroIndex]?.icon) errors.push(`${label}.tiers[${tierIndex}].heroes[${heroIndex}] должен сохранять героя.`);
+        });
+      });
+    }
     if (sourceBlock.type === 'counterMatrix') {
       if (sourceBlock.entries?.length !== translatedBlock.entries?.length) {
         errors.push(`${label}.entries должен содержать то же число героев.`);
@@ -957,6 +977,7 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
     'table',
     'matches',
     'counterMatrix',
+    'heroTiers',
     'callout',
     'list',
     'linkCard',
@@ -1081,6 +1102,15 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
           errors.push(
             'counterMatrix.entries должен содержать минимум четыре героя с полями hero, role, picks, why и fallback.'
           );
+        }
+        break;
+      case 'heroTiers':
+        requireText(block, ['caption']);
+        if (!Array.isArray(block.tiers) || !block.tiers.length || block.tiers.some((tier) => (
+          !tier || typeof tier.tier !== 'string' || typeof tier.label !== 'string' || !Array.isArray(tier.heroes) ||
+          tier.heroes.some((hero) => !hero || typeof hero.name !== 'string' || typeof hero.value !== 'string' || !/^\/images\/heroes\/[a-z0-9-]+\.webp$/.test(hero.icon || ''))
+        ))) {
+          errors.push('heroTiers.tiers должен содержать тиры с героями: name, value и локальная icon.');
         }
         break;
       case 'callout':
@@ -1413,7 +1443,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=8">
+  <link rel="stylesheet" href="/styles/news.css?v=11">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=31">`;
 }
@@ -1729,6 +1759,17 @@ function renderBlock(block, locale = 'ru') {
         </div>
         <p class="counter-matrix__empty" data-counter-empty hidden>${escapeHtml(block.emptyText)}</p>
       </section>`;
+    case 'heroTiers':
+      return `
+      <figure class="hero-tiers" aria-label="${escapeHtml(block.caption)}">
+        <figcaption>${escapeHtml(block.caption)}</figcaption>
+        ${block.tiers.map((tier) => `
+        <div class="hero-tiers__row hero-tiers__row--${escapeHtml(tier.tier.toLowerCase())}">
+          <div class="hero-tiers__tier"><strong>${escapeHtml(tier.tier)}</strong><span>${escapeHtml(tier.label)}</span></div>
+          <ul class="hero-tiers__list">${tier.heroes.map((hero) => `<li><img src="${escapeHtml(hero.icon)}" width="56" height="56" alt="" loading="lazy" decoding="async"><span class="hero-tiers__name">${escapeHtml(hero.name)}</span><span class="hero-tiers__value">${escapeHtml(hero.value)}</span></li>`).join('')}</ul>
+        </div>`).join('')}
+        ${block.note ? `<p class="hero-tiers__note">${escapeHtml(block.note)}</p>` : ''}
+      </figure>`;
     case 'callout':
       return `
       <aside class="article-callout">
