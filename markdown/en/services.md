@@ -122,6 +122,60 @@ When your friend orders 25+ stars
 
 [Message @Cla1ve](https://t.me/Cla1ve)
 
+Comparison
+
+## Which boost format to choose
+
+Format
+
+Who plays
+
+Account login
+
+Price per star
+
+Best for
+
+Account
+
+The booster
+
+Needed
+
+from 55 ₽
+
+Only the rank matters, fastest and cheapest
+
+Role
+
+The booster on your role
+
+Needed
+
+from 60 ₽
+
+Keeping your role statistics clean
+
+Hero
+
+The booster on one hero
+
+Needed
+
+from 65 ₽
+
+Raising a specific hero’s rating (MMR)
+
+Party
+
+You with the booster
+
+Not needed
+
+from 95 ₽
+
+Playing yourself without sharing the account
+
 More
 
 ## Formats and rules

@@ -66,3 +66,25 @@ No account sharing
 Confirm your order and first-order discount eligibility
 
 [Message @Cla1ve](https://t.me/Cla1ve) [Telegram bot](https://t.me/cla1ve_boost_bot?start=site)
+
+Service in numbers
+
+## BOOST MLBB since November 2025
+
+Data from the Telegram bot that handles every order. Figures as of 22 November 2026.
+
+**2,289**completed orders
+
+**348**customers, 217 of them ordered again
+
+**81**boosters completed orders, 47 in the last 90 days
+
+**1,312**published reviews on Telegram
+
+**Orders through the bot**The bot agrees the price, booster and start time before payment. Payment also goes through the bot.
+
+**Progress you can see**You can check your rank in the bot after every game without asking the booster.
+
+**A review after every order**Customers rate the booster, and reviews are posted in the channel with a link to the order.
+
+**A registered business**Company details, the offer and the refund policy are in the documents section.

@@ -149,6 +149,7 @@ function fillTokens(html, lang) {
         heroFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'hero'))), heroMythic: priceOf('mythic', 'hero'), heroImmortal: priceOf('immortal', 'hero'),
         calibrationStd: priceOf('mythic_calibration', 'standard'), calibrationParty: priceOf('mythic_calibration', 'party'),
         stdFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'standard'))), partyFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'party'))),
+        roleFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'role'))),
         gloryRouteStd: priceOf('glory', 'standard') * 50, gloryRouteHero: priceOf('glory', 'hero') * 50, gloryRouteParty: priceOf('glory', 'party') * 50
       };
       if (!(name in named)) throw new Error(`Unknown content token ${token}`);
@@ -259,7 +260,6 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelector(`script[src^="${src}"]`)?.remove();
       const script = document.createElement('script'); script.src = `${src}?v=${guide.updated || 1}`; script.setAttribute('defer', ''); document.head.append(script);
     }
-    if (config.related?.[file]) block(document, 'related', typeof config.related[file][lang] === 'string' ? config.related[file][lang] : guideHub(config.related[file][lang], lang));
     const footerGrid = document.querySelector('.site-footer .footer-grid');
     if (footerGrid) {
       footerGrid.querySelector('.footer-guides')?.remove();
@@ -285,7 +285,8 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     const mdPath = `/markdown/${lang === 'en' ? 'en/' : ''}${file.replace(/\.html$/, '.md')}`;
     const mdLink = document.createElement('link'); mdLink.rel = 'alternate'; mdLink.type = 'text/markdown'; mdLink.href = mdPath; document.head.append(mdLink);
     document.querySelectorAll('link[rel="api-catalog"]').forEach(link => link.href = '/.well-known/api-catalog.json');
-    if (config.blocks[file]) block(document, 'content', config.blocks[file][lang]);
+    if (config.blocks[file]) block(document, 'content', fillTokens(config.blocks[file][lang], lang));
+    if (config.related?.[file]) block(document, 'related', typeof config.related[file][lang] === 'string' ? config.related[file][lang] : guideHub(config.related[file][lang], lang));
     if (file === 'prices.html') {
       for (const row of data.prices) for (const price of row.prices) {
         const element = document.querySelector(`[data-category="${row.category}"] [data-type="${price.type}"]`);

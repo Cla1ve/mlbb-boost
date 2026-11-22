@@ -137,14 +137,6 @@ Team Spirit стала первым неазиатским чемпионом MS
 
 [Купить буст](https://t.me/cla1ve_boost_bot?start=site) [Рассчитать цену](https://boostmlbb.ru/order.html)
 
-Полезное
-
-## Гайды и новости для игроков
-
-Что меняется в сезоне, как устроены ранги и сколько стоит буст.
-
-[![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-meta-tier-list-768.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистикеОткрыть](https://boostmlbb.ru/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-current-patch-768.webp)Патч**Какой сейчас патч**Обновление 2.2.16 и что оно изменилоОткрыть](https://boostmlbb.ru/news/mlbb-current-patch/) [![](/images/news/mlbb-redeem-codes-guide-768.webp)Гайд**Куда вводить промокоды**Официальная форма и почему код не работаетОткрыть](https://boostmlbb.ru/news/mlbb-redeem-codes-guide/)
-
 НАЧАТЬ ЗАКАЗ
 
 ## Как заказать буст
@@ -171,3 +163,11 @@ Team Spirit стала первым неазиатским чемпионом MS
 
 
 [Рассчитать стоимость буста](https://boostmlbb.ru/order.html)
+
+Полезное
+
+## Гайды и новости для игроков
+
+Что меняется в сезоне, как устроены ранги и сколько стоит буст.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Статья**Конец 42 сезона**Ожидаемая дата и куда упадёт рангОткрыть](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-meta-tier-list-768.webp)Мета**Тир-лист ноября 2026**Сильнейшие герои и баны по официальной статистикеОткрыть](https://boostmlbb.ru/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-current-patch-768.webp)Патч**Какой сейчас патч**Обновление 2.2.16 и что оно изменилоОткрыть](https://boostmlbb.ru/news/mlbb-current-patch/) [![](/images/news/mlbb-redeem-codes-guide-768.webp)Гайд**Куда вводить промокоды**Официальная форма и почему код не работаетОткрыть](https://boostmlbb.ru/news/mlbb-redeem-codes-guide/)

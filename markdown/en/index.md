@@ -137,14 +137,6 @@ Confirm your order and first-order discount eligibility
 
 [Buy boost](https://t.me/cla1ve_boost_bot?start=site) [Calculate price](https://boostmlbb.ru/en/order.html)
 
-Useful
-
-## Guides and news for players
-
-What changes this season, how ranks work and what a boost costs.
-
-[![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-current-patch-768.webp)Patch**Current patch**Update 2.2.16 and what it changedOpen](https://boostmlbb.ru/en/news/mlbb-current-patch/) [![](/images/news/mlbb-redeem-codes-guide-768.webp)Guide**Where to redeem codes**The official form and why a code failsOpen](https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/)
-
 GET STARTED
 
 ## How to order a boost
@@ -171,3 +163,11 @@ Choose a format, check the price and arrange a convenient time.
 
 
 [Calculate boost price](https://boostmlbb.ru/en/order.html)
+
+Useful
+
+## Guides and news for players
+
+What changes this season, how ranks work and what a boost costs.
+
+[![](/images/news/mlbb-season-end-rank-reset-768.webp)Article**Season 42 end**Expected date and where your rank dropsOpen](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/) [![](/images/news/mlbb-meta-tier-list-768.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statisticsOpen](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) [![](/images/news/mlbb-current-patch-768.webp)Patch**Current patch**Update 2.2.16 and what it changedOpen](https://boostmlbb.ru/en/news/mlbb-current-patch/) [![](/images/news/mlbb-redeem-codes-guide-768.webp)Guide**Where to redeem codes**The official form and why a code failsOpen](https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/)
