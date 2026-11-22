@@ -18,7 +18,7 @@
         "Результаты турнира"
       ],
       "datePublished": "2026-07-27T21:15:00+03:00",
-      "dateModified": "2026-11-22T23:13:07+03:00",
+      "dateModified": "2026-11-22T23:17:36+03:00",
       "hero": {
         "src": "/images/news/msc-2026-playoff-schedule.jpg",
         "width": 1600,
@@ -26,13 +26,14 @@
         "webpSrcset": "/images/news/msc-2026-playoff-schedule-768.webp 768w, /images/news/msc-2026-playoff-schedule-1200.webp 1200w, /images/news/msc-2026-playoff-schedule-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Табло финала MSC 2026: Team Spirit обыграла Yangon Galacticos 4:3, путь чемпиона 3:0, 3:0 и 4:3",
-        "caption": "Иллюстрация Boost MLBB.",
+        "alt": "Золотой кубок под прожектором на сцене арены в Париже, конфетти и зрители; табло финала MSC 2026: Team Spirit 4, Yangon Galacticos 3",
+        "caption": "Иллюстрация Boost MLBB: сцена сгенерирована ИИ, счёт — официальный итог финала.",
         "provenance": {
-          "type": "original",
-          "creator": "Boost MLBB",
+          "type": "generated",
+          "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
           "created": "2026-11-22",
-          "rights": "Original layout made by Boost MLBB with text and an emoji trophy; no MOONTON, team or tournament logos."
+          "rights": "Сцена сгенерирована для Boost MLBB без логотипов, персонажей и узнаваемых людей; табло со счётом наложено редакцией по официальному итогу финала.",
+          "prompt": "Photorealistic cinematic photo of a huge esports arena at the moment of a world championship victory: golden trophy on a pedestal in the center under a spotlight, emerald and teal lasers, giant green LED wall with a faint Eiffel Tower silhouette, gold and green confetti, cheering crowd from behind with no faces; no text, numbers, logos or recognizable people."
         }
       },
       "blocks": [
@@ -317,8 +318,8 @@
             "Tournament Results"
           ],
           "hero": {
-            "alt": "MSC 2026 final scoreboard: Team Spirit beat Yangon Galacticos 4:3, champion path 3:0, 3:0 and 4:3",
-            "caption": "Boost MLBB illustration."
+            "alt": "Golden trophy under a spotlight on an arena stage in Paris with confetti and fans; MSC 2026 final scoreboard: Team Spirit 4, Yangon Galacticos 3",
+            "caption": "Boost MLBB illustration: AI-generated scene, the score is the official final result."
           },
           "blocks": [
             {

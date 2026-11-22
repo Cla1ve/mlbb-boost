@@ -111,7 +111,7 @@ VPN защита, никаких банов за всю историю рабо�
 
 [Все отзывы](https://boostmlbb.ru/reviews.html) [Канал отзывов](https://t.me/cla1ve_boost)
 
- [![Табло финала MSC 2026: Team Spirit обыграла Yangon Galacticos 4:3, путь чемпиона 3:0, 3:0 и 4:3](/images/news/msc-2026-playoff-schedule.jpg)
+ [![Золотой кубок под прожектором на сцене арены в Париже, конфетти и зрители; табло финала MSC 2026: Team Spirit 4, Yangon Galacticos 3](/images/news/msc-2026-playoff-schedule.jpg)
 
 Свежий материал
 
