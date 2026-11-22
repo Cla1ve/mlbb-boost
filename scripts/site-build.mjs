@@ -87,11 +87,12 @@ function block(document, tag, content) {
 }
 const guideOf = file => config.guides.find(g => g.file === file);
 const footerGuides = [
-  ['/guides/mlbb-ranks.html', 'Ранги и калькулятор матчей', 'Ranks and match calculator'],
+  ['/news/mlbb-ranks-in-order/', 'Ранги по порядку', 'Ranks in order'],
+  ['/news/mlbb-season-end-rank-reset/', 'Конец сезона и сброс', 'Season end and reset'],
   ['/boost/mythic.html', 'Буст Мифика', 'Mythic boost'],
   ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
   ['/guides/mythic-placement.html', 'Калибровка Мифика', 'Mythic placement'],
-  ['/guides/party-boost.html', 'Пати или обычный буст', 'Party or account boost']
+  ['/guides/party-boost.html', 'Пати или со входом', 'Party or account']
 ];
 const typeLabels = { ru: { standard: 'Обычный', role: 'На роли', hero: 'На герое', party: 'В пати' }, en: { standard: 'Account', role: 'Role', hero: 'Hero', party: 'Party' } };
 const typeOrder = ['standard', 'role', 'hero', 'party'];
@@ -104,12 +105,23 @@ function formatDate(iso, lang) {
 }
 // Route examples priced from the same public snapshot as /prices.html (stars × base rate).
 const routeExamples = [
-  ['legend', 25, 'Легенда V 1⭐ → Мифик 0⭐', 'Legend V 1⭐ → Mythic 0⭐'],
-  ['mythic', 15, 'Мифик 10⭐ → Мифическая честь 25⭐', 'Mythic 10⭐ → Mythical Honor 25⭐'],
-  ['honor', 25, 'Мифическая честь 25⭐ → Мифическая слава 50⭐', 'Mythical Honor 25⭐ → Mythical Glory 50⭐'],
-  ['glory', 50, 'Мифическая слава 50⭐ → Мифический бессмертный 100⭐', 'Mythical Glory 50⭐ → Mythical Immortal 100⭐'],
-  ['immortal', 50, 'Мифический бессмертный 100⭐ → 150⭐', 'Mythical Immortal 100⭐ → 150⭐']
+  ['legend', 25, 'Легенда V 1⭐ → Мифик 0⭐', 'Legend V 1⭐ → Mythic 0⭐', ['Легенда V', 'Legend V', 'Legend'], ['Мифик', 'Mythic', 'Mythic'], ['около 5 ч', 'about 5 h']],
+  ['mythic', 15, 'Мифик 10⭐ → Мифическая честь 25⭐', 'Mythic 10⭐ → Mythical Honor 25⭐', ['Мифик 10⭐', 'Mythic 10⭐', 'Mythic'], ['Честь 25⭐', 'Honor 25⭐', 'Mythical_Honor'], ['около 6 ч', 'about 6 h']],
+  ['honor', 25, 'Мифическая честь 25⭐ → Мифическая слава 50⭐', 'Mythical Honor 25⭐ → Mythical Glory 50⭐', ['Честь 25⭐', 'Honor 25⭐', 'Mythical_Honor'], ['Слава 50⭐', 'Glory 50⭐', 'Mythical_Glory'], ['около 8 ч', 'about 8 h']],
+  ['glory', 50, 'Мифическая слава 50⭐ → Мифический бессмертный 100⭐', 'Mythical Glory 50⭐ → Mythical Immortal 100⭐', ['Слава 50⭐', 'Glory 50⭐', 'Mythical_Glory'], ['Бессмертный 100⭐', 'Immortal 100⭐', 'Mythical_Immortal'], ['около 6,5 ч', 'about 6.5 h']],
+  ['immortal', 50, 'Мифический бессмертный 100⭐ → 150⭐', 'Mythical Immortal 100⭐ → 150⭐', ['Бессмертный 100⭐', 'Immortal 100⭐', 'Mythical_Immortal'], ['Бессмертный 150⭐', 'Immortal 150⭐', 'Mythical_Immortal'], null]
 ];
+const rankImages = { warrior_elite: ['Warrior', 'Elite'], master_gm: ['Master', 'Grandmaster'], epic: ['Epic'], legend: ['Legend'], mythic_calibration: ['Mythic'], mythic: ['Mythic'], honor: ['Mythical_Honor'], glory: ['Mythical_Glory'], immortal: ['Mythical_Immortal'] };
+const unitLabel = (category, lang) => category === 'mythic_calibration' ? (lang === 'en' ? '/win' : '/победа') : '/⭐';
+function rankCards(list, highlight, lang) {
+  const en = lang === 'en';
+  const rows = list === 'all' ? data.prices : list.split(',').map(category => data.prices.find(r => r.category === category)).filter(Boolean);
+  return `<div class="prices-grid lp-prices">${rows.map(row => `<div class="rank-price-card" data-category="${row.category}"><div class="rank-images">${rankImages[row.category].map(name => `<img height="160" width="160" loading="lazy" decoding="async" src="/images/ranks/${name}.webp" alt="" class="rank-img${rankImages[row.category].length === 1 ? ' single' : ''}">`).join('')}</div><div class="rank-info"><h3 class="rank-name">${categoryName(row, lang)}</h3><div class="prices-row">${typeOrder.map(type => `<div class="price-item${type === highlight ? ' lp-highlight' : ''}"><span class="price-label">${typeLabels[lang][type]}</span><span class="price-value">${priceOf(row.category, type)} ₽${unitLabel(row.category, lang)}</span></div>`).join('')}</div><a class="price-card-link" href="${localized('/order.html', lang)}?type=${highlight || 'standard'}">${en ? 'Calculate order' : 'Рассчитать заказ'} <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div></div>`).join('')}</div>`;
+}
+function routeTiles(type, lang) {
+  const en = lang === 'en';
+  return `<div class="lp-routes">${routeExamples.map(([category, stars, , , from, to, time]) => `<a class="lp-route" href="${localized('/order.html', lang)}?type=${type}"><span class="lp-route__icons" aria-hidden="true"><img src="/images/ranks/${from[2]}.webp" width="48" height="48" alt="" loading="lazy" decoding="async"><i class="fas fa-arrow-right"></i><img src="/images/ranks/${to[2]}.webp" width="48" height="48" alt="" loading="lazy" decoding="async"></span><span class="lp-route__name">${en ? from[1] : from[0]} → ${en ? to[1] : to[0]}</span><span class="lp-route__meta">${stars} ${en ? 'stars' : 'звёзд'}${time ? ` · ${en ? time[1] : time[0]}` : ''}</span><strong class="lp-route__price">${en ? 'from' : 'от'} ${money(priceOf(category, type) * stars, lang)}</strong></a>`).join('')}</div>`;
+}
 function fillTokens(html, lang) {
   const en = lang === 'en';
   return html
@@ -122,6 +134,8 @@ function fillTokens(html, lang) {
       const types = only ? [only] : typeOrder;
       return `<div class="seo-table-wrap"><table class="seo-table"><caption>${en ? 'Example routes: stars × base rate, before discounts' : 'Примеры маршрутов: звёзды × базовый тариф, без скидок'}</caption><thead><tr><th scope="col">${en ? 'Route' : 'Маршрут'}</th><th scope="col">${en ? 'Stars' : 'Звёзд'}</th>${types.map(t => `<th scope="col">${typeLabels[lang][t]}</th>`).join('')}</tr></thead><tbody>${routeExamples.map(([category, stars, ru, enName]) => `<tr><th scope="row">${en ? enName : ru}</th><td>${stars}</td>${types.map(t => `<td>${money(priceOf(category, t) * stars, lang)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
     })
+    .replace(/\{\{rankCards:([\w,]+)(?:\|(\w+))?\}\}/g, (_, list, highlight) => rankCards(list, highlight, lang))
+    .replace(/\{\{routeTiles:(\w+)\}\}/g, (_, type) => routeTiles(type, lang))
     .replace(/\{\{priceData\}\}/g, () => `<script type="application/json" id="rank-tool-prices">${JSON.stringify(Object.fromEntries(data.prices.map(r => [r.category, Object.fromEntries(r.prices.map(p => [p.type, p.price]))])))}</script>`)
     .replace(/\{\{reviewCount\}\}/g, () => new Intl.NumberFormat(en ? 'en-US' : 'ru-RU').format(data.reviewStats.count).replace(/[\u00a0\u202f]/g, ' '))
     .replace(/\{\{checkedDate\}\}/g, () => formatDate(changedDate, lang))
@@ -130,6 +144,7 @@ function fillTokens(html, lang) {
         mythicFrom: priceOf('mythic', 'standard'), immortalStd: priceOf('immortal', 'standard'),
         heroFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'hero'))), heroMythic: priceOf('mythic', 'hero'), heroImmortal: priceOf('immortal', 'hero'),
         calibrationStd: priceOf('mythic_calibration', 'standard'), calibrationParty: priceOf('mythic_calibration', 'party'),
+        stdFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'standard'))), partyFrom: Math.min(...data.prices.map(r => priceOf(r.category, 'party'))),
         gloryRouteStd: priceOf('glory', 'standard') * 50, gloryRouteHero: priceOf('glory', 'hero') * 50, gloryRouteParty: priceOf('glory', 'party') * 50
       };
       if (!(name in named)) throw new Error(`Unknown content token ${token}`);
@@ -143,6 +158,10 @@ function guideArticle(guide, lang) {
   const updated = guide.updated || '2026-10-05';
   const crumbs = guide.kind === 'service' ? [localized('/services.html', lang), en ? 'Services' : 'Услуги'] : [localized('/services.html', lang), en ? 'Services' : 'Услуги'];
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
+  if (guide.layout === 'landing') {
+    const hero = guide[lang][4];
+    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero"><div class="hero-glow"></div><div class="container"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="fab fa-telegram"></i><span>${hero.secondary[0]}</span></a></div></div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
+  }
   return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></article>`;
 }
 function schema(document, file, lang, title, description, url) {
@@ -212,6 +231,9 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     const title = metadata?.[0] || (lang === 'en' ? translate(document.title, file) : document.title);
     const description = metadata?.[1] || (lang === 'en' ? translate(document.querySelector('meta[name="description"]')?.content || '', file) : document.querySelector('meta[name="description"]')?.content || '');
     if (guide) document.querySelector('main').innerHTML = guideArticle(guide, lang);
+    if (guide?.layout === 'landing' && !document.querySelector('link[href*="/styles/prices.css"]')) {
+      const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/prices.css?v=mythic-calibration-3'; document.head.append(style);
+    }
     for (const src of guide?.scripts || []) {
       document.querySelector(`script[src^="${src}"]`)?.remove();
       const script = document.createElement('script'); script.src = `${src}?v=${guide.updated || 1}`; script.setAttribute('defer', ''); document.head.append(script);
@@ -296,7 +318,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '31' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '32' : asset.pathname === '/styles/seo.css' ? '32' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

@@ -61,6 +61,38 @@
     {
       "source": "/en/news/msc-2026-playoff-schedule",
       "destination": "/en/news/msc-2026-playoff-schedule/index.html"
+    },
+    {
+      "source": "/news/mlbb-ranks-in-order/",
+      "destination": "/news/mlbb-ranks-in-order/index.html"
+    },
+    {
+      "source": "/news/mlbb-ranks-in-order",
+      "destination": "/news/mlbb-ranks-in-order/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-ranks-in-order/",
+      "destination": "/en/news/mlbb-ranks-in-order/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-ranks-in-order",
+      "destination": "/en/news/mlbb-ranks-in-order/index.html"
+    },
+    {
+      "source": "/news/mlbb-season-end-rank-reset/",
+      "destination": "/news/mlbb-season-end-rank-reset/index.html"
+    },
+    {
+      "source": "/news/mlbb-season-end-rank-reset",
+      "destination": "/news/mlbb-season-end-rank-reset/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-season-end-rank-reset/",
+      "destination": "/en/news/mlbb-season-end-rank-reset/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-season-end-rank-reset",
+      "destination": "/en/news/mlbb-season-end-rank-reset/index.html"
     }
   ]
 }

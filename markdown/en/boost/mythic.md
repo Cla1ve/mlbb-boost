@@ -1,176 +1,138 @@
 ---
 title: "MLBB Mythic boost: Honor, Glory and Immortal prices | MLBB Boost"
-description: "Mythic boost in Mobile Legends: per-star prices for Mythic, Mythical Honor, Glory and Immortal in every format, route examples and real order completion times."
+description: "Mythic boost in Mobile Legends: per-star prices for Mythic, Mythical Honor, Glory and Immortal in every format, common routes and real order times."
 canonical: https://boostmlbb.ru/en/boost/mythic.html
 language: en
 ---
 
 [Home](https://boostmlbb.ru/en/) / [Services](https://boostmlbb.ru/en/services.html)
 
-# Mythic boost in Mobile Legends: Honor, Glory and Immortal
+Mythic ranks
 
-A Mythic boost adds stars from your Mythic entry up to Mythical Honor, Glory or Immortal. It is priced per star: an account boost starts at 120 ₽ per Mythic star, and Immortal stars cost 135 ₽. Below are the rates for every format, route examples and real completion times.
+# Mythic boost in Mobile Legends
 
-## Mythic boost price per star
+Stars in Mythic, Honor, Glory and Immortal. A star costs from 120 ₽; the calculator shows the exact total.
 
-The rate depends on the rank where the star is earned and on the format: account boost, a chosen role, a chosen hero or playing together in a party. The table uses the same price list as the [prices page](https://boostmlbb.ru/en/prices.html), as of 22 November 2026.
+[Calculate the price](https://boostmlbb.ru/en/order.html?type=standard)[Message on Telegram](https://t.me/cla1ve_boost_bot?start=site)
 
-Base rate per star in RUB; Mythic placement is per win
+**2,289**orders completed
 
-Rank
+**about 6 h**median Mythic order
 
-Account
+**1,312**reviews on Telegram
 
-Role
+**120 ₽**per Mythic star
 
-Hero
+## Price per star
 
-Party
+The price depends on the rank where the star is earned and on the format. The bot applies the first-order discount before payment.
 
-Mythic placement
+![](/images/ranks/Mythic.webp)
 
-165 ₽
+### Mythic placement
 
-185 ₽
+Account165 ₽/win
 
-205 ₽
+Role185 ₽/win
 
-335 ₽
+Hero205 ₽/win
 
-Mythic
+Party335 ₽/win
 
-120 ₽
+[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
 
-135 ₽
+![](/images/ranks/Mythic.webp)
 
-145 ₽
+### Mythic
 
-240 ₽
+Account120 ₽/⭐
 
-Honor
+Role135 ₽/⭐
 
-120 ₽
+Hero145 ₽/⭐
 
-135 ₽
+Party240 ₽/⭐
 
-145 ₽
+[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
 
-255 ₽
+![](/images/ranks/Mythical_Honor.webp)
 
-Glory
+### Honor
 
-125 ₽
+Account120 ₽/⭐
 
-140 ₽
+Role135 ₽/⭐
 
-155 ₽
+Hero145 ₽/⭐
 
-295 ₽
+Party255 ₽/⭐
 
-Immortal
+[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
 
-135 ₽
+![](/images/ranks/Mythical_Glory.webp)
 
-145 ₽
+### Glory
 
-175 ₽
+Account125 ₽/⭐
 
-320 ₽
+Role140 ₽/⭐
 
-## What a full route costs
+Hero155 ₽/⭐
 
-A route price is the stars of each rank multiplied by its rate. The first-order discount and any markups are confirmed in the bot before payment.
+Party295 ₽/⭐
 
-Example routes: stars × base rate, before discounts
+[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
 
-Route
+![](/images/ranks/Mythical_Immortal.webp)
 
-Stars
+### Immortal
 
-Account
+Account135 ₽/⭐
 
-Role
+Role145 ₽/⭐
 
-Hero
+Hero175 ₽/⭐
 
-Party
+Party320 ₽/⭐
 
-Legend V 1⭐ → Mythic 0⭐
+[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
 
-25
+## Common routes
 
-2,375 ₽
+Account boost prices; time is the median of completed orders on that stretch.
 
-2,500 ₽
+[![](/images/ranks/Legend.webp)![](/images/ranks/Mythic.webp)Legend V → Mythic25 stars · about 5 h**from 2,375 ₽**](https://boostmlbb.ru/en/order.html?type=standard)[![](/images/ranks/Mythic.webp)![](/images/ranks/Mythical_Honor.webp)Mythic 10⭐ → Honor 25⭐15 stars · about 6 h**from 1,800 ₽**](https://boostmlbb.ru/en/order.html?type=standard)[![](/images/ranks/Mythical_Honor.webp)![](/images/ranks/Mythical_Glory.webp)Honor 25⭐ → Glory 50⭐25 stars · about 8 h**from 3,000 ₽**](https://boostmlbb.ru/en/order.html?type=standard)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Glory 50⭐ → Immortal 100⭐50 stars · about 6.5 h**from 6,250 ₽**](https://boostmlbb.ru/en/order.html?type=standard)[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Mythical_Immortal.webp)Immortal 100⭐ → Immortal 150⭐50 stars**from 6,750 ₽**](https://boostmlbb.ru/en/order.html?type=standard)
 
-3,000 ₽
+## Which format to choose
 
-4,625 ₽
+[**Account boost**The booster plays your account with any heroes. The cheapest option.](https://boostmlbb.ru/en/order.html?type=standard)[**Role**Only your chosen role, so role statistics stay clean.](https://boostmlbb.ru/en/order.html?type=role)[**Hero**The whole route on one hero, raising its rating too.](https://boostmlbb.ru/en/boost/hero.html)[**Party**You play yourself with the booster and keep your account.](https://boostmlbb.ru/en/guides/party-boost.html)
 
-Mythic 10⭐ → Mythical Honor 25⭐
+## How an order works
 
-15
+1.  01
 
-1,800 ₽
+    ### Check the price
 
-2,025 ₽
+    Enter your rank and stars now and your goal. The calculator shows the total.
 
-2,175 ₽
+2.  02
 
-3,600 ₽
+    ### Order in the bot
 
-Mythical Honor 25⭐ → Mythical Glory 50⭐
+    The bot finds a booster and agrees the start time.
 
-25
+3.  03
 
-3,000 ₽
+    ### Follow progress
 
-3,375 ₽
+    You can check your rank in the bot after every game and leave a review at the end.
 
-3,625 ₽
 
-6,375 ₽
+## Price your route
 
-Mythical Glory 50⭐ → Mythical Immortal 100⭐
+Your rank now, the goal and the format — the total appears at once.
 
-50
-
-6,250 ₽
-
-7,000 ₽
-
-7,750 ₽
-
-14,750 ₽
-
-Mythical Immortal 100⭐ → 150⭐
-
-50
-
-6,750 ₽
-
-7,250 ₽
-
-8,750 ₽
-
-16,000 ₽
-
-## The most common orders
-
-Mythic ranks are most of the work. Out of 2,289 orders completed since November 2025, the largest groups are inside Mythical Immortal (569 orders, median 1,620 ₽) and Mythical Glory (343). Median completion time: Mythic → Honor about 6 hours, Honor → Glory about 8, Glory → Immortal about 6.5, and extra stars inside Immortal about 4.5 hours.
-
-## How to choose a format
-
--   **Account boost** — the cheapest: the booster plays your account with any heroes.
--   **Role** — the booster plays only your chosen role so your role statistics stay clean.
--   **Hero** — the whole route on one hero, raising both stars and that hero’s rating. See [hero boost](https://boostmlbb.ru/en/boost/hero.html).
--   **Party** — you play together with the booster and keep your account. Compare in the [party guide](https://boostmlbb.ru/en/guides/party-boost.html).
-
-## If you are still in Legend
-
-Getting into Mythic takes 25 Legend stars from Legend V. Placement follows: 10 matches with double wins. It can be ordered separately and is priced per win. See how to enter placement in the calculator in the [placement guide](https://boostmlbb.ru/en/guides/mythic-placement.html), and how many matches the route takes on your own in the [match calculator](https://boostmlbb.ru/en/guides/mlbb-ranks.html).
-
-[Calculate a Mythic boost](https://boostmlbb.ru/en/order.html?type=standard)[Customer reviews](https://boostmlbb.ru/en/reviews.html)[Order in Telegram](https://t.me/cla1ve_boost_bot?start=site)
+[Calculate the price](https://boostmlbb.ru/en/order.html?type=standard)
 
 ## Frequently asked questions
 
@@ -180,18 +142,18 @@ That is 50 Glory stars: 6,250 ₽ for an account boost, 7,750 ₽ on a hero and 
 
 How long does a Mythic boost take?
 
-Across completed orders the median is 4.5 to 8 hours per order depending on the rank and the number of stars. The start time is agreed in the bot.
+Across completed orders the median is 4.5 to 8 hours per order depending on the rank and number of stars. The start time is agreed in the bot.
 
 Can I order stars inside Immortal?
 
-Yes. The count has no cap after 100 stars, and extra stars inside Mythical Immortal are the most common order.
+Yes. The count has no cap after 100 stars, and extra Immortal stars are our most common order.
 
-Do I have to share my account?
+Do I need to share my account?
 
-For account, role and hero boosts the booster needs to log in to the game account; email access is not required. In a party you play yourself and keep the account.
+For account, role and hero boosts the booster logs in to your game account. Email access is not needed. In a party you play yourself.
 
-How is a Mythic boost different from placement?
+What happens to my stars at season end?
 
-Placement is the first 10 Mythic matches with double wins and is priced per win. A Mythic boost adds stars after it and is priced per star.
+At the reset Immortal and Glory drop to Legend V, Honor to Epic I and Mythic to Epic II. Rewards follow the highest rank you reached that season.
 
 MLBB Boost editorial team · Updated 22 November 2026

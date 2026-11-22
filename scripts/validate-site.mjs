@@ -106,20 +106,18 @@ for (const [url, { document }] of pages) {
   assert(!/[А-Яа-яЁё]/.test(main.textContent), `${url}: Russian text in English main content`);
 }
 for (const langPath of ['', '/en']) {
-  for (const pathname of ['/guides/mlbb-ranks.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html']) {
+  for (const pathname of ['/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html', '/guides/party-boost.html']) {
     const page = pages.get(origin + langPath + pathname);
-    assert(page, `${pathname}: guide page missing from the sitemap`);
+    assert(page, `${pathname}: landing page missing from the sitemap`);
     const graph = JSON.parse(page.document.querySelector('script[type="application/ld+json"]').textContent)['@graph'];
     const faq = graph.find(node => node['@type'] === 'FAQPage');
     const visible = [...page.document.querySelectorAll('.seo-faq summary')].map(node => node.textContent.trim());
     assert(faq && visible.length && faq.mainEntity.length === visible.length, `${pathname}: FAQ markup must match the visible FAQ`);
     assert.deepEqual(faq.mainEntity.map(q => q.name), visible, `${pathname}: FAQ questions differ from the page`);
     assert(!/\{\{\w/.test(page.document.querySelector('main').innerHTML), `${pathname}: unreplaced content token`);
-    assert(page.document.querySelector('.footer-guides a[href$="/guides/mlbb-ranks.html"]'), `${pathname}: footer guide links missing`);
+    assert(page.document.querySelector('.lp-hero h1.prices-title') && page.document.querySelector('.rank-price-card'), `${pathname}: landing layout missing`);
+    assert(page.document.querySelector('.footer-guides a[href$="/news/mlbb-ranks-in-order/"]'), `${pathname}: footer guide links missing`);
   }
-  const tool = pages.get(origin + langPath + '/guides/mlbb-ranks.html').document;
-  assert(tool.querySelector('#rank-tool form') && tool.querySelector('script[src^="/js/rank-tool.js"]'), 'Rank tool must be present');
-  assert(JSON.parse(tool.getElementById('rank-tool-prices').textContent).immortal.standard > 0, 'Rank tool price snapshot missing');
 }
 const skills = JSON.parse(await read('.well-known/agent-skills/index.json'));
 for (const skill of skills.skills) {

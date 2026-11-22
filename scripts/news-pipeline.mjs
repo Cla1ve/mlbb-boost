@@ -143,6 +143,7 @@ const UI = {
       contact: 'Напишите @Cla1ve в Telegram',
       continue: 'Продолжить',
       continueTitle: 'Следим за патчами, метой и турнирами дальше.',
+      related: 'Читайте также',
       backToFeed: 'Вернуться в новостную ленту'
     }
   },
@@ -244,6 +245,7 @@ const UI = {
       contact: 'Message @Cla1ve on Telegram',
       continue: 'Keep reading',
       continueTitle: 'Stay with us for more patches, meta shifts and tournaments.',
+      related: 'Read next',
       backToFeed: 'Return to the news feed'
     }
   }
@@ -1393,7 +1395,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=5">
+  <link rel="stylesheet" href="/styles/news.css?v=7">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=31">`;
 }
@@ -1435,6 +1437,16 @@ function renderCard(post, { featured = false, eager = false, href = null, locale
       </div>
     </a>
   </article>`;
+}
+
+function renderRelatedCard(post, locale = 'ru') {
+  const href = `${localeConfig(locale).rootPath}${post.slug}/`;
+  return `
+          <a class="related-card" href="${escapeHtml(href)}">
+            <span class="related-card__media"><img src="${escapeHtml(post.hero.src)}" width="${post.hero.width}" height="${post.hero.height}" alt="" loading="lazy" decoding="async"></span>
+            <span class="related-card__meta">${escapeHtml(post.category)} · <time datetime="${escapeHtml(post.datePublished)}">${escapeHtml(formatDate(post.datePublished, locale))}</time></span>
+            <strong class="related-card__title">${escapeHtml(post.title)}</strong>
+          </a>`;
 }
 
 function renderIndex(posts, { previewSlug = null, locale = 'ru' } = {}) {
@@ -1740,7 +1752,7 @@ function renderBlock(block, locale = 'ru') {
   }
 }
 
-function renderArticle(post, { preview = false, locale = 'ru' } = {}) {
+function renderArticle(post, { preview = false, locale = 'ru', related = [] } = {}) {
   const config = localeConfig(locale);
   const copy = UI[locale];
   const articleCopy = copy.article;
@@ -1939,7 +1951,8 @@ ${GENERATED_MARKER}
     <section class="article-next" aria-labelledby="article-next-title">
       <div class="container article-next__inner">
         <p>${escapeHtml(articleCopy.continue)}</p>
-        <h2 id="article-next-title">${escapeHtml(articleCopy.continueTitle)}</h2>
+        <h2 id="article-next-title">${escapeHtml(related.length ? articleCopy.related : articleCopy.continueTitle)}</h2>
+        ${related.length ? `<div class="article-related">${related.map((item) => renderRelatedCard(item, locale)).join('')}</div>` : ''}
         <a href="${config.rootPath}">${escapeHtml(articleCopy.backToFeed)} <span aria-hidden="true">→</span></a>
       </div>
     </section>
@@ -2142,7 +2155,12 @@ function renderGeneratedFiles(posts, staticPages) {
     files.set(path.join(config.rootDir, 'index.html'), renderIndex(localizedPosts, { locale }));
     files.set(path.join(config.rootDir, 'rss.xml'), renderRss(localizedPosts, locale));
     for (const post of localizedPosts) {
-      files.set(articlePath(post, locale), renderArticle(post, { locale }));
+      const related = localizedPosts
+        .filter((item) => item.slug !== post.slug)
+        .sort((a, b) => Number(b.categoryKey === post.categoryKey) - Number(a.categoryKey === post.categoryKey)
+          || Date.parse(b.datePublished) - Date.parse(a.datePublished))
+        .slice(0, 3);
+      files.set(articlePath(post, locale), renderArticle(post, { locale, related }));
     }
   }
   for (const [filePath, content] of files) {

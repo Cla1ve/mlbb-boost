@@ -2349,3 +2349,35 @@
     color: #111 !important;
   }
 }
+
+/* "Read next" cards under every article (2026-11-22). */
+.article-related {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 18px;
+  width: 100%;
+  margin: 8px 0 28px;
+  text-align: left;
+}
+.article-next .related-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0 0 18px;
+  border-radius: 16px;
+  overflow: hidden;
+  background: rgba(13, 35, 65, .72);
+  border: 1px solid rgba(0, 255, 157, .14);
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: normal;
+  text-transform: none;
+  transition: border-color .2s ease, transform .2s ease;
+}
+.article-next .related-card:hover,
+.article-next .related-card:focus-visible { border-color: #00ff9d; transform: translateY(-2px); }
+.related-card__media { display: block; aspect-ratio: 16 / 9; background: #07121f; }
+.related-card__media img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.related-card__meta { padding: 0 18px; color: #8fa3b8; font-size: .82rem; font-weight: 500; }
+.related-card__title { padding: 0 18px; font-size: 1.02rem; line-height: 1.35; font-weight: 700; color: #fff; }
+@media (prefers-reduced-motion: reduce) { .article-next .related-card { transition: none; } }

@@ -124,4 +124,4 @@ When your friend orders 25+ stars
 
 ## More about formats and ranks
 
-[**Mythic boost**Honor, Glory and Immortal prices](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rank and rating of your hero](https://boostmlbb.ru/en/boost/hero.html)[**Match calculator**How long the route takes on your own](https://boostmlbb.ru/en/guides/mlbb-ranks.html)[**Mythic placement**10 matches and double wins](https://boostmlbb.ru/en/guides/mythic-placement.html)
+[**Mythic boost**Honor, Glory and Immortal prices](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rank and MMR of your hero](https://boostmlbb.ru/en/boost/hero.html)[**Party or account**How the formats differ](https://boostmlbb.ru/en/guides/party-boost.html)[**Mythic placement**10 matches and double wins](https://boostmlbb.ru/en/guides/mythic-placement.html)

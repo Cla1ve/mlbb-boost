@@ -195,4 +195,4 @@ The final price depends on your route and boost type. Use the [calculator](https
 
 ## Prices by rank and format
 
-[**Mythic boost**Route examples to Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rates on your chosen hero](https://boostmlbb.ru/en/boost/hero.html)[**Matches on your own**Compare the price with play time](https://boostmlbb.ru/en/guides/mlbb-ranks.html)
+[**Mythic boost**Routes to Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rates on your chosen hero](https://boostmlbb.ru/en/boost/hero.html)[**Season 42 end**Date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)

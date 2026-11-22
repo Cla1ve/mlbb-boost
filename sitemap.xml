@@ -242,31 +242,17 @@
   </url>
   <url>
     <loc>https://boostmlbb.ru/guides/party-boost.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/party-boost.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/party-boost.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/party-boost.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/en/guides/party-boost.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/party-boost.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/party-boost.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/party-boost.html"/>
-  </url>
-  <url>
-    <loc>https://boostmlbb.ru/guides/mlbb-ranks.html</loc>
-    <lastmod>2026-11-22</lastmod>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/mlbb-ranks.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/mlbb-ranks.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/mlbb-ranks.html"/>
-  </url>
-  <url>
-    <loc>https://boostmlbb.ru/en/guides/mlbb-ranks.html</loc>
-    <lastmod>2026-11-22</lastmod>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/guides/mlbb-ranks.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/guides/mlbb-ranks.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/guides/mlbb-ranks.html"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/boost/mythic.html</loc>
@@ -298,28 +284,56 @@
   </url>
   <url>
     <loc>https://boostmlbb.ru/news/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/en/news/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/"/>
   </url>
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-ranks-in-order/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-ranks-in-order/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-ranks-in-order/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-ranks-in-order/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-ranks-in-order/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-ranks-in-order/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-ranks-in-order/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-ranks-in-order/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/news/mlbb-season-end-rank-reset/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-season-end-rank-reset/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-season-end-rank-reset/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-season-end-rank-reset/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-season-end-rank-reset/"/>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/m8-istanbul-world-road/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/m8-istanbul-world-road/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>
   </url>
   <url>
     <loc>https://boostmlbb.ru/en/news/m8-istanbul-world-road/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/m8-istanbul-world-road/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/m8-istanbul-world-road/"/>

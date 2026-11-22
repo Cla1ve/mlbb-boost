@@ -195,4 +195,4 @@ language: ru
 
 ## Цены по рангам и форматам
 
-[**Буст Мифика**Примеры маршрутов до Славы и Бессмертного](https://boostmlbb.ru/boost/mythic.html)[**Буст на герое**Тарифы на выбранном герое](https://boostmlbb.ru/boost/hero.html)[**Сколько матчей самому**Сравните цену с временем игры](https://boostmlbb.ru/guides/mlbb-ranks.html)
+[**Буст Мифика**Маршруты до Славы и Бессмертного](https://boostmlbb.ru/boost/mythic.html)[**Буст на герое**Тарифы на выбранном герое](https://boostmlbb.ru/boost/hero.html)[**Конец 42 сезона**Дата и куда упадёт ранг](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)

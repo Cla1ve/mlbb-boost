@@ -137,6 +137,10 @@ Confirm your order and first-order discount eligibility
 
 [Buy boost](https://t.me/cla1ve_boost_bot?start=site) [Calculate price](https://boostmlbb.ru/en/order.html)
 
+## Useful for players
+
+[**Season 42 end**Expected date and rank reset chart](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[**Ranks in order**All tiers, stars and Mythic](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[**Mythic boost**Honor, Glory and Immortal prices](https://boostmlbb.ru/en/boost/mythic.html)[**Hero boost**Rank and MMR of your hero](https://boostmlbb.ru/en/boost/hero.html)
+
 GET STARTED
 
 ## How to order a boost

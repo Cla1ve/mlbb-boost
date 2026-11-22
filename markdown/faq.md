@@ -53,4 +53,4 @@ FAQ
 
 ## Гайды по рангам
 
-[**Ранги по порядку**Звёзды, пороги Мифика и калькулятор матчей](https://boostmlbb.ru/guides/mlbb-ranks.html)[**Калибровка Мифика**Как работают 10 матчей](https://boostmlbb.ru/guides/mythic-placement.html)[**Пати или обычный буст**Какой формат выбрать](https://boostmlbb.ru/guides/party-boost.html)
+[**Ранги по порядку**Звёзды, пороги Мифика, калибровка](https://boostmlbb.ru/news/mlbb-ranks-in-order/)[**Конец сезона и сброс**Когда закончится 42 сезон](https://boostmlbb.ru/news/mlbb-season-end-rank-reset/)[**Калибровка Мифика**Как работают 10 матчей](https://boostmlbb.ru/guides/mythic-placement.html)

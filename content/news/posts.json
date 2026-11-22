@@ -695,22 +695,22 @@
     {
       "slug": "m8-istanbul-world-road",
       "status": "published",
-      "title": "M8 по MLBB: где пройдёт чемпионат мира и как команды попадут в Стамбул",
-      "seoTitle": "M8 MLBB: Стамбул, отборы и путь на чемпионат мира",
-      "description": "M8 World Championship пройдёт через Wild Card в Бангкоке и Main Stage в Стамбуле. Разбираем подтверждённые отборы MCT SEA, EA и статус EECA/MCC.",
-      "excerpt": "Стамбул примет Main Stage M8, Бангкок — Wild Card. Самый подробный подтверждённый маршрут уже есть у MCT SEA; для MCC и других регионов ещё ждём квоты.",
+      "title": "M8 по MLBB: когда начнётся, кто уже прошёл и кто едет от СНГ",
+      "seoTitle": "M8 MLBB: даты, участники и команды СНГ",
+      "description": "M8 World Championship: Wild Card в декабре в Бангкоке, основная стадия в январе 2027 в Стамбуле. Кто уже прошёл, включая Team Spirit, Aurevia и Team Yandex.",
+      "excerpt": "Даты и города M8, список команд, которые уже прошли в основную стадию и Wild Card, и что решится на MCT SEA в декабре.",
       "category": "Киберспорт",
       "categoryKey": "esports",
       "tags": [
         "M8 World Championship",
         "Mobile Legends",
         "Киберспорт",
-        "Стамбул",
+        "Team Spirit",
         "MCC",
-        "MCT"
+        "Стамбул"
       ],
       "datePublished": "2026-08-22T23:31:02+03:00",
-      "dateModified": "2026-08-22T23:31:02+03:00",
+      "dateModified": "2026-11-22T13:53:24+03:00",
       "hero": {
         "src": "/images/news/m8-istanbul-world-road-ru.jpg",
         "width": 1600,
@@ -732,200 +732,244 @@
         {
           "type": "keyFacts",
           "id": "brief",
-          "title": "Главное за 30 секунд",
+          "title": "Коротко",
           "items": [
-            "Main Stage M8 пройдёт в Стамбуле, Türkiye; Wild Card — в Бангкоке, Таиланд. Точные игровые дни M8 ещё не названы.",
-            "Первый полностью опубликованный маршрут M8 — MCT SEA: группы 9–10 декабря, плей-офф 11–13 декабря 2026 года.",
-            "Топ-2 MCT SEA получит прямые места в Main Stage; 3-е и 4-е места уйдут в Wild Card, откуда в Main Stage выйдут три команды.",
-            "Для MCT EECA, включая путь команд MCC, а также MCT AMER и EMEA точные квоты и расписания пока не раскрыты."
+            "Стадия Wild Card пройдёт в декабре 2026 года в Бангкоке: 10 команд разыграют 3 места в основной стадии.",
+            "Основная стадия — в январе 2027 года в Стамбуле: 16 команд и призовой фонд $1 000 000.",
+            "От СНГ в основную стадию прошла Team Spirit — чемпион MCC Season 8. Aurevia Team и Team Yandex сыграют в Wild Card.",
+            "Последние места разыграют на MCT SEA 9–13 декабря: первые два места — в основную стадию, 3-е и 4-е — в Wild Card."
           ]
         },
         {
           "type": "paragraph",
-          "text": "Короткий ответ: M8 World Championship впервые перенесёт главную сцену M Series в Европу — в Стамбул, Türkiye; стадия Wild Card состоится в Бангкоке, Таиланд. На 21 августа 2026 года MOONTON Games уже подробно опубликовала путь через MCT Southeast Asia, обозначила следующий турнир Восточной Азии в Улан-Баторе и подтвердила, что квалификационные фазы MCT EECA, EMEA и Americas будут раскрыты позже. Поэтому ниже — не догадка о будущих слотах, а карта того, что уже можно планировать командам и болельщикам."
+          "text": "M8 — первый чемпионат мира по MLBB, финалы которого пройдут в Европе. Отбор шёл через 23 лиги и турнира. К середине ноября MOONTON объявил большую часть участников, ждём только Юго-Восточную Азию и последние места в Wild Card. Точные игровые дни на 22 ноября не объявлены, известны только месяцы."
         },
         {
           "type": "heading",
-          "id": "locations",
-          "text": "Где пройдёт M8 и что известно о датах"
+          "id": "dates",
+          "text": "Когда и где пройдёт M8"
         },
         {
           "type": "table",
-          "caption": "M8 World Championship: подтверждённые точки маршрута",
+          "caption": "Этапы M8 World Championship",
           "headers": [
             "Этап",
-            "Локация",
-            "Что подтверждено",
-            "Чего ещё нет"
+            "Город",
+            "Когда",
+            "Команды"
           ],
           "rows": [
             [
               "Wild Card",
               "Бангкок, Таиланд",
-              "Стадия состоится в Таиланде; из неё в Main Stage пройдут три команды по пути MCT SEA.",
-              "Точные даты, полный состав и общий формат Wild Card."
+              "декабрь 2026",
+              "10 команд, 3 места в основной стадии"
             ],
             [
-              "Main Stage / Finals",
-              "Стамбул, Türkiye",
-              "M8 станет первой M Series на европейской сцене.",
-              "Точные игровые дни, арена, сетка и число участников."
+              "Основная стадия и финал",
+              "Стамбул, Турция",
+              "январь 2027",
+              "16 команд, призовой фонд $1 000 000"
             ]
           ],
-          "note": "В официальных сообщениях на момент проверки указаны города и роль этапов, но не опубликован полный календарь M8."
-        },
-        {
-          "type": "paragraph",
-          "text": "Важно не смешивать два календаря. Отборы идут во второй половине 2026 года, а сам M8 относится к началу 2027-го. Именно поэтому декабрьские даты MCT SEA — это даты квалификации, а не даты матчей в Стамбуле. Для зрителей из России и стран EECA сейчас разумнее следить за анонсами конкретных MCT-турниров: без опубликованного времени начала переводить будущие матчи в МСК было бы выдумкой."
+          "note": "MOONTON называет месяцы, но не игровые дни. Добавим даты, когда их опубликуют."
         },
         {
           "type": "heading",
-          "id": "sea-route",
-          "text": "Самый ясный путь: MCT SEA в декабре"
-        },
-        {
-          "type": "paragraph",
-          "text": "MCT SEA объединяет 12 команд из 11 суверенных стран Юго-Восточной Азии. Это не замена всем национальным лигам, а отдельный международный мост для сильных не-франшизных составов. Внутри него есть вход через MSL Myanmar, MPL Cambodia, MPL Singapore, локальные квалификации Вьетнама, Тимора-Лесте, Брунея и Лаоса. Таиланд получит два места: обычное и дополнительное как страна-хозяйка первого MCT SEA. Чемпионы MDL Philippines, MDL Indonesia и MAL Malaysia составят отдельную Open League Qualifier Group и разыграют один выход в плей-офф."
+          "id": "main-stage",
+          "text": "Кто уже прошёл на M8"
         },
         {
           "type": "table",
-          "caption": "MCT SEA — расписание и цена каждого места",
+          "caption": "Команды, получившие места на M8, по данным MOONTON",
           "headers": [
-            "Дата 2026",
+            "Команда",
+            "Отбор",
+            "Результат",
+            "Стадия"
+          ],
+          "rows": [
+            [
+              "Team Spirit",
+              "MCC Season 8",
+              "4:0 в финале с Aurevia Team",
+              "Основная"
+            ],
+            [
+              "The MongolZ",
+              "MCT East Asia",
+              "победа в Улан-Баторе 31 октября",
+              "Основная"
+            ],
+            [
+              "DREAMMAX",
+              "MCT Americas",
+              "4:1 в финале с LYON",
+              "Основная"
+            ],
+            [
+              "Selangor Red Giants",
+              "MPL Malaysia",
+              "чемпион",
+              "Основная"
+            ],
+            [
+              "Team Rey",
+              "MPL Malaysia",
+              "финалист",
+              "Основная"
+            ],
+            [
+              "Aurora Gaming",
+              "MLBB Türkiye Championship S8",
+              "4:3 в финале с FUT Esports",
+              "не уточнена"
+            ],
+            [
+              "Bigetron by Vitality",
+              "MPL Indonesia S18",
+              "4:3 в финале с NAVI",
+              "не уточнена"
+            ],
+            [
+              "NAVI",
+              "MPL Indonesia S18",
+              "финалист",
+              "не уточнена"
+            ],
+            [
+              "Aurora Gaming PH",
+              "MPL Philippines",
+              "чемпион",
+              "не уточнена"
+            ],
+            [
+              "Team Falcons",
+              "MPL Philippines",
+              "финалист",
+              "не уточнена"
+            ]
+          ],
+          "note": "Для части команд MOONTON пишет «место на M8» без стадии. Уточним после публикации сетки."
+        },
+        {
+          "type": "table",
+          "caption": "Команды Wild Card в Бангкоке",
+          "headers": [
+            "Команда",
+            "Отбор",
+            "Место"
+          ],
+          "rows": [
+            [
+              "FUT Esports",
+              "MLBB Türkiye Championship S8",
+              "финалист"
+            ],
+            [
+              "LYON",
+              "MCT Americas",
+              "финалист"
+            ],
+            [
+              "DianFengYaoGuai",
+              "MCT East Asia",
+              "2-е место"
+            ],
+            [
+              "Guangzhou Gaming",
+              "MCT East Asia",
+              "3-е место"
+            ],
+            [
+              "Aurevia Team",
+              "MCC Season 8",
+              "финалист"
+            ],
+            [
+              "Team Yandex",
+              "MCC Season 8",
+              "место в Wild Card"
+            ]
+          ],
+          "note": "Ещё две команды Wild Card определит MCT SEA."
+        },
+        {
+          "type": "heading",
+          "id": "cis",
+          "text": "Команды СНГ на M8"
+        },
+        {
+          "type": "paragraph",
+          "text": "От СНГ на M8 едут три команды. Team Spirit выиграла MCC Season 8 со счётом 4:0 у Aurevia Team и сразу попала в основную стадию в Стамбуле. Это та же Team Spirit, что летом стала чемпионом MSC 2026. Aurevia Team и Team Yandex начнут с Wild Card в Бангкоке: чтобы попасть в Стамбул, им нужно войти в тройку из 10 команд."
+        },
+        {
+          "type": "callout",
+          "label": "Что это значит для зрителей из России",
+          "text": "В январе в Стамбуле будет минимум одна команда СНГ, а при удачном Wild Card — до трёх. Часовой пояс Турции совпадает с московским, поэтому матчи основной стадии будут идти в удобное время."
+        },
+        {
+          "type": "cta",
+          "id": "m8-rank-plan",
+          "eyebrow": "Сезон закончится 16 декабря",
+          "title": "Успейте поднять ранг до сброса",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-cis"
+        },
+        {
+          "type": "heading",
+          "id": "mct-sea",
+          "text": "Что решится на MCT SEA в декабре"
+        },
+        {
+          "type": "table",
+          "caption": "MCT SEA, ICONSIAM, Бангкок",
+          "headers": [
+            "Даты",
             "Стадия",
             "Что решается"
           ],
           "rows": [
             [
               "9–10 декабря",
-              "Group Stage",
-              "Первые два места групп A, B и C идут в плей-офф; третьи места получают шанс через Last Chance Qualifier."
+              "Групповой этап",
+              "12 команд из 11 стран в четырёх группах"
             ],
             [
               "10 декабря",
               "Last Chance Qualifier",
-              "Один матч BO1 за последний слот в плей-офф среди третьих мест групп A, B и C."
+              "Один матч BO1 за последнее место в плей-офф"
             ],
             [
               "11–13 декабря",
-              "Knockout Playoffs",
-              "1–2-е места: прямой Main Stage M8 в Стамбуле; 3–4-е: Wild Card M8 в Бангкоке."
+              "Плей-офф",
+              "1–2-е места — основная стадия M8, 3–4-е — Wild Card"
             ]
           ],
-          "note": "Из Wild Card в Main Stage пройдут три команды. Это подтверждённое правило для маршрута MCT SEA, а не универсальная квота для каждого региона."
-        },
-        {
-          "type": "callout",
-          "label": "Почему это важнее одной региональной лиги",
-          "text": "MCT SEA показывает новую логику M8: место получают не за название региона, а за конкретный путь. Для открытых и развивающих лиг это реальный шанс выйти на мировую сцену через отдельную квалификацию, а не только через MPL."
-        },
-        {
-          "type": "cta",
-          "id": "m8-rank-plan",
-          "eyebrow": "Твой путь к Mythic",
-          "title": "Проверь цену подъёма ранга",
-          "text": "Выбери текущий и желаемый ранг — калькулятор сразу покажет стоимость.",
-          "button": "Рассчитать стоимость",
-          "href": "/order.html?type=standard",
-          "note": "Без оплаты и обязательств.",
-          "position": "after-sea-route"
-        },
-        {
-          "type": "heading",
-          "id": "regional-status",
-          "text": "Восточная Азия, Америки, EECA и EMEA: что подтверждено, а что ждать"
-        },
-        {
-          "type": "table",
-          "caption": "Статус региональных дорог на 21 августа 2026 года",
-          "headers": [
-            "Регион / контур",
-            "Уже подтверждено",
-            "Статус"
-          ],
-          "rows": [
-            [
-              "East Asia (Китай, Монголия, Япония, Корея)",
-              "Следующий MCT EA x ESN пройдёт в Улан-Баторе 31 октября; MOONTON называет его дорогой к M8.",
-              "Детальные участники, формат и квоты ещё не опубликованы."
-            ],
-            [
-              "Americas (Северная, Центральная и Латинская Америка, Бразилия)",
-              "MCT AMER входит в пяти-регионную структуру и должен продолжить M8-цикл позже.",
-              "Нет опубликованных дат, сетки или числа мест."
-            ],
-            [
-              "EECA / MCC (Восточная Европа и Центральная Азия)",
-              "MCT EECA прямо назван среди следующих фаз квалификации; победа Team Spirit на MSC усилила статус региона.",
-              "Нет подтверждённого правила, что три команды MCC получают путёвки на M8."
-            ],
-            [
-              "EMEA (Европа, Ближний Восток и Африка)",
-              "MCT EMEA входит в тот же следующий пакет M8-квалификаций.",
-              "Нет опубликованных дат, слотов и отбора."
-            ],
-            [
-              "Франшизные MPL и партнёрские лиги",
-              "Они существуют параллельно с MCT в глобальной системе MLBB Esports.",
-              "Их конкретные маршруты и распределение мест M8 надо ждать в регламентах организатора."
-            ]
-          ],
-          "note": "Статусы «нет опубликовано» означают отсутствие подтверждения в текущем официальном наборе источников, а не отсутствие будущего отбора."
-        },
-        {
-          "type": "heading",
-          "id": "eeca-mcc",
-          "text": "Что это значит для России, EECA и MCC"
+          "note": "Призовой фонд MCT SEA — $50 000."
         },
         {
           "type": "paragraph",
-          "text": "Россия и соседние страны входят в интересующий читателей контур EECA, но сейчас важно не подменять надежду фактом. После исторической победы Team Spirit на MSC 2026 регион действительно получил мощный международный аргумент: MOONTON прямо называет команду первым чемпионом крупного международного MLBB-турнира за пределами Юго-Восточной Азии. Однако эта победа не публикует регламент M8 автоматически. В проверенных первичных источниках нет подтверждения формулы «три команды из MCC получат M8». Пока MOONTON не выпустит правила MCT EECA или MCC, корректная позиция такова: путь будет, но число мест, этапы и способ отбора неизвестны."
-        },
-        {
-          "type": "callout",
-          "label": "Как читать следующий анонс",
-          "text": "Ищите четыре вещи: название турнира, дату, число слотов в Main Stage и Wild Card, а также правило передачи слота при повторной квалификации. Без всех четырёх деталей новость о «путёвке на M8» остаётся неполной."
-        },
-        {
-          "type": "heading",
-          "id": "watchlist",
-          "text": "Что отслеживать дальше"
-        },
-        {
-          "type": "list",
-          "items": [
-            "MCT EA x ESN в Улан-Баторе 31 октября: организатор уже обещал отдельно раскрыть состав, формат и квалификационные правила.",
-            "Официальные анонсы MCT EECA, MCT EMEA и MCT AMER: именно в них появятся региональные даты и квоты M8.",
-            "Полный регламент M8: даты Бангкока и Стамбула, список участников, формат Wild Card и Main Stage, призовой фонд.",
-            "Итоги MCT SEA 11–13 декабря: они назовут первые две команды Main Stage и две команды Wild Card по этому маршруту."
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Этот материал намеренно отделяет подтверждённые маршруты от ожиданий. Как только появится официальный регламент по MCC/EECA или другим регионам, его стоит добавлять в ту же страницу, сохраняя URL: так читатель увидит не новую статью с противоречащими цифрами, а прозрачную историю обновления M8."
-        },
-        {
-          "type": "linkCard",
-          "label": "Официальный источник",
-          "title": "MOONTON: MCT SEA и подтверждённый путь к M8",
-          "description": "Полный анонс с календарём MCT SEA, слотами Main Stage и Wild Card",
-          "href": "https://en.moonton.com/news/362.html"
+          "text": "После MCT SEA список участников M8 будет полным: две команды из Юго-Восточной Азии напрямую поедут в Стамбул, ещё две пополнят Wild Card. Мы обновим таблицы после плей-офф 13 декабря и когда MOONTON опубликует игровые дни."
         }
       ],
       "translations": {
         "en": {
-          "title": "M8 MLBB: Where Worlds Will Be Held and How Teams Can Reach Istanbul",
-          "seoTitle": "M8 MLBB: Istanbul, Qualifiers, and the Road to Worlds",
-          "description": "M8 World Championship will run through a Bangkok Wild Card and an Istanbul Main Stage. Here is the confirmed MCT SEA route, EA status, and what EECA/MCC still awaits.",
-          "excerpt": "Istanbul hosts the M8 Main Stage and Bangkok hosts Wild Card. MCT SEA already has a detailed route; MCC and other regional quotas are still pending.",
+          "title": "M8 MLBB: when it starts, who has qualified and which CIS teams are going",
+          "seoTitle": "M8 MLBB: dates, qualified teams and CIS teams",
+          "description": "M8 World Championship: Wild Card in December in Bangkok, Main Stage in January 2027 in Istanbul. Who has qualified, including Team Spirit, Aurevia and Team Yandex.",
+          "excerpt": "M8 dates and cities, the teams already through to the Main Stage and Wild Card, and what MCT SEA decides in December.",
           "category": "Esports",
           "tags": [
             "M8 World Championship",
             "Mobile Legends",
             "Esports",
-            "Istanbul",
+            "Team Spirit",
             "MCC",
-            "MCT"
+            "Istanbul"
           ],
           "hero": {
             "src": "/images/news/m8-istanbul-world-road-en.jpg",
@@ -948,222 +992,1182 @@
             {
               "type": "keyFacts",
               "id": "brief",
-              "title": "The 30-second answer",
+              "title": "In short",
               "items": [
-                "The Main Stage M8 will be in Istanbul, Türkiye, while the Wild Card will be in Bangkok, Thailand. Exact M8 match dates have not been announced.",
-                "The first fully published M8 route is MCT SEA: groups run on December 9–10 and playoffs on December 11–13, 2026.",
-                "MCT SEA's Top-2 qualify directly for Main Stage; place 3 and place 4 go to Wild Card, where three teams reach Main Stage.",
-                "Exact quotas and schedules for MCT EECA, including the MCC route, plus MCT AMER and EMEA have not yet been released."
+                "The Wild Card stage takes place in December 2026 in Bangkok: 10 teams play for 3 Main Stage places.",
+                "The Main Stage is in January 2027 in Istanbul: 16 teams and a $1,000,000 prize pool.",
+                "Team Spirit, the MCC Season 8 champion, reached the Main Stage for the CIS. Aurevia Team and Team Yandex play in the Wild Card.",
+                "The last places are decided at MCT SEA on 9–13 December: the top two go to the Main Stage, 3rd and 4th to the Wild Card."
               ]
             },
             {
               "type": "paragraph",
-              "text": "The short answer is that M8 World Championship will bring the M Series' main stage to Europe for the first time, in Istanbul, Türkiye, while its Wild Card stage will be in Bangkok, Thailand. As of August 21, 2026, MOONTON Games has published a detailed MCT Southeast Asia route, named the next East Asia tournament in Ulaanbaatar, and confirmed that MCT EECA, EMEA, and Americas qualification phases will be announced later. This is therefore a map of what teams and fans can plan around now—not a guess at future slots."
+              "text": "M8 is the first MLBB world championship with finals in Europe. Qualification ran through 23 leagues and tournaments. By mid-November MOONTON had announced most of the field; only Southeast Asia and the last Wild Card places remain. Exact match days had not been announced as of 22 November, only the months."
             },
             {
               "type": "heading",
-              "id": "locations",
-              "text": "Where M8 will be held and what we know about dates"
+              "id": "dates",
+              "text": "When and where M8 takes place"
             },
             {
               "type": "table",
-              "caption": "M8 World Championship: confirmed stops on the route",
+              "caption": "M8 World Championship stages",
               "headers": [
                 "Stage",
-                "Location",
-                "Confirmed",
-                "Still unannounced"
+                "City",
+                "When",
+                "Teams"
               ],
               "rows": [
                 [
                   "Wild Card",
                   "Bangkok, Thailand",
-                  "The stage will take place in Thailand; three teams will reach Main Stage through the MCT SEA route.",
-                  "Exact dates, the full field, and the overall Wild Card format."
+                  "December 2026",
+                  "10 teams, 3 Main Stage places"
                 ],
                 [
-                  "Main Stage / Finals",
+                  "Main Stage and finals",
                   "Istanbul, Türkiye",
-                  "M8 will be the first M Series on a European stage.",
-                  "Exact match days, venue, bracket, and participant count."
+                  "January 2027",
+                  "16 teams, $1,000,000 prize pool"
                 ]
               ],
-              "note": "The official announcements specify cities and stage roles at the time of checking, but not the complete M8 calendar."
-            },
-            {
-              "type": "paragraph",
-              "text": "It is important not to merge two calendars. Qualifiers take place in the second half of 2026, while M8 itself belongs to early 2027. December MCT SEA dates are qualification dates, not Istanbul match dates. For fans in Russia and across EECA, the sensible next step is to follow specific MCT announcements: without a published start time, converting a future match into Moscow time would be invented information."
+              "note": "MOONTON gives the months but not the match days. We will add dates once they are published."
             },
             {
               "type": "heading",
-              "id": "sea-route",
-              "text": "The clearest route: MCT SEA in December"
-            },
-            {
-              "type": "paragraph",
-              "text": "MCT SEA brings together 12 teams from 11 sovereign Southeast Asian countries. It does not replace every domestic league; it is a cross-regional bridge for strong non-franchised rosters. Entry points include MSL Myanmar, MPL Cambodia, MPL Singapore, and local qualifiers in Vietnam, Timor-Leste, Brunei, and Laos. Thailand receives two berths: its regular berth plus a host-country berth for the first MCT SEA. The MDL Philippines, MDL Indonesia, and MAL Malaysia champions make up a separate Open League Qualifier Group and play for one playoff berth."
+              "id": "main-stage",
+              "text": "Who has qualified for M8"
             },
             {
               "type": "table",
-              "caption": "MCT SEA — schedule and what each finish earns",
+              "caption": "Teams with an M8 place according to MOONTON",
               "headers": [
-                "2026 date",
+                "Team",
+                "Qualifier",
+                "Result",
+                "Stage"
+              ],
+              "rows": [
+                [
+                  "Team Spirit",
+                  "MCC Season 8",
+                  "4:0 in the final against Aurevia Team",
+                  "Main"
+                ],
+                [
+                  "The MongolZ",
+                  "MCT East Asia",
+                  "won in Ulaanbaatar on 31 October",
+                  "Main"
+                ],
+                [
+                  "DREAMMAX",
+                  "MCT Americas",
+                  "4:1 in the final against LYON",
+                  "Main"
+                ],
+                [
+                  "Selangor Red Giants",
+                  "MPL Malaysia",
+                  "champion",
+                  "Main"
+                ],
+                [
+                  "Team Rey",
+                  "MPL Malaysia",
+                  "finalist",
+                  "Main"
+                ],
+                [
+                  "Aurora Gaming",
+                  "MLBB Türkiye Championship S8",
+                  "4:3 in the final against FUT Esports",
+                  "not specified"
+                ],
+                [
+                  "Bigetron by Vitality",
+                  "MPL Indonesia S18",
+                  "4:3 in the final against NAVI",
+                  "not specified"
+                ],
+                [
+                  "NAVI",
+                  "MPL Indonesia S18",
+                  "finalist",
+                  "not specified"
+                ],
+                [
+                  "Aurora Gaming PH",
+                  "MPL Philippines",
+                  "champion",
+                  "not specified"
+                ],
+                [
+                  "Team Falcons",
+                  "MPL Philippines",
+                  "finalist",
+                  "not specified"
+                ]
+              ],
+              "note": "For some teams MOONTON says “an M8 place” without the stage. We will clarify once the bracket is published."
+            },
+            {
+              "type": "table",
+              "caption": "Wild Card teams in Bangkok",
+              "headers": [
+                "Team",
+                "Qualifier",
+                "Place"
+              ],
+              "rows": [
+                [
+                  "FUT Esports",
+                  "MLBB Türkiye Championship S8",
+                  "finalist"
+                ],
+                [
+                  "LYON",
+                  "MCT Americas",
+                  "finalist"
+                ],
+                [
+                  "DianFengYaoGuai",
+                  "MCT East Asia",
+                  "2nd place"
+                ],
+                [
+                  "Guangzhou Gaming",
+                  "MCT East Asia",
+                  "3rd place"
+                ],
+                [
+                  "Aurevia Team",
+                  "MCC Season 8",
+                  "finalist"
+                ],
+                [
+                  "Team Yandex",
+                  "MCC Season 8",
+                  "Wild Card place"
+                ]
+              ],
+              "note": "MCT SEA will add two more Wild Card teams."
+            },
+            {
+              "type": "heading",
+              "id": "cis",
+              "text": "CIS teams at M8"
+            },
+            {
+              "type": "paragraph",
+              "text": "Three CIS teams are going to M8. Team Spirit won MCC Season 8 4:0 against Aurevia Team and went straight to the Main Stage in Istanbul. This is the same Team Spirit that won MSC 2026 in the summer. Aurevia Team and Team Yandex start in the Bangkok Wild Card: to reach Istanbul they need a top-three finish among 10 teams."
+            },
+            {
+              "type": "callout",
+              "label": "What this means for viewers in Russia",
+              "text": "Istanbul will have at least one CIS team in January, and up to three after a good Wild Card. Türkiye shares Moscow’s time zone, so Main Stage matches will air at convenient hours."
+            },
+            {
+              "type": "cta",
+              "id": "m8-rank-plan",
+              "eyebrow": "The season ends on 16 December",
+              "title": "Raise your rank before the reset",
+              "text": "Enter your current rank and goal — the calculator shows the price at once.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-cis"
+            },
+            {
+              "type": "heading",
+              "id": "mct-sea",
+              "text": "What MCT SEA decides in December"
+            },
+            {
+              "type": "table",
+              "caption": "MCT SEA, ICONSIAM, Bangkok",
+              "headers": [
+                "Dates",
                 "Stage",
                 "What is decided"
               ],
               "rows": [
                 [
-                  "December 9–10",
-                  "Group Stage",
-                  "The top two from Groups A, B, and C reach playoffs; third places get a Last Chance Qualifier opportunity."
+                  "9–10 December",
+                  "Group stage",
+                  "12 teams from 11 countries in four groups"
                 ],
                 [
-                  "December 10",
+                  "10 December",
                   "Last Chance Qualifier",
-                  "One BO1 match for the final playoff spot among the third-place teams from Groups A, B, and C."
+                  "One BO1 match for the last playoff place"
                 ],
                 [
-                  "December 11–13",
-                  "Knockout Playoffs",
-                  "Places 1–2: direct Main Stage M8 in Istanbul; places 3–4: Wild Card M8 in Bangkok."
+                  "11–13 December",
+                  "Playoffs",
+                  "places 1–2 go to the M8 Main Stage, places 3–4 to the Wild Card"
                 ]
               ],
-              "note": "Three teams advance from Wild Card to Main Stage. This is a confirmed MCT SEA route rule, not a universal quota for every region."
-            },
-            {
-              "type": "callout",
-              "label": "Why this matters beyond one league",
-              "text": "MCT SEA shows M8's new logic: a place comes through a defined route, not simply a region label. Open and developing leagues gain a real route to the world stage through dedicated qualification, not only through an MPL."
-            },
-            {
-              "type": "cta",
-              "id": "m8-rank-plan",
-              "eyebrow": "Your Mythic route",
-              "title": "Check your rank-up estimate",
-              "text": "Choose your current and target rank to see the calculator estimate instantly.",
-              "button": "Calculate the price",
-              "href": "/order.html?type=standard",
-              "note": "No payment or commitment.",
-              "position": "after-sea-route"
-            },
-            {
-              "type": "heading",
-              "id": "regional-status",
-              "text": "East Asia, Americas, EECA, and EMEA: what is confirmed and what awaits"
-            },
-            {
-              "type": "table",
-              "caption": "Regional-route status as of August 21, 2026",
-              "headers": [
-                "Region / circuit",
-                "Already confirmed",
-                "Status"
-              ],
-              "rows": [
-                [
-                  "East Asia (China, Mongolia, Japan, Korea)",
-                  "The next MCT EA x ESN will be in Ulaanbaatar on October 31; MOONTON calls it a route toward M8 qualification.",
-                  "Detailed participants, format, and quotas are still unpublished."
-                ],
-                [
-                  "Americas (North, Central, and Latin America, Brazil)",
-                  "MCT AMER is part of the five-region structure and is due to continue the M8 cycle later.",
-                  "No published dates, bracket, or number of places."
-                ],
-                [
-                  "EECA / MCC (Eastern Europe and Central Asia)",
-                  "MCT EECA is explicitly named among the next qualification phases; Team Spirit's MSC win strengthened the region's profile.",
-                  "No confirmed rule says three MCC teams receive M8 berths."
-                ],
-                [
-                  "EMEA (Europe, Middle East, and Africa)",
-                  "MCT EMEA is part of the same next set of M8 qualification circuits.",
-                  "No published dates, slots, or selection format."
-                ],
-                [
-                  "Franchised MPL and partner leagues",
-                  "They operate alongside MCT within the global MLBB Esports system.",
-                  "Their specific M8 routes and allocation must await organizer regulations."
-                ]
-              ],
-              "note": "“Not published” means no confirmation was found in the current official source set; it does not mean no future qualifier will exist."
-            },
-            {
-              "type": "heading",
-              "id": "eeca-mcc",
-              "text": "What this means for Russia, EECA, and MCC"
+              "note": "The MCT SEA prize pool is $50,000."
             },
             {
               "type": "paragraph",
-              "text": "Russia and neighboring countries are part of the EECA story that matters to this article's readers, but hope must not be presented as fact. Team Spirit's historic MSC 2026 win gives the region a powerful international marker: MOONTON describes the team as the first champion from outside Southeast Asia to win an official international MLBB major. That win does not publish M8 regulations automatically, however. The primary sources checked for this article do not confirm a formula under which three MCC teams receive M8 places. Until MOONTON releases MCT EECA or MCC rules, the accurate position is simple: there will be a route, but its number of slots, stages, and selection method are unknown."
-            },
-            {
-              "type": "callout",
-              "label": "How to read the next announcement",
-              "text": "Look for four things: the tournament name, date, Main Stage and Wild Card slot counts, and the rule for passing down a slot after repeat qualification. Without all four, a report of an “M8 berth” is incomplete."
-            },
-            {
-              "type": "heading",
-              "id": "watchlist",
-              "text": "What to watch next"
-            },
-            {
-              "type": "list",
-              "items": [
-                "MCT EA x ESN in Ulaanbaatar on October 31: the organizer has promised separate participant, format, and qualification details.",
-                "Official MCT EECA, MCT EMEA, and MCT AMER announcements: those will set the regional M8 dates and quotas.",
-                "The full M8 rules: Bangkok and Istanbul dates, participant list, Wild Card and Main Stage format, and prize pool.",
-                "MCT SEA results on December 11–13: they will name the first two Main Stage teams and two Wild Card teams from this route."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "This article deliberately separates confirmed routes from expectations. Once an official MCC/EECA or another regional regulation appears, it should be added to this same page without changing the URL. That lets readers see a transparent M8 update history rather than a new article with contradictory numbers."
-            },
-            {
-              "type": "linkCard",
-              "label": "Official source",
-              "title": "MOONTON: MCT SEA and its confirmed road to M8",
-              "description": "Full announcement with the MCT SEA calendar, Main Stage slots, and Wild Card places",
-              "href": "https://en.moonton.com/news/362.html"
+              "text": "After MCT SEA the M8 field will be complete: two Southeast Asian teams go straight to Istanbul and two more join the Wild Card. We will update the tables after the playoffs on 13 December and when MOONTON publishes the match days."
             }
           ],
-          "editorialNote": "Research snapshot checked on August 21, 2026. The article distinguishes announced M8 routes from unannounced quotas: the detailed MCT SEA path, the October 31 MCT EA event, and the later MCT EECA/EMEA/AMER phases come from MOONTON Games. Team Spirit's MSC 2026 result is context for EECA, not evidence of an M8 slot allocation. Update this stable URL when an organizer publishes the M8 rulebook, exact dates, or a regional MCT/MCC format. A dedicated English poster with verified wording was generated on August 22, 2026."
+          "editorialNote": "Updated on 22 November 2026 from MOONTON press releases dated 2 and 16 November. Where a release does not name a team’s stage, we say so. We will update this article after MCT SEA and when the M8 match days are published."
         }
       },
       "sources": [
         {
-          "title": "MLBB Championship Tour (MCT) officially expands to Southeast Asia in Q4 2026 as the next phase of MLBB's esports globalisation strategy",
-          "publisher": "MOONTON Games",
+          "title": "DREAMMAX lead the Americas onto the world stage as the M8 World Championship heads to Europe",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/399.html",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Toshiba TV joins the inaugural MLBB SEA Championship Tour as Official Premium Partner",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/398.html",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Bigetron by Vitality joins MPL Indonesia’s elite with historic title defence",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/397.html",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Aurora Gaming eyes M8 World Championship glory on home soil after MLBB Türkiye Championship S8 triumph",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/396.html",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "The MongolZ break MCT East Asia’s first-ever Immortality Armour to win on home soil",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/395.html",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "MLBB Championship Tour (MCT) officially expands to Southeast Asia in Q4 2026",
+          "publisher": "MOONTON",
           "url": "https://en.moonton.com/news/362.html",
-          "accessed": "2026-08-21"
-        },
-        {
-          "title": "GZG crowned MCT East Asia champions, Ulaanbaatar announced as next tournament destination",
-          "publisher": "MOONTON Games",
-          "url": "https://en.moonton.com/news/339.html",
-          "accessed": "2026-08-21"
-        },
-        {
-          "title": "Team Spirit validates Mobile Legends: Bang Bang's global expansion strategy with historic Mid Season Cup win at the 2026 Esports World Cup in Paris",
-          "publisher": "MOONTON Games",
-          "url": "https://en.moonton.com/news/360.html",
-          "accessed": "2026-08-21"
-        },
-        {
-          "title": "Mobile Legends: Bang Bang unveils new formats for historic MSC and MWI as tournaments headline 2026 Esports World Cup",
-          "publisher": "MOONTON Games",
-          "url": "https://en.moonton.com/news/341.html",
-          "accessed": "2026-08-21"
-        },
-        {
-          "title": "Aurora Gaming secures MLBB Türkiye Championship three-peat as Season 7 celebrates record viewership and partnership lineup!",
-          "publisher": "MOONTON Games",
-          "url": "https://en.moonton.com/news/346.html",
-          "accessed": "2026-08-21"
+          "accessed": "2026-11-22"
         }
       ],
-      "editorialNote": "Срез источников проверен 21 августа 2026 года. Материал отделяет опубликованные маршруты M8 от нераскрытых квот: подробный путь MCT SEA, турнир MCT EA 31 октября и будущие фазы MCT EECA/EMEA/AMER подтверждены MOONTON Games. Победа Team Spirit на MSC 2026 — контекст для EECA, а не доказательство распределения слотов M8. Обновляйте этот стабильный URL, когда организатор опубликует регламент M8, точные даты или формат регионального MCT/MCC. Отдельный русский постер с проверенным текстом создан 22 августа 2026 года."
+      "editorialNote": "Обновлено 22 ноября 2026 года по пресс-релизам MOONTON за 2 и 16 ноября. Если стадия команды в релизе не названа, мы так и пишем. Обновим материал после MCT SEA и публикации игровых дней M8."
+    },
+    {
+      "slug": "mlbb-ranks-in-order",
+      "status": "published",
+      "title": "Ранги в Mobile Legends по порядку: все звания, звёзды и Мифик",
+      "seoTitle": "Ранги MLBB по порядку: все звания и звёзды",
+      "description": "Все 10 рангов Mobile Legends от Воина до Мифического бессмертного: сколько дивизионов и звёзд в каждом, пороги Мифика, калибровка и защита звезды.",
+      "excerpt": "Таблица всех рангов MLBB по порядку, сколько звёзд нужно до Мифика, как работают Мифические ранги, калибровка и защита звезды.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Mobile Legends",
+        "Ранги",
+        "Мифик",
+        "Звёзды",
+        "Калибровка"
+      ],
+      "datePublished": "2026-11-22T13:44:00+03:00",
+      "dateModified": "2026-11-22T13:54:09+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-ranks-in-order.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-ranks-in-order-768.webp 768w, /images/news/mlbb-ranks-in-order-1200.webp 1200w, /images/news/mlbb-ranks-in-order-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Лестница из десяти парящих кристаллических платформ, каждая выше и ярче предыдущей, на вершине изумрудный кристалл",
+        "caption": "Иллюстрация Boost MLBB к гиду по рангам.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen via Codex",
+          "created": "2026-11-22",
+          "rights": "Оригинальная иллюстрация создана для Boost MLBB; без персонажей, логотипов, эмблем рангов и интерфейса Mobile Legends.",
+          "prompt": "Original 16:9 premium esports editorial hero, text-free: an ascending staircase of ten floating faceted emerald crystal platforms rising from lower left to upper right, each brighter than the last, the top platform crowned by a radiant emerald-cyan crystal; deep navy and near-black palette with soft cyan light trails; no characters, logos, rank emblems, UI or text."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "В Mobile Legends 10 рангов: Воин, Элита, Мастер, Грандмастер, Эпик, Легенда, Мифик, Мифическая честь, Мифическая слава и Мифический бессмертный.",
+            "До Мифика нужно 112 звёзд, больше всего их в Грандмастере, Эпике и Легенде — по 25.",
+            "В Мифике дивизионов нет: Честь начинается с 25 звёзд, Слава — с 50, Бессмертный — со 100.",
+            "Первые 10 матчей в Мифике — калибровка: победа даёт две звезды, поражение звёзд не снимает."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Рейтинговая лестница MLBB делится на две части. Первые шесть рангов разбиты на дивизионы: от III или V до I, в каждом по 3–5 звёзд. Победа добавляет звезду, поражение её снимает, а когда дивизион заполнен, следующая победа переводит выше. С Мифика начинается вторая часть: звёзды просто копятся, а название ранга меняется на порогах 25, 50 и 100."
+        },
+        {
+          "type": "heading",
+          "id": "order",
+          "text": "Все ранги по порядку"
+        },
+        {
+          "type": "table",
+          "caption": "Ранги Mobile Legends от низшего к высшему",
+          "headers": [
+            "Ранг",
+            "Дивизионы и звёзды",
+            "Звёзд с начала пути"
+          ],
+          "rows": [
+            [
+              "1. Воин",
+              "III–I, по 3 звезды",
+              "9"
+            ],
+            [
+              "2. Элита",
+              "III–I, по 4 звезды",
+              "21"
+            ],
+            [
+              "3. Мастер",
+              "IV–I, по 4 звезды",
+              "37"
+            ],
+            [
+              "4. Грандмастер",
+              "V–I, по 5 звёзд",
+              "62"
+            ],
+            [
+              "5. Эпик",
+              "V–I, по 5 звёзд",
+              "87"
+            ],
+            [
+              "6. Легенда",
+              "V–I, по 5 звёзд",
+              "112"
+            ],
+            [
+              "7. Мифик",
+              "нет, 0–24 звезды",
+              "—"
+            ],
+            [
+              "8. Мифическая честь",
+              "нет, 25–49 звёзд",
+              "—"
+            ],
+            [
+              "9. Мифическая слава",
+              "нет, 50–99 звёзд",
+              "—"
+            ],
+            [
+              "10. Мифический бессмертный",
+              "нет, от 100 звёзд",
+              "—"
+            ]
+          ],
+          "note": "Счёт звёзд совпадает с калькулятором BOOST MLBB и таблицами сторонних справочников. В Мифических рангах звёзды считаются внутри Мифика."
+        },
+        {
+          "type": "paragraph",
+          "text": "Короче всего первые ранги: Воин проходится за 9 звёзд, Элита — за 12. Основная работа начинается с Грандмастера: три ранга подряд по 25 звёзд, и именно там новички чаще всего застревают."
+        },
+        {
+          "type": "heading",
+          "id": "mythic",
+          "text": "Мифические ранги и калибровка"
+        },
+        {
+          "type": "paragraph",
+          "text": "После Легенды I следующая победа переводит в Мифик. Здесь начинается калибровка: 10 матчей, в которых каждая победа приносит две звезды, а поражение звёзд не отнимает. За калибровку можно набрать до 10 звёзд. Дальше звёзды снова идут по одной за победу и поражение."
+        },
+        {
+          "type": "table",
+          "caption": "Пороги Мифических рангов",
+          "headers": [
+            "Ранг",
+            "Звёзды",
+            "Что меняется"
+          ],
+          "rows": [
+            [
+              "Мифик",
+              "0–24",
+              "Калибровка в первых 10 матчах"
+            ],
+            [
+              "Мифическая честь",
+              "25–49",
+              "Новое название и рамка"
+            ],
+            [
+              "Мифическая слава",
+              "50–99",
+              "Новое название и рамка"
+            ],
+            [
+              "Мифический бессмертный",
+              "100 и выше",
+              "Звёзды копятся без верхней границы"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Где играют наши клиенты",
+          "text": "Из 2 289 заказов, выполненных BOOST MLBB с ноября 2025 года, 569 — звёзды внутри Мифического бессмертного и 343 — внутри Мифической славы. Самый частый путь между рангами — из Славы в Бессмертного: 179 заказов."
+        },
+        {
+          "type": "heading",
+          "id": "stars",
+          "text": "Как набираются и теряются звёзды"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Победа в рейтинговом матче добавляет одну звезду, поражение отнимает одну.",
+            "Шкала защиты звезды заполняется за хорошую игру. Когда она полная, следующее поражение не отнимет звезду.",
+            "В Эпике и Легенде за хорошие матчи копятся очки повышения: когда шкала заполнится, вы получите лишнюю звезду.",
+            "В калибровке Мифика победа даёт две звезды, а поражение тратит матч, но звёзд не снимает."
+          ]
+        },
+        {
+          "type": "cta",
+          "id": "ranks-route-price",
+          "eyebrow": "Застряли на пути к Мифику",
+          "title": "Узнайте цену буста до нужного ранга",
+          "text": "Выберите текущий ранг и цель — калькулятор покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-stars"
+        },
+        {
+          "type": "heading",
+          "id": "matches",
+          "text": "Сколько матчей нужно до Мифика"
+        },
+        {
+          "type": "paragraph",
+          "text": "Всё решает процент побед. При 50% побед звёзды почти стоят на месте: поражения съедают победы, и двигает вперёд только защита звезды. Каждые лишние пять процентов побед сокращают путь в разы. Мы посчитали примерное число матчей с учётом защиты звезды и калибровки."
+        },
+        {
+          "type": "table",
+          "caption": "Примерное число матчей при разном проценте побед",
+          "headers": [
+            "Путь",
+            "Звёзд",
+            "52% побед",
+            "55% побед",
+            "60% побед"
+          ],
+          "rows": [
+            [
+              "Эпик V → Мифик",
+              "50",
+              "около 350",
+              "около 250",
+              "около 170"
+            ],
+            [
+              "Легенда V → Мифик",
+              "25",
+              "около 180",
+              "около 130",
+              "около 90"
+            ],
+            [
+              "Мифическая честь → Мифическая слава",
+              "25",
+              "около 210",
+              "около 140",
+              "около 90"
+            ],
+            [
+              "Мифическая слава → Мифический бессмертный",
+              "50",
+              "около 420",
+              "около 290",
+              "около 190"
+            ]
+          ],
+          "note": "Расчёт: защита звезды срабатывает примерно раз в шесть поражений, очки повышения дают звезду раз в 35–50 матчей. Это оценка, а не правило игры."
+        },
+        {
+          "type": "heading",
+          "id": "reset",
+          "text": "Что происходит с рангом в конце сезона"
+        },
+        {
+          "type": "paragraph",
+          "text": "Сезон длится около трёх месяцев. В его конце ранг опускается: Мифический бессмертный и Мифическая слава начинают новый сезон с Легенды V, Мифическая честь — с Эпика I, Мифик — с Эпика II. Награды выдают по самому высокому рангу за сезон. Ожидаемую дату конца 42 сезона и полную таблицу сброса мы разобрали в отдельном материале."
+        }
+      ],
+      "sources": [
+        {
+          "title": "MLBB Rank System Explained: All Tiers & Reset (2026)",
+          "publisher": "MLBB Hub",
+          "url": "https://mlbbhub.com/news/mlbb-rank-system-all-tiers-stars-season-reset-2026",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Mobile Legends Ranks in Order (2026): All 10 MLBB Tiers, Mythic Stars, Bans & Season Reset",
+          "publisher": "LFCarry",
+          "url": "https://lfcarry.com/guides/mobile-legends-ranks",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Mobile Legends rank system: Order, stars needed and season dates",
+          "publisher": "GamerMarkt",
+          "url": "https://www.gamermarkt.com/blog/?p=8175",
+          "accessed": "2026-11-22"
+        }
+      ],
+      "editorialNote": "Число звёзд по рангам совпадает с калькулятором BOOST MLBB. Оценка числа матчей — наш расчёт по той же модели, что в Telegram-боте. Данные о заказах — выполненные заказы бота с ноября 2025 года.",
+      "translations": {
+        "en": {
+          "title": "Mobile Legends ranks in order: all tiers, stars and Mythic",
+          "seoTitle": "MLBB ranks in order: all tiers and stars",
+          "description": "All 10 Mobile Legends ranks from Warrior to Mythical Immortal: divisions and stars in each, Mythic thresholds, placement matches and star protection.",
+          "excerpt": "A table of every MLBB rank in order, how many stars it takes to reach Mythic, how Mythic ranks work, placement and star protection.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Ranks",
+            "Mythic",
+            "Stars",
+            "Placement"
+          ],
+          "hero": {
+            "alt": "A staircase of ten floating crystal platforms, each higher and brighter than the last, with an emerald crystal on top",
+            "caption": "Boost MLBB illustration for the ranks guide."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In short",
+              "items": [
+                "Mobile Legends has 10 ranks: Warrior, Elite, Master, Grandmaster, Epic, Legend, Mythic, Mythical Honor, Mythical Glory and Mythical Immortal.",
+                "You need 112 stars to reach Mythic, most of them in Grandmaster, Epic and Legend — 25 each.",
+                "Mythic has no divisions: Honor starts at 25 stars, Glory at 50 and Immortal at 100.",
+                "The first 10 Mythic matches are placement: a win gives two stars and a loss removes none."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The MLBB ranked ladder has two parts. The first six ranks are split into divisions, from III or V down to I, with 3–5 stars each. A win adds a star, a loss removes one, and when a division is full the next win moves you up. Mythic starts the second part: stars simply add up, and the rank name changes at 25, 50 and 100 stars."
+            },
+            {
+              "type": "heading",
+              "id": "order",
+              "text": "All ranks in order"
+            },
+            {
+              "type": "table",
+              "caption": "Mobile Legends ranks from lowest to highest",
+              "headers": [
+                "Rank",
+                "Divisions and stars",
+                "Stars from the start"
+              ],
+              "rows": [
+                [
+                  "1. Warrior",
+                  "III–I, 3 stars each",
+                  "9"
+                ],
+                [
+                  "2. Elite",
+                  "III–I, 4 stars each",
+                  "21"
+                ],
+                [
+                  "3. Master",
+                  "IV–I, 4 stars each",
+                  "37"
+                ],
+                [
+                  "4. Grandmaster",
+                  "V–I, 5 stars each",
+                  "62"
+                ],
+                [
+                  "5. Epic",
+                  "V–I, 5 stars each",
+                  "87"
+                ],
+                [
+                  "6. Legend",
+                  "V–I, 5 stars each",
+                  "112"
+                ],
+                [
+                  "7. Mythic",
+                  "none, 0–24 stars",
+                  "—"
+                ],
+                [
+                  "8. Mythical Honor",
+                  "none, 25–49 stars",
+                  "—"
+                ],
+                [
+                  "9. Mythical Glory",
+                  "none, 50–99 stars",
+                  "—"
+                ],
+                [
+                  "10. Mythical Immortal",
+                  "none, from 100 stars",
+                  "—"
+                ]
+              ],
+              "note": "The star count matches the BOOST MLBB calculator and third-party reference tables. Mythic ranks count stars inside Mythic."
+            },
+            {
+              "type": "paragraph",
+              "text": "The first ranks are the shortest: Warrior takes 9 stars and Elite 12. The real work starts in Grandmaster: three ranks in a row with 25 stars each, and that is where new players most often get stuck."
+            },
+            {
+              "type": "heading",
+              "id": "mythic",
+              "text": "Mythic ranks and placement"
+            },
+            {
+              "type": "paragraph",
+              "text": "After Legend I the next win takes you to Mythic. Placement starts here: 10 matches where every win gives two stars and a loss takes none. Placement can add up to 10 stars. After that stars again change by one per win or loss."
+            },
+            {
+              "type": "table",
+              "caption": "Mythic rank thresholds",
+              "headers": [
+                "Rank",
+                "Stars",
+                "What changes"
+              ],
+              "rows": [
+                [
+                  "Mythic",
+                  "0–24",
+                  "Placement in the first 10 matches"
+                ],
+                [
+                  "Mythical Honor",
+                  "25–49",
+                  "New name and frame"
+                ],
+                [
+                  "Mythical Glory",
+                  "50–99",
+                  "New name and frame"
+                ],
+                [
+                  "Mythical Immortal",
+                  "100 and up",
+                  "Stars add up with no cap"
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "label": "Where our customers play",
+              "text": "Out of 2,289 orders BOOST MLBB has completed since November 2025, 569 were stars inside Mythical Immortal and 343 inside Mythical Glory. The most common route between ranks is Glory to Immortal: 179 orders."
+            },
+            {
+              "type": "heading",
+              "id": "stars",
+              "text": "How stars are gained and lost"
+            },
+            {
+              "type": "list",
+              "items": [
+                "A ranked win adds one star and a loss removes one.",
+                "The star protection bar fills up when you play well. When it is full, your next loss does not cost a star.",
+                "In Epic and Legend good matches also build star raising points: when the bar fills, you get an extra star.",
+                "In Mythic placement a win gives two stars, and a loss uses a match but removes no stars."
+              ]
+            },
+            {
+              "type": "cta",
+              "id": "ranks-route-price",
+              "eyebrow": "Stuck on the way to Mythic",
+              "title": "Check the boost price to your rank",
+              "text": "Choose your current rank and goal — the calculator shows the price.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-stars"
+            },
+            {
+              "type": "heading",
+              "id": "matches",
+              "text": "How many matches it takes to reach Mythic"
+            },
+            {
+              "type": "paragraph",
+              "text": "Win rate decides everything. At 50% wins your stars barely move: losses cancel the wins, and only star protection pushes you forward. Every extra five percent of wins cuts the road several times. We estimated the number of matches including star protection and placement."
+            },
+            {
+              "type": "table",
+              "caption": "Approximate matches at different win rates",
+              "headers": [
+                "Route",
+                "Stars",
+                "52% wins",
+                "55% wins",
+                "60% wins"
+              ],
+              "rows": [
+                [
+                  "Epic V → Mythic",
+                  "50",
+                  "about 350",
+                  "about 250",
+                  "about 170"
+                ],
+                [
+                  "Legend V → Mythic",
+                  "25",
+                  "about 180",
+                  "about 130",
+                  "about 90"
+                ],
+                [
+                  "Mythical Honor → Mythical Glory",
+                  "25",
+                  "about 210",
+                  "about 140",
+                  "about 90"
+                ],
+                [
+                  "Mythical Glory → Mythical Immortal",
+                  "50",
+                  "about 420",
+                  "about 290",
+                  "about 190"
+                ]
+              ],
+              "note": "Assumptions: star protection triggers about once in six losses, and star raising points give a star every 35–50 matches. This is an estimate, not a game rule."
+            },
+            {
+              "type": "heading",
+              "id": "reset",
+              "text": "What happens to your rank at season end"
+            },
+            {
+              "type": "paragraph",
+              "text": "A season lasts about three months. At the end your rank drops: Mythical Immortal and Mythical Glory start the new season in Legend V, Mythical Honor in Epic I and Mythic in Epic II. Rewards follow the highest rank you reached that season. We covered the expected end of Season 42 and the full reset chart in a separate guide."
+            }
+          ],
+          "editorialNote": "The star count per rank matches the BOOST MLBB calculator. The match estimate is our own calculation with the same model as the Telegram bot. Order data comes from completed bot orders since November 2025."
+        }
+      }
+    },
+    {
+      "slug": "mlbb-season-end-rank-reset",
+      "status": "published",
+      "title": "Когда закончится 42 сезон MLBB и куда упадёт ранг после сброса",
+      "seoTitle": "Конец 42 сезона MLBB: дата и сброс ранга",
+      "description": "42 сезон Mobile Legends ожидаемо закончится 16 декабря 2026 года. Таблица сброса: Бессмертный и Слава падают в Легенду V, Честь — в Эпик I, Мифик — в Эпик II.",
+      "excerpt": "Ожидаемая дата конца 42 сезона, таблица сброса рангов, сезонные награды и что происходит с заказами в первые дни нового сезона.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Mobile Legends",
+        "Сезон 42",
+        "Сброс ранга",
+        "Ранги",
+        "Мифик"
+      ],
+      "datePublished": "2026-11-22T13:44:00+03:00",
+      "dateModified": "2026-11-22T13:54:09+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-season-end-rank-reset.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-season-end-rank-reset-768.webp 768w, /images/news/mlbb-season-end-rank-reset-1200.webp 1200w, /images/news/mlbb-season-end-rank-reset-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Светящиеся изумрудные песочные часы в тёмной арене: кристаллические ступени внутри опускаются вниз",
+        "caption": "Иллюстрация Boost MLBB к материалу о конце сезона.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen via Codex",
+          "created": "2026-11-22",
+          "rights": "Оригинальная иллюстрация создана для Boost MLBB; без персонажей, логотипов, эмблем рангов и интерфейса Mobile Legends.",
+          "prompt": "Original 16:9 premium esports editorial hero, text-free: a tall luminous emerald hourglass centred in a dark arena, its upper bulb holding stacked glowing faceted crystal tiers, a thin stream of light particles falling to smaller dimmer tiers in the lower bulb; deep navy and near-black palette, restrained cyan edge light, quiet dark edges; no characters, logos, rank emblems, UI or text."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Ожидаемый конец 42 сезона — 16 декабря 2026 года. Moonton заранее дату не объявлял, её считают по длине прошлых сезонов.",
+            "При сбросе Мифический бессмертный и Мифическая слава опускаются в Легенду V, Мифическая честь — в Эпик I, Мифик — в Эпик II.",
+            "Сезонные награды выдают по самому высокому рангу за сезон, а не по рангу в последний день.",
+            "Чтобы получить сезонный облик, нужно сыграть 20 рейтинговых матчей."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "42 сезон начался 16 сентября 2026 года, в день выхода обновления 2.2.16. Последние сезоны длились около 91 дня, поэтому конец ждут 16 декабря, и тогда же должен открыться 43 сезон. Это расчёт по прошлым сезонам: официальной даты пока нет. Точнее всего срок показывает сама игра — в режиме рейтинга есть таймер, сколько дней осталось до конца сезона."
+        },
+        {
+          "type": "heading",
+          "id": "date",
+          "text": "Когда закончится 42 сезон"
+        },
+        {
+          "type": "table",
+          "caption": "Что известно о сроках 42 и 43 сезонов на 22 ноября 2026 года",
+          "headers": [
+            "Событие",
+            "Дата",
+            "Откуда известно"
+          ],
+          "rows": [
+            [
+              "Начало 42 сезона",
+              "16 сентября 2026",
+              "Вышло вместе с обновлением 2.2.16"
+            ],
+            [
+              "Ожидаемый конец 42 сезона",
+              "16 декабря 2026",
+              "Оценка трекеров MLBB Hub и GGSeason"
+            ],
+            [
+              "Ожидаемое начало 43 сезона",
+              "16 декабря 2026",
+              "Та же оценка: новый сезон открывается сразу после старого"
+            ],
+            [
+              "Обычная длина сезона",
+              "около 91 дня",
+              "Средняя длина последних сезонов"
+            ]
+          ],
+          "note": "41 сезон длился 91 день. Если Moonton объявит другое время, мы обновим таблицу."
+        },
+        {
+          "type": "paragraph",
+          "text": "Сроки сдвигаются: 40 сезон шёл 98 дней, 39 сезон — 84 дня. Поэтому не стоит откладывать последние звёзды на 15 декабря. Если в игре таймер показывает другую дату, верьте таймеру."
+        },
+        {
+          "type": "heading",
+          "id": "reset",
+          "text": "Куда упадёт ранг после сброса"
+        },
+        {
+          "type": "table",
+          "caption": "Сброс ранга в начале нового сезона",
+          "headers": [
+            "Ранг в конце сезона",
+            "С чего начнёте новый сезон",
+            "Сколько звёзд до Мифика"
+          ],
+          "rows": [
+            [
+              "Мифический бессмертный (100+ звёзд)",
+              "Легенда V",
+              "25 и калибровка"
+            ],
+            [
+              "Мифическая слава (50–99 звёзд)",
+              "Легенда V",
+              "25 и калибровка"
+            ],
+            [
+              "Мифическая честь (25–49 звёзд)",
+              "Эпик I",
+              "около 30 и калибровка"
+            ],
+            [
+              "Мифик (0–24 звезды)",
+              "Эпик II",
+              "около 35 и калибровка"
+            ],
+            [
+              "Легенда IV–I",
+              "Эпик III",
+              "около 40"
+            ],
+            [
+              "Легенда V",
+              "Эпик IV",
+              "около 45"
+            ]
+          ],
+          "note": "Таблица MLBB Hub, сверенная на сбросе между 40 и 41 сезонами. Часть игроков сообщает о других значениях, поэтому точную позицию смотрите в уведомлении игры в начале сезона."
+        },
+        {
+          "type": "paragraph",
+          "text": "Самая большая потеря у Бессмертного и Славы: сотни звёзд превращаются в Легенду V. Путь обратно короче, чем кажется: 25 звёзд Легенды и калибровка Мифика, где в первых 10 матчах победа даёт две звезды. Ниже Легенды сброс мягче — Эпик опускается на один-два дивизиона, а Воин и Элита не опускаются."
+        },
+        {
+          "type": "heading",
+          "id": "rewards",
+          "text": "Какие награды дают за сезон"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Награду считают по самому высокому рангу, которого вы достигли за сезон. Если вы были в Мифике и опустились в Легенду, награда останется за Мифик.",
+            "Сезонный облик 42 сезона — Flamehide Thane для Попола и Купы. Для него нужно сыграть 20 рейтинговых матчей.",
+            "Очки боя и билеты дают на любом ранге, а их число растёт вместе с рангом."
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Что мы видим после каждого сброса",
+          "text": "Первая неделя нового сезона — самая загруженная. В неделю старта 42 сезона клиенты BOOST MLBB оформили 102 заказа против 30–40 в обычную летнюю неделю. После старта 41 сезона было так же: 67 заказов за неделю. Игроки хотят быстро вернуть ранг, а свободных бустеров в эти дни меньше."
+        },
+        {
+          "type": "cta",
+          "id": "season-reset-route",
+          "eyebrow": "Вернуть ранг после сброса",
+          "title": "Сколько стоит путь обратно в Мифик",
+          "text": "Укажите ранг после сброса и цель — калькулятор сразу покажет цену.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-rewards"
+        },
+        {
+          "type": "heading",
+          "id": "prepare",
+          "text": "Что сделать до конца сезона"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Откройте режим рейтинга и проверьте таймер: дата в игре точнее любых прогнозов.",
+            "Если до следующего ранга не хватает нескольких звёзд, доберите их до 15 декабря — награда считается по высшему рангу.",
+            "Доиграйте до 20 рейтинговых матчей, если ещё не набрали их и хотите сезонный облик.",
+            "Если после сброса собираетесь заказывать буст, оформите заказ в первый же день: дальше очередь растёт."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Как устроены звёзды, дивизионы и пороги Мифика, мы разобрали в отдельном материале о рангах Mobile Legends по порядку. Там же — сколько матчей обычно уходит на путь до Мифика при разном проценте побед."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mobile Legends: Bang Bang official website, updates section (Update 2.2.16)",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "MLBB Season 42 End Date, Rank Reset Chart & Season 43 Start (2026)",
+          "publisher": "MLBB Hub",
+          "url": "https://mlbbhub.com/server-time/season-schedule",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Mobile Legends S42 Ends Est. Dec 16",
+          "publisher": "GGSeason",
+          "url": "https://ggseason.com/mobilelegends/",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Mobile Legends Season End Date: When Season 42 Ends, When Season 43 Starts and How the Rank Reset Works",
+          "publisher": "Timesaver",
+          "url": "https://timesaver.gg/blog/mobile-legends-rank-reset-season-42",
+          "accessed": "2026-11-22"
+        }
+      ],
+      "editorialNote": "Дата конца сезона — оценка трекеров по длине прошлых сезонов. Обновим материал, когда Moonton объявит время, и после сброса сверим таблицу с игрой. Данные о заказах — из бота BOOST MLBB, выполненные заказы.",
+      "translations": {
+        "en": {
+          "title": "When MLBB Season 42 ends and where your rank drops after the reset",
+          "seoTitle": "MLBB Season 42 end date and rank reset chart",
+          "description": "Mobile Legends Season 42 is expected to end on 16 December 2026. Reset chart: Immortal and Glory drop to Legend V, Honor to Epic I and Mythic to Epic II.",
+          "excerpt": "The expected end of Season 42, the rank reset chart, season rewards and what happens to orders in the first days of a new season.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Season 42",
+            "Rank reset",
+            "Ranks",
+            "Mythic"
+          ],
+          "hero": {
+            "alt": "A glowing emerald hourglass in a dark arena with crystal steps sinking inside it",
+            "caption": "Boost MLBB illustration for the season end guide."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In short",
+              "items": [
+                "Season 42 is expected to end on 16 December 2026. Moonton has not announced the date in advance; it is estimated from past season lengths.",
+                "At the reset Mythical Immortal and Mythical Glory drop to Legend V, Mythical Honor to Epic I and Mythic to Epic II.",
+                "Season rewards follow the highest rank you reached during the season, not your rank on the last day.",
+                "To get the season skin you need to play 20 ranked matches."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Season 42 started on 16 September 2026, the day update 2.2.16 came out. Recent seasons lasted about 91 days, so the end is expected on 16 December, with Season 43 opening the same day. This is an estimate from past seasons: there is no official date yet. The game itself is the most accurate source — ranked mode shows a timer with the days left in the season."
+            },
+            {
+              "type": "heading",
+              "id": "date",
+              "text": "When Season 42 ends"
+            },
+            {
+              "type": "table",
+              "caption": "What is known about Season 42 and 43 timing as of 22 November 2026",
+              "headers": [
+                "Event",
+                "Date",
+                "Source"
+              ],
+              "rows": [
+                [
+                  "Season 42 start",
+                  "16 September 2026",
+                  "Released with update 2.2.16"
+                ],
+                [
+                  "Expected Season 42 end",
+                  "16 December 2026",
+                  "Estimate by the MLBB Hub and GGSeason trackers"
+                ],
+                [
+                  "Expected Season 43 start",
+                  "16 December 2026",
+                  "Same estimate: a new season opens right after the old one"
+                ],
+                [
+                  "Usual season length",
+                  "about 91 days",
+                  "Average length of recent seasons"
+                ]
+              ],
+              "note": "Season 41 lasted 91 days. If Moonton announces a different time, we will update the table."
+            },
+            {
+              "type": "paragraph",
+              "text": "Season length varies: Season 40 ran for 98 days and Season 39 for 84 days. Do not leave your last stars for 15 December. If the in-game timer shows a different date, trust the timer."
+            },
+            {
+              "type": "heading",
+              "id": "reset",
+              "text": "Where your rank drops after the reset"
+            },
+            {
+              "type": "table",
+              "caption": "Rank reset at the start of a new season",
+              "headers": [
+                "Rank at season end",
+                "Where the new season starts",
+                "Stars to Mythic"
+              ],
+              "rows": [
+                [
+                  "Mythical Immortal (100+ stars)",
+                  "Legend V",
+                  "25 plus placement"
+                ],
+                [
+                  "Mythical Glory (50–99 stars)",
+                  "Legend V",
+                  "25 plus placement"
+                ],
+                [
+                  "Mythical Honor (25–49 stars)",
+                  "Epic I",
+                  "about 30 plus placement"
+                ],
+                [
+                  "Mythic (0–24 stars)",
+                  "Epic II",
+                  "about 35 plus placement"
+                ],
+                [
+                  "Legend IV–I",
+                  "Epic III",
+                  "about 40"
+                ],
+                [
+                  "Legend V",
+                  "Epic IV",
+                  "about 45"
+                ]
+              ],
+              "note": "MLBB Hub chart, checked at the reset between Seasons 40 and 41. Some players report different results, so check the in-game notice at the start of the season for your exact position."
+            },
+            {
+              "type": "paragraph",
+              "text": "Immortal and Glory players lose the most: hundreds of stars turn into Legend V. The way back is shorter than it looks: 25 Legend stars and Mythic placement, where a win in the first 10 matches gives two stars. Below Legend the reset is softer — Epic drops one or two divisions, and Warrior and Elite do not drop."
+            },
+            {
+              "type": "heading",
+              "id": "rewards",
+              "text": "Which rewards a season gives"
+            },
+            {
+              "type": "list",
+              "items": [
+                "The reward follows the highest rank you reached during the season. If you were Mythic and fell back to Legend, you still get the Mythic reward.",
+                "The Season 42 skin is Flamehide Thane for Popol and Kupa. It requires 20 ranked matches.",
+                "Battle Points and tickets are given at every rank, and the amount grows with the rank."
+              ]
+            },
+            {
+              "type": "callout",
+              "label": "What we see after every reset",
+              "text": "The first week of a new season is the busiest. In the week Season 42 started, BOOST MLBB customers placed 102 orders against 30–40 in a normal summer week. Season 41 looked the same: 67 orders in its first week. Players want their rank back fast, and fewer boosters are free on those days."
+            },
+            {
+              "type": "cta",
+              "id": "season-reset-route",
+              "eyebrow": "Get your rank back",
+              "title": "What the road back to Mythic costs",
+              "text": "Enter your rank after the reset and your goal — the calculator shows the price.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-rewards"
+            },
+            {
+              "type": "heading",
+              "id": "prepare",
+              "text": "What to do before the season ends"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Open ranked mode and check the timer: the in-game date beats any forecast.",
+                "If you are a few stars short of the next rank, get them before 15 December — the reward follows your highest rank.",
+                "Finish 20 ranked matches if you have not yet and want the season skin.",
+                "If you plan a boost after the reset, order on the first day: the queue grows after that."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "How stars, divisions and Mythic thresholds work is covered in our separate guide to Mobile Legends ranks in order. It also shows how many matches the road to Mythic usually takes at different win rates."
+            }
+          ],
+          "editorialNote": "The season end date is a tracker estimate based on past season lengths. We will update this guide when Moonton announces the time and will check the table against the game after the reset. Order data comes from completed orders in the BOOST MLBB bot."
+        }
+      }
     }
   ]
 }

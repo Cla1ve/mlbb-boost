@@ -53,4 +53,4 @@ Message us on Telegram to discuss your question
 
 ## Rank guides
 
-[**Ranks in order**Stars, Mythic thresholds and match calculator](https://boostmlbb.ru/en/guides/mlbb-ranks.html)[**Mythic placement**How the 10 matches work](https://boostmlbb.ru/en/guides/mythic-placement.html)[**Party or account boost**Which format to choose](https://boostmlbb.ru/en/guides/party-boost.html)
+[**Ranks in order**Stars, Mythic thresholds, placement](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[**Season end and reset**When Season 42 ends](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[**Mythic placement**How the 10 matches work](https://boostmlbb.ru/en/guides/mythic-placement.html)
