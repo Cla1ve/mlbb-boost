@@ -6837,6 +6837,561 @@
           ]
         }
       }
+    },
+    {
+      "slug": "mlbb-rank-up-solo",
+      "status": "published",
+      "title": "Как поднять ранг в Mobile Legends соло: герои и математика звёзд",
+      "seoTitle": "Как поднять ранг в MLBB соло: герои и звёзды",
+      "description": "Сколько матчей нужно до Мифика при 50, 55 и 60% побед, лучшие герои для соло по линиям по статистике MOONTON и привычки, которые помогают набирать звёзды.",
+      "excerpt": "Считаем, сколько матчей стоит каждый процент побед, выбираем героев для соло на каждой линии и разбираем, кто силён в Эпике, а кто — в Мифической славе.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Mobile Legends",
+        "Ранги",
+        "Соло",
+        "Мифик",
+        "Герои"
+      ],
+      "datePublished": "2026-11-23T16:20:00+03:00",
+      "dateModified": "2026-11-23T16:20:00+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-rank-up-solo.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-rank-up-solo-768.webp 768w, /images/news/mlbb-rank-up-solo-1200.webp 1200w, /images/news/mlbb-rank-up-solo-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Путь из Легенды V в Мифик на 25 звёзд и пять героев для соло по линиям с процентом побед",
+        "caption": "Иллюстрация Boost MLBB. Иконки рангов и героев — MOONTON.",
+        "provenance": {
+          "type": "original",
+          "creator": "Boost MLBB",
+          "created": "2026-11-23",
+          "rights": "Original layout made by Boost MLBB; rank and hero icons are MOONTON game assets used for editorial illustration."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "При 50% побед звёзды в среднем стоят на месте: каждое поражение забирает то, что дала победа.",
+            "При 55% побед путь из Легенды V в Мифик (25 звёзд) занимает около 250 матчей, при 60% — около 125.",
+            "Лучшие герои для соло в Легенде и Мифике по статистике MOONTON за 30 дней: Минситтар, Линг, Валир, Ханаби и Рафаэль.",
+            "Белерик и Атлас выигрывают больше всех в Эпике, но к Мифической славе падают до 50%. Сабер и Москов, наоборот, сильнее наверху."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Подняться в рейтинге Мобайл Легендс в одиночку трудно не из-за «плохих тиммейтов», а из-за математики звёзд. Разберём, сколько матчей на самом деле стоит каждый процент побед, каких героев брать на каждой линии и какие привычки отнимают звёзды. Статистика героев — официальный рейтинг MOONTON за 30 дней на 23 ноября 2026 года."
+        },
+        {
+          "type": "heading",
+          "id": "math",
+          "text": "Сколько матчей нужно на 25 звёзд"
+        },
+        {
+          "type": "paragraph",
+          "text": "Победа даёт звезду, поражение её забирает. Значит, в среднем за матч вы получаете долю побед минус долю поражений. При 55% это 0,1 звезды за игру, и 25 звёзд Легенды превращаются примерно в 250 матчей. Расчёт грубый: защита звезды и очки повышения в Эпике и Легенде немного ускоряют путь, но порядок цифр он передаёт верно."
+        },
+        {
+          "type": "table",
+          "caption": "Легенда V → Мифик: 25 звёзд при разной доле побед",
+          "headers": [
+            "Доля побед",
+            "Звёзд за матч в среднем",
+            "Матчей до Мифика"
+          ],
+          "rows": [
+            [
+              "50%",
+              "0",
+              "Ранг стоит на месте"
+            ],
+            [
+              "52%",
+              "0,04",
+              "Около 625"
+            ],
+            [
+              "55%",
+              "0,1",
+              "Около 250"
+            ],
+            [
+              "60%",
+              "0,2",
+              "Около 125"
+            ]
+          ],
+          "note": "Без учёта защиты звезды и очков повышения."
+        },
+        {
+          "type": "paragraph",
+          "text": "Отсюда главный вывод: даже пара лишних процентов побед экономит сотни матчей. Поэтому важнее всего не количество игр за вечер, а то, на каких героях и в каком состоянии вы их играете."
+        },
+        {
+          "type": "heading",
+          "id": "heroes",
+          "text": "Какие герои лучше для соло"
+        },
+        {
+          "type": "paragraph",
+          "text": "Мы взяли героев, которых выбирают хотя бы в 0,6% матчей и банят реже чем в 25%, — то есть тех, кого реально получить в одиночной игре. Затем отсортировали их по проценту побед в Легенде и Мифике, где застревает большинство игроков."
+        },
+        {
+          "type": "table",
+          "caption": "Лучшие герои для соло по линиям",
+          "headers": [
+            "Линия",
+            "Герой",
+            "Победы в Легенде",
+            "Победы в Мифике"
+          ],
+          "rows": [
+            [
+              "Линия опыта",
+              "Минситтар",
+              "52,74%",
+              "52,65%"
+            ],
+            [
+              "Линия опыта",
+              "Сильвана",
+              "52,32%",
+              "52,04%"
+            ],
+            [
+              "Лес",
+              "Линг",
+              "53,76%",
+              "53,09%"
+            ],
+            [
+              "Средняя линия",
+              "Валир",
+              "54,28%",
+              "54,66%"
+            ],
+            [
+              "Средняя линия",
+              "Циклоп",
+              "52,13%",
+              "52,50%"
+            ],
+            [
+              "Линия золота",
+              "Ханаби",
+              "53,83%",
+              "53,10%"
+            ],
+            [
+              "Роум",
+              "Рафаэль",
+              "54,77%",
+              "55,26%"
+            ],
+            [
+              "Роум",
+              "Минотавр",
+              "54,96%",
+              "54,88%"
+            ]
+          ],
+          "note": "Официальный рейтинг MOONTON, 30 дней, данные на 23 ноября 2026 года."
+        },
+        {
+          "type": "paragraph",
+          "text": "Линия золота в этом месяце слабая: кроме Ханаби, ни один популярный стрелок не держит заметно больше 50% побед. В лесу похожая картина — Линг заметно впереди остальных. Если вы играете на этих линиях, выбор героя здесь важнее, чем где-либо ещё."
+        },
+        {
+          "type": "linkCard",
+          "label": "Обновляется каждый день",
+          "title": "Тир-лист MLBB: все 133 героя",
+          "description": "Процент побед по рангам, контрпики, роли и линии.",
+          "href": "https://boostmlbb.ru/heroes/"
+        },
+        {
+          "type": "heading",
+          "id": "by-rank",
+          "text": "Герой, сильный в Эпике, не обязательно силён в Славе"
+        },
+        {
+          "type": "paragraph",
+          "text": "У части героев процент побед заметно меняется с рангом. Простые в освоении танки побеждают внизу, а в Мифической славе против них уже умеют играть. С механически сложными героями обратная история."
+        },
+        {
+          "type": "table",
+          "caption": "Как меняется доля побед от Эпика к Мифической славе",
+          "headers": [
+            "Герой",
+            "Эпик",
+            "Мифическая слава"
+          ],
+          "rows": [
+            [
+              "Белерик",
+              "55,96%",
+              "50,01%"
+            ],
+            [
+              "Атлас",
+              "55,55%",
+              "49,84%"
+            ],
+            [
+              "Джонсон",
+              "52,61%",
+              "46,81%"
+            ],
+            [
+              "Сабер",
+              "48,42%",
+              "53,51%"
+            ],
+            [
+              "Москов",
+              "46,77%",
+              "51,31%"
+            ],
+            [
+              "Ксавьер",
+              "48,54%",
+              "52,66%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Если вы в Эпике или Легенде, Белерик и Атлас — надёжный способ набрать звёзды. Ближе к Чести стоит переходить на героев, которые не теряют силу наверху."
+        },
+        {
+          "type": "heading",
+          "id": "habits",
+          "text": "Что ещё помогает набрать звёзды"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Держите в пуле два-три героя одной роли и один запасной на соседнюю линию. На знакомом герое доля побед выше, чем на новом.",
+            "Учите контрпики своих героев: на странице каждого героя в нашем тир-листе есть пятёрка тех, против кого он проигрывает.",
+            "Останавливайтесь после двух поражений подряд. Серия на нервах обычно стоит больше звёзд, чем приносит.",
+            "Не тратьте ранговые матчи на эксперименты: новый герой сначала в классике.",
+            "В Эпике и Легенде играйте на результат: за хорошие матчи копятся очки повышения, а полная шкала защиты звезды спасает от минуса."
+          ]
+        },
+        {
+          "type": "cta",
+          "id": "solo-rank",
+          "eyebrow": "Нет времени на 250 матчей",
+          "title": "Узнайте цену буста до Мифика",
+          "text": "У наших бустеров отрезок Легенда V → Мифик занимает около 5 часов.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-habits"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Сколько матчей нужно, чтобы дойти до Мифика из Легенды?",
+              "a": "От Легенды V до Мифика 25 звёзд. При 55% побед это около 250 матчей, при 60% — около 125, без учёта защиты звезды и очков повышения."
+            },
+            {
+              "q": "Почему ранг не растёт, хотя я часто выигрываю?",
+              "a": "При 50% побед звёзды в среднем стоят на месте: победа даёт звезду, поражение её забирает. Расти начинаете только выше 50%, и каждый процент сильно сокращает путь."
+            },
+            {
+              "q": "Каких героев брать для соло в MLBB?",
+              "a": "По статистике MOONTON за 30 дней в Легенде и Мифике лучше всех среди доступных героев выступают Минситтар на линии опыта, Линг в лесу, Валир в центре, Ханаби на линии золота и Рафаэль в роуме."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Рейтинг героев Mobile Legends",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/rank",
+          "accessed": "2026-11-23"
+        },
+        {
+          "title": "Герои Mobile Legends: роли и линии",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/hero",
+          "accessed": "2026-11-23"
+        }
+      ],
+      "editorialNote": "Проценты побед по рангам взяты 23 ноября 2026 года из официального рейтинга MOONTON за 30 дней. Число матчей посчитано по правилу «звезда за победу, минус звезда за поражение» без защиты звезды и очков повышения. Время на отрезке Легенда V → Мифик — медиана выполненных заказов BOOST MLBB.",
+      "translations": {
+        "en": {
+          "title": "How to rank up solo in Mobile Legends: heroes and star maths",
+          "seoTitle": "How to rank up solo in MLBB: heroes and stars",
+          "description": "How many matches Mythic takes at 50, 55 and 60% wins, the best solo heroes by lane from MOONTON statistics and habits that help you collect stars.",
+          "excerpt": "We work out how many matches each percent of wins costs, pick solo heroes for every lane and see who is strong in Epic and who in Mythical Glory.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Ranks",
+            "Solo",
+            "Mythic",
+            "Heroes"
+          ],
+          "hero": {
+            "alt": "The road from Legend V to Mythic for 25 stars and five solo heroes by lane with their win rates",
+            "caption": "Boost MLBB illustration. Rank and hero icons: MOONTON."
+          },
+          "editorialNote": "Win rates by rank were taken on 23 November 2026 from MOONTON’s official 30-day ranking. Match counts use “plus a star for a win, minus a star for a loss” without star protection or promotion points. The Legend V → Mythic time is the median of completed BOOST MLBB orders.",
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "At a 50% win rate your stars stand still on average: every loss takes back what a win gave.",
+                "At 55% wins the road from Legend V to Mythic (25 stars) takes about 250 matches, at 60% about 125.",
+                "The best solo heroes in Legend and Mythic by MOONTON’s 30-day statistics: Minsitthar, Ling, Valir, Hanabi and Rafaela.",
+                "Belerick and Atlas win the most in Epic but fall to 50% by Mythical Glory. Saber and Moskov are the opposite: stronger at the top."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Climbing Mobile Legends ranked alone is hard not because of “bad teammates” but because of star maths. Here is how many matches each percent of win rate really costs, which heroes to pick in each lane and which habits cost you stars. Hero statistics come from MOONTON’s official 30-day ranking as of 23 November 2026."
+            },
+            {
+              "type": "heading",
+              "id": "math",
+              "text": "How many matches 25 stars take"
+            },
+            {
+              "type": "paragraph",
+              "text": "A win gives a star and a loss takes one. So on average a match earns your win share minus your loss share. At 55% that is 0.1 stars per game, and the 25 Legend stars turn into roughly 250 matches. The estimate is rough: star protection and promotion points in Epic and Legend speed things up a little, but the order of magnitude is right."
+            },
+            {
+              "type": "table",
+              "caption": "Legend V → Mythic: 25 stars at different win rates",
+              "headers": [
+                "Win rate",
+                "Stars per match on average",
+                "Matches to Mythic"
+              ],
+              "rows": [
+                [
+                  "50%",
+                  "0",
+                  "Your rank stands still"
+                ],
+                [
+                  "52%",
+                  "0.04",
+                  "About 625"
+                ],
+                [
+                  "55%",
+                  "0.1",
+                  "About 250"
+                ],
+                [
+                  "60%",
+                  "0.2",
+                  "About 125"
+                ]
+              ],
+              "note": "Not counting star protection or promotion points."
+            },
+            {
+              "type": "paragraph",
+              "text": "The main takeaway: even a couple of extra percent of wins saves hundreds of matches. What matters most is not how many games you play in an evening but which heroes you play them on and in what state."
+            },
+            {
+              "type": "heading",
+              "id": "heroes",
+              "text": "Which heroes are best for solo queue"
+            },
+            {
+              "type": "paragraph",
+              "text": "We took heroes picked in at least 0.6% of matches and banned in less than 25% — the ones you can actually get in solo queue. Then we sorted them by win rate in Legend and Mythic, where most players get stuck."
+            },
+            {
+              "type": "table",
+              "caption": "Best solo heroes by lane",
+              "headers": [
+                "Lane",
+                "Hero",
+                "Wins in Legend",
+                "Wins in Mythic"
+              ],
+              "rows": [
+                [
+                  "EXP Lane",
+                  "Minsitthar",
+                  "52.74%",
+                  "52.65%"
+                ],
+                [
+                  "EXP Lane",
+                  "Silvanna",
+                  "52.32%",
+                  "52.04%"
+                ],
+                [
+                  "Jungle",
+                  "Ling",
+                  "53.76%",
+                  "53.09%"
+                ],
+                [
+                  "Mid Lane",
+                  "Valir",
+                  "54.28%",
+                  "54.66%"
+                ],
+                [
+                  "Mid Lane",
+                  "Cyclops",
+                  "52.13%",
+                  "52.50%"
+                ],
+                [
+                  "Gold Lane",
+                  "Hanabi",
+                  "53.83%",
+                  "53.10%"
+                ],
+                [
+                  "Roam",
+                  "Rafaela",
+                  "54.77%",
+                  "55.26%"
+                ],
+                [
+                  "Roam",
+                  "Minotaur",
+                  "54.96%",
+                  "54.88%"
+                ]
+              ],
+              "note": "Official MOONTON ranking, 30 days, data as of 23 November 2026."
+            },
+            {
+              "type": "paragraph",
+              "text": "Gold Lane is weak this month: apart from Hanabi, no popular marksman holds noticeably more than 50% wins. The jungle looks similar, with Ling clearly ahead of the rest. If you play these lanes, your hero choice matters more here than anywhere else."
+            },
+            {
+              "type": "linkCard",
+              "label": "Updated every day",
+              "title": "MLBB tier list: all 133 heroes",
+              "description": "Win rate by rank, counters, roles and lanes.",
+              "href": "https://boostmlbb.ru/heroes/"
+            },
+            {
+              "type": "heading",
+              "id": "by-rank",
+              "text": "A hero that is strong in Epic is not always strong in Glory"
+            },
+            {
+              "type": "paragraph",
+              "text": "Some heroes’ win rates change a lot with rank. Easy-to-learn tanks win at the bottom, while in Mythical Glory players already know how to play against them. Mechanically demanding heroes go the other way."
+            },
+            {
+              "type": "table",
+              "caption": "How win rate changes from Epic to Mythical Glory",
+              "headers": [
+                "Hero",
+                "Epic",
+                "Mythical Glory"
+              ],
+              "rows": [
+                [
+                  "Belerick",
+                  "55.96%",
+                  "50.01%"
+                ],
+                [
+                  "Atlas",
+                  "55.55%",
+                  "49.84%"
+                ],
+                [
+                  "Johnson",
+                  "52.61%",
+                  "46.81%"
+                ],
+                [
+                  "Saber",
+                  "48.42%",
+                  "53.51%"
+                ],
+                [
+                  "Moskov",
+                  "46.77%",
+                  "51.31%"
+                ],
+                [
+                  "Xavier",
+                  "48.54%",
+                  "52.66%"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In Epic or Legend, Belerick and Atlas are a reliable way to collect stars. Closer to Honor it is worth moving to heroes that keep their strength at the top."
+            },
+            {
+              "type": "heading",
+              "id": "habits",
+              "text": "What else helps you collect stars"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Keep two or three heroes of one role plus a backup for a neighbouring lane. Your win rate is higher on a familiar hero than on a new one.",
+                "Learn your heroes’ counters: every hero page in our tier list shows the five heroes they lose to.",
+                "Stop after two losses in a row. A tilted streak usually costs more stars than it brings.",
+                "Do not spend ranked games on experiments: try a new hero in Classic first.",
+                "In Epic and Legend play for performance: good matches build promotion points, and a full star protection bar saves you from a loss."
+              ]
+            },
+            {
+              "type": "cta",
+              "id": "solo-rank",
+              "eyebrow": "No time for 250 matches",
+              "title": "See the price of a boost to Mythic",
+              "text": "Our boosters cover Legend V → Mythic in about 5 hours.",
+              "button": "Calculate price",
+              "href": "/order.html?type=standard",
+              "note": "No payment, no commitment.",
+              "position": "after-habits"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "How many matches does it take to reach Mythic from Legend?",
+                  "a": "From Legend V to Mythic is 25 stars. At 55% wins that is about 250 matches, at 60% about 125, not counting star protection or promotion points."
+                },
+                {
+                  "q": "Why is my rank not going up even though I win often?",
+                  "a": "At 50% wins your stars stand still on average: a win gives a star and a loss takes it. You only climb above 50%, and every percent shortens the road a lot."
+                },
+                {
+                  "q": "Which heroes should I play for solo queue in MLBB?",
+                  "a": "By MOONTON’s 30-day statistics, the best available heroes in Legend and Mythic are Minsitthar in the EXP Lane, Ling in the jungle, Valir in mid, Hanabi in the Gold Lane and Rafaela at roam."
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ]
 }

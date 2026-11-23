@@ -833,6 +833,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/"/>
   </url>
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-rank-up-solo/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-rank-up-solo/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/mlbb-account-bind-recover/</loc>
     <lastmod>2026-11-23</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-account-bind-recover/"/>

@@ -6,7 +6,224 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:20:00 GMT</lastBuildDate>
+    <item>
+      <title>How to rank up solo in Mobile Legends: heroes and star maths</title>
+      <link>https://boostmlbb.ru/en/news/mlbb-rank-up-solo/</link>
+      <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-rank-up-solo/</guid>
+      <description>We work out how many matches each percent of wins costs, pick solo heroes for every lane and see who is strong in Epic and who in Mythical Glory.</description>
+      <dc:creator>Boost MLBB Editorial Team</dc:creator>
+      <category>Guides</category>
+      <pubDate>Mon, 23 Nov 2026 13:20:00 GMT</pubDate>
+      <yandex:genre>article</yandex:genre>
+      <yandex:full-text>In brief
+
+At a 50% win rate your stars stand still on average: every loss takes back what a win gave.
+
+At 55% wins the road from Legend V to Mythic (25 stars) takes about 250 matches, at 60% about 125.
+
+The best solo heroes in Legend and Mythic by MOONTON’s 30-day statistics: Minsitthar, Ling, Valir, Hanabi and Rafaela.
+
+Belerick and Atlas win the most in Epic but fall to 50% by Mythical Glory. Saber and Moskov are the opposite: stronger at the top.
+
+Climbing Mobile Legends ranked alone is hard not because of “bad teammates” but because of star maths. Here is how many matches each percent of win rate really costs, which heroes to pick in each lane and which habits cost you stars. Hero statistics come from MOONTON’s official 30-day ranking as of 23 November 2026.
+
+How many matches 25 stars take
+
+A win gives a star and a loss takes one. So on average a match earns your win share minus your loss share. At 55% that is 0.1 stars per game, and the 25 Legend stars turn into roughly 250 matches. The estimate is rough: star protection and promotion points in Epic and Legend speed things up a little, but the order of magnitude is right.
+
+Legend V → Mythic: 25 stars at different win rates
+
+Not counting star protection or promotion points.
+
+Win rate
+
+Stars per match on average
+
+Matches to Mythic
+
+50%
+
+0
+
+Your rank stands still
+
+52%
+
+0.04
+
+About 625
+
+55%
+
+0.1
+
+About 250
+
+60%
+
+0.2
+
+About 125
+
+The main takeaway: even a couple of extra percent of wins saves hundreds of matches. What matters most is not how many games you play in an evening but which heroes you play them on and in what state.
+
+Which heroes are best for solo queue
+
+We took heroes picked in at least 0.6% of matches and banned in less than 25% — the ones you can actually get in solo queue. Then we sorted them by win rate in Legend and Mythic, where most players get stuck.
+
+Best solo heroes by lane
+
+Official MOONTON ranking, 30 days, data as of 23 November 2026.
+
+Lane
+
+Hero
+
+Wins in Legend
+
+Wins in Mythic
+
+EXP Lane
+
+Minsitthar
+
+52.74%
+
+52.65%
+
+EXP Lane
+
+Silvanna
+
+52.32%
+
+52.04%
+
+Jungle
+
+Ling
+
+53.76%
+
+53.09%
+
+Mid Lane
+
+Valir
+
+54.28%
+
+54.66%
+
+Mid Lane
+
+Cyclops
+
+52.13%
+
+52.50%
+
+Gold Lane
+
+Hanabi
+
+53.83%
+
+53.10%
+
+Roam
+
+Rafaela
+
+54.77%
+
+55.26%
+
+Roam
+
+Minotaur
+
+54.96%
+
+54.88%
+
+Gold Lane is weak this month: apart from Hanabi, no popular marksman holds noticeably more than 50% wins. The jungle looks similar, with Ling clearly ahead of the rest. If you play these lanes, your hero choice matters more here than anywhere else.
+
+MLBB tier list: all 133 heroes
+
+Updated every day
+
+Win rate by rank, counters, roles and lanes.
+
+A hero that is strong in Epic is not always strong in Glory
+
+Some heroes’ win rates change a lot with rank. Easy-to-learn tanks win at the bottom, while in Mythical Glory players already know how to play against them. Mechanically demanding heroes go the other way.
+
+How win rate changes from Epic to Mythical Glory
+
+Hero
+
+Epic
+
+Mythical Glory
+
+Belerick
+
+55.96%
+
+50.01%
+
+Atlas
+
+55.55%
+
+49.84%
+
+Johnson
+
+52.61%
+
+46.81%
+
+Saber
+
+48.42%
+
+53.51%
+
+Moskov
+
+46.77%
+
+51.31%
+
+Xavier
+
+48.54%
+
+52.66%
+
+In Epic or Legend, Belerick and Atlas are a reliable way to collect stars. Closer to Honor it is worth moving to heroes that keep their strength at the top.
+
+What else helps you collect stars
+
+Keep two or three heroes of one role plus a backup for a neighbouring lane. Your win rate is higher on a familiar hero than on a new one.
+
+Learn your heroes’ counters: every hero page in our tier list shows the five heroes they lose to.
+
+Stop after two losses in a row. A tilted streak usually costs more stars than it brings.
+
+Do not spend ranked games on experiments: try a new hero in Classic first.
+
+In Epic and Legend play for performance: good matches build promotion points, and a full star protection bar saves you from a loss.
+
+Frequently asked questions</yandex:full-text>
+      <media:group>
+        <media:content url="https://boostmlbb.ru/images/news/mlbb-rank-up-solo.jpg" type="image/jpeg" medium="image" width="1600" height="900"/>
+        <media:thumbnail url="https://boostmlbb.ru/images/news/mlbb-rank-up-solo.jpg" width="1600" height="900"/>
+      </media:group>
+    </item>
     <item>
       <title>Mobile Legends account: how to bind, switch and recover it</title>
       <link>https://boostmlbb.ru/en/news/mlbb-account-bind-recover/</link>

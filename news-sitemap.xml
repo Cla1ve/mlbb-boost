@@ -4,6 +4,34 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-rank-up-solo/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T16:20:00+03:00</news:publication_date>
+      <news:title>Как поднять ранг в Mobile Legends соло: герои и математика звёзд</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-rank-up-solo/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-rank-up-solo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-rank-up-solo/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T16:20:00+03:00</news:publication_date>
+      <news:title>How to rank up solo in Mobile Legends: heroes and star maths</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/mlbb-account-bind-recover/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-account-bind-recover/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-account-bind-recover/"/>
