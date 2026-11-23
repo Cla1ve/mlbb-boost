@@ -217,6 +217,34 @@ A hero leaderboard place for a server or country is not guaranteed: hero rating 
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
+C
+
+Booster
+
+Chenger
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифический бессмертный, 121⭐
+
+TargetМифический бессмертный, 126⭐
+
+Топ беня 🫡🔥🦾
+
+HeroБенька
+
+Time2ч 49м после оплаты
+
+22 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2279)
+
 Я
 
 Booster
@@ -272,34 +300,6 @@ Time4ч 34м после оплаты
 19 November 2026
 
 [Open review](https://t.me/Cla1ve_boost/2272)
-
-Д
-
-Booster
-
-Дайтона
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-On a hero
-
-StartМифический бессмертный, 105⭐
-
-TargetМифический бессмертный, 155⭐
-
-Второй раз купил буст. Сделали ещё лучше, чем в первый, все поставленные задачи выполнены. Крутой бустер.
-
-HeroЛюнокс
-
-Time1д 10ч 35м после оплаты
-
-17 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2262)
 
 ## What your hero costs
 

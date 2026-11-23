@@ -33,7 +33,7 @@ Total**6,250 ₽**
 
 **about 6 h**median Mythic order
 
-**1,312**reviews on Telegram
+**1,313**reviews on Telegram
 
 **120 ₽**per Mythic star
 
@@ -146,6 +146,34 @@ Account boost prices; time is the median of completed orders on that stretch.
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
+C
+
+Booster
+
+Chenger
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифический бессмертный, 121⭐
+
+TargetМифический бессмертный, 126⭐
+
+Топ беня 🫡🔥🦾
+
+HeroБенька
+
+Time2ч 49м после оплаты
+
+22 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2279)
+
 E
 
 Booster
@@ -199,34 +227,6 @@ Time1ч 31м после оплаты
 20 November 2026
 
 [Open review](https://t.me/Cla1ve_boost/2275)
-
-M
-
-Booster
-
-metaldemon
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-On a hero
-
-StartМифический бессмертный, 157⭐
-
-TargetМифический бессмертный, 168⭐
-
-Отличная работа, приятный и общительный бустер, доволен
-
-HeroХарли нолан
-
-Time4ч 34м после оплаты
-
-19 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2272)
 
 ## Price your route
 

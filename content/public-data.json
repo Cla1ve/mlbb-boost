@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-22T14:30:50.916Z",
+  "checkedAt": "2026-11-23T10:54:00.390Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,24 @@
     }
   ],
   "reviewStats": {
-    "count": 1312,
+    "count": 1313,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2350,
+      "rating": 5,
+      "text": "Топ беня 🫡🔥🦾",
+      "messageLink": "https://t.me/Cla1ve_boost/2279",
+      "boostType": "hero",
+      "rankFrom": "Мифический бессмертный, 121⭐",
+      "rankTo": "Мифический бессмертный, 126⭐",
+      "hero": "Бенька",
+      "duration": "2ч 49м после оплаты",
+      "booster": "Chenger",
+      "published": "2026-11-22"
+    },
     {
       "id": 2345,
       "rating": 5,
@@ -1053,19 +1066,6 @@
       "hero": null,
       "duration": "1ч 31м после оплаты",
       "booster": "Zwihsk",
-      "published": "2026-10-29"
-    },
-    {
-      "id": 2239,
-      "rating": 5,
-      "text": "Самый офигенный бустер",
-      "messageLink": "https://t.me/Cla1ve_boost/2129",
-      "boostType": "standard",
-      "rankFrom": "Мифический бессмертный, 230⭐",
-      "rankTo": "Мифический бессмертный, 240⭐",
-      "hero": null,
-      "duration": "1ч 58м после оплаты",
-      "booster": "Elleana",
       "published": "2026-10-29"
     }
   ]
