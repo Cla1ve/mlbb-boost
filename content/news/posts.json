@@ -5295,6 +5295,681 @@
           "editorialNote": "Steps and prices were checked on 22 November 2026 against guides by ONE Esports, aesthetic.name and Katadata. We found no official MOONTON help page on renaming or the card price, so check the price in the in-game shop."
         }
       }
+    },
+    {
+      "slug": "mlbb-new-heroes-2026",
+      "status": "published",
+      "title": "Новые герои MLBB 2026: кто вышел, переработки и что дальше",
+      "seoTitle": "Новые герои MLBB 2026: список по датам и статистика",
+      "description": "Все новые и переработанные герои Mobile Legends с 2025 года по датам: Хирара, Марсель, Сора, Маша и Бруно. Как они играют сейчас и когда ждать нового героя.",
+      "excerpt": "Хирара, Марсель, Сора и переработки Маши и Бруно: даты выхода по патч-нотам, процент побед и банов сейчас и что известно о следующем герое.",
+      "category": "Патчи",
+      "categoryKey": "patches",
+      "tags": [
+        "Mobile Legends",
+        "Новый герой",
+        "Хирара",
+        "Марсель",
+        "Переработки"
+      ],
+      "datePublished": "2026-11-22T23:21:00+03:00",
+      "dateModified": "2026-11-22T23:21:00+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-new-heroes-2026.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-new-heroes-2026-768.webp 768w, /images/news/mlbb-new-heroes-2026-1200.webp 1200w, /images/news/mlbb-new-heroes-2026-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Лента новых героев MLBB по датам: Цзэтянь, Обсидия, Сора, Марсель и Хирара с отметкой NEW",
+        "caption": "Иллюстрация Boost MLBB. Иконки героев — MOONTON.",
+        "provenance": {
+          "type": "original",
+          "creator": "Boost MLBB",
+          "created": "2026-11-22",
+          "rights": "Original layout made by Boost MLBB; hero icons are MOONTON game assets used for editorial illustration."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Последний новый герой — Хирара, убийца для леса. Она вышла 17 июня 2026 года с патчем 2.1.88.",
+            "С декабря 2025 года вышли три новых героя: Сора, Марсель и Хирара. Ещё четырёх переработали: Эйдору, Аулуса, Машу и Бруно.",
+            "Хирару банят в 68% матчей, это самый высокий процент банов среди всех 133 героев.",
+            "На 22 ноября MOONTON не анонсировал следующего героя. Последние официальные патч-ноты — 2.2.16 от 16 сентября."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Новый герой в Mobile Legends выходит вместе с крупным патчем, и первые недели его либо банят, либо берут в каждой второй игре. Мы собрали всех новых и переработанных героев за последние полтора года, проверили даты по официальным патч-нотам и посмотрели, как они играют сейчас по статистике MOONTON."
+        },
+        {
+          "type": "heading",
+          "id": "timeline",
+          "text": "Новые герои и переработки по датам"
+        },
+        {
+          "type": "table",
+          "caption": "Новые и переработанные герои MLBB с июня 2025 года",
+          "headers": [
+            "Дата",
+            "Герой",
+            "Роль",
+            "Что вышло"
+          ],
+          "rows": [
+            [
+              "17 июня 2026",
+              "Хирара",
+              "Убийца, лес",
+              "Новый герой"
+            ],
+            [
+              "16 сентября 2026",
+              "Маша и Бруно",
+              "Боец и стрелок",
+              "Переработка"
+            ],
+            [
+              "21 апреля 2026",
+              "Аулус",
+              "Боец",
+              "Переработка"
+            ],
+            [
+              "11 марта 2026",
+              "Марсель",
+              "Поддержка, роум",
+              "Новый герой"
+            ],
+            [
+              "28 января 2026",
+              "Эйдора",
+              "Маг",
+              "Переработка"
+            ],
+            [
+              "18 декабря 2025",
+              "Сора",
+              "Боец, линия опыта",
+              "Новый герой"
+            ],
+            [
+              "4 ноября 2025",
+              "Фрейя",
+              "Боец",
+              "Переработка"
+            ],
+            [
+              "17 сентября 2025",
+              "Обсидия и Алиса",
+              "Стрелок и танк-маг",
+              "Новый герой и переработка"
+            ],
+            [
+              "18 июня 2025",
+              "Цзэтянь",
+              "Маг, центр",
+              "Новый герой"
+            ]
+          ],
+          "note": "Порядок от новых к старым. Даты и роли сверены с официальными патч-нотами MOONTON и MLBB Wiki."
+        },
+        {
+          "type": "paragraph",
+          "text": "Последний патч с переработкой вышел к десятилетию игры: в 2.2.16 обновили Машу и Бруно, а ещё шести героям перерисовали внешний вид. Новых героев в этом патче не было."
+        },
+        {
+          "type": "heading",
+          "id": "now",
+          "text": "Как новые герои играют сейчас"
+        },
+        {
+          "type": "paragraph",
+          "text": "Цифры ниже — официальная статистика MOONTON за последние 30 дней по всем рангам. Нажмите на иконку, чтобы открыть страницу героя с контрпиками."
+        },
+        {
+          "type": "heroTiers",
+          "id": "now-tiers",
+          "caption": "Новые и переработанные герои по тирам: процент побед за 30 дней",
+          "tiers": [
+            {
+              "tier": "S",
+              "label": "от 53%",
+              "heroes": [
+                {
+                  "name": "Маша",
+                  "icon": "/images/heroes/masha.webp",
+                  "value": "60,47%",
+                  "href": "/heroes/masha.html"
+                },
+                {
+                  "name": "Марсель",
+                  "icon": "/images/heroes/marcel.webp",
+                  "value": "57,49%",
+                  "href": "/heroes/marcel.html"
+                },
+                {
+                  "name": "Бруно",
+                  "icon": "/images/heroes/bruno.webp",
+                  "value": "53,76%",
+                  "href": "/heroes/bruno.html"
+                },
+                {
+                  "name": "Аулус",
+                  "icon": "/images/heroes/aulus.webp",
+                  "value": "53,48%",
+                  "href": "/heroes/aulus.html"
+                },
+                {
+                  "name": "Обсидия",
+                  "icon": "/images/heroes/obsidia.webp",
+                  "value": "53,22%",
+                  "href": "/heroes/obsidia.html"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "label": "ниже 51%",
+              "heroes": [
+                {
+                  "name": "Цзэтянь",
+                  "icon": "/images/heroes/zetian.webp",
+                  "value": "50,89%",
+                  "href": "/heroes/zetian.html"
+                },
+                {
+                  "name": "Алиса",
+                  "icon": "/images/heroes/alice.webp",
+                  "value": "50,73%",
+                  "href": "/heroes/alice.html"
+                },
+                {
+                  "name": "Эйдора",
+                  "icon": "/images/heroes/eudora.webp",
+                  "value": "50,37%",
+                  "href": "/heroes/eudora.html"
+                },
+                {
+                  "name": "Хирара",
+                  "icon": "/images/heroes/hirara.webp",
+                  "value": "50,03%",
+                  "href": "/heroes/hirara.html"
+                },
+                {
+                  "name": "Сора",
+                  "icon": "/images/heroes/sora.webp",
+                  "value": "49,49%",
+                  "href": "/heroes/sora.html"
+                },
+                {
+                  "name": "Фрейя",
+                  "icon": "/images/heroes/freya.webp",
+                  "value": "49,23%",
+                  "href": "/heroes/freya.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Новые и переработанные герои в статистике MOONTON",
+          "headers": [
+            "Герой",
+            "Тир",
+            "Победы",
+            "Баны"
+          ],
+          "rows": [
+            [
+              "Хирара",
+              "B",
+              "50,03%",
+              "68,00%"
+            ],
+            [
+              "Марсель",
+              "S",
+              "57,49%",
+              "41,06%"
+            ],
+            [
+              "Сора",
+              "B",
+              "49,49%",
+              "4,27%"
+            ],
+            [
+              "Обсидия",
+              "S",
+              "53,22%",
+              "47,79%"
+            ],
+            [
+              "Цзэтянь",
+              "B",
+              "50,89%",
+              "4,64%"
+            ],
+            [
+              "Маша",
+              "S",
+              "60,47%",
+              "40,76%"
+            ],
+            [
+              "Бруно",
+              "S",
+              "53,76%",
+              "0,28%"
+            ],
+            [
+              "Аулус",
+              "S",
+              "53,48%",
+              "31,27%"
+            ],
+            [
+              "Эйдора",
+              "B",
+              "50,37%",
+              "48,34%"
+            ],
+            [
+              "Фрейя",
+              "B",
+              "49,23%",
+              "4,48%"
+            ],
+            [
+              "Алиса",
+              "B",
+              "50,73%",
+              "12,56%"
+            ]
+          ],
+          "note": "Тир — наша оценка по проценту побед: S от 53%, A от 51%, B ниже. Данные на 21 ноября 2026 года."
+        },
+        {
+          "type": "paragraph",
+          "text": "Переработки удались лучше новинок. Маша после обновления выигрывает 60,47% матчей и стоит первой среди всех героев, Бруно и Аулус тоже в тире S. Из новых героев выделяется Марсель: 57,49% побед и второе место в общем списке, хотя берут его редко."
+        },
+        {
+          "type": "callout",
+          "label": "Почему Хирару банят, хотя она выигрывает 50%",
+          "text": "Процент побед у Хирары средний, но её убирают на драфте в 68% матчей. Так обычно ведут себя с героями, против которых неудобно играть: лесной убийца быстро забирает слабые цели, и многие предпочитают не проверять, умеет ли соперник на нём играть."
+        },
+        {
+          "type": "cta",
+          "id": "new-heroes-rank",
+          "eyebrow": "Ранг на новом герое",
+          "title": "Узнайте цену буста до своей цели",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-now"
+        },
+        {
+          "type": "heading",
+          "id": "next",
+          "text": "Когда выйдет новый герой"
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2025 и 2026 годах новые герои выходили примерно раз в три месяца: в июне, сентябре и декабре 2025 года, затем в марте и июне 2026 года. После Хирары новых героев не было уже пять месяцев. Официального анонса на 22 ноября нет, поэтому называть имя и дату мы не будем: слухи о новых героях часто не подтверждаются."
+        },
+        {
+          "type": "paragraph",
+          "text": "Как только MOONTON опубликует патч-ноты с новым героем, мы обновим эту статью и таблицы. Следить за анонсами удобнее всего в разделе Patch на официальном сайте игры."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mobile Legends: Bang Bang — News, Patch section (2.2.16 and 2.1.88 patch notes)",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/news",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Mobile Legends: Bang Bang — Hero Rank (official statistics, past 30 days)",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/rank",
+          "accessed": "2026-11-22"
+        },
+        {
+          "title": "Patch notes",
+          "publisher": "Mobile Legends: Bang Bang Wiki (Fandom)",
+          "url": "https://mobile-legends.fandom.com/wiki/Patch_notes",
+          "accessed": "2026-11-22"
+        }
+      ],
+      "editorialNote": "Даты выхода сверены 22 ноября 2026 года с официальными патч-нотами MOONTON и MLBB Wiki, статистика — официальная, за 30 дней по всем рангам на 21 ноября 2026 года.",
+      "translations": {
+        "en": {
+          "title": "New MLBB heroes 2026: releases, revamps and what comes next",
+          "seoTitle": "New MLBB heroes 2026: list by date and statistics",
+          "description": "Every new and revamped Mobile Legends hero since 2025 by date: Hirara, Marcel, Sora, Masha and Bruno. How they perform now and when to expect the next hero.",
+          "excerpt": "Hirara, Marcel, Sora and the Masha and Bruno revamps: release dates from patch notes, current win and ban rates and what is known about the next hero.",
+          "category": "Patches",
+          "tags": [
+            "Mobile Legends",
+            "New hero",
+            "Hirara",
+            "Marcel",
+            "Revamps"
+          ],
+          "hero": {
+            "alt": "Timeline of new MLBB heroes by date: Zetian, Obsidia, Sora, Marcel and Hirara marked NEW",
+            "caption": "Boost MLBB illustration. Hero icons: MOONTON."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "The latest new hero is Hirara, a jungle assassin. She was released on 17 June 2026 with patch 2.1.88.",
+                "Since December 2025 three new heroes have come out: Sora, Marcel and Hirara. Four more were revamped: Eudora, Aulus, Masha and Bruno.",
+                "Hirara is banned in 68% of matches, the highest ban rate among all 133 heroes.",
+                "As of 22 November MOONTON has not announced the next hero. The latest official patch notes are 2.2.16 from 16 September."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A new Mobile Legends hero arrives with a major patch, and for the first weeks it is either banned or picked in every other game. We collected every new and revamped hero from the last year and a half, checked the dates against the official patch notes and looked at how they perform now in MOONTON statistics."
+            },
+            {
+              "type": "heading",
+              "id": "timeline",
+              "text": "New heroes and revamps by date"
+            },
+            {
+              "type": "table",
+              "caption": "New and revamped MLBB heroes since June 2025",
+              "headers": [
+                "Date",
+                "Hero",
+                "Role",
+                "What came out"
+              ],
+              "rows": [
+                [
+                  "17 June 2026",
+                  "Hirara",
+                  "Assassin, jungle",
+                  "New hero"
+                ],
+                [
+                  "16 September 2026",
+                  "Masha and Bruno",
+                  "Fighter and marksman",
+                  "Revamp"
+                ],
+                [
+                  "21 April 2026",
+                  "Aulus",
+                  "Fighter",
+                  "Revamp"
+                ],
+                [
+                  "11 March 2026",
+                  "Marcel",
+                  "Support, roam",
+                  "New hero"
+                ],
+                [
+                  "28 January 2026",
+                  "Eudora",
+                  "Mage",
+                  "Revamp"
+                ],
+                [
+                  "18 December 2025",
+                  "Sora",
+                  "Fighter, EXP lane",
+                  "New hero"
+                ],
+                [
+                  "4 November 2025",
+                  "Freya",
+                  "Fighter",
+                  "Revamp"
+                ],
+                [
+                  "17 September 2025",
+                  "Obsidia and Alice",
+                  "Marksman and tank-mage",
+                  "New hero and revamp"
+                ],
+                [
+                  "18 June 2025",
+                  "Zetian",
+                  "Mage, mid lane",
+                  "New hero"
+                ]
+              ],
+              "note": "Newest first. Dates and roles were checked against official MOONTON patch notes and the MLBB Wiki."
+            },
+            {
+              "type": "paragraph",
+              "text": "The latest patch with a revamp came for the game's tenth anniversary: 2.2.16 updated Masha and Bruno and gave six more heroes new art. That patch had no new hero."
+            },
+            {
+              "type": "heading",
+              "id": "now",
+              "text": "How the new heroes perform now"
+            },
+            {
+              "type": "paragraph",
+              "text": "The figures below are official MOONTON statistics for the last 30 days across all ranks. Tap an icon to open the hero page with counters."
+            },
+            {
+              "type": "heroTiers",
+              "id": "now-tiers",
+              "caption": "New and revamped heroes by tier: win rate over 30 days",
+              "tiers": [
+                {
+                  "tier": "S",
+                  "label": "53% and up",
+                  "heroes": [
+                    {
+                      "name": "Masha",
+                      "icon": "/images/heroes/masha.webp",
+                      "value": "60.47%",
+                      "href": "/en/heroes/masha.html"
+                    },
+                    {
+                      "name": "Marcel",
+                      "icon": "/images/heroes/marcel.webp",
+                      "value": "57.49%",
+                      "href": "/en/heroes/marcel.html"
+                    },
+                    {
+                      "name": "Bruno",
+                      "icon": "/images/heroes/bruno.webp",
+                      "value": "53.76%",
+                      "href": "/en/heroes/bruno.html"
+                    },
+                    {
+                      "name": "Aulus",
+                      "icon": "/images/heroes/aulus.webp",
+                      "value": "53.48%",
+                      "href": "/en/heroes/aulus.html"
+                    },
+                    {
+                      "name": "Obsidia",
+                      "icon": "/images/heroes/obsidia.webp",
+                      "value": "53.22%",
+                      "href": "/en/heroes/obsidia.html"
+                    }
+                  ]
+                },
+                {
+                  "tier": "B",
+                  "label": "below 51%",
+                  "heroes": [
+                    {
+                      "name": "Zetian",
+                      "icon": "/images/heroes/zetian.webp",
+                      "value": "50.89%",
+                      "href": "/en/heroes/zetian.html"
+                    },
+                    {
+                      "name": "Alice",
+                      "icon": "/images/heroes/alice.webp",
+                      "value": "50.73%",
+                      "href": "/en/heroes/alice.html"
+                    },
+                    {
+                      "name": "Eudora",
+                      "icon": "/images/heroes/eudora.webp",
+                      "value": "50.37%",
+                      "href": "/en/heroes/eudora.html"
+                    },
+                    {
+                      "name": "Hirara",
+                      "icon": "/images/heroes/hirara.webp",
+                      "value": "50.03%",
+                      "href": "/en/heroes/hirara.html"
+                    },
+                    {
+                      "name": "Sora",
+                      "icon": "/images/heroes/sora.webp",
+                      "value": "49.49%",
+                      "href": "/en/heroes/sora.html"
+                    },
+                    {
+                      "name": "Freya",
+                      "icon": "/images/heroes/freya.webp",
+                      "value": "49.23%",
+                      "href": "/en/heroes/freya.html"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "caption": "New and revamped heroes in MOONTON statistics",
+              "headers": [
+                "Hero",
+                "Tier",
+                "Win rate",
+                "Ban rate"
+              ],
+              "rows": [
+                [
+                  "Hirara",
+                  "B",
+                  "50.03%",
+                  "68.00%"
+                ],
+                [
+                  "Marcel",
+                  "S",
+                  "57.49%",
+                  "41.06%"
+                ],
+                [
+                  "Sora",
+                  "B",
+                  "49.49%",
+                  "4.27%"
+                ],
+                [
+                  "Obsidia",
+                  "S",
+                  "53.22%",
+                  "47.79%"
+                ],
+                [
+                  "Zetian",
+                  "B",
+                  "50.89%",
+                  "4.64%"
+                ],
+                [
+                  "Masha",
+                  "S",
+                  "60.47%",
+                  "40.76%"
+                ],
+                [
+                  "Bruno",
+                  "S",
+                  "53.76%",
+                  "0.28%"
+                ],
+                [
+                  "Aulus",
+                  "S",
+                  "53.48%",
+                  "31.27%"
+                ],
+                [
+                  "Eudora",
+                  "B",
+                  "50.37%",
+                  "48.34%"
+                ],
+                [
+                  "Freya",
+                  "B",
+                  "49.23%",
+                  "4.48%"
+                ],
+                [
+                  "Alice",
+                  "B",
+                  "50.73%",
+                  "12.56%"
+                ]
+              ],
+              "note": "The tier is our grade by win rate: S from 53%, A from 51%, B below. Data as of 21 November 2026."
+            },
+            {
+              "type": "paragraph",
+              "text": "The revamps worked out better than the new releases. After her update Masha wins 60.47% of matches and ranks first among all heroes, and Bruno and Aulus are in S tier too. Among the new heroes Marcel stands out: 57.49% wins and second place overall, even though he is rarely picked."
+            },
+            {
+              "type": "callout",
+              "label": "Why Hirara is banned at a 50% win rate",
+              "text": "Hirara's win rate is average, yet she is removed in the draft in 68% of matches. That is how players usually treat heroes that are unpleasant to face: a jungle assassin picks off weak targets quickly, and many would rather not find out whether the opponent can play her."
+            },
+            {
+              "type": "cta",
+              "id": "new-heroes-rank",
+              "eyebrow": "Rank on a new hero",
+              "title": "Check the boost price to your goal",
+              "text": "Enter your current rank and goal — the calculator shows the price at once.",
+              "button": "Calculate the price",
+              "href": "/order.html?type=standard",
+              "note": "No payment or commitment.",
+              "position": "after-now"
+            },
+            {
+              "type": "heading",
+              "id": "next",
+              "text": "When the next new hero comes out"
+            },
+            {
+              "type": "paragraph",
+              "text": "In 2025 and 2026 new heroes arrived about once every three months: in June, September and December 2025, then in March and June 2026. Since Hirara there has been no new hero for five months. There is no official announcement as of 22 November, so we will not name a hero or a date: rumours about new heroes are often wrong."
+            },
+            {
+              "type": "paragraph",
+              "text": "As soon as MOONTON publishes patch notes with a new hero, we will update this article and its tables. The easiest place to follow announcements is the Patch section on the game's official site."
+            }
+          ],
+          "editorialNote": "Release dates were checked on 22 November 2026 against official MOONTON patch notes and the MLBB Wiki; statistics are official, 30 days across all ranks as of 21 November 2026."
+        }
+      }
     }
   ]
 }

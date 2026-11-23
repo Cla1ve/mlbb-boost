@@ -4,6 +4,34 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-new-heroes-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-new-heroes-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-new-heroes-2026/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T23:21:00+03:00</news:publication_date>
+      <news:title>Новые герои MLBB 2026: кто вышел, переработки и что дальше</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-new-heroes-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-new-heroes-2026/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T23:21:00+03:00</news:publication_date>
+      <news:title>New MLBB heroes 2026: releases, revamps and what comes next</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/mlbb-change-nickname/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-change-nickname/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-change-nickname/"/>

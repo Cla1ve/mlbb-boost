@@ -173,6 +173,22 @@
     {
       "source": "/en/heroes",
       "destination": "/en/heroes/index.html"
+    },
+    {
+      "source": "/news/mlbb-new-heroes-2026/",
+      "destination": "/news/mlbb-new-heroes-2026/index.html"
+    },
+    {
+      "source": "/news/mlbb-new-heroes-2026",
+      "destination": "/news/mlbb-new-heroes-2026/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-new-heroes-2026/",
+      "destination": "/en/news/mlbb-new-heroes-2026/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-new-heroes-2026",
+      "destination": "/en/news/mlbb-new-heroes-2026/index.html"
     }
   ]
 }
