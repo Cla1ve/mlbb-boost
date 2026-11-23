@@ -1419,6 +1419,7 @@ function renderCommonHead(locale = 'ru') {
   const config = localeConfig(locale);
   return `
   <meta name="yandex-verification" content="61a4cbd156a4f1eb">
+  <meta name="yandex-verification" content="374a165e11106f9d">
   <meta name="google-site-verification" content="uTSHJejcShYlE8SICFMGS7KNCuNChRwM5-QtvNomFuM">
   <script>
     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
