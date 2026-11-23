@@ -65,13 +65,13 @@
   <link rel="service-desc" href="/.well-known/agent-skills/index.json">
   <link rel="service-doc" href="/en/faq.html">
   <link rel="describedby" href="/en/about.html">
-  <link rel="stylesheet" href="/styles/main.css?v=3">
+  <link rel="preload" href="/fonts/golos-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=4">
-  <link rel="stylesheet" href="/styles/reader.css?v=1">
+  <link rel="stylesheet" href="/styles/arena.css?v=5">
+  <link rel="stylesheet" href="/styles/journal.css?v=1">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -254,7 +254,7 @@
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner"><nav class="arena-context" aria-label="Mobile Legends sections"><a href="/en/heroes/">Tier list</a><a href="/en/news/">News & guides</a></nav></div>
+        <div class="container article-header__inner"><nav class="arena-context" aria-label="Mobile Legends sections"><a href="/en/heroes/">Tier list</a><a href="/en/news/" aria-current="page">News & guides</a></nav></div>
         <div class="container journal-hero">
           <div class="journal-title">
             <p class="journal-meta"><a href="/en/news/?category=meta">Meta</a><time datetime="2026-11-23T16:29:00+03:00">November 23, 2026</time></p>
@@ -341,7 +341,7 @@
         <span>Updated every day</span>
         <strong>MLBB tier list: all 133 heroes</strong>
         <small>Win and ban rates by rank, counters, roles and lanes.</small>
-        <b aria-hidden="true">→</b>
+
       </a>
 <h2 id="hidden">Strong heroes almost nobody bans</h2>
 <p>The flip side of bans is the heroes the enemy leaves open. Valir wins 54.11% of matches but is banned in only 3.78%. Hanabi has 52.66% wins at 4.27% bans, Ling 52.54% at 0.62%. You can almost always pick them yourself.</p>
@@ -352,7 +352,6 @@
       </section>
 
       <aside class="rank-cta" aria-labelledby="ban-rank">
-        <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
         <div class="rank-cta__copy">
           <h2 id="ban-rank">See the price of a boost to your rank</h2>
           <span>Enter your rank and goal — the calculator shows the price right away.</span>
@@ -360,7 +359,6 @@
         <div class="rank-cta__action">
           <a href="/en/order.html?type=standard" data-news-cta data-cta-position="end-of-article">
             <span class="rank-cta__button-label">Calculate price</span>
-            <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
         </div>
       </aside>
@@ -449,6 +447,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=7"></script>
+  <script defer src="/js/news.js?v=8"></script>
 </body>
 </html>

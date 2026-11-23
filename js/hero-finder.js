@@ -1,4 +1,19 @@
 (() => {
+  const language = document.documentElement.lang;
+
+  // "Updated N days ago" from the data stamp; the server-rendered date stays if anything fails.
+  for (const node of document.querySelectorAll('time[data-ago]')) {
+    try {
+      const [y, m, d] = node.dateTime.split('-').map(Number);
+      const now = new Date();
+      const days = Math.round((Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) - Date.UTC(y, m - 1, d)) / 864e5);
+      if (days < 0 || days > 60) continue;
+      const relative = new Intl.RelativeTimeFormat(language, { numeric: 'auto' }).format(-days, 'day');
+      node.textContent = (language === 'en' ? 'Updated ' : 'Обновлено ') + relative;
+      node.title = new Intl.DateTimeFormat(language, { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(y, m - 1, d));
+    } catch { /* keep the date */ }
+  }
+
   const tools = document.querySelector('.atlas-tools');
   if (!tools) return;
   const query = tools.querySelector('input');
@@ -8,19 +23,16 @@
   const board = document.querySelector('.tier-board');
   const rows = [...board.querySelectorAll('.tier-row')];
   const switcher = document.querySelector('.tier-views');
-  const metricSwitch = document.querySelector('.tier-metric');
   const table = document.querySelector('.tier-stats');
   const empty = document.getElementById('hero-empty');
   const sortButtons = [...table.querySelectorAll('[data-hero-sort]')];
-  const language = document.documentElement.lang;
-  const percent = new Intl.NumberFormat(language, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-  const percent1 = new Intl.NumberFormat(language, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  const percent = new Intl.NumberFormat(language, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
   const collator = new Intl.Collator(language);
   const normalize = text => text.toLowerCase().replaceAll('ё', 'е').trim();
+  const columns = sortButtons.map(button => button.dataset.heroSort).filter(key => !['name', 'rank'].includes(key));
   const entries = [...board.querySelectorAll('.tile')].map(tile => ({
     tile, tier: tile.dataset.tier, ...tile.dataset,
-    names: normalize(tile.dataset.names), roles: tile.dataset.roles.split(' '), lanes: tile.dataset.lanes.split('|'),
-    value: tile.querySelector('.tile__value')
+    names: normalize(tile.dataset.names), lanes: tile.dataset.lanes.split('|')
   }));
   const state = new URLSearchParams(location.search);
   query.value = state.get('q') || '';
@@ -29,17 +41,16 @@
     if (filter.buttons.some(button => button.dataset.filterValue === value)) filter.value = value;
   }
   let view = state.get('view') === 'stats' ? 'stats' : 'tiers';
-  const metrics = ['none', 'ban', 'win', 'pick'];
-  let metric = metrics.includes(state.get('show')) ? state.get('show') : 'none';
   let sort = sortButtons.some(button => button.dataset.heroSort === state.get('sort')) ? state.get('sort') : 'rank';
   let ascending = state.has('dir') ? state.get('dir') === 'asc' : sort === 'rank';
 
   function updateUrl() {
     const url = new URL(location.href);
     const defaultDirection = sort === 'rank' || sort === 'name';
+    url.searchParams.delete('show');
     for (const [key, value] of Object.entries({
       q: query.value.trim(), ...Object.fromEntries(filters.map(filter => [filter.key, filter.value])),
-      view: view === 'stats' ? view : '', show: metric !== 'none' ? metric : '', sort: sort !== 'rank' ? sort : '',
+      view: view === 'stats' ? view : '', sort: sort !== 'rank' ? sort : '',
       dir: ascending !== defaultDirection ? (ascending ? 'asc' : 'desc') : ''
     })) {
       if (value) url.searchParams.set(key, value);
@@ -67,10 +78,10 @@
       hero.append(link);
       row.append(hero);
       row.insertCell().innerHTML = '<b class="grade" data-grade="' + entry.tier + '">' + entry.tier + '</b>';
-      for (const key of ['win', 'pick', 'ban']) {
+      for (const key of columns) {
         const cell = row.insertCell();
         cell.textContent = percent.format(Number(entry[key])) + '%';
-        if (key === 'ban') cell.className = 'is-ban';
+        cell.className = 'is-' + key;
       }
       fragment.append(row);
     }
@@ -90,19 +101,15 @@
       (!lane || entry.lanes.includes(lane))
     );
     const shown = new Set(matches.map(entry => entry.tile));
-    for (const entry of entries) {
-      entry.tile.hidden = !shown.has(entry.tile);
-      entry.value.hidden = metric === 'none';
-      if (metric !== 'none') entry.value.textContent = percent1.format(Number(entry[metric])) + '%';
+    for (const entry of entries) entry.tile.hidden = !shown.has(entry.tile);
+    for (const row of rows) {
+      const count = row.querySelectorAll('.tile:not([hidden])').length;
+      row.hidden = !count;
     }
-    for (const row of rows) row.hidden = !row.querySelector('.tile:not([hidden])');
-    board.dataset.metric = metric;
     board.hidden = view !== 'tiers' || !matches.length;
-    metricSwitch.hidden = view !== 'tiers';
     table.hidden = view !== 'stats' || !matches.length;
     empty.hidden = matches.length > 0;
     for (const button of switcher.querySelectorAll('button')) button.setAttribute('aria-pressed', String(button.dataset.heroView === view));
-    for (const button of metricSwitch.querySelectorAll('button')) button.setAttribute('aria-pressed', String(button.dataset.heroMetric === metric));
     for (const filter of filters) {
       for (const button of filter.buttons) button.setAttribute('aria-pressed', String(button.dataset.filterValue === filter.value));
     }
@@ -114,12 +121,6 @@
     const button = event.target.closest('[data-hero-view]');
     if (!button) return;
     view = button.dataset.heroView;
-    render();
-  });
-  metricSwitch.addEventListener('click', event => {
-    const button = event.target.closest('[data-hero-metric]');
-    if (!button) return;
-    metric = button.dataset.heroMetric;
     render();
   });
   for (const button of sortButtons) {
@@ -137,7 +138,6 @@
     query.focus();
   });
   tools.hidden = false;
-  switcher.hidden = false;
   query.addEventListener('input', render);
   for (const filter of filters) {
     filter.group.addEventListener('click', event => {

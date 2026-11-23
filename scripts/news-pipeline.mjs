@@ -740,6 +740,12 @@ function validateTranslationParity(source, translated, locale) {
         }
       }
     }
+    if (sourceBlock.type === 'screens' && (
+      sourceBlock.frames?.length !== translatedBlock.frames?.length ||
+      sourceBlock.frames?.some((frame, i) => frame.kind !== translatedBlock.frames?.[i]?.kind || frame.mark !== translatedBlock.frames?.[i]?.mark)
+    )) {
+      errors.push(`${label}.frames должен содержать те же экраны в том же порядке.`);
+    }
     if (sourceBlock.type === 'faq' && sourceBlock.items?.length !== translatedBlock.items?.length) {
       errors.push(`${label}.items должен содержать то же число вопросов.`);
     }
@@ -986,6 +992,7 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
     'counterMatrix',
     'heroTiers',
     'callout',
+    'screens',
     'list',
     'linkCard',
     'cta',
@@ -1123,6 +1130,15 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
         break;
       case 'callout':
         requireText(block, ['label', 'text']);
+        break;
+      case 'screens':
+        requireText(block, ['id', 'title']);
+        if (!Array.isArray(block.frames) || block.frames.length < 1 || block.frames.length > 4 || block.frames.some((frame) => (
+          !frame || !['lobby', 'profile', 'rename', 'accounts', 'redeem', 'mail'].includes(frame.kind) || typeof frame.mark !== 'string' ||
+          typeof frame.label !== 'string' || !normalizeText(frame.label) || normalizeText(frame.label).length > 60
+        ))) {
+          errors.push('screens.frames: от 1 до 4 кадров с kind, mark и label до 60 символов.');
+        }
         break;
       case 'faq':
         requireText(block, ['id', 'title']);
@@ -1459,27 +1475,27 @@ function renderCommonHead(locale = 'ru') {
   <link rel="service-desc" href="/.well-known/agent-skills/index.json">
   <link rel="service-doc" href="${siteHref('/faq.html', locale)}">
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
-  <link rel="stylesheet" href="/styles/main.css?v=3">
+  <link rel="preload" href="/fonts/golos-${locale === 'en' ? 'latin' : 'cyrillic'}.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=4">
-  <link rel="stylesheet" href="/styles/reader.css?v=1">`;
+  <link rel="stylesheet" href="/styles/arena.css?v=5">
+  <link rel="stylesheet" href="/styles/journal.css?v=1">`;
 }
 
 function renderScripts() {
   return `
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=7"></script>`;
+  <script defer src="/js/news.js?v=8"></script>`;
 }
 
-function renderCard(post, { featured = false, eager = false, href = null, locale = 'ru' } = {}) {
+function renderCard(post, { featured = false, eager = false, href = null, locale = 'ru', slot = 'grid' } = {}) {
   const copy = UI[locale].index;
   const cardHref = href ?? `${localeConfig(locale).rootPath}${post.slug}/`;
   return `
-  <article class="news-card${featured ? ' news-card--featured' : ''}" data-news-card data-category="${escapeHtml(post.categoryKey)}"${featured ? ' data-featured="true"' : ''}>
+  <article class="news-card${featured ? ' news-card--featured' : ''}" data-news-card data-slot="${slot}" data-category="${escapeHtml(post.categoryKey)}"${featured ? ' data-featured="true"' : ''}>
     <a class="news-card__link" href="${escapeHtml(cardHref)}">
       <figure class="news-card__media" style="--card-object-fit: ${escapeHtml(post.hero.cardFit)}; --card-object-position: ${escapeHtml(post.hero.focalPoint)}">
         <picture>
@@ -1627,7 +1643,7 @@ ${GENERATED_MARKER}
         </div>
         <div class="arena-sr" role="status" data-news-status></div>
         <div class="news-grid journal-grid">
-          ${posts.map((post, index) => renderCard(post, cardOptions(post, { featured: index === 0, eager: index === 0 }))).join('')}
+          ${posts.map((post, index) => renderCard(post, cardOptions(post, { featured: index === 0, eager: index === 0, slot: posts.length >= 4 ? (index === 0 ? 'lead' : index < 4 ? 'side' : 'grid') : 'grid' }))).join('')}
         </div>
         ${!posts.length ? `<p class="news-empty">${escapeHtml(indexCopy.emptyTitle)}</p>` : ''}
         <p class="news-filter-empty" data-news-filter-empty hidden>${locale === 'ru' ? 'Материалов не найдено. Измените запрос или тему.' : 'No stories found. Try a different search or topic.'}</p>
@@ -1694,6 +1710,133 @@ function tableCell(text, locale, visuals) {
   return `<span class="journal-icons journal-rank-icons">${ranks.map((rank, i) => `${i ? '<span aria-hidden="true">→</span>' : ''}<span><img src="/images/ranks/${rank[2]}.webp" width="32" height="32" alt="" loading="lazy"><span>${escapeHtml(rankNames[i])}</span></span>`).join('')}</span>`;
 }
 
+// Every hero's most picked ranked build (same choice as the hero page: most picked, outliers 12+ points below the best dropped).
+// Rendered from content/heroes-academy.json at build time, so the article follows the data.
+const BUILD_LANES = [['EXP Lane', 'exp', 'Опыт', 'EXP'], ['Gold Lane', 'gold', 'Золото', 'Gold'], ['Mid Lane', 'mid', 'Мид', 'Mid'], ['Jungle', 'jungle', 'Лес', 'Jungle'], ['Roam', 'roam', 'Роум', 'Roam']];
+const BUILDS_VISIBLE = 16;
+function topBuild(slug) {
+  const list = [...(academyAssets.heroes[slug]?.builds || [])].sort((a, b) => b.pick - a.pick);
+  const best = Math.max(0, ...list.map(build => build.win));
+  return list.find(build => build.win >= best - 12) || list[0] || null;
+}
+function renderBuildFinder(locale) {
+  const ru = locale === 'ru';
+  const t = (r, e) => ru ? r : e;
+  const pct = value => `${value.toFixed(1).replace('.', ru ? ',' : '.')}%`;
+  const gear = (entry, kind) => entry ? `<li class="bf-gear bf-gear--${kind}"><img src="${escapeHtml(entry.icon)}" width="44" height="44" alt="" loading="lazy" decoding="async"><span>${escapeHtml(entry[locale])}</span></li>` : '';
+  const rows = [...articleHeroes].sort((a, b) => b.pick - a.pick).map(hero => {
+    const build = topBuild(hero.slug);
+    if (!build) return '';
+    const items = build.items.map(id => academyAssets.items[id]).filter(Boolean);
+    const emblem = academyAssets.emblems[build.emblem];
+    const spell = academyAssets.spells[build.spell];
+    const talents = build.talents.map(id => academyAssets.talents[id]).filter(Boolean);
+    const lanes = hero.lanes.map(lane => BUILD_LANES.find(row => row[0] === lane)?.[1]).filter(Boolean);
+    const href = siteHref(`/heroes/${hero.slug}.html`, locale);
+    return `<li class="bf-row" data-build-names="${encodeURIComponent([hero.ru, hero.en, hero.slug].join('|'))}" data-lanes="${lanes.join(' ')}">
+      <details>
+        <summary>
+          <span class="bf-hero"><img src="/images/heroes/${hero.slug}.webp" width="48" height="48" alt="" loading="lazy" decoding="async"><b>${escapeHtml(hero[locale])}</b></span>
+          <span class="bf-icons" aria-hidden="true">${items.map(item => `<img src="${escapeHtml(item.icon)}" width="40" height="40" alt="" loading="lazy" decoding="async" title="${escapeHtml(item[locale])}">`).join('')}<i></i>${emblem ? `<img class="is-round" src="${escapeHtml(emblem.icon)}" width="40" height="40" alt="" loading="lazy" decoding="async" title="${escapeHtml(emblem[locale])}">` : ''}${spell ? `<img class="is-round" src="${escapeHtml(spell.icon)}" width="40" height="40" alt="" loading="lazy" decoding="async" title="${escapeHtml(spell[locale])}">` : ''}</span>
+          <span class="bf-win"><b>${pct(build.win)}</b><small>${t('побед', 'wins')}</small></span>
+        </summary>
+        <div class="bf-detail">
+          <div><h4>${t('Ключевые предметы', 'Core items')}</h4><ul>${items.map(item => gear(item, 'item')).join('')}</ul></div>
+          <div><h4>${t('Эмблема и таланты', 'Emblem and talents')}</h4><ul>${gear(emblem, 'round')}${talents.map(talent => gear(talent, 'talent')).join('')}</ul></div>
+          <div><h4>${t('Заклинание', 'Spell')}</h4><ul>${gear(spell, 'round')}</ul></div>
+          <p><a href="${href}#build">${t(`Все сборки, навыки и контрпики: ${hero.ru}`, `All builds, skills and counters: ${hero.en}`)}</a></p>
+        </div>
+      </details>
+    </li>`;
+  }).filter(Boolean);
+  const laneButtons = [['', null, t('Все', 'All')], ...BUILD_LANES.map(([, slug, r, e]) => [slug, slug, t(r, e)])]
+    .map(([value, icon, label]) => `<button type="button" data-build-lane="${value}" aria-pressed="${value === ''}">${icon ? `<img src="/images/mlbb/filters/${icon}.webp" width="20" height="20" alt="">` : ''}<span>${label}</span></button>`).join('');
+  return `<div class="build-finder" data-build-index data-visible="${BUILDS_VISIBLE}">
+    <div class="build-finder__tools" hidden>
+      <label class="journal-search"><span class="arena-sr">${t('Найти героя', 'Find a hero')}</span><input data-build-search type="search" autocomplete="off" placeholder="${t('Найти героя', 'Find a hero')}"></label>
+      <div class="build-finder__lanes" role="group" aria-label="${t('Линия', 'Lane')}">${laneButtons}</div>
+    </div>
+    <p class="arena-sr" role="status" data-build-status></p>
+    <ol class="bf-list">${rows.join('')}</ol>
+    <p class="bf-empty" data-build-empty hidden>${t('Такого героя нет. Проверьте написание имени.', 'No hero with that name. Check the spelling.')}</p>
+    <button type="button" class="bf-more" data-build-more hidden>${t(`Показать всех героев (${rows.length})`, `Show all heroes (${rows.length})`)}</button>
+  </div>`;
+}
+
+// Screen schematics for step-by-step guides: simplified game screens drawn in HTML, real words only where the step happens.
+// A frame is { kind, mark, label }: kind picks the screen, mark the element the step points at, label is the step in a few words.
+const SCREEN_COPY = {
+  ru: { nick: 'Shadow', profile: 'Профиль', account: 'Аккаунт', center: 'Центр аккаунтов', bound: 'Привязан', bind: 'Привязать', newName: 'Shadowツ', card: 'Карточка смены имени', ok: 'ОК', mail: 'Почта', code: 'Код подтверждения', switch: 'Сменить аккаунт', backpack: 'Рюкзак', use: 'Использовать' },
+  en: { nick: 'Shadow', profile: 'Profile', account: 'Account', center: 'Account Center', bound: 'Bound', bind: 'Bind', newName: 'Shadowツ', card: 'Name change card', ok: 'OK', mail: 'Mail', code: 'Verification code', switch: 'Switch Account', backpack: 'Backpack', use: 'Use' }
+};
+function renderScreen(frame, locale) {
+  const c = SCREEN_COPY[locale];
+  const on = key => frame.mark === key ? ' is-mark' : '';
+  const bar = (w, extra = '') => `<i class="sc-bar${extra}" style="width:${w}"></i>`;
+  switch (frame.kind) {
+    case 'lobby':
+      return `<div class="sc sc--lobby">
+        <div class="sc-top"><span class="sc-avatar${on('avatar')}"><b></b><span><em>${escapeHtml(c.nick)}</em>${bar('56%')}</span></span><span class="sc-pills">${bar('44px', ' sc-pill')}${bar('44px', ' sc-pill')}${bar('22px', ' sc-pill')}</span></div>
+        <div class="sc-side">${bar('100%', ' sc-tile')}${bar('100%', ' sc-tile')}${bar('100%', ' sc-tile')}</div>
+        <div class="sc-stage"></div>
+        <div class="sc-play">${bar('100%', ' sc-cta')}</div>
+      </div>`;
+    case 'profile':
+      return `<div class="sc sc--panel">
+        <div class="sc-head"><span>${escapeHtml(c.profile)}</span>${bar('18px', ' sc-x')}</div>
+        <div class="sc-body sc-profile">
+          <nav class="sc-tabs">${bar('80%')}<span class="sc-tab${on('account')}">${escapeHtml(c.account)}</span>${bar('70%')}${bar('60%')}</nav>
+          <div class="sc-card">
+            <b class="sc-face"></b>
+            <div class="sc-id"><span class="sc-name${on('name')}"><em>${escapeHtml(c.nick)}</em><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 11.5V13h1.5l6.8-6.8-1.5-1.5L3 11.5Zm9.7-5.9a.8.8 0 0 0 0-1.1l-.9-.9a.8.8 0 0 0-1.1 0l-.8.8 1.5 1.5.8-.3Z" fill="currentColor"/></svg></span><span class="sc-gid${on('id')}">ID: 123456789 (1234)</span></div>
+            <div class="sc-stats">${bar('100%')}${bar('100%')}${bar('100%')}</div>
+          </div>
+        </div>
+      </div>`;
+    case 'rename':
+      return `<div class="sc sc--dim">
+        <div class="sc-modal">
+          <div class="sc-field${on('field')}"><em>${escapeHtml(c.newName)}</em><i class="sc-caret"></i></div>
+          <div class="sc-card-line${on('card')}"><b class="sc-ticket"></b><span>${escapeHtml(c.card)}</span><strong>×1</strong></div>
+          <div class="sc-actions">${bar('38%', ' sc-ghost')}<span class="sc-ok${on('ok')}">${escapeHtml(c.ok)}</span></div>
+        </div>
+      </div>`;
+    case 'accounts': {
+      const rows = [['Moonton', 'moonton'], ['Google', 'google'], ['Apple ID', 'apple'], ['Facebook', 'facebook'], ['TikTok', 'tiktok'], ['VK', 'vk']];
+      return `<div class="sc sc--panel">
+        <div class="sc-head"><span>${escapeHtml(c.center)}</span>${bar('18px', ' sc-x')}</div>
+        <ul class="sc-methods">${rows.map(([label, key], i) => `<li class="${on(key).trim()}"><b class="sc-dot"></b><span>${label}</span>${i === 0 ? `<em class="sc-state is-bound">${escapeHtml(c.bound)}</em>` : `<em class="sc-state">${escapeHtml(c.bind)}</em>`}</li>`).join('')}</ul>
+        <div class="sc-foot"><span class="sc-switch${on('switch')}">${escapeHtml(c.switch)}</span></div>
+      </div>`;
+    }
+    case 'redeem':
+      return `<div class="sc sc--web">
+        <div class="sc-url"><i></i><i></i><i></i><span>mobilelegends.com/redeem</span></div>
+        <div class="sc-form">
+          <label class="${on('code').trim()}"><span>Redemption code</span><em>••••••••••</em></label>
+          <div class="sc-row"><label class="${on('gid').trim()}"><span>Game ID</span><em>123456789</em></label><label class="${on('gid').trim()}"><span>Zone ID</span><em>1234</em></label></div>
+          <div class="sc-row"><label class="${on('verify').trim()}"><span>Verification code</span><em></em></label><span class="sc-send${on('send')}">Send</span></div>
+          <span class="sc-redeem${on('redeem')}">Redeem</span>
+        </div>
+      </div>`;
+    case 'mail':
+      return `<div class="sc sc--panel">
+        <div class="sc-head"><span>${escapeHtml(c.mail)}</span>${bar('18px', ' sc-x')}</div>
+        <div class="sc-body sc-mail">
+          <ul>${[0, 1, 2].map(i => `<li class="${i === 0 ? on('letter').trim() : ''}"><b class="sc-env"></b>${i === 0 ? `<span>${escapeHtml(c.code)}</span>` : bar('70%')}</li>`).join('')}</ul>
+          <div class="sc-letter${on('code')}"><span>${escapeHtml(c.code)}</span><strong>482913</strong>${bar('90%')}${bar('60%')}</div>
+        </div>
+      </div>`;
+    default:
+      throw new Error(`Неизвестный экран: ${frame.kind}`);
+  }
+}
+function renderScreens(block, locale) {
+  return `<figure class="screens screens--${block.frames.length}" aria-label="${escapeHtml(block.title)}">
+    <ol>${block.frames.map((frame, i) => `<li><div class="screens__frame" aria-hidden="true"><span class="screens__no">${frame.step || i + 1}</span>${renderScreen(frame, locale)}</div><p>${escapeHtml(frame.label)}</p></li>`).join('')}</ol>
+  </figure>`;
+}
+
 function renderTableValue(block, cell, index, locale) {
   if (block.layout === 'results' && index === 3) return `<strong class="journal-score">${escapeHtml(cell)}</strong>`;
   if (block.layout === 'copy-symbol' && index === 0) {
@@ -1720,24 +1863,9 @@ function renderBlock(block, locale = 'ru') {
       if (block.layout === 'stages') {
         return `<ol class="journal-stages" aria-label="${escapeHtml(block.caption)}">${block.rows.map(([stage,city,when,teams])=>`<li><strong>${escapeHtml(stage)}</strong><span>${escapeHtml(when)}</span><p>${escapeHtml(city)}</p><small>${escapeHtml(teams)}</small></li>`).join('')}</ol>`;
       }
-      if (block.layout === 'builds') {
-        const ru = locale === 'ru';
-        const cards = block.rows.map(([hero, items, setup, win]) => {
-          const match = articleHeroes.find(entry => entry[locale] === hero);
-          const aliases = match ? [match.ru, match.en, match.slug].join('|') : hero;
-          return `<article class="journal-build" data-build-names="${encodeURIComponent(aliases)}"><header><h3>${tableCell(hero, locale, true)}</h3><div><strong>${escapeHtml(win)}</strong><small>${escapeHtml(block.headers[3])}</small></div></header><dl><dt>${escapeHtml(block.headers[1])}</dt><dd>${tableCell(items, locale, true)}</dd><dt>${escapeHtml(block.headers[2])}</dt><dd>${tableCell(setup, locale, true)}</dd></dl></article>`;
-        }).join('');
-        return `<div class="journal-build-index" data-build-index>
-          <div class="journal-build-selector" hidden>
-            <label>${ru ? 'Найти героя в статье' : 'Find a hero in this article'}<input data-build-search type="search" autocomplete="off"></label>
-            <p role="status" data-build-status></p>
-          </div>
-          <div class="journal-builds">${cards}</div>
-          <p class="journal-build-catalog"><a href="${siteHref('/heroes/', locale)}">${ru ? 'Сборки всех героев в тир-листе' : 'Builds for every hero in the tier list'}</a></p>
-        </div>`;
-      }
+      if (block.layout === 'builds') return renderBuildFinder(locale);
       return `
-      <div class="article-table-wrap article-table-wrap--cols-${Math.min(block.headers.length, 4)}" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>
+      <div class="article-table-wrap article-table-wrap--cols-${Math.min(block.headers.length, 5)}" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>
         <table>
           <caption>${escapeHtml(block.caption)}</caption>
           <thead><tr>${block.headers.map((header) => `<th scope="col">${escapeHtml(header)}</th>`).join('')}</tr></thead>
@@ -1776,7 +1904,6 @@ function renderBlock(block, locale = 'ru') {
           ${block.entries.map((entry, index) => `
           <article class="counter-card" data-counter-entry>
             <header>
-              <span aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
               <div>
                 <h4>${escapeHtml(entry.hero)}</h4>
                 <p>${escapeHtml(entry.role)}</p>
@@ -1817,6 +1944,8 @@ function renderBlock(block, locale = 'ru') {
         <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
         ${block.items.map((item) => `<details><summary>${escapeHtml(item.q)}</summary><p>${escapeHtml(item.a)}</p></details>`).join('')}
       </section>`;
+    case 'screens':
+      return renderScreens(block, locale);
     case 'callout':
       return `
       <aside class="article-callout">
@@ -1834,12 +1963,11 @@ function renderBlock(block, locale = 'ru') {
         <span>${escapeHtml(block.label)}</span>
         <strong>${escapeHtml(block.title)}</strong>
         <small>${escapeHtml(block.description)}</small>
-        <b aria-hidden="true">${block.href.startsWith(SITE_ORIGIN + '/') ? '→' : '↗'}</b>
+        ${block.href.startsWith(SITE_ORIGIN + '/') ? '' : '<b aria-hidden="true">↗</b>'}
       </a>`;
     case 'cta':
       return `
       <aside class="rank-cta" aria-labelledby="${escapeHtml(block.id)}">
-        <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
         <div class="rank-cta__copy">
           <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
           <span>${escapeHtml(block.text)}</span>
@@ -1847,7 +1975,6 @@ function renderBlock(block, locale = 'ru') {
         <div class="rank-cta__action">
           <a href="${escapeHtml(siteHref(block.href, locale))}" data-news-cta data-cta-position="${escapeHtml(block.position)}">
             <span class="rank-cta__button-label">${escapeHtml(block.button)}</span>
-            <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
         </div>
       </aside>`;
@@ -1994,7 +2121,7 @@ ${GENERATED_MARKER}
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner">${renderArenaNav(locale)}</div>
+        <div class="container article-header__inner">${renderArenaNav(locale, 'news')}</div>
         <div class="container journal-hero">
           <div class="journal-title">
             <p class="journal-meta"><a href="${config.rootPath}?category=${escapeHtml(post.categoryKey)}">${escapeHtml(post.category)}</a><time datetime="${escapeHtml(post.datePublished)}">${escapeHtml(formatDate(post.datePublished, locale))}</time></p>

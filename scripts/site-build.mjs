@@ -259,7 +259,7 @@ function guideArticle(guide, lang) {
     const head = guide[lang][4];
     const profile = Boolean(head.portrait);
     return `<article class="atlas container ${profile ? 'arena-profile' : 'arena-directory'}">
-      <nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}"><a href="${localized('/heroes/', lang)}"${!profile ? ' aria-current="page"' : ''}>${en ? 'Tier list' : 'Тир-лист'}</a><a href="${localized('/news/', lang)}">${en ? 'News & guides' : 'Новости и гайды'}</a></nav>
+      <nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}"><a href="${localized('/heroes/', lang)}"${!profile ? ' aria-current="page"' : ' aria-current="true"'}>${en ? 'Tier list' : 'Тир-лист'}</a><a href="${localized('/news/', lang)}">${en ? 'News & guides' : 'Новости и гайды'}</a></nav>
       ${head.html}
       ${body}${faqHTML}</article>`;
   }
@@ -438,8 +438,14 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (guideOf(file)?.kind === 'hero') {
       const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=4';
       document.head.append(arenaStyle);
-      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=9';
+      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=11';
       document.head.append(heroStyle);
+    }
+    // The site typeface (Golos Text, set in main.css): preload the Cyrillic file so headings do not reflow after load.
+    document.querySelectorAll('link[rel="preload"][href*="/fonts/golos-"]').forEach(node => node.remove());
+    if (lang === 'ru') {
+      const font = document.createElement('link'); font.rel = 'preload'; font.href = '/fonts/golos-cyrillic.woff2'; font.setAttribute('as', 'font'); font.type = 'font/woff2'; font.setAttribute('crossorigin', '');
+      document.querySelector('link[rel="stylesheet"]')?.before(font);
     }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
     const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=32'; document.head.append(interfaceStyle);

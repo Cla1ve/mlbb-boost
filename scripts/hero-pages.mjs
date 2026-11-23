@@ -275,10 +275,11 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
     const en = lang === 'en';
     const t = (ru, english) => en ? english : ru;
     const roles = Object.keys(ROLE);
+    const hasPro = heroes.some(hero => hero.pro?.presence > 0);
     const tile = hero => {
       const label = esc(name(hero, lang));
       const m = meta(hero);
-      return `<a class="tile" href="/heroes/${hero.slug}.html" data-tier="${hero.tier}" data-roles="${hero.roles.join(' ')}" data-lanes="${esc(hero.lanes.join('|'))}" data-names="${esc(hero.ru + ' ' + hero.en)}" data-slug="${hero.slug}" data-name="${label}" data-rank="${hero.rank}" data-win="${m.win}" data-pick="${m.pick}" data-ban="${m.ban}"><img src="/images/heroes/${hero.slug}.webp" width="96" height="96" alt="" loading="lazy" decoding="async"><span class="tile__name">${label}</span><span class="tile__value" hidden></span></a>`;
+      return `<a class="tile" href="/heroes/${hero.slug}.html" data-tier="${hero.tier}" data-roles="${hero.roles.join(' ')}" data-lanes="${esc(hero.lanes.join('|'))}" data-names="${esc(hero.ru + ' ' + hero.en)}" data-slug="${hero.slug}" data-name="${label}" data-rank="${hero.rank}" data-win="${m.win}" data-pick="${m.pick}" data-ban="${m.ban}"${hasPro ? ` data-pro="${hero.pro?.presence || 0}"` : ''}><img src="/images/heroes/${hero.slug}.webp" width="96" height="96" alt="" loading="lazy" decoding="async"><span class="tile__name">${label}</span></a>`;
     };
     const tiersHTML = TIERS.map(tier => {
       const members = heroes.filter(hero => hero.tier === tier);
@@ -287,11 +288,10 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
     const roleLists = roles.map(role => `<section><h3>${icon(role.toLowerCase(), 22)}<span>${ROLE_HUB[role][en ? 1 : 0]}</span></h3><ol>${withRole(role).slice(0, 5).map(hero => `<li>${chip(hero.slug, lang, pct1(meta(hero).win, lang))}</li>`).join('')}</ol></section>`).join('');
     const option = (value, file, text, full = text) => {
       const image = file ? `<img src="/images/mlbb/filters/${file}.webp" width="22" height="22" alt="">` : '<i class="fas fa-layer-group" aria-hidden="true"></i>';
-      return `<button type="button" data-filter-value="${value}" aria-pressed="${value === ''}" aria-label="${full}" title="${full}">${image}<span>${text}</span></button>`;
+      return `<button type="button" data-filter-value="${value}" aria-pressed="${value === ''}" title="${full}">${image}<span>${text}</span></button>`;
     };
     const laneButtons = option('', null, t('Все', 'All'), t('Все линии', 'All lanes')) + Object.entries(LANE).map(([key, lane]) => option(key, LANE_ICONS[key], LANE_SHORT[key][en ? 1 : 0], lane[lang])).join('');
-    const metrics = [['none', t('Без цифр', 'No numbers')], ['ban', t('Баны', 'Ban rate')], ['win', t('Победы', 'Win rate')], ['pick', t('Выбор', 'Pick rate')]];
-    const headings = [['name', t('Герой', 'Hero')], ['rank', t('Тир', 'Tier')], ['win', t('Победы', 'Win')], ['pick', t('Выбор', 'Pick')], ['ban', t('Баны', 'Ban')]];
+    const headings = [['name', t('Герой', 'Hero')], ['rank', t('Тир', 'Tier')], ...(hasPro ? [['pro', t('Турниры', 'Pro')]] : []), ['win', t('Победы', 'Win')], ['pick', t('Выбор', 'Pick')], ['ban', t('Баны', 'Ban')]];
 
     // What moved: most banned, and the biggest win rate change of the last 7 days against the 30-day figure.
     const moved = heroes.filter(hero => hero.recent && hero.recent.pick >= 0.3).map(hero => ({ hero, delta: hero.recent.win - hero.win }));
@@ -304,7 +304,6 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
       list(t('Растут за неделю', 'Rising this week'), t('победы, все ранги, п. п. к 30 дням', 'win rate, all ranks, pp against 30 days'), rising.map(item => [item.hero, signed(item.delta, lang)])),
       list(t('Падают за неделю', 'Falling this week'), t('победы, все ранги, п. п. к 30 дням', 'win rate, all ranks, pp against 30 days'), falling.map(item => [item.hero, signed(item.delta, lang)]))
     ].join('');
-    const hasPro = heroes.some(hero => hero.pro?.presence > 0);
     const method = hasPro
       ? t('Тир показывает, что реально драфтуют сейчас. Больше всего весит профессиональная сцена: доля катков последнего месяца на турнирах с призовым от $10 000, где героя взяли или забанили (данные Liquipedia). Меньше весят рейтинговые игры в Мифической славе за 7 дней по официальной статистике MOONTON: как часто героя берут и банят и как он побеждает. Бессмертные входят в Мифическую славу, отдельного фильтра в статистике нет. Герой, которого почти не драфтуют профессионалы, не поднимется выше B, как бы он ни играл в рейтинге, а тот, кого почти не берут ни в рейтинге, ни у профессионалов, попадает в D. У каждого героя на странице есть и данные за 30 дней по всем рангам.',
           'The tier shows what is actually drafted right now. The professional scene weighs the most: the share of games over the last month, at tournaments with prize pools of $10,000 or more, in which the hero was picked or banned (Liquipedia data). Ranked games in Mythical Glory over 7 days weigh less, from official MOONTON statistics: how often the hero is picked and banned and how well it wins. Immortal players are part of Mythical Glory: the statistics have no separate filter. A hero the pros hardly draft stays at B or below however well it plays in ranked, and one almost nobody picks, in ranked or by the pros, is D. Each hero page also has 30-day figures across all ranks.')
@@ -312,11 +311,10 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
     return `<div class="arena-workspace">
       <div class="atlas-tools" hidden>
         <label class="atlas-search"><span class="arena-sr">${t('Найти героя', 'Find a hero')}</span><i class="fas fa-search" aria-hidden="true"></i><input type="search" id="hero-query" autocomplete="off" placeholder="${t('Найти героя', 'Find a hero')}"></label>
-        <fieldset class="atlas-choice" data-hero-filter="lane"><legend class="arena-sr">${t('Линия', 'Lane')}</legend><div>${laneButtons}</div></fieldset>
-      </div>
-      <div class="tier-controls">
-        <div class="tier-views" role="group" aria-label="${t('Вид списка', 'Display')}" hidden><button type="button" data-hero-view="tiers" aria-pressed="true">${t('Тиры', 'Tiers')}</button><button type="button" data-hero-view="stats" aria-pressed="false">${t('Таблица', 'Table')}</button></div>
-        <div class="tier-metric" role="group" aria-label="${t('Что показывать', 'Show')}" hidden>${metrics.map(([key, text], i) => `<button type="button" data-hero-metric="${key}" aria-pressed="${i === 0}">${text}</button>`).join('')}</div>
+        <div class="atlas-bar">
+          <div class="tier-views" role="group" aria-label="${t('Вид списка', 'Display')}"><button type="button" data-hero-view="tiers" aria-pressed="true">${t('Тиры', 'Tiers')}</button><button type="button" data-hero-view="stats" aria-pressed="false">${t('Таблица', 'Table')}</button></div>
+          <fieldset class="atlas-choice" data-hero-filter="lane"><legend class="arena-sr">${t('Линия', 'Lane')}</legend><div>${laneButtons}</div></fieldset>
+        </div>
       </div>
       <div class="tier-board">${tiersHTML}</div>
       <table class="tier-stats" hidden><caption class="arena-sr">${t('Победы, выбор и баны героев', 'Win, pick and ban rates')}</caption><thead><tr>${headings.map(([key, text]) => `<th scope="col"><button type="button" data-hero-sort="${key}">${text}</button></th>`).join('')}</tr></thead><tbody></tbody></table>
@@ -325,12 +323,13 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
     <details class="tier-method"><summary>${t('Как считается тир', 'How the tier is calculated')}</summary><p>${method}</p></details>
     ${section('week', t('Что изменилось', 'What changed'), `<div class="atlas-roles">${changes}</div>`)}
     ${section('roles', t('Лучшие герои по ролям', 'Best heroes by role'), `<div class="atlas-roles">${roleLists}</div>`)}
-    <script src="/js/hero-finder.js?v=9" defer></script>`;
+    <script src="/js/hero-finder.js?v=10" defer></script>`;
   };
   const hubHead = lang => {
     const en = lang === 'en';
     const h1 = en ? 'MLBB tier list' : 'Тир-лист MLBB';
-    const sub = en ? `${heroes.length} heroes · ${period(lang)} to ${longDate(lang)}` : `${heroes.length} героя · ${period(lang)} по ${longDate(lang)}`;
+    // "Updated N days ago" is computed in the browser from the data stamp (hero-finder.js); the date is the fallback.
+    const sub = `${heroes.length} ${en ? 'heroes' : 'героя'} · <time datetime="${statsStamp.slice(0, 10)}" data-ago>${en ? `Updated ${shortDate('en')}` : `Обновлено ${shortDate('ru')}`}</time>`;
     return { h1, html: `<header class="arena-mast"><div><h1>${h1}</h1><p>${sub}</p></div></header>` };
   };
   const hub = { file: 'heroes/index.html', kind: 'hero', layout: 'landing', published: '2026-11-22', updated, ruOnly: true, crumb: ['/news/', 'Новости', 'News'],

@@ -65,7 +65,7 @@
 
 .about-title {
   font-size: 3rem;
-  font-weight: 800;
+  font-weight: 700;
   margin-bottom: 0.75rem;
   background: linear-gradient(135deg, #fff 0%, var(--accent-green) 100%);
   -webkit-background-clip: text;
@@ -108,7 +108,7 @@
 
 .stat-value {
   font-size: 1.5rem;
-  font-weight: 800;
+  font-weight: 700;
   background: linear-gradient(135deg, var(--accent-green), #00D4FF);
   -webkit-background-clip: text;
   background-clip: text;
@@ -162,7 +162,7 @@
   top: 15px;
   right: 20px;
   font-size: 3rem;
-  font-weight: 900;
+  font-weight: 700;
   color: rgba(255, 255, 255, 0.03);
   line-height: 1;
 }
@@ -224,7 +224,7 @@
 
 .section-header h2 {
   font-size: 2.25rem;
-  font-weight: 800;
+  font-weight: 700;
   color: var(--primary-light);
   margin-bottom: 0.5rem;
 }

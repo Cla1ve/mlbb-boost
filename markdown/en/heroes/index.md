@@ -9,17 +9,15 @@ language: en
 
 # MLBB tier list
 
-133 heroes · Mythical Glory, 7 days to 23 November 2026
+133 heroes · Updated 23 November
 
 Find a hero
+
+TiersTable
 
 Lane
 
 All![](/images/mlbb/filters/exp.webp)EXP![](/images/mlbb/filters/gold.webp)Gold![](/images/mlbb/filters/mid.webp)Mid![](/images/mlbb/filters/jungle.webp)Jungle![](/images/mlbb/filters/roam.webp)Roam
-
-TiersTable
-
-No numbersBan rateWin ratePick rate
 
 ## S
 
@@ -46,6 +44,8 @@ Win, pick and ban rates
 Hero
 
 Tier
+
+Pro
 
 Win
 

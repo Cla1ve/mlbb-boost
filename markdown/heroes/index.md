@@ -9,17 +9,15 @@ language: ru
 
 # Тир-лист MLBB
 
-133 героя · Мифическая слава, 7 дней по 23 ноября 2026 года
+133 героя · Обновлено 23 ноября
 
 Найти героя
+
+ТирыТаблица
 
 Линия
 
 Все![](/images/mlbb/filters/exp.webp)Опыт![](/images/mlbb/filters/gold.webp)Золото![](/images/mlbb/filters/mid.webp)Мид![](/images/mlbb/filters/jungle.webp)Лес![](/images/mlbb/filters/roam.webp)Роум
-
-ТирыТаблица
-
-Без цифрБаныПобедыВыбор
 
 ## S
 
@@ -46,6 +44,8 @@ language: ru
 Герой
 
 Тир
+
+Турниры
 
 Победы
 

@@ -6,29 +6,29 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:44:08 GMT</lastBuildDate>
     <item>
       <title>MLBB hero builds 2026: what players build in ranked</title>
       <link>https://boostmlbb.ru/en/news/mlbb-builds-2026/</link>
       <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-builds-2026/</guid>
-      <description>Items, emblems and battle spells for Hanabi, Obsidia and eight other popular ranked heroes.</description>
+      <description>Items, emblems and battle spells for all 133 ranked heroes, with search by name and a lane filter.</description>
       <dc:creator>Boost MLBB Editorial Team</dc:creator>
       <category>Guides</category>
       <pubDate>Mon, 23 Nov 2026 15:04:00 GMT</pubDate>
       <yandex:genre>article</yandex:genre>
       <yandex:full-text>In brief
 
-The most common core item is Dominance Ice: it is in the popular build of 24 heroes out of 133.
+The most common core item is War Axe: it is in the most picked build of 26 heroes out of 133.
 
-The most picked emblem is the Assassin emblem, used by 29 heroes. The Common emblem is chosen for only 6.
+The most picked emblem is the Assassin emblem, used by 37 heroes. The Common emblem is chosen for only 5.
 
-Flicker is the main spell for 62 heroes out of 133, Retribution for 20.
+Flicker is the main spell for 60 heroes out of 133, Retribution for 20.
 
-Each hero is shown with the most picked setup in their main lane. The three items form the core of the build. Win rate counts matches played with that setup.
+Each hero is shown with the most picked ranked build, the same one as in the hero profile. The three items form the core of the build, and the win rate counts matches played with that setup. Tap a hero’s row to see item names, talents and the battle spell.
 
 Hero builds
 
-Builds for the 10 most picked heroes
+Builds for all 133 heroes
 
 The most popular build in the hero’s main lane, ranked matches across all ranks, in-game Academy, 23 November 2026.
 
@@ -46,7 +46,7 @@ Corrosion Scythe, Golden Staff, Demon Hunter Sword
 
 Fighter, Aegis
 
-58.59%
+59.46%
 
 Obsidia
 
@@ -58,59 +58,59 @@ Fighter, Flicker
 
 Miya
 
-Windtalker, Haas&#39; Claws, Berserker&#39;s Fury
+Windtalker, Berserker&#39;s Fury, Haas&#39; Claws
 
 Marksman, Inspire
 
-56.21%
+55.75%
 
 Tigreal
 
-Dominance Ice, Fleeting Time, Athena&#39;s Shield
+Fleeting Time, Dominance Ice, Athena&#39;s Shield
 
 Tank, Flicker
 
-49.08%
+48.39%
 
 Nolan
 
-Blade of the Heptaseas, Hunter Strike, Malefic Roar
+Hunter Strike, Blade of the Heptaseas, Malefic Roar
 
 Assassin, Retribution
 
-53.17%
+51.76%
 
 Layla
 
-Windtalker, Haas&#39; Claws, Berserker&#39;s Fury
+Windtalker, Berserker&#39;s Fury, Haas&#39; Claws
 
 Assassin, Flicker
 
-55.78%
+55.02%
 
 Lesley
 
-Berserker&#39;s Fury, Malefic Gun, Blade of Despair
+Berserker&#39;s Fury, Malefic Gun, Sea Halberd
 
 Marksman, Flicker
 
-57.19%
+53.12%
 
 Eudora
 
-Genius Wand, Sky Piercer, Lightning Truncheon
+Sky Piercer, Genius Wand, Blood Wings
 
 Assassin, Flicker
 
-56.20%
+54.19%
 
 Sun
 
-Windtalker, Corrosion Scythe, Great Dragon Spear
+Thunder Belt, Dominance Ice, Oracle
 
-Support, Petrify
+Support, Revitalize
 
-58.06%
+59.72%
 
 Angela
 
@@ -120,7 +120,7 @@ Support, Flicker
 
 56.79%
 
-Angela’s setup is picked in 15.45% of her matches. Each hero’s profile lists talents and alternative builds.
+Heroes are listed by popularity over the last 30 days. Each hero profile also has alternative builds, skills and counters.
 
 Most common items
 
@@ -130,39 +130,39 @@ Item
 
 Heroes with it in the build
 
-Dominance Ice
-
-24 of 133
-
 War Axe
 
-23 of 133
-
-Sky Piercer
-
-23 of 133
+26 of 133
 
 Glowing Wand
 
-21 of 133
+23 of 133
 
-Corrosion Scythe
+Dominance Ice
+
+22 of 133
+
+Hunter Strike
+
+18 of 133
+
+Sky Piercer
+
+16 of 133
+
+Queen&#39;s Wings
 
 15 of 133
 
 Lightning Truncheon
 
-15 of 133
+14 of 133
 
-Hunter Strike
-
-15 of 133
-
-Queen&#39;s Wings
+Divine Glaive
 
 14 of 133
 
-There is no single item everyone must buy: even the most common one is in the build of only every sixth hero. Defensive items such as Dominance Ice are taken by both tanks and fighters, which puts them at the top.
+There is no single item everyone must buy: even the most common one, War Axe, is in the build of only every fifth hero. The rest are shared by heroes of the same role.
 
 Emblems
 
@@ -174,19 +174,19 @@ Heroes
 
 Assassin
 
-29
+37
 
 Mage
 
-26
+27
 
 Fighter
 
-25
+19
 
 Tank
 
-20
+18
 
 Support
 
@@ -198,7 +198,7 @@ Marksman
 
 Common
 
-6
+5
 
 Emblems are chosen by the hero’s job, not only by role. That is why the Assassin emblem shows up on mages and the Fighter emblem on some marksmen: the Academy shows these heroes win more often with them.
 
@@ -212,7 +212,7 @@ Heroes
 
 Flicker
 
-62
+60
 
 Retribution
 
@@ -220,19 +220,15 @@ Retribution
 
 Petrify
 
-13
-
-Vengeance
-
 12
 
 Revitalize
 
-9
+11
 
-Purify
+Vengeance
 
-6
+11
 
 Inspire
 
@@ -242,9 +238,17 @@ Flameshot
 
 4
 
+Purify
+
+4
+
 Aegis
 
-1
+3
+
+Sprint
+
+2
 
 Flicker stays the all-round choice for almost half the heroes: it saves you from death and helps start a fight. Junglers take Retribution, without which you cannot clear jungle monsters quickly.
 
@@ -721,6 +725,8 @@ For Google, Apple ID, Facebook, TikTok or VK, sign in to that account and confir
 
 Go back to Account Center and check that the method is marked as bound.
 
+Where to bind the account
+
 Which login method to choose
 
 Method
@@ -1081,6 +1087,8 @@ Tap OK. If you have not used the free change yet, the name changes without a car
 
 If the free change is gone, the game asks for a Rename Card. A card you bought can also be used from the backpack: find it among your items and tap Use.
 
+Where to change the name in the game
+
 Rank, stars, heroes, skins and statistics stay where they were after a rename. The account is identified by Game ID and Zone ID, not by the nickname, so your friends stay too: they simply see the new name.
 
 How much a nickname change costs
@@ -1265,6 +1273,8 @@ Paste the code into Redemption code, then enter your Game ID and Zone ID.
 Press Send. Open your in-game mail: the verification code arrives there and is valid for 30 minutes.
 
 Enter the verification code on the site and press Redeem. The reward arrives in your in-game mail.
+
+Redeeming a code step by step
 
 The official form never asks for your password, email or Moonton ID details. If a “free diamonds” site asks you to log in, close it: that is how accounts get stolen.
 

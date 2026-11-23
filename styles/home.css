@@ -114,7 +114,7 @@
 .text-line {
   display: block;
   font-size: clamp(2rem, 4.5vw, 2.8rem);
-  font-weight: 800;
+  font-weight: 700;
   line-height: 1.15;
   color: var(--primary-light);
 }
@@ -404,7 +404,7 @@
   margin-bottom: 1.15rem;
   color: var(--accent-green);
   font-size: 0.76rem;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
@@ -431,7 +431,7 @@
   gap: 0.75rem;
   margin-top: 1.6rem;
   color: var(--text-white);
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .home-news-card__action i {
@@ -475,7 +475,7 @@
 
 .section-header h2 {
   font-size: 2.5rem;
-  font-weight: 800;
+  font-weight: 700;
   margin-bottom: 0.75rem;
   background: linear-gradient(135deg, #fff 0%, var(--accent-green) 100%);
   -webkit-background-clip: text;
@@ -752,7 +752,7 @@
   top: 15px;
   right: 20px;
   font-size: 3rem;
-  font-weight: 900;
+  font-weight: 700;
   color: rgba(255, 255, 255, 0.03);
   line-height: 1;
 }
@@ -791,7 +791,7 @@
 .proof-value {
   display: block;
   font-size: 2.5rem;
-  font-weight: 800;
+  font-weight: 700;
   background: linear-gradient(135deg, var(--accent-green), #00D4FF);
   -webkit-background-clip: text;
   background-clip: text;
@@ -969,7 +969,7 @@
 
 .referral-text h2 {
   font-size: 2rem;
-  font-weight: 800;
+  font-weight: 700;
   color: var(--primary-light);
   margin-bottom: 1rem;
 }
@@ -983,7 +983,7 @@
 
 .highlight-value {
   font-size: 3.5rem;
-  font-weight: 900;
+  font-weight: 700;
   background: linear-gradient(135deg, var(--accent-green), #00D4FF);
   -webkit-background-clip: text;
   background-clip: text;
@@ -1037,7 +1037,7 @@
 
 .cta-content h2 {
   font-size: 2.5rem;
-  font-weight: 800;
+  font-weight: 700;
   color: var(--primary-light);
   margin-bottom: 0.75rem;
 }

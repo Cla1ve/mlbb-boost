@@ -114,7 +114,7 @@
 
 .page-title {
   font-size: 2.5rem;
-  font-weight: 800;
+  font-weight: 700;
   line-height: 1.2;
   margin-bottom: 0.75rem;
 }
@@ -1205,7 +1205,7 @@
 
 .stage-number {
   font-size: 1.75rem;
-  font-weight: 800;
+  font-weight: 700;
   background: linear-gradient(135deg, #FF9D00, #FF6400);
   -webkit-background-clip: text;
   background-clip: text;
@@ -1602,7 +1602,7 @@
 
 .price-number {
   font-size: 2rem;
-  font-weight: 800;
+  font-weight: 700;
   background: linear-gradient(135deg, var(--accent-green), #00D4FF);
   -webkit-background-clip: text;
   background-clip: text;

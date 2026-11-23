@@ -5389,7 +5389,7 @@
         "Безопасность"
       ],
       "datePublished": "2026-11-22T14:38:00+03:00",
-      "dateModified": "2026-11-23T18:36:21+03:00",
+      "dateModified": "2026-11-24T02:44:08+03:00",
       "hero": {
         "src": "/images/news/mlbb-redeem-codes-guide.jpg",
         "width": 1600,
@@ -5476,6 +5476,37 @@
             "Введите код подтверждения на сайте и нажмите Redeem. Награда придёт в игровую почту."
           ],
           "ordered": true
+        },
+        {
+          "type": "screens",
+          "id": "redeem-screens",
+          "title": "Как активировать промокод по шагам",
+          "frames": [
+            {
+              "kind": "profile",
+              "mark": "id",
+              "step": 1,
+              "label": "Game ID и Zone ID в профиле"
+            },
+            {
+              "kind": "redeem",
+              "mark": "code",
+              "step": 3,
+              "label": "Промокод, Game ID и Zone ID"
+            },
+            {
+              "kind": "mail",
+              "mark": "code",
+              "step": 4,
+              "label": "Код подтверждения в почте"
+            },
+            {
+              "kind": "redeem",
+              "mark": "redeem",
+              "step": 5,
+              "label": "Код на сайте и кнопка Redeem"
+            }
+          ]
         },
         {
           "type": "callout",
@@ -5645,6 +5676,37 @@
               "ordered": true
             },
             {
+              "type": "screens",
+              "id": "redeem-screens",
+              "title": "Redeeming a code step by step",
+              "frames": [
+                {
+                  "kind": "profile",
+                  "mark": "id",
+                  "step": 1,
+                  "label": "Game ID and Zone ID in the profile"
+                },
+                {
+                  "kind": "redeem",
+                  "mark": "code",
+                  "step": 3,
+                  "label": "The code, Game ID and Zone ID"
+                },
+                {
+                  "kind": "mail",
+                  "mark": "code",
+                  "step": 4,
+                  "label": "Verification code in the mail"
+                },
+                {
+                  "kind": "redeem",
+                  "mark": "redeem",
+                  "step": 5,
+                  "label": "The code on the site, then Redeem"
+                }
+              ]
+            },
+            {
               "type": "callout",
               "label": "Safety",
               "text": "The official form never asks for your password, email or Moonton ID details. If a “free diamonds” site asks you to log in, close it: that is how accounts get stolen."
@@ -5734,7 +5796,7 @@
         "Символы"
       ],
       "datePublished": "2026-11-22T23:03:00+03:00",
-      "dateModified": "2026-11-23T18:36:21+03:00",
+      "dateModified": "2026-11-24T02:44:08+03:00",
       "hero": {
         "src": "/images/news/mlbb-change-nickname.jpg",
         "width": 1600,
@@ -5778,6 +5840,37 @@
             "Если бесплатная смена уже потрачена, игра попросит карточку смены имени. Купленную карточку можно применить и из рюкзака: найдите её среди предметов и нажмите «Использовать»."
           ],
           "ordered": true
+        },
+        {
+          "type": "screens",
+          "id": "rename-screens",
+          "title": "Где менять ник в игре",
+          "frames": [
+            {
+              "kind": "lobby",
+              "mark": "avatar",
+              "step": 1,
+              "label": "Аватар в левом верхнем углу"
+            },
+            {
+              "kind": "profile",
+              "mark": "name",
+              "step": 2,
+              "label": "Ник или значок карандаша"
+            },
+            {
+              "kind": "rename",
+              "mark": "field",
+              "step": 3,
+              "label": "Новое имя целиком"
+            },
+            {
+              "kind": "rename",
+              "mark": "ok",
+              "step": 4,
+              "label": "Кнопка «ОК»"
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -6015,6 +6108,37 @@
                 "If the free change is gone, the game asks for a Rename Card. A card you bought can also be used from the backpack: find it among your items and tap Use."
               ],
               "ordered": true
+            },
+            {
+              "type": "screens",
+              "id": "rename-screens",
+              "title": "Where to change the name in the game",
+              "frames": [
+                {
+                  "kind": "lobby",
+                  "mark": "avatar",
+                  "step": 1,
+                  "label": "Avatar in the top left corner"
+                },
+                {
+                  "kind": "profile",
+                  "mark": "name",
+                  "step": 2,
+                  "label": "The name or the pencil icon"
+                },
+                {
+                  "kind": "rename",
+                  "mark": "field",
+                  "step": 3,
+                  "label": "The whole new name"
+                },
+                {
+                  "kind": "rename",
+                  "mark": "ok",
+                  "step": 4,
+                  "label": "The OK button"
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -6930,7 +7054,7 @@
         "Moonton"
       ],
       "datePublished": "2026-11-23T16:14:00+03:00",
-      "dateModified": "2026-11-23T18:36:21+03:00",
+      "dateModified": "2026-11-24T02:44:08+03:00",
       "hero": {
         "src": "/images/news/mlbb-account-bind-recover.jpg",
         "width": 1600,
@@ -6988,6 +7112,37 @@
             "Вернитесь в «Центр аккаунтов» и проверьте, что способ отмечен как привязанный."
           ],
           "ordered": true
+        },
+        {
+          "type": "screens",
+          "id": "bind-screens",
+          "title": "Где привязать аккаунт",
+          "frames": [
+            {
+              "kind": "lobby",
+              "mark": "avatar",
+              "step": 1,
+              "label": "Аватар на главном экране"
+            },
+            {
+              "kind": "profile",
+              "mark": "account",
+              "step": 2,
+              "label": "Раздел «Аккаунт»"
+            },
+            {
+              "kind": "accounts",
+              "mark": "moonton",
+              "step": 3,
+              "label": "Аккаунт Moonton в «Центре аккаунтов»"
+            },
+            {
+              "kind": "accounts",
+              "mark": "google",
+              "step": 4,
+              "label": "Google, Apple ID или соцсеть"
+            }
+          ]
         },
         {
           "type": "table",
@@ -7230,6 +7385,37 @@
                 "Go back to Account Center and check that the method is marked as bound."
               ],
               "ordered": true
+            },
+            {
+              "type": "screens",
+              "id": "bind-screens",
+              "title": "Where to bind the account",
+              "frames": [
+                {
+                  "kind": "lobby",
+                  "mark": "avatar",
+                  "step": 1,
+                  "label": "Avatar on the main screen"
+                },
+                {
+                  "kind": "profile",
+                  "mark": "account",
+                  "step": 2,
+                  "label": "The Account section"
+                },
+                {
+                  "kind": "accounts",
+                  "mark": "moonton",
+                  "step": 3,
+                  "label": "Moonton account in the Account Center"
+                },
+                {
+                  "kind": "accounts",
+                  "mark": "google",
+                  "step": 4,
+                  "label": "Google, Apple ID or a social account"
+                }
+              ]
             },
             {
               "type": "table",
@@ -8493,8 +8679,8 @@
       "status": "published",
       "title": "Сборки на героев MLBB 2026: что собирают в рейтинге",
       "seoTitle": "Сборки на героев MLBB 2026: предметы, эмблемы, заклинания",
-      "description": "Популярные сборки на героев Mobile Legends из «Академии» в игре: предметы, эмблемы и заклинания для 133 героев, сборки на самых популярных героев.",
-      "excerpt": "Предметы, эмблемы и заклинания для Ханаби, Обсидии и ещё восьми популярных героев рейтинга.",
+      "description": "Самые частые сборки на всех 133 героев Mobile Legends из «Академии» в игре: ключевые предметы, эмблема с талантами и заклинание. Поиск по герою и линии.",
+      "excerpt": "Предметы, эмблемы и заклинания для всех 133 героев рейтинга: поиск по имени и фильтр по линии.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -8505,7 +8691,7 @@
         "Заклинания"
       ],
       "datePublished": "2026-11-23T18:04:00+03:00",
-      "dateModified": "2026-11-23T18:36:21+03:00",
+      "dateModified": "2026-11-24T02:40:43+03:00",
       "hero": {
         "src": "/images/news/mlbb-builds-2026.jpg",
         "width": 1600,
@@ -8528,14 +8714,14 @@
           "id": "brief",
           "title": "Коротко",
           "items": [
-            "Чаще всего в ключевые предметы попадает «Господство льда»: он есть в популярной сборке 24 героев из 133.",
-            "Самая частая эмблема — эмблема убийцы, её берут 29 героев. Обычную эмблему выбирают только для 6.",
-            "«Вспышка» — основное заклинание у 62 героев из 133, «Возмездие» — у 20."
+            "Чаще всего в ключевые предметы попадает «Топор войны»: он есть в самой частой сборке 26 героев из 133.",
+            "Самая частая эмблема — эмблема убийцы, её берут 37 героев. Обычную эмблему выбирают только для 5.",
+            "«Вспышка» — основное заклинание у 60 героев из 133, «Возмездие» — у 20."
           ]
         },
         {
           "type": "paragraph",
-          "text": "Для каждого героя взята самая популярная сборка на его основной линии. Три предмета образуют основу сборки. Процент побед относится к матчам с этим набором."
+          "text": "Для каждого героя взята самая частая сборка в рейтинге — та же, что в профиле героя. Три предмета образуют основу сборки, процент побед относится к матчам с этим набором. Названия предметов, таланты и заклинание открываются по нажатию на строку героя."
         },
         {
           "type": "heading",
@@ -8544,7 +8730,7 @@
         },
         {
           "type": "table",
-          "caption": "Сборки на 10 самых популярных героев",
+          "caption": "Сборки на всех 133 героев",
           "headers": [
             "Герой",
             "Ключевые предметы",
@@ -8556,7 +8742,7 @@
               "Ханаби",
               "Коса коррозии, Золотой посох, Меч охотника на демонов",
               "Эмблема бойца, Эгида",
-              "58,59%"
+              "59,46%"
             ],
             [
               "Обсидия",
@@ -8566,45 +8752,45 @@
             ],
             [
               "Мия",
-              "Говорящий с ветром, Когти Хааса, Ярость берсерка",
+              "Говорящий с ветром, Ярость берсерка, Когти Хааса",
               "Эмблема стрелка, Вдохновение",
-              "56,21%"
+              "55,75%"
             ],
             [
               "Тигрил",
-              "Господство льда, Мимолетное время, Щит Афины",
+              "Мимолетное время, Господство льда, Щит Афины",
               "Эмблема танка, Вспышка",
-              "49,08%"
+              "48,39%"
             ],
             [
               "Нолан",
-              "Клинок семи морей, Удар охотника, Злобный рык",
+              "Удар охотника, Клинок семи морей, Злобный рык",
               "Эмблема убийцы, Возмездие",
-              "53,17%"
+              "51,76%"
             ],
             [
               "Лейла",
-              "Говорящий с ветром, Когти Хааса, Ярость берсерка",
+              "Говорящий с ветром, Ярость берсерка, Когти Хааса",
               "Эмблема убийцы, Вспышка",
-              "55,78%"
+              "55,02%"
             ],
             [
               "Лесли",
-              "Ярость берсерка, Губительный пулемет, Клинок отчаяния",
+              "Ярость берсерка, Губительный пулемет, Трезубец",
               "Эмблема стрелка, Вспышка",
-              "57,19%"
+              "53,12%"
             ],
             [
               "Эйдора",
-              "Палочка гения, Пронзающий небеса, Жезл молний",
+              "Пронзающий небеса, Палочка гения, Кровавые крылья",
               "Эмблема убийцы, Вспышка",
-              "56,20%"
+              "54,19%"
             ],
             [
               "Сан",
-              "Говорящий с ветром, Коса коррозии, Копье Великого дракона",
-              "Эмблема поддержки, Окаменение",
-              "58,06%"
+              "Штормовой пояс, Господство льда, Оракул",
+              "Эмблема поддержки, Восстановление",
+              "59,72%"
             ],
             [
               "Ангела",
@@ -8619,7 +8805,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Сборку Ангелы выбирают в 15,45% матчей на этом герое. Таланты и запасные варианты есть в профиле каждого героя."
+          "text": "Герои идут по популярности за последние 30 дней. Запасные сборки, навыки и контрпики есть в профиле каждого героя."
         },
         {
           "type": "heading",
@@ -8635,35 +8821,35 @@
           ],
           "rows": [
             [
-              "Господство льда",
-              "24 из 133"
-            ],
-            [
               "Топор войны",
-              "23 из 133"
-            ],
-            [
-              "Пронзающий небеса",
-              "23 из 133"
+              "26 из 133"
             ],
             [
               "Пылающий жезл",
-              "21 из 133"
+              "23 из 133"
             ],
             [
-              "Коса коррозии",
+              "Господство льда",
+              "22 из 133"
+            ],
+            [
+              "Удар охотника",
+              "18 из 133"
+            ],
+            [
+              "Пронзающий небеса",
+              "16 из 133"
+            ],
+            [
+              "Крылья королевы",
               "15 из 133"
             ],
             [
               "Жезл молний",
-              "15 из 133"
+              "14 из 133"
             ],
             [
-              "Удар охотника",
-              "15 из 133"
-            ],
-            [
-              "Крылья королевы",
+              "Божественный меч",
               "14 из 133"
             ]
           ],
@@ -8671,7 +8857,7 @@
         },
         {
           "type": "paragraph",
-          "text": "В списке нет одного «обязательного» предмета для всех: даже самый частый есть в сборке лишь у каждого шестого героя. Защитные предметы вроде «Господство льда» берут и танки, и бойцы, поэтому они в верхних строчках."
+          "text": "В списке нет одного «обязательного» предмета: даже самый частый, «Топор войны», есть в сборке лишь у каждого пятого героя. Остальные предметы делят между собой герои одной роли."
         },
         {
           "type": "heading",
@@ -8688,19 +8874,19 @@
           "rows": [
             [
               "Эмблема убийцы",
-              "29"
+              "37"
             ],
             [
               "Эмблема мага",
-              "26"
+              "27"
             ],
             [
               "Эмблема бойца",
-              "25"
+              "19"
             ],
             [
               "Эмблема танка",
-              "20"
+              "18"
             ],
             [
               "Эмблема поддержки",
@@ -8712,7 +8898,7 @@
             ],
             [
               "Обычная эмблема",
-              "6"
+              "5"
             ]
           ],
           "visuals": true
@@ -8736,7 +8922,7 @@
           "rows": [
             [
               "Вспышка",
-              "62"
+              "60"
             ],
             [
               "Возмездие",
@@ -8744,19 +8930,15 @@
             ],
             [
               "Окаменение",
-              "13"
-            ],
-            [
-              "Месть",
               "12"
             ],
             [
               "Восстановление",
-              "9"
+              "11"
             ],
             [
-              "Очищение",
-              "6"
+              "Месть",
+              "11"
             ],
             [
               "Вдохновение",
@@ -8767,8 +8949,16 @@
               "4"
             ],
             [
+              "Очищение",
+              "4"
+            ],
+            [
               "Эгида",
-              "1"
+              "3"
+            ],
+            [
+              "Спринт",
+              "2"
             ]
           ],
           "visuals": true
@@ -8799,11 +8989,11 @@
             },
             {
               "q": "Какую эмблему чаще всего берут в MLBB?",
-              "a": "Эмблема убийцы — у 29 героев из 133. Дальше идут эмблемы мага и бойца."
+              "a": "Эмблема убийцы — у 37 героев из 133. Дальше идут эмблема мага и эмблема бойца."
             },
             {
               "q": "Какое заклинание лучше брать в Mobile Legends?",
-              "a": "Чаще всего — «Вспышка»: она основная у 62 героев из 133. Лесники берут «Возмездие»."
+              "a": "Чаще всего — «Вспышка»: она основная у 60 героев из 133. Лесники берут «Возмездие»."
             }
           ]
         }
@@ -8827,8 +9017,8 @@
         "en": {
           "title": "MLBB hero builds 2026: what players build in ranked",
           "seoTitle": "MLBB hero builds 2026: items, emblems, spells",
-          "description": "Popular Mobile Legends hero builds from the in-game Academy: items, emblems and battle spells for 133 heroes, and builds for the most picked heroes.",
-          "excerpt": "Items, emblems and battle spells for Hanabi, Obsidia and eight other popular ranked heroes.",
+          "description": "The most picked builds for all 133 Mobile Legends heroes from the in-game Academy: core items, emblem with talents and battle spell. Search by hero and lane.",
+          "excerpt": "Items, emblems and battle spells for all 133 ranked heroes, with search by name and a lane filter.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -8848,14 +9038,14 @@
               "id": "brief",
               "title": "In brief",
               "items": [
-                "The most common core item is Dominance Ice: it is in the popular build of 24 heroes out of 133.",
-                "The most picked emblem is the Assassin emblem, used by 29 heroes. The Common emblem is chosen for only 6.",
-                "Flicker is the main spell for 62 heroes out of 133, Retribution for 20."
+                "The most common core item is War Axe: it is in the most picked build of 26 heroes out of 133.",
+                "The most picked emblem is the Assassin emblem, used by 37 heroes. The Common emblem is chosen for only 5.",
+                "Flicker is the main spell for 60 heroes out of 133, Retribution for 20."
               ]
             },
             {
               "type": "paragraph",
-              "text": "Each hero is shown with the most picked setup in their main lane. The three items form the core of the build. Win rate counts matches played with that setup."
+              "text": "Each hero is shown with the most picked ranked build, the same one as in the hero profile. The three items form the core of the build, and the win rate counts matches played with that setup. Tap a hero’s row to see item names, talents and the battle spell."
             },
             {
               "type": "heading",
@@ -8864,7 +9054,7 @@
             },
             {
               "type": "table",
-              "caption": "Builds for the 10 most picked heroes",
+              "caption": "Builds for all 133 heroes",
               "headers": [
                 "Hero",
                 "Core items",
@@ -8876,7 +9066,7 @@
                   "Hanabi",
                   "Corrosion Scythe, Golden Staff, Demon Hunter Sword",
                   "Fighter, Aegis",
-                  "58.59%"
+                  "59.46%"
                 ],
                 [
                   "Obsidia",
@@ -8886,45 +9076,45 @@
                 ],
                 [
                   "Miya",
-                  "Windtalker, Haas' Claws, Berserker's Fury",
+                  "Windtalker, Berserker's Fury, Haas' Claws",
                   "Marksman, Inspire",
-                  "56.21%"
+                  "55.75%"
                 ],
                 [
                   "Tigreal",
-                  "Dominance Ice, Fleeting Time, Athena's Shield",
+                  "Fleeting Time, Dominance Ice, Athena's Shield",
                   "Tank, Flicker",
-                  "49.08%"
+                  "48.39%"
                 ],
                 [
                   "Nolan",
-                  "Blade of the Heptaseas, Hunter Strike, Malefic Roar",
+                  "Hunter Strike, Blade of the Heptaseas, Malefic Roar",
                   "Assassin, Retribution",
-                  "53.17%"
+                  "51.76%"
                 ],
                 [
                   "Layla",
-                  "Windtalker, Haas' Claws, Berserker's Fury",
+                  "Windtalker, Berserker's Fury, Haas' Claws",
                   "Assassin, Flicker",
-                  "55.78%"
+                  "55.02%"
                 ],
                 [
                   "Lesley",
-                  "Berserker's Fury, Malefic Gun, Blade of Despair",
+                  "Berserker's Fury, Malefic Gun, Sea Halberd",
                   "Marksman, Flicker",
-                  "57.19%"
+                  "53.12%"
                 ],
                 [
                   "Eudora",
-                  "Genius Wand, Sky Piercer, Lightning Truncheon",
+                  "Sky Piercer, Genius Wand, Blood Wings",
                   "Assassin, Flicker",
-                  "56.20%"
+                  "54.19%"
                 ],
                 [
                   "Sun",
-                  "Windtalker, Corrosion Scythe, Great Dragon Spear",
-                  "Support, Petrify",
-                  "58.06%"
+                  "Thunder Belt, Dominance Ice, Oracle",
+                  "Support, Revitalize",
+                  "59.72%"
                 ],
                 [
                   "Angela",
@@ -8939,7 +9129,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Angela’s setup is picked in 15.45% of her matches. Each hero’s profile lists talents and alternative builds."
+              "text": "Heroes are listed by popularity over the last 30 days. Each hero profile also has alternative builds, skills and counters."
             },
             {
               "type": "heading",
@@ -8955,35 +9145,35 @@
               ],
               "rows": [
                 [
-                  "Dominance Ice",
-                  "24 of 133"
-                ],
-                [
                   "War Axe",
-                  "23 of 133"
-                ],
-                [
-                  "Sky Piercer",
-                  "23 of 133"
+                  "26 of 133"
                 ],
                 [
                   "Glowing Wand",
-                  "21 of 133"
+                  "23 of 133"
                 ],
                 [
-                  "Corrosion Scythe",
+                  "Dominance Ice",
+                  "22 of 133"
+                ],
+                [
+                  "Hunter Strike",
+                  "18 of 133"
+                ],
+                [
+                  "Sky Piercer",
+                  "16 of 133"
+                ],
+                [
+                  "Queen's Wings",
                   "15 of 133"
                 ],
                 [
                   "Lightning Truncheon",
-                  "15 of 133"
+                  "14 of 133"
                 ],
                 [
-                  "Hunter Strike",
-                  "15 of 133"
-                ],
-                [
-                  "Queen's Wings",
+                  "Divine Glaive",
                   "14 of 133"
                 ]
               ],
@@ -8991,7 +9181,7 @@
             },
             {
               "type": "paragraph",
-              "text": "There is no single item everyone must buy: even the most common one is in the build of only every sixth hero. Defensive items such as Dominance Ice are taken by both tanks and fighters, which puts them at the top."
+              "text": "There is no single item everyone must buy: even the most common one, War Axe, is in the build of only every fifth hero. The rest are shared by heroes of the same role."
             },
             {
               "type": "heading",
@@ -9008,19 +9198,19 @@
               "rows": [
                 [
                   "Assassin",
-                  "29"
+                  "37"
                 ],
                 [
                   "Mage",
-                  "26"
+                  "27"
                 ],
                 [
                   "Fighter",
-                  "25"
+                  "19"
                 ],
                 [
                   "Tank",
-                  "20"
+                  "18"
                 ],
                 [
                   "Support",
@@ -9032,7 +9222,7 @@
                 ],
                 [
                   "Common",
-                  "6"
+                  "5"
                 ]
               ],
               "visuals": true
@@ -9056,7 +9246,7 @@
               "rows": [
                 [
                   "Flicker",
-                  "62"
+                  "60"
                 ],
                 [
                   "Retribution",
@@ -9064,19 +9254,15 @@
                 ],
                 [
                   "Petrify",
-                  "13"
-                ],
-                [
-                  "Vengeance",
                   "12"
                 ],
                 [
                   "Revitalize",
-                  "9"
+                  "11"
                 ],
                 [
-                  "Purify",
-                  "6"
+                  "Vengeance",
+                  "11"
                 ],
                 [
                   "Inspire",
@@ -9087,8 +9273,16 @@
                   "4"
                 ],
                 [
+                  "Purify",
+                  "4"
+                ],
+                [
                   "Aegis",
-                  "1"
+                  "3"
+                ],
+                [
+                  "Sprint",
+                  "2"
                 ]
               ],
               "visuals": true
@@ -9119,11 +9313,11 @@
                 },
                 {
                   "q": "Which emblem is picked most in MLBB?",
-                  "a": "The Assassin emblem — 29 heroes out of 133. The Mage and Fighter emblems come next."
+                  "a": "The Assassin emblem: 37 heroes out of 133. The Mage and Fighter emblems come next."
                 },
                 {
                   "q": "Which battle spell is best in Mobile Legends?",
-                  "a": "Flicker most often: it is the main spell for 62 heroes out of 133. Junglers take Retribution."
+                  "a": "Flicker most often: it is the main spell for 60 heroes out of 133. Junglers take Retribution."
                 }
               ]
             }

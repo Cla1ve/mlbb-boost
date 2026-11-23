@@ -65,13 +65,13 @@
   <link rel="service-desc" href="/.well-known/agent-skills/index.json">
   <link rel="service-doc" href="/faq.html">
   <link rel="describedby" href="/about.html">
-  <link rel="stylesheet" href="/styles/main.css?v=3">
+  <link rel="preload" href="/fonts/golos-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=4">
-  <link rel="stylesheet" href="/styles/reader.css?v=1">
+  <link rel="stylesheet" href="/styles/arena.css?v=5">
+  <link rel="stylesheet" href="/styles/journal.css?v=1">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -264,7 +264,7 @@
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner"><nav class="arena-context" aria-label="Разделы Mobile Legends"><a href="/heroes/">Тир-лист</a><a href="/news/">Новости и гайды</a></nav></div>
+        <div class="container article-header__inner"><nav class="arena-context" aria-label="Разделы Mobile Legends"><a href="/heroes/">Тир-лист</a><a href="/news/" aria-current="page">Новости и гайды</a></nav></div>
         <div class="container journal-hero">
           <div class="journal-title">
             <p class="journal-meta"><a href="/news/?category=guides">Гайды</a><time datetime="2026-11-22T13:44:00+03:00">22 ноября 2026 г.</time></p>
@@ -343,7 +343,7 @@
 <h2 id="matches">Сколько матчей до Мифика</h2>
 <p>Всё решает процент побед. При 50% побед звёзды почти стоят на месте: поражения съедают победы, и двигает вперёд только защита звезды. Каждые лишние пять процентов побед сокращают путь в разы. Мы посчитали примерное число матчей с учётом защиты звезды и калибровки.</p>
 
-      <div class="article-table-wrap article-table-wrap--cols-4" role="region" aria-label="Примерное число матчей при разном проценте побед" data-scroll-region>
+      <div class="article-table-wrap article-table-wrap--cols-5" role="region" aria-label="Примерное число матчей при разном проценте побед" data-scroll-region>
         <table>
           <caption>Примерное число матчей при разном проценте побед</caption>
           <thead><tr><th scope="col">Путь</th><th scope="col">Звёзд</th><th scope="col">52% побед</th><th scope="col">55% побед</th><th scope="col">60% побед</th></tr></thead>
@@ -360,7 +360,6 @@
       </section>
 
       <aside class="rank-cta" aria-labelledby="ranks-route-price">
-        <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
         <div class="rank-cta__copy">
           <h2 id="ranks-route-price">Узнайте цену буста до нужного ранга</h2>
           <span>Выберите текущий ранг и цель — калькулятор покажет стоимость.</span>
@@ -368,7 +367,6 @@
         <div class="rank-cta__action">
           <a href="/order.html?type=standard" data-news-cta data-cta-position="end-of-article">
             <span class="rank-cta__button-label">Рассчитать стоимость</span>
-            <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
         </div>
       </aside>
@@ -457,6 +455,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=7"></script>
+  <script defer src="/js/news.js?v=8"></script>
 </body>
 </html>

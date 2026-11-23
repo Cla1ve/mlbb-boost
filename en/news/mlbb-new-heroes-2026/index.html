@@ -65,13 +65,13 @@
   <link rel="service-desc" href="/.well-known/agent-skills/index.json">
   <link rel="service-doc" href="/en/faq.html">
   <link rel="describedby" href="/en/about.html">
-  <link rel="stylesheet" href="/styles/main.css?v=3">
+  <link rel="preload" href="/fonts/golos-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=4">
-  <link rel="stylesheet" href="/styles/reader.css?v=1">
+  <link rel="stylesheet" href="/styles/arena.css?v=5">
+  <link rel="stylesheet" href="/styles/journal.css?v=1">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -256,7 +256,7 @@
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner"><nav class="arena-context" aria-label="Mobile Legends sections"><a href="/en/heroes/">Tier list</a><a href="/en/news/">News & guides</a></nav></div>
+        <div class="container article-header__inner"><nav class="arena-context" aria-label="Mobile Legends sections"><a href="/en/heroes/">Tier list</a><a href="/en/news/" aria-current="page">News & guides</a></nav></div>
         <div class="container journal-hero">
           <div class="journal-title">
             <p class="journal-meta"><a href="/en/news/?category=patches">Patches</a><time datetime="2026-11-22T23:21:00+03:00">November 22, 2026</time></p>
@@ -346,7 +346,7 @@
         <span>Updated daily</span>
         <strong>MLBB tier list for all 133 heroes</strong>
         <small>Current win rates, roles, lanes and counters from official statistics</small>
-        <b aria-hidden="true">→</b>
+
       </a>
 <h2 id="next">When the next new hero comes out</h2>
 <p>In 2025 and 2026 new heroes arrived about once every three months: in June, September and December 2025, then in March and June 2026. Since Hirara there has been no new hero for five months. There is no official announcement as of 22 November, so we will not name a hero or a date: rumours about new heroes are often wrong.</p>
@@ -358,7 +358,6 @@
       </section>
 
       <aside class="rank-cta" aria-labelledby="new-heroes-rank">
-        <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
         <div class="rank-cta__copy">
           <h2 id="new-heroes-rank">Check the boost price to your goal</h2>
           <span>Enter your current rank and goal — the calculator shows the price at once.</span>
@@ -366,7 +365,6 @@
         <div class="rank-cta__action">
           <a href="/en/order.html?type=standard" data-news-cta data-cta-position="end-of-article">
             <span class="rank-cta__button-label">Calculate the price</span>
-            <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
         </div>
       </aside>
@@ -455,6 +453,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=7"></script>
+  <script defer src="/js/news.js?v=8"></script>
 </body>
 </html>

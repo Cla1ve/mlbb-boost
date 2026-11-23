@@ -57,13 +57,13 @@
   <link rel="service-desc" href="/.well-known/agent-skills/index.json">
   <link rel="service-doc" href="/en/faq.html">
   <link rel="describedby" href="/en/about.html">
-  <link rel="stylesheet" href="/styles/main.css?v=3">
+  <link rel="preload" href="/fonts/golos-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=4">
-  <link rel="stylesheet" href="/styles/reader.css?v=1">
+  <link rel="stylesheet" href="/styles/arena.css?v=5">
+  <link rel="stylesheet" href="/styles/journal.css?v=1">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -271,7 +271,7 @@
         <div class="arena-sr" role="status" data-news-status></div>
         <div class="news-grid journal-grid">
 
-  <article class="news-card news-card--featured" data-news-card data-category="guides" data-featured="true">
+  <article class="news-card news-card--featured" data-news-card data-slot="lead" data-category="guides" data-featured="true">
     <a class="news-card__link" href="/en/news/mlbb-builds-2026/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -287,11 +287,11 @@
       <div class="news-card__content">
         <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-23T18:04:00+03:00">November 23, 2026</time></div>
         <h2>MLBB hero builds 2026: what players build in ranked</h2>
-        <p>Items, emblems and battle spells for Hanabi, Obsidia and eight other popular ranked heroes.</p>
+        <p>Items, emblems and battle spells for all 133 ranked heroes, with search by name and a lane filter.</p>
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="meta">
+  <article class="news-card" data-news-card data-slot="side" data-category="meta">
     <a class="news-card__link" href="/en/news/mlbb-who-to-ban/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -311,7 +311,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="guides">
+  <article class="news-card" data-news-card data-slot="side" data-category="guides">
     <a class="news-card__link" href="/en/news/mlbb-rank-up-solo/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -331,7 +331,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="guides">
+  <article class="news-card" data-news-card data-slot="side" data-category="guides">
     <a class="news-card__link" href="/en/news/mlbb-account-bind-recover/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -351,7 +351,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="patches">
+  <article class="news-card" data-news-card data-slot="grid" data-category="patches">
     <a class="news-card__link" href="/en/news/mlbb-new-heroes-2026/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -371,7 +371,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="guides">
+  <article class="news-card" data-news-card data-slot="grid" data-category="guides">
     <a class="news-card__link" href="/en/news/mlbb-change-nickname/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -391,7 +391,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="guides">
+  <article class="news-card" data-news-card data-slot="grid" data-category="guides">
     <a class="news-card__link" href="/en/news/mlbb-redeem-codes-guide/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -411,7 +411,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="patches">
+  <article class="news-card" data-news-card data-slot="grid" data-category="patches">
     <a class="news-card__link" href="/en/news/mlbb-current-patch/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -431,7 +431,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="meta">
+  <article class="news-card" data-news-card data-slot="grid" data-category="meta">
     <a class="news-card__link" href="/en/news/mlbb-meta-tier-list/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -451,7 +451,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="guides">
+  <article class="news-card" data-news-card data-slot="grid" data-category="guides">
     <a class="news-card__link" href="/en/news/mlbb-ranks-in-order/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -471,7 +471,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="guides">
+  <article class="news-card" data-news-card data-slot="grid" data-category="guides">
     <a class="news-card__link" href="/en/news/mlbb-season-end-rank-reset/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -491,7 +491,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="esports">
+  <article class="news-card" data-news-card data-slot="grid" data-category="esports">
     <a class="news-card__link" href="/en/news/m8-istanbul-world-road/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -511,7 +511,7 @@
       </div>
     </a>
   </article>
-  <article class="news-card" data-news-card data-category="esports">
+  <article class="news-card" data-news-card data-slot="grid" data-category="esports">
     <a class="news-card__link" href="/en/news/msc-2026-playoff-schedule/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
@@ -602,6 +602,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=7"></script>
+  <script defer src="/js/news.js?v=8"></script>
 </body>
 </html>

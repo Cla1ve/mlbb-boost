@@ -193,6 +193,11 @@
       cards.forEach((card) => {
         card.hidden = !visible.has(card);
       });
+      // Layout slots: a lead story and three beside it when there are enough, otherwise an even grid.
+      const shown = matching.slice(start, start + pageSize);
+      shown.forEach((card, index) => {
+        card.dataset.slot = shown.length >= 4 ? (index === 0 ? 'lead' : index < 4 ? 'side' : 'grid') : 'grid';
+      });
       if (grid) {
         const gridCards = Array.from(grid.querySelectorAll('[data-news-card]'));
         grid.hidden = gridCards.length > 0 && gridCards.every((card) => card.hidden);
@@ -273,28 +278,43 @@
     for (const index of document.querySelectorAll('[data-build-index]')) {
       const search = index.querySelector('[data-build-search]');
       const status = index.querySelector('[data-build-status]');
-      const catalog = index.querySelector('.journal-build-catalog a');
-      const catalogURL = new URL(catalog.href);
-      const cards = Array.from(index.querySelectorAll('[data-build-names]'));
-      const names = cards.map(card => decodeURIComponent(card.dataset.buildNames).split('|').map(normalize));
+      const empty = index.querySelector('[data-build-empty]');
+      const more = index.querySelector('[data-build-more]');
+      const laneButtons = Array.from(index.querySelectorAll('[data-build-lane]'));
+      const rows = Array.from(index.querySelectorAll('[data-build-names]'));
+      const names = rows.map(row => decodeURIComponent(row.dataset.buildNames).split('|').map(normalize));
+      const limit = Number(index.dataset.visible) || 16;
+      let lane = '';
+      let expanded = false;
       function filterBuilds() {
-        const query = search.value.trim();
-        const term = normalize(query);
-        if (term) catalogURL.searchParams.set('q', query);
-        else catalogURL.searchParams.delete('q');
-        catalog.href = catalogURL.href;
+        const term = normalize(search.value.trim());
+        const narrowed = Boolean(term || lane);
         let shown = 0;
-        for (const [i, card] of cards.entries()) {
-          const matches = names[i].some(name => name.includes(term));
-          card.hidden = !matches;
+        for (const [i, row] of rows.entries()) {
+          const matches = names[i].some(name => name.includes(term)) && (!lane || row.dataset.lanes.split(' ').includes(lane));
+          const visible = matches && (narrowed || expanded || shown < limit);
+          row.hidden = !visible;
           if (matches) shown++;
         }
-        status.textContent = shown
-          ? (locale === 'ru' ? 'Показано ' + shown + ' из ' + cards.length : 'Showing ' + shown + ' of ' + cards.length)
-          : (locale === 'ru' ? 'В этой статье такой сборки нет.' : 'This article has no matching builds.');
+        if (term && shown === 1) rows.find(row => !row.hidden)?.querySelector('details')?.setAttribute('open', '');
+        more.hidden = narrowed || expanded || rows.length <= limit;
+        empty.hidden = shown > 0;
+        status.textContent = locale === 'ru' ? 'Найдено героев: ' + shown : 'Heroes found: ' + shown;
+        for (const button of laneButtons) button.setAttribute('aria-pressed', String(button.dataset.buildLane === lane));
       }
-      search.closest('.journal-build-selector').hidden = false;
+      index.querySelector('.build-finder__tools').hidden = false;
       search.addEventListener('input', filterBuilds);
+      for (const button of laneButtons) {
+        button.addEventListener('click', () => {
+          lane = lane === button.dataset.buildLane ? '' : button.dataset.buildLane;
+          filterBuilds();
+        });
+      }
+      more.addEventListener('click', () => {
+        expanded = true;
+        filterBuilds();
+        rows[limit]?.querySelector('summary')?.focus();
+      });
       filterBuilds();
     }
   }
