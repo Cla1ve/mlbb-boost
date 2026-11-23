@@ -440,6 +440,13 @@
         "text": "Что меняется в сезоне, как устроены ранги и сколько стоит буст.",
         "items": [
           [
+            "Как поднять ранг соло",
+            "Сколько матчей до Мифика и герои для каждой линии",
+            "/news/mlbb-rank-up-solo/",
+            "ranks:Legend,Mythic",
+            "Гайд"
+          ],
+          [
             "Конец 42 сезона",
             "Ожидаемая дата и куда упадёт ранг",
             "/news/mlbb-season-end-rank-reset/",
@@ -466,6 +473,13 @@
             "/news/mlbb-current-patch/",
             "hero:bruno",
             "Патч"
+          ],
+          [
+            "Аккаунт Mobile Legends",
+            "Как привязать, сменить и восстановить",
+            "/news/mlbb-account-bind-recover/",
+            "icon:fa-user-shield",
+            "Гайд"
           ]
         ]
       },
@@ -475,6 +489,13 @@
         "title": "Guides and news for players",
         "text": "What changes this season, how ranks work and what a boost costs.",
         "items": [
+          [
+            "Rank up solo",
+            "How many matches Mythic takes and heroes for every lane",
+            "/news/mlbb-rank-up-solo/",
+            "ranks:Legend,Mythic",
+            "Guide"
+          ],
           [
             "Season 42 end",
             "Expected date and where your rank drops",
@@ -502,6 +523,13 @@
             "/news/mlbb-current-patch/",
             "hero:bruno",
             "Patch"
+          ],
+          [
+            "Mobile Legends account",
+            "How to bind, switch and recover it",
+            "/news/mlbb-account-bind-recover/",
+            "icon:fa-user-shield",
+            "Guide"
           ]
         ]
       }
@@ -669,11 +697,11 @@
             "Гайд"
           ],
           [
-            "Какой сейчас патч",
-            "Обновление 2.2.16 и что оно изменило",
-            "/news/mlbb-current-patch/",
-            "hero:bruno",
-            "Патч"
+            "Аккаунт Mobile Legends",
+            "Как привязать, сменить и восстановить",
+            "/news/mlbb-account-bind-recover/",
+            "icon:fa-user-shield",
+            "Гайд"
           ]
         ]
       },
@@ -705,11 +733,11 @@
             "Guide"
           ],
           [
-            "Current patch",
-            "Update 2.2.16 and what it changed",
-            "/news/mlbb-current-patch/",
-            "hero:bruno",
-            "Patch"
+            "Mobile Legends account",
+            "How to bind, switch and recover it",
+            "/news/mlbb-account-bind-recover/",
+            "icon:fa-user-shield",
+            "Guide"
           ]
         ]
       }
@@ -729,11 +757,11 @@
             "Статья"
           ],
           [
-            "Ранги по порядку",
-            "Все звания, звёзды и пороги Мифика",
-            "/news/mlbb-ranks-in-order/",
-            "ranks:Epic,Legend",
-            "Статья"
+            "Как поднять ранг соло",
+            "Сколько матчей до Мифика и герои для каждой линии",
+            "/news/mlbb-rank-up-solo/",
+            "ranks:Legend,Mythic",
+            "Гайд"
           ],
           [
             "Буст ММР на герое",
@@ -765,11 +793,11 @@
             "Article"
           ],
           [
-            "Ranks in order",
-            "All tiers, stars and Mythic thresholds",
-            "/news/mlbb-ranks-in-order/",
-            "ranks:Epic,Legend",
-            "Article"
+            "Rank up solo",
+            "How many matches Mythic takes and heroes for every lane",
+            "/news/mlbb-rank-up-solo/",
+            "ranks:Legend,Mythic",
+            "Guide"
           ],
           [
             "Hero MMR boost",

@@ -142,7 +142,7 @@ Guides
 
 Ranks, placement and season end — with tables and numbers.
 
-[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[![](/images/heroes/masha.webp)Tier list**MLBB tier list**Updated daily: 133 heroes, roles and counters](https://boostmlbb.ru/en/heroes/)[Guide**Where to redeem codes**The official form and why a code fails](https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/)[![](/images/heroes/bruno.webp)Patch**Current patch**Update 2.2.16 and what it changed](https://boostmlbb.ru/en/news/mlbb-current-patch/)
+[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[![](/images/heroes/masha.webp)Tier list**MLBB tier list**Updated daily: 133 heroes, roles and counters](https://boostmlbb.ru/en/heroes/)[Guide**Where to redeem codes**The official form and why a code fails](https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/)[Guide**Mobile Legends account**How to bind, switch and recover it](https://boostmlbb.ru/en/news/mlbb-account-bind-recover/)
 
 ---
 
@@ -315,7 +315,7 @@ Useful
 
 What changes this season, how ranks work and what a boost costs.
 
-[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Article**Season 42 end**Expected date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[![](/images/heroes/hirara.webp)Article**New heroes 2026**Hirara, Marcel, Sora and revamps by date](https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/)[![](/images/heroes/masha.webp)Tier list**MLBB tier list**Updated daily: 133 heroes, roles and counters](https://boostmlbb.ru/en/heroes/)[![](/images/heroes/bruno.webp)Patch**Current patch**Update 2.2.16 and what it changed](https://boostmlbb.ru/en/news/mlbb-current-patch/)
+[![](/images/ranks/Legend.webp)![](/images/ranks/Mythic.webp)Guide**Rank up solo**How many matches Mythic takes and heroes for every lane](https://boostmlbb.ru/en/news/mlbb-rank-up-solo/)[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Article**Season 42 end**Expected date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[![](/images/heroes/hirara.webp)Article**New heroes 2026**Hirara, Marcel, Sora and revamps by date](https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/)[![](/images/heroes/masha.webp)Tier list**MLBB tier list**Updated daily: 133 heroes, roles and counters](https://boostmlbb.ru/en/heroes/)[![](/images/heroes/bruno.webp)Patch**Current patch**Update 2.2.16 and what it changed](https://boostmlbb.ru/en/news/mlbb-current-patch/)[Guide**Mobile Legends account**How to bind, switch and recover it](https://boostmlbb.ru/en/news/mlbb-account-bind-recover/)
 
 ---
 
@@ -3172,7 +3172,7 @@ Related
 
 How ranks work and what happens to your stars after the reset.
 
-[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Article**Season 42 end**Expected date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[![](/images/heroes/harley.webp)Service**Hero MMR boost**Rank and rating of your hero](https://boostmlbb.ru/en/boost/hero.html)[![](/images/ranks/Mythic.webp)Guide**Mythic placement**10 matches, double wins and price](https://boostmlbb.ru/en/guides/mythic-placement.html)
+[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Article**Season 42 end**Expected date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[![](/images/ranks/Legend.webp)![](/images/ranks/Mythic.webp)Guide**Rank up solo**How many matches Mythic takes and heroes for every lane](https://boostmlbb.ru/en/news/mlbb-rank-up-solo/)[![](/images/heroes/harley.webp)Service**Hero MMR boost**Rank and rating of your hero](https://boostmlbb.ru/en/boost/hero.html)[![](/images/ranks/Mythic.webp)Guide**Mythic placement**10 matches, double wins and price](https://boostmlbb.ru/en/guides/mythic-placement.html)
 
 ---
 

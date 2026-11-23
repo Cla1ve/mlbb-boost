@@ -94,6 +94,8 @@ const guideOf = file => config.guides.find(g => g.file === file);
 const footerGuides = [
   ['/news/mlbb-ranks-in-order/', 'Ранги по порядку', 'Ranks in order'],
   ['/news/mlbb-season-end-rank-reset/', 'Конец сезона и сброс', 'Season end and reset'],
+  ['/news/mlbb-rank-up-solo/', 'Как поднять ранг соло', 'Rank up solo'],
+  ['/news/mlbb-account-bind-recover/', 'Аккаунт MLBB: привязка', 'MLBB account binding'],
   ['/boost/mythic.html', 'Буст Мифика', 'Mythic boost'],
   ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
   ['/guides/mythic-placement.html', 'Калибровка Мифика', 'Mythic placement'],
