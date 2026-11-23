@@ -1,6 +1,6 @@
 ---
 title: "Сан MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Сан в Mobile Legends, процент побед 53,69%, выбора и банов по официальной статистике за 30 дней, тир S и патч 2.2.16."
+description: "Кто контрит героя Сан в Mobile Legends: боец, линия опыта или лес, 53,72% побед, тир S, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/sun.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Сан в Mobile Legends: контрпики и статистика
 
-Сан выигрывает 53,69% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта или лес. Сан выигрывает 53,72% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,67 @@ language: ru
 
 ![](/images/heroes/sun.webp)
 
-**Сан**Бан 34,40% · Выбор 1,75%
+**Сан**Бан 35,31% · Выбор 1,75%
 
 Контрпики
 
 ![](/images/heroes/jawhead.webp)![](/images/heroes/diggie.webp)![](/images/heroes/harley.webp)
 
-Победы за 30 дней**53,69%**
+Победы за 30 дней**53,72%**
 
-**53,69%**побед за 30 дней
+**53,72%**побед за 30 дней
 
 **1,75%**выбирают в матчах
 
-**34,40%**банят в матчах
+**35,31%**банят в матчах
 
-**52,52%**побед в Мифической славе
+**52,58%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Сан» — боец, играет на линии опыта или в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Боец**
+-   Линия**Линия опыта или лес**
+-   Среди бойцов**3-е из 44**
+-   На линии опыта**3-е из 42**
+-   В лесу**1-е из 37**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сан». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сан». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/jawhead.webp)Кусака47,88%](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/diggie.webp)Дигги54,25%](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/harley.webp)Харли48,17%](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/saber.webp)Сабер51,18%](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/karrie.webp)Кэрри48,85%](https://boostmlbb.ru/heroes/karrie.html)
+[![Кусака](/images/heroes/jawhead.webp)Кусака47,87%](https://boostmlbb.ru/heroes/jawhead.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Харли](/images/heroes/harley.webp)Харли48,19%](https://boostmlbb.ru/heroes/harley.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Кэрри](/images/heroes/karrie.webp)Кэрри48,87%](https://boostmlbb.ru/heroes/karrie.html)
 
 ## Против кого силён
 
-Для этих героев «Сан» сам числится контрпиком.
+«Сан» числится контрпиком для этих героев.
 
-[![](/images/heroes/badang.webp)Баданг50,20%](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/kimmy.webp)Кимми48,77%](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/alucard.webp)Алукард48,85%](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/ruby.webp)Руби49,12%](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/natan.webp)Натан51,31%](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/marcel.webp)Марсель57,49%](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/faramis.webp)Фарамис50,84%](https://boostmlbb.ru/heroes/faramis.html)
+[![Баданг](/images/heroes/badang.webp)Баданг50,19%](https://boostmlbb.ru/heroes/badang.html)[![Су Ё](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Алукард](/images/heroes/alucard.webp)Алукард48,87%](https://boostmlbb.ru/heroes/alucard.html)[![Руби](/images/heroes/ruby.webp)Руби49,12%](https://boostmlbb.ru/heroes/ruby.html)[![Натан](/images/heroes/natan.webp)Натан51,32%](https://boostmlbb.ru/heroes/natan.html)[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Джой](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (55,91%), слабее всего — «Мифическая слава» (52,58%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**55,91%**
+-   ![](/images/ranks/Legend.webp)Легенда**55,49%**
+-   ![](/images/ranks/Mythic.webp)Мифический**54,40%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**52,90%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**52,58%**
 
 ## Место в мете
 
-«Сан» — тир S в нашем тир-листе по проценту побед, 11-е место из 133 героев. В патче 2.2.16 герой изменён без явного усиления или ослабления. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Сан» — тир S в нашем тир-листе по проценту побед, 11-е место из 133 героев. В Мифической славе процент побед ниже: 52,58% против 53,72% на всех рангах, разница 1,14 п. п. На этом ранге героя банят в 38,93% матчей. В патче 2.2.16 герой изменён без явного усиления или ослабления. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии опыта
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)
 
 ## История и навыки
 
-![](/images/heroes/sun.webp)
+![Сан](/images/heroes/sun.webp)
 
 Историю героя, навыки и реплики собирает [страница Sun в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ language: ru
 
 Какой процент побед у героя «Сан» сейчас?
 
-53,69% за последние 30 дней на всех рангах и 52,52% в Мифической славе, данные на 21 ноября 2026 года.
+53,72% за последние 30 дней на всех рангах и 52,58% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Сан»?
+
+Боец, играет на линии опыта или в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Сан» в текущей мете?
+
+Тир S: 11-е место из 133 героев по проценту побед за 30 дней и 3-е среди бойцов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

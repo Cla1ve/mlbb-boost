@@ -1,6 +1,6 @@
 ---
 title: "Тигрил MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Тигрил в Mobile Legends, процент побед 45,20%, выбора и банов по официальной статистике за 30 дней, тир D и патч 2.2.16."
+description: "Кто контрит героя Тигрил в Mobile Legends: танк, роум, 45,22% побед, тир D, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/tigreal.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Тигрил в Mobile Legends: контрпики и статистика
 
-Тигрил выигрывает 45,20% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк, роум. Тигрил выигрывает 45,22% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/tigreal.webp)
 
-**Тигрил**Бан 7,39% · Выбор 2,00%
+**Тигрил**Бан 7,43% · Выбор 2,00%
 
 Контрпики
 
-![](/images/heroes/zilong.webp)![](/images/heroes/estes.webp)![](/images/heroes/alucard.webp)
+![](/images/heroes/zilong.webp)![](/images/heroes/estes.webp)![](/images/heroes/franco.webp)
 
-Победы за 30 дней**45,20%**
+Победы за 30 дней**45,22%**
 
-**45,20%**побед за 30 дней
+**45,22%**побед за 30 дней
 
 **2,00%**выбирают в матчах
 
-**7,39%**банят в матчах
+**7,43%**банят в матчах
 
-**44,31%**побед в Мифической славе
+**44,37%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Тигрил» — танк, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Танк**
+-   Линия**Роум**
+-   Среди танков**24-е из 25**
+-   В роуме**31-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Тигрил». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Тигрил». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/zilong.webp)Зилонг46,28%](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/estes.webp)Эстес52,74%](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/alucard.webp)Алукард48,85%](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/franco.webp)Франко41,57%](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/lesley.webp)Лесли48,29%](https://boostmlbb.ru/heroes/lesley.html)
+[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Франко](/images/heroes/franco.webp)Франко41,58%](https://boostmlbb.ru/heroes/franco.html)[![Алукард](/images/heroes/alucard.webp)Алукард48,87%](https://boostmlbb.ru/heroes/alucard.html)[![Лесли](/images/heroes/lesley.webp)Лесли48,31%](https://boostmlbb.ru/heroes/lesley.html)
 
 ## Против кого силён
 
-Для этих героев «Тигрил» сам числится контрпиком.
+«Тигрил» числится контрпиком для этих героев.
 
-[![](/images/heroes/zetian.webp)Цзэтянь50,89%](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/alice.webp)Алиса50,73%](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/aulus.webp)Аулус53,48%](https://boostmlbb.ru/heroes/aulus.html)
+[![Цзэтянь](/images/heroes/zetian.webp)Цзэтянь50,89%](https://boostmlbb.ru/heroes/zetian.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (48,83%), слабее всего — «Мифическая слава» (44,37%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**48,83%**
+-   ![](/images/ranks/Legend.webp)Легенда**46,07%**
+-   ![](/images/ranks/Mythic.webp)Мифический**44,84%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**44,81%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**44,37%**
 
 ## Место в мете
 
-«Тигрил» — тир D в нашем тир-листе по проценту побед, 126-е место из 133 героев. В патче 2.2.16 герой усилен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Тигрил» — тир D в нашем тир-листе по проценту побед, 126-е место из 133 героев. В Мифической славе процент побед ниже: 44,37% против 45,22% на всех рангах, разница 0,85 п. п. В патче 2.2.16 герой усилен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
 
 ## История и навыки
 
-![](/images/heroes/tigreal.webp)
+![Тигрил](/images/heroes/tigreal.webp)
 
 Историю героя, навыки и реплики собирает [страница Tigreal в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Tigreal) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ language: ru
 
 Кто контрпик для героя «Тигрил» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Зилонг, Эстес, Алукард, Франко и Лесли.
+По официальной статистике MOONTON за 30 дней: Зилонг, Эстес, Франко, Алукард и Лесли.
 
 Какой процент побед у героя «Тигрил» сейчас?
 
-45,20% за последние 30 дней на всех рангах и 44,31% в Мифической славе, данные на 21 ноября 2026 года.
+45,22% за последние 30 дней на всех рангах и 44,37% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Тигрил»?
+
+Танк, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Тигрил» в текущей мете?
+
+Тир D: 126-е место из 133 героев по проценту побед за 30 дней и 24-е среди танков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

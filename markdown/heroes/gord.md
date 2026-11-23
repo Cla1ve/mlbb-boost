@@ -1,6 +1,6 @@
 ---
 title: "Горд MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Горд в Mobile Legends, процент побед 52,63%, выбора и банов по официальной статистике за 30 дней, тир A и патч 2.2.16."
+description: "Кто контрит героя Горд в Mobile Legends: маг, средняя линия, 52,61% побед, тир A, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/gord.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Горд в Mobile Legends: контрпики и статистика
 
-Горд выигрывает 52,63% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг, средняя линия. Горд выигрывает 52,61% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/gord.webp)
 
-**Горд**Бан 0,55% · Выбор 0,59%
+**Горд**Бан 0,55% · Выбор 0,58%
 
 Контрпики
 
-![](/images/heroes/barats.webp)![](/images/heroes/fredrinn.webp)![](/images/heroes/lolita.webp)
+![](/images/heroes/barats.webp)![](/images/heroes/lolita.webp)![](/images/heroes/fredrinn.webp)
 
-Победы за 30 дней**52,63%**
+Победы за 30 дней**52,61%**
 
-**52,63%**побед за 30 дней
+**52,61%**побед за 30 дней
 
-**0,59%**выбирают в матчах
+**0,58%**выбирают в матчах
 
 **0,55%**банят в матчах
 
-**52,27%**побед в Мифической славе
+**52,25%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Горд» — маг, играет на средней линии. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Маг**
+-   Линия**Средняя линия**
+-   Среди магов**2-е из 32**
+-   На средней линии**2-е из 29**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Горд». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Горд». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — танки.
 
-[![](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/fredrinn.webp)Фредрин51,24%](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/phoveus.webp)Фовиус48,20%](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/alice.webp)Алиса50,73%](https://boostmlbb.ru/heroes/alice.html)
+[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Фредрин](/images/heroes/fredrinn.webp)Фредрин51,25%](https://boostmlbb.ru/heroes/fredrinn.html)[![Фовиус](/images/heroes/phoveus.webp)Фовиус48,21%](https://boostmlbb.ru/heroes/phoveus.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)
 
 ## Против кого силён
 
-Для этих героев «Горд» сам числится контрпиком.
+«Горд» числится контрпиком для этих героев.
 
-[![](/images/heroes/harley.webp)Харли48,17%](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/helcurt.webp)Хелкарт47,61%](https://boostmlbb.ru/heroes/helcurt.html)
+[![Харли](/images/heroes/harley.webp)Харли48,19%](https://boostmlbb.ru/heroes/harley.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифический» (53,07%), слабее всего — «Мифическая слава» (52,25%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**52,39%**
+-   ![](/images/ranks/Legend.webp)Легенда**52,68%**
+-   ![](/images/ranks/Mythic.webp)Мифический**53,07%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**52,79%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**52,25%**
 
 ## Место в мете
 
-«Горд» — тир A в нашем тир-листе по проценту побед, 21-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Горд» — тир A в нашем тир-листе по проценту побед, 21-е место из 133 героев. В Мифической славе результат почти такой же: 52,25%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои средней линии
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)
 
 ## История и навыки
 
-![](/images/heroes/gord.webp)
+![Горд](/images/heroes/gord.webp)
 
 Историю героя, навыки и реплики собирает [страница Gord в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gord) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ language: ru
 
 Кто контрпик для героя «Горд» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Бартс, Фредрин, Лолита, Фовиус и Алиса.
+По официальной статистике MOONTON за 30 дней: Бартс, Лолита, Фредрин, Фовиус и Алиса.
 
 Какой процент побед у героя «Горд» сейчас?
 
-52,63% за последние 30 дней на всех рангах и 52,27% в Мифической славе, данные на 21 ноября 2026 года.
+52,61% за последние 30 дней на всех рангах и 52,25% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Горд»?
+
+Маг, играет на средней линии. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Горд» в текущей мете?
+
+Тир A: 21-е место из 133 героев по проценту побед за 30 дней и 2-е среди магов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

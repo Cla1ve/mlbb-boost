@@ -238,3 +238,20 @@ a.lp-card::after { content: '→'; position: absolute; right: 18px; top: 50%; tr
 @media (max-width: 768px) {
   .lp-page .lp-hero { padding-top: 24px; }
 }
+
+/* Hero pages: role and lane facts, grouped chips on the heroes hub (2026-11-23). */
+.hero-facts { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
+.hero-facts li { display: flex; flex-direction: column; gap: 4px; padding: 14px 16px; border-radius: 14px; background: rgba(13, 33, 54, 0.72); border: 1px solid rgba(0, 255, 157, 0.16); }
+.hero-facts span { font-size: 0.82rem; color: var(--text-gray, #a9c4dc); }
+.hero-facts strong { font-size: 1.05rem; color: #fff; }
+.hero-group__title { margin: 26px 0 12px; font-size: 1.1rem; color: #fff; }
+.hero-group__title:first-of-type { margin-top: 4px; }
+@media (max-width: 520px) { .hero-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.hero-ranks { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.hero-ranks li { display: grid; grid-template-columns: 40px minmax(120px, 190px) 1fr 70px; align-items: center; gap: 14px; padding: 10px 16px; border-radius: 14px; background: rgba(13, 33, 54, 0.72); border: 1px solid rgba(255, 255, 255, 0.07); }
+.hero-ranks img { width: 40px; height: 40px; object-fit: contain; }
+.hero-ranks__name { color: #fff; font-weight: 600; }
+.hero-ranks__bar { height: 10px; border-radius: 999px; background: rgba(255, 255, 255, 0.07); overflow: hidden; }
+.hero-ranks__bar i { display: block; height: 100%; border-radius: inherit; background: linear-gradient(90deg, #00a86b, #00ff9d); }
+.hero-ranks strong { text-align: right; color: #00ff9d; font-variant-numeric: tabular-nums; }
+@media (max-width: 520px) { .hero-ranks li { grid-template-columns: 32px 1fr 64px; } .hero-ranks img { width: 32px; height: 32px; } .hero-ranks__bar { grid-column: 1 / -1; order: 4; } }

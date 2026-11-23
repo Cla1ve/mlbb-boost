@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:55:00",
+ "updated": "2026-11-23T00:25:00",
  "source": "https://www.mobilelegends.com/rank",
  "period": "30 days, all ranks",
  "heroes": [
@@ -9,10 +9,10 @@
    "ru": "Маша",
    "rank": 1,
    "pick": 0.52,
-   "win": 60.47,
-   "ban": 40.76,
-   "gloryWin": 60.85,
-   "gloryBan": 72.71,
+   "win": 60.4,
+   "ban": 40.89,
+   "gloryWin": 60.75,
+   "gloryBan": 72.41,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -27,7 +27,22 @@
     "freya"
    ],
    "patch": "rework",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 46,
+   "byRank": {
+    "epic": 54.74,
+    "legend": 58.09,
+    "mythic": 59.63,
+    "honor": 61.09,
+    "glory": 60.75
+   }
   },
   {
    "slug": "marcel",
@@ -35,10 +50,10 @@
    "ru": "Марсель",
    "rank": 2,
    "pick": 0.29,
-   "win": 57.49,
-   "ban": 41.06,
-   "gloryWin": 57.38,
-   "gloryBan": 71.47,
+   "win": 57.46,
+   "ban": 41.3,
+   "gloryWin": 57.36,
+   "gloryBan": 71.35,
    "tier": "S",
    "lowPick": true,
    "counters": [
@@ -54,17 +69,28 @@
     "bruno",
     "irithel",
     "cyclops",
-    "clint",
     "aamon",
     "angela",
-    "odette",
-    "layla",
     "karina",
     "lesley",
     "esmeralda"
    ],
    "patch": "adjusted",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 2,
+   "byRank": {
+    "epic": 55.64,
+    "legend": 56.95,
+    "mythic": 57.54,
+    "honor": 57.94,
+    "glory": 57.36
+   }
   },
   {
    "slug": "argus",
@@ -72,10 +98,10 @@
    "ru": "Аргус",
    "rank": 3,
    "pick": 0.53,
-   "win": 56.76,
-   "ban": 0.97,
-   "gloryWin": 56.85,
-   "gloryBan": 0.48,
+   "win": 56.78,
+   "ban": 0.98,
+   "gloryWin": 56.88,
+   "gloryBan": 0.49,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -94,7 +120,21 @@
     "gatotkaca"
    ],
    "patch": "buff",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 89,
+   "byRank": {
+    "epic": 55.52,
+    "legend": 56.71,
+    "mythic": 57.41,
+    "honor": 56.77,
+    "glory": 56.88
+   }
   },
   {
    "slug": "khufra",
@@ -102,10 +142,10 @@
    "ru": "Хуфра",
    "rank": 4,
    "pick": 0.35,
-   "win": 54.71,
-   "ban": 2.13,
-   "gloryWin": 54.55,
-   "gloryBan": 3.93,
+   "win": 54.72,
+   "ban": 2.14,
+   "gloryWin": 54.56,
+   "gloryBan": 3.91,
    "tier": "S",
    "lowPick": true,
    "counters": [
@@ -124,26 +164,40 @@
     "martis"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 56,
+   "byRank": {
+    "epic": 55.11,
+    "legend": 54.54,
+    "mythic": 54.84,
+    "honor": 55.15,
+    "glory": 54.56
+   }
   },
   {
    "slug": "rafaela",
    "en": "Rafaela",
    "ru": "Рафаэль",
    "rank": 5,
-   "pick": 0.86,
-   "win": 54.57,
-   "ban": 12.92,
-   "gloryWin": 54,
-   "gloryBan": 13.59,
+   "pick": 0.85,
+   "win": 54.51,
+   "ban": 12.66,
+   "gloryWin": 53.95,
+   "gloryBan": 13.21,
    "tier": "S",
    "lowPick": false,
    "counters": [
     "valir",
     "natalia",
     "marcel",
-    "cici",
-    "hylos"
+    "hylos",
+    "cici"
    ],
    "strongAgainst": [
     "silvanna",
@@ -153,7 +207,21 @@
     "layla"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 120,
+   "byRank": {
+    "epic": 53.15,
+    "legend": 54.77,
+    "mythic": 55.26,
+    "honor": 55.22,
+    "glory": 53.95
+   }
   },
   {
    "slug": "diggie",
@@ -161,16 +229,16 @@
    "ru": "Дигги",
    "rank": 6,
    "pick": 0.2,
-   "win": 54.25,
-   "ban": 3.64,
-   "gloryWin": 55.4,
-   "gloryBan": 5.23,
+   "win": 54.3,
+   "ban": 3.66,
+   "gloryWin": 55.46,
+   "gloryBan": 5.22,
    "tier": "S",
    "lowPick": true,
    "counters": [
     "alice",
-    "guinevere",
     "zhuxin",
+    "guinevere",
     "cici",
     "valir"
    ],
@@ -187,12 +255,27 @@
     "change",
     "helcurt",
     "pharsa",
+    "grock",
     "zilong",
     "granger",
     "franco"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 86,
+   "byRank": {
+    "epic": 50.73,
+    "legend": 51.54,
+    "mythic": 53.13,
+    "honor": 53.91,
+    "glory": 55.46
+   }
   },
   {
    "slug": "valir",
@@ -200,10 +283,10 @@
    "ru": "Валир",
    "rank": 7,
    "pick": 1.21,
-   "win": 54.13,
-   "ban": 3.72,
-   "gloryWin": 53.74,
-   "gloryBan": 2.79,
+   "win": 54.11,
+   "ban": 3.78,
+   "gloryWin": 53.73,
+   "gloryBan": 2.87,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -226,18 +309,32 @@
     "mathilda"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 77,
+   "byRank": {
+    "epic": 54.28,
+    "legend": 54.28,
+    "mythic": 54.66,
+    "honor": 54.23,
+    "glory": 53.73
+   }
   },
   {
    "slug": "floryn",
    "en": "Floryn",
    "ru": "Флорин",
    "rank": 8,
-   "pick": 0.94,
-   "win": 54.06,
-   "ban": 13.33,
-   "gloryWin": 53.82,
-   "gloryBan": 12.77,
+   "pick": 0.95,
+   "win": 54.07,
+   "ban": 13.36,
+   "gloryWin": 53.83,
+   "gloryBan": 12.83,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -252,21 +349,76 @@
     "eudora",
     "ixia",
     "yin",
+    "chip",
     "franco"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 22,
+   "byRank": {
+    "epic": 55.57,
+    "legend": 54.51,
+    "mythic": 54.05,
+    "honor": 54.18,
+    "glory": 53.83
+   }
+  },
+  {
+   "slug": "bruno",
+   "en": "Bruno",
+   "ru": "Бруно",
+   "rank": 9,
+   "pick": 0.56,
+   "win": 53.78,
+   "ban": 0.29,
+   "gloryWin": 54.31,
+   "gloryBan": 0.32,
+   "tier": "S",
+   "lowPick": false,
+   "counters": [
+    "wanwan",
+    "ling",
+    "fanny",
+    "masha",
+    "marcel"
+   ],
+   "strongAgainst": [
+    "aamon",
+    "lesley"
+   ],
+   "patch": "rework",
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 122,
+   "byRank": {
+    "epic": 52.02,
+    "legend": 52.18,
+    "mythic": 52.75,
+    "honor": 53.6,
+    "glory": 54.31
+   }
   },
   {
    "slug": "minotaur",
    "en": "Minotaur",
    "ru": "Минотавр",
-   "rank": 9,
+   "rank": 10,
    "pick": 1,
    "win": 53.77,
    "ban": 8.43,
-   "gloryWin": 53.11,
-   "gloryBan": 10.7,
+   "gloryWin": 53.12,
+   "gloryBan": 10.6,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -280,33 +432,22 @@
     "beatrix"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "bruno",
-   "en": "Bruno",
-   "ru": "Бруно",
-   "rank": 10,
-   "pick": 0.55,
-   "win": 53.76,
-   "ban": 0.28,
-   "gloryWin": 54.31,
-   "gloryBan": 0.3,
-   "tier": "S",
-   "lowPick": false,
-   "counters": [
-    "wanwan",
-    "ling",
-    "fanny",
-    "marcel",
-    "masha"
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Support"
    ],
-   "strongAgainst": [
-    "aamon",
-    "lesley"
+   "lanes": [
+    "Roam"
    ],
-   "patch": "rework",
-   "orders": null
+   "releaseOrder": 115,
+   "byRank": {
+    "epic": 54.01,
+    "legend": 54.96,
+    "mythic": 54.88,
+    "honor": 54.24,
+    "glory": 53.12
+   }
   },
   {
    "slug": "sun",
@@ -314,10 +455,10 @@
    "ru": "Сан",
    "rank": 11,
    "pick": 1.75,
-   "win": 53.69,
-   "ban": 34.4,
-   "gloryWin": 52.52,
-   "gloryBan": 37.49,
+   "win": 53.72,
+   "ban": 35.31,
+   "gloryWin": 52.58,
+   "gloryBan": 38.93,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -339,18 +480,71 @@
     "kimmy"
    ],
    "patch": "adjusted",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 107,
+   "byRank": {
+    "epic": 55.91,
+    "legend": 55.49,
+    "mythic": 54.4,
+    "honor": 52.9,
+    "glory": 52.58
+   }
+  },
+  {
+   "slug": "aulus",
+   "en": "Aulus",
+   "ru": "Аулус",
+   "rank": 12,
+   "pick": 0.77,
+   "win": 53.46,
+   "ban": 30.3,
+   "gloryWin": 53.44,
+   "gloryBan": 44.67,
+   "tier": "S",
+   "lowPick": false,
+   "counters": [
+    "gloo",
+    "minsitthar",
+    "tigreal",
+    "lolita",
+    "natalia"
+   ],
+   "strongAgainst": [],
+   "patch": "buff",
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 26,
+   "byRank": {
+    "epic": 51.65,
+    "legend": 52.55,
+    "mythic": 53.4,
+    "honor": 54.11,
+    "glory": 53.44
+   }
   },
   {
    "slug": "gloo",
    "en": "Gloo",
    "ru": "Глу",
-   "rank": 12,
-   "pick": 0.76,
-   "win": 53.55,
-   "ban": 41.96,
-   "gloryWin": 51.59,
-   "gloryBan": 38.18,
+   "rank": 13,
+   "pick": 0.75,
+   "win": 53.45,
+   "ban": 41.9,
+   "gloryWin": 51.51,
+   "gloryBan": 38.16,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -380,72 +574,39 @@
     "fanny"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "aulus",
-   "en": "Aulus",
-   "ru": "Аулус",
-   "rank": 13,
-   "pick": 0.77,
-   "win": 53.48,
-   "ban": 31.27,
-   "gloryWin": 53.45,
-   "gloryBan": 46.38,
-   "tier": "S",
-   "lowPick": false,
-   "counters": [
-    "gloo",
-    "minsitthar",
-    "tigreal",
-    "lolita",
-    "natalia"
+   "orders": null,
+   "roles": [
+    "Tank"
    ],
-   "strongAgainst": [],
-   "patch": "buff",
-   "orders": null
-  },
-  {
-   "slug": "carmilla",
-   "en": "Carmilla",
-   "ru": "Кармилла",
-   "rank": 14,
-   "pick": 1.27,
-   "win": 53.32,
-   "ban": 21.48,
-   "gloryWin": 52.64,
-   "gloryBan": 38.19,
-   "tier": "S",
-   "lowPick": false,
-   "counters": [
-    "popol-and-kupa",
-    "chip",
-    "johnson",
-    "hilda",
-    "gloo"
+   "lanes": [
+    "EXP Lane",
+    "Roam"
    ],
-   "strongAgainst": [
-    "valentina"
-   ],
-   "patch": null,
-   "orders": 20
+   "releaseOrder": 30,
+   "byRank": {
+    "epic": 55.73,
+    "legend": 56.11,
+    "mythic": 55.68,
+    "honor": 54.21,
+    "glory": 51.51
+   }
   },
   {
    "slug": "lolita",
    "en": "Lolita",
    "ru": "Лолита",
-   "rank": 15,
+   "rank": 14,
    "pick": 0.08,
-   "win": 53.31,
+   "win": 53.3,
    "ban": 0.2,
-   "gloryWin": 51.65,
+   "gloryWin": 51.7,
    "gloryBan": 0.15,
    "tier": "S",
    "lowPick": true,
    "counters": [
     "cyclops",
-    "change",
     "edith",
+    "change",
     "harley",
     "bane"
    ],
@@ -464,12 +625,13 @@
     "kalea",
     "clint",
     "leomord",
-    "hirara",
+    "ixia",
     "melissa",
+    "hirara",
     "zhuxin",
     "sora",
-    "vexana",
     "freya",
+    "vexana",
     "aurora",
     "claude",
     "joy",
@@ -481,18 +643,73 @@
     "valentina"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 114,
+   "byRank": {
+    "epic": 54.33,
+    "legend": 55.33,
+    "mythic": 54.74,
+    "honor": 53.7,
+    "glory": 51.7
+   }
+  },
+  {
+   "slug": "carmilla",
+   "en": "Carmilla",
+   "ru": "Кармилла",
+   "rank": 15,
+   "pick": 1.27,
+   "win": 53.29,
+   "ban": 21.66,
+   "gloryWin": 52.61,
+   "gloryBan": 38.13,
+   "tier": "S",
+   "lowPick": false,
+   "counters": [
+    "popol-and-kupa",
+    "chip",
+    "johnson",
+    "hilda",
+    "gloo"
+   ],
+   "strongAgainst": [
+    "valentina"
+   ],
+   "patch": null,
+   "orders": 20,
+   "roles": [
+    "Tank",
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 42,
+   "byRank": {
+    "epic": 54.31,
+    "legend": 54.61,
+    "mythic": 54.25,
+    "honor": 53.64,
+    "glory": 52.61
+   }
   },
   {
    "slug": "obsidia",
    "en": "Obsidia",
    "ru": "Обсидия",
    "rank": 16,
-   "pick": 2.21,
-   "win": 53.22,
-   "ban": 47.79,
-   "gloryWin": 52.91,
-   "gloryBan": 60.62,
+   "pick": 2.2,
+   "win": 53.2,
+   "ban": 48.46,
+   "gloryWin": 52.89,
+   "gloryBan": 61.08,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -507,7 +724,21 @@
     "baxia"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 4,
+   "byRank": {
+    "epic": 51.8,
+    "legend": 52.91,
+    "mythic": 53.79,
+    "honor": 53.82,
+    "glory": 52.89
+   }
   },
   {
    "slug": "estes",
@@ -515,10 +746,10 @@
    "ru": "Эстес",
    "rank": 17,
    "pick": 0.64,
-   "win": 52.74,
-   "ban": 46.83,
-   "gloryWin": 52.41,
-   "gloryBan": 29.22,
+   "win": 52.75,
+   "ban": 46.89,
+   "gloryWin": 52.43,
+   "gloryBan": 29.47,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -540,7 +771,21 @@
     "tigreal"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 100,
+   "byRank": {
+    "epic": 53.9,
+    "legend": 53.39,
+    "mythic": 53.09,
+    "honor": 52.31,
+    "glory": 52.43
+   }
   },
   {
    "slug": "irithel",
@@ -548,9 +793,9 @@
    "ru": "Иритель",
    "rank": 18,
    "pick": 0.41,
-   "win": 52.71,
+   "win": 52.74,
    "ban": 0.26,
-   "gloryWin": 52.7,
+   "gloryWin": 52.74,
    "gloryBan": 0.09,
    "tier": "A",
    "lowPick": true,
@@ -567,7 +812,21 @@
     "miya"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 91,
+   "byRank": {
+    "epic": 50.34,
+    "legend": 52.07,
+    "mythic": 53.28,
+    "honor": 53.43,
+    "glory": 52.74
+   }
   },
   {
    "slug": "edith",
@@ -575,17 +834,17 @@
    "ru": "Эдит",
    "rank": 19,
    "pick": 0.29,
-   "win": 52.65,
+   "win": 52.67,
    "ban": 0.14,
-   "gloryWin": 51.86,
+   "gloryWin": 51.9,
    "gloryBan": 0.09,
    "tier": "A",
    "lowPick": true,
    "counters": [
     "alice",
     "harith",
-    "faramis",
     "silvanna",
+    "faramis",
     "mathilda"
    ],
    "strongAgainst": [
@@ -594,18 +853,33 @@
     "layla"
    ],
    "patch": "buff",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Marksman"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 23,
+   "byRank": {
+    "epic": 53.37,
+    "legend": 53.4,
+    "mythic": 53.32,
+    "honor": 52.66,
+    "glory": 51.9
+   }
   },
   {
    "slug": "hanabi",
    "en": "Hanabi",
    "ru": "Ханаби",
    "rank": 20,
-   "pick": 2.43,
-   "win": 52.64,
-   "ban": 4.29,
-   "gloryWin": 50.83,
-   "gloryBan": 1.37,
+   "pick": 2.42,
+   "win": 52.66,
+   "ban": 4.27,
+   "gloryWin": 50.87,
+   "gloryBan": 1.38,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -617,9 +891,8 @@
    ],
    "strongAgainst": [
     "kagura",
-    "khaleed",
     "beatrix",
-    "ixia",
+    "khaleed",
     "novaria",
     "lylia",
     "joy",
@@ -628,24 +901,38 @@
     "pharsa"
    ],
    "patch": "nerf",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 74,
+   "byRank": {
+    "epic": 54.34,
+    "legend": 53.83,
+    "mythic": 53.1,
+    "honor": 51.86,
+    "glory": 50.87
+   }
   },
   {
    "slug": "gord",
    "en": "Gord",
    "ru": "Горд",
    "rank": 21,
-   "pick": 0.59,
-   "win": 52.63,
+   "pick": 0.58,
+   "win": 52.61,
    "ban": 0.55,
-   "gloryWin": 52.27,
+   "gloryWin": 52.25,
    "gloryBan": 0.12,
    "tier": "A",
    "lowPick": false,
    "counters": [
     "barats",
-    "fredrinn",
     "lolita",
+    "fredrinn",
     "phoveus",
     "alice"
    ],
@@ -654,7 +941,21 @@
     "helcurt"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 111,
+   "byRank": {
+    "epic": 52.39,
+    "legend": 52.68,
+    "mythic": 53.07,
+    "honor": 52.79,
+    "glory": 52.25
+   }
   },
   {
    "slug": "ling",
@@ -662,9 +963,9 @@
    "ru": "Линг",
    "rank": 22,
    "pick": 0.68,
-   "win": 52.56,
-   "ban": 0.63,
-   "gloryWin": 51.86,
+   "win": 52.54,
+   "ban": 0.62,
+   "gloryWin": 51.85,
    "gloryBan": 0.62,
    "tier": "A",
    "lowPick": false,
@@ -687,7 +988,21 @@
     "karina"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 50,
+   "byRank": {
+    "epic": 54.58,
+    "legend": 53.76,
+    "mythic": 53.09,
+    "honor": 53.08,
+    "glory": 51.85
+   }
   },
   {
    "slug": "zhask",
@@ -696,8 +1011,8 @@
    "rank": 23,
    "pick": 0.34,
    "win": 52.54,
-   "ban": 0.41,
-   "gloryWin": 51.47,
+   "ban": 0.42,
+   "gloryWin": 51.46,
    "gloryBan": 0.1,
    "tier": "A",
    "lowPick": true,
@@ -706,7 +1021,7 @@
     "diggie",
     "kaja",
     "arlott",
-    "wanwan"
+    "hayabusa"
    ],
    "strongAgainst": [
     "belerick",
@@ -715,7 +1030,21 @@
     "baxia"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 84,
+   "byRank": {
+    "epic": 52.57,
+    "legend": 53.11,
+    "mythic": 53.4,
+    "honor": 52.64,
+    "glory": 51.46
+   }
   },
   {
    "slug": "yve",
@@ -723,9 +1052,9 @@
    "ru": "Ив",
    "rank": 24,
    "pick": 0.06,
-   "win": 52.28,
+   "win": 52.26,
    "ban": 0.04,
-   "gloryWin": 52.5,
+   "gloryWin": 52.47,
    "gloryBan": 0.03,
    "tier": "A",
    "lowPick": true,
@@ -746,54 +1075,33 @@
     "gusion",
     "selena",
     "hayabusa",
+    "granger",
     "fanny"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "popol-and-kupa",
-   "en": "Popol and Kupa",
-   "ru": "Пополь и Купа",
-   "rank": 25,
-   "pick": 0.49,
-   "win": 52.22,
-   "ban": 1.1,
-   "gloryWin": 49.56,
-   "gloryBan": 1.3,
-   "tier": "A",
-   "lowPick": true,
-   "counters": [
-    "harley",
-    "jawhead",
-    "zilong",
-    "change",
-    "selena"
+   "orders": null,
+   "roles": [
+    "Mage"
    ],
-   "strongAgainst": [
-    "marcel",
-    "carmilla",
-    "hanabi",
-    "xavier",
-    "atlas",
-    "terizla",
-    "leomord",
-    "melissa",
-    "sora",
-    "yu-zhong",
-    "lapu-lapu",
-    "luo-yi"
+   "lanes": [
+    "Mid Lane"
    ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 33,
+   "byRank": {
+    "epic": 52.01,
+    "legend": 51.39,
+    "mythic": 51.35,
+    "honor": 52.3,
+    "glory": 52.47
+   }
   },
   {
    "slug": "benedetta",
    "en": "Benedetta",
    "ru": "Бенедетта",
-   "rank": 26,
+   "rank": 25,
    "pick": 0.42,
-   "win": 52.11,
+   "win": 52.1,
    "ban": 0.37,
    "gloryWin": 51.55,
    "gloryBan": 0.24,
@@ -815,7 +1123,72 @@
     "mathilda"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 37,
+   "byRank": {
+    "epic": 54.38,
+    "legend": 53.18,
+    "mythic": 52.18,
+    "honor": 52.3,
+    "glory": 51.55
+   }
+  },
+  {
+   "slug": "popol-and-kupa",
+   "en": "Popol and Kupa",
+   "ru": "Пополь и Купа",
+   "rank": 26,
+   "pick": 0.49,
+   "win": 52.09,
+   "ban": 1.12,
+   "gloryWin": 49.48,
+   "gloryBan": 1.3,
+   "tier": "A",
+   "lowPick": true,
+   "counters": [
+    "harley",
+    "jawhead",
+    "zilong",
+    "change",
+    "selena"
+   ],
+   "strongAgainst": [
+    "marcel",
+    "carmilla",
+    "hanabi",
+    "xavier",
+    "atlas",
+    "terizla",
+    "leomord",
+    "melissa",
+    "sora",
+    "yu-zhong",
+    "lapu-lapu"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 40,
+   "byRank": {
+    "epic": 54.63,
+    "legend": 54.29,
+    "mythic": 53.33,
+    "honor": 52.49,
+    "glory": 49.48
+   }
   },
   {
    "slug": "minsitthar",
@@ -823,10 +1196,10 @@
    "ru": "Минситтар",
    "rank": 27,
    "pick": 0.62,
-   "win": 52.04,
-   "ban": 4.24,
-   "gloryWin": 51.21,
-   "gloryBan": 3.11,
+   "win": 52.08,
+   "ban": 4.19,
+   "gloryWin": 51.29,
+   "gloryBan": 3.09,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -843,26 +1216,40 @@
     "yu-zhong"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 60,
+   "byRank": {
+    "epic": 53.53,
+    "legend": 52.74,
+    "mythic": 52.65,
+    "honor": 51.92,
+    "glory": 51.29
+   }
   },
   {
    "slug": "lukas",
    "en": "Lukas",
    "ru": "Лукас",
    "rank": 28,
-   "pick": 0.82,
-   "win": 52.03,
-   "ban": 32.91,
-   "gloryWin": 52.08,
-   "gloryBan": 48.55,
+   "pick": 0.81,
+   "win": 51.97,
+   "ban": 32.39,
+   "gloryWin": 52.02,
+   "gloryBan": 47.47,
    "tier": "A",
    "lowPick": false,
    "counters": [
     "ling",
     "natalia",
     "fanny",
-    "helcurt",
-    "arlott"
+    "arlott",
+    "helcurt"
    ],
    "strongAgainst": [
     "balmond",
@@ -870,18 +1257,74 @@
     "valentina"
    ],
    "patch": "buff",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 7,
+   "byRank": {
+    "epic": 50.85,
+    "legend": 51.44,
+    "mythic": 51.64,
+    "honor": 52.36,
+    "glory": 52.02
+   }
+  },
+  {
+   "slug": "aldous",
+   "en": "Aldous",
+   "ru": "Алдос",
+   "rank": 29,
+   "pick": 0.45,
+   "win": 51.86,
+   "ban": 0.57,
+   "gloryWin": 51.58,
+   "gloryBan": 0.23,
+   "tier": "A",
+   "lowPick": true,
+   "counters": [
+    "uranus",
+    "xavier",
+    "helcurt",
+    "x-borg",
+    "hanzo"
+   ],
+   "strongAgainst": [
+    "obsidia",
+    "badang",
+    "esmeralda"
+   ],
+   "patch": "buff",
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 70,
+   "byRank": {
+    "epic": 51.84,
+    "legend": 51.89,
+    "mythic": 52.57,
+    "honor": 51.56,
+    "glory": 51.58
+   }
   },
   {
    "slug": "belerick",
    "en": "Belerick",
    "ru": "Белерик",
-   "rank": 29,
+   "rank": 30,
    "pick": 1.69,
-   "win": 51.82,
-   "ban": 56.84,
-   "gloryWin": 49.98,
-   "gloryBan": 56.94,
+   "win": 51.83,
+   "ban": 56.83,
+   "gloryWin": 50.01,
+   "gloryBan": 56.96,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -901,45 +1344,117 @@
     "lesley"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 64,
+   "byRank": {
+    "epic": 55.96,
+    "legend": 54.43,
+    "mythic": 52.99,
+    "honor": 51.26,
+    "glory": 50.01
+   }
   },
   {
-   "slug": "aldous",
-   "en": "Aldous",
-   "ru": "Алдос",
-   "rank": 30,
-   "pick": 0.45,
-   "win": 51.76,
-   "ban": 0.56,
-   "gloryWin": 51.46,
-   "gloryBan": 0.23,
+   "slug": "cyclops",
+   "en": "Cyclops",
+   "ru": "Циклоп",
+   "rank": 31,
+   "pick": 0.76,
+   "win": 51.68,
+   "ban": 0.76,
+   "gloryWin": 50.76,
+   "gloryBan": 0.6,
    "tier": "A",
-   "lowPick": true,
+   "lowPick": false,
    "counters": [
-    "uranus",
-    "xavier",
-    "helcurt",
-    "x-borg",
-    "hanzo"
+    "natalia",
+    "marcel",
+    "wanwan",
+    "joy",
+    "mathilda"
    ],
    "strongAgainst": [
-    "obsidia",
-    "badang",
-    "esmeralda"
+    "minotaur",
+    "lolita",
+    "estes",
+    "ixia"
    ],
-   "patch": "buff",
-   "orders": null
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 101,
+   "byRank": {
+    "epic": 52.04,
+    "legend": 52.13,
+    "mythic": 52.5,
+    "honor": 52.03,
+    "glory": 50.76
+   }
+  },
+  {
+   "slug": "xavier",
+   "en": "Xavier",
+   "ru": "Ксавьер",
+   "rank": 32,
+   "pick": 0.75,
+   "win": 51.68,
+   "ban": 0.4,
+   "gloryWin": 52.66,
+   "gloryBan": 0.55,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "popol-and-kupa",
+    "belerick",
+    "atlas",
+    "gloo",
+    "faramis"
+   ],
+   "strongAgainst": [
+    "aldous",
+    "natalia",
+    "aamon",
+    "helcurt",
+    "zilong"
+   ],
+   "patch": null,
+   "orders": 18,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 19,
+   "byRank": {
+    "epic": 48.54,
+    "legend": 49.29,
+    "mythic": 50.49,
+    "honor": 51.64,
+    "glory": 52.66
+   }
   },
   {
    "slug": "barats",
    "en": "Barats",
    "ru": "Бартс",
-   "rank": 31,
+   "rank": 33,
    "pick": 0.67,
    "win": 51.67,
-   "ban": 3.42,
+   "ban": 3.38,
    "gloryWin": 51.63,
-   "gloryBan": 4.12,
+   "gloryBan": 4.07,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -959,45 +1474,32 @@
     "balmond"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "cyclops",
-   "en": "Cyclops",
-   "ru": "Циклоп",
-   "rank": 32,
-   "pick": 0.76,
-   "win": 51.66,
-   "ban": 0.74,
-   "gloryWin": 50.73,
-   "gloryBan": 0.58,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "natalia",
-    "marcel",
-    "wanwan",
-    "joy",
-    "mathilda"
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Fighter"
    ],
-   "strongAgainst": [
-    "minotaur",
-    "lolita",
-    "estes",
-    "ixia"
+   "lanes": [
+    "EXP Lane"
    ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 35,
+   "byRank": {
+    "epic": 50.71,
+    "legend": 51.47,
+    "mythic": 52.07,
+    "honor": 51.79,
+    "glory": 51.63
+   }
   },
   {
    "slug": "bane",
    "en": "Bane",
    "ru": "Бэйн",
-   "rank": 33,
+   "rank": 34,
    "pick": 0.29,
    "win": 51.61,
    "ban": 0.18,
-   "gloryWin": 51.51,
+   "gloryWin": 51.52,
    "gloryBan": 0.09,
    "tier": "A",
    "lowPick": true,
@@ -1013,36 +1515,23 @@
     "novaria"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "xavier",
-   "en": "Xavier",
-   "ru": "Ксавьер",
-   "rank": 34,
-   "pick": 0.72,
-   "win": 51.56,
-   "ban": 0.37,
-   "gloryWin": 52.56,
-   "gloryBan": 0.51,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "popol-and-kupa",
-    "belerick",
-    "atlas",
-    "gloo",
-    "faramis"
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Mage"
    ],
-   "strongAgainst": [
-    "aldous",
-    "natalia",
-    "aamon",
-    "helcurt",
-    "zilong"
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
    ],
-   "patch": null,
-   "orders": 18
+   "releaseOrder": 123,
+   "byRank": {
+    "epic": 52.32,
+    "legend": 51.53,
+    "mythic": 51.54,
+    "honor": 51.7,
+    "glory": 51.52
+   }
   },
   {
    "slug": "atlas",
@@ -1050,10 +1539,10 @@
    "ru": "Атлас",
    "rank": 35,
    "pick": 0.95,
-   "win": 51.49,
-   "ban": 9.65,
-   "gloryWin": 49.9,
-   "gloryBan": 10.54,
+   "win": 51.42,
+   "ban": 9.58,
+   "gloryWin": 49.84,
+   "gloryBan": 10.41,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -1079,26 +1568,40 @@
     "fanny"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 41,
+   "byRank": {
+    "epic": 55.55,
+    "legend": 54.57,
+    "mythic": 53.22,
+    "honor": 51.76,
+    "glory": 49.84
+   }
   },
   {
    "slug": "silvanna",
    "en": "Silvanna",
    "ru": "Сильвана",
    "rank": 36,
-   "pick": 1,
+   "pick": 0.99,
    "win": 51.36,
-   "ban": 2.02,
-   "gloryWin": 49.56,
-   "gloryBan": 0.5,
+   "ban": 2.03,
+   "gloryWin": 49.61,
+   "gloryBan": 0.51,
    "tier": "A",
    "lowPick": false,
    "counters": [
     "aamon",
     "floryn",
     "angela",
-    "valentina",
-    "rafaela"
+    "rafaela",
+    "valentina"
    ],
    "strongAgainst": [
     "khufra",
@@ -1110,6 +1613,7 @@
     "barats",
     "kadita",
     "kagura",
+    "khaleed",
     "akai",
     "vale",
     "yu-zhong",
@@ -1117,41 +1621,32 @@
     "lapu-lapu"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "kadita",
-   "en": "Kadita",
-   "ru": "Кадита",
-   "rank": 37,
-   "pick": 0.77,
-   "win": 51.33,
-   "ban": 2.94,
-   "gloryWin": 51.84,
-   "gloryBan": 1.86,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "lolita",
-    "ixia",
-    "johnson",
-    "silvanna",
-    "atlas"
+   "orders": null,
+   "roles": [
+    "Fighter"
    ],
-   "strongAgainst": [],
-   "patch": "adjusted",
-   "orders": null
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 44,
+   "byRank": {
+    "epic": 52.13,
+    "legend": 52.32,
+    "mythic": 52.04,
+    "honor": 50.72,
+    "glory": 49.61
+   }
   },
   {
    "slug": "natan",
    "en": "Natan",
    "ru": "Натан",
-   "rank": 38,
+   "rank": 37,
    "pick": 0.3,
-   "win": 51.31,
+   "win": 51.32,
    "ban": 0.14,
    "gloryWin": 51.47,
-   "gloryBan": 0.09,
+   "gloryBan": 0.08,
    "tier": "A",
    "lowPick": true,
    "counters": [
@@ -1165,7 +1660,59 @@
     "arlott"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 27,
+   "byRank": {
+    "epic": 50.21,
+    "legend": 50.57,
+    "mythic": 51.14,
+    "honor": 51.69,
+    "glory": 51.47
+   }
+  },
+  {
+   "slug": "kadita",
+   "en": "Kadita",
+   "ru": "Кадита",
+   "rank": 38,
+   "pick": 0.77,
+   "win": 51.3,
+   "ban": 2.92,
+   "gloryWin": 51.8,
+   "gloryBan": 1.86,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "lolita",
+    "ixia",
+    "johnson",
+    "silvanna",
+    "atlas"
+   ],
+   "strongAgainst": [],
+   "patch": "adjusted",
+   "orders": null,
+   "roles": [
+    "Assassin",
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 59,
+   "byRank": {
+    "epic": 49.8,
+    "legend": 50.4,
+    "mythic": 50.62,
+    "honor": 51.48,
+    "glory": 51.8
+   }
   },
   {
    "slug": "guinevere",
@@ -1174,8 +1721,8 @@
    "rank": 39,
    "pick": 0.82,
    "win": 51.27,
-   "ban": 1.86,
-   "gloryWin": 51.48,
+   "ban": 1.85,
+   "gloryWin": 51.47,
    "gloryBan": 1.25,
    "tier": "A",
    "lowPick": false,
@@ -1192,7 +1739,21 @@
     "wanwan"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 54,
+   "byRank": {
+    "epic": 52.01,
+    "legend": 50.93,
+    "mythic": 50.7,
+    "honor": 51.27,
+    "glory": 51.47
+   }
   },
   {
    "slug": "fredrinn",
@@ -1200,10 +1761,10 @@
    "ru": "Фредрин",
    "rank": 40,
    "pick": 0.43,
-   "win": 51.24,
+   "win": 51.25,
    "ban": 1.59,
-   "gloryWin": 52.21,
-   "gloryBan": 1.16,
+   "gloryWin": 52.22,
+   "gloryBan": 1.15,
    "tier": "A",
    "lowPick": true,
    "counters": [
@@ -1222,7 +1783,22 @@
     "luo-yi"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Fighter"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 17,
+   "byRank": {
+    "epic": 50.04,
+    "legend": 49.54,
+    "mythic": 50.08,
+    "honor": 50.7,
+    "glory": 52.22
+   }
   },
   {
    "slug": "saber",
@@ -1230,10 +1806,10 @@
    "ru": "Сабер",
    "rank": 41,
    "pick": 1.02,
-   "win": 51.18,
-   "ban": 25,
-   "gloryWin": 53.5,
-   "gloryBan": 10.11,
+   "win": 51.21,
+   "ban": 25.07,
+   "gloryWin": 53.51,
+   "gloryBan": 10.32,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -1263,32 +1839,61 @@
     "gatotkaca"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle",
+    "Roam"
+   ],
+   "releaseOrder": 131,
+   "byRank": {
+    "epic": 48.42,
+    "legend": 50.03,
+    "mythic": 51.12,
+    "honor": 51.13,
+    "glory": 53.51
+   }
   },
   {
    "slug": "kagura",
    "en": "Kagura",
    "ru": "Кагура",
    "rank": 42,
-   "pick": 0.74,
-   "win": 51.13,
-   "ban": 1.14,
-   "gloryWin": 50.67,
-   "gloryBan": 1.06,
+   "pick": 0.75,
+   "win": 51.09,
+   "ban": 1.15,
+   "gloryWin": 50.64,
+   "gloryBan": 1.08,
    "tier": "A",
    "lowPick": false,
    "counters": [
     "lolita",
     "silvanna",
     "valir",
-    "hanzo",
-    "hanabi"
+    "hanabi",
+    "hanzo"
    ],
    "strongAgainst": [
     "freya"
    ],
    "patch": "buff",
-   "orders": 16
+   "orders": 16,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 109,
+   "byRank": {
+    "epic": 51.13,
+    "legend": 51.68,
+    "mythic": 51.45,
+    "honor": 51.67,
+    "glory": 50.64
+   }
   },
   {
    "slug": "hilda",
@@ -1297,24 +1902,40 @@
    "rank": 43,
    "pick": 0.57,
    "win": 51.07,
-   "ban": 12.85,
-   "gloryWin": 47.67,
-   "gloryBan": 2.64,
+   "ban": 12.97,
+   "gloryWin": 47.74,
+   "gloryBan": 2.72,
    "tier": "A",
    "lowPick": false,
    "counters": [
     "granger",
-    "helcurt",
     "yin",
-    "harley",
-    "saber"
+    "helcurt",
+    "saber",
+    "harley"
    ],
    "strongAgainst": [
     "carmilla",
     "kimmy"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Roam"
+   ],
+   "releaseOrder": 99,
+   "byRank": {
+    "epic": 54.91,
+    "legend": 53.4,
+    "mythic": 52.36,
+    "honor": 49.7,
+    "glory": 47.74
+   }
   },
   {
    "slug": "natalia",
@@ -1322,10 +1943,10 @@
    "ru": "Наталья",
    "rank": 44,
    "pick": 0.3,
-   "win": 51.04,
-   "ban": 2.02,
-   "gloryWin": 49.96,
-   "gloryBan": 0.85,
+   "win": 51.05,
+   "ban": 2.03,
+   "gloryWin": 49.97,
+   "gloryBan": 0.86,
    "tier": "A",
    "lowPick": true,
    "counters": [
@@ -1355,7 +1976,22 @@
     "mathilda"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle",
+    "Roam"
+   ],
+   "releaseOrder": 110,
+   "byRank": {
+    "epic": 51.92,
+    "legend": 51.96,
+    "mythic": 51.6,
+    "honor": 50.63,
+    "glory": 49.97
+   }
   },
   {
    "slug": "cecilion",
@@ -1363,9 +1999,9 @@
    "ru": "Сесилион",
    "rank": 45,
    "pick": 0.67,
-   "win": 50.98,
+   "win": 50.96,
    "ban": 0.17,
-   "gloryWin": 51.25,
+   "gloryWin": 51.21,
    "gloryBan": 0.09,
    "tier": "B",
    "lowPick": false,
@@ -1378,7 +2014,21 @@
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 43,
+   "byRank": {
+    "epic": 50.29,
+    "legend": 50,
+    "mythic": 50.17,
+    "honor": 51.7,
+    "glory": 51.21
+   }
   },
   {
    "slug": "zetian",
@@ -1387,9 +2037,9 @@
    "rank": 46,
    "pick": 1.65,
    "win": 50.89,
-   "ban": 4.64,
+   "ban": 4.65,
    "gloryWin": 50,
-   "gloryBan": 2.72,
+   "gloryBan": 2.76,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -1401,7 +2051,21 @@
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 5,
+   "byRank": {
+    "epic": 50.94,
+    "legend": 52.14,
+    "mythic": 52.06,
+    "honor": 51.19,
+    "glory": 50
+   }
   },
   {
    "slug": "faramis",
@@ -1409,9 +2073,9 @@
    "ru": "Фарамис",
    "rank": 47,
    "pick": 0.1,
-   "win": 50.84,
+   "win": 50.83,
    "ban": 0.36,
-   "gloryWin": 51.38,
+   "gloryWin": 51.35,
    "gloryBan": 0.39,
    "tier": "B",
    "lowPick": true,
@@ -1434,7 +2098,23 @@
     "luo-yi"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage",
+    "Support"
+   ],
+   "lanes": [
+    "Mid Lane",
+    "Roam"
+   ],
+   "releaseOrder": 58,
+   "byRank": {
+    "epic": 48.59,
+    "legend": 48.95,
+    "mythic": 49.59,
+    "honor": 50.75,
+    "glory": 51.35
+   }
   },
   {
    "slug": "alice",
@@ -1442,10 +2122,10 @@
    "ru": "Алиса",
    "rank": 48,
    "pick": 0.91,
-   "win": 50.73,
-   "ban": 12.56,
-   "gloryWin": 50.85,
-   "gloryBan": 7.8,
+   "win": 50.7,
+   "ban": 12.68,
+   "gloryWin": 50.81,
+   "gloryBan": 7.85,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -1474,43 +2154,34 @@
     "baxia"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "terizla",
-   "en": "Terizla",
-   "ru": "Тэризла",
-   "rank": 49,
-   "pick": 0.35,
-   "win": 50.61,
-   "ban": 0.18,
-   "gloryWin": 49.45,
-   "gloryBan": 0.06,
-   "tier": "B",
-   "lowPick": true,
-   "counters": [
-    "argus",
-    "phoveus",
-    "lolita",
-    "popol-and-kupa",
-    "odette"
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Mage"
    ],
-   "strongAgainst": [
-    "x-borg"
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
    ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 130,
+   "byRank": {
+    "epic": 50.66,
+    "legend": 50.66,
+    "mythic": 50.61,
+    "honor": 50.56,
+    "glory": 50.81
+   }
   },
   {
    "slug": "lunox",
    "en": "Lunox",
    "ru": "Люнокс",
-   "rank": 50,
-   "pick": 0.37,
-   "win": 50.52,
-   "ban": 0.6,
-   "gloryWin": 50.79,
-   "gloryBan": 0.71,
+   "rank": 49,
+   "pick": 0.38,
+   "win": 50.64,
+   "ban": 0.65,
+   "gloryWin": 50.89,
+   "gloryBan": 0.78,
    "tier": "B",
    "lowPick": true,
    "counters": [
@@ -1525,10 +2196,65 @@
     "guinevere",
     "fredrinn",
     "saber",
+    "clint",
     "ruby"
    ],
    "patch": null,
-   "orders": 30
+   "orders": 30,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 66,
+   "byRank": {
+    "epic": 49.4,
+    "legend": 49.7,
+    "mythic": 50.05,
+    "honor": 50.67,
+    "glory": 50.89
+   }
+  },
+  {
+   "slug": "terizla",
+   "en": "Terizla",
+   "ru": "Тэризла",
+   "rank": 50,
+   "pick": 0.35,
+   "win": 50.6,
+   "ban": 0.18,
+   "gloryWin": 49.48,
+   "gloryBan": 0.06,
+   "tier": "B",
+   "lowPick": true,
+   "counters": [
+    "argus",
+    "phoveus",
+    "lolita",
+    "popol-and-kupa",
+    "odette"
+   ],
+   "strongAgainst": [
+    "x-borg"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 52,
+   "byRank": {
+    "epic": 51.28,
+    "legend": 51.66,
+    "mythic": 51.55,
+    "honor": 50.64,
+    "glory": 49.48
+   }
   },
   {
    "slug": "kalea",
@@ -1536,57 +2262,47 @@
    "ru": "Калеа",
    "rank": 51,
    "pick": 0.68,
-   "win": 50.4,
-   "ban": 6.33,
-   "gloryWin": 51.14,
-   "gloryBan": 12.02,
+   "win": 50.44,
+   "ban": 6.5,
+   "gloryWin": 51.18,
+   "gloryBan": 12.26,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "fanny",
-    "lolita",
     "helcurt",
+    "lolita",
     "khaleed",
     "yve"
    ],
    "strongAgainst": [],
    "patch": "buff",
-   "orders": null
-  },
-  {
-   "slug": "khaleed",
-   "en": "Khaleed",
-   "ru": "Халид",
-   "rank": 52,
-   "pick": 0.12,
-   "win": 50.37,
-   "ban": 0.09,
-   "gloryWin": 48.51,
-   "gloryBan": 0.06,
-   "tier": "B",
-   "lowPick": true,
-   "counters": [
-    "yin",
-    "helcurt",
-    "vale",
-    "hanabi",
-    "johnson"
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Support"
    ],
-   "strongAgainst": [
-    "kalea"
+   "lanes": [
+    "Roam"
    ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 6,
+   "byRank": {
+    "epic": 49.09,
+    "legend": 49.02,
+    "mythic": 49.72,
+    "honor": 49.8,
+    "glory": 51.18
+   }
   },
   {
    "slug": "beatrix",
    "en": "Beatrix",
    "ru": "Беатрис",
-   "rank": 53,
+   "rank": 52,
    "pick": 0.65,
-   "win": 50.37,
+   "win": 50.35,
    "ban": 0.41,
-   "gloryWin": 50.76,
+   "gloryWin": 50.74,
    "gloryBan": 0.42,
    "tier": "B",
    "lowPick": false,
@@ -1606,26 +2322,40 @@
     "granger"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 29,
+   "byRank": {
+    "epic": 51,
+    "legend": 49.92,
+    "mythic": 49.35,
+    "honor": 50.15,
+    "glory": 50.74
+   }
   },
   {
    "slug": "eudora",
    "en": "Eudora",
    "ru": "Эйдора",
-   "rank": 54,
-   "pick": 1.79,
-   "win": 50.37,
-   "ban": 48.34,
-   "gloryWin": 50.55,
-   "gloryBan": 40.09,
+   "rank": 53,
+   "pick": 1.78,
+   "win": 50.35,
+   "ban": 47.84,
+   "gloryWin": 50.53,
+   "gloryBan": 39.63,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "floryn",
-    "irithel",
     "helcurt",
-    "zilong",
-    "natalia"
+    "irithel",
+    "natalia",
+    "zilong"
    ],
    "strongAgainst": [
     "masha",
@@ -1633,7 +2363,61 @@
     "aurora"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 119,
+   "byRank": {
+    "epic": 49.58,
+    "legend": 50.22,
+    "mythic": 50.62,
+    "honor": 50.22,
+    "glory": 50.53
+   }
+  },
+  {
+   "slug": "khaleed",
+   "en": "Khaleed",
+   "ru": "Халид",
+   "rank": 54,
+   "pick": 0.12,
+   "win": 50.35,
+   "ban": 0.09,
+   "gloryWin": 48.53,
+   "gloryBan": 0.06,
+   "tier": "B",
+   "lowPick": true,
+   "counters": [
+    "yin",
+    "helcurt",
+    "vale",
+    "hanabi",
+    "silvanna"
+   ],
+   "strongAgainst": [
+    "kalea"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Roam"
+   ],
+   "releaseOrder": 36,
+   "byRank": {
+    "epic": 52.57,
+    "legend": 52.81,
+    "mythic": 51.97,
+    "honor": 51.2,
+    "glory": 48.53
+   }
   },
   {
    "slug": "clint",
@@ -1641,10 +2425,10 @@
    "ru": "Клинт",
    "rank": 55,
    "pick": 0.72,
-   "win": 50.35,
+   "win": 50.33,
    "ban": 0.61,
-   "gloryWin": 50.61,
-   "gloryBan": 0.32,
+   "gloryWin": 50.58,
+   "gloryBan": 0.33,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -1652,13 +2436,27 @@
     "karina",
     "belerick",
     "baxia",
-    "marcel"
+    "lunox"
    ],
    "strongAgainst": [
     "fanny"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 121,
+   "byRank": {
+    "epic": 47.48,
+    "legend": 49.35,
+    "mythic": 50.05,
+    "honor": 50.88,
+    "glory": 50.58
+   }
   },
   {
    "slug": "moskov",
@@ -1666,10 +2464,10 @@
    "ru": "Москов",
    "rank": 56,
    "pick": 0.9,
-   "win": 50.3,
+   "win": 50.31,
    "ban": 0.28,
-   "gloryWin": 51.3,
-   "gloryBan": 0.13,
+   "gloryWin": 51.31,
+   "gloryBan": 0.14,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -1685,18 +2483,32 @@
     "martis"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 103,
+   "byRank": {
+    "epic": 46.77,
+    "legend": 47.84,
+    "mythic": 49.49,
+    "honor": 50.94,
+    "glory": 51.31
+   }
   },
   {
    "slug": "aamon",
    "en": "Aamon",
    "ru": "Эймон",
    "rank": 57,
-   "pick": 0.63,
-   "win": 50.26,
-   "ban": 2.5,
-   "gloryWin": 50.64,
-   "gloryBan": 0.63,
+   "pick": 0.64,
+   "win": 50.24,
+   "ban": 2.51,
+   "gloryWin": 50.62,
+   "gloryBan": 0.64,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -1713,7 +2525,21 @@
     "hayabusa"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 25,
+   "byRank": {
+    "epic": 49.82,
+    "legend": 50.1,
+    "mythic": 50.37,
+    "honor": 49.98,
+    "glory": 50.62
+   }
   },
   {
    "slug": "badang",
@@ -1721,9 +2547,9 @@
    "ru": "Баданг",
    "rank": 58,
    "pick": 1.32,
-   "win": 50.2,
-   "ban": 3.7,
-   "gloryWin": 49.6,
+   "win": 50.19,
+   "ban": 3.69,
+   "gloryWin": 49.62,
    "gloryBan": 4.66,
    "tier": "B",
    "lowPick": false,
@@ -1736,7 +2562,22 @@
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": 15
+   "orders": 15,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Roam"
+   ],
+   "releaseOrder": 57,
+   "byRank": {
+    "epic": 50.15,
+    "legend": 50.52,
+    "mythic": 50.74,
+    "honor": 50.62,
+    "glory": 49.62
+   }
   },
   {
    "slug": "akai",
@@ -1745,9 +2586,9 @@
    "rank": 59,
    "pick": 0.33,
    "win": 50.18,
-   "ban": 1.12,
-   "gloryWin": 48.8,
-   "gloryBan": 0.62,
+   "ban": 1.11,
+   "gloryWin": 48.84,
+   "gloryBan": 0.63,
    "tier": "B",
    "lowPick": true,
    "counters": [
@@ -1763,40 +2604,27 @@
     "kaja"
    ],
    "patch": "buff",
-   "orders": null
-  },
-  {
-   "slug": "leomord",
-   "en": "Leomord",
-   "ru": "Леоморд",
-   "rank": 60,
-   "pick": 0.3,
-   "win": 50.11,
-   "ban": 0.6,
-   "gloryWin": 49.98,
-   "gloryBan": 0.17,
-   "tier": "B",
-   "lowPick": true,
-   "counters": [
-    "lolita",
-    "saber",
-    "popol-and-kupa",
-    "belerick",
-    "natalia"
+   "orders": null,
+   "roles": [
+    "Tank"
    ],
-   "strongAgainst": [
-    "valir",
-    "melissa",
-    "zhuxin"
+   "lanes": [
+    "Roam"
    ],
-   "patch": null,
-   "orders": 20
+   "releaseOrder": 125,
+   "byRank": {
+    "epic": 51.45,
+    "legend": 51.23,
+    "mythic": 51.38,
+    "honor": 50.32,
+    "glory": 48.84
+   }
   },
   {
    "slug": "vale",
    "en": "Vale",
    "ru": "Вэйл",
-   "rank": 61,
+   "rank": 60,
    "pick": 0.51,
    "win": 50.1,
    "ban": 0.2,
@@ -1816,17 +2644,72 @@
     "lapu-lapu"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 68,
+   "byRank": {
+    "epic": 51.45,
+    "legend": 50.78,
+    "mythic": 50.5,
+    "honor": 49.49,
+    "glory": 48.75
+   }
+  },
+  {
+   "slug": "leomord",
+   "en": "Leomord",
+   "ru": "Леоморд",
+   "rank": 61,
+   "pick": 0.3,
+   "win": 50.09,
+   "ban": 0.61,
+   "gloryWin": 49.97,
+   "gloryBan": 0.18,
+   "tier": "B",
+   "lowPick": true,
+   "counters": [
+    "lolita",
+    "saber",
+    "popol-and-kupa",
+    "belerick",
+    "natalia"
+   ],
+   "strongAgainst": [
+    "valir",
+    "melissa",
+    "zhuxin"
+   ],
+   "patch": null,
+   "orders": 20,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 67,
+   "byRank": {
+    "epic": 51.76,
+    "legend": 50.45,
+    "mythic": 49.97,
+    "honor": 50.07,
+    "glory": 49.97
+   }
   },
   {
    "slug": "ixia",
    "en": "Ixia",
    "ru": "Иксия",
    "rank": 62,
-   "pick": 0.75,
-   "win": 50.06,
-   "ban": 0.79,
-   "gloryWin": 50.46,
+   "pick": 0.76,
+   "win": 50.08,
+   "ban": 0.8,
+   "gloryWin": 50.48,
    "gloryBan": 0.38,
    "tier": "B",
    "lowPick": false,
@@ -1835,7 +2718,7 @@
     "rafaela",
     "cyclops",
     "floryn",
-    "hanabi"
+    "lolita"
    ],
    "strongAgainst": [
     "benedetta",
@@ -1849,89 +2732,32 @@
     "granger"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "paquito",
-   "en": "Paquito",
-   "ru": "Пакито",
-   "rank": 63,
-   "pick": 1.27,
-   "win": 50.04,
-   "ban": 18.65,
-   "gloryWin": 50.02,
-   "gloryBan": 15.57,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "natalia",
-    "x-borg",
-    "karina",
-    "wanwan",
-    "helcurt"
+   "orders": null,
+   "roles": [
+    "Marksman"
    ],
-   "strongAgainst": [],
-   "patch": "nerf",
-   "orders": null
-  },
-  {
-   "slug": "hirara",
-   "en": "Hirara",
-   "ru": "Хирара",
-   "rank": 64,
-   "pick": 0.6,
-   "win": 50.03,
-   "ban": 68,
-   "gloryWin": 49.49,
-   "gloryBan": 86.53,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "hanzo",
-    "karina",
-    "x-borg",
-    "yin",
-    "lolita"
+   "lanes": [
+    "Gold Lane"
    ],
-   "strongAgainst": [],
-   "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "brody",
-   "en": "Brody",
-   "ru": "Броуди",
-   "rank": 65,
-   "pick": 0.83,
-   "win": 49.99,
-   "ban": 1.51,
-   "gloryWin": 49.97,
-   "gloryBan": 1.03,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "karina",
-    "belerick",
-    "irithel",
-    "natalia",
-    "joy"
-   ],
-   "strongAgainst": [
-    "masha"
-   ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 13,
+   "byRank": {
+    "epic": 49.27,
+    "legend": 50.01,
+    "mythic": 50.16,
+    "honor": 49.75,
+    "glory": 50.48
+   }
   },
   {
    "slug": "melissa",
    "en": "Melissa",
    "ru": "Мелисса",
-   "rank": 66,
+   "rank": 63,
    "pick": 0.38,
-   "win": 49.98,
-   "ban": 0.87,
-   "gloryWin": 51.59,
-   "gloryBan": 0.46,
+   "win": 50.07,
+   "ban": 0.88,
+   "gloryWin": 51.65,
+   "gloryBan": 0.47,
    "tier": "B",
    "lowPick": true,
    "counters": [
@@ -1949,7 +2775,136 @@
     "pharsa"
    ],
    "patch": "nerf",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 20,
+   "byRank": {
+    "epic": 47.63,
+    "legend": 48.18,
+    "mythic": 48.75,
+    "honor": 50.79,
+    "glory": 51.65
+   }
+  },
+  {
+   "slug": "hirara",
+   "en": "Hirara",
+   "ru": "Хирара",
+   "rank": 64,
+   "pick": 0.6,
+   "win": 50.03,
+   "ban": 67.97,
+   "gloryWin": 49.5,
+   "gloryBan": 86.38,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "hanzo",
+    "karina",
+    "x-borg",
+    "yin",
+    "lolita"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 1,
+   "byRank": {
+    "epic": 50.75,
+    "legend": 50.34,
+    "mythic": 49.94,
+    "honor": 50.91,
+    "glory": 49.5
+   }
+  },
+  {
+   "slug": "paquito",
+   "en": "Paquito",
+   "ru": "Пакито",
+   "rank": 65,
+   "pick": 1.26,
+   "win": 50.03,
+   "ban": 18.13,
+   "gloryWin": 50.03,
+   "gloryBan": 15.2,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "natalia",
+    "x-borg",
+    "karina",
+    "wanwan",
+    "helcurt"
+   ],
+   "strongAgainst": [],
+   "patch": "nerf",
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 31,
+   "byRank": {
+    "epic": 49.53,
+    "legend": 49.57,
+    "mythic": 49.74,
+    "honor": 50.51,
+    "glory": 50.03
+   }
+  },
+  {
+   "slug": "brody",
+   "en": "Brody",
+   "ru": "Броуди",
+   "rank": 66,
+   "pick": 0.82,
+   "win": 49.99,
+   "ban": 1.48,
+   "gloryWin": 49.97,
+   "gloryBan": 1.03,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "karina",
+    "belerick",
+    "irithel",
+    "natalia",
+    "joy"
+   ],
+   "strongAgainst": [
+    "masha"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 34,
+   "byRank": {
+    "epic": 49.78,
+    "legend": 49.9,
+    "mythic": 49.77,
+    "honor": 50.18,
+    "glory": 49.97
+   }
   },
   {
    "slug": "angela",
@@ -1957,10 +2912,10 @@
    "ru": "Ангела",
    "rank": 67,
    "pick": 1.75,
-   "win": 49.97,
-   "ban": 11.79,
-   "gloryWin": 49.85,
-   "gloryBan": 9.38,
+   "win": 49.99,
+   "ban": 11.87,
+   "gloryWin": 49.86,
+   "gloryBan": 9.5,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -1975,15 +2930,87 @@
     "franco"
    ],
    "patch": null,
-   "orders": 51
+   "orders": 51,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 79,
+   "byRank": {
+    "epic": 51.69,
+    "legend": 50.7,
+    "mythic": 49.85,
+    "honor": 49.53,
+    "glory": 49.86
+   }
+  },
+  {
+   "slug": "x-borg",
+   "en": "X.Borg",
+   "ru": "Икс.Борг",
+   "rank": 68,
+   "pick": 0.59,
+   "win": 49.96,
+   "ban": 1.96,
+   "gloryWin": 48.7,
+   "gloryBan": 0.76,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "baxia",
+    "barats",
+    "terizla",
+    "phoveus",
+    "hylos"
+   ],
+   "strongAgainst": [
+    "floryn",
+    "ling",
+    "yve",
+    "benedetta",
+    "aldous",
+    "hirara",
+    "paquito",
+    "nolan",
+    "suyou",
+    "joy",
+    "gusion",
+    "selena",
+    "change",
+    "helcurt",
+    "arlott",
+    "zilong",
+    "chou",
+    "valentina",
+    "mathilda",
+    "lancelot"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 51,
+   "byRank": {
+    "epic": 50.89,
+    "legend": 51.22,
+    "mythic": 50.79,
+    "honor": 50.11,
+    "glory": 48.7
+   }
   },
   {
    "slug": "julian",
    "en": "Julian",
    "ru": "Джулиан",
-   "rank": 68,
+   "rank": 69,
    "pick": 0.67,
-   "win": 49.96,
+   "win": 49.95,
    "ban": 0.78,
    "gloryWin": 49.2,
    "gloryBan": 0.23,
@@ -2000,51 +3027,23 @@
     "guinevere"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "x-borg",
-   "en": "X.Borg",
-   "ru": "Икс.Борг",
-   "rank": 69,
-   "pick": 0.59,
-   "win": 49.96,
-   "ban": 1.96,
-   "gloryWin": 48.67,
-   "gloryBan": 0.75,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "baxia",
-    "barats",
-    "terizla",
-    "phoveus",
-    "hylos"
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
    ],
-   "strongAgainst": [
-    "floryn",
-    "ling",
-    "yve",
-    "benedetta",
-    "aldous",
-    "paquito",
-    "hirara",
-    "suyou",
-    "nolan",
-    "joy",
-    "gusion",
-    "selena",
-    "change",
-    "helcurt",
-    "arlott",
-    "zilong",
-    "chou",
-    "valentina",
-    "mathilda",
-    "lancelot"
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
    ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 18,
+   "byRank": {
+    "epic": 50.96,
+    "legend": 50.4,
+    "mythic": 50.15,
+    "honor": 49.98,
+    "glory": 49.2
+   }
   },
   {
    "slug": "hanzo",
@@ -2052,15 +3051,15 @@
    "ru": "Ханзо",
    "rank": 70,
    "pick": 0.36,
-   "win": 49.89,
-   "ban": 5.94,
-   "gloryWin": 48.8,
-   "gloryBan": 3.53,
+   "win": 49.9,
+   "ban": 5.82,
+   "gloryWin": 48.83,
+   "gloryBan": 3.5,
    "tier": "B",
    "lowPick": true,
    "counters": [
-    "ixia",
     "diggie",
+    "ixia",
     "franco",
     "balmond",
     "alpha"
@@ -2074,7 +3073,21 @@
     "hirara"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 65,
+   "byRank": {
+    "epic": 50.77,
+    "legend": 50.9,
+    "mythic": 50.58,
+    "honor": 50.23,
+    "glory": 48.83
+   }
   },
   {
    "slug": "kaja",
@@ -2082,10 +3095,10 @@
    "ru": "Кайя",
    "rank": 71,
    "pick": 0.61,
-   "win": 49.82,
-   "ban": 15.72,
-   "gloryWin": 49.85,
-   "gloryBan": 26.06,
+   "win": 49.8,
+   "ban": 15.91,
+   "gloryWin": 49.83,
+   "gloryBan": 26.31,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -2101,69 +3114,32 @@
     "odette"
    ],
    "patch": "buff",
-   "orders": null
-  },
-  {
-   "slug": "miya",
-   "en": "Miya",
-   "ru": "Мия",
-   "rank": 72,
-   "pick": 2.2,
-   "win": 49.72,
-   "ban": 4.64,
-   "gloryWin": 50.31,
-   "gloryBan": 1.81,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "saber",
-    "obsidia",
-    "irithel",
-    "moskov",
-    "guinevere"
+   "orders": null,
+   "roles": [
+    "Support"
    ],
-   "strongAgainst": [
-    "belerick",
-    "gatotkaca"
+   "lanes": [
+    "Roam"
    ],
-   "patch": "nerf",
-   "orders": null
-  },
-  {
-   "slug": "suyou",
-   "en": "Suyou",
-   "ru": "Су Ё",
-   "rank": 73,
-   "pick": 1.04,
-   "win": 49.7,
-   "ban": 1.46,
-   "gloryWin": 49.42,
-   "gloryBan": 1.25,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "natalia",
-    "sun",
-    "x-borg",
-    "yin",
-    "balmond"
-   ],
-   "strongAgainst": [
-    "harith"
-   ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 72,
+   "byRank": {
+    "epic": 48.42,
+    "legend": 48.84,
+    "mythic": 49.78,
+    "honor": 50.17,
+    "glory": 49.83
+   }
   },
   {
    "slug": "nolan",
    "en": "Nolan",
    "ru": "Нолан",
-   "rank": 74,
-   "pick": 1.9,
-   "win": 49.7,
-   "ban": 15.51,
+   "rank": 72,
+   "pick": 1.92,
+   "win": 49.71,
+   "ban": 16.3,
    "gloryWin": 50.36,
-   "gloryBan": 20.61,
+   "gloryBan": 21.66,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -2180,17 +3156,111 @@
     "jawhead"
    ],
    "patch": null,
-   "orders": 16
+   "orders": 16,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 12,
+   "byRank": {
+    "epic": 48.65,
+    "legend": 48.33,
+    "mythic": 48.78,
+    "honor": 49.59,
+    "glory": 50.36
+   }
+  },
+  {
+   "slug": "miya",
+   "en": "Miya",
+   "ru": "Мия",
+   "rank": 73,
+   "pick": 2.19,
+   "win": 49.71,
+   "ban": 4.58,
+   "gloryWin": 50.3,
+   "gloryBan": 1.8,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "saber",
+    "obsidia",
+    "moskov",
+    "irithel",
+    "guinevere"
+   ],
+   "strongAgainst": [
+    "belerick",
+    "gatotkaca"
+   ],
+   "patch": "nerf",
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 133,
+   "byRank": {
+    "epic": 48.43,
+    "legend": 49.2,
+    "mythic": 50.26,
+    "honor": 50.12,
+    "glory": 50.3
+   }
+  },
+  {
+   "slug": "suyou",
+   "en": "Suyou",
+   "ru": "Су Ё",
+   "rank": 74,
+   "pick": 1.06,
+   "win": 49.7,
+   "ban": 1.49,
+   "gloryWin": 49.43,
+   "gloryBan": 1.29,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "natalia",
+    "sun",
+    "x-borg",
+    "yin",
+    "balmond"
+   ],
+   "strongAgainst": [
+    "harith"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 8,
+   "byRank": {
+    "epic": 50.9,
+    "legend": 50.12,
+    "mythic": 49.67,
+    "honor": 49.99,
+    "glory": 49.43
+   }
   },
   {
    "slug": "odette",
    "en": "Odette",
    "ru": "Одетта",
    "rank": 75,
-   "pick": 0.56,
-   "win": 49.68,
+   "pick": 0.55,
+   "win": 49.69,
    "ban": 0.27,
-   "gloryWin": 51.66,
+   "gloryWin": 51.61,
    "gloryBan": 0.08,
    "tier": "B",
    "lowPick": false,
@@ -2199,7 +3269,7 @@
     "mathilda",
     "faramis",
     "chip",
-    "marcel"
+    "valentina"
    ],
    "strongAgainst": [
     "bane",
@@ -2212,21 +3282,34 @@
     "thamuz",
     "alpha",
     "nana",
-    "grock",
     "gatotkaca"
    ],
    "patch": "adjusted",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 88,
+   "byRank": {
+    "epic": 47.72,
+    "legend": 48.47,
+    "mythic": 49.5,
+    "honor": 49.57,
+    "glory": 51.61
+   }
   },
   {
    "slug": "yin",
    "en": "Yin",
    "ru": "Инь",
    "rank": 76,
-   "pick": 0.51,
-   "win": 49.61,
-   "ban": 1.69,
-   "gloryWin": 49.86,
+   "pick": 0.52,
+   "win": 49.62,
+   "ban": 1.7,
+   "gloryWin": 49.85,
    "gloryBan": 0.38,
    "tier": "B",
    "lowPick": false,
@@ -2252,7 +3335,23 @@
     "lancelot"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 21,
+   "byRank": {
+    "epic": 49.97,
+    "legend": 49.56,
+    "mythic": 49.88,
+    "honor": 49.05,
+    "glory": 49.85
+   }
   },
   {
    "slug": "zhuxin",
@@ -2260,9 +3359,9 @@
    "ru": "Чжусинь",
    "rank": 77,
    "pick": 0.23,
-   "win": 49.6,
-   "ban": 0.41,
-   "gloryWin": 50.03,
+   "win": 49.57,
+   "ban": 0.42,
+   "gloryWin": 49.98,
    "gloryBan": 0.58,
    "tier": "B",
    "lowPick": true,
@@ -2281,7 +3380,21 @@
     "arlott"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 9,
+   "byRank": {
+    "epic": 47.79,
+    "legend": 48.25,
+    "mythic": 48.39,
+    "honor": 49.01,
+    "glory": 49.98
+   }
   },
   {
    "slug": "novaria",
@@ -2289,22 +3402,36 @@
    "ru": "Новария",
    "rank": 78,
    "pick": 1.21,
-   "win": 49.56,
-   "ban": 3.9,
-   "gloryWin": 48.91,
-   "gloryBan": 1.75,
+   "win": 49.52,
+   "ban": 3.89,
+   "gloryWin": 48.89,
+   "gloryBan": 1.76,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "diggie",
     "valir",
-    "hanabi",
     "bane",
+    "hanabi",
     "luo-yi"
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 15,
+   "byRank": {
+    "epic": 50.29,
+    "legend": 50.07,
+    "mythic": 49.8,
+    "honor": 49.79,
+    "glory": 48.89
+   }
   },
   {
    "slug": "sora",
@@ -2312,10 +3439,10 @@
    "ru": "Сора",
    "rank": 79,
    "pick": 0.66,
-   "win": 49.49,
-   "ban": 4.27,
+   "win": 49.5,
+   "ban": 4.3,
    "gloryWin": 49.61,
-   "gloryBan": 2.42,
+   "gloryBan": 2.46,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -2329,7 +3456,22 @@
     "martis"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 3,
+   "byRank": {
+    "epic": 48.95,
+    "legend": 49.38,
+    "mythic": 49.45,
+    "honor": 49.41,
+    "glory": 49.61
+   }
   },
   {
    "slug": "layla",
@@ -2338,8 +3480,8 @@
    "rank": 80,
    "pick": 1.9,
    "win": 49.41,
-   "ban": 1.76,
-   "gloryWin": 47.93,
+   "ban": 1.78,
+   "gloryWin": 47.95,
    "gloryBan": 0.59,
    "tier": "B",
    "lowPick": false,
@@ -2348,7 +3490,7 @@
     "edith",
     "rafaela",
     "odette",
-    "marcel"
+    "phoveus"
    ],
    "strongAgainst": [
     "atlas",
@@ -2357,18 +3499,32 @@
     "grock"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 116,
+   "byRank": {
+    "epic": 50.86,
+    "legend": 50.21,
+    "mythic": 49.86,
+    "honor": 48.7,
+    "glory": 47.95
+   }
   },
   {
    "slug": "cici",
    "en": "Cici",
    "ru": "Чичи",
    "rank": 81,
-   "pick": 0.67,
-   "win": 49.4,
-   "ban": 1.15,
-   "gloryWin": 48.96,
-   "gloryBan": 0.61,
+   "pick": 0.68,
+   "win": 49.38,
+   "ban": 1.16,
+   "gloryWin": 48.93,
+   "gloryBan": 0.62,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -2388,7 +3544,21 @@
     "zilong"
    ],
    "patch": "buff",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 11,
+   "byRank": {
+    "epic": 50.02,
+    "legend": 50.1,
+    "mythic": 50.01,
+    "honor": 49.34,
+    "glory": 48.93
+   }
   },
   {
    "slug": "lylia",
@@ -2396,9 +3566,9 @@
    "ru": "Лилия",
    "rank": 82,
    "pick": 0.49,
-   "win": 49.37,
+   "win": 49.34,
    "ban": 0.39,
-   "gloryWin": 48.2,
+   "gloryWin": 48.17,
    "gloryBan": 0.15,
    "tier": "B",
    "lowPick": true,
@@ -2411,7 +3581,21 @@
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 48,
+   "byRank": {
+    "epic": 51.08,
+    "legend": 50.72,
+    "mythic": 50.06,
+    "honor": 49.57,
+    "glory": 48.17
+   }
   },
   {
    "slug": "uranus",
@@ -2419,9 +3603,9 @@
    "ru": "Уранус",
    "rank": 83,
    "pick": 0.31,
-   "win": 49.33,
+   "win": 49.34,
    "ban": 0.33,
-   "gloryWin": 48.22,
+   "gloryWin": 48.25,
    "gloryBan": 0.12,
    "tier": "B",
    "lowPick": true,
@@ -2429,76 +3613,42 @@
     "argus",
     "yin",
     "gatotkaca",
-    "granger",
-    "diggie"
+    "diggie",
+    "granger"
    ],
    "strongAgainst": [
     "aldous",
     "dyrroth",
-    "kimmy"
+    "kimmy",
+    "luo-yi"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "vexana",
-   "en": "Vexana",
-   "ru": "Вексана",
-   "rank": 84,
-   "pick": 1.52,
-   "win": 49.31,
-   "ban": 1.15,
-   "gloryWin": 48.49,
-   "gloryBan": 0.34,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "gloo",
-    "zhask",
-    "odette",
-    "chip",
-    "lolita"
+   "orders": null,
+   "roles": [
+    "Tank"
    ],
-   "strongAgainst": [],
-   "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "dyrroth",
-   "en": "Dyrroth",
-   "ru": "Дариус",
-   "rank": 85,
-   "pick": 1.68,
-   "win": 49.3,
-   "ban": 1.66,
-   "gloryWin": 51.36,
-   "gloryBan": 0.84,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "esmeralda",
-    "alice",
-    "uranus",
-    "valentina",
-    "zhuxin"
+   "lanes": [
+    "EXP Lane"
    ],
-   "strongAgainst": [
-    "johnson",
-    "nana"
-   ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 75,
+   "byRank": {
+    "epic": 51.65,
+    "legend": 50.82,
+    "mythic": 50.13,
+    "honor": 49,
+    "glory": 48.25
+   }
   },
   {
    "slug": "freya",
    "en": "Freya",
    "ru": "Фрейя",
-   "rank": 86,
-   "pick": 0.87,
-   "win": 49.23,
-   "ban": 4.48,
-   "gloryWin": 51.01,
-   "gloryBan": 5.04,
+   "rank": 84,
+   "pick": 0.89,
+   "win": 49.32,
+   "ban": 4.76,
+   "gloryWin": 51.07,
+   "gloryBan": 5.42,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -2514,7 +3664,100 @@
     "franco"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 112,
+   "byRank": {
+    "epic": 47.34,
+    "legend": 47.52,
+    "mythic": 48.19,
+    "honor": 48.53,
+    "glory": 51.07
+   }
+  },
+  {
+   "slug": "vexana",
+   "en": "Vexana",
+   "ru": "Вексана",
+   "rank": 85,
+   "pick": 1.52,
+   "win": 49.3,
+   "ban": 1.15,
+   "gloryWin": 48.49,
+   "gloryBan": 0.34,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "gloo",
+    "zhask",
+    "odette",
+    "chip",
+    "lolita"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 96,
+   "byRank": {
+    "epic": 50.17,
+    "legend": 49.74,
+    "mythic": 49.68,
+    "honor": 49.08,
+    "glory": 48.49
+   }
+  },
+  {
+   "slug": "dyrroth",
+   "en": "Dyrroth",
+   "ru": "Дариус",
+   "rank": 86,
+   "pick": 1.68,
+   "win": 49.3,
+   "ban": 1.66,
+   "gloryWin": 51.36,
+   "gloryBan": 0.84,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "esmeralda",
+    "uranus",
+    "alice",
+    "valentina",
+    "zhuxin"
+   ],
+   "strongAgainst": [
+    "johnson",
+    "nana"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 49,
+   "byRank": {
+    "epic": 47.75,
+    "legend": 47.87,
+    "mythic": 48.2,
+    "honor": 50.89,
+    "glory": 51.36
+   }
   },
   {
    "slug": "johnson",
@@ -2522,9 +3765,9 @@
    "ru": "Джонсон",
    "rank": 87,
    "pick": 0.7,
-   "win": 49.22,
+   "win": 49.25,
    "ban": 1.98,
-   "gloryWin": 46.75,
+   "gloryWin": 46.81,
    "gloryBan": 0.54,
    "tier": "B",
    "lowPick": false,
@@ -2533,7 +3776,7 @@
     "zilong",
     "saber",
     "dyrroth",
-    "franco"
+    "valentina"
    ],
    "strongAgainst": [
     "marcel",
@@ -2542,9 +3785,8 @@
     "carmilla",
     "belerick",
     "atlas",
-    "kadita",
     "natan",
-    "khaleed",
+    "kadita",
     "lylia",
     "claude",
     "harith",
@@ -2552,40 +3794,32 @@
     "lancelot"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "yi-sun-shin",
-   "en": "Yi Sun-shin",
-   "ru": "Ли Сун-Син",
-   "rank": 88,
-   "pick": 0.96,
-   "win": 49.14,
-   "ban": 2.62,
-   "gloryWin": 48.79,
-   "gloryBan": 2.03,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "thamuz",
-    "khufra",
-    "benedetta",
-    "melissa",
-    "nana"
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Support"
    ],
-   "strongAgainst": [],
-   "patch": "nerf",
-   "orders": null
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 102,
+   "byRank": {
+    "epic": 52.61,
+    "legend": 50.84,
+    "mythic": 49.86,
+    "honor": 48.08,
+    "glory": 46.81
+   }
   },
   {
    "slug": "ruby",
    "en": "Ruby",
    "ru": "Руби",
-   "rank": 89,
+   "rank": 88,
    "pick": 0.32,
    "win": 49.12,
    "ban": 0.31,
-   "gloryWin": 48.64,
+   "gloryWin": 48.66,
    "gloryBan": 0.11,
    "tier": "B",
    "lowPick": true,
@@ -2600,40 +3834,69 @@
     "phoveus"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 105,
+   "byRank": {
+    "epic": 49.57,
+    "legend": 49.65,
+    "mythic": 49.53,
+    "honor": 49.36,
+    "glory": 48.66
+   }
   },
   {
-   "slug": "yu-zhong",
-   "en": "Yu Zhong",
-   "ru": "Чонг",
-   "rank": 90,
-   "pick": 0.66,
-   "win": 48.94,
-   "ban": 0.75,
-   "gloryWin": 48.86,
-   "gloryBan": 0.26,
-   "tier": "C",
+   "slug": "yi-sun-shin",
+   "en": "Yi Sun-shin",
+   "ru": "Ли Сун-Син",
+   "rank": 89,
+   "pick": 0.95,
+   "win": 49.11,
+   "ban": 2.56,
+   "gloryWin": 48.76,
+   "gloryBan": 1.98,
+   "tier": "B",
    "lowPick": false,
    "counters": [
-    "gloo",
-    "minsitthar",
-    "silvanna",
-    "popol-and-kupa",
-    "atlas"
+    "khufra",
+    "thamuz",
+    "benedetta",
+    "melissa",
+    "nana"
    ],
    "strongAgainst": [],
-   "patch": null,
-   "orders": null
+   "patch": "nerf",
+   "orders": null,
+   "roles": [
+    "Assassin",
+    "Marksman"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 104,
+   "byRank": {
+    "epic": 51.81,
+    "legend": 49.69,
+    "mythic": 49,
+    "honor": 49.26,
+    "glory": 48.76
+   }
   },
   {
    "slug": "aurora",
    "en": "Aurora",
    "ru": "Аврора",
-   "rank": 91,
+   "rank": 90,
    "pick": 0.64,
-   "win": 48.94,
+   "win": 48.93,
    "ban": 0.38,
-   "gloryWin": 49.24,
+   "gloryWin": 49.21,
    "gloryBan": 0.1,
    "tier": "C",
    "lowPick": false,
@@ -2646,16 +3909,67 @@
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 98,
+   "byRank": {
+    "epic": 48.52,
+    "legend": 48.72,
+    "mythic": 49.13,
+    "honor": 48.95,
+    "glory": 49.21
+   }
+  },
+  {
+   "slug": "yu-zhong",
+   "en": "Yu Zhong",
+   "ru": "Чонг",
+   "rank": 91,
+   "pick": 0.66,
+   "win": 48.93,
+   "ban": 0.75,
+   "gloryWin": 48.84,
+   "gloryBan": 0.26,
+   "tier": "C",
+   "lowPick": false,
+   "counters": [
+    "gloo",
+    "minsitthar",
+    "silvanna",
+    "popol-and-kupa",
+    "atlas"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 39,
+   "byRank": {
+    "epic": 48.83,
+    "legend": 48.64,
+    "mythic": 49,
+    "honor": 49.22,
+    "glory": 48.84
+   }
   },
   {
    "slug": "thamuz",
    "en": "Thamuz",
    "ru": "Тамуз",
    "rank": 92,
-   "pick": 0.81,
+   "pick": 0.82,
    "win": 48.91,
-   "ban": 1.58,
+   "ban": 1.59,
    "gloryWin": 48.57,
    "gloryBan": 0.35,
    "tier": "C",
@@ -2672,46 +3986,32 @@
     "yi-sun-shin"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "karrie",
-   "en": "Karrie",
-   "ru": "Кэрри",
-   "rank": 93,
-   "pick": 0.57,
-   "win": 48.85,
-   "ban": 0.87,
-   "gloryWin": 48.63,
-   "gloryBan": 0.65,
-   "tier": "C",
-   "lowPick": false,
-   "counters": [
-    "alice",
-    "baxia",
-    "esmeralda",
-    "balmond",
-    "hylos"
+   "orders": null,
+   "roles": [
+    "Fighter"
    ],
-   "strongAgainst": [
-    "argus",
-    "sun",
-    "minsitthar",
-    "guinevere",
-    "hayabusa"
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
    ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 62,
+   "byRank": {
+    "epic": 48.5,
+    "legend": 48.93,
+    "mythic": 49.8,
+    "honor": 48.88,
+    "glory": 48.57
+   }
   },
   {
    "slug": "alucard",
    "en": "Alucard",
    "ru": "Алукард",
-   "rank": 94,
-   "pick": 0.57,
-   "win": 48.85,
-   "ban": 0.37,
-   "gloryWin": 48.96,
+   "rank": 93,
+   "pick": 0.56,
+   "win": 48.87,
+   "ban": 0.36,
+   "gloryWin": 49,
    "gloryBan": 0.13,
    "tier": "C",
    "lowPick": false,
@@ -2731,7 +4031,65 @@
     "tigreal"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 127,
+   "byRank": {
+    "epic": 48.79,
+    "legend": 48.94,
+    "mythic": 49.04,
+    "honor": 48.56,
+    "glory": 49
+   }
+  },
+  {
+   "slug": "karrie",
+   "en": "Karrie",
+   "ru": "Кэрри",
+   "rank": 94,
+   "pick": 0.57,
+   "win": 48.87,
+   "ban": 0.87,
+   "gloryWin": 48.67,
+   "gloryBan": 0.65,
+   "tier": "C",
+   "lowPick": false,
+   "counters": [
+    "alice",
+    "baxia",
+    "esmeralda",
+    "balmond",
+    "hylos"
+   ],
+   "strongAgainst": [
+    "argus",
+    "sun",
+    "minsitthar",
+    "guinevere",
+    "hayabusa"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 94,
+   "byRank": {
+    "epic": 48.59,
+    "legend": 48.34,
+    "mythic": 49.05,
+    "honor": 49.47,
+    "glory": 48.67
+   }
   },
   {
    "slug": "claude",
@@ -2741,7 +4099,7 @@
    "pick": 0.78,
    "win": 48.85,
    "ban": 0.21,
-   "gloryWin": 48.35,
+   "gloryWin": 48.37,
    "gloryBan": 0.12,
    "tier": "C",
    "lowPick": false,
@@ -2757,7 +4115,21 @@
     "lesley"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 69,
+   "byRank": {
+    "epic": 50.8,
+    "legend": 49.51,
+    "mythic": 49.1,
+    "honor": 49.23,
+    "glory": 48.37
+   }
   },
   {
    "slug": "alpha",
@@ -2765,9 +4137,9 @@
    "ru": "Альфа",
    "rank": 96,
    "pick": 1.32,
-   "win": 48.84,
+   "win": 48.85,
    "ban": 0.68,
-   "gloryWin": 48.04,
+   "gloryWin": 48.05,
    "gloryBan": 0.18,
    "tier": "C",
    "lowPick": false,
@@ -2786,7 +4158,22 @@
     "lancelot"
    ],
    "patch": "buff",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 106,
+   "byRank": {
+    "epic": 50.15,
+    "legend": 48.98,
+    "mythic": 48.47,
+    "honor": 48.96,
+    "glory": 48.05
+   }
   },
   {
    "slug": "joy",
@@ -2795,8 +4182,8 @@
    "rank": 97,
    "pick": 0.14,
    "win": 48.79,
-   "ban": 0.2,
-   "gloryWin": 49.57,
+   "ban": 0.19,
+   "gloryWin": 49.56,
    "gloryBan": 0.15,
    "tier": "C",
    "lowPick": true,
@@ -2811,12 +4198,26 @@
     "cyclops",
     "fredrinn",
     "moskov",
-    "brody",
     "melissa",
+    "brody",
     "harley"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 16,
+   "byRank": {
+    "epic": 47.63,
+    "legend": 46.48,
+    "mythic": 46.55,
+    "honor": 48.84,
+    "glory": 49.56
+   }
   },
   {
    "slug": "kimmy",
@@ -2824,9 +4225,9 @@
    "ru": "Кимми",
    "rank": 98,
    "pick": 0.87,
-   "win": 48.77,
-   "ban": 0.67,
-   "gloryWin": 49.02,
+   "win": 48.74,
+   "ban": 0.68,
+   "gloryWin": 48.97,
    "gloryBan": 0.59,
    "tier": "C",
    "lowPick": false,
@@ -2842,7 +4243,23 @@
     "arlott"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage",
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane",
+    "Mid Lane"
+   ],
+   "releaseOrder": 63,
+   "byRank": {
+    "epic": 48.68,
+    "legend": 48.11,
+    "mythic": 48.13,
+    "honor": 48.99,
+    "glory": 48.97
+   }
   },
   {
    "slug": "gusion",
@@ -2851,7 +4268,7 @@
    "rank": 99,
    "pick": 1.27,
    "win": 48.61,
-   "ban": 3.41,
+   "ban": 3.39,
    "gloryWin": 48.82,
    "gloryBan": 1.7,
    "tier": "C",
@@ -2867,51 +4284,33 @@
     "roger"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "hylos",
-   "en": "Hylos",
-   "ru": "Хилос",
-   "rank": 100,
-   "pick": 0.29,
-   "win": 48.55,
-   "ban": 0.26,
-   "gloryWin": 46.5,
-   "gloryBan": 0.1,
-   "tier": "C",
-   "lowPick": true,
-   "counters": [
-    "zilong",
-    "layla",
-    "saber",
-    "yin",
-    "nana"
+   "orders": null,
+   "roles": [
+    "Assassin"
    ],
-   "strongAgainst": [
-    "rafaela",
-    "valir",
-    "yve",
-    "cecilion",
-    "x-borg",
-    "zhuxin",
-    "cici",
-    "karrie",
-    "kimmy"
+   "lanes": [
+    "Mid Lane",
+    "Jungle"
    ],
-   "patch": "adjusted",
-   "orders": null
+   "releaseOrder": 78,
+   "byRank": {
+    "epic": 48.81,
+    "legend": 48.46,
+    "mythic": 48.37,
+    "honor": 48.59,
+    "glory": 48.82
+   }
   },
   {
    "slug": "karina",
    "en": "Karina",
    "ru": "Карина",
-   "rank": 101,
-   "pick": 0.9,
-   "win": 48.55,
-   "ban": 4.45,
-   "gloryWin": 48.22,
-   "gloryBan": 2.82,
+   "rank": 100,
+   "pick": 0.91,
+   "win": 48.6,
+   "ban": 4.55,
+   "gloryWin": 48.29,
+   "gloryBan": 2.94,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -2925,8 +4324,8 @@
     "faramis",
     "lunox",
     "clint",
-    "paquito",
     "hirara",
+    "paquito",
     "brody",
     "sora",
     "ruby",
@@ -2934,41 +4333,79 @@
     "granger"
    ],
    "patch": "buff",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 126,
+   "byRank": {
+    "epic": 49.89,
+    "legend": 48.95,
+    "mythic": 48.87,
+    "honor": 48.23,
+    "glory": 48.29
+   }
   },
   {
-   "slug": "roger",
-   "en": "Roger",
-   "ru": "Роджер",
-   "rank": 102,
-   "pick": 0.27,
-   "win": 48.35,
-   "ban": 0.09,
-   "gloryWin": 45.95,
-   "gloryBan": 0.05,
+   "slug": "hylos",
+   "en": "Hylos",
+   "ru": "Хилос",
+   "rank": 101,
+   "pick": 0.29,
+   "win": 48.55,
+   "ban": 0.26,
+   "gloryWin": 46.54,
+   "gloryBan": 0.1,
    "tier": "C",
    "lowPick": true,
    "counters": [
-    "harley",
-    "gusion",
-    "silvanna",
-    "helcurt",
-    "yin"
+    "zilong",
+    "layla",
+    "yin",
+    "nana",
+    "saber"
    ],
-   "strongAgainst": [],
-   "patch": null,
-   "orders": null
+   "strongAgainst": [
+    "rafaela",
+    "valir",
+    "yve",
+    "cecilion",
+    "x-borg",
+    "zhuxin",
+    "cici",
+    "karrie",
+    "kimmy"
+   ],
+   "patch": "adjusted",
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 85,
+   "byRank": {
+    "epic": 51.36,
+    "legend": 50.68,
+    "mythic": 49.68,
+    "honor": 48.41,
+    "glory": 46.54
+   }
   },
   {
    "slug": "selena",
    "en": "Selena",
    "ru": "Селена",
-   "rank": 103,
-   "pick": 1.59,
-   "win": 48.33,
-   "ban": 6.32,
-   "gloryWin": 47.92,
-   "gloryBan": 5.6,
+   "rank": 102,
+   "pick": 1.57,
+   "win": 48.34,
+   "ban": 6.26,
+   "gloryWin": 47.93,
+   "gloryBan": 5.51,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -2983,7 +4420,60 @@
     "chip"
    ],
    "patch": null,
-   "orders": 34
+   "orders": 34,
+   "roles": [
+    "Assassin",
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 71,
+   "byRank": {
+    "epic": 50.16,
+    "legend": 48.78,
+    "mythic": 48.32,
+    "honor": 48.64,
+    "glory": 47.93
+   }
+  },
+  {
+   "slug": "roger",
+   "en": "Roger",
+   "ru": "Роджер",
+   "rank": 103,
+   "pick": 0.27,
+   "win": 48.33,
+   "ban": 0.09,
+   "gloryWin": 45.96,
+   "gloryBan": 0.05,
+   "tier": "C",
+   "lowPick": true,
+   "counters": [
+    "harley",
+    "gusion",
+    "silvanna",
+    "helcurt",
+    "yin"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Marksman"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 95,
+   "byRank": {
+    "epic": 50.73,
+    "legend": 50.29,
+    "mythic": 49.67,
+    "honor": 48.49,
+    "glory": 45.96
+   }
   },
   {
    "slug": "lesley",
@@ -2991,10 +4481,10 @@
    "ru": "Лесли",
    "rank": 104,
    "pick": 1.84,
-   "win": 48.29,
-   "ban": 8.46,
-   "gloryWin": 48.5,
-   "gloryBan": 3.84,
+   "win": 48.31,
+   "ban": 8.5,
+   "gloryWin": 48.52,
+   "gloryBan": 3.92,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -3009,7 +4499,22 @@
     "tigreal"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin",
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 81,
+   "byRank": {
+    "epic": 47.58,
+    "legend": 48.06,
+    "mythic": 48.36,
+    "honor": 48.33,
+    "glory": 48.52
+   }
   },
   {
    "slug": "phoveus",
@@ -3017,10 +4522,10 @@
    "ru": "Фовиус",
    "rank": 105,
    "pick": 0.27,
-   "win": 48.2,
-   "ban": 0.79,
-   "gloryWin": 48.2,
-   "gloryBan": 0.31,
+   "win": 48.21,
+   "ban": 0.8,
+   "gloryWin": 48.22,
+   "gloryBan": 0.32,
    "tier": "C",
    "lowPick": true,
    "counters": [
@@ -3037,12 +4542,27 @@
     "bane",
     "cecilion",
     "terizla",
-    "julian",
     "x-borg",
+    "julian",
+    "layla",
     "alpha"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 28,
+   "byRank": {
+    "epic": 49.35,
+    "legend": 48.38,
+    "mythic": 48.27,
+    "honor": 47.92,
+    "glory": 48.22
+   }
   },
   {
    "slug": "change",
@@ -3052,7 +4572,7 @@
    "pick": 0.63,
    "win": 48.2,
    "ban": 0.32,
-   "gloryWin": 45.79,
+   "gloryWin": 45.81,
    "gloryBan": 0.08,
    "tier": "C",
    "lowPick": false,
@@ -3070,7 +4590,21 @@
     "claude"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 73,
+   "byRank": {
+    "epic": 51.12,
+    "legend": 49.77,
+    "mythic": 48.71,
+    "honor": 47.57,
+    "glory": 45.81
+   }
   },
   {
    "slug": "harley",
@@ -3078,18 +4612,18 @@
    "ru": "Харли",
    "rank": 107,
    "pick": 0.83,
-   "win": 48.17,
-   "ban": 3.1,
-   "gloryWin": 48.44,
-   "gloryBan": 0.67,
+   "win": 48.19,
+   "ban": 3.09,
+   "gloryWin": 48.46,
+   "gloryBan": 0.68,
    "tier": "C",
    "lowPick": false,
    "counters": [
     "alice",
     "valir",
     "melissa",
-    "joy",
-    "gord"
+    "gord",
+    "joy"
    ],
    "strongAgainst": [
     "sun",
@@ -3099,7 +4633,23 @@
     "roger"
    ],
    "patch": null,
-   "orders": 22
+   "orders": 22,
+   "roles": [
+    "Assassin",
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 92,
+   "byRank": {
+    "epic": 47.93,
+    "legend": 48.06,
+    "mythic": 48.19,
+    "honor": 48.09,
+    "glory": 48.46
+   }
   },
   {
    "slug": "hayabusa",
@@ -3107,9 +4657,9 @@
    "ru": "Хаябуса",
    "rank": 108,
    "pick": 0.75,
-   "win": 48.14,
-   "ban": 1.65,
-   "gloryWin": 48.06,
+   "win": 48.15,
+   "ban": 1.64,
+   "gloryWin": 48.08,
    "gloryBan": 0.52,
    "tier": "C",
    "lowPick": false,
@@ -3121,10 +4671,25 @@
     "karrie"
    ],
    "strongAgainst": [
+    "zhask",
     "badang"
    ],
    "patch": null,
-   "orders": 23
+   "orders": 23,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 113,
+   "byRank": {
+    "epic": 47.38,
+    "legend": 47.87,
+    "mythic": 48.25,
+    "honor": 48.47,
+    "glory": 48.08
+   }
   },
   {
    "slug": "lapu-lapu",
@@ -3132,9 +4697,9 @@
    "ru": "Лапу-Лапу",
    "rank": 109,
    "pick": 0.34,
-   "win": 48.1,
+   "win": 48.08,
    "ban": 0.27,
-   "gloryWin": 47.19,
+   "gloryWin": 47.18,
    "gloryBan": 0.08,
    "tier": "C",
    "lowPick": true,
@@ -3149,7 +4714,21 @@
     "harith"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 97,
+   "byRank": {
+    "epic": 50.82,
+    "legend": 49.5,
+    "mythic": 48.73,
+    "honor": 48.41,
+    "glory": 47.18
+   }
   },
   {
    "slug": "jawhead",
@@ -3157,10 +4736,10 @@
    "ru": "Кусака",
    "rank": 110,
    "pick": 0.34,
-   "win": 47.88,
+   "win": 47.87,
    "ban": 0.33,
-   "gloryWin": 47.08,
-   "gloryBan": 0.1,
+   "gloryWin": 47.11,
+   "gloryBan": 0.11,
    "tier": "C",
    "lowPick": true,
    "counters": [
@@ -3177,7 +4756,22 @@
     "esmeralda"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Roam"
+   ],
+   "releaseOrder": 80,
+   "byRank": {
+    "epic": 47.58,
+    "legend": 48.28,
+    "mythic": 48.56,
+    "honor": 47.75,
+    "glory": 47.11
+   }
   },
   {
    "slug": "helcurt",
@@ -3185,10 +4779,10 @@
    "ru": "Хелкарт",
    "rank": 111,
    "pick": 0.62,
-   "win": 47.61,
-   "ban": 4.75,
-   "gloryWin": 46.23,
-   "gloryBan": 1.91,
+   "win": 47.63,
+   "ban": 4.74,
+   "gloryWin": 46.26,
+   "gloryBan": 1.93,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -3206,8 +4800,8 @@
     "hilda",
     "zetian",
     "kalea",
-    "khaleed",
     "eudora",
+    "khaleed",
     "paquito",
     "karina",
     "roger",
@@ -3216,16 +4810,77 @@
     "mathilda"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle",
+    "Roam"
+   ],
+   "releaseOrder": 83,
+   "byRank": {
+    "epic": 48.27,
+    "legend": 48.46,
+    "mythic": 48.29,
+    "honor": 47.36,
+    "glory": 46.26
+   }
+  },
+  {
+   "slug": "chip",
+   "en": "Chip",
+   "ru": "Чип",
+   "rank": 112,
+   "pick": 0.04,
+   "win": 47.6,
+   "ban": 0.21,
+   "gloryWin": 48.16,
+   "gloryBan": 0.18,
+   "tier": "C",
+   "lowPick": true,
+   "counters": [
+    "zilong",
+    "helcurt",
+    "valentina",
+    "selena",
+    "floryn"
+   ],
+   "strongAgainst": [
+    "carmilla",
+    "bane",
+    "alice",
+    "odette",
+    "vexana",
+    "martis",
+    "balmond"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 10,
+   "byRank": {
+    "epic": 46.97,
+    "legend": 47.07,
+    "mythic": 47.37,
+    "honor": 46.94,
+    "glory": 48.16
+   }
   },
   {
    "slug": "wanwan",
    "en": "Wanwan",
    "ru": "Ванван",
-   "rank": 112,
+   "rank": 113,
    "pick": 0.14,
-   "win": 47.61,
-   "ban": 0.13,
+   "win": 47.59,
+   "ban": 0.14,
    "gloryWin": 46.96,
    "gloryBan": 0.06,
    "tier": "C",
@@ -3241,7 +4896,6 @@
     "khufra",
     "bruno",
     "irithel",
-    "zhask",
     "cyclops",
     "faramis",
     "lunox",
@@ -3249,67 +4903,64 @@
     "phoveus"
    ],
    "patch": null,
-   "orders": null
-  },
-  {
-   "slug": "chip",
-   "en": "Chip",
-   "ru": "Чип",
-   "rank": 113,
-   "pick": 0.04,
-   "win": 47.6,
-   "ban": 0.21,
-   "gloryWin": 48.19,
-   "gloryBan": 0.18,
-   "tier": "C",
-   "lowPick": true,
-   "counters": [
-    "zilong",
-    "helcurt",
-    "valentina",
-    "selena",
-    "arlott"
+   "orders": null,
+   "roles": [
+    "Marksman"
    ],
-   "strongAgainst": [
-    "carmilla",
-    "bane",
-    "alice",
-    "odette",
-    "vexana",
-    "martis",
-    "balmond"
+   "lanes": [
+    "Gold Lane"
    ],
-   "patch": null,
-   "orders": null
+   "releaseOrder": 45,
+   "byRank": {
+    "epic": 45.98,
+    "legend": 48.19,
+    "mythic": 48.12,
+    "honor": 48.27,
+    "glory": 46.96
+   }
   },
   {
    "slug": "arlott",
    "en": "Arlott",
    "ru": "Арлотт",
    "rank": 114,
-   "pick": 0.49,
+   "pick": 0.5,
    "win": 47.49,
-   "ban": 0.55,
+   "ban": 0.56,
    "gloryWin": 48.09,
-   "gloryBan": 0.51,
+   "gloryBan": 0.53,
    "tier": "C",
-   "lowPick": true,
+   "lowPick": false,
    "counters": [
     "x-borg",
     "cici",
-    "zhuxin",
     "natan",
+    "zhuxin",
     "kimmy"
    ],
    "strongAgainst": [
     "argus",
     "zhask",
     "lukas",
-    "jawhead",
-    "chip"
+    "jawhead"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 14,
+   "byRank": {
+    "epic": 46.6,
+    "legend": 46.48,
+    "mythic": 46.69,
+    "honor": 47.37,
+    "glory": 48.09
+   }
   },
   {
    "slug": "luo-yi",
@@ -3317,9 +4968,9 @@
    "ru": "Ло Йи",
    "rank": 115,
    "pick": 0.17,
-   "win": 47.38,
+   "win": 47.35,
    "ban": 0.07,
-   "gloryWin": 46.65,
+   "gloryWin": 46.62,
    "gloryBan": 0.04,
    "tier": "C",
    "lowPick": true,
@@ -3328,24 +4979,38 @@
     "faramis",
     "baxia",
     "fredrinn",
-    "popol-and-kupa"
+    "uranus"
    ],
    "strongAgainst": [
     "novaria"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 38,
+   "byRank": {
+    "epic": 48.7,
+    "legend": 47.94,
+    "mythic": 47.5,
+    "honor": 47.55,
+    "glory": 46.62
+   }
   },
   {
    "slug": "nana",
    "en": "Nana",
    "ru": "Нана",
    "rank": 116,
-   "pick": 1.73,
-   "win": 47.29,
-   "ban": 3.76,
+   "pick": 1.72,
+   "win": 47.27,
+   "ban": 3.74,
    "gloryWin": 45.08,
-   "gloryBan": 0.8,
+   "gloryBan": 0.81,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -3362,17 +5027,31 @@
     "hylos"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 129,
+   "byRank": {
+    "epic": 49.86,
+    "legend": 48.48,
+    "mythic": 47.36,
+    "honor": 46.03,
+    "glory": 45.08
+   }
   },
   {
    "slug": "pharsa",
    "en": "Pharsa",
    "ru": "Фаша",
    "rank": 117,
-   "pick": 0.33,
-   "win": 47.27,
+   "pick": 0.32,
+   "win": 47.26,
    "ban": 0.18,
-   "gloryWin": 47.14,
+   "gloryWin": 47.11,
    "gloryBan": 0.04,
    "tier": "C",
    "lowPick": true,
@@ -3385,7 +5064,21 @@
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 82,
+   "byRank": {
+    "epic": 47.98,
+    "legend": 47.4,
+    "mythic": 47.09,
+    "honor": 47.05,
+    "glory": 47.11
+   }
   },
   {
    "slug": "martis",
@@ -3393,9 +5086,9 @@
    "ru": "Мартис",
    "rank": 118,
    "pick": 0.62,
-   "win": 47.24,
+   "win": 47.23,
    "ban": 0.44,
-   "gloryWin": 47.45,
+   "gloryWin": 47.44,
    "gloryBan": 0.17,
    "tier": "C",
    "lowPick": false,
@@ -3412,18 +5105,33 @@
     "balmond"
    ],
    "patch": null,
-   "orders": 14
+   "orders": 14,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 76,
+   "byRank": {
+    "epic": 46.62,
+    "legend": 46.75,
+    "mythic": 47.65,
+    "honor": 47.54,
+    "glory": 47.44
+   }
   },
   {
    "slug": "esmeralda",
    "en": "Esmeralda",
    "ru": "Эсмеральда",
    "rank": 119,
-   "pick": 0.85,
+   "pick": 0.84,
    "win": 47,
    "ban": 2.21,
-   "gloryWin": 46.17,
-   "gloryBan": 1.22,
+   "gloryWin": 46.19,
+   "gloryBan": 1.23,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -3443,7 +5151,22 @@
     "karrie"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Mage"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 53,
+   "byRank": {
+    "epic": 48.26,
+    "legend": 48.18,
+    "mythic": 47.82,
+    "honor": 46.98,
+    "glory": 46.19
+   }
   },
   {
    "slug": "harith",
@@ -3451,18 +5174,18 @@
    "ru": "Харит",
    "rank": 120,
    "pick": 0.15,
-   "win": 46.85,
+   "win": 46.92,
    "ban": 0.05,
-   "gloryWin": 48.03,
+   "gloryWin": 48.08,
    "gloryBan": 0.04,
    "tier": "D",
    "lowPick": true,
    "counters": [
     "lolita",
-    "johnson",
-    "suyou",
     "karina",
-    "lapu-lapu"
+    "johnson",
+    "lapu-lapu",
+    "suyou"
    ],
    "strongAgainst": [
     "edith",
@@ -3472,7 +5195,21 @@
     "phoveus"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 61,
+   "byRank": {
+    "epic": 45.74,
+    "legend": 44.88,
+    "mythic": 44.9,
+    "honor": 46.15,
+    "glory": 48.08
+   }
   },
   {
    "slug": "balmond",
@@ -3480,7 +5217,7 @@
    "ru": "Бальмонд",
    "rank": 121,
    "pick": 0.64,
-   "win": 46.68,
+   "win": 46.66,
    "ban": 0.39,
    "gloryWin": 45,
    "gloryBan": 0.14,
@@ -3505,7 +5242,22 @@
     "change"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 132,
+   "byRank": {
+    "epic": 47.21,
+    "legend": 47.5,
+    "mythic": 47.35,
+    "honor": 45.99,
+    "glory": 45
+   }
   },
   {
    "slug": "grock",
@@ -3513,24 +5265,39 @@
    "ru": "Грок",
    "rank": 122,
    "pick": 0.34,
-   "win": 46.62,
+   "win": 46.61,
    "ban": 0.72,
-   "gloryWin": 45.33,
-   "gloryBan": 0.39,
+   "gloryWin": 45.35,
+   "gloryBan": 0.4,
    "tier": "D",
    "lowPick": true,
    "counters": [
     "lolita",
     "johnson",
     "yin",
-    "layla",
-    "odette"
+    "diggie",
+    "layla"
    ],
    "strongAgainst": [
     "kaja"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Fighter"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 90,
+   "byRank": {
+    "epic": 49.77,
+    "legend": 47.88,
+    "mythic": 46.94,
+    "honor": 46.26,
+    "glory": 45.35
+   }
   },
   {
    "slug": "zilong",
@@ -3538,9 +5305,9 @@
    "ru": "Зилонг",
    "rank": 123,
    "pick": 0.71,
-   "win": 46.28,
+   "win": 46.27,
    "ban": 0.49,
-   "gloryWin": 44.37,
+   "gloryWin": 44.4,
    "gloryBan": 0.22,
    "tier": "D",
    "lowPick": false,
@@ -3564,7 +5331,22 @@
     "tigreal"
    ],
    "patch": "nerf",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Assassin"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 118,
+   "byRank": {
+    "epic": 47.18,
+    "legend": 46.76,
+    "mythic": 46.79,
+    "honor": 45.54,
+    "glory": 44.4
+   }
   },
   {
    "slug": "baxia",
@@ -3572,17 +5354,17 @@
    "ru": "Баксий",
    "rank": 124,
    "pick": 0.05,
-   "win": 45.98,
+   "win": 45.97,
    "ban": 0.1,
-   "gloryWin": 46.05,
+   "gloryWin": 46,
    "gloryBan": 0.08,
    "tier": "D",
    "lowPick": true,
    "counters": [
     "obsidia",
     "alice",
-    "lukas",
     "saber",
+    "lukas",
     "zhask"
    ],
    "strongAgainst": [
@@ -3591,11 +5373,25 @@
     "x-borg",
     "nolan",
     "karrie",
-    "luo-yi",
-    "granger"
+    "luo-yi"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Jungle",
+    "Roam"
+   ],
+   "releaseOrder": 47,
+   "byRank": {
+    "epic": 48.6,
+    "legend": 47.03,
+    "mythic": 45.69,
+    "honor": 44.74,
+    "glory": 46
+   }
   },
   {
    "slug": "gatotkaca",
@@ -3621,7 +5417,23 @@
     "lesley"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Roam"
+   ],
+   "releaseOrder": 93,
+   "byRank": {
+    "epic": 48.76,
+    "legend": 45.88,
+    "mythic": 44.9,
+    "honor": 44.01,
+    "glory": 43.99
+   }
   },
   {
    "slug": "tigreal",
@@ -3629,17 +5441,17 @@
    "ru": "Тигрил",
    "rank": 126,
    "pick": 2,
-   "win": 45.2,
-   "ban": 7.39,
-   "gloryWin": 44.31,
-   "gloryBan": 3.88,
+   "win": 45.22,
+   "ban": 7.43,
+   "gloryWin": 44.37,
+   "gloryBan": 3.95,
    "tier": "D",
    "lowPick": false,
    "counters": [
     "zilong",
     "estes",
-    "alucard",
     "franco",
+    "alucard",
     "lesley"
    ],
    "strongAgainst": [
@@ -3648,7 +5460,21 @@
     "alice"
    ],
    "patch": "buff",
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 128,
+   "byRank": {
+    "epic": 48.83,
+    "legend": 46.07,
+    "mythic": 44.84,
+    "honor": 44.81,
+    "glory": 44.37
+   }
   },
   {
    "slug": "chou",
@@ -3657,9 +5483,9 @@
    "rank": 127,
    "pick": 1.04,
    "win": 45.1,
-   "ban": 3.1,
+   "ban": 3.09,
    "gloryWin": 44.7,
-   "gloryBan": 1.56,
+   "gloryBan": 1.58,
    "tier": "D",
    "lowPick": false,
    "counters": [
@@ -3671,7 +5497,22 @@
    ],
    "strongAgainst": [],
    "patch": null,
-   "orders": 21
+   "orders": 21,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Roam"
+   ],
+   "releaseOrder": 108,
+   "byRank": {
+    "epic": 45.38,
+    "legend": 45.34,
+    "mythic": 45.2,
+    "honor": 45.32,
+    "glory": 44.7
+   }
   },
   {
    "slug": "valentina",
@@ -3679,9 +5520,9 @@
    "ru": "Валентина",
    "rank": 128,
    "pick": 0.17,
-   "win": 44.76,
+   "win": 44.73,
    "ban": 0.16,
-   "gloryWin": 45.44,
+   "gloryWin": 45.39,
    "gloryBan": 0.21,
    "tier": "D",
    "lowPick": true,
@@ -3694,11 +5535,27 @@
    ],
    "strongAgainst": [
     "silvanna",
+    "odette",
     "dyrroth",
+    "johnson",
     "chip"
    ],
    "patch": null,
-   "orders": 18
+   "orders": 18,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 24,
+   "byRank": {
+    "epic": 42.51,
+    "legend": 42.35,
+    "mythic": 42.99,
+    "honor": 44.22,
+    "glory": 45.39
+   }
   },
   {
    "slug": "mathilda",
@@ -3706,7 +5563,7 @@
    "ru": "Матильда",
    "rank": 129,
    "pick": 0.14,
-   "win": 44.5,
+   "win": 44.49,
    "ban": 0.19,
    "gloryWin": 43.94,
    "gloryBan": 0.21,
@@ -3728,7 +5585,22 @@
     "esmeralda"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin",
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 32,
+   "byRank": {
+    "epic": 46.74,
+    "legend": 45.26,
+    "mythic": 45.15,
+    "honor": 44.99,
+    "glory": 43.94
+   }
   },
   {
    "slug": "lancelot",
@@ -3738,7 +5610,7 @@
    "pick": 0.51,
    "win": 43.13,
    "ban": 0.47,
-   "gloryWin": 42.32,
+   "gloryWin": 42.31,
    "gloryBan": 0.13,
    "tier": "D",
    "lowPick": false,
@@ -3753,7 +5625,21 @@
     "angela"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 87,
+   "byRank": {
+    "epic": 45.34,
+    "legend": 44.12,
+    "mythic": 43.14,
+    "honor": 43.19,
+    "glory": 42.31
+   }
   },
   {
    "slug": "granger",
@@ -3761,10 +5647,10 @@
    "ru": "Грейнджер",
    "rank": 131,
    "pick": 1.33,
-   "win": 43,
-   "ban": 1.63,
-   "gloryWin": 44.74,
-   "gloryBan": 0.79,
+   "win": 42.99,
+   "ban": 1.64,
+   "gloryWin": 44.69,
+   "gloryBan": 0.8,
    "tier": "D",
    "lowPick": false,
    "counters": [
@@ -3772,7 +5658,7 @@
     "beatrix",
     "ixia",
     "diggie",
-    "baxia"
+    "yve"
    ],
    "strongAgainst": [
     "hilda",
@@ -3782,7 +5668,21 @@
     "fanny"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 55,
+   "byRank": {
+    "epic": 43.18,
+    "legend": 41.75,
+    "mythic": 41.43,
+    "honor": 42.03,
+    "glory": 44.69
+   }
   },
   {
    "slug": "fanny",
@@ -3790,10 +5690,10 @@
    "ru": "Фанни",
    "rank": 132,
    "pick": 0.65,
-   "win": 42.62,
-   "ban": 1.94,
+   "win": 42.64,
+   "ban": 1.95,
    "gloryWin": 42.85,
-   "gloryBan": 1.45,
+   "gloryBan": 1.46,
    "tier": "D",
    "lowPick": false,
    "counters": [
@@ -3814,7 +5714,21 @@
     "franco"
    ],
    "patch": null,
-   "orders": 23
+   "orders": 23,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 117,
+   "byRank": {
+    "epic": 44.65,
+    "legend": 42.96,
+    "mythic": 41.67,
+    "honor": 42.34,
+    "glory": 42.85
+   }
   },
   {
    "slug": "franco",
@@ -3822,10 +5736,10 @@
    "ru": "Франко",
    "rank": 133,
    "pick": 0.94,
-   "win": 41.57,
+   "win": 41.58,
    "ban": 3.11,
-   "gloryWin": 39.87,
-   "gloryBan": 1.63,
+   "gloryWin": 39.92,
+   "gloryBan": 1.64,
    "tier": "D",
    "lowPick": false,
    "counters": [
@@ -3837,11 +5751,25 @@
    ],
    "strongAgainst": [
     "hanzo",
-    "johnson",
     "tigreal"
    ],
    "patch": null,
-   "orders": null
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 124,
+   "byRank": {
+    "epic": 44,
+    "legend": 42.12,
+    "mythic": 41.78,
+    "honor": 41.26,
+    "glory": 39.92
+   }
   }
- ]
+ ],
+ "rolesSource": "https://www.mobilelegends.com/hero"
 }

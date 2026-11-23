@@ -163,1075 +163,673 @@
     },
     {
       "pathname": "/heroes/",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/masha.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/masha.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/marcel.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/marcel.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/argus.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/argus.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/khufra.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/khufra.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/rafaela.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/rafaela.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/diggie.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/diggie.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/valir.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/valir.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/floryn.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/floryn.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/minotaur.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/minotaur.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/bruno.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/bruno.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/sun.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/sun.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/gloo.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/gloo.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/aulus.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/aulus.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/carmilla.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/carmilla.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/lolita.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/lolita.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/obsidia.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/obsidia.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/estes.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/estes.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/irithel.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/irithel.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/edith.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/edith.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/hanabi.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/hanabi.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/gord.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/gord.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/ling.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/ling.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/zhask.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/zhask.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/yve.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/yve.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/popol-and-kupa.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/popol-and-kupa.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/benedetta.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/benedetta.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/minsitthar.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/minsitthar.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/lukas.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/lukas.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/belerick.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/belerick.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/aldous.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/aldous.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/barats.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/barats.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/cyclops.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/cyclops.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/bane.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/bane.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/xavier.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/xavier.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/atlas.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/atlas.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/silvanna.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/silvanna.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/kadita.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/kadita.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/natan.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/natan.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/guinevere.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/guinevere.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/fredrinn.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/fredrinn.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/saber.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/saber.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/kagura.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/kagura.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/hilda.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/hilda.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/natalia.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/natalia.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/cecilion.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/cecilion.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/zetian.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/zetian.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/faramis.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/faramis.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/alice.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/alice.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/terizla.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/terizla.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/lunox.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/lunox.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/kalea.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/kalea.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/khaleed.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/khaleed.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/beatrix.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/beatrix.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/eudora.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/eudora.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/clint.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/clint.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/moskov.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/moskov.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/aamon.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/aamon.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/badang.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/badang.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/akai.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/akai.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/leomord.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/leomord.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/vale.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/vale.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/ixia.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/ixia.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/paquito.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/paquito.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/hirara.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/hirara.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/brody.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/brody.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/melissa.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/melissa.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/angela.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/angela.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/julian.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/julian.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/x-borg.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/x-borg.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/hanzo.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/hanzo.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/kaja.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/kaja.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/miya.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/miya.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/suyou.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/suyou.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/nolan.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/nolan.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/odette.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/odette.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/yin.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/yin.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/zhuxin.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/zhuxin.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/novaria.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/novaria.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/sora.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/sora.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/layla.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/layla.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/cici.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/cici.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/lylia.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/lylia.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/uranus.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/uranus.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/vexana.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/vexana.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/dyrroth.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/dyrroth.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/freya.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/freya.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/johnson.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/johnson.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/yi-sun-shin.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/yi-sun-shin.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/ruby.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/ruby.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/yu-zhong.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/yu-zhong.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/aurora.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/aurora.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/thamuz.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/thamuz.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/karrie.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/karrie.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/alucard.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/alucard.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/claude.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/claude.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/alpha.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/alpha.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/joy.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/joy.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/kimmy.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/kimmy.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/gusion.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/gusion.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/hylos.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/hylos.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/karina.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/karina.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/roger.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/roger.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/selena.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/selena.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/lesley.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/lesley.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/phoveus.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/phoveus.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/change.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/change.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/harley.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/harley.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/hayabusa.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/hayabusa.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/lapu-lapu.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/lapu-lapu.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/jawhead.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/jawhead.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/helcurt.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/helcurt.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/wanwan.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/wanwan.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/chip.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/chip.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/arlott.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/arlott.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/luo-yi.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/luo-yi.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/nana.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/nana.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/pharsa.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/pharsa.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/martis.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/martis.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/esmeralda.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/esmeralda.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/harith.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/harith.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/balmond.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/balmond.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/grock.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/grock.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/zilong.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/zilong.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/baxia.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/baxia.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/gatotkaca.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/gatotkaca.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/tigreal.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/tigreal.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/chou.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/chou.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/valentina.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/valentina.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/mathilda.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/mathilda.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/lancelot.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/lancelot.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/granger.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/granger.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/fanny.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/fanny.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     },
     {
       "pathname": "/heroes/franco.html",
-      "lastmod": "2026-11-22"
-    },
-    {
-      "pathname": "/en/heroes/franco.html",
-      "lastmod": "2026-11-22"
+      "lastmod": "2026-11-23",
+      "ruOnly": true
     }
   ]
 }

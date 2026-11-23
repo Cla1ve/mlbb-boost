@@ -1,6 +1,6 @@
 ---
 title: "Harley MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Harley in Mobile Legends, 48.17% win rate, pick and ban rates from official 30-day statistics, tier C and patch 2.2.16 changes."
+description: "Who counters Harley in Mobile Legends: assassin and mage, Mid Lane or Jungle, 48.19% win rate, tier C, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/harley.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier C
 
 # Harley in Mobile Legends: counters and stats
 
-Harley wins 48.17% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin and mage, Mid Lane or Jungle. Harley wins 48.19% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,41 +19,68 @@ Hero statsTier C
 
 ![](/images/heroes/harley.webp)
 
-**Harley**Ban 3.10% · Pick 0.83%
+**Harley**Ban 3.09% · Pick 0.83%
 
 Counters
 
 ![](/images/heroes/alice.webp)![](/images/heroes/valir.webp)![](/images/heroes/melissa.webp)
 
-Win rate, 30 days**48.17%**
+Win rate, 30 days**48.19%**
 
-**48.17%**win rate, 30 days
+**48.19%**win rate, 30 days
 
 **0.83%**pick rate
 
-**3.10%**ban rate
+**3.09%**ban rate
 
-**48.44%**wins in Mythical Glory
+**48.46%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Harley as a assassin and mage for the Mid Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Assassin and mage**
+-   Lane**Mid Lane or Jungle**
+-   Among assassins**#22 of 29**
+-   Among mages**#26 of 32**
+-   In the Mid Lane**#25 of 29**
+-   In the jungle**#30 of 37**
 
 ## Who counters Harley
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Harley. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Harley. The number is each hero’s own win rate. 3 of the 5 counters are mages.
 
-[![](/images/heroes/alice.webp)Alice50.73%](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/valir.webp)Valir54.13%](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/melissa.webp)Melissa49.98%](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/gord.webp)Gord52.63%](https://boostmlbb.ru/en/heroes/gord.html)
+[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)
 
 ## Who Harley is strong against
 
 Harley is listed as a counter for these heroes.
 
-[![](/images/heroes/sun.webp)Sun53.69%](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.22%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Roger48.35%](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/lolita.webp)Lolita53.31%](https://boostmlbb.ru/en/heroes/lolita.html)
+[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Roger](/images/heroes/roger.webp)Roger48.33%](https://boostmlbb.ru/en/heroes/roger.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Win rate by rank
+
+Best result in Mythical Glory (48.46%), weakest in Epic (47.93%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**47.93%**
+-   ![](/images/ranks/Legend.webp)Legend**48.06%**
+-   ![](/images/ranks/Mythic.webp)Mythic**48.19%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.09%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.46%**
 
 ## Place in the meta
 
-Harley sits in tier C of our win-rate tier list and ranks 107 of 133 heroes. BOOST MLBB customers ordered 22 hero boosts on Harley over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Harley sits in tier C of our win-rate tier list and ranks 107 of 133 heroes. In Mythical Glory the result is almost the same: 48.46%. BOOST MLBB customers ordered 22 hero boosts on Harley over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Mid Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
 
 ## Lore and skills
 
-![](/images/heroes/harley.webp)
+![Harley](/images/heroes/harley.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Harley page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harley). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -67,10 +94,18 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 Who counters Harley in MLBB?
 
-By MOONTON’s official 30-day statistics: Alice, Valir, Melissa, Joy and Gord.
+By MOONTON’s official 30-day statistics: Alice, Valir, Melissa, Gord and Joy.
 
 What is Harley’s win rate right now?
 
-48.17% over the last 30 days across all ranks and 48.44% in Mythical Glory, as of 21 November 2026.
+48.19% over the last 30 days across all ranks and 48.46% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Harley play?
+
+Assassin and mage, Mid Lane or Jungle, according to MOONTON’s official hero page.
+
+Is Harley strong in the current meta?
+
+Tier C: #107 of 133 heroes by 30-day win rate and #22 among assassins.
+
+MLBB Boost editorial team · Updated 23 November 2026

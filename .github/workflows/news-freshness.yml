@@ -17,7 +17,7 @@ jobs:
   refresh:
     if: github.repository == 'Cla1ve/mlbb-boost'
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - name: Check out main
         uses: actions/checkout@v4
@@ -35,6 +35,13 @@ jobs:
 
       - name: Refresh validated public prices and reviews
         run: npm run site:sync-data
+
+      # Official hero statistics from mobilelegends.com/rank, rendered in the runner's Chrome.
+      # If the page changes or is unreachable, the previous data stays and the rest of the job continues.
+      - name: Refresh official hero statistics
+        continue-on-error: true
+        timeout-minutes: 8
+        run: npm run heroes:refresh
 
       - name: Build and validate public pages
         run: npm run site:prepare
@@ -54,8 +61,8 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- '*.html' en guides markdown content/public-data.json content/site-pages.json content/translation-gaps.json js/prices.js js/review-stats.js js/i18n-seo.js .well-known llms.txt llms-full.txt news-sitemap.xml sitemap.xml news
-          git commit -m "chore(site): refresh public data and generated pages"
+          git add -- '*.html' en guides markdown content/public-data.json content/heroes.json content/site-pages.json content/translation-gaps.json js/prices.js js/review-stats.js js/i18n-seo.js .well-known llms.txt llms-full.txt news-sitemap.xml sitemap.xml news
+          git commit -m "chore(site): refresh public data, hero statistics and generated pages"
           git push origin HEAD:main
           # GITHUB_TOKEN commits do not trigger the default Pages build.
           gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"

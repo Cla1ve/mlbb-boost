@@ -1,6 +1,6 @@
 ---
 title: "Roger MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Roger in Mobile Legends, 48.35% win rate, pick and ban rates from official 30-day statistics, tier C and patch 2.2.16 changes."
+description: "Who counters Roger in Mobile Legends: fighter and marksman, Jungle, 48.33% win rate, tier C, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier C
 
 # Roger in Mobile Legends: counters and stats
 
-Roger wins 48.35% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and marksman, Jungle. Roger wins 48.33% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -25,29 +25,55 @@ Counters
 
 ![](/images/heroes/harley.webp)![](/images/heroes/gusion.webp)![](/images/heroes/silvanna.webp)
 
-Win rate, 30 days**48.35%**
+Win rate, 30 days**48.33%**
 
-**48.35%**win rate, 30 days
+**48.33%**win rate, 30 days
 
 **0.27%**pick rate
 
 **0.09%**ban rate
 
-**45.95%**wins in Mythical Glory
+**45.96%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Roger as a fighter and marksman for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Fighter and marksman**
+-   Lane**Jungle**
+-   Among fighters**#34 of 44**
+-   Among marksmen**#20 of 23**
+-   In the jungle**#29 of 37**
 
 ## Who counters Roger
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Roger. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Roger. The number is each hero’s own win rate. 4 of the 5 counters are assassins.
 
-[![](/images/heroes/harley.webp)Harley48.17%](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/helcurt.webp)Helcurt47.61%](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/yin.webp)Yin49.61%](https://boostmlbb.ru/en/heroes/yin.html)
+[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)
+
+## Win rate by rank
+
+Best result in Epic (50.73%), weakest in Mythical Glory (45.96%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**50.73%**
+-   ![](/images/ranks/Legend.webp)Legend**50.29%**
+-   ![](/images/ranks/Mythic.webp)Mythic**49.67%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.49%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**45.96%**
 
 ## Place in the meta
 
-Roger sits in tier C of our win-rate tier list and ranks 102 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Roger sits in tier C of our win-rate tier list and ranks 103 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 45.96% against 48.33% across all ranks, a 2.37-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Jungle heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Lore and skills
 
-![](/images/heroes/roger.webp)
+![Roger](/images/heroes/roger.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Roger page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Roger). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -65,6 +91,14 @@ By MOONTON’s official 30-day statistics: Harley, Gusion, Silvanna, Helcurt and
 
 What is Roger’s win rate right now?
 
-48.35% over the last 30 days across all ranks and 45.95% in Mythical Glory, as of 21 November 2026.
+48.33% over the last 30 days across all ranks and 45.96% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Roger play?
+
+Fighter and marksman, Jungle, according to MOONTON’s official hero page.
+
+Is Roger strong in the current meta?
+
+Tier C: #103 of 133 heroes by 30-day win rate and #34 among fighters.
+
+MLBB Boost editorial team · Updated 23 November 2026

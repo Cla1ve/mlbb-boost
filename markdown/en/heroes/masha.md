@@ -1,6 +1,6 @@
 ---
 title: "Masha MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Masha in Mobile Legends, 60.47% win rate, pick and ban rates from official 30-day statistics, tier S and patch 2.2.16 changes."
+description: "Who counters Masha in Mobile Legends: tank and fighter, EXP Lane, 60.40% win rate, tier S, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/masha.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier S
 
 # Masha in Mobile Legends: counters and stats
 
-Masha wins 60.47% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and fighter, EXP Lane. Masha wins 60.40% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,41 +19,67 @@ Hero statsTier S
 
 ![](/images/heroes/masha.webp)
 
-**Masha**Ban 40.76% · Pick 0.52%
+**Masha**Ban 40.89% · Pick 0.52%
 
 Counters
 
 ![](/images/heroes/gloo.webp)![](/images/heroes/eudora.webp)![](/images/heroes/lesley.webp)
 
-Win rate, 30 days**60.47%**
+Win rate, 30 days**60.40%**
 
-**60.47%**win rate, 30 days
+**60.40%**win rate, 30 days
 
 **0.52%**pick rate
 
-**40.76%**ban rate
+**40.89%**ban rate
 
-**60.85%**wins in Mythical Glory
+**60.75%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Masha as a tank and fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Tank and fighter**
+-   Lane**EXP Lane**
+-   Among tanks**#1 of 25**
+-   Among fighters**#1 of 44**
+-   In the EXP Lane**#1 of 42**
 
 ## Who counters Masha
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Masha. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Masha. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
 
-[![](/images/heroes/gloo.webp)Gloo53.55%](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/eudora.webp)Eudora50.37%](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/lesley.webp)Lesley48.29%](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/cici.webp)Cici49.40%](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)
+[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Lesley](/images/heroes/lesley.webp)Lesley48.31%](https://boostmlbb.ru/en/heroes/lesley.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Brody](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)
 
 ## Who Masha is strong against
 
 Masha is listed as a counter for these heroes.
 
-[![](/images/heroes/freya.webp)Freya49.23%](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/bruno.webp)Bruno53.76%](https://boostmlbb.ru/en/heroes/bruno.html)
+[![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)
+
+## Win rate by rank
+
+Best result in Mythical Honor (61.09%), weakest in Epic (54.74%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**54.74%**
+-   ![](/images/ranks/Legend.webp)Legend**58.09%**
+-   ![](/images/ranks/Mythic.webp)Mythic**59.63%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**61.09%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**60.75%**
 
 ## Place in the meta
 
-Masha sits in tier S of our win-rate tier list and ranks 1 of 133 heroes. In patch 2.2.16 the hero was reworked for the game’s 10th anniversary. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Masha sits in tier S of our win-rate tier list and ranks 1 of 133 heroes. In Mythical Glory the result is almost the same: 60.75%. At that rank the hero is banned in 72.41% of matches. In patch 2.2.16 the hero was reworked for the game’s 10th anniversary. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other EXP Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)
 
 ## Lore and skills
 
-![](/images/heroes/masha.webp)
+![Masha](/images/heroes/masha.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Masha page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Masha). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ By MOONTON’s official 30-day statistics: Gloo, Eudora, Lesley, Cici and Brody.
 
 What is Masha’s win rate right now?
 
-60.47% over the last 30 days across all ranks and 60.85% in Mythical Glory, as of 21 November 2026.
+60.40% over the last 30 days across all ranks and 60.75% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Masha play?
+
+Tank and fighter, EXP Lane, according to MOONTON’s official hero page.
+
+Is Masha strong in the current meta?
+
+Tier S: #1 of 133 heroes by 30-day win rate and #1 among tanks.
+
+MLBB Boost editorial team · Updated 23 November 2026

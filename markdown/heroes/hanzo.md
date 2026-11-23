@@ -1,6 +1,6 @@
 ---
 title: "Ханзо MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Ханзо в Mobile Legends, процент побед 49,89%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Ханзо в Mobile Legends: убийца, лес, 49,90% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/hanzo.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Ханзо в Mobile Legends: контрпики и статистика
 
-Ханзо выигрывает 49,89% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес. Ханзо выигрывает 49,90% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/hanzo.webp)
 
-**Ханзо**Бан 5,94% · Выбор 0,36%
+**Ханзо**Бан 5,82% · Выбор 0,36%
 
 Контрпики
 
-![](/images/heroes/ixia.webp)![](/images/heroes/diggie.webp)![](/images/heroes/franco.webp)
+![](/images/heroes/diggie.webp)![](/images/heroes/ixia.webp)![](/images/heroes/franco.webp)
 
-Победы за 30 дней**49,89%**
+Победы за 30 дней**49,90%**
 
-**49,89%**побед за 30 дней
+**49,90%**побед за 30 дней
 
 **0,36%**выбирают в матчах
 
-**5,94%**банят в матчах
+**5,82%**банят в матчах
 
-**48,80%**побед в Мифической славе
+**48,83%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Ханзо» — убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Убийца**
+-   Линия**Лес**
+-   Среди убийц**10-е из 29**
+-   В лесу**16-е из 37**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Ханзо». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Ханзо». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
 
-[![](/images/heroes/ixia.webp)Иксия50,06%](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/diggie.webp)Дигги54,25%](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/franco.webp)Франко41,57%](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/balmond.webp)Бальмонд46,68%](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/alpha.webp)Альфа48,84%](https://boostmlbb.ru/heroes/alpha.html)
+[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Франко](/images/heroes/franco.webp)Франко41,58%](https://boostmlbb.ru/heroes/franco.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Альфа](/images/heroes/alpha.webp)Альфа48,85%](https://boostmlbb.ru/heroes/alpha.html)
 
 ## Против кого силён
 
-Для этих героев «Ханзо» сам числится контрпиком.
+«Ханзо» числится контрпиком для этих героев.
 
-[![](/images/heroes/obsidia.webp)Обсидия53,22%](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/kagura.webp)Кагура51,13%](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/ling.webp)Линг52,56%](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/hirara.webp)Хирара50,03%](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/aldous.webp)Алдос51,76%](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/natalia.webp)Наталья51,04%](https://boostmlbb.ru/heroes/natalia.html)
+[![Обсидия](/images/heroes/obsidia.webp)Обсидия53,20%](https://boostmlbb.ru/heroes/obsidia.html)[![Кагура](/images/heroes/kagura.webp)Кагура51,09%](https://boostmlbb.ru/heroes/kagura.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Хирара](/images/heroes/hirara.webp)Хирара50,03%](https://boostmlbb.ru/heroes/hirara.html)[![Алдос](/images/heroes/aldous.webp)Алдос51,86%](https://boostmlbb.ru/heroes/aldous.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Легенда» (50,90%), слабее всего — «Мифическая слава» (48,83%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**50,77%**
+-   ![](/images/ranks/Legend.webp)Легенда**50,90%**
+-   ![](/images/ranks/Mythic.webp)Мифический**50,58%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**50,23%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**48,83%**
 
 ## Место в мете
 
-«Ханзо» — тир B в нашем тир-листе по проценту побед, 70-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Ханзо» — тир B в нашем тир-листе по проценту побед, 70-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе процент побед ниже: 48,83% против 49,90% на всех рангах, разница 1,07 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои леса
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
 
 ## История и навыки
 
-![](/images/heroes/hanzo.webp)
+![Ханзо](/images/heroes/hanzo.webp)
 
 Историю героя, навыки и реплики собирает [страница Hanzo в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanzo) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ language: ru
 
 Кто контрпик для героя «Ханзо» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Иксия, Дигги, Франко, Бальмонд и Альфа.
+По официальной статистике MOONTON за 30 дней: Дигги, Иксия, Франко, Бальмонд и Альфа.
 
 Какой процент побед у героя «Ханзо» сейчас?
 
-49,89% за последние 30 дней на всех рангах и 48,80% в Мифической славе, данные на 21 ноября 2026 года.
+49,90% за последние 30 дней на всех рангах и 48,83% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Ханзо»?
+
+Убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Ханзо» в текущей мете?
+
+Тир B: 70-е место из 133 героев по проценту побед за 30 дней и 10-е среди убийц.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

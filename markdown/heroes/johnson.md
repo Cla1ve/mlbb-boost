@@ -1,6 +1,6 @@
 ---
 title: "Джонсон MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Джонсон в Mobile Legends, процент побед 49,22%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Джонсон в Mobile Legends: танк и поддержка, роум, 49,25% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/johnson.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Джонсон в Mobile Legends: контрпики и статистика
 
-Джонсон выигрывает 49,22% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк и поддержка, роум. Джонсон выигрывает 49,25% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -25,35 +25,61 @@ language: ru
 
 ![](/images/heroes/layla.webp)![](/images/heroes/zilong.webp)![](/images/heroes/saber.webp)
 
-Победы за 30 дней**49,22%**
+Победы за 30 дней**49,25%**
 
-**49,22%**побед за 30 дней
+**49,25%**побед за 30 дней
 
 **0,70%**выбирают в матчах
 
 **1,98%**банят в матчах
 
-**46,75%**побед в Мифической славе
+**46,81%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Джонсон» — танк и поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Танк и поддержка**
+-   Линия**Роум**
+-   Среди танков**17-е из 25**
+-   Среди героев поддержки**13-е из 15**
+-   В роуме**23-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Джонсон». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Джонсон». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
 
-[![](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/zilong.webp)Зилонг46,28%](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/saber.webp)Сабер51,18%](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Дариус49,30%](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/franco.webp)Франко41,57%](https://boostmlbb.ru/heroes/franco.html)
+[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Дариус](/images/heroes/dyrroth.webp)Дариус49,30%](https://boostmlbb.ru/heroes/dyrroth.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Против кого силён
 
-Для этих героев «Джонсон» сам числится контрпиком.
+«Джонсон» числится контрпиком для этих героев.
 
-[![](/images/heroes/belerick.webp)Белерик51,82%](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла53,32%](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/atlas.webp)Атлас51,49%](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/kadita.webp)Кадита51,33%](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/gloo.webp)Глу53,55%](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Лилия49,37%](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/grock.webp)Грок46,62%](https://boostmlbb.ru/heroes/grock.html)
+[![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Кармилла](/images/heroes/carmilla.webp)Кармилла53,29%](https://boostmlbb.ru/heroes/carmilla.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Ланселот](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![Лилия](/images/heroes/lylia.webp)Лилия49,34%](https://boostmlbb.ru/heroes/lylia.html)[![Грок](/images/heroes/grock.webp)Грок46,61%](https://boostmlbb.ru/heroes/grock.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (52,61%), слабее всего — «Мифическая слава» (46,81%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**52,61%**
+-   ![](/images/ranks/Legend.webp)Легенда**50,84%**
+-   ![](/images/ranks/Mythic.webp)Мифический**49,86%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**48,08%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**46,81%**
 
 ## Место в мете
 
-«Джонсон» — тир B в нашем тир-листе по проценту побед, 87-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Джонсон» — тир B в нашем тир-листе по проценту побед, 87-е место из 133 героев. В Мифической славе процент побед ниже: 46,81% против 49,25% на всех рангах, разница 2,44 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
 
 ## История и навыки
 
-![](/images/heroes/johnson.webp)
+![Джонсон](/images/heroes/johnson.webp)
 
 Историю героя, навыки и реплики собирает [страница Johnson в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +93,18 @@ language: ru
 
 Кто контрпик для героя «Джонсон» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Лейла, Зилонг, Сабер, Дариус и Франко.
+По официальной статистике MOONTON за 30 дней: Лейла, Зилонг, Сабер, Дариус и Валентина.
 
 Какой процент побед у героя «Джонсон» сейчас?
 
-49,22% за последние 30 дней на всех рангах и 46,75% в Мифической славе, данные на 21 ноября 2026 года.
+49,25% за последние 30 дней на всех рангах и 46,81% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Джонсон»?
+
+Танк и поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Джонсон» в текущей мете?
+
+Тир B: 87-е место из 133 героев по проценту побед за 30 дней и 17-е среди танков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

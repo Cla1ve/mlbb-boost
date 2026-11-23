@@ -1,6 +1,6 @@
 ---
 title: "Karrie MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Karrie in Mobile Legends, 48.85% win rate, pick and ban rates from official 30-day statistics, tier C and patch 2.2.16 changes."
+description: "Who counters Karrie in Mobile Legends: marksman, Gold Lane, 48.87% win rate, tier C, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/karrie.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier C
 
 # Karrie in Mobile Legends: counters and stats
 
-Karrie wins 48.85% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Karrie wins 48.87% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -25,35 +25,60 @@ Counters
 
 ![](/images/heroes/alice.webp)![](/images/heroes/baxia.webp)![](/images/heroes/esmeralda.webp)
 
-Win rate, 30 days**48.85%**
+Win rate, 30 days**48.87%**
 
-**48.85%**win rate, 30 days
+**48.87%**win rate, 30 days
 
 **0.57%**pick rate
 
 **0.87%**ban rate
 
-**48.63%**wins in Mythical Glory
+**48.67%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Karrie as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Marksman**
+-   Lane**Gold Lane**
+-   Among marksmen**#17 of 23**
+-   In the Gold Lane**#15 of 21**
 
 ## Who counters Karrie
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Karrie. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Karrie. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
 
-[![](/images/heroes/alice.webp)Alice50.73%](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/baxia.webp)Baxia45.98%](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/balmond.webp)Balmond46.68%](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)
+[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Who Karrie is strong against
 
 Karrie is listed as a counter for these heroes.
 
-[![](/images/heroes/sun.webp)Sun53.69%](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/hayabusa.webp)Hayabusa48.14%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/minsitthar.webp)Minsitthar52.04%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/argus.webp)Argus56.76%](https://boostmlbb.ru/en/heroes/argus.html)
+[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)
+
+## Win rate by rank
+
+Best result in Mythical Honor (49.47%), weakest in Legend (48.34%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**48.59%**
+-   ![](/images/ranks/Legend.webp)Legend**48.34%**
+-   ![](/images/ranks/Mythic.webp)Mythic**49.05%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.47%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.67%**
 
 ## Place in the meta
 
-Karrie sits in tier C of our win-rate tier list and ranks 93 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Karrie sits in tier C of our win-rate tier list and ranks 94 of 133 heroes. In Mythical Glory the result is almost the same: 48.67%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Gold Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
 
 ## Lore and skills
 
-![](/images/heroes/karrie.webp)
+![Karrie](/images/heroes/karrie.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Karrie page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karrie). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ By MOONTON’s official 30-day statistics: Alice, Baxia, Esmeralda, Balmond and 
 
 What is Karrie’s win rate right now?
 
-48.85% over the last 30 days across all ranks and 48.63% in Mythical Glory, as of 21 November 2026.
+48.87% over the last 30 days across all ranks and 48.67% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Karrie play?
+
+Marksman, Gold Lane, according to MOONTON’s official hero page.
+
+Is Karrie strong in the current meta?
+
+Tier C: #94 of 133 heroes by 30-day win rate and #17 among marksmen.
+
+MLBB Boost editorial team · Updated 23 November 2026

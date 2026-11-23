@@ -327,7 +327,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     }
     document.title = title;
     for (const [name, value, property] of [
-      ['description', description], ['robots', file === '404.html' ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
+      ['description', description], ['robots', file === '404.html' || (lang === 'en' && guideOf(file)?.ruOnly) ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
       ['og:title', title, true], ['og:description', description, true], ['og:type', guide ? 'article' : 'website', true], ['og:locale', lang === 'en' ? 'en_US' : 'ru_RU', true],
       ['og:url', origin + localized(filePath(file), lang), true], ['og:image', guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`, true],
       ['og:image:width', '1200', true], ['og:image:height', guide?.image ? '675' : '630', true], ['og:image:alt', lang === 'en' ? 'MLBB Boost — rank boost options and calculator' : 'MLBB Boost — услуги буста и калькулятор', true],
@@ -336,7 +336,8 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     document.querySelectorAll('meta[name="keywords"],meta[name="revisit-after"],meta[name="geo.position"],meta[name="ICBM"],meta[name="language"],meta[name="distribution"],meta[name="rating"]').forEach(node => node.remove());
     document.querySelectorAll('link[rel="canonical"],link[hreflang],link[rel="alternate"][type="text/markdown"]').forEach(node => node.remove());
     const canonical = origin + localized(filePath(file), lang);
-    for (const [rel, hreflang, href] of [['canonical', null, canonical], ['alternate', 'ru', origin + filePath(file)], ['alternate', 'en', origin + localized(filePath(file), 'en')], ['alternate', 'x-default', origin + filePath(file)]]) {
+    // Russian-only pages (hero stats) have no English alternate: the English copy stays reachable but is not indexed.
+    for (const [rel, hreflang, href] of [['canonical', null, canonical], ...(guideOf(file)?.ruOnly ? [] : [['alternate', 'ru', origin + filePath(file)], ['alternate', 'en', origin + localized(filePath(file), 'en')], ['alternate', 'x-default', origin + filePath(file)]])]) {
       const link = document.createElement('link'); link.rel = rel; link.href = href; if (hreflang) link.hreflang = hreflang; document.head.append(link);
     }
     const mdPath = `/markdown/${lang === 'en' ? 'en/' : ''}${file.replace(/\.html$/, '.md')}`;
@@ -393,7 +394,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '38' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '40' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
@@ -513,6 +514,7 @@ const manifest = JSON.parse(await read('content/site-pages.json'));
 for (const file of [...pageFiles.filter(f => f !== '404.html'), ...config.guides.map(g => g.file)]) {
   for (const lang of ['ru', 'en']) {
     const pathname = localized(filePath(file), lang);
+    if (lang === 'en' && guideOf(file)?.ruOnly) { manifest.pages = manifest.pages.filter(p => p.pathname !== pathname); continue; }
     const existing = manifest.pages.find(p => p.pathname === pathname);
     if (!existing) manifest.pages.push({ pathname, lastmod: guideOf(file)?.published || '2026-10-05' });
     else if (existing.lastmod < '2026-10-05') existing.lastmod = '2026-10-05';
@@ -520,6 +522,7 @@ for (const file of [...pageFiles.filter(f => f !== '404.html'), ...config.guides
     const guideUpdated = guideOf(file)?.updated;
     if (guideUpdated && entry.lastmod < guideUpdated) entry.lastmod = guideUpdated;
     if (['index.html', 'about.html', 'prices.html', 'services.html', 'reviews.html'].includes(file) && entry.lastmod < changedDate) entry.lastmod = changedDate;
+    if (guideOf(file)?.ruOnly) entry.ruOnly = true; else delete entry.ruOnly;
   }
 }
 await save('content/site-pages.json', JSON.stringify(manifest, null, 2) + '\n');

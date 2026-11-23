@@ -1,6 +1,6 @@
 ---
 title: "Марсель MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Марсель в Mobile Legends, процент побед 57,49%, выбора и банов по официальной статистике за 30 дней, тир S и патч 2.2.16."
+description: "Кто контрит героя Марсель в Mobile Legends: поддержка, роум, 57,46% побед, тир S, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/marcel.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Марсель в Mobile Legends: контрпики и статистика
 
-Марсель выигрывает 57,49% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Поддержка, роум. Марсель выигрывает 57,46% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/marcel.webp)
 
-**Марсель**Бан 41,06% · Выбор 0,29%
+**Марсель**Бан 41,30% · Выбор 0,29%
 
 Контрпики
 
 ![](/images/heroes/atlas.webp)![](/images/heroes/sun.webp)![](/images/heroes/akai.webp)
 
-Победы за 30 дней**57,49%**
+Победы за 30 дней**57,46%**
 
-**57,49%**побед за 30 дней
+**57,46%**побед за 30 дней
 
 **0,29%**выбирают в матчах
 
-**41,06%**банят в матчах
+**41,30%**банят в матчах
 
-**57,38%**побед в Мифической славе
+**57,36%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Марсель» — поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Поддержка**
+-   Линия**Роум**
+-   Среди героев поддержки**1-е из 15**
+-   В роуме**1-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Марсель». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Марсель». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — танки.
 
-[![](/images/heroes/atlas.webp)Атлас51,49%](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/sun.webp)Сан53,69%](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/johnson.webp)Джонсон49,22%](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,22%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Акай](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
 
 ## Против кого силён
 
-Для этих героев «Марсель» сам числится контрпиком.
+«Марсель» числится контрпиком для этих героев.
 
-[![](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/lesley.webp)Лесли48,29%](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/angela.webp)Ангела49,97%](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/floryn.webp)Флорин54,06%](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/karina.webp)Карина48,55%](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/rafaela.webp)Рафаэль54,57%](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/cyclops.webp)Циклоп51,66%](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/clint.webp)Клинт50,35%](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/aamon.webp)Эймон50,26%](https://boostmlbb.ru/heroes/aamon.html)
+[![Лесли](/images/heroes/lesley.webp)Лесли48,31%](https://boostmlbb.ru/heroes/lesley.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Эсмеральда](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Эймон](/images/heroes/aamon.webp)Эймон50,24%](https://boostmlbb.ru/heroes/aamon.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая честь» (57,94%), слабее всего — «Эпик» (55,64%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**55,64%**
+-   ![](/images/ranks/Legend.webp)Легенда**56,95%**
+-   ![](/images/ranks/Mythic.webp)Мифический**57,54%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**57,94%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**57,36%**
 
 ## Место в мете
 
-«Марсель» — тир S в нашем тир-листе по проценту побед, 2-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В патче 2.2.16 герой изменён без явного усиления или ослабления. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Марсель» — тир S в нашем тир-листе по проценту побед, 2-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе результат почти такой же: 57,36%. На этом ранге героя банят в 71,35% матчей. В патче 2.2.16 герой изменён без явного усиления или ослабления. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)
 
 ## История и навыки
 
-![](/images/heroes/marcel.webp)
+![Марсель](/images/heroes/marcel.webp)
 
 Историю героя, навыки и реплики собирает [страница Marcel в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Marcel) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Марсель» сейчас?
 
-57,49% за последние 30 дней на всех рангах и 57,38% в Мифической славе, данные на 21 ноября 2026 года.
+57,46% за последние 30 дней на всех рангах и 57,36% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Марсель»?
+
+Поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Марсель» в текущей мете?
+
+Тир S: 2-е место из 133 героев по проценту побед за 30 дней и 1-е среди героев поддержки.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

@@ -1,6 +1,6 @@
 ---
 title: "Нолан MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Нолан в Mobile Legends, процент побед 49,70%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Нолан в Mobile Legends: убийца, лес, 49,71% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/nolan.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Нолан в Mobile Legends: контрпики и статистика
 
-Нолан выигрывает 49,70% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес. Нолан выигрывает 49,71% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/nolan.webp)
 
-**Нолан**Бан 15,51% · Выбор 1,90%
+**Нолан**Бан 16,30% · Выбор 1,92%
 
 Контрпики
 
 ![](/images/heroes/estes.webp)![](/images/heroes/yve.webp)![](/images/heroes/zhuxin.webp)
 
-Победы за 30 дней**49,70%**
+Победы за 30 дней**49,71%**
 
-**49,70%**побед за 30 дней
+**49,71%**побед за 30 дней
 
-**1,90%**выбирают в матчах
+**1,92%**выбирают в матчах
 
-**15,51%**банят в матчах
+**16,30%**банят в матчах
 
 **50,36%**побед в Мифической славе
 
+## Роль и линия
+
+По официальной странице героев MOONTON «Нолан» — убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Убийца**
+-   Линия**Лес**
+-   Среди убийц**11-е из 29**
+-   В лесу**17-е из 37**
+
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Нолан». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Нолан». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — маги.
 
-[![](/images/heroes/estes.webp)Эстес52,74%](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/yve.webp)Ив52,28%](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Чжусинь49,60%](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/baxia.webp)Баксий45,98%](https://boostmlbb.ru/heroes/baxia.html)
+[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь49,57%](https://boostmlbb.ru/heroes/zhuxin.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Баксий](/images/heroes/baxia.webp)Баксий45,97%](https://boostmlbb.ru/heroes/baxia.html)
 
 ## Против кого силён
 
-Для этих героев «Нолан» сам числится контрпиком.
+«Нолан» числится контрпиком для этих героев.
 
-[![](/images/heroes/saber.webp)Сабер51,18%](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/hayabusa.webp)Хаябуса48,14%](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/jawhead.webp)Кусака47,88%](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/natalia.webp)Наталья51,04%](https://boostmlbb.ru/heroes/natalia.html)
+[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Хаябуса](/images/heroes/hayabusa.webp)Хаябуса48,15%](https://boostmlbb.ru/heroes/hayabusa.html)[![Кусака](/images/heroes/jawhead.webp)Кусака47,87%](https://boostmlbb.ru/heroes/jawhead.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (50,36%), слабее всего — «Легенда» (48,33%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**48,65%**
+-   ![](/images/ranks/Legend.webp)Легенда**48,33%**
+-   ![](/images/ranks/Mythic.webp)Мифический**48,78%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,59%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**50,36%**
 
 ## Место в мете
 
-«Нолан» — тир B в нашем тир-листе по проценту побед, 74-е место из 133 героев. За год клиенты BOOST MLBB заказали 16 бустов на герое «Нолан». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Нолан» — тир B в нашем тир-листе по проценту побед, 72-е место из 133 героев. В Мифической славе процент побед выше: 50,36% против 49,71% на всех рангах, разница 0,65 п. п. На этом ранге героя банят в 21,66% матчей. За год клиенты BOOST MLBB заказали 16 бустов на герое «Нолан». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои леса
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
 
 ## История и навыки
 
-![](/images/heroes/nolan.webp)
+![Нолан](/images/heroes/nolan.webp)
 
 Историю героя, навыки и реплики собирает [страница Nolan в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Нолан» сейчас?
 
-49,70% за последние 30 дней на всех рангах и 50,36% в Мифической славе, данные на 21 ноября 2026 года.
+49,71% за последние 30 дней на всех рангах и 50,36% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Нолан»?
+
+Убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Нолан» в текущей мете?
+
+Тир B: 72-е место из 133 героев по проценту побед за 30 дней и 11-е среди убийц.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

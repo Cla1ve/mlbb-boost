@@ -1,6 +1,6 @@
 ---
 title: "Zilong MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Zilong in Mobile Legends, 46.28% win rate, pick and ban rates from official 30-day statistics, tier D and patch 2.2.16 changes."
+description: "Who counters Zilong in Mobile Legends: fighter and assassin, EXP Lane, 46.27% win rate, tier D, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier D
 
 # Zilong in Mobile Legends: counters and stats
 
-Zilong wins 46.28% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, EXP Lane. Zilong wins 46.27% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -25,35 +25,61 @@ Counters
 
 ![](/images/heroes/x-borg.webp)![](/images/heroes/cici.webp)![](/images/heroes/xavier.webp)
 
-Win rate, 30 days**46.28%**
+Win rate, 30 days**46.27%**
 
-**46.28%**win rate, 30 days
+**46.27%**win rate, 30 days
 
 **0.71%**pick rate
 
 **0.49%**ban rate
 
-**44.37%**wins in Mythical Glory
+**44.40%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Zilong as a fighter and assassin for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Fighter and assassin**
+-   Lane**EXP Lane**
+-   Among fighters**#42 of 44**
+-   Among assassins**#26 of 29**
+-   In the EXP Lane**#40 of 42**
 
 ## Who counters Zilong
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Zilong. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Zilong. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
 
-[![](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/cici.webp)Cici49.40%](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/xavier.webp)Xavier51.56%](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/diggie.webp)Diggie54.25%](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/fanny.webp)Fanny42.62%](https://boostmlbb.ru/en/heroes/fanny.html)
+[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)
 
 ## Who Zilong is strong against
 
 Zilong is listed as a counter for these heroes.
 
-[![](/images/heroes/tigreal.webp)Tigreal45.20%](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/eudora.webp)Eudora50.37%](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/belerick.webp)Belerick51.82%](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/badang.webp)Badang50.20%](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/johnson.webp)Johnson49.22%](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.22%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)
+[![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Zetian](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![Badang](/images/heroes/badang.webp)Badang50.19%](https://boostmlbb.ru/en/heroes/badang.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)
+
+## Win rate by rank
+
+Best result in Epic (47.18%), weakest in Mythical Glory (44.40%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**47.18%**
+-   ![](/images/ranks/Legend.webp)Legend**46.76%**
+-   ![](/images/ranks/Mythic.webp)Mythic**46.79%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**45.54%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**44.40%**
 
 ## Place in the meta
 
-Zilong sits in tier D of our win-rate tier list and ranks 123 of 133 heroes. In patch 2.2.16 the hero was nerfed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Zilong sits in tier D of our win-rate tier list and ranks 123 of 133 heroes. In Mythical Glory the win rate is lower: 44.40% against 46.27% across all ranks, a 1.87-point gap. In patch 2.2.16 the hero was nerfed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other EXP Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
 ## Lore and skills
 
-![](/images/heroes/zilong.webp)
+![Zilong](/images/heroes/zilong.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Zilong page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zilong). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ By MOONTON’s official 30-day statistics: X.Borg, Cici, Xavier, Diggie and Fann
 
 What is Zilong’s win rate right now?
 
-46.28% over the last 30 days across all ranks and 44.37% in Mythical Glory, as of 21 November 2026.
+46.27% over the last 30 days across all ranks and 44.40% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Zilong play?
+
+Fighter and assassin, EXP Lane, according to MOONTON’s official hero page.
+
+Is Zilong strong in the current meta?
+
+Tier D: #123 of 133 heroes by 30-day win rate and #42 among fighters.
+
+MLBB Boost editorial team · Updated 23 November 2026

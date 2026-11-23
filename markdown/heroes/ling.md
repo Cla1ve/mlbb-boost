@@ -1,6 +1,6 @@
 ---
 title: "Линг MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Линг в Mobile Legends, процент побед 52,56%, выбора и банов по официальной статистике за 30 дней, тир A и патч 2.2.16."
+description: "Кто контрит героя Линг в Mobile Legends: убийца, лес, 52,54% побед, тир A, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/ling.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Линг в Mobile Legends: контрпики и статистика
 
-Линг выигрывает 52,56% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес. Линг выигрывает 52,54% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/ling.webp)
 
-**Линг**Бан 0,63% · Выбор 0,68%
+**Линг**Бан 0,62% · Выбор 0,68%
 
 Контрпики
 
 ![](/images/heroes/gloo.webp)![](/images/heroes/x-borg.webp)![](/images/heroes/hanzo.webp)
 
-Победы за 30 дней**52,56%**
+Победы за 30 дней**52,54%**
 
-**52,56%**побед за 30 дней
+**52,54%**побед за 30 дней
 
 **0,68%**выбирают в матчах
 
-**0,63%**банят в матчах
+**0,62%**банят в матчах
 
-**51,86%**побед в Мифической славе
+**51,85%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Линг» — убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Убийца**
+-   Линия**Лес**
+-   Среди убийц**1-е из 29**
+-   В лесу**3-е из 37**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Линг». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Линг». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — танки.
 
-[![](/images/heroes/gloo.webp)Глу53,55%](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Ханзо49,89%](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/atlas.webp)Атлас51,49%](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)
+[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)
 
 ## Против кого силён
 
-Для этих героев «Линг» сам числится контрпиком.
+«Линг» числится контрпиком для этих героев.
 
-[![](/images/heroes/saber.webp)Сабер51,18%](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/floryn.webp)Флорин54,06%](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/karina.webp)Карина48,55%](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/freya.webp)Фрейя49,23%](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/lukas.webp)Лукас52,03%](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/bruno.webp)Бруно53,76%](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/melissa.webp)Мелисса49,98%](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/natalia.webp)Наталья51,04%](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/faramis.webp)Фарамис50,84%](https://boostmlbb.ru/heroes/faramis.html)
+[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Мелисса](/images/heroes/melissa.webp)Мелисса50,07%](https://boostmlbb.ru/heroes/melissa.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (54,58%), слабее всего — «Мифическая слава» (51,85%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**54,58%**
+-   ![](/images/ranks/Legend.webp)Легенда**53,76%**
+-   ![](/images/ranks/Mythic.webp)Мифический**53,09%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**53,08%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**51,85%**
 
 ## Место в мете
 
-«Линг» — тир A в нашем тир-листе по проценту побед, 22-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Линг» — тир A в нашем тир-листе по проценту побед, 22-е место из 133 героев. В Мифической славе процент побед ниже: 51,85% против 52,54% на всех рангах, разница 0,69 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои леса
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)[![Фредрин](/images/heroes/fredrinn.webp)Фредрин51,25%](https://boostmlbb.ru/heroes/fredrinn.html)
 
 ## История и навыки
 
-![](/images/heroes/ling.webp)
+![Линг](/images/heroes/ling.webp)
 
 Историю героя, навыки и реплики собирает [страница Ling в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ling) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Линг» сейчас?
 
-52,56% за последние 30 дней на всех рангах и 51,86% в Мифической славе, данные на 21 ноября 2026 года.
+52,54% за последние 30 дней на всех рангах и 51,85% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Линг»?
+
+Убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Линг» в текущей мете?
+
+Тир A: 22-е место из 133 героев по проценту побед за 30 дней и 1-е среди убийц.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

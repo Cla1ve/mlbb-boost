@@ -7,6 +7,7 @@
     "start": "serve -l 3000 --no-clipboard .",
     "news:build": "node scripts/news-pipeline.mjs build",
     "news:image": "node scripts/news-image.mjs",
+    "heroes:refresh": "node scripts/heroes-refresh.mjs",
     "news:validate": "node scripts/news-pipeline.mjs validate",
     "site:assets": "node scripts/site-effects.mjs && node scripts/site-assets.mjs",
     "site:effects": "node scripts/site-effects.mjs",
@@ -25,6 +26,7 @@
     "esbuild": "^0.28.1",
     "linkedom": "^0.18.13",
     "particles.js": "^2.0.0",
+    "playwright-core": "^1.48.2",
     "serve": "^14.2.4",
     "sharp": "^0.35.5",
     "wrangler": "^4.0.0"

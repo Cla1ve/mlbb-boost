@@ -1,6 +1,6 @@
 ---
 title: "Fanny MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Fanny in Mobile Legends, 42.62% win rate, pick and ban rates from official 30-day statistics, tier D and patch 2.2.16 changes."
+description: "Who counters Fanny in Mobile Legends: assassin, Jungle, 42.64% win rate, tier D, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/fanny.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier D
 
 # Fanny in Mobile Legends: counters and stats
 
-Fanny wins 42.62% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Fanny wins 42.64% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,41 +19,66 @@ Hero statsTier D
 
 ![](/images/heroes/fanny.webp)
 
-**Fanny**Ban 1.94% · Pick 0.65%
+**Fanny**Ban 1.95% · Pick 0.65%
 
 Counters
 
 ![](/images/heroes/granger.webp)![](/images/heroes/gloo.webp)![](/images/heroes/yve.webp)
 
-Win rate, 30 days**42.62%**
+Win rate, 30 days**42.64%**
 
-**42.62%**win rate, 30 days
+**42.64%**win rate, 30 days
 
 **0.65%**pick rate
 
-**1.94%**ban rate
+**1.95%**ban rate
 
 **42.85%**wins in Mythical Glory
 
+## Role and lane
+
+MOONTON’s official hero page lists Fanny as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Assassin**
+-   Lane**Jungle**
+-   Among assassins**#29 of 29**
+-   In the jungle**#37 of 37**
+
 ## Who counters Fanny
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Fanny. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Fanny. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
 
-[![](/images/heroes/granger.webp)Granger43.00%](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/gloo.webp)Gloo53.55%](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/yve.webp)Yve52.28%](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/atlas.webp)Atlas51.49%](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/clint.webp)Clint50.35%](https://boostmlbb.ru/en/heroes/clint.html)
+[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Clint](/images/heroes/clint.webp)Clint50.33%](https://boostmlbb.ru/en/heroes/clint.html)
 
 ## Who Fanny is strong against
 
 Fanny is listed as a counter for these heroes.
 
-[![](/images/heroes/badang.webp)Badang50.20%](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/franco.webp)Franco41.57%](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/moskov.webp)Moskov50.30%](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/lukas.webp)Lukas52.03%](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/zilong.webp)Zilong46.28%](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/kalea.webp)Kalea50.40%](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/bruno.webp)Bruno53.76%](https://boostmlbb.ru/en/heroes/bruno.html)
+[![Badang](/images/heroes/badang.webp)Badang50.19%](https://boostmlbb.ru/en/heroes/badang.html)[![Chou](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Kalea](/images/heroes/kalea.webp)Kalea50.44%](https://boostmlbb.ru/en/heroes/kalea.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)
+
+## Win rate by rank
+
+Best result in Epic (44.65%), weakest in Mythic (41.67%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**44.65%**
+-   ![](/images/ranks/Legend.webp)Legend**42.96%**
+-   ![](/images/ranks/Mythic.webp)Mythic**41.67%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**42.34%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**42.85%**
 
 ## Place in the meta
 
-Fanny sits in tier D of our win-rate tier list and ranks 132 of 133 heroes. BOOST MLBB customers ordered 23 hero boosts on Fanny over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Fanny sits in tier D of our win-rate tier list and ranks 132 of 133 heroes. In Mythical Glory the result is almost the same: 42.85%. BOOST MLBB customers ordered 23 hero boosts on Fanny over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Jungle heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Lore and skills
 
-![](/images/heroes/fanny.webp)
+![Fanny](/images/heroes/fanny.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Fanny page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fanny). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ By MOONTON’s official 30-day statistics: Granger, Gloo, Yve, Atlas and Clint.
 
 What is Fanny’s win rate right now?
 
-42.62% over the last 30 days across all ranks and 42.85% in Mythical Glory, as of 21 November 2026.
+42.64% over the last 30 days across all ranks and 42.85% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Fanny play?
+
+Assassin, Jungle, according to MOONTON’s official hero page.
+
+Is Fanny strong in the current meta?
+
+Tier D: #132 of 133 heroes by 30-day win rate and #29 among assassins.
+
+MLBB Boost editorial team · Updated 23 November 2026

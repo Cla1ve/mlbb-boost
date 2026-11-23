@@ -1,6 +1,6 @@
 ---
 title: "Клинт MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Клинт в Mobile Legends, процент побед 50,35%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Клинт в Mobile Legends: стрелок, линия золота, 50,33% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/clint.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Клинт в Mobile Legends: контрпики и статистика
 
-Клинт выигрывает 50,35% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота. Клинт выигрывает 50,33% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -25,35 +25,60 @@ language: ru
 
 ![](/images/heroes/lolita.webp)![](/images/heroes/karina.webp)![](/images/heroes/belerick.webp)
 
-Победы за 30 дней**50,35%**
+Победы за 30 дней**50,33%**
 
-**50,35%**побед за 30 дней
+**50,33%**побед за 30 дней
 
 **0,72%**выбирают в матчах
 
 **0,61%**банят в матчах
 
-**50,61%**побед в Мифической славе
+**50,58%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Клинт» — стрелок, играет на линии золота. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Стрелок**
+-   Линия**Линия золота**
+-   Среди стрелков**9-е из 23**
+-   На линии золота**8-е из 21**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Клинт». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Клинт». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — танки.
 
-[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/karina.webp)Карина48,55%](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/belerick.webp)Белерик51,82%](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/baxia.webp)Баксий45,98%](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/marcel.webp)Марсель57,49%](https://boostmlbb.ru/heroes/marcel.html)
+[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Баксий](/images/heroes/baxia.webp)Баксий45,97%](https://boostmlbb.ru/heroes/baxia.html)[![Люнокс](/images/heroes/lunox.webp)Люнокс50,64%](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Против кого силён
 
-Для этих героев «Клинт» сам числится контрпиком.
+«Клинт» числится контрпиком для этих героев.
 
-[![](/images/heroes/fanny.webp)Фанни42,62%](https://boostmlbb.ru/heroes/fanny.html)
+[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая честь» (50,88%), слабее всего — «Эпик» (47,48%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**47,48%**
+-   ![](/images/ranks/Legend.webp)Легенда**49,35%**
+-   ![](/images/ranks/Mythic.webp)Мифический**50,05%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**50,88%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**50,58%**
 
 ## Место в мете
 
-«Клинт» — тир B в нашем тир-листе по проценту побед, 55-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Клинт» — тир B в нашем тир-листе по проценту побед, 55-е место из 133 героев. В Мифической славе результат почти такой же: 50,58%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии золота
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Обсидия](/images/heroes/obsidia.webp)Обсидия53,20%](https://boostmlbb.ru/heroes/obsidia.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Натан](/images/heroes/natan.webp)Натан51,32%](https://boostmlbb.ru/heroes/natan.html)
 
 ## История и навыки
 
-![](/images/heroes/clint.webp)
+![Клинт](/images/heroes/clint.webp)
 
 Историю героя, навыки и реплики собирает [страница Clint в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Clint) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ language: ru
 
 Кто контрпик для героя «Клинт» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Лолита, Карина, Белерик, Баксий и Марсель.
+По официальной статистике MOONTON за 30 дней: Лолита, Карина, Белерик, Баксий и Люнокс.
 
 Какой процент побед у героя «Клинт» сейчас?
 
-50,35% за последние 30 дней на всех рангах и 50,61% в Мифической славе, данные на 21 ноября 2026 года.
+50,33% за последние 30 дней на всех рангах и 50,58% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Клинт»?
+
+Стрелок, играет на линии золота. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Клинт» в текущей мете?
+
+Тир B: 55-е место из 133 героев по проценту побед за 30 дней и 9-е среди стрелков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

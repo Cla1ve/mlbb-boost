@@ -1,6 +1,6 @@
 ---
 title: "Kalea MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Kalea in Mobile Legends, 50.40% win rate, pick and ban rates from official 30-day statistics, tier B and patch 2.2.16 changes."
+description: "Who counters Kalea in Mobile Legends: fighter and support, Roam, 50.44% win rate, tier B, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier B
 
 # Kalea in Mobile Legends: counters and stats
 
-Kalea wins 50.40% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and support, Roam. Kalea wins 50.44% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,35 +19,61 @@ Hero statsTier B
 
 ![](/images/heroes/kalea.webp)
 
-**Kalea**Ban 6.33% · Pick 0.68%
+**Kalea**Ban 6.50% · Pick 0.68%
 
 Counters
 
-![](/images/heroes/fanny.webp)![](/images/heroes/lolita.webp)![](/images/heroes/helcurt.webp)
+![](/images/heroes/fanny.webp)![](/images/heroes/helcurt.webp)![](/images/heroes/lolita.webp)
 
-Win rate, 30 days**50.40%**
+Win rate, 30 days**50.44%**
 
-**50.40%**win rate, 30 days
+**50.44%**win rate, 30 days
 
 **0.68%**pick rate
 
-**6.33%**ban rate
+**6.50%**ban rate
 
-**51.14%**wins in Mythical Glory
+**51.18%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Kalea as a fighter and support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Fighter and support**
+-   Lane**Roam**
+-   Among fighters**#16 of 44**
+-   Among supports**#10 of 15**
+-   On roam**#17 of 34**
 
 ## Who counters Kalea
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Kalea. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Kalea. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
 
-[![](/images/heroes/fanny.webp)Fanny42.62%](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/lolita.webp)Lolita53.31%](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/helcurt.webp)Helcurt47.61%](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/khaleed.webp)Khaleed50.37%](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/yve.webp)Yve52.28%](https://boostmlbb.ru/en/heroes/yve.html)
+[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Khaleed](/images/heroes/khaleed.webp)Khaleed50.35%](https://boostmlbb.ru/en/heroes/khaleed.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)
+
+## Win rate by rank
+
+Best result in Mythical Glory (51.18%), weakest in Legend (49.02%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**49.09%**
+-   ![](/images/ranks/Legend.webp)Legend**49.02%**
+-   ![](/images/ranks/Mythic.webp)Mythic**49.72%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.80%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.18%**
 
 ## Place in the meta
 
-Kalea sits in tier B of our win-rate tier list and ranks 51 of 133 heroes. In patch 2.2.16 the hero was buffed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Kalea sits in tier B of our win-rate tier list and ranks 51 of 133 heroes. In Mythical Glory the win rate is higher: 51.18% against 50.44% across all ranks, a 0.74-point gap. In patch 2.2.16 the hero was buffed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Roam heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
 
 ## Lore and skills
 
-![](/images/heroes/kalea.webp)
+![Kalea](/images/heroes/kalea.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Kalea page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kalea). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -61,10 +87,18 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 Who counters Kalea in MLBB?
 
-By MOONTON’s official 30-day statistics: Fanny, Lolita, Helcurt, Khaleed and Yve.
+By MOONTON’s official 30-day statistics: Fanny, Helcurt, Lolita, Khaleed and Yve.
 
 What is Kalea’s win rate right now?
 
-50.40% over the last 30 days across all ranks and 51.14% in Mythical Glory, as of 21 November 2026.
+50.44% over the last 30 days across all ranks and 51.18% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Kalea play?
+
+Fighter and support, Roam, according to MOONTON’s official hero page.
+
+Is Kalea strong in the current meta?
+
+Tier B: #51 of 133 heroes by 30-day win rate and #16 among fighters.
+
+MLBB Boost editorial team · Updated 23 November 2026

@@ -1,6 +1,6 @@
 ---
 title: "Атлас MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Атлас в Mobile Legends, процент побед 51,49%, выбора и банов по официальной статистике за 30 дней, тир A и патч 2.2.16."
+description: "Кто контрит героя Атлас в Mobile Legends: танк, роум, 51,42% побед, тир A, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/atlas.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Атлас в Mobile Legends: контрпики и статистика
 
-Атлас выигрывает 51,49% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк, роум. Атлас выигрывает 51,42% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/atlas.webp)
 
-**Атлас**Бан 9,65% · Выбор 0,95%
+**Атлас**Бан 9,58% · Выбор 0,95%
 
 Контрпики
 
 ![](/images/heroes/layla.webp)![](/images/heroes/popol-and-kupa.webp)![](/images/heroes/lolita.webp)
 
-Победы за 30 дней**51,49%**
+Победы за 30 дней**51,42%**
 
-**51,49%**побед за 30 дней
+**51,42%**побед за 30 дней
 
 **0,95%**выбирают в матчах
 
-**9,65%**банят в матчах
+**9,58%**банят в матчах
 
-**49,90%**побед в Мифической славе
+**49,84%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Атлас» — танк, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Танк**
+-   Линия**Роум**
+-   Среди танков**10-е из 25**
+-   В роуме**12-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Атлас». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Атлас». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
 
-[![](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,22%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/johnson.webp)Джонсон49,22%](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/estes.webp)Эстес52,74%](https://boostmlbb.ru/heroes/estes.html)
+[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)
 
 ## Против кого силён
 
-Для этих героев «Атлас» сам числится контрпиком.
+«Атлас» числится контрпиком для этих героев.
 
-[![](/images/heroes/alice.webp)Алиса50,73%](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/moskov.webp)Москов50,30%](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/kimmy.webp)Кимми48,77%](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/kadita.webp)Кадита51,33%](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/xavier.webp)Ксавьер51,56%](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/ling.webp)Линг52,56%](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/yu-zhong.webp)Чонг48,94%](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/fanny.webp)Фанни42,62%](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/benedetta.webp)Бенедетта52,11%](https://boostmlbb.ru/heroes/benedetta.html)
+[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Москов](/images/heroes/moskov.webp)Москов50,31%](https://boostmlbb.ru/heroes/moskov.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Чонг](/images/heroes/yu-zhong.webp)Чонг48,93%](https://boostmlbb.ru/heroes/yu-zhong.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Ланселот](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (55,55%), слабее всего — «Мифическая слава» (49,84%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**55,55%**
+-   ![](/images/ranks/Legend.webp)Легенда**54,57%**
+-   ![](/images/ranks/Mythic.webp)Мифический**53,22%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**51,76%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,84%**
 
 ## Место в мете
 
-«Атлас» — тир A в нашем тир-листе по проценту побед, 35-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Атлас» — тир A в нашем тир-листе по проценту побед, 35-е место из 133 героев. В Мифической славе процент побед ниже: 49,84% против 51,42% на всех рангах, разница 1,58 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
 
 ## История и навыки
 
-![](/images/heroes/atlas.webp)
+![Атлас](/images/heroes/atlas.webp)
 
 Историю героя, навыки и реплики собирает [страница Atlas в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Atlas) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Атлас» сейчас?
 
-51,49% за последние 30 дней на всех рангах и 49,90% в Мифической славе, данные на 21 ноября 2026 года.
+51,42% за последние 30 дней на всех рангах и 49,84% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Атлас»?
+
+Танк, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Атлас» в текущей мете?
+
+Тир A: 35-е место из 133 героев по проценту побед за 30 дней и 10-е среди танков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

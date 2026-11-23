@@ -1,6 +1,6 @@
 ---
 title: "Xavier MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Xavier in Mobile Legends, 51.56% win rate, pick and ban rates from official 30-day statistics, tier A and patch 2.2.16 changes."
+description: "Who counters Xavier in Mobile Legends: mage, Mid Lane, 51.68% win rate, tier A, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/xavier.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier A
 
 # Xavier in Mobile Legends: counters and stats
 
-Xavier wins 51.56% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Xavier wins 51.68% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,41 +19,66 @@ Hero statsTier A
 
 ![](/images/heroes/xavier.webp)
 
-**Xavier**Ban 0.37% · Pick 0.72%
+**Xavier**Ban 0.40% · Pick 0.75%
 
 Counters
 
 ![](/images/heroes/popol-and-kupa.webp)![](/images/heroes/belerick.webp)![](/images/heroes/atlas.webp)
 
-Win rate, 30 days**51.56%**
+Win rate, 30 days**51.68%**
 
-**51.56%**win rate, 30 days
+**51.68%**win rate, 30 days
 
-**0.72%**pick rate
+**0.75%**pick rate
 
-**0.37%**ban rate
+**0.40%**ban rate
 
-**52.56%**wins in Mythical Glory
+**52.66%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Xavier as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Mage**
+-   Lane**Mid Lane**
+-   Among mages**#6 of 32**
+-   In the Mid Lane**#6 of 29**
 
 ## Who counters Xavier
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Xavier. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Xavier. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
 
-[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.22%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/belerick.webp)Belerick51.82%](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/atlas.webp)Atlas51.49%](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/gloo.webp)Gloo53.55%](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/faramis.webp)Faramis50.84%](https://boostmlbb.ru/en/heroes/faramis.html)
+[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Who Xavier is strong against
 
 Xavier is listed as a counter for these heroes.
 
-[![](/images/heroes/zilong.webp)Zilong46.28%](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/aamon.webp)Aamon50.26%](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/helcurt.webp)Helcurt47.61%](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Aldous51.76%](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/natalia.webp)Natalia51.04%](https://boostmlbb.ru/en/heroes/natalia.html)
+[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Win rate by rank
+
+Best result in Mythical Glory (52.66%), weakest in Epic (48.54%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**48.54%**
+-   ![](/images/ranks/Legend.webp)Legend**49.29%**
+-   ![](/images/ranks/Mythic.webp)Mythic**50.49%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**51.64%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**52.66%**
 
 ## Place in the meta
 
-Xavier sits in tier A of our win-rate tier list and ranks 34 of 133 heroes. BOOST MLBB customers ordered 18 hero boosts on Xavier over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Xavier sits in tier A of our win-rate tier list and ranks 32 of 133 heroes. In Mythical Glory the win rate is higher: 52.66% against 51.68% across all ranks, a 0.98-point gap. BOOST MLBB customers ordered 18 hero boosts on Xavier over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Mid Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)
 
 ## Lore and skills
 
-![](/images/heroes/xavier.webp)
+![Xavier](/images/heroes/xavier.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Xavier page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Xavier). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ By MOONTON’s official 30-day statistics: Popol and Kupa, Belerick, Atlas, Gloo
 
 What is Xavier’s win rate right now?
 
-51.56% over the last 30 days across all ranks and 52.56% in Mythical Glory, as of 21 November 2026.
+51.68% over the last 30 days across all ranks and 52.66% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Xavier play?
+
+Mage, Mid Lane, according to MOONTON’s official hero page.
+
+Is Xavier strong in the current meta?
+
+Tier A: #32 of 133 heroes by 30-day win rate and #6 among mages.
+
+MLBB Boost editorial team · Updated 23 November 2026

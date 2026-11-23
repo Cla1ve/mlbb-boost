@@ -1,6 +1,6 @@
 ---
 title: "Чан'Э MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Чан'Э в Mobile Legends, процент побед 48,20%, выбора и банов по официальной статистике за 30 дней, тир C и патч 2.2.16."
+description: "Кто контрит героя Чан'Э в Mobile Legends: маг, средняя линия, 48,20% побед, тир C, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/change.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Чан'Э в Mobile Legends: контрпики и статистика
 
-Чан'Э выигрывает 48,20% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг, средняя линия. Чан'Э выигрывает 48,20% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -33,27 +33,52 @@ language: ru
 
 **0,32%**банят в матчах
 
-**45,79%**побед в Мифической славе
+**45,81%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Чан'Э» — маг, играет на средней линии. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Маг**
+-   Линия**Средняя линия**
+-   Среди магов**25-е из 32**
+-   На средней линии**24-е из 29**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Чан'Э». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Чан'Э». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — бойцы.
 
-[![](/images/heroes/diggie.webp)Дигги54,25%](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/balmond.webp)Бальмонд46,68%](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/martis.webp)Мартис47,24%](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/alpha.webp)Альфа48,84%](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)
+[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Мартис](/images/heroes/martis.webp)Мартис47,23%](https://boostmlbb.ru/heroes/martis.html)[![Альфа](/images/heroes/alpha.webp)Альфа48,85%](https://boostmlbb.ru/heroes/alpha.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)
 
 ## Против кого силён
 
-Для этих героев «Чан'Э» сам числится контрпиком.
+«Чан'Э» числится контрпиком для этих героев.
 
-[![](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/gloo.webp)Глу53,55%](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,22%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)
+[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (51,12%), слабее всего — «Мифическая слава» (45,81%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**51,12%**
+-   ![](/images/ranks/Legend.webp)Легенда**49,77%**
+-   ![](/images/ranks/Mythic.webp)Мифический**48,71%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**47,57%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**45,81%**
 
 ## Место в мете
 
-«Чан'Э» — тир C в нашем тир-листе по проценту побед, 106-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Чан'Э» — тир C в нашем тир-листе по проценту побед, 106-е место из 133 героев. В Мифической славе процент побед ниже: 45,81% против 48,20% на всех рангах, разница 2,39 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои средней линии
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)
 
 ## История и навыки
 
-![](/images/heroes/change.webp)
+![Чан'Э](/images/heroes/change.webp)
 
 Историю героя, навыки и реплики собирает [страница Chang'e в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chang'e) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Чан'Э» сейчас?
 
-48,20% за последние 30 дней на всех рангах и 45,79% в Мифической славе, данные на 21 ноября 2026 года.
+48,20% за последние 30 дней на всех рангах и 45,81% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Чан'Э»?
+
+Маг, играет на средней линии. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Чан'Э» в текущей мете?
+
+Тир C: 106-е место из 133 героев по проценту побед за 30 дней и 25-е среди магов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

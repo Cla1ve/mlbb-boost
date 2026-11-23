@@ -1,6 +1,6 @@
 ---
 title: "Hanzo MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Hanzo in Mobile Legends, 49.89% win rate, pick and ban rates from official 30-day statistics, tier B and patch 2.2.16 changes."
+description: "Who counters Hanzo in Mobile Legends: assassin, Jungle, 49.90% win rate, tier B, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/hanzo.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier B
 
 # Hanzo in Mobile Legends: counters and stats
 
-Hanzo wins 49.89% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Hanzo wins 49.90% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,41 +19,66 @@ Hero statsTier B
 
 ![](/images/heroes/hanzo.webp)
 
-**Hanzo**Ban 5.94% · Pick 0.36%
+**Hanzo**Ban 5.82% · Pick 0.36%
 
 Counters
 
-![](/images/heroes/ixia.webp)![](/images/heroes/diggie.webp)![](/images/heroes/franco.webp)
+![](/images/heroes/diggie.webp)![](/images/heroes/ixia.webp)![](/images/heroes/franco.webp)
 
-Win rate, 30 days**49.89%**
+Win rate, 30 days**49.90%**
 
-**49.89%**win rate, 30 days
+**49.90%**win rate, 30 days
 
 **0.36%**pick rate
 
-**5.94%**ban rate
+**5.82%**ban rate
 
-**48.80%**wins in Mythical Glory
+**48.83%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Hanzo as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Assassin**
+-   Lane**Jungle**
+-   Among assassins**#10 of 29**
+-   In the jungle**#16 of 37**
 
 ## Who counters Hanzo
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Hanzo. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Hanzo. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
 
-[![](/images/heroes/ixia.webp)Ixia50.06%](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/diggie.webp)Diggie54.25%](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/franco.webp)Franco41.57%](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/balmond.webp)Balmond46.68%](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/alpha.webp)Alpha48.84%](https://boostmlbb.ru/en/heroes/alpha.html)
+[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ## Who Hanzo is strong against
 
 Hanzo is listed as a counter for these heroes.
 
-[![](/images/heroes/obsidia.webp)Obsidia53.22%](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/kagura.webp)Kagura51.13%](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/ling.webp)Ling52.56%](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/hirara.webp)Hirara50.03%](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/aldous.webp)Aldous51.76%](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/natalia.webp)Natalia51.04%](https://boostmlbb.ru/en/heroes/natalia.html)
+[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Kagura](/images/heroes/kagura.webp)Kagura51.09%](https://boostmlbb.ru/en/heroes/kagura.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Hirara](/images/heroes/hirara.webp)Hirara50.03%](https://boostmlbb.ru/en/heroes/hirara.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Win rate by rank
+
+Best result in Legend (50.90%), weakest in Mythical Glory (48.83%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**50.77%**
+-   ![](/images/ranks/Legend.webp)Legend**50.90%**
+-   ![](/images/ranks/Mythic.webp)Mythic**50.58%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**50.23%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.83%**
 
 ## Place in the meta
 
-Hanzo sits in tier B of our win-rate tier list and ranks 70 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Hanzo sits in tier B of our win-rate tier list and ranks 70 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 48.83% against 49.90% across all ranks, a 1.07-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Jungle heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Lore and skills
 
-![](/images/heroes/hanzo.webp)
+![Hanzo](/images/heroes/hanzo.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Hanzo page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanzo). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 Who counters Hanzo in MLBB?
 
-By MOONTON’s official 30-day statistics: Ixia, Diggie, Franco, Balmond and Alpha.
+By MOONTON’s official 30-day statistics: Diggie, Ixia, Franco, Balmond and Alpha.
 
 What is Hanzo’s win rate right now?
 
-49.89% over the last 30 days across all ranks and 48.80% in Mythical Glory, as of 21 November 2026.
+49.90% over the last 30 days across all ranks and 48.83% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Hanzo play?
+
+Assassin, Jungle, according to MOONTON’s official hero page.
+
+Is Hanzo strong in the current meta?
+
+Tier B: #70 of 133 heroes by 30-day win rate and #10 among assassins.
+
+MLBB Boost editorial team · Updated 23 November 2026

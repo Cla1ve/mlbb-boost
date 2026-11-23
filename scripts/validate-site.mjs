@@ -33,12 +33,22 @@ for (const pathname of paths) {
   assert.equal(document.querySelector('meta[property="og:url"]').content, canonical);
   assert(Number(document.querySelector('meta[property="og:image:width"]').content) >= 1200, `${pathname}: small social preview`);
   const alternatives = [...document.querySelectorAll('link[hreflang]')];
-  assert.equal(alternatives.length, 3, `${pathname}: incomplete hreflang`);
+  const ruOnly = pathname.startsWith('/heroes/');
+  if (ruOnly) {
+    // Hero stat pages are Russian-only: no hreflang, and the English copy must not be indexable.
+    assert.equal(alternatives.length, 0, `${pathname}: Russian-only page must not declare alternates`);
+    const english = parseHTML(await read(filename('/en' + pathname))).document;
+    assert(english.querySelector('meta[name="robots"]').content.includes('noindex'), `${pathname}: English copy must be noindex`);
+  } else {
+    assert.equal(alternatives.length, 3, `${pathname}: incomplete hreflang`);
+  }
   const targets = Object.fromEntries(alternatives.map(e => [e.hreflang, e.href]));
-  assert.deepEqual(Object.keys(targets).sort(), ['en', 'ru', 'x-default']);
-  assert.equal(targets[lang], canonical);
-  assert.equal(targets['x-default'], targets.ru);
-  assert.equal(new URL(targets.en).pathname, '/en' + new URL(targets.ru).pathname);
+  if (!ruOnly) {
+    assert.deepEqual(Object.keys(targets).sort(), ['en', 'ru', 'x-default']);
+    assert.equal(targets[lang], canonical);
+    assert.equal(targets['x-default'], targets.ru);
+    assert.equal(new URL(targets.en).pathname, '/en' + new URL(targets.ru).pathname);
+  }
   for (const schema of document.querySelectorAll('script[type="application/ld+json"]')) {
     const json = JSON.parse(schema.textContent);
     assert.equal(json['@context'], 'https://schema.org');
@@ -67,7 +77,7 @@ for (const pathname of paths) {
   pages.set(canonical, { document, targets });
 }
 for (const [url, page] of pages) {
-  for (const target of [page.targets.ru, page.targets.en]) {
+  for (const target of [page.targets.ru, page.targets.en].filter(Boolean)) {
     assert(pages.has(target), `${url}: hreflang target missing`);
     assert.deepEqual(pages.get(target).targets, page.targets, `${url}: non-reciprocal hreflang`);
   }
@@ -75,7 +85,8 @@ for (const [url, page] of pages) {
 for (const entry of entries) {
   const url = entry.querySelector('loc').textContent.trim();
   const alternates = [...entry.querySelectorAll('[hreflang]')];
-  assert.equal(alternates.length, 3, `${url}: sitemap language alternatives missing`);
+  assert.equal(alternates.length, new URL(url).pathname.startsWith('/heroes/') ? 0 : 3, `${url}: sitemap language alternatives missing`);
+  assert(!new URL(url).pathname.startsWith('/en/heroes/'), `${url}: Russian-only page leaked into the sitemap`);
   for (const link of alternates) assert.equal(link.getAttribute('href'), pages.get(url).targets[link.getAttribute('hreflang')]);
   assert(/^\d{4}-\d{2}-\d{2}/.test(entry.querySelector('lastmod').textContent));
 }

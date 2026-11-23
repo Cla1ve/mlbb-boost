@@ -1,6 +1,6 @@
 ---
 title: "Сесилион MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Сесилион в Mobile Legends, процент побед 50,98%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Сесилион в Mobile Legends: маг, средняя линия, 50,96% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/cecilion.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Сесилион в Mobile Legends: контрпики и статистика
 
-Сесилион выигрывает 50,98% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг, средняя линия. Сесилион выигрывает 50,96% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -25,29 +25,54 @@ language: ru
 
 ![](/images/heroes/lolita.webp)![](/images/heroes/barats.webp)![](/images/heroes/phoveus.webp)
 
-Победы за 30 дней**50,98%**
+Победы за 30 дней**50,96%**
 
-**50,98%**побед за 30 дней
+**50,96%**побед за 30 дней
 
 **0,67%**выбирают в матчах
 
 **0,17%**банят в матчах
 
-**51,25%**побед в Мифической славе
+**51,21%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Сесилион» — маг, играет на средней линии. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Маг**
+-   Линия**Средняя линия**
+-   Среди магов**10-е из 32**
+-   На средней линии**9-е из 29**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сесилион». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сесилион». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — танки.
 
-[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/phoveus.webp)Фовиус48,20%](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/fredrinn.webp)Фредрин51,24%](https://boostmlbb.ru/heroes/fredrinn.html)
+[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Фовиус](/images/heroes/phoveus.webp)Фовиус48,21%](https://boostmlbb.ru/heroes/phoveus.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![Фредрин](/images/heroes/fredrinn.webp)Фредрин51,25%](https://boostmlbb.ru/heroes/fredrinn.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая честь» (51,70%), слабее всего — «Легенда» (50,00%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**50,29%**
+-   ![](/images/ranks/Legend.webp)Легенда**50,00%**
+-   ![](/images/ranks/Mythic.webp)Мифический**50,17%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**51,70%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**51,21%**
 
 ## Место в мете
 
-«Сесилион» — тир B в нашем тир-листе по проценту побед, 45-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Сесилион» — тир B в нашем тир-листе по проценту побед, 45-е место из 133 героев. В Мифической славе результат почти такой же: 51,21%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои средней линии
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)
 
 ## История и навыки
 
-![](/images/heroes/cecilion.webp)
+![Сесилион](/images/heroes/cecilion.webp)
 
 Историю героя, навыки и реплики собирает [страница Cecilion в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cecilion) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -65,6 +90,14 @@ language: ru
 
 Какой процент побед у героя «Сесилион» сейчас?
 
-50,98% за последние 30 дней на всех рангах и 51,25% в Мифической славе, данные на 21 ноября 2026 года.
+50,96% за последние 30 дней на всех рангах и 51,21% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Сесилион»?
+
+Маг, играет на средней линии. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Сесилион» в текущей мете?
+
+Тир B: 45-е место из 133 героев по проценту побед за 30 дней и 10-е среди магов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

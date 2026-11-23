@@ -1,6 +1,6 @@
 ---
 title: "Вэйл MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Вэйл в Mobile Legends, процент побед 50,10%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Вэйл в Mobile Legends: маг, средняя линия, 50,10% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/vale.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Вэйл в Mobile Legends: контрпики и статистика
 
-Вэйл выигрывает 50,10% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг, средняя линия. Вэйл выигрывает 50,10% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -35,25 +35,50 @@ language: ru
 
 **48,75%**побед в Мифической славе
 
+## Роль и линия
+
+По официальной странице героев MOONTON «Вэйл» — маг, играет на средней линии. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Маг**
+-   Линия**Средняя линия**
+-   Среди магов**16-е из 32**
+-   На средней линии**14-е из 29**
+
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Вэйл». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Вэйл». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — герои поддержки.
 
-[![](/images/heroes/odette.webp)Одетта49,68%](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/estes.webp)Эстес52,74%](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/melissa.webp)Мелисса49,98%](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/rafaela.webp)Рафаэль54,57%](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)
+[![Одетта](/images/heroes/odette.webp)Одетта49,69%](https://boostmlbb.ru/heroes/odette.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Мелисса](/images/heroes/melissa.webp)Мелисса50,07%](https://boostmlbb.ru/heroes/melissa.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)
 
 ## Против кого силён
 
-Для этих героев «Вэйл» сам числится контрпиком.
+«Вэйл» числится контрпиком для этих героев.
 
-[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу48,10%](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/khaleed.webp)Халид50,37%](https://boostmlbb.ru/heroes/khaleed.html)
+[![Лапу-Лапу](/images/heroes/lapu-lapu.webp)Лапу-Лапу48,08%](https://boostmlbb.ru/heroes/lapu-lapu.html)[![Халид](/images/heroes/khaleed.webp)Халид50,35%](https://boostmlbb.ru/heroes/khaleed.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (51,45%), слабее всего — «Мифическая слава» (48,75%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**51,45%**
+-   ![](/images/ranks/Legend.webp)Легенда**50,78%**
+-   ![](/images/ranks/Mythic.webp)Мифический**50,50%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,49%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**48,75%**
 
 ## Место в мете
 
-«Вэйл» — тир B в нашем тир-листе по проценту побед, 61-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Вэйл» — тир B в нашем тир-листе по проценту побед, 60-е место из 133 героев. В Мифической славе процент побед ниже: 48,75% против 50,10% на всех рангах, разница 1,35 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои средней линии
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)
 
 ## История и навыки
 
-![](/images/heroes/vale.webp)
+![Вэйл](/images/heroes/vale.webp)
 
 Историю героя, навыки и реплики собирает [страница Vale в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vale) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Вэйл» сейчас?
 
-50,10% за последние 30 дней на всех рангах и 48,75% в Мифической славе, данные на 21 ноября 2026 года.
+50,10% за последние 30 дней на всех рангах и 48,75% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Вэйл»?
+
+Маг, играет на средней линии. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Вэйл» в текущей мете?
+
+Тир B: 60-е место из 133 героев по проценту побед за 30 дней и 16-е среди магов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

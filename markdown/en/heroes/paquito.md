@@ -1,6 +1,6 @@
 ---
 title: "Paquito MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Paquito in Mobile Legends, 50.04% win rate, pick and ban rates from official 30-day statistics, tier B and patch 2.2.16 changes."
+description: "Who counters Paquito in Mobile Legends: fighter and assassin, EXP Lane or Jungle, 50.03% win rate, tier B, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/paquito.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier B
 
 # Paquito in Mobile Legends: counters and stats
 
-Paquito wins 50.04% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, EXP Lane or Jungle. Paquito wins 50.03% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,35 +19,62 @@ Hero statsTier B
 
 ![](/images/heroes/paquito.webp)
 
-**Paquito**Ban 18.65% · Pick 1.27%
+**Paquito**Ban 18.13% · Pick 1.26%
 
 Counters
 
 ![](/images/heroes/natalia.webp)![](/images/heroes/x-borg.webp)![](/images/heroes/karina.webp)
 
-Win rate, 30 days**50.04%**
+Win rate, 30 days**50.03%**
 
-**50.04%**win rate, 30 days
+**50.03%**win rate, 30 days
 
-**1.27%**pick rate
+**1.26%**pick rate
 
-**18.65%**ban rate
+**18.13%**ban rate
 
-**50.02%**wins in Mythical Glory
+**50.03%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Paquito as a fighter and assassin for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Fighter and assassin**
+-   Lane**EXP Lane or Jungle**
+-   Among fighters**#20 of 44**
+-   Among assassins**#8 of 29**
+-   In the EXP Lane**#20 of 42**
+-   In the jungle**#14 of 37**
 
 ## Who counters Paquito
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Paquito. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Paquito. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
 
-[![](/images/heroes/natalia.webp)Natalia51.04%](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/karina.webp)Karina48.55%](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/wanwan.webp)Wanwan47.61%](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/helcurt.webp)Helcurt47.61%](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)
+
+## Win rate by rank
+
+Best result in Mythical Honor (50.51%), weakest in Epic (49.53%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**49.53%**
+-   ![](/images/ranks/Legend.webp)Legend**49.57%**
+-   ![](/images/ranks/Mythic.webp)Mythic**49.74%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**50.51%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**50.03%**
 
 ## Place in the meta
 
-Paquito sits in tier B of our win-rate tier list and ranks 63 of 133 heroes. In patch 2.2.16 the hero was nerfed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Paquito sits in tier B of our win-rate tier list and ranks 65 of 133 heroes. In Mythical Glory the result is almost the same: 50.03%. In patch 2.2.16 the hero was nerfed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other EXP Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
 ## Lore and skills
 
-![](/images/heroes/paquito.webp)
+![Paquito](/images/heroes/paquito.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Paquito page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Paquito). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -65,6 +92,14 @@ By MOONTON’s official 30-day statistics: Natalia, X.Borg, Karina, Wanwan and H
 
 What is Paquito’s win rate right now?
 
-50.04% over the last 30 days across all ranks and 50.02% in Mythical Glory, as of 21 November 2026.
+50.03% over the last 30 days across all ranks and 50.03% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Paquito play?
+
+Fighter and assassin, EXP Lane or Jungle, according to MOONTON’s official hero page.
+
+Is Paquito strong in the current meta?
+
+Tier B: #65 of 133 heroes by 30-day win rate and #20 among fighters.
+
+MLBB Boost editorial team · Updated 23 November 2026

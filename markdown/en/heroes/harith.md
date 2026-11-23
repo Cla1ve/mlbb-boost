@@ -1,6 +1,6 @@
 ---
 title: "Harith MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Harith in Mobile Legends, 46.85% win rate, pick and ban rates from official 30-day statistics, tier D and patch 2.2.16 changes."
+description: "Who counters Harith in Mobile Legends: mage, Gold Lane, 46.92% win rate, tier D, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier D
 
 # Harith in Mobile Legends: counters and stats
 
-Harith wins 46.85% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Gold Lane. Harith wins 46.92% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -23,37 +23,62 @@ Hero statsTier D
 
 Counters
 
-![](/images/heroes/lolita.webp)![](/images/heroes/johnson.webp)![](/images/heroes/suyou.webp)
+![](/images/heroes/lolita.webp)![](/images/heroes/karina.webp)![](/images/heroes/johnson.webp)
 
-Win rate, 30 days**46.85%**
+Win rate, 30 days**46.92%**
 
-**46.85%**win rate, 30 days
+**46.92%**win rate, 30 days
 
 **0.15%**pick rate
 
 **0.05%**ban rate
 
-**48.03%**wins in Mythical Glory
+**48.08%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Harith as a mage for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Mage**
+-   Lane**Gold Lane**
+-   Among mages**#31 of 32**
+-   In the Gold Lane**#20 of 21**
 
 ## Who counters Harith
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Harith. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Harith. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
 
-[![](/images/heroes/lolita.webp)Lolita53.31%](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/johnson.webp)Johnson49.22%](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/karina.webp)Karina48.55%](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/lapu-lapu.webp)Lapu-Lapu48.10%](https://boostmlbb.ru/en/heroes/lapu-lapu.html)
+[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Lapu-Lapu](/images/heroes/lapu-lapu.webp)Lapu-Lapu48.08%](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![Suyou](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)
 
 ## Who Harith is strong against
 
 Harith is listed as a counter for these heroes.
 
-[![](/images/heroes/minsitthar.webp)Minsitthar52.04%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/alucard.webp)Alucard48.85%](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/edith.webp)Edith52.65%](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/phoveus.webp)Phoveus48.20%](https://boostmlbb.ru/en/heroes/phoveus.html)
+[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)
+
+## Win rate by rank
+
+Best result in Mythical Glory (48.08%), weakest in Legend (44.88%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**45.74%**
+-   ![](/images/ranks/Legend.webp)Legend**44.88%**
+-   ![](/images/ranks/Mythic.webp)Mythic**44.90%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**46.15%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.08%**
 
 ## Place in the meta
 
-Harith sits in tier D of our win-rate tier list and ranks 120 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Harith sits in tier D of our win-rate tier list and ranks 120 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is higher: 48.08% against 46.92% across all ranks, a 1.16-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Gold Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
 
 ## Lore and skills
 
-![](/images/heroes/harith.webp)
+![Harith](/images/heroes/harith.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Harith page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harith). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 Who counters Harith in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Johnson, Suyou, Karina and Lapu-Lapu.
+By MOONTON’s official 30-day statistics: Lolita, Karina, Johnson, Lapu-Lapu and Suyou.
 
 What is Harith’s win rate right now?
 
-46.85% over the last 30 days across all ranks and 48.03% in Mythical Glory, as of 21 November 2026.
+46.92% over the last 30 days across all ranks and 48.08% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Harith play?
+
+Mage, Gold Lane, according to MOONTON’s official hero page.
+
+Is Harith strong in the current meta?
+
+Tier D: #120 of 133 heroes by 30-day win rate and #31 among mages.
+
+MLBB Boost editorial team · Updated 23 November 2026

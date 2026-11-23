@@ -1,6 +1,6 @@
 ---
 title: "Минотавр MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Минотавр в Mobile Legends, процент побед 53,77%, выбора и банов по официальной статистике за 30 дней, тир S и патч 2.2.16."
+description: "Кто контрит героя Минотавр в Mobile Legends: танк и поддержка, роум, 53,77% побед, тир S, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/minotaur.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Минотавр в Mobile Legends: контрпики и статистика
 
-Минотавр выигрывает 53,77% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк и поддержка, роум. Минотавр выигрывает 53,77% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -33,27 +33,53 @@ language: ru
 
 **8,43%**банят в матчах
 
-**53,11%**побед в Мифической славе
+**53,12%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Минотавр» — танк и поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Танк и поддержка**
+-   Линия**Роум**
+-   Среди танков**3-е из 25**
+-   Среди героев поддержки**5-е из 15**
+-   В роуме**6-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Минотавр». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Минотавр». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — танки.
 
-[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/johnson.webp)Джонсон49,22%](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/cyclops.webp)Циклоп51,66%](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Хуфра54,71%](https://boostmlbb.ru/heroes/khufra.html)
+[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)
 
 ## Против кого силён
 
-Для этих героев «Минотавр» сам числится контрпиком.
+«Минотавр» числится контрпиком для этих героев.
 
-[![](/images/heroes/beatrix.webp)Беатрис50,37%](https://boostmlbb.ru/heroes/beatrix.html)
+[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Легенда» (54,96%), слабее всего — «Мифическая слава» (53,12%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**54,01%**
+-   ![](/images/ranks/Legend.webp)Легенда**54,96%**
+-   ![](/images/ranks/Mythic.webp)Мифический**54,88%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**54,24%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**53,12%**
 
 ## Место в мете
 
-«Минотавр» — тир S в нашем тир-листе по проценту побед, 9-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Минотавр» — тир S в нашем тир-листе по проценту побед, 10-е место из 133 героев. В Мифической славе процент побед ниже: 53,12% против 53,77% на всех рангах, разница 0,65 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)
 
 ## История и навыки
 
-![](/images/heroes/minotaur.webp)
+![Минотавр](/images/heroes/minotaur.webp)
 
 Историю героя, навыки и реплики собирает [страница Minotaur в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Minotaur) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ language: ru
 
 Какой процент побед у героя «Минотавр» сейчас?
 
-53,77% за последние 30 дней на всех рангах и 53,11% в Мифической славе, данные на 21 ноября 2026 года.
+53,77% за последние 30 дней на всех рангах и 53,12% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Минотавр»?
+
+Танк и поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Минотавр» в текущей мете?
+
+Тир S: 10-е место из 133 героев по проценту побед за 30 дней и 3-е среди танков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

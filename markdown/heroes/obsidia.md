@@ -1,6 +1,6 @@
 ---
 title: "Обсидия MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Обсидия в Mobile Legends, процент побед 53,22%, выбора и банов по официальной статистике за 30 дней, тир S и патч 2.2.16."
+description: "Кто контрит героя Обсидия в Mobile Legends: стрелок, линия золота, 53,20% побед, тир S, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/obsidia.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Обсидия в Mobile Legends: контрпики и статистика
 
-Обсидия выигрывает 53,22% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота. Обсидия выигрывает 53,20% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/obsidia.webp)
 
-**Обсидия**Бан 47,79% · Выбор 2,21%
+**Обсидия**Бан 48,46% · Выбор 2,20%
 
 Контрпики
 
 ![](/images/heroes/benedetta.webp)![](/images/heroes/helcurt.webp)![](/images/heroes/aldous.webp)
 
-Победы за 30 дней**53,22%**
+Победы за 30 дней**53,20%**
 
-**53,22%**побед за 30 дней
+**53,20%**побед за 30 дней
 
-**2,21%**выбирают в матчах
+**2,20%**выбирают в матчах
 
-**47,79%**банят в матчах
+**48,46%**банят в матчах
 
-**52,91%**побед в Мифической славе
+**52,89%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Обсидия» — стрелок, играет на линии золота. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Стрелок**
+-   Линия**Линия золота**
+-   Среди стрелков**2-е из 23**
+-   На линии золота**2-е из 21**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Обсидия». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Обсидия». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/benedetta.webp)Бенедетта52,11%](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/helcurt.webp)Хелкарт47,61%](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Алдос51,76%](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/yin.webp)Инь49,61%](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/hanzo.webp)Ханзо49,89%](https://boostmlbb.ru/heroes/hanzo.html)
+[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)[![Алдос](/images/heroes/aldous.webp)Алдос51,86%](https://boostmlbb.ru/heroes/aldous.html)[![Инь](/images/heroes/yin.webp)Инь49,62%](https://boostmlbb.ru/heroes/yin.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)
 
 ## Против кого силён
 
-Для этих героев «Обсидия» сам числится контрпиком.
+«Обсидия» числится контрпиком для этих героев.
 
-[![](/images/heroes/miya.webp)Мия49,72%](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/baxia.webp)Баксий45,98%](https://boostmlbb.ru/heroes/baxia.html)
+[![Мия](/images/heroes/miya.webp)Мия49,71%](https://boostmlbb.ru/heroes/miya.html)[![Баксий](/images/heroes/baxia.webp)Баксий45,97%](https://boostmlbb.ru/heroes/baxia.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая честь» (53,82%), слабее всего — «Эпик» (51,80%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**51,80%**
+-   ![](/images/ranks/Legend.webp)Легенда**52,91%**
+-   ![](/images/ranks/Mythic.webp)Мифический**53,79%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**53,82%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**52,89%**
 
 ## Место в мете
 
-«Обсидия» — тир S в нашем тир-листе по проценту побед, 16-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Обсидия» — тир S в нашем тир-листе по проценту побед, 16-е место из 133 героев. В Мифической славе результат почти такой же: 52,89%. На этом ранге героя банят в 61,08% матчей. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии золота
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Натан](/images/heroes/natan.webp)Натан51,32%](https://boostmlbb.ru/heroes/natan.html)[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)
 
 ## История и навыки
 
-![](/images/heroes/obsidia.webp)
+![Обсидия](/images/heroes/obsidia.webp)
 
 Историю героя, навыки и реплики собирает [страница Obsidia в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Obsidia) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Обсидия» сейчас?
 
-53,22% за последние 30 дней на всех рангах и 52,91% в Мифической славе, данные на 21 ноября 2026 года.
+53,20% за последние 30 дней на всех рангах и 52,89% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Обсидия»?
+
+Стрелок, играет на линии золота. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Обсидия» в текущей мете?
+
+Тир S: 16-е место из 133 героев по проценту побед за 30 дней и 2-е среди стрелков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

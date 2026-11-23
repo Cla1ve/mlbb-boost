@@ -94,8 +94,8 @@ const UI = {
       ogDescription: 'Патчи, мета и киберспорт: проверяем первоисточники и объясняем главное по-русски.',
       twitterDescription: 'Проверенные новости, патчи, мета и киберспорт Mobile Legends.',
       kicker: 'Boost MLBB · редакция',
-      heroLine: 'Mobile Legends.',
-      heroAccent: 'Без шума.',
+      heroLine: 'Новости Mobile Legends',
+      heroAccent: 'без шума',
       lead: 'Патчи, турниры и мета — с первоисточниками, московским временем и понятным выводом для игрока.',
       jump: 'К новостям',
       latest: 'Последнее',
@@ -197,8 +197,8 @@ const UI = {
       ogDescription: 'Patches, meta and esports, checked against primary sources and explained clearly for players.',
       twitterDescription: 'Verified Mobile Legends news covering patches, meta and esports.',
       kicker: 'Boost MLBB · editorial',
-      heroLine: 'Mobile Legends.',
-      heroAccent: 'Signal, not noise.',
+      heroLine: 'Mobile Legends news',
+      heroAccent: 'signal, not noise',
       lead: 'Patches, tournaments and meta — backed by primary sources, Moscow time and a clear takeaway for players.',
       jump: 'View latest news',
       latest: 'Latest',
@@ -1604,7 +1604,7 @@ ${GENERATED_MARKER}
       <div class="container news-masthead__grid">
         <div class="news-masthead__copy">
           <p class="editorial-kicker"><span></span> ${escapeHtml(indexCopy.kicker)}</p>
-          <h1><span>${escapeHtml(indexCopy.heroLine)}</span><em>${escapeHtml(indexCopy.heroAccent)}</em></h1>
+          <h1><span>${escapeHtml(indexCopy.heroLine)}</span> <em>${escapeHtml(indexCopy.heroAccent)}</em></h1>
           <p class="news-masthead__lead">${escapeHtml(indexCopy.lead)}</p>
           <a class="news-masthead__jump" href="#latest">${escapeHtml(indexCopy.jump)} <span aria-hidden="true">↓</span></a>
         </div>
@@ -2122,7 +2122,7 @@ function renderMainSitemap(posts, staticPages) {
     const russianPath = page.pathname.replace(/^\/en(?=\/)/, '');
     const englishPath = '/en' + russianPath;
     entries.push({ loc: absoluteUrl(page.pathname), lastmod: page.lastmod,
-      alternates: {
+      alternates: page.ruOnly ? null : {
         ru: absoluteUrl(russianPath), en: absoluteUrl(englishPath), 'x-default': absoluteUrl(russianPath)
       }
     });

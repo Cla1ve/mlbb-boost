@@ -1,6 +1,6 @@
 ---
 title: "Esmeralda MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Esmeralda in Mobile Legends, 47.00% win rate, pick and ban rates from official 30-day statistics, tier C and patch 2.2.16 changes."
+description: "Who counters Esmeralda in Mobile Legends: tank and mage, EXP Lane, 47.00% win rate, tier C, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/esmeralda.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier C
 
 # Esmeralda in Mobile Legends: counters and stats
 
-Esmeralda wins 47.00% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and mage, EXP Lane. Esmeralda wins 47.00% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,7 +19,7 @@ Hero statsTier C
 
 ![](/images/heroes/esmeralda.webp)
 
-**Esmeralda**Ban 2.21% · Pick 0.85%
+**Esmeralda**Ban 2.21% · Pick 0.84%
 
 Counters
 
@@ -29,31 +29,57 @@ Win rate, 30 days**47.00%**
 
 **47.00%**win rate, 30 days
 
-**0.85%**pick rate
+**0.84%**pick rate
 
 **2.21%**ban rate
 
-**46.17%**wins in Mythical Glory
+**46.19%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Esmeralda as a tank and mage for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Tank and mage**
+-   Lane**EXP Lane**
+-   Among tanks**#20 of 25**
+-   Among mages**#30 of 32**
+-   In the EXP Lane**#38 of 42**
 
 ## Who counters Esmeralda
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Esmeralda. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Esmeralda. The number is each hero’s own win rate. 3 of the 5 counters are supports.
 
-[![](/images/heroes/lolita.webp)Lolita53.31%](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/mathilda.webp)Mathilda44.50%](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/marcel.webp)Marcel57.49%](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/jawhead.webp)Jawhead47.88%](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/aldous.webp)Aldous51.76%](https://boostmlbb.ru/en/heroes/aldous.html)
+[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Mathilda](/images/heroes/mathilda.webp)Mathilda44.49%](https://boostmlbb.ru/en/heroes/mathilda.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)
 
 ## Who Esmeralda is strong against
 
 Esmeralda is listed as a counter for these heroes.
 
-[![](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/julian.webp)Julian49.96%](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/karrie.webp)Karrie48.85%](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/fredrinn.webp)Fredrinn51.24%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/lunox.webp)Lunox50.52%](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/natan.webp)Natan51.31%](https://boostmlbb.ru/en/heroes/natan.html)
+[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![Julian](/images/heroes/julian.webp)Julian49.95%](https://boostmlbb.ru/en/heroes/julian.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
+
+## Win rate by rank
+
+Best result in Epic (48.26%), weakest in Mythical Glory (46.19%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**48.26%**
+-   ![](/images/ranks/Legend.webp)Legend**48.18%**
+-   ![](/images/ranks/Mythic.webp)Mythic**47.82%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**46.98%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**46.19%**
 
 ## Place in the meta
 
-Esmeralda sits in tier C of our win-rate tier list and ranks 119 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Esmeralda sits in tier C of our win-rate tier list and ranks 119 of 133 heroes. In Mythical Glory the win rate is lower: 46.19% against 47.00% across all ranks, a 0.81-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other EXP Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
 ## Lore and skills
 
-![](/images/heroes/esmeralda.webp)
+![Esmeralda](/images/heroes/esmeralda.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Esmeralda page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Esmeralda). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ By MOONTON’s official 30-day statistics: Lolita, Mathilda, Marcel, Jawhead and
 
 What is Esmeralda’s win rate right now?
 
-47.00% over the last 30 days across all ranks and 46.17% in Mythical Glory, as of 21 November 2026.
+47.00% over the last 30 days across all ranks and 46.19% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Esmeralda play?
+
+Tank and mage, EXP Lane, according to MOONTON’s official hero page.
+
+Is Esmeralda strong in the current meta?
+
+Tier C: #119 of 133 heroes by 30-day win rate and #20 among tanks.
+
+MLBB Boost editorial team · Updated 23 November 2026

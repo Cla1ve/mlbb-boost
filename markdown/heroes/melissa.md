@@ -1,6 +1,6 @@
 ---
 title: "Мелисса MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Мелисса в Mobile Legends, процент побед 49,98%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Мелисса в Mobile Legends: стрелок, линия золота, 50,07% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/melissa.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Мелисса в Mobile Legends: контрпики и статистика
 
-Мелисса выигрывает 49,98% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота. Мелисса выигрывает 50,07% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/melissa.webp)
 
-**Мелисса**Бан 0,87% · Выбор 0,38%
+**Мелисса**Бан 0,88% · Выбор 0,38%
 
 Контрпики
 
 ![](/images/heroes/lolita.webp)![](/images/heroes/popol-and-kupa.webp)![](/images/heroes/leomord.webp)
 
-Победы за 30 дней**49,98%**
+Победы за 30 дней**50,07%**
 
-**49,98%**побед за 30 дней
+**50,07%**побед за 30 дней
 
 **0,38%**выбирают в матчах
 
-**0,87%**банят в матчах
+**0,88%**банят в матчах
 
-**51,59%**побед в Мифической славе
+**51,65%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Мелисса» — стрелок, играет на линии золота. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Стрелок**
+-   Линия**Линия золота**
+-   Среди стрелков**12-е из 23**
+-   На линии золота**11-е из 21**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Мелисса». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Мелисса». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,22%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/leomord.webp)Леоморд50,11%](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/ling.webp)Линг52,56%](https://boostmlbb.ru/heroes/ling.html)
+[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Леоморд](/images/heroes/leomord.webp)Леоморд50,09%](https://boostmlbb.ru/heroes/leomord.html)[![Джой](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)
 
 ## Против кого силён
 
-Для этих героев «Мелисса» сам числится контрпиком.
+«Мелисса» числится контрпиком для этих героев.
 
-[![](/images/heroes/nana.webp)Нана47,29%](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син49,14%](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/harley.webp)Харли48,17%](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/vale.webp)Вэйл50,10%](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/pharsa.webp)Фаша47,27%](https://boostmlbb.ru/heroes/pharsa.html)
+[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Ли Сун-Син](/images/heroes/yi-sun-shin.webp)Ли Сун-Син49,11%](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![Харли](/images/heroes/harley.webp)Харли48,19%](https://boostmlbb.ru/heroes/harley.html)[![Вэйл](/images/heroes/vale.webp)Вэйл50,10%](https://boostmlbb.ru/heroes/vale.html)[![Фаша](/images/heroes/pharsa.webp)Фаша47,26%](https://boostmlbb.ru/heroes/pharsa.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (51,65%), слабее всего — «Эпик» (47,63%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**47,63%**
+-   ![](/images/ranks/Legend.webp)Легенда**48,18%**
+-   ![](/images/ranks/Mythic.webp)Мифический**48,75%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**50,79%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**51,65%**
 
 ## Место в мете
 
-«Мелисса» — тир B в нашем тир-листе по проценту побед, 66-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В патче 2.2.16 герой ослаблен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Мелисса» — тир B в нашем тир-листе по проценту побед, 63-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе процент побед выше: 51,65% против 50,07% на всех рангах, разница 1,58 п. п. В патче 2.2.16 герой ослаблен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии золота
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Обсидия](/images/heroes/obsidia.webp)Обсидия53,20%](https://boostmlbb.ru/heroes/obsidia.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Натан](/images/heroes/natan.webp)Натан51,32%](https://boostmlbb.ru/heroes/natan.html)
 
 ## История и навыки
 
-![](/images/heroes/melissa.webp)
+![Мелисса](/images/heroes/melissa.webp)
 
 Историю героя, навыки и реплики собирает [страница Melissa в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Melissa) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Мелисса» сейчас?
 
-49,98% за последние 30 дней на всех рангах и 51,59% в Мифической славе, данные на 21 ноября 2026 года.
+50,07% за последние 30 дней на всех рангах и 51,65% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Мелисса»?
+
+Стрелок, играет на линии золота. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Мелисса» в текущей мете?
+
+Тир B: 63-е место из 133 героев по проценту побед за 30 дней и 12-е среди стрелков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

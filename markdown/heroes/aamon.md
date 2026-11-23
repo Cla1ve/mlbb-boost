@@ -1,6 +1,6 @@
 ---
 title: "Эймон MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Эймон в Mobile Legends, процент побед 50,26%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Эймон в Mobile Legends: убийца, лес, 50,24% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/aamon.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Эймон в Mobile Legends: контрпики и статистика
 
-Эймон выигрывает 50,26% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес. Эймон выигрывает 50,24% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/aamon.webp)
 
-**Эймон**Бан 2,50% · Выбор 0,63%
+**Эймон**Бан 2,51% · Выбор 0,64%
 
 Контрпики
 
 ![](/images/heroes/cici.webp)![](/images/heroes/marcel.webp)![](/images/heroes/claude.webp)
 
-Победы за 30 дней**50,26%**
+Победы за 30 дней**50,24%**
 
-**50,26%**побед за 30 дней
+**50,24%**побед за 30 дней
 
-**0,63%**выбирают в матчах
+**0,64%**выбирают в матчах
 
-**2,50%**банят в матчах
+**2,51%**банят в матчах
 
-**50,64%**побед в Мифической славе
+**50,62%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Эймон» — убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Убийца**
+-   Линия**Лес**
+-   Среди убийц**6-е из 29**
+-   В лесу**11-е из 37**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Эймон». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Эймон». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — стрелки.
 
-[![](/images/heroes/cici.webp)Чичи49,40%](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/marcel.webp)Марсель57,49%](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/bruno.webp)Бруно53,76%](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/xavier.webp)Ксавьер51,56%](https://boostmlbb.ru/heroes/xavier.html)
+[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)
 
 ## Против кого силён
 
-Для этих героев «Эймон» сам числится контрпиком.
+«Эймон» числится контрпиком для этих героев.
 
-[![](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/gloo.webp)Глу53,55%](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/hayabusa.webp)Хаябуса48,14%](https://boostmlbb.ru/heroes/hayabusa.html)
+[![Госсен](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Хаябуса](/images/heroes/hayabusa.webp)Хаябуса48,15%](https://boostmlbb.ru/heroes/hayabusa.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (50,62%), слабее всего — «Эпик» (49,82%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**49,82%**
+-   ![](/images/ranks/Legend.webp)Легенда**50,10%**
+-   ![](/images/ranks/Mythic.webp)Мифический**50,37%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,98%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**50,62%**
 
 ## Место в мете
 
-«Эймон» — тир B в нашем тир-листе по проценту побед, 57-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Эймон» — тир B в нашем тир-листе по проценту побед, 57-е место из 133 героев. В Мифической славе результат почти такой же: 50,62%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои леса
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
 
 ## История и навыки
 
-![](/images/heroes/aamon.webp)
+![Эймон](/images/heroes/aamon.webp)
 
 Историю героя, навыки и реплики собирает [страница Aamon в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aamon) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Эймон» сейчас?
 
-50,26% за последние 30 дней на всех рангах и 50,64% в Мифической славе, данные на 21 ноября 2026 года.
+50,24% за последние 30 дней на всех рангах и 50,62% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Эймон»?
+
+Убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Эймон» в текущей мете?
+
+Тир B: 57-е место из 133 героев по проценту побед за 30 дней и 6-е среди убийц.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

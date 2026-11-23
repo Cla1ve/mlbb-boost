@@ -1,6 +1,6 @@
 ---
 title: "Granger MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Granger in Mobile Legends, 43.00% win rate, pick and ban rates from official 30-day statistics, tier D and patch 2.2.16 changes."
+description: "Who counters Granger in Mobile Legends: marksman, Gold Lane, 42.99% win rate, tier D, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/granger.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier D
 
 # Granger in Mobile Legends: counters and stats
 
-Granger wins 43.00% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Granger wins 42.99% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,41 +19,66 @@ Hero statsTier D
 
 ![](/images/heroes/granger.webp)
 
-**Granger**Ban 1.63% · Pick 1.33%
+**Granger**Ban 1.64% · Pick 1.33%
 
 Counters
 
 ![](/images/heroes/karina.webp)![](/images/heroes/beatrix.webp)![](/images/heroes/ixia.webp)
 
-Win rate, 30 days**43.00%**
+Win rate, 30 days**42.99%**
 
-**43.00%**win rate, 30 days
+**42.99%**win rate, 30 days
 
 **1.33%**pick rate
 
-**1.63%**ban rate
+**1.64%**ban rate
 
-**44.74%**wins in Mythical Glory
+**44.69%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Granger as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Marksman**
+-   Lane**Gold Lane**
+-   Among marksmen**#23 of 23**
+-   In the Gold Lane**#21 of 21**
 
 ## Who counters Granger
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Granger. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Granger. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
 
-[![](/images/heroes/karina.webp)Karina48.55%](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/beatrix.webp)Beatrix50.37%](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Ixia50.06%](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/diggie.webp)Diggie54.25%](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/baxia.webp)Baxia45.98%](https://boostmlbb.ru/en/heroes/baxia.html)
+[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Who Granger is strong against
 
 Granger is listed as a counter for these heroes.
 
-[![](/images/heroes/fanny.webp)Fanny42.62%](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/jawhead.webp)Jawhead47.88%](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/uranus.webp)Uranus49.33%](https://boostmlbb.ru/en/heroes/uranus.html)
+[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
+
+## Win rate by rank
+
+Best result in Mythical Glory (44.69%), weakest in Mythic (41.43%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**43.18%**
+-   ![](/images/ranks/Legend.webp)Legend**41.75%**
+-   ![](/images/ranks/Mythic.webp)Mythic**41.43%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**42.03%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**44.69%**
 
 ## Place in the meta
 
-Granger sits in tier D of our win-rate tier list and ranks 131 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Granger sits in tier D of our win-rate tier list and ranks 131 of 133 heroes. In Mythical Glory the win rate is higher: 44.69% against 42.99% across all ranks, a 1.70-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Gold Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
 
 ## Lore and skills
 
-![](/images/heroes/granger.webp)
+![Granger](/images/heroes/granger.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Granger page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Granger). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 Who counters Granger in MLBB?
 
-By MOONTON’s official 30-day statistics: Karina, Beatrix, Ixia, Diggie and Baxia.
+By MOONTON’s official 30-day statistics: Karina, Beatrix, Ixia, Diggie and Yve.
 
 What is Granger’s win rate right now?
 
-43.00% over the last 30 days across all ranks and 44.74% in Mythical Glory, as of 21 November 2026.
+42.99% over the last 30 days across all ranks and 44.69% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Granger play?
+
+Marksman, Gold Lane, according to MOONTON’s official hero page.
+
+Is Granger strong in the current meta?
+
+Tier D: #131 of 133 heroes by 30-day win rate and #23 among marksmen.
+
+MLBB Boost editorial team · Updated 23 November 2026

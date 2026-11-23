@@ -1,6 +1,6 @@
 ---
 title: "Джулиан MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Джулиан в Mobile Legends, процент побед 49,96%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Джулиан в Mobile Legends: боец и убийца, линия опыта или лес, 49,95% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/julian.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Джулиан в Mobile Legends: контрпики и статистика
 
-Джулиан выигрывает 49,96% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец и убийца, линия опыта или лес. Джулиан выигрывает 49,95% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -25,9 +25,9 @@ language: ru
 
 ![](/images/heroes/faramis.webp)![](/images/heroes/esmeralda.webp)![](/images/heroes/alice.webp)
 
-Победы за 30 дней**49,96%**
+Победы за 30 дней**49,95%**
 
-**49,96%**побед за 30 дней
+**49,95%**побед за 30 дней
 
 **0,67%**выбирают в матчах
 
@@ -35,25 +35,52 @@ language: ru
 
 **49,20%**побед в Мифической славе
 
+## Роль и линия
+
+По официальной странице героев MOONTON «Джулиан» — боец и убийца, играет на линии опыта или в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Боец и убийца**
+-   Линия**Линия опыта или лес**
+-   Среди бойцов**22-е из 44**
+-   Среди убийц**9-е из 29**
+-   На линии опыта**22-е из 42**
+-   В лесу**15-е из 37**
+
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Джулиан». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Джулиан». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — маги.
 
-[![](/images/heroes/faramis.webp)Фарамис50,84%](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/alice.webp)Алиса50,73%](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/phoveus.webp)Фовиус48,20%](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/odette.webp)Одетта49,68%](https://boostmlbb.ru/heroes/odette.html)
+[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)[![Эсмеральда](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Фовиус](/images/heroes/phoveus.webp)Фовиус48,21%](https://boostmlbb.ru/heroes/phoveus.html)[![Одетта](/images/heroes/odette.webp)Одетта49,69%](https://boostmlbb.ru/heroes/odette.html)
 
 ## Против кого силён
 
-Для этих героев «Джулиан» сам числится контрпиком.
+«Джулиан» числится контрпиком для этих героев.
 
-[![](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)
+[![Гвиневра](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (50,96%), слабее всего — «Мифическая слава» (49,20%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**50,96%**
+-   ![](/images/ranks/Legend.webp)Легенда**50,40%**
+-   ![](/images/ranks/Mythic.webp)Мифический**50,15%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,98%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,20%**
 
 ## Место в мете
 
-«Джулиан» — тир B в нашем тир-листе по проценту побед, 68-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Джулиан» — тир B в нашем тир-листе по проценту побед, 69-е место из 133 героев. В Мифической славе процент побед ниже: 49,20% против 49,95% на всех рангах, разница 0,75 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии опыта
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)
 
 ## История и навыки
 
-![](/images/heroes/julian.webp)
+![Джулиан](/images/heroes/julian.webp)
 
 Историю героя, навыки и реплики собирает [страница Julian в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Julian) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +98,14 @@ language: ru
 
 Какой процент побед у героя «Джулиан» сейчас?
 
-49,96% за последние 30 дней на всех рангах и 49,20% в Мифической славе, данные на 21 ноября 2026 года.
+49,95% за последние 30 дней на всех рангах и 49,20% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Джулиан»?
+
+Боец и убийца, играет на линии опыта или в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Джулиан» в текущей мете?
+
+Тир B: 69-е место из 133 героев по проценту побед за 30 дней и 22-е среди бойцов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

@@ -1,6 +1,6 @@
 ---
 title: "Алукард MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Алукард в Mobile Legends, процент побед 48,85%, выбора и банов по официальной статистике за 30 дней, тир C и патч 2.2.16."
+description: "Кто контрит героя Алукард в Mobile Legends: боец и убийца, лес, 48,87% побед, тир C, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/alucard.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Алукард в Mobile Legends: контрпики и статистика
 
-Алукард выигрывает 48,85% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец и убийца, лес. Алукард выигрывает 48,87% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,67 @@ language: ru
 
 ![](/images/heroes/alucard.webp)
 
-**Алукард**Бан 0,37% · Выбор 0,57%
+**Алукард**Бан 0,36% · Выбор 0,56%
 
 Контрпики
 
 ![](/images/heroes/natalia.webp)![](/images/heroes/sun.webp)![](/images/heroes/mathilda.webp)
 
-Победы за 30 дней**48,85%**
+Победы за 30 дней**48,87%**
 
-**48,85%**побед за 30 дней
+**48,87%**побед за 30 дней
 
-**0,57%**выбирают в матчах
+**0,56%**выбирают в матчах
 
-**0,37%**банят в матчах
+**0,36%**банят в матчах
 
-**48,96%**побед в Мифической славе
+**49,00%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Алукард» — боец и убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Боец и убийца**
+-   Линия**Лес**
+-   Среди бойцов**32-е из 44**
+-   Среди убийц**16-е из 29**
+-   В лесу**24-е из 37**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Алукард». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Алукард». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/natalia.webp)Наталья51,04%](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/sun.webp)Сан53,69%](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/mathilda.webp)Матильда44,50%](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/saber.webp)Сабер51,18%](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/harith.webp)Харит46,85%](https://boostmlbb.ru/heroes/harith.html)
+[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Матильда](/images/heroes/mathilda.webp)Матильда44,49%](https://boostmlbb.ru/heroes/mathilda.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Харит](/images/heroes/harith.webp)Харит46,92%](https://boostmlbb.ru/heroes/harith.html)
 
 ## Против кого силён
 
-Для этих героев «Алукард» сам числится контрпиком.
+«Алукард» числится контрпиком для этих героев.
 
-[![](/images/heroes/tigreal.webp)Тигрил45,20%](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/fredrinn.webp)Фредрин51,24%](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/khufra.webp)Хуфра54,71%](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)
+[![Тигрил](/images/heroes/tigreal.webp)Тигрил45,22%](https://boostmlbb.ru/heroes/tigreal.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Фредрин](/images/heroes/fredrinn.webp)Фредрин51,25%](https://boostmlbb.ru/heroes/fredrinn.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Акай](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифический» (49,04%), слабее всего — «Мифическая честь» (48,56%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**48,79%**
+-   ![](/images/ranks/Legend.webp)Легенда**48,94%**
+-   ![](/images/ranks/Mythic.webp)Мифический**49,04%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**48,56%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,00%**
 
 ## Место в мете
 
-«Алукард» — тир C в нашем тир-листе по проценту побед, 94-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Алукард» — тир C в нашем тир-листе по проценту побед, 93-е место из 133 героев. В Мифической славе результат почти такой же: 49,00%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои леса
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
 
 ## История и навыки
 
-![](/images/heroes/alucard.webp)
+![Алукард](/images/heroes/alucard.webp)
 
 Историю героя, навыки и реплики собирает [страница Alucard в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alucard) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ language: ru
 
 Какой процент побед у героя «Алукард» сейчас?
 
-48,85% за последние 30 дней на всех рангах и 48,96% в Мифической славе, данные на 21 ноября 2026 года.
+48,87% за последние 30 дней на всех рангах и 49,00% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Алукард»?
+
+Боец и убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Алукард» в текущей мете?
+
+Тир C: 93-е место из 133 героев по проценту побед за 30 дней и 32-е среди бойцов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

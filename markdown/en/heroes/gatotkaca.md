@@ -1,6 +1,6 @@
 ---
 title: "Gatotkaca MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Gatotkaca in Mobile Legends, 45.35% win rate, pick and ban rates from official 30-day statistics, tier D and patch 2.2.16 changes."
+description: "Who counters Gatotkaca in Mobile Legends: tank and fighter, EXP Lane or Roam, 45.35% win rate, tier D, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier D
 
 # Gatotkaca in Mobile Legends: counters and stats
 
-Gatotkaca wins 45.35% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and fighter, EXP Lane or Roam. Gatotkaca wins 45.35% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -35,25 +35,52 @@ Win rate, 30 days**45.35%**
 
 **43.99%**wins in Mythical Glory
 
+## Role and lane
+
+MOONTON’s official hero page lists Gatotkaca as a tank and fighter for the EXP Lane or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Tank and fighter**
+-   Lane**EXP Lane or Roam**
+-   Among tanks**#23 of 25**
+-   Among fighters**#43 of 44**
+-   In the EXP Lane**#41 of 42**
+-   On roam**#30 of 34**
+
 ## Who counters Gatotkaca
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Gatotkaca. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Gatotkaca. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
 
-[![](/images/heroes/odette.webp)Odette49.68%](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/saber.webp)Saber51.18%](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/miya.webp)Miya49.72%](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/zilong.webp)Zilong46.28%](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/argus.webp)Argus56.76%](https://boostmlbb.ru/en/heroes/argus.html)
+[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Miya](/images/heroes/miya.webp)Miya49.71%](https://boostmlbb.ru/en/heroes/miya.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)
 
 ## Who Gatotkaca is strong against
 
 Gatotkaca is listed as a counter for these heroes.
 
-[![](/images/heroes/lesley.webp)Lesley48.29%](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/uranus.webp)Uranus49.33%](https://boostmlbb.ru/en/heroes/uranus.html)
+[![Lesley](/images/heroes/lesley.webp)Lesley48.31%](https://boostmlbb.ru/en/heroes/lesley.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
+
+## Win rate by rank
+
+Best result in Epic (48.76%), weakest in Mythical Glory (43.99%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**48.76%**
+-   ![](/images/ranks/Legend.webp)Legend**45.88%**
+-   ![](/images/ranks/Mythic.webp)Mythic**44.90%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**44.01%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**43.99%**
 
 ## Place in the meta
 
-Gatotkaca sits in tier D of our win-rate tier list and ranks 125 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Gatotkaca sits in tier D of our win-rate tier list and ranks 125 of 133 heroes. In Mythical Glory the win rate is lower: 43.99% against 45.35% across all ranks, a 1.36-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other EXP Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
 ## Lore and skills
 
-![](/images/heroes/gatotkaca.webp)
+![Gatotkaca](/images/heroes/gatotkaca.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Gatotkaca page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gatotkaca). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +98,14 @@ By MOONTON’s official 30-day statistics: Odette, Saber, Miya, Zilong and Argus
 
 What is Gatotkaca’s win rate right now?
 
-45.35% over the last 30 days across all ranks and 43.99% in Mythical Glory, as of 21 November 2026.
+45.35% over the last 30 days across all ranks and 43.99% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Gatotkaca play?
+
+Tank and fighter, EXP Lane or Roam, according to MOONTON’s official hero page.
+
+Is Gatotkaca strong in the current meta?
+
+Tier D: #125 of 133 heroes by 30-day win rate and #23 among tanks.
+
+MLBB Boost editorial team · Updated 23 November 2026

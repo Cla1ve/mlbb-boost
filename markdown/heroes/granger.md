@@ -1,6 +1,6 @@
 ---
 title: "Грейнджер MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Грейнджер в Mobile Legends, процент побед 43,00%, выбора и банов по официальной статистике за 30 дней, тир D и патч 2.2.16."
+description: "Кто контрит героя Грейнджер в Mobile Legends: стрелок, линия золота, 42,99% побед, тир D, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/granger.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Грейнджер в Mobile Legends: контрпики и статистика
 
-Грейнджер выигрывает 43,00% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота. Грейнджер выигрывает 42,99% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/granger.webp)
 
-**Грейнджер**Бан 1,63% · Выбор 1,33%
+**Грейнджер**Бан 1,64% · Выбор 1,33%
 
 Контрпики
 
 ![](/images/heroes/karina.webp)![](/images/heroes/beatrix.webp)![](/images/heroes/ixia.webp)
 
-Победы за 30 дней**43,00%**
+Победы за 30 дней**42,99%**
 
-**43,00%**побед за 30 дней
+**42,99%**побед за 30 дней
 
 **1,33%**выбирают в матчах
 
-**1,63%**банят в матчах
+**1,64%**банят в матчах
 
-**44,74%**побед в Мифической славе
+**44,69%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Грейнджер» — стрелок, играет на линии золота. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Стрелок**
+-   Линия**Линия золота**
+-   Среди стрелков**23-е из 23**
+-   На линии золота**21-е из 21**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Грейнджер». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Грейнджер». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — стрелки.
 
-[![](/images/heroes/karina.webp)Карина48,55%](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/beatrix.webp)Беатрис50,37%](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Иксия50,06%](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/diggie.webp)Дигги54,25%](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/baxia.webp)Баксий45,98%](https://boostmlbb.ru/heroes/baxia.html)
+[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)
 
 ## Против кого силён
 
-Для этих героев «Грейнджер» сам числится контрпиком.
+«Грейнджер» числится контрпиком для этих героев.
 
-[![](/images/heroes/fanny.webp)Фанни42,62%](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/hilda.webp)Хильда51,07%](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/jawhead.webp)Кусака47,88%](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/uranus.webp)Уранус49,33%](https://boostmlbb.ru/heroes/uranus.html)
+[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Хильда](/images/heroes/hilda.webp)Хильда51,07%](https://boostmlbb.ru/heroes/hilda.html)[![Кусака](/images/heroes/jawhead.webp)Кусака47,87%](https://boostmlbb.ru/heroes/jawhead.html)[![Акай](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)[![Уранус](/images/heroes/uranus.webp)Уранус49,34%](https://boostmlbb.ru/heroes/uranus.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (44,69%), слабее всего — «Мифический» (41,43%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**43,18%**
+-   ![](/images/ranks/Legend.webp)Легенда**41,75%**
+-   ![](/images/ranks/Mythic.webp)Мифический**41,43%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**42,03%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**44,69%**
 
 ## Место в мете
 
-«Грейнджер» — тир D в нашем тир-листе по проценту побед, 131-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Грейнджер» — тир D в нашем тир-листе по проценту побед, 131-е место из 133 героев. В Мифической славе процент побед выше: 44,69% против 42,99% на всех рангах, разница 1,70 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии золота
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Обсидия](/images/heroes/obsidia.webp)Обсидия53,20%](https://boostmlbb.ru/heroes/obsidia.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Натан](/images/heroes/natan.webp)Натан51,32%](https://boostmlbb.ru/heroes/natan.html)
 
 ## История и навыки
 
-![](/images/heroes/granger.webp)
+![Грейнджер](/images/heroes/granger.webp)
 
 Историю героя, навыки и реплики собирает [страница Granger в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Granger) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ language: ru
 
 Кто контрпик для героя «Грейнджер» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Карина, Беатрис, Иксия, Дигги и Баксий.
+По официальной статистике MOONTON за 30 дней: Карина, Беатрис, Иксия, Дигги и Ив.
 
 Какой процент побед у героя «Грейнджер» сейчас?
 
-43,00% за последние 30 дней на всех рангах и 44,74% в Мифической славе, данные на 21 ноября 2026 года.
+42,99% за последние 30 дней на всех рангах и 44,69% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Грейнджер»?
+
+Стрелок, играет на линии золота. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Грейнджер» в текущей мете?
+
+Тир D: 131-е место из 133 героев по проценту побед за 30 дней и 23-е среди стрелков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

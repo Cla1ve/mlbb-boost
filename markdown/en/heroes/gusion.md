@@ -1,6 +1,6 @@
 ---
 title: "Gusion MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Gusion in Mobile Legends, 48.61% win rate, pick and ban rates from official 30-day statistics, tier C and patch 2.2.16 changes."
+description: "Who counters Gusion in Mobile Legends: assassin, Mid Lane or Jungle, 48.61% win rate, tier C, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/gusion.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier C
 
 # Gusion in Mobile Legends: counters and stats
 
-Gusion wins 48.61% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Mid Lane or Jungle. Gusion wins 48.61% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,7 +19,7 @@ Hero statsTier C
 
 ![](/images/heroes/gusion.webp)
 
-**Gusion**Ban 3.41% · Pick 1.27%
+**Gusion**Ban 3.39% · Pick 1.27%
 
 Counters
 
@@ -31,29 +31,55 @@ Win rate, 30 days**48.61%**
 
 **1.27%**pick rate
 
-**3.41%**ban rate
+**3.39%**ban rate
 
 **48.82%**wins in Mythical Glory
 
+## Role and lane
+
+MOONTON’s official hero page lists Gusion as a assassin for the Mid Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Assassin**
+-   Lane**Mid Lane or Jungle**
+-   Among assassins**#18 of 29**
+-   In the Mid Lane**#22 of 29**
+-   In the jungle**#27 of 37**
+
 ## Who counters Gusion
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Gusion. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Gusion. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
 
-[![](/images/heroes/aamon.webp)Aamon50.26%](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/valir.webp)Valir54.13%](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/yve.webp)Yve52.28%](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/natalia.webp)Natalia51.04%](https://boostmlbb.ru/en/heroes/natalia.html)
+[![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Who Gusion is strong against
 
 Gusion is listed as a counter for these heroes.
 
-[![](/images/heroes/roger.webp)Roger48.35%](https://boostmlbb.ru/en/heroes/roger.html)
+[![Roger](/images/heroes/roger.webp)Roger48.33%](https://boostmlbb.ru/en/heroes/roger.html)
+
+## Win rate by rank
+
+Best result in Mythical Glory (48.82%), weakest in Mythic (48.37%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**48.81%**
+-   ![](/images/ranks/Legend.webp)Legend**48.46%**
+-   ![](/images/ranks/Mythic.webp)Mythic**48.37%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.59%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.82%**
 
 ## Place in the meta
 
-Gusion sits in tier C of our win-rate tier list and ranks 99 of 133 heroes. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Gusion sits in tier C of our win-rate tier list and ranks 99 of 133 heroes. In Mythical Glory the result is almost the same: 48.82%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Mid Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
 
 ## Lore and skills
 
-![](/images/heroes/gusion.webp)
+![Gusion](/images/heroes/gusion.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Gusion page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gusion). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ By MOONTON’s official 30-day statistics: Aamon, Valir, Yve, X.Borg and Natalia
 
 What is Gusion’s win rate right now?
 
-48.61% over the last 30 days across all ranks and 48.82% in Mythical Glory, as of 21 November 2026.
+48.61% over the last 30 days across all ranks and 48.82% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Gusion play?
+
+Assassin, Mid Lane or Jungle, according to MOONTON’s official hero page.
+
+Is Gusion strong in the current meta?
+
+Tier C: #99 of 133 heroes by 30-day win rate and #18 among assassins.
+
+MLBB Boost editorial team · Updated 23 November 2026

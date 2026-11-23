@@ -1,6 +1,6 @@
 ---
 title: "Руби MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Руби в Mobile Legends, процент побед 49,12%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Руби в Mobile Legends: боец, линия опыта, 49,12% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/ruby.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Руби в Mobile Legends: контрпики и статистика
 
-Руби выигрывает 49,12% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта. Руби выигрывает 49,12% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -33,27 +33,52 @@ language: ru
 
 **0,31%**банят в матчах
 
-**48,64%**побед в Мифической славе
+**48,66%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Руби» — боец, играет на линии опыта. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Боец**
+-   Линия**Линия опыта**
+-   Среди бойцов**29-е из 44**
+-   На линии опыта**29-е из 42**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Руби». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Руби». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
 
-[![](/images/heroes/sun.webp)Сан53,69%](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/gloo.webp)Глу53,55%](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/argus.webp)Аргус56,76%](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/karina.webp)Карина48,55%](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/lunox.webp)Люнокс50,52%](https://boostmlbb.ru/heroes/lunox.html)
+[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Люнокс](/images/heroes/lunox.webp)Люнокс50,64%](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Против кого силён
 
-Для этих героев «Руби» сам числится контрпиком.
+«Руби» числится контрпиком для этих героев.
 
-[![](/images/heroes/phoveus.webp)Фовиус48,20%](https://boostmlbb.ru/heroes/phoveus.html)
+[![Фовиус](/images/heroes/phoveus.webp)Фовиус48,21%](https://boostmlbb.ru/heroes/phoveus.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Легенда» (49,65%), слабее всего — «Мифическая слава» (48,66%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**49,57%**
+-   ![](/images/ranks/Legend.webp)Легенда**49,65%**
+-   ![](/images/ranks/Mythic.webp)Мифический**49,53%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,36%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**48,66%**
 
 ## Место в мете
 
-«Руби» — тир B в нашем тир-листе по проценту побед, 89-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Руби» — тир B в нашем тир-листе по проценту побед, 88-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе результат почти такой же: 48,66%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии опыта
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)
 
 ## История и навыки
 
-![](/images/heroes/ruby.webp)
+![Руби](/images/heroes/ruby.webp)
 
 Историю героя, навыки и реплики собирает [страница Ruby в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ruby) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Руби» сейчас?
 
-49,12% за последние 30 дней на всех рангах и 48,64% в Мифической славе, данные на 21 ноября 2026 года.
+49,12% за последние 30 дней на всех рангах и 48,66% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Руби»?
+
+Боец, играет на линии опыта. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Руби» в текущей мете?
+
+Тир B: 88-е место из 133 героев по проценту побед за 30 дней и 29-е среди бойцов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

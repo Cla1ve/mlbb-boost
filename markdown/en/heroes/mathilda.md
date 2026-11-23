@@ -1,6 +1,6 @@
 ---
 title: "Mathilda MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Mathilda in Mobile Legends, 44.50% win rate, pick and ban rates from official 30-day statistics, tier D and patch 2.2.16 changes."
+description: "Who counters Mathilda in Mobile Legends: assassin and support, Roam, 44.49% win rate, tier D, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier D
 
 # Mathilda in Mobile Legends: counters and stats
 
-Mathilda wins 44.50% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin and support, Roam. Mathilda wins 44.49% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -25,9 +25,9 @@ Counters
 
 ![](/images/heroes/natalia.webp)![](/images/heroes/x-borg.webp)![](/images/heroes/valir.webp)
 
-Win rate, 30 days**44.50%**
+Win rate, 30 days**44.49%**
 
-**44.50%**win rate, 30 days
+**44.49%**win rate, 30 days
 
 **0.14%**pick rate
 
@@ -35,25 +35,51 @@ Win rate, 30 days**44.50%**
 
 **43.94%**wins in Mythical Glory
 
+## Role and lane
+
+MOONTON’s official hero page lists Mathilda as a assassin and support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Assassin and support**
+-   Lane**Roam**
+-   Among assassins**#27 of 29**
+-   Among supports**#15 of 15**
+-   On roam**#33 of 34**
+
 ## Who counters Mathilda
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Mathilda. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Mathilda. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
 
-[![](/images/heroes/natalia.webp)Natalia51.04%](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/valir.webp)Valir54.13%](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/helcurt.webp)Helcurt47.61%](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/benedetta.webp)Benedetta52.11%](https://boostmlbb.ru/en/heroes/benedetta.html)
+[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)
 
 ## Who Mathilda is strong against
 
 Mathilda is listed as a counter for these heroes.
 
-[![](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/cyclops.webp)Cyclops51.66%](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/alucard.webp)Alucard48.85%](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/odette.webp)Odette49.68%](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/khufra.webp)Khufra54.71%](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/edith.webp)Edith52.65%](https://boostmlbb.ru/en/heroes/edith.html)
+[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
+
+## Win rate by rank
+
+Best result in Epic (46.74%), weakest in Mythical Glory (43.94%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**46.74%**
+-   ![](/images/ranks/Legend.webp)Legend**45.26%**
+-   ![](/images/ranks/Mythic.webp)Mythic**45.15%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**44.99%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**43.94%**
 
 ## Place in the meta
 
-Mathilda sits in tier D of our win-rate tier list and ranks 129 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Mathilda sits in tier D of our win-rate tier list and ranks 129 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 43.94% against 44.49% across all ranks, a 0.55-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Roam heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
 
 ## Lore and skills
 
-![](/images/heroes/mathilda.webp)
+![Mathilda](/images/heroes/mathilda.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Mathilda page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Mathilda). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ By MOONTON’s official 30-day statistics: Natalia, X.Borg, Valir, Helcurt and B
 
 What is Mathilda’s win rate right now?
 
-44.50% over the last 30 days across all ranks and 43.94% in Mythical Glory, as of 21 November 2026.
+44.49% over the last 30 days across all ranks and 43.94% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Mathilda play?
+
+Assassin and support, Roam, according to MOONTON’s official hero page.
+
+Is Mathilda strong in the current meta?
+
+Tier D: #129 of 133 heroes by 30-day win rate and #27 among assassins.
+
+MLBB Boost editorial team · Updated 23 November 2026

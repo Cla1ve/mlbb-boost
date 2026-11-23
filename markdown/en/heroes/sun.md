@@ -1,6 +1,6 @@
 ---
 title: "Sun MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Sun in Mobile Legends, 53.69% win rate, pick and ban rates from official 30-day statistics, tier S and patch 2.2.16 changes."
+description: "Who counters Sun in Mobile Legends: fighter, EXP Lane or Jungle, 53.72% win rate, tier S, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier S
 
 # Sun in Mobile Legends: counters and stats
 
-Sun wins 53.69% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Sun wins 53.72% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,41 +19,67 @@ Hero statsTier S
 
 ![](/images/heroes/sun.webp)
 
-**Sun**Ban 34.40% · Pick 1.75%
+**Sun**Ban 35.31% · Pick 1.75%
 
 Counters
 
 ![](/images/heroes/jawhead.webp)![](/images/heroes/diggie.webp)![](/images/heroes/harley.webp)
 
-Win rate, 30 days**53.69%**
+Win rate, 30 days**53.72%**
 
-**53.69%**win rate, 30 days
+**53.72%**win rate, 30 days
 
 **1.75%**pick rate
 
-**34.40%**ban rate
+**35.31%**ban rate
 
-**52.52%**wins in Mythical Glory
+**52.58%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Sun as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Fighter**
+-   Lane**EXP Lane or Jungle**
+-   Among fighters**#3 of 44**
+-   In the EXP Lane**#3 of 42**
+-   In the jungle**#1 of 37**
 
 ## Who counters Sun
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Sun. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Sun. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
 
-[![](/images/heroes/jawhead.webp)Jawhead47.88%](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/diggie.webp)Diggie54.25%](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/harley.webp)Harley48.17%](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/saber.webp)Saber51.18%](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/karrie.webp)Karrie48.85%](https://boostmlbb.ru/en/heroes/karrie.html)
+[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)
 
 ## Who Sun is strong against
 
 Sun is listed as a counter for these heroes.
 
-[![](/images/heroes/badang.webp)Badang50.20%](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/kimmy.webp)Kimmy48.77%](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/alucard.webp)Alucard48.85%](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/natan.webp)Natan51.31%](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/marcel.webp)Marcel57.49%](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/faramis.webp)Faramis50.84%](https://boostmlbb.ru/en/heroes/faramis.html)
+[![Badang](/images/heroes/badang.webp)Badang50.19%](https://boostmlbb.ru/en/heroes/badang.html)[![Suyou](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![Kimmy](/images/heroes/kimmy.webp)Kimmy48.74%](https://boostmlbb.ru/en/heroes/kimmy.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Ruby](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
+
+## Win rate by rank
+
+Best result in Epic (55.91%), weakest in Mythical Glory (52.58%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**55.91%**
+-   ![](/images/ranks/Legend.webp)Legend**55.49%**
+-   ![](/images/ranks/Mythic.webp)Mythic**54.40%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**52.90%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**52.58%**
 
 ## Place in the meta
 
-Sun sits in tier S of our win-rate tier list and ranks 11 of 133 heroes. In patch 2.2.16 the hero was adjusted without a clear buff or nerf. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Sun sits in tier S of our win-rate tier list and ranks 11 of 133 heroes. In Mythical Glory the win rate is lower: 52.58% against 53.72% across all ranks, a 1.14-point gap. At that rank the hero is banned in 38.93% of matches. In patch 2.2.16 the hero was adjusted without a clear buff or nerf. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other EXP Lane heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)
 
 ## Lore and skills
 
-![](/images/heroes/sun.webp)
+![Sun](/images/heroes/sun.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Sun page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ By MOONTON’s official 30-day statistics: Jawhead, Diggie, Harley, Saber and Ka
 
 What is Sun’s win rate right now?
 
-53.69% over the last 30 days across all ranks and 52.52% in Mythical Glory, as of 21 November 2026.
+53.72% over the last 30 days across all ranks and 52.58% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Sun play?
+
+Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+
+Is Sun strong in the current meta?
+
+Tier S: #11 of 133 heroes by 30-day win rate and #3 among fighters.
+
+MLBB Boost editorial team · Updated 23 November 2026

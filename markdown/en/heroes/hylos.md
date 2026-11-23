@@ -1,6 +1,6 @@
 ---
 title: "Hylos MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Hylos in Mobile Legends, 48.55% win rate, pick and ban rates from official 30-day statistics, tier C and patch 2.2.16 changes."
+description: "Who counters Hylos in Mobile Legends: tank, Roam, 48.55% win rate, tier C, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/hylos.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier C
 
 # Hylos in Mobile Legends: counters and stats
 
-Hylos wins 48.55% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank, Roam. Hylos wins 48.55% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -23,7 +23,7 @@ Hero statsTier C
 
 Counters
 
-![](/images/heroes/zilong.webp)![](/images/heroes/layla.webp)![](/images/heroes/saber.webp)
+![](/images/heroes/zilong.webp)![](/images/heroes/layla.webp)![](/images/heroes/yin.webp)
 
 Win rate, 30 days**48.55%**
 
@@ -33,27 +33,52 @@ Win rate, 30 days**48.55%**
 
 **0.26%**ban rate
 
-**46.50%**wins in Mythical Glory
+**46.54%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Hylos as a tank for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Tank**
+-   Lane**Roam**
+-   Among tanks**#18 of 25**
+-   On roam**#24 of 34**
 
 ## Who counters Hylos
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Hylos. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Hylos. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
 
-[![](/images/heroes/zilong.webp)Zilong46.28%](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/saber.webp)Saber51.18%](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/yin.webp)Yin49.61%](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/nana.webp)Nana47.29%](https://boostmlbb.ru/en/heroes/nana.html)
+[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)
 
 ## Who Hylos is strong against
 
 Hylos is listed as a counter for these heroes.
 
-[![](/images/heroes/valir.webp)Valir54.13%](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/kimmy.webp)Kimmy48.77%](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/rafaela.webp)Rafaela54.57%](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/cecilion.webp)Cecilion50.98%](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/cici.webp)Cici49.40%](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/karrie.webp)Karrie48.85%](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/zhuxin.webp)Zhuxin49.60%](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/yve.webp)Yve52.28%](https://boostmlbb.ru/en/heroes/yve.html)
+[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Kimmy](/images/heroes/kimmy.webp)Kimmy48.74%](https://boostmlbb.ru/en/heroes/kimmy.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Cecilion](/images/heroes/cecilion.webp)Cecilion50.96%](https://boostmlbb.ru/en/heroes/cecilion.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)
+
+## Win rate by rank
+
+Best result in Epic (51.36%), weakest in Mythical Glory (46.54%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**51.36%**
+-   ![](/images/ranks/Legend.webp)Legend**50.68%**
+-   ![](/images/ranks/Mythic.webp)Mythic**49.68%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.41%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**46.54%**
 
 ## Place in the meta
 
-Hylos sits in tier C of our win-rate tier list and ranks 100 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In patch 2.2.16 the hero was adjusted without a clear buff or nerf. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Hylos sits in tier C of our win-rate tier list and ranks 101 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 46.54% against 48.55% across all ranks, a 2.01-point gap. In patch 2.2.16 the hero was adjusted without a clear buff or nerf. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Roam heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
 
 ## Lore and skills
 
-![](/images/heroes/hylos.webp)
+![Hylos](/images/heroes/hylos.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Hylos page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hylos). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 Who counters Hylos in MLBB?
 
-By MOONTON’s official 30-day statistics: Zilong, Layla, Saber, Yin and Nana.
+By MOONTON’s official 30-day statistics: Zilong, Layla, Yin, Nana and Saber.
 
 What is Hylos’s win rate right now?
 
-48.55% over the last 30 days across all ranks and 46.50% in Mythical Glory, as of 21 November 2026.
+48.55% over the last 30 days across all ranks and 46.54% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Hylos play?
+
+Tank, Roam, according to MOONTON’s official hero page.
+
+Is Hylos strong in the current meta?
+
+Tier C: #101 of 133 heroes by 30-day win rate and #18 among tanks.
+
+MLBB Boost editorial team · Updated 23 November 2026

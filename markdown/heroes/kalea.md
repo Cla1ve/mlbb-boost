@@ -1,6 +1,6 @@
 ---
 title: "Калеа MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Калеа в Mobile Legends, процент побед 50,40%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Калеа в Mobile Legends: боец и поддержка, роум, 50,44% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/kalea.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Калеа в Mobile Legends: контрпики и статистика
 
-Калеа выигрывает 50,40% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец и поддержка, роум. Калеа выигрывает 50,44% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,35 +19,61 @@ language: ru
 
 ![](/images/heroes/kalea.webp)
 
-**Калеа**Бан 6,33% · Выбор 0,68%
+**Калеа**Бан 6,50% · Выбор 0,68%
 
 Контрпики
 
-![](/images/heroes/fanny.webp)![](/images/heroes/lolita.webp)![](/images/heroes/helcurt.webp)
+![](/images/heroes/fanny.webp)![](/images/heroes/helcurt.webp)![](/images/heroes/lolita.webp)
 
-Победы за 30 дней**50,40%**
+Победы за 30 дней**50,44%**
 
-**50,40%**побед за 30 дней
+**50,44%**побед за 30 дней
 
 **0,68%**выбирают в матчах
 
-**6,33%**банят в матчах
+**6,50%**банят в матчах
 
-**51,14%**побед в Мифической славе
+**51,18%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Калеа» — боец и поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Боец и поддержка**
+-   Линия**Роум**
+-   Среди бойцов**16-е из 44**
+-   Среди героев поддержки**10-е из 15**
+-   В роуме**17-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Калеа». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Калеа». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/fanny.webp)Фанни42,62%](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/helcurt.webp)Хелкарт47,61%](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/khaleed.webp)Халид50,37%](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/yve.webp)Ив52,28%](https://boostmlbb.ru/heroes/yve.html)
+[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Халид](/images/heroes/khaleed.webp)Халид50,35%](https://boostmlbb.ru/heroes/khaleed.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (51,18%), слабее всего — «Легенда» (49,02%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**49,09%**
+-   ![](/images/ranks/Legend.webp)Легенда**49,02%**
+-   ![](/images/ranks/Mythic.webp)Мифический**49,72%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,80%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**51,18%**
 
 ## Место в мете
 
-«Калеа» — тир B в нашем тир-листе по проценту побед, 51-е место из 133 героев. В патче 2.2.16 герой усилен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Калеа» — тир B в нашем тир-листе по проценту побед, 51-е место из 133 героев. В Мифической славе процент побед выше: 51,18% против 50,44% на всех рангах, разница 0,74 п. п. В патче 2.2.16 герой усилен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
 
 ## История и навыки
 
-![](/images/heroes/kalea.webp)
+![Калеа](/images/heroes/kalea.webp)
 
 Историю героя, навыки и реплики собирает [страница Kalea в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kalea) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -61,10 +87,18 @@ language: ru
 
 Кто контрпик для героя «Калеа» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Фанни, Лолита, Хелкарт, Халид и Ив.
+По официальной статистике MOONTON за 30 дней: Фанни, Хелкарт, Лолита, Халид и Ив.
 
 Какой процент побед у героя «Калеа» сейчас?
 
-50,40% за последние 30 дней на всех рангах и 51,14% в Мифической славе, данные на 21 ноября 2026 года.
+50,44% за последние 30 дней на всех рангах и 51,18% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Калеа»?
+
+Боец и поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Калеа» в текущей мете?
+
+Тир B: 51-е место из 133 героев по проценту побед за 30 дней и 16-е среди бойцов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

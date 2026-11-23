@@ -1,6 +1,6 @@
 ---
 title: "Франко MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Франко в Mobile Legends, процент побед 41,57%, выбора и банов по официальной статистике за 30 дней, тир D и патч 2.2.16."
+description: "Кто контрит героя Франко в Mobile Legends: танк, роум, 41,58% побед, тир D, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/franco.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Франко в Mobile Legends: контрпики и статистика
 
-Франко выигрывает 41,57% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк, роум. Франко выигрывает 41,58% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -25,35 +25,60 @@ language: ru
 
 ![](/images/heroes/diggie.webp)![](/images/heroes/angela.webp)![](/images/heroes/fanny.webp)
 
-Победы за 30 дней**41,57%**
+Победы за 30 дней**41,58%**
 
-**41,57%**побед за 30 дней
+**41,58%**побед за 30 дней
 
 **0,94%**выбирают в матчах
 
 **3,11%**банят в матчах
 
-**39,87%**побед в Мифической славе
+**39,92%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Франко» — танк, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Танк**
+-   Линия**Роум**
+-   Среди танков**25-е из 25**
+-   В роуме**34-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Франко». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Франко». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
 
-[![](/images/heroes/diggie.webp)Дигги54,25%](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/angela.webp)Ангела49,97%](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/fanny.webp)Фанни42,62%](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/floryn.webp)Флорин54,06%](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/freya.webp)Фрейя49,23%](https://boostmlbb.ru/heroes/freya.html)
+[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)
 
 ## Против кого силён
 
-Для этих героев «Франко» сам числится контрпиком.
+«Франко» числится контрпиком для этих героев.
 
-[![](/images/heroes/tigreal.webp)Тигрил45,20%](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/johnson.webp)Джонсон49,22%](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/hanzo.webp)Ханзо49,89%](https://boostmlbb.ru/heroes/hanzo.html)
+[![Тигрил](/images/heroes/tigreal.webp)Тигрил45,22%](https://boostmlbb.ru/heroes/tigreal.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (44,00%), слабее всего — «Мифическая слава» (39,92%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**44,00%**
+-   ![](/images/ranks/Legend.webp)Легенда**42,12%**
+-   ![](/images/ranks/Mythic.webp)Мифический**41,78%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**41,26%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**39,92%**
 
 ## Место в мете
 
-«Франко» — тир D в нашем тир-листе по проценту побед, 133-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Франко» — тир D в нашем тир-листе по проценту побед, 133-е место из 133 героев. В Мифической славе процент побед ниже: 39,92% против 41,58% на всех рангах, разница 1,66 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
 
 ## История и навыки
 
-![](/images/heroes/franco.webp)
+![Франко](/images/heroes/franco.webp)
 
 Историю героя, навыки и реплики собирает [страница Franco в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Franco) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Франко» сейчас?
 
-41,57% за последние 30 дней на всех рангах и 39,87% в Мифической славе, данные на 21 ноября 2026 года.
+41,58% за последние 30 дней на всех рангах и 39,92% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Франко»?
+
+Танк, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Франко» в текущей мете?
+
+Тир D: 133-е место из 133 героев по проценту побед за 30 дней и 25-е среди танков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

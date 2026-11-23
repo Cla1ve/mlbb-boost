@@ -1,6 +1,6 @@
 ---
 title: "Дариус MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Дариус в Mobile Legends, процент побед 49,30%, выбора и банов по официальной статистике за 30 дней, тир B и патч 2.2.16."
+description: "Кто контрит героя Дариус в Mobile Legends: боец, линия опыта или лес, 49,30% побед, тир B, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/dyrroth.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Дариус в Mobile Legends: контрпики и статистика
 
-Дариус выигрывает 49,30% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта или лес. Дариус выигрывает 49,30% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -23,7 +23,7 @@ language: ru
 
 Контрпики
 
-![](/images/heroes/esmeralda.webp)![](/images/heroes/alice.webp)![](/images/heroes/uranus.webp)
+![](/images/heroes/esmeralda.webp)![](/images/heroes/uranus.webp)![](/images/heroes/alice.webp)
 
 Победы за 30 дней**49,30%**
 
@@ -35,25 +35,51 @@ language: ru
 
 **51,36%**побед в Мифической славе
 
+## Роль и линия
+
+По официальной странице героев MOONTON «Дариус» — боец, играет на линии опыта или в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Боец**
+-   Линия**Линия опыта или лес**
+-   Среди бойцов**28-е из 44**
+-   На линии опыта**28-е из 42**
+-   В лесу**21-е из 37**
+
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Дариус». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Дариус». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — маги.
 
-[![](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/alice.webp)Алиса50,73%](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/uranus.webp)Уранус49,33%](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/valentina.webp)Валентина44,76%](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/zhuxin.webp)Чжусинь49,60%](https://boostmlbb.ru/heroes/zhuxin.html)
+[![Эсмеральда](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![Уранус](/images/heroes/uranus.webp)Уранус49,34%](https://boostmlbb.ru/heroes/uranus.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь49,57%](https://boostmlbb.ru/heroes/zhuxin.html)
 
 ## Против кого силён
 
-Для этих героев «Дариус» сам числится контрпиком.
+«Дариус» числится контрпиком для этих героев.
 
-[![](/images/heroes/nana.webp)Нана47,29%](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/johnson.webp)Джонсон49,22%](https://boostmlbb.ru/heroes/johnson.html)
+[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (51,36%), слабее всего — «Эпик» (47,75%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**47,75%**
+-   ![](/images/ranks/Legend.webp)Легенда**47,87%**
+-   ![](/images/ranks/Mythic.webp)Мифический**48,20%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**50,89%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**51,36%**
 
 ## Место в мете
 
-«Дариус» — тир B в нашем тир-листе по проценту побед, 85-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Дариус» — тир B в нашем тир-листе по проценту побед, 86-е место из 133 героев. В Мифической славе процент побед выше: 51,36% против 49,30% на всех рангах, разница 2,06 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии опыта
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)
 
 ## История и навыки
 
-![](/images/heroes/dyrroth.webp)
+![Дариус](/images/heroes/dyrroth.webp)
 
 Историю героя, навыки и реплики собирает [страница Dyrroth в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Dyrroth) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +93,18 @@ language: ru
 
 Кто контрпик для героя «Дариус» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Эсмеральда, Алиса, Уранус, Валентина и Чжусинь.
+По официальной статистике MOONTON за 30 дней: Эсмеральда, Уранус, Алиса, Валентина и Чжусинь.
 
 Какой процент побед у героя «Дариус» сейчас?
 
-49,30% за последние 30 дней на всех рангах и 51,36% в Мифической славе, данные на 21 ноября 2026 года.
+49,30% за последние 30 дней на всех рангах и 51,36% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Дариус»?
+
+Боец, играет на линии опыта или в лесу. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Дариус» в текущей мете?
+
+Тир B: 86-е место из 133 героев по проценту побед за 30 дней и 28-е среди бойцов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

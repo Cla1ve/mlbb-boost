@@ -1,6 +1,6 @@
 ---
 title: "Сабер MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Сабер в Mobile Legends, процент побед 51,18%, выбора и банов по официальной статистике за 30 дней, тир A и патч 2.2.16."
+description: "Кто контрит героя Сабер в Mobile Legends: убийца, лес или роум, 51,21% побед, тир A, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/saber.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Сабер в Mobile Legends: контрпики и статистика
 
-Сабер выигрывает 51,18% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес или роум. Сабер выигрывает 51,21% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,67 @@ language: ru
 
 ![](/images/heroes/saber.webp)
 
-**Сабер**Бан 25,00% · Выбор 1,02%
+**Сабер**Бан 25,07% · Выбор 1,02%
 
 Контрпики
 
 ![](/images/heroes/ling.webp)![](/images/heroes/nolan.webp)![](/images/heroes/natalia.webp)
 
-Победы за 30 дней**51,18%**
+Победы за 30 дней**51,21%**
 
-**51,18%**побед за 30 дней
+**51,21%**побед за 30 дней
 
 **1,02%**выбирают в матчах
 
-**25,00%**банят в матчах
+**25,07%**банят в матчах
 
-**53,50%**побед в Мифической славе
+**53,51%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Сабер» — убийца, играет в лесу или в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Убийца**
+-   Линия**Лес или роум**
+-   Среди убийц**4-е из 29**
+-   В лесу**8-е из 37**
+-   В роуме**13-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сабер». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сабер». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/ling.webp)Линг52,56%](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/nolan.webp)Нолан49,70%](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/natalia.webp)Наталья51,04%](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/lunox.webp)Люнокс50,52%](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/yve.webp)Ив52,28%](https://boostmlbb.ru/heroes/yve.html)
+[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Люнокс](/images/heroes/lunox.webp)Люнокс50,64%](https://boostmlbb.ru/heroes/lunox.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)
 
 ## Против кого силён
 
-Для этих героев «Сабер» сам числится контрпиком.
+«Сабер» числится контрпиком для этих героев.
 
-[![](/images/heroes/hanabi.webp)Ханаби52,64%](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/miya.webp)Мия49,72%](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/sun.webp)Сан53,69%](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/nana.webp)Нана47,29%](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/alpha.webp)Альфа48,84%](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/johnson.webp)Джонсон49,22%](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/balmond.webp)Бальмонд46,68%](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/martis.webp)Мартис47,24%](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/hilda.webp)Хильда51,07%](https://boostmlbb.ru/heroes/hilda.html)
+[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Мия](/images/heroes/miya.webp)Мия49,71%](https://boostmlbb.ru/heroes/miya.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Альфа](/images/heroes/alpha.webp)Альфа48,85%](https://boostmlbb.ru/heroes/alpha.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Мартис](/images/heroes/martis.webp)Мартис47,23%](https://boostmlbb.ru/heroes/martis.html)[![Хильда](/images/heroes/hilda.webp)Хильда51,07%](https://boostmlbb.ru/heroes/hilda.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (53,51%), слабее всего — «Эпик» (48,42%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**48,42%**
+-   ![](/images/ranks/Legend.webp)Легенда**50,03%**
+-   ![](/images/ranks/Mythic.webp)Мифический**51,12%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**51,13%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**53,51%**
 
 ## Место в мете
 
-«Сабер» — тир A в нашем тир-листе по проценту побед, 41-е место из 133 героев. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Сабер» — тир A в нашем тир-листе по проценту побед, 41-е место из 133 героев. В Мифической славе процент побед выше: 53,51% против 51,21% на всех рангах, разница 2,30 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои леса
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
 
 ## История и навыки
 
-![](/images/heroes/saber.webp)
+![Сабер](/images/heroes/saber.webp)
 
 Историю героя, навыки и реплики собирает [страница Saber в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Saber) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +97,14 @@ language: ru
 
 Какой процент побед у героя «Сабер» сейчас?
 
-51,18% за последние 30 дней на всех рангах и 53,50% в Мифической славе, данные на 21 ноября 2026 года.
+51,21% за последние 30 дней на всех рангах и 53,51% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Сабер»?
+
+Убийца, играет в лесу или в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Сабер» в текущей мете?
+
+Тир A: 41-е место из 133 героев по проценту побед за 30 дней и 4-е среди убийц.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

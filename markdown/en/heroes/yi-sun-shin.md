@@ -1,6 +1,6 @@
 ---
 title: "Yi Sun-shin MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Yi Sun-shin in Mobile Legends, 49.14% win rate, pick and ban rates from official 30-day statistics, tier B and patch 2.2.16 changes."
+description: "Who counters Yi Sun-shin in Mobile Legends: assassin and marksman, Jungle, 49.11% win rate, tier B, pick and ban rates from official 30-day statistics."
 canonical: https://boostmlbb.ru/en/heroes/yi-sun-shin.html
 language: en
 ---
@@ -11,7 +11,7 @@ Tier B
 
 # Yi Sun-shin in Mobile Legends: counters and stats
 
-Yi Sun-shin wins 49.14% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin and marksman, Jungle. Yi Sun-shin wins 49.11% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -19,35 +19,61 @@ Hero statsTier B
 
 ![](/images/heroes/yi-sun-shin.webp)
 
-**Yi Sun-shin**Ban 2.62% · Pick 0.96%
+**Yi Sun-shin**Ban 2.56% · Pick 0.95%
 
 Counters
 
-![](/images/heroes/thamuz.webp)![](/images/heroes/khufra.webp)![](/images/heroes/benedetta.webp)
+![](/images/heroes/khufra.webp)![](/images/heroes/thamuz.webp)![](/images/heroes/benedetta.webp)
 
-Win rate, 30 days**49.14%**
+Win rate, 30 days**49.11%**
 
-**49.14%**win rate, 30 days
+**49.11%**win rate, 30 days
 
-**0.96%**pick rate
+**0.95%**pick rate
 
-**2.62%**ban rate
+**2.56%**ban rate
 
-**48.79%**wins in Mythical Glory
+**48.76%**wins in Mythical Glory
+
+## Role and lane
+
+MOONTON’s official hero page lists Yi Sun-shin as a assassin and marksman for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+
+-   Role**Assassin and marksman**
+-   Lane**Jungle**
+-   Among assassins**#15 of 29**
+-   Among marksmen**#16 of 23**
+-   In the jungle**#22 of 37**
 
 ## Who counters Yi Sun-shin
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Yi Sun-shin. The number is each hero’s own win rate.
+MOONTON’s official statistics list these heroes as the toughest opponents for Yi Sun-shin. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
 
-[![](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/khufra.webp)Khufra54.71%](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/benedetta.webp)Benedetta52.11%](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/melissa.webp)Melissa49.98%](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/nana.webp)Nana47.29%](https://boostmlbb.ru/en/heroes/nana.html)
+[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)
+
+## Win rate by rank
+
+Best result in Epic (51.81%), weakest in Mythical Glory (48.76%). Official MOONTON statistics for the last 30 days.
+
+-   ![](/images/ranks/Epic.webp)Epic**51.81%**
+-   ![](/images/ranks/Legend.webp)Legend**49.69%**
+-   ![](/images/ranks/Mythic.webp)Mythic**49.00%**
+-   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.26%**
+-   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.76%**
 
 ## Place in the meta
 
-Yi Sun-shin sits in tier B of our win-rate tier list and ranks 88 of 133 heroes. In patch 2.2.16 the hero was nerfed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+Yi Sun-shin sits in tier B of our win-rate tier list and ranks 89 of 133 heroes. In Mythical Glory the result is almost the same: 48.76%. In patch 2.2.16 the hero was nerfed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
+
+## Other Jungle heroes
+
+The strongest by win rate over the last 30 days.
+
+[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Lore and skills
 
-![](/images/heroes/yi-sun-shin.webp)
+![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)
 
 The hero’s backstory, skills and voice lines are collected on the [Yi Sun-shin page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yi_Sun-shin). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
 
@@ -61,10 +87,18 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 Who counters Yi Sun-shin in MLBB?
 
-By MOONTON’s official 30-day statistics: Thamuz, Khufra, Benedetta, Melissa and Nana.
+By MOONTON’s official 30-day statistics: Khufra, Thamuz, Benedetta, Melissa and Nana.
 
 What is Yi Sun-shin’s win rate right now?
 
-49.14% over the last 30 days across all ranks and 48.79% in Mythical Glory, as of 21 November 2026.
+49.11% over the last 30 days across all ranks and 48.76% in Mythical Glory, as of 23 November 2026.
 
-MLBB Boost editorial team · Updated 22 November 2026
+What role and lane does Yi Sun-shin play?
+
+Assassin and marksman, Jungle, according to MOONTON’s official hero page.
+
+Is Yi Sun-shin strong in the current meta?
+
+Tier B: #89 of 133 heroes by 30-day win rate and #15 among assassins.
+
+MLBB Boost editorial team · Updated 23 November 2026

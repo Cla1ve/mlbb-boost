@@ -1,6 +1,6 @@
 ---
 title: "Кагура MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Кагура в Mobile Legends, процент побед 51,13%, выбора и банов по официальной статистике за 30 дней, тир A и патч 2.2.16."
+description: "Кто контрит героя Кагура в Mobile Legends: маг, средняя линия, 51,09% побед, тир A, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/kagura.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Кагура в Mobile Legends: контрпики и статистика
 
-Кагура выигрывает 51,13% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг, средняя линия. Кагура выигрывает 51,09% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,41 +19,66 @@ language: ru
 
 ![](/images/heroes/kagura.webp)
 
-**Кагура**Бан 1,14% · Выбор 0,74%
+**Кагура**Бан 1,15% · Выбор 0,75%
 
 Контрпики
 
 ![](/images/heroes/lolita.webp)![](/images/heroes/silvanna.webp)![](/images/heroes/valir.webp)
 
-Победы за 30 дней**51,13%**
+Победы за 30 дней**51,09%**
 
-**51,13%**побед за 30 дней
+**51,09%**побед за 30 дней
 
-**0,74%**выбирают в матчах
+**0,75%**выбирают в матчах
 
-**1,14%**банят в матчах
+**1,15%**банят в матчах
 
-**50,67%**побед в Мифической славе
+**50,64%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Кагура» — маг, играет на средней линии. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Маг**
+-   Линия**Средняя линия**
+-   Среди магов**9-е из 32**
+-   На средней линии**8-е из 29**
 
 ## Кто контрит этого героя
 
 Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Кагура». Под иконкой — их собственный процент побед.
 
-[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/valir.webp)Валир54,13%](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/hanzo.webp)Ханзо49,89%](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/hanabi.webp)Ханаби52,64%](https://boostmlbb.ru/heroes/hanabi.html)
+[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)
 
 ## Против кого силён
 
-Для этих героев «Кагура» сам числится контрпиком.
+«Кагура» числится контрпиком для этих героев.
 
-[![](/images/heroes/freya.webp)Фрейя49,23%](https://boostmlbb.ru/heroes/freya.html)
+[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Легенда» (51,68%), слабее всего — «Мифическая слава» (50,64%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**51,13%**
+-   ![](/images/ranks/Legend.webp)Легенда**51,68%**
+-   ![](/images/ranks/Mythic.webp)Мифический**51,45%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**51,67%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**50,64%**
 
 ## Место в мете
 
-«Кагура» — тир A в нашем тир-листе по проценту побед, 42-е место из 133 героев. В патче 2.2.16 герой усилен. За год клиенты BOOST MLBB заказали 16 бустов на герое «Кагура». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Кагура» — тир A в нашем тир-листе по проценту побед, 42-е место из 133 героев. В Мифической славе результат почти такой же: 50,64%. В патче 2.2.16 герой усилен. За год клиенты BOOST MLBB заказали 16 бустов на герое «Кагура». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои средней линии
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)
 
 ## История и навыки
 
-![](/images/heroes/kagura.webp)
+![Кагура](/images/heroes/kagura.webp)
 
 Историю героя, навыки и реплики собирает [страница Kagura в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kagura) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +92,18 @@ language: ru
 
 Кто контрпик для героя «Кагура» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Лолита, Сильвана, Валир, Ханзо и Ханаби.
+По официальной статистике MOONTON за 30 дней: Лолита, Сильвана, Валир, Ханаби и Ханзо.
 
 Какой процент побед у героя «Кагура» сейчас?
 
-51,13% за последние 30 дней на всех рангах и 50,67% в Мифической славе, данные на 21 ноября 2026 года.
+51,09% за последние 30 дней на всех рангах и 50,64% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Кагура»?
+
+Маг, играет на средней линии. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Кагура» в текущей мете?
+
+Тир A: 42-е место из 133 героев по проценту побед за 30 дней и 9-е среди магов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

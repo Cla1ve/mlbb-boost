@@ -1,6 +1,6 @@
 ---
 title: "Чип MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Чип в Mobile Legends, процент побед 47,60%, выбора и банов по официальной статистике за 30 дней, тир C и патч 2.2.16."
+description: "Кто контрит героя Чип в Mobile Legends: танк и поддержка, роум, 47,60% побед, тир C, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/chip.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Чип в Mobile Legends: контрпики и статистика
 
-Чип выигрывает 47,60% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк и поддержка, роум. Чип выигрывает 47,60% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -33,27 +33,53 @@ language: ru
 
 **0,21%**банят в матчах
 
-**48,19%**побед в Мифической славе
+**48,16%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Чип» — танк и поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Танк и поддержка**
+-   Линия**Роум**
+-   Среди танков**19-е из 25**
+-   Среди героев поддержки**14-е из 15**
+-   В роуме**27-е из 34**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Чип». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Чип». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/zilong.webp)Зилонг46,28%](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Хелкарт47,61%](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/valentina.webp)Валентина44,76%](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/selena.webp)Селена48,33%](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/arlott.webp)Арлотт47,49%](https://boostmlbb.ru/heroes/arlott.html)
+[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)[![Селена](/images/heroes/selena.webp)Селена48,34%](https://boostmlbb.ru/heroes/selena.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)
 
 ## Против кого силён
 
-Для этих героев «Чип» сам числится контрпиком.
+«Чип» числится контрпиком для этих героев.
 
-[![](/images/heroes/vexana.webp)Вексана49,31%](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/carmilla.webp)Кармилла53,32%](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/alice.webp)Алиса50,73%](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/balmond.webp)Бальмонд46,68%](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/martis.webp)Мартис47,24%](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/odette.webp)Одетта49,68%](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
+[![Вексана](/images/heroes/vexana.webp)Вексана49,30%](https://boostmlbb.ru/heroes/vexana.html)[![Кармилла](/images/heroes/carmilla.webp)Кармилла53,29%](https://boostmlbb.ru/heroes/carmilla.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Мартис](/images/heroes/martis.webp)Мартис47,23%](https://boostmlbb.ru/heroes/martis.html)[![Одетта](/images/heroes/odette.webp)Одетта49,69%](https://boostmlbb.ru/heroes/odette.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (48,16%), слабее всего — «Мифическая честь» (46,94%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**46,97%**
+-   ![](/images/ranks/Legend.webp)Легенда**47,07%**
+-   ![](/images/ranks/Mythic.webp)Мифический**47,37%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**46,94%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**48,16%**
 
 ## Место в мете
 
-«Чип» — тир C в нашем тир-листе по проценту побед, 113-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Чип» — тир C в нашем тир-листе по проценту побед, 112-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе процент побед выше: 48,16% против 47,60% на всех рангах, разница 0,56 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои роума
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
 
 ## История и навыки
 
-![](/images/heroes/chip.webp)
+![Чип](/images/heroes/chip.webp)
 
 Историю героя, навыки и реплики собирает [страница Chip в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chip) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -67,10 +93,18 @@ language: ru
 
 Кто контрпик для героя «Чип» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Зилонг, Хелкарт, Валентина, Селена и Арлотт.
+По официальной статистике MOONTON за 30 дней: Зилонг, Хелкарт, Валентина, Селена и Флорин.
 
 Какой процент побед у героя «Чип» сейчас?
 
-47,60% за последние 30 дней на всех рангах и 48,19% в Мифической славе, данные на 21 ноября 2026 года.
+47,60% за последние 30 дней на всех рангах и 48,16% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Чип»?
+
+Танк и поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Чип» в текущей мете?
+
+Тир C: 112-е место из 133 героев по проценту побед за 30 дней и 19-е среди танков.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

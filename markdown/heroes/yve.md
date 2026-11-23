@@ -1,6 +1,6 @@
 ---
 title: "Ив MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Ив в Mobile Legends, процент побед 52,28%, выбора и банов по официальной статистике за 30 дней, тир A и патч 2.2.16."
+description: "Кто контрит героя Ив в Mobile Legends: маг, средняя линия, 52,26% побед, тир A, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/yve.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Ив в Mobile Legends: контрпики и статистика
 
-Ив выигрывает 52,28% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг, средняя линия. Ив выигрывает 52,26% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -25,35 +25,60 @@ language: ru
 
 ![](/images/heroes/lolita.webp)![](/images/heroes/hylos.webp)![](/images/heroes/barats.webp)
 
-Победы за 30 дней**52,28%**
+Победы за 30 дней**52,26%**
 
-**52,28%**побед за 30 дней
+**52,26%**побед за 30 дней
 
 **0,06%**выбирают в матчах
 
 **0,04%**банят в матчах
 
-**52,50%**побед в Мифической славе
+**52,47%**побед в Мифической славе
+
+## Роль и линия
+
+По официальной странице героев MOONTON «Ив» — маг, играет на средней линии. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Маг**
+-   Линия**Средняя линия**
+-   Среди магов**4-е из 32**
+-   На средней линии**4-е из 29**
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Ив». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Ив». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — танки.
 
-[![](/images/heroes/lolita.webp)Лолита53,31%](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/alice.webp)Алиса50,73%](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)
+[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)
 
 ## Против кого силён
 
-Для этих героев «Ив» сам числится контрпиком.
+«Ив» числится контрпиком для этих героев.
 
-[![](/images/heroes/nolan.webp)Нолан49,70%](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/selena.webp)Селена48,33%](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/saber.webp)Сабер51,18%](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/freya.webp)Фрейя49,23%](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/hayabusa.webp)Хаябуса48,14%](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/kalea.webp)Калеа50,40%](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/fanny.webp)Фанни42,62%](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)
+[![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Селена](/images/heroes/selena.webp)Селена48,34%](https://boostmlbb.ru/heroes/selena.html)[![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Госсен](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)[![Гвиневра](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)[![Хаябуса](/images/heroes/hayabusa.webp)Хаябуса48,15%](https://boostmlbb.ru/heroes/hayabusa.html)[![Калеа](/images/heroes/kalea.webp)Калеа50,44%](https://boostmlbb.ru/heroes/kalea.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Мифическая слава» (52,47%), слабее всего — «Мифический» (51,35%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**52,01%**
+-   ![](/images/ranks/Legend.webp)Легенда**51,39%**
+-   ![](/images/ranks/Mythic.webp)Мифический**51,35%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**52,30%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**52,47%**
 
 ## Место в мете
 
-«Ив» — тир A в нашем тир-листе по проценту побед, 24-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Ив» — тир A в нашем тир-листе по проценту побед, 24-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе результат почти такой же: 52,47%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои средней линии
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)
 
 ## История и навыки
 
-![](/images/heroes/yve.webp)
+![Ив](/images/heroes/yve.webp)
 
 Историю героя, навыки и реплики собирает [страница Yve в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yve) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -71,6 +96,14 @@ language: ru
 
 Какой процент побед у героя «Ив» сейчас?
 
-52,28% за последние 30 дней на всех рангах и 52,50% в Мифической славе, данные на 21 ноября 2026 года.
+52,26% за последние 30 дней на всех рангах и 52,47% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Ив»?
+
+Маг, играет на средней линии. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Ив» в текущей мете?
+
+Тир A: 24-е место из 133 героев по проценту побед за 30 дней и 4-е среди магов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026

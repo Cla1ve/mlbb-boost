@@ -1,6 +1,6 @@
 ---
 title: "Чу MLBB: контрпики, процент побед и тир | MLBB Boost"
-description: "Кто контрит героя Чу в Mobile Legends, процент побед 45,10%, выбора и банов по официальной статистике за 30 дней, тир D и патч 2.2.16."
+description: "Кто контрит героя Чу в Mobile Legends: боец, линия опыта или роум, 45,10% побед, тир D, выборы и баны по официальной статистике за 30 дней."
 canonical: https://boostmlbb.ru/heroes/chou.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Чу в Mobile Legends: контрпики и статистика
 
-Чу выигрывает 45,10% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта или роум. Чу выигрывает 45,10% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -19,7 +19,7 @@ language: ru
 
 ![](/images/heroes/chou.webp)
 
-**Чу**Бан 3,10% · Выбор 1,04%
+**Чу**Бан 3,09% · Выбор 1,04%
 
 Контрпики
 
@@ -31,23 +31,49 @@ language: ru
 
 **1,04%**выбирают в матчах
 
-**3,10%**банят в матчах
+**3,09%**банят в матчах
 
 **44,70%**побед в Мифической славе
 
+## Роль и линия
+
+По официальной странице героев MOONTON «Чу» — боец, играет на линии опыта или в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+
+-   Роль**Боец**
+-   Линия**Линия опыта или роум**
+-   Среди бойцов**44-е из 44**
+-   На линии опыта**42-е из 42**
+-   В роуме**32-е из 34**
+
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Чу». Под иконкой — их собственный процент побед.
+Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Чу». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
 
-[![](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/fanny.webp)Фанни42,62%](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/beatrix.webp)Беатрис50,37%](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Иксия50,06%](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/natalia.webp)Наталья51,04%](https://boostmlbb.ru/heroes/natalia.html)
+[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)
+
+## Процент побед по рангам
+
+Лучший результат — на ранге «Эпик» (45,38%), слабее всего — «Мифическая слава» (44,70%). Официальная статистика MOONTON за последние 30 дней.
+
+-   ![](/images/ranks/Epic.webp)Эпик**45,38%**
+-   ![](/images/ranks/Legend.webp)Легенда**45,34%**
+-   ![](/images/ranks/Mythic.webp)Мифический**45,20%**
+-   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**45,32%**
+-   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**44,70%**
 
 ## Место в мете
 
-«Чу» — тир D в нашем тир-листе по проценту побед, 127-е место из 133 героев. За год клиенты BOOST MLBB заказали 21 бустов на герое «Чу». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+«Чу» — тир D в нашем тир-листе по проценту побед, 127-е место из 133 героев. В Мифической славе результат почти такой же: 44,70%. За год клиенты BOOST MLBB заказали 21 бустов на герое «Чу». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+
+## Другие герои линии опыта
+
+Самые сильные по проценту побед за последние 30 дней.
+
+[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)
 
 ## История и навыки
 
-![](/images/heroes/chou.webp)
+![Чу](/images/heroes/chou.webp)
 
 Историю героя, навыки и реплики собирает [страница Chou в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chou) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
 
@@ -65,6 +91,14 @@ language: ru
 
 Какой процент побед у героя «Чу» сейчас?
 
-45,10% за последние 30 дней на всех рангах и 44,70% в Мифической славе, данные на 21 ноября 2026 года.
+45,10% за последние 30 дней на всех рангах и 44,70% в Мифической славе, данные на 23 ноября 2026 года.
 
-Редакция MLBB Boost · Обновлено 22 ноября 2026
+Какая роль и линия у героя «Чу»?
+
+Боец, играет на линии опыта или в роуме. Так героя распределяет официальная страница героев MOONTON.
+
+Силён ли герой «Чу» в текущей мете?
+
+Тир D: 127-е место из 133 героев по проценту побед за 30 дней и 44-е среди бойцов.
+
+Редакция MLBB Boost · Обновлено 23 ноября 2026
