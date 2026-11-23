@@ -1464,14 +1464,14 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=2">`;
+  <link rel="stylesheet" href="/styles/arena.css?v=3">`;
 }
 
 function renderScripts() {
   return `
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=6"></script>`;
+  <script defer src="/js/news.js?v=7"></script>`;
 }
 
 function renderCard(post, { featured = false, eager = false, href = null, locale = 'ru' } = {}) {
@@ -1657,6 +1657,10 @@ const rankAssets = [
   ['Мифик','Mythic','Mythic'], ['Мифическая честь','Mythical Honor','Mythical_Honor'],
   ['Мифическая слава','Mythical Glory','Mythical_Glory'], ['Мифический бессмертный','Mythical Immortal','Mythical_Immortal']
 ];
+const laneAssets = [
+  ['Линия опыта', 'EXP Lane', 'exp'], ['Линия золота', 'Gold Lane', 'gold'],
+  ['Средняя линия', 'Mid Lane', 'mid'], ['Лес', 'Jungle', 'jungle'], ['Роум', 'Roam', 'roam']
+];
 const articleVisuals = Object.fromEntries(['ru', 'en'].map(lang => {
   const entries = new Map();
   for (const hero of articleHeroes) entries.set(hero[lang], { src: `/images/heroes/${hero.slug}.webp`, href: siteHref(`/heroes/${hero.slug}.html`,lang) });
@@ -1665,6 +1669,7 @@ const articleVisuals = Object.fromEntries(['ru', 'en'].map(lang => {
       if (entry.icon) entries.set(entry[lang], { src: entry.icon });
     }
   }
+  for (const [ru, en, slug] of laneAssets) entries.set(lang === 'en' ? en : ru, { src: `/images/mlbb/filters/${slug}.webp` });
   return [lang, entries];
 }));
 function tableCell(text, locale, visuals) {
@@ -1675,9 +1680,17 @@ function tableCell(text, locale, visuals) {
     const content = `<img src="${escapeHtml(src)}" width="32" height="32" loading="lazy" alt=""><span>${escapeHtml(parts[i])}</span>`;
     return href ? `<a href="${escapeHtml(href)}">${content}</a>` : `<span>${content}</span>`;
   }).join('')}</span>`;
-  const clean = text.replace(/^\d+\.\s*/, '');
-  const rank = rankAssets.find(row => { const name = row[locale === 'en' ? 1 : 0]; return clean === name || clean.startsWith(name+' (') || new RegExp('^'+name+' [IVX]+$').test(clean); });
-  return rank ? `<span class="journal-icons"><span><img src="/images/ranks/${rank[2]}.webp" width="32" height="32" alt="" loading="lazy"><span>${escapeHtml(text)}</span></span></span>` : escapeHtml(text);
+  const rankNames = text.split(' → ');
+  const ranks = rankNames.map(part => {
+    const clean = part.replace(/^\d+\.\s*/, '');
+    return rankAssets.find(([ru, en]) => {
+      const name = locale === 'en' ? en : ru;
+      const qualifier = clean.slice(name.length);
+      return clean.startsWith(name) && (!qualifier || qualifier.startsWith(' (') || /^ [IVX]+(?:[–-][IVX]+)?$/.test(qualifier));
+    });
+  });
+  if (!ranks.every(Boolean)) return escapeHtml(text);
+  return `<span class="journal-icons journal-rank-icons">${ranks.map((rank, i) => `${i ? '<span aria-hidden="true">→</span>' : ''}<span><img src="/images/ranks/${rank[2]}.webp" width="32" height="32" alt="" loading="lazy"><span>${escapeHtml(rankNames[i])}</span></span>`).join('')}</span>`;
 }
 
 function renderTableValue(block, cell, index, locale) {
@@ -1707,7 +1720,20 @@ function renderBlock(block, locale = 'ru') {
         return `<ol class="journal-stages" aria-label="${escapeHtml(block.caption)}">${block.rows.map(([stage,city,when,teams])=>`<li><strong>${escapeHtml(stage)}</strong><span>${escapeHtml(when)}</span><p>${escapeHtml(city)}</p><small>${escapeHtml(teams)}</small></li>`).join('')}</ol>`;
       }
       if (block.layout === 'builds') {
-        return `<div class="journal-build-selector" hidden><label>${locale === 'ru' ? 'Герой' : 'Hero'} <select data-build-picker><option value="">${locale === 'ru' ? 'Все сборки' : 'All builds'}</option>${block.rows.map(([hero]) => `<option>${escapeHtml(hero)}</option>`).join('')}</select></label></div><div class="journal-builds">${block.rows.map(([hero,items,setup,win])=>`<article class="journal-build" data-build-name="${escapeHtml(hero)}"><header><h3>${tableCell(hero,locale,true)}</h3><div><strong>${escapeHtml(win)}</strong><small>${escapeHtml(block.headers[3])}</small></div></header><dl><dt>${escapeHtml(block.headers[1])}</dt><dd>${tableCell(items,locale,true)}</dd><dt>${escapeHtml(block.headers[2])}</dt><dd>${tableCell(setup,locale,true)}</dd></dl></article>`).join('')}</div>`;
+        const ru = locale === 'ru';
+        const cards = block.rows.map(([hero, items, setup, win]) => {
+          const match = articleHeroes.find(entry => entry[locale] === hero);
+          const aliases = match ? [match.ru, match.en, match.slug].join('|') : hero;
+          return `<article class="journal-build" data-build-names="${encodeURIComponent(aliases)}"><header><h3>${tableCell(hero, locale, true)}</h3><div><strong>${escapeHtml(win)}</strong><small>${escapeHtml(block.headers[3])}</small></div></header><dl><dt>${escapeHtml(block.headers[1])}</dt><dd>${tableCell(items, locale, true)}</dd><dt>${escapeHtml(block.headers[2])}</dt><dd>${tableCell(setup, locale, true)}</dd></dl></article>`;
+        }).join('');
+        return `<div class="journal-build-index" data-build-index>
+          <div class="journal-build-selector" hidden>
+            <label>${ru ? 'Найти героя в статье' : 'Find a hero in this article'}<input data-build-search type="search" autocomplete="off"></label>
+            <p role="status" data-build-status></p>
+          </div>
+          <div class="journal-builds">${cards}</div>
+          <p class="journal-build-catalog"><a href="${siteHref('/heroes/', locale)}">${ru ? 'Сборки всех героев в тир-листе' : 'Builds for every hero in the tier list'}</a></p>
+        </div>`;
       }
       return `
       <div class="article-table-wrap article-table-wrap--cols-${Math.min(block.headers.length, 4)}" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>

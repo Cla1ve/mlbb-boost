@@ -17,11 +17,11 @@ Find a hero
 
 Role
 
-AllTankFighterAssassinMageMarksmanSupport
+All![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/support.webp)Support
 
 Lane
 
-AllEXPGoldMidJungleRoam
+All![](/images/mlbb/filters/exp.webp)EXP![](/images/mlbb/filters/gold.webp)Gold![](/images/mlbb/filters/mid.webp)Mid![](/images/mlbb/filters/jungle.webp)Jungle![](/images/mlbb/filters/roam.webp)Roam
 
 TiersStats
 

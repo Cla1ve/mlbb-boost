@@ -23,9 +23,8 @@ const LANE = {
   Jungle: { ru: 'Лес', gen: 'леса', en: 'Jungle' },
   Roam: { ru: 'Роум', gen: 'роума', en: 'Roam' }
 };
-const ROLE_ICONS = { Tank: 'shield-halved', Fighter: 'khanda', Assassin: 'user-ninja', Mage: 'bolt', Marksman: 'location-dot', Support: 'heart' };
-const LANE_ICONS = { 'EXP Lane': 'arrow-trend-up', 'Gold Lane': 'medal', 'Mid Lane': 'layer-group', Jungle: 'compass', Roam: 'route' };
-const LANE_SHORT = { 'EXP Lane': ['Опыт', 'EXP'], 'Gold Lane': ['Золото', 'Gold'], 'Mid Lane': ['Центр', 'Mid'], Jungle: ['Лес', 'Jungle'], Roam: ['Роум', 'Roam'] };
+const LANE_ICONS = { 'EXP Lane': 'exp', 'Gold Lane': 'gold', 'Mid Lane': 'mid', Jungle: 'jungle', Roam: 'roam' };
+const LANE_SHORT = { 'EXP Lane': ['Опыт', 'EXP'], 'Gold Lane': ['Золото', 'Gold'], 'Mid Lane': ['Мид', 'Mid'], Jungle: ['Лес', 'Jungle'], Roam: ['Роум', 'Roam'] };
 const ROLE_HUB = { Tank: ['Лучшие танки', 'Best tanks'], Fighter: ['Лучшие бойцы', 'Best fighters'], Assassin: ['Лучшие убийцы', 'Best assassins'], Mage: ['Лучшие маги', 'Best mages'], Marksman: ['Лучшие стрелки', 'Best marksmen'], Support: ['Лучшая поддержка', 'Best supports'] };
 
 export function heroGuides(data, academy = null, storyFallbacks = {}) {
@@ -172,11 +171,16 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
     }).join('');
     const roles = Object.keys(ROLE);
     const roleLists = roles.map(role => `<section><h3>${ROLE_HUB[role][en ? 1 : 0]}</h3><ol>${withRole(role).slice(0, 6).map(hero => `<li>${chip(hero.slug, lang, pct(hero.win, lang))}</li>`).join('')}</ol></section>`).join('');
-    const option = (value, icon, label, full = label) => `<button type="button" data-filter-value="${value}" aria-pressed="${value === ''}" aria-label="${full}" title="${full}"><i class="fas fa-${icon}" aria-hidden="true"></i><span>${label}</span></button>`;
-    const roleButtons = option('', 'layer-group', en ? 'All' : 'Все', en ? 'All roles' : 'Все роли') + roles.map(role =>
-      option(role, ROLE_ICONS[role], role === 'Support' && !en ? 'Саппорт' : capital(ROLE[role][lang]), capital(ROLE[role][lang]))
+    const option = (value, icon, label, full = label) => {
+      const image = icon
+        ? `<img src="/images/mlbb/filters/${icon}.webp" width="18" height="18" alt="">`
+        : '<i class="fas fa-layer-group" aria-hidden="true"></i>';
+      return `<button type="button" data-filter-value="${value}" aria-pressed="${value === ''}" aria-label="${full}" title="${full}">${image}<span>${label}</span></button>`;
+    };
+    const roleButtons = option('', null, en ? 'All' : 'Все', en ? 'All roles' : 'Все роли') + roles.map(role =>
+      option(role, role.toLowerCase(), role === 'Support' && !en ? 'Саппорт' : capital(ROLE[role][lang]), capital(ROLE[role][lang]))
     ).join('');
-    const laneButtons = option('', 'layer-group', en ? 'All' : 'Все', en ? 'All lanes' : 'Все линии') + Object.entries(LANE).map(([key, lane]) =>
+    const laneButtons = option('', null, en ? 'All' : 'Все', en ? 'All lanes' : 'Все линии') + Object.entries(LANE).map(([key, lane]) =>
       option(key, LANE_ICONS[key], LANE_SHORT[key][en ? 1 : 0], lane[lang])
     ).join('');
     const headings = [['name', en ? 'Hero' : 'Герой'], ['tier', en ? 'Tier' : 'Тир'], ['win', en ? 'Win' : 'Победы'], ['pick', en ? 'Pick' : 'Выбор'], ['ban', en ? 'Ban' : 'Баны']];

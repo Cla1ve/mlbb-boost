@@ -269,13 +269,33 @@
         }
       });
     }
-    for (const picker of document.querySelectorAll('[data-build-picker]')) {
-      const selector = picker.closest('.journal-build-selector');
-      const cards = selector.nextElementSibling.querySelectorAll('[data-build-name]');
-      selector.hidden = false;
-      picker.addEventListener('change', () => {
-        for (const card of cards) card.hidden = Boolean(picker.value) && card.dataset.buildName !== picker.value;
-      });
+    const normalize = text => text.toLowerCase().replaceAll('ё', 'е').replace(/[^\p{L}\p{N}]/gu, '');
+    for (const index of document.querySelectorAll('[data-build-index]')) {
+      const search = index.querySelector('[data-build-search]');
+      const status = index.querySelector('[data-build-status]');
+      const catalog = index.querySelector('.journal-build-catalog a');
+      const catalogURL = new URL(catalog.href);
+      const cards = Array.from(index.querySelectorAll('[data-build-names]'));
+      const names = cards.map(card => decodeURIComponent(card.dataset.buildNames).split('|').map(normalize));
+      function filterBuilds() {
+        const query = search.value.trim();
+        const term = normalize(query);
+        if (term) catalogURL.searchParams.set('q', query);
+        else catalogURL.searchParams.delete('q');
+        catalog.href = catalogURL.href;
+        let shown = 0;
+        for (const [i, card] of cards.entries()) {
+          const matches = names[i].some(name => name.includes(term));
+          card.hidden = !matches;
+          if (matches) shown++;
+        }
+        status.textContent = shown
+          ? (locale === 'ru' ? 'Показано ' + shown + ' из ' + cards.length : 'Showing ' + shown + ' of ' + cards.length)
+          : (locale === 'ru' ? 'В этой статье такой сборки нет.' : 'This article has no matching builds.');
+      }
+      search.closest('.journal-build-selector').hidden = false;
+      search.addEventListener('input', filterBuilds);
+      filterBuilds();
     }
   }
 

@@ -8094,13 +8094,6 @@
           "text": "Сборку Ангелы выбирают в 15,45% матчей на этом герое. Таланты и запасные варианты есть в профиле каждого героя."
         },
         {
-          "type": "linkCard",
-          "label": "Сборка для каждого героя",
-          "title": "Тир-лист MLBB: все 133 героя",
-          "description": "Сборка, навыки, контрпики и союзники на странице героя.",
-          "href": "https://boostmlbb.ru/heroes/"
-        },
-        {
           "type": "heading",
           "id": "items",
           "text": "Самые частые предметы"
@@ -8419,13 +8412,6 @@
             {
               "type": "paragraph",
               "text": "Angela’s setup is picked in 15.45% of her matches. Each hero’s profile lists talents and alternative builds."
-            },
-            {
-              "type": "linkCard",
-              "label": "A build for every hero",
-              "title": "MLBB tier list: all 133 heroes",
-              "description": "Build, skills, counters and teammates on each hero page.",
-              "href": "https://boostmlbb.ru/heroes/"
             },
             {
               "type": "heading",

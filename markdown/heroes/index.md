@@ -17,11 +17,11 @@ language: ru
 
 Роль
 
-ВсеТанкБоецУбийцаМагСтрелокСаппорт
+Все![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/support.webp)Саппорт
 
 Линия
 
-ВсеОпытЗолотоЦентрЛесРоум
+Все![](/images/mlbb/filters/exp.webp)Опыт![](/images/mlbb/filters/gold.webp)Золото![](/images/mlbb/filters/mid.webp)Мид![](/images/mlbb/filters/jungle.webp)Лес![](/images/mlbb/filters/roam.webp)Роум
 
 ТирыСтатистика
 

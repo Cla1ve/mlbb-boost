@@ -239,11 +239,14 @@ body.news-page, body:has(.atlas), body:has(.atlas) main { background: var(--aren
 .arena-profile .atlas-draft .hero-chip img { width: 46px; }
 .atlas .hb-group--items .hb-token img { width: 48px; height: 48px; }
 .journal-build-selector { margin-bottom: 16px; }
-.journal-build-selector label { display: flex; gap: 12px; align-items: center; }
-.journal-build-selector select, .journal-symbol button {
+.journal-build-selector label { display: grid; gap: 4px; font-size: .88rem; max-width: 420px; }
+.journal-build-selector p, .journal-build-catalog { font-size: .87rem; color: var(--arena-muted); margin: 6px 0 0; }
+.journal-build-catalog a { color: var(--arena-accent); text-underline-offset: 3px; }
+.journal-build-selector input, .journal-symbol button {
   color: var(--arena-ink); background: var(--arena-raised); border: 1px solid var(--arena-rule); border-radius: 8px;
-  padding: 8px 12px; min-height: 40px; color-scheme: dark; font: inherit; font-size: .88rem;
+  padding: 8px 12px; min-height: 40px; color-scheme: dark; font: inherit; font-size: .88rem; box-sizing: border-box;
 }
+.journal-build-selector input { width: 100%; font-size: 1rem; }
 .journal-symbol { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .journal-symbol button { cursor: pointer; color: var(--arena-accent); }
 @media (min-width: 960px) {
@@ -294,3 +297,6 @@ body.news-page, body:has(.atlas), body:has(.atlas) main { background: var(--aren
   .atlas-nav[role="tablist"] { gap: 2px 3px; padding-inline: 0; }
   .atlas-nav [role="tab"] { padding-inline: 8px; font-size: .8rem; }
 }
+
+.atlas-choice button img { width: 18px; height: 18px; object-fit: contain; }
+.journal-rank-icons { gap: 4px 8px; }
