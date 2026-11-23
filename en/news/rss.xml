@@ -6,7 +6,136 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:14:00 GMT</lastBuildDate>
+    <item>
+      <title>Mobile Legends account: how to bind, switch and recover it</title>
+      <link>https://boostmlbb.ru/en/news/mlbb-account-bind-recover/</link>
+      <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-account-bind-recover/</guid>
+      <description>Why a guest profile disappears with your phone, which login is safest, how to open a second account, recover a lost one and delete one you no longer need.</description>
+      <dc:creator>Boost MLBB Editorial Team</dc:creator>
+      <category>Guides</category>
+      <pubDate>Mon, 23 Nov 2026 13:14:00 GMT</pubDate>
+      <yandex:genre>article</yandex:genre>
+      <yandex:full-text>In brief
+
+A guest account with no binding cannot be moved to another phone or restored after you delete the game. MOONTON’s terms say so directly.
+
+You can bind the game to a Moonton account by email or to a Google, Apple ID, Facebook, TikTok or VK login.
+
+Everything lives in the profile: Account → Account Center. That is where you bind, switch profiles, unbind social logins and delete.
+
+If you do not log in for more than 6 months, MOONTON may delete the account along with its diamonds and skins.
+
+Almost every “I lost my Mobile Legends account” story starts the same way: someone played on a guest profile for years, then changed phones or deleted the game. Here is how to bind a Mobile Legends account, switch between a main and a second profile, get a lost one back and delete one you no longer need.
+
+Why a guest account is risky
+
+If you have never bound your account, you are playing on a guest profile that lives only on your phone. MOONTON’s terms of 21 October 2025 say that guest progress cannot be transferred, purchases cannot be restored after a reinstall, and deleting the game wipes the data for good. MOONTON does not guarantee recovery of such an account and recommends creating a Moonton account or binding a third-party login.
+
+Open your profile, then Account → Account Center. If no login method is marked as bound, you are on a guest profile. Bind at least one method before you change phones.
+
+Check it now
+
+How to bind your account
+
+Tap the avatar in the top-left corner of the main screen.
+
+Open Account and choose Account Center.
+
+Pick a login method. A Moonton account needs a working email: you receive a code there, then set a password.
+
+For Google, Apple ID, Facebook, TikTok or VK, sign in to that account and confirm access.
+
+Go back to Account Center and check that the method is marked as bound.
+
+Which login method to choose
+
+Method
+
+What you need
+
+When it fits
+
+Moonton account
+
+Email and password
+
+The main method: it does not depend on social networks or your phone
+
+Google
+
+A Google account
+
+Android and moving from one Android phone to another
+
+Apple ID
+
+An Apple account
+
+iPhone and iPad
+
+Facebook, TikTok, VK
+
+An active social account
+
+A backup: if the social account is blocked or deleted, you cannot log in through it
+
+It is safer to bind two methods at once: a Moonton account plus Google or Apple ID. ONE Esports, in its account security guide, also recommends relying on a Moonton account and unbinding extra third-party logins.
+
+How to switch accounts or log in to a second one
+
+A second profile is created on the same phone; you do not need to delete the game. Reinstalling does not help: on iPhone the game opens the old account again. Before switching, make sure your main account is bound, or you will not be able to return to it.
+
+Open your profile, go to Account and tap the switch button (Switch Account in the English client).
+
+Log in with the method bound to the other account, or register a new Moonton account with a different email.
+
+To go back, tap Switch Account again and log in with the method bound to your main profile.
+
+How to recover your account
+
+Start simple: log in with the method the account was bound to. If logging in with Google or VK opens a new empty profile, that method is bound to a different account or there was no binding at all.
+
+Log in with your Moonton account, Google, Apple ID, Facebook, TikTok or VK. A Moonton password is reset with a code sent to the bound email.
+
+If nothing was bound, open Account Center and choose account recovery (Retrieve Account). AFK Gaming describes a check based on in-game details: the old account ID, server number and nickname.
+
+If that fails, contact support from the game: the support icon is in your profile. Give your ID, the server number in brackets, nickname, roughly when the account was created and what you bought on it.
+
+Sites and people who offer to recover or unban an account for money are scammers. Accounts are recovered only through the game and MOONTON support, and MOONTON never asks for your password for codes or gifts.
+
+Be careful
+
+How to delete your account
+
+Deleting the game from your phone does not delete the account: a bound profile stays on MOONTON’s servers. According to the cyber.sports.ru guide, deletion takes two steps: in Account Center you unbind third-party logins and tap Delete Account, then the game opens play.mobilelegends.com, where you accept the agreements, log in and confirm with the Confirm to Cancel button.
+
+The account is not deleted at once: the request waits up to 30 days, and logging in during that time offers a Give Up button that cancels the deletion.
+
+After deletion your rank, heroes, skins and diamonds are gone. They cannot be restored.
+
+According to cyber.sports.ru, the same email and social accounts cannot be bound to a new account afterwards.
+
+A request to delete personal data under MOONTON’s privacy policy goes to dpo@moonton.com.
+
+If you just want a clean profile, you do not have to delete the old one: create a second one with Switch Account.
+
+What happens to an abandoned account
+
+Under MOONTON’s terms an account nobody has logged in to for more than 6 months may be deleted or deactivated, and its diamonds and items are lost without compensation. If you have taken a break from the game, log in at least once every few months.
+
+How to change your MLBB nickname
+
+More on your account
+
+The rename button, the card price and an invisible name.
+
+Frequently asked questions</yandex:full-text>
+      <media:group>
+        <media:content url="https://boostmlbb.ru/images/news/mlbb-account-bind-recover.jpg" type="image/jpeg" medium="image" width="1600" height="900"/>
+        <media:thumbnail url="https://boostmlbb.ru/images/news/mlbb-account-bind-recover.jpg" width="1600" height="900"/>
+      </media:group>
+    </item>
     <item>
       <title>New MLBB heroes 2026: releases, revamps and what comes next</title>
       <link>https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/</link>

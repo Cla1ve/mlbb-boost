@@ -159,6 +159,22 @@
       "destination": "/en/news/mlbb-change-nickname/index.html"
     },
     {
+      "source": "/news/mlbb-account-bind-recover/",
+      "destination": "/news/mlbb-account-bind-recover/index.html"
+    },
+    {
+      "source": "/news/mlbb-account-bind-recover",
+      "destination": "/news/mlbb-account-bind-recover/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-account-bind-recover/",
+      "destination": "/en/news/mlbb-account-bind-recover/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-account-bind-recover",
+      "destination": "/en/news/mlbb-account-bind-recover/index.html"
+    },
+    {
       "source": "/heroes/",
       "destination": "/heroes/index.html"
     },
