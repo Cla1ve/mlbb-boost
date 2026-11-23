@@ -191,6 +191,22 @@
       "destination": "/en/news/mlbb-rank-up-solo/index.html"
     },
     {
+      "source": "/news/mlbb-who-to-ban/",
+      "destination": "/news/mlbb-who-to-ban/index.html"
+    },
+    {
+      "source": "/news/mlbb-who-to-ban",
+      "destination": "/news/mlbb-who-to-ban/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-who-to-ban/",
+      "destination": "/en/news/mlbb-who-to-ban/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-who-to-ban",
+      "destination": "/en/news/mlbb-who-to-ban/index.html"
+    },
+    {
       "source": "/heroes/",
       "destination": "/heroes/index.html"
     },

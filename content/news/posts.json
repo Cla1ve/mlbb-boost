@@ -7392,6 +7392,545 @@
           ]
         }
       }
+    },
+    {
+      "slug": "mlbb-who-to-ban",
+      "status": "published",
+      "title": "Кого банить в Mobile Legends: самые опасные герои по рангам",
+      "seoTitle": "Кого банить в MLBB: самые опасные герои",
+      "description": "Кого чаще всего банят в Mobile Legends, кто из них действительно выигрывает, какой бан выбрать в Эпике, Мифике и Славе и кем контрить. Статистика MOONTON.",
+      "excerpt": "Хирару банят в двух матчах из трёх, а выигрывает она половину игр. Разбираем, на кого на самом деле стоит тратить бан и кем контрить, если он не достался.",
+      "category": "Мета",
+      "categoryKey": "meta",
+      "tags": [
+        "Mobile Legends",
+        "Баны",
+        "Мета",
+        "Контрпики",
+        "Герои"
+      ],
+      "datePublished": "2026-11-23T16:29:00+03:00",
+      "dateModified": "2026-11-23T16:29:00+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-who-to-ban.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-who-to-ban-768.webp 768w, /images/news/mlbb-who-to-ban-1200.webp 1200w, /images/news/mlbb-who-to-ban-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Экран банов Mobile Legends: Хирара, Белерик, Обсидия, Маша и Марсель с процентом банов",
+        "caption": "Иллюстрация Boost MLBB. Иконки героев — MOONTON.",
+        "provenance": {
+          "type": "original",
+          "creator": "Boost MLBB",
+          "created": "2026-11-23",
+          "rights": "Original layout made by Boost MLBB; hero icons are MOONTON game assets used for editorial illustration."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Чаще всех банят Хирару: 67,97% матчей на всех рангах и 86,38% в Мифической славе.",
+            "При этом Хирара выигрывает лишь 50,03% матчей. Опаснее, если не забанить, Маша (60,40% побед) и Марсель (57,46%).",
+            "В Эпике и Легенде главный бан — Белерик: его убирают в 56,83% матчей.",
+            "Сильные герои, которых почти не банят: Валир (54,11% побед при 3,78% банов), Ханаби и Линг."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Бан в Mobile Legends стоит потратить на героя, который чаще всего выигрывает, а не на того, кто сильнее всех раздражает. Ниже — кого реально банят игроки, кто из них действительно опасен и кем контрить, если бан достался не вам. Все цифры — из официального рейтинга MOONTON за 30 дней на 23 ноября 2026 года."
+        },
+        {
+          "type": "heading",
+          "id": "most-banned",
+          "text": "Кого банят чаще всего"
+        },
+        {
+          "type": "table",
+          "caption": "Самые забаненные герои MLBB",
+          "headers": [
+            "Герой",
+            "Банят на всех рангах",
+            "Банят в Мифической славе",
+            "Побед"
+          ],
+          "rows": [
+            [
+              "Хирара",
+              "67,97%",
+              "86,38%",
+              "50,03%"
+            ],
+            [
+              "Белерик",
+              "56,83%",
+              "56,96%",
+              "51,83%"
+            ],
+            [
+              "Обсидия",
+              "48,46%",
+              "61,08%",
+              "53,20%"
+            ],
+            [
+              "Эйдора",
+              "47,84%",
+              "39,63%",
+              "50,35%"
+            ],
+            [
+              "Эстес",
+              "46,89%",
+              "29,47%",
+              "52,75%"
+            ],
+            [
+              "Глу",
+              "41,90%",
+              "38,16%",
+              "53,45%"
+            ],
+            [
+              "Марсель",
+              "41,30%",
+              "71,35%",
+              "57,46%"
+            ],
+            [
+              "Маша",
+              "40,89%",
+              "72,41%",
+              "60,40%"
+            ]
+          ],
+          "note": "Официальный рейтинг MOONTON, 30 дней, данные на 23 ноября 2026 года."
+        },
+        {
+          "type": "paragraph",
+          "text": "Список банов почти не совпадает со списком сильнейших. Хирару убирают в двух матчах из трёх, а когда она всё же доходит до игры, её команда выигрывает почти ровно половину встреч. Белерика банят в 56,83% матчей, хотя его доля побед — 51,83%."
+        },
+        {
+          "type": "heading",
+          "id": "real-threat",
+          "text": "Кого банить на самом деле"
+        },
+        {
+          "type": "table",
+          "caption": "Герои, которые чаще всего выигрывают, если их не забанили",
+          "headers": [
+            "Герой",
+            "Побед на всех рангах",
+            "Побед в Мифической славе",
+            "Банят в Мифической славе"
+          ],
+          "rows": [
+            [
+              "Маша",
+              "60,40%",
+              "60,75%",
+              "72,41%"
+            ],
+            [
+              "Марсель",
+              "57,46%",
+              "57,36%",
+              "71,35%"
+            ],
+            [
+              "Обсидия",
+              "53,20%",
+              "52,89%",
+              "61,08%"
+            ],
+            [
+              "Аулус",
+              "53,46%",
+              "53,44%",
+              "44,67%"
+            ],
+            [
+              "Сан",
+              "53,72%",
+              "52,58%",
+              "38,93%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Маша выигрывает 60,40% матчей — больше всех среди 133 героев, — а в Мифической славе её банят в 72,41% матчей. Марсель держит 57,46% побед. Если в Славе Хирару уже забанили соперники, свой бан выгоднее отдать Маше или Марселю, чем повторно убирать раздражающего героя."
+        },
+        {
+          "type": "heading",
+          "id": "by-rank",
+          "text": "Бан зависит от ранга"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Эпик и Легенда: Белерик выигрывает 55,96% матчей в Эпике, и бан на него там оправдан. К Мифической славе его доля побед падает до 50,01%.",
+            "Мифик и Честь: Маша, Марсель и Обсидия держат больше 52% побед на этих рангах.",
+            "Мифическая слава: соперники почти всегда убирают Хирару (86,38%), поэтому свой бан планируйте на Машу (72,41%) или Марселя (71,35%)."
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "counters",
+          "text": "Если бан не достался: кем контрить"
+        },
+        {
+          "type": "table",
+          "caption": "Кем контрить, если бан не достался",
+          "headers": [
+            "Герой",
+            "Против кого проигрывает"
+          ],
+          "rows": [
+            [
+              "Хирара",
+              "Ханзо, Карина, Икс.Борг"
+            ],
+            [
+              "Маша",
+              "Глу, Эйдора, Лесли"
+            ],
+            [
+              "Марсель",
+              "Атлас, Сан, Акай"
+            ],
+            [
+              "Обсидия",
+              "Бенедетта, Хелкарт, Алдос"
+            ],
+            [
+              "Белерик",
+              "Мия, Сильвана, Заск"
+            ]
+          ],
+          "note": "Контрпики — по официальной статистике MOONTON для каждого героя."
+        },
+        {
+          "type": "paragraph",
+          "text": "Контрпики MOONTON считает по матчам: это герои, против которых у выбранного героя заметно падает доля побед. На странице каждого героя в нашем тир-листе есть полная пятёрка контрпиков."
+        },
+        {
+          "type": "linkCard",
+          "label": "Обновляется каждый день",
+          "title": "Тир-лист MLBB: все 133 героя",
+          "description": "Процент побед и банов по рангам, контрпики, роли и линии.",
+          "href": "https://boostmlbb.ru/heroes/"
+        },
+        {
+          "type": "heading",
+          "id": "hidden",
+          "text": "Сильные герои, которых почти не банят"
+        },
+        {
+          "type": "paragraph",
+          "text": "Обратная сторона банов — герои, которых соперники оставляют открытыми. Валир выигрывает 54,11% матчей, а банят его лишь в 3,78%. Ханаби — 52,66% побед при 4,27% банов, Линг — 52,54% при 0,62%. Их почти всегда можно взять себе."
+        },
+        {
+          "type": "cta",
+          "id": "ban-rank",
+          "eyebrow": "Бан не спасает серию",
+          "title": "Узнайте цену буста до нужного ранга",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-hidden"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Кого чаще всего банят в Mobile Legends?",
+              "a": "Хирару: её банят в 67,97% матчей на всех рангах и в 86,38% в Мифической славе. Дальше идут Белерик, Обсидия и Эйдора."
+            },
+            {
+              "q": "Кого банить в Мифической славе?",
+              "a": "Если соперники уже забанили Хирару, выгоднее всего убрать Машу (60,75% побед в Славе) или Марселя (57,36%)."
+            },
+            {
+              "q": "Как контрить Хирару?",
+              "a": "По статистике MOONTON Хирара хуже всего играет против героев Ханзо, Карина, Икс.Борг."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Рейтинг героев Mobile Legends",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/rank",
+          "accessed": "2026-11-23"
+        }
+      ],
+      "editorialNote": "Проценты банов, побед и контрпики взяты 23 ноября 2026 года из официального рейтинга MOONTON за 30 дней. Актуальные цифры по каждому герою обновляются каждый день на странице тир-листа.",
+      "translations": {
+        "en": {
+          "title": "Who to ban in Mobile Legends: the most dangerous heroes by rank",
+          "seoTitle": "Who to ban in MLBB: the most dangerous heroes",
+          "description": "Who gets banned most in Mobile Legends, which of them really win, which ban to pick in Epic, Mythic and Glory and who counters them. MOONTON statistics.",
+          "excerpt": "Hirara is banned in two matches out of three yet wins half her games. We look at who really deserves your ban and who counters them if it is gone.",
+          "category": "Meta",
+          "tags": [
+            "Mobile Legends",
+            "Bans",
+            "Meta",
+            "Counters",
+            "Heroes"
+          ],
+          "hero": {
+            "alt": "Mobile Legends ban screen: Hirara, Belerick, Obsidia, Masha and Marcel with their ban rates",
+            "caption": "Boost MLBB illustration. Hero icons: MOONTON."
+          },
+          "editorialNote": "Ban rates, win rates and counters were taken on 23 November 2026 from MOONTON’s official 30-day ranking. Current figures for every hero are updated daily on the tier list page.",
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "Hirara is banned the most: in 67.97% of matches across all ranks and 86.38% in Mythical Glory.",
+                "Yet Hirara wins only 50.03% of matches. Masha (60.40% wins) and Marcel (57.46%) are more dangerous if left open.",
+                "In Epic and Legend the main ban is Belerick: he is removed in 56.83% of matches.",
+                "Strong heroes almost nobody bans: Valir (54.11% wins at 3.78% bans), Hanabi and Ling."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A ban in Mobile Legends is best spent on the hero who wins most often, not the one who annoys you most. Here is who players actually ban, which of them are really dangerous and who counters them if the ban is not yours. All figures come from MOONTON’s official 30-day ranking as of 23 November 2026."
+            },
+            {
+              "type": "heading",
+              "id": "most-banned",
+              "text": "Who gets banned the most"
+            },
+            {
+              "type": "table",
+              "caption": "The most banned MLBB heroes",
+              "headers": [
+                "Hero",
+                "Ban rate, all ranks",
+                "Ban rate, Mythical Glory",
+                "Win rate"
+              ],
+              "rows": [
+                [
+                  "Hirara",
+                  "67.97%",
+                  "86.38%",
+                  "50.03%"
+                ],
+                [
+                  "Belerick",
+                  "56.83%",
+                  "56.96%",
+                  "51.83%"
+                ],
+                [
+                  "Obsidia",
+                  "48.46%",
+                  "61.08%",
+                  "53.20%"
+                ],
+                [
+                  "Eudora",
+                  "47.84%",
+                  "39.63%",
+                  "50.35%"
+                ],
+                [
+                  "Estes",
+                  "46.89%",
+                  "29.47%",
+                  "52.75%"
+                ],
+                [
+                  "Gloo",
+                  "41.90%",
+                  "38.16%",
+                  "53.45%"
+                ],
+                [
+                  "Marcel",
+                  "41.30%",
+                  "71.35%",
+                  "57.46%"
+                ],
+                [
+                  "Masha",
+                  "40.89%",
+                  "72.41%",
+                  "60.40%"
+                ]
+              ],
+              "note": "Official MOONTON ranking, 30 days, data as of 23 November 2026."
+            },
+            {
+              "type": "paragraph",
+              "text": "The ban list barely matches the list of the strongest heroes. Hirara is removed in two matches out of three, and when she does get through, her team wins almost exactly half the time. Belerick is banned in 56.83% of matches, although his win rate is 51.83%."
+            },
+            {
+              "type": "heading",
+              "id": "real-threat",
+              "text": "Who you should really ban"
+            },
+            {
+              "type": "table",
+              "caption": "Heroes that win most often when left open",
+              "headers": [
+                "Hero",
+                "Win rate, all ranks",
+                "Win rate, Mythical Glory",
+                "Ban rate, Mythical Glory"
+              ],
+              "rows": [
+                [
+                  "Masha",
+                  "60.40%",
+                  "60.75%",
+                  "72.41%"
+                ],
+                [
+                  "Marcel",
+                  "57.46%",
+                  "57.36%",
+                  "71.35%"
+                ],
+                [
+                  "Obsidia",
+                  "53.20%",
+                  "52.89%",
+                  "61.08%"
+                ],
+                [
+                  "Aulus",
+                  "53.46%",
+                  "53.44%",
+                  "44.67%"
+                ],
+                [
+                  "Sun",
+                  "53.72%",
+                  "52.58%",
+                  "38.93%"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Masha wins 60.40% of matches — the most among all 133 heroes — and in Mythical Glory she is banned in 72.41% of matches. Marcel holds 57.46% wins. If the enemy has already banned Hirara in Glory, your ban is better spent on Masha or Marcel than on removing the annoying hero twice."
+            },
+            {
+              "type": "heading",
+              "id": "by-rank",
+              "text": "The right ban depends on your rank"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Epic and Legend: Belerick wins 55.96% of matches in Epic, so banning him there makes sense. By Mythical Glory his win rate drops to 50.01%.",
+                "Mythic and Honor: Masha, Marcel and Obsidia hold more than 52% wins at these ranks.",
+                "Mythical Glory: the enemy almost always removes Hirara (86.38%), so plan your own ban for Masha (72.41%) or Marcel (71.35%)."
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "counters",
+              "text": "If the ban is gone: who counters them"
+            },
+            {
+              "type": "table",
+              "caption": "Who counters them if the ban is gone",
+              "headers": [
+                "Hero",
+                "Loses to"
+              ],
+              "rows": [
+                [
+                  "Hirara",
+                  "Hanzo, Karina, X.Borg"
+                ],
+                [
+                  "Masha",
+                  "Gloo, Eudora, Lesley"
+                ],
+                [
+                  "Marcel",
+                  "Atlas, Sun, Akai"
+                ],
+                [
+                  "Obsidia",
+                  "Benedetta, Helcurt, Aldous"
+                ],
+                [
+                  "Belerick",
+                  "Miya, Silvanna, Zhask"
+                ]
+              ],
+              "note": "Counters come from MOONTON’s official per-hero statistics."
+            },
+            {
+              "type": "paragraph",
+              "text": "MOONTON counts counters from matches: they are the heroes against whom the chosen hero’s win rate drops noticeably. Every hero page in our tier list shows the full five counters."
+            },
+            {
+              "type": "linkCard",
+              "label": "Updated every day",
+              "title": "MLBB tier list: all 133 heroes",
+              "description": "Win and ban rates by rank, counters, roles and lanes.",
+              "href": "https://boostmlbb.ru/heroes/"
+            },
+            {
+              "type": "heading",
+              "id": "hidden",
+              "text": "Strong heroes almost nobody bans"
+            },
+            {
+              "type": "paragraph",
+              "text": "The flip side of bans is the heroes the enemy leaves open. Valir wins 54.11% of matches but is banned in only 3.78%. Hanabi has 52.66% wins at 4.27% bans, Ling 52.54% at 0.62%. You can almost always pick them yourself."
+            },
+            {
+              "type": "cta",
+              "id": "ban-rank",
+              "eyebrow": "A ban won’t save a streak",
+              "title": "See the price of a boost to your rank",
+              "text": "Enter your rank and goal — the calculator shows the price right away.",
+              "button": "Calculate price",
+              "href": "/order.html?type=standard",
+              "note": "No payment, no commitment.",
+              "position": "after-hidden"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Who is banned the most in Mobile Legends?",
+                  "a": "Hirara: she is banned in 67.97% of matches across all ranks and 86.38% in Mythical Glory. Belerick, Obsidia and Eudora come next."
+                },
+                {
+                  "q": "Who should I ban in Mythical Glory?",
+                  "a": "If the enemy has already banned Hirara, the best ban is Masha (60.75% wins in Glory) or Marcel (57.36%)."
+                },
+                {
+                  "q": "How do you counter Hirara?",
+                  "a": "By MOONTON’s statistics Hirara does worst against Hanzo, Karina, X.Borg."
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ]
 }
