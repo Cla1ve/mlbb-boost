@@ -11,7 +11,7 @@ Tier C
 
 # Roger in Mobile Legends: counters and stats
 
-Fighter and marksman, Jungle. Roger wins 48.33% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and marksman, Jungle. Wins 48.33% of matches over the last 30 days: #103 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.33%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Roger as a fighter and marksman for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and marksman**
 -   Lane**Jungle**
@@ -47,13 +47,13 @@ MOONTON’s official hero page lists Roger as a fighter and marksman for the Jun
 
 ## Who counters Roger
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Roger. The number is each hero’s own win rate. 4 of the 5 counters are assassins.
+Roger loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are assassins.
 
 [![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)
 
 ## Win rate by rank
 
-Best result in Epic (50.73%), weakest in Mythical Glory (45.96%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (50.73%), weakest in Mythical Glory (45.96%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.73%**
 -   ![](/images/ranks/Legend.webp)Legend**50.29%**
@@ -75,7 +75,9 @@ The strongest by win rate over the last 30 days.
 
 ![Roger](/images/heroes/roger.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Roger page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Roger). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Roger’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=39)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Roger)
 
 ## Boost on Roger
 
@@ -83,11 +85,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Roger in MLBB?
 
-By MOONTON’s official 30-day statistics: Harley, Gusion, Silvanna, Helcurt and Yin.
+Over the last 30 days the toughest opponents are Harley, Gusion, Silvanna, Helcurt and Yin.
 
 What is Roger’s win rate right now?
 
@@ -95,7 +99,7 @@ What is Roger’s win rate right now?
 
 What role and lane does Roger play?
 
-Fighter and marksman, Jungle, according to MOONTON’s official hero page.
+Fighter and marksman, played in the jungle.
 
 Is Roger strong in the current meta?
 

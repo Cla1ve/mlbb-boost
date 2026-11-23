@@ -11,7 +11,7 @@ Tier S
 
 # Carmilla in Mobile Legends: counters and stats
 
-Tank and support, Roam. Carmilla wins 53.29% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and support, Roam. Wins 53.29% of matches over the last 30 days: #15 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**53.29%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Carmilla as a tank and support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and support**
 -   Lane**Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Carmilla as a tank and support for the Roam
 
 ## Who counters Carmilla
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Carmilla. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Carmilla loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)
 
 ## Who Carmilla is strong against
 
-Carmilla is listed as a counter for these heroes.
+Carmilla is one of the toughest opponents for these heroes.
 
 [![Valentina](/images/heroes/valentina.webp)Valentina44.73%](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Win rate by rank
 
-Best result in Legend (54.61%), weakest in Mythical Glory (52.61%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (54.61%), weakest in Mythical Glory (52.61%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.31%**
 -   ![](/images/ranks/Legend.webp)Legend**54.61%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Carmilla](/images/heroes/carmilla.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Carmilla page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Carmilla). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Carmilla’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=92)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Carmilla)
 
 ## Boost on Carmilla
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Carmilla in MLBB?
 
-By MOONTON’s official 30-day statistics: Popol and Kupa, Chip, Johnson, Hilda and Gloo.
+Over the last 30 days the toughest opponents are Popol and Kupa, Chip, Johnson, Hilda and Gloo.
 
 What is Carmilla’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Carmilla’s win rate right now?
 
 What role and lane does Carmilla play?
 
-Tank and support, Roam, according to MOONTON’s official hero page.
+Tank and support, played on roam.
 
 Is Carmilla strong in the current meta?
 

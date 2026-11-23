@@ -146,35 +146,87 @@ Account boost prices; time is the median of completed orders on that stretch.
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
-★★★★★21 November 2026
+E
 
-Мифический бессмертный 326⭐ → 342⭐
+Booster
 
-Account7ч 5м
+Elleana
 
-> Все круто, самый лучший бустер.
+Verified booster
 
-Booster: **Elleana**[Original on Telegram](https://t.me/Cla1ve_boost/2277)
+★★★★★
 
-★★★★★20 November 2026
+Client rating
 
-Мифический бессмертный 180⭐ → 185⭐
+Standard
 
-HeroХарли1ч 31м
+StartМифический бессмертный, 326⭐
 
-> Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+TargetМифический бессмертный, 342⭐
 
-Booster: **Ясик**[Original on Telegram](https://t.me/Cla1ve_boost/2275)
+Все круто, самый лучший бустер.
 
-★★★★★19 November 2026
+Time7ч 5м после оплаты
 
-Мифический бессмертный 157⭐ → 168⭐
+21 November 2026
 
-HeroХарли нолан4ч 34м
+[Open review](https://t.me/Cla1ve_boost/2277)
 
-> Отличная работа, приятный и общительный бустер, доволен
+Я
 
-Booster: **metaldemon**[Original on Telegram](https://t.me/Cla1ve_boost/2272)
+Booster
+
+Ясик
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифический бессмертный, 180⭐
+
+TargetМифический бессмертный, 185⭐
+
+Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+
+HeroХарли
+
+Time1ч 31м после оплаты
+
+20 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2275)
+
+M
+
+Booster
+
+metaldemon
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифический бессмертный, 157⭐
+
+TargetМифический бессмертный, 168⭐
+
+Отличная работа, приятный и общительный бустер, доволен
+
+HeroХарли нолан
+
+Time4ч 34м после оплаты
+
+19 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2272)
 
 ## Price your route
 

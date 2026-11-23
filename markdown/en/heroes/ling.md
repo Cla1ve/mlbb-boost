@@ -11,7 +11,7 @@ Tier A
 
 # Ling in Mobile Legends: counters and stats
 
-Assassin, Jungle. Ling wins 52.54% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 52.54% of matches over the last 30 days: #22 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**52.54%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Ling as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Ling as a assassin for the Jungle. Places a
 
 ## Who counters Ling
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Ling. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
+Ling loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
 
 [![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ## Who Ling is strong against
 
-Ling is listed as a counter for these heroes.
+Ling is one of the toughest opponents for these heroes.
 
 [![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Win rate by rank
 
-Best result in Epic (54.58%), weakest in Mythical Glory (51.85%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (54.58%), weakest in Mythical Glory (51.85%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.58%**
 -   ![](/images/ranks/Legend.webp)Legend**53.76%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Ling](/images/heroes/ling.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Ling page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ling). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Ling’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=84)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ling)
 
 ## Boost on Ling
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Ling in MLBB?
 
-By MOONTON’s official 30-day statistics: Gloo, X.Borg, Hanzo, Atlas and Silvanna.
+Over the last 30 days the toughest opponents are Gloo, X.Borg, Hanzo, Atlas and Silvanna.
 
 What is Ling’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Ling’s win rate right now?
 
 What role and lane does Ling play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Ling strong in the current meta?
 

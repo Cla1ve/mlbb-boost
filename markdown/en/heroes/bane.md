@@ -11,7 +11,7 @@ Tier A
 
 # Bane in Mobile Legends: counters and stats
 
-Fighter and mage, EXP Lane or Jungle. Bane wins 51.61% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and mage, EXP Lane or Jungle. Wins 51.61% of matches over the last 30 days: #34 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.61%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Bane as a fighter and mage for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and mage**
 -   Lane**EXP Lane or Jungle**
@@ -48,19 +48,19 @@ MOONTON’s official hero page lists Bane as a fighter and mage for the EXP Lane
 
 ## Who counters Bane
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Bane. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Bane loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Who Bane is strong against
 
-Bane is listed as a counter for these heroes.
+Bane is one of the toughest opponents for these heroes.
 
 [![Novaria](/images/heroes/novaria.webp)Novaria49.52%](https://boostmlbb.ru/en/heroes/novaria.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Win rate by rank
 
-Best result in Epic (52.32%), weakest in Mythical Glory (51.52%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (52.32%), weakest in Mythical Glory (51.52%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.32%**
 -   ![](/images/ranks/Legend.webp)Legend**51.53%**
@@ -82,7 +82,9 @@ The strongest by win rate over the last 30 days.
 
 ![Bane](/images/heroes/bane.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Bane page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Bane). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Bane’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=11)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Bane)
 
 ## Boost on Bane
 
@@ -90,11 +92,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Bane in MLBB?
 
-By MOONTON’s official 30-day statistics: Phoveus, Khufra, Baxia, Odette and Chip.
+Over the last 30 days the toughest opponents are Phoveus, Khufra, Baxia, Odette and Chip.
 
 What is Bane’s win rate right now?
 
@@ -102,7 +106,7 @@ What is Bane’s win rate right now?
 
 What role and lane does Bane play?
 
-Fighter and mage, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter and mage, played in the EXP Lane or in the jungle.
 
 Is Bane strong in the current meta?
 

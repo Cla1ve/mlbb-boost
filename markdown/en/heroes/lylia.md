@@ -11,7 +11,7 @@ Tier B
 
 # Lylia in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Lylia wins 49.34% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 49.34% of matches over the last 30 days: #82 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.34%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Lylia as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,13 +46,13 @@ MOONTON’s official hero page lists Lylia as a mage for the Mid Lane. Places ar
 
 ## Who counters Lylia
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Lylia. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Lylia loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.08%), weakest in Mythical Glory (48.17%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.08%), weakest in Mythical Glory (48.17%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.08%**
 -   ![](/images/ranks/Legend.webp)Legend**50.72%**
@@ -74,7 +74,9 @@ The strongest by win rate over the last 30 days.
 
 ![Lylia](/images/heroes/lylia.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Lylia page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lylia). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Lylia’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=86)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lylia)
 
 ## Boost on Lylia
 
@@ -82,11 +84,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Lylia in MLBB?
 
-By MOONTON’s official 30-day statistics: Johnson, Hanabi, Alpha, Barats and Alice.
+Over the last 30 days the toughest opponents are Johnson, Hanabi, Alpha, Barats and Alice.
 
 What is Lylia’s win rate right now?
 
@@ -94,7 +98,7 @@ What is Lylia’s win rate right now?
 
 What role and lane does Lylia play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Lylia strong in the current meta?
 

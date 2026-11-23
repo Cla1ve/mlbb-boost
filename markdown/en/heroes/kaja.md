@@ -11,7 +11,7 @@ Tier B
 
 # Kaja in Mobile Legends: counters and stats
 
-Support, Roam. Kaja wins 49.80% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Support, Roam. Wins 49.80% of matches over the last 30 days: #71 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.80%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Kaja as a support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Support**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Kaja as a support for the Roam. Places are 
 
 ## Who counters Kaja
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Kaja. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Kaja loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![Grock](/images/heroes/grock.webp)Grock46.61%](https://boostmlbb.ru/en/heroes/grock.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)
 
 ## Who Kaja is strong against
 
-Kaja is listed as a counter for these heroes.
+Kaja is one of the toughest opponents for these heroes.
 
 [![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (50.17%), weakest in Epic (48.42%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (50.17%), weakest in Epic (48.42%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.42%**
 -   ![](/images/ranks/Legend.webp)Legend**48.84%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Kaja](/images/heroes/kaja.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Kaja page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kaja). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Kaja’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=62)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kaja)
 
 ## Boost on Kaja
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Kaja in MLBB?
 
-By MOONTON’s official 30-day statistics: Valir, Akai, Grock, Gloo and Beatrix.
+Over the last 30 days the toughest opponents are Valir, Akai, Grock, Gloo and Beatrix.
 
 What is Kaja’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Kaja’s win rate right now?
 
 What role and lane does Kaja play?
 
-Support, Roam, according to MOONTON’s official hero page.
+Support, played on roam.
 
 Is Kaja strong in the current meta?
 

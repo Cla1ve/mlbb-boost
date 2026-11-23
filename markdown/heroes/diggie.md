@@ -11,7 +11,7 @@ language: ru
 
 # Дигги в Mobile Legends: контрпики и статистика
 
-Поддержка, роум. Дигги выигрывает 54,30% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Поддержка, роум. Выигрывает 54,30% матчей за последние 30 дней — 6-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Дигги» — поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Поддержка**
 -   Линия**Роум**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Дигги». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — маги.
+Против этих героев «Дигги» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — маги.
 
 [![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь49,57%](https://boostmlbb.ru/heroes/zhuxin.html)[![Гвиневра](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)
 
 ## Против кого силён
 
-«Дигги» числится контрпиком для этих героев.
+Для этих героев «Дигги» — один из самых неудобных соперников.
 
 [![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Новария](/images/heroes/novaria.webp)Новария49,52%](https://boostmlbb.ru/heroes/novaria.html)[![Франко](/images/heroes/franco.webp)Франко41,58%](https://boostmlbb.ru/heroes/franco.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э48,20%](https://boostmlbb.ru/heroes/change.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Мифическая слава» (55,46%), слабее всего — «Эпик» (50,73%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Мифическая слава» (55,46%), слабее всего — «Эпик» (50,73%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**50,73%**
 -   ![](/images/ranks/Legend.webp)Легенда**51,54%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Дигги](/images/heroes/diggie.webp)
 
-Историю героя, навыки и реплики собирает [страница Diggie в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Дигги», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=48)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie)
 
 ## Буст на герое «Дигги»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Дигги» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Алиса, Чжусинь, Гвиневра, Чичи и Валир.
+За последние 30 дней чаще всего героя обыгрывают Алиса, Чжусинь, Гвиневра, Чичи и Валир.
 
 Какой процент побед у героя «Дигги» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Дигги»?
 
-Поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+Поддержка, играет в роуме.
 
 Силён ли герой «Дигги» в текущей мете?
 

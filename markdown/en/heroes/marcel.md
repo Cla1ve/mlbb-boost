@@ -11,7 +11,7 @@ Tier S
 
 # Marcel in Mobile Legends: counters and stats
 
-Support, Roam. Marcel wins 57.46% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Support, Roam. Wins 57.46% of matches over the last 30 days: #2 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**57.46%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Marcel as a support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Support**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Marcel as a support for the Roam. Places ar
 
 ## Who counters Marcel
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Marcel. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Marcel loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 
 ## Who Marcel is strong against
 
-Marcel is listed as a counter for these heroes.
+Marcel is one of the toughest opponents for these heroes.
 
 [![Lesley](/images/heroes/lesley.webp)Lesley48.31%](https://boostmlbb.ru/en/heroes/lesley.html)[![Angela](/images/heroes/angela.webp)Angela49.99%](https://boostmlbb.ru/en/heroes/angela.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (57.94%), weakest in Epic (55.64%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (57.94%), weakest in Epic (55.64%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**55.64%**
 -   ![](/images/ranks/Legend.webp)Legend**56.95%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Marcel](/images/heroes/marcel.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Marcel page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Marcel). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Marcel’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=132)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Marcel)
 
 ## Boost on Marcel
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Marcel in MLBB?
 
-By MOONTON’s official 30-day statistics: Atlas, Sun, Akai, Johnson and Popol and Kupa.
+Over the last 30 days the toughest opponents are Atlas, Sun, Akai, Johnson and Popol and Kupa.
 
 What is Marcel’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Marcel’s win rate right now?
 
 What role and lane does Marcel play?
 
-Support, Roam, according to MOONTON’s official hero page.
+Support, played on roam.
 
 Is Marcel strong in the current meta?
 

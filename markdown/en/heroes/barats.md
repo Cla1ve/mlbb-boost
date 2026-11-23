@@ -11,7 +11,7 @@ Tier A
 
 # Barats in Mobile Legends: counters and stats
 
-Tank and fighter, EXP Lane. Barats wins 51.67% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and fighter, EXP Lane. Wins 51.67% of matches over the last 30 days: #33 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.67%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Barats as a tank and fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and fighter**
 -   Lane**EXP Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Barats as a tank and fighter for the EXP La
 
 ## Who counters Barats
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Barats. The number is each hero’s own win rate. 4 of the 5 counters are fighters.
+Barats loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are fighters.
 
 [![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)
 
 ## Who Barats is strong against
 
-Barats is listed as a counter for these heroes.
+Barats is one of the toughest opponents for these heroes.
 
 [![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Cecilion](/images/heroes/cecilion.webp)Cecilion50.96%](https://boostmlbb.ru/en/heroes/cecilion.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Lylia](/images/heroes/lylia.webp)Lylia49.34%](https://boostmlbb.ru/en/heroes/lylia.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Win rate by rank
 
-Best result in Mythic (52.07%), weakest in Epic (50.71%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (52.07%), weakest in Epic (50.71%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.71%**
 -   ![](/images/ranks/Legend.webp)Legend**51.47%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Barats](/images/heroes/barats.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Barats page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Barats). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Barats’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=99)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Barats)
 
 ## Boost on Barats
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Barats in MLBB?
 
-By MOONTON’s official 30-day statistics: Silvanna, Phoveus, Argus, Alucard and Eudora.
+Over the last 30 days the toughest opponents are Silvanna, Phoveus, Argus, Alucard and Eudora.
 
 What is Barats’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Barats’s win rate right now?
 
 What role and lane does Barats play?
 
-Tank and fighter, EXP Lane, according to MOONTON’s official hero page.
+Tank and fighter, played in the EXP Lane.
 
 Is Barats strong in the current meta?
 

@@ -11,7 +11,7 @@ language: ru
 
 # Инь в Mobile Legends: контрпики и статистика
 
-Боец и убийца, линия опыта или лес. Инь выигрывает 49,62% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец и убийца, линия опыта или лес. Выигрывает 49,62% матчей за последние 30 дней — 76-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Инь» — боец и убийца, играет на линии опыта или в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Боец и убийца**
 -   Линия**Линия опыта или лес**
@@ -48,19 +48,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Инь». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
+Против этих героев «Инь» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
 
 [![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Минситтар](/images/heroes/minsitthar.webp)Минситтар52,08%](https://boostmlbb.ru/heroes/minsitthar.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)
 
 ## Против кого силён
 
-«Инь» числится контрпиком для этих героев.
+Для этих героев «Инь» — один из самых неудобных соперников.
 
 [![Обсидия](/images/heroes/obsidia.webp)Обсидия53,20%](https://boostmlbb.ru/heroes/obsidia.html)[![Су Ё](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![Хирара](/images/heroes/hirara.webp)Хирара50,03%](https://boostmlbb.ru/heroes/hirara.html)[![Хильда](/images/heroes/hilda.webp)Хильда51,07%](https://boostmlbb.ru/heroes/hilda.html)[![Ланселот](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)[![Грок](/images/heroes/grock.webp)Грок46,61%](https://boostmlbb.ru/heroes/grock.html)[![Уранус](/images/heroes/uranus.webp)Уранус49,34%](https://boostmlbb.ru/heroes/uranus.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![Роджер](/images/heroes/roger.webp)Роджер48,33%](https://boostmlbb.ru/heroes/roger.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (49,97%), слабее всего — «Мифическая честь» (49,05%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (49,97%), слабее всего — «Мифическая честь» (49,05%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**49,97%**
 -   ![](/images/ranks/Legend.webp)Легенда**49,56%**
@@ -82,7 +82,9 @@ language: ru
 
 ![Инь](/images/heroes/yin.webp)
 
-Историю героя, навыки и реплики собирает [страница Yin в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yin) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Инь», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=113)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yin)
 
 ## Буст на герое «Инь»
 
@@ -90,11 +92,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Инь» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Дигги, Минситтар, Иксия, Флорин и Эстес.
+За последние 30 дней чаще всего героя обыгрывают Дигги, Минситтар, Иксия, Флорин и Эстес.
 
 Какой процент побед у героя «Инь» сейчас?
 
@@ -102,7 +106,7 @@ language: ru
 
 Какая роль и линия у героя «Инь»?
 
-Боец и убийца, играет на линии опыта или в лесу. Так героя распределяет официальная страница героев MOONTON.
+Боец и убийца, играет на линии опыта или в лесу.
 
 Силён ли герой «Инь» в текущей мете?
 

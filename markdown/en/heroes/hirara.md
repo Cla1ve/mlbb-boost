@@ -11,7 +11,7 @@ Tier B
 
 # Hirara in Mobile Legends: counters and stats
 
-Assassin, Jungle. Hirara wins 50.03% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 50.03% of matches over the last 30 days: #64 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.03%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Hirara as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,13 +46,13 @@ MOONTON’s official hero page lists Hirara as a assassin for the Jungle. Places
 
 ## Who counters Hirara
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Hirara. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Hirara loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (50.91%), weakest in Mythical Glory (49.50%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (50.91%), weakest in Mythical Glory (49.50%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.75%**
 -   ![](/images/ranks/Legend.webp)Legend**50.34%**
@@ -74,7 +74,9 @@ The strongest by win rate over the last 30 days.
 
 ![Hirara](/images/heroes/hirara.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Hirara page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hirara). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Hirara’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=133)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hirara)
 
 ## Boost on Hirara
 
@@ -82,11 +84,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Hirara in MLBB?
 
-By MOONTON’s official 30-day statistics: Hanzo, Karina, X.Borg, Yin and Lolita.
+Over the last 30 days the toughest opponents are Hanzo, Karina, X.Borg, Yin and Lolita.
 
 What is Hirara’s win rate right now?
 
@@ -94,7 +98,7 @@ What is Hirara’s win rate right now?
 
 What role and lane does Hirara play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Hirara strong in the current meta?
 

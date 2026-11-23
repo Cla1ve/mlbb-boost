@@ -217,35 +217,89 @@ A hero leaderboard place for a server or country is not guaranteed: hero rating 
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
-★★★★★20 November 2026
+Я
 
-Мифический бессмертный 180⭐ → 185⭐
+Booster
 
-HeroХарли1ч 31м
+Ясик
 
-> Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+Verified booster
 
-Booster: **Ясик**[Original on Telegram](https://t.me/Cla1ve_boost/2275)
+★★★★★
 
-★★★★★19 November 2026
+Client rating
 
-Мифический бессмертный 157⭐ → 168⭐
+On a hero
 
-HeroХарли нолан4ч 34м
+StartМифический бессмертный, 180⭐
 
-> Отличная работа, приятный и общительный бустер, доволен
+TargetМифический бессмертный, 185⭐
 
-Booster: **metaldemon**[Original on Telegram](https://t.me/Cla1ve_boost/2272)
+Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
 
-★★★★★17 November 2026
+HeroХарли
 
-Мифический бессмертный 105⭐ → 155⭐
+Time1ч 31м после оплаты
 
-HeroЛюнокс1д 10ч 35м
+20 November 2026
 
-> Второй раз купил буст. Сделали ещё лучше, чем в первый, все поставленные задачи выполнены. Крутой бустер.
+[Open review](https://t.me/Cla1ve_boost/2275)
 
-Booster: **Дайтона**[Original on Telegram](https://t.me/Cla1ve_boost/2262)
+M
+
+Booster
+
+metaldemon
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифический бессмертный, 157⭐
+
+TargetМифический бессмертный, 168⭐
+
+Отличная работа, приятный и общительный бустер, доволен
+
+HeroХарли нолан
+
+Time4ч 34м после оплаты
+
+19 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2272)
+
+Д
+
+Booster
+
+Дайтона
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифический бессмертный, 105⭐
+
+TargetМифический бессмертный, 155⭐
+
+Второй раз купил буст. Сделали ещё лучше, чем в первый, все поставленные задачи выполнены. Крутой бустер.
+
+HeroЛюнокс
+
+Time1д 10ч 35м после оплаты
+
+17 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2262)
 
 ## What your hero costs
 

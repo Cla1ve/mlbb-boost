@@ -11,7 +11,7 @@ Tier C
 
 # Aurora in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Aurora wins 48.93% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 48.93% of matches over the last 30 days: #90 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.93%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Aurora as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,13 +46,13 @@ MOONTON’s official hero page lists Aurora as a mage for the Mid Lane. Places a
 
 ## Who counters Aurora
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Aurora. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Aurora loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (49.21%), weakest in Epic (48.52%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (49.21%), weakest in Epic (48.52%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.52%**
 -   ![](/images/ranks/Legend.webp)Legend**48.72%**
@@ -74,7 +74,9 @@ The strongest by win rate over the last 30 days.
 
 ![Aurora](/images/heroes/aurora.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Aurora page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aurora). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Aurora’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=36)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aurora)
 
 ## Boost on Aurora
 
@@ -82,11 +84,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Aurora in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Odette, Eudora, Khufra and Fredrinn.
+Over the last 30 days the toughest opponents are Lolita, Odette, Eudora, Khufra and Fredrinn.
 
 What is Aurora’s win rate right now?
 
@@ -94,7 +98,7 @@ What is Aurora’s win rate right now?
 
 What role and lane does Aurora play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Aurora strong in the current meta?
 

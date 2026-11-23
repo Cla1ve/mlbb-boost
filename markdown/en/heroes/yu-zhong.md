@@ -11,7 +11,7 @@ Tier C
 
 # Yu Zhong in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. Yu Zhong wins 48.93% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 48.93% of matches over the last 30 days: #91 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.93%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Yu Zhong as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,13 +46,13 @@ MOONTON’s official hero page lists Yu Zhong as a fighter for the EXP Lane. Pla
 
 ## Who counters Yu Zhong
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Yu Zhong. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
+Yu Zhong loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
 
 [![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (49.22%), weakest in Legend (48.64%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (49.22%), weakest in Legend (48.64%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.83%**
 -   ![](/images/ranks/Legend.webp)Legend**48.64%**
@@ -74,7 +74,9 @@ The strongest by win rate over the last 30 days.
 
 ![Yu Zhong](/images/heroes/yu-zhong.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Yu Zhong page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yu_Zhong). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Yu Zhong’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=95)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yu_Zhong)
 
 ## Boost on Yu Zhong
 
@@ -82,11 +84,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Yu Zhong in MLBB?
 
-By MOONTON’s official 30-day statistics: Gloo, Minsitthar, Silvanna, Popol and Kupa and Atlas.
+Over the last 30 days the toughest opponents are Gloo, Minsitthar, Silvanna, Popol and Kupa and Atlas.
 
 What is Yu Zhong’s win rate right now?
 
@@ -94,7 +98,7 @@ What is Yu Zhong’s win rate right now?
 
 What role and lane does Yu Zhong play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is Yu Zhong strong in the current meta?
 

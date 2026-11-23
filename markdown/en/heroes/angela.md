@@ -11,7 +11,7 @@ Tier B
 
 # Angela in Mobile Legends: counters and stats
 
-Support, Roam. Angela wins 49.99% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Support, Roam. Wins 49.99% of matches over the last 30 days: #67 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.99%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Angela as a support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Support**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Angela as a support for the Roam. Places ar
 
 ## Who counters Angela
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Angela. The number is each hero’s own win rate. 2 of the 5 counters are mages.
+Angela loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are mages.
 
 [![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)[![Lancelot](/images/heroes/lancelot.webp)Lancelot43.13%](https://boostmlbb.ru/en/heroes/lancelot.html)
 
 ## Who Angela is strong against
 
-Angela is listed as a counter for these heroes.
+Angela is one of the toughest opponents for these heroes.
 
 [![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.69%), weakest in Mythical Honor (49.53%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.69%), weakest in Mythical Honor (49.53%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.69%**
 -   ![](/images/ranks/Legend.webp)Legend**50.70%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Angela](/images/heroes/angela.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Angela page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Angela). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Angela’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=55)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Angela)
 
 ## Boost on Angela
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Angela in MLBB?
 
-By MOONTON’s official 30-day statistics: Alice, Marcel, Balmond, Faramis and Lancelot.
+Over the last 30 days the toughest opponents are Alice, Marcel, Balmond, Faramis and Lancelot.
 
 What is Angela’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Angela’s win rate right now?
 
 What role and lane does Angela play?
 
-Support, Roam, according to MOONTON’s official hero page.
+Support, played on roam.
 
 Is Angela strong in the current meta?
 

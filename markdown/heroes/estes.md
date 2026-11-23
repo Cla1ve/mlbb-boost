@@ -11,7 +11,7 @@ language: ru
 
 # Эстес в Mobile Legends: контрпики и статистика
 
-Поддержка, роум. Эстес выигрывает 52,75% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Поддержка, роум. Выигрывает 52,75% матчей за последние 30 дней — 17-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Эстес» — поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Поддержка**
 -   Линия**Роум**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Эстес». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — маги.
+Против этих героев «Эстес» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — маги.
 
 [![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)
 
 ## Против кого силён
 
-«Эстес» числится контрпиком для этих героев.
+Для этих героев «Эстес» — один из самых неудобных соперников.
 
 [![Тигрил](/images/heroes/tigreal.webp)Тигрил45,22%](https://boostmlbb.ru/heroes/tigreal.html)[![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Сора](/images/heroes/sora.webp)Сора49,50%](https://boostmlbb.ru/heroes/sora.html)[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)[![Инь](/images/heroes/yin.webp)Инь49,62%](https://boostmlbb.ru/heroes/yin.html)[![Вэйл](/images/heroes/vale.webp)Вэйл50,10%](https://boostmlbb.ru/heroes/vale.html)[![Ло Йи](/images/heroes/luo-yi.webp)Ло Йи47,35%](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (53,90%), слабее всего — «Мифическая честь» (52,31%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (53,90%), слабее всего — «Мифическая честь» (52,31%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**53,90%**
 -   ![](/images/ranks/Legend.webp)Легенда**53,39%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Эстес](/images/heroes/estes.webp)
 
-Историю героя, навыки и реплики собирает [страница Estes в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Estes) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Эстес», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=34)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Estes)
 
 ## Буст на герое «Эстес»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Эстес» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Циклоп, Фарамис, Чичи, Алиса и Дигги.
+За последние 30 дней чаще всего героя обыгрывают Циклоп, Фарамис, Чичи, Алиса и Дигги.
 
 Какой процент побед у героя «Эстес» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Эстес»?
 
-Поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+Поддержка, играет в роуме.
 
 Силён ли герой «Эстес» в текущей мете?
 

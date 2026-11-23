@@ -11,7 +11,7 @@ Tier B
 
 # Paquito in Mobile Legends: counters and stats
 
-Fighter and assassin, EXP Lane or Jungle. Paquito wins 50.03% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, EXP Lane or Jungle. Wins 50.03% of matches over the last 30 days: #65 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.03%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Paquito as a fighter and assassin for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and assassin**
 -   Lane**EXP Lane or Jungle**
@@ -48,13 +48,13 @@ MOONTON’s official hero page lists Paquito as a fighter and assassin for the E
 
 ## Who counters Paquito
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Paquito. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Paquito loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (50.51%), weakest in Epic (49.53%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (50.51%), weakest in Epic (49.53%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.53%**
 -   ![](/images/ranks/Legend.webp)Legend**49.57%**
@@ -76,7 +76,9 @@ The strongest by win rate over the last 30 days.
 
 ![Paquito](/images/heroes/paquito.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Paquito page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Paquito). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Paquito’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=103)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Paquito)
 
 ## Boost on Paquito
 
@@ -84,11 +86,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Paquito in MLBB?
 
-By MOONTON’s official 30-day statistics: Natalia, X.Borg, Karina, Wanwan and Helcurt.
+Over the last 30 days the toughest opponents are Natalia, X.Borg, Karina, Wanwan and Helcurt.
 
 What is Paquito’s win rate right now?
 
@@ -96,7 +100,7 @@ What is Paquito’s win rate right now?
 
 What role and lane does Paquito play?
 
-Fighter and assassin, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Paquito strong in the current meta?
 

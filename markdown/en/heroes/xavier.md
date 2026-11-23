@@ -11,7 +11,7 @@ Tier A
 
 # Xavier in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Xavier wins 51.68% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 51.68% of matches over the last 30 days: #32 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.68%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Xavier as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Xavier as a mage for the Mid Lane. Places a
 
 ## Who counters Xavier
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Xavier. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Xavier loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Who Xavier is strong against
 
-Xavier is listed as a counter for these heroes.
+Xavier is one of the toughest opponents for these heroes.
 
 [![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (52.66%), weakest in Epic (48.54%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (52.66%), weakest in Epic (48.54%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.54%**
 -   ![](/images/ranks/Legend.webp)Legend**49.29%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Xavier](/images/heroes/xavier.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Xavier page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Xavier). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Xavier’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=115)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Xavier)
 
 ## Boost on Xavier
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Xavier in MLBB?
 
-By MOONTON’s official 30-day statistics: Popol and Kupa, Belerick, Atlas, Gloo and Faramis.
+Over the last 30 days the toughest opponents are Popol and Kupa, Belerick, Atlas, Gloo and Faramis.
 
 What is Xavier’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Xavier’s win rate right now?
 
 What role and lane does Xavier play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Xavier strong in the current meta?
 

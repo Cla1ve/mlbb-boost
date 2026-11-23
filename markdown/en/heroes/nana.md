@@ -11,7 +11,7 @@ Tier C
 
 # Nana in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Nana wins 47.27% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 47.27% of matches over the last 30 days: #116 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**47.27%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Nana as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Nana as a mage for the Mid Lane. Places are
 
 ## Who counters Nana
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Nana. The number is each hero’s own win rate.
+Nana loses to these heroes most often. The number under each icon is that hero’s own win rate.
 
 [![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Who Nana is strong against
 
-Nana is listed as a counter for these heroes.
+Nana is one of the toughest opponents for these heroes.
 
 [![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)Yi Sun-shin49.11%](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Win rate by rank
 
-Best result in Epic (49.86%), weakest in Mythical Glory (45.08%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (49.86%), weakest in Mythical Glory (45.08%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.86%**
 -   ![](/images/ranks/Legend.webp)Legend**48.48%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Nana](/images/heroes/nana.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Nana page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nana). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Nana’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=5)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nana)
 
 ## Boost on Nana
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Nana in MLBB?
 
-By MOONTON’s official 30-day statistics: Odette, Saber, Lolita, Dyrroth and Melissa.
+Over the last 30 days the toughest opponents are Odette, Saber, Lolita, Dyrroth and Melissa.
 
 What is Nana’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Nana’s win rate right now?
 
 What role and lane does Nana play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Nana strong in the current meta?
 

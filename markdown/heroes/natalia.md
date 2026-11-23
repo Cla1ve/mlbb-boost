@@ -11,7 +11,7 @@ language: ru
 
 # Наталья в Mobile Legends: контрпики и статистика
 
-Убийца, лес или роум. Наталья выигрывает 51,05% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес или роум. Выигрывает 51,05% матчей за последние 30 дней — 44-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Наталья» — убийца, играет в лесу или в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Убийца**
 -   Линия**Лес или роум**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Наталья». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+Против этих героев «Наталья» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
 [![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Минситтар](/images/heroes/minsitthar.webp)Минситтар52,08%](https://boostmlbb.ru/heroes/minsitthar.html)
 
 ## Против кого силён
 
-«Наталья» числится контрпиком для этих героев.
+Для этих героев «Наталья» — один из самых неудобных соперников.
 
 [![Эйдора](/images/heroes/eudora.webp)Эйдора50,35%](https://boostmlbb.ru/heroes/eudora.html)[![Цзэтянь](/images/heroes/zetian.webp)Цзэтянь50,89%](https://boostmlbb.ru/heroes/zetian.html)[![Госсен](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![Пакито](/images/heroes/paquito.webp)Пакито50,03%](https://boostmlbb.ru/heroes/paquito.html)[![Су Ё](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![Чу](/images/heroes/chou.webp)Чу45,10%](https://boostmlbb.ru/heroes/chou.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Броуди](/images/heroes/brody.webp)Броуди49,99%](https://boostmlbb.ru/heroes/brody.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Легенда» (51,96%), слабее всего — «Мифическая слава» (49,97%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Легенда» (51,96%), слабее всего — «Мифическая слава» (49,97%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**51,92%**
 -   ![](/images/ranks/Legend.webp)Легенда**51,96%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Наталья](/images/heroes/natalia.webp)
 
-Историю героя, навыки и реплики собирает [страница Natalia в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Наталья», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=24)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia)
 
 ## Буст на герое «Наталья»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Наталья» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Линг, Ханзо, Ксавьер, Нолан и Минситтар.
+За последние 30 дней чаще всего героя обыгрывают Линг, Ханзо, Ксавьер, Нолан и Минситтар.
 
 Какой процент побед у героя «Наталья» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Наталья»?
 
-Убийца, играет в лесу или в роуме. Так героя распределяет официальная страница героев MOONTON.
+Убийца, играет в лесу или в роуме.
 
 Силён ли герой «Наталья» в текущей мете?
 

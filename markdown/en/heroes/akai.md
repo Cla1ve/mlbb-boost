@@ -11,7 +11,7 @@ Tier B
 
 # Akai in Mobile Legends: counters and stats
 
-Tank, Roam. Akai wins 50.18% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank, Roam. Wins 50.18% of matches over the last 30 days: #59 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.18%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Akai as a tank for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Akai as a tank for the Roam. Places are by 
 
 ## Who counters Akai
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Akai. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Akai loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)
 
 ## Who Akai is strong against
 
-Akai is listed as a counter for these heroes.
+Akai is one of the toughest opponents for these heroes.
 
 [![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.45%), weakest in Mythical Glory (48.84%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.45%), weakest in Mythical Glory (48.84%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.45%**
 -   ![](/images/ranks/Legend.webp)Legend**51.23%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Akai](/images/heroes/akai.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Akai page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Akai). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Akai’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=9)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Akai)
 
 ## Boost on Akai
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Akai in MLBB?
 
-By MOONTON’s official 30-day statistics: Alucard, Harith, Nana, Silvanna and Granger.
+Over the last 30 days the toughest opponents are Alucard, Harith, Nana, Silvanna and Granger.
 
 What is Akai’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Akai’s win rate right now?
 
 What role and lane does Akai play?
 
-Tank, Roam, according to MOONTON’s official hero page.
+Tank, played on roam.
 
 Is Akai strong in the current meta?
 

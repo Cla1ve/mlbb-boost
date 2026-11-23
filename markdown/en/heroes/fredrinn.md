@@ -11,7 +11,7 @@ Tier A
 
 # Fredrinn in Mobile Legends: counters and stats
 
-Tank and fighter, Jungle. Fredrinn wins 51.25% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and fighter, Jungle. Wins 51.25% of matches over the last 30 days: #40 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.25%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Fredrinn as a tank and fighter for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and fighter**
 -   Lane**Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Fredrinn as a tank and fighter for the Jung
 
 ## Who counters Fredrinn
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Fredrinn. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
+Fredrinn loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
 
 [![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ## Who Fredrinn is strong against
 
-Fredrinn is listed as a counter for these heroes.
+Fredrinn is one of the toughest opponents for these heroes.
 
 [![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Cecilion](/images/heroes/cecilion.webp)Cecilion50.96%](https://boostmlbb.ru/en/heroes/cecilion.html)[![Aurora](/images/heroes/aurora.webp)Aurora48.93%](https://boostmlbb.ru/en/heroes/aurora.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Luo Yi](/images/heroes/luo-yi.webp)Luo Yi47.35%](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (52.22%), weakest in Legend (49.54%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (52.22%), weakest in Legend (49.54%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.04%**
 -   ![](/images/ranks/Legend.webp)Legend**49.54%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Fredrinn](/images/heroes/fredrinn.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Fredrinn page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fredrinn). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Fredrinn’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=117)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fredrinn)
 
 ## Boost on Fredrinn
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Fredrinn in MLBB?
 
-By MOONTON’s official 30-day statistics: Gloo, Alucard, Joy, Lunox and Esmeralda.
+Over the last 30 days the toughest opponents are Gloo, Alucard, Joy, Lunox and Esmeralda.
 
 What is Fredrinn’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Fredrinn’s win rate right now?
 
 What role and lane does Fredrinn play?
 
-Tank and fighter, Jungle, according to MOONTON’s official hero page.
+Tank and fighter, played in the jungle.
 
 Is Fredrinn strong in the current meta?
 

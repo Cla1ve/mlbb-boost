@@ -11,7 +11,7 @@ language: ru
 
 # Бальмонд в Mobile Legends: контрпики и статистика
 
-Боец, линия опыта или лес. Бальмонд выигрывает 46,66% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта или лес. Выигрывает 46,66% матчей за последние 30 дней — 121-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Бальмонд» — боец, играет на линии опыта или в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Боец**
 -   Линия**Линия опыта или лес**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Бальмонд». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — бойцы.
+Против этих героев «Бальмонд» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — бойцы.
 
 [![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Чип](/images/heroes/chip.webp)Чип47,60%](https://boostmlbb.ru/heroes/chip.html)[![Мартис](/images/heroes/martis.webp)Мартис47,23%](https://boostmlbb.ru/heroes/martis.html)
 
 ## Против кого силён
 
-«Бальмонд» числится контрпиком для этих героев.
+Для этих героев «Бальмонд» — один из самых неудобных соперников.
 
 [![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Су Ё](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э48,20%](https://boostmlbb.ru/heroes/change.html)[![Кэрри](/images/heroes/karrie.webp)Кэрри48,87%](https://boostmlbb.ru/heroes/karrie.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Легенда» (47,50%), слабее всего — «Мифическая слава» (45,00%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Легенда» (47,50%), слабее всего — «Мифическая слава» (45,00%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**47,21%**
 -   ![](/images/ranks/Legend.webp)Легенда**47,50%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Бальмонд](/images/heroes/balmond.webp)
 
-Историю героя, навыки и реплики собирает [страница Balmond в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Бальмонд», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=2)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond)
 
 ## Буст на герое «Бальмонд»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Бальмонд» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Сабер, Лукас, Бартс, Чип и Мартис.
+За последние 30 дней чаще всего героя обыгрывают Сабер, Лукас, Бартс, Чип и Мартис.
 
 Какой процент побед у героя «Бальмонд» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Бальмонд»?
 
-Боец, играет на линии опыта или в лесу. Так героя распределяет официальная страница героев MOONTON.
+Боец, играет на линии опыта или в лесу.
 
 Силён ли герой «Бальмонд» в текущей мете?
 

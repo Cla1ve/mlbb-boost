@@ -11,7 +11,7 @@ language: ru
 
 # Джонсон в Mobile Legends: контрпики и статистика
 
-Танк и поддержка, роум. Джонсон выигрывает 49,25% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк и поддержка, роум. Выигрывает 49,25% матчей за последние 30 дней — 87-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Джонсон» — танк и поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Танк и поддержка**
 -   Линия**Роум**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Джонсон». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
+Против этих героев «Джонсон» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
 
 [![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Дариус](/images/heroes/dyrroth.webp)Дариус49,30%](https://boostmlbb.ru/heroes/dyrroth.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Против кого силён
 
-«Джонсон» числится контрпиком для этих героев.
+Для этих героев «Джонсон» — один из самых неудобных соперников.
 
 [![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Кармилла](/images/heroes/carmilla.webp)Кармилла53,29%](https://boostmlbb.ru/heroes/carmilla.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Ланселот](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![Лилия](/images/heroes/lylia.webp)Лилия49,34%](https://boostmlbb.ru/heroes/lylia.html)[![Грок](/images/heroes/grock.webp)Грок46,61%](https://boostmlbb.ru/heroes/grock.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (52,61%), слабее всего — «Мифическая слава» (46,81%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (52,61%), слабее всего — «Мифическая слава» (46,81%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**52,61%**
 -   ![](/images/ranks/Legend.webp)Легенда**50,84%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Джонсон](/images/heroes/johnson.webp)
 
-Историю героя, навыки и реплики собирает [страница Johnson в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Джонсон», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=32)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson)
 
 ## Буст на герое «Джонсон»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Джонсон» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Лейла, Зилонг, Сабер, Дариус и Валентина.
+За последние 30 дней чаще всего героя обыгрывают Лейла, Зилонг, Сабер, Дариус и Валентина.
 
 Какой процент побед у героя «Джонсон» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Джонсон»?
 
-Танк и поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+Танк и поддержка, играет в роуме.
 
 Силён ли герой «Джонсон» в текущей мете?
 

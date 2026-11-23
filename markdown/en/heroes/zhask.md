@@ -11,7 +11,7 @@ Tier A
 
 # Zhask in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Zhask wins 52.54% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 52.54% of matches over the last 30 days: #23 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**52.54%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Zhask as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Zhask as a mage for the Mid Lane. Places ar
 
 ## Who counters Zhask
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Zhask. The number is each hero’s own win rate. 3 of the 5 counters are supports.
+Zhask loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are supports.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)[![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)
 
 ## Who Zhask is strong against
 
-Zhask is listed as a counter for these heroes.
+Zhask is one of the toughest opponents for these heroes.
 
 [![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Vexana](/images/heroes/vexana.webp)Vexana49.30%](https://boostmlbb.ru/en/heroes/vexana.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Win rate by rank
 
-Best result in Mythic (53.40%), weakest in Mythical Glory (51.46%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (53.40%), weakest in Mythical Glory (51.46%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.57%**
 -   ![](/images/ranks/Legend.webp)Legend**53.11%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Zhask](/images/heroes/zhask.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Zhask page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhask). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Zhask’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=50)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhask)
 
 ## Boost on Zhask
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Zhask in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Diggie, Kaja, Arlott and Hayabusa.
+Over the last 30 days the toughest opponents are Lolita, Diggie, Kaja, Arlott and Hayabusa.
 
 What is Zhask’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Zhask’s win rate right now?
 
 What role and lane does Zhask play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Zhask strong in the current meta?
 

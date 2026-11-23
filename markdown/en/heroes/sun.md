@@ -11,7 +11,7 @@ Tier S
 
 # Sun in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Jungle. Sun wins 53.72% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Wins 53.72% of matches over the last 30 days: #11 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**53.72%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Sun as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Sun as a fighter for the EXP Lane or Jungle
 
 ## Who counters Sun
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Sun. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
+Sun loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are assassins.
 
 [![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)
 
 ## Who Sun is strong against
 
-Sun is listed as a counter for these heroes.
+Sun is one of the toughest opponents for these heroes.
 
 [![Badang](/images/heroes/badang.webp)Badang50.19%](https://boostmlbb.ru/en/heroes/badang.html)[![Suyou](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![Kimmy](/images/heroes/kimmy.webp)Kimmy48.74%](https://boostmlbb.ru/en/heroes/kimmy.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Ruby](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Win rate by rank
 
-Best result in Epic (55.91%), weakest in Mythical Glory (52.58%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (55.91%), weakest in Mythical Glory (52.58%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**55.91%**
 -   ![](/images/ranks/Legend.webp)Legend**55.49%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Sun](/images/heroes/sun.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Sun page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Sun’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=27)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun)
 
 ## Boost on Sun
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Sun in MLBB?
 
-By MOONTON’s official 30-day statistics: Jawhead, Diggie, Harley, Saber and Karrie.
+Over the last 30 days the toughest opponents are Jawhead, Diggie, Harley, Saber and Karrie.
 
 What is Sun’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Sun’s win rate right now?
 
 What role and lane does Sun play?
 
-Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or in the jungle.
 
 Is Sun strong in the current meta?
 

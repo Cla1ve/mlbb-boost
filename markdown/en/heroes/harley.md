@@ -11,7 +11,7 @@ Tier C
 
 # Harley in Mobile Legends: counters and stats
 
-Assassin and mage, Mid Lane or Jungle. Harley wins 48.19% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin and mage, Mid Lane or Jungle. Wins 48.19% of matches over the last 30 days: #107 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.19%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Harley as a assassin and mage for the Mid Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin and mage**
 -   Lane**Mid Lane or Jungle**
@@ -48,19 +48,19 @@ MOONTON’s official hero page lists Harley as a assassin and mage for the Mid L
 
 ## Who counters Harley
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Harley. The number is each hero’s own win rate. 3 of the 5 counters are mages.
+Harley loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are mages.
 
 [![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)
 
 ## Who Harley is strong against
 
-Harley is listed as a counter for these heroes.
+Harley is one of the toughest opponents for these heroes.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Roger](/images/heroes/roger.webp)Roger48.33%](https://boostmlbb.ru/en/heroes/roger.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (48.46%), weakest in Epic (47.93%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (48.46%), weakest in Epic (47.93%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.93%**
 -   ![](/images/ranks/Legend.webp)Legend**48.06%**
@@ -82,7 +82,9 @@ The strongest by win rate over the last 30 days.
 
 ![Harley](/images/heroes/harley.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Harley page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harley). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Harley’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=42)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harley)
 
 ## Boost on Harley
 
@@ -90,11 +92,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Harley in MLBB?
 
-By MOONTON’s official 30-day statistics: Alice, Valir, Melissa, Gord and Joy.
+Over the last 30 days the toughest opponents are Alice, Valir, Melissa, Gord and Joy.
 
 What is Harley’s win rate right now?
 
@@ -102,7 +106,7 @@ What is Harley’s win rate right now?
 
 What role and lane does Harley play?
 
-Assassin and mage, Mid Lane or Jungle, according to MOONTON’s official hero page.
+Assassin and mage, played in the Mid Lane or in the jungle.
 
 Is Harley strong in the current meta?
 

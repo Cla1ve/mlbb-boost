@@ -11,7 +11,7 @@ Tier C
 
 # Kimmy in Mobile Legends: counters and stats
 
-Mage and marksman, Gold Lane or Mid Lane. Kimmy wins 48.74% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage and marksman, Gold Lane or Mid Lane. Wins 48.74% of matches over the last 30 days: #98 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.74%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Kimmy as a mage and marksman for the Gold Lane or Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage and marksman**
 -   Lane**Gold Lane or Mid Lane**
@@ -48,19 +48,19 @@ MOONTON’s official hero page lists Kimmy as a mage and marksman for the Gold L
 
 ## Who counters Kimmy
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Kimmy. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Kimmy loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ## Who Kimmy is strong against
 
-Kimmy is listed as a counter for these heroes.
+Kimmy is one of the toughest opponents for these heroes.
 
 [![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (48.99%), weakest in Legend (48.11%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (48.99%), weakest in Legend (48.11%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.68%**
 -   ![](/images/ranks/Legend.webp)Legend**48.11%**
@@ -82,7 +82,9 @@ The strongest by win rate over the last 30 days.
 
 ![Kimmy](/images/heroes/kimmy.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Kimmy page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kimmy). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Kimmy’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=71)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kimmy)
 
 ## Boost on Kimmy
 
@@ -90,11 +92,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Kimmy in MLBB?
 
-By MOONTON’s official 30-day statistics: Sun, Hylos, Atlas, Uranus and Hilda.
+Over the last 30 days the toughest opponents are Sun, Hylos, Atlas, Uranus and Hilda.
 
 What is Kimmy’s win rate right now?
 
@@ -102,7 +106,7 @@ What is Kimmy’s win rate right now?
 
 What role and lane does Kimmy play?
 
-Mage and marksman, Gold Lane or Mid Lane, according to MOONTON’s official hero page.
+Mage and marksman, played in the Gold Lane or in the Mid Lane.
 
 Is Kimmy strong in the current meta?
 

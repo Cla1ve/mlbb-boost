@@ -11,7 +11,7 @@ Tier A
 
 # Belerick in Mobile Legends: counters and stats
 
-Tank, Roam. Belerick wins 51.83% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank, Roam. Wins 51.83% of matches over the last 30 days: #30 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.83%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Belerick as a tank for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Belerick as a tank for the Roam. Places are
 
 ## Who counters Belerick
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Belerick. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Belerick loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Miya](/images/heroes/miya.webp)Miya49.71%](https://boostmlbb.ru/en/heroes/miya.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)
 
 ## Who Belerick is strong against
 
-Belerick is listed as a counter for these heroes.
+Belerick is one of the toughest opponents for these heroes.
 
 [![Lesley](/images/heroes/lesley.webp)Lesley48.31%](https://boostmlbb.ru/en/heroes/lesley.html)[![Brody](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)[![Clint](/images/heroes/clint.webp)Clint50.33%](https://boostmlbb.ru/en/heroes/clint.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Leomord](/images/heroes/leomord.webp)Leomord50.09%](https://boostmlbb.ru/en/heroes/leomord.html)
 
 ## Win rate by rank
 
-Best result in Epic (55.96%), weakest in Mythical Glory (50.01%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (55.96%), weakest in Mythical Glory (50.01%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**55.96%**
 -   ![](/images/ranks/Legend.webp)Legend**54.43%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Belerick](/images/heroes/belerick.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Belerick page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Belerick’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=70)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick)
 
 ## Boost on Belerick
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Belerick in MLBB?
 
-By MOONTON’s official 30-day statistics: Miya, Silvanna, Zhask, Johnson and Zilong.
+Over the last 30 days the toughest opponents are Miya, Silvanna, Zhask, Johnson and Zilong.
 
 What is Belerick’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Belerick’s win rate right now?
 
 What role and lane does Belerick play?
 
-Tank, Roam, according to MOONTON’s official hero page.
+Tank, played on roam.
 
 Is Belerick strong in the current meta?
 

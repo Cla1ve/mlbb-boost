@@ -11,7 +11,7 @@ Tier A
 
 # Natalia in Mobile Legends: counters and stats
 
-Assassin, Jungle or Roam. Natalia wins 51.05% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle or Roam. Wins 51.05% of matches over the last 30 days: #44 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.05%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Natalia as a assassin for the Jungle or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle or Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Natalia as a assassin for the Jungle or Roa
 
 ## Who counters Natalia
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Natalia. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Natalia loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)[![Nolan](/images/heroes/nolan.webp)Nolan49.71%](https://boostmlbb.ru/en/heroes/nolan.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)
 
 ## Who Natalia is strong against
 
-Natalia is listed as a counter for these heroes.
+Natalia is one of the toughest opponents for these heroes.
 
 [![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Zetian](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Paquito](/images/heroes/paquito.webp)Paquito50.03%](https://boostmlbb.ru/en/heroes/paquito.html)[![Suyou](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![Chou](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Brody](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)
 
 ## Win rate by rank
 
-Best result in Legend (51.96%), weakest in Mythical Glory (49.97%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (51.96%), weakest in Mythical Glory (49.97%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.92%**
 -   ![](/images/ranks/Legend.webp)Legend**51.96%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Natalia](/images/heroes/natalia.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Natalia page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Natalia’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=24)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia)
 
 ## Boost on Natalia
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Natalia in MLBB?
 
-By MOONTON’s official 30-day statistics: Ling, Hanzo, Xavier, Nolan and Minsitthar.
+Over the last 30 days the toughest opponents are Ling, Hanzo, Xavier, Nolan and Minsitthar.
 
 What is Natalia’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Natalia’s win rate right now?
 
 What role and lane does Natalia play?
 
-Assassin, Jungle or Roam, according to MOONTON’s official hero page.
+Assassin, played in the jungle or on roam.
 
 Is Natalia strong in the current meta?
 

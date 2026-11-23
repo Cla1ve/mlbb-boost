@@ -83,16 +83,16 @@ export function heroGuides(data) {
         ...hero.lanes.map(lane => [en ? capital(laneAt[lane][1]) : capital(laneAt[lane][0]), en ? `#${laneRank(lane)} of ${withLane(lane).length}` : `${laneRank(lane)}-е из ${withLane(lane).length}`])
       ];
       html += section(en ? 'Role and lane' : 'Роль и линия', `<ul class="hero-facts">${facts.map(([label, value]) => `<li><span>${label}</span><strong>${value}</strong></li>`).join('')}</ul>`,
-        en ? `MOONTON’s official hero page lists ${hero.en} as a ${roleList(hero, 'en')} for the ${laneList(hero, 'en')}. Places are by win rate over the last 30 days among heroes of the same role or lane.`
-           : `По официальной странице героев MOONTON ${quoted} — ${roleList(hero, 'ru')}, играет ${hero.lanes.map(lane => laneAt[lane][0]).join(' или ')}. Место — по проценту побед за 30 дней среди героев той же роли или линии.`);
+        en ? `Places are by win rate over the last 30 days among heroes of the same role or lane.`
+           : `Место считается по проценту побед за 30 дней среди героев той же роли или линии.`);
       const counterNote = topCounterCount >= 2
         ? (en ? ` ${topCounterCount} of the ${hero.counters.length} counters are ${ROLE[topCounterRole].enPlural}.` : ` ${topCounterCount} из ${hero.counters.length} контрпиков — ${ROLE[topCounterRole].plural}.`)
         : '';
       html += section(en ? `Who counters ${hero.en}` : 'Кто контрит этого героя', chips(hero.counters, lang),
-        (en ? `MOONTON’s official statistics list these heroes as the toughest opponents for ${hero.en}. The number is each hero’s own win rate.`
-           : `Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя ${quoted}. Под иконкой — их собственный процент побед.`) + counterNote);
+        (en ? `${hero.en} loses to these heroes most often. The number under each icon is that hero’s own win rate.`
+           : `Против этих героев ${quoted} проигрывает чаще всего. Под иконкой — их собственный процент побед.`) + counterNote);
       if (strong.length) html += section(en ? `Who ${hero.en} is strong against` : 'Против кого силён', chips(strong, lang),
-        en ? `${hero.en} is listed as a counter for these heroes.` : `${quoted} числится контрпиком для этих героев.`);
+        en ? `${hero.en} is one of the toughest opponents for these heroes.` : `Для этих героев ${quoted} — один из самых неудобных соперников.`);
       const meta = [];
       meta.push(en ? `${hero.en} sits in tier ${tierTitle[hero.tier]} of our win-rate tier list and ranks ${hero.rank} of 133 heroes.` : `${quoted} — тир ${tierTitle[hero.tier]} в нашем тир-листе по проценту побед, ${hero.rank}-е место из 133 героев.`);
       if (hero.lowPick) meta.push(en ? 'The hero is picked in under 0.5% of matches, so the win rate can swing a lot.' : 'Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться.');
@@ -111,24 +111,27 @@ export function heroGuides(data) {
         const bar = value => Math.max(4, Math.min(100, (value - 40) / 25 * 100)).toFixed(1);
         const rows = RANK_ROWS.map(([key, icon, ru, enName]) => `<li><img src="/images/ranks/${icon}.webp" width="40" height="40" alt="" loading="lazy" decoding="async"><span class="hero-ranks__name">${en ? enName : ru}</span><span class="hero-ranks__bar"><i style="width:${bar(hero.byRank[key])}%"></i></span><strong>${pct(hero.byRank[key], lang)}</strong></li>`).join('');
         html += section(en ? 'Win rate by rank' : 'Процент побед по рангам', `<ul class="hero-ranks">${rows}</ul>`,
-          en ? `Best result in ${best[3]} (${pct(hero.byRank[best[0]], 'en')}), weakest in ${worst[3]} (${pct(hero.byRank[worst[0]], 'en')}). Official MOONTON statistics for the last 30 days.`
-             : `Лучший результат — на ранге «${best[2]}» (${pct(hero.byRank[best[0]], 'ru')}), слабее всего — «${worst[2]}» (${pct(hero.byRank[worst[0]], 'ru')}). Официальная статистика MOONTON за последние 30 дней.`);
+          en ? `Best result in ${best[3]} (${pct(hero.byRank[best[0]], 'en')}), weakest in ${worst[3]} (${pct(hero.byRank[worst[0]], 'en')}). Last 30 days.`
+             : `Лучший результат — на ранге «${best[2]}» (${pct(hero.byRank[best[0]], 'ru')}), слабее всего — «${worst[2]}» (${pct(hero.byRank[worst[0]], 'ru')}). Данные за последние 30 дней.`);
       }
       html += section(en ? 'Place in the meta' : 'Место в мете', `<p>${meta.join(' ')} ${en ? 'See the full' : 'Полный'} <a href="/news/mlbb-meta-tier-list/">${en ? 'tier list' : 'тир-лист ноября'}</a> ${en ? 'and the' : 'и'} <a href="/news/mlbb-current-patch/">${en ? 'patch breakdown' : 'разбор патча'}</a>.</p>`);
       if (sameLane.length) html += section(en ? `Other ${LANE[hero.lanes[0]].en} heroes` : `Другие герои ${LANE[hero.lanes[0]].gen}`, chips(sameLane.map(item => item.slug), lang),
         en ? 'The strongest by win rate over the last 30 days.' : 'Самые сильные по проценту побед за последние 30 дней.');
       const wiki = `https://mobile-legends.fandom.com/wiki/${encodeURIComponent(hero.en.replace(/ /g, '_')).replace(/%2E/gi, '.')}`;
-      html += section(en ? 'Lore and skills' : 'История и навыки', `<div class="lp-callout"><img src="/images/heroes/${hero.slug}.webp" width="96" height="96" alt="${name(hero, lang)}" loading="lazy" decoding="async"><p>${en ? `The hero’s backstory, skills and voice lines are collected on the <a href="${wiki}" target="_blank" rel="noopener noreferrer">${hero.en} page of the MLBB Wiki</a>. Official skill descriptions, skill order and combos are on the <a href="https://www.mobilelegends.com/hero" target="_blank" rel="noopener noreferrer">MOONTON heroes page</a>.` : `Историю героя, навыки и реплики собирает <a href="${wiki}" target="_blank" rel="noopener noreferrer">страница ${hero.en} в MLBB Wiki</a> (на английском). Официальные описания навыков, порядок прокачки и комбо — на <a href="https://www.mobilelegends.com/hero" target="_blank" rel="noopener noreferrer">странице героев MOONTON</a>.`}</p></div>`);
+      // Official hero page id = 134 − position in the official list (newest first); checked on 9 heroes from 1 to 133.
+      const official = `https://www.mobilelegends.com/hero/detail?heroid=${134 - hero.releaseOrder}`;
+      html += section(en ? 'Lore and skills' : 'История и навыки', `<div class="lore-card"><img src="/images/heroes/${hero.slug}.webp" width="96" height="96" alt="${name(hero, lang)}" loading="lazy" decoding="async"><div class="lore-card__body"><p>${en ? `${hero.en}’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.` : `Биография героя ${quoted}, все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.`}</p><div class="lore-card__actions"><a class="lore-btn lore-btn--main" href="${official}" target="_blank" rel="noopener noreferrer"><i class="fas fa-id-card" aria-hidden="true"></i><span>${en ? 'Lore and skills' : 'История и навыки'}</span></a><a class="lore-btn" href="${wiki}" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>MLBB Wiki</span></a></div></div></div>`);
       html += final(en ? `Boost on ${hero.en}` : `Буст на герое ${quoted}`, en ? 'The booster plays only this hero, so the hero rating grows with your rank.' : 'Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.', en ? 'Calculate the price' : 'Рассчитать стоимость');
+      html += `<p class="lp-note">${en ? `Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated ${statsDate('en')} and refreshed daily. Roles and lanes: the official hero page.` : `Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление ${statsDate('ru')}, страница обновляется каждый день. Роли и линии — с официальной страницы героев.`}</p>`;
       return html;
     };
     const faq = lang => {
       const en = lang === 'en';
       const quoted = en ? hero.en : `«${hero.ru}»`;
       return [
-        [en ? `Who counters ${hero.en} in MLBB?` : `Кто контрпик для героя ${quoted} в MLBB?`, en ? `By MOONTON’s official 30-day statistics: ${join(counterNames('en'), 'en')}.` : `По официальной статистике MOONTON за 30 дней: ${join(counterNames('ru'), 'ru')}.`],
+        [en ? `Who counters ${hero.en} in MLBB?` : `Кто контрпик для героя ${quoted} в MLBB?`, en ? `Over the last 30 days the toughest opponents are ${join(counterNames('en'), 'en')}.` : `За последние 30 дней чаще всего героя обыгрывают ${join(counterNames('ru'), 'ru')}.`],
         [en ? `What is ${hero.en}’s win rate right now?` : `Какой процент побед у героя ${quoted} сейчас?`, en ? `${pct(hero.win, 'en')} over the last 30 days across all ranks and ${pct(hero.gloryWin, 'en')} in Mythical Glory, as of ${statsDate('en')}.` : `${pct(hero.win, 'ru')} за последние 30 дней на всех рангах и ${pct(hero.gloryWin, 'ru')} в Мифической славе, данные на ${statsDate('ru')}.`],
-        [en ? `What role and lane does ${hero.en} play?` : `Какая роль и линия у героя ${quoted}?`, en ? `${capital(roleList(hero, 'en'))}, ${laneList(hero, 'en')}, according to MOONTON’s official hero page.` : `${capital(roleList(hero, 'ru'))}, играет ${hero.lanes.map(lane => laneAt[lane][0]).join(' или ')}. Так героя распределяет официальная страница героев MOONTON.`],
+        [en ? `What role and lane does ${hero.en} play?` : `Какая роль и линия у героя ${quoted}?`, en ? `${capital(roleList(hero, 'en'))}, played ${hero.lanes.map(lane => laneAt[lane][1]).join(' or ')}.` : `${capital(roleList(hero, 'ru'))}, играет ${hero.lanes.map(lane => laneAt[lane][0]).join(' или ')}.`],
         [en ? `Is ${hero.en} strong in the current meta?` : `Силён ли герой ${quoted} в текущей мете?`, en ? `Tier ${hero.tier}: #${hero.rank} of 133 heroes by 30-day win rate and #${roleRank(hero.roles[0])} among ${ROLE[hero.roles[0]].enPlural}.` : `Тир ${hero.tier}: ${hero.rank}-е место из 133 героев по проценту побед за 30 дней и ${roleRank(hero.roles[0])}-е среди ${ROLE[hero.roles[0]].gen}.`]
       ];
     };
@@ -138,7 +141,7 @@ export function heroGuides(data) {
     const heroHead = lang => {
       const en = lang === 'en';
       return { badge: en ? `Tier ${hero.tier}` : `Тир ${hero.tier}`, icon: 'fa-user-shield', h1: en ? `${hero.en} in Mobile Legends: counters and stats` : `${hero.ru} в Mobile Legends: контрпики и статистика`,
-        sub: en ? `${capital(roleList(hero, 'en'))}, ${laneList(hero, 'en')}. ${hero.en} wins ${pct(hero.win, 'en')} of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.` : `${capital(roleList(hero, 'ru'))}, ${laneList(hero, 'ru')}. ${hero.ru} выигрывает ${pct(hero.win, 'ru')} матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.`,
+        sub: en ? `${capital(roleList(hero, 'en'))}, ${laneList(hero, 'en')}. Wins ${pct(hero.win, 'en')} of matches over the last 30 days: #${hero.rank} of 133 heroes.` : `${capital(roleList(hero, 'ru'))}, ${laneList(hero, 'ru')}. Выигрывает ${pct(hero.win, 'ru')} матчей за последние 30 дней — ${hero.rank}-е место из 133 героев.`,
         primary: [en ? 'Boost on this hero' : 'Буст на этом герое', BOT_PRICE], secondary: [en ? 'All heroes' : 'Все герои', '/heroes/'], secondaryIcon: 'fa-users' };
     };
     const lang = l => [...meta(l), body(l), faq(l), heroHead(l)];

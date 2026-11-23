@@ -11,7 +11,7 @@ Tier C
 
 # Chang'e in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Chang'e wins 48.20% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 48.20% of matches over the last 30 days: #106 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.20%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Chang'e as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Chang'e as a mage for the Mid Lane. Places 
 
 ## Who counters Chang'e
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Chang'e. The number is each hero’s own win rate. 4 of the 5 counters are fighters.
+Chang'e loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are fighters.
 
 [![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Martis](/images/heroes/martis.webp)Martis47.23%](https://boostmlbb.ru/en/heroes/martis.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ## Who Chang'e is strong against
 
-Chang'e is listed as a counter for these heroes.
+Chang'e is one of the toughest opponents for these heroes.
 
 [![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.12%), weakest in Mythical Glory (45.81%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.12%), weakest in Mythical Glory (45.81%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.12%**
 -   ![](/images/ranks/Legend.webp)Legend**49.77%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Chang'e](/images/heroes/change.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Chang'e page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chang'e). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Chang'e’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=61)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chang'e)
 
 ## Boost on Chang'e
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Chang'e in MLBB?
 
-By MOONTON’s official 30-day statistics: Diggie, Balmond, Martis, Alpha and X.Borg.
+Over the last 30 days the toughest opponents are Diggie, Balmond, Martis, Alpha and X.Borg.
 
 What is Chang'e’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Chang'e’s win rate right now?
 
 What role and lane does Chang'e play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Chang'e strong in the current meta?
 

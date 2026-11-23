@@ -11,7 +11,7 @@ Tier B
 
 # Melissa in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Melissa wins 50.07% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 50.07% of matches over the last 30 days: #63 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.07%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Melissa as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Melissa as a marksman for the Gold Lane. Pl
 
 ## Who counters Melissa
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Melissa. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
+Melissa loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are assassins.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Leomord](/images/heroes/leomord.webp)Leomord50.09%](https://boostmlbb.ru/en/heroes/leomord.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)
 
 ## Who Melissa is strong against
 
-Melissa is listed as a counter for these heroes.
+Melissa is one of the toughest opponents for these heroes.
 
 [![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)Yi Sun-shin49.11%](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Vale](/images/heroes/vale.webp)Vale50.10%](https://boostmlbb.ru/en/heroes/vale.html)[![Pharsa](/images/heroes/pharsa.webp)Pharsa47.26%](https://boostmlbb.ru/en/heroes/pharsa.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (51.65%), weakest in Epic (47.63%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (51.65%), weakest in Epic (47.63%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.63%**
 -   ![](/images/ranks/Legend.webp)Legend**48.18%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Melissa](/images/heroes/melissa.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Melissa page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Melissa). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Melissa’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=114)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Melissa)
 
 ## Boost on Melissa
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Melissa in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Popol and Kupa, Leomord, Joy and Ling.
+Over the last 30 days the toughest opponents are Lolita, Popol and Kupa, Leomord, Joy and Ling.
 
 What is Melissa’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Melissa’s win rate right now?
 
 What role and lane does Melissa play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Melissa strong in the current meta?
 

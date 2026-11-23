@@ -11,7 +11,7 @@ Tier B
 
 # Vale in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Vale wins 50.10% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 50.10% of matches over the last 30 days: #60 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.10%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Vale as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Vale as a mage for the Mid Lane. Places are
 
 ## Who counters Vale
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Vale. The number is each hero’s own win rate. 2 of the 5 counters are supports.
+Vale loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are supports.
 
 [![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ## Who Vale is strong against
 
-Vale is listed as a counter for these heroes.
+Vale is one of the toughest opponents for these heroes.
 
 [![Lapu-Lapu](/images/heroes/lapu-lapu.webp)Lapu-Lapu48.08%](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![Khaleed](/images/heroes/khaleed.webp)Khaleed50.35%](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.45%), weakest in Mythical Glory (48.75%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.45%), weakest in Mythical Glory (48.75%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.45%**
 -   ![](/images/ranks/Legend.webp)Legend**50.78%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Vale](/images/heroes/vale.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Vale page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vale). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Vale’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=66)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vale)
 
 ## Boost on Vale
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Vale in MLBB?
 
-By MOONTON’s official 30-day statistics: Odette, Estes, Melissa, Rafaela and Silvanna.
+Over the last 30 days the toughest opponents are Odette, Estes, Melissa, Rafaela and Silvanna.
 
 What is Vale’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Vale’s win rate right now?
 
 What role and lane does Vale play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Vale strong in the current meta?
 

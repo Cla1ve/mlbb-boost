@@ -11,7 +11,7 @@ Tier S
 
 # Aulus in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Jungle. Aulus wins 53.46% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Wins 53.46% of matches over the last 30 days: #12 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**53.46%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Aulus as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Jungle**
@@ -47,13 +47,13 @@ MOONTON’s official hero page lists Aulus as a fighter for the EXP Lane or Jung
 
 ## Who counters Aulus
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Aulus. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Aulus loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (54.11%), weakest in Epic (51.65%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (54.11%), weakest in Epic (51.65%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.65%**
 -   ![](/images/ranks/Legend.webp)Legend**52.55%**
@@ -75,7 +75,9 @@ The strongest by win rate over the last 30 days.
 
 ![Aulus](/images/heroes/aulus.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Aulus page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aulus). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Aulus’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=108)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aulus)
 
 ## Boost on Aulus
 
@@ -83,11 +85,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Aulus in MLBB?
 
-By MOONTON’s official 30-day statistics: Gloo, Minsitthar, Tigreal, Lolita and Natalia.
+Over the last 30 days the toughest opponents are Gloo, Minsitthar, Tigreal, Lolita and Natalia.
 
 What is Aulus’s win rate right now?
 
@@ -95,7 +99,7 @@ What is Aulus’s win rate right now?
 
 What role and lane does Aulus play?
 
-Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or in the jungle.
 
 Is Aulus strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier B
 
 # X.Borg in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. X.Borg wins 49.96% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 49.96% of matches over the last 30 days: #68 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.96%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists X.Borg as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists X.Borg as a fighter for the EXP Lane. Place
 
 ## Who counters X.Borg
 
-MOONTON’s official statistics list these heroes as the toughest opponents for X.Borg. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+X.Borg loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Terizla](/images/heroes/terizla.webp)Terizla50.60%](https://boostmlbb.ru/en/heroes/terizla.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Who X.Borg is strong against
 
-X.Borg is listed as a counter for these heroes.
+X.Borg is one of the toughest opponents for these heroes.
 
 [![Nolan](/images/heroes/nolan.webp)Nolan49.71%](https://boostmlbb.ru/en/heroes/nolan.html)[![Selena](/images/heroes/selena.webp)Selena48.34%](https://boostmlbb.ru/en/heroes/selena.html)[![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Paquito](/images/heroes/paquito.webp)Paquito50.03%](https://boostmlbb.ru/en/heroes/paquito.html)[![Suyou](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![Chou](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)
 
 ## Win rate by rank
 
-Best result in Legend (51.22%), weakest in Mythical Glory (48.70%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (51.22%), weakest in Mythical Glory (48.70%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.89%**
 -   ![](/images/ranks/Legend.webp)Legend**51.22%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![X.Borg](/images/heroes/x-borg.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [X.Borg page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/X.Borg). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+X.Borg’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=83)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/X.Borg)
 
 ## Boost on X.Borg
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters X.Borg in MLBB?
 
-By MOONTON’s official 30-day statistics: Baxia, Barats, Terizla, Phoveus and Hylos.
+Over the last 30 days the toughest opponents are Baxia, Barats, Terizla, Phoveus and Hylos.
 
 What is X.Borg’s win rate right now?
 
@@ -100,7 +104,7 @@ What is X.Borg’s win rate right now?
 
 What role and lane does X.Borg play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is X.Borg strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier C
 
 # Chip in Mobile Legends: counters and stats
 
-Tank and support, Roam. Chip wins 47.60% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and support, Roam. Wins 47.60% of matches over the last 30 days: #112 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**47.60%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Chip as a tank and support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and support**
 -   Lane**Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Chip as a tank and support for the Roam. Pl
 
 ## Who counters Chip
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Chip. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Chip loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Valentina](/images/heroes/valentina.webp)Valentina44.73%](https://boostmlbb.ru/en/heroes/valentina.html)[![Selena](/images/heroes/selena.webp)Selena48.34%](https://boostmlbb.ru/en/heroes/selena.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)
 
 ## Who Chip is strong against
 
-Chip is listed as a counter for these heroes.
+Chip is one of the toughest opponents for these heroes.
 
 [![Vexana](/images/heroes/vexana.webp)Vexana49.30%](https://boostmlbb.ru/en/heroes/vexana.html)[![Carmilla](/images/heroes/carmilla.webp)Carmilla53.29%](https://boostmlbb.ru/en/heroes/carmilla.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Martis](/images/heroes/martis.webp)Martis47.23%](https://boostmlbb.ru/en/heroes/martis.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (48.16%), weakest in Mythical Honor (46.94%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (48.16%), weakest in Mythical Honor (46.94%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**46.97%**
 -   ![](/images/ranks/Legend.webp)Legend**47.07%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Chip](/images/heroes/chip.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Chip page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chip). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Chip’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=124)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chip)
 
 ## Boost on Chip
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Chip in MLBB?
 
-By MOONTON’s official 30-day statistics: Zilong, Helcurt, Valentina, Selena and Floryn.
+Over the last 30 days the toughest opponents are Zilong, Helcurt, Valentina, Selena and Floryn.
 
 What is Chip’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Chip’s win rate right now?
 
 What role and lane does Chip play?
 
-Tank and support, Roam, according to MOONTON’s official hero page.
+Tank and support, played on roam.
 
 Is Chip strong in the current meta?
 

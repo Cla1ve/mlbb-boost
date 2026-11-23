@@ -11,7 +11,7 @@ Tier C
 
 # Pharsa in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Pharsa wins 47.26% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 47.26% of matches over the last 30 days: #117 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**47.26%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Pharsa as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,13 +46,13 @@ MOONTON’s official hero page lists Pharsa as a mage for the Mid Lane. Places a
 
 ## Who counters Pharsa
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Pharsa. The number is each hero’s own win rate. 2 of the 5 counters are supports.
+Pharsa loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are supports.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)
 
 ## Win rate by rank
 
-Best result in Epic (47.98%), weakest in Mythical Honor (47.05%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (47.98%), weakest in Mythical Honor (47.05%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.98%**
 -   ![](/images/ranks/Legend.webp)Legend**47.40%**
@@ -74,7 +74,9 @@ The strongest by win rate over the last 30 days.
 
 ![Pharsa](/images/heroes/pharsa.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Pharsa page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Pharsa). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Pharsa’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=52)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Pharsa)
 
 ## Boost on Pharsa
 
@@ -82,11 +84,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Pharsa in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Diggie, Melissa, Valir and Hanabi.
+Over the last 30 days the toughest opponents are Lolita, Diggie, Melissa, Valir and Hanabi.
 
 What is Pharsa’s win rate right now?
 
@@ -94,7 +98,7 @@ What is Pharsa’s win rate right now?
 
 What role and lane does Pharsa play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Pharsa strong in the current meta?
 

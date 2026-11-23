@@ -11,7 +11,7 @@ language: ru
 
 # Глу в Mobile Legends: контрпики и статистика
 
-Танк, линия опыта или роум. Глу выигрывает 53,45% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк, линия опыта или роум. Выигрывает 53,45% матчей за последние 30 дней — 13-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Глу» — танк, играет на линии опыта или в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Танк**
 -   Линия**Линия опыта или роум**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Глу». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — маги.
+Против этих героев «Глу» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — маги.
 
 [![Эймон](/images/heroes/aamon.webp)Эймон50,24%](https://boostmlbb.ru/heroes/aamon.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Кусака](/images/heroes/jawhead.webp)Кусака47,87%](https://boostmlbb.ru/heroes/jawhead.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э48,20%](https://boostmlbb.ru/heroes/change.html)[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)
 
 ## Против кого силён
 
-«Глу» числится контрпиком для этих героев.
+Для этих героев «Глу» — один из самых неудобных соперников.
 
 [![Вексана](/images/heroes/vexana.webp)Вексана49,30%](https://boostmlbb.ru/heroes/vexana.html)[![Кармилла](/images/heroes/carmilla.webp)Кармилла53,29%](https://boostmlbb.ru/heroes/carmilla.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Москов](/images/heroes/moskov.webp)Москов50,31%](https://boostmlbb.ru/heroes/moskov.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Чонг](/images/heroes/yu-zhong.webp)Чонг48,93%](https://boostmlbb.ru/heroes/yu-zhong.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Кайя](/images/heroes/kaja.webp)Кайя49,80%](https://boostmlbb.ru/heroes/kaja.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Легенда» (56,11%), слабее всего — «Мифическая слава» (51,51%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Легенда» (56,11%), слабее всего — «Мифическая слава» (51,51%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,73%**
 -   ![](/images/ranks/Legend.webp)Легенда**56,11%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Глу](/images/heroes/gloo.webp)
 
-Историю героя, навыки и реплики собирает [страница Gloo в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gloo) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Глу», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=104)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gloo)
 
 ## Буст на герое «Глу»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Глу» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Эймон, Джонсон, Кусака, Чан'Э и Нана.
+За последние 30 дней чаще всего героя обыгрывают Эймон, Джонсон, Кусака, Чан'Э и Нана.
 
 Какой процент побед у героя «Глу» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Глу»?
 
-Танк, играет на линии опыта или в роуме. Так героя распределяет официальная страница героев MOONTON.
+Танк, играет на линии опыта или в роуме.
 
 Силён ли герой «Глу» в текущей мете?
 

@@ -11,7 +11,7 @@ Tier B
 
 # Odette in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Odette wins 49.69% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 49.69% of matches over the last 30 days: #75 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.69%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Odette as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Odette as a mage for the Mid Lane. Places a
 
 ## Who counters Odette
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Odette. The number is each hero’s own win rate. 4 of the 5 counters are supports.
+Odette loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are supports.
 
 [![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)[![Mathilda](/images/heroes/mathilda.webp)Mathilda44.49%](https://boostmlbb.ru/en/heroes/mathilda.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)[![Valentina](/images/heroes/valentina.webp)Valentina44.73%](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Who Odette is strong against
 
-Odette is listed as a counter for these heroes.
+Odette is one of the toughest opponents for these heroes.
 
 [![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Vexana](/images/heroes/vexana.webp)Vexana49.30%](https://boostmlbb.ru/en/heroes/vexana.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Julian](/images/heroes/julian.webp)Julian49.95%](https://boostmlbb.ru/en/heroes/julian.html)[![Aurora](/images/heroes/aurora.webp)Aurora48.93%](https://boostmlbb.ru/en/heroes/aurora.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Vale](/images/heroes/vale.webp)Vale50.10%](https://boostmlbb.ru/en/heroes/vale.html)[![Terizla](/images/heroes/terizla.webp)Terizla50.60%](https://boostmlbb.ru/en/heroes/terizla.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (51.61%), weakest in Epic (47.72%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (51.61%), weakest in Epic (47.72%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.72%**
 -   ![](/images/ranks/Legend.webp)Legend**48.47%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Odette](/images/heroes/odette.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Odette page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Odette). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Odette’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=46)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Odette)
 
 ## Boost on Odette
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Odette in MLBB?
 
-By MOONTON’s official 30-day statistics: Kaja, Mathilda, Faramis, Chip and Valentina.
+Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip and Valentina.
 
 What is Odette’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Odette’s win rate right now?
 
 What role and lane does Odette play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Odette strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier C
 
 # Joy in Mobile Legends: counters and stats
 
-Assassin, Jungle. Joy wins 48.79% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 48.79% of matches over the last 30 days: #97 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.79%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Joy as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Joy as a assassin for the Jungle. Places ar
 
 ## Who counters Joy
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Joy. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Joy loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)
 
 ## Who Joy is strong against
 
-Joy is listed as a counter for these heroes.
+Joy is one of the toughest opponents for these heroes.
 
 [![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Brody](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (49.56%), weakest in Legend (46.48%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (49.56%), weakest in Legend (46.48%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.63%**
 -   ![](/images/ranks/Legend.webp)Legend**46.48%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Joy](/images/heroes/joy.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Joy page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Joy). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Joy’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=118)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Joy)
 
 ## Boost on Joy
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Joy in MLBB?
 
-By MOONTON’s official 30-day statistics: Sun, Lolita, X.Borg, Yve and Hanabi.
+Over the last 30 days the toughest opponents are Sun, Lolita, X.Borg, Yve and Hanabi.
 
 What is Joy’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Joy’s win rate right now?
 
 What role and lane does Joy play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Joy strong in the current meta?
 

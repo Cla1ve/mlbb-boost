@@ -11,7 +11,7 @@ Tier D
 
 # Lancelot in Mobile Legends: counters and stats
 
-Assassin, Jungle. Lancelot wins 43.13% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 43.13% of matches over the last 30 days: #130 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**43.13%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Lancelot as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Lancelot as a assassin for the Jungle. Plac
 
 ## Who counters Lancelot
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Lancelot. The number is each hero’s own win rate. 3 of the 5 counters are fighters.
+Lancelot loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
 
 [![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ## Who Lancelot is strong against
 
-Lancelot is listed as a counter for these heroes.
+Lancelot is one of the toughest opponents for these heroes.
 
 [![Angela](/images/heroes/angela.webp)Angela49.99%](https://boostmlbb.ru/en/heroes/angela.html)
 
 ## Win rate by rank
 
-Best result in Epic (45.34%), weakest in Mythical Glory (42.31%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (45.34%), weakest in Mythical Glory (42.31%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**45.34%**
 -   ![](/images/ranks/Legend.webp)Legend**44.12%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Lancelot](/images/heroes/lancelot.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Lancelot page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lancelot). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Lancelot’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=47)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lancelot)
 
 ## Boost on Lancelot
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Lancelot in MLBB?
 
-By MOONTON’s official 30-day statistics: Atlas, Yin, Alpha, Johnson and X.Borg.
+Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, Johnson and X.Borg.
 
 What is Lancelot’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Lancelot’s win rate right now?
 
 What role and lane does Lancelot play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Lancelot strong in the current meta?
 

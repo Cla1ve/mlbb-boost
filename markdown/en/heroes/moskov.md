@@ -11,7 +11,7 @@ Tier B
 
 # Moskov in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Moskov wins 50.31% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 50.31% of matches over the last 30 days: #56 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.31%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Moskov as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Moskov as a marksman for the Gold Lane. Pla
 
 ## Who counters Moskov
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Moskov. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
+Moskov loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
 
 [![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ## Who Moskov is strong against
 
-Moskov is listed as a counter for these heroes.
+Moskov is one of the toughest opponents for these heroes.
 
 [![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Miya](/images/heroes/miya.webp)Miya49.71%](https://boostmlbb.ru/en/heroes/miya.html)[![Martis](/images/heroes/martis.webp)Martis47.23%](https://boostmlbb.ru/en/heroes/martis.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (51.31%), weakest in Epic (46.77%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (51.31%), weakest in Epic (46.77%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**46.77%**
 -   ![](/images/ranks/Legend.webp)Legend**47.84%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Moskov](/images/heroes/moskov.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Moskov page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Moskov). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Moskov’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=31)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Moskov)
 
 ## Boost on Moskov
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Moskov in MLBB?
 
-By MOONTON’s official 30-day statistics: Gloo, Joy, Fanny, Beatrix and Atlas.
+Over the last 30 days the toughest opponents are Gloo, Joy, Fanny, Beatrix and Atlas.
 
 What is Moskov’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Moskov’s win rate right now?
 
 What role and lane does Moskov play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Moskov strong in the current meta?
 

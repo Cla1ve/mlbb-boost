@@ -11,7 +11,7 @@ Tier B
 
 # Alice in Mobile Legends: counters and stats
 
-Tank and mage, EXP Lane or Jungle. Alice wins 50.70% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and mage, EXP Lane or Jungle. Wins 50.70% of matches over the last 30 days: #48 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.70%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Alice as a tank and mage for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and mage**
 -   Lane**EXP Lane or Jungle**
@@ -48,19 +48,19 @@ MOONTON’s official hero page lists Alice as a tank and mage for the EXP Lane o
 
 ## Who counters Alice
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Alice. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Alice loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Who Alice is strong against
 
-Alice is listed as a counter for these heroes.
+Alice is one of the toughest opponents for these heroes.
 
 [![Angela](/images/heroes/angela.webp)Angela49.99%](https://boostmlbb.ru/en/heroes/angela.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Julian](/images/heroes/julian.webp)Julian49.95%](https://boostmlbb.ru/en/heroes/julian.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (50.81%), weakest in Mythical Honor (50.56%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (50.81%), weakest in Mythical Honor (50.56%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.66%**
 -   ![](/images/ranks/Legend.webp)Legend**50.66%**
@@ -82,7 +82,9 @@ The strongest by win rate over the last 30 days.
 
 ![Alice](/images/heroes/alice.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Alice page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alice). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Alice’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=4)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alice)
 
 ## Boost on Alice
 
@@ -90,11 +92,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Alice in MLBB?
 
-By MOONTON’s official 30-day statistics: Chip, Gloo, Tigreal, Atlas and Faramis.
+Over the last 30 days the toughest opponents are Chip, Gloo, Tigreal, Atlas and Faramis.
 
 What is Alice’s win rate right now?
 
@@ -102,7 +106,7 @@ What is Alice’s win rate right now?
 
 What role and lane does Alice play?
 
-Tank and mage, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Tank and mage, played in the EXP Lane or in the jungle.
 
 Is Alice strong in the current meta?
 

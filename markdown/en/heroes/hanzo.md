@@ -11,7 +11,7 @@ Tier B
 
 # Hanzo in Mobile Legends: counters and stats
 
-Assassin, Jungle. Hanzo wins 49.90% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 49.90% of matches over the last 30 days: #70 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.90%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Hanzo as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Hanzo as a assassin for the Jungle. Places 
 
 ## Who counters Hanzo
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Hanzo. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Hanzo loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ## Who Hanzo is strong against
 
-Hanzo is listed as a counter for these heroes.
+Hanzo is one of the toughest opponents for these heroes.
 
 [![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Kagura](/images/heroes/kagura.webp)Kagura51.09%](https://boostmlbb.ru/en/heroes/kagura.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Hirara](/images/heroes/hirara.webp)Hirara50.03%](https://boostmlbb.ru/en/heroes/hirara.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Win rate by rank
 
-Best result in Legend (50.90%), weakest in Mythical Glory (48.83%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (50.90%), weakest in Mythical Glory (48.83%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.77%**
 -   ![](/images/ranks/Legend.webp)Legend**50.90%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Hanzo](/images/heroes/hanzo.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Hanzo page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanzo). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Hanzo’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=69)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanzo)
 
 ## Boost on Hanzo
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Hanzo in MLBB?
 
-By MOONTON’s official 30-day statistics: Diggie, Ixia, Franco, Balmond and Alpha.
+Over the last 30 days the toughest opponents are Diggie, Ixia, Franco, Balmond and Alpha.
 
 What is Hanzo’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Hanzo’s win rate right now?
 
 What role and lane does Hanzo play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Hanzo strong in the current meta?
 

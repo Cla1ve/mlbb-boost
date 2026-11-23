@@ -11,7 +11,7 @@ language: ru
 
 # Белерик в Mobile Legends: контрпики и статистика
 
-Танк, роум. Белерик выигрывает 51,83% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк, роум. Выигрывает 51,83% матчей за последние 30 дней — 30-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Белерик» — танк, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Танк**
 -   Линия**Роум**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Белерик». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
+Против этих героев «Белерик» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
 
 [![Мия](/images/heroes/miya.webp)Мия49,71%](https://boostmlbb.ru/heroes/miya.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)
 
 ## Против кого силён
 
-«Белерик» числится контрпиком для этих героев.
+Для этих героев «Белерик» — один из самых неудобных соперников.
 
 [![Лесли](/images/heroes/lesley.webp)Лесли48,31%](https://boostmlbb.ru/heroes/lesley.html)[![Броуди](/images/heroes/brody.webp)Броуди49,99%](https://boostmlbb.ru/heroes/brody.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Клинт](/images/heroes/clint.webp)Клинт50,33%](https://boostmlbb.ru/heroes/clint.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)[![Леоморд](/images/heroes/leomord.webp)Леоморд50,09%](https://boostmlbb.ru/heroes/leomord.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (55,96%), слабее всего — «Мифическая слава» (50,01%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (55,96%), слабее всего — «Мифическая слава» (50,01%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,96%**
 -   ![](/images/ranks/Legend.webp)Легенда**54,43%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Белерик](/images/heroes/belerick.webp)
 
-Историю героя, навыки и реплики собирает [страница Belerick в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Белерик», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=70)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick)
 
 ## Буст на герое «Белерик»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Белерик» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Мия, Сильвана, Заск, Джонсон и Зилонг.
+За последние 30 дней чаще всего героя обыгрывают Мия, Сильвана, Заск, Джонсон и Зилонг.
 
 Какой процент побед у героя «Белерик» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Белерик»?
 
-Танк, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+Танк, играет в роуме.
 
 Силён ли герой «Белерик» в текущей мете?
 

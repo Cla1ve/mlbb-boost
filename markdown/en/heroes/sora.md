@@ -11,7 +11,7 @@ Tier B
 
 # Sora in Mobile Legends: counters and stats
 
-Fighter and assassin, EXP Lane. Sora wins 49.50% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, EXP Lane. Wins 49.50% of matches over the last 30 days: #79 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.50%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Sora as a fighter and assassin for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and assassin**
 -   Lane**EXP Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Sora as a fighter and assassin for the EXP 
 
 ## Who counters Sora
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Sora. The number is each hero’s own win rate. 3 of the 5 counters are supports.
+Sora loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are supports.
 
 [![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Who Sora is strong against
 
-Sora is listed as a counter for these heroes.
+Sora is one of the toughest opponents for these heroes.
 
 [![Martis](/images/heroes/martis.webp)Martis47.23%](https://boostmlbb.ru/en/heroes/martis.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (49.61%), weakest in Epic (48.95%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (49.61%), weakest in Epic (48.95%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.95%**
 -   ![](/images/ranks/Legend.webp)Legend**49.38%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Sora](/images/heroes/sora.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Sora page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sora). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Sora’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=131)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sora)
 
 ## Boost on Sora
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Sora in MLBB?
 
-By MOONTON’s official 30-day statistics: Estes, Popol and Kupa, Rafaela, Karina and Lolita.
+Over the last 30 days the toughest opponents are Estes, Popol and Kupa, Rafaela, Karina and Lolita.
 
 What is Sora’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Sora’s win rate right now?
 
 What role and lane does Sora play?
 
-Fighter and assassin, EXP Lane, according to MOONTON’s official hero page.
+Fighter and assassin, played in the EXP Lane.
 
 Is Sora strong in the current meta?
 

@@ -139,6 +139,7 @@ const UI = {
       sources: 'Источники материала',
       checked: 'проверено',
       howBuilt: 'Как собран материал',
+      sourcesShort: 'Источники:',
       topicsAria: 'Темы материала',
       correction: 'Нашли неточность?',
       contact: 'Напишите @Cla1ve в Telegram',
@@ -242,6 +243,7 @@ const UI = {
       sources: 'Sources',
       checked: 'accessed',
       howBuilt: 'How this story was assembled',
+      sourcesShort: 'Sources:',
       topicsAria: 'Article topics',
       correction: 'Found an error?',
       contact: 'Message @Cla1ve on Telegram',
@@ -1446,7 +1448,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=13">
+  <link rel="stylesheet" href="/styles/news.css?v=14">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">`;
 }
@@ -1983,22 +1985,7 @@ ${GENERATED_MARKER}
         <div class="article-content" id="article-content" tabindex="-1">
           ${post.blocks.map((block) => renderBlock(block, locale)).join('\n')}
 
-          <section class="article-sources" id="sources">
-            <p class="article-box-label">${escapeHtml(articleCopy.factCheck)}</p>
-            <h2>${escapeHtml(articleCopy.sources)}</h2>
-            <ol>
-              ${post.sources.map((source) => `
-              <li>
-                <a href="${escapeHtml(source.url)}" rel="noopener noreferrer" target="_blank">${escapeHtml(source.title)} <span aria-hidden="true">↗</span></a>
-                <span>${escapeHtml(source.publisher)} · ${escapeHtml(articleCopy.checked)} ${escapeHtml(formatDateOnly(source.accessed, locale))}</span>
-              </li>`).join('')}
-            </ol>
-          </section>
-
-          <aside class="editorial-note">
-            <strong>${escapeHtml(articleCopy.howBuilt)}</strong>
-            <p>${escapeHtml(post.editorialNote)}</p>
-          </aside>
+          <p class="article-sources-line" id="sources"><span>${escapeHtml(articleCopy.sourcesShort)}</span> ${post.sources.filter((source, index) => post.sources.findIndex((item) => item.publisher === source.publisher) === index).map((source) => `<a href="${escapeHtml(source.url)}" rel="noopener noreferrer" target="_blank">${escapeHtml(source.publisher)}</a>`).join(', ')}</p>
 
           <footer class="article-footer">
             <div class="article-tags" aria-label="${escapeHtml(articleCopy.topicsAria)}">

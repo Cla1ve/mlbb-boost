@@ -11,7 +11,7 @@ Tier C
 
 # Alpha in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Jungle. Alpha wins 48.85% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Wins 48.85% of matches over the last 30 days: #96 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.85%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Alpha as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Alpha as a fighter for the EXP Lane or Jung
 
 ## Who counters Alpha
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Alpha. The number is each hero’s own win rate. 3 of the 5 counters are fighters.
+Alpha loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
 
 [![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ## Who Alpha is strong against
 
-Alpha is listed as a counter for these heroes.
+Alpha is one of the toughest opponents for these heroes.
 
 [![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Lancelot](/images/heroes/lancelot.webp)Lancelot43.13%](https://boostmlbb.ru/en/heroes/lancelot.html)[![Lylia](/images/heroes/lylia.webp)Lylia49.34%](https://boostmlbb.ru/en/heroes/lylia.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ## Win rate by rank
 
-Best result in Epic (50.15%), weakest in Mythical Glory (48.05%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (50.15%), weakest in Mythical Glory (48.05%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.15%**
 -   ![](/images/ranks/Legend.webp)Legend**48.98%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Alpha](/images/heroes/alpha.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Alpha page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alpha). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Alpha’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=28)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alpha)
 
 ## Boost on Alpha
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Alpha in MLBB?
 
-By MOONTON’s official 30-day statistics: Phoveus, Odette, Barats, Saber and Fredrinn.
+Over the last 30 days the toughest opponents are Phoveus, Odette, Barats, Saber and Fredrinn.
 
 What is Alpha’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Alpha’s win rate right now?
 
 What role and lane does Alpha play?
 
-Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or in the jungle.
 
 Is Alpha strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier S
 
 # Diggie in Mobile Legends: counters and stats
 
-Support, Roam. Diggie wins 54.30% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Support, Roam. Wins 54.30% of matches over the last 30 days: #6 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**54.30%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Diggie as a support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Support**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Diggie as a support for the Roam. Places ar
 
 ## Who counters Diggie
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Diggie. The number is each hero’s own win rate. 3 of the 5 counters are mages.
+Diggie loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are mages.
 
 [![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)
 
 ## Who Diggie is strong against
 
-Diggie is listed as a counter for these heroes.
+Diggie is one of the toughest opponents for these heroes.
 
 [![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Novaria](/images/heroes/novaria.webp)Novaria49.52%](https://boostmlbb.ru/en/heroes/novaria.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (55.46%), weakest in Epic (50.73%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (55.46%), weakest in Epic (50.73%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.73%**
 -   ![](/images/ranks/Legend.webp)Legend**51.54%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Diggie](/images/heroes/diggie.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Diggie page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Diggie’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=48)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie)
 
 ## Boost on Diggie
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Diggie in MLBB?
 
-By MOONTON’s official 30-day statistics: Alice, Zhuxin, Guinevere, Cici and Valir.
+Over the last 30 days the toughest opponents are Alice, Zhuxin, Guinevere, Cici and Valir.
 
 What is Diggie’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Diggie’s win rate right now?
 
 What role and lane does Diggie play?
 
-Support, Roam, according to MOONTON’s official hero page.
+Support, played on roam.
 
 Is Diggie strong in the current meta?
 

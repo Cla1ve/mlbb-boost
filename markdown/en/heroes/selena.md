@@ -11,7 +11,7 @@ Tier C
 
 # Selena in Mobile Legends: counters and stats
 
-Assassin and mage, Mid Lane. Selena wins 48.34% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin and mage, Mid Lane. Wins 48.34% of matches over the last 30 days: #102 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.34%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Selena as a assassin and mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin and mage**
 -   Lane**Mid Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Selena as a assassin and mage for the Mid L
 
 ## Who counters Selena
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Selena. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Selena loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Who Selena is strong against
 
-Selena is listed as a counter for these heroes.
+Selena is one of the toughest opponents for these heroes.
 
 [![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Win rate by rank
 
-Best result in Epic (50.16%), weakest in Mythical Glory (47.93%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (50.16%), weakest in Mythical Glory (47.93%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.16%**
 -   ![](/images/ranks/Legend.webp)Legend**48.78%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Selena](/images/heroes/selena.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Selena page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Selena). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Selena’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=63)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Selena)
 
 ## Boost on Selena
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Selena in MLBB?
 
-By MOONTON’s official 30-day statistics: Benedetta, Ixia, X.Borg, Beatrix and Yve.
+Over the last 30 days the toughest opponents are Benedetta, Ixia, X.Borg, Beatrix and Yve.
 
 What is Selena’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Selena’s win rate right now?
 
 What role and lane does Selena play?
 
-Assassin and mage, Mid Lane, according to MOONTON’s official hero page.
+Assassin and mage, played in the Mid Lane.
 
 Is Selena strong in the current meta?
 

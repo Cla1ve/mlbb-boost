@@ -11,7 +11,7 @@ Tier B
 
 # Badang in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Roam. Badang wins 50.19% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Roam. Wins 50.19% of matches over the last 30 days: #58 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.19%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Badang as a fighter for the EXP Lane or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Roam**
@@ -47,13 +47,13 @@ MOONTON’s official hero page lists Badang as a fighter for the EXP Lane or Roa
 
 ## Who counters Badang
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Badang. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Badang loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)
 
 ## Win rate by rank
 
-Best result in Mythic (50.74%), weakest in Mythical Glory (49.62%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (50.74%), weakest in Mythical Glory (49.62%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.15%**
 -   ![](/images/ranks/Legend.webp)Legend**50.52%**
@@ -75,7 +75,9 @@ The strongest by win rate over the last 30 days.
 
 ![Badang](/images/heroes/badang.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Badang page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Badang). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Badang’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=77)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Badang)
 
 ## Boost on Badang
 
@@ -83,11 +85,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Badang in MLBB?
 
-By MOONTON’s official 30-day statistics: Fanny, Sun, Zilong, Hayabusa and Aldous.
+Over the last 30 days the toughest opponents are Fanny, Sun, Zilong, Hayabusa and Aldous.
 
 What is Badang’s win rate right now?
 
@@ -95,7 +99,7 @@ What is Badang’s win rate right now?
 
 What role and lane does Badang play?
 
-Fighter, EXP Lane or Roam, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or on roam.
 
 Is Badang strong in the current meta?
 

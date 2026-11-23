@@ -11,7 +11,7 @@ Tier B
 
 # Nolan in Mobile Legends: counters and stats
 
-Assassin, Jungle. Nolan wins 49.71% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 49.71% of matches over the last 30 days: #72 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.71%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Nolan as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Nolan as a assassin for the Jungle. Places 
 
 ## Who counters Nolan
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Nolan. The number is each hero’s own win rate. 2 of the 5 counters are mages.
+Nolan loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are mages.
 
 [![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Who Nolan is strong against
 
-Nolan is listed as a counter for these heroes.
+Nolan is one of the toughest opponents for these heroes.
 
 [![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (50.36%), weakest in Legend (48.33%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (50.36%), weakest in Legend (48.33%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.65%**
 -   ![](/images/ranks/Legend.webp)Legend**48.33%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Nolan](/images/heroes/nolan.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Nolan page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Nolan’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=122)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan)
 
 ## Boost on Nolan
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Nolan in MLBB?
 
-By MOONTON’s official 30-day statistics: Estes, Yve, Zhuxin, X.Borg and Baxia.
+Over the last 30 days the toughest opponents are Estes, Yve, Zhuxin, X.Borg and Baxia.
 
 What is Nolan’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Nolan’s win rate right now?
 
 What role and lane does Nolan play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Nolan strong in the current meta?
 

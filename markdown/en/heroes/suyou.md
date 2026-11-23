@@ -11,7 +11,7 @@ Tier B
 
 # Suyou in Mobile Legends: counters and stats
 
-Fighter and assassin, Jungle. Suyou wins 49.70% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, Jungle. Wins 49.70% of matches over the last 30 days: #74 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.70%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Suyou as a fighter and assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and assassin**
 -   Lane**Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Suyou as a fighter and assassin for the Jun
 
 ## Who counters Suyou
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Suyou. The number is each hero’s own win rate. 4 of the 5 counters are fighters.
+Suyou loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are fighters.
 
 [![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)
 
 ## Who Suyou is strong against
 
-Suyou is listed as a counter for these heroes.
+Suyou is one of the toughest opponents for these heroes.
 
 [![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)
 
 ## Win rate by rank
 
-Best result in Epic (50.90%), weakest in Mythical Glory (49.43%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (50.90%), weakest in Mythical Glory (49.43%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.90%**
 -   ![](/images/ranks/Legend.webp)Legend**50.12%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Suyou](/images/heroes/suyou.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Suyou page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Suyou). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Suyou’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=126)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Suyou)
 
 ## Boost on Suyou
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Suyou in MLBB?
 
-By MOONTON’s official 30-day statistics: Natalia, Sun, X.Borg, Yin and Balmond.
+Over the last 30 days the toughest opponents are Natalia, Sun, X.Borg, Yin and Balmond.
 
 What is Suyou’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Suyou’s win rate right now?
 
 What role and lane does Suyou play?
 
-Fighter and assassin, Jungle, according to MOONTON’s official hero page.
+Fighter and assassin, played in the jungle.
 
 Is Suyou strong in the current meta?
 

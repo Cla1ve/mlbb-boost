@@ -11,7 +11,7 @@ language: ru
 
 # Фовиус в Mobile Legends: контрпики и статистика
 
-Боец, линия опыта. Фовиус выигрывает 48,21% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта. Выигрывает 48,21% матчей за последние 30 дней — 105-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Фовиус» — боец, играет на линии опыта. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Боец**
 -   Линия**Линия опыта**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Фовиус». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — бойцы.
+Против этих героев «Фовиус» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — бойцы.
 
 [![Ванван](/images/heroes/wanwan.webp)Ванван47,59%](https://boostmlbb.ru/heroes/wanwan.html)[![Харит](/images/heroes/harith.webp)Харит46,92%](https://boostmlbb.ru/heroes/harith.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)[![Руби](/images/heroes/ruby.webp)Руби49,12%](https://boostmlbb.ru/heroes/ruby.html)
 
 ## Против кого силён
 
-«Фовиус» числится контрпиком для этих героев.
+Для этих героев «Фовиус» — один из самых неудобных соперников.
 
 [![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Альфа](/images/heroes/alpha.webp)Альфа48,85%](https://boostmlbb.ru/heroes/alpha.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Сесилион](/images/heroes/cecilion.webp)Сесилион50,96%](https://boostmlbb.ru/heroes/cecilion.html)[![Джулиан](/images/heroes/julian.webp)Джулиан49,95%](https://boostmlbb.ru/heroes/julian.html)[![Минситтар](/images/heroes/minsitthar.webp)Минситтар52,08%](https://boostmlbb.ru/heroes/minsitthar.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Тэризла](/images/heroes/terizla.webp)Тэризла50,60%](https://boostmlbb.ru/heroes/terizla.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (49,35%), слабее всего — «Мифическая честь» (47,92%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (49,35%), слабее всего — «Мифическая честь» (47,92%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**49,35%**
 -   ![](/images/ranks/Legend.webp)Легенда**48,38%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Фовиус](/images/heroes/phoveus.webp)
 
-Историю героя, навыки и реплики собирает [страница Phoveus в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Phoveus) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Фовиус», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=106)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Phoveus)
 
 ## Буст на герое «Фовиус»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Фовиус» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Ванван, Харит, Фрейя, Бенедетта и Руби.
+За последние 30 дней чаще всего героя обыгрывают Ванван, Харит, Фрейя, Бенедетта и Руби.
 
 Какой процент побед у героя «Фовиус» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Фовиус»?
 
-Боец, играет на линии опыта. Так героя распределяет официальная страница героев MOONTON.
+Боец, играет на линии опыта.
 
 Силён ли герой «Фовиус» в текущей мете?
 

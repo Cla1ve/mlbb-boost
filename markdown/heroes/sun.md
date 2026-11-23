@@ -11,7 +11,7 @@ language: ru
 
 # Сан в Mobile Legends: контрпики и статистика
 
-Боец, линия опыта или лес. Сан выигрывает 53,72% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта или лес. Выигрывает 53,72% матчей за последние 30 дней — 11-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Сан» — боец, играет на линии опыта или в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Боец**
 -   Линия**Линия опыта или лес**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сан». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
+Против этих героев «Сан» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
 
 [![Кусака](/images/heroes/jawhead.webp)Кусака47,87%](https://boostmlbb.ru/heroes/jawhead.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Харли](/images/heroes/harley.webp)Харли48,19%](https://boostmlbb.ru/heroes/harley.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Кэрри](/images/heroes/karrie.webp)Кэрри48,87%](https://boostmlbb.ru/heroes/karrie.html)
 
 ## Против кого силён
 
-«Сан» числится контрпиком для этих героев.
+Для этих героев «Сан» — один из самых неудобных соперников.
 
 [![Баданг](/images/heroes/badang.webp)Баданг50,19%](https://boostmlbb.ru/heroes/badang.html)[![Су Ё](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Алукард](/images/heroes/alucard.webp)Алукард48,87%](https://boostmlbb.ru/heroes/alucard.html)[![Руби](/images/heroes/ruby.webp)Руби49,12%](https://boostmlbb.ru/heroes/ruby.html)[![Натан](/images/heroes/natan.webp)Натан51,32%](https://boostmlbb.ru/heroes/natan.html)[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Джой](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (55,91%), слабее всего — «Мифическая слава» (52,58%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (55,91%), слабее всего — «Мифическая слава» (52,58%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,91%**
 -   ![](/images/ranks/Legend.webp)Легенда**55,49%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Сан](/images/heroes/sun.webp)
 
-Историю героя, навыки и реплики собирает [страница Sun в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Сан», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=27)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun)
 
 ## Буст на герое «Сан»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Сан» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Кусака, Дигги, Харли, Сабер и Кэрри.
+За последние 30 дней чаще всего героя обыгрывают Кусака, Дигги, Харли, Сабер и Кэрри.
 
 Какой процент побед у героя «Сан» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Сан»?
 
-Боец, играет на линии опыта или в лесу. Так героя распределяет официальная страница героев MOONTON.
+Боец, играет на линии опыта или в лесу.
 
 Силён ли герой «Сан» в текущей мете?
 

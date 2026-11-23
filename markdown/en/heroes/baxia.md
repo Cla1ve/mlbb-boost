@@ -11,7 +11,7 @@ Tier D
 
 # Baxia in Mobile Legends: counters and stats
 
-Tank, Jungle or Roam. Baxia wins 45.97% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank, Jungle or Roam. Wins 45.97% of matches over the last 30 days: #124 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**45.97%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Baxia as a tank for the Jungle or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank**
 -   Lane**Jungle or Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Baxia as a tank for the Jungle or Roam. Pla
 
 ## Who counters Baxia
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Baxia. The number is each hero’s own win rate. 2 of the 5 counters are mages.
+Baxia loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are mages.
 
 [![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)
 
 ## Who Baxia is strong against
 
-Baxia is listed as a counter for these heroes.
+Baxia is one of the toughest opponents for these heroes.
 
 [![Nolan](/images/heroes/nolan.webp)Nolan49.71%](https://boostmlbb.ru/en/heroes/nolan.html)[![Clint](/images/heroes/clint.webp)Clint50.33%](https://boostmlbb.ru/en/heroes/clint.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)[![Luo Yi](/images/heroes/luo-yi.webp)Luo Yi47.35%](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Win rate by rank
 
-Best result in Epic (48.60%), weakest in Mythical Honor (44.74%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (48.60%), weakest in Mythical Honor (44.74%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.60%**
 -   ![](/images/ranks/Legend.webp)Legend**47.03%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Baxia](/images/heroes/baxia.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Baxia page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Baxia). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Baxia’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=87)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Baxia)
 
 ## Boost on Baxia
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Baxia in MLBB?
 
-By MOONTON’s official 30-day statistics: Obsidia, Alice, Saber, Lukas and Zhask.
+Over the last 30 days the toughest opponents are Obsidia, Alice, Saber, Lukas and Zhask.
 
 What is Baxia’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Baxia’s win rate right now?
 
 What role and lane does Baxia play?
 
-Tank, Jungle or Roam, according to MOONTON’s official hero page.
+Tank, played in the jungle or on roam.
 
 Is Baxia strong in the current meta?
 

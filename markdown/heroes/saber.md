@@ -11,7 +11,7 @@ language: ru
 
 # Сабер в Mobile Legends: контрпики и статистика
 
-Убийца, лес или роум. Сабер выигрывает 51,21% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес или роум. Выигрывает 51,21% матчей за последние 30 дней — 41-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Сабер» — убийца, играет в лесу или в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Убийца**
 -   Линия**Лес или роум**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сабер». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+Против этих героев «Сабер» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
 [![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Люнокс](/images/heroes/lunox.webp)Люнокс50,64%](https://boostmlbb.ru/heroes/lunox.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)
 
 ## Против кого силён
 
-«Сабер» числится контрпиком для этих героев.
+Для этих героев «Сабер» — один из самых неудобных соперников.
 
 [![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Мия](/images/heroes/miya.webp)Мия49,71%](https://boostmlbb.ru/heroes/miya.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Альфа](/images/heroes/alpha.webp)Альфа48,85%](https://boostmlbb.ru/heroes/alpha.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Мартис](/images/heroes/martis.webp)Мартис47,23%](https://boostmlbb.ru/heroes/martis.html)[![Хильда](/images/heroes/hilda.webp)Хильда51,07%](https://boostmlbb.ru/heroes/hilda.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Мифическая слава» (53,51%), слабее всего — «Эпик» (48,42%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Мифическая слава» (53,51%), слабее всего — «Эпик» (48,42%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**48,42%**
 -   ![](/images/ranks/Legend.webp)Легенда**50,03%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Сабер](/images/heroes/saber.webp)
 
-Историю героя, навыки и реплики собирает [страница Saber в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Saber) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Сабер», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=3)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Saber)
 
 ## Буст на герое «Сабер»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Сабер» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Линг, Нолан, Наталья, Люнокс и Ив.
+За последние 30 дней чаще всего героя обыгрывают Линг, Нолан, Наталья, Люнокс и Ив.
 
 Какой процент побед у героя «Сабер» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Сабер»?
 
-Убийца, играет в лесу или в роуме. Так героя распределяет официальная страница героев MOONTON.
+Убийца, играет в лесу или в роуме.
 
 Силён ли герой «Сабер» в текущей мете?
 

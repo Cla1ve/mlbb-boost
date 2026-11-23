@@ -11,7 +11,7 @@ Tier A
 
 # Yve in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Yve wins 52.26% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 52.26% of matches over the last 30 days: #24 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**52.26%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Yve as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Yve as a mage for the Mid Lane. Places are 
 
 ## Who counters Yve
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Yve. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Yve loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ## Who Yve is strong against
 
-Yve is listed as a counter for these heroes.
+Yve is one of the toughest opponents for these heroes.
 
 [![Nolan](/images/heroes/nolan.webp)Nolan49.71%](https://boostmlbb.ru/en/heroes/nolan.html)[![Selena](/images/heroes/selena.webp)Selena48.34%](https://boostmlbb.ru/en/heroes/selena.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Kalea](/images/heroes/kalea.webp)Kalea50.44%](https://boostmlbb.ru/en/heroes/kalea.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (52.47%), weakest in Mythic (51.35%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (52.47%), weakest in Mythic (51.35%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.01%**
 -   ![](/images/ranks/Legend.webp)Legend**51.39%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Yve](/images/heroes/yve.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Yve page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yve). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Yve’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=101)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yve)
 
 ## Boost on Yve
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Yve in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Hylos, Barats, Alice and X.Borg.
+Over the last 30 days the toughest opponents are Lolita, Hylos, Barats, Alice and X.Borg.
 
 What is Yve’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Yve’s win rate right now?
 
 What role and lane does Yve play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Yve strong in the current meta?
 

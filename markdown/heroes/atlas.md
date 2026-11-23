@@ -11,7 +11,7 @@ language: ru
 
 # Атлас в Mobile Legends: контрпики и статистика
 
-Танк, роум. Атлас выигрывает 51,42% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк, роум. Выигрывает 51,42% матчей за последние 30 дней — 35-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Атлас» — танк, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Танк**
 -   Линия**Роум**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Атлас». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
+Против этих героев «Атлас» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
 
 [![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)
 
 ## Против кого силён
 
-«Атлас» числится контрпиком для этих героев.
+Для этих героев «Атлас» — один из самых неудобных соперников.
 
 [![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Москов](/images/heroes/moskov.webp)Москов50,31%](https://boostmlbb.ru/heroes/moskov.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Чонг](/images/heroes/yu-zhong.webp)Чонг48,93%](https://boostmlbb.ru/heroes/yu-zhong.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Ланселот](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (55,55%), слабее всего — «Мифическая слава» (49,84%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (55,55%), слабее всего — «Мифическая слава» (49,84%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,55%**
 -   ![](/images/ranks/Legend.webp)Легенда**54,57%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Атлас](/images/heroes/atlas.webp)
 
-Историю героя, навыки и реплики собирает [страница Atlas в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Atlas) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Атлас», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=93)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Atlas)
 
 ## Буст на герое «Атлас»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Атлас» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Лейла, Пополь и Купа, Лолита, Джонсон и Эстес.
+За последние 30 дней чаще всего героя обыгрывают Лейла, Пополь и Купа, Лолита, Джонсон и Эстес.
 
 Какой процент побед у героя «Атлас» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Атлас»?
 
-Танк, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+Танк, играет в роуме.
 
 Силён ли герой «Атлас» в текущей мете?
 

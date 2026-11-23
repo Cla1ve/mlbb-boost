@@ -11,7 +11,7 @@ Tier B
 
 # Lunox in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Lunox wins 50.64% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 50.64% of matches over the last 30 days: #49 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.64%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Lunox as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Lunox as a mage for the Mid Lane. Places ar
 
 ## Who counters Lunox
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Lunox. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
+Lunox loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
 
 [![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)
 
 ## Who Lunox is strong against
 
-Lunox is listed as a counter for these heroes.
+Lunox is one of the toughest opponents for these heroes.
 
 [![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![Clint](/images/heroes/clint.webp)Clint50.33%](https://boostmlbb.ru/en/heroes/clint.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Ruby](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (50.89%), weakest in Epic (49.40%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (50.89%), weakest in Epic (49.40%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.40%**
 -   ![](/images/ranks/Legend.webp)Legend**49.70%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Lunox](/images/heroes/lunox.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Lunox page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lunox). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Lunox’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=68)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lunox)
 
 ## Boost on Lunox
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Lunox in MLBB?
 
-By MOONTON’s official 30-day statistics: Gloo, Kaja, Wanwan, Esmeralda and Karina.
+Over the last 30 days the toughest opponents are Gloo, Kaja, Wanwan, Esmeralda and Karina.
 
 What is Lunox’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Lunox’s win rate right now?
 
 What role and lane does Lunox play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Lunox strong in the current meta?
 

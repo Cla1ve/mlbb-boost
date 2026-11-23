@@ -11,7 +11,7 @@ Tier C
 
 # Luo Yi in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Luo Yi wins 47.35% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 47.35% of matches over the last 30 days: #115 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**47.35%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Luo Yi as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Luo Yi as a mage for the Mid Lane. Places a
 
 ## Who counters Luo Yi
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Luo Yi. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Luo Yi loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Who Luo Yi is strong against
 
-Luo Yi is listed as a counter for these heroes.
+Luo Yi is one of the toughest opponents for these heroes.
 
 [![Novaria](/images/heroes/novaria.webp)Novaria49.52%](https://boostmlbb.ru/en/heroes/novaria.html)
 
 ## Win rate by rank
 
-Best result in Epic (48.70%), weakest in Mythical Glory (46.62%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (48.70%), weakest in Mythical Glory (46.62%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.70%**
 -   ![](/images/ranks/Legend.webp)Legend**47.94%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Luo Yi](/images/heroes/luo-yi.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Luo Yi page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Luo_Yi). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Luo Yi’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=96)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Luo_Yi)
 
 ## Boost on Luo Yi
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Luo Yi in MLBB?
 
-By MOONTON’s official 30-day statistics: Estes, Faramis, Baxia, Fredrinn and Uranus.
+Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Fredrinn and Uranus.
 
 What is Luo Yi’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Luo Yi’s win rate right now?
 
 What role and lane does Luo Yi play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Luo Yi strong in the current meta?
 

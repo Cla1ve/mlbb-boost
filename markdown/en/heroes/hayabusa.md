@@ -11,7 +11,7 @@ Tier C
 
 # Hayabusa in Mobile Legends: counters and stats
 
-Assassin, Jungle. Hayabusa wins 48.15% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 48.15% of matches over the last 30 days: #108 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.15%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Hayabusa as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Hayabusa as a assassin for the Jungle. Plac
 
 ## Who counters Hayabusa
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Hayabusa. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
+Hayabusa loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are assassins.
 
 [![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Nolan](/images/heroes/nolan.webp)Nolan49.71%](https://boostmlbb.ru/en/heroes/nolan.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)
 
 ## Who Hayabusa is strong against
 
-Hayabusa is listed as a counter for these heroes.
+Hayabusa is one of the toughest opponents for these heroes.
 
 [![Badang](/images/heroes/badang.webp)Badang50.19%](https://boostmlbb.ru/en/heroes/badang.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (48.47%), weakest in Epic (47.38%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (48.47%), weakest in Epic (47.38%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.38%**
 -   ![](/images/ranks/Legend.webp)Legend**47.87%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Hayabusa](/images/heroes/hayabusa.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Hayabusa page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hayabusa). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Hayabusa’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=21)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hayabusa)
 
 ## Boost on Hayabusa
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Hayabusa in MLBB?
 
-By MOONTON’s official 30-day statistics: Aamon, Yve, Zhuxin, Nolan and Karrie.
+Over the last 30 days the toughest opponents are Aamon, Yve, Zhuxin, Nolan and Karrie.
 
 What is Hayabusa’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Hayabusa’s win rate right now?
 
 What role and lane does Hayabusa play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Hayabusa strong in the current meta?
 

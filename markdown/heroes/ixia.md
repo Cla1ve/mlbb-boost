@@ -11,7 +11,7 @@ language: ru
 
 # Иксия в Mobile Legends: контрпики и статистика
 
-Стрелок, линия золота. Иксия выигрывает 50,08% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота. Выигрывает 50,08% матчей за последние 30 дней — 62-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Иксия» — стрелок, играет на линии золота. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Стрелок**
 -   Линия**Линия золота**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Иксия». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — герои поддержки.
+Против этих героев «Иксия» проигрывает чаще всего. Под иконкой — их собственный процент побед. 4 из 5 контрпиков — герои поддержки.
 
 [![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)
 
 ## Против кого силён
 
-«Иксия» числится контрпиком для этих героев.
+Для этих героев «Иксия» — один из самых неудобных соперников.
 
 [![Селена](/images/heroes/selena.webp)Селена48,34%](https://boostmlbb.ru/heroes/selena.html)[![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Чу](/images/heroes/chou.webp)Чу45,10%](https://boostmlbb.ru/heroes/chou.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Инь](/images/heroes/yin.webp)Инь49,62%](https://boostmlbb.ru/heroes/yin.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)[![Ванван](/images/heroes/wanwan.webp)Ванван47,59%](https://boostmlbb.ru/heroes/wanwan.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Мифическая слава» (50,48%), слабее всего — «Эпик» (49,27%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Мифическая слава» (50,48%), слабее всего — «Эпик» (49,27%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**49,27%**
 -   ![](/images/ranks/Legend.webp)Легенда**50,01%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Иксия](/images/heroes/ixia.webp)
 
-Историю героя, навыки и реплики собирает [страница Ixia в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ixia) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Иксия», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=121)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ixia)
 
 ## Буст на герое «Иксия»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Иксия» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Эстес, Рафаэль, Циклоп, Флорин и Лолита.
+За последние 30 дней чаще всего героя обыгрывают Эстес, Рафаэль, Циклоп, Флорин и Лолита.
 
 Какой процент побед у героя «Иксия» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Иксия»?
 
-Стрелок, играет на линии золота. Так героя распределяет официальная страница героев MOONTON.
+Стрелок, играет на линии золота.
 
 Силён ли герой «Иксия» в текущей мете?
 

@@ -11,7 +11,7 @@ Tier B
 
 # Aamon in Mobile Legends: counters and stats
 
-Assassin, Jungle. Aamon wins 50.24% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 50.24% of matches over the last 30 days: #57 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.24%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Aamon as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Aamon as a assassin for the Jungle. Places 
 
 ## Who counters Aamon
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Aamon. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
+Aamon loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are marksmen.
 
 [![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
 
 ## Who Aamon is strong against
 
-Aamon is listed as a counter for these heroes.
+Aamon is one of the toughest opponents for these heroes.
 
 [![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (50.62%), weakest in Epic (49.82%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (50.62%), weakest in Epic (49.82%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.82%**
 -   ![](/images/ranks/Legend.webp)Legend**50.10%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Aamon](/images/heroes/aamon.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Aamon page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aamon). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Aamon’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=109)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aamon)
 
 ## Boost on Aamon
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Aamon in MLBB?
 
-By MOONTON’s official 30-day statistics: Cici, Marcel, Claude, Bruno and Xavier.
+Over the last 30 days the toughest opponents are Cici, Marcel, Claude, Bruno and Xavier.
 
 What is Aamon’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Aamon’s win rate right now?
 
 What role and lane does Aamon play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Aamon strong in the current meta?
 

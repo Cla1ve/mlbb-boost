@@ -11,7 +11,7 @@ Tier B
 
 # Eudora in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Eudora wins 50.35% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 50.35% of matches over the last 30 days: #53 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.35%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Eudora as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Eudora as a mage for the Mid Lane. Places a
 
 ## Who counters Eudora
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Eudora. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Eudora loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)
 
 ## Who Eudora is strong against
 
-Eudora is listed as a counter for these heroes.
+Eudora is one of the toughest opponents for these heroes.
 
 [![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Aurora](/images/heroes/aurora.webp)Aurora48.93%](https://boostmlbb.ru/en/heroes/aurora.html)[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)
 
 ## Win rate by rank
 
-Best result in Mythic (50.62%), weakest in Epic (49.58%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (50.62%), weakest in Epic (49.58%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.58%**
 -   ![](/images/ranks/Legend.webp)Legend**50.22%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Eudora](/images/heroes/eudora.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Eudora page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Eudora). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Eudora’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=15)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Eudora)
 
 ## Boost on Eudora
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Eudora in MLBB?
 
-By MOONTON’s official 30-day statistics: Floryn, Helcurt, Irithel, Natalia and Zilong.
+Over the last 30 days the toughest opponents are Floryn, Helcurt, Irithel, Natalia and Zilong.
 
 What is Eudora’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Eudora’s win rate right now?
 
 What role and lane does Eudora play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Eudora strong in the current meta?
 

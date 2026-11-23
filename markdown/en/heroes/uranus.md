@@ -11,7 +11,7 @@ Tier B
 
 # Uranus in Mobile Legends: counters and stats
 
-Tank, EXP Lane. Uranus wins 49.34% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank, EXP Lane. Wins 49.34% of matches over the last 30 days: #83 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.34%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Uranus as a tank for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Uranus as a tank for the EXP Lane. Places a
 
 ## Who counters Uranus
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Uranus. The number is each hero’s own win rate. 3 of the 5 counters are fighters.
+Uranus loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
 
 [![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)
 
 ## Who Uranus is strong against
 
-Uranus is listed as a counter for these heroes.
+Uranus is one of the toughest opponents for these heroes.
 
 [![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Kimmy](/images/heroes/kimmy.webp)Kimmy48.74%](https://boostmlbb.ru/en/heroes/kimmy.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)[![Luo Yi](/images/heroes/luo-yi.webp)Luo Yi47.35%](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.65%), weakest in Mythical Glory (48.25%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.65%), weakest in Mythical Glory (48.25%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.65%**
 -   ![](/images/ranks/Legend.webp)Legend**50.82%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Uranus](/images/heroes/uranus.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Uranus page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Uranus). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Uranus’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=59)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Uranus)
 
 ## Boost on Uranus
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Uranus in MLBB?
 
-By MOONTON’s official 30-day statistics: Argus, Yin, Gatotkaca, Diggie and Granger.
+Over the last 30 days the toughest opponents are Argus, Yin, Gatotkaca, Diggie and Granger.
 
 What is Uranus’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Uranus’s win rate right now?
 
 What role and lane does Uranus play?
 
-Tank, EXP Lane, according to MOONTON’s official hero page.
+Tank, played in the EXP Lane.
 
 Is Uranus strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier B
 
 # Dyrroth in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Jungle. Dyrroth wins 49.30% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Wins 49.30% of matches over the last 30 days: #86 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.30%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Dyrroth as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Dyrroth as a fighter for the EXP Lane or Ju
 
 ## Who counters Dyrroth
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Dyrroth. The number is each hero’s own win rate. 4 of the 5 counters are mages.
+Dyrroth loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are mages.
 
 [![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Valentina](/images/heroes/valentina.webp)Valentina44.73%](https://boostmlbb.ru/en/heroes/valentina.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
 ## Who Dyrroth is strong against
 
-Dyrroth is listed as a counter for these heroes.
+Dyrroth is one of the toughest opponents for these heroes.
 
 [![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (51.36%), weakest in Epic (47.75%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (51.36%), weakest in Epic (47.75%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.75%**
 -   ![](/images/ranks/Legend.webp)Legend**47.87%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Dyrroth](/images/heroes/dyrroth.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Dyrroth page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Dyrroth). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Dyrroth’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=85)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Dyrroth)
 
 ## Boost on Dyrroth
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Dyrroth in MLBB?
 
-By MOONTON’s official 30-day statistics: Esmeralda, Uranus, Alice, Valentina and Zhuxin.
+Over the last 30 days the toughest opponents are Esmeralda, Uranus, Alice, Valentina and Zhuxin.
 
 What is Dyrroth’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Dyrroth’s win rate right now?
 
 What role and lane does Dyrroth play?
 
-Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or in the jungle.
 
 Is Dyrroth strong in the current meta?
 

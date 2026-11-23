@@ -11,7 +11,7 @@ Tier D
 
 # Balmond in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Jungle. Balmond wins 46.66% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Wins 46.66% of matches over the last 30 days: #121 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**46.66%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Balmond as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Balmond as a fighter for the EXP Lane or Ju
 
 ## Who counters Balmond
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Balmond. The number is each hero’s own win rate. 3 of the 5 counters are fighters.
+Balmond loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
 
 [![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)[![Martis](/images/heroes/martis.webp)Martis47.23%](https://boostmlbb.ru/en/heroes/martis.html)
 
 ## Who Balmond is strong against
 
-Balmond is listed as a counter for these heroes.
+Balmond is one of the toughest opponents for these heroes.
 
 [![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Angela](/images/heroes/angela.webp)Angela49.99%](https://boostmlbb.ru/en/heroes/angela.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Suyou](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ## Win rate by rank
 
-Best result in Legend (47.50%), weakest in Mythical Glory (45.00%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (47.50%), weakest in Mythical Glory (45.00%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.21%**
 -   ![](/images/ranks/Legend.webp)Legend**47.50%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Balmond](/images/heroes/balmond.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Balmond page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Balmond’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=2)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond)
 
 ## Boost on Balmond
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Balmond in MLBB?
 
-By MOONTON’s official 30-day statistics: Saber, Lukas, Barats, Chip and Martis.
+Over the last 30 days the toughest opponents are Saber, Lukas, Barats, Chip and Martis.
 
 What is Balmond’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Balmond’s win rate right now?
 
 What role and lane does Balmond play?
 
-Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or in the jungle.
 
 Is Balmond strong in the current meta?
 

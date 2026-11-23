@@ -11,7 +11,7 @@ Tier D
 
 # Chou in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Roam. Chou wins 45.10% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Roam. Wins 45.10% of matches over the last 30 days: #127 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**45.10%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Chou as a fighter for the EXP Lane or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Roam**
@@ -47,13 +47,13 @@ MOONTON’s official hero page lists Chou as a fighter for the EXP Lane or Roam.
 
 ## Who counters Chou
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Chou. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
+Chou loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are assassins.
 
 [![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Win rate by rank
 
-Best result in Epic (45.38%), weakest in Mythical Glory (44.70%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (45.38%), weakest in Mythical Glory (44.70%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**45.38%**
 -   ![](/images/ranks/Legend.webp)Legend**45.34%**
@@ -75,7 +75,9 @@ The strongest by win rate over the last 30 days.
 
 ![Chou](/images/heroes/chou.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Chou page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chou). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Chou’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=26)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chou)
 
 ## Boost on Chou
 
@@ -83,11 +85,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Chou in MLBB?
 
-By MOONTON’s official 30-day statistics: X.Borg, Fanny, Beatrix, Ixia and Natalia.
+Over the last 30 days the toughest opponents are X.Borg, Fanny, Beatrix, Ixia and Natalia.
 
 What is Chou’s win rate right now?
 
@@ -95,7 +99,7 @@ What is Chou’s win rate right now?
 
 What role and lane does Chou play?
 
-Fighter, EXP Lane or Roam, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or on roam.
 
 Is Chou strong in the current meta?
 

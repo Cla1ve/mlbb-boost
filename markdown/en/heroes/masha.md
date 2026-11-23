@@ -11,7 +11,7 @@ Tier S
 
 # Masha in Mobile Legends: counters and stats
 
-Tank and fighter, EXP Lane. Masha wins 60.40% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and fighter, EXP Lane. Wins 60.40% of matches over the last 30 days: #1 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**60.40%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Masha as a tank and fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and fighter**
 -   Lane**EXP Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Masha as a tank and fighter for the EXP Lan
 
 ## Who counters Masha
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Masha. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
+Masha loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are marksmen.
 
 [![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Lesley](/images/heroes/lesley.webp)Lesley48.31%](https://boostmlbb.ru/en/heroes/lesley.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Brody](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)
 
 ## Who Masha is strong against
 
-Masha is listed as a counter for these heroes.
+Masha is one of the toughest opponents for these heroes.
 
 [![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (61.09%), weakest in Epic (54.74%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (61.09%), weakest in Epic (54.74%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.74%**
 -   ![](/images/ranks/Legend.webp)Legend**58.09%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Masha](/images/heroes/masha.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Masha page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Masha). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Masha’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=88)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Masha)
 
 ## Boost on Masha
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Masha in MLBB?
 
-By MOONTON’s official 30-day statistics: Gloo, Eudora, Lesley, Cici and Brody.
+Over the last 30 days the toughest opponents are Gloo, Eudora, Lesley, Cici and Brody.
 
 What is Masha’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Masha’s win rate right now?
 
 What role and lane does Masha play?
 
-Tank and fighter, EXP Lane, according to MOONTON’s official hero page.
+Tank and fighter, played in the EXP Lane.
 
 Is Masha strong in the current meta?
 

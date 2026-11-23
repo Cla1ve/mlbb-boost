@@ -11,7 +11,7 @@ Tier B
 
 # Julian in Mobile Legends: counters and stats
 
-Fighter and assassin, EXP Lane or Jungle. Julian wins 49.95% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, EXP Lane or Jungle. Wins 49.95% of matches over the last 30 days: #69 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.95%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Julian as a fighter and assassin for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and assassin**
 -   Lane**EXP Lane or Jungle**
@@ -48,19 +48,19 @@ MOONTON’s official hero page lists Julian as a fighter and assassin for the EX
 
 ## Who counters Julian
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Julian. The number is each hero’s own win rate. 4 of the 5 counters are mages.
+Julian loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are mages.
 
 [![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)
 
 ## Who Julian is strong against
 
-Julian is listed as a counter for these heroes.
+Julian is one of the toughest opponents for these heroes.
 
 [![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)
 
 ## Win rate by rank
 
-Best result in Epic (50.96%), weakest in Mythical Glory (49.20%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (50.96%), weakest in Mythical Glory (49.20%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.96%**
 -   ![](/images/ranks/Legend.webp)Legend**50.40%**
@@ -82,7 +82,9 @@ The strongest by win rate over the last 30 days.
 
 ![Julian](/images/heroes/julian.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Julian page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Julian). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Julian’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=116)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Julian)
 
 ## Boost on Julian
 
@@ -90,11 +92,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Julian in MLBB?
 
-By MOONTON’s official 30-day statistics: Faramis, Esmeralda, Alice, Phoveus and Odette.
+Over the last 30 days the toughest opponents are Faramis, Esmeralda, Alice, Phoveus and Odette.
 
 What is Julian’s win rate right now?
 
@@ -102,7 +106,7 @@ What is Julian’s win rate right now?
 
 What role and lane does Julian play?
 
-Fighter and assassin, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Julian strong in the current meta?
 

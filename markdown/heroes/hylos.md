@@ -11,7 +11,7 @@ language: ru
 
 # Хилос в Mobile Legends: контрпики и статистика
 
-Танк, роум. Хилос выигрывает 48,55% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Танк, роум. Выигрывает 48,55% матчей за последние 30 дней — 101-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Хилос» — танк, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Танк**
 -   Линия**Роум**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Хилос». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+Против этих героев «Хилос» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
 [![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Инь](/images/heroes/yin.webp)Инь49,62%](https://boostmlbb.ru/heroes/yin.html)[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)
 
 ## Против кого силён
 
-«Хилос» числится контрпиком для этих героев.
+Для этих героев «Хилос» — один из самых неудобных соперников.
 
 [![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Сесилион](/images/heroes/cecilion.webp)Сесилион50,96%](https://boostmlbb.ru/heroes/cecilion.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Кэрри](/images/heroes/karrie.webp)Кэрри48,87%](https://boostmlbb.ru/heroes/karrie.html)[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь49,57%](https://boostmlbb.ru/heroes/zhuxin.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (51,36%), слабее всего — «Мифическая слава» (46,54%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (51,36%), слабее всего — «Мифическая слава» (46,54%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**51,36%**
 -   ![](/images/ranks/Legend.webp)Легенда**50,68%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Хилос](/images/heroes/hylos.webp)
 
-Историю героя, навыки и реплики собирает [страница Hylos в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hylos) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Хилос», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=49)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hylos)
 
 ## Буст на герое «Хилос»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Хилос» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Зилонг, Лейла, Инь, Нана и Сабер.
+За последние 30 дней чаще всего героя обыгрывают Зилонг, Лейла, Инь, Нана и Сабер.
 
 Какой процент побед у героя «Хилос» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Хилос»?
 
-Танк, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+Танк, играет в роуме.
 
 Силён ли герой «Хилос» в текущей мете?
 

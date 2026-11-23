@@ -11,7 +11,7 @@ Tier B
 
 # Miya in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Miya wins 49.71% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 49.71% of matches over the last 30 days: #73 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.71%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Miya as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Miya as a marksman for the Gold Lane. Place
 
 ## Who counters Miya
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Miya. The number is each hero’s own win rate. 3 of the 5 counters are marksmen.
+Miya loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are marksmen.
 
 [![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)
 
 ## Who Miya is strong against
 
-Miya is listed as a counter for these heroes.
+Miya is one of the toughest opponents for these heroes.
 
 [![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (50.30%), weakest in Epic (48.43%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (50.30%), weakest in Epic (48.43%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.43%**
 -   ![](/images/ranks/Legend.webp)Legend**49.20%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Miya](/images/heroes/miya.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Miya page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Miya). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Miya’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=1)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Miya)
 
 ## Boost on Miya
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Miya in MLBB?
 
-By MOONTON’s official 30-day statistics: Saber, Obsidia, Moskov, Irithel and Guinevere.
+Over the last 30 days the toughest opponents are Saber, Obsidia, Moskov, Irithel and Guinevere.
 
 What is Miya’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Miya’s win rate right now?
 
 What role and lane does Miya play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Miya strong in the current meta?
 

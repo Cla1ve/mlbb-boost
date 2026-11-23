@@ -11,7 +11,7 @@ Tier A
 
 # Guinevere in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. Guinevere wins 51.27% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 51.27% of matches over the last 30 days: #39 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.27%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Guinevere as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Guinevere as a fighter for the EXP Lane. Pl
 
 ## Who counters Guinevere
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Guinevere. The number is each hero’s own win rate. 3 of the 5 counters are mages.
+Guinevere loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are mages.
 
 [![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)[![Julian](/images/heroes/julian.webp)Julian49.95%](https://boostmlbb.ru/en/heroes/julian.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ## Who Guinevere is strong against
 
-Guinevere is listed as a counter for these heroes.
+Guinevere is one of the toughest opponents for these heroes.
 
 [![Miya](/images/heroes/miya.webp)Miya49.71%](https://boostmlbb.ru/en/heroes/miya.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)
 
 ## Win rate by rank
 
-Best result in Epic (52.01%), weakest in Mythic (50.70%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (52.01%), weakest in Mythic (50.70%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.01%**
 -   ![](/images/ranks/Legend.webp)Legend**50.93%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Guinevere](/images/heroes/guinevere.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Guinevere page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Guinevere). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Guinevere’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=80)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Guinevere)
 
 ## Boost on Guinevere
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Guinevere in MLBB?
 
-By MOONTON’s official 30-day statistics: Lunox, Julian, Karrie, Yve and Esmeralda.
+Over the last 30 days the toughest opponents are Lunox, Julian, Karrie, Yve and Esmeralda.
 
 What is Guinevere’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Guinevere’s win rate right now?
 
 What role and lane does Guinevere play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is Guinevere strong in the current meta?
 

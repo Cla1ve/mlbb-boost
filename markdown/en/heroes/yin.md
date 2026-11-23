@@ -11,7 +11,7 @@ Tier B
 
 # Yin in Mobile Legends: counters and stats
 
-Fighter and assassin, EXP Lane or Jungle. Yin wins 49.62% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, EXP Lane or Jungle. Wins 49.62% of matches over the last 30 days: #76 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.62%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Yin as a fighter and assassin for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and assassin**
 -   Lane**EXP Lane or Jungle**
@@ -48,19 +48,19 @@ MOONTON’s official hero page lists Yin as a fighter and assassin for the EXP L
 
 ## Who counters Yin
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Yin. The number is each hero’s own win rate. 3 of the 5 counters are supports.
+Yin loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are supports.
 
 [![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)
 
 ## Who Yin is strong against
 
-Yin is listed as a counter for these heroes.
+Yin is one of the toughest opponents for these heroes.
 
 [![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Suyou](/images/heroes/suyou.webp)Suyou49.70%](https://boostmlbb.ru/en/heroes/suyou.html)[![Hirara](/images/heroes/hirara.webp)Hirara50.03%](https://boostmlbb.ru/en/heroes/hirara.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![Lancelot](/images/heroes/lancelot.webp)Lancelot43.13%](https://boostmlbb.ru/en/heroes/lancelot.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Grock](/images/heroes/grock.webp)Grock46.61%](https://boostmlbb.ru/en/heroes/grock.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Roger](/images/heroes/roger.webp)Roger48.33%](https://boostmlbb.ru/en/heroes/roger.html)
 
 ## Win rate by rank
 
-Best result in Epic (49.97%), weakest in Mythical Honor (49.05%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (49.97%), weakest in Mythical Honor (49.05%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.97%**
 -   ![](/images/ranks/Legend.webp)Legend**49.56%**
@@ -82,7 +82,9 @@ The strongest by win rate over the last 30 days.
 
 ![Yin](/images/heroes/yin.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Yin page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yin). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Yin’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=113)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yin)
 
 ## Boost on Yin
 
@@ -90,11 +92,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Yin in MLBB?
 
-By MOONTON’s official 30-day statistics: Diggie, Minsitthar, Ixia, Floryn and Estes.
+Over the last 30 days the toughest opponents are Diggie, Minsitthar, Ixia, Floryn and Estes.
 
 What is Yin’s win rate right now?
 
@@ -102,7 +106,7 @@ What is Yin’s win rate right now?
 
 What role and lane does Yin play?
 
-Fighter and assassin, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Yin strong in the current meta?
 

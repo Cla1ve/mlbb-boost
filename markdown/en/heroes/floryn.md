@@ -11,7 +11,7 @@ Tier S
 
 # Floryn in Mobile Legends: counters and stats
 
-Support, Roam. Floryn wins 54.07% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Support, Roam. Wins 54.07% of matches over the last 30 days: #8 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**54.07%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Floryn as a support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Support**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Floryn as a support for the Roam. Places ar
 
 ## Who counters Floryn
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Floryn. The number is each hero’s own win rate. 2 of the 5 counters are supports.
+Floryn loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are supports.
 
 [![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Who Floryn is strong against
 
-Floryn is listed as a counter for these heroes.
+Floryn is one of the toughest opponents for these heroes.
 
 [![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Win rate by rank
 
-Best result in Epic (55.57%), weakest in Mythical Glory (53.83%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (55.57%), weakest in Mythical Glory (53.83%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**55.57%**
 -   ![](/images/ranks/Legend.webp)Legend**54.51%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Floryn](/images/heroes/floryn.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Floryn page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Floryn). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Floryn’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=112)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Floryn)
 
 ## Boost on Floryn
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Floryn in MLBB?
 
-By MOONTON’s official 30-day statistics: Marcel, Alice, X.Borg, Ling and Faramis.
+Over the last 30 days the toughest opponents are Marcel, Alice, X.Borg, Ling and Faramis.
 
 What is Floryn’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Floryn’s win rate right now?
 
 What role and lane does Floryn play?
 
-Support, Roam, according to MOONTON’s official hero page.
+Support, played on roam.
 
 Is Floryn strong in the current meta?
 

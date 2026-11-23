@@ -11,7 +11,7 @@ Tier S
 
 # Gloo in Mobile Legends: counters and stats
 
-Tank, EXP Lane or Roam. Gloo wins 53.45% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank, EXP Lane or Roam. Wins 53.45% of matches over the last 30 days: #13 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**53.45%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Gloo as a tank for the EXP Lane or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank**
 -   Lane**EXP Lane or Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Gloo as a tank for the EXP Lane or Roam. Pl
 
 ## Who counters Gloo
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Gloo. The number is each hero’s own win rate. 2 of the 5 counters are mages.
+Gloo loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are mages.
 
 [![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)
 
 ## Who Gloo is strong against
 
-Gloo is listed as a counter for these heroes.
+Gloo is one of the toughest opponents for these heroes.
 
 [![Vexana](/images/heroes/vexana.webp)Vexana49.30%](https://boostmlbb.ru/en/heroes/vexana.html)[![Carmilla](/images/heroes/carmilla.webp)Carmilla53.29%](https://boostmlbb.ru/en/heroes/carmilla.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Yu Zhong](/images/heroes/yu-zhong.webp)Yu Zhong48.93%](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)
 
 ## Win rate by rank
 
-Best result in Legend (56.11%), weakest in Mythical Glory (51.51%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (56.11%), weakest in Mythical Glory (51.51%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**55.73%**
 -   ![](/images/ranks/Legend.webp)Legend**56.11%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Gloo](/images/heroes/gloo.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Gloo page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gloo). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Gloo’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=104)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gloo)
 
 ## Boost on Gloo
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Gloo in MLBB?
 
-By MOONTON’s official 30-day statistics: Aamon, Johnson, Jawhead, Chang'e and Nana.
+Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Chang'e and Nana.
 
 What is Gloo’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Gloo’s win rate right now?
 
 What role and lane does Gloo play?
 
-Tank, EXP Lane or Roam, according to MOONTON’s official hero page.
+Tank, played in the EXP Lane or on roam.
 
 Is Gloo strong in the current meta?
 

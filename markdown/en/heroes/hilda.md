@@ -11,7 +11,7 @@ Tier A
 
 # Hilda in Mobile Legends: counters and stats
 
-Tank and fighter, EXP Lane or Roam. Hilda wins 51.07% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and fighter, EXP Lane or Roam. Wins 51.07% of matches over the last 30 days: #43 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.07%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Hilda as a tank and fighter for the EXP Lane or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and fighter**
 -   Lane**EXP Lane or Roam**
@@ -48,19 +48,19 @@ MOONTON’s official hero page lists Hilda as a tank and fighter for the EXP Lan
 
 ## Who counters Hilda
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Hilda. The number is each hero’s own win rate. 4 of the 5 counters are assassins.
+Hilda loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are assassins.
 
 [![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)
 
 ## Who Hilda is strong against
 
-Hilda is listed as a counter for these heroes.
+Hilda is one of the toughest opponents for these heroes.
 
 [![Carmilla](/images/heroes/carmilla.webp)Carmilla53.29%](https://boostmlbb.ru/en/heroes/carmilla.html)[![Kimmy](/images/heroes/kimmy.webp)Kimmy48.74%](https://boostmlbb.ru/en/heroes/kimmy.html)
 
 ## Win rate by rank
 
-Best result in Epic (54.91%), weakest in Mythical Glory (47.74%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (54.91%), weakest in Mythical Glory (47.74%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.91%**
 -   ![](/images/ranks/Legend.webp)Legend**53.40%**
@@ -82,7 +82,9 @@ The strongest by win rate over the last 30 days.
 
 ![Hilda](/images/heroes/hilda.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Hilda page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hilda). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Hilda’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=35)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hilda)
 
 ## Boost on Hilda
 
@@ -90,11 +92,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Hilda in MLBB?
 
-By MOONTON’s official 30-day statistics: Granger, Yin, Helcurt, Saber and Harley.
+Over the last 30 days the toughest opponents are Granger, Yin, Helcurt, Saber and Harley.
 
 What is Hilda’s win rate right now?
 
@@ -102,7 +106,7 @@ What is Hilda’s win rate right now?
 
 What role and lane does Hilda play?
 
-Tank and fighter, EXP Lane or Roam, according to MOONTON’s official hero page.
+Tank and fighter, played in the EXP Lane or on roam.
 
 Is Hilda strong in the current meta?
 

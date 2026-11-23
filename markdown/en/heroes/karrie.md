@@ -11,7 +11,7 @@ Tier C
 
 # Karrie in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Karrie wins 48.87% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 48.87% of matches over the last 30 days: #94 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.87%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Karrie as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Karrie as a marksman for the Gold Lane. Pla
 
 ## Who counters Karrie
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Karrie. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Karrie loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Who Karrie is strong against
 
-Karrie is listed as a counter for these heroes.
+Karrie is one of the toughest opponents for these heroes.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (49.47%), weakest in Legend (48.34%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (49.47%), weakest in Legend (48.34%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.59%**
 -   ![](/images/ranks/Legend.webp)Legend**48.34%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Karrie](/images/heroes/karrie.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Karrie page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karrie). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Karrie’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=40)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karrie)
 
 ## Boost on Karrie
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Karrie in MLBB?
 
-By MOONTON’s official 30-day statistics: Alice, Baxia, Esmeralda, Balmond and Hylos.
+Over the last 30 days the toughest opponents are Alice, Baxia, Esmeralda, Balmond and Hylos.
 
 What is Karrie’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Karrie’s win rate right now?
 
 What role and lane does Karrie play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Karrie strong in the current meta?
 

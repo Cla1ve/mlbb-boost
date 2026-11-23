@@ -11,7 +11,7 @@ Tier B
 
 # Zhuxin in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Zhuxin wins 49.57% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 49.57% of matches over the last 30 days: #77 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.57%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Zhuxin as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Zhuxin as a mage for the Mid Lane. Places a
 
 ## Who counters Zhuxin
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Zhuxin. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Zhuxin loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Leomord](/images/heroes/leomord.webp)Leomord50.09%](https://boostmlbb.ru/en/heroes/leomord.html)
 
 ## Who Zhuxin is strong against
 
-Zhuxin is listed as a counter for these heroes.
+Zhuxin is one of the toughest opponents for these heroes.
 
 [![Nolan](/images/heroes/nolan.webp)Nolan49.71%](https://boostmlbb.ru/en/heroes/nolan.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (49.98%), weakest in Epic (47.79%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (49.98%), weakest in Epic (47.79%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.79%**
 -   ![](/images/ranks/Legend.webp)Legend**48.25%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Zhuxin](/images/heroes/zhuxin.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Zhuxin page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhuxin). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Zhuxin’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=125)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhuxin)
 
 ## Boost on Zhuxin
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Zhuxin in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Khufra, Gloo, Hylos and Leomord.
+Over the last 30 days the toughest opponents are Lolita, Khufra, Gloo, Hylos and Leomord.
 
 What is Zhuxin’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Zhuxin’s win rate right now?
 
 What role and lane does Zhuxin play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Zhuxin strong in the current meta?
 

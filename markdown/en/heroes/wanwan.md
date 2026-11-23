@@ -11,7 +11,7 @@ Tier C
 
 # Wanwan in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Wanwan wins 47.59% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 47.59% of matches over the last 30 days: #113 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**47.59%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Wanwan as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Wanwan as a marksman for the Gold Lane. Pla
 
 ## Who counters Wanwan
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Wanwan. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Wanwan loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)
 
 ## Who Wanwan is strong against
 
-Wanwan is listed as a counter for these heroes.
+Wanwan is one of the toughest opponents for these heroes.
 
 [![Paquito](/images/heroes/paquito.webp)Paquito50.03%](https://boostmlbb.ru/en/heroes/paquito.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (48.27%), weakest in Epic (45.98%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (48.27%), weakest in Epic (45.98%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**45.98%**
 -   ![](/images/ranks/Legend.webp)Legend**48.19%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Wanwan](/images/heroes/wanwan.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Wanwan page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Wanwan). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Wanwan’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=89)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Wanwan)
 
 ## Boost on Wanwan
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Wanwan in MLBB?
 
-By MOONTON’s official 30-day statistics: Yin, Ixia, Atlas, Guinevere and Hanabi.
+Over the last 30 days the toughest opponents are Yin, Ixia, Atlas, Guinevere and Hanabi.
 
 What is Wanwan’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Wanwan’s win rate right now?
 
 What role and lane does Wanwan play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Wanwan strong in the current meta?
 

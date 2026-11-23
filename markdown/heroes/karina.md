@@ -11,7 +11,7 @@ language: ru
 
 # Карина в Mobile Legends: контрпики и статистика
 
-Убийца, лес. Карина выигрывает 48,60% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес. Выигрывает 48,60% матчей за последние 30 дней — 100-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Карина» — убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Убийца**
 -   Линия**Лес**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Карина». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+Против этих героев «Карина» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
 [![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## Против кого силён
 
-«Карина» числится контрпиком для этих героев.
+Для этих героев «Карина» — один из самых неудобных соперников.
 
 [![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Пакито](/images/heroes/paquito.webp)Пакито50,03%](https://boostmlbb.ru/heroes/paquito.html)[![Броуди](/images/heroes/brody.webp)Броуди49,99%](https://boostmlbb.ru/heroes/brody.html)[![Клинт](/images/heroes/clint.webp)Клинт50,33%](https://boostmlbb.ru/heroes/clint.html)[![Сора](/images/heroes/sora.webp)Сора49,50%](https://boostmlbb.ru/heroes/sora.html)[![Хирара](/images/heroes/hirara.webp)Хирара50,03%](https://boostmlbb.ru/heroes/hirara.html)[![Люнокс](/images/heroes/lunox.webp)Люнокс50,64%](https://boostmlbb.ru/heroes/lunox.html)[![Руби](/images/heroes/ruby.webp)Руби49,12%](https://boostmlbb.ru/heroes/ruby.html)[![Харит](/images/heroes/harith.webp)Харит46,92%](https://boostmlbb.ru/heroes/harith.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (49,89%), слабее всего — «Мифическая честь» (48,23%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (49,89%), слабее всего — «Мифическая честь» (48,23%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**49,89%**
 -   ![](/images/ranks/Legend.webp)Легенда**48,95%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Карина](/images/heroes/karina.webp)
 
-Историю героя, навыки и реплики собирает [страница Karina в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karina) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Карина», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=8)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karina)
 
 ## Буст на герое «Карина»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Карина» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Наталья, Кимми, Марсель, Линг и Хелкарт.
+За последние 30 дней чаще всего героя обыгрывают Наталья, Кимми, Марсель, Линг и Хелкарт.
 
 Какой процент побед у героя «Карина» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Карина»?
 
-Убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+Убийца, играет в лесу.
 
 Силён ли герой «Карина» в текущей мете?
 

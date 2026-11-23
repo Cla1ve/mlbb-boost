@@ -11,7 +11,7 @@ Tier B
 
 # Terizla in Mobile Legends: counters and stats
 
-Tank and fighter, EXP Lane. Terizla wins 50.60% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and fighter, EXP Lane. Wins 50.60% of matches over the last 30 days: #50 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.60%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Terizla as a tank and fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and fighter**
 -   Lane**EXP Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Terizla as a tank and fighter for the EXP L
 
 ## Who counters Terizla
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Terizla. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Terizla loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)
 
 ## Who Terizla is strong against
 
-Terizla is listed as a counter for these heroes.
+Terizla is one of the toughest opponents for these heroes.
 
 [![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ## Win rate by rank
 
-Best result in Legend (51.66%), weakest in Mythical Glory (49.48%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (51.66%), weakest in Mythical Glory (49.48%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.28%**
 -   ![](/images/ranks/Legend.webp)Legend**51.66%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Terizla](/images/heroes/terizla.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Terizla page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Terizla). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Terizla’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=82)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Terizla)
 
 ## Boost on Terizla
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Terizla in MLBB?
 
-By MOONTON’s official 30-day statistics: Argus, Phoveus, Lolita, Popol and Kupa and Odette.
+Over the last 30 days the toughest opponents are Argus, Phoveus, Lolita, Popol and Kupa and Odette.
 
 What is Terizla’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Terizla’s win rate right now?
 
 What role and lane does Terizla play?
 
-Tank and fighter, EXP Lane, according to MOONTON’s official hero page.
+Tank and fighter, played in the EXP Lane.
 
 Is Terizla strong in the current meta?
 

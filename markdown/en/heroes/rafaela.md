@@ -11,7 +11,7 @@ Tier S
 
 # Rafaela in Mobile Legends: counters and stats
 
-Support, Roam. Rafaela wins 54.51% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Support, Roam. Wins 54.51% of matches over the last 30 days: #5 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**54.51%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Rafaela as a support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Support**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Rafaela as a support for the Roam. Places a
 
 ## Who counters Rafaela
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Rafaela. The number is each hero’s own win rate.
+Rafaela loses to these heroes most often. The number under each icon is that hero’s own win rate.
 
 [![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)
 
 ## Who Rafaela is strong against
 
-Rafaela is listed as a counter for these heroes.
+Rafaela is one of the toughest opponents for these heroes.
 
 [![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Sora](/images/heroes/sora.webp)Sora49.50%](https://boostmlbb.ru/en/heroes/sora.html)[![Vale](/images/heroes/vale.webp)Vale50.10%](https://boostmlbb.ru/en/heroes/vale.html)
 
 ## Win rate by rank
 
-Best result in Mythic (55.26%), weakest in Epic (53.15%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (55.26%), weakest in Epic (53.15%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**53.15%**
 -   ![](/images/ranks/Legend.webp)Legend**54.77%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Rafaela](/images/heroes/rafaela.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Rafaela page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Rafaela). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Rafaela’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=14)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Rafaela)
 
 ## Boost on Rafaela
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Rafaela in MLBB?
 
-By MOONTON’s official 30-day statistics: Valir, Natalia, Marcel, Hylos and Cici.
+Over the last 30 days the toughest opponents are Valir, Natalia, Marcel, Hylos and Cici.
 
 What is Rafaela’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Rafaela’s win rate right now?
 
 What role and lane does Rafaela play?
 
-Support, Roam, according to MOONTON’s official hero page.
+Support, played on roam.
 
 Is Rafaela strong in the current meta?
 

@@ -11,7 +11,7 @@ language: ru
 
 # Линг в Mobile Legends: контрпики и статистика
 
-Убийца, лес. Линг выигрывает 52,54% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес. Выигрывает 52,54% матчей за последние 30 дней — 22-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Линг» — убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Убийца**
 -   Линия**Лес**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Линг». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — танки.
+Против этих героев «Линг» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — танки.
 
 [![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)
 
 ## Против кого силён
 
-«Линг» числится контрпиком для этих героев.
+Для этих героев «Линг» — один из самых неудобных соперников.
 
 [![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Мелисса](/images/heroes/melissa.webp)Мелисса50,07%](https://boostmlbb.ru/heroes/melissa.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (54,58%), слабее всего — «Мифическая слава» (51,85%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (54,58%), слабее всего — «Мифическая слава» (51,85%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**54,58%**
 -   ![](/images/ranks/Legend.webp)Легенда**53,76%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Линг](/images/heroes/ling.webp)
 
-Историю героя, навыки и реплики собирает [страница Ling в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ling) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Линг», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=84)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ling)
 
 ## Буст на герое «Линг»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Линг» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Глу, Икс.Борг, Ханзо, Атлас и Сильвана.
+За последние 30 дней чаще всего героя обыгрывают Глу, Икс.Борг, Ханзо, Атлас и Сильвана.
 
 Какой процент побед у героя «Линг» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Линг»?
 
-Убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+Убийца, играет в лесу.
 
 Силён ли герой «Линг» в текущей мете?
 

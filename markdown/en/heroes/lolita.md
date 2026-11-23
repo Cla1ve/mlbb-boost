@@ -11,7 +11,7 @@ Tier S
 
 # Lolita in Mobile Legends: counters and stats
 
-Tank and support, Roam. Lolita wins 53.30% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and support, Roam. Wins 53.30% of matches over the last 30 days: #14 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**53.30%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Lolita as a tank and support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and support**
 -   Lane**Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Lolita as a tank and support for the Roam. 
 
 ## Who counters Lolita
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Lolita. The number is each hero’s own win rate. 4 of the 5 counters are mages.
+Lolita loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are mages.
 
 [![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Who Lolita is strong against
 
-Lolita is listed as a counter for these heroes.
+Lolita is one of the toughest opponents for these heroes.
 
 [![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Zetian](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![Vexana](/images/heroes/vexana.webp)Vexana49.30%](https://boostmlbb.ru/en/heroes/vexana.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)
 
 ## Win rate by rank
 
-Best result in Legend (55.33%), weakest in Mythical Glory (51.70%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (55.33%), weakest in Mythical Glory (51.70%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.33%**
 -   ![](/images/ranks/Legend.webp)Legend**55.33%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Lolita](/images/heroes/lolita.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Lolita page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lolita). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Lolita’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=20)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lolita)
 
 ## Boost on Lolita
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Lolita in MLBB?
 
-By MOONTON’s official 30-day statistics: Cyclops, Edith, Chang'e, Harley and Bane.
+Over the last 30 days the toughest opponents are Cyclops, Edith, Chang'e, Harley and Bane.
 
 What is Lolita’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Lolita’s win rate right now?
 
 What role and lane does Lolita play?
 
-Tank and support, Roam, according to MOONTON’s official hero page.
+Tank and support, played on roam.
 
 Is Lolita strong in the current meta?
 

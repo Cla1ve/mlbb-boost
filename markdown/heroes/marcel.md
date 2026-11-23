@@ -11,7 +11,7 @@ language: ru
 
 # Марсель в Mobile Legends: контрпики и статистика
 
-Поддержка, роум. Марсель выигрывает 57,46% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Поддержка, роум. Выигрывает 57,46% матчей за последние 30 дней — 2-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Марсель» — поддержка, играет в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Поддержка**
 -   Линия**Роум**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Марсель». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — танки.
+Против этих героев «Марсель» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — танки.
 
 [![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Акай](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
 
 ## Против кого силён
 
-«Марсель» числится контрпиком для этих героев.
+Для этих героев «Марсель» — один из самых неудобных соперников.
 
 [![Лесли](/images/heroes/lesley.webp)Лесли48,31%](https://boostmlbb.ru/heroes/lesley.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Эсмеральда](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Эймон](/images/heroes/aamon.webp)Эймон50,24%](https://boostmlbb.ru/heroes/aamon.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Мифическая честь» (57,94%), слабее всего — «Эпик» (55,64%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Мифическая честь» (57,94%), слабее всего — «Эпик» (55,64%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,64%**
 -   ![](/images/ranks/Legend.webp)Легенда**56,95%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Марсель](/images/heroes/marcel.webp)
 
-Историю героя, навыки и реплики собирает [страница Marcel в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Marcel) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Марсель», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=132)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Marcel)
 
 ## Буст на герое «Марсель»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Марсель» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Атлас, Сан, Акай, Джонсон и Пополь и Купа.
+За последние 30 дней чаще всего героя обыгрывают Атлас, Сан, Акай, Джонсон и Пополь и Купа.
 
 Какой процент побед у героя «Марсель» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Марсель»?
 
-Поддержка, играет в роуме. Так героя распределяет официальная страница героев MOONTON.
+Поддержка, играет в роуме.
 
 Силён ли герой «Марсель» в текущей мете?
 

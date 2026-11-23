@@ -11,7 +11,7 @@ Tier C
 
 # Karina in Mobile Legends: counters and stats
 
-Assassin, Jungle. Karina wins 48.60% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin, Jungle. Wins 48.60% of matches over the last 30 days: #100 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.60%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Karina as a assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Karina as a assassin for the Jungle. Places
 
 ## Who counters Karina
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Karina. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Karina loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Kimmy](/images/heroes/kimmy.webp)Kimmy48.74%](https://boostmlbb.ru/en/heroes/kimmy.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Who Karina is strong against
 
-Karina is listed as a counter for these heroes.
+Karina is one of the toughest opponents for these heroes.
 
 [![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Paquito](/images/heroes/paquito.webp)Paquito50.03%](https://boostmlbb.ru/en/heroes/paquito.html)[![Brody](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)[![Clint](/images/heroes/clint.webp)Clint50.33%](https://boostmlbb.ru/en/heroes/clint.html)[![Sora](/images/heroes/sora.webp)Sora49.50%](https://boostmlbb.ru/en/heroes/sora.html)[![Hirara](/images/heroes/hirara.webp)Hirara50.03%](https://boostmlbb.ru/en/heroes/hirara.html)[![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)[![Ruby](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)[![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Win rate by rank
 
-Best result in Epic (49.89%), weakest in Mythical Honor (48.23%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (49.89%), weakest in Mythical Honor (48.23%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.89%**
 -   ![](/images/ranks/Legend.webp)Legend**48.95%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Karina](/images/heroes/karina.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Karina page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karina). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Karina’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=8)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karina)
 
 ## Boost on Karina
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Karina in MLBB?
 
-By MOONTON’s official 30-day statistics: Natalia, Kimmy, Marcel, Ling and Helcurt.
+Over the last 30 days the toughest opponents are Natalia, Kimmy, Marcel, Ling and Helcurt.
 
 What is Karina’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Karina’s win rate right now?
 
 What role and lane does Karina play?
 
-Assassin, Jungle, according to MOONTON’s official hero page.
+Assassin, played in the jungle.
 
 Is Karina strong in the current meta?
 

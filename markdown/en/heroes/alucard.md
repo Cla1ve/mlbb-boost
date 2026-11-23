@@ -11,7 +11,7 @@ Tier C
 
 # Alucard in Mobile Legends: counters and stats
 
-Fighter and assassin, Jungle. Alucard wins 48.87% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, Jungle. Wins 48.87% of matches over the last 30 days: #93 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.87%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Alucard as a fighter and assassin for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and assassin**
 -   Lane**Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Alucard as a fighter and assassin for the J
 
 ## Who counters Alucard
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Alucard. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Alucard loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Mathilda](/images/heroes/mathilda.webp)Mathilda44.49%](https://boostmlbb.ru/en/heroes/mathilda.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)
 
 ## Who Alucard is strong against
 
-Alucard is listed as a counter for these heroes.
+Alucard is one of the toughest opponents for these heroes.
 
 [![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)
 
 ## Win rate by rank
 
-Best result in Mythic (49.04%), weakest in Mythical Honor (48.56%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (49.04%), weakest in Mythical Honor (48.56%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.79%**
 -   ![](/images/ranks/Legend.webp)Legend**48.94%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Alucard](/images/heroes/alucard.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Alucard page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alucard). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Alucard’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=7)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alucard)
 
 ## Boost on Alucard
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Alucard in MLBB?
 
-By MOONTON’s official 30-day statistics: Natalia, Sun, Mathilda, Saber and Harith.
+Over the last 30 days the toughest opponents are Natalia, Sun, Mathilda, Saber and Harith.
 
 What is Alucard’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Alucard’s win rate right now?
 
 What role and lane does Alucard play?
 
-Fighter and assassin, Jungle, according to MOONTON’s official hero page.
+Fighter and assassin, played in the jungle.
 
 Is Alucard strong in the current meta?
 

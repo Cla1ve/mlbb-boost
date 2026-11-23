@@ -9,15 +9,7 @@ About
 
 # About MLBB Boost
 
-Contact
-
-5 Formats
-
-Telegram Contact
-
-RU / EN Support
-
-1312 Reviews
+Mobile Legends rank boosting since November 2025. Ordering, payment and boost progress happen in the Telegram bot, with a review after every order.
 
 01
 
@@ -67,24 +59,26 @@ Confirm your order and first-order discount eligibility
 
 [Message @Cla1ve](https://t.me/Cla1ve) [Telegram bot](https://t.me/cla1ve_boost_bot?start=site)
 
-Service in numbers
+The service in numbers
 
 ## BOOST MLBB since November 2025
 
-Data from the Telegram bot that handles every order. Figures as of 22 November 2026.
+Figures from the Telegram bot that handles every order, as of 22 November 2026.
 
-**2,289**completed orders
+**2,289**orders completed
 
-**348**customers, 217 of them ordered again
+**62%**of clients order again: 217 of 348
 
-**81**boosters completed orders, 47 in the last 90 days
+**47**boosters worked in the last 90 days
 
-**1,312**published reviews on Telegram
+**1,312**reviews in the Telegram channel
 
-**Orders through the bot**The bot agrees the price, booster and start time before payment. Payment also goes through the bot.
+### How it works
 
-**Progress you can see**You can check your rank in the bot after every game without asking the booster.
+**Orders through the bot**The bot agrees the price, booster and start time before payment. Payment happens in the bot too.
 
-**A review after every order**Customers rate the booster, and reviews are posted in the channel with a link to the order.
+**Progress you can see**Check the rank in the bot after every game without asking the booster.
+
+**A review after every order**The client rates the booster and the review is posted in the channel with a link to the order.
 
 **A registered business**Company details, the offer and the refund policy are in the documents section.

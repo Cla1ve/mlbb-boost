@@ -11,7 +11,7 @@ language: ru
 
 # Фарамис в Mobile Legends: контрпики и статистика
 
-Маг и поддержка, средняя линия или роум. Фарамис выигрывает 50,83% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг и поддержка, средняя линия или роум. Выигрывает 50,83% матчей за последние 30 дней — 47-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Фарамис» — маг и поддержка, играет на средней линии или в роуме. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Маг и поддержка**
 -   Линия**Средняя линия или роум**
@@ -48,19 +48,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Фарамис». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
+Против этих героев «Фарамис» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — убийцы.
 
 [![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Ванван](/images/heroes/wanwan.webp)Ванван47,59%](https://boostmlbb.ru/heroes/wanwan.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)
 
 ## Против кого силён
 
-«Фарамис» числится контрпиком для этих героев.
+Для этих героев «Фарамис» — один из самых неудобных соперников.
 
 [![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Джулиан](/images/heroes/julian.webp)Джулиан49,95%](https://boostmlbb.ru/heroes/julian.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Одетта](/images/heroes/odette.webp)Одетта49,69%](https://boostmlbb.ru/heroes/odette.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)[![Ло Йи](/images/heroes/luo-yi.webp)Ло Йи47,35%](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Мифическая слава» (51,35%), слабее всего — «Эпик» (48,59%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Мифическая слава» (51,35%), слабее всего — «Эпик» (48,59%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**48,59%**
 -   ![](/images/ranks/Legend.webp)Легенда**48,95%**
@@ -82,7 +82,9 @@ language: ru
 
 ![Фарамис](/images/heroes/faramis.webp)
 
-Историю героя, навыки и реплики собирает [страница Faramis в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Faramis) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Фарамис», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=76)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Faramis)
 
 ## Буст на герое «Фарамис»
 
@@ -90,11 +92,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Фарамис» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Глу, Ванван, Сан, Линг и Карина.
+За последние 30 дней чаще всего героя обыгрывают Глу, Ванван, Сан, Линг и Карина.
 
 Какой процент побед у героя «Фарамис» сейчас?
 
@@ -102,7 +106,7 @@ language: ru
 
 Какая роль и линия у героя «Фарамис»?
 
-Маг и поддержка, играет на средней линии или в роуме. Так героя распределяет официальная страница героев MOONTON.
+Маг и поддержка, играет на средней линии или в роуме.
 
 Силён ли герой «Фарамис» в текущей мете?
 

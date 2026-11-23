@@ -11,7 +11,7 @@ Tier A
 
 # Gord in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Gord wins 52.61% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 52.61% of matches over the last 30 days: #21 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**52.61%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Gord as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Gord as a mage for the Mid Lane. Places are
 
 ## Who counters Gord
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Gord. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Gord loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)
 
 ## Who Gord is strong against
 
-Gord is listed as a counter for these heroes.
+Gord is one of the toughest opponents for these heroes.
 
 [![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Win rate by rank
 
-Best result in Mythic (53.07%), weakest in Mythical Glory (52.25%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (53.07%), weakest in Mythical Glory (52.25%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.39%**
 -   ![](/images/ranks/Legend.webp)Legend**52.68%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Gord](/images/heroes/gord.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Gord page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gord). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Gord’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=23)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gord)
 
 ## Boost on Gord
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Gord in MLBB?
 
-By MOONTON’s official 30-day statistics: Barats, Lolita, Fredrinn, Phoveus and Alice.
+Over the last 30 days the toughest opponents are Barats, Lolita, Fredrinn, Phoveus and Alice.
 
 What is Gord’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Gord’s win rate right now?
 
 What role and lane does Gord play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Gord strong in the current meta?
 

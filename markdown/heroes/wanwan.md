@@ -11,7 +11,7 @@ language: ru
 
 # Ванван в Mobile Legends: контрпики и статистика
 
-Стрелок, линия золота. Ванван выигрывает 47,59% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота. Выигрывает 47,59% матчей за последние 30 дней — 113-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Ванван» — стрелок, играет на линии золота. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Стрелок**
 -   Линия**Линия золота**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Ванван». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
+Против этих героев «Ванван» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
 
 [![Инь](/images/heroes/yin.webp)Инь49,62%](https://boostmlbb.ru/heroes/yin.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Гвиневра](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)
 
 ## Против кого силён
 
-«Ванван» числится контрпиком для этих героев.
+Для этих героев «Ванван» — один из самых неудобных соперников.
 
 [![Пакито](/images/heroes/paquito.webp)Пакито50,03%](https://boostmlbb.ru/heroes/paquito.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)[![Люнокс](/images/heroes/lunox.webp)Люнокс50,64%](https://boostmlbb.ru/heroes/lunox.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Фовиус](/images/heroes/phoveus.webp)Фовиус48,21%](https://boostmlbb.ru/heroes/phoveus.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Мифическая честь» (48,27%), слабее всего — «Эпик» (45,98%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Мифическая честь» (48,27%), слабее всего — «Эпик» (45,98%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**45,98%**
 -   ![](/images/ranks/Legend.webp)Легенда**48,19%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Ванван](/images/heroes/wanwan.webp)
 
-Историю героя, навыки и реплики собирает [страница Wanwan в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Wanwan) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Ванван», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=89)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Wanwan)
 
 ## Буст на герое «Ванван»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Ванван» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Инь, Иксия, Атлас, Гвиневра и Ханаби.
+За последние 30 дней чаще всего героя обыгрывают Инь, Иксия, Атлас, Гвиневра и Ханаби.
 
 Какой процент побед у героя «Ванван» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Ванван»?
 
-Стрелок, играет на линии золота. Так героя распределяет официальная страница героев MOONTON.
+Стрелок, играет на линии золота.
 
 Силён ли герой «Ванван» в текущей мете?
 

@@ -11,7 +11,7 @@ Tier C
 
 # Phoveus in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. Phoveus wins 48.21% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 48.21% of matches over the last 30 days: #105 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.21%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Phoveus as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Phoveus as a fighter for the EXP Lane. Plac
 
 ## Who counters Phoveus
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Phoveus. The number is each hero’s own win rate. 3 of the 5 counters are fighters.
+Phoveus loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
 
 [![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)[![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)[![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Ruby](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)
 
 ## Who Phoveus is strong against
 
-Phoveus is listed as a counter for these heroes.
+Phoveus is one of the toughest opponents for these heroes.
 
 [![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Cecilion](/images/heroes/cecilion.webp)Cecilion50.96%](https://boostmlbb.ru/en/heroes/cecilion.html)[![Julian](/images/heroes/julian.webp)Julian49.95%](https://boostmlbb.ru/en/heroes/julian.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Terizla](/images/heroes/terizla.webp)Terizla50.60%](https://boostmlbb.ru/en/heroes/terizla.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Win rate by rank
 
-Best result in Epic (49.35%), weakest in Mythical Honor (47.92%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (49.35%), weakest in Mythical Honor (47.92%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.35%**
 -   ![](/images/ranks/Legend.webp)Legend**48.38%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Phoveus](/images/heroes/phoveus.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Phoveus page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Phoveus). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Phoveus’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=106)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Phoveus)
 
 ## Boost on Phoveus
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Phoveus in MLBB?
 
-By MOONTON’s official 30-day statistics: Wanwan, Harith, Freya, Benedetta and Ruby.
+Over the last 30 days the toughest opponents are Wanwan, Harith, Freya, Benedetta and Ruby.
 
 What is Phoveus’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Phoveus’s win rate right now?
 
 What role and lane does Phoveus play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is Phoveus strong in the current meta?
 

@@ -11,7 +11,7 @@ language: ru
 
 # Сильвана в Mobile Legends: контрпики и статистика
 
-Боец, линия опыта. Сильвана выигрывает 51,36% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец, линия опыта. Выигрывает 51,36% матчей за последние 30 дней — 36-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Сильвана» — боец, играет на линии опыта. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Боец**
 -   Линия**Линия опыта**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Сильвана». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
+Против этих героев «Сильвана» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
 
 [![Эймон](/images/heroes/aamon.webp)Эймон50,24%](https://boostmlbb.ru/heroes/aamon.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Против кого силён
 
-«Сильвана» числится контрпиком для этих героев.
+Для этих героев «Сильвана» — один из самых неудобных соперников.
 
 [![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Кагура](/images/heroes/kagura.webp)Кагура51,09%](https://boostmlbb.ru/heroes/kagura.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Чонг](/images/heroes/yu-zhong.webp)Чонг48,93%](https://boostmlbb.ru/heroes/yu-zhong.html)[![Вэйл](/images/heroes/vale.webp)Вэйл50,10%](https://boostmlbb.ru/heroes/vale.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Легенда» (52,32%), слабее всего — «Мифическая слава» (49,61%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Легенда» (52,32%), слабее всего — «Мифическая слава» (49,61%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**52,13%**
 -   ![](/images/ranks/Legend.webp)Легенда**52,32%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Сильвана](/images/heroes/silvanna.webp)
 
-Историю героя, навыки и реплики собирает [страница Silvanna в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Silvanna) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Сильвана», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=90)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Silvanna)
 
 ## Буст на герое «Сильвана»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Сильвана» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Эймон, Флорин, Ангела, Рафаэль и Валентина.
+За последние 30 дней чаще всего героя обыгрывают Эймон, Флорин, Ангела, Рафаэль и Валентина.
 
 Какой процент побед у героя «Сильвана» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Сильвана»?
 
-Боец, играет на линии опыта. Так героя распределяет официальная страница героев MOONTON.
+Боец, играет на линии опыта.
 
 Силён ли герой «Сильвана» в текущей мете?
 

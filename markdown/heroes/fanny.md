@@ -11,7 +11,7 @@ language: ru
 
 # Фанни в Mobile Legends: контрпики и статистика
 
-Убийца, лес. Фанни выигрывает 42,64% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Убийца, лес. Выигрывает 42,64% матчей за последние 30 дней — 132-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Фанни» — убийца, играет в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Убийца**
 -   Линия**Лес**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Фанни». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — стрелки.
+Против этих героев «Фанни» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — стрелки.
 
 [![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Клинт](/images/heroes/clint.webp)Клинт50,33%](https://boostmlbb.ru/heroes/clint.html)
 
 ## Против кого силён
 
-«Фанни» числится контрпиком для этих героев.
+Для этих героев «Фанни» — один из самых неудобных соперников.
 
 [![Баданг](/images/heroes/badang.webp)Баданг50,19%](https://boostmlbb.ru/heroes/badang.html)[![Чу](/images/heroes/chou.webp)Чу45,10%](https://boostmlbb.ru/heroes/chou.html)[![Франко](/images/heroes/franco.webp)Франко41,58%](https://boostmlbb.ru/heroes/franco.html)[![Москов](/images/heroes/moskov.webp)Москов50,31%](https://boostmlbb.ru/heroes/moskov.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Калеа](/images/heroes/kalea.webp)Калеа50,44%](https://boostmlbb.ru/heroes/kalea.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (44,65%), слабее всего — «Мифический» (41,67%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (44,65%), слабее всего — «Мифический» (41,67%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**44,65%**
 -   ![](/images/ranks/Legend.webp)Легенда**42,96%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Фанни](/images/heroes/fanny.webp)
 
-Историю героя, навыки и реплики собирает [страница Fanny в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fanny) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Фанни», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=17)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fanny)
 
 ## Буст на герое «Фанни»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Фанни» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Грейнджер, Глу, Ив, Атлас и Клинт.
+За последние 30 дней чаще всего героя обыгрывают Грейнджер, Глу, Ив, Атлас и Клинт.
 
 Какой процент побед у героя «Фанни» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Фанни»?
 
-Убийца, играет в лесу. Так героя распределяет официальная страница героев MOONTON.
+Убийца, играет в лесу.
 
 Силён ли герой «Фанни» в текущей мете?
 

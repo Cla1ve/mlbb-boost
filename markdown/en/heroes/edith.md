@@ -11,7 +11,7 @@ Tier A
 
 # Edith in Mobile Legends: counters and stats
 
-Tank and marksman, EXP Lane. Edith wins 52.67% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and marksman, EXP Lane. Wins 52.67% of matches over the last 30 days: #19 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**52.67%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Edith as a tank and marksman for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and marksman**
 -   Lane**EXP Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Edith as a tank and marksman for the EXP La
 
 ## Who counters Edith
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Edith. The number is each hero’s own win rate. 3 of the 5 counters are mages.
+Edith loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are mages.
 
 [![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)[![Mathilda](/images/heroes/mathilda.webp)Mathilda44.49%](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ## Who Edith is strong against
 
-Edith is listed as a counter for these heroes.
+Edith is one of the toughest opponents for these heroes.
 
 [![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Win rate by rank
 
-Best result in Legend (53.40%), weakest in Mythical Glory (51.90%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (53.40%), weakest in Mythical Glory (51.90%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**53.37%**
 -   ![](/images/ranks/Legend.webp)Legend**53.40%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Edith](/images/heroes/edith.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Edith page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Edith). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Edith’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=111)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Edith)
 
 ## Boost on Edith
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Edith in MLBB?
 
-By MOONTON’s official 30-day statistics: Alice, Harith, Silvanna, Faramis and Mathilda.
+Over the last 30 days the toughest opponents are Alice, Harith, Silvanna, Faramis and Mathilda.
 
 What is Edith’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Edith’s win rate right now?
 
 What role and lane does Edith play?
 
-Tank and marksman, EXP Lane, according to MOONTON’s official hero page.
+Tank and marksman, played in the EXP Lane.
 
 Is Edith strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier B
 
 # Ixia in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Ixia wins 50.08% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 50.08% of matches over the last 30 days: #62 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.08%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Ixia as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Ixia as a marksman for the Gold Lane. Place
 
 ## Who counters Ixia
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Ixia. The number is each hero’s own win rate. 4 of the 5 counters are supports.
+Ixia loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are supports.
 
 [![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Who Ixia is strong against
 
-Ixia is listed as a counter for these heroes.
+Ixia is one of the toughest opponents for these heroes.
 
 [![Selena](/images/heroes/selena.webp)Selena48.34%](https://boostmlbb.ru/en/heroes/selena.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Chou](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (50.48%), weakest in Epic (49.27%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (50.48%), weakest in Epic (49.27%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.27%**
 -   ![](/images/ranks/Legend.webp)Legend**50.01%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Ixia](/images/heroes/ixia.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Ixia page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ixia). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Ixia’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=121)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ixia)
 
 ## Boost on Ixia
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Ixia in MLBB?
 
-By MOONTON’s official 30-day statistics: Estes, Rafaela, Cyclops, Floryn and Lolita.
+Over the last 30 days the toughest opponents are Estes, Rafaela, Cyclops, Floryn and Lolita.
 
 What is Ixia’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Ixia’s win rate right now?
 
 What role and lane does Ixia play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Ixia strong in the current meta?
 

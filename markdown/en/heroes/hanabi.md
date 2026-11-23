@@ -11,7 +11,7 @@ Tier A
 
 # Hanabi in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Hanabi wins 52.66% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 52.66% of matches over the last 30 days: #20 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**52.66%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Hanabi as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Hanabi as a marksman for the Gold Lane. Pla
 
 ## Who counters Hanabi
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Hanabi. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
+Hanabi loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are marksmen.
 
 [![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)
 
 ## Who Hanabi is strong against
 
-Hanabi is listed as a counter for these heroes.
+Hanabi is one of the toughest opponents for these heroes.
 
 [![Novaria](/images/heroes/novaria.webp)Novaria49.52%](https://boostmlbb.ru/en/heroes/novaria.html)[![Kagura](/images/heroes/kagura.webp)Kagura51.09%](https://boostmlbb.ru/en/heroes/kagura.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Lylia](/images/heroes/lylia.webp)Lylia49.34%](https://boostmlbb.ru/en/heroes/lylia.html)[![Lapu-Lapu](/images/heroes/lapu-lapu.webp)Lapu-Lapu48.08%](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![Pharsa](/images/heroes/pharsa.webp)Pharsa47.26%](https://boostmlbb.ru/en/heroes/pharsa.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)[![Khaleed](/images/heroes/khaleed.webp)Khaleed50.35%](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Win rate by rank
 
-Best result in Epic (54.34%), weakest in Mythical Glory (50.87%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (54.34%), weakest in Mythical Glory (50.87%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.34%**
 -   ![](/images/ranks/Legend.webp)Legend**53.83%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Hanabi](/images/heroes/hanabi.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Hanabi page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanabi). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Hanabi’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=60)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanabi)
 
 ## Boost on Hanabi
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Hanabi in MLBB?
 
-By MOONTON’s official 30-day statistics: Saber, Popol and Kupa, Moskov, Balmond and Akai.
+Over the last 30 days the toughest opponents are Saber, Popol and Kupa, Moskov, Balmond and Akai.
 
 What is Hanabi’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Hanabi’s win rate right now?
 
 What role and lane does Hanabi play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Hanabi strong in the current meta?
 

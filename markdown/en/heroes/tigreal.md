@@ -11,7 +11,7 @@ Tier D
 
 # Tigreal in Mobile Legends: counters and stats
 
-Tank, Roam. Tigreal wins 45.22% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank, Roam. Wins 45.22% of matches over the last 30 days: #126 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**45.22%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Tigreal as a tank for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank**
 -   Lane**Roam**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Tigreal as a tank for the Roam. Places are 
 
 ## Who counters Tigreal
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Tigreal. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Tigreal loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Lesley](/images/heroes/lesley.webp)Lesley48.31%](https://boostmlbb.ru/en/heroes/lesley.html)
 
 ## Who Tigreal is strong against
 
-Tigreal is listed as a counter for these heroes.
+Tigreal is one of the toughest opponents for these heroes.
 
 [![Zetian](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)
 
 ## Win rate by rank
 
-Best result in Epic (48.83%), weakest in Mythical Glory (44.37%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (48.83%), weakest in Mythical Glory (44.37%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.83%**
 -   ![](/images/ranks/Legend.webp)Legend**46.07%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Tigreal](/images/heroes/tigreal.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Tigreal page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Tigreal). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Tigreal’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=6)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Tigreal)
 
 ## Boost on Tigreal
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Tigreal in MLBB?
 
-By MOONTON’s official 30-day statistics: Zilong, Estes, Franco, Alucard and Lesley.
+Over the last 30 days the toughest opponents are Zilong, Estes, Franco, Alucard and Lesley.
 
 What is Tigreal’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Tigreal’s win rate right now?
 
 What role and lane does Tigreal play?
 
-Tank, Roam, according to MOONTON’s official hero page.
+Tank, played on roam.
 
 Is Tigreal strong in the current meta?
 

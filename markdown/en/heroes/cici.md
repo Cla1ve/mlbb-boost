@@ -11,7 +11,7 @@ Tier B
 
 # Cici in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. Cici wins 49.38% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 49.38% of matches over the last 30 days: #81 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.38%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Cici as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Cici as a fighter for the EXP Lane. Places 
 
 ## Who counters Cici
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Cici. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Cici loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)
 
 ## Who Cici is strong against
 
-Cici is listed as a counter for these heroes.
+Cici is one of the toughest opponents for these heroes.
 
 [![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Win rate by rank
 
-Best result in Legend (50.10%), weakest in Mythical Glory (48.93%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (50.10%), weakest in Mythical Glory (48.93%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.02%**
 -   ![](/images/ranks/Legend.webp)Legend**50.10%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Cici](/images/heroes/cici.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Cici page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cici). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Cici’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=123)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cici)
 
 ## Boost on Cici
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Cici in MLBB?
 
-By MOONTON’s official 30-day statistics: Balmond, Thamuz, Alice, Hylos and Belerick.
+Over the last 30 days the toughest opponents are Balmond, Thamuz, Alice, Hylos and Belerick.
 
 What is Cici’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Cici’s win rate right now?
 
 What role and lane does Cici play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is Cici strong in the current meta?
 

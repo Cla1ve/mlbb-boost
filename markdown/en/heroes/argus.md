@@ -11,7 +11,7 @@ Tier S
 
 # Argus in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. Argus wins 56.78% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 56.78% of matches over the last 30 days: #3 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**56.78%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Argus as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Argus as a fighter for the EXP Lane. Places
 
 ## Who counters Argus
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Argus. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Argus loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)[![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)
 
 ## Who Argus is strong against
 
-Argus is listed as a counter for these heroes.
+Argus is one of the toughest opponents for these heroes.
 
 [![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Terizla](/images/heroes/terizla.webp)Terizla50.60%](https://boostmlbb.ru/en/heroes/terizla.html)[![Lapu-Lapu](/images/heroes/lapu-lapu.webp)Lapu-Lapu48.08%](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![Ruby](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Win rate by rank
 
-Best result in Mythic (57.41%), weakest in Epic (55.52%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (57.41%), weakest in Epic (55.52%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**55.52%**
 -   ![](/images/ranks/Legend.webp)Legend**56.71%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Argus](/images/heroes/argus.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Argus page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Argus). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Argus’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=45)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Argus)
 
 ## Boost on Argus
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Argus in MLBB?
 
-By MOONTON’s official 30-day statistics: Karrie, Lunox, Helcurt, Saber and Arlott.
+Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Saber and Arlott.
 
 What is Argus’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Argus’s win rate right now?
 
 What role and lane does Argus play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is Argus strong in the current meta?
 

@@ -161,16 +161,32 @@ function fillTokens(html, lang) {
       return money(named[name], lang);
     });
 }
+// Same card as on /reviews.html (js/reviews.js createCard), rendered statically; styles in styles/review-card.css.
+const boostMeta = { standard: ['fa-bolt', 'boost-standard', 'Стандартный', 'Standard'], role: ['fa-shield-halved', 'boost-role', 'На роли', 'Role'], hero: ['fa-khanda', 'boost-hero', 'На герое', 'On a hero'], party: ['fa-users', 'boost-party', 'В пати', 'In a party'], rising_login: ['fa-arrow-trend-up', 'boost-rising', 'Rising: вход', 'Rising: login'], rising_party: ['fa-arrow-trend-up', 'boost-rising', 'Rising: пати', 'Rising: party'] };
+function avatarGradient(seed) {
+  const text = String(seed || '');
+  let h = 0;
+  for (let i = 0; i < text.length; i++) h = (h * 31 + text.charCodeAt(i)) % 360;
+  return `linear-gradient(135deg, hsl(${h},70%,46%), hsl(${(h + 42) % 360},72%,38%))`;
+}
 function reviewCard(r, lang) {
   const en = lang === 'en';
-  const stars = '★'.repeat(Math.max(0, Math.min(5, r.rating))) + '☆'.repeat(5 - Math.max(0, Math.min(5, r.rating)));
-  const date = r.published ? formatDate(r.published, lang) : '';
-  const split = value => { const m = String(value).match(/^(.*?),\s*(\d+⭐)$/); return m ? [m[1], m[2]] : [String(value), '']; };
-  const [fromRank, fromStars] = split(r.rankFrom || ''), [toRank, toStars] = split(r.rankTo || '');
-  const routeText = fromRank === toRank && fromStars && toStars ? `${fromRank} ${fromStars} → ${toStars}` : `${r.rankFrom} → ${r.rankTo}`;
-  const route = r.rankFrom && r.rankTo ? `<p class="review-card__route" lang="ru">${escape(routeText)}</p>` : '';
-  const chips = [r.boostType && typeLabels[lang][r.boostType] ? `<span>${typeLabels[lang][r.boostType]}</span>` : '', r.hero ? `<span lang="ru">${escape(r.hero)}</span>` : '', r.duration ? `<span lang="ru">${escape(String(r.duration).replace(/\s*после оплаты$/, ''))}</span>` : ''].join('');
-  return `<article class="review-card"><header><span class="review-card__stars" aria-label="${en ? 'Rating' : 'Оценка'} ${r.rating}/5">${stars}</span>${date ? `<time datetime="${r.published}">${date}</time>` : ''}</header>${route}${chips ? `<div class="review-card__chips">${chips}</div>` : ''}<blockquote lang="ru">${escape(reviewText.clean(r.text))}</blockquote><footer>${r.booster ? `<span>${en ? 'Booster' : 'Бустер'}: <b lang="ru">${escape(r.booster)}</b></span>` : ''}<a href="${escape(r.messageLink)}" target="_blank" rel="noopener noreferrer">${en ? 'Original on Telegram' : 'Оригинал в Telegram'}</a></footer></article>`;
+  const rating = Math.max(0, Math.min(5, r.rating));
+  const meta = boostMeta[r.boostType];
+  const name = String(r.booster || '').trim();
+  const param = (icon, label, value) => `<div class="rc-param"><i class="fas ${icon}" aria-hidden="true"></i><div class="rc-param-body"><span class="rc-param-label">${label}</span><span class="rc-param-value" lang="ru">${escape(value)}</span></div></div>`;
+  const params = [r.hero ? param('fa-user-ninja', en ? 'Hero' : 'Герой', r.hero) : '', r.duration ? param('fa-clock', en ? 'Time' : 'Срок', r.duration) : ''].join('');
+  const route = r.rankFrom && r.rankTo ? `<div class="rc-route"><div class="rc-route-col"><span class="rc-route-cap">${en ? 'Start' : 'Старт'}</span><span class="rc-route-rank" lang="ru">${escape(r.rankFrom)}</span></div><div class="rc-route-arrow" aria-hidden="true"><i class="fas fa-arrow-right-long"></i></div><div class="rc-route-col rc-route-col--to"><span class="rc-route-cap">${en ? 'Target' : 'Цель'}</span><span class="rc-route-rank" lang="ru">${escape(r.rankTo)}</span></div></div>` : '';
+  return `<article class="review-card rc-static">`
+    + `<div class="rc-head"><div class="rc-booster"><div class="rc-avatar" style="background: ${avatarGradient(name)}" aria-hidden="true"><span lang="ru">${escape(name ? name.charAt(0).toUpperCase() : '?')}</span><span class="rc-avatar-check"><i class="fas fa-check"></i></span></div>`
+    + `<div class="rc-booster-meta"><span class="rc-role-tag"><i class="fas fa-headset" aria-hidden="true"></i><span>${en ? 'Booster' : 'Бустер'}</span></span><div class="reviewer-name" lang="ru">${escape(name || (en ? 'Booster' : 'Бустер'))}</div><div class="rc-booster-sub"><i class="fas fa-circle-check" aria-hidden="true"></i><span>${en ? 'Verified booster' : 'Проверенный бустер'}</span></div></div></div>`
+    + `<div class="rc-rating-wrap"><div class="rc-rating" role="img" aria-label="${en ? 'Rating' : 'Оценка'} ${rating}/5"><span class="rc-stars-full">${'★'.repeat(rating)}</span><span class="rc-stars-empty">${'★'.repeat(5 - rating)}</span></div><span class="rc-rating-cap">${en ? 'Client rating' : 'Оценка клиента'}</span></div></div>`
+    + (meta ? `<div class="rc-boost-badge ${meta[1]}"><i class="fas ${meta[0]}" aria-hidden="true"></i><span>${en ? meta[3] : meta[2]}</span></div>` : '')
+    + route
+    + `<div class="rc-content"><i class="fas fa-quote-left rc-quote" aria-hidden="true"></i><p class="rc-text" lang="ru">${escape(reviewText.clean(r.text))}</p></div>`
+    + (params ? `<div class="rc-params">${params}</div>` : '')
+    + `<div class="rc-foot"><div class="rc-foot-info">${r.published ? `<span class="rc-date"><i class="far fa-calendar" aria-hidden="true"></i> <time datetime="${r.published}">${formatDate(r.published, lang)}</time></span>` : ''}</div><a class="rc-tg-btn" href="${escape(r.messageLink)}" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram" aria-hidden="true"></i><span>${en ? 'Open review' : 'Открыть отзыв'}</span></a></div>`
+    + `</article>`;
 }
 function reviewWall(reviews, lang) {
   return `<div class="review-wall" data-i18n-skip>${reviews.map(r => reviewCard(r, lang)).join('')}</div>`;
@@ -390,11 +406,13 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (['prices.html', 'reviews.html'].includes(file)) {
       const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);
     }
+    document.querySelector('link[href*="/styles/review-card.css"]')?.remove();
+    if (document.querySelector('.review-wall')) { const cards = document.createElement('link'); cards.rel = 'stylesheet'; cards.href = '/styles/review-card.css?v=1'; document.head.append(cards); }
     for (const node of document.querySelectorAll('script[src],link[href*="/styles/seo.css"]')) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '40' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '42' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

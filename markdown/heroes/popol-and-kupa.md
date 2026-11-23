@@ -11,7 +11,7 @@ language: ru
 
 # Пополь и Купа в Mobile Legends: контрпики и статистика
 
-Стрелок, линия золота или лес. Пополь и Купа выигрывает 52,09% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота или лес. Выигрывает 52,09% матчей за последние 30 дней — 26-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Пополь и Купа» — стрелок, играет на линии золота или в лесу. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Стрелок**
 -   Линия**Линия золота или лес**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Пополь и Купа». Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+Против этих героев «Пополь и Купа» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
 
 [![Харли](/images/heroes/harley.webp)Харли48,19%](https://boostmlbb.ru/heroes/harley.html)[![Кусака](/images/heroes/jawhead.webp)Кусака47,87%](https://boostmlbb.ru/heroes/jawhead.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э48,20%](https://boostmlbb.ru/heroes/change.html)[![Селена](/images/heroes/selena.webp)Селена48,34%](https://boostmlbb.ru/heroes/selena.html)
 
 ## Против кого силён
 
-«Пополь и Купа» числится контрпиком для этих героев.
+Для этих героев «Пополь и Купа» — один из самых неудобных соперников.
 
 [![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Кармилла](/images/heroes/carmilla.webp)Кармилла53,29%](https://boostmlbb.ru/heroes/carmilla.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Сора](/images/heroes/sora.webp)Сора49,50%](https://boostmlbb.ru/heroes/sora.html)[![Чонг](/images/heroes/yu-zhong.webp)Чонг48,93%](https://boostmlbb.ru/heroes/yu-zhong.html)[![Мелисса](/images/heroes/melissa.webp)Мелисса50,07%](https://boostmlbb.ru/heroes/melissa.html)[![Тэризла](/images/heroes/terizla.webp)Тэризла50,60%](https://boostmlbb.ru/heroes/terizla.html)[![Лапу-Лапу](/images/heroes/lapu-lapu.webp)Лапу-Лапу48,08%](https://boostmlbb.ru/heroes/lapu-lapu.html)[![Леоморд](/images/heroes/leomord.webp)Леоморд50,09%](https://boostmlbb.ru/heroes/leomord.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (54,63%), слабее всего — «Мифическая слава» (49,48%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (54,63%), слабее всего — «Мифическая слава» (49,48%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**54,63%**
 -   ![](/images/ranks/Legend.webp)Легенда**54,29%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Пополь и Купа](/images/heroes/popol-and-kupa.webp)
 
-Историю героя, навыки и реплики собирает [страница Popol and Kupa в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Popol_and_Kupa) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Пополь и Купа», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=94)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Popol_and_Kupa)
 
 ## Буст на герое «Пополь и Купа»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Пополь и Купа» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Харли, Кусака, Зилонг, Чан'Э и Селена.
+За последние 30 дней чаще всего героя обыгрывают Харли, Кусака, Зилонг, Чан'Э и Селена.
 
 Какой процент побед у героя «Пополь и Купа» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Пополь и Купа»?
 
-Стрелок, играет на линии золота или в лесу. Так героя распределяет официальная страница героев MOONTON.
+Стрелок, играет на линии золота или в лесу.
 
 Силён ли герой «Пополь и Купа» в текущей мете?
 

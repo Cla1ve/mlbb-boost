@@ -11,7 +11,7 @@ Tier C
 
 # Arlott in Mobile Legends: counters and stats
 
-Fighter and assassin, EXP Lane. Arlott wins 47.49% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter and assassin, EXP Lane. Wins 47.49% of matches over the last 30 days: #114 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**47.49%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Arlott as a fighter and assassin for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter and assassin**
 -   Lane**EXP Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Arlott as a fighter and assassin for the EX
 
 ## Who counters Arlott
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Arlott. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Arlott loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Kimmy](/images/heroes/kimmy.webp)Kimmy48.74%](https://boostmlbb.ru/en/heroes/kimmy.html)
 
 ## Who Arlott is strong against
 
-Arlott is listed as a counter for these heroes.
+Arlott is one of the toughest opponents for these heroes.
 
 [![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (48.09%), weakest in Legend (46.48%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (48.09%), weakest in Legend (46.48%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**46.60%**
 -   ![](/images/ranks/Legend.webp)Legend**46.48%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Arlott](/images/heroes/arlott.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Arlott page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Arlott). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Arlott’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=120)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Arlott)
 
 ## Boost on Arlott
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Arlott in MLBB?
 
-By MOONTON’s official 30-day statistics: X.Borg, Cici, Natan, Zhuxin and Kimmy.
+Over the last 30 days the toughest opponents are X.Borg, Cici, Natan, Zhuxin and Kimmy.
 
 What is Arlott’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Arlott’s win rate right now?
 
 What role and lane does Arlott play?
 
-Fighter and assassin, EXP Lane, according to MOONTON’s official hero page.
+Fighter and assassin, played in the EXP Lane.
 
 Is Arlott strong in the current meta?
 

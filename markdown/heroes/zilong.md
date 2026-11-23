@@ -11,7 +11,7 @@ language: ru
 
 # Зилонг в Mobile Legends: контрпики и статистика
 
-Боец и убийца, линия опыта. Зилонг выигрывает 46,27% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Боец и убийца, линия опыта. Выигрывает 46,27% матчей за последние 30 дней — 123-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Зилонг» — боец и убийца, играет на линии опыта. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Боец и убийца**
 -   Линия**Линия опыта**
@@ -47,19 +47,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Зилонг». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
+Против этих героев «Зилонг» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
 
 [![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)
 
 ## Против кого силён
 
-«Зилонг» числится контрпиком для этих героев.
+Для этих героев «Зилонг» — один из самых неудобных соперников.
 
 [![Тигрил](/images/heroes/tigreal.webp)Тигрил45,22%](https://boostmlbb.ru/heroes/tigreal.html)[![Эйдора](/images/heroes/eudora.webp)Эйдора50,35%](https://boostmlbb.ru/heroes/eudora.html)[![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Цзэтянь](/images/heroes/zetian.webp)Цзэтянь50,89%](https://boostmlbb.ru/heroes/zetian.html)[![Баданг](/images/heroes/badang.webp)Баданг50,19%](https://boostmlbb.ru/heroes/badang.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Гатоткача](/images/heroes/gatotkaca.webp)Гатоткача45,35%](https://boostmlbb.ru/heroes/gatotkaca.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![Чип](/images/heroes/chip.webp)Чип47,60%](https://boostmlbb.ru/heroes/chip.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (47,18%), слабее всего — «Мифическая слава» (44,40%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (47,18%), слабее всего — «Мифическая слава» (44,40%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**47,18%**
 -   ![](/images/ranks/Legend.webp)Легенда**46,76%**
@@ -81,7 +81,9 @@ language: ru
 
 ![Зилонг](/images/heroes/zilong.webp)
 
-Историю героя, навыки и реплики собирает [страница Zilong в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zilong) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Зилонг», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=16)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zilong)
 
 ## Буст на герое «Зилонг»
 
@@ -89,11 +91,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Зилонг» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Икс.Борг, Чичи, Ксавьер, Дигги и Фанни.
+За последние 30 дней чаще всего героя обыгрывают Икс.Борг, Чичи, Ксавьер, Дигги и Фанни.
 
 Какой процент побед у героя «Зилонг» сейчас?
 
@@ -101,7 +105,7 @@ language: ru
 
 Какая роль и линия у героя «Зилонг»?
 
-Боец и убийца, играет на линии опыта. Так героя распределяет официальная страница героев MOONTON.
+Боец и убийца, играет на линии опыта.
 
 Силён ли герой «Зилонг» в текущей мете?
 

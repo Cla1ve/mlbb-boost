@@ -11,7 +11,7 @@ Tier B
 
 # Ruby in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. Ruby wins 49.12% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 49.12% of matches over the last 30 days: #88 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.12%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Ruby as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Ruby as a fighter for the EXP Lane. Places 
 
 ## Who counters Ruby
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Ruby. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Ruby loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Lunox](/images/heroes/lunox.webp)Lunox50.64%](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Who Ruby is strong against
 
-Ruby is listed as a counter for these heroes.
+Ruby is one of the toughest opponents for these heroes.
 
 [![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)
 
 ## Win rate by rank
 
-Best result in Legend (49.65%), weakest in Mythical Glory (48.66%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (49.65%), weakest in Mythical Glory (48.66%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.57%**
 -   ![](/images/ranks/Legend.webp)Legend**49.65%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Ruby](/images/heroes/ruby.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Ruby page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ruby). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Ruby’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=29)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ruby)
 
 ## Boost on Ruby
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Ruby in MLBB?
 
-By MOONTON’s official 30-day statistics: Sun, Gloo, Argus, Karina and Lunox.
+Over the last 30 days the toughest opponents are Sun, Gloo, Argus, Karina and Lunox.
 
 What is Ruby’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Ruby’s win rate right now?
 
 What role and lane does Ruby play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is Ruby strong in the current meta?
 

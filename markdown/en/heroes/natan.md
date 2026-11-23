@@ -11,7 +11,7 @@ Tier A
 
 # Natan in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Natan wins 51.32% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 51.32% of matches over the last 30 days: #37 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**51.32%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Natan as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Natan as a marksman for the Gold Lane. Plac
 
 ## Who counters Natan
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Natan. The number is each hero’s own win rate. 3 of the 5 counters are tanks.
+Natan loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)
 
 ## Who Natan is strong against
 
-Natan is listed as a counter for these heroes.
+Natan is one of the toughest opponents for these heroes.
 
 [![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (51.69%), weakest in Epic (50.21%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (51.69%), weakest in Epic (50.21%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.21%**
 -   ![](/images/ranks/Legend.webp)Legend**50.57%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Natan](/images/heroes/natan.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Natan page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natan). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Natan’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=107)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natan)
 
 ## Boost on Natan
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Natan in MLBB?
 
-By MOONTON’s official 30-day statistics: Sun, Gloo, Zhask, Esmeralda and Johnson.
+Over the last 30 days the toughest opponents are Sun, Gloo, Zhask, Esmeralda and Johnson.
 
 What is Natan’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Natan’s win rate right now?
 
 What role and lane does Natan play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Natan strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier B
 
 # Khaleed in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Roam. Khaleed wins 50.35% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Roam. Wins 50.35% of matches over the last 30 days: #54 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.35%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Khaleed as a fighter for the EXP Lane or Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Khaleed as a fighter for the EXP Lane or Ro
 
 ## Who counters Khaleed
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Khaleed. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Khaleed loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Vale](/images/heroes/vale.webp)Vale50.10%](https://boostmlbb.ru/en/heroes/vale.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ## Who Khaleed is strong against
 
-Khaleed is listed as a counter for these heroes.
+Khaleed is one of the toughest opponents for these heroes.
 
 [![Kalea](/images/heroes/kalea.webp)Kalea50.44%](https://boostmlbb.ru/en/heroes/kalea.html)
 
 ## Win rate by rank
 
-Best result in Legend (52.81%), weakest in Mythical Glory (48.53%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (52.81%), weakest in Mythical Glory (48.53%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.57%**
 -   ![](/images/ranks/Legend.webp)Legend**52.81%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Khaleed](/images/heroes/khaleed.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Khaleed page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Khaleed). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Khaleed’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=98)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Khaleed)
 
 ## Boost on Khaleed
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Khaleed in MLBB?
 
-By MOONTON’s official 30-day statistics: Yin, Helcurt, Vale, Hanabi and Silvanna.
+Over the last 30 days the toughest opponents are Yin, Helcurt, Vale, Hanabi and Silvanna.
 
 What is Khaleed’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Khaleed’s win rate right now?
 
 What role and lane does Khaleed play?
 
-Fighter, EXP Lane or Roam, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or on roam.
 
 Is Khaleed strong in the current meta?
 

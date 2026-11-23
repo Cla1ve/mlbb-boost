@@ -11,7 +11,7 @@ language: ru
 
 # Ханаби в Mobile Legends: контрпики и статистика
 
-Стрелок, линия золота. Ханаби выигрывает 52,66% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Стрелок, линия золота. Выигрывает 52,66% матчей за последние 30 дней — 20-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Ханаби» — стрелок, играет на линии золота. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Стрелок**
 -   Линия**Линия золота**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Ханаби». Под иконкой — их собственный процент побед. 2 из 5 контрпиков — стрелки.
+Против этих героев «Ханаби» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — стрелки.
 
 [![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Москов](/images/heroes/moskov.webp)Москов50,31%](https://boostmlbb.ru/heroes/moskov.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Акай](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)
 
 ## Против кого силён
 
-«Ханаби» числится контрпиком для этих героев.
+Для этих героев «Ханаби» — один из самых неудобных соперников.
 
 [![Новария](/images/heroes/novaria.webp)Новария49,52%](https://boostmlbb.ru/heroes/novaria.html)[![Кагура](/images/heroes/kagura.webp)Кагура51,09%](https://boostmlbb.ru/heroes/kagura.html)[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)[![Лилия](/images/heroes/lylia.webp)Лилия49,34%](https://boostmlbb.ru/heroes/lylia.html)[![Лапу-Лапу](/images/heroes/lapu-lapu.webp)Лапу-Лапу48,08%](https://boostmlbb.ru/heroes/lapu-lapu.html)[![Фаша](/images/heroes/pharsa.webp)Фаша47,26%](https://boostmlbb.ru/heroes/pharsa.html)[![Джой](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)[![Ванван](/images/heroes/wanwan.webp)Ванван47,59%](https://boostmlbb.ru/heroes/wanwan.html)[![Халид](/images/heroes/khaleed.webp)Халид50,35%](https://boostmlbb.ru/heroes/khaleed.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Эпик» (54,34%), слабее всего — «Мифическая слава» (50,87%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Эпик» (54,34%), слабее всего — «Мифическая слава» (50,87%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**54,34%**
 -   ![](/images/ranks/Legend.webp)Легенда**53,83%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Ханаби](/images/heroes/hanabi.webp)
 
-Историю героя, навыки и реплики собирает [страница Hanabi в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanabi) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Ханаби», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=60)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanabi)
 
 ## Буст на герое «Ханаби»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Ханаби» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Сабер, Пополь и Купа, Москов, Бальмонд и Акай.
+За последние 30 дней чаще всего героя обыгрывают Сабер, Пополь и Купа, Москов, Бальмонд и Акай.
 
 Какой процент побед у героя «Ханаби» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Ханаби»?
 
-Стрелок, играет на линии золота. Так героя распределяет официальная страница героев MOONTON.
+Стрелок, играет на линии золота.
 
 Силён ли герой «Ханаби» в текущей мете?
 

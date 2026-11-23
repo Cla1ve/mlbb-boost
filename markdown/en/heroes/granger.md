@@ -11,7 +11,7 @@ Tier D
 
 # Granger in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Granger wins 42.99% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 42.99% of matches over the last 30 days: #131 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**42.99%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Granger as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Granger as a marksman for the Gold Lane. Pl
 
 ## Who counters Granger
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Granger. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
+Granger loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are marksmen.
 
 [![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Who Granger is strong against
 
-Granger is listed as a counter for these heroes.
+Granger is one of the toughest opponents for these heroes.
 
 [![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Akai](/images/heroes/akai.webp)Akai50.18%](https://boostmlbb.ru/en/heroes/akai.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (44.69%), weakest in Mythic (41.43%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (44.69%), weakest in Mythic (41.43%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**43.18%**
 -   ![](/images/ranks/Legend.webp)Legend**41.75%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Granger](/images/heroes/granger.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Granger page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Granger). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Granger’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=79)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Granger)
 
 ## Boost on Granger
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Granger in MLBB?
 
-By MOONTON’s official 30-day statistics: Karina, Beatrix, Ixia, Diggie and Yve.
+Over the last 30 days the toughest opponents are Karina, Beatrix, Ixia, Diggie and Yve.
 
 What is Granger’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Granger’s win rate right now?
 
 What role and lane does Granger play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Granger strong in the current meta?
 

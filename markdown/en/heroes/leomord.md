@@ -11,7 +11,7 @@ Tier B
 
 # Leomord in Mobile Legends: counters and stats
 
-Fighter, Jungle. Leomord wins 50.09% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, Jungle. Wins 50.09% of matches over the last 30 days: #61 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.09%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Leomord as a fighter for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**Jungle**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Leomord as a fighter for the Jungle. Places
 
 ## Who counters Leomord
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Leomord. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
+Leomord loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Who Leomord is strong against
 
-Leomord is listed as a counter for these heroes.
+Leomord is one of the toughest opponents for these heroes.
 
 [![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.76%), weakest in Mythic (49.97%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.76%), weakest in Mythic (49.97%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.76%**
 -   ![](/images/ranks/Legend.webp)Legend**50.45%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Leomord](/images/heroes/leomord.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Leomord page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Leomord). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Leomord’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=67)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Leomord)
 
 ## Boost on Leomord
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Leomord in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Saber, Popol and Kupa, Belerick and Natalia.
+Over the last 30 days the toughest opponents are Lolita, Saber, Popol and Kupa, Belerick and Natalia.
 
 What is Leomord’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Leomord’s win rate right now?
 
 What role and lane does Leomord play?
 
-Fighter, Jungle, according to MOONTON’s official hero page.
+Fighter, played in the jungle.
 
 Is Leomord strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier C
 
 # Lapu-Lapu in Mobile Legends: counters and stats
 
-Fighter, EXP Lane. Lapu-Lapu wins 48.08% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane. Wins 48.08% of matches over the last 30 days: #109 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.08%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Lapu-Lapu as a fighter for the EXP Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Lapu-Lapu as a fighter for the EXP Lane. Pl
 
 ## Who counters Lapu-Lapu
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Lapu-Lapu. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Lapu-Lapu loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Vale](/images/heroes/vale.webp)Vale50.10%](https://boostmlbb.ru/en/heroes/vale.html)
 
 ## Who Lapu-Lapu is strong against
 
-Lapu-Lapu is listed as a counter for these heroes.
+Lapu-Lapu is one of the toughest opponents for these heroes.
 
 [![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)
 
 ## Win rate by rank
 
-Best result in Epic (50.82%), weakest in Mythical Glory (47.18%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (50.82%), weakest in Mythical Glory (47.18%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.82%**
 -   ![](/images/ranks/Legend.webp)Legend**49.50%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Lapu-Lapu](/images/heroes/lapu-lapu.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Lapu-Lapu page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lapu-Lapu). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Lapu-Lapu’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=37)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lapu-Lapu)
 
 ## Boost on Lapu-Lapu
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Lapu-Lapu in MLBB?
 
-By MOONTON’s official 30-day statistics: Silvanna, Popol and Kupa, Hanabi, Argus and Vale.
+Over the last 30 days the toughest opponents are Silvanna, Popol and Kupa, Hanabi, Argus and Vale.
 
 What is Lapu-Lapu’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Lapu-Lapu’s win rate right now?
 
 What role and lane does Lapu-Lapu play?
 
-Fighter, EXP Lane, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane.
 
 Is Lapu-Lapu strong in the current meta?
 

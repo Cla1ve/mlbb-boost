@@ -11,7 +11,7 @@ Tier C
 
 # Lesley in Mobile Legends: counters and stats
 
-Assassin and marksman, Gold Lane. Lesley wins 48.31% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin and marksman, Gold Lane. Wins 48.31% of matches over the last 30 days: #104 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.31%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Lesley as a assassin and marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin and marksman**
 -   Lane**Gold Lane**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Lesley as a assassin and marksman for the G
 
 ## Who counters Lesley
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Lesley. The number is each hero’s own win rate. 2 of the 5 counters are marksmen.
+Lesley loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are marksmen.
 
 [![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)
 
 ## Who Lesley is strong against
 
-Lesley is listed as a counter for these heroes.
+Lesley is one of the toughest opponents for these heroes.
 
 [![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (48.52%), weakest in Epic (47.58%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (48.52%), weakest in Epic (47.58%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.58%**
 -   ![](/images/ranks/Legend.webp)Legend**48.06%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Lesley](/images/heroes/lesley.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Lesley page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lesley). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Lesley’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=53)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lesley)
 
 ## Boost on Lesley
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Lesley in MLBB?
 
-By MOONTON’s official 30-day statistics: Claude, Marcel, Bruno, Gatotkaca and Belerick.
+Over the last 30 days the toughest opponents are Claude, Marcel, Bruno, Gatotkaca and Belerick.
 
 What is Lesley’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Lesley’s win rate right now?
 
 What role and lane does Lesley play?
 
-Assassin and marksman, Gold Lane, according to MOONTON’s official hero page.
+Assassin and marksman, played in the Gold Lane.
 
 Is Lesley strong in the current meta?
 

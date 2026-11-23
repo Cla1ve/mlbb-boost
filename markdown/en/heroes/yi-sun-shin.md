@@ -11,7 +11,7 @@ Tier B
 
 # Yi Sun-shin in Mobile Legends: counters and stats
 
-Assassin and marksman, Jungle. Yi Sun-shin wins 49.11% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Assassin and marksman, Jungle. Wins 49.11% of matches over the last 30 days: #89 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.11%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Yi Sun-shin as a assassin and marksman for the Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Assassin and marksman**
 -   Lane**Jungle**
@@ -47,13 +47,13 @@ MOONTON’s official hero page lists Yi Sun-shin as a assassin and marksman for 
 
 ## Who counters Yi Sun-shin
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Yi Sun-shin. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Yi Sun-shin loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)
 
 ## Win rate by rank
 
-Best result in Epic (51.81%), weakest in Mythical Glory (48.76%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (51.81%), weakest in Mythical Glory (48.76%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.81%**
 -   ![](/images/ranks/Legend.webp)Legend**49.69%**
@@ -75,7 +75,9 @@ The strongest by win rate over the last 30 days.
 
 ![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Yi Sun-shin page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yi_Sun-shin). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Yi Sun-shin’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=30)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yi_Sun-shin)
 
 ## Boost on Yi Sun-shin
 
@@ -83,11 +85,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Yi Sun-shin in MLBB?
 
-By MOONTON’s official 30-day statistics: Khufra, Thamuz, Benedetta, Melissa and Nana.
+Over the last 30 days the toughest opponents are Khufra, Thamuz, Benedetta, Melissa and Nana.
 
 What is Yi Sun-shin’s win rate right now?
 
@@ -95,7 +99,7 @@ What is Yi Sun-shin’s win rate right now?
 
 What role and lane does Yi Sun-shin play?
 
-Assassin and marksman, Jungle, according to MOONTON’s official hero page.
+Assassin and marksman, played in the jungle.
 
 Is Yi Sun-shin strong in the current meta?
 

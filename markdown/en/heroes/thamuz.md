@@ -11,7 +11,7 @@ Tier C
 
 # Thamuz in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Jungle. Thamuz wins 48.91% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Wins 48.91% of matches over the last 30 days: #92 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**48.91%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Thamuz as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Thamuz as a fighter for the EXP Lane or Jun
 
 ## Who counters Thamuz
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Thamuz. The number is each hero’s own win rate. 2 of the 5 counters are assassins.
+Thamuz loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are assassins.
 
 [![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Who Thamuz is strong against
 
-Thamuz is listed as a counter for these heroes.
+Thamuz is one of the toughest opponents for these heroes.
 
 [![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)Yi Sun-shin49.11%](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)
 
 ## Win rate by rank
 
-Best result in Mythic (49.80%), weakest in Epic (48.50%). Official MOONTON statistics for the last 30 days.
+Best result in Mythic (49.80%), weakest in Epic (48.50%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.50%**
 -   ![](/images/ranks/Legend.webp)Legend**48.93%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Thamuz](/images/heroes/thamuz.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Thamuz page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Thamuz). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Thamuz’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=72)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Thamuz)
 
 ## Boost on Thamuz
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Thamuz in MLBB?
 
-By MOONTON’s official 30-day statistics: Alucard, Alice, Odette, Saber and Diggie.
+Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber and Diggie.
 
 What is Thamuz’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Thamuz’s win rate right now?
 
 What role and lane does Thamuz play?
 
-Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or in the jungle.
 
 Is Thamuz strong in the current meta?
 

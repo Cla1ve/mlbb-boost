@@ -11,7 +11,7 @@ Tier B
 
 # Cecilion in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Cecilion wins 50.96% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 50.96% of matches over the last 30 days: #45 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.96%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Cecilion as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,13 +46,13 @@ MOONTON’s official hero page lists Cecilion as a mage for the Mid Lane. Places
 
 ## Who counters Cecilion
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Cecilion. The number is each hero’s own win rate. 4 of the 5 counters are tanks.
+Cecilion loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (51.70%), weakest in Legend (50.00%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (51.70%), weakest in Legend (50.00%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.29%**
 -   ![](/images/ranks/Legend.webp)Legend**50.00%**
@@ -74,7 +74,9 @@ The strongest by win rate over the last 30 days.
 
 ![Cecilion](/images/heroes/cecilion.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Cecilion page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cecilion). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Cecilion’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=91)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cecilion)
 
 ## Boost on Cecilion
 
@@ -82,11 +84,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Cecilion in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Barats, Phoveus, Hylos and Fredrinn.
+Over the last 30 days the toughest opponents are Lolita, Barats, Phoveus, Hylos and Fredrinn.
 
 What is Cecilion’s win rate right now?
 
@@ -94,7 +98,7 @@ What is Cecilion’s win rate right now?
 
 What role and lane does Cecilion play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Cecilion strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier B
 
 # Freya in Mobile Legends: counters and stats
 
-Fighter, EXP Lane or Jungle. Freya wins 49.32% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Fighter, EXP Lane or Jungle. Wins 49.32% of matches over the last 30 days: #84 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.32%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Freya as a fighter for the EXP Lane or Jungle. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Fighter**
 -   Lane**EXP Lane or Jungle**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Freya as a fighter for the EXP Lane or Jung
 
 ## Who counters Freya
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Freya. The number is each hero’s own win rate. 2 of the 5 counters are tanks.
+Freya loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
 
 [![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Kagura](/images/heroes/kagura.webp)Kagura51.09%](https://boostmlbb.ru/en/heroes/kagura.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)
 
 ## Who Freya is strong against
 
-Freya is listed as a counter for these heroes.
+Freya is one of the toughest opponents for these heroes.
 
 [![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)
 
 ## Win rate by rank
 
-Best result in Mythical Glory (51.07%), weakest in Epic (47.34%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Glory (51.07%), weakest in Epic (47.34%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.34%**
 -   ![](/images/ranks/Legend.webp)Legend**47.52%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Freya](/images/heroes/freya.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Freya page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Freya). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Freya’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=22)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Freya)
 
 ## Boost on Freya
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Freya in MLBB?
 
-By MOONTON’s official 30-day statistics: Masha, Yve, Lolita, Kagura and Ling.
+Over the last 30 days the toughest opponents are Masha, Yve, Lolita, Kagura and Ling.
 
 What is Freya’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Freya’s win rate right now?
 
 What role and lane does Freya play?
 
-Fighter, EXP Lane or Jungle, according to MOONTON’s official hero page.
+Fighter, played in the EXP Lane or in the jungle.
 
 Is Freya strong in the current meta?
 

@@ -11,7 +11,7 @@ Tier B
 
 # Brody in Mobile Legends: counters and stats
 
-Marksman, Gold Lane. Brody wins 49.99% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Marksman, Gold Lane. Wins 49.99% of matches over the last 30 days: #66 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.99%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Brody as a marksman for the Gold Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Marksman**
 -   Lane**Gold Lane**
@@ -46,19 +46,19 @@ MOONTON’s official hero page lists Brody as a marksman for the Gold Lane. Plac
 
 ## Who counters Brody
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Brody. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Brody loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Joy](/images/heroes/joy.webp)Joy48.79%](https://boostmlbb.ru/en/heroes/joy.html)
 
 ## Who Brody is strong against
 
-Brody is listed as a counter for these heroes.
+Brody is one of the toughest opponents for these heroes.
 
 [![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)
 
 ## Win rate by rank
 
-Best result in Mythical Honor (50.18%), weakest in Mythic (49.77%). Official MOONTON statistics for the last 30 days.
+Best result in Mythical Honor (50.18%), weakest in Mythic (49.77%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.78%**
 -   ![](/images/ranks/Legend.webp)Legend**49.90%**
@@ -80,7 +80,9 @@ The strongest by win rate over the last 30 days.
 
 ![Brody](/images/heroes/brody.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Brody page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Brody). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Brody’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=100)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Brody)
 
 ## Boost on Brody
 
@@ -88,11 +90,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Brody in MLBB?
 
-By MOONTON’s official 30-day statistics: Karina, Belerick, Irithel, Natalia and Joy.
+Over the last 30 days the toughest opponents are Karina, Belerick, Irithel, Natalia and Joy.
 
 What is Brody’s win rate right now?
 
@@ -100,7 +104,7 @@ What is Brody’s win rate right now?
 
 What role and lane does Brody play?
 
-Marksman, Gold Lane, according to MOONTON’s official hero page.
+Marksman, played in the Gold Lane.
 
 Is Brody strong in the current meta?
 

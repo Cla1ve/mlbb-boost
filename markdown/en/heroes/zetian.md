@@ -11,7 +11,7 @@ Tier B
 
 # Zetian in Mobile Legends: counters and stats
 
-Mage, Mid Lane. Zetian wins 50.89% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Mage, Mid Lane. Wins 50.89% of matches over the last 30 days: #46 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**50.89%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Zetian as a mage for the Mid Lane. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Mage**
 -   Lane**Mid Lane**
@@ -46,13 +46,13 @@ MOONTON’s official hero page lists Zetian as a mage for the Mid Lane. Places a
 
 ## Who counters Zetian
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Zetian. The number is each hero’s own win rate. 3 of the 5 counters are assassins.
+Zetian loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
 
 [![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)
 
 ## Win rate by rank
 
-Best result in Legend (52.14%), weakest in Mythical Glory (50.00%). Official MOONTON statistics for the last 30 days.
+Best result in Legend (52.14%), weakest in Mythical Glory (50.00%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.94%**
 -   ![](/images/ranks/Legend.webp)Legend**52.14%**
@@ -74,7 +74,9 @@ The strongest by win rate over the last 30 days.
 
 ![Zetian](/images/heroes/zetian.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Zetian page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zetian). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Zetian’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=129)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zetian)
 
 ## Boost on Zetian
 
@@ -82,11 +84,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Zetian in MLBB?
 
-By MOONTON’s official 30-day statistics: Lolita, Natalia, Tigreal, Helcurt and Zilong.
+Over the last 30 days the toughest opponents are Lolita, Natalia, Tigreal, Helcurt and Zilong.
 
 What is Zetian’s win rate right now?
 
@@ -94,7 +98,7 @@ What is Zetian’s win rate right now?
 
 What role and lane does Zetian play?
 
-Mage, Mid Lane, according to MOONTON’s official hero page.
+Mage, played in the Mid Lane.
 
 Is Zetian strong in the current meta?
 

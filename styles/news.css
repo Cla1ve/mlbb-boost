@@ -2465,3 +2465,9 @@ body:has(.article-content) { background: #0b1a2b; }
   .article-table-wrap tbody tr > :last-child { padding-bottom: 0.75rem; }
   .article-table-wrap tbody th { min-width: 0; }
 }
+
+/* Sources as one quiet line under the article instead of a fact-check box (2026-11-23). */
+.article-sources-line { margin: 2.4rem 0 0; padding-top: 1.1rem; border-top: 1px solid rgba(255, 255, 255, 0.08); color: #8fa3b8; font-size: 0.9rem; line-height: 1.6; }
+.article-sources-line span { color: #a9c4dc; font-weight: 600; margin-right: 0.25rem; }
+.article-sources-line a { color: #a9c4dc; text-decoration: underline; text-decoration-color: rgba(169, 196, 220, 0.35); text-underline-offset: 3px; }
+.article-sources-line a:hover { color: #00ff9d; text-decoration-color: currentColor; }

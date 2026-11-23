@@ -11,7 +11,7 @@ Tier B
 
 # Johnson in Mobile Legends: counters and stats
 
-Tank and support, Roam. Johnson wins 49.25% of matches over the last 30 days. Counter heroes and figures come from MOONTON’s official statistics.
+Tank and support, Roam. Wins 49.25% of matches over the last 30 days: #87 of 133 heroes.
 
 [Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
 
@@ -37,7 +37,7 @@ Win rate, 30 days**49.25%**
 
 ## Role and lane
 
-MOONTON’s official hero page lists Johnson as a tank and support for the Roam. Places are by win rate over the last 30 days among heroes of the same role or lane.
+Places are by win rate over the last 30 days among heroes of the same role or lane.
 
 -   Role**Tank and support**
 -   Lane**Roam**
@@ -47,19 +47,19 @@ MOONTON’s official hero page lists Johnson as a tank and support for the Roam.
 
 ## Who counters Johnson
 
-MOONTON’s official statistics list these heroes as the toughest opponents for Johnson. The number is each hero’s own win rate. 2 of the 5 counters are fighters.
+Johnson loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
 
 [![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Valentina](/images/heroes/valentina.webp)Valentina44.73%](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Who Johnson is strong against
 
-Johnson is listed as a counter for these heroes.
+Johnson is one of the toughest opponents for these heroes.
 
 [![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Carmilla](/images/heroes/carmilla.webp)Carmilla53.29%](https://boostmlbb.ru/en/heroes/carmilla.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Lancelot](/images/heroes/lancelot.webp)Lancelot43.13%](https://boostmlbb.ru/en/heroes/lancelot.html)[![Lylia](/images/heroes/lylia.webp)Lylia49.34%](https://boostmlbb.ru/en/heroes/lylia.html)[![Grock](/images/heroes/grock.webp)Grock46.61%](https://boostmlbb.ru/en/heroes/grock.html)
 
 ## Win rate by rank
 
-Best result in Epic (52.61%), weakest in Mythical Glory (46.81%). Official MOONTON statistics for the last 30 days.
+Best result in Epic (52.61%), weakest in Mythical Glory (46.81%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.61%**
 -   ![](/images/ranks/Legend.webp)Legend**50.84%**
@@ -81,7 +81,9 @@ The strongest by win rate over the last 30 days.
 
 ![Johnson](/images/heroes/johnson.webp)
 
-The hero’s backstory, skills and voice lines are collected on the [Johnson page of the MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson). Official skill descriptions, skill order and combos are on the [MOONTON heroes page](https://www.mobilelegends.com/hero).
+Johnson’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=32)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson)
 
 ## Boost on Johnson
 
@@ -89,11 +91,13 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+
 ## Frequently asked questions
 
 Who counters Johnson in MLBB?
 
-By MOONTON’s official 30-day statistics: Layla, Zilong, Saber, Dyrroth and Valentina.
+Over the last 30 days the toughest opponents are Layla, Zilong, Saber, Dyrroth and Valentina.
 
 What is Johnson’s win rate right now?
 
@@ -101,7 +105,7 @@ What is Johnson’s win rate right now?
 
 What role and lane does Johnson play?
 
-Tank and support, Roam, according to MOONTON’s official hero page.
+Tank and support, played on roam.
 
 Is Johnson strong in the current meta?
 

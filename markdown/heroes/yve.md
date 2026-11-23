@@ -11,7 +11,7 @@ language: ru
 
 # Ив в Mobile Legends: контрпики и статистика
 
-Маг, средняя линия. Ив выигрывает 52,26% матчей за последние 30 дней. Контрпики и цифры — из официальной статистики MOONTON.
+Маг, средняя линия. Выигрывает 52,26% матчей за последние 30 дней — 24-е место из 133 героев.
 
 [Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
 
@@ -37,7 +37,7 @@ language: ru
 
 ## Роль и линия
 
-По официальной странице героев MOONTON «Ив» — маг, играет на средней линии. Место — по проценту побед за 30 дней среди героев той же роли или линии.
+Место считается по проценту побед за 30 дней среди героев той же роли или линии.
 
 -   Роль**Маг**
 -   Линия**Средняя линия**
@@ -46,19 +46,19 @@ language: ru
 
 ## Кто контрит этого героя
 
-Официальная статистика MOONTON называет этих героев самыми неудобными противниками для героя «Ив». Под иконкой — их собственный процент побед. 4 из 5 контрпиков — танки.
+Против этих героев «Ив» проигрывает чаще всего. Под иконкой — их собственный процент побед. 4 из 5 контрпиков — танки.
 
 [![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)
 
 ## Против кого силён
 
-«Ив» числится контрпиком для этих героев.
+Для этих героев «Ив» — один из самых неудобных соперников.
 
 [![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Селена](/images/heroes/selena.webp)Селена48,34%](https://boostmlbb.ru/heroes/selena.html)[![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Госсен](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)[![Гвиневра](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)[![Хаябуса](/images/heroes/hayabusa.webp)Хаябуса48,15%](https://boostmlbb.ru/heroes/hayabusa.html)[![Калеа](/images/heroes/kalea.webp)Калеа50,44%](https://boostmlbb.ru/heroes/kalea.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)
 
 ## Процент побед по рангам
 
-Лучший результат — на ранге «Мифическая слава» (52,47%), слабее всего — «Мифический» (51,35%). Официальная статистика MOONTON за последние 30 дней.
+Лучший результат — на ранге «Мифическая слава» (52,47%), слабее всего — «Мифический» (51,35%). Данные за последние 30 дней.
 
 -   ![](/images/ranks/Epic.webp)Эпик**52,01%**
 -   ![](/images/ranks/Legend.webp)Легенда**51,39%**
@@ -80,7 +80,9 @@ language: ru
 
 ![Ив](/images/heroes/yve.webp)
 
-Историю героя, навыки и реплики собирает [страница Yve в MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yve) (на английском). Официальные описания навыков, порядок прокачки и комбо — на [странице героев MOONTON](https://www.mobilelegends.com/hero).
+Биография героя «Ив», все навыки с цифрами и советы от разработчиков — на официальной странице героя, на русском. Реплики, облики и история изменений — в MLBB Wiki.
+
+[История и навыки](https://www.mobilelegends.com/hero/detail?heroid=101)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yve)
 
 ## Буст на герое «Ив»
 
@@ -88,11 +90,13 @@ language: ru
 
 [Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
 
+Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев.
+
 ## Частые вопросы
 
 Кто контрпик для героя «Ив» в MLBB?
 
-По официальной статистике MOONTON за 30 дней: Лолита, Хилос, Бартс, Алиса и Икс.Борг.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Хилос, Бартс, Алиса и Икс.Борг.
 
 Какой процент побед у героя «Ив» сейчас?
 
@@ -100,7 +104,7 @@ language: ru
 
 Какая роль и линия у героя «Ив»?
 
-Маг, играет на средней линии. Так героя распределяет официальная страница героев MOONTON.
+Маг, играет на средней линии.
 
 Силён ли герой «Ив» в текущей мете?
 
