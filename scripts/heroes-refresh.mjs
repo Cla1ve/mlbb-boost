@@ -23,7 +23,7 @@ const slugByEn = Object.fromEntries(data.heroes.map(hero => [hero.en, hero.slug]
 
 const browser = await chromium.launch({ executablePath: browserPath, headless: true });
 const fail = async message => { console.error(`heroes-refresh: ${message}`); await browser.close(); process.exit(1); };
-const page = await browser.newPage({ viewport: { width: 1280, height: 900 }, locale: 'en-US' });
+const page = await browser.newPage({ viewport: { width: 1280, height: 900 }, locale: 'en-US', timezoneId: 'Europe/Moscow' });
 await page.goto(SOURCE, { waitUntil: 'domcontentloaded', timeout: 90000 });
 await page.waitForSelector('img[src*="/svnres/"]', { timeout: 90000 }).catch(() => null);
 

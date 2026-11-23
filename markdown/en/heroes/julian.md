@@ -92,7 +92,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 22 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
 
 ## Frequently asked questions
 
@@ -102,7 +102,7 @@ Over the last 30 days the toughest opponents are Faramis, Esmeralda, Alice, Phov
 
 What is Julian’s win rate right now?
 
-49.95% over the last 30 days across all ranks and 49.20% in Mythical Glory, as of 22 November 2026.
+49.95% over the last 30 days across all ranks and 49.20% in Mythical Glory, as of 23 November 2026.
 
 What role and lane does Julian play?
 

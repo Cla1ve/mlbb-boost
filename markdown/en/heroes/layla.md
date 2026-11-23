@@ -90,7 +90,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 22 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
 
 ## Frequently asked questions
 
@@ -100,7 +100,7 @@ Over the last 30 days the toughest opponents are Diggie, Edith, Rafaela, Odette 
 
 What is Layla’s win rate right now?
 
-49.41% over the last 30 days across all ranks and 47.95% in Mythical Glory, as of 22 November 2026.
+49.41% over the last 30 days across all ranks and 47.95% in Mythical Glory, as of 23 November 2026.
 
 What role and lane does Layla play?
 
