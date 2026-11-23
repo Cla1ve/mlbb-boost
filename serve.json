@@ -207,6 +207,22 @@
       "destination": "/en/news/mlbb-who-to-ban/index.html"
     },
     {
+      "source": "/news/mlbb-builds-2026/",
+      "destination": "/news/mlbb-builds-2026/index.html"
+    },
+    {
+      "source": "/news/mlbb-builds-2026",
+      "destination": "/news/mlbb-builds-2026/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-builds-2026/",
+      "destination": "/en/news/mlbb-builds-2026/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-builds-2026",
+      "destination": "/en/news/mlbb-builds-2026/index.html"
+    },
+    {
       "source": "/heroes/",
       "destination": "/heroes/index.html"
     },

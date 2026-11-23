@@ -13,6 +13,7 @@ https://boostmlbb.ru/boost/hero.html
 https://boostmlbb.ru/guides/mythic-placement.html
 https://boostmlbb.ru/guides/party-boost.html
 https://boostmlbb.ru/heroes/
+https://boostmlbb.ru/news/mlbb-builds-2026/
 https://boostmlbb.ru/news/
 https://boostmlbb.ru/news/mlbb-account-bind-recover/
 https://boostmlbb.ru/news/mlbb-rank-up-solo/
@@ -27,7 +28,6 @@ https://boostmlbb.ru/news/mlbb-season-end-rank-reset/
 --- Порция 2 ---
 https://boostmlbb.ru/news/mlbb-current-patch/
 https://boostmlbb.ru/faq.html
-https://boostmlbb.ru/about.html
 https://boostmlbb.ru/news/m8-istanbul-world-road/
 https://boostmlbb.ru/news/msc-2026-playoff-schedule/
 https://boostmlbb.ru/heroes/masha.html
@@ -186,3 +186,4 @@ https://boostmlbb.ru/disclaimer.html
 https://boostmlbb.ru/security.html
 https://boostmlbb.ru/cookies.html
 https://boostmlbb.ru/sitemap-page.html
+https://boostmlbb.ru/about.html

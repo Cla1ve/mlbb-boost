@@ -7931,6 +7931,655 @@
           ]
         }
       }
+    },
+    {
+      "slug": "mlbb-builds-2026",
+      "status": "published",
+      "title": "Сборки на героев MLBB 2026: что собирают в рейтинге",
+      "seoTitle": "Сборки на героев MLBB 2026: предметы, эмблемы, заклинания",
+      "description": "Популярные сборки на героев Mobile Legends из «Академии» в игре: предметы, эмблемы и заклинания для 133 героев, сборки на самых популярных героев.",
+      "excerpt": "Что реально собирают в рейтинге: сборки на десять самых популярных героев, самые частые предметы, эмблемы и боевые заклинания.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Mobile Legends",
+        "Сборки",
+        "Предметы",
+        "Эмблемы",
+        "Заклинания"
+      ],
+      "datePublished": "2026-11-23T18:04:00+03:00",
+      "dateModified": "2026-11-23T18:04:00+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-builds-2026.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-builds-2026-768.webp 768w, /images/news/mlbb-builds-2026-1200.webp 1200w, /images/news/mlbb-builds-2026-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Шесть самых частых ключевых предметов в сборках Mobile Legends и число героев, которые их собирают",
+        "caption": "Иллюстрация Boost MLBB. Иконки предметов — MOONTON.",
+        "provenance": {
+          "type": "original",
+          "creator": "Boost MLBB",
+          "created": "2026-11-23",
+          "rights": "Original layout made by Boost MLBB; item icons are MOONTON game assets used for editorial illustration."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Чаще всего в ключевые предметы попадает «Господство льда»: он есть в популярной сборке 24 героев из 133.",
+            "Самая частая эмблема — эмблема убийцы, её берут 29 героев. Обычную эмблему выбирают только для 6.",
+            "«Вспышка» — основное заклинание у 62 героев из 133, «Возмездие» — у 20.",
+            "Сборки взяты из «Академии» в игре: это то, что реально собирают в рейтинге, а не мнение автора."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Готовая сборка в Мобайл Легендс экономит главное — время на чтение гайдов перед матчем. Мы собрали самые популярные сборки для всех 133 героев из «Академии» в игре: для каждого героя взята его основная линия, рейтинговые матчи на всех рангах и сборка, которую выбирают чаще остальных. Ниже — сборки на самых популярных героев и общая картина: какие предметы, эмблемы и заклинания сейчас в моде."
+        },
+        {
+          "type": "heading",
+          "id": "top-heroes",
+          "text": "Сборки на популярных героев"
+        },
+        {
+          "type": "table",
+          "caption": "Сборки на 10 самых популярных героев",
+          "headers": [
+            "Герой",
+            "Ключевые предметы",
+            "Эмблема и заклинание",
+            "Побед со сборкой"
+          ],
+          "rows": [
+            [
+              "Ханаби",
+              "Коса коррозии, Золотой посох, Меч охотника на демонов",
+              "Эмблема бойца, Эгида",
+              "58,59%"
+            ],
+            [
+              "Обсидия",
+              "Говорящий с ветром, Когти Хааса, Пронзающий небеса",
+              "Эмблема бойца, Вспышка",
+              "55,31%"
+            ],
+            [
+              "Мия",
+              "Говорящий с ветром, Когти Хааса, Ярость берсерка",
+              "Эмблема стрелка, Вдохновение",
+              "56,21%"
+            ],
+            [
+              "Тигрил",
+              "Господство льда, Мимолетное время, Щит Афины",
+              "Эмблема танка, Вспышка",
+              "49,08%"
+            ],
+            [
+              "Нолан",
+              "Клинок семи морей, Удар охотника, Злобный рык",
+              "Эмблема убийцы, Возмездие",
+              "53,17%"
+            ],
+            [
+              "Лейла",
+              "Говорящий с ветром, Когти Хааса, Ярость берсерка",
+              "Эмблема убийцы, Вспышка",
+              "55,78%"
+            ],
+            [
+              "Лесли",
+              "Ярость берсерка, Губительный пулемет, Клинок отчаяния",
+              "Эмблема стрелка, Вспышка",
+              "57,19%"
+            ],
+            [
+              "Эйдора",
+              "Палочка гения, Пронзающий небеса, Жезл молний",
+              "Эмблема убийцы, Вспышка",
+              "56,20%"
+            ],
+            [
+              "Сан",
+              "Говорящий с ветром, Коса коррозии, Копье Великого дракона",
+              "Эмблема поддержки, Окаменение",
+              "58,06%"
+            ],
+            [
+              "Ангела",
+              "Фляга Оазиса, Пылающий жезл, Зачарованный талисман",
+              "Эмблема поддержки, Вспышка",
+              "56,79%"
+            ]
+          ],
+          "note": "Самая популярная сборка на основной линии героя, рейтинговые матчи на всех рангах, «Академия» в игре, 23 ноября 2026 года."
+        },
+        {
+          "type": "paragraph",
+          "text": "Процент побед в таблице — в матчах именно с этой сборкой, поэтому он обычно выше общего процента побед героя. Самая единодушная сборка у Ангелы: её выбирают в 15,45% матчей на этом герое. Полные сборки с талантами эмблем и запасными вариантами — на странице каждого героя в тир-листе."
+        },
+        {
+          "type": "linkCard",
+          "label": "Сборка для каждого героя",
+          "title": "Тир-лист MLBB: все 133 героя",
+          "description": "Сборка, навыки, контрпики и союзники на странице героя.",
+          "href": "https://boostmlbb.ru/heroes/"
+        },
+        {
+          "type": "heading",
+          "id": "items",
+          "text": "Какие предметы собирают чаще всего"
+        },
+        {
+          "type": "table",
+          "caption": "Самые частые ключевые предметы",
+          "headers": [
+            "Предмет",
+            "У скольких героев в сборке"
+          ],
+          "rows": [
+            [
+              "Господство льда",
+              "24 из 133"
+            ],
+            [
+              "Топор войны",
+              "23 из 133"
+            ],
+            [
+              "Пронзающий небеса",
+              "23 из 133"
+            ],
+            [
+              "Пылающий жезл",
+              "21 из 133"
+            ],
+            [
+              "Коса коррозии",
+              "15 из 133"
+            ],
+            [
+              "Жезл молний",
+              "15 из 133"
+            ],
+            [
+              "Удар охотника",
+              "15 из 133"
+            ],
+            [
+              "Крылья королевы",
+              "14 из 133"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "В списке нет одного «обязательного» предмета для всех: даже самый частый есть в сборке лишь у каждого шестого героя. Защитные предметы вроде «Господство льда» берут и танки, и бойцы, поэтому они в верхних строчках."
+        },
+        {
+          "type": "heading",
+          "id": "emblems",
+          "text": "Какую эмблему брать"
+        },
+        {
+          "type": "table",
+          "caption": "Какие эмблемы выбирают",
+          "headers": [
+            "Эмблема",
+            "Героев"
+          ],
+          "rows": [
+            [
+              "Эмблема убийцы",
+              "29"
+            ],
+            [
+              "Эмблема мага",
+              "26"
+            ],
+            [
+              "Эмблема бойца",
+              "25"
+            ],
+            [
+              "Эмблема танка",
+              "20"
+            ],
+            [
+              "Эмблема поддержки",
+              "17"
+            ],
+            [
+              "Эмблема стрелка",
+              "10"
+            ],
+            [
+              "Обычная эмблема",
+              "6"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Эмблему выбирают по задаче героя, а не только по его роли. Поэтому эмблема убийцы встречается и у магов, а эмблема бойца — у некоторых стрелков: в «Академии» видно, что именно с ними эти герои выигрывают чаще."
+        },
+        {
+          "type": "heading",
+          "id": "spells",
+          "text": "Какое заклинание брать"
+        },
+        {
+          "type": "table",
+          "caption": "Какие боевые заклинания берут",
+          "headers": [
+            "Заклинание",
+            "Героев"
+          ],
+          "rows": [
+            [
+              "Вспышка",
+              "62"
+            ],
+            [
+              "Возмездие",
+              "20"
+            ],
+            [
+              "Окаменение",
+              "13"
+            ],
+            [
+              "Месть",
+              "12"
+            ],
+            [
+              "Восстановление",
+              "9"
+            ],
+            [
+              "Очищение",
+              "6"
+            ],
+            [
+              "Вдохновение",
+              "6"
+            ],
+            [
+              "Огненный выстрел",
+              "4"
+            ],
+            [
+              "Эгида",
+              "1"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "«Вспышка» остаётся универсальным выбором почти для половины героев: она спасает от смерти и помогает начать драку. «Возмездие» берут лесники — без него нельзя быстро забирать лесных монстров."
+        },
+        {
+          "type": "cta",
+          "id": "builds-rank",
+          "eyebrow": "Сборка есть, времени нет",
+          "title": "Узнайте цену буста до нужного ранга",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-spells"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Где посмотреть сборку на конкретного героя MLBB?",
+              "a": "На странице героя в нашем тир-листе: там самая популярная сборка в рейтинге, эмблема с тремя талантами, заклинание и два запасных варианта. Данные обновляются раз в несколько дней."
+            },
+            {
+              "q": "Какую эмблему чаще всего берут в MLBB?",
+              "a": "Эмблема убийцы — у 29 героев из 133. Дальше идут эмблемы мага и бойца."
+            },
+            {
+              "q": "Какое заклинание лучше брать в Mobile Legends?",
+              "a": "Чаще всего — «Вспышка»: она основная у 62 героев из 133. Лесники берут «Возмездие»."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Rone Arena API: данные «Академии» Mobile Legends",
+          "publisher": "Rone Arena (ridwaanhall / RoneAI)",
+          "url": "https://arena.rone.dev/",
+          "accessed": "2026-11-23"
+        },
+        {
+          "title": "Рейтинг героев Mobile Legends",
+          "publisher": "MOONTON",
+          "url": "https://www.mobilelegends.com/rank",
+          "accessed": "2026-11-23"
+        }
+      ],
+      "editorialNote": "Сборки взяты 23 ноября 2026 года из «Академии» MOONTON через открытый Rone Arena API: для каждого героя — самая популярная сборка на основной линии в рейтинговых матчах на всех рангах. Русские названия предметов — по русскому клиенту игры.",
+      "translations": {
+        "en": {
+          "title": "MLBB hero builds 2026: what players build in ranked",
+          "seoTitle": "MLBB hero builds 2026: items, emblems, spells",
+          "description": "Popular Mobile Legends hero builds from the in-game Academy: items, emblems and battle spells for 133 heroes, and builds for the most picked heroes.",
+          "excerpt": "What players really build in ranked: builds for the ten most picked heroes, the most common items, emblems and battle spells.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Builds",
+            "Items",
+            "Emblems",
+            "Spells"
+          ],
+          "hero": {
+            "alt": "The six most common core items in Mobile Legends builds and how many heroes build them",
+            "caption": "Boost MLBB illustration. Item icons: MOONTON."
+          },
+          "editorialNote": "Builds were taken on 23 November 2026 from MOONTON’s Academy via the open Rone Arena API: for each hero, the most popular build in the main lane in ranked matches across all ranks.",
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "The most common core item is Dominance Ice: it is in the popular build of 24 heroes out of 133.",
+                "The most picked emblem is the Assassin emblem, used by 29 heroes. The Common emblem is chosen for only 6.",
+                "Flicker is the main spell for 62 heroes out of 133, Retribution for 20.",
+                "The builds come from the in-game Academy: what players actually build in ranked, not an author’s opinion."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A ready-made build in Mobile Legends saves what matters most — time reading guides before a match. We collected the most popular builds for all 133 heroes from the in-game Academy: for each hero we took its main lane, ranked matches across all ranks and the build picked more often than the rest. Below are builds for the most popular heroes and the bigger picture: which items, emblems and spells are in fashion now."
+            },
+            {
+              "type": "heading",
+              "id": "top-heroes",
+              "text": "Builds for popular heroes"
+            },
+            {
+              "type": "table",
+              "caption": "Builds for the 10 most picked heroes",
+              "headers": [
+                "Hero",
+                "Core items",
+                "Emblem and spell",
+                "Wins with the build"
+              ],
+              "rows": [
+                [
+                  "Hanabi",
+                  "Corrosion Scythe, Golden Staff, Demon Hunter Sword",
+                  "Fighter, Aegis",
+                  "58.59%"
+                ],
+                [
+                  "Obsidia",
+                  "Windtalker, Haas' Claws, Sky Piercer",
+                  "Fighter, Flicker",
+                  "55.31%"
+                ],
+                [
+                  "Miya",
+                  "Windtalker, Haas' Claws, Berserker's Fury",
+                  "Marksman, Inspire",
+                  "56.21%"
+                ],
+                [
+                  "Tigreal",
+                  "Dominance Ice, Fleeting Time, Athena's Shield",
+                  "Tank, Flicker",
+                  "49.08%"
+                ],
+                [
+                  "Nolan",
+                  "Blade of the Heptaseas, Hunter Strike, Malefic Roar",
+                  "Assassin, Retribution",
+                  "53.17%"
+                ],
+                [
+                  "Layla",
+                  "Windtalker, Haas' Claws, Berserker's Fury",
+                  "Assassin, Flicker",
+                  "55.78%"
+                ],
+                [
+                  "Lesley",
+                  "Berserker's Fury, Malefic Gun, Blade of Despair",
+                  "Marksman, Flicker",
+                  "57.19%"
+                ],
+                [
+                  "Eudora",
+                  "Genius Wand, Sky Piercer, Lightning Truncheon",
+                  "Assassin, Flicker",
+                  "56.20%"
+                ],
+                [
+                  "Sun",
+                  "Windtalker, Corrosion Scythe, Great Dragon Spear",
+                  "Support, Petrify",
+                  "58.06%"
+                ],
+                [
+                  "Angela",
+                  "Flask of the Oasis, Glowing Wand, Enchanted Talisman",
+                  "Support, Flicker",
+                  "56.79%"
+                ]
+              ],
+              "note": "The most popular build in the hero’s main lane, ranked matches across all ranks, in-game Academy, 23 November 2026."
+            },
+            {
+              "type": "paragraph",
+              "text": "The win rate in the table is for matches played with this exact build, so it is usually higher than the hero’s overall win rate. Angela has the most unanimous build: it is picked in 15.45% of matches on her. Full builds with emblem talents and alternatives are on every hero page in the tier list."
+            },
+            {
+              "type": "linkCard",
+              "label": "A build for every hero",
+              "title": "MLBB tier list: all 133 heroes",
+              "description": "Build, skills, counters and teammates on each hero page.",
+              "href": "https://boostmlbb.ru/heroes/"
+            },
+            {
+              "type": "heading",
+              "id": "items",
+              "text": "Which items are built most often"
+            },
+            {
+              "type": "table",
+              "caption": "The most common core items",
+              "headers": [
+                "Item",
+                "Heroes with it in the build"
+              ],
+              "rows": [
+                [
+                  "Dominance Ice",
+                  "24 of 133"
+                ],
+                [
+                  "War Axe",
+                  "23 of 133"
+                ],
+                [
+                  "Sky Piercer",
+                  "23 of 133"
+                ],
+                [
+                  "Glowing Wand",
+                  "21 of 133"
+                ],
+                [
+                  "Corrosion Scythe",
+                  "15 of 133"
+                ],
+                [
+                  "Lightning Truncheon",
+                  "15 of 133"
+                ],
+                [
+                  "Hunter Strike",
+                  "15 of 133"
+                ],
+                [
+                  "Queen's Wings",
+                  "14 of 133"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "There is no single item everyone must buy: even the most common one is in the build of only every sixth hero. Defensive items such as Dominance Ice are taken by both tanks and fighters, which puts them at the top."
+            },
+            {
+              "type": "heading",
+              "id": "emblems",
+              "text": "Which emblem to take"
+            },
+            {
+              "type": "table",
+              "caption": "Which emblems players pick",
+              "headers": [
+                "Emblem",
+                "Heroes"
+              ],
+              "rows": [
+                [
+                  "Assassin",
+                  "29"
+                ],
+                [
+                  "Mage",
+                  "26"
+                ],
+                [
+                  "Fighter",
+                  "25"
+                ],
+                [
+                  "Tank",
+                  "20"
+                ],
+                [
+                  "Support",
+                  "17"
+                ],
+                [
+                  "Marksman",
+                  "10"
+                ],
+                [
+                  "Common",
+                  "6"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Emblems are chosen by the hero’s job, not only by role. That is why the Assassin emblem shows up on mages and the Fighter emblem on some marksmen: the Academy shows these heroes win more often with them."
+            },
+            {
+              "type": "heading",
+              "id": "spells",
+              "text": "Which battle spell to take"
+            },
+            {
+              "type": "table",
+              "caption": "Which battle spells players take",
+              "headers": [
+                "Battle spell",
+                "Heroes"
+              ],
+              "rows": [
+                [
+                  "Flicker",
+                  "62"
+                ],
+                [
+                  "Retribution",
+                  "20"
+                ],
+                [
+                  "Petrify",
+                  "13"
+                ],
+                [
+                  "Vengeance",
+                  "12"
+                ],
+                [
+                  "Revitalize",
+                  "9"
+                ],
+                [
+                  "Purify",
+                  "6"
+                ],
+                [
+                  "Inspire",
+                  "6"
+                ],
+                [
+                  "Flameshot",
+                  "4"
+                ],
+                [
+                  "Aegis",
+                  "1"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Flicker stays the all-round choice for almost half the heroes: it saves you from death and helps start a fight. Junglers take Retribution, without which you cannot clear jungle monsters quickly."
+            },
+            {
+              "type": "cta",
+              "id": "builds-rank",
+              "eyebrow": "Got the build, no time",
+              "title": "See the price of a boost to your rank",
+              "text": "Enter your rank and goal — the calculator shows the price right away.",
+              "button": "Calculate price",
+              "href": "/order.html?type=standard",
+              "note": "No payment, no commitment.",
+              "position": "after-spells"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Where can I see the build for a specific MLBB hero?",
+                  "a": "On the hero page in our tier list: the most popular ranked build, the emblem with three talents, the battle spell and two alternatives. The data refreshes every few days."
+                },
+                {
+                  "q": "Which emblem is picked most in MLBB?",
+                  "a": "The Assassin emblem — 29 heroes out of 133. The Mage and Fighter emblems come next."
+                },
+                {
+                  "q": "Which battle spell is best in Mobile Legends?",
+                  "a": "Flicker most often: it is the main spell for 62 heroes out of 133. Junglers take Retribution."
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ]
 }

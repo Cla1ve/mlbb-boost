@@ -4,6 +4,34 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-builds-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-builds-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-builds-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-builds-2026/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T18:04:00+03:00</news:publication_date>
+      <news:title>Сборки на героев MLBB 2026: что собирают в рейтинге</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-builds-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-builds-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-builds-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-builds-2026/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T18:04:00+03:00</news:publication_date>
+      <news:title>MLBB hero builds 2026: what players build in ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/mlbb-who-to-ban/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-who-to-ban/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-who-to-ban/"/>

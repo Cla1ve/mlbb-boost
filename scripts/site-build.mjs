@@ -98,6 +98,7 @@ const footerGuides = [
   ['/news/mlbb-season-end-rank-reset/', 'Конец сезона и сброс', 'Season end and reset'],
   ['/news/mlbb-rank-up-solo/', 'Как поднять ранг соло', 'Rank up solo'],
   ['/news/mlbb-who-to-ban/', 'Кого банить в MLBB', 'Who to ban in MLBB'],
+  ['/news/mlbb-builds-2026/', 'Сборки на героев MLBB', 'MLBB hero builds'],
   ['/news/mlbb-account-bind-recover/', 'Аккаунт MLBB: привязка', 'MLBB account binding'],
   ['/boost/mythic.html', 'Буст Мифика', 'Mythic boost'],
   ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
