@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/faramis.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/faramis.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Faramis
 
 Mage and support · Mid Lane or Roam
-
-**#47 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.36%
 
-Guard · Charge · Difficulty 50/100
+**#47 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Guard · Charge · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.56%**Picked in **1.32%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/kaja.webp)Kaja+2.78 pp](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/kalea.webp)Kalea+2.26 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/moskov.webp)Moskov+2.07 pp](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/saber.webp)Saber+1.96 pp](https://boostmlbb.ru/en/heroes/saber.html)
 
@@ -139,7 +139,9 @@ Faramis turns his surroundings into the Nether Realm for 6s. Allied heroes withi
 
 A necromancer in Necrokeep who's determined to find a cure for the Mist.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Faramis)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=76)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Faramis)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Faramis)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=76)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

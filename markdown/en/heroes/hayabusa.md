@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hayabusa.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/hayabusa.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Hayabusa
 
 Assassin · Jungle
-
-**#108 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.64%
 
-Chase · Burst · Difficulty 60/100
+**#108 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.23%**Picked in **12.55%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/joy.webp)Joy+1.62 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/khufra.webp)Khufra+1.24 pp](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/masha.webp)Masha+0.82 pp](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/belerick.webp)Belerick+0.79 pp](https://boostmlbb.ru/en/heroes/belerick.html)
 
@@ -138,7 +138,9 @@ The attacks prioritize enemies with Shadow Mark and each will consume a mark to 
 
 The young leader of the Shadow Sect who wields his blade through moonless nights, walking the path of nindo without fear.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Hayabusa)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=21)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hayabusa)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Hayabusa)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=21)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

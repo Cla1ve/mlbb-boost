@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/zilong.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Zilong
 
 Fighter and assassin · EXP Lane
-
-**#123 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.49%
 
-Chase · Damage · Difficulty 10/100
+**#123 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 10/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **52.77%**Picked in **2.24%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/gloo.webp)Gloo+2.92 pp](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/belerick.webp)Belerick+2.91 pp](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/hilda.webp)Hilda+2.26 pp](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Tigreal+1.97 pp](https://boostmlbb.ru/en/heroes/tigreal.html)
 
@@ -139,7 +139,9 @@ During this time, Dragon Flurry triggers every 2 attacks (instead of the previou
 
 Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Zilong)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=16)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zilong)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Zilong)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=16)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

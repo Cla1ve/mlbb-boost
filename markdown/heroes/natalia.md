@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/natalia.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/natalia.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Наталья
 
 Убийца · Лес или роум
-
-**№ 44 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 2,03%
 
-Преследование · Добивание · Сложность 90/100
+**№ 44 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Добивание · Сложность 90/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/floryn.webp)Флорин+3,17 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/khufra.webp)Хуфра+2,93 п. п.](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/akai.webp)Акай+2,74 п. п.](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/hylos.webp)Хилос+2,73 п. п.](https://boostmlbb.ru/heroes/hylos.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Убийца, изгнанный из империи.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=24)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/natalia)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=24)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yve.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/yve.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Yve
 
 Mage · Mid Lane
-
-**#24 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.04%
 
-Poke · Burst · Difficulty 50/100
+**#24 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Burst · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **52.14%**Picked in **1.66%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+9.26 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Valentina+5.63 pp](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/kalea.webp)Kalea+2.92 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/granger.webp)Granger+2.80 pp](https://boostmlbb.ru/en/heroes/granger.html)
 
@@ -141,7 +141,9 @@ Yve cannot be displaced while the Starfield is active, and the Starfield will re
 
 Keeper of the equilibrium of the universe.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Yve)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=101)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yve)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yve)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=101)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

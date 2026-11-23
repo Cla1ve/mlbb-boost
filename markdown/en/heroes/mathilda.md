@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/mathilda.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Mathilda
 
 Assassin and support · Roam
-
-**#129 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.19%
 
-Initiator · Guard · Difficulty 70/100
+**#129 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Initiator · Guard · Difficulty 70/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **48.06%**Picked in **1.95%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/kalea.webp)Kalea+4.28 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/atlas.webp)Atlas+3.44 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Carmilla+3.29 pp](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/odette.webp)Odette+2.51 pp](https://boostmlbb.ru/en/heroes/odette.html)
 
@@ -140,7 +140,9 @@ Mathilda gains Control Immunity and a 400 (+180% Total Magic Power) shield for t
 
 A brave girl who stands up and doesn't fear power.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Mathilda)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=102)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Mathilda)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Mathilda)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=102)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

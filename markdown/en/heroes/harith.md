@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/harith.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Harith
 
 Mage · Gold Lane
-
-**#120 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.05%
 
-Chase · Damage · Difficulty 60/100
+**#120 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.38%**Picked in **27.28%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/beatrix.webp)Beatrix+5.59 pp](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Ixia+5.31 pp](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/clint.webp)Clint+4.78 pp](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/brody.webp)Brody+4.52 pp](https://boostmlbb.ru/en/heroes/brody.html)
 
@@ -139,7 +139,9 @@ When Harith comes into contact with the rift using Chrono Dash, he absorbs its e
 
 Leonin boy who came to the Moniyan Empire from Azrya.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=73)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harith)
+[Read the full story ↗](https://kazukiofficial.com/stories/harith)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=73)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/eudora.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/eudora.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Eudora
 
 Mage · Mid Lane
-
-**#53 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 47.84%
 
-Control · Burst · Difficulty 20/100
+**#53 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Control · Burst · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.19%**Picked in **5.00%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+4.02 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Cyclops+1.84 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Floryn+1.74 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/harley.webp)Harley+1.62 pp](https://boostmlbb.ru/en/heroes/harley.html)
 
@@ -139,7 +139,9 @@ When Thunder's Wrath hits a target affected by Superconductor, it triggers a Thu
 
 The elven mage who commands lightning at her fingertips to pierce prejudice and illuminate the path forward.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Eudora)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=15)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Eudora)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Eudora)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=15)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/atlas.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/atlas.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Atlas
 
 Tank · Roam
-
-**#35 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 9.58%
 
-Crowd Control · Initiator · Difficulty 50/100
+**#35 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Crowd Control · Initiator · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **53.34%**Picked in **1.86%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/floryn.webp)Floryn+6.83 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/estes.webp)Estes+5.56 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/rafaela.webp)Rafaela+3.76 pp](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/mathilda.webp)Mathilda+3.44 pp](https://boostmlbb.ru/en/heroes/mathilda.html)
 
@@ -140,7 +140,9 @@ Use this skill in Ejected State: The Mecha Sentry will return to Atlas immediate
 
 Abysmal Sea creature who broke free from the seal.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=93)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Atlas)
+[Read the full story ↗](https://kazukiofficial.com/stories/atlas)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=93)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

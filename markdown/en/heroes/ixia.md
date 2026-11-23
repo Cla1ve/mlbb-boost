@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/ixia.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/ixia.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Ixia
 
 Marksman · Gold Lane
-
-**#62 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.80%
 
-Finisher · Damage · Difficulty 30/100
+**#62 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Damage · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.61%**Picked in **6.13%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/diggie.webp)Diggie+7.38 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/harith.webp)Harith+5.31 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/baxia.webp)Baxia+3.93 pp](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/estes.webp)Estes+2.61 pp](https://boostmlbb.ru/en/heroes/estes.html)
 
@@ -138,7 +138,9 @@ Ixia reassembles her weapon into 6 smaller weapons and enters the Full Barrage s
 
 The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a stolen Starlium reactor.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Lxia)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=121)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ixia)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Lxia)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=121)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

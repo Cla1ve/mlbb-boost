@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/change.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Chang'e
 
 Mage · Mid Lane
-
-**#106 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.32%
 
-Poke · Burst · Difficulty 40/100
+**#106 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Burst · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.25%**Picked in **4.38%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harley.webp)Harley+1.89 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/johnson.webp)Johnson+1.74 pp](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/franco.webp)Franco+1.65 pp](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/jawhead.webp)Jawhead+1.63 pp](https://boostmlbb.ru/en/heroes/jawhead.html)
 
@@ -139,7 +139,9 @@ Crescent Moon: Fires meteors alongside Chang'e, each dealing 33% damage.
 
 Naughty and cute disciple of the Great Dragon.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=61)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chang'e)
+[Read the full story ↗](https://kazukiofficial.com/stories/chang-e)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=61)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/alice.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/alice.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Alice
 
 Tank and mage · EXP Lane or Jungle
-
-**#48 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 12.68%
 
-Charge · Regen · Difficulty 40/100
+**#48 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Regen · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.77%**Picked in **1.32%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cici.webp)Cici+2.27 pp](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/angela.webp)Angela+2.15 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/aldous.webp)Aldous+2.13 pp](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/argus.webp)Argus+2.08 pp](https://boostmlbb.ru/en/heroes/argus.html)
 
@@ -141,7 +141,9 @@ While charging her Ultimate, Alice cannot use any hero skills other than Scarlet
 
 Queen of the Blood Demons and one of the two dominant powers in the Abyss.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Alice)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=4)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alice)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Alice)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=4)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

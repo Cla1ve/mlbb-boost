@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/granger.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/granger.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Granger
 
 Marksman · Gold Lane
-
-**#131 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.64%
 
-Burst · Finisher · Difficulty 30/100
+**#131 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Finisher · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **39.73%**Picked in **3.42%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/baxia.webp)Baxia+8.54 pp](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/floryn.webp)Floryn+5.64 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/harith.webp)Harith+3.85 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/fredrinn.webp)Fredrinn+3.39 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
@@ -139,7 +139,9 @@ Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldow
 
 A mysterious demon hunter that operates outside the conventions of the Church of Light. Always seen with a violin case in hand, he hunts down demons with his two soul-devouring weapons.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=79)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Granger)
+[Read the full story ↗](https://kazukiofficial.com/stories/granger)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=79)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

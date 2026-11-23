@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/alucard.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/alucard.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Алукард
 
 Боец и убийца · Лес
-
-**№ 93 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,36%
 
-Преследование · Урон · Сложность 30/100
+**№ 93 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Урон · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/tigreal.webp)Тигрил+1,93 п. п.](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/floryn.webp)Флорин+1,28 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу+1,28 п. п.](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/kaja.webp)Кайя+1,25 п. п.](https://boostmlbb.ru/heroes/kaja.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Охотник на демонов, ненавидящий тьму.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Alucard)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=7)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alucard)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Alucard)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=7)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

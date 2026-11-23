@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/natan.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/natan.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Натан
 
 Стрелок · Линия золота
-
-**№ 37 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,14%
 
-Разрушительный урон · Магический урон · Сложность 30/100
+**№ 37 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Магический урон · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/diggie.webp)Дигги+4,60 п. п.](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/baxia.webp)Баксий+2,95 п. п.](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/faramis.webp)Фарамис+1,88 п. п.](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/fanny.webp)Фанни+1,80 п. п.](https://boostmlbb.ru/heroes/fanny.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Спаситель, который путешествует сквозь время и пространство.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Natan)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=107)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natan)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Natan)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=107)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

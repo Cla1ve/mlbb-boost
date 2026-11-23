@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/sun.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Sun
 
 Fighter · EXP Lane or Jungle
-
-**#11 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 35.31%
 
-Push · Damage · Difficulty 50/100
+**#11 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Push · Damage · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.23%**Picked in **1.31%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/balmond.webp)Balmond+2.35 pp](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/lapu-lapu.webp)Lapu-Lapu+2.34 pp](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/x-borg.webp)X.Borg+2.34 pp](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/terizla.webp)Terizla+2.32 pp](https://boostmlbb.ru/en/heroes/terizla.html)
 
@@ -146,7 +146,9 @@ Sun summons a Doppelganger that inherits his attributes, deals 80% damage, and t
 
 The immortal Monkey King, resolute and unyielding like the mountain that bore him.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=27)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun)
+[Read the full story ↗](https://kazukiofficial.com/stories/sun)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=27)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

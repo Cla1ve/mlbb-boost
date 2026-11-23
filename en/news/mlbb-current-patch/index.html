@@ -17,7 +17,7 @@
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Boost MLBB">
   <meta property="og:title" content="Current MLBB patch: update 2.2.16 and what it changed">
-  <meta property="og:description" content="The key points of patch 2.2.16: the new Masha and Bruno, buffs and nerfs, match economy, the 2026 map and what happened to heroes two months later.">
+  <meta property="og:description" content="Update 2.2.16 reworked Masha and Bruno, lowered jungle monster rewards and changed the map.">
   <meta property="og:url" content="https://boostmlbb.ru/en/news/mlbb-current-patch/">
   <meta property="og:image" content="https://boostmlbb.ru/images/news/mlbb-current-patch.jpg">
   <meta property="og:image:width" content="1600">
@@ -33,7 +33,7 @@
   <meta property="article:tag" content="Season 42">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Current MLBB patch: update 2.2.16 and what it changed">
-  <meta name="twitter:description" content="The key points of patch 2.2.16: the new Masha and Bruno, buffs and nerfs, match economy, the 2026 map and what happened to heroes two months later.">
+  <meta name="twitter:description" content="Update 2.2.16 reworked Masha and Bruno, lowered jungle monster rewards and changed the map.">
   <meta name="twitter:image" content="https://boostmlbb.ru/images/news/mlbb-current-patch.jpg">
 
   <meta name="yandex-verification" content="61a4cbd156a4f1eb">
@@ -70,6 +70,7 @@
   <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
+  <link rel="stylesheet" href="/styles/arena.css?v=2">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -178,7 +179,7 @@
   ]
 }</script>
 </head>
-<body class="news-page article-page">
+<body class="news-page article-page journal-reference">
   <a class="skip-link" href="#article-content">Skip to article</a>
   <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
 
@@ -253,20 +254,13 @@
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner">
-          <nav class="breadcrumbs" aria-label="Breadcrumbs">
-            <ol>
-              <li><a href="/en/">Home</a></li>
-              <li class="breadcrumbs-news"><a href="/en/news/">News</a></li>
-              <li class="breadcrumbs-current" aria-current="page"><span>Current MLBB patch: update 2.2.16 and what it changed</span></li>
-            </ol>
-          </nav>
-        </div>
+        <div class="container article-header__inner"><nav class="arena-context" aria-label="Mobile Legends sections"><a href="/en/heroes/">Tier list</a><a href="/en/news/">News & guides</a></nav></div>
         <div class="container journal-hero">
           <div class="journal-title">
-            <p class="journal-meta">Patches · Updated <time datetime="2026-11-23T18:36:21+03:00">November 23, 2026</time></p>
+            <p class="journal-meta"><a href="/en/news/?category=patches">Patches</a><time datetime="2026-11-22T14:36:46+03:00">November 22, 2026</time></p>
             <h1>Current MLBB patch: update 2.2.16 and what it changed</h1>
-            <p class="article-deck">The key points of patch 2.2.16: the new Masha and Bruno, buffs and nerfs, match economy, the 2026 map and what happened to heroes two months later.</p>
+            <p class="article-deck">Update 2.2.16 reworked Masha and Bruno, lowered jungle monster rewards and changed the map.</p>
+            <a class="journal-primary" href="#heroes">Hero changes</a>
           </div>
         <div class="article-hero-media">
           <figure>
@@ -290,21 +284,21 @@
           <div class="article-rail__sticky">
             <nav class="article-toc" aria-label="Article contents" data-article-toc>
               <p>In this story</p>
-              <ol><li><a href="#heroes">What the patch did to heroes, two months on</a></li><li><a href="#masha-bruno">The new Masha and the new Bruno</a></li><li><a href="#economy">Match economy and the 2026 map</a></li><li><a href="#system">Modes, season and other changes</a></li><li><a href="#next">When the next patch comes out</a></li></ol>
+              <ol><li><a href="#heroes">Hero changes</a></li><li><a href="#masha-bruno">The new Masha and the new Bruno</a></li><li><a href="#economy">Economy and map</a></li><li><a href="#system">Modes, season and other changes</a></li><li><a href="#next">When the next patch comes out</a></li></ol>
             </nav>
-            <a class="rail-back" href="/en/news/"><span aria-hidden="true">←</span> All news</a>
+            <a class="rail-back" href="/en/news/">All news</a>
           </div>
         </aside>
 
         <div class="article-content" id="article-content" tabindex="-1">
-          <details class="journal-contents"><summary>In this story</summary><nav aria-label="Article contents"><a href="#heroes">What the patch did to heroes, two months on</a><a href="#masha-bruno">The new Masha and the new Bruno</a><a href="#economy">Match economy and the 2026 map</a><a href="#system">Modes, season and other changes</a><a href="#next">When the next patch comes out</a></nav></details>
+          <details class="journal-contents"><summary>In this story</summary><nav aria-label="Article contents"><a href="#heroes">Hero changes</a><a href="#masha-bruno">The new Masha and the new Bruno</a><a href="#economy">Economy and map</a><a href="#system">Modes, season and other changes</a><a href="#next">When the next patch comes out</a></nav></details>
 
       <aside class="article-key-facts" aria-labelledby="brief">
         <h2 id="brief">In short</h2>
         <ul><li>The current MLBB patch is 2.2.16. It came out on 16 September 2026 together with the start of Season 42.</li><li>For the game’s 10th anniversary Masha and Bruno were reworked, and six more heroes got new models: Paquito, Kadita, Clint, Luo Yi, Brody and Badang.</li><li>Aulus, Argus, Aldous and Lukas were buffed; Miya, Hanabi, Melissa, Yi Sun-shin and Paquito were nerfed.</li><li>The next major patch is expected with Season 43: the last two arrived on the first day of a season, 17 June and 16 September.</li></ul>
       </aside>
 <p>Patch 2.2.16 changed how Masha and Bruno play. Lower jungle monster rewards slowed gold income.</p>
-<h2 id="heroes">What the patch did to heroes, two months on</h2>
+<h2 id="heroes">Hero changes</h2>
 
       <div class="article-table-wrap article-table-wrap--cols-4" role="region" aria-label="Heroes with major changes in 2.2.16 and their stats for the last 30 days" data-scroll-region>
         <table>
@@ -320,7 +314,7 @@
       <ul class="article-list">
         <li>Masha is now a berserker fighter built for long fights rather than an assassin for split-pushing. She still has three HP bars, and attacking from the side of the wound she left triggers Feral: three wide claw strikes plus Resilience, Attack Speed and Movement Speed.</li><li>Masha’s second skill resets its cooldown each time she loses one of her lives.</li><li>Bruno keeps his ball-kicking marksman style, but the ball is easier to control: its distance scales with Movement Speed, it stays on the ground for 3 seconds instead of 2 and no longer crosses walls.</li><li>Bruno’s ultimate now briefly stuns the first target, slows it heavily and knocks it back to his attack range.</li>
       </ul>
-<h2 id="economy">Match economy and the 2026 map</h2>
+<h2 id="economy">Economy and map</h2>
 
       <ul class="article-list">
         <li>Gold from the Horned Lizard, Fire Beetle and Lava Golem is down 13%.</li><li>The comeback kill bounty now triggers at a 1500 gold deficit instead of 2000.</li><li>Minion gold grows a little more slowly over time.</li><li>Since 28 September the annual map update is live: vision wisps reveal hidden enemies, the Turtle spawns an allied turtle on a lane instead of a shield, and destroying turrets gives the whole team much more gold.</li>
@@ -329,20 +323,6 @@
       <aside class="article-callout">
         <p class="article-box-label">What it means in ranked</p>
         <p>MOONTON says matches were too fast and teams that fell behind struggled to come back. In ranked this means a gold lead is less safe: games more often go the distance, and late-game mistakes cost more.</p>
-      </aside>
-
-      <aside class="rank-cta" aria-labelledby="patch-rank">
-        <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
-        <div class="rank-cta__copy">
-          <h2 id="patch-rank">Check the boost price to your goal</h2>
-          <span>Enter your current rank and goal — the calculator shows the price at once.</span>
-        </div>
-        <div class="rank-cta__action">
-          <a href="/en/order.html?type=standard" data-news-cta data-cta-position="after-economy">
-            <span class="rank-cta__button-label">Calculate the price</span>
-            <span class="rank-cta__arrow" aria-hidden="true">→</span>
-          </a>
-        </div>
       </aside>
 <h2 id="system">Modes, season and other changes</h2>
 
@@ -356,6 +336,20 @@
         <h2 id="faq">Frequently asked questions</h2>
         <details><summary>What is the current MLBB patch?</summary><p>2.2.16. It came out on 16 September 2026 together with the start of Season 42.</p></details><details><summary>Who was buffed and nerfed in patch 2.2.16?</summary><p>Aulus, Argus, Aldous and Lukas were buffed; Miya, Hanabi, Melissa, Yi Sun-shin and Paquito were nerfed. Masha and Bruno were reworked for the game’s 10th anniversary.</p></details><details><summary>When is the next patch coming?</summary><p>It is expected with Season 43. The last two major patches arrived on the first day of a season: 17 June and 16 September.</p></details>
       </section>
+
+      <aside class="rank-cta" aria-labelledby="patch-rank">
+        <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
+        <div class="rank-cta__copy">
+          <h2 id="patch-rank">Check the boost price to your goal</h2>
+          <span>Enter your current rank and goal — the calculator shows the price at once.</span>
+        </div>
+        <div class="rank-cta__action">
+          <a href="/en/order.html?type=standard" data-news-cta data-cta-position="end-of-article">
+            <span class="rank-cta__button-label">Calculate the price</span>
+            <span class="rank-cta__arrow" aria-hidden="true">→</span>
+          </a>
+        </div>
+      </aside>
 
           <footer class="article-footer"><a href="https://t.me/Cla1ve" rel="noopener noreferrer" target="_blank" aria-label="Contact the editorial team on Telegram, @Cla1ve (opens in a new tab)">Report a correction</a></footer>
         </div>
@@ -382,7 +376,7 @@
             <span class="related-card__meta">Meta · <time datetime="2026-11-23T16:29:00+03:00">November 23, 2026</time></span>
             <strong class="related-card__title">Who to ban in Mobile Legends: the most dangerous heroes by rank</strong>
           </a></div>
-        <a href="/en/news/">Return to the news feed <span aria-hidden="true">→</span></a>
+        <a href="/en/news/">Return to the news feed</a>
       </div>
     </section>
   </main>
@@ -441,6 +435,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=5"></script>
+  <script defer src="/js/news.js?v=6"></script>
 </body>
 </html>

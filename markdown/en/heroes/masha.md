@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/masha.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/masha.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Masha
 
 Tank and fighter · EXP Lane
-
-**#1 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 40.89%
 
-Push · Damage · Difficulty 30/100
+**#1 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Push · Damage · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **65.08%**Picked in **1.77%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/bane.webp)Bane+1.86 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/guinevere.webp)Guinevere+1.66 pp](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/x-borg.webp)X.Borg+1.60 pp](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/saber.webp)Saber+1.52 pp](https://boostmlbb.ru/en/heroes/saber.html)
 
@@ -139,7 +139,9 @@ Masha charges toward an enemy hero, dealing 300 (+50% Extra Max HP) Physical Dam
 
 Guardian of the Direbears.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Masha)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=88)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Masha)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Masha)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=88)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

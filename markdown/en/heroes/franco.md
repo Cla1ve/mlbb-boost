@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/franco.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/franco.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Franco
 
 Tank · Roam
-
-**#133 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.11%
 
-Initiator · Control · Difficulty 20/100
+**#133 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Initiator · Control · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **44.01%**Picked in **4.64%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/hanabi.webp)Hanabi+2.14 pp](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/silvanna.webp)Silvanna+1.87 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/change.webp)Chang'e+1.65 pp](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/layla.webp)Layla+1.47 pp](https://boostmlbb.ru/en/heroes/layla.html)
 
@@ -136,7 +136,9 @@ Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over t
 
 Brave permafrost warrior, Bane's sworn enemy.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Franco)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=10)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Franco)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Franco)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=10)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

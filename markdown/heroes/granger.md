@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/granger.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/granger.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Грейнджер
 
 Стрелок · Линия золота
-
-**№ 131 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,64%
 
-Разрушительный урон · Добивание · Сложность 30/100
+**№ 131 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Добивание · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/baxia.webp)Баксий+8,54 п. п.](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/floryn.webp)Флорин+5,64 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/harith.webp)Харит+3,85 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/fredrinn.webp)Фредрин+3,39 п. п.](https://boostmlbb.ru/heroes/fredrinn.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Загадочный охотник на демонов, сражающийся вне условностей Церкви Света. В его футляре для скрипки скрыты два оружия, способные поглощать души.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=79)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Granger)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/granger)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=79)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gord.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/gord.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Горд
 
 Маг · Средняя линия
-
-**№ 21 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,55%
 
-Поук · Разрушительный урон · Сложность 30/100
+**№ 21 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Поук · Разрушительный урон · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/cyclops.webp)Циклоп+1,83 п. п.](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли+1,24 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/khufra.webp)Хуфра+1,19 п. п.](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/hylos.webp)Хилос+1,16 п. п.](https://boostmlbb.ru/heroes/hylos.html)
 
@@ -136,7 +136,9 @@ language: ru
 
 Декан школы Икарус в Магической академии.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=23)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gord)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/gord)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=23)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

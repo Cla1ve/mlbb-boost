@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hanabi.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/hanabi.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Ханаби
 
 Стрелок · Линия золота
-
-**№ 20 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 4,27%
 
-Добивание · Урон · Сложность 10/100
+**№ 20 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Добивание · Урон · Сложность 10/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/franco.webp)Франко+2,14 п. п.](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/roger.webp)Роджер+1,98 п. п.](https://boostmlbb.ru/heroes/roger.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа+1,73 п. п.](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/hilda.webp)Хильда+1,66 п. п.](https://boostmlbb.ru/heroes/hilda.html)
 
@@ -137,7 +137,9 @@ language: ru
 
 Лидер Алой фракции в Алой тени, что в Речной долине Кадиа.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Hanabi)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=60)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanabi)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Hanabi)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=60)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

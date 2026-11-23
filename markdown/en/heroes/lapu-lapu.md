@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lapu-lapu.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/lapu-lapu.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Lapu-Lapu
 
 Fighter · EXP Lane
-
-**#109 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.27%
 
-Chase · Burst · Difficulty 60/100
+**#109 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.21%**Picked in **4.15%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/thamuz.webp)Thamuz+2.89 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/sun.webp)Sun+2.34 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/bane.webp)Bane+1.32 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/alucard.webp)Alucard+1.28 pp](https://boostmlbb.ru/en/heroes/alucard.html)
 
@@ -140,7 +140,9 @@ This skill cannot be interrupted.
 
 Hero who defends the Vonetis Islands from outsiders
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=37)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lapu-Lapu)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=37)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

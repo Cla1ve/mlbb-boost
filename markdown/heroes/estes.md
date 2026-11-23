@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/estes.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/estes.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Эстес
 
 Поддержка · Роум
-
-**№ 17 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 46,89%
 
-Регенерация · Защита · Сложность 30/100
+**№ 17 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Регенерация · Защита · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/atlas.webp)Атлас+5,56 п. п.](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/kalea.webp)Калеа+4,51 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/carmilla.webp)Кармилла+3,73 п. п.](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/saber.webp)Сабер+3,46 п. п.](https://boostmlbb.ru/heroes/saber.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Король эльфов, правящий лунными эльфами.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=34)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Estes)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/estes)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=34)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hirara.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/hirara.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Hirara
 
 Assassin · Jungle
-
-**#64 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 67.97%
 
-Chase · Finisher · Difficulty 60/100
+**#64 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Finisher · Difficulty 60/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **57.22%**Picked in **9.18%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/angela.webp)Angela+2.77 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/joy.webp)Joy+1.38 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.30 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/floryn.webp)Floryn+1.10 pp](https://boostmlbb.ru/en/heroes/floryn.html)
 
@@ -128,7 +128,9 @@ After a short delay, she deals damage again at the target location, dealing 2 ti
 
 A geisha ninja from the Scarlet Shadow, armed with dual fans and adorned in crimson maple and the meisen. In her twisted mind, death is the ultimate salvation.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=133)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hirara)
+[Read the full story ↗](https://kazukiofficial.com/stories/hirara)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=133)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

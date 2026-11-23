@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/phoveus.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/phoveus.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Phoveus
 
 Fighter · EXP Lane
-
-**#105 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.80%
 
-Regen · Damage · Difficulty 40/100
+**#105 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · Damage · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **57.45%**Picked in **2.38%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/sun.webp)Sun+1.86 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lukas.webp)Lukas+1.65 pp](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/saber.webp)Saber+1.49 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/badang.webp)Badang+1.33 pp](https://boostmlbb.ru/en/heroes/badang.html)
 
@@ -137,7 +137,9 @@ Infernal Pursuit can only be used when there are enemies with Sinner's Mark near
 
 A former soldier from the border of the Empire who took on the chains of sin to defend his people.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/PhoveusRE)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=106)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Phoveus)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/PhoveusRE)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=106)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

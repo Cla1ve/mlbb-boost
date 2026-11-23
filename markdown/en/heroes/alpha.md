@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/alpha.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/alpha.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Alpha
 
 Fighter · EXP Lane or Jungle
-
-**#96 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.68%
 
-Charge · Damage · Difficulty 10/100
+**#96 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Damage · Difficulty 10/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.96%**Picked in **2.36%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/gatotkaca.webp)Gatotkaca+1.70 pp](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/khaleed.webp)Khaleed+1.64 pp](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/uranus.webp)Uranus+1.58 pp](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/terizla.webp)Terizla+1.54 pp](https://boostmlbb.ru/en/heroes/terizla.html)
 
@@ -138,7 +138,9 @@ Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack)
 
 A pure cyborg made by Laboratory 1718.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/alpha)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=28)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alpha)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/alpha)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=28)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

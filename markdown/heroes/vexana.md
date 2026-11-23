@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/vexana.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/vexana.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Вексана
 
 Маг · Средняя линия
-
-**№ 85 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,15%
 
-Поук · Контроль · Сложность 10/100
+**№ 85 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Поук · Контроль · Сложность 10/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/cyclops.webp)Циклоп+1,94 п. п.](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли+1,53 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/johnson.webp)Джонсон+1,20 п. п.](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/hilda.webp)Хильда+1,20 п. п.](https://boostmlbb.ru/heroes/hilda.html)
 
@@ -132,7 +132,9 @@ language: ru
 
 Юная герцогиня, охраняющая Некрокип.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Vexana)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=38)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vexana)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Vexana)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=38)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

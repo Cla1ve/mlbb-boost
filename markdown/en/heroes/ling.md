@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/ling.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/ling.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Ling
 
 Assassin · Jungle
-
-**#22 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.62%
 
-Chase · Burst · Difficulty 60/100
+**#22 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **59.49%**Picked in **4.51%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/dyrroth.webp)Dyrroth+1.82 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/joy.webp)Joy+1.29 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/odette.webp)Odette+1.23 pp](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/masha.webp)Masha+0.87 pp](https://boostmlbb.ru/en/heroes/masha.html)
 
@@ -138,7 +138,9 @@ Four Tempest of Blades will also appear on the edge of the Sword Field. Ling can
 
 A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermilion Bird's power.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Ling)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=84)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ling)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Ling)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=84)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/kimmy.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Kimmy
 
 Mage and marksman · Gold Lane or Mid Lane
-
-**#98 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.68%
 
-Damage · Magic Damage · Difficulty 60/100
+**#98 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Magic Damage · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.26%**Picked in **10.03%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/estes.webp)Estes+2.38 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/valentina.webp)Valentina+2.22 pp](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/ixia.webp)Ixia+1.62 pp](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/fredrinn.webp)Fredrinn+1.39 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
@@ -140,7 +140,9 @@ After 1s, the field contracts, pulling enemy heroes within it to its center and 
 
 Born into a military family, she earned recognition through her own merit as the bold yet laid-back "tough girl" of the Border Guard.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=71)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kimmy)
+[Read the full story ↗](https://kazukiofficial.com/stories/kimmy)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=71)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

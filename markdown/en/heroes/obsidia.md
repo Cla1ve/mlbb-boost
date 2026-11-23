@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/obsidia.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/obsidia.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Obsidia
 
 Marksman · Gold Lane
-
-**#16 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 48.46%
 
-Finisher · Damage · Difficulty 30/100
+**#16 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Damage · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **57.84%**Picked in **4.41%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+3.57 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+1.23 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/fanny.webp)Fanny+0.86 pp](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/hanzo.webp)Hanzo+0.63 pp](https://boostmlbb.ru/en/heroes/hanzo.html)
 
@@ -139,7 +139,9 @@ While tethered, Obsidia can move through obstacles and use Basic Attacks while m
 
 The ancient Sovereign of the Abyss, risen from ruin, now seeks to slay the God of Darkness and hunt down its Spawns of Decay.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=130)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Obsidia)
+[Read the full story ↗](https://kazukiofficial.com/stories/obsidia)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=130)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

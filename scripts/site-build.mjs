@@ -27,7 +27,7 @@ const HOME_NEWS_SLUG = 'msc-2026-playoff-schedule';
 const newsPosts = JSON.parse(await read('content/news/posts.json')).posts.filter(post => post.status === 'published');
 // Builds, skills and teammates (scripts/heroes-academy.mjs); pages still build without it.
 const academyData = await read('content/heroes-academy.json').then(JSON.parse).catch(() => null);
-config.guides.push(...heroGuides(heroesData, academyData));
+config.guides.push(...heroGuides(heroesData, academyData, JSON.parse(await read('content/hero-story-fallbacks.json'))));
 const data = JSON.parse(await read('content/public-data.json'));
 const changedDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Moscow', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(data.checkedAt));
 const context = vm.createContext({ window: { MLBB_DICT: {} } });
@@ -254,9 +254,16 @@ function guideArticle(guide, lang) {
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
   if (guide.kind === 'hero') {
     const head = guide[lang][4];
-    return `<article class="atlas container"><header class="atlas-head"><nav class="atlas-crumb" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/',lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>
-      <div class="atlas-identity">${head.portrait ? `<img src="/images/heroes/${head.portrait}.webp" width="110" height="110" alt="">` : ''}<div>${head.tier ? `<span class="atlas-tier">${en ? 'Tier' : 'Тир'} ${head.tier}</span>` : ''}<h1>${head.h1}</h1><p>${head.sub}</p></div></div>
-      <div class="atlas-period">${head.context ? `<strong>${head.context}</strong>` : ''}<span>${head.period}</span></div></header>${body}${faqHTML}</article>`;
+    const profile = Boolean(head.portrait);
+    const image = profile ? `<img class="arena-avatar" src="/images/heroes/${head.portrait}.webp" width="96" height="96" alt="" fetchpriority="high">` : '';
+    const metrics = profile ? `<dl class="atlas-metrics">${head.metrics.map(([label, value]) => `<div><dt>${label}</dt><dd>${value}</dd></div>`).join('')}</dl>` : '';
+    return `<article class="atlas container ${profile ? 'arena-profile' : 'arena-directory'}">
+      <nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}"><a href="/heroes/"${!profile ? ' aria-current="page"' : ''}>${en ? 'Tier list' : 'Тир-лист'}</a><a href="/news/">${en ? 'News & guides' : 'Новости и гайды'}</a></nav>
+      <header class="arena-mast">
+        <div class="atlas-identity">${image}<div>${head.tier ? `<span class="atlas-tier" data-grade="${head.tier}">${en ? 'Tier' : 'Тир'} ${head.tier}</span>` : ''}<h1>${head.h1}</h1><p>${head.sub}</p></div></div>
+        <div class="atlas-period">${metrics}${head.context ? `<strong>${head.context}</strong>` : ''}<span>${head.period}</span></div>
+      </header>
+      ${body}${faqHTML}</article>`;
   }
   if (guide.layout === 'landing') {
     const hero = guide[lang][4];
@@ -430,6 +437,10 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (main) main.id = 'main-content';
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
+    if (guideOf(file)?.kind === 'hero') {
+      const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=2';
+      document.head.append(arenaStyle);
+    }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
     const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=32'; document.head.append(interfaceStyle);
     document.querySelector('script[src*="/js/ui.js"]')?.remove();
@@ -442,7 +453,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '45' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '46' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kaja.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/kaja.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Kaja
 
 Support · Roam
-
-**#71 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 15.91%
 
-Initiator · Charge · Difficulty 60/100
+**#71 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Initiator · Charge · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **53.63%**Picked in **10.11%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/kalea.webp)Kalea+4.46 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/aurora.webp)Aurora+2.89 pp](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/faramis.webp)Faramis+2.78 pp](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/saber.webp)Saber+2.63 pp](https://boostmlbb.ru/en/heroes/saber.html)
 
@@ -139,7 +139,9 @@ While active, Kaja can drag the lasso, shrinking its radius and pulling enemies 
 
 Leader of Nazar who guards the Celestial Palace.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=62)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kaja)
+[Read the full story ↗](https://kazukiofficial.com/stories/kaja)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=62)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

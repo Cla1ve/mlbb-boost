@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/paquito.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/paquito.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Paquito
 
 Fighter and assassin · EXP Lane or Jungle
-
-**#65 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 18.13%
 
-Chase · Damage · Difficulty 90/100
+**#65 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 90/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **57.92%**Picked in **2.97%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/alice.webp)Alice+1.22 pp](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/bane.webp)Bane+1.10 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun+0.93 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/natan.webp)Natan+0.80 pp](https://boostmlbb.ru/en/heroes/natan.html)
 
@@ -138,7 +138,9 @@ Champ Stance: After knocking enemies back to the destination, Paquito launches a
 
 A mortal hero who fights demons with nothing but his fists—and the iron will to protect his tribe.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Paquito)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=103)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Paquito)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Paquito)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=103)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

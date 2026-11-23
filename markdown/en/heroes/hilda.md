@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hilda.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/hilda.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Hilda
 
 Tank and fighter · EXP Lane or Roam
-
-**#43 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 12.97%
 
-Damage · Regen · Difficulty 10/100
+**#43 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Regen · Difficulty 10/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.16%**Picked in **6.77%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/silvanna.webp)Silvanna+2.65 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/zilong.webp)Zilong+2.26 pp](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/minsitthar.webp)Minsitthar+2.09 pp](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/vale.webp)Vale+1.92 pp](https://boostmlbb.ru/en/heroes/vale.html)
 
@@ -137,7 +137,9 @@ Each stack of Wilderness Mark increases Power of Wildness's damage by 2.5% of th
 
 Inheritor of the Power of the Megalith.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Hilda)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=35)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hilda)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Hilda)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=35)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

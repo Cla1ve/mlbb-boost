@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/cici.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/cici.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Чичи
 
 Боец · Линия опыта
-
-**№ 81 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,16%
 
-Урон · Регенерация · Сложность 20/100
+**№ 81 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Урон · Регенерация · Сложность 20/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/alice.webp)Алиса+2,27 п. п.](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/sun.webp)Сан+2,21 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/bane.webp)Бэйн+1,56 п. п.](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/alpha.webp)Альфа+1,47 п. п.](https://boostmlbb.ru/heroes/alpha.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Веселая артистка, которая излучает радость и творит чудеса везде, где появляется.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Cici)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=123)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cici)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Cici)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=123)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

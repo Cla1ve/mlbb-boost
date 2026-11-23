@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/zhuxin.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/zhuxin.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Чжусинь
 
 Маг · Средняя линия
-
-**№ 77 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,42%
 
-Урон · Массовый контроль · Сложность 40/100
+**№ 77 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Урон · Массовый контроль · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/kagura.webp)Кагура+9,48 п. п.](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/yve.webp)Ив+9,26 п. п.](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/odette.webp)Одетта+8,80 п. п.](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/valentina.webp)Валентина+7,91 п. п.](https://boostmlbb.ru/heroes/valentina.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Таинственная девушка, управляющая тлеющими бабочками с помощью Фонаря духов.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Zhuxin)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=125)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhuxin)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zhuxin)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=125)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -79,7 +79,7 @@
     const feed = document.querySelector('[data-news-feed]');
     const buttons = Array.from(document.querySelectorAll('[data-news-filter]'));
     const controls = document.querySelector('[data-news-controls]');
-    const select = document.querySelector('[data-news-filter-select]');
+    const query = document.querySelector('[data-news-query]');
     const cards = Array.from(document.querySelectorAll('[data-news-card]'));
     const status = document.querySelector('[data-news-status]');
     const empty = document.querySelector('[data-news-filter-empty]');
@@ -103,9 +103,12 @@
     const availableFilters = new Set(buttons.map((button) => button.dataset.newsFilter));
     let activeFilter = 'all';
     let currentPage = 1;
+    const normalize = text => text.toLowerCase().replaceAll('ё', 'е').trim();
+    const searchable = new Map(cards.map(card => [card, normalize(card.textContent.replace(/\s+/g, ' '))]));
 
     const readUrlState = () => {
       const params = new URL(window.location.href).searchParams;
+      if (query) query.value = params.get('q') || '';
       const requestedFilter = params.get('category') || 'all';
       const rawPage = params.get('page') || '1';
       const requestedPage = /^[1-9]\d*$/.test(rawPage) ? Number(rawPage) : 1;
@@ -117,6 +120,8 @@
       const url = new URL(window.location.href);
       if (activeFilter === 'all') url.searchParams.delete('category');
       else url.searchParams.set('category', activeFilter);
+      if (query?.value.trim()) url.searchParams.set('q', query.value.trim());
+      else url.searchParams.delete('q');
       if (currentPage > 1) url.searchParams.set('page', String(currentPage));
       else url.searchParams.delete('page');
       window.history[mode === 'push' ? 'pushState' : 'replaceState']({}, '', url);
@@ -176,8 +181,9 @@
     };
 
     const render = ({ historyMode = null, shouldScroll = false } = {}) => {
-      const matching = cards.filter(
-        (card) => activeFilter === 'all' || card.dataset.category === activeFilter
+      const term = normalize(query?.value || '');
+      const matching = cards.filter(card =>
+        (activeFilter === 'all' || card.dataset.category === activeFilter) && searchable.get(card).includes(term)
       );
       const totalPages = Math.max(1, Math.ceil(matching.length / pageSize));
       currentPage = Math.min(Math.max(currentPage, 1), totalPages);
@@ -196,7 +202,6 @@
         button.classList.toggle('is-active', active);
         button.setAttribute('aria-pressed', String(active));
       });
-      if (select) select.value = activeFilter;
       if (empty) empty.hidden = matching.length > 0;
       renderPagination(matching.length ? totalPages : 0);
 
@@ -223,11 +228,9 @@
         render({ historyMode: 'push' });
       });
     });
-    select?.addEventListener('change', () => {
-      if (select.value === activeFilter && currentPage === 1) return;
-      activeFilter = select.value;
+    query?.addEventListener('input', () => {
       currentPage = 1;
-      render({ historyMode: 'push' });
+      render({ historyMode: 'replace' });
     });
     pagination?.addEventListener('click', (event) => {
       if (!(event.target instanceof Element)) return;
@@ -248,6 +251,32 @@
 
     readUrlState();
     render({ historyMode: 'replace' });
+  }
+
+  function initArticleTools() {
+    for (const button of document.querySelectorAll('[data-copy-symbol]')) {
+      if (!navigator.clipboard?.writeText) continue;
+      button.hidden = false;
+      button.addEventListener('click', async () => {
+        const status = button.parentElement.querySelector('[role="status"]');
+        try {
+          await navigator.clipboard.writeText(button.dataset.copySymbol);
+          status.textContent = locale === 'ru' ? 'Символ скопирован' : 'Character copied';
+          button.textContent = locale === 'ru' ? 'Скопировано' : 'Copied';
+        } catch {
+          status.classList.remove('arena-sr');
+          status.textContent = locale === 'ru' ? 'Выделите символ вручную.' : 'Select the character manually.';
+        }
+      });
+    }
+    for (const picker of document.querySelectorAll('[data-build-picker]')) {
+      const selector = picker.closest('.journal-build-selector');
+      const cards = selector.nextElementSibling.querySelectorAll('[data-build-name]');
+      selector.hidden = false;
+      picker.addEventListener('change', () => {
+        for (const card of cards) card.hidden = Boolean(picker.value) && card.dataset.buildName !== picker.value;
+      });
+    }
   }
 
   function initMobileNavigation() {
@@ -499,6 +528,7 @@
     loadAnalytics();
     initMobileNavigation();
     initNewsListing();
+    initArticleTools();
     initReadingProgress();
     initTableOfContents();
     initCounterMatrices();

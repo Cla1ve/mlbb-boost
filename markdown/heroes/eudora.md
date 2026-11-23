@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/eudora.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/eudora.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Эйдора
 
 Маг · Средняя линия
-
-**№ 53 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 47,84%
 
-Контроль · Разрушительный урон · Сложность 20/100
+**№ 53 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Контроль · Разрушительный урон · Сложность 20/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/zhuxin.webp)Чжусинь+4,02 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Циклоп+1,84 п. п.](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Флорин+1,74 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/harley.webp)Харли+1,62 п. п.](https://boostmlbb.ru/heroes/harley.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Эльфийская волшебница, чьи пальцы повелевают молниями, разрушает оковы предрассудков и озаряет путь к будущему.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Eudora)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=15)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Eudora)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Eudora)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=15)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

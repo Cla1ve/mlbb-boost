@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/valir.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/valir.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Валир
 
 Маг · Средняя линия
-
-**№ 7 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 3,78%
 
-Урон · Защита · Сложность 20/100
+**№ 7 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Урон · Защита · Сложность 20/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/natalia.webp)Наталья+1,48 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/hanzo.webp)Ханзо+1,43 п. п.](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/harley.webp)Харли+1,35 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/zhuxin.webp)Чжусинь+1,32 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)
 
@@ -141,7 +141,9 @@ language: ru
 
 Наследник Огненной глотки, маг огня.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=57)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valir)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/valir)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=57)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

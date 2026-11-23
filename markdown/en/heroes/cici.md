@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/cici.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/cici.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Cici
 
 Fighter · EXP Lane
-
-**#81 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.16%
 
-Damage · Regen · Difficulty 20/100
+**#81 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Regen · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.72%**Picked in **2.62%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/alice.webp)Alice+2.27 pp](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/sun.webp)Sun+2.21 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/bane.webp)Bane+1.56 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/alpha.webp)Alpha+1.47 pp](https://boostmlbb.ru/en/heroes/alpha.html)
 
@@ -138,7 +138,9 @@ During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the 
 
 A cheerful performer who spreads fun and wonderment wherever she goes.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Cici)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=123)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cici)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Cici)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=123)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

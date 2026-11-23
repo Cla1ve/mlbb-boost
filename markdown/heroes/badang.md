@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/badang.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/badang.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Баданг
 
 Боец · Линия опыта или роум
-
-**№ 58 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 3,69%
 
-Рывок · Разрушительный урон · Сложность 30/100
+**№ 58 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Рывок · Разрушительный урон · Сложность 30/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/saber.webp)Сабер+1,55 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/phoveus.webp)Фовиус+1,33 п. п.](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/silvanna.webp)Сильвана+1,25 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/aldous.webp)Алдос+1,23 п. п.](https://boostmlbb.ru/heroes/aldous.html)
 
@@ -135,7 +135,9 @@ language: ru
 
 Защитник острова Солари, обладающий невероятной мощью морского зверя.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=77)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Badang)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/badang)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=77)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

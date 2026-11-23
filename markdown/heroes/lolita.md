@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lolita.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/lolita.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Лолита
 
 Танк и поддержка · Роум
-
-**№ 14 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,20%
 
-Защита · Массовый контроль · Сложность 50/100
+**№ 14 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Защита · Массовый контроль · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/saber.webp)Сабер+3,05 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт+2,22 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/silvanna.webp)Сильвана+2,02 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/jawhead.webp)Кусака+1,96 п. п.](https://boostmlbb.ru/heroes/jawhead.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Член Рейнджеров Эрудитио и защитница мастерской Левиафана.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Lolita)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=20)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lolita)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lolita)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=20)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

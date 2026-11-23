@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/fredrinn.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/fredrinn.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Fredrinn
 
 Tank and fighter · Jungle
-
-**#40 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.59%
 
-Damage · Chase · Difficulty 60/100
+**#40 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Chase · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **60.49%**Picked in **3.78%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/diggie.webp)Diggie+4.03 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/granger.webp)Granger+3.39 pp](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/angela.webp)Angela+2.97 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/beatrix.webp)Beatrix+2.20 pp](https://boostmlbb.ru/en/heroes/beatrix.html)
 
@@ -142,7 +142,9 @@ This skill costs 3 Combo Points.
 
 A master treasure appraiser in Los Pecados accumulating wealth and searching for his lost friend.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Fredrinn)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=117)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fredrinn)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Fredrinn)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=117)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

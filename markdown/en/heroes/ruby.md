@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/ruby.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/ruby.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Ruby
 
 Fighter · EXP Lane
-
-**#88 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.31%
 
-Crowd Control · Regen · Difficulty 40/100
+**#88 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Crowd Control · Regen · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.65%**Picked in **5.94%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/faramis.webp)Faramis+1.92 pp](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/bane.webp)Bane+1.79 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun+1.67 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/estes.webp)Estes+1.33 pp](https://boostmlbb.ru/en/heroes/estes.html)
 
@@ -136,7 +136,9 @@ Ruby sweeps her scythe in the target direction, dealing 600 (+200% Total Physica
 
 A girl who grew up with Roger's help.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=29)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ruby)
+[Read the full story ↗](https://kazukiofficial.com/stories/ruby)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=29)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

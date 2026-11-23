@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/uranus.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/uranus.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Uranus
 
 Tank · EXP Lane
-
-**#83 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.33%
 
-Regen · · Difficulty 20/100
+**#83 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.37%**Picked in **2.24%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/angela.webp)Angela+3.52 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/alpha.webp)Alpha+1.58 pp](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/bane.webp)Bane+1.50 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun+1.31 pp](https://boostmlbb.ru/en/heroes/sun.html)
 
@@ -139,7 +139,9 @@ Uranus directly gains 5 stacks of Radiance, increasing shields received and HP R
 
 Guardian made from lightning and air, guards the Celestial Palace.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=59)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Uranus)
+[Read the full story ↗](https://kazukiofficial.com/stories/uranus)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=59)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

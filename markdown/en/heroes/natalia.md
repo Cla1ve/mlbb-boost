@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/natalia.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/natalia.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Natalia
 
 Assassin · Jungle or Roam
-
-**#44 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 2.03%
 
-Chase · Finisher · Difficulty 90/100
+**#44 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Finisher · Difficulty 90/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **60.31%**Picked in **7.67%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/floryn.webp)Floryn+3.17 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/khufra.webp)Khufra+2.93 pp](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/akai.webp)Akai+2.74 pp](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/hylos.webp)Hylos+2.73 pp](https://boostmlbb.ru/en/heroes/hylos.html)
 
@@ -139,7 +139,9 @@ Active: Natalia immediately enters the Assassin Instinct state. She can store up
 
 An assassin exiled by the Empire.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=24)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia)
+[Read the full story ↗](https://kazukiofficial.com/stories/natalia)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=24)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/valentina.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/valentina.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Valentina
 
 Mage · Mid Lane
-
-**#128 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.16%
 
-Burst · Finisher · Difficulty 80/100
+**#128 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Finisher · Difficulty 80/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **51.00%**Picked in **7.85%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+7.91 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/yve.webp)Yve+5.63 pp](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/granger.webp)Granger+2.92 pp](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/lylia.webp)Lylia+2.36 pp](https://boostmlbb.ru/en/heroes/lylia.html)
 
@@ -140,7 +140,9 @@ If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Powe
 
 Former head of House Paxley who'd stop at nothing to revive her lover.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Valentina)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=110)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valentina)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Valentina)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=110)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/zhask.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/zhask.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Zhask
 
 Mage · Mid Lane
-
-**#23 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.42%
 
-Chase · Damage · Difficulty 70/100
+**#23 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 70/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.52%**Picked in **5.60%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harley.webp)Harley+2.55 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/cyclops.webp)Cyclops+2.26 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/natalia.webp)Natalia+1.82 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/johnson.webp)Johnson+1.82 pp](https://boostmlbb.ru/en/heroes/johnson.html)
 
@@ -148,7 +148,9 @@ Use Again: Zhask immediately gets off the Nightmaric Spawn and loses enhancement
 
 King of the Swarm who disrupts the balance of the universe.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Zhask)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=50)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhask)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Zhask)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=50)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

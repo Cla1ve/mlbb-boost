@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/xavier.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/xavier.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Xavier
 
 Mage · Mid Lane
-
-**#32 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.40%
 
-Damage · Burst · Difficulty 50/100
+**#32 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Burst · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.58%**Picked in **6.53%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+2.48 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Cyclops+2.03 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/kalea.webp)Kalea+1.70 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/khufra.webp)Khufra+1.64 pp](https://boostmlbb.ru/en/heroes/khufra.html)
 
@@ -139,7 +139,9 @@ Once cast, he also directly enters the Transcendence state and resets the state'
 
 Former member of the Knights of Light who's determined to forge a path of his own.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Xavier)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=115)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Xavier)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Xavier)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=115)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

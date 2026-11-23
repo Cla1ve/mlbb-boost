@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/odette.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/odette.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Odette
 
 Mage · Mid Lane
-
-**#75 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.27%
 
-Burst · Poke · Difficulty 30/100
+**#75 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Poke · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **52.27%**Picked in **5.57%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+8.80 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Chip+5.01 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/mathilda.webp)Mathilda+2.51 pp](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/kaja.webp)Kaja+2.34 pp](https://boostmlbb.ru/en/heroes/kaja.html)
 
@@ -138,7 +138,9 @@ Use again to cancel. Only high-level control effects can interrupt this skill.
 
 Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Odette)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=46)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Odette)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Odette)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=46)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/argus.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Argus
 
 Fighter · EXP Lane
-
-**#3 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.98%
 
-Charge · Burst · Difficulty 60/100
+**#3 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Burst · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **68.82%**Picked in **2.66%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/alice.webp)Alice+2.08 pp](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/gloo.webp)Gloo+2.02 pp](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khaleed.webp)Khaleed+1.60 pp](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/masha.webp)Masha+1.35 pp](https://boostmlbb.ru/en/heroes/masha.html)
 
@@ -140,7 +140,9 @@ Passive: If Argus takes fatal damage while Eternal Evil is not on cooldown, he r
 
 The angel who fell from light into darkness.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=45)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Argus)
+[Read the full story ↗](https://kazukiofficial.com/stories/argus)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=45)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

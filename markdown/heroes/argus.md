@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/argus.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/argus.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Аргус
 
 Боец · Линия опыта
-
-**№ 3 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,98%
 
-Рывок · Разрушительный урон · Сложность 60/100
+**№ 3 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Рывок · Разрушительный урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/alice.webp)Алиса+2,08 п. п.](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/gloo.webp)Глу+2,02 п. п.](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khaleed.webp)Халид+1,60 п. п.](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/masha.webp)Маша+1,35 п. п.](https://boostmlbb.ru/heroes/masha.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Ангел, оставивший свет и падший во тьму.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=45)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Argus)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/argus)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=45)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

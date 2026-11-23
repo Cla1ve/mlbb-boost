@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/guinevere.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/guinevere.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Гвиневра
 
 Боец · Линия опыта
-
-**№ 39 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,85%
 
-Разрушительный урон · Магический урон · Сложность 40/100
+**№ 39 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Магический урон · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/sun.webp)Сан+1,86 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/lukas.webp)Лукас+1,66 п. п.](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/masha.webp)Маша+1,66 п. п.](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/thamuz.webp)Тамуз+1,65 п. п.](https://boostmlbb.ru/heroes/thamuz.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Девушка из семьи аристократов со странным характером, любимица старшего брата Ланселота.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=80)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Guinevere)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/guinevere)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=80)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

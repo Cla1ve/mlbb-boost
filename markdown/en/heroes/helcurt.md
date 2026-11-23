@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/helcurt.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/helcurt.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Helcurt
 
 Assassin · Jungle or Roam
-
-**#111 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 4.74%
 
-Push · Burst · Difficulty 40/100
+**#111 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Push · Burst · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **51.89%**Picked in **5.05%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/akai.webp)Akai+2.70 pp](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/gloo.webp)Gloo+2.63 pp](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/belerick.webp)Belerick+2.62 pp](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/khufra.webp)Khufra+2.60 pp](https://boostmlbb.ru/en/heroes/khufra.html)
 
@@ -141,7 +141,9 @@ The Dark Night makes it easier for Helcurt to leave enemies' sight range.
 
 The nightmare of the Abyss who's willing to betray anyone in order to survive.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/HelcurtRE)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=51)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Helcurt)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/HelcurtRE)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=51)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

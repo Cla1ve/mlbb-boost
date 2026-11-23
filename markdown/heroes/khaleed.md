@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/khaleed.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/khaleed.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Халид
 
 Боец · Линия опыта или роум
-
-**№ 54 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,09%
 
-Урон · Регенерация · Сложность 50/100
+**№ 54 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Урон · Регенерация · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/saber.webp)Сабер+2,45 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/bane.webp)Бэйн+2,09 п. п.](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/silvanna.webp)Сильвана+2,00 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/minsitthar.webp)Минситтар+1,93 п. п.](https://boostmlbb.ru/heroes/minsitthar.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Бесстрашный лидер клана, ходящий по пескам.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Khaleed)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=98)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Khaleed)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Khaleed)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=98)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

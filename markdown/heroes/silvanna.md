@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/silvanna.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/silvanna.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Сильвана
 
 Боец · Линия опыта
-
-**№ 36 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 2,03%
 
-Инициатор · Магический урон · Сложность 30/100
+**№ 36 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Инициатор · Магический урон · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/hilda.webp)Хильда+2,65 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/belerick.webp)Белерик+2,17 п. п.](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/hylos.webp)Хилос+2,16 п. п.](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/lolita.webp)Лолита+2,02 п. п.](https://boostmlbb.ru/heroes/lolita.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Принцесса Монийской империи.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=90)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Silvanna)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/silvanna)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=90)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

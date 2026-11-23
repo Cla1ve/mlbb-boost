@@ -117,7 +117,7 @@ VPN защита, никаких банов за всю историю рабо�
 
 ## MSC 2026 завершён: Team Spirit — чемпион, все результаты плей-офф
 
-Team Spirit стала первым неазиатским чемпионом MSC после финала 4:3 с Yangon Galacticos. Здесь — все восемь серий плей-офф, призовые, MVP и зрительские итоги.
+Team Spirit выиграла финал у Yangon Galacticos со счётом 4:3. MVP турнира стал KidBomba.
 
 Открыть новость](https://boostmlbb.ru/news/msc-2026-playoff-schedule/)
 

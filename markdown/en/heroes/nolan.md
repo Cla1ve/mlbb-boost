@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/nolan.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Nolan
 
 Assassin · Jungle
-
-**#72 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 16.30%
 
-Chase · Burst · Difficulty 60/100
+**#72 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **51.81%**Picked in **13.64%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/joy.webp)Joy+2.29 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/yve.webp)Yve+1.91 pp](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Zhuxin+1.84 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Valentina+1.56 pp](https://boostmlbb.ru/en/heroes/valentina.html)
 
@@ -136,7 +136,9 @@ Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical A
 
 A scholar that wanders the universe with split souls to save his daughter.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Nolan)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=122)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Nolan)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=122)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

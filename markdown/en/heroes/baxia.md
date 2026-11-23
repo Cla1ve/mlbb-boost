@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/baxia.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/baxia.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Baxia
 
 Tank · Jungle or Roam
-
-**#124 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.10%
 
-Support · Damage · Difficulty 30/100
+**#124 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Support · Damage · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.45%**Picked in **3.25%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/diggie.webp)Diggie+11.69 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/granger.webp)Granger+8.54 pp](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/floryn.webp)Floryn+7.06 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/ixia.webp)Ixia+3.93 pp](https://boostmlbb.ru/en/heroes/ixia.html)
 
@@ -139,7 +139,9 @@ For the duration, the Damage Reduction effect from Baxia Mark is increased to 20
 
 The Mystic Tortoise of the Oriental Fighters, a shield-wielding, unstoppable wheel of flames.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Baxia)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=87)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Baxia)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Baxia)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=87)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

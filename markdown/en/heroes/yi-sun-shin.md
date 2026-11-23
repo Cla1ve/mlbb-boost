@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yi-sun-shin.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/yi-sun-shin.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Yi Sun-shin
 
 Assassin and marksman · Jungle
-
-**#89 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 2.56%
 
-Finisher · Chase · Difficulty 60/100
+**#89 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Chase · Difficulty 60/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **53.53%**Picked in **8.78%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/floryn.webp)Floryn+2.49 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/joy.webp)Joy+1.73 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/harith.webp)Harith+1.18 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/odette.webp)Odette+1.16 pp](https://boostmlbb.ru/en/heroes/odette.html)
 
@@ -137,7 +137,9 @@ Casting this skill immediately triggers Weapon Mastery.
 
 Leader of the City of the Dragon Fleet.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Yi_Sunshin)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=30)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yi_Sun-shin)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yi_Sunshin)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=30)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

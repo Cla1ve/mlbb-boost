@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/clint.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/clint.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Клинт
 
 Стрелок · Линия золота
-
-**№ 55 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,61%
 
-Добивание · Разрушительный урон · Сложность 60/100
+**№ 55 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Добивание · Разрушительный урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harith.webp)Харит+4,78 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа+2,21 п. п.](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Роджер+1,78 п. п.](https://boostmlbb.ru/heroes/roger.html)[![](/images/heroes/masha.webp)Маша+1,21 п. п.](https://boostmlbb.ru/heroes/masha.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Бесстрашный стрелок и шериф, твердо и непоколебимо вершащий правосудие среди песков.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Clint)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=13)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Clint)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Clint)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=13)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/franco.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/franco.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Франко
 
 Танк · Роум
-
-**№ 133 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 3,11%
 
-Инициатор · Контроль · Сложность 20/100
+**№ 133 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Инициатор · Контроль · Сложность 20/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/hanabi.webp)Ханаби+2,14 п. п.](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/silvanna.webp)Сильвана+1,87 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/change.webp)Чан'Э+1,65 п. п.](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/layla.webp)Лейла+1,47 п. п.](https://boostmlbb.ru/heroes/layla.html)
 
@@ -136,7 +136,9 @@ language: ru
 
 Отважный северный воин, заклятый враг Бэйна.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Franco)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=10)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Franco)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Franco)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=10)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

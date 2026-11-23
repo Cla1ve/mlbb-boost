@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/thamuz.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/thamuz.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Thamuz
 
 Fighter · EXP Lane or Jungle
-
-**#92 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.59%
 
-Chase · Damage · Difficulty 60/100
+**#92 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.94%**Picked in **15.49%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/lapu-lapu.webp)Lapu-Lapu+2.89 pp](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/yu-zhong.webp)Yu Zhong+2.57 pp](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/benedetta.webp)Benedetta+2.18 pp](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/guinevere.webp)Guinevere+1.65 pp](https://boostmlbb.ru/en/heroes/guinevere.html)
 
@@ -137,7 +137,9 @@ Meanwhile, Thamuz gains 800 (+50% Extra Max HP) , immediately healing for the sa
 
 The lord of the Fire Demons who seeks to reignite the flames of the Abyss through war and violence.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Thamuz)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=72)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Thamuz)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Thamuz)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=72)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

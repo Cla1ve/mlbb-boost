@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/julian.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/julian.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Julian
 
 Fighter and assassin · EXP Lane or Jungle
-
-**#69 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.78%
 
-Chase · Magic Damage · Difficulty 50/100
+**#69 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Magic Damage · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **52.66%**Picked in **6.55%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/gloo.webp)Gloo+1.68 pp](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/atlas.webp)Atlas+1.68 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/tigreal.webp)Tigreal+1.65 pp](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/benedetta.webp)Benedetta+1.56 pp](https://boostmlbb.ru/en/heroes/benedetta.html)
 
@@ -138,7 +138,9 @@ Julian casts chains at the target location, dealing 300 (+100% Total Magic Power
 
 A Raven assassin of the Church of Light, a young boy who's in search of his home…
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Julian)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=116)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Julian)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Julian)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=116)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

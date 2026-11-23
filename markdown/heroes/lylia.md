@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lylia.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/lylia.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Лилия
 
 Маг · Средняя линия
-
-**№ 82 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,39%
 
-Пуш · Урон · Сложность 60/100
+**№ 82 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Пуш · Урон · Сложность 60/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/zhuxin.webp)Чжусинь+3,51 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/harley.webp)Харли+2,40 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/valentina.webp)Валентина+2,36 п. п.](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/natalia.webp)Наталья+1,31 п. п.](https://boostmlbb.ru/heroes/natalia.html)
 
@@ -137,7 +137,9 @@ language: ru
 
 Веселая и остроумная маленькая ведьма.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=86)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lylia)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/lylia)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=86)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

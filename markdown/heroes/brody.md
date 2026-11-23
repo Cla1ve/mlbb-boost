@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/brody.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/brody.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Броуди
 
 Стрелок · Линия золота
-
-**№ 66 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,48%
 
-Разрушительный урон · Добивание · Сложность 50/100
+**№ 66 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Добивание · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harith.webp)Харит+4,52 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/floryn.webp)Флорин+1,82 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/estes.webp)Эстес+1,71 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа+1,58 п. п.](https://boostmlbb.ru/heroes/popol-and-kupa.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Странник из пограничья, чья правая рука пропитана тьмой, обращает свою боль в стрелы, разящие захватчиков; "Одинокая звезда", пронзающая ночи Бесплодных земель.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Brody)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=100)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Brody)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Brody)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=100)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

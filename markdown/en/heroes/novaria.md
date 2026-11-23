@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/novaria.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/novaria.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Novaria
 
 Mage · Mid Lane
-
-**#78 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.89%
 
-Burst · Poke · Difficulty 70/100
+**#78 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Poke · Difficulty 70/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **54.03%**Picked in **3.81%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cyclops.webp)Cyclops+2.63 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Khufra+1.28 pp](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/harley.webp)Harley+1.23 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/akai.webp)Akai+1.15 pp](https://boostmlbb.ru/en/heroes/akai.html)
 
@@ -132,7 +132,9 @@ Novaria scatters Astral Echo in the target direction, briefly slowing enemy hero
 
 The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Novaria)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=119)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Novaria)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Novaria)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=119)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

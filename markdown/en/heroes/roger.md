@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/roger.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Roger
 
 Fighter and marksman · Jungle
-
-**#103 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.09%
 
-Finisher · Burst · Difficulty 60/100
+**#103 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Burst · Difficulty 60/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **55.25%**Picked in **13.81%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/layla.webp)Layla+2.19 pp](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/ixia.webp)Ixia+2.16 pp](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/hanabi.webp)Hanabi+1.98 pp](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/lesley.webp)Lesley+1.94 pp](https://boostmlbb.ru/en/heroes/lesley.html)
 
@@ -136,7 +136,9 @@ Passive: In wolf form, Roger gains 20 and 25 Movement Speed.
 
 A werewolf wandering in the dark forest longing for revenge.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=39)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Roger)
+[Read the full story ↗](https://kazukiofficial.com/stories/roger)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=39)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

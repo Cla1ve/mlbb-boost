@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/masha.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/masha.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Маша
 
 Танк и боец · Линия опыта
-
-**№ 1 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 40,89%
 
-Пуш · Урон · Сложность 30/100
+**№ 1 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Пуш · Урон · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/bane.webp)Бэйн+1,86 п. п.](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/guinevere.webp)Гвиневра+1,66 п. п.](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/x-borg.webp)Икс.Борг+1,60 п. п.](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/saber.webp)Сабер+1,52 п. п.](https://boostmlbb.ru/heroes/saber.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Страж диких медведей.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Masha)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=88)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Masha)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Masha)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=88)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

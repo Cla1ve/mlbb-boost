@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/sun.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/sun.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Сан
 
 Боец · Линия опыта или лес
-
-**№ 11 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 35,31%
 
-Пуш · Урон · Сложность 50/100
+**№ 11 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Пуш · Урон · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/balmond.webp)Бальмонд+2,35 п. п.](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу+2,34 п. п.](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/x-borg.webp)Икс.Борг+2,34 п. п.](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/terizla.webp)Тэризла+2,32 п. п.](https://boostmlbb.ru/heroes/terizla.html)
 
@@ -146,7 +146,9 @@ language: ru
 
 Бессмертный Король обезьян, решительный и непреклонный, словно гора.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=27)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sun)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/sun)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=27)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

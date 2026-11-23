@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gusion.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/gusion.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Госсен
 
 Убийца · Средняя линия или лес
-
-**№ 99 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 3,39%
 
-Разрушительный урон · Магический урон · Сложность 80/100
+**№ 99 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Магический урон · Сложность 80/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/change.webp)Чан'Э+1,39 п. п.](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/khufra.webp)Хуфра+1,26 п. п.](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/lylia.webp)Лилия+1,26 п. п.](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/zetian.webp)Цзэтянь+1,22 п. п.](https://boostmlbb.ru/heroes/zetian.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Мятежный сын дома Пэксли.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Gusion)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=56)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gusion)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Gusion)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=56)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

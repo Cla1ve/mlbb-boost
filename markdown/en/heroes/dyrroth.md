@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/dyrroth.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/dyrroth.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Dyrroth
 
 Fighter · EXP Lane or Jungle
-
-**#86 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.66%
 
-Charge · Burst · Difficulty 50/100
+**#86 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Burst · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **60.95%**Picked in **1.45%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/sun.webp)Sun+1.98 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lolita.webp)Lolita+1.95 pp](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/minotaur.webp)Minotaur+1.85 pp](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/ling.webp)Ling+1.82 pp](https://boostmlbb.ru/en/heroes/ling.html)
 
@@ -143,7 +143,9 @@ Damage dealt to non-hero enemies is capped at 1500.
 
 Once a noble prince of the Moniyan Empire, he was abducted by Alice, the Queen of the Blood Demons, and transformed into the Prince of the Abyss.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=85)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Dyrroth)
+[Read the full story ↗](https://kazukiofficial.com/stories/dyrroth)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=85)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

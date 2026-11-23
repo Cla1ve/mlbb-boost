@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/bane.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/bane.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Бэйн
 
 Боец и маг · Линия опыта или лес
-
-**№ 34 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,18%
 
-Пуш · Разрушительный урон · Сложность 40/100
+**№ 34 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Пуш · Разрушительный урон · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/sora.webp)Сора+2,43 п. п.](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/yu-zhong.webp)Чонг+2,36 п. п.](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/arlott.webp)Арлотт+2,30 п. п.](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/khaleed.webp)Халид+2,09 п. п.](https://boostmlbb.ru/heroes/khaleed.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Жестокий капитан пиратов, заклятый враг Франко.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Bane)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=11)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Bane)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Bane)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=11)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

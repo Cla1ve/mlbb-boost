@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/silvanna.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/silvanna.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Silvanna
 
 Fighter · EXP Lane
-
-**#36 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 2.03%
 
-Initiator · Magic Damage · Difficulty 30/100
+**#36 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Initiator · Magic Damage · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.57%**Picked in **3.42%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/hilda.webp)Hilda+2.65 pp](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/belerick.webp)Belerick+2.17 pp](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/hylos.webp)Hylos+2.16 pp](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/lolita.webp)Lolita+2.02 pp](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -140,7 +140,9 @@ Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
 Princess of the Moniyan Empire and queen regent.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=90)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Silvanna)
+[Read the full story ↗](https://kazukiofficial.com/stories/silvanna)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=90)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

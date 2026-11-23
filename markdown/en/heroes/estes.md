@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/estes.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/estes.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Estes
 
 Support · Roam
-
-**#17 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 46.89%
 
-Regen · Guard · Difficulty 30/100
+**#17 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · Guard · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **59.03%**Picked in **3.89%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/atlas.webp)Atlas+5.56 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/kalea.webp)Kalea+4.51 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/carmilla.webp)Carmilla+3.73 pp](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/saber.webp)Saber+3.46 pp](https://boostmlbb.ru/en/heroes/saber.html)
 
@@ -139,7 +139,9 @@ Enhanced Moonlight Immersion: Doubles the Instant Basic Healing and Increase, an
 
 Elf King who rules the Moon Elves.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=34)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Estes)
+[Read the full story ↗](https://kazukiofficial.com/stories/estes)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=34)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

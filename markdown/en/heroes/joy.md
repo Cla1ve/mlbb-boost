@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/joy.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/joy.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Joy
 
 Assassin · Jungle
-
-**#97 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.19%
 
-Chase · Damage · Difficulty 90/100
+**#97 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 90/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.92%**Picked in **16.65%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/leomord.webp)Leomord+3.38 pp](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/nolan.webp)Nolan+2.29 pp](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/fredrinn.webp)Fredrinn+2.17 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/fanny.webp)Fanny+2.15 pp](https://boostmlbb.ru/en/heroes/fanny.html)
 
@@ -137,7 +137,9 @@ This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat
 
 The "Child of Miracle" who returned to the Leonins after years of wandering.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Joy)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=118)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Joy)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Joy)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=118)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

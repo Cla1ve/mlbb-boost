@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/sora.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/sora.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Sora
 
 Fighter and assassin · EXP Lane
-
-**#79 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 4.30%
 
-Charge · Burst · Difficulty 50/100
+**#79 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Burst · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.24%**Picked in **9.04%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/bane.webp)Bane+2.43 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun+2.00 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/floryn.webp)Floryn+1.76 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/estes.webp)Estes+1.61 pp](https://boostmlbb.ru/en/heroes/estes.html)
 
@@ -138,7 +138,9 @@ Swipe right to ascend into Torrent for 10s. Sora gains Control Immunity. After a
 
 A pure and free-spirited boy with unshakeable resolve, drifting across the golden sands.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=131)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Sora)
+[Read the full story ↗](https://kazukiofficial.com/stories/sora)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=131)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

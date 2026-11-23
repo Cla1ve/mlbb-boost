@@ -1463,14 +1463,15 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/legal.css">
   <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
-  <link rel="stylesheet" href="/styles/ui.css?v=32">`;
+  <link rel="stylesheet" href="/styles/ui.css?v=32">
+  <link rel="stylesheet" href="/styles/arena.css?v=2">`;
 }
 
 function renderScripts() {
   return `
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=5"></script>`;
+  <script defer src="/js/news.js?v=6"></script>`;
 }
 
 function renderCard(post, { featured = false, eager = false, href = null, locale = 'ru' } = {}) {
@@ -1478,25 +1479,20 @@ function renderCard(post, { featured = false, eager = false, href = null, locale
   const cardHref = href ?? `${localeConfig(locale).rootPath}${post.slug}/`;
   return `
   <article class="news-card${featured ? ' news-card--featured' : ''}" data-news-card data-category="${escapeHtml(post.categoryKey)}"${featured ? ' data-featured="true"' : ''}>
-    <a class="news-card__link" href="${escapeHtml(cardHref)}" aria-label="${escapeHtml(post.title)}">
+    <a class="news-card__link" href="${escapeHtml(cardHref)}">
       <figure class="news-card__media" style="--card-object-fit: ${escapeHtml(post.hero.cardFit)}; --card-object-position: ${escapeHtml(post.hero.focalPoint)}">
         <picture>
           ${post.hero.webpSrcset ? `<source type="image/webp" srcset="${escapeHtml(post.hero.webpSrcset)}" sizes="${featured ? '(max-width: 900px) 100vw, 62vw' : '(max-width: 768px) 100vw, 33vw'}">` : ''}
           <img src="${escapeHtml(post.hero.src)}"
                width="${post.hero.width}"
                height="${post.hero.height}"
-               alt="${escapeHtml(post.hero.alt)}"
+               alt=""
                ${eager ? 'fetchpriority="high"' : 'loading="lazy"'}
                decoding="async">
         </picture>
-        <span class="news-card__category">${escapeHtml(post.category)}</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="${escapeHtml(post.datePublished)}">${escapeHtml(formatDate(post.datePublished, locale))}</time>
-          <span aria-hidden="true">•</span>
-          <span>${escapeHtml(copy.minutesShort(readingTime(post)))}</span>
-        </div>
+        <div class="news-card__meta"><span>${escapeHtml(post.category)}</span><time datetime="${escapeHtml(post.datePublished)}">${escapeHtml(formatDate(post.datePublished, locale))}</time></div>
         <h2>${escapeHtml(post.title)}</h2>
         <p>${escapeHtml(post.excerpt)}</p>
       </div>
@@ -1518,9 +1514,10 @@ function renderIndex(posts, { previewSlug = null, locale = 'ru' } = {}) {
   const config = localeConfig(locale);
   const copy = UI[locale];
   const indexCopy = copy.index;
-  const [featured, ...rest] = posts;
+  const featured = posts[0];
+  const arenaNav = renderArenaNav(locale, 'news');
   const preview = Boolean(previewSlug);
-  const pageSize = 10;
+  const pageSize = 13;
   const socialImage = featured?.hero ?? {
     src: '/images/logo-512x512.png',
     width: 512,
@@ -1614,41 +1611,25 @@ ${GENERATED_MARKER}
   ${preview ? `<div class="preview-banner" role="status">${escapeHtml(copy.previewFeed)}</div>` : ''}
   ${renderNavigation('news', locale, languageTargets)}
   <main id="main-content">
-    <header class="container journal-heading"><h1>${escapeHtml(indexCopy.heroLine)}</h1></header>
+    <header class="container journal-heading">${arenaNav}<h1>${escapeHtml(indexCopy.heroLine)}</h1></header>
     <section class="news-feed-section" id="latest" data-news-feed data-page-size="${pageSize}">
       <div class="container">
         <div class="news-section-heading">
-          <div>
-            <h2 id="news-results-title" tabindex="-1">${escapeHtml(indexCopy.mainMaterials)}</h2>
-          </div>
+          <h2 class="arena-sr" id="news-results-title" tabindex="-1">${locale === 'ru' ? 'Материалы' : 'Stories'}</h2>
           <div class="news-filter-tools" data-news-controls hidden>
             <div class="news-filters" role="group" aria-label="${escapeHtml(indexCopy.filterAria)}">
               <button type="button" class="news-filter is-active" data-news-filter="all" aria-pressed="true">${escapeHtml(indexCopy.all)}</button>
               ${categories.map(([key, label]) => `<button type="button" class="news-filter" data-news-filter="${escapeHtml(key)}" aria-pressed="false">${escapeHtml(label)}</button>`).join('')}
             </div>
-            <label class="news-filter-select">
-              <span>${escapeHtml(indexCopy.topic)}</span>
-              <select data-news-filter-select aria-label="${escapeHtml(indexCopy.filterSelectAria)}">
-                <option value="all">${escapeHtml(indexCopy.allMaterials)}</option>
-                ${categories.map(([key, label]) => `<option value="${escapeHtml(key)}">${escapeHtml(label)}</option>`).join('')}
-              </select>
-            </label>
+            <label class="journal-search"><span class="arena-sr">${locale === 'ru' ? 'Поиск по материалам' : 'Search stories'}</span><input type="search" data-news-query placeholder="${locale === 'ru' ? 'Поиск по материалам' : 'Search stories'}" autocomplete="off"></label>
           </div>
         </div>
-        <div class="news-status" aria-live="polite" data-news-status></div>
-        ${featured
-          ? renderCard(featured, cardOptions(featured, { featured: true, eager: true }))
-          : `<div class="news-empty">
-              <p class="section-eyebrow">${escapeHtml(indexCopy.feedUpdating)}</p>
-              <h2>${escapeHtml(indexCopy.emptyTitle)}</h2>
-              <p>${escapeHtml(indexCopy.emptyText)}</p>
-            </div>`}
-        ${rest.length ? `<div class="news-grid">${rest.map((post) => renderCard(post, cardOptions(post))).join('')}</div>` : ''}
-        <div class="news-filter-empty" data-news-filter-empty hidden>
-          <p class="section-eyebrow">${escapeHtml(indexCopy.noItems)}</p>
-          <h3>${escapeHtml(indexCopy.noItemsTitle)}</h3>
-          <p>${escapeHtml(indexCopy.noItemsText)}</p>
+        <div class="arena-sr" role="status" data-news-status></div>
+        <div class="news-grid journal-grid">
+          ${posts.map((post, index) => renderCard(post, cardOptions(post, { featured: index === 0, eager: index === 0 }))).join('')}
         </div>
+        ${!posts.length ? `<p class="news-empty">${escapeHtml(indexCopy.emptyTitle)}</p>` : ''}
+        <p class="news-filter-empty" data-news-filter-empty hidden>${locale === 'ru' ? 'Материалов не найдено. Измените запрос или тему.' : 'No stories found. Try a different search or topic.'}</p>
         <nav class="news-pagination" data-news-pagination aria-label="${escapeHtml(indexCopy.pagesAria)}" hidden>
           <button type="button" class="news-pagination__step" data-news-page-step="previous">
             <span aria-hidden="true">←</span><span>${escapeHtml(indexCopy.previous)}</span>
@@ -1699,6 +1680,15 @@ function tableCell(text, locale, visuals) {
   return rank ? `<span class="journal-icons"><span><img src="/images/ranks/${rank[2]}.webp" width="32" height="32" alt="" loading="lazy"><span>${escapeHtml(text)}</span></span></span>` : escapeHtml(text);
 }
 
+function renderTableValue(block, cell, index, locale) {
+  if (block.layout === 'results' && index === 3) return `<strong class="journal-score">${escapeHtml(cell)}</strong>`;
+  if (block.layout === 'copy-symbol' && index === 0) {
+    const symbol = cell.match(/^\[([\u3164\u2800])\]$/u)?.[1];
+    if (symbol) return `<span class="journal-symbol"><code>${escapeHtml(cell)}</code><button type="button" data-copy-symbol="${symbol}" hidden>${locale === 'ru' ? 'Копировать' : 'Copy'}</button><span class="arena-sr" role="status"></span></span>`;
+  }
+  return tableCell(cell, locale, block.visuals);
+}
+
 function renderBlock(block, locale = 'ru') {
   const copy = UI[locale].article;
   switch (block.type) {
@@ -1717,14 +1707,14 @@ function renderBlock(block, locale = 'ru') {
         return `<ol class="journal-stages" aria-label="${escapeHtml(block.caption)}">${block.rows.map(([stage,city,when,teams])=>`<li><strong>${escapeHtml(stage)}</strong><span>${escapeHtml(when)}</span><p>${escapeHtml(city)}</p><small>${escapeHtml(teams)}</small></li>`).join('')}</ol>`;
       }
       if (block.layout === 'builds') {
-        return `<div class="journal-builds">${block.rows.map(([hero,items,setup,win])=>`<article class="journal-build"><header><h3>${tableCell(hero,locale,true)}</h3><div><strong>${escapeHtml(win)}</strong><small>${escapeHtml(block.headers[3])}</small></div></header><dl><dt>${escapeHtml(block.headers[1])}</dt><dd>${tableCell(items,locale,true)}</dd><dt>${escapeHtml(block.headers[2])}</dt><dd>${tableCell(setup,locale,true)}</dd></dl></article>`).join('')}</div>`;
+        return `<div class="journal-build-selector" hidden><label>${locale === 'ru' ? 'Герой' : 'Hero'} <select data-build-picker><option value="">${locale === 'ru' ? 'Все сборки' : 'All builds'}</option>${block.rows.map(([hero]) => `<option>${escapeHtml(hero)}</option>`).join('')}</select></label></div><div class="journal-builds">${block.rows.map(([hero,items,setup,win])=>`<article class="journal-build" data-build-name="${escapeHtml(hero)}"><header><h3>${tableCell(hero,locale,true)}</h3><div><strong>${escapeHtml(win)}</strong><small>${escapeHtml(block.headers[3])}</small></div></header><dl><dt>${escapeHtml(block.headers[1])}</dt><dd>${tableCell(items,locale,true)}</dd><dt>${escapeHtml(block.headers[2])}</dt><dd>${tableCell(setup,locale,true)}</dd></dl></article>`).join('')}</div>`;
       }
       return `
       <div class="article-table-wrap article-table-wrap--cols-${Math.min(block.headers.length, 4)}" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>
         <table>
           <caption>${escapeHtml(block.caption)}</caption>
           <thead><tr>${block.headers.map((header) => `<th scope="col">${escapeHtml(header)}</th>`).join('')}</tr></thead>
-          <tbody>${block.rows.map((row) => `<tr>${row.map((cell, index) => `<${index === 0 ? 'th scope="row"' : 'td'} data-label="${escapeHtml(block.headers[index])}">${block.layout === 'results' && index === 3 ? `<strong class="journal-score">${escapeHtml(cell)}</strong>` : tableCell(cell,locale,block.visuals)}</${index === 0 ? 'th' : 'td'}>`).join('')}</tr>`).join('')}</tbody>
+          <tbody>${block.rows.map((row) => `<tr>${row.map((cell, index) => `<${index === 0 ? 'th scope="row"' : 'td'} data-label="${escapeHtml(block.headers[index])}">${renderTableValue(block, cell, index, locale)}</${index === 0 ? 'th' : 'td'}>`).join('')}</tr>`).join('')}</tbody>
         </table>
       </div>
       ${block.note ? `<p class="article-table-note">${escapeHtml(block.note)}</p>` : ''}`;
@@ -1839,6 +1829,27 @@ function renderBlock(block, locale = 'ru') {
   }
 }
 
+function renderArenaNav(locale, active) {
+  const ru = locale === 'ru';
+  return `<nav class="arena-context" aria-label="${ru ? 'Разделы Mobile Legends' : 'Mobile Legends sections'}"><a href="${siteHref('/heroes/', locale)}"${active === 'tier' ? ' aria-current="page"' : ''}>${ru ? 'Тир-лист' : 'Tier list'}</a><a href="${siteHref('/news/', locale)}"${active === 'news' ? ' aria-current="page"' : ''}>${ru ? 'Новости и гайды' : 'News & guides'}</a></nav>`;
+}
+
+const articleRoutes = {
+  'msc-2026-playoff-schedule': ['results', 'Результаты матчей', 'Match results'],
+  'm8-istanbul-world-road': ['dates', 'Даты и города', 'Dates and venues'],
+  'mlbb-ranks-in-order': ['order', 'Таблица рангов', 'Rank table'],
+  'mlbb-season-end-rank-reset': ['reset', 'Таблица сброса', 'Rank reset table'],
+  'mlbb-meta-tier-list': ['tier-list', 'Тир-лист ноября', 'November tier list'],
+  'mlbb-current-patch': ['heroes', 'Изменения героев', 'Hero changes'],
+  'mlbb-redeem-codes-guide': ['steps', 'Как активировать код', 'How to redeem a code'],
+  'mlbb-change-nickname': ['invisible', 'Скопировать символ', 'Copy the invisible character'],
+  'mlbb-new-heroes-2026': ['timeline', 'Хронология героев', 'Hero timeline'],
+  'mlbb-account-bind-recover': ['recover', 'Восстановить аккаунт', 'Recover an account'],
+  'mlbb-rank-up-solo': ['heroes', 'Герои для соло', 'Solo queue heroes'],
+  'mlbb-who-to-ban': ['counters', 'Подобрать контрпик', 'Find a counter'],
+  'mlbb-builds-2026': ['top-heroes', 'Сборки по героям', 'Hero builds']
+};
+
 function renderArticle(post, { preview = false, locale = 'ru', related = [] } = {}) {
   const config = localeConfig(locale);
   const copy = UI[locale];
@@ -1848,6 +1859,9 @@ function renderArticle(post, { preview = false, locale = 'ru', related = [] } = 
     ru: preview ? `/news/_preview/${post.slug}/` : `${localeConfig('ru').rootPath}${post.slug}/`,
     en: preview ? `/en/news/_preview/${post.slug}/` : `${localeConfig('en').rootPath}${post.slug}/`
   };
+  const primary = articleRoutes[post.slug];
+  const contents = post.blocks.filter(block => block.type !== 'cta');
+  const callToAction = post.blocks.find(block => block.type === 'cta');
   const toc = post.blocks.filter((block) => block.type === 'heading');
   const newsArticle = {
     '@type': 'NewsArticle',
@@ -1945,7 +1959,7 @@ ${GENERATED_MARKER}
   ${renderCommonHead(locale)}
   ${preview ? '' : `<script type="application/ld+json">${safeJson(jsonLd)}</script>`}
 </head>
-<body class="news-page article-page">
+<body class="news-page article-page ${post.categoryKey === 'esports' ? 'journal-esports' : 'journal-reference'}">
   <a class="skip-link" href="#article-content">${escapeHtml(copy.skipArticle)}</a>
   <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
   ${preview ? `<div class="preview-banner" role="status">${escapeHtml(copy.previewArticle)}</div>` : ''}
@@ -1953,20 +1967,13 @@ ${GENERATED_MARKER}
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner">
-          <nav class="breadcrumbs" aria-label="${escapeHtml(articleCopy.breadcrumbsAria)}">
-            <ol>
-              <li><a href="${siteHref('/', locale)}">${escapeHtml(articleCopy.home)}</a></li>
-              <li class="breadcrumbs-news"><a href="${config.rootPath}">${escapeHtml(articleCopy.news)}</a></li>
-              <li class="breadcrumbs-current" aria-current="page"><span>${escapeHtml(post.title)}</span></li>
-            </ol>
-          </nav>
-        </div>
+        <div class="container article-header__inner">${renderArenaNav(locale)}</div>
         <div class="container journal-hero">
           <div class="journal-title">
-            <p class="journal-meta">${escapeHtml(post.category)} · ${escapeHtml(articleCopy.updated)} <time datetime="${escapeHtml(post.dateModified)}">${escapeHtml(formatDate(post.dateModified, locale))}</time></p>
+            <p class="journal-meta"><a href="${config.rootPath}?category=${escapeHtml(post.categoryKey)}">${escapeHtml(post.category)}</a><time datetime="${escapeHtml(post.datePublished)}">${escapeHtml(formatDate(post.datePublished, locale))}</time></p>
             <h1>${escapeHtml(post.title)}</h1>
             <p class="article-deck">${escapeHtml(post.excerpt)}</p>
+            ${primary && toc.some(heading => heading.id === primary[0]) ? `<a class="journal-primary" href="#${primary[0]}">${escapeHtml(primary[locale === 'ru' ? 1 : 2])}</a>` : ''}
           </div>
         <div class="article-hero-media">
           <figure>
@@ -1992,13 +1999,14 @@ ${GENERATED_MARKER}
               <p>${escapeHtml(articleCopy.tocTitle)}</p>
               <ol>${toc.map((item) => `<li><a href="#${escapeHtml(item.id)}">${escapeHtml(item.text)}</a></li>`).join('')}</ol>
             </nav>
-            <a class="rail-back" href="${config.rootPath}"><span aria-hidden="true">←</span> ${escapeHtml(articleCopy.allNews)}</a>
+            <a class="rail-back" href="${config.rootPath}">${escapeHtml(articleCopy.allNews)}</a>
           </div>
         </aside>
 
         <div class="article-content" id="article-content" tabindex="-1">
           <details class="journal-contents"><summary>${escapeHtml(articleCopy.tocTitle)}</summary><nav aria-label="${escapeHtml(articleCopy.tocAria)}">${toc.map(item=>`<a href="#${escapeHtml(item.id)}">${escapeHtml(item.text)}</a>`).join('')}</nav></details>
-          ${post.blocks.map((block) => renderBlock(block, locale)).join('\n')}
+          ${contents.map(block => renderBlock(block, locale)).join('\n')}
+          ${callToAction ? renderBlock({ ...callToAction, position: 'end-of-article' }, locale) : ''}
 
           <footer class="article-footer"><a href="${EDITOR_TELEGRAM_URL}" rel="noopener noreferrer" target="_blank" aria-label="${escapeHtml(config.editorContactLabel)}">${locale === 'ru' ? 'Сообщить об ошибке' : 'Report a correction'}</a></footer>
         </div>
@@ -2010,7 +2018,7 @@ ${GENERATED_MARKER}
 
         <h2 id="article-next-title">${escapeHtml(related.length ? articleCopy.related : articleCopy.continueTitle)}</h2>
         ${related.length ? `<div class="article-related">${related.map((item) => renderRelatedCard(item, locale)).join('')}</div>` : ''}
-        <a href="${config.rootPath}">${escapeHtml(articleCopy.backToFeed)} <span aria-hidden="true">→</span></a>
+        <a href="${config.rootPath}">${escapeHtml(articleCopy.backToFeed)}</a>
       </div>
     </section>
   </main>

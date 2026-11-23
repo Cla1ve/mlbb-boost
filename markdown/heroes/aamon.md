@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/aamon.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/aamon.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Эймон
 
 Убийца · Лес
-
-**№ 57 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 2,51%
 
-Преследование · Магический урон · Сложность 60/100
+**№ 57 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Магический урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/gloo.webp)Глу+1,21 п. п.](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/benedetta.webp)Бенедетта+1,19 п. п.](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/beatrix.webp)Беатрис+1,19 п. п.](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/zetian.webp)Цзэтянь+1,15 п. п.](https://boostmlbb.ru/heroes/zetian.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Отчужденный герцог замка Аберлин.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Aamon)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=109)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aamon)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Aamon)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=109)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

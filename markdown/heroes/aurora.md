@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/aurora.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/aurora.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Аврора
 
 Маг · Средняя линия
-
-**№ 90 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,38%
 
-Массовый контроль · Поук · Сложность 20/100
+**№ 90 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Массовый контроль · Поук · Сложность 20/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/kaja.webp)Кайя+2,89 п. п.](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/cyclops.webp)Циклоп+1,66 п. п.](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли+1,24 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/roger.webp)Роджер+0,97 п. п.](https://boostmlbb.ru/heroes/roger.html)
 
@@ -134,7 +134,9 @@ language: ru
 
 Ледяная дева, дарующая вечные воспоминания в легендах севера.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/reAurora)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=36)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aurora)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/reAurora)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=36)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

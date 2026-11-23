@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kaja.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/kaja.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Кайя
 
 Поддержка · Роум
-
-**№ 71 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 15,91%
 
-Инициатор · Рывок · Сложность 60/100
+**№ 71 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Инициатор · Рывок · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/kalea.webp)Калеа+4,46 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/aurora.webp)Аврора+2,89 п. п.](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/faramis.webp)Фарамис+2,78 п. п.](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/saber.webp)Сабер+2,63 п. п.](https://boostmlbb.ru/heroes/saber.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Лидер назаров, стоящий на страже Небесного дворца.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=62)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kaja)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kaja)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=62)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

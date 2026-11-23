@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hanzo.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/hanzo.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Ханзо
 
 Убийца · Лес
-
-**№ 70 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 5,82%
 
-Поук · Разрушительный урон · Сложность 50/100
+**№ 70 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Поук · Разрушительный урон · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/angela.webp)Ангела+2,17 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/hilda.webp)Хильда+1,63 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/dyrroth.webp)Дариус+1,60 п. п.](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/aldous.webp)Алдос+1,55 п. п.](https://boostmlbb.ru/heroes/aldous.html)
 
@@ -137,7 +137,9 @@ language: ru
 
 Гениальный ниндзя из фракции Тени, который находится на распутье.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=69)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanzo)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/hanzo)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=69)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

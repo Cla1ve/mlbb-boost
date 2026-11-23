@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/cecilion.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/cecilion.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Сесилион
 
 Маг · Средняя линия
-
-**№ 45 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,17%
 
-Поук · Разрушительный урон · Сложность 40/100
+**№ 45 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Поук · Разрушительный урон · Сложность 40/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harley.webp)Харли+1,42 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/marcel.webp)Марсель+1,33 п. п.](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/zhuxin.webp)Чжусинь+1,16 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/harith.webp)Харит+0,98 п. п.](https://boostmlbb.ru/heroes/harith.html)
 
@@ -142,7 +142,9 @@ language: ru
 
 Возлюбленный Кармиллы, демон крови.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Cecilion)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=91)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cecilion)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Cecilion)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=91)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

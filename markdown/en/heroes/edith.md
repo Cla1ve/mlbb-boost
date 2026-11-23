@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/edith.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/edith.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Edith
 
 Tank and marksman · EXP Lane
-
-**#19 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.14%
 
-Control · Burst · Difficulty 40/100
+**#19 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Control · Burst · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **61.33%**Picked in **3.50%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/natalia.webp)Natalia+1.99 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/estes.webp)Estes+1.82 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/saber.webp)Saber+1.36 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt+1.30 pp](https://boostmlbb.ru/en/heroes/helcurt.html)
 
@@ -139,7 +139,9 @@ Active: Edith ejects herself forward from Phylax, knocking back nearby enemies a
 
 Forsaken Warden with sealed memories.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Edith)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=111)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Edith)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Edith)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=111)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

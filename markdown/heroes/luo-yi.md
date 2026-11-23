@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/luo-yi.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/luo-yi.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Ло Йи
 
 Маг · Средняя линия
-
-**№ 115 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,07%
 
-Поддержка · Массовый контроль · Сложность 80/100
+**№ 115 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Поддержка · Массовый контроль · Сложность 80/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/atlas.webp)Атлас+1,42 п. п.](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/thamuz.webp)Тамуз+1,24 п. п.](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/estes.webp)Эстес+1,16 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/esmeralda.webp)Эсмеральда+0,99 п. п.](https://boostmlbb.ru/heroes/esmeralda.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 В поисках пути к возрождению древнего прошлого, она стала единственной, кто овладел секретами инь и ян.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/LuoYi)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=96)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Luo_Yi)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/LuoYi)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=96)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/nana.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/nana.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Nana
 
 Mage · Mid Lane
-
-**#116 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.74%
 
-Poke · Burst · Difficulty 20/100
+**#116 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Burst · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **29.95%**Picked in **2.53%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cyclops.webp)Cyclops+2.59 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+1.54 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/zilong.webp)Zilong+1.53 pp](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/hilda.webp)Hilda+1.49 pp](https://boostmlbb.ru/en/heroes/hilda.html)
 
@@ -140,7 +140,9 @@ Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
 
 Little Leonin with no worries.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Nana)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=5)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nana)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Nana)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=5)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

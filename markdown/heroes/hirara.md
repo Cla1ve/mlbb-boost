@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hirara.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/hirara.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Хирара
 
 Убийца · Лес
-
-**№ 64 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 67,97%
 
-Преследование · Добивание · Сложность 60/100
+**№ 64 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Добивание · Сложность 60/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/angela.webp)Ангела+2,77 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/joy.webp)Джой+1,38 п. п.](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/dyrroth.webp)Дариус+1,30 п. п.](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/floryn.webp)Флорин+1,10 п. п.](https://boostmlbb.ru/heroes/floryn.html)
 
@@ -128,7 +128,9 @@ language: ru
 
 Ниндзя-гейша из Алой тени, вооруженная двумя веерами и облаченная в багряный клен и мейсэн. В ее искаженном сознании смерть — это высшее спасение.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=133)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hirara)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/hirara)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=133)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

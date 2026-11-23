@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/moskov.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/moskov.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Moskov
 
 Marksman · Gold Lane
-
-**#56 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.28%
 
-Finisher · Chase · Difficulty 40/100
+**#56 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Chase · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.55%**Picked in **5.72%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+2.67 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/faramis.webp)Faramis+2.07 pp](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/masha.webp)Masha+1.23 pp](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/marcel.webp)Marcel+1.12 pp](https://boostmlbb.ru/en/heroes/marcel.html)
 
@@ -139,7 +139,9 @@ Use Again: Moskov casts Abyss Walker from the shadow's location (shares a cooldo
 
 A warrior of the desert that embraced the darkness to seek his revenge.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Moskov)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=31)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Moskov)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Moskov)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=31)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

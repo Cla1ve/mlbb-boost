@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/guinevere.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/guinevere.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Guinevere
 
 Fighter · EXP Lane
-
-**#39 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.85%
 
-Burst · Magic Damage · Difficulty 40/100
+**#39 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Magic Damage · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **53.66%**Picked in **1.89%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/sun.webp)Sun+1.86 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lukas.webp)Lukas+1.66 pp](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/masha.webp)Masha+1.66 pp](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/thamuz.webp)Thamuz+1.65 pp](https://boostmlbb.ru/en/heroes/thamuz.html)
 
@@ -140,7 +140,9 @@ Airborne enemies hit will be knocked airborne again, up to 8 additional times.
 
 Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=80)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Guinevere)
+[Read the full story ↗](https://kazukiofficial.com/stories/guinevere)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=80)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

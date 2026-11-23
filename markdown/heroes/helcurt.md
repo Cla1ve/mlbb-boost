@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/helcurt.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/helcurt.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Хелкарт
 
 Убийца · Лес или роум
-
-**№ 111 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 4,74%
 
-Пуш · Разрушительный урон · Сложность 40/100
+**№ 111 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Пуш · Разрушительный урон · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/akai.webp)Акай+2,70 п. п.](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/gloo.webp)Глу+2,63 п. п.](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/belerick.webp)Белерик+2,62 п. п.](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/khufra.webp)Хуфра+2,60 п. п.](https://boostmlbb.ru/heroes/khufra.html)
 
@@ -141,7 +141,9 @@ language: ru
 
 Ночной кошмар Бездны, готовый предать любого, чтобы выжить.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/HelcurtRE)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=51)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Helcurt)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/HelcurtRE)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=51)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

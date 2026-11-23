@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kadita.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/kadita.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Кадита
 
 Убийца и маг · Средняя линия
-
-**№ 38 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 2,92%
 
-Разрушительный урон · Рывок · Сложность 60/100
+**№ 38 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Рывок · Сложность 60/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/floryn.webp)Флорин+2,17 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/mathilda.webp)Матильда+1,87 п. п.](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/angela.webp)Ангела+1,65 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/rafaela.webp)Рафаэль+1,16 п. п.](https://boostmlbb.ru/heroes/rafaela.html)
 
@@ -137,7 +137,9 @@ language: ru
 
 Богиня океана, защищающая водные просторы, орудуя Трезубцем морей.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=75)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kadita)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kadita)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=75)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

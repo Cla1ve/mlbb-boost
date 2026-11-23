@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/jawhead.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/jawhead.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Jawhead
 
 Fighter · EXP Lane or Roam
-
-**#110 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.33%
 
-Charge · Burst · Difficulty 60/100
+**#110 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Burst · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.34%**Picked in **3.98%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/estes.webp)Estes+2.01 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/lolita.webp)Lolita+1.96 pp](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/belerick.webp)Belerick+1.78 pp](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/rafaela.webp)Rafaela+1.72 pp](https://boostmlbb.ru/en/heroes/rafaela.html)
 
@@ -136,7 +136,9 @@ Jawhead charges into the target enemy hero, dealing 350 (+150% Total Physical At
 
 Intelligent robot used to protect little Ailee.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=54)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Jawhead)
+[Read the full story ↗](https://kazukiofficial.com/stories/jawhead)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=54)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/karina.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/karina.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Karina
 
 Assassin · Jungle
-
-**#100 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 4.55%
 
-Finisher · Magic Damage · Difficulty 50/100
+**#100 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Magic Damage · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.72%**Picked in **3.37%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/chip.webp)Chip+2.30 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/benedetta.webp)Benedetta+1.46 pp](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/wanwan.webp)Wanwan+1.13 pp](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/zetian.webp)Zetian+1.03 pp](https://boostmlbb.ru/en/heroes/zetian.html)
 
@@ -141,7 +141,9 @@ Use Again: Karina dashes back to the Shadowform's location, dealing 150 (+50% To
 
 Killer from the Dark Elf tribe who is fighting to rescue her sister Selena.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Karina)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=8)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karina)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Karina)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=8)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

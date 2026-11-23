@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/vale.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/vale.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Vale
 
 Mage · Mid Lane
-
-**#60 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.20%
 
-Burst · Crowd Control · Difficulty 10/100
+**#60 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Crowd Control · Difficulty 10/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **52.03%**Picked in **3.28%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cyclops.webp)Cyclops+2.35 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/hilda.webp)Hilda+1.92 pp](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/balmond.webp)Balmond+1.43 pp](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+1.42 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 
@@ -136,7 +136,9 @@ The remaining whirlwinds will also be pulled into the center.
 
 The heir to Wind Fort, a wind mage.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=66)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vale)
+[Read the full story ↗](https://kazukiofficial.com/stories/vale)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=66)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

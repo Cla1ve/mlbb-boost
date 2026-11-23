@@ -117,7 +117,7 @@ Latest story
 
 ## MSC 2026 Results: Team Spirit Win a Historic Mobile Legends Title
 
-Team Spirit became MSC's first non-Asian champion after a 4:3 final against Yangon Galacticos. Here are all eight playoff series, prizes, MVP, and viewership results.
+Team Spirit beat Yangon Galacticos 4–3 in the final. KidBomba was named tournament MVP.
 
 Open story](https://boostmlbb.ru/en/news/msc-2026-playoff-schedule/)
 

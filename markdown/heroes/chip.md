@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/chip.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/chip.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Чип
 
 Танк и поддержка · Роум
-
-**№ 112 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,21%
 
-Поддержка · Массовый контроль · Сложность 50/100
+**№ 112 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Поддержка · Массовый контроль · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/arlott.webp)Арлотт+5,51 п. п.](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/floryn.webp)Флорин+5,34 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/odette.webp)Одетта+5,01 п. п.](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/lunox.webp)Люнокс+4,70 п. п.](https://boostmlbb.ru/heroes/lunox.html)
 
@@ -143,7 +143,9 @@ language: ru
 
 Беззаботный генно-модифицированный лис, владеющий передовой технологией порталов.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Chip)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=124)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chip)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Chip)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=124)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/faramis.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/faramis.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Фарамис
 
 Маг и поддержка · Средняя линия или роум
-
-**№ 47 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,36%
 
-Защита · Рывок · Сложность 50/100
+**№ 47 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Защита · Рывок · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/kaja.webp)Кайя+2,78 п. п.](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/kalea.webp)Калеа+2,26 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/moskov.webp)Москов+2,07 п. п.](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/saber.webp)Сабер+1,96 п. п.](https://boostmlbb.ru/heroes/saber.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Некромант из Некрокипа, решивший найти лекарство от эрозии тумана.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Faramis)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=76)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Faramis)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Faramis)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=76)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

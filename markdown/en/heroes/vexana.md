@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/vexana.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/vexana.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Vexana
 
 Mage · Mid Lane
-
-**#85 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.15%
 
-Poke · Control · Difficulty 10/100
+**#85 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Control · Difficulty 10/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **54.49%**Picked in **3.08%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cyclops.webp)Cyclops+1.94 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+1.53 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/johnson.webp)Johnson+1.20 pp](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/hilda.webp)Hilda+1.20 pp](https://boostmlbb.ru/en/heroes/hilda.html)
 
@@ -132,7 +132,9 @@ Vexana summons an Eternal Guard at the target location, dealing 480 (+60% Total 
 
 The young duchess guarding Necrokeep.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Vexana)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=38)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vexana)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Vexana)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=38)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

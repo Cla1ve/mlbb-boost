@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/x-borg.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/x-borg.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Икс.Борг
 
 Боец · Линия опыта
-
-**№ 68 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,96%
 
-Регенерация · Разрушительный урон · Сложность 60/100
+**№ 68 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Регенерация · Разрушительный урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/aldous.webp)Алдос+2,35 п. п.](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/sun.webp)Сан+2,34 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/hilda.webp)Хильда+1,72 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/karrie.webp)Кэрри+1,60 п. п.](https://boostmlbb.ru/heroes/karrie.html)
 
@@ -141,7 +141,9 @@ language: ru
 
 Неконтролируемое пламя, что намеревается отомстить Эрудитио.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=83)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/X.Borg)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/x-borg)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=83)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

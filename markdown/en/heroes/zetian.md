@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/zetian.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/zetian.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Zetian
 
 Mage · Mid Lane
-
-**#46 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 4.65%
 
-Damage · Crowd Control · Difficulty 10/100
+**#46 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Crowd Control · Difficulty 10/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **57.83%**Picked in **11.39%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cyclops.webp)Cyclops+2.04 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+2.01 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/natalia.webp)Natalia+1.59 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/zhuxin.webp)Zhuxin+1.33 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
@@ -136,7 +136,9 @@ Zetian can cast other skills while channeling this skill.
 
 Recognized by the Heavens and cherished by her people, the Celestial Empress of the Cadia Riverlands ascends to bring peace to the mortal realm.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=129)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zetian)
+[Read the full story ↗](https://kazukiofficial.com/stories/zetian)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=129)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

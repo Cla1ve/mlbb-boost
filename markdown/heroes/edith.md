@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/edith.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/edith.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Эдит
 
 Танк и стрелок · Линия опыта
-
-**№ 19 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,14%
 
-Контроль · Разрушительный урон · Сложность 40/100
+**№ 19 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Контроль · Разрушительный урон · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/natalia.webp)Наталья+1,99 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/estes.webp)Эстес+1,82 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/saber.webp)Сабер+1,36 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт+1,30 п. п.](https://boostmlbb.ru/heroes/helcurt.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Забытый страж с запечатанными воспоминаниями.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Edith)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=111)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Edith)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Edith)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=111)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

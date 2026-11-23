@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/balmond.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/balmond.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Бальмонд
 
 Боец · Линия опыта или лес
-
-**№ 121 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,39%
 
-Урон · Регенерация · Сложность 20/100
+**№ 121 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Урон · Регенерация · Сложность 20/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/sun.webp)Сан+2,35 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/angela.webp)Ангела+2,22 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/johnson.webp)Джонсон+1,71 п. п.](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/hanabi.webp)Ханаби+1,61 п. п.](https://boostmlbb.ru/heroes/hanabi.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Наступит день, когда орки сбросят оковы.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=2)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/balmond)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=2)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/diggie.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Diggie
 
 Support · Roam
-
-**#6 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.66%
 
-Guard · Poke · Difficulty 30/100
+**#6 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Guard · Poke · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **63.01%**Picked in **21.28%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/baxia.webp)Baxia+11.69 pp](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/ixia.webp)Ixia+7.38 pp](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/kalea.webp)Kalea+6.61 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/saber.webp)Saber+6.13 pp](https://boostmlbb.ru/en/heroes/saber.html)
 
@@ -138,7 +138,9 @@ Diggie removes all debuffs on nearby allied heroes (including himself) and grant
 
 The owl scholar who can control time.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=48)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie)
+[Read the full story ↗](https://kazukiofficial.com/stories/diggie)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=48)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

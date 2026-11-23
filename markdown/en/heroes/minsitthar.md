@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/minsitthar.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/minsitthar.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Minsitthar
 
 Fighter · EXP Lane
-
-**#27 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 4.19%
 
-Initiator · Crowd Control · Difficulty 30/100
+**#27 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Initiator · Crowd Control · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.90%**Picked in **8.68%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/hilda.webp)Hilda+2.09 pp](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/khaleed.webp)Khaleed+1.93 pp](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/sun.webp)Sun+1.48 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/estes.webp)Estes+1.43 pp](https://boostmlbb.ru/en/heroes/estes.html)
 
@@ -137,7 +137,9 @@ Enemies in the field are slowed by 30% and cannot use movement skills.
 
 A young king that led the people of Mahar Pura to victory against invaders.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Minsitthar)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=74)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Minsitthar)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Minsitthar)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=74)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kalea.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/kalea.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Калеа
 
 Боец и поддержка · Роум
-
-**№ 51 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 6,50%
 
-Контроль · Регенерация · Сложность 40/100
+**№ 51 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Контроль · Регенерация · Сложность 40/100
 
 ## Сборка
 
@@ -89,7 +89,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/diggie.webp)Дигги+6,61 п. п.](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/floryn.webp)Флорин+5,94 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/marcel.webp)Марсель+5,62 п. п.](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/estes.webp)Эстес+4,51 п. п.](https://boostmlbb.ru/heroes/estes.html)
 
@@ -136,7 +136,9 @@ language: ru
 
 Этот гордый потомок Великого змея грациозно размахивает своим змеиным хвостом по морю Вонетис, стремясь однажды обрести всю мощь своего наследия.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=128)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kalea)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kalea)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=128)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

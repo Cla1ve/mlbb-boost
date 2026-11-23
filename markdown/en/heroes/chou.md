@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/chou.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Chou
 
 Fighter · EXP Lane or Roam
-
-**#127 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.09%
 
-Chase · Control · Difficulty 60/100
+**#127 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Control · Difficulty 60/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **53.17%**Picked in **3.30%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/bane.webp)Bane+1.96 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/minotaur.webp)Minotaur+1.67 pp](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/grock.webp)Grock+1.57 pp](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/tigreal.webp)Tigreal+1.46 pp](https://boostmlbb.ru/en/heroes/tigreal.html)
 
@@ -133,7 +133,9 @@ Cast the skill again to chase up the target, dealing a total of 480 (+240% Extra
 
 A talented fighter with a heart of chivalry.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=26)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chou)
+[Read the full story ↗](https://kazukiofficial.com/stories/chou)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=26)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

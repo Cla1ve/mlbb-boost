@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/saber.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/saber.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Saber
 
 Assassin · Jungle or Roam
-
-**#41 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 25.07%
 
-Charge · Finisher · Difficulty 30/100
+**#41 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Finisher · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **59.67%**Picked in **18.38%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/diggie.webp)Diggie+6.13 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/marcel.webp)Marcel+4.45 pp](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes+3.46 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/minotaur.webp)Minotaur+3.29 pp](https://boostmlbb.ru/en/heroes/minotaur.html)
 
@@ -137,7 +137,9 @@ Saber charges at the target enemy hero, knocking them airborne for 1.2s (unaffec
 
 A swordsman in pursuit of invincibility, used by Laboratory 1718.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Saber)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=3)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Saber)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Saber)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=3)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

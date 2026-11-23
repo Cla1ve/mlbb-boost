@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/harley.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/harley.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Harley
 
 Assassin and mage · Mid Lane or Jungle
-
-**#107 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.09%
 
-Burst · Poke · Difficulty 40/100
+**#107 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Poke · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **45.08%**Picked in **1.01%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhask.webp)Zhask+2.55 pp](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/lylia.webp)Lylia+2.40 pp](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/zetian.webp)Zetian+2.01 pp](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/yve.webp)Yve+1.96 pp](https://boostmlbb.ru/en/heroes/yve.html)
 
@@ -138,7 +138,9 @@ Harley casts a magic ring of fire at an enemy hero, dealing 200 (+60% Total Magi
 
 The young mage whose powers awakened once thrust into danger and who now arrives at the Magic Academy to study.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Harley)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=42)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harley)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Harley)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=42)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

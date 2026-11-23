@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/selena.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/selena.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Selena
 
 Assassin and mage · Mid Lane
-
-**#102 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 6.26%
 
-Initiator · Finisher · Difficulty 80/100
+**#102 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Initiator · Finisher · Difficulty 80/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **53.15%**Picked in **3.62%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cyclops.webp)Cyclops+1.87 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Floryn+1.74 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/zhask.webp)Zhask+1.18 pp](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/harley.webp)Harley+1.14 pp](https://boostmlbb.ru/en/heroes/harley.html)
 
@@ -142,7 +142,9 @@ Active: Selena enters Abyssal Form and gains 20% Movement Speed for 0.8s. This a
 
 Dark Elf girl who fell into the Abyss.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=63)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Selena)
+[Read the full story ↗](https://kazukiofficial.com/stories/selena)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=63)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

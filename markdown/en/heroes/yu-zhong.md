@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yu-zhong.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/yu-zhong.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Yu Zhong
 
 Fighter · EXP Lane
-
-**#91 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.75%
 
-Regen · Damage · Difficulty 70/100
+**#91 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · Damage · Difficulty 70/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **59.59%**Picked in **2.49%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/thamuz.webp)Thamuz+2.57 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/bane.webp)Bane+2.36 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun+2.08 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/julian.webp)Julian+1.51 pp](https://boostmlbb.ru/en/heroes/julian.html)
 
@@ -141,7 +141,9 @@ Upon exiting the Black Dragon Form, Yu Zhong enters Dragonoid Form, gaining incr
 
 Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Yu_Zhong)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=95)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Yu_Zhong)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yu_Zhong)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=95)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

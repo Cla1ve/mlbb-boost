@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kagura.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/kagura.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Кагура
 
 Маг · Средняя линия
-
-**№ 42 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,15%
 
-Поук · Добивание · Сложность 90/100
+**№ 42 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Поук · Добивание · Сложность 90/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/zhuxin.webp)Чжусинь+9,48 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Циклоп+2,35 п. п.](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли+1,65 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/granger.webp)Грейнджер+1,47 п. п.](https://boostmlbb.ru/heroes/granger.html)
 
@@ -136,7 +136,9 @@ language: ru
 
 Молодая душа, рожденная из глубоких желаний, хранящихся в зонтике Сэймэй. Наконец она пробудилась ото сна, подобно сияющему цветку вопреки ночной темноте.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=25)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kagura)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kagura)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=25)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

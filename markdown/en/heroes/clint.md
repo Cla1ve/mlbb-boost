@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/clint.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/clint.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Clint
 
 Marksman · Gold Lane
-
-**#55 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.61%
 
-Finisher · Burst · Difficulty 60/100
+**#55 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Burst · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.94%**Picked in **4.59%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+4.78 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+2.21 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Roger+1.78 pp](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/masha.webp)Masha+1.21 pp](https://boostmlbb.ru/en/heroes/masha.html)
 
@@ -138,7 +138,9 @@ Clint gains a grenade charge every 10s (up to 3).
 
 A fearless gunslinger and sheriff, carving his own justice into the sands with grit and unwavering resolve.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Clint)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=13)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Clint)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Clint)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=13)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

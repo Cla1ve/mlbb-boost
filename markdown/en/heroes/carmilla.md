@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/carmilla.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/carmilla.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Carmilla
 
 Tank and support · Roam
-
-**#15 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 21.66%
 
-Crowd Control · Damage · Difficulty 10/100
+**#15 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Crowd Control · Damage · Difficulty 10/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.35%**Picked in **6.46%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/floryn.webp)Floryn+6.09 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/diggie.webp)Diggie+5.54 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/chip.webp)Chip+4.15 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/estes.webp)Estes+3.73 pp](https://boostmlbb.ru/en/heroes/estes.html)
 
@@ -138,7 +138,9 @@ When a linked enemy takes damage or becomes controlled, all the other linked tar
 
 The girl who became a Blood Demon for love.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Carmilla)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=92)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Carmilla)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Carmilla)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=92)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

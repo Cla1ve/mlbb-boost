@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/khaleed.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/khaleed.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Khaleed
 
 Fighter · EXP Lane or Roam
-
-**#54 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.09%
 
-Damage · Regen · Difficulty 50/100
+**#54 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Regen · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.68%**Picked in **4.02%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/saber.webp)Saber+2.45 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/bane.webp)Bane+2.09 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/silvanna.webp)Silvanna+2.00 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/minsitthar.webp)Minsitthar+1.93 pp](https://boostmlbb.ru/en/heroes/minsitthar.html)
 
@@ -139,7 +139,9 @@ Upon reaching the destination, Khaleed will smash the ground, dealing 450 (+160%
 
 A sand-walking intrepid Clan leader.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Khaleed)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=98)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Khaleed)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Khaleed)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=98)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

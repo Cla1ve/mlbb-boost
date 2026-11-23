@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gusion.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/gusion.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Gusion
 
 Assassin · Mid Lane or Jungle
-
-**#99 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.39%
 
-Burst · Magic Damage · Difficulty 80/100
+**#99 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Magic Damage · Difficulty 80/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.55%**Picked in **1.17%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/change.webp)Chang'e+1.39 pp](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/khufra.webp)Khufra+1.26 pp](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/lylia.webp)Lylia+1.26 pp](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/zetian.webp)Zetian+1.22 pp](https://boostmlbb.ru/en/heroes/zetian.html)
 
@@ -138,7 +138,9 @@ Use Again: Gusion dashes a short distance in the target direction.
 
 Rebellious son of House Paxley.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Gusion)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=56)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gusion)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Gusion)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=56)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

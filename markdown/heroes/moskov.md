@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/moskov.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/moskov.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Москов
 
 Стрелок · Линия золота
-
-**№ 56 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,28%
 
-Добивание · Преследование · Сложность 40/100
+**№ 56 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Добивание · Преследование · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harith.webp)Харит+2,67 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/faramis.webp)Фарамис+2,07 п. п.](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/masha.webp)Маша+1,23 п. п.](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/marcel.webp)Марсель+1,12 п. п.](https://boostmlbb.ru/heroes/marcel.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Воин пустыни, принявший тьму в погоне за местью.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Moskov)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=31)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Moskov)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Moskov)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=31)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

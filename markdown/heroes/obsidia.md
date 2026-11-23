@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/obsidia.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/obsidia.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Обсидия
 
 Стрелок · Линия золота
-
-**№ 16 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 48,46%
 
-Добивание · Урон · Сложность 30/100
+**№ 16 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Добивание · Урон · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harith.webp)Харит+3,57 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа+1,23 п. п.](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/fanny.webp)Фанни+0,86 п. п.](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/hanzo.webp)Ханзо+0,63 п. п.](https://boostmlbb.ru/heroes/hanzo.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Древняя Владычица Бездны, возродившаяся из останков, жаждет сразить Бога тьмы и истребить его Порождения разложения.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=130)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Obsidia)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/obsidia)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=130)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

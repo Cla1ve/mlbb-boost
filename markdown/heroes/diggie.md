@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/diggie.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/diggie.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Дигги
 
 Поддержка · Роум
-
-**№ 6 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 3,66%
 
-Защита · Поук · Сложность 30/100
+**№ 6 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Защита · Поук · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/baxia.webp)Баксий+11,69 п. п.](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/ixia.webp)Иксия+7,38 п. п.](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/kalea.webp)Калеа+6,61 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/saber.webp)Сабер+6,13 п. п.](https://boostmlbb.ru/heroes/saber.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Сова-ученый, способный управлять временем.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=48)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/diggie)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=48)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

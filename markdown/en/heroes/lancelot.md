@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lancelot.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/lancelot.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Lancelot
 
 Assassin · Jungle
-
-**#130 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.47%
 
-Chase · Burst · Difficulty 50/100
+**#130 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **49.02%**Picked in **9.61%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/angela.webp)Angela+3.22 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.17 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/argus.webp)Argus+1.11 pp](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/hanabi.webp)Hanabi+0.75 pp](https://boostmlbb.ru/en/heroes/hanabi.html)
 
@@ -136,7 +136,9 @@ After a short delay, Lancelot performs an executioner's strike in the target dir
 
 Prodigal son and genius swordsman of House Baroque.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Lancelot)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=47)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lancelot)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Lancelot)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=47)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

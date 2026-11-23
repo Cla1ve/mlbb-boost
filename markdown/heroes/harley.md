@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/harley.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/harley.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Харли
 
 Убийца и маг · Средняя линия или лес
-
-**№ 107 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 3,09%
 
-Разрушительный урон · Поук · Сложность 40/100
+**№ 107 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Поук · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/zhask.webp)Заск+2,55 п. п.](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/lylia.webp)Лилия+2,40 п. п.](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/zetian.webp)Цзэтянь+2,01 п. п.](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/yve.webp)Ив+1,96 п. п.](https://boostmlbb.ru/heroes/yve.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Молодой маг, чьи силы однажды пробудились в опасности, прибывший на обучение в Магическую академию.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Harley)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=42)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harley)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Harley)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=42)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

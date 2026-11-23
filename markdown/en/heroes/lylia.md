@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lylia.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/lylia.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Lylia
 
 Mage · Mid Lane
-
-**#82 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.39%
 
-Push · Damage · Difficulty 60/100
+**#82 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Push · Damage · Difficulty 60/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **51.85%**Picked in **5.75%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+3.51 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/harley.webp)Harley+2.40 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/valentina.webp)Valentina+2.36 pp](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/natalia.webp)Natalia+1.31 pp](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -137,7 +137,9 @@ She also gains 20% Movement Speed for 2s.
 
 A funny and witted little witch.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=86)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lylia)
+[Read the full story ↗](https://kazukiofficial.com/stories/lylia)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=86)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

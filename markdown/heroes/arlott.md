@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/arlott.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/arlott.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Арлотт
 
 Боец и убийца · Линия опыта
-
-**№ 114 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,56%
 
-Рывок · Разрушительный урон · Сложность 70/100
+**№ 114 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Рывок · Разрушительный урон · Сложность 70/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/chip.webp)Чип+5,51 п. п.](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/bane.webp)Бэйн+2,30 п. п.](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/aulus.webp)Аулус+2,18 п. п.](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/alice.webp)Алиса+1,98 п. п.](https://boostmlbb.ru/heroes/alice.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Наполовину человек, наполовину демон, вооруженный двумя копьями. Жаждет отомстить как Церкви, так и демонам.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Arlott)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=120)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Arlott)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Arlott)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=120)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

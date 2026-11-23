@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/luo-yi.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/luo-yi.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Luo Yi
 
 Mage · Mid Lane
-
-**#115 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.07%
 
-Support · Crowd Control · Difficulty 80/100
+**#115 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Support · Crowd Control · Difficulty 80/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **49.15%**Picked in **5.65%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/atlas.webp)Atlas+1.42 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/thamuz.webp)Thamuz+1.24 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/estes.webp)Estes+1.16 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/esmeralda.webp)Esmeralda+0.99 pp](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
@@ -140,7 +140,9 @@ Active: Luo Yi creates a Teleport Circle around herself and marks the target loc
 
 Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/LuoYi)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=96)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Luo_Yi)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/LuoYi)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=96)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/layla.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/layla.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Layla
 
 Marksman · Gold Lane
-
-**#80 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.78%
 
-Finisher · Damage · Difficulty 20/100
+**#80 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Damage · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.65%**Picked in **1.85%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+3.16 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Roger+2.19 pp](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/harith.webp)Harith+1.54 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/franco.webp)Franco+1.47 pp](https://boostmlbb.ru/en/heroes/franco.html)
 
@@ -138,7 +138,9 @@ Active: Layla fires a blast of Malefic Energy in the target direction, dealing 5
 
 The backbone of the Eruditio Rangers who is also known as the Shining Star.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Layla)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=18)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Layla)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Layla)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=18)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

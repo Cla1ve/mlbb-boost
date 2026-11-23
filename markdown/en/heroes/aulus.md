@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aulus.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/aulus.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Aulus
 
 Fighter · EXP Lane or Jungle
-
-**#12 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 30.30%
 
-Damage · Charge · Difficulty 20/100
+**#12 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Charge · Difficulty 20/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **53.25%**Picked in **2.20%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/arlott.webp)Arlott+2.18 pp](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.76 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere+1.61 pp](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/benedetta.webp)Benedetta+1.50 pp](https://boostmlbb.ru/en/heroes/benedetta.html)
 
@@ -136,7 +136,9 @@ During this skill, Aulus gains 20% Damage Reduction and a short burst of Movemen
 
 A Leonin warrior who inherited his predecessor's resolve, cleaving his own path with burning ferocity.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Aulus)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=108)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aulus)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Aulus)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=108)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/valir.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Valir
 
 Mage · Mid Lane
-
-**#7 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 3.78%
 
-Damage · Guard · Difficulty 20/100
+**#7 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Guard · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **61.07%**Picked in **3.18%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/natalia.webp)Natalia+1.48 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/hanzo.webp)Hanzo+1.43 pp](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/harley.webp)Harley+1.35 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/zhuxin.webp)Zhuxin+1.32 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
@@ -141,7 +141,9 @@ Valir removes all debuffs on himself and gains 40% Movement Speed that decays ov
 
 Heir to Fire Throat, fire mage.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=57)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valir)
+[Read the full story ↗](https://kazukiofficial.com/stories/valir)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=57)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/pharsa.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/pharsa.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Pharsa
 
 Mage · Mid Lane
-
-**#117 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.18%
 
-Burst · Poke · Difficulty 50/100
+**#117 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Poke · Difficulty 50/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **52.25%**Picked in **1.90%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+1.90 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Cyclops+1.68 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+1.19 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/marcel.webp)Marcel+1.07 pp](https://boostmlbb.ru/en/heroes/marcel.html)
 
@@ -141,7 +141,9 @@ This state ends immediately when she is controlled or uses a Basic Attack or ski
 
 Crow Princess of Askati Forest.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=52)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Pharsa)
+[Read the full story ↗](https://kazukiofficial.com/stories/pharsa)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=52)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

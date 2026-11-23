@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gloo.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/gloo.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Gloo
 
 Tank · EXP Lane or Roam
-
-**#13 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 41.90%
 
-Regen · Control · Difficulty 60/100
+**#13 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · Control · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **61.35%**Picked in **3.37%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zilong.webp)Zilong+2.92 pp](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Helcurt+2.63 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Aldous+2.38 pp](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/saber.webp)Saber+2.20 pp](https://boostmlbb.ru/en/heroes/saber.html)
 
@@ -138,7 +138,9 @@ While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra
 
 A magical amalgamation of cute, mischievous creatures that dwells deep in the Shadow Swamp.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Gloo)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=104)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gloo)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Gloo)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=104)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

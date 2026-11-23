@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/wanwan.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/wanwan.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Ванван
 
 Стрелок · Линия золота
-
-**№ 113 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,14%
 
-Добивание · Разрушительный урон · Сложность 80/100
+**№ 113 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Добивание · Разрушительный урон · Сложность 80/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harith.webp)Харит+3,61 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа+2,55 п. п.](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/angela.webp)Ангела+2,04 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/floryn.webp)Флорин+1,71 п. п.](https://boostmlbb.ru/heroes/floryn.html)
 
@@ -135,7 +135,9 @@ language: ru
 
 Проворная тигрица из Бойцов Востока, жизнерадостная юная девушка, владеющая Арбалетом Тана.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Wanwan)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=89)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Wanwan)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Wanwan)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=89)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

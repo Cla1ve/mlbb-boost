@@ -17,7 +17,7 @@
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Boost MLBB">
   <meta property="og:title" content="Как поднять ранг в Mobile Legends соло: герои и математика звёзд">
-  <meta property="og:description" content="Считаем, сколько матчей стоит каждый процент побед, выбираем героев для соло на каждой линии и разбираем, кто силён в Эпике, а кто — в Мифической славе.">
+  <meta property="og:description" content="При 55% побед путь от Легенды V до Мифика занимает около 250 матчей по простой модели звёзд. При 60% — около 125.">
   <meta property="og:url" content="https://boostmlbb.ru/news/mlbb-rank-up-solo/">
   <meta property="og:image" content="https://boostmlbb.ru/images/news/mlbb-rank-up-solo.jpg">
   <meta property="og:image:width" content="1600">
@@ -33,7 +33,7 @@
   <meta property="article:tag" content="Герои">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Как поднять ранг в Mobile Legends соло: герои и математика звёзд">
-  <meta name="twitter:description" content="Считаем, сколько матчей стоит каждый процент побед, выбираем героев для соло на каждой линии и разбираем, кто силён в Эпике, а кто — в Мифической славе.">
+  <meta name="twitter:description" content="При 55% побед путь от Легенды V до Мифика занимает около 250 матчей по простой модели звёзд. При 60% — около 125.">
   <meta name="twitter:image" content="https://boostmlbb.ru/images/news/mlbb-rank-up-solo.jpg">
 
   <meta name="yandex-verification" content="61a4cbd156a4f1eb">
@@ -70,6 +70,7 @@
   <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
+  <link rel="stylesheet" href="/styles/arena.css?v=2">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -178,7 +179,7 @@
   ]
 }</script>
 </head>
-<body class="news-page article-page">
+<body class="news-page article-page journal-reference">
   <a class="skip-link" href="#article-content">Перейти к статье</a>
   <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
 
@@ -253,20 +254,13 @@
   <main>
     <article>
       <header class="article-header">
-        <div class="container article-header__inner">
-          <nav class="breadcrumbs" aria-label="Хлебные крошки">
-            <ol>
-              <li><a href="/">Главная</a></li>
-              <li class="breadcrumbs-news"><a href="/news/">Новости</a></li>
-              <li class="breadcrumbs-current" aria-current="page"><span>Как поднять ранг в Mobile Legends соло: герои и математика звёзд</span></li>
-            </ol>
-          </nav>
-        </div>
+        <div class="container article-header__inner"><nav class="arena-context" aria-label="Разделы Mobile Legends"><a href="/heroes/">Тир-лист</a><a href="/news/">Новости и гайды</a></nav></div>
         <div class="container journal-hero">
           <div class="journal-title">
-            <p class="journal-meta">Гайды · Обновлено <time datetime="2026-11-23T18:36:21+03:00">23 ноября 2026 г.</time></p>
+            <p class="journal-meta"><a href="/news/?category=guides">Гайды</a><time datetime="2026-11-23T16:20:00+03:00">23 ноября 2026 г.</time></p>
             <h1>Как поднять ранг в Mobile Legends соло: герои и математика звёзд</h1>
-            <p class="article-deck">Считаем, сколько матчей стоит каждый процент побед, выбираем героев для соло на каждой линии и разбираем, кто силён в Эпике, а кто — в Мифической славе.</p>
+            <p class="article-deck">При 55% побед путь от Легенды V до Мифика занимает около 250 матчей по простой модели звёзд. При 60% — около 125.</p>
+            <a class="journal-primary" href="#heroes">Герои для соло</a>
           </div>
         <div class="article-hero-media">
           <figure>
@@ -290,14 +284,14 @@
           <div class="article-rail__sticky">
             <nav class="article-toc" aria-label="Содержание статьи" data-article-toc>
               <p>В материале</p>
-              <ol><li><a href="#math">Сколько матчей нужно на 25 звёзд</a></li><li><a href="#heroes">Какие герои лучше для соло</a></li><li><a href="#by-rank">Герой, сильный в Эпике, не обязательно силён в Славе</a></li><li><a href="#habits">Что ещё помогает набрать звёзды</a></li></ol>
+              <ol><li><a href="#math">Сколько матчей нужно на 25 звёзд</a></li><li><a href="#heroes">Герои для соло по линиям</a></li><li><a href="#by-rank">Герои от Эпика до Славы</a></li><li><a href="#habits">Что ещё помогает набрать звёзды</a></li></ol>
             </nav>
-            <a class="rail-back" href="/news/"><span aria-hidden="true">←</span> Все новости</a>
+            <a class="rail-back" href="/news/">Все новости</a>
           </div>
         </aside>
 
         <div class="article-content" id="article-content" tabindex="-1">
-          <details class="journal-contents"><summary>В материале</summary><nav aria-label="Содержание статьи"><a href="#math">Сколько матчей нужно на 25 звёзд</a><a href="#heroes">Какие герои лучше для соло</a><a href="#by-rank">Герой, сильный в Эпике, не обязательно силён в Славе</a><a href="#habits">Что ещё помогает набрать звёзды</a></nav></details>
+          <details class="journal-contents"><summary>В материале</summary><nav aria-label="Содержание статьи"><a href="#math">Сколько матчей нужно на 25 звёзд</a><a href="#heroes">Герои для соло по линиям</a><a href="#by-rank">Герои от Эпика до Славы</a><a href="#habits">Что ещё помогает набрать звёзды</a></nav></details>
 
       <aside class="article-key-facts" aria-labelledby="brief">
         <h2 id="brief">Коротко</h2>
@@ -316,7 +310,7 @@
       </div>
       <p class="article-table-note">Без учёта защиты звезды и очков повышения.</p>
 <p>Отсюда главный вывод: даже пара лишних процентов побед экономит сотни матчей. Поэтому важнее всего не количество игр за вечер, а то, на каких героях и в каком состоянии вы их играете.</p>
-<h2 id="heroes">Какие герои лучше для соло</h2>
+<h2 id="heroes">Герои для соло по линиям</h2>
 <p>Мы взяли героев, которых выбирают хотя бы в 0,6% матчей и банят реже чем в 25%, — то есть тех, кого реально получить в одиночной игре. Затем отсортировали их по проценту побед в Легенде и Мифике, где застревает большинство игроков.</p>
 
       <div class="article-table-wrap article-table-wrap--cols-4" role="region" aria-label="Лучшие герои для соло по линиям" data-scroll-region>
@@ -335,7 +329,7 @@
         <small>Процент побед по рангам, контрпики, роли и линии.</small>
         <b aria-hidden="true">→</b>
       </a>
-<h2 id="by-rank">Герой, сильный в Эпике, не обязательно силён в Славе</h2>
+<h2 id="by-rank">Герои от Эпика до Славы</h2>
 <p>У части героев процент побед заметно меняется с рангом. Простые в освоении танки побеждают внизу, а в Мифической славе против них уже умеют играть. С механически сложными героями обратная история.</p>
 
       <div class="article-table-wrap article-table-wrap--cols-3" role="region" aria-label="Как меняется доля побед от Эпика к Мифической славе" data-scroll-region>
@@ -353,6 +347,11 @@
         <li>Держите в пуле два-три героя одной роли и один запасной на соседнюю линию. На знакомом герое доля побед выше, чем на новом.</li><li>Учите контрпики своих героев: на странице каждого героя в нашем тир-листе есть пятёрка тех, против кого он проигрывает.</li><li>Останавливайтесь после двух поражений подряд. Серия на нервах обычно стоит больше звёзд, чем приносит.</li><li>Не тратьте ранговые матчи на эксперименты: новый герой сначала в классике.</li><li>В Эпике и Легенде играйте на результат: за хорошие матчи копятся очки повышения, а полная шкала защиты звезды спасает от минуса.</li>
       </ul>
 
+      <section class="article-faq" aria-labelledby="faq">
+        <h2 id="faq">Частые вопросы</h2>
+        <details><summary>Сколько матчей нужно, чтобы дойти до Мифика из Легенды?</summary><p>От Легенды V до Мифика 25 звёзд. При 55% побед это около 250 матчей, при 60% — около 125, без учёта защиты звезды и очков повышения.</p></details><details><summary>Почему ранг не растёт, хотя я часто выигрываю?</summary><p>При 50% побед звёзды в среднем стоят на месте: победа даёт звезду, поражение её забирает. Расти начинаете только выше 50%, и каждый процент сильно сокращает путь.</p></details><details><summary>Каких героев брать для соло в MLBB?</summary><p>По статистике MOONTON за 30 дней в Легенде и Мифике лучше всех среди доступных героев выступают Минситтар на линии опыта, Линг в лесу, Валир в центре, Ханаби на линии золота и Рафаэль в роуме.</p></details>
+      </section>
+
       <aside class="rank-cta" aria-labelledby="solo-rank">
         <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
         <div class="rank-cta__copy">
@@ -360,17 +359,12 @@
           <span>У наших бустеров отрезок Легенда V → Мифик занимает около 5 часов.</span>
         </div>
         <div class="rank-cta__action">
-          <a href="/order.html?type=standard" data-news-cta data-cta-position="after-habits">
+          <a href="/order.html?type=standard" data-news-cta data-cta-position="end-of-article">
             <span class="rank-cta__button-label">Рассчитать стоимость</span>
             <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
         </div>
       </aside>
-
-      <section class="article-faq" aria-labelledby="faq">
-        <h2 id="faq">Частые вопросы</h2>
-        <details><summary>Сколько матчей нужно, чтобы дойти до Мифика из Легенды?</summary><p>От Легенды V до Мифика 25 звёзд. При 55% побед это около 250 матчей, при 60% — около 125, без учёта защиты звезды и очков повышения.</p></details><details><summary>Почему ранг не растёт, хотя я часто выигрываю?</summary><p>При 50% побед звёзды в среднем стоят на месте: победа даёт звезду, поражение её забирает. Расти начинаете только выше 50%, и каждый процент сильно сокращает путь.</p></details><details><summary>Каких героев брать для соло в MLBB?</summary><p>По статистике MOONTON за 30 дней в Легенде и Мифике лучше всех среди доступных героев выступают Минситтар на линии опыта, Линг в лесу, Валир в центре, Ханаби на линии золота и Рафаэль в роуме.</p></details>
-      </section>
 
           <footer class="article-footer"><a href="https://t.me/Cla1ve" rel="noopener noreferrer" target="_blank" aria-label="Написать в редакцию в Telegram, @Cla1ve (откроется в новой вкладке)">Сообщить об ошибке</a></footer>
         </div>
@@ -397,7 +391,7 @@
             <span class="related-card__meta">Гайды · <time datetime="2026-11-22T23:03:00+03:00">22 ноября 2026 г.</time></span>
             <strong class="related-card__title">Как сменить ник в MLBB: цена, невидимый ник и символы</strong>
           </a></div>
-        <a href="/news/">Вернуться в новостную ленту <span aria-hidden="true">→</span></a>
+        <a href="/news/">Вернуться в новостную ленту</a>
       </div>
     </section>
   </main>
@@ -456,6 +450,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=5"></script>
+  <script defer src="/js/news.js?v=6"></script>
 </body>
 </html>

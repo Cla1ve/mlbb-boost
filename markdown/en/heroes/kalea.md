@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/kalea.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Kalea
 
 Fighter and support · Roam
-
-**#51 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 6.50%
 
-Control · Regen · Difficulty 40/100
+**#51 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Control · Regen · Difficulty 40/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **55.30%**Picked in **6.90%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/diggie.webp)Diggie+6.61 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/floryn.webp)Floryn+5.94 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/marcel.webp)Marcel+5.62 pp](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes+4.51 pp](https://boostmlbb.ru/en/heroes/estes.html)
 
@@ -136,7 +136,9 @@ Kalea grabs an enemy hero with her tail and slams them down in the Joystick's di
 
 With her serpent tail, this proud descendant of the Great Serpent swims gracefully through the Vonetis Sea, aspiring to one day carry the full power of her heritage.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=128)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kalea)
+[Read the full story ↗](https://kazukiofficial.com/stories/kalea)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=128)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

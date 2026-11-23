@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/zhask.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/zhask.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Заск
 
 Маг · Средняя линия
-
-**№ 23 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,42%
 
-Преследование · Урон · Сложность 70/100
+**№ 23 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Урон · Сложность 70/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harley.webp)Харли+2,55 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/cyclops.webp)Циклоп+2,26 п. п.](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/natalia.webp)Наталья+1,82 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/johnson.webp)Джонсон+1,82 п. п.](https://boostmlbb.ru/heroes/johnson.html)
 
@@ -148,7 +148,9 @@ language: ru
 
 Король Роя, нарушающий баланс во Вселенной.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Zhask)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=50)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhask)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zhask)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=50)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

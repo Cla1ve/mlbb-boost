@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hanabi.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/hanabi.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Hanabi
 
 Marksman · Gold Lane
-
-**#20 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 4.27%
 
-Finisher · Damage · Difficulty 10/100
+**#20 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Damage · Difficulty 10/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.67%**Picked in **8.84%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/franco.webp)Franco+2.14 pp](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/roger.webp)Roger+1.98 pp](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+1.73 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/hilda.webp)Hilda+1.66 pp](https://boostmlbb.ru/en/heroes/hilda.html)
 
@@ -137,7 +137,9 @@ Hanabi throws Higanbana in the targeted direction, dealing 300 (+50% Total Physi
 
 Leader of the Scarlet Sect, in the Scarlet Shadow of the Cadia Riverlands.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Hanabi)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=60)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hanabi)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Hanabi)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=60)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

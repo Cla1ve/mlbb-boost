@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/esmeralda.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/esmeralda.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Esmeralda
 
 Tank and mage · EXP Lane
-
-**#119 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 2.21%
 
-Regen · Mixed Damage · Difficulty 70/100
+**#119 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · Mixed Damage · Difficulty 70/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.60%**Picked in **4.38%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/bane.webp)Bane+1.81 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/nolan.webp)Nolan+1.39 pp](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/helcurt.webp)Helcurt+1.19 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/julian.webp)Julian+1.11 pp](https://boostmlbb.ru/en/heroes/julian.html)
 
@@ -137,7 +137,9 @@ Use Again: Esmeralda casts Stardust at the target location, dealing 350 (+90% To
 
 A mysterious astrologer.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=81)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Esmeralda)
+[Read the full story ↗](https://kazukiofficial.com/stories/esmeralda)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=81)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

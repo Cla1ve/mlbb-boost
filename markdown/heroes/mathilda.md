@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/mathilda.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/mathilda.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Матильда
 
 Убийца и поддержка · Роум
-
-**№ 129 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,19%
 
-Инициатор · Защита · Сложность 70/100
+**№ 129 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Инициатор · Защита · Сложность 70/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/kalea.webp)Калеа+4,28 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/atlas.webp)Атлас+3,44 п. п.](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Кармилла+3,29 п. п.](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/odette.webp)Одетта+2,51 п. п.](https://boostmlbb.ru/heroes/odette.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Храбрая девушка, которая не боится превосходящих сил.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Mathilda)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=102)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Mathilda)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Mathilda)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=102)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

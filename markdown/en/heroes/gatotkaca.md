@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/gatotkaca.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Gatotkaca
 
 Tank and fighter · EXP Lane or Roam
-
-**#125 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.30%
 
-Crowd Control · Burst · Difficulty 40/100
+**#125 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Crowd Control · Burst · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **51.12%**Picked in **1.45%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/angela.webp)Angela+3.67 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/floryn.webp)Floryn+2.45 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/estes.webp)Estes+2.08 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/natalia.webp)Natalia+1.87 pp](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -135,7 +135,9 @@ The camera will move with the skill indicator but won't grant extra sight.
 
 Warrior from the Arcadhem universe.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=41)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gatotkaca)
+[Read the full story ↗](https://kazukiofficial.com/stories/gatotkaca)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=41)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

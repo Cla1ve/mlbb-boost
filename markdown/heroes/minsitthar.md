@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/minsitthar.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/minsitthar.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Минситтар
 
 Боец · Линия опыта
-
-**№ 27 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 4,19%
 
-Инициатор · Массовый контроль · Сложность 30/100
+**№ 27 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Инициатор · Массовый контроль · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/hilda.webp)Хильда+2,09 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/khaleed.webp)Халид+1,93 п. п.](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/sun.webp)Сан+1,48 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/estes.webp)Эстес+1,43 п. п.](https://boostmlbb.ru/heroes/estes.html)
 
@@ -137,7 +137,9 @@ language: ru
 
 Принц Города Песков, невероятный воин
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Minsitthar)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=74)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Minsitthar)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Minsitthar)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=74)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kadita.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/kadita.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Kadita
 
 Assassin and mage · Mid Lane
-
-**#38 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 2.92%
 
-Burst · Charge · Difficulty 60/100
+**#38 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Charge · Difficulty 60/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **56.88%**Picked in **2.70%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/floryn.webp)Floryn+2.17 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/mathilda.webp)Mathilda+1.87 pp](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/angela.webp)Angela+1.65 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/rafaela.webp)Rafaela+1.16 pp](https://boostmlbb.ru/en/heroes/rafaela.html)
 
@@ -137,7 +137,9 @@ This skill can only be interrupted by Suppression.
 
 The Ocean Goddess who wields the Trident of the Seas to cleanse the seas.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=75)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kadita)
+[Read the full story ↗](https://kazukiofficial.com/stories/kadita)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=75)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/rafaela.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/rafaela.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Rafaela
 
 Support · Roam
-
-**#5 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 12.66%
 
-Regen · Guard · Difficulty 40/100
+**#5 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · Guard · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **59.66%**Picked in **2.74%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/kalea.webp)Kalea+3.99 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/atlas.webp)Atlas+3.76 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Carmilla+3.30 pp](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/saber.webp)Saber+2.71 pp](https://boostmlbb.ru/en/heroes/saber.html)
 
@@ -137,7 +137,9 @@ Rafaela unleashes the true power of Holy Light in the target direction, dealing 
 
 An angel loved and respected by the people of this world.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Rafaela)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=14)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Rafaela)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Rafaela)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=14)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

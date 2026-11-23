@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/beatrix.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/beatrix.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Beatrix
 
 Marksman · Gold Lane
-
-**#52 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.41%
 
-Finisher · Damage · Difficulty 70/100
+**#52 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Damage · Difficulty 70/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.98%**Picked in **5.07%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+5.59 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/diggie.webp)Diggie+4.56 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/baxia.webp)Baxia+2.42 pp](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/fredrinn.webp)Fredrinn+2.20 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
@@ -143,7 +143,9 @@ Her weapon selection is interrupted if she commits any action or is controlled d
 
 A confident inventor girl.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Beatrix)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=105)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Beatrix)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Beatrix)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=105)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

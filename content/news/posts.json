@@ -7,7 +7,7 @@
       "title": "MSC 2026 завершён: Team Spirit — чемпион, все результаты плей-офф",
       "seoTitle": "MSC 2026: Team Spirit — чемпион, результаты плей-офф",
       "description": "Team Spirit выиграла MSC 2026, победив Yangon Galacticos 4:3 в гранд-финале. Все результаты плей-офф, путь чемпиона, MVP, призовые и аудитория.",
-      "excerpt": "Team Spirit стала первым неазиатским чемпионом MSC после финала 4:3 с Yangon Galacticos. Здесь — все восемь серий плей-офф, призовые, MVP и зрительские итоги.",
+      "excerpt": "Team Spirit выиграла финал у Yangon Galacticos со счётом 4:3. MVP турнира стал KidBomba.",
       "category": "Киберспорт",
       "categoryKey": "esports",
       "tags": [
@@ -80,7 +80,7 @@
         {
           "type": "heading",
           "id": "results",
-          "text": "Все результаты плей-офф MSC 2026"
+          "text": "Все матчи плей-офф"
         },
         {
           "type": "paragraph",
@@ -151,7 +151,7 @@
         {
           "type": "heading",
           "id": "champion-path",
-          "text": "Путь Team Spirit к титулу: две сухие серии и семь карт в финале"
+          "text": "Путь Team Spirit к титулу"
         },
         {
           "type": "matches",
@@ -232,7 +232,7 @@
         {
           "type": "heading",
           "id": "viewership",
-          "text": "Аудитория MSC 2026: пик пришёлся не на финал"
+          "text": "Зрители MSC 2026"
         },
         {
           "type": "paragraph",
@@ -324,7 +324,7 @@
           "title": "MSC 2026 Results: Team Spirit Win a Historic Mobile Legends Title",
           "seoTitle": "MSC 2026 Results: Team Spirit Crowned Champion",
           "description": "Team Spirit won MSC 2026 by beating Yangon Galacticos 4:3 in the Grand Final. See every playoff score, the champion's run, MVP, prizes, and viewership.",
-          "excerpt": "Team Spirit became MSC's first non-Asian champion after a 4:3 final against Yangon Galacticos. Here are all eight playoff series, prizes, MVP, and viewership results.",
+          "excerpt": "Team Spirit beat Yangon Galacticos 4–3 in the final. KidBomba was named tournament MVP.",
           "category": "Esports",
           "tags": [
             "MSC 2026",
@@ -381,7 +381,7 @@
             {
               "type": "heading",
               "id": "results",
-              "text": "All MSC 2026 playoff results"
+              "text": "Playoff results"
             },
             {
               "type": "paragraph",
@@ -452,7 +452,7 @@
             {
               "type": "heading",
               "id": "champion-path",
-              "text": "Team Spirit's title run: two sweeps and seven games in the final"
+              "text": "Team Spirit’s path to the title"
             },
             {
               "type": "matches",
@@ -533,7 +533,7 @@
             {
               "type": "heading",
               "id": "viewership",
-              "text": "MSC 2026 viewership peaked outside the final"
+              "text": "MSC 2026 viewership"
             },
             {
               "type": "paragraph",
@@ -711,7 +711,7 @@
       "title": "M8 по MLBB: когда начнётся, кто уже прошёл и кто едет от СНГ",
       "seoTitle": "M8 MLBB: даты, участники и команды СНГ",
       "description": "M8 World Championship: Wild Card в декабре в Бангкоке, основная стадия в январе 2027 в Стамбуле. Кто уже прошёл, включая Team Spirit, Aurevia и Team Yandex.",
-      "excerpt": "Даты и города M8, список команд, которые уже прошли в основную стадию и Wild Card, и что решится на MCT SEA в декабре.",
+      "excerpt": "Team Spirit начнёт с основной стадии в Стамбуле. Aurevia Team и Team Yandex сначала сыграют в Wild Card в Бангкоке.",
       "category": "Киберспорт",
       "categoryKey": "esports",
       "tags": [
@@ -790,7 +790,7 @@
         {
           "type": "heading",
           "id": "main-stage",
-          "text": "Кто уже прошёл на M8"
+          "text": "Участники M8"
         },
         {
           "type": "table",
@@ -935,7 +935,7 @@
         {
           "type": "heading",
           "id": "mct-sea",
-          "text": "Что решится на MCT SEA в декабре"
+          "text": "Отбор MCT SEA"
         },
         {
           "type": "table",
@@ -993,7 +993,7 @@
           "title": "M8 MLBB: when it starts, who has qualified and which CIS teams are going",
           "seoTitle": "M8 MLBB: dates, qualified teams and CIS teams",
           "description": "M8 World Championship: Wild Card in December in Bangkok, Main Stage in January 2027 in Istanbul. Who has qualified, including Team Spirit, Aurevia and Team Yandex.",
-          "excerpt": "M8 dates and cities, the teams already through to the Main Stage and Wild Card, and what MCT SEA decides in December.",
+          "excerpt": "Team Spirit starts in the Istanbul main stage. Aurevia Team and Team Yandex begin in the Bangkok Wild Card.",
           "category": "Esports",
           "tags": [
             "M8 World Championship",
@@ -1057,7 +1057,7 @@
             {
               "type": "heading",
               "id": "main-stage",
-              "text": "Who has qualified for M8"
+              "text": "M8 teams"
             },
             {
               "type": "table",
@@ -1202,7 +1202,7 @@
             {
               "type": "heading",
               "id": "mct-sea",
-              "text": "What MCT SEA decides in December"
+              "text": "MCT SEA qualifiers"
             },
             {
               "type": "table",
@@ -1304,7 +1304,7 @@
       "title": "Ранги в Mobile Legends по порядку: все звания, звёзды и Мифик",
       "seoTitle": "Ранги MLBB по порядку: все звания и звёзды",
       "description": "Все 10 рангов Mobile Legends от Воина до Мифического бессмертного: сколько дивизионов и звёзд в каждом, пороги Мифика, калибровка и защита звезды.",
-      "excerpt": "Таблица всех рангов MLBB по порядку, сколько звёзд нужно до Мифика, как работают Мифические ранги, калибровка и защита звезды.",
+      "excerpt": "До Мифика нужно 112 звёзд. В Мифике Честь начинается с 25, Слава с 50, Бессмертный со 100 звёзд.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -1494,7 +1494,7 @@
         {
           "type": "heading",
           "id": "matches",
-          "text": "Сколько матчей нужно до Мифика"
+          "text": "Сколько матчей до Мифика"
         },
         {
           "type": "paragraph",
@@ -1546,7 +1546,7 @@
         {
           "type": "heading",
           "id": "reset",
-          "text": "Что происходит с рангом в конце сезона"
+          "text": "Сброс ранга"
         },
         {
           "type": "paragraph",
@@ -1602,7 +1602,7 @@
           "title": "Mobile Legends ranks in order: all tiers, stars and Mythic",
           "seoTitle": "MLBB ranks in order: all tiers and stars",
           "description": "All 10 Mobile Legends ranks from Warrior to Mythical Immortal: divisions and stars in each, Mythic thresholds, placement matches and star protection.",
-          "excerpt": "A table of every MLBB rank in order, how many stars it takes to reach Mythic, how Mythic ranks work, placement and star protection.",
+          "excerpt": "Mythic takes 112 stars to reach. Mythical Honor begins at 25 Mythic stars, Glory at 50 and Immortal at 100.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -1777,7 +1777,7 @@
             {
               "type": "heading",
               "id": "matches",
-              "text": "How many matches it takes to reach Mythic"
+              "text": "Matches to reach Mythic"
             },
             {
               "type": "paragraph",
@@ -1829,7 +1829,7 @@
             {
               "type": "heading",
               "id": "reset",
-              "text": "What happens to your rank at season end"
+              "text": "Rank reset"
             },
             {
               "type": "paragraph",
@@ -1869,7 +1869,7 @@
       "title": "Когда закончится 42 сезон MLBB и куда упадёт ранг после сброса",
       "seoTitle": "Конец 42 сезона MLBB: дата и сброс ранга",
       "description": "42 сезон Mobile Legends ожидаемо закончится 16 декабря 2026 года. Таблица сброса: Бессмертный и Слава падают в Легенду V, Честь — в Эпик I, Мифик — в Эпик II.",
-      "excerpt": "Ожидаемая дата конца 42 сезона, таблица сброса рангов, сезонные награды и что происходит с заказами в первые дни нового сезона.",
+      "excerpt": "42 сезон предположительно закончится 16 декабря. После сброса Мифическая слава и Бессмертный начнут с Легенды V.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -1958,7 +1958,7 @@
         {
           "type": "heading",
           "id": "reset",
-          "text": "Куда упадёт ранг после сброса"
+          "text": "Таблица сброса рангов"
         },
         {
           "type": "table",
@@ -2039,7 +2039,7 @@
         {
           "type": "heading",
           "id": "prepare",
-          "text": "Что сделать до конца сезона"
+          "text": "Перед концом сезона"
         },
         {
           "type": "list",
@@ -2106,7 +2106,7 @@
           "title": "When MLBB Season 42 ends and where your rank drops after the reset",
           "seoTitle": "MLBB Season 42 end date and rank reset chart",
           "description": "Mobile Legends Season 42 is expected to end on 16 December 2026. Reset chart: Immortal and Glory drop to Legend V, Honor to Epic I and Mythic to Epic II.",
-          "excerpt": "The expected end of Season 42, the rank reset chart, season rewards and what happens to orders in the first days of a new season.",
+          "excerpt": "Season 42 is expected to end on 16 December. Mythical Glory and Immortal drop to Legend V after the reset.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -2180,7 +2180,7 @@
             {
               "type": "heading",
               "id": "reset",
-              "text": "Where your rank drops after the reset"
+              "text": "Rank reset table"
             },
             {
               "type": "table",
@@ -2261,7 +2261,7 @@
             {
               "type": "heading",
               "id": "prepare",
-              "text": "What to do before the season ends"
+              "text": "Before the season ends"
             },
             {
               "type": "list",
@@ -2306,7 +2306,7 @@
       "title": "Мета MLBB в ноябре 2026: тир-лист героев по официальной статистике",
       "seoTitle": "Тир-лист MLBB ноябрь 2026: мета 42 сезона",
       "description": "Тир-лист Mobile Legends на ноябрь 2026 по официальной статистике MOONTON: лучшие герои по проценту побед, самые частые баны и кто сильнее в Мифической славе.",
-      "excerpt": "Тир-лист 42 сезона по официальной статистике за 30 дней: сильнейшие герои, баны, популярные и слабые герои, отличия Мифической славы.",
+      "excerpt": "В ноябрьском срезе лидирует Маша с 60,47% побед. Самый частый бан в Мифической славе у Хирары, 86,53%.",
       "category": "Мета",
       "categoryKey": "meta",
       "tags": [
@@ -2947,7 +2947,7 @@
         {
           "type": "heading",
           "id": "strongest",
-          "text": "Самые сильные герои месяца"
+          "text": "Лидеры по победам"
         },
         {
           "type": "table",
@@ -3124,7 +3124,7 @@
         {
           "type": "heading",
           "id": "popular",
-          "text": "Популярные, но не самые сильные"
+          "text": "Самые популярные герои"
         },
         {
           "type": "table",
@@ -3194,7 +3194,7 @@
         {
           "type": "heading",
           "id": "glory",
-          "text": "Что меняется в Мифической славе"
+          "text": "Герои в Мифической славе"
         },
         {
           "type": "table",
@@ -3336,7 +3336,7 @@
           "title": "MLBB meta in November 2026: hero tier list from official statistics",
           "seoTitle": "MLBB tier list November 2026: Season 42 meta",
           "description": "Mobile Legends tier list for November 2026 from official MOONTON statistics: best heroes by win rate, most banned heroes and who is stronger in Mythical Glory.",
-          "excerpt": "Season 42 tier list from 30 days of official statistics: strongest heroes, bans, popular and weak heroes, and how Mythical Glory differs.",
+          "excerpt": "Masha leads the November snapshot with a 60.47% win rate. Hirara has the highest Mythical Glory ban rate at 86.53%.",
           "category": "Meta",
           "tags": [
             "Mobile Legends",
@@ -3962,7 +3962,7 @@
             {
               "type": "heading",
               "id": "strongest",
-              "text": "The strongest heroes of the month"
+              "text": "Highest win rates"
             },
             {
               "type": "table",
@@ -4139,7 +4139,7 @@
             {
               "type": "heading",
               "id": "popular",
-              "text": "Popular but not the strongest"
+              "text": "Most picked heroes"
             },
             {
               "type": "table",
@@ -4209,7 +4209,7 @@
             {
               "type": "heading",
               "id": "glory",
-              "text": "What changes in Mythical Glory"
+              "text": "Heroes in Mythical Glory"
             },
             {
               "type": "table",
@@ -4347,7 +4347,7 @@
       "title": "Какой сейчас патч в MLBB: обновление 2.2.16 и что оно изменило",
       "seoTitle": "Патч MLBB 2.2.16: что изменилось и какой сейчас патч",
       "description": "Текущий патч Mobile Legends — 2.2.16. Переработка Маши и Бруно, кого усилили и ослабили, экономика и карта 2026 года, и как это видно в статистике героев.",
-      "excerpt": "Главное из патча 2.2.16: новая Маша и Бруно, усиления и ослабления, экономика матча, карта 2026 года и что стало с героями через два месяца.",
+      "excerpt": "В обновлении 2.2.16 переработали Машу и Бруно, снизили награду за лесных монстров и изменили карту.",
       "category": "Патчи",
       "categoryKey": "patches",
       "tags": [
@@ -4394,7 +4394,7 @@
         {
           "type": "heading",
           "id": "heroes",
-          "text": "Что патч сделал с героями: два месяца спустя"
+          "text": "Изменения героев"
         },
         {
           "type": "table",
@@ -4521,7 +4521,7 @@
         {
           "type": "heading",
           "id": "economy",
-          "text": "Экономика матча и карта 2026 года"
+          "text": "Экономика и карта"
         },
         {
           "type": "list",
@@ -4611,7 +4611,7 @@
           "title": "Current MLBB patch: update 2.2.16 and what it changed",
           "seoTitle": "MLBB patch 2.2.16: what changed and the current patch",
           "description": "The current Mobile Legends patch is 2.2.16. Masha and Bruno reworks, buffs and nerfs, the match economy and the 2026 map, and how it shows in hero statistics.",
-          "excerpt": "The key points of patch 2.2.16: the new Masha and Bruno, buffs and nerfs, match economy, the 2026 map and what happened to heroes two months later.",
+          "excerpt": "Update 2.2.16 reworked Masha and Bruno, lowered jungle monster rewards and changed the map.",
           "category": "Patches",
           "tags": [
             "Mobile Legends",
@@ -4643,7 +4643,7 @@
             {
               "type": "heading",
               "id": "heroes",
-              "text": "What the patch did to heroes, two months on"
+              "text": "Hero changes"
             },
             {
               "type": "table",
@@ -4770,7 +4770,7 @@
             {
               "type": "heading",
               "id": "economy",
-              "text": "Match economy and the 2026 map"
+              "text": "Economy and map"
             },
             {
               "type": "list",
@@ -4850,7 +4850,7 @@
       "title": "Промокоды MLBB: куда вводить и почему код не работает",
       "seoTitle": "Промокоды MLBB: куда вводить и почему не работают",
       "description": "Куда вводить промокоды Mobile Legends: официальная страница mobilelegends.com/redeem, Game ID, Zone ID и код из игровой почты. Почему код не работает и как не попасться мошенникам.",
-      "excerpt": "Пошаговый ввод промокода на официальной странице MOONTON, где взять Game ID и Zone ID, почему код не срабатывает и как отличить мошеннический сайт.",
+      "excerpt": "Для активации понадобятся Game ID, Zone ID и проверочный код из игровой почты.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -4929,7 +4929,7 @@
         {
           "type": "heading",
           "id": "steps",
-          "text": "Как ввести промокод: пошагово"
+          "text": "Как активировать код"
         },
         {
           "type": "linkCard",
@@ -4984,7 +4984,7 @@
         {
           "type": "heading",
           "id": "sources",
-          "text": "Где искать настоящие промокоды"
+          "text": "Где брать промокоды"
         },
         {
           "type": "paragraph",
@@ -5032,7 +5032,7 @@
           "title": "MLBB redeem codes: where to enter them and why a code fails",
           "seoTitle": "MLBB redeem codes: where to enter and why they fail",
           "description": "Where to enter Mobile Legends redeem codes: the official mobilelegends.com/redeem page, Game ID, Zone ID and an in-game mail code. Why codes fail and how to avoid scams.",
-          "excerpt": "Step-by-step redemption on the official MOONTON page, where to find your Game ID and Zone ID, why a code fails and how to spot a scam site.",
+          "excerpt": "You need your Game ID, Zone ID and a verification code from your in-game mailbox.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -5096,7 +5096,7 @@
             {
               "type": "heading",
               "id": "steps",
-              "text": "How to redeem a code, step by step"
+              "text": "How to redeem a code"
             },
             {
               "type": "linkCard",
@@ -5151,7 +5151,7 @@
             {
               "type": "heading",
               "id": "sources",
-              "text": "Where to find real redeem codes"
+              "text": "Where to find codes"
             },
             {
               "type": "paragraph",
@@ -5195,7 +5195,7 @@
       "title": "Как сменить ник в MLBB: цена, невидимый ник и символы",
       "seoTitle": "Как сменить ник в MLBB: цена и невидимый ник",
       "description": "Как поменять ник в Mobile Legends: где кнопка, сколько стоит карточка смены имени, бесплатная первая смена, невидимый ник из пустых символов и знаки для красивого ника.",
-      "excerpt": "Меняем имя в профиле, разбираемся с ценой карточки, собираем пустой ник из символов Unicode и проверяем, что игра его примет.",
+      "excerpt": "Ник меняется в профиле. Первая смена бесплатна, затем понадобится карточка смены имени.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -5238,7 +5238,7 @@
         {
           "type": "heading",
           "id": "steps",
-          "text": "Как сменить ник: пошагово"
+          "text": "Как поменять имя"
         },
         {
           "type": "list",
@@ -5299,7 +5299,7 @@
         {
           "type": "heading",
           "id": "invisible",
-          "text": "Как сделать невидимый ник"
+          "text": "Невидимый ник"
         },
         {
           "type": "paragraph",
@@ -5325,7 +5325,8 @@
               "Braille Pattern Blank, пустой знак шрифта Брайля"
             ]
           ],
-          "note": "Копируйте то, что внутри квадратных скобок. На телефоне удобнее скопировать символ вместе со скобками, вставить в заметки и удалить скобки."
+          "note": "Копируйте то, что внутри квадратных скобок. На телефоне удобнее скопировать символ вместе со скобками, вставить в заметки и удалить скобки.",
+          "layout": "copy-symbol"
         },
         {
           "type": "list",
@@ -5446,7 +5447,7 @@
           "title": "How to change your MLBB nickname: price, invisible name, symbols",
           "seoTitle": "How to change your MLBB name: price and invisible name",
           "description": "How to change your Mobile Legends nickname: where the button is, what a Rename Card costs, the free first change, an invisible name and signs for a stylish name.",
-          "excerpt": "We change the name in the profile, sort out the card price, build a blank nickname from Unicode characters and check that the game accepts it.",
+          "excerpt": "Change your nickname in your profile. The first change is free, and later changes require a Rename Card.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -5474,7 +5475,7 @@
             {
               "type": "heading",
               "id": "steps",
-              "text": "How to change your nickname: step by step"
+              "text": "How to change your name"
             },
             {
               "type": "list",
@@ -5535,7 +5536,7 @@
             {
               "type": "heading",
               "id": "invisible",
-              "text": "How to make an invisible nickname"
+              "text": "Invisible nickname"
             },
             {
               "type": "paragraph",
@@ -5561,7 +5562,8 @@
                   "Braille Pattern Blank, an empty Braille sign"
                 ]
               ],
-              "note": "Copy what is inside the square brackets. On a phone it is easier to copy the character with the brackets, paste it into your notes and delete the brackets."
+              "note": "Copy what is inside the square brackets. On a phone it is easier to copy the character with the brackets, paste it into your notes and delete the brackets.",
+              "layout": "copy-symbol"
             },
             {
               "type": "list",
@@ -5666,7 +5668,7 @@
       "title": "Новые герои MLBB 2026: кто вышел, переработки и что дальше",
       "seoTitle": "Новые герои MLBB 2026: список по датам и статистика",
       "description": "Все новые и переработанные герои Mobile Legends с 2025 года по датам: Хирара, Марсель, Сора, Маша и Бруно. Как они играют сейчас и когда ждать нового героя.",
-      "excerpt": "Хирара, Марсель, Сора и переработки Маши и Бруно: даты выхода по патч-нотам, процент побед и банов сейчас и что известно о следующем герое.",
+      "excerpt": "Последний новый герой в ноябрьском срезе — Хирара. Она вышла 17 июня как убийца для леса.",
       "category": "Патчи",
       "categoryKey": "patches",
       "tags": [
@@ -5709,7 +5711,7 @@
         {
           "type": "heading",
           "id": "timeline",
-          "text": "Новые герои и переработки по датам"
+          "text": "Хронология героев"
         },
         {
           "type": "table",
@@ -5786,7 +5788,7 @@
         {
           "type": "heading",
           "id": "now",
-          "text": "Как новые герои играют сейчас"
+          "text": "Статистика новых героев"
         },
         {
           "type": "paragraph",
@@ -6043,7 +6045,7 @@
           "title": "New MLBB heroes 2026: releases, revamps and what comes next",
           "seoTitle": "New MLBB heroes 2026: list by date and statistics",
           "description": "Every new and revamped Mobile Legends hero since 2025 by date: Hirara, Marcel, Sora, Masha and Bruno. How they perform now and when to expect the next hero.",
-          "excerpt": "Hirara, Marcel, Sora and the Masha and Bruno revamps: release dates from patch notes, current win and ban rates and what is known about the next hero.",
+          "excerpt": "Hirara is the latest new hero in the November snapshot. The jungle assassin arrived on 17 June.",
           "category": "Patches",
           "tags": [
             "Mobile Legends",
@@ -6071,7 +6073,7 @@
             {
               "type": "heading",
               "id": "timeline",
-              "text": "New heroes and revamps by date"
+              "text": "Hero timeline"
             },
             {
               "type": "table",
@@ -6148,7 +6150,7 @@
             {
               "type": "heading",
               "id": "now",
-              "text": "How the new heroes perform now"
+              "text": "New hero statistics"
             },
             {
               "type": "paragraph",
@@ -6389,7 +6391,7 @@
       "title": "Аккаунт Mobile Legends: как привязать, сменить и восстановить",
       "seoTitle": "Аккаунт Mobile Legends: привязка, смена и восстановление",
       "description": "Как привязать аккаунт Mobile Legends к почте Moonton, Google, Apple ID или VK, сменить профиль, вернуть потерянный и удалить ненужный. Шаги и правила MOONTON.",
-      "excerpt": "Почему гостевой профиль пропадает вместе с телефоном, какой способ входа надёжнее, как зайти во второй аккаунт, вернуть потерянный и удалить ненужный.",
+      "excerpt": "Проверьте привязку в разделе «Аккаунт» перед сменой телефона. Прогресс гостевого профиля может остаться на старом устройстве.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -6432,7 +6434,7 @@
         {
           "type": "heading",
           "id": "guest",
-          "text": "Почему гостевой аккаунт опасен"
+          "text": "Гостевой аккаунт"
         },
         {
           "type": "paragraph",
@@ -6497,7 +6499,7 @@
         {
           "type": "heading",
           "id": "switch",
-          "text": "Как сменить аккаунт или зайти во второй"
+          "text": "Как сменить аккаунт"
         },
         {
           "type": "paragraph",
@@ -6645,7 +6647,7 @@
           "title": "Mobile Legends account: how to bind, switch and recover it",
           "seoTitle": "Mobile Legends account: bind, switch and recover",
           "description": "How to bind a Mobile Legends account to a Moonton email, Google, Apple ID or VK, switch profiles, recover a lost one and delete one. Steps and MOONTON rules.",
-          "excerpt": "Why a guest profile disappears with your phone, which login is safest, how to open a second account, recover a lost one and delete one you no longer need.",
+          "excerpt": "Check your linked login in Account before switching phones. A guest profile may stay on the old device.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -6674,7 +6676,7 @@
             {
               "type": "heading",
               "id": "guest",
-              "text": "Why a guest account is risky"
+              "text": "Guest account"
             },
             {
               "type": "paragraph",
@@ -6739,7 +6741,7 @@
             {
               "type": "heading",
               "id": "switch",
-              "text": "How to switch accounts or log in to a second one"
+              "text": "How to switch accounts"
             },
             {
               "type": "paragraph",
@@ -6858,7 +6860,7 @@
       "title": "Как поднять ранг в Mobile Legends соло: герои и математика звёзд",
       "seoTitle": "Как поднять ранг в MLBB соло: герои и звёзды",
       "description": "Сколько матчей нужно до Мифика при 50, 55 и 60% побед, лучшие герои для соло по линиям по статистике MOONTON и привычки, которые помогают набирать звёзды.",
-      "excerpt": "Считаем, сколько матчей стоит каждый процент побед, выбираем героев для соло на каждой линии и разбираем, кто силён в Эпике, а кто — в Мифической славе.",
+      "excerpt": "При 55% побед путь от Легенды V до Мифика занимает около 250 матчей по простой модели звёзд. При 60% — около 125.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -6951,7 +6953,7 @@
         {
           "type": "heading",
           "id": "heroes",
-          "text": "Какие герои лучше для соло"
+          "text": "Герои для соло по линиям"
         },
         {
           "type": "paragraph",
@@ -7033,7 +7035,7 @@
         {
           "type": "heading",
           "id": "by-rank",
-          "text": "Герой, сильный в Эпике, не обязательно силён в Славе"
+          "text": "Герои от Эпика до Славы"
         },
         {
           "type": "paragraph",
@@ -7151,7 +7153,7 @@
           "title": "How to rank up solo in Mobile Legends: heroes and star maths",
           "seoTitle": "How to rank up solo in MLBB: heroes and stars",
           "description": "How many matches Mythic takes at 50, 55 and 60% wins, the best solo heroes by lane from MOONTON statistics and habits that help you collect stars.",
-          "excerpt": "We work out how many matches each percent of wins costs, pick solo heroes for every lane and see who is strong in Epic and who in Mythical Glory.",
+          "excerpt": "At a 55% win rate, Legend V to Mythic takes roughly 250 matches in a simple star model. At 60%, it takes around 125.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -7230,7 +7232,7 @@
             {
               "type": "heading",
               "id": "heroes",
-              "text": "Which heroes are best for solo queue"
+              "text": "Solo queue picks by lane"
             },
             {
               "type": "paragraph",
@@ -7312,7 +7314,7 @@
             {
               "type": "heading",
               "id": "by-rank",
-              "text": "A hero that is strong in Epic is not always strong in Glory"
+              "text": "Heroes from Epic to Glory"
             },
             {
               "type": "paragraph",
@@ -7419,7 +7421,7 @@
       "title": "Кого банить в Mobile Legends: самые опасные герои по рангам",
       "seoTitle": "Кого банить в MLBB: самые опасные герои",
       "description": "Кого чаще всего банят в Mobile Legends, кто из них действительно выигрывает, какой бан выбрать в Эпике, Мифике и Славе и кем контрить. Статистика MOONTON.",
-      "excerpt": "Хирару банят в двух матчах из трёх, а выигрывает она половину игр. Разбираем, на кого на самом деле стоит тратить бан и кем контрить, если он не достался.",
+      "excerpt": "Хирару банили в 86,38% матчей Мифической славы. Маша выиграла 60,75% игр на этом ранге, когда дошла до матча.",
       "category": "Мета",
       "categoryKey": "meta",
       "tags": [
@@ -7537,7 +7539,7 @@
         {
           "type": "heading",
           "id": "real-threat",
-          "text": "Кого банить на самом деле"
+          "text": "Кого банить по винрейту"
         },
         {
           "type": "table",
@@ -7602,7 +7604,7 @@
         {
           "type": "heading",
           "id": "counters",
-          "text": "Если бан не достался: кем контрить"
+          "text": "Контрпики популярных героев"
         },
         {
           "type": "table",
@@ -7701,7 +7703,7 @@
           "title": "Who to ban in Mobile Legends: the most dangerous heroes by rank",
           "seoTitle": "Who to ban in MLBB: the most dangerous heroes",
           "description": "Who gets banned most in Mobile Legends, which of them really win, which ban to pick in Epic, Mythic and Glory and who counters them. MOONTON statistics.",
-          "excerpt": "Hirara is banned in two matches out of three yet wins half her games. We look at who really deserves your ban and who counters them if it is gone.",
+          "excerpt": "Hirara was banned in 86.38% of Mythical Glory matches. Masha won 60.75% of the games she played at that rank.",
           "category": "Meta",
           "tags": [
             "Mobile Legends",
@@ -7805,7 +7807,7 @@
             {
               "type": "heading",
               "id": "real-threat",
-              "text": "Who you should really ban"
+              "text": "Bans by win rate"
             },
             {
               "type": "table",
@@ -7870,7 +7872,7 @@
             {
               "type": "heading",
               "id": "counters",
-              "text": "If the ban is gone: who counters them"
+              "text": "Counters to popular heroes"
             },
             {
               "type": "table",
@@ -7964,7 +7966,7 @@
       "title": "Сборки на героев MLBB 2026: что собирают в рейтинге",
       "seoTitle": "Сборки на героев MLBB 2026: предметы, эмблемы, заклинания",
       "description": "Популярные сборки на героев Mobile Legends из «Академии» в игре: предметы, эмблемы и заклинания для 133 героев, сборки на самых популярных героев.",
-      "excerpt": "Что реально собирают в рейтинге: сборки на десять самых популярных героев, самые частые предметы, эмблемы и боевые заклинания.",
+      "excerpt": "Предметы, эмблемы и заклинания для Ханаби, Обсидии и ещё восьми популярных героев рейтинга.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -8010,7 +8012,7 @@
         {
           "type": "heading",
           "id": "top-heroes",
-          "text": "Сборки на популярных героев"
+          "text": "Сборки по героям"
         },
         {
           "type": "table",
@@ -8089,7 +8091,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Процент побед в таблице — в матчах именно с этой сборкой, поэтому он обычно выше общего процента побед героя. Самая единодушная сборка у Ангелы: её выбирают в 15,45% матчей на этом герое. Полные сборки с талантами эмблем и запасными вариантами — на странице каждого героя в тир-листе."
+          "text": "Сборку Ангелы выбирают в 15,45% матчей на этом герое. Таланты и запасные варианты есть в профиле каждого героя."
         },
         {
           "type": "linkCard",
@@ -8101,7 +8103,7 @@
         {
           "type": "heading",
           "id": "items",
-          "text": "Какие предметы собирают чаще всего"
+          "text": "Самые частые предметы"
         },
         {
           "type": "table",
@@ -8153,7 +8155,7 @@
         {
           "type": "heading",
           "id": "emblems",
-          "text": "Какую эмблему брать"
+          "text": "Эмблемы"
         },
         {
           "type": "table",
@@ -8201,7 +8203,7 @@
         {
           "type": "heading",
           "id": "spells",
-          "text": "Какое заклинание брать"
+          "text": "Боевые заклинания"
         },
         {
           "type": "table",
@@ -8305,7 +8307,7 @@
           "title": "MLBB hero builds 2026: what players build in ranked",
           "seoTitle": "MLBB hero builds 2026: items, emblems, spells",
           "description": "Popular Mobile Legends hero builds from the in-game Academy: items, emblems and battle spells for 133 heroes, and builds for the most picked heroes.",
-          "excerpt": "What players really build in ranked: builds for the ten most picked heroes, the most common items, emblems and battle spells.",
+          "excerpt": "Items, emblems and battle spells for Hanabi, Obsidia and eight other popular ranked heroes.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -8337,7 +8339,7 @@
             {
               "type": "heading",
               "id": "top-heroes",
-              "text": "Builds for popular heroes"
+              "text": "Hero builds"
             },
             {
               "type": "table",
@@ -8416,7 +8418,7 @@
             },
             {
               "type": "paragraph",
-              "text": "The win rate in the table is for matches played with this exact build, so it is usually higher than the hero’s overall win rate. Angela has the most unanimous build: it is picked in 15.45% of matches on her. Full builds with emblem talents and alternatives are on every hero page in the tier list."
+              "text": "Angela’s setup is picked in 15.45% of her matches. Each hero’s profile lists talents and alternative builds."
             },
             {
               "type": "linkCard",
@@ -8428,7 +8430,7 @@
             {
               "type": "heading",
               "id": "items",
-              "text": "Which items are built most often"
+              "text": "Most common items"
             },
             {
               "type": "table",
@@ -8480,7 +8482,7 @@
             {
               "type": "heading",
               "id": "emblems",
-              "text": "Which emblem to take"
+              "text": "Emblems"
             },
             {
               "type": "table",
@@ -8528,7 +8530,7 @@
             {
               "type": "heading",
               "id": "spells",
-              "text": "Which battle spell to take"
+              "text": "Battle spells"
             },
             {
               "type": "table",

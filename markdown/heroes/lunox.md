@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lunox.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/lunox.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Люнокс
 
 Маг · Средняя линия
-
-**№ 49 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,65%
 
-Разрушительный урон · Урон · Сложность 90/100
+**№ 49 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Урон · Сложность 90/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/chip.webp)Чип+4,70 п. п.](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/zhuxin.webp)Чжусинь+3,63 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Валентина+2,15 п. п.](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/granger.webp)Грейнджер+1,76 п. п.](https://boostmlbb.ru/heroes/granger.html)
 
@@ -146,7 +146,9 @@ language: ru
 
 Чудесное создание, рожденное в сумеречной сфере.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=68)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lunox)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/lunox)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=68)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

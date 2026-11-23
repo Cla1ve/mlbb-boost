@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/leomord.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/leomord.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Leomord
 
 Fighter · Jungle
-
-**#61 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.61%
 
-Chase · Burst · Difficulty 30/100
+**#61 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **58.53%**Picked in **3.40%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/joy.webp)Joy+3.38 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/floryn.webp)Floryn+1.18 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.17 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/diggie.webp)Diggie+1.16 pp](https://boostmlbb.ru/en/heroes/diggie.html)
 
@@ -140,7 +140,9 @@ Mounted State: Leomord gains a brand-new set of skills, and his Basic Attack can
 
 A sworn knight who vowed to guard Necrokeep until his last breath.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Leomord)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=67)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Leomord)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Leomord)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=67)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

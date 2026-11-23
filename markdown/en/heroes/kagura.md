@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/kagura.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Kagura
 
 Mage · Mid Lane
-
-**#42 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.15%
 
-Poke · Finisher · Difficulty 90/100
+**#42 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Finisher · Difficulty 90/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.46%**Picked in **2.00%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+9.48 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Cyclops+2.35 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+1.65 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/granger.webp)Granger+1.47 pp](https://boostmlbb.ru/en/heroes/granger.html)
 
@@ -136,7 +136,9 @@ Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic P
 
 A young spirit born of the deep longings stored within the Seimei Umbrella, she has finally stepped out of her dream, like a radiant bloom, in defiance of the dark night.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=25)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kagura)
+[Read the full story ↗](https://kazukiofficial.com/stories/kagura)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=25)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/wanwan.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/wanwan.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Wanwan
 
 Marksman · Gold Lane
-
-**#113 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.14%
 
-Finisher · Burst · Difficulty 80/100
+**#113 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Burst · Difficulty 80/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **49.34%**Picked in **3.79%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+3.61 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+2.55 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/angela.webp)Angela+2.04 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/floryn.webp)Floryn+1.71 pp](https://boostmlbb.ru/en/heroes/floryn.html)
 
@@ -135,7 +135,9 @@ Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit 
 
 The Agile Tiger of the Oriental Fighters and a lively young girl who wields the Crossbow of Tang.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Wanwan)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=89)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Wanwan)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Wanwan)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=89)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

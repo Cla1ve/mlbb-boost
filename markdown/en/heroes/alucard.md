@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/alucard.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/alucard.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Alucard
 
 Fighter and assassin · Jungle
-
-**#93 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.36%
 
-Chase · Damage · Difficulty 30/100
+**#93 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **19.25%**Picked in **2.68%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/tigreal.webp)Tigreal+1.93 pp](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/floryn.webp)Floryn+1.28 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/lapu-lapu.webp)Lapu-Lapu+1.28 pp](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/kaja.webp)Kaja+1.25 pp](https://boostmlbb.ru/en/heroes/kaja.html)
 
@@ -138,7 +138,9 @@ Use Again: Alucard releases a powerful shockwave forward, dealing 400 (+200% Ext
 
 Demon hunter who detests the darkness.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Alucard)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=7)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alucard)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Alucard)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=7)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lancelot.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/lancelot.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Ланселот
 
 Убийца · Лес
-
-**№ 130 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,47%
 
-Преследование · Разрушительный урон · Сложность 50/100
+**№ 130 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Разрушительный урон · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/angela.webp)Ангела+3,22 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Дариус+1,17 п. п.](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/argus.webp)Аргус+1,11 п. п.](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/hanabi.webp)Ханаби+0,75 п. п.](https://boostmlbb.ru/heroes/hanabi.html)
 
@@ -136,7 +136,9 @@ language: ru
 
 Блудный сын и талантливый фехтовальщик Дома Барокко.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Lancelot)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=47)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lancelot)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lancelot)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=47)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

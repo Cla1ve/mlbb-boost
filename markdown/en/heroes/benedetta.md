@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/benedetta.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Benedetta
 
 Fighter and assassin · EXP Lane
-
-**#25 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.37%
 
-Chase · Burst · Difficulty 80/100
+**#25 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 80/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **52.99%**Picked in **2.49%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/thamuz.webp)Thamuz+2.18 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/fredrinn.webp)Fredrinn+2.02 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/sun.webp)Sun+2.02 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/alice.webp)Alice+1.91 pp](https://boostmlbb.ru/en/heroes/alice.html)
 
@@ -139,7 +139,9 @@ Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the 
 
 Female warrior defending the Barren Lands against demon invasion.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Benedetta)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=97)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Benedetta)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Benedetta)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=97)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

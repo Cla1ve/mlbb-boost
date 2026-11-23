@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/martis.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/martis.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Мартис
 
 Боец · Линия опыта или лес
-
-**№ 118 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,44%
 
-Добивание · Рывок · Сложность 60/100
+**№ 118 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Добивание · Рывок · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/angela.webp)Ангела+1,74 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/sun.webp)Сан+1,29 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/estes.webp)Эстес+1,29 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/kaja.webp)Кайя+1,19 п. п.](https://boostmlbb.ru/heroes/kaja.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Настойчивый и победоносный король Асура.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=58)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Martis)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/martis)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=58)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

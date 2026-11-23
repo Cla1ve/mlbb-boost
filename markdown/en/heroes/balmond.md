@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/balmond.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/balmond.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Balmond
 
 Fighter · EXP Lane or Jungle
-
-**#121 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.39%
 
-Damage · Regen · Difficulty 20/100
+**#121 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Regen · Difficulty 20/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **53.24%**Picked in **1.12%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/sun.webp)Sun+2.35 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/angela.webp)Angela+2.22 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/johnson.webp)Johnson+1.71 pp](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/hanabi.webp)Hanabi+1.61 pp](https://boostmlbb.ru/en/heroes/hanabi.html)
 
@@ -138,7 +138,9 @@ Damage dealt to non-hero units is capped at 1000 True Damage.
 
 One day, the Orcs will break free from their shackles.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=2)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond)
+[Read the full story ↗](https://kazukiofficial.com/stories/balmond)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=2)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

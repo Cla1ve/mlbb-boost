@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gatotkaca.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/gatotkaca.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Гатоткача
 
 Танк и боец · Линия опыта или роум
-
-**№ 125 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,30%
 
-Массовый контроль · Разрушительный урон · Сложность 40/100
+**№ 125 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Массовый контроль · Разрушительный урон · Сложность 40/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/angela.webp)Ангела+3,67 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/floryn.webp)Флорин+2,45 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/estes.webp)Эстес+2,08 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/natalia.webp)Наталья+1,87 п. п.](https://boostmlbb.ru/heroes/natalia.html)
 
@@ -135,7 +135,9 @@ language: ru
 
 Воин из Вселенной Аркадем.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=41)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gatotkaca)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/gatotkaca)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=41)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

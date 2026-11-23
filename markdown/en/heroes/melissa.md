@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/melissa.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/melissa.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Melissa
 
 Marksman · Gold Lane
-
-**#63 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.88%
 
-Finisher · Damage · Difficulty 50/100
+**#63 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Damage · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **61.18%**Picked in **10.41%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+3.05 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/joy.webp)Joy+1.75 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/lolita.webp)Lolita+1.75 pp](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/fanny.webp)Fanny+1.44 pp](https://boostmlbb.ru/en/heroes/fanny.html)
 
@@ -142,7 +142,9 @@ The field will move with Melissa once, when she's about to move out of the bound
 
 A girl with cursed needles who runs a tailor shop and solves problems for clients.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Melissa)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=114)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Melissa)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Melissa)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=114)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

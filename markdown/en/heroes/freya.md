@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/freya.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Freya
 
 Fighter · EXP Lane or Jungle
-
-**#84 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 4.76%
 
-Chase · Damage · Difficulty 40/100
+**#84 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Damage · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **57.95%**Picked in **2.99%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zhuxin.webp)Zhuxin+2.99 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Chip+2.25 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/harith.webp)Harith+2.17 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/yve.webp)Yve+2.16 pp](https://boostmlbb.ru/en/heroes/yve.html)
 
@@ -138,7 +138,9 @@ Upon landing, Freya enters the Valkyrie state for 10s and gains 30 Movement Spee
 
 The Valkyrie who guards the Northern Vale.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=22)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Freya)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=22)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

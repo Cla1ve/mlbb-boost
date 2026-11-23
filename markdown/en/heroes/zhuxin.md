@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/zhuxin.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/zhuxin.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Zhuxin
 
 Mage · Mid Lane
-
-**#77 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.42%
 
-Damage · Crowd Control · Difficulty 40/100
+**#77 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Crowd Control · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.49%**Picked in **6.39%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/kagura.webp)Kagura+9.48 pp](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/yve.webp)Yve+9.26 pp](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/odette.webp)Odette+8.80 pp](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/valentina.webp)Valentina+7.91 pp](https://boostmlbb.ru/en/heroes/valentina.html)
 
@@ -138,7 +138,9 @@ Zhuxin blinks to the target location, gaining a 400 (+100% Total Magic Power) sh
 
 A mysterious young woman who guides the ember butterflies using her Lantern of Spirits.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Zhuxin)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=125)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zhuxin)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Zhuxin)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=125)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

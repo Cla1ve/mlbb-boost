@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/floryn.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Floryn
 
 Support · Roam
-
-**#8 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 13.36%
 
-Poke · Guard · Difficulty 30/100
+**#8 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Guard · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **55.52%**Picked in **8.74%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/baxia.webp)Baxia+7.06 pp](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/atlas.webp)Atlas+6.83 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Carmilla+6.09 pp](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/kalea.webp)Kalea+5.94 pp](https://boostmlbb.ru/en/heroes/kalea.html)
 
@@ -137,7 +137,9 @@ Floryn resonates with Dew's power, recovering 250 (+100% Total Magic Power) HP f
 
 A kind-hearted girl who is determined to spread greenery throughout the world.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Floryn)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=112)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Floryn)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Floryn)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=112)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

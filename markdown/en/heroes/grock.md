@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/grock.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/grock.webp)
 
@@ -14,8 +14,6 @@ Tier D
 # Grock
 
 Tank and fighter · Roam
-
-**#122 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.72%
 
-Crowd Control · Initiator · Difficulty 50/100
+**#122 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Crowd Control · Initiator · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.34%**Picked in **4.36%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/saber.webp)Saber+2.14 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/natalia.webp)Natalia+1.92 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/silvanna.webp)Silvanna+1.66 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/zilong.webp)Zilong+1.66 pp](https://boostmlbb.ru/en/heroes/zilong.html)
 
@@ -137,7 +137,9 @@ Grock charges forward and gains Control Immunity, dealing 100 (+50% Total Physic
 
 Stone man awakened from sleep.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=44)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Grock)
+[Read the full story ↗](https://kazukiofficial.com/stories/grock)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=44)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

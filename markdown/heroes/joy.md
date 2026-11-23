@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/joy.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/joy.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Джой
 
 Убийца · Лес
-
-**№ 97 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,19%
 
-Преследование · Урон · Сложность 90/100
+**№ 97 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Урон · Сложность 90/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/leomord.webp)Леоморд+3,38 п. п.](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/nolan.webp)Нолан+2,29 п. п.](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/fredrinn.webp)Фредрин+2,17 п. п.](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/fanny.webp)Фанни+2,15 п. п.](https://boostmlbb.ru/heroes/fanny.html)
 
@@ -137,7 +137,9 @@ language: ru
 
 "Чудесное дитя", вернувшееся к леонинам после долгих лет скитаний.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Joy)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=118)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Joy)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Joy)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=118)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

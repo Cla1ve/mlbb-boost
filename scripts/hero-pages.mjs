@@ -23,9 +23,12 @@ const LANE = {
   Jungle: { ru: 'Лес', gen: 'леса', en: 'Jungle' },
   Roam: { ru: 'Роум', gen: 'роума', en: 'Roam' }
 };
+const ROLE_ICONS = { Tank: 'shield-halved', Fighter: 'khanda', Assassin: 'user-ninja', Mage: 'bolt', Marksman: 'location-dot', Support: 'heart' };
+const LANE_ICONS = { 'EXP Lane': 'arrow-trend-up', 'Gold Lane': 'medal', 'Mid Lane': 'layer-group', Jungle: 'compass', Roam: 'route' };
+const LANE_SHORT = { 'EXP Lane': ['Опыт', 'EXP'], 'Gold Lane': ['Золото', 'Gold'], 'Mid Lane': ['Центр', 'Mid'], Jungle: ['Лес', 'Jungle'], Roam: ['Роум', 'Roam'] };
 const ROLE_HUB = { Tank: ['Лучшие танки', 'Best tanks'], Fighter: ['Лучшие бойцы', 'Best fighters'], Assassin: ['Лучшие убийцы', 'Best assassins'], Mage: ['Лучшие маги', 'Best mages'], Marksman: ['Лучшие стрелки', 'Best marksmen'], Support: ['Лучшая поддержка', 'Best supports'] };
 
-export function heroGuides(data, academy = null) {
+export function heroGuides(data, academy = null, storyFallbacks = {}) {
   const heroes = data.heroes;
   const acad = academy?.heroes || {};
   const dict = academy || { items: {}, spells: {}, talents: {}, emblems: {} };
@@ -87,7 +90,7 @@ export function heroGuides(data, academy = null) {
       ].filter(([, slugs]) => slugs.length);
       const allies = (ac?.allies || []).filter(ally => bySlug[ally.slug]);
       const matchups = groups.map(([title, slugs]) => `<div><h3>${title}</h3>${chips(slugs, lang)}</div>`);
-      if (allies.length) matchups.push(`<div><h3>${t('Союзники', 'Teammates')}</h3><p class="atlas-caption">${t('Прибавка к доле побед в одной команде', 'Win rate gain when playing together')}</p><div class="hero-chips">${allies.map(ally => chip(ally.slug, lang, `+${num(ally.plus, lang)} ${t('п. п.', 'pp')}`)).join('')}</div></div>`);
+      if (allies.length) matchups.push(`<div><h3>${t('Союзники', 'Teammates')}</h3><p class="atlas-caption">${t('Изменение винрейта в паре', 'Win rate change as a duo')}</p><div class="hero-chips">${allies.map(ally => chip(ally.slug, lang, `+${num(ally.plus, lang)} ${t('п. п.', 'pp')}`)).join('')}</div></div>`);
       if (matchups.length) add('draft', t('Контрпики и союзники', 'Counters and teammates'), `<div class="atlas-draft">${matchups.join('')}</div>`);
       const skills = ac?.skills?.[lang] || [];
       if (skills.length) {
@@ -101,15 +104,19 @@ export function heroGuides(data, academy = null) {
         add('ranks', t('Победы по рангам', 'Win rate by rank'), `<ul class="hero-ranks">${rows.join('')}</ul>`);
       }
       const official = `https://www.mobilelegends.com/hero/detail?heroid=${ac?.id || heroes.length + 1 - hero.releaseOrder}`;
-      const wiki = `https://mobile-legends.fandom.com/wiki/${encodeURIComponent(hero.en.replace(/ /g, '_'))}`;
-      add('lore', t('История', 'Lore'), `${ac?.story?.[lang] ? `<p>${esc(ac.story[lang])}</p>` : ''}<div class="atlas-links">${ac?.lore ? `<a href="${esc(ac.lore)}">${t('Читать историю', 'Read the lore')}</a>` : ''}<a href="${official}">${t('Карточка героя', 'Hero card')}</a><a href="${wiki}">MLBB Wiki</a></div>`);
+      const fallback = storyFallbacks[hero.slug];
+      const loreSource = ac?.lore || (fallback ? `https://kazukiofficial.com/stories/${fallback}` : '');
+      const sourceName = ac?.lore ? t('Официальный сайт Mobile Legends', 'Official Mobile Legends site') : t('Kazuki Official, английский', 'Kazuki Official');
+      add('lore', t('История', 'Lore'), `<div class="arena-lore"><div>
+        ${ac?.story?.[lang] ? `<p>${esc(ac.story[lang])}</p>` : ''}
+        ${loreSource ? `<a class="arena-lore-primary" href="${esc(loreSource)}" target="_blank" rel="noopener">${t('Читать полную историю', 'Read the full story')} <span aria-hidden="true">↗</span></a><small>${sourceName}</small>` : ''}
+        </div><a class="arena-lore-official" href="${official}">${t('Характеристики на сайте игры', 'Hero stats on the game site')}</a></div>`);
       const traits = [...(ac?.speciality?.[lang] || [])];
       if (ac?.ability?.[3]) traits.push(`${t('Сложность', 'Difficulty')} ${ac.ability[3]}/100`);
       const traitsHTML = traits.length ? `<p class="atlas-traits">${traits.map(esc).join(' · ')}</p>` : '';
-      const metrics = [[hero.win,t('Победы','Win rate')],[hero.pick,t('Выбор','Pick rate')],[hero.ban,t('Баны','Ban rate')]];
-      return `<dl class="atlas-metrics">${metrics.map(([value,title])=>`<div><dt>${title}</dt><dd>${pct(value,lang)}</dd></div>`).join('')}</dl>
-        ${traitsHTML}<nav class="atlas-nav" aria-label="${t('Разделы профиля','Profile sections')}">${sections.map(({id,title})=>`<a href="#${id}">${title}</a>`).join('')}</nav>
-        ${sections.map(({id,title,inner})=>section(id,title,inner)).join('')}<div class="atlas-links"><a href="${BOT_PRICE}">${t('Стоимость буста на герое','Hero boost pricing')}</a></div>`;
+      return `<nav class="atlas-nav" aria-label="${t('Разделы профиля','Profile sections')}">${sections.map(({id,title}) => `<a href="#${id}">${id === 'draft' ? t('Контрпики','Counters') : id === 'ranks' ? t('Статистика','Stats') : title}</a>`).join('')}</nav>
+        ${traitsHTML}<div class="atlas-chapters">${sections.map(({id,title,inner}) => section(id,title,inner)).join('')}</div><div class="atlas-links"><a href="${BOT_PRICE}">${t('Стоимость буста на герое','Hero boost pricing')}</a></div>
+        <script src="/js/hero-profile.js?v=1" defer></script>`;
     };
     const buildFaq = lang => {
       const en = lang === 'en';
@@ -142,34 +149,58 @@ export function heroGuides(data, academy = null) {
     const heroHead = lang => {
       const en = lang === 'en';
       return { h1: name(hero, lang), portrait: hero.slug, tier: hero.tier,
+        metrics: [[en ? 'Win rate' : 'Победы', pct(hero.win, lang)], [en ? 'Pick rate' : 'Выбор', pct(hero.pick, lang)], [en ? 'Ban rate' : 'Баны', pct(hero.ban, lang)]],
         sub: `${capital(roleList(hero, lang))} · ${capital(laneList(hero, lang))}`,
         context: en ? `#${hero.rank} of ${heroes.length} by win rate` : `№ ${hero.rank} из ${heroes.length} по доле побед`,
         period: en ? `All ranks · 30 days to ${statsDate(lang)}` : `Все ранги · 30 дней по ${statsDate(lang)}` };
     };
     const lang = l => [...meta(l), body(l), faq(l), heroHead(l)];
-    return { file: `heroes/${hero.slug}.html`, kind: 'hero', layout: 'landing', art: `profile:${hero.slug}`, published: '2026-11-22', updated, noLlms: true, ruOnly: true,
+    return { file: `heroes/${hero.slug}.html`, kind: 'hero', layout: 'landing', published: '2026-11-22', updated, noLlms: true, ruOnly: true,
       crumb: ['/heroes/', 'Герои', 'Heroes'], ru: lang('ru'), en: lang('en') };
   });
 
   const tiers = ['S', 'A', 'B', 'C', 'D'];
   const hubBody = lang => {
     const en = lang === 'en';
-    const thresholds = ['≥ 53%', '≥ 51%', '≥ 49%', '≥ 47%', '< 47%'];
-    const tierRows = tiers.map((tier,index) => {
+    const thresholds = ['53%+', '51–<53%', '49–<51%', '47–<49%', '<47%'];
+    const tiersHTML = tiers.map((tier, index) => {
       const members = byWin(heroes.filter(hero => hero.tier === tier));
-      return `<section class="tier-row" id="tier-${tier}" data-tier="${tier}"><header><h2>${tier}</h2><small>${esc(thresholds[index])}</small></header><div class="tier-roster">${members.map(hero=>chip(hero.slug,lang,pct(hero.win,lang))).join('')}</div></section>`;
-    });
+      return `<section class="tier-row" id="tier-${tier}" data-tier="${tier}"><header><h2 aria-label="${en ? 'Tier' : 'Тир'} ${tier}">${tier}</h2><small>${esc(thresholds[index])}</small></header><div class="tier-roster">${members.map(hero => {
+        const rare = hero.lowPick ? `<span class="tier-rare" title="${en ? 'Picked in fewer than 0.5% of games' : 'Выбирают реже чем в 0,5% матчей'}">${en ? 'Rare pick' : 'Редкий пик'}</span>` : '';
+        return `<div class="tier-entry" data-name="${esc(name(hero, lang))}" data-slug="${hero.slug}" data-lanes="${esc(hero.lanes.join('|'))}" data-win="${hero.win}" data-pick="${hero.pick}" data-ban="${hero.ban}">${chip(hero.slug, lang, pct(hero.win, lang))}${rare}</div>`;
+      }).join('')}</div></section>`;
+    }).join('');
     const roles = Object.keys(ROLE);
-    const roleLists = roles.map(role => `<section><h3>${ROLE_HUB[role][en ? 1 : 0]}</h3><ol>${withRole(role).slice(0,6).map(hero=>`<li>${chip(hero.slug,lang,pct(hero.win,lang))}</li>`).join('')}</ol></section>`);
-    return `<div class="atlas-tools" hidden><label>${en ? 'Hero name' : 'Имя героя'}<input type="search" id="hero-query" autocomplete="off"></label><label>${en ? 'Role' : 'Роль'}<select id="hero-role"><option value="">${en ? 'All roles' : 'Все роли'}</option>${roles.map(r=>`<option value="${r}">${capital(ROLE[r][lang])}</option>`).join('')}</select></label></div>
-    <nav class="tier-jump" aria-label="${en ? 'Tier list sections' : 'Разделы тир-листа'}">${tiers.map(tier => `<a href="#tier-${tier}" data-tier-link="${tier}">${tier}</a>`).join('')}<a href="#roles">${en ? 'Best by role' : 'Лучшие по ролям'}</a></nav>
-    <div class="tier-board">${tierRows.join('')}</div><p id="hero-empty" role="status" hidden>${en ? 'No heroes match. Change the name or role.' : 'Герои не найдены. Измените имя или роль.'}</p>
-    ${section('roles', en ? 'Best heroes by role' : 'Лучшие герои по ролям', `<div class="atlas-roles">${roleLists.join('')}</div>`)}
-    <script src="/js/hero-finder.js" defer></script>`;
+    const roleLists = roles.map(role => `<section><h3>${ROLE_HUB[role][en ? 1 : 0]}</h3><ol>${withRole(role).slice(0, 6).map(hero => `<li>${chip(hero.slug, lang, pct(hero.win, lang))}</li>`).join('')}</ol></section>`).join('');
+    const option = (value, icon, label, full = label) => `<button type="button" data-filter-value="${value}" aria-pressed="${value === ''}" aria-label="${full}" title="${full}"><i class="fas fa-${icon}" aria-hidden="true"></i><span>${label}</span></button>`;
+    const roleButtons = option('', 'layer-group', en ? 'All' : 'Все', en ? 'All roles' : 'Все роли') + roles.map(role =>
+      option(role, ROLE_ICONS[role], role === 'Support' && !en ? 'Саппорт' : capital(ROLE[role][lang]), capital(ROLE[role][lang]))
+    ).join('');
+    const laneButtons = option('', 'layer-group', en ? 'All' : 'Все', en ? 'All lanes' : 'Все линии') + Object.entries(LANE).map(([key, lane]) =>
+      option(key, LANE_ICONS[key], LANE_SHORT[key][en ? 1 : 0], lane[lang])
+    ).join('');
+    const headings = [['name', en ? 'Hero' : 'Герой'], ['tier', en ? 'Tier' : 'Тир'], ['win', en ? 'Win' : 'Победы'], ['pick', en ? 'Pick' : 'Выбор'], ['ban', en ? 'Ban' : 'Баны']];
+    return `<div class="arena-workspace">
+      <div class="atlas-tools" hidden>
+        <label class="atlas-search">${en ? 'Find a hero' : 'Найти героя'}<input type="search" id="hero-query" autocomplete="off"></label>
+        <fieldset class="atlas-choice" data-hero-filter="role"><legend>${en ? 'Role' : 'Роль'}</legend><div>${roleButtons}</div></fieldset>
+        <fieldset class="atlas-choice" data-hero-filter="lane"><legend>${en ? 'Lane' : 'Линия'}</legend><div>${laneButtons}</div></fieldset>
+      </div>
+      <div class="tier-controls">
+        <div class="tier-views" role="group" aria-label="${en ? 'Display' : 'Вид списка'}" hidden><button type="button" data-hero-view="tiers" aria-pressed="true">${en ? 'Tiers' : 'Тиры'}</button><button type="button" data-hero-view="stats" aria-pressed="false">${en ? 'Stats' : 'Статистика'}</button></div>
+        <nav class="tier-jump" aria-label="${en ? 'Jump to a tier' : 'Переход к тиру'}">${tiers.map(tier => `<a href="#tier-${tier}" data-tier-link="${tier}" aria-label="${en ? 'Tier' : 'Тир'} ${tier}">${tier}</a>`).join('')}</nav>
+        <a class="tier-role-link" href="#roles">${en ? 'Best by role' : 'Лучшие по ролям'}</a>
+      </div>
+      <div class="tier-board">${tiersHTML}</div>
+      <table class="tier-stats" hidden><caption class="arena-sr">${en ? 'Hero statistics by win, pick and ban rate' : 'Победы, выбор и баны героев'}</caption><thead><tr>${headings.map(([key, label]) => `<th scope="col"><button type="button" data-hero-sort="${key}">${label}</button></th>`).join('')}</tr></thead><tbody></tbody></table>
+      <div id="hero-empty" hidden><p role="status">${en ? 'No heroes found.' : 'Герои не найдены.'}</p><button type="button" data-hero-reset>${en ? 'Clear filters' : 'Сбросить фильтры'}</button></div>
+    </div>
+    ${section('roles', en ? 'Best heroes by role' : 'Лучшие герои по ролям', `<div class="atlas-roles">${roleLists}</div>`)}
+    <script src="/js/hero-finder.js?v=3" defer></script>`;
   };
   const hubHead = lang => ({
     h1: lang === 'en' ? 'MLBB tier list' : 'Тир-лист MLBB',
-    sub: lang === 'en' ? `${heroes.length} heroes by ranked win rate` : `${heroes.length} героя по доле побед в рейтинге`,
+    sub: lang === 'en' ? `${heroes.length} heroes ranked by win rate` : `${heroes.length} героя по доле побед`,
     period: lang === 'en' ? `All ranks · 30 days to ${statsDate(lang)}` : `Все ранги · 30 дней по ${statsDate(lang)}`
   });
   const hub = { file: 'heroes/index.html', kind: 'hero', layout: 'landing', published: '2026-11-22', updated, ruOnly: true, crumb: ['/news/', 'Новости', 'News'],

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gord.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/gord.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Gord
 
 Mage · Mid Lane
-
-**#21 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.55%
 
-Poke · Burst · Difficulty 30/100
+**#21 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Burst · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.74%**Picked in **3.42%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/cyclops.webp)Cyclops+1.83 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+1.24 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/khufra.webp)Khufra+1.19 pp](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/hylos.webp)Hylos+1.16 pp](https://boostmlbb.ru/en/heroes/hylos.html)
 
@@ -136,7 +136,9 @@ The direction of the beam can be adjusted using the Joystick.
 
 Dean of the Icarus School of the Magic Academy.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=23)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gord)
+[Read the full story ↗](https://kazukiofficial.com/stories/gord)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=23)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

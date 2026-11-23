@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gloo.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/gloo.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Глу
 
 Танк · Линия опыта или роум
-
-**№ 13 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 41,90%
 
-Регенерация · Контроль · Сложность 60/100
+**№ 13 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Регенерация · Контроль · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/zilong.webp)Зилонг+2,92 п. п.](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Хелкарт+2,63 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Алдос+2,38 п. п.](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/saber.webp)Сабер+2,20 п. п.](https://boostmlbb.ru/heroes/saber.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Магическое объединение милых и озорных существ, обитающих в глубинах Теневого болота.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Gloo)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=104)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gloo)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Gloo)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=104)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

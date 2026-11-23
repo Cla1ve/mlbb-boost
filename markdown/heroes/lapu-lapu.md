@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lapu-lapu.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/lapu-lapu.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Лапу-Лапу
 
 Боец · Линия опыта
-
-**№ 109 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,27%
 
-Преследование · Разрушительный урон · Сложность 60/100
+**№ 109 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Разрушительный урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/thamuz.webp)Тамуз+2,89 п. п.](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/sun.webp)Сан+2,34 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/bane.webp)Бэйн+1,32 п. п.](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/alucard.webp)Алукард+1,28 п. п.](https://boostmlbb.ru/heroes/alucard.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Герой, защищающий Острова Вонетис от захватчиков
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=37)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lapu-Lapu)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=37)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

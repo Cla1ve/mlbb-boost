@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/belerick.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/belerick.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Belerick
 
 Tank · Roam
-
-**#30 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 56.83%
 
-Crowd Control · Regen · Difficulty 10/100
+**#30 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Crowd Control · Regen · Difficulty 10/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **61.12%**Picked in **1.95%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/zilong.webp)Zilong+2.91 pp](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/saber.webp)Saber+2.85 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt+2.62 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/natalia.webp)Natalia+2.30 pp](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -139,7 +139,9 @@ Belerick conjures spreading vines around him, dealing 100 (+30% Total Magic Powe
 
 A kind and fraternal elemental creature.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=70)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick)
+[Read the full story ↗](https://kazukiofficial.com/stories/belerick)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=70)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

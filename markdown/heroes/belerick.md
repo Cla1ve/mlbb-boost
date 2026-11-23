@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/belerick.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/belerick.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Белерик
 
 Танк · Роум
-
-**№ 30 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 56,83%
 
-Массовый контроль · Регенерация · Сложность 10/100
+**№ 30 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Массовый контроль · Регенерация · Сложность 10/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/zilong.webp)Зилонг+2,91 п. п.](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/saber.webp)Сабер+2,85 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт+2,62 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/natalia.webp)Наталья+2,30 п. п.](https://boostmlbb.ru/heroes/natalia.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Добродушное элементальное создание.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=70)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/belerick)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=70)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

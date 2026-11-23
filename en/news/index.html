@@ -62,6 +62,7 @@
   <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
+  <link rel="stylesheet" href="/styles/arena.css?v=2">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -253,360 +254,285 @@
     </nav>
   </header>
   <main id="main-content">
-    <header class="container journal-heading"><h1>Mobile Legends news</h1></header>
-    <section class="news-feed-section" id="latest" data-news-feed data-page-size="10">
+    <header class="container journal-heading"><nav class="arena-context" aria-label="Mobile Legends sections"><a href="/en/heroes/">Tier list</a><a href="/en/news/" aria-current="page">News & guides</a></nav><h1>Mobile Legends news</h1></header>
+    <section class="news-feed-section" id="latest" data-news-feed data-page-size="13">
       <div class="container">
         <div class="news-section-heading">
-          <div>
-            <h2 id="news-results-title" tabindex="-1">Featured stories</h2>
-          </div>
+          <h2 class="arena-sr" id="news-results-title" tabindex="-1">Stories</h2>
           <div class="news-filter-tools" data-news-controls hidden>
             <div class="news-filters" role="group" aria-label="Filter news">
               <button type="button" class="news-filter is-active" data-news-filter="all" aria-pressed="true">All</button>
               <button type="button" class="news-filter" data-news-filter="guides" aria-pressed="false">Guides</button><button type="button" class="news-filter" data-news-filter="meta" aria-pressed="false">Meta</button><button type="button" class="news-filter" data-news-filter="patches" aria-pressed="false">Patches</button><button type="button" class="news-filter" data-news-filter="esports" aria-pressed="false">Esports</button>
             </div>
-            <label class="news-filter-select">
-              <span>Topic</span>
-              <select data-news-filter-select aria-label="Filter news by topic">
-                <option value="all">All stories</option>
-                <option value="guides">Guides</option><option value="meta">Meta</option><option value="patches">Patches</option><option value="esports">Esports</option>
-              </select>
-            </label>
+            <label class="journal-search"><span class="arena-sr">Search stories</span><input type="search" data-news-query placeholder="Search stories" autocomplete="off"></label>
           </div>
         </div>
-        <div class="news-status" aria-live="polite" data-news-status></div>
+        <div class="arena-sr" role="status" data-news-status></div>
+        <div class="news-grid journal-grid">
 
   <article class="news-card news-card--featured" data-news-card data-category="guides" data-featured="true">
-    <a class="news-card__link" href="/en/news/mlbb-builds-2026/" aria-label="MLBB hero builds 2026: what players build in ranked">
+    <a class="news-card__link" href="/en/news/mlbb-builds-2026/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-builds-2026-768.webp 768w, /images/news/mlbb-builds-2026-1200.webp 1200w, /images/news/mlbb-builds-2026-1600.webp 1600w" sizes="(max-width: 900px) 100vw, 62vw">
           <img src="/images/news/mlbb-builds-2026.jpg"
                width="1600"
                height="900"
-               alt="The six most common core items in Mobile Legends builds and how many heroes build them"
+               alt=""
                fetchpriority="high"
                decoding="async">
         </picture>
-        <span class="news-card__category">Guides</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T18:04:00+03:00">November 23, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>3 min</span>
-        </div>
+        <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-23T18:04:00+03:00">November 23, 2026</time></div>
         <h2>MLBB hero builds 2026: what players build in ranked</h2>
-        <p>What players really build in ranked: builds for the ten most picked heroes, the most common items, emblems and battle spells.</p>
+        <p>Items, emblems and battle spells for Hanabi, Obsidia and eight other popular ranked heroes.</p>
       </div>
     </a>
   </article>
-        <div class="news-grid">
   <article class="news-card" data-news-card data-category="meta">
-    <a class="news-card__link" href="/en/news/mlbb-who-to-ban/" aria-label="Who to ban in Mobile Legends: the most dangerous heroes by rank">
+    <a class="news-card__link" href="/en/news/mlbb-who-to-ban/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-who-to-ban-768.webp 768w, /images/news/mlbb-who-to-ban-1200.webp 1200w, /images/news/mlbb-who-to-ban-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-who-to-ban.jpg"
                width="1600"
                height="900"
-               alt="Mobile Legends ban screen: Hirara, Belerick, Obsidia, Masha and Marcel with their ban rates"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Meta</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T16:29:00+03:00">November 23, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>3 min</span>
-        </div>
+        <div class="news-card__meta"><span>Meta</span><time datetime="2026-11-23T16:29:00+03:00">November 23, 2026</time></div>
         <h2>Who to ban in Mobile Legends: the most dangerous heroes by rank</h2>
-        <p>Hirara is banned in two matches out of three yet wins half her games. We look at who really deserves your ban and who counters them if it is gone.</p>
+        <p>Hirara was banned in 86.38% of Mythical Glory matches. Masha won 60.75% of the games she played at that rank.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/en/news/mlbb-rank-up-solo/" aria-label="How to rank up solo in Mobile Legends: heroes and star maths">
+    <a class="news-card__link" href="/en/news/mlbb-rank-up-solo/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-rank-up-solo-768.webp 768w, /images/news/mlbb-rank-up-solo-1200.webp 1200w, /images/news/mlbb-rank-up-solo-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-rank-up-solo.jpg"
                width="1600"
                height="900"
-               alt="The road from Legend V to Mythic for 25 stars and five solo heroes by lane with their win rates"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Guides</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T16:20:00+03:00">November 23, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>4 min</span>
-        </div>
+        <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-23T16:20:00+03:00">November 23, 2026</time></div>
         <h2>How to rank up solo in Mobile Legends: heroes and star maths</h2>
-        <p>We work out how many matches each percent of wins costs, pick solo heroes for every lane and see who is strong in Epic and who in Mythical Glory.</p>
+        <p>At a 55% win rate, Legend V to Mythic takes roughly 250 matches in a simple star model. At 60%, it takes around 125.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/en/news/mlbb-account-bind-recover/" aria-label="Mobile Legends account: how to bind, switch and recover it">
+    <a class="news-card__link" href="/en/news/mlbb-account-bind-recover/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-account-bind-recover-768.webp 768w, /images/news/mlbb-account-bind-recover-1200.webp 1200w, /images/news/mlbb-account-bind-recover-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-account-bind-recover.jpg"
                width="1600"
                height="900"
-               alt="Mobile Legends Account Center: Moonton and Google bound, Apple ID and VK ready to bind"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Guides</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T16:14:00+03:00">November 23, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>6 min</span>
-        </div>
+        <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-23T16:14:00+03:00">November 23, 2026</time></div>
         <h2>Mobile Legends account: how to bind, switch and recover it</h2>
-        <p>Why a guest profile disappears with your phone, which login is safest, how to open a second account, recover a lost one and delete one you no longer need.</p>
+        <p>Check your linked login in Account before switching phones. A guest profile may stay on the old device.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="patches">
-    <a class="news-card__link" href="/en/news/mlbb-new-heroes-2026/" aria-label="New MLBB heroes 2026: releases, revamps and what comes next">
+    <a class="news-card__link" href="/en/news/mlbb-new-heroes-2026/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-new-heroes-2026-768.webp 768w, /images/news/mlbb-new-heroes-2026-1200.webp 1200w, /images/news/mlbb-new-heroes-2026-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-new-heroes-2026.jpg"
                width="1600"
                height="900"
-               alt="Timeline of new MLBB heroes by date: Zetian, Obsidia, Sora, Marcel and Hirara marked NEW"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Patches</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T23:21:00+03:00">November 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>4 min</span>
-        </div>
+        <div class="news-card__meta"><span>Patches</span><time datetime="2026-11-22T23:21:00+03:00">November 22, 2026</time></div>
         <h2>New MLBB heroes 2026: releases, revamps and what comes next</h2>
-        <p>Hirara, Marcel, Sora and the Masha and Bruno revamps: release dates from patch notes, current win and ban rates and what is known about the next hero.</p>
+        <p>Hirara is the latest new hero in the November snapshot. The jungle assassin arrived on 17 June.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/en/news/mlbb-change-nickname/" aria-label="How to change your MLBB nickname: price, invisible name, symbols">
+    <a class="news-card__link" href="/en/news/mlbb-change-nickname/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-change-nickname-768.webp 768w, /images/news/mlbb-change-nickname-1200.webp 1200w, /images/news/mlbb-change-nickname-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-change-nickname.jpg"
                width="1600"
                height="900"
-               alt="Mobile Legends rename window: a new nickname with the 彡 and ツ signs, a Rename Card and the OK button"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Guides</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T23:03:00+03:00">November 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>5 min</span>
-        </div>
+        <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-22T23:03:00+03:00">November 22, 2026</time></div>
         <h2>How to change your MLBB nickname: price, invisible name, symbols</h2>
-        <p>We change the name in the profile, sort out the card price, build a blank nickname from Unicode characters and check that the game accepts it.</p>
+        <p>Change your nickname in your profile. The first change is free, and later changes require a Rename Card.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/en/news/mlbb-redeem-codes-guide/" aria-label="MLBB redeem codes: where to enter them and why a code fails">
+    <a class="news-card__link" href="/en/news/mlbb-redeem-codes-guide/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-redeem-codes-guide-768.webp 768w, /images/news/mlbb-redeem-codes-guide-1200.webp 1200w, /images/news/mlbb-redeem-codes-guide-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-redeem-codes-guide.jpg"
                width="1600"
                height="900"
-               alt="The official redeem form: Redemption code, Game ID, Zone ID and verification code"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Guides</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T14:38:00+03:00">November 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>3 min</span>
-        </div>
+        <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-22T14:38:00+03:00">November 22, 2026</time></div>
         <h2>MLBB redeem codes: where to enter them and why a code fails</h2>
-        <p>Step-by-step redemption on the official MOONTON page, where to find your Game ID and Zone ID, why a code fails and how to spot a scam site.</p>
+        <p>You need your Game ID, Zone ID and a verification code from your in-game mailbox.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="patches">
-    <a class="news-card__link" href="/en/news/mlbb-current-patch/" aria-label="Current MLBB patch: update 2.2.16 and what it changed">
+    <a class="news-card__link" href="/en/news/mlbb-current-patch/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-current-patch-768.webp 768w, /images/news/mlbb-current-patch-1200.webp 1200w, /images/news/mlbb-current-patch-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-current-patch.jpg"
                width="1600"
                height="900"
-               alt="Patch 2.2.16: Masha, Argus and Aulus buffed, Miya and Hanabi nerfed"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Patches</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T14:36:46+03:00">November 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>4 min</span>
-        </div>
+        <div class="news-card__meta"><span>Patches</span><time datetime="2026-11-22T14:36:46+03:00">November 22, 2026</time></div>
         <h2>Current MLBB patch: update 2.2.16 and what it changed</h2>
-        <p>The key points of patch 2.2.16: the new Masha and Bruno, buffs and nerfs, match economy, the 2026 map and what happened to heroes two months later.</p>
+        <p>Update 2.2.16 reworked Masha and Bruno, lowered jungle monster rewards and changed the map.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="meta">
-    <a class="news-card__link" href="/en/news/mlbb-meta-tier-list/" aria-label="MLBB meta in November 2026: hero tier list from official statistics">
+    <a class="news-card__link" href="/en/news/mlbb-meta-tier-list/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-meta-tier-list-768.webp 768w, /images/news/mlbb-meta-tier-list-1200.webp 1200w, /images/news/mlbb-meta-tier-list-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-meta-tier-list.jpg"
                width="1600"
                height="900"
-               alt="S, A and B tier list with hero icons: Masha, Argus, Rafaela and others"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Meta</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T14:29:19+03:00">November 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>5 min</span>
-        </div>
+        <div class="news-card__meta"><span>Meta</span><time datetime="2026-11-22T14:29:19+03:00">November 22, 2026</time></div>
         <h2>MLBB meta in November 2026: hero tier list from official statistics</h2>
-        <p>Season 42 tier list from 30 days of official statistics: strongest heroes, bans, popular and weak heroes, and how Mythical Glory differs.</p>
+        <p>Masha leads the November snapshot with a 60.47% win rate. Hirara has the highest Mythical Glory ban rate at 86.53%.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/en/news/mlbb-ranks-in-order/" aria-label="Mobile Legends ranks in order: all tiers, stars and Mythic">
+    <a class="news-card__link" href="/en/news/mlbb-ranks-in-order/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-ranks-in-order-768.webp 768w, /images/news/mlbb-ranks-in-order-1200.webp 1200w, /images/news/mlbb-ranks-in-order-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-ranks-in-order.jpg"
                width="1600"
                height="900"
-               alt="Ten Mobile Legends rank emblems from Warrior to Mythical Immortal on rising steps"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Guides</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T13:44:00+03:00">November 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>4 min</span>
-        </div>
+        <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-22T13:44:00+03:00">November 22, 2026</time></div>
         <h2>Mobile Legends ranks in order: all tiers, stars and Mythic</h2>
-        <p>A table of every MLBB rank in order, how many stars it takes to reach Mythic, how Mythic ranks work, placement and star protection.</p>
+        <p>Mythic takes 112 stars to reach. Mythical Honor begins at 25 Mythic stars, Glory at 50 and Immortal at 100.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/en/news/mlbb-season-end-rank-reset/" aria-label="When MLBB Season 42 ends and where your rank drops after the reset">
+    <a class="news-card__link" href="/en/news/mlbb-season-end-rank-reset/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-season-end-rank-reset-768.webp 768w, /images/news/mlbb-season-end-rank-reset-1200.webp 1200w, /images/news/mlbb-season-end-rank-reset-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-season-end-rank-reset.jpg"
                width="1600"
                height="900"
-               alt="Reset card: Mythical Immortal 100+ stars becomes Legend V on 16.12 as Season 42 turns into 43"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Guides</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T13:44:00+03:00">November 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>4 min</span>
-        </div>
+        <div class="news-card__meta"><span>Guides</span><time datetime="2026-11-22T13:44:00+03:00">November 22, 2026</time></div>
         <h2>When MLBB Season 42 ends and where your rank drops after the reset</h2>
-        <p>The expected end of Season 42, the rank reset chart, season rewards and what happens to orders in the first days of a new season.</p>
+        <p>Season 42 is expected to end on 16 December. Mythical Glory and Immortal drop to Legend V after the reset.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="esports">
-    <a class="news-card__link" href="/en/news/m8-istanbul-world-road/" aria-label="M8 MLBB: when it starts, who has qualified and which CIS teams are going">
+    <a class="news-card__link" href="/en/news/m8-istanbul-world-road/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/m8-istanbul-world-road-768.webp 768w, /images/news/m8-istanbul-world-road-1200.webp 1200w, /images/news/m8-istanbul-world-road-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/m8-istanbul-world-road.jpg"
                width="1600"
                height="900"
-               alt="M8 card: Bangkok to Istanbul, December 2026 and January 2027, $1,000,000 prize pool"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Esports</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-08-22T23:31:02+03:00">August 22, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>4 min</span>
-        </div>
+        <div class="news-card__meta"><span>Esports</span><time datetime="2026-08-22T23:31:02+03:00">August 22, 2026</time></div>
         <h2>M8 MLBB: when it starts, who has qualified and which CIS teams are going</h2>
-        <p>M8 dates and cities, the teams already through to the Main Stage and Wild Card, and what MCT SEA decides in December.</p>
+        <p>Team Spirit starts in the Istanbul main stage. Aurevia Team and Team Yandex begin in the Bangkok Wild Card.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="esports">
-    <a class="news-card__link" href="/en/news/msc-2026-playoff-schedule/" aria-label="MSC 2026 Results: Team Spirit Win a Historic Mobile Legends Title">
+    <a class="news-card__link" href="/en/news/msc-2026-playoff-schedule/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/msc-2026-playoff-schedule-768.webp 768w, /images/news/msc-2026-playoff-schedule-1200.webp 1200w, /images/news/msc-2026-playoff-schedule-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/msc-2026-playoff-schedule.jpg"
                width="1600"
                height="900"
-               alt="Golden trophy under a spotlight on an arena stage in Paris with confetti and fans; MSC 2026 final scoreboard: Team Spirit 4, Yangon Galacticos 3"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Esports</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-07-27T21:15:00+03:00">July 27, 2026</time>
-          <span aria-hidden="true">•</span>
-          <span>5 min</span>
-        </div>
+        <div class="news-card__meta"><span>Esports</span><time datetime="2026-07-27T21:15:00+03:00">July 27, 2026</time></div>
         <h2>MSC 2026 Results: Team Spirit Win a Historic Mobile Legends Title</h2>
-        <p>Team Spirit became MSC&#39;s first non-Asian champion after a 4:3 final against Yangon Galacticos. Here are all eight playoff series, prizes, MVP, and viewership results.</p>
+        <p>Team Spirit beat Yangon Galacticos 4–3 in the final. KidBomba was named tournament MVP.</p>
       </div>
     </a>
-  </article></div>
-        <div class="news-filter-empty" data-news-filter-empty hidden>
-          <p class="section-eyebrow">Nothing here yet</p>
-          <h3>There are no stories in this topic yet.</h3>
-          <p>Choose another category. New topics appear automatically as stories are published.</p>
+  </article>
         </div>
+
+        <p class="news-filter-empty" data-news-filter-empty hidden>No stories found. Try a different search or topic.</p>
         <nav class="news-pagination" data-news-pagination aria-label="News pages" hidden>
           <button type="button" class="news-pagination__step" data-news-page-step="previous">
             <span aria-hidden="true">←</span><span>Previous</span>
@@ -675,6 +601,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=5"></script>
+  <script defer src="/js/news.js?v=6"></script>
 </body>
 </html>

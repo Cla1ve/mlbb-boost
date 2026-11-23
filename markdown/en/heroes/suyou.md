@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/suyou.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/suyou.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Suyou
 
 Fighter and assassin · Jungle
-
-**#74 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.49%
 
-Chase · Burst · Difficulty 50/100
+**#74 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Burst · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.59%**Picked in **7.51%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+1.26 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/freya.webp)Freya+1.17 pp](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/granger.webp)Granger+1.03 pp](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.00 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)
 
@@ -136,7 +136,9 @@ Suyou can be controlled while charging, but the skill cannot be interrupted.
 
 An exorcist from Zhu'an who has inherited the power of the Immortal Nuo.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=126)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Suyou)
+[Read the full story ↗](https://kazukiofficial.com/stories/suyou)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=126)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/cyclops.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Cyclops
 
 Mage · Mid Lane
-
-**#31 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.76%
 
-Damage · Control · Difficulty 40/100
+**#31 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Damage · Control · Difficulty 40/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **57.47%**Picked in **3.83%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/novaria.webp)Novaria+2.63 pp](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/nana.webp)Nana+2.59 pp](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/kagura.webp)Kagura+2.35 pp](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/vale.webp)Vale+2.35 pp](https://boostmlbb.ru/en/heroes/vale.html)
 
@@ -137,7 +137,9 @@ Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, d
 
 A celestial traveler in the universe.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=33)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cyclops)
+[Read the full story ↗](https://kazukiofficial.com/stories/cyclops)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=33)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

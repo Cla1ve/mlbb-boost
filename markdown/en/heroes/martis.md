@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/martis.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/martis.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Martis
 
 Fighter · EXP Lane or Jungle
-
-**#118 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.44%
 
-Finisher · Charge · Difficulty 60/100
+**#118 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Finisher · Charge · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **57.09%**Picked in **8.47%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/angela.webp)Angela+1.74 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/sun.webp)Sun+1.29 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/estes.webp)Estes+1.29 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/kaja.webp)Kaja+1.19 pp](https://boostmlbb.ru/en/heroes/kaja.html)
 
@@ -138,7 +138,9 @@ If the enemy is killed by this skill, Martis can cast the skill again within 10s
 
 Persistent and victorious Asura King.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=58)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Martis)
+[Read the full story ↗](https://kazukiofficial.com/stories/martis)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=58)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aldous.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/aldous.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Aldous
 
 Fighter · EXP Lane
-
-**#29 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.57%
 
-Burst · Support · Difficulty 70/100
+**#29 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Support · Difficulty 70/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **62.18%**Picked in **2.45%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/gloo.webp)Gloo+2.38 pp](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/x-borg.webp)X.Borg+2.35 pp](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/tigreal.webp)Tigreal+2.19 pp](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/alice.webp)Alice+2.13 pp](https://boostmlbb.ru/en/heroes/alice.html)
 
@@ -141,7 +141,9 @@ Aldous can interrupt the target's Recall while dashing.
 
 The guardian of the Minoan Labyrinth.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=64)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aldous)
+[Read the full story ↗](https://kazukiofficial.com/stories/aldous)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=64)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

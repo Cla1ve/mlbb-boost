@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/marcel.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/marcel.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Марсель
 
 Поддержка · Роум
-
-**№ 2 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 41,30%
 
-Массовый контроль · Поддержка · Сложность 30/100
+**№ 2 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Массовый контроль · Поддержка · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/kalea.webp)Калеа+5,62 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/saber.webp)Сабер+4,45 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/atlas.webp)Атлас+2,75 п. п.](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Кармилла+2,75 п. п.](https://boostmlbb.ru/heroes/carmilla.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Родом из дома Пэксли, он — элегантный, таинственный и причудливый художник, чья расколотая душа слилась с камерой.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=132)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Marcel)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/marcel)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=132)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

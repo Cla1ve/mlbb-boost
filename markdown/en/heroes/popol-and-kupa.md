@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/popol-and-kupa.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/popol-and-kupa.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Popol and Kupa
 
 Marksman · Gold Lane or Jungle
-
-**#26 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.12%
 
-Control · Burst · Difficulty 50/100
+**#26 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Control · Burst · Difficulty 50/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.32%**Picked in **6.29%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/layla.webp)Layla+3.16 pp](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/lesley.webp)Lesley+2.93 pp](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/granger.webp)Granger+2.70 pp](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/wanwan.webp)Wanwan+2.55 pp](https://boostmlbb.ru/en/heroes/wanwan.html)
 
@@ -149,7 +149,9 @@ During this time, Kupa turns into Alpha Wolf Form.
 
 Boy and an Icefield Wolf, partners who understand each other well.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Popol-and-Kupa)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=94)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Popol_and_Kupa)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Popol-and-Kupa)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=94)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

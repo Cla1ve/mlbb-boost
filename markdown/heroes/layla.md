@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/layla.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/layla.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Лейла
 
 Стрелок · Линия золота
-
-**№ 80 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,78%
 
-Добивание · Урон · Сложность 20/100
+**№ 80 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Добивание · Урон · Сложность 20/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа+3,16 п. п.](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Роджер+2,19 п. п.](https://boostmlbb.ru/heroes/roger.html)[![](/images/heroes/harith.webp)Харит+1,54 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/franco.webp)Франко+1,47 п. п.](https://boostmlbb.ru/heroes/franco.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Опора и надежда Рейнджеров Эрудитио, также известная как "Сияющая звезда".
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Layla)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=18)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Layla)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Layla)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=18)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

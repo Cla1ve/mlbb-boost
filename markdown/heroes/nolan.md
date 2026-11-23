@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/nolan.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/nolan.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Нолан
 
 Убийца · Лес
-
-**№ 72 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 16,30%
 
-Преследование · Разрушительный урон · Сложность 60/100
+**№ 72 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Разрушительный урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/joy.webp)Джой+2,29 п. п.](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/yve.webp)Ив+1,91 п. п.](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Чжусинь+1,84 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Валентина+1,56 п. п.](https://boostmlbb.ru/heroes/valentina.html)
 
@@ -136,7 +136,9 @@ language: ru
 
 Ученый, который странствует по вселенной с расколотой душой, чтобы спасти свою дочь.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Nolan)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=122)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Nolan)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=122)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

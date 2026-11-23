@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/arlott.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Arlott
 
 Fighter and assassin · EXP Lane
-
-**#114 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.56%
 
-Charge · Burst · Difficulty 70/100
+**#114 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Charge · Burst · Difficulty 70/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.35%**Picked in **1.25%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/chip.webp)Chip+5.51 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/bane.webp)Bane+2.30 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/aulus.webp)Aulus+2.18 pp](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/alice.webp)Alice+1.98 pp](https://boostmlbb.ru/en/heroes/alice.html)
 
@@ -138,7 +138,9 @@ Active: Arlott cleaves forward, dealing 400 (+80% Total Physical Attack) Physica
 
 A demon human hybrid wielding two lances with a thirst for vengeance against both the Church and demons.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Arlott)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=120)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Arlott)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Arlott)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=120)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

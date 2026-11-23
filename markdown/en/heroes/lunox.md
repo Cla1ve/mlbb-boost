@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lunox.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/lunox.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Lunox
 
 Mage · Mid Lane
-
-**#49 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.65%
 
-Burst · Damage · Difficulty 90/100
+**#49 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Damage · Difficulty 90/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **53.43%**Picked in **6.25%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/chip.webp)Chip+4.70 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/zhuxin.webp)Zhuxin+3.63 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Valentina+2.15 pp](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/granger.webp)Granger+1.76 pp](https://boostmlbb.ru/en/heroes/granger.html)
 
@@ -146,7 +146,9 @@ When Power of Chaos is dominant, she can cast Darkening to blink in a target dir
 
 A miraculous creature born in Twilight Orb.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=68)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lunox)
+[Read the full story ↗](https://kazukiofficial.com/stories/lunox)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=68)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

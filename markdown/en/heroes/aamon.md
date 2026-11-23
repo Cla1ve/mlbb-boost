@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/aamon.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Aamon
 
 Assassin · Jungle
-
-**#57 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 2.51%
 
-Chase · Magic Damage · Difficulty 60/100
+**#57 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Chase · Magic Damage · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **57.40%**Picked in **2.31%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/gloo.webp)Gloo+1.21 pp](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/benedetta.webp)Benedetta+1.19 pp](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/beatrix.webp)Beatrix+1.19 pp](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/zetian.webp)Zetian+1.15 pp](https://boostmlbb.ru/en/heroes/zetian.html)
 
@@ -140,7 +140,9 @@ The damage dealt increases with the target's lost , to the max when the target's
 
 The aloof Duke of Castle Aberleen.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Aamon)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=109)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Aamon)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Aamon)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=109)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

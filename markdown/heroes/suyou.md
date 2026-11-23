@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/suyou.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/suyou.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Су Ё
 
 Боец и убийца · Лес
-
-**№ 74 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,49%
 
-Преследование · Разрушительный урон · Сложность 50/100
+**№ 74 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Разрушительный урон · Сложность 50/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/harith.webp)Харит+1,26 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/freya.webp)Фрейя+1,17 п. п.](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/granger.webp)Грейнджер+1,03 п. п.](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/dyrroth.webp)Дариус+1,00 п. п.](https://boostmlbb.ru/heroes/dyrroth.html)
 
@@ -136,7 +136,9 @@ language: ru
 
 Экзорцист из Чжуаня, унаследовавший силу Бессмертного Но.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=126)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Suyou)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/suyou)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=126)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/cecilion.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Cecilion
 
 Mage · Mid Lane
-
-**#45 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.17%
 
-Poke · Burst · Difficulty 40/100
+**#45 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Poke · Burst · Difficulty 40/100
 
 ## Build
 
@@ -89,7 +89,7 @@ Wins with this build **55.61%**Picked in **2.01%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harley.webp)Harley+1.42 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/marcel.webp)Marcel+1.33 pp](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/zhuxin.webp)Zhuxin+1.16 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/harith.webp)Harith+0.98 pp](https://boostmlbb.ru/en/heroes/harith.html)
 
@@ -142,7 +142,9 @@ Carmilla can choose to leave Cecilion and charge at the target location, gaining
 
 Carmilla's Blood Demon lover.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Cecilion)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=91)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cecilion)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Cecilion)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=91)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

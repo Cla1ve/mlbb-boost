@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/khufra.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/khufra.webp)
 
@@ -14,8 +14,6 @@ Tier S
 # Khufra
 
 Tank · Roam
-
-**#4 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 2.14%
 
-Initiator · Crowd Control · Difficulty 60/100
+**#4 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Initiator · Crowd Control · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **61.74%**Picked in **8.89%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/natalia.webp)Natalia+2.93 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/saber.webp)Saber+2.74 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt+2.60 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/kalea.webp)Kalea+2.00 pp](https://boostmlbb.ru/en/heroes/kalea.html)
 
@@ -137,7 +137,9 @@ Khufra pushes back all enemy targets around him toward his front (this skill can
 
 Sealed ancient tyrant.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=78)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Khufra)
+[Read the full story ↗](https://kazukiofficial.com/stories/khufra)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=78)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

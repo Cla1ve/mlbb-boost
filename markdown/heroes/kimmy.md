@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kimmy.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/kimmy.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Кимми
 
 Маг и стрелок · Линия золота или средняя линия
-
-**№ 98 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,68%
 
-Урон · Магический урон · Сложность 60/100
+**№ 98 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Урон · Магический урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/estes.webp)Эстес+2,38 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/valentina.webp)Валентина+2,22 п. п.](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/ixia.webp)Иксия+1,62 п. п.](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/fredrinn.webp)Фредрин+1,39 п. п.](https://boostmlbb.ru/heroes/fredrinn.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Родившись в семье военного, она заслужила признание как смелая, но беззаботная "крутая девчонка" из пограничной стражи.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=71)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kimmy)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kimmy)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=71)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

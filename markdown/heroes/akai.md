@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/akai.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/akai.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Акай
 
 Танк · Роум
-
-**№ 59 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 1,11%
 
-Защита · Массовый контроль · Сложность 30/100
+**№ 59 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Защита · Массовый контроль · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/angela.webp)Ангела+3,27 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/natalia.webp)Наталья+2,74 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/helcurt.webp)Хелкарт+2,70 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/rafaela.webp)Рафаэль+2,19 п. п.](https://boostmlbb.ru/heroes/rafaela.html)
 
@@ -140,7 +140,9 @@ language: ru
 
 Всемогущий панда-герой долины Потока.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Akai)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=9)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Akai)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Akai)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=9)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

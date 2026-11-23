@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/odette.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/odette.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Одетта
 
 Маг · Средняя линия
-
-**№ 75 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,27%
 
-Разрушительный урон · Поук · Сложность 30/100
+**№ 75 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Разрушительный урон · Поук · Сложность 30/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/zhuxin.webp)Чжусинь+8,80 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Чип+5,01 п. п.](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/mathilda.webp)Матильда+2,51 п. п.](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/kaja.webp)Кайя+2,34 п. п.](https://boostmlbb.ru/heroes/kaja.html)
 
@@ -138,7 +138,9 @@ language: ru
 
 Невинная принцесса, выросшая в Лебедином замке, и гениальная волшебница, превосходно владеющая мечом и скипетром.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Odette)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=46)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Odette)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Odette)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=46)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

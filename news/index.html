@@ -62,6 +62,7 @@
   <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
+  <link rel="stylesheet" href="/styles/arena.css?v=2">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@graph": [
@@ -253,360 +254,285 @@
     </nav>
   </header>
   <main id="main-content">
-    <header class="container journal-heading"><h1>Новости Mobile Legends</h1></header>
-    <section class="news-feed-section" id="latest" data-news-feed data-page-size="10">
+    <header class="container journal-heading"><nav class="arena-context" aria-label="Разделы Mobile Legends"><a href="/heroes/">Тир-лист</a><a href="/news/" aria-current="page">Новости и гайды</a></nav><h1>Новости Mobile Legends</h1></header>
+    <section class="news-feed-section" id="latest" data-news-feed data-page-size="13">
       <div class="container">
         <div class="news-section-heading">
-          <div>
-            <h2 id="news-results-title" tabindex="-1">Главные материалы</h2>
-          </div>
+          <h2 class="arena-sr" id="news-results-title" tabindex="-1">Материалы</h2>
           <div class="news-filter-tools" data-news-controls hidden>
             <div class="news-filters" role="group" aria-label="Фильтр новостей">
               <button type="button" class="news-filter is-active" data-news-filter="all" aria-pressed="true">Все</button>
               <button type="button" class="news-filter" data-news-filter="guides" aria-pressed="false">Гайды</button><button type="button" class="news-filter" data-news-filter="meta" aria-pressed="false">Мета</button><button type="button" class="news-filter" data-news-filter="patches" aria-pressed="false">Патчи</button><button type="button" class="news-filter" data-news-filter="esports" aria-pressed="false">Киберспорт</button>
             </div>
-            <label class="news-filter-select">
-              <span>Тема</span>
-              <select data-news-filter-select aria-label="Фильтр новостей по теме">
-                <option value="all">Все материалы</option>
-                <option value="guides">Гайды</option><option value="meta">Мета</option><option value="patches">Патчи</option><option value="esports">Киберспорт</option>
-              </select>
-            </label>
+            <label class="journal-search"><span class="arena-sr">Поиск по материалам</span><input type="search" data-news-query placeholder="Поиск по материалам" autocomplete="off"></label>
           </div>
         </div>
-        <div class="news-status" aria-live="polite" data-news-status></div>
+        <div class="arena-sr" role="status" data-news-status></div>
+        <div class="news-grid journal-grid">
 
   <article class="news-card news-card--featured" data-news-card data-category="guides" data-featured="true">
-    <a class="news-card__link" href="/news/mlbb-builds-2026/" aria-label="Сборки на героев MLBB 2026: что собирают в рейтинге">
+    <a class="news-card__link" href="/news/mlbb-builds-2026/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-builds-2026-768.webp 768w, /images/news/mlbb-builds-2026-1200.webp 1200w, /images/news/mlbb-builds-2026-1600.webp 1600w" sizes="(max-width: 900px) 100vw, 62vw">
           <img src="/images/news/mlbb-builds-2026.jpg"
                width="1600"
                height="900"
-               alt="Шесть самых частых ключевых предметов в сборках Mobile Legends и число героев, которые их собирают"
+               alt=""
                fetchpriority="high"
                decoding="async">
         </picture>
-        <span class="news-card__category">Гайды</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T18:04:00+03:00">23 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>3 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Гайды</span><time datetime="2026-11-23T18:04:00+03:00">23 ноября 2026 г.</time></div>
         <h2>Сборки на героев MLBB 2026: что собирают в рейтинге</h2>
-        <p>Что реально собирают в рейтинге: сборки на десять самых популярных героев, самые частые предметы, эмблемы и боевые заклинания.</p>
+        <p>Предметы, эмблемы и заклинания для Ханаби, Обсидии и ещё восьми популярных героев рейтинга.</p>
       </div>
     </a>
   </article>
-        <div class="news-grid">
   <article class="news-card" data-news-card data-category="meta">
-    <a class="news-card__link" href="/news/mlbb-who-to-ban/" aria-label="Кого банить в Mobile Legends: самые опасные герои по рангам">
+    <a class="news-card__link" href="/news/mlbb-who-to-ban/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-who-to-ban-768.webp 768w, /images/news/mlbb-who-to-ban-1200.webp 1200w, /images/news/mlbb-who-to-ban-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-who-to-ban.jpg"
                width="1600"
                height="900"
-               alt="Экран банов Mobile Legends: Хирара, Белерик, Обсидия, Маша и Марсель с процентом банов"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Мета</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T16:29:00+03:00">23 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>3 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Мета</span><time datetime="2026-11-23T16:29:00+03:00">23 ноября 2026 г.</time></div>
         <h2>Кого банить в Mobile Legends: самые опасные герои по рангам</h2>
-        <p>Хирару банят в двух матчах из трёх, а выигрывает она половину игр. Разбираем, на кого на самом деле стоит тратить бан и кем контрить, если он не достался.</p>
+        <p>Хирару банили в 86,38% матчей Мифической славы. Маша выиграла 60,75% игр на этом ранге, когда дошла до матча.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/news/mlbb-rank-up-solo/" aria-label="Как поднять ранг в Mobile Legends соло: герои и математика звёзд">
+    <a class="news-card__link" href="/news/mlbb-rank-up-solo/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-rank-up-solo-768.webp 768w, /images/news/mlbb-rank-up-solo-1200.webp 1200w, /images/news/mlbb-rank-up-solo-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-rank-up-solo.jpg"
                width="1600"
                height="900"
-               alt="Путь из Легенды V в Мифик на 25 звёзд и пять героев для соло по линиям с процентом побед"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Гайды</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T16:20:00+03:00">23 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>4 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Гайды</span><time datetime="2026-11-23T16:20:00+03:00">23 ноября 2026 г.</time></div>
         <h2>Как поднять ранг в Mobile Legends соло: герои и математика звёзд</h2>
-        <p>Считаем, сколько матчей стоит каждый процент побед, выбираем героев для соло на каждой линии и разбираем, кто силён в Эпике, а кто — в Мифической славе.</p>
+        <p>При 55% побед путь от Легенды V до Мифика занимает около 250 матчей по простой модели звёзд. При 60% — около 125.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/news/mlbb-account-bind-recover/" aria-label="Аккаунт Mobile Legends: как привязать, сменить и восстановить">
+    <a class="news-card__link" href="/news/mlbb-account-bind-recover/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-account-bind-recover-768.webp 768w, /images/news/mlbb-account-bind-recover-1200.webp 1200w, /images/news/mlbb-account-bind-recover-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-account-bind-recover.jpg"
                width="1600"
                height="900"
-               alt="Окно «Центр аккаунтов» Mobile Legends: аккаунт Moonton и Google привязаны, Apple ID и VK можно привязать"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Гайды</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-23T16:14:00+03:00">23 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>5 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Гайды</span><time datetime="2026-11-23T16:14:00+03:00">23 ноября 2026 г.</time></div>
         <h2>Аккаунт Mobile Legends: как привязать, сменить и восстановить</h2>
-        <p>Почему гостевой профиль пропадает вместе с телефоном, какой способ входа надёжнее, как зайти во второй аккаунт, вернуть потерянный и удалить ненужный.</p>
+        <p>Проверьте привязку в разделе «Аккаунт» перед сменой телефона. Прогресс гостевого профиля может остаться на старом устройстве.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="patches">
-    <a class="news-card__link" href="/news/mlbb-new-heroes-2026/" aria-label="Новые герои MLBB 2026: кто вышел, переработки и что дальше">
+    <a class="news-card__link" href="/news/mlbb-new-heroes-2026/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-new-heroes-2026-768.webp 768w, /images/news/mlbb-new-heroes-2026-1200.webp 1200w, /images/news/mlbb-new-heroes-2026-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-new-heroes-2026.jpg"
                width="1600"
                height="900"
-               alt="Лента новых героев MLBB по датам: Цзэтянь, Обсидия, Сора, Марсель и Хирара с отметкой NEW"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Патчи</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T23:21:00+03:00">22 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>4 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Патчи</span><time datetime="2026-11-22T23:21:00+03:00">22 ноября 2026 г.</time></div>
         <h2>Новые герои MLBB 2026: кто вышел, переработки и что дальше</h2>
-        <p>Хирара, Марсель, Сора и переработки Маши и Бруно: даты выхода по патч-нотам, процент побед и банов сейчас и что известно о следующем герое.</p>
+        <p>Последний новый герой в ноябрьском срезе — Хирара. Она вышла 17 июня как убийца для леса.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/news/mlbb-change-nickname/" aria-label="Как сменить ник в MLBB: цена, невидимый ник и символы">
+    <a class="news-card__link" href="/news/mlbb-change-nickname/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-change-nickname-768.webp 768w, /images/news/mlbb-change-nickname-1200.webp 1200w, /images/news/mlbb-change-nickname-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-change-nickname.jpg"
                width="1600"
                height="900"
-               alt="Окно смены имени в Mobile Legends: новый ник со знаками 彡 и ツ, карточка смены имени и кнопка OK"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Гайды</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T23:03:00+03:00">22 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>4 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Гайды</span><time datetime="2026-11-22T23:03:00+03:00">22 ноября 2026 г.</time></div>
         <h2>Как сменить ник в MLBB: цена, невидимый ник и символы</h2>
-        <p>Меняем имя в профиле, разбираемся с ценой карточки, собираем пустой ник из символов Unicode и проверяем, что игра его примет.</p>
+        <p>Ник меняется в профиле. Первая смена бесплатна, затем понадобится карточка смены имени.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/news/mlbb-redeem-codes-guide/" aria-label="Промокоды MLBB: куда вводить и почему код не работает">
+    <a class="news-card__link" href="/news/mlbb-redeem-codes-guide/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-redeem-codes-guide-768.webp 768w, /images/news/mlbb-redeem-codes-guide-1200.webp 1200w, /images/news/mlbb-redeem-codes-guide-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-redeem-codes-guide.jpg"
                width="1600"
                height="900"
-               alt="Официальная форма ввода промокода: Redemption code, Game ID, Zone ID и код подтверждения"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Гайды</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T14:38:00+03:00">22 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>3 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Гайды</span><time datetime="2026-11-22T14:38:00+03:00">22 ноября 2026 г.</time></div>
         <h2>Промокоды MLBB: куда вводить и почему код не работает</h2>
-        <p>Пошаговый ввод промокода на официальной странице MOONTON, где взять Game ID и Zone ID, почему код не срабатывает и как отличить мошеннический сайт.</p>
+        <p>Для активации понадобятся Game ID, Zone ID и проверочный код из игровой почты.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="patches">
-    <a class="news-card__link" href="/news/mlbb-current-patch/" aria-label="Какой сейчас патч в MLBB: обновление 2.2.16 и что оно изменило">
+    <a class="news-card__link" href="/news/mlbb-current-patch/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-current-patch-768.webp 768w, /images/news/mlbb-current-patch-1200.webp 1200w, /images/news/mlbb-current-patch-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-current-patch.jpg"
                width="1600"
                height="900"
-               alt="Патч 2.2.16: Маша, Аргус и Аулус усилены, Мия и Ханаби ослаблены"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Патчи</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T14:36:46+03:00">22 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>4 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Патчи</span><time datetime="2026-11-22T14:36:46+03:00">22 ноября 2026 г.</time></div>
         <h2>Какой сейчас патч в MLBB: обновление 2.2.16 и что оно изменило</h2>
-        <p>Главное из патча 2.2.16: новая Маша и Бруно, усиления и ослабления, экономика матча, карта 2026 года и что стало с героями через два месяца.</p>
+        <p>В обновлении 2.2.16 переработали Машу и Бруно, снизили награду за лесных монстров и изменили карту.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="meta">
-    <a class="news-card__link" href="/news/mlbb-meta-tier-list/" aria-label="Мета MLBB в ноябре 2026: тир-лист героев по официальной статистике">
+    <a class="news-card__link" href="/news/mlbb-meta-tier-list/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-meta-tier-list-768.webp 768w, /images/news/mlbb-meta-tier-list-1200.webp 1200w, /images/news/mlbb-meta-tier-list-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-meta-tier-list.jpg"
                width="1600"
                height="900"
-               alt="Тир-лист S, A и B с иконками героев: Маша, Аргус, Рафаэль и другие"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Мета</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T14:29:19+03:00">22 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>5 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Мета</span><time datetime="2026-11-22T14:29:19+03:00">22 ноября 2026 г.</time></div>
         <h2>Мета MLBB в ноябре 2026: тир-лист героев по официальной статистике</h2>
-        <p>Тир-лист 42 сезона по официальной статистике за 30 дней: сильнейшие герои, баны, популярные и слабые герои, отличия Мифической славы.</p>
+        <p>В ноябрьском срезе лидирует Маша с 60,47% побед. Самый частый бан в Мифической славе у Хирары, 86,53%.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/news/mlbb-ranks-in-order/" aria-label="Ранги в Mobile Legends по порядку: все звания, звёзды и Мифик">
+    <a class="news-card__link" href="/news/mlbb-ranks-in-order/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-ranks-in-order-768.webp 768w, /images/news/mlbb-ranks-in-order-1200.webp 1200w, /images/news/mlbb-ranks-in-order-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-ranks-in-order.jpg"
                width="1600"
                height="900"
-               alt="Десять иконок рангов Mobile Legends от Воина до Мифического бессмертного на растущих ступенях"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Гайды</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T13:44:00+03:00">22 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>4 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Гайды</span><time datetime="2026-11-22T13:44:00+03:00">22 ноября 2026 г.</time></div>
         <h2>Ранги в Mobile Legends по порядку: все звания, звёзды и Мифик</h2>
-        <p>Таблица всех рангов MLBB по порядку, сколько звёзд нужно до Мифика, как работают Мифические ранги, калибровка и защита звезды.</p>
+        <p>До Мифика нужно 112 звёзд. В Мифике Честь начинается с 25, Слава с 50, Бессмертный со 100 звёзд.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="guides">
-    <a class="news-card__link" href="/news/mlbb-season-end-rank-reset/" aria-label="Когда закончится 42 сезон MLBB и куда упадёт ранг после сброса">
+    <a class="news-card__link" href="/news/mlbb-season-end-rank-reset/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/mlbb-season-end-rank-reset-768.webp 768w, /images/news/mlbb-season-end-rank-reset-1200.webp 1200w, /images/news/mlbb-season-end-rank-reset-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/mlbb-season-end-rank-reset.jpg"
                width="1600"
                height="900"
-               alt="Карточка сброса: Мифический бессмертный 100+ звёзд переходит в Легенду V 16.12, сезон 42 сменяется 43"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Гайды</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-11-22T13:44:00+03:00">22 ноября 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>4 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Гайды</span><time datetime="2026-11-22T13:44:00+03:00">22 ноября 2026 г.</time></div>
         <h2>Когда закончится 42 сезон MLBB и куда упадёт ранг после сброса</h2>
-        <p>Ожидаемая дата конца 42 сезона, таблица сброса рангов, сезонные награды и что происходит с заказами в первые дни нового сезона.</p>
+        <p>42 сезон предположительно закончится 16 декабря. После сброса Мифическая слава и Бессмертный начнут с Легенды V.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="esports">
-    <a class="news-card__link" href="/news/m8-istanbul-world-road/" aria-label="M8 по MLBB: когда начнётся, кто уже прошёл и кто едет от СНГ">
+    <a class="news-card__link" href="/news/m8-istanbul-world-road/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/m8-istanbul-world-road-768.webp 768w, /images/news/m8-istanbul-world-road-1200.webp 1200w, /images/news/m8-istanbul-world-road-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/m8-istanbul-world-road.jpg"
                width="1600"
                height="900"
-               alt="Карточка M8: Бангкок → Стамбул, декабрь 2026 и январь 2027, призовой фонд $1 000 000"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Киберспорт</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-08-22T23:31:02+03:00">22 августа 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>3 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Киберспорт</span><time datetime="2026-08-22T23:31:02+03:00">22 августа 2026 г.</time></div>
         <h2>M8 по MLBB: когда начнётся, кто уже прошёл и кто едет от СНГ</h2>
-        <p>Даты и города M8, список команд, которые уже прошли в основную стадию и Wild Card, и что решится на MCT SEA в декабре.</p>
+        <p>Team Spirit начнёт с основной стадии в Стамбуле. Aurevia Team и Team Yandex сначала сыграют в Wild Card в Бангкоке.</p>
       </div>
     </a>
   </article>
   <article class="news-card" data-news-card data-category="esports">
-    <a class="news-card__link" href="/news/msc-2026-playoff-schedule/" aria-label="MSC 2026 завершён: Team Spirit — чемпион, все результаты плей-офф">
+    <a class="news-card__link" href="/news/msc-2026-playoff-schedule/">
       <figure class="news-card__media" style="--card-object-fit: contain; --card-object-position: 50% 50%">
         <picture>
           <source type="image/webp" srcset="/images/news/msc-2026-playoff-schedule-768.webp 768w, /images/news/msc-2026-playoff-schedule-1200.webp 1200w, /images/news/msc-2026-playoff-schedule-1600.webp 1600w" sizes="(max-width: 768px) 100vw, 33vw">
           <img src="/images/news/msc-2026-playoff-schedule.jpg"
                width="1600"
                height="900"
-               alt="Золотой кубок под прожектором на сцене арены в Париже, конфетти и зрители; табло финала MSC 2026: Team Spirit 4, Yangon Galacticos 3"
+               alt=""
                loading="lazy"
                decoding="async">
         </picture>
-        <span class="news-card__category">Киберспорт</span>
       </figure>
       <div class="news-card__content">
-        <div class="news-card__meta">
-          <time datetime="2026-07-27T21:15:00+03:00">27 июля 2026 г.</time>
-          <span aria-hidden="true">•</span>
-          <span>5 мин</span>
-        </div>
+        <div class="news-card__meta"><span>Киберспорт</span><time datetime="2026-07-27T21:15:00+03:00">27 июля 2026 г.</time></div>
         <h2>MSC 2026 завершён: Team Spirit — чемпион, все результаты плей-офф</h2>
-        <p>Team Spirit стала первым неазиатским чемпионом MSC после финала 4:3 с Yangon Galacticos. Здесь — все восемь серий плей-офф, призовые, MVP и зрительские итоги.</p>
+        <p>Team Spirit выиграла финал у Yangon Galacticos со счётом 4:3. MVP турнира стал KidBomba.</p>
       </div>
     </a>
-  </article></div>
-        <div class="news-filter-empty" data-news-filter-empty hidden>
-          <p class="section-eyebrow">Пока пусто</p>
-          <h3>В этой теме ещё нет материалов.</h3>
-          <p>Выберите другую категорию — новые направления появляются автоматически вместе с публикациями.</p>
+  </article>
         </div>
+
+        <p class="news-filter-empty" data-news-filter-empty hidden>Материалов не найдено. Измените запрос или тему.</p>
         <nav class="news-pagination" data-news-pagination aria-label="Страницы новостей" hidden>
           <button type="button" class="news-pagination__step" data-news-page-step="previous">
             <span aria-hidden="true">←</span><span>Назад</span>
@@ -675,6 +601,6 @@
 
   <script defer src="/js/consent.js?v=30"></script>
   <script defer src="/js/news-language.js?v=1"></script>
-  <script defer src="/js/news.js?v=5"></script>
+  <script defer src="/js/news.js?v=6"></script>
 </body>
 </html>

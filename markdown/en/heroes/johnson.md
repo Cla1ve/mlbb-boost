@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/johnson.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/johnson.webp)
 
@@ -14,8 +14,6 @@ Tier B
 # Johnson
 
 Tank and support · Roam
-
-**#87 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 1.98%
 
-Support · Crowd Control · Difficulty 60/100
+**#87 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Support · Crowd Control · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **56.66%**Picked in **1.67%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/silvanna.webp)Silvanna+1.95 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Zhask+1.82 pp](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/change.webp)Chang'e+1.74 pp](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/balmond.webp)Balmond+1.71 pp](https://boostmlbb.ru/en/heroes/balmond.html)
 
@@ -138,7 +138,9 @@ Johnson's location is revealed to enemies for 3s when he casts this skill.
 
 A super cyborg who can transform into a car and lead his teammates into battle.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Johnson)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=32)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Johnson)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=32)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

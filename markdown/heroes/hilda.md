@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hilda.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/hilda.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Хильда
 
 Танк и боец · Линия опыта или роум
-
-**№ 43 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 12,97%
 
-Урон · Регенерация · Сложность 10/100
+**№ 43 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Урон · Регенерация · Сложность 10/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/silvanna.webp)Сильвана+2,65 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/zilong.webp)Зилонг+2,26 п. п.](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/minsitthar.webp)Минситтар+2,09 п. п.](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/vale.webp)Вэйл+1,92 п. п.](https://boostmlbb.ru/heroes/vale.html)
 
@@ -137,7 +137,9 @@ language: ru
 
 Наследница Силы Мегалита.
 
-[Читать историю](https://play.mobilelegends.com/lore/hero/Hilda)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=35)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hilda)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Hilda)Официальный сайт Mobile Legends
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=35)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

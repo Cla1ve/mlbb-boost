@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/harith.html
 language: ru
 ---
 
-[Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![](/images/heroes/harith.webp)
 
@@ -14,8 +14,6 @@ language: ru
 # Харит
 
 Маг · Линия золота
-
-**№ 120 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
 Победы
 
@@ -29,9 +27,11 @@ language: ru
 
 0,05%
 
-Преследование · Урон · Сложность 60/100
+**№ 120 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+Преследование · Урон · Сложность 60/100
 
 ## Сборка
 
@@ -93,7 +93,7 @@ language: ru
 
 ### Союзники
 
-Прибавка к доле побед в одной команде
+Изменение винрейта в паре
 
 [![](/images/heroes/beatrix.webp)Беатрис+5,59 п. п.](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Иксия+5,31 п. п.](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/clint.webp)Клинт+4,78 п. п.](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/brody.webp)Броуди+4,52 п. п.](https://boostmlbb.ru/heroes/brody.html)
 
@@ -139,7 +139,9 @@ language: ru
 
 Леонин, пришедший в Монийскую империю из Азрии.
 
-[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=73)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Harith)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/harith)Kazuki Official, английский
+
+[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=73)
 
 [Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/claude.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/claude.webp)
 
@@ -14,8 +14,6 @@ Tier C
 # Claude
 
 Marksman · Gold Lane
-
-**#95 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 0.21%
 
-Burst · Chase · Difficulty 60/100
+**#95 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Burst · Chase · Difficulty 60/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **53.61%**Picked in **4.06%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/harith.webp)Harith+2.92 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/saber.webp)Saber+1.11 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.10 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/aamon.webp)Aamon+1.09 pp](https://boostmlbb.ru/en/heroes/aamon.html)
 
@@ -137,7 +137,9 @@ Claude and Dexter rapidly fire at nearby enemies for 3s, dealing 40 (+40% Total 
 
 An excellent thief who comes and goes without a trace.
 
-[Read the lore](https://play.mobilelegends.com/lore/hero/Claude)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=65)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Claude)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Claude)Official Mobile Legends site
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=65)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 

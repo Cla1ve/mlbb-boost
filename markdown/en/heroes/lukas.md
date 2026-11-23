@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lukas.html
 language: en
 ---
 
-[Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![](/images/heroes/lukas.webp)
 
@@ -14,8 +14,6 @@ Tier A
 # Lukas
 
 Fighter · EXP Lane or Jungle
-
-**#28 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
 Win rate
 
@@ -29,9 +27,11 @@ Ban rate
 
 32.39%
 
-Regen · Damage · Difficulty 30/100
+**#28 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+Regen · Damage · Difficulty 30/100
 
 ## Build
 
@@ -93,7 +93,7 @@ Wins with this build **54.22%**Picked in **2.49%** of matches
 
 ### Teammates
 
-Win rate gain when playing together
+Win rate change as a duo
 
 [![](/images/heroes/floryn.webp)Floryn+1.90 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.67 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere+1.66 pp](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/phoveus.webp)Phoveus+1.65 pp](https://boostmlbb.ru/en/heroes/phoveus.html)
 
@@ -141,7 +141,9 @@ All attributes: , , , , Attack Speed, and Attack Range.
 
 A legendary Sacred Beast that can take the form of a rambunctious young man.
 
-[Hero card](https://www.mobilelegends.com/hero/detail?heroid=127)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lukas)
+[Read the full story ↗](https://kazukiofficial.com/stories/lukas)Kazuki Official
+
+[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=127)
 
 [Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
