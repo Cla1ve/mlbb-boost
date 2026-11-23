@@ -1,6 +1,6 @@
 ---
 title: "Phoveus MLBB: build, counters and skills | MLBB Boost"
-description: "Phoveus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.53% win rate, tier C."
+description: "Phoveus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.53% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/phoveus.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Phoveus
 
-C
+B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
-
-A former soldier from the border of the Empire who took on the chains of sin to defend his people.
 
 Win rate
 
 48.5%
 
-all ranks 48.2%
-
 Pick rate
 
 0.3%
 
-all ranks 0.3%
-
 Ban rate
 
 0.4%
-
-all ranks 0.8%
-
-#101 in the tier list · #34 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 157.1%Build 257.5%Build 356.2%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3204.webp)
-
-Oracle
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/731.webp)
-
-Brave Smite
-
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Queen's Wings
+    Oracle
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Oracle
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Brave Smite
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Thunder Belt
+    War Axe
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Dominance Ice
+    Queen's Wings
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Antique Cuirass
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Brave Smite
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.9%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3203.webp)
+
+    Antique Cuirass
+
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Brave Smite
+
+
 ## Skills
 
 Level-up**Infernal Pursuit**_›_**Demonic Impact**_›_**Dark Wave**
 
-![](/images/mlbb/skills/phoveus-0.webp)Passive![](/images/mlbb/skills/phoveus-1.webp)Skill 1![](/images/mlbb/skills/phoveus-2.webp)Skill 2![](/images/mlbb/skills/phoveus-3.webp)Ultimate
-
-![](/images/mlbb/skills/phoveus-0.webp)
+![](/images/mlbb/skills/phoveus-0.webp)Passive**Demonic Force**![](/images/mlbb/skills/phoveus-1.webp)Skill 1**Demonic Impact**![](/images/mlbb/skills/phoveus-2.webp)Skill 2**Dark Wave**![](/images/mlbb/skills/phoveus-3.webp)Ultimate**Infernal Pursuit**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Phoveus's next Basic Attack charges at the enemy, knocking them back, dealing extra Magic Damage equal to 4% - 6% of the enemy's (scales with level), and gaining a 8% - 12% shield. Cooldown: 26s-14s (based on Infernal Pursuit's level).
 
 **Astaros' Gaze:** Whenever an enemy hero blinks, dashes, or is displaced within 8 units, reduces the cooldown of Demonic Force by 20% and other skills by 0.5s.
-
-![](/images/mlbb/skills/phoveus-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Phoveus slams his monolith into the ground, dealing 200 (+120% Total Physical At
 
 **Astaros Eye:** Implodes after a short delay, dealing 100 (+60% Total Physical Attack) Magic Damage to the enemies.
 
-![](/images/mlbb/skills/phoveus-2.webp)
-
 Skill 2
 
 ### Dark Wave
@@ -246,8 +228,6 @@ Skill 2
 Cooldown **10 s**
 
 Phoveus lowers his monolith and releases his demonic power in the target direction, knocking enemies airborne, dragging them along, and dealing 250 (+100% Extra Physical Attack) Magic Damage.
-
-![](/images/mlbb/skills/phoveus-3.webp)
 
 Ultimate
 
@@ -259,33 +239,25 @@ Ultimate
 
 Infernal Pursuit can only be used when there are enemies with Sinner's Mark nearby. HP recovered is reduced by 80% when multiple enemies are hit.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
+[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/sun.webp)Sun**+1.9**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lukas.webp)Lukas**+1.6**](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/saber.webp)Saber**+1.5**](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/badang.webp)Badang**+1.3**](https://boostmlbb.ru/en/heroes/badang.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Lore
 
 > A former soldier from the border of the Empire who took on the chains of sin to defend his people.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/PhoveusRE)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=106)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/PhoveusRE)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=106)
 
 **Rank up on Phoveus**The calculator shows the price
 
@@ -307,7 +279,7 @@ Fighter, played in the EXP Lane.
 
 Is Phoveus strong in the current meta?
 
-Tier C, #101 of 133 heroes and #34 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate.
+Tier B, #64 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 18.3% of them.
 
 What is the best build for Phoveus?
 

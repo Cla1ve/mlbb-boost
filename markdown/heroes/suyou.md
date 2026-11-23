@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
 
-Экзорцист из Чжуаня, унаследовавший силу Бессмертного Но.
-
 Победы
 
 49,4%
-
-все ранги 49,7%
 
 Выбор
 
 1,6%
 
-все ранги 1,1%
-
 Баны
 
 1,8%
-
-все ранги 1,5%
-
-№41 в тир-листе · №13 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 153,5%Сборка 255,5%Сборка 356,6%
-
-### Предметы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 21,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Пронзающий небеса
+    Топор войны
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Топор войны
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 14,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Убийственный пир
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 7,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Рассечение души**_›_**Усмиритель зла**_›_**Молниеносный клинок**
 
-![](/images/mlbb/skills/suyou-0.webp)Пассивный![](/images/mlbb/skills/suyou-1.webp)1-й навык![](/images/mlbb/skills/suyou-2.webp)2-й навык![](/images/mlbb/skills/suyou-3.webp)Ультимейт
-
-![](/images/mlbb/skills/suyou-0.webp)
+![](/images/mlbb/skills/suyou-0.webp)Пассивный**Наполовину Бессмертный**![](/images/mlbb/skills/suyou-1.webp)1-й навык**Молниеносный клинок**![](/images/mlbb/skills/suyou-2.webp)2-й навык**Рассечение души**![](/images/mlbb/skills/suyou-3.webp)Ультимейт**Усмиритель зла**
 
 Пассивный
 
@@ -227,8 +213,6 @@ B
 
 В этой форме Су Ё получает 1% снижения физического урона за кажд. 20 ед. дополнительной , вплоть до 40%.
 
-![](/images/mlbb/skills/suyou-1.webp)
-
 1-й навык
 
 ### Молниеносный клинок
@@ -239,8 +223,6 @@ B
 
 Су Ё можно контролировать во время подготовки, но навык нельзя прервать.
 
-![](/images/mlbb/skills/suyou-2.webp)
-
 2-й навык
 
 ### Рассечение души
@@ -248,8 +230,6 @@ B
 **Касание:** Су Ё размахивает своим оружием, нанося врагам в веерообразной области физический урон, равный 280 (+200% дополнительной физической атаки) (+15% от потерянных цели).
 
 **Удерживание:** Су Ё накапливает силу Бессмертного и наносит 3 удара в веерообразной области. Первые два удара наносят по 225 (+80% дополнительной физической атаки) единиц физического урона, а третий наносит 360 (+128% дополнительной физической атаки) единиц физического урона и восстанавливает Су Ё 150 (+50% дополнительной физической атаки) ОЗ.
-
-![](/images/mlbb/skills/suyou-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ B
 
 Су Ё можно контролировать во время подготовки, но навык нельзя прервать.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+1,3**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/freya.webp)Фрейя**+1,2**](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/granger.webp)Грейнджер**+1,0**](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,0**](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
 
 ## История
 
 > Экзорцист из Чжуаня, унаследовавший силу Бессмертного Но.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/suyou)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=126)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/suyou)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=126)
 
 **Поднимем ранг на герое «Су Ё»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ B
 
 Силён ли герой «Су Ё» в текущей мете?
 
-Тир B, 41-е место из 133 героев и 13-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 49,4% побед.
+Тир B, 29-е место из 133 героев и 10-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 25,3% катков.
 
 Какая сборка на героя «Су Ё» лучшая?
 

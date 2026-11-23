@@ -1,6 +1,6 @@
 ---
 title: "Cecilion MLBB: build, counters and skills | MLBB Boost"
-description: "Cecilion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.69% win rate, tier B."
+description: "Cecilion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.69% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Cecilion
 
-B
+C
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
-
-Carmilla's Blood Demon lover.
 
 Win rate
 
 50.7%
 
-all ranks 51.0%
-
 Pick rate
 
 0.7%
 
-all ranks 0.7%
-
 Ban rate
 
 0.1%
-
-all ranks 0.2%
-
-#59 in the tier list · #11 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 156.3%Build 254.6%Build 355.6%
-
-### Core items
-
-![](/images/mlbb/items/3113.webp)
-
-Clock of Destiny
-
-![](/images/mlbb/items/2106.webp)
-
-Enchanted Talisman
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 2.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3113.webp)
+-   ![](/images/mlbb/items/3113.webp)
 
-Clock of Destiny
+    Clock of Destiny
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Wishing Lantern
+    Glowing Wand
 
-### Emblem
 
-![](/images/mlbb/emblems/20001.webp)
+#### Spell
 
-Common
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/611.webp)
+#### Emblem and talents
 
-Inspire
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/621.webp)
+Mage
 
-Bargain Hunter
+-   ![](/images/mlbb/talents/611.webp)
 
-![](/images/mlbb/talents/134.webp)
+    Inspire
 
-Temporal Reign
+-   ![](/images/mlbb/talents/621.webp)
 
-### Spell
+    Bargain Hunter
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Flicker
+    Impure Rage
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3113.webp)
+-   ![](/images/mlbb/items/3113.webp)
 
-Clock of Destiny
+    Clock of Destiny
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Wishing Lantern
+    Wishing Lantern
 
-### Emblem
 
-![](/images/mlbb/emblems/20006.webp)
+#### Spell
 
-Mage
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/611.webp)
+#### Emblem and talents
 
-Inspire
+![](/images/mlbb/emblems/20001.webp)
 
-![](/images/mlbb/talents/121.webp)
+Common
 
-Wilderness Blessing
+-   ![](/images/mlbb/talents/611.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Inspire
 
-Impure Rage
+-   ![](/images/mlbb/talents/621.webp)
 
-### Spell
+    Bargain Hunter
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Flicker
+    Temporal Reign
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.0%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3113.webp)
+
+    Clock of Destiny
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Enchanted Talisman
+
+-   ![](/images/mlbb/items/2112.webp)
+
+    Wishing Lantern
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Bats Feast**_›_**Bat Impact**_›_**Sanguine Claws**
 
-![](/images/mlbb/skills/cecilion-0.webp)Passive![](/images/mlbb/skills/cecilion-1.webp)Skill 1![](/images/mlbb/skills/cecilion-2.webp)Skill 2![](/images/mlbb/skills/cecilion-3.webp)Skill 3![](/images/mlbb/skills/cecilion-4.webp)Ultimate
-
-![](/images/mlbb/skills/cecilion-0.webp)
+![](/images/mlbb/skills/cecilion-0.webp)Passive**Overflowing**![](/images/mlbb/skills/cecilion-1.webp)Skill 1**Bat Impact**![](/images/mlbb/skills/cecilion-2.webp)Skill 2**Sanguine Claws**![](/images/mlbb/skills/cecilion-3.webp)Skill 3**Bats Feast**![](/images/mlbb/skills/cecilion-4.webp)Ultimate**Moonlit Waltz**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Cecilion gains 10 extra Max Mana and recovers 10 Mana each time his skill hits an enemy. Cooldown: 1s.
 
 Cecilion has higher Max Mana and Mana Regen, and his skill damage scales with his Max Mana.
-
-![](/images/mlbb/skills/cecilion-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Cecilion commands a giant bat to dive at the target location, gaining 30% extra 
 
 Each subsequent cast within 6s increases this skill's Mana cost by 1.5 times (up to 4 stacks).
 
-![](/images/mlbb/skills/cecilion-2.webp)
-
 Skill 2
 
 ### Sanguine Claws
@@ -246,8 +228,6 @@ Skill 2
 Cooldown **12 Mana Cost: 95 s**
 
 Cecilion summons a pair of opposing claws at the target location that will clasp together after a short delay, pulling enemies in their paths to the center while dealing them 200 (+45% Total Magic Power) (+1.2% Total Mana) Magic Damage and immobilizing them for 1s.
-
-![](/images/mlbb/skills/cecilion-3.webp)
 
 Skill 3
 
@@ -261,8 +241,6 @@ Meanwhile, he fires 36 bolts of blood energy at nearby enemies, each dealing 35 
 
 Each bolt that hits restores HP equal to 10 plus 1% of Cecilion's lost .
 
-![](/images/mlbb/skills/cecilion-4.webp)
-
 Ultimate
 
 ### Moonlit Waltz
@@ -273,27 +251,19 @@ When Carmilla is nearby, Cecilion can summon her to become a Vermil Shadow aroun
 
 Carmilla can choose to leave Cecilion and charge at the target location, gaining an equal shield while dealing 520-800 Magic Damage (scales with level) to nearby enemies and slowing them by 30% for 1s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harley.webp)Harley**+1.4**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/marcel.webp)Marcel**+1.3**](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/zhuxin.webp)Zhuxin**+1.2**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/harith.webp)Harith**+1.0**](https://boostmlbb.ru/en/heroes/harith.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ## Lore
 
 > Carmilla's Blood Demon lover.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Cecilion)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=91)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Cecilion)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=91)
 
 **Rank up on Cecilion**The calculator shows the price
 
@@ -315,7 +285,7 @@ Mage, played in the Mid Lane.
 
 Is Cecilion strong in the current meta?
 
-Tier B, #59 of 133 heroes and #11 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.7% win rate.
+Tier C, #75 of 133 heroes and #20 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.7% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
 
 What is the best build for Cecilion?
 

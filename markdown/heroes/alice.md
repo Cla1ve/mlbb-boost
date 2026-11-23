@@ -1,6 +1,6 @@
 ---
 title: "Алиса MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Алиса в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и маг, 50,31% побед, тир B."
+description: "Алиса в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и маг, 50,31% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/alice.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Алиса
 
-B
+A
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
-
-Королева демонов крови и одна из двух доминирующих сил в Бездне.
 
 Победы
 
 50,3%
 
-все ранги 50,7%
-
 Выбор
 
 1,0%
 
-все ранги 0,9%
-
 Баны
 
 8,2%
-
-все ранги 12,7%
-
-№31 в тир-листе · №7 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие танки этой линии
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,0%Сборка 257,6%Сборка 358,8%
-
-### Предметы
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/311.webp)
-
-Живучесть
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 2,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Стойкость
+    Опытный охотник
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 1,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Оракул
+    Кираса грубой силы
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Кираса грубой силы
+    Оракул
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Наплечник наказания
+    Концентрированная энергия
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-Стойкость
+    Стойкость
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 1,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Живучесть
+
+-   ![](/images/mlbb/talents/321.webp)
+
+    Стойкость
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Гибельная власть**_›_**Роковой вальс**_›_**Багровое сияние**
 
-![](/images/mlbb/skills/alice-0.webp)Пассивный![](/images/mlbb/skills/alice-1.webp)1-й навык![](/images/mlbb/skills/alice-2.webp)2-й навык![](/images/mlbb/skills/alice-3.webp)Ультимейт
-
-![](/images/mlbb/skills/alice-0.webp)
+![](/images/mlbb/skills/alice-0.webp)Пассивный**Багряный кровавый банкет**![](/images/mlbb/skills/alice-1.webp)1-й навык**Багровое сияние**![](/images/mlbb/skills/alice-2.webp)2-й навык**Роковой вальс**![](/images/mlbb/skills/alice-3.webp)Ультимейт**Гибельная власть**
 
 Пассивный
 
@@ -227,8 +213,6 @@ B
 
 Урон по монстрам ограничен 70 (+10 × ур. героя) ед. магического урона.
 
-![](/images/mlbb/skills/alice-1.webp)
-
 1-й навык
 
 ### Багровое сияние
@@ -239,8 +223,6 @@ B
 
 **Повторное использование:** до того, как кровавая энергия рассеется, Алиса может снова применить этот навык как "Алую тень", чтобы переместиться к ее местоположению.
 
-![](/images/mlbb/skills/alice-2.webp)
-
 2-й навык
 
 ### Роковой вальс
@@ -250,8 +232,6 @@ B
 Алиса исполняет смертельный танец, нанося 350 (+130% общей магической силы) единиц магического урона ближайшим врагам и замедляя их на 70% на 1 сек.
 
 Если "Кровавый банкет" активен, навык также обжигает врагов, нанося 300% от урона "Кровавого банкета" и восстанавливая такое же количество ОЗ.
-
-![](/images/mlbb/skills/alice-3.webp)
 
 Ультимейт
 
@@ -265,33 +245,25 @@ B
 
 Во время подготовки ультимейта Алиса не может использовать никакие навыки героя, кроме "Алой тени".
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/cici.webp)Чичи**+2,3**](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/angela.webp)Ангела**+2,1**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/aldous.webp)Алдос**+2,1**](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/argus.webp)Аргус**+2,1**](https://boostmlbb.ru/heroes/argus.html)
+[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
 
 ## История
 
 > Королева демонов крови и одна из двух доминирующих сил в Бездне.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Alice)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=4)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Alice)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=4)
 
 **Поднимем ранг на герое «Алиса»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ B
 
 Силён ли герой «Алиса» в текущей мете?
 
-Тир B, 31-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 8,2% матчей, 50,3% побед.
+Тир A, 13-е место из 133 героев и 5-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 8,2% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 57,7% катков.
 
 Какая сборка на героя «Алиса» лучшая?
 

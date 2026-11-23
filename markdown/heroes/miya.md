@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Жрица луны и защитница Лунного леса.
-
 Победы
 
 50,1%
-
-все ранги 49,7%
 
 Выбор
 
 1,3%
 
-все ранги 2,2%
-
 Баны
 
 1,7%
-
-все ранги 4,6%
-
-№40 в тир-листе · №6 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 155,8%Сборка 256,2%Сборка 356,2%
-
-### Предметы
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-![](/images/mlbb/items/3002.webp)
-
-Когти Хааса
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/1211.webp)
-
-Фатальность
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 18,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Когти Хааса
+    Ярость берсерка
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Ярость берсерка
+    Когти Хааса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 3,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Ярость берсерка
+    Когти Хааса
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Когти Хааса
+    Ярость берсерка
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Точно в цель
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 3,0%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Точно в цель
+
+
 ## Навыки
 
 Прокачка**Скрытый лунный свет**_›_**Лунная стрела**_›_**Стрела затмения**
 
-![](/images/mlbb/skills/miya-0.webp)Пассивный![](/images/mlbb/skills/miya-1.webp)1-й навык![](/images/mlbb/skills/miya-2.webp)2-й навык![](/images/mlbb/skills/miya-3.webp)Ультимейт
-
-![](/images/mlbb/skills/miya-0.webp)
+![](/images/mlbb/skills/miya-0.webp)Пассивный**Благословение луны**![](/images/mlbb/skills/miya-1.webp)1-й навык**Лунная стрела**![](/images/mlbb/skills/miya-2.webp)2-й навык**Стрела затмения**![](/images/mlbb/skills/miya-3.webp)Ультимейт**Скрытый лунный свет**
 
 Пассивный
 
@@ -224,8 +210,6 @@ B
 Каждый раз, когда базовая атака Мии поражает цель, она получает 5% скорости атаки на 4 сек. (до 5 зарядов).
 
 При максимальном количестве зарядов каждая базовая атака также призывает лунную тень для атаки цели, которая наносит 25 (+20% общей физической атаки) единиц физического урона, наследуя 20% эффектов атаки.
-
-![](/images/mlbb/skills/miya-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ B
 
 Этот эффект длится 4 сек.
 
-![](/images/mlbb/skills/miya-2.webp)
-
 2-й навык
 
 ### Стрела затмения
@@ -248,8 +230,6 @@ B
 Мия призывает силу Лунного затмения в указанную область, нанося 270 (+45% общей физической атаки) единиц физического урона врагам внутри нее и обездвиживая их на 1.2 сек.
 
 Затем атака разделяется на 6 стрел, которые разлетаются в разных направлениях. Каждая стрела наносит 40 (+20% общей физической атаки) единиц физического урона и замедляет пораженных врагов на 30% на 2 сек.
-
-![](/images/mlbb/skills/miya-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ B
 
 При выходе из состояния маскировки Мия получает максимальное количество зарядов "Благословения луны".
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/gloo.webp)Глу**+2,1**](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа**+1,8**](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Роджер**+1,6**](https://boostmlbb.ru/heroes/roger.html)[![](/images/heroes/belerick.webp)Белерик**+1,4**](https://boostmlbb.ru/heroes/belerick.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## История
 
 > Жрица луны и защитница Лунного леса.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Miya)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=1)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Miya)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=1)
 
 **Поднимем ранг на герое «Мия»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ B
 
 Силён ли герой «Мия» в текущей мете?
 
-Тир B, 40-е место из 133 героев и 6-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,7% матчей, 50,1% побед.
+Тир B, 53-е место из 133 героев и 10-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,7% матчей, 50,1% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
 
 Какая сборка на героя «Мия» лучшая?
 

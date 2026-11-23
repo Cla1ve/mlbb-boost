@@ -1,6 +1,6 @@
 ---
 title: "Granger MLBB: build, counters and skills | MLBB Boost"
-description: "Granger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 44.02% win rate, tier D."
+description: "Granger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 44.02% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/granger.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Granger
 
-D
+C
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
-
-A mysterious demon hunter that operates outside the conventions of the Church of Light. Always seen with a violin case in hand, he hunts down demons with his two soul-devouring weapons.
 
 Win rate
 
 44.0%
 
-all ranks 43.0%
-
 Pick rate
 
 1.4%
 
-all ranks 1.3%
-
 Ban rate
 
 0.9%
-
-all ranks 1.6%
-
-#119 in the tier list · #22 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 146.3%Build 246.1%Build 339.7%
-
-### Core items
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 30.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Rupture
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 10.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Sea Halberd
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Thrill
+    Rupture
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Death Sonata**_›_**Rhapsody**_›_**Rondo**
 
-![](/images/mlbb/skills/granger-0.webp)Passive![](/images/mlbb/skills/granger-1.webp)Skill 1![](/images/mlbb/skills/granger-2.webp)Skill 2![](/images/mlbb/skills/granger-3.webp)Ultimate
-
-![](/images/mlbb/skills/granger-0.webp)
+![](/images/mlbb/skills/granger-0.webp)Passive**Capriccio**![](/images/mlbb/skills/granger-1.webp)Skill 1**Rhapsody**![](/images/mlbb/skills/granger-2.webp)Skill 2**Rondo**![](/images/mlbb/skills/granger-3.webp)Ultimate**Death Sonata**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Granger's unique Demon Hunting Gun and Cannon are powered by Demonic Energy. Both his weapons start with 800 max Energy. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Killing a Minion / Creep permanently increases their max Energy by 6 / 6, and instantly restores their Energy by 5% / 5%, respectively. Each kill or assist on an enemy hero permanently increases both weapons' max Energy by 12 and instantly restores 10% Energy.
 
 Every 1% Cooldown Reduction converts to 2 . Demonic Energy costs are not affected by Energy Cost Reduction.
-
-![](/images/mlbb/skills/granger-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Granger rapidly fires 6 shot(s) with his Gun, with each shot dealing 60 (+45% To
 
 Granger stops firing when he runs out of Energy, or when the skill is cast again. Rhapsody has no cooldown and can be cast once his Gun Energy is over 420.
 
-![](/images/mlbb/skills/granger-2.webp)
-
 Skill 2
 
 ### Rondo
@@ -248,8 +230,6 @@ Cooldown **12 s**
 Granger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15% Energy for his Gun.
 
 Rondo can be cast while channeling Rhapsody. Each time Rhapsody hits an enemy, Rondo's Cooldown is reduced by 0.5s.
-
-![](/images/mlbb/skills/granger-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Granger fires his Cannon in the target direction, dealing 150 (+110% Total Physi
 
 Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/baxia.webp)Baxia**+8.5**](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/floryn.webp)Floryn**+5.6**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/harith.webp)Harith**+3.9**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/fredrinn.webp)Fredrinn**+3.4**](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Lore
 
 > A mysterious demon hunter that operates outside the conventions of the Church of Light. Always seen with a violin case in hand, he hunts down demons with his two soul-devouring weapons.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/granger)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=79)
+[Read the full story ↗](https://kazukiofficial.com/stories/granger)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=79)
 
 **Rank up on Granger**The calculator shows the price
 
@@ -309,7 +281,7 @@ Marksman, played in the Gold Lane.
 
 Is Granger strong in the current meta?
 
-Tier D, #119 of 133 heroes and #22 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 44.0% win rate.
+Tier C, #93 of 133 heroes and #19 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 44.0% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
 
 What is the best build for Granger?
 

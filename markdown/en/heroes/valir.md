@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-Heir to Fire Throat, fire mage.
-
 Win rate
 
 53.4%
-
-all ranks 54.1%
 
 Pick rate
 
 1.3%
 
-all ranks 1.2%
-
 Ban rate
 
 3.7%
-
-all ranks 3.8%
-
-#19 in the tier list · #3 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 159.8%Build 261.1%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3104.webp)
-
-Ice Queen Wand
-
-![](/images/mlbb/items/2112.webp)
-
-Wishing Lantern
-
-### Emblem
-
-![](/images/mlbb/emblems/20001.webp)
-
-Common
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 23.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3104.webp)
+-   ![](/images/mlbb/items/3104.webp)
 
-Ice Queen Wand
+    Ice Queen Wand
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Brute Force Breastplate
+    Wishing Lantern
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Common
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,13 +113,49 @@ Pick rate
 
 3.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3104.webp)
+
+    Ice Queen Wand
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20001.webp)
+
+Common
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Vengeance Flame**_›_**Burst Fireball**_›_**Searing Torrent**
 
-![](/images/mlbb/skills/valir-0.webp)Passive![](/images/mlbb/skills/valir-1.webp)Skill 1![](/images/mlbb/skills/valir-2.webp)Skill 2![](/images/mlbb/skills/valir-3.webp)Ultimate
-
-![](/images/mlbb/skills/valir-0.webp)
+![](/images/mlbb/skills/valir-0.webp)Passive**Ashing**![](/images/mlbb/skills/valir-1.webp)Skill 1**Burst Fireball**![](/images/mlbb/skills/valir-2.webp)Skill 2**Searing Torrent**![](/images/mlbb/skills/valir-3.webp)Ultimate**Vengeance Flame**
 
 Passive
 
@@ -180,8 +166,6 @@ Valir's skills apply a stack of Ablaze to enemies hit, dealing them Magic Damage
 At 3 stacks, the fire detonates, dealing Magic Damage equal to 5 (+1% Total Magic Power)% of the target's and stunning them for 1s.
 
 A target can only be stunned by Valir's skills once every 7s.
-
-![](/images/mlbb/skills/valir-1.webp)
 
 Skill 1
 
@@ -195,8 +179,6 @@ Valir recharges 1 fireball every 9s (up to 2 charges). Hitting an enemy hero or 
 
 **Vengeance Flame:** Increases the cast range of Burst Fireball by 30%.
 
-![](/images/mlbb/skills/valir-2.webp)
-
 Skill 2
 
 ### Searing Torrent
@@ -209,8 +191,6 @@ Valir unleashes a torrent of flames in the target direction, dealing 200 (+60% T
 
 Enemies hit by the torrent or the firewall are slowed by 25% for 1s.
 
-![](/images/mlbb/skills/valir-3.webp)
-
 Ultimate
 
 ### Vengeance Flame
@@ -219,33 +199,25 @@ Cooldown **36 Mana Cost: 100 s**
 
 Valir removes all debuffs on himself and gains 40% Movement Speed that decays over 3s. Meanwhile, he conjures 4 Vengeance Flames that enhance Burst Fireball and Searing Torrent for 9s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/natalia.webp)Natalia**+1.5**](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/hanzo.webp)Hanzo**+1.4**](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/harley.webp)Harley**+1.4**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/zhuxin.webp)Zhuxin**+1.3**](https://boostmlbb.ru/en/heroes/zhuxin.html)
+[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ## Lore
 
 > Heir to Fire Throat, fire mage.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/valir)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=57)
+[Read the full story ↗](https://kazukiofficial.com/stories/valir)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=57)
 
 **Rank up on Valir**The calculator shows the price
 
@@ -267,7 +239,7 @@ Mage, played in the Mid Lane.
 
 Is Valir strong in the current meta?
 
-Tier A, #19 of 133 heroes and #3 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.7% of matches, 53.4% win rate.
+Tier A, #20 of 133 heroes and #6 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.7% of matches, 53.4% win rate. In professional games over the last month the hero is drafted in 40.7% of them.
 
 What is the best build for Valir?
 

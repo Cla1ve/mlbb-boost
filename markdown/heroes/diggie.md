@@ -1,6 +1,6 @@
 ---
 title: "Дигги MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Дигги в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 55,94% побед, тир A."
+description: "Дигги в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 55,94% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/diggie.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Дигги
 
-A
+B
 
 ![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
-
-Сова-ученый, способный управлять временем.
 
 Победы
 
 55,9%
 
-все ранги 54,3%
-
 Выбор
 
 0,3%
 
-все ранги 0,2%
-
 Баны
 
 5,3%
-
-все ранги 3,7%
-
-№29 в тир-листе · №10 среди героев поддержки · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие герои поддержки этой линии
 
-[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)
+[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 163,0%Сборка 260,1%Сборка 357,9%
-
-### Предметы
-
-![](/images/mlbb/items/3112.webp)
-
-Фляга Оазиса
-
-![](/images/mlbb/items/3109.webp)
-
-Мимолетное время
-
-![](/images/mlbb/items/3202.webp)
-
-Защитный шлем
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/821.webp)
-
-Второе дыхание
-
-![](/images/mlbb/talents/831.webp)
-
-Фокус-метка
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 21,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Господство льда
+    Защитный шлем
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Фокус-метка
+    Фокус-метка
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 13,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Древняя кираса
+    Господство льда
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Фокус-метка
+    Фокус-метка
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -209,21 +159,55 @@ A
 
 3,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Фляга Оазиса
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+-   ![](/images/mlbb/items/3203.webp)
+
+    Древняя кираса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Фокус-метка
+
+
 ## Навыки
 
 Прокачка**Путешествие во времени**_›_**Автоматическая бомба**_›_**Время назад**
 
-![](/images/mlbb/skills/diggie-0.webp)Пассивный![](/images/mlbb/skills/diggie-1.webp)1-й навык![](/images/mlbb/skills/diggie-2.webp)2-й навык![](/images/mlbb/skills/diggie-3.webp)Ультимейт
-
-![](/images/mlbb/skills/diggie-0.webp)
+![](/images/mlbb/skills/diggie-0.webp)Пассивный**Снова молодой**![](/images/mlbb/skills/diggie-1.webp)1-й навык**Автоматическая бомба**![](/images/mlbb/skills/diggie-2.webp)2-й навык**Время назад**![](/images/mlbb/skills/diggie-3.webp)Ультимейт**Путешествие во времени**
 
 Пассивный
 
 ### Снова молодой
 
 После смерти Дигги обращает время вспять и возвращается в форму яйца, в которой может передвигаться и использовать новый набор навыков. В форме яйца он получает неуловимость для прицела и возрождается в текущем местоположении.
-
-![](/images/mlbb/skills/diggie-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ A
 
 Одновременно может существовать до 5 сов-будильников.
 
-![](/images/mlbb/skills/diggie-2.webp)
-
 2-й навык
 
 ### Время назад
@@ -249,8 +231,6 @@ A
 
 Если враг выйдет из круга, притягивание сработает раньше.
 
-![](/images/mlbb/skills/diggie-3.webp)
-
 Ультимейт
 
 ### Путешествие во времени
@@ -259,33 +239,25 @@ A
 
 Дигги снимает все дебаффы с ближайших союзных героев (включая себя) и дает 650 (+300% общей магической силы) ед. щита и иммунитет к контролю на 2 сек. Он также получает 50% скорости передвижения на 0.5 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/baxia.webp)Баксий**+11,7**](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/ixia.webp)Иксия**+7,4**](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/kalea.webp)Калеа**+6,6**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/saber.webp)Сабер**+6,1**](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## История
 
 > Сова-ученый, способный управлять временем.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/diggie)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=48)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/diggie)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=48)
 
 **Поднимем ранг на герое «Дигги»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ A
 
 Силён ли герой «Дигги» в текущей мете?
 
-Тир A, 29-е место из 133 героев и 10-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,3% матчей, 55,9% побед.
+Тир B, 57-е место из 133 героев и 10-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,3% матчей, 55,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Дигги» лучшая?
 

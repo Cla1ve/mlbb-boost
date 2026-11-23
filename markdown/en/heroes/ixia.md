@@ -1,6 +1,6 @@
 ---
 title: "Ixia MLBB: build, counters and skills | MLBB Boost"
-description: "Ixia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.64% win rate, tier B."
+description: "Ixia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.64% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/ixia.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Ixia
 
-B
+C
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
-
-The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a stolen Starlium reactor.
 
 Win rate
 
 50.6%
 
-all ranks 50.1%
-
 Pick rate
 
 0.8%
 
-all ranks 0.8%
-
 Ban rate
 
 0.5%
-
-all ranks 0.8%
-
-#57 in the tier list · #12 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,55 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 156.1%Build 254.5%Build 354.6%
-
-### Core items
-
-![](/images/mlbb/items/3013.webp)
-
-Sea Halberd
-
-![](/images/mlbb/items/2008.webp)
-
-Corrosion Scythe
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-![](/images/mlbb/items/3015.webp)
-
-Malefic Gun
-
-### Emblem
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/133.webp)
-
-War Cry
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -121,43 +67,47 @@ Pick rate
 
 8.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sea Halberd
+    Sea Halberd
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Sky Piercer
+    Corrosion Scythe
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Corrosion Scythe
+    Sky Piercer
 
-### Emblem
+-   ![](/images/mlbb/items/3015.webp)
+
+    Malefic Gun
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Marksman
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-War Cry
+    War Cry
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -167,43 +117,43 @@ Pick rate
 
 6.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sea Halberd
+    Sea Halberd
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Corrosion Scythe
+    Sky Piercer
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Sky Piercer
+    Corrosion Scythe
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Marksman
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-War Cry
+    War Cry
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -213,13 +163,49 @@ Pick rate
 
 6.1%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    War Cry
+
+
 ## Skills
 
 Level-up**Full Barrage**_›_**Dual Beam**_›_**Star Helix**
 
-![](/images/mlbb/skills/ixia-0.webp)Passive![](/images/mlbb/skills/ixia-1.webp)Skill 1![](/images/mlbb/skills/ixia-2.webp)Skill 2![](/images/mlbb/skills/ixia-3.webp)Ultimate
-
-![](/images/mlbb/skills/ixia-0.webp)
+![](/images/mlbb/skills/ixia-0.webp)Passive**Siphon Starlium**![](/images/mlbb/skills/ixia-1.webp)Skill 1**Dual Beam**![](/images/mlbb/skills/ixia-2.webp)Skill 2**Star Helix**![](/images/mlbb/skills/ixia-3.webp)Ultimate**Full Barrage**
 
 Passive
 
@@ -231,8 +217,6 @@ Siphon Starlium can hit all enemies in front of Ixia within her Basic Attack ran
 
 Ixia's Basic Attacks cannot trigger Lifesteal.
 
-![](/images/mlbb/skills/ixia-1.webp)
-
 Skill 1
 
 ### Dual Beam
@@ -243,8 +227,6 @@ Ixia fires 2 Starlium-charged energy beams along the ground in the target direct
 
 Enemies hit by both beams will take double damage.
 
-![](/images/mlbb/skills/ixia-2.webp)
-
 Skill 2
 
 ### Star Helix
@@ -252,8 +234,6 @@ Skill 2
 Cooldown **11 Mana Cost: 65 s**
 
 Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies. After a short delay, it pulls enemies in range to the center line and deals 200 (+60% Total Physical Attack) Physical Damage.
-
-![](/images/mlbb/skills/ixia-3.webp)
 
 Ultimate
 
@@ -263,33 +243,25 @@ Cooldown **42 Mana Cost: 120 s**
 
 Ixia reassembles her weapon into 6 smaller weapons and enters the Full Barrage state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her, but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and Siphon Starlium will fire simultaneously with her normal Basic Attacks.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/diggie.webp)Diggie**+7.4**](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/harith.webp)Harith**+5.3**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/baxia.webp)Baxia**+3.9**](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/estes.webp)Estes**+2.6**](https://boostmlbb.ru/en/heroes/estes.html)
+[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
 
 ## Lore
 
 > The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a stolen Starlium reactor.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Lxia)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=121)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Lxia)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=121)
 
 **Rank up on Ixia**The calculator shows the price
 
@@ -311,7 +283,7 @@ Marksman, played in the Gold Lane.
 
 Is Ixia strong in the current meta?
 
-Tier B, #57 of 133 heroes and #12 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.6% win rate.
+Tier C, #73 of 133 heroes and #14 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Ixia?
 

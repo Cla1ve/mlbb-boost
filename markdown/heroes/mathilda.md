@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
 
-Храбрая девушка, которая не боится превосходящих сил.
-
 Победы
 
 44,0%
-
-все ранги 44,5%
 
 Выбор
 
 0,2%
 
-все ранги 0,1%
-
 Баны
 
 0,2%
-
-все ранги 0,2%
-
-№129 в тир-листе · №27 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 152,5%Сборка 253,1%Сборка 348,1%
-
-### Предметы
-
-![](/images/mlbb/items/3112.webp)
-
-Фляга Оазиса
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-![](/images/mlbb/items/3108.webp)
-
-Кровавые крылья
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 8,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3108.webp)
 
-Оракул
+    Кровавые крылья
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Квантовый заряд
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 3,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Кровавые крылья
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Нечестивая ярость
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -209,21 +159,55 @@ D
 
 1,9%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Фляга Оазиса
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Кровавые крылья
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Кружащий орел**_›_**Цветение души**_›_**Путеводный ветер**
 
-![](/images/mlbb/skills/mathilda-0.webp)Пассивный![](/images/mlbb/skills/mathilda-1.webp)1-й навык![](/images/mlbb/skills/mathilda-2.webp)2-й навык![](/images/mlbb/skills/mathilda-3.webp)Ультимейт
-
-![](/images/mlbb/skills/mathilda-0.webp)
+![](/images/mlbb/skills/mathilda-0.webp)Пассивный**Наставление предков**![](/images/mlbb/skills/mathilda-1.webp)1-й навык**Цветение души**![](/images/mlbb/skills/mathilda-2.webp)2-й навык**Путеводный ветер**![](/images/mlbb/skills/mathilda-3.webp)Ультимейт**Кружащий орел**
 
 Пассивный
 
 ### Наставление предков
 
 Матильда получает "Наставление предков" во время движения. Когда оно полностью заряжено, ее следующая базовая атака будет усилена, нанесет 200 (+100% общей физической атаки) (+100% общей магической силы) единиц мaгического урона цели и увеличит скорость передвижения Матильды на 80 (спадает за 2.5 сек.).
-
-![](/images/mlbb/skills/mathilda-1.webp)
 
 1-й навык
 
@@ -234,8 +218,6 @@ D
 Матильда резонирует с силой своих предков в течение 4 сек., призывая огоньки по мере прохождения расстояния (макс. огоньков: 6).
 
 В конце действия навыка или при его повторном использовании огоньки устремятся к ближайшим врагам и атакуют их, каждый раз нанося 275 (+125% общей магической силы) единиц магического урона и ненадолго раскрывая их местоположение. Последующий урон, наносимый огоньками по одной и той же цели, уменьшается до 40%.
-
-![](/images/mlbb/skills/mathilda-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ D
 
 "Путеводный ветер" исчезнет через 2 сек. после того, как герой покинет поле Матильды.
 
-![](/images/mlbb/skills/mathilda-3.webp)
-
 Ультимейт
 
 ### Кружащий орел
@@ -263,33 +243,25 @@ D
 
 Матильда получает иммунитет к контролю и 400 (+180% общей магической силы) ед. щита на время действия навыка.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/kalea.webp)Калеа**+4,3**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/atlas.webp)Атлас**+3,4**](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Кармилла**+3,3**](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/odette.webp)Одетта**+2,5**](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
 
 ## История
 
 > Храбрая девушка, которая не боится превосходящих сил.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Mathilda)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=102)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Mathilda)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=102)
 
 **Поднимем ранг на герое «Матильда»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ D
 
 Силён ли герой «Матильда» в текущей мете?
 
-Тир D, 129-е место из 133 героев и 27-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 44,0% побед.
+Тир D, 129-е место из 133 героев и 28-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 44,0% побед. В профессиональных матчах за месяц героя драфтуют в 2,3% катков.
 
 Какая сборка на героя «Матильда» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Benedetta MLBB: build, counters and skills | MLBB Boost"
-description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.58% win rate, tier B."
+description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.58% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Benedetta
 
-B
+C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/exp.webp)EXP Lane
-
-Female warrior defending the Barren Lands against demon invasion.
 
 Win rate
 
 51.6%
 
-all ranks 52.1%
-
 Pick rate
 
 0.5%
 
-all ranks 0.4%
-
 Ban rate
 
 0.3%
-
-all ranks 0.4%
-
-#61 in the tier list · #18 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 154.6%Build 257.4%Build 353.0%
-
-### Core items
-
-![](/images/mlbb/items/3007.webp)
-
-Blade of the Heptaseas
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,47 +67,43 @@ Pick rate
 
 5.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Hunter Strike
+    Malefic Roar
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Malefic Roar
+    Hunter Strike
 
-![](/images/mlbb/items/3008.webp)
 
-Blade of Despair
+#### Spell
 
-### Emblem
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -167,43 +113,47 @@ Pick rate
 
 4.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+-   ![](/images/mlbb/items/3008.webp)
+
+    Blade of Despair
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -213,13 +163,49 @@ Pick rate
 
 2.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Alecto: Final Blow**_›_**Phantom Slash**_›_**An Eye for An Eye**
 
-![](/images/mlbb/skills/benedetta-0.webp)Passive![](/images/mlbb/skills/benedetta-1.webp)Skill 1![](/images/mlbb/skills/benedetta-2.webp)Skill 2![](/images/mlbb/skills/benedetta-3.webp)Ultimate
-
-![](/images/mlbb/skills/benedetta-0.webp)
+![](/images/mlbb/skills/benedetta-0.webp)Passive**Elapsed Daytime**![](/images/mlbb/skills/benedetta-1.webp)Skill 1**Phantom Slash**![](/images/mlbb/skills/benedetta-2.webp)Skill 2**An Eye for An Eye**![](/images/mlbb/skills/benedetta-3.webp)Ultimate**Alecto: Final Blow**
 
 Passive
 
@@ -231,8 +217,6 @@ Benedetta can only cast Swordout Slash when her Sword Intent is full and she is 
 
 Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
 
-![](/images/mlbb/skills/benedetta-1.webp)
-
 Skill 1
 
 ### Phantom Slash
@@ -242,8 +226,6 @@ Cooldown **10 Mana Cost: 55 s**
 Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200 (+75% Total Physical Attack) Physical Damage and slowing the enemies by 60% for 0.5s.
 
 Meanwhile, Benedetta dashes forward to slash, dealing 75 (+100% Total Physical Attack) Physical Damage. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)
-
-![](/images/mlbb/skills/benedetta-2.webp)
 
 Skill 2
 
@@ -255,8 +237,6 @@ Benedetta raises her weapon to defend, gaining Control Immunity and blocking dam
 
 If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5s.
 
-![](/images/mlbb/skills/benedetta-3.webp)
-
 Ultimate
 
 ### Alecto: Final Blow
@@ -265,33 +245,25 @@ Cooldown **45 Mana Cost: 110 s**
 
 Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560 (+1105% Extra Physical Attack) Physical Damage to enemies within and slows them by 50%.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
+[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/thamuz.webp)Thamuz**+2.2**](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/fredrinn.webp)Fredrinn**+2.0**](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/sun.webp)Sun**+2.0**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/alice.webp)Alice**+1.9**](https://boostmlbb.ru/en/heroes/alice.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ## Lore
 
 > Female warrior defending the Barren Lands against demon invasion.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Benedetta)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=97)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Benedetta)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=97)
 
 **Rank up on Benedetta**The calculator shows the price
 
@@ -313,7 +285,7 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Benedetta strong in the current meta?
 
-Tier B, #61 of 133 heroes and #18 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 51.6% win rate.
+Tier C, #81 of 133 heroes and #23 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
 
 What is the best build for Benedetta?
 

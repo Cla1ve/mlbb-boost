@@ -1,6 +1,6 @@
 ---
 title: "Rafaela MLBB: build, counters and skills | MLBB Boost"
-description: "Rafaela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.21% win rate, tier A."
+description: "Rafaela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.21% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/rafaela.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Rafaela
 
-A
+B
 
 ![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
-
-An angel loved and respected by the people of this world.
 
 Win rate
 
 53.2%
 
-all ranks 54.5%
-
 Pick rate
 
 0.8%
 
-all ranks 0.8%
-
 Ban rate
 
 9.4%
-
-all ranks 12.7%
-
-#22 in the tier list · #8 among supports · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More supports on this lane
 
-[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 157.2%Build 262.4%Build 359.7%
-
-### Core items
-
-![](/images/mlbb/items/3112.webp)
-
-Flask of the Oasis
-
-![](/images/mlbb/items/2106.webp)
-
-Enchanted Talisman
-
-![](/images/mlbb/items/3104.webp)
-
-Ice Queen Wand
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/831.webp)
-
-Focusing Mark
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3104.webp)
 
-Queen's Wings
+    Ice Queen Wand
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Agility
+    Inspire
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Pull Yourself Together
+    Wilderness Blessing
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/3104.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Ice Queen Wand
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Inspire
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Wilderness Blessing
+    Pull Yourself Together
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Flask of the Oasis
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Enchanted Talisman
+
+-   ![](/images/mlbb/items/3104.webp)
+
+    Ice Queen Wand
+
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Focusing Mark
+
+
 ## Skills
 
 Level-up**Holy Baptism**_›_**Light of Retribution**_›_**Holy Healing**
 
-![](/images/mlbb/skills/rafaela-0.webp)Passive![](/images/mlbb/skills/rafaela-1.webp)Skill 1![](/images/mlbb/skills/rafaela-2.webp)Skill 2![](/images/mlbb/skills/rafaela-3.webp)Ultimate
-
-![](/images/mlbb/skills/rafaela-0.webp)
+![](/images/mlbb/skills/rafaela-0.webp)Passive**Divine Resurrection**![](/images/mlbb/skills/rafaela-1.webp)Skill 1**Light of Retribution**![](/images/mlbb/skills/rafaela-2.webp)Skill 2**Holy Healing**![](/images/mlbb/skills/rafaela-3.webp)Ultimate**Holy Baptism**
 
 Passive
 
@@ -225,8 +211,6 @@ Rafaela can cast a special skill every 10s. After channeling for 2.5s, she insta
 
 This skill's cooldown is increased by 600% of the target's remaining respawn time, capped at 240s. This skill is not affected by Cooldown Reduction.
 
-![](/images/mlbb/skills/rafaela-1.webp)
-
 Skill 1
 
 ### Light of Retribution
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **5 Mana Cost: 45 s**
 
 Rafaela strikes the three nearest enemies with Light of Retribution, dealing them 350 (+120% Total Magic Power) Magic Damage, briefly revealing their positions, and slowing them by 40% for 1.5s. Enemies hit by Light of Retribution again within 6s will take 20% extra damage (this effect stacks up to 3 times).
-
-![](/images/mlbb/skills/rafaela-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ Rafaela calls upon Holy Light, recovering 100 (+35% Total Magic Power) HP to nea
 
 Every 10 increases the Movement Speed bonus by 1%.
 
-![](/images/mlbb/skills/rafaela-3.webp)
-
 Ultimate
 
 ### Holy Baptism
@@ -257,33 +237,25 @@ Cooldown **38 Mana Cost: 120 s**
 
 Rafaela unleashes the true power of Holy Light in the target direction, dealing 460 (+120% Total Magic Power) Magic Damage to enemies in a line and stunning them for 1.2s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)
+[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/kalea.webp)Kalea**+4.0**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/atlas.webp)Atlas**+3.8**](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Carmilla**+3.3**](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/saber.webp)Saber**+2.7**](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
 ## Lore
 
 > An angel loved and respected by the people of this world.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Rafaela)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=14)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Rafaela)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=14)
 
 **Rank up on Rafaela**The calculator shows the price
 
@@ -305,7 +277,7 @@ Support, played on roam.
 
 Is Rafaela strong in the current meta?
 
-Tier A, #22 of 133 heroes and #8 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 9.4% of matches, 53.2% win rate.
+Tier B, #33 of 133 heroes and #8 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 9.4% of matches, 53.2% win rate. In professional games over the last month the hero is drafted in 7.7% of them.
 
 What is the best build for Rafaela?
 

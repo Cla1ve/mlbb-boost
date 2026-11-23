@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/roam.webp)Roam
 
-The guardian of Solari Isle who wields the immense power of a sea beast.
-
 Win rate
 
 49.9%
-
-all ranks 50.2%
 
 Pick rate
 
 1.4%
 
-all ranks 1.3%
-
 Ban rate
 
 4.9%
-
-all ranks 3.7%
-
-#32 in the tier list · #9 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 157.3%Build 257.2%Build 357.6%
-
-### Core items
-
-![](/images/mlbb/items/2212.webp)
-
-Thunder Belt
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3212.webp)
-
-Chastise Pauldron
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 1.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Antique Cuirass
+    Chastise Pauldron
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Chastise Pauldron
+    Dominance Ice
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Demon Hunter Sword
+    Antique Cuirass
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Fist Crack**_›_**Fist Wind**_›_**Fist Break**
 
-![](/images/mlbb/skills/badang-0.webp)Passive![](/images/mlbb/skills/badang-1.webp)Skill 1![](/images/mlbb/skills/badang-2.webp)Skill 2![](/images/mlbb/skills/badang-3.webp)Ultimate
-
-![](/images/mlbb/skills/badang-0.webp)
+![](/images/mlbb/skills/badang-0.webp)Passive**Chivalry Fist**![](/images/mlbb/skills/badang-1.webp)Skill 1**Fist Wind**![](/images/mlbb/skills/badang-2.webp)Skill 2**Fist Break**![](/images/mlbb/skills/badang-3.webp)Ultimate**Fist Crack**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Every time Badang's Basic Attack hits a target, he gains a stack of Chivalry Fist. After gaining 4 stacks, his next Basic Attack deals 50 (+30% Total Physical Attack) extra Physical Damage to enemies hit and knocks them back. Enemies that are knocked into obstacles will be stunned for 0.6s (Minions and Creeps are stunned directly).
 
 Fist Wind generated by Badang's skills will trigger this effect directly, and Fist Wind from his Ultimate increases the stun duration to 1s.
-
-![](/images/mlbb/skills/badang-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Badang unleashes a gust of Fist Wind in the target direction, dealing 125 (+90% 
 
 Badang stores up to 2 Fist Wind charges and restores 1 charge every 10.4s.
 
-![](/images/mlbb/skills/badang-2.webp)
-
 Skill 2
 
 ### Fist Break
@@ -248,8 +230,6 @@ Cooldown **11 s**
 Badang dashes in the target direction, dealing 230 (+50% Total Physical Attack) Physical Damage to enemies in his path while gaining a 350 (+150% Total Physical Attack) shield that lasts 5s. He stops immediately upon hitting an enemy hero, slightly knocking them back while creating an obstacle that lasts 4s behind them. Enemies hit by the obstacle are dealt 130 (+30% Total Physical Attack) Physical Damage.
 
 **Use Again:** Badang removes the obstacle he created.
-
-![](/images/mlbb/skills/badang-3.webp)
 
 Ultimate
 
@@ -261,27 +241,19 @@ Badang throws a flurry of punches in the target direction, dealing 60 (+54% Tota
 
 Badang is immune to control effects for the duration.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/saber.webp)Saber**+1.6**](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/phoveus.webp)Phoveus**+1.3**](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/silvanna.webp)Silvanna**+1.3**](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/aldous.webp)Aldous**+1.2**](https://boostmlbb.ru/en/heroes/aldous.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
 
 ## Lore
 
 > The guardian of Solari Isle who wields the immense power of a sea beast.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/badang)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=77)
+[Read the full story ↗](https://kazukiofficial.com/stories/badang)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=77)
 
 **Rank up on Badang**The calculator shows the price
 
@@ -303,7 +275,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Badang strong in the current meta?
 
-Tier B, #32 of 133 heroes and #9 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.9% of matches, 49.9% win rate.
+Tier B, #44 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.9% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 2.7% of them.
 
 What is the best build for Badang?
 

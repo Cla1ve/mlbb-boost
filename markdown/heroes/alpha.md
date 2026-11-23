@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Настоящий киборг, созданный Лабораторией 1718.
-
 Победы
 
 48,2%
-
-все ранги 48,9%
 
 Выбор
 
 0,8%
 
-все ранги 1,3%
-
 Баны
 
 0,2%
-
-все ранги 0,7%
-
-№83 в тир-листе · №26 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,0%Сборка 258,3%Сборка 360,2%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 2,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Кровавое пиршество
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Убийственный пир
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 1,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Клинок отчаяния
+    Пронзающий небеса
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Нечестивая ярость
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 1,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3008.webp)
+
+    Клинок отчаяния
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Копье Альфы**_›_**Поворотный импульс**_›_**Поворотный удар**
 
-![](/images/mlbb/skills/alpha-0.webp)Пассивный![](/images/mlbb/skills/alpha-1.webp)1-й навык![](/images/mlbb/skills/alpha-2.webp)2-й навык![](/images/mlbb/skills/alpha-3.webp)Ультимейт
-
-![](/images/mlbb/skills/alpha-0.webp)
+![](/images/mlbb/skills/alpha-0.webp)Пассивный**Бета, вперед!**![](/images/mlbb/skills/alpha-1.webp)1-й навык**Поворотный удар**![](/images/mlbb/skills/alpha-2.webp)2-й навык**Поворотный импульс**![](/images/mlbb/skills/alpha-3.webp)Ультимейт**Копье Альфы**
 
 Пассивный
 
@@ -227,8 +213,6 @@ C
 
 Этот навык наносит только 75% урона монстрам.
 
-![](/images/mlbb/skills/alpha-1.webp)
-
 1-й навык
 
 ### Поворотный удар
@@ -238,8 +222,6 @@ C
 Альфа выпускает волну энергии в указанном направлении, нанося 100 (+90% дополнительной физической атаки) единиц физического урона врагам на пути и замедляя их на 40% на 1 сек.
 
 Затем Бета обстреливает врагов по тому же пути, нанося 60 (+30% дополнительной физической атаки) единиц чистого урона.
-
-![](/images/mlbb/skills/alpha-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ C
 
 Затем Бета обстреливает эту же область, нанося 60 (+30% общей физической атаки) единиц чистого урона.
 
-![](/images/mlbb/skills/alpha-3.webp)
-
 Ультимейт
 
 ### Копье Альфы
@@ -261,33 +241,25 @@ C
 
 Потом Бета атакует ту же область 5 р., каждый раз нанося 15 (+30% дополнительной физической атаки) единиц чистого урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/gatotkaca.webp)Гатоткача**+1,7**](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/khaleed.webp)Халид**+1,6**](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/uranus.webp)Уранус**+1,6**](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/terizla.webp)Тэризла**+1,5**](https://boostmlbb.ru/heroes/terizla.html)
+[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
 ## История
 
 > Настоящий киборг, созданный Лабораторией 1718.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/alpha)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=28)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/alpha)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=28)
 
 **Поднимем ранг на герое «Альфа»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Альфа» в текущей мете?
 
-Тир C, 83-е место из 133 героев и 26-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,2% побед.
+Тир C, 84-е место из 133 героев и 25-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Альфа» лучшая?
 

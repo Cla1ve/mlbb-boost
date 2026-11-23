@@ -28,13 +28,21 @@ const LANE_SHORT = { 'EXP Lane': ['Опыт', 'EXP'], 'Gold Lane': ['Золот�
 const ROLE_HUB = { Tank: ['Лучшие танки', 'Best tanks'], Fighter: ['Лучшие бойцы', 'Best fighters'], Assassin: ['Лучшие убийцы', 'Best assassins'], Mage: ['Лучшие маги', 'Best mages'], Marksman: ['Лучшие стрелки', 'Best marksmen'], Support: ['Лучшая поддержка', 'Best supports'] };
 const TIERS = ['S', 'A', 'B', 'C', 'D'];
 
-// Tier = how contested a hero is in current high-rank drafts, corrected by how well the hero wins.
-// Data: official MOONTON statistics for the last 7 days at Mythic, Honor and Glory (mean of the three); older data
-// (30 days, all ranks) is the fallback. "Presence" is the share of matches in which the hero is picked or banned:
-// a pick rate is a share of all picks (ten per match), a ban rate is a share of matches, so presence = 10 * pick + ban.
-// Score = presence (60%) + win rate pulled toward 50% when the hero is rarely picked (40%), both as z-scores.
-export const TIER_WEIGHTS = { presence: 0.6, win: 0.4 };
-export const TIER_CUTS = [['S', 1.45], ['A', 0.55], ['B', -0.25], ['C', -0.95]];
+// Tier = how contested a hero is in current drafts. Two sources:
+// 1. Professional games of the last 30 days (content/pro-meta.json: tournaments from $10,000 prize pools, every game
+//    dated on its own). "Presence" is the share of games in which the hero was picked or banned. It is the largest single weight, but half at most:
+//    what the pros draft is the meta, and a hero nobody drafted in professional play cannot be in the top tiers.
+// 2. Ranked games of the last 7 days in Mythical Glory (official MOONTON statistics): presence = 10 * pick + ban, because a
+//    pick rate is a share of all picks (ten per match) and a ban rate is a share of matches, plus the win rate pulled toward
+//    50% when a hero is rarely picked.
+// Without professional data the ranked numbers alone are used (60% presence, 40% win rate).
+export const TIER_WEIGHTS = { pro: 0.5, rankedPresence: 0.38, rankedWin: 0.12 };
+export const PRO_CURVE = 1;   // presence counts as it is: 5% is 5%, no boost for rarely drafted heroes
+// S needs both sources to agree (about the top 8%).
+export const TIER_CUTS = [['S', 1.85], ['A', 0.5], ['B', -0.35], ['C', -1.1]];
+// The mirror of the "not drafted by pros: at most B" rule: a hero almost nobody plays (under a third of the average pick rate in
+// ranked Glory and under 3% in pro drafts) is D, whatever its win rate. The cut-off alone would put a hero played by thousands (Lancelot, 42% wins) next to one nobody plays (Baxia, 0.05%).
+export const RARE_PICK = 0.25, RARE_PRO = 3;
 // Ranks of the official statistics page (the 7-day tables). Glory is the top bracket and includes Immortal players;
 // "top" is the mean of Mythic, Honor and Glory. Glory is the default: it is where drafts are contested hardest.
 export const RANKS = [
@@ -54,19 +62,28 @@ export function rateHeroes(list, key = DEFAULT_RANK) {
   const meta = hero => statsOf(hero, key);
   const mean = values => values.reduce((sum, value) => sum + value, 0) / values.length;
   const deviation = values => { const m = mean(values); return Math.sqrt(mean(values.map(value => (value - m) ** 2))) || 1; };
-  const presence = list.map(hero => { const m = meta(hero); return 10 * m.pick + m.ban; });
-  const win = list.map(hero => { const m = meta(hero); return 50 + (m.win - 50) * (m.pick / (m.pick + 0.3)); });
   const z = values => values.map(value => (value - mean(values)) / deviation(values));
-  const zp = z(presence.map(Math.sqrt)), zw = z(win);
-  const raw = list.map((_, i) => TIER_WEIGHTS.presence * zp[i] + TIER_WEIGHTS.win * zw[i]);
+  const ranked = list.map(hero => { const m = meta(hero); return 10 * m.pick + m.ban; });
+  const win = list.map(hero => { const m = meta(hero); return 50 + (m.win - 50) * (m.pick / (m.pick + 0.3)); });
+  const hasPro = list.some(hero => hero.pro?.presence > 0);
+  const proPresence = list.map(hero => hero.pro?.presence || 0);
+  const zr = z(ranked.map(Math.sqrt)), zw = z(win), zp = z(proPresence.map(value => (value / 100) ** PRO_CURVE));
+  const raw = list.map((_, i) => hasPro
+    ? TIER_WEIGHTS.pro * zp[i] + TIER_WEIGHTS.rankedPresence * zr[i] + TIER_WEIGHTS.rankedWin * zw[i]
+    : 0.6 * zr[i] + 0.4 * zw[i]);
   const center = mean(raw), spread = deviation(raw);
+  const order = ['S', 'A', 'B', 'C', 'D'];
   const rated = list.map((hero, i) => {
     const zScore = (raw[i] - center) / spread;
-    return { ...hero, winRank: hero.rank, presence: Math.round(presence[i] * 10) / 10, z: zScore, score: Math.max(1, Math.min(99, Math.round(50 + 15 * zScore))), tier: (TIER_CUTS.find(([, cut]) => zScore >= cut) || ['D'])[0] };
+    let tier = (TIER_CUTS.find(([, cut]) => zScore >= cut) || ['D'])[0];
+    // A hero the pros did not draft at all in the window is not the meta, whatever the ranked numbers say: at most B.
+    if (hasPro && !proPresence[i] && order.indexOf(tier) < order.indexOf('B')) tier = 'B';
+    if (meta(hero).pick < RARE_PICK && proPresence[i] < RARE_PRO) tier = 'D';
+    return { ...hero, winRank: hero.rank, presence: Math.round(ranked[i] * 10) / 10, proPresence: proPresence[i], z: zScore, score: Math.max(1, Math.min(99, Math.round(50 + 15 * zScore))), tier };
   });
-  const order = [...rated].sort((a, b) => b.z - a.z || a.winRank - b.winRank);
-  order.forEach((hero, index) => { hero.rank = index + 1; });
-  return order;
+  const sorted = [...rated].sort((a, b) => b.z - a.z || a.winRank - b.winRank);
+  sorted.forEach((hero, index) => { hero.rank = index + 1; });
+  return sorted;
 }
 
 export function heroGuides(data, academy = null, storyFallbacks = {}) {
@@ -103,16 +120,18 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
   };
   const section = (id, title, inner) => `<section class="atlas-section" id="${id}"><h2>${title}</h2>${inner}</section>`;
   const label = (entry, lang) => entry ? esc(lang === 'en' ? entry.en : entry.ru) : '';
-  const gear = (entry, lang, extra = '') => entry ? `<figure class="gear${extra}">${entry.icon ? `<img src="${entry.icon}" width="64" height="64" alt="" loading="lazy" decoding="async">` : ''}<figcaption>${label(entry, lang)}</figcaption></figure>` : '';
+  const gear = (entry, lang, size = 'md') => entry ? `<figure class="gear gear--${size}">${entry.icon ? `<img src="${entry.icon}" width="72" height="72" alt="" decoding="async">` : ''}<figcaption>${label(entry, lang)}</figcaption></figure>` : '';
+  // A vertical banner: the hero's official card art with the name on a solid bar. Used for every list of heroes in a profile.
+  const banner = (slug, lang, tone = '') => `<a class="banner${tone ? ` banner--${tone}` : ''}"${tone ? '' : ` data-grade="${bySlug[slug].tier}"`} href="/heroes/${slug}.html"><img src="/images/heroes/art/${slug}.webp" width="240" height="390" alt="" loading="lazy" decoding="async"><span class="banner__bar">${esc(name(bySlug[slug], lang))}</span></a>`;
   const buildCard = (build, lang, index) => {
     const t = (ru, en) => lang === 'en' ? en : ru;
+    const spell = dict.spells[build.spell];
     return `<article class="build" data-build="${index}"${index ? ' hidden' : ''}>
-      <div class="build__items"><h3>${t('Предметы', 'Core items')}</h3><div class="build__row">${build.items.map(id => gear(dict.items[id], lang)).join('')}</div></div>
-      <div class="build__extras">
-        <div><h3>${t('Эмблема', 'Emblem')}</h3><div class="build__row build__row--list">${gear(dict.emblems[build.emblem], lang, ' gear--line')}${build.talents.map(id => gear(dict.talents[id], lang, ' gear--line gear--small')).join('')}</div></div>
-        <div><h3>${t('Заклинание', 'Spell')}</h3><div class="build__row build__row--list">${gear(dict.spells[build.spell], lang, ' gear--line')}</div></div>
+      <header class="build__head"><dl class="build__stats"><div><dt>${t('Победы', 'Win rate')}</dt><dd>${pct1(build.win, lang)}</dd></div><div><dt>${t('Выбор', 'Pick rate')}</dt><dd>${pct1(build.pick, lang)}</dd></div></dl></header>
+      <div class="build__body">
+        <section class="build__core"><h4>${t('Основные предметы', 'Core items')}</h4><ul class="core">${build.items.map(id => `<li>${gear(dict.items[id], lang, 'lg')}</li>`).join('')}</ul>${spell ? `<div class="build__spell"><h4>${t('Заклинание', 'Spell')}</h4><div class="spell">${spell.icon ? `<img src="${spell.icon}" width="48" height="48" alt="" decoding="async">` : ''}<span>${label(spell, lang)}</span></div></div>` : ''}</section>
+        <section class="build__talents"><h4>${t('Эмблема и таланты', 'Emblem and talents')}</h4><div class="tree">${gear(dict.emblems[build.emblem], lang, 'round')}<svg class="tree__lines" viewBox="0 0 64 100" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 50H16M16 50C36 50 36 16.67 64 16.67M16 50H64M16 50C36 50 36 83.33 64 83.33"/></svg><ul class="tree__leaves">${build.talents.map(id => `<li>${gear(dict.talents[id], lang, 'leaf')}</li>`).join('')}</ul></div></section>
       </div>
-      <dl class="build__stats"><div><dt>${t('Победы', 'Win rate')}</dt><dd>${pct1(build.win, lang)}</dd></div><div><dt>${t('Выбор', 'Pick rate')}</dt><dd>${pct1(build.pick, lang)}</dd></div></dl>
     </article>`;
   };
   const skillNo = (index, total, lang) => index === 0 ? (lang === 'en' ? 'Passive' : 'Пассивный') : index === total - 1 ? (lang === 'en' ? 'Ultimate' : 'Ультимейт') : (lang === 'en' ? `Skill ${index}` : `${index}-й навык`);
@@ -154,49 +173,47 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
       const floor = Math.floor(Math.min(low, 48) / 2) * 2 - 2, ceil = Math.ceil(Math.max(high, 52) / 2) * 2 + 2;
       const barHeight = value => Math.round(((value - floor) / (ceil - floor)) * 100);
       const ranksHTML = ranksOk ? `<div class="ov-card"><h3>${t('Победы по рангам, 30 дней', 'Win rate by rank, 30 days')}</h3><ol class="rank-bars" style="--mid:${barHeight(50)}%">${RANK_ROWS.map(([key, img, ru, english]) => `<li><strong>${fmt(hero.byRank[key], lang, 1)}%</strong><span class="rank-bars__col"><i style="height:${barHeight(hero.byRank[key])}%" data-above="${hero.byRank[key] >= 50}"></i></span><img src="/images/ranks/${img}.webp" width="40" height="40" alt="" loading="lazy"><span>${t(ru, english)}</span></li>`).join('')}</ol><p class="rank-bars__note">${t('Пунктир: 50% побед', 'Dashed line: 50% win rate')}</p></div>` : '';
-      const similarHTML = similar.length ? `<div class="ov-card ov-wide"><h3>${t(`Другие ${ROLE[hero.roles[0]].plural} этой линии`, `More ${ROLE[hero.roles[0]].enPlural} on this lane`)}</h3><div class="draft-grid draft-grid--wide">${similar.map(other => `<a class="draft-hero" href="/heroes/${other.slug}.html"><img src="/images/heroes/${other.slug}.webp" width="96" height="96" alt="" loading="lazy" decoding="async"><span>${esc(name(other, lang))}</span></a>`).join('')}</div></div>` : '';
+      const similarHTML = similar.length ? `<div class="ov-card ov-wide"><h3>${t(`Другие ${ROLE[hero.roles[0]].plural} этой линии`, `More ${ROLE[hero.roles[0]].enPlural} on this lane`)}</h3><div class="banners">${similar.map(other => banner(other.slug, lang)).join('')}</div></div>` : '';
       add('overview', t('Обзор', 'Overview'), `<div class="ov-grid">${metersHTML}${ranksHTML}${similarHTML}</div>`);
 
       const builds = buildsOf(ac);
       if (builds.length) {
         const buildLane = { exp: 'EXP Lane', gold: 'Gold Lane', mid: 'Mid Lane', jungle: 'Jungle', roam: 'Roam' }[ac.lane];
         const lane = LANE[buildLane]?.[lang];
-        const switcher = builds.length > 1 ? `<div class="build-switch" role="group" aria-label="${t('Выбор сборки', 'Choose a build')}" hidden>${builds.map((build, i) => `<button type="button" data-pick-build="${i}" aria-pressed="${i === 0}"><span>${t('Сборка', 'Build')} ${i + 1}</span><small>${pct1(build.win, lang)}</small></button>`).join('')}</div>` : '';
-        add('build', t('Сборка', 'Build'), `${lane ? `<p class="atlas-caption">${esc(lane)} · ${t('по данным рейтинговых матчей', 'from ranked matches')}</p>` : ''}${switcher}<div class="builds">${builds.map((build, i) => buildCard(build, lang, i)).join('')}</div>`);
+        const switcher = builds.length > 1 ? `<div class="build-switch" role="group" aria-label="${t('Выбор сборки', 'Choose a build')}" hidden>${builds.map((build, i) => `<button type="button" data-pick-build="${i}" aria-pressed="${i === 0}">${t('Сборка', 'Build')} ${i + 1}</button>`).join('')}</div>` : '';
+        add('build', t('Сборка', 'Build'), `${switcher}<div class="builds">${builds.map((build, i) => buildCard(build, lang, i)).join('')}</div>`);
       }
 
       const skills = ac?.skills?.[lang] || [];
       if (skills.length) {
         const order = (ac.order || []).map(Number).filter(n => n >= 1 && n < skills.length);
         const priority = order.length ? `<p class="hs-order"><span>${t('Прокачка', 'Level-up')}</span>${order.map(n => `<b>${esc(skills[n].name)}</b>`).join('<i aria-hidden="true">›</i>')}</p>` : '';
-        const tabs = skills.map((skill, i) => `<button type="button" class="skill-tab" data-skill="${i}" aria-pressed="${i === 0}" hidden><img src="${skill.icon}" width="56" height="56" alt=""><span>${skillNo(i, skills.length, lang)}</span></button>`).join('');
-        const panels = skills.map((skill, i) => `<article class="skill" data-skill-panel="${i}"><header><img src="${skill.icon}" width="64" height="64" alt="" loading="lazy"><div><small>${skillNo(i, skills.length, lang)}</small><h3>${esc(skill.name)}</h3></div>${skill.cd ? `<span class="skill__cd">${t('Перезарядка', 'Cooldown')} <b>${esc(skill.cd)} ${t('с', 's')}</b></span>` : ''}</header>${skill.tags?.length ? `<p class="skill__tags">${skill.tags.map(tag => `<span>${esc(tag)}</span>`).join('')}</p>` : ''}<div class="skill__text">${skillText(skill.desc, lang)}</div></article>`).join('');
+        const tabs = skills.map((skill, i) => `<button type="button" class="skill-tab" data-skill="${i}" aria-pressed="${i === 0}" hidden><img src="${skill.icon}" width="48" height="48" alt=""><span><small>${skillNo(i, skills.length, lang)}</small><b>${esc(skill.name)}</b></span></button>`).join('');
+        const panels = skills.map((skill, i) => `<article class="skill" data-skill-panel="${i}"><header><div><small>${skillNo(i, skills.length, lang)}</small><h3>${esc(skill.name)}</h3></div>${skill.cd ? `<span class="skill__cd">${t('Перезарядка', 'Cooldown')} <b>${esc(skill.cd)} ${t('с', 's')}</b></span>` : ''}</header>${skill.tags?.length ? `<p class="skill__tags">${skill.tags.map(tag => `<span>${esc(tag)}</span>`).join('')}</p>` : ''}<div class="skill__text">${skillText(skill.desc, lang)}</div></article>`).join('');
         add('skills', t('Навыки', 'Skills'), `${priority}<div class="skills"><div class="skill-tabs" role="group" aria-label="${t('Выбор навыка', 'Choose a skill')}">${tabs}</div><div class="skill-panels">${panels}</div></div>`);
       }
 
-      const allies = (ac?.allies || []).filter(ally => bySlug[ally.slug]);
-      const lineup = (title, caption, slugs, valueOf = () => '', tone = '') => `<div class="draft-col${tone}"><h3>${title}</h3><p>${caption}</p><div class="draft-grid">${slugs.map(slug => `<a class="draft-hero" href="/heroes/${slug}.html"><img src="/images/heroes/${slug}.webp" width="96" height="96" alt="" loading="lazy" decoding="async"><span>${esc(name(bySlug[slug], lang))}</span>${valueOf(slug) ? `<b>${valueOf(slug)}</b>` : ''}</a>`).join('')}</div></div>`;
-      const columns = [];
-      if (hero.counters.length) columns.push(lineup(t('Контрпики', 'Counters'), t('Побеждают этого героя', 'Beat this hero'), hero.counters, () => '', ' draft-col--bad'));
-      if (strong.length) columns.push(lineup(t('Слабые цели', 'Easy targets'), t('Этот герой побеждает их', 'This hero beats them'), strong, () => '', ' draft-col--good'));
-      if (allies.length) columns.push(lineup(t('Союзники', 'Teammates'), t('Рост побед в паре, п. п.', 'Win rate gain as a duo, pp'), allies.map(ally => ally.slug), slug => `+${fmt(allies.find(ally => ally.slug === slug).plus, lang, 1)}`, ' draft-col--team'));
-      if (columns.length) add('draft', t('Контрпики и союзники', 'Counters and teammates'), `<div class="draft">${columns.join('')}</div>`, t('Контрпики', 'Counters'));
+      const group = (title, caption, slugs, tone) => `<section class="band band--${tone}"><h3>${title}</h3><p>${caption}</p><div class="banners">${slugs.map(slug => banner(slug, lang, tone)).join('')}</div></section>`;
+      const groups = [];
+      if (hero.counters.length) groups.push(group(t('Контрпики', 'Counters'), t('Побеждают этого героя', 'Beat this hero'), hero.counters, 'bad'));
+      if (strong.length) groups.push(group(t('Слабые цели', 'Easy targets'), t('Этот герой побеждает их', 'This hero beats them'), strong.slice(0, 10), 'good'));
+      if (groups.length) add('draft', t('Контрпики', 'Counters'), `<div class="bands">${groups.join('')}</div>`);
 
       const official = `https://www.mobilelegends.com/hero/detail?heroid=${ac?.id || heroes.length + 1 - hero.releaseOrder}`;
       const fallback = storyFallbacks[hero.slug];
       const loreSource = ac?.lore || (fallback ? `https://kazukiofficial.com/stories/${fallback}` : '');
       const sourceName = ac?.lore ? t('Официальный сайт Mobile Legends', 'Official Mobile Legends site') : t('Kazuki Official, английский', 'Kazuki Official');
-      add('lore', t('История', 'Lore'), `<div class="arena-lore"><div>
+      add('lore', t('История', 'Lore'), `<div class="arena-lore">
         ${ac?.story?.[lang] ? `<blockquote>${esc(ac.story[lang])}</blockquote>` : ''}
         ${loreSource ? `<a class="arena-lore-primary" href="${esc(loreSource)}" target="_blank" rel="noopener">${t('Читать полную историю', 'Read the full story')} <span aria-hidden="true">↗</span></a><small>${sourceName}</small>` : ''}
-        </div><a class="arena-lore-official" href="${official}" target="_blank" rel="noopener">${t('Характеристики на сайте игры', 'Hero stats on the game site')} <span aria-hidden="true">↗</span></a></div>`);
+        <a class="arena-lore-official" href="${official}" target="_blank" rel="noopener">${t('Характеристики на сайте игры', 'Hero stats on the game site')} <span aria-hidden="true">↗</span></a></div>`);
       const heroName = en ? hero.en : `«${hero.ru}»`;
       const wanted = ['overview', 'build', 'skills', 'draft', 'lore'];
       sections.sort((a, b) => wanted.indexOf(a.id) - wanted.indexOf(b.id));
       return `<nav class="atlas-nav" aria-label="${t('Разделы профиля', 'Profile sections')}">${sections.map(({ id, tab }, i) => `<a href="#${id}"${i === 0 ? ' aria-current="location"' : ''}>${tab}</a>`).join('')}</nav>
         <div class="atlas-chapters">${sections.map(({ id, title, inner }) => section(id, title, inner)).join('')}</div>
         <aside class="hero-cta"><div><strong>${t(`Поднимем ранг на герое ${heroName}`, `Rank up on ${hero.en}`)}</strong><span>${t('Цена считается в калькуляторе', 'The calculator shows the price')}</span></div><a class="calc-btn" href="${BOT_PRICE}">${t('Рассчитать цену', 'Calculate price')}</a></aside>
-        <script src="/js/hero-profile.js?v=3" defer></script>`;
+        <script src="/js/hero-profile.js?v=5" defer></script>`;
     };
     const buildFaq = lang => {
       const en = lang === 'en';
@@ -223,8 +240,8 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
           : `${hasTop ? `${pct(m.win, 'ru')} ${rankIn('ru')} за последние 7 дней и ` : ''}${pct(hero.win, 'ru')} на всех рангах за 30 дней, данные на ${longDate('ru')}.`],
         [en ? `What role and lane does ${hero.en} play?` : `Какая роль и линия у героя ${quoted}?`, en ? `${capital(roleList(hero, 'en'))}, played ${hero.lanes.map(lane => laneAt[lane][1]).join(' or ')}.` : `${capital(roleList(hero, 'ru'))}, играет ${hero.lanes.map(lane => laneAt[lane][0]).join(' или ')}.`],
         [en ? `Is ${hero.en} strong in the current meta?` : `Силён ли герой ${quoted} в текущей мете?`, en
-          ? `Tier ${hero.tier}, #${hero.rank} of ${heroes.length} heroes and #${roleRank(hero.roles[0])} among ${ROLE[hero.roles[0]].enPlural}. The tier counts how often the hero is picked and banned and how well it wins${hasTop ? ` ${rankIn('en')} over 7 days` : ''}: banned in ${pct1(m.ban, 'en')} of matches, ${pct1(m.win, 'en')} win rate.`
-          : `Тир ${hero.tier}, ${hero.rank}-е место из ${heroes.length} героев и ${roleRank(hero.roles[0])}-е среди ${ROLE[hero.roles[0]].gen}. Тир учитывает, как часто героя берут и банят и как он выигрывает${hasTop ? ` ${rankIn('ru')} за 7 дней` : ''}: бан в ${pct1(m.ban, 'ru')} матчей, ${pct1(m.win, 'ru')} побед.`],
+          ? `Tier ${hero.tier}, #${hero.rank} of ${heroes.length} heroes and #${roleRank(hero.roles[0])} among ${ROLE[hero.roles[0]].enPlural}. The tier counts how often the hero is picked and banned and how well it wins${hasTop ? ` ${rankIn('en')} over 7 days` : ''}: banned in ${pct1(m.ban, 'en')} of matches, ${pct1(m.win, 'en')} win rate.${hero.pro?.presence >= 0 && heroes.some(item => item.pro?.presence > 0) ? ` In professional games over the last month the hero is drafted in ${pct1(hero.pro.presence, 'en')} of them.` : ''}`
+          : `Тир ${hero.tier}, ${hero.rank}-е место из ${heroes.length} героев и ${roleRank(hero.roles[0])}-е среди ${ROLE[hero.roles[0]].gen}. Тир учитывает, как часто героя берут и банят и как он выигрывает${hasTop ? ` ${rankIn('ru')} за 7 дней` : ''}: бан в ${pct1(m.ban, 'ru')} матчей, ${pct1(m.win, 'ru')} побед.${hero.pro?.presence >= 0 && heroes.some(item => item.pro?.presence > 0) ? ` В профессиональных матчах за месяц героя драфтуют в ${pct1(hero.pro.presence, 'ru')} катков.` : ''}`],
         ...buildFaq(lang)
       ];
     };
@@ -238,15 +255,13 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
       const m = meta(hero);
       const roles = hero.roles.map(role => `<span class="sheet__tag">${icon(role.toLowerCase(), 18)}${capital(roleName(role, lang))}</span>`).join('');
       const lanes = hero.lanes.map(lane => `<span class="sheet__tag">${icon(LANE_ICONS[lane], 18)}${LANE[lane][lang]}</span>`).join('');
-      const stat = (title, value, other, lead = false) => `<div${lead ? ' class="is-lead"' : ''}><dt>${title}</dt><dd>${value}</dd>${hasTop ? `<dd class="sub">${t('все ранги', 'all ranks')} ${other}</dd>` : ''}</div>`;
+      const stat = (title, value, kind = '') => `<div${kind ? ` class="is-${kind}"` : ''}><dt>${title}</dt><dd>${value}</dd></div>`;
       const html = `<header class="sheet" data-grade="${hero.tier}">
         <img class="sheet__art" src="/images/heroes/art/${hero.slug}.webp" width="240" height="390" alt="${esc(t(`Арт героя ${hero.ru}`, `${hero.en} hero art`))}" fetchpriority="high">
         <div class="sheet__body">
           <div class="sheet__title"><h1>${name(hero, lang)}</h1><span class="grade" data-grade="${hero.tier}" title="${t('Тир', 'Tier')} ${hero.tier}">${hero.tier}</span></div>
           <p class="sheet__tags">${roles}${lanes}</p>
-          ${ac?.story?.[lang] ? `<p class="sheet__epithet">${esc(ac.story[lang])}</p>` : ''}
-          <dl class="sheet__stats">${stat(t('Победы', 'Win rate'), pct1(m.win, lang), pct1(hero.win, lang), true)}${stat(t('Выбор', 'Pick rate'), pct1(m.pick, lang), pct1(hero.pick, lang))}${stat(t('Баны', 'Ban rate'), pct1(m.ban, lang), pct1(hero.ban, lang))}</dl>
-          <p class="sheet__note">${t('№', '#')}${hero.rank} ${t('в тир-листе', 'in the tier list')} · ${t('№', '#')}${roleRank(hero.roles[0])} ${t('среди', 'among')} ${t(ROLE[hero.roles[0]].gen, ROLE[hero.roles[0]].enPlural)} · ${period(lang)}, ${t('по', 'to')} ${shortDate(lang)}</p>
+          <dl class="sheet__stats">${stat(t('Победы', 'Win rate'), pct1(m.win, lang), 'lead')}${stat(t('Выбор', 'Pick rate'), pct1(m.pick, lang))}${stat(t('Баны', 'Ban rate'), pct1(m.ban, lang), 'ban')}</dl>
         </div>
       </header>`;
       return { h1: name(hero, lang), portrait: hero.slug, html };
@@ -274,7 +289,6 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
       const image = file ? `<img src="/images/mlbb/filters/${file}.webp" width="22" height="22" alt="">` : '<i class="fas fa-layer-group" aria-hidden="true"></i>';
       return `<button type="button" data-filter-value="${value}" aria-pressed="${value === ''}" aria-label="${full}" title="${full}">${image}<span>${text}</span></button>`;
     };
-    const roleButtons = option('', null, t('Все', 'All'), t('Все роли', 'All roles')) + roles.map(role => option(role, role.toLowerCase(), role === 'Support' && !en ? 'Саппорт' : capital(ROLE[role][lang]), capital(ROLE[role][lang]))).join('');
     const laneButtons = option('', null, t('Все', 'All'), t('Все линии', 'All lanes')) + Object.entries(LANE).map(([key, lane]) => option(key, LANE_ICONS[key], LANE_SHORT[key][en ? 1 : 0], lane[lang])).join('');
     const metrics = [['none', t('Без цифр', 'No numbers')], ['ban', t('Баны', 'Ban rate')], ['win', t('Победы', 'Win rate')], ['pick', t('Выбор', 'Pick rate')]];
     const headings = [['name', t('Герой', 'Hero')], ['rank', t('Тир', 'Tier')], ['win', t('Победы', 'Win')], ['pick', t('Выбор', 'Pick')], ['ban', t('Баны', 'Ban')]];
@@ -290,15 +304,15 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
       list(t('Растут за неделю', 'Rising this week'), t('победы, все ранги, п. п. к 30 дням', 'win rate, all ranks, pp against 30 days'), rising.map(item => [item.hero, signed(item.delta, lang)])),
       list(t('Падают за неделю', 'Falling this week'), t('победы, все ранги, п. п. к 30 дням', 'win rate, all ranks, pp against 30 days'), falling.map(item => [item.hero, signed(item.delta, lang)]))
     ].join('');
-    const method = hasTop
-      ? t('Тир строится на официальных данных MOONTON за последние 7 дней. По умолчанию это Мифическая слава: там играют сильнейшие, и драфты оспариваются жёстче всего. Главное — как часто героя берут и банят: 60% веса. Ещё 40% — процент побед, который подтягивается к 50%, если героя берут редко. Поэтому герой с банами в 60% матчей стоит выше сильного, но редкого. У каждого героя есть данные за 30 дней по всем рангам. Бессмертные входят в Мифическую славу: отдельного фильтра в статистике MOONTON нет.',
-          'The tier uses official MOONTON data for the last 7 days. The default is Mythical Glory, where the strongest players draft and contest the hardest. How often a hero is picked and banned carries 60% of the weight. The other 40% is win rate, pulled toward 50% when a hero is rarely picked. A hero banned in 60% of matches ranks above a strong but rare one. Each hero page has 30-day figures across all ranks. Immortal players are part of Mythical Glory: MOONTON statistics have no separate filter for them.')
-      : t('Тир строится на официальных данных MOONTON. Главное — как часто героя берут и банят: 60% веса. Ещё 40% — процент побед, который подтягивается к 50%, если героя берут редко.', 'The tier uses official MOONTON data. How often a hero is picked and banned carries 60% of the weight; the other 40% is win rate, pulled toward 50% when a hero is rarely picked.');
+    const hasPro = heroes.some(hero => hero.pro?.presence > 0);
+    const method = hasPro
+      ? t('Тир показывает, что реально драфтуют сейчас. Больше всего весит профессиональная сцена: доля катков последнего месяца на турнирах с призовым от $10 000, где героя взяли или забанили (данные Liquipedia). Меньше весят рейтинговые игры в Мифической славе за 7 дней по официальной статистике MOONTON: как часто героя берут и банят и как он побеждает. Бессмертные входят в Мифическую славу, отдельного фильтра в статистике нет. Герой, которого почти не драфтуют профессионалы, не поднимется выше B, как бы он ни играл в рейтинге, а тот, кого почти не берут ни в рейтинге, ни у профессионалов, попадает в D. У каждого героя на странице есть и данные за 30 дней по всем рангам.',
+          'The tier shows what is actually drafted right now. The professional scene weighs the most: the share of games over the last month, at tournaments with prize pools of $10,000 or more, in which the hero was picked or banned (Liquipedia data). Ranked games in Mythical Glory over 7 days weigh less, from official MOONTON statistics: how often the hero is picked and banned and how well it wins. Immortal players are part of Mythical Glory: the statistics have no separate filter. A hero the pros hardly draft stays at B or below however well it plays in ranked, and one almost nobody picks, in ranked or by the pros, is D. Each hero page also has 30-day figures across all ranks.')
+      : t('Тир строится на официальных данных MOONTON за 7 дней в Мифической славе: как часто героя берут и банят и как он побеждает.', 'The tier uses official MOONTON data for 7 days in Mythical Glory: how often a hero is picked and banned and how well it wins.');
     return `<div class="arena-workspace">
       <div class="atlas-tools" hidden>
         <label class="atlas-search"><span class="arena-sr">${t('Найти героя', 'Find a hero')}</span><i class="fas fa-search" aria-hidden="true"></i><input type="search" id="hero-query" autocomplete="off" placeholder="${t('Найти героя', 'Find a hero')}"></label>
-        <fieldset class="atlas-choice" data-hero-filter="role"><legend>${t('Роль', 'Role')}</legend><div>${roleButtons}</div></fieldset>
-        <fieldset class="atlas-choice" data-hero-filter="lane"><legend>${t('Линия', 'Lane')}</legend><div>${laneButtons}</div></fieldset>
+        <fieldset class="atlas-choice" data-hero-filter="lane"><legend class="arena-sr">${t('Линия', 'Lane')}</legend><div>${laneButtons}</div></fieldset>
       </div>
       <div class="tier-controls">
         <div class="tier-views" role="group" aria-label="${t('Вид списка', 'Display')}" hidden><button type="button" data-hero-view="tiers" aria-pressed="true">${t('Тиры', 'Tiers')}</button><button type="button" data-hero-view="stats" aria-pressed="false">${t('Таблица', 'Table')}</button></div>
@@ -311,7 +325,7 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
     <details class="tier-method"><summary>${t('Как считается тир', 'How the tier is calculated')}</summary><p>${method}</p></details>
     ${section('week', t('Что изменилось', 'What changed'), `<div class="atlas-roles">${changes}</div>`)}
     ${section('roles', t('Лучшие герои по ролям', 'Best heroes by role'), `<div class="atlas-roles">${roleLists}</div>`)}
-    <script src="/js/hero-finder.js?v=7" defer></script>`;
+    <script src="/js/hero-finder.js?v=9" defer></script>`;
   };
   const hubHead = lang => {
     const en = lang === 'en';

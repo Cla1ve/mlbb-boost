@@ -1,6 +1,6 @@
 ---
 title: "Эйдора MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эйдора в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 50,22% побед, тир S."
+description: "Эйдора в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 50,22% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/eudora.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Эйдора
 
-S
+A
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Эльфийская волшебница, чьи пальцы повелевают молниями, разрушает оковы предрассудков и озаряет путь к будущему.
 
 Победы
 
 50,2%
 
-все ранги 50,4%
-
 Выбор
 
 1,7%
 
-все ранги 1,8%
-
 Баны
 
 34,0%
-
-все ранги 47,8%
-
-№10 в тир-листе · №1 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие маги этой линии
 
-[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 154,2%Сборка 256,2%Сборка 355,6%
-
-### Предметы
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/3108.webp)
-
-Кровавые крылья
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 5,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Палочка гения
+    Пронзающий небеса
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Пронзающий небеса
+    Палочка гения
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3108.webp)
 
-Жезл молний
+    Кровавые крылья
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 4,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Палочка гения
+    Палочка гения
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пылающий жезл
+    Пронзающий небеса
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ S
 
 3,9%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Палочка гения
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Гнев молнии**_›_**Разветвленная молния**_›_**Шар молнии**
 
-![](/images/mlbb/skills/eudora-0.webp)Пассивный![](/images/mlbb/skills/eudora-1.webp)1-й навык![](/images/mlbb/skills/eudora-2.webp)2-й навык![](/images/mlbb/skills/eudora-3.webp)Ультимейт
-
-![](/images/mlbb/skills/eudora-0.webp)
+![](/images/mlbb/skills/eudora-0.webp)Пассивный**Сверхпроводимость**![](/images/mlbb/skills/eudora-1.webp)1-й навык**Разветвленная молния**![](/images/mlbb/skills/eudora-2.webp)2-й навык**Шар молнии**![](/images/mlbb/skills/eudora-3.webp)Ультимейт**Гнев молнии**
 
 Пассивный
 
 ### Сверхпроводимость
 
 Навыки Эйдоры при попадании по целям, не являющимся миньонами, накладывают эффект "Сверхпроводимость" на 5 сек. и могут вызывать дополнительные эффекты на врагах, находящихся под действием "Сверхпроводимости".
-
-![](/images/mlbb/skills/eudora-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ S
 
 Цепь из молнии наносит 10 (+4% общей магической силы) единиц магического урона в течение своего действия и дополнительно 275 (+100% общей магической силы) единиц магического урона по окончании. Если этот удар попадает в цель, перезарядка этого навыка сокращается на 50%.
 
-![](/images/mlbb/skills/eudora-2.webp)
-
 2-й навык
 
 ### Шар молнии
@@ -248,8 +230,6 @@ S
 Эйдора запускает в указанного врага сферу молнии, снижая его на 10 на 1.8 сек., нанося 300 (+50% общей магической силы) единиц магического урона и оглушая цель на 1 сек.
 
 Если цель находится под действием "Сверхпроводимости", сфера молнии снижает ближайших врагов, наносит массовый урон вокруг цели и оглушает всех ближайших врагов.
-
-![](/images/mlbb/skills/eudora-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ S
 
 Когда "Гнев молнии" поражает цель под действием "Сверхпроводимости", после небольшой задержки в месте нахождения цели активируется "Взрыв молнии", нанося ей 300 (+100% общей магической силы) единиц магического урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
+[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zhuxin.webp)Чжусинь**+4,0**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Циклоп**+1,8**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Флорин**+1,7**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/harley.webp)Харли**+1,6**](https://boostmlbb.ru/heroes/harley.html)
+[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
 
 ## История
 
 > Эльфийская волшебница, чьи пальцы повелевают молниями, разрушает оковы предрассудков и озаряет путь к будущему.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Eudora)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=15)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Eudora)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=15)
 
 **Поднимем ранг на герое «Эйдора»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ S
 
 Силён ли герой «Эйдора» в текущей мете?
 
-Тир S, 10-е место из 133 героев и 1-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 34,0% матчей, 50,2% побед.
+Тир A, 16-е место из 133 героев и 4-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 34,0% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 24,7% катков.
 
 Какая сборка на героя «Эйдора» лучшая?
 

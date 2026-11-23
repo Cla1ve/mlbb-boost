@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
 
-A girl with cursed needles who runs a tailor shop and solves problems for clients.
-
 Win rate
 
 52.4%
-
-all ranks 50.1%
 
 Pick rate
 
 0.4%
 
-all ranks 0.4%
-
 Ban rate
 
 0.6%
-
-all ranks 0.9%
-
-#56 in the tier list · #11 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,55 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 161.2%Build 254.3%
-
-### Core items
-
-![](/images/mlbb/items/2008.webp)
-
-Corrosion Scythe
-
-![](/images/mlbb/items/3005.webp)
-
-Windtalker
-
-![](/images/mlbb/items/3002.webp)
-
-Haas' Claws
-
-![](/images/mlbb/items/3003.webp)
-
-Berserker's Fury
-
-### Emblem
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
-![](/images/mlbb/talents/112.webp)
-
-Swift
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/133.webp)
-
-War Cry
-
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
+Build 1Build 2
 
 Win rate
 
@@ -121,43 +67,47 @@ Pick rate
 
 10.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Corrosion Scythe
+    Corrosion Scythe
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Demon Hunter Sword
+    Windtalker
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Golden Staff
+    Haas' Claws
 
-### Emblem
+-   ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Marksman
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Swift
+    Swift
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Weakness Finder
+    War Cry
 
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
 
 Win rate
 
@@ -167,13 +117,49 @@ Pick rate
 
 4.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Weakness Finder
+
+
 ## Skills
 
 Level-up**Go Away!**_›_**Falling!**_›_**Eyes on You!**
 
-![](/images/mlbb/skills/melissa-0.webp)Passive![](/images/mlbb/skills/melissa-1.webp)Skill 1![](/images/mlbb/skills/melissa-2.webp)Skill 2![](/images/mlbb/skills/melissa-3.webp)Ultimate
-
-![](/images/mlbb/skills/melissa-0.webp)
+![](/images/mlbb/skills/melissa-0.webp)Passive**Doll Buster**![](/images/mlbb/skills/melissa-1.webp)Skill 1**Falling!**![](/images/mlbb/skills/melissa-2.webp)Skill 2**Eyes on You!**![](/images/mlbb/skills/melissa-3.webp)Ultimate**Go Away!**
 
 Passive
 
@@ -182,8 +168,6 @@ Passive
 "My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?"
 
 (Melissa deals 125% damage to Minions, Creeps, and Summoned Units.)
-
-![](/images/mlbb/skills/melissa-1.webp)
 
 Skill 1
 
@@ -197,8 +181,6 @@ Cooldown **5 Mana Cost: 30 s**
 
 "Cuddles, come here!"
 
-![](/images/mlbb/skills/melissa-2.webp)
-
 Skill 2
 
 ### Eyes on You!
@@ -210,8 +192,6 @@ Cooldown **9 Mana Cost: 70 s**
 "I pierce the bad guys while Giggles hits Muddles to give them a beating too! Hee, fantastic!"
 
 (Muddles deals 175 (+50% Total Physical Attack) Physical Damage on the first hit and links nearby enemies for up to 6s. Linked enemies are slowed by 60%, decaying over 1.5s. They can break the link by moving out of range. Muddles returns to Melissa early if no enemies are nearby, or immediately if Melissa moves too far away. When Muddles is present, attack it directly. Attacking it this way cannot trigger multi-hit damage. Giggles only hits Muddles when Melissa has a Basic Attack target. Each hit on Muddles deals 50% of that damage to linked enemies.)
-
-![](/images/mlbb/skills/melissa-3.webp)
 
 Ultimate
 
@@ -225,33 +205,25 @@ Cooldown **50 Mana Cost: 120 s**
 
 The field will move with Melissa once, when she's about to move out of the boundary.)
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harith.webp)Harith**+3.0**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/joy.webp)Joy**+1.8**](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/lolita.webp)Lolita**+1.8**](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/fanny.webp)Fanny**+1.4**](https://boostmlbb.ru/en/heroes/fanny.html)
+[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)
 
 ## Lore
 
 > A girl with cursed needles who runs a tailor shop and solves problems for clients.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Melissa)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=114)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Melissa)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=114)
 
 **Rank up on Melissa**The calculator shows the price
 
@@ -273,7 +245,7 @@ Marksman, played in the Gold Lane.
 
 Is Melissa strong in the current meta?
 
-Tier B, #56 of 133 heroes and #11 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 52.4% win rate.
+Tier B, #58 of 133 heroes and #11 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 11.0% of them.
 
 What is the best build for Melissa?
 

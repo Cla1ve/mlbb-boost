@@ -1,6 +1,6 @@
 ---
 title: "Зилонг MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Зилонг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 44,92% побед, тир D."
+description: "Зилонг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 44,92% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/zilong.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Зилонг
 
-D
+C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Хранитель Алтаря дракона и Боец Востока, унаследовавший силу Облачного дракона.
 
 Победы
 
 44,9%
 
-все ранги 46,3%
-
 Выбор
 
 0,3%
 
-все ранги 0,7%
-
 Баны
 
 0,2%
-
-все ранги 0,5%
-
-№127 в тир-листе · №43 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 153,0%Сборка 253,0%Сборка 352,8%
-
-### Предметы
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/3002.webp)
-
-Когти Хааса
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/1211.webp)
-
-Фатальность
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 6,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Коса коррозии
+    Говорящий с ветром
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Пронзающий небеса
+    Когти Хааса
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Золотой метеор
+    Ярость берсерка
 
-### Эмблема
 
-![](/images/mlbb/emblems/20007.webp)
+#### Заклинание
 
-Эмблема бойца
+![](/images/mlbb/spells/20030.webp)Вдохновение
 
-![](/images/mlbb/talents/112.webp)
+#### Эмблема и таланты
 
-Проворность
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/521.webp)
+Эмблема убийцы
 
-Мастер-убийца
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Фатальность
 
-Убийственный пир
+-   ![](/images/mlbb/talents/521.webp)
 
-### Заклинание
+    Мастер-убийца
 
-![](/images/mlbb/spells/20030.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Вдохновение
+    Убийственный пир
+
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 3,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Золотой метеор
+    Коса коррозии
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Говорящий с ветром
+    Пронзающий небеса
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Когти Хааса
+    Золотой метеор
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Фатальность
+    Проворность
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Боевой клич
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 2,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Золотой метеор
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
 ## Навыки
 
 Прокачка**Великий воин**_›_**Удар копья**_›_**Бросок копьем**
 
-![](/images/mlbb/skills/zilong-0.webp)Пассивный![](/images/mlbb/skills/zilong-1.webp)1-й навык![](/images/mlbb/skills/zilong-2.webp)2-й навык![](/images/mlbb/skills/zilong-3.webp)Ультимейт
-
-![](/images/mlbb/skills/zilong-0.webp)
+![](/images/mlbb/skills/zilong-0.webp)Пассивный**Огонь дракона**![](/images/mlbb/skills/zilong-1.webp)1-й навык**Бросок копьем**![](/images/mlbb/skills/zilong-2.webp)2-й навык**Удар копья**![](/images/mlbb/skills/zilong-3.webp)Ультимейт**Великий воин**
 
 Пассивный
 
@@ -227,8 +213,6 @@ D
 
 Если ОЗ цели ниже 50%, весь урон, наносимый навыками и базовыми атаками Зилонга, увеличивается на 30.
 
-![](/images/mlbb/skills/zilong-1.webp)
-
 1-й навык
 
 ### Бросок копьем
@@ -236,8 +220,6 @@ D
 Перезарядка **12 Mana Cost: 80 с**
 
 Зилонг ​​перебрасывает указанного врага за спину, нанося 250 (+80% общей физической атаки) единиц физического урона.
-
-![](/images/mlbb/skills/zilong-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ D
 
 Перезарядка "Удара копья" сбрасывается каждый раз, когда Зилонг убивает врага.
 
-![](/images/mlbb/skills/zilong-3.webp)
-
 Ультимейт
 
 ### Великий воин
@@ -261,33 +241,25 @@ D
 
 В этот период "Огонь дракона" срабатывает после каждых 2 базовых атак (вместо 3).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/gloo.webp)Глу**+2,9**](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/belerick.webp)Белерик**+2,9**](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/hilda.webp)Хильда**+2,3**](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил**+2,0**](https://boostmlbb.ru/heroes/tigreal.html)
+[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
 > Хранитель Алтаря дракона и Боец Востока, унаследовавший силу Облачного дракона.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zilong)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=16)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zilong)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=16)
 
 **Поднимем ранг на герое «Зилонг»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ D
 
 Силён ли герой «Зилонг» в текущей мете?
 
-Тир D, 127-е место из 133 героев и 43-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 44,9% побед.
+Тир C, 127-е место из 133 героев и 44-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 44,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Зилонг» лучшая?
 

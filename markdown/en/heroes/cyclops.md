@@ -1,6 +1,6 @@
 ---
 title: "Cyclops MLBB: build, counters and skills | MLBB Boost"
-description: "Cyclops in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.14% win rate, tier B."
+description: "Cyclops in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.14% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Cyclops
 
-B
+C
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
-
-A celestial traveler in the universe.
 
 Win rate
 
 51.1%
 
-all ranks 51.7%
-
 Pick rate
 
 0.8%
 
-all ranks 0.8%
-
 Ban rate
 
 0.8%
-
-all ranks 0.8%
-
-#46 in the tier list · #9 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 158.2%Build 261.8%Build 357.5%
-
-### Core items
-
-![](/images/mlbb/items/2106.webp)
-
-Enchanted Talisman
-
-![](/images/mlbb/items/3103.webp)
-
-Concentrated Energy
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Concentrated Energy
+    Concentrated Energy
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Queen's Wings
+    Glowing Wand
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Concentrated Energy
+    Concentrated Energy
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Seasoned Hunter
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 3.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Enchanted Talisman
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Concentrated Energy
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Star Power Lockdown**_›_**Planets Attack**_›_**Stardust Shock**
 
-![](/images/mlbb/skills/cyclops-0.webp)Passive![](/images/mlbb/skills/cyclops-1.webp)Skill 1![](/images/mlbb/skills/cyclops-2.webp)Skill 2![](/images/mlbb/skills/cyclops-3.webp)Ultimate
-
-![](/images/mlbb/skills/cyclops-0.webp)
+![](/images/mlbb/skills/cyclops-0.webp)Passive**Starlit Hourglass**![](/images/mlbb/skills/cyclops-1.webp)Skill 1**Stardust Shock**![](/images/mlbb/skills/cyclops-2.webp)Skill 2**Planets Attack**![](/images/mlbb/skills/cyclops-3.webp)Ultimate**Star Power Lockdown**
 
 Passive
 
 ### Starlit Hourglass
 
 Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s.
-
-![](/images/mlbb/skills/cyclops-1.webp)
 
 Skill 1
 
@@ -232,8 +216,6 @@ Skill 1
 Cooldown **7.5 Mana Cost: 50 s**
 
 Cyclops casts two Stardust Disks in the target direction, each dealing 240 (+60% Total Magic Power) Magic Damage to enemies in its path.
-
-![](/images/mlbb/skills/cyclops-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ The Starlit Spheres automatically seek and attack nearby enemies (prioritizing e
 
 Subsequent hits on the same target deal reduced damage.
 
-![](/images/mlbb/skills/cyclops-3.webp)
-
 Ultimate
 
 ### Star Power Lockdown
@@ -257,33 +237,25 @@ Cooldown **26 Mana Cost: 60 s**
 
 Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, dealing 500 (+120% Total Magic Power) Magic Damage and immobilizing them for 0.75-1.5s (scales with Planetary Sphere's travel distance).
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/novaria.webp)Novaria**+2.6**](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/nana.webp)Nana**+2.6**](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/kagura.webp)Kagura**+2.4**](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/vale.webp)Vale**+2.4**](https://boostmlbb.ru/en/heroes/vale.html)
+[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Lore
 
 > A celestial traveler in the universe.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/cyclops)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=33)
+[Read the full story ↗](https://kazukiofficial.com/stories/cyclops)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=33)
 
 **Rank up on Cyclops**The calculator shows the price
 
@@ -305,7 +277,7 @@ Mage, played in the Mid Lane.
 
 Is Cyclops strong in the current meta?
 
-Tier B, #46 of 133 heroes and #9 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 51.1% win rate.
+Tier C, #71 of 133 heroes and #17 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 51.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Cyclops?
 

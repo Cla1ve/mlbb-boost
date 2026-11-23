@@ -1,6 +1,6 @@
 ---
 title: "Клауд MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Клауд в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,51% побед, тир C."
+description: "Клауд в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,51% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/claude.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Клауд
 
-C
+B
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
-
-Превосходный вор, не оставляющий следов.
 
 Победы
 
 48,5%
 
-все ранги 48,9%
-
 Выбор
 
 1,0%
 
-все ранги 0,8%
-
 Баны
 
 0,1%
-
-все ранги 0,2%
-
-№70 в тир-листе · №16 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 153,6%Сборка 250,4%Сборка 353,9%
-
-### Предметы
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/2006.webp)
-
-Меч охотника на демонов
-
-![](/images/mlbb/items/2009.webp)
-
-Золотой посох
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 4,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Меч охотника на демонов
+    Меч охотника на демонов
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Золотой посох
+    Золотой посох
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Охотник за скидками
+    Кровавое пиршество
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Убийственный пир
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 3,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Меч охотника на демонов
+    Коса коррозии
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Золотой посох
+    Меч охотника на демонов
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Коса коррозии
+    Золотой посох
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Кровавое пиршество
+    Охотник за скидками
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Квантовый заряд
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 2,9%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Золотой посох
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Превосходный дуэт**_›_**Искусство воровства**_›_**Боевая голограмма**
 
-![](/images/mlbb/skills/claude-0.webp)Пассивный![](/images/mlbb/skills/claude-1.webp)1-й навык![](/images/mlbb/skills/claude-2.webp)2-й навык![](/images/mlbb/skills/claude-3.webp)Ультимейт
-
-![](/images/mlbb/skills/claude-0.webp)
+![](/images/mlbb/skills/claude-0.webp)Пассивный**Сражение бок о бок**![](/images/mlbb/skills/claude-1.webp)1-й навык**Искусство воровства**![](/images/mlbb/skills/claude-2.webp)2-й навык**Боевая голограмма**![](/images/mlbb/skills/claude-3.webp)Ультимейт**Превосходный дуэт**
 
 Пассивный
 
 ### Сражение бок о бок
 
 Декстер помогает Клауду с каждой базовой атакой, нанося 25 (+25% общей физической атаки) единиц физического урона той же цели (наследуется часть эффектов атаки).
-
-![](/images/mlbb/skills/claude-1.webp)
 
 1-й навык
 
@@ -235,8 +219,6 @@ C
 
 За каждого пораженного врага он получает 4% скорости передвижения и скорости атаки (удваивается за попадание во вражеских героев) на 6 сек. (до 5 зарядов).
 
-![](/images/mlbb/skills/claude-2.webp)
-
 2-й навык
 
 ### Боевая голограмма
@@ -247,8 +229,6 @@ C
 
 **Повторное использование:** Клауд меняется местами с голограммой.
 
-![](/images/mlbb/skills/claude-3.webp)
-
 Ультимейт
 
 ### Превосходный дуэт
@@ -257,33 +237,25 @@ C
 
 Клауд и Декстер быстро стреляют по ближайшим врагам в течение 3 сек., каждым выстрелом нанося 40 (+40% общей физической атаки) единиц физического урона максимум двум врагам (этот урон считается уроном базовой атаки). После каждого нанесения урона по врагу с помощью ультимейта Клауд получает 20 (+3% общей физической атаки) ед. щита.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+2,9**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/saber.webp)Сабер**+1,1**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,1**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/aamon.webp)Эймон**+1,1**](https://boostmlbb.ru/heroes/aamon.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
 
 ## История
 
 > Превосходный вор, не оставляющий следов.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Claude)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=65)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Claude)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=65)
 
 **Поднимем ранг на герое «Клауд»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ C
 
 Силён ли герой «Клауд» в текущей мете?
 
-Тир C, 70-е место из 133 героев и 16-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,5% побед.
+Тир B, 50-е место из 133 героев и 9-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,5% побед. В профессиональных матчах за месяц героя драфтуют в 16,4% катков.
 
 Какая сборка на героя «Клауд» лучшая?
 

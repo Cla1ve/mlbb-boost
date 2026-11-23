@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-A Leonin warrior who inherited his predecessor's resolve, cleaving his own path with burning ferocity.
-
 Win rate
 
 53.0%
-
-all ranks 53.5%
 
 Pick rate
 
 0.8%
 
-all ranks 0.8%
-
 Ban rate
 
 22.6%
-
-all ranks 30.3%
-
-#12 in the tier list · #3 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 153.4%Build 258.6%Build 353.3%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/531.webp)
-
-Killing Spree
-
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 3.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Rose Gold Meteor
+    Malefic Roar
 
-### Emblem
 
-![](/images/mlbb/emblems/20007.webp)
+#### Spell
 
-Fighter
+![](/images/mlbb/spells/20190.webp)Vengeance
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/721.webp)
+Assassin
 
-Festival of Blood
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Thrill
 
-Killing Spree
+-   ![](/images/mlbb/talents/122.webp)
 
-### Spell
+    Seasoned Hunter
 
-![](/images/mlbb/spells/20190.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Vengeance
+    Killing Spree
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Malefic Roar
+    Rose Gold Meteor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Rupture
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Seasoned Hunter
+    Festival of Blood
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Killing Spree
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Cleaving Axe**_›_**The Power of Axe**_›_**Aulus, Charge!**
 
-![](/images/mlbb/skills/aulus-0.webp)Passive![](/images/mlbb/skills/aulus-1.webp)Skill 1![](/images/mlbb/skills/aulus-2.webp)Skill 2![](/images/mlbb/skills/aulus-3.webp)Ultimate
-
-![](/images/mlbb/skills/aulus-0.webp)
+![](/images/mlbb/skills/aulus-0.webp)Passive**Fighting Spirit**![](/images/mlbb/skills/aulus-1.webp)Skill 1**Aulus, Charge!**![](/images/mlbb/skills/aulus-2.webp)Skill 2**The Power of Axe**![](/images/mlbb/skills/aulus-3.webp)Ultimate**Cleaving Axe**
 
 Passive
 
@@ -227,8 +213,6 @@ Whenever Aulus deals skill damage to a unit, he gains an enhanced Basic Attack f
 
 Enhanced Basic Attack deals 240 (+24 × hero level) (+75% Total Physical Attack) Physical Damage to creeps.
 
-![](/images/mlbb/skills/aulus-1.webp)
-
 Skill 1
 
 ### Aulus, Charge!
@@ -238,8 +222,6 @@ Cooldown **15 s**
 Aulus starts accumulating Fighting Spirit, removes all slow effects, and gains 30% extra Movement Speed for 5s.
 
 If Aulus does not take high-level control effects within 2s, he will enter the Enraged state and gain Control Immunity.
-
-![](/images/mlbb/skills/aulus-2.webp)
 
 Skill 2
 
@@ -251,8 +233,6 @@ Aulus swings his axe, dealing 240 (+100% Total Physical Attack) Physical Damage 
 
 **Use Again:** Aulus dashes forward and smashes the ground, dealing 240 (+100% Total Physical Attack) Physical Damage to nearby enemies.
 
-![](/images/mlbb/skills/aulus-3.webp)
-
 Ultimate
 
 ### Cleaving Axe
@@ -263,27 +243,19 @@ Aulus repeatedly swings his axe at nearby enemies, dealing 150 (+60% Total Physi
 
 During this skill, Aulus gains 20% Damage Reduction and a short burst of Movement Speed with each slash.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/arlott.webp)Arlott**+2.2**](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.8**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere**+1.6**](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/benedetta.webp)Benedetta**+1.5**](https://boostmlbb.ru/en/heroes/benedetta.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
 > A Leonin warrior who inherited his predecessor's resolve, cleaving his own path with burning ferocity.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Aulus)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=108)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Aulus)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=108)
 
 **Rank up on Aulus**The calculator shows the price
 
@@ -305,7 +277,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Aulus strong in the current meta?
 
-Tier S, #12 of 133 heroes and #3 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 22.6% of matches, 53.0% win rate.
+Tier S, #8 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 22.6% of matches, 53.0% win rate. In professional games over the last month the hero is drafted in 77.8% of them.
 
 What is the best build for Aulus?
 

@@ -1,6 +1,6 @@
 ---
 title: "Чичи MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чичи в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,60% побед, тир C."
+description: "Чичи в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,60% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/cici.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Чичи
 
-C
+B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Веселая артистка, которая излучает радость и творит чудеса везде, где появляется.
 
 Победы
 
 48,6%
 
-все ранги 49,4%
-
 Выбор
 
 0,8%
 
-все ранги 0,7%
-
 Баны
 
 0,7%
-
-все ранги 1,2%
-
-№74 в тир-листе · №21 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 158,6%Сборка 259,0%Сборка 356,7%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/731.webp)
-
-Отвага
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 13,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Ловкость
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 7,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Трепет
+    Ловкость
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 2,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Выход на поклон**_›_**Нападение Йо-йо**_›_**Жизнерадостный прыжок**
 
-![](/images/mlbb/skills/cici-0.webp)Пассивный![](/images/mlbb/skills/cici-1.webp)1-й навык![](/images/mlbb/skills/cici-2.webp)2-й навык![](/images/mlbb/skills/cici-3.webp)Ультимейт
-
-![](/images/mlbb/skills/cici-0.webp)
+![](/images/mlbb/skills/cici-0.webp)Пассивный**Восторг артиста**![](/images/mlbb/skills/cici-1.webp)1-й навык**Нападение Йо-йо**![](/images/mlbb/skills/cici-2.webp)2-й навык**Жизнерадостный прыжок**![](/images/mlbb/skills/cici-3.webp)Ультимейт**Выход на поклон**
 
 Пассивный
 
 ### Восторг артиста
 
 Чичи генерирует заряд "Восторга" после нанесения урона, увеличивая свою скорость передвижения на 0.75% и вампиризм от навыков на 1.25% за заряд до 10 раз, удваивая эффекты при полных зарядах.
-
-![](/images/mlbb/skills/cici-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ C
 
 Этот навык наносит 20% дополнительного урона по миньонам.
 
-![](/images/mlbb/skills/cici-2.webp)
-
 2-й навык
 
 ### Жизнерадостный прыжок
@@ -246,8 +228,6 @@ C
 Перезарядка **9.5 с**
 
 Чичи прыгает в указанное место. Если она приземлится на любого юнита (не включая башни и базу), то сможет снова прыгнуть в направлении джойстика. Если первым прыжком она приземлится на врага, то нанесет ему 200 (+40% общей физической атаки) единиц физического урона.
-
-![](/images/mlbb/skills/cici-3.webp)
 
 Ультимейт
 
@@ -259,33 +239,25 @@ C
 
 В это время Чичи может использовать "Нападение Йо-йо", чтобы атаковать обе связанные цели одновременно. Если только одна цель находится в пределах дальности "Нападения Йо-йо", Чичи будет атаковать цель дважды, но урон от второй атаки будет уменьшен до 25%.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)
+[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/alice.webp)Алиса**+2,3**](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/sun.webp)Сан**+2,2**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/bane.webp)Бэйн**+1,6**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/alpha.webp)Альфа**+1,5**](https://boostmlbb.ru/heroes/alpha.html)
+[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## История
 
 > Веселая артистка, которая излучает радость и творит чудеса везде, где появляется.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Cici)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=123)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Cici)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=123)
 
 **Поднимем ранг на герое «Чичи»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Чичи» в текущей мете?
 
-Тир C, 74-е место из 133 героев и 21-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,6% побед.
+Тир B, 28-е место из 133 героев и 9-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,6% побед. В профессиональных матчах за месяц героя драфтуют в 40,8% катков.
 
 Какая сборка на героя «Чичи» лучшая?
 

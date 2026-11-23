@@ -23,6 +23,9 @@ async function save(file, text) {
 const escape = text => String(text).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const config = JSON.parse(await read('content/seo-pages.json'));
 const heroesData = JSON.parse(await read('content/heroes.json'));
+// Professional draft statistics (scripts/pro-meta.mjs) feed the tier calculation; the pages still build without them.
+const proMeta = await read('content/pro-meta.json').then(JSON.parse).catch(() => null);
+if (proMeta) for (const hero of heroesData.heroes) hero.pro = proMeta.heroes[hero.slug];
 const HOME_NEWS_SLUG = 'msc-2026-playoff-schedule';
 const newsPosts = JSON.parse(await read('content/news/posts.json')).posts.filter(post => post.status === 'published');
 // Builds, skills and teammates (scripts/heroes-academy.mjs); pages still build without it.
@@ -435,7 +438,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (guideOf(file)?.kind === 'hero') {
       const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=4';
       document.head.append(arenaStyle);
-      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=5';
+      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=9';
       document.head.append(heroStyle);
     }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();

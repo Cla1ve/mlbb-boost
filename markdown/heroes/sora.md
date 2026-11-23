@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Юноша с чистым сердцем и непоколебимой решимостью, странствующий по золотым пескам.
-
 Победы
 
 49,6%
-
-все ранги 49,5%
 
 Выбор
 
 0,9%
 
-все ранги 0,7%
-
 Баны
 
 2,9%
-
-все ранги 4,3%
-
-№54 в тир-листе · №17 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 154,2%Сборка 256,8%Сборка 353,9%
-
-### Предметы
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/311.webp)
-
-Живучесть
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 9,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Наплечник наказания
+    Господство льда
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 5,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Топор войны
+    Крылья королевы
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Крылья королевы
+    Оракул
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Кираса грубой силы
+    Наплечник наказания
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 3,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Живучесть
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Переменчивые облака**_›_**Раскалывающий удар**_›_**Шаг ветра**
 
-![](/images/mlbb/skills/sora-0.webp)Пассивный![](/images/mlbb/skills/sora-1.webp)1-й навык![](/images/mlbb/skills/sora-2.webp)2-й навык![](/images/mlbb/skills/sora-3.webp)Ультимейт
-
-![](/images/mlbb/skills/sora-0.webp)
+![](/images/mlbb/skills/sora-0.webp)Пассивный**Мистический всплеск**![](/images/mlbb/skills/sora-1.webp)1-й навык**Раскалывающий удар**![](/images/mlbb/skills/sora-2.webp)2-й навык**Шаг ветра**![](/images/mlbb/skills/sora-3.webp)Ультимейт**Переменчивые облака**
 
 Пассивный
 
@@ -227,8 +213,6 @@ B
 
 **Ливень:** принимает стиль танка, преобразуя 30% в (получает 10 ОЗ за каждую 1 ед. атаки).
 
-![](/images/mlbb/skills/sora-1.webp)
-
 1-й навык
 
 ### Раскалывающий удар
@@ -237,8 +221,6 @@ B
 
 Сора совершает два удара, нанося 140 (+50% общей физической атаки) единиц физического урона, а затем совершает выпад вперед, нанося 240 (+5% Макс. ОЗ) единиц физического урона. Он может совершить рывок после удара.
 
-![](/images/mlbb/skills/sora-2.webp)
-
 2-й навык
 
 ### Шаг ветра
@@ -246,8 +228,6 @@ B
 Перезарядка **8 с**
 
 Сора прыгает вперед, нанося 140 (+55% общей физической атаки) единиц физического урона. Если он попадает по вражескому герою или достигает максимальной дальности, он ударяет по земле, нанося дополнительно 140 (+8% Макс. ОЗ) единиц физического урона и замедляя врага на 40% на 0.5 сек. Попадания могут сократить перезарядку на 2 сек.
-
-![](/images/mlbb/skills/sora-3.webp)
 
 Ультимейт
 
@@ -259,33 +239,25 @@ B
 
 Проведите вправо, чтобы вознестись в состояние "Ливень" на 10 сек. Сора получает иммунитет к контролю. После короткой задержки он притягивает ближайших врагов и наносит 250 (+8% Макс. ОЗ) единиц физического урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/bane.webp)Бэйн**+2,4**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/sun.webp)Сан**+2,0**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/floryn.webp)Флорин**+1,8**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/estes.webp)Эстес**+1,6**](https://boostmlbb.ru/heroes/estes.html)
+[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
 ## История
 
 > Юноша с чистым сердцем и непоколебимой решимостью, странствующий по золотым пескам.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/sora)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=131)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/sora)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=131)
 
 **Поднимем ранг на герое «Сора»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ B
 
 Силён ли герой «Сора» в текущей мете?
 
-Тир B, 54-е место из 133 героев и 17-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,9% матчей, 49,6% побед.
+Тир B, 34-е место из 133 героев и 11-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,9% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 23,7% катков.
 
 Какая сборка на героя «Сора» лучшая?
 

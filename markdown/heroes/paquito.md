@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Смертный герой, сражающийся с демонами одними лишь кулаками и стальной волей, чтобы защитить свое племя.
-
 Победы
 
 50,1%
-
-все ранги 50,0%
 
 Выбор
 
 1,4%
 
-все ранги 1,3%
-
 Баны
 
 11,1%
-
-все ранги 18,1%
-
-№27 в тир-листе · №8 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 156,3%Сборка 253,8%Сборка 357,9%
-
-### Предметы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 5,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Трезубец
+    Пронзающий небеса
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 4,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Пронзающий небеса
+    Трезубец
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Кровавое пиршество
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 3,0%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Нокаутирующий удар**_›_**Внезапный удар**_›_**Мощный удар левой**
 
-![](/images/mlbb/skills/paquito-0.webp)Пассивный![](/images/mlbb/skills/paquito-1.webp)1-й навык![](/images/mlbb/skills/paquito-2.webp)2-й навык![](/images/mlbb/skills/paquito-3.webp)Ультимейт
-
-![](/images/mlbb/skills/paquito-0.webp)
+![](/images/mlbb/skills/paquito-0.webp)Пассивный**Стойка чемпиона**![](/images/mlbb/skills/paquito-1.webp)1-й навык**Мощный удар левой**![](/images/mlbb/skills/paquito-2.webp)2-й навык**Внезапный удар**![](/images/mlbb/skills/paquito-3.webp)Ультимейт**Нокаутирующий удар**
 
 Пассивный
 
@@ -227,8 +213,6 @@ A
 
 После применения любого усиленного навыка Пакито получает 60% скорости передвижения и (+2 × ур. героя)% снижения урона на 1.2 сек.
 
-![](/images/mlbb/skills/paquito-1.webp)
-
 1-й навык
 
 ### Мощный удар левой
@@ -238,8 +222,6 @@ A
 Пакито совершает удар в указанном направлении, нанося 210 (+50% общей физической атаки) единиц физического урона пораженным врагам и получая 150 (+135% общей физической атаки) ед. щита.
 
 **Стойка чемпиона:** урон увеличивается до 350 (+100% общей физической атаки) единиц физического урона, а величина щита увеличивается до 140% на 2.5 сек. (обычный и усиленный щиты могут складываться).
-
-![](/images/mlbb/skills/paquito-2.webp)
 
 2-й навык
 
@@ -253,8 +235,6 @@ A
 
 Внезапный удар останавливается при попадании по герою или монстру.
 
-![](/images/mlbb/skills/paquito-3.webp)
-
 Ультимейт
 
 ### Нокаутирующий удар
@@ -267,27 +247,19 @@ A
 
 **Стойка чемпиона:** после отталкивания врагов в точку назначения Пакито вместо финального удара бьет апперкотом, нанося 400 (+120% общей физической атаки) единиц физического урона и подбрасывая их на 0.5 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/alice.webp)Алиса**+1,2**](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/bane.webp)Бэйн**+1,1**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/sun.webp)Сан**+0,9**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/natan.webp)Натан**+0,8**](https://boostmlbb.ru/heroes/natan.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## История
 
 > Смертный герой, сражающийся с демонами одними лишь кулаками и стальной волей, чтобы защитить свое племя.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Paquito)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=103)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Paquito)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=103)
 
 **Поднимем ранг на герое «Пакито»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ A
 
 Силён ли герой «Пакито» в текущей мете?
 
-Тир A, 27-е место из 133 героев и 8-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 11,1% матчей, 50,1% побед.
+Тир A, 11-е место из 133 героев и 5-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 11,1% матчей, 50,1% побед. В профессиональных матчах за месяц героя драфтуют в 69,3% катков.
 
 Какая сборка на героя «Пакито» лучшая?
 

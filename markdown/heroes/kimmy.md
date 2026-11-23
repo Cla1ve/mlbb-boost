@@ -1,6 +1,6 @@
 ---
 title: "Кимми MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кимми в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг и стрелок, 48,16% побед, тир C."
+description: "Кимми в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг и стрелок, 48,16% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/kimmy.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Кимми
 
-C
+A
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Родившись в семье военного, она заслужила признание как смелая, но беззаботная "крутая девчонка" из пограничной стражи.
 
 Победы
 
 48,2%
 
-все ранги 48,7%
-
 Выбор
 
 0,9%
 
-все ранги 0,9%
-
 Баны
 
 0,6%
-
-все ранги 0,7%
-
-№76 в тир-листе · №16 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 154,3%Сборка 249,0%Сборка 351,9%
-
-### Предметы
-
-![](/images/mlbb/items/2108.webp)
-
-Райское перо
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/1231.webp)
-
-Точно в цель
-
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 10,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Райское перо
+    Райское перо
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Божественный меч
+    Концентрированная энергия
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 8,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Райское перо
+    Райское перо
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Концентрированная энергия
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 8,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Райское перо
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Концентрированная энергия
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Точно в цель
+
+
 ## Навыки
 
 Прокачка**Импульс притяжения**_›_**Луч старлиума**_›_**Антигравитационный двигатель**
 
-![](/images/mlbb/skills/kimmy-0.webp)Пассивный![](/images/mlbb/skills/kimmy-1.webp)1-й навык![](/images/mlbb/skills/kimmy-2.webp)2-й навык![](/images/mlbb/skills/kimmy-3.webp)Ультимейт
-
-![](/images/mlbb/skills/kimmy-0.webp)
+![](/images/mlbb/skills/kimmy-0.webp)Пассивный**Воздушное превосходство**![](/images/mlbb/skills/kimmy-1.webp)1-й навык**Антигравитационный двигатель**![](/images/mlbb/skills/kimmy-2.webp)2-й навык**Луч старлиума**![](/images/mlbb/skills/kimmy-3.webp)Ультимейт**Импульс притяжения**
 
 Пассивный
 
@@ -227,8 +213,6 @@ C
 
 Базовые атаки Кимми наносят башням только 60% урона.
 
-![](/images/mlbb/skills/kimmy-1.webp)
-
 1-й навык
 
 ### Антигравитационный двигатель
@@ -238,8 +222,6 @@ C
 Кимми взлетает с помощью рюкзака, снимая эффекты замедления и получая к ним иммунитет. Она может проходить сквозь препятствия и получает 120% дополнительной скорости передвижения, которая спадает в течение 1 сек. Во время полета она непрерывно стреляет 4 химическими снарядами в ближайших врагов, каждый из которых наносит 20 (+25% общей физической атаки) (+30% общей магической силы) единиц магического урона и замедляет их на 50% на 0.5 сек.
 
 Кимми не расходует старлиум во время полета.
-
-![](/images/mlbb/skills/kimmy-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ C
 
 Каждый пораженный вражеский герой дает 20 старлиума.
 
-![](/images/mlbb/skills/kimmy-3.webp)
-
 Ультимейт
 
 ### Импульс притяжения
@@ -263,33 +243,25 @@ C
 
 Через 1 сек. поле сужается, притягивая находящихся в нем вражеских героев к своему центру и нанося магический урон в размере 15% от их текущих . Оно также замедляет их на 50% на 2 сек. Каждый пораженный вражеский герой дает Кимми 40 старлиума.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/estes.webp)Эстес**+2,4**](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/valentina.webp)Валентина**+2,2**](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/ixia.webp)Иксия**+1,6**](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/fredrinn.webp)Фредрин**+1,4**](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
 
 ## История
 
 > Родившись в семье военного, она заслужила признание как смелая, но беззаботная "крутая девчонка" из пограничной стражи.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/kimmy)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=71)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kimmy)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=71)
 
 **Поднимем ранг на герое «Кимми»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ C
 
 Силён ли герой «Кимми» в текущей мете?
 
-Тир C, 76-е место из 133 героев и 16-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 48,2% побед.
+Тир A, 15-е место из 133 героев и 3-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 73,1% катков.
 
 Какая сборка на героя «Кимми» лучшая?
 

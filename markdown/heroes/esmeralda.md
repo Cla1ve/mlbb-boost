@@ -1,6 +1,6 @@
 ---
 title: "Эсмеральда MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эсмеральда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и маг, 46,42% побед, тир C."
+description: "Эсмеральда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и маг, 46,42% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/esmeralda.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Эсмеральда
 
-C
+A
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Загадочный астролог.
 
 Победы
 
 46,4%
 
-все ранги 47,0%
-
 Выбор
 
 0,9%
 
-все ранги 0,8%
-
 Баны
 
 1,3%
-
-все ранги 2,2%
-
-№99 в тир-листе · №17 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие танки этой линии
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,5%Сборка 257,0%Сборка 358,6%
-
-### Предметы
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 8,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20040.webp)
-
-Спринт
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 5,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20040.webp)Спринт
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 4,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Падающая звезда**_›_**Танец звездной пыли**_›_**Щит ледяной луны**
 
-![](/images/mlbb/skills/esmeralda-0.webp)Пассивный![](/images/mlbb/skills/esmeralda-1.webp)1-й навык![](/images/mlbb/skills/esmeralda-2.webp)2-й навык![](/images/mlbb/skills/esmeralda-3.webp)Ультимейт
-
-![](/images/mlbb/skills/esmeralda-0.webp)
+![](/images/mlbb/skills/esmeralda-0.webp)Пассивный**Лунная шкатулка**![](/images/mlbb/skills/esmeralda-1.webp)1-й навык**Щит ледяной луны**![](/images/mlbb/skills/esmeralda-2.webp)2-й навык**Танец звездной пыли**![](/images/mlbb/skills/esmeralda-3.webp)Ультимейт**Падающая звезда**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 Урон, наносимый Эсмеральдой, игнорирует все эффекты щита и постепенно превращает ее щит в ОЗ.
 
-![](/images/mlbb/skills/esmeralda-1.webp)
-
 1-й навык
 
 ### Щит ледяной луны
@@ -235,8 +219,6 @@ C
 
 Эсмеральда получает 500 (+150% общей магической силы) ед. щита и 40% скорости передвижения, которая быстро спадает в течение 4 сек. Тем временем она постепенно превращает щиты ближайших врагов в свой собственный, вплоть до 50% от ее .
 
-![](/images/mlbb/skills/esmeralda-2.webp)
-
 2-й навык
 
 ### Танец звездной пыли
@@ -244,8 +226,6 @@ C
 Перезарядка **4.5 Mana Cost: 35 с**
 
 Эсмеральда взмахивает Звездной пылью и Ледяной луной, нанося 240 (+60% общей физической атаки) единиц физического урона и 300 (+120% общей магической силы) единиц магического урона ближайшим врагам. Каждый раз при нанесении урона герою время перезарядки Щита ледяной луны сокращается на 1.5 сек. (нанесение урона юнитам не-героям гарантирует сокращение перезарядки на 0.5 сек.), а скорость передвижения противника уменьшается на 20% на 1.5 сек.
-
-![](/images/mlbb/skills/esmeralda-3.webp)
 
 Ультимейт
 
@@ -257,33 +237,25 @@ C
 
 **Повторное использование:** Эсмеральда бросает Звездную пыль в указанное место, нанося 350 (+90% общей физической атаки) единиц физического урона, а затем перемещается в это место и использует Ледяную луну, нанося 350 (+140% общей магической силы) единиц магического урона и обездвиживая врагов в области на 1 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/bane.webp)Бэйн**+1,8**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/nolan.webp)Нолан**+1,4**](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/helcurt.webp)Хелкарт**+1,2**](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/julian.webp)Джулиан**+1,1**](https://boostmlbb.ru/heroes/julian.html)
+[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
 
 ## История
 
 > Загадочный астролог.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/esmeralda)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=81)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/esmeralda)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=81)
 
 **Поднимем ранг на герое «Эсмеральда»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ C
 
 Силён ли герой «Эсмеральда» в текущей мете?
 
-Тир C, 99-е место из 133 героев и 17-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 46,4% побед.
+Тир A, 14-е место из 133 героев и 6-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 46,4% побед. В профессиональных матчах за месяц героя драфтуют в 76,4% катков.
 
 Какая сборка на героя «Эсмеральда» лучшая?
 

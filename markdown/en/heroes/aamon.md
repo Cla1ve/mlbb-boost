@@ -1,6 +1,6 @@
 ---
 title: "Aamon MLBB: build, counters and skills | MLBB Boost"
-description: "Aamon in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.42% win rate, tier B."
+description: "Aamon in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.42% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Aamon
 
-B
+C
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle
-
-The aloof Duke of Castle Aberleen.
 
 Win rate
 
 50.4%
 
-all ranks 50.2%
-
 Pick rate
 
 0.6%
 
-all ranks 0.6%
-
 Ban rate
 
 0.8%
-
-all ranks 2.5%
-
-#64 in the tier list · #15 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 154.8%Build 254.4%Build 357.4%
-
-### Core items
-
-![](/images/mlbb/items/3111.webp)
-
-Genius Wand
-
-![](/images/mlbb/items/3102.webp)
-
-Holy Crystal
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/531.webp)
-
-Killing Spree
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 8.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Sky Piercer
+    Genius Wand
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Genius Wand
+    Holy Crystal
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Holy Crystal
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Killing Spree
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Genius Wand
+    Sky Piercer
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Feather of Heaven
+    Genius Wand
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Holy Crystal
+    Holy Crystal
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Killing Spree
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Genius Wand
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Feather of Heaven
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Holy Crystal
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Endless Shards**_›_**Soul Shards**_›_**Slayer Shards**
 
-![](/images/mlbb/skills/aamon-0.webp)Passive![](/images/mlbb/skills/aamon-1.webp)Skill 1![](/images/mlbb/skills/aamon-2.webp)Skill 2![](/images/mlbb/skills/aamon-3.webp)Ultimate
-
-![](/images/mlbb/skills/aamon-0.webp)
+![](/images/mlbb/skills/aamon-0.webp)Passive**Invisible Armor**![](/images/mlbb/skills/aamon-1.webp)Skill 1**Soul Shards**![](/images/mlbb/skills/aamon-2.webp)Skill 2**Slayer Shards**![](/images/mlbb/skills/aamon-3.webp)Ultimate**Endless Shards**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Each time Aamon hits an enemy with a skill, he enters Camouflage, becoming untargetable, recovering HP equal to 25 (+15% Total Magic Power) (+ 3% of his ) every 0.5s, and gaining 80% Movement Speed that rapidly decays over 3s.
 
 Upon leaving the Camouflage state, Aamon immediately resets his Basic Attack's cooldown and enhances his Basic Attacks for 3s. Each enhanced Basic Attack deals 70 (+100% Total Physical Attack) (+115% Total Magic Power) Magic Damage. The first attack after manually leaving Camouflage instead deals 84 (+120% Total Physical Attack) (+138% Total Magic Power) damage and reduces all skill cooldowns by 1s.
-
-![](/images/mlbb/skills/aamon-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Cooldown **7 Mana Cost: 40 s**
 
 **Active:** Aamon throws a shard at a nearby enemy, dealing 175 (+60% Total Magic Power) Magic Damage.
 
-![](/images/mlbb/skills/aamon-2.webp)
-
 Skill 2
 
 ### Slayer Shards
@@ -248,8 +230,6 @@ Cooldown **12.5 Mana Cost: 50 s**
 Aamon throws a shard forward, dealing 120 (+50% Total Magic Power) Magic Damage and slowing enemies hit by 50% for 2s. The shard returns to Aamon after a short delay, granting him the Camouflage state.
 
 If the shard hits a non-minion enemy, it returns immediately.
-
-![](/images/mlbb/skills/aamon-3.webp)
 
 Ultimate
 
@@ -263,33 +243,25 @@ The number of shards increases with Aamon's armor charges and the shards on the 
 
 The damage dealt increases with the target's lost , to the max when the target's HP is below 30%.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)
+[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/gloo.webp)Gloo**+1.2**](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/benedetta.webp)Benedetta**+1.2**](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/beatrix.webp)Beatrix**+1.2**](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/zetian.webp)Zetian**+1.1**](https://boostmlbb.ru/en/heroes/zetian.html)
+[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)
 
 ## Lore
 
 > The aloof Duke of Castle Aberleen.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Aamon)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=109)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Aamon)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=109)
 
 **Rank up on Aamon**The calculator shows the price
 
@@ -311,7 +283,7 @@ Assassin, played in the jungle.
 
 Is Aamon strong in the current meta?
 
-Tier B, #64 of 133 heroes and #15 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 50.4% win rate.
+Tier C, #86 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Aamon?
 

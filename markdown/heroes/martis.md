@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Настойчивый и победоносный король Асура.
-
 Победы
 
 47,5%
-
-все ранги 47,2%
 
 Выбор
 
 0,5%
 
-все ранги 0,6%
-
 Баны
 
 0,2%
-
-все ранги 0,4%
-
-№108 в тир-листе · №35 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 157,1%Сборка 251,0%Сборка 348,8%
-
-### Предметы
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 8,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Трезубец
+    Топор войны
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Бесконечная битва
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Нечестивая ярость
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 1,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Топор войны
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Ловкость
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Опытный охотник
+    Кровавое пиршество
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Убийственный пир
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 1,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Опустошение**_›_**Аура Асуры**_›_**Смертоносная катушка**
 
-![](/images/mlbb/skills/martis-0.webp)Пассивный![](/images/mlbb/skills/martis-1.webp)1-й навык![](/images/mlbb/skills/martis-2.webp)2-й навык![](/images/mlbb/skills/martis-3.webp)Ультимейт
-
-![](/images/mlbb/skills/martis-0.webp)
+![](/images/mlbb/skills/martis-0.webp)Пассивный**Гнев Асуры**![](/images/mlbb/skills/martis-1.webp)1-й навык**Аура Асуры**![](/images/mlbb/skills/martis-2.webp)2-й навык**Смертоносная катушка**![](/images/mlbb/skills/martis-3.webp)Ультимейт**Опустошение**
 
 Пассивный
 
 ### Гнев Асуры
 
 Каждый раз, когда Мартис использует навык, его скорость атаки увеличивается на 30%, максимум 120%. Длится 4 сек. Он получает (+8 × ур. героя) доп. атаки при полном заряде.
-
-![](/images/mlbb/skills/martis-1.webp)
 
 1-й навык
 
@@ -232,8 +216,6 @@ C
 Перезарядка **7 с**
 
 Мартис стягивает врагов в веерообразной области перед собой и наносит 350 (+130% дополнительной физической атаки) единиц физического урона, замедляя их на 40% на 2 сек.
-
-![](/images/mlbb/skills/martis-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ C
 
 При использовании навыка Мартис получает иммунитет к контролю и 60% снижения урона.
 
-![](/images/mlbb/skills/martis-3.webp)
-
 Ультимейт
 
 ### Опустошение
@@ -259,33 +239,25 @@ C
 
 Если цель была убита этим навыком, Мартис может вновь использовать его в течение 10 сек. и получает 100% дополнительной скорости передвижения, которая постепенно снижается за 5 сек. Каждое успешное применение также увеличит урон от навыка на 15% (до 30%).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/angela.webp)Ангела**+1,7**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/sun.webp)Сан**+1,3**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/estes.webp)Эстес**+1,3**](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/kaja.webp)Кайя**+1,2**](https://boostmlbb.ru/heroes/kaja.html)
+[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
 
 ## История
 
 > Настойчивый и победоносный король Асура.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/martis)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=58)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/martis)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=58)
 
 **Поднимем ранг на герое «Мартис»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Мартис» в текущей мете?
 
-Тир C, 108-е место из 133 героев и 35-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,5% побед.
+Тир C, 112-е место из 133 героев и 37-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Мартис» лучшая?
 

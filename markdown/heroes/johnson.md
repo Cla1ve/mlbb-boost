@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
 
-Суперкиборг, способный превращаться в автомобиль и подвозить своих союзников к месту боя.
-
 Победы
 
 47,9%
-
-все ранги 49,3%
 
 Выбор
 
 0,5%
 
-все ранги 0,7%
-
 Баны
 
 0,6%
-
-все ранги 2,0%
-
-№98 в тир-листе · №16 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 155,6%Сборка 256,7%Сборка 352,4%
-
-### Предметы
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3203.webp)
-
-Древняя кираса
-
-![](/images/mlbb/items/2207.webp)
-
-Шипованная броня
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/821.webp)
-
-Второе дыхание
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20040.webp)
-
-Спринт
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 4,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Древняя кираса
+    Древняя кираса
 
-![](/images/mlbb/items/2207.webp)
+-   ![](/images/mlbb/items/2207.webp)
 
-Шипованная броня
+    Шипованная броня
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20040.webp)Спринт
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Ловкость
+    Вдохновение
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Благословение природы
+    Второе дыхание
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20040.webp)
-
-Спринт
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 1,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Мимолетное время
+    Господство льда
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Господство льда
+    Древняя кираса
 
-![](/images/mlbb/items/3205.webp)
+-   ![](/images/mlbb/items/2207.webp)
 
-Щит Афины
+    Шипованная броня
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20040.webp)Спринт
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/711.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Прочность
+    Ловкость
 
-![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Стойкость
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 1,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3205.webp)
+
+    Щит Афины
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Прочность
+
+-   ![](/images/mlbb/talents/321.webp)
+
+    Стойкость
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Газ до упора**_›_**Электромагнитные волны**_›_**Ударный гаечный ключ**
 
-![](/images/mlbb/skills/johnson-0.webp)Пассивный![](/images/mlbb/skills/johnson-1.webp)1-й навык![](/images/mlbb/skills/johnson-2.webp)2-й навык![](/images/mlbb/skills/johnson-3.webp)Ультимейт
-
-![](/images/mlbb/skills/johnson-0.webp)
+![](/images/mlbb/skills/johnson-0.webp)Пассивный**Подушка безопасности**![](/images/mlbb/skills/johnson-1.webp)1-й навык**Ударный гаечный ключ**![](/images/mlbb/skills/johnson-2.webp)2-й навык**Электромагнитные волны**![](/images/mlbb/skills/johnson-3.webp)Ультимейт**Газ до упора**
 
 Пассивный
 
 ### Подушка безопасности
 
 Когда ОЗ Джонсона ниже 30%, он получает 300 (+700% общей физической защиты) ед. щита на 10 сек. Перезарядка: 100 сек.
-
-![](/images/mlbb/skills/johnson-1.webp)
 
 1-й навык
 
@@ -232,8 +216,6 @@ C
 Перезарядка **8 с**
 
 Джонсон бросает гаечный ключ в указанное место, нанося 120 (+220% общей физической защиты) единиц магического урона врагам на пути. Враги вокруг точки приземления будут оглушены на 0.8 сек.
-
-![](/images/mlbb/skills/johnson-2.webp)
 
 2-й навык
 
@@ -244,8 +226,6 @@ C
 Джонсон поднимает щит, непрерывно нанося 120 (+60% общей магической силы) единиц магического урона врагам в веерообразной области в указанном направлении, снижая их скорость передвижения и на 10% (складывается до 3 раз) на 2 сек.
 
 Пока щит поднят, Джонсон может использовать базовые атаки и применять навыки.
-
-![](/images/mlbb/skills/johnson-3.webp)
 
 Ультимейт
 
@@ -259,33 +239,25 @@ C
 
 Местоположение Джонсона раскрывается врагам на 3 сек., когда он применяет этот навык.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/silvanna.webp)Сильвана**+1,9**](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Заск**+1,8**](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/change.webp)Чан'Э**+1,7**](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/balmond.webp)Бальмонд**+1,7**](https://boostmlbb.ru/heroes/balmond.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
 
 ## История
 
 > Суперкиборг, способный превращаться в автомобиль и подвозить своих союзников к месту боя.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Johnson)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=32)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Johnson)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=32)
 
 **Поднимем ранг на герое «Джонсон»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Джонсон» в текущей мете?
 
-Тир C, 98-е место из 133 героев и 16-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 47,9% побед.
+Тир C, 103-е место из 133 героев и 17-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 47,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Джонсон» лучшая?
 

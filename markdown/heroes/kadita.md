@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Богиня океана, защищающая водные просторы, орудуя Трезубцем морей.
-
 Победы
 
 51,2%
-
-все ранги 51,3%
 
 Выбор
 
 0,9%
 
-все ранги 0,8%
-
 Баны
 
 1,9%
-
-все ранги 2,9%
-
-№43 в тир-листе · №8 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)
+[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 156,9%Сборка 256,9%
-
-### Предметы
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3102.webp)
-
-Священный кристалл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/821.webp)
-
-Второе дыхание
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 8,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Палочка гения
+    Палочка гения
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Божественный меч
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -163,13 +113,49 @@ B
 
 2,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Палочка гения
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Божественный меч
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Бурные волны**_›_**Ода океану**_›_**Дыхание океана**
 
-![](/images/mlbb/skills/kadita-0.webp)Пассивный![](/images/mlbb/skills/kadita-1.webp)1-й навык![](/images/mlbb/skills/kadita-2.webp)2-й навык![](/images/mlbb/skills/kadita-3.webp)Ультимейт
-
-![](/images/mlbb/skills/kadita-0.webp)
+![](/images/mlbb/skills/kadita-0.webp)Пассивный**Талассофобия**![](/images/mlbb/skills/kadita-1.webp)1-й навык**Ода океану**![](/images/mlbb/skills/kadita-2.webp)2-й навык**Дыхание океана**![](/images/mlbb/skills/kadita-3.webp)Ультимейт**Бурные волны**
 
 Пассивный
 
@@ -181,8 +167,6 @@ B
 
 Находясь в реке, Кадита получает 10% дополнительной скорости передвижения.
 
-![](/images/mlbb/skills/kadita-1.webp)
-
 1-й навык
 
 ### Ода океану
@@ -193,8 +177,6 @@ B
 
 **Повторное использование:** Кадита сходит с волны, не прерывая ее движение.
 
-![](/images/mlbb/skills/kadita-2.webp)
-
 2-й навык
 
 ### Дыхание океана
@@ -204,8 +186,6 @@ B
 После короткой задержки Кадита призывает океанскую волну в указанном месте, нанося 350 (+140% общей магической силы) единиц мaгического урона и подбрасывая врагов на 1 сек.
 
 Кадита может использовать этот навык во время навыка "Ода океану", чтобы призвать волну под собой с более быстрой активацией.
-
-![](/images/mlbb/skills/kadita-3.webp)
 
 Ультимейт
 
@@ -219,27 +199,19 @@ B
 
 Этот навык может быть прерван только подавлением.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/floryn.webp)Флорин**+2,2**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/mathilda.webp)Матильда**+1,9**](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/angela.webp)Ангела**+1,6**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/rafaela.webp)Рафаэль**+1,2**](https://boostmlbb.ru/heroes/rafaela.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
 
 ## История
 
 > Богиня океана, защищающая водные просторы, орудуя Трезубцем морей.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/kadita)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=75)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kadita)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=75)
 
 **Поднимем ранг на герое «Кадита»**Цена считается в калькуляторе
 
@@ -261,7 +233,7 @@ B
 
 Силён ли герой «Кадита» в текущей мете?
 
-Тир B, 43-е место из 133 героев и 8-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 51,2% побед.
+Тир B, 61-е место из 133 героев и 11-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 51,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Кадита» лучшая?
 

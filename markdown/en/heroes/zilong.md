@@ -1,6 +1,6 @@
 ---
 title: "Zilong MLBB: build, counters and skills | MLBB Boost"
-description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 44.92% win rate, tier D."
+description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 44.92% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Zilong
 
-D
+C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/exp.webp)EXP Lane
-
-Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power.
 
 Win rate
 
 44.9%
 
-all ranks 46.3%
-
 Pick rate
 
 0.3%
 
-all ranks 0.7%
-
 Ban rate
 
 0.2%
-
-all ranks 0.5%
-
-#127 in the tier list · #43 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 153.0%Build 253.0%Build 352.8%
-
-### Core items
-
-![](/images/mlbb/items/3005.webp)
-
-Windtalker
-
-![](/images/mlbb/items/3002.webp)
-
-Haas' Claws
-
-![](/images/mlbb/items/3003.webp)
-
-Berserker's Fury
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/1211.webp)
-
-Fatal
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/531.webp)
-
-Killing Spree
-
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Corrosion Scythe
+    Windtalker
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Sky Piercer
+    Haas' Claws
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Rose Gold Meteor
+    Berserker's Fury
 
-### Emblem
 
-![](/images/mlbb/emblems/20007.webp)
+#### Spell
 
-Fighter
+![](/images/mlbb/spells/20030.webp)Inspire
 
-![](/images/mlbb/talents/112.webp)
+#### Emblem and talents
 
-Swift
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/521.webp)
+Assassin
 
-Master Assassin
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Fatal
 
-Killing Spree
+-   ![](/images/mlbb/talents/521.webp)
 
-### Spell
+    Master Assassin
 
-![](/images/mlbb/spells/20030.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Inspire
+    Killing Spree
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Rose Gold Meteor
+    Corrosion Scythe
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Windtalker
+    Sky Piercer
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Haas' Claws
+    Rose Gold Meteor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Fatal
+    Swift
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-War Cry
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Rose Gold Meteor
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Windtalker
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Haas' Claws
+
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Master Assassin
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    War Cry
+
+
 ## Skills
 
 Level-up**Supreme Warrior**_›_**Spear Strike**_›_**Spear Flip**
 
-![](/images/mlbb/skills/zilong-0.webp)Passive![](/images/mlbb/skills/zilong-1.webp)Skill 1![](/images/mlbb/skills/zilong-2.webp)Skill 2![](/images/mlbb/skills/zilong-3.webp)Ultimate
-
-![](/images/mlbb/skills/zilong-0.webp)
+![](/images/mlbb/skills/zilong-0.webp)Passive**Dragon Flurry**![](/images/mlbb/skills/zilong-1.webp)Skill 1**Spear Flip**![](/images/mlbb/skills/zilong-2.webp)Skill 2**Spear Strike**![](/images/mlbb/skills/zilong-3.webp)Ultimate**Supreme Warrior**
 
 Passive
 
@@ -227,8 +213,6 @@ Zilong's Basic Attack deals 100 (+80% Total Physical Attack) Physical Damage.
 
 If the target's HP is below 50%, all damage dealt by Zilong's skills and Basic Attacks is increased by 30.
 
-![](/images/mlbb/skills/zilong-1.webp)
-
 Skill 1
 
 ### Spear Flip
@@ -236,8 +220,6 @@ Skill 1
 Cooldown **12 Mana Cost: 80 s**
 
 Zilong flings the target enemy over his head, dealing 250 (+80% Total Physical Attack) Physical Damage.
-
-![](/images/mlbb/skills/zilong-2.webp)
 
 Skill 2
 
@@ -249,8 +231,6 @@ Zilong lunges at the target enemy, dealing 250 (+60% Total Physical Attack) Phys
 
 The cooldown of Spear Strike is reset each time Zilong kills an enemy.
 
-![](/images/mlbb/skills/zilong-3.webp)
-
 Ultimate
 
 ### Supreme Warrior
@@ -261,33 +241,25 @@ Zilong removes all slow effects on himself and gains 40% Movement Speed, 35% Att
 
 During this time, Dragon Flurry triggers every 2 attacks (instead of the previous 3).
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)
+[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/gloo.webp)Gloo**+2.9**](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/belerick.webp)Belerick**+2.9**](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/hilda.webp)Hilda**+2.3**](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Tigreal**+2.0**](https://boostmlbb.ru/en/heroes/tigreal.html)
+[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
 > Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Zilong)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=16)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Zilong)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=16)
 
 **Rank up on Zilong**The calculator shows the price
 
@@ -309,7 +281,7 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Zilong strong in the current meta?
 
-Tier D, #127 of 133 heroes and #43 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 44.9% win rate.
+Tier C, #127 of 133 heroes and #44 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 44.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Zilong?
 

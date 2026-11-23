@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Воин-леонин, унаследовавший решимость своего предшественника и прорубающий собственный путь с пылающей яростью.
-
 Победы
 
 53,0%
-
-все ранги 53,5%
 
 Выбор
 
 0,8%
 
-все ранги 0,8%
-
 Баны
 
 22,6%
-
-все ранги 30,3%
-
-№12 в тир-листе · №3 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 153,4%Сборка 258,6%Сборка 353,3%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 3,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Золотой метеор
+    Злобный рык
 
-### Эмблема
 
-![](/images/mlbb/emblems/20007.webp)
+#### Заклинание
 
-Эмблема бойца
+![](/images/mlbb/spells/20190.webp)Месть
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/721.webp)
+Эмблема убийцы
 
-Кровавое пиршество
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Трепет
 
-Убийственный пир
+-   ![](/images/mlbb/talents/122.webp)
 
-### Заклинание
+    Опытный охотник
 
-![](/images/mlbb/spells/20190.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Месть
+    Убийственный пир
+
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 2,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Злобный рык
+    Золотой метеор
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Разрыв
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Опытный охотник
+    Кровавое пиршество
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 2,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Раскалывающий топор**_›_**Сила топора**_›_**Аулус, нападай!**
 
-![](/images/mlbb/skills/aulus-0.webp)Пассивный![](/images/mlbb/skills/aulus-1.webp)1-й навык![](/images/mlbb/skills/aulus-2.webp)2-й навык![](/images/mlbb/skills/aulus-3.webp)Ультимейт
-
-![](/images/mlbb/skills/aulus-0.webp)
+![](/images/mlbb/skills/aulus-0.webp)Пассивный**Боевой дух**![](/images/mlbb/skills/aulus-1.webp)1-й навык**Аулус, нападай!**![](/images/mlbb/skills/aulus-2.webp)2-й навык**Сила топора**![](/images/mlbb/skills/aulus-3.webp)Ультимейт**Раскалывающий топор**
 
 Пассивный
 
@@ -227,8 +213,6 @@ S
 
 Усиленная базовая атака наносит 240 (+24 × ур. героя) (+75% общей физической атаки) единиц физического урона монстрам.
 
-![](/images/mlbb/skills/aulus-1.webp)
-
 1-й навык
 
 ### Аулус, нападай!
@@ -238,8 +222,6 @@ S
 Аулус начинает накапливать "Боевой дух", снимает с себя все эффекты замедления и получает 30% дополнительной скорости передвижения на 5 сек.
 
 Если Аулус не получит эффектов контроля высокого уровня в течение 2 сек., он войдет в состояние ярости и получит иммунитет к контролю.
-
-![](/images/mlbb/skills/aulus-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ S
 
 **Повторное использование:** Аулус совершает рывок вперед и ударяет по земле, нанося 240 (+100% общей физической атаки) единиц физического урона ближайшим врагам.
 
-![](/images/mlbb/skills/aulus-3.webp)
-
 Ультимейт
 
 ### Раскалывающий топор
@@ -263,27 +243,19 @@ S
 
 Во время действия навыка Аулус получает 20% снижения урона и кратковременно ускоряется при каждом ударе.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/arlott.webp)Арлотт**+2,2**](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,8**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра**+1,6**](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/benedetta.webp)Бенедетта**+1,5**](https://boostmlbb.ru/heroes/benedetta.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## История
 
 > Воин-леонин, унаследовавший решимость своего предшественника и прорубающий собственный путь с пылающей яростью.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Aulus)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=108)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Aulus)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=108)
 
 **Поднимем ранг на герое «Аулус»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ S
 
 Силён ли герой «Аулус» в текущей мете?
 
-Тир S, 12-е место из 133 героев и 3-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 22,6% матчей, 53,0% побед.
+Тир S, 8-е место из 133 героев и 4-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 22,6% матчей, 53,0% побед. В профессиональных матчах за месяц героя драфтуют в 77,8% катков.
 
 Какая сборка на героя «Аулус» лучшая?
 

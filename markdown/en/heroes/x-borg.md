@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
 
-An uncontrollable flame that's determined to take revenge against Eruditio.
-
 Win rate
 
 49.0%
-
-all ranks 50.0%
 
 Pick rate
 
 0.5%
 
-all ranks 0.6%
-
 Ban rate
 
 0.9%
-
-all ranks 2.0%
-
-#82 in the tier list · #25 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 155.2%Build 254.9%Build 351.7%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-### Emblem
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Thrill
+    Agility
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Sky Piercer
+    Dominance Ice
 
-![](/images/mlbb/items/3207.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Immortality
+    Brute Force Breastplate
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Seasoned Hunter
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3207.webp)
+
+    Immortality
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Last Insanity**_›_**Fire Missiles**_›_**Fire Stake**
 
-![](/images/mlbb/skills/x-borg-0.webp)Passive![](/images/mlbb/skills/x-borg-1.webp)Skill 1![](/images/mlbb/skills/x-borg-2.webp)Skill 2![](/images/mlbb/skills/x-borg-3.webp)Ultimate
-
-![](/images/mlbb/skills/x-borg-0.webp)
+![](/images/mlbb/skills/x-borg-0.webp)Passive**Firaga Armor**![](/images/mlbb/skills/x-borg-1.webp)Skill 1**Fire Missiles**![](/images/mlbb/skills/x-borg-2.webp)Skill 2**Fire Stake**![](/images/mlbb/skills/x-borg-3.webp)Ultimate**Last Insanity**
 
 Passive
 
@@ -227,8 +213,6 @@ X.Borg's attacks cause enemies to enter the Overheated state. Enemies in the Ove
 
 X.Borg's skills deal True Damage to enemies in the Overheated state.
 
-![](/images/mlbb/skills/x-borg-1.webp)
-
 Skill 1
 
 ### Fire Missiles
@@ -239,8 +223,6 @@ X.Borg sprays fire, dealing 25 (+60% Total Physical Attack) (+40% Total Magic Po
 
 **Armorless State:** The attack area becomes narrower but longer, while the damage is reduced to 60%.
 
-![](/images/mlbb/skills/x-borg-2.webp)
-
 Skill 2
 
 ### Fire Stake
@@ -250,8 +232,6 @@ Cooldown **9 s**
 X.Borg fires 5 Fire Stakes forward and recalls them after 1.7s. Each stake deals 50 (+20% Total Physical Attack) Physical Damage and pulls enemies and Firaga Supplies along its path back to him.
 
 **Armorless State:** X.Borg adjusts the Fire Stake launcher, making the stakes travel farther and closer together.
-
-![](/images/mlbb/skills/x-borg-3.webp)
 
 Ultimate
 
@@ -265,33 +245,25 @@ After 3s, his mecha suit detonates, dealing 300 (+ 15% target's ) True Damage. I
 
 **Use Again:** Immediately stop spraying fire and detonate early.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/aldous.webp)Aldous**+2.4**](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/sun.webp)Sun**+2.3**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/hilda.webp)Hilda**+1.7**](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/karrie.webp)Karrie**+1.6**](https://boostmlbb.ru/en/heroes/karrie.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
 
 ## Lore
 
 > An uncontrollable flame that's determined to take revenge against Eruditio.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/x-borg)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=83)
+[Read the full story ↗](https://kazukiofficial.com/stories/x-borg)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=83)
 
 **Rank up on X.Borg**The calculator shows the price
 
@@ -313,7 +285,7 @@ Fighter, played in the EXP Lane.
 
 Is X.Borg strong in the current meta?
 
-Tier C, #82 of 133 heroes and #25 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 49.0% win rate.
+Tier C, #91 of 133 heroes and #28 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 49.0% win rate. In professional games over the last month the hero is drafted in 0.9% of them.
 
 What is the best build for X.Borg?
 

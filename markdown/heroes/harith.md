@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/gold.webp)Линия золота
 
-Леонин, пришедший в Монийскую империю из Азрии.
-
 Победы
 
 48,7%
-
-все ранги 46,9%
 
 Выбор
 
 0,2%
 
-все ранги 0,1%
-
 Баны
 
 0,0%
-
-все ранги 0,1%
-
-№110 в тир-листе · №27 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 155,4%Сборка 254,4%Сборка 349,9%
-
-### Предметы
-
-![](/images/mlbb/items/3106.webp)
-
-Старлиумовая коса
-
-![](/images/mlbb/items/2108.webp)
-
-Райское перо
-
-![](/images/mlbb/items/3102.webp)
-
-Священный кристалл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 27,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Старлиумовая коса
+    Старлиумовая коса
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Райское перо
+    Райское перо
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Священный кристалл
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 9,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Старлиумовая коса
+    Старлиумовая коса
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Райское перо
+    Райское перо
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Священный кристалл
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Опытный охотник
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 3,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3106.webp)
+
+    Старлиумовая коса
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Райское перо
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Сила времени**_›_**Разделение времени**_›_**Временной удар**
 
-![](/images/mlbb/skills/harith-0.webp)Пассивный![](/images/mlbb/skills/harith-1.webp)1-й навык![](/images/mlbb/skills/harith-2.webp)2-й навык![](/images/mlbb/skills/harith-3.webp)Ультимейт
-
-![](/images/mlbb/skills/harith-0.webp)
+![](/images/mlbb/skills/harith-0.webp)Пассивный**Ключевая информация**![](/images/mlbb/skills/harith-1.webp)1-й навык**Разделение времени**![](/images/mlbb/skills/harith-2.webp)2-й навык**Временной удар**![](/images/mlbb/skills/harith-3.webp)Ультимейт**Сила времени**
 
 Пассивный
 
 ### Ключевая информация
 
 Харит получает озарение от своего ключа. Он получает 7% гибридного вампиризма за каждого вражеского героя поблизости, что складывается до 35%.
-
-![](/images/mlbb/skills/harith-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ C
 
 Этот навык наносит 60% дополнительного урона монстрам (до 1500 урона).
 
-![](/images/mlbb/skills/harith-2.webp)
-
 2-й навык
 
 ### Временной удар
@@ -248,8 +230,6 @@ C
 Харит устремляется в указанном направлении, получая 120 (+120% общей магической силы) ед. щита, который складывается до 3 раз, и усиливая свою следующую базовую атаку. Его усиленная базовая атака наносит 200 (+100% общей физической атаки)(+60% общей магической силы) единиц магического урона и замедляет врагов на 40%. Попадание по врагу сокращает перезарядку "Временного удара" на 3 сек.
 
 Усиленная базовая атака наносит только 50 (+100% общей физической атаки)(+100% общей магической силы) единиц магического урона башням.
-
-![](/images/mlbb/skills/harith-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ C
 
 Когда Харит вступает в контакт с разломом при использовании "Временного удара", он поглощает его энергию и сокращает перезарядку "Разделения времени" на 1 сек. и "Временного удара" на 3 сек. Харит получает 15% устойчивости, пока находится на разломе.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/beatrix.webp)Беатрис**+5,6**](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Иксия**+5,3**](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/clint.webp)Клинт**+4,8**](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/brody.webp)Броуди**+4,5**](https://boostmlbb.ru/heroes/brody.html)
+[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
 
 ## История
 
 > Леонин, пришедший в Монийскую империю из Азрии.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/harith)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=73)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/harith)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=73)
 
 **Поднимем ранг на герое «Харит»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Харит» в текущей мете?
 
-Тир C, 110-е место из 133 героев и 27-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 48,7% побед.
+Тир C, 72-е место из 133 героев и 18-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 19,7% катков.
 
 Какая сборка на героя «Харит» лучшая?
 

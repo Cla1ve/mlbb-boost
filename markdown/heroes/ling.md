@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
 
-Изящный, свободно парящий зяблик и Боец Востока, унаследовавший силу Красной птицы.
-
 Победы
 
 51,8%
-
-все ранги 52,5%
 
 Выбор
 
 0,9%
 
-все ранги 0,7%
-
 Баны
 
 0,6%
-
-все ранги 0,6%
-
-№39 в тир-листе · №6 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 157,9%Сборка 259,2%Сборка 359,5%
-
-### Предметы
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-![](/images/mlbb/items/3002.webp)
-
-Когти Хааса
-
-![](/images/mlbb/items/3004.webp)
-
-Бесконечная битва
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/1211.webp)
-
-Фатальность
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/133.webp)
-
-Боевой клич
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 39,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Бесконечная битва
+    Бесконечная битва
 
-### Эмблема
 
-![](/images/mlbb/emblems/20012.webp)
+#### Заклинание
 
-Эмблема стрелка
+![](/images/mlbb/spells/20020.webp)Возмездие
 
-![](/images/mlbb/talents/1211.webp)
+#### Эмблема и таланты
 
-Фатальность
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/122.webp)
+Эмблема убийцы
 
-Опытный охотник
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/133.webp)
+    Фатальность
 
-Боевой клич
+-   ![](/images/mlbb/talents/122.webp)
 
-### Заклинание
+    Опытный охотник
 
-![](/images/mlbb/spells/20020.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Возмездие
+    Боевой клич
+
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 4,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Бесконечная битва
+    Бесконечная битва
 
-### Эмблема
 
-![](/images/mlbb/emblems/20005.webp)
+#### Заклинание
 
-Эмблема убийцы
+![](/images/mlbb/spells/20020.webp)Возмездие
 
-![](/images/mlbb/talents/1211.webp)
+#### Эмблема и таланты
 
-Фатальность
+![](/images/mlbb/emblems/20012.webp)
 
-![](/images/mlbb/talents/122.webp)
+Эмблема стрелка
 
-Опытный охотник
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Фатальность
 
-Убийственный пир
+-   ![](/images/mlbb/talents/122.webp)
 
-### Заклинание
+    Опытный охотник
 
-![](/images/mlbb/spells/20020.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Возмездие
+    Боевой клич
+
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 4,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Ураган клинков**_›_**Дерзкий клинок**_›_**Повадки зяблика**
 
-![](/images/mlbb/skills/ling-0.webp)Пассивный![](/images/mlbb/skills/ling-1.webp)1-й навык![](/images/mlbb/skills/ling-2.webp)2-й навык![](/images/mlbb/skills/ling-3.webp)Ультимейт
-
-![](/images/mlbb/skills/ling-0.webp)
+![](/images/mlbb/skills/ling-0.webp)Пассивный**Ходок в облаках**![](/images/mlbb/skills/ling-1.webp)1-й навык**Повадки зяблика**![](/images/mlbb/skills/ling-2.webp)2-й навык**Дерзкий клинок**![](/images/mlbb/skills/ling-3.webp)Ультимейт**Ураган клинков**
 
 Пассивный
 
@@ -225,8 +211,6 @@ B
 
 Линг получает х1.6 шанса критического удара от всех источников, но имеет только 140% критического урона.
 
-![](/images/mlbb/skills/ling-1.webp)
-
 1-й навык
 
 ### Повадки зяблика
@@ -234,8 +218,6 @@ B
 **Пассивный:** шанс крита Линга увеличивается на 2.5%.
 
 **Активный:** Линг прыгает на указанную стену и входит в состояние частичной скрытности, восстанавливая очки легкости быстрее и получая 30% скорости передвижения. Получение урона заставляет его выйти из частичной скрытности. Получение контроля заставляет его упасть на землю и замедляет на 30% на 2 сек. При использовании этого навыка для прыжка со стены на другую не активируется перезарядка и обновляется частичная скрытность.
-
-![](/images/mlbb/skills/ling-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ B
 
 "Дерзкий клинок" считается базовой атакой.
 
-![](/images/mlbb/skills/ling-3.webp)
-
 Ультимейт
 
 ### Ураган клинков
@@ -261,33 +241,25 @@ B
 
 По краям поля клинков появятся четыре "Урагана клинков". Линг может коснуться их, чтобы сократить перезарядку "Повадок зяблика" на 4 сек., сбросить перезарядку "Дерзкого клинка" и получить 25 очков легкости.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/dyrroth.webp)Дариус**+1,8**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/joy.webp)Джой**+1,3**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/odette.webp)Одетта**+1,2**](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/masha.webp)Маша**+0,9**](https://boostmlbb.ru/heroes/masha.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## История
 
 > Изящный, свободно парящий зяблик и Боец Востока, унаследовавший силу Красной птицы.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Ling)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=84)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Ling)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=84)
 
 **Поднимем ранг на герое «Линг»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ B
 
 Силён ли герой «Линг» в текущей мете?
 
-Тир B, 39-е место из 133 героев и 6-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 51,8% побед.
+Тир B, 62-е место из 133 героев и 12-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 51,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Линг» лучшая?
 

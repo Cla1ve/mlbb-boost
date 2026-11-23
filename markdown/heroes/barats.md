@@ -1,6 +1,6 @@
 ---
 title: "Бартс MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Бартс в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 51,59% побед, тир B."
+description: "Бартс в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 51,59% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/barats.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Бартс
 
-B
+A
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Искатель приключений верхом на ящере-драконе.
 
 Победы
 
 51,6%
 
-все ранги 51,7%
-
 Выбор
 
 0,8%
 
-все ранги 0,7%
-
 Баны
 
 3,2%
-
-все ранги 3,4%
-
-№37 в тир-листе · №8 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие танки этой линии
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 159,5%Сборка 261,1%Сборка 355,5%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 5,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Кираса грубой силы
+    Крылья королевы
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Крылья королевы
+    Кираса грубой силы
 
-### Эмблема
 
-![](/images/mlbb/emblems/20001.webp)
+#### Заклинание
 
-Обычная эмблема
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20007.webp)
 
-![](/images/mlbb/talents/721.webp)
+Эмблема бойца
 
-Кровавое пиршество
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/731.webp)
+    Трепет
 
-Отвага
+-   ![](/images/mlbb/talents/721.webp)
 
-### Заклинание
+    Кровавое пиршество
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Вспышка
+    Ударная волна
+
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 4,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Крылья королевы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Кираса грубой силы
+    Крылья королевы
 
-### Эмблема
 
-![](/images/mlbb/emblems/20003.webp)
+#### Заклинание
 
-Эмблема танка
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/311.webp)
+#### Эмблема и таланты
 
-Живучесть
+![](/images/mlbb/emblems/20001.webp)
 
-![](/images/mlbb/talents/122.webp)
+Обычная эмблема
 
-Опытный охотник
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/731.webp)
+    Трепет
 
-Отвага
+-   ![](/images/mlbb/talents/721.webp)
 
-### Заклинание
+    Кровавое пиршество
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Вспышка
+    Отвага
+
 
 Победы
 
@@ -209,21 +159,55 @@ B
 
 2,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Живучесть
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Приветствие Детоны**_›_**Командная работа**_›_**Ракетный "эксперт"**
 
-![](/images/mlbb/skills/barats-0.webp)Пассивный![](/images/mlbb/skills/barats-1.webp)1-й навык![](/images/mlbb/skills/barats-2.webp)2-й навык![](/images/mlbb/skills/barats-3.webp)Ультимейт
-
-![](/images/mlbb/skills/barats-0.webp)
+![](/images/mlbb/skills/barats-0.webp)Пассивный**Здоровяк**![](/images/mlbb/skills/barats-1.webp)1-й навык**Командная работа**![](/images/mlbb/skills/barats-2.webp)2-й навык**Ракетный "эксперт"**![](/images/mlbb/skills/barats-3.webp)Ультимейт**Приветствие Детоны**
 
 Пассивный
 
 ### Здоровяк
 
 Детона получает заряд "Здоровяка" на 12 сек. каждый раз, когда он или Бартс наносят урон врагу своими навыками (до 10 зарядов). Каждый заряд "Здоровяка" увеличивает размер Детоны и дает 4 - 10 (зависит от уровня "Приветствия Детоны"). При максимальных зарядах Детона получает 20% дополнительной устойчивости, а его базовые атаки заменяются на "Топот", который наносит (+140% общей физической атаки) (+3.5% Макс. ОЗ) единиц физического урона врагам в круговой области, замедляет их на 40% на 0.2 сек. и обновляет длительность "Здоровяка" с каждым попаданием.
-
-![](/images/mlbb/skills/barats-1.webp)
 
 1-й навык
 
@@ -235,8 +219,6 @@ B
 
 Область действия "Командной работы" увеличивается с количеством зарядов "Здоровяка".
 
-![](/images/mlbb/skills/barats-2.webp)
-
 2-й навык
 
 ### Ракетный "эксперт"
@@ -244,8 +226,6 @@ B
 Перезарядка **11 Mana Cost: 70 с**
 
 Бартс запускает две ракеты в указанном направлении, нанося 100 (+75% общей физической атаки) единиц физического урона и замедляя врагов на 40% на 1 сек. После приземления из ракет вырывается пламя, нанося 100 (+75% общей физической атаки) единиц физического урона врагам в прямоугольной области и притягивая их к Бартсу.
-
-![](/images/mlbb/skills/barats-3.webp)
 
 Ультимейт
 
@@ -259,33 +239,25 @@ B
 
 Если Детона успешно поглотит врага, он сразу получит максимальное количество зарядов "Здоровяка".
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)
+[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/floryn.webp)Флорин**+2,1**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/estes.webp)Эстес**+2,1**](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/sun.webp)Сан**+1,7**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/rafaela.webp)Рафаэль**+1,6**](https://boostmlbb.ru/heroes/rafaela.html)
+[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ## История
 
 > Искатель приключений верхом на ящере-драконе.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Barats)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=99)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Barats)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=99)
 
 **Поднимем ранг на герое «Бартс»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ B
 
 Силён ли герой «Бартс» в текущей мете?
 
-Тир B, 37-е место из 133 героев и 8-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,2% матчей, 51,6% побед.
+Тир A, 24-е место из 133 героев и 8-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,2% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 42,2% катков.
 
 Какая сборка на героя «Бартс» лучшая?
 

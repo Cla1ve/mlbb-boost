@@ -1,6 +1,6 @@
 ---
 title: "Kaja MLBB: build, counters and skills | MLBB Boost"
-description: "Kaja in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 49.61% win rate, tier A."
+description: "Kaja in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 49.61% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kaja.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Kaja
 
-A
+B
 
 ![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
-
-Leader of Nazar who guards the Celestial Palace.
 
 Win rate
 
 49.6%
 
-all ranks 49.8%
-
 Pick rate
 
 0.9%
 
-all ranks 0.6%
-
 Ban rate
 
 31.3%
-
-all ranks 15.9%
-
-#18 in the tier list · #6 among supports · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More supports on this lane
 
-[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 155.8%Build 253.6%Build 355.1%
-
-### Core items
-
-![](/images/mlbb/items/2212.webp)
-
-Thunder Belt
-
-![](/images/mlbb/items/3109.webp)
-
-Fleeting Time
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 14.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Pull Yourself Together
+    Wilderness Blessing
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 10.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Brute Force Breastplate
+    Dominance Ice
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Inspire
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Wilderness Blessing
+    Pull Yourself Together
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 2.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**Divine Binding**_›_**Ring of Order**_›_**Soaring Wings**
 
-![](/images/mlbb/skills/kaja-0.webp)Passive![](/images/mlbb/skills/kaja-1.webp)Skill 1![](/images/mlbb/skills/kaja-2.webp)Skill 2![](/images/mlbb/skills/kaja-3.webp)Ultimate
-
-![](/images/mlbb/skills/kaja-0.webp)
+![](/images/mlbb/skills/kaja-0.webp)Passive**Wings of Lightning**![](/images/mlbb/skills/kaja-1.webp)Skill 1**Ring of Order**![](/images/mlbb/skills/kaja-2.webp)Skill 2**Soaring Wings**![](/images/mlbb/skills/kaja-3.webp)Ultimate**Divine Binding**
 
 Passive
 
 ### Wings of Lightning
 
 Kaja's skill damage applies the Paralysis effect to enemy units, briefly slowing heroes or summoned units and reducing their damage by 8% for 5s.
-
-![](/images/mlbb/skills/kaja-1.webp)
 
 Skill 1
 
@@ -234,8 +218,6 @@ Cooldown **5.5 s**
 Kaja summons a ring of Primal Lightning that expands and returns to him.
 
 Enemies hit take 160 (+70% Total Magic Power) Magic Damage and recover 78 (+45% Total Magic Power) HP to Kaja. Healing from subsequent hits is reduced to 33%.
-
-![](/images/mlbb/skills/kaja-2.webp)
 
 Skill 2
 
@@ -249,8 +231,6 @@ The Soaring state lasts 6.6s. During this time, he ignores obstacles and gains 1
 
 Upon entering the Soaring state, the cooldown of Soaring Wings is reduced to 4s (unaffected by Cooldown Reduction). Hitting an enemy with Soaring Wings extends the Soaring state by 2.6s.
 
-![](/images/mlbb/skills/kaja-3.webp)
-
 Ultimate
 
 ### Divine Binding
@@ -261,33 +241,25 @@ Kaja hurls a Primal Lightning Lasso at the target area. After a 0.5s delay, all 
 
 While active, Kaja can drag the lasso, shrinking its radius and pulling enemies at the boundary along with him (does not interrupt their skills).
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/kalea.webp)Kalea**+4.5**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/aurora.webp)Aurora**+2.9**](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/faramis.webp)Faramis**+2.8**](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/saber.webp)Saber**+2.6**](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
 ## Lore
 
 > Leader of Nazar who guards the Celestial Palace.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/kaja)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=62)
+[Read the full story ↗](https://kazukiofficial.com/stories/kaja)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=62)
 
 **Rank up on Kaja**The calculator shows the price
 
@@ -309,7 +281,7 @@ Support, played on roam.
 
 Is Kaja strong in the current meta?
 
-Tier A, #18 of 133 heroes and #6 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 31.3% of matches, 49.6% win rate.
+Tier B, #30 of 133 heroes and #6 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 31.3% of matches, 49.6% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
 
 What is the best build for Kaja?
 

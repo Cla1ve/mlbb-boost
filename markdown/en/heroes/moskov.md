@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
 
-A warrior of the desert that embraced the darkness to seek his revenge.
-
 Win rate
 
 51.3%
-
-all ranks 50.3%
 
 Pick rate
 
 1.1%
 
-all ranks 0.9%
-
 Ban rate
 
 0.1%
-
-all ranks 0.3%
-
-#38 in the tier list · #5 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 155.5%Build 256.5%Build 352.8%
-
-### Core items
-
-![](/images/mlbb/items/2008.webp)
-
-Corrosion Scythe
-
-![](/images/mlbb/items/2009.webp)
-
-Golden Staff
-
-![](/images/mlbb/items/2006.webp)
-
-Demon Hunter Sword
-
-### Emblem
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
-![](/images/mlbb/talents/112.webp)
-
-Swift
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 8.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Corrosion Scythe
+    Corrosion Scythe
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Golden Staff
+    Golden Staff
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Demon Hunter Sword
+    Demon Hunter Sword
 
-### Emblem
 
-![](/images/mlbb/emblems/20007.webp)
+#### Spell
 
-Fighter
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/112.webp)
+#### Emblem and talents
 
-Swift
+![](/images/mlbb/emblems/20012.webp)
 
-![](/images/mlbb/talents/621.webp)
+Marksman
 
-Bargain Hunter
+-   ![](/images/mlbb/talents/112.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Swift
 
-Quantum Charge
+-   ![](/images/mlbb/talents/621.webp)
 
-### Spell
+    Bargain Hunter
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Flicker
+    Quantum Charge
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 5.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Corrosion Scythe
+    Corrosion Scythe
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Golden Staff
+    Golden Staff
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Demon Hunter Sword
+    Demon Hunter Sword
 
-### Emblem
 
-![](/images/mlbb/emblems/20012.webp)
+#### Spell
 
-Marksman
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/112.webp)
+#### Emblem and talents
 
-Swift
+![](/images/mlbb/emblems/20007.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Fighter
 
-Weapons Master
+-   ![](/images/mlbb/talents/112.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Swift
 
-Quantum Charge
+-   ![](/images/mlbb/talents/621.webp)
 
-### Spell
+    Bargain Hunter
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Flicker
+    Quantum Charge
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 4.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**Spear of Destruction**_›_**Abyss Walker**_›_**Spear of Misery**
 
-![](/images/mlbb/skills/moskov-0.webp)Passive![](/images/mlbb/skills/moskov-1.webp)Skill 1![](/images/mlbb/skills/moskov-2.webp)Skill 2![](/images/mlbb/skills/moskov-3.webp)Ultimate
-
-![](/images/mlbb/skills/moskov-0.webp)
+![](/images/mlbb/skills/moskov-0.webp)Passive**Spear of Quiescence**![](/images/mlbb/skills/moskov-1.webp)Skill 1**Abyss Walker**![](/images/mlbb/skills/moskov-2.webp)Skill 2**Spear of Misery**![](/images/mlbb/skills/moskov-3.webp)Ultimate**Spear of Destruction**
 
 Passive
 
@@ -225,8 +211,6 @@ Moskov's Basic Attacks can penetrate the target and deal (+68% Total Physical At
 
 Each Basic Attack hit reduces the cooldowns of Abyss Walker by 0.8s and Spear of Misery by 0.8s.
 
-![](/images/mlbb/skills/moskov-1.webp)
-
 Skill 1
 
 ### Abyss Walker
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **10 Mana Cost: 50 s**
 
 Moskov teleports to the target location, increasing his Attack Speed to 1.15 times its normal value for 3s. During this time, his Basic Attacks deal (+10% Total Physical Attack) damage to enemies behind the primary target.
-
-![](/images/mlbb/skills/moskov-2.webp)
 
 Skill 2
 
@@ -246,8 +228,6 @@ Cooldown **12 Mana Cost: 90 s**
 Moskov launches a powerful strike at the target enemy hero or creep, dealing 300 (+60% Total Physical Attack) Physical Damage, knocking them back, and revealing their position for 2s.
 
 If the target collides with an enemy hero when knocked back, they'll both take 200 (+30% Total Physical Attack) Physical Damage and be stunned for 1.2s. The target is also stunned for the same duration if they collide with a wall.
-
-![](/images/mlbb/skills/moskov-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ When Spear of Destruction hits an enemy hero, it creates a shadow behind them an
 
 **Use Again:** Moskov casts Abyss Walker from the shadow's location (shares a cooldown with Skill 1).
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harith.webp)Harith**+2.7**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/faramis.webp)Faramis**+2.1**](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/masha.webp)Masha**+1.2**](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/marcel.webp)Marcel**+1.1**](https://boostmlbb.ru/en/heroes/marcel.html)
+[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
 ## Lore
 
 > A warrior of the desert that embraced the darkness to seek his revenge.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Moskov)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=31)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Moskov)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=31)
 
 **Rank up on Moskov**The calculator shows the price
 
@@ -309,7 +281,7 @@ Marksman, played in the Gold Lane.
 
 Is Moskov strong in the current meta?
 
-Tier B, #38 of 133 heroes and #5 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.3% win rate.
+Tier B, #49 of 133 heroes and #8 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.3% win rate. In professional games over the last month the hero is drafted in 7.5% of them.
 
 What is the best build for Moskov?
 

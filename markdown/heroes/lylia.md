@@ -1,6 +1,6 @@
 ---
 title: "Лилия MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лилия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 47,64% побед, тир C."
+description: "Лилия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 47,64% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lylia.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Лилия
 
-C
+B
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Веселая и остроумная маленькая ведьма.
 
 Победы
 
 47,6%
 
-все ранги 49,3%
-
 Выбор
 
 0,5%
 
-все ранги 0,5%
-
 Баны
 
 0,2%
-
-все ранги 0,4%
-
-№106 в тир-листе · №25 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 152,7%Сборка 251,9%Сборка 351,6%
-
-### Предметы
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/2112.webp)
-
-Фонарь желаний
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 8,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Фонарь желаний
+    Фонарь желаний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20140.webp)
-
-Огненный выстрел
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 5,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Фонарь желаний
+    Фонарь желаний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 4,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/2112.webp)
+
+    Фонарь желаний
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Черные башмаки**_›_**Теневая энергия**_›_**Волшебная ударная волна**
 
-![](/images/mlbb/skills/lylia-0.webp)Пассивный![](/images/mlbb/skills/lylia-1.webp)1-й навык![](/images/mlbb/skills/lylia-2.webp)2-й навык![](/images/mlbb/skills/lylia-3.webp)Ультимейт
-
-![](/images/mlbb/skills/lylia-0.webp)
+![](/images/mlbb/skills/lylia-0.webp)Пассивный**Рассерженный Глум**![](/images/mlbb/skills/lylia-1.webp)1-й навык**Волшебная ударная волна**![](/images/mlbb/skills/lylia-2.webp)2-й навык**Теневая энергия**![](/images/mlbb/skills/lylia-3.webp)Ультимейт**Черные башмаки**
 
 Пассивный
 
@@ -224,8 +210,6 @@ C
 Лилия получает силу от Глума, увеличивая свою скорость передвижения на 15%. Каждое улучшение Глума дополнительно увеличивает этот бонус на 5%.
 
 Глум улучшается каждый раз, когда поглощает "Теневую энергию" (до 5 раз). Более высокие уровни увеличивают урон от детонации "Теневой энергии".
-
-![](/images/mlbb/skills/lylia-1.webp)
 
 1-й навык
 
@@ -236,8 +220,6 @@ C
 Лилия посылает Глума ударной волной, нанося 250 (+100% общей магической силы) единиц магического урона врагам по прямой и замедляя их на 30% на 1.5 сек.
 
 Если Глум коснется "Теневой энергии", он поглотит и немедленно взорвет ее.
-
-![](/images/mlbb/skills/lylia-2.webp)
 
 2-й навык
 
@@ -253,8 +235,6 @@ C
 
 Лилия начинает с навыком "Теневая энергия", накапливая один заряд кажд. 6 сек.
 
-![](/images/mlbb/skills/lylia-3.webp)
-
 Ультимейт
 
 ### Черные башмаки
@@ -265,27 +245,19 @@ C
 
 Она также получает 20% скорости передвижения на 2 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zhuxin.webp)Чжусинь**+3,5**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/harley.webp)Харли**+2,4**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/valentina.webp)Валентина**+2,4**](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/natalia.webp)Наталья**+1,3**](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
 
 ## История
 
 > Веселая и остроумная маленькая ведьма.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/lylia)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=86)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/lylia)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=86)
 
 **Поднимем ранг на герое «Лилия»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Лилия» в текущей мете?
 
-Тир C, 106-е место из 133 героев и 25-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,6% побед.
+Тир B, 36-е место из 133 героев и 9-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,6% побед. В профессиональных матчах за месяц героя драфтуют в 37,3% катков.
 
 Какая сборка на героя «Лилия» лучшая?
 

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/jungle.webp)Jungle
 
-A sworn knight who vowed to guard Necrokeep until his last breath.
-
 Win rate
 
 50.0%
-
-all ranks 50.1%
 
 Pick rate
 
 0.3%
 
-all ranks 0.3%
-
 Ban rate
 
 0.2%
-
-all ranks 0.6%
-
-#86 in the tier list · #27 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 156.6%Build 255.1%Build 358.5%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-![](/images/mlbb/items/3004.webp)
-
-Endless Battle
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/531.webp)
-
-Killing Spree
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 21.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Endless Battle
+    Endless Battle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Quantum Charge
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 7.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Endless Battle
+    Endless Battle
 
-### Emblem
 
-![](/images/mlbb/emblems/20012.webp)
+#### Spell
 
-Marksman
+![](/images/mlbb/spells/20020.webp)Retribution
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/122.webp)
+Assassin
 
-Seasoned Hunter
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Thrill
 
-Killing Spree
+-   ![](/images/mlbb/talents/122.webp)
 
-### Spell
+    Seasoned Hunter
 
-![](/images/mlbb/spells/20020.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Retribution
+    Quantum Charge
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Phantom Steed**_›_**Momentum**_›_**Decimation Assault**
 
-![](/images/mlbb/skills/leomord-0.webp)Passive![](/images/mlbb/skills/leomord-1.webp)Skill 1![](/images/mlbb/skills/leomord-2.webp)Skill 2![](/images/mlbb/skills/leomord-3.webp)Ultimate
-
-![](/images/mlbb/skills/leomord-0.webp)
+![](/images/mlbb/skills/leomord-0.webp)Passive**The Oath Keeper**![](/images/mlbb/skills/leomord-1.webp)Skill 1**Momentum**![](/images/mlbb/skills/leomord-2.webp)Skill 2**Decimation Assault**![](/images/mlbb/skills/leomord-3.webp)Ultimate**Phantom Steed**
 
 Passive
 
@@ -227,8 +213,6 @@ Leomord's Basic Attacks cannot normally Crit, and every 1% Crit Chance is conver
 
 **Mounted State:** Each Oath Keeper energy gain is increased by 200%.
 
-![](/images/mlbb/skills/leomord-1.webp)
-
 Skill 1
 
 ### Momentum
@@ -239,8 +223,6 @@ Leomord begins channeling, slowing enemies in the target direction by 25%. When 
 
 **Use Again:** Cast the skill again to cancel the channeling and immediately perform the thrust.
 
-![](/images/mlbb/skills/leomord-2.webp)
-
 Skill 2
 
 ### Decimation Assault
@@ -248,8 +230,6 @@ Skill 2
 Cooldown **12 s**
 
 Leomord charges in a designated direction, dealing 300 (+50% Total Physical Attack) Physical Damage to enemies along the way and slowing them by 30% for 1s.
-
-![](/images/mlbb/skills/leomord-3.webp)
 
 Ultimate
 
@@ -263,33 +243,25 @@ If Barbiel comes in contact with Leomord, they will enter the Mounted State, gai
 
 **Mounted State:** Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area to deal AOE damage. Leomord also gains 70 Movement Speed and 30 . This lasts 10s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/joy.webp)Joy**+3.4**](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/floryn.webp)Floryn**+1.2**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.2**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/diggie.webp)Diggie**+1.2**](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
 ## Lore
 
 > A sworn knight who vowed to guard Necrokeep until his last breath.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Leomord)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=67)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Leomord)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=67)
 
 **Rank up on Leomord**The calculator shows the price
 
@@ -311,7 +283,7 @@ Fighter, played in the jungle.
 
 Is Leomord strong in the current meta?
 
-Tier C, #86 of 133 heroes and #27 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 50.0% win rate.
+Tier C, #100 of 133 heroes and #31 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
 
 What is the best build for Leomord?
 

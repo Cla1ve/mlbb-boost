@@ -1,6 +1,6 @@
 ---
 title: "Фарамис MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фарамис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг и поддержка, 50,74% побед, тир C."
+description: "Фарамис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг и поддержка, 50,74% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/faramis.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Фарамис
 
-C
+D
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/mid.webp)Средняя линия![](/images/mlbb/filters/roam.webp)Роум
-
-Некромант из Некрокипа, решивший найти лекарство от эрозии тумана.
 
 Победы
 
 50,7%
 
-все ранги 50,8%
-
 Выбор
 
 0,1%
 
-все ранги 0,1%
-
 Баны
 
 0,4%
-
-все ранги 0,4%
-
-№100 в тир-листе · №23 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 157,7%Сборка 254,3%Сборка 358,6%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 2,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пронзающий небеса
+    Пылающий жезл
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Пылающий жезл
+    Жезл молний
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Зачарованный талисман
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Благословение природы
+    Мастер оружий
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 1,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пылающий жезл
+    Пронзающий небеса
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Священный кристалл
+    Пылающий жезл
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Кровавые крылья
+    Зачарованный талисман
 
-### Эмблема
 
-![](/images/mlbb/emblems/20005.webp)
+#### Заклинание
 
-Эмблема убийцы
+![](/images/mlbb/spells/20080.webp)Очищение
 
-![](/images/mlbb/talents/511.webp)
+#### Эмблема и таланты
 
-Разрыв
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Эмблема мага
 
-Мастер оружий
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Разрыв
 
-Нечестивая ярость
+-   ![](/images/mlbb/talents/121.webp)
 
-### Заклинание
+    Благословение природы
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Вспышка
+    Смертельное воспламенение
+
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 1,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Кровавые крылья
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Загробное царство**_›_**Призрачный детонатор**_›_**Паническое бегство**
 
-![](/images/mlbb/skills/faramis-0.webp)Пассивный![](/images/mlbb/skills/faramis-1.webp)1-й навык![](/images/mlbb/skills/faramis-2.webp)2-й навык![](/images/mlbb/skills/faramis-3.webp)Ультимейт
-
-![](/images/mlbb/skills/faramis-0.webp)
+![](/images/mlbb/skills/faramis-0.webp)Пассивный**Порочное воскрешение**![](/images/mlbb/skills/faramis-1.webp)1-й навык**Паническое бегство**![](/images/mlbb/skills/faramis-2.webp)2-й навык**Призрачный детонатор**![](/images/mlbb/skills/faramis-3.webp)Ультимейт**Загробное царство**
 
 Пассивный
 
@@ -226,8 +212,6 @@ C
 После смерти он расходует поглощенные части души для сокращения таймера возрождения, где каждая часть сокращает таймер на 3% (до 90%).
 
 Он может получить до 1 части души от одного и того же вражеского героя с помощью навыков раз в 4 сек. Из врагов, погибающих рядом с Фарамисом, также могут выпадать части души.
-
-![](/images/mlbb/skills/faramis-1.webp)
 
 1-й навык
 
@@ -241,8 +225,6 @@ C
 
 Пока навык активен, дальность поглощения частей души увеличена.
 
-![](/images/mlbb/skills/faramis-2.webp)
-
 2-й навык
 
 ### Призрачный детонатор
@@ -250,8 +232,6 @@ C
 Перезарядка **6 Mana Cost: 60 с**
 
 Фарамис собирает загробную энергию в веерообразной области перед собой, нанося 330 (+144% общей магической силы) единиц магического урона врагам в ее пределах. После этого энергия разделится и отскочит к ближайшим врагам, нанося 200 (+86% общей магической силы) единиц магического урона (разделяется до 2 р. при попадании по вражескому герою и 1 р. при попадании по вражескому юниту не-герою).
-
-![](/images/mlbb/skills/faramis-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ C
 
 Фарамис создает вокруг себя загробное царство на 6 сек. Союзные герои в нем (включая его самого) входят в состояние призрака, получая 400 (+ 10 (+5% общей магической силы)%) доп. ОЗ и 50% доп. скорости передвижения на 1 сек. Когда состояние призрака нарушается, герои внутри снимают все дебаффы и входят в состояние воскрешения на 1.3 сек. Состояние призрака немедленно заканчивается, если союзный герой покидает загробное царство.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/kaja.webp)Кайя**+2,8**](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/kalea.webp)Калеа**+2,3**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/moskov.webp)Москов**+2,1**](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/saber.webp)Сабер**+2,0**](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
 > Некромант из Некрокипа, решивший найти лекарство от эрозии тумана.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Faramis)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=76)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Faramis)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=76)
 
 **Поднимем ранг на герое «Фарамис»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Фарамис» в текущей мете?
 
-Тир C, 100-е место из 133 героев и 23-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,7% побед.
+Тир D, 117-е место из 133 героев и 29-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
 
 Какая сборка на героя «Фарамис» лучшая?
 

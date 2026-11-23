@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/mid.webp)Средняя линия![](/images/mlbb/filters/jungle.webp)Лес
 
-Мятежный сын дома Пэксли.
-
 Победы
 
 48,9%
-
-все ранги 48,6%
 
 Выбор
 
 1,1%
 
-все ранги 1,3%
-
 Баны
 
 1,8%
-
-все ранги 3,4%
-
-№58 в тир-листе · №12 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 155,7%Сборка 255,5%
-
-### Предметы
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3102.webp)
-
-Священный кристалл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 3,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Палочка гения
+    Палочка гения
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Священный кристалл
+    Жезл молний
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Жезл молний
+    Священный кристалл
 
-### Эмблема
 
-![](/images/mlbb/emblems/20005.webp)
+#### Заклинание
 
-Эмблема убийцы
+![](/images/mlbb/spells/20070.webp)Окаменение
 
-![](/images/mlbb/talents/511.webp)
+#### Эмблема и таланты
 
-Разрыв
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/821.webp)
+Эмблема мага
 
-Второе дыхание
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/631.webp)
+    Разрыв
 
-Смертельное воспламенение
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Заклинание
+    Мастер оружий
 
-![](/images/mlbb/spells/20070.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Окаменение
+    Смертельное воспламенение
+
 
 Победы
 
@@ -163,21 +113,55 @@ B
 
 1,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Палочка гения
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Безумный накал**_›_**Пытка кинжалами**_›_**Бросок кинжала**
 
-![](/images/mlbb/skills/gusion-0.webp)Пассивный![](/images/mlbb/skills/gusion-1.webp)1-й навык![](/images/mlbb/skills/gusion-2.webp)2-й навык![](/images/mlbb/skills/gusion-3.webp)Ультимейт
-
-![](/images/mlbb/skills/gusion-0.webp)
+![](/images/mlbb/skills/gusion-0.webp)Пассивный**Мастер кинжалов**![](/images/mlbb/skills/gusion-1.webp)1-й навык**Бросок кинжала**![](/images/mlbb/skills/gusion-2.webp)2-й навык**Пытка кинжалами**![](/images/mlbb/skills/gusion-3.webp)Ультимейт**Безумный накал**
 
 Пассивный
 
 ### Мастер кинжалов
 
 Каждое применение навыка добавляет руну к кинжалу Госсена (складывается до 4 раз). Каждый заряд усиливает следующую базовую атаку Госсена, чтобы наносить дополнительный урон, равный 3% от цели, и восстанавливать 50 (+25% общей магической силы) ОЗ для себя.
-
-![](/images/mlbb/skills/gusion-1.webp)
 
 1-й навык
 
@@ -189,8 +173,6 @@ B
 
 **Повторное использование:** Госсен перемещается за спину отмеченного врага, нанося 200 (+100% общей магической силы) единиц магического урона. Этот навык нельзя прервать, пока Госсен движется за спину отмеченного врага.
 
-![](/images/mlbb/skills/gusion-2.webp)
-
 2-й навык
 
 ### Пытка кинжалами
@@ -200,8 +182,6 @@ B
 Госсен бросает несколько кинжалов в указанном направлении, каждый из которых наносит пораженным врагам 100 (+40% общей магической силы) единиц магического урона и замедляет их на 6% на 2 сек. (при попадании нескольких кинжалов эффект замедления может складываться до 30%).
 
 **Повторное использование:** Госсен возвращает кинжалы, каждый из которых наносит 65 (+40% общей магической силы) единиц магического урона врагам на пути.
-
-![](/images/mlbb/skills/gusion-3.webp)
 
 Ультимейт
 
@@ -213,33 +193,25 @@ B
 
 **Повторное использование:** Госсен совершает короткий рывок в указанном направлении.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/roger.webp)Роджер](https://boostmlbb.ru/heroes/roger.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/change.webp)Чан'Э**+1,4**](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/khufra.webp)Хуфра**+1,3**](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/lylia.webp)Лилия**+1,3**](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/zetian.webp)Цзэтянь**+1,2**](https://boostmlbb.ru/heroes/zetian.html)
+[![](/images/heroes/art/roger.webp)Роджер](https://boostmlbb.ru/heroes/roger.html)
 
 ## История
 
 > Мятежный сын дома Пэксли.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Gusion)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=56)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Gusion)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=56)
 
 **Поднимем ранг на герое «Госсен»**Цена считается в калькуляторе
 
@@ -261,7 +233,7 @@ B
 
 Силён ли герой «Госсен» в текущей мете?
 
-Тир B, 58-е место из 133 героев и 12-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 48,9% побед.
+Тир B, 68-е место из 133 героев и 16-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 48,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Госсен» лучшая?
 

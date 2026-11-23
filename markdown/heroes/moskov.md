@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Воин пустыни, принявший тьму в погоне за местью.
-
 Победы
 
 51,3%
-
-все ранги 50,3%
 
 Выбор
 
 1,1%
 
-все ранги 0,9%
-
 Баны
 
 0,1%
-
-все ранги 0,3%
-
-№38 в тир-листе · №5 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 155,5%Сборка 256,5%Сборка 352,8%
-
-### Предметы
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/2009.webp)
-
-Золотой посох
-
-![](/images/mlbb/items/2006.webp)
-
-Меч охотника на демонов
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 8,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Золотой посох
+    Золотой посох
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Меч охотника на демонов
+    Меч охотника на демонов
 
-### Эмблема
 
-![](/images/mlbb/emblems/20007.webp)
+#### Заклинание
 
-Эмблема бойца
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/112.webp)
+#### Эмблема и таланты
 
-Проворность
+![](/images/mlbb/emblems/20012.webp)
 
-![](/images/mlbb/talents/621.webp)
+Эмблема стрелка
 
-Охотник за скидками
+-   ![](/images/mlbb/talents/112.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Проворность
 
-Квантовый заряд
+-   ![](/images/mlbb/talents/621.webp)
 
-### Заклинание
+    Охотник за скидками
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Вспышка
+    Квантовый заряд
+
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 5,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Золотой посох
+    Золотой посох
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Меч охотника на демонов
+    Меч охотника на демонов
 
-### Эмблема
 
-![](/images/mlbb/emblems/20012.webp)
+#### Заклинание
 
-Эмблема стрелка
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/112.webp)
+#### Эмблема и таланты
 
-Проворность
+![](/images/mlbb/emblems/20007.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Эмблема бойца
 
-Мастер оружий
+-   ![](/images/mlbb/talents/112.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Проворность
 
-Квантовый заряд
+-   ![](/images/mlbb/talents/621.webp)
 
-### Заклинание
+    Охотник за скидками
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Вспышка
+    Квантовый заряд
+
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 4,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Золотой посох
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Копье разрушения**_›_**Ходок Бездны**_›_**Копье страдания**
 
-![](/images/mlbb/skills/moskov-0.webp)Пассивный![](/images/mlbb/skills/moskov-1.webp)1-й навык![](/images/mlbb/skills/moskov-2.webp)2-й навык![](/images/mlbb/skills/moskov-3.webp)Ультимейт
-
-![](/images/mlbb/skills/moskov-0.webp)
+![](/images/mlbb/skills/moskov-0.webp)Пассивный**Копье спокойствия**![](/images/mlbb/skills/moskov-1.webp)1-й навык**Ходок Бездны**![](/images/mlbb/skills/moskov-2.webp)2-й навык**Копье страдания**![](/images/mlbb/skills/moskov-3.webp)Ультимейт**Копье разрушения**
 
 Пассивный
 
@@ -225,8 +211,6 @@ B
 
 Каждое попадание базовой атакой сокращает перезарядку навыков "Ходок бездны" на 0.8 сек. и "Копье страдания" на 0.8 сек.
 
-![](/images/mlbb/skills/moskov-1.webp)
-
 1-й навык
 
 ### Ходок Бездны
@@ -234,8 +218,6 @@ B
 Перезарядка **10 Mana Cost: 50 с**
 
 Москов телепортируется в указанное место, увеличивая скорость атаки в 1.15 р. от обычной на 3 сек. В это время его базовые атаки наносят (+10% общей физической атаки) урона врагам позади основной цели.
-
-![](/images/mlbb/skills/moskov-2.webp)
 
 2-й навык
 
@@ -246,8 +228,6 @@ B
 Москов атакует указанного вражеского героя или монстра со всей силы, нанося 300 (+60% общей физической атаки) единиц физического урона, отбрасывая его назад и раскрывая его позицию на 2 сек.
 
 Если отброшенная цель столкнется с другим вражеским героем, то они оба получат 200 (+30% общей физической атаки) единиц физического урона и будут оглушены на 1.2 сек. Если цель столкнется со стеной, то она также будет оглушена на ту же длительность.
-
-![](/images/mlbb/skills/moskov-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ B
 
 **Повторное использование:** Москов применяет "Ходока Бездны" из позиции тени (перезарядка общая с 1-м навыком).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+2,7**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/faramis.webp)Фарамис**+2,1**](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/masha.webp)Маша**+1,2**](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/marcel.webp)Марсель**+1,1**](https://boostmlbb.ru/heroes/marcel.html)
+[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
 ## История
 
 > Воин пустыни, принявший тьму в погоне за местью.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Moskov)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=31)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Moskov)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=31)
 
 **Поднимем ранг на герое «Москов»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ B
 
 Силён ли герой «Москов» в текущей мете?
 
-Тир B, 38-е место из 133 героев и 5-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,3% побед.
+Тир B, 49-е место из 133 героев и 8-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,3% побед. В профессиональных матчах за месяц героя драфтуют в 7,5% катков.
 
 Какая сборка на героя «Москов» лучшая?
 

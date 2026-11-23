@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/roam.webp)Roam
 
-A magical amalgamation of cute, mischievous creatures that dwells deep in the Shadow Swamp.
-
 Win rate
 
 49.9%
-
-all ranks 53.5%
 
 Pick rate
 
 0.8%
 
-all ranks 0.8%
-
 Ban rate
 
 36.4%
-
-all ranks 41.9%
-
-#15 in the tier list · #5 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
+[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 158.0%Build 260.4%Build 361.4%
-
-### Core items
-
-![](/images/mlbb/items/3201.webp)
-
-Cursed Helmet
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3204.webp)
-
-Oracle
-
-### Emblem
-
-![](/images/mlbb/emblems/20001.webp)
-
-Common
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/731.webp)
-
-Brave Smite
-
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 14.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3201.webp)
+-   ![](/images/mlbb/items/3201.webp)
 
-Cursed Helmet
+    Cursed Helmet
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Oracle
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Common
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Brave Smite
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 5.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3201.webp)
+-   ![](/images/mlbb/items/3201.webp)
 
-Cursed Helmet
+    Cursed Helmet
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Oracle
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Common
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Impure Rage
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3201.webp)
+
+    Cursed Helmet
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20001.webp)
+
+Common
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Grab, Grab**_›_**Slam, Slam**_›_**Spread, Spread**
 
-![](/images/mlbb/skills/gloo-0.webp)Passive![](/images/mlbb/skills/gloo-1.webp)Skill 1![](/images/mlbb/skills/gloo-2.webp)Skill 2![](/images/mlbb/skills/gloo-3.webp)Ultimate
-
-![](/images/mlbb/skills/gloo-0.webp)
+![](/images/mlbb/skills/gloo-0.webp)Passive**Stick, Stick**![](/images/mlbb/skills/gloo-1.webp)Skill 1**Slam, Slam**![](/images/mlbb/skills/gloo-2.webp)Skill 2**Spread, Spread**![](/images/mlbb/skills/gloo-3.webp)Ultimate**Grab, Grab**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Gloo's skills apply a stack of Sticky to enemies on hit, decreasing their Movement Speed by 4% for 6s (up to 5 stacks).
 
 Each Sticky stack on an attacker reduces their damage dealt to Gloo by 3%.
-
-![](/images/mlbb/skills/gloo-1.webp)
 
 Skill 1
 
@@ -239,8 +223,6 @@ A Goo is left at the end location, which explodes after 3s, dealing 230 (+11% Ex
 
 Touching the Goo detonates it immediately and resets this skill's cooldown. Gloo also recovers 2.5% if the explosion hits an enemy (doubled if it hits an enemy hero).
 
-![](/images/mlbb/skills/gloo-2.webp)
-
 Skill 2
 
 ### Spread, Spread
@@ -251,8 +233,6 @@ Gloo splits into Goos, dealing 100 (+80% Total Magic Power) Magic Damage to enem
 
 If this skill hits a Goo, Gloo charges toward it, dragging enemies in its path along for a distance.
 
-![](/images/mlbb/skills/gloo-3.webp)
-
 Ultimate
 
 ### Grab, Grab
@@ -261,33 +241,25 @@ Unlocked when an enemy hero reaches max Sticky stacks. Gloo attaches itself to t
 
 While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra Max HP) Magic Damage, and it transfers 60% of the damage it takes (excluding Turret damage) to the host. If the host dies while Gloo is attached, this skill's cooldown is reduced to 5s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/zilong.webp)Zilong**+2.9**](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Helcurt**+2.6**](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Aldous**+2.4**](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/saber.webp)Saber**+2.2**](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
 
 ## Lore
 
 > A magical amalgamation of cute, mischievous creatures that dwells deep in the Shadow Swamp.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Gloo)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=104)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Gloo)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=104)
 
 **Rank up on Gloo**The calculator shows the price
 
@@ -309,7 +281,7 @@ Tank, played in the EXP Lane or on roam.
 
 Is Gloo strong in the current meta?
 
-Tier A, #15 of 133 heroes and #5 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 36.4% of matches, 49.9% win rate.
+Tier A, #18 of 133 heroes and #7 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 36.4% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 26.6% of them.
 
 What is the best build for Gloo?
 

@@ -1,6 +1,6 @@
 ---
 title: "Angela MLBB: build, counters and skills | MLBB Boost"
-description: "Angela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 49.67% win rate, tier A."
+description: "Angela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 49.67% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/angela.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Angela
 
-A
+B
 
 ![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
-
-Artificial human made in Laboratory 1718.
 
 Win rate
 
 49.7%
 
-all ranks 50.0%
-
 Pick rate
 
 2.0%
 
-all ranks 1.8%
-
 Ban rate
 
 10.9%
-
-all ranks 11.9%
-
-#25 in the tier list · #9 among supports · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More supports on this lane
 
-[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 156.8%Build 255.8%Build 356.2%
-
-### Core items
-
-![](/images/mlbb/items/3112.webp)
-
-Flask of the Oasis
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/2106.webp)
-
-Enchanted Talisman
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/831.webp)
-
-Focusing Mark
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 15.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Fleeting Time
+    Glowing Wand
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Glowing Wand
+    Enchanted Talisman
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 9.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Glowing Wand
+    Fleeting Time
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Fleeting Time
+    Glowing Wand
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 4.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Flask of the Oasis
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Focusing Mark
+
+
 ## Skills
 
 Level-up**Heartguard**_›_**Puppet-on-a-String**_›_**Love Waves**
 
-![](/images/mlbb/skills/angela-0.webp)Passive![](/images/mlbb/skills/angela-1.webp)Skill 1![](/images/mlbb/skills/angela-2.webp)Skill 2![](/images/mlbb/skills/angela-3.webp)Ultimate
-
-![](/images/mlbb/skills/angela-0.webp)
+![](/images/mlbb/skills/angela-0.webp)Passive**Smart Heart**![](/images/mlbb/skills/angela-1.webp)Skill 1**Love Waves**![](/images/mlbb/skills/angela-2.webp)Skill 2**Puppet-on-a-String**![](/images/mlbb/skills/angela-3.webp)Ultimate**Heartguard**
 
 Passive
 
 ### Smart Heart
 
 Angela gains 5% extra Movement Speed for 4s each time she casts a skill (up to 20%). When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.
-
-![](/images/mlbb/skills/angela-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Love Waves also restore 150 (+75% Total Magic Power) HP to allied heroes hit. An
 
 When attached to allies, this skill's cooldown is reduced by 50%.
 
-![](/images/mlbb/skills/angela-2.webp)
-
 Skill 2
 
 ### Puppet-on-a-String
@@ -248,8 +230,6 @@ Cooldown **13 Mana Cost: 90 s**
 Angela launches a Puppet String at the target enemy (excluding minions), dealing 300 (+40% Total Magic Power) Magic Damage and gradually slowing them by up to 80%. If the enemy is still connected to the string after 3s, they'll be immobilized for 1.5s and take 450 (+60% Total Magic Power) Magic Damage.
 
 Each stack of Lover's Mark increases the final damage by 20%.
-
-![](/images/mlbb/skills/angela-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Angela begins channeling, applying a 600 (+150% Total Magic Power) shield to the
 
 Angela can cast this skill again to cancel the channeling or detach herself from the allied hero. The attaching state will end early if the allied hero is killed.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)
+[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/gatotkaca.webp)Gatotkaca**+3.7**](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/uranus.webp)Uranus**+3.5**](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/akai.webp)Akai**+3.3**](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/carmilla.webp)Carmilla**+3.3**](https://boostmlbb.ru/en/heroes/carmilla.html)
+[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)
 
 ## Lore
 
 > Artificial human made in Laboratory 1718.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/angela)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=55)
+[Read the full story ↗](https://kazukiofficial.com/stories/angela)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=55)
 
 **Rank up on Angela**The calculator shows the price
 
@@ -309,7 +281,7 @@ Support, played on roam.
 
 Is Angela strong in the current meta?
 
-Tier A, #25 of 133 heroes and #9 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.9% of matches, 49.7% win rate.
+Tier B, #35 of 133 heroes and #9 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.9% of matches, 49.7% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
 
 What is the best build for Angela?
 

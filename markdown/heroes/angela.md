@@ -1,6 +1,6 @@
 ---
 title: "Ангела MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ангела в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 49,67% побед, тир A."
+description: "Ангела в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 49,67% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/angela.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Ангела
 
-A
+B
 
 ![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
-
-Искусственный человек, созданный в Лаборатории 1718.
 
 Победы
 
 49,7%
 
-все ранги 50,0%
-
 Выбор
 
 2,0%
 
-все ранги 1,8%
-
 Баны
 
 10,9%
-
-все ранги 11,9%
-
-№25 в тир-листе · №9 среди героев поддержки · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие герои поддержки этой линии
 
-[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 156,8%Сборка 255,8%Сборка 356,2%
-
-### Предметы
-
-![](/images/mlbb/items/3112.webp)
-
-Фляга Оазиса
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/831.webp)
-
-Фокус-метка
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 15,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Мимолетное время
+    Пылающий жезл
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Пылающий жезл
+    Зачарованный талисман
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Фокус-метка
+    Фокус-метка
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 9,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Пылающий жезл
+    Мимолетное время
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Мимолетное время
+    Пылающий жезл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Фокус-метка
+    Фокус-метка
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ A
 
 4,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Фляга Оазиса
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Фокус-метка
+
+
 ## Навыки
 
 Прокачка**Защитник сердца**_›_**Марионетка**_›_**Волны любви**
 
-![](/images/mlbb/skills/angela-0.webp)Пассивный![](/images/mlbb/skills/angela-1.webp)1-й навык![](/images/mlbb/skills/angela-2.webp)2-й навык![](/images/mlbb/skills/angela-3.webp)Ультимейт
-
-![](/images/mlbb/skills/angela-0.webp)
+![](/images/mlbb/skills/angela-0.webp)Пассивный**Умное сердце**![](/images/mlbb/skills/angela-1.webp)1-й навык**Волны любви**![](/images/mlbb/skills/angela-2.webp)2-й навык**Марионетка**![](/images/mlbb/skills/angela-3.webp)Ультимейт**Защитник сердца**
 
 Пассивный
 
 ### Умное сердце
 
 Каждый раз, когда Ангела использует навык, она получает 5% доп. скорости передвижения на 4 сек. (до 20%). Союзник, к которому она присоединена, также получает бонус к скорости передвижения.
-
-![](/images/mlbb/skills/angela-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ A
 
 Когда Ангела присоединена к союзникам, перезарядка этого навыка сокращается на 50%.
 
-![](/images/mlbb/skills/angela-2.webp)
-
 2-й навык
 
 ### Марионетка
@@ -248,8 +230,6 @@ A
 Ангела запускает нить марионетки в указанного врага (кроме миньонов), нанося 300 (+40% общей магической силы) единиц магического урона и постепенно замедляя его вплоть до 80%. Если через 3 сек. враг еще находится в контакте с нитью, то он будет обездвижен на 1.5 сек. и получит 450 (+60% общей магической силы) единиц магического урона.
 
 Каждый заряд любовной метки увеличивает окончательный урон на 20%.
-
-![](/images/mlbb/skills/angela-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ A
 
 Ангела может использовать навык снова, чтобы прервать подготовку или отсоединиться от союзника. Присоединенное состояние закончится раньше, если союзник умрет.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/gatotkaca.webp)Гатоткача**+3,7**](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/uranus.webp)Уранус**+3,5**](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/akai.webp)Акай**+3,3**](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/carmilla.webp)Кармилла**+3,3**](https://boostmlbb.ru/heroes/carmilla.html)
+[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)
 
 ## История
 
 > Искусственный человек, созданный в Лаборатории 1718.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/angela)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=55)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/angela)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=55)
 
 **Поднимем ранг на герое «Ангела»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ A
 
 Силён ли герой «Ангела» в текущей мете?
 
-Тир A, 25-е место из 133 героев и 9-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,9% матчей, 49,7% побед.
+Тир B, 35-е место из 133 героев и 9-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,9% матчей, 49,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,3% катков.
 
 Какая сборка на героя «Ангела» лучшая?
 

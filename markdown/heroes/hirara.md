@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
 
-Ниндзя-гейша из Алой тени, вооруженная двумя веерами и облаченная в багряный клен и мейсэн. В ее искаженном сознании смерть — это высшее спасение.
-
 Победы
 
 49,5%
-
-все ранги 50,0%
 
 Выбор
 
 0,8%
 
-все ранги 0,6%
-
 Баны
 
 84,7%
-
-все ранги 68,0%
-
-№5 в тир-листе · №1 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 156,0%Сборка 257,2%Сборка 351,4%
-
-### Предметы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 17,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Убийственный пир
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 9,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Топор войны
+    Пронзающий небеса
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Злобный рык
+    Топор войны
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Нечестивая ярость
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 6,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Каэрадзу**_›_**Мэйсэн‑э**
 
-![](/images/mlbb/skills/hirara-0.webp)Пассивный![](/images/mlbb/skills/hirara-1.webp)1-й навык![](/images/mlbb/skills/hirara-2.webp)Ультимейт
-
-![](/images/mlbb/skills/hirara-0.webp)
+![](/images/mlbb/skills/hirara-0.webp)Пассивный**Парные веера: Укифунэ**![](/images/mlbb/skills/hirara-1.webp)1-й навык**Мэйсэн‑э**![](/images/mlbb/skills/hirara-2.webp)Ультимейт**Каэрадзу**
 
 Пассивный
 
@@ -227,8 +213,6 @@ S
 
 Хирара наносит только 30 (+4 × ур. героя)% урона миньонам.
 
-![](/images/mlbb/skills/hirara-1.webp)
-
 1-й навык
 
 ### Мэйсэн‑э
@@ -236,8 +220,6 @@ S
 Перезарядка **10 с**
 
 Хирара скользит по волнам, используя "Мэйсэн‑э", выполняя до двух рывков с помощью джойстика (первый рывок направлен в ту сторону, куда она смотрит). Она наносит 150 (+50% дополнительной физической атаки) единиц физического урона пораженным врагам.
-
-![](/images/mlbb/skills/hirara-2.webp)
 
 Ультимейт
 
@@ -249,27 +231,19 @@ S
 
 После небольшой задержки она снова наносит урон в указанном месте в размере, в 2 р. превышающем первоначальный урон "Багрового клена".
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/angela.webp)Ангела**+2,8**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/joy.webp)Джой**+1,4**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,3**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/floryn.webp)Флорин**+1,1**](https://boostmlbb.ru/heroes/floryn.html)
+[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## История
 
 > Ниндзя-гейша из Алой тени, вооруженная двумя веерами и облаченная в багряный клен и мейсэн. В ее искаженном сознании смерть — это высшее спасение.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/hirara)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=133)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/hirara)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=133)
 
 **Поднимем ранг на герое «Хирара»**Цена считается в калькуляторе
 
@@ -291,7 +265,7 @@ S
 
 Силён ли герой «Хирара» в текущей мете?
 
-Тир S, 5-е место из 133 героев и 1-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 84,7% матчей, 49,5% побед.
+Тир S, 4-е место из 133 героев и 2-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 84,7% матчей, 49,5% побед. В профессиональных матчах за месяц героя драфтуют в 65,0% катков.
 
 Какая сборка на героя «Хирара» лучшая?
 

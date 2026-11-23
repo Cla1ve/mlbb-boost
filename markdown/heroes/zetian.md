@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Признанная небесами и любимая народом, Небесная императрица Речной долины Кадиа восходит на престол, чтобы принести мир в царство смертных.
-
 Победы
 
 50,0%
-
-все ранги 50,9%
 
 Выбор
 
 1,9%
 
-все ранги 1,6%
-
 Баны
 
 3,1%
-
-все ранги 4,7%
-
-№30 в тир-листе · №4 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 157,1%Сборка 257,8%Сборка 357,0%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 12,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Божественный меч
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Благословение природы
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 11,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Мимолетное время
+    Жезл молний
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Жезл молний
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 6,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Ярость феникса**_›_**Удар феникса**_›_**Явление феникса**
 
-![](/images/mlbb/skills/zetian-0.webp)Пассивный![](/images/mlbb/skills/zetian-1.webp)1-й навык![](/images/mlbb/skills/zetian-2.webp)2-й навык![](/images/mlbb/skills/zetian-3.webp)Ультимейт
-
-![](/images/mlbb/skills/zetian-0.webp)
+![](/images/mlbb/skills/zetian-0.webp)Пассивный**Небесное вооружение**![](/images/mlbb/skills/zetian-1.webp)1-й навык**Удар феникса**![](/images/mlbb/skills/zetian-2.webp)2-й навык**Явление феникса**![](/images/mlbb/skills/zetian-3.webp)Ультимейт**Ярость феникса**
 
 Пассивный
 
@@ -224,8 +210,6 @@ A
 **Корона феникса:** когда Цзэтянь поражает вражеских героев навыком "Удар феникса" или "Явление феникса", она получает 1% к вампиризму от навыков на 5 сек. (до 10 зарядов).
 
 **Небесное одеяние:** сила феникса периодически защищает Цзэтянь, отбрасывая и оглушая любого вражеского героя, приближающегося к ней, и нанося ему 90 (+10 × ур. героя) (+50% общей магической силы) единиц магического урона. Она также получает 300 (+20 × ур. героя) (+50% общей магической силы) ед. щита на 3 сек. Перезарядка: 120 сек.
-
-![](/images/mlbb/skills/zetian-1.webp)
 
 1-й навык
 
@@ -239,8 +223,6 @@ A
 
 Процент вампиризма от навыков против миньонов составляет только 65%.
 
-![](/images/mlbb/skills/zetian-2.webp)
-
 2-й навык
 
 ### Явление феникса
@@ -250,8 +232,6 @@ A
 Цзэтянь призывает "Дух феникса" в указанном месте, нанося 150 (+45% общей магической силы) единиц магического урона и ненадолго накладывая 50% эффекта замедления на врагов в области. "Дух феникса" парит в этом месте 3 сек., нанося 20 (+10% общей магической силы) единиц магического урона кажд. 0.5 сек., снижая врагов на 10% и раскрывая область вокруг них.
 
 Пока "Дух феникса" активен, Цзэтянь может использовать этот навык снова, чтобы направить его в указанное место, нанося 150 (+45% общей магической силы) единиц магического урона и ненадолго накладывая 50% эффекта замедления.
-
-![](/images/mlbb/skills/zetian-3.webp)
 
 Ультимейт
 
@@ -263,27 +243,19 @@ A
 
 Цзэтянь может применять другие навыки во время использования этого навыка.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/cyclops.webp)Циклоп**+2,0**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли**+2,0**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/natalia.webp)Наталья**+1,6**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/zhuxin.webp)Чжусинь**+1,3**](https://boostmlbb.ru/heroes/zhuxin.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
 
 ## История
 
 > Признанная небесами и любимая народом, Небесная императрица Речной долины Кадиа восходит на престол, чтобы принести мир в царство смертных.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/zetian)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=129)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/zetian)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=129)
 
 **Поднимем ранг на герое «Цзэтянь»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ A
 
 Силён ли герой «Цзэтянь» в текущей мете?
 
-Тир A, 30-е место из 133 героев и 4-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,1% матчей, 50,0% побед.
+Тир A, 21-е место из 133 героев и 7-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,1% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 39,6% катков.
 
 Какая сборка на героя «Цзэтянь» лучшая?
 

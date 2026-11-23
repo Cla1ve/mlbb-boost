@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/roam.webp)Роум
 
-Всемогущий панда-герой долины Потока.
-
 Победы
 
 49,2%
-
-все ранги 50,2%
 
 Выбор
 
 0,3%
 
-все ранги 0,3%
-
 Баны
 
 0,7%
-
-все ранги 1,1%
-
-№95 в тир-листе · №15 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 155,4%Сборка 256,5%Сборка 355,3%
-
-### Предметы
-
-![](/images/mlbb/items/3109.webp)
-
-Мимолетное время
-
-![](/images/mlbb/items/3202.webp)
-
-Защитный шлем
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 7,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Защитный шлем
+    Мимолетное время
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Господство льда
+    Защитный шлем
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Наплечник наказания
+    Господство льда
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Живучесть
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 3,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Мимолетное время
+    Защитный шлем
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Защитный шлем
+    Господство льда
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Господство льда
+    Наплечник наказания
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Ловкость
+    Живучесть
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 2,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+-   ![](/images/mlbb/items/3202.webp)
+
+    Защитный шлем
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Мощное вращение**_›_**Удар телом**_›_**Удар головой**
 
-![](/images/mlbb/skills/akai-0.webp)Пассивный![](/images/mlbb/skills/akai-1.webp)1-й навык![](/images/mlbb/skills/akai-2.webp)2-й навык![](/images/mlbb/skills/akai-3.webp)Ультимейт
-
-![](/images/mlbb/skills/akai-0.webp)
+![](/images/mlbb/skills/akai-0.webp)Пассивный**Тай-чи**![](/images/mlbb/skills/akai-1.webp)1-й навык**Удар головой**![](/images/mlbb/skills/akai-2.webp)2-й навык**Удар телом**![](/images/mlbb/skills/akai-3.webp)Ультимейт**Мощное вращение**
 
 Пассивный
 
@@ -224,8 +210,6 @@ C
 Акай получает 25 (+5% Макс. ОЗ) щита на 4 сек. при каждом применении навыка.
 
 Его навыки накладывают на цели метку. Его следующая базовая атака по отмеченной цели наносит 35 (+6% Макс. ОЗ) единиц дополнительного физического урона.
-
-![](/images/mlbb/skills/akai-1.webp)
 
 1-й навык
 
@@ -239,8 +223,6 @@ C
 
 Акай может использовать "Удар головой" во время "Мощного вращения", чтобы быстро сменить позицию.
 
-![](/images/mlbb/skills/akai-2.webp)
-
 2-й навык
 
 ### Удар телом
@@ -248,8 +230,6 @@ C
 Перезарядка **7 Mana Cost: 50 с**
 
 Акай бьет своим телом о землю, нанося 270 (+6% Макс. ОЗ) единиц физического урона ближайшим врагам и замедляя их на 45% на 2 сек.
-
-![](/images/mlbb/skills/akai-3.webp)
 
 Ультимейт
 
@@ -263,33 +243,25 @@ C
 
 Этот навык можно прервать только подавлением.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)
+[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/angela.webp)Ангела**+3,3**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/natalia.webp)Наталья**+2,7**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/helcurt.webp)Хелкарт**+2,7**](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/rafaela.webp)Рафаэль**+2,2**](https://boostmlbb.ru/heroes/rafaela.html)
+[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
 ## История
 
 > Всемогущий панда-герой долины Потока.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Akai)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=9)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Akai)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=9)
 
 **Поднимем ранг на герое «Акай»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ C
 
 Силён ли герой «Акай» в текущей мете?
 
-Тир C, 95-е место из 133 героев и 15-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,2% побед.
+Тир C, 111-е место из 133 героев и 19-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Акай» лучшая?
 

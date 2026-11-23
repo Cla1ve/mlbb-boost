@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/roam.webp)Roam
 
-Inheritor of the Power of the Megalith.
-
 Win rate
 
 48.7%
-
-all ranks 51.1%
 
 Pick rate
 
 0.4%
 
-all ranks 0.6%
-
 Ban rate
 
 3.7%
-
-all ranks 13.0%
-
-#73 in the tier list · #12 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)
+[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 158.2%Build 259.0%Build 358.4%
-
-### Core items
-
-![](/images/mlbb/items/2212.webp)
-
-Thunder Belt
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3204.webp)
-
-Oracle
-
-### Emblem
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Chastise Pauldron
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Thrill
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Oracle
+    Chastise Pauldron
 
-### Emblem
 
-![](/images/mlbb/emblems/20008.webp)
+#### Spell
 
-Support
+![](/images/mlbb/spells/20050.webp)Revitalize
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20003.webp)
 
-![](/images/mlbb/talents/121.webp)
+Tank
 
-Wilderness Blessing
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/331.webp)
+    Thrill
 
-Concussive Blast
+-   ![](/images/mlbb/talents/121.webp)
 
-### Spell
+    Wilderness Blessing
 
-![](/images/mlbb/spells/20050.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Revitalize
+    Concussive Blast
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Power of Wildness**_›_**Art of Hunting**_›_**Combat Ritual**
 
-![](/images/mlbb/skills/hilda-0.webp)Passive![](/images/mlbb/skills/hilda-1.webp)Skill 1![](/images/mlbb/skills/hilda-2.webp)Skill 2![](/images/mlbb/skills/hilda-3.webp)Ultimate
-
-![](/images/mlbb/skills/hilda-0.webp)
+![](/images/mlbb/skills/hilda-0.webp)Passive**Blessing of Wilderness**![](/images/mlbb/skills/hilda-1.webp)Skill 1**Combat Ritual**![](/images/mlbb/skills/hilda-2.webp)Skill 2**Art of Hunting**![](/images/mlbb/skills/hilda-3.webp)Ultimate**Power of Wildness**
 
 Passive
 
@@ -225,8 +211,6 @@ Hilda recovers 2% HP per second while in the bush. Entering a bush enhances her 
 
 Hilda's Basic Attack and skills apply a Wilderness Mark on hit, which lasts up to 4s and stacks up to 6 times. Each stack reduces the enemy hero's by 3%.
 
-![](/images/mlbb/skills/hilda-1.webp)
-
 Skill 1
 
 ### Combat Ritual
@@ -235,8 +219,6 @@ Cooldown **10 s**
 
 Hilda gains 60% Movement Speed for 3s and receives a shield that absorbs damage equal to 10% , lasting 3s.
 
-![](/images/mlbb/skills/hilda-2.webp)
-
 Skill 2
 
 ### Art of Hunting
@@ -244,8 +226,6 @@ Skill 2
 Cooldown **7 s**
 
 Hilda locks onto an enemy target, dealing 200 (+90% Total Physical Attack) Physical Damage per hit. This skill can be cast up to 3 times. The 2nd attack deals extra damage to nearby enemies. The 3rd attack deals damage to the target and nearby enemies, knocking them back briefly.
-
-![](/images/mlbb/skills/hilda-3.webp)
 
 Ultimate
 
@@ -257,33 +237,25 @@ Hilda launches a powerful slash at the target enemy, dealing 600 (+250% Extra Ph
 
 Each stack of Wilderness Mark increases Power of Wildness's damage by 2.5% of the target's . At max stacks, the extra damage increases to 20% of the target's .
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)
+[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/silvanna.webp)Silvanna**+2.6**](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/zilong.webp)Zilong**+2.3**](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/minsitthar.webp)Minsitthar**+2.1**](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/vale.webp)Vale**+1.9**](https://boostmlbb.ru/en/heroes/vale.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
 
 ## Lore
 
 > Inheritor of the Power of the Megalith.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Hilda)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=35)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Hilda)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=35)
 
 **Rank up on Hilda**The calculator shows the price
 
@@ -305,7 +277,7 @@ Tank and fighter, played in the EXP Lane or on roam.
 
 Is Hilda strong in the current meta?
 
-Tier C, #73 of 133 heroes and #12 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.7% of matches, 48.7% win rate.
+Tier C, #77 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.7% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 3.5% of them.
 
 What is the best build for Hilda?
 

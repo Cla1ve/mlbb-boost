@@ -1,6 +1,6 @@
 ---
 title: "Chang'e MLBB: build, counters and skills | MLBB Boost"
-description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 45.95% win rate, tier D."
+description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 45.95% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Chang'e
 
-D
+C
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
-
-Naughty and cute disciple of the Great Dragon.
 
 Win rate
 
 46.0%
 
-all ranks 48.2%
-
 Pick rate
 
 0.4%
 
-all ranks 0.6%
-
 Ban rate
 
 0.1%
-
-all ranks 0.3%
-
-#121 in the tier list · #30 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 154.3%Build 252.1%Build 350.6%
-
-### Core items
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Sky Piercer
+    Lightning Truncheon
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 2.1%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Meteor Shower**_›_**Starmoon Shockwave**_›_**Crescent Moon**
 
-![](/images/mlbb/skills/change-0.webp)Passive![](/images/mlbb/skills/change-1.webp)Skill 1![](/images/mlbb/skills/change-2.webp)Skill 2![](/images/mlbb/skills/change-3.webp)Ultimate
-
-![](/images/mlbb/skills/change-0.webp)
+![](/images/mlbb/skills/change-0.webp)Passive**Trouble Maker**![](/images/mlbb/skills/change-1.webp)Skill 1**Starmoon Shockwave**![](/images/mlbb/skills/change-2.webp)Skill 2**Crescent Moon**![](/images/mlbb/skills/change-3.webp)Ultimate**Meteor Shower**
 
 Passive
 
 ### Trouble Maker
 
 Each time Chang'e deals damage to an enemy, she leaves a mark on them that reduces their Movement Speed by 1% (up to 20%).
-
-![](/images/mlbb/skills/change-1.webp)
 
 Skill 1
 
@@ -234,8 +218,6 @@ Cooldown **7 Mana Cost: 60 s**
 Chang'e sends an energy sphere in the target direction, dealing 350 (+130% Total Magic Power) Magic Damage to enemies in its path and slowing them by 10% for 1.5s.
 
 **Crescent Moon:** The Crescent Moon sends 4 extra energy spheres along with Chang'e's, each dealing 20% damage and slowing enemies hit. The slow effect can stack (up to 20%).
-
-![](/images/mlbb/skills/change-2.webp)
 
 Skill 2
 
@@ -249,8 +231,6 @@ Chang'e summons the Crescent Moon, gaining a permanent 300 (+150% Total Magic Po
 
 Each time Chang'e deals Magic Damage with her Basic Attacks or skills, this skill's cooldown is reduced by 0.2s.
 
-![](/images/mlbb/skills/change-3.webp)
-
 Ultimate
 
 ### Meteor Shower
@@ -261,33 +241,25 @@ Chang'e gains 10% Movement Speed for 4s. During this time, she fires 30 meteors 
 
 **Crescent Moon:** Fires meteors alongside Chang'e, each dealing 33% damage.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harley.webp)Harley**+1.9**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/johnson.webp)Johnson**+1.7**](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/franco.webp)Franco**+1.6**](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/jawhead.webp)Jawhead**+1.6**](https://boostmlbb.ru/en/heroes/jawhead.html)
+[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Lore
 
 > Naughty and cute disciple of the Great Dragon.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/chang-e)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=61)
+[Read the full story ↗](https://kazukiofficial.com/stories/chang-e)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=61)
 
 **Rank up on Chang'e**The calculator shows the price
 
@@ -309,7 +281,7 @@ Mage, played in the Mid Lane.
 
 Is Chang'e strong in the current meta?
 
-Tier D, #121 of 133 heroes and #30 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.0% win rate.
+Tier C, #120 of 133 heroes and #30 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Chang'e?
 

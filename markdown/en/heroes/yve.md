@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-Keeper of the equilibrium of the universe.
-
 Win rate
 
 51.9%
-
-all ranks 52.3%
 
 Pick rate
 
 0.1%
 
-all ranks 0.1%
-
 Ban rate
 
 0.0%
-
-all ranks 0.0%
-
-#109 in the tier list · #26 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 158.0%Build 255.7%Build 352.1%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3104.webp)
-
-Ice Queen Wand
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-### Emblem
-
-![](/images/mlbb/emblems/20001.webp)
-
-Common
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/3104.webp)
 
-Wishing Lantern
+    Ice Queen Wand
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Brute Force Breastplate
+    Lightning Truncheon
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Common
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Agility
+    Inspire
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Bargain Hunter
+    Wilderness Blessing
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Genius Wand
+    Wishing Lantern
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Common
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Genius Wand
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20001.webp)
+
+Common
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Real World Manipulation**_›_**Void Blast**_›_**Void Crystal**
 
-![](/images/mlbb/skills/yve-0.webp)Passive![](/images/mlbb/skills/yve-1.webp)Skill 1![](/images/mlbb/skills/yve-2.webp)Skill 2![](/images/mlbb/skills/yve-3.webp)Ultimate
-
-![](/images/mlbb/skills/yve-0.webp)
+![](/images/mlbb/skills/yve-0.webp)Passive**Galactic Power**![](/images/mlbb/skills/yve-1.webp)Skill 1**Void Blast**![](/images/mlbb/skills/yve-2.webp)Skill 2**Void Crystal**![](/images/mlbb/skills/yve-3.webp)Ultimate**Real World Manipulation**
 
 Passive
 
 ### Galactic Power
 
 When Yve deals damage to enemy heroes with her skills, she gains Galactic Power (cooldown: 0.5s), up to 3 stacks. Each stack provides Yve with a 120 (+10 × hero level) (+50% Total Magic Power) shield for 3s.
-
-![](/images/mlbb/skills/yve-1.webp)
 
 Skill 1
 
@@ -235,8 +219,6 @@ Yve detonates Galactic Energy at the target location, dealing 290 (+150% Total M
 
 Successfully hitting an enemy grants Yve 55% extra Movement Speed (halved if a non-hero enemy is hit) that decreases over 1s.
 
-![](/images/mlbb/skills/yve-2.webp)
-
 Skill 2
 
 ### Void Crystal
@@ -246,8 +228,6 @@ Cooldown **14 Mana Cost: 80 s**
 Yve summons a Void Crystal at the target location, dealing 220 (+40% Total Magic Power) Magic Damage to nearby enemies.
 
 **Use Again:** Yve commands the Crystal to fire materialized energy in the target direction for 2.7s, dealing 75 (+10% Total Magic Power) Magic Damage every 0.45s to enemies hit and slowing them by 20%. Enemies hit multiple times are slowed by an extra 4% for each hit after the first hit (up to 40%).
-
-![](/images/mlbb/skills/yve-3.webp)
 
 Ultimate
 
@@ -265,33 +245,25 @@ Enemies leaving or entering the Starfield will be immobilized for 0.8s (only onc
 
 Yve cannot be displaced while the Starfield is active, and the Starfield will remain even if Yve is controlled (except for Suppression).
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/zhuxin.webp)Zhuxin**+9.3**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Valentina**+5.6**](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/kalea.webp)Kalea**+2.9**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/granger.webp)Granger**+2.8**](https://boostmlbb.ru/en/heroes/granger.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)
 
 ## Lore
 
 > Keeper of the equilibrium of the universe.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yve)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=101)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yve)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=101)
 
 **Rank up on Yve**The calculator shows the price
 
@@ -313,7 +285,7 @@ Mage, played in the Mid Lane.
 
 Is Yve strong in the current meta?
 
-Tier C, #109 of 133 heroes and #26 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.9% win rate.
+Tier C, #83 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.9% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
 
 What is the best build for Yve?
 

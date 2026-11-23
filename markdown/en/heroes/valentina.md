@@ -1,6 +1,6 @@
 ---
 title: "Valentina MLBB: build, counters and skills | MLBB Boost"
-description: "Valentina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 44.78% win rate, tier D."
+description: "Valentina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 44.78% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/valentina.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Valentina
 
-D
+B
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
-
-Former head of House Paxley who'd stop at nothing to revive her lover.
 
 Win rate
 
 44.8%
 
-all ranks 44.7%
-
 Pick rate
 
 0.2%
 
-all ranks 0.2%
-
 Ban rate
 
 0.1%
-
-all ranks 0.2%
-
-#128 in the tier list · #32 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 151.0%Build 249.2%Build 352.7%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 7.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Bargain Hunter
+    Wilderness Blessing
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 5.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Blood Wings
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Wilderness Blessing
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 4.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Blood Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**I Am You**_›_**Shadow Strike**_›_**Arcane Shade**
 
-![](/images/mlbb/skills/valentina-0.webp)Passive![](/images/mlbb/skills/valentina-1.webp)Skill 1![](/images/mlbb/skills/valentina-2.webp)Skill 2![](/images/mlbb/skills/valentina-3.webp)Ultimate
-
-![](/images/mlbb/skills/valentina-0.webp)
+![](/images/mlbb/skills/valentina-0.webp)Passive**Primal Force**![](/images/mlbb/skills/valentina-1.webp)Skill 1**Shadow Strike**![](/images/mlbb/skills/valentina-2.webp)Skill 2**Arcane Shade**![](/images/mlbb/skills/valentina-3.webp)Ultimate**I Am You**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Valentina gains 8-50 extra EXP (scales with level) each time she deals damage to an enemy hero. Cooldown: 2s.
 
 If the enemy hero's level is not higher than hers, 30% of the damage dealt is converted into her HP.
-
-![](/images/mlbb/skills/valentina-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Valentina casts Shadow Strike in the target direction, dealing 475 (+145% Total 
 
 Enemy heroes hit are marked with a Shadow Sigil for 4s. Marked enemies hit by Shadow Strike again are Terrified for 1s (a target can only be terrified once every 4s).
 
-![](/images/mlbb/skills/valentina-2.webp)
-
 Skill 2
 
 ### Arcane Shade
@@ -248,8 +230,6 @@ Cooldown **12 Mana Cost: 40 s**
 Valentina dashes in the target direction, firing 3 Shadow Bolts at nearby enemies that deal 90 (+30% Total Magic Power) Magic Damage each. She can cast this skill again within 6s (costs Mana).
 
 Each time a Shadow Bolt hits an enemy, the cooldown of Shadow Strike is reduced by 1s.
-
-![](/images/mlbb/skills/valentina-3.webp)
 
 Ultimate
 
@@ -263,33 +243,25 @@ The stolen Ultimate's level equals Valentina's own Ultimate level, and its coold
 
 If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Power) for the duration. This cannot be used on an enemy Valentina.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/zhuxin.webp)Zhuxin**+7.9**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/yve.webp)Yve**+5.6**](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/granger.webp)Granger**+2.9**](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/lylia.webp)Lylia**+2.4**](https://boostmlbb.ru/en/heroes/lylia.html)
+[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
 > Former head of House Paxley who'd stop at nothing to revive her lover.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Valentina)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=110)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Valentina)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=110)
 
 **Rank up on Valentina**The calculator shows the price
 
@@ -311,7 +283,7 @@ Mage, played in the Mid Lane.
 
 Is Valentina strong in the current meta?
 
-Tier D, #128 of 133 heroes and #32 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 44.8% win rate.
+Tier B, #55 of 133 heroes and #13 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 44.8% win rate. In professional games over the last month the hero is drafted in 32.8% of them.
 
 What is the best build for Valentina?
 

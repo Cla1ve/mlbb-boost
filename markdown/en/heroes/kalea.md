@@ -1,6 +1,6 @@
 ---
 title: "Kalea MLBB: build, counters and skills | MLBB Boost"
-description: "Kalea in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and support, 51.71% win rate, tier A."
+description: "Kalea in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and support, 51.71% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Kalea
 
-A
+S
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
-
-With her serpent tail, this proud descendant of the Great Serpent swims gracefully through the Vonetis Sea, aspiring to one day carry the full power of her heritage.
 
 Win rate
 
 51.7%
 
-all ranks 50.4%
-
 Pick rate
 
 0.9%
 
-all ranks 0.7%
-
 Ban rate
 
 14.7%
-
-all ranks 6.5%
-
-#21 in the tier list · #6 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)
+[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 155.3%Build 251.4%Build 353.9%
-
-### Core items
-
-![](/images/mlbb/items/3204.webp)
-
-Oracle
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3109.webp)
-
-Fleeting Time
-
-### Emblem
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/talents/311.webp)
-
-Vitality
-
-![](/images/mlbb/talents/821.webp)
-
-Pull Yourself Together
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Fleeting Time
+    Oracle
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Oracle
+    Fleeting Time
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/711.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Firmness
+    Vitality
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Pull Yourself Together
+    Pull Yourself Together
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 6.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Oracle
+    Fleeting Time
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Fleeting Time
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/711.webp)
+-   ![](/images/mlbb/talents/711.webp)
 
-Firmness
+    Firmness
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Pull Yourself Together
+    Pull Yourself Together
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Firmness
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Tsunami Slam**_›_**Tidal Strike**_›_**Wavebreaker**
 
-![](/images/mlbb/skills/kalea-0.webp)Passive![](/images/mlbb/skills/kalea-1.webp)Skill 1![](/images/mlbb/skills/kalea-2.webp)Skill 2![](/images/mlbb/skills/kalea-3.webp)Ultimate
-
-![](/images/mlbb/skills/kalea-0.webp)
+![](/images/mlbb/skills/kalea-0.webp)Passive**Surge of Life**![](/images/mlbb/skills/kalea-1.webp)Skill 1**Wavebreaker**![](/images/mlbb/skills/kalea-2.webp)Skill 2**Tidal Strike**![](/images/mlbb/skills/kalea-3.webp)Ultimate**Tsunami Slam**
 
 Passive
 
@@ -231,8 +217,6 @@ After casting a skill, Kalea creates a Water Zone on the ground. When Kalea cast
 
 Control effects can affect Kalea during the third Enhanced Basic Attack, but cannot interrupt it.
 
-![](/images/mlbb/skills/kalea-1.webp)
-
 Skill 1
 
 ### Wavebreaker
@@ -240,8 +224,6 @@ Skill 1
 Cooldown **3.5 s**
 
 Kalea slams her fist into the ground, creating a wave that deals 200 (+5% Max HP) Physical Damage to nearby enemies and slows them by 40% for 1.5s.
-
-![](/images/mlbb/skills/kalea-2.webp)
 
 Skill 2
 
@@ -253,8 +235,6 @@ Kalea charges forward and body slams the first enemy hero she encounters, knocki
 
 If she collides with an obstacle or touches the edge of a Water Zone during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing 150 (+60% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s (unaffected by Resilience).
 
-![](/images/mlbb/skills/kalea-3.webp)
-
 Ultimate
 
 ### Tsunami Slam
@@ -263,27 +243,19 @@ Cooldown **56 s**
 
 Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction (drag the Joystick to change landing spot). She gains Control Immunity during this process. Upon landing, deals 300 (+14% Max HP) Physical Damage to the target and nearby enemies.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/diggie.webp)Diggie**+6.6**](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/floryn.webp)Floryn**+5.9**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/marcel.webp)Marcel**+5.6**](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes**+4.5**](https://boostmlbb.ru/en/heroes/estes.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Lore
 
 > With her serpent tail, this proud descendant of the Great Serpent swims gracefully through the Vonetis Sea, aspiring to one day carry the full power of her heritage.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/kalea)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=128)
+[Read the full story ↗](https://kazukiofficial.com/stories/kalea)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=128)
 
 **Rank up on Kalea**The calculator shows the price
 
@@ -305,7 +277,7 @@ Fighter and support, played on roam.
 
 Is Kalea strong in the current meta?
 
-Tier A, #21 of 133 heroes and #6 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 14.7% of matches, 51.7% win rate.
+Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 14.7% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 99.7% of them.
 
 What is the best build for Kalea?
 

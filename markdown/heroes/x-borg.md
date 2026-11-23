@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Неконтролируемое пламя, что намеревается отомстить Эрудитио.
-
 Победы
 
 49,0%
-
-все ранги 50,0%
 
 Выбор
 
 0,5%
 
-все ранги 0,6%
-
 Баны
 
 0,9%
-
-все ранги 2,0%
-
-№82 в тир-листе · №25 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,2%Сборка 254,9%Сборка 351,7%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 6,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Трепет
+    Ловкость
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 2,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Пронзающий небеса
+    Господство льда
 
-![](/images/mlbb/items/3207.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Бессмертие
+    Кираса грубой силы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Опытный охотник
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 1,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3207.webp)
+
+    Бессмертие
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Последнее безумие**_›_**Огненные ракеты**_›_**Огненный кол**
 
-![](/images/mlbb/skills/x-borg-0.webp)Пассивный![](/images/mlbb/skills/x-borg-1.webp)1-й навык![](/images/mlbb/skills/x-borg-2.webp)2-й навык![](/images/mlbb/skills/x-borg-3.webp)Ультимейт
-
-![](/images/mlbb/skills/x-borg-0.webp)
+![](/images/mlbb/skills/x-borg-0.webp)Пассивный**Доспехи Фирага**![](/images/mlbb/skills/x-borg-1.webp)1-й навык**Огненные ракеты**![](/images/mlbb/skills/x-borg-2.webp)2-й навык**Огненный кол**![](/images/mlbb/skills/x-borg-3.webp)Ультимейт**Последнее безумие**
 
 Пассивный
 
@@ -227,8 +213,6 @@ C
 
 Навыки Икс.Борга наносят чистый урон врагам в состоянии "Перегрева".
 
-![](/images/mlbb/skills/x-borg-1.webp)
-
 1-й навык
 
 ### Огненные ракеты
@@ -239,8 +223,6 @@ C
 
 **Состояние без доспехов:** область атаки становится узкой, но более длинной, а урон снижается до 60%.
 
-![](/images/mlbb/skills/x-borg-2.webp)
-
 2-й навык
 
 ### Огненный кол
@@ -250,8 +232,6 @@ C
 Икс.Борг выпускает 5 огненных кольев и возвращает их через 1.7 сек. Каждый кол наносит 50 (+20% общей физической атаки) единиц физического урона и притягивает к себе врагов и припасы Фирага на обратном пути.
 
 **Состояние без доспехов:** Икс.Борг настраивает пусковую установку для огненных кольев, чтобы увеличить дальность стрельбы и сократить расстояние между ними.
-
-![](/images/mlbb/skills/x-borg-3.webp)
 
 Ультимейт
 
@@ -265,33 +245,25 @@ C
 
 **Повторное использование:** немедленно прекращает распылять огонь и взрывается раньше.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/aldous.webp)Алдос**+2,4**](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/sun.webp)Сан**+2,3**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/hilda.webp)Хильда**+1,7**](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/karrie.webp)Кэрри**+1,6**](https://boostmlbb.ru/heroes/karrie.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
 
 ## История
 
 > Неконтролируемое пламя, что намеревается отомстить Эрудитио.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/x-borg)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=83)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/x-borg)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=83)
 
 **Поднимем ранг на герое «Икс.Борг»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ C
 
 Силён ли герой «Икс.Борг» в текущей мете?
 
-Тир C, 82-е место из 133 героев и 25-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 49,0% побед.
+Тир C, 91-е место из 133 героев и 28-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 49,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,9% катков.
 
 Какая сборка на героя «Икс.Борг» лучшая?
 

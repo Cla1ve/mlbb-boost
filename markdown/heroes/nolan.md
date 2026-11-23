@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
 
-Ученый, который странствует по вселенной с расколотой душой, чтобы спасти свою дочь.
-
 Победы
 
 50,4%
-
-все ранги 49,7%
 
 Выбор
 
 2,7%
 
-все ранги 1,9%
-
 Баны
 
 37,1%
-
-все ранги 16,3%
-
-№8 в тир-листе · №2 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 151,8%Сборка 251,8%Сборка 353,2%
-
-### Предметы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 13,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Смертельное воспламенение
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 13,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Клинок семи морей
+    Удар охотника
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Удар охотника
+    Клинок семи морей
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 6,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Раскол**_›_**Расширение**_›_**Калибровка**
 
-![](/images/mlbb/skills/nolan-0.webp)Пассивный![](/images/mlbb/skills/nolan-1.webp)1-й навык![](/images/mlbb/skills/nolan-2.webp)2-й навык![](/images/mlbb/skills/nolan-3.webp)Ультимейт
-
-![](/images/mlbb/skills/nolan-0.webp)
+![](/images/mlbb/skills/nolan-0.webp)Пассивный**Пространственный разлом**![](/images/mlbb/skills/nolan-1.webp)1-й навык**Расширение**![](/images/mlbb/skills/nolan-2.webp)2-й навык**Калибровка**![](/images/mlbb/skills/nolan-3.webp)Ультимейт**Раскол**
 
 Пассивный
 
@@ -225,8 +211,6 @@ S
 
 **Космический прыжок:** если Нолан не наносит или не получает урон в течение 5 сек., он усиливает свою следующую базовую атаку, чтобы броситься к цели, нанося (+120% общей физической атаки) единиц физического урона и оставляя разлом. (Нолан все равно получает этот эффект, даже если наносит урон по миньонам или монстрам или получает урон от них.)
 
-![](/images/mlbb/skills/nolan-1.webp)
-
 1-й навык
 
 ### Расширение
@@ -234,8 +218,6 @@ S
 Перезарядка **2.5 Energy Cost: 25 с**
 
 Нолан разрезает прямоугольную область перед собой Космическим измерителем, нанося 230 (+40% общей физической атаки) единиц физического урона и оставляя разлом на месте первого пораженного врага.
-
-![](/images/mlbb/skills/nolan-2.webp)
 
 2-й навык
 
@@ -245,8 +227,6 @@ S
 
 Нолан бросается в указанном направлении и режет Космическим измерителем, нанося 70 (+13% общей физической атаки) единиц физического урона врагам на своем пути, оставляя разлом.
 
-![](/images/mlbb/skills/nolan-3.webp)
-
 Ультимейт
 
 ### Раскол
@@ -255,33 +235,25 @@ S
 
 Нолан совершает 3 удара по указанному месту, нанося 120 (+50% дополнительной физической атаки) единиц физического урона каждым ударом, оставляя при этом 3 разлома и замедляя пораженную цель на 30% на 0.5 сек. Разломы активируются автоматически, а тем временем Нолан бросается назад.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/joy.webp)Джой**+2,3**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/yve.webp)Ив**+1,9**](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Чжусинь**+1,8**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Валентина**+1,6**](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## История
 
 > Ученый, который странствует по вселенной с расколотой душой, чтобы спасти свою дочь.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Nolan)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=122)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Nolan)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=122)
 
 **Поднимем ранг на герое «Нолан»**Цена считается в калькуляторе
 
@@ -303,7 +275,7 @@ S
 
 Силён ли герой «Нолан» в текущей мете?
 
-Тир S, 8-е место из 133 героев и 2-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 37,1% матчей, 50,4% побед.
+Тир S, 3-е место из 133 героев и 1-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 37,1% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 82,8% катков.
 
 Какая сборка на героя «Нолан» лучшая?
 

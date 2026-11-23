@@ -1,6 +1,6 @@
 ---
 title: "Циклоп MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Циклоп в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,14% побед, тир B."
+description: "Циклоп в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,14% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/cyclops.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Циклоп
 
-B
+C
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Небесный путешественник по Вселенной.
 
 Победы
 
 51,1%
 
-все ранги 51,7%
-
 Выбор
 
 0,8%
 
-все ранги 0,8%
-
 Баны
 
 0,8%
-
-все ранги 0,8%
-
-№46 в тир-листе · №9 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 158,2%Сборка 261,8%Сборка 357,5%
-
-### Предметы
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 5,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Крылья королевы
+    Пылающий жезл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 4,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Опытный охотник
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ B
 
 3,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Концентрированная энергия
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Звездный капкан**_›_**Атака планет**_›_**Космический удар**
 
-![](/images/mlbb/skills/cyclops-0.webp)Пассивный![](/images/mlbb/skills/cyclops-1.webp)1-й навык![](/images/mlbb/skills/cyclops-2.webp)2-й навык![](/images/mlbb/skills/cyclops-3.webp)Ультимейт
-
-![](/images/mlbb/skills/cyclops-0.webp)
+![](/images/mlbb/skills/cyclops-0.webp)Пассивный**Звездные песочные часы**![](/images/mlbb/skills/cyclops-1.webp)1-й навык**Космический удар**![](/images/mlbb/skills/cyclops-2.webp)2-й навык**Атака планет**![](/images/mlbb/skills/cyclops-3.webp)Ультимейт**Звездный капкан**
 
 Пассивный
 
 ### Звездные песочные часы
 
 Каждый раз, когда Циклоп попадает навыками по врагу, перезарядка всех его навыков сокращается на 0.5 сек.
-
-![](/images/mlbb/skills/cyclops-1.webp)
 
 1-й навык
 
@@ -232,8 +216,6 @@ B
 Перезарядка **7.5 Mana Cost: 50 с**
 
 Циклоп выпускает два диска звездной пыли в указанном направлении, каждый из которых наносит 240 (+60% общей магической силы) единиц магического урона врагам на пути.
-
-![](/images/mlbb/skills/cyclops-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ B
 
 Урон снижается при последующих попаданиях по той же цели.
 
-![](/images/mlbb/skills/cyclops-3.webp)
-
 Ультимейт
 
 ### Звездный капкан
@@ -257,33 +237,25 @@ B
 
 Циклоп создает планетарную сферу, которая преследует указанного вражеского героя или монстра, нанося 500 (+120% общей магической силы) единиц магического урона и обездвиживая его на 0.75-1.5 сек. (зависит от расстояния полета планетарной сферы).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/novaria.webp)Новария**+2,6**](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/nana.webp)Нана**+2,6**](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/kagura.webp)Кагура**+2,4**](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/vale.webp)Вэйл**+2,4**](https://boostmlbb.ru/heroes/vale.html)
+[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## История
 
 > Небесный путешественник по Вселенной.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/cyclops)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=33)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/cyclops)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=33)
 
 **Поднимем ранг на герое «Циклоп»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ B
 
 Силён ли герой «Циклоп» в текущей мете?
 
-Тир B, 46-е место из 133 героев и 9-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 51,1% побед.
+Тир C, 71-е место из 133 героев и 17-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 51,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Циклоп» лучшая?
 

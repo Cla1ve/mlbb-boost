@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
 
-The captain of the Eruditio Rangers who returned to the "pitch" thanks to advanced prosthetics.
-
 Win rate
 
 54.3%
-
-all ranks 53.8%
 
 Pick rate
 
 1.0%
 
-all ranks 0.6%
-
 Ban rate
 
 0.5%
-
-all ranks 0.3%
-
-#24 in the tier list · #2 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 159.7%Build 259.3%Build 361.7%
-
-### Core items
-
-![](/images/mlbb/items/3002.webp)
-
-Haas' Claws
-
-![](/images/mlbb/items/3003.webp)
-
-Berserker's Fury
-
-![](/images/mlbb/items/3015.webp)
-
-Malefic Gun
-
-### Emblem
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
-![](/images/mlbb/talents/1211.webp)
-
-Fatal
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20060.webp)
-
-Aegis
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Haas' Claws
+    Haas' Claws
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Berserker's Fury
+    Berserker's Fury
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Malefic Gun
+    Malefic Gun
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20060.webp)Aegis
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Marksman
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Fatal
+    Fatal
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Haas' Claws
+    Haas' Claws
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Berserker's Fury
+    Berserker's Fury
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Malefic Gun
+    Malefic Gun
 
-### Emblem
 
-![](/images/mlbb/emblems/20007.webp)
+#### Spell
 
-Fighter
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/1211.webp)
+#### Emblem and talents
 
-Fatal
+![](/images/mlbb/emblems/20012.webp)
 
-![](/images/mlbb/talents/621.webp)
+Marksman
 
-Bargain Hunter
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Fatal
 
-Quantum Charge
+-   ![](/images/mlbb/talents/521.webp)
 
-### Spell
+    Master Assassin
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Flicker
+    Quantum Charge
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 4.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Haas' Claws
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+-   ![](/images/mlbb/items/3015.webp)
+
+    Malefic Gun
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**Worldie**_›_**Volley Shot**_›_**Slide**
 
-![](/images/mlbb/skills/bruno-0.webp)Passive![](/images/mlbb/skills/bruno-1.webp)Skill 1![](/images/mlbb/skills/bruno-2.webp)Skill 2![](/images/mlbb/skills/bruno-3.webp)Ultimate
-
-![](/images/mlbb/skills/bruno-0.webp)
+![](/images/mlbb/skills/bruno-0.webp)Passive**Mecha Legs**![](/images/mlbb/skills/bruno-1.webp)Skill 1**Volley Shot**![](/images/mlbb/skills/bruno-2.webp)Skill 2**Slide**![](/images/mlbb/skills/bruno-3.webp)Ultimate**Worldie**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Bruno gains 2.5% extra Crit Chance each time he deals damage with his skills (up to 8 stacks).
 
 Bruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources.
-
-![](/images/mlbb/skills/bruno-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Bruno kicks a Powerball on his next Basic Attack, gaining 1 Movement Speed for 4
 
 The Powerball then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the Powerball for another attack and reduce the cooldown of Slide by 1s.
 
-![](/images/mlbb/skills/bruno-2.webp)
-
 Skill 2
 
 ### Slide
@@ -246,8 +228,6 @@ Skill 2
 Cooldown **9 Mana Cost: 90 s**
 
 Bruno slides forward, briefly stunning enemies along the way, and gaining a Powerball at the end of the dash.
-
-![](/images/mlbb/skills/bruno-3.webp)
 
 Ultimate
 
@@ -259,33 +239,25 @@ Bruno kicks an Energy Ball at a target hero, dealing 200 (+80% Total Physical At
 
 The Energy Ball then bounces among enemy units (up to 10 times), prioritizing enemy heroes. Each bounce deals 100 (+40% Total Physical Attack) Physical Damage.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
+[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harith.webp)Harith**+2.6**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/kalea.webp)Kalea**+1.8**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/zhuxin.webp)Zhuxin**+1.7**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/fanny.webp)Fanny**+1.7**](https://boostmlbb.ru/en/heroes/fanny.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
 
 ## Lore
 
 > The captain of the Eruditio Rangers who returned to the "pitch" thanks to advanced prosthetics.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Bruno)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=12)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Bruno)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=12)
 
 **Rank up on Bruno**The calculator shows the price
 
@@ -307,7 +279,7 @@ Marksman, played in the Gold Lane.
 
 Is Bruno strong in the current meta?
 
-Tier A, #24 of 133 heroes and #2 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 54.3% win rate.
+Tier A, #23 of 133 heroes and #3 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 54.3% win rate. In professional games over the last month the hero is drafted in 37.0% of them.
 
 What is the best build for Bruno?
 

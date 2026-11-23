@@ -1,6 +1,6 @@
 ---
 title: "Халид MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Халид в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,86% побед, тир C."
+description: "Халид в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,86% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/khaleed.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Халид
 
-C
+D
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/roam.webp)Роум
-
-Бесстрашный лидер клана, ходящий по пескам.
 
 Победы
 
 48,9%
 
-все ранги 50,4%
-
 Выбор
 
 0,1%
 
-все ранги 0,1%
-
 Баны
 
 0,1%
-
-все ранги 0,1%
-
-№111 в тир-листе · №36 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)
+[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,7%Сборка 254,3%Сборка 358,5%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3212.webp)
-
-Наплечник наказания
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 4,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/2207.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Шипованная броня
+    Наплечник наказания
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 2,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/2207.webp)
 
-Наплечник наказания
+    Шипованная броня
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 1,9%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Яростная песчаная буря**_›_**Пустынный торнадо**_›_**Песчаный страж**
 
-![](/images/mlbb/skills/khaleed-0.webp)Пассивный![](/images/mlbb/skills/khaleed-1.webp)1-й навык![](/images/mlbb/skills/khaleed-2.webp)2-й навык![](/images/mlbb/skills/khaleed-3.webp)Ультимейт
-
-![](/images/mlbb/skills/khaleed-0.webp)
+![](/images/mlbb/skills/khaleed-0.webp)Пассивный**Ходок по пескам**![](/images/mlbb/skills/khaleed-1.webp)1-й навык**Пустынный торнадо**![](/images/mlbb/skills/khaleed-2.webp)2-й навык**Песчаный страж**![](/images/mlbb/skills/khaleed-3.webp)Ультимейт**Яростная песчаная буря**
 
 Пассивный
 
 ### Ходок по пескам
 
 Во время движения Халид накапливает силу пустыни. При полном заряде силы пустыни он начинает парить на песке, увеличивая свою скорость передвижения на 35%, а его следующая базовая атака нанесет цели 50 (+140% общей физической атаки) единиц физического урона (не может нанести критический урон) и снизит скорость передвижения цели на 40% на 1.5 сек.
-
-![](/images/mlbb/skills/khaleed-1.webp)
 
 1-й навык
 
@@ -234,8 +218,6 @@ C
 Халид размахивает скимитаром, нанося 175 (+130% общей физической атаки) единиц физического урона врагам в области и притягивая их к себе. Этот навык можно использовать до 3 р.
 
 Этот навык наносит 60% урона миньонам и монстрам.
-
-![](/images/mlbb/skills/khaleed-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ C
 
 Это сфокусированное применение. Любые другие эффекты контроля прервут его.
 
-![](/images/mlbb/skills/khaleed-3.webp)
-
 Ультимейт
 
 ### Яростная песчаная буря
@@ -261,33 +241,25 @@ C
 
 Достигнув пункта назначения, Халид ударит по земле, нанося 450 (+160% общей физической атаки) единиц физического урона противникам в области и оглушая их на 1 сек., и полностью зарядит свою силу пустыни.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
+[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/saber.webp)Сабер**+2,5**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/bane.webp)Бэйн**+2,1**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/silvanna.webp)Сильвана**+2,0**](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/minsitthar.webp)Минситтар**+1,9**](https://boostmlbb.ru/heroes/minsitthar.html)
+[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)
 
 ## История
 
 > Бесстрашный лидер клана, ходящий по пескам.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Khaleed)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=98)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Khaleed)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=98)
 
 **Поднимем ранг на герое «Халид»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Халид» в текущей мете?
 
-Тир C, 111-е место из 133 героев и 36-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,9% побед.
+Тир D, 116-е место из 133 героев и 39-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,9% побед. В профессиональных матчах за месяц героя драфтуют в 3,0% катков.
 
 Какая сборка на героя «Халид» лучшая?
 

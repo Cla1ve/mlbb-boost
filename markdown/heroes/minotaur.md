@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
 
-Минойский принц, решивший возродить свои родные земли.
-
 Победы
 
 53,5%
-
-все ранги 53,8%
 
 Выбор
 
 1,4%
 
-все ранги 1,0%
-
 Баны
 
 10,1%
-
-все ранги 8,4%
-
-№14 в тир-листе · №4 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -62,51 +52,11 @@ A
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 160,5%Сборка 263,5%Сборка 357,8%
-
-### Предметы
-
-![](/images/mlbb/items/3112.webp)
-
-Фляга Оазиса
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3205.webp)
-
-Щит Афины
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/311.webp)
-
-Живучесть
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -116,43 +66,43 @@ A
 
 4,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3205.webp)
 
-Наплечник наказания
+    Щит Афины
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Второе дыхание
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -162,43 +112,43 @@ A
 
 2,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Наплечник наказания
+    Наплечник наказания
 
-### Эмблема
 
-![](/images/mlbb/emblems/20003.webp)
+#### Заклинание
 
-Эмблема танка
+![](/images/mlbb/spells/20050.webp)Восстановление
 
-![](/images/mlbb/talents/711.webp)
+#### Эмблема и таланты
 
-Прочность
+![](/images/mlbb/emblems/20008.webp)
 
-![](/images/mlbb/talents/821.webp)
+Эмблема поддержки
 
-Второе дыхание
+-   ![](/images/mlbb/talents/311.webp)
 
-![](/images/mlbb/talents/331.webp)
+    Живучесть
 
-Ударная волна
+-   ![](/images/mlbb/talents/821.webp)
 
-### Заклинание
+    Второе дыхание
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Вспышка
+    Ударная волна
+
 
 Победы
 
@@ -208,13 +158,49 @@ A
 
 2,0%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Фляга Оазиса
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Прочность
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Гнев Минотавра**_›_**Топот отчаяния**_›_**Воодушевляющий рык**
 
-![](/images/mlbb/skills/minotaur-0.webp)Пассивный![](/images/mlbb/skills/minotaur-1.webp)1-й навык![](/images/mlbb/skills/minotaur-2.webp)2-й навык![](/images/mlbb/skills/minotaur-3.webp)Ультимейт
-
-![](/images/mlbb/skills/minotaur-0.webp)
+![](/images/mlbb/skills/minotaur-0.webp)Пассивный**Режим Ярости**![](/images/mlbb/skills/minotaur-1.webp)1-й навык**Топот отчаяния**![](/images/mlbb/skills/minotaur-2.webp)2-й навык**Воодушевляющий рык**![](/images/mlbb/skills/minotaur-3.webp)Ультимейт**Гнев Минотавра**
 
 Пассивный
 
@@ -223,8 +209,6 @@ A
 После использования навыка Минотавр получает "Мотивацию", восстанавливая ОЗ в размере 5 (+1 × ур. героя)% от получаемого урона от вражеских героев в течение 3 сек.
 
 **Состояние ярости:** восстановление ОЗ от "Мотивации" увеличивается на 200%.
-
-![](/images/mlbb/skills/minotaur-1.webp)
 
 1-й навык
 
@@ -236,8 +220,6 @@ A
 
 **В ярости:** увеличивает дальность массовых атак и наносимый урон на 25 (+5% Макс. ОЗ) единиц физического урона.
 
-![](/images/mlbb/skills/minotaur-2.webp)
-
 2-й навык
 
 ### Воодушевляющий рык
@@ -247,8 +229,6 @@ A
 Минотавр лечит себя и ближайшего союзника с наименьшим количеством ОЗ, восстанавливая 220 (+60% общей магической силы) ОЗ обоим. Он также восстанавливает дополнительно 8% от своих потерянных .
 
 **Ярость:** Минотавр лечит себя и всех ближайших союзных героев.
-
-![](/images/mlbb/skills/minotaur-3.webp)
 
 Ультимейт
 
@@ -260,33 +240,25 @@ A
 
 Состояние ярости длится 12 сек. и на время его действия усиливает навыки Минотавра.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/saber.webp)Сабер**+3,3**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/kalea.webp)Калеа**+2,5**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/natalia.webp)Наталья**+2,0**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/arlott.webp)Арлотт**+1,9**](https://boostmlbb.ru/heroes/arlott.html)
+[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
 
 ## История
 
 > Минойский принц, решивший возродить свои родные земли.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/minotaur)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=19)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/minotaur)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=19)
 
 **Поднимем ранг на герое «Минотавр»**Цена считается в калькуляторе
 
@@ -308,7 +280,7 @@ A
 
 Силён ли герой «Минотавр» в текущей мете?
 
-Тир A, 14-е место из 133 героев и 4-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,1% матчей, 53,5% побед.
+Тир A, 27-е место из 133 героев и 9-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 10,1% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 11,3% катков.
 
 Какая сборка на героя «Минотавр» лучшая?
 

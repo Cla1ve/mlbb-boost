@@ -1,6 +1,6 @@
 ---
 title: "Freya MLBB: build, counters and skills | MLBB Boost"
-description: "Freya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.71% win rate, tier A."
+description: "Freya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.71% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Freya
 
-A
+S
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
-
-The Valkyrie who guards the Northern Vale.
 
 Win rate
 
 51.7%
 
-all ranks 49.3%
-
 Pick rate
 
 1.4%
 
-all ranks 0.9%
-
 Ban rate
 
 11.4%
-
-all ranks 4.8%
-
-#20 in the tier list · #5 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 160.1%Build 260.4%Build 358.0%
-
-### Core items
-
-![](/images/mlbb/items/2009.webp)
-
-Golden Staff
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3012.webp)
-
-Rose Gold Meteor
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/133.webp)
-
-War Cry
-
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Golden Staff
+    Golden Staff
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Endless Battle
+    Rose Gold Meteor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-War Cry
+    War Cry
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 5.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Golden Staff
+    Golden Staff
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Corrosion Scythe
+    War Axe
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-War Axe
+    Endless Battle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-War Cry
+    War Cry
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.0%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    War Cry
+
+
 ## Skills
 
 Level-up**Valkyrie Descent**_›_**Valkyrie Slash**_›_**Leap of Faith**
 
-![](/images/mlbb/skills/freya-0.webp)Passive![](/images/mlbb/skills/freya-1.webp)Skill 1![](/images/mlbb/skills/freya-2.webp)Skill 2![](/images/mlbb/skills/freya-3.webp)Ultimate
-
-![](/images/mlbb/skills/freya-0.webp)
+![](/images/mlbb/skills/freya-0.webp)Passive**Power of Einherjar**![](/images/mlbb/skills/freya-1.webp)Skill 1**Leap of Faith**![](/images/mlbb/skills/freya-2.webp)Skill 2**Valkyrie Slash**![](/images/mlbb/skills/freya-3.webp)Ultimate**Valkyrie Descent**
 
 Passive
 
@@ -225,8 +211,6 @@ Freya gains 1 Sacred Orb stack(s) with each Basic Attack (up to 6 stacks). Consu
 
 While out of combat, Sacred Orb stacks are gradually restored.
 
-![](/images/mlbb/skills/freya-1.webp)
-
 Skill 1
 
 ### Leap of Faith
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **8 s**
 
 Freya leaps to the target area and strikes the ground with her shield, gaining 500 (+100% Total Physical Attack) shield and dealing 200 (+80% Extra Physical Attack) Physical Damage to enemies within while knocking them airborne for 0.4s.
-
-![](/images/mlbb/skills/freya-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ Freya charges forward and slashes, dealing 150 (+50% Total Physical Attack) Phys
 
 This skill deals 50% damage to creeps.
 
-![](/images/mlbb/skills/freya-3.webp)
-
 Ultimate
 
 ### Valkyrie Descent
@@ -259,33 +239,25 @@ Freya dives toward the target area, gaining Control Immunity. She deals 300 (+75
 
 Upon landing, Freya enters the Valkyrie state for 10s and gains 30 Movement Speed. Her Basic Attacks deal 100 (+70% Total Physical Attack) Splash Damage (only the bonus Physical Damage can Crit).
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
+[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/zhuxin.webp)Zhuxin**+3.0**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Chip**+2.3**](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/harith.webp)Harith**+2.2**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/yve.webp)Yve**+2.2**](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
 ## Lore
 
 > The Valkyrie who guards the Northern Vale.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=22)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=22)
 
 **Rank up on Freya**The calculator shows the price
 
@@ -307,7 +279,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Freya strong in the current meta?
 
-Tier A, #20 of 133 heroes and #5 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.4% of matches, 51.7% win rate.
+Tier S, #6 of 133 heroes and #3 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.4% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 98.4% of them.
 
 What is the best build for Freya?
 

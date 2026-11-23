@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Проворная тигрица из Бойцов Востока, жизнерадостная юная девушка, владеющая Арбалетом Тана.
-
 Победы
 
 47,1%
-
-все ранги 47,6%
 
 Выбор
 
 0,2%
 
-все ранги 0,1%
-
 Баны
 
 0,1%
-
-все ранги 0,1%
-
-№118 в тир-листе · №21 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,55 +53,11 @@ D
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 149,3%Сборка 257,5%Сборка 358,9%
-
-### Предметы
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/2006.webp)
-
-Меч охотника на демонов
-
-![](/images/mlbb/items/2011.webp)
-
-Ветер природы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/1231.webp)
-
-Точно в цель
-
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -121,47 +67,47 @@ D
 
 3,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Золотой метеор
+    Меч охотника на демонов
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/2011.webp)
 
-Когти Хааса
+    Ветер природы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер-убийца
+    Мастер оружий
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -171,47 +117,47 @@ D
 
 3,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Золотой метеор
+    Золотой метеор
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер оружий
+    Мастер-убийца
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -221,13 +167,53 @@ D
 
 3,0%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Золотой метеор
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Точно в цель
+
+
 ## Навыки
 
 Прокачка**Арбалет Тана** _›_**Путь ласточки**_›_**Иглы в цветах**
 
-![](/images/mlbb/skills/wanwan-0.webp)Пассивный![](/images/mlbb/skills/wanwan-1.webp)1-й навык![](/images/mlbb/skills/wanwan-2.webp)2-й навык![](/images/mlbb/skills/wanwan-3.webp)Ультимейт
-
-![](/images/mlbb/skills/wanwan-0.webp)
+![](/images/mlbb/skills/wanwan-0.webp)Пассивный**Шаг тигра**![](/images/mlbb/skills/wanwan-1.webp)1-й навык**Путь ласточки**![](/images/mlbb/skills/wanwan-2.webp)2-й навык**Иглы в цветах**![](/images/mlbb/skills/wanwan-3.webp)Ультимейт**Арбалет Тана** 
 
 Пассивный
 
@@ -237,8 +223,6 @@ D
 
 Ванван может прыгнуть на небольшое расстояние после каждой стрелы, выпущенной базовой атакой. Скорость прыжка зависит от ее скорости атаки.
 
-![](/images/mlbb/skills/wanwan-1.webp)
-
 1-й навык
 
 ### Путь ласточки
@@ -246,8 +230,6 @@ D
 Перезарядка **12 Mana Cost: 85 с**
 
 Ванван бросает огненную ласточку в указанном направлении, активируя "Шаг тигра" и нанося 120 (+40% общей физической атаки) единиц физического урона врагам на пути. Затем огненная ласточка превращается в 3 кинжала-ласточки, которые после небольшой задержки один за другим возвращаются к Ванван, нанося 120 (+40% общей физической атаки) единиц физического урона врагам на пути и замедляя их на 30% на 1.5 сек. Враги, пораженные кинжалами-ласточками дважды, будут обездвижены на 0.5 сек.
-
-![](/images/mlbb/skills/wanwan-2.webp)
 
 2-й навык
 
@@ -257,8 +239,6 @@ D
 
 Ванван снимает с себя все дебаффы и активирует "Шаг тигра". Тем временем она выбрасывает смертоносные иглы по всем направлениям, нанося пораженным врагам 150 (+60% общей физической атаки) единиц физического урона.
 
-![](/images/mlbb/skills/wanwan-3.webp)
-
 Ультимейт
 
 ### Арбалет Тана 
@@ -267,33 +247,25 @@ D
 
 "Арбалет Тана" можно использовать только на вражеских героев, у которых поражены все уязвимые места. Ванван получает 100% скорости передвижения во время действия. Этот урон считается уроном от базовой атаки, и скорость стрельбы зависит от скорости атаки Ванван.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
+[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+3,6**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа**+2,5**](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/angela.webp)Ангела**+2,0**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/floryn.webp)Флорин**+1,7**](https://boostmlbb.ru/heroes/floryn.html)
+[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## История
 
 > Проворная тигрица из Бойцов Востока, жизнерадостная юная девушка, владеющая Арбалетом Тана.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Wanwan)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=89)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Wanwan)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=89)
 
 **Поднимем ранг на герое «Ванван»**Цена считается в калькуляторе
 
@@ -315,7 +287,7 @@ D
 
 Силён ли герой «Ванван» в текущей мете?
 
-Тир D, 118-е место из 133 героев и 21-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,1% побед.
+Тир D, 124-е место из 133 героев и 22-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,9% катков.
 
 Какая сборка на героя «Ванван» лучшая?
 

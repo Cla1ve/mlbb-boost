@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Молодая девушка, которая стремится восстановить Звездный атлас, чтобы разгадать тайны звезд.
-
 Победы
 
 48,4%
-
-все ранги 49,5%
 
 Выбор
 
 1,1%
 
-все ранги 1,2%
-
 Баны
 
 1,9%
-
-все ранги 3,9%
-
-№63 в тир-листе · №13 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 156,0%Сборка 254,0%Сборка 355,3%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 4,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пронзающий небеса
+    Пылающий жезл
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Священный кристалл
+    Божественный меч
 
-### Эмблема
 
-![](/images/mlbb/emblems/20005.webp)
+#### Заклинание
 
-Эмблема убийцы
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/511.webp)
+#### Эмблема и таланты
 
-Разрыв
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/121.webp)
+Эмблема мага
 
-Благословение природы
+-   ![](/images/mlbb/talents/611.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Вдохновение
 
-Нечестивая ярость
+-   ![](/images/mlbb/talents/121.webp)
 
-### Заклинание
+    Благословение природы
 
-![](/images/mlbb/spells/20140.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Огненный выстрел
+    Нечестивая ярость
+
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 3,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Священный кристалл
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ B
 
 2,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Астральное эхо**_›_**Астральное возвращение**_›_**Астральный метеорит**
 
-![](/images/mlbb/skills/novaria-0.webp)Пассивный![](/images/mlbb/skills/novaria-1.webp)1-й навык![](/images/mlbb/skills/novaria-2.webp)2-й навык![](/images/mlbb/skills/novaria-3.webp)Ультимейт
-
-![](/images/mlbb/skills/novaria-0.webp)
+![](/images/mlbb/skills/novaria-0.webp)Пассивный**Звездный путь**![](/images/mlbb/skills/novaria-1.webp)1-й навык**Астральный метеорит**![](/images/mlbb/skills/novaria-2.webp)2-й навык**Астральное возвращение**![](/images/mlbb/skills/novaria-3.webp)Ультимейт**Астральное эхо**
 
 Пассивный
 
 ### Звездный путь
 
 Астральная сфера непрерывно замедляет ближайших врагов на 20% и раскрывает их местоположение.
-
-![](/images/mlbb/skills/novaria-1.webp)
 
 1-й навык
 
@@ -232,8 +216,6 @@ B
 Перезарядка **8 Mana Cost: 60 с**
 
 Новария призывает астральную сферу в указанное место, нанося 75 (+25% общей магической силы) единиц магического урона кажд. 0.33 сек. и непрерывно замедляя врагов (до 2.5 р.). Через 2 сек. астральная сфера взрывается, нанося 260 (+50% общей магической силы) (+4% от цели) магического урона и замедляя врагов в 2.5 р.
-
-![](/images/mlbb/skills/novaria-2.webp)
 
 2-й навык
 
@@ -245,8 +227,6 @@ B
 
 **Повторное использование:** когда астральная сфера достигает Новарии, она может использовать "Звездный осколок", чтобы запустить ее в указанном направлении в течение 5 сек. При попадании во вражеского героя она наносит 260 (+95% общей магической силы) (+5% от цели) единиц магического урона ему и ближайшим героям. Урон будет увеличиваться в зависимости от расстояния полета астральной сферы (во время притягивания и запуска), до 2.2 р. от первоначального урона.
 
-![](/images/mlbb/skills/novaria-3.webp)
-
 Ультимейт
 
 ### Астральное эхо
@@ -255,27 +235,19 @@ B
 
 Новария распространяет "Астральное эхо" в указанном направлении, ненадолго замедляя пораженных вражеских героев на 50% и накладывая на них астральное кольцо. Это увеличивает их хитбокс в 2.5 р. и раскрывает их местоположение на 5 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/cyclops.webp)Циклоп**+2,6**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Хуфра**+1,3**](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/harley.webp)Харли**+1,2**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/akai.webp)Акай**+1,1**](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
 > Молодая девушка, которая стремится восстановить Звездный атлас, чтобы разгадать тайны звезд.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Novaria)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=119)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Novaria)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=119)
 
 **Поднимем ранг на герое «Новария»**Цена считается в калькуляторе
 
@@ -297,7 +269,7 @@ B
 
 Силён ли герой «Новария» в текущей мете?
 
-Тир B, 63-е место из 133 героев и 13-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 48,4% побед.
+Тир B, 59-е место из 133 героев и 14-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 48,4% побед. В профессиональных матчах за месяц героя драфтуют в 4,5% катков.
 
 Какая сборка на героя «Новария» лучшая?
 

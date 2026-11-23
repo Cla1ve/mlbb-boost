@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Спаситель, который путешествует сквозь время и пространство.
-
 Победы
 
 51,5%
-
-все ранги 51,3%
 
 Выбор
 
 0,4%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,1%
-
-№67 в тир-листе · №14 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 154,4%Сборка 255,6%Сборка 353,4%
-
-### Предметы
-
-![](/images/mlbb/items/2108.webp)
-
-Райское перо
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/1231.webp)
-
-Точно в цель
-
-### Заклинание
-
-![](/images/mlbb/spells/20060.webp)
-
-Эгида
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 23,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Райское перо
+    Райское перо
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20060.webp)Эгида
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 7,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Райское перо
+    Райское перо
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 5,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Райское перо
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Концентрированная энергия
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Точно в цель
+
+
 ## Навыки
 
 Прокачка**Энтропия?**_›_**Суперпозиция**_›_**Вмешательство!**
 
-![](/images/mlbb/skills/natan-0.webp)Пассивный![](/images/mlbb/skills/natan-1.webp)1-й навык![](/images/mlbb/skills/natan-2.webp)2-й навык![](/images/mlbb/skills/natan-3.webp)Ультимейт
-
-![](/images/mlbb/skills/natan-0.webp)
+![](/images/mlbb/skills/natan-0.webp)Пассивный**"Теория всего"**![](/images/mlbb/skills/natan-1.webp)1-й навык**Суперпозиция**![](/images/mlbb/skills/natan-2.webp)2-й навык**Вмешательство!**![](/images/mlbb/skills/natan-3.webp)Ультимейт**Энтропия?**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 Снаряды базовой атаки Натана вернутся к нему после достижения максимальной дальности, нанося дополнительно 30 (+50% общей физической атаки) (+60% общей магической силы) единиц магического урона врагам на пути (наследуется часть эффектов атаки). При попадании по врагу длительность "Запутанности" обновляется.
 
-![](/images/mlbb/skills/natan-1.webp)
-
 1-й навык
 
 ### Суперпозиция
@@ -234,8 +218,6 @@ C
 Перезарядка **8 Mana Cost: 50 с**
 
 Натан стреляет плотной массой энергии в указанном направлении, нанося 225 (+100% общей физической атаки) (+120% общей магической силы) единиц магического урона врагам на пути.
-
-![](/images/mlbb/skills/natan-2.webp)
 
 2-й навык
 
@@ -246,8 +228,6 @@ C
 Натан запускает гравитационный аттрактор в указанном направлении, нанося 150 (+50% общей физической атаки) (+60% общей магической силы) единиц магического урона врагам на пути и отталкивая их.
 
 Аттрактор взрывается в конце дистанции, нанося 30 (+10% общей физической атаки) (+12% общей магической силы) единиц магического урона ближайшим врагам и отталкивая их.
-
-![](/images/mlbb/skills/natan-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ C
 
 Каждое применение снижает оставшуюся перезарядку остальных навыков на 50%. Обратный клон исчезнет, ​​если Натан окажется слишком далеко.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/diggie.webp)Дигги**+4,6**](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/baxia.webp)Баксий**+3,0**](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/faramis.webp)Фарамис**+1,9**](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/fanny.webp)Фанни**+1,8**](https://boostmlbb.ru/heroes/fanny.html)
+[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
 
 ## История
 
 > Спаситель, который путешествует сквозь время и пространство.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Natan)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=107)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Natan)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=107)
 
 **Поднимем ранг на герое «Натан»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Натан» в текущей мете?
 
-Тир C, 67-е место из 133 героев и 14-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,5% побед.
+Тир C, 92-е место из 133 героев и 18-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,5% побед. В профессиональных матчах за месяц героя драфтуют в 1,0% катков.
 
 Какая сборка на героя «Натан» лучшая?
 

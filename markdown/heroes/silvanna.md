@@ -1,6 +1,6 @@
 ---
 title: "Сильвана MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Сильвана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,25% побед, тир B."
+description: "Сильвана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,25% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/silvanna.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Сильвана
 
-B
+C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Принцесса Монийской империи.
 
 Победы
 
 50,3%
 
-все ранги 51,4%
-
 Выбор
 
 0,6%
 
-все ранги 1,0%
-
 Баны
 
 0,7%
-
-все ранги 2,0%
-
-№65 в тир-листе · №19 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 156,9%Сборка 256,6%Сборка 357,4%
-
-### Предметы
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/2108.webp)
-
-Райское перо
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 3,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Палочка гения
+    Палочка гения
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Райское перо
+    Райское перо
 
-![](/images/mlbb/items/2107.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Зимняя корона
+    Концентрированная энергия
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 3,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Райское перо
+    Палочка гения
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Палочка гения
+    Райское перо
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/2107.webp)
 
-Концентрированная энергия
+    Зимняя корона
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Трепет
+    Разрыв
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 1,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Райское перо
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Палочка гения
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Концентрированная энергия
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Имперское правосудие**_›_**Спиральное удушение**_›_**Молниеносное копье**
 
-![](/images/mlbb/skills/silvanna-0.webp)Пассивный![](/images/mlbb/skills/silvanna-1.webp)1-й навык![](/images/mlbb/skills/silvanna-2.webp)2-й навык![](/images/mlbb/skills/silvanna-3.webp)Ультимейт
-
-![](/images/mlbb/skills/silvanna-0.webp)
+![](/images/mlbb/skills/silvanna-0.webp)Пассивный**Рыцарское решение**![](/images/mlbb/skills/silvanna-1.webp)1-й навык**Молниеносное копье**![](/images/mlbb/skills/silvanna-2.webp)2-й навык**Спиральное удушение**![](/images/mlbb/skills/silvanna-3.webp)Ультимейт**Имперское правосудие**
 
 Пассивный
 
@@ -227,8 +213,6 @@ B
 
 Навыки и базовые атаки Сильваны наносят 30% дополнительного урона вражеским героям с максимальным количеством меток.
 
-![](/images/mlbb/skills/silvanna-1.webp)
-
 1-й навык
 
 ### Молниеносное копье
@@ -236,8 +220,6 @@ B
 Перезарядка **11 Mana Cost: 70 с**
 
 Сильвана бросается вперед. Достигнув максимальной дальности или ударив врага, не являющегося миньоном, она взмахивает копьем, нанося 250 (+100% общей магической силы) единиц магического урона ближайшим врагам и оглушая их на 1 сек.
-
-![](/images/mlbb/skills/silvanna-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ B
 
 "Спиральное удушение" считается базовой атакой, но не может нанести критический урон.
 
-![](/images/mlbb/skills/silvanna-3.webp)
-
 Ультимейт
 
 ### Имперское правосудие
@@ -263,33 +243,25 @@ B
 
 Сильвана получает 100% скорости атаки и 40% вампиризма, когда находится в круге.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/hilda.webp)Хильда**+2,6**](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/belerick.webp)Белерик**+2,2**](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/hylos.webp)Хилос**+2,2**](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/lolita.webp)Лолита**+2,0**](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
 ## История
 
 > Принцесса Монийской империи.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/silvanna)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=90)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/silvanna)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=90)
 
 **Поднимем ранг на герое «Сильвана»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ B
 
 Силён ли герой «Сильвана» в текущей мете?
 
-Тир B, 65-е место из 133 героев и 19-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 50,3% побед.
+Тир C, 85-е место из 133 героев и 26-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Сильвана» лучшая?
 

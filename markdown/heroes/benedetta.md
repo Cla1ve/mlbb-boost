@@ -1,6 +1,6 @@
 ---
 title: "Бенедетта MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Бенедетта в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 51,58% побед, тир B."
+description: "Бенедетта в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 51,58% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/benedetta.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Бенедетта
 
-B
+C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Женщина-воин, защищающая Бесплодные земли от вторжения демонов.
 
 Победы
 
 51,6%
 
-все ранги 52,1%
-
 Выбор
 
 0,5%
 
-все ранги 0,4%
-
 Баны
 
 0,3%
-
-все ранги 0,4%
-
-№61 в тир-листе · №18 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 154,6%Сборка 257,4%Сборка 353,0%
-
-### Предметы
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,47 +67,43 @@ B
 
 5,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Удар охотника
+    Злобный рык
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Злобный рык
+    Удар охотника
 
-![](/images/mlbb/items/3008.webp)
 
-Клинок отчаяния
+#### Заклинание
 
-### Эмблема
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -167,43 +113,47 @@ B
 
 4,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-### Эмблема
+-   ![](/images/mlbb/items/3008.webp)
+
+    Клинок отчаяния
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -213,13 +163,49 @@ B
 
 2,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Алекто: финальный удар**_›_**Призрачный удар**_›_**Око за око**
 
-![](/images/mlbb/skills/benedetta-0.webp)Пассивный![](/images/mlbb/skills/benedetta-1.webp)1-й навык![](/images/mlbb/skills/benedetta-2.webp)2-й навык![](/images/mlbb/skills/benedetta-3.webp)Ультимейт
-
-![](/images/mlbb/skills/benedetta-0.webp)
+![](/images/mlbb/skills/benedetta-0.webp)Пассивный**Уходящий день**![](/images/mlbb/skills/benedetta-1.webp)1-й навык**Призрачный удар**![](/images/mlbb/skills/benedetta-2.webp)2-й навык**Око за око**![](/images/mlbb/skills/benedetta-3.webp)Ультимейт**Алекто: финальный удар**
 
 Пассивный
 
@@ -231,8 +217,6 @@ B
 
 Бенедетта также получает "Путь меча", нанося урон базовыми атаками и навыками.
 
-![](/images/mlbb/skills/benedetta-1.webp)
-
 1-й навык
 
 ### Призрачный удар
@@ -242,8 +226,6 @@ B
 Бенедетта оставляет тень и делает шаг назад. После небольшой задержки ее тень атакует врагов в веерообразной области, нанося 200 (+75% общей физической атаки) единиц физического урона и замедляя их на 60% на 0.5 сек.
 
 Тем временем Бенедетта устремляется вперед, нанося 75 (+100% общей физической атаки) единиц физического урона. (Если ее тень попала по цели, урон, наносимый Бенедеттой, будет увеличен до 200%.)
-
-![](/images/mlbb/skills/benedetta-2.webp)
 
 2-й навык
 
@@ -255,8 +237,6 @@ B
 
 Если Бенедетта успешно отразит любой урон во время защиты, то получит полный заряд "Пути меча". Если она отразит любой эффект контроля, то последующим ударом оглушит цель на 1.5 сек.
 
-![](/images/mlbb/skills/benedetta-3.webp)
-
 Ультимейт
 
 ### Алекто: финальный удар
@@ -265,33 +245,25 @@ B
 
 Бенедетта сжимает Алекто, бросается вперед (неуловима для прицела во время рывка) и после небольшой задержки совершает удар, взрывая "Путь меча" на своем пути. В течение 2.5 сек. "Путь меча" наносит до 1560 (+1105% дополнительной физической атаки) единиц физического урона врагам внутри и замедляет их на 50%.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/thamuz.webp)Тамуз**+2,2**](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/fredrinn.webp)Фредрин**+2,0**](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/sun.webp)Сан**+2,0**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/alice.webp)Алиса**+1,9**](https://boostmlbb.ru/heroes/alice.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ## История
 
 > Женщина-воин, защищающая Бесплодные земли от вторжения демонов.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Benedetta)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=97)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Benedetta)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=97)
 
 **Поднимем ранг на герое «Бенедетта»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ B
 
 Силён ли герой «Бенедетта» в текущей мете?
 
-Тир B, 61-е место из 133 героев и 18-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,3% матчей, 51,6% побед.
+Тир C, 81-е место из 133 героев и 23-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,3% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 1,4% катков.
 
 Какая сборка на героя «Бенедетта» лучшая?
 

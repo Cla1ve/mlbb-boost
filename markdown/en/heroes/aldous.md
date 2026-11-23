@@ -1,6 +1,6 @@
 ---
 title: "Aldous MLBB: build, counters and skills | MLBB Boost"
-description: "Aldous in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.35% win rate, tier B."
+description: "Aldous in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.35% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aldous.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Aldous
 
-B
+C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
-
-The guardian of the Minoan Labyrinth.
 
 Win rate
 
 53.4%
 
-all ranks 51.9%
-
 Pick rate
 
 0.4%
 
-all ranks 0.5%
-
 Ban rate
 
 0.3%
-
-all ranks 0.6%
-
-#49 in the tier list · #16 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 158.5%Build 262.0%Build 362.2%
-
-### Core items
-
-![](/images/mlbb/items/3007.webp)
-
-Blade of the Heptaseas
-
-![](/images/mlbb/items/3004.webp)
-
-Endless Battle
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 17.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Thunder Belt
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Dominance Ice
+    Endless Battle
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Endless Battle
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Dominance Ice
+    Thunder Belt
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Endless Battle
+    Dominance Ice
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Rose Gold Meteor
+    Endless Battle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 2.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Rose Gold Meteor
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**Contract: Chase Fate**_›_**Contract: Soul Steal**_›_**Contract: Explosion**
 
-![](/images/mlbb/skills/aldous-0.webp)Passive![](/images/mlbb/skills/aldous-1.webp)Skill 1![](/images/mlbb/skills/aldous-2.webp)Skill 2![](/images/mlbb/skills/aldous-3.webp)Ultimate
-
-![](/images/mlbb/skills/aldous-0.webp)
+![](/images/mlbb/skills/aldous-0.webp)Passive**Contract: Transform**![](/images/mlbb/skills/aldous-1.webp)Skill 1**Contract: Soul Steal**![](/images/mlbb/skills/aldous-2.webp)Skill 2**Contract: Explosion**![](/images/mlbb/skills/aldous-3.webp)Ultimate**Contract: Chase Fate**
 
 Passive
 
 ### Contract: Transform
 
 Every 8s, Aldous gains a shield equal to 350 (+ 3 per Soul Steal stack) for 3s on his next Basic Attack. He also gains 60% Movement Speed for 1s.
-
-![](/images/mlbb/skills/aldous-1.webp)
 
 Skill 1
 
@@ -239,8 +223,6 @@ This attack deals 300% extra Base Damage to minions and creeps. Aldous also gain
 
 Aldous gains 20% Movement Speed while moving toward enemy heroes during this skill.
 
-![](/images/mlbb/skills/aldous-2.webp)
-
 Skill 2
 
 ### Contract: Explosion
@@ -250,8 +232,6 @@ Cooldown **9.5 Mana Cost: 80 s**
 Aldous assumes a defensive stance, gaining 30% Damage Reduction for 2s or until canceled.
 
 He then deals 200 (+20% Total Physical Attack)-400 (+40% Total Physical Attack) Physical Damage to nearby enemies and stuns them for 0.5-1s (scales with defensive stance duration).
-
-![](/images/mlbb/skills/aldous-3.webp)
 
 Ultimate
 
@@ -265,33 +245,25 @@ Aldous gains vision of all enemy heroes for 5s.
 
 Aldous can interrupt the target's Recall while dashing.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/gloo.webp)Gloo**+2.4**](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/x-borg.webp)X.Borg**+2.4**](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/tigreal.webp)Tigreal**+2.2**](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/alice.webp)Alice**+2.1**](https://boostmlbb.ru/en/heroes/alice.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ## Lore
 
 > The guardian of the Minoan Labyrinth.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/aldous)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=64)
+[Read the full story ↗](https://kazukiofficial.com/stories/aldous)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=64)
 
 **Rank up on Aldous**The calculator shows the price
 
@@ -313,7 +285,7 @@ Fighter, played in the EXP Lane.
 
 Is Aldous strong in the current meta?
 
-Tier B, #49 of 133 heroes and #16 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 53.4% win rate.
+Tier C, #82 of 133 heroes and #24 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 53.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Aldous?
 

@@ -1,6 +1,6 @@
 ---
 title: "Грок MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Грок в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 45,69% побед, тир D."
+description: "Грок в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 45,69% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/grock.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Грок
 
-D
+C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/roam.webp)Роум
-
-Каменное создание, пробужденное ото сна.
 
 Победы
 
 45,7%
 
-все ранги 46,6%
-
 Выбор
 
 0,3%
 
-все ранги 0,3%
-
 Баны
 
 0,5%
-
-все ранги 0,7%
-
-№123 в тир-листе · №22 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 151,0%Сборка 254,3%Сборка 354,4%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3210.webp)
-
-Сияющая броня
-
-![](/images/mlbb/items/3212.webp)
-
-Наплечник наказания
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 6,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3210.webp)
 
-Господство льда
+    Сияющая броня
 
-![](/images/mlbb/items/2207.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Шипованная броня
+    Наплечник наказания
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 4,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/2207.webp)
 
-Древняя кираса
+    Шипованная броня
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 2,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3203.webp)
+
+    Древняя кираса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Тектонический рывок**_›_**Могучий взмах**_›_**Земляной вал**
 
-![](/images/mlbb/skills/grock-0.webp)Пассивный![](/images/mlbb/skills/grock-1.webp)1-й навык![](/images/mlbb/skills/grock-2.webp)2-й навык![](/images/mlbb/skills/grock-3.webp)Ультимейт
-
-![](/images/mlbb/skills/grock-0.webp)
+![](/images/mlbb/skills/grock-0.webp)Пассивный**Каменный бастион**![](/images/mlbb/skills/grock-1.webp)1-й навык**Могучий взмах**![](/images/mlbb/skills/grock-2.webp)2-й навык**Земляной вал**![](/images/mlbb/skills/grock-3.webp)Ультимейт**Тектонический рывок**
 
 Пассивный
 
@@ -225,8 +211,6 @@ D
 
 Навыки Грока не могут быть прерваны, и он получает 30 (+6 × ур. героя)% дополнительного , пока активен щит.
 
-![](/images/mlbb/skills/grock-1.webp)
-
 1-й навык
 
 ### Могучий взмах
@@ -234,8 +218,6 @@ D
 Перезарядка **8 с**
 
 Грок совершает мощный удар вперед, нанося 240 (+100% дополнительной физической атаки) единиц физического урона. Враги, за которыми находятся препятствия, отбрасываются к ним, подбрасываются и получают дополнительный физический урон, равный 4 (+2% общей физической защиты)% от (не более 300 (+20 × ур. героя) против юнитов не-героев). Если за врагами нет препятствий, они только немного отбрасываются.
-
-![](/images/mlbb/skills/grock-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ D
 
 **Повторное применение:** стена разрушается досрочно.
 
-![](/images/mlbb/skills/grock-3.webp)
-
 Ультимейт
 
 ### Тектонический рывок
@@ -257,33 +237,25 @@ D
 
 Грок совершает рывок вперед и получает иммунитет к контролю, нанося 100 (+50% общей физической атаки) единиц физического урона врагам на пути. При столкновении с элементами рельефа он останавливается и вызывает мощный взрыв, который подбрасывает ближайших врагов на 1 сек. и наносит 650 (+300% общей физической атаки) единиц физического урона. Если этот навык не попадает по элементам рельефа, возвращается 50% перезарядки.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/saber.webp)Сабер**+2,1**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/natalia.webp)Наталья**+1,9**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/silvanna.webp)Сильвана**+1,7**](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/zilong.webp)Зилонг**+1,7**](https://boostmlbb.ru/heroes/zilong.html)
+[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
 
 ## История
 
 > Каменное создание, пробужденное ото сна.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/grock)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=44)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/grock)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=44)
 
 **Поднимем ранг на герое «Грок»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ D
 
 Силён ли герой «Грок» в текущей мете?
 
-Тир D, 123-е место из 133 героев и 22-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 45,7% побед.
+Тир C, 119-е место из 133 героев и 21-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 45,7% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Грок» лучшая?
 

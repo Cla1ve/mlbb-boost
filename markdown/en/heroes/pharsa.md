@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-Crow Princess of Askati Forest.
-
 Win rate
 
 46.7%
-
-all ranks 47.3%
 
 Pick rate
 
 0.2%
 
-all ranks 0.3%
-
 Ban rate
 
 0.0%
-
-all ranks 0.2%
-
-#120 in the tier list · #29 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 152.0%Build 253.4%Build 352.3%
-
-### Core items
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Glowing Wand
+    Divine Glaive
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Blood Wings
+    Glowing Wand
 
-### Emblem
 
-![](/images/mlbb/emblems/20006.webp)
+#### Spell
 
-Mage
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/511.webp)
+#### Emblem and talents
 
-Rupture
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Assassin
 
-Weapons Master
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/631.webp)
+    Rupture
 
-Lethal Ignition
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Spell
+    Weapons Master
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Flicker
+    Lethal Ignition
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3108.webp)
 
-Blood Wings
+    Blood Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.9%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Blood Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Feathered Air Strike**_›_**Energy Impact**_›_**Curse of Crow**
 
-![](/images/mlbb/skills/pharsa-0.webp)Passive![](/images/mlbb/skills/pharsa-1.webp)Skill 1![](/images/mlbb/skills/pharsa-2.webp)Skill 2![](/images/mlbb/skills/pharsa-3.webp)Skill 3![](/images/mlbb/skills/pharsa-4.webp)Ultimate
-
-![](/images/mlbb/skills/pharsa-0.webp)
+![](/images/mlbb/skills/pharsa-0.webp)Passive**Spiritual Unity**![](/images/mlbb/skills/pharsa-1.webp)Skill 1**Curse of Crow**![](/images/mlbb/skills/pharsa-2.webp)Skill 2**Energy Impact**![](/images/mlbb/skills/pharsa-3.webp)Skill 3**Feathered Air Strike**![](/images/mlbb/skills/pharsa-4.webp)Ultimate**Wings by Wings**
 
 Passive
 
 ### Spiritual Unity
 
 Every 5s to 8s (scales with Feathered Air Strike level), Verri enters the Hunting state. On Pharsa's next attack against an enemy hero, Verri deals extra Magic Damage equal to 8% of the target's (+ 1% per 200 ) and slows them by 60% for 1s.
-
-![](/images/mlbb/skills/pharsa-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ When Pharsa hits a marked enemy with a Basic Attack or active skill, the mark is
 
 Marked enemies will have their positions revealed.
 
-![](/images/mlbb/skills/pharsa-2.webp)
-
 Skill 2
 
 ### Energy Impact
@@ -246,8 +228,6 @@ Skill 2
 Cooldown **6.5 Mana Cost: 60 s**
 
 Pharsa releases magic energy in the target direction, dealing 475 (+145% Total Magic Power) Magic Damage to enemies hit.
-
-![](/images/mlbb/skills/pharsa-3.webp)
 
 Skill 3
 
@@ -259,8 +239,6 @@ Cooldown **36 Mana Cost: 120 s**
 
 **Active:** Pharsa takes flight for 8s and bombards the target area, dealing 530 (+160% Total Magic Power) Magic Damage to enemies within. This skill can be cast up to 4 times during the flight.
 
-![](/images/mlbb/skills/pharsa-4.webp)
-
 Ultimate
 
 ### Wings by Wings
@@ -271,27 +249,19 @@ Pharsa turns into mist and wraps around Verri, gaining 150% extra Movement Speed
 
 This state ends immediately when she is controlled or uses a Basic Attack or skill.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/zhuxin.webp)Zhuxin**+1.9**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Cyclops**+1.7**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley**+1.2**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/marcel.webp)Marcel**+1.1**](https://boostmlbb.ru/en/heroes/marcel.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
 ## Lore
 
 > Crow Princess of Askati Forest.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/pharsa)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=52)
+[Read the full story ↗](https://kazukiofficial.com/stories/pharsa)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=52)
 
 **Rank up on Pharsa**The calculator shows the price
 
@@ -313,7 +283,7 @@ Mage, played in the Mid Lane.
 
 Is Pharsa strong in the current meta?
 
-Tier D, #120 of 133 heroes and #29 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.7% win rate.
+Tier D, #123 of 133 heroes and #31 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.7% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
 
 What is the best build for Pharsa?
 

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
 
-A girl who grew up with Roger's help.
-
 Win rate
 
 49.0%
-
-all ranks 49.1%
 
 Pick rate
 
 0.4%
 
-all ranks 0.3%
-
 Ban rate
 
 0.1%
-
-all ranks 0.3%
-
-#97 in the tier list · #33 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 158.7%Build 256.6%Build 358.3%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-![](/images/mlbb/items/3004.webp)
-
-Endless Battle
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/731.webp)
-
-Brave Smite
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 8.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Oracle
+    Endless Battle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Brave Smite
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 5.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Endless Battle
+    Queen's Wings
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Queen's Wings
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Brave Smite
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 4.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Brave Smite
+
+
 ## Skills
 
 Level-up**I'm Offended!**_›_**Be Good!**_›_**Don't Run, Wolf King!**
 
-![](/images/mlbb/skills/ruby-0.webp)Passive![](/images/mlbb/skills/ruby-1.webp)Skill 1![](/images/mlbb/skills/ruby-2.webp)Skill 2![](/images/mlbb/skills/ruby-3.webp)Ultimate
-
-![](/images/mlbb/skills/ruby-0.webp)
+![](/images/mlbb/skills/ruby-0.webp)Passive**Let's Dance!**![](/images/mlbb/skills/ruby-1.webp)Skill 1**Be Good!**![](/images/mlbb/skills/ruby-2.webp)Skill 2**Don't Run, Wolf King!**![](/images/mlbb/skills/ruby-3.webp)Ultimate**I'm Offended!**
 
 Passive
 
@@ -225,8 +211,6 @@ Ruby's skills have a 75% Spell Vamp Ratio (her Basic Attacks cannot trigger Life
 
 After each skill cast, Ruby can dash to another location and gain 8-25 (scales with level) for 4s (stacks up to 3 times).
 
-![](/images/mlbb/skills/ruby-1.webp)
-
 Skill 1
 
 ### Be Good!
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **4 Mana Cost: 25 s**
 
 Ruby swings her scythe, dealing 280 (+110% Total Physical Attack) Physical Damage to enemies hit. She then unleashes a shockwave in the same direction, dealing 140 (+55% Total Physical Attack) Physical Damage to enemies hit and slowing them by 40% for 1s.
-
-![](/images/mlbb/skills/ruby-2.webp)
 
 Skill 2
 
@@ -245,8 +227,6 @@ Cooldown **7 Mana Cost: 50 s**
 
 Ruby swings her scythe around herself twice, each swing dealing 60 (+55% Total Physical Attack) Physical Damage to nearby enemies, stunning them for 0.5s, and slowly pulling them toward her.
 
-![](/images/mlbb/skills/ruby-3.webp)
-
 Ultimate
 
 ### I'm Offended!
@@ -255,33 +235,25 @@ Cooldown **40 Mana Cost: 80 s**
 
 Ruby sweeps her scythe in the target direction, dealing 600 (+200% Total Physical Attack) Physical Damage to enemies hit, pulling them toward her, and stunning them for 0.5s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/faramis.webp)Faramis**+1.9**](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/bane.webp)Bane**+1.8**](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun**+1.7**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/estes.webp)Estes**+1.3**](https://boostmlbb.ru/en/heroes/estes.html)
+[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
 ## Lore
 
 > A girl who grew up with Roger's help.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/ruby)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=29)
+[Read the full story ↗](https://kazukiofficial.com/stories/ruby)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=29)
 
 **Rank up on Ruby**The calculator shows the price
 
@@ -303,7 +275,7 @@ Fighter, played in the EXP Lane.
 
 Is Ruby strong in the current meta?
 
-Tier C, #97 of 133 heroes and #33 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.0% win rate.
+Tier C, #109 of 133 heroes and #35 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.0% win rate. In professional games over the last month the hero is drafted in 0.8% of them.
 
 What is the best build for Ruby?
 

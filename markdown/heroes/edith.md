@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Забытый страж с запечатанными воспоминаниями.
-
 Победы
 
 52,5%
-
-все ранги 52,7%
 
 Выбор
 
 0,3%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,1%
-
-№69 в тир-листе · №11 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие танки этой линии
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 160,9%Сборка 261,3%Сборка 360,6%
-
-### Предметы
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3210.webp)
-
-Сияющая броня
-
-![](/images/mlbb/items/2108.webp)
-
-Райское перо
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 6,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/3210.webp)
 
-Райское перо
+    Сияющая броня
 
-![](/images/mlbb/items/3210.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Сияющая броня
+    Райское перо
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 3,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3210.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Сияющая броня
+    Райское перо
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/3210.webp)
 
-Райское перо
+    Сияющая броня
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Боевой клич
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 1,9%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3210.webp)
+
+    Сияющая броня
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Райское перо
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
 ## Навыки
 
 Прокачка**Первобытный гнев**_›_**Сотрясение земли**_›_**Вперед**
 
-![](/images/mlbb/skills/edith-0.webp)Пассивный![](/images/mlbb/skills/edith-1.webp)1-й навык![](/images/mlbb/skills/edith-2.webp)2-й навык![](/images/mlbb/skills/edith-3.webp)Ультимейт
-
-![](/images/mlbb/skills/edith-0.webp)
+![](/images/mlbb/skills/edith-0.webp)Пассивный**Перегрузка**![](/images/mlbb/skills/edith-1.webp)1-й навык**Сотрясение земли**![](/images/mlbb/skills/edith-2.webp)2-й навык**Вперед**![](/images/mlbb/skills/edith-3.webp)Ультимейт**Первобытный гнев**
 
 Пассивный
 
@@ -224,8 +210,6 @@ C
 После использования каждого навыка Эдит и Филакс входят в состояние перегрузки на 3 сек., во время которых все базовые атаки вызывают цепную молнию. Она наносит (+20% общей магической силы) (+3 (+0.2 × ур. героя)% от цели) единиц дополнительного магического урона, поражая до 4 врагов.
 
 Урон цепной молнии по миньонам увеличен до 150%.
-
-![](/images/mlbb/skills/edith-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ C
 
 Этот навык можно прервать только подавлением.
 
-![](/images/mlbb/skills/edith-2.webp)
-
 2-й навык
 
 ### Вперед
@@ -248,8 +230,6 @@ C
 Эдит управляет Филакс и совершает рывок в указанном направлении, нанося 90 (+3% Макс. ОЗ) единиц физического урона врагам на пути.
 
 Если Филакс попадает во вражеского героя во время рывка, то немедленно остановится и перебросит его через плечо, нанося 108 (+5% Макс. ОЗ) единиц физического урона.
-
-![](/images/mlbb/skills/edith-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ C
 
 **Активный:** Эдит выходит из Филакс, отталкивая ближайших врагов и взлетая на время до 8 сек. (получая 30 скорости передвижения). В это время она получает новые навыки и может совершать дальние базовые атаки, каждая из которых наносит 35 (+75% общей физической атаки) (+25% общей магической силы) единиц магического урона. Она также получает 350 (+5% Макс. ОЗ) - 350 (+20% Макс. ОЗ) дополнительного щита, 50% - 150% дополнительной скорости атаки и 5% - 20% гибридного вампиризма в зависимости от накопленной ярости, а также преобразует каждое очко дополнительной и дополнительной в 3.5 .
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/natalia.webp)Наталья**+2,0**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/estes.webp)Эстес**+1,8**](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/saber.webp)Сабер**+1,4**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт**+1,3**](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## История
 
 > Забытый страж с запечатанными воспоминаниями.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Edith)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=111)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Edith)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=111)
 
 **Поднимем ранг на герое «Эдит»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Эдит» в текущей мете?
 
-Тир C, 69-е место из 133 героев и 11-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 52,5% побед.
+Тир C, 99-е место из 133 героев и 16-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 52,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Эдит» лучшая?
 

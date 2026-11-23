@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/roam.webp)Roam
 
-Leader of the Light's Order, guardian of the Moniyan Empire.
-
 Win rate
 
 45.0%
-
-all ranks 45.2%
 
 Pick rate
 
 1.6%
 
-all ranks 2.0%
-
 Ban rate
 
 4.7%
-
-all ranks 7.4%
-
-#91 in the tier list · #13 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -62,51 +52,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 148.4%Build 249.1%Build 349.4%
-
-### Core items
-
-![](/images/mlbb/items/3109.webp)
-
-Fleeting Time
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3205.webp)
-
-Athena's Shield
-
-### Emblem
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/821.webp)
-
-Pull Yourself Together
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -116,43 +66,43 @@ Pick rate
 
 8.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Dominance Ice
+    Fleeting Time
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Fleeting Time
+    Dominance Ice
 
-![](/images/mlbb/items/3205.webp)
+-   ![](/images/mlbb/items/3205.webp)
 
-Athena's Shield
+    Athena's Shield
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Pull Yourself Together
+    Pull Yourself Together
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -162,43 +112,43 @@ Pick rate
 
 7.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Fleeting Time
+    Dominance Ice
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Dominance Ice
+    Fleeting Time
 
-![](/images/mlbb/items/3210.webp)
+-   ![](/images/mlbb/items/3205.webp)
 
-Radiant Armor
+    Athena's Shield
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Pull Yourself Together
+    Pull Yourself Together
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -208,13 +158,49 @@ Pick rate
 
 3.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3210.webp)
+
+    Radiant Armor
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Implosion**_›_**Attack Wave**_›_**Sacred Hammer**
 
-![](/images/mlbb/skills/tigreal-0.webp)Passive![](/images/mlbb/skills/tigreal-1.webp)Skill 1![](/images/mlbb/skills/tigreal-2.webp)Skill 2![](/images/mlbb/skills/tigreal-3.webp)Ultimate
-
-![](/images/mlbb/skills/tigreal-0.webp)
+![](/images/mlbb/skills/tigreal-0.webp)Passive**Fearless**![](/images/mlbb/skills/tigreal-1.webp)Skill 1**Attack Wave**![](/images/mlbb/skills/tigreal-2.webp)Skill 2**Sacred Hammer**![](/images/mlbb/skills/tigreal-3.webp)Ultimate**Implosion**
 
 Passive
 
@@ -226,8 +212,6 @@ He also gains 1 stack of Fearless each time he casts a skill.
 
 Damage from minions does not add or consume Fearless stacks.
 
-![](/images/mlbb/skills/tigreal-1.webp)
-
 Skill 1
 
 ### Attack Wave
@@ -235,8 +219,6 @@ Skill 1
 Cooldown **7 Mana Cost: 45 s**
 
 Tigreal smashes the ground with his hammer, sending a shockwave that erupts 3 times in a fan-shaped area. Each eruption deals 270 (+70% Total Physical Attack) Physical Damage to enemies hit and slows them by 20% / 40% / 60% for 1.5s.
-
-![](/images/mlbb/skills/tigreal-2.webp)
 
 Skill 2
 
@@ -248,8 +230,6 @@ Tigreal charges in the target direction, dealing (+100% Total Physical Attack) P
 
 **Use Again:** Tigreal can use this skill again within 4s, dealing 280 (+60% Total Physical Attack) Physical Damage to enemies in front of him and knocking them airborne for 0.6s.
 
-![](/images/mlbb/skills/tigreal-3.webp)
-
 Ultimate
 
 ### Implosion
@@ -260,33 +240,25 @@ Tigreal unleashes the power of his hammer, pulling nearby enemies to him, dealin
 
 The first half of the channeling can be interrupted by control effects, while the second half can only be interrupted by Suppression.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/floryn.webp)Floryn**+5.0**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/angela.webp)Angela**+2.2**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/aldous.webp)Aldous**+2.2**](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/zilong.webp)Zilong**+2.0**](https://boostmlbb.ru/en/heroes/zilong.html)
+[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)
 
 ## Lore
 
 > Leader of the Light's Order, guardian of the Moniyan Empire.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Tigreal)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=6)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Tigreal)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=6)
 
 **Rank up on Tigreal**The calculator shows the price
 
@@ -308,7 +280,7 @@ Tank, played on roam.
 
 Is Tigreal strong in the current meta?
 
-Tier C, #91 of 133 heroes and #13 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.7% of matches, 45.0% win rate.
+Tier C, #69 of 133 heroes and #12 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.7% of matches, 45.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Tigreal?
 

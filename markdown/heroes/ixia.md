@@ -1,6 +1,6 @@
 ---
 title: "Иксия MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Иксия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,64% побед, тир B."
+description: "Иксия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,64% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/ixia.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Иксия
 
-B
+C
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
-
-Лидер "Злого духа" и самопровозглашенный изобретатель. Она владеет самодельным оружием, работающим от украденного старлиумового реактора.
 
 Победы
 
 50,6%
 
-все ранги 50,1%
-
 Выбор
 
 0,8%
 
-все ранги 0,8%
-
 Баны
 
 0,5%
-
-все ранги 0,8%
-
-№57 в тир-листе · №12 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,55 +53,11 @@ B
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 156,1%Сборка 254,5%Сборка 354,6%
-
-### Предметы
-
-![](/images/mlbb/items/3013.webp)
-
-Трезубец
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3015.webp)
-
-Губительный пулемет
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/133.webp)
-
-Боевой клич
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -121,43 +67,47 @@ B
 
 8,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Пронзающий небеса
+    Коса коррозии
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Коса коррозии
+    Пронзающий небеса
 
-### Эмблема
+-   ![](/images/mlbb/items/3015.webp)
+
+    Губительный пулемет
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -167,43 +117,43 @@ B
 
 6,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Коса коррозии
+    Пронзающий небеса
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Пронзающий небеса
+    Коса коррозии
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -213,13 +163,49 @@ B
 
 6,1%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
 ## Навыки
 
 Прокачка**Огневой налет**_›_**Двойной луч**_›_**Звездная спираль**
 
-![](/images/mlbb/skills/ixia-0.webp)Пассивный![](/images/mlbb/skills/ixia-1.webp)1-й навык![](/images/mlbb/skills/ixia-2.webp)2-й навык![](/images/mlbb/skills/ixia-3.webp)Ультимейт
-
-![](/images/mlbb/skills/ixia-0.webp)
+![](/images/mlbb/skills/ixia-0.webp)Пассивный**Старлиумовое поглощение**![](/images/mlbb/skills/ixia-1.webp)1-й навык**Двойной луч**![](/images/mlbb/skills/ixia-2.webp)2-й навык**Звездная спираль**![](/images/mlbb/skills/ixia-3.webp)Ультимейт**Огневой налет**
 
 Пассивный
 
@@ -231,8 +217,6 @@ B
 
 Базовые атаки Иксии не активируют вампиризм.
 
-![](/images/mlbb/skills/ixia-1.webp)
-
 1-й навык
 
 ### Двойной луч
@@ -243,8 +227,6 @@ B
 
 Враги, пораженные двумя лучами, получают двойной урон.
 
-![](/images/mlbb/skills/ixia-2.webp)
-
 2-й навык
 
 ### Звездная спираль
@@ -252,8 +234,6 @@ B
 Перезарядка **11 Mana Cost: 65 с**
 
 Иксия выпускает контейнер старлиумовой энергии в указанном направлении, отбрасывая ближайших врагов. После небольшой задержки энергия притягивает врагов в радиусе действия к центральной линии и наносит 200 (+60% общей физической атаки) единиц физического урона.
-
-![](/images/mlbb/skills/ixia-3.webp)
 
 Ультимейт
 
@@ -263,33 +243,25 @@ B
 
 Иксия разбирает свое оружие на 6 малых орудий и входит в состояние "Огневого налета" на 4 сек. В этом состоянии базовые атаки и навыки Иксии могут поражать врагов в большой веерообразной области перед ней, но не за ее пределами. Базовые атаки Иксии могут поражать до 6 вражеских юнитов (в приоритете герои), а "Старлиумовое поглощение" будет действовать вместе с ее обычными базовыми атаками.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/diggie.webp)Дигги**+7,4**](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/harith.webp)Харит**+5,3**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/baxia.webp)Баксий**+3,9**](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/estes.webp)Эстес**+2,6**](https://boostmlbb.ru/heroes/estes.html)
+[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
 
 ## История
 
 > Лидер "Злого духа" и самопровозглашенный изобретатель. Она владеет самодельным оружием, работающим от украденного старлиумового реактора.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lxia)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=121)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lxia)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=121)
 
 **Поднимем ранг на герое «Иксия»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ B
 
 Силён ли герой «Иксия» в текущей мете?
 
-Тир B, 57-е место из 133 героев и 12-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 50,6% побед.
+Тир C, 73-е место из 133 героев и 14-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Иксия» лучшая?
 

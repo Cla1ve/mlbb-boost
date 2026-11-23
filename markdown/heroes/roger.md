@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/jungle.webp)Лес
 
-Оборотень, бродящий по темному лесу и ищущий мести.
-
 Победы
 
 46,2%
-
-все ранги 48,3%
 
 Выбор
 
 0,2%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,1%
-
-№122 в тир-листе · №40 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 155,3%Сборка 256,7%Сборка 356,5%
-
-### Предметы
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3012.webp)
-
-Золотой метеор
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 13,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Когти Хааса
+    Золотой метеор
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Трепет
+    Проворность
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 6,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Проворность
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 4,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Волчье перевоплощение**_›_**Открыть огонь** _›_**Шаги охотника**
 
-![](/images/mlbb/skills/roger-0.webp)Пассивный![](/images/mlbb/skills/roger-1.webp)1-й навык![](/images/mlbb/skills/roger-2.webp)2-й навык![](/images/mlbb/skills/roger-3.webp)Ультимейт
-
-![](/images/mlbb/skills/roger-0.webp)
+![](/images/mlbb/skills/roger-0.webp)Пассивный**Проклятие полной луны**![](/images/mlbb/skills/roger-1.webp)1-й навык**Открыть огонь** ![](/images/mlbb/skills/roger-2.webp)2-й навык**Шаги охотника**![](/images/mlbb/skills/roger-3.webp)Ультимейт**Волчье перевоплощение**
 
 Пассивный
 
@@ -226,8 +212,6 @@ D
 В человеческой форме атаки Роджера наносят дополнительный урон, равный 4% от текущих цели. В волчьей форме его атаки наносят дополнительный урон, равный 4% от \[потерянных C6 цели.
 
 Дополнительный урон монстрам ограничен 60.
-
-![](/images/mlbb/skills/roger-1.webp)
 
 1-й навык
 
@@ -241,8 +225,6 @@ D
 
 Второй выстрел — пуля, которая уменьшает врага на 10 на 5 сек.
 
-![](/images/mlbb/skills/roger-2.webp)
-
 2-й навык
 
 ### Шаги охотника
@@ -250,8 +232,6 @@ D
 Перезарядка **10 Mana Cost: 50 с**
 
 Роджер получает 20% скорости передвижения и 20% скорости атаки на 2.5 сек.
-
-![](/images/mlbb/skills/roger-3.webp)
 
 Ультимейт
 
@@ -263,27 +243,19 @@ D
 
 **Пассивный:** в волчьей форме Роджер получает 20 и 25 скорости передвижения.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/layla.webp)Лейла**+2,2**](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/ixia.webp)Иксия**+2,2**](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/hanabi.webp)Ханаби**+2,0**](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/lesley.webp)Лесли**+1,9**](https://boostmlbb.ru/heroes/lesley.html)
+[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 ## История
 
 > Оборотень, бродящий по темному лесу и ищущий мести.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/roger)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=39)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/roger)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=39)
 
 **Поднимем ранг на герое «Роджер»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ D
 
 Силён ли герой «Роджер» в текущей мете?
 
-Тир D, 122-е место из 133 героев и 40-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,2% побед.
+Тир D, 126-е место из 133 героев и 43-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Роджер» лучшая?
 

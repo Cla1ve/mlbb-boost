@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-A young spirit born of the deep longings stored within the Seimei Umbrella, she has finally stepped out of her dream, like a radiant bloom, in defiance of the dark night.
-
 Win rate
 
 50.2%
-
-all ranks 51.1%
 
 Pick rate
 
 1.1%
 
-all ranks 0.8%
-
 Ban rate
 
 1.4%
-
-all ranks 1.1%
-
-#45 in the tier list · #8 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 154.8%Build 255.5%Build 358.0%
-
-### Core items
-
-![](/images/mlbb/items/3111.webp)
-
-Genius Wand
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 3.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Genius Wand
+    Genius Wand
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Weapons Master
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Impure Rage
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Genius Wand
+    Genius Wand
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Lethal Ignition
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Genius Wand
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Yin Yang Overturn**_›_**Seimei Umbrella Open** _›_**Rasho Umbrella Flee**
 
-![](/images/mlbb/skills/kagura-0.webp)Passive![](/images/mlbb/skills/kagura-1.webp)Skill 1![](/images/mlbb/skills/kagura-2.webp)Skill 2![](/images/mlbb/skills/kagura-3.webp)Ultimate
-
-![](/images/mlbb/skills/kagura-0.webp)
+![](/images/mlbb/skills/kagura-0.webp)Passive**Yin Yang Gathering** ![](/images/mlbb/skills/kagura-1.webp)Skill 1**Seimei Umbrella Open** ![](/images/mlbb/skills/kagura-2.webp)Skill 2**Rasho Umbrella Flee**![](/images/mlbb/skills/kagura-3.webp)Ultimate**Yin Yang Overturn**
 
 Passive
 
 ### Yin Yang Gathering
 
 Upon retrieving the Seimei Umbrella, Kagura gains a 450 (+80% Total Magic Power) shield, stuns nearby enemies for 0.5s, and slows them by 60% for 1s. Cooldown: 4.5s.
-
-![](/images/mlbb/skills/kagura-1.webp)
 
 Skill 1
 
@@ -235,8 +219,6 @@ Kagura sends the Seimei Umbrella to the target location, dealing 365 (+105% Tota
 
 This skill deals 130% damage to non-hero enemies.
 
-![](/images/mlbb/skills/kagura-2.webp)
-
 Skill 2
 
 ### Rasho Umbrella Flee
@@ -244,8 +226,6 @@ Skill 2
 Cooldown **12 Mana Cost: 55 s**
 
 Kagura removes all debuffs on her and leaps in the target direction, while leaving the Seimei Umbrella behind.
-
-![](/images/mlbb/skills/kagura-3.webp)
 
 Ultimate
 
@@ -255,33 +235,25 @@ Cooldown **36 Mana Cost: 60 s**
 
 Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic Power) Magic Damage to nearby enemies, knocking them back, and slowing them by 60% for 0.5s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/zhuxin.webp)Zhuxin**+9.5**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Cyclops**+2.4**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley**+1.6**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/granger.webp)Granger**+1.5**](https://boostmlbb.ru/en/heroes/granger.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)
 
 ## Lore
 
 > A young spirit born of the deep longings stored within the Seimei Umbrella, she has finally stepped out of her dream, like a radiant bloom, in defiance of the dark night.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/kagura)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=25)
+[Read the full story ↗](https://kazukiofficial.com/stories/kagura)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=25)
 
 **Rank up on Kagura**The calculator shows the price
 
@@ -303,7 +275,7 @@ Mage, played in the Mid Lane.
 
 Is Kagura strong in the current meta?
 
-Tier B, #45 of 133 heroes and #8 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 50.2% win rate.
+Tier B, #60 of 133 heroes and #15 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Kagura?
 

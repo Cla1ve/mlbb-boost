@@ -1,6 +1,6 @@
 ---
 title: "Фанни MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фанни в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 42,96% побед, тир D."
+description: "Фанни в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 42,96% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/fanny.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Фанни
 
-D
+B
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
-
-Танцующая с клинками на поле боя.
 
 Победы
 
 43,0%
 
-все ранги 42,6%
-
 Выбор
 
 0,7%
 
-все ранги 0,7%
-
 Баны
 
 1,6%
-
-все ранги 1,9%
-
-№131 в тир-листе · №28 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 147,8%Сборка 245,1%Сборка 351,3%
-
-### Предметы
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-![](/images/mlbb/items/3012.webp)
-
-Золотой метеор
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 2,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Золотой метеор
+    Золотой метеор
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Нечестивая ярость
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 1,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Пронзающий небеса
+    Злобный рык
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Злобный рык
+    Золотой метеор
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Смертельное воспламенение
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 1,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Головорез**_›_**Стальной трос**_›_**Удар торнадо**
 
-![](/images/mlbb/skills/fanny-0.webp)Пассивный![](/images/mlbb/skills/fanny-1.webp)1-й навык![](/images/mlbb/skills/fanny-2.webp)2-й навык![](/images/mlbb/skills/fanny-3.webp)Ультимейт
-
-![](/images/mlbb/skills/fanny-0.webp)
+![](/images/mlbb/skills/fanny-0.webp)Пассивный**Превосходство в воздухе**![](/images/mlbb/skills/fanny-1.webp)1-й навык**Удар торнадо**![](/images/mlbb/skills/fanny-2.webp)2-й навык**Стальной трос**![](/images/mlbb/skills/fanny-3.webp)Ультимейт**Головорез**
 
 Пассивный
 
@@ -225,8 +211,6 @@ D
 
 Ее последующие попадания навыками по отмеченным вражеским героям восстанавливают 8 энергии за заряд. Восстановление энергии уменьшается, если за короткое время поражено несколько вражеских героев.
 
-![](/images/mlbb/skills/fanny-1.webp)
-
 1-й навык
 
 ### Удар торнадо
@@ -234,8 +218,6 @@ D
 Перезарядка **3.5 Energy Cost: 12 с**
 
 Фанни взмахивает клинками, нанося 275 (+85% общей физической атаки) единиц физического урона ближайшим врагам.
-
-![](/images/mlbb/skills/fanny-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ D
 
 Во время полета Фанни автоматически применяет "Удар торнадо" при столкновении с врагом, если у нее достаточно энергии.
 
-![](/images/mlbb/skills/fanny-3.webp)
-
 Ультимейт
 
 ### Головорез
@@ -257,33 +237,25 @@ D
 
 Фанни прыгает с клинками на указанного вражеского героя или монстра, нанося 400 (+200% дополнительной физической атаки) единиц физического урона. Каждый заряд метки жертвы на цели увеличивает этот урон на 30%.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/joy.webp)Джой**+2,1**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/natan.webp)Натан**+1,8**](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/bruno.webp)Бруно**+1,7**](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/khufra.webp)Хуфра**+1,6**](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
 
 ## История
 
 > Танцующая с клинками на поле боя.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Fanny)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=17)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Fanny)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=17)
 
 **Поднимем ранг на герое «Фанни»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ D
 
 Силён ли герой «Фанни» в текущей мете?
 
-Тир D, 131-е место из 133 героев и 28-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,6% матчей, 43,0% побед.
+Тир B, 45-е место из 133 героев и 10-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,6% матчей, 43,0% побед. В профессиональных матчах за месяц героя драфтуют в 32,2% катков.
 
 Какая сборка на героя «Фанни» лучшая?
 

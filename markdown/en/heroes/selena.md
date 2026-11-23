@@ -1,6 +1,6 @@
 ---
 title: "Selena MLBB: build, counters and skills | MLBB Boost"
-description: "Selena in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.31% win rate, tier B."
+description: "Selena in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.31% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/selena.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Selena
 
-B
+A
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
-
-Dark Elf girl who fell into the Abyss.
 
 Win rate
 
 48.3%
 
-all ranks 48.3%
-
 Pick rate
 
 1.4%
 
-all ranks 1.6%
-
 Ban rate
 
 3.8%
-
-all ranks 6.3%
-
-#50 in the tier list · #9 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)
+[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 156.9%Build 253.1%Build 354.5%
-
-### Core items
-
-![](/images/mlbb/items/3106.webp)
-
-Starlium Scythe
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Starlium Scythe
+    Starlium Scythe
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Glowing Wand
+    Lightning Truncheon
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Wishing Lantern
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Starlium Scythe
+    Starlium Scythe
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Lightning Truncheon
+    Wishing Lantern
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Bargain Hunter
+    Wilderness Blessing
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Quantum Charge
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.1%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3106.webp)
+
+    Starlium Scythe
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**Primal Darkness**_›_**Abyssal Trap**_›_**Abyssal Arrow**
 
-![](/images/mlbb/skills/selena-0.webp)Passive![](/images/mlbb/skills/selena-1.webp)Skill 1![](/images/mlbb/skills/selena-2.webp)Skill 2![](/images/mlbb/skills/selena-3.webp)Ultimate
-
-![](/images/mlbb/skills/selena-0.webp)
+![](/images/mlbb/skills/selena-0.webp)Passive**Symbiosis**![](/images/mlbb/skills/selena-1.webp)Skill 1**Abyssal Trap**![](/images/mlbb/skills/selena-2.webp)Skill 2**Abyssal Arrow**![](/images/mlbb/skills/selena-3.webp)Ultimate**Primal Darkness**
 
 Passive
 
@@ -226,8 +212,6 @@ Selena can switch freely between her two forms.
 **Elven Form:** Selena applies Abyssal Mark when her skills deal damage. Marks last 8s and can stack up to 2 times.
 
 **Abyssal Form:** Selena's Basic Attacks become melee and deal (+25% Total Magic Power) additional Magic Damage. Her skills deal 240-450 (+40% Total Magic Power) additional Magic Damage to enemies with Abyssal Mark and consume their mark stacks by 1. This damage is increased to 250% against Creeps and Minions.
-
-![](/images/mlbb/skills/selena-1.webp)
 
 Skill 1
 
@@ -241,8 +225,6 @@ Each additional Abyssal Devil on an enemy increases the final damage by 50%.
 
 Each Abyssal Devil can lurk up to 60s and up to 3 Abyssal Devils can exist at the same time.
 
-![](/images/mlbb/skills/selena-2.webp)
-
 Skill 2
 
 ### Abyssal Arrow
@@ -255,8 +237,6 @@ The wraith will pick up Abyssal Trap as it travels over it and will apply the tr
 
 If the wraith stuns an enemy for 0.9s or longer, Selena will gain 60% Movement Speed for 2s.
 
-![](/images/mlbb/skills/selena-3.webp)
-
 Ultimate
 
 ### Primal Darkness
@@ -267,33 +247,25 @@ Cooldown **5.5 s**
 
 **Active:** Selena enters Abyssal Form and gains 20% Movement Speed for 0.8s. This also immediately resets the cooldown of Soul Eater and Garotte.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/cyclops.webp)Cyclops**+1.9**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Floryn**+1.7**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/zhask.webp)Zhask**+1.2**](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/harley.webp)Harley**+1.1**](https://boostmlbb.ru/en/heroes/harley.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
 > Dark Elf girl who fell into the Abyss.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/selena)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=63)
+[Read the full story ↗](https://kazukiofficial.com/stories/selena)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=63)
 
 **Rank up on Selena**The calculator shows the price
 
@@ -315,7 +287,7 @@ Assassin and mage, played in the Mid Lane.
 
 Is Selena strong in the current meta?
 
-Tier B, #50 of 133 heroes and #9 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.8% of matches, 48.3% win rate.
+Tier A, #26 of 133 heroes and #4 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.8% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 32.9% of them.
 
 What is the best build for Selena?
 

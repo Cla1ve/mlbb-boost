@@ -1,6 +1,6 @@
 ---
 title: "Natalia MLBB: build, counters and skills | MLBB Boost"
-description: "Natalia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.32% win rate, tier C."
+description: "Natalia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.32% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/natalia.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Natalia
 
-C
+D
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle![](/images/mlbb/filters/roam.webp)Roam
-
-An assassin exiled by the Empire.
 
 Win rate
 
 50.3%
 
-all ranks 51.0%
-
 Pick rate
 
 0.2%
 
-all ranks 0.3%
-
 Ban rate
 
 1.1%
-
-all ranks 2.0%
-
-#85 in the tier list · #20 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 160.3%Build 260.7%Build 355.3%
-
-### Core items
-
-![](/images/mlbb/items/3007.webp)
-
-Blade of the Heptaseas
-
-![](/images/mlbb/items/3003.webp)
-
-Berserker's Fury
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/1211.webp)
-
-Fatal
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 7.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Berserker's Fury
+    Berserker's Fury
 
-![](/images/mlbb/items/3014.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Great Dragon Spear
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Fatal
+    Fatal
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 6.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Berserker's Fury
+    Berserker's Fury
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3014.webp)
 
-Sea Halberd
+    Great Dragon Spear
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Rupture
+    Fatal
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 5.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Master Assassin
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**The Hunt**_›_**Claw Dash**_›_**Smoke Bomb**
 
-![](/images/mlbb/skills/natalia-0.webp)Passive![](/images/mlbb/skills/natalia-1.webp)Skill 1![](/images/mlbb/skills/natalia-2.webp)Skill 2![](/images/mlbb/skills/natalia-3.webp)Ultimate
-
-![](/images/mlbb/skills/natalia-0.webp)
+![](/images/mlbb/skills/natalia-0.webp)Passive**Assassin Instinct**![](/images/mlbb/skills/natalia-1.webp)Skill 1**Claw Dash**![](/images/mlbb/skills/natalia-2.webp)Skill 2**Smoke Bomb**![](/images/mlbb/skills/natalia-3.webp)Ultimate**The Hunt**
 
 Passive
 
@@ -227,8 +213,6 @@ Dealing damage, taking damage or using skills will immediately end the Camouflag
 
 Natalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%.
 
-![](/images/mlbb/skills/natalia-1.webp)
-
 Skill 1
 
 ### Claw Dash
@@ -239,8 +223,6 @@ Natalia dashes in the target direction, dealing 250 (+50% Total Physical Attack)
 
 **Use Again:** Hitting an enemy allows Natalia to recast this skill within 5s.
 
-![](/images/mlbb/skills/natalia-2.webp)
-
 Skill 2
 
 ### Smoke Bomb
@@ -248,8 +230,6 @@ Skill 2
 Cooldown **12 s**
 
 Natalia releases a Smoke Bomb at her location, slowing enemies within by 25% while Natalia becomes immune to enemy Basic Attacks for 4s.
-
-![](/images/mlbb/skills/natalia-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Cooldown **3 s**
 
 **Active:** Natalia immediately enters the Assassin Instinct state. She can store up to 2 Ultimate charges, and each charge has a recharge time of 30s. Killing creeps reduces the remaining recharge time by 50% of the full recharge time.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)
+[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/floryn.webp)Floryn**+3.2**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/khufra.webp)Khufra**+2.9**](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/akai.webp)Akai**+2.7**](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/hylos.webp)Hylos**+2.7**](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)
 
 ## Lore
 
 > An assassin exiled by the Empire.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/natalia)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=24)
+[Read the full story ↗](https://kazukiofficial.com/stories/natalia)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=24)
 
 **Rank up on Natalia**The calculator shows the price
 
@@ -309,7 +281,7 @@ Assassin, played in the jungle or on roam.
 
 Is Natalia strong in the current meta?
 
-Tier C, #85 of 133 heroes and #20 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 50.3% win rate.
+Tier D, #105 of 133 heroes and #23 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 50.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Natalia?
 

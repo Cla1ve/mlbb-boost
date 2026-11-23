@@ -1,6 +1,6 @@
 ---
 title: "Джой MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Джой в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,36% побед, тир C."
+description: "Джой в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,36% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/joy.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Джой
 
-C
+D
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
-
-"Чудесное дитя", вернувшееся к леонинам после долгих лет скитаний.
 
 Победы
 
 49,4%
 
-все ранги 48,8%
-
 Выбор
 
 0,2%
 
-все ранги 0,1%
-
 Баны
 
 0,1%
-
-все ранги 0,2%
-
-№104 в тир-листе · №24 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 154,9%Сборка 256,9%Сборка 351,9%
-
-### Предметы
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-![](/images/mlbb/items/3102.webp)
-
-Священный кристалл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/134.webp)
-
-Временное правление
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 16,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Палочка гения
+    Палочка гения
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Священный кристалл
+    Концентрированная энергия
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Концентрированная энергия
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/134.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Временное правление
+    Временное правление
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 12,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Палочка гения
+    Палочка гения
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Священный кристалл
+    Священный кристалл
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Смертельное воспламенение
+    Временное правление
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 4,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Палочка гения
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Концентрированная энергия
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Ха, до мурашек!**_›_**Мяу, ритм Джой!**_›_**Смотри, кристалл леонинов!**
 
-![](/images/mlbb/skills/joy-0.webp)Пассивный![](/images/mlbb/skills/joy-1.webp)1-й навык![](/images/mlbb/skills/joy-2.webp)2-й навык![](/images/mlbb/skills/joy-3.webp)Ультимейт
-
-![](/images/mlbb/skills/joy-0.webp)
+![](/images/mlbb/skills/joy-0.webp)Пассивный**Хм, Джой сердится!**![](/images/mlbb/skills/joy-1.webp)1-й навык**Смотри, кристалл леонинов!**![](/images/mlbb/skills/joy-2.webp)2-й навык**Мяу, ритм Джой!**![](/images/mlbb/skills/joy-3.webp)Ультимейт**Ха, до мурашек!**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 Базовая атака Джой наносит 65 (+65% общей физической атаки) (+65% общей магической силы) единиц магического урона.
 
-![](/images/mlbb/skills/joy-1.webp)
-
 1-й навык
 
 ### Смотри, кристалл леонинов!
@@ -234,8 +218,6 @@ C
 Перезарядка **4 с**
 
 Джой призывает кристалл леонинов в указанном месте, нанося 200 (+40% общей магической силы) единиц магического урона ближайшим врагам и замедляя их на 30% на 1 сек. Кристалл леонинов действует до 2 сек.
-
-![](/images/mlbb/skills/joy-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ C
 
 Этот навык можно применять до 4 раз подряд.
 
-![](/images/mlbb/skills/joy-3.webp)
-
 Ультимейт
 
 ### Ха, до мурашек!
@@ -259,33 +239,25 @@ C
 
 Этот навык разблокируется, когда Джой приобретает энергию ритма. Применение этого навыка с 3 ед. энергии ритма снимет все дебаффы и даст ей иммунитет к эффектам замедления, пока навык активен.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/leomord.webp)Леоморд**+3,4**](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/nolan.webp)Нолан**+2,3**](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/fredrinn.webp)Фредрин**+2,2**](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/fanny.webp)Фанни**+2,1**](https://boostmlbb.ru/heroes/fanny.html)
+[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## История
 
 > "Чудесное дитя", вернувшееся к леонинам после долгих лет скитаний.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Joy)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=118)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Joy)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=118)
 
 **Поднимем ранг на герое «Джой»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Джой» в текущей мете?
 
-Тир C, 104-е место из 133 героев и 24-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,4% побед.
+Тир D, 115-е место из 133 героев и 26-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Джой» лучшая?
 

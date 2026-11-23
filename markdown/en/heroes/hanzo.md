@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle
 
-Genius ninja in the Shadow Sect who is at the crossroads.
-
 Win rate
 
 49.3%
-
-all ranks 49.9%
 
 Pick rate
 
 0.3%
 
-all ranks 0.4%
-
 Ban rate
 
 3.1%
-
-all ranks 5.8%
-
-#71 in the tier list · #16 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 153.9%Build 252.8%Build 355.4%
-
-### Core items
-
-![](/images/mlbb/items/2212.webp)
-
-Thunder Belt
-
-![](/images/mlbb/items/2009.webp)
-
-Golden Staff
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Brute Force Breastplate
+    Golden Staff
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Oracle
+    Brute Force Breastplate
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Sky Piercer
+    Thunder Belt
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Golden Staff
+    Brute Force Breastplate
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Corrosion Scythe
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Swift
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-War Cry
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 2.6%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    War Cry
+
+
 ## Skills
 
 Level-up**Kinjutsu: Pinnacle Ninja**_›_**Ninjutsu: Demon Feast**_›_**Ninjutsu: Dark Mist**
 
-![](/images/mlbb/skills/hanzo-0.webp)Passive![](/images/mlbb/skills/hanzo-1.webp)Skill 1![](/images/mlbb/skills/hanzo-2.webp)Skill 2![](/images/mlbb/skills/hanzo-3.webp)Ultimate
-
-![](/images/mlbb/skills/hanzo-0.webp)
+![](/images/mlbb/skills/hanzo-0.webp)Passive**Ame no Habakiri**![](/images/mlbb/skills/hanzo-1.webp)Skill 1**Ninjutsu: Demon Feast**![](/images/mlbb/skills/hanzo-2.webp)Skill 2**Ninjutsu: Dark Mist**![](/images/mlbb/skills/hanzo-3.webp)Ultimate**Kinjutsu: Pinnacle Ninja**
 
 Passive
 
 ### Ame no Habakiri
 
 Damage dealt by Hanzo's Basic Attacks and skills inflicts a stack of Dark Ninjutsu on the target, up to 5 stacks. Ninjutsu: Demon Feast can only be cast on targets with full stacks of Dark Ninjutsu.
-
-![](/images/mlbb/skills/hanzo-1.webp)
 
 Skill 1
 
@@ -232,8 +216,6 @@ Skill 1
 The skill can only be used on targets with max stacks of Dark Ninjutsu. When targeting a creep, Hanzo will immediately devour it and digest it over a period of time to recover 20% HP.
 
 When targeting the Turtle, Lord, or enemy heroes, he deals 600 (+120% Extra Physical Attack) Physical Damage, recovers 150 (+80% Total Physical Attack) HP, and reduces this skill's cooldown by 60%.
-
-![](/images/mlbb/skills/hanzo-2.webp)
 
 Skill 2
 
@@ -244,8 +226,6 @@ Cooldown **10 s**
 Hanzo dashes in the target direction, leaving dark mist in front that deals 90 (+45% Extra Physical Attack) Physical Damage to enemies in the area every 0.5s, up to 5 times (this damage counts as Basic Attack damage but cannot Crit).
 
 The dark mist slows enemies in the area by 40% and grants Hanzo 20% Movement Speed.
-
-![](/images/mlbb/skills/hanzo-3.webp)
 
 Ultimate
 
@@ -259,33 +239,25 @@ While in Hanekage form, Hanzo's body is invincible, while Hanekage ignores obsta
 
 **Use Again or Upon Death:** Hanekage returns to Hanzo's body, recovering 360 (+100% Extra Physical Attack) HP and becoming untargetable during the return. If Hanekage is killed, Hanzo will be slowed by 50% and revealed for 6s, and the skill's cooldown will be doubled.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/angela.webp)Angela**+2.2**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/hilda.webp)Hilda**+1.6**](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.6**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/aldous.webp)Aldous**+1.6**](https://boostmlbb.ru/en/heroes/aldous.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
 > Genius ninja in the Shadow Sect who is at the crossroads.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/hanzo)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=69)
+[Read the full story ↗](https://kazukiofficial.com/stories/hanzo)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=69)
 
 **Rank up on Hanzo**The calculator shows the price
 
@@ -307,7 +279,7 @@ Assassin, played in the jungle.
 
 Is Hanzo strong in the current meta?
 
-Tier C, #71 of 133 heroes and #16 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.1% of matches, 49.3% win rate.
+Tier C, #90 of 133 heroes and #20 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.1% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Hanzo?
 

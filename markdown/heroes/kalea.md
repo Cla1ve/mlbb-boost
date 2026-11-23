@@ -1,6 +1,6 @@
 ---
 title: "Калеа MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Калеа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и поддержка, 51,71% побед, тир A."
+description: "Калеа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и поддержка, 51,71% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/kalea.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Калеа
 
-A
+S
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
-
-Этот гордый потомок Великого змея грациозно размахивает своим змеиным хвостом по морю Вонетис, стремясь однажды обрести всю мощь своего наследия.
 
 Победы
 
 51,7%
 
-все ранги 50,4%
-
 Выбор
 
 0,9%
 
-все ранги 0,7%
-
 Баны
 
 14,7%
-
-все ранги 6,5%
-
-№21 в тир-листе · №6 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)
+[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 155,3%Сборка 251,4%Сборка 353,9%
-
-### Предметы
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3109.webp)
-
-Мимолетное время
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/311.webp)
-
-Живучесть
-
-![](/images/mlbb/talents/821.webp)
-
-Второе дыхание
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 6,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Мимолетное время
+    Оракул
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Оракул
+    Мимолетное время
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/711.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Прочность
+    Живучесть
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 6,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Оракул
+    Мимолетное время
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Мимолетное время
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/711.webp)
+-   ![](/images/mlbb/talents/711.webp)
 
-Прочность
+    Прочность
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 3,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Прочность
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Удар цунами**_›_**Удар прилива**_›_**Волнорез**
 
-![](/images/mlbb/skills/kalea-0.webp)Пассивный![](/images/mlbb/skills/kalea-1.webp)1-й навык![](/images/mlbb/skills/kalea-2.webp)2-й навык![](/images/mlbb/skills/kalea-3.webp)Ультимейт
-
-![](/images/mlbb/skills/kalea-0.webp)
+![](/images/mlbb/skills/kalea-0.webp)Пассивный**Всплеск жизни**![](/images/mlbb/skills/kalea-1.webp)1-й навык**Волнорез**![](/images/mlbb/skills/kalea-2.webp)2-й навык**Удар прилива**![](/images/mlbb/skills/kalea-3.webp)Ультимейт**Удар цунами**
 
 Пассивный
 
@@ -231,8 +217,6 @@ A
 
 Эффекты контроля могут воздействовать на Калеа во время третьей усиленной базовой атаки, но не могут прервать ее.
 
-![](/images/mlbb/skills/kalea-1.webp)
-
 1-й навык
 
 ### Волнорез
@@ -240,8 +224,6 @@ A
 Перезарядка **3.5 с**
 
 Калеа бьет кулаком по земле, создавая волну, которая наносит 200 (+5% Макс. ОЗ) единиц физического урона ближайшим врагам и замедляет их на 40% на 1.5 сек.
-
-![](/images/mlbb/skills/kalea-2.webp)
 
 2-й навык
 
@@ -253,8 +235,6 @@ A
 
 Если во время рывка она столкнется с препятствием или коснется края водной области, Калеа подпрыгнет. При повторном применении навыка она приземлится в указанную область, нанося 150 (+60% общей физической атаки) единиц физического урона и подбрасывая врагов на 0.6 сек. (устойчивость не действует).
 
-![](/images/mlbb/skills/kalea-3.webp)
-
 Ультимейт
 
 ### Удар цунами
@@ -263,27 +243,19 @@ A
 
 Калеа хватает вражеского героя хвостом и бросает его в направлении джойстика (переместите джойстик, чтобы изменить место приземления). Во время этого процесса она получает иммунитет к контролю. При приземлении наносит 300 (+14% Макс. ОЗ) единиц физического урона цели и ближайшим врагам.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/diggie.webp)Дигги**+6,6**](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/floryn.webp)Флорин**+5,9**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/marcel.webp)Марсель**+5,6**](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/estes.webp)Эстес**+4,5**](https://boostmlbb.ru/heroes/estes.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ## История
 
 > Этот гордый потомок Великого змея грациозно размахивает своим змеиным хвостом по морю Вонетис, стремясь однажды обрести всю мощь своего наследия.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/kalea)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=128)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kalea)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=128)
 
 **Поднимем ранг на герое «Калеа»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ A
 
 Силён ли герой «Калеа» в текущей мете?
 
-Тир A, 21-е место из 133 героев и 6-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 14,7% матчей, 51,7% побед.
+Тир S, 5-е место из 133 героев и 2-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 14,7% матчей, 51,7% побед. В профессиональных матчах за месяц героя драфтуют в 99,7% катков.
 
 Какая сборка на героя «Калеа» лучшая?
 

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/roam.webp)Roam
 
-The almighty panda hero of Stream Valley.
-
 Win rate
 
 49.2%
-
-all ranks 50.2%
 
 Pick rate
 
 0.3%
 
-all ranks 0.3%
-
 Ban rate
 
 0.7%
-
-all ranks 1.1%
-
-#95 in the tier list · #15 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 155.4%Build 256.5%Build 355.3%
-
-### Core items
-
-![](/images/mlbb/items/3109.webp)
-
-Fleeting Time
-
-![](/images/mlbb/items/3202.webp)
-
-Guardian Helmet
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-### Emblem
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 7.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Guardian Helmet
+    Fleeting Time
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Dominance Ice
+    Guardian Helmet
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Chastise Pauldron
+    Dominance Ice
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Vitality
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Fleeting Time
+    Guardian Helmet
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Guardian Helmet
+    Dominance Ice
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Dominance Ice
+    Chastise Pauldron
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Agility
+    Vitality
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+-   ![](/images/mlbb/items/3202.webp)
+
+    Guardian Helmet
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Heavy Spin**_›_**Body Slam**_›_**Headbutt**
 
-![](/images/mlbb/skills/akai-0.webp)Passive![](/images/mlbb/skills/akai-1.webp)Skill 1![](/images/mlbb/skills/akai-2.webp)Skill 2![](/images/mlbb/skills/akai-3.webp)Ultimate
-
-![](/images/mlbb/skills/akai-0.webp)
+![](/images/mlbb/skills/akai-0.webp)Passive**Tai Chi**![](/images/mlbb/skills/akai-1.webp)Skill 1**Headbutt**![](/images/mlbb/skills/akai-2.webp)Skill 2**Body Slam**![](/images/mlbb/skills/akai-3.webp)Ultimate**Heavy Spin**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Akai gains a 25 (+5% Max HP) shield for 4s on each skill cast.
 
 His skills apply a Mark to targets. His next Basic Attack against a marked target deals 35 (+6% Max HP) extra Physical Damage.
-
-![](/images/mlbb/skills/akai-1.webp)
 
 Skill 1
 
@@ -239,8 +223,6 @@ Upon hitting an enemy hero, he knocks them airborne for 0.5s and can roll once i
 
 Akai can cast Headbutt during Heavy Spin to quickly reposition himself.
 
-![](/images/mlbb/skills/akai-2.webp)
-
 Skill 2
 
 ### Body Slam
@@ -248,8 +230,6 @@ Skill 2
 Cooldown **7 Mana Cost: 50 s**
 
 Akai slams his body into the ground, dealing 270 (+6% Max HP) Physical Damage to nearby enemies and slowing them by 45% for 2s.
-
-![](/images/mlbb/skills/akai-3.webp)
 
 Ultimate
 
@@ -263,33 +243,25 @@ Upon casting, Akai removes all debuffs and gains slow immunity. While spinning, 
 
 This skill can only be interrupted by Suppression.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)
+[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/angela.webp)Angela**+3.3**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/natalia.webp)Natalia**+2.7**](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/helcurt.webp)Helcurt**+2.7**](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/rafaela.webp)Rafaela**+2.2**](https://boostmlbb.ru/en/heroes/rafaela.html)
+[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
 ## Lore
 
 > The almighty panda hero of Stream Valley.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Akai)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=9)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Akai)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=9)
 
 **Rank up on Akai**The calculator shows the price
 
@@ -311,7 +283,7 @@ Tank, played on roam.
 
 Is Akai strong in the current meta?
 
-Tier C, #95 of 133 heroes and #15 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.2% win rate.
+Tier C, #111 of 133 heroes and #19 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Akai?
 

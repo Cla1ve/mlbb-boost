@@ -1,6 +1,6 @@
 ---
 title: "Алдос MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Алдос в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,35% побед, тир B."
+description: "Алдос в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,35% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/aldous.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Алдос
 
-B
+C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Хранитель Минойского лабиринта.
 
 Победы
 
 53,4%
 
-все ранги 51,9%
-
 Выбор
 
 0,4%
 
-все ранги 0,5%
-
 Баны
 
 0,3%
-
-все ранги 0,6%
-
-№49 в тир-листе · №16 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 158,5%Сборка 262,0%Сборка 362,2%
-
-### Предметы
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/3004.webp)
-
-Бесконечная битва
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 17,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Штормовой пояс
+    Клинок семи морей
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Господство льда
+    Бесконечная битва
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Бесконечная битва
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 2,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Господство льда
+    Штормовой пояс
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Бесконечная битва
+    Господство льда
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Золотой метеор
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ B
 
 2,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Золотой метеор
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Контракт: погоня за судьбой**_›_**Контракт: кража души** _›_**Контракт: взрыв**
 
-![](/images/mlbb/skills/aldous-0.webp)Пассивный![](/images/mlbb/skills/aldous-1.webp)1-й навык![](/images/mlbb/skills/aldous-2.webp)2-й навык![](/images/mlbb/skills/aldous-3.webp)Ультимейт
-
-![](/images/mlbb/skills/aldous-0.webp)
+![](/images/mlbb/skills/aldous-0.webp)Пассивный**Контракт: трансформация**![](/images/mlbb/skills/aldous-1.webp)1-й навык**Контракт: кража души** ![](/images/mlbb/skills/aldous-2.webp)2-й навык**Контракт: взрыв**![](/images/mlbb/skills/aldous-3.webp)Ультимейт**Контракт: погоня за судьбой**
 
 Пассивный
 
 ### Контракт: трансформация
 
 Кажд. 8 сек. Алдос получает щит, равный 350 (+3 за каждый заряд "Кражи души"), на 3 сек. для следующей базовой атаки. Он также получает 60% скорости передвижения на 1 сек.
-
-![](/images/mlbb/skills/aldous-1.webp)
 
 1-й навык
 
@@ -239,8 +223,6 @@ B
 
 Алдос получает 20% скорости передвижения при движении к вражеским героям во время действия этого навыка.
 
-![](/images/mlbb/skills/aldous-2.webp)
-
 2-й навык
 
 ### Контракт: взрыв
@@ -250,8 +232,6 @@ B
 Алдос занимает оборонительную позицию, получая 30% снижения урона на 2 сек. или до отмены.
 
 После этого он нанесет 200 (+20% общей физической атаки)-400 (+40% общей физической атаки) единиц физического урона ближайшим врагам и оглушит их на 0.5-1 сек. (зависит от длительности оборонительной позиции).
-
-![](/images/mlbb/skills/aldous-3.webp)
 
 Ультимейт
 
@@ -265,33 +245,25 @@ B
 
 Во время рывка Алдос может прервать "Возвращение" цели.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/gloo.webp)Глу**+2,4**](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/x-borg.webp)Икс.Борг**+2,4**](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/tigreal.webp)Тигрил**+2,2**](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/alice.webp)Алиса**+2,1**](https://boostmlbb.ru/heroes/alice.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
 
 ## История
 
 > Хранитель Минойского лабиринта.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/aldous)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=64)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/aldous)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=64)
 
 **Поднимем ранг на герое «Алдос»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ B
 
 Силён ли герой «Алдос» в текущей мете?
 
-Тир B, 49-е место из 133 героев и 16-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,3% матчей, 53,4% побед.
+Тир C, 82-е место из 133 героев и 24-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,3% матчей, 53,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Алдос» лучшая?
 

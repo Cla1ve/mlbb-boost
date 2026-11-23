@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
 
-The Priestess of the Moon and protector of the Moonlit Forest.
-
 Win rate
 
 50.1%
-
-all ranks 49.7%
 
 Pick rate
 
 1.3%
 
-all ranks 2.2%
-
 Ban rate
 
 1.7%
-
-all ranks 4.6%
-
-#40 in the tier list · #6 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 155.8%Build 256.2%Build 356.2%
-
-### Core items
-
-![](/images/mlbb/items/3005.webp)
-
-Windtalker
-
-![](/images/mlbb/items/3003.webp)
-
-Berserker's Fury
-
-![](/images/mlbb/items/3002.webp)
-
-Haas' Claws
-
-### Emblem
-
-![](/images/mlbb/emblems/20012.webp)
-
-Marksman
-
-![](/images/mlbb/talents/1211.webp)
-
-Fatal
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 18.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Windtalker
+    Windtalker
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Haas' Claws
+    Berserker's Fury
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Berserker's Fury
+    Haas' Claws
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Marksman
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Fatal
+    Fatal
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Windtalker
+    Windtalker
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Berserker's Fury
+    Haas' Claws
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Haas' Claws
+    Berserker's Fury
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Marksman
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Fatal
+    Fatal
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Weakness Finder
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.0%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Windtalker
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Haas' Claws
+
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Weakness Finder
+
+
 ## Skills
 
 Level-up**Hidden Moonlight**_›_**Moon Arrow**_›_**Arrow of Eclipse**
 
-![](/images/mlbb/skills/miya-0.webp)Passive![](/images/mlbb/skills/miya-1.webp)Skill 1![](/images/mlbb/skills/miya-2.webp)Skill 2![](/images/mlbb/skills/miya-3.webp)Ultimate
-
-![](/images/mlbb/skills/miya-0.webp)
+![](/images/mlbb/skills/miya-0.webp)Passive**Moon Blessing**![](/images/mlbb/skills/miya-1.webp)Skill 1**Moon Arrow**![](/images/mlbb/skills/miya-2.webp)Skill 2**Arrow of Eclipse**![](/images/mlbb/skills/miya-3.webp)Ultimate**Hidden Moonlight**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Each time Miya's Basic Attack hits a target, she gains 5% Attack Speed for 4s (up to 5 stacks).
 
 At maximum stacks, each Basic Attack also summons a Moonlight Shadow to attack the target, dealing 25 (+20% Total Physical Attack) Physical Damage, inheriting 20% Attack Effects.
-
-![](/images/mlbb/skills/miya-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Miya's Basic Attacks shoot 2 extra Split Arrows, each inheriting 30% of Attack E
 
 This effect lasts 4s.
 
-![](/images/mlbb/skills/miya-2.webp)
-
 Skill 2
 
 ### Arrow of Eclipse
@@ -248,8 +230,6 @@ Cooldown **8 Mana Cost: 90 s**
 Miya calls upon the power of Moon Eclipse in the target area, dealing 270 (+45% Total Physical Attack) Physical Damage to enemies within and immobilizing them for 1.2s.
 
 The attack then splits into 6 arrows that scatter in different directions. Each arrow deals 40 (+20% Total Physical Attack) Physical Damage and slows enemies hit by 30% for 2s.
-
-![](/images/mlbb/skills/miya-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Miya removes all debuffs and enters the Conceal state, gaining 65% Movement Spee
 
 Upon exiting the Conceal state, Miya gains maximum stacks of Moon Blessing.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/gloo.webp)Gloo**+2.1**](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa**+1.8**](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Roger**+1.6**](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/belerick.webp)Belerick**+1.4**](https://boostmlbb.ru/en/heroes/belerick.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
 
 ## Lore
 
 > The Priestess of the Moon and protector of the Moonlit Forest.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Miya)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=1)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Miya)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=1)
 
 **Rank up on Miya**The calculator shows the price
 
@@ -309,7 +281,7 @@ Marksman, played in the Gold Lane.
 
 Is Miya strong in the current meta?
 
-Tier B, #40 of 133 heroes and #6 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.7% of matches, 50.1% win rate.
+Tier B, #53 of 133 heroes and #10 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.7% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
 
 What is the best build for Miya?
 

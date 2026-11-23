@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/roam.webp)Роум
 
-Магическое объединение милых и озорных существ, обитающих в глубинах Теневого болота.
-
 Победы
 
 49,9%
-
-все ранги 53,5%
 
 Выбор
 
 0,8%
 
-все ранги 0,8%
-
 Баны
 
 36,4%
-
-все ранги 41,9%
-
-№15 в тир-листе · №5 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие танки этой линии
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 158,0%Сборка 260,4%Сборка 361,4%
-
-### Предметы
-
-![](/images/mlbb/items/3201.webp)
-
-Проклятый шлем
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-### Эмблема
-
-![](/images/mlbb/emblems/20001.webp)
-
-Обычная эмблема
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/731.webp)
-
-Отвага
-
-### Заклинание
-
-![](/images/mlbb/spells/20140.webp)
-
-Огненный выстрел
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 14,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3201.webp)
+-   ![](/images/mlbb/items/3201.webp)
 
-Проклятый шлем
+    Проклятый шлем
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Обычная эмблема
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 5,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3201.webp)
+-   ![](/images/mlbb/items/3201.webp)
 
-Проклятый шлем
+    Проклятый шлем
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Обычная эмблема
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Нечестивая ярость
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20140.webp)
-
-Огненный выстрел
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 3,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3201.webp)
+
+    Проклятый шлем
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20001.webp)
+
+Обычная эмблема
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Поймал, поймал**_›_**Шлеп, шлеп**_›_**Врозь, врозь**
 
-![](/images/mlbb/skills/gloo-0.webp)Пассивный![](/images/mlbb/skills/gloo-1.webp)1-й навык![](/images/mlbb/skills/gloo-2.webp)2-й навык![](/images/mlbb/skills/gloo-3.webp)Ультимейт
-
-![](/images/mlbb/skills/gloo-0.webp)
+![](/images/mlbb/skills/gloo-0.webp)Пассивный**Липко, липко**![](/images/mlbb/skills/gloo-1.webp)1-й навык**Шлеп, шлеп**![](/images/mlbb/skills/gloo-2.webp)2-й навык**Врозь, врозь**![](/images/mlbb/skills/gloo-3.webp)Ультимейт**Поймал, поймал**
 
 Пассивный
 
@@ -224,8 +210,6 @@ A
 Навыки Глу накладывают на врагов заряд "Липкости" при попадании, снижая их скорость передвижения на 4% на 6 сек. (до 5 зарядов).
 
 Каждый заряд "Липкости" на атакующем враге снижает наносимый им урон по Глу на 3%.
-
-![](/images/mlbb/skills/gloo-1.webp)
 
 1-й навык
 
@@ -239,8 +223,6 @@ A
 
 Прикосновение к Слизи мгновенно взрывает ее и сбрасывает перезарядку этого навыка. Глу также восстанавливает 2.5% , если взрыв поражает врага (удваивается при попадании по вражескому герою).
 
-![](/images/mlbb/skills/gloo-2.webp)
-
 2-й навык
 
 ### Врозь, врозь
@@ -251,8 +233,6 @@ A
 
 Если этот навык поражает Слизь, Глу бросается к ней, перетаскивая врагов на своем пути на определенное расстояние.
 
-![](/images/mlbb/skills/gloo-3.webp)
-
 Ультимейт
 
 ### Поймал, поймал
@@ -261,33 +241,25 @@ A
 
 Пока Глу прикреплен, его базовые атаки наносят 30 (+50% общей магической силы) (+6% доп. макс. ОЗ) единиц магического урона, и он передает 60% получаемого урона (кроме урона от башен) носителю. Если носитель погибает, пока Глу прикреплен, перезарядка этого навыка сокращается до 5 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zilong.webp)Зилонг**+2,9**](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Хелкарт**+2,6**](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Алдос**+2,4**](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/saber.webp)Сабер**+2,2**](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
 
 ## История
 
 > Магическое объединение милых и озорных существ, обитающих в глубинах Теневого болота.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Gloo)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=104)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Gloo)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=104)
 
 **Поднимем ранг на герое «Глу»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ A
 
 Силён ли герой «Глу» в текущей мете?
 
-Тир A, 15-е место из 133 героев и 5-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 36,4% матчей, 49,9% побед.
+Тир A, 18-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 36,4% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 26,6% катков.
 
 Какая сборка на героя «Глу» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Diggie MLBB: build, counters and skills | MLBB Boost"
-description: "Diggie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 55.94% win rate, tier A."
+description: "Diggie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 55.94% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Diggie
 
-A
+B
 
 ![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
-
-The owl scholar who can control time.
 
 Win rate
 
 55.9%
 
-all ranks 54.3%
-
 Pick rate
 
 0.3%
 
-all ranks 0.2%
-
 Ban rate
 
 5.3%
-
-all ranks 3.7%
-
-#29 in the tier list · #10 among supports · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More supports on this lane
 
-[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)
+[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 163.0%Build 260.1%Build 357.9%
-
-### Core items
-
-![](/images/mlbb/items/3112.webp)
-
-Flask of the Oasis
-
-![](/images/mlbb/items/3109.webp)
-
-Fleeting Time
-
-![](/images/mlbb/items/3202.webp)
-
-Guardian Helmet
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/821.webp)
-
-Pull Yourself Together
-
-![](/images/mlbb/talents/831.webp)
-
-Focusing Mark
-
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 21.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Dominance Ice
+    Guardian Helmet
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Pull Yourself Together
+    Pull Yourself Together
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 13.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Antique Cuirass
+    Dominance Ice
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Pull Yourself Together
+    Pull Yourself Together
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 3.6%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Flask of the Oasis
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+-   ![](/images/mlbb/items/3203.webp)
+
+    Antique Cuirass
+
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Focusing Mark
+
+
 ## Skills
 
 Level-up**Time Journey**_›_**Auto Alarm Bomb**_›_**Reverse Time**
 
-![](/images/mlbb/skills/diggie-0.webp)Passive![](/images/mlbb/skills/diggie-1.webp)Skill 1![](/images/mlbb/skills/diggie-2.webp)Skill 2![](/images/mlbb/skills/diggie-3.webp)Ultimate
-
-![](/images/mlbb/skills/diggie-0.webp)
+![](/images/mlbb/skills/diggie-0.webp)Passive**Young Again**![](/images/mlbb/skills/diggie-1.webp)Skill 1**Auto Alarm Bomb**![](/images/mlbb/skills/diggie-2.webp)Skill 2**Reverse Time**![](/images/mlbb/skills/diggie-3.webp)Ultimate**Time Journey**
 
 Passive
 
 ### Young Again
 
 Upon death, Diggie reverses time and returns to egg form, allowing him to move and use a new set of skills. He is untargetable in egg form and revives at his current location.
-
-![](/images/mlbb/skills/diggie-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Diggie gains 2 stacks of Dangerous Sparks each time an enemy hero is hit by the 
 
 Up to 5 owl alarms can exist at the same time.
 
-![](/images/mlbb/skills/diggie-2.webp)
-
 Skill 2
 
 ### Reverse Time
@@ -249,8 +231,6 @@ Diggie marks the target enemy hero for 4s and pulls them back to their previous 
 
 If the enemy moves out of the circle, the pull will be triggered early.
 
-![](/images/mlbb/skills/diggie-3.webp)
-
 Ultimate
 
 ### Time Journey
@@ -259,33 +239,25 @@ Cooldown **76 Mana Cost: 130 s**
 
 Diggie removes all debuffs on nearby allied heroes (including himself) and grants them a 650 (+300% Total Magic Power) shield and Control Immunity for 2s. He also gains 50% Movement Speed for 0.5s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
+[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/baxia.webp)Baxia**+11.7**](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/ixia.webp)Ixia**+7.4**](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/kalea.webp)Kalea**+6.6**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/saber.webp)Saber**+6.1**](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Lore
 
 > The owl scholar who can control time.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/diggie)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=48)
+[Read the full story ↗](https://kazukiofficial.com/stories/diggie)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=48)
 
 **Rank up on Diggie**The calculator shows the price
 
@@ -307,7 +279,7 @@ Support, played on roam.
 
 Is Diggie strong in the current meta?
 
-Tier A, #29 of 133 heroes and #10 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.3% of matches, 55.9% win rate.
+Tier B, #57 of 133 heroes and #10 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.3% of matches, 55.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Diggie?
 

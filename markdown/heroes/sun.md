@@ -1,6 +1,6 @@
 ---
 title: "Сан MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Сан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,14% побед, тир S."
+description: "Сан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,14% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/sun.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Сан
 
-S
+B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
-
-Бессмертный Король обезьян, решительный и непреклонный, словно гора.
 
 Победы
 
 53,1%
 
-все ранги 53,7%
-
 Выбор
 
 1,5%
 
-все ранги 1,8%
-
 Баны
 
 56,9%
-
-все ранги 35,3%
-
-№4 в тир-листе · №2 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 159,7%Сборка 258,1%Сборка 358,2%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 1,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Говорящий с ветром
+    Штормовой пояс
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Коса коррозии
+    Господство льда
 
-![](/images/mlbb/items/3014.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Копье Великого дракона
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Вдохновение
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 1,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Коса коррозии
+    Говорящий с ветром
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Меч охотника на демонов
+    Коса коррозии
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/3014.webp)
 
-Золотой посох
+    Копье Великого дракона
 
-### Эмблема
 
-![](/images/mlbb/emblems/20005.webp)
+#### Заклинание
 
-Эмблема убийцы
+![](/images/mlbb/spells/20070.webp)Окаменение
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20008.webp)
 
-![](/images/mlbb/talents/621.webp)
+Эмблема поддержки
 
-Охотник за скидками
+-   ![](/images/mlbb/talents/611.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Вдохновение
 
-Квантовый заряд
+-   ![](/images/mlbb/talents/121.webp)
 
-### Заклинание
+    Благословение природы
 
-![](/images/mlbb/spells/20070.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Окаменение
+    Квантовый заряд
+
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 1,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Золотой посох
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Техника клонирования**_›_**Бесконечное разнообразие**_›_**Быстрый обмен**_›_**Мгновенное перемещение**
 
-![](/images/mlbb/skills/sun-0.webp)Пассивный![](/images/mlbb/skills/sun-1.webp)1-й навык![](/images/mlbb/skills/sun-2.webp)2-й навык![](/images/mlbb/skills/sun-3.webp)3-й навык![](/images/mlbb/skills/sun-4.webp)Ультимейт
-
-![](/images/mlbb/skills/sun-0.webp)
+![](/images/mlbb/skills/sun-0.webp)Пассивный**Бог-обезьяна**![](/images/mlbb/skills/sun-1.webp)1-й навык**Бесконечное разнообразие**![](/images/mlbb/skills/sun-2.webp)2-й навык**Быстрый обмен**![](/images/mlbb/skills/sun-3.webp)3-й навык**Мгновенное перемещение**![](/images/mlbb/skills/sun-4.webp)Ультимейт**Техника клонирования**
 
 Пассивный
 
@@ -224,8 +210,6 @@ S
 У врагов, пораженных Саном или его двойниками, снижается на 5% (складывается до 6 раз). Сан восстанавливает ОЗ в размере 75 плюс 15% от физической атаки двойника каждый раз, когда тот наносит урон.
 
 Базовые атаки Сана или его двойников наносят 65 единиц дополнительного урона монстрам.
-
-![](/images/mlbb/skills/sun-1.webp)
 
 1-й навык
 
@@ -239,8 +223,6 @@ S
 
 Этот навык имеет общий уровень и перезарядку с навыком "Быстрый обмен".
 
-![](/images/mlbb/skills/sun-2.webp)
-
 2-й навык
 
 ### Быстрый обмен
@@ -253,8 +235,6 @@ S
 
 Сан превращается в Золотой посох и маскируется, появляясь на максимальной дальности.
 
-![](/images/mlbb/skills/sun-3.webp)
-
 3-й навык
 
 ### Мгновенное перемещение
@@ -262,8 +242,6 @@ S
 Перезарядка **5 Mana Cost: 40 с**
 
 Сан приказывает своим двойникам атаковать указанного врага вместе с ним, нанося цели 270 (+40% общей физической атаки) единиц физического урона и замедляя ее и врагов позади нее на 25% (может складываться) на 1.5 сек. Это считается уроном базовой атаки и может активировать эффекты атаки, но не может нанести критический удар.
-
-![](/images/mlbb/skills/sun-4.webp)
 
 Ультимейт
 
@@ -273,33 +251,25 @@ S
 
 Сан призывает двойника, который наследует его показатели, наносит 80% урона и получает 120% урона в течение 8 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)
+[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/balmond.webp)Бальмонд**+2,4**](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу**+2,3**](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/x-borg.webp)Икс.Борг**+2,3**](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/terizla.webp)Тэризла**+2,3**](https://boostmlbb.ru/heroes/terizla.html)
+[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## История
 
 > Бессмертный Король обезьян, решительный и непреклонный, словно гора.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/sun)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=27)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/sun)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=27)
 
 **Поднимем ранг на герое «Сан»**Цена считается в калькуляторе
 
@@ -321,7 +291,7 @@ S
 
 Силён ли герой «Сан» в текущей мете?
 
-Тир S, 4-е место из 133 героев и 2-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,9% матчей, 53,1% побед.
+Тир B, 17-е место из 133 героев и 6-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,9% матчей, 53,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Сан» лучшая?
 

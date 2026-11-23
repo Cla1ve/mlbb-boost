@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-В поисках пути к возрождению древнего прошлого, она стала единственной, кто овладел секретами инь и ян.
-
 Победы
 
 46,2%
-
-все ранги 47,4%
 
 Выбор
 
 0,2%
 
-все ранги 0,2%
-
 Баны
 
 0,0%
-
-все ранги 0,1%
-
-№124 в тир-листе · №31 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 149,1%Сборка 250,4%Сборка 349,9%
-
-### Предметы
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 5,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Палочка гения
+    Пылающий жезл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Вдохновение
+    Разрыв
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Охотник за скидками
+    Мастер оружий
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 2,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Зачарованный талисман
+    Пронзающий небеса
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Пылающий жезл
+    Зачарованный талисман
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Божественный меч
+    Палочка гения
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Разрыв
+    Вдохновение
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Мастер оружий
+    Охотник за скидками
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 1,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Божественный меч
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Отвлекающий маневр**_›_**Дисперсия**_›_**Ротация**
 
-![](/images/mlbb/skills/luo-yi-0.webp)Пассивный![](/images/mlbb/skills/luo-yi-1.webp)1-й навык![](/images/mlbb/skills/luo-yi-2.webp)2-й навык![](/images/mlbb/skills/luo-yi-3.webp)Ультимейт
-
-![](/images/mlbb/skills/luo-yi-0.webp)
+![](/images/mlbb/skills/luo-yi-0.webp)Пассивный**Двойственность**![](/images/mlbb/skills/luo-yi-1.webp)1-й навык**Дисперсия**![](/images/mlbb/skills/luo-yi-2.webp)2-й навык**Ротация**![](/images/mlbb/skills/luo-yi-3.webp)Ультимейт**Отвлекающий маневр**
 
 Пассивный
 
@@ -226,8 +212,6 @@ D
 Противоположные метки могут вызвать реакцию инь-ян на определенном расстоянии, нанося отмеченным врагам 300 (+25 × ур. героя) (+190% общей магической силы) единиц магического урона, оглушая их на 0.3 сек. и притягивая друг к другу.
 
 Каждый раз, когда Ло Йи наносит новую метку на отмеченного врага, она получает 300 (+10 × ур. героя) (+150% общей магической силы) единиц щита (до 3 зарядов) и 50% дополнительной скорости передвижения, которая спадает за 2 сек.
-
-![](/images/mlbb/skills/luo-yi-1.webp)
 
 1-й навык
 
@@ -241,8 +225,6 @@ D
 
 Тип навыка меняется при каждом использовании.
 
-![](/images/mlbb/skills/luo-yi-2.webp)
-
 2-й навык
 
 ### Ротация
@@ -255,8 +237,6 @@ D
 
 Состояние этого навыка меняется при каждом использовании.
 
-![](/images/mlbb/skills/luo-yi-3.webp)
-
 Ультимейт
 
 ### Отвлекающий маневр
@@ -265,33 +245,25 @@ D
 
 **Активный:** Ло Йи создает телепортационный круг вокруг себя и отмечает указанную область (в пределах 28 ед.) в качестве места назначения. Через 3 сек. союзные герои внутри круга будут телепортированы в указанное место.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/atlas.webp)Атлас**+1,4**](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/thamuz.webp)Тамуз**+1,2**](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/estes.webp)Эстес**+1,2**](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/esmeralda.webp)Эсмеральда**+1,0**](https://boostmlbb.ru/heroes/esmeralda.html)
+[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)
 
 ## История
 
 > В поисках пути к возрождению древнего прошлого, она стала единственной, кто овладел секретами инь и ян.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/LuoYi)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=96)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/LuoYi)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=96)
 
 **Поднимем ранг на герое «Ло Йи»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ D
 
 Силён ли герой «Ло Йи» в текущей мете?
 
-Тир D, 124-е место из 133 героев и 31-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 46,2% побед.
+Тир D, 130-е место из 133 героев и 32-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 46,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Ло Йи» лучшая?
 

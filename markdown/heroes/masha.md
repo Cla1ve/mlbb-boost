@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Страж диких медведей.
-
 Победы
 
 58,7%
-
-все ранги 60,4%
 
 Выбор
 
 0,7%
 
-все ранги 0,5%
-
 Баны
 
 68,0%
-
-все ранги 40,9%
-
-№1 в тир-листе · №1 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие танки этой линии
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 163,7%Сборка 264,7%Сборка 365,1%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/3202.webp)
-
-Защитный шлем
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/133.webp)
-
-Боевой клич
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 6,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Защитный шлем
+    Защитный шлем
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 1,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Защитный шлем
+    Защитный шлем
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Охотник за скидками
+    Благословение природы
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 1,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/3202.webp)
+
+    Защитный шлем
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
 ## Навыки
 
 Прокачка**Яростное растерзание**_›_**Взмах когтями**_›_**Свирепый взмах**
 
-![](/images/mlbb/skills/masha-0.webp)Пассивный![](/images/mlbb/skills/masha-1.webp)1-й навык![](/images/mlbb/skills/masha-2.webp)2-й навык![](/images/mlbb/skills/masha-3.webp)Ультимейт
-
-![](/images/mlbb/skills/masha-0.webp)
+![](/images/mlbb/skills/masha-0.webp)Пассивный**Первобытный пакт**![](/images/mlbb/skills/masha-1.webp)1-й навык**Свирепый взмах**![](/images/mlbb/skills/masha-2.webp)2-й навык**Взмах когтями**![](/images/mlbb/skills/masha-3.webp)Ультимейт**Яростное растерзание**
 
 Пассивный
 
@@ -229,8 +215,6 @@ S
 
 Повторный разрыв "Раны" в состоянии "Дикости" обновляет длительность состояния. Можно накопить до 6 взмахов когтями.
 
-![](/images/mlbb/skills/masha-1.webp)
-
 1-й навык
 
 ### Свирепый взмах
@@ -238,8 +222,6 @@ S
 Перезарядка **8 с**
 
 Маша выпускает энергию вперед, нанося 250 (+55% общей физической атаки) единиц физического урона врагам на своем пути. Она наносит миньонам 150% урона.
-
-![](/images/mlbb/skills/masha-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ S
 
 Когда шкала ОЗ истощается, перезарядка "Взмаха когтями" сбрасывается.
 
-![](/images/mlbb/skills/masha-3.webp)
-
 Ультимейт
 
 ### Яростное растерзание
@@ -261,33 +241,25 @@ S
 
 Маша совершает рывок к вражескому герою, нанося 300 (+50% доп. макс. ОЗ) единиц физического урона и оглушая его на 1 сек., одновременно отбрасывая ближайших врагов.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/bane.webp)Бэйн**+1,9**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/guinevere.webp)Гвиневра**+1,7**](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/x-borg.webp)Икс.Борг**+1,6**](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/saber.webp)Сабер**+1,5**](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
 
 ## История
 
 > Страж диких медведей.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Masha)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=88)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Masha)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=88)
 
 **Поднимем ранг на герое «Маша»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ S
 
 Силён ли герой «Маша» в текущей мете?
 
-Тир S, 1-е место из 133 героев и 1-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 68,0% матчей, 58,7% побед.
+Тир S, 1-е место из 133 героев и 1-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 68,0% матчей, 58,7% побед. В профессиональных матчах за месяц героя драфтуют в 100,0% катков.
 
 Какая сборка на героя «Маша» лучшая?
 

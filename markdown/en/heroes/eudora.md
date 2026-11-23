@@ -1,6 +1,6 @@
 ---
 title: "Eudora MLBB: build, counters and skills | MLBB Boost"
-description: "Eudora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.22% win rate, tier S."
+description: "Eudora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.22% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/eudora.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Eudora
 
-S
+A
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
-
-The elven mage who commands lightning at her fingertips to pierce prejudice and illuminate the path forward.
 
 Win rate
 
 50.2%
 
-all ranks 50.4%
-
 Pick rate
 
 1.7%
 
-all ranks 1.8%
-
 Ban rate
 
 34.0%
-
-all ranks 47.8%
-
-#10 in the tier list · #1 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 154.2%Build 256.2%Build 355.6%
-
-### Core items
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-![](/images/mlbb/items/3111.webp)
-
-Genius Wand
-
-![](/images/mlbb/items/3108.webp)
-
-Blood Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Genius Wand
+    Sky Piercer
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Sky Piercer
+    Genius Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3108.webp)
 
-Lightning Truncheon
+    Blood Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Genius Wand
+    Genius Wand
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Glowing Wand
+    Sky Piercer
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 3.9%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Genius Wand
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Thunder’s Wrath**_›_**Forked Lightning**_›_**Ball Lightning**
 
-![](/images/mlbb/skills/eudora-0.webp)Passive![](/images/mlbb/skills/eudora-1.webp)Skill 1![](/images/mlbb/skills/eudora-2.webp)Skill 2![](/images/mlbb/skills/eudora-3.webp)Ultimate
-
-![](/images/mlbb/skills/eudora-0.webp)
+![](/images/mlbb/skills/eudora-0.webp)Passive**Superconductor**![](/images/mlbb/skills/eudora-1.webp)Skill 1**Forked Lightning**![](/images/mlbb/skills/eudora-2.webp)Skill 2**Ball Lightning**![](/images/mlbb/skills/eudora-3.webp)Ultimate**Thunder’s Wrath**
 
 Passive
 
 ### Superconductor
 
 Eudora's skills inflict Superconductor for 5s on non-minion units hit and can trigger additional effects against enemies affected by Superconductor.
-
-![](/images/mlbb/skills/eudora-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ When hitting targets affected by Superconductor, Eudora forms a lightning chain 
 
 The lightning chain deals 10 (+4% Total Magic Power) Magic Damage over time and an additional 275 (+100% Total Magic Power) Magic Damage when it ends. If this hit lands, it reduces this skill's cooldown by 50%.
 
-![](/images/mlbb/skills/eudora-2.webp)
-
 Skill 2
 
 ### Ball Lightning
@@ -248,8 +230,6 @@ Cooldown **11 Mana Cost: 80 s**
 Eudora hurls an orb of lightning at the target enemy, reducing their by 10 for 1.8s, dealing 300 (+50% Total Magic Power) Magic Damage, and stunning them for 1s.
 
 If the target is affected by Superconductor, the lightning orb reduces nearby enemies' , deals AOE damage centered on the target, and stuns all nearby enemies.
-
-![](/images/mlbb/skills/eudora-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Eudora calls down lightning on the target area, dealing 540 (+145% Total Magic P
 
 When Thunder's Wrath hits a target affected by Superconductor, it triggers a Thunderburst at the target's location after a short delay, dealing 300 (+100% Total Magic Power) Magic Damage to them.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
+[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/zhuxin.webp)Zhuxin**+4.0**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Cyclops**+1.8**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Floryn**+1.7**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/harley.webp)Harley**+1.6**](https://boostmlbb.ru/en/heroes/harley.html)
+[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
 ## Lore
 
 > The elven mage who commands lightning at her fingertips to pierce prejudice and illuminate the path forward.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Eudora)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=15)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Eudora)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=15)
 
 **Rank up on Eudora**The calculator shows the price
 
@@ -309,7 +281,7 @@ Mage, played in the Mid Lane.
 
 Is Eudora strong in the current meta?
 
-Tier S, #10 of 133 heroes and #1 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 34.0% of matches, 50.2% win rate.
+Tier A, #16 of 133 heroes and #4 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 34.0% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 24.7% of them.
 
 What is the best build for Eudora?
 

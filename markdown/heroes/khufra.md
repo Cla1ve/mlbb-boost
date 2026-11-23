@@ -1,6 +1,6 @@
 ---
 title: "Хуфра MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хуфра в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 54,86% побед, тир A."
+description: "Хуфра в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 54,86% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/khufra.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Хуфра
 
-A
+B
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/roam.webp)Роум
-
-Запечатанный древний тиран.
 
 Победы
 
 54,9%
 
-все ранги 54,7%
-
 Выбор
 
 0,6%
 
-все ранги 0,3%
-
 Баны
 
 4,0%
-
-все ранги 2,1%
-
-№26 в тир-листе · №6 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 161,7%Сборка 260,9%Сборка 359,2%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3201.webp)
-
-Проклятый шлем
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 8,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3201.webp)
 
-Наплечник наказания
+    Проклятый шлем
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 7,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Древняя кираса
+    Наплечник наказания
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 4,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3203.webp)
+
+    Древняя кираса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Ярость тирана**_›_**Прыгающий шар**_›_**Месть тирана**
 
-![](/images/mlbb/skills/khufra-0.webp)Пассивный![](/images/mlbb/skills/khufra-1.webp)1-й навык![](/images/mlbb/skills/khufra-2.webp)2-й навык![](/images/mlbb/skills/khufra-3.webp)Ультимейт
-
-![](/images/mlbb/skills/khufra-0.webp)
+![](/images/mlbb/skills/khufra-0.webp)Пассивный**Заклинание проклятья**![](/images/mlbb/skills/khufra-1.webp)1-й навык**Месть тирана**![](/images/mlbb/skills/khufra-2.webp)2-й навык**Прыгающий шар**![](/images/mlbb/skills/khufra-3.webp)Ультимейт**Ярость тирана**
 
 Пассивный
 
@@ -225,8 +211,6 @@ A
 
 Каждый раз, когда Хуфра накладывает эффект контроля на вражеского героя с помощью своего навыка, перезарядка "Заклинания проклятья" сокращается на 4 сек.
 
-![](/images/mlbb/skills/khufra-1.webp)
-
 1-й навык
 
 ### Месть тирана
@@ -234,8 +218,6 @@ A
 Перезарядка **15 Mana Cost: 80 с**
 
 Хуфра натягивает повязки на своих руках, чтобы запустить себя в указанном направлении, нанося 50 (+7 (+1.5% дополнительной физической атаки)% от его ) единиц физического урона всем врагам на пути. При перемещении на самое дальнее расстояние или столкновении с первым вражеским героем Хуфра немедленно остановится, нанося 50 (+7 (+1.5% дополнительной физической атаки)% от его ) единиц физического урона ближайшим врагам и подбрасывая их на время до 1 сек.
-
-![](/images/mlbb/skills/khufra-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ A
 
 Каждый раз, когда "Прыгающий шар" ударяется о землю, он наносит 50 (+3 (+2% дополнительной физической атаки)% от его ) единиц магического урона ближайшим врагам и замедляет их на 80% на 0.2 сек.
 
-![](/images/mlbb/skills/khufra-3.webp)
-
 Ультимейт
 
 ### Ярость тирана
@@ -257,33 +237,25 @@ A
 
 Хуфра отталкивает все окружающие вражеские цели вперед (этот навык можно прервать только подавлением), нанося 300 (+100% общей физической атаки) единиц физического урона и замедляя их на 1.25 сек. Если враги ударяются о стены, им наносится дополнительный физический урон, равный 150% урона от этого навыка, и они будут оглушены, а не замедлены.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/natalia.webp)Наталья**+2,9**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/saber.webp)Сабер**+2,7**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт**+2,6**](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/kalea.webp)Калеа**+2,0**](https://boostmlbb.ru/heroes/kalea.html)
+[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
 
 ## История
 
 > Запечатанный древний тиран.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/khufra)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=78)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/khufra)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=78)
 
 **Поднимем ранг на герое «Хуфра»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ A
 
 Силён ли герой «Хуфра» в текущей мете?
 
-Тир A, 26-е место из 133 героев и 6-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,0% матчей, 54,9% побед.
+Тир B, 48-е место из 133 героев и 11-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,0% матчей, 54,9% побед. В профессиональных матчах за месяц героя драфтуют в 3,6% катков.
 
 Какая сборка на героя «Хуфра» лучшая?
 

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-A young martial artist on a journey to defeat the Evil God that dwells within him.
-
 Win rate
 
 49.9%
-
-all ranks 49.6%
 
 Pick rate
 
 0.3%
 
-all ranks 0.5%
-
 Ban rate
 
 0.5%
-
-all ranks 1.7%
-
-#87 in the tier list · #28 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 157.7%Build 253.5%Build 353.7%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3013.webp)
-
-Sea Halberd
-
-![](/images/mlbb/items/3004.webp)
-
-Endless Battle
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 2.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Hunter Strike
+    War Axe
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sea Halberd
+    Sea Halberd
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-War Axe
+    Endless Battle
 
-### Emblem
 
-![](/images/mlbb/emblems/20005.webp)
+#### Spell
 
-Assassin
+![](/images/mlbb/spells/20070.webp)Petrify
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20007.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Fighter
 
-Weapons Master
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Thrill
 
-Impure Rage
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Spell
+    Weapons Master
 
-![](/images/mlbb/spells/20070.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Petrify
+    Impure Rage
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Blade of the Heptaseas
+    Hunter Strike
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Malefic Roar
+    Sea Halberd
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Sea Halberd
+    War Axe
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Master Assassin
+    Weapons Master
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Concussive Blast
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Master Assassin
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**My Turn**_›_**Charged Punch**_›_**Instant Blast**
 
-![](/images/mlbb/skills/yin-0.webp)Passive![](/images/mlbb/skills/yin-1.webp)Skill 1![](/images/mlbb/skills/yin-2.webp)Skill 2![](/images/mlbb/skills/yin-3.webp)Ultimate
-
-![](/images/mlbb/skills/yin-0.webp)
+![](/images/mlbb/skills/yin-0.webp)Passive**Leave It to Me**![](/images/mlbb/skills/yin-1.webp)Skill 1**Charged Punch**![](/images/mlbb/skills/yin-2.webp)Skill 2**Instant Blast**![](/images/mlbb/skills/yin-3.webp)Ultimate**My Turn**
 
 Passive
 
 ### Leave It to Me
 
 If there are no allied heroes within 4 units of Yin, his damage is increased to 120% and he gains 8% Spell Vamp.
-
-![](/images/mlbb/skills/yin-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ During this time, his next Basic Attack will be enhanced, dealing 25 (+100% Tota
 
 Successfully throwing the charged punch reduces the skill's cooldown by 35%.
 
-![](/images/mlbb/skills/yin-2.webp)
-
 Skill 2
 
 ### Instant Blast
@@ -248,8 +230,6 @@ Cooldown **12 s**
 Yin dashes forward, leaving a Golden Ring behind while dealing 75 (+35% Extra Physical Attack) Physical Damage to enemies along the way. He gains 30% extra Damage Reduction for 4s if an enemy hero is hit.
 
 After 1s, the Golden Ring will catch up with Yin, dealing 150 (+70% Extra Physical Attack) Physical Damage to enemies it passes through and stunning them for 1s.
-
-![](/images/mlbb/skills/yin-3.webp)
 
 Ultimate
 
@@ -265,33 +245,25 @@ The domain will end early if either of the two is killed. If Lieh successfully k
 
 If Yin fails to pull his target into the domain, the skill will enter a 3s cooldown.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/sun.webp)Sun**+1.8**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/hilda.webp)Hilda**+1.7**](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/gloo.webp)Gloo**+1.6**](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khaleed.webp)Khaleed**+1.4**](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)
 
 ## Lore
 
 > A young martial artist on a journey to defeat the Evil God that dwells within him.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yin)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=113)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yin)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=113)
 
 **Rank up on Yin**The calculator shows the price
 
@@ -313,7 +285,7 @@ Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Yin strong in the current meta?
 
-Tier C, #87 of 133 heroes and #28 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 49.9% win rate.
+Tier C, #106 of 133 heroes and #33 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Yin?
 

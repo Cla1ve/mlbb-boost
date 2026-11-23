@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle![](/images/mlbb/filters/roam.webp)Roam
 
-The nightmare of the Abyss who's willing to betray anyone in order to survive.
-
 Win rate
 
 46.7%
-
-all ranks 47.6%
 
 Pick rate
 
 0.4%
 
-all ranks 0.6%
-
 Ban rate
 
 2.2%
-
-all ranks 4.7%
-
-#107 in the tier list · #25 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 151.9%Build 254.2%Build 353.2%
-
-### Core items
-
-![](/images/mlbb/items/3007.webp)
-
-Blade of the Heptaseas
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2006.webp)
-
-Demon Hunter Sword
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Corrosion Scythe
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Blade of the Heptaseas
+    Hunter Strike
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Demon Hunter Sword
+    Demon Hunter Sword
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Seasoned Hunter
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Blade of the Heptaseas
+    Corrosion Scythe
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Corrosion Scythe
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Demon Hunter Sword
+    Demon Hunter Sword
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.0%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Dark Night Falls**_›_**Deadly Stinger**_›_**Hidden Terror**
 
-![](/images/mlbb/skills/helcurt-0.webp)Passive![](/images/mlbb/skills/helcurt-1.webp)Skill 1![](/images/mlbb/skills/helcurt-2.webp)Skill 2![](/images/mlbb/skills/helcurt-3.webp)Ultimate
-
-![](/images/mlbb/skills/helcurt-0.webp)
+![](/images/mlbb/skills/helcurt-0.webp)Passive**Shadow of Styx**![](/images/mlbb/skills/helcurt-1.webp)Skill 1**Hidden Terror**![](/images/mlbb/skills/helcurt-2.webp)Skill 2**Deadly Stinger**![](/images/mlbb/skills/helcurt-3.webp)Ultimate**Dark Night Falls**
 
 Passive
 
@@ -227,8 +213,6 @@ He gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over ti
 
 Any hero killed after being hit by Helcurt leaves a dark fog that explodes and spreads with a cooldown of 10s. Helcurt Conceals himself while within the dark fog.
 
-![](/images/mlbb/skills/helcurt-1.webp)
-
 Skill 1
 
 ### Hidden Terror
@@ -238,8 +222,6 @@ Cooldown **15 s**
 **Passive:** When Helcurt is in the Prowler state, Terrify also affects enemy heroes hit and briefly reveals them. Its cooldown decreases 3 times as fast as normal.
 
 **Active:** Helcurt blinks to the target location and deals 150 (+70% Total Physical Attack) Physical Damage to enemies in the area, reducing their Movement Speed by 60% for 0.75s.
-
-![](/images/mlbb/skills/helcurt-2.webp)
 
 Skill 2
 
@@ -253,8 +235,6 @@ Cooldown **4 s**
 
 Deadly Stinger counts as a Basic Attack but cannot Crit.
 
-![](/images/mlbb/skills/helcurt-3.webp)
-
 Ultimate
 
 ### Dark Night Falls
@@ -265,33 +245,25 @@ Helcurt summons the Dark Night, reducing all enemies' sight range and blocking a
 
 The Dark Night makes it easier for Helcurt to leave enemies' sight range.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/akai.webp)Akai**+2.7**](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/gloo.webp)Gloo**+2.6**](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/belerick.webp)Belerick**+2.6**](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/khufra.webp)Khufra**+2.6**](https://boostmlbb.ru/en/heroes/khufra.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
 
 ## Lore
 
 > The nightmare of the Abyss who's willing to betray anyone in order to survive.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/HelcurtRE)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=51)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/HelcurtRE)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=51)
 
 **Rank up on Helcurt**The calculator shows the price
 
@@ -313,7 +285,7 @@ Assassin, played in the jungle or on roam.
 
 Is Helcurt strong in the current meta?
 
-Tier C, #107 of 133 heroes and #25 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.2% of matches, 46.7% win rate.
+Tier C, #102 of 133 heroes and #22 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.2% of matches, 46.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Helcurt?
 

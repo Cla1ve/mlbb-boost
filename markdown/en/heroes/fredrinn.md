@@ -1,6 +1,6 @@
 ---
 title: "Fredrinn MLBB: build, counters and skills | MLBB Boost"
-description: "Fredrinn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 52.36% win rate, tier B."
+description: "Fredrinn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 52.36% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/fredrinn.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Fredrinn
 
-B
+C
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/jungle.webp)Jungle
-
-A master treasure appraiser in Los Pecados accumulating wealth and searching for his lost friend.
 
 Win rate
 
 52.4%
 
-all ranks 51.3%
-
 Pick rate
 
 0.5%
 
-all ranks 0.4%
-
 Ban rate
 
 1.1%
-
-all ranks 1.6%
-
-#48 in the tier list · #10 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
+[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 162.1%Build 261.4%Build 360.5%
-
-### Core items
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-![](/images/mlbb/items/3204.webp)
-
-Oracle
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Oracle
+    Oracle
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Vitality
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Oracle
+    Oracle
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Chastise Pauldron
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Vitality
+    Vitality
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Vitality
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Appraiser's Wrath**_›_**Piercing Strike**_›_**Brave Assault**
 
-![](/images/mlbb/skills/fredrinn-0.webp)Passive![](/images/mlbb/skills/fredrinn-1.webp)Skill 1![](/images/mlbb/skills/fredrinn-2.webp)Skill 2![](/images/mlbb/skills/fredrinn-3.webp)Skill 3![](/images/mlbb/skills/fredrinn-4.webp)Ultimate
-
-![](/images/mlbb/skills/fredrinn-0.webp)
+![](/images/mlbb/skills/fredrinn-0.webp)Passive**Crystalline Armor**![](/images/mlbb/skills/fredrinn-1.webp)Skill 1**Piercing Strike**![](/images/mlbb/skills/fredrinn-2.webp)Skill 2**Brave Assault**![](/images/mlbb/skills/fredrinn-3.webp)Skill 3**Energy Eruption**![](/images/mlbb/skills/fredrinn-4.webp)Ultimate**Appraiser's Wrath**
 
 Passive
 
@@ -227,8 +213,6 @@ Fredrinn stores 100% of the damage he receives as Crystal Energy, which decays a
 
 Fredrinn can convert the stored Crystal Energy into HP by 20% of his damage dealt (10% for damage dealt to minions). Gaining a Combo Point resets the decaying timer.
 
-![](/images/mlbb/skills/fredrinn-1.webp)
-
 Skill 1
 
 ### Piercing Strike
@@ -239,8 +223,6 @@ Fredrinn thrusts his sword in the target direction, dealing 125 (+7% Max HP) (+1
 
 This skill deals 170% damage to non-hero enemies.
 
-![](/images/mlbb/skills/fredrinn-2.webp)
-
 Skill 2
 
 ### Brave Assault
@@ -248,8 +230,6 @@ Skill 2
 Cooldown **7.5 s**
 
 Fredrinn dashes in the target direction, dealing 140 (+80% Extra Physical Attack) Physical Damage to the first non-minion enemy hit. His next Basic Attack knocks the target airborne for 0.3s.
-
-![](/images/mlbb/skills/fredrinn-3.webp)
 
 Skill 3
 
@@ -259,8 +239,6 @@ Fredrinn deals 210 (+100% Extra Physical Attack) Physical Damage to nearby enemi
 
 This skill costs 1 Combo Point.
 
-![](/images/mlbb/skills/fredrinn-4.webp)
-
 Ultimate
 
 ### Appraiser's Wrath
@@ -269,33 +247,25 @@ Fredrinn slams his sword in the target direction (this skill can only be interru
 
 This skill costs 3 Combo Points.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/diggie.webp)Diggie**+4.0**](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/granger.webp)Granger**+3.4**](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/angela.webp)Angela**+3.0**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/beatrix.webp)Beatrix**+2.2**](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Lore
 
 > A master treasure appraiser in Los Pecados accumulating wealth and searching for his lost friend.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Fredrinn)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=117)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Fredrinn)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=117)
 
 **Rank up on Fredrinn**The calculator shows the price
 
@@ -317,7 +287,7 @@ Tank and fighter, played in the jungle.
 
 Is Fredrinn strong in the current meta?
 
-Tier B, #48 of 133 heroes and #10 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 52.4% win rate.
+Tier C, #76 of 133 heroes and #13 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Fredrinn?
 

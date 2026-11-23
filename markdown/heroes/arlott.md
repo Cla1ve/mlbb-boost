@@ -1,6 +1,6 @@
 ---
 title: "Арлотт MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Арлотт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 48,06% побед, тир C."
+description: "Арлотт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 48,06% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/arlott.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Арлотт
 
-C
+B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Наполовину человек, наполовину демон, вооруженный двумя копьями. Жаждет отомстить как Церкви, так и демонам.
 
 Победы
 
 48,1%
 
-все ранги 47,5%
-
 Выбор
 
 0,7%
 
-все ранги 0,5%
-
 Баны
 
 0,8%
-
-все ранги 0,6%
-
-№89 в тир-листе · №30 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 156,3%Сборка 251,9%Сборка 356,4%
-
-### Предметы
-
-![](/images/mlbb/items/3013.webp)
-
-Трезубец
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 4,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Пронзающий небеса
+    Трезубец
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Трезубец
+    Пронзающий небеса
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 4,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Топор войны
+    Пронзающий небеса
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Господство льда
+    Трезубец
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Оракул
+    Злобный рык
 
-### Эмблема
 
-![](/images/mlbb/emblems/20007.webp)
+#### Заклинание
 
-Эмблема бойца
+![](/images/mlbb/spells/20070.webp)Окаменение
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/721.webp)
+Эмблема убийцы
 
-Кровавое пиршество
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/731.webp)
+    Разрыв
 
-Отвага
+-   ![](/images/mlbb/talents/521.webp)
 
-### Заклинание
+    Мастер-убийца
 
-![](/images/mlbb/spells/20070.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Окаменение
+    Смертельное воспламенение
+
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 1,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Последний удар**_›_**Отмщение**_›_**Бесстрашный удар**
 
-![](/images/mlbb/skills/arlott-0.webp)Пассивный![](/images/mlbb/skills/arlott-1.webp)1-й навык![](/images/mlbb/skills/arlott-2.webp)2-й навык![](/images/mlbb/skills/arlott-3.webp)Ультимейт
-
-![](/images/mlbb/skills/arlott-0.webp)
+![](/images/mlbb/skills/arlott-0.webp)Пассивный**Демонический взгляд**![](/images/mlbb/skills/arlott-1.webp)1-й навык**Бесстрашный удар**![](/images/mlbb/skills/arlott-2.webp)2-й навык**Отмщение**![](/images/mlbb/skills/arlott-3.webp)Ультимейт**Последний удар**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 Глаз также автоматически отмечает ближайшего вражеского героя в поле зрения каждые 7 сек.
 
-![](/images/mlbb/skills/arlott-1.webp)
-
 1-й навык
 
 ### Бесстрашный удар
@@ -234,8 +218,6 @@ C
 Перезарядка **8 с**
 
 Арлотт взмахивает копьем вперед, нанося 200 (+60% общей физической атаки) единиц физического урона и ненадолго оглушая цели в области. Цели, пораженные дальней частью области действия, будут оглушены на 1 сек.
-
-![](/images/mlbb/skills/arlott-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ C
 
 Если цель Арлотта отмечена, он ненадолго увеличивает скорость передвижения, а этот навык наносит двойной урон, мгновенно сбрасывает перезарядку и восстанавливает ему 70 (+60% общей физической атаки) единиц ОЗ (восстанавливается только 50% от этого количества, если навык используется не на героях).
 
-![](/images/mlbb/skills/arlott-3.webp)
-
 Ультимейт
 
 ### Последний удар
@@ -259,33 +239,25 @@ C
 
 **Активный:** Арлотт рассекает врагов перед собой, нанося 400 (+80% общей физической атаки) единиц физического урона врагам в области, отталкивая их к краю области действия и ненадолго раскрывая их местоположение (этот навык можно прервать только подавлением).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/chip.webp)Чип**+5,5**](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/bane.webp)Бэйн**+2,3**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/aulus.webp)Аулус**+2,2**](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/alice.webp)Алиса**+2,0**](https://boostmlbb.ru/heroes/alice.html)
+[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)
 
 ## История
 
 > Наполовину человек, наполовину демон, вооруженный двумя копьями. Жаждет отомстить как Церкви, так и демонам.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Arlott)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=120)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Arlott)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=120)
 
 **Поднимем ранг на герое «Арлотт»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Арлотт» в текущей мете?
 
-Тир C, 89-е место из 133 героев и 30-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 48,1% побед.
+Тир B, 63-е место из 133 героев и 18-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 48,1% побед. В профессиональных матчах за месяц героя драфтуют в 12,5% катков.
 
 Какая сборка на героя «Арлотт» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Эймон MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эймон в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,42% побед, тир B."
+description: "Эймон в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,42% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/aamon.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Эймон
 
-B
+C
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
-
-Отчужденный герцог замка Аберлин.
 
 Победы
 
 50,4%
 
-все ранги 50,2%
-
 Выбор
 
 0,6%
 
-все ранги 0,6%
-
 Баны
 
 0,8%
-
-все ранги 2,5%
-
-№64 в тир-листе · №15 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 154,8%Сборка 254,4%Сборка 357,4%
-
-### Предметы
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/3102.webp)
-
-Священный кристалл
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 8,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Пронзающий небеса
+    Палочка гения
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Палочка гения
+    Священный кристалл
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Священный кристалл
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 4,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Палочка гения
+    Пронзающий небеса
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Райское перо
+    Палочка гения
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Священный кристалл
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 2,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Палочка гения
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Райское перо
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Бесконечные осколки**_›_**Осколки души**_›_**Осколки убийцы**
 
-![](/images/mlbb/skills/aamon-0.webp)Пассивный![](/images/mlbb/skills/aamon-1.webp)1-й навык![](/images/mlbb/skills/aamon-2.webp)2-й навык![](/images/mlbb/skills/aamon-3.webp)Ультимейт
-
-![](/images/mlbb/skills/aamon-0.webp)
+![](/images/mlbb/skills/aamon-0.webp)Пассивный**Невидимая броня**![](/images/mlbb/skills/aamon-1.webp)1-й навык**Осколки души**![](/images/mlbb/skills/aamon-2.webp)2-й навык**Осколки убийцы**![](/images/mlbb/skills/aamon-3.webp)Ультимейт**Бесконечные осколки**
 
 Пассивный
 
@@ -224,8 +210,6 @@ B
 Эймон переходит в состояние камуфляжа каждый раз при попадании по врагу навыком, становясь неуловимым для прицела, восстанавливая ОЗ в размере 25 (+15% общей магической силы) (+3% от его ) кажд. 0.5 сек. и получая 80% скорости передвижения, которая быстро спадает в течение 3 сек.
 
 При выходе из состояния камуфляжа Эймон немедленно сбрасывает перезарядку базовой атаки и усиливает базовые атаки в течение 3 сек. Каждая усиленная базовая атака наносит 70 (+100% общей физической атаки) (+115% общей магической силы) единиц магического урона. При активном выходе из камуфляжа первая атака наносит 84 (+120% общей физической атаки) (+138% общей магической силы) единиц урона и снижает перезарядку всех навыков на 1 сек.
-
-![](/images/mlbb/skills/aamon-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ B
 
 **Активный:** Эймон бросает осколок в ближайшего врага, нанося 175 (+60% общей магической силы) единиц магического урона.
 
-![](/images/mlbb/skills/aamon-2.webp)
-
 2-й навык
 
 ### Осколки убийцы
@@ -248,8 +230,6 @@ B
 Эймон бросает осколок вперед, нанося 120 (+50% общей магической силы) единиц магического урона и замедляя пораженных врагов на 50% на 2 сек. После небольшой задержки осколок возвращается к Эймону, даруя ему состояние камуфляжа.
 
 Если осколок поражает врага, не являющегося миньоном, он возвращается немедленно.
-
-![](/images/mlbb/skills/aamon-3.webp)
 
 Ультимейт
 
@@ -263,33 +243,25 @@ B
 
 Наносимый урон увеличивается с потерянными цели, и он максимален, когда ОЗ цели ниже 30%.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)
+[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/gloo.webp)Глу**+1,2**](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/benedetta.webp)Бенедетта**+1,2**](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/beatrix.webp)Беатрис**+1,2**](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/zetian.webp)Цзэтянь**+1,1**](https://boostmlbb.ru/heroes/zetian.html)
+[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)
 
 ## История
 
 > Отчужденный герцог замка Аберлин.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Aamon)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=109)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Aamon)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=109)
 
 **Поднимем ранг на герое «Эймон»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ B
 
 Силён ли герой «Эймон» в текущей мете?
 
-Тир B, 64-е место из 133 героев и 15-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 50,4% побед.
+Тир C, 86-е место из 133 героев и 19-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Эймон» лучшая?
 

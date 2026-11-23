@@ -1,6 +1,6 @@
 ---
 title: "Jawhead MLBB: build, counters and skills | MLBB Boost"
-description: "Jawhead in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.49% win rate, tier C."
+description: "Jawhead in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.49% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/jawhead.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Jawhead
 
-C
+D
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/roam.webp)Roam
-
-Intelligent robot used to protect little Ailee.
 
 Win rate
 
 47.5%
 
-all ranks 47.9%
-
 Pick rate
 
 0.2%
 
-all ranks 0.3%
-
 Ban rate
 
 0.1%
-
-all ranks 0.3%
-
-#113 in the tier list · #38 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)
+[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 157.0%Build 255.3%Build 350.5%
-
-### Core items
-
-![](/images/mlbb/items/3007.webp)
-
-Blade of the Heptaseas
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Hunter Strike
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Sea Halberd
+    Hunter Strike
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Dominance Ice
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Seasoned Hunter
+    Master Assassin
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Killing Spree
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 3.0%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Unstoppable Force**_›_**Smart Missiles**_›_**Ejector**
 
-![](/images/mlbb/skills/jawhead-0.webp)Passive![](/images/mlbb/skills/jawhead-1.webp)Skill 1![](/images/mlbb/skills/jawhead-2.webp)Skill 2![](/images/mlbb/skills/jawhead-3.webp)Ultimate
-
-![](/images/mlbb/skills/jawhead-0.webp)
+![](/images/mlbb/skills/jawhead-0.webp)Passive**Mecha Suppression**![](/images/mlbb/skills/jawhead-1.webp)Skill 1**Smart Missiles**![](/images/mlbb/skills/jawhead-2.webp)Skill 2**Ejector**![](/images/mlbb/skills/jawhead-3.webp)Ultimate**Unstoppable Force**
 
 Passive
 
 ### Mecha Suppression
 
 Each time Jawhead deals damage to an enemy hero or a Creep, he inflicts a stack of Mecha Suppression on them for 3s (up to 6 stacks). Each stack of Mecha Suppression increases all damage dealt to the target by 2% (limited to 50% for Creeps).
-
-![](/images/mlbb/skills/jawhead-1.webp)
 
 Skill 1
 
@@ -232,8 +216,6 @@ Skill 1
 Cooldown **5 Mana Cost: 60 s**
 
 Jawhead launches up to 12 missiles at random nearby enemies over 5s, each missile dealing 135 (+30% Total Physical Attack) Physical Damage to the enemy hit.
-
-![](/images/mlbb/skills/jawhead-2.webp)
 
 Skill 2
 
@@ -245,8 +227,6 @@ Jawhead gains 30% Movement Speed and a 500 (+100% Total Physical Attack) shield 
 
 **Use Again:** Jawhead flings the nearest unit (prioritizes heroes) to the target location, dealing 300 (+80% Total Physical Attack) Physical Damage to enemies in the area and stunning them for 0.5s. Can be used on allied heroes and they will not take damage.
 
-![](/images/mlbb/skills/jawhead-3.webp)
-
 Ultimate
 
 ### Unstoppable Force
@@ -255,33 +235,25 @@ Cooldown **35 Mana Cost: 120 s**
 
 Jawhead charges into the target enemy hero, dealing 350 (+150% Total Physical Attack) Physical Damage and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/estes.webp)Estes**+2.0**](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/lolita.webp)Lolita**+2.0**](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/belerick.webp)Belerick**+1.8**](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/rafaela.webp)Rafaela**+1.7**](https://boostmlbb.ru/en/heroes/rafaela.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 
 ## Lore
 
 > Intelligent robot used to protect little Ailee.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/jawhead)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=54)
+[Read the full story ↗](https://kazukiofficial.com/stories/jawhead)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=54)
 
 **Rank up on Jawhead**The calculator shows the price
 
@@ -303,7 +275,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Jawhead strong in the current meta?
 
-Tier C, #113 of 133 heroes and #38 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.5% win rate.
+Tier D, #121 of 133 heroes and #41 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Jawhead?
 

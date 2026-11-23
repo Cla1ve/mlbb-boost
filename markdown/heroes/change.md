@@ -1,6 +1,6 @@
 ---
 title: "Чан'Э MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чан'Э в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 45,95% побед, тир D."
+description: "Чан'Э в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 45,95% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/change.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Чан'Э
 
-D
+C
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Озорная и милая ученица Великого дракона.
 
 Победы
 
 46,0%
 
-все ранги 48,2%
-
 Выбор
 
 0,4%
 
-все ранги 0,6%
-
 Баны
 
 0,1%
-
-все ранги 0,3%
-
-№121 в тир-листе · №30 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 154,3%Сборка 252,1%Сборка 350,6%
-
-### Предметы
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 4,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Пронзающий небеса
+    Жезл молний
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Божественный меч
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 4,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Божественный меч
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20140.webp)
-
-Огненный выстрел
 
 Победы
 
@@ -209,21 +159,55 @@ D
 
 2,1%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Божественный меч
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Метеоритный дождь**_›_**Лунная ударная волна**_›_**Полумесяц**
 
-![](/images/mlbb/skills/change-0.webp)Пассивный![](/images/mlbb/skills/change-1.webp)1-й навык![](/images/mlbb/skills/change-2.webp)2-й навык![](/images/mlbb/skills/change-3.webp)Ультимейт
-
-![](/images/mlbb/skills/change-0.webp)
+![](/images/mlbb/skills/change-0.webp)Пассивный**Нарушитель спокойствия**![](/images/mlbb/skills/change-1.webp)1-й навык**Лунная ударная волна**![](/images/mlbb/skills/change-2.webp)2-й навык**Полумесяц**![](/images/mlbb/skills/change-3.webp)Ультимейт**Метеоритный дождь**
 
 Пассивный
 
 ### Нарушитель спокойствия
 
 Каждый раз, когда Чан'Э наносит урон врагу, она оставляет на нем метку, которая уменьшает его скорость передвижения на 1% (до 20%).
-
-![](/images/mlbb/skills/change-1.webp)
 
 1-й навык
 
@@ -234,8 +218,6 @@ D
 Чан'Э бросает энергетический шар в указанном направлении, нанося 350 (+130% общей магической силы) единиц мaгического урона врагам на пути и замедляя их на 10% на 1.5 сек.
 
 **Полумесяц:** "Полумесяц" отправит 4 дополнительных энергетических шара вместе с Чан'Э, каждый из которых наносит 20% урона и замедляет пораженных врагов. Эффект замедления может складываться (до 20%).
-
-![](/images/mlbb/skills/change-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ D
 
 Каждый раз, когда Чан'Э наносит магический урон базовыми атаками или навыками, перезарядка этого навыка уменьшается на 0.2 сек.
 
-![](/images/mlbb/skills/change-3.webp)
-
 Ультимейт
 
 ### Метеоритный дождь
@@ -261,33 +241,25 @@ D
 
 **Полумесяц:** выпускает метеоры вместе с Чан'Э, каждый из которых наносит 33% урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harley.webp)Харли**+1,9**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/johnson.webp)Джонсон**+1,7**](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/franco.webp)Франко**+1,6**](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/jawhead.webp)Кусака**+1,6**](https://boostmlbb.ru/heroes/jawhead.html)
+[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## История
 
 > Озорная и милая ученица Великого дракона.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/chang-e)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=61)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/chang-e)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=61)
 
 **Поднимем ранг на герое «Чан'Э»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ D
 
 Силён ли герой «Чан'Э» в текущей мете?
 
-Тир D, 121-е место из 133 героев и 30-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,0% побед.
+Тир C, 120-е место из 133 героев и 30-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Чан'Э» лучшая?
 

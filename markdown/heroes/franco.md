@@ -1,6 +1,6 @@
 ---
 title: "Франко MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Франко в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 40,57% побед, тир D."
+description: "Франко в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 40,57% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/franco.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Франко
 
-D
+C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/roam.webp)Роум
-
-Отважный северный воин, заклятый враг Бэйна.
 
 Победы
 
 40,6%
 
-все ранги 41,6%
-
 Выбор
 
 0,6%
 
-все ранги 0,9%
-
 Баны
 
 1,7%
-
-все ранги 3,1%
-
-№133 в тир-листе · №25 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 144,0%Сборка 244,5%Сборка 346,2%
-
-### Предметы
-
-![](/images/mlbb/items/2107.webp)
-
-Зимняя корона
-
-![](/images/mlbb/items/3109.webp)
-
-Мимолетное время
-
-![](/images/mlbb/items/3203.webp)
-
-Древняя кираса
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/821.webp)
-
-Второе дыхание
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 4,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2107.webp)
+-   ![](/images/mlbb/items/2107.webp)
 
-Зимняя корона
+    Зимняя корона
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Древняя кираса
+    Древняя кираса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Ловкость
+    Вдохновение
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Фокус-метка
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 3,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2107.webp)
 
-Господство льда
+    Зимняя корона
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-![](/images/mlbb/items/3205.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Щит Афины
+    Древняя кираса
 
-### Эмблема
 
-![](/images/mlbb/emblems/20003.webp)
+#### Заклинание
 
-Эмблема танка
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/811.webp)
+#### Эмблема и таланты
 
-Ловкость
+![](/images/mlbb/emblems/20008.webp)
 
-![](/images/mlbb/talents/121.webp)
+Эмблема поддержки
 
-Благословение природы
+-   ![](/images/mlbb/talents/811.webp)
 
-![](/images/mlbb/talents/831.webp)
+    Ловкость
 
-Фокус-метка
+-   ![](/images/mlbb/talents/821.webp)
 
-### Заклинание
+    Второе дыхание
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Вспышка
+    Фокус-метка
+
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 1,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+-   ![](/images/mlbb/items/3205.webp)
+
+    Щит Афины
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Фокус-метка
+
+
 ## Навыки
 
 Прокачка**Кровавая охота**_›_**Железный крюк**_›_**Яростный удар**
 
-![](/images/mlbb/skills/franco-0.webp)Пассивный![](/images/mlbb/skills/franco-1.webp)1-й навык![](/images/mlbb/skills/franco-2.webp)2-й навык![](/images/mlbb/skills/franco-3.webp)Ультимейт
-
-![](/images/mlbb/skills/franco-0.webp)
+![](/images/mlbb/skills/franco-0.webp)Пассивный**Сила пустоши**![](/images/mlbb/skills/franco-1.webp)1-й навык**Железный крюк**![](/images/mlbb/skills/franco-2.webp)2-й навык**Яростный удар**![](/images/mlbb/skills/franco-3.webp)Ультимейт**Кровавая охота**
 
 Пассивный
 
@@ -225,8 +211,6 @@ D
 
 Следующий навык Франко расходует все заряды "Силы пустоши", увеличивая его урон вплоть до 150%.
 
-![](/images/mlbb/skills/franco-1.webp)
-
 1-й навык
 
 ### Железный крюк
@@ -234,8 +218,6 @@ D
 Перезарядка **15 Mana Cost: 135 с**
 
 Франко бросает "Железный крюк" в указанном направлении, нанося 400 (+100% общей физической атаки) единиц физического урона первому пораженному врагу и притягивая его к себе.
-
-![](/images/mlbb/skills/franco-2.webp)
 
 2-й навык
 
@@ -245,8 +227,6 @@ D
 
 Франко буйствует, нанося 300 (+4% от его ) единиц физического урона ближайшим врагам, замедляя их на 70% на 1.5 сек.
 
-![](/images/mlbb/skills/franco-3.webp)
-
 Ультимейт
 
 ### Кровавая охота
@@ -255,33 +235,25 @@ D
 
 Франко подавляет указанного вражеского героя в течение 1.8 сек. и бьет его 6 раз, каждым ударом нанося 50 (+70% общей физической атаки) единиц физического урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/hanabi.webp)Ханаби**+2,1**](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/silvanna.webp)Сильвана**+1,9**](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/change.webp)Чан'Э**+1,6**](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/layla.webp)Лейла**+1,5**](https://boostmlbb.ru/heroes/layla.html)
+[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
 ## История
 
 > Отважный северный воин, заклятый враг Бэйна.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Franco)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=10)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Franco)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=10)
 
 **Поднимем ранг на герое «Франко»**Цена считается в калькуляторе
 
@@ -303,7 +275,7 @@ D
 
 Силён ли герой «Франко» в текущей мете?
 
-Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,7% матчей, 40,6% побед.
+Тир C, 131-е место из 133 героев и 24-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,7% матчей, 40,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Франко» лучшая?
 

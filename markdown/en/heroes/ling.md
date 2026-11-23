@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle
 
-A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermilion Bird's power.
-
 Win rate
 
 51.8%
-
-all ranks 52.5%
 
 Pick rate
 
 0.9%
 
-all ranks 0.7%
-
 Ban rate
 
 0.6%
-
-all ranks 0.6%
-
-#39 in the tier list · #6 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 157.9%Build 259.2%Build 359.5%
-
-### Core items
-
-![](/images/mlbb/items/3003.webp)
-
-Berserker's Fury
-
-![](/images/mlbb/items/3002.webp)
-
-Haas' Claws
-
-![](/images/mlbb/items/3004.webp)
-
-Endless Battle
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/1211.webp)
-
-Fatal
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/133.webp)
-
-War Cry
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 39.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Berserker's Fury
+    Berserker's Fury
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Haas' Claws
+    Haas' Claws
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Endless Battle
+    Endless Battle
 
-### Emblem
 
-![](/images/mlbb/emblems/20012.webp)
+#### Spell
 
-Marksman
+![](/images/mlbb/spells/20020.webp)Retribution
 
-![](/images/mlbb/talents/1211.webp)
+#### Emblem and talents
 
-Fatal
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/122.webp)
+Assassin
 
-Seasoned Hunter
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/133.webp)
+    Fatal
 
-War Cry
+-   ![](/images/mlbb/talents/122.webp)
 
-### Spell
+    Seasoned Hunter
 
-![](/images/mlbb/spells/20020.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Retribution
+    War Cry
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Berserker's Fury
+    Berserker's Fury
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Haas' Claws
+    Haas' Claws
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Endless Battle
+    Endless Battle
 
-### Emblem
 
-![](/images/mlbb/emblems/20005.webp)
+#### Spell
 
-Assassin
+![](/images/mlbb/spells/20020.webp)Retribution
 
-![](/images/mlbb/talents/1211.webp)
+#### Emblem and talents
 
-Fatal
+![](/images/mlbb/emblems/20012.webp)
 
-![](/images/mlbb/talents/122.webp)
+Marksman
 
-Seasoned Hunter
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Fatal
 
-Killing Spree
+-   ![](/images/mlbb/talents/122.webp)
 
-### Spell
+    Seasoned Hunter
 
-![](/images/mlbb/spells/20020.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Retribution
+    War Cry
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 4.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Berserker's Fury
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Haas' Claws
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Fatal
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Tempest of Blades**_›_**Defiant Sword**_›_**Finch Poise**
 
-![](/images/mlbb/skills/ling-0.webp)Passive![](/images/mlbb/skills/ling-1.webp)Skill 1![](/images/mlbb/skills/ling-2.webp)Skill 2![](/images/mlbb/skills/ling-3.webp)Ultimate
-
-![](/images/mlbb/skills/ling-0.webp)
+![](/images/mlbb/skills/ling-0.webp)Passive**Cloud Walker**![](/images/mlbb/skills/ling-1.webp)Skill 1**Finch Poise**![](/images/mlbb/skills/ling-2.webp)Skill 2**Defiant Sword**![](/images/mlbb/skills/ling-3.webp)Ultimate**Tempest of Blades**
 
 Passive
 
@@ -225,8 +211,6 @@ Ling's superb Lightness Skill allows him to leap among walls. He gains 4 extra L
 
 Ling gains 1.6 times Crit Chance from all sources but only has 140% Crit Damage.
 
-![](/images/mlbb/skills/ling-1.webp)
-
 Skill 1
 
 ### Finch Poise
@@ -234,8 +218,6 @@ Skill 1
 **Passive:** Ling's Crit Chance is increased by 2.5%.
 
 **Active:** Ling leaps onto the designated wall and enters the Half-Stealth state, restoring Lightness Points faster and gaining 30% Movement Speed. Taking damage causes him to leave Half-Stealth. Being controlled makes him fall to the ground and slows him by 30% for 2s. When he uses this skill to jump from one wall to another, it does not trigger cooldown and refreshes Half-Stealth.
-
-![](/images/mlbb/skills/ling-2.webp)
 
 Skill 2
 
@@ -249,8 +231,6 @@ If Ling casts this skill when he's on the wall (no energy cost), he'll dash to t
 
 Defiant Sword is regarded as Basic Attack.
 
-![](/images/mlbb/skills/ling-3.webp)
-
 Ultimate
 
 ### Tempest of Blades
@@ -261,33 +241,25 @@ Ling leaps into the air, becoming invincible and gaining 10% extra Movement Spee
 
 Four Tempest of Blades will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of Finch Poise by 4s, reset the cooldown of Defiant Sword, and gain 25 Lightness Points.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/dyrroth.webp)Dyrroth**+1.8**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/joy.webp)Joy**+1.3**](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/odette.webp)Odette**+1.2**](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/masha.webp)Masha**+0.9**](https://boostmlbb.ru/en/heroes/masha.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Lore
 
 > A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermilion Bird's power.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Ling)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=84)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Ling)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=84)
 
 **Rank up on Ling**The calculator shows the price
 
@@ -309,7 +281,7 @@ Assassin, played in the jungle.
 
 Is Ling strong in the current meta?
 
-Tier B, #39 of 133 heroes and #6 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 51.8% win rate.
+Tier B, #62 of 133 heroes and #12 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Ling?
 

@@ -1,6 +1,6 @@
 ---
 title: "Селена MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Селена в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и маг, 48,31% побед, тир B."
+description: "Селена в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и маг, 48,31% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/selena.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Селена
 
-B
+A
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Темная эльфийка, покоренная Бездной.
 
 Победы
 
 48,3%
 
-все ранги 48,3%
-
 Выбор
 
 1,4%
 
-все ранги 1,6%
-
 Баны
 
 3,8%
-
-все ранги 6,3%
-
-№50 в тир-листе · №9 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)
+[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 156,9%Сборка 253,1%Сборка 354,5%
-
-### Предметы
-
-![](/images/mlbb/items/3106.webp)
-
-Старлиумовая коса
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 5,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Старлиумовая коса
+    Старлиумовая коса
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Пылающий жезл
+    Жезл молний
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Фонарь желаний
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 3,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Старлиумовая коса
+    Старлиумовая коса
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Жезл молний
+    Фонарь желаний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Охотник за скидками
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Квантовый заряд
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 2,1%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3106.webp)
+
+    Старлиумовая коса
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Настоящая тьма**_›_**Ловушка Бездны**_›_**Стрела Бездны**
 
-![](/images/mlbb/skills/selena-0.webp)Пассивный![](/images/mlbb/skills/selena-1.webp)1-й навык![](/images/mlbb/skills/selena-2.webp)2-й навык![](/images/mlbb/skills/selena-3.webp)Ультимейт
-
-![](/images/mlbb/skills/selena-0.webp)
+![](/images/mlbb/skills/selena-0.webp)Пассивный**Симбиоз**![](/images/mlbb/skills/selena-1.webp)1-й навык**Ловушка Бездны**![](/images/mlbb/skills/selena-2.webp)2-й навык**Стрела Бездны**![](/images/mlbb/skills/selena-3.webp)Ультимейт**Настоящая тьма**
 
 Пассивный
 
@@ -226,8 +212,6 @@ B
 **Форма эльфа:** Селена накладывает метку Бездны, когда ее навыки наносят урон. Метки длятся 8 сек. и могут складываться до 2 раз.
 
 **Форма Бездны:** базовые атаки Селены становятся ближними и наносят (+25% общей магической силы) единиц дополнительного магического урона. Ее навыки наносят 240-450 (+40% общей магической силы) единиц дополнительного магического урона врагам с меткой Бездны и уменьшают их заряды метки на 1. Этот урон повышен до 250% против монстров и миньонов.
-
-![](/images/mlbb/skills/selena-1.webp)
 
 1-й навык
 
@@ -241,8 +225,6 @@ B
 
 Каждый дьявол Бездны может скрываться до 60 сек. Одновременно может существовать до 3 дьяволов Бездны.
 
-![](/images/mlbb/skills/selena-2.webp)
-
 2-й навык
 
 ### Стрела Бездны
@@ -255,8 +237,6 @@ B
 
 Если дух оглушает врага на 0.9 сек. или дольше, Селена получает 60% скорости передвижения на 2 сек.
 
-![](/images/mlbb/skills/selena-3.webp)
-
 Ультимейт
 
 ### Настоящая тьма
@@ -267,33 +247,25 @@ B
 
 **Активный:** Селена переходит в форму Бездны и получает 20% скорости передвижения на 0.8 сек. Это также немедленно сбрасывает перезарядку навыков "Пожиратель душ" и "Гаррота".
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/cyclops.webp)Циклоп**+1,9**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Флорин**+1,7**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/zhask.webp)Заск**+1,2**](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/harley.webp)Харли**+1,1**](https://boostmlbb.ru/heroes/harley.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
 > Темная эльфийка, покоренная Бездной.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/selena)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=63)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/selena)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=63)
 
 **Поднимем ранг на герое «Селена»**Цена считается в калькуляторе
 
@@ -315,7 +287,7 @@ B
 
 Силён ли герой «Селена» в текущей мете?
 
-Тир B, 50-е место из 133 героев и 9-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,8% матчей, 48,3% побед.
+Тир A, 26-е место из 133 героев и 4-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,8% матчей, 48,3% побед. В профессиональных матчах за месяц героя драфтуют в 32,9% катков.
 
 Какая сборка на героя «Селена» лучшая?
 

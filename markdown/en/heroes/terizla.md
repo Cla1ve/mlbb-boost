@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
 
-Once an eccentric master smith, but now an avenger siding with the Abyss.
-
 Win rate
 
 49.9%
-
-all ranks 50.6%
 
 Pick rate
 
 0.3%
 
-all ranks 0.3%
-
 Ban rate
 
 0.1%
-
-all ranks 0.2%
-
-#92 in the tier list · #14 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 157.1%Build 259.8%Build 356.8%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-![](/images/mlbb/items/3204.webp)
-
-Oracle
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/731.webp)
-
-Brave Smite
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 16.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Dominance Ice
+    Queen's Wings
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Queen's Wings
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Brave Smite
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 5.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Queen's Wings
+    Dominance Ice
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Dominance Ice
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Brave Smite
+    Brave Smite
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Brave Smite
+
+
 ## Skills
 
 Level-up**Penalty Zone**_›_**Execution Strike**_›_**Revenge Strike**
 
-![](/images/mlbb/skills/terizla-0.webp)Passive![](/images/mlbb/skills/terizla-1.webp)Skill 1![](/images/mlbb/skills/terizla-2.webp)Skill 2![](/images/mlbb/skills/terizla-3.webp)Ultimate
-
-![](/images/mlbb/skills/terizla-0.webp)
+![](/images/mlbb/skills/terizla-0.webp)Passive**Body of Smith**![](/images/mlbb/skills/terizla-1.webp)Skill 1**Revenge Strike**![](/images/mlbb/skills/terizla-2.webp)Skill 2**Execution Strike**![](/images/mlbb/skills/terizla-3.webp)Ultimate**Penalty Zone**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Terizla gains 1% extra Damage Reduction (up to 20 (+1 × hero level)%) for every 2.5% HP lost.
 
 He cannot gain extra Attack Speed and will convert every 1% extra Attack Speed into 1 .
-
-![](/images/mlbb/skills/terizla-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Terizla strikes the ground with his hammer, sending a fissure forward that deals
 
 The fissure then explodes, dealing 300 (+80% Extra Physical Attack) (+ 20% of the target's lost ) Physical Damage.
 
-![](/images/mlbb/skills/terizla-2.webp)
-
 Skill 2
 
 ### Execution Strike
@@ -249,8 +231,6 @@ Terizla swings his hammer in a fan-shaped area ahead. This skill can be cast up 
 
 Deals only 80% damage to Minions.
 
-![](/images/mlbb/skills/terizla-3.webp)
-
 Ultimate
 
 ### Penalty Zone
@@ -259,33 +239,25 @@ Cooldown **50 s**
 
 Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s. He then summons Scaffold and slows enemies by 25%. Scaffold will send out a hook at enemy heroes in range and pull them several times while dealing 150 (+30% Total Physical Attack) Physical Damage each time.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/sun.webp)Sun**+2.3**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/angela.webp)Angela**+2.2**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/floryn.webp)Floryn**+1.6**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/alpha.webp)Alpha**+1.5**](https://boostmlbb.ru/en/heroes/alpha.html)
+[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ## Lore
 
 > Once an eccentric master smith, but now an avenger siding with the Abyss.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Terizla)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=82)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Terizla)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=82)
 
 **Rank up on Terizla**The calculator shows the price
 
@@ -307,7 +279,7 @@ Tank and fighter, played in the EXP Lane.
 
 Is Terizla strong in the current meta?
 
-Tier C, #92 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.9% win rate.
+Tier C, #108 of 133 heroes and #18 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Terizla?
 

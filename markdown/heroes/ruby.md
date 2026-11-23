@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Девушка, воспитанная Роджером.
-
 Победы
 
 49,0%
-
-все ранги 49,1%
 
 Выбор
 
 0,4%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,3%
-
-№97 в тир-листе · №33 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 158,7%Сборка 256,6%Сборка 358,3%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-![](/images/mlbb/items/3004.webp)
-
-Бесконечная битва
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/731.webp)
-
-Отвага
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 8,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Оракул
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 5,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Бесконечная битва
+    Крылья королевы
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Крылья королевы
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 4,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Я обиделась!**_›_**Не шали!**_›_**Не убегай, король волков!**
 
-![](/images/mlbb/skills/ruby-0.webp)Пассивный![](/images/mlbb/skills/ruby-1.webp)1-й навык![](/images/mlbb/skills/ruby-2.webp)2-й навык![](/images/mlbb/skills/ruby-3.webp)Ультимейт
-
-![](/images/mlbb/skills/ruby-0.webp)
+![](/images/mlbb/skills/ruby-0.webp)Пассивный**Давай потанцуем!**![](/images/mlbb/skills/ruby-1.webp)1-й навык**Не шали!**![](/images/mlbb/skills/ruby-2.webp)2-й навык**Не убегай, король волков!**![](/images/mlbb/skills/ruby-3.webp)Ультимейт**Я обиделась!**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 После каждого применения навыка Руби может совершить рывок в другое место и получить 8-25 ед. (зависит от уровня) на 4 сек. (складывается до 3 раз).
 
-![](/images/mlbb/skills/ruby-1.webp)
-
 1-й навык
 
 ### Не шали!
@@ -234,8 +218,6 @@ C
 Перезарядка **4 Mana Cost: 25 с**
 
 Руби взмахивает косой, нанося 280 (+110% общей физической атаки) единиц физического урона пораженным врагам. Затем она выпускает ударную волну в том же направлении, нанося 140 (+55% общей физической атаки) единиц физического урона пораженным врагам и замедляя их на 40% на 1 сек.
-
-![](/images/mlbb/skills/ruby-2.webp)
 
 2-й навык
 
@@ -245,8 +227,6 @@ C
 
 Руби дважды взмахивает гигантской косой вокруг себя, каждый раз нанося 60 (+55% общей физической атаки) единиц физического урона ближайшим врагам, оглушая их на 0.5 сек. и медленно притягивая к себе.
 
-![](/images/mlbb/skills/ruby-3.webp)
-
 Ультимейт
 
 ### Я обиделась!
@@ -255,33 +235,25 @@ C
 
 Руби атакует косой в указанном направлении, нанося 600 (+200% общей физической атаки) единиц физического урона пораженным врагам, притягивая их к себе и оглушая на 0.5 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/faramis.webp)Фарамис**+1,9**](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/bane.webp)Бэйн**+1,8**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/sun.webp)Сан**+1,7**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/estes.webp)Эстес**+1,3**](https://boostmlbb.ru/heroes/estes.html)
+[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
 
 ## История
 
 > Девушка, воспитанная Роджером.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/ruby)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=29)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/ruby)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=29)
 
 **Поднимем ранг на герое «Руби»**Цена считается в калькуляторе
 
@@ -303,7 +275,7 @@ C
 
 Силён ли герой «Руби» в текущей мете?
 
-Тир C, 97-е место из 133 героев и 33-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,0% побед.
+Тир C, 109-е место из 133 героев и 35-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,8% катков.
 
 Какая сборка на героя «Руби» лучшая?
 

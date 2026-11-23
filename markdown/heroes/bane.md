@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Жестокий капитан пиратов, заклятый враг Франко.
-
 Победы
 
 51,5%
-
-все ранги 51,6%
 
 Выбор
 
 0,3%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,2%
-
-№79 в тир-листе · №24 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 153,0%Сборка 251,7%Сборка 350,5%
-
-### Предметы
-
-![](/images/mlbb/items/3013.webp)
-
-Трезубец
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 2,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Топор войны
+    Удар охотника
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Злобный рык
+    Топор войны
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Опытный охотник
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 1,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Удар охотника
+    Трезубец
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Трезубец
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Трепет
+    Разрыв
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 1,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Смертельный улов**_›_**Крабовая пушка**_›_**Морские чернила**
 
-![](/images/mlbb/skills/bane-0.webp)Пассивный![](/images/mlbb/skills/bane-1.webp)1-й навык![](/images/mlbb/skills/bane-2.webp)2-й навык![](/images/mlbb/skills/bane-3.webp)Ультимейт
-
-![](/images/mlbb/skills/bane-0.webp)
+![](/images/mlbb/skills/bane-0.webp)Пассивный**Укус акулы**![](/images/mlbb/skills/bane-1.webp)1-й навык**Крабовая пушка**![](/images/mlbb/skills/bane-2.webp)2-й навык**Морские чернила**![](/images/mlbb/skills/bane-3.webp)Ультимейт**Смертельный улов**
 
 Пассивный
 
 ### Укус акулы
 
 При каждом использовании навыка Бэйн наполняет оружие зарядом "Мощи прилива" (до 2 зарядов). Каждая из его последующих базовых атак расходует заряд, чтобы нанести (+95% общей физической атаки) (+4 (+0.4 × ур. героя)% от цели) единиц физического урона ближайшим врагам.
-
-![](/images/mlbb/skills/bane-1.webp)
 
 1-й навык
 
@@ -234,8 +218,6 @@ C
 Бэйн стреляет из "Крабовой пушки" в указанном направлении, нанося 150 (+160% общей физической атаки) единиц физического урона первому пораженному врагу, а затем 150% урона случайному врагу позади него (приоритет отдается вражеским героям). Пораженные враги замедляются на 10 (+10% общей магической силы)% на 1 сек.
 
 Кажд. 100 ед. Бэйна дополнительно сокращают перезарядку этого навыка на 8%.
-
-![](/images/mlbb/skills/bane-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ C
 
 Кажд. 100 ед. Бэйна дополнительно сокращают перезарядку этого навыка на 7%.
 
-![](/images/mlbb/skills/bane-3.webp)
-
 Ультимейт
 
 ### Смертельный улов
@@ -261,33 +241,25 @@ C
 
 Этот навык наносит 40% урона башням.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/sora.webp)Сора**+2,4**](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/yu-zhong.webp)Чонг**+2,4**](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/arlott.webp)Арлотт**+2,3**](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/khaleed.webp)Халид**+2,1**](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## История
 
 > Жестокий капитан пиратов, заклятый враг Франко.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Bane)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=11)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Bane)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=11)
 
 **Поднимем ранг на герое «Бэйн»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Бэйн» в текущей мете?
 
-Тир C, 79-е место из 133 героев и 24-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,5% побед.
+Тир C, 104-е место из 133 героев и 32-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Бэйн» лучшая?
 

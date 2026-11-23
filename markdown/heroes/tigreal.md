@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/roam.webp)Роум
 
-Лидер Ордена Света, стоящий на страже Монийской империи.
-
 Победы
 
 45,0%
-
-все ранги 45,2%
 
 Выбор
 
 1,6%
 
-все ранги 2,0%
-
 Баны
 
 4,7%
-
-все ранги 7,4%
-
-№91 в тир-листе · №13 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -62,51 +52,11 @@ C
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 148,4%Сборка 249,1%Сборка 349,4%
-
-### Предметы
-
-![](/images/mlbb/items/3109.webp)
-
-Мимолетное время
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3205.webp)
-
-Щит Афины
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/821.webp)
-
-Второе дыхание
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -116,43 +66,43 @@ C
 
 8,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Господство льда
+    Мимолетное время
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Мимолетное время
+    Господство льда
 
-![](/images/mlbb/items/3205.webp)
+-   ![](/images/mlbb/items/3205.webp)
 
-Щит Афины
+    Щит Афины
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -162,43 +112,43 @@ C
 
 7,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Мимолетное время
+    Господство льда
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Господство льда
+    Мимолетное время
 
-![](/images/mlbb/items/3210.webp)
+-   ![](/images/mlbb/items/3205.webp)
 
-Сияющая броня
+    Щит Афины
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Второе дыхание
+    Второе дыхание
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -208,13 +158,49 @@ C
 
 3,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3210.webp)
+
+    Сияющая броня
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Имплозия**_›_**Атакующая волна**_›_**Священный молот**
 
-![](/images/mlbb/skills/tigreal-0.webp)Пассивный![](/images/mlbb/skills/tigreal-1.webp)1-й навык![](/images/mlbb/skills/tigreal-2.webp)2-й навык![](/images/mlbb/skills/tigreal-3.webp)Ультимейт
-
-![](/images/mlbb/skills/tigreal-0.webp)
+![](/images/mlbb/skills/tigreal-0.webp)Пассивный**Бесстрашие**![](/images/mlbb/skills/tigreal-1.webp)1-й навык**Атакующая волна**![](/images/mlbb/skills/tigreal-2.webp)2-й навык**Священный молот**![](/images/mlbb/skills/tigreal-3.webp)Ультимейт**Имплозия**
 
 Пассивный
 
@@ -226,8 +212,6 @@ C
 
 Урон от миньонов не добавляет и не расходует заряды "Бесстрашия".
 
-![](/images/mlbb/skills/tigreal-1.webp)
-
 1-й навык
 
 ### Атакующая волна
@@ -235,8 +219,6 @@ C
 Перезарядка **7 Mana Cost: 45 с**
 
 Тигрил бьет молотом по земле, отправляя ударную волну, которая взрывается 3 раза в веерообразной области. Каждый взрыв наносит 270 (+70% общей физической атаки) единиц физического урона пораженным врагам и замедляет их на 20% / 40% / 60% на 1.5 сек.
-
-![](/images/mlbb/skills/tigreal-2.webp)
 
 2-й навык
 
@@ -248,8 +230,6 @@ C
 
 **Повторное использование:** Тигрил может снова использовать этот навык в течение 4 сек., нанося 280 (+60% общей физической атаки) единиц физического урона врагам перед собой и подбрасывая их на 0.6 сек.
 
-![](/images/mlbb/skills/tigreal-3.webp)
-
 Ультимейт
 
 ### Имплозия
@@ -260,33 +240,25 @@ C
 
 Первую фазу подготовки навыка можно прервать эффектами контроля, а вторую фазу можно прервать только подавлением.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/floryn.webp)Флорин**+5,0**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/angela.webp)Ангела**+2,2**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/aldous.webp)Алдос**+2,2**](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/zilong.webp)Зилонг**+2,0**](https://boostmlbb.ru/heroes/zilong.html)
+[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)
 
 ## История
 
 > Лидер Ордена Света, стоящий на страже Монийской империи.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Tigreal)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=6)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Tigreal)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=6)
 
 **Поднимем ранг на герое «Тигрил»**Цена считается в калькуляторе
 
@@ -308,7 +280,7 @@ C
 
 Силён ли герой «Тигрил» в текущей мете?
 
-Тир C, 91-е место из 133 героев и 13-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,7% матчей, 45,0% побед.
+Тир C, 69-е место из 133 героев и 12-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,7% матчей, 45,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Тигрил» лучшая?
 

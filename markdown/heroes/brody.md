@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Странник из пограничья, чья правая рука пропитана тьмой, обращает свою боль в стрелы, разящие захватчиков; "Одинокая звезда", пронзающая ночи Бесплодных земель.
-
 Победы
 
 49,9%
-
-все ранги 50,0%
 
 Выбор
 
 1,0%
 
-все ранги 0,8%
-
 Баны
 
 0,9%
-
-все ранги 1,5%
-
-№51 в тир-листе · №8 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 153,4%Сборка 257,3%Сборка 356,3%
-
-### Предметы
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3015.webp)
-
-Губительный пулемет
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/321.webp)
-
-Стойкость
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 19,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-### Эмблема
 
-![](/images/mlbb/emblems/20007.webp)
+#### Заклинание
 
-Эмблема бойца
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/511.webp)
+#### Эмблема и таланты
 
-Разрыв
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/321.webp)
+Эмблема убийцы
 
-Стойкость
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Разрыв
 
-Квантовый заряд
+-   ![](/images/mlbb/talents/321.webp)
 
-### Заклинание
+    Стойкость
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Вспышка
+    Квантовый заряд
+
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 7,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-Мастер-убийца
+    Стойкость
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 2,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3015.webp)
+
+    Губительный пулемет
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Разорванная память**_›_**Влияние Бездны**_›_**Губительный удар**
 
-![](/images/mlbb/skills/brody-0.webp)Пассивный![](/images/mlbb/skills/brody-1.webp)1-й навык![](/images/mlbb/skills/brody-2.webp)2-й навык![](/images/mlbb/skills/brody-3.webp)Ультимейт
-
-![](/images/mlbb/skills/brody-0.webp)
+![](/images/mlbb/skills/brody-0.webp)Пассивный**Разрушение Бездны**![](/images/mlbb/skills/brody-1.webp)1-й навык**Влияние Бездны**![](/images/mlbb/skills/brody-2.webp)2-й навык**Губительный удар**![](/images/mlbb/skills/brody-3.webp)Ультимейт**Разорванная память**
 
 Пассивный
 
@@ -224,8 +210,6 @@ B
 Благодаря резонансу базовых атак с силой Бездны в его теле, Броуди может двигаться, заряжая базовые атаки (которые будут прерываться при применении навыков), ценой более длительной анимации базовой атаки и меньшего бонуса к скорости атаки. Каждая базовая атака наносит (+140% общей физической атаки) (+45 × ур. героя) единиц физического урона (урон, увеличивающийся с уровнем, не может быть критическим), увеличивает скорость передвижения на 30% (что быстро спадает за 1.2 сек.) и накладывает на врага 1 заряд метки Бездны, макс. количество зарядов — 4.
 
 Каждый заряд метки Бездны увеличивает урон Броуди против цели на 5%, а его скорость передвижения на 5%.
-
-![](/images/mlbb/skills/brody-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ B
 
 За каждого врага, пораженного ударной волной, цель получает дополнительное замедление на 5% и один дополнительный заряд метки Бездны (максимум до 45% замедления и 4 зарядов).
 
-![](/images/mlbb/skills/brody-2.webp)
-
 2-й навык
 
 ### Губительный удар
@@ -248,8 +230,6 @@ B
 Броуди делает рывок к врагу, нанося цели 200 (+70% общей физической атаки) единиц физического урона, оглушая цель на 0.8 сек. и накладывая 1 заряд метки Бездны на цель.
 
 При попадании по цели он сможет еще раз переместиться в направлении движения, получая 45% скорости передвижения, которая быстро спадает за 1.2 сек.
-
-![](/images/mlbb/skills/brody-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ B
 
 У каждой цели с зарядами "Метки Бездны" поглощаются все заряды, нанося дополнительно 94 (+72% дополнительной физической атаки) (+4% от потерянных цели) единиц физического урона за каждый заряд.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
+[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+4,5**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/floryn.webp)Флорин**+1,8**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/estes.webp)Эстес**+1,7**](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа**+1,6**](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
 
 ## История
 
 > Странник из пограничья, чья правая рука пропитана тьмой, обращает свою боль в стрелы, разящие захватчиков; "Одинокая звезда", пронзающая ночи Бесплодных земель.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Brody)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=100)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Brody)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=100)
 
 **Поднимем ранг на герое «Броуди»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ B
 
 Силён ли герой «Броуди» в текущей мете?
 
-Тир B, 51-е место из 133 героев и 8-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 49,9% побед.
+Тир B, 42-е место из 133 героев и 6-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 15,1% катков.
 
 Какая сборка на героя «Броуди» лучшая?
 

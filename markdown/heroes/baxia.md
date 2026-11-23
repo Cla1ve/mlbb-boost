@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/jungle.webp)Лес![](/images/mlbb/filters/roam.webp)Роум
 
-Мистическая черепаха из Бойцов Востока, неудержимое пламенное колесо, вооруженное щитами.
-
 Победы
 
 45,9%
-
-все ранги 46,0%
 
 Выбор
 
 0,1%
 
-все ранги 0,1%
-
 Баны
 
 0,1%
-
-все ранги 0,1%
-
-№125 в тир-листе · №23 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 155,6%Сборка 251,3%Сборка 355,5%
-
-### Предметы
-
-![](/images/mlbb/items/3201.webp)
-
-Проклятый шлем
-
-![](/images/mlbb/items/3212.webp)
-
-Наплечник наказания
-
-![](/images/mlbb/items/3210.webp)
-
-Сияющая броня
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 4,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3201.webp)
 
-Древняя кираса
+    Проклятый шлем
 
-![](/images/mlbb/items/3210.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Сияющая броня
+    Наплечник наказания
 
-![](/images/mlbb/items/3207.webp)
+-   ![](/images/mlbb/items/3210.webp)
 
-Бессмертие
+    Сияющая броня
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 4,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3201.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Проклятый шлем
+    Древняя кираса
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3210.webp)
 
-Наплечник наказания
+    Сияющая броня
 
-![](/images/mlbb/items/3210.webp)
+-   ![](/images/mlbb/items/3207.webp)
 
-Сияющая броня
+    Бессмертие
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Живучесть
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 3,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3201.webp)
+
+    Проклятый шлем
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+-   ![](/images/mlbb/items/3210.webp)
+
+    Сияющая броня
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Живучесть
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Могущество черепахи**_›_**Щит духов**_›_**Щит единства**
 
-![](/images/mlbb/skills/baxia-0.webp)Пассивный![](/images/mlbb/skills/baxia-1.webp)1-й навык![](/images/mlbb/skills/baxia-2.webp)2-й навык![](/images/mlbb/skills/baxia-3.webp)Ультимейт
-
-![](/images/mlbb/skills/baxia-0.webp)
+![](/images/mlbb/skills/baxia-0.webp)Пассивный**Метка Баксия**![](/images/mlbb/skills/baxia-1.webp)1-й навык**Щит единства**![](/images/mlbb/skills/baxia-2.webp)2-й навык**Щит духов**![](/images/mlbb/skills/baxia-3.webp)Ультимейт**Могущество черепахи**
 
 Пассивный
 
@@ -224,8 +210,6 @@ D
 Баксий активирует "Метку Баксия", уменьшая финальный получаемый урон на 15 (+1 × ур. героя).
 
 Кроме того, Баксий будет уменьшать щит и регенерацию ОЗ врагов, пораженных его навыками, на 40% на 4 сек.
-
-![](/images/mlbb/skills/baxia-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ D
 
 Во время набора скорости используйте этот навык снова, чтобы перепрыгивать препятствия и вражеских миньонов. Если Баксий в прыжке ударит вражеского героя, то нанесет ему и ближайшим врагам 375 (+75% общей магической силы) единиц магического урона, оглушит пораженную цель на 1.5 сек. и слегка отбросит других ближайших врагов.
 
-![](/images/mlbb/skills/baxia-2.webp)
-
 2-й навык
 
 ### Щит духов
@@ -248,8 +230,6 @@ D
 Баксий кидает свой щит, нанося 120 (+100% общей магической силы) (+5% от цели) единиц магического урона врагам на пути, отмечая их на 5 сек. и замедляя на 50% на 1 сек. Щит исчезает при ударе по первому вражескому герою или монстру.
 
 Баксий может снова использовать навык через короткое время. Если навык поражает вражеского героя или монстра, перезарядка навыка сокращается до 15%.
-
-![](/images/mlbb/skills/baxia-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ D
 
 На время действия эффект снижения урона от "Метки Баксия" будет увеличен на 200%.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/diggie.webp)Дигги**+11,7**](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/granger.webp)Грейнджер**+8,5**](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/floryn.webp)Флорин**+7,1**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/ixia.webp)Иксия**+3,9**](https://boostmlbb.ru/heroes/ixia.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
 > Мистическая черепаха из Бойцов Востока, неудержимое пламенное колесо, вооруженное щитами.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Baxia)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=87)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Baxia)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=87)
 
 **Поднимем ранг на герое «Баксий»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ D
 
 Силён ли герой «Баксий» в текущей мете?
 
-Тир D, 125-е место из 133 героев и 23-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,9% побед.
+Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,9% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Баксий» лучшая?
 

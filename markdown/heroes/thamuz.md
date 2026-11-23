@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Верховный повелитель огненных демонов, жаждущий разжечь пламя Бездны через войну и жестокость.
-
 Победы
 
 48,5%
-
-все ранги 48,9%
 
 Выбор
 
 0,6%
 
-все ранги 0,8%
-
 Баны
 
 0,4%
-
-все ранги 1,6%
-
-№88 в тир-листе · №29 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,9%Сборка 257,3%
-
-### Предметы
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/134.webp)
-
-Временное правление
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 15,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Крылья королевы
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/134.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Временное правление
+    Временное правление
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -163,13 +113,49 @@ C
 
 2,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/134.webp)
+
+    Временное правление
+
+
 ## Навыки
 
 Прокачка**Выжигающее инферно**_›_**Горящие косы**_›_**Топот Бездны**
 
-![](/images/mlbb/skills/thamuz-0.webp)Пассивный![](/images/mlbb/skills/thamuz-1.webp)1-й навык![](/images/mlbb/skills/thamuz-2.webp)2-й навык![](/images/mlbb/skills/thamuz-3.webp)Ультимейт
-
-![](/images/mlbb/skills/thamuz-0.webp)
+![](/images/mlbb/skills/thamuz-0.webp)Пассивный**Великий лорд лавы**![](/images/mlbb/skills/thamuz-1.webp)1-й навык**Горящие косы**![](/images/mlbb/skills/thamuz-2.webp)2-й навык**Топот Бездны**![](/images/mlbb/skills/thamuz-3.webp)Ультимейт**Выжигающее инферно**
 
 Пассивный
 
@@ -179,8 +165,6 @@ C
 
 Пока у Тамуза нет кос, он получает 25% к скорости передвижения. После возвращения кос его следующая базовая атака замедляет цель на 30% и гарантированно вызывает энергию лавы.
 
-![](/images/mlbb/skills/thamuz-1.webp)
-
 1-й навык
 
 ### Горящие косы
@@ -188,8 +172,6 @@ C
 Тамуз бросает косы в указанном направлении. После прохождения определенного расстояния или попадания в первого вражеского героя они наносят 120 (+60% общей физической атаки) единиц физического урона. Затем косы замедляют ближайших врагов на 30% и наносят 45 (+20% дополнительной физической атаки) единиц физического урона кажд. 0.5 сек.
 
 Через короткое время после отдаления от Тамуза или при достижении определенного расстояния косы возвращаются к нему, притягивая врагов на своем пути. Тамуз может двигаться к косам или использовать навык снова, чтобы вернуть их.
-
-![](/images/mlbb/skills/thamuz-2.webp)
 
 2-й навык
 
@@ -201,8 +183,6 @@ C
 
 Если косы не в руках Тамуза, то они вернутся к нему, и навык "Горящие косы" немедленно сбросит свою перезарядку.
 
-![](/images/mlbb/skills/thamuz-3.webp)
-
 Ультимейт
 
 ### Выжигающее инферно
@@ -213,33 +193,25 @@ C
 
 В это время Тамуз получает 800 (+50% доп. макс. ОЗ) , мгновенно лечится на ту же величину и получает 60% к скорости атаки. Каждый раз, когда его базовые атаки или косы наносят урон, он восстанавливает 1.5% от макс. ОЗ.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу**+2,9**](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/yu-zhong.webp)Чонг**+2,6**](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/benedetta.webp)Бенедетта**+2,2**](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/guinevere.webp)Гвиневра**+1,6**](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
 
 ## История
 
 > Верховный повелитель огненных демонов, жаждущий разжечь пламя Бездны через войну и жестокость.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Thamuz)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=72)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Thamuz)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=72)
 
 **Поднимем ранг на герое «Тамуз»**Цена считается в калькуляторе
 
@@ -261,7 +233,7 @@ C
 
 Силён ли герой «Тамуз» в текущей мете?
 
-Тир C, 88-е место из 133 героев и 29-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 48,5% побед.
+Тир C, 94-е место из 133 героев и 29-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 48,5% побед. В профессиональных матчах за месяц героя драфтуют в 1,7% катков.
 
 Какая сборка на героя «Тамуз» лучшая?
 

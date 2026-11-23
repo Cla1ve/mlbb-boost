@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle
 
-An exorcist from Zhu'an who has inherited the power of the Immortal Nuo.
-
 Win rate
 
 49.4%
-
-all ranks 49.7%
 
 Pick rate
 
 1.6%
 
-all ranks 1.1%
-
 Ban rate
 
 1.8%
-
-all ranks 1.5%
-
-#41 in the tier list · #13 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 153.5%Build 255.5%Build 356.6%
-
-### Core items
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 21.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Sky Piercer
+    War Axe
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-War Axe
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 14.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Killing Spree
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 7.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Soul Sever**_›_**Evil Queller**_›_**Blade Surge**
 
-![](/images/mlbb/skills/suyou-0.webp)Passive![](/images/mlbb/skills/suyou-1.webp)Skill 1![](/images/mlbb/skills/suyou-2.webp)Skill 2![](/images/mlbb/skills/suyou-3.webp)Ultimate
-
-![](/images/mlbb/skills/suyou-0.webp)
+![](/images/mlbb/skills/suyou-0.webp)Passive**Transient Immortal**![](/images/mlbb/skills/suyou-1.webp)Skill 1**Blade Surge**![](/images/mlbb/skills/suyou-2.webp)Skill 2**Soul Sever**![](/images/mlbb/skills/suyou-3.webp)Ultimate**Evil Queller**
 
 Passive
 
@@ -227,8 +213,6 @@ Hold-casting any skill puts Suyou in Immortal Form, increasing his Basic Attack 
 
 In this form, Suyou gains 1% Physical Damage Reduction for every 20 extra he has, up to 40%.
 
-![](/images/mlbb/skills/suyou-1.webp)
-
 Skill 1
 
 ### Blade Surge
@@ -239,8 +223,6 @@ Skill 1
 
 Suyou can be controlled while charging, but the skill cannot be interrupted.
 
-![](/images/mlbb/skills/suyou-2.webp)
-
 Skill 2
 
 ### Soul Sever
@@ -248,8 +230,6 @@ Skill 2
 **Tap:** Suyou performs a sweeping attack with his weapon, dealing Physical Damage equal to 280 (+200% Extra Physical Attack) (+ 15% of target's lost ) to enemies in a fan-shaped area.
 
 **Hold:** Suyou channels the power of the Immortal to perform 3 cleaves in a fan-shaped area. The first two strikes deal 225 (+80% Extra Physical Attack) Physical Damage each, while the final strike deals 360 (+128% Extra Physical Attack) Physical Damage and recovers 150 (+50% Extra Physical Attack) HP for himself.
-
-![](/images/mlbb/skills/suyou-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Ultimate
 
 Suyou can be controlled while charging, but the skill cannot be interrupted.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harith.webp)Harith**+1.3**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/freya.webp)Freya**+1.2**](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/granger.webp)Granger**+1.0**](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.0**](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
 
 ## Lore
 
 > An exorcist from Zhu'an who has inherited the power of the Immortal Nuo.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/suyou)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=126)
+[Read the full story ↗](https://kazukiofficial.com/stories/suyou)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=126)
 
 **Rank up on Suyou**The calculator shows the price
 
@@ -309,7 +281,7 @@ Fighter and assassin, played in the jungle.
 
 Is Suyou strong in the current meta?
 
-Tier B, #41 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 49.4% win rate.
+Tier B, #29 of 133 heroes and #10 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 25.3% of them.
 
 What is the best build for Suyou?
 

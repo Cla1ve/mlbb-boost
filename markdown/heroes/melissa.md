@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Девушка с проклятыми иглами, хозяйка лавки портного, которая решает проблемы своих клиентов.
-
 Победы
 
 52,4%
-
-все ранги 50,1%
 
 Выбор
 
 0,4%
 
-все ранги 0,4%
-
 Баны
 
 0,6%
-
-все ранги 0,9%
-
-№56 в тир-листе · №11 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,55 +53,11 @@ B
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 161,2%Сборка 254,3%
-
-### Предметы
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/3002.webp)
-
-Когти Хааса
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/133.webp)
-
-Боевой клич
-
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
+Сборка 1Сборка 2
 
 Победы
 
@@ -121,43 +67,47 @@ B
 
 10,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Меч охотника на демонов
+    Говорящий с ветром
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Золотой посох
+    Когти Хааса
 
-### Эмблема
+-   ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Точно в цель
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20030.webp)
-
-Вдохновение
 
 Победы
 
@@ -167,13 +117,49 @@ B
 
 4,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Золотой посох
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20030.webp)Вдохновение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Точно в цель
+
+
 ## Навыки
 
 Прокачка**Уходи!**_›_**Падаю!**_›_**Слежу за тобой!**
 
-![](/images/mlbb/skills/melissa-0.webp)Пассивный![](/images/mlbb/skills/melissa-1.webp)1-й навык![](/images/mlbb/skills/melissa-2.webp)2-й навык![](/images/mlbb/skills/melissa-3.webp)Ультимейт
-
-![](/images/mlbb/skills/melissa-0.webp)
+![](/images/mlbb/skills/melissa-0.webp)Пассивный**Разрушитель кукол**![](/images/mlbb/skills/melissa-1.webp)1-й навык**Падаю!**![](/images/mlbb/skills/melissa-2.webp)2-й навык**Слежу за тобой!**![](/images/mlbb/skills/melissa-3.webp)Ультимейт**Уходи!**
 
 Пассивный
 
@@ -182,8 +168,6 @@ B
 "Мое ателье отлично справляется с починкой и "ремонтом" кукол! Я права, Грязнуля?"
 
 (Мелисса наносит 125% урона миньонам, монстрам и призванным юнитам.)
-
-![](/images/mlbb/skills/melissa-1.webp)
 
 1-й навык
 
@@ -197,8 +181,6 @@ B
 
 "Обнимуля, иди сюда!"
 
-![](/images/mlbb/skills/melissa-2.webp)
-
 2-й навык
 
 ### Слежу за тобой!
@@ -210,8 +192,6 @@ B
 "Я уколю плохишей, а Хохотун ударит Грязнулю, чтобы тоже наказать их! Хе-хе, блеск!"
 
 (Грязнуля наносит 175 (+50% общей физической атаки) единиц физического урона при первом попадании и связывает ближайших врагов на 6 сек. Связанные враги замедляются на 60%, что спадает за 1.5 сек., и могут разорвать связь, выйдя за пределы досягаемости. Грязнуля вернется к Мелиссе раньше, если вблизи нет врагов, или немедленно, если она будет слишком далеко. Когда есть Грязнуля, атакуйте напрямую. Такая атака не активирует множественный урон. Хохотун может ударить Грязнулю только когда у Мелиссы есть цель для нанесения базовых атак. Каждый удар по Грязнуле наносит связанным врагам 50% этого урона.)
-
-![](/images/mlbb/skills/melissa-3.webp)
 
 Ультимейт
 
@@ -225,33 +205,25 @@ B
 
 Поле переместится вместе с Мелиссой один раз, когда она попытается выйти за его пределы.)
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+3,0**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/joy.webp)Джой**+1,8**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/lolita.webp)Лолита**+1,8**](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/fanny.webp)Фанни**+1,4**](https://boostmlbb.ru/heroes/fanny.html)
+[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)
 
 ## История
 
 > Девушка с проклятыми иглами, хозяйка лавки портного, которая решает проблемы своих клиентов.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Melissa)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=114)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Melissa)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=114)
 
 **Поднимем ранг на герое «Мелисса»**Цена считается в калькуляторе
 
@@ -273,7 +245,7 @@ B
 
 Силён ли герой «Мелисса» в текущей мете?
 
-Тир B, 56-е место из 133 героев и 11-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 52,4% побед.
+Тир B, 58-е место из 133 героев и 11-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 11,0% катков.
 
 Какая сборка на героя «Мелисса» лучшая?
 

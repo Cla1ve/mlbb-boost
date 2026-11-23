@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-A pure cyborg made by Laboratory 1718.
-
 Win rate
 
 48.2%
-
-all ranks 48.9%
 
 Pick rate
 
 0.8%
 
-all ranks 1.3%
-
 Ban rate
 
 0.2%
-
-all ranks 0.7%
-
-#83 in the tier list · #26 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 155.0%Build 258.3%Build 360.2%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 2.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Festival of Blood
+    Seasoned Hunter
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Killing Spree
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Blade of Despair
+    Sky Piercer
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Impure Rage
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3008.webp)
+
+    Blade of Despair
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Spear of Alpha**_›_**Force Swing**_›_**Rotary Impact**
 
-![](/images/mlbb/skills/alpha-0.webp)Passive![](/images/mlbb/skills/alpha-1.webp)Skill 1![](/images/mlbb/skills/alpha-2.webp)Skill 2![](/images/mlbb/skills/alpha-3.webp)Ultimate
-
-![](/images/mlbb/skills/alpha-0.webp)
+![](/images/mlbb/skills/alpha-0.webp)Passive**Beta, Advance!**![](/images/mlbb/skills/alpha-1.webp)Skill 1**Rotary Impact**![](/images/mlbb/skills/alpha-2.webp)Skill 2**Force Swing**![](/images/mlbb/skills/alpha-3.webp)Ultimate**Spear of Alpha**
 
 Passive
 
@@ -227,8 +213,6 @@ When Alpha uses a skill, Beta will be summoned to attack. Enemies that are hit b
 
 This skill only deals 75% damage to Creeps.
 
-![](/images/mlbb/skills/alpha-1.webp)
-
 Skill 1
 
 ### Rotary Impact
@@ -238,8 +222,6 @@ Cooldown **4 Mana Cost: 50 s**
 Alpha unleashes an energy wave in the target direction, dealing 100 (+90% Extra Physical Attack) Physical Damage to enemies in its path and slowing them by 40% for 1s.
 
 Beta then strafes enemies along the same path, dealing 60 (+30% Extra Physical Attack) True Damage.
-
-![](/images/mlbb/skills/alpha-2.webp)
 
 Skill 2
 
@@ -251,8 +233,6 @@ After a short delay, Alpha swings his blade in the target direction, dealing 180
 
 Beta then strafes enemies in the same area, dealing 60 (+30% Total Physical Attack) True Damage.
 
-![](/images/mlbb/skills/alpha-3.webp)
-
 Ultimate
 
 ### Spear of Alpha
@@ -261,33 +241,25 @@ Beta dives to the target location, dealing 100 (+20% Extra Physical Attack) Phys
 
 Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack) True Damage each time.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/gatotkaca.webp)Gatotkaca**+1.7**](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/khaleed.webp)Khaleed**+1.6**](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/uranus.webp)Uranus**+1.6**](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/terizla.webp)Terizla**+1.5**](https://boostmlbb.ru/en/heroes/terizla.html)
+[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ## Lore
 
 > A pure cyborg made by Laboratory 1718.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/alpha)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=28)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/alpha)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=28)
 
 **Rank up on Alpha**The calculator shows the price
 
@@ -309,7 +281,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Alpha strong in the current meta?
 
-Tier C, #83 of 133 heroes and #26 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.2% win rate.
+Tier C, #84 of 133 heroes and #25 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
 
 What is the best build for Alpha?
 

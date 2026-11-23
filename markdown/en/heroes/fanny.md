@@ -1,6 +1,6 @@
 ---
 title: "Fanny MLBB: build, counters and skills | MLBB Boost"
-description: "Fanny in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.96% win rate, tier D."
+description: "Fanny in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.96% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/fanny.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Fanny
 
-D
+B
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle
-
-A blade dancer in the battlefield.
 
 Win rate
 
 43.0%
 
-all ranks 42.6%
-
 Pick rate
 
 0.7%
 
-all ranks 0.7%
-
 Ban rate
 
 1.6%
-
-all ranks 1.9%
-
-#131 in the tier list · #28 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 147.8%Build 245.1%Build 351.3%
-
-### Core items
-
-![](/images/mlbb/items/3007.webp)
-
-Blade of the Heptaseas
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-![](/images/mlbb/items/3012.webp)
-
-Rose Gold Meteor
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 2.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Rose Gold Meteor
+    Rose Gold Meteor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Impure Rage
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Sky Piercer
+    Malefic Roar
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Malefic Roar
+    Rose Gold Meteor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Lethal Ignition
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Cut Throat**_›_**Steel Cable**_›_**Tornado Strike**
 
-![](/images/mlbb/skills/fanny-0.webp)Passive![](/images/mlbb/skills/fanny-1.webp)Skill 1![](/images/mlbb/skills/fanny-2.webp)Skill 2![](/images/mlbb/skills/fanny-3.webp)Ultimate
-
-![](/images/mlbb/skills/fanny-0.webp)
+![](/images/mlbb/skills/fanny-0.webp)Passive**Air Superiority**![](/images/mlbb/skills/fanny-1.webp)Skill 1**Tornado Strike**![](/images/mlbb/skills/fanny-2.webp)Skill 2**Steel Cable**![](/images/mlbb/skills/fanny-3.webp)Ultimate**Cut Throat**
 
 Passive
 
@@ -225,8 +211,6 @@ While flying, Fanny deals 10%-20% extra damage to enemies hit based on her flyin
 
 Her subsequent skill hits on marked enemy heroes restore 8 energy per stack. Energy restoration is reduced when multiple enemy heroes are hit within a short period.
 
-![](/images/mlbb/skills/fanny-1.webp)
-
 Skill 1
 
 ### Tornado Strike
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **3.5 Energy Cost: 12 s**
 
 Fanny whirls her blades, dealing 275 (+85% Total Physical Attack) Physical Damage to nearby enemies.
-
-![](/images/mlbb/skills/fanny-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ Fanny shoots a cable in the target direction, pulling herself toward the first o
 
 While flying, Fanny automatically casts Tornado Strike when she hits an enemy if she has enough Energy.
 
-![](/images/mlbb/skills/fanny-3.webp)
-
 Ultimate
 
 ### Cut Throat
@@ -257,33 +237,25 @@ Cooldown **35 Energy Cost: 12 s**
 
 Fanny leaps at the target enemy hero or Creep with her blades, dealing 400 (+200% Extra Physical Attack) Physical Damage. Each stack of Prey Mark on the target increases this damage by 30%.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/joy.webp)Joy**+2.1**](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/natan.webp)Natan**+1.8**](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/bruno.webp)Bruno**+1.7**](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/khufra.webp)Khufra**+1.6**](https://boostmlbb.ru/en/heroes/khufra.html)
+[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
 
 ## Lore
 
 > A blade dancer in the battlefield.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Fanny)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=17)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Fanny)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=17)
 
 **Rank up on Fanny**The calculator shows the price
 
@@ -305,7 +277,7 @@ Assassin, played in the jungle.
 
 Is Fanny strong in the current meta?
 
-Tier D, #131 of 133 heroes and #28 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.6% of matches, 43.0% win rate.
+Tier B, #45 of 133 heroes and #10 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.6% of matches, 43.0% win rate. In professional games over the last month the hero is drafted in 32.2% of them.
 
 What is the best build for Fanny?
 

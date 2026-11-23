@@ -1,6 +1,6 @@
 ---
 title: "Claude MLBB: build, counters and skills | MLBB Boost"
-description: "Claude in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.51% win rate, tier C."
+description: "Claude in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.51% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/claude.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Claude
 
-C
+B
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
-
-An excellent thief who comes and goes without a trace.
 
 Win rate
 
 48.5%
 
-all ranks 48.9%
-
 Pick rate
 
 1.0%
 
-all ranks 0.8%
-
 Ban rate
 
 0.1%
-
-all ranks 0.2%
-
-#70 in the tier list · #16 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 153.6%Build 250.4%Build 353.9%
-
-### Core items
-
-![](/images/mlbb/items/2008.webp)
-
-Corrosion Scythe
-
-![](/images/mlbb/items/2006.webp)
-
-Demon Hunter Sword
-
-![](/images/mlbb/items/2009.webp)
-
-Golden Staff
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Corrosion Scythe
+    Corrosion Scythe
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Demon Hunter Sword
+    Demon Hunter Sword
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Golden Staff
+    Golden Staff
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Bargain Hunter
+    Festival of Blood
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Killing Spree
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Demon Hunter Sword
+    Corrosion Scythe
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Golden Staff
+    Demon Hunter Sword
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Corrosion Scythe
+    Golden Staff
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Festival of Blood
+    Bargain Hunter
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Quantum Charge
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 2.9%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**Blazing Duet**_›_**Art of Thievery**_›_**Battle Mirror Image**
 
-![](/images/mlbb/skills/claude-0.webp)Passive![](/images/mlbb/skills/claude-1.webp)Skill 1![](/images/mlbb/skills/claude-2.webp)Skill 2![](/images/mlbb/skills/claude-3.webp)Ultimate
-
-![](/images/mlbb/skills/claude-0.webp)
+![](/images/mlbb/skills/claude-0.webp)Passive**Battle Side-by-side**![](/images/mlbb/skills/claude-1.webp)Skill 1**Art of Thievery**![](/images/mlbb/skills/claude-2.webp)Skill 2**Battle Mirror Image**![](/images/mlbb/skills/claude-3.webp)Ultimate**Blazing Duet**
 
 Passive
 
 ### Battle Side-by-side
 
 Dexter assists Claude on each of his Basic Attacks, dealing 25 (+25% Total Physical Attack) Physical Damage to the same target (inherits a portion of Attack Effects).
-
-![](/images/mlbb/skills/claude-1.webp)
 
 Skill 1
 
@@ -235,8 +219,6 @@ Claude emits a disruption wave in the target direction, dealing 250 (+40% Total 
 
 For each enemy hit, he gains 4% Movement and Attack Speed (doubled if hitting enemy heroes) for 6s (up to 5 stacks).
 
-![](/images/mlbb/skills/claude-2.webp)
-
 Skill 2
 
 ### Battle Mirror Image
@@ -247,8 +229,6 @@ Claude conjures a mirror image of Dexter at the target location that automatical
 
 **Use Again:** Claude switches places with the mirror image.
 
-![](/images/mlbb/skills/claude-3.webp)
-
 Ultimate
 
 ### Blazing Duet
@@ -257,33 +237,25 @@ Cooldown **50 Mana Cost: 100 s**
 
 Claude and Dexter rapidly fire at nearby enemies for 3s, dealing 40 (+40% Total Physical Attack) Physical Damage to up to two enemies with each shot (counts as Basic Attack Damage). Claude also gains a 20 (+3% Total Physical Attack) shield each time the Ultimate deals damage to an enemy.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harith.webp)Harith**+2.9**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/saber.webp)Saber**+1.1**](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.1**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/aamon.webp)Aamon**+1.1**](https://boostmlbb.ru/en/heroes/aamon.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
 
 ## Lore
 
 > An excellent thief who comes and goes without a trace.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Claude)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=65)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Claude)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=65)
 
 **Rank up on Claude**The calculator shows the price
 
@@ -305,7 +277,7 @@ Marksman, played in the Gold Lane.
 
 Is Claude strong in the current meta?
 
-Tier C, #70 of 133 heroes and #16 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.5% win rate.
+Tier B, #50 of 133 heroes and #9 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 16.4% of them.
 
 What is the best build for Claude?
 

@@ -1,6 +1,6 @@
 ---
 title: "Горд MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Горд в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 52,02% побед, тир B."
+description: "Горд в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 52,02% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/gord.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Горд
 
-B
+C
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Декан школы Икарус в Магической академии.
 
 Победы
 
 52,0%
 
-все ранги 52,6%
-
 Выбор
 
 0,5%
 
-все ранги 0,6%
-
 Баны
 
 0,1%
-
-все ранги 0,6%
-
-№60 в тир-листе · №12 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 156,1%Сборка 258,0%Сборка 356,7%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/2112.webp)
-
-Фонарь желаний
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 6,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3104.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Жезл снежной королевы
+    Фонарь желаний
 
-### Эмблема
 
-![](/images/mlbb/emblems/20001.webp)
+#### Заклинание
 
-Обычная эмблема
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/811.webp)
+#### Эмблема и таланты
 
-Ловкость
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/121.webp)
+Эмблема мага
 
-Благословение природы
+-   ![](/images/mlbb/talents/611.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Вдохновение
 
-Нечестивая ярость
+-   ![](/images/mlbb/talents/121.webp)
 
-### Заклинание
+    Благословение природы
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Вспышка
+    Нечестивая ярость
+
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 4,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пронзающий небеса
+    Пылающий жезл
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пылающий жезл
+    Пронзающий небеса
 
-![](/images/mlbb/items/3104.webp)
+-   ![](/images/mlbb/items/3104.webp)
 
-Жезл снежной королевы
+    Жезл снежной королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Обычная эмблема
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Фокус-метка
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ B
 
 3,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3104.webp)
+
+    Жезл снежной королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20001.webp)
+
+Обычная эмблема
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Фокус-метка
+
+
 ## Навыки
 
 Прокачка**Мистический поток**_›_**Мистический запрет**_›_**Мистический снаряд**
 
-![](/images/mlbb/skills/gord-0.webp)Пассивный![](/images/mlbb/skills/gord-1.webp)1-й навык![](/images/mlbb/skills/gord-2.webp)2-й навык![](/images/mlbb/skills/gord-3.webp)Ультимейт
-
-![](/images/mlbb/skills/gord-0.webp)
+![](/images/mlbb/skills/gord-0.webp)Пассивный**Мистическая милость**![](/images/mlbb/skills/gord-1.webp)1-й навык**Мистический снаряд**![](/images/mlbb/skills/gord-2.webp)2-й навык**Мистический запрет**![](/images/mlbb/skills/gord-3.webp)Ультимейт**Мистический поток**
 
 Пассивный
 
 ### Мистическая милость
 
 Когда Горд попадает навыками по одной и той же цели 4 р. подряд, его следующий навык наносит 120 (+8 × ур. героя) (+40% общей магической силы) дополнительного чистого урона и замедляет цель на 20% на 1 сек. (эффект замедления складывается до 2 раз).
-
-![](/images/mlbb/skills/gord-1.webp)
 
 1-й навык
 
@@ -233,8 +217,6 @@ B
 
 Горд бросает мистический шар, который скачет в указанном направлении и взрывается при попадании в первого врага, нанося 225 (+65% общей магической силы) единиц магического урона врагам в области, а также оглушая их и раскрывая их местоположение на 1 сек.
 
-![](/images/mlbb/skills/gord-2.webp)
-
 2-й навык
 
 ### Мистический запрет
@@ -242,8 +224,6 @@ B
 Перезарядка **8 Mana Cost: 60 с**
 
 Горд создает в указанной области энергетическое поле, нанося врагам в нем 30 (+10% общей магической силы) единиц магического урона каждые 0.25 сек. (до 16 раз).
-
-![](/images/mlbb/skills/gord-3.webp)
 
 Ультимейт
 
@@ -255,33 +235,25 @@ B
 
 Направление потока можно менять с помощью джойстика.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
+[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/cyclops.webp)Циклоп**+1,8**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли**+1,2**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/khufra.webp)Хуфра**+1,2**](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/hylos.webp)Хилос**+1,2**](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## История
 
 > Декан школы Икарус в Магической академии.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/gord)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=23)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/gord)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=23)
 
 **Поднимем ранг на герое «Горд»**Цена считается в калькуляторе
 
@@ -303,7 +275,7 @@ B
 
 Силён ли герой «Горд» в текущей мете?
 
-Тир B, 60-е место из 133 героев и 12-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 52,0% побед.
+Тир C, 87-е место из 133 героев и 22-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 52,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Горд» лучшая?
 

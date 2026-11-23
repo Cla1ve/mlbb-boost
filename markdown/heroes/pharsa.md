@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Принцесса ворон из леса Аскати.
-
 Победы
 
 46,7%
-
-все ранги 47,3%
 
 Выбор
 
 0,2%
 
-все ранги 0,3%
-
 Баны
 
 0,0%
-
-все ранги 0,2%
-
-№120 в тир-листе · №29 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 152,0%Сборка 253,4%Сборка 352,3%
-
-### Предметы
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 4,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Пылающий жезл
+    Божественный меч
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Кровавые крылья
+    Пылающий жезл
 
-### Эмблема
 
-![](/images/mlbb/emblems/20006.webp)
+#### Заклинание
 
-Эмблема мага
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/511.webp)
+#### Эмблема и таланты
 
-Разрыв
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Эмблема убийцы
 
-Мастер оружий
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/631.webp)
+    Разрыв
 
-Смертельное воспламенение
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Заклинание
+    Мастер оружий
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Вспышка
+    Смертельное воспламенение
+
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 3,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3108.webp)
 
-Кровавые крылья
+    Кровавые крылья
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20140.webp)
-
-Огненный выстрел
 
 Победы
 
@@ -209,21 +159,55 @@ D
 
 1,9%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Кровавые крылья
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Удар с воздуха**_›_**Энергетический импульс** _›_**Проклятие вороны**
 
-![](/images/mlbb/skills/pharsa-0.webp)Пассивный![](/images/mlbb/skills/pharsa-1.webp)1-й навык![](/images/mlbb/skills/pharsa-2.webp)2-й навык![](/images/mlbb/skills/pharsa-3.webp)3-й навык![](/images/mlbb/skills/pharsa-4.webp)Ультимейт
-
-![](/images/mlbb/skills/pharsa-0.webp)
+![](/images/mlbb/skills/pharsa-0.webp)Пассивный**Духовное единство**![](/images/mlbb/skills/pharsa-1.webp)1-й навык**Проклятие вороны**![](/images/mlbb/skills/pharsa-2.webp)2-й навык**Энергетический импульс** ![](/images/mlbb/skills/pharsa-3.webp)3-й навык**Удар с воздуха**![](/images/mlbb/skills/pharsa-4.webp)Ультимейт**Крылом к крылу**
 
 Пассивный
 
 ### Духовное единство
 
 Кажд. 5-8 сек. (в зависимости от уровня "Удара с воздуха") Верри переходит в режим охотника. При следующей атаке Фаши против вражеского героя Верри наносит дополнительный магический урон, равный 8% от цели (+1% за каждые 200 ), и замедляет ее на 60% на 1 сек.
-
-![](/images/mlbb/skills/pharsa-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ D
 
 Местоположение отмеченных врагов будет раскрыто.
 
-![](/images/mlbb/skills/pharsa-2.webp)
-
 2-й навык
 
 ### Энергетический импульс
@@ -246,8 +228,6 @@ D
 Перезарядка **6.5 Mana Cost: 60 с**
 
 Фаша высвобождает магическую энергию в указанном направлении, нанося 475 (+145% общей магической силы) единиц магического урона пораженным врагам.
-
-![](/images/mlbb/skills/pharsa-3.webp)
 
 3-й навык
 
@@ -259,8 +239,6 @@ D
 
 **Активный:** Фаша взлетает на 8 сек. и атакует указанную область, нанося 530 (+160% общей магической силы) единиц магического урона врагам в ней. Этот навык можно использовать до 4 раз за время полета.
 
-![](/images/mlbb/skills/pharsa-4.webp)
-
 Ультимейт
 
 ### Крылом к крылу
@@ -271,27 +249,19 @@ D
 
 Это состояние немедленно заканчивается, если она попадает под контроль, использует базовую атаку или навык.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zhuxin.webp)Чжусинь**+1,9**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Циклоп**+1,7**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли**+1,2**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/marcel.webp)Марсель**+1,1**](https://boostmlbb.ru/heroes/marcel.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ## История
 
 > Принцесса ворон из леса Аскати.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/pharsa)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=52)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/pharsa)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=52)
 
 **Поднимем ранг на герое «Фаша»**Цена считается в калькуляторе
 
@@ -313,7 +283,7 @@ D
 
 Силён ли герой «Фаша» в текущей мете?
 
-Тир D, 120-е место из 133 героев и 29-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 46,7% побед.
+Тир D, 123-е место из 133 героев и 31-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 46,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,6% катков.
 
 Какая сборка на героя «Фаша» лучшая?
 

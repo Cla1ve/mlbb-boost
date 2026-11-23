@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle
 
-A scholar that wanders the universe with split souls to save his daughter.
-
 Win rate
 
 50.4%
-
-all ranks 49.7%
 
 Pick rate
 
 2.7%
 
-all ranks 1.9%
-
 Ban rate
 
 37.1%
-
-all ranks 16.3%
-
-#8 in the tier list · #2 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 151.8%Build 251.8%Build 353.2%
-
-### Core items
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/3007.webp)
-
-Blade of the Heptaseas
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 13.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Blade of the Heptaseas
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Lethal Ignition
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 13.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Blade of the Heptaseas
+    Hunter Strike
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Hunter Strike
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 6.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Blade of the Heptaseas
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Fracture**_›_**Expansion**_›_**Gauge**
 
-![](/images/mlbb/skills/nolan-0.webp)Passive![](/images/mlbb/skills/nolan-1.webp)Skill 1![](/images/mlbb/skills/nolan-2.webp)Skill 2![](/images/mlbb/skills/nolan-3.webp)Ultimate
-
-![](/images/mlbb/skills/nolan-0.webp)
+![](/images/mlbb/skills/nolan-0.webp)Passive**Dimensional Rift**![](/images/mlbb/skills/nolan-1.webp)Skill 1**Expansion**![](/images/mlbb/skills/nolan-2.webp)Skill 2**Gauge**![](/images/mlbb/skills/nolan-3.webp)Ultimate**Fracture**
 
 Passive
 
@@ -225,8 +211,6 @@ Nolan's skills will leave a Rift. When a rift comes into contact with another ri
 
 **Cosmic Leap:** If Nolan does not deal or take damage for 5s, he enhances his next Basic Attack to dash to the target, dealing (+120% Total Physical Attack) Physical Damage and leaving a Rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
 
-![](/images/mlbb/skills/nolan-1.webp)
-
 Skill 1
 
 ### Expansion
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **2.5 Energy Cost: 25 s**
 
 Nolan cuts a rectangular area in front of him with his cosmic gauge, dealing 230 (+40% Total Physical Attack) Physical Damage and leaving a Rift at the first enemy hit.
-
-![](/images/mlbb/skills/nolan-2.webp)
 
 Skill 2
 
@@ -245,8 +227,6 @@ Cooldown **2.5 Energy Cost: 25 s**
 
 Nolan charges in the target direction and slashes with his cosmic gauge, dealing 70 (+13% Total Physical Attack) Physical Damage to enemies in his path and leaving a Rift.
 
-![](/images/mlbb/skills/nolan-3.webp)
-
 Ultimate
 
 ### Fracture
@@ -255,33 +235,25 @@ Cooldown **21 s**
 
 Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical Attack) Physical Damage with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
+[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/joy.webp)Joy**+2.3**](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/yve.webp)Yve**+1.9**](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Zhuxin**+1.8**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Valentina**+1.6**](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
 > A scholar that wanders the universe with split souls to save his daughter.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Nolan)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=122)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Nolan)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=122)
 
 **Rank up on Nolan**The calculator shows the price
 
@@ -303,7 +275,7 @@ Assassin, played in the jungle.
 
 Is Nolan strong in the current meta?
 
-Tier S, #8 of 133 heroes and #2 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 37.1% of matches, 50.4% win rate.
+Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 37.1% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
 
 What is the best build for Nolan?
 

@@ -1,6 +1,6 @@
 ---
 title: "Наталья MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Наталья в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,32% побед, тир C."
+description: "Наталья в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,32% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/natalia.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Наталья
 
-C
+D
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес![](/images/mlbb/filters/roam.webp)Роум
-
-Убийца, изгнанный из империи.
 
 Победы
 
 50,3%
 
-все ранги 51,0%
-
 Выбор
 
 0,2%
 
-все ранги 0,3%
-
 Баны
 
 1,1%
-
-все ранги 2,0%
-
-№85 в тир-листе · №20 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 160,3%Сборка 260,7%Сборка 355,3%
-
-### Предметы
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/1211.webp)
-
-Фатальность
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 7,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3014.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Копье Великого дракона
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 6,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3014.webp)
 
-Трезубец
+    Копье Великого дракона
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Разрыв
+    Фатальность
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 5,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Охота**_›_**Удар когтями**_›_**Дымовая шашка**
 
-![](/images/mlbb/skills/natalia-0.webp)Пассивный![](/images/mlbb/skills/natalia-1.webp)1-й навык![](/images/mlbb/skills/natalia-2.webp)2-й навык![](/images/mlbb/skills/natalia-3.webp)Ультимейт
-
-![](/images/mlbb/skills/natalia-0.webp)
+![](/images/mlbb/skills/natalia-0.webp)Пассивный**Инстинкт ассасина**![](/images/mlbb/skills/natalia-1.webp)1-й навык**Удар когтями**![](/images/mlbb/skills/natalia-2.webp)2-й навык**Дымовая шашка**![](/images/mlbb/skills/natalia-3.webp)Ультимейт**Охота**
 
 Пассивный
 
@@ -227,8 +213,6 @@ C
 
 Базовый критический урон Натальи снижен до 150%, но урон монстрам увеличен до 150%.
 
-![](/images/mlbb/skills/natalia-1.webp)
-
 1-й навык
 
 ### Удар когтями
@@ -239,8 +223,6 @@ C
 
 **Повторное использование:** попав во врага, Наталья может использовать этот навык снова в течение 5 сек.
 
-![](/images/mlbb/skills/natalia-2.webp)
-
 2-й навык
 
 ### Дымовая шашка
@@ -248,8 +230,6 @@ C
 Перезарядка **12 с**
 
 Наталья кидает дымовую шашку на своем месте, замедляя врагов внутри на 25%, а сама становится невосприимчивой к базовым атакам на 4 сек.
-
-![](/images/mlbb/skills/natalia-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ C
 
 **Активный:** Наталья мгновенно входит в состояние "Инстинкта ассасина". Она может накопить до 2 зарядов своего ультимейта, время накопления каждого составляет 30 сек. Убийства монстров снижают оставшееся время накопления на 50% от общего времени.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
+[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/floryn.webp)Флорин**+3,2**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/khufra.webp)Хуфра**+2,9**](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/akai.webp)Акай**+2,7**](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/hylos.webp)Хилос**+2,7**](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
 
 ## История
 
 > Убийца, изгнанный из империи.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/natalia)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=24)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/natalia)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=24)
 
 **Поднимем ранг на герое «Наталья»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ C
 
 Силён ли герой «Наталья» в текущей мете?
 
-Тир C, 85-е место из 133 героев и 20-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 50,3% побед.
+Тир D, 105-е место из 133 героев и 23-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Наталья» лучшая?
 

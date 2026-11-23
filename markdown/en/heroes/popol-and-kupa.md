@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-Boy and an Icefield Wolf, partners who understand each other well.
-
 Win rate
 
 48.2%
-
-all ranks 52.1%
 
 Pick rate
 
 0.4%
 
-all ranks 0.5%
-
 Ban rate
 
 1.3%
-
-all ranks 1.1%
-
-#96 in the tier list · #20 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 154.3%Build 255.0%Build 354.6%
-
-### Core items
-
-![](/images/mlbb/items/3013.webp)
-
-Sea Halberd
-
-![](/images/mlbb/items/3005.webp)
-
-Windtalker
-
-![](/images/mlbb/items/3008.webp)
-
-Blade of Despair
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sea Halberd
+    Sea Halberd
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Windtalker
+    Windtalker
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Blade of Despair
+    Blade of Despair
 
-### Emblem
 
-![](/images/mlbb/emblems/20012.webp)
+#### Spell
 
-Marksman
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Assassin
 
-Weapons Master
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Thrill
 
-Quantum Charge
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Spell
+    Weapons Master
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Flicker
+    Quantum Charge
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sea Halberd
+    Sea Halberd
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Windtalker
+    Windtalker
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Rose Gold Meteor
+    Blade of Despair
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Marksman
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.1%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Windtalker
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Rose Gold Meteor
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**We Are Angry!**_›_**Bite 'em, Kupa!**_›_**Kupa, Help!**_›_**Popol's Surprise**
 
-![](/images/mlbb/skills/popol-and-kupa-0.webp)Passive![](/images/mlbb/skills/popol-and-kupa-1.webp)Skill 1![](/images/mlbb/skills/popol-and-kupa-2.webp)Skill 2![](/images/mlbb/skills/popol-and-kupa-3.webp)Skill 3![](/images/mlbb/skills/popol-and-kupa-4.webp)Ultimate
-
-![](/images/mlbb/skills/popol-and-kupa-0.webp)
+![](/images/mlbb/skills/popol-and-kupa-0.webp)Passive**We Are Friends**![](/images/mlbb/skills/popol-and-kupa-1.webp)Skill 1**Bite 'em, Kupa!**![](/images/mlbb/skills/popol-and-kupa-2.webp)Skill 2**Kupa, Help!**![](/images/mlbb/skills/popol-and-kupa-3.webp)Skill 3**Popol's Surprise**![](/images/mlbb/skills/popol-and-kupa-4.webp)Ultimate**We Are Angry!**
 
 Passive
 
@@ -226,8 +212,6 @@ Kupa recovers 10% Max HP per second after not taking damage for 5s. When Kupa di
 Kupa has 3500 (+350 × hero level) Max HP and inherits 100% of Popol's other attributes and equipment effects.
 
 Kupa deals 77 (+3 × hero level) extra True Damage to creeps.
-
-![](/images/mlbb/skills/popol-and-kupa-1.webp)
 
 Skill 1
 
@@ -241,8 +225,6 @@ While marked by the spear, whenever Popol or Kupa hits the target with a Basic A
 
 **Alpha Wolf Form:** Kupa strikes fiercely, dealing 120 (+140% Total Physical Attack) Physical Damage to the target and nearby enemies and knocking them airborne for 0.5s.
 
-![](/images/mlbb/skills/popol-and-kupa-2.webp)
-
 Skill 2
 
 ### Kupa, Help!
@@ -255,8 +237,6 @@ Popol can use a Basic Attack to end the Mounted state early. After returning, Ku
 
 **Alpha Wolf Form:** Shield effect increases to 125%, and Kupa recovers full HP while Mounted.
 
-![](/images/mlbb/skills/popol-and-kupa-3.webp)
-
 Skill 3
 
 ### Popol's Surprise
@@ -266,8 +246,6 @@ Cooldown **1.5 Mana Cost: 50 s**
 Popol sets a trap. After a short delay, it immobilizes the enemy stepping on it for 1s. It then explodes to create a frost zone for 4s, which continuously slows enemies within by 20%.
 
 Popol gains a trap charge every 22s (up to 3 charges). Up to 4 traps can exist at the same time, each lasting up to 60s.
-
-![](/images/mlbb/skills/popol-and-kupa-4.webp)
 
 Ultimate
 
@@ -279,33 +257,25 @@ Popol and Kupa enter the Enraged state for 9s.
 
 During this time, Kupa turns into Alpha Wolf Form.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)
+[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/layla.webp)Layla**+3.2**](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/lesley.webp)Lesley**+2.9**](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/granger.webp)Granger**+2.7**](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/wanwan.webp)Wanwan**+2.5**](https://boostmlbb.ru/en/heroes/wanwan.html)
+[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
 ## Lore
 
 > Boy and an Icefield Wolf, partners who understand each other well.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Popol-and-Kupa)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=94)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Popol-and-Kupa)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=94)
 
 **Rank up on Popol and Kupa**The calculator shows the price
 
@@ -327,7 +297,7 @@ Marksman, played in the Gold Lane or in the jungle.
 
 Is Popol and Kupa strong in the current meta?
 
-Tier C, #96 of 133 heroes and #20 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.3% of matches, 48.2% win rate.
+Tier C, #98 of 133 heroes and #20 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.3% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Popol and Kupa?
 

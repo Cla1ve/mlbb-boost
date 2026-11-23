@@ -1,6 +1,6 @@
 ---
 title: "Чжусинь MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чжусинь в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 49,35% побед, тир C."
+description: "Чжусинь в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 49,35% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/zhuxin.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Чжусинь
 
-C
+A
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Таинственная девушка, управляющая тлеющими бабочками с помощью Фонаря духов.
 
 Победы
 
 49,4%
 
-все ранги 49,6%
-
 Выбор
 
 0,4%
 
-все ранги 0,2%
-
 Баны
 
 0,6%
-
-все ранги 0,4%
-
-№90 в тир-листе · №20 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 156,5%Сборка 255,3%Сборка 358,6%
-
-### Предметы
-
-![](/images/mlbb/items/3113.webp)
-
-Часы судьбы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3104.webp)
-
-Жезл снежной королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20001.webp)
-
-Обычная эмблема
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/731.webp)
-
-Отвага
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 6,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3113.webp)
+-   ![](/images/mlbb/items/3113.webp)
 
-Часы судьбы
+    Часы судьбы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3104.webp)
+-   ![](/images/mlbb/items/3104.webp)
 
-Жезл снежной королевы
+    Жезл снежной королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Обычная эмблема
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Второе дыхание
+    Благословение природы
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 4,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3113.webp)
+-   ![](/images/mlbb/items/3113.webp)
 
-Часы судьбы
+    Часы судьбы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3104.webp)
+-   ![](/images/mlbb/items/3104.webp)
 
-Жезл снежной королевы
+    Жезл снежной королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Обычная эмблема
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Благословение природы
+    Второе дыхание
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 4,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3113.webp)
+
+    Часы судьбы
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3104.webp)
+
+    Жезл снежной королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20001.webp)
+
+Обычная эмблема
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Багровый свет**_›_**Сияние фонаря**_›_**Порхающая грация**
 
-![](/images/mlbb/skills/zhuxin-0.webp)Пассивный![](/images/mlbb/skills/zhuxin-1.webp)1-й навык![](/images/mlbb/skills/zhuxin-2.webp)2-й навык![](/images/mlbb/skills/zhuxin-3.webp)Ультимейт
-
-![](/images/mlbb/skills/zhuxin-0.webp)
+![](/images/mlbb/skills/zhuxin-0.webp)Пассивный**Алые бабочки**![](/images/mlbb/skills/zhuxin-1.webp)1-й навык**Порхающая грация**![](/images/mlbb/skills/zhuxin-2.webp)2-й навык**Сияние фонаря**![](/images/mlbb/skills/zhuxin-3.webp)Ультимейт**Багровый свет**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 У Чжусинь изначально большое значение базовой макс. маны, которое не зависит от ее уровня.
 
-![](/images/mlbb/skills/zhuxin-1.webp)
-
 1-й навык
 
 ### Порхающая грация
@@ -234,8 +218,6 @@ C
 Перезарядка **12 Mana Cost: 100 с**
 
 Чжусинь наносит 150 (+30% общей магической силы) единиц магического урона всем врагам в веерообразной области и накладывает заряды ловушки души (1). Чжусинь также замедляет всех пораженных вражеских героев на 20% и получает 20% дополнительной скорости передвижения на 1.5 сек.
-
-![](/images/mlbb/skills/zhuxin-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ C
 
 После захвата цели ловушка души не может накапливаться на ней снова в течение 4 сек. В это время этот навык наносит 15% дополнительного урона по этой цели.
 
-![](/images/mlbb/skills/zhuxin-3.webp)
-
 Ультимейт
 
 ### Багровый свет
@@ -259,33 +239,25 @@ C
 
 Чжусинь совершает рывок в указанное место, получая 400 (+100% общей магической силы) ед. щита и создавая поле на 6 сек. Поле наносит 30 (+10% общей магической силы) единиц магического урона и накладывает 1 заряд ловушки души на ближайших врагов кажд. 0.5 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/kagura.webp)Кагура**+9,5**](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/yve.webp)Ив**+9,3**](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/odette.webp)Одетта**+8,8**](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/valentina.webp)Валентина**+7,9**](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## История
 
 > Таинственная девушка, управляющая тлеющими бабочками с помощью Фонаря духов.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zhuxin)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=125)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zhuxin)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=125)
 
 **Поднимем ранг на герое «Чжусинь»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Чжусинь» в текущей мете?
 
-Тир C, 90-е место из 133 героев и 20-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 49,4% побед.
+Тир A, 19-е место из 133 героев и 5-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 73,9% катков.
 
 Какая сборка на героя «Чжусинь» лучшая?
 

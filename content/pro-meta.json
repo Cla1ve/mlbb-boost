@@ -1,0 +1,1126 @@
+{
+ "updated": "2026-11-23T19:31:02.036Z",
+ "source": "Liquipedia Mobile Legends (CC BY-SA)",
+ "windowDays": 30,
+ "windowStart": "2026-10-24",
+ "minPrize": 10000,
+ "games": 194,
+ "tournaments": [
+  {
+   "name": "GG Gaming Festival 2026 - Men",
+   "tier": 3,
+   "prize": 1904618,
+   "end": "2026-11-22",
+   "games": 22
+  },
+  {
+   "name": "Mahar Invitational Cup Season 3",
+   "tier": 3,
+   "prize": 1428674,
+   "end": "2026-11-15",
+   "games": 34
+  },
+  {
+   "name": "BetBoom Rise of Legends Season 11",
+   "tier": 3,
+   "prize": 6036530,
+   "end": "2026-11-15",
+   "games": 28
+  },
+  {
+   "name": "MPL Indonesia Season 18",
+   "tier": 2,
+   "prize": 26838225,
+   "end": "2026-11-08",
+   "games": 41
+  },
+  {
+   "name": "MPL Malaysia Season 18",
+   "tier": 2,
+   "prize": 100000,
+   "end": "2026-11-01",
+   "games": 34
+  },
+  {
+   "name": "MDL Indonesia Season 14",
+   "tier": 3,
+   "prize": 3610606,
+   "end": "2026-11-01",
+   "games": 26
+  },
+  {
+   "name": "MLBB Continental Championships Season 8",
+   "tier": 2,
+   "prize": 40000,
+   "end": "2026-10-31",
+   "games": 9
+  }
+ ],
+ "unused": 43,
+ "heroes": {
+  "masha": {
+   "presence": 100,
+   "pick": 32.59,
+   "ban": 67.41,
+   "win": 52.54,
+   "games": 194,
+   "picks": 59
+  },
+  "marcel": {
+   "presence": 87.72,
+   "pick": 29.64,
+   "ban": 58.08,
+   "win": 55.93,
+   "games": 171,
+   "picks": 59
+  },
+  "argus": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "khufra": {
+   "presence": 3.65,
+   "pick": 1.68,
+   "ban": 1.97,
+   "win": null,
+   "games": 6,
+   "picks": 3
+  },
+  "rafaela": {
+   "presence": 7.71,
+   "pick": 3.78,
+   "ban": 3.93,
+   "win": 25,
+   "games": 18,
+   "picks": 8
+  },
+  "diggie": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "valir": {
+   "presence": 40.71,
+   "pick": 21.72,
+   "ban": 18.99,
+   "win": 37.21,
+   "games": 77,
+   "picks": 43
+  },
+  "floryn": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "bruno": {
+   "presence": 37,
+   "pick": 26.48,
+   "ban": 10.52,
+   "win": 54.9,
+   "games": 70,
+   "picks": 51
+  },
+  "minotaur": {
+   "presence": 11.26,
+   "pick": 6.91,
+   "ban": 4.35,
+   "win": 50,
+   "games": 23,
+   "picks": 14
+  },
+  "sun": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "aulus": {
+   "presence": 77.79,
+   "pick": 37.35,
+   "ban": 40.44,
+   "win": 50,
+   "games": 157,
+   "picks": 72
+  },
+  "gloo": {
+   "presence": 26.55,
+   "pick": 16.25,
+   "ban": 10.3,
+   "win": 58.06,
+   "games": 54,
+   "picks": 31
+  },
+  "lolita": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "carmilla": {
+   "presence": 54.14,
+   "pick": 19.59,
+   "ban": 34.55,
+   "win": 48.65,
+   "games": 105,
+   "picks": 37
+  },
+  "obsidia": {
+   "presence": 44.81,
+   "pick": 23.21,
+   "ban": 21.61,
+   "win": 47.06,
+   "games": 96,
+   "picks": 51
+  },
+  "estes": {
+   "presence": 14.91,
+   "pick": 5.72,
+   "ban": 9.2,
+   "win": 90,
+   "games": 28,
+   "picks": 10
+  },
+  "irithel": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "edith": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "hanabi": {
+   "presence": 0.66,
+   "pick": 0.66,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "gord": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "ling": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "zhask": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "yve": {
+   "presence": 16.55,
+   "pick": 12.81,
+   "ban": 3.74,
+   "win": 75,
+   "games": 31,
+   "picks": 24
+  },
+  "benedetta": {
+   "presence": 1.44,
+   "pick": 1.44,
+   "ban": 0,
+   "win": null,
+   "games": 3,
+   "picks": 3
+  },
+  "popol-and-kupa": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "minsitthar": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "lukas": {
+   "presence": 2.92,
+   "pick": 2.26,
+   "ban": 0.66,
+   "win": 40,
+   "games": 6,
+   "picks": 5
+  },
+  "aldous": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "belerick": {
+   "presence": 37.99,
+   "pick": 18.28,
+   "ban": 19.71,
+   "win": 51.52,
+   "games": 70,
+   "picks": 33
+  },
+  "cyclops": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "xavier": {
+   "presence": 0.99,
+   "pick": 0.99,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "barats": {
+   "presence": 42.19,
+   "pick": 24.12,
+   "ban": 18.06,
+   "win": 50,
+   "games": 83,
+   "picks": 48
+  },
+  "bane": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "atlas": {
+   "presence": 75.08,
+   "pick": 33.21,
+   "ban": 41.87,
+   "win": 48.48,
+   "games": 148,
+   "picks": 66
+  },
+  "silvanna": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "natan": {
+   "presence": 0.99,
+   "pick": 0.99,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "kadita": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "guinevere": {
+   "presence": 3.35,
+   "pick": 2.33,
+   "ban": 1.02,
+   "win": 40,
+   "games": 7,
+   "picks": 5
+  },
+  "fredrinn": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "saber": {
+   "presence": 5.15,
+   "pick": 3.04,
+   "ban": 2.11,
+   "win": 33.33,
+   "games": 10,
+   "picks": 6
+  },
+  "kagura": {
+   "presence": 0.54,
+   "pick": 0.54,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "hilda": {
+   "presence": 3.46,
+   "pick": 2.24,
+   "ban": 1.22,
+   "win": null,
+   "games": 6,
+   "picks": 4
+  },
+  "natalia": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "cecilion": {
+   "presence": 1.45,
+   "pick": 1.45,
+   "ban": 0,
+   "win": null,
+   "games": 3,
+   "picks": 3
+  },
+  "zetian": {
+   "presence": 39.56,
+   "pick": 21.82,
+   "ban": 17.74,
+   "win": 55.81,
+   "games": 75,
+   "picks": 43
+  },
+  "faramis": {
+   "presence": 0.54,
+   "pick": 0,
+   "ban": 0.54,
+   "win": null,
+   "games": 1,
+   "picks": 0
+  },
+  "alice": {
+   "presence": 57.69,
+   "pick": 33.34,
+   "ban": 24.35,
+   "win": 54.55,
+   "games": 115,
+   "picks": 66
+  },
+  "lunox": {
+   "presence": 5.21,
+   "pick": 2.6,
+   "ban": 2.6,
+   "win": null,
+   "games": 8,
+   "picks": 4
+  },
+  "terizla": {
+   "presence": 0.52,
+   "pick": 0.52,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "kalea": {
+   "presence": 99.72,
+   "pick": 39.34,
+   "ban": 60.38,
+   "win": 59.49,
+   "games": 193,
+   "picks": 79
+  },
+  "beatrix": {
+   "presence": 2.14,
+   "pick": 2.14,
+   "ban": 0,
+   "win": null,
+   "games": 4,
+   "picks": 4
+  },
+  "eudora": {
+   "presence": 24.72,
+   "pick": 14.21,
+   "ban": 10.52,
+   "win": 58.62,
+   "games": 48,
+   "picks": 29
+  },
+  "khaleed": {
+   "presence": 2.96,
+   "pick": 2.39,
+   "ban": 0.58,
+   "win": null,
+   "games": 5,
+   "picks": 4
+  },
+  "clint": {
+   "presence": 22.07,
+   "pick": 14.89,
+   "ban": 7.18,
+   "win": 52,
+   "games": 37,
+   "picks": 25
+  },
+  "moskov": {
+   "presence": 7.53,
+   "pick": 6.96,
+   "ban": 0.58,
+   "win": 31.25,
+   "games": 17,
+   "picks": 16
+  },
+  "aamon": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "badang": {
+   "presence": 2.7,
+   "pick": 1.4,
+   "ban": 1.3,
+   "win": null,
+   "games": 5,
+   "picks": 3
+  },
+  "akai": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "vale": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "leomord": {
+   "presence": 0.99,
+   "pick": 0.99,
+   "ban": 0,
+   "win": null,
+   "games": 2,
+   "picks": 2
+  },
+  "ixia": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "melissa": {
+   "presence": 11.01,
+   "pick": 9.03,
+   "ban": 1.98,
+   "win": 58.33,
+   "games": 15,
+   "picks": 12
+  },
+  "hirara": {
+   "presence": 64.97,
+   "pick": 36.25,
+   "ban": 28.72,
+   "win": 53.62,
+   "games": 123,
+   "picks": 69
+  },
+  "paquito": {
+   "presence": 69.33,
+   "pick": 39.48,
+   "ban": 29.85,
+   "win": 39.24,
+   "games": 136,
+   "picks": 79
+  },
+  "brody": {
+   "presence": 15.12,
+   "pick": 7.43,
+   "ban": 7.69,
+   "win": 33.33,
+   "games": 31,
+   "picks": 15
+  },
+  "angela": {
+   "presence": 0.26,
+   "pick": 0.26,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "x-borg": {
+   "presence": 0.89,
+   "pick": 0.89,
+   "ban": 0,
+   "win": null,
+   "games": 2,
+   "picks": 2
+  },
+  "julian": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "hanzo": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "kaja": {
+   "presence": 0.66,
+   "pick": 0.66,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "nolan": {
+   "presence": 82.83,
+   "pick": 45.4,
+   "ban": 37.43,
+   "win": 48.86,
+   "games": 162,
+   "picks": 88
+  },
+  "miya": {
+   "presence": 1.38,
+   "pick": 1.38,
+   "ban": 0,
+   "win": null,
+   "games": 3,
+   "picks": 3
+  },
+  "suyou": {
+   "presence": 25.31,
+   "pick": 22.91,
+   "ban": 2.4,
+   "win": 48.94,
+   "games": 51,
+   "picks": 47
+  },
+  "odette": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "yin": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "zhuxin": {
+   "presence": 73.94,
+   "pick": 40.88,
+   "ban": 33.06,
+   "win": 47.5,
+   "games": 144,
+   "picks": 80
+  },
+  "novaria": {
+   "presence": 4.53,
+   "pick": 4.53,
+   "ban": 0,
+   "win": 37.5,
+   "games": 8,
+   "picks": 8
+  },
+  "sora": {
+   "presence": 23.71,
+   "pick": 15.37,
+   "ban": 8.34,
+   "win": 59.26,
+   "games": 41,
+   "picks": 27
+  },
+  "layla": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "cici": {
+   "presence": 40.76,
+   "pick": 27.31,
+   "ban": 13.45,
+   "win": 45,
+   "games": 86,
+   "picks": 60
+  },
+  "lylia": {
+   "presence": 37.34,
+   "pick": 18.22,
+   "ban": 19.12,
+   "win": 47.22,
+   "games": 74,
+   "picks": 36
+  },
+  "uranus": {
+   "presence": 38.98,
+   "pick": 18.55,
+   "ban": 20.43,
+   "win": 38.46,
+   "games": 80,
+   "picks": 39
+  },
+  "freya": {
+   "presence": 98.38,
+   "pick": 25.81,
+   "ban": 72.57,
+   "win": 52.17,
+   "games": 191,
+   "picks": 46
+  },
+  "vexana": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "dyrroth": {
+   "presence": 5.23,
+   "pick": 1.89,
+   "ban": 3.33,
+   "win": null,
+   "games": 11,
+   "picks": 4
+  },
+  "johnson": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "ruby": {
+   "presence": 0.77,
+   "pick": 0.52,
+   "ban": 0.25,
+   "win": null,
+   "games": 2,
+   "picks": 1
+  },
+  "yi-sun-shin": {
+   "presence": 2.51,
+   "pick": 1.69,
+   "ban": 0.82,
+   "win": null,
+   "games": 5,
+   "picks": 3
+  },
+  "aurora": {
+   "presence": 0.25,
+   "pick": 0.25,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "yu-zhong": {
+   "presence": 27.93,
+   "pick": 17.12,
+   "ban": 10.81,
+   "win": 48.28,
+   "games": 49,
+   "picks": 29
+  },
+  "thamuz": {
+   "presence": 1.71,
+   "pick": 0.84,
+   "ban": 0.86,
+   "win": null,
+   "games": 4,
+   "picks": 2
+  },
+  "alucard": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "karrie": {
+   "presence": 1.05,
+   "pick": 1.05,
+   "ban": 0,
+   "win": null,
+   "games": 2,
+   "picks": 2
+  },
+  "claude": {
+   "presence": 16.44,
+   "pick": 11.82,
+   "ban": 4.63,
+   "win": 48,
+   "games": 34,
+   "picks": 25
+  },
+  "alpha": {
+   "presence": 1.26,
+   "pick": 0.72,
+   "ban": 0.54,
+   "win": null,
+   "games": 3,
+   "picks": 2
+  },
+  "joy": {
+   "presence": 1.25,
+   "pick": 1.25,
+   "ban": 0,
+   "win": null,
+   "games": 2,
+   "picks": 2
+  },
+  "kimmy": {
+   "presence": 73.11,
+   "pick": 40.82,
+   "ban": 32.3,
+   "win": 56.25,
+   "games": 139,
+   "picks": 80
+  },
+  "gusion": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "karina": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "hylos": {
+   "presence": 2.45,
+   "pick": 2.45,
+   "ban": 0,
+   "win": 20,
+   "games": 5,
+   "picks": 5
+  },
+  "selena": {
+   "presence": 32.94,
+   "pick": 16.39,
+   "ban": 16.55,
+   "win": 56.67,
+   "games": 60,
+   "picks": 30
+  },
+  "roger": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "lesley": {
+   "presence": 6.76,
+   "pick": 2.25,
+   "ban": 4.5,
+   "win": 80,
+   "games": 13,
+   "picks": 5
+  },
+  "phoveus": {
+   "presence": 18.25,
+   "pick": 10.07,
+   "ban": 8.18,
+   "win": 61.11,
+   "games": 33,
+   "picks": 18
+  },
+  "change": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "harley": {
+   "presence": 22.9,
+   "pick": 12.72,
+   "ban": 10.19,
+   "win": 62.5,
+   "games": 42,
+   "picks": 24
+  },
+  "hayabusa": {
+   "presence": 3.07,
+   "pick": 1.98,
+   "ban": 1.09,
+   "win": null,
+   "games": 5,
+   "picks": 3
+  },
+  "lapu-lapu": {
+   "presence": 1.71,
+   "pick": 1.71,
+   "ban": 0,
+   "win": null,
+   "games": 3,
+   "picks": 3
+  },
+  "jawhead": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "helcurt": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "chip": {
+   "presence": 1.81,
+   "pick": 1.57,
+   "ban": 0.25,
+   "win": null,
+   "games": 4,
+   "picks": 3
+  },
+  "wanwan": {
+   "presence": 0.93,
+   "pick": 0.93,
+   "ban": 0,
+   "win": null,
+   "games": 2,
+   "picks": 2
+  },
+  "arlott": {
+   "presence": 12.46,
+   "pick": 4.09,
+   "ban": 8.37,
+   "win": 75,
+   "games": 24,
+   "picks": 8
+  },
+  "luo-yi": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "nana": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "pharsa": {
+   "presence": 0.62,
+   "pick": 0.62,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "martis": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "esmeralda": {
+   "presence": 76.39,
+   "pick": 18.75,
+   "ban": 57.64,
+   "win": 30.56,
+   "games": 150,
+   "picks": 36
+  },
+  "harith": {
+   "presence": 19.74,
+   "pick": 12.6,
+   "ban": 7.14,
+   "win": 62.5,
+   "games": 36,
+   "picks": 24
+  },
+  "balmond": {
+   "presence": 0.28,
+   "pick": 0.28,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "grock": {
+   "presence": 1.25,
+   "pick": 1.25,
+   "ban": 0,
+   "win": null,
+   "games": 2,
+   "picks": 2
+  },
+  "zilong": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "baxia": {
+   "presence": 1.25,
+   "pick": 1.25,
+   "ban": 0,
+   "win": null,
+   "games": 2,
+   "picks": 2
+  },
+  "gatotkaca": {
+   "presence": 16.29,
+   "pick": 11.33,
+   "ban": 4.96,
+   "win": 36.36,
+   "games": 32,
+   "picks": 22
+  },
+  "tigreal": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  },
+  "chou": {
+   "presence": 24.37,
+   "pick": 14.8,
+   "ban": 9.56,
+   "win": 53.85,
+   "games": 44,
+   "picks": 26
+  },
+  "valentina": {
+   "presence": 32.84,
+   "pick": 15.86,
+   "ban": 16.99,
+   "win": 31.25,
+   "games": 63,
+   "picks": 32
+  },
+  "mathilda": {
+   "presence": 2.26,
+   "pick": 1.25,
+   "ban": 1.01,
+   "win": null,
+   "games": 6,
+   "picks": 3
+  },
+  "lancelot": {
+   "presence": 0.69,
+   "pick": 0.69,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "granger": {
+   "presence": 0.62,
+   "pick": 0.62,
+   "ban": 0,
+   "win": null,
+   "games": 1,
+   "picks": 1
+  },
+  "fanny": {
+   "presence": 32.16,
+   "pick": 4.33,
+   "ban": 27.82,
+   "win": 88.89,
+   "games": 65,
+   "picks": 9
+  },
+  "franco": {
+   "presence": 0,
+   "pick": 0,
+   "ban": 0,
+   "win": null,
+   "games": 0,
+   "picks": 0
+  }
+ }
+}

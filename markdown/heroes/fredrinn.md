@@ -1,6 +1,6 @@
 ---
 title: "Фредрин MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фредрин в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 52,36% побед, тир B."
+description: "Фредрин в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 52,36% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/fredrinn.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Фредрин
 
-B
+C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/jungle.webp)Лес
-
-Талантливый оценщик редкостей из Лос Пекадос, который копит средства и ищет потерянного друга.
 
 Победы
 
 52,4%
 
-все ранги 51,3%
-
 Выбор
 
 0,5%
 
-все ранги 0,4%
-
 Баны
 
 1,1%
-
-все ранги 1,6%
-
-№48 в тир-листе · №10 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие танки этой линии
 
-[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 162,1%Сборка 261,4%Сборка 360,5%
-
-### Предметы
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 5,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Живучесть
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 4,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Оракул
+    Оракул
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Наплечник наказания
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 3,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Живучесть
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Ярость оценщика**_›_**Пронзающий удар**_›_**Храброе нападение**
 
-![](/images/mlbb/skills/fredrinn-0.webp)Пассивный![](/images/mlbb/skills/fredrinn-1.webp)1-й навык![](/images/mlbb/skills/fredrinn-2.webp)2-й навык![](/images/mlbb/skills/fredrinn-3.webp)3-й навык![](/images/mlbb/skills/fredrinn-4.webp)Ультимейт
-
-![](/images/mlbb/skills/fredrinn-0.webp)
+![](/images/mlbb/skills/fredrinn-0.webp)Пассивный**Кристаллическая броня**![](/images/mlbb/skills/fredrinn-1.webp)1-й навык**Пронзающий удар**![](/images/mlbb/skills/fredrinn-2.webp)2-й навык**Храброе нападение**![](/images/mlbb/skills/fredrinn-3.webp)3-й навык**Выброс энергии**![](/images/mlbb/skills/fredrinn-4.webp)Ультимейт**Ярость оценщика**
 
 Пассивный
 
@@ -227,8 +213,6 @@ B
 
 Фредрин может преобразовать накопленную энергию кристалла в ОЗ на 20% от нанесенного им урона (10% от урона по миньонам). Получение комбо-очка сбрасывает таймер распада.
 
-![](/images/mlbb/skills/fredrinn-1.webp)
-
 1-й навык
 
 ### Пронзающий удар
@@ -239,8 +223,6 @@ B
 
 Этот навык наносит 170% урона врагам не-героям.
 
-![](/images/mlbb/skills/fredrinn-2.webp)
-
 2-й навык
 
 ### Храброе нападение
@@ -248,8 +230,6 @@ B
 Перезарядка **7.5 с**
 
 Фредрин совершает рывок в указанном направлении, нанося 140 (+80% дополнительной физической атаки) единиц физического урона первому пораженному врагу, не являющемуся миньоном. Его следующая базовая атака подбрасывает цель на 0.3 сек.
-
-![](/images/mlbb/skills/fredrinn-3.webp)
 
 3-й навык
 
@@ -259,8 +239,6 @@ B
 
 **Затраты комбо-очков на этот навык:** 1.
 
-![](/images/mlbb/skills/fredrinn-4.webp)
-
 Ультимейт
 
 ### Ярость оценщика
@@ -269,33 +247,25 @@ B
 
 **Затраты комбо-очков на этот навык:** 3.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/diggie.webp)Дигги**+4,0**](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/granger.webp)Грейнджер**+3,4**](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/angela.webp)Ангела**+3,0**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/beatrix.webp)Беатрис**+2,2**](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
 > Талантливый оценщик редкостей из Лос Пекадос, который копит средства и ищет потерянного друга.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Fredrinn)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=117)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Fredrinn)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=117)
 
 **Поднимем ранг на герое «Фредрин»**Цена считается в калькуляторе
 
@@ -317,7 +287,7 @@ B
 
 Силён ли герой «Фредрин» в текущей мете?
 
-Тир B, 48-е место из 133 героев и 10-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 52,4% побед.
+Тир C, 76-е место из 133 героев и 13-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Фредрин» лучшая?
 

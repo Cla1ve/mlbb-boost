@@ -1,6 +1,6 @@
 ---
 title: "Чонг MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чонг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,68% побед, тир C."
+description: "Чонг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,68% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/yu-zhong.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Чонг
 
-C
+B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
-
-Чонг, реинкарнация Черного дракона, намерен завоевать и объединить Речную долину Кадиа и привести ее в эпоху процветания.
 
 Победы
 
 48,7%
 
-все ранги 48,9%
-
 Выбор
 
 0,8%
 
-все ранги 0,7%
-
 Баны
 
 0,3%
-
-все ранги 0,8%
-
-№75 в тир-листе · №22 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,4%Сборка 261,3%Сборка 359,6%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/133.webp)
-
-Боевой клич
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 6,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Удар охотника
+    Топор войны
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Топор войны
+    Удар охотника
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Трепет
+    Разрыв
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 3,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Разрыв
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 2,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
 ## Навыки
 
 Прокачка**Форма Черного дракона**_›_**Хвост дракона**_›_**Яростный прыжок**_›_**Захват души**
 
-![](/images/mlbb/skills/yu-zhong-0.webp)Пассивный![](/images/mlbb/skills/yu-zhong-1.webp)1-й навык![](/images/mlbb/skills/yu-zhong-2.webp)2-й навык![](/images/mlbb/skills/yu-zhong-3.webp)3-й навык![](/images/mlbb/skills/yu-zhong-4.webp)Ультимейт
-
-![](/images/mlbb/skills/yu-zhong-0.webp)
+![](/images/mlbb/skills/yu-zhong-0.webp)Пассивный**Проклятое касание**![](/images/mlbb/skills/yu-zhong-1.webp)1-й навык**Хвост дракона**![](/images/mlbb/skills/yu-zhong-2.webp)2-й навык**Захват души**![](/images/mlbb/skills/yu-zhong-3.webp)3-й навык**Яростный прыжок**![](/images/mlbb/skills/yu-zhong-4.webp)Ультимейт**Форма Черного дракона**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 Частица Ша извергается, когда на цели накапливается 5 зарядов. Потом она начинает расходовать 1 заряд кажд. 0.4 сек., чтобы нанести цели физический урон, равный 20 (+20% дополнительной физической атаки) (+2.5% от ). Каждый израсходованный заряд восстанавливает 6% от Чонга. Чонг также получает 30% скорости передвижения на 3 сек.
 
-![](/images/mlbb/skills/yu-zhong-1.webp)
-
 1-й навык
 
 ### Хвост дракона
@@ -234,8 +218,6 @@ C
 Перезарядка **6 с**
 
 Чонг наделяет свой плащ силой и превращает его в оружие, которое после небольшой задержки атакует ближайших врагов. Внутренняя область плаща наносит 220 (+100% дополнительной физической атаки) единиц физического урона, а заостренный край наносит 275% урона и применяет 2 заряда частицы Ша.
-
-![](/images/mlbb/skills/yu-zhong-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ C
 
 После попадания по врагу следующая базовая атака Чонга будет усилена и нанесет 108 (+100% общей физической атаки) единиц физического урона. При попадании по нескольким врагам усиленная базовая атака Чонга наложит несколько зарядов частицы Ша и нанесет до 200% урона.
 
-![](/images/mlbb/skills/yu-zhong-3.webp)
-
 3-й навык
 
 ### Яростный прыжок
@@ -258,8 +238,6 @@ C
 Чонг прыгает в определенную область изо всех сил, нанося 180 (+90% дополнительной физической атаки) единиц физического урона. Он сможет сделать рывок в направлении движения еще один раз.
 
 После короткой задержки враги в зоне действия будут подброшены в воздух на 0.6 сек. и получат 180 (+90% дополнительной физической атаки) единиц дополнительного физического урона.
-
-![](/images/mlbb/skills/yu-zhong-4.webp)
 
 Ультимейт
 
@@ -271,27 +249,19 @@ C
 
 После выхода из формы Черного дракона Чонг входит в форму драгоноида, увеличивая дальность всех своих навыков на 10 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/thamuz.webp)Тамуз**+2,6**](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/bane.webp)Бэйн**+2,4**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/sun.webp)Сан**+2,1**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/julian.webp)Джулиан**+1,5**](https://boostmlbb.ru/heroes/julian.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
 
 ## История
 
 > Чонг, реинкарнация Черного дракона, намерен завоевать и объединить Речную долину Кадиа и привести ее в эпоху процветания.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Yu_Zhong)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=95)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Yu_Zhong)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=95)
 
 **Поднимем ранг на герое «Чонг»**Цена считается в калькуляторе
 
@@ -313,7 +283,7 @@ C
 
 Силён ли герой «Чонг» в текущей мете?
 
-Тир C, 75-е место из 133 героев и 22-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,3% матчей, 48,7% побед.
+Тир B, 41-е место из 133 героев и 12-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,3% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 27,9% катков.
 
 Какая сборка на героя «Чонг» лучшая?
 

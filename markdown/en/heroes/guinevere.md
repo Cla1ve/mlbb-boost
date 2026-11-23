@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
 
-Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.
-
 Win rate
 
 51.4%
-
-all ranks 51.3%
 
 Pick rate
 
 1.0%
 
-all ranks 0.8%
-
 Ban rate
 
 1.2%
-
-all ranks 1.9%
-
-#36 in the tier list · #11 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 156.6%Build 253.7%Build 355.9%
-
-### Core items
-
-![](/images/mlbb/items/3103.webp)
-
-Concentrated Energy
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/134.webp)
-
-Temporal Reign
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 3.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Concentrated Energy
+    Concentrated Energy
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Brute Force Breastplate
+    Brute Force Breastplate
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Seasoned Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/134.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Temporal Reign
+    Temporal Reign
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Concentrated Energy
+    Concentrated Energy
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Divine Glaive
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Holy Crystal
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Rupture
+    Thrill
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Pull Yourself Together
+    Seasoned Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Impure Rage
+    Temporal Reign
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Concentrated Energy
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Holy Crystal
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Violet Requiem**_›_**Energy Wave**_›_**Spatial Migration**
 
-![](/images/mlbb/skills/guinevere-0.webp)Passive![](/images/mlbb/skills/guinevere-1.webp)Skill 1![](/images/mlbb/skills/guinevere-2.webp)Skill 2![](/images/mlbb/skills/guinevere-3.webp)Ultimate
-
-![](/images/mlbb/skills/guinevere-0.webp)
+![](/images/mlbb/skills/guinevere-0.webp)Passive**Super Magic**![](/images/mlbb/skills/guinevere-1.webp)Skill 1**Energy Wave**![](/images/mlbb/skills/guinevere-2.webp)Skill 2**Spatial Migration**![](/images/mlbb/skills/guinevere-3.webp)Ultimate**Violet Requiem**
 
 Passive
 
@@ -227,8 +213,6 @@ Guinevere gains Super Magic stacks each time she deals damage. At max stacks, he
 
 Enemies hit by Guinevere's skills or enhanced Basic Attack are marked for 5s. Enemies with 3 marks are knocked airborne when hit by Violet Requiem.
 
-![](/images/mlbb/skills/guinevere-1.webp)
-
 Skill 1
 
 ### Energy Wave
@@ -238,8 +222,6 @@ Cooldown **4 s**
 Guinevere releases an energy orb in the target direction, dealing 300 (+125% Total Magic Power) Magic Damage and slowing enemies by 25% for 1.2s.
 
 Successfully hitting an enemy reduces all her skill cooldowns by 1s.
-
-![](/images/mlbb/skills/guinevere-2.webp)
 
 Skill 2
 
@@ -251,8 +233,6 @@ Guinevere leaps to the target location, dealing 250 (+80% Total Magic Power) Mag
 
 **Use Again:** Guinevere blinks toward the target direction and leaves an illusion behind. If the illusion takes damage by hero, it restores Super Magic for Guinevere and explodes after 1.5s, dealing 100 (+30% Total Magic Power) Magic Damage to nearby enemies.
 
-![](/images/mlbb/skills/guinevere-3.webp)
-
 Ultimate
 
 ### Violet Requiem
@@ -263,33 +243,25 @@ Guinevere creates a force field around her, gaining Control Immunity while attac
 
 Airborne enemies hit will be knocked airborne again, up to 8 additional times.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
+[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/sun.webp)Sun**+1.9**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lukas.webp)Lukas**+1.7**](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/masha.webp)Masha**+1.7**](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/thamuz.webp)Thamuz**+1.6**](https://boostmlbb.ru/en/heroes/thamuz.html)
+[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
 
 ## Lore
 
 > Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/guinevere)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=80)
+[Read the full story ↗](https://kazukiofficial.com/stories/guinevere)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=80)
 
 **Rank up on Guinevere**The calculator shows the price
 
@@ -311,7 +283,7 @@ Fighter, played in the EXP Lane.
 
 Is Guinevere strong in the current meta?
 
-Tier B, #36 of 133 heroes and #11 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.2% of matches, 51.4% win rate.
+Tier B, #54 of 133 heroes and #16 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.2% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 3.4% of them.
 
 What is the best build for Guinevere?
 

@@ -1,6 +1,6 @@
 ---
 title: "Yu Zhong MLBB: build, counters and skills | MLBB Boost"
-description: "Yu Zhong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.68% win rate, tier C."
+description: "Yu Zhong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.68% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yu-zhong.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Yu Zhong
 
-C
+B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
-
-Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity.
 
 Win rate
 
 48.7%
 
-all ranks 48.9%
-
 Pick rate
 
 0.8%
 
-all ranks 0.7%
-
 Ban rate
 
 0.3%
-
-all ranks 0.8%
-
-#75 in the tier list · #22 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 155.4%Build 261.3%Build 359.6%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/133.webp)
-
-War Cry
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Hunter Strike
+    War Axe
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-War Axe
+    Hunter Strike
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Thrill
+    Rupture
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-War Cry
+    War Cry
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Rupture
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-War Cry
+    War Cry
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    War Cry
+
+
 ## Skills
 
 Level-up**Black Dragon Form**_›_**Dragon Tail**_›_**Furious Dive**_›_**Soul Grip**
 
-![](/images/mlbb/skills/yu-zhong-0.webp)Passive![](/images/mlbb/skills/yu-zhong-1.webp)Skill 1![](/images/mlbb/skills/yu-zhong-2.webp)Skill 2![](/images/mlbb/skills/yu-zhong-3.webp)Skill 3![](/images/mlbb/skills/yu-zhong-4.webp)Ultimate
-
-![](/images/mlbb/skills/yu-zhong-0.webp)
+![](/images/mlbb/skills/yu-zhong-0.webp)Passive**Cursing Touch**![](/images/mlbb/skills/yu-zhong-1.webp)Skill 1**Dragon Tail**![](/images/mlbb/skills/yu-zhong-2.webp)Skill 2**Soul Grip**![](/images/mlbb/skills/yu-zhong-3.webp)Skill 3**Furious Dive**![](/images/mlbb/skills/yu-zhong-4.webp)Ultimate**Black Dragon Form**
 
 Passive
 
@@ -225,8 +211,6 @@ Yu Zhong applies Sha Residue to enemy heroes each time he damages them.
 
 Sha Residue erupts upon reaching 5 stacks on a target. Then it begins consuming 1 stack every 0.4s to deal Physical Damage equal to 20 (+20% Extra Physical Attack) (+ 2.5% of target's ) to the target. Each stack consumed recovers 6% of Yu Zhong's . Yu Zhong also gains 30% Movement Speed for 3s.
 
-![](/images/mlbb/skills/yu-zhong-1.webp)
-
 Skill 1
 
 ### Dragon Tail
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **6 s**
 
 Yu Zhong infuses his power into his cloak and turns it into a weapon, which starts to attack nearby enemies after a short delay. The inner area of the cloak deals 220 (+100% Extra Physical Attack) Physical Damage, whereas the sharpened edge deals 275% damage and applies 2 stacks of Sha Residue.
-
-![](/images/mlbb/skills/yu-zhong-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ Yu Zhong unleashes the Dragon Soul, dealing 150 (+120% Extra Physical Attack) Ph
 
 Upon hitting an enemy, Yu Zhong's next Basic Attack will be enhanced, dealing 108 (+100% Total Physical Attack) Physical Damage. Upon hitting multiple enemies, the enhanced Basic Attack will apply multiple stacks of Sha Residue and deal up to 200% damage.
 
-![](/images/mlbb/skills/yu-zhong-3.webp)
-
 Skill 3
 
 ### Furious Dive
@@ -258,8 +238,6 @@ Cooldown **14 s**
 Yu Zhong leaps towards the designated area with his full strength, dealing 180 (+90% Extra Physical Attack) Physical Damage. He is able to dash one more time in the movement direction.
 
 After a short delay, enemies within the area of effect will be knocked airborne for 0.6s and take 180 (+90% Extra Physical Attack) additional Physical Damage.
-
-![](/images/mlbb/skills/yu-zhong-4.webp)
 
 Ultimate
 
@@ -271,27 +249,19 @@ After channeling for 0.6s, Yu Zhong transforms into his Black Dragon Form. For u
 
 Upon exiting the Black Dragon Form, Yu Zhong enters Dragonoid Form, gaining increased range on all of his skills for 10s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/thamuz.webp)Thamuz**+2.6**](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/bane.webp)Bane**+2.4**](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun**+2.1**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/julian.webp)Julian**+1.5**](https://boostmlbb.ru/en/heroes/julian.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ## Lore
 
 > Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yu_Zhong)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=95)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yu_Zhong)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=95)
 
 **Rank up on Yu Zhong**The calculator shows the price
 
@@ -313,7 +283,7 @@ Fighter, played in the EXP Lane.
 
 Is Yu Zhong strong in the current meta?
 
-Tier C, #75 of 133 heroes and #22 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 48.7% win rate.
+Tier B, #41 of 133 heroes and #12 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 27.9% of them.
 
 What is the best build for Yu Zhong?
 

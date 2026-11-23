@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.
-
 Win rate
 
 48.4%
-
-all ranks 49.5%
 
 Pick rate
 
 1.1%
 
-all ranks 1.2%
-
 Ban rate
 
 1.9%
-
-all ranks 3.9%
-
-#63 in the tier list · #13 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 156.0%Build 254.0%Build 355.3%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Sky Piercer
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Holy Crystal
+    Divine Glaive
 
-### Emblem
 
-![](/images/mlbb/emblems/20005.webp)
+#### Spell
 
-Assassin
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/511.webp)
+#### Emblem and talents
 
-Rupture
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/121.webp)
+Mage
 
-Wilderness Blessing
+-   ![](/images/mlbb/talents/611.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Inspire
 
-Impure Rage
+-   ![](/images/mlbb/talents/121.webp)
 
-### Spell
+    Wilderness Blessing
 
-![](/images/mlbb/spells/20140.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Flameshot
+    Impure Rage
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Holy Crystal
+    Holy Crystal
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 2.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Holy Crystal
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Astral Echo**_›_**Astral Recall**_›_**Astral Meteor**
 
-![](/images/mlbb/skills/novaria-0.webp)Passive![](/images/mlbb/skills/novaria-1.webp)Skill 1![](/images/mlbb/skills/novaria-2.webp)Skill 2![](/images/mlbb/skills/novaria-3.webp)Ultimate
-
-![](/images/mlbb/skills/novaria-0.webp)
+![](/images/mlbb/skills/novaria-0.webp)Passive**Star Trail**![](/images/mlbb/skills/novaria-1.webp)Skill 1**Astral Meteor**![](/images/mlbb/skills/novaria-2.webp)Skill 2**Astral Recall**![](/images/mlbb/skills/novaria-3.webp)Ultimate**Astral Echo**
 
 Passive
 
 ### Star Trail
 
 Astral Sphere continuously slows nearby enemies by 20% and reveals their position.
-
-![](/images/mlbb/skills/novaria-1.webp)
 
 Skill 1
 
@@ -232,8 +216,6 @@ Skill 1
 Cooldown **8 Mana Cost: 60 s**
 
 Novaria summons an Astral Sphere at the target location, dealing 75 (+25% Total Magic Power) Magic Damage every 0.33s and continuously slowing enemies (up to 2.5 times). After 2s, the Astral Sphere explodes, dealing 260 (+50% Total Magic Power) (+ 4% target's ) Magic Damage and slowing enemies by 2.5 times.
-
-![](/images/mlbb/skills/novaria-2.webp)
 
 Skill 2
 
@@ -245,8 +227,6 @@ Cooldown **20 Mana Cost: 60 s**
 
 **Use Again:** Upon catching the Astral Sphere, she can cast Star Shatter to launch it in the target direction within 5s. Upon hitting an enemy hero, it deals 260 (+95% Total Magic Power) (+ 5% target's ) Magic Damage to them and nearby heroes. The damage will increase based on the Astral Sphere's travel distance (draw + launch), up to 2.2 times the original damage.
 
-![](/images/mlbb/skills/novaria-3.webp)
-
 Ultimate
 
 ### Astral Echo
@@ -255,27 +235,19 @@ Cooldown **48 Mana Cost: 100 s**
 
 Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% and applying Astral Ring on them. This increases their hitbox by 2.5 times and reveals their position for 5s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/cyclops.webp)Cyclops**+2.6**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Khufra**+1.3**](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/harley.webp)Harley**+1.2**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/akai.webp)Akai**+1.1**](https://boostmlbb.ru/en/heroes/akai.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Lore
 
 > The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Novaria)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=119)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Novaria)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=119)
 
 **Rank up on Novaria**The calculator shows the price
 
@@ -297,7 +269,7 @@ Mage, played in the Mid Lane.
 
 Is Novaria strong in the current meta?
 
-Tier B, #63 of 133 heroes and #13 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 48.4% win rate.
+Tier B, #59 of 133 heroes and #14 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 4.5% of them.
 
 What is the best build for Novaria?
 

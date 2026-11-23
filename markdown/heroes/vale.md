@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Наследник Ветреного форта, маг ветра.
-
 Победы
 
 48,8%
-
-все ранги 50,1%
 
 Выбор
 
 0,3%
 
-все ранги 0,5%
-
 Баны
 
 0,1%
-
-все ранги 0,2%
-
-№103 в тир-листе · №24 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 155,0%Сборка 252,0%Сборка 352,8%
-
-### Предметы
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 6,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Пронзающий небеса
+    Палочка гения
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Палочка гения
+    Пылающий жезл
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Божественный меч
+    Божественный меч
 
-### Эмблема
 
-![](/images/mlbb/emblems/20006.webp)
+#### Заклинание
 
-Эмблема мага
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Эмблема убийцы
 
-Мастер оружий
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Разрыв
 
-Нечестивая ярость
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Заклинание
+    Мастер оружий
 
-![](/images/mlbb/spells/20140.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Огненный выстрел
+    Смертельное воспламенение
+
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 3,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Палочка гения
+    Палочка гения
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Божественный меч
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 1,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Палочка гения
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Божественный меч
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Буря**_›_**Лезвие ветра**_›_**Порыв ветра**
 
-![](/images/mlbb/skills/vale-0.webp)Пассивный![](/images/mlbb/skills/vale-1.webp)1-й навык![](/images/mlbb/skills/vale-2.webp)2-й навык![](/images/mlbb/skills/vale-3.webp)Ультимейт
-
-![](/images/mlbb/skills/vale-0.webp)
+![](/images/mlbb/skills/vale-0.webp)Пассивный**Голос ветра**![](/images/mlbb/skills/vale-1.webp)1-й навык**Лезвие ветра**![](/images/mlbb/skills/vale-2.webp)2-й навык**Порыв ветра**![](/images/mlbb/skills/vale-3.webp)Ультимейт**Буря**
 
 Пассивный
 
 ### Голос ветра
 
 Вэйл получает 1 заряд "Голоса ветра" каждый раз, когда совершает убийство или ассист, который увеличивает его скорость передвижения на 8. Этот эффект может складываться до 10 раз.
-
-![](/images/mlbb/skills/vale-1.webp)
 
 1-й навык
 
@@ -233,8 +217,6 @@ C
 
 Вэйл выпускает два лезвия ветра по левую и правую стороны от указанной области. Каждое лезвие наносит 250 (+80% общей магической силы) единиц магического урона пораженным врагам.
 
-![](/images/mlbb/skills/vale-2.webp)
-
 2-й навык
 
 ### Порыв ветра
@@ -242,8 +224,6 @@ C
 Перезарядка **12 Mana Cost: 70 с**
 
 Вэйл отправляет вихрь в указанном направлении, нанося 350 (+100% общей магической силы) единиц магического урона пораженным врагам и подбрасывая их на 0.8 сек. (Каждого врага можно подбросить только 1 р.) Когда вихрь достигнет пункта назначения, он остановится на 1.6 сек., непрерывно нанося в сумме 150 (+30% общей магической силы) единиц магического урона врагам в радиусе действия.
-
-![](/images/mlbb/skills/vale-3.webp)
 
 Ультимейт
 
@@ -255,33 +235,25 @@ C
 
 Оставшиеся вихри также притянутся к центру.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
+[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/cyclops.webp)Циклоп**+2,4**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/hilda.webp)Хильда**+1,9**](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/balmond.webp)Бальмонд**+1,4**](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа**+1,4**](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ## История
 
 > Наследник Ветреного форта, маг ветра.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/vale)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=66)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/vale)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=66)
 
 **Поднимем ранг на герое «Вэйл»**Цена считается в калькуляторе
 
@@ -303,7 +275,7 @@ C
 
 Силён ли герой «Вэйл» в текущей мете?
 
-Тир C, 103-е место из 133 героев и 24-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,8% побед.
+Тир C, 114-е место из 133 героев и 28-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Вэйл» лучшая?
 

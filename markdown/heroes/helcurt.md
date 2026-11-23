@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес![](/images/mlbb/filters/roam.webp)Роум
 
-Ночной кошмар Бездны, готовый предать любого, чтобы выжить.
-
 Победы
 
 46,7%
-
-все ранги 47,6%
 
 Выбор
 
 0,4%
 
-все ранги 0,6%
-
 Баны
 
 2,2%
-
-все ранги 4,7%
-
-№107 в тир-листе · №25 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 151,9%Сборка 254,2%Сборка 353,2%
-
-### Предметы
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2006.webp)
-
-Меч охотника на демонов
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 5,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Коса коррозии
+    Клинок семи морей
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Клинок семи морей
+    Удар охотника
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Меч охотника на демонов
+    Меч охотника на демонов
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Опытный охотник
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 4,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Клинок семи морей
+    Коса коррозии
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Коса коррозии
+    Клинок семи морей
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Меч охотника на демонов
+    Меч охотника на демонов
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 3,0%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Да наступит ночь!**_›_**Смертоносный клинок**_›_**Скрытый ужас**
 
-![](/images/mlbb/skills/helcurt-0.webp)Пассивный![](/images/mlbb/skills/helcurt-1.webp)1-й навык![](/images/mlbb/skills/helcurt-2.webp)2-й навык![](/images/mlbb/skills/helcurt-3.webp)Ультимейт
-
-![](/images/mlbb/skills/helcurt-0.webp)
+![](/images/mlbb/skills/helcurt-0.webp)Пассивный**Тень Стикса**![](/images/mlbb/skills/helcurt-1.webp)1-й навык**Скрытый ужас**![](/images/mlbb/skills/helcurt-2.webp)2-й навык**Смертоносный клинок**![](/images/mlbb/skills/helcurt-3.webp)Ультимейт**Да наступит ночь!**
 
 Пассивный
 
@@ -227,8 +213,6 @@ C
 
 Любой герой, убитый после атаки Хелкарта, оставляет после себя темный туман, который взрывается и распространяется с перезарядкой 10 сек. Хелкарт использует темный туман для маскировки.
 
-![](/images/mlbb/skills/helcurt-1.webp)
-
 1-й навык
 
 ### Скрытый ужас
@@ -238,8 +222,6 @@ C
 **Пассивный:** когда Хелкарт находится в состоянии скрытности, ужас также поражает вражеских героев и ненадолго раскрывает их. Его перезарядка сокращается в 3 р. быстрее обычного.
 
 **Активный:** Хелкарт перемещается в указанное место и наносит 150 (+70% общей физической атаки) единиц физического урона врагам в области действия, снижая их скорость передвижения на 60% на 0.75 сек.
-
-![](/images/mlbb/skills/helcurt-2.webp)
 
 2-й навык
 
@@ -253,8 +235,6 @@ C
 
 "Смертоносный клинок" считается базовой атакой, но не может наносить критический урон.
 
-![](/images/mlbb/skills/helcurt-3.webp)
-
 Ультимейт
 
 ### Да наступит ночь!
@@ -265,33 +245,25 @@ C
 
 "Темная ночь" позволяет Хелкарту легко покинуть зону видимости врагов.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/akai.webp)Акай**+2,7**](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/gloo.webp)Глу**+2,6**](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/belerick.webp)Белерик**+2,6**](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/khufra.webp)Хуфра**+2,6**](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
 
 ## История
 
 > Ночной кошмар Бездны, готовый предать любого, чтобы выжить.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/HelcurtRE)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=51)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/HelcurtRE)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=51)
 
 **Поднимем ранг на герое «Хелкарт»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ C
 
 Силён ли герой «Хелкарт» в текущей мете?
 
-Тир C, 107-е место из 133 героев и 25-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,2% матчей, 46,7% побед.
+Тир C, 102-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,2% матчей, 46,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Хелкарт» лучшая?
 

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Некогда эксцентричный талантливый кузнец, ставший мстителем Бездны.
-
 Победы
 
 49,9%
-
-все ранги 50,6%
 
 Выбор
 
 0,3%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,2%
-
-№92 в тир-листе · №14 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие танки этой линии
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 157,1%Сборка 259,8%Сборка 356,8%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/731.webp)
-
-Отвага
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 16,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Господство льда
+    Крылья королевы
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Крылья королевы
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 5,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Крылья королевы
+    Господство льда
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Господство льда
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 2,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Область наказания**_›_**Удар казни**_›_**Удар мести**
 
-![](/images/mlbb/skills/terizla-0.webp)Пассивный![](/images/mlbb/skills/terizla-1.webp)1-й навык![](/images/mlbb/skills/terizla-2.webp)2-й навык![](/images/mlbb/skills/terizla-3.webp)Ультимейт
-
-![](/images/mlbb/skills/terizla-0.webp)
+![](/images/mlbb/skills/terizla-0.webp)Пассивный**Тело кузнеца**![](/images/mlbb/skills/terizla-1.webp)1-й навык**Удар мести**![](/images/mlbb/skills/terizla-2.webp)2-й навык**Удар казни**![](/images/mlbb/skills/terizla-3.webp)Ультимейт**Область наказания**
 
 Пассивный
 
@@ -224,8 +210,6 @@ C
 Тэризла получает 1% доп. снижения урона (до 20 (+1 × ур. героя)%) за кажд. 2.5% потерянных ОЗ.
 
 Он не может получать дополнительную скорость атаки и будет преобразовывать каждый 1% доп. скорости атаки в 1 ед. .
-
-![](/images/mlbb/skills/terizla-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ C
 
 Затем разлом взрывается, нанося 300 (+80% дополнительной физической атаки) (+20% от потерянных цели) единиц физического урона.
 
-![](/images/mlbb/skills/terizla-2.webp)
-
 2-й навык
 
 ### Удар казни
@@ -249,8 +231,6 @@ C
 
 Наносит только 80% урона миньонам.
 
-![](/images/mlbb/skills/terizla-3.webp)
-
 Ультимейт
 
 ### Область наказания
@@ -259,33 +239,25 @@ C
 
 Тэризла прыгает в указанную область, нанося 300 (+100% общей физической атаки) единиц физического урона и подбрасывая врагов на 0.6 сек. Затем он призывает эшафот и замедляет врагов на 25%. Эшафот протягивает к вражеским героям крюк в радиусе действия и притягивает их несколько раз, каждый раз нанося 150 (+30% общей физической атаки) единиц физического урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/sun.webp)Сан**+2,3**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/angela.webp)Ангела**+2,2**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/floryn.webp)Флорин**+1,6**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/alpha.webp)Альфа**+1,5**](https://boostmlbb.ru/heroes/alpha.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
 
 ## История
 
 > Некогда эксцентричный талантливый кузнец, ставший мстителем Бездны.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Terizla)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=82)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Terizla)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=82)
 
 **Поднимем ранг на герое «Тэризла»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ C
 
 Силён ли герой «Тэризла» в текущей мете?
 
-Тир C, 92-е место из 133 героев и 14-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,9% побед.
+Тир C, 108-е место из 133 героев и 18-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
 
 Какая сборка на героя «Тэризла» лучшая?
 

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
 
-A super cyborg who can transform into a car and lead his teammates into battle.
-
 Win rate
 
 47.9%
-
-all ranks 49.3%
 
 Pick rate
 
 0.5%
 
-all ranks 0.7%
-
 Ban rate
 
 0.6%
-
-all ranks 2.0%
-
-#98 in the tier list · #16 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 155.6%Build 256.7%Build 352.4%
-
-### Core items
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3203.webp)
-
-Antique Cuirass
-
-![](/images/mlbb/items/2207.webp)
-
-Blade Armor
-
-### Emblem
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/821.webp)
-
-Pull Yourself Together
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20040.webp)
-
-Sprint
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Antique Cuirass
+    Antique Cuirass
 
-![](/images/mlbb/items/2207.webp)
+-   ![](/images/mlbb/items/2207.webp)
 
-Blade Armor
+    Blade Armor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20040.webp)Sprint
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Agility
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Wilderness Blessing
+    Pull Yourself Together
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20040.webp)
-
-Sprint
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Fleeting Time
+    Dominance Ice
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Dominance Ice
+    Antique Cuirass
 
-![](/images/mlbb/items/3205.webp)
+-   ![](/images/mlbb/items/2207.webp)
 
-Athena's Shield
+    Blade Armor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20040.webp)Sprint
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/711.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Firmness
+    Agility
 
-![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Tenacity
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3205.webp)
+
+    Athena's Shield
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Firmness
+
+-   ![](/images/mlbb/talents/321.webp)
+
+    Tenacity
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Full Throttle**_›_**Electromagnetic Waves**_›_**Impact Wrench**
 
-![](/images/mlbb/skills/johnson-0.webp)Passive![](/images/mlbb/skills/johnson-1.webp)Skill 1![](/images/mlbb/skills/johnson-2.webp)Skill 2![](/images/mlbb/skills/johnson-3.webp)Ultimate
-
-![](/images/mlbb/skills/johnson-0.webp)
+![](/images/mlbb/skills/johnson-0.webp)Passive**Electro Airbag**![](/images/mlbb/skills/johnson-1.webp)Skill 1**Impact Wrench**![](/images/mlbb/skills/johnson-2.webp)Skill 2**Electromagnetic Waves**![](/images/mlbb/skills/johnson-3.webp)Ultimate**Full Throttle**
 
 Passive
 
 ### Electro Airbag
 
 When Johnson's HP drops below 30%, he gains a 300 (+700% Total Physical Defense) shield for 10s. Cooldown: 100s.
-
-![](/images/mlbb/skills/johnson-1.webp)
 
 Skill 1
 
@@ -232,8 +216,6 @@ Skill 1
 Cooldown **8 s**
 
 Johnson throws his wrench toward the target location, dealing 120 (+220% Total Physical Defense) Magic Damage to enemies in its path. Enemies around the landing point are stunned for 0.8s.
-
-![](/images/mlbb/skills/johnson-2.webp)
 
 Skill 2
 
@@ -244,8 +226,6 @@ Cooldown **10 s**
 Johnson raises his shield, continuously dealing 120 (+60% Total Magic Power) Magic Damage to enemies in a fan-shaped area in the target direction, reducing their Movement Speed and by 10% (stacks up to 3 times) for 2s.
 
 While his shield is raised, Johnson can perform Basic Attacks and cast skills.
-
-![](/images/mlbb/skills/johnson-3.webp)
 
 Ultimate
 
@@ -259,33 +239,25 @@ Cooldown **36 s**
 
 Johnson's location is revealed to enemies for 3s when he casts this skill.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/silvanna.webp)Silvanna**+1.9**](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Zhask**+1.8**](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/change.webp)Chang'e**+1.7**](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/balmond.webp)Balmond**+1.7**](https://boostmlbb.ru/en/heroes/balmond.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
 
 ## Lore
 
 > A super cyborg who can transform into a car and lead his teammates into battle.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Johnson)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=32)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Johnson)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=32)
 
 **Rank up on Johnson**The calculator shows the price
 
@@ -307,7 +279,7 @@ Tank and support, played on roam.
 
 Is Johnson strong in the current meta?
 
-Tier C, #98 of 133 heroes and #16 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 47.9% win rate.
+Tier C, #103 of 133 heroes and #17 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 47.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Johnson?
 

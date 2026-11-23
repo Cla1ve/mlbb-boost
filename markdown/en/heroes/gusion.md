@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/mid.webp)Mid Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-Rebellious son of House Paxley.
-
 Win rate
 
 48.9%
-
-all ranks 48.6%
 
 Pick rate
 
 1.1%
 
-all ranks 1.3%
-
 Ban rate
 
 1.8%
-
-all ranks 3.4%
-
-#58 in the tier list · #12 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 155.7%Build 255.5%
-
-### Core items
-
-![](/images/mlbb/items/3111.webp)
-
-Genius Wand
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3102.webp)
-
-Holy Crystal
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 3.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Genius Wand
+    Genius Wand
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Holy Crystal
+    Lightning Truncheon
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Lightning Truncheon
+    Holy Crystal
 
-### Emblem
 
-![](/images/mlbb/emblems/20005.webp)
+#### Spell
 
-Assassin
+![](/images/mlbb/spells/20070.webp)Petrify
 
-![](/images/mlbb/talents/511.webp)
+#### Emblem and talents
 
-Rupture
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/821.webp)
+Mage
 
-Pull Yourself Together
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/631.webp)
+    Rupture
 
-Lethal Ignition
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Spell
+    Weapons Master
 
-![](/images/mlbb/spells/20070.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Petrify
+    Lethal Ignition
+
 
 Win rate
 
@@ -163,21 +113,55 @@ Pick rate
 
 1.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Genius Wand
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Holy Crystal
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Incandescence**_›_**Shadowblade Slaughter**_›_**Sword Spike**
 
-![](/images/mlbb/skills/gusion-0.webp)Passive![](/images/mlbb/skills/gusion-1.webp)Skill 1![](/images/mlbb/skills/gusion-2.webp)Skill 2![](/images/mlbb/skills/gusion-3.webp)Ultimate
-
-![](/images/mlbb/skills/gusion-0.webp)
+![](/images/mlbb/skills/gusion-0.webp)Passive**Dagger Specialist**![](/images/mlbb/skills/gusion-1.webp)Skill 1**Sword Spike**![](/images/mlbb/skills/gusion-2.webp)Skill 2**Shadowblade Slaughter**![](/images/mlbb/skills/gusion-3.webp)Ultimate**Incandescence**
 
 Passive
 
 ### Dagger Specialist
 
 Each skill cast adds a rune to Gusion's dagger (stacks up to 4 times). Each stack enhances Gusion's next Basic Attack to deal additional damage equal to 3% of the target's and recover 50 (+25% Total Magic Power) HP for himself.
-
-![](/images/mlbb/skills/gusion-1.webp)
 
 Skill 1
 
@@ -189,8 +173,6 @@ Gusion throws a dagger in the target direction, dealing 200 (+50% Total Magic Po
 
 **Use Again:** Gusion moves behind the marked enemy, dealing 200 (+100% Total Magic Power) Magic Damage to them. This skill cannot be interrupted while Gusion is moving behind the marked enemy.
 
-![](/images/mlbb/skills/gusion-2.webp)
-
 Skill 2
 
 ### Shadowblade Slaughter
@@ -200,8 +182,6 @@ Cooldown **9 Mana Cost: 60 s**
 Gusion throws a volley of daggers in the target direction, each dealing 100 (+40% Total Magic Power) Magic Damage to enemies hit and slowing them by 6% for 2s (when hit by multiple daggers, the slow effect can stack up to 30%).
 
 **Use Again:** Gusion recalls the daggers, each dealing 65 (+40% Total Magic Power) Magic Damage to enemies in its path.
-
-![](/images/mlbb/skills/gusion-3.webp)
 
 Ultimate
 
@@ -213,33 +193,25 @@ Gusion dashes to the target location, resetting the cooldowns of Sword Spike and
 
 **Use Again:** Gusion dashes a short distance in the target direction.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/change.webp)Chang'e**+1.4**](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/khufra.webp)Khufra**+1.3**](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/lylia.webp)Lylia**+1.3**](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/zetian.webp)Zetian**+1.2**](https://boostmlbb.ru/en/heroes/zetian.html)
+[![](/images/heroes/art/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)
 
 ## Lore
 
 > Rebellious son of House Paxley.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Gusion)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=56)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Gusion)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=56)
 
 **Rank up on Gusion**The calculator shows the price
 
@@ -261,7 +233,7 @@ Assassin, played in the Mid Lane or in the jungle.
 
 Is Gusion strong in the current meta?
 
-Tier B, #58 of 133 heroes and #12 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 48.9% win rate.
+Tier B, #68 of 133 heroes and #16 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 48.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Gusion?
 

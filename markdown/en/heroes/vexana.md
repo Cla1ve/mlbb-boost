@@ -1,6 +1,6 @@
 ---
 title: "Vexana MLBB: build, counters and skills | MLBB Boost"
-description: "Vexana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.45% win rate, tier B."
+description: "Vexana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.45% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vexana.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Vexana
 
-B
+C
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
-
-The young duchess guarding Necrokeep.
 
 Win rate
 
 48.5%
 
-all ranks 49.3%
-
 Pick rate
 
 1.1%
 
-all ranks 1.5%
-
 Ban rate
 
 0.4%
-
-all ranks 1.1%
-
-#66 in the tier list · #14 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 155.2%Build 254.5%Build 355.8%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 9.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Weapons Master
+    Wilderness Blessing
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Lethal Ignition
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.1%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Impure Rage
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Eternal Guard**_›_**Cursed Blast**_›_**Deathly Grasp**
 
-![](/images/mlbb/skills/vexana-0.webp)Passive![](/images/mlbb/skills/vexana-1.webp)Skill 1![](/images/mlbb/skills/vexana-2.webp)Skill 2![](/images/mlbb/skills/vexana-3.webp)Ultimate
-
-![](/images/mlbb/skills/vexana-0.webp)
+![](/images/mlbb/skills/vexana-0.webp)Passive**Nether Touch**![](/images/mlbb/skills/vexana-1.webp)Skill 1**Deathly Grasp**![](/images/mlbb/skills/vexana-2.webp)Skill 2**Cursed Blast**![](/images/mlbb/skills/vexana-3.webp)Ultimate**Eternal Guard**
 
 Passive
 
@@ -225,8 +211,6 @@ Vexana and her Eternal Guard inflict Nether Touch on enemies hit.
 
 The mark lasts 5s and causes the affected enemy to explode upon death, dealing 108-500 (+60% Total Magic Power) Magic Damage to nearby enemies (base damage scales with level).
 
-![](/images/mlbb/skills/vexana-1.webp)
-
 Skill 1
 
 ### Deathly Grasp
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **14 Mana Cost: 80 s**
 
 Vexana unleashes a Deathly Grasp in the target direction, dealing 200 (+60% Total Magic Power) Magic Damage to enemies in its path. It stops upon hitting an enemy hero, Terrifying and knocking them back. After a short delay, it explodes, dealing 200 (+60% Total Magic Power) Magic Damage to nearby enemies and Terrifying them for 1s.
-
-![](/images/mlbb/skills/vexana-2.webp)
 
 Skill 2
 
@@ -245,8 +227,6 @@ Cooldown **7 Mana Cost: 60 s**
 
 Vexana marks the target area with the power of the undead, striking it after a 0.8s delay and dealing 580 (+165% Total Magic Power) Magic Damage to enemies hit.
 
-![](/images/mlbb/skills/vexana-3.webp)
-
 Ultimate
 
 ### Eternal Guard
@@ -255,27 +235,19 @@ Cooldown **60 Mana Cost: 120 s**
 
 Vexana summons an Eternal Guard at the target location, dealing 480 (+60% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 0.8s. The Eternal Guard then joins Vexana in battle for 15s. Its attacks deal 200 (+40% Total Magic Power) (+ 5% target's ) Magic Damage and Splash Damage in a large area.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/cyclops.webp)Cyclops**+1.9**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley**+1.5**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/johnson.webp)Johnson**+1.2**](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/hilda.webp)Hilda**+1.2**](https://boostmlbb.ru/en/heroes/hilda.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Lore
 
 > The young duchess guarding Necrokeep.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Vexana)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=38)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Vexana)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=38)
 
 **Rank up on Vexana**The calculator shows the price
 
@@ -297,7 +269,7 @@ Mage, played in the Mid Lane.
 
 Is Vexana strong in the current meta?
 
-Tier B, #66 of 133 heroes and #14 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate.
+Tier C, #74 of 133 heroes and #19 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Vexana?
 

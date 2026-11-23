@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Ледяная дева, дарующая вечные воспоминания в легендах севера.
-
 Победы
 
 48,8%
-
-все ранги 48,9%
 
 Выбор
 
 0,5%
 
-все ранги 0,6%
-
 Баны
 
 0,1%
-
-все ранги 0,4%
-
-№94 в тир-листе · №21 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 154,2%Сборка 254,9%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/2112.webp)
-
-Фонарь желаний
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 10,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Кровавые крылья
+    Пылающий жезл
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Пылающий жезл
+    Жезл молний
 
-![](/images/mlbb/items/2112.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Фонарь желаний
+    Фонарь желаний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Ловкость
+    Разрыв
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,13 +113,49 @@ C
 
 2,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Кровавые крылья
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/2112.webp)
+
+    Фонарь желаний
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Беспощадный ледник**_›_**Смертоносный град**_›_**Морозный ветер**
 
-![](/images/mlbb/skills/aurora-0.webp)Пассивный![](/images/mlbb/skills/aurora-1.webp)1-й навык![](/images/mlbb/skills/aurora-2.webp)2-й навык![](/images/mlbb/skills/aurora-3.webp)Ультимейт
-
-![](/images/mlbb/skills/aurora-0.webp)
+![](/images/mlbb/skills/aurora-0.webp)Пассивный**Кодекс льда**![](/images/mlbb/skills/aurora-1.webp)1-й навык**Смертоносный град**![](/images/mlbb/skills/aurora-2.webp)2-й навык**Морозный ветер**![](/images/mlbb/skills/aurora-3.webp)Ультимейт**Беспощадный ледник**
 
 Пассивный
 
@@ -179,8 +165,6 @@ C
 
 Эффекты заморозки Авроры могут также воздействовать на башни.
 
-![](/images/mlbb/skills/aurora-1.webp)
-
 1-й навык
 
 ### Смертоносный град
@@ -188,8 +172,6 @@ C
 Перезарядка **5 Mana Cost: 60 с**
 
 Аврора призывает айсберг, который обрушится в указанное место, нанося 400 (+90% общей магической силы) единиц магического урона и замедляя пораженные цели на 40% на 1 сек. После этого падают льдины (5), каждая из которых наносит 40 (+10% общей магической силы) единиц магического урона.
-
-![](/images/mlbb/skills/aurora-2.webp)
 
 2-й навык
 
@@ -201,8 +183,6 @@ C
 
 Зона наносит врагам в ней в сумме 225 (+75% общей магической силы) единиц магического урона и замораживает их на 1 сек. (увеличивается на 0.06 сек. за кажд. 100 ).
 
-![](/images/mlbb/skills/aurora-3.webp)
-
 Ультимейт
 
 ### Беспощадный ледник
@@ -213,27 +193,19 @@ C
 
 Морозная тропа постепенно расширяется, образуя ледник, который разбивается при максимальном размере, нанося 600 (+150% общей магической силы) единиц магического урона всем врагам в области и замораживая их на 1 сек. (увеличивается на 0.2 сек. за кажд. 100 ).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/kaja.webp)Кайя**+2,9**](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/cyclops.webp)Циклоп**+1,7**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/harley.webp)Харли**+1,2**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/roger.webp)Роджер**+1,0**](https://boostmlbb.ru/heroes/roger.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
 
 ## История
 
 > Ледяная дева, дарующая вечные воспоминания в легендах севера.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/reAurora)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=36)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/reAurora)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=36)
 
 **Поднимем ранг на герое «Аврора»**Цена считается в калькуляторе
 
@@ -255,7 +227,7 @@ C
 
 Силён ли герой «Аврора» в текущей мете?
 
-Тир C, 94-е место из 133 героев и 21-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,8% побед.
+Тир C, 97-е место из 133 героев и 24-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,3% катков.
 
 Какая сборка на героя «Аврора» лучшая?
 

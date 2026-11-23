@@ -1,6 +1,6 @@
 ---
 title: "Ксавьер MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ксавьер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 53,52% побед, тир A."
+description: "Ксавьер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 53,52% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/xavier.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Ксавьер
 
-A
+B
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Бывший член Рыцарей света, решивший проложить собственный путь.
 
 Победы
 
 53,5%
 
-все ранги 51,7%
-
 Выбор
 
 1,8%
 
-все ранги 0,8%
-
 Баны
 
 1,3%
-
-все ранги 0,4%
-
-№17 в тир-листе · №2 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 158,9%Сборка 255,6%Сборка 359,1%
-
-### Предметы
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 11,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пронзающий небеса
+    Пылающий жезл
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 6,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пылающий жезл
+    Пронзающий небеса
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Разрыв
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 4,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Проблески зари**_›_**Бесконечное расширение**_›_**Мистическое поле**
 
-![](/images/mlbb/skills/xavier-0.webp)Пассивный![](/images/mlbb/skills/xavier-1.webp)1-й навык![](/images/mlbb/skills/xavier-2.webp)2-й навык![](/images/mlbb/skills/xavier-3.webp)Ультимейт
-
-![](/images/mlbb/skills/xavier-0.webp)
+![](/images/mlbb/skills/xavier-0.webp)Пассивный**Превосходство**![](/images/mlbb/skills/xavier-1.webp)1-й навык**Бесконечное расширение**![](/images/mlbb/skills/xavier-2.webp)2-й навык**Мистическое поле**![](/images/mlbb/skills/xavier-3.webp)Ультимейт**Проблески зари**
 
 Пассивный
 
@@ -224,8 +210,6 @@ A
 Когда навыки Ксавьера попадают по вражеским героям, он получает 60% скорости передвижения на 1.2 сек. (спадает со временем) и 1 заряд энергии. При накоплении 3 зарядов его следующий навык активирует состояние "Превосходства".
 
 **Превосходство:** в этом состоянии перезарядка 1-го и 2-го навыков Ксавьера сокращается на 4 сек., а его ультимейта — на 36 сек. "Превосходство" длится 5 сек. и может продлеваться на 1 сек. каждый раз, когда его навыки попадают по врагам.
-
-![](/images/mlbb/skills/xavier-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ A
 
 Дальность полета пули увеличивается каждый раз, когда она поражает врага или "Мистический барьер" (до 5 раз).
 
-![](/images/mlbb/skills/xavier-2.webp)
-
 2-й навык
 
 ### Мистическое поле
@@ -248,8 +230,6 @@ A
 Ксавьер призывает "Мистический барьер", который существует 5 сек. Враги, соприкоснувшиеся с барьером, будут замедлены на 50%, а союзники получат 50% дополнительной скорости передвижения (спадает за 1.2 сек.).
 
 При попадании другими навыками Ксавьера барьер расширяется в "Мистическое поле" на 3 сек., нанося 440 (+130% общей магической силы) единиц магического урона врагам внутри и обездвиживая их на 0.8 сек.
-
-![](/images/mlbb/skills/xavier-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ A
 
 После применения он также сразу входит в состояние "Превосходства" и сбрасывает продолжительность состояния.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zhuxin.webp)Чжусинь**+2,5**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/cyclops.webp)Циклоп**+2,0**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/kalea.webp)Калеа**+1,7**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/khufra.webp)Хуфра**+1,6**](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## История
 
 > Бывший член Рыцарей света, решивший проложить собственный путь.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Xavier)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=115)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Xavier)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=115)
 
 **Поднимем ранг на герое «Ксавьер»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ A
 
 Силён ли герой «Ксавьер» в текущей мете?
 
-Тир A, 17-е место из 133 героев и 2-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 53,5% побед.
+Тир B, 37-е место из 133 героев и 10-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 1,0% катков.
 
 Какая сборка на героя «Ксавьер» лучшая?
 

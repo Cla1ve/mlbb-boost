@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Наследник Огненной глотки, маг огня.
-
 Победы
 
 53,4%
-
-все ранги 54,1%
 
 Выбор
 
 1,3%
 
-все ранги 1,2%
-
 Баны
 
 3,7%
-
-все ранги 3,8%
-
-№19 в тир-листе · №3 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 159,8%Сборка 261,1%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3104.webp)
-
-Жезл снежной королевы
-
-![](/images/mlbb/items/2112.webp)
-
-Фонарь желаний
-
-### Эмблема
-
-![](/images/mlbb/emblems/20001.webp)
-
-Обычная эмблема
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 23,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3104.webp)
+-   ![](/images/mlbb/items/3104.webp)
 
-Жезл снежной королевы
+    Жезл снежной королевы
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/2112.webp)
 
-Кираса грубой силы
+    Фонарь желаний
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20001.webp)
 
 Обычная эмблема
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,13 +113,49 @@ A
 
 3,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3104.webp)
+
+    Жезл снежной королевы
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20001.webp)
+
+Обычная эмблема
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Пламя отмщения**_›_**Взрывной огненный шар**_›_**Жгучий поток**
 
-![](/images/mlbb/skills/valir-0.webp)Пассивный![](/images/mlbb/skills/valir-1.webp)1-й навык![](/images/mlbb/skills/valir-2.webp)2-й навык![](/images/mlbb/skills/valir-3.webp)Ультимейт
-
-![](/images/mlbb/skills/valir-0.webp)
+![](/images/mlbb/skills/valir-0.webp)Пассивный**Испепеление**![](/images/mlbb/skills/valir-1.webp)1-й навык**Взрывной огненный шар**![](/images/mlbb/skills/valir-2.webp)2-й навык**Жгучий поток**![](/images/mlbb/skills/valir-3.webp)Ультимейт**Пламя отмщения**
 
 Пассивный
 
@@ -180,8 +166,6 @@ A
 При 3 зарядах происходит взрыв, который наносит магический урон в размере 5 (+1% общей магической силы)% от цели и оглушает ее на 1 сек.
 
 Цель может быть оглушена навыками Валира только один раз кажд. 7 сек.
-
-![](/images/mlbb/skills/valir-1.webp)
 
 1-й навык
 
@@ -195,8 +179,6 @@ A
 
 **Пламя отмщения:** увеличивает дальность применения "Взрывного огненного шара" на 30%.
 
-![](/images/mlbb/skills/valir-2.webp)
-
 2-й навык
 
 ### Жгучий поток
@@ -209,8 +191,6 @@ A
 
 Враги, пораженные потоком или стеной пламени, замедляются на 25% на 1 сек.
 
-![](/images/mlbb/skills/valir-3.webp)
-
 Ультимейт
 
 ### Пламя отмщения
@@ -219,33 +199,25 @@ A
 
 Валир снимает с себя все дебаффы и получает 40% скорости передвижения, которая снижается в течение 3 сек. В то же время он создает "Пламени отмщения" (4), которые усиливают "Взрывной огненный шар" и "Жгучий поток" на 9 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/natalia.webp)Наталья**+1,5**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/hanzo.webp)Ханзо**+1,4**](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/harley.webp)Харли**+1,4**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/zhuxin.webp)Чжусинь**+1,3**](https://boostmlbb.ru/heroes/zhuxin.html)
+[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ## История
 
 > Наследник Огненной глотки, маг огня.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/valir)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=57)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/valir)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=57)
 
 **Поднимем ранг на герое «Валир»**Цена считается в калькуляторе
 
@@ -267,7 +239,7 @@ A
 
 Силён ли герой «Валир» в текущей мете?
 
-Тир A, 19-е место из 133 героев и 3-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,7% матчей, 53,4% побед.
+Тир A, 20-е место из 133 героев и 6-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,7% матчей, 53,4% побед. В профессиональных матчах за месяц героя драфтуют в 40,7% катков.
 
 Какая сборка на героя «Валир» лучшая?
 

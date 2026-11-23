@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/jungle.webp)Лес
 
-Лидер флота Города Дракона.
-
 Победы
 
 48,5%
-
-все ранги 49,1%
 
 Выбор
 
 1,1%
 
-все ранги 0,9%
-
 Баны
 
 1,5%
-
-все ранги 2,6%
-
-№62 в тир-листе · №14 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 153,9%Сборка 254,7%Сборка 353,5%
-
-### Предметы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3004.webp)
-
-Бесконечная битва
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 14,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Пронзающий небеса
+    Топор войны
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Бесконечная битва
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 10,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Топор войны
+    Пронзающий небеса
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Бесконечная битва
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Мастер оружий
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 8,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Сотрясающий горы**_›_**Бесследный**_›_**Кровавое наводнение**
 
-![](/images/mlbb/skills/yi-sun-shin-0.webp)Пассивный![](/images/mlbb/skills/yi-sun-shin-1.webp)1-й навык![](/images/mlbb/skills/yi-sun-shin-2.webp)2-й навык![](/images/mlbb/skills/yi-sun-shin-3.webp)Ультимейт
-
-![](/images/mlbb/skills/yi-sun-shin-0.webp)
+![](/images/mlbb/skills/yi-sun-shin-0.webp)Пассивный**Небесный обет**![](/images/mlbb/skills/yi-sun-shin-1.webp)1-й навык**Бесследный**![](/images/mlbb/skills/yi-sun-shin-2.webp)2-й навык**Кровавое наводнение**![](/images/mlbb/skills/yi-sun-shin-3.webp)Ультимейт**Сотрясающий горы**
 
 Пассивный
 
@@ -224,8 +210,6 @@ B
 Ли Сун-Син атакует длинным луком или мечом в зависимости от расстояния до цели.
 
 **Мастерство оружия:** после каждой смены оружия его следующие 2 базовые атаки получают дополнительную скорость атаки и наносят 70% и 55% критического урона соответственно. Он также повышает скорость передвижения на 15% на 1 сек.
-
-![](/images/mlbb/skills/yi-sun-shin-1.webp)
 
 1-й навык
 
@@ -236,8 +220,6 @@ B
 Ли Сун-Син совершает рывок вперед и бьет мечом, нанося 150 (+40% общей физической атаки) единиц физического урона и получая иммунитет к контролю на 0.4 сек.
 
 Каждая активация "Мастерства оружия" сокращает перезарядку "Бесследного" на 1 сек.
-
-![](/images/mlbb/skills/yi-sun-shin-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ B
 
 Использование этого навыка немедленно активирует "Мастерство оружия".
 
-![](/images/mlbb/skills/yi-sun-shin-3.webp)
-
 Ультимейт
 
 ### Сотрясающий горы
@@ -265,27 +245,19 @@ B
 
 Использование этого навыка немедленно активирует "Мастерство оружия".
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/floryn.webp)Флорин**+2,5**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/joy.webp)Джой**+1,7**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/harith.webp)Харит**+1,2**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/odette.webp)Одетта**+1,2**](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
 
 ## История
 
 > Лидер флота Города Дракона.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Yi_Sunshin)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=30)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Yi_Sunshin)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=30)
 
 **Поднимем ранг на герое «Ли Сун-Син»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ B
 
 Силён ли герой «Ли Сун-Син» в текущей мете?
 
-Тир B, 62-е место из 133 героев и 14-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,5% матчей, 48,5% побед.
+Тир B, 65-е место из 133 героев и 14-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,5% матчей, 48,5% побед. В профессиональных матчах за месяц героя драфтуют в 2,5% катков.
 
 Какая сборка на героя «Ли Сун-Син» лучшая?
 

@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Капитан Рейнджеров Эрудитио, вернувшийся на "поле" благодаря передовым протезам.
-
 Победы
 
 54,3%
-
-все ранги 53,8%
 
 Выбор
 
 1,0%
 
-все ранги 0,6%
-
 Баны
 
 0,5%
-
-все ранги 0,3%
-
-№24 в тир-листе · №2 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 159,7%Сборка 259,3%Сборка 361,7%
-
-### Предметы
-
-![](/images/mlbb/items/3002.webp)
-
-Когти Хааса
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-![](/images/mlbb/items/3015.webp)
-
-Губительный пулемет
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/1211.webp)
-
-Фатальность
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20060.webp)
-
-Эгида
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 5,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20060.webp)Эгида
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 4,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-### Эмблема
 
-![](/images/mlbb/emblems/20007.webp)
+#### Заклинание
 
-Эмблема бойца
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/1211.webp)
+#### Эмблема и таланты
 
-Фатальность
+![](/images/mlbb/emblems/20012.webp)
 
-![](/images/mlbb/talents/621.webp)
+Эмблема стрелка
 
-Охотник за скидками
+-   ![](/images/mlbb/talents/1211.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Фатальность
 
-Квантовый заряд
+-   ![](/images/mlbb/talents/521.webp)
 
-### Заклинание
+    Мастер-убийца
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Вспышка
+    Квантовый заряд
+
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 4,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+-   ![](/images/mlbb/items/3015.webp)
+
+    Губительный пулемет
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Супергол**_›_**Удар в полете**_›_**Скольжение**
 
-![](/images/mlbb/skills/bruno-0.webp)Пассивный![](/images/mlbb/skills/bruno-1.webp)1-й навык![](/images/mlbb/skills/bruno-2.webp)2-й навык![](/images/mlbb/skills/bruno-3.webp)Ультимейт
-
-![](/images/mlbb/skills/bruno-0.webp)
+![](/images/mlbb/skills/bruno-0.webp)Пассивный**Механические ноги**![](/images/mlbb/skills/bruno-1.webp)1-й навык**Удар в полете**![](/images/mlbb/skills/bruno-2.webp)2-й навык**Скольжение**![](/images/mlbb/skills/bruno-3.webp)Ультимейт**Супергол**
 
 Пассивный
 
@@ -224,8 +210,6 @@ A
 Бруно получает 2.5% доп. шанса критического удара каждый раз, когда наносит урон навыками (до 8 зарядов).
 
 У Бруно сравнительно высокая физическая атака, но он получает только 80% доп. скорости атаки из всех источников.
-
-![](/images/mlbb/skills/bruno-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ A
 
 Затем энергомяч отскакивает обратно к Бруно и остается на земле. Бруно или союзные герои могут подобрать энергомяч для еще одной атаки и сократить перезарядку "Скольжения" на 1 сек.
 
-![](/images/mlbb/skills/bruno-2.webp)
-
 2-й навык
 
 ### Скольжение
@@ -246,8 +228,6 @@ A
 Перезарядка **9 Mana Cost: 90 с**
 
 Бруно скользит вперед, ненадолго оглушая врагов на своем пути и получая энергомяч в конце рывка.
-
-![](/images/mlbb/skills/bruno-3.webp)
 
 Ультимейт
 
@@ -259,33 +239,25 @@ A
 
 Затем энергетический шар отскакивает между вражескими юнитами (до 10 р.), отдавая приоритет вражеским героям. Каждый отскок наносит 100 (+40% общей физической атаки) единиц физического урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
+[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+2,6**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/kalea.webp)Калеа**+1,8**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/zhuxin.webp)Чжусинь**+1,7**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/fanny.webp)Фанни**+1,7**](https://boostmlbb.ru/heroes/fanny.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
 
 ## История
 
 > Капитан Рейнджеров Эрудитио, вернувшийся на "поле" благодаря передовым протезам.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Bruno)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=12)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Bruno)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=12)
 
 **Поднимем ранг на герое «Бруно»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ A
 
 Силён ли герой «Бруно» в текущей мете?
 
-Тир A, 24-е место из 133 героев и 2-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 54,3% побед.
+Тир A, 23-е место из 133 героев и 3-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 54,3% побед. В профессиональных матчах за месяц героя драфтуют в 37,0% катков.
 
 Какая сборка на героя «Бруно» лучшая?
 

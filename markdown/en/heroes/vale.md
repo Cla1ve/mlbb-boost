@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-The heir to Wind Fort, a wind mage.
-
 Win rate
 
 48.8%
-
-all ranks 50.1%
 
 Pick rate
 
 0.3%
 
-all ranks 0.5%
-
 Ban rate
 
 0.1%
-
-all ranks 0.2%
-
-#103 in the tier list · #24 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 155.0%Build 252.0%Build 352.8%
-
-### Core items
-
-![](/images/mlbb/items/3111.webp)
-
-Genius Wand
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Sky Piercer
+    Genius Wand
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Genius Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
 
-![](/images/mlbb/emblems/20006.webp)
+#### Spell
 
-Mage
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Assassin
 
-Weapons Master
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Rupture
 
-Impure Rage
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Spell
+    Weapons Master
 
-![](/images/mlbb/spells/20140.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Flameshot
+    Lethal Ignition
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Genius Wand
+    Genius Wand
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Weapons Master
+    Weapons Master
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Genius Wand
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Windstorm**_›_**Wind Blade**_›_**Windblow**
 
-![](/images/mlbb/skills/vale-0.webp)Passive![](/images/mlbb/skills/vale-1.webp)Skill 1![](/images/mlbb/skills/vale-2.webp)Skill 2![](/images/mlbb/skills/vale-3.webp)Ultimate
-
-![](/images/mlbb/skills/vale-0.webp)
+![](/images/mlbb/skills/vale-0.webp)Passive**Windtalk**![](/images/mlbb/skills/vale-1.webp)Skill 1**Wind Blade**![](/images/mlbb/skills/vale-2.webp)Skill 2**Windblow**![](/images/mlbb/skills/vale-3.webp)Ultimate**Windstorm**
 
 Passive
 
 ### Windtalk
 
 Vale gains 1 stack of Windtalk each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times.
-
-![](/images/mlbb/skills/vale-1.webp)
 
 Skill 1
 
@@ -233,8 +217,6 @@ Cooldown **6 Mana Cost: 60 s**
 
 Vale unleashes two wind blades toward the left and right of a target area, each dealing 250 (+80% Total Magic Power) Magic Damage to enemies hit.
 
-![](/images/mlbb/skills/vale-2.webp)
-
 Skill 2
 
 ### Windblow
@@ -242,8 +224,6 @@ Skill 2
 Cooldown **12 Mana Cost: 70 s**
 
 Vale sends a whirlwind in the target direction, dealing 350 (+100% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 0.8s (each enemy can only be knocked airborne 1 time). When the whirlwind reaches its destination, it will remain for 1.6s while continuously dealing a total of 150 (+30% Total Magic Power) Magic Damage to enemies in range.
-
-![](/images/mlbb/skills/vale-3.webp)
 
 Ultimate
 
@@ -255,33 +235,25 @@ Vale summons a windstorm at the target location, dealing a total of 150 (+30% To
 
 The remaining whirlwinds will also be pulled into the center.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
+[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/cyclops.webp)Cyclops**+2.4**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/hilda.webp)Hilda**+1.9**](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/balmond.webp)Balmond**+1.4**](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa**+1.4**](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Lore
 
 > The heir to Wind Fort, a wind mage.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/vale)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=66)
+[Read the full story ↗](https://kazukiofficial.com/stories/vale)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=66)
 
 **Rank up on Vale**The calculator shows the price
 
@@ -303,7 +275,7 @@ Mage, played in the Mid Lane.
 
 Is Vale strong in the current meta?
 
-Tier C, #103 of 133 heroes and #24 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.8% win rate.
+Tier C, #114 of 133 heroes and #28 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Vale?
 

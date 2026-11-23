@@ -1,6 +1,6 @@
 ---
 title: "Khaleed MLBB: build, counters and skills | MLBB Boost"
-description: "Khaleed in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.86% win rate, tier C."
+description: "Khaleed in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.86% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/khaleed.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Khaleed
 
-C
+D
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/roam.webp)Roam
-
-A sand-walking intrepid Clan leader.
 
 Win rate
 
 48.9%
 
-all ranks 50.4%
-
 Pick rate
 
 0.1%
 
-all ranks 0.1%
-
 Ban rate
 
 0.1%
-
-all ranks 0.1%
-
-#111 in the tier list · #36 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)
+[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 155.7%Build 254.3%Build 358.5%
-
-### Core items
-
-![](/images/mlbb/items/2212.webp)
-
-Thunder Belt
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3212.webp)
-
-Chastise Pauldron
-
-### Emblem
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/2207.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Blade Armor
+    Chastise Pauldron
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Thunder Belt
+    Thunder Belt
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/2207.webp)
 
-Chastise Pauldron
+    Blade Armor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Tank
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.9%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Thunder Belt
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Raging Sandstorm**_›_**Desert Tornado**_›_**Quicksand Guard**
 
-![](/images/mlbb/skills/khaleed-0.webp)Passive![](/images/mlbb/skills/khaleed-1.webp)Skill 1![](/images/mlbb/skills/khaleed-2.webp)Skill 2![](/images/mlbb/skills/khaleed-3.webp)Ultimate
-
-![](/images/mlbb/skills/khaleed-0.webp)
+![](/images/mlbb/skills/khaleed-0.webp)Passive**Sand Walk**![](/images/mlbb/skills/khaleed-1.webp)Skill 1**Desert Tornado**![](/images/mlbb/skills/khaleed-2.webp)Skill 2**Quicksand Guard**![](/images/mlbb/skills/khaleed-3.webp)Ultimate**Raging Sandstorm**
 
 Passive
 
 ### Sand Walk
 
 Khaleed accumulates Desert Power while moving. After Desert Power is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next Basic Attack deal 50 (+140% Total Physical Attack) Physical Damage to the target (cannot Crit), and reducing the target's Movement Speed by 40% for 1.5s.
-
-![](/images/mlbb/skills/khaleed-1.webp)
 
 Skill 1
 
@@ -234,8 +218,6 @@ Cooldown **6.5 s**
 Khaleed whirls his scimitar, dealing 175 (+130% Total Physical Attack) Physical Damage to enemies in the area and pulling them toward him. This skill can be used up to 3 time(s) in a row.
 
 This skill deals 60% damage to Minions and Creeps.
-
-![](/images/mlbb/skills/khaleed-2.webp)
 
 Skill 2
 
@@ -249,8 +231,6 @@ While channeling, quicksand appears beneath him, slowing the enemy by 60%.
 
 This is a Focused Cast. Other control effects will interrupt this skill.
 
-![](/images/mlbb/skills/khaleed-3.webp)
-
 Ultimate
 
 ### Raging Sandstorm
@@ -261,33 +241,25 @@ Khaleed rides the sandstorm and charges toward a designated location, dealing 10
 
 Upon reaching the destination, Khaleed will smash the ground, dealing 450 (+160% Total Physical Attack) Physical Damage to enemies in the area and stunning them for 1s, and fully charge his Desert Power.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
+[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/saber.webp)Saber**+2.5**](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/bane.webp)Bane**+2.1**](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/silvanna.webp)Silvanna**+2.0**](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/minsitthar.webp)Minsitthar**+1.9**](https://boostmlbb.ru/en/heroes/minsitthar.html)
+[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)
 
 ## Lore
 
 > A sand-walking intrepid Clan leader.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Khaleed)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=98)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Khaleed)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=98)
 
 **Rank up on Khaleed**The calculator shows the price
 
@@ -309,7 +281,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Khaleed strong in the current meta?
 
-Tier C, #111 of 133 heroes and #36 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.9% win rate.
+Tier D, #116 of 133 heroes and #39 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.9% win rate. In professional games over the last month the hero is drafted in 3.0% of them.
 
 What is the best build for Khaleed?
 

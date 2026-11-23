@@ -1,6 +1,6 @@
 ---
 title: "Faramis MLBB: build, counters and skills | MLBB Boost"
-description: "Faramis in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and support, 50.74% win rate, tier C."
+description: "Faramis in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and support, 50.74% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/faramis.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Faramis
 
-C
+D
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/mid.webp)Mid Lane![](/images/mlbb/filters/roam.webp)Roam
-
-A necromancer in Necrokeep who's determined to find a cure for the Mist.
 
 Win rate
 
 50.7%
 
-all ranks 50.8%
-
 Pick rate
 
 0.1%
 
-all ranks 0.1%
-
 Ban rate
 
 0.4%
-
-all ranks 0.4%
-
-#100 in the tier list · #23 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 157.7%Build 254.3%Build 358.6%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/1221.webp)
-
-Weapons Master
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 2.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Sky Piercer
+    Glowing Wand
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Glowing Wand
+    Lightning Truncheon
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Enchanted Talisman
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Wilderness Blessing
+    Weapons Master
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Glowing Wand
+    Sky Piercer
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Holy Crystal
+    Glowing Wand
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Blood Wings
+    Enchanted Talisman
 
-### Emblem
 
-![](/images/mlbb/emblems/20005.webp)
+#### Spell
 
-Assassin
+![](/images/mlbb/spells/20080.webp)Purify
 
-![](/images/mlbb/talents/511.webp)
+#### Emblem and talents
 
-Rupture
+![](/images/mlbb/emblems/20006.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Mage
 
-Weapons Master
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Rupture
 
-Impure Rage
+-   ![](/images/mlbb/talents/121.webp)
 
-### Spell
+    Wilderness Blessing
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Flicker
+    Lethal Ignition
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Holy Crystal
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Blood Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Nether Realm**_›_**Ghost Bursters**_›_**Shadow Stampede**
 
-![](/images/mlbb/skills/faramis-0.webp)Passive![](/images/mlbb/skills/faramis-1.webp)Skill 1![](/images/mlbb/skills/faramis-2.webp)Skill 2![](/images/mlbb/skills/faramis-3.webp)Ultimate
-
-![](/images/mlbb/skills/faramis-0.webp)
+![](/images/mlbb/skills/faramis-0.webp)Passive**Vicious Retrieval**![](/images/mlbb/skills/faramis-1.webp)Skill 1**Shadow Stampede**![](/images/mlbb/skills/faramis-2.webp)Skill 2**Ghost Bursters**![](/images/mlbb/skills/faramis-3.webp)Ultimate**Nether Realm**
 
 Passive
 
@@ -226,8 +212,6 @@ When Faramis's skills deal damage to enemy heroes and summoned units, they leave
 Upon death, he consumes the absorbed Soul Fragments to reduce the respawn timer, each reducing the timer by 3% (up to 90%).
 
 He can gain up to 1 Soul Fragment from the same enemy hero using skills every 4s. Enemies that die around Faramis also have a chance to drop Soul Fragments.
-
-![](/images/mlbb/skills/faramis-1.webp)
 
 Skill 1
 
@@ -241,8 +225,6 @@ Faramis enters the Shadow state for 3s, gaining 70% Movement Speed, 25 , and 20%
 
 Soul Fragment absorption range is increased while this skill is active.
 
-![](/images/mlbb/skills/faramis-2.webp)
-
 Skill 2
 
 ### Ghost Bursters
@@ -250,8 +232,6 @@ Skill 2
 Cooldown **6 Mana Cost: 60 s**
 
 Faramis gathers Nether energy in a fan-shaped area ahead, dealing 330 (+144% Total Magic Power) Magic Damage to enemies within. The energy will then split and bounce to nearby enemies, dealing 200 (+86% Total Magic Power) Magic Damage (splits up to 2 time(s) on enemy hero hits and 1 time(s) on non-enemy hero hits).
-
-![](/images/mlbb/skills/faramis-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Cooldown **90 Mana Cost: 150 s**
 
 Faramis turns his surroundings into the Nether Realm for 6s. Allied heroes within (including himself) enter the Specter state, gaining 400 (+ 10 (+5% Total Magic Power)%) extra HP and 50% extra Movement Speed for 1s. When the Specter state breaks, heroes within clear all debuffs and enter a brief Resurrection state for 1.3s. The Specter state immediately ends if the allied hero leaves the Nether Realm.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/kaja.webp)Kaja**+2.8**](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/kalea.webp)Kalea**+2.3**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/moskov.webp)Moskov**+2.1**](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/saber.webp)Saber**+2.0**](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Lore
 
 > A necromancer in Necrokeep who's determined to find a cure for the Mist.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Faramis)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=76)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Faramis)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=76)
 
 **Rank up on Faramis**The calculator shows the price
 
@@ -309,7 +281,7 @@ Mage and support, played in the Mid Lane or on roam.
 
 Is Faramis strong in the current meta?
 
-Tier C, #100 of 133 heroes and #23 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.7% win rate.
+Tier D, #117 of 133 heroes and #29 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.7% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Faramis?
 

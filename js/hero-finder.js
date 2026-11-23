@@ -67,7 +67,11 @@
       hero.append(link);
       row.append(hero);
       row.insertCell().innerHTML = '<b class="grade" data-grade="' + entry.tier + '">' + entry.tier + '</b>';
-      for (const key of ['win', 'pick', 'ban']) row.insertCell().textContent = percent.format(Number(entry[key])) + '%';
+      for (const key of ['win', 'pick', 'ban']) {
+        const cell = row.insertCell();
+        cell.textContent = percent.format(Number(entry[key])) + '%';
+        if (key === 'ban') cell.className = 'is-ban';
+      }
       fragment.append(row);
     }
     table.tBodies[0].replaceChildren(fragment);
@@ -80,10 +84,9 @@
 
   function render() {
     const term = normalize(query.value);
-    const [role, lane] = filters.map(filter => filter.value);
+    const lane = filters.find(filter => filter.key === 'lane')?.value || '';
     const matches = entries.filter(entry =>
       (entry.names.includes(term) || entry.slug.includes(term)) &&
-      (!role || entry.roles.includes(role)) &&
       (!lane || entry.lanes.includes(lane))
     );
     const shown = new Set(matches.map(entry => entry.tile));
@@ -93,6 +96,7 @@
       if (metric !== 'none') entry.value.textContent = percent1.format(Number(entry[metric])) + '%';
     }
     for (const row of rows) row.hidden = !row.querySelector('.tile:not([hidden])');
+    board.dataset.metric = metric;
     board.hidden = view !== 'tiers' || !matches.length;
     metricSwitch.hidden = view !== 'tiers';
     table.hidden = view !== 'stats' || !matches.length;

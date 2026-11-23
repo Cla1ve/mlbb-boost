@@ -1,6 +1,6 @@
 ---
 title: "Лукас MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лукас в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,87% побед, тир S."
+description: "Лукас в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,87% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/lukas.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Лукас
 
-S
+A
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
-
-Легендарный священный зверь, способный принимать облик непокорного юноши.
 
 Победы
 
 50,9%
 
-все ранги 52,0%
-
 Выбор
 
 0,9%
 
-все ранги 0,8%
-
 Баны
 
 33,4%
-
-все ранги 32,4%
-
-№13 в тир-листе · №4 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 155,4%Сборка 262,5%Сборка 354,2%
-
-### Предметы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/134.webp)
-
-Временное правление
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 4,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
 
-![](/images/mlbb/emblems/20007.webp)
+#### Заклинание
 
-Эмблема бойца
+![](/images/mlbb/spells/20190.webp)Месть
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/721.webp)
+Эмблема убийцы
 
-Кровавое пиршество
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/134.webp)
+    Трепет
 
-Временное правление
+-   ![](/images/mlbb/talents/122.webp)
 
-### Заклинание
+    Опытный охотник
 
-![](/images/mlbb/spells/20190.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Месть
+    Временное правление
+
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 2,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
 
-![](/images/mlbb/emblems/20005.webp)
+#### Заклинание
 
-Эмблема убийцы
+![](/images/mlbb/spells/20190.webp)Месть
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20007.webp)
 
-![](/images/mlbb/talents/122.webp)
+Эмблема бойца
 
-Опытный охотник
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/134.webp)
+    Трепет
 
-Временное правление
+-   ![](/images/mlbb/talents/721.webp)
 
-### Заклинание
+    Кровавое пиршество
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Вспышка
+    Временное правление
+
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 2,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/134.webp)
+
+    Временное правление
+
+
 ## Навыки
 
 Прокачка**Высвобождение зверя**_›_**Комбовспышка**_›_**Неуловимый шаг**
 
-![](/images/mlbb/skills/lukas-0.webp)Пассивный![](/images/mlbb/skills/lukas-1.webp)1-й навык![](/images/mlbb/skills/lukas-2.webp)2-й навык![](/images/mlbb/skills/lukas-3.webp)Ультимейт
-
-![](/images/mlbb/skills/lukas-0.webp)
+![](/images/mlbb/skills/lukas-0.webp)Пассивный**Решимость героя**![](/images/mlbb/skills/lukas-1.webp)1-й навык**Комбовспышка**![](/images/mlbb/skills/lukas-2.webp)2-й навык**Неуловимый шаг**![](/images/mlbb/skills/lukas-3.webp)Ультимейт**Высвобождение зверя**
 
 Пассивный
 
@@ -226,8 +212,6 @@ S
 Получив 100 ед. "Решимости", он может использовать "Высвобождение зверя", чтобы превратиться в священного зверя.
 
 **Священный зверь:** значительно увеличивает боевые показатели. Он постоянно расходует "Решимость" и превращается обратно, когда "Решимость" заканчивается.
-
-![](/images/mlbb/skills/lukas-1.webp)
 
 1-й навык
 
@@ -243,8 +227,6 @@ S
 
 **2 заряда:** Лукас ненадолго оглушает цель и совершает 2 атаки, нанося 50 (+20% общей физической атаки) единиц физического урона за каждую. Затем он вращает свои тонфы, нанося 95 (+25% общей физической атаки) единиц физического урона 3 раза, получая иммунитет к контролю на это время.
 
-![](/images/mlbb/skills/lukas-2.webp)
-
 2-й навык
 
 ### Неуловимый шаг
@@ -254,8 +236,6 @@ S
 Лукас совершает рывок в указанном направлении, превращая свою следующую базовую атаку в течение 4 сек. в "Неуловимый удар".
 
 **Неуловимый удар:** Лукас совершает рывок за спину врага, нанося 60 (+125% общей физической атаки) единиц физического урона. Затем он получает 20% скорости передвижения и скорости атаки на 4 сек. В это время его следующая базовая атака получает увеличенную дальность атаки и призывает священную молнию, которая наносит 110 (+50% общей физической атаки) единиц дополнительного физического урона.
-
-![](/images/mlbb/skills/lukas-3.webp)
 
 Ультимейт
 
@@ -267,33 +247,25 @@ S
 
 **Все показатели:** , , , , скорость атаки и дальность атаки.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/floryn.webp)Флорин**+1,9**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,7**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра**+1,7**](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/phoveus.webp)Фовиус**+1,6**](https://boostmlbb.ru/heroes/phoveus.html)
+[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## История
 
 > Легендарный священный зверь, способный принимать облик непокорного юноши.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/lukas)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=127)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/lukas)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=127)
 
 **Поднимем ранг на герое «Лукас»**Цена считается в калькуляторе
 
@@ -315,7 +287,7 @@ S
 
 Силён ли герой «Лукас» в текущей мете?
 
-Тир S, 13-е место из 133 героев и 4-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 33,4% матчей, 50,9% побед.
+Тир A, 25-е место из 133 героев и 8-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 33,4% матчей, 50,9% побед. В профессиональных матчах за месяц героя драфтуют в 2,9% катков.
 
 Какая сборка на героя «Лукас» лучшая?
 

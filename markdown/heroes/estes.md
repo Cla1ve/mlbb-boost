@@ -1,6 +1,6 @@
 ---
 title: "Эстес MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эстес в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 52,59% побед, тир S."
+description: "Эстес в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 52,59% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/estes.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Эстес
 
-S
+A
 
 ![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
-
-Король эльфов, правящий лунными эльфами.
 
 Победы
 
 52,6%
 
-все ранги 52,8%
-
 Выбор
 
 0,6%
 
-все ранги 0,6%
-
 Баны
 
 32,0%
-
-все ранги 46,9%
-
-№9 в тир-листе · №3 среди героев поддержки · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие герои поддержки этой линии
 
-[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 159,1%Сборка 258,9%Сборка 359,0%
-
-### Предметы
-
-![](/images/mlbb/items/3112.webp)
-
-Фляга Оазиса
-
-![](/images/mlbb/items/2106.webp)
-
-Зачарованный талисман
-
-![](/images/mlbb/items/3109.webp)
-
-Мимолетное время
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/321.webp)
-
-Стойкость
-
-![](/images/mlbb/talents/831.webp)
-
-Фокус-метка
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 4,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-Стойкость
+    Стойкость
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Фокус-метка
+    Фокус-метка
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 4,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Зачарованный талисман
+    Зачарованный талисман
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-Второе дыхание
+    Стойкость
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Фокус-метка
+    Фокус-метка
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -209,21 +159,55 @@ S
 
 3,9%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Фляга Оазиса
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Зачарованный талисман
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Фокус-метка
+
+
 ## Навыки
 
 Прокачка**Благословение лунной богини**_›_**Поток лунного света**_›_**Владения Лунной богини**
 
-![](/images/mlbb/skills/estes-0.webp)Пассивный![](/images/mlbb/skills/estes-1.webp)1-й навык![](/images/mlbb/skills/estes-2.webp)2-й навык![](/images/mlbb/skills/estes-3.webp)Ультимейт
-
-![](/images/mlbb/skills/estes-0.webp)
+![](/images/mlbb/skills/estes-0.webp)Пассивный**Писание лунного эльфа**![](/images/mlbb/skills/estes-1.webp)1-й навык**Поток лунного света**![](/images/mlbb/skills/estes-2.webp)2-й навык**Владения Лунной богини**![](/images/mlbb/skills/estes-3.webp)Ультимейт**Благословение лунной богини**
 
 Пассивный
 
 ### Писание лунного эльфа
 
 "Писание лунного эльфа" медленно наполняет энергией Эстеса. При достижении 100 зарядов оно усиливает его следующую базовую атаку, нанося цели 250 (+100% общей физической атаки) (+150% общей магической силы) единиц магического урона. Усиленная атака также отрикошетит в ближайших врагов, нанося им 125 (+50% общей физической атаки) (+75% общей магической силы) единиц магического урона и замедляя их на 60% на 1.5 сек.
-
-![](/images/mlbb/skills/estes-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ S
 
 При нахождении слишком далеко от цели связь прерывается.
 
-![](/images/mlbb/skills/estes-2.webp)
-
 2-й навык
 
 ### Владения Лунной богини
@@ -248,8 +230,6 @@ S
 Эстес обрушивает поток лунного света на указанную область, нанося 350 (+70% общей магической силы) единиц магического урона находящимся в ней вражеским бойцам.
 
 Затем область превращается во "Владения Лунной богини", раскрывая находящихся в ней врагов. Враги, коснувшиеся границы владений, замедляются на 90% на 1.5 сек. Эффект замедления постепенно ослабевает.
-
-![](/images/mlbb/skills/estes-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ S
 
 **Усиленный Поток лунного света:** удваивает мгновенное обычное лечение и увеличение , а также со временем восстанавливает цели 1020 (+225% общей магической силы) ОЗ.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/atlas.webp)Атлас**+5,6**](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/kalea.webp)Калеа**+4,5**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/carmilla.webp)Кармилла**+3,7**](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/saber.webp)Сабер**+3,5**](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
 > Король эльфов, правящий лунными эльфами.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/estes)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=34)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/estes)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=34)
 
 **Поднимем ранг на герое «Эстес»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ S
 
 Силён ли герой «Эстес» в текущей мете?
 
-Тир S, 9-е место из 133 героев и 3-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,0% матчей, 52,6% побед.
+Тир A, 22-е место из 133 героев и 4-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,0% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 14,9% катков.
 
 Какая сборка на героя «Эстес» лучшая?
 

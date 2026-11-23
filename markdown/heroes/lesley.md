@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Приемная дочь дома Вэнс, скрытный снайпер.
-
 Победы
 
 48,8%
-
-все ранги 48,3%
 
 Выбор
 
 2,0%
 
-все ранги 1,8%
-
 Баны
 
 5,0%
-
-все ранги 8,5%
-
-№34 в тир-листе · №5 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,47 +53,7 @@ B
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 153,1%Сборка 257,2%Сборка 350,9%
-
-### Предметы
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-![](/images/mlbb/items/3015.webp)
-
-Губительный пулемет
-
-![](/images/mlbb/items/3013.webp)
-
-Трезубец
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/1211.webp)
-
-Фатальность
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -113,43 +63,43 @@ B
 
 5,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Клинок отчаяния
+    Трезубец
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -159,43 +109,43 @@ B
 
 4,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Трезубец
+    Клинок отчаяния
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Смертельное воспламенение
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -205,13 +155,49 @@ B
 
 3,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+-   ![](/images/mlbb/items/3015.webp)
+
+    Губительный пулемет
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Снайперский выстрел**_›_**Мастер камуфляжа**_›_**Тактическая граната**
 
-![](/images/mlbb/skills/lesley-0.webp)Пассивный![](/images/mlbb/skills/lesley-1.webp)1-й навык![](/images/mlbb/skills/lesley-2.webp)2-й навык![](/images/mlbb/skills/lesley-3.webp)Ультимейт
-
-![](/images/mlbb/skills/lesley-0.webp)
+![](/images/mlbb/skills/lesley-0.webp)Пассивный**Смертельный выстрел**![](/images/mlbb/skills/lesley-1.webp)1-й навык**Мастер камуфляжа**![](/images/mlbb/skills/lesley-2.webp)2-й навык**Тактическая граната**![](/images/mlbb/skills/lesley-3.webp)Ультимейт**Снайперский выстрел**
 
 Пассивный
 
@@ -223,8 +209,6 @@ B
 
 Базовая атака Лесли восстанавливает 5 единиц энергии, а ее "Смертельный выстрел" удваивает количество восстанавливаемой энергии. Эффект "Смертельного выстрела" активируется сразу после использования навыка Лесли.
 
-![](/images/mlbb/skills/lesley-1.webp)
-
 1-й навык
 
 ### Мастер камуфляжа
@@ -235,8 +219,6 @@ B
 
 Состояние длится 3 сек. или до момента, когда Лесли получит или нанесет урон. Враги могут обнаружить Лесли по искажению пространства вокруг нее.
 
-![](/images/mlbb/skills/lesley-2.webp)
-
 2-й навык
 
 ### Тактическая граната
@@ -246,8 +228,6 @@ B
 Лесли бросает тактическую гранату в указанном направлении, а сама слегка отпрыгивает назад, нанося 150 (+50% общей физической атаки) единиц физического урона врагам в веерообразной области и отталкивая их.
 
 Лесли может использовать этот навык во время "Снайперского выстрела", чтобы отменить состояние и немедленно выстрелить смертоносной пулей в цель. Атака совершается только в том случае, если остаются неиспользованные смертоносные пули.
-
-![](/images/mlbb/skills/lesley-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ B
 
 Если применение этого навыка прервано, каждая оставшаяся пуля сокращает перезарядку этого навыка на 10%.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)
+[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+3,7**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа**+2,9**](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Роджер**+1,9**](https://boostmlbb.ru/heroes/roger.html)[![](/images/heroes/xavier.webp)Ксавьер**+1,4**](https://boostmlbb.ru/heroes/xavier.html)
+[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
 
 ## История
 
 > Приемная дочь дома Вэнс, скрытный снайпер.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/lesley)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=53)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/lesley)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=53)
 
 **Поднимем ранг на герое «Лесли»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ B
 
 Силён ли герой «Лесли» в текущей мете?
 
-Тир B, 34-е место из 133 героев и 5-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,0% матчей, 48,8% побед.
+Тир B, 39-е место из 133 героев и 8-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,0% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 6,8% катков.
 
 Какая сборка на героя «Лесли» лучшая?
 

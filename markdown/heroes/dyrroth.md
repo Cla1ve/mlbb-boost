@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Когда-то он был благородным принцем Монийской империи, но его похитила Алиса, королева демонов крови, и превратила в Принца Бездны.
-
 Победы
 
 51,4%
-
-все ранги 49,3%
 
 Выбор
 
 1,1%
 
-все ранги 1,7%
-
 Баны
 
 0,9%
-
-все ранги 1,7%
-
-№35 в тир-листе · №10 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 156,0%Сборка 261,0%Сборка 354,3%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 1,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Клинок семи морей
+    Топор войны
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Золотой метеор
+    Кираса грубой силы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 1,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Топор войны
+    Клинок семи морей
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Золотой метеор
+    Золотой метеор
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Трепет
+    Разрыв
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Опытный охотник
+    Мастер-убийца
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Убийственный пир
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 1,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Золотой метеор
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Удар Бездны**_›_**Взрывной удар**_›_**Призрачный шаг**
 
-![](/images/mlbb/skills/dyrroth-0.webp)Пассивный![](/images/mlbb/skills/dyrroth-1.webp)1-й навык![](/images/mlbb/skills/dyrroth-2.webp)2-й навык![](/images/mlbb/skills/dyrroth-3.webp)Ультимейт
-
-![](/images/mlbb/skills/dyrroth-0.webp)
+![](/images/mlbb/skills/dyrroth-0.webp)Пассивный**Гнев Бездны**![](/images/mlbb/skills/dyrroth-1.webp)1-й навык**Взрывной удар**![](/images/mlbb/skills/dyrroth-2.webp)2-й навык**Призрачный шаг**![](/images/mlbb/skills/dyrroth-3.webp)Ультимейт**Удар Бездны**
 
 Пассивный
 
@@ -229,8 +215,6 @@ B
 
 Дариус восстанавливает 2% - 5% ярости в секунду (зависит от уровня).
 
-![](/images/mlbb/skills/dyrroth-1.webp)
-
 1-й навык
 
 ### Взрывной удар
@@ -240,8 +224,6 @@ B
 Дариус применяет взрывной удар в указанном направлении. Каждый взрыв наносит врагам 240 (+60% общей физической атаки) единиц физического урона и замедляет их на 25% на 1.5 сек. (Урон по одной и той же цели снижается. По миньонам урон снижается до 75%.)
 
 **Усиление Бездны:** "Взрывной удар" получает больший радиус и наносит 140% от первоначального урона, а его эффект замедления удваивается.
-
-![](/images/mlbb/skills/dyrroth-2.webp)
 
 2-й навык
 
@@ -255,8 +237,6 @@ B
 
 **Усиление Бездны:** "Фатальный удар" бьет дальше и наносит 150% от начального урона, дополнительно замедляет цель на 90% и снижает ее на 60% на 4 сек.
 
-![](/images/mlbb/skills/dyrroth-3.webp)
-
 Ультимейт
 
 ### Удар Бездны
@@ -269,33 +249,25 @@ B
 
 Урон по врагам, не являющимся героями, ограничен 1500 ед.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
+[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/sun.webp)Сан**+2,0**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/lolita.webp)Лолита**+1,9**](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/minotaur.webp)Минотавр**+1,9**](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/ling.webp)Линг**+1,8**](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
 
 ## История
 
 > Когда-то он был благородным принцем Монийской империи, но его похитила Алиса, королева демонов крови, и превратила в Принца Бездны.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/dyrroth)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=85)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/dyrroth)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=85)
 
 **Поднимем ранг на герое «Дариус»**Цена считается в калькуляторе
 
@@ -317,7 +289,7 @@ B
 
 Силён ли герой «Дариус» в текущей мете?
 
-Тир B, 35-е место из 133 героев и 10-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 51,4% побед.
+Тир B, 52-е место из 133 героев и 15-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 51,4% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
 
 Какая сборка на героя «Дариус» лучшая?
 

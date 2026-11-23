@@ -1,6 +1,6 @@
 ---
 title: "Чу MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 44,71% побед, тир D."
+description: "Чу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 44,71% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/chou.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Чу
 
-D
+B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/roam.webp)Роум
-
-Талантливый боец с сердцем рыцаря.
 
 Победы
 
 44,7%
 
-все ранги 45,1%
-
 Выбор
 
 1,0%
 
-все ранги 1,0%
-
 Баны
 
 1,8%
-
-все ранги 3,1%
-
-№114 в тир-листе · №39 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)
+[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 151,3%Сборка 255,1%Сборка 353,2%
-
-### Предметы
-
-![](/images/mlbb/items/3007.webp)
-
-Клинок семи морей
-
-![](/images/mlbb/items/3008.webp)
-
-Клинок отчаяния
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/521.webp)
-
-Мастер-убийца
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 5,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Клинок отчаяния
+    Клинок отчаяния
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Бесконечная битва
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Смертельное воспламенение
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 3,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-Клинок семи морей
+    Клинок семи морей
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Клинок отчаяния
+    Клинок отчаяния
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Злобный рык
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Мастер-убийца
+    Мастер-убийца
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Смертельное воспламенение
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ D
 
 3,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/3008.webp)
+
+    Клинок отчаяния
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Смертельное воспламенение
+
+
 ## Навыки
 
 Прокачка**Путь дракона**_›_**Джит Кун-До**_›_**Шунпо**
 
-![](/images/mlbb/skills/chou-0.webp)Пассивный![](/images/mlbb/skills/chou-1.webp)1-й навык![](/images/mlbb/skills/chou-2.webp)2-й навык![](/images/mlbb/skills/chou-3.webp)Ультимейт
-
-![](/images/mlbb/skills/chou-0.webp)
+![](/images/mlbb/skills/chou-0.webp)Пассивный**Быстрота и натиск!**![](/images/mlbb/skills/chou-1.webp)1-й навык**Джит Кун-До**![](/images/mlbb/skills/chou-2.webp)2-й навык**Шунпо**![](/images/mlbb/skills/chou-3.webp)Ультимейт**Путь дракона**
 
 Пассивный
 
 ### Быстрота и натиск!
 
 Пройдя 5 ед. расстояния, Чу наносит 180% урона своей следующей базовой атакой (не может нанести критический удар), ненадолго замедляет цель на 90% и снижает ее на 10 (+1 × ур. героя) на 3 сек. (до 2 зарядов).
-
-![](/images/mlbb/skills/chou-1.webp)
 
 1-й навык
 
@@ -235,8 +219,6 @@ D
 
 При попадании во вражеского героя 3-м применением сбрасывается перезарядка "Шунпо".
 
-![](/images/mlbb/skills/chou-2.webp)
-
 2-й навык
 
 ### Шунпо
@@ -244,8 +226,6 @@ D
 Перезарядка **5 с**
 
 Чу бросается в указанном направлении, получая иммунитет к контролю и 200 (+200% дополнительной физической атаки) ед. щита.
-
-![](/images/mlbb/skills/chou-3.webp)
 
 Ультимейт
 
@@ -257,27 +237,19 @@ D
 
 Примените навык еще раз, чтобы догнать цель и нанести в сумме 480 (+240% дополнительной физической атаки) единиц физического урона.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/bane.webp)Бэйн**+2,0**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/minotaur.webp)Минотавр**+1,7**](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/grock.webp)Грок**+1,6**](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/tigreal.webp)Тигрил**+1,5**](https://boostmlbb.ru/heroes/tigreal.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## История
 
 > Талантливый боец с сердцем рыцаря.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/chou)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=26)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/chou)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=26)
 
 **Поднимем ранг на герое «Чу»**Цена считается в калькуляторе
 
@@ -299,7 +271,7 @@ D
 
 Силён ли герой «Чу» в текущей мете?
 
-Тир D, 114-е место из 133 героев и 39-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 44,7% побед.
+Тир B, 47-е место из 133 героев и 14-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 44,7% побед. В профессиональных матчах за месяц героя драфтуют в 24,4% катков.
 
 Какая сборка на героя «Чу» лучшая?
 

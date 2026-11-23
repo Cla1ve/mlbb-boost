@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
 
-Девушка, ставшая демоном крови во имя любви.
-
 Победы
 
 52,2%
-
-все ранги 53,3%
 
 Выбор
 
 1,6%
 
-все ранги 1,3%
-
 Баны
 
 37,2%
-
-все ранги 21,7%
-
-№7 в тир-листе · №3 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие танки этой линии
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 157,6%Сборка 258,4%Сборка 357,2%
-
-### Предметы
-
-![](/images/mlbb/items/3201.webp)
-
-Проклятый шлем
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3203.webp)
-
-Древняя кираса
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 7,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3201.webp)
 
-Господство льда
+    Проклятый шлем
 
-![](/images/mlbb/items/3205.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Щит Афины
+    Господство льда
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Наплечник наказания
+    Древняя кираса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 6,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3205.webp)
+-   ![](/images/mlbb/items/3205.webp)
 
-Щит Афины
+    Щит Афины
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Наплечник наказания
+    Наплечник наказания
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -209,21 +159,55 @@ S
 
 3,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3205.webp)
+
+    Щит Афины
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Проклятие крови**_›_**Алый цветок**_›_**Кровопролитие**
 
-![](/images/mlbb/skills/carmilla-0.webp)Пассивный![](/images/mlbb/skills/carmilla-1.webp)1-й навык![](/images/mlbb/skills/carmilla-2.webp)2-й навык![](/images/mlbb/skills/carmilla-3.webp)Ультимейт
-
-![](/images/mlbb/skills/carmilla-0.webp)
+![](/images/mlbb/skills/carmilla-0.webp)Пассивный**Пакт вампиров**![](/images/mlbb/skills/carmilla-1.webp)1-й навык**Алый цветок**![](/images/mlbb/skills/carmilla-2.webp)2-й навык**Кровопролитие**![](/images/mlbb/skills/carmilla-3.webp)Ультимейт**Проклятие крови**
 
 Пассивный
 
 ### Пакт вампиров
 
 Каждый раз, когда Кармилла наносит урон вражескому герою, она крадет у него 6-13 (зависит от уровня). Украденная может складываться до 5 раз и длится 5 сек. Однако Кармилла может красть защиту у одного и того же вражеского героя только раз в 3 сек.
-
-![](/images/mlbb/skills/carmilla-1.webp)
 
 1-й навык
 
@@ -235,8 +219,6 @@ S
 
 Каждый раз, когда алые цветки наносят урон, Кармилла восстанавливает 45 (+21% общей магической силы) ОЗ (только 30% от этого количества при попадании в миньонов).
 
-![](/images/mlbb/skills/carmilla-2.webp)
-
 2-й навык
 
 ### Кровопролитие
@@ -246,8 +228,6 @@ S
 Кармилла накапливает энергию кровопролития, получая 70% скорости передвижения, что постепенно спадает за 4.5 сек.
 
 **Повторное использование:** Кармилла высвобождает накопленную энергию кровопролития на указанного вражеского героя или монстра, нанося 150 (+120% общей магической силы) единиц магического урона и оглушая его на 0.6 сек. Урон и длительность оглушения увеличиваются со временем накопления энергии (до 100%).
-
-![](/images/mlbb/skills/carmilla-3.webp)
 
 Ультимейт
 
@@ -259,33 +239,25 @@ S
 
 Когда связанный враг получает урон или попадает под контроль, все остальные связанные цели получают 50% урона и попадают под контроль на 100% его длительности. Враги могут отойти друг от друга, чтобы разорвать связь.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/floryn.webp)Флорин**+6,1**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/diggie.webp)Дигги**+5,5**](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/chip.webp)Чип**+4,2**](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/estes.webp)Эстес**+3,7**](https://boostmlbb.ru/heroes/estes.html)
+[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## История
 
 > Девушка, ставшая демоном крови во имя любви.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Carmilla)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=92)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Carmilla)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=92)
 
 **Поднимем ранг на герое «Кармилла»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ S
 
 Силён ли герой «Кармилла» в текущей мете?
 
-Тир S, 7-е место из 133 героев и 3-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 37,2% матчей, 52,2% побед.
+Тир S, 9-е место из 133 героев и 2-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 37,2% матчей, 52,2% побед. В профессиональных матчах за месяц героя драфтуют в 54,1% катков.
 
 Какая сборка на героя «Кармилла» лучшая?
 

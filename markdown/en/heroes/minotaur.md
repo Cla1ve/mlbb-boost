@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
 
-Minoan prince determined to restore his homeland.
-
 Win rate
 
 53.5%
-
-all ranks 53.8%
 
 Pick rate
 
 1.4%
 
-all ranks 1.0%
-
 Ban rate
 
 10.1%
-
-all ranks 8.4%
-
-#14 in the tier list · #4 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -62,51 +52,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 160.5%Build 263.5%Build 357.8%
-
-### Core items
-
-![](/images/mlbb/items/3112.webp)
-
-Flask of the Oasis
-
-![](/images/mlbb/items/3206.webp)
-
-Dominance Ice
-
-![](/images/mlbb/items/3205.webp)
-
-Athena's Shield
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/311.webp)
-
-Vitality
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
+Build 1Build 2Build 3
 
 Win rate
 
@@ -116,43 +66,43 @@ Pick rate
 
 4.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3205.webp)
 
-Chastise Pauldron
+    Athena's Shield
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Vitality
+    Vitality
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Pull Yourself Together
+    Wilderness Blessing
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -162,43 +112,43 @@ Pick rate
 
 2.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Dominance Ice
+    Dominance Ice
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Chastise Pauldron
+    Chastise Pauldron
 
-### Emblem
 
-![](/images/mlbb/emblems/20003.webp)
+#### Spell
 
-Tank
+![](/images/mlbb/spells/20050.webp)Revitalize
 
-![](/images/mlbb/talents/711.webp)
+#### Emblem and talents
 
-Firmness
+![](/images/mlbb/emblems/20008.webp)
 
-![](/images/mlbb/talents/821.webp)
+Support
 
-Pull Yourself Together
+-   ![](/images/mlbb/talents/311.webp)
 
-![](/images/mlbb/talents/331.webp)
+    Vitality
 
-Concussive Blast
+-   ![](/images/mlbb/talents/821.webp)
 
-### Spell
+    Pull Yourself Together
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Flicker
+    Concussive Blast
+
 
 Win rate
 
@@ -208,13 +158,49 @@ Pick rate
 
 2.0%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Flask of the Oasis
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/711.webp)
+
+    Firmness
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Pull Yourself Together
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Minoan Fury**_›_**Despair Stomp**_›_**Motivation Roar**
 
-![](/images/mlbb/skills/minotaur-0.webp)Passive![](/images/mlbb/skills/minotaur-1.webp)Skill 1![](/images/mlbb/skills/minotaur-2.webp)Skill 2![](/images/mlbb/skills/minotaur-3.webp)Ultimate
-
-![](/images/mlbb/skills/minotaur-0.webp)
+![](/images/mlbb/skills/minotaur-0.webp)Passive**Rage Incarnate**![](/images/mlbb/skills/minotaur-1.webp)Skill 1**Despair Stomp**![](/images/mlbb/skills/minotaur-2.webp)Skill 2**Motivation Roar**![](/images/mlbb/skills/minotaur-3.webp)Ultimate**Minoan Fury**
 
 Passive
 
@@ -223,8 +209,6 @@ Passive
 After casting a skill, Minotaur gains Motivation, recovering HP equal to 5 (+1 × hero level)% of damage taken from enemy heroes for 3s.
 
 **Enraged State:** Motivation HP recovery is increased to 200%.
-
-![](/images/mlbb/skills/minotaur-1.webp)
 
 Skill 1
 
@@ -236,8 +220,6 @@ Minotaur jumps to the target location, dealing 325 (+60% Total Physical Attack) 
 
 **Enraged:** Increases the AOE range and the damage dealt by 25 (+5% Max HP) Physical Damage.
 
-![](/images/mlbb/skills/minotaur-2.webp)
-
 Skill 2
 
 ### Motivation Roar
@@ -247,8 +229,6 @@ Cooldown **10 s**
 Minotaur heals himself and the nearby ally with the lowest HP, recovering 220 (+60% Total Magic Power) HP for both. He also recovers an additional 8% of his lost .
 
 **Enraged:** Minotaur heals himself and all nearby allied heroes.
-
-![](/images/mlbb/skills/minotaur-3.webp)
 
 Ultimate
 
@@ -260,33 +240,25 @@ Minotaur enters Enraged state and smashes the ground 3 times. The first 2 hits d
 
 The Enraged state lasts 12s and enhances Minotaur's skills for the duration.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/saber.webp)Saber**+3.3**](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/kalea.webp)Kalea**+2.5**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/natalia.webp)Natalia**+2.0**](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/arlott.webp)Arlott**+1.9**](https://boostmlbb.ru/en/heroes/arlott.html)
+[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
 
 ## Lore
 
 > Minoan prince determined to restore his homeland.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/minotaur)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=19)
+[Read the full story ↗](https://kazukiofficial.com/stories/minotaur)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=19)
 
 **Rank up on Minotaur**The calculator shows the price
 
@@ -308,7 +280,7 @@ Tank and support, played on roam.
 
 Is Minotaur strong in the current meta?
 
-Tier A, #14 of 133 heroes and #4 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.1% of matches, 53.5% win rate.
+Tier A, #27 of 133 heroes and #9 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.1% of matches, 53.5% win rate. In professional games over the last month the hero is drafted in 11.3% of them.
 
 What is the best build for Minotaur?
 

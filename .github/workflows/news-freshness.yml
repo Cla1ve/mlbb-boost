@@ -17,7 +17,7 @@ jobs:
   refresh:
     if: github.repository == 'Cla1ve/mlbb-boost'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40
     steps:
       - name: Check out main
         uses: actions/checkout@v4
@@ -40,8 +40,15 @@ jobs:
       # If the page changes or is unreachable, the previous data stays and the rest of the job continues.
       - name: Refresh official hero statistics
         continue-on-error: true
-        timeout-minutes: 8
+        timeout-minutes: 16
         run: npm run heroes:refresh
+
+      # Professional games of the last 30 days from Liquipedia (public API, identified client, 2.5 s between calls).
+      # Finished tournaments come from the committed cache; the script skips itself when its data is under six days old.
+      - name: Refresh professional draft statistics
+        continue-on-error: true
+        timeout-minutes: 10
+        run: npm run heroes:pro
 
       # Builds, skills and teammates from the in-game Academy (Rone Arena API, ridwaanhall / RoneAI).
       # The script skips itself when the data is younger than 3 days; failures keep the previous file.

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
 
-Король Роя, нарушающий баланс во Вселенной.
-
 Победы
 
 51,5%
-
-все ранги 52,5%
 
 Выбор
 
 0,3%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,4%
-
-№81 в тир-листе · №19 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 158,5%Сборка 258,6%Сборка 355,1%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3111.webp)
-
-Палочка гения
-
-![](/images/mlbb/items/3102.webp)
-
-Священный кристалл
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 5,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Священный кристалл
+    Палочка гения
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Божественный меч
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20140.webp)
-
-Огненный выстрел
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 3,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пронзающий небеса
+    Пылающий жезл
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Пылающий жезл
+    Священный кристалл
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Божественный меч
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Разрыв
+    Разрыв
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Мастер оружий
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20140.webp)
-
-Огненный выстрел
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 2,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Божественный меч
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20140.webp)Огненный выстрел
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Нисхождение властелина**_›_**Кошмарное порождение**_›_**Пожиратель разума**_›_**Коллективный разум**
 
-![](/images/mlbb/skills/zhask-0.webp)Пассивный![](/images/mlbb/skills/zhask-1.webp)1-й навык![](/images/mlbb/skills/zhask-2.webp)2-й навык![](/images/mlbb/skills/zhask-3.webp)3-й навык![](/images/mlbb/skills/zhask-4.webp)Ультимейт
-
-![](/images/mlbb/skills/zhask-0.webp)
+![](/images/mlbb/skills/zhask-0.webp)Пассивный**Уничтожение**![](/images/mlbb/skills/zhask-1.webp)1-й навык**Кошмарное порождение**![](/images/mlbb/skills/zhask-2.webp)2-й навык**Пожиратель разума**![](/images/mlbb/skills/zhask-3.webp)3-й навык**Коллективный разум**![](/images/mlbb/skills/zhask-4.webp)Ультимейт**Нисхождение властелина**
 
 Пассивный
 
 ### Уничтожение
 
 После смерти Заск вызывает на этом месте разъяренное кошмарное порождение, которое со временем постепенно теряет ОЗ до самой смерти.
-
-![](/images/mlbb/skills/zhask-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ C
 
 **Усиление слиянием:** кошмарное порождение наносит 180% урона, и его можно перемещать.
 
-![](/images/mlbb/skills/zhask-2.webp)
-
 2-й навык
 
 ### Пожиратель разума
@@ -248,8 +230,6 @@ C
 Заск стреляет пронзающим ментальным лучом в указанном направлении, нанося 300 (+100% общей магической силы) единиц магического урона. Затем кошмарное порождение атакует врагов, пораженных "Пожирателем разума", нанося 120 (+80% общей магической силы) единиц магического урона и оглушая их на 0.5 сек.
 
 **Усиление слиянием:** урон "Пожирателя разума" увеличивается до 540 (+180% общей магической силы).
-
-![](/images/mlbb/skills/zhask-3.webp)
 
 3-й навык
 
@@ -265,8 +245,6 @@ C
 
 Последующий урон, наносимый той же цели, уменьшается до 20%.
 
-![](/images/mlbb/skills/zhask-4.webp)
-
 Ультимейт
 
 ### Нисхождение властелина
@@ -277,33 +255,25 @@ C
 
 **Повторное использование:** Заск немедленно выходит из кошмарного порождения и теряет усиление.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harley.webp)Харли**+2,5**](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/cyclops.webp)Циклоп**+2,3**](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/natalia.webp)Наталья**+1,8**](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/johnson.webp)Джонсон**+1,8**](https://boostmlbb.ru/heroes/johnson.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## История
 
 > Король Роя, нарушающий баланс во Вселенной.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zhask)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=50)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Zhask)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=50)
 
 **Поднимем ранг на герое «Заск»**Цена считается в калькуляторе
 
@@ -325,7 +295,7 @@ C
 
 Силён ли герой «Заск» в текущей мете?
 
-Тир C, 81-е место из 133 героев и 19-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,5% побед.
+Тир C, 107-е место из 133 героев и 27-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Заск» лучшая?
 

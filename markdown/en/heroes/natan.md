@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
 
-The savior who travels through time and space.
-
 Win rate
 
 51.5%
-
-all ranks 51.3%
 
 Pick rate
 
 0.4%
 
-all ranks 0.3%
-
 Ban rate
 
 0.1%
-
-all ranks 0.1%
-
-#67 in the tier list · #14 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 154.4%Build 255.6%Build 353.4%
-
-### Core items
-
-![](/images/mlbb/items/2108.webp)
-
-Feather of Heaven
-
-![](/images/mlbb/items/3103.webp)
-
-Concentrated Energy
-
-![](/images/mlbb/items/3005.webp)
-
-Windtalker
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/112.webp)
-
-Swift
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/1231.webp)
-
-Weakness Finder
-
-### Spell
-
-![](/images/mlbb/spells/20060.webp)
-
-Aegis
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 23.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Feather of Heaven
+    Feather of Heaven
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Concentrated Energy
+    Concentrated Energy
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Windtalker
+    Windtalker
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20060.webp)Aegis
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Swift
+    Swift
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Weakness Finder
+    Weakness Finder
 
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 7.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Feather of Heaven
+    Feather of Heaven
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Concentrated Energy
+    Concentrated Energy
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Windtalker
+    Windtalker
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Swift
+    Swift
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Weakness Finder
+    Weakness Finder
 
-### Spell
-
-![](/images/mlbb/spells/20030.webp)
-
-Inspire
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 5.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Feather of Heaven
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Concentrated Energy
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Windtalker
+
+
+#### Spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Weakness Finder
+
+
 ## Skills
 
 Level-up**Entropy?**_›_**Superposition**_›_**Interference!**
 
-![](/images/mlbb/skills/natan-0.webp)Passive![](/images/mlbb/skills/natan-1.webp)Skill 1![](/images/mlbb/skills/natan-2.webp)Skill 2![](/images/mlbb/skills/natan-3.webp)Ultimate
-
-![](/images/mlbb/skills/natan-0.webp)
+![](/images/mlbb/skills/natan-0.webp)Passive**Theory of Everything**![](/images/mlbb/skills/natan-1.webp)Skill 1**Superposition**![](/images/mlbb/skills/natan-2.webp)Skill 2**Interference!**![](/images/mlbb/skills/natan-3.webp)Ultimate**Entropy?**
 
 Passive
 
@@ -225,8 +211,6 @@ Natan gains a stack of Entanglement each time he or his Reverse-Clone hits an en
 
 Natan's Basic Attack projectiles will return to Natan after reaching the maximum range, dealing an extra 30 (+50% Total Physical Attack) (+60% Total Magic Power) Magic Damage to enemies along the way (inherits a portion of Attack Effects). Hitting an enemy refreshes Entanglement's duration.
 
-![](/images/mlbb/skills/natan-1.webp)
-
 Skill 1
 
 ### Superposition
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **8 Mana Cost: 50 s**
 
 Natan shoots a dense mass of energy in the target direction, dealing 225 (+100% Total Physical Attack) (+120% Total Magic Power) Magic Damage to enemies in its path.
-
-![](/images/mlbb/skills/natan-2.webp)
 
 Skill 2
 
@@ -246,8 +228,6 @@ Cooldown **12 Mana Cost: 60 s**
 Natan launches a Gravitational Attractor in the target direction, dealing 150 (+50% Total Physical Attack) (+60% Total Magic Power) Magic Damage to enemies in its path and knocking them back.
 
 The Attractor detonates upon reaching the maximum range, dealing 30 (+10% Total Physical Attack) (+12% Total Magic Power) Magic Damage to nearby enemies and knocking them back.
-
-![](/images/mlbb/skills/natan-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Natan summons a Reverse-Clone that lasts 10s at 6 units away. The Reverse-Clone 
 
 Each cast reduces other skills' remaining cooldowns by 50%. The Reverse-Clone will disappear if Natan is too far away.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/diggie.webp)Diggie**+4.6**](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/baxia.webp)Baxia**+3.0**](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/faramis.webp)Faramis**+1.9**](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/fanny.webp)Fanny**+1.8**](https://boostmlbb.ru/en/heroes/fanny.html)
+[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
 
 ## Lore
 
 > The savior who travels through time and space.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Natan)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=107)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Natan)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=107)
 
 **Rank up on Natan**The calculator shows the price
 
@@ -309,7 +281,7 @@ Marksman, played in the Gold Lane.
 
 Is Natan strong in the current meta?
 
-Tier C, #67 of 133 heroes and #14 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate.
+Tier C, #92 of 133 heroes and #18 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
 
 What is the best build for Natan?
 

@@ -1,6 +1,6 @@
 ---
 title: "Kimmy MLBB: build, counters and skills | MLBB Boost"
-description: "Kimmy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and marksman, 48.16% win rate, tier C."
+description: "Kimmy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and marksman, 48.16% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Kimmy
 
-C
+A
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane![](/images/mlbb/filters/mid.webp)Mid Lane
-
-Born into a military family, she earned recognition through her own merit as the bold yet laid-back "tough girl" of the Border Guard.
 
 Win rate
 
 48.2%
 
-all ranks 48.7%
-
 Pick rate
 
 0.9%
 
-all ranks 0.9%
-
 Ban rate
 
 0.6%
-
-all ranks 0.7%
-
-#76 in the tier list · #16 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 154.3%Build 249.0%Build 351.9%
-
-### Core items
-
-![](/images/mlbb/items/2108.webp)
-
-Feather of Heaven
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-![](/images/mlbb/items/3103.webp)
-
-Concentrated Energy
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/1231.webp)
-
-Weakness Finder
-
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 10.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Feather of Heaven
+    Feather of Heaven
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Divine Glaive
+    Concentrated Energy
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Weakness Finder
+    Weakness Finder
 
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 8.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Feather of Heaven
+    Feather of Heaven
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Concentrated Energy
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Weakness Finder
+    Weakness Finder
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 8.2%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Feather of Heaven
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Concentrated Energy
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Weakness Finder
+
+
 ## Skills
 
 Level-up**Traction Pulse**_›_**Starlium Beam**_›_**Anti-Grav Thruster**
 
-![](/images/mlbb/skills/kimmy-0.webp)Passive![](/images/mlbb/skills/kimmy-1.webp)Skill 1![](/images/mlbb/skills/kimmy-2.webp)Skill 2![](/images/mlbb/skills/kimmy-3.webp)Ultimate
-
-![](/images/mlbb/skills/kimmy-0.webp)
+![](/images/mlbb/skills/kimmy-0.webp)Passive**Aerial Dominance**![](/images/mlbb/skills/kimmy-1.webp)Skill 1**Anti-Grav Thruster**![](/images/mlbb/skills/kimmy-2.webp)Skill 2**Starlium Beam**![](/images/mlbb/skills/kimmy-3.webp)Ultimate**Traction Pulse**
 
 Passive
 
@@ -227,8 +213,6 @@ Kimmy can keep moving while shooting and does not benefit from Attack Speed Bonu
 
 Kimmy's Basic Attacks only deal 60% damage to Turrets.
 
-![](/images/mlbb/skills/kimmy-1.webp)
-
 Skill 1
 
 ### Anti-Grav Thruster
@@ -238,8 +222,6 @@ Cooldown **14 s**
 Kimmy uses her jetpack to take flight, removing and becoming immune to slow effects. She can pass through terrain and gains 120% extra Movement Speed that decays over 1s. During the flight, she continuously fires 4 Chemical Bolts at nearby enemies, each dealing 20 (+25% Total Physical Attack) (+30% Total Magic Power) Magic Damage and slowing them by 50% for 0.5s.
 
 Kimmy does not consume Starlium during flight.
-
-![](/images/mlbb/skills/kimmy-2.webp)
 
 Skill 2
 
@@ -251,8 +233,6 @@ Kimmy fires a Starlium Beam in the target direction, immobilizing enemies in its
 
 Each enemy hero hit grants 20 Starlium.
 
-![](/images/mlbb/skills/kimmy-3.webp)
-
 Ultimate
 
 ### Traction Pulse
@@ -263,33 +243,25 @@ Kimmy charges up and fires a Traction Pulse in the target direction. Upon hittin
 
 After 1s, the field contracts, pulling enemy heroes within it to its center and dealing 15% of their current as Magic Damage. It also slows them by 50% for 2s. Each enemy hero hit grants Kimmy 40 Starlium.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/estes.webp)Estes**+2.4**](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/valentina.webp)Valentina**+2.2**](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/ixia.webp)Ixia**+1.6**](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/fredrinn.webp)Fredrinn**+1.4**](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
 
 ## Lore
 
 > Born into a military family, she earned recognition through her own merit as the bold yet laid-back "tough girl" of the Border Guard.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/kimmy)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=71)
+[Read the full story ↗](https://kazukiofficial.com/stories/kimmy)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=71)
 
 **Rank up on Kimmy**The calculator shows the price
 
@@ -311,7 +283,7 @@ Mage and marksman, played in the Gold Lane or in the Mid Lane.
 
 Is Kimmy strong in the current meta?
 
-Tier C, #76 of 133 heroes and #16 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.2% win rate.
+Tier A, #15 of 133 heroes and #3 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 73.1% of them.
 
 What is the best build for Kimmy?
 

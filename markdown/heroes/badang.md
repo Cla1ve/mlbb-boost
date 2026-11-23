@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/roam.webp)Роум
 
-Защитник острова Солари, обладающий невероятной мощью морского зверя.
-
 Победы
 
 49,9%
-
-все ранги 50,2%
 
 Выбор
 
 1,4%
 
-все ранги 1,3%
-
 Баны
 
 4,9%
-
-все ранги 3,7%
-
-№32 в тир-листе · №9 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 157,3%Сборка 257,2%Сборка 357,6%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3212.webp)
-
-Наплечник наказания
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 1,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Древняя кираса
+    Наплечник наказания
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 1,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Наплечник наказания
+    Господство льда
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Меч охотника на демонов
+    Древняя кираса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 1,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Наплечник наказания
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Раскалывающий кулак**_›_**Кулачный ветер**_›_**Пробивающий кулак**
 
-![](/images/mlbb/skills/badang-0.webp)Пассивный![](/images/mlbb/skills/badang-1.webp)1-й навык![](/images/mlbb/skills/badang-2.webp)2-й навык![](/images/mlbb/skills/badang-3.webp)Ультимейт
-
-![](/images/mlbb/skills/badang-0.webp)
+![](/images/mlbb/skills/badang-0.webp)Пассивный**Рыцарский кулак**![](/images/mlbb/skills/badang-1.webp)1-й навык**Кулачный ветер**![](/images/mlbb/skills/badang-2.webp)2-й навык**Пробивающий кулак**![](/images/mlbb/skills/badang-3.webp)Ультимейт**Раскалывающий кулак**
 
 Пассивный
 
@@ -224,8 +210,6 @@ B
 Каждый раз, когда базовая атака Баданга попадает по цели, он получает заряд "Рыцарского кулака". После получения 4 зарядов его следующая базовая атака нанесет пораженным врагам 50 (+30% общей физической атаки) единиц дополнительного физического урона и отбросит их. Враги, отброшенные к препятствиям, будут оглушены на 0.6 сек. (миньоны и монстры будут оглушены сразу).
 
 "Кулачный ветер", создаваемый навыками Баданга, напрямую активирует этот эффект, а "Кулачный ветер" от ультимейта увеличивает длительность оглушения до 1 сек.
-
-![](/images/mlbb/skills/badang-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ B
 
 Баданг накапливает до 2 зарядов "Кулачного ветра" и восстанавливает 1 заряд каждые 10.4 сек.
 
-![](/images/mlbb/skills/badang-2.webp)
-
 2-й навык
 
 ### Пробивающий кулак
@@ -248,8 +230,6 @@ B
 Баданг совершает рывок в указанном направлении, нанося 230 (+50% общей физической атаки) единиц физического урона врагам на пути и получая 350 (+150% общей физической атаки) ед. щита на 5 сек. Он останавливается сразу же после попадания во вражеского героя, слегка отбрасывая его и создавая позади него препятствие, которое существует 4 сек. Враги, пораженные препятствием, получают 130 (+30% общей физической атаки) единиц физического урона.
 
 **Повторное использование:** Баданг устраняет созданное им препятствие.
-
-![](/images/mlbb/skills/badang-3.webp)
 
 Ультимейт
 
@@ -261,27 +241,19 @@ B
 
 Баданг невосприимчив к эффектам контроля во время навыка.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/saber.webp)Сабер**+1,6**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/phoveus.webp)Фовиус**+1,3**](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/silvanna.webp)Сильвана**+1,3**](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/aldous.webp)Алдос**+1,2**](https://boostmlbb.ru/heroes/aldous.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
 
 ## История
 
 > Защитник острова Солари, обладающий невероятной мощью морского зверя.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/badang)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=77)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/badang)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=77)
 
 **Поднимем ранг на герое «Баданг»**Цена считается в калькуляторе
 
@@ -303,7 +275,7 @@ B
 
 Силён ли герой «Баданг» в текущей мете?
 
-Тир B, 32-е место из 133 героев и 9-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,9% матчей, 49,9% побед.
+Тир B, 44-е место из 133 героев и 13-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,9% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 2,7% катков.
 
 Какая сборка на героя «Баданг» лучшая?
 

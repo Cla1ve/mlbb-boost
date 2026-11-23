@@ -1,6 +1,6 @@
 ---
 title: "Беатрис MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Беатрис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,56% побед, тир B."
+description: "Беатрис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,56% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/beatrix.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Беатрис
 
-B
+C
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
-
-Уверенная в себе изобретательница.
 
 Победы
 
 50,6%
 
-все ранги 50,4%
-
 Выбор
 
 0,8%
 
-все ранги 0,7%
-
 Баны
 
 0,4%
-
-все ранги 0,4%
-
-№55 в тир-листе · №10 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 151,7%Сборка 256,0%Сборка 354,5%
-
-### Предметы
-
-![](/images/mlbb/items/3008.webp)
-
-Клинок отчаяния
-
-![](/images/mlbb/items/3015.webp)
-
-Губительный пулемет
-
-![](/images/mlbb/items/3013.webp)
-
-Трезубец
-
-### Эмблема
-
-![](/images/mlbb/emblems/20012.webp)
-
-Эмблема стрелка
-
-![](/images/mlbb/talents/511.webp)
-
-Разрыв
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/631.webp)
-
-Смертельное воспламенение
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 5,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Клинок отчаяния
+    Клинок отчаяния
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Проворность
+    Разрыв
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Квантовый заряд
+    Смертельное воспламенение
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 5,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Клинок отчаяния
+    Клинок отчаяния
 
-![](/images/mlbb/items/3015.webp)
+-   ![](/images/mlbb/items/3015.webp)
 
-Губительный пулемет
+    Губительный пулемет
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Точно в цель
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 3,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3008.webp)
+
+    Клинок отчаяния
+
+-   ![](/images/mlbb/items/3015.webp)
+
+    Губительный пулемет
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Точно в цель
+
+
 ## Навыки
 
 Прокачка**Равнодушие Реннера**_›_**Мастерский стрелок**_›_**Тактическая смена позиции**
 
-![](/images/mlbb/skills/beatrix-0.webp)Пассивный![](/images/mlbb/skills/beatrix-1.webp)1-й навык![](/images/mlbb/skills/beatrix-2.webp)2-й навык![](/images/mlbb/skills/beatrix-3.webp)3-й навык![](/images/mlbb/skills/beatrix-4.webp)Ультимейт
-
-![](/images/mlbb/skills/beatrix-0.webp)
+![](/images/mlbb/skills/beatrix-0.webp)Пассивный**Гений механики**![](/images/mlbb/skills/beatrix-1.webp)1-й навык**Мастерский стрелок**![](/images/mlbb/skills/beatrix-2.webp)2-й навык**Тактическая смена позиции**![](/images/mlbb/skills/beatrix-3.webp)3-й навык**Равнодушие Реннера**![](/images/mlbb/skills/beatrix-4.webp)Ультимейт**Нужна помощь**
 
 Пассивный
 
@@ -229,8 +215,6 @@ B
 
 Она получает вампиризм от навыков, равный 100% от ее вампиризма.
 
-![](/images/mlbb/skills/beatrix-1.webp)
-
 1-й навык
 
 ### Мастерский стрелок
@@ -241,15 +225,11 @@ B
 
 **Активный:** Беатрис нужно 0.5 сек. на смену основного оружия на дополнительное, после чего она получит новую базовую атаку и ультимейт.
 
-![](/images/mlbb/skills/beatrix-2.webp)
-
 2-й навык
 
 ### Тактическая смена позиции
 
 Беатрис совершает кувырок вперед и полностью перезаряжает текущее оружие.
-
-![](/images/mlbb/skills/beatrix-3.webp)
 
 3-й навык
 
@@ -261,8 +241,6 @@ B
 
 Этот выстрел может пробивать миньонов и наносит только 75% урона юнитам не-героям.
 
-![](/images/mlbb/skills/beatrix-4.webp)
-
 Ультимейт
 
 ### Нужна помощь
@@ -273,33 +251,25 @@ B
 
 Выбор прерывается, если в течение этого периода она совершает какое-либо действие или попадает под контроль.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+5,6**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/diggie.webp)Дигги**+4,6**](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/baxia.webp)Баксий**+2,4**](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/fredrinn.webp)Фредрин**+2,2**](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
 
 ## История
 
 > Уверенная в себе изобретательница.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Beatrix)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=105)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Beatrix)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=105)
 
 **Поднимем ранг на герое «Беатрис»**Цена считается в калькуляторе
 
@@ -321,7 +291,7 @@ B
 
 Силён ли герой «Беатрис» в текущей мете?
 
-Тир B, 55-е место из 133 героев и 10-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,6% побед.
+Тир C, 70-е место из 133 героев и 13-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 2,1% катков.
 
 Какая сборка на героя «Беатрис» лучшая?
 

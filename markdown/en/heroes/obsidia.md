@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
 
-The ancient Sovereign of the Abyss, risen from ruin, now seeks to slay the God of Darkness and hunt down its Spawns of Decay.
-
 Win rate
 
 52.6%
-
-all ranks 53.2%
 
 Pick rate
 
 2.4%
 
-all ranks 2.2%
-
 Ban rate
 
 64.8%
-
-all ranks 48.5%
-
-#3 in the tier list · #1 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 155.3%Build 257.8%Build 357.6%
-
-### Core items
-
-![](/images/mlbb/items/3005.webp)
-
-Windtalker
-
-![](/images/mlbb/items/3002.webp)
-
-Haas' Claws
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/112.webp)
-
-Swift
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/1231.webp)
-
-Weakness Finder
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 6.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Windtalker
+    Windtalker
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Haas' Claws
+    Haas' Claws
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sky Piercer
+    Sky Piercer
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Swift
+    Swift
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Weakness Finder
+    Weakness Finder
 
-### Spell
-
-![](/images/mlbb/spells/20060.webp)
-
-Aegis
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Corrosion Scythe
+    Windtalker
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Sky Piercer
+    Haas' Claws
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Demon Hunter Sword
+    Sky Piercer
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20060.webp)Aegis
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Swift
+    Swift
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Weakness Finder
+    Weakness Finder
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.6%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Swift
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Bargain Hunter
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Weakness Finder
+
+
 ## Skills
 
 Level-up**Hunt of Bone**_›_**Phantom Shadowmeld**_›_**Abyssal Bone Needle**
 
-![](/images/mlbb/skills/obsidia-0.webp)Passive![](/images/mlbb/skills/obsidia-1.webp)Skill 1![](/images/mlbb/skills/obsidia-2.webp)Skill 2![](/images/mlbb/skills/obsidia-3.webp)Ultimate
-
-![](/images/mlbb/skills/obsidia-0.webp)
+![](/images/mlbb/skills/obsidia-0.webp)Passive**Return to Bone**![](/images/mlbb/skills/obsidia-1.webp)Skill 1**Abyssal Bone Needle**![](/images/mlbb/skills/obsidia-2.webp)Skill 2**Phantom Shadowmeld**![](/images/mlbb/skills/obsidia-3.webp)Ultimate**Hunt of Bone**
 
 Passive
 
@@ -229,8 +215,6 @@ Killing an enemy hero directly grants 1 Bone Shard(s).
 
 Obsidia's Basic Attacks deal 70 (+70% Total Physical Attack) Physical Damage, inheriting 100% Attack Effects.
 
-![](/images/mlbb/skills/obsidia-1.webp)
-
 Skill 1
 
 ### Abyssal Bone Needle
@@ -239,8 +223,6 @@ Cooldown **4.5 Mana Cost: 35 s**
 
 Obsidia launches an Abyssal Bone Needle, dealing 325 (+80% Total Physical Attack) Physical Damage to enemies hit and triggering Return to Bone on the first enemy hero struck.
 
-![](/images/mlbb/skills/obsidia-2.webp)
-
 Skill 2
 
 ### Phantom Shadowmeld
@@ -248,8 +230,6 @@ Skill 2
 Cooldown **4.5 Mana Cost: 40 s**
 
 Obsidia descends into the Abyss and enters Shadowmeld Form, gaining 500% Movement Speed for 0.3s.
-
-![](/images/mlbb/skills/obsidia-3.webp)
 
 Ultimate
 
@@ -261,33 +241,25 @@ Obsidia shoots Bones of Wrath in the target direction, dealing 125 (+60% Extra P
 
 While tethered, Obsidia can move through obstacles and use Basic Attacks while moving. Phantom Shadowmeld is also enhanced: its duration increases to 1s, and its cooldown is reduced to 33%.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harith.webp)Harith**+3.6**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa**+1.2**](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/fanny.webp)Fanny**+0.9**](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/hanzo.webp)Hanzo**+0.6**](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Lore
 
 > The ancient Sovereign of the Abyss, risen from ruin, now seeks to slay the God of Darkness and hunt down its Spawns of Decay.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/obsidia)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=130)
+[Read the full story ↗](https://kazukiofficial.com/stories/obsidia)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=130)
 
 **Rank up on Obsidia**The calculator shows the price
 
@@ -309,7 +281,7 @@ Marksman, played in the Gold Lane.
 
 Is Obsidia strong in the current meta?
 
-Tier S, #3 of 133 heroes and #1 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 64.8% of matches, 52.6% win rate.
+Tier S, #7 of 133 heroes and #1 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 64.8% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 44.8% of them.
 
 What is the best build for Obsidia?
 

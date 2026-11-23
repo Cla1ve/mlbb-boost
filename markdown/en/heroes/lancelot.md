@@ -1,6 +1,6 @@
 ---
 title: "Lancelot MLBB: build, counters and skills | MLBB Boost"
-description: "Lancelot in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.22% win rate, tier D."
+description: "Lancelot in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.22% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lancelot.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Lancelot
 
-D
+C
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/jungle.webp)Jungle
-
-Prodigal son and genius swordsman of House Baroque.
 
 Win rate
 
 42.2%
 
-all ranks 43.1%
-
 Pick rate
 
 0.5%
 
-all ranks 0.5%
-
 Ban rate
 
 0.1%
-
-all ranks 0.5%
-
-#132 in the tier list · #29 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 149.0%Build 250.0%Build 348.2%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-![](/images/mlbb/items/3004.webp)
-
-Endless Battle
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/531.webp)
-
-Killing Spree
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 9.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Endless Battle
+    Brute Force Breastplate
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Brute Force Breastplate
+    Endless Battle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Killing Spree
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 7.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Brute Force Breastplate
+    Endless Battle
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Endless Battle
+    Brute Force Breastplate
 
-### Emblem
 
-![](/images/mlbb/emblems/20007.webp)
+#### Spell
 
-Fighter
+![](/images/mlbb/spells/20020.webp)Retribution
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/122.webp)
+Assassin
 
-Seasoned Hunter
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Thrill
 
-Killing Spree
+-   ![](/images/mlbb/talents/122.webp)
 
-### Spell
+    Seasoned Hunter
 
-![](/images/mlbb/spells/20020.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Retribution
+    Killing Spree
+
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 6.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Brute Force Breastplate
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Phantom Execution**_›_**Thorned Rose**_›_**Puncture**
 
-![](/images/mlbb/skills/lancelot-0.webp)Passive![](/images/mlbb/skills/lancelot-1.webp)Skill 1![](/images/mlbb/skills/lancelot-2.webp)Skill 2![](/images/mlbb/skills/lancelot-3.webp)Ultimate
-
-![](/images/mlbb/skills/lancelot-0.webp)
+![](/images/mlbb/skills/lancelot-0.webp)Passive**Soul Cutter**![](/images/mlbb/skills/lancelot-1.webp)Skill 1**Puncture**![](/images/mlbb/skills/lancelot-2.webp)Skill 2**Thorned Rose**![](/images/mlbb/skills/lancelot-3.webp)Ultimate**Phantom Execution**
 
 Passive
 
 ### Soul Cutter
 
 Each time Lancelot charges, his damage is increased by 7.5% for 4s, up to 30%.
-
-![](/images/mlbb/skills/lancelot-1.webp)
 
 Skill 1
 
@@ -235,8 +219,6 @@ Lancelot charges in the target direction, dealing 150 (+50% Total Physical Attac
 
 If a new Sword Mark is applied, this skill's cooldown resets.
 
-![](/images/mlbb/skills/lancelot-2.webp)
-
 Skill 2
 
 ### Thorned Rose
@@ -244,8 +226,6 @@ Skill 2
 Cooldown **11 Mana Cost: 60 s**
 
 Lancelot strikes in the target direction 3 times, each time dealing 220 (+120% Extra Physical Attack) Physical Damage to enemies hit (damage is reduced when multiple enemies are hit). He's untargetable during this process. Enemies in the center of the area take all the 3 hits and are slowed by 20% for 0.5s. The slow effect can stack.
-
-![](/images/mlbb/skills/lancelot-3.webp)
 
 Ultimate
 
@@ -255,33 +235,25 @@ Cooldown **36 Mana Cost: 100 s**
 
 After a short delay, Lancelot performs an executioner's strike in the target direction, dealing 350 (+170% Total Physical Attack) Physical Damage to enemies hit. He is invincible throughout the process.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/angela.webp)Angela**+3.2**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.2**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/argus.webp)Argus**+1.1**](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/hanabi.webp)Hanabi**+0.8**](https://boostmlbb.ru/en/heroes/hanabi.html)
+[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)
 
 ## Lore
 
 > Prodigal son and genius swordsman of House Baroque.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Lancelot)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=47)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Lancelot)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=47)
 
 **Rank up on Lancelot**The calculator shows the price
 
@@ -303,7 +275,7 @@ Assassin, played in the jungle.
 
 Is Lancelot strong in the current meta?
 
-Tier D, #132 of 133 heroes and #29 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 42.2% win rate.
+Tier C, #132 of 133 heroes and #29 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 42.2% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
 
 What is the best build for Lancelot?
 

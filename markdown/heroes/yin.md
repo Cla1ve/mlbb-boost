@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
 
-Молодой мастер боевых искусств отправляется в путешествие, чтобы победить Злобного бога, живущего внутри него.
-
 Победы
 
 49,9%
-
-все ранги 49,6%
 
 Выбор
 
 0,3%
 
-все ранги 0,5%
-
 Баны
 
 0,5%
-
-все ранги 1,7%
-
-№87 в тир-листе · №28 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 157,7%Сборка 253,5%Сборка 353,7%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3013.webp)
-
-Трезубец
-
-![](/images/mlbb/items/3004.webp)
-
-Бесконечная битва
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 2,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Удар охотника
+    Топор войны
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Топор войны
+    Бесконечная битва
 
-### Эмблема
 
-![](/images/mlbb/emblems/20005.webp)
+#### Заклинание
 
-Эмблема убийцы
+![](/images/mlbb/spells/20070.webp)Окаменение
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20007.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Эмблема бойца
 
-Мастер оружий
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/131.webp)
+    Трепет
 
-Нечестивая ярость
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Заклинание
+    Мастер оружий
 
-![](/images/mlbb/spells/20070.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Окаменение
+    Нечестивая ярость
+
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 2,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Клинок семи морей
+    Удар охотника
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Злобный рык
+    Трезубец
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Трезубец
+    Топор войны
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер-убийца
+    Мастер оружий
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Ударная волна
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
 
 Победы
 
@@ -209,21 +159,55 @@ C
 
 1,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3007.webp)
+
+    Клинок семи морей
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Злобный рык
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20070.webp)Окаменение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Мастер-убийца
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Мой ход**_›_**Заряженный удар**_›_**Мгновенный взрыв**
 
-![](/images/mlbb/skills/yin-0.webp)Пассивный![](/images/mlbb/skills/yin-1.webp)1-й навык![](/images/mlbb/skills/yin-2.webp)2-й навык![](/images/mlbb/skills/yin-3.webp)Ультимейт
-
-![](/images/mlbb/skills/yin-0.webp)
+![](/images/mlbb/skills/yin-0.webp)Пассивный**Я разберусь**![](/images/mlbb/skills/yin-1.webp)1-й навык**Заряженный удар**![](/images/mlbb/skills/yin-2.webp)2-й навык**Мгновенный взрыв**![](/images/mlbb/skills/yin-3.webp)Ультимейт**Мой ход**
 
 Пассивный
 
 ### Я разберусь
 
 Если в пределах 4 единиц от Иня нет союзных героев, его урон увеличивается до 120%, и он получает 8% вампиризма от навыков.
-
-![](/images/mlbb/skills/yin-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ C
 
 Успешное применение заряженного удара сократит перезарядку навыка на 35%.
 
-![](/images/mlbb/skills/yin-2.webp)
-
 2-й навык
 
 ### Мгновенный взрыв
@@ -248,8 +230,6 @@ C
 Инь устремляется вперед, оставляя золотое кольцо позади, в то же время нанося 75 (+35% дополнительной физической атаки) единиц физического урона врагам на своем пути. Он получит дополнительно 30% к снижению урона на 4 сек. при попадании по вражескому герою.
 
 Через 1 сек. золотое кольцо догонит Иня, нанесет 150 (+70% дополнительной физической атаки) единиц физического урона врагам, через которых пройдет, и оглушит их на 1 сек.
-
-![](/images/mlbb/skills/yin-3.webp)
 
 Ультимейт
 
@@ -265,33 +245,25 @@ C
 
 Если Инь не сможет утянуть цель во владения, навык войдет в перезарядку на 3 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/roger.webp)Роджер](https://boostmlbb.ru/heroes/roger.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/sun.webp)Сан**+1,8**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/hilda.webp)Хильда**+1,7**](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/gloo.webp)Глу**+1,6**](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khaleed.webp)Халид**+1,4**](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/roger.webp)Роджер](https://boostmlbb.ru/heroes/roger.html)
 
 ## История
 
 > Молодой мастер боевых искусств отправляется в путешествие, чтобы победить Злобного бога, живущего внутри него.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Yin)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=113)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Yin)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=113)
 
 **Поднимем ранг на герое «Инь»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ C
 
 Силён ли герой «Инь» в текущей мете?
 
-Тир C, 87-е место из 133 героев и 28-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 49,9% побед.
+Тир C, 106-е место из 133 героев и 33-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Инь» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Фрейя MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фрейя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,71% побед, тир A."
+description: "Фрейя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,71% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/freya.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Фрейя
 
-A
+S
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/jungle.webp)Лес
-
-Валькирия, стоящая на страже Северной долины.
 
 Победы
 
 51,7%
 
-все ранги 49,3%
-
 Выбор
 
 1,4%
 
-все ранги 0,9%
-
 Баны
 
 11,4%
-
-все ранги 4,8%
-
-№20 в тир-листе · №5 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 160,1%Сборка 260,4%Сборка 358,0%
-
-### Предметы
-
-![](/images/mlbb/items/2009.webp)
-
-Золотой посох
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3012.webp)
-
-Золотой метеор
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/133.webp)
-
-Боевой клич
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 6,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Золотой посох
+    Золотой посох
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Бесконечная битва
+    Золотой метеор
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 5,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Золотой посох
+    Золотой посох
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Коса коррозии
+    Топор войны
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Топор войны
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/133.webp)
+-   ![](/images/mlbb/talents/133.webp)
 
-Боевой клич
+    Боевой клич
 
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
 
 Победы
 
@@ -209,13 +159,49 @@ A
 
 3,0%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Золотой посох
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/133.webp)
+
+    Боевой клич
+
+
 ## Навыки
 
 Прокачка**Пришествие валькирии**_›_**Натиск валькирии**_›_**Прыжок веры**
 
-![](/images/mlbb/skills/freya-0.webp)Пассивный![](/images/mlbb/skills/freya-1.webp)1-й навык![](/images/mlbb/skills/freya-2.webp)2-й навык![](/images/mlbb/skills/freya-3.webp)Ультимейт
-
-![](/images/mlbb/skills/freya-0.webp)
+![](/images/mlbb/skills/freya-0.webp)Пассивный**Сила Эйнхерии**![](/images/mlbb/skills/freya-1.webp)1-й навык**Прыжок веры**![](/images/mlbb/skills/freya-2.webp)2-й навык**Натиск валькирии**![](/images/mlbb/skills/freya-3.webp)Ультимейт**Пришествие валькирии**
 
 Пассивный
 
@@ -225,8 +211,6 @@ A
 
 Вне боя заряды священной сферы постепенно восстанавливаются.
 
-![](/images/mlbb/skills/freya-1.webp)
-
 1-й навык
 
 ### Прыжок веры
@@ -234,8 +218,6 @@ A
 Перезарядка **8 с**
 
 Фрейя прыгает в указанную область и ударяет щитом о землю, получая 500 (+100% общей физической атаки) ед. щита и нанося 200 (+80% дополнительной физической атаки) единиц физического урона врагам поблизости и подбрасывая их на 0.4 сек.
-
-![](/images/mlbb/skills/freya-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ A
 
 Навык наносит 50% урона монстрам.
 
-![](/images/mlbb/skills/freya-3.webp)
-
 Ультимейт
 
 ### Пришествие валькирии
@@ -259,33 +239,25 @@ A
 
 При приземлении Фрейя переходит в состояние валькирии на 10 сек. и получает 30 скорости передвижения. Ее базовые атаки наносят 100 (+70% общей физической атаки) распространяющегося урона (критическим может быть только бонусный физический урон).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zhuxin.webp)Чжусинь**+3,0**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Чип**+2,3**](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/harith.webp)Харит**+2,2**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/yve.webp)Ив**+2,2**](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
 
 ## История
 
 > Валькирия, стоящая на страже Северной долины.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=22)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=22)
 
 **Поднимем ранг на герое «Фрейя»**Цена считается в калькуляторе
 
@@ -307,7 +279,7 @@ A
 
 Силён ли герой «Фрейя» в текущей мете?
 
-Тир A, 20-е место из 133 героев и 5-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 11,4% матчей, 51,7% побед.
+Тир S, 6-е место из 133 героев и 3-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 11,4% матчей, 51,7% побед. В профессиональных матчах за месяц героя драфтуют в 98,4% катков.
 
 Какая сборка на героя «Фрейя» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Floryn MLBB: build, counters and skills | MLBB Boost"
-description: "Floryn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.91% win rate, tier S."
+description: "Floryn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.91% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Floryn
 
-S
+B
 
 ![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
-
-A kind-hearted girl who is determined to spread greenery throughout the world.
 
 Win rate
 
 53.9%
 
-all ranks 54.1%
-
 Pick rate
 
 1.3%
 
-all ranks 0.9%
-
 Ban rate
 
 13.7%
-
-all ranks 13.4%
-
-#11 in the tier list · #4 among supports · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More supports on this lane
 
-[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 154.0%Build 255.1%Build 355.5%
-
-### Core items
-
-![](/images/mlbb/items/10001.webp)
-
-Lantern of Hope
-
-![](/images/mlbb/items/3112.webp)
-
-Flask of the Oasis
-
-![](/images/mlbb/items/3109.webp)
-
-Fleeting Time
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/831.webp)
-
-Focusing Mark
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 22.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/10001.webp)
+-   ![](/images/mlbb/items/10001.webp)
 
-Lantern of Hope
+    Lantern of Hope
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Pull Yourself Together
+    Wilderness Blessing
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 9.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/10001.webp)
+-   ![](/images/mlbb/items/10001.webp)
 
-Lantern of Hope
+    Lantern of Hope
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Wilderness Blessing
+    Pull Yourself Together
 
-![](/images/mlbb/talents/831.webp)
+-   ![](/images/mlbb/talents/831.webp)
 
-Focusing Mark
+    Focusing Mark
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 8.7%
 
+#### Core items
+
+-   ![](/images/mlbb/items/10001.webp)
+
+    Lantern of Hope
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Flask of the Oasis
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/831.webp)
+
+    Focusing Mark
+
+
 ## Skills
 
 Level-up**Bloom**_›_**Sow**_›_**Sprout**
 
-![](/images/mlbb/skills/floryn-0.webp)Passive![](/images/mlbb/skills/floryn-1.webp)Skill 1![](/images/mlbb/skills/floryn-2.webp)Skill 2![](/images/mlbb/skills/floryn-3.webp)Ultimate
-
-![](/images/mlbb/skills/floryn-0.webp)
+![](/images/mlbb/skills/floryn-0.webp)Passive**Dew**![](/images/mlbb/skills/floryn-1.webp)Skill 1**Sow**![](/images/mlbb/skills/floryn-2.webp)Skill 2**Sprout**![](/images/mlbb/skills/floryn-3.webp)Ultimate**Bloom**
 
 Passive
 
@@ -227,8 +213,6 @@ After leaving combat for 5s, Floryn can share the Flower of Hope with an allied 
 
 Floryn will never sell the Lantern.
 
-![](/images/mlbb/skills/floryn-1.webp)
-
 Skill 1
 
 ### Sow
@@ -236,8 +220,6 @@ Skill 1
 Cooldown **9 Mana Cost: 75 s**
 
 Floryn tosses an Energy Seed at the target enemy, dealing 180 (+100% Total Magic Power) Magic Damage. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring their HP by 175 (+90% Total Magic Power).
-
-![](/images/mlbb/skills/floryn-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ Cooldown **13 Mana Cost: 90 s**
 
 Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing 175 (+90% Total Magic Power) Magic Damage to nearby enemies and stunning them for 0.5s (and revealing their positions briefly).
 
-![](/images/mlbb/skills/floryn-3.webp)
-
 Ultimate
 
 ### Bloom
@@ -257,33 +237,25 @@ Cooldown **70 Mana Cost: 150 s**
 
 Floryn resonates with Dew's power, recovering 250 (+100% Total Magic Power) HP for all allied heroes 2 time(s) no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/baxia.webp)Baxia**+7.1**](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/atlas.webp)Atlas**+6.8**](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Carmilla**+6.1**](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/kalea.webp)Kalea**+5.9**](https://boostmlbb.ru/en/heroes/kalea.html)
+[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
 > A kind-hearted girl who is determined to spread greenery throughout the world.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Floryn)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=112)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Floryn)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=112)
 
 **Rank up on Floryn**The calculator shows the price
 
@@ -305,7 +277,7 @@ Support, played on roam.
 
 Is Floryn strong in the current meta?
 
-Tier S, #11 of 133 heroes and #4 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.7% of matches, 53.9% win rate.
+Tier B, #31 of 133 heroes and #7 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.7% of matches, 53.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Floryn?
 

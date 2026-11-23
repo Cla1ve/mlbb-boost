@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота![](/images/mlbb/filters/jungle.webp)Лес
 
-Мальчик и ледяной волк — компаньоны, которые отлично понимают друг друга.
-
 Победы
 
 48,2%
-
-все ранги 52,1%
 
 Выбор
 
 0,4%
 
-все ранги 0,5%
-
 Баны
 
 1,3%
-
-все ранги 1,1%
-
-№96 в тир-листе · №20 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 154,3%Сборка 255,0%Сборка 354,6%
-
-### Предметы
-
-![](/images/mlbb/items/3013.webp)
-
-Трезубец
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/3008.webp)
-
-Клинок отчаяния
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 6,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3008.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Клинок отчаяния
+    Клинок отчаяния
 
-### Эмблема
 
-![](/images/mlbb/emblems/20012.webp)
+#### Заклинание
 
-Эмблема стрелка
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/1221.webp)
+Эмблема убийцы
 
-Мастер оружий
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/132.webp)
+    Трепет
 
-Квантовый заряд
+-   ![](/images/mlbb/talents/1221.webp)
 
-### Заклинание
+    Мастер оружий
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Вспышка
+    Квантовый заряд
+
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 3,5%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Трезубец
+    Трезубец
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3008.webp)
 
-Золотой метеор
+    Клинок отчаяния
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20012.webp)
 
 Эмблема стрелка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Мастер оружий
+    Мастер оружий
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 2,1%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Золотой метеор
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Мы злимся!**_›_**Кусай их, Купа!**_›_**Купа, помоги!**_›_**Сюрприз Пополя**
 
-![](/images/mlbb/skills/popol-and-kupa-0.webp)Пассивный![](/images/mlbb/skills/popol-and-kupa-1.webp)1-й навык![](/images/mlbb/skills/popol-and-kupa-2.webp)2-й навык![](/images/mlbb/skills/popol-and-kupa-3.webp)3-й навык![](/images/mlbb/skills/popol-and-kupa-4.webp)Ультимейт
-
-![](/images/mlbb/skills/popol-and-kupa-0.webp)
+![](/images/mlbb/skills/popol-and-kupa-0.webp)Пассивный**Мы — друзья**![](/images/mlbb/skills/popol-and-kupa-1.webp)1-й навык**Кусай их, Купа!**![](/images/mlbb/skills/popol-and-kupa-2.webp)2-й навык**Купа, помоги!**![](/images/mlbb/skills/popol-and-kupa-3.webp)3-й навык**Сюрприз Пополя**![](/images/mlbb/skills/popol-and-kupa-4.webp)Ультимейт**Мы злимся!**
 
 Пассивный
 
@@ -226,8 +212,6 @@ C
 Купа имеет 3500 (+350 × ур. героя) макс. ОЗ и наследует 100% других показателей и эффектов снаряжения Пополя.
 
 Купа наносит монстрам 77 (+3 × ур. героя) ед. дополнительного чистого урона.
-
-![](/images/mlbb/skills/popol-and-kupa-1.webp)
 
 1-й навык
 
@@ -241,8 +225,6 @@ C
 
 **Форма альфа-волка:** Купа яростно атакует, нанося цели и ближайшим врагам 120 (+140% общей физической атаки) ед. физического урона и подбрасывая их на 0.5 сек.
 
-![](/images/mlbb/skills/popol-and-kupa-2.webp)
-
 2-й навык
 
 ### Купа, помоги!
@@ -255,8 +237,6 @@ C
 
 **Форма альфа-волка:** эффект щита увеличивается до 125%, а Купа полностью восстанавливает ОЗ в состоянии "Верхом".
 
-![](/images/mlbb/skills/popol-and-kupa-3.webp)
-
 3-й навык
 
 ### Сюрприз Пополя
@@ -266,8 +246,6 @@ C
 Пополь устанавливает ловушку. После небольшой задержки она обездвиживает наступившего на нее врага на 1 сек. Затем ловушка взрывается, создавая морозную зону на 4 сек., которая непрерывно замедляет находящихся в ней врагов на 20%.
 
 Пополь получает заряд ловушки кажд. 22 сек. (до 3 зарядов). Одновременно может существовать до 4 ловушек, каждая длится до 60 сек.
-
-![](/images/mlbb/skills/popol-and-kupa-4.webp)
 
 Ультимейт
 
@@ -279,33 +257,25 @@ C
 
 В это время Купа принимает форму альфа-волка. макс. ОЗ, а также усиливая другие свои навыки.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)
+[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/layla.webp)Лейла**+3,2**](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/lesley.webp)Лесли**+2,9**](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/granger.webp)Грейнджер**+2,7**](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/wanwan.webp)Ванван**+2,5**](https://boostmlbb.ru/heroes/wanwan.html)
+[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 ## История
 
 > Мальчик и ледяной волк — компаньоны, которые отлично понимают друг друга.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Popol-and-Kupa)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=94)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Popol-and-Kupa)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=94)
 
 **Поднимем ранг на герое «Пополь и Купа»**Цена считается в калькуляторе
 
@@ -327,7 +297,7 @@ C
 
 Силён ли герой «Пополь и Купа» в текущей мете?
 
-Тир C, 96-е место из 133 героев и 20-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 48,2% побед.
+Тир C, 98-е место из 133 героев и 20-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Пополь и Купа» лучшая?
 

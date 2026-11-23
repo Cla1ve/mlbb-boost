@@ -1,6 +1,6 @@
 ---
 title: "Грейнджер MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Грейнджер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 44,02% побед, тир D."
+description: "Грейнджер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 44,02% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/granger.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Грейнджер
 
-D
+C
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
-
-Загадочный охотник на демонов, сражающийся вне условностей Церкви Света. В его футляре для скрипки скрыты два оружия, способные поглощать души.
 
 Победы
 
 44,0%
 
-все ранги 43,0%
-
 Выбор
 
 1,4%
 
-все ранги 1,3%
-
 Баны
 
 0,9%
-
-все ранги 1,6%
-
-№119 в тир-листе · №22 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 146,3%Сборка 246,1%Сборка 339,7%
-
-### Предметы
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-![](/images/mlbb/items/3001.webp)
-
-Злобный рык
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 30,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Злобный рык
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Разрыв
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 10,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Удар охотника
+    Удар охотника
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Трезубец
+    Злобный рык
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Трепет
+    Разрыв
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 3,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Трезубец
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Смертельная соната**_›_**Рапсодия**_›_**Рондо**
 
-![](/images/mlbb/skills/granger-0.webp)Пассивный![](/images/mlbb/skills/granger-1.webp)1-й навык![](/images/mlbb/skills/granger-2.webp)2-й навык![](/images/mlbb/skills/granger-3.webp)Ультимейт
-
-![](/images/mlbb/skills/granger-0.webp)
+![](/images/mlbb/skills/granger-0.webp)Пассивный**Каприччио**![](/images/mlbb/skills/granger-1.webp)1-й навык**Рапсодия**![](/images/mlbb/skills/granger-2.webp)2-й навык**Рондо**![](/images/mlbb/skills/granger-3.webp)Ультимейт**Смертельная соната**
 
 Пассивный
 
@@ -224,8 +210,6 @@ D
 Уникальные пистолет и пушка для охоты на демонов наделены демонической энергией. Оба оружия начинают с 800 макс. энергии. Пистолет восстанавливает 8% энергии в сек., а пушка восстанавливает 2% энергии в сек. Убийство миньона / монстра навсегда увеличивает их макс. энергию на 6 / 6 и мгновенно восстанавливает энергию на 5% / 5%. Каждое убийство или ассист, полученный за вражеского героя, навсегда увеличивает макс. энергию обоих оружий на 12 и мгновенно восстанавливает 10% энергии.
 
 Кажд. 1% сокращения перезарядки преобраз. в 2 . На затраты демонической энергии не влияет сокращение затрат энергии.
-
-![](/images/mlbb/skills/granger-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ D
 
 Грейнджер перестает стрелять при отсутствии энергии или при повторном применении навыка. "Рапсодия" не имеет перезарядки и применяется только когда у пистолета более 420 энергии.
 
-![](/images/mlbb/skills/granger-2.webp)
-
 2-й навык
 
 ### Рондо
@@ -248,8 +230,6 @@ D
 Грейнджер использует ловкость охотника на демонов, чтобы броситься в указанном направлении, мгновенно восстанавливая 15% энергии для своего пистолета.
 
 "Рондо" можно использовать во время применения "Рапсодии". Каждый раз, когда "Рапсодия" поражает врага, перезарядка "Рондо" сокращается на 0.5 сек.
-
-![](/images/mlbb/skills/granger-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ D
 
 "Смертельную сонату" можно применять во время "Рапсодии". "Смертельная соната" имеет короткую перезарядку и расходует 250 энергии пушки Грейнджера на выстрел.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/baxia.webp)Баксий**+8,5**](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/floryn.webp)Флорин**+5,6**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/harith.webp)Харит**+3,9**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/fredrinn.webp)Фредрин**+3,4**](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
 ## История
 
 > Загадочный охотник на демонов, сражающийся вне условностей Церкви Света. В его футляре для скрипки скрыты два оружия, способные поглощать души.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/granger)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=79)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/granger)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=79)
 
 **Поднимем ранг на герое «Грейнджер»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ D
 
 Силён ли герой «Грейнджер» в текущей мете?
 
-Тир D, 119-е место из 133 героев и 22-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 44,0% побед.
+Тир C, 93-е место из 133 героев и 19-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 44,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,6% катков.
 
 Какая сборка на героя «Грейнджер» лучшая?
 

@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-A mortal hero who fights demons with nothing but his fists—and the iron will to protect his tribe.
-
 Win rate
 
 50.1%
-
-all ranks 50.0%
 
 Pick rate
 
 1.4%
 
-all ranks 1.3%
-
 Ban rate
 
 11.1%
-
-all ranks 18.1%
-
-#27 in the tier list · #8 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 156.3%Build 253.8%Build 357.9%
-
-### Core items
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sea Halberd
+    Sky Piercer
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sky Piercer
+    Sea Halberd
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Festival of Blood
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.0%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    Malefic Roar
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Knockout Strike**_›_**Jab**_›_**Heavy Left Punch**
 
-![](/images/mlbb/skills/paquito-0.webp)Passive![](/images/mlbb/skills/paquito-1.webp)Skill 1![](/images/mlbb/skills/paquito-2.webp)Skill 2![](/images/mlbb/skills/paquito-3.webp)Ultimate
-
-![](/images/mlbb/skills/paquito-0.webp)
+![](/images/mlbb/skills/paquito-0.webp)Passive**Champ Stance**![](/images/mlbb/skills/paquito-1.webp)Skill 1**Heavy Left Punch**![](/images/mlbb/skills/paquito-2.webp)Skill 2**Jab**![](/images/mlbb/skills/paquito-3.webp)Ultimate**Knockout Strike**
 
 Passive
 
@@ -227,8 +213,6 @@ Paquito's enhanced skills have no cooldown and deal (+2 × hero level)% extra da
 
 After casting any enhanced skill, Paquito gains 60% Movement Speed and (+2 × hero level)% Damage Reduction for 1.2s.
 
-![](/images/mlbb/skills/paquito-1.webp)
-
 Skill 1
 
 ### Heavy Left Punch
@@ -238,8 +222,6 @@ Cooldown **7 s**
 Paquito throws a punch in the target direction, dealing 210 (+50% Total Physical Attack) Physical Damage to enemies hit and gaining a 150 (+135% Total Physical Attack) shield.
 
 **Champ Stance:** The damage is increased to 350 (+100% Total Physical Attack) Physical Damage, and the shield value is increased to 140% for 2.5s (normal and enhanced shields can stack).
-
-![](/images/mlbb/skills/paquito-2.webp)
 
 Skill 2
 
@@ -253,8 +235,6 @@ Paquito dashes forward and throws a jab, dealing 200 (+165% Total Physical Attac
 
 The jab stops upon hitting a hero or creep.
 
-![](/images/mlbb/skills/paquito-3.webp)
-
 Ultimate
 
 ### Knockout Strike
@@ -267,27 +247,19 @@ He then throws a haymaker, dealing 300 (+90% Total Physical Attack) Physical Dam
 
 **Champ Stance:** After knocking enemies back to the destination, Paquito launches an uppercut instead, dealing 400 (+120% Total Physical Attack) Physical Damage and knocking them airborne for 0.5s.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/alice.webp)Alice**+1.2**](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/bane.webp)Bane**+1.1**](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/sun.webp)Sun**+0.9**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/natan.webp)Natan**+0.8**](https://boostmlbb.ru/en/heroes/natan.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Lore
 
 > A mortal hero who fights demons with nothing but his fists—and the iron will to protect his tribe.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Paquito)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=103)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Paquito)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=103)
 
 **Rank up on Paquito**The calculator shows the price
 
@@ -309,7 +281,7 @@ Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Paquito strong in the current meta?
 
-Tier A, #27 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.1% of matches, 50.1% win rate.
+Tier A, #11 of 133 heroes and #5 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.1% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 69.3% of them.
 
 What is the best build for Paquito?
 

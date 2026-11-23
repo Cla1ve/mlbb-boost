@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/jungle.webp)Jungle
 
-Leader of the City of the Dragon Fleet.
-
 Win rate
 
 48.5%
-
-all ranks 49.1%
 
 Pick rate
 
 1.1%
 
-all ranks 0.9%
-
 Ban rate
 
 1.5%
-
-all ranks 2.6%
-
-#62 in the tier list · #14 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ## Build
 
-Jungle · from ranked matches
-
-Build 153.9%Build 254.7%Build 353.5%
-
-### Core items
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3004.webp)
-
-Endless Battle
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/531.webp)
-
-Killing Spree
-
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 14.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Sky Piercer
+    War Axe
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Endless Battle
+    Endless Battle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Killing Spree
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 10.3%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-War Axe
+    Sky Piercer
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Endless Battle
+    Endless Battle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Weapons Master
+    Seasoned Hunter
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Killing Spree
+    Killing Spree
 
-### Spell
-
-![](/images/mlbb/spells/20020.webp)
-
-Retribution
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 8.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Endless Battle
+
+
+#### Spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Mountain Shocker**_›_**Traceless**_›_**Blood Floods**
 
-![](/images/mlbb/skills/yi-sun-shin-0.webp)Passive![](/images/mlbb/skills/yi-sun-shin-1.webp)Skill 1![](/images/mlbb/skills/yi-sun-shin-2.webp)Skill 2![](/images/mlbb/skills/yi-sun-shin-3.webp)Ultimate
-
-![](/images/mlbb/skills/yi-sun-shin-0.webp)
+![](/images/mlbb/skills/yi-sun-shin-0.webp)Passive**Heavenly Vow**![](/images/mlbb/skills/yi-sun-shin-1.webp)Skill 1**Traceless**![](/images/mlbb/skills/yi-sun-shin-2.webp)Skill 2**Blood Floods**![](/images/mlbb/skills/yi-sun-shin-3.webp)Ultimate**Mountain Shocker**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 Yi Sun-shin attacks with his longbow or glaive based on his distance from the target.
 
 **Weapon Mastery:** After each weapon swap, his next 2 Basic Attacks gain extra Attack Speed and deal 70% and 55% Crit Damage respectively. He also gains 15% Movement Speed for 1s.
-
-![](/images/mlbb/skills/yi-sun-shin-1.webp)
 
 Skill 1
 
@@ -236,8 +220,6 @@ Cooldown **12 Mana Cost: 50 s**
 Yi Sun-shin dashes forward and slashes with his glaive, dealing 150 (+40% Total Physical Attack) Physical Damage and gaining Control Immunity for 0.4s.
 
 Each Weapon Mastery triggered reduces the cooldown of Traceless by 1s.
-
-![](/images/mlbb/skills/yi-sun-shin-2.webp)
 
 Skill 2
 
@@ -251,8 +233,6 @@ Cooldown **11 Mana Cost: 60 s**
 
 Casting this skill immediately triggers Weapon Mastery.
 
-![](/images/mlbb/skills/yi-sun-shin-3.webp)
-
 Ultimate
 
 ### Mountain Shocker
@@ -265,27 +245,19 @@ Yi Sun-shin summons a turtle ship and reveals the whole map for 2s. The turtle s
 
 Casting this skill immediately triggers Weapon Mastery.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/floryn.webp)Floryn**+2.5**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/joy.webp)Joy**+1.7**](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/harith.webp)Harith**+1.2**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/odette.webp)Odette**+1.2**](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
 ## Lore
 
 > Leader of the City of the Dragon Fleet.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yi_Sunshin)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=30)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Yi_Sunshin)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=30)
 
 **Rank up on Yi Sun-shin**The calculator shows the price
 
@@ -307,7 +279,7 @@ Assassin and marksman, played in the jungle.
 
 Is Yi Sun-shin strong in the current meta?
 
-Tier B, #62 of 133 heroes and #14 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 48.5% win rate.
+Tier B, #65 of 133 heroes and #14 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 2.5% of them.
 
 What is the best build for Yi Sun-shin?
 

@@ -15,27 +15,17 @@ A
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-Recognized by the Heavens and cherished by her people, the Celestial Empress of the Cadia Riverlands ascends to bring peace to the mortal realm.
-
 Win rate
 
 50.0%
-
-all ranks 50.9%
 
 Pick rate
 
 1.9%
 
-all ranks 1.6%
-
 Ban rate
 
 3.1%
-
-all ranks 4.7%
-
-#30 in the tier list · #4 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 157.1%Build 257.8%Build 357.0%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3110.webp)
-
-Lightning Truncheon
-
-![](/images/mlbb/items/3101.webp)
-
-Divine Glaive
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 12.5%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Lightning Truncheon
+    Lightning Truncheon
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Wilderness Blessing
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 11.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Fleeting Time
+    Lightning Truncheon
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Lightning Truncheon
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 6.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Lightning Truncheon
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Fury of the Phoenix**_›_**Phoenix Strike**_›_**Phoenix Descent**
 
-![](/images/mlbb/skills/zetian-0.webp)Passive![](/images/mlbb/skills/zetian-1.webp)Skill 1![](/images/mlbb/skills/zetian-2.webp)Skill 2![](/images/mlbb/skills/zetian-3.webp)Ultimate
-
-![](/images/mlbb/skills/zetian-0.webp)
+![](/images/mlbb/skills/zetian-0.webp)Passive**Celestial Armament**![](/images/mlbb/skills/zetian-1.webp)Skill 1**Phoenix Strike**![](/images/mlbb/skills/zetian-2.webp)Skill 2**Phoenix Descent**![](/images/mlbb/skills/zetian-3.webp)Ultimate**Fury of the Phoenix**
 
 Passive
 
@@ -224,8 +210,6 @@ Passive
 **Phoenix Crown:** When Zetian hits enemy heroes with Phoenix Strike or Phoenix Descent, she gains 1% Spell Vamp for 5s (up to 10 stacks).
 
 **Celestial Robe:** The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who approaches her, dealing 90 (+10 × hero level) (+50% Total Magic Power) Magic Damage. She also gains a 300 (+20 × hero level) (+50% Total Magic Power) shield for 3s. Cooldown: 120s.
-
-![](/images/mlbb/skills/zetian-1.webp)
 
 Skill 1
 
@@ -239,8 +223,6 @@ The waves deal 150 (+50% Total Magic Power), 150 (+50% Total Magic Power), and 3
 
 The Spell Vamp ratio against minions is only 65%.
 
-![](/images/mlbb/skills/zetian-2.webp)
-
 Skill 2
 
 ### Phoenix Descent
@@ -250,8 +232,6 @@ Cooldown **15 Mana Cost: 80 s**
 Zetian summons a Phoenix Spirit at the target location, dealing 150 (+45% Total Magic Power) Magic Damage and applying a brief 50% slow effect to enemies in the area. The Phoenix Spirit hovers at the location for 3s, dealing 20 (+10% Total Magic Power) Magic Damage every 0.5s and reducing enemies' by 10% while revealing their surrounding area.
 
 While the Phoenix Spirit is active, Zetian can use this skill again to command it to charge toward a designated location, dealing 150 (+45% Total Magic Power) Magic Damage and applying a brief 50% slow effect upon arrival.
-
-![](/images/mlbb/skills/zetian-3.webp)
 
 Ultimate
 
@@ -263,27 +243,19 @@ Zetian calls upon her divine mandate and the hearts of her people, granting all 
 
 Zetian can cast other skills while channeling this skill.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/cyclops.webp)Cyclops**+2.0**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley**+2.0**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/natalia.webp)Natalia**+1.6**](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/zhuxin.webp)Zhuxin**+1.3**](https://boostmlbb.ru/en/heroes/zhuxin.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
 
 ## Lore
 
 > Recognized by the Heavens and cherished by her people, the Celestial Empress of the Cadia Riverlands ascends to bring peace to the mortal realm.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/zetian)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=129)
+[Read the full story ↗](https://kazukiofficial.com/stories/zetian)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=129)
 
 **Rank up on Zetian**The calculator shows the price
 
@@ -305,7 +277,7 @@ Mage, played in the Mid Lane.
 
 Is Zetian strong in the current meta?
 
-Tier A, #30 of 133 heroes and #4 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.1% of matches, 50.0% win rate.
+Tier A, #21 of 133 heroes and #7 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.1% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 39.6% of them.
 
 What is the best build for Zetian?
 

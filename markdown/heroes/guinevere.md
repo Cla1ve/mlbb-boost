@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Девушка из семьи аристократов со странным характером, любимица старшего брата Ланселота.
-
 Победы
 
 51,4%
-
-все ранги 51,3%
 
 Выбор
 
 1,0%
 
-все ранги 0,8%
-
 Баны
 
 1,2%
-
-все ранги 1,9%
-
-№36 в тир-листе · №11 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 156,6%Сборка 253,7%Сборка 355,9%
-
-### Предметы
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/134.webp)
-
-Временное правление
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 3,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Крылья королевы
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Опытный охотник
+    Охотник за скидками
 
-![](/images/mlbb/talents/134.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Временное правление
+    Временное правление
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 1,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Концентрированная энергия
+    Концентрированная энергия
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Божественный меч
+    Кираса грубой силы
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Священный кристалл
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Разрыв
+    Трепет
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Второе дыхание
+    Опытный охотник
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Нечестивая ярость
+    Временное правление
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 1,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Концентрированная энергия
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Божественный меч
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Разрыв
+
+-   ![](/images/mlbb/talents/821.webp)
+
+    Второе дыхание
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Фиолетовый реквием**_›_**Волна энергии**_›_**Пространственное перемещение**
 
-![](/images/mlbb/skills/guinevere-0.webp)Пассивный![](/images/mlbb/skills/guinevere-1.webp)1-й навык![](/images/mlbb/skills/guinevere-2.webp)2-й навык![](/images/mlbb/skills/guinevere-3.webp)Ультимейт
-
-![](/images/mlbb/skills/guinevere-0.webp)
+![](/images/mlbb/skills/guinevere-0.webp)Пассивный**Супермагия**![](/images/mlbb/skills/guinevere-1.webp)1-й навык**Волна энергии**![](/images/mlbb/skills/guinevere-2.webp)2-й навык**Пространственное перемещение**![](/images/mlbb/skills/guinevere-3.webp)Ультимейт**Фиолетовый реквием**
 
 Пассивный
 
@@ -227,8 +213,6 @@ B
 
 Враги, пораженные навыками или усиленной базовой атакой Гвиневры, отмечаются на 5 сек. Враги с 3 метками будут подброшены при попадании навыком "Фиолетовый реквием".
 
-![](/images/mlbb/skills/guinevere-1.webp)
-
 1-й навык
 
 ### Волна энергии
@@ -238,8 +222,6 @@ B
 Гвиневра выпускает энергетический шар в указанном направлении, нанося 300 (+125% общей магической силы) единиц магического урона и замедляя врагов на 25% на 1.2 сек.
 
 Успешное попадание во врага сокращает перезарядку всех ее навыков на 1 сек.
-
-![](/images/mlbb/skills/guinevere-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ B
 
 **Повторное использование:** Гвиневра перемещается в указанном направлении и оставляет позади иллюзию. Если иллюзия получит урон от героя, она восстановит "Супермагию" Гвиневры и взорвется через 1.5 сек., нанося 100 (+30% общей магической силы) единиц мaгического урона ближайшим врагам.
 
-![](/images/mlbb/skills/guinevere-3.webp)
-
 Ультимейт
 
 ### Фиолетовый реквием
@@ -263,33 +243,25 @@ B
 
 Пораженные подброшенные враги будут снова подброшены, до 8 раз дополнительно.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
+[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/sun.webp)Сан**+1,9**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/lukas.webp)Лукас**+1,7**](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/masha.webp)Маша**+1,7**](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/thamuz.webp)Тамуз**+1,6**](https://boostmlbb.ru/heroes/thamuz.html)
+[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
 
 ## История
 
 > Девушка из семьи аристократов со странным характером, любимица старшего брата Ланселота.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/guinevere)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=80)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/guinevere)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=80)
 
 **Поднимем ранг на герое «Гвиневра»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ B
 
 Силён ли герой «Гвиневра» в текущей мете?
 
-Тир B, 36-е место из 133 героев и 11-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,2% матчей, 51,4% побед.
+Тир B, 54-е место из 133 героев и 16-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,2% матчей, 51,4% побед. В профессиональных матчах за месяц героя драфтуют в 3,4% катков.
 
 Какая сборка на героя «Гвиневра» лучшая?
 

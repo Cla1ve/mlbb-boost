@@ -1,6 +1,6 @@
 ---
 title: "Кайя MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кайя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 49,61% побед, тир A."
+description: "Кайя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 49,61% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/kaja.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Кайя
 
-A
+B
 
 ![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
-
-Лидер назаров, стоящий на страже Небесного дворца.
 
 Победы
 
 49,6%
 
-все ранги 49,8%
-
 Выбор
 
 0,9%
 
-все ранги 0,6%
-
 Баны
 
 31,3%
-
-все ранги 15,9%
-
-№18 в тир-листе · №6 среди героев поддержки · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ A
 
 ### Другие герои поддержки этой линии
 
-[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 155,8%Сборка 253,6%Сборка 355,1%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3109.webp)
-
-Мимолетное время
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ A
 
 14,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/821.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Второе дыхание
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ A
 
 10,1%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Мимолетное время
+    Мимолетное время
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Кираса грубой силы
+    Господство льда
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Вдохновение
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/821.webp)
 
-Благословение природы
+    Второе дыхание
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,21 +159,55 @@ A
 
 2,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Мимолетное время
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Божественные оковы**_›_**Кольцо порядка**_›_**Парящие крылья**
 
-![](/images/mlbb/skills/kaja-0.webp)Пассивный![](/images/mlbb/skills/kaja-1.webp)1-й навык![](/images/mlbb/skills/kaja-2.webp)2-й навык![](/images/mlbb/skills/kaja-3.webp)Ультимейт
-
-![](/images/mlbb/skills/kaja-0.webp)
+![](/images/mlbb/skills/kaja-0.webp)Пассивный**Крылья молнии**![](/images/mlbb/skills/kaja-1.webp)1-й навык**Кольцо порядка**![](/images/mlbb/skills/kaja-2.webp)2-й навык**Парящие крылья**![](/images/mlbb/skills/kaja-3.webp)Ультимейт**Божественные оковы**
 
 Пассивный
 
 ### Крылья молнии
 
 Урон от навыка Кайи накладывает эффект "Паралич" на вражеских юнитов, ненадолго замедляя героев или призванных существ и снижая их урон на 8% на 5 сек.
-
-![](/images/mlbb/skills/kaja-1.webp)
 
 1-й навык
 
@@ -234,8 +218,6 @@ A
 Кайя призывает кольцо первородной молнии, которое расширяется и возвращается к нему.
 
 Пораженные враги получают 160 (+70% общей магической силы) единиц магического урона и восстанавливают Кайе 78 (+45% общей магической силы) ОЗ. Лечение от последующих попаданий снижается до 33%.
-
-![](/images/mlbb/skills/kaja-2.webp)
 
 2-й навык
 
@@ -249,8 +231,6 @@ A
 
 При входе в состояние "Парения" перезарядка "Парящих крыльев" сокращается до 4 сек. (не зависит от сокращения перезарядки). Попадание по врагу навыком "Парящие крылья" продлевает состояние "Парения" на 2.6 сек.
 
-![](/images/mlbb/skills/kaja-3.webp)
-
 Ультимейт
 
 ### Божественные оковы
@@ -261,33 +241,25 @@ A
 
 Пока действует навык, Кайя может тянуть аркан, сужая его радиус и притягивая за собой врагов на границе (не прерывает их навыки).
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/kalea.webp)Калеа**+4,5**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/aurora.webp)Аврора**+2,9**](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/faramis.webp)Фарамис**+2,8**](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/saber.webp)Сабер**+2,6**](https://boostmlbb.ru/heroes/saber.html)
+[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 ## История
 
 > Лидер назаров, стоящий на страже Небесного дворца.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/kaja)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=62)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/kaja)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=62)
 
 **Поднимем ранг на герое «Кайя»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ A
 
 Силён ли герой «Кайя» в текущей мете?
 
-Тир A, 18-е место из 133 героев и 6-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 31,3% матчей, 49,6% побед.
+Тир B, 30-е место из 133 героев и 6-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 31,3% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
 
 Какая сборка на героя «Кайя» лучшая?
 

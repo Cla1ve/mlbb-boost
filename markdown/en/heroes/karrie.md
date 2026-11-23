@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
 
-Indifferent and powerful Yasson.
-
 Win rate
 
 49.0%
-
-all ranks 48.9%
 
 Pick rate
 
 0.6%
 
-all ranks 0.6%
-
 Ban rate
 
 0.7%
-
-all ranks 0.9%
-
-#77 in the tier list · #19 among marksmen · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More marksmen on this lane
 
-[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)
 
 ## Build
 
-Gold Lane · from ranked matches
-
-Build 155.9%Build 254.2%Build 354.5%
-
-### Core items
-
-![](/images/mlbb/items/2008.webp)
-
-Corrosion Scythe
-
-![](/images/mlbb/items/2009.webp)
-
-Golden Staff
-
-![](/images/mlbb/items/2006.webp)
-
-Demon Hunter Sword
-
-### Emblem
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/talents/112.webp)
-
-Swift
-
-![](/images/mlbb/talents/721.webp)
-
-Festival of Blood
-
-![](/images/mlbb/talents/132.webp)
-
-Quantum Charge
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 12.0%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Corrosion Scythe
+    Corrosion Scythe
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Golden Staff
+    Golden Staff
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Demon Hunter Sword
+    Demon Hunter Sword
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Thrill
+    Swift
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 10.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Corrosion Scythe
+    Corrosion Scythe
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Golden Staff
+    Golden Staff
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Demon Hunter Sword
+    Demon Hunter Sword
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Fighter
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Thrill
+    Thrill
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Festival of Blood
+    Festival of Blood
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Quantum Charge
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 3.6%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Corrosion Scythe
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Golden Staff
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Demon Hunter Sword
+
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Quantum Charge
+
+
 ## Skills
 
 Level-up**Speedy Lightwheel**_›_**Phantom Step**_›_**Spinning Lightwheel**
 
-![](/images/mlbb/skills/karrie-0.webp)Passive![](/images/mlbb/skills/karrie-1.webp)Skill 1![](/images/mlbb/skills/karrie-2.webp)Skill 2![](/images/mlbb/skills/karrie-3.webp)Ultimate
-
-![](/images/mlbb/skills/karrie-0.webp)
+![](/images/mlbb/skills/karrie-0.webp)Passive**Lightwheel Mark**![](/images/mlbb/skills/karrie-1.webp)Skill 1**Spinning Lightwheel**![](/images/mlbb/skills/karrie-2.webp)Skill 2**Phantom Step**![](/images/mlbb/skills/karrie-3.webp)Ultimate**Speedy Lightwheel**
 
 Passive
 
@@ -225,8 +211,6 @@ Karrie's Basic Attacks and skills apply a stack of Lightwheel Mark on hit.
 
 Once a target has 5 stacks of Lightwheel Marks, the marks will turn into a lightwheel, dealing True Damage equal to 5 of the target's to them (only up to 5 damage against creeps).
 
-![](/images/mlbb/skills/karrie-1.webp)
-
 Skill 1
 
 ### Spinning Lightwheel
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **8 Mana Cost: 65 s**
 
 Karrie releases a sphere of surging energy in the target direction, dealing 250 (+20% Total Physical Attack) Physical Damage to enemies in its path. The sphere will stop upon hitting an enemy hero or reaching its max travel distance, continuously dealing 150 (+10% Total Physical Attack) Physical Damage to nearby enemies and slowing them by 80% for 1s.
-
-![](/images/mlbb/skills/karrie-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ Karrie dashes in the target direction while throwing a lightwheel at the nearest
 
 When in Dual Wield state, Karrie throws two lightwheels instead.
 
-![](/images/mlbb/skills/karrie-3.webp)
-
 Ultimate
 
 ### Speedy Lightwheel
@@ -257,33 +237,25 @@ Cooldown **35 Mana Cost: 100 s**
 
 Karrie enters Dual Wield state for 10s, gaining 30% Movement Speed. Each Basic Attack deals 50 (+50% Total Physical Attack) Physical Damage and throws 2 lightwheels that inherit a portion of Attack Effects.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harith.webp)Harith**+2.6**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/x-borg.webp)X.Borg**+1.6**](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Hanzo**+1.1**](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/alice.webp)Alice**+1.0**](https://boostmlbb.ru/en/heroes/alice.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
 
 ## Lore
 
 > Indifferent and powerful Yasson.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/karrie)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=40)
+[Read the full story ↗](https://kazukiofficial.com/stories/karrie)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=40)
 
 **Rank up on Karrie**The calculator shows the price
 
@@ -305,7 +277,7 @@ Marksman, played in the Gold Lane.
 
 Is Karrie strong in the current meta?
 
-Tier C, #77 of 133 heroes and #19 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.0% win rate.
+Tier C, #88 of 133 heroes and #17 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.0% win rate. In professional games over the last month the hero is drafted in 1.1% of them.
 
 What is the best build for Karrie?
 

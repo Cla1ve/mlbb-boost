@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Безразличный и могущественный Яссон.
-
 Победы
 
 49,0%
-
-все ранги 48,9%
 
 Выбор
 
 0,6%
 
-все ранги 0,6%
-
 Баны
 
 0,7%
-
-все ранги 0,9%
-
-№77 в тир-листе · №19 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 155,9%Сборка 254,2%Сборка 354,5%
-
-### Предметы
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-![](/images/mlbb/items/2009.webp)
-
-Золотой посох
-
-![](/images/mlbb/items/2006.webp)
-
-Меч охотника на демонов
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 12,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Золотой посох
+    Золотой посох
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Меч охотника на демонов
+    Меч охотника на демонов
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Трепет
+    Проворность
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 10,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/2008.webp)
 
-Коса коррозии
+    Коса коррозии
 
-![](/images/mlbb/items/2009.webp)
+-   ![](/images/mlbb/items/2009.webp)
 
-Золотой посох
+    Золотой посох
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2006.webp)
 
-Меч охотника на демонов
+    Меч охотника на демонов
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 3,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2009.webp)
+
+    Золотой посох
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Проворный огонь**_›_**Фантомный шаг**_›_**Вращающийся огонь**
 
-![](/images/mlbb/skills/karrie-0.webp)Пассивный![](/images/mlbb/skills/karrie-1.webp)1-й навык![](/images/mlbb/skills/karrie-2.webp)2-й навык![](/images/mlbb/skills/karrie-3.webp)Ультимейт
-
-![](/images/mlbb/skills/karrie-0.webp)
+![](/images/mlbb/skills/karrie-0.webp)Пассивный**Световое клеймо**![](/images/mlbb/skills/karrie-1.webp)1-й навык**Вращающийся огонь**![](/images/mlbb/skills/karrie-2.webp)2-й навык**Фантомный шаг**![](/images/mlbb/skills/karrie-3.webp)Ультимейт**Проворный огонь**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 Как только количество световых клейм на ней достигнет 5, они превратятся в световой диск, который нанесет чистый урон, равный 5 от цели (максимум 5 урона против монстров).
 
-![](/images/mlbb/skills/karrie-1.webp)
-
 1-й навык
 
 ### Вращающийся огонь
@@ -234,8 +218,6 @@ C
 Перезарядка **8 Mana Cost: 65 с**
 
 Кэрри выпускает сферу бушующей энергии в указанном направлении, нанося 250 (+20% общей физической атаки) единиц физического урона врагам на пути. Сфера остановится при контакте с врагом или по достижении максимальной дистанции и будет непрерывно наносить 150 (+10% общей физической атаки) единиц физического урона врагам поблизости и замедлять их на 80%. Длится 1 сек.
-
-![](/images/mlbb/skills/karrie-2.webp)
 
 2-й навык
 
@@ -247,8 +229,6 @@ C
 
 В состоянии двойного вооружения Кэрри бросает два световых диска.
 
-![](/images/mlbb/skills/karrie-3.webp)
-
 Ультимейт
 
 ### Проворный огонь
@@ -257,33 +237,25 @@ C
 
 Кэрри входит в состояние двойного вооружения на 10 сек., получая 30% скорости передвижения. Каждая базовая атака наносит 50 (+50% общей физической атаки) ед. физического урона и выпускает 2 световых диска, которые наследуют часть эффектов атаки.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+2,6**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/x-borg.webp)Икс.Борг**+1,6**](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Ханзо**+1,1**](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/alice.webp)Алиса**+1,0**](https://boostmlbb.ru/heroes/alice.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
 
 ## История
 
 > Безразличный и могущественный Яссон.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/karrie)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=40)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/karrie)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=40)
 
 **Поднимем ранг на герое «Кэрри»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ C
 
 Силён ли герой «Кэрри» в текущей мете?
 
-Тир C, 77-е место из 133 героев и 19-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,0% побед.
+Тир C, 88-е место из 133 героев и 17-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,1% катков.
 
 Какая сборка на героя «Кэрри» лучшая?
 

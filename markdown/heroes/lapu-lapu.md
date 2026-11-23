@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
 
-Герой, защищающий Острова Вонетис от захватчиков
-
 Победы
 
 47,1%
-
-все ранги 48,1%
 
 Выбор
 
 0,4%
 
-все ранги 0,3%
-
 Баны
 
 0,1%
-
-все ранги 0,3%
-
-№112 в тир-листе · №37 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 154,6%Сборка 256,3%Сборка 358,2%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3009.webp)
-
-Удар охотника
-
-![](/images/mlbb/items/2208.webp)
-
-Крылья королевы
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/721.webp)
-
-Кровавое пиршество
-
-![](/images/mlbb/talents/731.webp)
-
-Отвага
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 9,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Крылья королевы
+    Удар охотника
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Оракул
+    Крылья королевы
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 5,0%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Удар охотника
+    Топор войны
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Топор войны
+    Крылья королевы
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Крылья королевы
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/721.webp)
+-   ![](/images/mlbb/talents/721.webp)
 
-Кровавое пиршество
+    Кровавое пиршество
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 4,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Удар охотника
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Крылья королевы
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Кровавое пиршество
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Храбрейший боец**_›_**Клинки правосудия**_›_**Воин джунглей**
 
-![](/images/mlbb/skills/lapu-lapu-0.webp)Пассивный![](/images/mlbb/skills/lapu-lapu-1.webp)1-й навык![](/images/mlbb/skills/lapu-lapu-2.webp)2-й навык![](/images/mlbb/skills/lapu-lapu-3.webp)Ультимейт
-
-![](/images/mlbb/skills/lapu-lapu-0.webp)
+![](/images/mlbb/skills/lapu-lapu-0.webp)Пассивный**Защитник родины**![](/images/mlbb/skills/lapu-lapu-1.webp)1-й навык**Клинки правосудия**![](/images/mlbb/skills/lapu-lapu-2.webp)2-й навык**Воин джунглей**![](/images/mlbb/skills/lapu-lapu-3.webp)Ультимейт**Храбрейший боец**
 
 Пассивный
 
@@ -224,8 +210,6 @@ C
 Каждый раз, когда Лапу-Лапу наносит урон, он получает 10 "Благословения храбрости" (вдвое меньше против существ, не являющихся героями).
 
 При максимальном количестве зарядов "Благословения храбрости" следующая базовая атака совершает рывок к цели, наносит (+150% общей физической атаки) единиц физического урона (не может быть критическим) и дает Лапу-Лапу щит в размере 250 (+65 × ур. героя) на 2.5 сек.
-
-![](/images/mlbb/skills/lapu-lapu-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ C
 
 Враги, пораженные обоими бумерангами, получат 50% урона от второго удара.
 
-![](/images/mlbb/skills/lapu-lapu-2.webp)
-
 2-й навык
 
 ### Воин джунглей
@@ -246,8 +228,6 @@ C
 Перезарядка **10 с**
 
 Лапу-Лапу бросается в указанном направлении, нанося 100 (+50% общей физической атаки) единиц физического урона врагам на пути.
-
-![](/images/mlbb/skills/lapu-lapu-3.webp)
 
 Ультимейт
 
@@ -263,33 +243,25 @@ C
 
 Этот навык нельзя прервать.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
+[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/thamuz.webp)Тамуз**+2,9**](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/sun.webp)Сан**+2,3**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/bane.webp)Бэйн**+1,3**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/alucard.webp)Алукард**+1,3**](https://boostmlbb.ru/heroes/alucard.html)
+[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
 
 ## История
 
 > Герой, защищающий Острова Вонетис от захватчиков
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=37)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=37)
 
 **Поднимем ранг на герое «Лапу-Лапу»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ C
 
 Силён ли герой «Лапу-Лапу» в текущей мете?
 
-Тир C, 112-е место из 133 героев и 37-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,1% побед.
+Тир C, 113-е место из 133 героев и 38-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,1% побед. В профессиональных матчах за месяц героя драфтуют в 1,7% катков.
 
 Какая сборка на героя «Лапу-Лапу» лучшая?
 

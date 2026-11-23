@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/jungle.webp)Лес
 
-Присягнувший на верность рыцарь, поклявшийся охранять Некрокип до последнего вздоха.
-
 Победы
 
 50,0%
-
-все ранги 50,1%
 
 Выбор
 
 0,3%
 
-все ранги 0,3%
-
 Баны
 
 0,2%
-
-все ранги 0,6%
-
-№86 в тир-листе · №27 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 156,6%Сборка 255,1%Сборка 358,5%
-
-### Предметы
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-![](/images/mlbb/items/3208.webp)
-
-Кираса грубой силы
-
-![](/images/mlbb/items/3004.webp)
-
-Бесконечная битва
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/122.webp)
-
-Опытный охотник
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 21,2%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Бесконечная битва
+    Бесконечная битва
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Опытный охотник
+    Опытный охотник
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Квантовый заряд
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 7,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Топор войны
+    Топор войны
 
-![](/images/mlbb/items/3208.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Кираса грубой силы
+    Кираса грубой силы
 
-![](/images/mlbb/items/3004.webp)
+-   ![](/images/mlbb/items/3004.webp)
 
-Бесконечная битва
+    Бесконечная битва
 
-### Эмблема
 
-![](/images/mlbb/emblems/20012.webp)
+#### Заклинание
 
-Эмблема стрелка
+![](/images/mlbb/spells/20020.webp)Возмездие
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/122.webp)
+Эмблема убийцы
 
-Опытный охотник
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/531.webp)
+    Трепет
 
-Убийственный пир
+-   ![](/images/mlbb/talents/122.webp)
 
-### Заклинание
+    Опытный охотник
 
-![](/images/mlbb/spells/20020.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Возмездие
+    Квантовый заряд
+
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 3,4%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    Топор войны
+
+-   ![](/images/mlbb/items/3208.webp)
+
+    Кираса грубой силы
+
+-   ![](/images/mlbb/items/3004.webp)
+
+    Бесконечная битва
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20012.webp)
+
+Эмблема стрелка
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Опытный охотник
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Призрачный конь**_›_**Инерция**_›_**Опустошение**
 
-![](/images/mlbb/skills/leomord-0.webp)Пассивный![](/images/mlbb/skills/leomord-1.webp)1-й навык![](/images/mlbb/skills/leomord-2.webp)2-й навык![](/images/mlbb/skills/leomord-3.webp)Ультимейт
-
-![](/images/mlbb/skills/leomord-0.webp)
+![](/images/mlbb/skills/leomord-0.webp)Пассивный**Хранитель клятвы**![](/images/mlbb/skills/leomord-1.webp)1-й навык**Инерция**![](/images/mlbb/skills/leomord-2.webp)2-й навык**Опустошение**![](/images/mlbb/skills/leomord-3.webp)Ультимейт**Призрачный конь**
 
 Пассивный
 
@@ -227,8 +213,6 @@ C
 
 **Состояние всадника:** получение энергии "Хранителя клятвы" увеличивается на 200%.
 
-![](/images/mlbb/skills/leomord-1.webp)
-
 1-й навык
 
 ### Инерция
@@ -239,8 +223,6 @@ C
 
 **Повторное использование:** используйте навык снова, чтобы прервать подготовку и немедленно совершить выпад.
 
-![](/images/mlbb/skills/leomord-2.webp)
-
 2-й навык
 
 ### Опустошение
@@ -248,8 +230,6 @@ C
 Перезарядка **12 с**
 
 Леоморд устремляется в указанном направлении, нанося 300 (+50% общей физической атаки) единиц физического урона врагам на пути и замедляя их на 30% на 1 сек.
-
-![](/images/mlbb/skills/leomord-3.webp)
 
 Ультимейт
 
@@ -263,33 +243,25 @@ C
 
 **Всадник:** Леоморд получает совершенно новый набор навыков и может использовать свою базовую атаку в круговой области во время движения, чтобы наносить массовый урон. Также Леоморд получает 70 скорости передвижения и 30 ед. . Это длится 10 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/joy.webp)Джой**+3,4**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/floryn.webp)Флорин**+1,2**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,2**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/diggie.webp)Дигги**+1,2**](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
 
 ## История
 
 > Присягнувший на верность рыцарь, поклявшийся охранять Некрокип до последнего вздоха.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Leomord)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=67)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Leomord)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=67)
 
 **Поднимем ранг на герое «Леоморд»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ C
 
 Силён ли герой «Леоморд» в текущей мете?
 
-Тир C, 86-е место из 133 героев и 27-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 50,0% побед.
+Тир C, 100-е место из 133 героев и 31-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,0% катков.
 
 Какая сборка на героя «Леоморд» лучшая?
 

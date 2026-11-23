@@ -8,6 +8,7 @@
     "news:build": "node scripts/news-pipeline.mjs build",
     "news:image": "node scripts/news-image.mjs",
     "heroes:refresh": "node scripts/heroes-refresh.mjs",
+    "heroes:pro": "node scripts/pro-meta.mjs",
     "heroes:academy": "node scripts/heroes-academy.mjs",
     "news:validate": "node scripts/news-pipeline.mjs validate",
     "site:assets": "node scripts/site-effects.mjs && node scripts/site-assets.mjs",

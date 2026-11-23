@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/roam.webp)Роум
 
-Наследница Силы Мегалита.
-
 Победы
 
 48,7%
-
-все ранги 51,1%
 
 Выбор
 
 0,4%
 
-все ранги 0,6%
-
 Баны
 
 3,7%
-
-все ранги 13,0%
-
-№73 в тир-листе · №12 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ C
 
 ### Другие танки этой линии
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)
 
 ## Сборка
 
-Линия опыта · по данным рейтинговых матчей
-
-Сборка 158,2%Сборка 259,0%Сборка 358,4%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3204.webp)
-
-Оракул
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ C
 
 6,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Наплечник наказания
+    Оракул
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Трепет
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Ударная волна
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -163,43 +113,43 @@ C
 
 2,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Оракул
+    Наплечник наказания
 
-### Эмблема
 
-![](/images/mlbb/emblems/20008.webp)
+#### Заклинание
 
-Эмблема поддержки
+![](/images/mlbb/spells/20050.webp)Восстановление
 
-![](/images/mlbb/talents/111.webp)
+#### Эмблема и таланты
 
-Трепет
+![](/images/mlbb/emblems/20003.webp)
 
-![](/images/mlbb/talents/121.webp)
+Эмблема танка
 
-Благословение природы
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/331.webp)
+    Трепет
 
-Ударная волна
+-   ![](/images/mlbb/talents/121.webp)
 
-### Заклинание
+    Благословение природы
 
-![](/images/mlbb/spells/20050.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Восстановление
+    Ударная волна
+
 
 Победы
 
@@ -209,13 +159,49 @@ C
 
 2,5%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Оракул
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Ударная волна
+
+
 ## Навыки
 
 Прокачка**Дикая сила**_›_**Искусство охоты**_›_**Боевой ритуал**
 
-![](/images/mlbb/skills/hilda-0.webp)Пассивный![](/images/mlbb/skills/hilda-1.webp)1-й навык![](/images/mlbb/skills/hilda-2.webp)2-й навык![](/images/mlbb/skills/hilda-3.webp)Ультимейт
-
-![](/images/mlbb/skills/hilda-0.webp)
+![](/images/mlbb/skills/hilda-0.webp)Пассивный**Благословение диких земель**![](/images/mlbb/skills/hilda-1.webp)1-й навык**Боевой ритуал**![](/images/mlbb/skills/hilda-2.webp)2-й навык**Искусство охоты**![](/images/mlbb/skills/hilda-3.webp)Ультимейт**Дикая сила**
 
 Пассивный
 
@@ -225,8 +211,6 @@ C
 
 Базовая атака и навыки Хильды накладывают "Метку диких земель" при попадании, которая действует до 4 сек. и складывается до 6 раз. Каждый заряд снижает вражеского героя на 3%.
 
-![](/images/mlbb/skills/hilda-1.webp)
-
 1-й навык
 
 ### Боевой ритуал
@@ -235,8 +219,6 @@ C
 
 Хильда получает 60% скорости передвижения на 3 сек. и щит длительностью 3 сек., поглощающий урон в размере 10% от .
 
-![](/images/mlbb/skills/hilda-2.webp)
-
 2-й навык
 
 ### Искусство охоты
@@ -244,8 +226,6 @@ C
 Перезарядка **7 с**
 
 Хильда фиксируется на вражеской цели, нанося 200 (+90% общей физической атаки) единиц физического урона за попадание. Этот навык можно применить до 3 раз. 2-я атака наносит урон ближайшим врагам. 3-я атака наносит урон цели и ближайшим врагам, ненадолго отбрасывая их.
-
-![](/images/mlbb/skills/hilda-3.webp)
 
 Ультимейт
 
@@ -257,33 +237,25 @@ C
 
 Каждый заряд "Метки диких земель" увеличивает урон "Дикой силы" на 2.5% от цели. При максимальном количестве зарядов дополнительный урон увеличивается до 20% от цели.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)
+[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/silvanna.webp)Сильвана**+2,6**](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/zilong.webp)Зилонг**+2,3**](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/minsitthar.webp)Минситтар**+2,1**](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/vale.webp)Вэйл**+1,9**](https://boostmlbb.ru/heroes/vale.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
 
 ## История
 
 > Наследница Силы Мегалита.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Hilda)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=35)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Hilda)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=35)
 
 **Поднимем ранг на герое «Хильда»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ C
 
 Силён ли герой «Хильда» в текущей мете?
 
-Тир C, 73-е место из 133 героев и 12-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,7% матчей, 48,7% побед.
+Тир C, 77-е место из 133 героев и 14-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,7% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 3,5% катков.
 
 Какая сборка на героя «Хильда» лучшая?
 

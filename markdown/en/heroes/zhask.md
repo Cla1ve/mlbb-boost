@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
 
-King of the Swarm who disrupts the balance of the universe.
-
 Win rate
 
 51.5%
-
-all ranks 52.5%
 
 Pick rate
 
 0.3%
 
-all ranks 0.3%
-
 Ban rate
 
 0.1%
-
-all ranks 0.4%
-
-#81 in the tier list · #19 among mages · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More mages on this lane
 
-[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
 ## Build
 
-Mid Lane · from ranked matches
-
-Build 158.5%Build 258.6%Build 355.1%
-
-### Core items
-
-![](/images/mlbb/items/3105.webp)
-
-Glowing Wand
-
-![](/images/mlbb/items/3111.webp)
-
-Genius Wand
-
-![](/images/mlbb/items/3102.webp)
-
-Holy Crystal
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/621.webp)
-
-Bargain Hunter
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 5.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Glowing Wand
+    Glowing Wand
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Holy Crystal
+    Genius Wand
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Divine Glaive
+    Holy Crystal
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Bargain Hunter
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Sky Piercer
+    Glowing Wand
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Glowing Wand
+    Holy Crystal
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Divine Glaive
+    Divine Glaive
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Weapons Master
+    Bargain Hunter
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Impure Rage
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20140.webp)
-
-Flameshot
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 2.8%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Sky Piercer
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Glowing Wand
+
+-   ![](/images/mlbb/items/3101.webp)
+
+    Divine Glaive
+
+
+#### Spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/511.webp)
+
+    Rupture
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Weapons Master
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Dominator's Descent**_›_**Nightmaric Spawn**_›_**Mind Eater**_›_**Hive Clones**
 
-![](/images/mlbb/skills/zhask-0.webp)Passive![](/images/mlbb/skills/zhask-1.webp)Skill 1![](/images/mlbb/skills/zhask-2.webp)Skill 2![](/images/mlbb/skills/zhask-3.webp)Skill 3![](/images/mlbb/skills/zhask-4.webp)Ultimate
-
-![](/images/mlbb/skills/zhask-0.webp)
+![](/images/mlbb/skills/zhask-0.webp)Passive**Decimation**![](/images/mlbb/skills/zhask-1.webp)Skill 1**Nightmaric Spawn**![](/images/mlbb/skills/zhask-2.webp)Skill 2**Mind Eater**![](/images/mlbb/skills/zhask-3.webp)Skill 3**Hive Clones**![](/images/mlbb/skills/zhask-4.webp)Ultimate**Dominator's Descent**
 
 Passive
 
 ### Decimation
 
 Upon death, Zhask summons a frenzied Nightmaric Spawn on the spot, which gradually loses HP over time until death.
-
-![](/images/mlbb/skills/zhask-1.webp)
 
 Skill 1
 
@@ -237,8 +221,6 @@ Death Ray is considered a Basic Attack but cannot Crit.
 
 **Fusion Enhanced:** Nightmaric Spawn deals 180% damage and can be repositioned.
 
-![](/images/mlbb/skills/zhask-2.webp)
-
 Skill 2
 
 ### Mind Eater
@@ -248,8 +230,6 @@ Cooldown **8 Mana Cost: 50 s**
 Zhask fires a penetrating psychic beam in the target direction, dealing 300 (+100% Total Magic Power) Magic Damage. Afterward, the Nightmaric Spawn attacks enemies hit by Mind Eater, dealing 120 (+80% Total Magic Power) Magic Damage and stunning them for 0.5s.
 
 **Fusion Enhanced:** Mind Eater damage is increased to 540 (+180% Total Magic Power).
-
-![](/images/mlbb/skills/zhask-3.webp)
 
 Skill 3
 
@@ -265,8 +245,6 @@ If the Hive Clones hit no target, they burrow into the ground to ambush passing 
 
 Subsequent damage to the same target decays to 20%.
 
-![](/images/mlbb/skills/zhask-4.webp)
-
 Ultimate
 
 ### Dominator's Descent
@@ -277,33 +255,25 @@ Zhask selects a target area to summon an enhanced Nightmaric Spawn and fuses wit
 
 **Use Again:** Zhask immediately gets off the Nightmaric Spawn and loses enhancement.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/harley.webp)Harley**+2.5**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/cyclops.webp)Cyclops**+2.3**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/natalia.webp)Natalia**+1.8**](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/johnson.webp)Johnson**+1.8**](https://boostmlbb.ru/en/heroes/johnson.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Lore
 
 > King of the Swarm who disrupts the balance of the universe.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Zhask)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=50)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Zhask)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=50)
 
 **Rank up on Zhask**The calculator shows the price
 
@@ -325,7 +295,7 @@ Mage, played in the Mid Lane.
 
 Is Zhask strong in the current meta?
 
-Tier C, #81 of 133 heroes and #19 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate.
+Tier C, #107 of 133 heroes and #27 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Zhask?
 

@@ -15,27 +15,17 @@ C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-Cruel pirate leader, Franco's sworn enemy.
-
 Win rate
 
 51.5%
-
-all ranks 51.6%
 
 Pick rate
 
 0.3%
 
-all ranks 0.3%
-
 Ban rate
 
 0.1%
-
-all ranks 0.2%
-
-#79 in the tier list · #24 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 153.0%Build 251.7%Build 350.5%
-
-### Core items
-
-![](/images/mlbb/items/3013.webp)
-
-Sea Halberd
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 2.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sea Halberd
+    Sea Halberd
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-War Axe
+    Hunter Strike
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Malefic Roar
+    War Axe
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Seasoned Hunter
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.7%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Hunter Strike
+    Sea Halberd
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Sea Halberd
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Thrill
+    Rupture
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Seasoned Hunter
+    Seasoned Hunter
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3013.webp)
+
+    Sea Halberd
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Deadly Catch**_›_**Crab Claw Cannon**_›_**Sea Ink**
 
-![](/images/mlbb/skills/bane-0.webp)Passive![](/images/mlbb/skills/bane-1.webp)Skill 1![](/images/mlbb/skills/bane-2.webp)Skill 2![](/images/mlbb/skills/bane-3.webp)Ultimate
-
-![](/images/mlbb/skills/bane-0.webp)
+![](/images/mlbb/skills/bane-0.webp)Passive**Shark Bite**![](/images/mlbb/skills/bane-1.webp)Skill 1**Crab Claw Cannon**![](/images/mlbb/skills/bane-2.webp)Skill 2**Sea Ink**![](/images/mlbb/skills/bane-3.webp)Ultimate**Deadly Catch**
 
 Passive
 
 ### Shark Bite
 
 Bane infuses his weapon with a stack of Power of Tide each time he uses a skill (up to 2 stacks). Each of his subsequent Basic Attacks consumes a stack to deal (+95% Total Physical Attack) (+ 4 (+0.4 × hero level)% target's ) Physical Damage to nearby enemies.
-
-![](/images/mlbb/skills/bane-1.webp)
 
 Skill 1
 
@@ -234,8 +218,6 @@ Cooldown **8 Mana Cost: 30 s**
 Bane fires his Crab Claw Cannon in the target direction, dealing 150 (+160% Total Physical Attack) Physical Damage to the first enemy hit and then 150% damage to a random enemy behind them (prioritizes enemy heroes). Enemies hit are slowed by 10 (+10% Total Magic Power)% for 1s.
 
 Every 100 Bane possesses reduces this skill's cooldown by an additional 8%.
-
-![](/images/mlbb/skills/bane-2.webp)
 
 Skill 2
 
@@ -249,8 +231,6 @@ Bane swallows a cup of sea ink, recovering HP equal to 200 (+150% Total Magic Po
 
 Every 100 Bane possesses reduces this skill's cooldown by an additional 7%.
 
-![](/images/mlbb/skills/bane-3.webp)
-
 Ultimate
 
 ### Deadly Catch
@@ -261,33 +241,25 @@ Bane summons a school of sharks to charge in the target direction, dealing 700 (
 
 This skill deals 40% damage to turrets.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/sora.webp)Sora**+2.4**](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/yu-zhong.webp)Yu Zhong**+2.4**](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/arlott.webp)Arlott**+2.3**](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/khaleed.webp)Khaleed**+2.1**](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Lore
 
 > Cruel pirate leader, Franco's sworn enemy.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Bane)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=11)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Bane)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=11)
 
 **Rank up on Bane**The calculator shows the price
 
@@ -309,7 +281,7 @@ Fighter and mage, played in the EXP Lane or in the jungle.
 
 Is Bane strong in the current meta?
 
-Tier C, #79 of 133 heroes and #24 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate.
+Tier C, #104 of 133 heroes and #32 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Bane?
 

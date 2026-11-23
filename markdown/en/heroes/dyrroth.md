@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
 
-Once a noble prince of the Moniyan Empire, he was abducted by Alice, the Queen of the Blood Demons, and transformed into the Prince of the Abyss.
-
 Win rate
 
 51.4%
-
-all ranks 49.3%
 
 Pick rate
 
 1.1%
 
-all ranks 1.7%
-
 Ban rate
 
 0.9%
-
-all ranks 1.7%
-
-#35 in the tier list · #10 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 156.0%Build 261.0%Build 354.3%
-
-### Core items
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/3208.webp)
-
-Brute Force Breastplate
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 1.9%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3007.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-Blade of the Heptaseas
+    War Axe
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3208.webp)
 
-Rose Gold Meteor
+    Brute Force Breastplate
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 1.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/3007.webp)
 
-War Axe
+    Blade of the Heptaseas
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/3012.webp)
+-   ![](/images/mlbb/items/3012.webp)
 
-Rose Gold Meteor
+    Rose Gold Meteor
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Thrill
+    Rupture
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Seasoned Hunter
+    Master Assassin
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Killing Spree
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.4%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/3012.webp)
+
+    Rose Gold Meteor
+
+
+#### Spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Killing Spree
+
+
 ## Skills
 
 Level-up**Abysm Strike**_›_**Burst Strike**_›_**Spectre Step**
 
-![](/images/mlbb/skills/dyrroth-0.webp)Passive![](/images/mlbb/skills/dyrroth-1.webp)Skill 1![](/images/mlbb/skills/dyrroth-2.webp)Skill 2![](/images/mlbb/skills/dyrroth-3.webp)Ultimate
-
-![](/images/mlbb/skills/dyrroth-0.webp)
+![](/images/mlbb/skills/dyrroth-0.webp)Passive**Wrath of the Abyss**![](/images/mlbb/skills/dyrroth-1.webp)Skill 1**Burst Strike**![](/images/mlbb/skills/dyrroth-2.webp)Skill 2**Spectre Step**![](/images/mlbb/skills/dyrroth-3.webp)Ultimate**Abysm Strike**
 
 Passive
 
@@ -229,8 +215,6 @@ Each time he damages an enemy, the cooldown of Burst Strike and Spectre Step is 
 
 Dyrroth recovers 2% - 5% Rage per second (scales with level).
 
-![](/images/mlbb/skills/dyrroth-1.webp)
-
 Skill 1
 
 ### Burst Strike
@@ -240,8 +224,6 @@ Cooldown **6 s**
 Dyrroth releases a burst strike in a designated direction. Each burst deals 240 (+60% Total Physical Attack) Physical Damage to enemies and slows them by 25% for 1.5s. (The damage decays against the same target and decreases to only 75% on minions.)
 
 **Abyss Enhanced:** Burst Strike has a longer range, deals 140% of the original damage, and its Slowing Effect is doubled.
-
-![](/images/mlbb/skills/dyrroth-2.webp)
 
 Skill 2
 
@@ -255,8 +237,6 @@ Dyrroth dashes in the target direction. He stops upon reaching the max distance 
 
 **Abyss Enhanced:** Fatal Strike reaches further and deals 150% of the original damage, slows the target by an extra 90%, and reduces their by 60% for 4s.
 
-![](/images/mlbb/skills/dyrroth-3.webp)
-
 Ultimate
 
 ### Abysm Strike
@@ -269,33 +249,25 @@ This skill can only be interrupted by Suppression.
 
 Damage dealt to non-hero enemies is capped at 1500.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
+[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/sun.webp)Sun**+2.0**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lolita.webp)Lolita**+1.9**](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/minotaur.webp)Minotaur**+1.9**](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/ling.webp)Ling**+1.8**](https://boostmlbb.ru/en/heroes/ling.html)
+[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
 ## Lore
 
 > Once a noble prince of the Moniyan Empire, he was abducted by Alice, the Queen of the Blood Demons, and transformed into the Prince of the Abyss.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/dyrroth)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=85)
+[Read the full story ↗](https://kazukiofficial.com/stories/dyrroth)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=85)
 
 **Rank up on Dyrroth**The calculator shows the price
 
@@ -317,7 +289,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Dyrroth strong in the current meta?
 
-Tier B, #35 of 133 heroes and #10 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 51.4% win rate.
+Tier B, #52 of 133 heroes and #15 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
 
 What is the best build for Dyrroth?
 

@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
 
-A brave girl who stands up and doesn't fear power.
-
 Win rate
 
 44.0%
-
-all ranks 44.5%
 
 Pick rate
 
 0.2%
 
-all ranks 0.1%
-
 Ban rate
 
 0.2%
-
-all ranks 0.2%
-
-#129 in the tier list · #27 among assassins · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 152.5%Build 253.1%Build 348.1%
-
-### Core items
-
-![](/images/mlbb/items/3112.webp)
-
-Flask of the Oasis
-
-![](/images/mlbb/items/2106.webp)
-
-Enchanted Talisman
-
-![](/images/mlbb/items/3108.webp)
-
-Blood Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/811.webp)
-
-Agility
-
-![](/images/mlbb/talents/121.webp)
-
-Wilderness Blessing
-
-![](/images/mlbb/talents/131.webp)
-
-Impure Rage
-
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 8.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3108.webp)
 
-Oracle
+    Blood Wings
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Quantum Charge
+    Impure Rage
 
-### Spell
-
-![](/images/mlbb/spells/20050.webp)
-
-Revitalize
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Flask of the Oasis
+    Flask of the Oasis
 
-![](/images/mlbb/items/2106.webp)
+-   ![](/images/mlbb/items/2106.webp)
 
-Enchanted Talisman
+    Enchanted Talisman
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3204.webp)
 
-Blood Wings
+    Oracle
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Agility
+    Agility
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Wilderness Blessing
+    Wilderness Blessing
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Impure Rage
+    Quantum Charge
 
-### Spell
-
-![](/images/mlbb/spells/20080.webp)
-
-Purify
 
 Win rate
 
@@ -209,21 +159,55 @@ Pick rate
 
 1.9%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Flask of the Oasis
+
+-   ![](/images/mlbb/items/2106.webp)
+
+    Enchanted Talisman
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Blood Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20080.webp)Purify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Agility
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Impure Rage
+
+
 ## Skills
 
 Level-up**Circling Eagle**_›_**Soul Bloom**_›_**Guiding Wind**
 
-![](/images/mlbb/skills/mathilda-0.webp)Passive![](/images/mlbb/skills/mathilda-1.webp)Skill 1![](/images/mlbb/skills/mathilda-2.webp)Skill 2![](/images/mlbb/skills/mathilda-3.webp)Ultimate
-
-![](/images/mlbb/skills/mathilda-0.webp)
+![](/images/mlbb/skills/mathilda-0.webp)Passive**Ancestral Guidance**![](/images/mlbb/skills/mathilda-1.webp)Skill 1**Soul Bloom**![](/images/mlbb/skills/mathilda-2.webp)Skill 2**Guiding Wind**![](/images/mlbb/skills/mathilda-3.webp)Ultimate**Circling Eagle**
 
 Passive
 
 ### Ancestral Guidance
 
 Mathilda gains Ancestral Guidance while moving. When it's fully charged, her next Basic Attack will be enhanced, dealing 200 (+100% Total Physical Attack) (+100% Total Magic Power) Magic Damage to the target and granting her 80 extra Movement Speed that decays over 2.5s.
-
-![](/images/mlbb/skills/mathilda-1.webp)
 
 Skill 1
 
@@ -234,8 +218,6 @@ Cooldown **7.5 Mana Cost: 50 s**
 Mathilda resonates with the power of her ancestors for 4s, attracting wisps as her movement distance increases (up to 6 wisps).
 
 At the end of the skill's duration, or when Mathilda casts this skill again, the wisps will seek and attack nearby enemies, each dealing 275 (+125% Total Magic Power) Magic Damage and revealing the enemies' positions briefly. Subsequent damage dealt by wisps to the same target decays to 40%.
-
-![](/images/mlbb/skills/mathilda-2.webp)
 
 Skill 2
 
@@ -249,8 +231,6 @@ When casting this skill during Circling Eagle, Mathilda won't change her positio
 
 Guiding Wind expires 2s after the hero leaves Mathilda's field.
 
-![](/images/mlbb/skills/mathilda-3.webp)
-
 Ultimate
 
 ### Circling Eagle
@@ -263,33 +243,25 @@ Within the duration, Mathilda can select an area to dash to. At the end of the d
 
 Mathilda gains Control Immunity and a 400 (+180% Total Magic Power) shield for the skill duration.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/kalea.webp)Kalea**+4.3**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/atlas.webp)Atlas**+3.4**](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Carmilla**+3.3**](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/odette.webp)Odette**+2.5**](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
 
 ## Lore
 
 > A brave girl who stands up and doesn't fear power.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Mathilda)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=102)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Mathilda)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=102)
 
 **Rank up on Mathilda**The calculator shows the price
 
@@ -311,7 +283,7 @@ Assassin and support, played on roam.
 
 Is Mathilda strong in the current meta?
 
-Tier D, #129 of 133 heroes and #27 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 44.0% win rate.
+Tier D, #129 of 133 heroes and #28 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 44.0% win rate. In professional games over the last month the hero is drafted in 2.3% of them.
 
 What is the best build for Mathilda?
 

@@ -1,6 +1,6 @@
 ---
 title: "Arlott MLBB: build, counters and skills | MLBB Boost"
-description: "Arlott in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 48.06% win rate, tier C."
+description: "Arlott in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 48.06% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Arlott
 
-C
+B
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/exp.webp)EXP Lane
-
-A demon human hybrid wielding two lances with a thirst for vengeance against both the Church and demons.
 
 Win rate
 
 48.1%
 
-all ranks 47.5%
-
 Pick rate
 
 0.7%
 
-all ranks 0.5%
-
 Ban rate
 
 0.8%
-
-all ranks 0.6%
-
-#89 in the tier list · #30 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 156.3%Build 251.9%Build 356.4%
-
-### Core items
-
-![](/images/mlbb/items/3013.webp)
-
-Sea Halberd
-
-![](/images/mlbb/items/2014.webp)
-
-Sky Piercer
-
-![](/images/mlbb/items/3001.webp)
-
-Malefic Roar
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Sky Piercer
+    Sea Halberd
 
-![](/images/mlbb/items/3013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Sea Halberd
+    Sky Piercer
 
-![](/images/mlbb/items/3001.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Malefic Roar
+    Malefic Roar
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Assassin
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 4.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-War Axe
+    Sky Piercer
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3013.webp)
 
-Dominance Ice
+    Sea Halberd
 
-![](/images/mlbb/items/3204.webp)
+-   ![](/images/mlbb/items/3001.webp)
 
-Oracle
+    Malefic Roar
 
-### Emblem
 
-![](/images/mlbb/emblems/20007.webp)
+#### Spell
 
-Fighter
+![](/images/mlbb/spells/20070.webp)Petrify
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/721.webp)
+Assassin
 
-Festival of Blood
+-   ![](/images/mlbb/talents/511.webp)
 
-![](/images/mlbb/talents/731.webp)
+    Rupture
 
-Brave Smite
+-   ![](/images/mlbb/talents/521.webp)
 
-### Spell
+    Master Assassin
 
-![](/images/mlbb/spells/20070.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Petrify
+    Lethal Ignition
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.3%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Dominance Ice
+
+-   ![](/images/mlbb/items/3204.webp)
+
+    Oracle
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/721.webp)
+
+    Festival of Blood
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Brave Smite
+
+
 ## Skills
 
 Level-up**Final Slash**_›_**Vengeance**_›_**Dauntless Strike**
 
-![](/images/mlbb/skills/arlott-0.webp)Passive![](/images/mlbb/skills/arlott-1.webp)Skill 1![](/images/mlbb/skills/arlott-2.webp)Skill 2![](/images/mlbb/skills/arlott-3.webp)Ultimate
-
-![](/images/mlbb/skills/arlott-0.webp)
+![](/images/mlbb/skills/arlott-0.webp)Passive**Demon Gaze**![](/images/mlbb/skills/arlott-1.webp)Skill 1**Dauntless Strike**![](/images/mlbb/skills/arlott-2.webp)Skill 2**Vengeance**![](/images/mlbb/skills/arlott-3.webp)Ultimate**Final Slash**
 
 Passive
 
@@ -225,8 +211,6 @@ Arlott possesses a demonic eye that will Mark enemy units near Arlott that becom
 
 The eye will also automatically Mark a nearby enemy hero in vision every 7s.
 
-![](/images/mlbb/skills/arlott-1.webp)
-
 Skill 1
 
 ### Dauntless Strike
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **8 s**
 
 Arlott swings his lance forward, dealing 200 (+60% Total Physical Attack) Physical Damage and briefly stunning targets in an area. Targets hit by the farther part of the AOE will be stunned for 1s instead.
-
-![](/images/mlbb/skills/arlott-2.webp)
 
 Skill 2
 
@@ -247,8 +229,6 @@ Arlott charges at an enemy, dealing 135 (+60% Total Physical Attack) Physical Da
 
 If Arlott's target is Marked, he gains a brief burst of Movement Speed, and this skill will deal double damage, immediately refresh its cooldown, and recover 70 (+60% Total Physical Attack) HP to Arlott (only restores 50% of that amount when used on a non-hero unit).
 
-![](/images/mlbb/skills/arlott-3.webp)
-
 Ultimate
 
 ### Final Slash
@@ -259,33 +239,25 @@ Cooldown **24 s**
 
 **Active:** Arlott cleaves forward, dealing 400 (+80% Total Physical Attack) Physical Damage to enemies in the area, knocking them back to the edge of the swing, and briefly revealing their location (can only be interrupted by Suppression).
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
+[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/chip.webp)Chip**+5.5**](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/bane.webp)Bane**+2.3**](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/aulus.webp)Aulus**+2.2**](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/alice.webp)Alice**+2.0**](https://boostmlbb.ru/en/heroes/alice.html)
+[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)
 
 ## Lore
 
 > A demon human hybrid wielding two lances with a thirst for vengeance against both the Church and demons.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Arlott)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=120)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Arlott)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=120)
 
 **Rank up on Arlott**The calculator shows the price
 
@@ -307,7 +279,7 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Arlott strong in the current meta?
 
-Tier C, #89 of 133 heroes and #30 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 48.1% win rate.
+Tier B, #63 of 133 heroes and #18 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 48.1% win rate. In professional games over the last month the hero is drafted in 12.5% of them.
 
 What is the best build for Arlott?
 

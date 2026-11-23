@@ -1,6 +1,6 @@
 ---
 title: "Иритель MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Иритель в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 53,38% побед, тир B."
+description: "Иритель в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 53,38% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/irithel.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Иритель
 
-B
+C
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
-
-Рыжеволосая эльфийка, которая живет и сражается бок о бок со своим компаньоном Лео.
 
 Победы
 
 53,4%
 
-все ранги 52,7%
-
 Выбор
 
 0,5%
 
-все ранги 0,4%
-
 Баны
 
 0,1%
-
-все ранги 0,3%
-
-№47 в тир-листе · №7 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 158,8%Сборка 258,9%Сборка 358,1%
-
-### Предметы
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/3002.webp)
-
-Когти Хааса
-
-![](/images/mlbb/items/3003.webp)
-
-Ярость берсерка
-
-### Эмблема
-
-![](/images/mlbb/emblems/20005.webp)
-
-Эмблема убийцы
-
-![](/images/mlbb/talents/1211.webp)
-
-Фатальность
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/132.webp)
-
-Квантовый заряд
-
-### Заклинание
-
-![](/images/mlbb/spells/20040.webp)
-
-Спринт
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 20,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Ярость берсерка
+    Ярость берсерка
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20040.webp)Спринт
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20080.webp)
-
-Очищение
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 5,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3003.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Ярость берсерка
+    Когти Хааса
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3003.webp)
 
-Когти Хааса
+    Ярость берсерка
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20080.webp)Очищение
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20005.webp)
 
 Эмблема убийцы
 
-![](/images/mlbb/talents/1211.webp)
+-   ![](/images/mlbb/talents/1211.webp)
 
-Фатальность
+    Фатальность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20040.webp)
-
-Спринт
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 2,2%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    Говорящий с ветром
+
+-   ![](/images/mlbb/items/3003.webp)
+
+    Ярость берсерка
+
+-   ![](/images/mlbb/items/3002.webp)
+
+    Когти Хааса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20040.webp)Спринт
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+-   ![](/images/mlbb/talents/1211.webp)
+
+    Фатальность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Тяжелый арбалет**_›_**Стрельба на ходу**_›_**Сила королевы**
 
-![](/images/mlbb/skills/irithel-0.webp)Пассивный![](/images/mlbb/skills/irithel-1.webp)1-й навык![](/images/mlbb/skills/irithel-2.webp)2-й навык![](/images/mlbb/skills/irithel-3.webp)Ультимейт
-
-![](/images/mlbb/skills/irithel-0.webp)
+![](/images/mlbb/skills/irithel-0.webp)Пассивный**Сердце джунглей**![](/images/mlbb/skills/irithel-1.webp)1-й навык**Стрельба на ходу**![](/images/mlbb/skills/irithel-2.webp)2-й навык**Сила королевы**![](/images/mlbb/skills/irithel-3.webp)Ультимейт**Тяжелый арбалет**
 
 Пассивный
 
@@ -225,8 +211,6 @@ B
 
 Передвижение накапливает "Сердце джунглей" (максимально до 10 единиц расстояния), что позволяет при следующей базовой атаке выпустить 1 дополнительную стрелу.
 
-![](/images/mlbb/skills/irithel-1.webp)
-
 1-й навык
 
 ### Стрельба на ходу
@@ -235,8 +219,6 @@ B
 
 Иритель выпускает град стрел в определенную область, нанося 330 (+60% общей физической атаки) единиц физического урона врагам в области и уменьшая их на 15 на 3 сек.
 
-![](/images/mlbb/skills/irithel-2.webp)
-
 2-й навык
 
 ### Сила королевы
@@ -244,8 +226,6 @@ B
 Перезарядка **10 с**
 
 Лео издает громкий рык, нанося 200 (+60% общей физической атаки) единиц физического урона ближайшим врагам и замедляя их на 40% на 2 сек.
-
-![](/images/mlbb/skills/irithel-3.webp)
 
 Ультимейт
 
@@ -257,33 +237,25 @@ B
 
 В это время она получает 30 скорости передвижения, быстрее накапливает "Сердце джунглей", а ее базовые атаки выпускают тяжелые болты, наносящие 100 (+65% общей физической атаки) единиц физического урона цели и ближайшим бойцам.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
+[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+2,8**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/angela.webp)Ангела**+1,3**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа**+1,0**](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Роджер**+0,9**](https://boostmlbb.ru/heroes/roger.html)
+[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
 
 ## История
 
 > Рыжеволосая эльфийка, которая живет и сражается бок о бок со своим компаньоном Лео.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/irithel)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=43)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/irithel)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=43)
 
 **Поднимем ранг на герое «Иритель»**Цена считается в калькуляторе
 
@@ -305,7 +277,7 @@ B
 
 Силён ли герой «Иритель» в текущей мете?
 
-Тир B, 47-е место из 133 героев и 7-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 53,4% побед.
+Тир C, 78-е место из 133 героев и 15-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 53,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Иритель» лучшая?
 

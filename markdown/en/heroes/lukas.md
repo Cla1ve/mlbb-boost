@@ -1,6 +1,6 @@
 ---
 title: "Lukas MLBB: build, counters and skills | MLBB Boost"
-description: "Lukas in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.87% win rate, tier S."
+description: "Lukas in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.87% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/lukas.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Lukas
 
-S
+A
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
-
-A legendary Sacred Beast that can take the form of a rambunctious young man.
 
 Win rate
 
 50.9%
 
-all ranks 52.0%
-
 Pick rate
 
 0.9%
 
-all ranks 0.8%
-
 Ban rate
 
 33.4%
-
-all ranks 32.4%
-
-#13 in the tier list · #4 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 155.4%Build 262.5%Build 354.2%
-
-### Core items
-
-![](/images/mlbb/items/3009.webp)
-
-Hunter Strike
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-![](/images/mlbb/items/2208.webp)
-
-Queen's Wings
-
-### Emblem
-
-![](/images/mlbb/emblems/20005.webp)
-
-Assassin
-
-![](/images/mlbb/talents/111.webp)
-
-Thrill
-
-![](/images/mlbb/talents/122.webp)
-
-Seasoned Hunter
-
-![](/images/mlbb/talents/134.webp)
-
-Temporal Reign
-
-### Spell
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 4.2%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
 
-![](/images/mlbb/emblems/20007.webp)
+#### Spell
 
-Fighter
+![](/images/mlbb/spells/20190.webp)Vengeance
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20005.webp)
 
-![](/images/mlbb/talents/721.webp)
+Assassin
 
-Festival of Blood
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/134.webp)
+    Thrill
 
-Temporal Reign
+-   ![](/images/mlbb/talents/122.webp)
 
-### Spell
+    Seasoned Hunter
 
-![](/images/mlbb/spells/20190.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Vengeance
+    Temporal Reign
+
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.8%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3009.webp)
+-   ![](/images/mlbb/items/3009.webp)
 
-Hunter Strike
+    Hunter Strike
 
-![](/images/mlbb/items/2013.webp)
+-   ![](/images/mlbb/items/2013.webp)
 
-War Axe
+    War Axe
 
-![](/images/mlbb/items/2208.webp)
+-   ![](/images/mlbb/items/2208.webp)
 
-Queen's Wings
+    Queen's Wings
 
-### Emblem
 
-![](/images/mlbb/emblems/20005.webp)
+#### Spell
 
-Assassin
+![](/images/mlbb/spells/20190.webp)Vengeance
 
-![](/images/mlbb/talents/111.webp)
+#### Emblem and talents
 
-Thrill
+![](/images/mlbb/emblems/20007.webp)
 
-![](/images/mlbb/talents/122.webp)
+Fighter
 
-Seasoned Hunter
+-   ![](/images/mlbb/talents/111.webp)
 
-![](/images/mlbb/talents/134.webp)
+    Thrill
 
-Temporal Reign
+-   ![](/images/mlbb/talents/721.webp)
 
-### Spell
+    Festival of Blood
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/134.webp)
 
-Flicker
+    Temporal Reign
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 2.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    Hunter Strike
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    War Axe
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    Queen's Wings
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/122.webp)
+
+    Seasoned Hunter
+
+-   ![](/images/mlbb/talents/134.webp)
+
+    Temporal Reign
+
+
 ## Skills
 
 Level-up**Unleash the Beast**_›_**Flash Combo**_›_**Flash Step**
 
-![](/images/mlbb/skills/lukas-0.webp)Passive![](/images/mlbb/skills/lukas-1.webp)Skill 1![](/images/mlbb/skills/lukas-2.webp)Skill 2![](/images/mlbb/skills/lukas-3.webp)Ultimate
-
-![](/images/mlbb/skills/lukas-0.webp)
+![](/images/mlbb/skills/lukas-0.webp)Passive**Hero's Resolve**![](/images/mlbb/skills/lukas-1.webp)Skill 1**Flash Combo**![](/images/mlbb/skills/lukas-2.webp)Skill 2**Flash Step**![](/images/mlbb/skills/lukas-3.webp)Ultimate**Unleash the Beast**
 
 Passive
 
@@ -226,8 +212,6 @@ Lukas gains 0.5 Resolve per second and 3.5 Resolve when dealing damage to heroes
 Upon reaching 100 Resolve, he can use Unleash the Beast to transform into Sacred Beast.
 
 **Sacred Beast:** Greatly increases combat attributes. He continuously consumes Resolve and ends when Resolve is depleted.
-
-![](/images/mlbb/skills/lukas-1.webp)
 
 Skill 1
 
@@ -243,8 +227,6 @@ Lukas consumes all Vigor to unleash Pulverize, dealing 400 (+60% Total Physical 
 
 **2 Stacks:** Lukas briefly stuns the target, then delivers 2 attacks dealing 50 (+20% Total Physical Attack) Physical Damage each. Afterward, he spins his tonfa hammers, dealing 95 (+25% Total Physical Attack) Physical Damage 3 times while gaining Control Immunity for the duration.
 
-![](/images/mlbb/skills/lukas-2.webp)
-
 Skill 2
 
 ### Flash Step
@@ -254,8 +236,6 @@ Cooldown **12 s**
 Lukas dashes in the target direction, empowering his next Basic Attack within 4s into Flash Strike.
 
 **Flash Strike:** Lukas dashes behind the enemy, dealing 60 (+125% Total Physical Attack) Physical Damage. He then gains 20% Movement Speed and Attack Speed for 4s. During this time, his next Basic Attack gains increased Attack Range and triggers a sacred lightning that deals 110 (+50% Total Physical Attack) extra Physical Damage.
-
-![](/images/mlbb/skills/lukas-3.webp)
 
 Ultimate
 
@@ -267,33 +247,25 @@ Ultimate
 
 **All attributes:** , , , , Attack Speed, and Attack Range.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/floryn.webp)Floryn**+1.9**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.7**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere**+1.7**](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/phoveus.webp)Phoveus**+1.6**](https://boostmlbb.ru/en/heroes/phoveus.html)
+[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Lore
 
 > A legendary Sacred Beast that can take the form of a rambunctious young man.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/lukas)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=127)
+[Read the full story ↗](https://kazukiofficial.com/stories/lukas)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=127)
 
 **Rank up on Lukas**The calculator shows the price
 
@@ -315,7 +287,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Lukas strong in the current meta?
 
-Tier S, #13 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 33.4% of matches, 50.9% win rate.
+Tier A, #25 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 33.4% of matches, 50.9% win rate. In professional games over the last month the hero is drafted in 2.9% of them.
 
 What is the best build for Lukas?
 

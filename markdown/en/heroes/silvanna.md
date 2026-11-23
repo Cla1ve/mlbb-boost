@@ -1,6 +1,6 @@
 ---
 title: "Silvanna MLBB: build, counters and skills | MLBB Boost"
-description: "Silvanna in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.25% win rate, tier B."
+description: "Silvanna in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.25% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/silvanna.html
 language: en
 ---
@@ -11,31 +11,21 @@ language: en
 
 # Silvanna
 
-B
+C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
-
-Princess of the Moniyan Empire and queen regent.
 
 Win rate
 
 50.3%
 
-all ranks 51.4%
-
 Pick rate
 
 0.6%
 
-all ranks 1.0%
-
 Ban rate
 
 0.7%
-
-all ranks 2.0%
-
-#65 in the tier list · #19 among fighters · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)
 
 ## Build
 
-EXP Lane · from ranked matches
-
-Build 156.9%Build 256.6%Build 357.4%
-
-### Core items
-
-![](/images/mlbb/items/3111.webp)
-
-Genius Wand
-
-![](/images/mlbb/items/2108.webp)
-
-Feather of Heaven
-
-![](/images/mlbb/items/3103.webp)
-
-Concentrated Energy
-
-### Emblem
-
-![](/images/mlbb/emblems/20006.webp)
-
-Mage
-
-![](/images/mlbb/talents/511.webp)
-
-Rupture
-
-![](/images/mlbb/talents/521.webp)
-
-Master Assassin
-
-![](/images/mlbb/talents/631.webp)
-
-Lethal Ignition
-
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 3.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Genius Wand
+    Genius Wand
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Feather of Heaven
+    Feather of Heaven
 
-![](/images/mlbb/items/2107.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Winter Crown
+    Concentrated Energy
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/511.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Rupture
+    Rupture
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 3.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/2108.webp)
+-   ![](/images/mlbb/items/3111.webp)
 
-Feather of Heaven
+    Genius Wand
 
-![](/images/mlbb/items/3111.webp)
+-   ![](/images/mlbb/items/2108.webp)
 
-Genius Wand
+    Feather of Heaven
 
-![](/images/mlbb/items/3103.webp)
+-   ![](/images/mlbb/items/2107.webp)
 
-Concentrated Energy
+    Winter Crown
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Mage
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/511.webp)
 
-Thrill
+    Rupture
 
-![](/images/mlbb/talents/521.webp)
+-   ![](/images/mlbb/talents/521.webp)
 
-Master Assassin
+    Master Assassin
 
-![](/images/mlbb/talents/631.webp)
+-   ![](/images/mlbb/talents/631.webp)
 
-Lethal Ignition
+    Lethal Ignition
 
-### Spell
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.6%
 
+#### Core items
+
+-   ![](/images/mlbb/items/2108.webp)
+
+    Feather of Heaven
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    Genius Wand
+
+-   ![](/images/mlbb/items/3103.webp)
+
+    Concentrated Energy
+
+
+#### Spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Thrill
+
+-   ![](/images/mlbb/talents/521.webp)
+
+    Master Assassin
+
+-   ![](/images/mlbb/talents/631.webp)
+
+    Lethal Ignition
+
+
 ## Skills
 
 Level-up**Imperial Justice**_›_**Spiral Strangling**_›_**Cometic Lance**
 
-![](/images/mlbb/skills/silvanna-0.webp)Passive![](/images/mlbb/skills/silvanna-1.webp)Skill 1![](/images/mlbb/skills/silvanna-2.webp)Skill 2![](/images/mlbb/skills/silvanna-3.webp)Ultimate
-
-![](/images/mlbb/skills/silvanna-0.webp)
+![](/images/mlbb/skills/silvanna-0.webp)Passive**Knightess' Resolve**![](/images/mlbb/skills/silvanna-1.webp)Skill 1**Cometic Lance**![](/images/mlbb/skills/silvanna-2.webp)Skill 2**Spiral Strangling**![](/images/mlbb/skills/silvanna-3.webp)Ultimate**Imperial Justice**
 
 Passive
 
@@ -227,8 +213,6 @@ Silvanna's attacks apply a mark on enemy heroes for 5s on hit, each mark reducin
 
 Silvanna's skills and Basic Attacks deal 30% extra damage to enemy heroes with the max number of marks.
 
-![](/images/mlbb/skills/silvanna-1.webp)
-
 Skill 1
 
 ### Cometic Lance
@@ -236,8 +220,6 @@ Skill 1
 Cooldown **11 Mana Cost: 70 s**
 
 Silvanna dashes forward. Upon reaching the max range or hitting a non-Minion enemy, she swings her lance, dealing 250 (+100% Total Magic Power) Magic Damage to nearby enemies and stunning them for 1s.
-
-![](/images/mlbb/skills/silvanna-2.webp)
 
 Skill 2
 
@@ -251,8 +233,6 @@ The skill deals only 50% damage against Minions.
 
 Spiral Strangling counts as a Basic Attack but cannot Crit.
 
-![](/images/mlbb/skills/silvanna-3.webp)
-
 Ultimate
 
 ### Imperial Justice
@@ -263,33 +243,25 @@ Silvanna leaps to the target location and creates a Circle of Light upon landing
 
 Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/hilda.webp)Hilda**+2.6**](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/belerick.webp)Belerick**+2.2**](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/hylos.webp)Hylos**+2.2**](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/lolita.webp)Lolita**+2.0**](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
 ## Lore
 
 > Princess of the Moniyan Empire and queen regent.
 
-[Read the full story ↗](https://kazukiofficial.com/stories/silvanna)Kazuki Official
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=90)
+[Read the full story ↗](https://kazukiofficial.com/stories/silvanna)Kazuki Official [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=90)
 
 **Rank up on Silvanna**The calculator shows the price
 
@@ -311,7 +283,7 @@ Fighter, played in the EXP Lane.
 
 Is Silvanna strong in the current meta?
 
-Tier B, #65 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 50.3% win rate.
+Tier C, #85 of 133 heroes and #26 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 50.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Silvanna?
 

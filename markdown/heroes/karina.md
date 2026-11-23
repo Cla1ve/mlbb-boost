@@ -15,27 +15,17 @@ B
 
 ![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
 
-Убийца из племени темных эльфов, которая пытается спасти свою сестру Селену.
-
 Победы
 
 49,2%
-
-все ранги 48,6%
 
 Выбор
 
 0,9%
 
-все ранги 0,9%
-
 Баны
 
 4,4%
-
-все ранги 4,5%
-
-№53 в тир-листе · №10 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ## Сборка
 
-Лес · по данным рейтинговых матчей
-
-Сборка 157,7%Сборка 256,7%Сборка 357,0%
-
-### Предметы
-
-![](/images/mlbb/items/3106.webp)
-
-Старлиумовая коса
-
-![](/images/mlbb/items/3102.webp)
-
-Священный кристалл
-
-![](/images/mlbb/items/3103.webp)
-
-Концентрированная энергия
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/111.webp)
-
-Трепет
-
-![](/images/mlbb/talents/1221.webp)
-
-Мастер оружий
-
-![](/images/mlbb/talents/531.webp)
-
-Убийственный пир
-
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ B
 
 4,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Пронзающий небеса
+    Старлиумовая коса
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Старлиумовая коса
+    Священный кристалл
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3103.webp)
 
-Священный кристалл
+    Концентрированная энергия
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/122.webp)
+-   ![](/images/mlbb/talents/1221.webp)
 
-Опытный охотник
+    Мастер оружий
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -163,43 +113,43 @@ B
 
 3,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-![](/images/mlbb/items/3106.webp)
+-   ![](/images/mlbb/items/3106.webp)
 
-Старлиумовая коса
+    Старлиумовая коса
 
-![](/images/mlbb/items/3102.webp)
+-   ![](/images/mlbb/items/3102.webp)
 
-Священный кристалл
+    Священный кристалл
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/111.webp)
+-   ![](/images/mlbb/talents/111.webp)
 
-Трепет
+    Трепет
 
-![](/images/mlbb/talents/1221.webp)
+-   ![](/images/mlbb/talents/122.webp)
 
-Мастер оружий
+    Опытный охотник
 
-![](/images/mlbb/talents/531.webp)
+-   ![](/images/mlbb/talents/531.webp)
 
-Убийственный пир
+    Убийственный пир
 
-### Заклинание
-
-![](/images/mlbb/spells/20020.webp)
-
-Возмездие
 
 Победы
 
@@ -209,13 +159,49 @@ B
 
 2,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/3106.webp)
+
+    Старлиумовая коса
+
+-   ![](/images/mlbb/items/3102.webp)
+
+    Священный кристалл
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20020.webp)Возмездие
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/111.webp)
+
+    Трепет
+
+-   ![](/images/mlbb/talents/1221.webp)
+
+    Мастер оружий
+
+-   ![](/images/mlbb/talents/531.webp)
+
+    Убийственный пир
+
+
 ## Навыки
 
 Прокачка**Теневая атака**_›_**Танец смерти**_›_**Танец клинков**
 
-![](/images/mlbb/skills/karina-0.webp)Пассивный![](/images/mlbb/skills/karina-1.webp)1-й навык![](/images/mlbb/skills/karina-2.webp)2-й навык![](/images/mlbb/skills/karina-3.webp)Ультимейт
-
-![](/images/mlbb/skills/karina-0.webp)
+![](/images/mlbb/skills/karina-0.webp)Пассивный**Теневое комбо**![](/images/mlbb/skills/karina-1.webp)1-й навык**Танец клинков**![](/images/mlbb/skills/karina-2.webp)2-й навык**Танец смерти**![](/images/mlbb/skills/karina-3.webp)Ультимейт**Теневая атака**
 
 Пассивный
 
@@ -226,8 +212,6 @@ B
 Если целью является вражеский герой, эта атака также сокращает перезарядку ее навыков (кроме ультимейта) на 1.5 сек.
 
 Урон по монстрам ограничен 2000 ед. чистого урона.
-
-![](/images/mlbb/skills/karina-1.webp)
 
 1-й навык
 
@@ -241,8 +225,6 @@ B
 
 Применение базовой атаки или "Теневой атаки" прерывает состояние "Танца клинков", усиливая следующую базовую атаку Карины, которая наносит 160 (+60% общей магической силы) единиц критического магического урона и замедляет цель на 45% на 1 сек.
 
-![](/images/mlbb/skills/karina-2.webp)
-
 2-й навык
 
 ### Танец смерти
@@ -250,8 +232,6 @@ B
 Перезарядка **6 Mana Cost: 60 с**
 
 Карина совершает круговой удар, нанося 375 (+125% общей магической силы) единиц магического урона ближайшим врагам.
-
-![](/images/mlbb/skills/karina-3.webp)
 
 Ультимейт
 
@@ -265,33 +245,25 @@ B
 
 **Повторное использование:** Карина быстро перемещается к "Теневой форме", нанося 150 (+50% общей магической силы) единиц магического урона врагам на пути.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/chip.webp)Чип**+2,3**](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/benedetta.webp)Бенедетта**+1,5**](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/wanwan.webp)Ванван**+1,1**](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/zetian.webp)Цзэтянь**+1,0**](https://boostmlbb.ru/heroes/zetian.html)
+[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## История
 
 > Убийца из племени темных эльфов, которая пытается спасти свою сестру Селену.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Karina)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=8)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Karina)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=8)
 
 **Поднимем ранг на герое «Карина»**Цена считается в калькуляторе
 
@@ -313,7 +285,7 @@ B
 
 Силён ли герой «Карина» в текущей мете?
 
-Тир B, 53-е место из 133 героев и 10-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,4% матчей, 49,2% побед.
+Тир B, 66-е место из 133 героев и 15-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 4,4% матчей, 49,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Карина» лучшая?
 

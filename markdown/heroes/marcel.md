@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/support.webp)Поддержка![](/images/mlbb/filters/roam.webp)Роум
 
-Родом из дома Пэксли, он — элегантный, таинственный и причудливый художник, чья расколотая душа слилась с камерой.
-
 Победы
 
 57,1%
-
-все ранги 57,5%
 
 Выбор
 
 0,4%
 
-все ранги 0,3%
-
 Баны
 
 70,2%
-
-все ранги 41,3%
-
-№2 в тир-листе · №1 среди героев поддержки · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие герои поддержки этой линии
 
-[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 164,6%Сборка 257,9%Сборка 364,1%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3112.webp)
-
-Фляга Оазиса
-
-### Эмблема
-
-![](/images/mlbb/emblems/20008.webp)
-
-Эмблема поддержки
-
-![](/images/mlbb/talents/811.webp)
-
-Ловкость
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/331.webp)
-
-Ударная волна
-
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 11,7%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Квантовый заряд
+    Ударная волна
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 10,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2212.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Штормовой пояс
+    Штормовой пояс
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Господство льда
+    Господство льда
 
-![](/images/mlbb/items/3112.webp)
+-   ![](/images/mlbb/items/3112.webp)
 
-Фляга Оазиса
+    Фляга Оазиса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Эмблема поддержки
 
-![](/images/mlbb/talents/811.webp)
+-   ![](/images/mlbb/talents/811.webp)
 
-Ловкость
+    Ловкость
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Благословение природы
+    Благословение природы
 
-![](/images/mlbb/talents/132.webp)
+-   ![](/images/mlbb/talents/132.webp)
 
-Квантовый заряд
+    Квантовый заряд
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 9,3%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    Штормовой пояс
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+-   ![](/images/mlbb/items/3112.webp)
+
+    Фляга Оазиса
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20008.webp)
+
+Эмблема поддержки
+
+-   ![](/images/mlbb/talents/811.webp)
+
+    Ловкость
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/132.webp)
+
+    Квантовый заряд
+
+
 ## Навыки
 
 Прокачка**Золотой час**_›_**Запечатлеть момент**_›_**Сопровождающая съемка**
 
-![](/images/mlbb/skills/marcel-0.webp)Пассивный![](/images/mlbb/skills/marcel-1.webp)1-й навык![](/images/mlbb/skills/marcel-2.webp)2-й навык![](/images/mlbb/skills/marcel-3.webp)Ультимейт
-
-![](/images/mlbb/skills/marcel-0.webp)
+![](/images/mlbb/skills/marcel-0.webp)Пассивный**Редкий снимок**![](/images/mlbb/skills/marcel-1.webp)1-й навык**Запечатлеть момент**![](/images/mlbb/skills/marcel-2.webp)2-й навык**Сопровождающая съемка**![](/images/mlbb/skills/marcel-3.webp)Ультимейт**Золотой час**
 
 Пассивный
 
@@ -224,8 +210,6 @@ S
 Отделившаяся душа Марселя, Клемар, входит в камеру, чтобы запечатлеть момент. Его базовые атаки наносят 50 (+40% общей физической атаки)(+40% общей магической защиты)(+40% общей физической защиты) единиц физического урона. Его дополнительные преобразуются в 1.5% .
 
 Клемар автоматически делает снимки вражеских героев рядом с Марселем, вызывая краткую заморозку и нанося 20 (+5% от ) ед. чистого урона (активирует эффекты атаки). Он также дает щит той же величины Марселю и ближайшему союзному герою. Перезарядка: 12 сек. для каждой цели.
-
-![](/images/mlbb/skills/marcel-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ S
 
 Через 2.5 сек. он делает снимок, нанося 300 (+50% общей физической атаки)(+120% общей магической защиты)(+120% общей физической защиты) единиц физического урона врагам внутри.
 
-![](/images/mlbb/skills/marcel-2.webp)
-
 2-й навык
 
 ### Сопровождающая съемка
@@ -248,8 +230,6 @@ S
 Время вдохновения художника! Марсель входит в состояние "Быстрого преследования" на 3 сек., получая 15% скорости передвижения. Бонус увеличивается до 75% при движении к вражескому герою.
 
 **Повторное использование:** Марсель совершает рывок в указанном направлении, оставляя позади фантом кадра, в то время как область навыка "Запечатлеть момент" остается в исходном месте.
-
-![](/images/mlbb/skills/marcel-3.webp)
 
 Ультимейт
 
@@ -263,33 +243,25 @@ S
 
 Союзные герои со щитом "Редкого снимка" могут свободно перемещаться в пределах области.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/kalea.webp)Калеа**+5,6**](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/saber.webp)Сабер**+4,5**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/atlas.webp)Атлас**+2,8**](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Кармилла**+2,8**](https://boostmlbb.ru/heroes/carmilla.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
 
 ## История
 
 > Родом из дома Пэксли, он — элегантный, таинственный и причудливый художник, чья расколотая душа слилась с камерой.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/marcel)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=132)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/marcel)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=132)
 
 **Поднимем ранг на герое «Марсель»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ S
 
 Силён ли герой «Марсель» в текущей мете?
 
-Тир S, 2-е место из 133 героев и 1-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 70,2% матчей, 57,1% побед.
+Тир S, 2-е место из 133 героев и 1-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 70,2% матчей, 57,1% побед. В профессиональных матчах за месяц героя драфтуют в 87,7% катков.
 
 Какая сборка на героя «Марсель» лучшая?
 

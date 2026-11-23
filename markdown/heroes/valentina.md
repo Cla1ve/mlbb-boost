@@ -1,6 +1,6 @@
 ---
 title: "Валентина MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Валентина в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 44,78% побед, тир D."
+description: "Валентина в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 44,78% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/valentina.html
 language: ru
 ---
@@ -11,31 +11,21 @@ language: ru
 
 # Валентина
 
-D
+B
 
 ![](/images/mlbb/filters/mage.webp)Маг![](/images/mlbb/filters/mid.webp)Средняя линия
-
-Прежняя глава Дома Пэксли, которая не остановится ни перед чем, чтобы вернуть своего возлюбленного.
 
 Победы
 
 44,8%
 
-все ранги 44,7%
-
 Выбор
 
 0,2%
 
-все ранги 0,2%
-
 Баны
 
 0,1%
-
-все ранги 0,2%
-
-№128 в тир-листе · №32 среди магов · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ D
 
 ### Другие маги этой линии
 
-[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)
+[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
 ## Сборка
 
-Средняя линия · по данным рейтинговых матчей
-
-Сборка 151,0%Сборка 249,2%Сборка 352,7%
-
-### Предметы
-
-![](/images/mlbb/items/3105.webp)
-
-Пылающий жезл
-
-![](/images/mlbb/items/3110.webp)
-
-Жезл молний
-
-![](/images/mlbb/items/3101.webp)
-
-Божественный меч
-
-### Эмблема
-
-![](/images/mlbb/emblems/20006.webp)
-
-Эмблема мага
-
-![](/images/mlbb/talents/611.webp)
-
-Вдохновение
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/131.webp)
-
-Нечестивая ярость
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ D
 
 7,8%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3101.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Божественный меч
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Охотник за скидками
+    Благословение природы
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -163,43 +113,43 @@ D
 
 5,6%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3105.webp)
+-   ![](/images/mlbb/items/3105.webp)
 
-Пылающий жезл
+    Пылающий жезл
 
-![](/images/mlbb/items/3110.webp)
+-   ![](/images/mlbb/items/3110.webp)
 
-Жезл молний
+    Жезл молний
 
-![](/images/mlbb/items/3108.webp)
+-   ![](/images/mlbb/items/3101.webp)
 
-Кровавые крылья
+    Божественный меч
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20006.webp)
 
 Эмблема мага
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Вдохновение
+    Вдохновение
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Благословение природы
+    Охотник за скидками
 
-![](/images/mlbb/talents/131.webp)
+-   ![](/images/mlbb/talents/131.webp)
 
-Нечестивая ярость
+    Нечестивая ярость
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ D
 
 4,8%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    Пылающий жезл
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    Жезл молний
+
+-   ![](/images/mlbb/items/3108.webp)
+
+    Кровавые крылья
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20006.webp)
+
+Эмблема мага
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Вдохновение
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Благословение природы
+
+-   ![](/images/mlbb/talents/131.webp)
+
+    Нечестивая ярость
+
+
 ## Навыки
 
 Прокачка**Я — это ты**_›_**Теневой удар**_›_**Чародейская тень**
 
-![](/images/mlbb/skills/valentina-0.webp)Пассивный![](/images/mlbb/skills/valentina-1.webp)1-й навык![](/images/mlbb/skills/valentina-2.webp)2-й навык![](/images/mlbb/skills/valentina-3.webp)Ультимейт
-
-![](/images/mlbb/skills/valentina-0.webp)
+![](/images/mlbb/skills/valentina-0.webp)Пассивный**Первобытная сила**![](/images/mlbb/skills/valentina-1.webp)1-й навык**Теневой удар**![](/images/mlbb/skills/valentina-2.webp)2-й навык**Чародейская тень**![](/images/mlbb/skills/valentina-3.webp)Ультимейт**Я — это ты**
 
 Пассивный
 
@@ -224,8 +210,6 @@ D
 Валентина получает 8-50 дополнительного опыта (зависит от уровня) каждый раз, когда она наносит урон вражескому герою. Перезарядка: 2 сек.
 
 Если уровень вражеского героя не превышает ее уровень, 30% нанесенного урона преобразуется в ее ОЗ.
-
-![](/images/mlbb/skills/valentina-1.webp)
 
 1-й навык
 
@@ -237,8 +221,6 @@ D
 
 Пораженные вражеские герои получают метку "Теневой знак" на 4 сек. Враги с меткой, снова пораженные "Теневым ударом", повергаются в ужас на 1 сек. (цель можно повергнуть в ужас только один раз кажд. 4 сек.).
 
-![](/images/mlbb/skills/valentina-2.webp)
-
 2-й навык
 
 ### Чародейская тень
@@ -248,8 +230,6 @@ D
 Валентина бросается в указанном направлении, атакуя ближайших врагов 3 теневыми выстрелами, каждый из которых наносит 90 (+30% общей магической силы) единиц магического урона. Она может использовать этот навык снова в течение 6 сек. (тратится мана).
 
 Каждый раз, когда теневой выстрел поражает врага, перезарядка "Теневого удара" сокращается на 1 сек.
-
-![](/images/mlbb/skills/valentina-3.webp)
 
 Ультимейт
 
@@ -263,33 +243,25 @@ D
 
 Если цель является героем с физическим уроном, Валентина получает (+100% общей магической силы) на время действия. Это нельзя использовать на вражеской Валентине.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zhuxin.webp)Чжусинь**+7,9**](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/yve.webp)Ив**+5,6**](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/granger.webp)Грейнджер**+2,9**](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/lylia.webp)Лилия**+2,4**](https://boostmlbb.ru/heroes/lylia.html)
+[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
 > Прежняя глава Дома Пэксли, которая не остановится ни перед чем, чтобы вернуть своего возлюбленного.
 
-[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Valentina)Официальный сайт Mobile Legends
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=110)
+[Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Valentina)Официальный сайт Mobile Legends [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=110)
 
 **Поднимем ранг на герое «Валентина»**Цена считается в калькуляторе
 
@@ -311,7 +283,7 @@ D
 
 Силён ли герой «Валентина» в текущей мете?
 
-Тир D, 128-е место из 133 героев и 32-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 44,8% побед.
+Тир B, 55-е место из 133 героев и 13-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 44,8% побед. В профессиональных матчах за месяц героя драфтуют в 32,8% катков.
 
 Какая сборка на героя «Валентина» лучшая?
 

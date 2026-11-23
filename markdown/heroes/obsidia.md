@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/marksman.webp)Стрелок![](/images/mlbb/filters/gold.webp)Линия золота
 
-Древняя Владычица Бездны, возродившаяся из останков, жаждет сразить Бога тьмы и истребить его Порождения разложения.
-
 Победы
 
 52,6%
-
-все ранги 53,2%
 
 Выбор
 
 2,4%
 
-все ранги 2,2%
-
 Баны
 
 64,8%
-
-все ранги 48,5%
-
-№3 в тир-листе · №1 среди стрелков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие стрелки этой линии
 
-[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## Сборка
 
-Линия золота · по данным рейтинговых матчей
-
-Сборка 155,3%Сборка 257,8%Сборка 357,6%
-
-### Предметы
-
-![](/images/mlbb/items/3005.webp)
-
-Говорящий с ветром
-
-![](/images/mlbb/items/3002.webp)
-
-Когти Хааса
-
-![](/images/mlbb/items/2014.webp)
-
-Пронзающий небеса
-
-### Эмблема
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/talents/112.webp)
-
-Проворность
-
-![](/images/mlbb/talents/621.webp)
-
-Охотник за скидками
-
-![](/images/mlbb/talents/1231.webp)
-
-Точно в цель
-
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 6,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3005.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Говорящий с ветром
+    Говорящий с ветром
 
-![](/images/mlbb/items/3002.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Когти Хааса
+    Когти Хааса
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Пронзающий небеса
+    Пронзающий небеса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20060.webp)
-
-Эгида
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 4,4%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/2008.webp)
+-   ![](/images/mlbb/items/3005.webp)
 
-Коса коррозии
+    Говорящий с ветром
 
-![](/images/mlbb/items/2014.webp)
+-   ![](/images/mlbb/items/3002.webp)
 
-Пронзающий небеса
+    Когти Хааса
 
-![](/images/mlbb/items/2006.webp)
+-   ![](/images/mlbb/items/2014.webp)
 
-Меч охотника на демонов
+    Пронзающий небеса
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20060.webp)Эгида
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20007.webp)
 
 Эмблема бойца
 
-![](/images/mlbb/talents/112.webp)
+-   ![](/images/mlbb/talents/112.webp)
 
-Проворность
+    Проворность
 
-![](/images/mlbb/talents/621.webp)
+-   ![](/images/mlbb/talents/621.webp)
 
-Охотник за скидками
+    Охотник за скидками
 
-![](/images/mlbb/talents/1231.webp)
+-   ![](/images/mlbb/talents/1231.webp)
 
-Точно в цель
+    Точно в цель
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 2,6%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    Коса коррозии
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    Пронзающий небеса
+
+-   ![](/images/mlbb/items/2006.webp)
+
+    Меч охотника на демонов
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+-   ![](/images/mlbb/talents/112.webp)
+
+    Проворность
+
+-   ![](/images/mlbb/talents/621.webp)
+
+    Охотник за скидками
+
+-   ![](/images/mlbb/talents/1231.webp)
+
+    Точно в цель
+
+
 ## Навыки
 
 Прокачка**Охота костей**_›_**Призрачное слияние**_›_**Игла Бездны**
 
-![](/images/mlbb/skills/obsidia-0.webp)Пассивный![](/images/mlbb/skills/obsidia-1.webp)1-й навык![](/images/mlbb/skills/obsidia-2.webp)2-й навык![](/images/mlbb/skills/obsidia-3.webp)Ультимейт
-
-![](/images/mlbb/skills/obsidia-0.webp)
+![](/images/mlbb/skills/obsidia-0.webp)Пассивный**До костей**![](/images/mlbb/skills/obsidia-1.webp)1-й навык**Игла Бездны**![](/images/mlbb/skills/obsidia-2.webp)2-й навык**Призрачное слияние**![](/images/mlbb/skills/obsidia-3.webp)Ультимейт**Охота костей**
 
 Пассивный
 
@@ -229,8 +215,6 @@ S
 
 Базовые атаки Обсидии наносят 70 (+70% общей физической атаки) единиц физического урона, наследуя 100% эффектов атаки.
 
-![](/images/mlbb/skills/obsidia-1.webp)
-
 1-й навык
 
 ### Игла Бездны
@@ -239,8 +223,6 @@ S
 
 Обсидия запускает "Иглу Бездны", нанося 325 (+80% общей физической атаки) единиц физического урона пораженным врагам и активируя "До костей" на первом пораженном вражеском герое.
 
-![](/images/mlbb/skills/obsidia-2.webp)
-
 2-й навык
 
 ### Призрачное слияние
@@ -248,8 +230,6 @@ S
 Перезарядка **4.5 Mana Cost: 40 с**
 
 Обсидия погружается в Бездну и входит в форму "Слияния с тенью", получая 500% скорости передвижения на 0.3 сек.
-
-![](/images/mlbb/skills/obsidia-3.webp)
 
 Ультимейт
 
@@ -261,33 +241,25 @@ S
 
 Находясь в связке, Обсидия может проходить сквозь препятствия и использовать базовые атаки во время движения. "Призрачное слияние" также усиливается: длительность увеличивается до 1 сек., а перезарядка уменьшается до 33%.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/harith.webp)Харит**+3,6**](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа**+1,2**](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/fanny.webp)Фанни**+0,9**](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/hanzo.webp)Ханзо**+0,6**](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## История
 
 > Древняя Владычица Бездны, возродившаяся из останков, жаждет сразить Бога тьмы и истребить его Порождения разложения.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/obsidia)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=130)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/obsidia)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=130)
 
 **Поднимем ранг на герое «Обсидия»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ S
 
 Силён ли герой «Обсидия» в текущей мете?
 
-Тир S, 3-е место из 133 героев и 1-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 64,8% матчей, 52,6% побед.
+Тир S, 7-е место из 133 героев и 1-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 64,8% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 44,8% катков.
 
 Какая сборка на героя «Обсидия» лучшая?
 

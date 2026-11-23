@@ -15,27 +15,17 @@ S
 
 ![](/images/mlbb/filters/tank.webp)Танк![](/images/mlbb/filters/roam.webp)Роум
 
-Добродушное элементальное создание.
-
 Победы
 
 50,4%
-
-все ранги 51,8%
 
 Выбор
 
 1,8%
 
-все ранги 1,7%
-
 Баны
 
 56,3%
-
-все ранги 56,8%
-
-№6 в тир-листе · №2 среди танков · Мифическая слава, 7 дней, по 23 ноября
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ S
 
 ### Другие танки этой линии
 
-[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)
 
 ## Сборка
 
-Роум · по данным рейтинговых матчей
-
-Сборка 161,7%Сборка 261,1%Сборка 356,2%
-
-### Предметы
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-![](/images/mlbb/items/3206.webp)
-
-Господство льда
-
-![](/images/mlbb/items/3202.webp)
-
-Защитный шлем
-
-### Эмблема
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/talents/311.webp)
-
-Живучесть
-
-![](/images/mlbb/talents/121.webp)
-
-Благословение природы
-
-![](/images/mlbb/talents/731.webp)
-
-Отвага
-
-### Заклинание
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
+Сборка 1Сборка 2Сборка 3
 
 Победы
 
@@ -117,43 +67,43 @@ S
 
 2,3%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/2212.webp)
 
-Господство льда
+    Штормовой пояс
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Наплечник наказания
+    Господство льда
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Защитный шлем
+    Защитный шлем
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20190.webp)Месть
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/121.webp)
 
-Стойкость
+    Благословение природы
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20050.webp)
-
-Восстановление
 
 Победы
 
@@ -163,43 +113,43 @@ S
 
 1,9%
 
-### Предметы
+#### Основные предметы
 
-![](/images/mlbb/items/3207.webp)
+-   ![](/images/mlbb/items/3206.webp)
 
-Бессмертие
+    Господство льда
 
-![](/images/mlbb/items/3202.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Защитный шлем
+    Наплечник наказания
 
-![](/images/mlbb/items/3206.webp)
+-   ![](/images/mlbb/items/3202.webp)
 
-Господство льда
+    Защитный шлем
 
-### Эмблема
+
+#### Заклинание
+
+![](/images/mlbb/spells/20050.webp)Восстановление
+
+#### Эмблема и таланты
 
 ![](/images/mlbb/emblems/20003.webp)
 
 Эмблема танка
 
-![](/images/mlbb/talents/311.webp)
+-   ![](/images/mlbb/talents/311.webp)
 
-Живучесть
+    Живучесть
 
-![](/images/mlbb/talents/321.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-Стойкость
+    Стойкость
 
-![](/images/mlbb/talents/731.webp)
+-   ![](/images/mlbb/talents/731.webp)
 
-Отвага
+    Отвага
 
-### Заклинание
-
-![](/images/mlbb/spells/20100.webp)
-
-Вспышка
 
 Победы
 
@@ -209,13 +159,49 @@ S
 
 1,7%
 
+#### Основные предметы
+
+-   ![](/images/mlbb/items/3207.webp)
+
+    Бессмертие
+
+-   ![](/images/mlbb/items/3202.webp)
+
+    Защитный шлем
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    Господство льда
+
+
+#### Заклинание
+
+![](/images/mlbb/spells/20100.webp)Вспышка
+
+#### Эмблема и таланты
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+-   ![](/images/mlbb/talents/311.webp)
+
+    Живучесть
+
+-   ![](/images/mlbb/talents/321.webp)
+
+    Стойкость
+
+-   ![](/images/mlbb/talents/731.webp)
+
+    Отвага
+
+
 ## Навыки
 
 Прокачка**Гнев дриады**_›_**Древнее семя**_›_**Удар природы**
 
-![](/images/mlbb/skills/belerick-0.webp)Пассивный![](/images/mlbb/skills/belerick-1.webp)1-й навык![](/images/mlbb/skills/belerick-2.webp)2-й навык![](/images/mlbb/skills/belerick-3.webp)Ультимейт
-
-![](/images/mlbb/skills/belerick-0.webp)
+![](/images/mlbb/skills/belerick-0.webp)Пассивный**Смертоносные шипы**![](/images/mlbb/skills/belerick-1.webp)1-й навык**Древнее семя**![](/images/mlbb/skills/belerick-2.webp)2-й навык**Удар природы**![](/images/mlbb/skills/belerick-3.webp)Ультимейт**Гнев дриады**
 
 Пассивный
 
@@ -224,8 +210,6 @@ S
 Каждый раз, когда Белерик получает 50 или более ед. урона, у него есть шанс 25% атаковать ближайшего вражеского юнита, нанося 55 (+5 × ур. героя) (+1.8% от своих ) единиц магического урона (зависит от уровня). Эта атака может сработать один раз за кажд. 0.4 сек.
 
 Его ОЗ, получаемые от снаряжения и эмблем, увеличиваются на 30%.
-
-![](/images/mlbb/skills/belerick-1.webp)
 
 1-й навык
 
@@ -236,8 +220,6 @@ S
 Белерик выпускает лозы в указанном направлении, нанося 200 (+50% общей магической силы) единиц магического урона врагам на пути и замедляя их на 25%. Оставшиеся после лоз древние семена взорвутся шипами через 0.8 сек., нанося 200 (+50% общей магической силы) единиц магического урона врагам на пути и провоцируя их в течение 1.2 сек.
 
 Наносит 80% дополнительного урона миньонам.
-
-![](/images/mlbb/skills/belerick-2.webp)
 
 2-й навык
 
@@ -251,8 +233,6 @@ S
 
 Каждый раз, когда активируются "Смертоносные шипы", перезарядка этого навыка снижается на 1 сек.
 
-![](/images/mlbb/skills/belerick-3.webp)
-
 Ультимейт
 
 ### Гнев дриады
@@ -261,33 +241,25 @@ S
 
 Белерик создает вокруг себя лозы, нанося 100 (+30% общей магической силы) единиц магического урона врагам в области 4 р., провоцируя и замедляя их на 1.5 сек.
 
-## Контрпики и союзники
+## Контрпики
 
 ### Контрпики
 
 Побеждают этого героя
 
-[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
+[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
-
-### Союзники
-
-Рост побед в паре, п. п.
-
-[![](/images/heroes/zilong.webp)Зилонг**+2,9**](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/saber.webp)Сабер**+2,9**](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт**+2,6**](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/natalia.webp)Наталья**+2,3**](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 ## История
 
 > Добродушное элементальное создание.
 
-[Читать полную историю ↗](https://kazukiofficial.com/stories/belerick)Kazuki Official, английский
-
-[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=70)
+[Читать полную историю ↗](https://kazukiofficial.com/stories/belerick)Kazuki Official, английский [Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=70)
 
 **Поднимем ранг на герое «Белерик»**Цена считается в калькуляторе
 
@@ -309,7 +281,7 @@ S
 
 Силён ли герой «Белерик» в текущей мете?
 
-Тир S, 6-е место из 133 героев и 2-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,3% матчей, 50,4% побед.
+Тир S, 10-е место из 133 героев и 3-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,3% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 38,0% катков.
 
 Какая сборка на героя «Белерик» лучшая?
 

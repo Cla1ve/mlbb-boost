@@ -15,27 +15,17 @@ D
 
 ![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
 
-A carefree, genetically enhanced fox that wields advanced portal technology.
-
 Win rate
 
 48.3%
-
-all ranks 47.6%
 
 Pick rate
 
 0.1%
 
-all ranks 0.0%
-
 Ban rate
 
 0.2%
-
-all ranks 0.2%
-
-#117 in the tier list · #21 among tanks · Mythical Glory, 7 days, to 23 November
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -63,51 +53,11 @@ Dashed line: 50% win rate
 
 ### More tanks on this lane
 
-[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)
+[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ## Build
 
-Roam · from ranked matches
-
-Build 153.2%Build 253.2%Build 352.6%
-
-### Core items
-
-![](/images/mlbb/items/3109.webp)
-
-Fleeting Time
-
-![](/images/mlbb/items/3212.webp)
-
-Chastise Pauldron
-
-![](/images/mlbb/items/3203.webp)
-
-Antique Cuirass
-
-### Emblem
-
-![](/images/mlbb/emblems/20008.webp)
-
-Support
-
-![](/images/mlbb/talents/611.webp)
-
-Inspire
-
-![](/images/mlbb/talents/321.webp)
-
-Tenacity
-
-![](/images/mlbb/talents/331.webp)
-
-Concussive Blast
-
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
+Build 1Build 2Build 3
 
 Win rate
 
@@ -117,43 +67,43 @@ Pick rate
 
 8.4%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Chastise Pauldron
+    Chastise Pauldron
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Antique Cuirass
+    Antique Cuirass
 
-### Emblem
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
 
 ![](/images/mlbb/emblems/20008.webp)
 
 Support
 
-![](/images/mlbb/talents/611.webp)
+-   ![](/images/mlbb/talents/611.webp)
 
-Inspire
+    Inspire
 
-![](/images/mlbb/talents/121.webp)
+-   ![](/images/mlbb/talents/321.webp)
 
-Wilderness Blessing
+    Tenacity
 
-![](/images/mlbb/talents/331.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Concussive Blast
+    Concussive Blast
 
-### Spell
-
-![](/images/mlbb/spells/20100.webp)
-
-Flicker
 
 Win rate
 
@@ -163,43 +113,43 @@ Pick rate
 
 2.6%
 
-### Core items
+#### Core items
 
-![](/images/mlbb/items/3109.webp)
+-   ![](/images/mlbb/items/3109.webp)
 
-Fleeting Time
+    Fleeting Time
 
-![](/images/mlbb/items/3212.webp)
+-   ![](/images/mlbb/items/3212.webp)
 
-Chastise Pauldron
+    Chastise Pauldron
 
-![](/images/mlbb/items/3203.webp)
+-   ![](/images/mlbb/items/3203.webp)
 
-Antique Cuirass
+    Antique Cuirass
 
-### Emblem
 
-![](/images/mlbb/emblems/20003.webp)
+#### Spell
 
-Tank
+![](/images/mlbb/spells/20100.webp)Flicker
 
-![](/images/mlbb/talents/611.webp)
+#### Emblem and talents
 
-Inspire
+![](/images/mlbb/emblems/20008.webp)
 
-![](/images/mlbb/talents/121.webp)
+Support
 
-Wilderness Blessing
+-   ![](/images/mlbb/talents/611.webp)
 
-![](/images/mlbb/talents/331.webp)
+    Inspire
 
-Concussive Blast
+-   ![](/images/mlbb/talents/121.webp)
 
-### Spell
+    Wilderness Blessing
 
-![](/images/mlbb/spells/20100.webp)
+-   ![](/images/mlbb/talents/331.webp)
 
-Flicker
+    Concussive Blast
+
 
 Win rate
 
@@ -209,13 +159,49 @@ Pick rate
 
 1.5%
 
+#### Core items
+
+-   ![](/images/mlbb/items/3109.webp)
+
+    Fleeting Time
+
+-   ![](/images/mlbb/items/3212.webp)
+
+    Chastise Pauldron
+
+-   ![](/images/mlbb/items/3203.webp)
+
+    Antique Cuirass
+
+
+#### Spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+#### Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+-   ![](/images/mlbb/talents/611.webp)
+
+    Inspire
+
+-   ![](/images/mlbb/talents/121.webp)
+
+    Wilderness Blessing
+
+-   ![](/images/mlbb/talents/331.webp)
+
+    Concussive Blast
+
+
 ## Skills
 
 Level-up**Shortcut**_›_**Crash Course**_›_**Overtime**
 
-![](/images/mlbb/skills/chip-0.webp)Passive![](/images/mlbb/skills/chip-1.webp)Skill 1![](/images/mlbb/skills/chip-2.webp)Skill 2![](/images/mlbb/skills/chip-3.webp)Skill 3![](/images/mlbb/skills/chip-4.webp)Ultimate
-
-![](/images/mlbb/skills/chip-0.webp)
+![](/images/mlbb/skills/chip-0.webp)Passive**Snack Time!**![](/images/mlbb/skills/chip-1.webp)Skill 1**Crash Course**![](/images/mlbb/skills/chip-2.webp)Skill 2**Overtime**![](/images/mlbb/skills/chip-3.webp)Skill 3**Shortcut**![](/images/mlbb/skills/chip-4.webp)Ultimate**Why Walk?**
 
 Passive
 
@@ -225,8 +211,6 @@ While out of combat, Chip takes a bite of potato chips every 2s. After 4 bites, 
 
 After finishing a bag, Chip cannot eat again for 5s. (His bite count is retained if he enters combat before finishing the bag.)
 
-![](/images/mlbb/skills/chip-1.webp)
-
 Skill 1
 
 ### Crash Course
@@ -234,8 +218,6 @@ Skill 1
 Cooldown **5.5 Mana Cost: 40 s**
 
 Chip rams his hovercraft into the ground, dealing Magic Damage equal to 100 plus 4% of the target's and applying Chip's Mark on enemy units hit. Chip gains a 300 (+60% Total Magic Power) Shield upon hitting an enemy hero, which increases by 40% for each additional enemy hero hit. Chip's next Basic Attack will become ranged and also hit all nearby enemies with Chip's Mark, detonating the mark to deal 150 (+30% Total Magic Power) Magic Damage and stun each target for 0.6s.
-
-![](/images/mlbb/skills/chip-2.webp)
 
 Skill 2
 
@@ -246,8 +228,6 @@ Cooldown **13 Mana Cost: 75 s**
 Chip rushes for 2s, gaining up to 65% extra Movement Speed, after which he maintains the max speed for 2s.
 
 Chip's next Basic Attack will cause him to charge at the enemy, dealing 200 (+30% Total Magic Power) Magic Damage and knocking them back slightly.
-
-![](/images/mlbb/skills/chip-3.webp)
 
 Skill 3
 
@@ -261,41 +241,31 @@ Chip drops the Main Portal on an enemy hero, dealing 200 (+60% Total Magic Power
 
 **Main Portal:** The Main Portal inherits 70% of Chip's attributes. Heroes can stand on the Main Portal for 2s to return to the Connecting Portal they came from. Casting skills or launching Basic Attacks will reset the stand time.
 
-![](/images/mlbb/skills/chip-4.webp)
-
 Ultimate
 
 ### Why Walk?
 
 Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to teleport to any other Beacon. (This skill cannot be used in combat.)
 
-## Counters and teammates
+## Counters
 
 ### Counters
 
 Beat this hero
 
-[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
-
-### Teammates
-
-Win rate gain as a duo, pp
-
-[![](/images/heroes/arlott.webp)Arlott**+5.5**](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/floryn.webp)Floryn**+5.3**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/odette.webp)Odette**+5.0**](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/lunox.webp)Lunox**+4.7**](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
 ## Lore
 
 > A carefree, genetically enhanced fox that wields advanced portal technology.
 
-[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Chip)Official Mobile Legends site
-
-[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=124)
+[Read the full story ↗](https://play.mobilelegends.com/lore/hero/Chip)Official Mobile Legends site [Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=124)
 
 **Rank up on Chip**The calculator shows the price
 
@@ -317,7 +287,7 @@ Tank and support, played on roam.
 
 Is Chip strong in the current meta?
 
-Tier D, #117 of 133 heroes and #21 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.3% win rate.
+Tier D, #128 of 133 heroes and #23 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 1.8% of them.
 
 What is the best build for Chip?
 
