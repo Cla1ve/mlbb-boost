@@ -5,11 +5,7 @@ canonical: https://boostmlbb.ru/prices.html
 language: ru
 ---
 
-Прайс-лист
-
 # Цены на буст Mobile Legends
-
-Актуальные тарифы на буст по рангам
 
 [Калькулятор](https://boostmlbb.ru/order.html)
 

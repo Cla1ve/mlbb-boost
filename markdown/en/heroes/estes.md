@@ -1,149 +1,297 @@
 ---
 title: "Estes MLBB: build, counters and skills | MLBB Boost"
-description: "Estes in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 52.75% win rate, tier A."
+description: "Estes in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 52.59% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/estes.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/estes.webp)
-
-Tier A
+![Estes hero art](/images/heroes/art/estes.webp)
 
 # Estes
 
-Support · Roam
+S
+
+![](/images/mlbb/filters/support.webp)Support![](/images/mlbb/filters/roam.webp)Roam
+
+Elf King who rules the Moon Elves.
 
 Win rate
 
-52.75%
+52.6%
+
+all ranks 52.8%
 
 Pick rate
 
-0.64%
+0.6%
+
+all ranks 0.6%
 
 Ban rate
 
-46.89%
+32.0%
 
-**#17 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 46.9%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#9 in the tier list · #3 among supports · Mythical Glory, 7 days, to 23 November
 
-Regen · Guard · Difficulty 30/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**70**
+-   Offense**10**
+-   Control**20**
+-   Difficulty**30**
+
+-   Regen
+-   Guard
+
+### Win rate by rank, 30 days
+
+1.  **53.9%**![](/images/ranks/Epic.webp)Epic
+2.  **53.4%**![](/images/ranks/Legend.webp)Legend
+3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More supports on this lane
+
+[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ## Build
 
-Most picked in ranked · Roam
+Roam · from ranked matches
 
-Core items
+Build 159.1%Build 258.9%Build 359.0%
 
-![](/images/mlbb/items/3112.webp)Flask of the Oasis![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3109.webp)Fleeting Time
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3112.webp)
 
-![](/images/mlbb/emblems/20008.webp)Support![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/831.webp)Focusing Mark
+Flask of the Oasis
 
-Battle spell
+![](/images/mlbb/items/2106.webp)
 
-![](/images/mlbb/spells/20080.webp)Purify
+Enchanted Talisman
 
-Wins with this build **58.91%**Picked in **4.63%** of matches
+![](/images/mlbb/items/3109.webp)
 
-Alternative builds (2)
+Fleeting Time
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3112.webp)Flask of the Oasis![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3109.webp)Fleeting Time
+![](/images/mlbb/emblems/20008.webp)
 
-Emblem and talents
+Support
 
-![](/images/mlbb/emblems/20008.webp)Support![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/831.webp)Focusing Mark
+![](/images/mlbb/talents/611.webp)
 
-Battle spell
+Inspire
 
-![](/images/mlbb/spells/20050.webp)Revitalize
+![](/images/mlbb/talents/321.webp)
 
-Wins with this build **59.06%**Picked in **4.71%** of matches
+Tenacity
 
-Core items
+![](/images/mlbb/talents/831.webp)
 
-![](/images/mlbb/items/3112.webp)Flask of the Oasis![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3109.webp)Fleeting Time
+Focusing Mark
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20008.webp)Support![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/831.webp)Focusing Mark
+![](/images/mlbb/spells/20050.webp)
 
-Battle spell
+Revitalize
 
-![](/images/mlbb/spells/20080.webp)Purify
+Win rate
 
-Wins with this build **59.03%**Picked in **3.89%** of matches
+59.1%
+
+Pick rate
+
+4.7%
+
+### Core items
+
+![](/images/mlbb/items/3112.webp)
+
+Flask of the Oasis
+
+![](/images/mlbb/items/2106.webp)
+
+Enchanted Talisman
+
+![](/images/mlbb/items/3109.webp)
+
+Fleeting Time
+
+### Emblem
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+![](/images/mlbb/talents/611.webp)
+
+Inspire
+
+![](/images/mlbb/talents/321.webp)
+
+Tenacity
+
+![](/images/mlbb/talents/831.webp)
+
+Focusing Mark
+
+### Spell
+
+![](/images/mlbb/spells/20080.webp)
+
+Purify
+
+Win rate
+
+58.9%
+
+Pick rate
+
+4.6%
+
+### Core items
+
+![](/images/mlbb/items/3112.webp)
+
+Flask of the Oasis
+
+![](/images/mlbb/items/2106.webp)
+
+Enchanted Talisman
+
+![](/images/mlbb/items/3109.webp)
+
+Fleeting Time
+
+### Emblem
+
+![](/images/mlbb/emblems/20008.webp)
+
+Support
+
+![](/images/mlbb/talents/611.webp)
+
+Inspire
+
+![](/images/mlbb/talents/821.webp)
+
+Pull Yourself Together
+
+![](/images/mlbb/talents/831.webp)
+
+Focusing Mark
+
+### Spell
+
+![](/images/mlbb/spells/20080.webp)
+
+Purify
+
+Win rate
+
+59.0%
+
+Pick rate
+
+3.9%
+
+## Skills
+
+Level-up**Blessing of Moon Goddess**_›_**Moonlight Immersion**_›_**Domain of Moon Goddess**
+
+![](/images/mlbb/skills/estes-0.webp)Passive![](/images/mlbb/skills/estes-1.webp)Skill 1![](/images/mlbb/skills/estes-2.webp)Skill 2![](/images/mlbb/skills/estes-3.webp)Ultimate
+
+![](/images/mlbb/skills/estes-0.webp)
+
+Passive
+
+### Scripture of the Moon Elf
+
+Scripture of the Moon Elf gradually charges energy into Estes. Upon reaching 100 stacks, Estes' next Basic Attack is enhanced, dealing 250 (+100% Total Physical Attack) (+150% Total Magic Power) Magic Damage to the target. The enhanced attack also bounces to nearby enemies, dealing 125 (+50% Total Physical Attack) (+75% Total Magic Power) Magic Damage to nearby enemies and slowing them by 60% for 1.5s.
+
+![](/images/mlbb/skills/estes-1.webp)
+
+Skill 1
+
+### Moonlight Immersion
+
+Cooldown **11 Mana Cost: 60 s**
+
+Estes immediately recovers 200 (+110% Total Magic Power) HP for the target allied hero and links himself with them for 5s.
+
+While linked, both heroes gain 15 (+10% Total Magic Power) , and the target slowly recovers 360 (+90% Total Magic Power) HP. The link increases Estes' Movement Speed by 15% and the energy charge rate of the Scripture of the Moon Elf.
+
+The link breaks if Estes moves too far from the target.
+
+![](/images/mlbb/skills/estes-2.webp)
+
+Skill 2
+
+### Domain of Moon Goddess
+
+Cooldown **12 Mana Cost: 80 s**
+
+Estes calls down a flood of moonlight on the target area, dealing 350 (+70% Total Magic Power) Magic Damage to enemy units within it.
+
+The area then becomes a Domain of Moon Goddess, revealing enemies within. Enemies that touch the domain's edge are slowed by 90% for 1.5s. The slow effect decays over time.
+
+![](/images/mlbb/skills/estes-3.webp)
+
+Ultimate
+
+### Blessing of Moon Goddess
+
+Cooldown **55 Mana Cost: 140 s**
+
+Estes casts an enhanced Moonlight Immersion on himself and all nearby allied heroes, refreshing Moonlight Immersion on them and enhancing it for 8s.
+
+**Enhanced Moonlight Immersion:** Doubles the Instant Basic Healing and Increase, and heals the target for 1020 (+225% Total Magic Power) HP over time.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/atlas.webp)Atlas+5.56 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/kalea.webp)Kalea+4.51 pp](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/carmilla.webp)Carmilla+3.73 pp](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/saber.webp)Saber+3.46 pp](https://boostmlbb.ru/en/heroes/saber.html)
-
-## Skills
-
-Level-up priority · Blessing of Moon Goddess → Moonlight Immersion → Domain of Moon Goddess
-
-![](/images/mlbb/skills/estes-0.webp)Passive**Scripture of the Moon Elf**
-
-Scripture of the Moon Elf gradually charges energy into Estes. Upon reaching 100 stacks, Estes' next Basic Attack is enhanced, dealing 250 (+100% Total Physical Attack) (+150% Total Magic Power) Magic Damage to the target. The enhanced attack also bounces to nearby enemies, dealing 125 (+50% Total Physical Attack) (+75% Total Magic Power) Magic Damage to nearby enemies and slowing them by 60% for 1.5s.
-
-![](/images/mlbb/skills/estes-1.webp)Skill 1**Moonlight Immersion**
-
-**Cooldown 11 Mana Cost: 60 s**
-
-Estes immediately recovers 200 (+110% Total Magic Power) HP for the target allied hero and links himself with them for 5s.
-While linked, both heroes gain 15 (+10% Total Magic Power) , and the target slowly recovers 360 (+90% Total Magic Power) HP. The link increases Estes' Movement Speed by 15% and the energy charge rate of the Scripture of the Moon Elf.
-The link breaks if Estes moves too far from the target.
-
-![](/images/mlbb/skills/estes-2.webp)Skill 2**Domain of Moon Goddess**
-
-**Cooldown 12 Mana Cost: 80 s**
-
-Estes calls down a flood of moonlight on the target area, dealing 350 (+70% Total Magic Power) Magic Damage to enemy units within it.
-The area then becomes a Domain of Moon Goddess, revealing enemies within. Enemies that touch the domain's edge are slowed by 90% for 1.5s. The slow effect decays over time.
-
-![](/images/mlbb/skills/estes-3.webp)Ultimate**Blessing of Moon Goddess**
-
-**Cooldown 55 Mana Cost: 140 s**
-
-Estes casts an enhanced Moonlight Immersion on himself and all nearby allied heroes, refreshing Moonlight Immersion on them and enhancing it for 8s.
-Enhanced Moonlight Immersion: Doubles the Instant Basic Healing and Increase, and heals the target for 1020 (+225% Total Magic Power) HP over time.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**53.90%**
--   ![](/images/ranks/Legend.webp)Legend**53.39%**
--   ![](/images/ranks/Mythic.webp)Mythic**53.09%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**52.31%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**52.43%**
+[![](/images/heroes/atlas.webp)Atlas**+5.6**](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/kalea.webp)Kalea**+4.5**](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/carmilla.webp)Carmilla**+3.7**](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/saber.webp)Saber**+3.5**](https://boostmlbb.ru/en/heroes/saber.html)
 
 ## Lore
 
-Elf King who rules the Moon Elves.
+> Elf King who rules the Moon Elves.
 
 [Read the full story ↗](https://kazukiofficial.com/stories/estes)Kazuki Official
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=34)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=34)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Estes**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -153,7 +301,7 @@ Over the last 30 days the toughest opponents are Cyclops, Faramis, Cici, Alice a
 
 What is Estes’s win rate right now?
 
-52.75% over the last 30 days across all ranks and 52.43% in Mythical Glory, as of 23 November 2026.
+52.59% at Mythical Glory over the last 7 days and 52.75% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Estes play?
 
@@ -161,8 +309,8 @@ Support, played on roam.
 
 Is Estes strong in the current meta?
 
-Tier A: #17 of 133 heroes by 30-day win rate and #8 among supports.
+Tier S, #9 of 133 heroes and #3 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 32.0% of matches, 52.6% win rate.
 
 What is the best build for Estes?
 
-The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Fleeting Time as core items, the Support emblem with Inspire, Tenacity and Focusing Mark, and Purify. It wins 58.91% of matches.
+The most popular ranked build: Flask of the Oasis, Enchanted Talisman and Fleeting Time as core items, the Support emblem with Inspire, Tenacity and Focusing Mark, and Revitalize. It wins 59.06% of matches.

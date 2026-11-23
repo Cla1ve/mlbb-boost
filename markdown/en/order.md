@@ -7,11 +7,7 @@ language: en
 
 JavaScript is required for automatic calculation. [View prices](https://boostmlbb.ru/en/prices.html) or [ask support for an estimate](https://t.me/Cla1ve).
 
-Calculator
-
 # Calculate boost price
-
-Choose a boost type and set the ranks for an instant estimate
 
 [
 

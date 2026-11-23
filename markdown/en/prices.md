@@ -5,11 +5,7 @@ canonical: https://boostmlbb.ru/en/prices.html
 language: en
 ---
 
-Price list
-
 # Mobile Legends boost prices
-
-Current boost rates by rank
 
 [Calculator](https://boostmlbb.ru/en/order.html)
 

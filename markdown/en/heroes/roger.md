@@ -1,146 +1,293 @@
 ---
 title: "Roger MLBB: build, counters and skills | MLBB Boost"
-description: "Roger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and marksman, 48.33% win rate, tier C."
+description: "Roger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and marksman, 46.21% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/roger.webp)
-
-Tier C
+![Roger hero art](/images/heroes/art/roger.webp)
 
 # Roger
 
-Fighter and marksman · Jungle
+D
+
+![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/jungle.webp)Jungle
+
+A werewolf wandering in the dark forest longing for revenge.
 
 Win rate
 
-48.33%
+46.2%
+
+all ranks 48.3%
 
 Pick rate
 
-0.27%
+0.2%
+
+all ranks 0.3%
 
 Ban rate
 
-0.09%
+0.1%
 
-**#103 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 0.1%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#122 in the tier list · #40 among fighters · Mythical Glory, 7 days, to 23 November
 
-Finisher · Burst · Difficulty 60/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**60**
+-   Offense**40**
+-   Control**10**
+-   Difficulty**60**
+
+-   Finisher
+-   Burst
+
+### Win rate by rank, 30 days
+
+1.  **50.7%**![](/images/ranks/Epic.webp)Epic
+2.  **50.3%**![](/images/ranks/Legend.webp)Legend
+3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **46.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More fighters on this lane
+
+[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)
 
 ## Build
 
-Most picked in ranked · Jungle
+Jungle · from ranked matches
 
-Core items
+Build 155.3%Build 256.7%Build 356.5%
 
-![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3002.webp)Haas' Claws
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3005.webp)
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
+Windtalker
 
-Battle spell
+![](/images/mlbb/items/2014.webp)
 
-![](/images/mlbb/spells/20020.webp)Retribution
+Sky Piercer
 
-Wins with this build **56.45%**Picked in **4.25%** of matches
+![](/images/mlbb/items/3012.webp)
 
-Alternative builds (2)
+Rose Gold Meteor
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3002.webp)Haas' Claws
+![](/images/mlbb/emblems/20005.webp)
 
-Emblem and talents
+Assassin
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
+![](/images/mlbb/talents/112.webp)
 
-Battle spell
+Swift
 
-![](/images/mlbb/spells/20020.webp)Retribution
+![](/images/mlbb/talents/122.webp)
 
-Wins with this build **56.72%**Picked in **6.15%** of matches
+Seasoned Hunter
 
-Core items
+![](/images/mlbb/talents/531.webp)
 
-![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3012.webp)Rose Gold Meteor
+Killing Spree
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
+![](/images/mlbb/spells/20020.webp)
 
-Battle spell
+Retribution
 
-![](/images/mlbb/spells/20020.webp)Retribution
+Win rate
 
-Wins with this build **55.25%**Picked in **13.81%** of matches
+55.3%
+
+Pick rate
+
+13.8%
+
+### Core items
+
+![](/images/mlbb/items/3005.webp)
+
+Windtalker
+
+![](/images/mlbb/items/2014.webp)
+
+Sky Piercer
+
+![](/images/mlbb/items/3002.webp)
+
+Haas' Claws
+
+### Emblem
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+![](/images/mlbb/talents/111.webp)
+
+Thrill
+
+![](/images/mlbb/talents/122.webp)
+
+Seasoned Hunter
+
+![](/images/mlbb/talents/531.webp)
+
+Killing Spree
+
+### Spell
+
+![](/images/mlbb/spells/20020.webp)
+
+Retribution
+
+Win rate
+
+56.7%
+
+Pick rate
+
+6.2%
+
+### Core items
+
+![](/images/mlbb/items/3005.webp)
+
+Windtalker
+
+![](/images/mlbb/items/2014.webp)
+
+Sky Piercer
+
+![](/images/mlbb/items/3002.webp)
+
+Haas' Claws
+
+### Emblem
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+![](/images/mlbb/talents/112.webp)
+
+Swift
+
+![](/images/mlbb/talents/122.webp)
+
+Seasoned Hunter
+
+![](/images/mlbb/talents/531.webp)
+
+Killing Spree
+
+### Spell
+
+![](/images/mlbb/spells/20020.webp)
+
+Retribution
+
+Win rate
+
+56.5%
+
+Pick rate
+
+4.3%
+
+## Skills
+
+Level-up**Wolf Transformation**_›_**Open Fire**_›_**Hunter's Steps**
+
+![](/images/mlbb/skills/roger-0.webp)Passive![](/images/mlbb/skills/roger-1.webp)Skill 1![](/images/mlbb/skills/roger-2.webp)Skill 2![](/images/mlbb/skills/roger-3.webp)Ultimate
+
+![](/images/mlbb/skills/roger-0.webp)
+
+Passive
+
+### Full Moon Curse
+
+Roger can freely switch between human and wolf forms.
+
+In human form, Roger's attack deals extra damage equal to 4% of the target's current . In wolf form, his attack deals extra damage equal to 4% of the target's \[lost C6.
+
+Extra damage against creeps is capped at 60.
+
+![](/images/mlbb/skills/roger-1.webp)
+
+Skill 1
+
+### Open Fire
+
+Cooldown **7 Mana Cost: 50 s**
+
+Roger fires two quick shots in the target direction, dealing a total of 250 (+125% Total Physical Attack) Physical Damage to the enemy hit.
+
+The first shot is a hunter net that slows the enemy by 80% for 1.5s.
+
+The second is a bullet that reduces the enemy's by 10 for 5s.
+
+![](/images/mlbb/skills/roger-2.webp)
+
+Skill 2
+
+### Hunter's Steps
+
+Cooldown **10 Mana Cost: 50 s**
+
+Roger gains 20% Movement Speed and 20% Attack Speed for 2.5s.
+
+![](/images/mlbb/skills/roger-3.webp)
+
+Ultimate
+
+### Wolf Transformation
+
+Cooldown **7.5 s**
+
+Roger lunges in the target direction and turns into wolf form, dealing 150 (+100% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 90% for 0.8s.
+
+**Passive:** In wolf form, Roger gains 20 and 25 Movement Speed.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/layla.webp)Layla+2.19 pp](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/ixia.webp)Ixia+2.16 pp](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/hanabi.webp)Hanabi+1.98 pp](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/lesley.webp)Lesley+1.94 pp](https://boostmlbb.ru/en/heroes/lesley.html)
-
-## Skills
-
-Level-up priority · Wolf Transformation → Open Fire → Hunter's Steps
-
-![](/images/mlbb/skills/roger-0.webp)Passive**Full Moon Curse**
-
-Roger can freely switch between human and wolf forms.
-In human form, Roger's attack deals extra damage equal to 4% of the target's current . In wolf form, his attack deals extra damage equal to 4% of the target's \[lost C6.
-Extra damage against creeps is capped at 60.
-
-![](/images/mlbb/skills/roger-1.webp)Skill 1**Open Fire**
-
-**Cooldown 7 Mana Cost: 50 s**
-
-Roger fires two quick shots in the target direction, dealing a total of 250 (+125% Total Physical Attack) Physical Damage to the enemy hit.
-The first shot is a hunter net that slows the enemy by 80% for 1.5s.
-The second is a bullet that reduces the enemy's by 10 for 5s.
-
-![](/images/mlbb/skills/roger-2.webp)Skill 2**Hunter's Steps**
-
-**Cooldown 10 Mana Cost: 50 s**
-
-Roger gains 20% Movement Speed and 20% Attack Speed for 2.5s.
-
-![](/images/mlbb/skills/roger-3.webp)Ultimate**Wolf Transformation**
-
-**Cooldown 7.5 s**
-
-Roger lunges in the target direction and turns into wolf form, dealing 150 (+100% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 90% for 0.8s.
-Passive: In wolf form, Roger gains 20 and 25 Movement Speed.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**50.73%**
--   ![](/images/ranks/Legend.webp)Legend**50.29%**
--   ![](/images/ranks/Mythic.webp)Mythic**49.67%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.49%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**45.96%**
+[![](/images/heroes/layla.webp)Layla**+2.2**](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/ixia.webp)Ixia**+2.2**](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/hanabi.webp)Hanabi**+2.0**](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/lesley.webp)Lesley**+1.9**](https://boostmlbb.ru/en/heroes/lesley.html)
 
 ## Lore
 
-A werewolf wandering in the dark forest longing for revenge.
+> A werewolf wandering in the dark forest longing for revenge.
 
 [Read the full story ↗](https://kazukiofficial.com/stories/roger)Kazuki Official
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=39)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=39)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Roger**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -150,7 +297,7 @@ Over the last 30 days the toughest opponents are Harley, Gusion, Silvanna, Helcu
 
 What is Roger’s win rate right now?
 
-48.33% over the last 30 days across all ranks and 45.96% in Mythical Glory, as of 23 November 2026.
+46.21% at Mythical Glory over the last 7 days and 48.33% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Roger play?
 
@@ -158,8 +305,8 @@ Fighter and marksman, played in the jungle.
 
 Is Roger strong in the current meta?
 
-Tier C: #103 of 133 heroes by 30-day win rate and #34 among fighters.
+Tier D, #122 of 133 heroes and #40 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.2% win rate.
 
 What is the best build for Roger?
 
-The most popular ranked build: Windtalker, Sky Piercer and Haas' Claws as core items, the Assassin emblem with Swift, Seasoned Hunter and Killing Spree, and Retribution. It wins 56.45% of matches.
+The most popular ranked build: Windtalker, Sky Piercer and Rose Gold Meteor as core items, the Assassin emblem with Swift, Seasoned Hunter and Killing Spree, and Retribution. It wins 55.25% of matches.

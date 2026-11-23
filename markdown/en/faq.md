@@ -5,11 +5,7 @@ canonical: https://boostmlbb.ru/en/faq.html
 language: en
 ---
 
-FAQ
-
 # Mobile Legends boost questions
-
-Answers to the most common questions about our service
 
 Didn't find an answer? Message us on Telegram[](https://t.me/Cla1ve)
 

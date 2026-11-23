@@ -1,142 +1,285 @@
 ---
 title: "Novaria MLBB: build, counters and skills | MLBB Boost"
-description: "Novaria in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.52% win rate, tier B."
+description: "Novaria in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.36% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/novaria.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/novaria.webp)
-
-Tier B
+![Novaria hero art](/images/heroes/art/novaria.webp)
 
 # Novaria
 
-Mage · Mid Lane
+B
+
+![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
+
+The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.
 
 Win rate
 
-49.52%
+48.4%
+
+all ranks 49.5%
 
 Pick rate
 
-1.21%
+1.1%
+
+all ranks 1.2%
 
 Ban rate
 
-3.89%
+1.9%
 
-**#78 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 3.9%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#63 in the tier list · #13 among mages · Mythical Glory, 7 days, to 23 November
 
-Burst · Poke · Difficulty 70/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**30**
+-   Offense**90**
+-   Control**30**
+-   Difficulty**70**
+
+-   Burst
+-   Poke
+
+### Win rate by rank, 30 days
+
+1.  **50.3%**![](/images/ranks/Epic.webp)Epic
+2.  **50.1%**![](/images/ranks/Legend.webp)Legend
+3.  **49.8%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More mages on this lane
+
+[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
 
 ## Build
 
-Most picked in ranked · Mid Lane
+Mid Lane · from ranked matches
 
-Core items
+Build 156.0%Build 254.0%Build 355.3%
 
-![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3101.webp)Divine Glaive
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3105.webp)
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
+Glowing Wand
 
-Battle spell
+![](/images/mlbb/items/3110.webp)
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Lightning Truncheon
 
-Wins with this build **55.99%**Picked in **4.46%** of matches
+![](/images/mlbb/items/3101.webp)
 
-Alternative builds (2)
+Divine Glaive
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3102.webp)Holy Crystal
+![](/images/mlbb/emblems/20006.webp)
 
-Emblem and talents
+Mage
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
+![](/images/mlbb/talents/611.webp)
 
-Battle spell
+Inspire
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/talents/121.webp)
 
-Wins with this build **55.25%**Picked in **2.30%** of matches
+Wilderness Blessing
 
-Core items
+![](/images/mlbb/talents/131.webp)
 
-![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3102.webp)Holy Crystal
+Impure Rage
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
+![](/images/mlbb/spells/20100.webp)
 
-Battle spell
+Flicker
 
-![](/images/mlbb/spells/20140.webp)Flameshot
+Win rate
 
-Wins with this build **54.03%**Picked in **3.81%** of matches
+56.0%
+
+Pick rate
+
+4.5%
+
+### Core items
+
+![](/images/mlbb/items/2014.webp)
+
+Sky Piercer
+
+![](/images/mlbb/items/3110.webp)
+
+Lightning Truncheon
+
+![](/images/mlbb/items/3102.webp)
+
+Holy Crystal
+
+### Emblem
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/121.webp)
+
+Wilderness Blessing
+
+![](/images/mlbb/talents/131.webp)
+
+Impure Rage
+
+### Spell
+
+![](/images/mlbb/spells/20140.webp)
+
+Flameshot
+
+Win rate
+
+54.0%
+
+Pick rate
+
+3.8%
+
+### Core items
+
+![](/images/mlbb/items/2014.webp)
+
+Sky Piercer
+
+![](/images/mlbb/items/3110.webp)
+
+Lightning Truncheon
+
+![](/images/mlbb/items/3102.webp)
+
+Holy Crystal
+
+### Emblem
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/121.webp)
+
+Wilderness Blessing
+
+![](/images/mlbb/talents/131.webp)
+
+Impure Rage
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+55.3%
+
+Pick rate
+
+2.3%
+
+## Skills
+
+Level-up**Astral Echo**_›_**Astral Recall**_›_**Astral Meteor**
+
+![](/images/mlbb/skills/novaria-0.webp)Passive![](/images/mlbb/skills/novaria-1.webp)Skill 1![](/images/mlbb/skills/novaria-2.webp)Skill 2![](/images/mlbb/skills/novaria-3.webp)Ultimate
+
+![](/images/mlbb/skills/novaria-0.webp)
+
+Passive
+
+### Star Trail
+
+Astral Sphere continuously slows nearby enemies by 20% and reveals their position.
+
+![](/images/mlbb/skills/novaria-1.webp)
+
+Skill 1
+
+### Astral Meteor
+
+Cooldown **8 Mana Cost: 60 s**
+
+Novaria summons an Astral Sphere at the target location, dealing 75 (+25% Total Magic Power) Magic Damage every 0.33s and continuously slowing enemies (up to 2.5 times). After 2s, the Astral Sphere explodes, dealing 260 (+50% Total Magic Power) (+ 4% target's ) Magic Damage and slowing enemies by 2.5 times.
+
+![](/images/mlbb/skills/novaria-2.webp)
+
+Skill 2
+
+### Astral Recall
+
+Cooldown **20 Mana Cost: 60 s**
+
+**First Cast:** Novaria summons an Astral Sphere at a distance and draws it toward her. She gains 80% Movement Speed (decays to 30%) and can pass through obstacles.
+
+**Use Again:** Upon catching the Astral Sphere, she can cast Star Shatter to launch it in the target direction within 5s. Upon hitting an enemy hero, it deals 260 (+95% Total Magic Power) (+ 5% target's ) Magic Damage to them and nearby heroes. The damage will increase based on the Astral Sphere's travel distance (draw + launch), up to 2.2 times the original damage.
+
+![](/images/mlbb/skills/novaria-3.webp)
+
+Ultimate
+
+### Astral Echo
+
+Cooldown **48 Mana Cost: 100 s**
+
+Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% and applying Astral Ring on them. This increases their hitbox by 2.5 times and reveals their position for 5s.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/cyclops.webp)Cyclops+2.63 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Khufra+1.28 pp](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/harley.webp)Harley+1.23 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/akai.webp)Akai+1.15 pp](https://boostmlbb.ru/en/heroes/akai.html)
-
-## Skills
-
-Level-up priority · Astral Echo → Astral Recall → Astral Meteor
-
-![](/images/mlbb/skills/novaria-0.webp)Passive**Star Trail**
-
-Astral Sphere continuously slows nearby enemies by 20% and reveals their position.
-
-![](/images/mlbb/skills/novaria-1.webp)Skill 1**Astral Meteor**
-
-**Cooldown 8 Mana Cost: 60 s**
-
-Novaria summons an Astral Sphere at the target location, dealing 75 (+25% Total Magic Power) Magic Damage every 0.33s and continuously slowing enemies (up to 2.5 times). After 2s, the Astral Sphere explodes, dealing 260 (+50% Total Magic Power) (+ 4% target's ) Magic Damage and slowing enemies by 2.5 times.
-
-![](/images/mlbb/skills/novaria-2.webp)Skill 2**Astral Recall**
-
-**Cooldown 20 Mana Cost: 60 s**
-
-First Cast: Novaria summons an Astral Sphere at a distance and draws it toward her. She gains 80% Movement Speed (decays to 30%) and can pass through obstacles.
-Use Again: Upon catching the Astral Sphere, she can cast Star Shatter to launch it in the target direction within 5s. Upon hitting an enemy hero, it deals 260 (+95% Total Magic Power) (+ 5% target's ) Magic Damage to them and nearby heroes. The damage will increase based on the Astral Sphere's travel distance (draw + launch), up to 2.2 times the original damage.
-
-![](/images/mlbb/skills/novaria-3.webp)Ultimate**Astral Echo**
-
-**Cooldown 48 Mana Cost: 100 s**
-
-Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% and applying Astral Ring on them. This increases their hitbox by 2.5 times and reveals their position for 5s.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**50.29%**
--   ![](/images/ranks/Legend.webp)Legend**50.07%**
--   ![](/images/ranks/Mythic.webp)Mythic**49.80%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.79%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.89%**
+[![](/images/heroes/cyclops.webp)Cyclops**+2.6**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/khufra.webp)Khufra**+1.3**](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/harley.webp)Harley**+1.2**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/akai.webp)Akai**+1.1**](https://boostmlbb.ru/en/heroes/akai.html)
 
 ## Lore
 
-The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.
+> The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Novaria)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=119)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=119)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Novaria**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -146,7 +289,7 @@ Over the last 30 days the toughest opponents are Diggie, Valir, Bane, Hanabi and
 
 What is Novaria’s win rate right now?
 
-49.52% over the last 30 days across all ranks and 48.89% in Mythical Glory, as of 23 November 2026.
+48.36% at Mythical Glory over the last 7 days and 49.52% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Novaria play?
 
@@ -154,7 +297,7 @@ Mage, played in the Mid Lane.
 
 Is Novaria strong in the current meta?
 
-Tier B: #78 of 133 heroes by 30-day win rate and #19 among mages.
+Tier B, #63 of 133 heroes and #13 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 48.4% win rate.
 
 What is the best build for Novaria?
 

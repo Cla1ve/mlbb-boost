@@ -1,138 +1,279 @@
 ---
 title: "Хирара MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хирара в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,03% побед, тир B."
+description: "Хирара в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,52% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/hirara.html
 language: ru
 ---
 
 [Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
-![](/images/heroes/hirara.webp)
-
-Тир B
+![Арт героя Хирара](/images/heroes/art/hirara.webp)
 
 # Хирара
 
-Убийца · Лес
+S
+
+![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
+
+Ниндзя-гейша из Алой тени, вооруженная двумя веерами и облаченная в багряный клен и мейсэн. В ее искаженном сознании смерть — это высшее спасение.
 
 Победы
 
-50,03%
+49,5%
+
+все ранги 50,0%
 
 Выбор
 
-0,60%
+0,8%
+
+все ранги 0,6%
 
 Баны
 
-67,97%
+84,7%
 
-**№ 64 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
+все ранги 68,0%
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+№5 в тир-листе · №1 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
-Преследование · Добивание · Сложность 60/100
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+
+## Обзор
+
+### Характеристики
+
+-   Живучесть**40**
+-   Атака**70**
+-   Эффекты**40**
+-   Сложность**60**
+
+-   Преследование
+-   Добивание
+
+### Победы по рангам, 30 дней
+
+1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
+2.  **50,3%**![](/images/ranks/Legend.webp)Легенда
+3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
+4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
+
+Пунктир: 50% побед
+
+### Другие убийцы этой линии
+
+[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
 ## Сборка
 
-Самый частый выбор в рейтинге · Лес
+Лес · по данным рейтинговых матчей
 
-Ключевые предметы
+Сборка 156,0%Сборка 257,2%Сборка 351,4%
 
-![](/images/mlbb/items/3009.webp)Удар охотника![](/images/mlbb/items/2014.webp)Пронзающий небеса![](/images/mlbb/items/2013.webp)Топор войны
+### Предметы
 
-Эмблема и таланты
+![](/images/mlbb/items/3009.webp)
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/131.webp)Нечестивая ярость
+Удар охотника
 
-Боевое заклинание
+![](/images/mlbb/items/2014.webp)
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+Пронзающий небеса
 
-Побед с этой сборкой **55,97%**Выбирают в **16,99%** матчей
+![](/images/mlbb/items/2013.webp)
 
-Другие сборки (2)
+Топор войны
 
-Ключевые предметы
+### Эмблема
 
-![](/images/mlbb/items/3009.webp)Удар охотника![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3001.webp)Злобный рык
+![](/images/mlbb/emblems/20005.webp)
 
-Эмблема и таланты
+Эмблема убийцы
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/131.webp)Нечестивая ярость
+![](/images/mlbb/talents/111.webp)
 
-Боевое заклинание
+Трепет
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+![](/images/mlbb/talents/122.webp)
 
-Побед с этой сборкой **51,39%**Выбирают в **6,63%** матчей
+Опытный охотник
 
-Ключевые предметы
+![](/images/mlbb/talents/131.webp)
 
-![](/images/mlbb/items/3009.webp)Удар охотника![](/images/mlbb/items/2014.webp)Пронзающий небеса![](/images/mlbb/items/2013.webp)Топор войны
+Нечестивая ярость
 
-Эмблема и таланты
+### Заклинание
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/531.webp)Убийственный пир
+![](/images/mlbb/spells/20020.webp)
 
-Боевое заклинание
+Возмездие
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+Победы
 
-Побед с этой сборкой **57,22%**Выбирают в **9,18%** матчей
+56,0%
+
+Выбор
+
+17,0%
+
+### Предметы
+
+![](/images/mlbb/items/3009.webp)
+
+Удар охотника
+
+![](/images/mlbb/items/2014.webp)
+
+Пронзающий небеса
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+### Эмблема
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+![](/images/mlbb/talents/111.webp)
+
+Трепет
+
+![](/images/mlbb/talents/122.webp)
+
+Опытный охотник
+
+![](/images/mlbb/talents/531.webp)
+
+Убийственный пир
+
+### Заклинание
+
+![](/images/mlbb/spells/20020.webp)
+
+Возмездие
+
+Победы
+
+57,2%
+
+Выбор
+
+9,2%
+
+### Предметы
+
+![](/images/mlbb/items/3009.webp)
+
+Удар охотника
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+![](/images/mlbb/items/3001.webp)
+
+Злобный рык
+
+### Эмблема
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+![](/images/mlbb/talents/111.webp)
+
+Трепет
+
+![](/images/mlbb/talents/122.webp)
+
+Опытный охотник
+
+![](/images/mlbb/talents/131.webp)
+
+Нечестивая ярость
+
+### Заклинание
+
+![](/images/mlbb/spells/20020.webp)
+
+Возмездие
+
+Победы
+
+51,4%
+
+Выбор
+
+6,6%
+
+## Навыки
+
+Прокачка**Каэрадзу**_›_**Мэйсэн‑э**
+
+![](/images/mlbb/skills/hirara-0.webp)Пассивный![](/images/mlbb/skills/hirara-1.webp)1-й навык![](/images/mlbb/skills/hirara-2.webp)Ультимейт
+
+![](/images/mlbb/skills/hirara-0.webp)
+
+Пассивный
+
+### Парные веера: Укифунэ
+
+У Хирары есть только два навыка, представляющие ее два оружия: "Мэйсэн‑э" и "Каэрадзу". Перетащите один навык на другой, чтобы применить комбонавык.
+
+У Хирары есть 2 ед. энергии "Багрянца" / "Смерти". Применение комбонавыка расходует 1 ед. энергии "Багрянца" / "Смерти". Время восстановления энергии равно перезарядке "Мэйсэн‑э". Расход энергии прерывает процесс восстановления.
+
+Хирара наносит только 30 (+4 × ур. героя)% урона миньонам.
+
+![](/images/mlbb/skills/hirara-1.webp)
+
+1-й навык
+
+### Мэйсэн‑э
+
+Перезарядка **10 с**
+
+Хирара скользит по волнам, используя "Мэйсэн‑э", выполняя до двух рывков с помощью джойстика (первый рывок направлен в ту сторону, куда она смотрит). Она наносит 150 (+50% дополнительной физической атаки) единиц физического урона пораженным врагам.
+
+![](/images/mlbb/skills/hirara-2.webp)
+
+Ультимейт
+
+### Каэрадзу
+
+Перезарядка **5 с**
+
+Хирара использует "Каэрадзу" и высвобождает "Багровый клен", нанося 165 (+42% дополнительной физической атаки) единиц физического урона врагам в веерообразной области.
+
+После небольшой задержки она снова наносит урон в указанном месте в размере, в 2 р. превышающем первоначальный урон "Багрового клена".
 
 ## Контрпики и союзники
 
-### Кто контрит
+### Контрпики
+
+Побеждают этого героя
 
 [![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ### Союзники
 
-Изменение винрейта в паре
+Рост побед в паре, п. п.
 
-[![](/images/heroes/angela.webp)Ангела+2,77 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/joy.webp)Джой+1,38 п. п.](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/dyrroth.webp)Дариус+1,30 п. п.](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/floryn.webp)Флорин+1,10 п. п.](https://boostmlbb.ru/heroes/floryn.html)
-
-## Навыки
-
-Приоритет прокачки · Каэрадзу → Мэйсэн‑э
-
-![](/images/mlbb/skills/hirara-0.webp)Пассивный**Парные веера: Укифунэ**
-
-У Хирары есть только два навыка, представляющие ее два оружия: "Мэйсэн‑э" и "Каэрадзу". Перетащите один навык на другой, чтобы применить комбонавык.
-У Хирары есть 2 ед. энергии "Багрянца" / "Смерти". Применение комбонавыка расходует 1 ед. энергии "Багрянца" / "Смерти". Время восстановления энергии равно перезарядке "Мэйсэн‑э". Расход энергии прерывает процесс восстановления.
-Хирара наносит только 30 (+4\*Hero Level)% урона миньонам.
-
-![](/images/mlbb/skills/hirara-1.webp)1-й навык**Мэйсэн‑э**
-
-**Перезарядка 10 с**
-
-Хирара скользит по волнам, используя "Мэйсэн‑э", выполняя до двух рывков с помощью джойстика (первый рывок направлен в ту сторону, куда она смотрит). Она наносит 150 (+50% дополнительной физической атаки) единиц физического урона пораженным врагам.
-
-![](/images/mlbb/skills/hirara-2.webp)Ультимейт**Каэрадзу**
-
-**Перезарядка 5 с**
-
-Хирара использует "Каэрадзу" и высвобождает "Багровый клен", нанося 165 (+42% дополнительной физической атаки) единиц физического урона врагам в веерообразной области.
-После небольшой задержки она снова наносит урон в указанном месте в размере, в 2 р. превышающем первоначальный урон "Багрового клена".
-
-## Победы по рангам
-
--   ![](/images/ranks/Epic.webp)Эпик**50,75%**
--   ![](/images/ranks/Legend.webp)Легенда**50,34%**
--   ![](/images/ranks/Mythic.webp)Мифический**49,94%**
--   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**50,91%**
--   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,50%**
+[![](/images/heroes/angela.webp)Ангела**+2,8**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/joy.webp)Джой**+1,4**](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,3**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/floryn.webp)Флорин**+1,1**](https://boostmlbb.ru/heroes/floryn.html)
 
 ## История
 
-Ниндзя-гейша из Алой тени, вооруженная двумя веерами и облаченная в багряный клен и мейсэн. В ее искаженном сознании смерть — это высшее спасение.
+> Ниндзя-гейша из Алой тени, вооруженная двумя веерами и облаченная в багряный клен и мейсэн. В ее искаженном сознании смерть — это высшее спасение.
 
 [Читать полную историю ↗](https://kazukiofficial.com/stories/hirara)Kazuki Official, английский
 
-[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=133)
+[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=133)
 
-[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
+**Поднимем ранг на герое «Хирара»**Цена считается в калькуляторе
+
+[Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -142,7 +283,7 @@ language: ru
 
 Какой процент побед у героя «Хирара» сейчас?
 
-50,03% за последние 30 дней на всех рангах и 49,50% в Мифической славе, данные на 23 ноября 2026 года.
+49,52% в Мифической славе за последние 7 дней и 50,03% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
 
 Какая роль и линия у героя «Хирара»?
 
@@ -150,7 +291,7 @@ language: ru
 
 Силён ли герой «Хирара» в текущей мете?
 
-Тир B: 64-е место из 133 героев по проценту побед за 30 дней и 7-е среди убийц.
+Тир S, 5-е место из 133 героев и 1-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 84,7% матчей, 49,5% побед.
 
 Какая сборка на героя «Хирара» лучшая?
 

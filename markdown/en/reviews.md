@@ -5,11 +5,7 @@ canonical: https://boostmlbb.ru/en/reviews.html
 language: en
 ---
 
-Reviews
-
 # Our clients' reviews
-
-Customer feedback about assigned players and completed orders
 
 5.0 Rating
 

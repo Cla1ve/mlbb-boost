@@ -1,147 +1,249 @@
 ---
 title: "Kadita MLBB: build, counters and skills | MLBB Boost"
-description: "Kadita in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 51.30% win rate, tier A."
+description: "Kadita in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 51.18% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kadita.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/kadita.webp)
-
-Tier A
+![Kadita hero art](/images/heroes/art/kadita.webp)
 
 # Kadita
 
-Assassin and mage · Mid Lane
+B
+
+![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
+
+The Ocean Goddess who wields the Trident of the Seas to cleanse the seas.
 
 Win rate
 
-51.30%
+51.2%
+
+all ranks 51.3%
 
 Pick rate
 
-0.77%
+0.9%
+
+all ranks 0.8%
 
 Ban rate
 
-2.92%
+1.9%
 
-**#38 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 2.9%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#43 in the tier list · #8 among assassins · Mythical Glory, 7 days, to 23 November
 
-Burst · Charge · Difficulty 60/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**40**
+-   Offense**80**
+-   Control**80**
+-   Difficulty**60**
+
+-   Burst
+-   Charge
+
+### Win rate by rank, 30 days
+
+1.  **49.8%**![](/images/ranks/Epic.webp)Epic
+2.  **50.4%**![](/images/ranks/Legend.webp)Legend
+3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More assassins on this lane
+
+[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)
 
 ## Build
 
-Most picked in ranked · Mid Lane
+Mid Lane · from ranked matches
 
-Core items
+Build 156.9%Build 256.9%
 
-![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3102.webp)Holy Crystal
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3111.webp)
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/631.webp)Lethal Ignition
+Genius Wand
 
-Battle spell
+![](/images/mlbb/items/3110.webp)
 
-![](/images/mlbb/spells/20070.webp)Petrify
+Lightning Truncheon
 
-Wins with this build **56.87%**Picked in **8.26%** of matches
+![](/images/mlbb/items/3102.webp)
 
-Alternative builds (2)
+Holy Crystal
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/2101.webp)Magic Wand
+![](/images/mlbb/emblems/20006.webp)
 
-Emblem and talents
+Mage
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/talents/511.webp)
 
-Battle spell
+Rupture
 
-![](/images/mlbb/spells/20070.webp)Petrify
+![](/images/mlbb/talents/821.webp)
 
-Wins with this build **42.25%**Picked in **3.66%** of matches
+Pull Yourself Together
 
-Core items
+![](/images/mlbb/talents/631.webp)
 
-![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3101.webp)Divine Glaive
+Lethal Ignition
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/spells/20070.webp)
 
-Battle spell
+Petrify
 
-![](/images/mlbb/spells/20070.webp)Petrify
+Win rate
 
-Wins with this build **56.88%**Picked in **2.70%** of matches
+56.9%
+
+Pick rate
+
+8.3%
+
+### Core items
+
+![](/images/mlbb/items/3111.webp)
+
+Genius Wand
+
+![](/images/mlbb/items/3110.webp)
+
+Lightning Truncheon
+
+![](/images/mlbb/items/3101.webp)
+
+Divine Glaive
+
+### Emblem
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/821.webp)
+
+Pull Yourself Together
+
+![](/images/mlbb/talents/631.webp)
+
+Lethal Ignition
+
+### Spell
+
+![](/images/mlbb/spells/20070.webp)
+
+Petrify
+
+Win rate
+
+56.9%
+
+Pick rate
+
+2.7%
+
+## Skills
+
+Level-up**Rough Waves**_›_**Ocean Ode**_›_**Breath of the Ocean**
+
+![](/images/mlbb/skills/kadita-0.webp)Passive![](/images/mlbb/skills/kadita-1.webp)Skill 1![](/images/mlbb/skills/kadita-2.webp)Skill 2![](/images/mlbb/skills/kadita-3.webp)Ultimate
+
+![](/images/mlbb/skills/kadita-0.webp)
+
+Passive
+
+### Thalassophobia
+
+Kadita gains the Blessing of the Ocean every 30s. Taking damage from an enemy hero activates the Blessing for 4s.
+
+When the Blessing ends, she recovers 65% of the HP lost during this period (damage from minions and creeps does not activate this effect).
+
+While in the River, Kadita gains 10% extra Movement Speed.
+
+![](/images/mlbb/skills/kadita-1.webp)
+
+Skill 1
+
+### Ocean Ode
+
+Cooldown **9 Mana Cost: 55 s**
+
+Kadita summons an ocean wave to carry herself in the target direction and back, dealing 250 (+90% Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. While inside the wave, she gains Control Immunity and 50% Damage Reduction. This skill can pass through obstacles and terrain.
+
+**Use Again:** Kadita exits the wave without interrupting the wave's movement.
+
+![](/images/mlbb/skills/kadita-2.webp)
+
+Skill 2
+
+### Breath of the Ocean
+
+Cooldown **8 Mana Cost: 75 s**
+
+After a short delay, Kadita summons an ocean wave to erupt at the target location, dealing 350 (+140% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 1s.
+
+Kadita can cast this skill during Ocean Ode to summon an ocean wave beneath her with a shorter eruption delay.
+
+![](/images/mlbb/skills/kadita-3.webp)
+
+Ultimate
+
+### Rough Waves
+
+Cooldown **40 Mana Cost: 120 s**
+
+Kadita dives into the ground and sends ocean waves in all directions, each dealing 270 (+60% Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a delay, the waves return to Kadita, each dealing 180 (+40% Total Magic Power) Magic Damage to enemies hit.
+
+While underground, Kadita becomes untargetable and gains 60% Movement Speed.
+
+This skill can only be interrupted by Suppression.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/floryn.webp)Floryn+2.17 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/mathilda.webp)Mathilda+1.87 pp](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/angela.webp)Angela+1.65 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/rafaela.webp)Rafaela+1.16 pp](https://boostmlbb.ru/en/heroes/rafaela.html)
-
-## Skills
-
-Level-up priority · Rough Waves → Ocean Ode → Breath of the Ocean
-
-![](/images/mlbb/skills/kadita-0.webp)Passive**Thalassophobia**
-
-Kadita gains the Blessing of the Ocean every 30s. Taking damage from an enemy hero activates the Blessing for 4s.
-When the Blessing ends, she recovers 65% of the HP lost during this period (damage from minions and creeps does not activate this effect).
-While in the River, Kadita gains 10% extra Movement Speed.
-
-![](/images/mlbb/skills/kadita-1.webp)Skill 1**Ocean Ode**
-
-**Cooldown 9 Mana Cost: 55 s**
-
-Kadita summons an ocean wave to carry herself in the target direction and back, dealing 250 (+90% Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. While inside the wave, she gains Control Immunity and 50% Damage Reduction. This skill can pass through obstacles and terrain.
-Use Again: Kadita exits the wave without interrupting the wave's movement.
-
-![](/images/mlbb/skills/kadita-2.webp)Skill 2**Breath of the Ocean**
-
-**Cooldown 8 Mana Cost: 75 s**
-
-After a short delay, Kadita summons an ocean wave to erupt at the target location, dealing 350 (+140% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 1s.
-Kadita can cast this skill during Ocean Ode to summon an ocean wave beneath her with a shorter eruption delay.
-
-![](/images/mlbb/skills/kadita-3.webp)Ultimate**Rough Waves**
-
-**Cooldown 40 Mana Cost: 120 s**
-
-Kadita dives into the ground and sends ocean waves in all directions, each dealing 270 (+60% Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a delay, the waves return to Kadita, each dealing 180 (+40% Total Magic Power) Magic Damage to enemies hit.
-While underground, Kadita becomes untargetable and gains 60% Movement Speed.
-This skill can only be interrupted by Suppression.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**49.80%**
--   ![](/images/ranks/Legend.webp)Legend**50.40%**
--   ![](/images/ranks/Mythic.webp)Mythic**50.62%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**51.48%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.80%**
+[![](/images/heroes/floryn.webp)Floryn**+2.2**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/mathilda.webp)Mathilda**+1.9**](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/angela.webp)Angela**+1.6**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/rafaela.webp)Rafaela**+1.2**](https://boostmlbb.ru/en/heroes/rafaela.html)
 
 ## Lore
 
-The Ocean Goddess who wields the Trident of the Seas to cleanse the seas.
+> The Ocean Goddess who wields the Trident of the Seas to cleanse the seas.
 
 [Read the full story ↗](https://kazukiofficial.com/stories/kadita)Kazuki Official
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=75)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=75)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Kadita**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -151,7 +253,7 @@ Over the last 30 days the toughest opponents are Lolita, Ixia, Johnson, Silvanna
 
 What is Kadita’s win rate right now?
 
-51.30% over the last 30 days across all ranks and 51.80% in Mythical Glory, as of 23 November 2026.
+51.18% at Mythical Glory over the last 7 days and 51.30% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Kadita play?
 
@@ -159,7 +261,7 @@ Assassin and mage, played in the Mid Lane.
 
 Is Kadita strong in the current meta?
 
-Tier A: #38 of 133 heroes by 30-day win rate and #3 among assassins.
+Tier B, #43 of 133 heroes and #8 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 51.2% win rate.
 
 What is the best build for Kadita?
 

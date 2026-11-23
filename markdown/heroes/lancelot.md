@@ -1,146 +1,291 @@
 ---
 title: "Ланселот MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ланселот в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 43,13% побед, тир D."
+description: "Ланселот в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 42,22% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/lancelot.html
 language: ru
 ---
 
 [Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
-![](/images/heroes/lancelot.webp)
-
-Тир D
+![Арт героя Ланселот](/images/heroes/art/lancelot.webp)
 
 # Ланселот
 
-Убийца · Лес
+D
+
+![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
+
+Блудный сын и талантливый фехтовальщик Дома Барокко.
 
 Победы
 
-43,13%
+42,2%
+
+все ранги 43,1%
 
 Выбор
 
-0,51%
+0,5%
+
+все ранги 0,5%
 
 Баны
 
-0,47%
+0,1%
 
-**№ 130 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
+все ранги 0,5%
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+№132 в тир-листе · №29 среди убийц · Мифическая слава, 7 дней, по 23 ноября
 
-Преследование · Разрушительный урон · Сложность 50/100
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+
+## Обзор
+
+### Характеристики
+
+-   Живучесть**40**
+-   Атака**50**
+-   Эффекты**10**
+-   Сложность**50**
+
+-   Преследование
+-   Разрушительный урон
+
+### Победы по рангам, 30 дней
+
+1.  **45,3%**![](/images/ranks/Epic.webp)Эпик
+2.  **44,1%**![](/images/ranks/Legend.webp)Легенда
+3.  **43,1%**![](/images/ranks/Mythic.webp)Мифик
+4.  **43,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **42,3%**![](/images/ranks/Mythical_Glory.webp)Слава
+
+Пунктир: 50% побед
+
+### Другие убийцы этой линии
+
+[![](/images/heroes/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
 
 ## Сборка
 
-Самый частый выбор в рейтинге · Лес
+Лес · по данным рейтинговых матчей
 
-Ключевые предметы
+Сборка 149,0%Сборка 250,0%Сборка 348,2%
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3208.webp)Кираса грубой силы![](/images/mlbb/items/3004.webp)Бесконечная битва
+### Предметы
 
-Эмблема и таланты
+![](/images/mlbb/items/2013.webp)
 
-![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/531.webp)Убийственный пир
+Топор войны
 
-Боевое заклинание
+![](/images/mlbb/items/3208.webp)
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+Кираса грубой силы
 
-Побед с этой сборкой **48,19%**Выбирают в **6,70%** матчей
+![](/images/mlbb/items/3004.webp)
 
-Другие сборки (2)
+Бесконечная битва
 
-Ключевые предметы
+### Эмблема
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва![](/images/mlbb/items/3208.webp)Кираса грубой силы
+![](/images/mlbb/emblems/20005.webp)
 
-Эмблема и таланты
+Эмблема убийцы
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/531.webp)Убийственный пир
+![](/images/mlbb/talents/111.webp)
 
-Боевое заклинание
+Трепет
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+![](/images/mlbb/talents/122.webp)
 
-Побед с этой сборкой **50,05%**Выбирают в **7,93%** матчей
+Опытный охотник
 
-Ключевые предметы
+![](/images/mlbb/talents/531.webp)
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3208.webp)Кираса грубой силы![](/images/mlbb/items/3004.webp)Бесконечная битва
+Убийственный пир
 
-Эмблема и таланты
+### Заклинание
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/531.webp)Убийственный пир
+![](/images/mlbb/spells/20020.webp)
 
-Боевое заклинание
+Возмездие
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+Победы
 
-Побед с этой сборкой **49,02%**Выбирают в **9,61%** матчей
+49,0%
+
+Выбор
+
+9,6%
+
+### Предметы
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+![](/images/mlbb/items/3004.webp)
+
+Бесконечная битва
+
+![](/images/mlbb/items/3208.webp)
+
+Кираса грубой силы
+
+### Эмблема
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+![](/images/mlbb/talents/111.webp)
+
+Трепет
+
+![](/images/mlbb/talents/122.webp)
+
+Опытный охотник
+
+![](/images/mlbb/talents/531.webp)
+
+Убийственный пир
+
+### Заклинание
+
+![](/images/mlbb/spells/20020.webp)
+
+Возмездие
+
+Победы
+
+50,0%
+
+Выбор
+
+7,9%
+
+### Предметы
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+![](/images/mlbb/items/3208.webp)
+
+Кираса грубой силы
+
+![](/images/mlbb/items/3004.webp)
+
+Бесконечная битва
+
+### Эмблема
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+![](/images/mlbb/talents/111.webp)
+
+Трепет
+
+![](/images/mlbb/talents/122.webp)
+
+Опытный охотник
+
+![](/images/mlbb/talents/531.webp)
+
+Убийственный пир
+
+### Заклинание
+
+![](/images/mlbb/spells/20020.webp)
+
+Возмездие
+
+Победы
+
+48,2%
+
+Выбор
+
+6,7%
+
+## Навыки
+
+Прокачка**Призрачная казнь**_›_**Шипованная роза**_›_**Прокол**
+
+![](/images/mlbb/skills/lancelot-0.webp)Пассивный![](/images/mlbb/skills/lancelot-1.webp)1-й навык![](/images/mlbb/skills/lancelot-2.webp)2-й навык![](/images/mlbb/skills/lancelot-3.webp)Ультимейт
+
+![](/images/mlbb/skills/lancelot-0.webp)
+
+Пассивный
+
+### Порез души
+
+Каждый раз, когда Ланселот совершает рывок, его урон увеличивается на 7.5% на 4 сек., вплоть до 30%.
+
+![](/images/mlbb/skills/lancelot-1.webp)
+
+1-й навык
+
+### Прокол
+
+Перезарядка **14 Mana Cost: 40 с**
+
+Ланселот совершает рывок в указанном направлении, нанося 150 (+50% общей физической атаки) единиц физического урона врагам на пути и накладывая "Метку меча" на первого пораженного врага без метки на 3 сек.
+
+При наложении новой "Метки меча" перезарядка этого навыка сбрасывается.
+
+![](/images/mlbb/skills/lancelot-2.webp)
+
+2-й навык
+
+### Шипованная роза
+
+Перезарядка **11 Mana Cost: 60 с**
+
+Ланселот совершает 3 удара в указанном направлении, каждый раз нанося 220 (+120% дополнительной физической атаки) единиц физического урона пораженным врагам (урон уменьшается, если поражено несколько врагов). Во время этого процесса он неуловим для прицела. Враги в центре области получают все 3 удара и замедляются на 20% на 0.5 сек. Эффект замедления может складываться.
+
+![](/images/mlbb/skills/lancelot-3.webp)
+
+Ультимейт
+
+### Призрачная казнь
+
+Перезарядка **36 Mana Cost: 100 с**
+
+После небольшой задержки Ланселот совершает карающий удар в указанном направлении, нанося 350 (+170% общей физической атаки) единиц физического урона пораженным врагам. Во время этого процесса он неуязвим.
 
 ## Контрпики и союзники
 
-### Кто контрит
+### Контрпики
+
+Побеждают этого героя
 
 [![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
 
-### Против кого силён
+### Слабые цели
+
+Этот герой побеждает их
 
 [![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)
 
 ### Союзники
 
-Изменение винрейта в паре
+Рост побед в паре, п. п.
 
-[![](/images/heroes/angela.webp)Ангела+3,22 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Дариус+1,17 п. п.](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/argus.webp)Аргус+1,11 п. п.](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/hanabi.webp)Ханаби+0,75 п. п.](https://boostmlbb.ru/heroes/hanabi.html)
-
-## Навыки
-
-Приоритет прокачки · Призрачная казнь → Шипованная роза → Прокол
-
-![](/images/mlbb/skills/lancelot-0.webp)Пассивный**Порез души**
-
-Каждый раз, когда Ланселот совершает рывок, его урон увеличивается на 7.5% на 4 сек., вплоть до 30%.
-
-![](/images/mlbb/skills/lancelot-1.webp)1-й навык**Прокол**
-
-**Перезарядка 14 Mana Cost: 40 с**
-
-Ланселот совершает рывок в указанном направлении, нанося 150 (+50% общей физической атаки) единиц физического урона врагам на пути и накладывая "Метку меча" на первого пораженного врага без метки на 3 сек.
-При наложении новой "Метки меча" перезарядка этого навыка сбрасывается.
-
-![](/images/mlbb/skills/lancelot-2.webp)2-й навык**Шипованная роза**
-
-**Перезарядка 11 Mana Cost: 60 с**
-
-Ланселот совершает 3 удара в указанном направлении, каждый раз нанося 220 (+120% дополнительной физической атаки) единиц физического урона пораженным врагам (урон уменьшается, если поражено несколько врагов). Во время этого процесса он неуловим для прицела. Враги в центре области получают все 3 удара и замедляются на 20% на 0.5 сек. Эффект замедления может складываться.
-
-![](/images/mlbb/skills/lancelot-3.webp)Ультимейт**Призрачная казнь**
-
-**Перезарядка 36 Mana Cost: 100 с**
-
-После небольшой задержки Ланселот совершает карающий удар в указанном направлении, нанося 350 (+170% общей физической атаки) единиц физического урона пораженным врагам. Во время этого процесса он неуязвим.
-
-## Победы по рангам
-
--   ![](/images/ranks/Epic.webp)Эпик**45,34%**
--   ![](/images/ranks/Legend.webp)Легенда**44,12%**
--   ![](/images/ranks/Mythic.webp)Мифический**43,14%**
--   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**43,19%**
--   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**42,31%**
+[![](/images/heroes/angela.webp)Ангела**+3,2**](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Дариус**+1,2**](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/argus.webp)Аргус**+1,1**](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/hanabi.webp)Ханаби**+0,8**](https://boostmlbb.ru/heroes/hanabi.html)
 
 ## История
 
-Блудный сын и талантливый фехтовальщик Дома Барокко.
+> Блудный сын и талантливый фехтовальщик Дома Барокко.
 
 [Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Lancelot)Официальный сайт Mobile Legends
 
-[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=47)
+[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=47)
 
-[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
+**Поднимем ранг на герое «Ланселот»**Цена считается в калькуляторе
+
+[Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -150,7 +295,7 @@ language: ru
 
 Какой процент побед у героя «Ланселот» сейчас?
 
-43,13% за последние 30 дней на всех рангах и 42,31% в Мифической славе, данные на 23 ноября 2026 года.
+42,22% в Мифической славе за последние 7 дней и 43,13% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
 
 Какая роль и линия у героя «Ланселот»?
 
@@ -158,8 +303,8 @@ language: ru
 
 Силён ли герой «Ланселот» в текущей мете?
 
-Тир D: 130-е место из 133 героев по проценту побед за 30 дней и 28-е среди убийц.
+Тир D, 132-е место из 133 героев и 29-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 42,2% побед.
 
 Какая сборка на героя «Ланселот» лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Кираса грубой силы» и «Бесконечная битва», эмблема бойца с талантами «Трепет», «Опытный охотник» и «Убийственный пир» и заклинание «Возмездие». С ней выигрывают 48,19% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Кираса грубой силы» и «Бесконечная битва», эмблема убийцы с талантами «Трепет», «Опытный охотник» и «Убийственный пир» и заклинание «Возмездие». С ней выигрывают 49,02% матчей.

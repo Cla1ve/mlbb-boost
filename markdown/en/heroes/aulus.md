@@ -1,146 +1,293 @@
 ---
 title: "Aulus MLBB: build, counters and skills | MLBB Boost"
-description: "Aulus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.46% win rate, tier S."
+description: "Aulus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.00% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/aulus.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/aulus.webp)
-
-Tier S
+![Aulus hero art](/images/heroes/art/aulus.webp)
 
 # Aulus
 
-Fighter · EXP Lane or Jungle
+S
+
+![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/jungle.webp)Jungle
+
+A Leonin warrior who inherited his predecessor's resolve, cleaving his own path with burning ferocity.
 
 Win rate
 
-53.46%
+53.0%
+
+all ranks 53.5%
 
 Pick rate
 
-0.77%
+0.8%
+
+all ranks 0.8%
 
 Ban rate
 
-30.30%
+22.6%
 
-**#12 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 30.3%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#12 in the tier list · #3 among fighters · Mythical Glory, 7 days, to 23 November
 
-Damage · Charge · Difficulty 20/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**60**
+-   Offense**60**
+-   Control**10**
+-   Difficulty**20**
+
+-   Damage
+-   Charge
+
+### Win rate by rank, 30 days
+
+1.  **51.6%**![](/images/ranks/Epic.webp)Epic
+2.  **52.5%**![](/images/ranks/Legend.webp)Legend
+3.  **53.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **54.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **53.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More fighters on this lane
+
+[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
 
 ## Build
 
-Most picked in ranked · EXP Lane
+EXP Lane · from ranked matches
 
-Core items
+Build 153.4%Build 258.6%Build 353.3%
 
-![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/3012.webp)Rose Gold Meteor
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/2013.webp)
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/531.webp)Killing Spree
+War Axe
 
-Battle spell
+![](/images/mlbb/items/3208.webp)
 
-![](/images/mlbb/spells/20190.webp)Vengeance
+Brute Force Breastplate
 
-Wins with this build **58.65%**Picked in **2.46%** of matches
+![](/images/mlbb/items/3001.webp)
 
-Alternative builds (2)
+Malefic Roar
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/3001.webp)Malefic Roar
+![](/images/mlbb/emblems/20005.webp)
 
-Emblem and talents
+Assassin
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
+![](/images/mlbb/talents/111.webp)
 
-Battle spell
+Thrill
 
-![](/images/mlbb/spells/20190.webp)Vengeance
+![](/images/mlbb/talents/122.webp)
 
-Wins with this build **53.44%**Picked in **3.21%** of matches
+Seasoned Hunter
 
-Core items
+![](/images/mlbb/talents/531.webp)
 
-![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/3001.webp)Malefic Roar
+Killing Spree
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
+![](/images/mlbb/spells/20190.webp)
 
-Battle spell
+Vengeance
 
-![](/images/mlbb/spells/20190.webp)Vengeance
+Win rate
 
-Wins with this build **53.25%**Picked in **2.20%** of matches
+53.4%
+
+Pick rate
+
+3.2%
+
+### Core items
+
+![](/images/mlbb/items/2013.webp)
+
+War Axe
+
+![](/images/mlbb/items/3208.webp)
+
+Brute Force Breastplate
+
+![](/images/mlbb/items/3012.webp)
+
+Rose Gold Meteor
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/111.webp)
+
+Thrill
+
+![](/images/mlbb/talents/721.webp)
+
+Festival of Blood
+
+![](/images/mlbb/talents/531.webp)
+
+Killing Spree
+
+### Spell
+
+![](/images/mlbb/spells/20190.webp)
+
+Vengeance
+
+Win rate
+
+58.6%
+
+Pick rate
+
+2.5%
+
+### Core items
+
+![](/images/mlbb/items/2013.webp)
+
+War Axe
+
+![](/images/mlbb/items/3208.webp)
+
+Brute Force Breastplate
+
+![](/images/mlbb/items/3001.webp)
+
+Malefic Roar
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/122.webp)
+
+Seasoned Hunter
+
+![](/images/mlbb/talents/531.webp)
+
+Killing Spree
+
+### Spell
+
+![](/images/mlbb/spells/20190.webp)
+
+Vengeance
+
+Win rate
+
+53.3%
+
+Pick rate
+
+2.2%
+
+## Skills
+
+Level-up**Cleaving Axe**_›_**The Power of Axe**_›_**Aulus, Charge!**
+
+![](/images/mlbb/skills/aulus-0.webp)Passive![](/images/mlbb/skills/aulus-1.webp)Skill 1![](/images/mlbb/skills/aulus-2.webp)Skill 2![](/images/mlbb/skills/aulus-3.webp)Ultimate
+
+![](/images/mlbb/skills/aulus-0.webp)
+
+Passive
+
+### Fighting Spirit
+
+Whenever Aulus deals skill damage to a unit, he gains an enhanced Basic Attack for 2s (capped at 4s).
+
+**Enhanced Basic Attack:** Aulus raises his axe and slams it into the ground, dealing 120 (+12 × hero level) (+75% Total Physical Attack) Physical Damage to enemies in a line and recovering 15 (+20% Total Physical Attack) HP. Enemies hit are slowed by 10% for 1s. Aulus also gains 0.5 Attack Range and 20% Attack Speed for 1s.
+
+Enhanced Basic Attack deals 240 (+24 × hero level) (+75% Total Physical Attack) Physical Damage to creeps.
+
+![](/images/mlbb/skills/aulus-1.webp)
+
+Skill 1
+
+### Aulus, Charge!
+
+Cooldown **15 s**
+
+Aulus starts accumulating Fighting Spirit, removes all slow effects, and gains 30% extra Movement Speed for 5s.
+
+If Aulus does not take high-level control effects within 2s, he will enter the Enraged state and gain Control Immunity.
+
+![](/images/mlbb/skills/aulus-2.webp)
+
+Skill 2
+
+### The Power of Axe
+
+Cooldown **10 s**
+
+Aulus swings his axe, dealing 240 (+100% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and stunning them for 0.3s.
+
+**Use Again:** Aulus dashes forward and smashes the ground, dealing 240 (+100% Total Physical Attack) Physical Damage to nearby enemies.
+
+![](/images/mlbb/skills/aulus-3.webp)
+
+Ultimate
+
+### Cleaving Axe
+
+Cooldown **50 s**
+
+Aulus repeatedly swings his axe at nearby enemies, dealing 150 (+60% Total Physical Attack) Physical Damage each time. After 4 strikes, Aulus briefly charges before unleashing a wider slash, dealing 450 (+180% Total Physical Attack) Physical Damage to enemies in a large area.
+
+During this skill, Aulus gains 20% Damage Reduction and a short burst of Movement Speed with each slash.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/arlott.webp)Arlott+2.18 pp](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.76 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere+1.61 pp](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/benedetta.webp)Benedetta+1.50 pp](https://boostmlbb.ru/en/heroes/benedetta.html)
-
-## Skills
-
-Level-up priority · Cleaving Axe → The Power of Axe → Aulus, Charge!
-
-![](/images/mlbb/skills/aulus-0.webp)Passive**Fighting Spirit**
-
-Whenever Aulus deals skill damage to a unit, he gains an enhanced Basic Attack for 2s (capped at 4s).
-Enhanced Basic Attack: Aulus raises his axe and slams it into the ground, dealing 120 (+12\*Hero Level) (+75% Total Physical Attack) Physical Damage to enemies in a line and recovering 15 (+20% Total Physical Attack) HP. Enemies hit are slowed by 10% for 1s. Aulus also gains 0.5 Attack Range and 20% Attack Speed for 1s.
-Enhanced Basic Attack deals 240 (+24\*Hero Level) (+75% Total Physical Attack) Physical Damage to creeps.
-
-![](/images/mlbb/skills/aulus-1.webp)Skill 1**Aulus, Charge!**
-
-**Cooldown 15 s**
-
-Aulus starts accumulating Fighting Spirit, removes all slow effects, and gains 30% extra Movement Speed for 5s.
-If Aulus does not take high-level control effects within 2s, he will enter the Enraged state and gain Control Immunity.
-
-![](/images/mlbb/skills/aulus-2.webp)Skill 2**The Power of Axe**
-
-**Cooldown 10 s**
-
-Aulus swings his axe, dealing 240 (+100% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and stunning them for 0.3s.
-Use Again: Aulus dashes forward and smashes the ground, dealing 240 (+100% Total Physical Attack) Physical Damage to nearby enemies.
-
-![](/images/mlbb/skills/aulus-3.webp)Ultimate**Cleaving Axe**
-
-**Cooldown 50 s**
-
-Aulus repeatedly swings his axe at nearby enemies, dealing 150 (+60% Total Physical Attack) Physical Damage each time. After 4 strikes, Aulus briefly charges before unleashing a wider slash, dealing 450 (+180% Total Physical Attack) Physical Damage to enemies in a large area.
-During this skill, Aulus gains 20% Damage Reduction and a short burst of Movement Speed with each slash.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**51.65%**
--   ![](/images/ranks/Legend.webp)Legend**52.55%**
--   ![](/images/ranks/Mythic.webp)Mythic**53.40%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**54.11%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**53.44%**
+[![](/images/heroes/arlott.webp)Arlott**+2.2**](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.8**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere**+1.6**](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/benedetta.webp)Benedetta**+1.5**](https://boostmlbb.ru/en/heroes/benedetta.html)
 
 ## Lore
 
-A Leonin warrior who inherited his predecessor's resolve, cleaving his own path with burning ferocity.
+> A Leonin warrior who inherited his predecessor's resolve, cleaving his own path with burning ferocity.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Aulus)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=108)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=108)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Aulus**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -150,7 +297,7 @@ Over the last 30 days the toughest opponents are Gloo, Minsitthar, Tigreal, Loli
 
 What is Aulus’s win rate right now?
 
-53.46% over the last 30 days across all ranks and 53.44% in Mythical Glory, as of 23 November 2026.
+53.00% at Mythical Glory over the last 7 days and 53.46% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Aulus play?
 
@@ -158,8 +305,8 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Aulus strong in the current meta?
 
-Tier S: #12 of 133 heroes by 30-day win rate and #4 among fighters.
+Tier S, #12 of 133 heroes and #3 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 22.6% of matches, 53.0% win rate.
 
 What is the best build for Aulus?
 
-The most popular ranked build: War Axe, Brute Force Breastplate and Rose Gold Meteor as core items, the Fighter emblem with Thrill, Festival of Blood and Killing Spree, and Vengeance. It wins 58.65% of matches.
+The most popular ranked build: War Axe, Brute Force Breastplate and Malefic Roar as core items, the Assassin emblem with Thrill, Seasoned Hunter and Killing Spree, and Vengeance. It wins 53.44% of matches.

@@ -1,148 +1,295 @@
 ---
 title: "Odette MLBB: build, counters and skills | MLBB Boost"
-description: "Odette in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.69% win rate, tier B."
+description: "Odette in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.13% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/odette.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/odette.webp)
-
-Tier B
+![Odette hero art](/images/heroes/art/odette.webp)
 
 # Odette
 
-Mage · Mid Lane
+C
+
+![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
+
+Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.
 
 Win rate
 
-49.69%
+51.1%
+
+all ranks 49.7%
 
 Pick rate
 
-0.55%
+0.4%
+
+all ranks 0.6%
 
 Ban rate
 
-0.27%
+0.1%
 
-**#75 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 0.3%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#68 in the tier list · #15 among mages · Mythical Glory, 7 days, to 23 November
 
-Burst · Poke · Difficulty 30/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**30**
+-   Offense**100**
+-   Control**70**
+-   Difficulty**30**
+
+-   Burst
+-   Poke
+
+### Win rate by rank, 30 days
+
+1.  **47.7%**![](/images/ranks/Epic.webp)Epic
+2.  **48.5%**![](/images/ranks/Legend.webp)Legend
+3.  **49.5%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More mages on this lane
+
+[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
 
 ## Build
 
-Most picked in ranked · Mid Lane
+Mid Lane · from ranked matches
 
-Core items
+Build 152.3%Build 257.2%Build 356.1%
 
-![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3102.webp)Holy Crystal
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3111.webp)
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
+Genius Wand
 
-Battle spell
+![](/images/mlbb/items/3101.webp)
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Divine Glaive
 
-Wins with this build **57.16%**Picked in **3.72%** of matches
+![](/images/mlbb/items/2107.webp)
 
-Alternative builds (2)
+Winter Crown
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3102.webp)Holy Crystal
+![](/images/mlbb/emblems/20005.webp)
 
-Emblem and talents
+Assassin
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/talents/511.webp)
 
-Battle spell
+Rupture
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/talents/1221.webp)
 
-Wins with this build **56.07%**Picked in **1.43%** of matches
+Weapons Master
 
-Core items
+![](/images/mlbb/talents/131.webp)
 
-![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3101.webp)Divine Glaive![](/images/mlbb/items/2107.webp)Winter Crown
+Impure Rage
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/131.webp)Impure Rage
+![](/images/mlbb/spells/20100.webp)
 
-Battle spell
+Flicker
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Win rate
 
-Wins with this build **52.27%**Picked in **5.57%** of matches
+52.3%
+
+Pick rate
+
+5.6%
+
+### Core items
+
+![](/images/mlbb/items/3111.webp)
+
+Genius Wand
+
+![](/images/mlbb/items/2014.webp)
+
+Sky Piercer
+
+![](/images/mlbb/items/3102.webp)
+
+Holy Crystal
+
+### Emblem
+
+![](/images/mlbb/emblems/20005.webp)
+
+Assassin
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/621.webp)
+
+Bargain Hunter
+
+![](/images/mlbb/talents/631.webp)
+
+Lethal Ignition
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+57.2%
+
+Pick rate
+
+3.7%
+
+### Core items
+
+![](/images/mlbb/items/3111.webp)
+
+Genius Wand
+
+![](/images/mlbb/items/3105.webp)
+
+Glowing Wand
+
+![](/images/mlbb/items/3102.webp)
+
+Holy Crystal
+
+### Emblem
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/1221.webp)
+
+Weapons Master
+
+![](/images/mlbb/talents/631.webp)
+
+Lethal Ignition
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+56.1%
+
+Pick rate
+
+1.4%
+
+## Skills
+
+Level-up**Swan Song**_›_**Avian Authority**_›_**Blue Nova**
+
+![](/images/mlbb/skills/odette-0.webp)Passive![](/images/mlbb/skills/odette-1.webp)Skill 1![](/images/mlbb/skills/odette-2.webp)Skill 2![](/images/mlbb/skills/odette-3.webp)Ultimate
+
+![](/images/mlbb/skills/odette-0.webp)
+
+Passive
+
+### Lakeshore Ambience
+
+For 8s after casting a skill, Odette's next Basic Attack gains extra range and bounces between enemies (or an enemy and herself), dealing 144-200 (+50% Total Magic Power) Magic Damage per hit.
+
+Odette's skills also trigger this effect on hit (up to 3 stacks).
+
+![](/images/mlbb/skills/odette-1.webp)
+
+Skill 1
+
+### Avian Authority
+
+Cooldown **6 Mana Cost: 65 s**
+
+Odette releases a magic swan in the target direction, dealing 300 (+150% Total Magic Power) Magic Damage to enemies hit and slowing them by 30% for 2s.
+
+![](/images/mlbb/skills/odette-2.webp)
+
+Skill 2
+
+### Blue Nova
+
+Cooldown **12 Mana Cost: 75 s**
+
+Odette releases a group of magic orbs in the target direction, dealing 250 (+50% Total Magic Power) Magic Damage to the first enemy hit and immobilizing them for 1.5s.
+
+When an orb hits an enemy, it creates another orb that attacks a nearby enemy, prioritizing enemy heroes, dealing 250 (+50% Total Magic Power) Magic Damage and immobilizing them for 1.5s.
+
+![](/images/mlbb/skills/odette-3.webp)
+
+Ultimate
+
+### Swan Song
+
+Cooldown **50 Mana Cost: 160 s**
+
+Odette channels a dance, gaining a 1200 (+150% Total Magic Power) shield and dealing up to 2000 (+750% Total Magic Power) Magic Damage to nearby enemies in a large area for 5s. During this time, her Movement Speed is reduced by 40%, but she can move freely.
+
+Use again to cancel. Only high-level control effects can interrupt this skill.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/zhuxin.webp)Zhuxin+8.80 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Chip+5.01 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/mathilda.webp)Mathilda+2.51 pp](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/kaja.webp)Kaja+2.34 pp](https://boostmlbb.ru/en/heroes/kaja.html)
-
-## Skills
-
-Level-up priority · Swan Song → Avian Authority → Blue Nova
-
-![](/images/mlbb/skills/odette-0.webp)Passive**Lakeshore Ambience**
-
-For 8s after casting a skill, Odette's next Basic Attack gains extra range and bounces between enemies (or an enemy and herself), dealing 144-200 (+50% Total Magic Power) Magic Damage per hit.
-Odette's skills also trigger this effect on hit (up to 3 stacks).
-
-![](/images/mlbb/skills/odette-1.webp)Skill 1**Avian Authority**
-
-**Cooldown 6 Mana Cost: 65 s**
-
-Odette releases a magic swan in the target direction, dealing 300 (+150% Total Magic Power) Magic Damage to enemies hit and slowing them by 30% for 2s.
-
-![](/images/mlbb/skills/odette-2.webp)Skill 2**Blue Nova**
-
-**Cooldown 12 Mana Cost: 75 s**
-
-Odette releases a group of magic orbs in the target direction, dealing 250 (+50% Total Magic Power) Magic Damage to the first enemy hit and immobilizing them for 1.5s.
-When an orb hits an enemy, it creates another orb that attacks a nearby enemy, prioritizing enemy heroes, dealing 250 (+50% Total Magic Power) Magic Damage and immobilizing them for 1.5s.
-
-![](/images/mlbb/skills/odette-3.webp)Ultimate**Swan Song**
-
-**Cooldown 50 Mana Cost: 160 s**
-
-Odette channels a dance, gaining a 1200 (+150% Total Magic Power) shield and dealing up to 2000 (+750% Total Magic Power) Magic Damage to nearby enemies in a large area for 5s. During this time, her Movement Speed is reduced by 40%, but she can move freely.
-Use again to cancel. Only high-level control effects can interrupt this skill.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**47.72%**
--   ![](/images/ranks/Legend.webp)Legend**48.47%**
--   ![](/images/ranks/Mythic.webp)Mythic**49.50%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.57%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.61%**
+[![](/images/heroes/zhuxin.webp)Zhuxin**+8.8**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Chip**+5.0**](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/mathilda.webp)Mathilda**+2.5**](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/kaja.webp)Kaja**+2.3**](https://boostmlbb.ru/en/heroes/kaja.html)
 
 ## Lore
 
-Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.
+> Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Odette)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=46)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=46)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Odette**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -152,7 +299,7 @@ Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip a
 
 What is Odette’s win rate right now?
 
-49.69% over the last 30 days across all ranks and 51.61% in Mythical Glory, as of 23 November 2026.
+51.13% at Mythical Glory over the last 7 days and 49.69% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Odette play?
 
@@ -160,8 +307,8 @@ Mage, played in the Mid Lane.
 
 Is Odette strong in the current meta?
 
-Tier B: #75 of 133 heroes by 30-day win rate and #17 among mages.
+Tier C, #68 of 133 heroes and #15 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.1% win rate.
 
 What is the best build for Odette?
 
-The most popular ranked build: Genius Wand, Sky Piercer and Holy Crystal as core items, the Assassin emblem with Rupture, Bargain Hunter and Lethal Ignition, and Flicker. It wins 57.16% of matches.
+The most popular ranked build: Genius Wand, Divine Glaive and Winter Crown as core items, the Assassin emblem with Rupture, Weapons Master and Impure Rage, and Flicker. It wins 52.27% of matches.

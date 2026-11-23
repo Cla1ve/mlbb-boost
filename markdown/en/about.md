@@ -35,11 +35,7 @@ Timing depends on the route, format, account requirements and player availabilit
 
 Discuss the price, start time and order terms with support before paying.
 
-Team
-
 ## Who carries out the boost?
-
-Player assignment
 
 #### Players for rank boosting
 

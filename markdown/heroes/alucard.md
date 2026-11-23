@@ -1,148 +1,249 @@
 ---
 title: "Алукард MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Алукард в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 48,87% побед, тир C."
+description: "Алукард в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 49,40% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/alucard.html
 language: ru
 ---
 
 [Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
-![](/images/heroes/alucard.webp)
-
-Тир C
+![Арт героя Алукард](/images/heroes/art/alucard.webp)
 
 # Алукард
 
-Боец и убийца · Лес
+C
+
+![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/assassin.webp)Убийца![](/images/mlbb/filters/jungle.webp)Лес
+
+Охотник на демонов, ненавидящий тьму.
 
 Победы
 
-48,87%
+49,4%
+
+все ранги 48,9%
 
 Выбор
 
-0,56%
+0,4%
+
+все ранги 0,6%
 
 Баны
 
-0,36%
+0,1%
 
-**№ 93 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
+все ранги 0,4%
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+№93 в тир-листе · №32 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
-Преследование · Урон · Сложность 30/100
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+
+## Обзор
+
+### Характеристики
+
+-   Живучесть**50**
+-   Атака**50**
+-   Эффекты**10**
+-   Сложность**30**
+
+-   Преследование
+-   Урон
+
+### Победы по рангам, 30 дней
+
+1.  **48,8%**![](/images/ranks/Epic.webp)Эпик
+2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
+3.  **49,0%**![](/images/ranks/Mythic.webp)Мифик
+4.  **48,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **49,0%**![](/images/ranks/Mythical_Glory.webp)Слава
+
+Пунктир: 50% побед
+
+### Другие бойцы этой линии
+
+[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)
 
 ## Сборка
 
-Самый частый выбор в рейтинге · Лес
+Лес · по данным рейтинговых матчей
 
-Ключевые предметы
+Сборка 159,7%Сборка 259,2%
 
-![](/images/mlbb/items/3009.webp)Удар охотника![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва
+### Предметы
 
-Эмблема и таланты
+![](/images/mlbb/items/2013.webp)
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/1221.webp)Мастер оружий![](/images/mlbb/talents/134.webp)Временное правление
+Топор войны
 
-Боевое заклинание
+![](/images/mlbb/items/3004.webp)
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+Бесконечная битва
 
-Побед с этой сборкой **59,21%**Выбирают в **5,67%** матчей
+![](/images/mlbb/items/3008.webp)
 
-Другие сборки (2)
+Клинок отчаяния
 
-Ключевые предметы
+### Эмблема
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва![](/images/mlbb/items/3008.webp)Клинок отчаяния
+![](/images/mlbb/emblems/20005.webp)
 
-Эмблема и таланты
+Эмблема убийцы
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/134.webp)Временное правление
+![](/images/mlbb/talents/111.webp)
 
-Боевое заклинание
+Трепет
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+![](/images/mlbb/talents/122.webp)
 
-Побед с этой сборкой **59,72%**Выбирают в **12,81%** матчей
+Опытный охотник
 
-Ключевые предметы
+![](/images/mlbb/talents/134.webp)
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва![](/images/mlbb/items/2001.webp)Меч легионера
+Временное правление
 
-Эмблема и таланты
+### Заклинание
 
-![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/134.webp)Временное правление
+![](/images/mlbb/spells/20020.webp)
 
-Боевое заклинание
+Возмездие
 
-![](/images/mlbb/spells/20020.webp)Возмездие
+Победы
 
-Побед с этой сборкой **19,25%**Выбирают в **2,68%** матчей
+59,7%
+
+Выбор
+
+12,8%
+
+### Предметы
+
+![](/images/mlbb/items/3009.webp)
+
+Удар охотника
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+![](/images/mlbb/items/3004.webp)
+
+Бесконечная битва
+
+### Эмблема
+
+![](/images/mlbb/emblems/20005.webp)
+
+Эмблема убийцы
+
+![](/images/mlbb/talents/111.webp)
+
+Трепет
+
+![](/images/mlbb/talents/1221.webp)
+
+Мастер оружий
+
+![](/images/mlbb/talents/134.webp)
+
+Временное правление
+
+### Заклинание
+
+![](/images/mlbb/spells/20020.webp)
+
+Возмездие
+
+Победы
+
+59,2%
+
+Выбор
+
+5,7%
+
+## Навыки
+
+Прокачка**Расщепляющая волна**_›_**Круговой удар**_›_**Разрушающий землю**
+
+![](/images/mlbb/skills/alucard-0.webp)Пассивный![](/images/mlbb/skills/alucard-1.webp)1-й навык![](/images/mlbb/skills/alucard-2.webp)2-й навык![](/images/mlbb/skills/alucard-3.webp)Ультимейт
+
+![](/images/mlbb/skills/alucard-0.webp)
+
+Пассивный
+
+### Преследование
+
+После каждого применения навыка следующая базовая атака Алукарда позволяет ему совершить рывок к цели и нанести (+125% общей физической атаки) единиц физического урона.
+
+**Охотник на демонов:** Алукард наносит 110% урона монстрам.
+
+![](/images/mlbb/skills/alucard-1.webp)
+
+1-й навык
+
+### Разрушающий землю
+
+Перезарядка **8.5 с**
+
+Алукард прыгает в указанную область и наносит рубящий удар, нанося 270 (+85% дополнительной физической атаки) единиц физического урона врагам в области и замедляя их на 40% на 2 сек.
+
+![](/images/mlbb/skills/alucard-2.webp)
+
+2-й навык
+
+### Круговой удар
+
+Перезарядка **6 с**
+
+Алукард совершает круговой удар, нанося 345 (+120% дополнительной физической атаки) единиц физического урона ближайшим врагам.
+
+![](/images/mlbb/skills/alucard-3.webp)
+
+Ультимейт
+
+### Расщепляющая волна
+
+Перезарядка **40 с**
+
+**Пассивный:** Алукард навсегда получает 10% гибридного вампиризма.
+
+**Активный:** Алукард поглощает энергию врагов в указанной области, снижая их скорость передвижения на 30% и на 10. Он получает 10 за каждого пораженного вражеского героя и сокращает перезарядку других своих навыков до 50% на 6 сек.
+
+**Повторное использование:** Алукард выпускает мощную ударную волну вперед, нанося 400 (+200% дополнительной физической атаки) единиц физического урона.
 
 ## Контрпики и союзники
 
-### Кто контрит
+### Контрпики
+
+Побеждают этого героя
 
 [![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
 
-### Против кого силён
+### Слабые цели
+
+Этот герой побеждает их
 
 [![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
 
 ### Союзники
 
-Изменение винрейта в паре
+Рост побед в паре, п. п.
 
-[![](/images/heroes/tigreal.webp)Тигрил+1,93 п. п.](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/floryn.webp)Флорин+1,28 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу+1,28 п. п.](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/kaja.webp)Кайя+1,25 п. п.](https://boostmlbb.ru/heroes/kaja.html)
-
-## Навыки
-
-Приоритет прокачки · Расщепляющая волна → Круговой удар → Разрушающий землю
-
-![](/images/mlbb/skills/alucard-0.webp)Пассивный**Преследование**
-
-После каждого применения навыка следующая базовая атака Алукарда позволяет ему совершить рывок к цели и нанести (+125% общей физической атаки) единиц физического урона.
-"Охотник на демонов": Алукард наносит 110% урона монстрам.
-
-![](/images/mlbb/skills/alucard-1.webp)1-й навык**Разрушающий землю**
-
-**Перезарядка 8.5 с**
-
-Алукард прыгает в указанную область и наносит рубящий удар, нанося 270 (+85% дополнительной физической атаки) единиц физического урона врагам в области и замедляя их на 40% на 2 сек.
-
-![](/images/mlbb/skills/alucard-2.webp)2-й навык**Круговой удар**
-
-**Перезарядка 6 с**
-
-Алукард совершает круговой удар, нанося 345 (+120% дополнительной физической атаки) единиц физического урона ближайшим врагам.
-
-![](/images/mlbb/skills/alucard-3.webp)Ультимейт**Расщепляющая волна**
-
-**Перезарядка 40 с**
-
-Пассивный: Алукард навсегда получает 10% гибридного вампиризма.
-Активный: Алукард поглощает энергию врагов в указанной области, снижая их скорость передвижения на 30% и на 10. Он получает 10 за каждого пораженного вражеского героя и сокращает перезарядку других своих навыков до 50% на 6 сек.
-Повторное использование: Алукард выпускает мощную ударную волну вперед, нанося 400 (+200% дополнительной физической атаки) единиц физического урона.
-
-## Победы по рангам
-
--   ![](/images/ranks/Epic.webp)Эпик**48,79%**
--   ![](/images/ranks/Legend.webp)Легенда**48,94%**
--   ![](/images/ranks/Mythic.webp)Мифический**49,04%**
--   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**48,56%**
--   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,00%**
+[![](/images/heroes/tigreal.webp)Тигрил**+1,9**](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/floryn.webp)Флорин**+1,3**](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу**+1,3**](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/kaja.webp)Кайя**+1,3**](https://boostmlbb.ru/heroes/kaja.html)
 
 ## История
 
-Охотник на демонов, ненавидящий тьму.
+> Охотник на демонов, ненавидящий тьму.
 
 [Читать полную историю ↗](https://play.mobilelegends.com/lore/hero/Alucard)Официальный сайт Mobile Legends
 
-[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=7)
+[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=7)
 
-[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
+**Поднимем ранг на герое «Алукард»**Цена считается в калькуляторе
+
+[Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -152,7 +253,7 @@ language: ru
 
 Какой процент побед у героя «Алукард» сейчас?
 
-48,87% за последние 30 дней на всех рангах и 49,00% в Мифической славе, данные на 23 ноября 2026 года.
+49,40% в Мифической славе за последние 7 дней и 48,87% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
 
 Какая роль и линия у героя «Алукард»?
 
@@ -160,8 +261,8 @@ language: ru
 
 Силён ли герой «Алукард» в текущей мете?
 
-Тир C: 93-е место из 133 героев по проценту побед за 30 дней и 32-е среди бойцов.
+Тир C, 93-е место из 133 героев и 32-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,4% побед.
 
 Какая сборка на героя «Алукард» лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Топор войны» и «Бесконечная битва», эмблема убийцы с талантами «Трепет», «Мастер оружий» и «Временное правление» и заклинание «Возмездие». С ней выигрывают 59,21% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Бесконечная битва» и «Клинок отчаяния», эмблема убийцы с талантами «Трепет», «Опытный охотник» и «Временное правление» и заклинание «Возмездие». С ней выигрывают 59,72% матчей.

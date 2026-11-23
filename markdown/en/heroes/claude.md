@@ -1,147 +1,293 @@
 ---
 title: "Claude MLBB: build, counters and skills | MLBB Boost"
-description: "Claude in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.85% win rate, tier C."
+description: "Claude in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.51% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/claude.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/claude.webp)
-
-Tier C
+![Claude hero art](/images/heroes/art/claude.webp)
 
 # Claude
 
-Marksman · Gold Lane
+C
+
+![](/images/mlbb/filters/marksman.webp)Marksman![](/images/mlbb/filters/gold.webp)Gold Lane
+
+An excellent thief who comes and goes without a trace.
 
 Win rate
 
-48.85%
+48.5%
+
+all ranks 48.9%
 
 Pick rate
 
-0.78%
+1.0%
+
+all ranks 0.8%
 
 Ban rate
 
-0.21%
+0.1%
 
-**#95 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 0.2%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#70 in the tier list · #16 among marksmen · Mythical Glory, 7 days, to 23 November
 
-Burst · Chase · Difficulty 60/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**30**
+-   Offense**60**
+-   Control**10**
+-   Difficulty**60**
+
+-   Burst
+-   Chase
+
+### Win rate by rank, 30 days
+
+1.  **50.8%**![](/images/ranks/Epic.webp)Epic
+2.  **49.5%**![](/images/ranks/Legend.webp)Legend
+3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More marksmen on this lane
+
+[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
 
 ## Build
 
-Most picked in ranked · Gold Lane
+Gold Lane · from ranked matches
 
-Core items
+Build 153.6%Build 250.4%Build 353.9%
 
-![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2006.webp)Demon Hunter Sword![](/images/mlbb/items/2009.webp)Golden Staff
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/2008.webp)
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/531.webp)Killing Spree
+Corrosion Scythe
 
-Battle spell
+![](/images/mlbb/items/2006.webp)
 
-![](/images/mlbb/spells/20190.webp)Vengeance
+Demon Hunter Sword
 
-Wins with this build **50.42%**Picked in **3.27%** of matches
+![](/images/mlbb/items/2009.webp)
 
-Alternative builds (2)
+Golden Staff
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/2006.webp)Demon Hunter Sword![](/images/mlbb/items/2009.webp)Golden Staff![](/images/mlbb/items/2008.webp)Corrosion Scythe
+![](/images/mlbb/emblems/20007.webp)
 
-Emblem and talents
+Fighter
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/132.webp)Quantum Charge
+![](/images/mlbb/talents/111.webp)
 
-Battle spell
+Thrill
 
-![](/images/mlbb/spells/20080.webp)Purify
+![](/images/mlbb/talents/721.webp)
 
-Wins with this build **53.94%**Picked in **2.91%** of matches
+Festival of Blood
 
-Core items
+![](/images/mlbb/talents/132.webp)
 
-![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2006.webp)Demon Hunter Sword![](/images/mlbb/items/2009.webp)Golden Staff
+Quantum Charge
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/132.webp)Quantum Charge
+![](/images/mlbb/spells/20080.webp)
 
-Battle spell
+Purify
 
-![](/images/mlbb/spells/20080.webp)Purify
+Win rate
 
-Wins with this build **53.61%**Picked in **4.06%** of matches
+53.6%
+
+Pick rate
+
+4.1%
+
+### Core items
+
+![](/images/mlbb/items/2008.webp)
+
+Corrosion Scythe
+
+![](/images/mlbb/items/2006.webp)
+
+Demon Hunter Sword
+
+![](/images/mlbb/items/2009.webp)
+
+Golden Staff
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/111.webp)
+
+Thrill
+
+![](/images/mlbb/talents/621.webp)
+
+Bargain Hunter
+
+![](/images/mlbb/talents/531.webp)
+
+Killing Spree
+
+### Spell
+
+![](/images/mlbb/spells/20190.webp)
+
+Vengeance
+
+Win rate
+
+50.4%
+
+Pick rate
+
+3.3%
+
+### Core items
+
+![](/images/mlbb/items/2006.webp)
+
+Demon Hunter Sword
+
+![](/images/mlbb/items/2009.webp)
+
+Golden Staff
+
+![](/images/mlbb/items/2008.webp)
+
+Corrosion Scythe
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/111.webp)
+
+Thrill
+
+![](/images/mlbb/talents/721.webp)
+
+Festival of Blood
+
+![](/images/mlbb/talents/132.webp)
+
+Quantum Charge
+
+### Spell
+
+![](/images/mlbb/spells/20080.webp)
+
+Purify
+
+Win rate
+
+53.9%
+
+Pick rate
+
+2.9%
+
+## Skills
+
+Level-up**Blazing Duet**_›_**Art of Thievery**_›_**Battle Mirror Image**
+
+![](/images/mlbb/skills/claude-0.webp)Passive![](/images/mlbb/skills/claude-1.webp)Skill 1![](/images/mlbb/skills/claude-2.webp)Skill 2![](/images/mlbb/skills/claude-3.webp)Ultimate
+
+![](/images/mlbb/skills/claude-0.webp)
+
+Passive
+
+### Battle Side-by-side
+
+Dexter assists Claude on each of his Basic Attacks, dealing 25 (+25% Total Physical Attack) Physical Damage to the same target (inherits a portion of Attack Effects).
+
+![](/images/mlbb/skills/claude-1.webp)
+
+Skill 1
+
+### Art of Thievery
+
+Cooldown **5 Mana Cost: 35 s**
+
+Claude emits a disruption wave in the target direction, dealing 250 (+40% Total Physical Attack) Physical Damage to enemies in a fan-shaped area, reducing their Movement Speed by 20% and Attack Speed by 10%.
+
+For each enemy hit, he gains 4% Movement and Attack Speed (doubled if hitting enemy heroes) for 6s (up to 5 stacks).
+
+![](/images/mlbb/skills/claude-2.webp)
+
+Skill 2
+
+### Battle Mirror Image
+
+Cooldown **13 Mana Cost: 90 s**
+
+Claude conjures a mirror image of Dexter at the target location that automatically attacks nearby enemies for 5.5s. The mirror image's Basic Attacks deal 25 (+25% Total Physical Attack) Physical Damage and trigger Claude's Attack Effects.
+
+**Use Again:** Claude switches places with the mirror image.
+
+![](/images/mlbb/skills/claude-3.webp)
+
+Ultimate
+
+### Blazing Duet
+
+Cooldown **50 Mana Cost: 100 s**
+
+Claude and Dexter rapidly fire at nearby enemies for 3s, dealing 40 (+40% Total Physical Attack) Physical Damage to up to two enemies with each shot (counts as Basic Attack Damage). Claude also gains a 20 (+3% Total Physical Attack) shield each time the Ultimate deals damage to an enemy.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/harith.webp)Harith+2.92 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/saber.webp)Saber+1.11 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.10 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/aamon.webp)Aamon+1.09 pp](https://boostmlbb.ru/en/heroes/aamon.html)
-
-## Skills
-
-Level-up priority · Blazing Duet → Art of Thievery → Battle Mirror Image
-
-![](/images/mlbb/skills/claude-0.webp)Passive**Battle Side-by-side**
-
-Dexter assists Claude on each of his Basic Attacks, dealing 25 (+25% Total Physical Attack) Physical Damage to the same target (inherits a portion of Attack Effects).
-
-![](/images/mlbb/skills/claude-1.webp)Skill 1**Art of Thievery**
-
-**Cooldown 5 Mana Cost: 35 s**
-
-Claude emits a disruption wave in the target direction, dealing 250 (+40% Total Physical Attack) Physical Damage to enemies in a fan-shaped area, reducing their Movement Speed by 20% and Attack Speed by 10%.
-For each enemy hit, he gains 4% Movement and Attack Speed (doubled if hitting enemy heroes) for 6s (up to 5 stacks).
-
-![](/images/mlbb/skills/claude-2.webp)Skill 2**Battle Mirror Image**
-
-**Cooldown 13 Mana Cost: 90 s**
-
-Claude conjures a mirror image of Dexter at the target location that automatically attacks nearby enemies for 5.5s. The mirror image's Basic Attacks deal 25 (+25% Total Physical Attack) Physical Damage and trigger Claude's Attack Effects.
-Use Again: Claude switches places with the mirror image.
-
-![](/images/mlbb/skills/claude-3.webp)Ultimate**Blazing Duet**
-
-**Cooldown 50 Mana Cost: 100 s**
-
-Claude and Dexter rapidly fire at nearby enemies for 3s, dealing 40 (+40% Total Physical Attack) Physical Damage to up to two enemies with each shot (counts as Basic Attack Damage). Claude also gains a 20 (+3% Total Physical Attack) shield each time the Ultimate deals damage to an enemy.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**50.80%**
--   ![](/images/ranks/Legend.webp)Legend**49.51%**
--   ![](/images/ranks/Mythic.webp)Mythic**49.10%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.23%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.37%**
+[![](/images/heroes/harith.webp)Harith**+2.9**](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/saber.webp)Saber**+1.1**](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Dyrroth**+1.1**](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/aamon.webp)Aamon**+1.1**](https://boostmlbb.ru/en/heroes/aamon.html)
 
 ## Lore
 
-An excellent thief who comes and goes without a trace.
+> An excellent thief who comes and goes without a trace.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Claude)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=65)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=65)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Claude**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -151,7 +297,7 @@ Over the last 30 days the toughest opponents are Lolita, Chang'e, Ixia, Balmond 
 
 What is Claude’s win rate right now?
 
-48.85% over the last 30 days across all ranks and 48.37% in Mythical Glory, as of 23 November 2026.
+48.51% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Claude play?
 
@@ -159,8 +305,8 @@ Marksman, played in the Gold Lane.
 
 Is Claude strong in the current meta?
 
-Tier C: #95 of 133 heroes by 30-day win rate and #18 among marksmen.
+Tier C, #70 of 133 heroes and #16 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.5% win rate.
 
 What is the best build for Claude?
 
-The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Fighter emblem with Thrill, Bargain Hunter and Killing Spree, and Vengeance. It wins 50.42% of matches.
+The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Fighter emblem with Thrill, Festival of Blood and Quantum Charge, and Purify. It wins 53.61% of matches.

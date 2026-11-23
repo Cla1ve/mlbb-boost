@@ -6,23 +6,21 @@
     group, key: group.dataset.heroFilter, buttons: [...group.querySelectorAll('button')], value: ''
   }));
   const board = document.querySelector('.tier-board');
-  const tiers = [...board.querySelectorAll('.tier-row')];
-  const jumps = document.querySelector('.tier-jump');
+  const rows = [...board.querySelectorAll('.tier-row')];
   const switcher = document.querySelector('.tier-views');
+  const metricSwitch = document.querySelector('.tier-metric');
   const table = document.querySelector('.tier-stats');
   const empty = document.getElementById('hero-empty');
   const sortButtons = [...table.querySelectorAll('[data-hero-sort]')];
   const language = document.documentElement.lang;
-  const formatter = new Intl.NumberFormat(language, { style: 'percent', minimumFractionDigits: 2 });
+  const percent = new Intl.NumberFormat(language, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const percent1 = new Intl.NumberFormat(language, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
   const collator = new Intl.Collator(language);
   const normalize = text => text.toLowerCase().replaceAll('ё', 'е').trim();
-  const entries = tiers.flatMap(tier => [...tier.querySelectorAll('.tier-entry')].map(tile => {
-    const link = tile.querySelector('a');
-    return {
-      tile, link, tier: tier.dataset.tier, ...tile.dataset,
-      names: normalize(link.dataset.names), roles: link.dataset.roles.split(' '),
-      lanes: tile.dataset.lanes.split('|')
-    };
+  const entries = [...board.querySelectorAll('.tile')].map(tile => ({
+    tile, tier: tile.dataset.tier, ...tile.dataset,
+    names: normalize(tile.dataset.names), roles: tile.dataset.roles.split(' '), lanes: tile.dataset.lanes.split('|'),
+    value: tile.querySelector('.tile__value')
   }));
   const state = new URLSearchParams(location.search);
   query.value = state.get('q') || '';
@@ -31,14 +29,18 @@
     if (filter.buttons.some(button => button.dataset.filterValue === value)) filter.value = value;
   }
   let view = state.get('view') === 'stats' ? 'stats' : 'tiers';
-  let sort = sortButtons.some(button => button.dataset.heroSort === state.get('sort')) ? state.get('sort') : 'win';
-  let ascending = state.get('dir') === 'asc';
+  const metrics = ['none', 'ban', 'win', 'pick'];
+  let metric = metrics.includes(state.get('show')) ? state.get('show') : 'none';
+  let sort = sortButtons.some(button => button.dataset.heroSort === state.get('sort')) ? state.get('sort') : 'rank';
+  let ascending = state.has('dir') ? state.get('dir') === 'asc' : sort === 'rank';
 
   function updateUrl() {
     const url = new URL(location.href);
+    const defaultDirection = sort === 'rank' || sort === 'name';
     for (const [key, value] of Object.entries({
       q: query.value.trim(), ...Object.fromEntries(filters.map(filter => [filter.key, filter.value])),
-      view: view === 'stats' ? view : '', sort: sort !== 'win' ? sort : '', dir: ascending ? 'asc' : ''
+      view: view === 'stats' ? view : '', show: metric !== 'none' ? metric : '', sort: sort !== 'rank' ? sort : '',
+      dir: ascending !== defaultDirection ? (ascending ? 'asc' : 'desc') : ''
     })) {
       if (value) url.searchParams.set(key, value);
       else url.searchParams.delete(key);
@@ -47,27 +49,28 @@
   }
 
   function renderTable(matches) {
-    const grade = 'DCBAS';
-    const compare = {
-      name: (a, b) => collator.compare(a.name, b.name),
-      tier: (a, b) => grade.indexOf(a.tier) - grade.indexOf(b.tier)
-    }[sort] || ((a, b) => Number(a[sort]) - Number(b[sort]));
-    matches.sort((a, b) => (ascending ? 1 : -1) * compare(a, b) || collator.compare(a.name, b.name));
-    const rows = document.createDocumentFragment();
+    const compare = sort === 'name' ? (a, b) => collator.compare(a.name, b.name) : (a, b) => Number(a[sort]) - Number(b[sort]);
+    matches.sort((a, b) => (ascending ? 1 : -1) * compare(a, b) || Number(a.rank) - Number(b.rank));
+    const fragment = document.createDocumentFragment();
     for (const entry of matches) {
       const row = document.createElement('tr');
       const hero = document.createElement('th');
       hero.scope = 'row';
-      const link = entry.link.cloneNode(true);
-      link.querySelector('.hero-chip__value').remove();
+      const link = document.createElement('a');
+      link.href = entry.tile.getAttribute('href');
+      link.className = 'row-hero';
+      const image = entry.tile.querySelector('img').cloneNode();
+      image.removeAttribute('loading');
+      const name = document.createElement('span');
+      name.textContent = entry.name;
+      link.append(image, name);
       hero.append(link);
       row.append(hero);
-      for (const value of [entry.tier, ...['win', 'pick', 'ban'].map(key => formatter.format(Number(entry[key]) / 100))]) {
-        row.insertCell().textContent = value;
-      }
-      rows.append(row);
+      row.insertCell().innerHTML = '<b class="grade" data-grade="' + entry.tier + '">' + entry.tier + '</b>';
+      for (const key of ['win', 'pick', 'ban']) row.insertCell().textContent = percent.format(Number(entry[key])) + '%';
+      fragment.append(row);
     }
-    table.tBodies[0].replaceChildren(rows);
+    table.tBodies[0].replaceChildren(fragment);
     for (const button of sortButtons) {
       const header = button.parentElement;
       if (button.dataset.heroSort === sort) header.setAttribute('aria-sort', ascending ? 'ascending' : 'descending');
@@ -84,16 +87,18 @@
       (!lane || entry.lanes.includes(lane))
     );
     const shown = new Set(matches.map(entry => entry.tile));
-    for (const { tile } of entries) tile.hidden = !shown.has(tile);
-    for (const tier of tiers) {
-      tier.hidden = !tier.querySelector('.tier-entry:not([hidden])');
-      jumps.querySelector('[data-tier-link="' + tier.dataset.tier + '"]').hidden = tier.hidden;
+    for (const entry of entries) {
+      entry.tile.hidden = !shown.has(entry.tile);
+      entry.value.hidden = metric === 'none';
+      if (metric !== 'none') entry.value.textContent = percent1.format(Number(entry[metric])) + '%';
     }
+    for (const row of rows) row.hidden = !row.querySelector('.tile:not([hidden])');
     board.hidden = view !== 'tiers' || !matches.length;
-    jumps.hidden = board.hidden;
+    metricSwitch.hidden = view !== 'tiers';
     table.hidden = view !== 'stats' || !matches.length;
     empty.hidden = matches.length > 0;
     for (const button of switcher.querySelectorAll('button')) button.setAttribute('aria-pressed', String(button.dataset.heroView === view));
+    for (const button of metricSwitch.querySelectorAll('button')) button.setAttribute('aria-pressed', String(button.dataset.heroMetric === metric));
     for (const filter of filters) {
       for (const button of filter.buttons) button.setAttribute('aria-pressed', String(button.dataset.filterValue === filter.value));
     }
@@ -107,10 +112,16 @@
     view = button.dataset.heroView;
     render();
   });
+  metricSwitch.addEventListener('click', event => {
+    const button = event.target.closest('[data-hero-metric]');
+    if (!button) return;
+    metric = button.dataset.heroMetric;
+    render();
+  });
   for (const button of sortButtons) {
     button.addEventListener('click', () => {
       const key = button.dataset.heroSort;
-      ascending = sort === key ? !ascending : key === 'name';
+      ascending = sort === key ? !ascending : key === 'name' || key === 'rank';
       sort = key;
       render();
     });

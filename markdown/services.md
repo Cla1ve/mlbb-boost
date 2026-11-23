@@ -5,11 +5,7 @@ canonical: https://boostmlbb.ru/services.html
 language: ru
 ---
 
-Услуги
-
 # Выберите тип буста
-
-Подберём оптимальный вариант под ваши задачи и бюджет
 
 [Цены](https://boostmlbb.ru/prices.html) [Калькулятор](https://boostmlbb.ru/order.html)
 

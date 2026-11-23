@@ -1,150 +1,253 @@
 ---
 title: "Nana MLBB: build, counters and skills | MLBB Boost"
-description: "Nana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 47.27% win rate, tier C."
+description: "Nana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 45.08% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/nana.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/nana.webp)
-
-Tier C
+![Nana hero art](/images/heroes/art/nana.webp)
 
 # Nana
 
-Mage · Mid Lane
+D
+
+![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
+
+Little Leonin with no worries.
 
 Win rate
 
-47.27%
+45.1%
+
+all ranks 47.3%
 
 Pick rate
 
-1.72%
+0.9%
+
+all ranks 1.7%
 
 Ban rate
 
-3.74%
+0.9%
 
-**#116 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 3.7%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#115 in the tier list · #28 among mages · Mythical Glory, 7 days, to 23 November
 
-Poke · Burst · Difficulty 20/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**50**
+-   Offense**60**
+-   Control**100**
+-   Difficulty**20**
+
+-   Poke
+-   Burst
+
+### Win rate by rank, 30 days
+
+1.  **49.9%**![](/images/ranks/Epic.webp)Epic
+2.  **48.5%**![](/images/ranks/Legend.webp)Legend
+3.  **47.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **46.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **45.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More mages on this lane
+
+[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
 
 ## Build
 
-Most picked in ranked · Mid Lane
+Mid Lane · from ranked matches
 
-Core items
+Build 151.2%Build 252.4%
 
-![](/images/mlbb/items/3108.webp)Blood Wings![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3111.webp)Genius Wand
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3105.webp)
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/131.webp)Impure Rage
+Glowing Wand
 
-Battle spell
+![](/images/mlbb/items/3101.webp)
 
-![](/images/mlbb/spells/20140.webp)Flameshot
+Divine Glaive
 
-Wins with this build **52.42%**Picked in **3.06%** of matches
+![](/images/mlbb/items/2112.webp)
 
-Alternative builds (2)
+Wishing Lantern
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3101.webp)Divine Glaive![](/images/mlbb/items/2112.webp)Wishing Lantern
+![](/images/mlbb/emblems/20006.webp)
 
-Emblem and talents
+Mage
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/talents/511.webp)
 
-Battle spell
+Rupture
 
-![](/images/mlbb/spells/20140.webp)Flameshot
+![](/images/mlbb/talents/1221.webp)
 
-Wins with this build **51.18%**Picked in **15.61%** of matches
+Weapons Master
 
-Core items
+![](/images/mlbb/talents/631.webp)
 
-![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3101.webp)Divine Glaive![](/images/mlbb/items/2101.webp)Magic Wand
+Lethal Ignition
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/spells/20140.webp)
 
-Battle spell
+Flameshot
 
-![](/images/mlbb/spells/20140.webp)Flameshot
+Win rate
 
-Wins with this build **29.95%**Picked in **2.53%** of matches
+51.2%
+
+Pick rate
+
+15.6%
+
+### Core items
+
+![](/images/mlbb/items/3108.webp)
+
+Blood Wings
+
+![](/images/mlbb/items/3110.webp)
+
+Lightning Truncheon
+
+![](/images/mlbb/items/3111.webp)
+
+Genius Wand
+
+### Emblem
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/621.webp)
+
+Bargain Hunter
+
+![](/images/mlbb/talents/131.webp)
+
+Impure Rage
+
+### Spell
+
+![](/images/mlbb/spells/20140.webp)
+
+Flameshot
+
+Win rate
+
+52.4%
+
+Pick rate
+
+3.1%
+
+## Skills
+
+Level-up**Molina Blitz**_›_**Magic Boomerang**_›_**Molina Smooch**
+
+![](/images/mlbb/skills/nana-0.webp)Passive![](/images/mlbb/skills/nana-1.webp)Skill 1![](/images/mlbb/skills/nana-2.webp)Skill 2![](/images/mlbb/skills/nana-3.webp)Ultimate
+
+![](/images/mlbb/skills/nana-0.webp)
+
+Passive
+
+### Molina's Gift
+
+Upon taking fatal damage, Molina's Gift removes all debuffs from Nana and transforms her for 2s. While transformed, Nana is immune to all damage, gains 30% Movement Speed, and recovers 10% per second, but cannot cast skills.
+
+This effect can trigger only once every 150s.
+
+![](/images/mlbb/skills/nana-1.webp)
+
+Skill 1
+
+### Magic Boomerang
+
+Cooldown **6 Mana Cost: 55 s**
+
+Nana hurls her Magic Boomerang in the target direction, dealing 300 (+100% Total Magic Power) Magic Damage to enemies it hits as it travels out and returns.
+
+The first enemy hit takes full damage. Damage is reduced by 10% each additional enemy hit, up to a maximum total reduction of 70%.
+
+![](/images/mlbb/skills/nana-2.webp)
+
+Skill 2
+
+### Molina Smooch
+
+Cooldown **12 Mana Cost: 80 s**
+
+Nana throws Molina at the target location, dealing 250 (+50% Total Magic Power) Magic Damage to enemies within range and Transforming enemy heroes hit into small animals.
+
+If Molina does not hit an enemy hero, she will remain on the ground and chase the nearest enemy hero that comes into range, Transforming the first enemy hero she touches.
+
+**Transform:** Reduces the target's Movement Speed by 50% and by 30% for 1.5s. Transformed heroes cannot attack or use skills.
+
+![](/images/mlbb/skills/nana-3.webp)
+
+Ultimate
+
+### Molina Blitz
+
+Cooldown **36 Mana Cost: 135 s**
+
+Nana summons Molina to strike the target area 3 times, each dealing 440 (+140% Total Magic Power) Magic Damage and slowing enemies in the area by 30% for 1s.
+
+Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/cyclops.webp)Cyclops+2.59 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+1.54 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/zilong.webp)Zilong+1.53 pp](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/hilda.webp)Hilda+1.49 pp](https://boostmlbb.ru/en/heroes/hilda.html)
-
-## Skills
-
-Level-up priority · Molina Blitz → Magic Boomerang → Molina Smooch
-
-![](/images/mlbb/skills/nana-0.webp)Passive**Molina's Gift**
-
-Upon taking fatal damage, Molina's Gift removes all debuffs from Nana and transforms her for 2s. While transformed, Nana is immune to all damage, gains 30% Movement Speed, and recovers 10% per second, but cannot cast skills.
-This effect can trigger only once every 150s.
-
-![](/images/mlbb/skills/nana-1.webp)Skill 1**Magic Boomerang**
-
-**Cooldown 6 Mana Cost: 55 s**
-
-Nana hurls her Magic Boomerang in the target direction, dealing 300 (+100% Total Magic Power) Magic Damage to enemies it hits as it travels out and returns.
-The first enemy hit takes full damage. Damage is reduced by 10% each additional enemy hit, up to a maximum total reduction of 70%.
-
-![](/images/mlbb/skills/nana-2.webp)Skill 2**Molina Smooch**
-
-**Cooldown 12 Mana Cost: 80 s**
-
-Nana throws Molina at the target location, dealing 250 (+50% Total Magic Power) Magic Damage to enemies within range and Transforming enemy heroes hit into small animals.
-If Molina does not hit an enemy hero, she will remain on the ground and chase the nearest enemy hero that comes into range, Transforming the first enemy hero she touches.
-Transform: Reduces the target's Movement Speed by 50% and by 30% for 1.5s. Transformed heroes cannot attack or use skills.
-
-![](/images/mlbb/skills/nana-3.webp)Ultimate**Molina Blitz**
-
-**Cooldown 36 Mana Cost: 135 s**
-
-Nana summons Molina to strike the target area 3 times, each dealing 440 (+140% Total Magic Power) Magic Damage and slowing enemies in the area by 30% for 1s.
-Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**49.86%**
--   ![](/images/ranks/Legend.webp)Legend**48.48%**
--   ![](/images/ranks/Mythic.webp)Mythic**47.36%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**46.03%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**45.08%**
+[![](/images/heroes/cyclops.webp)Cyclops**+2.6**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley**+1.5**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/zilong.webp)Zilong**+1.5**](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/hilda.webp)Hilda**+1.5**](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ## Lore
 
-Little Leonin with no worries.
+> Little Leonin with no worries.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Nana)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=5)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=5)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Nana**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -154,7 +257,7 @@ Over the last 30 days the toughest opponents are Odette, Saber, Lolita, Dyrroth 
 
 What is Nana’s win rate right now?
 
-47.27% over the last 30 days across all ranks and 45.08% in Mythical Glory, as of 23 November 2026.
+45.08% at Mythical Glory over the last 7 days and 47.27% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Nana play?
 
@@ -162,8 +265,8 @@ Mage, played in the Mid Lane.
 
 Is Nana strong in the current meta?
 
-Tier C: #116 of 133 heroes by 30-day win rate and #28 among mages.
+Tier D, #115 of 133 heroes and #28 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 45.1% win rate.
 
 What is the best build for Nana?
 
-The most popular ranked build: Blood Wings, Lightning Truncheon and Genius Wand as core items, the Mage emblem with Rupture, Bargain Hunter and Impure Rage, and Flameshot. It wins 52.42% of matches.
+The most popular ranked build: Glowing Wand, Divine Glaive and Wishing Lantern as core items, the Mage emblem with Rupture, Weapons Master and Lethal Ignition, and Flameshot. It wins 51.18% of matches.

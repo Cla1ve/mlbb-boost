@@ -1,146 +1,291 @@
 ---
 title: "Руби MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Руби в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 49,12% побед, тир B."
+description: "Руби в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,96% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/ruby.html
 language: ru
 ---
 
 [Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
 
-![](/images/heroes/ruby.webp)
-
-Тир B
+![Арт героя Руби](/images/heroes/art/ruby.webp)
 
 # Руби
 
-Боец · Линия опыта
+C
+
+![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта
+
+Девушка, воспитанная Роджером.
 
 Победы
 
-49,12%
+49,0%
+
+все ранги 49,1%
 
 Выбор
 
-0,32%
+0,4%
+
+все ранги 0,3%
 
 Баны
 
-0,31%
+0,1%
 
-**№ 88 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
+все ранги 0,3%
 
-[Сборка](https://boostmlbb.ru/#build)[Контрпики](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Статистика](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+№97 в тир-листе · №33 среди бойцов · Мифическая слава, 7 дней, по 23 ноября
 
-Массовый контроль · Регенерация · Сложность 40/100
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+
+## Обзор
+
+### Характеристики
+
+-   Живучесть**90**
+-   Атака**20**
+-   Эффекты**90**
+-   Сложность**40**
+
+-   Массовый контроль
+-   Регенерация
+
+### Победы по рангам, 30 дней
+
+1.  **49,6%**![](/images/ranks/Epic.webp)Эпик
+2.  **49,6%**![](/images/ranks/Legend.webp)Легенда
+3.  **49,5%**![](/images/ranks/Mythic.webp)Мифик
+4.  **49,4%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **48,7%**![](/images/ranks/Mythical_Glory.webp)Слава
+
+Пунктир: 50% побед
+
+### Другие бойцы этой линии
+
+[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
 
 ## Сборка
 
-Самый частый выбор в рейтинге · Линия опыта
+Линия опыта · по данным рейтинговых матчей
 
-Ключевые предметы
+Сборка 158,7%Сборка 256,6%Сборка 358,3%
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва![](/images/mlbb/items/2208.webp)Крылья королевы
+### Предметы
 
-Эмблема и таланты
+![](/images/mlbb/items/2013.webp)
 
-![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/731.webp)Отвага
+Топор войны
 
-Боевое заклинание
+![](/images/mlbb/items/2208.webp)
 
-![](/images/mlbb/spells/20100.webp)Вспышка
+Крылья королевы
 
-Побед с этой сборкой **58,33%**Выбирают в **4,40%** матчей
+![](/images/mlbb/items/3004.webp)
 
-Другие сборки (2)
+Бесконечная битва
 
-Ключевые предметы
+### Эмблема
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/2208.webp)Крылья королевы![](/images/mlbb/items/3004.webp)Бесконечная битва
+![](/images/mlbb/emblems/20007.webp)
 
-Эмблема и таланты
+Эмблема бойца
 
-![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/731.webp)Отвага
+![](/images/mlbb/talents/111.webp)
 
-Боевое заклинание
+Трепет
 
-![](/images/mlbb/spells/20100.webp)Вспышка
+![](/images/mlbb/talents/721.webp)
 
-Побед с этой сборкой **58,67%**Выбирают в **8,16%** матчей
+Кровавое пиршество
 
-Ключевые предметы
+![](/images/mlbb/talents/731.webp)
 
-![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/2208.webp)Крылья королевы![](/images/mlbb/items/3204.webp)Оракул
+Отвага
 
-Эмблема и таланты
+### Заклинание
 
-![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/731.webp)Отвага
+![](/images/mlbb/spells/20100.webp)
 
-Боевое заклинание
+Вспышка
 
-![](/images/mlbb/spells/20100.webp)Вспышка
+Победы
 
-Побед с этой сборкой **56,65%**Выбирают в **5,94%** матчей
+58,7%
+
+Выбор
+
+8,2%
+
+### Предметы
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+![](/images/mlbb/items/2208.webp)
+
+Крылья королевы
+
+![](/images/mlbb/items/3204.webp)
+
+Оракул
+
+### Эмблема
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+![](/images/mlbb/talents/111.webp)
+
+Трепет
+
+![](/images/mlbb/talents/721.webp)
+
+Кровавое пиршество
+
+![](/images/mlbb/talents/731.webp)
+
+Отвага
+
+### Заклинание
+
+![](/images/mlbb/spells/20100.webp)
+
+Вспышка
+
+Победы
+
+56,6%
+
+Выбор
+
+5,9%
+
+### Предметы
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+![](/images/mlbb/items/3004.webp)
+
+Бесконечная битва
+
+![](/images/mlbb/items/2208.webp)
+
+Крылья королевы
+
+### Эмблема
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+![](/images/mlbb/talents/111.webp)
+
+Трепет
+
+![](/images/mlbb/talents/721.webp)
+
+Кровавое пиршество
+
+![](/images/mlbb/talents/731.webp)
+
+Отвага
+
+### Заклинание
+
+![](/images/mlbb/spells/20100.webp)
+
+Вспышка
+
+Победы
+
+58,3%
+
+Выбор
+
+4,4%
+
+## Навыки
+
+Прокачка**Я обиделась!**_›_**Не шали!**_›_**Не убегай, король волков!**
+
+![](/images/mlbb/skills/ruby-0.webp)Пассивный![](/images/mlbb/skills/ruby-1.webp)1-й навык![](/images/mlbb/skills/ruby-2.webp)2-й навык![](/images/mlbb/skills/ruby-3.webp)Ультимейт
+
+![](/images/mlbb/skills/ruby-0.webp)
+
+Пассивный
+
+### Давай потанцуем!
+
+Навыки Руби имеют процент вампиризма от навыков в размере 75% (ее базовые атаки не могут активировать вампиризм). За каждые потерянные 1% ОЗ ее процент вампиризма от навыков увеличивается на 1%, вплоть до 150%.
+
+После каждого применения навыка Руби может совершить рывок в другое место и получить 8-25 ед. (зависит от уровня) на 4 сек. (складывается до 3 раз).
+
+![](/images/mlbb/skills/ruby-1.webp)
+
+1-й навык
+
+### Не шали!
+
+Перезарядка **4 Mana Cost: 25 с**
+
+Руби взмахивает косой, нанося 280 (+110% общей физической атаки) единиц физического урона пораженным врагам. Затем она выпускает ударную волну в том же направлении, нанося 140 (+55% общей физической атаки) единиц физического урона пораженным врагам и замедляя их на 40% на 1 сек.
+
+![](/images/mlbb/skills/ruby-2.webp)
+
+2-й навык
+
+### Не убегай, король волков!
+
+Перезарядка **7 Mana Cost: 50 с**
+
+Руби дважды взмахивает гигантской косой вокруг себя, каждый раз нанося 60 (+55% общей физической атаки) единиц физического урона ближайшим врагам, оглушая их на 0.5 сек. и медленно притягивая к себе.
+
+![](/images/mlbb/skills/ruby-3.webp)
+
+Ультимейт
+
+### Я обиделась!
+
+Перезарядка **40 Mana Cost: 80 с**
+
+Руби атакует косой в указанном направлении, нанося 600 (+200% общей физической атаки) единиц физического урона пораженным врагам, притягивая их к себе и оглушая на 0.5 сек.
 
 ## Контрпики и союзники
 
-### Кто контрит
+### Контрпики
+
+Побеждают этого героя
 
 [![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
 
-### Против кого силён
+### Слабые цели
+
+Этот герой побеждает их
 
 [![](/images/heroes/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
 
 ### Союзники
 
-Изменение винрейта в паре
+Рост побед в паре, п. п.
 
-[![](/images/heroes/faramis.webp)Фарамис+1,92 п. п.](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/bane.webp)Бэйн+1,79 п. п.](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/sun.webp)Сан+1,67 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/estes.webp)Эстес+1,33 п. п.](https://boostmlbb.ru/heroes/estes.html)
-
-## Навыки
-
-Приоритет прокачки · Я обиделась! → Не шали! → Не убегай, король волков!
-
-![](/images/mlbb/skills/ruby-0.webp)Пассивный**Давай потанцуем!**
-
-Навыки Руби имеют процент вампиризма от навыков в размере 75% (ее базовые атаки не могут активировать вампиризм). За каждые потерянные 1% ОЗ ее процент вампиризма от навыков увеличивается на 1%, вплоть до 150%.
-После каждого применения навыка Руби может совершить рывок в другое место и получить 8-25 ед. (зависит от уровня) на 4 сек. (складывается до 3 раз).
-
-![](/images/mlbb/skills/ruby-1.webp)1-й навык**Не шали!**
-
-**Перезарядка 4 Mana Cost: 25 с**
-
-Руби взмахивает косой, нанося 280 (+110% общей физической атаки) единиц физического урона пораженным врагам. Затем она выпускает ударную волну в том же направлении, нанося 140 (+55% общей физической атаки) единиц физического урона пораженным врагам и замедляя их на 40% на 1 сек.
-
-![](/images/mlbb/skills/ruby-2.webp)2-й навык**Не убегай, король волков!**
-
-**Перезарядка 7 Mana Cost: 50 с**
-
-Руби дважды взмахивает гигантской косой вокруг себя, каждый раз нанося 60 (+55% общей физической атаки) единиц физического урона ближайшим врагам, оглушая их на 0.5 сек. и медленно притягивая к себе.
-
-![](/images/mlbb/skills/ruby-3.webp)Ультимейт**Я обиделась!**
-
-**Перезарядка 40 Mana Cost: 80 с**
-
-Руби атакует косой в указанном направлении, нанося 600 (+200% общей физической атаки) единиц физического урона пораженным врагам, притягивая их к себе и оглушая на 0.5 сек.
-
-## Победы по рангам
-
--   ![](/images/ranks/Epic.webp)Эпик**49,57%**
--   ![](/images/ranks/Legend.webp)Легенда**49,65%**
--   ![](/images/ranks/Mythic.webp)Мифический**49,53%**
--   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,36%**
--   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**48,66%**
+[![](/images/heroes/faramis.webp)Фарамис**+1,9**](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/bane.webp)Бэйн**+1,8**](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/sun.webp)Сан**+1,7**](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/estes.webp)Эстес**+1,3**](https://boostmlbb.ru/heroes/estes.html)
 
 ## История
 
-Девушка, воспитанная Роджером.
+> Девушка, воспитанная Роджером.
 
 [Читать полную историю ↗](https://kazukiofficial.com/stories/ruby)Kazuki Official, английский
 
-[Характеристики на сайте игры](https://www.mobilelegends.com/hero/detail?heroid=29)
+[Характеристики на сайте игры ↗](https://www.mobilelegends.com/hero/detail?heroid=29)
 
-[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
+**Поднимем ранг на герое «Руби»**Цена считается в калькуляторе
+
+[Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -150,7 +295,7 @@ language: ru
 
 Какой процент побед у героя «Руби» сейчас?
 
-49,12% за последние 30 дней на всех рангах и 48,66% в Мифической славе, данные на 23 ноября 2026 года.
+48,96% в Мифической славе за последние 7 дней и 49,12% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
 
 Какая роль и линия у героя «Руби»?
 
@@ -158,8 +303,8 @@ language: ru
 
 Силён ли герой «Руби» в текущей мете?
 
-Тир B: 88-е место из 133 героев по проценту побед за 30 дней и 29-е среди бойцов.
+Тир C, 97-е место из 133 героев и 33-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,0% побед.
 
 Какая сборка на героя «Руби» лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Бесконечная битва» и «Крылья королевы», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Отвага» и заклинание «Вспышка». С ней выигрывают 58,33% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Крылья королевы» и «Бесконечная битва», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Отвага» и заклинание «Вспышка». С ней выигрывают 58,67% матчей.

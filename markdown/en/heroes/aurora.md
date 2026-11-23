@@ -1,144 +1,243 @@
 ---
 title: "Aurora MLBB: build, counters and skills | MLBB Boost"
-description: "Aurora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.93% win rate, tier C."
+description: "Aurora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.77% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aurora.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/aurora.webp)
-
-Tier C
+![Aurora hero art](/images/heroes/art/aurora.webp)
 
 # Aurora
 
-Mage · Mid Lane
+C
+
+![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
+
+The Maiden of the Glacier who grants eternal remembrance in the legends of the North.
 
 Win rate
 
-48.93%
+48.8%
+
+all ranks 48.9%
 
 Pick rate
 
-0.64%
+0.5%
+
+all ranks 0.6%
 
 Ban rate
 
-0.38%
+0.1%
 
-**#90 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 0.4%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#94 in the tier list · #21 among mages · Mythical Glory, 7 days, to 23 November
 
-Crowd Control · Poke · Difficulty 20/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**40**
+-   Offense**70**
+-   Control**100**
+-   Difficulty**20**
+
+-   Crowd Control
+-   Poke
+
+### Win rate by rank, 30 days
+
+1.  **48.5%**![](/images/ranks/Epic.webp)Epic
+2.  **48.7%**![](/images/ranks/Legend.webp)Legend
+3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **49.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More mages on this lane
+
+[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
 
 ## Build
 
-Most picked in ranked · Mid Lane
+Mid Lane · from ranked matches
 
-Core items
+Build 154.2%Build 254.9%
 
-![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/2112.webp)Wishing Lantern
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3105.webp)
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
+Glowing Wand
 
-Battle spell
+![](/images/mlbb/items/3110.webp)
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Lightning Truncheon
 
-Wins with this build **54.21%**Picked in **10.32%** of matches
+![](/images/mlbb/items/2112.webp)
 
-Alternative builds (2)
+Wishing Lantern
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3108.webp)Blood Wings![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/2112.webp)Wishing Lantern
+![](/images/mlbb/emblems/20006.webp)
 
-Emblem and talents
+Mage
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
+![](/images/mlbb/talents/511.webp)
 
-Battle spell
+Rupture
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/talents/121.webp)
 
-Wins with this build **54.91%**Picked in **2.58%** of matches
+Wilderness Blessing
 
-Core items
+![](/images/mlbb/talents/131.webp)
 
-![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/2101.webp)Magic Wand
+Impure Rage
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
+![](/images/mlbb/spells/20100.webp)
 
-Battle spell
+Flicker
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Win rate
 
-Wins with this build **39.12%**Picked in **2.42%** of matches
+54.2%
+
+Pick rate
+
+10.3%
+
+### Core items
+
+![](/images/mlbb/items/3108.webp)
+
+Blood Wings
+
+![](/images/mlbb/items/3105.webp)
+
+Glowing Wand
+
+![](/images/mlbb/items/2112.webp)
+
+Wishing Lantern
+
+### Emblem
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+![](/images/mlbb/talents/811.webp)
+
+Agility
+
+![](/images/mlbb/talents/121.webp)
+
+Wilderness Blessing
+
+![](/images/mlbb/talents/131.webp)
+
+Impure Rage
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+54.9%
+
+Pick rate
+
+2.6%
+
+## Skills
+
+Level-up**Frigid Glacier**_›_**Hailstone Blast**_›_**Frosty Breeze**
+
+![](/images/mlbb/skills/aurora-0.webp)Passive![](/images/mlbb/skills/aurora-1.webp)Skill 1![](/images/mlbb/skills/aurora-2.webp)Skill 2![](/images/mlbb/skills/aurora-3.webp)Ultimate
+
+![](/images/mlbb/skills/aurora-0.webp)
+
+Passive
+
+### Pride of Ice
+
+Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible during this time and gradually recovering 30% . This effect has a 150s cooldown.
+
+Aurora's freeze effects can also affect Turrets.
+
+![](/images/mlbb/skills/aurora-1.webp)
+
+Skill 1
+
+### Hailstone Blast
+
+Cooldown **5 Mana Cost: 60 s**
+
+Aurora summons an icy meteorite to strike at the target location, dealing 400 (+90% Total Magic Power) Magic Damage and slowing targets hit by 40% for 1s. Afterward, 5 hailstones fall, each dealing 40 (+10% Total Magic Power) Magic Damage.
+
+![](/images/mlbb/skills/aurora-2.webp)
+
+Skill 2
+
+### Frosty Breeze
+
+Cooldown **10 Mana Cost: 75 s**
+
+Aurora blows Frosty Breeze in a fan-shaped area in the target direction, dealing 225 (+75% Total Magic Power) Magic Damage to enemies hit and creating a frozen area at the far end.
+
+The area deals a total of 225 (+75% Total Magic Power) Magic Damage to enemies within and freezes them for 1s (increases by 0.06s for every 100 ).
+
+![](/images/mlbb/skills/aurora-3.webp)
+
+Ultimate
+
+### Frigid Glacier
+
+Cooldown **50 Mana Cost: 140 s**
+
+Aurora creates a frost path in the target direction, dealing 100 (+40% Total Magic Power) Magic Damage to enemies in the path and slowing them by 80% for 1.2s.
+
+The frost path gradually expands into a glacier that shatters at maximum size, dealing 600 (+150% Total Magic Power) Magic Damage to all enemies in the area and freezing them for 1s (increases by 0.2s for every 100 ).
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/kaja.webp)Kaja+2.89 pp](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/cyclops.webp)Cyclops+1.66 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley+1.24 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/roger.webp)Roger+0.97 pp](https://boostmlbb.ru/en/heroes/roger.html)
-
-## Skills
-
-Level-up priority · Frigid Glacier → Hailstone Blast → Frosty Breeze
-
-![](/images/mlbb/skills/aurora-0.webp)Passive**Pride of Ice**
-
-Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible during this time and gradually recovering 30% . This effect has a 150s cooldown.
-Aurora's freeze effects can also affect Turrets.
-
-![](/images/mlbb/skills/aurora-1.webp)Skill 1**Hailstone Blast**
-
-**Cooldown 5 Mana Cost: 60 s**
-
-Aurora summons an icy meteorite to strike at the target location, dealing 400 (+90% Total Magic Power) Magic Damage and slowing targets hit by 40% for 1s. Afterward, 5 hailstones fall, each dealing 40 (+10% Total Magic Power) Magic Damage.
-
-![](/images/mlbb/skills/aurora-2.webp)Skill 2**Frosty Breeze**
-
-**Cooldown 10 Mana Cost: 75 s**
-
-Aurora blows Frosty Breeze in a fan-shaped area in the target direction, dealing 225 (+75% Total Magic Power) Magic Damage to enemies hit and creating a frozen area at the far end.
-The area deals a total of 225 (+75% Total Magic Power) Magic Damage to enemies within and freezes them for 1s (increases by 0.06s for every 100 ).
-
-![](/images/mlbb/skills/aurora-3.webp)Ultimate**Frigid Glacier**
-
-**Cooldown 50 Mana Cost: 140 s**
-
-Aurora creates a frost path in the target direction, dealing 100 (+40% Total Magic Power) Magic Damage to enemies in the path and slowing them by 80% for 1.2s.
-The frost path gradually expands into a glacier that shatters at maximum size, dealing 600 (+150% Total Magic Power) Magic Damage to all enemies in the area and freezing them for 1s (increases by 0.2s for every 100 ).
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**48.52%**
--   ![](/images/ranks/Legend.webp)Legend**48.72%**
--   ![](/images/ranks/Mythic.webp)Mythic**49.13%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.95%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**49.21%**
+[![](/images/heroes/kaja.webp)Kaja**+2.9**](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/cyclops.webp)Cyclops**+1.7**](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/harley.webp)Harley**+1.2**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/roger.webp)Roger**+1.0**](https://boostmlbb.ru/en/heroes/roger.html)
 
 ## Lore
 
-The Maiden of the Glacier who grants eternal remembrance in the legends of the North.
+> The Maiden of the Glacier who grants eternal remembrance in the legends of the North.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/reAurora)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=36)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=36)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Aurora**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -148,7 +247,7 @@ Over the last 30 days the toughest opponents are Lolita, Odette, Eudora, Khufra 
 
 What is Aurora’s win rate right now?
 
-48.93% over the last 30 days across all ranks and 49.21% in Mythical Glory, as of 23 November 2026.
+48.77% at Mythical Glory over the last 7 days and 48.93% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Aurora play?
 
@@ -156,7 +255,7 @@ Mage, played in the Mid Lane.
 
 Is Aurora strong in the current meta?
 
-Tier C: #90 of 133 heroes by 30-day win rate and #22 among mages.
+Tier C, #94 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.8% win rate.
 
 What is the best build for Aurora?
 

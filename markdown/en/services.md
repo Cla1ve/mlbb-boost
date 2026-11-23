@@ -5,11 +5,7 @@ canonical: https://boostmlbb.ru/en/services.html
 language: en
 ---
 
-Services
-
 # Choose your boost type
-
-We'll pick the best option for your goals and budget
 
 [Prices](https://boostmlbb.ru/en/prices.html) [Calculator](https://boostmlbb.ru/en/order.html)
 

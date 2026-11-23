@@ -1,147 +1,293 @@
 ---
 title: "Minsitthar MLBB: build, counters and skills | MLBB Boost"
-description: "Minsitthar in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 52.08% win rate, tier A."
+description: "Minsitthar in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 52.09% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/minsitthar.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/minsitthar.webp)
-
-Tier A
+![Minsitthar hero art](/images/heroes/art/minsitthar.webp)
 
 # Minsitthar
 
-Fighter · EXP Lane
+B
+
+![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
+
+A young king that led the people of Mahar Pura to victory against invaders.
 
 Win rate
 
-52.08%
+52.1%
+
+all ranks 52.1%
 
 Pick rate
 
-0.62%
+0.6%
+
+all ranks 0.6%
 
 Ban rate
 
-4.19%
+2.8%
 
-**#27 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 4.2%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#42 in the tier list · #14 among fighters · Mythical Glory, 7 days, to 23 November
 
-Initiator · Crowd Control · Difficulty 30/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**60**
+-   Offense**40**
+-   Control**80**
+-   Difficulty**30**
+
+-   Initiator
+-   Crowd Control
+
+### Win rate by rank, 30 days
+
+1.  **53.5%**![](/images/ranks/Epic.webp)Epic
+2.  **52.7%**![](/images/ranks/Legend.webp)Legend
+3.  **52.6%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More fighters on this lane
+
+[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
 
 ## Build
 
-Most picked in ranked · EXP Lane
+EXP Lane · from ranked matches
 
-Core items
+Build 159.6%Build 258.9%Build 360.7%
 
-![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2006.webp)Demon Hunter Sword![](/images/mlbb/items/2009.webp)Golden Staff
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/2008.webp)
 
-![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/1231.webp)Weakness Finder
+Corrosion Scythe
 
-Battle spell
+![](/images/mlbb/items/2006.webp)
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Demon Hunter Sword
 
-Wins with this build **60.72%**Picked in **2.53%** of matches
+![](/images/mlbb/items/2009.webp)
 
-Alternative builds (2)
+Golden Staff
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2006.webp)Demon Hunter Sword![](/images/mlbb/items/2009.webp)Golden Staff
+![](/images/mlbb/emblems/20012.webp)
 
-Emblem and talents
+Marksman
 
-![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/1231.webp)Weakness Finder
+![](/images/mlbb/talents/112.webp)
 
-Battle spell
+Swift
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/talents/721.webp)
 
-Wins with this build **59.59%**Picked in **9.46%** of matches
+Festival of Blood
 
-Core items
+![](/images/mlbb/talents/1231.webp)
 
-![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2006.webp)Demon Hunter Sword![](/images/mlbb/items/2009.webp)Golden Staff
+Weakness Finder
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/521.webp)Master Assassin![](/images/mlbb/talents/1231.webp)Weakness Finder
+![](/images/mlbb/spells/20100.webp)
 
-Battle spell
+Flicker
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Win rate
 
-Wins with this build **58.90%**Picked in **8.68%** of matches
+59.6%
+
+Pick rate
+
+9.5%
+
+### Core items
+
+![](/images/mlbb/items/2008.webp)
+
+Corrosion Scythe
+
+![](/images/mlbb/items/2006.webp)
+
+Demon Hunter Sword
+
+![](/images/mlbb/items/2009.webp)
+
+Golden Staff
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/112.webp)
+
+Swift
+
+![](/images/mlbb/talents/521.webp)
+
+Master Assassin
+
+![](/images/mlbb/talents/1231.webp)
+
+Weakness Finder
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+58.9%
+
+Pick rate
+
+8.7%
+
+### Core items
+
+![](/images/mlbb/items/2008.webp)
+
+Corrosion Scythe
+
+![](/images/mlbb/items/2006.webp)
+
+Demon Hunter Sword
+
+![](/images/mlbb/items/2009.webp)
+
+Golden Staff
+
+### Emblem
+
+![](/images/mlbb/emblems/20012.webp)
+
+Marksman
+
+![](/images/mlbb/talents/112.webp)
+
+Swift
+
+![](/images/mlbb/talents/821.webp)
+
+Pull Yourself Together
+
+![](/images/mlbb/talents/1231.webp)
+
+Weakness Finder
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+60.7%
+
+Pick rate
+
+2.5%
+
+## Skills
+
+Level-up**King's Calling**_›_**Shield Assault**_›_**Spear of Glory**
+
+![](/images/mlbb/skills/minsitthar-0.webp)Passive![](/images/mlbb/skills/minsitthar-1.webp)Skill 1![](/images/mlbb/skills/minsitthar-2.webp)Skill 2![](/images/mlbb/skills/minsitthar-3.webp)Ultimate
+
+![](/images/mlbb/skills/minsitthar-0.webp)
+
+Passive
+
+### Mark of the King
+
+Minsitthar's Basic Attacks and skills apply a stack of Mark of the King, up to 5 stacks. Upon reaching max stacks, the next attack detonates all Mark of the King stacks, dealing Physical Damage equal to 400 (+6% Max HP) of Minsitthar's Max HP and stunning the target for 0.8s while healing Minsitthar for 400 (+6% Max HP) HP. Can only trigger once every 6s on the same target.
+
+![](/images/mlbb/skills/minsitthar-1.webp)
+
+Skill 1
+
+### Spear of Glory
+
+Cooldown **13 Mana Cost: 95 s**
+
+Minsitthar thrusts the Spear of Glory forward, dealing 175 (+40% Total Physical Attack) Physical Damage and slowing enemies hit by 30%. Enemy heroes hit by the spear tip are stunned for 0.3s.
+
+After a short delay, Minsitthar pulls the spear back, dealing 175 (+40% Total Physical Attack) Physical Damage to all enemies in its path and pulling enemy heroes toward him. Pulled heroes are stunned for up to 0.8s based on the distance pulled.
+
+![](/images/mlbb/skills/minsitthar-2.webp)
+
+Skill 2
+
+### Shield Assault
+
+Cooldown **4 Mana Cost: 50 s**
+
+Minsitthar awakens the power in his shield and releases it, dealing 100 (+45% Total Physical Attack) Physical Damage to all enemies in a rectangular area and slowing them by 80% (decaying rapidly over 2s). Meanwhile, he enters Phalanx state for 3s, reducing damage taken from the front by 25% and enhancing his Basic Attack to swiftly strike an area in front of him for 100 (+45% Total Physical Attack) Physical Damage per hit.
+
+![](/images/mlbb/skills/minsitthar-3.webp)
+
+Ultimate
+
+### King's Calling
+
+Cooldown **45 Mana Cost: 150 s**
+
+Minsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field and deal (+30% Total Physical Attack) Physical Damage to them.
+
+Enemies in the field are slowed by 30% and cannot use movement skills.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/hilda.webp)Hilda+2.09 pp](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/khaleed.webp)Khaleed+1.93 pp](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/sun.webp)Sun+1.48 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/estes.webp)Estes+1.43 pp](https://boostmlbb.ru/en/heroes/estes.html)
-
-## Skills
-
-Level-up priority · King's Calling → Shield Assault → Spear of Glory
-
-![](/images/mlbb/skills/minsitthar-0.webp)Passive**Mark of the King**
-
-Minsitthar's Basic Attacks and skills apply a stack of Mark of the King, up to 5 stacks. Upon reaching max stacks, the next attack detonates all Mark of the King stacks, dealing Physical Damage equal to 400 (+6% Max HP) of Minsitthar's Max HP and stunning the target for 0.8s while healing Minsitthar for 400 (+6% Max HP) HP. Can only trigger once every 6s on the same target.
-
-![](/images/mlbb/skills/minsitthar-1.webp)Skill 1**Spear of Glory**
-
-**Cooldown 13 Mana Cost: 95 s**
-
-Minsitthar thrusts the Spear of Glory forward, dealing 175 (+40% Total Physical Attack) Physical Damage and slowing enemies hit by 30%. Enemy heroes hit by the spear tip are stunned for 0.3s.
-After a short delay, Minsitthar pulls the spear back, dealing 175 (+40% Total Physical Attack) Physical Damage to all enemies in its path and pulling enemy heroes toward him. Pulled heroes are stunned for up to 0.8s based on the distance pulled.
-
-![](/images/mlbb/skills/minsitthar-2.webp)Skill 2**Shield Assault**
-
-**Cooldown 4 Mana Cost: 50 s**
-
-Minsitthar awakens the power in his shield and releases it, dealing 100 (+45% Total Physical Attack) Physical Damage to all enemies in a rectangular area and slowing them by 80% (decaying rapidly over 2s). Meanwhile, he enters Phalanx state for 3s, reducing damage taken from the front by 25% and enhancing his Basic Attack to swiftly strike an area in front of him for 100 (+45% Total Physical Attack) Physical Damage per hit.
-
-![](/images/mlbb/skills/minsitthar-3.webp)Ultimate**King's Calling**
-
-**Cooldown 45 Mana Cost: 150 s**
-
-Minsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field and deal (+30% Total Physical Attack) Physical Damage to them.
-Enemies in the field are slowed by 30% and cannot use movement skills.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**53.53%**
--   ![](/images/ranks/Legend.webp)Legend**52.74%**
--   ![](/images/ranks/Mythic.webp)Mythic**52.65%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**51.92%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.29%**
+[![](/images/heroes/hilda.webp)Hilda**+2.1**](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/khaleed.webp)Khaleed**+1.9**](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/sun.webp)Sun**+1.5**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/estes.webp)Estes**+1.4**](https://boostmlbb.ru/en/heroes/estes.html)
 
 ## Lore
 
-A young king that led the people of Mahar Pura to victory against invaders.
+> A young king that led the people of Mahar Pura to victory against invaders.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Minsitthar)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=74)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=74)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Minsitthar**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -151,7 +297,7 @@ Over the last 30 days the toughest opponents are Freya, Phoveus, Harith, Martis 
 
 What is Minsitthar’s win rate right now?
 
-52.08% over the last 30 days across all ranks and 51.29% in Mythical Glory, as of 23 November 2026.
+52.09% at Mythical Glory over the last 7 days and 52.08% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Minsitthar play?
 
@@ -159,8 +305,8 @@ Fighter, played in the EXP Lane.
 
 Is Minsitthar strong in the current meta?
 
-Tier A: #27 of 133 heroes by 30-day win rate and #6 among fighters.
+Tier B, #42 of 133 heroes and #14 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.8% of matches, 52.1% win rate.
 
 What is the best build for Minsitthar?
 
-The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Marksman emblem with Swift, Pull Yourself Together and Weakness Finder, and Flicker. It wins 60.72% of matches.
+The most popular ranked build: Corrosion Scythe, Demon Hunter Sword and Golden Staff as core items, the Marksman emblem with Swift, Festival of Blood and Weakness Finder, and Flicker. It wins 59.59% of matches.

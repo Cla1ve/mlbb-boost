@@ -1,148 +1,295 @@
 ---
 title: "Terizla MLBB: build, counters and skills | MLBB Boost"
-description: "Terizla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 50.60% win rate, tier B."
+description: "Terizla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 49.88% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/terizla.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/terizla.webp)
-
-Tier B
+![Terizla hero art](/images/heroes/art/terizla.webp)
 
 # Terizla
 
-Tank and fighter · EXP Lane
+C
+
+![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
+
+Once an eccentric master smith, but now an avenger siding with the Abyss.
 
 Win rate
 
-50.60%
+49.9%
+
+all ranks 50.6%
 
 Pick rate
 
-0.35%
+0.3%
+
+all ranks 0.3%
 
 Ban rate
 
-0.18%
+0.1%
 
-**#50 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 0.2%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#92 in the tier list · #14 among tanks · Mythical Glory, 7 days, to 23 November
 
-Burst · Crowd Control · Difficulty 20/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**90**
+-   Offense**30**
+-   Control**40**
+-   Difficulty**20**
+
+-   Burst
+-   Crowd Control
+
+### Win rate by rank, 30 days
+
+1.  **51.3%**![](/images/ranks/Epic.webp)Epic
+2.  **51.7%**![](/images/ranks/Legend.webp)Legend
+3.  **51.5%**![](/images/ranks/Mythic.webp)Mythic
+4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More tanks on this lane
+
+[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Build
 
-Most picked in ranked · EXP Lane
+EXP Lane · from ranked matches
 
-Core items
+Build 157.1%Build 259.8%Build 356.8%
 
-![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2208.webp)Queen's Wings![](/images/mlbb/items/3206.webp)Dominance Ice
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/2013.webp)
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/731.webp)Brave Smite
+War Axe
 
-Battle spell
+![](/images/mlbb/items/2208.webp)
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Queen's Wings
 
-Wins with this build **56.81%**Picked in **2.34%** of matches
+![](/images/mlbb/items/3204.webp)
 
-Alternative builds (2)
+Oracle
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/2208.webp)Queen's Wings
+![](/images/mlbb/emblems/20007.webp)
 
-Emblem and talents
+Fighter
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/731.webp)Brave Smite
+![](/images/mlbb/talents/111.webp)
 
-Battle spell
+Thrill
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/talents/721.webp)
 
-Wins with this build **59.75%**Picked in **5.13%** of matches
+Festival of Blood
 
-Core items
+![](/images/mlbb/talents/731.webp)
 
-![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2208.webp)Queen's Wings![](/images/mlbb/items/3204.webp)Oracle
+Brave Smite
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/731.webp)Brave Smite
+![](/images/mlbb/spells/20100.webp)
 
-Battle spell
+Flicker
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Win rate
 
-Wins with this build **57.09%**Picked in **16.08%** of matches
+57.1%
+
+Pick rate
+
+16.1%
+
+### Core items
+
+![](/images/mlbb/items/2013.webp)
+
+War Axe
+
+![](/images/mlbb/items/3206.webp)
+
+Dominance Ice
+
+![](/images/mlbb/items/2208.webp)
+
+Queen's Wings
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/111.webp)
+
+Thrill
+
+![](/images/mlbb/talents/721.webp)
+
+Festival of Blood
+
+![](/images/mlbb/talents/731.webp)
+
+Brave Smite
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+59.8%
+
+Pick rate
+
+5.1%
+
+### Core items
+
+![](/images/mlbb/items/2013.webp)
+
+War Axe
+
+![](/images/mlbb/items/2208.webp)
+
+Queen's Wings
+
+![](/images/mlbb/items/3206.webp)
+
+Dominance Ice
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/111.webp)
+
+Thrill
+
+![](/images/mlbb/talents/721.webp)
+
+Festival of Blood
+
+![](/images/mlbb/talents/731.webp)
+
+Brave Smite
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+56.8%
+
+Pick rate
+
+2.3%
+
+## Skills
+
+Level-up**Penalty Zone**_›_**Execution Strike**_›_**Revenge Strike**
+
+![](/images/mlbb/skills/terizla-0.webp)Passive![](/images/mlbb/skills/terizla-1.webp)Skill 1![](/images/mlbb/skills/terizla-2.webp)Skill 2![](/images/mlbb/skills/terizla-3.webp)Ultimate
+
+![](/images/mlbb/skills/terizla-0.webp)
+
+Passive
+
+### Body of Smith
+
+Terizla gains 1% extra Damage Reduction (up to 20 (+1 × hero level)%) for every 2.5% HP lost.
+
+He cannot gain extra Attack Speed and will convert every 1% extra Attack Speed into 1 .
+
+![](/images/mlbb/skills/terizla-1.webp)
+
+Skill 1
+
+### Revenge Strike
+
+Cooldown **8.5 s**
+
+Terizla strikes the ground with his hammer, sending a fissure forward that deals 300 (+80% Extra Physical Attack) Physical Damage. Upon hitting its first target, the fissure burrows into them, slowing them by 15%. Terizla also gains 15% Movement Speed for 3.5s.
+
+The fissure then explodes, dealing 300 (+80% Extra Physical Attack) (+ 20% of the target's lost ) Physical Damage.
+
+![](/images/mlbb/skills/terizla-2.webp)
+
+Skill 2
+
+### Execution Strike
+
+Cooldown **9 s**
+
+Terizla swings his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal 90 (+135% Total Physical Attack) Physical Damage each, while the third deals 225 (+220% Total Physical Attack) Physical Damage. Enemies hit will also be slowed by 20% for 1.25s (the Slowing Effect can stack).
+
+Deals only 80% damage to Minions.
+
+![](/images/mlbb/skills/terizla-3.webp)
+
+Ultimate
+
+### Penalty Zone
+
+Cooldown **50 s**
+
+Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s. He then summons Scaffold and slows enemies by 25%. Scaffold will send out a hook at enemy heroes in range and pull them several times while dealing 150 (+30% Total Physical Attack) Physical Damage each time.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/sun.webp)Sun+2.32 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/angela.webp)Angela+2.19 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/floryn.webp)Floryn+1.58 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/alpha.webp)Alpha+1.54 pp](https://boostmlbb.ru/en/heroes/alpha.html)
-
-## Skills
-
-Level-up priority · Penalty Zone → Execution Strike → Revenge Strike
-
-![](/images/mlbb/skills/terizla-0.webp)Passive**Body of Smith**
-
-Terizla gains 1% extra Damage Reduction (up to 20 (+1\*Hero Level)%) for every 2.5% HP lost.
-He cannot gain extra Attack Speed and will convert every 1% extra Attack Speed into 1 .
-
-![](/images/mlbb/skills/terizla-1.webp)Skill 1**Revenge Strike**
-
-**Cooldown 8.5 s**
-
-Terizla strikes the ground with his hammer, sending a fissure forward that deals 300 (+80% Extra Physical Attack) Physical Damage. Upon hitting its first target, the fissure burrows into them, slowing them by 15%. Terizla also gains 15% Movement Speed for 3.5s.
-The fissure then explodes, dealing 300 (+80% Extra Physical Attack) (+ 20% of the target's lost ) Physical Damage.
-
-![](/images/mlbb/skills/terizla-2.webp)Skill 2**Execution Strike**
-
-**Cooldown 9 s**
-
-Terizla swings his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal 90 (+135% Total Physical Attack) Physical Damage each, while the third deals 225 (+220% Total Physical Attack) Physical Damage. Enemies hit will also be slowed by 20% for 1.25s (the Slowing Effect can stack).
-Deals only 80% damage to Minions.
-
-![](/images/mlbb/skills/terizla-3.webp)Ultimate**Penalty Zone**
-
-**Cooldown 50 s**
-
-Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s. He then summons Scaffold and slows enemies by 25%. Scaffold will send out a hook at enemy heroes in range and pull them several times while dealing 150 (+30% Total Physical Attack) Physical Damage each time.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**51.28%**
--   ![](/images/ranks/Legend.webp)Legend**51.66%**
--   ![](/images/ranks/Mythic.webp)Mythic**51.55%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**50.64%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**49.48%**
+[![](/images/heroes/sun.webp)Sun**+2.3**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/angela.webp)Angela**+2.2**](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/floryn.webp)Floryn**+1.6**](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/alpha.webp)Alpha**+1.5**](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ## Lore
 
-Once an eccentric master smith, but now an avenger siding with the Abyss.
+> Once an eccentric master smith, but now an avenger siding with the Abyss.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Terizla)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=82)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=82)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Terizla**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -152,7 +299,7 @@ Over the last 30 days the toughest opponents are Argus, Phoveus, Lolita, Popol a
 
 What is Terizla’s win rate right now?
 
-50.60% over the last 30 days across all ranks and 49.48% in Mythical Glory, as of 23 November 2026.
+49.88% at Mythical Glory over the last 7 days and 50.60% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Terizla play?
 
@@ -160,8 +307,8 @@ Tank and fighter, played in the EXP Lane.
 
 Is Terizla strong in the current meta?
 
-Tier B: #50 of 133 heroes by 30-day win rate and #14 among tanks.
+Tier C, #92 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.9% win rate.
 
 What is the best build for Terizla?
 
-The most popular ranked build: War Axe, Queen's Wings and Dominance Ice as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Flicker. It wins 56.81% of matches.
+The most popular ranked build: War Axe, Queen's Wings and Oracle as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Flicker. It wins 57.09% of matches.

@@ -1,148 +1,297 @@
 ---
 title: "Gloo MLBB: build, counters and skills | MLBB Boost"
-description: "Gloo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 53.45% win rate, tier S."
+description: "Gloo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 49.90% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/gloo.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/gloo.webp)
-
-Tier S
+![Gloo hero art](/images/heroes/art/gloo.webp)
 
 # Gloo
 
-Tank · EXP Lane or Roam
+A
+
+![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/roam.webp)Roam
+
+A magical amalgamation of cute, mischievous creatures that dwells deep in the Shadow Swamp.
 
 Win rate
 
-53.45%
+49.9%
+
+all ranks 53.5%
 
 Pick rate
 
-0.75%
+0.8%
+
+all ranks 0.8%
 
 Ban rate
 
-41.90%
+36.4%
 
-**#13 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 41.9%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#15 in the tier list · #5 among tanks · Mythical Glory, 7 days, to 23 November
 
-Regen · Control · Difficulty 60/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**100**
+-   Offense**30**
+-   Control**100**
+-   Difficulty**60**
+
+-   Regen
+-   Control
+
+### Win rate by rank, 30 days
+
+1.  **55.7%**![](/images/ranks/Epic.webp)Epic
+2.  **56.1%**![](/images/ranks/Legend.webp)Legend
+3.  **55.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **54.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More tanks on this lane
+
+[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
 ## Build
 
-Most picked in ranked · EXP Lane
+EXP Lane · from ranked matches
 
-Core items
+Build 158.0%Build 260.4%Build 361.4%
 
-![](/images/mlbb/items/3201.webp)Cursed Helmet![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3204.webp)Oracle
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3201.webp)
 
-![](/images/mlbb/emblems/20001.webp)Common![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/731.webp)Brave Smite
+Cursed Helmet
 
-Battle spell
+![](/images/mlbb/items/3105.webp)
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Glowing Wand
 
-Wins with this build **60.35%**Picked in **5.87%** of matches
+![](/images/mlbb/items/3204.webp)
 
-Alternative builds (2)
+Oracle
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3201.webp)Cursed Helmet![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3204.webp)Oracle
+![](/images/mlbb/emblems/20001.webp)
 
-Emblem and talents
+Common
 
-![](/images/mlbb/emblems/20001.webp)Common![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/731.webp)Brave Smite
+![](/images/mlbb/talents/811.webp)
 
-Battle spell
+Agility
 
-![](/images/mlbb/spells/20140.webp)Flameshot
+![](/images/mlbb/talents/121.webp)
 
-Wins with this build **57.95%**Picked in **14.76%** of matches
+Wilderness Blessing
 
-Core items
+![](/images/mlbb/talents/731.webp)
 
-![](/images/mlbb/items/3201.webp)Cursed Helmet![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3204.webp)Oracle
+Brave Smite
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20001.webp)Common![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
+![](/images/mlbb/spells/20140.webp)
 
-Battle spell
+Flameshot
 
-![](/images/mlbb/spells/20140.webp)Flameshot
+Win rate
 
-Wins with this build **61.35%**Picked in **3.37%** of matches
+58.0%
+
+Pick rate
+
+14.8%
+
+### Core items
+
+![](/images/mlbb/items/3201.webp)
+
+Cursed Helmet
+
+![](/images/mlbb/items/3105.webp)
+
+Glowing Wand
+
+![](/images/mlbb/items/3204.webp)
+
+Oracle
+
+### Emblem
+
+![](/images/mlbb/emblems/20001.webp)
+
+Common
+
+![](/images/mlbb/talents/811.webp)
+
+Agility
+
+![](/images/mlbb/talents/121.webp)
+
+Wilderness Blessing
+
+![](/images/mlbb/talents/731.webp)
+
+Brave Smite
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+60.4%
+
+Pick rate
+
+5.9%
+
+### Core items
+
+![](/images/mlbb/items/3201.webp)
+
+Cursed Helmet
+
+![](/images/mlbb/items/3105.webp)
+
+Glowing Wand
+
+![](/images/mlbb/items/3204.webp)
+
+Oracle
+
+### Emblem
+
+![](/images/mlbb/emblems/20001.webp)
+
+Common
+
+![](/images/mlbb/talents/811.webp)
+
+Agility
+
+![](/images/mlbb/talents/121.webp)
+
+Wilderness Blessing
+
+![](/images/mlbb/talents/131.webp)
+
+Impure Rage
+
+### Spell
+
+![](/images/mlbb/spells/20140.webp)
+
+Flameshot
+
+Win rate
+
+61.4%
+
+Pick rate
+
+3.4%
+
+## Skills
+
+Level-up**Grab, Grab**_›_**Slam, Slam**_›_**Spread, Spread**
+
+![](/images/mlbb/skills/gloo-0.webp)Passive![](/images/mlbb/skills/gloo-1.webp)Skill 1![](/images/mlbb/skills/gloo-2.webp)Skill 2![](/images/mlbb/skills/gloo-3.webp)Ultimate
+
+![](/images/mlbb/skills/gloo-0.webp)
+
+Passive
+
+### Stick, Stick
+
+Gloo's skills apply a stack of Sticky to enemies on hit, decreasing their Movement Speed by 4% for 6s (up to 5 stacks).
+
+Each Sticky stack on an attacker reduces their damage dealt to Gloo by 3%.
+
+![](/images/mlbb/skills/gloo-1.webp)
+
+Skill 1
+
+### Slam, Slam
+
+Cooldown **10 Mana Cost: 25 s**
+
+Gloo reaches out and slams the ground, dealing 80 (+80% Total Magic Power) Magic Damage to enemies hit.
+
+A Goo is left at the end location, which explodes after 3s, dealing 230 (+11% Extra Max HP) Magic Damage to nearby enemies and immobilizing them for 0.6s.
+
+Touching the Goo detonates it immediately and resets this skill's cooldown. Gloo also recovers 2.5% if the explosion hits an enemy (doubled if it hits an enemy hero).
+
+![](/images/mlbb/skills/gloo-2.webp)
+
+Skill 2
+
+### Spread, Spread
+
+Cooldown **12 Mana Cost: 80 s**
+
+Gloo splits into Goos, dealing 100 (+80% Total Magic Power) Magic Damage to enemies in a fan-shaped area and immobilizing them for 0.5s. For the next 4s, Gloo gains 10% Movement Speed and deals 80 (+15% Total Magic Power) Magic Damage every 0.25s to enemies it touches.
+
+If this skill hits a Goo, Gloo charges toward it, dragging enemies in its path along for a distance.
+
+![](/images/mlbb/skills/gloo-3.webp)
+
+Ultimate
+
+### Grab, Grab
+
+Unlocked when an enemy hero reaches max Sticky stacks. Gloo attaches itself to the target for up to 9s, recovering 20% .
+
+While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra Max HP) Magic Damage, and it transfers 60% of the damage it takes (excluding Turret damage) to the host. If the host dies while Gloo is attached, this skill's cooldown is reduced to 5s.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/zilong.webp)Zilong+2.92 pp](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Helcurt+2.63 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Aldous+2.38 pp](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/saber.webp)Saber+2.20 pp](https://boostmlbb.ru/en/heroes/saber.html)
-
-## Skills
-
-Level-up priority · Grab, Grab → Slam, Slam → Spread, Spread
-
-![](/images/mlbb/skills/gloo-0.webp)Passive**Stick, Stick**
-
-Gloo's skills apply a stack of Sticky to enemies on hit, decreasing their Movement Speed by 4% for 6s (up to 5 stacks).
-Each Sticky stack on an attacker reduces their damage dealt to Gloo by 3%.
-
-![](/images/mlbb/skills/gloo-1.webp)Skill 1**Slam, Slam**
-
-**Cooldown 10 Mana Cost: 25 s**
-
-Gloo reaches out and slams the ground, dealing 80 (+80% Total Magic Power) Magic Damage to enemies hit.
-A Goo is left at the end location, which explodes after 3s, dealing 230 (+11% Extra Max HP) Magic Damage to nearby enemies and immobilizing them for 0.6s.
-Touching the Goo detonates it immediately and resets this skill's cooldown. Gloo also recovers 2.5% if the explosion hits an enemy (doubled if it hits an enemy hero).
-
-![](/images/mlbb/skills/gloo-2.webp)Skill 2**Spread, Spread**
-
-**Cooldown 12 Mana Cost: 80 s**
-
-Gloo splits into Goos, dealing 100 (+80% Total Magic Power) Magic Damage to enemies in a fan-shaped area and immobilizing them for 0.5s. For the next 4s, Gloo gains 10% Movement Speed and deals 80 (+15% Total Magic Power) Magic Damage every 0.25s to enemies it touches.
-If this skill hits a Goo, Gloo charges toward it, dragging enemies in its path along for a distance.
-
-![](/images/mlbb/skills/gloo-3.webp)Ultimate**Grab, Grab**
-
-Unlocked when an enemy hero reaches max Sticky stacks. Gloo attaches itself to the target for up to 9s, recovering 20% .
-While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra Max HP) Magic Damage, and it transfers 60% of the damage it takes (excluding Turret damage) to the host. If the host dies while Gloo is attached, this skill's cooldown is reduced to 5s.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**55.73%**
--   ![](/images/ranks/Legend.webp)Legend**56.11%**
--   ![](/images/ranks/Mythic.webp)Mythic**55.68%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**54.21%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.51%**
+[![](/images/heroes/zilong.webp)Zilong**+2.9**](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/helcurt.webp)Helcurt**+2.6**](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/aldous.webp)Aldous**+2.4**](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/saber.webp)Saber**+2.2**](https://boostmlbb.ru/en/heroes/saber.html)
 
 ## Lore
 
-A magical amalgamation of cute, mischievous creatures that dwells deep in the Shadow Swamp.
+> A magical amalgamation of cute, mischievous creatures that dwells deep in the Shadow Swamp.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Gloo)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=104)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=104)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Gloo**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -152,7 +301,7 @@ Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Chang'
 
 What is Gloo’s win rate right now?
 
-53.45% over the last 30 days across all ranks and 51.51% in Mythical Glory, as of 23 November 2026.
+49.90% at Mythical Glory over the last 7 days and 53.45% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Gloo play?
 
@@ -160,8 +309,8 @@ Tank, played in the EXP Lane or on roam.
 
 Is Gloo strong in the current meta?
 
-Tier S: #13 of 133 heroes by 30-day win rate and #4 among tanks.
+Tier A, #15 of 133 heroes and #5 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 36.4% of matches, 49.9% win rate.
 
 What is the best build for Gloo?
 
-The most popular ranked build: Cursed Helmet, Glowing Wand and Oracle as core items, the Common emblem with Agility, Wilderness Blessing and Brave Smite, and Flicker. It wins 60.35% of matches.
+The most popular ranked build: Cursed Helmet, Glowing Wand and Oracle as core items, the Common emblem with Agility, Wilderness Blessing and Brave Smite, and Flameshot. It wins 57.95% of matches.

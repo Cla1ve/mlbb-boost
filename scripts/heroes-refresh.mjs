@@ -87,6 +87,16 @@ for (const [key, value] of Object.entries(RANKS)) {
   if (result !== 'ok') await fail(`rank ${key}: ${result}`);
   tables[key] = await readTable();
 }
+// Current meta: the last 7 days at all ranks and at Mythic, Honor and Glory (the ranks where drafts are contested).
+// A failure here must not lose the 30-day refresh, so these tables are optional.
+const recent = {};
+try {
+  if (await choose('period', '7') === 'ok') {
+    for (const key of ['all', 'epic', 'legend', 'mythic', 'honor', 'glory']) {
+      if (await choose('rank', RANKS[key]) === 'ok') recent[key] = await readTable();
+    }
+  }
+} catch (error) { console.warn(`heroes-refresh: 7-day tables skipped (${error.message})`); }
 await browser.close();
 
 const all = tables.all;
@@ -99,6 +109,7 @@ if (unknown) console.warn(`heroes-refresh: ${unknown} unknown portrait(s) skippe
 
 const tier = win => win >= 53 ? 'S' : win >= 51 ? 'A' : win >= 49 ? 'B' : win >= 47 ? 'C' : 'D';
 const rowFor = (key, en) => tables[key].rows.find(row => heroByHash[row.hash] === en);
+const rowFor2 = (key, en) => recent[key]?.rows.find(row => heroByHash[row.hash] === en);
 const strong = {};
 for (const row of known) {
   const en = heroByHash[row.hash];
@@ -117,11 +128,23 @@ for (const hero of data.heroes) {
   hero.strongAgainst = strong[hero.slug] || [];
   const glory = rowFor('glory', hero.en);
   if (glory) Object.assign(hero, { gloryWin: glory.win, gloryBan: glory.ban });
+  // recent: 7 days, all ranks. top: 7 days, mean of Mythic, Honor and Glory.
+  const round = value => Math.round(value * 100) / 100;
+  const recentAll = recent.all && rowFor2('all', hero.en);
+  if (recentAll) hero.recent = { win: recentAll.win, pick: recentAll.pick, ban: recentAll.ban };
+  const topRows = ['mythic', 'honor', 'glory'].map(key => recent[key] && rowFor2(key, hero.en)).filter(Boolean);
+  if (topRows.length >= 2) hero.top = Object.fromEntries(['win', 'pick', 'ban'].map(key => [key, round(topRows.reduce((sum, row) => sum + row[key], 0) / topRows.length)]));
+  // r7: the last 7 days at each rank, for the rank switch on the tier list.
+  hero.r7 = Object.fromEntries(['all', 'epic', 'legend', 'mythic', 'honor', 'glory'].map(key => {
+    const row = recent[key] && rowFor2(key, hero.en);
+    return [key, row ? { win: row.win, pick: row.pick, ban: row.ban } : null];
+  }).filter(([, value]) => value));
   hero.byRank = Object.fromEntries(['epic', 'legend', 'mythic', 'honor', 'glory'].map(key => [key, rowFor(key, hero.en)?.win ?? null]));
 }
 data.heroes.sort((a, b) => a.rank - b.rank);
 data.updated = all.updated;
 data.period = '30 days, all ranks';
+if (recent.all?.updated) data.recentUpdated = recent.all.updated;
 const next = JSON.stringify(data, null, 1) + '\n';
 const before = await readFile('content/heroes.json', 'utf8');
 if (next === before) console.log('heroes-refresh: no changes');

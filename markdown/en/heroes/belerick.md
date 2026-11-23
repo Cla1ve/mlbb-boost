@@ -1,149 +1,297 @@
 ---
 title: "Belerick MLBB: build, counters and skills | MLBB Boost"
-description: "Belerick in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 51.83% win rate, tier A."
+description: "Belerick in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 50.36% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/belerick.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/belerick.webp)
-
-Tier A
+![Belerick hero art](/images/heroes/art/belerick.webp)
 
 # Belerick
 
-Tank · Roam
+S
+
+![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/roam.webp)Roam
+
+A kind and fraternal elemental creature.
 
 Win rate
 
-51.83%
+50.4%
+
+all ranks 51.8%
 
 Pick rate
 
-1.69%
+1.8%
+
+all ranks 1.7%
 
 Ban rate
 
-56.83%
+56.3%
 
-**#30 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 56.8%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#6 in the tier list · #2 among tanks · Mythical Glory, 7 days, to 23 November
 
-Crowd Control · Regen · Difficulty 10/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**90**
+-   Offense**40**
+-   Control**100**
+-   Difficulty**10**
+
+-   Crowd Control
+-   Regen
+
+### Win rate by rank, 30 days
+
+1.  **56.0%**![](/images/ranks/Epic.webp)Epic
+2.  **54.4%**![](/images/ranks/Legend.webp)Legend
+3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More tanks on this lane
+
+[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
 
 ## Build
 
-Most picked in ranked · Roam
+Roam · from ranked matches
 
-Core items
+Build 161.7%Build 261.1%Build 356.2%
 
-![](/images/mlbb/items/2212.webp)Thunder Belt![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/3202.webp)Guardian Helmet
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/2212.webp)
 
-![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/731.webp)Brave Smite
+Thunder Belt
 
-Battle spell
+![](/images/mlbb/items/3206.webp)
 
-![](/images/mlbb/spells/20190.webp)Vengeance
+Dominance Ice
 
-Wins with this build **61.66%**Picked in **2.27%** of matches
+![](/images/mlbb/items/3202.webp)
 
-Alternative builds (2)
+Guardian Helmet
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3207.webp)Immortality![](/images/mlbb/items/3202.webp)Guardian Helmet![](/images/mlbb/items/3206.webp)Dominance Ice
+![](/images/mlbb/emblems/20003.webp)
 
-Emblem and talents
+Tank
 
-![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/731.webp)Brave Smite
+![](/images/mlbb/talents/311.webp)
 
-Battle spell
+Vitality
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/talents/121.webp)
 
-Wins with this build **56.21%**Picked in **1.70%** of matches
+Wilderness Blessing
 
-Core items
+![](/images/mlbb/talents/731.webp)
 
-![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/3212.webp)Chastise Pauldron![](/images/mlbb/items/3202.webp)Guardian Helmet
+Brave Smite
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/731.webp)Brave Smite
+![](/images/mlbb/spells/20190.webp)
 
-Battle spell
+Vengeance
 
-![](/images/mlbb/spells/20050.webp)Revitalize
+Win rate
 
-Wins with this build **61.12%**Picked in **1.95%** of matches
+61.7%
+
+Pick rate
+
+2.3%
+
+### Core items
+
+![](/images/mlbb/items/3206.webp)
+
+Dominance Ice
+
+![](/images/mlbb/items/3212.webp)
+
+Chastise Pauldron
+
+![](/images/mlbb/items/3202.webp)
+
+Guardian Helmet
+
+### Emblem
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+![](/images/mlbb/talents/311.webp)
+
+Vitality
+
+![](/images/mlbb/talents/321.webp)
+
+Tenacity
+
+![](/images/mlbb/talents/731.webp)
+
+Brave Smite
+
+### Spell
+
+![](/images/mlbb/spells/20050.webp)
+
+Revitalize
+
+Win rate
+
+61.1%
+
+Pick rate
+
+1.9%
+
+### Core items
+
+![](/images/mlbb/items/3207.webp)
+
+Immortality
+
+![](/images/mlbb/items/3202.webp)
+
+Guardian Helmet
+
+![](/images/mlbb/items/3206.webp)
+
+Dominance Ice
+
+### Emblem
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+![](/images/mlbb/talents/311.webp)
+
+Vitality
+
+![](/images/mlbb/talents/321.webp)
+
+Tenacity
+
+![](/images/mlbb/talents/731.webp)
+
+Brave Smite
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+56.2%
+
+Pick rate
+
+1.7%
+
+## Skills
+
+Level-up**Wrath of Dryad**_›_**Ancient Seed**_›_**Nature's Strike**
+
+![](/images/mlbb/skills/belerick-0.webp)Passive![](/images/mlbb/skills/belerick-1.webp)Skill 1![](/images/mlbb/skills/belerick-2.webp)Skill 2![](/images/mlbb/skills/belerick-3.webp)Ultimate
+
+![](/images/mlbb/skills/belerick-0.webp)
+
+Passive
+
+### Deadly Thorns
+
+Whenever Belerick takes 50 or more damage, he has a 25% chance to shoot the nearest enemy unit, dealing 55 (+5 × hero level) (+ 1.8% of his ) Magic Damage (scales with level). This attack can be triggered once every 0.4s.
+
+His HP obtained from equipment and emblems is increased by 30%.
+
+![](/images/mlbb/skills/belerick-1.webp)
+
+Skill 1
+
+### Ancient Seed
+
+Cooldown **8 Mana Cost: 60 s**
+
+Belerick releases vines in a designated direction, dealing 200 (+50% Total Magic Power) Magic Damage to enemies along the path and slowing them by 25%. Ancient Seeds left by the vines will erupt into thorns after 0.8s, dealing 200 (+50% Total Magic Power) Magic Damage to enemies on the path and taunting them for 1.2s.
+
+Deals 80% extra damage against Minions.
+
+![](/images/mlbb/skills/belerick-2.webp)
+
+Skill 2
+
+### Nature's Strike
+
+Cooldown **14 Mana Cost: 60 s**
+
+Belerick gains 80% Movement Speed (decays over 2s) and enhances his next Basic Attack.
+
+The enhanced Basic Attack deals 300 (+60% Total Magic Power) Magic Damage and slows the target by 60% for 1.4s. Belerick also recovers HP equal to 240 + 10% of his .
+
+Each time Deadly Thorns is triggered, this skill's cooldown is reduced by 1s.
+
+![](/images/mlbb/skills/belerick-3.webp)
+
+Ultimate
+
+### Wrath of Dryad
+
+Cooldown **50 Mana Cost: 150 s**
+
+Belerick conjures spreading vines around him, dealing 100 (+30% Total Magic Power) Magic Damage to enemies in the area 4 times, taunting and slowing them for 1.5s.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/zilong.webp)Zilong+2.91 pp](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/saber.webp)Saber+2.85 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt+2.62 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/natalia.webp)Natalia+2.30 pp](https://boostmlbb.ru/en/heroes/natalia.html)
-
-## Skills
-
-Level-up priority · Wrath of Dryad → Ancient Seed → Nature's Strike
-
-![](/images/mlbb/skills/belerick-0.webp)Passive**Deadly Thorns**
-
-Whenever Belerick takes 50 or more damage, he has a 25% chance to shoot the nearest enemy unit, dealing 55 (+5\*Hero Level) (+ 1.8% of his ) Magic Damage (scales with level). This attack can be triggered once every 0.4s.
-His HP obtained from equipment and emblems is increased by 30%.
-
-![](/images/mlbb/skills/belerick-1.webp)Skill 1**Ancient Seed**
-
-**Cooldown 8 Mana Cost: 60 s**
-
-Belerick releases vines in a designated direction, dealing 200 (+50% Total Magic Power) Magic Damage to enemies along the path and slowing them by 25%. Ancient Seeds left by the vines will erupt into thorns after 0.8s, dealing 200 (+50% Total Magic Power) Magic Damage to enemies on the path and taunting them for 1.2s.
-Deals 80% extra damage against Minions.
-
-![](/images/mlbb/skills/belerick-2.webp)Skill 2**Nature's Strike**
-
-**Cooldown 14 Mana Cost: 60 s**
-
-Belerick gains 80% Movement Speed (decays over 2s) and enhances his next Basic Attack.
-The enhanced Basic Attack deals 300 (+60% Total Magic Power) Magic Damage and slows the target by 60% for 1.4s. Belerick also recovers HP equal to 240 + 10% of his .
-Each time Deadly Thorns is triggered, this skill's cooldown is reduced by 1s.
-
-![](/images/mlbb/skills/belerick-3.webp)Ultimate**Wrath of Dryad**
-
-**Cooldown 50 Mana Cost: 150 s**
-
-Belerick conjures spreading vines around him, dealing 100 (+30% Total Magic Power) Magic Damage to enemies in the area 4 times, taunting and slowing them for 1.5s.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**55.96%**
--   ![](/images/ranks/Legend.webp)Legend**54.43%**
--   ![](/images/ranks/Mythic.webp)Mythic**52.99%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**51.26%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**50.01%**
+[![](/images/heroes/zilong.webp)Zilong**+2.9**](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/saber.webp)Saber**+2.9**](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt**+2.6**](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/natalia.webp)Natalia**+2.3**](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
-A kind and fraternal elemental creature.
+> A kind and fraternal elemental creature.
 
 [Read the full story ↗](https://kazukiofficial.com/stories/belerick)Kazuki Official
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=70)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=70)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Belerick**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -153,7 +301,7 @@ Over the last 30 days the toughest opponents are Miya, Silvanna, Zhask, Johnson 
 
 What is Belerick’s win rate right now?
 
-51.83% over the last 30 days across all ranks and 50.01% in Mythical Glory, as of 23 November 2026.
+50.36% at Mythical Glory over the last 7 days and 51.83% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Belerick play?
 
@@ -161,7 +309,7 @@ Tank, played on roam.
 
 Is Belerick strong in the current meta?
 
-Tier A: #30 of 133 heroes by 30-day win rate and #8 among tanks.
+Tier S, #6 of 133 heroes and #2 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 56.3% of matches, 50.4% win rate.
 
 What is the best build for Belerick?
 

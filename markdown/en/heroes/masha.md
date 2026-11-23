@@ -1,149 +1,297 @@
 ---
 title: "Masha MLBB: build, counters and skills | MLBB Boost"
-description: "Masha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 60.40% win rate, tier S."
+description: "Masha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 58.72% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/masha.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/masha.webp)
-
-Tier S
+![Masha hero art](/images/heroes/art/masha.webp)
 
 # Masha
 
-Tank and fighter · EXP Lane
+S
+
+![](/images/mlbb/filters/tank.webp)Tank![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane
+
+Guardian of the Direbears.
 
 Win rate
 
-60.40%
+58.7%
+
+all ranks 60.4%
 
 Pick rate
 
-0.52%
+0.7%
+
+all ranks 0.5%
 
 Ban rate
 
-40.89%
+68.0%
 
-**#1 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 40.9%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#1 in the tier list · #1 among tanks · Mythical Glory, 7 days, to 23 November
 
-Push · Damage · Difficulty 30/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**50**
+-   Offense**70**
+-   Control**30**
+-   Difficulty**30**
+
+-   Push
+-   Damage
+
+### Win rate by rank, 30 days
+
+1.  **54.7%**![](/images/ranks/Epic.webp)Epic
+2.  **58.1%**![](/images/ranks/Legend.webp)Legend
+3.  **59.6%**![](/images/ranks/Mythic.webp)Mythic
+4.  **61.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **60.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More tanks on this lane
+
+[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Build
 
-Most picked in ranked · EXP Lane
+EXP Lane · from ranked matches
 
-Core items
+Build 163.7%Build 264.7%Build 365.1%
 
-![](/images/mlbb/items/2212.webp)Thunder Belt![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/3202.webp)Guardian Helmet
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/2212.webp)
 
-![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/133.webp)War Cry
+Thunder Belt
 
-Battle spell
+![](/images/mlbb/items/2008.webp)
 
-![](/images/mlbb/spells/20070.webp)Petrify
+Corrosion Scythe
 
-Wins with this build **63.70%**Picked in **6.35%** of matches
+![](/images/mlbb/items/3202.webp)
 
-Alternative builds (2)
+Guardian Helmet
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/2212.webp)Thunder Belt![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/3202.webp)Guardian Helmet
+![](/images/mlbb/emblems/20003.webp)
 
-Emblem and talents
+Tank
 
-![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/133.webp)War Cry
+![](/images/mlbb/talents/112.webp)
 
-Battle spell
+Swift
 
-![](/images/mlbb/spells/20100.webp)Flicker
+![](/images/mlbb/talents/121.webp)
 
-Wins with this build **64.66%**Picked in **1.89%** of matches
+Wilderness Blessing
 
-Core items
+![](/images/mlbb/talents/133.webp)
 
-![](/images/mlbb/items/2212.webp)Thunder Belt![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/3202.webp)Guardian Helmet
+War Cry
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/133.webp)War Cry
+![](/images/mlbb/spells/20070.webp)
 
-Battle spell
+Petrify
 
-![](/images/mlbb/spells/20070.webp)Petrify
+Win rate
 
-Wins with this build **65.08%**Picked in **1.77%** of matches
+63.7%
+
+Pick rate
+
+6.3%
+
+### Core items
+
+![](/images/mlbb/items/2212.webp)
+
+Thunder Belt
+
+![](/images/mlbb/items/2008.webp)
+
+Corrosion Scythe
+
+![](/images/mlbb/items/3202.webp)
+
+Guardian Helmet
+
+### Emblem
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+![](/images/mlbb/talents/112.webp)
+
+Swift
+
+![](/images/mlbb/talents/121.webp)
+
+Wilderness Blessing
+
+![](/images/mlbb/talents/133.webp)
+
+War Cry
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+64.7%
+
+Pick rate
+
+1.9%
+
+### Core items
+
+![](/images/mlbb/items/2212.webp)
+
+Thunder Belt
+
+![](/images/mlbb/items/2008.webp)
+
+Corrosion Scythe
+
+![](/images/mlbb/items/3202.webp)
+
+Guardian Helmet
+
+### Emblem
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+![](/images/mlbb/talents/112.webp)
+
+Swift
+
+![](/images/mlbb/talents/621.webp)
+
+Bargain Hunter
+
+![](/images/mlbb/talents/133.webp)
+
+War Cry
+
+### Spell
+
+![](/images/mlbb/spells/20070.webp)
+
+Petrify
+
+Win rate
+
+65.1%
+
+Pick rate
+
+1.8%
+
+## Skills
+
+Level-up**Savage Maul**_›_**Claw Strike**_›_**Feral Swipe**
+
+![](/images/mlbb/skills/masha-0.webp)Passive![](/images/mlbb/skills/masha-1.webp)Skill 1![](/images/mlbb/skills/masha-2.webp)Skill 2![](/images/mlbb/skills/masha-3.webp)Ultimate
+
+![](/images/mlbb/skills/masha-0.webp)
+
+Passive
+
+### Primal Pact
+
+**Bear's Blessing:** Masha has 3 HP bars, each inheriting 50% of her Equipment HP bonuses. Each time an HP bar breaks, she removes control effects on herself and blocks one instance of damage. Dealing damage to enemy heroes or creeps builds Feral, which converts into HP after she leaves combat.
+
+**Power of Wildness:** When Masha's skills damage an enemy hero, a Wound appears on a random side of the target. Breaking a Wound with a Basic Attack puts her into the Feral state.
+
+**Feral State:** For 3s, Masha gains 15 (+1 × hero level)% Resilience, Attack Speed, and Movement Speed. Her next 3 Basic Attacks become fan-shaped claw strikes, dealing extra Physical Damage equal to 3 (+0.5% Extra Physical Attack) (+0.2 × hero level)% to enemies in the area (not against Turrets) and recovering 4 (+0.4 × hero level)% HP.
+
+Breaking another Wound during the Feral state refreshes the state's duration. Up to 6 claw strikes can be stored.
+
+![](/images/mlbb/skills/masha-1.webp)
+
+Skill 1
+
+### Feral Swipe
+
+Cooldown **8 s**
+
+Masha releases energy forward, dealing 250 (+55% Total Physical Attack) Physical Damage to enemies in its path. It deals 150% damage to minions.
+
+![](/images/mlbb/skills/masha-2.webp)
+
+Skill 2
+
+### Claw Strike
+
+Cooldown **9 s**
+
+Masha dashes in the target direction, dealing 120 (+80% Extra Physical Attack) Physical Damage and reducing enemy heroes' Movement Speed by 50% for 1s on hit.
+
+Whenever an HP bar is depleted, the cooldown of Claw Strike resets.
+
+![](/images/mlbb/skills/masha-3.webp)
+
+Ultimate
+
+### Savage Maul
+
+Cooldown **42 s**
+
+Masha charges toward an enemy hero, dealing 300 (+50% Extra Max HP) Physical Damage and stunning them for 1s while knocking back nearby enemies.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/bane.webp)Bane+1.86 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/guinevere.webp)Guinevere+1.66 pp](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/x-borg.webp)X.Borg+1.60 pp](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/saber.webp)Saber+1.52 pp](https://boostmlbb.ru/en/heroes/saber.html)
-
-## Skills
-
-Level-up priority · Savage Maul → Claw Strike → Feral Swipe
-
-![](/images/mlbb/skills/masha-0.webp)Passive**Primal Pact**
-
-Bear's Blessing: Masha has 3 HP bars, each inheriting 50% of her Equipment HP bonuses. Each time an HP bar breaks, she removes control effects on herself and blocks one instance of damage. Dealing damage to enemy heroes or creeps builds Feral, which converts into HP after she leaves combat.
-Power of Wildness: When Masha's skills damage an enemy hero, a Wound appears on a random side of the target. Breaking a Wound with a Basic Attack puts her into the Feral state.
-Feral State: For 3s, Masha gains 15 (+1\*Hero Level)% Resilience, Attack Speed, and Movement Speed. Her next 3 Basic Attacks become fan-shaped claw strikes, dealing extra Physical Damage equal to 3 (+0.5% Extra Physical Attack) (+0.2\*Hero Level)% to enemies in the area (not against Turrets) and recovering 4 (+0.4\*Hero Level)% HP.
-Breaking another Wound during the Feral state refreshes the state's duration. Up to 6 claw strikes can be stored.
-
-![](/images/mlbb/skills/masha-1.webp)Skill 1**Feral Swipe**
-
-**Cooldown 8 s**
-
-Masha releases energy forward, dealing 250 (+55% Total Physical Attack) Physical Damage to enemies in its path. It deals 150% damage to minions.
-
-![](/images/mlbb/skills/masha-2.webp)Skill 2**Claw Strike**
-
-**Cooldown 9 s**
-
-Masha dashes in the target direction, dealing 120 (+80% Extra Physical Attack) Physical Damage and reducing enemy heroes' Movement Speed by 50% for 1s on hit.
-Whenever an HP bar is depleted, the cooldown of Claw Strike resets.
-
-![](/images/mlbb/skills/masha-3.webp)Ultimate**Savage Maul**
-
-**Cooldown 42 s**
-
-Masha charges toward an enemy hero, dealing 300 (+50% Extra Max HP) Physical Damage and stunning them for 1s while knocking back nearby enemies.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**54.74%**
--   ![](/images/ranks/Legend.webp)Legend**58.09%**
--   ![](/images/ranks/Mythic.webp)Mythic**59.63%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**61.09%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**60.75%**
+[![](/images/heroes/bane.webp)Bane**+1.9**](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/guinevere.webp)Guinevere**+1.7**](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/x-borg.webp)X.Borg**+1.6**](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/saber.webp)Saber**+1.5**](https://boostmlbb.ru/en/heroes/saber.html)
 
 ## Lore
 
-Guardian of the Direbears.
+> Guardian of the Direbears.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Masha)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=88)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=88)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Masha**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -153,7 +301,7 @@ Over the last 30 days the toughest opponents are Gloo, Eudora, Lesley, Cici and 
 
 What is Masha’s win rate right now?
 
-60.40% over the last 30 days across all ranks and 60.75% in Mythical Glory, as of 23 November 2026.
+58.72% at Mythical Glory over the last 7 days and 60.40% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Masha play?
 
@@ -161,7 +309,7 @@ Tank and fighter, played in the EXP Lane.
 
 Is Masha strong in the current meta?
 
-Tier S: #1 of 133 heroes by 30-day win rate and #1 among tanks.
+Tier S, #1 of 133 heroes and #1 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 68.0% of matches, 58.7% win rate.
 
 What is the best build for Masha?
 

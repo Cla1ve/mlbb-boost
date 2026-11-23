@@ -6,7 +6,7 @@ import vm from 'node:vm';
 import { parseHTML } from 'linkedom';
 import TurndownService from 'turndown';
 import reviewText from '../js/review-text.js';
-import { heroGuides } from './hero-pages.mjs';
+import { heroGuides, rateHeroes } from './hero-pages.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const origin = 'https://boostmlbb.ru';
@@ -255,14 +255,9 @@ function guideArticle(guide, lang) {
   if (guide.kind === 'hero') {
     const head = guide[lang][4];
     const profile = Boolean(head.portrait);
-    const image = profile ? `<img class="arena-avatar" src="/images/heroes/${head.portrait}.webp" width="96" height="96" alt="" fetchpriority="high">` : '';
-    const metrics = profile ? `<dl class="atlas-metrics">${head.metrics.map(([label, value]) => `<div><dt>${label}</dt><dd>${value}</dd></div>`).join('')}</dl>` : '';
     return `<article class="atlas container ${profile ? 'arena-profile' : 'arena-directory'}">
-      <nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}"><a href="/heroes/"${!profile ? ' aria-current="page"' : ''}>${en ? 'Tier list' : 'Тир-лист'}</a><a href="/news/">${en ? 'News & guides' : 'Новости и гайды'}</a></nav>
-      <header class="arena-mast">
-        <div class="atlas-identity">${image}<div>${head.tier ? `<span class="atlas-tier" data-grade="${head.tier}">${en ? 'Tier' : 'Тир'} ${head.tier}</span>` : ''}<h1>${head.h1}</h1><p>${head.sub}</p></div></div>
-        <div class="atlas-period">${metrics}${head.context ? `<strong>${head.context}</strong>` : ''}<span>${head.period}</span></div>
-      </header>
+      <nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}"><a href="${localized('/heroes/', lang)}"${!profile ? ' aria-current="page"' : ''}>${en ? 'Tier list' : 'Тир-лист'}</a><a href="${localized('/news/', lang)}">${en ? 'News & guides' : 'Новости и гайды'}</a></nav>
+      ${head.html}
       ${body}${faqHTML}</article>`;
   }
   if (guide.layout === 'landing') {
@@ -290,7 +285,7 @@ function schema(document, file, lang, title, description, url) {
   if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
   if (isHeroIndex) page.mainEntity = {
     '@type': 'ItemList', numberOfItems: heroesData.heroes.length,
-    itemListElement: heroesData.heroes.map(hero => ({ '@type': 'ListItem', position: hero.rank,
+    itemListElement: rateHeroes(heroesData.heroes).map(hero => ({ '@type': 'ListItem', position: hero.rank,
       name: hero[lang], url: origin + localized(`/heroes/${hero.slug}.html`, lang) }))
   };
   const graph = [org, web, page];
@@ -438,8 +433,10 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
     if (guideOf(file)?.kind === 'hero') {
-      const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=3';
+      const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=4';
       document.head.append(arenaStyle);
+      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=5';
+      document.head.append(heroStyle);
     }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
     const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=32'; document.head.append(interfaceStyle);

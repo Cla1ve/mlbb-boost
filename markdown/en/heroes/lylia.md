@@ -1,147 +1,295 @@
 ---
 title: "Lylia MLBB: build, counters and skills | MLBB Boost"
-description: "Lylia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.34% win rate, tier B."
+description: "Lylia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 47.64% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lylia.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/lylia.webp)
-
-Tier B
+![Lylia hero art](/images/heroes/art/lylia.webp)
 
 # Lylia
 
-Mage · Mid Lane
+C
+
+![](/images/mlbb/filters/mage.webp)Mage![](/images/mlbb/filters/mid.webp)Mid Lane
+
+A funny and witted little witch.
 
 Win rate
 
-49.34%
+47.6%
+
+all ranks 49.3%
 
 Pick rate
 
-0.49%
+0.5%
+
+all ranks 0.5%
 
 Ban rate
 
-0.39%
+0.2%
 
-**#82 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 0.4%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#106 in the tier list · #25 among mages · Mythical Glory, 7 days, to 23 November
 
-Push · Damage · Difficulty 60/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**50**
+-   Offense**100**
+-   Control**20**
+-   Difficulty**60**
+
+-   Push
+-   Damage
+
+### Win rate by rank, 30 days
+
+1.  **51.1%**![](/images/ranks/Epic.webp)Epic
+2.  **50.7%**![](/images/ranks/Legend.webp)Legend
+3.  **50.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More mages on this lane
+
+[![](/images/heroes/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)
 
 ## Build
 
-Most picked in ranked · Mid Lane
+Mid Lane · from ranked matches
 
-Core items
+Build 152.7%Build 251.9%Build 351.6%
 
-![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/2112.webp)Wishing Lantern
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/2106.webp)
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
+Enchanted Talisman
 
-Battle spell
+![](/images/mlbb/items/3105.webp)
 
-![](/images/mlbb/spells/20100.webp)Flicker
+Glowing Wand
 
-Wins with this build **51.56%**Picked in **4.69%** of matches
+![](/images/mlbb/items/2112.webp)
 
-Alternative builds (2)
+Wishing Lantern
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/2112.webp)Wishing Lantern
+![](/images/mlbb/emblems/20006.webp)
 
-Emblem and talents
+Mage
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/talents/611.webp)
 
-Battle spell
+Inspire
 
-![](/images/mlbb/spells/20080.webp)Purify
+![](/images/mlbb/talents/621.webp)
 
-Wins with this build **52.74%**Picked in **7.95%** of matches
+Bargain Hunter
 
-Core items
+![](/images/mlbb/talents/631.webp)
 
-![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/2112.webp)Wishing Lantern
+Lethal Ignition
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/spells/20080.webp)
 
-Battle spell
+Purify
 
-![](/images/mlbb/spells/20140.webp)Flameshot
+Win rate
 
-Wins with this build **51.85%**Picked in **5.75%** of matches
+52.7%
+
+Pick rate
+
+8.0%
+
+### Core items
+
+![](/images/mlbb/items/2106.webp)
+
+Enchanted Talisman
+
+![](/images/mlbb/items/3105.webp)
+
+Glowing Wand
+
+![](/images/mlbb/items/2112.webp)
+
+Wishing Lantern
+
+### Emblem
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+![](/images/mlbb/talents/611.webp)
+
+Inspire
+
+![](/images/mlbb/talents/621.webp)
+
+Bargain Hunter
+
+![](/images/mlbb/talents/631.webp)
+
+Lethal Ignition
+
+### Spell
+
+![](/images/mlbb/spells/20140.webp)
+
+Flameshot
+
+Win rate
+
+51.9%
+
+Pick rate
+
+5.8%
+
+### Core items
+
+![](/images/mlbb/items/2106.webp)
+
+Enchanted Talisman
+
+![](/images/mlbb/items/3105.webp)
+
+Glowing Wand
+
+![](/images/mlbb/items/2112.webp)
+
+Wishing Lantern
+
+### Emblem
+
+![](/images/mlbb/emblems/20006.webp)
+
+Mage
+
+![](/images/mlbb/talents/611.webp)
+
+Inspire
+
+![](/images/mlbb/talents/621.webp)
+
+Bargain Hunter
+
+![](/images/mlbb/talents/631.webp)
+
+Lethal Ignition
+
+### Spell
+
+![](/images/mlbb/spells/20100.webp)
+
+Flicker
+
+Win rate
+
+51.6%
+
+Pick rate
+
+4.7%
+
+## Skills
+
+Level-up**Black Shoes**_›_**Shadow Energy**_›_**Magic Shockwave**
+
+![](/images/mlbb/skills/lylia-0.webp)Passive![](/images/mlbb/skills/lylia-1.webp)Skill 1![](/images/mlbb/skills/lylia-2.webp)Skill 2![](/images/mlbb/skills/lylia-3.webp)Ultimate
+
+![](/images/mlbb/skills/lylia-0.webp)
+
+Passive
+
+### Angry Gloom
+
+Lylia gains power from Gloom, increasing her Movement Speed by 15%. Each Gloom upgrade further increases this bonus by 5%.
+
+Gloom gains an upgrade each time he devours Shadow Energy, up to 5 times. Higher levels increase the detonation damage of Shadow Energy.
+
+![](/images/mlbb/skills/lylia-1.webp)
+
+Skill 1
+
+### Magic Shockwave
+
+Cooldown **4 Mana Cost: 40 s**
+
+Lylia sends out Gloom with a shockwave, dealing 250 (+100% Total Magic Power) Magic Damage to enemies in a line and slowing them by 30% for 1.5s.
+
+If Gloom touches Shadow Energy, he will devour and detonate it.
+
+![](/images/mlbb/skills/lylia-2.webp)
+
+Skill 2
+
+### Shadow Energy
+
+Cooldown **1 Mana Cost: 32 s**
+
+Lylia condenses Shadow Energy at the target area, dealing 90 (+50% Total Magic Power) Magic Damage to enemies hit and briefly slowing them by 80%.
+
+Shadow Energy detonates when devoured by Gloom, dealing 220 (+115% Total Magic Power) Magic Damage to nearby enemies. Each Gloom upgrade increases the detonation damage by 20% (up to 80%).
+
+Gloom restores 20% of Shadow Energy's recharge time upon hitting an enemy hero.
+
+Lylia starts with the Shadow Energy skill, storing one charge every 6s.
+
+![](/images/mlbb/skills/lylia-3.webp)
+
+Ultimate
+
+### Black Shoes
+
+Cooldown **45 Mana Cost: 120 s**
+
+Lylia returns to the Black Shoes' location 4s ago, restoring her HP and Mana to their previous state and recovering an extra 10% .
+
+She also gains 20% Movement Speed for 2s.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/zhuxin.webp)Zhuxin+3.51 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/harley.webp)Harley+2.40 pp](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/valentina.webp)Valentina+2.36 pp](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/natalia.webp)Natalia+1.31 pp](https://boostmlbb.ru/en/heroes/natalia.html)
-
-## Skills
-
-Level-up priority · Black Shoes → Shadow Energy → Magic Shockwave
-
-![](/images/mlbb/skills/lylia-0.webp)Passive**Angry Gloom**
-
-Lylia gains power from Gloom, increasing her Movement Speed by 15%. Each Gloom upgrade further increases this bonus by 5%.
-Gloom gains an upgrade each time he devours Shadow Energy, up to 5 times. Higher levels increase the detonation damage of Shadow Energy.
-
-![](/images/mlbb/skills/lylia-1.webp)Skill 1**Magic Shockwave**
-
-**Cooldown 4 Mana Cost: 40 s**
-
-Lylia sends out Gloom with a shockwave, dealing 250 (+100% Total Magic Power) Magic Damage to enemies in a line and slowing them by 30% for 1.5s.
-If Gloom touches Shadow Energy, he will devour and detonate it.
-
-![](/images/mlbb/skills/lylia-2.webp)Skill 2**Shadow Energy**
-
-**Cooldown 1 Mana Cost: 32 s**
-
-Lylia condenses Shadow Energy at the target area, dealing 90 (+50% Total Magic Power) Magic Damage to enemies hit and briefly slowing them by 80%.
-Shadow Energy detonates when devoured by Gloom, dealing 220 (+115% Total Magic Power) Magic Damage to nearby enemies. Each Gloom upgrade increases the detonation damage by 20% (up to 80%).
-Gloom restores 20% of Shadow Energy's recharge time upon hitting an enemy hero.
-Lylia starts with the Shadow Energy skill, storing one charge every 6s.
-
-![](/images/mlbb/skills/lylia-3.webp)Ultimate**Black Shoes**
-
-**Cooldown 45 Mana Cost: 120 s**
-
-Lylia returns to the Black Shoes' location 4s ago, restoring her HP and Mana to their previous state and recovering an extra 10% .
-She also gains 20% Movement Speed for 2s.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**51.08%**
--   ![](/images/ranks/Legend.webp)Legend**50.72%**
--   ![](/images/ranks/Mythic.webp)Mythic**50.06%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.57%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.17%**
+[![](/images/heroes/zhuxin.webp)Zhuxin**+3.5**](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/harley.webp)Harley**+2.4**](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/valentina.webp)Valentina**+2.4**](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/natalia.webp)Natalia**+1.3**](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
-A funny and witted little witch.
+> A funny and witted little witch.
 
 [Read the full story ↗](https://kazukiofficial.com/stories/lylia)Kazuki Official
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=86)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=86)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Lylia**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -151,7 +299,7 @@ Over the last 30 days the toughest opponents are Johnson, Hanabi, Alpha, Barats 
 
 What is Lylia’s win rate right now?
 
-49.34% over the last 30 days across all ranks and 48.17% in Mythical Glory, as of 23 November 2026.
+47.64% at Mythical Glory over the last 7 days and 49.34% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Lylia play?
 
@@ -159,8 +307,8 @@ Mage, played in the Mid Lane.
 
 Is Lylia strong in the current meta?
 
-Tier B: #82 of 133 heroes by 30-day win rate and #20 among mages.
+Tier C, #106 of 133 heroes and #25 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 47.6% win rate.
 
 What is the best build for Lylia?
 
-The most popular ranked build: Enchanted Talisman, Glowing Wand and Wishing Lantern as core items, the Mage emblem with Inspire, Bargain Hunter and Lethal Ignition, and Flicker. It wins 51.56% of matches.
+The most popular ranked build: Enchanted Talisman, Glowing Wand and Wishing Lantern as core items, the Mage emblem with Inspire, Bargain Hunter and Lethal Ignition, and Purify. It wins 52.74% of matches.

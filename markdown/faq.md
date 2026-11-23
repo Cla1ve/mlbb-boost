@@ -5,11 +5,7 @@ canonical: https://boostmlbb.ru/faq.html
 language: ru
 ---
 
-FAQ
-
 # Вопросы о бусте Mobile Legends
-
-Ответы на самые популярные вопросы о нашем сервисе
 
 Не нашли ответ? Напишите нам в Telegram[](https://t.me/Cla1ve)
 

@@ -1464,7 +1464,8 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=3">`;
+  <link rel="stylesheet" href="/styles/arena.css?v=4">
+  <link rel="stylesheet" href="/styles/reader.css?v=1">`;
 }
 
 function renderScripts() {

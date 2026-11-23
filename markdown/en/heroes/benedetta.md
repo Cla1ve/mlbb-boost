@@ -1,149 +1,301 @@
 ---
 title: "Benedetta MLBB: build, counters and skills | MLBB Boost"
-description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 52.10% win rate, tier A."
+description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.58% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
 
-![](/images/heroes/benedetta.webp)
-
-Tier A
+![Benedetta hero art](/images/heroes/art/benedetta.webp)
 
 # Benedetta
 
-Fighter and assassin · EXP Lane
+B
+
+![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/assassin.webp)Assassin![](/images/mlbb/filters/exp.webp)EXP Lane
+
+Female warrior defending the Barren Lands against demon invasion.
 
 Win rate
 
-52.10%
+51.6%
+
+all ranks 52.1%
 
 Pick rate
 
-0.42%
+0.5%
+
+all ranks 0.4%
 
 Ban rate
 
-0.37%
+0.3%
 
-**#25 of 133 by win rate**All ranks · 30 days to 23 November 2026
+all ranks 0.4%
 
-[Build](https://boostmlbb.ru/#build)[Counters](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Stats](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+#61 in the tier list · #18 among fighters · Mythical Glory, 7 days, to 23 November
 
-Chase · Burst · Difficulty 80/100
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+
+## Overview
+
+### Attributes
+
+-   Durability**60**
+-   Offense**50**
+-   Control**20**
+-   Difficulty**80**
+
+-   Chase
+-   Burst
+
+### Win rate by rank, 30 days
+
+1.  **54.4%**![](/images/ranks/Epic.webp)Epic
+2.  **53.2%**![](/images/ranks/Legend.webp)Legend
+3.  **52.2%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+
+Dashed line: 50% win rate
+
+### More fighters on this lane
+
+[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
 
 ## Build
 
-Most picked in ranked · EXP Lane
+EXP Lane · from ranked matches
 
-Core items
+Build 154.6%Build 257.4%Build 353.0%
 
-![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/3001.webp)Malefic Roar![](/images/mlbb/items/3008.webp)Blade of Despair
+### Core items
 
-Emblem and talents
+![](/images/mlbb/items/3007.webp)
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
+Blade of the Heptaseas
 
-Battle spell
+![](/images/mlbb/items/3001.webp)
 
-![](/images/mlbb/spells/20070.webp)Petrify
+Malefic Roar
 
-Wins with this build **57.38%**Picked in **4.24%** of matches
+![](/images/mlbb/items/3009.webp)
 
-Alternative builds (2)
+Hunter Strike
 
-Core items
+### Emblem
 
-![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3001.webp)Malefic Roar![](/images/mlbb/items/3009.webp)Hunter Strike
+![](/images/mlbb/emblems/20007.webp)
 
-Emblem and talents
+Fighter
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/talents/511.webp)
 
-Battle spell
+Rupture
 
-![](/images/mlbb/spells/20070.webp)Petrify
+![](/images/mlbb/talents/1221.webp)
 
-Wins with this build **54.64%**Picked in **5.01%** of matches
+Weapons Master
 
-Core items
+![](/images/mlbb/talents/631.webp)
 
-![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/3001.webp)Malefic Roar
+Lethal Ignition
 
-Emblem and talents
+### Spell
 
-![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
+![](/images/mlbb/spells/20070.webp)
 
-Battle spell
+Petrify
 
-![](/images/mlbb/spells/20070.webp)Petrify
+Win rate
 
-Wins with this build **52.99%**Picked in **2.49%** of matches
+54.6%
+
+Pick rate
+
+5.0%
+
+### Core items
+
+![](/images/mlbb/items/3007.webp)
+
+Blade of the Heptaseas
+
+![](/images/mlbb/items/3009.webp)
+
+Hunter Strike
+
+![](/images/mlbb/items/3001.webp)
+
+Malefic Roar
+
+![](/images/mlbb/items/3008.webp)
+
+Blade of Despair
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/1221.webp)
+
+Weapons Master
+
+![](/images/mlbb/talents/631.webp)
+
+Lethal Ignition
+
+### Spell
+
+![](/images/mlbb/spells/20070.webp)
+
+Petrify
+
+Win rate
+
+57.4%
+
+Pick rate
+
+4.2%
+
+### Core items
+
+![](/images/mlbb/items/3007.webp)
+
+Blade of the Heptaseas
+
+![](/images/mlbb/items/3009.webp)
+
+Hunter Strike
+
+![](/images/mlbb/items/3001.webp)
+
+Malefic Roar
+
+### Emblem
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/talents/511.webp)
+
+Rupture
+
+![](/images/mlbb/talents/1221.webp)
+
+Weapons Master
+
+![](/images/mlbb/talents/631.webp)
+
+Lethal Ignition
+
+### Spell
+
+![](/images/mlbb/spells/20070.webp)
+
+Petrify
+
+Win rate
+
+53.0%
+
+Pick rate
+
+2.5%
+
+## Skills
+
+Level-up**Alecto: Final Blow**_›_**Phantom Slash**_›_**An Eye for An Eye**
+
+![](/images/mlbb/skills/benedetta-0.webp)Passive![](/images/mlbb/skills/benedetta-1.webp)Skill 1![](/images/mlbb/skills/benedetta-2.webp)Skill 2![](/images/mlbb/skills/benedetta-3.webp)Ultimate
+
+![](/images/mlbb/skills/benedetta-0.webp)
+
+Passive
+
+### Elapsed Daytime
+
+Hold the Basic Attack button to enter the Swordout state and charge Sword Intent. Once fully charged, release it to perform a Swordout Slash in the direction she's facing and dash forward, dealing (+215% Total Physical Attack) Physical Damage to enemies on the path (counts as basic attack damage and is reduced to 50% against minions and creeps).
+
+Benedetta can only cast Swordout Slash when her Sword Intent is full and she is in the Swordout state.
+
+Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
+
+![](/images/mlbb/skills/benedetta-1.webp)
+
+Skill 1
+
+### Phantom Slash
+
+Cooldown **10 Mana Cost: 55 s**
+
+Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200 (+75% Total Physical Attack) Physical Damage and slowing the enemies by 60% for 0.5s.
+
+Meanwhile, Benedetta dashes forward to slash, dealing 75 (+100% Total Physical Attack) Physical Damage. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)
+
+![](/images/mlbb/skills/benedetta-2.webp)
+
+Skill 2
+
+### An Eye for An Eye
+
+Cooldown **15 Mana Cost: 100 s**
+
+Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300 (+80% Total Physical Attack) Physical Damage.
+
+If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5s.
+
+![](/images/mlbb/skills/benedetta-3.webp)
+
+Ultimate
+
+### Alecto: Final Blow
+
+Cooldown **45 Mana Cost: 110 s**
+
+Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560 (+1105% Extra Physical Attack) Physical Damage to enemies within and slows them by 50%.
 
 ## Counters and teammates
 
 ### Counters
 
+Beat this hero
+
 [![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
-### Strong against
+### Easy targets
+
+This hero beats them
 
 [![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ### Teammates
 
-Win rate change as a duo
+Win rate gain as a duo, pp
 
-[![](/images/heroes/thamuz.webp)Thamuz+2.18 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/fredrinn.webp)Fredrinn+2.02 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/sun.webp)Sun+2.02 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/alice.webp)Alice+1.91 pp](https://boostmlbb.ru/en/heroes/alice.html)
-
-## Skills
-
-Level-up priority · Alecto: Final Blow → Phantom Slash → An Eye for An Eye
-
-![](/images/mlbb/skills/benedetta-0.webp)Passive**Elapsed Daytime**
-
-Hold the Basic Attack button to enter the Swordout state and charge Sword Intent. Once fully charged, release it to perform a Swordout Slash in the direction she's facing and dash forward, dealing (+215% Total Physical Attack) Physical Damage to enemies on the path (counts as basic attack damage and is reduced to 50% against minions and creeps).
-Benedetta can only cast Swordout Slash when her Sword Intent is full and she is in the Swordout state.
-Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
-
-![](/images/mlbb/skills/benedetta-1.webp)Skill 1**Phantom Slash**
-
-**Cooldown 10 Mana Cost: 55 s**
-
-Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200 (+75% Total Physical Attack) Physical Damage and slowing the enemies by 60% for 0.5s.
-Meanwhile, Benedetta dashes forward to slash, dealing 75 (+100% Total Physical Attack) Physical Damage. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)
-
-![](/images/mlbb/skills/benedetta-2.webp)Skill 2**An Eye for An Eye**
-
-**Cooldown 15 Mana Cost: 100 s**
-
-Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300 (+80% Total Physical Attack) Physical Damage.
-If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5s.
-
-![](/images/mlbb/skills/benedetta-3.webp)Ultimate**Alecto: Final Blow**
-
-**Cooldown 45 Mana Cost: 110 s**
-
-Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560 (+1105% Extra Physical Attack) Physical Damage to enemies within and slows them by 50%.
-
-## Win rate by rank
-
--   ![](/images/ranks/Epic.webp)Epic**54.38%**
--   ![](/images/ranks/Legend.webp)Legend**53.18%**
--   ![](/images/ranks/Mythic.webp)Mythic**52.18%**
--   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**52.30%**
--   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.55%**
+[![](/images/heroes/thamuz.webp)Thamuz**+2.2**](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/fredrinn.webp)Fredrinn**+2.0**](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/sun.webp)Sun**+2.0**](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/alice.webp)Alice**+1.9**](https://boostmlbb.ru/en/heroes/alice.html)
 
 ## Lore
 
-Female warrior defending the Barren Lands against demon invasion.
+> Female warrior defending the Barren Lands against demon invasion.
 
 [Read the full story ↗](https://play.mobilelegends.com/lore/hero/Benedetta)Official Mobile Legends site
 
-[Hero stats on the game site](https://www.mobilelegends.com/hero/detail?heroid=97)
+[Hero stats on the game site ↗](https://www.mobilelegends.com/hero/detail?heroid=97)
 
-[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
+**Rank up on Benedetta**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -153,7 +305,7 @@ Over the last 30 days the toughest opponents are X.Borg, Alpha, Silvanna, Ixia a
 
 What is Benedetta’s win rate right now?
 
-52.10% over the last 30 days across all ranks and 51.55% in Mythical Glory, as of 23 November 2026.
+51.58% at Mythical Glory over the last 7 days and 52.10% across all ranks over 30 days, as of 23 November 2026.
 
 What role and lane does Benedetta play?
 
@@ -161,8 +313,8 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Benedetta strong in the current meta?
 
-Tier A: #25 of 133 heroes by 30-day win rate and #5 among fighters.
+Tier B, #61 of 133 heroes and #18 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 51.6% win rate.
 
 What is the best build for Benedetta?
 
-The most popular ranked build: Blade of the Heptaseas, Hunter Strike, Malefic Roar and Blade of Despair as core items, the Fighter emblem with Rupture, Weapons Master and Lethal Ignition, and Petrify. It wins 57.38% of matches.
+The most popular ranked build: Blade of the Heptaseas, Malefic Roar and Hunter Strike as core items, the Fighter emblem with Rupture, Weapons Master and Lethal Ignition, and Petrify. It wins 54.64% of matches.
