@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier D
-
-# Valentina in Mobile Legends: build, counters and stats
-
-Mage, Mid Lane. Wins 44.73% of matches over the last 30 days: #128 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier D
-
 ![](/images/heroes/valentina.webp)
 
-**Valentina**Ban 0.16% · Pick 0.17%
+Tier D
 
-Counters
+# Valentina
 
-![](/images/heroes/carmilla.webp)![](/images/heroes/atlas.webp)![](/images/heroes/x-borg.webp)
+Mage · Mid Lane
 
-Win rate, 30 days**44.73%**
+**#128 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**44.73%**win rate, 30 days
+Win rate
 
-**0.17%**pick rate
+44.73%
 
-**0.16%**ban rate
+Pick rate
 
-**45.39%**wins in Mythical Glory
+0.17%
 
-## Valentina build
+Ban rate
 
-The most picked setup for Mid Lane Valentina in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.16%
+
+Burst · Finisher · Difficulty 80/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Mid Lane
 
 Core items
 
@@ -53,79 +51,84 @@ Battle spell
 
 Wins with this build **52.72%**Picked in **4.76%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageInspire · Bargain Hunter · Impure Rage**49.18%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageInspire · Wilderness Blessing · Impure Rage**51.00%**
+Core items
 
-## Valentina skills
+![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3101.webp)Divine Glaive
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **I Am You** → **Shadow Strike** → **Arcane Shade**
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/131.webp)Impure Rage
 
--   ![](/images/mlbb/skills/valentina-0.webp)
+Battle spell
 
-    **Primal Force**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Valentina gains 8-50 extra EXP (scales with level) each time she deals damage to an enemy hero. Cooldown: 2s.
-    If the enemy hero's level is not higher than hers, 30% of the damage dealt is converted into her HP.
+Wins with this build **49.18%**Picked in **5.61%** of matches
 
--   ![](/images/mlbb/skills/valentina-1.webp)
+Core items
 
-    **Shadow Strike**Skill 1CD 7 Mana Cost: 70 s
+![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3110.webp)Lightning Truncheon![](/images/mlbb/items/3101.webp)Divine Glaive
 
-    Valentina casts Shadow Strike in the target direction, dealing 475 (+145% Total Magic Power) Magic Damage to enemies hit and slowing them by 40% for 1s.
-    Enemy heroes hit are marked with a Shadow Sigil for 4s. Marked enemies hit by Shadow Strike again are Terrified for 1s (a target can only be terrified once every 4s).
+Emblem and talents
 
--   ![](/images/mlbb/skills/valentina-2.webp)
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/131.webp)Impure Rage
 
-    **Arcane Shade**Skill 2CD 12 Mana Cost: 40 s
+Battle spell
 
-    Valentina dashes in the target direction, firing 3 Shadow Bolts at nearby enemies that deal 90 (+30% Total Magic Power) Magic Damage each. She can cast this skill again within 6s (costs Mana).
-    Each time a Shadow Bolt hits an enemy, the cooldown of Shadow Strike is reduced by 1s.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/valentina-3.webp)
+Wins with this build **51.00%**Picked in **7.85%** of matches
 
-    **I Am You**UltimateCD 55 s
+## Counters and teammates
 
-    Valentina slows the target enemy hero by 70% for 0.5s and gains the ability to cast their Ultimate. Casting the enemy's Ultimate turns her into the enemy hero's form and inherits their Basic Attack type for up to 12s (her regular skills remain unchanged unless the enemy's Ultimate has a Morph effect).
-    The stolen Ultimate's level equals Valentina's own Ultimate level, and its cooldown is 120% of the target's (but no lower than 10s).
-    If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Power) for the duration. This cannot be used on an enemy Valentina.
+### Counters
 
+[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
--   Role**Mage**
--   Lane**Mid Lane**
--   Among mages**#32 of 32**
--   In the Mid Lane**#29 of 29**
--   Speciality**Burst, Finisher**
--   Difficulty**Hard (80/100)**
+### Teammates
 
-## Who counters Valentina
+Win rate gain when playing together
 
-Valentina loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
+[![](/images/heroes/zhuxin.webp)Zhuxin+7.91 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/yve.webp)Yve+5.63 pp](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/granger.webp)Granger+2.92 pp](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/lylia.webp)Lylia+2.36 pp](https://boostmlbb.ru/en/heroes/lylia.html)
 
-[![Carmilla](/images/heroes/carmilla.webp)Carmilla53.29%](https://boostmlbb.ru/en/heroes/carmilla.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
+## Skills
 
-## Who Valentina is strong against
+Level-up priority · I Am You → Shadow Strike → Arcane Shade
 
-Valentina is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/valentina-0.webp)Passive**Primal Force**
 
-[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)
+Valentina gains 8-50 extra EXP (scales with level) each time she deals damage to an enemy hero. Cooldown: 2s.
+If the enemy hero's level is not higher than hers, 30% of the damage dealt is converted into her HP.
 
-## Best teammates for Valentina
+![](/images/mlbb/skills/valentina-1.webp)Skill 1**Shadow Strike**
 
-With these heroes on the same team Valentina wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 7 Mana Cost: 70 s**
 
-[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin+7.91 pts](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Yve](/images/heroes/yve.webp)Yve+5.63 pts](https://boostmlbb.ru/en/heroes/yve.html)[![Granger](/images/heroes/granger.webp)Granger+2.92 pts](https://boostmlbb.ru/en/heroes/granger.html)[![Lylia](/images/heroes/lylia.webp)Lylia+2.36 pts](https://boostmlbb.ru/en/heroes/lylia.html)
+Valentina casts Shadow Strike in the target direction, dealing 475 (+145% Total Magic Power) Magic Damage to enemies hit and slowing them by 40% for 1s.
+Enemy heroes hit are marked with a Shadow Sigil for 4s. Marked enemies hit by Shadow Strike again are Terrified for 1s (a target can only be terrified once every 4s).
+
+![](/images/mlbb/skills/valentina-2.webp)Skill 2**Arcane Shade**
+
+**Cooldown 12 Mana Cost: 40 s**
+
+Valentina dashes in the target direction, firing 3 Shadow Bolts at nearby enemies that deal 90 (+30% Total Magic Power) Magic Damage each. She can cast this skill again within 6s (costs Mana).
+Each time a Shadow Bolt hits an enemy, the cooldown of Shadow Strike is reduced by 1s.
+
+![](/images/mlbb/skills/valentina-3.webp)Ultimate**I Am You**
+
+**Cooldown 55 s**
+
+Valentina slows the target enemy hero by 70% for 0.5s and gains the ability to cast their Ultimate. Casting the enemy's Ultimate turns her into the enemy hero's form and inherits their Basic Attack type for up to 12s (her regular skills remain unchanged unless the enemy's Ultimate has a Morph effect).
+The stolen Ultimate's level equals Valentina's own Ultimate level, and its cooldown is 120% of the target's (but no lower than 10s).
+If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Power) for the duration. This cannot be used on an enemy Valentina.
 
 ## Win rate by rank
-
-Best result in Mythical Glory (45.39%), weakest in Legend (42.35%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**42.51%**
 -   ![](/images/ranks/Legend.webp)Legend**42.35%**
@@ -133,33 +136,13 @@ Best result in Mythical Glory (45.39%), weakest in Legend (42.35%). Last 30 days
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**44.22%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**45.39%**
 
-## Place in the meta
-
-Valentina sits in tier D of our win-rate tier list and ranks 128 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is higher: 45.39% against 44.73% across all ranks, a 0.66-point gap. BOOST MLBB customers ordered 18 hero boosts on Valentina over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Mid Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
-
 ## Lore
 
-![Valentina](/images/heroes/valentina.webp)
+Former head of House Paxley who'd stop at nothing to revive her lover.
 
-«Former head of House Paxley who'd stop at nothing to revive her lover.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Valentina)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=110)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valentina)
 
-Valentina’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Valentina)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=110)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valentina)
-
-## Boost on Valentina
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -182,5 +165,3 @@ Tier D: #128 of 133 heroes by 30-day win rate and #32 among mages.
 What is the best build for Valentina?
 
 The most popular ranked build: Glowing Wand, Lightning Truncheon and Blood Wings as core items, the Mage emblem with Inspire, Wilderness Blessing and Impure Rage, and Flicker. It wins 52.72% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

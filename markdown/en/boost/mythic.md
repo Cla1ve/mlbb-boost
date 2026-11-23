@@ -248,8 +248,6 @@ What happens to my stars at season end?
 
 At the reset Immortal and Glory drop to Legend V, Honor to Epic I and Mythic to Epic II. Rewards follow the highest rank you reached that season.
 
-MLBB Boost editorial team · Updated 22 November 2026
-
 Related
 
 ## Read before ordering

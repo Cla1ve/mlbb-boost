@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier S
-
-# Lolita in Mobile Legends: build, counters and stats
-
-Tank and support, Roam. Wins 53.30% of matches over the last 30 days: #14 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier S
-
 ![](/images/heroes/lolita.webp)
 
-**Lolita**Ban 0.20% · Pick 0.08%
+Tier S
 
-Counters
+# Lolita
 
-![](/images/heroes/cyclops.webp)![](/images/heroes/edith.webp)![](/images/heroes/change.webp)
+Tank and support · Roam
 
-Win rate, 30 days**53.30%**
+**#14 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**53.30%**win rate, 30 days
+Win rate
 
-**0.08%**pick rate
+53.30%
 
-**0.20%**ban rate
+Pick rate
 
-**51.70%**wins in Mythical Glory
+0.08%
 
-## Lolita build
+Ban rate
 
-The most picked setup for roam Lolita in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.20%
+
+Guard · Crowd Control · Difficulty 50/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Roam
 
 Core items
 
@@ -53,78 +51,82 @@ Battle spell
 
 Wins with this build **60.85%**Picked in **2.25%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20050.webp)Revitalize![](/images/mlbb/emblems/20003.webp)TankVitality · Tenacity · Focusing Mark**59.38%**
--   ![](/images/mlbb/spells/20050.webp)Revitalize![](/images/mlbb/emblems/20003.webp)TankFirmness · Pull Yourself Together · Focusing Mark**58.44%**
+Core items
 
-## Lolita skills
+![](/images/mlbb/items/3112.webp)Flask of the Oasis![](/images/mlbb/items/3212.webp)Chastise Pauldron![](/images/mlbb/items/3202.webp)Guardian Helmet
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Noumenon Blast** → **Power Charge** → **Guardian's Reflection**
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/831.webp)Focusing Mark
 
--   ![](/images/mlbb/skills/lolita-0.webp)
+Battle spell
 
-    **Noumenon Energy Core**Passive
+![](/images/mlbb/spells/20050.webp)Revitalize
 
-    Every 6s to 3s (scales with Noumenon Blast level), the Noumenon Energy Core grants Lolita 20 (+2.5% Max HP) (+20% Total Magic Power) shield. When Lolita casts a skill, the Noumenon Energy Core grants Lolita and nearby allied heroes an extra shield. This shield can stack up to 3 times and lasts 30s.
+Wins with this build **59.38%**Picked in **2.02%** of matches
 
--   ![](/images/mlbb/skills/lolita-1.webp)
+Core items
 
-    **Power Charge**Skill 1CD 10 Mana Cost: 70 s
+![](/images/mlbb/items/3112.webp)Flask of the Oasis![](/images/mlbb/items/3212.webp)Chastise Pauldron![](/images/mlbb/items/3202.webp)Guardian Helmet
 
-    Lolita dashes in the target direction. Her next Basic Attack within 4s will perform a short dash to the target, dealing 400 (+100% Total Physical Attack) Physical Damage and stunning them for 0.5s. This damage is doubled against Minions.
+Emblem and talents
 
--   ![](/images/mlbb/skills/lolita-2.webp)
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/711.webp)Firmness![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/831.webp)Focusing Mark
 
-    **Guardian's Reflection**Skill 2CD 15 Mana Cost: 90 s
+Battle spell
 
-    Lolita raises her shield and reflects all incoming ranged Basic Attacks and Projectiles in the direction of the shield for 3s. The shield will break after taking 1000 (+15% Max HP) damage.
-    The damage and effects from the Unique Passives of an attacker's equipment will not apply to the shield and will not be reflected. This skill can be interrupted by high level control effects.
+![](/images/mlbb/spells/20050.webp)Revitalize
 
--   ![](/images/mlbb/skills/lolita-3.webp)
+Wins with this build **58.44%**Picked in **1.48%** of matches
 
-    **Noumenon Blast**UltimateCD 55 Mana Cost: 100 s
+## Counters and teammates
 
-    Passive: Reduces the interval of Noumenon Energy Core by 1s each time this skill is upgraded.
-    Active: Lolita begins charging for 2s while slowing enemies in a fan-shaped area by 60%. When the charging is complete or is stopped, Lolita slams her hammer on the ground, dealing up to 600 (+100% Total Physical Attack) Physical Damage to enemies in the area and stunning them for up to 2s (damage and stun duration scale with charge time).
-    Use Again: Lolita immediately stops charging and slams her hammer on the ground.
+### Counters
 
+[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)
 
--   Role**Tank and support**
--   Lane**Roam**
--   Among tanks**#5 of 25**
--   Among supports**#6 of 15**
--   On roam**#8 of 34**
--   Speciality**Guard, Crowd Control**
--   Difficulty**Medium (50/100)**
+### Teammates
 
-## Who counters Lolita
+Win rate gain when playing together
 
-Lolita loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are mages.
+[![](/images/heroes/saber.webp)Saber+3.05 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt+2.22 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/silvanna.webp)Silvanna+2.02 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/jawhead.webp)Jawhead+1.96 pp](https://boostmlbb.ru/en/heroes/jawhead.html)
 
-[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
+## Skills
 
-## Who Lolita is strong against
+Level-up priority · Noumenon Blast → Power Charge → Guardian's Reflection
 
-Lolita is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/lolita-0.webp)Passive**Noumenon Energy Core**
 
-[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Zetian](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![Vexana](/images/heroes/vexana.webp)Vexana49.30%](https://boostmlbb.ru/en/heroes/vexana.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)
+Every 6s to 3s (scales with Noumenon Blast level), the Noumenon Energy Core grants Lolita 20 (+2.5% Max HP) (+20% Total Magic Power) shield. When Lolita casts a skill, the Noumenon Energy Core grants Lolita and nearby allied heroes an extra shield. This shield can stack up to 3 times and lasts 30s.
 
-## Best teammates for Lolita
+![](/images/mlbb/skills/lolita-1.webp)Skill 1**Power Charge**
 
-With these heroes on the same team Lolita wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 10 Mana Cost: 70 s**
 
-[![Saber](/images/heroes/saber.webp)Saber+3.05 pts](https://boostmlbb.ru/en/heroes/saber.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt+2.22 pts](https://boostmlbb.ru/en/heroes/helcurt.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna+2.02 pts](https://boostmlbb.ru/en/heroes/silvanna.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead+1.96 pts](https://boostmlbb.ru/en/heroes/jawhead.html)
+Lolita dashes in the target direction. Her next Basic Attack within 4s will perform a short dash to the target, dealing 400 (+100% Total Physical Attack) Physical Damage and stunning them for 0.5s. This damage is doubled against Minions.
+
+![](/images/mlbb/skills/lolita-2.webp)Skill 2**Guardian's Reflection**
+
+**Cooldown 15 Mana Cost: 90 s**
+
+Lolita raises her shield and reflects all incoming ranged Basic Attacks and Projectiles in the direction of the shield for 3s. The shield will break after taking 1000 (+15% Max HP) damage.
+The damage and effects from the Unique Passives of an attacker's equipment will not apply to the shield and will not be reflected. This skill can be interrupted by high level control effects.
+
+![](/images/mlbb/skills/lolita-3.webp)Ultimate**Noumenon Blast**
+
+**Cooldown 55 Mana Cost: 100 s**
+
+Passive: Reduces the interval of Noumenon Energy Core by 1s each time this skill is upgraded.
+Active: Lolita begins charging for 2s while slowing enemies in a fan-shaped area by 60%. When the charging is complete or is stopped, Lolita slams her hammer on the ground, dealing up to 600 (+100% Total Physical Attack) Physical Damage to enemies in the area and stunning them for up to 2s (damage and stun duration scale with charge time).
+Use Again: Lolita immediately stops charging and slams her hammer on the ground.
 
 ## Win rate by rank
-
-Best result in Legend (55.33%), weakest in Mythical Glory (51.70%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.33%**
 -   ![](/images/ranks/Legend.webp)Legend**55.33%**
@@ -132,33 +134,13 @@ Best result in Legend (55.33%), weakest in Mythical Glory (51.70%). Last 30 days
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**53.70%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.70%**
 
-## Place in the meta
-
-Lolita sits in tier S of our win-rate tier list and ranks 14 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 51.70% against 53.30% across all ranks, a 1.60-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Roam heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
-
 ## Lore
 
-![Lolita](/images/heroes/lolita.webp)
+Member of the Eruditio Rangers and protector of the Leviathan workshop.
 
-«Member of the Eruditio Rangers and protector of the Leviathan workshop.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Lolita)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=20)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lolita)
 
-Lolita’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Lolita)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=20)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lolita)
-
-## Boost on Lolita
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -181,5 +163,3 @@ Tier S: #14 of 133 heroes by 30-day win rate and #5 among tanks.
 What is the best build for Lolita?
 
 The most popular ranked build: Flask of the Oasis, Dominance Ice and Radiant Armor as core items, the Support emblem with Firmness, Tenacity and Concussive Blast, and Revitalize. It wins 60.85% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

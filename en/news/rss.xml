@@ -6,7 +6,7 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:36:21 GMT</lastBuildDate>
     <item>
       <title>MLBB hero builds 2026: what players build in ranked</title>
       <link>https://boostmlbb.ru/en/news/mlbb-builds-2026/</link>
@@ -24,9 +24,7 @@ The most picked emblem is the Assassin emblem, used by 29 heroes. The Common emb
 
 Flicker is the main spell for 62 heroes out of 133, Retribution for 20.
 
-The builds come from the in-game Academy: what players actually build in ranked, not an author’s opinion.
-
-A ready-made build in Mobile Legends saves what matters most — time reading guides before a match. We collected the most popular builds for all 133 heroes from the in-game Academy: for each hero we took its main lane, ranked matches across all ranks and the build picked more often than the rest. Below are builds for the most popular heroes and the bigger picture: which items, emblems and spells are in fashion now.
+Each hero is shown with the most picked setup in their main lane. The three items form the core of the build. Win rate counts matches played with that setup.
 
 Builds for popular heroes
 
@@ -277,11 +275,11 @@ Hirara is banned the most: in 67.97% of matches across all ranks and 86.38% in M
 
 Yet Hirara wins only 50.03% of matches. Masha (60.40% wins) and Marcel (57.46%) are more dangerous if left open.
 
-In Epic and Legend the main ban is Belerick: he is removed in 56.83% of matches.
+Belerick is banned in 56.83% of matches across all ranks.
 
 Strong heroes almost nobody bans: Valir (54.11% wins at 3.78% bans), Hanabi and Ling.
 
-A ban in Mobile Legends is best spent on the hero who wins most often, not the one who annoys you most. Here is who players actually ban, which of them are really dangerous and who counters them if the ban is not yours. All figures come from MOONTON’s official 30-day ranking as of 23 November 2026.
+The comparison covers 30 days ending on 23 November 2026. The tables separate all-rank bans from Mythical Glory bans.
 
 Who gets banned the most
 
@@ -492,7 +490,7 @@ The best solo heroes in Legend and Mythic by MOONTON’s 30-day statistics: Mins
 
 Belerick and Atlas win the most in Epic but fall to 50% by Mythical Glory. Saber and Moskov are the opposite: stronger at the top.
 
-Climbing Mobile Legends ranked alone is hard not because of “bad teammates” but because of star maths. Here is how many matches each percent of win rate really costs, which heroes to pick in each lane and which habits cost you stars. Hero statistics come from MOONTON’s official 30-day ranking as of 23 November 2026.
+The solo hero data covers 30 days ending on 23 November 2026. The match estimates below assume a constant win rate.
 
 How many matches 25 stars take
 
@@ -709,8 +707,6 @@ Everything lives in the profile: Account → Account Center. That is where you b
 
 If you do not log in for more than 6 months, MOONTON may delete the account along with its diamonds and skins.
 
-Almost every “I lost my Mobile Legends account” story starts the same way: someone played on a guest profile for years, then changed phones or deleted the game. Here is how to bind a Mobile Legends account, switch between a main and a second profile, get a lost one back and delete one you no longer need.
-
 Why a guest account is risky
 
 If you have never bound your account, you are playing on a guest profile that lives only on your phone. MOONTON’s terms of 21 October 2025 say that guest progress cannot be transferred, purchases cannot be restored after a reinstall, and deleting the game wipes the data for good. MOONTON does not guarantee recovery of such an account and recommends creating a Moonton account or binding a third-party login.
@@ -837,8 +833,6 @@ Since December 2025 three new heroes have come out: Sora, Marcel and Hirara. Fou
 Hirara is banned in 68% of matches, the highest ban rate among all 133 heroes.
 
 As of 22 November MOONTON has not announced the next hero. The latest official patch notes are 2.2.16 from 16 September.
-
-A new Mobile Legends hero arrives with a major patch, and for the first weeks it is either banned or picked in every other game. We collected every new and revamped hero from the last year and a half, checked the dates against the official patch notes and looked at how they perform now in MOONTON statistics.
 
 New heroes and revamps by date
 
@@ -1081,8 +1075,6 @@ The card costs diamonds. Guides quote 239 and 299 diamonds, so check the exact p
 
 A blank nickname is built from invisible Unicode characters, but the game may reject them.
 
-Your Mobile Legends nickname is seen by teammates on the loading screen, by opponents after the match and by anyone who opens your profile. Changing it takes a couple of taps, but only once for free. Here is where the rename button is, what the card costs, how to make an invisible nickname and why a symbol from a generator may be refused.
-
 How to change your nickname: step by step
 
 In the main menu, tap your avatar in the top-left corner. Your profile opens.
@@ -1228,8 +1220,6 @@ The verification code is valid for 30 minutes. The reward arrives in your in-gam
 
 You never need your account password to redeem a code. A site that asks for it is a scam.
 
-Mobile Legends has no redeem field inside the game, so many players look for it in the settings and never find it. Codes are entered on the MOONTON website in the Redeem game rewards section. Below is a step-by-step guide to the official form and why a code may fail. There is no list of “working codes” here: they cannot be checked in advance, and codes from unofficial lists have usually expired.
-
 Where to enter a redeem code
 
 Fields of the official form at mobilelegends.com/redeem
@@ -1265,6 +1255,12 @@ A confirmation code
 Sent to your in-game mail after you press Send
 
 How to redeem a code, step by step
+
+Redeem a code
+
+Mobile Legends
+
+Open the form and enter the Game ID and Zone ID from your profile.
 
 Open your in-game profile and note two numbers: the Game ID and the Zone ID in brackets, for example 123456789 (1234).
 
@@ -1325,7 +1321,7 @@ Aulus, Argus, Aldous and Lukas were buffed; Miya, Hanabi, Melissa, Yi Sun-shin a
 
 The next major patch is expected with Season 43: the last two arrived on the first day of a season, 17 June and 16 September.
 
-Update 2.2.16 is the latest major Mobile Legends patch as of 22 November 2026. The developers lifted weak junglers and EXP lane heroes, fully reworked Masha and Bruno and slowed the match economy so a team that falls behind can come back more easily. Below are the key points from the official patch notes and how those changes look in the statistics two months later.
+Patch 2.2.16 changed how Masha and Bruno play. Lower jungle monster rewards slowed gold income.
 
 What the patch did to heroes, two months on
 
@@ -1526,7 +1522,7 @@ Hanabi is the most picked hero (2.43%), while Tigreal wins only 45.20% at a 2.00
 
 Franco, Fanny and Granger are the weakest right now, with 41.57% to 43.00% wins.
 
-We built the Season 42 meta from MOONTON’s official statistics: the Hero Rank section on mobilelegends.com shows the pick, win and ban rate of every hero. We took the last 30 days across all ranks, with data updated on 21 November 2026 at 23:55. We also compared it with Mythical Glory, where the game is played differently from the average.
+A 30-day snapshot as of 21 November 2026. The main list covers all ranks, with a separate comparison for Mythical Glory below.
 
 Hero tier list for November 2026
 
@@ -1965,7 +1961,7 @@ Mythic has no divisions: Honor starts at 25 stars, Glory at 50 and Immortal at 1
 
 The first 10 Mythic matches are placement: a win gives two stars and a loss removes none.
 
-The MLBB ranked ladder has two parts. The first six ranks are split into divisions, from III or V down to I, with 3–5 stars each. A win adds a star, a loss removes one, and when a division is full the next win moves you up. Mythic starts the second part: stars simply add up, and the rank name changes at 25, 50 and 100 stars.
+Before Mythic, divisions run from III or V to I. Each takes 3 to 5 stars. In Mythic, all stars go towards one total.
 
 All ranks in order
 
@@ -2043,7 +2039,7 @@ The first ranks are the shortest: Warrior takes 9 stars and Elite 12. The real w
 
 Mythic ranks and placement
 
-After Legend I the next win takes you to Mythic. Placement starts here: 10 matches where every win gives two stars and a loss takes none. Placement can add up to 10 stars. After that stars again change by one per win or loss.
+After Legend I the next win takes you to Mythic. Placement starts here: 10 matches where every win gives two stars and a loss takes none. After that stars again change by one per win or loss.
 
 Mythic rank thresholds
 
@@ -2178,7 +2174,7 @@ Season rewards follow the highest rank you reached during the season, not your r
 
 To get the season skin you need to play 20 ranked matches.
 
-Season 42 started on 16 September 2026, the day update 2.2.16 came out. Recent seasons lasted about 91 days, so the end is expected on 16 December, with Season 43 opening the same day. This is an estimate from past seasons: there is no official date yet. The game itself is the most accurate source — ranked mode shows a timer with the days left in the season.
+The season started on 16 September. The 16 December estimate is based on previous seasons lasting about 91 days. Check the ranked mode timer for the in-game countdown.
 
 When Season 42 ends
 

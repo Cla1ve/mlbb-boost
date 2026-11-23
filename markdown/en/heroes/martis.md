@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier C
-
-# Martis in Mobile Legends: build, counters and stats
-
-Fighter, EXP Lane or Jungle. Wins 47.23% of matches over the last 30 days: #118 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier C
-
 ![](/images/heroes/martis.webp)
 
-**Martis**Ban 0.44% · Pick 0.62%
+Tier C
 
-Counters
+# Martis
 
-![](/images/heroes/saber.webp)![](/images/heroes/chip.webp)![](/images/heroes/moskov.webp)
+Fighter · EXP Lane or Jungle
 
-Win rate, 30 days**47.23%**
+**#118 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**47.23%**win rate, 30 days
+Win rate
 
-**0.62%**pick rate
+47.23%
 
-**0.44%**ban rate
+Pick rate
 
-**47.44%**wins in Mythical Glory
+0.62%
 
-## Martis build
+Ban rate
 
-The most picked setup for EXP Lane Martis in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.44%
+
+Finisher · Charge · Difficulty 60/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,78 +51,82 @@ Battle spell
 
 Wins with this build **48.80%**Picked in **1.83%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · Impure Rage**51.05%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · Killing Spree**57.09%**
+Core items
 
-## Martis skills
+![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3013.webp)Sea Halberd![](/images/mlbb/items/3004.webp)Endless Battle
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Decimation** → **Asura Aura** → **Mortal Coil**
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/131.webp)Impure Rage
 
--   ![](/images/mlbb/skills/martis-0.webp)
+Battle spell
 
-    **Asura's Wrath**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Each time Martis uses a skill, his Attack Speed will be increased by 30%, 120% maximum. Lasts 4s. He gains (+8\*Hero Level) extra Attack at full stacks.
+Wins with this build **51.05%**Picked in **1.90%** of matches
 
--   ![](/images/mlbb/skills/martis-1.webp)
+Core items
 
-    **Asura Aura**Skill 1CD 7 s
+![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2208.webp)Queen's Wings
 
-    Martis draws enemies to a fan-shaped area in front of him and deals 350 (+130% Extra Physical Attack) Physical Damage, slowing them by 40% for 2s.
+Emblem and talents
 
--   ![](/images/mlbb/skills/martis-2.webp)
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/531.webp)Killing Spree
 
-    **Mortal Coil**Skill 2CD 8 s
+Battle spell
 
-    Martis strikes in the target direction three times, each time dealing 225 (+120% Extra Physical Attack) Physical Damage to enemies hit. Enemies hit by the first and third strike are also knocked back. The attack direction can be changed once using the Joystick.
-    Use Again: Martis leaps in the target direction, dealing 300 (+150% Extra Physical Attack) Physical Damage to enemies in his path and knocking them airborne.
-    Martis gains Control Immunity and 60% Damage Reduction when casting this skill.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/martis-3.webp)
+Wins with this build **57.09%**Picked in **8.47%** of matches
 
-    **Decimation**UltimateCD 36 s
+## Counters and teammates
 
-    Martis lunges at a designated enemy hero, dealing 700 (+120% Total Physical Attack) Physical Damage (deals True Damage if the enemy's HP is below 50%).
-    If the enemy is killed by this skill, Martis can cast the skill again within 10s and gains 100% extra Movement Speed that gradually decays over 5s. Each successive cast also increases the skill's damage by 15% (up to 30%).
+### Counters
 
+[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)
 
--   Role**Fighter**
--   Lane**EXP Lane or Jungle**
--   Among fighters**#39 of 44**
--   In the EXP Lane**#37 of 42**
--   In the jungle**#33 of 37**
--   Speciality**Finisher, Charge**
--   Difficulty**Medium (60/100)**
+### Teammates
 
-## Who counters Martis
+Win rate gain when playing together
 
-Martis loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are assassins.
+[![](/images/heroes/angela.webp)Angela+1.74 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/sun.webp)Sun+1.29 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/estes.webp)Estes+1.29 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/kaja.webp)Kaja+1.19 pp](https://boostmlbb.ru/en/heroes/kaja.html)
 
-[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Sora](/images/heroes/sora.webp)Sora49.50%](https://boostmlbb.ru/en/heroes/sora.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)
+## Skills
 
-## Who Martis is strong against
+Level-up priority · Decimation → Asura Aura → Mortal Coil
 
-Martis is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/martis-0.webp)Passive**Asura's Wrath**
 
-[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)
+Each time Martis uses a skill, his Attack Speed will be increased by 30%, 120% maximum. Lasts 4s. He gains (+8\*Hero Level) extra Attack at full stacks.
 
-## Best teammates for Martis
+![](/images/mlbb/skills/martis-1.webp)Skill 1**Asura Aura**
 
-With these heroes on the same team Martis wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 7 s**
 
-[![Angela](/images/heroes/angela.webp)Angela+1.74 pts](https://boostmlbb.ru/en/heroes/angela.html)[![Sun](/images/heroes/sun.webp)Sun+1.29 pts](https://boostmlbb.ru/en/heroes/sun.html)[![Estes](/images/heroes/estes.webp)Estes+1.29 pts](https://boostmlbb.ru/en/heroes/estes.html)[![Kaja](/images/heroes/kaja.webp)Kaja+1.19 pts](https://boostmlbb.ru/en/heroes/kaja.html)
+Martis draws enemies to a fan-shaped area in front of him and deals 350 (+130% Extra Physical Attack) Physical Damage, slowing them by 40% for 2s.
+
+![](/images/mlbb/skills/martis-2.webp)Skill 2**Mortal Coil**
+
+**Cooldown 8 s**
+
+Martis strikes in the target direction three times, each time dealing 225 (+120% Extra Physical Attack) Physical Damage to enemies hit. Enemies hit by the first and third strike are also knocked back. The attack direction can be changed once using the Joystick.
+Use Again: Martis leaps in the target direction, dealing 300 (+150% Extra Physical Attack) Physical Damage to enemies in his path and knocking them airborne.
+Martis gains Control Immunity and 60% Damage Reduction when casting this skill.
+
+![](/images/mlbb/skills/martis-3.webp)Ultimate**Decimation**
+
+**Cooldown 36 s**
+
+Martis lunges at a designated enemy hero, dealing 700 (+120% Total Physical Attack) Physical Damage (deals True Damage if the enemy's HP is below 50%).
+If the enemy is killed by this skill, Martis can cast the skill again within 10s and gains 100% extra Movement Speed that gradually decays over 5s. Each successive cast also increases the skill's damage by 15% (up to 30%).
 
 ## Win rate by rank
-
-Best result in Mythic (47.65%), weakest in Epic (46.62%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**46.62%**
 -   ![](/images/ranks/Legend.webp)Legend**46.75%**
@@ -132,33 +134,13 @@ Best result in Mythic (47.65%), weakest in Epic (46.62%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**47.54%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**47.44%**
 
-## Place in the meta
-
-Martis sits in tier C of our win-rate tier list and ranks 118 of 133 heroes. In Mythical Glory the result is almost the same: 47.44%. BOOST MLBB customers ordered 14 hero boosts on Martis over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Martis](/images/heroes/martis.webp)
+Persistent and victorious Asura King.
 
-«Persistent and victorious Asura King.»
+[Hero card](https://www.mobilelegends.com/hero/detail?heroid=58)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Martis)
 
-Martis’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=58)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=58)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Martis)
-
-## Boost on Martis
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -181,5 +163,3 @@ Tier C: #118 of 133 heroes by 30-day win rate and #39 among fighters.
 What is the best build for Martis?
 
 The most popular ranked build: Sky Piercer, Sea Halberd and War Axe as core items, the Fighter emblem with Agility, Seasoned Hunter and Killing Spree, and Flicker. It wins 48.80% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

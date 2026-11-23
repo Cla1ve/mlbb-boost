@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Vale in Mobile Legends: build, counters and stats
-
-Mage, Mid Lane. Wins 50.10% of matches over the last 30 days: #60 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/vale.webp)
 
-**Vale**Ban 0.20% · Pick 0.51%
+Tier B
 
-Counters
+# Vale
 
-![](/images/heroes/odette.webp)![](/images/heroes/estes.webp)![](/images/heroes/melissa.webp)
+Mage · Mid Lane
 
-Win rate, 30 days**50.10%**
+**#60 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**50.10%**win rate, 30 days
+Win rate
 
-**0.51%**pick rate
+50.10%
 
-**0.20%**ban rate
+Pick rate
 
-**48.75%**wins in Mythical Glory
+0.51%
 
-## Vale build
+Ban rate
 
-The most picked setup for Mid Lane Vale in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.20%
+
+Burst · Crowd Control · Difficulty 10/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Mid Lane
 
 Core items
 
@@ -53,75 +51,80 @@ Battle spell
 
 Wins with this build **55.00%**Picked in **6.35%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageThrill · Weapons Master · Impure Rage**52.83%**
--   ![](/images/mlbb/spells/20140.webp)Flameshot![](/images/mlbb/emblems/20006.webp)MageThrill · Weapons Master · Impure Rage**52.03%**
+Core items
 
-## Vale skills
+![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3101.webp)Divine Glaive
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Windstorm** → **Wind Blade** → **Windblow**
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/131.webp)Impure Rage
 
--   ![](/images/mlbb/skills/vale-0.webp)
+Battle spell
 
-    **Windtalk**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Vale gains 1 stack of Windtalk each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times.
+Wins with this build **52.83%**Picked in **1.40%** of matches
 
--   ![](/images/mlbb/skills/vale-1.webp)
+Core items
 
-    **Wind Blade**Skill 1CD 6 Mana Cost: 60 s
+![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3101.webp)Divine Glaive
 
-    Vale unleashes two wind blades toward the left and right of a target area, each dealing 250 (+80% Total Magic Power) Magic Damage to enemies hit.
+Emblem and talents
 
--   ![](/images/mlbb/skills/vale-2.webp)
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/131.webp)Impure Rage
 
-    **Windblow**Skill 2CD 12 Mana Cost: 70 s
+Battle spell
 
-    Vale sends a whirlwind in the target direction, dealing 350 (+100% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 0.8s (each enemy can only be knocked airborne 1 time). When the whirlwind reaches its destination, it will remain for 1.6s while continuously dealing a total of 150 (+30% Total Magic Power) Magic Damage to enemies in range.
+![](/images/mlbb/spells/20140.webp)Flameshot
 
--   ![](/images/mlbb/skills/vale-3.webp)
+Wins with this build **52.03%**Picked in **3.28%** of matches
 
-    **Windstorm**UltimateCD 36 Mana Cost: 120 s
+## Counters and teammates
 
-    Vale summons a windstorm at the target location, dealing a total of 150 (+30% Total Magic Power) Magic Damage to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1s, the windstorm will explode, dealing 900 (+240% Total Magic Power) Magic Damage.
-    The remaining whirlwinds will also be pulled into the center.
+### Counters
 
+[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
--   Role**Mage**
--   Lane**Mid Lane**
--   Among mages**#16 of 32**
--   In the Mid Lane**#14 of 29**
--   Speciality**Burst, Crowd Control**
--   Difficulty**Easy (10/100)**
+### Teammates
 
-## Who counters Vale
+Win rate gain when playing together
 
-Vale loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are supports.
+[![](/images/heroes/cyclops.webp)Cyclops+2.35 pp](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/hilda.webp)Hilda+1.92 pp](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/balmond.webp)Balmond+1.43 pp](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+1.42 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 
-[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)
+## Skills
 
-## Who Vale is strong against
+Level-up priority · Windstorm → Wind Blade → Windblow
 
-Vale is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/vale-0.webp)Passive**Windtalk**
 
-[![Lapu-Lapu](/images/heroes/lapu-lapu.webp)Lapu-Lapu48.08%](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![Khaleed](/images/heroes/khaleed.webp)Khaleed50.35%](https://boostmlbb.ru/en/heroes/khaleed.html)
+Vale gains 1 stack of Windtalk each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times.
 
-## Best teammates for Vale
+![](/images/mlbb/skills/vale-1.webp)Skill 1**Wind Blade**
 
-With these heroes on the same team Vale wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 6 Mana Cost: 60 s**
 
-[![Cyclops](/images/heroes/cyclops.webp)Cyclops+2.35 pts](https://boostmlbb.ru/en/heroes/cyclops.html)[![Hilda](/images/heroes/hilda.webp)Hilda+1.92 pts](https://boostmlbb.ru/en/heroes/hilda.html)[![Balmond](/images/heroes/balmond.webp)Balmond+1.43 pts](https://boostmlbb.ru/en/heroes/balmond.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa+1.42 pts](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+Vale unleashes two wind blades toward the left and right of a target area, each dealing 250 (+80% Total Magic Power) Magic Damage to enemies hit.
+
+![](/images/mlbb/skills/vale-2.webp)Skill 2**Windblow**
+
+**Cooldown 12 Mana Cost: 70 s**
+
+Vale sends a whirlwind in the target direction, dealing 350 (+100% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 0.8s (each enemy can only be knocked airborne 1 time). When the whirlwind reaches its destination, it will remain for 1.6s while continuously dealing a total of 150 (+30% Total Magic Power) Magic Damage to enemies in range.
+
+![](/images/mlbb/skills/vale-3.webp)Ultimate**Windstorm**
+
+**Cooldown 36 Mana Cost: 120 s**
+
+Vale summons a windstorm at the target location, dealing a total of 150 (+30% Total Magic Power) Magic Damage to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1s, the windstorm will explode, dealing 900 (+240% Total Magic Power) Magic Damage.
+The remaining whirlwinds will also be pulled into the center.
 
 ## Win rate by rank
-
-Best result in Epic (51.45%), weakest in Mythical Glory (48.75%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.45%**
 -   ![](/images/ranks/Legend.webp)Legend**50.78%**
@@ -129,33 +132,13 @@ Best result in Epic (51.45%), weakest in Mythical Glory (48.75%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.49%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.75%**
 
-## Place in the meta
-
-Vale sits in tier B of our win-rate tier list and ranks 60 of 133 heroes. In Mythical Glory the win rate is lower: 48.75% against 50.10% across all ranks, a 1.35-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Mid Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
-
 ## Lore
 
-![Vale](/images/heroes/vale.webp)
+The heir to Wind Fort, a wind mage.
 
-«The heir to Wind Fort, a wind mage.»
+[Hero card](https://www.mobilelegends.com/hero/detail?heroid=66)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vale)
 
-Vale’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=66)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=66)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Vale)
-
-## Boost on Vale
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -178,5 +161,3 @@ Tier B: #60 of 133 heroes by 30-day win rate and #16 among mages.
 What is the best build for Vale?
 
 The most popular ranked build: Genius Wand, Glowing Wand and Divine Glaive as core items, the Assassin emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 55.00% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

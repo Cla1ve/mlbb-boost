@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Beatrix in Mobile Legends: build, counters and stats
-
-Marksman, Gold Lane. Wins 50.35% of matches over the last 30 days: #52 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/beatrix.webp)
 
-**Beatrix**Ban 0.41% · Pick 0.65%
+Tier B
 
-Counters
+# Beatrix
 
-![](/images/heroes/estes.webp)![](/images/heroes/hanabi.webp)![](/images/heroes/belerick.webp)
+Marksman · Gold Lane
 
-Win rate, 30 days**50.35%**
+**#52 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**50.35%**win rate, 30 days
+Win rate
 
-**0.65%**pick rate
+50.35%
 
-**0.41%**ban rate
+Pick rate
 
-**50.74%**wins in Mythical Glory
+0.65%
 
-## Beatrix build
+Ban rate
 
-The most picked setup for Gold Lane Beatrix in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.41%
+
+Finisher · Damage · Difficulty 70/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Gold Lane
 
 Core items
 
@@ -53,88 +51,87 @@ Battle spell
 
 Wins with this build **51.69%**Picked in **5.92%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20012.webp)MarksmanSwift · Weapons Master · Weakness Finder**54.51%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20012.webp)MarksmanSwift · Weapons Master · Quantum Charge**55.98%**
+Core items
 
-## Beatrix skills
+![](/images/mlbb/items/3008.webp)Blade of Despair![](/images/mlbb/items/3015.webp)Malefic Gun![](/images/mlbb/items/3013.webp)Sea Halberd
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Renner's Apathy** → **Masterful Gunner** → **Tactical Reposition**
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/1231.webp)Weakness Finder
 
--   ![](/images/mlbb/skills/beatrix-0.webp)
+Battle spell
 
-    **Mechanical Genius**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Beatrix's talent for mechanics allowed her to produce 4 weapons of truly awe-inspiring firepower.
-    Renner Basic Attack - Longshot: Fires a powerful shot in the target's direction, dealing (+365% Total Physical Attack) - (+400% Total Physical Attack) Physical Damage to the first target hit (75% damage against creeps). This shot can be dodged or blocked by others.
-    Beatrix cannot Crit. She converts every 1% Crit Chance into 2 .
-    She gains Spell Vamp equal to 100% of her Lifesteal.
+Wins with this build **54.51%**Picked in **3.25%** of matches
 
--   ![](/images/mlbb/skills/beatrix-1.webp)
+Core items
 
-    **Masterful Gunner**Skill 1CD 12 s
+![](/images/mlbb/items/3008.webp)Blade of Despair![](/images/mlbb/items/3015.webp)Malefic Gun![](/images/mlbb/items/3013.webp)Sea Halberd
 
-    Passive: Beatrix can carry 2 weapons at once, increasing her by 5.
-    Active: Beatrix takes 0.5s to swap her primary weapon with the secondary weapon, gaining a new Basic Attack and Ultimate.
+Emblem and talents
 
--   ![](/images/mlbb/skills/beatrix-2.webp)
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/132.webp)Quantum Charge
 
-    **Tactical Reposition**Skill 2
+Battle spell
 
-    Beatrix rolls forward while fully reloading her current weapon.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/beatrix-3.webp)
+Wins with this build **55.98%**Picked in **5.07%** of matches
 
-    **Renner's Apathy**Skill 3
+## Counters and teammates
 
-    Beatrix calmly sets up Renner on the battlefield and takes aim. When releasing the skill, she deals 700 (+280% Total Physical Attack) Physical Damage to the first enemy hit.
-    Beatrix can aim for up to 8s, and she can cancel it early to reduce the cooldown by 50%.
-    This shot can penetrate Minions and only deals 75% damage to non-hero units.
+### Counters
 
--   ![](/images/mlbb/skills/beatrix-4.webp)
+[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)
 
-    **Need Backup**Ultimate
+### Strong against
 
-    Having escaped battle for 3s, Beatrix can call for her butler Morgan to provide her with a backup weapons crate.
-    Beatrix must then choose two from the crate to serve as her primary and secondary weapons.
-    Her weapon selection is interrupted if she commits any action or is controlled during this period.
+[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
+### Teammates
 
-## Role and lane
+Win rate gain when playing together
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/harith.webp)Harith+5.59 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/diggie.webp)Diggie+4.56 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/baxia.webp)Baxia+2.42 pp](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/fredrinn.webp)Fredrinn+2.20 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
--   Role**Marksman**
--   Lane**Gold Lane**
--   Among marksmen**#8 of 23**
--   In the Gold Lane**#7 of 21**
--   Speciality**Finisher, Damage**
--   Difficulty**Hard (70/100)**
+## Skills
 
-## Who counters Beatrix
+Level-up priority · Renner's Apathy → Masterful Gunner → Tactical Reposition
 
-Beatrix loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
+![](/images/mlbb/skills/beatrix-0.webp)Passive**Mechanical Genius**
 
-[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
+Beatrix's talent for mechanics allowed her to produce 4 weapons of truly awe-inspiring firepower.
+Renner Basic Attack - Longshot: Fires a powerful shot in the target's direction, dealing (+365% Total Physical Attack) - (+400% Total Physical Attack) Physical Damage to the first target hit (75% damage against creeps). This shot can be dodged or blocked by others.
+Beatrix cannot Crit. She converts every 1% Crit Chance into 2 .
+She gains Spell Vamp equal to 100% of her Lifesteal.
 
-## Who Beatrix is strong against
+![](/images/mlbb/skills/beatrix-1.webp)Skill 1**Masterful Gunner**
 
-Beatrix is one of the toughest opponents for these heroes.
+**Cooldown 12 s**
 
-[![Selena](/images/heroes/selena.webp)Selena48.34%](https://boostmlbb.ru/en/heroes/selena.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Chou](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)
+Passive: Beatrix can carry 2 weapons at once, increasing her by 5.
+Active: Beatrix takes 0.5s to swap her primary weapon with the secondary weapon, gaining a new Basic Attack and Ultimate.
 
-## Best teammates for Beatrix
+![](/images/mlbb/skills/beatrix-2.webp)Skill 2**Tactical Reposition**
 
-With these heroes on the same team Beatrix wins more often. The number is the gain in win rate, in percentage points.
+Beatrix rolls forward while fully reloading her current weapon.
 
-[![Harith](/images/heroes/harith.webp)Harith+5.59 pts](https://boostmlbb.ru/en/heroes/harith.html)[![Diggie](/images/heroes/diggie.webp)Diggie+4.56 pts](https://boostmlbb.ru/en/heroes/diggie.html)[![Baxia](/images/heroes/baxia.webp)Baxia+2.42 pts](https://boostmlbb.ru/en/heroes/baxia.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn+2.20 pts](https://boostmlbb.ru/en/heroes/fredrinn.html)
+![](/images/mlbb/skills/beatrix-3.webp)Skill 3**Renner's Apathy**
+
+Beatrix calmly sets up Renner on the battlefield and takes aim. When releasing the skill, she deals 700 (+280% Total Physical Attack) Physical Damage to the first enemy hit.
+Beatrix can aim for up to 8s, and she can cancel it early to reduce the cooldown by 50%.
+This shot can penetrate Minions and only deals 75% damage to non-hero units.
+
+![](/images/mlbb/skills/beatrix-4.webp)Ultimate**Need Backup**
+
+Having escaped battle for 3s, Beatrix can call for her butler Morgan to provide her with a backup weapons crate.
+Beatrix must then choose two from the crate to serve as her primary and secondary weapons.
+Her weapon selection is interrupted if she commits any action or is controlled during this period.
 
 ## Win rate by rank
-
-Best result in Epic (51.00%), weakest in Mythic (49.35%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.00%**
 -   ![](/images/ranks/Legend.webp)Legend**49.92%**
@@ -142,33 +139,13 @@ Best result in Epic (51.00%), weakest in Mythic (49.35%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**50.15%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**50.74%**
 
-## Place in the meta
-
-Beatrix sits in tier B of our win-rate tier list and ranks 52 of 133 heroes. In Mythical Glory the result is almost the same: 50.74%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Gold Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
-
 ## Lore
 
-![Beatrix](/images/heroes/beatrix.webp)
+A confident inventor girl.
 
-«A confident inventor girl.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Beatrix)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=105)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Beatrix)
 
-Beatrix’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Beatrix)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=105)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Beatrix)
-
-## Boost on Beatrix
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -191,5 +168,3 @@ Tier B: #52 of 133 heroes by 30-day win rate and #8 among marksmen.
 What is the best build for Beatrix?
 
 The most popular ranked build: Blade of Despair, Malefic Gun and Sea Halberd as core items, the Marksman emblem with Rupture, Weapons Master and Lethal Ignition, and Flicker. It wins 51.69% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

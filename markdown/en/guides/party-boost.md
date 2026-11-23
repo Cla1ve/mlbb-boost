@@ -177,8 +177,6 @@ Do I share account details in a party?
 
 No. You log in yourself and invite the booster to your group.
 
-MLBB Boost editorial team · Updated 22 November 2026
-
 Related
 
 ## Other formats

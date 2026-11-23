@@ -1461,7 +1461,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=15">
+  <link rel="stylesheet" href="/styles/news.css?v=16">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">`;
 }
@@ -1499,7 +1499,6 @@ function renderCard(post, { featured = false, eager = false, href = null, locale
         </div>
         <h2>${escapeHtml(post.title)}</h2>
         <p>${escapeHtml(post.excerpt)}</p>
-        <span class="news-card__action">${escapeHtml(copy.cardAction)} <span aria-hidden="true">→</span></span>
       </div>
     </a>
   </article>`;
@@ -1615,22 +1614,11 @@ ${GENERATED_MARKER}
   ${preview ? `<div class="preview-banner" role="status">${escapeHtml(copy.previewFeed)}</div>` : ''}
   ${renderNavigation('news', locale, languageTargets)}
   <main id="main-content">
-    <section class="news-masthead">
-      <div class="container news-masthead__grid">
-        <div class="news-masthead__copy">
-          <p class="editorial-kicker"><span></span> ${escapeHtml(indexCopy.kicker)}</p>
-          <h1><span>${escapeHtml(indexCopy.heroLine)}</span> <em>${escapeHtml(indexCopy.heroAccent)}</em></h1>
-          <p class="news-masthead__lead">${escapeHtml(indexCopy.lead)}</p>
-          <a class="news-masthead__jump" href="#latest">${escapeHtml(indexCopy.jump)} <span aria-hidden="true">↓</span></a>
-        </div>
-      </div>
-    </section>
-
+    <header class="container journal-heading"><h1>${escapeHtml(indexCopy.heroLine)}</h1></header>
     <section class="news-feed-section" id="latest" data-news-feed data-page-size="${pageSize}">
       <div class="container">
         <div class="news-section-heading">
           <div>
-            <p class="section-eyebrow">${escapeHtml(indexCopy.latest)}</p>
             <h2 id="news-results-title" tabindex="-1">${escapeHtml(indexCopy.mainMaterials)}</h2>
           </div>
           <div class="news-filter-tools" data-news-controls hidden>
@@ -1673,29 +1661,42 @@ ${GENERATED_MARKER}
       </div>
     </section>
 
-    <section class="editorial-topics" aria-labelledby="topics-title">
-      <div class="container">
-        <div class="news-section-heading">
-          <div>
-            <p class="section-eyebrow">${escapeHtml(indexCopy.focus)}</p>
-            <h2 id="topics-title">${escapeHtml(indexCopy.focusTitle)}</h2>
-          </div>
-          <p class="section-note">${escapeHtml(indexCopy.focusNote)}</p>
-        </div>
-        <div class="topic-grid">
-          ${indexCopy.topics.map(([title, text], index) => `
-          <article class="topic-card">
-            <span>${String(index + 1).padStart(2, '0')}</span><h3>${escapeHtml(title)}</h3>
-            <p>${escapeHtml(text)}</p>
-          </article>`).join('')}
-        </div>
-      </div>
-    </section>
   </main>
   ${renderFooter(locale)}
   ${renderScripts()}
 </body>
 </html>`;
+}
+
+const { heroes: articleHeroes } = JSON.parse(await readFile(path.join(SITE_ROOT, 'content/heroes.json'), 'utf8'));
+const academyAssets = JSON.parse(await readFile(path.join(SITE_ROOT, 'content/heroes-academy.json'), 'utf8'));
+const rankAssets = [
+  ['Воин','Warrior','Warrior'], ['Элита','Elite','Elite'], ['Мастер','Master','Master'],
+  ['Грандмастер','Grandmaster','Grandmaster'], ['Эпик','Epic','Epic'], ['Легенда','Legend','Legend'],
+  ['Мифик','Mythic','Mythic'], ['Мифическая честь','Mythical Honor','Mythical_Honor'],
+  ['Мифическая слава','Mythical Glory','Mythical_Glory'], ['Мифический бессмертный','Mythical Immortal','Mythical_Immortal']
+];
+const articleVisuals = Object.fromEntries(['ru', 'en'].map(lang => {
+  const entries = new Map();
+  for (const hero of articleHeroes) entries.set(hero[lang], { src: `/images/heroes/${hero.slug}.webp`, href: siteHref(`/heroes/${hero.slug}.html`,lang) });
+  for (const group of ['items','spells','emblems']) {
+    for (const entry of Object.values(academyAssets[group])) {
+      if (entry.icon) entries.set(entry[lang], { src: entry.icon });
+    }
+  }
+  return [lang, entries];
+}));
+function tableCell(text, locale, visuals) {
+  if (!visuals) return escapeHtml(text);
+  const parts = text.split(', ');
+  const labels = parts.map(part => articleVisuals[locale].get(part));
+  if (labels.every(Boolean)) return `<span class="journal-icons">${labels.map(({src,href},i) => {
+    const content = `<img src="${escapeHtml(src)}" width="32" height="32" loading="lazy" alt=""><span>${escapeHtml(parts[i])}</span>`;
+    return href ? `<a href="${escapeHtml(href)}">${content}</a>` : `<span>${content}</span>`;
+  }).join('')}</span>`;
+  const clean = text.replace(/^\d+\.\s*/, '');
+  const rank = rankAssets.find(row => { const name = row[locale === 'en' ? 1 : 0]; return clean === name || clean.startsWith(name+' (') || new RegExp('^'+name+' [IVX]+$').test(clean); });
+  return rank ? `<span class="journal-icons"><span><img src="/images/ranks/${rank[2]}.webp" width="32" height="32" alt="" loading="lazy"><span>${escapeHtml(text)}</span></span></span>` : escapeHtml(text);
 }
 
 function renderBlock(block, locale = 'ru') {
@@ -1708,26 +1709,31 @@ function renderBlock(block, locale = 'ru') {
     case 'keyFacts':
       return `
       <aside class="article-key-facts" aria-labelledby="${escapeHtml(block.id)}">
-        ${block.title.trim().toLowerCase() === copy.short.toLowerCase() ? '' : `<p class="article-box-label">${escapeHtml(copy.short)}</p>`}
         <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
         <ul>${block.items.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul>
       </aside>`;
     case 'table':
+      if (block.layout === 'stages') {
+        return `<ol class="journal-stages" aria-label="${escapeHtml(block.caption)}">${block.rows.map(([stage,city,when,teams])=>`<li><strong>${escapeHtml(stage)}</strong><span>${escapeHtml(when)}</span><p>${escapeHtml(city)}</p><small>${escapeHtml(teams)}</small></li>`).join('')}</ol>`;
+      }
+      if (block.layout === 'builds') {
+        return `<div class="journal-builds">${block.rows.map(([hero,items,setup,win])=>`<article class="journal-build"><header><h3>${tableCell(hero,locale,true)}</h3><div><strong>${escapeHtml(win)}</strong><small>${escapeHtml(block.headers[3])}</small></div></header><dl><dt>${escapeHtml(block.headers[1])}</dt><dd>${tableCell(items,locale,true)}</dd><dt>${escapeHtml(block.headers[2])}</dt><dd>${tableCell(setup,locale,true)}</dd></dl></article>`).join('')}</div>`;
+      }
       return `
       <div class="article-table-wrap article-table-wrap--cols-${Math.min(block.headers.length, 4)}" role="region" aria-label="${escapeHtml(block.caption)}" data-scroll-region>
         <table>
           <caption>${escapeHtml(block.caption)}</caption>
           <thead><tr>${block.headers.map((header) => `<th scope="col">${escapeHtml(header)}</th>`).join('')}</tr></thead>
-          <tbody>${block.rows.map((row) => `<tr>${row.map((cell, index) => `<${index === 0 ? 'th scope="row"' : 'td'} data-label="${escapeHtml(block.headers[index])}">${escapeHtml(cell)}</${index === 0 ? 'th' : 'td'}>`).join('')}</tr>`).join('')}</tbody>
+          <tbody>${block.rows.map((row) => `<tr>${row.map((cell, index) => `<${index === 0 ? 'th scope="row"' : 'td'} data-label="${escapeHtml(block.headers[index])}">${block.layout === 'results' && index === 3 ? `<strong class="journal-score">${escapeHtml(cell)}</strong>` : tableCell(cell,locale,block.visuals)}</${index === 0 ? 'th' : 'td'}>`).join('')}</tr>`).join('')}</tbody>
         </table>
       </div>
       ${block.note ? `<p class="article-table-note">${escapeHtml(block.note)}</p>` : ''}`;
     case 'matches':
       return `
       <div class="match-grid" aria-label="${escapeHtml(block.title)}">
-        ${block.matches.map((match, index) => `
+        ${block.matches.map((match) => `
         <article class="match-card">
-          <span class="match-number">${String(index + 1).padStart(2, '0')}</span>
+
           <div><strong>${escapeHtml(match.teamA)}</strong><span>vs</span><strong>${escapeHtml(match.teamB)}</strong></div>
           <p>${escapeHtml(match.meta)}</p>
         </article>`).join('')}
@@ -1802,9 +1808,9 @@ function renderBlock(block, locale = 'ru') {
       </aside>`;
     case 'list':
       return `
-      <ul class="article-list">
+      <${block.ordered ? 'ol' : 'ul'} class="article-list${block.ordered ? ' journal-steps' : ''}">
         ${block.items.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}
-      </ul>`;
+      </${block.ordered ? 'ol' : 'ul'}>`;
     case 'linkCard':
       return `
       <a class="article-link-card" href="${escapeHtml(block.href.startsWith(SITE_ORIGIN + '/') ? siteHref(block.href.slice(SITE_ORIGIN.length), locale) : block.href)}"${block.href.startsWith(SITE_ORIGIN + '/') ? '' : ' rel="noopener noreferrer" target="_blank"'}>
@@ -1818,7 +1824,6 @@ function renderBlock(block, locale = 'ru') {
       <aside class="rank-cta" aria-labelledby="${escapeHtml(block.id)}">
         <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
         <div class="rank-cta__copy">
-          <p>${escapeHtml(block.eyebrow)}</p>
           <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
           <span>${escapeHtml(block.text)}</span>
         </div>
@@ -1827,7 +1832,6 @@ function renderBlock(block, locale = 'ru') {
             <span class="rank-cta__button-label">${escapeHtml(block.button)}</span>
             <span class="rank-cta__arrow" aria-hidden="true">→</span>
           </a>
-          <small>${escapeHtml(block.note)}</small>
         </div>
       </aside>`;
     default:
@@ -1845,9 +1849,6 @@ function renderArticle(post, { preview = false, locale = 'ru', related = [] } = 
     en: preview ? `/en/news/_preview/${post.slug}/` : `${localeConfig('en').rootPath}${post.slug}/`
   };
   const toc = post.blocks.filter((block) => block.type === 'heading');
-  const hasMeaningfulUpdate = (
-    new Date(post.dateModified).getTime() - new Date(post.datePublished).getTime()
-  ) >= 60_000;
   const newsArticle = {
     '@type': 'NewsArticle',
     '@id': `${canonical}#article`,
@@ -1960,27 +1961,14 @@ ${GENERATED_MARKER}
               <li class="breadcrumbs-current" aria-current="page"><span>${escapeHtml(post.title)}</span></li>
             </ol>
           </nav>
-          <div class="article-topics">
-            <span class="article-category">${escapeHtml(post.category)}</span>
-            ${post.tags.slice(0, 3).map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}
-          </div>
         </div>
-
-        <div class="container article-meta">
-          <div class="article-byline">
-            <span class="author-mark" aria-hidden="true">B</span>
-            <div>
-              <strong>${escapeHtml(config.editorLabel)}</strong>
-              <span>
-                <time datetime="${escapeHtml(post.datePublished)}">${escapeHtml(formatDate(post.datePublished, locale))}</time>
-                · ${escapeHtml(articleCopy.reading(readingTime(post)))}
-              </span>
-            </div>
-            ${hasMeaningfulUpdate ? `<span class="article-updated">${escapeHtml(articleCopy.updated)} <time datetime="${escapeHtml(post.dateModified)}">${escapeHtml(formatDateTime(post.dateModified, locale))}</time></span>` : ''}
+        <div class="container journal-hero">
+          <div class="journal-title">
+            <p class="journal-meta">${escapeHtml(post.category)} · ${escapeHtml(articleCopy.updated)} <time datetime="${escapeHtml(post.dateModified)}">${escapeHtml(formatDate(post.dateModified, locale))}</time></p>
+            <h1>${escapeHtml(post.title)}</h1>
+            <p class="article-deck">${escapeHtml(post.excerpt)}</p>
           </div>
-        </div>
-
-        <div class="container article-hero-media">
+        <div class="article-hero-media">
           <figure>
             <picture>
               ${post.hero.webpSrcset ? `<source type="image/webp" srcset="${escapeHtml(post.hero.webpSrcset)}" sizes="(max-width: 1000px) 100vw, 1000px">` : ''}
@@ -1994,9 +1982,6 @@ ${GENERATED_MARKER}
           </figure>
         </div>
 
-        <div class="container article-heading">
-          <h1>${escapeHtml(post.title)}</h1>
-          <p class="article-deck">${escapeHtml(post.excerpt)}</p>
         </div>
       </header>
 
@@ -2012,23 +1997,17 @@ ${GENERATED_MARKER}
         </aside>
 
         <div class="article-content" id="article-content" tabindex="-1">
+          <details class="journal-contents"><summary>${escapeHtml(articleCopy.tocTitle)}</summary><nav aria-label="${escapeHtml(articleCopy.tocAria)}">${toc.map(item=>`<a href="#${escapeHtml(item.id)}">${escapeHtml(item.text)}</a>`).join('')}</nav></details>
           ${post.blocks.map((block) => renderBlock(block, locale)).join('\n')}
 
-          <p class="article-sources-line" id="sources"><span>${escapeHtml(articleCopy.sourcesShort)}</span> ${post.sources.filter((source, index) => post.sources.findIndex((item) => item.publisher === source.publisher) === index).map((source) => `<a href="${escapeHtml(source.url)}" rel="noopener noreferrer" target="_blank">${escapeHtml(source.publisher)}</a>`).join(', ')}</p>
-
-          <footer class="article-footer">
-            <div class="article-tags" aria-label="${escapeHtml(articleCopy.topicsAria)}">
-              ${post.tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}
-            </div>
-            <p>${escapeHtml(articleCopy.correction)} <a href="${EDITOR_TELEGRAM_URL}" rel="noopener noreferrer" target="_blank" aria-label="${escapeHtml(config.editorContactLabel)}">${escapeHtml(articleCopy.contact)} <span aria-hidden="true">↗</span></a>.</p>
-          </footer>
+          <footer class="article-footer"><a href="${EDITOR_TELEGRAM_URL}" rel="noopener noreferrer" target="_blank" aria-label="${escapeHtml(config.editorContactLabel)}">${locale === 'ru' ? 'Сообщить об ошибке' : 'Report a correction'}</a></footer>
         </div>
       </div>
     </article>
 
     <section class="article-next" aria-labelledby="article-next-title">
       <div class="container article-next__inner">
-        <p>${escapeHtml(articleCopy.continue)}</p>
+
         <h2 id="article-next-title">${escapeHtml(related.length ? articleCopy.related : articleCopy.continueTitle)}</h2>
         ${related.length ? `<div class="article-related">${related.map((item) => renderRelatedCard(item, locale)).join('')}</div>` : ''}
         <a href="${config.rootPath}">${escapeHtml(articleCopy.backToFeed)} <span aria-hidden="true">→</span></a>

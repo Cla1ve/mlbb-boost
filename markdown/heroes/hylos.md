@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир C
-
-# Хилос в Mobile Legends: сборка, контрпики и статистика
-
-Танк, роум. Выигрывает 48,55% матчей за последние 30 дней — 101-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир C
-
 ![](/images/heroes/hylos.webp)
 
-**Хилос**Бан 0,26% · Выбор 0,29%
+Тир C
 
-Контрпики
+# Хилос
 
-![](/images/heroes/zilong.webp)![](/images/heroes/layla.webp)![](/images/heroes/yin.webp)
+Танк · Роум
 
-Победы за 30 дней**48,55%**
+**№ 101 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**48,55%**побед за 30 дней
+Победы
 
-**0,29%**выбирают в матчах
+48,55%
 
-**0,26%**банят в матчах
+Выбор
 
-**46,54%**побед в Мифической славе
+0,29%
 
-## Сборка на героя «Хилос»
+Баны
 
-Самая популярная сборка для героя «Хилос» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,26%
+
+Защита · Инициатор · Сложность 50/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,78 +51,83 @@ language: ru
 
 Побед с этой сборкой **54,95%**Выбирают в **5,87%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20003.webp)Эмблема танкаЛовкость · Благословение природы · Ударная волна**55,03%**
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20003.webp)Эмблема танкаПрочность · Мастер оружий · Ударная волна**55,00%**
+Ключевые предметы
 
-## Навыки героя «Хилос»
+![](/images/mlbb/items/3212.webp)Наплечник наказания![](/images/mlbb/items/3205.webp)Щит Афины![](/images/mlbb/items/3203.webp)Древняя кираса
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Путь славы** → **Карающий круг** → **Закон и порядок**
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/811.webp)Ловкость![](/images/mlbb/talents/121.webp)Благословение природы![](/images/mlbb/talents/331.webp)Ударная волна
 
--   ![](/images/mlbb/skills/hylos-0.webp)
+Боевое заклинание
 
-    **Пробуждение крови**Пассивный
+![](/images/mlbb/spells/20050.webp)Восстановление
 
-    Хилос получает 1 ед. дополнительной максимальной маны за кажд. 2.5 ед. дополнительных .
-    При нехватке маны он может расходовать ОЗ для применения навыков.
+Побед с этой сборкой **55,03%**Выбирают в **1,31%** матчей
 
--   ![](/images/mlbb/skills/hylos-1.webp)
+Ключевые предметы
 
-    **Закон и порядок**1-й навыкПерезарядка 12 с
+![](/images/mlbb/items/2212.webp)Штормовой пояс![](/images/mlbb/items/3113.webp)Часы судьбы![](/images/mlbb/items/3206.webp)Господство льда
 
-    Хилос получает 50% скорости передвижения и следующей базовой атакой в течение 3 сек. наносит цели 300 (+80% общей магической силы) единиц магического урона, а также отбрасывает и оглушает ее на 1 сек.
-    Дополнительная скорость передвижения быстро спадает в течение действия и исчезает после следующей базовой атаки.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/hylos-2.webp)
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/711.webp)Прочность![](/images/mlbb/talents/1221.webp)Мастер оружий![](/images/mlbb/talents/331.webp)Ударная волна
 
-    **Карающий круг**2-й навыкПерезарядка 1 с
+Боевое заклинание
 
-    Хилос создает карающий круг, каждую секунду нанося ближайшим врагам 100 (+20% общей магической силы) единиц магического урона, замедляя их на 4% и снижая их скорость атаки на 7.5% на 2.5 сек. (до 8 зарядов). Каждый заряд также увеличивает урон, получаемый врагом от карающего круга, на 5%. Карающий круг расходует 30 маны в секунду, когда активен.
-    Повторное использование: Хилос отменяет карающий круг.
+![](/images/mlbb/spells/20050.webp)Восстановление
 
--   ![](/images/mlbb/skills/hylos-3.webp)
+Побед с этой сборкой **55,00%**Выбирают в **5,41%** матчей
 
-    **Путь славы**УльтимейтПерезарядка 40 с
+## Контрпики и союзники
 
-    Хилос создает широкий путь в указанном направлении, снижая скорость передвижения врагов на 75% на 1 сек. Путь существует 6 сек.
-    Находясь на пути, Хилос получает иммунитет к замедлению и восстанавливает 3% в секунду. Союзные герои, движущиеся по пути, получают 60% дополнительной скорости передвижения, а вражеские герои на пути замедляются на 25%.
+### Кто контрит
 
+[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
--   Роль**Танк**
--   Линия**Роум**
--   Среди танков**18-е из 25**
--   В роуме**24-е из 34**
--   Специализация**Защита, Инициатор**
--   Сложность**Средняя (50/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Хилос» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+[![](/images/heroes/natalia.webp)Наталья+2,73 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/helcurt.webp)Хелкарт+2,36 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/silvanna.webp)Сильвана+2,16 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/floryn.webp)Флорин+2,13 п. п.](https://boostmlbb.ru/heroes/floryn.html)
 
-[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Инь](/images/heroes/yin.webp)Инь49,62%](https://boostmlbb.ru/heroes/yin.html)[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Путь славы → Карающий круг → Закон и порядок
 
-Для этих героев «Хилос» — один из самых неудобных соперников.
+![](/images/mlbb/skills/hylos-0.webp)Пассивный**Пробуждение крови**
 
-[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Сесилион](/images/heroes/cecilion.webp)Сесилион50,96%](https://boostmlbb.ru/heroes/cecilion.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Кэрри](/images/heroes/karrie.webp)Кэрри48,87%](https://boostmlbb.ru/heroes/karrie.html)[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь49,57%](https://boostmlbb.ru/heroes/zhuxin.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)
+Хилос получает 1 ед. дополнительной максимальной маны за кажд. 2.5 ед. дополнительных .
+При нехватке маны он может расходовать ОЗ для применения навыков.
 
-## С кем играть в команде
+![](/images/mlbb/skills/hylos-1.webp)1-й навык**Закон и порядок**
 
-С этими героями в одной команде «Хилос» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 12 с**
 
-[![Наталья](/images/heroes/natalia.webp)Наталья+2,73 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт+2,36 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана+2,16 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![Флорин](/images/heroes/floryn.webp)Флорин+2,13 п. п.](https://boostmlbb.ru/heroes/floryn.html)
+Хилос получает 50% скорости передвижения и следующей базовой атакой в течение 3 сек. наносит цели 300 (+80% общей магической силы) единиц магического урона, а также отбрасывает и оглушает ее на 1 сек.
+Дополнительная скорость передвижения быстро спадает в течение действия и исчезает после следующей базовой атаки.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/hylos-2.webp)2-й навык**Карающий круг**
 
-Лучший результат — на ранге «Эпик» (51,36%), слабее всего — «Мифическая слава» (46,54%). Данные за последние 30 дней.
+**Перезарядка 1 с**
+
+Хилос создает карающий круг, каждую секунду нанося ближайшим врагам 100 (+20% общей магической силы) единиц магического урона, замедляя их на 4% и снижая их скорость атаки на 7.5% на 2.5 сек. (до 8 зарядов). Каждый заряд также увеличивает урон, получаемый врагом от карающего круга, на 5%. Карающий круг расходует 30 маны в секунду, когда активен.
+Повторное использование: Хилос отменяет карающий круг.
+
+![](/images/mlbb/skills/hylos-3.webp)Ультимейт**Путь славы**
+
+**Перезарядка 40 с**
+
+Хилос создает широкий путь в указанном направлении, снижая скорость передвижения врагов на 75% на 1 сек. Путь существует 6 сек.
+Находясь на пути, Хилос получает иммунитет к замедлению и восстанавливает 3% в секунду. Союзные герои, движущиеся по пути, получают 60% дополнительной скорости передвижения, а вражеские герои на пути замедляются на 25%.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**51,36%**
 -   ![](/images/ranks/Legend.webp)Легенда**50,68%**
@@ -132,33 +135,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**48,41%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**46,54%**
 
-## Место в мете
+## История
 
-«Хилос» — тир C в нашем тир-листе по проценту побед, 101-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе процент побед ниже: 46,54% против 48,55% на всех рангах, разница 2,01 п. п. В патче 2.2.16 герой изменён без явного усиления или ослабления. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои роума
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
-
-## История героя
-
-![Хилос](/images/heroes/hylos.webp)
-
-«Кентавр, охраняющий Туманные горы.»
-
-Полная история героя «Хилос» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Кентавр, охраняющий Туманные горы.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/hylos)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=49)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Hylos)
 
-## Буст на герое «Хилос»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -181,5 +164,3 @@ language: ru
 Какая сборка на героя «Хилос» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Часы судьбы» и «Господство льда», эмблема танка с талантами «Прочность», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 54,95% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

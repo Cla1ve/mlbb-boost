@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир A
-
-# Белерик в Mobile Legends: сборка, контрпики и статистика
-
-Танк, роум. Выигрывает 51,83% матчей за последние 30 дней — 30-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир A
-
 ![](/images/heroes/belerick.webp)
 
-**Белерик**Бан 56,83% · Выбор 1,69%
+Тир A
 
-Контрпики
+# Белерик
 
-![](/images/heroes/miya.webp)![](/images/heroes/silvanna.webp)![](/images/heroes/zhask.webp)
+Танк · Роум
 
-Победы за 30 дней**51,83%**
+**№ 30 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**51,83%**побед за 30 дней
+Победы
 
-**1,69%**выбирают в матчах
+51,83%
 
-**56,83%**банят в матчах
+Выбор
 
-**50,01%**побед в Мифической славе
+1,69%
 
-## Сборка на героя «Белерик»
+Баны
 
-Самая популярная сборка для героя «Белерик» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+56,83%
+
+Массовый контроль · Регенерация · Сложность 10/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,78 +51,83 @@ language: ru
 
 Побед с этой сборкой **61,66%**Выбирают в **2,27%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20003.webp)Эмблема танкаЖивучесть · Стойкость · Отвага**56,21%**
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20003.webp)Эмблема танкаЖивучесть · Стойкость · Отвага**61,12%**
+Ключевые предметы
 
-## Навыки героя «Белерик»
+![](/images/mlbb/items/3207.webp)Бессмертие![](/images/mlbb/items/3202.webp)Защитный шлем![](/images/mlbb/items/3206.webp)Господство льда
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Гнев дриады** → **Древнее семя** → **Удар природы**
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/311.webp)Живучесть![](/images/mlbb/talents/321.webp)Стойкость![](/images/mlbb/talents/731.webp)Отвага
 
--   ![](/images/mlbb/skills/belerick-0.webp)
+Боевое заклинание
 
-    **Смертоносные шипы**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    Каждый раз, когда Белерик получает 50 или более ед. урона, у него есть шанс 25% атаковать ближайшего вражеского юнита, нанося 55 (+5\*Hero Level) (+1.8% от своих ) единиц магического урона (зависит от уровня). Эта атака может сработать один раз за кажд. 0.4 сек.
-    Его ОЗ, получаемые от снаряжения и эмблем, увеличиваются на 30%.
+Побед с этой сборкой **56,21%**Выбирают в **1,70%** матчей
 
--   ![](/images/mlbb/skills/belerick-1.webp)
+Ключевые предметы
 
-    **Древнее семя**1-й навыкПерезарядка 8 Mana Cost: 60 с
+![](/images/mlbb/items/3206.webp)Господство льда![](/images/mlbb/items/3212.webp)Наплечник наказания![](/images/mlbb/items/3202.webp)Защитный шлем
 
-    Белерик выпускает лозы в указанном направлении, нанося 200 (+50% общей магической силы) единиц магического урона врагам на пути и замедляя их на 25%. Оставшиеся после лоз древние семена взорвутся шипами через 0.8 сек., нанося 200 (+50% общей магической силы) единиц магического урона врагам на пути и провоцируя их в течение 1.2 сек.
-    Наносит 80% дополнительного урона миньонам.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/belerick-2.webp)
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/311.webp)Живучесть![](/images/mlbb/talents/321.webp)Стойкость![](/images/mlbb/talents/731.webp)Отвага
 
-    **Удар природы**2-й навыкПерезарядка 14 Mana Cost: 60 с
+Боевое заклинание
 
-    Белерик увеличивает свою скорость передвижения на 80% (спадает за 2 сек.) и усиливает следующую базовую атаку.
-    Усиленная базовая атака наносит 300 (+60% общей магической силы) единиц магического урона и замедляет цель на 60% на 1.4 сек. Белерик также восстанавливает ОЗ в размере 240 + 10% от его .
-    Каждый раз, когда активируются "Смертоносные шипы", перезарядка этого навыка снижается на 1 сек.
+![](/images/mlbb/spells/20050.webp)Восстановление
 
--   ![](/images/mlbb/skills/belerick-3.webp)
+Побед с этой сборкой **61,12%**Выбирают в **1,95%** матчей
 
-    **Гнев дриады**УльтимейтПерезарядка 50 Mana Cost: 150 с
+## Контрпики и союзники
 
-    Белерик создает вокруг себя лозы, нанося 100 (+30% общей магической силы) единиц магического урона врагам в области 4 р., провоцируя и замедляя их на 1.5 сек.
+### Кто контрит
 
+[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
--   Роль**Танк**
--   Линия**Роум**
--   Среди танков**8-е из 25**
--   В роуме**11-е из 34**
--   Специализация**Массовый контроль, Регенерация**
--   Сложность**Низкая (10/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Белерик» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
+[![](/images/heroes/zilong.webp)Зилонг+2,91 п. п.](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/saber.webp)Сабер+2,85 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт+2,62 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/natalia.webp)Наталья+2,30 п. п.](https://boostmlbb.ru/heroes/natalia.html)
 
-[![Мия](/images/heroes/miya.webp)Мия49,71%](https://boostmlbb.ru/heroes/miya.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Гнев дриады → Древнее семя → Удар природы
 
-Для этих героев «Белерик» — один из самых неудобных соперников.
+![](/images/mlbb/skills/belerick-0.webp)Пассивный**Смертоносные шипы**
 
-[![Лесли](/images/heroes/lesley.webp)Лесли48,31%](https://boostmlbb.ru/heroes/lesley.html)[![Броуди](/images/heroes/brody.webp)Броуди49,99%](https://boostmlbb.ru/heroes/brody.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Клинт](/images/heroes/clint.webp)Клинт50,33%](https://boostmlbb.ru/heroes/clint.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Беатрис](/images/heroes/beatrix.webp)Беатрис50,35%](https://boostmlbb.ru/heroes/beatrix.html)[![Леоморд](/images/heroes/leomord.webp)Леоморд50,09%](https://boostmlbb.ru/heroes/leomord.html)
+Каждый раз, когда Белерик получает 50 или более ед. урона, у него есть шанс 25% атаковать ближайшего вражеского юнита, нанося 55 (+5\*Hero Level) (+1.8% от своих ) единиц магического урона (зависит от уровня). Эта атака может сработать один раз за кажд. 0.4 сек.
+Его ОЗ, получаемые от снаряжения и эмблем, увеличиваются на 30%.
 
-## С кем играть в команде
+![](/images/mlbb/skills/belerick-1.webp)1-й навык**Древнее семя**
 
-С этими героями в одной команде «Белерик» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 8 Mana Cost: 60 с**
 
-[![Зилонг](/images/heroes/zilong.webp)Зилонг+2,91 п. п.](https://boostmlbb.ru/heroes/zilong.html)[![Сабер](/images/heroes/saber.webp)Сабер+2,85 п. п.](https://boostmlbb.ru/heroes/saber.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт+2,62 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![Наталья](/images/heroes/natalia.webp)Наталья+2,30 п. п.](https://boostmlbb.ru/heroes/natalia.html)
+Белерик выпускает лозы в указанном направлении, нанося 200 (+50% общей магической силы) единиц магического урона врагам на пути и замедляя их на 25%. Оставшиеся после лоз древние семена взорвутся шипами через 0.8 сек., нанося 200 (+50% общей магической силы) единиц магического урона врагам на пути и провоцируя их в течение 1.2 сек.
+Наносит 80% дополнительного урона миньонам.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/belerick-2.webp)2-й навык**Удар природы**
 
-Лучший результат — на ранге «Эпик» (55,96%), слабее всего — «Мифическая слава» (50,01%). Данные за последние 30 дней.
+**Перезарядка 14 Mana Cost: 60 с**
+
+Белерик увеличивает свою скорость передвижения на 80% (спадает за 2 сек.) и усиливает следующую базовую атаку.
+Усиленная базовая атака наносит 300 (+60% общей магической силы) единиц магического урона и замедляет цель на 60% на 1.4 сек. Белерик также восстанавливает ОЗ в размере 240 + 10% от его .
+Каждый раз, когда активируются "Смертоносные шипы", перезарядка этого навыка снижается на 1 сек.
+
+![](/images/mlbb/skills/belerick-3.webp)Ультимейт**Гнев дриады**
+
+**Перезарядка 50 Mana Cost: 150 с**
+
+Белерик создает вокруг себя лозы, нанося 100 (+30% общей магической силы) единиц магического урона врагам в области 4 р., провоцируя и замедляя их на 1.5 сек.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,96%**
 -   ![](/images/ranks/Legend.webp)Легенда**54,43%**
@@ -132,33 +135,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**51,26%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**50,01%**
 
-## Место в мете
+## История
 
-«Белерик» — тир A в нашем тир-листе по проценту побед, 30-е место из 133 героев. В Мифической славе процент побед ниже: 50,01% против 51,83% на всех рангах, разница 1,82 п. п. На этом ранге героя банят в 56,96% матчей. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Добродушное элементальное создание.
 
-## Другие герои роума
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=70)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
-
-## История героя
-
-![Белерик](/images/heroes/belerick.webp)
-
-«Добродушное элементальное создание.»
-
-Полная история героя «Белерик» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=70)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=70)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Belerick)
-
-## Буст на герое «Белерик»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -181,5 +164,3 @@ language: ru
 Какая сборка на героя «Белерик» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Штормовой пояс», «Господство льда» и «Защитный шлем», эмблема танка с талантами «Живучесть», «Благословение природы» и «Отвага» и заклинание «Месть». С ней выигрывают 61,66% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

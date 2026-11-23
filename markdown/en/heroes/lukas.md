@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier A
-
-# Lukas in Mobile Legends: build, counters and stats
-
-Fighter, EXP Lane or Jungle. Wins 51.97% of matches over the last 30 days: #28 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier A
-
 ![](/images/heroes/lukas.webp)
 
-**Lukas**Ban 32.39% · Pick 0.81%
+Tier A
 
-Counters
+# Lukas
 
-![](/images/heroes/ling.webp)![](/images/heroes/natalia.webp)![](/images/heroes/fanny.webp)
+Fighter · EXP Lane or Jungle
 
-Win rate, 30 days**51.97%**
+**#28 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**51.97%**win rate, 30 days
+Win rate
 
-**0.81%**pick rate
+51.97%
 
-**32.39%**ban rate
+Pick rate
 
-**52.02%**wins in Mythical Glory
+0.81%
 
-## Lukas build
+Ban rate
 
-The most picked setup for EXP Lane Lukas in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+32.39%
+
+Regen · Damage · Difficulty 30/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,83 +51,85 @@ Battle spell
 
 Wins with this build **62.46%**Picked in **2.79%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20190.webp)Vengeance![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Temporal Reign**55.37%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Temporal Reign**54.22%**
+Core items
 
-## Lukas skills
+![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2208.webp)Queen's Wings
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Unleash the Beast** → **Flash Combo** → **Flash Step**
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/134.webp)Temporal Reign
 
--   ![](/images/mlbb/skills/lukas-0.webp)
+Battle spell
 
-    **Hero's Resolve**Passive
+![](/images/mlbb/spells/20190.webp)Vengeance
 
-    Lukas gains 0.5 Resolve per second and 3.5 Resolve when dealing damage to heroes.
-    Upon reaching 100 Resolve, he can use Unleash the Beast to transform into Sacred Beast.
-    Sacred Beast: Greatly increases combat attributes. He continuously consumes Resolve and ends when Resolve is depleted.
+Wins with this build **55.37%**Picked in **4.22%** of matches
 
--   ![](/images/mlbb/skills/lukas-1.webp)
+Core items
 
-    **Flash Combo**Skill 1CD 5.5 s
+![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2208.webp)Queen's Wings
 
-    Passive: Basic Attacks grant Vigor (up to 2 stacks), each stack lasting 4s. Vigor enhances Flash Combo.
-    Lukas consumes all Vigor to unleash Pulverize, dealing 400 (+60% Total Physical Attack) Physical Damage and recovering 8% of his when hitting a hero or minion.
-    1 Stack: Lukas briefly stuns the target and spins his tonfa hammers to deal 95 (+25% Total Physical Attack) Physical Damage 3 times, pulling the enemy toward him.
-    2 Stacks: Lukas briefly stuns the target, then delivers 2 attacks dealing 50 (+20% Total Physical Attack) Physical Damage each. Afterward, he spins his tonfa hammers, dealing 95 (+25% Total Physical Attack) Physical Damage 3 times while gaining Control Immunity for the duration.
+Emblem and talents
 
--   ![](/images/mlbb/skills/lukas-2.webp)
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/134.webp)Temporal Reign
 
-    **Flash Step**Skill 2CD 12 s
+Battle spell
 
-    Lukas dashes in the target direction, empowering his next Basic Attack within 4s into Flash Strike.
-    Flash Strike: Lukas dashes behind the enemy, dealing 60 (+125% Total Physical Attack) Physical Damage. He then gains 20% Movement Speed and Attack Speed for 4s. During this time, his next Basic Attack gains increased Attack Range and triggers a sacred lightning that deals 110 (+50% Total Physical Attack) extra Physical Damage.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/lukas-3.webp)
+Wins with this build **54.22%**Picked in **2.49%** of matches
 
-    **Unleash the Beast**Ultimate
+## Counters and teammates
 
-    First Cast: Lukas transforms into his Sacred Beast form (briefly gains Control Immunity). His base Movement Speed is increased by 30, all attributes are increased by 15%, and his skills gain new effects.
-    Use Again: Fires a Shockwave Blast in the target direction that explodes upon hitting an enemy hero or reaching its maximum range, dealing 450 (+155% Total Physical Attack) Physical Damage.
-    All attributes: , , , , Attack Speed, and Attack Range.
+### Counters
 
+[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
--   Role**Fighter**
--   Lane**EXP Lane or Jungle**
--   Among fighters**#7 of 44**
--   In the EXP Lane**#9 of 42**
--   In the jungle**#5 of 37**
--   Speciality**Regen, Damage**
--   Difficulty**Easy (30/100)**
+### Teammates
 
-## Who counters Lukas
+Win rate gain when playing together
 
-Lukas loses to these heroes most often. The number under each icon is that hero’s own win rate. 5 of the 5 counters are assassins.
+[![](/images/heroes/floryn.webp)Floryn+1.90 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.67 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/guinevere.webp)Guinevere+1.66 pp](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/phoveus.webp)Phoveus+1.65 pp](https://boostmlbb.ru/en/heroes/phoveus.html)
 
-[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)
+## Skills
 
-## Who Lukas is strong against
+Level-up priority · Unleash the Beast → Flash Combo → Flash Step
 
-Lukas is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/lukas-0.webp)Passive**Hero's Resolve**
 
-[![Balmond](/images/heroes/balmond.webp)Balmond46.66%](https://boostmlbb.ru/en/heroes/balmond.html)[![Valentina](/images/heroes/valentina.webp)Valentina44.73%](https://boostmlbb.ru/en/heroes/valentina.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)
+Lukas gains 0.5 Resolve per second and 3.5 Resolve when dealing damage to heroes.
+Upon reaching 100 Resolve, he can use Unleash the Beast to transform into Sacred Beast.
+Sacred Beast: Greatly increases combat attributes. He continuously consumes Resolve and ends when Resolve is depleted.
 
-## Best teammates for Lukas
+![](/images/mlbb/skills/lukas-1.webp)Skill 1**Flash Combo**
 
-With these heroes on the same team Lukas wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 5.5 s**
 
-[![Floryn](/images/heroes/floryn.webp)Floryn+1.90 pts](https://boostmlbb.ru/en/heroes/floryn.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth+1.67 pts](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Guinevere](/images/heroes/guinevere.webp)Guinevere+1.66 pts](https://boostmlbb.ru/en/heroes/guinevere.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus+1.65 pts](https://boostmlbb.ru/en/heroes/phoveus.html)
+Passive: Basic Attacks grant Vigor (up to 2 stacks), each stack lasting 4s. Vigor enhances Flash Combo.
+Lukas consumes all Vigor to unleash Pulverize, dealing 400 (+60% Total Physical Attack) Physical Damage and recovering 8% of his when hitting a hero or minion.
+1 Stack: Lukas briefly stuns the target and spins his tonfa hammers to deal 95 (+25% Total Physical Attack) Physical Damage 3 times, pulling the enemy toward him.
+2 Stacks: Lukas briefly stuns the target, then delivers 2 attacks dealing 50 (+20% Total Physical Attack) Physical Damage each. Afterward, he spins his tonfa hammers, dealing 95 (+25% Total Physical Attack) Physical Damage 3 times while gaining Control Immunity for the duration.
+
+![](/images/mlbb/skills/lukas-2.webp)Skill 2**Flash Step**
+
+**Cooldown 12 s**
+
+Lukas dashes in the target direction, empowering his next Basic Attack within 4s into Flash Strike.
+Flash Strike: Lukas dashes behind the enemy, dealing 60 (+125% Total Physical Attack) Physical Damage. He then gains 20% Movement Speed and Attack Speed for 4s. During this time, his next Basic Attack gains increased Attack Range and triggers a sacred lightning that deals 110 (+50% Total Physical Attack) extra Physical Damage.
+
+![](/images/mlbb/skills/lukas-3.webp)Ultimate**Unleash the Beast**
+
+First Cast: Lukas transforms into his Sacred Beast form (briefly gains Control Immunity). His base Movement Speed is increased by 30, all attributes are increased by 15%, and his skills gain new effects.
+Use Again: Fires a Shockwave Blast in the target direction that explodes upon hitting an enemy hero or reaching its maximum range, dealing 450 (+155% Total Physical Attack) Physical Damage.
+All attributes: , , , , Attack Speed, and Attack Range.
 
 ## Win rate by rank
-
-Best result in Mythical Honor (52.36%), weakest in Epic (50.85%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.85%**
 -   ![](/images/ranks/Legend.webp)Legend**51.44%**
@@ -137,33 +137,13 @@ Best result in Mythical Honor (52.36%), weakest in Epic (50.85%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**52.36%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**52.02%**
 
-## Place in the meta
-
-Lukas sits in tier A of our win-rate tier list and ranks 28 of 133 heroes. In Mythical Glory the result is almost the same: 52.02%. At that rank the hero is banned in 47.47% of matches. In patch 2.2.16 the hero was buffed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Lukas](/images/heroes/lukas.webp)
+A legendary Sacred Beast that can take the form of a rambunctious young man.
 
-«A legendary Sacred Beast that can take the form of a rambunctious young man.»
+[Hero card](https://www.mobilelegends.com/hero/detail?heroid=127)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lukas)
 
-Lukas’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=127)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=127)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lukas)
-
-## Boost on Lukas
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -186,5 +166,3 @@ Tier A: #28 of 133 heroes by 30-day win rate and #7 among fighters.
 What is the best build for Lukas?
 
 The most popular ranked build: Hunter Strike, War Axe and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Temporal Reign, and Vengeance. It wins 62.46% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

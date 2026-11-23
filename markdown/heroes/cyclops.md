@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир A
-
-# Циклоп в Mobile Legends: сборка, контрпики и статистика
-
-Маг, средняя линия. Выигрывает 51,68% матчей за последние 30 дней — 31-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир A
-
 ![](/images/heroes/cyclops.webp)
 
-**Циклоп**Бан 0,76% · Выбор 0,76%
+Тир A
 
-Контрпики
+# Циклоп
 
-![](/images/heroes/natalia.webp)![](/images/heroes/marcel.webp)![](/images/heroes/wanwan.webp)
+Маг · Средняя линия
 
-Победы за 30 дней**51,68%**
+**№ 31 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**51,68%**побед за 30 дней
+Победы
 
-**0,76%**выбирают в матчах
+51,68%
 
-**0,76%**банят в матчах
+Выбор
 
-**50,76%**побед в Мифической славе
+0,76%
 
-## Сборка на героя «Циклоп»
+Баны
 
-Самая популярная сборка для героя «Циклоп» на роли средней линии в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,76%
+
+Урон · Контроль · Сложность 40/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Средняя линия
 
 Ключевые предметы
 
@@ -53,76 +51,81 @@ language: ru
 
 Побед с этой сборкой **58,16%**Выбирают в **5,66%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20006.webp)Эмблема магаВдохновение · Кровавое пиршество · Нечестивая ярость**61,83%**
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20006.webp)Эмблема магаВдохновение · Опытный охотник · Нечестивая ярость**57,47%**
+Ключевые предметы
 
-## Навыки героя «Циклоп»
+![](/images/mlbb/items/2106.webp)Зачарованный талисман![](/images/mlbb/items/3103.webp)Концентрированная энергия![](/images/mlbb/items/2208.webp)Крылья королевы
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Звездный капкан** → **Атака планет** → **Космический удар**
+![](/images/mlbb/emblems/20006.webp)Эмблема мага![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/131.webp)Нечестивая ярость
 
--   ![](/images/mlbb/skills/cyclops-0.webp)
+Боевое заклинание
 
-    **Звездные песочные часы**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    Каждый раз, когда Циклоп попадает навыками по врагу, перезарядка всех его навыков сокращается на 0.5 сек.
+Побед с этой сборкой **61,83%**Выбирают в **4,63%** матчей
 
--   ![](/images/mlbb/skills/cyclops-1.webp)
+Ключевые предметы
 
-    **Космический удар**1-й навыкПерезарядка 7.5 Mana Cost: 50 с
+![](/images/mlbb/items/2106.webp)Зачарованный талисман![](/images/mlbb/items/3103.webp)Концентрированная энергия![](/images/mlbb/items/2208.webp)Крылья королевы
 
-    Циклоп выпускает два диска звездной пыли в указанном направлении, каждый из которых наносит 240 (+60% общей магической силы) единиц магического урона врагам на пути.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/cyclops-2.webp)
+![](/images/mlbb/emblems/20006.webp)Эмблема мага![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/131.webp)Нечестивая ярость
 
-    **Атака планет**2-й навыкПерезарядка 14 Mana Cost: 60 с
+Боевое заклинание
 
-    Циклоп создает вокруг себя звездные сферы и получает 50% скорости передвижения, которая снижается за 2 сек.
-    Звездные сферы автоматически находят и атакуют ближайших врагов (приоритет — вражеские герои) и взрываются при столкновении, нанося 200 (+65% общей магической силы) единиц магического урона.
-    Урон снижается при последующих попаданиях по той же цели.
+![](/images/mlbb/spells/20100.webp)Вспышка
 
--   ![](/images/mlbb/skills/cyclops-3.webp)
+Побед с этой сборкой **57,47%**Выбирают в **3,83%** матчей
 
-    **Звездный капкан**УльтимейтПерезарядка 26 Mana Cost: 60 с
+## Контрпики и союзники
 
-    Циклоп создает планетарную сферу, которая преследует указанного вражеского героя или монстра, нанося 500 (+120% общей магической силы) единиц магического урона и обездвиживая его на 0.75-1.5 сек. (зависит от расстояния полета планетарной сферы).
+### Кто контрит
 
+[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
--   Роль**Маг**
--   Линия**Средняя линия**
--   Среди магов**5-е из 32**
--   На средней линии**5-е из 29**
--   Специализация**Урон, Контроль**
--   Сложность**Низкая (40/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Циклоп» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+[![](/images/heroes/novaria.webp)Новария+2,63 п. п.](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/nana.webp)Нана+2,59 п. п.](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/kagura.webp)Кагура+2,35 п. п.](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/vale.webp)Вэйл+2,35 п. п.](https://boostmlbb.ru/heroes/vale.html)
 
-[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Ванван](/images/heroes/wanwan.webp)Ванван47,59%](https://boostmlbb.ru/heroes/wanwan.html)[![Джой](/images/heroes/joy.webp)Джой48,79%](https://boostmlbb.ru/heroes/joy.html)[![Матильда](/images/heroes/mathilda.webp)Матильда44,49%](https://boostmlbb.ru/heroes/mathilda.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Звездный капкан → Атака планет → Космический удар
 
-Для этих героев «Циклоп» — один из самых неудобных соперников.
+![](/images/mlbb/skills/cyclops-0.webp)Пассивный**Звездные песочные часы**
 
-[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)
+Каждый раз, когда Циклоп попадает навыками по врагу, перезарядка всех его навыков сокращается на 0.5 сек.
 
-## С кем играть в команде
+![](/images/mlbb/skills/cyclops-1.webp)1-й навык**Космический удар**
 
-С этими героями в одной команде «Циклоп» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 7.5 Mana Cost: 50 с**
 
-[![Новария](/images/heroes/novaria.webp)Новария+2,63 п. п.](https://boostmlbb.ru/heroes/novaria.html)[![Нана](/images/heroes/nana.webp)Нана+2,59 п. п.](https://boostmlbb.ru/heroes/nana.html)[![Кагура](/images/heroes/kagura.webp)Кагура+2,35 п. п.](https://boostmlbb.ru/heroes/kagura.html)[![Вэйл](/images/heroes/vale.webp)Вэйл+2,35 п. п.](https://boostmlbb.ru/heroes/vale.html)
+Циклоп выпускает два диска звездной пыли в указанном направлении, каждый из которых наносит 240 (+60% общей магической силы) единиц магического урона врагам на пути.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/cyclops-2.webp)2-й навык**Атака планет**
 
-Лучший результат — на ранге «Мифический» (52,50%), слабее всего — «Мифическая слава» (50,76%). Данные за последние 30 дней.
+**Перезарядка 14 Mana Cost: 60 с**
+
+Циклоп создает вокруг себя звездные сферы и получает 50% скорости передвижения, которая снижается за 2 сек.
+Звездные сферы автоматически находят и атакуют ближайших врагов (приоритет — вражеские герои) и взрываются при столкновении, нанося 200 (+65% общей магической силы) единиц магического урона.
+Урон снижается при последующих попаданиях по той же цели.
+
+![](/images/mlbb/skills/cyclops-3.webp)Ультимейт**Звездный капкан**
+
+**Перезарядка 26 Mana Cost: 60 с**
+
+Циклоп создает планетарную сферу, которая преследует указанного вражеского героя или монстра, нанося 500 (+120% общей магической силы) единиц магического урона и обездвиживая его на 0.75-1.5 сек. (зависит от расстояния полета планетарной сферы).
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**52,04%**
 -   ![](/images/ranks/Legend.webp)Легенда**52,13%**
@@ -130,33 +133,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**52,03%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**50,76%**
 
-## Место в мете
+## История
 
-«Циклоп» — тир A в нашем тир-листе по проценту побед, 31-е место из 133 героев. В Мифической славе процент побед ниже: 50,76% против 51,68% на всех рангах, разница 0,92 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Небесный путешественник по Вселенной.
 
-## Другие герои средней линии
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=33)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cyclops)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)
-
-## История героя
-
-![Циклоп](/images/heroes/cyclops.webp)
-
-«Небесный путешественник по Вселенной.»
-
-Полная история героя «Циклоп» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=33)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=33)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cyclops)
-
-## Буст на герое «Циклоп»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -179,5 +162,3 @@ language: ru
 Какая сборка на героя «Циклоп» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Зачарованный талисман», «Концентрированная энергия» и «Пылающий жезл», эмблема мага с талантами «Вдохновение», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 58,16% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

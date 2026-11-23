@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier C
-
-# Joy in Mobile Legends: build, counters and stats
-
-Assassin, Jungle. Wins 48.79% of matches over the last 30 days: #97 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier C
-
 ![](/images/heroes/joy.webp)
 
-**Joy**Ban 0.19% · Pick 0.14%
+Tier C
 
-Counters
+# Joy
 
-![](/images/heroes/sun.webp)![](/images/heroes/lolita.webp)![](/images/heroes/x-borg.webp)
+Assassin · Jungle
 
-Win rate, 30 days**48.79%**
+**#97 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**48.79%**win rate, 30 days
+Win rate
 
-**0.14%**pick rate
+48.79%
 
-**0.19%**ban rate
+Pick rate
 
-**49.56%**wins in Mythical Glory
+0.14%
 
-## Joy build
+Ban rate
 
-The most picked setup for jungle Joy in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.19%
+
+Chase · Damage · Difficulty 90/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Jungle
 
 Core items
 
@@ -53,78 +51,81 @@ Battle spell
 
 Wins with this build **56.91%**Picked in **12.58%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20006.webp)MageThrill · Seasoned Hunter · Lethal Ignition**51.87%**
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20006.webp)MageThrill · Seasoned Hunter · Temporal Reign**54.92%**
+Core items
 
-## Joy skills
+![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3102.webp)Holy Crystal![](/images/mlbb/items/3103.webp)Concentrated Energy
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Ha, Electrifying Beats!** → **Meow, Rhythm of Joy!** → **Look, Leonin Crystal!**
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
 
--   ![](/images/mlbb/skills/joy-0.webp)
+Battle spell
 
-    **Humph, Joy's Angry!**Passive
+![](/images/mlbb/spells/20020.webp)Retribution
 
-    Joy becomes Angry! each time her skill hits a non-Minion enemy, dealing 100 (+80% Total Magic Power) Magic Damage and increasing her Movement Speed by 60% that decays over 4s (hitting the Leonin Crystal will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target.
-    Joy's Basic Attack will deal 65 (+65% Total Physical Attack) (+65% Total Magic Power) Magic Damage.
+Wins with this build **51.87%**Picked in **4.82%** of matches
 
--   ![](/images/mlbb/skills/joy-1.webp)
+Core items
 
-    **Look, Leonin Crystal!**Skill 1CD 4 s
+![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3103.webp)Concentrated Energy![](/images/mlbb/items/3102.webp)Holy Crystal
 
-    Joy summons a Leonin Crystal at the target location, dealing 200 (+40% Total Magic Power) Magic Damage to nearby enemies and slowing them by 30% for 1s. The Leonin Crystal lasts up to 2s.
+Emblem and talents
 
--   ![](/images/mlbb/skills/joy-2.webp)
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/134.webp)Temporal Reign
 
-    **Meow, Rhythm of Joy!**Skill 2CD 0.132 s
+Battle spell
 
-    Joy dashes in the target direction, dealing 120 (+40% Total Magic Power) Magic Damage to enemies in her path. Hitting an enemy or the Leonin Crystal allows Joy to cast this skill again within 0.8s and gain 1 Beat Energy. Casting this skill on the beat increases the skill damage by 100% and grants a 80 (+60% Total Magic Power) shield that lasts 3s.
-    This skill can be cast up to 4 times in succession.
+![](/images/mlbb/spells/20020.webp)Retribution
 
--   ![](/images/mlbb/skills/joy-3.webp)
+Wins with this build **54.92%**Picked in **16.65%** of matches
 
-    **Ha, Electrifying Beats!**Ultimate
+## Counters and teammates
 
-    Joy gains 15 (+10% Total Magic Power) and 30% Movement Speed. Over the next 3s, she pulses 8 times, dealing 120 (+40% Total Magic Power) Magic Damage each time to nearby enemies.
-    Each Meow, Rhythm of Joy! cast on the beat increases this skill's damage by 40%. If perfect rhythm is achieved by hitting every beat with Meow, Rhythm of Joy!, Joy also gains 40% Spell Vamp while this skill is active.
-    This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat Energy will remove all debuffs and make her immune to slow effects while this skill is active.
+### Counters
 
+[![](/images/heroes/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
--   Role**Assassin**
--   Lane**Jungle**
--   Among assassins**#17 of 29**
--   In the jungle**#26 of 37**
--   Speciality**Chase, Damage**
--   Difficulty**Hard (90/100)**
+### Teammates
 
-## Who counters Joy
+Win rate gain when playing together
 
-Joy loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
+[![](/images/heroes/leomord.webp)Leomord+3.38 pp](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/nolan.webp)Nolan+2.29 pp](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/fredrinn.webp)Fredrinn+2.17 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/fanny.webp)Fanny+2.15 pp](https://boostmlbb.ru/en/heroes/fanny.html)
 
-[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)
+## Skills
 
-## Who Joy is strong against
+Level-up priority · Ha, Electrifying Beats! → Meow, Rhythm of Joy! → Look, Leonin Crystal!
 
-Joy is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/joy-0.webp)Passive**Humph, Joy's Angry!**
 
-[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Brody](/images/heroes/brody.webp)Brody49.99%](https://boostmlbb.ru/en/heroes/brody.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Melissa](/images/heroes/melissa.webp)Melissa50.07%](https://boostmlbb.ru/en/heroes/melissa.html)
+Joy becomes Angry! each time her skill hits a non-Minion enemy, dealing 100 (+80% Total Magic Power) Magic Damage and increasing her Movement Speed by 60% that decays over 4s (hitting the Leonin Crystal will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target.
+Joy's Basic Attack will deal 65 (+65% Total Physical Attack) (+65% Total Magic Power) Magic Damage.
 
-## Best teammates for Joy
+![](/images/mlbb/skills/joy-1.webp)Skill 1**Look, Leonin Crystal!**
 
-With these heroes on the same team Joy wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 4 s**
 
-[![Leomord](/images/heroes/leomord.webp)Leomord+3.38 pts](https://boostmlbb.ru/en/heroes/leomord.html)[![Nolan](/images/heroes/nolan.webp)Nolan+2.29 pts](https://boostmlbb.ru/en/heroes/nolan.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn+2.17 pts](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Fanny](/images/heroes/fanny.webp)Fanny+2.15 pts](https://boostmlbb.ru/en/heroes/fanny.html)
+Joy summons a Leonin Crystal at the target location, dealing 200 (+40% Total Magic Power) Magic Damage to nearby enemies and slowing them by 30% for 1s. The Leonin Crystal lasts up to 2s.
+
+![](/images/mlbb/skills/joy-2.webp)Skill 2**Meow, Rhythm of Joy!**
+
+**Cooldown 0.132 s**
+
+Joy dashes in the target direction, dealing 120 (+40% Total Magic Power) Magic Damage to enemies in her path. Hitting an enemy or the Leonin Crystal allows Joy to cast this skill again within 0.8s and gain 1 Beat Energy. Casting this skill on the beat increases the skill damage by 100% and grants a 80 (+60% Total Magic Power) shield that lasts 3s.
+This skill can be cast up to 4 times in succession.
+
+![](/images/mlbb/skills/joy-3.webp)Ultimate**Ha, Electrifying Beats!**
+
+Joy gains 15 (+10% Total Magic Power) and 30% Movement Speed. Over the next 3s, she pulses 8 times, dealing 120 (+40% Total Magic Power) Magic Damage each time to nearby enemies.
+Each Meow, Rhythm of Joy! cast on the beat increases this skill's damage by 40%. If perfect rhythm is achieved by hitting every beat with Meow, Rhythm of Joy!, Joy also gains 40% Spell Vamp while this skill is active.
+This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat Energy will remove all debuffs and make her immune to slow effects while this skill is active.
 
 ## Win rate by rank
-
-Best result in Mythical Glory (49.56%), weakest in Legend (46.48%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.63%**
 -   ![](/images/ranks/Legend.webp)Legend**46.48%**
@@ -132,33 +133,13 @@ Best result in Mythical Glory (49.56%), weakest in Legend (46.48%). Last 30 days
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.84%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**49.56%**
 
-## Place in the meta
-
-Joy sits in tier C of our win-rate tier list and ranks 97 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is higher: 49.56% against 48.79% across all ranks, a 0.77-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Jungle heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
-
 ## Lore
 
-![Joy](/images/heroes/joy.webp)
+The "Child of Miracle" who returned to the Leonins after years of wandering.
 
-«The "Child of Miracle" who returned to the Leonins after years of wandering.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Joy)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=118)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Joy)
 
-Joy’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Joy)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=118)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Joy)
-
-## Boost on Joy
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -181,5 +162,3 @@ Tier C: #97 of 133 heroes by 30-day win rate and #17 among assassins.
 What is the best build for Joy?
 
 The most popular ranked build: Genius Wand, Holy Crystal and Concentrated Energy as core items, the Mage emblem with Thrill, Seasoned Hunter and Temporal Reign, and Retribution. It wins 56.91% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

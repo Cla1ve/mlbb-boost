@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier D
-
-# Lancelot in Mobile Legends: build, counters and stats
-
-Assassin, Jungle. Wins 43.13% of matches over the last 30 days: #130 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier D
-
 ![](/images/heroes/lancelot.webp)
 
-**Lancelot**Ban 0.47% · Pick 0.51%
+Tier D
 
-Counters
+# Lancelot
 
-![](/images/heroes/atlas.webp)![](/images/heroes/yin.webp)![](/images/heroes/alpha.webp)
+Assassin · Jungle
 
-Win rate, 30 days**43.13%**
+**#130 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**43.13%**win rate, 30 days
+Win rate
 
-**0.51%**pick rate
+43.13%
 
-**0.47%**ban rate
+Pick rate
 
-**42.31%**wins in Mythical Glory
+0.51%
 
-## Lancelot build
+Ban rate
 
-The most picked setup for jungle Lancelot in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.47%
+
+Chase · Burst · Difficulty 50/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Jungle
 
 Core items
 
@@ -53,75 +51,80 @@ Battle spell
 
 Wins with this build **48.19%**Picked in **6.70%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Killing Spree**50.05%**
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Killing Spree**49.02%**
+Core items
 
-## Lancelot skills
+![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3004.webp)Endless Battle![](/images/mlbb/items/3208.webp)Brute Force Breastplate
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Phantom Execution** → **Thorned Rose** → **Puncture**
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
 
--   ![](/images/mlbb/skills/lancelot-0.webp)
+Battle spell
 
-    **Soul Cutter**Passive
+![](/images/mlbb/spells/20020.webp)Retribution
 
-    Each time Lancelot charges, his damage is increased by 7.5% for 4s, up to 30%.
+Wins with this build **50.05%**Picked in **7.93%** of matches
 
--   ![](/images/mlbb/skills/lancelot-1.webp)
+Core items
 
-    **Puncture**Skill 1CD 14 Mana Cost: 40 s
+![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/3004.webp)Endless Battle
 
-    Lancelot charges in the target direction, dealing 150 (+50% Total Physical Attack) Physical Damage to enemies in his path and marking the first unmarked enemy hit with Sword Mark for 3s.
-    If a new Sword Mark is applied, this skill's cooldown resets.
+Emblem and talents
 
--   ![](/images/mlbb/skills/lancelot-2.webp)
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
 
-    **Thorned Rose**Skill 2CD 11 Mana Cost: 60 s
+Battle spell
 
-    Lancelot strikes in the target direction 3 times, each time dealing 220 (+120% Extra Physical Attack) Physical Damage to enemies hit (damage is reduced when multiple enemies are hit). He's untargetable during this process. Enemies in the center of the area take all the 3 hits and are slowed by 20% for 0.5s. The slow effect can stack.
+![](/images/mlbb/spells/20020.webp)Retribution
 
--   ![](/images/mlbb/skills/lancelot-3.webp)
+Wins with this build **49.02%**Picked in **9.61%** of matches
 
-    **Phantom Execution**UltimateCD 36 Mana Cost: 100 s
+## Counters and teammates
 
-    After a short delay, Lancelot performs an executioner's strike in the target direction, dealing 350 (+170% Total Physical Attack) Physical Damage to enemies hit. He is invincible throughout the process.
+### Counters
 
+[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)
 
--   Role**Assassin**
--   Lane**Jungle**
--   Among assassins**#28 of 29**
--   In the jungle**#36 of 37**
--   Speciality**Chase, Burst**
--   Difficulty**Medium (50/100)**
+### Teammates
 
-## Who counters Lancelot
+Win rate gain when playing together
 
-Lancelot loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
+[![](/images/heroes/angela.webp)Angela+3.22 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Dyrroth+1.17 pp](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/argus.webp)Argus+1.11 pp](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/hanabi.webp)Hanabi+0.75 pp](https://boostmlbb.ru/en/heroes/hanabi.html)
 
-[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)
+## Skills
 
-## Who Lancelot is strong against
+Level-up priority · Phantom Execution → Thorned Rose → Puncture
 
-Lancelot is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/lancelot-0.webp)Passive**Soul Cutter**
 
-[![Angela](/images/heroes/angela.webp)Angela49.99%](https://boostmlbb.ru/en/heroes/angela.html)
+Each time Lancelot charges, his damage is increased by 7.5% for 4s, up to 30%.
 
-## Best teammates for Lancelot
+![](/images/mlbb/skills/lancelot-1.webp)Skill 1**Puncture**
 
-With these heroes on the same team Lancelot wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 14 Mana Cost: 40 s**
 
-[![Angela](/images/heroes/angela.webp)Angela+3.22 pts](https://boostmlbb.ru/en/heroes/angela.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth+1.17 pts](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Argus](/images/heroes/argus.webp)Argus+1.11 pts](https://boostmlbb.ru/en/heroes/argus.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi+0.75 pts](https://boostmlbb.ru/en/heroes/hanabi.html)
+Lancelot charges in the target direction, dealing 150 (+50% Total Physical Attack) Physical Damage to enemies in his path and marking the first unmarked enemy hit with Sword Mark for 3s.
+If a new Sword Mark is applied, this skill's cooldown resets.
+
+![](/images/mlbb/skills/lancelot-2.webp)Skill 2**Thorned Rose**
+
+**Cooldown 11 Mana Cost: 60 s**
+
+Lancelot strikes in the target direction 3 times, each time dealing 220 (+120% Extra Physical Attack) Physical Damage to enemies hit (damage is reduced when multiple enemies are hit). He's untargetable during this process. Enemies in the center of the area take all the 3 hits and are slowed by 20% for 0.5s. The slow effect can stack.
+
+![](/images/mlbb/skills/lancelot-3.webp)Ultimate**Phantom Execution**
+
+**Cooldown 36 Mana Cost: 100 s**
+
+After a short delay, Lancelot performs an executioner's strike in the target direction, dealing 350 (+170% Total Physical Attack) Physical Damage to enemies hit. He is invincible throughout the process.
 
 ## Win rate by rank
-
-Best result in Epic (45.34%), weakest in Mythical Glory (42.31%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**45.34%**
 -   ![](/images/ranks/Legend.webp)Legend**44.12%**
@@ -129,33 +132,13 @@ Best result in Epic (45.34%), weakest in Mythical Glory (42.31%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**43.19%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**42.31%**
 
-## Place in the meta
-
-Lancelot sits in tier D of our win-rate tier list and ranks 130 of 133 heroes. In Mythical Glory the win rate is lower: 42.31% against 43.13% across all ranks, a 0.82-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Jungle heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
-
 ## Lore
 
-![Lancelot](/images/heroes/lancelot.webp)
+Prodigal son and genius swordsman of House Baroque.
 
-«Prodigal son and genius swordsman of House Baroque.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Lancelot)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=47)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lancelot)
 
-Lancelot’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Lancelot)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=47)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lancelot)
-
-## Boost on Lancelot
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -178,5 +161,3 @@ Tier D: #130 of 133 heroes by 30-day win rate and #28 among assassins.
 What is the best build for Lancelot?
 
 The most popular ranked build: War Axe, Brute Force Breastplate and Endless Battle as core items, the Fighter emblem with Thrill, Seasoned Hunter and Killing Spree, and Retribution. It wins 48.19% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

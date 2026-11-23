@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир A
-
-# Атлас в Mobile Legends: сборка, контрпики и статистика
-
-Танк, роум. Выигрывает 51,42% матчей за последние 30 дней — 35-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир A
-
 ![](/images/heroes/atlas.webp)
 
-**Атлас**Бан 9,58% · Выбор 0,95%
+Тир A
 
-Контрпики
+# Атлас
 
-![](/images/heroes/layla.webp)![](/images/heroes/popol-and-kupa.webp)![](/images/heroes/lolita.webp)
+Танк · Роум
 
-Победы за 30 дней**51,42%**
+**№ 35 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**51,42%**побед за 30 дней
+Победы
 
-**0,95%**выбирают в матчах
+51,42%
 
-**9,58%**банят в матчах
+Выбор
 
-**49,84%**побед в Мифической славе
+0,95%
 
-## Сборка на героя «Атлас»
+Баны
 
-Самая популярная сборка для героя «Атлас» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+9,58%
+
+Массовый контроль · Инициатор · Сложность 50/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,79 +51,84 @@ language: ru
 
 Побед с этой сборкой **56,25%**Выбирают в **8,90%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20003.webp)Эмблема танкаЛовкость · Благословение природы · Ударная волна**52,40%**
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20003.webp)Эмблема танкаЛовкость · Благословение природы · Ударная волна**53,34%**
+Ключевые предметы
 
-## Навыки героя «Атлас»
+![](/images/mlbb/items/3206.webp)Господство льда![](/images/mlbb/items/3109.webp)Мимолетное время![](/images/mlbb/items/3210.webp)Сияющая броня
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Смертоносные цепи** → **Истребление** → **Идеальный дуэт**
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/811.webp)Ловкость![](/images/mlbb/talents/121.webp)Благословение природы![](/images/mlbb/talents/331.webp)Ударная волна
 
--   ![](/images/mlbb/skills/atlas-0.webp)
+Боевое заклинание
 
-    **Холодное дыхание**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    При каждом использовании навыка Атлас создает вокруг себя "Холодное дыхание" на 4 сек. Враги под действием "Холодного дыхания" будут постепенно замедляться в течение 2 сек., после чего заморозятся на 0.5 сек.
-    Атлас получает 20 (+0.5% доп. макс. ОЗ) доп. , когда существует "Холодное дыхание".
+Побед с этой сборкой **52,40%**Выбирают в **4,07%** матчей
 
--   ![](/images/mlbb/skills/atlas-1.webp)
+Ключевые предметы
 
-    **Истребление**1-й навыкПерезарядка 7 Mana Cost: 60 с
+![](/images/mlbb/items/3206.webp)Господство льда![](/images/mlbb/items/3109.webp)Мимолетное время![](/images/mlbb/items/3205.webp)Щит Афины
 
-    Атлас бьет по земле и вызывает 3 взрыва, нанося врагам 400 (+100% общей магической силы) единиц магического урона.
-    Извлеченное состояние: если Атлас находится вне Механического стража, они оба одновременно используют "Истребление".
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/atlas-2.webp)
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/811.webp)Ловкость![](/images/mlbb/talents/121.webp)Благословение природы![](/images/mlbb/talents/331.webp)Ударная волна
 
-    **Идеальный дуэт**2-й навыкПерезарядка 0 Mana Cost: 75 с
+Боевое заклинание
 
-    Атлас входит в извлеченное состояние, получая 30% скорости передвижения и иммунитет к эффектам замедления. В этом состоянии механический страж будет следовать за Атласом с увеличенной скоростью (можно контролировать лишь подавлением). Когда они встретятся, Атлас вернется к стражу, нанося 320 (+80% общей магической силы) единиц мaгического урона врагам вблизи и оглушая их на 0.8 сек.
-    Извлеченное состояние: Атлас и его страж имеют одинаковую шкалу ОЗ и получают 50% снижения урона в этом состоянии.
+![](/images/mlbb/spells/20100.webp)Вспышка
 
--   ![](/images/mlbb/skills/atlas-3.webp)
+Побед с этой сборкой **53,34%**Выбирают в **1,86%** матчей
 
-    **Смертоносные цепи**УльтимейтПерезарядка 55 Mana Cost: 130 с
+## Контрпики и союзники
 
-    Атлас набрасывает цепи на всех ближайших героев и начинает подготовку (можно прервать только подавлением), нанося 225 (+75% общей магической силы) единиц мaгического урона пораженным вражеским героям и замедляя их на 40% на 3 сек.
-    Отпускание навыка во время подготовки: Атлас притянет цели к себе и бросит их в указанное место, нанося 360 (+180% общей магической силы) единиц мaгического урона.
-    Использование навыка в извлеченном состоянии: механический страж вернется к Атласу немедленно, но эффект оглушения будет заменен на 40% эффекта замедления.
+### Кто контрит
 
+[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
 
--   Роль**Танк**
--   Линия**Роум**
--   Среди танков**10-е из 25**
--   В роуме**12-е из 34**
--   Специализация**Массовый контроль, Инициатор**
--   Сложность**Средняя (50/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Атлас» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
+[![](/images/heroes/floryn.webp)Флорин+6,83 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/estes.webp)Эстес+5,56 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/rafaela.webp)Рафаэль+3,76 п. п.](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/mathilda.webp)Матильда+3,44 п. п.](https://boostmlbb.ru/heroes/mathilda.html)
 
-[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лолита](/images/heroes/lolita.webp)Лолита53,30%](https://boostmlbb.ru/heroes/lolita.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Смертоносные цепи → Истребление → Идеальный дуэт
 
-Для этих героев «Атлас» — один из самых неудобных соперников.
+![](/images/mlbb/skills/atlas-0.webp)Пассивный**Холодное дыхание**
 
-[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Москов](/images/heroes/moskov.webp)Москов50,31%](https://boostmlbb.ru/heroes/moskov.html)[![Кимми](/images/heroes/kimmy.webp)Кимми48,74%](https://boostmlbb.ru/heroes/kimmy.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Чонг](/images/heroes/yu-zhong.webp)Чонг48,93%](https://boostmlbb.ru/heroes/yu-zhong.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Ланселот](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)
+При каждом использовании навыка Атлас создает вокруг себя "Холодное дыхание" на 4 сек. Враги под действием "Холодного дыхания" будут постепенно замедляться в течение 2 сек., после чего заморозятся на 0.5 сек.
+Атлас получает 20 (+0.5% доп. макс. ОЗ) доп. , когда существует "Холодное дыхание".
 
-## С кем играть в команде
+![](/images/mlbb/skills/atlas-1.webp)1-й навык**Истребление**
 
-С этими героями в одной команде «Атлас» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 7 Mana Cost: 60 с**
 
-[![Флорин](/images/heroes/floryn.webp)Флорин+6,83 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![Эстес](/images/heroes/estes.webp)Эстес+5,56 п. п.](https://boostmlbb.ru/heroes/estes.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль+3,76 п. п.](https://boostmlbb.ru/heroes/rafaela.html)[![Матильда](/images/heroes/mathilda.webp)Матильда+3,44 п. п.](https://boostmlbb.ru/heroes/mathilda.html)
+Атлас бьет по земле и вызывает 3 взрыва, нанося врагам 400 (+100% общей магической силы) единиц магического урона.
+Извлеченное состояние: если Атлас находится вне Механического стража, они оба одновременно используют "Истребление".
 
-## Процент побед по рангам
+![](/images/mlbb/skills/atlas-2.webp)2-й навык**Идеальный дуэт**
 
-Лучший результат — на ранге «Эпик» (55,55%), слабее всего — «Мифическая слава» (49,84%). Данные за последние 30 дней.
+**Перезарядка 0 Mana Cost: 75 с**
+
+Атлас входит в извлеченное состояние, получая 30% скорости передвижения и иммунитет к эффектам замедления. В этом состоянии механический страж будет следовать за Атласом с увеличенной скоростью (можно контролировать лишь подавлением). Когда они встретятся, Атлас вернется к стражу, нанося 320 (+80% общей магической силы) единиц мaгического урона врагам вблизи и оглушая их на 0.8 сек.
+Извлеченное состояние: Атлас и его страж имеют одинаковую шкалу ОЗ и получают 50% снижения урона в этом состоянии.
+
+![](/images/mlbb/skills/atlas-3.webp)Ультимейт**Смертоносные цепи**
+
+**Перезарядка 55 Mana Cost: 130 с**
+
+Атлас набрасывает цепи на всех ближайших героев и начинает подготовку (можно прервать только подавлением), нанося 225 (+75% общей магической силы) единиц мaгического урона пораженным вражеским героям и замедляя их на 40% на 3 сек.
+Отпускание навыка во время подготовки: Атлас притянет цели к себе и бросит их в указанное место, нанося 360 (+180% общей магической силы) единиц мaгического урона.
+Использование навыка в извлеченном состоянии: механический страж вернется к Атласу немедленно, но эффект оглушения будет заменен на 40% эффекта замедления.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,55%**
 -   ![](/images/ranks/Legend.webp)Легенда**54,57%**
@@ -133,33 +136,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**51,76%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,84%**
 
-## Место в мете
+## История
 
-«Атлас» — тир A в нашем тир-листе по проценту побед, 35-е место из 133 героев. В Мифической славе процент побед ниже: 49,84% против 51,42% на всех рангах, разница 1,58 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Создание из Ужасного моря, вырвавшееся из заточения.
 
-## Другие герои роума
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=93)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Atlas)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
-
-## История героя
-
-![Атлас](/images/heroes/atlas.webp)
-
-«Создание из Ужасного моря, вырвавшееся из заточения.»
-
-Полная история героя «Атлас» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=93)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=93)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Atlas)
-
-## Буст на герое «Атлас»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -182,5 +165,3 @@ language: ru
 Какая сборка на героя «Атлас» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Господство льда», «Наплечник наказания» и «Древняя кираса», эмблема танка с талантами «Ловкость», «Благословение природы» и «Ударная волна» и заклинание «Вспышка». С ней выигрывают 56,25% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

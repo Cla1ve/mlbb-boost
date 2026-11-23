@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Nolan in Mobile Legends: build, counters and stats
-
-Assassin, Jungle. Wins 49.71% of matches over the last 30 days: #72 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/nolan.webp)
 
-**Nolan**Ban 16.30% · Pick 1.92%
+Tier B
 
-Counters
+# Nolan
 
-![](/images/heroes/estes.webp)![](/images/heroes/yve.webp)![](/images/heroes/zhuxin.webp)
+Assassin · Jungle
 
-Win rate, 30 days**49.71%**
+**#72 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**49.71%**win rate, 30 days
+Win rate
 
-**1.92%**pick rate
+49.71%
 
-**16.30%**ban rate
+Pick rate
 
-**50.36%**wins in Mythical Glory
+1.92%
 
-## Nolan build
+Ban rate
 
-The most picked setup for jungle Nolan in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+16.30%
+
+Chase · Burst · Difficulty 60/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Jungle
 
 Core items
 
@@ -53,75 +51,80 @@ Battle spell
 
 Wins with this build **53.17%**Picked in **6.73%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Impure Rage**51.76%**
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Lethal Ignition**51.81%**
+Core items
 
-## Nolan skills
+![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3001.webp)Malefic Roar
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Fracture** → **Expansion** → **Gauge**
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/131.webp)Impure Rage
 
--   ![](/images/mlbb/skills/nolan-0.webp)
+Battle spell
 
-    **Dimensional Rift**Passive
+![](/images/mlbb/spells/20020.webp)Retribution
 
-    Nolan's skills will leave a Rift. When a rift comes into contact with another rift, they will activate and pull enemies to their center and deal 240 (+140% Extra Physical Attack) Physical Damage after a short delay. Each time a rift activation hits an enemy, Nolan will gain 25 Energy. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced by 40%.
-    Cosmic Leap: If Nolan does not deal or take damage for 5s, he enhances his next Basic Attack to dash to the target, dealing (+120% Total Physical Attack) Physical Damage and leaving a Rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
+Wins with this build **51.76%**Picked in **13.73%** of matches
 
--   ![](/images/mlbb/skills/nolan-1.webp)
+Core items
 
-    **Expansion**Skill 1CD 2.5 Energy Cost: 25 s
+![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3001.webp)Malefic Roar
 
-    Nolan cuts a rectangular area in front of him with his cosmic gauge, dealing 230 (+40% Total Physical Attack) Physical Damage and leaving a Rift at the first enemy hit.
+Emblem and talents
 
--   ![](/images/mlbb/skills/nolan-2.webp)
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
 
-    **Gauge**Skill 2CD 2.5 Energy Cost: 25 s
+Battle spell
 
-    Nolan charges in the target direction and slashes with his cosmic gauge, dealing 70 (+13% Total Physical Attack) Physical Damage to enemies in his path and leaving a Rift.
+![](/images/mlbb/spells/20020.webp)Retribution
 
--   ![](/images/mlbb/skills/nolan-3.webp)
+Wins with this build **51.81%**Picked in **13.64%** of matches
 
-    **Fracture**UltimateCD 21 s
+## Counters and teammates
 
-    Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical Attack) Physical Damage with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward.
+### Counters
 
+[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
--   Role**Assassin**
--   Lane**Jungle**
--   Among assassins**#11 of 29**
--   In the jungle**#17 of 37**
--   Speciality**Chase, Burst**
--   Difficulty**Medium (60/100)**
+### Teammates
 
-## Who counters Nolan
+Win rate gain when playing together
 
-Nolan loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are mages.
+[![](/images/heroes/joy.webp)Joy+2.29 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/yve.webp)Yve+1.91 pp](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/zhuxin.webp)Zhuxin+1.84 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/valentina.webp)Valentina+1.56 pp](https://boostmlbb.ru/en/heroes/valentina.html)
 
-[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)
+## Skills
 
-## Who Nolan is strong against
+Level-up priority · Fracture → Expansion → Gauge
 
-Nolan is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/nolan-0.webp)Passive**Dimensional Rift**
 
-[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
+Nolan's skills will leave a Rift. When a rift comes into contact with another rift, they will activate and pull enemies to their center and deal 240 (+140% Extra Physical Attack) Physical Damage after a short delay. Each time a rift activation hits an enemy, Nolan will gain 25 Energy. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced by 40%.
+Cosmic Leap: If Nolan does not deal or take damage for 5s, he enhances his next Basic Attack to dash to the target, dealing (+120% Total Physical Attack) Physical Damage and leaving a Rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
 
-## Best teammates for Nolan
+![](/images/mlbb/skills/nolan-1.webp)Skill 1**Expansion**
 
-With these heroes on the same team Nolan wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 2.5 Energy Cost: 25 s**
 
-[![Joy](/images/heroes/joy.webp)Joy+2.29 pts](https://boostmlbb.ru/en/heroes/joy.html)[![Yve](/images/heroes/yve.webp)Yve+1.91 pts](https://boostmlbb.ru/en/heroes/yve.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin+1.84 pts](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Valentina](/images/heroes/valentina.webp)Valentina+1.56 pts](https://boostmlbb.ru/en/heroes/valentina.html)
+Nolan cuts a rectangular area in front of him with his cosmic gauge, dealing 230 (+40% Total Physical Attack) Physical Damage and leaving a Rift at the first enemy hit.
+
+![](/images/mlbb/skills/nolan-2.webp)Skill 2**Gauge**
+
+**Cooldown 2.5 Energy Cost: 25 s**
+
+Nolan charges in the target direction and slashes with his cosmic gauge, dealing 70 (+13% Total Physical Attack) Physical Damage to enemies in his path and leaving a Rift.
+
+![](/images/mlbb/skills/nolan-3.webp)Ultimate**Fracture**
+
+**Cooldown 21 s**
+
+Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical Attack) Physical Damage with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward.
 
 ## Win rate by rank
-
-Best result in Mythical Glory (50.36%), weakest in Legend (48.33%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.65%**
 -   ![](/images/ranks/Legend.webp)Legend**48.33%**
@@ -129,33 +132,13 @@ Best result in Mythical Glory (50.36%), weakest in Legend (48.33%). Last 30 days
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.59%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**50.36%**
 
-## Place in the meta
-
-Nolan sits in tier B of our win-rate tier list and ranks 72 of 133 heroes. In Mythical Glory the win rate is higher: 50.36% against 49.71% across all ranks, a 0.65-point gap. At that rank the hero is banned in 21.66% of matches. BOOST MLBB customers ordered 16 hero boosts on Nolan over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Jungle heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
-
 ## Lore
 
-![Nolan](/images/heroes/nolan.webp)
+A scholar that wanders the universe with split souls to save his daughter.
 
-«A scholar that wanders the universe with split souls to save his daughter.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Nolan)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=122)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan)
 
-Nolan’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Nolan)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=122)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan)
-
-## Boost on Nolan
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -178,5 +161,3 @@ Tier B: #72 of 133 heroes by 30-day win rate and #11 among assassins.
 What is the best build for Nolan?
 
 The most popular ranked build: Blade of the Heptaseas, Hunter Strike and Malefic Roar as core items, the Assassin emblem with Thrill, Seasoned Hunter and Lethal Ignition, and Retribution. It wins 53.17% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

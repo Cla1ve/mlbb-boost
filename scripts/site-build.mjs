@@ -6,7 +6,7 @@ import vm from 'node:vm';
 import { parseHTML } from 'linkedom';
 import TurndownService from 'turndown';
 import reviewText from '../js/review-text.js';
-import { heroGuides, profileArt } from './hero-pages.mjs';
+import { heroGuides } from './hero-pages.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const origin = 'https://boostmlbb.ru';
@@ -241,7 +241,6 @@ function uiArt(kind, lang) {
       `<div class="ui-placement">${rankImg('Mythic', 'ui-placement__rank')}<div class="ui-matches">${dots}</div></div>`,
       `<span>${t('Мифик', 'Mythic')}</span><strong>8⭐</strong>`);
   }
-  if (kind.startsWith('profile:')) return profileArt(kind.slice(8), lang, heroesData);
   if (kind === 'party') return card(t('Пати', 'Party'), t('Готовы', 'Ready'),
     `<div class="ui-lobby"><div class="ui-player">${rankImg('Mythical_Glory')}<div><strong>${t('Вы', 'You')}</strong><span>${t('Мифическая слава', 'Mythical Glory')}</span></div><span class="ui-ready"></span></div><div class="ui-player">${rankImg('Mythical_Immortal')}<div><strong>${t('Бустер', 'Booster')}</strong><span>${t('Бессмертный', 'Immortal')}</span></div><span class="ui-ready"></span></div></div>`,
     `<span>${t('Вход в аккаунт', 'Account login')}</span><strong>${t('не нужен', 'not needed')}</strong>`);
@@ -251,15 +250,20 @@ function guideArticle(guide, lang) {
   const en = lang === 'en';
   const [, , body, rawFaq = []] = guide[lang];
   const faq = rawFaq.map(([q, a]) => [q, fillTokens(a, lang)]);
-  const updated = guide.updated || '2026-10-05';
   const crumbs = guide.crumb ? [localized(guide.crumb[0], lang), en ? guide.crumb[2] : guide.crumb[1]] : [localized('/services.html', lang), en ? 'Services' : 'Услуги'];
   const faqHTML = faq.length ? `<section class="seo-faq" aria-labelledby="faq-${guide.file.replace(/\W+/g, '-')}"><h2 id="faq-${guide.file.replace(/\W+/g, '-')}">${en ? 'Frequently asked questions' : 'Частые вопросы'}</h2>${faq.map(([q, a]) => `<details><summary>${q}</summary><p>${a}</p></details>`).join('')}</section>` : '';
+  if (guide.kind === 'hero') {
+    const head = guide[lang][4];
+    return `<article class="atlas container"><header class="atlas-head"><nav class="atlas-crumb" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/',lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>
+      <div class="atlas-identity">${head.portrait ? `<img src="/images/heroes/${head.portrait}.webp" width="110" height="110" alt="">` : ''}<div>${head.tier ? `<span class="atlas-tier">${en ? 'Tier' : 'Тир'} ${head.tier}</span>` : ''}<h1>${head.h1}</h1><p>${head.sub}</p></div></div>
+      <div class="atlas-period">${head.context ? `<strong>${head.context}</strong>` : ''}<span>${head.period}</span></div></header>${body}${faqHTML}</article>`;
+  }
   if (guide.layout === 'landing') {
     const hero = guide[lang][4];
     const art = guide.art ? `<div class="lp-hero__art">${uiArt(guide.art, lang)}</div>` : '';
-    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero${guide.art ? ' lp-hero--art' : ''}"><div class="hero-glow"></div><div class="container lp-hero__grid"><div class="lp-hero__copy"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="${hero.secondaryIcon ? `fas ${hero.secondaryIcon}` : 'fab fa-telegram'}"></i><span>${hero.secondary[0]}</span></a></div></div>${art}</div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></div></div>`;
+    return `<div class="prices-page lp-page"><div class="prices-hero lp-hero${guide.art ? ' lp-hero--art' : ''}"><div class="hero-glow"></div><div class="container lp-hero__grid"><div class="lp-hero__copy"><nav class="lp-crumbs" aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav><div class="hero-badge"><i aria-hidden="true" class="fas ${hero.icon}"></i><span>${hero.badge}</span></div><h1 class="prices-title">${hero.h1}</h1><p class="prices-subtitle lp-subtitle">${fillTokens(hero.sub, lang)}</p><div class="hero-cta lp-actions"><a href="${localized(hero.primary[1].split('?')[0], lang)}${hero.primary[1].includes('?') ? '?' + hero.primary[1].split('?')[1] : ''}" class="calc-btn"><i aria-hidden="true" class="fas fa-calculator"></i><span>${hero.primary[0]}</span></a><a href="${hero.secondary[1]}" class="lp-ghost"><i aria-hidden="true" class="${hero.secondaryIcon ? `fas ${hero.secondaryIcon}` : 'fab fa-telegram'}"></i><span>${hero.secondary[0]}</span></a></div></div>${art}</div></div><div class="container lp-body">${fillTokens(body, lang)}${faqHTML}</div></div>`;
   }
-  return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}<p class="seo-date">${en ? 'MLBB Boost editorial team · Updated' : 'Редакция MLBB Boost · Обновлено'} <time datetime="${updated}">${formatDate(updated, lang)}</time></p></article>`;
+  return `<article class="seo-guide container${guide.wide ? ' seo-guide-wide' : ''}"><nav aria-label="${en ? 'Breadcrumbs' : 'Хлебные крошки'}"><a href="${localized('/', lang)}">${en ? 'Home' : 'Главная'}</a> / <a href="${crumbs[0]}">${crumbs[1]}</a></nav>${fillTokens(body, lang)}${faqHTML}</article>`;
 }
 function schema(document, file, lang, title, description, url) {
   document.querySelectorAll('script[type="application/ld+json"]').forEach(node => node.remove());
@@ -273,9 +277,15 @@ function schema(document, file, lang, title, description, url) {
   };
   const web = { '@type': 'WebSite', '@id': `${origin}/#website`, name: 'MLBB Boost', alternateName: 'Boost MLBB', url: origin + '/', publisher: { '@id': org['@id'] }, inLanguage: ['ru', 'en'] };
   const guide = guideOf(file);
-  const isArticle = guide && guide.kind !== 'service';
-  const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : file === 'reviews.html' ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
+  const isHeroIndex = file === 'heroes/index.html';
+  const isArticle = guide && guide.kind !== 'service' && !isHeroIndex;
+  const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : (isHeroIndex || file === 'reviews.html') ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
   if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
+  if (isHeroIndex) page.mainEntity = {
+    '@type': 'ItemList', numberOfItems: heroesData.heroes.length,
+    itemListElement: heroesData.heroes.map(hero => ({ '@type': 'ListItem', position: hero.rank,
+      name: hero[lang], url: origin + localized(`/heroes/${hero.slug}.html`, lang) }))
+  };
   const graph = [org, web, page];
   if (guide?.kind === 'service') graph.push({ '@type': 'Service', '@id': `${url}#service`, name: document.querySelector('h1').textContent.trim(), serviceType: 'Mobile Legends: Bang Bang rank boosting', provider: { '@id': org['@id'] }, areaServed: lang === 'en' ? 'Worldwide' : 'RU', url, offers: { '@type': 'AggregateOffer', priceCurrency: 'RUB', lowPrice: Math.min(...data.prices.filter(r => guide.priceCategories?.includes(r.category) ?? true).map(r => r.prices.find(p => p.type === (guide.priceType || 'standard')).price)), offerCount: data.prices.length } });
   if (guide?.[lang][3]?.length) graph.push({ '@type': 'FAQPage', '@id': `${url}#faq`, mainEntity: guide[lang][3].map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: fillTokens(a, lang).replace(/<[^>]+>/g, '') } })) });
@@ -432,7 +442,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '44' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '45' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

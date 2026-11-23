@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Alice in Mobile Legends: build, counters and stats
-
-Tank and mage, EXP Lane or Jungle. Wins 50.70% of matches over the last 30 days: #48 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/alice.webp)
 
-**Alice**Ban 12.68% · Pick 0.91%
+Tier B
 
-Counters
+# Alice
 
-![](/images/heroes/chip.webp)![](/images/heroes/gloo.webp)![](/images/heroes/tigreal.webp)
+Tank and mage · EXP Lane or Jungle
 
-Win rate, 30 days**50.70%**
+**#48 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**50.70%**win rate, 30 days
+Win rate
 
-**0.91%**pick rate
+50.70%
 
-**12.68%**ban rate
+Pick rate
 
-**50.81%**wins in Mythical Glory
+0.91%
 
-## Alice build
+Ban rate
 
-The most picked setup for EXP Lane Alice in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+12.68%
+
+Charge · Regen · Difficulty 40/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,82 +51,85 @@ Battle spell
 
 Wins with this build **55.00%**Picked in **2.65%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20050.webp)Revitalize![](/images/mlbb/emblems/20003.webp)TankVitality · Tenacity · Impure Rage**57.63%**
--   ![](/images/mlbb/spells/20050.webp)Revitalize![](/images/mlbb/emblems/20003.webp)TankVitality · Tenacity · Impure Rage**58.77%**
+Core items
 
-## Alice skills
+![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/3204.webp)Oracle![](/images/mlbb/items/3103.webp)Concentrated Energy
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Throne of Ruin** → **Doom Waltz** → **Crimson Gleam**
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/131.webp)Impure Rage
 
--   ![](/images/mlbb/skills/alice-0.webp)
+Battle spell
 
-    **Crimson Blood Banquet**Passive
+![](/images/mlbb/spells/20050.webp)Revitalize
 
-    Alice gains 1 stack(s) of Crimson each time her skill hits an enemy, lasting 4s (up to 2 stacks). Blood Banquet activates at max stacks.
-    Blood Banquet: Every 0.5s, Alice deals 25 (+30% Total Magic Power) (+ 0.5% - 2.5% target's , scaling with level) Magic Damage to nearby enemies. She also recovers 10 (+3% Extra Max HP) HP and gains 8% Movement Speed. Its duration is refreshed when her skills hit an enemy hero.
-    Damage to creeps is capped at 70 (+10\*Hero Level) Magic Damage.
+Wins with this build **57.63%**Picked in **1.60%** of matches
 
--   ![](/images/mlbb/skills/alice-1.webp)
+Core items
 
-    **Crimson Gleam**Skill 1CD 12 s
+![](/images/mlbb/items/3204.webp)Oracle![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/3212.webp)Chastise Pauldron
 
-    Alice shoots Blood Energy forward, dealing 100 (+50% Total Magic Power) Magic Damage to enemies.
-    Use Again: Before Blood Energy dissipates, Alice can recast this skill as Scarlet Shadow to blink to its location.
+Emblem and talents
 
--   ![](/images/mlbb/skills/alice-2.webp)
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/131.webp)Impure Rage
 
-    **Doom Waltz**Skill 2CD 4 s
+Battle spell
 
-    Alice performs a deadly dance, dealing 350 (+130% Total Magic Power) Magic Damage to nearby enemies and slowing them by 70% for 1s.
-    If Blood Banquet is active, the skill also scorches enemies, dealing 300% of Blood Banquet's damage and recovering the same amount of HP.
+![](/images/mlbb/spells/20050.webp)Revitalize
 
--   ![](/images/mlbb/skills/alice-3.webp)
+Wins with this build **58.77%**Picked in **1.32%** of matches
 
-    **Throne of Ruin**UltimateCD 60 s
+## Counters and teammates
 
-    Alice surrounds herself with blood, gaining Control Immunity and 50% Damage Reduction while slowing herself by 50%.
-    After 1.5s, she descends from above, dealing 500 (+200% Total Magic Power) (+20% Extra Max HP) Magic Damage to all enemies in range and immobilizing them for 1s.
-    While charging her Ultimate, Alice cannot use any hero skills other than Scarlet Shadow.
+### Counters
 
+[![](/images/heroes/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
 
--   Role**Tank and mage**
--   Lane**EXP Lane or Jungle**
--   Among tanks**#13 of 25**
--   Among mages**#13 of 32**
--   In the EXP Lane**#16 of 42**
--   In the jungle**#10 of 37**
--   Speciality**Charge, Regen**
--   Difficulty**Easy (40/100)**
+### Teammates
 
-## Who counters Alice
+Win rate gain when playing together
 
-Alice loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are tanks.
+[![](/images/heroes/cici.webp)Cici+2.27 pp](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/angela.webp)Angela+2.15 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/aldous.webp)Aldous+2.13 pp](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/argus.webp)Argus+2.08 pp](https://boostmlbb.ru/en/heroes/argus.html)
 
-[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)
+## Skills
 
-## Who Alice is strong against
+Level-up priority · Throne of Ruin → Doom Waltz → Crimson Gleam
 
-Alice is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/alice-0.webp)Passive**Crimson Blood Banquet**
 
-[![Angela](/images/heroes/angela.webp)Angela49.99%](https://boostmlbb.ru/en/heroes/angela.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz48.91%](https://boostmlbb.ru/en/heroes/thamuz.html)[![Cici](/images/heroes/cici.webp)Cici49.38%](https://boostmlbb.ru/en/heroes/cici.html)[![Julian](/images/heroes/julian.webp)Julian49.95%](https://boostmlbb.ru/en/heroes/julian.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)
+Alice gains 1 stack(s) of Crimson each time her skill hits an enemy, lasting 4s (up to 2 stacks). Blood Banquet activates at max stacks.
+Blood Banquet: Every 0.5s, Alice deals 25 (+30% Total Magic Power) (+ 0.5% - 2.5% target's , scaling with level) Magic Damage to nearby enemies. She also recovers 10 (+3% Extra Max HP) HP and gains 8% Movement Speed. Its duration is refreshed when her skills hit an enemy hero.
+Damage to creeps is capped at 70 (+10\*Hero Level) Magic Damage.
 
-## Best teammates for Alice
+![](/images/mlbb/skills/alice-1.webp)Skill 1**Crimson Gleam**
 
-With these heroes on the same team Alice wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 12 s**
 
-[![Cici](/images/heroes/cici.webp)Cici+2.27 pts](https://boostmlbb.ru/en/heroes/cici.html)[![Angela](/images/heroes/angela.webp)Angela+2.15 pts](https://boostmlbb.ru/en/heroes/angela.html)[![Aldous](/images/heroes/aldous.webp)Aldous+2.13 pts](https://boostmlbb.ru/en/heroes/aldous.html)[![Argus](/images/heroes/argus.webp)Argus+2.08 pts](https://boostmlbb.ru/en/heroes/argus.html)
+Alice shoots Blood Energy forward, dealing 100 (+50% Total Magic Power) Magic Damage to enemies.
+Use Again: Before Blood Energy dissipates, Alice can recast this skill as Scarlet Shadow to blink to its location.
+
+![](/images/mlbb/skills/alice-2.webp)Skill 2**Doom Waltz**
+
+**Cooldown 4 s**
+
+Alice performs a deadly dance, dealing 350 (+130% Total Magic Power) Magic Damage to nearby enemies and slowing them by 70% for 1s.
+If Blood Banquet is active, the skill also scorches enemies, dealing 300% of Blood Banquet's damage and recovering the same amount of HP.
+
+![](/images/mlbb/skills/alice-3.webp)Ultimate**Throne of Ruin**
+
+**Cooldown 60 s**
+
+Alice surrounds herself with blood, gaining Control Immunity and 50% Damage Reduction while slowing herself by 50%.
+After 1.5s, she descends from above, dealing 500 (+200% Total Magic Power) (+20% Extra Max HP) Magic Damage to all enemies in range and immobilizing them for 1s.
+While charging her Ultimate, Alice cannot use any hero skills other than Scarlet Shadow.
 
 ## Win rate by rank
-
-Best result in Mythical Glory (50.81%), weakest in Mythical Honor (50.56%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.66%**
 -   ![](/images/ranks/Legend.webp)Legend**50.66%**
@@ -136,33 +137,13 @@ Best result in Mythical Glory (50.81%), weakest in Mythical Honor (50.56%). Last
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**50.56%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**50.81%**
 
-## Place in the meta
-
-Alice sits in tier B of our win-rate tier list and ranks 48 of 133 heroes. In Mythical Glory the result is almost the same: 50.81%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Alice](/images/heroes/alice.webp)
+Queen of the Blood Demons and one of the two dominant powers in the Abyss.
 
-«Queen of the Blood Demons and one of the two dominant powers in the Abyss.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Alice)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=4)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alice)
 
-Alice’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Alice)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=4)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alice)
-
-## Boost on Alice
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -185,5 +166,3 @@ Tier B: #48 of 133 heroes by 30-day win rate and #13 among tanks.
 What is the best build for Alice?
 
 The most popular ranked build: Brute Force Breastplate, Oracle and Concentrated Energy as core items, the Tank emblem with Vitality, Seasoned Hunter and Impure Rage, and Revitalize. It wins 55.00% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

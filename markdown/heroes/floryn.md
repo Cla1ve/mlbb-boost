@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир S
-
-# Флорин в Mobile Legends: сборка, контрпики и статистика
-
-Поддержка, роум. Выигрывает 54,07% матчей за последние 30 дней — 8-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир S
-
 ![](/images/heroes/floryn.webp)
 
-**Флорин**Бан 13,36% · Выбор 0,95%
+Тир S
 
-Контрпики
+# Флорин
 
-![](/images/heroes/marcel.webp)![](/images/heroes/alice.webp)![](/images/heroes/x-borg.webp)
+Поддержка · Роум
 
-Победы за 30 дней**54,07%**
+**№ 8 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**54,07%**побед за 30 дней
+Победы
 
-**0,95%**выбирают в матчах
+54,07%
 
-**13,36%**банят в матчах
+Выбор
 
-**53,83%**побед в Мифической славе
+0,95%
 
-## Сборка на героя «Флорин»
+Баны
 
-Самая популярная сборка для героя «Флорин» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+13,36%
+
+Поук · Защита · Сложность 30/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,76 +51,81 @@ language: ru
 
 Побед с этой сборкой **53,96%**Выбирают в **22,57%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20008.webp)Эмблема поддержкиВдохновение · Второе дыхание · Фокус-метка**55,12%**
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20008.webp)Эмблема поддержкиВдохновение · Благословение природы · Фокус-метка**55,52%**
+Ключевые предметы
 
-## Навыки героя «Флорин»
+![](/images/mlbb/items/10001.webp)Lantern of Hope![](/images/mlbb/items/3112.webp)Фляга Оазиса![](/images/mlbb/items/3109.webp)Мимолетное время
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Цветение** → **Посев** → **Росток**
+![](/images/mlbb/emblems/20008.webp)Эмблема поддержки![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/821.webp)Второе дыхание![](/images/mlbb/talents/831.webp)Фокус-метка
 
--   ![](/images/mlbb/skills/floryn-0.webp)
+Боевое заклинание
 
-    **Дью**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    Фонарь Дью будет постоянно понемногу увеличивать показатели Флорин.
-    После выхода из боя на 5 сек., Флорин может поделиться Цветком надежды с одним из союзных героев (перезарядка: 30 сек.), что будет давать ему 100 (+70% общей магической силы) ед. щита каждый раз, когда его лечит Флорин.
-    Флорин никогда не продаст Фонарь.
+Побед с этой сборкой **55,12%**Выбирают в **9,03%** матчей
 
--   ![](/images/mlbb/skills/floryn-1.webp)
+Ключевые предметы
 
-    **Посев**1-й навыкПерезарядка 9 Mana Cost: 75 с
+![](/images/mlbb/items/10001.webp)Lantern of Hope![](/images/mlbb/items/3112.webp)Фляга Оазиса![](/images/mlbb/items/3109.webp)Мимолетное время
 
-    Флорин бросает семя энергии в указанного врага, нанося 180 (+100% общей магической силы) единиц магического урона. Затем появляются целебные фрукты, которые будут отскакивать к ближайшим союзным героям, восстанавливая их ОЗ на 175 (+90% общей магической силы).
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/floryn-2.webp)
+![](/images/mlbb/emblems/20008.webp)Эмблема поддержки![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/121.webp)Благословение природы![](/images/mlbb/talents/831.webp)Фокус-метка
 
-    **Росток**2-й навыкПерезарядка 13 Mana Cost: 90 с
+Боевое заклинание
 
-    Флорин бросает вперед сгусток энергии, который взрывается при попадании во врага, нанося 175 (+90% общей магической силы) единиц магического урона ближайшим врагам и оглушая их на 0.5 сек. (и ненадолго раскрывая их позиции).
+![](/images/mlbb/spells/20050.webp)Восстановление
 
--   ![](/images/mlbb/skills/floryn-3.webp)
+Побед с этой сборкой **55,52%**Выбирают в **8,74%** матчей
 
-    **Цветение**УльтимейтПерезарядка 70 Mana Cost: 150 с
+## Контрпики и союзники
 
-    Флорин входит в резонанс с силой Дью, восстанавливая 250 (+100% общей магической силы) ОЗ всем союзным героям 2 р., независимо от их местоположения. Этот эффект также усиливает их щит и эффекты регенерации ОЗ на 12% на 2 сек.
+### Кто контрит
 
+[![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
--   Роль**Поддержка**
--   Линия**Роум**
--   Среди героев поддержки**4-е из 15**
--   В роуме**5-е из 34**
--   Специализация**Поук, Защита**
--   Сложность**Низкая (30/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Флорин» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — герои поддержки.
+[![](/images/heroes/baxia.webp)Баксий+7,06 п. п.](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/atlas.webp)Атлас+6,83 п. п.](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/carmilla.webp)Кармилла+6,09 п. п.](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/kalea.webp)Калеа+5,94 п. п.](https://boostmlbb.ru/heroes/kalea.html)
 
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Цветение → Посев → Росток
 
-Для этих героев «Флорин» — один из самых неудобных соперников.
+![](/images/mlbb/skills/floryn-0.webp)Пассивный**Дью**
 
-[![Эйдора](/images/heroes/eudora.webp)Эйдора50,35%](https://boostmlbb.ru/heroes/eudora.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана51,36%](https://boostmlbb.ru/heroes/silvanna.html)[![Франко](/images/heroes/franco.webp)Франко41,58%](https://boostmlbb.ru/heroes/franco.html)[![Иксия](/images/heroes/ixia.webp)Иксия50,08%](https://boostmlbb.ru/heroes/ixia.html)[![Инь](/images/heroes/yin.webp)Инь49,62%](https://boostmlbb.ru/heroes/yin.html)[![Чип](/images/heroes/chip.webp)Чип47,60%](https://boostmlbb.ru/heroes/chip.html)
+Фонарь Дью будет постоянно понемногу увеличивать показатели Флорин.
+После выхода из боя на 5 сек., Флорин может поделиться Цветком надежды с одним из союзных героев (перезарядка: 30 сек.), что будет давать ему 100 (+70% общей магической силы) ед. щита каждый раз, когда его лечит Флорин.
+Флорин никогда не продаст Фонарь.
 
-## С кем играть в команде
+![](/images/mlbb/skills/floryn-1.webp)1-й навык**Посев**
 
-С этими героями в одной команде «Флорин» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 9 Mana Cost: 75 с**
 
-[![Баксий](/images/heroes/baxia.webp)Баксий+7,06 п. п.](https://boostmlbb.ru/heroes/baxia.html)[![Атлас](/images/heroes/atlas.webp)Атлас+6,83 п. п.](https://boostmlbb.ru/heroes/atlas.html)[![Кармилла](/images/heroes/carmilla.webp)Кармилла+6,09 п. п.](https://boostmlbb.ru/heroes/carmilla.html)[![Калеа](/images/heroes/kalea.webp)Калеа+5,94 п. п.](https://boostmlbb.ru/heroes/kalea.html)
+Флорин бросает семя энергии в указанного врага, нанося 180 (+100% общей магической силы) единиц магического урона. Затем появляются целебные фрукты, которые будут отскакивать к ближайшим союзным героям, восстанавливая их ОЗ на 175 (+90% общей магической силы).
 
-## Процент побед по рангам
+![](/images/mlbb/skills/floryn-2.webp)2-й навык**Росток**
 
-Лучший результат — на ранге «Эпик» (55,57%), слабее всего — «Мифическая слава» (53,83%). Данные за последние 30 дней.
+**Перезарядка 13 Mana Cost: 90 с**
+
+Флорин бросает вперед сгусток энергии, который взрывается при попадании во врага, нанося 175 (+90% общей магической силы) единиц магического урона ближайшим врагам и оглушая их на 0.5 сек. (и ненадолго раскрывая их позиции).
+
+![](/images/mlbb/skills/floryn-3.webp)Ультимейт**Цветение**
+
+**Перезарядка 70 Mana Cost: 150 с**
+
+Флорин входит в резонанс с силой Дью, восстанавливая 250 (+100% общей магической силы) ОЗ всем союзным героям 2 р., независимо от их местоположения. Этот эффект также усиливает их щит и эффекты регенерации ОЗ на 12% на 2 сек.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**55,57%**
 -   ![](/images/ranks/Legend.webp)Легенда**54,51%**
@@ -130,33 +133,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**54,18%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**53,83%**
 
-## Место в мете
+## История
 
-«Флорин» — тир S в нашем тир-листе по проценту побед, 8-е место из 133 героев. В Мифической славе результат почти такой же: 53,83%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои роума
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)
-
-## История героя
-
-![Флорин](/images/heroes/floryn.webp)
-
-«Добрая девушка, которая полна решимости озеленить весь мир.»
-
-Полная история героя «Флорин» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Добрая девушка, которая полна решимости озеленить весь мир.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Floryn)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=112)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Floryn)
 
-## Буст на герое «Флорин»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -179,5 +162,3 @@ language: ru
 Какая сборка на героя «Флорин» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Lantern of Hope», «Фляга Оазиса» и «Мимолетное время», эмблема поддержки с талантами «Вдохновение», «Благословение природы» и «Фокус-метка» и заклинание «Вспышка». С ней выигрывают 53,96% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

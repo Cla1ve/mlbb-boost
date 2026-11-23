@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир B
-
-# Одетта в Mobile Legends: сборка, контрпики и статистика
-
-Маг, средняя линия. Выигрывает 49,69% матчей за последние 30 дней — 75-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир B
-
 ![](/images/heroes/odette.webp)
 
-**Одетта**Бан 0,27% · Выбор 0,55%
+Тир B
 
-Контрпики
+# Одетта
 
-![](/images/heroes/kaja.webp)![](/images/heroes/mathilda.webp)![](/images/heroes/faramis.webp)
+Маг · Средняя линия
 
-Победы за 30 дней**49,69%**
+**№ 75 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**49,69%**побед за 30 дней
+Победы
 
-**0,55%**выбирают в матчах
+49,69%
 
-**0,27%**банят в матчах
+Выбор
 
-**51,61%**побед в Мифической славе
+0,55%
 
-## Сборка на героя «Одетта»
+Баны
 
-Самая популярная сборка для героя «Одетта» на роли средней линии в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,27%
+
+Разрушительный урон · Поук · Сложность 30/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Средняя линия
 
 Ключевые предметы
 
@@ -53,77 +51,82 @@ language: ru
 
 Побед с этой сборкой **57,16%**Выбирают в **3,72%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20006.webp)Эмблема магаРазрыв · Мастер оружий · Смертельное воспламенение**56,07%**
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20005.webp)Эмблема убийцыРазрыв · Мастер оружий · Нечестивая ярость**52,27%**
+Ключевые предметы
 
-## Навыки героя «Одетта»
+![](/images/mlbb/items/3111.webp)Палочка гения![](/images/mlbb/items/3105.webp)Пылающий жезл![](/images/mlbb/items/3102.webp)Священный кристалл
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Лебединая песня** → **Лебединое крыло** → **Синяя звезда**
+![](/images/mlbb/emblems/20006.webp)Эмблема мага![](/images/mlbb/talents/511.webp)Разрыв![](/images/mlbb/talents/1221.webp)Мастер оружий![](/images/mlbb/talents/631.webp)Смертельное воспламенение
 
--   ![](/images/mlbb/skills/odette-0.webp)
+Боевое заклинание
 
-    **Песня озера**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    В течение 8 сек. после применения навыка следующая базовая атака Одетты получает дополнительную дальность и отскакивает между врагами (или врагом и ею самой), нанося 144-200 (+50% общей магической силы) единиц магического урона за каждое попадание.
-    Навыки Одетты также активируют этот эффект при попадании (до 3 зарядов).
+Побед с этой сборкой **56,07%**Выбирают в **1,43%** матчей
 
--   ![](/images/mlbb/skills/odette-1.webp)
+Ключевые предметы
 
-    **Лебединое крыло**1-й навыкПерезарядка 6 Mana Cost: 65 с
+![](/images/mlbb/items/3111.webp)Палочка гения![](/images/mlbb/items/3101.webp)Божественный меч![](/images/mlbb/items/2107.webp)Зимняя корона
 
-    Одетта выпускает волшебного лебедя в указанном направлении, нанося 300 (+150% общей магической силы) единиц магического урона пораженным врагам и замедляя их на 30% на 2 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/odette-2.webp)
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/511.webp)Разрыв![](/images/mlbb/talents/1221.webp)Мастер оружий![](/images/mlbb/talents/131.webp)Нечестивая ярость
 
-    **Синяя звезда**2-й навыкПерезарядка 12 Mana Cost: 75 с
+Боевое заклинание
 
-    Одетта выпускает группу энергетических шаров в указанном направлении, нанося 250 (+50% общей магической силы) единиц магического урона первому пораженному врагу и обездвиживая его на 1.5 сек.
-    При попадании во врага шар создает еще один шар, который атакует ближайшего врага (приоритет — вражеские герои), нанося 250 (+50% общей магической силы) единиц магического урона и обездвиживая его на 1.5 сек.
+![](/images/mlbb/spells/20100.webp)Вспышка
 
--   ![](/images/mlbb/skills/odette-3.webp)
+Побед с этой сборкой **52,27%**Выбирают в **5,57%** матчей
 
-    **Лебединая песня**УльтимейтПерезарядка 50 Mana Cost: 160 с
+## Контрпики и союзники
 
-    Одетта исполняет танец, получая щит, равный 1200 (+150% общей магической силы), и нанося до 2000 (+750% общей магической силы) единиц магического урона ближайшим врагам в большой области в течение 5 сек. В это время ее скорость передвижения снижена на 40%, но она может свободно перемещаться.
-    Используйте снова, чтобы отменить. Только эффекты контроля высокого уровня могут прервать этот навык.
+### Кто контрит
 
+[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
 
--   Роль**Маг**
--   Линия**Средняя линия**
--   Среди магов**17-е из 32**
--   На средней линии**15-е из 29**
--   Специализация**Разрушительный урон, Поук**
--   Сложность**Низкая (30/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Одетта» проигрывает чаще всего. Под иконкой — их собственный процент побед. 4 из 5 контрпиков — герои поддержки.
+[![](/images/heroes/zhuxin.webp)Чжусинь+8,80 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Чип+5,01 п. п.](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/mathilda.webp)Матильда+2,51 п. п.](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/kaja.webp)Кайя+2,34 п. п.](https://boostmlbb.ru/heroes/kaja.html)
 
-[![Кайя](/images/heroes/kaja.webp)Кайя49,80%](https://boostmlbb.ru/heroes/kaja.html)[![Матильда](/images/heroes/mathilda.webp)Матильда44,49%](https://boostmlbb.ru/heroes/mathilda.html)[![Фарамис](/images/heroes/faramis.webp)Фарамис50,83%](https://boostmlbb.ru/heroes/faramis.html)[![Чип](/images/heroes/chip.webp)Чип47,60%](https://boostmlbb.ru/heroes/chip.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Лебединая песня → Лебединое крыло → Синяя звезда
 
-Для этих героев «Одетта» — один из самых неудобных соперников.
+![](/images/mlbb/skills/odette-0.webp)Пассивный**Песня озера**
 
-[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Вексана](/images/heroes/vexana.webp)Вексана49,30%](https://boostmlbb.ru/heroes/vexana.html)[![Альфа](/images/heroes/alpha.webp)Альфа48,85%](https://boostmlbb.ru/heroes/alpha.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Джулиан](/images/heroes/julian.webp)Джулиан49,95%](https://boostmlbb.ru/heroes/julian.html)[![Аврора](/images/heroes/aurora.webp)Аврора48,93%](https://boostmlbb.ru/heroes/aurora.html)[![Гатоткача](/images/heroes/gatotkaca.webp)Гатоткача45,35%](https://boostmlbb.ru/heroes/gatotkaca.html)[![Вэйл](/images/heroes/vale.webp)Вэйл50,10%](https://boostmlbb.ru/heroes/vale.html)[![Тэризла](/images/heroes/terizla.webp)Тэризла50,60%](https://boostmlbb.ru/heroes/terizla.html)
+В течение 8 сек. после применения навыка следующая базовая атака Одетты получает дополнительную дальность и отскакивает между врагами (или врагом и ею самой), нанося 144-200 (+50% общей магической силы) единиц магического урона за каждое попадание.
+Навыки Одетты также активируют этот эффект при попадании (до 3 зарядов).
 
-## С кем играть в команде
+![](/images/mlbb/skills/odette-1.webp)1-й навык**Лебединое крыло**
 
-С этими героями в одной команде «Одетта» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 6 Mana Cost: 65 с**
 
-[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь+8,80 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)[![Чип](/images/heroes/chip.webp)Чип+5,01 п. п.](https://boostmlbb.ru/heroes/chip.html)[![Матильда](/images/heroes/mathilda.webp)Матильда+2,51 п. п.](https://boostmlbb.ru/heroes/mathilda.html)[![Кайя](/images/heroes/kaja.webp)Кайя+2,34 п. п.](https://boostmlbb.ru/heroes/kaja.html)
+Одетта выпускает волшебного лебедя в указанном направлении, нанося 300 (+150% общей магической силы) единиц магического урона пораженным врагам и замедляя их на 30% на 2 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/odette-2.webp)2-й навык**Синяя звезда**
 
-Лучший результат — на ранге «Мифическая слава» (51,61%), слабее всего — «Эпик» (47,72%). Данные за последние 30 дней.
+**Перезарядка 12 Mana Cost: 75 с**
+
+Одетта выпускает группу энергетических шаров в указанном направлении, нанося 250 (+50% общей магической силы) единиц магического урона первому пораженному врагу и обездвиживая его на 1.5 сек.
+При попадании во врага шар создает еще один шар, который атакует ближайшего врага (приоритет — вражеские герои), нанося 250 (+50% общей магической силы) единиц магического урона и обездвиживая его на 1.5 сек.
+
+![](/images/mlbb/skills/odette-3.webp)Ультимейт**Лебединая песня**
+
+**Перезарядка 50 Mana Cost: 160 с**
+
+Одетта исполняет танец, получая щит, равный 1200 (+150% общей магической силы), и нанося до 2000 (+750% общей магической силы) единиц магического урона ближайшим врагам в большой области в течение 5 сек. В это время ее скорость передвижения снижена на 40%, но она может свободно перемещаться.
+Используйте снова, чтобы отменить. Только эффекты контроля высокого уровня могут прервать этот навык.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**47,72%**
 -   ![](/images/ranks/Legend.webp)Легенда**48,47%**
@@ -131,33 +134,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,57%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**51,61%**
 
-## Место в мете
+## История
 
-«Одетта» — тир B в нашем тир-листе по проценту побед, 75-е место из 133 героев. В Мифической славе процент побед выше: 51,61% против 49,69% на всех рангах, разница 1,92 п. п. В патче 2.2.16 герой изменён без явного усиления или ослабления. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои средней линии
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)
-
-## История героя
-
-![Одетта](/images/heroes/odette.webp)
-
-«Невинная принцесса, выросшая в Лебедином замке, и гениальная волшебница, превосходно владеющая мечом и скипетром.»
-
-Полная история героя «Одетта» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Невинная принцесса, выросшая в Лебедином замке, и гениальная волшебница, превосходно владеющая мечом и скипетром.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Odette)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=46)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Odette)
 
-## Буст на герое «Одетта»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -180,5 +163,3 @@ language: ru
 Какая сборка на героя «Одетта» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Пронзающий небеса» и «Священный кристалл», эмблема убийцы с талантами «Разрыв», «Охотник за скидками» и «Смертельное воспламенение» и заклинание «Вспышка». С ней выигрывают 57,16% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

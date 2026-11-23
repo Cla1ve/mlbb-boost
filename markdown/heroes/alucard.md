@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир C
-
-# Алукард в Mobile Legends: сборка, контрпики и статистика
-
-Боец и убийца, лес. Выигрывает 48,87% матчей за последние 30 дней — 93-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир C
-
 ![](/images/heroes/alucard.webp)
 
-**Алукард**Бан 0,36% · Выбор 0,56%
+Тир C
 
-Контрпики
+# Алукард
 
-![](/images/heroes/natalia.webp)![](/images/heroes/sun.webp)![](/images/heroes/mathilda.webp)
+Боец и убийца · Лес
 
-Победы за 30 дней**48,87%**
+**№ 93 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**48,87%**побед за 30 дней
+Победы
 
-**0,56%**выбирают в матчах
+48,87%
 
-**0,36%**банят в матчах
+Выбор
 
-**49,00%**побед в Мифической славе
+0,56%
 
-## Сборка на героя «Алукард»
+Баны
 
-Самая популярная сборка для героя «Алукард» на роли леса в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,36%
+
+Преследование · Урон · Сложность 30/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Лес
 
 Ключевые предметы
 
@@ -53,78 +51,82 @@ language: ru
 
 Побед с этой сборкой **59,21%**Выбирают в **5,67%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20005.webp)Эмблема убийцыТрепет · Опытный охотник · Временное правление**59,72%**
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20005.webp)Эмблема убийцыТрепет · Опытный охотник · Временное правление**19,25%**
+Ключевые предметы
 
-## Навыки героя «Алукард»
+![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва![](/images/mlbb/items/3008.webp)Клинок отчаяния
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Расщепляющая волна** → **Круговой удар** → **Разрушающий землю**
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/134.webp)Временное правление
 
--   ![](/images/mlbb/skills/alucard-0.webp)
+Боевое заклинание
 
-    **Преследование**Пассивный
+![](/images/mlbb/spells/20020.webp)Возмездие
 
-    После каждого применения навыка следующая базовая атака Алукарда позволяет ему совершить рывок к цели и нанести (+125% общей физической атаки) единиц физического урона.
-    "Охотник на демонов": Алукард наносит 110% урона монстрам.
+Побед с этой сборкой **59,72%**Выбирают в **12,81%** матчей
 
--   ![](/images/mlbb/skills/alucard-1.webp)
+Ключевые предметы
 
-    **Разрушающий землю**1-й навыкПерезарядка 8.5 с
+![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва![](/images/mlbb/items/2001.webp)Меч легионера
 
-    Алукард прыгает в указанную область и наносит рубящий удар, нанося 270 (+85% дополнительной физической атаки) единиц физического урона врагам в области и замедляя их на 40% на 2 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/alucard-2.webp)
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/134.webp)Временное правление
 
-    **Круговой удар**2-й навыкПерезарядка 6 с
+Боевое заклинание
 
-    Алукард совершает круговой удар, нанося 345 (+120% дополнительной физической атаки) единиц физического урона ближайшим врагам.
+![](/images/mlbb/spells/20020.webp)Возмездие
 
--   ![](/images/mlbb/skills/alucard-3.webp)
+Побед с этой сборкой **19,25%**Выбирают в **2,68%** матчей
 
-    **Расщепляющая волна**УльтимейтПерезарядка 40 с
+## Контрпики и союзники
 
-    Пассивный: Алукард навсегда получает 10% гибридного вампиризма.
-    Активный: Алукард поглощает энергию врагов в указанной области, снижая их скорость передвижения на 30% и на 10. Он получает 10 за каждого пораженного вражеского героя и сокращает перезарядку других своих навыков до 50% на 6 сек.
-    Повторное использование: Алукард выпускает мощную ударную волну вперед, нанося 400 (+200% дополнительной физической атаки) единиц физического урона.
+### Кто контрит
 
+[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
 
--   Роль**Боец и убийца**
--   Линия**Лес**
--   Среди бойцов**32-е из 44**
--   Среди убийц**16-е из 29**
--   В лесу**24-е из 37**
--   Специализация**Преследование, Урон**
--   Сложность**Низкая (30/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Алукард» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+[![](/images/heroes/tigreal.webp)Тигрил+1,93 п. п.](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/floryn.webp)Флорин+1,28 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/lapu-lapu.webp)Лапу-Лапу+1,28 п. п.](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/kaja.webp)Кайя+1,25 п. п.](https://boostmlbb.ru/heroes/kaja.html)
 
-[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Матильда](/images/heroes/mathilda.webp)Матильда44,49%](https://boostmlbb.ru/heroes/mathilda.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Харит](/images/heroes/harith.webp)Харит46,92%](https://boostmlbb.ru/heroes/harith.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Расщепляющая волна → Круговой удар → Разрушающий землю
 
-Для этих героев «Алукард» — один из самых неудобных соперников.
+![](/images/mlbb/skills/alucard-0.webp)Пассивный**Преследование**
 
-[![Тигрил](/images/heroes/tigreal.webp)Тигрил45,22%](https://boostmlbb.ru/heroes/tigreal.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Фредрин](/images/heroes/fredrinn.webp)Фредрин51,25%](https://boostmlbb.ru/heroes/fredrinn.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Акай](/images/heroes/akai.webp)Акай50,18%](https://boostmlbb.ru/heroes/akai.html)
+После каждого применения навыка следующая базовая атака Алукарда позволяет ему совершить рывок к цели и нанести (+125% общей физической атаки) единиц физического урона.
+"Охотник на демонов": Алукард наносит 110% урона монстрам.
 
-## С кем играть в команде
+![](/images/mlbb/skills/alucard-1.webp)1-й навык**Разрушающий землю**
 
-С этими героями в одной команде «Алукард» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 8.5 с**
 
-[![Тигрил](/images/heroes/tigreal.webp)Тигрил+1,93 п. п.](https://boostmlbb.ru/heroes/tigreal.html)[![Флорин](/images/heroes/floryn.webp)Флорин+1,28 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![Лапу-Лапу](/images/heroes/lapu-lapu.webp)Лапу-Лапу+1,28 п. п.](https://boostmlbb.ru/heroes/lapu-lapu.html)[![Кайя](/images/heroes/kaja.webp)Кайя+1,25 п. п.](https://boostmlbb.ru/heroes/kaja.html)
+Алукард прыгает в указанную область и наносит рубящий удар, нанося 270 (+85% дополнительной физической атаки) единиц физического урона врагам в области и замедляя их на 40% на 2 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/alucard-2.webp)2-й навык**Круговой удар**
 
-Лучший результат — на ранге «Мифический» (49,04%), слабее всего — «Мифическая честь» (48,56%). Данные за последние 30 дней.
+**Перезарядка 6 с**
+
+Алукард совершает круговой удар, нанося 345 (+120% дополнительной физической атаки) единиц физического урона ближайшим врагам.
+
+![](/images/mlbb/skills/alucard-3.webp)Ультимейт**Расщепляющая волна**
+
+**Перезарядка 40 с**
+
+Пассивный: Алукард навсегда получает 10% гибридного вампиризма.
+Активный: Алукард поглощает энергию врагов в указанной области, снижая их скорость передвижения на 30% и на 10. Он получает 10 за каждого пораженного вражеского героя и сокращает перезарядку других своих навыков до 50% на 6 сек.
+Повторное использование: Алукард выпускает мощную ударную волну вперед, нанося 400 (+200% дополнительной физической атаки) единиц физического урона.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**48,79%**
 -   ![](/images/ranks/Legend.webp)Легенда**48,94%**
@@ -132,33 +134,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**48,56%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,00%**
 
-## Место в мете
+## История
 
-«Алукард» — тир C в нашем тир-листе по проценту побед, 93-е место из 133 героев. В Мифической славе результат почти такой же: 49,00%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои леса
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
-
-## История героя
-
-![Алукард](/images/heroes/alucard.webp)
-
-«Охотник на демонов, ненавидящий тьму.»
-
-Полная история героя «Алукард» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Охотник на демонов, ненавидящий тьму.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Alucard)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=7)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alucard)
 
-## Буст на герое «Алукард»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -181,5 +163,3 @@ language: ru
 Какая сборка на героя «Алукард» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Топор войны» и «Бесконечная битва», эмблема убийцы с талантами «Трепет», «Мастер оружий» и «Временное правление» и заклинание «Возмездие». С ней выигрывают 59,21% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

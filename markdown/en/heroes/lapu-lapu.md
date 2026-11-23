@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier C
-
-# Lapu-Lapu in Mobile Legends: build, counters and stats
-
-Fighter, EXP Lane. Wins 48.08% of matches over the last 30 days: #109 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier C
-
 ![](/images/heroes/lapu-lapu.webp)
 
-**Lapu-Lapu**Ban 0.27% · Pick 0.34%
+Tier C
 
-Counters
+# Lapu-Lapu
 
-![](/images/heroes/silvanna.webp)![](/images/heroes/popol-and-kupa.webp)![](/images/heroes/hanabi.webp)
+Fighter · EXP Lane
 
-Win rate, 30 days**48.08%**
+**#109 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**48.08%**win rate, 30 days
+Win rate
 
-**0.34%**pick rate
+48.08%
 
-**0.27%**ban rate
+Pick rate
 
-**47.18%**wins in Mythical Glory
+0.34%
 
-## Lapu-Lapu build
+Ban rate
 
-The most picked setup for EXP Lane Lapu-Lapu in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.27%
+
+Chase · Burst · Difficulty 60/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,79 +51,84 @@ Battle spell
 
 Wins with this build **56.32%**Picked in **5.05%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · Brave Smite**54.62%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · Brave Smite**58.21%**
+Core items
 
-## Lapu-Lapu skills
+![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/2208.webp)Queen's Wings
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Bravest Fighter** → **Justice Blades** → **Jungle Warrior**
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/731.webp)Brave Smite
 
--   ![](/images/mlbb/skills/lapu-lapu-0.webp)
+Battle spell
 
-    **Homeland Defender**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Lapu-Lapu gains 10 Bravery Blessing each time he deals damage (halved against non-hero units).
-    At max Bravery Blessing stacks, he dashes toward the target with his next Basic Attack, dealing (+150% Total Physical Attack) Physical Damage (cannot Crit) and granting him a 250 (+65\*Hero Level) shield for 2.5s.
+Wins with this build **54.62%**Picked in **9.68%** of matches
 
--   ![](/images/mlbb/skills/lapu-lapu-1.webp)
+Core items
 
-    **Justice Blades**Skill 1CD 6 s
+![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2208.webp)Queen's Wings
 
-    Lapu-Lapu releases two boomerangs in the target direction, each boomerang dealing 140 (+50% Total Physical Attack) Physical Damage to enemies hit on its way out and back.
-    Enemies hit by both boomerangs take 50% damage from the second hit.
+Emblem and talents
 
--   ![](/images/mlbb/skills/lapu-lapu-2.webp)
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/731.webp)Brave Smite
 
-    **Jungle Warrior**Skill 2CD 10 s
+Battle spell
 
-    Lapu-Lapu dashes in the target direction, dealing 100 (+50% Total Physical Attack) Physical Damage to enemies along the way.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/lapu-lapu-3.webp)
+Wins with this build **58.21%**Picked in **4.15%** of matches
 
-    **Bravest Fighter**UltimateCD 30 s
+## Counters and teammates
 
-    Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing 300 (+80% Total Physical Attack) Physical Damage to nearby enemies upon landing and slowing them by 60% for 1s.
-    Lapu-Lapu gains 3 times the normal amount of Bravery Blessing from this skill and skills cast in the transformed state.
-    Lapu-Lapu then enters the Great Sword stance for 10s, gaining 30 , enhancing all his skills, and increasing his Basic Attack damage to 120%.
-    This skill cannot be interrupted.
+### Counters
 
+[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
 
--   Role**Fighter**
--   Lane**EXP Lane**
--   Among fighters**#36 of 44**
--   In the EXP Lane**#34 of 42**
--   Speciality**Chase, Burst**
--   Difficulty**Medium (60/100)**
+### Teammates
 
-## Who counters Lapu-Lapu
+Win rate gain when playing together
 
-Lapu-Lapu loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
+[![](/images/heroes/thamuz.webp)Thamuz+2.89 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/sun.webp)Sun+2.34 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/bane.webp)Bane+1.32 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/alucard.webp)Alucard+1.28 pp](https://boostmlbb.ru/en/heroes/alucard.html)
 
-[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Vale](/images/heroes/vale.webp)Vale50.10%](https://boostmlbb.ru/en/heroes/vale.html)
+## Skills
 
-## Who Lapu-Lapu is strong against
+Level-up priority · Bravest Fighter → Justice Blades → Jungle Warrior
 
-Lapu-Lapu is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/lapu-lapu-0.webp)Passive**Homeland Defender**
 
-[![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)
+Lapu-Lapu gains 10 Bravery Blessing each time he deals damage (halved against non-hero units).
+At max Bravery Blessing stacks, he dashes toward the target with his next Basic Attack, dealing (+150% Total Physical Attack) Physical Damage (cannot Crit) and granting him a 250 (+65\*Hero Level) shield for 2.5s.
 
-## Best teammates for Lapu-Lapu
+![](/images/mlbb/skills/lapu-lapu-1.webp)Skill 1**Justice Blades**
 
-With these heroes on the same team Lapu-Lapu wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 6 s**
 
-[![Thamuz](/images/heroes/thamuz.webp)Thamuz+2.89 pts](https://boostmlbb.ru/en/heroes/thamuz.html)[![Sun](/images/heroes/sun.webp)Sun+2.34 pts](https://boostmlbb.ru/en/heroes/sun.html)[![Bane](/images/heroes/bane.webp)Bane+1.32 pts](https://boostmlbb.ru/en/heroes/bane.html)[![Alucard](/images/heroes/alucard.webp)Alucard+1.28 pts](https://boostmlbb.ru/en/heroes/alucard.html)
+Lapu-Lapu releases two boomerangs in the target direction, each boomerang dealing 140 (+50% Total Physical Attack) Physical Damage to enemies hit on its way out and back.
+Enemies hit by both boomerangs take 50% damage from the second hit.
+
+![](/images/mlbb/skills/lapu-lapu-2.webp)Skill 2**Jungle Warrior**
+
+**Cooldown 10 s**
+
+Lapu-Lapu dashes in the target direction, dealing 100 (+50% Total Physical Attack) Physical Damage to enemies along the way.
+
+![](/images/mlbb/skills/lapu-lapu-3.webp)Ultimate**Bravest Fighter**
+
+**Cooldown 30 s**
+
+Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing 300 (+80% Total Physical Attack) Physical Damage to nearby enemies upon landing and slowing them by 60% for 1s.
+Lapu-Lapu gains 3 times the normal amount of Bravery Blessing from this skill and skills cast in the transformed state.
+Lapu-Lapu then enters the Great Sword stance for 10s, gaining 30 , enhancing all his skills, and increasing his Basic Attack damage to 120%.
+This skill cannot be interrupted.
 
 ## Win rate by rank
-
-Best result in Epic (50.82%), weakest in Mythical Glory (47.18%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.82%**
 -   ![](/images/ranks/Legend.webp)Legend**49.50%**
@@ -133,33 +136,13 @@ Best result in Epic (50.82%), weakest in Mythical Glory (47.18%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.41%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**47.18%**
 
-## Place in the meta
-
-Lapu-Lapu sits in tier C of our win-rate tier list and ranks 109 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 47.18% against 48.08% across all ranks, a 0.90-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Lapu-Lapu](/images/heroes/lapu-lapu.webp)
+Hero who defends the Vonetis Islands from outsiders
 
-«Hero who defends the Vonetis Islands from outsiders»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=37)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lapu-Lapu)
 
-Lapu-Lapu’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Lapu_Lapu)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=37)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lapu-Lapu)
-
-## Boost on Lapu-Lapu
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -182,5 +165,3 @@ Tier C: #109 of 133 heroes by 30-day win rate and #36 among fighters.
 What is the best build for Lapu-Lapu?
 
 The most popular ranked build: War Axe, Queen's Wings and Oracle as core items, the Fighter emblem with Thrill, Festival of Blood and Brave Smite, and Flicker. It wins 56.32% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

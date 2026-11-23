@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Freya in Mobile Legends: build, counters and stats
-
-Fighter, EXP Lane or Jungle. Wins 49.32% of matches over the last 30 days: #84 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/freya.webp)
 
-**Freya**Ban 4.76% · Pick 0.89%
+Tier B
 
-Counters
+# Freya
 
-![](/images/heroes/masha.webp)![](/images/heroes/yve.webp)![](/images/heroes/lolita.webp)
+Fighter · EXP Lane or Jungle
 
-Win rate, 30 days**49.32%**
+**#84 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**49.32%**win rate, 30 days
+Win rate
 
-**0.89%**pick rate
+49.32%
 
-**4.76%**ban rate
+Pick rate
 
-**51.07%**wins in Mythical Glory
+0.89%
 
-## Freya build
+Ban rate
 
-The most picked setup for EXP Lane Freya in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+4.76%
+
+Chase · Damage · Difficulty 40/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,78 +51,82 @@ Battle spell
 
 Wins with this build **60.37%**Picked in **5.61%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20190.webp)Vengeance![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · War Cry**60.06%**
--   ![](/images/mlbb/spells/20190.webp)Vengeance![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · War Cry**57.95%**
+Core items
 
-## Freya skills
+![](/images/mlbb/items/2009.webp)Golden Staff![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3012.webp)Rose Gold Meteor
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Valkyrie Descent** → **Valkyrie Slash** → **Leap of Faith**
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/133.webp)War Cry
 
--   ![](/images/mlbb/skills/freya-0.webp)
+Battle spell
 
-    **Power of Einherjar**Passive
+![](/images/mlbb/spells/20190.webp)Vengeance
 
-    Freya gains 1 Sacred Orb stack(s) with each Basic Attack (up to 6 stacks). Consuming 1 stack(s) of Sacred Orb grants Freya 100% Attack Speed for her next Basic Attack and recovers 20 (+3\*Hero Level) (+20% Total Physical Attack) HP (up to 6 stacks).
-    While out of combat, Sacred Orb stacks are gradually restored.
+Wins with this build **60.06%**Picked in **6.28%** of matches
 
--   ![](/images/mlbb/skills/freya-1.webp)
+Core items
 
-    **Leap of Faith**Skill 1CD 8 s
+![](/images/mlbb/items/2009.webp)Golden Staff![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2013.webp)War Axe
 
-    Freya leaps to the target area and strikes the ground with her shield, gaining 500 (+100% Total Physical Attack) shield and dealing 200 (+80% Extra Physical Attack) Physical Damage to enemies within while knocking them airborne for 0.4s.
+Emblem and talents
 
--   ![](/images/mlbb/skills/freya-2.webp)
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/133.webp)War Cry
 
-    **Valkyrie Slash**Skill 2CD 0.396 s
+Battle spell
 
-    Freya charges forward and slashes, dealing 150 (+50% Total Physical Attack) Physical Damage and slowing enemies by 30% for 0.5s. This skill has no base cooldown but consumes 2 Sacred Orbs per cast.
-    This skill deals 50% damage to creeps.
+![](/images/mlbb/spells/20190.webp)Vengeance
 
--   ![](/images/mlbb/skills/freya-3.webp)
+Wins with this build **57.95%**Picked in **2.99%** of matches
 
-    **Valkyrie Descent**UltimateCD 60 s
+## Counters and teammates
 
-    Freya dives toward the target area, gaining Control Immunity. She deals 300 (+75% Total Physical Attack) Physical Damage to enemies along her path and in the landing area. Enemies hit are slowed by 40% for 2s.
-    Upon landing, Freya enters the Valkyrie state for 10s and gains 30 Movement Speed. Her Basic Attacks deal 100 (+70% Total Physical Attack) Splash Damage (only the bonus Physical Damage can Crit).
+### Counters
 
+[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
--   Role**Fighter**
--   Lane**EXP Lane or Jungle**
--   Among fighters**#27 of 44**
--   In the EXP Lane**#27 of 42**
--   In the jungle**#20 of 37**
--   Speciality**Chase, Damage**
--   Difficulty**Easy (40/100)**
+### Teammates
 
-## Who counters Freya
+Win rate gain when playing together
 
-Freya loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are tanks.
+[![](/images/heroes/zhuxin.webp)Zhuxin+2.99 pp](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/chip.webp)Chip+2.25 pp](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/harith.webp)Harith+2.17 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/yve.webp)Yve+2.16 pp](https://boostmlbb.ru/en/heroes/yve.html)
 
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)[![Kagura](/images/heroes/kagura.webp)Kagura51.09%](https://boostmlbb.ru/en/heroes/kagura.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)
+## Skills
 
-## Who Freya is strong against
+Level-up priority · Valkyrie Descent → Valkyrie Slash → Leap of Faith
 
-Freya is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/freya-0.webp)Passive**Power of Einherjar**
 
-[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Minsitthar](/images/heroes/minsitthar.webp)Minsitthar52.08%](https://boostmlbb.ru/en/heroes/minsitthar.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)
+Freya gains 1 Sacred Orb stack(s) with each Basic Attack (up to 6 stacks). Consuming 1 stack(s) of Sacred Orb grants Freya 100% Attack Speed for her next Basic Attack and recovers 20 (+3\*Hero Level) (+20% Total Physical Attack) HP (up to 6 stacks).
+While out of combat, Sacred Orb stacks are gradually restored.
 
-## Best teammates for Freya
+![](/images/mlbb/skills/freya-1.webp)Skill 1**Leap of Faith**
 
-With these heroes on the same team Freya wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 8 s**
 
-[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin+2.99 pts](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Chip](/images/heroes/chip.webp)Chip+2.25 pts](https://boostmlbb.ru/en/heroes/chip.html)[![Harith](/images/heroes/harith.webp)Harith+2.17 pts](https://boostmlbb.ru/en/heroes/harith.html)[![Yve](/images/heroes/yve.webp)Yve+2.16 pts](https://boostmlbb.ru/en/heroes/yve.html)
+Freya leaps to the target area and strikes the ground with her shield, gaining 500 (+100% Total Physical Attack) shield and dealing 200 (+80% Extra Physical Attack) Physical Damage to enemies within while knocking them airborne for 0.4s.
+
+![](/images/mlbb/skills/freya-2.webp)Skill 2**Valkyrie Slash**
+
+**Cooldown 0.396 s**
+
+Freya charges forward and slashes, dealing 150 (+50% Total Physical Attack) Physical Damage and slowing enemies by 30% for 0.5s. This skill has no base cooldown but consumes 2 Sacred Orbs per cast.
+This skill deals 50% damage to creeps.
+
+![](/images/mlbb/skills/freya-3.webp)Ultimate**Valkyrie Descent**
+
+**Cooldown 60 s**
+
+Freya dives toward the target area, gaining Control Immunity. She deals 300 (+75% Total Physical Attack) Physical Damage to enemies along her path and in the landing area. Enemies hit are slowed by 40% for 2s.
+Upon landing, Freya enters the Valkyrie state for 10s and gains 30 Movement Speed. Her Basic Attacks deal 100 (+70% Total Physical Attack) Splash Damage (only the bonus Physical Damage can Crit).
 
 ## Win rate by rank
-
-Best result in Mythical Glory (51.07%), weakest in Epic (47.34%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.34%**
 -   ![](/images/ranks/Legend.webp)Legend**47.52%**
@@ -132,33 +134,13 @@ Best result in Mythical Glory (51.07%), weakest in Epic (47.34%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.53%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.07%**
 
-## Place in the meta
-
-Freya sits in tier B of our win-rate tier list and ranks 84 of 133 heroes. In Mythical Glory the win rate is higher: 51.07% against 49.32% across all ranks, a 1.75-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Freya](/images/heroes/freya.webp)
+The Valkyrie who guards the Northern Vale.
 
-«The Valkyrie who guards the Northern Vale.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=22)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Freya)
 
-Freya’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/FreyaValkyrie?is_preview=1)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=22)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Freya)
-
-## Boost on Freya
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -181,5 +163,3 @@ Tier B: #84 of 133 heroes by 30-day win rate and #27 among fighters.
 What is the best build for Freya?
 
 The most popular ranked build: Golden Staff, War Axe and Endless Battle as core items, the Fighter emblem with Thrill, Festival of Blood and War Cry, and Vengeance. It wins 60.37% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Ixia in Mobile Legends: build, counters and stats
-
-Marksman, Gold Lane. Wins 50.08% of matches over the last 30 days: #62 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/ixia.webp)
 
-**Ixia**Ban 0.80% · Pick 0.76%
+Tier B
 
-Counters
+# Ixia
 
-![](/images/heroes/estes.webp)![](/images/heroes/rafaela.webp)![](/images/heroes/cyclops.webp)
+Marksman · Gold Lane
 
-Win rate, 30 days**50.08%**
+**#62 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**50.08%**win rate, 30 days
+Win rate
 
-**0.76%**pick rate
+50.08%
 
-**0.80%**ban rate
+Pick rate
 
-**50.48%**wins in Mythical Glory
+0.76%
 
-## Ixia build
+Ban rate
 
-The most picked setup for Gold Lane Ixia in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.80%
+
+Finisher · Damage · Difficulty 30/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Gold Lane
 
 Core items
 
@@ -53,77 +51,82 @@ Battle spell
 
 Wins with this build **54.45%**Picked in **6.22%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20012.webp)MarksmanThrill · Weapons Master · War Cry**56.12%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20012.webp)MarksmanThrill · Weapons Master · War Cry**54.61%**
+Core items
 
-## Ixia skills
+![](/images/mlbb/items/3013.webp)Sea Halberd![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3015.webp)Malefic Gun
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Full Barrage** → **Dual Beam** → **Star Helix**
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/133.webp)War Cry
 
--   ![](/images/mlbb/skills/ixia-0.webp)
+Battle spell
 
-    **Siphon Starlium**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack consumes the stacks and is replaced by Siphon Starlium, dealing (+150% Total Physical Attack) +(+10\*Hero Level) Physical Damage to the target. Ixia recovers HP equal to the damage dealt (only 10 % against non-hero units) and slows the target by 25% for 1s.
-    Siphon Starlium can hit all enemies in front of Ixia within her Basic Attack range, but it cannot Crit.
-    Ixia's Basic Attacks cannot trigger Lifesteal.
+Wins with this build **56.12%**Picked in **8.24%** of matches
 
--   ![](/images/mlbb/skills/ixia-1.webp)
+Core items
 
-    **Dual Beam**Skill 1CD 4 Mana Cost: 35 s
+![](/images/mlbb/items/3013.webp)Sea Halberd![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2014.webp)Sky Piercer
 
-    Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing 100 (+70% Total Physical Attack) Physical Damage to enemies in a rectangular area. When hitting enemy heroes, Ixia gains 50% Movement Speed for 2s.
-    Enemies hit by both beams will take double damage.
+Emblem and talents
 
--   ![](/images/mlbb/skills/ixia-2.webp)
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/133.webp)War Cry
 
-    **Star Helix**Skill 2CD 11 Mana Cost: 65 s
+Battle spell
 
-    Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies. After a short delay, it pulls enemies in range to the center line and deals 200 (+60% Total Physical Attack) Physical Damage.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/ixia-3.webp)
+Wins with this build **54.61%**Picked in **6.13%** of matches
 
-    **Full Barrage**UltimateCD 42 Mana Cost: 120 s
+## Counters and teammates
 
-    Ixia reassembles her weapon into 6 smaller weapons and enters the Full Barrage state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her, but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and Siphon Starlium will fire simultaneously with her normal Basic Attacks.
+### Counters
 
+[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
 
--   Role**Marksman**
--   Lane**Gold Lane**
--   Among marksmen**#11 of 23**
--   In the Gold Lane**#10 of 21**
--   Speciality**Finisher, Damage**
--   Difficulty**Easy (30/100)**
+### Teammates
 
-## Who counters Ixia
+Win rate gain when playing together
 
-Ixia loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are supports.
+[![](/images/heroes/diggie.webp)Diggie+7.38 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/harith.webp)Harith+5.31 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/baxia.webp)Baxia+3.93 pp](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/estes.webp)Estes+2.61 pp](https://boostmlbb.ru/en/heroes/estes.html)
 
-[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
+## Skills
 
-## Who Ixia is strong against
+Level-up priority · Full Barrage → Dual Beam → Star Helix
 
-Ixia is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/ixia-0.webp)Passive**Siphon Starlium**
 
-[![Selena](/images/heroes/selena.webp)Selena48.34%](https://boostmlbb.ru/en/heroes/selena.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Chou](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)
+Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack consumes the stacks and is replaced by Siphon Starlium, dealing (+150% Total Physical Attack) +(+10\*Hero Level) Physical Damage to the target. Ixia recovers HP equal to the damage dealt (only 10 % against non-hero units) and slows the target by 25% for 1s.
+Siphon Starlium can hit all enemies in front of Ixia within her Basic Attack range, but it cannot Crit.
+Ixia's Basic Attacks cannot trigger Lifesteal.
 
-## Best teammates for Ixia
+![](/images/mlbb/skills/ixia-1.webp)Skill 1**Dual Beam**
 
-With these heroes on the same team Ixia wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 4 Mana Cost: 35 s**
 
-[![Diggie](/images/heroes/diggie.webp)Diggie+7.38 pts](https://boostmlbb.ru/en/heroes/diggie.html)[![Harith](/images/heroes/harith.webp)Harith+5.31 pts](https://boostmlbb.ru/en/heroes/harith.html)[![Baxia](/images/heroes/baxia.webp)Baxia+3.93 pts](https://boostmlbb.ru/en/heroes/baxia.html)[![Estes](/images/heroes/estes.webp)Estes+2.61 pts](https://boostmlbb.ru/en/heroes/estes.html)
+Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing 100 (+70% Total Physical Attack) Physical Damage to enemies in a rectangular area. When hitting enemy heroes, Ixia gains 50% Movement Speed for 2s.
+Enemies hit by both beams will take double damage.
+
+![](/images/mlbb/skills/ixia-2.webp)Skill 2**Star Helix**
+
+**Cooldown 11 Mana Cost: 65 s**
+
+Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies. After a short delay, it pulls enemies in range to the center line and deals 200 (+60% Total Physical Attack) Physical Damage.
+
+![](/images/mlbb/skills/ixia-3.webp)Ultimate**Full Barrage**
+
+**Cooldown 42 Mana Cost: 120 s**
+
+Ixia reassembles her weapon into 6 smaller weapons and enters the Full Barrage state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her, but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and Siphon Starlium will fire simultaneously with her normal Basic Attacks.
 
 ## Win rate by rank
-
-Best result in Mythical Glory (50.48%), weakest in Epic (49.27%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**49.27%**
 -   ![](/images/ranks/Legend.webp)Legend**50.01%**
@@ -131,33 +134,13 @@ Best result in Mythical Glory (50.48%), weakest in Epic (49.27%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.75%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**50.48%**
 
-## Place in the meta
-
-Ixia sits in tier B of our win-rate tier list and ranks 62 of 133 heroes. In Mythical Glory the result is almost the same: 50.48%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Gold Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
-
 ## Lore
 
-![Ixia](/images/heroes/ixia.webp)
+The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a stolen Starlium reactor.
 
-«The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a stolen Starlium reactor.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Lxia)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=121)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ixia)
 
-Ixia’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Lxia)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=121)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Ixia)
-
-## Boost on Ixia
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -180,5 +163,3 @@ Tier B: #62 of 133 heroes by 30-day win rate and #11 among marksmen.
 What is the best build for Ixia?
 
 The most popular ranked build: Sea Halberd, Sky Piercer and Corrosion Scythe as core items, the Marksman emblem with Thrill, Weapons Master and War Cry, and Flicker. It wins 54.45% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

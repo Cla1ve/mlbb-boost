@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир C
-
-# Кэрри в Mobile Legends: сборка, контрпики и статистика
-
-Стрелок, линия золота. Выигрывает 48,87% матчей за последние 30 дней — 94-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир C
-
 ![](/images/heroes/karrie.webp)
 
-**Кэрри**Бан 0,87% · Выбор 0,57%
+Тир C
 
-Контрпики
+# Кэрри
 
-![](/images/heroes/alice.webp)![](/images/heroes/baxia.webp)![](/images/heroes/esmeralda.webp)
+Стрелок · Линия золота
 
-Победы за 30 дней**48,87%**
+**№ 94 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**48,87%**побед за 30 дней
+Победы
 
-**0,57%**выбирают в матчах
+48,87%
 
-**0,87%**банят в матчах
+Выбор
 
-**48,67%**побед в Мифической славе
+0,57%
 
-## Сборка на героя «Кэрри»
+Баны
 
-Самая популярная сборка для героя «Кэрри» на роли линии золота в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,87%
+
+Добивание · Урон · Сложность 40/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Линия золота
 
 Ключевые предметы
 
@@ -53,76 +51,81 @@ language: ru
 
 Побед с этой сборкой **54,51%**Выбирают в **3,63%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20007.webp)Эмблема бойцаТрепет · Кровавое пиршество · Квантовый заряд**54,23%**
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20007.webp)Эмблема бойцаПроворность · Кровавое пиршество · Квантовый заряд**55,89%**
+Ключевые предметы
 
-## Навыки героя «Кэрри»
+![](/images/mlbb/items/2008.webp)Коса коррозии![](/images/mlbb/items/2009.webp)Золотой посох![](/images/mlbb/items/2006.webp)Меч охотника на демонов
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Проворный огонь** → **Фантомный шаг** → **Вращающийся огонь**
+![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/132.webp)Квантовый заряд
 
--   ![](/images/mlbb/skills/karrie-0.webp)
+Боевое заклинание
 
-    **Световое клеймо**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    Базовые атаки и навыки Кэрри при попадании отмечают цель зарядом светового клейма.
-    Как только количество световых клейм на ней достигнет 5, они превратятся в световой диск, который нанесет чистый урон, равный 5 от цели (максимум 5 урона против монстров).
+Побед с этой сборкой **54,23%**Выбирают в **10,24%** матчей
 
--   ![](/images/mlbb/skills/karrie-1.webp)
+Ключевые предметы
 
-    **Вращающийся огонь**1-й навыкПерезарядка 8 Mana Cost: 65 с
+![](/images/mlbb/items/2008.webp)Коса коррозии![](/images/mlbb/items/2009.webp)Золотой посох![](/images/mlbb/items/2006.webp)Меч охотника на демонов
 
-    Кэрри выпускает сферу бушующей энергии в указанном направлении, нанося 250 (+20% общей физической атаки) единиц физического урона врагам на пути. Сфера остановится при контакте с врагом или по достижении максимальной дистанции и будет непрерывно наносить 150 (+10% общей физической атаки) единиц физического урона врагам поблизости и замедлять их на 80%. Длится 1 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/karrie-2.webp)
+![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/112.webp)Проворность![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/132.webp)Квантовый заряд
 
-    **Фантомный шаг**2-й навыкПерезарядка 4.5 Mana Cost: 35 с
+Боевое заклинание
 
-    Кэрри прыгает в указанном направлении, бросая световой диск в ближайшего врага, нанося 150 (+70% общей физической атаки) единиц физического урона и накладывая на него заряд светового клейма.
-    В состоянии двойного вооружения Кэрри бросает два световых диска.
+![](/images/mlbb/spells/20100.webp)Вспышка
 
--   ![](/images/mlbb/skills/karrie-3.webp)
+Побед с этой сборкой **55,89%**Выбирают в **11,99%** матчей
 
-    **Проворный огонь**УльтимейтПерезарядка 35 Mana Cost: 100 с
+## Контрпики и союзники
 
-    Кэрри входит в состояние двойного вооружения на 10 сек., получая 30% скорости передвижения. Каждая базовая атака наносит 50 (+50% общей физической атаки) ед. физического урона и выпускает 2 световых диска, которые наследуют часть эффектов атаки.
+### Кто контрит
 
+[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
 
--   Роль**Стрелок**
--   Линия**Линия золота**
--   Среди стрелков**17-е из 23**
--   На линии золота**15-е из 21**
--   Специализация**Добивание, Урон**
--   Сложность**Низкая (40/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Кэрри» проигрывает чаще всего. Под иконкой — их собственный процент побед. 4 из 5 контрпиков — танки.
+[![](/images/heroes/harith.webp)Харит+2,65 п. п.](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/x-borg.webp)Икс.Борг+1,60 п. п.](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/hanzo.webp)Ханзо+1,13 п. п.](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/alice.webp)Алиса+1,04 п. п.](https://boostmlbb.ru/heroes/alice.html)
 
-[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Баксий](/images/heroes/baxia.webp)Баксий45,97%](https://boostmlbb.ru/heroes/baxia.html)[![Эсмеральда](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Проворный огонь → Фантомный шаг → Вращающийся огонь
 
-Для этих героев «Кэрри» — один из самых неудобных соперников.
+![](/images/mlbb/skills/karrie-0.webp)Пассивный**Световое клеймо**
 
-[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Гвиневра](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)[![Хаябуса](/images/heroes/hayabusa.webp)Хаябуса48,15%](https://boostmlbb.ru/heroes/hayabusa.html)[![Минситтар](/images/heroes/minsitthar.webp)Минситтар52,08%](https://boostmlbb.ru/heroes/minsitthar.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)
+Базовые атаки и навыки Кэрри при попадании отмечают цель зарядом светового клейма.
+Как только количество световых клейм на ней достигнет 5, они превратятся в световой диск, который нанесет чистый урон, равный 5 от цели (максимум 5 урона против монстров).
 
-## С кем играть в команде
+![](/images/mlbb/skills/karrie-1.webp)1-й навык**Вращающийся огонь**
 
-С этими героями в одной команде «Кэрри» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 8 Mana Cost: 65 с**
 
-[![Харит](/images/heroes/harith.webp)Харит+2,65 п. п.](https://boostmlbb.ru/heroes/harith.html)[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг+1,60 п. п.](https://boostmlbb.ru/heroes/x-borg.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо+1,13 п. п.](https://boostmlbb.ru/heroes/hanzo.html)[![Алиса](/images/heroes/alice.webp)Алиса+1,04 п. п.](https://boostmlbb.ru/heroes/alice.html)
+Кэрри выпускает сферу бушующей энергии в указанном направлении, нанося 250 (+20% общей физической атаки) единиц физического урона врагам на пути. Сфера остановится при контакте с врагом или по достижении максимальной дистанции и будет непрерывно наносить 150 (+10% общей физической атаки) единиц физического урона врагам поблизости и замедлять их на 80%. Длится 1 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/karrie-2.webp)2-й навык**Фантомный шаг**
 
-Лучший результат — на ранге «Мифическая честь» (49,47%), слабее всего — «Легенда» (48,34%). Данные за последние 30 дней.
+**Перезарядка 4.5 Mana Cost: 35 с**
+
+Кэрри прыгает в указанном направлении, бросая световой диск в ближайшего врага, нанося 150 (+70% общей физической атаки) единиц физического урона и накладывая на него заряд светового клейма.
+В состоянии двойного вооружения Кэрри бросает два световых диска.
+
+![](/images/mlbb/skills/karrie-3.webp)Ультимейт**Проворный огонь**
+
+**Перезарядка 35 Mana Cost: 100 с**
+
+Кэрри входит в состояние двойного вооружения на 10 сек., получая 30% скорости передвижения. Каждая базовая атака наносит 50 (+50% общей физической атаки) ед. физического урона и выпускает 2 световых диска, которые наследуют часть эффектов атаки.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**48,59%**
 -   ![](/images/ranks/Legend.webp)Легенда**48,34%**
@@ -130,33 +133,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**49,47%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**48,67%**
 
-## Место в мете
+## История
 
-«Кэрри» — тир C в нашем тир-листе по проценту побед, 94-е место из 133 героев. В Мифической славе результат почти такой же: 48,67%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Безразличный и могущественный Яссон.
 
-## Другие герои линии золота
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=40)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karrie)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)[![Обсидия](/images/heroes/obsidia.webp)Обсидия53,20%](https://boostmlbb.ru/heroes/obsidia.html)[![Иритель](/images/heroes/irithel.webp)Иритель52,74%](https://boostmlbb.ru/heroes/irithel.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Натан](/images/heroes/natan.webp)Натан51,32%](https://boostmlbb.ru/heroes/natan.html)
-
-## История героя
-
-![Кэрри](/images/heroes/karrie.webp)
-
-«Безразличный и могущественный Яссон.»
-
-Полная история героя «Кэрри» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=40)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=40)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Karrie)
-
-## Буст на герое «Кэрри»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -179,5 +162,3 @@ language: ru
 Какая сборка на героя «Кэрри» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Коса коррозии», «Золотой посох» и «Меч охотника на демонов», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Квантовый заряд» и заклинание «Очищение». С ней выигрывают 54,51% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

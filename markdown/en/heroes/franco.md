@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier D
-
-# Franco in Mobile Legends: build, counters and stats
-
-Tank, Roam. Wins 41.58% of matches over the last 30 days: #133 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier D
-
 ![](/images/heroes/franco.webp)
 
-**Franco**Ban 3.11% · Pick 0.94%
+Tier D
 
-Counters
+# Franco
 
-![](/images/heroes/diggie.webp)![](/images/heroes/angela.webp)![](/images/heroes/fanny.webp)
+Tank · Roam
 
-Win rate, 30 days**41.58%**
+**#133 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**41.58%**win rate, 30 days
+Win rate
 
-**0.94%**pick rate
+41.58%
 
-**3.11%**ban rate
+Pick rate
 
-**39.92%**wins in Mythical Glory
+0.94%
 
-## Franco build
+Ban rate
 
-The most picked setup for roam Franco in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+3.11%
+
+Initiator · Control · Difficulty 20/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Roam
 
 Core items
 
@@ -53,75 +51,80 @@ Battle spell
 
 Wins with this build **46.16%**Picked in **1.44%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20008.webp)SupportAgility · Pull Yourself Together · Focusing Mark**44.46%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20008.webp)SupportInspire · Pull Yourself Together · Concussive Blast**44.01%**
+Core items
 
-## Franco skills
+![](/images/mlbb/items/2107.webp)Winter Crown![](/images/mlbb/items/3109.webp)Fleeting Time![](/images/mlbb/items/3203.webp)Antique Cuirass
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Bloody Hunt** → **Iron Hook** → **Fury Shock**
+![](/images/mlbb/emblems/20008.webp)Support![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/831.webp)Focusing Mark
 
--   ![](/images/mlbb/skills/franco-0.webp)
+Battle spell
 
-    **Wasteland Force**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    If Franco takes no damage for 5s, he gains 10% Movement Speed, recovers 1% per second, and begins gaining Wasteland Force (up to 10 stacks).
-    Franco's next skill consumes all Wasteland Force stacks, increasing its damage by up to 150%.
+Wins with this build **44.46%**Picked in **3.15%** of matches
 
--   ![](/images/mlbb/skills/franco-1.webp)
+Core items
 
-    **Iron Hook**Skill 1CD 15 Mana Cost: 135 s
+![](/images/mlbb/items/2107.webp)Winter Crown![](/images/mlbb/items/3109.webp)Fleeting Time![](/images/mlbb/items/3203.webp)Antique Cuirass
 
-    Franco launches an Iron Hook in the target direction. The hook snags the first enemy unit hit, dealing 400 (+100% Total Physical Attack) Physical Damage and dragging them to him.
+Emblem and talents
 
--   ![](/images/mlbb/skills/franco-2.webp)
+![](/images/mlbb/emblems/20008.webp)Support![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/331.webp)Concussive Blast
 
-    **Fury Shock**Skill 2CD 7 Mana Cost: 40 s
+Battle spell
 
-    Franco lashes out, dealing 300 (+ 4% of his ) Physical Damage to nearby enemies, slowing them by 70% for 1.5s.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/franco-3.webp)
+Wins with this build **44.01%**Picked in **4.64%** of matches
 
-    **Bloody Hunt**UltimateCD 62 Mana Cost: 110 s
+## Counters and teammates
 
-    Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50 (+70% Total Physical Attack) Physical Damage.
+### Counters
 
+[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
--   Role**Tank**
--   Lane**Roam**
--   Among tanks**#25 of 25**
--   On roam**#34 of 34**
--   Speciality**Initiator, Control**
--   Difficulty**Easy (20/100)**
+### Teammates
 
-## Who counters Franco
+Win rate gain when playing together
 
-Franco loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are supports.
+[![](/images/heroes/hanabi.webp)Hanabi+2.14 pp](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/silvanna.webp)Silvanna+1.87 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/change.webp)Chang'e+1.65 pp](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/layla.webp)Layla+1.47 pp](https://boostmlbb.ru/en/heroes/layla.html)
 
-[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Angela](/images/heroes/angela.webp)Angela49.99%](https://boostmlbb.ru/en/heroes/angela.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)
+## Skills
 
-## Who Franco is strong against
+Level-up priority · Bloody Hunt → Iron Hook → Fury Shock
 
-Franco is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/franco-0.webp)Passive**Wasteland Force**
 
-[![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)
+If Franco takes no damage for 5s, he gains 10% Movement Speed, recovers 1% per second, and begins gaining Wasteland Force (up to 10 stacks).
+Franco's next skill consumes all Wasteland Force stacks, increasing its damage by up to 150%.
 
-## Best teammates for Franco
+![](/images/mlbb/skills/franco-1.webp)Skill 1**Iron Hook**
 
-With these heroes on the same team Franco wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 15 Mana Cost: 135 s**
 
-[![Hanabi](/images/heroes/hanabi.webp)Hanabi+2.14 pts](https://boostmlbb.ru/en/heroes/hanabi.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna+1.87 pts](https://boostmlbb.ru/en/heroes/silvanna.html)[![Chang'e](/images/heroes/change.webp)Chang'e+1.65 pts](https://boostmlbb.ru/en/heroes/change.html)[![Layla](/images/heroes/layla.webp)Layla+1.47 pts](https://boostmlbb.ru/en/heroes/layla.html)
+Franco launches an Iron Hook in the target direction. The hook snags the first enemy unit hit, dealing 400 (+100% Total Physical Attack) Physical Damage and dragging them to him.
+
+![](/images/mlbb/skills/franco-2.webp)Skill 2**Fury Shock**
+
+**Cooldown 7 Mana Cost: 40 s**
+
+Franco lashes out, dealing 300 (+ 4% of his ) Physical Damage to nearby enemies, slowing them by 70% for 1.5s.
+
+![](/images/mlbb/skills/franco-3.webp)Ultimate**Bloody Hunt**
+
+**Cooldown 62 Mana Cost: 110 s**
+
+Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50 (+70% Total Physical Attack) Physical Damage.
 
 ## Win rate by rank
-
-Best result in Epic (44.00%), weakest in Mythical Glory (39.92%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**44.00%**
 -   ![](/images/ranks/Legend.webp)Legend**42.12%**
@@ -129,33 +132,13 @@ Best result in Epic (44.00%), weakest in Mythical Glory (39.92%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**41.26%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**39.92%**
 
-## Place in the meta
-
-Franco sits in tier D of our win-rate tier list and ranks 133 of 133 heroes. In Mythical Glory the win rate is lower: 39.92% against 41.58% across all ranks, a 1.66-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Roam heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
-
 ## Lore
 
-![Franco](/images/heroes/franco.webp)
+Brave permafrost warrior, Bane's sworn enemy.
 
-«Brave permafrost warrior, Bane's sworn enemy.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Franco)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=10)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Franco)
 
-Franco’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Franco)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=10)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Franco)
-
-## Boost on Franco
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -178,5 +161,3 @@ Tier D: #133 of 133 heroes by 30-day win rate and #25 among tanks.
 What is the best build for Franco?
 
 The most popular ranked build: Dominance Ice, Fleeting Time and Athena's Shield as core items, the Tank emblem with Agility, Wilderness Blessing and Focusing Mark, and Flicker. It wins 46.16% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier D
-
-# Chou in Mobile Legends: build, counters and stats
-
-Fighter, EXP Lane or Roam. Wins 45.10% of matches over the last 30 days: #127 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier D
-
 ![](/images/heroes/chou.webp)
 
-**Chou**Ban 3.09% · Pick 1.04%
+Tier D
 
-Counters
+# Chou
 
-![](/images/heroes/x-borg.webp)![](/images/heroes/fanny.webp)![](/images/heroes/beatrix.webp)
+Fighter · EXP Lane or Roam
 
-Win rate, 30 days**45.10%**
+**#127 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**45.10%**win rate, 30 days
+Win rate
 
-**1.04%**pick rate
+45.10%
 
-**3.09%**ban rate
+Pick rate
 
-**44.70%**wins in Mythical Glory
+1.04%
 
-## Chou build
+Ban rate
 
-The most picked setup for EXP Lane Chou in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+3.09%
+
+Chase · Control · Difficulty 60/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,71 +51,77 @@ Battle spell
 
 Wins with this build **51.31%**Picked in **5.75%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20005.webp)AssassinThrill · Master Assassin · Lethal Ignition**55.08%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20005.webp)AssassinThrill · Master Assassin · Lethal Ignition**53.17%**
+Core items
 
-## Chou skills
+![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3008.webp)Blade of Despair![](/images/mlbb/items/3004.webp)Endless Battle
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **The Way of Dragon** → **Jeet Kune Do** → **Shunpo**
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/521.webp)Master Assassin![](/images/mlbb/talents/631.webp)Lethal Ignition
 
--   ![](/images/mlbb/skills/chou-0.webp)
+Battle spell
 
-    **Only Fast**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    After traveling 5 units, Chou deals 180% damage on his next Basic Attack (cannot Crit), briefly slows the target by 90%, and reduces their by 10 (+1\*Hero Level) for 3s (up to 2 stacks).
+Wins with this build **55.08%**Picked in **3.87%** of matches
 
--   ![](/images/mlbb/skills/chou-1.webp)
+Core items
 
-    **Jeet Kune Do**Skill 1CD 9.5 s
+![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3008.webp)Blade of Despair![](/images/mlbb/items/3001.webp)Malefic Roar
 
-    Chou strikes in the target direction, dealing 180 (+70% Total Physical Attack) Physical Damage to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne.
-    Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo.
+Emblem and talents
 
--   ![](/images/mlbb/skills/chou-2.webp)
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/521.webp)Master Assassin![](/images/mlbb/talents/631.webp)Lethal Ignition
 
-    **Shunpo**Skill 2CD 5 s
+Battle spell
 
-    Chou charges in the target direction, gaining Control Immunity and a 200 (+200% Extra Physical Attack) shield.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/chou-3.webp)
+Wins with this build **53.17%**Picked in **3.30%** of matches
 
-    **The Way of Dragon**UltimateCD 36 s
+## Counters and teammates
 
-    Chou strikes a roundhouse kick at the target enemy hero, dealing them 400 (+200% Extra Physical Attack) Physical Damage and knocking them back.
-    Cast the skill again to chase up the target, dealing a total of 480 (+240% Extra Physical Attack) Physical Damage.
+### Counters
 
+[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
-## Role and lane
+### Teammates
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+Win rate gain when playing together
 
--   Role**Fighter**
--   Lane**EXP Lane or Roam**
--   Among fighters**#44 of 44**
--   In the EXP Lane**#42 of 42**
--   On roam**#32 of 34**
--   Speciality**Chase, Control**
--   Difficulty**Medium (60/100)**
+[![](/images/heroes/bane.webp)Bane+1.96 pp](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/minotaur.webp)Minotaur+1.67 pp](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/grock.webp)Grock+1.57 pp](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/tigreal.webp)Tigreal+1.46 pp](https://boostmlbb.ru/en/heroes/tigreal.html)
 
-## Who counters Chou
+## Skills
 
-Chou loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are assassins.
+Level-up priority · The Way of Dragon → Jeet Kune Do → Shunpo
 
-[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Fanny](/images/heroes/fanny.webp)Fanny42.64%](https://boostmlbb.ru/en/heroes/fanny.html)[![Beatrix](/images/heroes/beatrix.webp)Beatrix50.35%](https://boostmlbb.ru/en/heroes/beatrix.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
+![](/images/mlbb/skills/chou-0.webp)Passive**Only Fast**
 
-## Best teammates for Chou
+After traveling 5 units, Chou deals 180% damage on his next Basic Attack (cannot Crit), briefly slows the target by 90%, and reduces their by 10 (+1\*Hero Level) for 3s (up to 2 stacks).
 
-With these heroes on the same team Chou wins more often. The number is the gain in win rate, in percentage points.
+![](/images/mlbb/skills/chou-1.webp)Skill 1**Jeet Kune Do**
 
-[![Bane](/images/heroes/bane.webp)Bane+1.96 pts](https://boostmlbb.ru/en/heroes/bane.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur+1.67 pts](https://boostmlbb.ru/en/heroes/minotaur.html)[![Grock](/images/heroes/grock.webp)Grock+1.57 pts](https://boostmlbb.ru/en/heroes/grock.html)[![Tigreal](/images/heroes/tigreal.webp)Tigreal+1.46 pts](https://boostmlbb.ru/en/heroes/tigreal.html)
+**Cooldown 9.5 s**
+
+Chou strikes in the target direction, dealing 180 (+70% Total Physical Attack) Physical Damage to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne.
+Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo.
+
+![](/images/mlbb/skills/chou-2.webp)Skill 2**Shunpo**
+
+**Cooldown 5 s**
+
+Chou charges in the target direction, gaining Control Immunity and a 200 (+200% Extra Physical Attack) shield.
+
+![](/images/mlbb/skills/chou-3.webp)Ultimate**The Way of Dragon**
+
+**Cooldown 36 s**
+
+Chou strikes a roundhouse kick at the target enemy hero, dealing them 400 (+200% Extra Physical Attack) Physical Damage and knocking them back.
+Cast the skill again to chase up the target, dealing a total of 480 (+240% Extra Physical Attack) Physical Damage.
 
 ## Win rate by rank
-
-Best result in Epic (45.38%), weakest in Mythical Glory (44.70%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**45.38%**
 -   ![](/images/ranks/Legend.webp)Legend**45.34%**
@@ -125,33 +129,13 @@ Best result in Epic (45.38%), weakest in Mythical Glory (44.70%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**45.32%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**44.70%**
 
-## Place in the meta
-
-Chou sits in tier D of our win-rate tier list and ranks 127 of 133 heroes. In Mythical Glory the result is almost the same: 44.70%. BOOST MLBB customers ordered 21 hero boosts on Chou over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Chou](/images/heroes/chou.webp)
+A talented fighter with a heart of chivalry.
 
-«A talented fighter with a heart of chivalry.»
+[Hero card](https://www.mobilelegends.com/hero/detail?heroid=26)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chou)
 
-Chou’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=26)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=26)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chou)
-
-## Boost on Chou
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -174,5 +158,3 @@ Tier D: #127 of 133 heroes by 30-day win rate and #44 among fighters.
 What is the best build for Chou?
 
 The most popular ranked build: Blade of the Heptaseas, Blade of Despair and Malefic Roar as core items, the Assassin emblem with Thrill, Master Assassin and Concussive Blast, and Flicker. It wins 51.31% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

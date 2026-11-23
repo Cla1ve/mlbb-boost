@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир D
-
-# Бальмонд в Mobile Legends: сборка, контрпики и статистика
-
-Боец, линия опыта или лес. Выигрывает 46,66% матчей за последние 30 дней — 121-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир D
-
 ![](/images/heroes/balmond.webp)
 
-**Бальмонд**Бан 0,39% · Выбор 0,64%
+Тир D
 
-Контрпики
+# Бальмонд
 
-![](/images/heroes/saber.webp)![](/images/heroes/lukas.webp)![](/images/heroes/barats.webp)
+Боец · Линия опыта или лес
 
-Победы за 30 дней**46,66%**
+**№ 121 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**46,66%**побед за 30 дней
+Победы
 
-**0,64%**выбирают в матчах
+46,66%
 
-**0,39%**банят в матчах
+Выбор
 
-**45,00%**побед в Мифической славе
+0,64%
 
-## Сборка на героя «Бальмонд»
+Баны
 
-Самая популярная сборка для героя «Бальмонд» на роли линии опыта в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,39%
+
+Урон · Регенерация · Сложность 20/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Линия опыта
 
 Ключевые предметы
 
@@ -53,78 +51,82 @@ language: ru
 
 Побед с этой сборкой **53,32%**Выбирают в **2,62%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20003.webp)Эмблема танкаЖивучесть · Кровавое пиршество · Убийственный пир**52,06%**
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20003.webp)Эмблема танкаЖивучесть · Опытный охотник · Ударная волна**53,24%**
+Ключевые предметы
 
-## Навыки героя «Бальмонд»
+![](/images/mlbb/items/3201.webp)Проклятый шлем![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/2208.webp)Крылья королевы
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Смертельное противостояние** → **Удар торнадо** → **Ловушка для души**
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/311.webp)Живучесть![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/531.webp)Убийственный пир
 
--   ![](/images/mlbb/skills/balmond-0.webp)
+Боевое заклинание
 
-    **Кровожадность**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    Бальмонд восстанавливает 5% при убийстве миньона или монстра и 10% при убийстве героя или ассисте.
+Побед с этой сборкой **52,06%**Выбирают в **1,80%** матчей
 
--   ![](/images/mlbb/skills/balmond-1.webp)
+Ключевые предметы
 
-    **Ловушка для души**1-й навыкПерезарядка 8 с
+![](/images/mlbb/items/3201.webp)Проклятый шлем![](/images/mlbb/items/3212.webp)Наплечник наказания![](/images/mlbb/items/3204.webp)Оракул
 
-    Бальмонд совершает рывок в указанном направлении, нанося 150 (+60% общей физической атаки) единиц физического урона врагам на пути.
-    Он останавливается при попадании по вражескому герою, отбрасывая его и замедляя на 40% на 3 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/balmond-2.webp)
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/311.webp)Живучесть![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/331.webp)Ударная волна
 
-    **Удар торнадо**2-й навыкПерезарядка 6 с
+Боевое заклинание
 
-    Бальмонд получает 15% скорости передвижения и вращается с топором в течение 3 сек., нанося 30 (+1.3% Макс. ОЗ) (+25% общей физической атаки) единиц физического урона за попадание ближайшим врагам до 14 р.
-    Каждое попадание снижает цели на 5% (до 40%).
+![](/images/mlbb/spells/20100.webp)Вспышка
 
--   ![](/images/mlbb/skills/balmond-3.webp)
+Побед с этой сборкой **53,24%**Выбирают в **1,12%** матчей
 
-    **Смертельное противостояние**УльтимейтПерезарядка 34 с
+## Контрпики и союзники
 
-    Бальмонд совершает сокрушительный удар в указанном направлении, нанося 150 (+70% общей физической атаки) (+30% от потерянных цели) в виде чистого урона. Этот навык можно прервать только подавлением.
-    Урон по целям, не являющимся героями, ограничен 1000 ед. чистого урона.
+### Кто контрит
 
+[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
--   Роль**Боец**
--   Линия**Линия опыта или лес**
--   Среди бойцов**40-е из 44**
--   На линии опыта**39-е из 42**
--   В лесу**34-е из 37**
--   Специализация**Урон, Регенерация**
--   Сложность**Низкая (20/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Бальмонд» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — бойцы.
+[![](/images/heroes/sun.webp)Сан+2,35 п. п.](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/angela.webp)Ангела+2,22 п. п.](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/johnson.webp)Джонсон+1,71 п. п.](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/hanabi.webp)Ханаби+1,61 п. п.](https://boostmlbb.ru/heroes/hanabi.html)
 
-[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Чип](/images/heroes/chip.webp)Чип47,60%](https://boostmlbb.ru/heroes/chip.html)[![Мартис](/images/heroes/martis.webp)Мартис47,23%](https://boostmlbb.ru/heroes/martis.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Смертельное противостояние → Удар торнадо → Ловушка для души
 
-Для этих героев «Бальмонд» — один из самых неудобных соперников.
+![](/images/mlbb/skills/balmond-0.webp)Пассивный**Кровожадность**
 
-[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)[![Су Ё](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э48,20%](https://boostmlbb.ru/heroes/change.html)[![Кэрри](/images/heroes/karrie.webp)Кэрри48,87%](https://boostmlbb.ru/heroes/karrie.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)
+Бальмонд восстанавливает 5% при убийстве миньона или монстра и 10% при убийстве героя или ассисте.
 
-## С кем играть в команде
+![](/images/mlbb/skills/balmond-1.webp)1-й навык**Ловушка для души**
 
-С этими героями в одной команде «Бальмонд» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 8 с**
 
-[![Сан](/images/heroes/sun.webp)Сан+2,35 п. п.](https://boostmlbb.ru/heroes/sun.html)[![Ангела](/images/heroes/angela.webp)Ангела+2,22 п. п.](https://boostmlbb.ru/heroes/angela.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон+1,71 п. п.](https://boostmlbb.ru/heroes/johnson.html)[![Ханаби](/images/heroes/hanabi.webp)Ханаби+1,61 п. п.](https://boostmlbb.ru/heroes/hanabi.html)
+Бальмонд совершает рывок в указанном направлении, нанося 150 (+60% общей физической атаки) единиц физического урона врагам на пути.
+Он останавливается при попадании по вражескому герою, отбрасывая его и замедляя на 40% на 3 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/balmond-2.webp)2-й навык**Удар торнадо**
 
-Лучший результат — на ранге «Легенда» (47,50%), слабее всего — «Мифическая слава» (45,00%). Данные за последние 30 дней.
+**Перезарядка 6 с**
+
+Бальмонд получает 15% скорости передвижения и вращается с топором в течение 3 сек., нанося 30 (+1.3% Макс. ОЗ) (+25% общей физической атаки) единиц физического урона за попадание ближайшим врагам до 14 р.
+Каждое попадание снижает цели на 5% (до 40%).
+
+![](/images/mlbb/skills/balmond-3.webp)Ультимейт**Смертельное противостояние**
+
+**Перезарядка 34 с**
+
+Бальмонд совершает сокрушительный удар в указанном направлении, нанося 150 (+70% общей физической атаки) (+30% от потерянных цели) в виде чистого урона. Этот навык можно прервать только подавлением.
+Урон по целям, не являющимся героями, ограничен 1000 ед. чистого урона.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**47,21%**
 -   ![](/images/ranks/Legend.webp)Легенда**47,50%**
@@ -132,33 +134,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**45,99%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**45,00%**
 
-## Место в мете
+## История
 
-«Бальмонд» — тир D в нашем тир-листе по проценту побед, 121-е место из 133 героев. В Мифической славе процент побед ниже: 45,00% против 46,66% на всех рангах, разница 1,66 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Наступит день, когда орки сбросят оковы.
 
-## Другие герои линии опыта
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=2)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)
-
-## История героя
-
-![Бальмонд](/images/heroes/balmond.webp)
-
-«Наступит день, когда орки сбросят оковы.»
-
-Полная история героя «Бальмонд» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=2)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=2)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Balmond)
-
-## Буст на герое «Бальмонд»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -181,5 +163,3 @@ language: ru
 Какая сборка на героя «Бальмонд» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Проклятый шлем», «Топор войны» и «Крылья королевы», эмблема танка с талантами «Живучесть», «Кровавое пиршество» и «Убийственный пир» и заклинание «Месть». С ней выигрывают 53,32% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

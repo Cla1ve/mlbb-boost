@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier C
-
-# Roger in Mobile Legends: build, counters and stats
-
-Fighter and marksman, Jungle. Wins 48.33% of matches over the last 30 days: #103 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier C
-
 ![](/images/heroes/roger.webp)
 
-**Roger**Ban 0.09% · Pick 0.27%
+Tier C
 
-Counters
+# Roger
 
-![](/images/heroes/harley.webp)![](/images/heroes/gusion.webp)![](/images/heroes/silvanna.webp)
+Fighter and marksman · Jungle
 
-Win rate, 30 days**48.33%**
+**#103 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**48.33%**win rate, 30 days
+Win rate
 
-**0.27%**pick rate
+48.33%
 
-**0.09%**ban rate
+Pick rate
 
-**45.96%**wins in Mythical Glory
+0.27%
 
-## Roger build
+Ban rate
 
-The most picked setup for jungle Roger in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.09%
+
+Finisher · Burst · Difficulty 60/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Jungle
 
 Core items
 
@@ -53,74 +51,80 @@ Battle spell
 
 Wins with this build **56.45%**Picked in **4.25%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Killing Spree**56.72%**
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinSwift · Seasoned Hunter · Killing Spree**55.25%**
+Core items
 
-## Roger skills
+![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3002.webp)Haas' Claws
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Wolf Transformation** → **Open Fire** → **Hunter's Steps**
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
 
--   ![](/images/mlbb/skills/roger-0.webp)
+Battle spell
 
-    **Full Moon Curse**Passive
+![](/images/mlbb/spells/20020.webp)Retribution
 
-    Roger can freely switch between human and wolf forms.
-    In human form, Roger's attack deals extra damage equal to 4% of the target's current . In wolf form, his attack deals extra damage equal to 4% of the target's \[lost C6.
-    Extra damage against creeps is capped at 60.
+Wins with this build **56.72%**Picked in **6.15%** of matches
 
--   ![](/images/mlbb/skills/roger-1.webp)
+Core items
 
-    **Open Fire**Skill 1CD 7 Mana Cost: 50 s
+![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3012.webp)Rose Gold Meteor
 
-    Roger fires two quick shots in the target direction, dealing a total of 250 (+125% Total Physical Attack) Physical Damage to the enemy hit.
-    The first shot is a hunter net that slows the enemy by 80% for 1.5s.
-    The second is a bullet that reduces the enemy's by 10 for 5s.
+Emblem and talents
 
--   ![](/images/mlbb/skills/roger-2.webp)
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/531.webp)Killing Spree
 
-    **Hunter's Steps**Skill 2CD 10 Mana Cost: 50 s
+Battle spell
 
-    Roger gains 20% Movement Speed and 20% Attack Speed for 2.5s.
+![](/images/mlbb/spells/20020.webp)Retribution
 
--   ![](/images/mlbb/skills/roger-3.webp)
+Wins with this build **55.25%**Picked in **13.81%** of matches
 
-    **Wolf Transformation**UltimateCD 7.5 s
+## Counters and teammates
 
-    Roger lunges in the target direction and turns into wolf form, dealing 150 (+100% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 90% for 0.8s.
-    Passive: In wolf form, Roger gains 20 and 25 Movement Speed.
+### Counters
 
+[![](/images/heroes/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
-## Role and lane
+### Teammates
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+Win rate gain when playing together
 
--   Role**Fighter and marksman**
--   Lane**Jungle**
--   Among fighters**#34 of 44**
--   Among marksmen**#20 of 23**
--   In the jungle**#29 of 37**
--   Speciality**Finisher, Burst**
--   Difficulty**Medium (60/100)**
+[![](/images/heroes/layla.webp)Layla+2.19 pp](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/ixia.webp)Ixia+2.16 pp](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/hanabi.webp)Hanabi+1.98 pp](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/lesley.webp)Lesley+1.94 pp](https://boostmlbb.ru/en/heroes/lesley.html)
 
-## Who counters Roger
+## Skills
 
-Roger loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are assassins.
+Level-up priority · Wolf Transformation → Open Fire → Hunter's Steps
 
-[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Yin](/images/heroes/yin.webp)Yin49.62%](https://boostmlbb.ru/en/heroes/yin.html)
+![](/images/mlbb/skills/roger-0.webp)Passive**Full Moon Curse**
 
-## Best teammates for Roger
+Roger can freely switch between human and wolf forms.
+In human form, Roger's attack deals extra damage equal to 4% of the target's current . In wolf form, his attack deals extra damage equal to 4% of the target's \[lost C6.
+Extra damage against creeps is capped at 60.
 
-With these heroes on the same team Roger wins more often. The number is the gain in win rate, in percentage points.
+![](/images/mlbb/skills/roger-1.webp)Skill 1**Open Fire**
 
-[![Layla](/images/heroes/layla.webp)Layla+2.19 pts](https://boostmlbb.ru/en/heroes/layla.html)[![Ixia](/images/heroes/ixia.webp)Ixia+2.16 pts](https://boostmlbb.ru/en/heroes/ixia.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi+1.98 pts](https://boostmlbb.ru/en/heroes/hanabi.html)[![Lesley](/images/heroes/lesley.webp)Lesley+1.94 pts](https://boostmlbb.ru/en/heroes/lesley.html)
+**Cooldown 7 Mana Cost: 50 s**
+
+Roger fires two quick shots in the target direction, dealing a total of 250 (+125% Total Physical Attack) Physical Damage to the enemy hit.
+The first shot is a hunter net that slows the enemy by 80% for 1.5s.
+The second is a bullet that reduces the enemy's by 10 for 5s.
+
+![](/images/mlbb/skills/roger-2.webp)Skill 2**Hunter's Steps**
+
+**Cooldown 10 Mana Cost: 50 s**
+
+Roger gains 20% Movement Speed and 20% Attack Speed for 2.5s.
+
+![](/images/mlbb/skills/roger-3.webp)Ultimate**Wolf Transformation**
+
+**Cooldown 7.5 s**
+
+Roger lunges in the target direction and turns into wolf form, dealing 150 (+100% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 90% for 0.8s.
+Passive: In wolf form, Roger gains 20 and 25 Movement Speed.
 
 ## Win rate by rank
-
-Best result in Epic (50.73%), weakest in Mythical Glory (45.96%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.73%**
 -   ![](/images/ranks/Legend.webp)Legend**50.29%**
@@ -128,33 +132,13 @@ Best result in Epic (50.73%), weakest in Mythical Glory (45.96%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.49%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**45.96%**
 
-## Place in the meta
-
-Roger sits in tier C of our win-rate tier list and ranks 103 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 45.96% against 48.33% across all ranks, a 2.37-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Jungle heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
-
 ## Lore
 
-![Roger](/images/heroes/roger.webp)
+A werewolf wandering in the dark forest longing for revenge.
 
-«A werewolf wandering in the dark forest longing for revenge.»
+[Hero card](https://www.mobilelegends.com/hero/detail?heroid=39)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Roger)
 
-Roger’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=39)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=39)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Roger)
-
-## Boost on Roger
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -177,5 +161,3 @@ Tier C: #103 of 133 heroes by 30-day win rate and #34 among fighters.
 What is the best build for Roger?
 
 The most popular ranked build: Windtalker, Sky Piercer and Haas' Claws as core items, the Assassin emblem with Swift, Seasoned Hunter and Killing Spree, and Retribution. It wins 56.45% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

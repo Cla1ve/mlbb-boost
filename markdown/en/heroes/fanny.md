@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier D
-
-# Fanny in Mobile Legends: build, counters and stats
-
-Assassin, Jungle. Wins 42.64% of matches over the last 30 days: #132 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier D
-
 ![](/images/heroes/fanny.webp)
 
-**Fanny**Ban 1.95% · Pick 0.65%
+Tier D
 
-Counters
+# Fanny
 
-![](/images/heroes/granger.webp)![](/images/heroes/gloo.webp)![](/images/heroes/yve.webp)
+Assassin · Jungle
 
-Win rate, 30 days**42.64%**
+**#132 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**42.64%**win rate, 30 days
+Win rate
 
-**0.65%**pick rate
+42.64%
 
-**1.95%**ban rate
+Pick rate
 
-**42.85%**wins in Mythical Glory
+0.65%
 
-## Fanny build
+Ban rate
 
-The most picked setup for jungle Fanny in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+1.95%
+
+Chase · Finisher · Difficulty 100/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Jungle
 
 Core items
 
@@ -53,76 +51,81 @@ Battle spell
 
 Wins with this build **47.81%**Picked in **2.02%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinRupture · Festival of Blood · Lethal Ignition**51.32%**
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinRupture · Festival of Blood · Impure Rage**45.15%**
+Core items
 
-## Fanny skills
+![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3001.webp)Malefic Roar
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Cut Throat** → **Steel Cable** → **Tornado Strike**
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/631.webp)Lethal Ignition
 
--   ![](/images/mlbb/skills/fanny-0.webp)
+Battle spell
 
-    **Air Superiority**Passive
+![](/images/mlbb/spells/20020.webp)Retribution
 
-    While flying, Fanny deals 10%-20% extra damage to enemies hit based on her flying speed and applies 1 stack of Prey Mark with each hit (up to 2 stacks).
-    Her subsequent skill hits on marked enemy heroes restore 8 energy per stack. Energy restoration is reduced when multiple enemy heroes are hit within a short period.
+Wins with this build **51.32%**Picked in **1.68%** of matches
 
--   ![](/images/mlbb/skills/fanny-1.webp)
+Core items
 
-    **Tornado Strike**Skill 1CD 3.5 Energy Cost: 12 s
+![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3001.webp)Malefic Roar![](/images/mlbb/items/3012.webp)Rose Gold Meteor
 
-    Fanny whirls her blades, dealing 275 (+85% Total Physical Attack) Physical Damage to nearby enemies.
+Emblem and talents
 
--   ![](/images/mlbb/skills/fanny-2.webp)
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/131.webp)Impure Rage
 
-    **Steel Cable**Skill 2CD 0 Energy Cost: 19 s
+Battle spell
 
-    Fanny shoots a cable in the target direction, pulling herself toward the first obstacle it hits. She can recast this skill within 2s as long as she has enough energy. Each successive cast during this period costs 2 less energy.
-    While flying, Fanny automatically casts Tornado Strike when she hits an enemy if she has enough Energy.
+![](/images/mlbb/spells/20020.webp)Retribution
 
--   ![](/images/mlbb/skills/fanny-3.webp)
+Wins with this build **45.15%**Picked in **1.89%** of matches
 
-    **Cut Throat**UltimateCD 35 Energy Cost: 12 s
+## Counters and teammates
 
-    Fanny leaps at the target enemy hero or Creep with her blades, dealing 400 (+200% Extra Physical Attack) Physical Damage. Each stack of Prey Mark on the target increases this damage by 30%.
+### Counters
 
+[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
 
--   Role**Assassin**
--   Lane**Jungle**
--   Among assassins**#29 of 29**
--   In the jungle**#37 of 37**
--   Speciality**Chase, Finisher**
--   Difficulty**Hard (100/100)**
+### Teammates
 
-## Who counters Fanny
+Win rate gain when playing together
 
-Fanny loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are marksmen.
+[![](/images/heroes/joy.webp)Joy+2.15 pp](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/natan.webp)Natan+1.80 pp](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/bruno.webp)Bruno+1.69 pp](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/khufra.webp)Khufra+1.63 pp](https://boostmlbb.ru/en/heroes/khufra.html)
 
-[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Clint](/images/heroes/clint.webp)Clint50.33%](https://boostmlbb.ru/en/heroes/clint.html)
+## Skills
 
-## Who Fanny is strong against
+Level-up priority · Cut Throat → Steel Cable → Tornado Strike
 
-Fanny is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/fanny-0.webp)Passive**Air Superiority**
 
-[![Badang](/images/heroes/badang.webp)Badang50.19%](https://boostmlbb.ru/en/heroes/badang.html)[![Chou](/images/heroes/chou.webp)Chou45.10%](https://boostmlbb.ru/en/heroes/chou.html)[![Franco](/images/heroes/franco.webp)Franco41.58%](https://boostmlbb.ru/en/heroes/franco.html)[![Moskov](/images/heroes/moskov.webp)Moskov50.31%](https://boostmlbb.ru/en/heroes/moskov.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Kalea](/images/heroes/kalea.webp)Kalea50.44%](https://boostmlbb.ru/en/heroes/kalea.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)
+While flying, Fanny deals 10%-20% extra damage to enemies hit based on her flying speed and applies 1 stack of Prey Mark with each hit (up to 2 stacks).
+Her subsequent skill hits on marked enemy heroes restore 8 energy per stack. Energy restoration is reduced when multiple enemy heroes are hit within a short period.
 
-## Best teammates for Fanny
+![](/images/mlbb/skills/fanny-1.webp)Skill 1**Tornado Strike**
 
-With these heroes on the same team Fanny wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 3.5 Energy Cost: 12 s**
 
-[![Joy](/images/heroes/joy.webp)Joy+2.15 pts](https://boostmlbb.ru/en/heroes/joy.html)[![Natan](/images/heroes/natan.webp)Natan+1.80 pts](https://boostmlbb.ru/en/heroes/natan.html)[![Bruno](/images/heroes/bruno.webp)Bruno+1.69 pts](https://boostmlbb.ru/en/heroes/bruno.html)[![Khufra](/images/heroes/khufra.webp)Khufra+1.63 pts](https://boostmlbb.ru/en/heroes/khufra.html)
+Fanny whirls her blades, dealing 275 (+85% Total Physical Attack) Physical Damage to nearby enemies.
+
+![](/images/mlbb/skills/fanny-2.webp)Skill 2**Steel Cable**
+
+**Cooldown 0 Energy Cost: 19 s**
+
+Fanny shoots a cable in the target direction, pulling herself toward the first obstacle it hits. She can recast this skill within 2s as long as she has enough energy. Each successive cast during this period costs 2 less energy.
+While flying, Fanny automatically casts Tornado Strike when she hits an enemy if she has enough Energy.
+
+![](/images/mlbb/skills/fanny-3.webp)Ultimate**Cut Throat**
+
+**Cooldown 35 Energy Cost: 12 s**
+
+Fanny leaps at the target enemy hero or Creep with her blades, dealing 400 (+200% Extra Physical Attack) Physical Damage. Each stack of Prey Mark on the target increases this damage by 30%.
 
 ## Win rate by rank
-
-Best result in Epic (44.65%), weakest in Mythic (41.67%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**44.65%**
 -   ![](/images/ranks/Legend.webp)Legend**42.96%**
@@ -130,33 +133,13 @@ Best result in Epic (44.65%), weakest in Mythic (41.67%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**42.34%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**42.85%**
 
-## Place in the meta
-
-Fanny sits in tier D of our win-rate tier list and ranks 132 of 133 heroes. In Mythical Glory the result is almost the same: 42.85%. BOOST MLBB customers ordered 23 hero boosts on Fanny over the past year. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Jungle heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
-
 ## Lore
 
-![Fanny](/images/heroes/fanny.webp)
+A blade dancer in the battlefield.
 
-«A blade dancer in the battlefield.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Fanny)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=17)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fanny)
 
-Fanny’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Fanny)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=17)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fanny)
-
-## Boost on Fanny
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -179,5 +162,3 @@ Tier D: #132 of 133 heroes by 30-day win rate and #29 among assassins.
 What is the best build for Fanny?
 
 The most popular ranked build: Blade of the Heptaseas, Malefic Roar and Rose Gold Meteor as core items, the Assassin emblem with Rupture, Festival of Blood and Lethal Ignition, and Retribution. It wins 47.81% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

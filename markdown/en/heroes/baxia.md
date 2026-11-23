@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier D
-
-# Baxia in Mobile Legends: build, counters and stats
-
-Tank, Jungle or Roam. Wins 45.97% of matches over the last 30 days: #124 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier D
-
 ![](/images/heroes/baxia.webp)
 
-**Baxia**Ban 0.10% · Pick 0.05%
+Tier D
 
-Counters
+# Baxia
 
-![](/images/heroes/obsidia.webp)![](/images/heroes/alice.webp)![](/images/heroes/saber.webp)
+Tank · Jungle or Roam
 
-Win rate, 30 days**45.97%**
+**#124 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**45.97%**win rate, 30 days
+Win rate
 
-**0.05%**pick rate
+45.97%
 
-**0.10%**ban rate
+Pick rate
 
-**46.00%**wins in Mythical Glory
+0.05%
 
-## Baxia build
+Ban rate
 
-The most picked setup for jungle Baxia in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.10%
+
+Support · Damage · Difficulty 30/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Jungle
 
 Core items
 
@@ -53,79 +51,83 @@ Battle spell
 
 Wins with this build **51.27%**Picked in **4.33%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20003.webp)TankThrill · Seasoned Hunter · Concussive Blast**55.60%**
--   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20003.webp)TankVitality · Seasoned Hunter · Concussive Blast**55.45%**
+Core items
 
-## Baxia skills
+![](/images/mlbb/items/3201.webp)Cursed Helmet![](/images/mlbb/items/3212.webp)Chastise Pauldron![](/images/mlbb/items/3210.webp)Radiant Armor
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Tortoise’s Puissance** → **Shield of Spirit** → **Baxia-Shield Unity**
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/331.webp)Concussive Blast
 
--   ![](/images/mlbb/skills/baxia-0.webp)
+Battle spell
 
-    **Baxia Mark**Passive
+![](/images/mlbb/spells/20020.webp)Retribution
 
-    Baxia activates the "Baxia Mark" permanently, reducing the final damage received by 15 (+1\*Hero Level).
-    At the same time, Baxia will reduce the Shield and HP Regen of enemies hit by his skills by 40% for 4s.
+Wins with this build **55.60%**Picked in **4.39%** of matches
 
--   ![](/images/mlbb/skills/baxia-1.webp)
+Core items
 
-    **Baxia-Shield Unity**Skill 1CD 18 Mana Cost: 100 s
+![](/images/mlbb/items/3201.webp)Cursed Helmet![](/images/mlbb/items/3212.webp)Chastise Pauldron![](/images/mlbb/items/3210.webp)Radiant Armor
 
-    Baxia retracts himself into his shield and accelerates forward. When hitting an enemy unit, he will deal 300 (+60% Total Magic Power) Magic Damage to it and nearby enemies, stunning the target for 0.8s and slightly knocking nearby enemies back.
-    During the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike this hero, dealing 375 (+75% Total Magic Power) Magic Damage to this hero and nearby enemies, stunning the target hit for 1.5s, and slightly knocking other nearby enemy targets back.
+Emblem and talents
 
--   ![](/images/mlbb/skills/baxia-2.webp)
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/331.webp)Concussive Blast
 
-    **Shield of Spirit**Skill 2CD 7 Mana Cost: 20 s
+Battle spell
 
-    Baxia throws out his shield, dealing 120 (+100% Total Magic Power) (+ 5% target's ) Magic Damage to enemies along the way, marking them for 5s, and slowing them by 50% for 1s. The shield disappears upon hitting the first enemy hero or creep.
-    Baxia can cast the skill again in a short while. If an enemy hero or creep is hit by the skill, the skill's cooldown will be reduced to 15%.
+![](/images/mlbb/spells/20020.webp)Retribution
 
--   ![](/images/mlbb/skills/baxia-3.webp)
+Wins with this build **55.45%**Picked in **3.25%** of matches
 
-    **Tortoise’s Puissance**UltimateCD 40 Mana Cost: 150 s
+## Counters and teammates
 
-    Baxia holds his shield to the front and begins sprinting frantically, gaining 30% extra Movement Speed for 10s while leaving a lava path behind. Enemies on the path will take 40 (+30% Total Magic Power) Magic Damage and be slowed by 15% for 0.5s every 0.5s.
-    For the duration, the Damage Reduction effect from Baxia Mark is increased to 200%.
+### Counters
 
+[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
--   Role**Tank**
--   Lane**Jungle or Roam**
--   Among tanks**#22 of 25**
--   In the jungle**#35 of 37**
--   On roam**#29 of 34**
--   Speciality**Support, Damage**
--   Difficulty**Easy (30/100)**
+### Teammates
 
-## Who counters Baxia
+Win rate gain when playing together
 
-Baxia loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are mages.
+[![](/images/heroes/diggie.webp)Diggie+11.69 pp](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/granger.webp)Granger+8.54 pp](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/floryn.webp)Floryn+7.06 pp](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/ixia.webp)Ixia+3.93 pp](https://boostmlbb.ru/en/heroes/ixia.html)
 
-[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)
+## Skills
 
-## Who Baxia is strong against
+Level-up priority · Tortoise’s Puissance → Shield of Spirit → Baxia-Shield Unity
 
-Baxia is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/baxia-0.webp)Passive**Baxia Mark**
 
-[![Nolan](/images/heroes/nolan.webp)Nolan49.71%](https://boostmlbb.ru/en/heroes/nolan.html)[![Clint](/images/heroes/clint.webp)Clint50.33%](https://boostmlbb.ru/en/heroes/clint.html)[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Karrie](/images/heroes/karrie.webp)Karrie48.87%](https://boostmlbb.ru/en/heroes/karrie.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)[![Luo Yi](/images/heroes/luo-yi.webp)Luo Yi47.35%](https://boostmlbb.ru/en/heroes/luo-yi.html)
+Baxia activates the "Baxia Mark" permanently, reducing the final damage received by 15 (+1\*Hero Level).
+At the same time, Baxia will reduce the Shield and HP Regen of enemies hit by his skills by 40% for 4s.
 
-## Best teammates for Baxia
+![](/images/mlbb/skills/baxia-1.webp)Skill 1**Baxia-Shield Unity**
 
-With these heroes on the same team Baxia wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 18 Mana Cost: 100 s**
 
-[![Diggie](/images/heroes/diggie.webp)Diggie+11.69 pts](https://boostmlbb.ru/en/heroes/diggie.html)[![Granger](/images/heroes/granger.webp)Granger+8.54 pts](https://boostmlbb.ru/en/heroes/granger.html)[![Floryn](/images/heroes/floryn.webp)Floryn+7.06 pts](https://boostmlbb.ru/en/heroes/floryn.html)[![Ixia](/images/heroes/ixia.webp)Ixia+3.93 pts](https://boostmlbb.ru/en/heroes/ixia.html)
+Baxia retracts himself into his shield and accelerates forward. When hitting an enemy unit, he will deal 300 (+60% Total Magic Power) Magic Damage to it and nearby enemies, stunning the target for 0.8s and slightly knocking nearby enemies back.
+During the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike this hero, dealing 375 (+75% Total Magic Power) Magic Damage to this hero and nearby enemies, stunning the target hit for 1.5s, and slightly knocking other nearby enemy targets back.
+
+![](/images/mlbb/skills/baxia-2.webp)Skill 2**Shield of Spirit**
+
+**Cooldown 7 Mana Cost: 20 s**
+
+Baxia throws out his shield, dealing 120 (+100% Total Magic Power) (+ 5% target's ) Magic Damage to enemies along the way, marking them for 5s, and slowing them by 50% for 1s. The shield disappears upon hitting the first enemy hero or creep.
+Baxia can cast the skill again in a short while. If an enemy hero or creep is hit by the skill, the skill's cooldown will be reduced to 15%.
+
+![](/images/mlbb/skills/baxia-3.webp)Ultimate**Tortoise’s Puissance**
+
+**Cooldown 40 Mana Cost: 150 s**
+
+Baxia holds his shield to the front and begins sprinting frantically, gaining 30% extra Movement Speed for 10s while leaving a lava path behind. Enemies on the path will take 40 (+30% Total Magic Power) Magic Damage and be slowed by 15% for 0.5s every 0.5s.
+For the duration, the Damage Reduction effect from Baxia Mark is increased to 200%.
 
 ## Win rate by rank
-
-Best result in Epic (48.60%), weakest in Mythical Honor (44.74%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.60%**
 -   ![](/images/ranks/Legend.webp)Legend**47.03%**
@@ -133,33 +135,13 @@ Best result in Epic (48.60%), weakest in Mythical Honor (44.74%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**44.74%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**46.00%**
 
-## Place in the meta
-
-Baxia sits in tier D of our win-rate tier list and ranks 124 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the result is almost the same: 46.00%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Jungle heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
-
 ## Lore
 
-![Baxia](/images/heroes/baxia.webp)
+The Mystic Tortoise of the Oriental Fighters, a shield-wielding, unstoppable wheel of flames.
 
-«The Mystic Tortoise of the Oriental Fighters, a shield-wielding, unstoppable wheel of flames.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Baxia)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=87)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Baxia)
 
-Baxia’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Baxia)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=87)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Baxia)
-
-## Boost on Baxia
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -182,5 +164,3 @@ Tier D: #124 of 133 heroes by 30-day win rate and #22 among tanks.
 What is the best build for Baxia?
 
 The most popular ranked build: Antique Cuirass, Radiant Armor and Immortality as core items, the Tank emblem with Thrill, Seasoned Hunter and Concussive Blast, and Retribution. It wins 51.27% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

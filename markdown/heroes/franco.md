@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир D
-
-# Франко в Mobile Legends: сборка, контрпики и статистика
-
-Танк, роум. Выигрывает 41,58% матчей за последние 30 дней — 133-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир D
-
 ![](/images/heroes/franco.webp)
 
-**Франко**Бан 3,11% · Выбор 0,94%
+Тир D
 
-Контрпики
+# Франко
 
-![](/images/heroes/diggie.webp)![](/images/heroes/angela.webp)![](/images/heroes/fanny.webp)
+Танк · Роум
 
-Победы за 30 дней**41,58%**
+**№ 133 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**41,58%**побед за 30 дней
+Победы
 
-**0,94%**выбирают в матчах
+41,58%
 
-**3,11%**банят в матчах
+Выбор
 
-**39,92%**побед в Мифической славе
+0,94%
 
-## Сборка на героя «Франко»
+Баны
 
-Самая популярная сборка для героя «Франко» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+3,11%
+
+Инициатор · Контроль · Сложность 20/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,75 +51,80 @@ language: ru
 
 Побед с этой сборкой **46,16%**Выбирают в **1,44%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20008.webp)Эмблема поддержкиЛовкость · Второе дыхание · Фокус-метка**44,46%**
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20008.webp)Эмблема поддержкиВдохновение · Второе дыхание · Ударная волна**44,01%**
+Ключевые предметы
 
-## Навыки героя «Франко»
+![](/images/mlbb/items/2107.webp)Зимняя корона![](/images/mlbb/items/3109.webp)Мимолетное время![](/images/mlbb/items/3203.webp)Древняя кираса
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Кровавая охота** → **Железный крюк** → **Яростный удар**
+![](/images/mlbb/emblems/20008.webp)Эмблема поддержки![](/images/mlbb/talents/811.webp)Ловкость![](/images/mlbb/talents/821.webp)Второе дыхание![](/images/mlbb/talents/831.webp)Фокус-метка
 
--   ![](/images/mlbb/skills/franco-0.webp)
+Боевое заклинание
 
-    **Сила пустоши**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    Если Франко не получает урона в течение 5 сек., он получает 10% скорости передвижения, восстанавливает 1% в секунду и начинает накапливать "Силу пустоши" (до 10 зарядов).
-    Следующий навык Франко расходует все заряды "Силы пустоши", увеличивая его урон вплоть до 150%.
+Побед с этой сборкой **44,46%**Выбирают в **3,15%** матчей
 
--   ![](/images/mlbb/skills/franco-1.webp)
+Ключевые предметы
 
-    **Железный крюк**1-й навыкПерезарядка 15 Mana Cost: 135 с
+![](/images/mlbb/items/2107.webp)Зимняя корона![](/images/mlbb/items/3109.webp)Мимолетное время![](/images/mlbb/items/3203.webp)Древняя кираса
 
-    Франко бросает "Железный крюк" в указанном направлении, нанося 400 (+100% общей физической атаки) единиц физического урона первому пораженному врагу и притягивая его к себе.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/franco-2.webp)
+![](/images/mlbb/emblems/20008.webp)Эмблема поддержки![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/821.webp)Второе дыхание![](/images/mlbb/talents/331.webp)Ударная волна
 
-    **Яростный удар**2-й навыкПерезарядка 7 Mana Cost: 40 с
+Боевое заклинание
 
-    Франко буйствует, нанося 300 (+4% от его ) единиц физического урона ближайшим врагам, замедляя их на 70% на 1.5 сек.
+![](/images/mlbb/spells/20100.webp)Вспышка
 
--   ![](/images/mlbb/skills/franco-3.webp)
+Побед с этой сборкой **44,01%**Выбирают в **4,64%** матчей
 
-    **Кровавая охота**УльтимейтПерезарядка 62 Mana Cost: 110 с
+## Контрпики и союзники
 
-    Франко подавляет указанного вражеского героя в течение 1.8 сек. и бьет его 6 раз, каждым ударом нанося 50 (+70% общей физической атаки) единиц физического урона.
+### Кто контрит
 
+[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
--   Роль**Танк**
--   Линия**Роум**
--   Среди танков**25-е из 25**
--   В роуме**34-е из 34**
--   Специализация**Инициатор, Контроль**
--   Сложность**Низкая (20/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Франко» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
+[![](/images/heroes/hanabi.webp)Ханаби+2,14 п. п.](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/silvanna.webp)Сильвана+1,87 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/change.webp)Чан'Э+1,65 п. п.](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/layla.webp)Лейла+1,47 п. п.](https://boostmlbb.ru/heroes/layla.html)
 
-[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Кровавая охота → Железный крюк → Яростный удар
 
-Для этих героев «Франко» — один из самых неудобных соперников.
+![](/images/mlbb/skills/franco-0.webp)Пассивный**Сила пустоши**
 
-[![Тигрил](/images/heroes/tigreal.webp)Тигрил45,22%](https://boostmlbb.ru/heroes/tigreal.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)
+Если Франко не получает урона в течение 5 сек., он получает 10% скорости передвижения, восстанавливает 1% в секунду и начинает накапливать "Силу пустоши" (до 10 зарядов).
+Следующий навык Франко расходует все заряды "Силы пустоши", увеличивая его урон вплоть до 150%.
 
-## С кем играть в команде
+![](/images/mlbb/skills/franco-1.webp)1-й навык**Железный крюк**
 
-С этими героями в одной команде «Франко» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 15 Mana Cost: 135 с**
 
-[![Ханаби](/images/heroes/hanabi.webp)Ханаби+2,14 п. п.](https://boostmlbb.ru/heroes/hanabi.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана+1,87 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э+1,65 п. п.](https://boostmlbb.ru/heroes/change.html)[![Лейла](/images/heroes/layla.webp)Лейла+1,47 п. п.](https://boostmlbb.ru/heroes/layla.html)
+Франко бросает "Железный крюк" в указанном направлении, нанося 400 (+100% общей физической атаки) единиц физического урона первому пораженному врагу и притягивая его к себе.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/franco-2.webp)2-й навык**Яростный удар**
 
-Лучший результат — на ранге «Эпик» (44,00%), слабее всего — «Мифическая слава» (39,92%). Данные за последние 30 дней.
+**Перезарядка 7 Mana Cost: 40 с**
+
+Франко буйствует, нанося 300 (+4% от его ) единиц физического урона ближайшим врагам, замедляя их на 70% на 1.5 сек.
+
+![](/images/mlbb/skills/franco-3.webp)Ультимейт**Кровавая охота**
+
+**Перезарядка 62 Mana Cost: 110 с**
+
+Франко подавляет указанного вражеского героя в течение 1.8 сек. и бьет его 6 раз, каждым ударом нанося 50 (+70% общей физической атаки) единиц физического урона.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**44,00%**
 -   ![](/images/ranks/Legend.webp)Легенда**42,12%**
@@ -129,33 +132,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**41,26%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**39,92%**
 
-## Место в мете
+## История
 
-«Франко» — тир D в нашем тир-листе по проценту побед, 133-е место из 133 героев. В Мифической славе процент побед ниже: 39,92% против 41,58% на всех рангах, разница 1,66 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои роума
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
-
-## История героя
-
-![Франко](/images/heroes/franco.webp)
-
-«Отважный северный воин, заклятый враг Бэйна.»
-
-Полная история героя «Франко» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Отважный северный воин, заклятый враг Бэйна.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Franco)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=10)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Franco)
 
-## Буст на герое «Франко»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -178,5 +161,3 @@ language: ru
 Какая сборка на героя «Франко» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Господство льда», «Мимолетное время» и «Щит Афины», эмблема танка с талантами «Ловкость», «Благословение природы» и «Фокус-метка» и заклинание «Вспышка». С ней выигрывают 46,16% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

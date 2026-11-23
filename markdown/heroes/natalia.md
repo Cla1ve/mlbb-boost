@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир A
-
-# Наталья в Mobile Legends: сборка, контрпики и статистика
-
-Убийца, лес или роум. Выигрывает 51,05% матчей за последние 30 дней — 44-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир A
-
 ![](/images/heroes/natalia.webp)
 
-**Наталья**Бан 2,03% · Выбор 0,30%
+Тир A
 
-Контрпики
+# Наталья
 
-![](/images/heroes/ling.webp)![](/images/heroes/hanzo.webp)![](/images/heroes/xavier.webp)
+Убийца · Лес или роум
 
-Победы за 30 дней**51,05%**
+**№ 44 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**51,05%**побед за 30 дней
+Победы
 
-**0,30%**выбирают в матчах
+51,05%
 
-**2,03%**банят в матчах
+Выбор
 
-**49,97%**побед в Мифической славе
+0,30%
 
-## Сборка на героя «Наталья»
+Баны
 
-Самая популярная сборка для героя «Наталья» на роли леса в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+2,03%
+
+Преследование · Добивание · Сложность 90/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Лес
 
 Ключевые предметы
 
@@ -53,79 +51,83 @@ language: ru
 
 Побед с этой сборкой **55,26%**Выбирают в **5,34%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20005.webp)Эмблема убийцыФатальность · Мастер-убийца · Смертельное воспламенение**60,74%**
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20005.webp)Эмблема убийцыФатальность · Мастер-убийца · Смертельное воспламенение**60,31%**
+Ключевые предметы
 
-## Навыки героя «Наталья»
+![](/images/mlbb/items/3007.webp)Клинок семи морей![](/images/mlbb/items/3003.webp)Ярость берсерка![](/images/mlbb/items/3014.webp)Копье Великого дракона
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Охота** → **Удар когтями** → **Дымовая шашка**
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/1211.webp)Фатальность![](/images/mlbb/talents/521.webp)Мастер-убийца![](/images/mlbb/talents/631.webp)Смертельное воспламенение
 
--   ![](/images/mlbb/skills/natalia-0.webp)
+Боевое заклинание
 
-    **Инстинкт ассасина**Пассивный
+![](/images/mlbb/spells/20020.webp)Возмездие
 
-    Если Наталья останется в кустах и ​​не получит урона в течение 1 сек., она войдет в состояние камуфляжа и получит 15% скорости передвижения. В этом состоянии следующая базовая атака Натальи переместит ее за спину цели, нанося 200 (+110% общей физической атаки) единиц физического урона и накладывая немоту на 0.25 сек.
-    Нанесение урона, получение урона и использование навыков немедленно прекращает состояние камуфляжа, но ее следующая базовая атака останется усиленной еще на 1 сек.
-    Базовый критический урон Натальи снижен до 150%, но урон монстрам увеличен до 150%.
+Побед с этой сборкой **60,74%**Выбирают в **6,73%** матчей
 
--   ![](/images/mlbb/skills/natalia-1.webp)
+Ключевые предметы
 
-    **Удар когтями**1-й навыкПерезарядка 10 с
+![](/images/mlbb/items/3007.webp)Клинок семи морей![](/images/mlbb/items/3003.webp)Ярость берсерка![](/images/mlbb/items/3001.webp)Злобный рык
 
-    Наталья бросается в указанном направлении, нанося 250 (+50% общей физической атаки) единиц физического урона врагам на пути.
-    Повторное использование: попав во врага, Наталья может использовать этот навык снова в течение 5 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/natalia-2.webp)
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/1211.webp)Фатальность![](/images/mlbb/talents/521.webp)Мастер-убийца![](/images/mlbb/talents/631.webp)Смертельное воспламенение
 
-    **Дымовая шашка**2-й навыкПерезарядка 12 с
+Боевое заклинание
 
-    Наталья кидает дымовую шашку на своем месте, замедляя врагов внутри на 25%, а сама становится невосприимчивой к базовым атакам на 4 сек.
+![](/images/mlbb/spells/20020.webp)Возмездие
 
--   ![](/images/mlbb/skills/natalia-3.webp)
+Побед с этой сборкой **60,31%**Выбирают в **7,67%** матчей
 
-    **Охота**УльтимейтПерезарядка 3 с
+## Контрпики и союзники
 
-    Пассивный: Наталья получает 15% шанса крита.
-    Активный: Наталья мгновенно входит в состояние "Инстинкта ассасина". Она может накопить до 2 зарядов своего ультимейта, время накопления каждого составляет 30 сек. Убийства монстров снижают оставшееся время накопления на 50% от общего времени.
+### Кто контрит
 
+[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
 
--   Роль**Убийца**
--   Линия**Лес или роум**
--   Среди убийц**5-е из 29**
--   В лесу**9-е из 37**
--   В роуме**15-е из 34**
--   Специализация**Преследование, Добивание**
--   Сложность**Высокая (90/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Наталья» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+[![](/images/heroes/floryn.webp)Флорин+3,17 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/khufra.webp)Хуфра+2,93 п. п.](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/akai.webp)Акай+2,74 п. п.](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/hylos.webp)Хилос+2,73 п. п.](https://boostmlbb.ru/heroes/hylos.html)
 
-[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо49,90%](https://boostmlbb.ru/heroes/hanzo.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Минситтар](/images/heroes/minsitthar.webp)Минситтар52,08%](https://boostmlbb.ru/heroes/minsitthar.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Охота → Удар когтями → Дымовая шашка
 
-Для этих героев «Наталья» — один из самых неудобных соперников.
+![](/images/mlbb/skills/natalia-0.webp)Пассивный**Инстинкт ассасина**
 
-[![Эйдора](/images/heroes/eudora.webp)Эйдора50,35%](https://boostmlbb.ru/heroes/eudora.html)[![Цзэтянь](/images/heroes/zetian.webp)Цзэтянь50,89%](https://boostmlbb.ru/heroes/zetian.html)[![Госсен](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![Пакито](/images/heroes/paquito.webp)Пакито50,03%](https://boostmlbb.ru/heroes/paquito.html)[![Су Ё](/images/heroes/suyou.webp)Су Ё49,70%](https://boostmlbb.ru/heroes/suyou.html)[![Чу](/images/heroes/chou.webp)Чу45,10%](https://boostmlbb.ru/heroes/chou.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Карина](/images/heroes/karina.webp)Карина48,60%](https://boostmlbb.ru/heroes/karina.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Броуди](/images/heroes/brody.webp)Броуди49,99%](https://boostmlbb.ru/heroes/brody.html)
+Если Наталья останется в кустах и ​​не получит урона в течение 1 сек., она войдет в состояние камуфляжа и получит 15% скорости передвижения. В этом состоянии следующая базовая атака Натальи переместит ее за спину цели, нанося 200 (+110% общей физической атаки) единиц физического урона и накладывая немоту на 0.25 сек.
+Нанесение урона, получение урона и использование навыков немедленно прекращает состояние камуфляжа, но ее следующая базовая атака останется усиленной еще на 1 сек.
+Базовый критический урон Натальи снижен до 150%, но урон монстрам увеличен до 150%.
 
-## С кем играть в команде
+![](/images/mlbb/skills/natalia-1.webp)1-й навык**Удар когтями**
 
-С этими героями в одной команде «Наталья» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 10 с**
 
-[![Флорин](/images/heroes/floryn.webp)Флорин+3,17 п. п.](https://boostmlbb.ru/heroes/floryn.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра+2,93 п. п.](https://boostmlbb.ru/heroes/khufra.html)[![Акай](/images/heroes/akai.webp)Акай+2,74 п. п.](https://boostmlbb.ru/heroes/akai.html)[![Хилос](/images/heroes/hylos.webp)Хилос+2,73 п. п.](https://boostmlbb.ru/heroes/hylos.html)
+Наталья бросается в указанном направлении, нанося 250 (+50% общей физической атаки) единиц физического урона врагам на пути.
+Повторное использование: попав во врага, Наталья может использовать этот навык снова в течение 5 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/natalia-2.webp)2-й навык**Дымовая шашка**
 
-Лучший результат — на ранге «Легенда» (51,96%), слабее всего — «Мифическая слава» (49,97%). Данные за последние 30 дней.
+**Перезарядка 12 с**
+
+Наталья кидает дымовую шашку на своем месте, замедляя врагов внутри на 25%, а сама становится невосприимчивой к базовым атакам на 4 сек.
+
+![](/images/mlbb/skills/natalia-3.webp)Ультимейт**Охота**
+
+**Перезарядка 3 с**
+
+Пассивный: Наталья получает 15% шанса крита.
+Активный: Наталья мгновенно входит в состояние "Инстинкта ассасина". Она может накопить до 2 зарядов своего ультимейта, время накопления каждого составляет 30 сек. Убийства монстров снижают оставшееся время накопления на 50% от общего времени.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**51,92%**
 -   ![](/images/ranks/Legend.webp)Легенда**51,96%**
@@ -133,33 +135,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**50,63%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,97%**
 
-## Место в мете
+## История
 
-«Наталья» — тир A в нашем тир-листе по проценту побед, 44-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе процент побед ниже: 49,97% против 51,05% на всех рангах, разница 1,08 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Убийца, изгнанный из империи.
 
-## Другие герои леса
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=24)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
-
-## История героя
-
-![Наталья](/images/heroes/natalia.webp)
-
-«Убийца, изгнанный из империи.»
-
-Полная история героя «Наталья» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=24)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=24)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Natalia)
-
-## Буст на герое «Наталья»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -182,5 +164,3 @@ language: ru
 Какая сборка на героя «Наталья» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Ярость берсерка» и «Трезубец», эмблема убийцы с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 55,26% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

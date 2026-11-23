@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир S
-
-# Дигги в Mobile Legends: сборка, контрпики и статистика
-
-Поддержка, роум. Выигрывает 54,30% матчей за последние 30 дней — 6-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир S
-
 ![](/images/heroes/diggie.webp)
 
-**Дигги**Бан 3,66% · Выбор 0,20%
+Тир S
 
-Контрпики
+# Дигги
 
-![](/images/heroes/alice.webp)![](/images/heroes/zhuxin.webp)![](/images/heroes/guinevere.webp)
+Поддержка · Роум
 
-Победы за 30 дней**54,30%**
+**№ 6 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**54,30%**побед за 30 дней
+Победы
 
-**0,20%**выбирают в матчах
+54,30%
 
-**3,66%**банят в матчах
+Выбор
 
-**55,46%**побед в Мифической славе
+0,20%
 
-## Сборка на героя «Дигги»
+Баны
 
-Самая популярная сборка для героя «Дигги» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+3,66%
+
+Защита · Поук · Сложность 30/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,77 +51,82 @@ language: ru
 
 Побед с этой сборкой **60,06%**Выбирают в **13,94%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20008.webp)Эмблема поддержкиВдохновение · Второе дыхание · Фокус-метка**57,92%**
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20008.webp)Эмблема поддержкиВдохновение · Второе дыхание · Фокус-метка**63,01%**
+Ключевые предметы
 
-## Навыки героя «Дигги»
+![](/images/mlbb/items/3112.webp)Фляга Оазиса![](/images/mlbb/items/3109.webp)Мимолетное время![](/images/mlbb/items/3203.webp)Древняя кираса
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Путешествие во времени** → **Автоматическая бомба** → **Время назад**
+![](/images/mlbb/emblems/20008.webp)Эмблема поддержки![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/821.webp)Второе дыхание![](/images/mlbb/talents/831.webp)Фокус-метка
 
--   ![](/images/mlbb/skills/diggie-0.webp)
+Боевое заклинание
 
-    **Снова молодой**Пассивный
+![](/images/mlbb/spells/20050.webp)Восстановление
 
-    После смерти Дигги обращает время вспять и возвращается в форму яйца, в которой может передвигаться и использовать новый набор навыков. В форме яйца он получает неуловимость для прицела и возрождается в текущем местоположении.
+Побед с этой сборкой **57,92%**Выбирают в **3,59%** матчей
 
--   ![](/images/mlbb/skills/diggie-1.webp)
+Ключевые предметы
 
-    **Автоматическая бомба**1-й навыкПерезарядка 8 Mana Cost: 70 с
+![](/images/mlbb/items/3112.webp)Фляга Оазиса![](/images/mlbb/items/3109.webp)Мимолетное время![](/images/mlbb/items/3202.webp)Защитный шлем
 
-    Дигги бросает сову-будильник в указанное место, который остается неподвижным в течение 25 сек. или пока не среагирует на первого врага в радиусе действия, преследуя его и взрываясь при столкновении. Взрыв наносит 350 (+100% общей магической силы) единиц магического урона пораженным врагам и замедляет их на 30%.
-    Дигги получает 2 заряда взрывных искр каждый раз, когда вражеский герой поражается взрывом (до 60 зарядов), каждый заряд увеличивает урон навыка на 1%. Дигги теряет половину зарядов после смерти, но может получить 1 заряд взрывных искр каждый раз, когда поражает вражеского героя навыком в форме яйца.
-    Одновременно может существовать до 5 сов-будильников.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/diggie-2.webp)
+![](/images/mlbb/emblems/20008.webp)Эмблема поддержки![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/821.webp)Второе дыхание![](/images/mlbb/talents/831.webp)Фокус-метка
 
-    **Время назад**2-й навыкПерезарядка 15 Mana Cost: 90 с
+Боевое заклинание
 
-    Дигги отмечает указанного вражеского героя на 4 сек. и притягивает его к предыдущему месту после окончания действия, нанося 150 (+100% общей магической силы) единиц магического урона и ненадолго замедляя его на 80%.
-    Если враг выйдет из круга, притягивание сработает раньше.
+![](/images/mlbb/spells/20050.webp)Восстановление
 
--   ![](/images/mlbb/skills/diggie-3.webp)
+Побед с этой сборкой **63,01%**Выбирают в **21,28%** матчей
 
-    **Путешествие во времени**УльтимейтПерезарядка 76 Mana Cost: 130 с
+## Контрпики и союзники
 
-    Дигги снимает все дебаффы с ближайших союзных героев (включая себя) и дает 650 (+300% общей магической силы) ед. щита и иммунитет к контролю на 2 сек. Он также получает 50% скорости передвижения на 0.5 сек.
+### Кто контрит
 
+[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
--   Роль**Поддержка**
--   Линия**Роум**
--   Среди героев поддержки**3-е из 15**
--   В роуме**4-е из 34**
--   Специализация**Защита, Поук**
--   Сложность**Низкая (30/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Дигги» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — маги.
+[![](/images/heroes/baxia.webp)Баксий+11,69 п. п.](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/ixia.webp)Иксия+7,38 п. п.](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/kalea.webp)Калеа+6,61 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/saber.webp)Сабер+6,13 п. п.](https://boostmlbb.ru/heroes/saber.html)
 
-[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь49,57%](https://boostmlbb.ru/heroes/zhuxin.html)[![Гвиневра](/images/heroes/guinevere.webp)Гвиневра51,27%](https://boostmlbb.ru/heroes/guinevere.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Валир](/images/heroes/valir.webp)Валир54,11%](https://boostmlbb.ru/heroes/valir.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Путешествие во времени → Автоматическая бомба → Время назад
 
-Для этих героев «Дигги» — один из самых неудобных соперников.
+![](/images/mlbb/skills/diggie-0.webp)Пассивный**Снова молодой**
 
-[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Новария](/images/heroes/novaria.webp)Новария49,52%](https://boostmlbb.ru/heroes/novaria.html)[![Франко](/images/heroes/franco.webp)Франко41,58%](https://boostmlbb.ru/heroes/franco.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Эстес](/images/heroes/estes.webp)Эстес52,75%](https://boostmlbb.ru/heroes/estes.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э48,20%](https://boostmlbb.ru/heroes/change.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)
+После смерти Дигги обращает время вспять и возвращается в форму яйца, в которой может передвигаться и использовать новый набор навыков. В форме яйца он получает неуловимость для прицела и возрождается в текущем местоположении.
 
-## С кем играть в команде
+![](/images/mlbb/skills/diggie-1.webp)1-й навык**Автоматическая бомба**
 
-С этими героями в одной команде «Дигги» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 8 Mana Cost: 70 с**
 
-[![Баксий](/images/heroes/baxia.webp)Баксий+11,69 п. п.](https://boostmlbb.ru/heroes/baxia.html)[![Иксия](/images/heroes/ixia.webp)Иксия+7,38 п. п.](https://boostmlbb.ru/heroes/ixia.html)[![Калеа](/images/heroes/kalea.webp)Калеа+6,61 п. п.](https://boostmlbb.ru/heroes/kalea.html)[![Сабер](/images/heroes/saber.webp)Сабер+6,13 п. п.](https://boostmlbb.ru/heroes/saber.html)
+Дигги бросает сову-будильник в указанное место, который остается неподвижным в течение 25 сек. или пока не среагирует на первого врага в радиусе действия, преследуя его и взрываясь при столкновении. Взрыв наносит 350 (+100% общей магической силы) единиц магического урона пораженным врагам и замедляет их на 30%.
+Дигги получает 2 заряда взрывных искр каждый раз, когда вражеский герой поражается взрывом (до 60 зарядов), каждый заряд увеличивает урон навыка на 1%. Дигги теряет половину зарядов после смерти, но может получить 1 заряд взрывных искр каждый раз, когда поражает вражеского героя навыком в форме яйца.
+Одновременно может существовать до 5 сов-будильников.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/diggie-2.webp)2-й навык**Время назад**
 
-Лучший результат — на ранге «Мифическая слава» (55,46%), слабее всего — «Эпик» (50,73%). Данные за последние 30 дней.
+**Перезарядка 15 Mana Cost: 90 с**
+
+Дигги отмечает указанного вражеского героя на 4 сек. и притягивает его к предыдущему месту после окончания действия, нанося 150 (+100% общей магической силы) единиц магического урона и ненадолго замедляя его на 80%.
+Если враг выйдет из круга, притягивание сработает раньше.
+
+![](/images/mlbb/skills/diggie-3.webp)Ультимейт**Путешествие во времени**
+
+**Перезарядка 76 Mana Cost: 130 с**
+
+Дигги снимает все дебаффы с ближайших союзных героев (включая себя) и дает 650 (+300% общей магической силы) ед. щита и иммунитет к контролю на 2 сек. Он также получает 50% скорости передвижения на 0.5 сек.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**50,73%**
 -   ![](/images/ranks/Legend.webp)Легенда**51,54%**
@@ -131,33 +134,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**53,91%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**55,46%**
 
-## Место в мете
+## История
 
-«Дигги» — тир S в нашем тир-листе по проценту побед, 6-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе процент побед выше: 55,46% против 54,30% на всех рангах, разница 1,16 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Сова-ученый, способный управлять временем.
 
-## Другие герои роума
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=48)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)
-
-## История героя
-
-![Дигги](/images/heroes/diggie.webp)
-
-«Сова-ученый, способный управлять временем.»
-
-Полная история героя «Дигги» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=48)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=48)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Diggie)
-
-## Буст на герое «Дигги»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -180,5 +163,3 @@ language: ru
 Какая сборка на героя «Дигги» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Мимолетное время» и «Господство льда», эмблема поддержки с талантами «Вдохновение», «Второе дыхание» и «Фокус-метка» и заклинание «Восстановление». С ней выигрывают 60,06% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

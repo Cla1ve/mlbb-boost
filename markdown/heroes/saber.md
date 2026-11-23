@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир A
-
-# Сабер в Mobile Legends: сборка, контрпики и статистика
-
-Убийца, лес или роум. Выигрывает 51,21% матчей за последние 30 дней — 41-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир A
-
 ![](/images/heroes/saber.webp)
 
-**Сабер**Бан 25,07% · Выбор 1,02%
+Тир A
 
-Контрпики
+# Сабер
 
-![](/images/heroes/ling.webp)![](/images/heroes/nolan.webp)![](/images/heroes/natalia.webp)
+Убийца · Лес или роум
 
-Победы за 30 дней**51,21%**
+**№ 41 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**51,21%**побед за 30 дней
+Победы
 
-**1,02%**выбирают в матчах
+51,21%
 
-**25,07%**банят в матчах
+Выбор
 
-**53,51%**побед в Мифической славе
+1,02%
 
-## Сборка на героя «Сабер»
+Баны
 
-Самая популярная сборка для героя «Сабер» на роли леса в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+25,07%
+
+Рывок · Добивание · Сложность 30/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Лес
 
 Ключевые предметы
 
@@ -53,77 +51,81 @@ language: ru
 
 Побед с этой сборкой **60,38%**Выбирают в **2,00%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20007.webp)Эмблема бойцаТрепет · Опытный охотник · Временное правление**57,04%**
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20005.webp)Эмблема убийцыТрепет · Опытный охотник · Временное правление**59,67%**
+Ключевые предметы
 
-## Навыки героя «Сабер»
+![](/images/mlbb/items/3009.webp)Удар охотника![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3208.webp)Кираса грубой силы
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Тройной удар** → **Летающие мечи** → **Рывок**
+![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/134.webp)Временное правление
 
--   ![](/images/mlbb/skills/saber-0.webp)
+Боевое заклинание
 
-    **Погибель врагам**Пассивный
+![](/images/mlbb/spells/20020.webp)Возмездие
 
-    Каждый раз, когда Сабер наносит урон, он снижает цели на 3-8 на 5 сек. (до 5 зарядов).
+Побед с этой сборкой **57,04%**Выбирают в **4,72%** матчей
 
--   ![](/images/mlbb/skills/saber-1.webp)
+Ключевые предметы
 
-    **Летающие мечи**1-й навыкПерезарядка 10 Mana Cost: 60 с
+![](/images/mlbb/items/3009.webp)Удар охотника![](/images/mlbb/items/2013.webp)Топор войны![](/images/mlbb/items/3004.webp)Бесконечная битва
 
-    Сабер выпускает 5 мечей, которые вращаются вокруг него и наносят 75 (+25% дополнительной физической атаки) единиц физического урона ближайшим врагам при попадании. По истечении времени действия мечи возвращаются обратно.
-    Пока они активны, атаки мечом наносят 200 (+50% дополнительной физической атаки) единиц физического урона цели и 50% урона врагам на пути (урон против миньонов снижается до 50%). Каждая атака мечом сокращает перезарядку "Летающих мечей" на 0.5 сек. и "Рывка" на 1 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/saber-2.webp)
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/111.webp)Трепет![](/images/mlbb/talents/122.webp)Опытный охотник![](/images/mlbb/talents/134.webp)Временное правление
 
-    **Рывок**2-й навыкПерезарядка 7 Mana Cost: 40 с
+Боевое заклинание
 
-    Сабер совершает рывок в указанном направлении, нанося 75 (+50% дополнительной физической атаки) единиц физического урона врагам на пути.
-    После рывка он получает усиленную базовую атаку, которая позволяет ему совершить рывок к цели, нанося 75 (+120% общей физической атаки) единиц физического урона и замедляя ее на 60% на 1 сек.
+![](/images/mlbb/spells/20020.webp)Возмездие
 
--   ![](/images/mlbb/skills/saber-3.webp)
+Побед с этой сборкой **59,67%**Выбирают в **18,38%** матчей
 
-    **Тройной удар**УльтимейтПерезарядка 44 Mana Cost: 100 с
+## Контрпики и союзники
 
-    Сабер бросается к указанному вражескому герою, подбрасывая его на 1.2 сек. (на это не влияет "Устойчивость"). В течение этого времени он наносит по нему 3 быстрых удара: первые 2 удара наносят 120 (+80% дополнительной физической атаки) единиц физического урона, а третий удар наносит 240 (+160% дополнительной физической атаки) единиц физического урона.
+### Кто контрит
 
+[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
--   Роль**Убийца**
--   Линия**Лес или роум**
--   Среди убийц**4-е из 29**
--   В лесу**8-е из 37**
--   В роуме**13-е из 34**
--   Специализация**Рывок, Добивание**
--   Сложность**Низкая (30/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Сабер» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — убийцы.
+[![](/images/heroes/diggie.webp)Дигги+6,13 п. п.](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/marcel.webp)Марсель+4,45 п. п.](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/estes.webp)Эстес+3,46 п. п.](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/minotaur.webp)Минотавр+3,29 п. п.](https://boostmlbb.ru/heroes/minotaur.html)
 
-[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Нолан](/images/heroes/nolan.webp)Нолан49,71%](https://boostmlbb.ru/heroes/nolan.html)[![Наталья](/images/heroes/natalia.webp)Наталья51,05%](https://boostmlbb.ru/heroes/natalia.html)[![Люнокс](/images/heroes/lunox.webp)Люнокс50,64%](https://boostmlbb.ru/heroes/lunox.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Тройной удар → Летающие мечи → Рывок
 
-Для этих героев «Сабер» — один из самых неудобных соперников.
+![](/images/mlbb/skills/saber-0.webp)Пассивный**Погибель врагам**
 
-[![Ханаби](/images/heroes/hanabi.webp)Ханаби52,66%](https://boostmlbb.ru/heroes/hanabi.html)[![Мия](/images/heroes/miya.webp)Мия49,71%](https://boostmlbb.ru/heroes/miya.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Альфа](/images/heroes/alpha.webp)Альфа48,85%](https://boostmlbb.ru/heroes/alpha.html)[![Тамуз](/images/heroes/thamuz.webp)Тамуз48,91%](https://boostmlbb.ru/heroes/thamuz.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Мартис](/images/heroes/martis.webp)Мартис47,23%](https://boostmlbb.ru/heroes/martis.html)[![Хильда](/images/heroes/hilda.webp)Хильда51,07%](https://boostmlbb.ru/heroes/hilda.html)
+Каждый раз, когда Сабер наносит урон, он снижает цели на 3-8 на 5 сек. (до 5 зарядов).
 
-## С кем играть в команде
+![](/images/mlbb/skills/saber-1.webp)1-й навык**Летающие мечи**
 
-С этими героями в одной команде «Сабер» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 10 Mana Cost: 60 с**
 
-[![Дигги](/images/heroes/diggie.webp)Дигги+6,13 п. п.](https://boostmlbb.ru/heroes/diggie.html)[![Марсель](/images/heroes/marcel.webp)Марсель+4,45 п. п.](https://boostmlbb.ru/heroes/marcel.html)[![Эстес](/images/heroes/estes.webp)Эстес+3,46 п. п.](https://boostmlbb.ru/heroes/estes.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр+3,29 п. п.](https://boostmlbb.ru/heroes/minotaur.html)
+Сабер выпускает 5 мечей, которые вращаются вокруг него и наносят 75 (+25% дополнительной физической атаки) единиц физического урона ближайшим врагам при попадании. По истечении времени действия мечи возвращаются обратно.
+Пока они активны, атаки мечом наносят 200 (+50% дополнительной физической атаки) единиц физического урона цели и 50% урона врагам на пути (урон против миньонов снижается до 50%). Каждая атака мечом сокращает перезарядку "Летающих мечей" на 0.5 сек. и "Рывка" на 1 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/saber-2.webp)2-й навык**Рывок**
 
-Лучший результат — на ранге «Мифическая слава» (53,51%), слабее всего — «Эпик» (48,42%). Данные за последние 30 дней.
+**Перезарядка 7 Mana Cost: 40 с**
+
+Сабер совершает рывок в указанном направлении, нанося 75 (+50% дополнительной физической атаки) единиц физического урона врагам на пути.
+После рывка он получает усиленную базовую атаку, которая позволяет ему совершить рывок к цели, нанося 75 (+120% общей физической атаки) единиц физического урона и замедляя ее на 60% на 1 сек.
+
+![](/images/mlbb/skills/saber-3.webp)Ультимейт**Тройной удар**
+
+**Перезарядка 44 Mana Cost: 100 с**
+
+Сабер бросается к указанному вражескому герою, подбрасывая его на 1.2 сек. (на это не влияет "Устойчивость"). В течение этого времени он наносит по нему 3 быстрых удара: первые 2 удара наносят 120 (+80% дополнительной физической атаки) единиц физического урона, а третий удар наносит 240 (+160% дополнительной физической атаки) единиц физического урона.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**48,42%**
 -   ![](/images/ranks/Legend.webp)Легенда**50,03%**
@@ -131,33 +133,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**51,13%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**53,51%**
 
-## Место в мете
+## История
 
-«Сабер» — тир A в нашем тир-листе по проценту побед, 41-е место из 133 героев. В Мифической славе процент побед выше: 53,51% против 51,21% на всех рангах, разница 2,30 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои леса
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
-
-## История героя
-
-![Сабер](/images/heroes/saber.webp)
-
-«Мечник, искавший непобедимости, подопытный Лаборатории 1718.»
-
-Полная история героя «Сабер» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Мечник, искавший непобедимости, подопытный Лаборатории 1718.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Saber)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=3)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Saber)
 
-## Буст на герое «Сабер»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -180,5 +162,3 @@ language: ru
 Какая сборка на героя «Сабер» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Удар охотника», «Топор войны» и «Бесконечная битва», эмблема бойца с талантами «Трепет», «Опытный охотник» и «Временное правление» и заклинание «Возмездие». С ней выигрывают 60,38% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

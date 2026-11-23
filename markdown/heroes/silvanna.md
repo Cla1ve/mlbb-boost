@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир A
-
-# Сильвана в Mobile Legends: сборка, контрпики и статистика
-
-Боец, линия опыта. Выигрывает 51,36% матчей за последние 30 дней — 36-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир A
-
 ![](/images/heroes/silvanna.webp)
 
-**Сильвана**Бан 2,03% · Выбор 0,99%
+Тир A
 
-Контрпики
+# Сильвана
 
-![](/images/heroes/aamon.webp)![](/images/heroes/floryn.webp)![](/images/heroes/angela.webp)
+Боец · Линия опыта
 
-Победы за 30 дней**51,36%**
+**№ 36 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**51,36%**побед за 30 дней
+Победы
 
-**0,99%**выбирают в матчах
+51,36%
 
-**2,03%**банят в матчах
+Выбор
 
-**49,61%**побед в Мифической славе
+0,99%
 
-## Сборка на героя «Сильвана»
+Баны
 
-Самая популярная сборка для героя «Сильвана» на роли линии опыта в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+2,03%
+
+Инициатор · Магический урон · Сложность 30/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Линия опыта
 
 Ключевые предметы
 
@@ -53,79 +51,84 @@ language: ru
 
 Побед с этой сборкой **57,44%**Выбирают в **1,56%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20070.webp)Окаменение![](/images/mlbb/emblems/20006.webp)Эмблема магаРазрыв · Мастер-убийца · Смертельное воспламенение**56,86%**
--   ![](/images/mlbb/spells/20070.webp)Окаменение![](/images/mlbb/emblems/20006.webp)Эмблема магаРазрыв · Мастер-убийца · Смертельное воспламенение**56,57%**
+Ключевые предметы
 
-## Навыки героя «Сильвана»
+![](/images/mlbb/items/3111.webp)Палочка гения![](/images/mlbb/items/2108.webp)Райское перо![](/images/mlbb/items/3103.webp)Концентрированная энергия
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Имперское правосудие** → **Спиральное удушение** → **Молниеносное копье**
+![](/images/mlbb/emblems/20006.webp)Эмблема мага![](/images/mlbb/talents/511.webp)Разрыв![](/images/mlbb/talents/521.webp)Мастер-убийца![](/images/mlbb/talents/631.webp)Смертельное воспламенение
 
--   ![](/images/mlbb/skills/silvanna-0.webp)
+Боевое заклинание
 
-    **Рыцарское решение**Пассивный
+![](/images/mlbb/spells/20070.webp)Окаменение
 
-    Базовые атаки Сильваны наносят 25 (+45% общей физической атаки) (+75% общей магической силы) единиц магического урона.
-    Атаки Сильваны накладывают метку на вражеских героев на 5 сек. при попадании. Каждая метка снижает их на 3-6 (до 5 зарядов).
-    Навыки и базовые атаки Сильваны наносят 30% дополнительного урона вражеским героям с максимальным количеством меток.
+Побед с этой сборкой **56,86%**Выбирают в **3,58%** матчей
 
--   ![](/images/mlbb/skills/silvanna-1.webp)
+Ключевые предметы
 
-    **Молниеносное копье**1-й навыкПерезарядка 11 Mana Cost: 70 с
+![](/images/mlbb/items/3111.webp)Палочка гения![](/images/mlbb/items/2108.webp)Райское перо![](/images/mlbb/items/2107.webp)Зимняя корона
 
-    Сильвана бросается вперед. Достигнув максимальной дальности или ударив врага, не являющегося миньоном, она взмахивает копьем, нанося 250 (+100% общей магической силы) единиц магического урона ближайшим врагам и оглушая их на 1 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/silvanna-2.webp)
+![](/images/mlbb/emblems/20006.webp)Эмблема мага![](/images/mlbb/talents/511.webp)Разрыв![](/images/mlbb/talents/521.webp)Мастер-убийца![](/images/mlbb/talents/631.webp)Смертельное воспламенение
 
-    **Спиральное удушение**2-й навыкПерезарядка 5 Mana Cost: 35 с
+Боевое заклинание
 
-    Сильвана делает выпад копьем в указанном направлении и вращает его 6 р., получая 350 (+150% общей магической силы) ед. щита. Каждое вращение наносит 165 (+45% общей магической силы) единиц магического урона и слегка притягивает цели к центру. Каждые 50% дополнительной скорости атаки Сильваны увеличивают количество вращений копья на 1.
-    Этот навык наносит только 50% урона против миньонов.
-    "Спиральное удушение" считается базовой атакой, но не может нанести критический урон.
+![](/images/mlbb/spells/20070.webp)Окаменение
 
--   ![](/images/mlbb/skills/silvanna-3.webp)
+Побед с этой сборкой **56,57%**Выбирают в **3,42%** матчей
 
-    **Имперское правосудие**УльтимейтПерезарядка 52 Mana Cost: 130 с
+## Контрпики и союзники
 
-    Сильвана прыгает в указанное место и при приземлении создает круг света, нанося 350 (+110% общей магической силы) единиц магического урона врагам в области, замедляя их на 40% на 1.5 сек. и удерживая ближайшего вражеского героя в области на 3.5 сек. (Этот навык нельзя прервать.)
-    Сильвана получает 100% скорости атаки и 40% вампиризма, когда находится в круге.
+### Кто контрит
 
+[![](/images/heroes/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
--   Роль**Боец**
--   Линия**Линия опыта**
--   Среди бойцов**11-е из 44**
--   На линии опыта**13-е из 42**
--   Специализация**Инициатор, Магический урон**
--   Сложность**Низкая (30/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Сильвана» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — герои поддержки.
+[![](/images/heroes/hilda.webp)Хильда+2,65 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/belerick.webp)Белерик+2,17 п. п.](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/hylos.webp)Хилос+2,16 п. п.](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/lolita.webp)Лолита+2,02 п. п.](https://boostmlbb.ru/heroes/lolita.html)
 
-[![Эймон](/images/heroes/aamon.webp)Эймон50,24%](https://boostmlbb.ru/heroes/aamon.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Ангела](/images/heroes/angela.webp)Ангела49,99%](https://boostmlbb.ru/heroes/angela.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Имперское правосудие → Спиральное удушение → Молниеносное копье
 
-Для этих героев «Сильвана» — один из самых неудобных соперников.
+![](/images/mlbb/skills/silvanna-0.webp)Пассивный**Рыцарское решение**
 
-[![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Кагура](/images/heroes/kagura.webp)Кагура51,09%](https://boostmlbb.ru/heroes/kagura.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Бартс](/images/heroes/barats.webp)Бартс51,67%](https://boostmlbb.ru/heroes/barats.html)[![Чонг](/images/heroes/yu-zhong.webp)Чонг48,93%](https://boostmlbb.ru/heroes/yu-zhong.html)[![Вэйл](/images/heroes/vale.webp)Вэйл50,10%](https://boostmlbb.ru/heroes/vale.html)[![Бенедетта](/images/heroes/benedetta.webp)Бенедетта52,10%](https://boostmlbb.ru/heroes/benedetta.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)
+Базовые атаки Сильваны наносят 25 (+45% общей физической атаки) (+75% общей магической силы) единиц магического урона.
+Атаки Сильваны накладывают метку на вражеских героев на 5 сек. при попадании. Каждая метка снижает их на 3-6 (до 5 зарядов).
+Навыки и базовые атаки Сильваны наносят 30% дополнительного урона вражеским героям с максимальным количеством меток.
 
-## С кем играть в команде
+![](/images/mlbb/skills/silvanna-1.webp)1-й навык**Молниеносное копье**
 
-С этими героями в одной команде «Сильвана» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 11 Mana Cost: 70 с**
 
-[![Хильда](/images/heroes/hilda.webp)Хильда+2,65 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![Белерик](/images/heroes/belerick.webp)Белерик+2,17 п. п.](https://boostmlbb.ru/heroes/belerick.html)[![Хилос](/images/heroes/hylos.webp)Хилос+2,16 п. п.](https://boostmlbb.ru/heroes/hylos.html)[![Лолита](/images/heroes/lolita.webp)Лолита+2,02 п. п.](https://boostmlbb.ru/heroes/lolita.html)
+Сильвана бросается вперед. Достигнув максимальной дальности или ударив врага, не являющегося миньоном, она взмахивает копьем, нанося 250 (+100% общей магической силы) единиц магического урона ближайшим врагам и оглушая их на 1 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/silvanna-2.webp)2-й навык**Спиральное удушение**
 
-Лучший результат — на ранге «Легенда» (52,32%), слабее всего — «Мифическая слава» (49,61%). Данные за последние 30 дней.
+**Перезарядка 5 Mana Cost: 35 с**
+
+Сильвана делает выпад копьем в указанном направлении и вращает его 6 р., получая 350 (+150% общей магической силы) ед. щита. Каждое вращение наносит 165 (+45% общей магической силы) единиц магического урона и слегка притягивает цели к центру. Каждые 50% дополнительной скорости атаки Сильваны увеличивают количество вращений копья на 1.
+Этот навык наносит только 50% урона против миньонов.
+"Спиральное удушение" считается базовой атакой, но не может нанести критический урон.
+
+![](/images/mlbb/skills/silvanna-3.webp)Ультимейт**Имперское правосудие**
+
+**Перезарядка 52 Mana Cost: 130 с**
+
+Сильвана прыгает в указанное место и при приземлении создает круг света, нанося 350 (+110% общей магической силы) единиц магического урона врагам в области, замедляя их на 40% на 1.5 сек. и удерживая ближайшего вражеского героя в области на 3.5 сек. (Этот навык нельзя прервать.)
+Сильвана получает 100% скорости атаки и 40% вампиризма, когда находится в круге.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**52,13%**
 -   ![](/images/ranks/Legend.webp)Легенда**52,32%**
@@ -133,33 +136,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**50,72%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**49,61%**
 
-## Место в мете
+## История
 
-«Сильвана» — тир A в нашем тир-листе по проценту побед, 36-е место из 133 героев. В Мифической славе процент побед ниже: 49,61% против 51,36% на всех рангах, разница 1,75 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Принцесса Монийской империи.
 
-## Другие герои линии опыта
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=90)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Silvanna)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)
-
-## История героя
-
-![Сильвана](/images/heroes/silvanna.webp)
-
-«Принцесса Монийской империи.»
-
-Полная история героя «Сильвана» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=90)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=90)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Silvanna)
-
-## Буст на герое «Сильвана»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -182,5 +165,3 @@ language: ru
 Какая сборка на героя «Сильвана» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Райское перо», «Палочка гения» и «Концентрированная энергия», эмблема мага с талантами «Трепет», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Окаменение». С ней выигрывают 57,44% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

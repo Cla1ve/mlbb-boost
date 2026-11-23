@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир D
-
-# Фанни в Mobile Legends: сборка, контрпики и статистика
-
-Убийца, лес. Выигрывает 42,64% матчей за последние 30 дней — 132-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир D
-
 ![](/images/heroes/fanny.webp)
 
-**Фанни**Бан 1,95% · Выбор 0,65%
+Тир D
 
-Контрпики
+# Фанни
 
-![](/images/heroes/granger.webp)![](/images/heroes/gloo.webp)![](/images/heroes/yve.webp)
+Убийца · Лес
 
-Победы за 30 дней**42,64%**
+**№ 132 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**42,64%**побед за 30 дней
+Победы
 
-**0,65%**выбирают в матчах
+42,64%
 
-**1,95%**банят в матчах
+Выбор
 
-**42,85%**побед в Мифической славе
+0,65%
 
-## Сборка на героя «Фанни»
+Баны
 
-Самая популярная сборка для героя «Фанни» на роли леса в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+1,95%
+
+Преследование · Добивание · Сложность 100/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Лес
 
 Ключевые предметы
 
@@ -53,76 +51,81 @@ language: ru
 
 Побед с этой сборкой **47,81%**Выбирают в **2,02%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20005.webp)Эмблема убийцыРазрыв · Кровавое пиршество · Смертельное воспламенение**51,32%**
--   ![](/images/mlbb/spells/20020.webp)Возмездие![](/images/mlbb/emblems/20005.webp)Эмблема убийцыРазрыв · Кровавое пиршество · Нечестивая ярость**45,15%**
+Ключевые предметы
 
-## Навыки героя «Фанни»
+![](/images/mlbb/items/3007.webp)Клинок семи морей![](/images/mlbb/items/2014.webp)Пронзающий небеса![](/images/mlbb/items/3001.webp)Злобный рык
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Головорез** → **Стальной трос** → **Удар торнадо**
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/511.webp)Разрыв![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/631.webp)Смертельное воспламенение
 
--   ![](/images/mlbb/skills/fanny-0.webp)
+Боевое заклинание
 
-    **Превосходство в воздухе**Пассивный
+![](/images/mlbb/spells/20020.webp)Возмездие
 
-    Во время полета Фанни наносит 10%-20% дополнительного урона пораженным врагам (зависит от скорости полета) и при каждом попадании накладывает 1 заряд метки жертвы (до 2 зарядов).
-    Ее последующие попадания навыками по отмеченным вражеским героям восстанавливают 8 энергии за заряд. Восстановление энергии уменьшается, если за короткое время поражено несколько вражеских героев.
+Побед с этой сборкой **51,32%**Выбирают в **1,68%** матчей
 
--   ![](/images/mlbb/skills/fanny-1.webp)
+Ключевые предметы
 
-    **Удар торнадо**1-й навыкПерезарядка 3.5 Energy Cost: 12 с
+![](/images/mlbb/items/3007.webp)Клинок семи морей![](/images/mlbb/items/3001.webp)Злобный рык![](/images/mlbb/items/3012.webp)Золотой метеор
 
-    Фанни взмахивает клинками, нанося 275 (+85% общей физической атаки) единиц физического урона ближайшим врагам.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/fanny-2.webp)
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/511.webp)Разрыв![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/131.webp)Нечестивая ярость
 
-    **Стальной трос**2-й навыкПерезарядка 0 Energy Cost: 19 с
+Боевое заклинание
 
-    Фанни выпускает трос в указанном направлении и притягивается к первому препятствию на его пути. При наличии достаточного количества энергии она может повторно применить этот навык в течение 2 сек. Каждое последующее применение за это время расходует на 2 меньше энергии.
-    Во время полета Фанни автоматически применяет "Удар торнадо" при столкновении с врагом, если у нее достаточно энергии.
+![](/images/mlbb/spells/20020.webp)Возмездие
 
--   ![](/images/mlbb/skills/fanny-3.webp)
+Побед с этой сборкой **45,15%**Выбирают в **1,89%** матчей
 
-    **Головорез**УльтимейтПерезарядка 35 Energy Cost: 12 с
+## Контрпики и союзники
 
-    Фанни прыгает с клинками на указанного вражеского героя или монстра, нанося 400 (+200% дополнительной физической атаки) единиц физического урона. Каждый заряд метки жертвы на цели увеличивает этот урон на 30%.
+### Кто контрит
 
+[![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
 
--   Роль**Убийца**
--   Линия**Лес**
--   Среди убийц**29-е из 29**
--   В лесу**37-е из 37**
--   Специализация**Преследование, Добивание**
--   Сложность**Высокая (100/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Фанни» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — стрелки.
+[![](/images/heroes/joy.webp)Джой+2,15 п. п.](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/natan.webp)Натан+1,80 п. п.](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/bruno.webp)Бруно+1,69 п. п.](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/khufra.webp)Хуфра+1,63 п. п.](https://boostmlbb.ru/heroes/khufra.html)
 
-[![Грейнджер](/images/heroes/granger.webp)Грейнджер42,99%](https://boostmlbb.ru/heroes/granger.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Клинт](/images/heroes/clint.webp)Клинт50,33%](https://boostmlbb.ru/heroes/clint.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Головорез → Стальной трос → Удар торнадо
 
-Для этих героев «Фанни» — один из самых неудобных соперников.
+![](/images/mlbb/skills/fanny-0.webp)Пассивный**Превосходство в воздухе**
 
-[![Баданг](/images/heroes/badang.webp)Баданг50,19%](https://boostmlbb.ru/heroes/badang.html)[![Чу](/images/heroes/chou.webp)Чу45,10%](https://boostmlbb.ru/heroes/chou.html)[![Франко](/images/heroes/franco.webp)Франко41,58%](https://boostmlbb.ru/heroes/franco.html)[![Москов](/images/heroes/moskov.webp)Москов50,31%](https://boostmlbb.ru/heroes/moskov.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Калеа](/images/heroes/kalea.webp)Калеа50,44%](https://boostmlbb.ru/heroes/kalea.html)[![Бруно](/images/heroes/bruno.webp)Бруно53,78%](https://boostmlbb.ru/heroes/bruno.html)
+Во время полета Фанни наносит 10%-20% дополнительного урона пораженным врагам (зависит от скорости полета) и при каждом попадании накладывает 1 заряд метки жертвы (до 2 зарядов).
+Ее последующие попадания навыками по отмеченным вражеским героям восстанавливают 8 энергии за заряд. Восстановление энергии уменьшается, если за короткое время поражено несколько вражеских героев.
 
-## С кем играть в команде
+![](/images/mlbb/skills/fanny-1.webp)1-й навык**Удар торнадо**
 
-С этими героями в одной команде «Фанни» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 3.5 Energy Cost: 12 с**
 
-[![Джой](/images/heroes/joy.webp)Джой+2,15 п. п.](https://boostmlbb.ru/heroes/joy.html)[![Натан](/images/heroes/natan.webp)Натан+1,80 п. п.](https://boostmlbb.ru/heroes/natan.html)[![Бруно](/images/heroes/bruno.webp)Бруно+1,69 п. п.](https://boostmlbb.ru/heroes/bruno.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра+1,63 п. п.](https://boostmlbb.ru/heroes/khufra.html)
+Фанни взмахивает клинками, нанося 275 (+85% общей физической атаки) единиц физического урона ближайшим врагам.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/fanny-2.webp)2-й навык**Стальной трос**
 
-Лучший результат — на ранге «Эпик» (44,65%), слабее всего — «Мифический» (41,67%). Данные за последние 30 дней.
+**Перезарядка 0 Energy Cost: 19 с**
+
+Фанни выпускает трос в указанном направлении и притягивается к первому препятствию на его пути. При наличии достаточного количества энергии она может повторно применить этот навык в течение 2 сек. Каждое последующее применение за это время расходует на 2 меньше энергии.
+Во время полета Фанни автоматически применяет "Удар торнадо" при столкновении с врагом, если у нее достаточно энергии.
+
+![](/images/mlbb/skills/fanny-3.webp)Ультимейт**Головорез**
+
+**Перезарядка 35 Energy Cost: 12 с**
+
+Фанни прыгает с клинками на указанного вражеского героя или монстра, нанося 400 (+200% дополнительной физической атаки) единиц физического урона. Каждый заряд метки жертвы на цели увеличивает этот урон на 30%.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**44,65%**
 -   ![](/images/ranks/Legend.webp)Легенда**42,96%**
@@ -130,33 +133,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**42,34%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**42,85%**
 
-## Место в мете
+## История
 
-«Фанни» — тир D в нашем тир-листе по проценту побед, 132-е место из 133 героев. В Мифической славе результат почти такой же: 42,85%. За год клиенты BOOST MLBB заказали 23 бустов на герое «Фанни». Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои леса
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Линг](/images/heroes/ling.webp)Линг52,54%](https://boostmlbb.ru/heroes/ling.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Лукас](/images/heroes/lukas.webp)Лукас51,97%](https://boostmlbb.ru/heroes/lukas.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
-
-## История героя
-
-![Фанни](/images/heroes/fanny.webp)
-
-«Танцующая с клинками на поле боя.»
-
-Полная история героя «Фанни» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Танцующая с клинками на поле боя.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Fanny)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=17)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Fanny)
 
-## Буст на герое «Фанни»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -179,5 +162,3 @@ language: ru
 Какая сборка на героя «Фанни» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Злобный рык» и «Золотой метеор», эмблема убийцы с талантами «Разрыв», «Кровавое пиршество» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 47,81% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier C
-
-# Alpha in Mobile Legends: build, counters and stats
-
-Fighter, EXP Lane or Jungle. Wins 48.85% of matches over the last 30 days: #96 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier C
-
 ![](/images/heroes/alpha.webp)
 
-**Alpha**Ban 0.68% · Pick 1.32%
+Tier C
 
-Counters
+# Alpha
 
-![](/images/heroes/phoveus.webp)![](/images/heroes/odette.webp)![](/images/heroes/barats.webp)
+Fighter · EXP Lane or Jungle
 
-Win rate, 30 days**48.85%**
+**#96 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**48.85%**win rate, 30 days
+Win rate
 
-**1.32%**pick rate
+48.85%
 
-**0.68%**ban rate
+Pick rate
 
-**48.05%**wins in Mythical Glory
+1.32%
 
-## Alpha build
+Ban rate
 
-The most picked setup for EXP Lane Alpha in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.68%
+
+Charge · Damage · Difficulty 10/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,80 +51,82 @@ Battle spell
 
 Wins with this build **60.20%**Picked in **1.23%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20190.webp)Vengeance![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · Killing Spree**58.32%**
--   ![](/images/mlbb/spells/20190.webp)Vengeance![](/images/mlbb/emblems/20007.webp)FighterThrill · Seasoned Hunter · Impure Rage**54.96%**
+Core items
 
-## Alpha skills
+![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/2208.webp)Queen's Wings
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Spear of Alpha** → **Force Swing** → **Rotary Impact**
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/531.webp)Killing Spree
 
--   ![](/images/mlbb/skills/alpha-0.webp)
+Battle spell
 
-    **Beta, Advance!**Passive
+![](/images/mlbb/spells/20190.webp)Vengeance
 
-    When Alpha uses a skill, Beta will be summoned to attack. Enemies that are hit by Beta 2 time(s) will be Locked On.
-    Locked On: After Alpha deals damage to the target, Beta will fire a laser at them, dealing 60 (+50% Total Physical Attack) (+8\*Hero Level) True Damage and briefly applying a powerful slow effect.
-    This skill only deals 75% damage to Creeps.
+Wins with this build **58.32%**Picked in **1.75%** of matches
 
--   ![](/images/mlbb/skills/alpha-1.webp)
+Core items
 
-    **Rotary Impact**Skill 1CD 4 Mana Cost: 50 s
+![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/2208.webp)Queen's Wings
 
-    Alpha unleashes an energy wave in the target direction, dealing 100 (+90% Extra Physical Attack) Physical Damage to enemies in its path and slowing them by 40% for 1s.
-    Beta then strafes enemies along the same path, dealing 60 (+30% Extra Physical Attack) True Damage.
+Emblem and talents
 
--   ![](/images/mlbb/skills/alpha-2.webp)
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/131.webp)Impure Rage
 
-    **Force Swing**Skill 2CD 6 Mana Cost: 45 s
+Battle spell
 
-    After a short delay, Alpha swings his blade in the target direction, dealing 180 (+100% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and recovering 80 (+40% Extra Physical Attack) HP for the first enemy hit (healing decays by 40% for each additional enemy hit).
-    Beta then strafes enemies in the same area, dealing 60 (+30% Total Physical Attack) True Damage.
+![](/images/mlbb/spells/20190.webp)Vengeance
 
--   ![](/images/mlbb/skills/alpha-3.webp)
+Wins with this build **54.96%**Picked in **2.36%** of matches
 
-    **Spear of Alpha**Ultimate
+## Counters and teammates
 
-    Beta dives to the target location, dealing 100 (+20% Extra Physical Attack) Physical Damage to enemies hit and stunning them for 1s. Alpha then leaps towards the same location, knocking enemies in his path airborne and carrying them to the landing location. Alpha then slams down, dealing 250 (+100% Extra Physical Attack) Physical Damage and slowing the enemies by 40% for 1.5s.
-    Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack) True Damage each time.
+### Counters
 
+[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
--   Role**Fighter**
--   Lane**EXP Lane or Jungle**
--   Among fighters**#33 of 44**
--   In the EXP Lane**#32 of 42**
--   In the jungle**#25 of 37**
--   Speciality**Charge, Damage**
--   Difficulty**Easy (10/100)**
+### Teammates
 
-## Who counters Alpha
+Win rate gain when playing together
 
-Alpha loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
+[![](/images/heroes/gatotkaca.webp)Gatotkaca+1.70 pp](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/khaleed.webp)Khaleed+1.64 pp](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/uranus.webp)Uranus+1.58 pp](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/terizla.webp)Terizla+1.54 pp](https://boostmlbb.ru/en/heroes/terizla.html)
 
-[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)
+## Skills
 
-## Who Alpha is strong against
+Level-up priority · Spear of Alpha → Force Swing → Rotary Impact
 
-Alpha is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/alpha-0.webp)Passive**Beta, Advance!**
 
-[![Chang'e](/images/heroes/change.webp)Chang'e48.20%](https://boostmlbb.ru/en/heroes/change.html)[![Lancelot](/images/heroes/lancelot.webp)Lancelot43.13%](https://boostmlbb.ru/en/heroes/lancelot.html)[![Lylia](/images/heroes/lylia.webp)Lylia49.34%](https://boostmlbb.ru/en/heroes/lylia.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo49.90%](https://boostmlbb.ru/en/heroes/hanzo.html)
+When Alpha uses a skill, Beta will be summoned to attack. Enemies that are hit by Beta 2 time(s) will be Locked On.
+Locked On: After Alpha deals damage to the target, Beta will fire a laser at them, dealing 60 (+50% Total Physical Attack) (+8\*Hero Level) True Damage and briefly applying a powerful slow effect.
+This skill only deals 75% damage to Creeps.
 
-## Best teammates for Alpha
+![](/images/mlbb/skills/alpha-1.webp)Skill 1**Rotary Impact**
 
-With these heroes on the same team Alpha wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 4 Mana Cost: 50 s**
 
-[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca+1.70 pts](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Khaleed](/images/heroes/khaleed.webp)Khaleed+1.64 pts](https://boostmlbb.ru/en/heroes/khaleed.html)[![Uranus](/images/heroes/uranus.webp)Uranus+1.58 pts](https://boostmlbb.ru/en/heroes/uranus.html)[![Terizla](/images/heroes/terizla.webp)Terizla+1.54 pts](https://boostmlbb.ru/en/heroes/terizla.html)
+Alpha unleashes an energy wave in the target direction, dealing 100 (+90% Extra Physical Attack) Physical Damage to enemies in its path and slowing them by 40% for 1s.
+Beta then strafes enemies along the same path, dealing 60 (+30% Extra Physical Attack) True Damage.
+
+![](/images/mlbb/skills/alpha-2.webp)Skill 2**Force Swing**
+
+**Cooldown 6 Mana Cost: 45 s**
+
+After a short delay, Alpha swings his blade in the target direction, dealing 180 (+100% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and recovering 80 (+40% Extra Physical Attack) HP for the first enemy hit (healing decays by 40% for each additional enemy hit).
+Beta then strafes enemies in the same area, dealing 60 (+30% Total Physical Attack) True Damage.
+
+![](/images/mlbb/skills/alpha-3.webp)Ultimate**Spear of Alpha**
+
+Beta dives to the target location, dealing 100 (+20% Extra Physical Attack) Physical Damage to enemies hit and stunning them for 1s. Alpha then leaps towards the same location, knocking enemies in his path airborne and carrying them to the landing location. Alpha then slams down, dealing 250 (+100% Extra Physical Attack) Physical Damage and slowing the enemies by 40% for 1.5s.
+Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack) True Damage each time.
 
 ## Win rate by rank
-
-Best result in Epic (50.15%), weakest in Mythical Glory (48.05%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.15%**
 -   ![](/images/ranks/Legend.webp)Legend**48.98%**
@@ -134,33 +134,13 @@ Best result in Epic (50.15%), weakest in Mythical Glory (48.05%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.96%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.05%**
 
-## Place in the meta
-
-Alpha sits in tier C of our win-rate tier list and ranks 96 of 133 heroes. In Mythical Glory the win rate is lower: 48.05% against 48.85% across all ranks, a 0.80-point gap. In patch 2.2.16 the hero was buffed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Alpha](/images/heroes/alpha.webp)
+A pure cyborg made by Laboratory 1718.
 
-«A pure cyborg made by Laboratory 1718.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/alpha)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=28)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alpha)
 
-Alpha’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/alpha)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=28)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Alpha)
-
-## Boost on Alpha
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -183,5 +163,3 @@ Tier C: #96 of 133 heroes by 30-day win rate and #33 among fighters.
 What is the best build for Alpha?
 
 The most popular ranked build: War Axe, Blade of Despair and Queen's Wings as core items, the Fighter emblem with Thrill, Festival of Blood and Impure Rage, and Vengeance. It wins 60.20% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

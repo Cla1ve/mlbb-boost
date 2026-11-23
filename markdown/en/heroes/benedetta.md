@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier A
-
-# Benedetta in Mobile Legends: build, counters and stats
-
-Fighter and assassin, EXP Lane. Wins 52.10% of matches over the last 30 days: #25 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier A
-
 ![](/images/heroes/benedetta.webp)
 
-**Benedetta**Ban 0.37% · Pick 0.42%
+Tier A
 
-Counters
+# Benedetta
 
-![](/images/heroes/x-borg.webp)![](/images/heroes/alpha.webp)![](/images/heroes/silvanna.webp)
+Fighter and assassin · EXP Lane
 
-Win rate, 30 days**52.10%**
+**#25 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**52.10%**win rate, 30 days
+Win rate
 
-**0.42%**pick rate
+52.10%
 
-**0.37%**ban rate
+Pick rate
 
-**51.55%**wins in Mythical Glory
+0.42%
 
-## Benedetta build
+Ban rate
 
-The most picked setup for EXP Lane Benedetta in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.37%
+
+Chase · Burst · Difficulty 80/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,79 +51,83 @@ Battle spell
 
 Wins with this build **57.38%**Picked in **4.24%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20070.webp)Petrify![](/images/mlbb/emblems/20007.webp)FighterRupture · Weapons Master · Lethal Ignition**54.64%**
--   ![](/images/mlbb/spells/20070.webp)Petrify![](/images/mlbb/emblems/20007.webp)FighterRupture · Weapons Master · Lethal Ignition**52.99%**
+Core items
 
-## Benedetta skills
+![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3001.webp)Malefic Roar![](/images/mlbb/items/3009.webp)Hunter Strike
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Alecto: Final Blow** → **Phantom Slash** → **An Eye for An Eye**
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
 
--   ![](/images/mlbb/skills/benedetta-0.webp)
+Battle spell
 
-    **Elapsed Daytime**Passive
+![](/images/mlbb/spells/20070.webp)Petrify
 
-    Hold the Basic Attack button to enter the Swordout state and charge Sword Intent. Once fully charged, release it to perform a Swordout Slash in the direction she's facing and dash forward, dealing (+215% Total Physical Attack) Physical Damage to enemies on the path (counts as basic attack damage and is reduced to 50% against minions and creeps).
-    Benedetta can only cast Swordout Slash when her Sword Intent is full and she is in the Swordout state.
-    Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
+Wins with this build **54.64%**Picked in **5.01%** of matches
 
--   ![](/images/mlbb/skills/benedetta-1.webp)
+Core items
 
-    **Phantom Slash**Skill 1CD 10 Mana Cost: 55 s
+![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/3001.webp)Malefic Roar
 
-    Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200 (+75% Total Physical Attack) Physical Damage and slowing the enemies by 60% for 0.5s.
-    Meanwhile, Benedetta dashes forward to slash, dealing 75 (+100% Total Physical Attack) Physical Damage. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)
+Emblem and talents
 
--   ![](/images/mlbb/skills/benedetta-2.webp)
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
 
-    **An Eye for An Eye**Skill 2CD 15 Mana Cost: 100 s
+Battle spell
 
-    Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300 (+80% Total Physical Attack) Physical Damage.
-    If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5s.
+![](/images/mlbb/spells/20070.webp)Petrify
 
--   ![](/images/mlbb/skills/benedetta-3.webp)
+Wins with this build **52.99%**Picked in **2.49%** of matches
 
-    **Alecto: Final Blow**UltimateCD 45 Mana Cost: 110 s
+## Counters and teammates
 
-    Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560 (+1105% Extra Physical Attack) Physical Damage to enemies within and slows them by 50%.
+### Counters
 
+[![](/images/heroes/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
--   Role**Fighter and assassin**
--   Lane**EXP Lane**
--   Among fighters**#5 of 44**
--   Among assassins**#2 of 29**
--   In the EXP Lane**#7 of 42**
--   Speciality**Chase, Burst**
--   Difficulty**Hard (80/100)**
+### Teammates
 
-## Who counters Benedetta
+Win rate gain when playing together
 
-Benedetta loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are fighters.
+[![](/images/heroes/thamuz.webp)Thamuz+2.18 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/fredrinn.webp)Fredrinn+2.02 pp](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/sun.webp)Sun+2.02 pp](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/alice.webp)Alice+1.91 pp](https://boostmlbb.ru/en/heroes/alice.html)
 
-[![X.Borg](/images/heroes/x-borg.webp)X.Borg49.96%](https://boostmlbb.ru/en/heroes/x-borg.html)[![Alpha](/images/heroes/alpha.webp)Alpha48.85%](https://boostmlbb.ru/en/heroes/alpha.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)
+## Skills
 
-## Who Benedetta is strong against
+Level-up priority · Alecto: Final Blow → Phantom Slash → An Eye for An Eye
 
-Benedetta is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/benedetta-0.webp)Passive**Elapsed Daytime**
 
-[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Selena](/images/heroes/selena.webp)Selena48.34%](https://boostmlbb.ru/en/heroes/selena.html)[![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)Yi Sun-shin49.11%](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Mathilda](/images/heroes/mathilda.webp)Mathilda44.49%](https://boostmlbb.ru/en/heroes/mathilda.html)
+Hold the Basic Attack button to enter the Swordout state and charge Sword Intent. Once fully charged, release it to perform a Swordout Slash in the direction she's facing and dash forward, dealing (+215% Total Physical Attack) Physical Damage to enemies on the path (counts as basic attack damage and is reduced to 50% against minions and creeps).
+Benedetta can only cast Swordout Slash when her Sword Intent is full and she is in the Swordout state.
+Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
 
-## Best teammates for Benedetta
+![](/images/mlbb/skills/benedetta-1.webp)Skill 1**Phantom Slash**
 
-With these heroes on the same team Benedetta wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 10 Mana Cost: 55 s**
 
-[![Thamuz](/images/heroes/thamuz.webp)Thamuz+2.18 pts](https://boostmlbb.ru/en/heroes/thamuz.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn+2.02 pts](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Sun](/images/heroes/sun.webp)Sun+2.02 pts](https://boostmlbb.ru/en/heroes/sun.html)[![Alice](/images/heroes/alice.webp)Alice+1.91 pts](https://boostmlbb.ru/en/heroes/alice.html)
+Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200 (+75% Total Physical Attack) Physical Damage and slowing the enemies by 60% for 0.5s.
+Meanwhile, Benedetta dashes forward to slash, dealing 75 (+100% Total Physical Attack) Physical Damage. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)
+
+![](/images/mlbb/skills/benedetta-2.webp)Skill 2**An Eye for An Eye**
+
+**Cooldown 15 Mana Cost: 100 s**
+
+Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300 (+80% Total Physical Attack) Physical Damage.
+If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5s.
+
+![](/images/mlbb/skills/benedetta-3.webp)Ultimate**Alecto: Final Blow**
+
+**Cooldown 45 Mana Cost: 110 s**
+
+Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560 (+1105% Extra Physical Attack) Physical Damage to enemies within and slows them by 50%.
 
 ## Win rate by rank
-
-Best result in Epic (54.38%), weakest in Mythical Glory (51.55%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**54.38%**
 -   ![](/images/ranks/Legend.webp)Legend**53.18%**
@@ -133,33 +135,13 @@ Best result in Epic (54.38%), weakest in Mythical Glory (51.55%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**52.30%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**51.55%**
 
-## Place in the meta
-
-Benedetta sits in tier A of our win-rate tier list and ranks 25 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 51.55% against 52.10% across all ranks, a 0.55-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Benedetta](/images/heroes/benedetta.webp)
+Female warrior defending the Barren Lands against demon invasion.
 
-«Female warrior defending the Barren Lands against demon invasion.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Benedetta)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=97)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Benedetta)
 
-Benedetta’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Benedetta)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=97)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Benedetta)
-
-## Boost on Benedetta
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -182,5 +164,3 @@ Tier A: #25 of 133 heroes by 30-day win rate and #5 among fighters.
 What is the best build for Benedetta?
 
 The most popular ranked build: Blade of the Heptaseas, Hunter Strike, Malefic Roar and Blade of Despair as core items, the Fighter emblem with Rupture, Weapons Master and Lethal Ignition, and Petrify. It wins 57.38% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

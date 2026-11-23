@@ -18,7 +18,7 @@
         "Результаты турнира"
       ],
       "datePublished": "2026-07-27T21:15:00+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/msc-2026-playoff-schedule.jpg",
         "width": 1600,
@@ -47,10 +47,6 @@
             "ONIC ID заняла третье место после победы 3:0 над Team Falcons PH.",
             "KidBomba получил награду MVP, а Team Spirit заработала $1 000 000 и 1 000 клубных очков EWC."
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Team Spirit выиграла MSC 2026: в финале 1 августа в Париже команда обыграла Yangon Galacticos 4:3, и серия дошла до седьмой карты. Здесь вся сетка плей-офф, путь чемпиона, призовые, MVP и цифры аудитории."
         },
         {
           "type": "heading",
@@ -149,7 +145,8 @@
               "3:4"
             ]
           ],
-          "note": "Четвертьфиналы, полуфиналы и матч за третье место проходили в BO5; гранд-финал — в BO7."
+          "note": "Четвертьфиналы, полуфиналы и матч за третье место проходили в BO5; гранд-финал — в BO7.",
+          "layout": "results"
         },
         {
           "type": "heading",
@@ -353,10 +350,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "text": "Team Spirit won MSC 2026: in the August 1 final in Paris they beat Yangon Galacticos 4:3, and the series went to the seventh game. Here is the full playoff bracket, the champion's run, prize money, MVP and viewership figures."
-            },
-            {
               "type": "heading",
               "id": "final",
               "text": "Team Spirit are the MSC 2026 champions"
@@ -453,7 +446,8 @@
                   "3:4"
                 ]
               ],
-              "note": "The quarterfinals, semifinals, and third-place match were BO5; the Grand Final was BO7."
+              "note": "The quarterfinals, semifinals, and third-place match were BO5; the Grand Final was BO7.",
+              "layout": "results"
             },
             {
               "type": "heading",
@@ -729,7 +723,7 @@
         "Стамбул"
       ],
       "datePublished": "2026-08-22T23:31:02+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/m8-istanbul-world-road.jpg",
         "width": 1600,
@@ -760,7 +754,7 @@
         },
         {
           "type": "paragraph",
-          "text": "M8 — первый чемпионат мира по MLBB, финалы которого пройдут в Европе. Отбор шёл через 23 лиги и турнира. К середине ноября MOONTON объявил большую часть участников, ждём только Юго-Восточную Азию и последние места в Wild Card. Точные игровые дни на 22 ноября не объявлены, известны только месяцы."
+          "text": "Точные игровые дни на 22 ноября ещё не объявлены. Известны месяцы проведения Wild Card в Бангкоке и основной стадии в Стамбуле."
         },
         {
           "type": "heading",
@@ -790,7 +784,8 @@
               "16 команд, призовой фонд $1 000 000"
             ]
           ],
-          "note": "MOONTON называет месяцы, но не игровые дни. Добавим даты, когда их опубликуют."
+          "note": "MOONTON называет месяцы, но не игровые дни. Добавим даты, когда их опубликуют.",
+          "layout": "stages"
         },
         {
           "type": "heading",
@@ -1026,7 +1021,7 @@
             },
             {
               "type": "paragraph",
-              "text": "M8 is the first MLBB world championship with finals in Europe. Qualification ran through 23 leagues and tournaments. By mid-November MOONTON had announced most of the field; only Southeast Asia and the last Wild Card places remain. Exact match days had not been announced as of 22 November, only the months."
+              "text": "As of 22 November, exact match dates had yet to be announced. The months are confirmed for the Bangkok Wild Card and the Istanbul main stage."
             },
             {
               "type": "heading",
@@ -1056,7 +1051,8 @@
                   "16 teams, $1,000,000 prize pool"
                 ]
               ],
-              "note": "MOONTON gives the months but not the match days. We will add dates once they are published."
+              "note": "MOONTON gives the months but not the match days. We will add dates once they are published.",
+              "layout": "stages"
             },
             {
               "type": "heading",
@@ -1319,7 +1315,7 @@
         "Калибровка"
       ],
       "datePublished": "2026-11-22T13:44:00+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-ranks-in-order.jpg",
         "width": 1600,
@@ -1350,7 +1346,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Рейтинговая лестница MLBB делится на две части. Первые шесть рангов разбиты на дивизионы: от III или V до I, в каждом по 3–5 звёзд. Победа добавляет звезду, поражение её снимает, а когда дивизион заполнен, следующая победа переводит выше. С Мифика начинается вторая часть: звёзды просто копятся, а название ранга меняется на порогах 25, 50 и 100."
+          "text": "До Мифика вы проходите дивизионы от III или V до I. В каждом нужно набрать от 3 до 5 звёзд. В Мифике звёзды складываются в один счётчик."
         },
         {
           "type": "heading",
@@ -1417,7 +1413,8 @@
               "—"
             ]
           ],
-          "note": "Счёт звёзд совпадает с калькулятором BOOST MLBB и таблицами сторонних справочников. В Мифических рангах звёзды считаются внутри Мифика."
+          "note": "Счёт звёзд совпадает с калькулятором BOOST MLBB и таблицами сторонних справочников. В Мифических рангах звёзды считаются внутри Мифика.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -1430,7 +1427,7 @@
         },
         {
           "type": "paragraph",
-          "text": "После Легенды I следующая победа переводит в Мифик. Здесь начинается калибровка: 10 матчей, в которых каждая победа приносит две звезды, а поражение звёзд не отнимает. За калибровку можно набрать до 10 звёзд. Дальше звёзды снова идут по одной за победу и поражение."
+          "text": "После Легенды I следующая победа переводит в Мифик. Здесь начинается калибровка: 10 матчей, в которых каждая победа приносит две звезды, а поражение звёзд не отнимает. Дальше звёзды снова идут по одной за победу и поражение."
         },
         {
           "type": "table",
@@ -1461,7 +1458,8 @@
               "100 и выше",
               "Звёзды копятся без верхней границы"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "callout",
@@ -1542,7 +1540,8 @@
               "около 190"
             ]
           ],
-          "note": "Расчёт: защита звезды срабатывает примерно раз в шесть поражений, очки повышения дают звезду раз в 35–50 матчей. Это оценка, а не правило игры."
+          "note": "Расчёт: защита звезды срабатывает примерно раз в шесть поражений, очки повышения дают звезду раз в 35–50 матчей. Это оценка, а не правило игры.",
+          "visuals": true
         },
         {
           "type": "heading",
@@ -1630,7 +1629,7 @@
             },
             {
               "type": "paragraph",
-              "text": "The MLBB ranked ladder has two parts. The first six ranks are split into divisions, from III or V down to I, with 3–5 stars each. A win adds a star, a loss removes one, and when a division is full the next win moves you up. Mythic starts the second part: stars simply add up, and the rank name changes at 25, 50 and 100 stars."
+              "text": "Before Mythic, divisions run from III or V to I. Each takes 3 to 5 stars. In Mythic, all stars go towards one total."
             },
             {
               "type": "heading",
@@ -1697,7 +1696,8 @@
                   "—"
                 ]
               ],
-              "note": "The star count matches the BOOST MLBB calculator and third-party reference tables. Mythic ranks count stars inside Mythic."
+              "note": "The star count matches the BOOST MLBB calculator and third-party reference tables. Mythic ranks count stars inside Mythic.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -1710,7 +1710,7 @@
             },
             {
               "type": "paragraph",
-              "text": "After Legend I the next win takes you to Mythic. Placement starts here: 10 matches where every win gives two stars and a loss takes none. Placement can add up to 10 stars. After that stars again change by one per win or loss."
+              "text": "After Legend I the next win takes you to Mythic. Placement starts here: 10 matches where every win gives two stars and a loss takes none. After that stars again change by one per win or loss."
             },
             {
               "type": "table",
@@ -1741,7 +1741,8 @@
                   "100 and up",
                   "Stars add up with no cap"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "callout",
@@ -1822,7 +1823,8 @@
                   "about 190"
                 ]
               ],
-              "note": "Assumptions: star protection triggers about once in six losses, and star raising points give a star every 35–50 matches. This is an estimate, not a game rule."
+              "note": "Assumptions: star protection triggers about once in six losses, and star raising points give a star every 35–50 matches. This is an estimate, not a game rule.",
+              "visuals": true
             },
             {
               "type": "heading",
@@ -1878,7 +1880,7 @@
         "Мифик"
       ],
       "datePublished": "2026-11-22T13:44:00+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-season-end-rank-reset.jpg",
         "width": 1600,
@@ -1909,7 +1911,7 @@
         },
         {
           "type": "paragraph",
-          "text": "42 сезон начался 16 сентября 2026 года, в день выхода обновления 2.2.16. Последние сезоны длились около 91 дня, поэтому конец ждут 16 декабря, и тогда же должен открыться 43 сезон. Это расчёт по прошлым сезонам: официальной даты пока нет. Точнее всего срок показывает сама игра — в режиме рейтинга есть таймер, сколько дней осталось до конца сезона."
+          "text": "Сезон начался 16 сентября. Прогноз на 16 декабря основан на длительности прошлых сезонов, около 91 дня. Точный отсчёт смотрите в окне рейтингового режима."
         },
         {
           "type": "heading",
@@ -1946,7 +1948,8 @@
               "Средняя длина последних сезонов"
             ]
           ],
-          "note": "41 сезон длился 91 день. Если Moonton объявит другое время, мы обновим таблицу."
+          "note": "41 сезон длился 91 день. Если Moonton объявит другое время, мы обновим таблицу.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -1997,7 +2000,8 @@
               "около 45"
             ]
           ],
-          "note": "Таблица MLBB Hub, сверенная на сбросе между 40 и 41 сезонами. Часть игроков сообщает о других значениях, поэтому точную позицию смотрите в уведомлении игры в начале сезона."
+          "note": "Таблица MLBB Hub, сверенная на сбросе между 40 и 41 сезонами. Часть игроков сообщает о других значениях, поэтому точную позицию смотрите в уведомлении игры в начале сезона.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -2129,7 +2133,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Season 42 started on 16 September 2026, the day update 2.2.16 came out. Recent seasons lasted about 91 days, so the end is expected on 16 December, with Season 43 opening the same day. This is an estimate from past seasons: there is no official date yet. The game itself is the most accurate source — ranked mode shows a timer with the days left in the season."
+              "text": "The season started on 16 September. The 16 December estimate is based on previous seasons lasting about 91 days. Check the ranked mode timer for the in-game countdown."
             },
             {
               "type": "heading",
@@ -2166,7 +2170,8 @@
                   "Average length of recent seasons"
                 ]
               ],
-              "note": "Season 41 lasted 91 days. If Moonton announces a different time, we will update the table."
+              "note": "Season 41 lasted 91 days. If Moonton announces a different time, we will update the table.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -2217,7 +2222,8 @@
                   "about 45"
                 ]
               ],
-              "note": "MLBB Hub chart, checked at the reset between Seasons 40 and 41. Some players report different results, so check the in-game notice at the start of the season for your exact position."
+              "note": "MLBB Hub chart, checked at the reset between Seasons 40 and 41. Some players report different results, so check the in-game notice at the start of the season for your exact position.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -2311,7 +2317,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:29:19+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-meta-tier-list.jpg",
         "width": 1600,
@@ -2342,7 +2348,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Мы собрали мету 42 сезона по официальной статистике MOONTON: раздел «Рейтинг героев» на mobilelegends.com показывает процент выбора, побед и запрета для каждого героя. Взяли последние 30 дней на всех рангах, данные обновлены 21 ноября 2026 года в 23:55. Отдельно сравнили с Мифической славой — там играют иначе, чем в среднем по игре."
+          "text": "Снимок рейтинга за 30 дней на 21 ноября 2026 года. Основной список охватывает все ранги. Для Мифической славы ниже приведено отдельное сравнение."
         },
         {
           "type": "heading",
@@ -3014,7 +3020,8 @@
               "31,27%"
             ]
           ],
-          "note": "Только герои с долей выбора от 0,50%."
+          "note": "Только герои с долей выбора от 0,50%.",
+          "visuals": true
         },
         {
           "type": "callout",
@@ -3096,7 +3103,8 @@
               "0,82%",
               "32,91%"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -3176,7 +3184,8 @@
               "1,79%",
               "48,34%"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -3227,7 +3236,8 @@
               "52,56%",
               "1,00 п.п."
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "table",
@@ -3269,7 +3279,8 @@
               "49,56%",
               "1,80 п.п."
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "heading",
@@ -3352,7 +3363,7 @@
             },
             {
               "type": "paragraph",
-              "text": "We built the Season 42 meta from MOONTON’s official statistics: the Hero Rank section on mobilelegends.com shows the pick, win and ban rate of every hero. We took the last 30 days across all ranks, with data updated on 21 November 2026 at 23:55. We also compared it with Mythical Glory, where the game is played differently from the average."
+              "text": "A 30-day snapshot as of 21 November 2026. The main list covers all ranks, with a separate comparison for Mythical Glory below."
             },
             {
               "type": "heading",
@@ -4024,7 +4035,8 @@
                   "31.27%"
                 ]
               ],
-              "note": "Only heroes with a pick rate of 0.50% or more."
+              "note": "Only heroes with a pick rate of 0.50% or more.",
+              "visuals": true
             },
             {
               "type": "callout",
@@ -4106,7 +4118,8 @@
                   "0.82%",
                   "32.91%"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -4186,7 +4199,8 @@
                   "1.79%",
                   "48.34%"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -4237,7 +4251,8 @@
                   "52.56%",
                   "1.00 pp"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "table",
@@ -4279,7 +4294,8 @@
                   "49.56%",
                   "1.80 pp"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "heading",
@@ -4342,7 +4358,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:36:46+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-current-patch.jpg",
         "width": 1600,
@@ -4373,7 +4389,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Обновление 2.2.16 — последний крупный патч Mobile Legends на 22 ноября 2026 года. Разработчики подтянули слабых лесников и героев линии опыта, полностью переделали Машу и Бруно и замедлили экономику матча, чтобы отстающей команде было проще отыграться. Разбираем главное из официальных патч-нотов и смотрим, как эти изменения выглядят в статистике спустя два месяца."
+          "text": "В патче 2.2.16 Маша и Бруно получили новые механики. Снижение награды за лесных монстров замедлило набор золота."
         },
         {
           "type": "heading",
@@ -4481,7 +4497,8 @@
               "7,39%"
             ]
           ],
-          "note": "Направление изменений — из официальных патч-нотов. Проценты — официальная статистика MOONTON за 30 дней на всех рангах, обновление 21 ноября 2026 года."
+          "note": "Направление изменений — из официальных патч-нотов. Проценты — официальная статистика MOONTON за 30 дней на всех рангах, обновление 21 ноября 2026 года.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -4621,7 +4638,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Update 2.2.16 is the latest major Mobile Legends patch as of 22 November 2026. The developers lifted weak junglers and EXP lane heroes, fully reworked Masha and Bruno and slowed the match economy so a team that falls behind can come back more easily. Below are the key points from the official patch notes and how those changes look in the statistics two months later."
+              "text": "Patch 2.2.16 changed how Masha and Bruno play. Lower jungle monster rewards slowed gold income."
             },
             {
               "type": "heading",
@@ -4729,7 +4746,8 @@
                   "7.39%"
                 ]
               ],
-              "note": "The direction of each change comes from the official patch notes. Percentages are official MOONTON statistics for 30 days across all ranks, updated on 21 November 2026."
+              "note": "The direction of each change comes from the official patch notes. Percentages are official MOONTON statistics for 30 days across all ranks, updated on 21 November 2026.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -4843,7 +4861,7 @@
         "Безопасность"
       ],
       "datePublished": "2026-11-22T14:38:00+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-redeem-codes-guide.jpg",
         "width": 1600,
@@ -4871,10 +4889,6 @@
             "Код подтверждения действует 30 минут. Награда приходит в игровую почту.",
             "Пароль от аккаунта для ввода промокода не нужен. Сайт, который его просит, — мошеннический."
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "В самой Mobile Legends поля для промокода нет, поэтому многие ищут его в настройках и не находят. Коды вводят на сайте MOONTON в разделе «Выкуп наград игры». Разберём официальную форму по шагам и причины, по которым код не срабатывает. Списка «рабочих кодов» здесь нет: проверить их заранее нельзя, а коды из неофициальных подборок чаще всего уже истекли."
         },
         {
           "type": "heading",
@@ -4918,6 +4932,13 @@
           "text": "Как ввести промокод: пошагово"
         },
         {
+          "type": "linkCard",
+          "label": "Mobile Legends",
+          "title": "Ввести промокод",
+          "description": "Откройте форму и введите Game ID и Zone ID из профиля.",
+          "href": "https://www.mobilelegends.com/redeem"
+        },
+        {
           "type": "list",
           "items": [
             "Откройте профиль в игре и запишите два числа: Game ID и Zone ID в скобках, например 123456789 (1234).",
@@ -4925,7 +4946,8 @@
             "Вставьте промокод в поле Redemption code, затем Game ID и Zone ID.",
             "Нажмите Send. В игре откройте почту: туда придёт код подтверждения, он действует 30 минут.",
             "Введите код подтверждения на сайте и нажмите Redeem. Награда придёт в игровую почту."
-          ]
+          ],
+          "ordered": true
         },
         {
           "type": "callout",
@@ -5036,10 +5058,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "text": "Mobile Legends has no redeem field inside the game, so many players look for it in the settings and never find it. Codes are entered on the MOONTON website in the Redeem game rewards section. Below is a step-by-step guide to the official form and why a code may fail. There is no list of “working codes” here: they cannot be checked in advance, and codes from unofficial lists have usually expired."
-            },
-            {
               "type": "heading",
               "id": "where",
               "text": "Where to enter a redeem code"
@@ -5081,6 +5099,13 @@
               "text": "How to redeem a code, step by step"
             },
             {
+              "type": "linkCard",
+              "label": "Mobile Legends",
+              "title": "Redeem a code",
+              "description": "Open the form and enter the Game ID and Zone ID from your profile.",
+              "href": "https://www.mobilelegends.com/redeem"
+            },
+            {
               "type": "list",
               "items": [
                 "Open your in-game profile and note two numbers: the Game ID and the Zone ID in brackets, for example 123456789 (1234).",
@@ -5088,7 +5113,8 @@
                 "Paste the code into Redemption code, then enter your Game ID and Zone ID.",
                 "Press Send. Open your in-game mail: the verification code arrives there and is valid for 30 minutes.",
                 "Enter the verification code on the site and press Redeem. The reward arrives in your in-game mail."
-              ]
+              ],
+              "ordered": true
             },
             {
               "type": "callout",
@@ -5180,7 +5206,7 @@
         "Символы"
       ],
       "datePublished": "2026-11-22T23:03:00+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-change-nickname.jpg",
         "width": 1600,
@@ -5210,10 +5236,6 @@
           ]
         },
         {
-          "type": "paragraph",
-          "text": "Ник в Mobile Legends видят союзники на экране загрузки, соперники в конце матча и все, кто открывает ваш профиль. Поменять его можно за пару касаний, но бесплатно это получится только один раз. Разберём, где кнопка смены имени, сколько стоит карточка, как сделать невидимый ник и почему знак из генератора может не пройти."
-        },
-        {
           "type": "heading",
           "id": "steps",
           "text": "Как сменить ник: пошагово"
@@ -5226,7 +5248,8 @@
             "Введите новое имя. Если в нём есть символы, соберите ник заранее в заметках и вставьте целиком.",
             "Нажмите «ОК». Если бесплатная смена ещё не использована, ник поменяется без карточки.",
             "Если бесплатная смена уже потрачена, игра попросит карточку смены имени. Купленную карточку можно применить и из рюкзака: найдите её среди предметов и нажмите «Использовать»."
-          ]
+          ],
+          "ordered": true
         },
         {
           "type": "paragraph",
@@ -5311,7 +5334,8 @@
             "Откройте смену имени в профиле и удалите старый ник.",
             "Вставьте символ. Если игра пишет, что имя занято, добавьте ещё один или два пустых символа подряд или смешайте оба вида.",
             "Нажмите «ОК» и откройте профиль: имя должно выглядеть пустым."
-          ]
+          ],
+          "ordered": true
         },
         {
           "type": "paragraph",
@@ -5448,10 +5472,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "text": "Your Mobile Legends nickname is seen by teammates on the loading screen, by opponents after the match and by anyone who opens your profile. Changing it takes a couple of taps, but only once for free. Here is where the rename button is, what the card costs, how to make an invisible nickname and why a symbol from a generator may be refused."
-            },
-            {
               "type": "heading",
               "id": "steps",
               "text": "How to change your nickname: step by step"
@@ -5464,7 +5484,8 @@
                 "Type the new name. If it has symbols, put it together in your notes first and paste it in one go.",
                 "Tap OK. If you have not used the free change yet, the name changes without a card.",
                 "If the free change is gone, the game asks for a Rename Card. A card you bought can also be used from the backpack: find it among your items and tap Use."
-              ]
+              ],
+              "ordered": true
             },
             {
               "type": "paragraph",
@@ -5549,7 +5570,8 @@
                 "Open the rename window in your profile and delete the old nickname.",
                 "Paste the character. If the game says the name is taken, add one or two more empty characters in a row or mix both kinds.",
                 "Tap OK and open your profile: the name should look empty."
-              ]
+              ],
+              "ordered": true
             },
             {
               "type": "paragraph",
@@ -5655,7 +5677,7 @@
         "Переработки"
       ],
       "datePublished": "2026-11-22T23:21:00+03:00",
-      "dateModified": "2026-11-23T14:09:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-new-heroes-2026.jpg",
         "width": 1600,
@@ -5683,10 +5705,6 @@
             "Хирару банят в 68% матчей, это самый высокий процент банов среди всех 133 героев.",
             "На 22 ноября MOONTON не анонсировал следующего героя. Последние официальные патч-ноты — 2.2.16 от 16 сентября."
           ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Новый герой в Mobile Legends выходит вместе с крупным патчем, и первые недели его либо банят, либо берут в каждой второй игре. Мы собрали всех новых и переработанных героев за последние полтора года, проверили даты по официальным патч-нотам и посмотрели, как они играют сейчас по статистике MOONTON."
         },
         {
           "type": "heading",
@@ -5758,7 +5776,8 @@
               "Новый герой"
             ]
           ],
-          "note": "Порядок от новых к старым. Даты и роли сверены с официальными патч-нотами MOONTON и MLBB Wiki."
+          "note": "Порядок от новых к старым. Даты и роли сверены с официальными патч-нотами MOONTON и MLBB Wiki.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -5935,7 +5954,8 @@
               "12,56%"
             ]
           ],
-          "note": "Тир — наша оценка по проценту побед: S от 53%, A от 51%, B ниже. Данные на 21 ноября 2026 года."
+          "note": "Тир — наша оценка по проценту побед: S от 53%, A от 51%, B ниже. Данные на 21 ноября 2026 года.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -6049,10 +6069,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "text": "A new Mobile Legends hero arrives with a major patch, and for the first weeks it is either banned or picked in every other game. We collected every new and revamped hero from the last year and a half, checked the dates against the official patch notes and looked at how they perform now in MOONTON statistics."
-            },
-            {
               "type": "heading",
               "id": "timeline",
               "text": "New heroes and revamps by date"
@@ -6122,7 +6138,8 @@
                   "New hero"
                 ]
               ],
-              "note": "Newest first. Dates and roles were checked against official MOONTON patch notes and the MLBB Wiki."
+              "note": "Newest first. Dates and roles were checked against official MOONTON patch notes and the MLBB Wiki.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -6299,7 +6316,8 @@
                   "12.56%"
                 ]
               ],
-              "note": "The tier is our grade by win rate: S from 53%, A from 51%, B below. Data as of 21 November 2026."
+              "note": "The tier is our grade by win rate: S from 53%, A from 51%, B below. Data as of 21 November 2026.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -6382,7 +6400,7 @@
         "Moonton"
       ],
       "datePublished": "2026-11-23T16:14:00+03:00",
-      "dateModified": "2026-11-23T16:14:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-account-bind-recover.jpg",
         "width": 1600,
@@ -6412,10 +6430,6 @@
           ]
         },
         {
-          "type": "paragraph",
-          "text": "Почти все истории «пропал аккаунт в Мобайл Легендс» начинаются одинаково: человек годами играл на гостевом профиле, потом сменил телефон или удалил игру. Разберём, как привязать аккаунт Mobile Legends, как переключаться между основным и вторым профилем, как вернуть потерянный и как удалить ненужный."
-        },
-        {
           "type": "heading",
           "id": "guest",
           "text": "Почему гостевой аккаунт опасен"
@@ -6442,7 +6456,8 @@
             "Выберите способ входа. Для аккаунта Moonton понадобится действующая почта: на неё придёт код, затем вы зададите пароль.",
             "Для Google, Apple ID, Facebook, TikTok или VK войдите в эту учётную запись и подтвердите доступ.",
             "Вернитесь в «Центр аккаунтов» и проверьте, что способ отмечен как привязанный."
-          ]
+          ],
+          "ordered": true
         },
         {
           "type": "table",
@@ -6494,7 +6509,8 @@
             "Откройте профиль, раздел «Аккаунт» и нажмите кнопку смены аккаунта (в английском клиенте — Switch Account).",
             "Войдите способом, к которому привязан другой аккаунт, или зарегистрируйте новый аккаунт Moonton на другую почту.",
             "Чтобы вернуться, снова нажмите смену аккаунта и войдите способом, привязанным к основному профилю."
-          ]
+          ],
+          "ordered": true
         },
         {
           "type": "cta",
@@ -6656,10 +6672,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "text": "Almost every “I lost my Mobile Legends account” story starts the same way: someone played on a guest profile for years, then changed phones or deleted the game. Here is how to bind a Mobile Legends account, switch between a main and a second profile, get a lost one back and delete one you no longer need."
-            },
-            {
               "type": "heading",
               "id": "guest",
               "text": "Why a guest account is risky"
@@ -6686,7 +6698,8 @@
                 "Pick a login method. A Moonton account needs a working email: you receive a code there, then set a password.",
                 "For Google, Apple ID, Facebook, TikTok or VK, sign in to that account and confirm access.",
                 "Go back to Account Center and check that the method is marked as bound."
-              ]
+              ],
+              "ordered": true
             },
             {
               "type": "table",
@@ -6738,7 +6751,8 @@
                 "Open your profile, go to Account and tap the switch button (Switch Account in the English client).",
                 "Log in with the method bound to the other account, or register a new Moonton account with a different email.",
                 "To go back, tap Switch Account again and log in with the method bound to your main profile."
-              ]
+              ],
+              "ordered": true
             },
             {
               "type": "cta",
@@ -6855,7 +6869,7 @@
         "Герои"
       ],
       "datePublished": "2026-11-23T16:20:00+03:00",
-      "dateModified": "2026-11-23T16:20:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-rank-up-solo.jpg",
         "width": 1600,
@@ -6886,7 +6900,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Подняться в рейтинге Мобайл Легендс в одиночку трудно не из-за «плохих тиммейтов», а из-за математики звёзд. Разберём, сколько матчей на самом деле стоит каждый процент побед, каких героев брать на каждой линии и какие привычки отнимают звёзды. Статистика героев — официальный рейтинг MOONTON за 30 дней на 23 ноября 2026 года."
+          "text": "Статистика героев для соло-игры охватывает 30 дней по 23 ноября 2026 года. Расчёт матчей ниже предполагает постоянную долю побед."
         },
         {
           "type": "heading",
@@ -6927,7 +6941,8 @@
               "Около 125"
             ]
           ],
-          "note": "Без учёта защиты звезды и очков повышения."
+          "note": "Без учёта защиты звезды и очков повышения.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -7001,7 +7016,8 @@
               "54,88%"
             ]
           ],
-          "note": "Официальный рейтинг MOONTON, 30 дней, данные на 23 ноября 2026 года."
+          "note": "Официальный рейтинг MOONTON, 30 дней, данные на 23 ноября 2026 года.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -7062,7 +7078,8 @@
               "48,54%",
               "52,66%"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -7162,7 +7179,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Climbing Mobile Legends ranked alone is hard not because of “bad teammates” but because of star maths. Here is how many matches each percent of win rate really costs, which heroes to pick in each lane and which habits cost you stars. Hero statistics come from MOONTON’s official 30-day ranking as of 23 November 2026."
+              "text": "The solo hero data covers 30 days ending on 23 November 2026. The match estimates below assume a constant win rate."
             },
             {
               "type": "heading",
@@ -7203,7 +7220,8 @@
                   "About 125"
                 ]
               ],
-              "note": "Not counting star protection or promotion points."
+              "note": "Not counting star protection or promotion points.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -7277,7 +7295,8 @@
                   "54.88%"
                 ]
               ],
-              "note": "Official MOONTON ranking, 30 days, data as of 23 November 2026."
+              "note": "Official MOONTON ranking, 30 days, data as of 23 November 2026.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -7338,7 +7357,8 @@
                   "48.54%",
                   "52.66%"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -7410,7 +7430,7 @@
         "Герои"
       ],
       "datePublished": "2026-11-23T16:29:00+03:00",
-      "dateModified": "2026-11-23T16:29:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-who-to-ban.jpg",
         "width": 1600,
@@ -7435,13 +7455,13 @@
           "items": [
             "Чаще всех банят Хирару: 67,97% матчей на всех рангах и 86,38% в Мифической славе.",
             "При этом Хирара выигрывает лишь 50,03% матчей. Опаснее, если не забанить, Маша (60,40% побед) и Марсель (57,46%).",
-            "В Эпике и Легенде главный бан — Белерик: его убирают в 56,83% матчей.",
+            "Белерика банят в 56,83% матчей на всех рангах.",
             "Сильные герои, которых почти не банят: Валир (54,11% побед при 3,78% банов), Ханаби и Линг."
           ]
         },
         {
           "type": "paragraph",
-          "text": "Бан в Mobile Legends стоит потратить на героя, который чаще всего выигрывает, а не на того, кто сильнее всех раздражает. Ниже — кого реально банят игроки, кто из них действительно опасен и кем контрить, если бан достался не вам. Все цифры — из официального рейтинга MOONTON за 30 дней на 23 ноября 2026 года."
+          "text": "Сравнение охватывает 30 дней по 23 ноября 2026 года. В таблицах отдельно показаны баны на всех рангах и в Мифической славе."
         },
         {
           "type": "heading",
@@ -7507,7 +7527,8 @@
               "60,40%"
             ]
           ],
-          "note": "Официальный рейтинг MOONTON, 30 дней, данные на 23 ноября 2026 года."
+          "note": "Официальный рейтинг MOONTON, 30 дней, данные на 23 ноября 2026 года.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -7558,7 +7579,8 @@
               "52,58%",
               "38,93%"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -7611,7 +7633,8 @@
               "Мия, Сильвана, Заск"
             ]
           ],
-          "note": "Контрпики — по официальной статистике MOONTON для каждого героя."
+          "note": "Контрпики — по официальной статистике MOONTON для каждого героя.",
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -7700,13 +7723,13 @@
               "items": [
                 "Hirara is banned the most: in 67.97% of matches across all ranks and 86.38% in Mythical Glory.",
                 "Yet Hirara wins only 50.03% of matches. Masha (60.40% wins) and Marcel (57.46%) are more dangerous if left open.",
-                "In Epic and Legend the main ban is Belerick: he is removed in 56.83% of matches.",
+                "Belerick is banned in 56.83% of matches across all ranks.",
                 "Strong heroes almost nobody bans: Valir (54.11% wins at 3.78% bans), Hanabi and Ling."
               ]
             },
             {
               "type": "paragraph",
-              "text": "A ban in Mobile Legends is best spent on the hero who wins most often, not the one who annoys you most. Here is who players actually ban, which of them are really dangerous and who counters them if the ban is not yours. All figures come from MOONTON’s official 30-day ranking as of 23 November 2026."
+              "text": "The comparison covers 30 days ending on 23 November 2026. The tables separate all-rank bans from Mythical Glory bans."
             },
             {
               "type": "heading",
@@ -7772,7 +7795,8 @@
                   "60.40%"
                 ]
               ],
-              "note": "Official MOONTON ranking, 30 days, data as of 23 November 2026."
+              "note": "Official MOONTON ranking, 30 days, data as of 23 November 2026.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -7823,7 +7847,8 @@
                   "52.58%",
                   "38.93%"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -7876,7 +7901,8 @@
                   "Miya, Silvanna, Zhask"
                 ]
               ],
-              "note": "Counters come from MOONTON’s official per-hero statistics."
+              "note": "Counters come from MOONTON’s official per-hero statistics.",
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -7949,7 +7975,7 @@
         "Заклинания"
       ],
       "datePublished": "2026-11-23T18:04:00+03:00",
-      "dateModified": "2026-11-23T18:04:00+03:00",
+      "dateModified": "2026-11-23T18:36:21+03:00",
       "hero": {
         "src": "/images/news/mlbb-builds-2026.jpg",
         "width": 1600,
@@ -7974,13 +8000,12 @@
           "items": [
             "Чаще всего в ключевые предметы попадает «Господство льда»: он есть в популярной сборке 24 героев из 133.",
             "Самая частая эмблема — эмблема убийцы, её берут 29 героев. Обычную эмблему выбирают только для 6.",
-            "«Вспышка» — основное заклинание у 62 героев из 133, «Возмездие» — у 20.",
-            "Сборки взяты из «Академии» в игре: это то, что реально собирают в рейтинге, а не мнение автора."
+            "«Вспышка» — основное заклинание у 62 героев из 133, «Возмездие» — у 20."
           ]
         },
         {
           "type": "paragraph",
-          "text": "Готовая сборка в Мобайл Легендс экономит главное — время на чтение гайдов перед матчем. Мы собрали самые популярные сборки для всех 133 героев из «Академии» в игре: для каждого героя взята его основная линия, рейтинговые матчи на всех рангах и сборка, которую выбирают чаще остальных. Ниже — сборки на самых популярных героев и общая картина: какие предметы, эмблемы и заклинания сейчас в моде."
+          "text": "Для каждого героя взята самая популярная сборка на его основной линии. Три предмета образуют основу сборки. Процент побед относится к матчам с этим набором."
         },
         {
           "type": "heading",
@@ -8058,7 +8083,9 @@
               "56,79%"
             ]
           ],
-          "note": "Самая популярная сборка на основной линии героя, рейтинговые матчи на всех рангах, «Академия» в игре, 23 ноября 2026 года."
+          "note": "Самая популярная сборка на основной линии героя, рейтинговые матчи на всех рангах, «Академия» в игре, 23 ноября 2026 года.",
+          "visuals": true,
+          "layout": "builds"
         },
         {
           "type": "paragraph",
@@ -8116,7 +8143,8 @@
               "Крылья королевы",
               "14 из 133"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -8163,7 +8191,8 @@
               "Обычная эмблема",
               "6"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -8218,7 +8247,8 @@
               "Эгида",
               "1"
             ]
-          ]
+          ],
+          "visuals": true
         },
         {
           "type": "paragraph",
@@ -8297,13 +8327,12 @@
               "items": [
                 "The most common core item is Dominance Ice: it is in the popular build of 24 heroes out of 133.",
                 "The most picked emblem is the Assassin emblem, used by 29 heroes. The Common emblem is chosen for only 6.",
-                "Flicker is the main spell for 62 heroes out of 133, Retribution for 20.",
-                "The builds come from the in-game Academy: what players actually build in ranked, not an author’s opinion."
+                "Flicker is the main spell for 62 heroes out of 133, Retribution for 20."
               ]
             },
             {
               "type": "paragraph",
-              "text": "A ready-made build in Mobile Legends saves what matters most — time reading guides before a match. We collected the most popular builds for all 133 heroes from the in-game Academy: for each hero we took its main lane, ranked matches across all ranks and the build picked more often than the rest. Below are builds for the most popular heroes and the bigger picture: which items, emblems and spells are in fashion now."
+              "text": "Each hero is shown with the most picked setup in their main lane. The three items form the core of the build. Win rate counts matches played with that setup."
             },
             {
               "type": "heading",
@@ -8381,7 +8410,9 @@
                   "56.79%"
                 ]
               ],
-              "note": "The most popular build in the hero’s main lane, ranked matches across all ranks, in-game Academy, 23 November 2026."
+              "note": "The most popular build in the hero’s main lane, ranked matches across all ranks, in-game Academy, 23 November 2026.",
+              "visuals": true,
+              "layout": "builds"
             },
             {
               "type": "paragraph",
@@ -8439,7 +8470,8 @@
                   "Queen's Wings",
                   "14 of 133"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -8486,7 +8518,8 @@
                   "Common",
                   "6"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "paragraph",
@@ -8541,7 +8574,8 @@
                   "Aegis",
                   "1"
                 ]
-              ]
+              ],
+              "visuals": true
             },
             {
               "type": "paragraph",

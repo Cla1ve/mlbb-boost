@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир D
-
-# Зилонг в Mobile Legends: сборка, контрпики и статистика
-
-Боец и убийца, линия опыта. Выигрывает 46,27% матчей за последние 30 дней — 123-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир D
-
 ![](/images/heroes/zilong.webp)
 
-**Зилонг**Бан 0,49% · Выбор 0,71%
+Тир D
 
-Контрпики
+# Зилонг
 
-![](/images/heroes/x-borg.webp)![](/images/heroes/cici.webp)![](/images/heroes/xavier.webp)
+Боец и убийца · Линия опыта
 
-Победы за 30 дней**46,27%**
+**№ 123 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**46,27%**побед за 30 дней
+Победы
 
-**0,71%**выбирают в матчах
+46,27%
 
-**0,49%**банят в матчах
+Выбор
 
-**44,40%**побед в Мифической славе
+0,71%
 
-## Сборка на героя «Зилонг»
+Баны
 
-Самая популярная сборка для героя «Зилонг» на роли линии опыта в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,49%
+
+Преследование · Урон · Сложность 10/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Линия опыта
 
 Ключевые предметы
 
@@ -53,79 +51,83 @@ language: ru
 
 Побед с этой сборкой **53,04%**Выбирают в **3,04%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20030.webp)Вдохновение![](/images/mlbb/emblems/20005.webp)Эмблема убийцыФатальность · Мастер-убийца · Убийственный пир**52,97%**
--   ![](/images/mlbb/spells/20030.webp)Вдохновение![](/images/mlbb/emblems/20007.webp)Эмблема бойцаФатальность · Мастер-убийца · Боевой клич**52,77%**
+Ключевые предметы
 
-## Навыки героя «Зилонг»
+![](/images/mlbb/items/3005.webp)Говорящий с ветром![](/images/mlbb/items/3002.webp)Когти Хааса![](/images/mlbb/items/3003.webp)Ярость берсерка
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Великий воин** → **Удар копья** → **Бросок копьем**
+![](/images/mlbb/emblems/20005.webp)Эмблема убийцы![](/images/mlbb/talents/1211.webp)Фатальность![](/images/mlbb/talents/521.webp)Мастер-убийца![](/images/mlbb/talents/531.webp)Убийственный пир
 
--   ![](/images/mlbb/skills/zilong-0.webp)
+Боевое заклинание
 
-    **Огонь дракона**Пассивный
+![](/images/mlbb/spells/20030.webp)Вдохновение
 
-    После нанесения урона базовыми атаками или навыками 3 р. Зилонг активирует "Огонь дракона" при следующей базовой атаке, нанося цели удар 3 р. Каждый удар наносит 80 (+30% общей физической атаки) урона базовой атаки и восстанавливает себе 50 (+20% общей физической атаки) ОЗ.
-    Базовая атака Зилонга наносит 100 (+80% общей физической атаки) единиц физического урона.
-    Если ОЗ цели ниже 50%, весь урон, наносимый навыками и базовыми атаками Зилонга, увеличивается на 30.
+Побед с этой сборкой **52,97%**Выбирают в **6,59%** матчей
 
--   ![](/images/mlbb/skills/zilong-1.webp)
+Ключевые предметы
 
-    **Бросок копьем**1-й навыкПерезарядка 12 Mana Cost: 80 с
+![](/images/mlbb/items/3012.webp)Золотой метеор![](/images/mlbb/items/3005.webp)Говорящий с ветром![](/images/mlbb/items/3002.webp)Когти Хааса
 
-    Зилонг ​​перебрасывает указанного врага за спину, нанося 250 (+80% общей физической атаки) единиц физического урона.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/zilong-2.webp)
+![](/images/mlbb/emblems/20007.webp)Эмблема бойца![](/images/mlbb/talents/1211.webp)Фатальность![](/images/mlbb/talents/521.webp)Мастер-убийца![](/images/mlbb/talents/133.webp)Боевой клич
 
-    **Удар копья**2-й навыкПерезарядка 12 Mana Cost: 40 с
+Боевое заклинание
 
-    Зилонг бросается к указанному врагу, нанося 250 (+60% общей физической атаки) единиц физического урона и снижая цели на 15 на 2 сек.
-    Перезарядка "Удара копья" сбрасывается каждый раз, когда Зилонг убивает врага.
+![](/images/mlbb/spells/20030.webp)Вдохновение
 
--   ![](/images/mlbb/skills/zilong-3.webp)
+Побед с этой сборкой **52,77%**Выбирают в **2,24%** матчей
 
-    **Великий воин**УльтимейтПерезарядка 35 Mana Cost: 120 с
+## Контрпики и союзники
 
-    Зилонг снимает с себя все эффекты замедления и получает 40% скорости передвижения, 35% скорости атаки и иммунитет к замедлению на 7.5 сек.
-    В этот период "Огонь дракона" срабатывает после каждых 2 базовых атак (вместо 3).
+### Кто контрит
 
+[![](/images/heroes/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
--   Роль**Боец и убийца**
--   Линия**Линия опыта**
--   Среди бойцов**42-е из 44**
--   Среди убийц**26-е из 29**
--   На линии опыта**40-е из 42**
--   Специализация**Преследование, Урон**
--   Сложность**Низкая (10/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Зилонг» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
+[![](/images/heroes/gloo.webp)Глу+2,92 п. п.](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/belerick.webp)Белерик+2,91 п. п.](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/hilda.webp)Хильда+2,26 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/tigreal.webp)Тигрил+1,97 п. п.](https://boostmlbb.ru/heroes/tigreal.html)
 
-[![Икс.Борг](/images/heroes/x-borg.webp)Икс.Борг49,96%](https://boostmlbb.ru/heroes/x-borg.html)[![Чичи](/images/heroes/cici.webp)Чичи49,38%](https://boostmlbb.ru/heroes/cici.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Фанни](/images/heroes/fanny.webp)Фанни42,64%](https://boostmlbb.ru/heroes/fanny.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Великий воин → Удар копья → Бросок копьем
 
-Для этих героев «Зилонг» — один из самых неудобных соперников.
+![](/images/mlbb/skills/zilong-0.webp)Пассивный**Огонь дракона**
 
-[![Тигрил](/images/heroes/tigreal.webp)Тигрил45,22%](https://boostmlbb.ru/heroes/tigreal.html)[![Эйдора](/images/heroes/eudora.webp)Эйдора50,35%](https://boostmlbb.ru/heroes/eudora.html)[![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Цзэтянь](/images/heroes/zetian.webp)Цзэтянь50,89%](https://boostmlbb.ru/heroes/zetian.html)[![Баданг](/images/heroes/badang.webp)Баданг50,19%](https://boostmlbb.ru/heroes/badang.html)[![Джонсон](/images/heroes/johnson.webp)Джонсон49,25%](https://boostmlbb.ru/heroes/johnson.html)[![Гатоткача](/images/heroes/gatotkaca.webp)Гатоткача45,35%](https://boostmlbb.ru/heroes/gatotkaca.html)[![Пополь и Купа](/images/heroes/popol-and-kupa.webp)Пополь и Купа52,09%](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)[![Чип](/images/heroes/chip.webp)Чип47,60%](https://boostmlbb.ru/heroes/chip.html)
+После нанесения урона базовыми атаками или навыками 3 р. Зилонг активирует "Огонь дракона" при следующей базовой атаке, нанося цели удар 3 р. Каждый удар наносит 80 (+30% общей физической атаки) урона базовой атаки и восстанавливает себе 50 (+20% общей физической атаки) ОЗ.
+Базовая атака Зилонга наносит 100 (+80% общей физической атаки) единиц физического урона.
+Если ОЗ цели ниже 50%, весь урон, наносимый навыками и базовыми атаками Зилонга, увеличивается на 30.
 
-## С кем играть в команде
+![](/images/mlbb/skills/zilong-1.webp)1-й навык**Бросок копьем**
 
-С этими героями в одной команде «Зилонг» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 12 Mana Cost: 80 с**
 
-[![Глу](/images/heroes/gloo.webp)Глу+2,92 п. п.](https://boostmlbb.ru/heroes/gloo.html)[![Белерик](/images/heroes/belerick.webp)Белерик+2,91 п. п.](https://boostmlbb.ru/heroes/belerick.html)[![Хильда](/images/heroes/hilda.webp)Хильда+2,26 п. п.](https://boostmlbb.ru/heroes/hilda.html)[![Тигрил](/images/heroes/tigreal.webp)Тигрил+1,97 п. п.](https://boostmlbb.ru/heroes/tigreal.html)
+Зилонг ​​перебрасывает указанного врага за спину, нанося 250 (+80% общей физической атаки) единиц физического урона.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/zilong-2.webp)2-й навык**Удар копья**
 
-Лучший результат — на ранге «Эпик» (47,18%), слабее всего — «Мифическая слава» (44,40%). Данные за последние 30 дней.
+**Перезарядка 12 Mana Cost: 40 с**
+
+Зилонг бросается к указанному врагу, нанося 250 (+60% общей физической атаки) единиц физического урона и снижая цели на 15 на 2 сек.
+Перезарядка "Удара копья" сбрасывается каждый раз, когда Зилонг убивает врага.
+
+![](/images/mlbb/skills/zilong-3.webp)Ультимейт**Великий воин**
+
+**Перезарядка 35 Mana Cost: 120 с**
+
+Зилонг снимает с себя все эффекты замедления и получает 40% скорости передвижения, 35% скорости атаки и иммунитет к замедлению на 7.5 сек.
+В этот период "Огонь дракона" срабатывает после каждых 2 базовых атак (вместо 3).
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**47,18%**
 -   ![](/images/ranks/Legend.webp)Легенда**46,76%**
@@ -133,33 +135,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**45,54%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**44,40%**
 
-## Место в мете
+## История
 
-«Зилонг» — тир D в нашем тир-листе по проценту побед, 123-е место из 133 героев. В Мифической славе процент побед ниже: 44,40% против 46,27% на всех рангах, разница 1,87 п. п. В патче 2.2.16 герой ослаблен. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои линии опыта
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Маша](/images/heroes/masha.webp)Маша60,40%](https://boostmlbb.ru/heroes/masha.html)[![Аргус](/images/heroes/argus.webp)Аргус56,78%](https://boostmlbb.ru/heroes/argus.html)[![Сан](/images/heroes/sun.webp)Сан53,72%](https://boostmlbb.ru/heroes/sun.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)
-
-## История героя
-
-![Зилонг](/images/heroes/zilong.webp)
-
-«Хранитель Алтаря дракона и Боец Востока, унаследовавший силу Облачного дракона.»
-
-Полная история героя «Зилонг» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Хранитель Алтаря дракона и Боец Востока, унаследовавший силу Облачного дракона.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Zilong)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=16)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zilong)
 
-## Буст на герое «Зилонг»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -182,5 +164,3 @@ language: ru
 Какая сборка на героя «Зилонг» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Коса коррозии», «Пронзающий небеса» и «Золотой метеор», эмблема бойца с талантами «Проворность», «Мастер-убийца» и «Убийственный пир» и заклинание «Вдохновение». С ней выигрывают 53,04% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

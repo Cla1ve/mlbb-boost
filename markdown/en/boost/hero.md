@@ -307,8 +307,6 @@ How is a hero boost different from a role boost?
 
 In a role boost the booster may use different heroes of one role. In a hero boost the whole route is one hero.
 
-MLBB Boost editorial team · Updated 22 November 2026
-
 Related
 
 ## Other formats and guides

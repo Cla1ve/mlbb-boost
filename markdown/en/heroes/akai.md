@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Akai in Mobile Legends: build, counters and stats
-
-Tank, Roam. Wins 50.18% of matches over the last 30 days: #59 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/akai.webp)
 
-**Akai**Ban 1.11% · Pick 0.33%
+Tier B
 
-Counters
+# Akai
 
-![](/images/heroes/alucard.webp)![](/images/heroes/harith.webp)![](/images/heroes/nana.webp)
+Tank · Roam
 
-Win rate, 30 days**50.18%**
+**#59 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**50.18%**win rate, 30 days
+Win rate
 
-**0.33%**pick rate
+50.18%
 
-**1.11%**ban rate
+Pick rate
 
-**48.84%**wins in Mythical Glory
+0.33%
 
-## Akai build
+Ban rate
 
-The most picked setup for roam Akai in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+1.11%
+
+Guard · Crowd Control · Difficulty 30/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Roam
 
 Core items
 
@@ -53,79 +51,84 @@ Battle spell
 
 Wins with this build **55.35%**Picked in **7.23%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20003.webp)TankAgility · Wilderness Blessing · Concussive Blast**55.28%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20003.webp)TankVitality · Wilderness Blessing · Concussive Blast**56.48%**
+Core items
 
-## Akai skills
+![](/images/mlbb/items/3109.webp)Fleeting Time![](/images/mlbb/items/3202.webp)Guardian Helmet![](/images/mlbb/items/3206.webp)Dominance Ice
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Heavy Spin** → **Body Slam** → **Headbutt**
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/331.webp)Concussive Blast
 
--   ![](/images/mlbb/skills/akai-0.webp)
+Battle spell
 
-    **Tai Chi**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Akai gains a 25 (+5% Max HP) shield for 4s on each skill cast.
-    His skills apply a Mark to targets. His next Basic Attack against a marked target deals 35 (+6% Max HP) extra Physical Damage.
+Wins with this build **55.28%**Picked in **2.77%** of matches
 
--   ![](/images/mlbb/skills/akai-1.webp)
+Core items
 
-    **Headbutt**Skill 1CD 11 Mana Cost: 50 s
+![](/images/mlbb/items/3202.webp)Guardian Helmet![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/3212.webp)Chastise Pauldron
 
-    Akai charges in the target direction, dealing 300 (+50% Total Physical Attack) Physical Damage to enemies along the way.
-    Upon hitting an enemy hero, he knocks them airborne for 0.5s and can roll once in the joystick's direction.
-    Akai can cast Headbutt during Heavy Spin to quickly reposition himself.
+Emblem and talents
 
--   ![](/images/mlbb/skills/akai-2.webp)
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/331.webp)Concussive Blast
 
-    **Body Slam**Skill 2CD 7 Mana Cost: 50 s
+Battle spell
 
-    Akai slams his body into the ground, dealing 270 (+6% Max HP) Physical Damage to nearby enemies and slowing them by 45% for 2s.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/akai-3.webp)
+Wins with this build **56.48%**Picked in **3.10%** of matches
 
-    **Heavy Spin**UltimateCD 55 Mana Cost: 120 s
+## Counters and teammates
 
-    Akai spins for 4s, continuously dealing 100 (+50% Total Physical Attack) Physical Damage to nearby enemies and knocking them back. Knocked-back enemy heroes also knock back any enemy heroes they collide with.
-    Upon casting, Akai removes all debuffs and gains slow immunity. While spinning, his Movement Speed gradually increases to 70%.
-    This skill can only be interrupted by Suppression.
+### Counters
 
+[![](/images/heroes/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
--   Role**Tank**
--   Lane**Roam**
--   Among tanks**#15 of 25**
--   On roam**#20 of 34**
--   Speciality**Guard, Crowd Control**
--   Difficulty**Easy (30/100)**
+### Teammates
 
-## Who counters Akai
+Win rate gain when playing together
 
-Akai loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
+[![](/images/heroes/angela.webp)Angela+3.27 pp](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/natalia.webp)Natalia+2.74 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/helcurt.webp)Helcurt+2.70 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/rafaela.webp)Rafaela+2.19 pp](https://boostmlbb.ru/en/heroes/rafaela.html)
 
-[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Harith](/images/heroes/harith.webp)Harith46.92%](https://boostmlbb.ru/en/heroes/harith.html)[![Nana](/images/heroes/nana.webp)Nana47.27%](https://boostmlbb.ru/en/heroes/nana.html)[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Granger](/images/heroes/granger.webp)Granger42.99%](https://boostmlbb.ru/en/heroes/granger.html)
+## Skills
 
-## Who Akai is strong against
+Level-up priority · Heavy Spin → Body Slam → Headbutt
 
-Akai is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/akai-0.webp)Passive**Tai Chi**
 
-[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)
+Akai gains a 25 (+5% Max HP) shield for 4s on each skill cast.
+His skills apply a Mark to targets. His next Basic Attack against a marked target deals 35 (+6% Max HP) extra Physical Damage.
 
-## Best teammates for Akai
+![](/images/mlbb/skills/akai-1.webp)Skill 1**Headbutt**
 
-With these heroes on the same team Akai wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 11 Mana Cost: 50 s**
 
-[![Angela](/images/heroes/angela.webp)Angela+3.27 pts](https://boostmlbb.ru/en/heroes/angela.html)[![Natalia](/images/heroes/natalia.webp)Natalia+2.74 pts](https://boostmlbb.ru/en/heroes/natalia.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt+2.70 pts](https://boostmlbb.ru/en/heroes/helcurt.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela+2.19 pts](https://boostmlbb.ru/en/heroes/rafaela.html)
+Akai charges in the target direction, dealing 300 (+50% Total Physical Attack) Physical Damage to enemies along the way.
+Upon hitting an enemy hero, he knocks them airborne for 0.5s and can roll once in the joystick's direction.
+Akai can cast Headbutt during Heavy Spin to quickly reposition himself.
+
+![](/images/mlbb/skills/akai-2.webp)Skill 2**Body Slam**
+
+**Cooldown 7 Mana Cost: 50 s**
+
+Akai slams his body into the ground, dealing 270 (+6% Max HP) Physical Damage to nearby enemies and slowing them by 45% for 2s.
+
+![](/images/mlbb/skills/akai-3.webp)Ultimate**Heavy Spin**
+
+**Cooldown 55 Mana Cost: 120 s**
+
+Akai spins for 4s, continuously dealing 100 (+50% Total Physical Attack) Physical Damage to nearby enemies and knocking them back. Knocked-back enemy heroes also knock back any enemy heroes they collide with.
+Upon casting, Akai removes all debuffs and gains slow immunity. While spinning, his Movement Speed gradually increases to 70%.
+This skill can only be interrupted by Suppression.
 
 ## Win rate by rank
-
-Best result in Epic (51.45%), weakest in Mythical Glory (48.84%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**51.45%**
 -   ![](/images/ranks/Legend.webp)Legend**51.23%**
@@ -133,33 +136,13 @@ Best result in Epic (51.45%), weakest in Mythical Glory (48.84%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**50.32%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.84%**
 
-## Place in the meta
-
-Akai sits in tier B of our win-rate tier list and ranks 59 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 48.84% against 50.18% across all ranks, a 1.34-point gap. In patch 2.2.16 the hero was buffed. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Roam heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
-
 ## Lore
 
-![Akai](/images/heroes/akai.webp)
+The almighty panda hero of Stream Valley.
 
-«The almighty panda hero of Stream Valley.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Akai)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=9)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Akai)
 
-Akai’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Akai)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=9)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Akai)
-
-## Boost on Akai
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -182,5 +165,3 @@ Tier B: #59 of 133 heroes by 30-day win rate and #15 among tanks.
 What is the best build for Akai?
 
 The most popular ranked build: Fleeting Time, Guardian Helmet and Dominance Ice as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Petrify. It wins 55.35% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

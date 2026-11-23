@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Julian in Mobile Legends: build, counters and stats
-
-Fighter and assassin, EXP Lane or Jungle. Wins 49.95% of matches over the last 30 days: #69 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/julian.webp)
 
-**Julian**Ban 0.78% · Pick 0.67%
+Tier B
 
-Counters
+# Julian
 
-![](/images/heroes/faramis.webp)![](/images/heroes/esmeralda.webp)![](/images/heroes/alice.webp)
+Fighter and assassin · EXP Lane or Jungle
 
-Win rate, 30 days**49.95%**
+**#69 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**49.95%**win rate, 30 days
+Win rate
 
-**0.67%**pick rate
+49.95%
 
-**0.78%**ban rate
+Pick rate
 
-**49.20%**wins in Mythical Glory
+0.67%
 
-## Julian build
+Ban rate
 
-The most picked setup for EXP Lane Julian in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.78%
+
+Chase · Magic Damage · Difficulty 50/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · EXP Lane
 
 Core items
 
@@ -53,79 +51,82 @@ Battle spell
 
 Wins with this build **50.87%**Picked in **4.43%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageThrill · Seasoned Hunter · Lethal Ignition**48.54%**
--   ![](/images/mlbb/spells/20030.webp)Inspire![](/images/mlbb/emblems/20006.webp)MageSwift · Seasoned Hunter · Lethal Ignition**52.66%**
+Core items
 
-## Julian skills
+![](/images/mlbb/items/2108.webp)Feather of Heaven![](/images/mlbb/items/3103.webp)Concentrated Energy![](/images/mlbb/items/3005.webp)Windtalker
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Scythe** → **Chain** → **Sword**
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
 
--   ![](/images/mlbb/skills/julian-0.webp)
+Battle spell
 
-    **Smith's Legacy**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9-6s Cooldown (decreases with his level).
-    After casting any skill, his Basic Attacks for the next 2s will deal 100 (+100% Total Physical Attack) (+100% Total Magic Power) Magic Damage and pull the target toward him (deals 85% damage to Creeps). Casting another skill extends the duration.
-    Julian gains 15% extra Hybrid Lifesteal for 5s each time he hits an enemy hero with his skills (up to 3 stacks).
+Wins with this build **48.54%**Picked in **2.29%** of matches
 
--   ![](/images/mlbb/skills/julian-1.webp)
+Core items
 
-    **Scythe**Skill 1CD 9 Mana Cost: 30 s
+![](/images/mlbb/items/2108.webp)Feather of Heaven![](/images/mlbb/items/3103.webp)Concentrated Energy![](/images/mlbb/items/3005.webp)Windtalker
 
-    Julian hurls a flying scythe in the target direction, dealing 420 (+140% Total Magic Power) Magic Damage to enemies along the way and slowing them by 30% for 1s.
-    The scythe disappears upon hitting a non-minion enemy.
+Emblem and talents
 
--   ![](/images/mlbb/skills/julian-2.webp)
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
 
-    **Sword**Skill 2CD 9 Mana Cost: 30 s
+Battle spell
 
-    Julian summons a flying sword and dashes in the target direction, dealing 400 (+80% Total Magic Power) Magic Damage to enemies along the way.
+![](/images/mlbb/spells/20030.webp)Inspire
 
--   ![](/images/mlbb/skills/julian-3.webp)
+Wins with this build **52.66%**Picked in **6.55%** of matches
 
-    **Chain**UltimateCD 9 Mana Cost: 30 s
+## Counters and teammates
 
-    Julian casts chains at the target location, dealing 300 (+100% Total Magic Power) Magic Damage to enemies hit after a short delay and immobilizing them for 1.2s.
+### Counters
 
+[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
 
--   Role**Fighter and assassin**
--   Lane**EXP Lane or Jungle**
--   Among fighters**#22 of 44**
--   Among assassins**#9 of 29**
--   In the EXP Lane**#22 of 42**
--   In the jungle**#15 of 37**
--   Speciality**Chase, Magic Damage**
--   Difficulty**Medium (50/100)**
+### Teammates
 
-## Who counters Julian
+Win rate gain when playing together
 
-Julian loses to these heroes most often. The number under each icon is that hero’s own win rate. 4 of the 5 counters are mages.
+[![](/images/heroes/gloo.webp)Gloo+1.68 pp](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/atlas.webp)Atlas+1.68 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/tigreal.webp)Tigreal+1.65 pp](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/benedetta.webp)Benedetta+1.56 pp](https://boostmlbb.ru/en/heroes/benedetta.html)
 
-[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda47.00%](https://boostmlbb.ru/en/heroes/esmeralda.html)[![Alice](/images/heroes/alice.webp)Alice50.70%](https://boostmlbb.ru/en/heroes/alice.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)
+## Skills
 
-## Who Julian is strong against
+Level-up priority · Scythe → Chain → Sword
 
-Julian is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/julian-0.webp)Passive**Smith's Legacy**
 
-[![Guinevere](/images/heroes/guinevere.webp)Guinevere51.27%](https://boostmlbb.ru/en/heroes/guinevere.html)
+After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9-6s Cooldown (decreases with his level).
+After casting any skill, his Basic Attacks for the next 2s will deal 100 (+100% Total Physical Attack) (+100% Total Magic Power) Magic Damage and pull the target toward him (deals 85% damage to Creeps). Casting another skill extends the duration.
+Julian gains 15% extra Hybrid Lifesteal for 5s each time he hits an enemy hero with his skills (up to 3 stacks).
 
-## Best teammates for Julian
+![](/images/mlbb/skills/julian-1.webp)Skill 1**Scythe**
 
-With these heroes on the same team Julian wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 9 Mana Cost: 30 s**
 
-[![Gloo](/images/heroes/gloo.webp)Gloo+1.68 pts](https://boostmlbb.ru/en/heroes/gloo.html)[![Atlas](/images/heroes/atlas.webp)Atlas+1.68 pts](https://boostmlbb.ru/en/heroes/atlas.html)[![Tigreal](/images/heroes/tigreal.webp)Tigreal+1.65 pts](https://boostmlbb.ru/en/heroes/tigreal.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta+1.56 pts](https://boostmlbb.ru/en/heroes/benedetta.html)
+Julian hurls a flying scythe in the target direction, dealing 420 (+140% Total Magic Power) Magic Damage to enemies along the way and slowing them by 30% for 1s.
+The scythe disappears upon hitting a non-minion enemy.
+
+![](/images/mlbb/skills/julian-2.webp)Skill 2**Sword**
+
+**Cooldown 9 Mana Cost: 30 s**
+
+Julian summons a flying sword and dashes in the target direction, dealing 400 (+80% Total Magic Power) Magic Damage to enemies along the way.
+
+![](/images/mlbb/skills/julian-3.webp)Ultimate**Chain**
+
+**Cooldown 9 Mana Cost: 30 s**
+
+Julian casts chains at the target location, dealing 300 (+100% Total Magic Power) Magic Damage to enemies hit after a short delay and immobilizing them for 1.2s.
 
 ## Win rate by rank
-
-Best result in Epic (50.96%), weakest in Mythical Glory (49.20%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.96%**
 -   ![](/images/ranks/Legend.webp)Legend**50.40%**
@@ -133,33 +134,13 @@ Best result in Epic (50.96%), weakest in Mythical Glory (49.20%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**49.98%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**49.20%**
 
-## Place in the meta
-
-Julian sits in tier B of our win-rate tier list and ranks 69 of 133 heroes. In Mythical Glory the win rate is lower: 49.20% against 49.95% across all ranks, a 0.75-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other EXP Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
-
 ## Lore
 
-![Julian](/images/heroes/julian.webp)
+A Raven assassin of the Church of Light, a young boy who's in search of his home…
 
-«A Raven assassin of the Church of Light, a young boy who's in search of his home…»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Julian)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=116)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Julian)
 
-Julian’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Julian)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=116)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Julian)
-
-## Boost on Julian
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -182,5 +163,3 @@ Tier B: #69 of 133 heroes by 30-day win rate and #22 among fighters.
 What is the best build for Julian?
 
 The most popular ranked build: Feather of Heaven, Concentrated Energy and Windtalker as core items, the Mage emblem with Thrill, Seasoned Hunter and Lethal Ignition, and Inspire. It wins 50.87% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

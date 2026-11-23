@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier S
-
-# Khufra in Mobile Legends: build, counters and stats
-
-Tank, Roam. Wins 54.72% of matches over the last 30 days: #4 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier S
-
 ![](/images/heroes/khufra.webp)
 
-**Khufra**Ban 2.14% · Pick 0.35%
+Tier S
 
-Counters
+# Khufra
 
-![](/images/heroes/silvanna.webp)![](/images/heroes/wanwan.webp)![](/images/heroes/alucard.webp)
+Tank · Roam
 
-Win rate, 30 days**54.72%**
+**#4 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**54.72%**win rate, 30 days
+Win rate
 
-**0.35%**pick rate
+54.72%
 
-**2.14%**ban rate
+Pick rate
 
-**54.56%**wins in Mythical Glory
+0.35%
 
-## Khufra build
+Ban rate
 
-The most picked setup for roam Khufra in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+2.14%
+
+Initiator · Crowd Control · Difficulty 60/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Roam
 
 Core items
 
@@ -53,76 +51,81 @@ Battle spell
 
 Wins with this build **59.22%**Picked in **4.53%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20003.webp)TankAgility · Wilderness Blessing · Concussive Blast**60.90%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20003.webp)TankAgility · Wilderness Blessing · Concussive Blast**61.74%**
+Core items
 
-## Khufra skills
+![](/images/mlbb/items/2212.webp)Thunder Belt![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/3212.webp)Chastise Pauldron
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Tyrant's Rage** → **Bouncing Ball** → **Tyrant's Revenge**
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/331.webp)Concussive Blast
 
--   ![](/images/mlbb/skills/khufra-0.webp)
+Battle spell
 
-    **Spell Curse**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Khufra activates the Spell Curse left by Esmeralda every 8s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals 100 (+120% Total Physical Attack) (+ 6% target's ) Magic Damage. He also slows the target by 30% for 1.5s and recovers 8% of his on hit.
-    Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4s.
+Wins with this build **60.90%**Picked in **7.32%** of matches
 
--   ![](/images/mlbb/skills/khufra-1.webp)
+Core items
 
-    **Tyrant's Revenge**Skill 1CD 15 Mana Cost: 80 s
+![](/images/mlbb/items/2212.webp)Thunder Belt![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/3201.webp)Cursed Helmet
 
-    Khufra pulls the bandages on his arms to launch himself in the specified direction, dealing 50 (+ 7 (+1.5% Extra Physical Attack)% of his ) Physical Damage to all enemies on the path. When blinking to the furthest distance or encountering the first enemy hero, Khufra will immediately stop, dealing 50 (+ 7 (+1.5% Extra Physical Attack)% of his ) Physical Damage to nearby enemies and knocking them airborne for up to 1s.
+Emblem and talents
 
--   ![](/images/mlbb/skills/khufra-2.webp)
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/331.webp)Concussive Blast
 
-    **Bouncing Ball**Skill 2CD 10 Mana Cost: 70 s
+Battle spell
 
-    Khufra uses bandages to wrap himself into a Bouncing Ball, increasing his by 30%. Enemies trying to use mobility skills to move across Khufra will be knocked airborne.
-    Each time the Bouncing Ball hits the ground, it deals 50 (+ 3 (+2% Extra Physical Attack)% of his ) Magic Damage to nearby enemies and slows them by 80% for 0.2s.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/khufra-3.webp)
+Wins with this build **61.74%**Picked in **8.89%** of matches
 
-    **Tyrant's Rage**UltimateCD 50 Mana Cost: 150 s
+## Counters and teammates
 
-    Khufra pushes back all enemy targets around him toward his front (this skill can only be interrupted by Suppression), dealing 300 (+100% Total Physical Attack) Physical Damage and slowing them down for 1.25s. If the enemies are knocked against walls, extra Physical Damage equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed.
+### Counters
 
+[![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
--   Role**Tank**
--   Lane**Roam**
--   Among tanks**#2 of 25**
--   On roam**#2 of 34**
--   Speciality**Initiator, Crowd Control**
--   Difficulty**Medium (60/100)**
+### Teammates
 
-## Who counters Khufra
+Win rate gain when playing together
 
-Khufra loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are assassins.
+[![](/images/heroes/natalia.webp)Natalia+2.93 pp](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/saber.webp)Saber+2.74 pp](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/helcurt.webp)Helcurt+2.60 pp](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/kalea.webp)Kalea+2.00 pp](https://boostmlbb.ru/en/heroes/kalea.html)
 
-[![Silvanna](/images/heroes/silvanna.webp)Silvanna51.36%](https://boostmlbb.ru/en/heroes/silvanna.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)[![Alucard](/images/heroes/alucard.webp)Alucard48.87%](https://boostmlbb.ru/en/heroes/alucard.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)[![Mathilda](/images/heroes/mathilda.webp)Mathilda44.49%](https://boostmlbb.ru/en/heroes/mathilda.html)
+## Skills
 
-## Who Khufra is strong against
+Level-up priority · Tyrant's Rage → Bouncing Ball → Tyrant's Revenge
 
-Khufra is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/khufra-0.webp)Passive**Spell Curse**
 
-[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)[![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)Yi Sun-shin49.11%](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![Aurora](/images/heroes/aurora.webp)Aurora48.93%](https://boostmlbb.ru/en/heroes/aurora.html)[![Martis](/images/heroes/martis.webp)Martis47.23%](https://boostmlbb.ru/en/heroes/martis.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin49.57%](https://boostmlbb.ru/en/heroes/zhuxin.html)
+Khufra activates the Spell Curse left by Esmeralda every 8s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals 100 (+120% Total Physical Attack) (+ 6% target's ) Magic Damage. He also slows the target by 30% for 1.5s and recovers 8% of his on hit.
+Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4s.
 
-## Best teammates for Khufra
+![](/images/mlbb/skills/khufra-1.webp)Skill 1**Tyrant's Revenge**
 
-With these heroes on the same team Khufra wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 15 Mana Cost: 80 s**
 
-[![Natalia](/images/heroes/natalia.webp)Natalia+2.93 pts](https://boostmlbb.ru/en/heroes/natalia.html)[![Saber](/images/heroes/saber.webp)Saber+2.74 pts](https://boostmlbb.ru/en/heroes/saber.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt+2.60 pts](https://boostmlbb.ru/en/heroes/helcurt.html)[![Kalea](/images/heroes/kalea.webp)Kalea+2.00 pts](https://boostmlbb.ru/en/heroes/kalea.html)
+Khufra pulls the bandages on his arms to launch himself in the specified direction, dealing 50 (+ 7 (+1.5% Extra Physical Attack)% of his ) Physical Damage to all enemies on the path. When blinking to the furthest distance or encountering the first enemy hero, Khufra will immediately stop, dealing 50 (+ 7 (+1.5% Extra Physical Attack)% of his ) Physical Damage to nearby enemies and knocking them airborne for up to 1s.
+
+![](/images/mlbb/skills/khufra-2.webp)Skill 2**Bouncing Ball**
+
+**Cooldown 10 Mana Cost: 70 s**
+
+Khufra uses bandages to wrap himself into a Bouncing Ball, increasing his by 30%. Enemies trying to use mobility skills to move across Khufra will be knocked airborne.
+Each time the Bouncing Ball hits the ground, it deals 50 (+ 3 (+2% Extra Physical Attack)% of his ) Magic Damage to nearby enemies and slows them by 80% for 0.2s.
+
+![](/images/mlbb/skills/khufra-3.webp)Ultimate**Tyrant's Rage**
+
+**Cooldown 50 Mana Cost: 150 s**
+
+Khufra pushes back all enemy targets around him toward his front (this skill can only be interrupted by Suppression), dealing 300 (+100% Total Physical Attack) Physical Damage and slowing them down for 1.25s. If the enemies are knocked against walls, extra Physical Damage equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed.
 
 ## Win rate by rank
-
-Best result in Mythical Honor (55.15%), weakest in Legend (54.54%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**55.11%**
 -   ![](/images/ranks/Legend.webp)Legend**54.54%**
@@ -130,33 +133,13 @@ Best result in Mythical Honor (55.15%), weakest in Legend (54.54%). Last 30 days
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**55.15%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**54.56%**
 
-## Place in the meta
-
-Khufra sits in tier S of our win-rate tier list and ranks 4 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the result is almost the same: 54.56%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Roam heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)
-
 ## Lore
 
-![Khufra](/images/heroes/khufra.webp)
+Sealed ancient tyrant.
 
-«Sealed ancient tyrant.»
+[Hero card](https://www.mobilelegends.com/hero/detail?heroid=78)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Khufra)
 
-Khufra’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=78)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=78)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Khufra)
-
-## Boost on Khufra
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -179,5 +162,3 @@ Tier S: #4 of 133 heroes by 30-day win rate and #2 among tanks.
 What is the best build for Khufra?
 
 The most popular ranked build: Thunder Belt, Dominance Ice and Antique Cuirass as core items, the Tank emblem with Agility, Wilderness Blessing and Concussive Blast, and Flicker. It wins 59.22% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

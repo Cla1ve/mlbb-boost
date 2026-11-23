@@ -194,8 +194,6 @@ How much is a placement boost?
 
 It is priced per win: 165 ₽ for an account boost and 335 ₽ in a party. The calculator shows the total for the matches you have played.
 
-MLBB Boost editorial team · Updated 22 November 2026
-
 Related
 
 ## After placement

@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир B
-
-# Джонсон в Mobile Legends: сборка, контрпики и статистика
-
-Танк и поддержка, роум. Выигрывает 49,25% матчей за последние 30 дней — 87-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир B
-
 ![](/images/heroes/johnson.webp)
 
-**Джонсон**Бан 1,98% · Выбор 0,70%
+Тир B
 
-Контрпики
+# Джонсон
 
-![](/images/heroes/layla.webp)![](/images/heroes/zilong.webp)![](/images/heroes/saber.webp)
+Танк и поддержка · Роум
 
-Победы за 30 дней**49,25%**
+**№ 87 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**49,25%**побед за 30 дней
+Победы
 
-**0,70%**выбирают в матчах
+49,25%
 
-**1,98%**банят в матчах
+Выбор
 
-**46,81%**побед в Мифической славе
+0,70%
 
-## Сборка на героя «Джонсон»
+Баны
 
-Самая популярная сборка для героя «Джонсон» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+1,98%
+
+Поддержка · Массовый контроль · Сложность 60/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,78 +51,82 @@ language: ru
 
 Побед с этой сборкой **52,42%**Выбирают в **1,47%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20040.webp)Спринт![](/images/mlbb/emblems/20003.webp)Эмблема танкаВдохновение · Второе дыхание · Ударная волна**55,57%**
--   ![](/images/mlbb/spells/20040.webp)Спринт![](/images/mlbb/emblems/20003.webp)Эмблема танкаЛовкость · Благословение природы · Ударная волна**56,66%**
+Ключевые предметы
 
-## Навыки героя «Джонсон»
+![](/images/mlbb/items/3206.webp)Господство льда![](/images/mlbb/items/3203.webp)Древняя кираса![](/images/mlbb/items/2207.webp)Шипованная броня
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Газ до упора** → **Электромагнитные волны** → **Ударный гаечный ключ**
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/821.webp)Второе дыхание![](/images/mlbb/talents/331.webp)Ударная волна
 
--   ![](/images/mlbb/skills/johnson-0.webp)
+Боевое заклинание
 
-    **Подушка безопасности**Пассивный
+![](/images/mlbb/spells/20040.webp)Спринт
 
-    Когда ОЗ Джонсона ниже 30%, он получает 300 (+700% общей физической защиты) ед. щита на 10 сек. Перезарядка: 100 сек.
+Побед с этой сборкой **55,57%**Выбирают в **4,36%** матчей
 
--   ![](/images/mlbb/skills/johnson-1.webp)
+Ключевые предметы
 
-    **Ударный гаечный ключ**1-й навыкПерезарядка 8 с
+![](/images/mlbb/items/3206.webp)Господство льда![](/images/mlbb/items/3203.webp)Древняя кираса![](/images/mlbb/items/2207.webp)Шипованная броня
 
-    Джонсон бросает гаечный ключ в указанное место, нанося 120 (+220% общей физической защиты) единиц магического урона врагам на пути. Враги вокруг точки приземления будут оглушены на 0.8 сек.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/johnson-2.webp)
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/811.webp)Ловкость![](/images/mlbb/talents/121.webp)Благословение природы![](/images/mlbb/talents/331.webp)Ударная волна
 
-    **Электромагнитные волны**2-й навыкПерезарядка 10 с
+Боевое заклинание
 
-    Джонсон поднимает щит, непрерывно нанося 120 (+60% общей магической силы) единиц магического урона врагам в веерообразной области в указанном направлении, снижая их скорость передвижения и на 10% (складывается до 3 раз) на 2 сек.
-    Пока щит поднят, Джонсон может использовать базовые атаки и применять навыки.
+![](/images/mlbb/spells/20040.webp)Спринт
 
--   ![](/images/mlbb/skills/johnson-3.webp)
+Побед с этой сборкой **56,66%**Выбирают в **1,67%** матчей
 
-    **Газ до упора**УльтимейтПерезарядка 36 с
+## Контрпики и союзники
 
-    Пассивный: Джонсона увеличивается на 10%.
-    Активный: Джонсон превращается в автомобиль. Ближайшие союзные герои могут использовать "Запрыгнуть" и сесть в автомобиль (только 1 за раз). При столкновении с вражеским героем автомобиль взрывается, нанося 300 (+240% общей физической защиты)–450 (+360% общей физической защиты) единиц магического урона ближайшим врагам, оглушая их на 0.5–1 сек. (зависит от времени вождения). Он также создает наэлектризованную зону в этом месте, которая постоянно наносит 60 (+20% общей магической силы) единиц магического урона и замедляет находящихся в ней врагов.
-    Местоположение Джонсона раскрывается врагам на 3 сек., когда он применяет этот навык.
+### Кто контрит
 
+[![](/images/heroes/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
 
--   Роль**Танк и поддержка**
--   Линия**Роум**
--   Среди танков**17-е из 25**
--   Среди героев поддержки**13-е из 15**
--   В роуме**23-е из 34**
--   Специализация**Поддержка, Массовый контроль**
--   Сложность**Средняя (60/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Джонсон» проигрывает чаще всего. Под иконкой — их собственный процент побед. 2 из 5 контрпиков — бойцы.
+[![](/images/heroes/silvanna.webp)Сильвана+1,95 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Заск+1,82 п. п.](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/change.webp)Чан'Э+1,74 п. п.](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/balmond.webp)Бальмонд+1,71 п. п.](https://boostmlbb.ru/heroes/balmond.html)
 
-[![Лейла](/images/heroes/layla.webp)Лейла49,41%](https://boostmlbb.ru/heroes/layla.html)[![Зилонг](/images/heroes/zilong.webp)Зилонг46,27%](https://boostmlbb.ru/heroes/zilong.html)[![Сабер](/images/heroes/saber.webp)Сабер51,21%](https://boostmlbb.ru/heroes/saber.html)[![Дариус](/images/heroes/dyrroth.webp)Дариус49,30%](https://boostmlbb.ru/heroes/dyrroth.html)[![Валентина](/images/heroes/valentina.webp)Валентина44,73%](https://boostmlbb.ru/heroes/valentina.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Газ до упора → Электромагнитные волны → Ударный гаечный ключ
 
-Для этих героев «Джонсон» — один из самых неудобных соперников.
+![](/images/mlbb/skills/johnson-0.webp)Пассивный**Подушка безопасности**
 
-[![Белерик](/images/heroes/belerick.webp)Белерик51,83%](https://boostmlbb.ru/heroes/belerick.html)[![Кармилла](/images/heroes/carmilla.webp)Кармилла53,29%](https://boostmlbb.ru/heroes/carmilla.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)[![Глу](/images/heroes/gloo.webp)Глу53,45%](https://boostmlbb.ru/heroes/gloo.html)[![Ланселот](/images/heroes/lancelot.webp)Ланселот43,13%](https://boostmlbb.ru/heroes/lancelot.html)[![Лилия](/images/heroes/lylia.webp)Лилия49,34%](https://boostmlbb.ru/heroes/lylia.html)[![Грок](/images/heroes/grock.webp)Грок46,61%](https://boostmlbb.ru/heroes/grock.html)
+Когда ОЗ Джонсона ниже 30%, он получает 300 (+700% общей физической защиты) ед. щита на 10 сек. Перезарядка: 100 сек.
 
-## С кем играть в команде
+![](/images/mlbb/skills/johnson-1.webp)1-й навык**Ударный гаечный ключ**
 
-С этими героями в одной команде «Джонсон» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 8 с**
 
-[![Сильвана](/images/heroes/silvanna.webp)Сильвана+1,95 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![Заск](/images/heroes/zhask.webp)Заск+1,82 п. п.](https://boostmlbb.ru/heroes/zhask.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э+1,74 п. п.](https://boostmlbb.ru/heroes/change.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд+1,71 п. п.](https://boostmlbb.ru/heroes/balmond.html)
+Джонсон бросает гаечный ключ в указанное место, нанося 120 (+220% общей физической защиты) единиц магического урона врагам на пути. Враги вокруг точки приземления будут оглушены на 0.8 сек.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/johnson-2.webp)2-й навык**Электромагнитные волны**
 
-Лучший результат — на ранге «Эпик» (52,61%), слабее всего — «Мифическая слава» (46,81%). Данные за последние 30 дней.
+**Перезарядка 10 с**
+
+Джонсон поднимает щит, непрерывно нанося 120 (+60% общей магической силы) единиц магического урона врагам в веерообразной области в указанном направлении, снижая их скорость передвижения и на 10% (складывается до 3 раз) на 2 сек.
+Пока щит поднят, Джонсон может использовать базовые атаки и применять навыки.
+
+![](/images/mlbb/skills/johnson-3.webp)Ультимейт**Газ до упора**
+
+**Перезарядка 36 с**
+
+Пассивный: Джонсона увеличивается на 10%.
+Активный: Джонсон превращается в автомобиль. Ближайшие союзные герои могут использовать "Запрыгнуть" и сесть в автомобиль (только 1 за раз). При столкновении с вражеским героем автомобиль взрывается, нанося 300 (+240% общей физической защиты)–450 (+360% общей физической защиты) единиц магического урона ближайшим врагам, оглушая их на 0.5–1 сек. (зависит от времени вождения). Он также создает наэлектризованную зону в этом месте, которая постоянно наносит 60 (+20% общей магической силы) единиц магического урона и замедляет находящихся в ней врагов.
+Местоположение Джонсона раскрывается врагам на 3 сек., когда он применяет этот навык.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**52,61%**
 -   ![](/images/ranks/Legend.webp)Легенда**50,84%**
@@ -132,33 +134,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**48,08%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**46,81%**
 
-## Место в мете
+## История
 
-«Джонсон» — тир B в нашем тир-листе по проценту побед, 87-е место из 133 героев. В Мифической славе процент побед ниже: 46,81% против 49,25% на всех рангах, разница 2,44 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои роума
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
-
-## История героя
-
-![Джонсон](/images/heroes/johnson.webp)
-
-«Суперкиборг, способный превращаться в автомобиль и подвозить своих союзников к месту боя.»
-
-Полная история героя «Джонсон» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Суперкиборг, способный превращаться в автомобиль и подвозить своих союзников к месту боя.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Johnson)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=32)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson)
 
-## Буст на герое «Джонсон»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -181,5 +163,3 @@ language: ru
 Какая сборка на героя «Джонсон» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Мимолетное время», «Господство льда» и «Щит Афины», эмблема танка с талантами «Прочность», «Стойкость» и «Ударная волна» и заклинание «Окаменение». С ней выигрывают 52,42% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

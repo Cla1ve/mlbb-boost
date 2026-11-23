@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier C
-
-# Luo Yi in Mobile Legends: build, counters and stats
-
-Mage, Mid Lane. Wins 47.35% of matches over the last 30 days: #115 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier C
-
 ![](/images/heroes/luo-yi.webp)
 
-**Luo Yi**Ban 0.07% · Pick 0.17%
+Tier C
 
-Counters
+# Luo Yi
 
-![](/images/heroes/estes.webp)![](/images/heroes/faramis.webp)![](/images/heroes/baxia.webp)
+Mage · Mid Lane
 
-Win rate, 30 days**47.35%**
+**#115 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**47.35%**win rate, 30 days
+Win rate
 
-**0.17%**pick rate
+47.35%
 
-**0.07%**ban rate
+Pick rate
 
-**46.62%**wins in Mythical Glory
+0.17%
 
-## Luo Yi build
+Ban rate
 
-The most picked setup for Mid Lane Luo Yi in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+0.07%
+
+Support · Crowd Control · Difficulty 80/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Mid Lane
 
 Core items
 
@@ -53,81 +51,84 @@ Battle spell
 
 Wins with this build **50.40%**Picked in **2.00%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageRupture · Weapons Master · Lethal Ignition**49.93%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageRupture · Weapons Master · Lethal Ignition**49.15%**
+Core items
 
-## Luo Yi skills
+![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3101.webp)Divine Glaive
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Diversion** → **Dispersion** → **Rotation**
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
 
--   ![](/images/mlbb/skills/luo-yi-0.webp)
+Battle spell
 
-    **Duality**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Luo Yi's skills can create Sigils of Yin/Yang on the battlefield. Each Sigil lasts up to 6s.
-    Sigils of opposite attributes will trigger Yin-Yang Reaction when they are within a certain distance, dealing 300 (+25\*Hero Level) (+190% Total Magic Power) Magic Damage to the marked enemies, stunning them for 0.3s, and pulling them toward each other.
-    Each time Luo Yi applies a new Sigil to a marked enemy, she gains a 300 (+10\*Hero Level) (+150% Total Magic Power) shield (up to 3 stacks) and 50% extra Movement Speed that decays over 2s.
+Wins with this build **49.93%**Picked in **1.65%** of matches
 
--   ![](/images/mlbb/skills/luo-yi-1.webp)
+Core items
 
-    **Dispersion**Skill 1CD 1.2 Mana Cost: 50 s
+![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3105.webp)Glowing Wand
 
-    Luo Yi casts the energy of Yin/Yang in the target direction, dealing 285 (+135% Total Magic Power) Magic Damage to the first enemy hit and those behind them in a fan-shaped area. Enemy heroes hit are marked with a Sigil of Yin/Yang.
-    Luo Yi stores up to 4 Dispersion charges and gains 1 charge every 8s. She also immediately gains 1 charge each time Yin-Yang Reaction is triggered.
-    The state of this skill changes on each cast.
+Emblem and talents
 
--   ![](/images/mlbb/skills/luo-yi-2.webp)
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
 
-    **Rotation**Skill 2CD 12 Mana Cost: 75 s
+Battle spell
 
-    Luo Yi summons Fire of Yang / Aqua of Yin at the target location, dealing 250 (+50% Total Magic Power) Magic Damage to enemies hit and slowing them by 60% for 0.5s.
-    Fire of Yang / Aqua of Yin then remains at the location for 6s, dealing 50 (+10% Total Magic Power) Magic Damage every 0.7s to nearby enemies. It can also trigger Yin-Yang Reaction with Sigils of opposite attributes.
-    The state of this skill changes on each cast.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/luo-yi-3.webp)
+Wins with this build **49.15%**Picked in **5.65%** of matches
 
-    **Diversion**Ultimate
+## Counters and teammates
 
-    Passive: Luo Yi's Cooldown Reduction is increased by 6%.
-    Active: Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes within the Circle will be teleported to the location.
+### Counters
 
+[![](/images/heroes/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)
 
--   Role**Mage**
--   Lane**Mid Lane**
--   Among mages**#27 of 32**
--   In the Mid Lane**#26 of 29**
--   Speciality**Support, Crowd Control**
--   Difficulty**Hard (80/100)**
+### Teammates
 
-## Who counters Luo Yi
+Win rate gain when playing together
 
-Luo Yi loses to these heroes most often. The number under each icon is that hero’s own win rate. 3 of the 5 counters are tanks.
+[![](/images/heroes/atlas.webp)Atlas+1.42 pp](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/thamuz.webp)Thamuz+1.24 pp](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/estes.webp)Estes+1.16 pp](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/esmeralda.webp)Esmeralda+0.99 pp](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
-[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Faramis](/images/heroes/faramis.webp)Faramis50.83%](https://boostmlbb.ru/en/heroes/faramis.html)[![Baxia](/images/heroes/baxia.webp)Baxia45.97%](https://boostmlbb.ru/en/heroes/baxia.html)[![Fredrinn](/images/heroes/fredrinn.webp)Fredrinn51.25%](https://boostmlbb.ru/en/heroes/fredrinn.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
+## Skills
 
-## Who Luo Yi is strong against
+Level-up priority · Diversion → Dispersion → Rotation
 
-Luo Yi is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/luo-yi-0.webp)Passive**Duality**
 
-[![Novaria](/images/heroes/novaria.webp)Novaria49.52%](https://boostmlbb.ru/en/heroes/novaria.html)
+Luo Yi's skills can create Sigils of Yin/Yang on the battlefield. Each Sigil lasts up to 6s.
+Sigils of opposite attributes will trigger Yin-Yang Reaction when they are within a certain distance, dealing 300 (+25\*Hero Level) (+190% Total Magic Power) Magic Damage to the marked enemies, stunning them for 0.3s, and pulling them toward each other.
+Each time Luo Yi applies a new Sigil to a marked enemy, she gains a 300 (+10\*Hero Level) (+150% Total Magic Power) shield (up to 3 stacks) and 50% extra Movement Speed that decays over 2s.
 
-## Best teammates for Luo Yi
+![](/images/mlbb/skills/luo-yi-1.webp)Skill 1**Dispersion**
 
-With these heroes on the same team Luo Yi wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 1.2 Mana Cost: 50 s**
 
-[![Atlas](/images/heroes/atlas.webp)Atlas+1.42 pts](https://boostmlbb.ru/en/heroes/atlas.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz+1.24 pts](https://boostmlbb.ru/en/heroes/thamuz.html)[![Estes](/images/heroes/estes.webp)Estes+1.16 pts](https://boostmlbb.ru/en/heroes/estes.html)[![Esmeralda](/images/heroes/esmeralda.webp)Esmeralda+0.99 pts](https://boostmlbb.ru/en/heroes/esmeralda.html)
+Luo Yi casts the energy of Yin/Yang in the target direction, dealing 285 (+135% Total Magic Power) Magic Damage to the first enemy hit and those behind them in a fan-shaped area. Enemy heroes hit are marked with a Sigil of Yin/Yang.
+Luo Yi stores up to 4 Dispersion charges and gains 1 charge every 8s. She also immediately gains 1 charge each time Yin-Yang Reaction is triggered.
+The state of this skill changes on each cast.
+
+![](/images/mlbb/skills/luo-yi-2.webp)Skill 2**Rotation**
+
+**Cooldown 12 Mana Cost: 75 s**
+
+Luo Yi summons Fire of Yang / Aqua of Yin at the target location, dealing 250 (+50% Total Magic Power) Magic Damage to enemies hit and slowing them by 60% for 0.5s.
+Fire of Yang / Aqua of Yin then remains at the location for 6s, dealing 50 (+10% Total Magic Power) Magic Damage every 0.7s to nearby enemies. It can also trigger Yin-Yang Reaction with Sigils of opposite attributes.
+The state of this skill changes on each cast.
+
+![](/images/mlbb/skills/luo-yi-3.webp)Ultimate**Diversion**
+
+Passive: Luo Yi's Cooldown Reduction is increased by 6%.
+Active: Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes within the Circle will be teleported to the location.
 
 ## Win rate by rank
-
-Best result in Epic (48.70%), weakest in Mythical Glory (46.62%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**48.70%**
 -   ![](/images/ranks/Legend.webp)Legend**47.94%**
@@ -135,33 +136,13 @@ Best result in Epic (48.70%), weakest in Mythical Glory (46.62%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**47.55%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**46.62%**
 
-## Place in the meta
-
-Luo Yi sits in tier C of our win-rate tier list and ranks 115 of 133 heroes. The hero is picked in under 0.5% of matches, so the win rate can swing a lot. In Mythical Glory the win rate is lower: 46.62% against 47.35% across all ranks, a 0.73-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Mid Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
-
 ## Lore
 
-![Luo Yi](/images/heroes/luo-yi.webp)
+Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.
 
-«Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/LuoYi)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=96)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Luo_Yi)
 
-Luo Yi’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/LuoYi)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=96)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Luo_Yi)
-
-## Boost on Luo Yi
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -184,5 +165,3 @@ Tier C: #115 of 133 heroes by 30-day win rate and #27 among mages.
 What is the best build for Luo Yi?
 
 The most popular ranked build: Sky Piercer, Enchanted Talisman and Genius Wand as core items, the Mage emblem with Inspire, Bargain Hunter and Lethal Ignition, and Flicker. It wins 50.40% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

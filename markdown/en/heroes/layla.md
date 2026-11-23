@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Layla in Mobile Legends: build, counters and stats
-
-Marksman, Gold Lane. Wins 49.41% of matches over the last 30 days: #80 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/layla.webp)
 
-**Layla**Ban 1.78% · Pick 1.90%
+Tier B
 
-Counters
+# Layla
 
-![](/images/heroes/diggie.webp)![](/images/heroes/edith.webp)![](/images/heroes/rafaela.webp)
+Marksman · Gold Lane
 
-Win rate, 30 days**49.41%**
+**#80 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**49.41%**win rate, 30 days
+Win rate
 
-**1.90%**pick rate
+49.41%
 
-**1.78%**ban rate
+Pick rate
 
-**47.95%**wins in Mythical Glory
+1.90%
 
-## Layla build
+Ban rate
 
-The most picked setup for Gold Lane Layla in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+1.78%
+
+Finisher · Damage · Difficulty 20/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Gold Lane
 
 Core items
 
@@ -53,77 +51,82 @@ Battle spell
 
 Wins with this build **55.78%**Picked in **4.17%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20005.webp)AssassinFatal · Bargain Hunter · Quantum Charge**55.02%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20012.webp)MarksmanFatal · Bargain Hunter · Quantum Charge**55.65%**
+Core items
 
-## Layla skills
+![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/3003.webp)Berserker's Fury![](/images/mlbb/items/3002.webp)Haas' Claws
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Destruction Rush** → **Malefic Bomb** → **Void Projectile**
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/1211.webp)Fatal![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/132.webp)Quantum Charge
 
--   ![](/images/mlbb/skills/layla-0.webp)
+Battle spell
 
-    **Malefic Gun**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    Layla's damage increases with distance, from 100% to 115% at 6 units or farther. This effect does not apply to Turrets.
+Wins with this build **55.02%**Picked in **21.95%** of matches
 
--   ![](/images/mlbb/skills/layla-1.webp)
+Core items
 
-    **Malefic Bomb**Skill 1CD 6 Mana Cost: 35 s
+![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/3003.webp)Berserker's Fury![](/images/mlbb/items/3002.webp)Haas' Claws
 
-    Layla fires a Malefic Bomb in the target direction, dealing 200 (+80% Total Physical Attack) Physical Damage to the first enemy hit (can Crit).
-    If Malefic Bomb hits an enemy, Layla's Basic Attacks and Void Projectile gain extra range for 3s. She also gains 60% Movement Speed that decays over 1.2s. The Movement Speed boost lasts twice as long if an enemy hero is hit.
+Emblem and talents
 
--   ![](/images/mlbb/skills/layla-2.webp)
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/1211.webp)Fatal![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/132.webp)Quantum Charge
 
-    **Void Projectile**Skill 2CD 7.5 Mana Cost: 70 s
+Battle spell
 
-    Layla fires an orb of Malefic Energy at the target, dealing 170 (+65% Total Physical Attack) Physical Damage to the target and nearby enemies and applying a Magic Mark to the target for 3s.
-    When Layla hits an enemy with a Magic Mark, she deals 100 (+35% Total Physical Attack) Physical Damage to the target and nearby enemies, stunning them for 0.25s.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/layla-3.webp)
+Wins with this build **55.65%**Picked in **1.85%** of matches
 
-    **Destruction Rush**UltimateCD 37 Mana Cost: 130 s
+## Counters and teammates
 
-    Passive: The range of Void Projectile and Basic Attacks is increased by 0.6 units. Layla's sight range is slightly increased each time this skill is upgraded.
-    Active: Layla fires a blast of Malefic Energy in the target direction, dealing 500 (+150% Total Physical Attack) Physical Damage to enemies in a line.
+### Counters
 
+[![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
--   Role**Marksman**
--   Lane**Gold Lane**
--   Among marksmen**#15 of 23**
--   In the Gold Lane**#14 of 21**
--   Speciality**Finisher, Damage**
--   Difficulty**Easy (20/100)**
+### Teammates
 
-## Who counters Layla
+Win rate gain when playing together
 
-Layla loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are supports.
+[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+3.16 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Roger+2.19 pp](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/harith.webp)Harith+1.54 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/franco.webp)Franco+1.47 pp](https://boostmlbb.ru/en/heroes/franco.html)
 
-[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Odette](/images/heroes/odette.webp)Odette49.69%](https://boostmlbb.ru/en/heroes/odette.html)[![Phoveus](/images/heroes/phoveus.webp)Phoveus48.21%](https://boostmlbb.ru/en/heroes/phoveus.html)
+## Skills
 
-## Who Layla is strong against
+Level-up priority · Destruction Rush → Malefic Bomb → Void Projectile
 
-Layla is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/layla-0.webp)Passive**Malefic Gun**
 
-[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Grock](/images/heroes/grock.webp)Grock46.61%](https://boostmlbb.ru/en/heroes/grock.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)
+Layla's damage increases with distance, from 100% to 115% at 6 units or farther. This effect does not apply to Turrets.
 
-## Best teammates for Layla
+![](/images/mlbb/skills/layla-1.webp)Skill 1**Malefic Bomb**
 
-With these heroes on the same team Layla wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 6 Mana Cost: 35 s**
 
-[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa+3.16 pts](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Roger](/images/heroes/roger.webp)Roger+2.19 pts](https://boostmlbb.ru/en/heroes/roger.html)[![Harith](/images/heroes/harith.webp)Harith+1.54 pts](https://boostmlbb.ru/en/heroes/harith.html)[![Franco](/images/heroes/franco.webp)Franco+1.47 pts](https://boostmlbb.ru/en/heroes/franco.html)
+Layla fires a Malefic Bomb in the target direction, dealing 200 (+80% Total Physical Attack) Physical Damage to the first enemy hit (can Crit).
+If Malefic Bomb hits an enemy, Layla's Basic Attacks and Void Projectile gain extra range for 3s. She also gains 60% Movement Speed that decays over 1.2s. The Movement Speed boost lasts twice as long if an enemy hero is hit.
+
+![](/images/mlbb/skills/layla-2.webp)Skill 2**Void Projectile**
+
+**Cooldown 7.5 Mana Cost: 70 s**
+
+Layla fires an orb of Malefic Energy at the target, dealing 170 (+65% Total Physical Attack) Physical Damage to the target and nearby enemies and applying a Magic Mark to the target for 3s.
+When Layla hits an enemy with a Magic Mark, she deals 100 (+35% Total Physical Attack) Physical Damage to the target and nearby enemies, stunning them for 0.25s.
+
+![](/images/mlbb/skills/layla-3.webp)Ultimate**Destruction Rush**
+
+**Cooldown 37 Mana Cost: 130 s**
+
+Passive: The range of Void Projectile and Basic Attacks is increased by 0.6 units. Layla's sight range is slightly increased each time this skill is upgraded.
+Active: Layla fires a blast of Malefic Energy in the target direction, dealing 500 (+150% Total Physical Attack) Physical Damage to enemies in a line.
 
 ## Win rate by rank
-
-Best result in Epic (50.86%), weakest in Mythical Glory (47.95%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**50.86%**
 -   ![](/images/ranks/Legend.webp)Legend**50.21%**
@@ -131,33 +134,13 @@ Best result in Epic (50.86%), weakest in Mythical Glory (47.95%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.70%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**47.95%**
 
-## Place in the meta
-
-Layla sits in tier B of our win-rate tier list and ranks 80 of 133 heroes. In Mythical Glory the win rate is lower: 47.95% against 49.41% across all ranks, a 1.46-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Gold Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
-
 ## Lore
 
-![Layla](/images/heroes/layla.webp)
+The backbone of the Eruditio Rangers who is also known as the Shining Star.
 
-«The backbone of the Eruditio Rangers who is also known as the Shining Star.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Layla)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=18)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Layla)
 
-Layla’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Layla)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=18)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Layla)
-
-## Boost on Layla
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -180,5 +163,3 @@ Tier B: #80 of 133 heroes by 30-day win rate and #15 among marksmen.
 What is the best build for Layla?
 
 The most popular ranked build: Windtalker, Haas' Claws and Berserker's Fury as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Flicker. It wins 55.78% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

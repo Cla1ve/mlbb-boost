@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier B
-
-# Johnson in Mobile Legends: build, counters and stats
-
-Tank and support, Roam. Wins 49.25% of matches over the last 30 days: #87 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier B
-
 ![](/images/heroes/johnson.webp)
 
-**Johnson**Ban 1.98% · Pick 0.70%
+Tier B
 
-Counters
+# Johnson
 
-![](/images/heroes/layla.webp)![](/images/heroes/zilong.webp)![](/images/heroes/saber.webp)
+Tank and support · Roam
 
-Win rate, 30 days**49.25%**
+**#87 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**49.25%**win rate, 30 days
+Win rate
 
-**0.70%**pick rate
+49.25%
 
-**1.98%**ban rate
+Pick rate
 
-**46.81%**wins in Mythical Glory
+0.70%
 
-## Johnson build
+Ban rate
 
-The most picked setup for roam Johnson in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+1.98%
+
+Support · Crowd Control · Difficulty 60/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Roam
 
 Core items
 
@@ -53,78 +51,82 @@ Battle spell
 
 Wins with this build **52.42%**Picked in **1.47%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20040.webp)Sprint![](/images/mlbb/emblems/20003.webp)TankInspire · Pull Yourself Together · Concussive Blast**55.57%**
--   ![](/images/mlbb/spells/20040.webp)Sprint![](/images/mlbb/emblems/20003.webp)TankAgility · Wilderness Blessing · Concussive Blast**56.66%**
+Core items
 
-## Johnson skills
+![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/3203.webp)Antique Cuirass![](/images/mlbb/items/2207.webp)Blade Armor
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Full Throttle** → **Electromagnetic Waves** → **Impact Wrench**
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/821.webp)Pull Yourself Together![](/images/mlbb/talents/331.webp)Concussive Blast
 
--   ![](/images/mlbb/skills/johnson-0.webp)
+Battle spell
 
-    **Electro Airbag**Passive
+![](/images/mlbb/spells/20040.webp)Sprint
 
-    When Johnson's HP drops below 30%, he gains a 300 (+700% Total Physical Defense) shield for 10s. Cooldown: 100s.
+Wins with this build **55.57%**Picked in **4.36%** of matches
 
--   ![](/images/mlbb/skills/johnson-1.webp)
+Core items
 
-    **Impact Wrench**Skill 1CD 8 s
+![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/3203.webp)Antique Cuirass![](/images/mlbb/items/2207.webp)Blade Armor
 
-    Johnson throws his wrench toward the target location, dealing 120 (+220% Total Physical Defense) Magic Damage to enemies in its path. Enemies around the landing point are stunned for 0.8s.
+Emblem and talents
 
--   ![](/images/mlbb/skills/johnson-2.webp)
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/121.webp)Wilderness Blessing![](/images/mlbb/talents/331.webp)Concussive Blast
 
-    **Electromagnetic Waves**Skill 2CD 10 s
+Battle spell
 
-    Johnson raises his shield, continuously dealing 120 (+60% Total Magic Power) Magic Damage to enemies in a fan-shaped area in the target direction, reducing their Movement Speed and by 10% (stacks up to 3 times) for 2s.
-    While his shield is raised, Johnson can perform Basic Attacks and cast skills.
+![](/images/mlbb/spells/20040.webp)Sprint
 
--   ![](/images/mlbb/skills/johnson-3.webp)
+Wins with this build **56.66%**Picked in **1.67%** of matches
 
-    **Full Throttle**UltimateCD 36 s
+## Counters and teammates
 
-    Passive: Johnson's is increased by 10%.
-    Active: Johnson transforms into a car. Nearby allied heroes can use Hop In to ride with him (only 1 at a time). When the car hits an enemy hero, it explodes and deals 300 (+240% Total Physical Defense)–450 (+360% Total Physical Defense) Magic Damage to nearby enemies, stunning them for 0.5–1s (scales with driving time). It also creates an electrified zone at the location that continuously deals 60 (+20% Total Magic Power) Magic Damage and slows enemies within.
-    Johnson's location is revealed to enemies for 3s when he casts this skill.
+### Counters
 
+[![](/images/heroes/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
 
--   Role**Tank and support**
--   Lane**Roam**
--   Among tanks**#17 of 25**
--   Among supports**#13 of 15**
--   On roam**#23 of 34**
--   Speciality**Support, Crowd Control**
--   Difficulty**Medium (60/100)**
+### Teammates
 
-## Who counters Johnson
+Win rate gain when playing together
 
-Johnson loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are fighters.
+[![](/images/heroes/silvanna.webp)Silvanna+1.95 pp](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/zhask.webp)Zhask+1.82 pp](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/change.webp)Chang'e+1.74 pp](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/balmond.webp)Balmond+1.71 pp](https://boostmlbb.ru/en/heroes/balmond.html)
 
-[![Layla](/images/heroes/layla.webp)Layla49.41%](https://boostmlbb.ru/en/heroes/layla.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Dyrroth](/images/heroes/dyrroth.webp)Dyrroth49.30%](https://boostmlbb.ru/en/heroes/dyrroth.html)[![Valentina](/images/heroes/valentina.webp)Valentina44.73%](https://boostmlbb.ru/en/heroes/valentina.html)
+## Skills
 
-## Who Johnson is strong against
+Level-up priority · Full Throttle → Electromagnetic Waves → Impact Wrench
 
-Johnson is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/johnson-0.webp)Passive**Electro Airbag**
 
-[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Carmilla](/images/heroes/carmilla.webp)Carmilla53.29%](https://boostmlbb.ru/en/heroes/carmilla.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)[![Atlas](/images/heroes/atlas.webp)Atlas51.42%](https://boostmlbb.ru/en/heroes/atlas.html)[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Lancelot](/images/heroes/lancelot.webp)Lancelot43.13%](https://boostmlbb.ru/en/heroes/lancelot.html)[![Lylia](/images/heroes/lylia.webp)Lylia49.34%](https://boostmlbb.ru/en/heroes/lylia.html)[![Grock](/images/heroes/grock.webp)Grock46.61%](https://boostmlbb.ru/en/heroes/grock.html)
+When Johnson's HP drops below 30%, he gains a 300 (+700% Total Physical Defense) shield for 10s. Cooldown: 100s.
 
-## Best teammates for Johnson
+![](/images/mlbb/skills/johnson-1.webp)Skill 1**Impact Wrench**
 
-With these heroes on the same team Johnson wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 8 s**
 
-[![Silvanna](/images/heroes/silvanna.webp)Silvanna+1.95 pts](https://boostmlbb.ru/en/heroes/silvanna.html)[![Zhask](/images/heroes/zhask.webp)Zhask+1.82 pts](https://boostmlbb.ru/en/heroes/zhask.html)[![Chang'e](/images/heroes/change.webp)Chang'e+1.74 pts](https://boostmlbb.ru/en/heroes/change.html)[![Balmond](/images/heroes/balmond.webp)Balmond+1.71 pts](https://boostmlbb.ru/en/heroes/balmond.html)
+Johnson throws his wrench toward the target location, dealing 120 (+220% Total Physical Defense) Magic Damage to enemies in its path. Enemies around the landing point are stunned for 0.8s.
+
+![](/images/mlbb/skills/johnson-2.webp)Skill 2**Electromagnetic Waves**
+
+**Cooldown 10 s**
+
+Johnson raises his shield, continuously dealing 120 (+60% Total Magic Power) Magic Damage to enemies in a fan-shaped area in the target direction, reducing their Movement Speed and by 10% (stacks up to 3 times) for 2s.
+While his shield is raised, Johnson can perform Basic Attacks and cast skills.
+
+![](/images/mlbb/skills/johnson-3.webp)Ultimate**Full Throttle**
+
+**Cooldown 36 s**
+
+Passive: Johnson's is increased by 10%.
+Active: Johnson transforms into a car. Nearby allied heroes can use Hop In to ride with him (only 1 at a time). When the car hits an enemy hero, it explodes and deals 300 (+240% Total Physical Defense)–450 (+360% Total Physical Defense) Magic Damage to nearby enemies, stunning them for 0.5–1s (scales with driving time). It also creates an electrified zone at the location that continuously deals 60 (+20% Total Magic Power) Magic Damage and slows enemies within.
+Johnson's location is revealed to enemies for 3s when he casts this skill.
 
 ## Win rate by rank
-
-Best result in Epic (52.61%), weakest in Mythical Glory (46.81%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**52.61%**
 -   ![](/images/ranks/Legend.webp)Legend**50.84%**
@@ -132,33 +134,13 @@ Best result in Epic (52.61%), weakest in Mythical Glory (46.81%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.08%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**46.81%**
 
-## Place in the meta
-
-Johnson sits in tier B of our win-rate tier list and ranks 87 of 133 heroes. In Mythical Glory the win rate is lower: 46.81% against 49.25% across all ranks, a 2.44-point gap. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Roam heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
-
 ## Lore
 
-![Johnson](/images/heroes/johnson.webp)
+A super cyborg who can transform into a car and lead his teammates into battle.
 
-«A super cyborg who can transform into a car and lead his teammates into battle.»
+[Read the lore](https://play.mobilelegends.com/lore/hero/Johnson)[Hero card](https://www.mobilelegends.com/hero/detail?heroid=32)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson)
 
-Johnson’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://play.mobilelegends.com/lore/hero/Johnson)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=32)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Johnson)
-
-## Boost on Johnson
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -181,5 +163,3 @@ Tier B: #87 of 133 heroes by 30-day win rate and #17 among tanks.
 What is the best build for Johnson?
 
 The most popular ranked build: Fleeting Time, Dominance Ice and Athena's Shield as core items, the Tank emblem with Firmness, Tenacity and Concussive Blast, and Petrify. It wins 52.42% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026

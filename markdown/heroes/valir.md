@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир S
-
-# Валир в Mobile Legends: сборка, контрпики и статистика
-
-Маг, средняя линия. Выигрывает 54,11% матчей за последние 30 дней — 7-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир S
-
 ![](/images/heroes/valir.webp)
 
-**Валир**Бан 3,78% · Выбор 1,21%
+Тир S
 
-Контрпики
+# Валир
 
-![](/images/heroes/fredrinn.webp)![](/images/heroes/alice.webp)![](/images/heroes/balmond.webp)
+Маг · Средняя линия
 
-Победы за 30 дней**54,11%**
+**№ 7 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**54,11%**побед за 30 дней
+Победы
 
-**1,21%**выбирают в матчах
+54,11%
 
-**3,78%**банят в матчах
+Выбор
 
-**53,73%**побед в Мифической славе
+1,21%
 
-## Сборка на героя «Валир»
+Баны
 
-Самая популярная сборка для героя «Валир» на роли средней линии в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+3,78%
+
+Урон · Защита · Сложность 20/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Средняя линия
 
 Ключевые предметы
 
@@ -53,80 +51,85 @@ language: ru
 
 Побед с этой сборкой **36,24%**Выбирают в **3,35%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20001.webp)Обычная эмблемаВдохновение · Кровавое пиршество · Нечестивая ярость**59,80%**
--   ![](/images/mlbb/spells/20100.webp)Вспышка![](/images/mlbb/emblems/20001.webp)Обычная эмблемаВдохновение · Кровавое пиршество · Нечестивая ярость**61,07%**
+Ключевые предметы
 
-## Навыки героя «Валир»
+![](/images/mlbb/items/3105.webp)Пылающий жезл![](/images/mlbb/items/3104.webp)Жезл снежной королевы![](/images/mlbb/items/2112.webp)Фонарь желаний
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Пламя отмщения** → **Взрывной огненный шар** → **Жгучий поток**
+![](/images/mlbb/emblems/20001.webp)Обычная эмблема![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/131.webp)Нечестивая ярость
 
--   ![](/images/mlbb/skills/valir-0.webp)
+Боевое заклинание
 
-    **Испепеление**Пассивный
+![](/images/mlbb/spells/20100.webp)Вспышка
 
-    Навыки Валира накладывают заряд "Поджога" на пораженных врагов, нанося магический урон в размере 1 (+0.2% общей магической силы)% от их каждую секунду в течение 3 сек.
-    При 3 зарядах происходит взрыв, который наносит магический урон в размере 5 (+1% общей магической силы)% от цели и оглушает ее на 1 сек.
-    Цель может быть оглушена навыками Валира только один раз кажд. 7 сек.
+Побед с этой сборкой **59,80%**Выбирают в **23,57%** матчей
 
--   ![](/images/mlbb/skills/valir-1.webp)
+Ключевые предметы
 
-    **Взрывной огненный шар**1-й навыкПерезарядка 1.5 Mana Cost: 45 с
+![](/images/mlbb/items/3105.webp)Пылающий жезл![](/images/mlbb/items/3104.webp)Жезл снежной королевы![](/images/mlbb/items/3208.webp)Кираса грубой силы
 
-    Валир запускает огненный шар, который взрывается при попадании в первую цель, нанося 235 (+80% общей магической силы) единиц магического урона и замедляя ее на 30% на 1 сек. Пламя, горящее на земле, взрывается через 1 сек., нанося 118 (+40% общей магической силы) единиц магического урона.
-    Валир накапливает 1 огненный шар кажд. 9 сек. (до 2). Попадание этим навыком во вражеского героя или легендарного монстра немедленно восстанавливает 1 заряд, а попадание в миньона восстанавливает 4 сек. времени накопления.
-    "Пламя отмщения": увеличивает дальность применения "Взрывного огненного шара" на 30%.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/valir-2.webp)
+![](/images/mlbb/emblems/20001.webp)Обычная эмблема![](/images/mlbb/talents/611.webp)Вдохновение![](/images/mlbb/talents/721.webp)Кровавое пиршество![](/images/mlbb/talents/131.webp)Нечестивая ярость
 
-    **Жгучий поток**2-й навыкПерезарядка 13 Mana Cost: 75 с
+Боевое заклинание
 
-    Валир выпускает поток пламени в указанном направлении, нанося 200 (+60% общей магической силы) единиц магического урона и отталкивая врагов к концу пути.
-    "Пламя отмщения": поток образует стену пламени в конце пути, которая длится 4 сек., нанося 100 (+30% общей магической силы) единиц магического урона ближайшим врагам каждую 1 сек.
-    Враги, пораженные потоком или стеной пламени, замедляются на 25% на 1 сек.
+![](/images/mlbb/spells/20100.webp)Вспышка
 
--   ![](/images/mlbb/skills/valir-3.webp)
+Побед с этой сборкой **61,07%**Выбирают в **3,18%** матчей
 
-    **Пламя отмщения**УльтимейтПерезарядка 36 Mana Cost: 100 с
+## Контрпики и союзники
 
-    Валир снимает с себя все дебаффы и получает 40% скорости передвижения, которая снижается в течение 3 сек. В то же время он создает "Пламени отмщения" (4), которые усиливают "Взрывной огненный шар" и "Жгучий поток" на 9 сек.
+### Кто контрит
 
+[![](/images/heroes/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
--   Роль**Маг**
--   Линия**Средняя линия**
--   Среди магов**1-е из 32**
--   На средней линии**1-е из 29**
--   Специализация**Урон, Защита**
--   Сложность**Низкая (20/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Валир» проигрывает чаще всего. Под иконкой — их собственный процент побед. 3 из 5 контрпиков — танки.
+[![](/images/heroes/natalia.webp)Наталья+1,48 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/hanzo.webp)Ханзо+1,43 п. п.](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/harley.webp)Харли+1,35 п. п.](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/zhuxin.webp)Чжусинь+1,32 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)
 
-[![Фредрин](/images/heroes/fredrinn.webp)Фредрин51,25%](https://boostmlbb.ru/heroes/fredrinn.html)[![Алиса](/images/heroes/alice.webp)Алиса50,70%](https://boostmlbb.ru/heroes/alice.html)[![Бальмонд](/images/heroes/balmond.webp)Бальмонд46,66%](https://boostmlbb.ru/heroes/balmond.html)[![Леоморд](/images/heroes/leomord.webp)Леоморд50,09%](https://boostmlbb.ru/heroes/leomord.html)[![Хилос](/images/heroes/hylos.webp)Хилос48,55%](https://boostmlbb.ru/heroes/hylos.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Пламя отмщения → Взрывной огненный шар → Жгучий поток
 
-Для этих героев «Валир» — один из самых неудобных соперников.
+![](/images/mlbb/skills/valir-0.webp)Пассивный**Испепеление**
 
-[![Госсен](/images/heroes/gusion.webp)Госсен48,61%](https://boostmlbb.ru/heroes/gusion.html)[![Новария](/images/heroes/novaria.webp)Новария49,52%](https://boostmlbb.ru/heroes/novaria.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Харли](/images/heroes/harley.webp)Харли48,19%](https://boostmlbb.ru/heroes/harley.html)[![Кагура](/images/heroes/kagura.webp)Кагура51,09%](https://boostmlbb.ru/heroes/kagura.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт47,63%](https://boostmlbb.ru/heroes/helcurt.html)[![Кайя](/images/heroes/kaja.webp)Кайя49,80%](https://boostmlbb.ru/heroes/kaja.html)[![Фаша](/images/heroes/pharsa.webp)Фаша47,26%](https://boostmlbb.ru/heroes/pharsa.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Матильда](/images/heroes/mathilda.webp)Матильда44,49%](https://boostmlbb.ru/heroes/mathilda.html)
+Навыки Валира накладывают заряд "Поджога" на пораженных врагов, нанося магический урон в размере 1 (+0.2% общей магической силы)% от их каждую секунду в течение 3 сек.
+При 3 зарядах происходит взрыв, который наносит магический урон в размере 5 (+1% общей магической силы)% от цели и оглушает ее на 1 сек.
+Цель может быть оглушена навыками Валира только один раз кажд. 7 сек.
 
-## С кем играть в команде
+![](/images/mlbb/skills/valir-1.webp)1-й навык**Взрывной огненный шар**
 
-С этими героями в одной команде «Валир» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 1.5 Mana Cost: 45 с**
 
-[![Наталья](/images/heroes/natalia.webp)Наталья+1,48 п. п.](https://boostmlbb.ru/heroes/natalia.html)[![Ханзо](/images/heroes/hanzo.webp)Ханзо+1,43 п. п.](https://boostmlbb.ru/heroes/hanzo.html)[![Харли](/images/heroes/harley.webp)Харли+1,35 п. п.](https://boostmlbb.ru/heroes/harley.html)[![Чжусинь](/images/heroes/zhuxin.webp)Чжусинь+1,32 п. п.](https://boostmlbb.ru/heroes/zhuxin.html)
+Валир запускает огненный шар, который взрывается при попадании в первую цель, нанося 235 (+80% общей магической силы) единиц магического урона и замедляя ее на 30% на 1 сек. Пламя, горящее на земле, взрывается через 1 сек., нанося 118 (+40% общей магической силы) единиц магического урона.
+Валир накапливает 1 огненный шар кажд. 9 сек. (до 2). Попадание этим навыком во вражеского героя или легендарного монстра немедленно восстанавливает 1 заряд, а попадание в миньона восстанавливает 4 сек. времени накопления.
+"Пламя отмщения": увеличивает дальность применения "Взрывного огненного шара" на 30%.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/valir-2.webp)2-й навык**Жгучий поток**
 
-Лучший результат — на ранге «Мифический» (54,66%), слабее всего — «Мифическая слава» (53,73%). Данные за последние 30 дней.
+**Перезарядка 13 Mana Cost: 75 с**
+
+Валир выпускает поток пламени в указанном направлении, нанося 200 (+60% общей магической силы) единиц магического урона и отталкивая врагов к концу пути.
+"Пламя отмщения": поток образует стену пламени в конце пути, которая длится 4 сек., нанося 100 (+30% общей магической силы) единиц магического урона ближайшим врагам каждую 1 сек.
+Враги, пораженные потоком или стеной пламени, замедляются на 25% на 1 сек.
+
+![](/images/mlbb/skills/valir-3.webp)Ультимейт**Пламя отмщения**
+
+**Перезарядка 36 Mana Cost: 100 с**
+
+Валир снимает с себя все дебаффы и получает 40% скорости передвижения, которая снижается в течение 3 сек. В то же время он создает "Пламени отмщения" (4), которые усиливают "Взрывной огненный шар" и "Жгучий поток" на 9 сек.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**54,28%**
 -   ![](/images/ranks/Legend.webp)Легенда**54,28%**
@@ -134,33 +137,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**54,23%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**53,73%**
 
-## Место в мете
+## История
 
-«Валир» — тир S в нашем тир-листе по проценту побед, 7-е место из 133 героев. В Мифической славе результат почти такой же: 53,73%. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
+Наследник Огненной глотки, маг огня.
 
-## Другие герои средней линии
+[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=57)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valir)
 
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Горд](/images/heroes/gord.webp)Горд52,61%](https://boostmlbb.ru/heroes/gord.html)[![Заск](/images/heroes/zhask.webp)Заск52,54%](https://boostmlbb.ru/heroes/zhask.html)[![Ив](/images/heroes/yve.webp)Ив52,26%](https://boostmlbb.ru/heroes/yve.html)[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Ксавьер](/images/heroes/xavier.webp)Ксавьер51,68%](https://boostmlbb.ru/heroes/xavier.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)
-
-## История героя
-
-![Валир](/images/heroes/valir.webp)
-
-«Наследник Огненной глотки, маг огня.»
-
-Полная история героя «Валир» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
-
-[Читать историю](https://www.mobilelegends.com/hero/detail?heroid=57)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=57)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valir)
-
-## Буст на герое «Валир»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -183,5 +166,3 @@ language: ru
 Какая сборка на героя «Валир» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Пылающий жезл», «Жезл снежной королевы» и «Волшебная палочка», обычная эмблема с талантами «Вдохновение», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 36,24% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

@@ -7,37 +7,35 @@ language: ru
 
 [Главная](https://boostmlbb.ru/) / [Герои](https://boostmlbb.ru/heroes/)
 
-Тир S
-
-# Лолита в Mobile Legends: сборка, контрпики и статистика
-
-Танк и поддержка, роум. Выигрывает 53,30% матчей за последние 30 дней — 14-е место из 133 героев.
-
-[Буст на этом герое](https://boostmlbb.ru/order.html?type=hero)[Все герои](https://boostmlbb.ru/heroes/)
-
-Статистика герояТир S
-
 ![](/images/heroes/lolita.webp)
 
-**Лолита**Бан 0,20% · Выбор 0,08%
+Тир S
 
-Контрпики
+# Лолита
 
-![](/images/heroes/cyclops.webp)![](/images/heroes/edith.webp)![](/images/heroes/change.webp)
+Танк и поддержка · Роум
 
-Победы за 30 дней**53,30%**
+**№ 14 из 133 по доле побед**Все ранги · 30 дней по 23 ноября 2026 года
 
-**53,30%**побед за 30 дней
+Победы
 
-**0,08%**выбирают в матчах
+53,30%
 
-**0,20%**банят в матчах
+Выбор
 
-**51,70%**побед в Мифической славе
+0,08%
 
-## Сборка на героя «Лолита»
+Баны
 
-Самая популярная сборка для героя «Лолита» на роли роума в рейтинговых матчах на всех рангах — по данным «Академии» в игре. Процент побед — в матчах именно с этой сборкой.
+0,20%
+
+Защита · Массовый контроль · Сложность 50/100
+
+[Сборка](https://boostmlbb.ru/#build)[Контрпики и союзники](https://boostmlbb.ru/#draft)[Навыки](https://boostmlbb.ru/#skills)[Победы по рангам](https://boostmlbb.ru/#ranks)[История](https://boostmlbb.ru/#lore)
+
+## Сборка
+
+Самый частый выбор в рейтинге · Роум
 
 Ключевые предметы
 
@@ -53,78 +51,82 @@ language: ru
 
 Побед с этой сборкой **60,85%**Выбирают в **2,25%** матчей
 
-### Другие популярные варианты
+Другие сборки (2)
 
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20003.webp)Эмблема танкаЖивучесть · Стойкость · Фокус-метка**59,38%**
--   ![](/images/mlbb/spells/20050.webp)Восстановление![](/images/mlbb/emblems/20003.webp)Эмблема танкаПрочность · Второе дыхание · Фокус-метка**58,44%**
+Ключевые предметы
 
-## Навыки героя «Лолита»
+![](/images/mlbb/items/3112.webp)Фляга Оазиса![](/images/mlbb/items/3212.webp)Наплечник наказания![](/images/mlbb/items/3202.webp)Защитный шлем
 
-Официальные описания навыков от MOONTON с перезарядкой и типом навыка.
+Эмблема и таланты
 
-Порядок прокачки: **Взрыв Ноумена** → **Мощный рывок** → **Отражающий щит**
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/311.webp)Живучесть![](/images/mlbb/talents/321.webp)Стойкость![](/images/mlbb/talents/831.webp)Фокус-метка
 
--   ![](/images/mlbb/skills/lolita-0.webp)
+Боевое заклинание
 
-    **Энергетическое ядро Ноумена**Пассивный
+![](/images/mlbb/spells/20050.webp)Восстановление
 
-    Кажд. 6-3 сек. (зависит от уровня "Взрыва Ноумена"), энергетическое ядро Ноумена дает 20 (+2.5% Макс. ОЗ) (+20% общей магической силы) ед. щита Лолите. Когда Лолита применяет навык, энергетическое ядро Ноумена дает Лолите и ближайшим союзным героям дополнительный щит. Этот щит длится 30 сек. и может складываться до 3 р.
+Побед с этой сборкой **59,38%**Выбирают в **2,02%** матчей
 
--   ![](/images/mlbb/skills/lolita-1.webp)
+Ключевые предметы
 
-    **Мощный рывок**1-й навыкПерезарядка 10 Mana Cost: 70 с
+![](/images/mlbb/items/3112.webp)Фляга Оазиса![](/images/mlbb/items/3212.webp)Наплечник наказания![](/images/mlbb/items/3202.webp)Защитный шлем
 
-    Лолита бросается в указанном направлении. При следующей базовой атаке в течение 4 сек. она совершит короткий рывок к цели, нанося 400 (+100% общей физической атаки) единиц физического урона и оглушая ее на 0.5 сек. Этот урон удваивается против миньонов.
+Эмблема и таланты
 
--   ![](/images/mlbb/skills/lolita-2.webp)
+![](/images/mlbb/emblems/20003.webp)Эмблема танка![](/images/mlbb/talents/711.webp)Прочность![](/images/mlbb/talents/821.webp)Второе дыхание![](/images/mlbb/talents/831.webp)Фокус-метка
 
-    **Отражающий щит**2-й навыкПерезарядка 15 Mana Cost: 90 с
+Боевое заклинание
 
-    Лолита поднимает щит и отражает все входящие дальние базовые атаки и снаряды в направлении щита в течение 3 сек. Щит разрушится, когда будет получено 1000 (+15% Макс. ОЗ) единиц урона.
-    Урон и эффекты от уникальных пассивных навыков снаряжения атакующего не применяются к щиту и не отражаются. Этот навык могут прервать эффекты контроля высокого уровня.
+![](/images/mlbb/spells/20050.webp)Восстановление
 
--   ![](/images/mlbb/skills/lolita-3.webp)
+Побед с этой сборкой **58,44%**Выбирают в **1,48%** матчей
 
-    **Взрыв Ноумена**УльтимейтПерезарядка 55 Mana Cost: 100 с
+## Контрпики и союзники
 
-    Пассивный: сокращает интервал "Энергетического ядра Ноумена" на 1 сек. при каждом улучшении этого навыка.
-    Активный: Лолита начинает подготовку на 2 сек., в то же время замедляя врагов в веерообразной области на 60%. Когда подготовка завершена или остановлена, Лолита бьет молотом по земле, нанося до 600 (+100% общей физической атаки) единиц физического урона врагам в области и оглушая их на время до 2 сек. (урон и длительность оглушения зависят от времени подготовки).
-    Повторное использование: Лолита немедленно прекращает подготовку и бьет молотом по земле.
+### Кто контрит
 
+[![](/images/heroes/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
 
-## Роль и линия
+### Против кого силён
 
-Место считается по проценту побед за 30 дней среди героев той же роли или линии.
+[![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)
 
--   Роль**Танк и поддержка**
--   Линия**Роум**
--   Среди танков**5-е из 25**
--   Среди героев поддержки**6-е из 15**
--   В роуме**8-е из 34**
--   Специализация**Защита, Массовый контроль**
--   Сложность**Средняя (50/100)**
+### Союзники
 
-## Кто контрит этого героя
+Прибавка к доле побед в одной команде
 
-Против этих героев «Лолита» проигрывает чаще всего. Под иконкой — их собственный процент побед. 4 из 5 контрпиков — маги.
+[![](/images/heroes/saber.webp)Сабер+3,05 п. п.](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/helcurt.webp)Хелкарт+2,22 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/silvanna.webp)Сильвана+2,02 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/jawhead.webp)Кусака+1,96 п. п.](https://boostmlbb.ru/heroes/jawhead.html)
 
-[![Циклоп](/images/heroes/cyclops.webp)Циклоп51,68%](https://boostmlbb.ru/heroes/cyclops.html)[![Эдит](/images/heroes/edith.webp)Эдит52,67%](https://boostmlbb.ru/heroes/edith.html)[![Чан'Э](/images/heroes/change.webp)Чан'Э48,20%](https://boostmlbb.ru/heroes/change.html)[![Харли](/images/heroes/harley.webp)Харли48,19%](https://boostmlbb.ru/heroes/harley.html)[![Бэйн](/images/heroes/bane.webp)Бэйн51,61%](https://boostmlbb.ru/heroes/bane.html)
+## Навыки
 
-## Против кого силён
+Приоритет прокачки · Взрыв Ноумена → Мощный рывок → Отражающий щит
 
-Для этих героев «Лолита» — один из самых неудобных соперников.
+![](/images/mlbb/skills/lolita-0.webp)Пассивный**Энергетическое ядро Ноумена**
 
-[![Нана](/images/heroes/nana.webp)Нана47,27%](https://boostmlbb.ru/heroes/nana.html)[![Цзэтянь](/images/heroes/zetian.webp)Цзэтянь50,89%](https://boostmlbb.ru/heroes/zetian.html)[![Вексана](/images/heroes/vexana.webp)Вексана49,30%](https://boostmlbb.ru/heroes/vexana.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)[![Атлас](/images/heroes/atlas.webp)Атлас51,42%](https://boostmlbb.ru/heroes/atlas.html)[![Фрейя](/images/heroes/freya.webp)Фрейя49,32%](https://boostmlbb.ru/heroes/freya.html)[![Эсмеральда](/images/heroes/esmeralda.webp)Эсмеральда47,00%](https://boostmlbb.ru/heroes/esmeralda.html)[![Клауд](/images/heroes/claude.webp)Клауд48,85%](https://boostmlbb.ru/heroes/claude.html)[![Аулус](/images/heroes/aulus.webp)Аулус53,46%](https://boostmlbb.ru/heroes/aulus.html)[![Кадита](/images/heroes/kadita.webp)Кадита51,30%](https://boostmlbb.ru/heroes/kadita.html)
+Кажд. 6-3 сек. (зависит от уровня "Взрыва Ноумена"), энергетическое ядро Ноумена дает 20 (+2.5% Макс. ОЗ) (+20% общей магической силы) ед. щита Лолите. Когда Лолита применяет навык, энергетическое ядро Ноумена дает Лолите и ближайшим союзным героям дополнительный щит. Этот щит длится 30 сек. и может складываться до 3 р.
 
-## С кем играть в команде
+![](/images/mlbb/skills/lolita-1.webp)1-й навык**Мощный рывок**
 
-С этими героями в одной команде «Лолита» выигрывает чаще. Число — прибавка к проценту побед в процентных пунктах.
+**Перезарядка 10 Mana Cost: 70 с**
 
-[![Сабер](/images/heroes/saber.webp)Сабер+3,05 п. п.](https://boostmlbb.ru/heroes/saber.html)[![Хелкарт](/images/heroes/helcurt.webp)Хелкарт+2,22 п. п.](https://boostmlbb.ru/heroes/helcurt.html)[![Сильвана](/images/heroes/silvanna.webp)Сильвана+2,02 п. п.](https://boostmlbb.ru/heroes/silvanna.html)[![Кусака](/images/heroes/jawhead.webp)Кусака+1,96 п. п.](https://boostmlbb.ru/heroes/jawhead.html)
+Лолита бросается в указанном направлении. При следующей базовой атаке в течение 4 сек. она совершит короткий рывок к цели, нанося 400 (+100% общей физической атаки) единиц физического урона и оглушая ее на 0.5 сек. Этот урон удваивается против миньонов.
 
-## Процент побед по рангам
+![](/images/mlbb/skills/lolita-2.webp)2-й навык**Отражающий щит**
 
-Лучший результат — на ранге «Легенда» (55,33%), слабее всего — «Мифическая слава» (51,70%). Данные за последние 30 дней.
+**Перезарядка 15 Mana Cost: 90 с**
+
+Лолита поднимает щит и отражает все входящие дальние базовые атаки и снаряды в направлении щита в течение 3 сек. Щит разрушится, когда будет получено 1000 (+15% Макс. ОЗ) единиц урона.
+Урон и эффекты от уникальных пассивных навыков снаряжения атакующего не применяются к щиту и не отражаются. Этот навык могут прервать эффекты контроля высокого уровня.
+
+![](/images/mlbb/skills/lolita-3.webp)Ультимейт**Взрыв Ноумена**
+
+**Перезарядка 55 Mana Cost: 100 с**
+
+Пассивный: сокращает интервал "Энергетического ядра Ноумена" на 1 сек. при каждом улучшении этого навыка.
+Активный: Лолита начинает подготовку на 2 сек., в то же время замедляя врагов в веерообразной области на 60%. Когда подготовка завершена или остановлена, Лолита бьет молотом по земле, нанося до 600 (+100% общей физической атаки) единиц физического урона врагам в области и оглушая их на время до 2 сек. (урон и длительность оглушения зависят от времени подготовки).
+Повторное использование: Лолита немедленно прекращает подготовку и бьет молотом по земле.
+
+## Победы по рангам
 
 -   ![](/images/ranks/Epic.webp)Эпик**54,33%**
 -   ![](/images/ranks/Legend.webp)Легенда**55,33%**
@@ -132,33 +134,13 @@ language: ru
 -   ![](/images/ranks/Mythical_Honor.webp)Мифическая честь**53,70%**
 -   ![](/images/ranks/Mythical_Glory.webp)Мифическая слава**51,70%**
 
-## Место в мете
+## История
 
-«Лолита» — тир S в нашем тир-листе по проценту побед, 14-е место из 133 героев. Героя выбирают реже чем в 0,5% матчей, поэтому процент побед может заметно колебаться. В Мифической славе процент побед ниже: 51,70% против 53,30% на всех рангах, разница 1,60 п. п. Полный [тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/) и [разбор патча](https://boostmlbb.ru/news/mlbb-current-patch/).
-
-## Другие герои роума
-
-Самые сильные по проценту побед за последние 30 дней.
-
-[![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
-
-## История героя
-
-![Лолита](/images/heroes/lolita.webp)
-
-«Член Рейнджеров Эрудитио и защитница мастерской Левиафана.»
-
-Полная история героя «Лолита» — на официальном сайте лора MOONTON. Карточка героя с навыками и советами разработчиков — на mobilelegends.com, реплики, облики и история изменений — в MLBB Wiki.
+Член Рейнджеров Эрудитио и защитница мастерской Левиафана.
 
 [Читать историю](https://play.mobilelegends.com/lore/hero/Lolita)[Карточка героя](https://www.mobilelegends.com/hero/detail?heroid=20)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lolita)
 
-## Буст на герое «Лолита»
-
-Бустер играет только этим героем: вместе с рангом растёт и рейтинг героя.
-
-[Рассчитать стоимость](https://boostmlbb.ru/order.html?type=hero)
-
-Статистика — официальный рейтинг героев MOONTON (mobilelegends.com/rank) за последние 30 дней, обновление 23 ноября 2026 года, страница обновляется каждый день. Роли и линии — с официальной страницы героев. Сборки, навыки и союзники — данные «Академии» MOONTON через Rone Arena API (ridwaanhall / RoneAI).
+[Стоимость буста на герое](https://boostmlbb.ru/order.html?type=hero)
 
 ## Частые вопросы
 
@@ -181,5 +163,3 @@ language: ru
 Какая сборка на героя «Лолита» лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Господство льда» и «Сияющая броня», эмблема поддержки с талантами «Прочность», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 60,85% матчей.
-
-Редакция MLBB Boost · Обновлено 23 ноября 2026

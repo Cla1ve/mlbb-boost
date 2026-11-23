@@ -7,37 +7,35 @@ language: en
 
 [Home](https://boostmlbb.ru/en/) / [Heroes](https://boostmlbb.ru/en/heroes/)
 
-Tier C
-
-# Lesley in Mobile Legends: build, counters and stats
-
-Assassin and marksman, Gold Lane. Wins 48.31% of matches over the last 30 days: #104 of 133 heroes.
-
-[Boost on this hero](https://boostmlbb.ru/en/order.html?type=hero)[All heroes](https://boostmlbb.ru/en/heroes/)
-
-Hero statsTier C
-
 ![](/images/heroes/lesley.webp)
 
-**Lesley**Ban 8.50% · Pick 1.84%
+Tier C
 
-Counters
+# Lesley
 
-![](/images/heroes/claude.webp)![](/images/heroes/marcel.webp)![](/images/heroes/bruno.webp)
+Assassin and marksman · Gold Lane
 
-Win rate, 30 days**48.31%**
+**#104 of 133 by win rate**All ranks · 30 days to 23 November 2026
 
-**48.31%**win rate, 30 days
+Win rate
 
-**1.84%**pick rate
+48.31%
 
-**8.50%**ban rate
+Pick rate
 
-**48.52%**wins in Mythical Glory
+1.84%
 
-## Lesley build
+Ban rate
 
-The most picked setup for Gold Lane Lesley in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+8.50%
+
+Finisher · Burst · Difficulty 50/100
+
+[Build](https://boostmlbb.ru/#build)[Counters and teammates](https://boostmlbb.ru/#draft)[Skills](https://boostmlbb.ru/#skills)[Win rate by rank](https://boostmlbb.ru/#ranks)[Lore](https://boostmlbb.ru/#lore)
+
+## Build
+
+Most picked in ranked · Gold Lane
 
 Core items
 
@@ -53,81 +51,85 @@ Battle spell
 
 Wins with this build **57.19%**Picked in **4.84%** of matches
 
-### Other popular setups
+Alternative builds (2)
 
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20012.webp)MarksmanFatal · Weapons Master · Lethal Ignition**50.93%**
--   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20012.webp)MarksmanFatal · Weapons Master · Quantum Charge**53.12%**
+Core items
 
-## Lesley skills
+![](/images/mlbb/items/3003.webp)Berserker's Fury![](/images/mlbb/items/3015.webp)Malefic Gun![](/images/mlbb/items/3013.webp)Sea Halberd
 
-Official skill descriptions from MOONTON with cooldowns and tags.
+Emblem and talents
 
-Level-up priority: **Ultimate Snipe** → **Master of Camouflage** → **Tactical Grenade**
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/1211.webp)Fatal![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
 
--   ![](/images/mlbb/skills/lesley-0.webp)
+Battle spell
 
-    **Lethal Shot**Passive
+![](/images/mlbb/spells/20100.webp)Flicker
 
-    If Lesley doesn't take damage for 5s, her next Basic Attack gains extra range and 50% Crit Chance and deals 100 (+100% Total Physical Attack) True Damage (20% extra damage against minions).
-    Each point of fixed Physical Penetration and each 1% Physical Penetration Lesley acquires is converted into 1% Crit Damage, but her base Crit Damage is reduced to 130%.
-    Lesley's Basic Attack restores 5 points of energy and her Lethal Shot doubles the amount of energy restored. The Lethal Shot effect will activate immediately after Lesley uses a skill.
+Wins with this build **50.93%**Picked in **3.68%** of matches
 
--   ![](/images/mlbb/skills/lesley-1.webp)
+Core items
 
-    **Master of Camouflage**Skill 1CD 3.5 Energy Cost: 30 s
+![](/images/mlbb/items/3003.webp)Berserker's Fury![](/images/mlbb/items/3015.webp)Malefic Gun![](/images/mlbb/items/3013.webp)Sea Halberd
 
-    Lesley enters the Camouflage state, gaining double Energy Regen, 40% extra Movement Speed, and 85 extra .
-    The state lasts 3s or until Lesley takes or deals damage. Enemies can detect Lesley's position through distortions of their surroundings.
+Emblem and talents
 
--   ![](/images/mlbb/skills/lesley-2.webp)
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/1211.webp)Fatal![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/132.webp)Quantum Charge
 
-    **Tactical Grenade**Skill 2CD 10 Energy Cost: 40 s
+Battle spell
 
-    Lesley throws a tactical grenade in the target direction while jumping back slightly, dealing 150 (+50% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and knocking them back.
-    Lesley can cast this skill during Ultimate Snipe to cancel the state and immediately fire a Fatal Bullet at the target. The attack is only triggered when there are unfired Fatal Bullets left.
+![](/images/mlbb/spells/20100.webp)Flicker
 
--   ![](/images/mlbb/skills/lesley-3.webp)
+Wins with this build **53.12%**Picked in **5.61%** of matches
 
-    **Ultimate Snipe**UltimateCD 40 s
+## Counters and teammates
 
-    Passive: Lesley's Crit Chance is increased by 10%.
-    Active: Lesley locks onto an enemy hero and fires 4 Fatal Bullets in succession. Each bullet deals 250 (+80% Extra Physical Attack) (+ 5% of the target's lost ) Physical Damage and restores 10 Energy on hit. Bullets can be blocked by other enemy heroes.
-    If this skill is interrupted, each remaining bullet reduces this skill's cooldown by 10%.
+### Counters
 
+[![](/images/heroes/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)
 
-## Role and lane
+### Strong against
 
-Places are by win rate over the last 30 days among heroes of the same role or lane.
+[![](/images/heroes/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
--   Role**Assassin and marksman**
--   Lane**Gold Lane**
--   Among assassins**#21 of 29**
--   Among marksmen**#21 of 23**
--   In the Gold Lane**#18 of 21**
--   Speciality**Finisher, Burst**
--   Difficulty**Medium (50/100)**
+### Teammates
 
-## Who counters Lesley
+Win rate gain when playing together
 
-Lesley loses to these heroes most often. The number under each icon is that hero’s own win rate. 2 of the 5 counters are marksmen.
+[![](/images/heroes/harith.webp)Harith+3.73 pp](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa+2.93 pp](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/roger.webp)Roger+1.94 pp](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/xavier.webp)Xavier+1.36 pp](https://boostmlbb.ru/en/heroes/xavier.html)
 
-[![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)
+## Skills
 
-## Who Lesley is strong against
+Level-up priority · Ultimate Snipe → Master of Camouflage → Tactical Grenade
 
-Lesley is one of the toughest opponents for these heroes.
+![](/images/mlbb/skills/lesley-0.webp)Passive**Lethal Shot**
 
-[![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)
+If Lesley doesn't take damage for 5s, her next Basic Attack gains extra range and 50% Crit Chance and deals 100 (+100% Total Physical Attack) True Damage (20% extra damage against minions).
+Each point of fixed Physical Penetration and each 1% Physical Penetration Lesley acquires is converted into 1% Crit Damage, but her base Crit Damage is reduced to 130%.
+Lesley's Basic Attack restores 5 points of energy and her Lethal Shot doubles the amount of energy restored. The Lethal Shot effect will activate immediately after Lesley uses a skill.
 
-## Best teammates for Lesley
+![](/images/mlbb/skills/lesley-1.webp)Skill 1**Master of Camouflage**
 
-With these heroes on the same team Lesley wins more often. The number is the gain in win rate, in percentage points.
+**Cooldown 3.5 Energy Cost: 30 s**
 
-[![Harith](/images/heroes/harith.webp)Harith+3.73 pts](https://boostmlbb.ru/en/heroes/harith.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa+2.93 pts](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Roger](/images/heroes/roger.webp)Roger+1.94 pts](https://boostmlbb.ru/en/heroes/roger.html)[![Xavier](/images/heroes/xavier.webp)Xavier+1.36 pts](https://boostmlbb.ru/en/heroes/xavier.html)
+Lesley enters the Camouflage state, gaining double Energy Regen, 40% extra Movement Speed, and 85 extra .
+The state lasts 3s or until Lesley takes or deals damage. Enemies can detect Lesley's position through distortions of their surroundings.
+
+![](/images/mlbb/skills/lesley-2.webp)Skill 2**Tactical Grenade**
+
+**Cooldown 10 Energy Cost: 40 s**
+
+Lesley throws a tactical grenade in the target direction while jumping back slightly, dealing 150 (+50% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and knocking them back.
+Lesley can cast this skill during Ultimate Snipe to cancel the state and immediately fire a Fatal Bullet at the target. The attack is only triggered when there are unfired Fatal Bullets left.
+
+![](/images/mlbb/skills/lesley-3.webp)Ultimate**Ultimate Snipe**
+
+**Cooldown 40 s**
+
+Passive: Lesley's Crit Chance is increased by 10%.
+Active: Lesley locks onto an enemy hero and fires 4 Fatal Bullets in succession. Each bullet deals 250 (+80% Extra Physical Attack) (+ 5% of the target's lost ) Physical Damage and restores 10 Energy on hit. Bullets can be blocked by other enemy heroes.
+If this skill is interrupted, each remaining bullet reduces this skill's cooldown by 10%.
 
 ## Win rate by rank
-
-Best result in Mythical Glory (48.52%), weakest in Epic (47.58%). Last 30 days.
 
 -   ![](/images/ranks/Epic.webp)Epic**47.58%**
 -   ![](/images/ranks/Legend.webp)Legend**48.06%**
@@ -135,33 +137,13 @@ Best result in Mythical Glory (48.52%), weakest in Epic (47.58%). Last 30 days.
 -   ![](/images/ranks/Mythical_Honor.webp)Mythical Honor**48.33%**
 -   ![](/images/ranks/Mythical_Glory.webp)Mythical Glory**48.52%**
 
-## Place in the meta
-
-Lesley sits in tier C of our win-rate tier list and ranks 104 of 133 heroes. In Mythical Glory the result is almost the same: 48.52%. See the full [tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/) and the [patch breakdown](https://boostmlbb.ru/en/news/mlbb-current-patch/).
-
-## Other Gold Lane heroes
-
-The strongest by win rate over the last 30 days.
-
-[![Bruno](/images/heroes/bruno.webp)Bruno53.78%](https://boostmlbb.ru/en/heroes/bruno.html)[![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Irithel](/images/heroes/irithel.webp)Irithel52.74%](https://boostmlbb.ru/en/heroes/irithel.html)[![Hanabi](/images/heroes/hanabi.webp)Hanabi52.66%](https://boostmlbb.ru/en/heroes/hanabi.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Natan](/images/heroes/natan.webp)Natan51.32%](https://boostmlbb.ru/en/heroes/natan.html)
-
 ## Lore
 
-![Lesley](/images/heroes/lesley.webp)
+Adopted daughter of House Vance, a clandestine sniper.
 
-«Adopted daughter of House Vance, a clandestine sniper.»
+[Hero card](https://www.mobilelegends.com/hero/detail?heroid=53)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lesley)
 
-Lesley’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
-
-[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=53)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=53)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Lesley)
-
-## Boost on Lesley
-
-The booster plays only this hero, so the hero rating grows with your rank.
-
-[Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
-
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
+[Hero boost pricing](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Frequently asked questions
 
@@ -184,5 +166,3 @@ Tier C: #104 of 133 heroes by 30-day win rate and #21 among assassins.
 What is the best build for Lesley?
 
 The most popular ranked build: Berserker's Fury, Malefic Gun and Blade of Despair as core items, the Marksman emblem with Fatal, Weapons Master and Quantum Charge, and Flicker. It wins 57.19% of matches.
-
-MLBB Boost editorial team · Updated 23 November 2026
