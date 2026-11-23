@@ -56,19 +56,29 @@ Mythic**8⭐**
 
 Only wins are paid. If some matches are already played, the calculator counts the rest.
 
-![](/images/ranks/Mythic.webp)
+Price per win in placement, RUB
 
-### Mythic placement
+Rank
 
-Account165 ₽/win
+Account
 
-Role185 ₽/win
+Role
 
-Hero205 ₽/win
+Hero
 
-Party335 ₽/win
+Party
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+![](/images/ranks/Mythic.webp)Mythic placement
+
+165 ₽
+
+185 ₽
+
+205 ₽
+
+335 ₽
+
+[Calculate your order](https://boostmlbb.ru/en/order.html?type=standard)
 
 ## What to enter in the calculator
 
@@ -84,11 +94,11 @@ From Legend V it is 25 stars to Mythic. Prices for them and for stars after plac
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
-C
+Д
 
 Booster
 
-Chenger
+Дайтона
 
 Verified booster
 
@@ -98,25 +108,25 @@ Client rating
 
 On a hero
 
-StartМифический бессмертный, 121⭐
+StartМифик, 9⭐
 
-TargetМифический бессмертный, 126⭐
+TargetМифическая честь, 25⭐
 
-Топ беня 🫡🔥🦾
+очень быстро получилось, бустер приятный человек в общении и по скилу… я бы дал
 
-HeroБенька
+Heroкагура
 
-Time2ч 49м после оплаты
+Time1д 57м после оплаты
 
-22 November 2026
+15 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2279)
+[Open review](https://t.me/Cla1ve_boost/2248)
 
-E
+Т
 
 Booster
 
-Elleana
+Терпение
 
 Verified booster
 
@@ -126,23 +136,23 @@ Client rating
 
 Standard
 
-StartМифический бессмертный, 326⭐
+StartЛегенда II, 4⭐
 
-TargetМифический бессмертный, 342⭐
+TargetМифик, 15⭐
 
-Все круто, самый лучший бустер.
+быстро и четко, спасибо брат))
 
-Time7ч 5м после оплаты
+Time5ч 26м после оплаты
 
-21 November 2026
+10 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2277)
+[Open review](https://t.me/Cla1ve_boost/2202)
 
-Я
+Y
 
 Booster
 
-Ясик
+Yandigo
 
 Verified booster
 
@@ -150,21 +160,19 @@ Verified booster
 
 Client rating
 
-On a hero
+In a party
 
-StartМифический бессмертный, 180⭐
+StartМифик, 20⭐
 
-TargetМифический бессмертный, 185⭐
+TargetМифическая честь, 25⭐
 
-Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+Буст был выполнен быстро и качественно, результатом очень довольна. Выдал три саваги и несколько маньяков, чудесно керрил 5 игр подряд. Очень рекомендую как бустера.
 
-HeroХарли
+Time1ч 48м после оплаты
 
-Time1ч 31м после оплаты
+12 November 2026
 
-20 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2275)
+[Open review](https://t.me/Cla1ve_boost/2222)
 
 ## Price your placement
 

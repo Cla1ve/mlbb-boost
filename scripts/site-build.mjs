@@ -118,10 +118,16 @@ const routeExamples = [
 ];
 const rankImages = { warrior_elite: ['Warrior', 'Elite'], master_gm: ['Master', 'Grandmaster'], epic: ['Epic'], legend: ['Legend'], mythic_calibration: ['Mythic'], mythic: ['Mythic'], honor: ['Mythical_Honor'], glory: ['Mythical_Glory'], immortal: ['Mythical_Immortal'] };
 const unitLabel = (category, lang) => category === 'mythic_calibration' ? (lang === 'en' ? '/win' : '/победа') : '/⭐';
+// Compact price table for landings: ranks in rows, formats in columns, the page's format highlighted.
 function rankCards(list, highlight, lang) {
   const en = lang === 'en';
   const rows = list === 'all' ? data.prices : list.split(',').map(category => data.prices.find(r => r.category === category)).filter(Boolean);
-  return `<div class="prices-grid lp-prices">${rows.map(row => `<div class="rank-price-card" data-category="${row.category}"><div class="rank-images">${rankImages[row.category].map(name => `<img height="160" width="160" loading="lazy" decoding="async" src="/images/ranks/${name}.webp" alt="" class="rank-img${rankImages[row.category].length === 1 ? ' single' : ''}">`).join('')}</div><div class="rank-info"><h3 class="rank-name">${categoryName(row, lang)}</h3><div class="prices-row">${typeOrder.map(type => `<div class="price-item${type === highlight ? ' lp-highlight' : ''}"><span class="price-label">${typeLabels[lang][type]}</span><span class="price-value">${priceOf(row.category, type)} ₽${unitLabel(row.category, lang)}</span></div>`).join('')}</div><a class="price-card-link" href="${localized('/order.html', lang)}?type=${highlight || 'standard'}">${en ? 'Calculate order' : 'Рассчитать заказ'} <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div></div>`).join('')}</div>`;
+  const hl = type => type === highlight ? ' class="is-hl"' : '';
+  const perWin = rows.some(row => row.category === 'mythic_calibration');
+  const note = rows.length === 1 && perWin ? (en ? 'Price per win in placement, RUB' : 'Цена за победу в калибровке, ₽') : perWin ? (en ? 'Price per star, RUB; Mythic placement is per win' : 'Цена за звезду, ₽; калибровка Мифика — за победу') : (en ? 'Price per star, RUB' : 'Цена за звезду, ₽');
+  const head = `<thead><tr><th scope="col">${en ? 'Rank' : 'Ранг'}</th>${typeOrder.map(type => `<th scope="col"${hl(type)}>${typeLabels[lang][type]}</th>`).join('')}</tr></thead>`;
+  const body = rows.map(row => `<tr><th scope="row"><span class="lp-ptable__rank"><span class="lp-ptable__icons" aria-hidden="true">${rankImages[row.category].map(name => `<img src="/images/ranks/${name}.webp" width="40" height="40" alt="" loading="lazy" decoding="async">`).join('')}</span><span>${categoryName(row, lang)}</span></span></th>${typeOrder.map(type => `<td${hl(type)}>${money(priceOf(row.category, type), lang)}</td>`).join('')}</tr>`).join('');
+  return `<div class="lp-ptable-wrap"><table class="lp-ptable"><caption>${note}</caption>${head}<tbody>${body}</tbody></table></div><a class="lp-ptable__cta" href="${localized('/order.html', lang)}?type=${highlight || 'standard'}">${en ? 'Calculate your order' : 'Рассчитать свой заказ'} <i class="fas fa-arrow-right" aria-hidden="true"></i></a>`;
 }
 function routeTiles(type, lang) {
   const en = lang === 'en';
@@ -142,7 +148,12 @@ function fillTokens(html, lang) {
     .replace(/\{\{rankCards:([\w,]+)(?:\|(\w+))?\}\}/g, (_, list, highlight) => rankCards(list, highlight, lang))
     .replace(/\{\{routeTiles:(\w+)\}\}/g, (_, type) => routeTiles(type, lang))
     .replace(/\{\{reviews:(\w+)\}\}/g, (_, kind) => {
-      const pick = data.reviews.filter(r => kind === 'hero' ? r.boostType === 'hero' : kind === 'party' ? r.boostType === 'party' : kind === 'mythic' ? /Миф/.test(r.rankTo || '') : true).slice(0, 3);
+      const fits = r => kind === 'hero' ? r.boostType === 'hero' : kind === 'party' ? r.boostType === 'party' : kind === 'placement' ? /^(Легенда|Мифик,)/.test(r.rankFrom || '') && /Миф/.test(r.rankTo || '') : kind === 'mythic' ? /Миф/.test(r.rankTo || '') : true;
+      // Prefer different starting ranks so three cards show different routes, not three Immortal orders.
+      const rude = /бля|ху[йяеи]|пизд|[её]ба[нт]|сука|нахер/i;
+      const pool = data.reviews.filter(r => fits(r) && !rude.test(r.text || '')), pick = [], seen = new Set();
+      for (const r of pool) { const tier = String(r.rankFrom || '').split(/[,\s]/)[0] + String(r.rankFrom || '').split(/[,\s]/)[1]; if (!seen.has(tier)) { seen.add(tier); pick.push(r); } if (pick.length === 3) break; }
+      for (const r of pool) { if (pick.length === 3) break; if (!pick.includes(r)) pick.push(r); }
       return pick.length ? reviewWall(pick, lang) : '';
     })
     .replace(/\{\{priceData\}\}/g, () => `<script type="application/json" id="rank-tool-prices">${JSON.stringify(Object.fromEntries(data.prices.map(r => [r.category, Object.fromEntries(r.prices.map(p => [p.type, p.price]))])))}</script>`)
@@ -412,7 +423,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '42' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '43' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

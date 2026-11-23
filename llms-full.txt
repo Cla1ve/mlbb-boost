@@ -2579,19 +2579,29 @@ Mythic**8⭐**
 
 Only wins are paid. If some matches are already played, the calculator counts the rest.
 
-![](/images/ranks/Mythic.webp)
+Price per win in placement, RUB
 
-### Mythic placement
+Rank
 
-Account165 ₽/win
+Account
 
-Role185 ₽/win
+Role
 
-Hero205 ₽/win
+Hero
 
-Party335 ₽/win
+Party
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+![](/images/ranks/Mythic.webp)Mythic placement
+
+165 ₽
+
+185 ₽
+
+205 ₽
+
+335 ₽
+
+[Calculate your order](https://boostmlbb.ru/en/order.html?type=standard)
 
 ## What to enter in the calculator
 
@@ -2607,11 +2617,11 @@ From Legend V it is 25 stars to Mythic. Prices for them and for stars after plac
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
-C
+Д
 
 Booster
 
-Chenger
+Дайтона
 
 Verified booster
 
@@ -2621,25 +2631,25 @@ Client rating
 
 On a hero
 
-StartМифический бессмертный, 121⭐
+StartМифик, 9⭐
 
-TargetМифический бессмертный, 126⭐
+TargetМифическая честь, 25⭐
 
-Топ беня 🫡🔥🦾
+очень быстро получилось, бустер приятный человек в общении и по скилу… я бы дал
 
-HeroБенька
+Heroкагура
 
-Time2ч 49м после оплаты
+Time1д 57м после оплаты
 
-22 November 2026
+15 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2279)
+[Open review](https://t.me/Cla1ve_boost/2248)
 
-E
+Т
 
 Booster
 
-Elleana
+Терпение
 
 Verified booster
 
@@ -2649,23 +2659,23 @@ Client rating
 
 Standard
 
-StartМифический бессмертный, 326⭐
+StartЛегенда II, 4⭐
 
-TargetМифический бессмертный, 342⭐
+TargetМифик, 15⭐
 
-Все круто, самый лучший бустер.
+быстро и четко, спасибо брат))
 
-Time7ч 5м после оплаты
+Time5ч 26м после оплаты
 
-21 November 2026
+10 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2277)
+[Open review](https://t.me/Cla1ve_boost/2202)
 
-Я
+Y
 
 Booster
 
-Ясик
+Yandigo
 
 Verified booster
 
@@ -2673,21 +2683,19 @@ Verified booster
 
 Client rating
 
-On a hero
+In a party
 
-StartМифический бессмертный, 180⭐
+StartМифик, 20⭐
 
-TargetМифический бессмертный, 185⭐
+TargetМифическая честь, 25⭐
 
-Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+Буст был выполнен быстро и качественно, результатом очень довольна. Выдал три саваги и несколько маньяков, чудесно керрил 5 игр подряд. Очень рекомендую как бустера.
 
-HeroХарли
+Time1ч 48м после оплаты
 
-Time1ч 31м после оплаты
+12 November 2026
 
-20 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2275)
+[Open review](https://t.me/Cla1ve_boost/2222)
 
 ## Price your placement
 
@@ -2767,131 +2775,109 @@ Account login**not needed**
 
 The Party rate is highlighted, with the account boost for comparison.
 
-![](/images/ranks/Warrior.webp)![](/images/ranks/Elite.webp)
+Price per star, RUB; Mythic placement is per win
 
-### Warrior, Elite
+Rank
 
-Account55 ₽/⭐
+Account
 
-Role60 ₽/⭐
+Role
 
-Hero65 ₽/⭐
+Hero
 
-Party95 ₽/⭐
+Party
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+![](/images/ranks/Warrior.webp)![](/images/ranks/Elite.webp)Warrior, Elite
 
-![](/images/ranks/Master.webp)![](/images/ranks/Grandmaster.webp)
+55 ₽
 
-### Master, GM
+60 ₽
 
-Account80 ₽/⭐
+65 ₽
 
-Role85 ₽/⭐
+95 ₽
 
-Hero105 ₽/⭐
+![](/images/ranks/Master.webp)![](/images/ranks/Grandmaster.webp)Master, GM
 
-Party120 ₽/⭐
+80 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+85 ₽
 
-![](/images/ranks/Epic.webp)
+105 ₽
 
-### Epic
+120 ₽
 
-Account95 ₽/⭐
+![](/images/ranks/Epic.webp)Epic
 
-Role100 ₽/⭐
+95 ₽
 
-Hero120 ₽/⭐
+100 ₽
 
-Party185 ₽/⭐
+120 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+185 ₽
 
-![](/images/ranks/Legend.webp)
+![](/images/ranks/Legend.webp)Legend
 
-### Legend
+95 ₽
 
-Account95 ₽/⭐
+100 ₽
 
-Role100 ₽/⭐
+120 ₽
 
-Hero120 ₽/⭐
+185 ₽
 
-Party185 ₽/⭐
+![](/images/ranks/Mythic.webp)Mythic placement
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+165 ₽
 
-![](/images/ranks/Mythic.webp)
+185 ₽
 
-### Mythic placement
+205 ₽
 
-Account165 ₽/win
+335 ₽
 
-Role185 ₽/win
+![](/images/ranks/Mythic.webp)Mythic
 
-Hero205 ₽/win
+120 ₽
 
-Party335 ₽/win
+135 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+145 ₽
 
-![](/images/ranks/Mythic.webp)
+240 ₽
 
-### Mythic
+![](/images/ranks/Mythical_Honor.webp)Honor
 
-Account120 ₽/⭐
+120 ₽
 
-Role135 ₽/⭐
+135 ₽
 
-Hero145 ₽/⭐
+145 ₽
 
-Party240 ₽/⭐
+255 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+![](/images/ranks/Mythical_Glory.webp)Glory
 
-![](/images/ranks/Mythical_Honor.webp)
+125 ₽
 
-### Honor
+140 ₽
 
-Account120 ₽/⭐
+155 ₽
 
-Role135 ₽/⭐
+295 ₽
 
-Hero145 ₽/⭐
+![](/images/ranks/Mythical_Immortal.webp)Immortal
 
-Party255 ₽/⭐
+135 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+145 ₽
 
-![](/images/ranks/Mythical_Glory.webp)
+175 ₽
 
-### Glory
+320 ₽
 
-Account125 ₽/⭐
-
-Role140 ₽/⭐
-
-Hero155 ₽/⭐
-
-Party295 ₽/⭐
-
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
-
-![](/images/ranks/Mythical_Immortal.webp)
-
-### Immortal
-
-Account135 ₽/⭐
-
-Role145 ₽/⭐
-
-Hero175 ₽/⭐
-
-Party320 ₽/⭐
-
-[Calculate order](https://boostmlbb.ru/en/order.html?type=party)
+[Calculate your order](https://boostmlbb.ru/en/order.html?type=party)
 
 ## How to choose
 
@@ -2971,75 +2957,69 @@ Total**6,250 ₽**
 
 The price depends on the rank where the star is earned and on the format. The bot applies the first-order discount before payment.
 
-![](/images/ranks/Mythic.webp)
+Price per star, RUB; Mythic placement is per win
 
-### Mythic placement
+Rank
 
-Account165 ₽/win
+Account
 
-Role185 ₽/win
+Role
 
-Hero205 ₽/win
+Hero
 
-Party335 ₽/win
+Party
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+![](/images/ranks/Mythic.webp)Mythic placement
 
-![](/images/ranks/Mythic.webp)
+165 ₽
 
-### Mythic
+185 ₽
 
-Account120 ₽/⭐
+205 ₽
 
-Role135 ₽/⭐
+335 ₽
 
-Hero145 ₽/⭐
+![](/images/ranks/Mythic.webp)Mythic
 
-Party240 ₽/⭐
+120 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+135 ₽
 
-![](/images/ranks/Mythical_Honor.webp)
+145 ₽
 
-### Honor
+240 ₽
 
-Account120 ₽/⭐
+![](/images/ranks/Mythical_Honor.webp)Honor
 
-Role135 ₽/⭐
+120 ₽
 
-Hero145 ₽/⭐
+135 ₽
 
-Party255 ₽/⭐
+145 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+255 ₽
 
-![](/images/ranks/Mythical_Glory.webp)
+![](/images/ranks/Mythical_Glory.webp)Glory
 
-### Glory
+125 ₽
 
-Account125 ₽/⭐
+140 ₽
 
-Role140 ₽/⭐
+155 ₽
 
-Hero155 ₽/⭐
+295 ₽
 
-Party295 ₽/⭐
+![](/images/ranks/Mythical_Immortal.webp)Immortal
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+135 ₽
 
-![](/images/ranks/Mythical_Immortal.webp)
+145 ₽
 
-### Immortal
+175 ₽
 
-Account135 ₽/⭐
+320 ₽
 
-Role145 ₽/⭐
-
-Hero175 ₽/⭐
-
-Party320 ₽/⭐
-
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+[Calculate your order](https://boostmlbb.ru/en/order.html?type=standard)
 
 ## Common routes
 
@@ -3104,11 +3084,11 @@ Time2ч 49м после оплаты
 
 [Open review](https://t.me/Cla1ve_boost/2279)
 
-E
+M
 
 Booster
 
-Elleana
+metaldemon
 
 Verified booster
 
@@ -3118,23 +3098,23 @@ Client rating
 
 Standard
 
-StartМифический бессмертный, 326⭐
+StartМифическая честь, 32⭐
 
-TargetМифический бессмертный, 342⭐
+TargetМифический бессмертный, 120⭐
 
-Все круто, самый лучший бустер.
+Большое спасибо очень выручили, поддержка отличная. metaldemon от души сделал все красиво и быстро. Всем советую ❤️
 
-Time7ч 5м после оплаты
+Time4д 4ч 52м после оплаты
 
-21 November 2026
+18 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2277)
+[Open review](https://t.me/Cla1ve_boost/2264)
 
-Я
+A
 
 Booster
 
-Ясик
+Amoral
 
 Verified booster
 
@@ -3142,21 +3122,19 @@ Verified booster
 
 Client rating
 
-On a hero
+Standard
 
-StartМифический бессмертный, 180⭐
+StartМифическая слава, 60⭐
 
-TargetМифический бессмертный, 185⭐
+TargetМифический бессмертный, 110⭐
 
-Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+Все отлично.Быстро апнул звезды.Рекомендую
 
-HeroХарли
+Time1д 7ч 43м после оплаты
 
-Time1ч 31м после оплаты
+16 November 2026
 
-20 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2275)
+[Open review](https://t.me/Cla1ve_boost/2255)
 
 ## Price your route
 
@@ -3253,131 +3231,109 @@ Numbers are completed orders since November 2025. Any hero on the account works.
 
 The Hero rate is highlighted. Account, role and party rates are shown for comparison.
 
-![](/images/ranks/Warrior.webp)![](/images/ranks/Elite.webp)
+Price per star, RUB; Mythic placement is per win
 
-### Warrior, Elite
+Rank
 
-Account55 ₽/⭐
+Account
 
-Role60 ₽/⭐
+Role
 
-Hero65 ₽/⭐
+Hero
 
-Party95 ₽/⭐
+Party
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+![](/images/ranks/Warrior.webp)![](/images/ranks/Elite.webp)Warrior, Elite
 
-![](/images/ranks/Master.webp)![](/images/ranks/Grandmaster.webp)
+55 ₽
 
-### Master, GM
+60 ₽
 
-Account80 ₽/⭐
+65 ₽
 
-Role85 ₽/⭐
+95 ₽
 
-Hero105 ₽/⭐
+![](/images/ranks/Master.webp)![](/images/ranks/Grandmaster.webp)Master, GM
 
-Party120 ₽/⭐
+80 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+85 ₽
 
-![](/images/ranks/Epic.webp)
+105 ₽
 
-### Epic
+120 ₽
 
-Account95 ₽/⭐
+![](/images/ranks/Epic.webp)Epic
 
-Role100 ₽/⭐
+95 ₽
 
-Hero120 ₽/⭐
+100 ₽
 
-Party185 ₽/⭐
+120 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+185 ₽
 
-![](/images/ranks/Legend.webp)
+![](/images/ranks/Legend.webp)Legend
 
-### Legend
+95 ₽
 
-Account95 ₽/⭐
+100 ₽
 
-Role100 ₽/⭐
+120 ₽
 
-Hero120 ₽/⭐
+185 ₽
 
-Party185 ₽/⭐
+![](/images/ranks/Mythic.webp)Mythic placement
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+165 ₽
 
-![](/images/ranks/Mythic.webp)
+185 ₽
 
-### Mythic placement
+205 ₽
 
-Account165 ₽/win
+335 ₽
 
-Role185 ₽/win
+![](/images/ranks/Mythic.webp)Mythic
 
-Hero205 ₽/win
+120 ₽
 
-Party335 ₽/win
+135 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+145 ₽
 
-![](/images/ranks/Mythic.webp)
+240 ₽
 
-### Mythic
+![](/images/ranks/Mythical_Honor.webp)Honor
 
-Account120 ₽/⭐
+120 ₽
 
-Role135 ₽/⭐
+135 ₽
 
-Hero145 ₽/⭐
+145 ₽
 
-Party240 ₽/⭐
+255 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+![](/images/ranks/Mythical_Glory.webp)Glory
 
-![](/images/ranks/Mythical_Honor.webp)
+125 ₽
 
-### Honor
+140 ₽
 
-Account120 ₽/⭐
+155 ₽
 
-Role135 ₽/⭐
+295 ₽
 
-Hero145 ₽/⭐
+![](/images/ranks/Mythical_Immortal.webp)Immortal
 
-Party255 ₽/⭐
+135 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+145 ₽
 
-![](/images/ranks/Mythical_Glory.webp)
+175 ₽
 
-### Glory
+320 ₽
 
-Account125 ₽/⭐
-
-Role140 ₽/⭐
-
-Hero155 ₽/⭐
-
-Party295 ₽/⭐
-
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
-
-![](/images/ranks/Mythical_Immortal.webp)
-
-### Immortal
-
-Account135 ₽/⭐
-
-Role145 ₽/⭐
-
-Hero175 ₽/⭐
-
-Party320 ₽/⭐
-
-[Calculate order](https://boostmlbb.ru/en/order.html?type=hero)
+[Calculate your order](https://boostmlbb.ru/en/order.html?type=hero)
 
 ## Hero route examples
 
@@ -3442,11 +3398,11 @@ Time2ч 49м после оплаты
 
 [Open review](https://t.me/Cla1ve_boost/2279)
 
-Я
+C
 
 Booster
 
-Ясик
+Chenger
 
 Verified booster
 
@@ -3456,25 +3412,25 @@ Client rating
 
 On a hero
 
-StartМифический бессмертный, 180⭐
+StartМифическая слава, 61⭐
 
-TargetМифический бессмертный, 185⭐
+TargetМифическая слава, 70⭐
 
-Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+Всё выполнено в срок, качественно. Бустер вежливый
 
-HeroХарли
+HeroКсавьер
 
-Time1ч 31м после оплаты
+Time3ч 53м после оплаты
 
-20 November 2026
+15 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2275)
+[Open review](https://t.me/Cla1ve_boost/2249)
 
-M
+Д
 
 Booster
 
-metaldemon
+Дайтона
 
 Verified booster
 
@@ -3484,19 +3440,19 @@ Client rating
 
 On a hero
 
-StartМифический бессмертный, 157⭐
+StartМифик, 9⭐
 
-TargetМифический бессмертный, 168⭐
+TargetМифическая честь, 25⭐
 
-Отличная работа, приятный и общительный бустер, доволен
+очень быстро получилось, бустер приятный человек в общении и по скилу… я бы дал
 
-HeroХарли нолан
+Heroкагура
 
-Time4ч 34м после оплаты
+Time1д 57м после оплаты
 
-19 November 2026
+15 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2272)
+[Open review](https://t.me/Cla1ve_boost/2248)
 
 ## What your hero costs
 

@@ -263,3 +263,73 @@ a.lp-card::after { content: '→'; position: absolute; right: 18px; top: 50%; tr
 .num-step span { color: #c3d3e2; line-height: 1.5; }
 @media (max-width: 900px) { .num-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 560px) { .num-steps { grid-template-columns: 1fr; } .num-tile { padding: 18px; } }
+
+/* Landing price table (2026-11-23): one compact table instead of a card per rank. */
+.lp-ptable-wrap { margin-top: 8px; border: 1px solid rgba(255,255,255,.08); border-radius: 18px; overflow: hidden; background: rgba(13,35,65,.72); }
+.lp-ptable { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.lp-ptable caption { caption-side: top; padding: 14px 20px; text-align: left; color: #8fa3b8; font-size: .86rem; border-bottom: 1px solid rgba(255,255,255,.06); }
+.lp-ptable th, .lp-ptable td { padding: 14px 20px; border-bottom: 1px solid rgba(255,255,255,.06); text-align: right; white-space: nowrap; }
+.lp-ptable tbody tr:last-child > * { border-bottom: 0; }
+.lp-ptable thead th { color: #8fa3b8; font-size: .82rem; font-weight: 600; background: rgba(255,255,255,.02); }
+.lp-ptable thead th:first-child, .lp-ptable tbody th { text-align: left; }
+.lp-ptable tbody th { color: #fff; font-weight: 600; white-space: normal; }
+.lp-ptable td { color: #e6edf3; font-weight: 700; font-size: 1.04rem; }
+.lp-ptable .is-hl { background: rgba(0,255,157,.08); color: #00ff9d; }
+.lp-ptable thead .is-hl { color: #00ff9d; font-weight: 700; }
+.lp-ptable tbody tr { transition: background-color .15s ease; }
+.lp-ptable tbody tr:hover { background: rgba(255,255,255,.03); }
+.lp-ptable__rank { display: flex; align-items: center; gap: 12px; }
+.lp-ptable__icons { display: inline-flex; flex: none; }
+.lp-ptable__icons img { width: 40px; height: 40px; object-fit: contain; }
+.lp-ptable__icons img + img { margin-left: -14px; }
+.lp-ptable__cta { display: inline-flex; align-items: center; gap: 8px; margin-top: 14px; color: #00ff9d; font-weight: 700; text-decoration: none; }
+.lp-ptable__cta:hover, .lp-ptable__cta:focus-visible { text-decoration: underline; text-underline-offset: 4px; }
+@media (max-width: 640px) {
+  .lp-ptable caption { padding: 12px 12px; font-size: .8rem; }
+  .lp-ptable th, .lp-ptable td { padding: 11px 6px; font-size: .86rem; }
+  .lp-ptable th:first-child { padding-left: 12px; }
+  .lp-ptable th:last-child, .lp-ptable td:last-child { padding-right: 12px; }
+  .lp-ptable thead th { font-size: .72rem; white-space: normal; line-height: 1.25; }
+  .lp-ptable tbody th { font-size: .84rem; line-height: 1.25; }
+  .lp-ptable__rank { gap: 6px; }
+  .lp-ptable__icons img { width: 26px; height: 26px; }
+  .lp-ptable__icons img + img { margin-left: -10px; }
+}
+
+/* Routes as a list of rows: no half-empty last row whatever the count. */
+.lp-routes { display: grid; grid-template-columns: 1fr; gap: 10px; }
+.lp-route { grid-template-columns: 132px minmax(0, 1fr) auto; grid-template-areas: "icons name price" "icons meta price"; align-items: center; column-gap: 18px; row-gap: 2px; padding: 14px 22px; }
+.lp-route__icons { grid-area: icons; }
+.lp-route__name { grid-area: name; }
+.lp-route__meta { grid-area: meta; }
+.lp-route__price { grid-area: price; font-size: 1.2rem; }
+.lp-route:hover, .lp-route:focus-visible { transform: none; background: rgba(13,35,65,.95); }
+@media (max-width: 640px) {
+  .lp-route { grid-template-columns: auto minmax(0, 1fr); grid-template-areas: "icons name" "icons meta" "icons price"; column-gap: 12px; padding: 12px 14px; }
+  .lp-route__icons { gap: 4px; }
+  .lp-route__icons img { width: 30px; height: 30px; }
+  .lp-route__icons i { font-size: .7rem; }
+  .lp-route__name { font-size: .95rem; }
+  .lp-route__price { font-size: 1.05rem; }
+}
+
+/* FAQ accordions (all guide pages). */
+.seo-faq details { margin-top: 10px; padding: 0; border: 1px solid rgba(255,255,255,.08); border-radius: 14px; background: rgba(13,35,65,.6); transition: border-color .2s ease; }
+.seo-faq details[open], .seo-faq details:hover { border-color: rgba(0,255,157,.35); }
+.seo-faq summary { position: relative; padding: 17px 60px 17px 20px; list-style: none; line-height: 1.4; }
+.seo-faq summary::-webkit-details-marker { display: none; }
+.seo-faq summary::after { content: '+'; position: absolute; right: 16px; top: 50%; transform: translateY(-50%); display: grid; place-items: center; width: 28px; height: 28px; border-radius: 50%; background: rgba(0,255,157,.12); color: #00ff9d; font-weight: 700; font-size: 1.1rem; line-height: 1; }
+.seo-faq details[open] summary::after { content: '\2212'; }
+.seo-faq summary:focus-visible { outline: 2px solid #00ff9d; outline-offset: 2px; border-radius: 14px; }
+.seo-faq details p { margin: 0; padding: 0 20px 18px; color: #c8d2df; line-height: 1.65; }
+.seo-faq details p a { color: #00ff9d; }
+@media (prefers-reduced-motion: reduce) { .lp-ptable tbody tr, .seo-faq details { transition: none; } }
+@media (max-width: 440px) {
+  .lp-ptable-wrap { overflow-x: auto; }
+  .lp-ptable th, .lp-ptable td { padding: 10px 4px; font-size: .8rem; }
+  .lp-ptable th:first-child { padding-left: 10px; }
+  .lp-ptable th:last-child, .lp-ptable td:last-child { padding-right: 10px; }
+  .lp-ptable thead th { font-size: .68rem; }
+  .lp-ptable tbody th { font-size: .78rem; }
+  .lp-ptable__icons { display: none; }
+}

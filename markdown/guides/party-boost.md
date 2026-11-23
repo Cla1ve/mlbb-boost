@@ -47,131 +47,109 @@ language: ru
 
 Тариф «В пати» выделен, рядом — обычный буст для сравнения.
 
-![](/images/ranks/Warrior.webp)![](/images/ranks/Elite.webp)
+Цена за звезду, ₽; калибровка Мифика — за победу
 
-### Воин, Элита
+Ранг
 
-Обычный55 ₽/⭐
+Обычный
 
-На роли60 ₽/⭐
+На роли
 
-На герое65 ₽/⭐
+На герое
 
-В пати95 ₽/⭐
+В пати
 
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+![](/images/ranks/Warrior.webp)![](/images/ranks/Elite.webp)Воин, Элита
 
-![](/images/ranks/Master.webp)![](/images/ranks/Grandmaster.webp)
+55 ₽
 
-### Мастер, ГМ
+60 ₽
 
-Обычный80 ₽/⭐
+65 ₽
 
-На роли85 ₽/⭐
+95 ₽
 
-На герое105 ₽/⭐
+![](/images/ranks/Master.webp)![](/images/ranks/Grandmaster.webp)Мастер, ГМ
 
-В пати120 ₽/⭐
+80 ₽
 
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+85 ₽
 
-![](/images/ranks/Epic.webp)
+105 ₽
 
-### Эпик
+120 ₽
 
-Обычный95 ₽/⭐
+![](/images/ranks/Epic.webp)Эпик
 
-На роли100 ₽/⭐
+95 ₽
 
-На герое120 ₽/⭐
+100 ₽
 
-В пати185 ₽/⭐
+120 ₽
 
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+185 ₽
 
-![](/images/ranks/Legend.webp)
+![](/images/ranks/Legend.webp)Легенда
 
-### Легенда
+95 ₽
 
-Обычный95 ₽/⭐
+100 ₽
 
-На роли100 ₽/⭐
+120 ₽
 
-На герое120 ₽/⭐
+185 ₽
 
-В пати185 ₽/⭐
+![](/images/ranks/Mythic.webp)Мифическая калибровка
 
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+165 ₽
 
-![](/images/ranks/Mythic.webp)
+185 ₽
 
-### Мифическая калибровка
+205 ₽
 
-Обычный165 ₽/победа
+335 ₽
 
-На роли185 ₽/победа
+![](/images/ranks/Mythic.webp)Мифик
 
-На герое205 ₽/победа
+120 ₽
 
-В пати335 ₽/победа
+135 ₽
 
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+145 ₽
 
-![](/images/ranks/Mythic.webp)
+240 ₽
 
-### Мифик
+![](/images/ranks/Mythical_Honor.webp)Честь
 
-Обычный120 ₽/⭐
+120 ₽
 
-На роли135 ₽/⭐
+135 ₽
 
-На герое145 ₽/⭐
+145 ₽
 
-В пати240 ₽/⭐
+255 ₽
 
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+![](/images/ranks/Mythical_Glory.webp)Слава
 
-![](/images/ranks/Mythical_Honor.webp)
+125 ₽
 
-### Честь
+140 ₽
 
-Обычный120 ₽/⭐
+155 ₽
 
-На роли135 ₽/⭐
+295 ₽
 
-На герое145 ₽/⭐
+![](/images/ranks/Mythical_Immortal.webp)Бессмертный
 
-В пати255 ₽/⭐
+135 ₽
 
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+145 ₽
 
-![](/images/ranks/Mythical_Glory.webp)
+175 ₽
 
-### Слава
+320 ₽
 
-Обычный125 ₽/⭐
-
-На роли140 ₽/⭐
-
-На герое155 ₽/⭐
-
-В пати295 ₽/⭐
-
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
-
-![](/images/ranks/Mythical_Immortal.webp)
-
-### Бессмертный
-
-Обычный135 ₽/⭐
-
-На роли145 ₽/⭐
-
-На герое175 ₽/⭐
-
-В пати320 ₽/⭐
-
-[Рассчитать заказ](https://boostmlbb.ru/order.html?type=party)
+[Рассчитать свой заказ](https://boostmlbb.ru/order.html?type=party)
 
 ## Как выбрать
 

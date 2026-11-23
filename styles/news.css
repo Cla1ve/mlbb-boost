@@ -2471,3 +2471,41 @@ body:has(.article-content) { background: #0b1a2b; }
 .article-sources-line span { color: #a9c4dc; font-weight: 600; margin-right: 0.25rem; }
 .article-sources-line a { color: #a9c4dc; text-decoration: underline; text-decoration-color: rgba(169, 196, 220, 0.35); text-underline-offset: 3px; }
 .article-sources-line a:hover { color: #00ff9d; text-decoration-color: currentColor; }
+
+/* ===== Readability pass (2026-11-23) =====
+   Calmer headings (no squeezed letters), the reading column centred under the cover,
+   the order banner aligned with the text instead of sticking out. */
+.news-masthead::after { content: none; }
+.news-masthead h1 { font-size: clamp(2.5rem, 4.8vw, 4.5rem); letter-spacing: -0.03em; line-height: 1.02; font-weight: 800; }
+.news-masthead h1 em { margin-top: .08em; color: #00ff9d; font-style: normal; font-weight: 700; }
+.news-section-heading h2, .news-empty h2 { letter-spacing: -0.025em; }
+.news-card__content h2, .topic-card h3, .counter-matrix__header h3, .rank-cta__copy h2, .article-sources h2, .article-next h2 { letter-spacing: -0.015em; }
+.news-card__content h2 { line-height: 1.18; }
+.article-header h1 { font-size: clamp(2rem, 3.2vw, 3rem); letter-spacing: -0.022em; line-height: 1.12; }
+.article-content > h2 { margin: 3.4rem 0 1.05rem; font-size: clamp(1.55rem, 2.3vw, 2.05rem); letter-spacing: -0.015em; line-height: 1.2; }
+.article-content > h3 { margin: 2.2rem 0 .7rem; font-size: clamp(1.2rem, 1.6vw, 1.4rem); letter-spacing: 0; line-height: 1.3; color: #fff; }
+.article-key-facts h2 { letter-spacing: -0.01em; font-size: clamp(1.35rem, 2vw, 1.7rem); }
+.article-content > p + p { margin-top: 1.05em; }
+.article-content > p a:not([class]), .article-content li a:not([class]) { color: #7dffc4; text-decoration: underline; text-decoration-color: rgba(125, 255, 196, .4); text-underline-offset: 3px; }
+.article-content > p a:not([class]):hover, .article-content li a:not([class]):hover { color: #00ff9d; text-decoration-color: currentColor; }
+.rank-cta { margin: 3rem 0; grid-template-columns: 3.6rem minmax(0, 1fr) auto; }
+.rank-cta__copy h2 { font-size: clamp(1.3rem, 1.9vw, 1.65rem); line-height: 1.18; }
+.rank-cta__action { min-width: 0; }
+@media (min-width: 1101px) {
+  .article-layout { grid-template-columns: minmax(180px, 230px) minmax(0, var(--news-reading)) minmax(180px, 230px); justify-content: center; gap: clamp(1.5rem, 3vw, 3rem); }
+}
+.rank-cta__emblem::after { content: none; }
+.rank-cta__emblem img { width: 2.9rem; height: 2.9rem; object-fit: contain; filter: drop-shadow(0 .3rem .6rem rgba(0, 0, 0, .35)); }
+
+/* Article FAQ (2026-11-23): questions as accordions, mirrored by FAQPage JSON-LD. */
+.article-faq { margin: 3.4rem 0 0; }
+.article-faq > h2 { margin: 0 0 1.05rem; color: #fff; font-size: clamp(1.55rem, 2.3vw, 2.05rem); letter-spacing: -0.015em; line-height: 1.2; }
+.article-faq details { margin-top: .6rem; border: 1px solid #24405c; border-radius: 14px; background: #10233a; transition: border-color .2s ease; }
+.article-faq details[open], .article-faq details:hover { border-color: rgba(0, 255, 157, .4); }
+.article-faq summary { position: relative; padding: 1rem 3.6rem 1rem 1.2rem; color: #fff; font-weight: 650; line-height: 1.45; list-style: none; cursor: pointer; }
+.article-faq summary::-webkit-details-marker { display: none; }
+.article-faq summary::after { content: '+'; position: absolute; right: 1rem; top: 50%; transform: translateY(-50%); display: grid; place-items: center; width: 1.75rem; height: 1.75rem; border-radius: 50%; background: rgba(0, 255, 157, .12); color: #00ff9d; font-weight: 700; line-height: 1; }
+.article-faq details[open] summary::after { content: '\2212'; }
+.article-faq summary:focus-visible { outline: 2px solid #00ff9d; outline-offset: 2px; border-radius: 14px; }
+.article-faq details p { margin: 0; padding: 0 1.2rem 1.1rem; color: #d5e0ea; line-height: 1.7; }
+@media (prefers-reduced-motion: reduce) { .article-faq details { transition: none; } }

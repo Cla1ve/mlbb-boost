@@ -41,75 +41,69 @@ Total**6,250 ₽**
 
 The price depends on the rank where the star is earned and on the format. The bot applies the first-order discount before payment.
 
-![](/images/ranks/Mythic.webp)
+Price per star, RUB; Mythic placement is per win
 
-### Mythic placement
+Rank
 
-Account165 ₽/win
+Account
 
-Role185 ₽/win
+Role
 
-Hero205 ₽/win
+Hero
 
-Party335 ₽/win
+Party
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+![](/images/ranks/Mythic.webp)Mythic placement
 
-![](/images/ranks/Mythic.webp)
+165 ₽
 
-### Mythic
+185 ₽
 
-Account120 ₽/⭐
+205 ₽
 
-Role135 ₽/⭐
+335 ₽
 
-Hero145 ₽/⭐
+![](/images/ranks/Mythic.webp)Mythic
 
-Party240 ₽/⭐
+120 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+135 ₽
 
-![](/images/ranks/Mythical_Honor.webp)
+145 ₽
 
-### Honor
+240 ₽
 
-Account120 ₽/⭐
+![](/images/ranks/Mythical_Honor.webp)Honor
 
-Role135 ₽/⭐
+120 ₽
 
-Hero145 ₽/⭐
+135 ₽
 
-Party255 ₽/⭐
+145 ₽
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+255 ₽
 
-![](/images/ranks/Mythical_Glory.webp)
+![](/images/ranks/Mythical_Glory.webp)Glory
 
-### Glory
+125 ₽
 
-Account125 ₽/⭐
+140 ₽
 
-Role140 ₽/⭐
+155 ₽
 
-Hero155 ₽/⭐
+295 ₽
 
-Party295 ₽/⭐
+![](/images/ranks/Mythical_Immortal.webp)Immortal
 
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+135 ₽
 
-![](/images/ranks/Mythical_Immortal.webp)
+145 ₽
 
-### Immortal
+175 ₽
 
-Account135 ₽/⭐
+320 ₽
 
-Role145 ₽/⭐
-
-Hero175 ₽/⭐
-
-Party320 ₽/⭐
-
-[Calculate order](https://boostmlbb.ru/en/order.html?type=standard)
+[Calculate your order](https://boostmlbb.ru/en/order.html?type=standard)
 
 ## Common routes
 
@@ -174,11 +168,11 @@ Time2ч 49м после оплаты
 
 [Open review](https://t.me/Cla1ve_boost/2279)
 
-E
+M
 
 Booster
 
-Elleana
+metaldemon
 
 Verified booster
 
@@ -188,23 +182,23 @@ Client rating
 
 Standard
 
-StartМифический бессмертный, 326⭐
+StartМифическая честь, 32⭐
 
-TargetМифический бессмертный, 342⭐
+TargetМифический бессмертный, 120⭐
 
-Все круто, самый лучший бустер.
+Большое спасибо очень выручили, поддержка отличная. metaldemon от души сделал все красиво и быстро. Всем советую ❤️
 
-Time7ч 5м после оплаты
+Time4д 4ч 52м после оплаты
 
-21 November 2026
+18 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2277)
+[Open review](https://t.me/Cla1ve_boost/2264)
 
-Я
+A
 
 Booster
 
-Ясик
+Amoral
 
 Verified booster
 
@@ -212,21 +206,19 @@ Verified booster
 
 Client rating
 
-On a hero
+Standard
 
-StartМифический бессмертный, 180⭐
+StartМифическая слава, 60⭐
 
-TargetМифический бессмертный, 185⭐
+TargetМифический бессмертный, 110⭐
 
-Очень вежливый тащер, просто порвал всех, невероятный бустер, берите смело
+Все отлично.Быстро апнул звезды.Рекомендую
 
-HeroХарли
+Time1д 7ч 43м после оплаты
 
-Time1ч 31м после оплаты
+16 November 2026
 
-20 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2275)
+[Open review](https://t.me/Cla1ve_boost/2255)
 
 ## Price your route
 

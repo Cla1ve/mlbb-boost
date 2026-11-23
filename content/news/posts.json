@@ -18,7 +18,7 @@
         "Результаты турнира"
       ],
       "datePublished": "2026-07-27T21:15:00+03:00",
-      "dateModified": "2026-11-22T23:17:36+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/msc-2026-playoff-schedule.jpg",
         "width": 1600,
@@ -301,6 +301,25 @@
           "title": "MLBB Esports на YouTube",
           "description": "Полные эфиры, хайлайты и записи матчей MSC 2026",
           "href": "https://www.youtube.com/c/MLBBeSports"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Кто выиграл MSC 2026?",
+              "a": "Team Spirit: в гранд-финале 1 августа она обыграла Yangon Galacticos 4:3."
+            },
+            {
+              "q": "Сколько заработала Team Spirit на MSC 2026?",
+              "a": "$1 000 000 и 1 000 клубных очков EWC. MVP турнира стал KidBomba."
+            },
+            {
+              "q": "Кто занял третье место на MSC 2026?",
+              "a": "ONIC ID, обыграв Team Falcons PH 3:0."
+            }
+          ]
         }
       ],
       "translations": {
@@ -586,6 +605,25 @@
               "title": "MLBB Esports on YouTube",
               "description": "Full broadcasts, highlights, and MSC 2026 match replays",
               "href": "https://www.youtube.com/c/MLBBeSports"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Who won MSC 2026?",
+                  "a": "Team Spirit: in the Grand Final on August 1 they beat Yangon Galacticos 4:3."
+                },
+                {
+                  "q": "How much did Team Spirit earn at MSC 2026?",
+                  "a": "$1,000,000 and 1,000 EWC Club Championship points. KidBomba was the MVP."
+                },
+                {
+                  "q": "Who finished third at MSC 2026?",
+                  "a": "ONIC ID, after beating Team Falcons PH 3:0."
+                }
+              ]
             }
           ],
           "editorialNote": "Updated on August 1, 2026, after the tournament ended: the schedule was replaced by the completed bracket, all eight series, the top four, prize money, and MVP. Scores and placements were checked against official MLBB Esports posts; the format and prize table come from the official rulebook. The 10–3 map record and +7 differential are editorial calculations from Team Spirit's three official series scores. Audience figures are an Esports Charts snapshot from August 1 and may receive further service-side adjustments. The existing localized hero and news-card preview remain unchanged at the publisher's request."
@@ -691,7 +729,7 @@
         "Стамбул"
       ],
       "datePublished": "2026-08-22T23:31:02+03:00",
-      "dateModified": "2026-11-22T19:43:45+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/m8-istanbul-world-road.jpg",
         "width": 1600,
@@ -934,6 +972,25 @@
         {
           "type": "paragraph",
           "text": "После MCT SEA список участников M8 будет полным: две команды из Юго-Восточной Азии напрямую поедут в Стамбул, ещё две пополнят Wild Card. Мы обновим таблицы после плей-офф 13 декабря и когда MOONTON опубликует игровые дни."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Когда и где пройдёт M8 по MLBB?",
+              "a": "Wild Card — в декабре 2026 года в Бангкоке, основная стадия — в январе 2027 года в Стамбуле."
+            },
+            {
+              "q": "Какой призовой фонд у M8?",
+              "a": "$1 000 000 на 16 команд основной стадии."
+            },
+            {
+              "q": "Кто от СНГ играет на M8?",
+              "a": "Team Spirit уже в основной стадии как чемпион MCC Season 8. Aurevia Team и Team Yandex сыграют в Wild Card."
+            }
+          ]
         }
       ],
       "translations": {
@@ -1181,6 +1238,25 @@
             {
               "type": "paragraph",
               "text": "After MCT SEA the M8 field will be complete: two Southeast Asian teams go straight to Istanbul and two more join the Wild Card. We will update the tables after the playoffs on 13 December and when MOONTON publishes the match days."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "When and where is MLBB M8?",
+                  "a": "The Wild Card is in December 2026 in Bangkok, the Main Stage in January 2027 in Istanbul."
+                },
+                {
+                  "q": "What is the M8 prize pool?",
+                  "a": "$1,000,000 for the 16 Main Stage teams."
+                },
+                {
+                  "q": "Which CIS teams play at M8?",
+                  "a": "Team Spirit is already in the Main Stage as the MCC Season 8 champion. Aurevia Team and Team Yandex play in the Wild Card."
+                }
+              ]
             }
           ],
           "editorialNote": "Updated on 22 November 2026 from MOONTON press releases dated 2 and 16 November. Where a release does not name a team’s stage, we say so. We will update this article after MCT SEA and when the M8 match days are published."
@@ -1243,7 +1319,7 @@
         "Калибровка"
       ],
       "datePublished": "2026-11-22T13:44:00+03:00",
-      "dateModified": "2026-11-22T19:27:27+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-ranks-in-order.jpg",
         "width": 1600,
@@ -1476,6 +1552,29 @@
         {
           "type": "paragraph",
           "text": "Сезон длится около трёх месяцев. В его конце ранг опускается: Мифический бессмертный и Мифическая слава начинают новый сезон с Легенды V, Мифическая честь — с Эпика I, Мифик — с Эпика II. Награды выдают по самому высокому рангу за сезон. Ожидаемую дату конца 42 сезона и полную таблицу сброса мы разобрали в отдельном материале."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Сколько рангов в Mobile Legends?",
+              "a": "10: Воин, Элита, Мастер, Грандмастер, Эпик, Легенда, Мифик, Мифическая честь, Мифическая слава и Мифический бессмертный. Первые шесть делятся на дивизионы, в Мифических рангах дивизионов нет."
+            },
+            {
+              "q": "Сколько звёзд нужно до Мифика?",
+              "a": "112 звёзд от начала Воина. Больше всего уходит на Грандмастер, Эпик и Легенду — по 25 звёзд в каждом."
+            },
+            {
+              "q": "Со скольких звёзд начинается Мифическая слава?",
+              "a": "С 50. Мифическая честь начинается с 25 звёзд, Мифический бессмертный — со 100."
+            },
+            {
+              "q": "Как работает калибровка в Мифике?",
+              "a": "Первые 10 матчей в Мифике победа приносит две звезды, а поражение тратит матч, но звёзд не снимает. Потом звёзды снова идут по одной."
+            }
+          ]
         }
       ],
       "sources": [
@@ -1733,6 +1832,29 @@
             {
               "type": "paragraph",
               "text": "A season lasts about three months. At the end your rank drops: Mythical Immortal and Mythical Glory start the new season in Legend V, Mythical Honor in Epic I and Mythic in Epic II. Rewards follow the highest rank you reached that season. We covered the expected end of Season 42 and the full reset chart in a separate guide."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "How many ranks are there in Mobile Legends?",
+                  "a": "10: Warrior, Elite, Master, Grandmaster, Epic, Legend, Mythic, Mythical Honor, Mythical Glory and Mythical Immortal. The first six have divisions; the Mythic ranks do not."
+                },
+                {
+                  "q": "How many stars do you need to reach Mythic?",
+                  "a": "112 stars from the start of Warrior. Grandmaster, Epic and Legend take the most — 25 stars each."
+                },
+                {
+                  "q": "How many stars does Mythical Glory start at?",
+                  "a": "At 50. Mythical Honor starts at 25 stars and Mythical Immortal at 100."
+                },
+                {
+                  "q": "How does Mythic placement work?",
+                  "a": "In the first 10 Mythic matches a win gives two stars, and a loss uses up a match but removes no stars. After that stars go one at a time again."
+                }
+              ]
             }
           ],
           "editorialNote": "The star count per rank matches the BOOST MLBB calculator. The match estimate is our own calculation with the same model as the Telegram bot. Order data comes from completed bot orders since November 2025."
@@ -1756,7 +1878,7 @@
         "Мифик"
       ],
       "datePublished": "2026-11-22T13:44:00+03:00",
-      "dateModified": "2026-11-22T19:27:27+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-season-end-rank-reset.jpg",
         "width": 1600,
@@ -1927,6 +2049,25 @@
         {
           "type": "paragraph",
           "text": "Как устроены звёзды, дивизионы и пороги Мифика, мы разобрали в отдельном материале о рангах Mobile Legends по порядку. Там же — сколько матчей обычно уходит на путь до Мифика при разном проценте побед."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Когда закончится 42 сезон MLBB?",
+              "a": "Ожидаемая дата — 16 декабря 2026 года. MOONTON не объявляет её заранее, поэтому её считают по длине прошлых сезонов."
+            },
+            {
+              "q": "Куда упадёт ранг после сброса сезона?",
+              "a": "Мифический бессмертный и Мифическая слава опускаются в Легенду V, Мифическая честь — в Эпик I, Мифик — в Эпик II."
+            },
+            {
+              "q": "По какому рангу выдают сезонные награды?",
+              "a": "По самому высокому рангу за сезон, а не по рангу в последний день. Для сезонного облика нужно сыграть 20 рейтинговых матчей."
+            }
+          ]
         }
       ],
       "sources": [
@@ -2128,6 +2269,25 @@
             {
               "type": "paragraph",
               "text": "How stars, divisions and Mythic thresholds work is covered in our separate guide to Mobile Legends ranks in order. It also shows how many matches the road to Mythic usually takes at different win rates."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "When does MLBB Season 42 end?",
+                  "a": "The expected date is 16 December 2026. MOONTON does not announce it in advance, so it is estimated from past season lengths."
+                },
+                {
+                  "q": "Where does your rank drop after the season reset?",
+                  "a": "Mythical Immortal and Mythical Glory drop to Legend V, Mythical Honor to Epic I and Mythic to Epic II."
+                },
+                {
+                  "q": "Which rank decides the season rewards?",
+                  "a": "The highest rank you reached during the season, not your rank on the last day. The season skin needs 20 ranked matches."
+                }
+              ]
             }
           ],
           "editorialNote": "The season end date is a tracker estimate based on past season lengths. We will update this guide when Moonton announces the time and will check the table against the game after the reset. Order data comes from completed orders in the BOOST MLBB bot."
@@ -2151,7 +2311,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:29:19+03:00",
-      "dateModified": "2026-11-23T03:34:29+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-meta-tier-list.jpg",
         "width": 1600,
@@ -3130,6 +3290,25 @@
         {
           "type": "paragraph",
           "text": "Мы обновляем этот материал раз в месяц и после крупных патчей. Следующая проверка — после старта 43 сезона: вместе с ним обычно выходит обновление баланса, и тир-лист заметно меняется."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Какой герой сейчас самый сильный в MLBB?",
+              "a": "По проценту побед за 30 дней первая Маша — 60,47%, но её берут лишь в 0,52% матчей. Рейтинг всех героев с ежедневным обновлением — в тир-листе на нашем сайте."
+            },
+            {
+              "q": "Кого чаще всех банят в MLBB?",
+              "a": "Хирару: её банят в 68,00% матчей на всех рангах и в 86,53% в Мифической славе."
+            },
+            {
+              "q": "Какие герои сейчас самые слабые?",
+              "a": "Франко, Фанни и Грейнджер: от 41,57% до 43,00% побед за 30 дней."
+            }
+          ]
         }
       ],
       "sources": [
@@ -4121,6 +4300,25 @@
             {
               "type": "paragraph",
               "text": "We update this guide once a month and after major patches. The next check comes after Season 43 starts: a balance update usually arrives with it, and the tier list shifts noticeably."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Which hero is the strongest in MLBB right now?",
+                  "a": "By 30-day win rate Masha is first at 60.47%, but she appears in only 0.52% of matches. The full ranking, updated daily, is in the tier list on our site."
+                },
+                {
+                  "q": "Who is banned the most in MLBB?",
+                  "a": "Hirara: she is banned in 68.00% of matches across all ranks and 86.53% in Mythical Glory."
+                },
+                {
+                  "q": "Which heroes are the weakest right now?",
+                  "a": "Franco, Fanny and Granger, with 41.57% to 43.00% wins over 30 days."
+                }
+              ]
             }
           ],
           "editorialNote": "Figures are official MOONTON statistics for 30 days, updated on 21 November 2026 at 23:55. Tiers are our own calculation based on win rate only, for heroes with a pick rate of 0.5% or more. The editors keep a copy of the data. Hero icons: MOONTON."
@@ -4144,7 +4342,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:36:46+03:00",
-      "dateModified": "2026-11-22T23:13:28+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-current-patch.jpg",
         "width": 1600,
@@ -4355,6 +4553,25 @@
         {
           "type": "paragraph",
           "text": "Два последних крупных обновления, 2.1.88 (17 июня) и 2.2.16 (16 сентября), вышли в день старта нового сезона. Конец 42 сезона ожидают 16 декабря, поэтому следующий большой патч вероятнее всего придёт тогда же. Официальной даты пока нет. Когда патч выйдет, мы обновим этот материал и тир-лист героев."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Какой сейчас патч в MLBB?",
+              "a": "2.2.16. Он вышел 16 сентября 2026 года вместе с началом 42 сезона."
+            },
+            {
+              "q": "Кого усилили и ослабили в патче 2.2.16?",
+              "a": "Усилены Аулус, Аргус, Алдос и Лукас; ослаблены Мия, Ханаби, Мелисса, Ли Сун-Син и Пакито. Машу и Бруно переработали к 10-летию игры."
+            },
+            {
+              "q": "Когда выйдет следующий патч?",
+              "a": "Его ждут вместе с 43 сезоном. Два прошлых крупных патча вышли в первый день сезона: 17 июня и 16 сентября."
+            }
+          ]
         }
       ],
       "sources": [
@@ -4584,6 +4801,25 @@
             {
               "type": "paragraph",
               "text": "The last two major updates, 2.1.88 (17 June) and 2.2.16 (16 September), arrived on the day a new season started. Season 42 is expected to end on 16 December, so the next big patch will most likely come then. There is no official date yet. Once it is out, we will update this guide and the hero tier list."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "What is the current MLBB patch?",
+                  "a": "2.2.16. It came out on 16 September 2026 together with the start of Season 42."
+                },
+                {
+                  "q": "Who was buffed and nerfed in patch 2.2.16?",
+                  "a": "Aulus, Argus, Aldous and Lukas were buffed; Miya, Hanabi, Melissa, Yi Sun-shin and Paquito were nerfed. Masha and Bruno were reworked for the game’s 10th anniversary."
+                },
+                {
+                  "q": "When is the next patch coming?",
+                  "a": "It is expected with Season 43. The last two major patches arrived on the first day of a season: 17 June and 16 September."
+                }
+              ]
             }
           ],
           "editorialNote": "A summary of the official 2.2.16 patch notes in our own words; hero figures are official MOONTON statistics for 30 days, updated on 21 November 2026. MOONTON has not announced the next patch date — it is an estimate based on the last two updates."
@@ -4607,7 +4843,7 @@
         "Безопасность"
       ],
       "datePublished": "2026-11-22T14:38:00+03:00",
-      "dateModified": "2026-11-22T23:13:28+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-redeem-codes-guide.jpg",
         "width": 1600,
@@ -4735,6 +4971,29 @@
         {
           "type": "paragraph",
           "text": "Мы не публикуем списки кодов: проверить код, не активировав его на своём аккаунте, нельзя, а устаревшие подборки только тратят время. Если MOONTON выпустит код для всех игроков, мы напишем о нём в новостях со ссылкой на источник."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Где вводить промокоды в Mobile Legends?",
+              "a": "На официальной странице mobilelegends.com/redeem. В самой игре поля для промокода нет."
+            },
+            {
+              "q": "Где найти Game ID и Zone ID?",
+              "a": "В профиле в игре: Game ID — число рядом с ником, Zone ID — номер сервера в скобках после него, например 123456789 (1234)."
+            },
+            {
+              "q": "Почему промокод MLBB не работает?",
+              "a": "Чаще всего код истёк, у него закончились активации или он уже использован на этом аккаунте. Ещё проверьте Zone ID и не прошло ли 30 минут с отправки кода подтверждения."
+            },
+            {
+              "q": "Нужен ли пароль, чтобы ввести промокод?",
+              "a": "Нет. Нужны только код, Game ID, Zone ID и код подтверждения из игровой почты. Сайт, который просит пароль, — мошеннический."
+            }
+          ]
         }
       ],
       "sources": [
@@ -4875,6 +5134,29 @@
             {
               "type": "paragraph",
               "text": "We do not publish code lists: a code cannot be checked without redeeming it on your own account, and outdated lists only waste time. If MOONTON releases a code for all players, we will cover it in the news with a link to the source."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Where do you enter Mobile Legends redeem codes?",
+                  "a": "On the official page mobilelegends.com/redeem. There is no code field inside the game."
+                },
+                {
+                  "q": "Where do I find my Game ID and Zone ID?",
+                  "a": "In your in-game profile: the Game ID is the number next to your nickname, the Zone ID is the server number in brackets after it, for example 123456789 (1234)."
+                },
+                {
+                  "q": "Why is my MLBB redeem code not working?",
+                  "a": "Most often the code has expired, run out of activations or was already used on this account. Also check your Zone ID and whether 30 minutes have passed since the verification code was sent."
+                },
+                {
+                  "q": "Do I need my password to redeem a code?",
+                  "a": "No. You only need the code, Game ID, Zone ID and the verification code from your in-game mail. A site that asks for your password is a scam."
+                }
+              ]
             }
           ],
           "editorialNote": "The form fields and the verification code lifetime were checked on the official mobilelegends.com/redeem page on 22 November 2026. We do not publish or test specific codes."
@@ -4898,7 +5180,7 @@
         "Символы"
       ],
       "datePublished": "2026-11-22T23:03:00+03:00",
-      "dateModified": "2026-11-22T23:03:00+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-change-nickname.jpg",
         "width": 1600,
@@ -5089,6 +5371,29 @@
         {
           "type": "paragraph",
           "text": "Сколько символов можно вписать, MOONTON официально не указывает. Гайд aesthetic.name называет от 4 до 16 символов и предупреждает, что некоторые знаки считаются за два. Там же упомянута пауза в 7 дней между сменами имени. Сами мы это не проверяли, поэтому ориентируйтесь на сообщение игры."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Как сменить ник в Mobile Legends?",
+              "a": "Нажмите на аватар в левом верхнем углу главного меню, затем на текущий ник или значок карандаша, введите новое имя и нажмите «ОК»."
+            },
+            {
+              "q": "Сколько стоит смена ника в MLBB?",
+              "a": "Первая смена бесплатная. Дальше нужна карточка смены имени: гайды называют 239 или 299 алмазов, точную цену показывает магазин."
+            },
+            {
+              "q": "Как сделать невидимый ник?",
+              "a": "Вставить вместо имени пустой символ Unicode: U+3164 (Hangul Filler) или U+2800 (Braille Pattern Blank). Игра может отклонить символ, тогда попробуйте второй."
+            },
+            {
+              "q": "Пропадут ли ранг и скины после смены ника?",
+              "a": "Нет. Аккаунт определяется по Game ID и Zone ID, поэтому ранг, герои, скины и друзья остаются на месте."
+            }
+          ]
         }
       ],
       "sources": [
@@ -5304,6 +5609,29 @@
             {
               "type": "paragraph",
               "text": "MOONTON does not officially state how many characters a nickname can have. The aesthetic.name guide gives 4 to 16 characters and warns that some signs count as two. It also mentions a 7 days pause between renames. We have not checked this ourselves, so go by the message the game shows."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "How do you change your nickname in Mobile Legends?",
+                  "a": "Tap the avatar in the top-left corner of the main menu, then your current name or the pencil icon, type the new name and tap OK."
+                },
+                {
+                  "q": "How much does a name change cost in MLBB?",
+                  "a": "The first change is free. After that you need a Rename Card: guides quote 239 or 299 diamonds, and the shop shows the exact price."
+                },
+                {
+                  "q": "How do you make an invisible nickname?",
+                  "a": "Use a blank Unicode character instead of a name: U+3164 (Hangul Filler) or U+2800 (Braille Pattern Blank). The game may reject one; then try the other."
+                },
+                {
+                  "q": "Will I lose my rank or skins after changing my name?",
+                  "a": "No. The account is tied to your Game ID and Zone ID, so your rank, heroes, skins and friends stay."
+                }
+              ]
             }
           ],
           "editorialNote": "Steps and prices were checked on 22 November 2026 against guides by ONE Esports, aesthetic.name and Katadata. We found no official MOONTON help page on renaming or the card price, so check the price in the in-game shop."
@@ -5327,7 +5655,7 @@
         "Переработки"
       ],
       "datePublished": "2026-11-22T23:21:00+03:00",
-      "dateModified": "2026-11-23T03:34:29+03:00",
+      "dateModified": "2026-11-23T14:09:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-new-heroes-2026.jpg",
         "width": 1600,
@@ -5648,6 +5976,25 @@
         {
           "type": "paragraph",
           "text": "Как только MOONTON опубликует патч-ноты с новым героем, мы обновим эту статью и таблицы. Следить за анонсами удобнее всего в разделе Patch на официальном сайте игры."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Какой последний новый герой в MLBB?",
+              "a": "Хирара, убийца для леса. Она вышла 17 июня 2026 года с патчем 2.1.88."
+            },
+            {
+              "q": "Сколько новых героев вышло с декабря 2025 года?",
+              "a": "Три: Сора, Марсель и Хирара. Ещё четырёх переработали: Эйдору, Аулуса, Машу и Бруно."
+            },
+            {
+              "q": "Когда выйдет следующий герой?",
+              "a": "На 22 ноября MOONTON его не анонсировал. Последние официальные патч-ноты — 2.2.16 от 16 сентября."
+            }
+          ]
         }
       ],
       "sources": [
@@ -5993,6 +6340,25 @@
             {
               "type": "paragraph",
               "text": "As soon as MOONTON publishes patch notes with a new hero, we will update this article and its tables. The easiest place to follow announcements is the Patch section on the game's official site."
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Who is the latest new hero in MLBB?",
+                  "a": "Hirara, a jungle assassin. She was released on 17 June 2026 with patch 2.1.88."
+                },
+                {
+                  "q": "How many new heroes have come out since December 2025?",
+                  "a": "Three: Sora, Marcel and Hirara. Four more were revamped: Eudora, Aulus, Masha and Bruno."
+                },
+                {
+                  "q": "When is the next hero coming?",
+                  "a": "As of 22 November MOONTON has not announced one. The latest official patch notes are 2.2.16 from 16 September."
+                }
+              ]
             }
           ],
           "editorialNote": "Release dates were checked on 22 November 2026 against official MOONTON patch notes and the MLBB Wiki; statistics are official, 30 days across all ranks as of 21 November 2026."

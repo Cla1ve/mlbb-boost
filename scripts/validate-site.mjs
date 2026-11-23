@@ -126,7 +126,7 @@ for (const langPath of ['', '/en']) {
     assert(faq && visible.length && faq.mainEntity.length === visible.length, `${pathname}: FAQ markup must match the visible FAQ`);
     assert.deepEqual(faq.mainEntity.map(q => q.name), visible, `${pathname}: FAQ questions differ from the page`);
     assert(!/\{\{\w/.test(page.document.querySelector('main').innerHTML), `${pathname}: unreplaced content token`);
-    assert(page.document.querySelector('.lp-hero h1.prices-title') && page.document.querySelector('.rank-price-card'), `${pathname}: landing layout missing`);
+    assert(page.document.querySelector('.lp-hero h1.prices-title') && page.document.querySelector('.lp-ptable tbody tr'), `${pathname}: landing layout missing`);
     assert(page.document.querySelector('.footer-guides a[href$="/news/mlbb-ranks-in-order/"]'), `${pathname}: footer guide links missing`);
   }
 }

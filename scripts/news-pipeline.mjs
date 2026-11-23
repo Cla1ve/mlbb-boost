@@ -740,6 +740,9 @@ function validateTranslationParity(source, translated, locale) {
         }
       }
     }
+    if (sourceBlock.type === 'faq' && sourceBlock.items?.length !== translatedBlock.items?.length) {
+      errors.push(`${label}.items должен содержать то же число вопросов.`);
+    }
     if (sourceBlock.type === 'linkCard' && sourceBlock.href !== translatedBlock.href) {
       errors.push(`${label}.href должен совпадать с русской версией.`);
     }
@@ -985,7 +988,8 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
     'callout',
     'list',
     'linkCard',
-    'cta'
+    'cta',
+    'faq'
   ]);
   const ids = new Set();
   const requireText = (block, fields) => {
@@ -1119,6 +1123,14 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
         break;
       case 'callout':
         requireText(block, ['label', 'text']);
+        break;
+      case 'faq':
+        requireText(block, ['id', 'title']);
+        if (!Array.isArray(block.items) || block.items.length < 2 || block.items.some((item) => (
+          !item || typeof item.q !== 'string' || !normalizeText(item.q) || typeof item.a !== 'string' || !normalizeText(item.a)
+        ))) {
+          errors.push('faq.items должен содержать минимум два вопроса с полями q и a.');
+        }
         break;
       case 'list':
         requireStringItems(block, 'items');
@@ -1449,7 +1461,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="describedby" href="${siteHref('/about.html', locale)}">
   <link rel="stylesheet" href="/styles/main.css?v=3">
   <link rel="stylesheet" href="/styles/legal.css">
-  <link rel="stylesheet" href="/styles/news.css?v=14">
+  <link rel="stylesheet" href="/styles/news.css?v=15">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">`;
 }
@@ -1776,6 +1788,12 @@ function renderBlock(block, locale = 'ru') {
         </div>`).join('')}
         ${block.note ? `<p class="hero-tiers__note">${escapeHtml(block.note)}</p>` : ''}
       </figure>`;
+    case 'faq':
+      return `
+      <section class="article-faq" aria-labelledby="${escapeHtml(block.id)}">
+        <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
+        ${block.items.map((item) => `<details><summary>${escapeHtml(item.q)}</summary><p>${escapeHtml(item.a)}</p></details>`).join('')}
+      </section>`;
     case 'callout':
       return `
       <aside class="article-callout">
@@ -1798,7 +1816,7 @@ function renderBlock(block, locale = 'ru') {
     case 'cta':
       return `
       <aside class="rank-cta" aria-labelledby="${escapeHtml(block.id)}">
-        <div class="rank-cta__emblem" aria-hidden="true"><span></span></div>
+        <div class="rank-cta__emblem" aria-hidden="true"><img src="/images/ranks/Mythic.webp" width="160" height="160" alt="" loading="lazy" decoding="async"></div>
         <div class="rank-cta__copy">
           <p>${escapeHtml(block.eyebrow)}</p>
           <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
@@ -1875,9 +1893,19 @@ function renderArticle(post, { preview = false, locale = 'ru', related = [] } = 
       { '@type': 'ListItem', position: 3, name: post.title, item: canonical }
     ]
   };
+  const faqBlock = post.blocks.find((block) => block.type === 'faq');
+  const faqPage = faqBlock ? {
+    '@type': 'FAQPage',
+    '@id': `${canonical}#faq`,
+    mainEntity: faqBlock.items.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a }
+    }))
+  } : null;
   const jsonLd = {
     '@context': 'https://schema.org',
-    '@graph': [newsArticle, breadcrumb]
+    '@graph': [newsArticle, breadcrumb, ...(faqPage ? [faqPage] : [])]
   };
 
   return `<!DOCTYPE html>
