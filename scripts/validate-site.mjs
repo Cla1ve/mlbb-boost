@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import { readFile, stat } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -33,17 +34,16 @@ for (const pathname of paths) {
   assert.equal(document.querySelector('meta[property="og:url"]').content, canonical);
   assert(Number(document.querySelector('meta[property="og:image:width"]').content) >= 1200, `${pathname}: small social preview`);
   const alternatives = [...document.querySelectorAll('link[hreflang]')];
-  const ruOnly = pathname.startsWith('/heroes/');
-  if (ruOnly) {
-    // Hero stat pages are Russian-only: no hreflang, and the English copy must not be indexable.
-    assert.equal(alternatives.length, 0, `${pathname}: Russian-only page must not declare alternates`);
+  if (pathname.startsWith('/heroes/')) {
+    // Hero stat pages: the English copy is indexable by Google but closed to Yandex.
     const english = parseHTML(await read(filename('/en' + pathname))).document;
-    assert(english.querySelector('meta[name="robots"]').content.includes('noindex'), `${pathname}: English copy must be noindex`);
-  } else {
-    assert.equal(alternatives.length, 3, `${pathname}: incomplete hreflang`);
+    assert(!english.querySelector('meta[name="robots"]').content.includes('noindex'), `${pathname}: English copy must be open to Google`);
+    assert.equal(english.querySelector('meta[name="yandex"]')?.content, 'noindex, follow', `${pathname}: English copy must be closed to Yandex`);
+    assert(!document.querySelector('meta[name="yandex"]'), `${pathname}: Russian page must stay open to Yandex`);
   }
+  assert.equal(alternatives.length, 3, `${pathname}: incomplete hreflang`);
   const targets = Object.fromEntries(alternatives.map(e => [e.hreflang, e.href]));
-  if (!ruOnly) {
+  {
     assert.deepEqual(Object.keys(targets).sort(), ['en', 'ru', 'x-default']);
     assert.equal(targets[lang], canonical);
     assert.equal(targets['x-default'], targets.ru);
@@ -78,6 +78,8 @@ for (const pathname of paths) {
 }
 for (const [url, page] of pages) {
   for (const target of [page.targets.ru, page.targets.en].filter(Boolean)) {
+    // English hero pages are deliberately outside the sitemap (closed to Yandex); they only need to exist.
+    if (new URL(target).pathname.startsWith('/en/heroes/')) { assert(existsSync(path.join(root, filename(new URL(target).pathname))), `${url}: hreflang target file missing`); continue; }
     assert(pages.has(target), `${url}: hreflang target missing`);
     assert.deepEqual(pages.get(target).targets, page.targets, `${url}: non-reciprocal hreflang`);
   }

@@ -357,7 +357,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     }
     document.title = title;
     for (const [name, value, property] of [
-      ['description', description], ['robots', file === '404.html' || (lang === 'en' && guideOf(file)?.ruOnly) ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
+      ['description', description], ['robots', file === '404.html' ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
       ['og:title', title, true], ['og:description', description, true], ['og:type', guide ? 'article' : 'website', true], ['og:locale', lang === 'en' ? 'en_US' : 'ru_RU', true],
       ['og:url', origin + localized(filePath(file), lang), true], ['og:image', guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`, true],
       ['og:image:width', '1200', true], ['og:image:height', guide?.image ? '675' : '630', true], ['og:image:alt', lang === 'en' ? 'MLBB Boost — rank boost options and calculator' : 'MLBB Boost — услуги буста и калькулятор', true],
@@ -366,8 +366,11 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     document.querySelectorAll('meta[name="keywords"],meta[name="revisit-after"],meta[name="geo.position"],meta[name="ICBM"],meta[name="language"],meta[name="distribution"],meta[name="rating"]').forEach(node => node.remove());
     document.querySelectorAll('link[rel="canonical"],link[hreflang],link[rel="alternate"][type="text/markdown"]').forEach(node => node.remove());
     const canonical = origin + localized(filePath(file), lang);
-    // Russian-only pages (hero stats) have no English alternate: the English copy stays reachable but is not indexed.
-    for (const [rel, hreflang, href] of [['canonical', null, canonical], ...(guideOf(file)?.ruOnly ? [] : [['alternate', 'ru', origin + filePath(file)], ['alternate', 'en', origin + localized(filePath(file), 'en')], ['alternate', 'x-default', origin + filePath(file)]])]) {
+    // Hero stat pages (ruOnly): the English copy is open to Google but closed to Yandex (meta name="yandex"),
+    // and stays out of the sitemap so Yandex does not spend crawl budget on it (owner question 23.11.2026).
+    document.querySelectorAll('meta[name="yandex"]').forEach(node => node.remove());
+    if (lang === 'en' && guideOf(file)?.ruOnly) { const tag = document.createElement('meta'); tag.setAttribute('name', 'yandex'); tag.setAttribute('content', 'noindex, follow'); document.head.append(tag); }
+    for (const [rel, hreflang, href] of [['canonical', null, canonical], ['alternate', 'ru', origin + filePath(file)], ['alternate', 'en', origin + localized(filePath(file), 'en')], ['alternate', 'x-default', origin + filePath(file)]]) {
       const link = document.createElement('link'); link.rel = rel; link.href = href; if (hreflang) link.hreflang = hreflang; document.head.append(link);
     }
     const mdPath = `/markdown/${lang === 'en' ? 'en/' : ''}${file.replace(/\.html$/, '.md')}`;
