@@ -2151,7 +2151,7 @@
         "Сезон 42"
       ],
       "datePublished": "2026-11-22T14:29:19+03:00",
-      "dateModified": "2026-11-22T22:33:40+03:00",
+      "dateModified": "2026-11-23T03:34:29+03:00",
       "hero": {
         "src": "/images/news/mlbb-meta-tier-list.jpg",
         "width": 1600,
@@ -2770,6 +2770,13 @@
         {
           "type": "paragraph",
           "text": "Тир здесь — только процент побед. Он не учитывает сложность героя и вашу роль: Фанни в D-тире, но это один из самых сложных героев, и средний процент побед мало говорит о том, как она играет в руках опытного игрока. Если вы уверенно играете на герое из тира C, менять его на героя из S ради цифры смысла нет."
+        },
+        {
+          "type": "linkCard",
+          "label": "Обновляется каждый день",
+          "title": "Тир-лист MLBB по всем 133 героям",
+          "description": "Свежий процент побед, роли, линии и контрпики по официальной статистике",
+          "href": "https://boostmlbb.ru/heroes/"
         },
         {
           "type": "heading",
@@ -3754,6 +3761,13 @@
             {
               "type": "paragraph",
               "text": "A tier here is the win rate only. It ignores hero difficulty and your role: Fanny sits in tier D, but she is one of the hardest heroes, and an average win rate says little about how she plays in experienced hands. If you are confident on a tier C hero, swapping to a tier S hero just for the number makes little sense."
+            },
+            {
+              "type": "linkCard",
+              "label": "Updated daily",
+              "title": "MLBB tier list for all 133 heroes",
+              "description": "Current win rates, roles, lanes and counters from official statistics",
+              "href": "https://boostmlbb.ru/heroes/"
             },
             {
               "type": "heading",
@@ -5313,7 +5327,7 @@
         "Переработки"
       ],
       "datePublished": "2026-11-22T23:21:00+03:00",
-      "dateModified": "2026-11-22T23:21:00+03:00",
+      "dateModified": "2026-11-23T03:34:29+03:00",
       "hero": {
         "src": "/images/news/mlbb-new-heroes-2026.jpg",
         "width": 1600,
@@ -5614,6 +5628,13 @@
           "href": "/order.html?type=standard",
           "note": "Без оплаты и обязательств.",
           "position": "after-now"
+        },
+        {
+          "type": "linkCard",
+          "label": "Обновляется каждый день",
+          "title": "Тир-лист MLBB по всем 133 героям",
+          "description": "Свежий процент побед, роли, линии и контрпики по официальной статистике",
+          "href": "https://boostmlbb.ru/heroes/"
         },
         {
           "type": "heading",
@@ -5952,6 +5973,13 @@
               "href": "/order.html?type=standard",
               "note": "No payment or commitment.",
               "position": "after-now"
+            },
+            {
+              "type": "linkCard",
+              "label": "Updated daily",
+              "title": "MLBB tier list for all 133 heroes",
+              "description": "Current win rates, roles, lanes and counters from official statistics",
+              "href": "https://boostmlbb.ru/heroes/"
             },
             {
               "type": "heading",

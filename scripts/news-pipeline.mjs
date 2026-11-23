@@ -1367,7 +1367,7 @@ function renderFooter(locale = 'ru') {
           <h4>${escapeHtml(copy.editorial)}</h4>
           <ul>
             <li><a href="${siteHref('/news/', locale)}">${escapeHtml(copy.news)}</a></li>
-            <li><a href="${siteHref('/heroes/', locale)}">${locale === 'en' ? 'All MLBB heroes' : 'Все герои MLBB'}</a></li>
+            <li><a href="${siteHref('/heroes/', locale)}">${locale === 'en' ? 'MLBB tier list' : 'Тир-лист MLBB'}</a></li>
             <li><a href="${siteHref('/about.html', locale)}">${escapeHtml(copy.about)}</a></li>
             <li><a href="${siteHref('/faq.html', locale)}">${escapeHtml(copy.faq)}</a></li>
             <li><a href="${siteHref('/sitemap-page.html', locale)}">${escapeHtml(copy.sitemap)}</a></li>
@@ -1786,11 +1786,11 @@ function renderBlock(block, locale = 'ru') {
       </ul>`;
     case 'linkCard':
       return `
-      <a class="article-link-card" href="${escapeHtml(block.href)}" rel="noopener noreferrer" target="_blank">
+      <a class="article-link-card" href="${escapeHtml(block.href.startsWith(SITE_ORIGIN + '/') ? siteHref(block.href.slice(SITE_ORIGIN.length), locale) : block.href)}"${block.href.startsWith(SITE_ORIGIN + '/') ? '' : ' rel="noopener noreferrer" target="_blank"'}>
         <span>${escapeHtml(block.label)}</span>
         <strong>${escapeHtml(block.title)}</strong>
         <small>${escapeHtml(block.description)}</small>
-        <b aria-hidden="true">↗</b>
+        <b aria-hidden="true">${block.href.startsWith(SITE_ORIGIN + '/') ? '→' : '↗'}</b>
       </a>`;
     case 'cta':
       return `

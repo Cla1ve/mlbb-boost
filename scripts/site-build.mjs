@@ -97,7 +97,7 @@ const footerGuides = [
   ['/boost/mythic.html', 'Буст Мифика', 'Mythic boost'],
   ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
   ['/guides/mythic-placement.html', 'Калибровка Мифика', 'Mythic placement'],
-  ['/heroes/', 'Все герои MLBB', 'All MLBB heroes']
+  ['/heroes/', 'Тир-лист MLBB', 'MLBB tier list']
 ];
 const typeLabels = { ru: { standard: 'Обычный', role: 'На роли', hero: 'На герое', party: 'В пати' }, en: { standard: 'Account', role: 'Role', hero: 'Hero', party: 'Party' } };
 const typeOrder = ['standard', 'role', 'hero', 'party'];

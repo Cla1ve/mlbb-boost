@@ -148,7 +148,7 @@ Guides
 
 Ranks, placement and season end — with tables and numbers.
 
-[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[![](/images/heroes/hanabi.webp)Heroes**All MLBB heroes**Win rates and counters for 133 heroes](https://boostmlbb.ru/en/heroes/)[Guide**Where to redeem codes**The official form and why a code fails](https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/)[![](/images/heroes/bruno.webp)Patch**Current patch**Update 2.2.16 and what it changed](https://boostmlbb.ru/en/news/mlbb-current-patch/)
+[![](/images/ranks/Epic.webp)![](/images/ranks/Legend.webp)Article**Ranks in order**All tiers, stars and Mythic thresholds](https://boostmlbb.ru/en/news/mlbb-ranks-in-order/)[![](/images/heroes/masha.webp)Tier list**MLBB tier list**Updated daily: 133 heroes, roles and counters](https://boostmlbb.ru/en/heroes/)[Guide**Where to redeem codes**The official form and why a code fails](https://boostmlbb.ru/en/news/mlbb-redeem-codes-guide/)[![](/images/heroes/bruno.webp)Patch**Current patch**Update 2.2.16 and what it changed](https://boostmlbb.ru/en/news/mlbb-current-patch/)
 
 ---
 
@@ -321,7 +321,7 @@ Useful
 
 What changes this season, how ranks work and what a boost costs.
 
-[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Article**Season 42 end**Expected date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[![](/images/heroes/masha.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statistics](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/)[![](/images/heroes/hanabi.webp)Heroes**All MLBB heroes**Win rates and counters for 133 heroes](https://boostmlbb.ru/en/heroes/)[![](/images/heroes/bruno.webp)Patch**Current patch**Update 2.2.16 and what it changed](https://boostmlbb.ru/en/news/mlbb-current-patch/)
+[![](/images/ranks/Mythical_Immortal.webp)![](/images/ranks/Legend.webp)Article**Season 42 end**Expected date and where your rank drops](https://boostmlbb.ru/en/news/mlbb-season-end-rank-reset/)[![](/images/heroes/hirara.webp)Article**New heroes 2026**Hirara, Marcel, Sora and revamps by date](https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/)[![](/images/heroes/masha.webp)Tier list**MLBB tier list**Updated daily: 133 heroes, roles and counters](https://boostmlbb.ru/en/heroes/)[![](/images/heroes/bruno.webp)Patch**Current patch**Update 2.2.16 and what it changed](https://boostmlbb.ru/en/news/mlbb-current-patch/)
 
 ---
 
@@ -2382,7 +2382,7 @@ Related
 
 Compare with the Mythic boost and party.
 
-[![](/images/heroes/hanabi.webp)Heroes**All MLBB heroes**Win rates and counters for 133 heroes](https://boostmlbb.ru/en/heroes/)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Service**Mythic boost**Star prices in Honor, Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Guide**Party or account boost**How the formats differ and which costs less](https://boostmlbb.ru/en/guides/party-boost.html)[![](/images/heroes/masha.webp)Meta**Tier list, November 2026**Strongest heroes and bans from official statistics](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/)
+[![](/images/heroes/masha.webp)Tier list**MLBB tier list**Updated daily: 133 heroes, roles and counters](https://boostmlbb.ru/en/heroes/)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Immortal.webp)Service**Mythic boost**Star prices in Honor, Glory and Immortal](https://boostmlbb.ru/en/boost/mythic.html)[![](/images/ranks/Mythical_Glory.webp)![](/images/ranks/Mythical_Glory.webp)Guide**Party or account boost**How the formats differ and which costs less](https://boostmlbb.ru/en/guides/party-boost.html)[![](/images/heroes/hirara.webp)Article**New heroes 2026**Hirara, Marcel, Sora and revamps by date](https://boostmlbb.ru/en/news/mlbb-new-heroes-2026/)
 
 ---
 
