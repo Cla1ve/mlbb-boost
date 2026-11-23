@@ -1,6 +1,6 @@
 ---
-title: "Valir MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Valir in Mobile Legends: mage, Mid Lane, 54.11% win rate, tier S, pick and ban rates from official 30-day statistics."
+title: "Valir MLBB: build, counters and skills | MLBB Boost"
+description: "Valir in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 54.11% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier S
 
-# Valir in Mobile Legends: counters and stats
+# Valir in Mobile Legends: build, counters and stats
 
 Mage, Mid Lane. Wins 54.11% of matches over the last 30 days: #7 of 133 heroes.
 
@@ -35,6 +35,66 @@ Win rate, 30 days**54.11%**
 
 **53.73%**wins in Mythical Glory
 
+## Valir build
+
+The most picked setup for Mid Lane Valir in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3104.webp)Ice Queen Wand![](/images/mlbb/items/2101.webp)Magic Wand
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20001.webp)Common![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/131.webp)Impure Rage
+
+Battle spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+Wins with this build **36.24%**Picked in **3.35%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20001.webp)CommonInspire · Festival of Blood · Impure Rage**59.80%**
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20001.webp)CommonInspire · Festival of Blood · Impure Rage**61.07%**
+
+## Valir skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Vengeance Flame** → **Burst Fireball** → **Searing Torrent**
+
+-   ![](/images/mlbb/skills/valir-0.webp)
+
+    **Ashing**Passive
+
+    Valir's skills apply a stack of Ablaze to enemies hit, dealing them Magic Damage equal to 1 (+0.2% Total Magic Power)% of their per second for 3s.
+    At 3 stacks, the fire detonates, dealing Magic Damage equal to 5 (+1% Total Magic Power)% of the target's and stunning them for 1s.
+    A target can only be stunned by Valir's skills once every 7s.
+
+-   ![](/images/mlbb/skills/valir-1.webp)
+
+    **Burst Fireball**Skill 1CD 1.5 Mana Cost: 45 s
+
+    Valir launches a fireball that explodes upon hitting the first target, dealing 235 (+80% Total Magic Power) Magic Damage and slowing them by 30% for 1s. The flame on the ground explodes after 1s, dealing 118 (+40% Total Magic Power) Magic Damage.
+    Valir recharges 1 fireball every 9s (up to 2 charges). Hitting an enemy hero or legend creep with this skill immediately restores 1 charge, while hitting a minion restores 4s of the recharge time.
+    Vengeance Flame: Increases the cast range of Burst Fireball by 30%.
+
+-   ![](/images/mlbb/skills/valir-2.webp)
+
+    **Searing Torrent**Skill 2CD 13 Mana Cost: 75 s
+
+    Valir unleashes a torrent of flames in the target direction, dealing 200 (+60% Total Magic Power) Magic Damage and knocking them back to the end of its path.
+    Vengeance Flame: The torrent forms a firewall at the end of its path that lasts 4s, dealing 100 (+30% Total Magic Power) Magic Damage to nearby enemies every 1s.
+    Enemies hit by the torrent or the firewall are slowed by 25% for 1s.
+
+-   ![](/images/mlbb/skills/valir-3.webp)
+
+    **Vengeance Flame**UltimateCD 36 Mana Cost: 100 s
+
+    Valir removes all debuffs on himself and gains 40% Movement Speed that decays over 3s. Meanwhile, he conjures 4 Vengeance Flames that enhance Burst Fireball and Searing Torrent for 9s.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +103,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**Mid Lane**
 -   Among mages**#1 of 32**
 -   In the Mid Lane**#1 of 29**
+-   Speciality**Damage, Guard**
+-   Difficulty**Easy (20/100)**
 
 ## Who counters Valir
 
@@ -55,6 +117,12 @@ Valir loses to these heroes most often. The number under each icon is that hero�
 Valir is one of the toughest opponents for these heroes.
 
 [![Gusion](/images/heroes/gusion.webp)Gusion48.61%](https://boostmlbb.ru/en/heroes/gusion.html)[![Novaria](/images/heroes/novaria.webp)Novaria49.52%](https://boostmlbb.ru/en/heroes/novaria.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Harley](/images/heroes/harley.webp)Harley48.19%](https://boostmlbb.ru/en/heroes/harley.html)[![Kagura](/images/heroes/kagura.webp)Kagura51.09%](https://boostmlbb.ru/en/heroes/kagura.html)[![Helcurt](/images/heroes/helcurt.webp)Helcurt47.63%](https://boostmlbb.ru/en/heroes/helcurt.html)[![Kaja](/images/heroes/kaja.webp)Kaja49.80%](https://boostmlbb.ru/en/heroes/kaja.html)[![Pharsa](/images/heroes/pharsa.webp)Pharsa47.26%](https://boostmlbb.ru/en/heroes/pharsa.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Mathilda](/images/heroes/mathilda.webp)Mathilda44.49%](https://boostmlbb.ru/en/heroes/mathilda.html)
+
+## Best teammates for Valir
+
+With these heroes on the same team Valir wins more often. The number is the gain in win rate, in percentage points.
+
+[![Natalia](/images/heroes/natalia.webp)Natalia+1.48 pts](https://boostmlbb.ru/en/heroes/natalia.html)[![Hanzo](/images/heroes/hanzo.webp)Hanzo+1.43 pts](https://boostmlbb.ru/en/heroes/hanzo.html)[![Harley](/images/heroes/harley.webp)Harley+1.35 pts](https://boostmlbb.ru/en/heroes/harley.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin+1.32 pts](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
 ## Win rate by rank
 
@@ -76,13 +144,15 @@ The strongest by win rate over the last 30 days.
 
 [![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)
 
-## Lore and skills
+## Lore
 
 ![Valir](/images/heroes/valir.webp)
 
-Valir’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«Heir to Fire Throat, fire mage.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=57)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valir)
+Valir’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=57)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=57)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Valir)
 
 ## Boost on Valir
 
@@ -90,7 +160,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +179,9 @@ Mage, played in the Mid Lane.
 Is Valir strong in the current meta?
 
 Tier S: #7 of 133 heroes by 30-day win rate and #1 among mages.
+
+What is the best build for Valir?
+
+The most popular ranked build: Glowing Wand, Ice Queen Wand and Magic Wand as core items, the Common emblem with Inspire, Festival of Blood and Impure Rage, and Flicker. It wins 36.24% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

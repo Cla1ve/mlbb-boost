@@ -1,6 +1,6 @@
 ---
-title: "Nolan MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Nolan in Mobile Legends: assassin, Jungle, 49.71% win rate, tier B, pick and ban rates from official 30-day statistics."
+title: "Nolan MLBB: build, counters and skills | MLBB Boost"
+description: "Nolan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.71% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier B
 
-# Nolan in Mobile Legends: counters and stats
+# Nolan in Mobile Legends: build, counters and stats
 
 Assassin, Jungle. Wins 49.71% of matches over the last 30 days: #72 of 133 heroes.
 
@@ -35,6 +35,61 @@ Win rate, 30 days**49.71%**
 
 **50.36%**wins in Mythical Glory
 
+## Nolan build
+
+The most picked setup for jungle Nolan in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/3009.webp)Hunter Strike![](/images/mlbb/items/3001.webp)Malefic Roar
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
+
+Battle spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+Wins with this build **53.17%**Picked in **6.73%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Impure Rage**51.76%**
+-   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinThrill · Seasoned Hunter · Lethal Ignition**51.81%**
+
+## Nolan skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Fracture** → **Expansion** → **Gauge**
+
+-   ![](/images/mlbb/skills/nolan-0.webp)
+
+    **Dimensional Rift**Passive
+
+    Nolan's skills will leave a Rift. When a rift comes into contact with another rift, they will activate and pull enemies to their center and deal 240 (+140% Extra Physical Attack) Physical Damage after a short delay. Each time a rift activation hits an enemy, Nolan will gain 25 Energy. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced by 40%.
+    Cosmic Leap: If Nolan does not deal or take damage for 5s, he enhances his next Basic Attack to dash to the target, dealing (+120% Total Physical Attack) Physical Damage and leaving a Rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
+
+-   ![](/images/mlbb/skills/nolan-1.webp)
+
+    **Expansion**Skill 1CD 2.5 Energy Cost: 25 s
+
+    Nolan cuts a rectangular area in front of him with his cosmic gauge, dealing 230 (+40% Total Physical Attack) Physical Damage and leaving a Rift at the first enemy hit.
+
+-   ![](/images/mlbb/skills/nolan-2.webp)
+
+    **Gauge**Skill 2CD 2.5 Energy Cost: 25 s
+
+    Nolan charges in the target direction and slashes with his cosmic gauge, dealing 70 (+13% Total Physical Attack) Physical Damage to enemies in his path and leaving a Rift.
+
+-   ![](/images/mlbb/skills/nolan-3.webp)
+
+    **Fracture**UltimateCD 21 s
+
+    Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical Attack) Physical Damage with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +98,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**Jungle**
 -   Among assassins**#11 of 29**
 -   In the jungle**#17 of 37**
+-   Speciality**Chase, Burst**
+-   Difficulty**Medium (60/100)**
 
 ## Who counters Nolan
 
@@ -55,6 +112,12 @@ Nolan loses to these heroes most often. The number under each icon is that hero�
 Nolan is one of the toughest opponents for these heroes.
 
 [![Saber](/images/heroes/saber.webp)Saber51.21%](https://boostmlbb.ru/en/heroes/saber.html)[![Hayabusa](/images/heroes/hayabusa.webp)Hayabusa48.15%](https://boostmlbb.ru/en/heroes/hayabusa.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead47.87%](https://boostmlbb.ru/en/heroes/jawhead.html)[![Natalia](/images/heroes/natalia.webp)Natalia51.05%](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Best teammates for Nolan
+
+With these heroes on the same team Nolan wins more often. The number is the gain in win rate, in percentage points.
+
+[![Joy](/images/heroes/joy.webp)Joy+2.29 pts](https://boostmlbb.ru/en/heroes/joy.html)[![Yve](/images/heroes/yve.webp)Yve+1.91 pts](https://boostmlbb.ru/en/heroes/yve.html)[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin+1.84 pts](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Valentina](/images/heroes/valentina.webp)Valentina+1.56 pts](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Win rate by rank
 
@@ -76,13 +139,15 @@ The strongest by win rate over the last 30 days.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
-## Lore and skills
+## Lore
 
 ![Nolan](/images/heroes/nolan.webp)
 
-Nolan’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«A scholar that wanders the universe with split souls to save his daughter.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=122)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan)
+Nolan’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://play.mobilelegends.com/lore/hero/Nolan)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=122)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Nolan)
 
 ## Boost on Nolan
 
@@ -90,7 +155,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +174,9 @@ Assassin, played in the jungle.
 Is Nolan strong in the current meta?
 
 Tier B: #72 of 133 heroes by 30-day win rate and #11 among assassins.
+
+What is the best build for Nolan?
+
+The most popular ranked build: Blade of the Heptaseas, Hunter Strike and Malefic Roar as core items, the Assassin emblem with Thrill, Seasoned Hunter and Lethal Ignition, and Retribution. It wins 53.17% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

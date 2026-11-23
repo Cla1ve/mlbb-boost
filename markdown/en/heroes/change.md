@@ -1,6 +1,6 @@
 ---
-title: "Chang'e MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Chang'e in Mobile Legends: mage, Mid Lane, 48.20% win rate, tier C, pick and ban rates from official 30-day statistics."
+title: "Chang'e MLBB: build, counters and skills | MLBB Boost"
+description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.20% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier C
 
-# Chang'e in Mobile Legends: counters and stats
+# Chang'e in Mobile Legends: build, counters and stats
 
 Mage, Mid Lane. Wins 48.20% of matches over the last 30 days: #106 of 133 heroes.
 
@@ -35,6 +35,64 @@ Win rate, 30 days**48.20%**
 
 **45.81%**wins in Mythical Glory
 
+## Chang'e build
+
+The most picked setup for Mid Lane Chang'e in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3105.webp)Glowing Wand![](/images/mlbb/items/3101.webp)Divine Glaive
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/131.webp)Impure Rage
+
+Battle spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+Wins with this build **52.11%**Picked in **4.03%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20140.webp)Flameshot![](/images/mlbb/emblems/20006.webp)MageThrill · Bargain Hunter · Impure Rage**50.57%**
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageThrill · Bargain Hunter · Impure Rage**54.25%**
+
+## Chang'e skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Meteor Shower** → **Starmoon Shockwave** → **Crescent Moon**
+
+-   ![](/images/mlbb/skills/change-0.webp)
+
+    **Trouble Maker**Passive
+
+    Each time Chang'e deals damage to an enemy, she leaves a mark on them that reduces their Movement Speed by 1% (up to 20%).
+
+-   ![](/images/mlbb/skills/change-1.webp)
+
+    **Starmoon Shockwave**Skill 1CD 7 Mana Cost: 60 s
+
+    Chang'e sends an energy sphere in the target direction, dealing 350 (+130% Total Magic Power) Magic Damage to enemies in its path and slowing them by 10% for 1.5s.
+    Crescent Moon: The Crescent Moon sends 4 extra energy spheres along with Chang'e's, each dealing 20% damage and slowing enemies hit. The slow effect can stack (up to 20%).
+
+-   ![](/images/mlbb/skills/change-2.webp)
+
+    **Crescent Moon**Skill 2CD 12 Mana Cost: 60 s
+
+    Chang'e summons the Crescent Moon, gaining a permanent 300 (+150% Total Magic Power) shield and 10% Movement Speed until the shield is broken. Each time she casts a skill, she gains an extra 50% Movement Speed that decays over 2.5s.
+    Crescent Moon: Enhances her Basic Attacks to deal 20 (+35% Total Magic Power) extra Magic Damage 2 times.
+    Each time Chang'e deals Magic Damage with her Basic Attacks or skills, this skill's cooldown is reduced by 0.2s.
+
+-   ![](/images/mlbb/skills/change-3.webp)
+
+    **Meteor Shower**UltimateCD 24 Mana Cost: 120 s
+
+    Chang'e gains 10% Movement Speed for 4s. During this time, she fires 30 meteors in the target direction, each dealing 60 (+21% Total Magic Power) Magic Damage to the first enemy hit. This skill deals 100% extra damage to minions and creeps.
+    Crescent Moon: Fires meteors alongside Chang'e, each dealing 33% damage.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +101,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**Mid Lane**
 -   Among mages**#25 of 32**
 -   In the Mid Lane**#24 of 29**
+-   Speciality**Poke, Burst**
+-   Difficulty**Easy (40/100)**
 
 ## Who counters Chang'e
 
@@ -55,6 +115,12 @@ Chang'e loses to these heroes most often. The number under each icon is that her
 Chang'e is one of the toughest opponents for these heroes.
 
 [![Claude](/images/heroes/claude.webp)Claude48.85%](https://boostmlbb.ru/en/heroes/claude.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Best teammates for Chang'e
+
+With these heroes on the same team Chang'e wins more often. The number is the gain in win rate, in percentage points.
+
+[![Harley](/images/heroes/harley.webp)Harley+1.89 pts](https://boostmlbb.ru/en/heroes/harley.html)[![Johnson](/images/heroes/johnson.webp)Johnson+1.74 pts](https://boostmlbb.ru/en/heroes/johnson.html)[![Franco](/images/heroes/franco.webp)Franco+1.65 pts](https://boostmlbb.ru/en/heroes/franco.html)[![Jawhead](/images/heroes/jawhead.webp)Jawhead+1.63 pts](https://boostmlbb.ru/en/heroes/jawhead.html)
 
 ## Win rate by rank
 
@@ -76,13 +142,15 @@ The strongest by win rate over the last 30 days.
 
 [![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
 
-## Lore and skills
+## Lore
 
 ![Chang'e](/images/heroes/change.webp)
 
-Chang'e’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«Naughty and cute disciple of the Great Dragon.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=61)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chang'e)
+Chang'e’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=61)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=61)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Chang'e)
 
 ## Boost on Chang'e
 
@@ -90,7 +158,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +177,9 @@ Mage, played in the Mid Lane.
 Is Chang'e strong in the current meta?
 
 Tier C: #106 of 133 heroes by 30-day win rate and #25 among mages.
+
+What is the best build for Chang'e?
+
+The most popular ranked build: Sky Piercer, Glowing Wand and Divine Glaive as core items, the Mage emblem with Thrill, Bargain Hunter and Impure Rage, and Flicker. It wins 52.11% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

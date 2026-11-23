@@ -1,6 +1,6 @@
 ---
-title: "Guinevere MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Guinevere in Mobile Legends: fighter, EXP Lane, 51.27% win rate, tier A, pick and ban rates from official 30-day statistics."
+title: "Guinevere MLBB: build, counters and skills | MLBB Boost"
+description: "Guinevere in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.27% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/guinevere.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier A
 
-# Guinevere in Mobile Legends: counters and stats
+# Guinevere in Mobile Legends: build, counters and stats
 
 Fighter, EXP Lane. Wins 51.27% of matches over the last 30 days: #39 of 133 heroes.
 
@@ -35,6 +35,65 @@ Win rate, 30 days**51.27%**
 
 **51.47%**wins in Mythical Glory
 
+## Guinevere build
+
+The most picked setup for EXP Lane Guinevere in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/3103.webp)Concentrated Energy![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/2208.webp)Queen's Wings
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/111.webp)Thrill![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/134.webp)Temporal Reign
+
+Battle spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+Wins with this build **56.61%**Picked in **3.33%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageRupture · Pull Yourself Together · Impure Rage**55.93%**
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageThrill · Seasoned Hunter · Temporal Reign**53.66%**
+
+## Guinevere skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Violet Requiem** → **Energy Wave** → **Spatial Migration**
+
+-   ![](/images/mlbb/skills/guinevere-0.webp)
+
+    **Super Magic**Passive
+
+    Guinevere deals 25% extra damage to airborne enemies. Her Basic Attacks also deal (+80% Total Physical Attack) (+60% Total Magic Power) Magic Damage.
+    Guinevere gains Super Magic stacks each time she deals damage. At max stacks, her next Basic Attack becomes a guided attack, dealing 80 (+100% Total Physical Attack) (+90% Total Magic Power) Magic Damage and recovering 80 (+ 8% of her ).
+    Enemies hit by Guinevere's skills or enhanced Basic Attack are marked for 5s. Enemies with 3 marks are knocked airborne when hit by Violet Requiem.
+
+-   ![](/images/mlbb/skills/guinevere-1.webp)
+
+    **Energy Wave**Skill 1CD 4 s
+
+    Guinevere releases an energy orb in the target direction, dealing 300 (+125% Total Magic Power) Magic Damage and slowing enemies by 25% for 1.2s.
+    Successfully hitting an enemy reduces all her skill cooldowns by 1s.
+
+-   ![](/images/mlbb/skills/guinevere-2.webp)
+
+    **Spatial Migration**Skill 2CD 17 s
+
+    Guinevere leaps to the target location, dealing 250 (+80% Total Magic Power) Magic Damage. Enemy heroes and Creeps hit will be knocked airborne for 1s and take 125 (+50% Total Magic Power) additional Magic Damage.
+    Use Again: Guinevere blinks toward the target direction and leaves an illusion behind. If the illusion takes damage by hero, it restores Super Magic for Guinevere and explodes after 1.5s, dealing 100 (+30% Total Magic Power) Magic Damage to nearby enemies.
+
+-   ![](/images/mlbb/skills/guinevere-3.webp)
+
+    **Violet Requiem**UltimateCD 52 s
+
+    Guinevere creates a force field around her, gaining Control Immunity while attacking nearby enemies 11 times within 2s, dealing 880 (+385% Total Magic Power) Magic Damage in total.
+    Airborne enemies hit will be knocked airborne again, up to 8 additional times.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +102,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**EXP Lane**
 -   Among fighters**#12 of 44**
 -   In the EXP Lane**#14 of 42**
+-   Speciality**Burst, Magic Damage**
+-   Difficulty**Easy (40/100)**
 
 ## Who counters Guinevere
 
@@ -55,6 +116,12 @@ Guinevere loses to these heroes most often. The number under each icon is that h
 Guinevere is one of the toughest opponents for these heroes.
 
 [![Miya](/images/heroes/miya.webp)Miya49.71%](https://boostmlbb.ru/en/heroes/miya.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Wanwan](/images/heroes/wanwan.webp)Wanwan47.59%](https://boostmlbb.ru/en/heroes/wanwan.html)
+
+## Best teammates for Guinevere
+
+With these heroes on the same team Guinevere wins more often. The number is the gain in win rate, in percentage points.
+
+[![Sun](/images/heroes/sun.webp)Sun+1.86 pts](https://boostmlbb.ru/en/heroes/sun.html)[![Lukas](/images/heroes/lukas.webp)Lukas+1.66 pts](https://boostmlbb.ru/en/heroes/lukas.html)[![Masha](/images/heroes/masha.webp)Masha+1.66 pts](https://boostmlbb.ru/en/heroes/masha.html)[![Thamuz](/images/heroes/thamuz.webp)Thamuz+1.65 pts](https://boostmlbb.ru/en/heroes/thamuz.html)
 
 ## Win rate by rank
 
@@ -76,13 +143,15 @@ The strongest by win rate over the last 30 days.
 
 [![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
-## Lore and skills
+## Lore
 
 ![Guinevere](/images/heroes/guinevere.webp)
 
-Guinevere’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=80)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Guinevere)
+Guinevere’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=80)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=80)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Guinevere)
 
 ## Boost on Guinevere
 
@@ -90,7 +159,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +178,9 @@ Fighter, played in the EXP Lane.
 Is Guinevere strong in the current meta?
 
 Tier A: #39 of 133 heroes by 30-day win rate and #12 among fighters.
+
+What is the best build for Guinevere?
+
+The most popular ranked build: Concentrated Energy, Brute Force Breastplate and Queen's Wings as core items, the Mage emblem with Thrill, Bargain Hunter and Temporal Reign, and Flicker. It wins 56.61% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

@@ -1,6 +1,6 @@
 ---
-title: "Zilong MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Zilong in Mobile Legends: fighter and assassin, EXP Lane, 46.27% win rate, tier D, pick and ban rates from official 30-day statistics."
+title: "Zilong MLBB: build, counters and skills | MLBB Boost"
+description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 46.27% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier D
 
-# Zilong in Mobile Legends: counters and stats
+# Zilong in Mobile Legends: build, counters and stats
 
 Fighter and assassin, EXP Lane. Wins 46.27% of matches over the last 30 days: #123 of 133 heroes.
 
@@ -35,6 +35,64 @@ Win rate, 30 days**46.27%**
 
 **44.40%**wins in Mythical Glory
 
+## Zilong build
+
+The most picked setup for EXP Lane Zilong in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/2014.webp)Sky Piercer![](/images/mlbb/items/3012.webp)Rose Gold Meteor
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/112.webp)Swift![](/images/mlbb/talents/521.webp)Master Assassin![](/images/mlbb/talents/531.webp)Killing Spree
+
+Battle spell
+
+![](/images/mlbb/spells/20030.webp)Inspire
+
+Wins with this build **53.04%**Picked in **3.04%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20030.webp)Inspire![](/images/mlbb/emblems/20005.webp)AssassinFatal · Master Assassin · Killing Spree**52.97%**
+-   ![](/images/mlbb/spells/20030.webp)Inspire![](/images/mlbb/emblems/20007.webp)FighterFatal · Master Assassin · War Cry**52.77%**
+
+## Zilong skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Supreme Warrior** → **Spear Strike** → **Spear Flip**
+
+-   ![](/images/mlbb/skills/zilong-0.webp)
+
+    **Dragon Flurry**Passive
+
+    After dealing damage 3 time(s) with Basic Attacks or skills, Zilong triggers Dragon Flurry on the next Basic Attack, hitting the target 3 time(s). Each hit deals 80 (+30% Total Physical Attack) Basic Attack Damage and heals himself for 50 (+20% Total Physical Attack) HP.
+    Zilong's Basic Attack deals 100 (+80% Total Physical Attack) Physical Damage.
+    If the target's HP is below 50%, all damage dealt by Zilong's skills and Basic Attacks is increased by 30.
+
+-   ![](/images/mlbb/skills/zilong-1.webp)
+
+    **Spear Flip**Skill 1CD 12 Mana Cost: 80 s
+
+    Zilong flings the target enemy over his head, dealing 250 (+80% Total Physical Attack) Physical Damage.
+
+-   ![](/images/mlbb/skills/zilong-2.webp)
+
+    **Spear Strike**Skill 2CD 12 Mana Cost: 40 s
+
+    Zilong lunges at the target enemy, dealing 250 (+60% Total Physical Attack) Physical Damage and reducing their by 15 for 2s.
+    The cooldown of Spear Strike is reset each time Zilong kills an enemy.
+
+-   ![](/images/mlbb/skills/zilong-3.webp)
+
+    **Supreme Warrior**UltimateCD 35 Mana Cost: 120 s
+
+    Zilong removes all slow effects on himself and gains 40% Movement Speed, 35% Attack Speed, and Slow Immunity for 7.5s.
+    During this time, Dragon Flurry triggers every 2 attacks (instead of the previous 3).
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -44,6 +102,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Among fighters**#42 of 44**
 -   Among assassins**#26 of 29**
 -   In the EXP Lane**#40 of 42**
+-   Speciality**Chase, Damage**
+-   Difficulty**Easy (10/100)**
 
 ## Who counters Zilong
 
@@ -56,6 +116,12 @@ Zilong loses to these heroes most often. The number under each icon is that hero
 Zilong is one of the toughest opponents for these heroes.
 
 [![Tigreal](/images/heroes/tigreal.webp)Tigreal45.22%](https://boostmlbb.ru/en/heroes/tigreal.html)[![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Belerick](/images/heroes/belerick.webp)Belerick51.83%](https://boostmlbb.ru/en/heroes/belerick.html)[![Zetian](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![Badang](/images/heroes/badang.webp)Badang50.19%](https://boostmlbb.ru/en/heroes/badang.html)[![Johnson](/images/heroes/johnson.webp)Johnson49.25%](https://boostmlbb.ru/en/heroes/johnson.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Hylos](/images/heroes/hylos.webp)Hylos48.55%](https://boostmlbb.ru/en/heroes/hylos.html)[![Chip](/images/heroes/chip.webp)Chip47.60%](https://boostmlbb.ru/en/heroes/chip.html)
+
+## Best teammates for Zilong
+
+With these heroes on the same team Zilong wins more often. The number is the gain in win rate, in percentage points.
+
+[![Gloo](/images/heroes/gloo.webp)Gloo+2.92 pts](https://boostmlbb.ru/en/heroes/gloo.html)[![Belerick](/images/heroes/belerick.webp)Belerick+2.91 pts](https://boostmlbb.ru/en/heroes/belerick.html)[![Hilda](/images/heroes/hilda.webp)Hilda+2.26 pts](https://boostmlbb.ru/en/heroes/hilda.html)[![Tigreal](/images/heroes/tigreal.webp)Tigreal+1.97 pts](https://boostmlbb.ru/en/heroes/tigreal.html)
 
 ## Win rate by rank
 
@@ -77,13 +143,15 @@ The strongest by win rate over the last 30 days.
 
 [![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
-## Lore and skills
+## Lore
 
 ![Zilong](/images/heroes/zilong.webp)
 
-Zilong’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=16)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zilong)
+Zilong’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://play.mobilelegends.com/lore/hero/Zilong)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=16)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Zilong)
 
 ## Boost on Zilong
 
@@ -91,7 +159,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -110,5 +178,9 @@ Fighter and assassin, played in the EXP Lane.
 Is Zilong strong in the current meta?
 
 Tier D: #123 of 133 heroes by 30-day win rate and #42 among fighters.
+
+What is the best build for Zilong?
+
+The most popular ranked build: Corrosion Scythe, Sky Piercer and Rose Gold Meteor as core items, the Fighter emblem with Swift, Master Assassin and Killing Spree, and Inspire. It wins 53.04% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

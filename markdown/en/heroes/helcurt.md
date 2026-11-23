@@ -1,6 +1,6 @@
 ---
-title: "Helcurt MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Helcurt in Mobile Legends: assassin, Jungle or Roam, 47.63% win rate, tier C, pick and ban rates from official 30-day statistics."
+title: "Helcurt MLBB: build, counters and skills | MLBB Boost"
+description: "Helcurt in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 47.63% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/helcurt.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier C
 
-# Helcurt in Mobile Legends: counters and stats
+# Helcurt in Mobile Legends: build, counters and stats
 
 Assassin, Jungle or Roam. Wins 47.63% of matches over the last 30 days: #111 of 133 heroes.
 
@@ -35,6 +35,66 @@ Win rate, 30 days**47.63%**
 
 **46.26%**wins in Mythical Glory
 
+## Helcurt build
+
+The most picked setup for jungle Helcurt in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/3007.webp)Blade of the Heptaseas![](/images/mlbb/items/2006.webp)Demon Hunter Sword
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/122.webp)Seasoned Hunter![](/images/mlbb/talents/631.webp)Lethal Ignition
+
+Battle spell
+
+![](/images/mlbb/spells/20020.webp)Retribution
+
+Wins with this build **54.17%**Picked in **4.83%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinRupture · Seasoned Hunter · Lethal Ignition**53.23%**
+-   ![](/images/mlbb/spells/20020.webp)Retribution![](/images/mlbb/emblems/20005.webp)AssassinRupture · Master Assassin · Lethal Ignition**51.89%**
+
+## Helcurt skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Dark Night Falls** → **Deadly Stinger** → **Hidden Terror**
+
+-   ![](/images/mlbb/skills/helcurt-0.webp)
+
+    **Shadow of Styx**Passive
+
+    Helcurt remains in Prowler state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating (+30% Total Physical Attack) HP if he has not dealt any damage.
+    He gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4s upon being spotted and leaves Prowler state 0.75s later.
+    Any hero killed after being hit by Helcurt leaves a dark fog that explodes and spreads with a cooldown of 10s. Helcurt Conceals himself while within the dark fog.
+
+-   ![](/images/mlbb/skills/helcurt-1.webp)
+
+    **Hidden Terror**Skill 1CD 15 s
+
+    Passive: When Helcurt is in the Prowler state, Terrify also affects enemy heroes hit and briefly reveals them. Its cooldown decreases 3 times as fast as normal.
+    Active: Helcurt blinks to the target location and deals 150 (+70% Total Physical Attack) Physical Damage to enemies in the area, reducing their Movement Speed by 60% for 0.75s.
+
+-   ![](/images/mlbb/skills/helcurt-2.webp)
+
+    **Deadly Stinger**Skill 2CD 4 s
+
+    Passive: Helcurt gains 1 Deadly Stinger for every 1.5s spent in Prowler state or on each Basic Attack. Up to 5 Deadly Stingers can be stored.
+    Active: Helcurt fires all Deadly Stingers forward, each dealing 180 (+50% Extra Physical Attack) Physical Damage to enemies (minions and creeps take only 70% of the damage).
+    Deadly Stinger counts as a Basic Attack but cannot Crit.
+
+-   ![](/images/mlbb/skills/helcurt-3.webp)
+
+    **Dark Night Falls**UltimateCD 60 s
+
+    Helcurt summons the Dark Night, reducing all enemies' sight range and blocking ally vision sharing for 3s. During Dark Night, Helcurt gains 40% extra Movement Speed.
+    The Dark Night makes it easier for Helcurt to leave enemies' sight range.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -44,6 +104,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Among assassins**#24 of 29**
 -   In the jungle**#32 of 37**
 -   On roam**#26 of 34**
+-   Speciality**Push, Burst**
+-   Difficulty**Easy (40/100)**
 
 ## Who counters Helcurt
 
@@ -56,6 +118,12 @@ Helcurt loses to these heroes most often. The number under each icon is that her
 Helcurt is one of the toughest opponents for these heroes.
 
 [![Obsidia](/images/heroes/obsidia.webp)Obsidia53.20%](https://boostmlbb.ru/en/heroes/obsidia.html)[![Eudora](/images/heroes/eudora.webp)Eudora50.35%](https://boostmlbb.ru/en/heroes/eudora.html)[![Zetian](/images/heroes/zetian.webp)Zetian50.89%](https://boostmlbb.ru/en/heroes/zetian.html)[![Paquito](/images/heroes/paquito.webp)Paquito50.03%](https://boostmlbb.ru/en/heroes/paquito.html)[![Karina](/images/heroes/karina.webp)Karina48.60%](https://boostmlbb.ru/en/heroes/karina.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Kalea](/images/heroes/kalea.webp)Kalea50.44%](https://boostmlbb.ru/en/heroes/kalea.html)[![Hilda](/images/heroes/hilda.webp)Hilda51.07%](https://boostmlbb.ru/en/heroes/hilda.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Aldous](/images/heroes/aldous.webp)Aldous51.86%](https://boostmlbb.ru/en/heroes/aldous.html)
+
+## Best teammates for Helcurt
+
+With these heroes on the same team Helcurt wins more often. The number is the gain in win rate, in percentage points.
+
+[![Akai](/images/heroes/akai.webp)Akai+2.70 pts](https://boostmlbb.ru/en/heroes/akai.html)[![Gloo](/images/heroes/gloo.webp)Gloo+2.63 pts](https://boostmlbb.ru/en/heroes/gloo.html)[![Belerick](/images/heroes/belerick.webp)Belerick+2.62 pts](https://boostmlbb.ru/en/heroes/belerick.html)[![Khufra](/images/heroes/khufra.webp)Khufra+2.60 pts](https://boostmlbb.ru/en/heroes/khufra.html)
 
 ## Win rate by rank
 
@@ -77,13 +145,15 @@ The strongest by win rate over the last 30 days.
 
 [![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Ling](/images/heroes/ling.webp)Ling52.54%](https://boostmlbb.ru/en/heroes/ling.html)[![Popol and Kupa](/images/heroes/popol-and-kupa.webp)Popol and Kupa52.09%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![Lukas](/images/heroes/lukas.webp)Lukas51.97%](https://boostmlbb.ru/en/heroes/lukas.html)[![Bane](/images/heroes/bane.webp)Bane51.61%](https://boostmlbb.ru/en/heroes/bane.html)
 
-## Lore and skills
+## Lore
 
 ![Helcurt](/images/heroes/helcurt.webp)
 
-Helcurt’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«The nightmare of the Abyss who's willing to betray anyone in order to survive.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=51)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Helcurt)
+Helcurt’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://play.mobilelegends.com/lore/hero/HelcurtRE)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=51)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Helcurt)
 
 ## Boost on Helcurt
 
@@ -91,7 +161,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -110,5 +180,9 @@ Assassin, played in the jungle or on roam.
 Is Helcurt strong in the current meta?
 
 Tier C: #111 of 133 heroes by 30-day win rate and #24 among assassins.
+
+What is the best build for Helcurt?
+
+The most popular ranked build: Corrosion Scythe, Blade of the Heptaseas and Demon Hunter Sword as core items, the Assassin emblem with Rupture, Seasoned Hunter and Lethal Ignition, and Retribution. It wins 54.17% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

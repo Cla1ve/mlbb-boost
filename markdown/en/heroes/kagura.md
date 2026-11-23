@@ -1,6 +1,6 @@
 ---
-title: "Kagura MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Kagura in Mobile Legends: mage, Mid Lane, 51.09% win rate, tier A, pick and ban rates from official 30-day statistics."
+title: "Kagura MLBB: build, counters and skills | MLBB Boost"
+description: "Kagura in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.09% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier A
 
-# Kagura in Mobile Legends: counters and stats
+# Kagura in Mobile Legends: build, counters and stats
 
 Mage, Mid Lane. Wins 51.09% of matches over the last 30 days: #42 of 133 heroes.
 
@@ -35,6 +35,61 @@ Win rate, 30 days**51.09%**
 
 **50.64%**wins in Mythical Glory
 
+## Kagura build
+
+The most picked setup for Mid Lane Kagura in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/3111.webp)Genius Wand![](/images/mlbb/items/3101.webp)Divine Glaive![](/images/mlbb/items/3110.webp)Lightning Truncheon
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20005.webp)Assassin![](/images/mlbb/talents/511.webp)Rupture![](/images/mlbb/talents/1221.webp)Weapons Master![](/images/mlbb/talents/631.webp)Lethal Ignition
+
+Battle spell
+
+![](/images/mlbb/spells/20140.webp)Flameshot
+
+Wins with this build **58.00%**Picked in **1.39%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20140.webp)Flameshot![](/images/mlbb/emblems/20005.webp)AssassinRupture · Bargain Hunter · Lethal Ignition**54.78%**
+-   ![](/images/mlbb/spells/20140.webp)Flameshot![](/images/mlbb/emblems/20005.webp)AssassinRupture · Weapons Master · Impure Rage**55.46%**
+
+## Kagura skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Yin Yang Overturn** → **Seimei Umbrella Open** → **Rasho Umbrella Flee**
+
+-   ![](/images/mlbb/skills/kagura-0.webp)
+
+    **Yin Yang Gathering** Passive
+
+    Upon retrieving the Seimei Umbrella, Kagura gains a 450 (+80% Total Magic Power) shield, stuns nearby enemies for 0.5s, and slows them by 60% for 1s. Cooldown: 4.5s.
+
+-   ![](/images/mlbb/skills/kagura-1.webp)
+
+    **Seimei Umbrella Open** Skill 1CD 5 Mana Cost: 45 s
+
+    Kagura sends the Seimei Umbrella to the target location, dealing 365 (+105% Total Magic Power) Magic Damage to enemies in its path and slowing them by 60% for 0.5s. The Umbrella will automatically return to Kagura when she's too far away.
+    This skill deals 130% damage to non-hero enemies.
+
+-   ![](/images/mlbb/skills/kagura-2.webp)
+
+    **Rasho Umbrella Flee**Skill 2CD 12 Mana Cost: 55 s
+
+    Kagura removes all debuffs on her and leaps in the target direction, while leaving the Seimei Umbrella behind.
+
+-   ![](/images/mlbb/skills/kagura-3.webp)
+
+    **Yin Yang Overturn**UltimateCD 36 Mana Cost: 60 s
+
+    Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic Power) Magic Damage to nearby enemies, knocking them back, and slowing them by 60% for 0.5s.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +98,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**Mid Lane**
 -   Among mages**#9 of 32**
 -   In the Mid Lane**#8 of 29**
+-   Speciality**Poke, Finisher**
+-   Difficulty**Hard (90/100)**
 
 ## Who counters Kagura
 
@@ -55,6 +112,12 @@ Kagura loses to these heroes most often. The number under each icon is that hero
 Kagura is one of the toughest opponents for these heroes.
 
 [![Freya](/images/heroes/freya.webp)Freya49.32%](https://boostmlbb.ru/en/heroes/freya.html)
+
+## Best teammates for Kagura
+
+With these heroes on the same team Kagura wins more often. The number is the gain in win rate, in percentage points.
+
+[![Zhuxin](/images/heroes/zhuxin.webp)Zhuxin+9.48 pts](https://boostmlbb.ru/en/heroes/zhuxin.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops+2.35 pts](https://boostmlbb.ru/en/heroes/cyclops.html)[![Harley](/images/heroes/harley.webp)Harley+1.65 pts](https://boostmlbb.ru/en/heroes/harley.html)[![Granger](/images/heroes/granger.webp)Granger+1.47 pts](https://boostmlbb.ru/en/heroes/granger.html)
 
 ## Win rate by rank
 
@@ -76,13 +139,15 @@ The strongest by win rate over the last 30 days.
 
 [![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Cyclops](/images/heroes/cyclops.webp)Cyclops51.68%](https://boostmlbb.ru/en/heroes/cyclops.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)
 
-## Lore and skills
+## Lore
 
 ![Kagura](/images/heroes/kagura.webp)
 
-Kagura’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«A young spirit born of the deep longings stored within the Seimei Umbrella, she has finally stepped out of her dream, like a radiant bloom, in defiance of the dark night.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=25)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kagura)
+Kagura’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=25)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=25)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Kagura)
 
 ## Boost on Kagura
 
@@ -90,7 +155,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +174,9 @@ Mage, played in the Mid Lane.
 Is Kagura strong in the current meta?
 
 Tier A: #42 of 133 heroes by 30-day win rate and #9 among mages.
+
+What is the best build for Kagura?
+
+The most popular ranked build: Genius Wand, Divine Glaive and Lightning Truncheon as core items, the Assassin emblem with Rupture, Weapons Master and Lethal Ignition, and Flameshot. It wins 58.00% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

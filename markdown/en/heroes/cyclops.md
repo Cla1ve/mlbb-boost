@@ -1,6 +1,6 @@
 ---
-title: "Cyclops MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Cyclops in Mobile Legends: mage, Mid Lane, 51.68% win rate, tier A, pick and ban rates from official 30-day statistics."
+title: "Cyclops MLBB: build, counters and skills | MLBB Boost"
+description: "Cyclops in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.68% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier A
 
-# Cyclops in Mobile Legends: counters and stats
+# Cyclops in Mobile Legends: build, counters and stats
 
 Mage, Mid Lane. Wins 51.68% of matches over the last 30 days: #31 of 133 heroes.
 
@@ -35,6 +35,62 @@ Win rate, 30 days**51.68%**
 
 **50.76%**wins in Mythical Glory
 
+## Cyclops build
+
+The most picked setup for Mid Lane Cyclops in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/2106.webp)Enchanted Talisman![](/images/mlbb/items/3103.webp)Concentrated Energy![](/images/mlbb/items/3105.webp)Glowing Wand
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20006.webp)Mage![](/images/mlbb/talents/611.webp)Inspire![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/131.webp)Impure Rage
+
+Battle spell
+
+![](/images/mlbb/spells/20100.webp)Flicker
+
+Wins with this build **58.16%**Picked in **5.66%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageInspire · Festival of Blood · Impure Rage**61.83%**
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20006.webp)MageInspire · Seasoned Hunter · Impure Rage**57.47%**
+
+## Cyclops skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Star Power Lockdown** → **Planets Attack** → **Stardust Shock**
+
+-   ![](/images/mlbb/skills/cyclops-0.webp)
+
+    **Starlit Hourglass**Passive
+
+    Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s.
+
+-   ![](/images/mlbb/skills/cyclops-1.webp)
+
+    **Stardust Shock**Skill 1CD 7.5 Mana Cost: 50 s
+
+    Cyclops casts two Stardust Disks in the target direction, each dealing 240 (+60% Total Magic Power) Magic Damage to enemies in its path.
+
+-   ![](/images/mlbb/skills/cyclops-2.webp)
+
+    **Planets Attack**Skill 2CD 14 Mana Cost: 60 s
+
+    Cyclops conjures Starlit Spheres around himself, gaining 50% Movement Speed that decays over 2s.
+    The Starlit Spheres automatically seek and attack nearby enemies (prioritizing enemy heroes), and explode on contact to deal 200 (+65% Total Magic Power) Magic Damage.
+    Subsequent hits on the same target deal reduced damage.
+
+-   ![](/images/mlbb/skills/cyclops-3.webp)
+
+    **Star Power Lockdown**UltimateCD 26 Mana Cost: 60 s
+
+    Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, dealing 500 (+120% Total Magic Power) Magic Damage and immobilizing them for 0.75-1.5s (scales with Planetary Sphere's travel distance).
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +99,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**Mid Lane**
 -   Among mages**#5 of 32**
 -   In the Mid Lane**#5 of 29**
+-   Speciality**Damage, Control**
+-   Difficulty**Easy (40/100)**
 
 ## Who counters Cyclops
 
@@ -55,6 +113,12 @@ Cyclops loses to these heroes most often. The number under each icon is that her
 Cyclops is one of the toughest opponents for these heroes.
 
 [![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)[![Ixia](/images/heroes/ixia.webp)Ixia50.08%](https://boostmlbb.ru/en/heroes/ixia.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Lolita](/images/heroes/lolita.webp)Lolita53.30%](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Best teammates for Cyclops
+
+With these heroes on the same team Cyclops wins more often. The number is the gain in win rate, in percentage points.
+
+[![Novaria](/images/heroes/novaria.webp)Novaria+2.63 pts](https://boostmlbb.ru/en/heroes/novaria.html)[![Nana](/images/heroes/nana.webp)Nana+2.59 pts](https://boostmlbb.ru/en/heroes/nana.html)[![Kagura](/images/heroes/kagura.webp)Kagura+2.35 pts](https://boostmlbb.ru/en/heroes/kagura.html)[![Vale](/images/heroes/vale.webp)Vale+2.35 pts](https://boostmlbb.ru/en/heroes/vale.html)
 
 ## Win rate by rank
 
@@ -76,13 +140,15 @@ The strongest by win rate over the last 30 days.
 
 [![Valir](/images/heroes/valir.webp)Valir54.11%](https://boostmlbb.ru/en/heroes/valir.html)[![Gord](/images/heroes/gord.webp)Gord52.61%](https://boostmlbb.ru/en/heroes/gord.html)[![Zhask](/images/heroes/zhask.webp)Zhask52.54%](https://boostmlbb.ru/en/heroes/zhask.html)[![Yve](/images/heroes/yve.webp)Yve52.26%](https://boostmlbb.ru/en/heroes/yve.html)[![Xavier](/images/heroes/xavier.webp)Xavier51.68%](https://boostmlbb.ru/en/heroes/xavier.html)[![Kadita](/images/heroes/kadita.webp)Kadita51.30%](https://boostmlbb.ru/en/heroes/kadita.html)
 
-## Lore and skills
+## Lore
 
 ![Cyclops](/images/heroes/cyclops.webp)
 
-Cyclops’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«A celestial traveler in the universe.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=33)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cyclops)
+Cyclops’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=33)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=33)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cyclops)
 
 ## Boost on Cyclops
 
@@ -90,7 +156,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +175,9 @@ Mage, played in the Mid Lane.
 Is Cyclops strong in the current meta?
 
 Tier A: #31 of 133 heroes by 30-day win rate and #5 among mages.
+
+What is the best build for Cyclops?
+
+The most popular ranked build: Enchanted Talisman, Concentrated Energy and Glowing Wand as core items, the Mage emblem with Inspire, Festival of Blood and Impure Rage, and Flicker. It wins 58.16% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

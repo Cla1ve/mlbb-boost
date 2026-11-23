@@ -43,6 +43,13 @@ jobs:
         timeout-minutes: 8
         run: npm run heroes:refresh
 
+      # Builds, skills and teammates from the in-game Academy (Rone Arena API, ridwaanhall / RoneAI).
+      # The script skips itself when the data is younger than 3 days; failures keep the previous file.
+      - name: Refresh hero builds and skills
+        continue-on-error: true
+        timeout-minutes: 20
+        run: npm run heroes:academy
+
       - name: Build and validate public pages
         run: npm run site:prepare
 
@@ -61,7 +68,7 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- '*.html' en guides markdown content/public-data.json content/heroes.json content/site-pages.json content/translation-gaps.json js/prices.js js/review-stats.js js/i18n-seo.js .well-known llms.txt llms-full.txt news-sitemap.xml sitemap.xml news
+          git add -- '*.html' en guides markdown content/public-data.json content/heroes.json content/heroes-academy.json images/mlbb content/site-pages.json content/translation-gaps.json js/prices.js js/review-stats.js js/i18n-seo.js .well-known llms.txt llms-full.txt news-sitemap.xml sitemap.xml news
           git commit -m "chore(site): refresh public data, hero statistics and generated pages"
           git push origin HEAD:main
           # GITHUB_TOKEN commits do not trigger the default Pages build.

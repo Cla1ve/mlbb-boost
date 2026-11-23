@@ -1,6 +1,6 @@
 ---
-title: "Argus MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Argus in Mobile Legends: fighter, EXP Lane, 56.78% win rate, tier S, pick and ban rates from official 30-day statistics."
+title: "Argus MLBB: build, counters and skills | MLBB Boost"
+description: "Argus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 56.78% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier S
 
-# Argus in Mobile Legends: counters and stats
+# Argus in Mobile Legends: build, counters and stats
 
 Fighter, EXP Lane. Wins 56.78% of matches over the last 30 days: #3 of 133 heroes.
 
@@ -35,6 +35,65 @@ Win rate, 30 days**56.78%**
 
 **56.88%**wins in Mythical Glory
 
+## Argus build
+
+The most picked setup for EXP Lane Argus in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/3005.webp)Windtalker![](/images/mlbb/items/2008.webp)Corrosion Scythe![](/images/mlbb/items/3002.webp)Haas' Claws
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20012.webp)Marksman![](/images/mlbb/talents/1211.webp)Fatal![](/images/mlbb/talents/621.webp)Bargain Hunter![](/images/mlbb/talents/133.webp)War Cry
+
+Battle spell
+
+![](/images/mlbb/spells/20070.webp)Petrify
+
+Wins with this build **61.19%**Picked in **1.83%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20070.webp)Petrify![](/images/mlbb/emblems/20012.webp)MarksmanFatal · Bargain Hunter · Concussive Blast**65.34%**
+-   ![](/images/mlbb/spells/20070.webp)Petrify![](/images/mlbb/emblems/20012.webp)MarksmanFatal · Bargain Hunter · War Cry**68.82%**
+
+## Argus skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Eternal Evil** → **Meteoric Sword** → **Demonic Grip**
+
+-   ![](/images/mlbb/skills/argus-0.webp)
+
+    **Warmonger**Passive
+
+    Malice Energy grants Argus an initial Crit Chance of 30%. Instead of dealing normal critical damage, Argus's Crits are converted into Demonic Slash, which ignores 30% of the target's , deals 90 (+25% Total Physical Attack) Physical Damage to the target, and recovers 140 HP.
+    Demonic Slash cannot Crit, but can still trigger Crit-related effects.
+
+-   ![](/images/mlbb/skills/argus-1.webp)
+
+    **Demonic Grip**Skill 1CD 12 s
+
+    First Cast: Argus extends a demonic hand in the target direction, dealing 125 (+60% Extra Physical Attack) Physical Damage to the first enemy hero or creep hit and stunning them for 0.7s. Argus and the target are pulled toward each other, and the target is slowed by 40% for 2s. If no enemy is hit, Argus is pulled to the hand's endpoint instead.
+    Use Again: Argus dashes forward and performs a wide slash, dealing 175 (+100% Extra Physical Attack) Physical Damage to enemies in the area.
+
+-   ![](/images/mlbb/skills/argus-2.webp)
+
+    **Meteoric Sword**Skill 2CD 8 s
+
+    After a short charge, Argus thrusts his Meteoric Sword in the target direction, dealing 120 (+100% Total Physical Attack) Physical Damage to the target.
+    If this hits an enemy hero, Argus stuns them for 0.3s and gains 30% Attack Speed for 3s. Meteoric Sword's damage also gains a 40% boost to Crit Chance and Crit Damage.
+    Meteoric Sword counts as a Basic Attack and can trigger Attack Effects. Attack Speed shortens the charge time.
+
+-   ![](/images/mlbb/skills/argus-3.webp)
+
+    **Eternal Evil**UltimateCD 45 s
+
+    Argus removes all control effects, gains Death Immunity for 4s, and deals 150 (+50% Total Physical Attack) Physical Damage to nearby enemies. This damage increases as Argus's Current decreases, reaching 150% when it falls below 30%. When Death Immunity ends, Argus recovers HP equal to all damage dealt to enemy heroes during its duration.
+    Passive: If Argus takes fatal damage while Eternal Evil is not on cooldown, he removes all control effects and automatically enters Death Immunity without triggering AOE Damage.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +102,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**EXP Lane**
 -   Among fighters**#2 of 44**
 -   In the EXP Lane**#2 of 42**
+-   Speciality**Charge, Burst**
+-   Difficulty**Medium (60/100)**
 
 ## Who counters Argus
 
@@ -55,6 +116,12 @@ Argus loses to these heroes most often. The number under each icon is that hero�
 Argus is one of the toughest opponents for these heroes.
 
 [![Barats](/images/heroes/barats.webp)Barats51.67%](https://boostmlbb.ru/en/heroes/barats.html)[![Gatotkaca](/images/heroes/gatotkaca.webp)Gatotkaca45.35%](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![Terizla](/images/heroes/terizla.webp)Terizla50.60%](https://boostmlbb.ru/en/heroes/terizla.html)[![Lapu-Lapu](/images/heroes/lapu-lapu.webp)Lapu-Lapu48.08%](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![Ruby](/images/heroes/ruby.webp)Ruby49.12%](https://boostmlbb.ru/en/heroes/ruby.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
+
+## Best teammates for Argus
+
+With these heroes on the same team Argus wins more often. The number is the gain in win rate, in percentage points.
+
+[![Alice](/images/heroes/alice.webp)Alice+2.08 pts](https://boostmlbb.ru/en/heroes/alice.html)[![Gloo](/images/heroes/gloo.webp)Gloo+2.02 pts](https://boostmlbb.ru/en/heroes/gloo.html)[![Khaleed](/images/heroes/khaleed.webp)Khaleed+1.60 pts](https://boostmlbb.ru/en/heroes/khaleed.html)[![Masha](/images/heroes/masha.webp)Masha+1.35 pts](https://boostmlbb.ru/en/heroes/masha.html)
 
 ## Win rate by rank
 
@@ -76,13 +143,15 @@ The strongest by win rate over the last 30 days.
 
 [![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)[![Benedetta](/images/heroes/benedetta.webp)Benedetta52.10%](https://boostmlbb.ru/en/heroes/benedetta.html)
 
-## Lore and skills
+## Lore
 
 ![Argus](/images/heroes/argus.webp)
 
-Argus’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«The angel who fell from light into darkness.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=45)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Argus)
+Argus’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=45)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=45)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Argus)
 
 ## Boost on Argus
 
@@ -90,7 +159,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +178,9 @@ Fighter, played in the EXP Lane.
 Is Argus strong in the current meta?
 
 Tier S: #3 of 133 heroes by 30-day win rate and #2 among fighters.
+
+What is the best build for Argus?
+
+The most popular ranked build: Windtalker, Corrosion Scythe and Haas' Claws as core items, the Marksman emblem with Fatal, Bargain Hunter and War Cry, and Petrify. It wins 61.19% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

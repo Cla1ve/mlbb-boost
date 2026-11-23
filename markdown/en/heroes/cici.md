@@ -1,6 +1,6 @@
 ---
-title: "Cici MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Cici in Mobile Legends: fighter, EXP Lane, 49.38% win rate, tier B, pick and ban rates from official 30-day statistics."
+title: "Cici MLBB: build, counters and skills | MLBB Boost"
+description: "Cici in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.38% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/cici.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier B
 
-# Cici in Mobile Legends: counters and stats
+# Cici in Mobile Legends: build, counters and stats
 
 Fighter, EXP Lane. Wins 49.38% of matches over the last 30 days: #81 of 133 heroes.
 
@@ -35,6 +35,63 @@ Win rate, 30 days**49.38%**
 
 **48.93%**wins in Mythical Glory
 
+## Cici build
+
+The most picked setup for EXP Lane Cici in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/2013.webp)War Axe![](/images/mlbb/items/3208.webp)Brute Force Breastplate![](/images/mlbb/items/3009.webp)Hunter Strike
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20007.webp)Fighter![](/images/mlbb/talents/811.webp)Agility![](/images/mlbb/talents/721.webp)Festival of Blood![](/images/mlbb/talents/731.webp)Brave Smite
+
+Battle spell
+
+![](/images/mlbb/spells/20190.webp)Vengeance
+
+Wins with this build **59.02%**Picked in **7.46%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20190.webp)Vengeance![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · Brave Smite**58.65%**
+-   ![](/images/mlbb/spells/20100.webp)Flicker![](/images/mlbb/emblems/20007.webp)FighterThrill · Festival of Blood · Brave Smite**56.72%**
+
+## Cici skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Curtain Call** → **Yo-Yo Blitz** → **Buoyant Bounce**
+
+-   ![](/images/mlbb/skills/cici-0.webp)
+
+    **Performer's Delight**Passive
+
+    Cici generates a stack of Delight after dealing damage, increasing her Movement Speed by 0.75% and Spell Vamp by 1.25% per stack up to 10 times, doubling the effects at full stacks.
+
+-   ![](/images/mlbb/skills/cici-1.webp)
+
+    **Yo-Yo Blitz**Skill 1CD 6.5 s
+
+    Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5s, hitting them up to 10 times, and dealing Physical Damage equal to 65 plus 3.5 (+1.2% Extra Physical Attack)% of the target's per hit. Cici can move and use other skills during this attack.
+    If there is no enemy within range, Yoyo will attack Turrets or the Base instead.
+    This skill deals 20% extra damage to Minions.
+
+-   ![](/images/mlbb/skills/cici-2.webp)
+
+    **Buoyant Bounce**Skill 2CD 9.5 s
+
+    Cici leaps to a target location. If she lands on any unit (not including Turrets and Base), she can leap again in the Joystick's direction. If she lands on an enemy with the first leap, she deals 200 (+40% Total Physical Attack) Physical Damage to them.
+
+-   ![](/images/mlbb/skills/cici-3.webp)
+
+    **Curtain Call**UltimateCD 40 s
+
+    Cici throws Yoyo at the target enemy hero and links them with another nearby enemy hero, dealing 100 (+10% Total Physical Attack) Physical Damage, slowing them by 30%, and pulling them together for 4s.
+    During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the same time. If only one target is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced to 25%.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -43,6 +100,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Lane**EXP Lane**
 -   Among fighters**#26 of 44**
 -   In the EXP Lane**#25 of 42**
+-   Speciality**Damage, Regen**
+-   Difficulty**Easy (20/100)**
 
 ## Who counters Cici
 
@@ -55,6 +114,12 @@ Cici loses to these heroes most often. The number under each icon is that hero�
 Cici is one of the toughest opponents for these heroes.
 
 [![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Zilong](/images/heroes/zilong.webp)Zilong46.27%](https://boostmlbb.ru/en/heroes/zilong.html)[![Estes](/images/heroes/estes.webp)Estes52.75%](https://boostmlbb.ru/en/heroes/estes.html)[![Aamon](/images/heroes/aamon.webp)Aamon50.24%](https://boostmlbb.ru/en/heroes/aamon.html)[![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Arlott](/images/heroes/arlott.webp)Arlott47.49%](https://boostmlbb.ru/en/heroes/arlott.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)
+
+## Best teammates for Cici
+
+With these heroes on the same team Cici wins more often. The number is the gain in win rate, in percentage points.
+
+[![Alice](/images/heroes/alice.webp)Alice+2.27 pts](https://boostmlbb.ru/en/heroes/alice.html)[![Sun](/images/heroes/sun.webp)Sun+2.21 pts](https://boostmlbb.ru/en/heroes/sun.html)[![Bane](/images/heroes/bane.webp)Bane+1.56 pts](https://boostmlbb.ru/en/heroes/bane.html)[![Alpha](/images/heroes/alpha.webp)Alpha+1.47 pts](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ## Win rate by rank
 
@@ -76,13 +141,15 @@ The strongest by win rate over the last 30 days.
 
 [![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
-## Lore and skills
+## Lore
 
 ![Cici](/images/heroes/cici.webp)
 
-Cici’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«A cheerful performer who spreads fun and wonderment wherever she goes.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=123)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cici)
+Cici’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://play.mobilelegends.com/lore/hero/Cici)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=123)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Cici)
 
 ## Boost on Cici
 
@@ -90,7 +157,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -109,5 +176,9 @@ Fighter, played in the EXP Lane.
 Is Cici strong in the current meta?
 
 Tier B: #81 of 133 heroes by 30-day win rate and #26 among fighters.
+
+What is the best build for Cici?
+
+The most popular ranked build: War Axe, Brute Force Breastplate and Hunter Strike as core items, the Fighter emblem with Agility, Festival of Blood and Brave Smite, and Vengeance. It wins 59.02% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026

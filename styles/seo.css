@@ -333,3 +333,54 @@ a.lp-card::after { content: '→'; position: absolute; right: 18px; top: 50%; tr
   .lp-ptable tbody th { font-size: .78rem; }
   .lp-ptable__icons { display: none; }
 }
+
+/* Hero builds, skills and teammates (2026-11-23, data: MOONTON Academy via Rone Arena API). */
+.hb-card { display: grid; gap: 18px; padding: 22px; border-radius: 18px; background: linear-gradient(160deg, rgba(21,48,76,.85), rgba(13,33,54,.9)); border: 1px solid rgba(0,255,157,.22); }
+.hb-group { display: grid; gap: 10px; }
+.hb-label { color: #8fa3b8; font-size: .8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+.hb-row { display: flex; flex-wrap: wrap; gap: 10px; }
+.hb-token { display: inline-flex; align-items: center; gap: 10px; padding: 8px 14px 8px 8px; border-radius: 12px; background: rgba(255,255,255,.04); border: 1px solid rgba(255,255,255,.08); color: #fff; font-weight: 600; font-size: .95rem; line-height: 1.25; }
+.hb-token img { width: 40px; height: 40px; border-radius: 10px; object-fit: cover; flex: none; background: #0b1a2b; }
+.hb-token--emblem { border-color: rgba(0,255,157,.35); }
+.hb-token--small { font-size: .88rem; }
+.hb-token--small img { width: 32px; height: 32px; border-radius: 50%; }
+.hb-foot { display: flex; flex-wrap: wrap; gap: 8px 24px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,.08); color: #c8d2df; font-size: .95rem; }
+.hb-foot strong { color: #00ff9d; font-variant-numeric: tabular-nums; }
+.hb-alt { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.hb-alt li { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; padding: 10px 14px; border-radius: 14px; background: rgba(13,35,65,.6); border: 1px solid rgba(255,255,255,.06); }
+.hb-alt li .hb-token { padding: 4px 10px 4px 4px; font-size: .85rem; }
+.hb-alt li .hb-token img { width: 28px; height: 28px; }
+.hb-alt__talents { flex: 1 1 180px; color: #c8d2df; font-size: .88rem; }
+.hb-alt li strong { margin-left: auto; color: #00ff9d; font-variant-numeric: tabular-nums; }
+.hs-order { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 0 0 14px; padding: 12px 16px; border-radius: 12px; background: rgba(0,255,157,.07); border: 1px solid rgba(0,255,157,.2); color: #c8d2df; }
+.hs-order i { color: #00ff9d; }
+.hs-order strong { color: #fff; }
+.hs-skills { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.hs-skill { display: grid; grid-template-columns: 56px minmax(0, 1fr); gap: 16px; padding: 16px 18px; border-radius: 16px; background: rgba(13,35,65,.7); border: 1px solid rgba(255,255,255,.08); }
+.hs-skill img { width: 56px; height: 56px; border-radius: 14px; border: 1px solid rgba(0,255,157,.3); }
+.hs-skill__head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-bottom: 6px; }
+.hs-skill__head strong { color: #fff; font-size: 1.05rem; }
+.hs-skill__kind { color: #00ff9d; font-size: .8rem; font-weight: 700; }
+.hs-skill__cd, .hs-skill__tag { padding: 2px 8px; border-radius: 99px; background: rgba(255,255,255,.06); color: #a9c4dc; font-size: .76rem; }
+.hs-skill p { margin: 0; color: #c8d2df; font-size: .93rem; line-height: 1.6; max-width: none; }
+.hero-chip__value--plus { color: #00ff9d; }
+.lore-card__quote { margin: 0 0 8px; color: #fff; font-style: italic; font-size: 1.02rem; }
+@media (max-width: 560px) {
+  .hb-card { padding: 16px; }
+  .hb-token { font-size: .88rem; padding: 6px 10px 6px 6px; }
+  .hb-token img { width: 34px; height: 34px; }
+  .hs-skill { grid-template-columns: 44px minmax(0, 1fr); gap: 12px; padding: 14px; }
+  .hs-skill img { width: 44px; height: 44px; }
+}
+.hi-items { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+@media (max-width: 980px) { .hi-items { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 620px) { .hi-items { grid-template-columns: 1fr; } }
+.hi-item { display: grid; grid-template-columns: 48px minmax(0, 1fr); gap: 4px 14px; align-items: center; padding: 14px 16px; border-radius: 16px; background: rgba(13,35,65,.7); border: 1px solid rgba(255,255,255,.08); }
+.hi-item > img { width: 48px; height: 48px; border-radius: 12px; grid-row: span 2; }
+.hi-item__body strong { display: block; color: #fff; }
+.hi-item__body span { color: #8fa3b8; font-size: .86rem; }
+.hi-item__heroes { display: flex; gap: 6px; }
+.hi-item__heroes img { width: 30px; height: 30px; border-radius: 8px; object-fit: cover; }
+@media (max-width: 400px) { .hi-items { grid-template-columns: 1fr; } }
+.lp-section p.hs-order { max-width: none; }
+.hb-card + .hero-group__title { margin-top: 24px; }

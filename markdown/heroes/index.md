@@ -1,6 +1,6 @@
 ---
-title: "Тир-лист MLBB: все 133 героя, роли, линии и контрпики | MLBB Boost"
-description: "Тир-лист Mobile Legends по официальной статистике MOONTON за 30 дней: лучшие герои каждой роли и линии, процент побед и страница с контрпиками для всех 133 героев."
+title: "Тир-лист MLBB: все 133 героя, сборки и контрпики | MLBB Boost"
+description: "Тир-лист Mobile Legends по официальной статистике MOONTON за 30 дней: лучшие герои каждой роли и линии, популярные сборки, навыки и контрпики для всех 133 героев."
 canonical: https://boostmlbb.ru/heroes/
 language: ru
 ---
@@ -9,9 +9,9 @@ language: ru
 
 133 героя
 
-# Тир-лист MLBB и статистика всех героев
+# Тир-лист MLBB, сборки и статистика героев
 
-Все 133 героя по тирам, ролям и линиям с официальным процентом побед. Откройте героя, чтобы увидеть, кто его контрит и против кого он силён.
+Все 133 героя по тирам, ролям и линиям с официальным процентом побед. На странице героя — сборка, навыки, контрпики и лучшие союзники.
 
 [Цена буста на герое](https://boostmlbb.ru/order.html?type=hero)[Тир-лист ноября](https://boostmlbb.ru/news/mlbb-meta-tier-list/)
 
@@ -66,6 +66,83 @@ language: ru
 ### Роум
 
 [![Марсель](/images/heroes/marcel.webp)Марсель57,46%](https://boostmlbb.ru/heroes/marcel.html)[![Хуфра](/images/heroes/khufra.webp)Хуфра54,72%](https://boostmlbb.ru/heroes/khufra.html)[![Рафаэль](/images/heroes/rafaela.webp)Рафаэль54,51%](https://boostmlbb.ru/heroes/rafaela.html)[![Дигги](/images/heroes/diggie.webp)Дигги54,30%](https://boostmlbb.ru/heroes/diggie.html)[![Флорин](/images/heroes/floryn.webp)Флорин54,07%](https://boostmlbb.ru/heroes/floryn.html)[![Минотавр](/images/heroes/minotaur.webp)Минотавр53,77%](https://boostmlbb.ru/heroes/minotaur.html)
+
+## Самые частые предметы в сборках
+
+У скольких из 133 героев предмет входит в три ключевых предмета самой популярной сборки в рейтинге. Полная сборка — на странице каждого героя.
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    **Господство льда**ключевой предмет у 24 героев
+
+    [![Тигрил](/images/heroes/tigreal.webp)](https://boostmlbb.ru/heroes/tigreal.html "Тигрил")[![Белерик](/images/heroes/belerick.webp)](https://boostmlbb.ru/heroes/belerick.html "Белерик")[![Кармилла](/images/heroes/carmilla.webp)](https://boostmlbb.ru/heroes/carmilla.html "Кармилла")[![Минотавр](/images/heroes/minotaur.webp)](https://boostmlbb.ru/heroes/minotaur.html "Минотавр")[![Атлас](/images/heroes/atlas.webp)](https://boostmlbb.ru/heroes/atlas.html "Атлас")
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    **Топор войны**ключевой предмет у 23 героев
+
+    [![Дариус](/images/heroes/dyrroth.webp)](https://boostmlbb.ru/heroes/dyrroth.html "Дариус")[![Альфа](/images/heroes/alpha.webp)](https://boostmlbb.ru/heroes/alpha.html "Альфа")[![Су Ё](/images/heroes/suyou.webp)](https://boostmlbb.ru/heroes/suyou.html "Су Ё")[![Сабер](/images/heroes/saber.webp)](https://boostmlbb.ru/heroes/saber.html "Сабер")[![Фрейя](/images/heroes/freya.webp)](https://boostmlbb.ru/heroes/freya.html "Фрейя")
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    **Пронзающий небеса**ключевой предмет у 23 героев
+
+    [![Обсидия](/images/heroes/obsidia.webp)](https://boostmlbb.ru/heroes/obsidia.html "Обсидия")[![Эйдора](/images/heroes/eudora.webp)](https://boostmlbb.ru/heroes/eudora.html "Эйдора")[![Грейнджер](/images/heroes/granger.webp)](https://boostmlbb.ru/heroes/granger.html "Грейнджер")[![Су Ё](/images/heroes/suyou.webp)](https://boostmlbb.ru/heroes/suyou.html "Су Ё")[![Ли Сун-Син](/images/heroes/yi-sun-shin.webp)](https://boostmlbb.ru/heroes/yi-sun-shin.html "Ли Сун-Син")
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    **Пылающий жезл**ключевой предмет у 21 героев
+
+    [![Ангела](/images/heroes/angela.webp)](https://boostmlbb.ru/heroes/angela.html "Ангела")[![Цзэтянь](/images/heroes/zetian.webp)](https://boostmlbb.ru/heroes/zetian.html "Цзэтянь")[![Вексана](/images/heroes/vexana.webp)](https://boostmlbb.ru/heroes/vexana.html "Вексана")[![Валир](/images/heroes/valir.webp)](https://boostmlbb.ru/heroes/valir.html "Валир")[![Новария](/images/heroes/novaria.webp)](https://boostmlbb.ru/heroes/novaria.html "Новария")
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    **Коса коррозии**ключевой предмет у 15 героев
+
+    [![Ханаби](/images/heroes/hanabi.webp)](https://boostmlbb.ru/heroes/hanabi.html "Ханаби")[![Сан](/images/heroes/sun.webp)](https://boostmlbb.ru/heroes/sun.html "Сан")[![Москов](/images/heroes/moskov.webp)](https://boostmlbb.ru/heroes/moskov.html "Москов")[![Тамуз](/images/heroes/thamuz.webp)](https://boostmlbb.ru/heroes/thamuz.html "Тамуз")[![Клауд](/images/heroes/claude.webp)](https://boostmlbb.ru/heroes/claude.html "Клауд")
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    **Удар охотника**ключевой предмет у 15 героев
+
+    [![Нолан](/images/heroes/nolan.webp)](https://boostmlbb.ru/heroes/nolan.html "Нолан")[![Дариус](/images/heroes/dyrroth.webp)](https://boostmlbb.ru/heroes/dyrroth.html "Дариус")[![Грейнджер](/images/heroes/granger.webp)](https://boostmlbb.ru/heroes/granger.html "Грейнджер")[![Пакито](/images/heroes/paquito.webp)](https://boostmlbb.ru/heroes/paquito.html "Пакито")[![Су Ё](/images/heroes/suyou.webp)](https://boostmlbb.ru/heroes/suyou.html "Су Ё")
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    **Жезл молний**ключевой предмет у 15 героев
+
+    [![Эйдора](/images/heroes/eudora.webp)](https://boostmlbb.ru/heroes/eudora.html "Эйдора")[![Нана](/images/heroes/nana.webp)](https://boostmlbb.ru/heroes/nana.html "Нана")[![Цзэтянь](/images/heroes/zetian.webp)](https://boostmlbb.ru/heroes/zetian.html "Цзэтянь")[![Селена](/images/heroes/selena.webp)](https://boostmlbb.ru/heroes/selena.html "Селена")[![Вексана](/images/heroes/vexana.webp)](https://boostmlbb.ru/heroes/vexana.html "Вексана")
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    **Крылья королевы**ключевой предмет у 14 героев
+
+    [![Альфа](/images/heroes/alpha.webp)](https://boostmlbb.ru/heroes/alpha.html "Альфа")[![Гвиневра](/images/heroes/guinevere.webp)](https://boostmlbb.ru/heroes/guinevere.html "Гвиневра")[![Тамуз](/images/heroes/thamuz.webp)](https://boostmlbb.ru/heroes/thamuz.html "Тамуз")[![Лукас](/images/heroes/lukas.webp)](https://boostmlbb.ru/heroes/lukas.html "Лукас")[![Бартс](/images/heroes/barats.webp)](https://boostmlbb.ru/heroes/barats.html "Бартс")
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    **Штормовой пояс**ключевой предмет у 12 героев
+
+    [![Белерик](/images/heroes/belerick.webp)](https://boostmlbb.ru/heroes/belerick.html "Белерик")[![Баданг](/images/heroes/badang.webp)](https://boostmlbb.ru/heroes/badang.html "Баданг")[![Кайя](/images/heroes/kaja.webp)](https://boostmlbb.ru/heroes/kaja.html "Кайя")[![Хильда](/images/heroes/hilda.webp)](https://boostmlbb.ru/heroes/hilda.html "Хильда")[![Гатоткача](/images/heroes/gatotkaca.webp)](https://boostmlbb.ru/heroes/gatotkaca.html "Гатоткача")
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    **Палочка гения**ключевой предмет у 12 героев
+
+    [![Эйдора](/images/heroes/eudora.webp)](https://boostmlbb.ru/heroes/eudora.html "Эйдора")[![Нана](/images/heroes/nana.webp)](https://boostmlbb.ru/heroes/nana.html "Нана")[![Госсен](/images/heroes/gusion.webp)](https://boostmlbb.ru/heroes/gusion.html "Госсен")[![Сильвана](/images/heroes/silvanna.webp)](https://boostmlbb.ru/heroes/silvanna.html "Сильвана")[![Харли](/images/heroes/harley.webp)](https://boostmlbb.ru/heroes/harley.html "Харли")
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    **Злобный рык**ключевой предмет у 11 героев
+
+    [![Нолан](/images/heroes/nolan.webp)](https://boostmlbb.ru/heroes/nolan.html "Нолан")[![Грейнджер](/images/heroes/granger.webp)](https://boostmlbb.ru/heroes/granger.html "Грейнджер")[![Пакито](/images/heroes/paquito.webp)](https://boostmlbb.ru/heroes/paquito.html "Пакито")[![Чу](/images/heroes/chou.webp)](https://boostmlbb.ru/heroes/chou.html "Чу")[![Хаябуса](/images/heroes/hayabusa.webp)](https://boostmlbb.ru/heroes/hayabusa.html "Хаябуса")
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    **Говорящий с ветром**ключевой предмет у 11 героев
+
+    [![Обсидия](/images/heroes/obsidia.webp)](https://boostmlbb.ru/heroes/obsidia.html "Обсидия")[![Мия](/images/heroes/miya.webp)](https://boostmlbb.ru/heroes/miya.html "Мия")[![Лейла](/images/heroes/layla.webp)](https://boostmlbb.ru/heroes/layla.html "Лейла")[![Сан](/images/heroes/sun.webp)](https://boostmlbb.ru/heroes/sun.html "Сан")[![Джулиан](/images/heroes/julian.webp)](https://boostmlbb.ru/heroes/julian.html "Джулиан")
+
 
 ## Тир-лист всех 133 героев
 

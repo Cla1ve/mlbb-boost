@@ -25,7 +25,9 @@ const config = JSON.parse(await read('content/seo-pages.json'));
 const heroesData = JSON.parse(await read('content/heroes.json'));
 const HOME_NEWS_SLUG = 'msc-2026-playoff-schedule';
 const newsPosts = JSON.parse(await read('content/news/posts.json')).posts.filter(post => post.status === 'published');
-config.guides.push(...heroGuides(heroesData));
+// Builds, skills and teammates (scripts/heroes-academy.mjs); pages still build without it.
+const academyData = await read('content/heroes-academy.json').then(JSON.parse).catch(() => null);
+config.guides.push(...heroGuides(heroesData, academyData));
 const data = JSON.parse(await read('content/public-data.json'));
 const changedDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Moscow', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(data.checkedAt));
 const context = vm.createContext({ window: { MLBB_DICT: {} } });
@@ -429,7 +431,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '43' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '44' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

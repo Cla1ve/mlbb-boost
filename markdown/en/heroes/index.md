@@ -1,6 +1,6 @@
 ---
-title: "MLBB tier list: all 133 heroes, roles, lanes and counters | MLBB Boost"
-description: "Mobile Legends tier list from official MOONTON 30-day statistics: the best heroes of each role and lane, win rates and a counters page for all 133 heroes."
+title: "MLBB tier list: all 133 heroes, builds and counters | MLBB Boost"
+description: "Mobile Legends tier list from official MOONTON 30-day statistics: the best heroes of each role and lane, popular builds, skills and counters for all 133 heroes."
 canonical: https://boostmlbb.ru/en/heroes/
 language: en
 ---
@@ -9,9 +9,9 @@ language: en
 
 133 heroes
 
-# MLBB tier list and every hero’s stats
+# MLBB tier list, builds and every hero’s stats
 
-All 133 heroes by tier, role and lane with official win rates. Open a hero to see who counters it and who it beats.
+All 133 heroes by tier, role and lane with official win rates. Open a hero for its build, skills, counters and best teammates.
 
 [Hero boost price](https://boostmlbb.ru/en/order.html?type=hero)[November tier list](https://boostmlbb.ru/en/news/mlbb-meta-tier-list/)
 
@@ -66,6 +66,83 @@ The same ranking split by the lanes MOONTON lists for each hero.
 ### Roam
 
 [![Marcel](/images/heroes/marcel.webp)Marcel57.46%](https://boostmlbb.ru/en/heroes/marcel.html)[![Khufra](/images/heroes/khufra.webp)Khufra54.72%](https://boostmlbb.ru/en/heroes/khufra.html)[![Rafaela](/images/heroes/rafaela.webp)Rafaela54.51%](https://boostmlbb.ru/en/heroes/rafaela.html)[![Diggie](/images/heroes/diggie.webp)Diggie54.30%](https://boostmlbb.ru/en/heroes/diggie.html)[![Floryn](/images/heroes/floryn.webp)Floryn54.07%](https://boostmlbb.ru/en/heroes/floryn.html)[![Minotaur](/images/heroes/minotaur.webp)Minotaur53.77%](https://boostmlbb.ru/en/heroes/minotaur.html)
+
+## The most common items in builds
+
+How many of the 133 heroes have the item among the three core items of their most popular ranked build. Open a hero to see the whole build.
+
+-   ![](/images/mlbb/items/3206.webp)
+
+    **Dominance Ice**core item for 24 heroes
+
+    [![Tigreal](/images/heroes/tigreal.webp)](https://boostmlbb.ru/en/heroes/tigreal.html "Tigreal")[![Belerick](/images/heroes/belerick.webp)](https://boostmlbb.ru/en/heroes/belerick.html "Belerick")[![Carmilla](/images/heroes/carmilla.webp)](https://boostmlbb.ru/en/heroes/carmilla.html "Carmilla")[![Minotaur](/images/heroes/minotaur.webp)](https://boostmlbb.ru/en/heroes/minotaur.html "Minotaur")[![Atlas](/images/heroes/atlas.webp)](https://boostmlbb.ru/en/heroes/atlas.html "Atlas")
+
+-   ![](/images/mlbb/items/2013.webp)
+
+    **War Axe**core item for 23 heroes
+
+    [![Dyrroth](/images/heroes/dyrroth.webp)](https://boostmlbb.ru/en/heroes/dyrroth.html "Dyrroth")[![Alpha](/images/heroes/alpha.webp)](https://boostmlbb.ru/en/heroes/alpha.html "Alpha")[![Suyou](/images/heroes/suyou.webp)](https://boostmlbb.ru/en/heroes/suyou.html "Suyou")[![Saber](/images/heroes/saber.webp)](https://boostmlbb.ru/en/heroes/saber.html "Saber")[![Freya](/images/heroes/freya.webp)](https://boostmlbb.ru/en/heroes/freya.html "Freya")
+
+-   ![](/images/mlbb/items/2014.webp)
+
+    **Sky Piercer**core item for 23 heroes
+
+    [![Obsidia](/images/heroes/obsidia.webp)](https://boostmlbb.ru/en/heroes/obsidia.html "Obsidia")[![Eudora](/images/heroes/eudora.webp)](https://boostmlbb.ru/en/heroes/eudora.html "Eudora")[![Granger](/images/heroes/granger.webp)](https://boostmlbb.ru/en/heroes/granger.html "Granger")[![Suyou](/images/heroes/suyou.webp)](https://boostmlbb.ru/en/heroes/suyou.html "Suyou")[![Yi Sun-shin](/images/heroes/yi-sun-shin.webp)](https://boostmlbb.ru/en/heroes/yi-sun-shin.html "Yi Sun-shin")
+
+-   ![](/images/mlbb/items/3105.webp)
+
+    **Glowing Wand**core item for 21 heroes
+
+    [![Angela](/images/heroes/angela.webp)](https://boostmlbb.ru/en/heroes/angela.html "Angela")[![Zetian](/images/heroes/zetian.webp)](https://boostmlbb.ru/en/heroes/zetian.html "Zetian")[![Vexana](/images/heroes/vexana.webp)](https://boostmlbb.ru/en/heroes/vexana.html "Vexana")[![Valir](/images/heroes/valir.webp)](https://boostmlbb.ru/en/heroes/valir.html "Valir")[![Novaria](/images/heroes/novaria.webp)](https://boostmlbb.ru/en/heroes/novaria.html "Novaria")
+
+-   ![](/images/mlbb/items/2008.webp)
+
+    **Corrosion Scythe**core item for 15 heroes
+
+    [![Hanabi](/images/heroes/hanabi.webp)](https://boostmlbb.ru/en/heroes/hanabi.html "Hanabi")[![Sun](/images/heroes/sun.webp)](https://boostmlbb.ru/en/heroes/sun.html "Sun")[![Moskov](/images/heroes/moskov.webp)](https://boostmlbb.ru/en/heroes/moskov.html "Moskov")[![Thamuz](/images/heroes/thamuz.webp)](https://boostmlbb.ru/en/heroes/thamuz.html "Thamuz")[![Claude](/images/heroes/claude.webp)](https://boostmlbb.ru/en/heroes/claude.html "Claude")
+
+-   ![](/images/mlbb/items/3009.webp)
+
+    **Hunter Strike**core item for 15 heroes
+
+    [![Nolan](/images/heroes/nolan.webp)](https://boostmlbb.ru/en/heroes/nolan.html "Nolan")[![Dyrroth](/images/heroes/dyrroth.webp)](https://boostmlbb.ru/en/heroes/dyrroth.html "Dyrroth")[![Granger](/images/heroes/granger.webp)](https://boostmlbb.ru/en/heroes/granger.html "Granger")[![Paquito](/images/heroes/paquito.webp)](https://boostmlbb.ru/en/heroes/paquito.html "Paquito")[![Suyou](/images/heroes/suyou.webp)](https://boostmlbb.ru/en/heroes/suyou.html "Suyou")
+
+-   ![](/images/mlbb/items/3110.webp)
+
+    **Lightning Truncheon**core item for 15 heroes
+
+    [![Eudora](/images/heroes/eudora.webp)](https://boostmlbb.ru/en/heroes/eudora.html "Eudora")[![Nana](/images/heroes/nana.webp)](https://boostmlbb.ru/en/heroes/nana.html "Nana")[![Zetian](/images/heroes/zetian.webp)](https://boostmlbb.ru/en/heroes/zetian.html "Zetian")[![Selena](/images/heroes/selena.webp)](https://boostmlbb.ru/en/heroes/selena.html "Selena")[![Vexana](/images/heroes/vexana.webp)](https://boostmlbb.ru/en/heroes/vexana.html "Vexana")
+
+-   ![](/images/mlbb/items/2208.webp)
+
+    **Queen's Wings**core item for 14 heroes
+
+    [![Alpha](/images/heroes/alpha.webp)](https://boostmlbb.ru/en/heroes/alpha.html "Alpha")[![Guinevere](/images/heroes/guinevere.webp)](https://boostmlbb.ru/en/heroes/guinevere.html "Guinevere")[![Thamuz](/images/heroes/thamuz.webp)](https://boostmlbb.ru/en/heroes/thamuz.html "Thamuz")[![Lukas](/images/heroes/lukas.webp)](https://boostmlbb.ru/en/heroes/lukas.html "Lukas")[![Barats](/images/heroes/barats.webp)](https://boostmlbb.ru/en/heroes/barats.html "Barats")
+
+-   ![](/images/mlbb/items/2212.webp)
+
+    **Thunder Belt**core item for 12 heroes
+
+    [![Belerick](/images/heroes/belerick.webp)](https://boostmlbb.ru/en/heroes/belerick.html "Belerick")[![Badang](/images/heroes/badang.webp)](https://boostmlbb.ru/en/heroes/badang.html "Badang")[![Kaja](/images/heroes/kaja.webp)](https://boostmlbb.ru/en/heroes/kaja.html "Kaja")[![Hilda](/images/heroes/hilda.webp)](https://boostmlbb.ru/en/heroes/hilda.html "Hilda")[![Gatotkaca](/images/heroes/gatotkaca.webp)](https://boostmlbb.ru/en/heroes/gatotkaca.html "Gatotkaca")
+
+-   ![](/images/mlbb/items/3111.webp)
+
+    **Genius Wand**core item for 12 heroes
+
+    [![Eudora](/images/heroes/eudora.webp)](https://boostmlbb.ru/en/heroes/eudora.html "Eudora")[![Nana](/images/heroes/nana.webp)](https://boostmlbb.ru/en/heroes/nana.html "Nana")[![Gusion](/images/heroes/gusion.webp)](https://boostmlbb.ru/en/heroes/gusion.html "Gusion")[![Silvanna](/images/heroes/silvanna.webp)](https://boostmlbb.ru/en/heroes/silvanna.html "Silvanna")[![Harley](/images/heroes/harley.webp)](https://boostmlbb.ru/en/heroes/harley.html "Harley")
+
+-   ![](/images/mlbb/items/3001.webp)
+
+    **Malefic Roar**core item for 11 heroes
+
+    [![Nolan](/images/heroes/nolan.webp)](https://boostmlbb.ru/en/heroes/nolan.html "Nolan")[![Granger](/images/heroes/granger.webp)](https://boostmlbb.ru/en/heroes/granger.html "Granger")[![Paquito](/images/heroes/paquito.webp)](https://boostmlbb.ru/en/heroes/paquito.html "Paquito")[![Chou](/images/heroes/chou.webp)](https://boostmlbb.ru/en/heroes/chou.html "Chou")[![Hayabusa](/images/heroes/hayabusa.webp)](https://boostmlbb.ru/en/heroes/hayabusa.html "Hayabusa")
+
+-   ![](/images/mlbb/items/3005.webp)
+
+    **Windtalker**core item for 11 heroes
+
+    [![Obsidia](/images/heroes/obsidia.webp)](https://boostmlbb.ru/en/heroes/obsidia.html "Obsidia")[![Miya](/images/heroes/miya.webp)](https://boostmlbb.ru/en/heroes/miya.html "Miya")[![Layla](/images/heroes/layla.webp)](https://boostmlbb.ru/en/heroes/layla.html "Layla")[![Sun](/images/heroes/sun.webp)](https://boostmlbb.ru/en/heroes/sun.html "Sun")[![Julian](/images/heroes/julian.webp)](https://boostmlbb.ru/en/heroes/julian.html "Julian")
+
 
 ## Tier list of all 133 heroes
 

@@ -1,6 +1,6 @@
 ---
-title: "Gatotkaca MLBB: counters, win rate and tier | MLBB Boost"
-description: "Who counters Gatotkaca in Mobile Legends: tank and fighter, EXP Lane or Roam, 45.35% win rate, tier D, pick and ban rates from official 30-day statistics."
+title: "Gatotkaca MLBB: build, counters and skills | MLBB Boost"
+description: "Gatotkaca in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 45.35% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
@@ -9,7 +9,7 @@ language: en
 
 Tier D
 
-# Gatotkaca in Mobile Legends: counters and stats
+# Gatotkaca in Mobile Legends: build, counters and stats
 
 Tank and fighter, EXP Lane or Roam. Wins 45.35% of matches over the last 30 days: #125 of 133 heroes.
 
@@ -35,6 +35,62 @@ Win rate, 30 days**45.35%**
 
 **43.99%**wins in Mythical Glory
 
+## Gatotkaca build
+
+The most picked setup for EXP Lane Gatotkaca in ranked games across all ranks, from the in-game Academy. The win rate is for matches played with this exact build.
+
+Core items
+
+![](/images/mlbb/items/2212.webp)Thunder Belt![](/images/mlbb/items/3206.webp)Dominance Ice![](/images/mlbb/items/2208.webp)Queen's Wings
+
+Emblem and talents
+
+![](/images/mlbb/emblems/20003.webp)Tank![](/images/mlbb/talents/311.webp)Vitality![](/images/mlbb/talents/321.webp)Tenacity![](/images/mlbb/talents/331.webp)Concussive Blast
+
+Battle spell
+
+![](/images/mlbb/spells/20050.webp)Revitalize
+
+Wins with this build **57.09%**Picked in **2.36%** of matches
+
+### Other popular setups
+
+-   ![](/images/mlbb/spells/20190.webp)Vengeance![](/images/mlbb/emblems/20006.webp)MageThrill · Bargain Hunter · Impure Rage**55.08%**
+-   ![](/images/mlbb/spells/20050.webp)Revitalize![](/images/mlbb/emblems/20003.webp)TankVitality · Tenacity · Concussive Blast**51.12%**
+
+## Gatotkaca skills
+
+Official skill descriptions from MOONTON with cooldowns and tags.
+
+Level-up priority: **Avatar of the Guardian** → **Blast Iron Fist** → **Unbreakable**
+
+-   ![](/images/mlbb/skills/gatotkaca-0.webp)
+
+    **Steel Bones**Passive
+
+    Gatotkaca gains equal to 2% of his lost HP (up to 200). He gains 5 Rage (up to 100) for every 300 damage taken (calculated before reduction).
+    Upon reaching 25 Rage, Gatotkaca's next Basic Attack is enhanced, consuming all Rage to deal (+100% Total Physical Attack) (+200% Total Magic Power) (+ 8.2-11 \* Consumed Rage) Magic Damage (scales with hero level) and recover (8 \* Consumed Rage) HP.
+
+-   ![](/images/mlbb/skills/gatotkaca-1.webp)
+
+    **Blast Iron Fist**Skill 1CD 8 s
+
+    Gatotkaca slams the ground, creating a shattered zone in the target direction while dealing 200 (+150% Total Magic Power) Magic Damage to enemies within. Enemies in the shattered zone will take 100 (+20% Total Magic Power) Magic Damage per second and be slowed by 30%.
+
+-   ![](/images/mlbb/skills/gatotkaca-2.webp)
+
+    **Unbreakable**Skill 2CD 12 s
+
+    Gatotkaca begins channeling, then sprints in the target direction with a battle cry, taunting enemies on the path to attack him, dealing 200 (+100% Total Magic Power) Magic Damage for 0.9 - 1.5s. The taunt duration and sprint distance scale with the channel time. Canceling the skill reduces 50% of the remaining cooldown.
+
+-   ![](/images/mlbb/skills/gatotkaca-3.webp)
+
+    **Avatar of the Guardian**Ultimate
+
+    Gatotkaca jumps to the target location, dealing 500 (+300% Total Magic Power) Magic Damage to nearby enemies and knocking them airborne for 1s. Enemies near the center of the area will be knocked airborne for a longer duration, while enemies on the fringes will be pulled to the center.
+    The camera will move with the skill indicator but won't grant extra sight.
+
+
 ## Role and lane
 
 Places are by win rate over the last 30 days among heroes of the same role or lane.
@@ -45,6 +101,8 @@ Places are by win rate over the last 30 days among heroes of the same role or la
 -   Among fighters**#43 of 44**
 -   In the EXP Lane**#41 of 42**
 -   On roam**#30 of 34**
+-   Speciality**Crowd Control, Burst**
+-   Difficulty**Easy (40/100)**
 
 ## Who counters Gatotkaca
 
@@ -57,6 +115,12 @@ Gatotkaca loses to these heroes most often. The number under each icon is that h
 Gatotkaca is one of the toughest opponents for these heroes.
 
 [![Lesley](/images/heroes/lesley.webp)Lesley48.31%](https://boostmlbb.ru/en/heroes/lesley.html)[![Uranus](/images/heroes/uranus.webp)Uranus49.34%](https://boostmlbb.ru/en/heroes/uranus.html)
+
+## Best teammates for Gatotkaca
+
+With these heroes on the same team Gatotkaca wins more often. The number is the gain in win rate, in percentage points.
+
+[![Angela](/images/heroes/angela.webp)Angela+3.67 pts](https://boostmlbb.ru/en/heroes/angela.html)[![Floryn](/images/heroes/floryn.webp)Floryn+2.45 pts](https://boostmlbb.ru/en/heroes/floryn.html)[![Estes](/images/heroes/estes.webp)Estes+2.08 pts](https://boostmlbb.ru/en/heroes/estes.html)[![Natalia](/images/heroes/natalia.webp)Natalia+1.87 pts](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Win rate by rank
 
@@ -78,13 +142,15 @@ The strongest by win rate over the last 30 days.
 
 [![Masha](/images/heroes/masha.webp)Masha60.40%](https://boostmlbb.ru/en/heroes/masha.html)[![Argus](/images/heroes/argus.webp)Argus56.78%](https://boostmlbb.ru/en/heroes/argus.html)[![Sun](/images/heroes/sun.webp)Sun53.72%](https://boostmlbb.ru/en/heroes/sun.html)[![Aulus](/images/heroes/aulus.webp)Aulus53.46%](https://boostmlbb.ru/en/heroes/aulus.html)[![Gloo](/images/heroes/gloo.webp)Gloo53.45%](https://boostmlbb.ru/en/heroes/gloo.html)[![Edith](/images/heroes/edith.webp)Edith52.67%](https://boostmlbb.ru/en/heroes/edith.html)
 
-## Lore and skills
+## Lore
 
 ![Gatotkaca](/images/heroes/gatotkaca.webp)
 
-Gatotkaca’s backstory, every skill with its numbers, and the game’s own tips are on the official hero page. Voice lines, skins and patch history are collected by the MLBB Wiki.
+«Warrior from the Arcadhem universe.»
 
-[Lore and skills](https://www.mobilelegends.com/hero/detail?heroid=41)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gatotkaca)
+Gatotkaca’s full backstory is on MOONTON’s official lore site. The hero card with skills and the game’s own tips is on mobilelegends.com; voice lines, skins and patch history are collected by the MLBB Wiki.
+
+[Read the lore](https://www.mobilelegends.com/hero/detail?heroid=41)[Official hero card](https://www.mobilelegends.com/hero/detail?heroid=41)[MLBB Wiki](https://mobile-legends.fandom.com/wiki/Gatotkaca)
 
 ## Boost on Gatotkaca
 
@@ -92,7 +158,7 @@ The booster plays only this hero, so the hero rating grows with your rank.
 
 [Calculate the price](https://boostmlbb.ru/en/order.html?type=hero)
 
-Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page.
+Statistics: official MOONTON hero ranking (mobilelegends.com/rank), last 30 days, updated 23 November 2026 and refreshed daily. Roles and lanes: the official hero page. Builds, skills and teammates: MOONTON in-game Academy data via the Rone Arena API (ridwaanhall / RoneAI).
 
 ## Frequently asked questions
 
@@ -111,5 +177,9 @@ Tank and fighter, played in the EXP Lane or on roam.
 Is Gatotkaca strong in the current meta?
 
 Tier D: #125 of 133 heroes by 30-day win rate and #23 among tanks.
+
+What is the best build for Gatotkaca?
+
+The most popular ranked build: Thunder Belt, Dominance Ice and Queen's Wings as core items, the Tank emblem with Vitality, Tenacity and Concussive Blast, and Revitalize. It wins 57.09% of matches.
 
 MLBB Boost editorial team · Updated 23 November 2026
