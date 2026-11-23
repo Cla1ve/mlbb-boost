@@ -77,16 +77,20 @@
 .news-card p { margin: 8px 0 0; color: var(--j-muted); font-size: 1rem; line-height: 1.55; }
 .news-card[data-slot="grid"] p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
-.news-card[data-slot="lead"] { grid-column: 1 / span 2; grid-row: span 3; }
+.news-card[data-slot="lead"] { grid-column: 1 / span 2; }
 .news-card[data-slot="lead"] .news-card__link { gap: 24px; }
 .news-card[data-slot="lead"] h2 { font-size: clamp(1.75rem, 3vw, 2.5rem); font-weight: 650; letter-spacing: -.025em; line-height: 1.12; }
 .news-card[data-slot="lead"] p { font-size: 1.125rem; max-width: 60ch; }
-.news-card[data-slot="side"] { align-self: start; }
-.news-card[data-slot="side"] .news-card__link { gap: 12px; }
-.news-card[data-slot="side"] .news-card__media { display: none; }
-.news-card[data-slot="side"] h2 { font-size: 1.1875rem; line-height: 1.3; }
-.news-card[data-slot="side"] p { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; font-size: .9375rem; }
-.news-card[data-slot="side"] + .news-card[data-slot="side"] { padding-top: 24px; border-top: 1px solid var(--j-line); }
+/* Three stories beside the lead, each with a small cover. They sit at the top of the column; a fourth 1fr row
+   absorbs the lead's extra height, and the first grid card starts on column 1 so it does not fill that gap. */
+.journal-grid { grid-template-rows: auto auto auto 1fr; }
+.news-card[data-slot="lead"] { grid-row: 1 / span 4; }
+.news-card[data-slot="side"] + .news-card[data-slot="grid"] { grid-column-start: 1; }
+.news-card[data-slot="side"] .news-card__link { grid-template-columns: 128px minmax(0, 1fr); gap: 16px; align-items: start; }
+.news-card[data-slot="side"] .news-card__media { border-radius: 8px; }
+.news-card[data-slot="side"] h2 { font-size: 1.0625rem; line-height: 1.3; }
+.news-card[data-slot="side"] p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin-top: 6px; font-size: .875rem; line-height: 1.5; }
+.news-card[data-slot="side"] + .news-card[data-slot="side"] { margin-top: -16px; padding-top: 24px; border-top: 1px solid var(--j-line); }
 .journal-grid > .news-card[data-slot="grid"] { padding-top: 32px; border-top: 1px solid var(--j-line); }
 
 .news-filter-empty, .news-empty { margin: 0; padding: 48px 0; color: var(--j-muted); text-align: center; font-size: 1.0625rem; }
@@ -415,10 +419,14 @@ ul.article-list > li::before { content: ""; position: absolute; left: 4px; top: 
 @media (max-width: 1100px) {
   .journal-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .news-card[data-slot="lead"] { grid-column: 1 / -1; grid-row: auto; }
+  .journal-grid { grid-template-rows: none; }
+  .news-card[data-slot="lead"] { grid-row: auto; }
+  .news-card[data-slot="side"] + .news-card[data-slot="grid"] { grid-column-start: auto; }
   .news-card[data-slot="side"] { grid-column: auto; }
-  .news-card[data-slot="side"] .news-card__media { display: block; }
+  .news-card[data-slot="side"] .news-card__link { grid-template-columns: minmax(0, 1fr); }
+  .news-card[data-slot="side"] .news-card__media { border-radius: 12px; }
   .news-card[data-slot="side"] p { display: none; }
-  .news-card[data-slot="side"] + .news-card[data-slot="side"] { padding-top: 0; border-top: 0; }
+  .news-card[data-slot="side"] + .news-card[data-slot="side"] { margin-top: 0; padding-top: 0; border-top: 0; }
   .journal-grid > .news-card[data-slot="grid"] { padding-top: 0; border-top: 0; }
   .article-layout { grid-template-columns: 190px minmax(0, 1fr); gap: 40px; }
 }
