@@ -9343,22 +9343,22 @@
       "editorialNote": "Список обликов по месяцам собран 24 ноября 2026 года из вики Mobile Legends через каталог MLBBDex (лицензия CC BY-SA) и сверен с публикациями о каждом месяце 2026 года. Цены и бонусы — по ролику MOONTON и разбору timesaver.gg.",
       "categoryKey": "guides",
       "datePublished": "2026-11-24T07:12:13+03:00",
-      "dateModified": "2026-11-24T07:12:13+03:00",
+      "dateModified": "2026-11-24T16:18:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-starlight.jpg",
         "width": 1600,
         "height": 900,
         "webpSrcset": "/images/news/mlbb-starlight-768.webp 768w, /images/news/mlbb-starlight-1200.webp 1200w, /images/news/mlbb-starlight-1600.webp 1600w",
-        "focalPoint": "50% 50%",
+        "focalPoint": "62% 50%",
         "cardFit": "cover",
-        "alt": "Облики Звёздного участника с августа по ноябрь 2026 года: Аулус, Ханзо, Хаябуса и Калеа",
-        "caption": "Иллюстрация Boost MLBB: фон сгенерирован ИИ, арты обликов — MOONTON.",
+        "alt": "Значок Звёздного участника и облик Калеа «Солнечная морячка» в светящемся ореоле на лавандовом звёздном небе",
+        "caption": "Иллюстрация Boost MLBB: фон сгенерирован ИИ; значок StarLight и арт облика — MOONTON.",
         "provenance": {
           "type": "generated",
           "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
           "created": "2026-11-24",
-          "prompt": "Cinematic night sky over a dark fantasy arena with a glowing star-shaped crystal on a pedestal, deep navy and emerald palette, starfield, no text, no logos, no people; four official StarLight skin splash arts are placed on top.",
-          "rights": "Background generated for Boost MLBB; the skin art is MOONTON game art used for editorial illustration."
+          "prompt": "Dreamy celestial lavender-violet and periwinkle sky in the style of the official MLBB StarLight promo, soft pastel clouds, huge translucent luminous ring arcs, small round medallions with a five-pointed star, silver-gold sparkles; right side open sky with a large glowing halo ring, left side calmer violet for a logo; no characters, no text, no logos.",
+          "rights": "Background generated for Boost MLBB; the StarLight crest (cut from the official November 2026 StarLight promo) and Kalea Tideborn Sailor skin art are MOONTON game assets used for editorial illustration."
         }
       },
       "blocks": [
@@ -10536,8 +10536,8 @@
           ],
           "editorialNote": "The month-by-month list was collected on 24 November 2026 from the Mobile Legends wiki via the MLBBDex catalogue (CC BY-SA licence) and checked against coverage of each month of 2026. Prices and perks follow the MOONTON perks video and the timesaver.gg breakdown.",
           "hero": {
-            "alt": "StarLight skins from August to November 2026: Aulus, Hanzo, Hayabusa and Kalea",
-            "caption": "Boost MLBB illustration: AI-generated background, skin art by MOONTON."
+            "alt": "The StarLight crest and Kalea’s Tideborn Sailor skin inside a glowing halo over a lavender starry sky",
+            "caption": "Boost MLBB illustration: AI-generated background; StarLight crest and skin art by MOONTON."
           },
           "blocks": [
             {
@@ -11693,22 +11693,22 @@
       "editorialNote": "Список коллабораций и обликов сверен 24 ноября 2026 года по esports.gg (на 22 июня 2026 года) и официальным новостям MOONTON о «Губке Бобе», «Наруто» и Street Fighter 6. Сведения об «Аватаре» — по Pinoy Gamer и утечкам, официального анонса нет.",
       "categoryKey": "guides",
       "datePublished": "2026-11-24T07:12:13+03:00",
-      "dateModified": "2026-11-24T07:12:13+03:00",
+      "dateModified": "2026-11-24T16:18:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-collaborations.jpg",
         "width": 1600,
         "height": 900,
         "webpSrcset": "/images/news/mlbb-collaborations-768.webp 768w, /images/news/mlbb-collaborations-1200.webp 1200w, /images/news/mlbb-collaborations-1600.webp 1600w",
-        "focalPoint": "50% 50%",
+        "focalPoint": "50% 45%",
         "cardFit": "cover",
-        "alt": "Облики коллабораций Mobile Legends: Наруто, Сатору Годзё, Леви, Рю, Губка Боб и Оптимус Прайм на фоне арены",
-        "caption": "Иллюстрация Boost MLBB: сцена сгенерирована ИИ, арты обликов — MOONTON.",
+        "alt": "Персонажи коллабораций Mobile Legends — Минато и Наруто, Итачи, Рю, Кен, Гайл и Губка Боб — в разломах над киберспортивной ареной",
+        "caption": "Иллюстрация Boost MLBB: арена сгенерирована ИИ; персонажи — официальные арты коллабораций MOONTON.",
         "provenance": {
           "type": "generated",
           "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
           "created": "2026-11-24",
-          "prompt": "Photorealistic cinematic esports arena at night, a curved LED wall split into four panels in different art styles (ink anime sky, pixel arcade, underwater pastel, misty mountain temple), navy and emerald light, fans from behind, no text, no logos, no characters; six official collaboration skin cards are placed on top.",
-          "rights": "Scene generated for Boost MLBB; the skin cards are MOONTON in-game art used for editorial illustration."
+          "prompt": "Huge dark cinematic esports arena at night, a giant shattered dimensional rift above the stage with jagged emerald and violet cracks forming empty shard-shaped openings, floating glass fragments, sparks, light beams, confetti, crowd silhouettes from behind; no characters, no text, no logos. Official collaboration key art is placed inside the openings.",
+          "rights": "Arena generated for Boost MLBB; characters come from official MOONTON collaboration key art (Naruto, Street Fighter 6, SpongeBob Friend Fest) used for editorial illustration; partner trademarks belong to their owners."
         }
       },
       "blocks": [
@@ -12529,8 +12529,8 @@
           ],
           "editorialNote": "The list of collaborations and skins was checked on 24 November 2026 against esports.gg (as of 22 June 2026) and official MOONTON news on SpongeBob, Naruto and Street Fighter 6. Avatar details come from Pinoy Gamer and leaks; there is no official announcement.",
           "hero": {
-            "alt": "Mobile Legends collaboration skins: Naruto, Satoru Gojo, Levi, Ryu, SpongeBob and Optimus Prime in front of an arena",
-            "caption": "Boost MLBB illustration: AI-generated scene, skin art by MOONTON."
+            "alt": "Mobile Legends collaboration characters — Minato and Naruto, Itachi, Ryu, Ken, Guile and SpongeBob — bursting through rifts above an esports arena",
+            "caption": "Boost MLBB illustration: AI-generated arena; characters from official MOONTON collaboration key art."
           },
           "blocks": [
             {
