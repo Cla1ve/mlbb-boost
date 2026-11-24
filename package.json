@@ -20,7 +20,8 @@
     "site:prepare": "npm run site:build && npm run site:validate && npm test",
     "worker:deploy": "wrangler deploy",
     "worker:dev": "wrangler dev",
-    "seo:indexnow": "node scripts/indexnow.mjs"
+    "seo:indexnow": "node scripts/indexnow.mjs",
+    "seo:yandex": "node scripts/yandex-webmaster.mjs"
   },
   "devDependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.4.2",

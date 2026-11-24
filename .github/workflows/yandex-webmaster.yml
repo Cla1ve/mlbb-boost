@@ -1,0 +1,64 @@
+name: Yandex Webmaster and IndexNow
+
+# Every day and after every deploy: IndexNow for changed pages, Yandex Webmaster sitemaps,
+# recrawl of pages that are not in Yandex search yet (daily quota), and a report in the run summary.
+# Needs the repository secret YANDEX_WEBMASTER_TOKEN (OAuth token, valid 6 months). Without it only IndexNow runs.
+on:
+  schedule:
+    - cron: "40 6 * * *"
+  workflow_run:
+    workflows: ["Public data and site freshness"]
+    types: [completed]
+  push:
+    branches: [main]
+    paths-ignore:
+      - ".github/**"
+      - "docs/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: yandex-webmaster
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    if: github.repository == 'Cla1ve/mlbb-boost'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Restore what was already sent
+        uses: actions/cache/restore@v4
+        with:
+          path: .yandex-state
+          key: yandex-state-${{ github.run_id }}
+          restore-keys: yandex-state-
+
+      # After a push or the daily refresh GitHub Pages needs a minute or two to publish the new files.
+      - name: Wait for the site to update
+        if: github.event_name != 'schedule' && github.event_name != 'workflow_dispatch'
+        run: sleep 150
+
+      - name: IndexNow and Yandex Webmaster
+        env:
+          YANDEX_WEBMASTER_TOKEN: ${{ secrets.YANDEX_WEBMASTER_TOKEN }}
+        run: node scripts/yandex-webmaster.mjs
+
+      - name: Keep the state for the next run
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .yandex-state
+          key: yandex-state-${{ github.run_id }}

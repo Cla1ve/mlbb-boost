@@ -17,3 +17,5 @@ news/_preview/
 en/news/_preview/
 content/news/drafts/
 .news-pipeline.lock
+
+.yandex-state/
