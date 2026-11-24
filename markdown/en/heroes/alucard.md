@@ -45,7 +45,7 @@ Ban rate
 
 1.  **48.8%**![](/images/ranks/Epic.webp)Epic
 2.  **48.9%**![](/images/ranks/Legend.webp)Legend
-3.  **49.0%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -225,7 +225,7 @@ Over the last 30 days the toughest opponents are Natalia, Sun, Mathilda, Saber a
 
 What is Alucard’s win rate right now?
 
-49.40% at Mythical Glory over the last 7 days and 48.87% across all ranks over 30 days, as of 23 November 2026.
+49.40% at Mythical Glory over the last 7 days and 48.89% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Alucard play?
 

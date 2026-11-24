@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.7%**![](/images/ranks/Epic.webp)Epic
+1.  **50.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.3%**![](/images/ranks/Legend.webp)Legend
 3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -249,7 +249,7 @@ Roger lunges in the target direction and turns into wolf form, dealing 150 (+100
 
 Beat this hero
 
-[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
+[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Lore
 
@@ -265,11 +265,11 @@ Beat this hero
 
 Who counters Roger in MLBB?
 
-Over the last 30 days the toughest opponents are Harley, Gusion, Silvanna, Helcurt and Yin.
+Over the last 30 days the toughest opponents are Harley, Gusion, Silvanna, Yin and Helcurt.
 
 What is Roger’s win rate right now?
 
-46.21% at Mythical Glory over the last 7 days and 48.33% across all ranks over 30 days, as of 23 November 2026.
+46.21% at Mythical Glory over the last 7 days and 48.31% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Roger play?
 

@@ -255,7 +255,7 @@ This state ends immediately when she is controlled or uses a Basic Attack or ski
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Lore
 
@@ -271,11 +271,11 @@ Beat this hero
 
 Who counters Pharsa in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Diggie, Melissa, Valir and Hanabi.
+Over the last 30 days the toughest opponents are Lolita, Diggie, Melissa, Valir and Yve.
 
 What is Pharsa’s win rate right now?
 
-46.68% at Mythical Glory over the last 7 days and 47.26% across all ranks over 30 days, as of 23 November 2026.
+46.68% at Mythical Glory over the last 7 days and 47.24% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Pharsa play?
 

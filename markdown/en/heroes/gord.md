@@ -47,7 +47,7 @@ Ban rate
 2.  **52.7%**![](/images/ranks/Legend.webp)Legend
 3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **52.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -267,7 +267,7 @@ Over the last 30 days the toughest opponents are Barats, Lolita, Fredrinn, Phove
 
 What is Gord’s win rate right now?
 
-52.02% at Mythical Glory over the last 7 days and 52.61% across all ranks over 30 days, as of 23 November 2026.
+52.02% at Mythical Glory over the last 7 days and 52.60% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Gord play?
 

@@ -249,7 +249,7 @@ Ixia reassembles her weapon into 6 smaller weapons and enters the Full Barrage s
 
 Beat this hero
 
-[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)
 
 ### Easy targets
 
@@ -271,11 +271,11 @@ This hero beats them
 
 Who counters Ixia in MLBB?
 
-Over the last 30 days the toughest opponents are Estes, Rafaela, Cyclops, Floryn and Lolita.
+Over the last 30 days the toughest opponents are Estes, Cyclops, Rafaela, Lolita and Floryn.
 
 What is Ixia’s win rate right now?
 
-50.64% at Mythical Glory over the last 7 days and 50.08% across all ranks over 30 days, as of 23 November 2026.
+50.64% at Mythical Glory over the last 7 days and 50.10% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Ixia play?
 

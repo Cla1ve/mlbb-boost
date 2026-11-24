@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Phoveus, Khufra, Baxia, Odette 
 
 What is Bane’s win rate right now?
 
-51.48% at Mythical Glory over the last 7 days and 51.61% across all ranks over 30 days, as of 23 November 2026.
+51.48% at Mythical Glory over the last 7 days and 51.61% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Bane play?
 

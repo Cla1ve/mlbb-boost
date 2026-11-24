@@ -44,7 +44,7 @@ Ban rate
 
 1.  **48.8%**![](/images/ranks/Epic.webp)Epic
 2.  **46.1%**![](/images/ranks/Legend.webp)Legend
-3.  **44.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **44.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **44.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **44.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -246,7 +246,7 @@ The first half of the channeling can be interrupted by control effects, while th
 
 Beat this hero
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)
 
 ### Easy targets
 
@@ -268,11 +268,11 @@ This hero beats them
 
 Who counters Tigreal in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Estes, Franco, Alucard and Lesley.
+Over the last 30 days the toughest opponents are Zilong, Estes, Alucard, Franco and Lesley.
 
 What is Tigreal’s win rate right now?
 
-45.03% at Mythical Glory over the last 7 days and 45.22% across all ranks over 30 days, as of 23 November 2026.
+45.03% at Mythical Glory over the last 7 days and 45.24% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Tigreal play?
 

@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.7%**![](/images/ranks/Epic.webp)Epic
+1.  **47.8%**![](/images/ranks/Epic.webp)Epic
 2.  **48.5%**![](/images/ranks/Legend.webp)Legend
 3.  **49.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **49.5%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -245,7 +245,7 @@ Use again to cancel. Only high-level control effects can interrupt this skill.
 
 Beat this hero
 
-[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
 ### Easy targets
 
@@ -267,11 +267,11 @@ This hero beats them
 
 Who counters Odette in MLBB?
 
-Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip and Valentina.
+Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip and Marcel.
 
 What is Odette’s win rate right now?
 
-51.13% at Mythical Glory over the last 7 days and 49.69% across all ranks over 30 days, as of 23 November 2026.
+51.13% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Odette play?
 

@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.3%**![](/images/ranks/Epic.webp)Epic
-2.  **47.5%**![](/images/ranks/Legend.webp)Legend
+1.  **47.4%**![](/images/ranks/Epic.webp)Epic
+2.  **47.6%**![](/images/ranks/Legend.webp)Legend
 3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -245,13 +245,13 @@ Upon landing, Freya enters the Valkyrie state for 10s and gains 30 Movement Spee
 
 Beat this hero
 
-[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
+[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
+[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
 ## Lore
 
@@ -267,11 +267,11 @@ This hero beats them
 
 Who counters Freya in MLBB?
 
-Over the last 30 days the toughest opponents are Masha, Yve, Lolita, Kagura and Ling.
+Over the last 30 days the toughest opponents are Masha, Yve, Lolita, Ling and Kagura.
 
 What is Freya’s win rate right now?
 
-51.71% at Mythical Glory over the last 7 days and 49.32% across all ranks over 30 days, as of 23 November 2026.
+51.71% at Mythical Glory over the last 7 days and 49.39% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Freya play?
 

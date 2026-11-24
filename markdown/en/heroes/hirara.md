@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **50.3%**![](/images/ranks/Legend.webp)Legend
+2.  **50.4%**![](/images/ranks/Legend.webp)Legend
 3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -257,7 +257,7 @@ Over the last 30 days the toughest opponents are Hanzo, Karina, X.Borg, Yin and 
 
 What is Hirara’s win rate right now?
 
-49.52% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 23 November 2026.
+49.52% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Hirara play?
 

@@ -46,7 +46,7 @@ Ban rate
 1.  **45.7%**![](/images/ranks/Epic.webp)Epic
 2.  **44.9%**![](/images/ranks/Legend.webp)Legend
 3.  **44.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **46.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -247,13 +247,13 @@ When Harith comes into contact with the rift using Chrono Dash, he absorbs its e
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
+[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
 ## Lore
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Harith in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Karina, Johnson, Lapu-Lapu and Suyou.
+Over the last 30 days the toughest opponents are Lolita, Johnson, Karina, Lapu-Lapu and Suyou.
 
 What is Harith’s win rate right now?
 
-48.69% at Mythical Glory over the last 7 days and 46.92% across all ranks over 30 days, as of 23 November 2026.
+48.69% at Mythical Glory over the last 7 days and 46.96% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Harith play?
 

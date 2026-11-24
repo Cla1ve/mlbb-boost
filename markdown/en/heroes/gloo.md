@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.7%**![](/images/ranks/Epic.webp)Epic
-2.  **56.1%**![](/images/ranks/Legend.webp)Legend
-3.  **55.7%**![](/images/ranks/Mythic.webp)Mythic
+1.  **55.6%**![](/images/ranks/Epic.webp)Epic
+2.  **56.0%**![](/images/ranks/Legend.webp)Legend
+3.  **55.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **54.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -253,7 +253,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
+[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
 
 ## Lore
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Chang'
 
 What is Gloo’s win rate right now?
 
-49.90% at Mythical Glory over the last 7 days and 53.45% across all ranks over 30 days, as of 23 November 2026.
+49.90% at Mythical Glory over the last 7 days and 53.35% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Gloo play?
 

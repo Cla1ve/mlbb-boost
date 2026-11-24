@@ -44,8 +44,8 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **42,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **42,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **43,0%**![](/images/ranks/Mythic.webp)Мифик
+2.  **42,3%**![](/images/ranks/Legend.webp)Легенда
+3.  **42,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **44,2%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **45,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -255,7 +255,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
@@ -275,7 +275,7 @@ B
 
 Какой процент побед у героя «Валентина» сейчас?
 
-44,78% в Мифической славе за последние 7 дней и 44,73% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+44,78% в Мифической славе за последние 7 дней и 44,70% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Валентина»?
 

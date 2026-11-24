@@ -249,7 +249,7 @@ A
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
+[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
 
 ## История
 
@@ -269,7 +269,7 @@ A
 
 Какой процент побед у героя «Эсмеральда» сейчас?
 
-46,42% в Мифической славе за последние 7 дней и 47,00% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+46,42% в Мифической славе за последние 7 дней и 47,01% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Эсмеральда»?
 

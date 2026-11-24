@@ -45,8 +45,8 @@ C
 
 1.  **51,3%**![](/images/ranks/Epic.webp)Эпик
 2.  **51,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **51,6%**![](/images/ranks/Mythic.webp)Мифик
+4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -245,7 +245,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
 
 ### Слабые цели
 
@@ -267,11 +267,11 @@ C
 
 Кто контрпик для героя «Тэризла» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Аргус, Фовиус, Лолита, Пополь и Купа и Одетта.
+За последние 30 дней чаще всего героя обыгрывают Аргус, Фовиус, Пополь и Купа, Лолита и Одетта.
 
 Какой процент побед у героя «Тэризла» сейчас?
 
-49,88% в Мифической славе за последние 7 дней и 50,60% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+49,88% в Мифической славе за последние 7 дней и 50,60% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Тэризла»?
 

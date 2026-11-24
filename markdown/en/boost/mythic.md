@@ -33,7 +33,7 @@ Total**6,250 ₽**
 
 **about 6 h**median Mythic order
 
-**1,313**reviews on Telegram
+**1,315**reviews on Telegram
 
 **120 ₽**per Mythic star
 
@@ -140,6 +140,58 @@ Account boost prices; time is the median of completed orders on that stretch.
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
+Р
+
+Booster
+
+Ракунчик
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+Standard
+
+StartЛегенда II, 3⭐
+
+TargetМифик, 0⭐
+
+Отличный бустер быстро бустанул аккаунт
+
+Time1ч 54м после оплаты
+
+23 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2282)
+
+L
+
+Booster
+
+Legit
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+Role
+
+StartМифическая честь, 25⭐
+
+TargetМифическая честь, 37⭐
+
+быстро и четко, спасибо
+
+Time4ч 37м после оплаты
+
+23 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2280)
+
 C
 
 Booster
@@ -167,58 +219,6 @@ Time2ч 49м после оплаты
 22 November 2026
 
 [Open review](https://t.me/Cla1ve_boost/2279)
-
-M
-
-Booster
-
-metaldemon
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-Standard
-
-StartМифическая честь, 32⭐
-
-TargetМифический бессмертный, 120⭐
-
-Большое спасибо очень выручили, поддержка отличная. metaldemon от души сделал все красиво и быстро. Всем советую ❤️
-
-Time4д 4ч 52м после оплаты
-
-18 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2264)
-
-A
-
-Booster
-
-Amoral
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-Standard
-
-StartМифическая слава, 60⭐
-
-TargetМифический бессмертный, 110⭐
-
-Все отлично.Быстро апнул звезды.Рекомендую
-
-Time1д 7ч 43м после оплаты
-
-16 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2255)
 
 ## Price your route
 

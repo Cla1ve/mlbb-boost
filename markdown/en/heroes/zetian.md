@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Lolita, Natalia, Tigreal, Helcu
 
 What is Zetian’s win rate right now?
 
-49.98% at Mythical Glory over the last 7 days and 50.89% across all ranks over 30 days, as of 23 November 2026.
+49.98% at Mythical Glory over the last 7 days and 50.88% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Zetian play?
 

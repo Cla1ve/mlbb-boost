@@ -267,7 +267,7 @@ Over the last 30 days the toughest opponents are Arlott, Nolan, Granger, Saber a
 
 What is Jawhead’s win rate right now?
 
-47.49% at Mythical Glory over the last 7 days and 47.87% across all ranks over 30 days, as of 23 November 2026.
+47.49% at Mythical Glory over the last 7 days and 47.89% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Jawhead play?
 

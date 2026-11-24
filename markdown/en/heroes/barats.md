@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.7%**![](/images/ranks/Epic.webp)Epic
-2.  **51.5%**![](/images/ranks/Legend.webp)Legend
+2.  **51.4%**![](/images/ranks/Legend.webp)Legend
 3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -251,7 +251,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Lore
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Silvanna, Phoveus, Argus, Aluca
 
 What is Barats’s win rate right now?
 
-51.59% at Mythical Glory over the last 7 days and 51.67% across all ranks over 30 days, as of 23 November 2026.
+51.59% at Mythical Glory over the last 7 days and 51.66% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Barats play?
 

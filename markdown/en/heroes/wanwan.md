@@ -43,8 +43,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **46.0%**![](/images/ranks/Epic.webp)Epic
-2.  **48.2%**![](/images/ranks/Legend.webp)Legend
+1.  **45.9%**![](/images/ranks/Epic.webp)Epic
+2.  **48.1%**![](/images/ranks/Legend.webp)Legend
 3.  **48.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -279,7 +279,7 @@ Over the last 30 days the toughest opponents are Yin, Ixia, Atlas, Guinevere and
 
 What is Wanwan’s win rate right now?
 
-47.07% at Mythical Glory over the last 7 days and 47.59% across all ranks over 30 days, as of 23 November 2026.
+47.07% at Mythical Glory over the last 7 days and 47.58% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Wanwan play?
 

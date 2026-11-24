@@ -43,9 +43,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.0%**![](/images/ranks/Epic.webp)Epic
+1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **52.2%**![](/images/ranks/Legend.webp)Legend
-3.  **52.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **52.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **54.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Wanwan, Ling, Fanny, Masha and 
 
 What is Bruno’s win rate right now?
 
-54.29% at Mythical Glory over the last 7 days and 53.78% across all ranks over 30 days, as of 23 November 2026.
+54.29% at Mythical Glory over the last 7 days and 53.79% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Bruno play?
 

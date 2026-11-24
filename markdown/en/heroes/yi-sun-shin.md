@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Khufra, Thamuz, Benedetta, Meli
 
 What is Yi Sun-shin’s win rate right now?
 
-48.55% at Mythical Glory over the last 7 days and 49.11% across all ranks over 30 days, as of 23 November 2026.
+48.55% at Mythical Glory over the last 7 days and 49.09% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Yi Sun-shin play?
 

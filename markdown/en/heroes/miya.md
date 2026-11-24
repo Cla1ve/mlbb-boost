@@ -247,7 +247,7 @@ Upon exiting the Conceal state, Miya gains maximum stacks of Moon Blessing.
 
 Beat this hero
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
 
 ### Easy targets
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Miya in MLBB?
 
-Over the last 30 days the toughest opponents are Saber, Obsidia, Moskov, Irithel and Guinevere.
+Over the last 30 days the toughest opponents are Saber, Obsidia, Moskov, Irithel and Harith.
 
 What is Miya’s win rate right now?
 
-50.15% at Mythical Glory over the last 7 days and 49.71% across all ranks over 30 days, as of 23 November 2026.
+50.15% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Miya play?
 

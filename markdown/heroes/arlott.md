@@ -251,7 +251,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)
+[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 ## История
 
@@ -271,7 +271,7 @@ B
 
 Какой процент побед у героя «Арлотт» сейчас?
 
-48,06% в Мифической славе за последние 7 дней и 47,49% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+48,06% в Мифической славе за последние 7 дней и 47,48% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Арлотт»?
 

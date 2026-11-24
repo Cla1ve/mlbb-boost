@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **53.1%**![](/images/ranks/Epic.webp)Epic
-2.  **54.8%**![](/images/ranks/Legend.webp)Legend
-3.  **55.3%**![](/images/ranks/Mythic.webp)Mythic
+2.  **54.7%**![](/images/ranks/Legend.webp)Legend
+3.  **55.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **55.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **54.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **53.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Valir, Natalia, Marcel, Hylos a
 
 What is Rafaela’s win rate right now?
 
-53.21% at Mythical Glory over the last 7 days and 54.51% across all ranks over 30 days, as of 23 November 2026.
+53.21% at Mythical Glory over the last 7 days and 54.46% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Rafaela play?
 

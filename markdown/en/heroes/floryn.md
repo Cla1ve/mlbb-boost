@@ -249,7 +249,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
 ## Lore
 
@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Marcel, Alice, X.Borg, Ling and
 
 What is Floryn’s win rate right now?
 
-53.91% at Mythical Glory over the last 7 days and 54.07% across all ranks over 30 days, as of 23 November 2026.
+53.91% at Mythical Glory over the last 7 days and 54.05% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Floryn play?
 

@@ -247,7 +247,7 @@ Badang is immune to control effects for the duration.
 
 Beat this hero
 
-[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Lore
 
@@ -263,11 +263,11 @@ Beat this hero
 
 Who counters Badang in MLBB?
 
-Over the last 30 days the toughest opponents are Fanny, Sun, Zilong, Hayabusa and Aldous.
+Over the last 30 days the toughest opponents are Fanny, Sun, Zilong, Hayabusa and Helcurt.
 
 What is Badang’s win rate right now?
 
-49.88% at Mythical Glory over the last 7 days and 50.19% across all ranks over 30 days, as of 23 November 2026.
+49.88% at Mythical Glory over the last 7 days and 50.19% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Badang play?
 

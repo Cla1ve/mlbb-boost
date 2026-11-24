@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-23T10:54:00.390Z",
+  "checkedAt": "2026-11-24T12:37:03.713Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,37 @@
     }
   ],
   "reviewStats": {
-    "count": 1313,
+    "count": 1315,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2354,
+      "rating": 5,
+      "text": "Отличный бустер быстро бустанул аккаунт",
+      "messageLink": "https://t.me/Cla1ve_boost/2282",
+      "boostType": "standard",
+      "rankFrom": "Легенда II, 3⭐",
+      "rankTo": "Мифик, 0⭐",
+      "hero": null,
+      "duration": "1ч 54м после оплаты",
+      "booster": "Ракунчик",
+      "published": "2026-11-23"
+    },
+    {
+      "id": 2352,
+      "rating": 5,
+      "text": "быстро и четко, спасибо",
+      "messageLink": "https://t.me/Cla1ve_boost/2280",
+      "boostType": "role",
+      "rankFrom": "Мифическая честь, 25⭐",
+      "rankTo": "Мифическая честь, 37⭐",
+      "hero": null,
+      "duration": "4ч 37м после оплаты",
+      "booster": "Legit",
+      "published": "2026-11-23"
+    },
     {
       "id": 2350,
       "rating": 5,
@@ -1041,32 +1067,6 @@
       "duration": "5ч 19м после оплаты",
       "booster": "Mitsu",
       "published": "2026-10-30"
-    },
-    {
-      "id": 2242,
-      "rating": 5,
-      "text": "самый лучший)",
-      "messageLink": "https://t.me/Cla1ve_boost/2135",
-      "boostType": "hero",
-      "rankFrom": "Мифический бессмертный, 300⭐",
-      "rankTo": "Мифический бессмертный, 555⭐",
-      "hero": "госсен",
-      "duration": "14д 17ч 10м после оплаты",
-      "booster": "VenomSkie.",
-      "published": "2026-10-30"
-    },
-    {
-      "id": 2240,
-      "rating": 5,
-      "text": "как всегда отлично",
-      "messageLink": "https://t.me/Cla1ve_boost/2131",
-      "boostType": "standard",
-      "rankFrom": "Мифическая слава, 98⭐",
-      "rankTo": "Мифический бессмертный, 103⭐",
-      "hero": null,
-      "duration": "1ч 31м после оплаты",
-      "booster": "Zwihsk",
-      "published": "2026-10-29"
     }
   ]
 }

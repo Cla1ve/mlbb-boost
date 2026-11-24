@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **52.6%**![](/images/ranks/Epic.webp)Epic
-2.  **50.8%**![](/images/ranks/Legend.webp)Legend
+2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **46.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -245,7 +245,7 @@ Johnson's location is revealed to enemies for 3s when he casts this skill.
 
 Beat this hero
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
 
 ### Easy targets
 
@@ -267,11 +267,11 @@ This hero beats them
 
 Who counters Johnson in MLBB?
 
-Over the last 30 days the toughest opponents are Layla, Zilong, Saber, Dyrroth and Valentina.
+Over the last 30 days the toughest opponents are Layla, Zilong, Saber, Valentina and Dyrroth.
 
 What is Johnson’s win rate right now?
 
-47.85% at Mythical Glory over the last 7 days and 49.25% across all ranks over 30 days, as of 23 November 2026.
+47.85% at Mythical Glory over the last 7 days and 49.28% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Johnson play?
 

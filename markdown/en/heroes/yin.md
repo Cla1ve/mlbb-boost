@@ -46,7 +46,7 @@ Ban rate
 1.  **50.0%**![](/images/ranks/Epic.webp)Epic
 2.  **49.6%**![](/images/ranks/Legend.webp)Legend
 3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **49.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Diggie, Minsitthar, Ixia, Flory
 
 What is Yin’s win rate right now?
 
-49.92% at Mythical Glory over the last 7 days and 49.62% across all ranks over 30 days, as of 23 November 2026.
+49.92% at Mythical Glory over the last 7 days and 49.64% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Yin play?
 

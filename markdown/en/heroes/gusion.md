@@ -225,7 +225,7 @@ Over the last 30 days the toughest opponents are Aamon, Valir, Yve, X.Borg and N
 
 What is Gusion’s win rate right now?
 
-48.89% at Mythical Glory over the last 7 days and 48.61% across all ranks over 30 days, as of 23 November 2026.
+48.89% at Mythical Glory over the last 7 days and 48.62% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Gusion play?
 

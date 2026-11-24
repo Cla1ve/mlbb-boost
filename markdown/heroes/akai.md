@@ -43,11 +43,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **51,5%**![](/images/ranks/Epic.webp)Эпик
+1.  **51,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **51,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **51,4%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **48,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -249,7 +249,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)
+[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
 
 ### Слабые цели
 
@@ -271,11 +271,11 @@ C
 
 Кто контрпик для героя «Акай» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Алукард, Харит, Нана, Сильвана и Грейнджер.
+За последние 30 дней чаще всего героя обыгрывают Алукард, Харит, Сильвана, Грейнджер и Нана.
 
 Какой процент побед у героя «Акай» сейчас?
 
-49,24% в Мифической славе за последние 7 дней и 50,18% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+49,24% в Мифической славе за последние 7 дней и 50,17% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Акай»?
 

@@ -249,7 +249,7 @@ S
 
 Побеждают этого героя
 
-[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ## История
 
@@ -265,11 +265,11 @@ S
 
 Кто контрпик для героя «Калеа» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Фанни, Хелкарт, Лолита, Халид и Ив.
+За последние 30 дней чаще всего героя обыгрывают Фанни, Хелкарт, Халид, Лолита и Ив.
 
 Какой процент побед у героя «Калеа» сейчас?
 
-51,71% в Мифической славе за последние 7 дней и 50,44% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+51,71% в Мифической славе за последние 7 дней и 50,47% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Калеа»?
 

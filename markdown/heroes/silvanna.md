@@ -45,9 +45,9 @@ C
 
 1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+3.  **52,1%**![](/images/ranks/Mythic.webp)Мифик
+4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **49,7%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -249,7 +249,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
 
 ### Слабые цели
 
@@ -271,11 +271,11 @@ C
 
 Кто контрпик для героя «Сильвана» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эймон, Флорин, Ангела, Рафаэль и Валентина.
+За последние 30 дней чаще всего героя обыгрывают Эймон, Флорин, Ангела, Валентина и Рафаэль.
 
 Какой процент побед у героя «Сильвана» сейчас?
 
-50,25% в Мифической славе за последние 7 дней и 51,36% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,25% в Мифической славе за последние 7 дней и 51,37% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Сильвана»?
 

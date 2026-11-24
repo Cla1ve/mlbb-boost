@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.6%**![](/images/ranks/Epic.webp)Epic
-2.  **54.3%**![](/images/ranks/Legend.webp)Legend
-3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **54.5%**![](/images/ranks/Epic.webp)Epic
+2.  **54.2%**![](/images/ranks/Legend.webp)Legend
+3.  **53.2%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.4%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **49.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -289,7 +289,7 @@ Over the last 30 days the toughest opponents are Harley, Jawhead, Zilong, Chang'
 
 What is Popol and Kupa’s win rate right now?
 
-48.18% at Mythical Glory over the last 7 days and 52.09% across all ranks over 30 days, as of 23 November 2026.
+48.18% at Mythical Glory over the last 7 days and 51.97% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Popol and Kupa play?
 

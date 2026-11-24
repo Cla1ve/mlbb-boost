@@ -43,10 +43,10 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **47,7%**![](/images/ranks/Epic.webp)Эпик
+1.  **47,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **49,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -245,7 +245,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
 ### Слабые цели
 
@@ -267,11 +267,11 @@ C
 
 Кто контрпик для героя «Одетта» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Кайя, Матильда, Фарамис, Чип и Валентина.
+За последние 30 дней чаще всего героя обыгрывают Кайя, Матильда, Фарамис, Чип и Марсель.
 
 Какой процент побед у героя «Одетта» сейчас?
 
-51,13% в Мифической славе за последние 7 дней и 49,69% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+51,13% в Мифической славе за последние 7 дней и 49,70% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Одетта»?
 

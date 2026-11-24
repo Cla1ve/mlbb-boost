@@ -251,7 +251,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)
+[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
 ## Lore
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are X.Borg, Cici, Natan, Zhuxin and
 
 What is Arlott’s win rate right now?
 
-48.06% at Mythical Glory over the last 7 days and 47.49% across all ranks over 30 days, as of 23 November 2026.
+48.06% at Mythical Glory over the last 7 days and 47.48% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Arlott play?
 

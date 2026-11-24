@@ -46,8 +46,8 @@ C
 1.  **54,9%**![](/images/ranks/Epic.webp)Эпик
 2.  **53,4%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,7%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,7%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **49,8%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **47,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -243,7 +243,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)
+[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
 
 ### Слабые цели
 
@@ -265,11 +265,11 @@ C
 
 Кто контрпик для героя «Хильда» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Грейнджер, Инь, Хелкарт, Сабер и Харли.
+За последние 30 дней чаще всего героя обыгрывают Грейнджер, Инь, Хелкарт, Харли и Сабер.
 
 Какой процент побед у героя «Хильда» сейчас?
 
-48,68% в Мифической славе за последние 7 дней и 51,07% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+48,68% в Мифической славе за последние 7 дней и 51,07% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Хильда»?
 

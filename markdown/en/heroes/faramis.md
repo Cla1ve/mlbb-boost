@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **48.6%**![](/images/ranks/Epic.webp)Epic
-2.  **49.0%**![](/images/ranks/Legend.webp)Legend
+2.  **48.9%**![](/images/ranks/Legend.webp)Legend
 3.  **49.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -253,7 +253,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Lore
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Gloo, Wanwan, Sun, Ling and Kar
 
 What is Faramis’s win rate right now?
 
-50.74% at Mythical Glory over the last 7 days and 50.83% across all ranks over 30 days, as of 23 November 2026.
+50.74% at Mythical Glory over the last 7 days and 50.80% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Faramis play?
 

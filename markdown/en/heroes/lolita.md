@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.3%**![](/images/ranks/Epic.webp)Epic
+1.  **54.4%**![](/images/ranks/Epic.webp)Epic
 2.  **55.3%**![](/images/ranks/Legend.webp)Legend
 3.  **54.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **53.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -245,13 +245,13 @@ Cooldown **55 Mana Cost: 100 s**
 
 Beat this hero
 
-[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
+[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)
+[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)
 
 ## Lore
 
@@ -267,11 +267,11 @@ This hero beats them
 
 Who counters Lolita in MLBB?
 
-Over the last 30 days the toughest opponents are Cyclops, Edith, Chang'e, Harley and Bane.
+Over the last 30 days the toughest opponents are Cyclops, Edith, Chang'e, Bane and Harley.
 
 What is Lolita’s win rate right now?
 
-52.30% at Mythical Glory over the last 7 days and 53.30% across all ranks over 30 days, as of 23 November 2026.
+52.30% at Mythical Glory over the last 7 days and 53.30% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Lolita play?
 

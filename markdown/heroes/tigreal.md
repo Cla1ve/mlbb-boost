@@ -44,7 +44,7 @@ C
 
 1.  **48,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **46,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **44,8%**![](/images/ranks/Mythic.webp)Мифик
+3.  **44,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **44,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **44,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -246,7 +246,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)
 
 ### Слабые цели
 
@@ -268,11 +268,11 @@ C
 
 Кто контрпик для героя «Тигрил» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Зилонг, Эстес, Франко, Алукард и Лесли.
+За последние 30 дней чаще всего героя обыгрывают Зилонг, Эстес, Алукард, Франко и Лесли.
 
 Какой процент побед у героя «Тигрил» сейчас?
 
-45,03% в Мифической славе за последние 7 дней и 45,22% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+45,03% в Мифической славе за последние 7 дней и 45,24% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Тигрил»?
 

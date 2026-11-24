@@ -43,9 +43,9 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **53,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,6%**![](/images/ranks/Mythic.webp)Мифик
+1.  **53,6%**![](/images/ranks/Epic.webp)Эпик
+2.  **52,8%**![](/images/ranks/Legend.webp)Легенда
+3.  **52,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,9%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -249,7 +249,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## История
 
@@ -269,7 +269,7 @@ B
 
 Какой процент побед у героя «Минситтар» сейчас?
 
-52,09% в Мифической славе за последние 7 дней и 52,08% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+52,09% в Мифической славе за последние 7 дней и 52,09% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Минситтар»?
 

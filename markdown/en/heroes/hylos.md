@@ -47,7 +47,7 @@ Ban rate
 2.  **50.7%**![](/images/ranks/Legend.webp)Legend
 3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **46.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -247,7 +247,7 @@ When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allie
 
 Beat this hero
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
 ### Easy targets
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Hylos in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Nana and Saber.
+Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Saber and Nana.
 
 What is Hylos’s win rate right now?
 
-46.98% at Mythical Glory over the last 7 days and 48.55% across all ranks over 30 days, as of 23 November 2026.
+46.98% at Mythical Glory over the last 7 days and 48.55% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Hylos play?
 

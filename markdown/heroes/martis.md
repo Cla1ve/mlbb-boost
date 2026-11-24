@@ -44,7 +44,7 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **46,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,8%**![](/images/ranks/Legend.webp)Легенда
+2.  **46,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **47,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **47,4%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -251,7 +251,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
+[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
 
 ## История
 
@@ -271,7 +271,7 @@ C
 
 Какой процент побед у героя «Мартис» сейчас?
 
-47,46% в Мифической славе за последние 7 дней и 47,23% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+47,46% в Мифической славе за последние 7 дней и 47,22% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Мартис»?
 

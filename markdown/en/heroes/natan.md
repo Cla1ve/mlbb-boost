@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Sun, Gloo, Zhask, Esmeralda and
 
 What is Natan’s win rate right now?
 
-51.50% at Mythical Glory over the last 7 days and 51.32% across all ranks over 30 days, as of 23 November 2026.
+51.50% at Mythical Glory over the last 7 days and 51.33% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Natan play?
 

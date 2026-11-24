@@ -44,9 +44,9 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.1%**![](/images/ranks/Epic.webp)Epic
-2.  **51.7%**![](/images/ranks/Legend.webp)Legend
-3.  **51.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+2.  **51.6%**![](/images/ranks/Legend.webp)Legend
+3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -241,7 +241,7 @@ Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic P
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
 ### Easy targets
 
@@ -263,11 +263,11 @@ This hero beats them
 
 Who counters Kagura in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Silvanna, Valir, Hanabi and Hanzo.
+Over the last 30 days the toughest opponents are Lolita, Silvanna, Valir, Hanzo and Hanabi.
 
 What is Kagura’s win rate right now?
 
-50.18% at Mythical Glory over the last 7 days and 51.09% across all ranks over 30 days, as of 23 November 2026.
+50.18% at Mythical Glory over the last 7 days and 51.05% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Kagura play?
 

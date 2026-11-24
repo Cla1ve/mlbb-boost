@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Baxia, Barats, Terizla, Phoveus
 
 What is X.Borg’s win rate right now?
 
-48.99% at Mythical Glory over the last 7 days and 49.96% across all ranks over 30 days, as of 23 November 2026.
+48.99% at Mythical Glory over the last 7 days and 49.95% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does X.Borg play?
 

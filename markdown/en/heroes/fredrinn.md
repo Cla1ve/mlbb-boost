@@ -45,7 +45,7 @@ Ban rate
 
 1.  **50.0%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
-3.  **50.1%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -253,7 +253,7 @@ This skill costs 3 Combo Points.
 
 Beat this hero
 
-[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ### Easy targets
 
@@ -275,11 +275,11 @@ This hero beats them
 
 Who counters Fredrinn in MLBB?
 
-Over the last 30 days the toughest opponents are Gloo, Alucard, Joy, Lunox and Esmeralda.
+Over the last 30 days the toughest opponents are Gloo, Alucard, Joy, Lunox and Khaleed.
 
 What is Fredrinn’s win rate right now?
 
-52.36% at Mythical Glory over the last 7 days and 51.25% across all ranks over 30 days, as of 23 November 2026.
+52.36% at Mythical Glory over the last 7 days and 51.26% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Fredrinn play?
 

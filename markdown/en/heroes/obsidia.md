@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Benedetta, Helcurt, Aldous, Yin
 
 What is Obsidia’s win rate right now?
 
-52.61% at Mythical Glory over the last 7 days and 53.20% across all ranks over 30 days, as of 23 November 2026.
+52.61% at Mythical Glory over the last 7 days and 53.18% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Obsidia play?
 

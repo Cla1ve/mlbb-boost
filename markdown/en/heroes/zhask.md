@@ -267,7 +267,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)
 
 ## Lore
 
@@ -287,7 +287,7 @@ Over the last 30 days the toughest opponents are Lolita, Diggie, Kaja, Arlott an
 
 What is Zhask’s win rate right now?
 
-51.54% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 23 November 2026.
+51.54% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Zhask play?
 

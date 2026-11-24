@@ -44,10 +44,10 @@ D
 ### Победы по рангам, 30 дней
 
 1.  **48,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,0%**![](/images/ranks/Legend.webp)Легенда
+2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -253,7 +253,7 @@ D
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
@@ -273,7 +273,7 @@ D
 
 Какой процент побед у героя «Фарамис» сейчас?
 
-50,74% в Мифической славе за последние 7 дней и 50,83% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,74% в Мифической славе за последние 7 дней и 50,80% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Фарамис»?
 

@@ -45,7 +45,7 @@ Ban rate
 
 1.  **50.3%**![](/images/ranks/Epic.webp)Epic
 2.  **50.0%**![](/images/ranks/Legend.webp)Legend
-3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Lolita, Barats, Phoveus, Hylos 
 
 What is Cecilion’s win rate right now?
 
-50.69% at Mythical Glory over the last 7 days and 50.96% across all ranks over 30 days, as of 23 November 2026.
+50.69% at Mythical Glory over the last 7 days and 50.93% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Cecilion play?
 

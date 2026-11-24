@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **43.2%**![](/images/ranks/Epic.webp)Epic
-2.  **41.8%**![](/images/ranks/Legend.webp)Legend
+2.  **41.7%**![](/images/ranks/Legend.webp)Legend
 3.  **41.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **42.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **44.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -247,7 +247,7 @@ Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldow
 
 Beat this hero
 
-[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 ### Easy targets
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Granger in MLBB?
 
-Over the last 30 days the toughest opponents are Karina, Beatrix, Ixia, Diggie and Yve.
+Over the last 30 days the toughest opponents are Karina, Beatrix, Ixia, Yve and Diggie.
 
 What is Granger’s win rate right now?
 
-44.02% at Mythical Glory over the last 7 days and 42.99% across all ranks over 30 days, as of 23 November 2026.
+44.02% at Mythical Glory over the last 7 days and 42.97% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Granger play?
 

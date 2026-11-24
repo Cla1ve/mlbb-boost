@@ -43,10 +43,10 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **51,9%**![](/images/ranks/Epic.webp)Эпик
+1.  **52,0%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **51,7%**![](/images/ranks/Mythic.webp)Мифик
+4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -247,7 +247,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
+[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)
 
 ### Слабые цели
 
@@ -269,11 +269,11 @@ D
 
 Кто контрпик для героя «Наталья» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Линг, Ханзо, Ксавьер, Нолан и Минситтар.
+За последние 30 дней чаще всего героя обыгрывают Линг, Ханзо, Ксавьер, Минситтар и Нолан.
 
 Какой процент побед у героя «Наталья» сейчас?
 
-50,32% в Мифической славе за последние 7 дней и 51,05% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,32% в Мифической славе за последние 7 дней и 51,07% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Наталья»?
 

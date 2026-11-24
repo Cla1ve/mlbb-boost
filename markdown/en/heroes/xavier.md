@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.5%**![](/images/ranks/Epic.webp)Epic
+1.  **48.6%**![](/images/ranks/Epic.webp)Epic
 2.  **49.3%**![](/images/ranks/Legend.webp)Legend
 3.  **50.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Popol and Kupa, Belerick, Atlas
 
 What is Xavier’s win rate right now?
 
-53.52% at Mythical Glory over the last 7 days and 51.68% across all ranks over 30 days, as of 23 November 2026.
+53.52% at Mythical Glory over the last 7 days and 51.78% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Xavier play?
 

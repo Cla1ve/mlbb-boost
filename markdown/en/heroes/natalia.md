@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.9%**![](/images/ranks/Epic.webp)Epic
+1.  **52.0%**![](/images/ranks/Epic.webp)Epic
 2.  **52.0%**![](/images/ranks/Legend.webp)Legend
-3.  **51.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **51.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -247,7 +247,7 @@ Cooldown **3 s**
 
 Beat this hero
 
-[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)
+[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)
 
 ### Easy targets
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Natalia in MLBB?
 
-Over the last 30 days the toughest opponents are Ling, Hanzo, Xavier, Nolan and Minsitthar.
+Over the last 30 days the toughest opponents are Ling, Hanzo, Xavier, Minsitthar and Nolan.
 
 What is Natalia’s win rate right now?
 
-50.32% at Mythical Glory over the last 7 days and 51.05% across all ranks over 30 days, as of 23 November 2026.
+50.32% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Natalia play?
 

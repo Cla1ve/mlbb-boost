@@ -45,7 +45,7 @@ C
 
 1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,1%**![](/images/ranks/Mythic.webp)Мифик
+3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **52,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -253,7 +253,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ### Слабые цели
 
@@ -275,11 +275,11 @@ C
 
 Кто контрпик для героя «Фредрин» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Глу, Алукард, Джой, Люнокс и Эсмеральда.
+За последние 30 дней чаще всего героя обыгрывают Глу, Алукард, Джой, Люнокс и Халид.
 
 Какой процент побед у героя «Фредрин» сейчас?
 
-52,36% в Мифической славе за последние 7 дней и 51,25% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+52,36% в Мифической славе за последние 7 дней и 51,26% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Фредрин»?
 

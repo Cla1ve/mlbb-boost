@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **44.6%**![](/images/ranks/Epic.webp)Epic
+1.  **44.7%**![](/images/ranks/Epic.webp)Epic
 2.  **43.0%**![](/images/ranks/Legend.webp)Legend
 3.  **41.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **42.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **42.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **42.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Granger, Gloo, Yve, Atlas and C
 
 What is Fanny’s win rate right now?
 
-42.96% at Mythical Glory over the last 7 days and 42.64% across all ranks over 30 days, as of 23 November 2026.
+42.96% at Mythical Glory over the last 7 days and 42.67% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Fanny play?
 

@@ -267,7 +267,7 @@ Over the last 30 days the toughest opponents are Odette, Saber, Miya, Zilong and
 
 What is Gatotkaca’s win rate right now?
 
-44.17% at Mythical Glory over the last 7 days and 45.35% across all ranks over 30 days, as of 23 November 2026.
+44.17% at Mythical Glory over the last 7 days and 45.36% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Gatotkaca play?
 

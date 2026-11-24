@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.5%**![](/images/ranks/Epic.webp)Epic
+1.  **51.4%**![](/images/ranks/Epic.webp)Epic
 2.  **51.2%**![](/images/ranks/Legend.webp)Legend
 3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -249,7 +249,7 @@ This skill can only be interrupted by Suppression.
 
 Beat this hero
 
-[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)
+[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
 ### Easy targets
 
@@ -271,11 +271,11 @@ This hero beats them
 
 Who counters Akai in MLBB?
 
-Over the last 30 days the toughest opponents are Alucard, Harith, Nana, Silvanna and Granger.
+Over the last 30 days the toughest opponents are Alucard, Harith, Silvanna, Granger and Nana.
 
 What is Akai’s win rate right now?
 
-49.24% at Mythical Glory over the last 7 days and 50.18% across all ranks over 30 days, as of 23 November 2026.
+49.24% at Mythical Glory over the last 7 days and 50.17% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Akai play?
 

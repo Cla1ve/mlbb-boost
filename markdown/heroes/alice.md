@@ -43,10 +43,10 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **50,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,7%**![](/images/ranks/Legend.webp)Легенда
+1.  **50,6%**![](/images/ranks/Epic.webp)Эпик
+2.  **50,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **50,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -251,7 +251,7 @@ A
 
 Побеждают этого героя
 
-[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)
 
 ### Слабые цели
 
@@ -273,11 +273,11 @@ A
 
 Кто контрпик для героя «Алиса» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Чип, Глу, Тигрил, Атлас и Фарамис.
+За последние 30 дней чаще всего героя обыгрывают Чип, Глу, Тигрил, Атлас и Бартс.
 
 Какой процент побед у героя «Алиса» сейчас?
 
-50,31% в Мифической славе за последние 7 дней и 50,70% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,31% в Мифической славе за последние 7 дней и 50,67% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Алиса»?
 

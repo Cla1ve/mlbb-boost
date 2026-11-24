@@ -45,7 +45,7 @@ C
 
 1.  **51,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
+3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -249,7 +249,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ### Слабые цели
 
@@ -271,11 +271,11 @@ C
 
 Кто контрпик для героя «Леоморд» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Сабер, Пополь и Купа, Белерик и Наталья.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Сабер, Белерик, Пополь и Купа и Наталья.
 
 Какой процент побед у героя «Леоморд» сейчас?
 
-49,95% в Мифической славе за последние 7 дней и 50,09% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+49,95% в Мифической славе за последние 7 дней и 50,08% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Леоморд»?
 

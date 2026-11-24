@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Natalia, X.Borg, Karina, Wanwan
 
 What is Paquito’s win rate right now?
 
-50.12% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 23 November 2026.
+50.12% at Mythical Glory over the last 7 days and 50.02% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Paquito play?
 

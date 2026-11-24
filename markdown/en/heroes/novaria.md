@@ -261,7 +261,7 @@ Over the last 30 days the toughest opponents are Diggie, Valir, Bane, Hanabi and
 
 What is Novaria’s win rate right now?
 
-48.36% at Mythical Glory over the last 7 days and 49.52% across all ranks over 30 days, as of 23 November 2026.
+48.36% at Mythical Glory over the last 7 days and 49.49% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Novaria play?
 

@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Diggie, Balmond, Martis, Alpha 
 
 What is Chang'e’s win rate right now?
 
-45.95% at Mythical Glory over the last 7 days and 48.20% across all ranks over 30 days, as of 23 November 2026.
+45.95% at Mythical Glory over the last 7 days and 48.20% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Chang'e play?
 

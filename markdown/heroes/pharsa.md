@@ -255,7 +255,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ## История
 
@@ -271,11 +271,11 @@ D
 
 Кто контрпик для героя «Фаша» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Дигги, Мелисса, Валир и Ханаби.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Дигги, Мелисса, Валир и Ив.
 
 Какой процент побед у героя «Фаша» сейчас?
 
-46,68% в Мифической славе за последние 7 дней и 47,26% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+46,68% в Мифической славе за последние 7 дней и 47,24% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Фаша»?
 

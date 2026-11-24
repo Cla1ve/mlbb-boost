@@ -43,11 +43,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **51,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+1.  **51,9%**![](/images/ranks/Epic.webp)Эпик
+2.  **52,0%**![](/images/ranks/Legend.webp)Легенда
+3.  **52,7%**![](/images/ranks/Mythic.webp)Мифик
+4.  **51,7%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,7%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -257,7 +257,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
 
 ## История
 
@@ -277,7 +277,7 @@ C
 
 Какой процент побед у героя «Алдос» сейчас?
 
-53,35% в Мифической славе за последние 7 дней и 51,86% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+53,35% в Мифической славе за последние 7 дней и 51,98% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Алдос»?
 

@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are X.Borg, Alpha, Silvanna, Ixia a
 
 What is Benedetta’s win rate right now?
 
-51.58% at Mythical Glory over the last 7 days and 52.10% across all ranks over 30 days, as of 23 November 2026.
+51.58% at Mythical Glory over the last 7 days and 52.09% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Benedetta play?
 

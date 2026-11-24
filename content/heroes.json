@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:25:00",
+ "updated": "2026-11-24T01:05:01",
  "source": "https://www.mobilelegends.com/rank",
  "period": "30 days, all ranks",
  "heroes": [
@@ -8,11 +8,11 @@
    "en": "Masha",
    "ru": "Маша",
    "rank": 1,
-   "pick": 0.52,
-   "win": 60.4,
-   "ban": 40.89,
-   "gloryWin": 60.75,
-   "gloryBan": 72.41,
+   "pick": 0.51,
+   "win": 60.34,
+   "ban": 40.99,
+   "gloryWin": 60.66,
+   "gloryBan": 72.11,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -37,11 +37,11 @@
    ],
    "releaseOrder": 46,
    "byRank": {
-    "epic": 54.74,
-    "legend": 58.09,
-    "mythic": 59.63,
-    "honor": 61.09,
-    "glory": 60.75
+    "epic": 54.65,
+    "legend": 58.02,
+    "mythic": 59.55,
+    "honor": 61.05,
+    "glory": 60.66
    },
    "recent": {
     "win": 58.46,
@@ -92,10 +92,10 @@
    "ru": "Марсель",
    "rank": 2,
    "pick": 0.29,
-   "win": 57.46,
-   "ban": 41.3,
-   "gloryWin": 57.36,
-   "gloryBan": 71.35,
+   "win": 57.44,
+   "ban": 41.55,
+   "gloryWin": 57.34,
+   "gloryBan": 71.25,
    "tier": "S",
    "lowPick": true,
    "counters": [
@@ -113,6 +113,7 @@
     "cyclops",
     "aamon",
     "angela",
+    "odette",
     "karina",
     "lesley",
     "esmeralda"
@@ -127,11 +128,11 @@
    ],
    "releaseOrder": 2,
    "byRank": {
-    "epic": 55.64,
-    "legend": 56.95,
-    "mythic": 57.54,
-    "honor": 57.94,
-    "glory": 57.36
+    "epic": 55.61,
+    "legend": 56.91,
+    "mythic": 57.53,
+    "honor": 57.92,
+    "glory": 57.34
    },
    "recent": {
     "win": 57.16,
@@ -182,10 +183,10 @@
    "ru": "Аргус",
    "rank": 3,
    "pick": 0.53,
-   "win": 56.78,
+   "win": 56.81,
    "ban": 0.98,
-   "gloryWin": 56.88,
-   "gloryBan": 0.49,
+   "gloryWin": 56.9,
+   "gloryBan": 0.5,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -214,10 +215,10 @@
    "releaseOrder": 89,
    "byRank": {
     "epic": 55.52,
-    "legend": 56.71,
-    "mythic": 57.41,
-    "honor": 56.77,
-    "glory": 56.88
+    "legend": 56.73,
+    "mythic": 57.45,
+    "honor": 56.79,
+    "glory": 56.9
    },
    "recent": {
     "win": 57.15,
@@ -269,9 +270,9 @@
    "rank": 4,
    "pick": 0.35,
    "win": 54.72,
-   "ban": 2.14,
-   "gloryWin": 54.56,
-   "gloryBan": 3.91,
+   "ban": 2.17,
+   "gloryWin": 54.58,
+   "gloryBan": 3.92,
    "tier": "S",
    "lowPick": true,
    "counters": [
@@ -299,11 +300,11 @@
    ],
    "releaseOrder": 56,
    "byRank": {
-    "epic": 55.11,
+    "epic": 55.12,
     "legend": 54.54,
     "mythic": 54.84,
     "honor": 55.15,
-    "glory": 54.56
+    "glory": 54.58
    },
    "recent": {
     "win": 54.87,
@@ -353,11 +354,11 @@
    "en": "Rafaela",
    "ru": "Рафаэль",
    "rank": 5,
-   "pick": 0.85,
-   "win": 54.51,
-   "ban": 12.66,
-   "gloryWin": 53.95,
-   "gloryBan": 13.21,
+   "pick": 0.84,
+   "win": 54.46,
+   "ban": 12.41,
+   "gloryWin": 53.9,
+   "gloryBan": 12.85,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -384,11 +385,11 @@
    ],
    "releaseOrder": 120,
    "byRank": {
-    "epic": 53.15,
-    "legend": 54.77,
-    "mythic": 55.26,
-    "honor": 55.22,
-    "glory": 53.95
+    "epic": 53.1,
+    "legend": 54.71,
+    "mythic": 55.22,
+    "honor": 55.19,
+    "glory": 53.9
    },
    "recent": {
     "win": 53.71,
@@ -439,10 +440,10 @@
    "ru": "Дигги",
    "rank": 6,
    "pick": 0.2,
-   "win": 54.3,
-   "ban": 3.66,
-   "gloryWin": 55.46,
-   "gloryBan": 5.22,
+   "win": 54.33,
+   "ban": 3.68,
+   "gloryWin": 55.48,
+   "gloryBan": 5.23,
    "tier": "S",
    "lowPick": true,
    "counters": [
@@ -480,11 +481,11 @@
    ],
    "releaseOrder": 86,
    "byRank": {
-    "epic": 50.73,
-    "legend": 51.54,
-    "mythic": 53.13,
-    "honor": 53.91,
-    "glory": 55.46
+    "epic": 50.79,
+    "legend": 51.52,
+    "mythic": 53.05,
+    "honor": 53.93,
+    "glory": 55.48
    },
    "recent": {
     "win": 54.86,
@@ -534,11 +535,11 @@
    "en": "Valir",
    "ru": "Валир",
    "rank": 7,
-   "pick": 1.21,
-   "win": 54.11,
-   "ban": 3.78,
-   "gloryWin": 53.73,
-   "gloryBan": 2.87,
+   "pick": 1.22,
+   "win": 54.09,
+   "ban": 3.85,
+   "gloryWin": 53.71,
+   "gloryBan": 2.94,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -570,11 +571,11 @@
    ],
    "releaseOrder": 77,
    "byRank": {
-    "epic": 54.28,
-    "legend": 54.28,
-    "mythic": 54.66,
-    "honor": 54.23,
-    "glory": 53.73
+    "epic": 54.25,
+    "legend": 54.25,
+    "mythic": 54.63,
+    "honor": 54.21,
+    "glory": 53.71
    },
    "recent": {
     "win": 53.79,
@@ -625,10 +626,10 @@
    "ru": "Флорин",
    "rank": 8,
    "pick": 0.95,
-   "win": 54.07,
-   "ban": 13.36,
+   "win": 54.05,
+   "ban": 13.39,
    "gloryWin": 53.83,
-   "gloryBan": 12.83,
+   "gloryBan": 12.89,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -643,7 +644,6 @@
     "eudora",
     "ixia",
     "yin",
-    "chip",
     "franco"
    ],
    "patch": null,
@@ -656,10 +656,10 @@
    ],
    "releaseOrder": 22,
    "byRank": {
-    "epic": 55.57,
-    "legend": 54.51,
-    "mythic": 54.05,
-    "honor": 54.18,
+    "epic": 55.56,
+    "legend": 54.49,
+    "mythic": 54.01,
+    "honor": 54.16,
     "glory": 53.83
    },
    "recent": {
@@ -710,11 +710,11 @@
    "en": "Bruno",
    "ru": "Бруно",
    "rank": 9,
-   "pick": 0.56,
-   "win": 53.78,
+   "pick": 0.57,
+   "win": 53.79,
    "ban": 0.29,
    "gloryWin": 54.31,
-   "gloryBan": 0.32,
+   "gloryBan": 0.33,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -738,10 +738,10 @@
    ],
    "releaseOrder": 122,
    "byRank": {
-    "epic": 52.02,
+    "epic": 52.06,
     "legend": 52.18,
-    "mythic": 52.75,
-    "honor": 53.6,
+    "mythic": 52.72,
+    "honor": 53.59,
     "glory": 54.31
    },
    "recent": {
@@ -794,9 +794,9 @@
    "rank": 10,
    "pick": 1,
    "win": 53.77,
-   "ban": 8.43,
-   "gloryWin": 53.12,
-   "gloryBan": 10.6,
+   "ban": 8.46,
+   "gloryWin": 53.14,
+   "gloryBan": 10.53,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -820,11 +820,11 @@
    ],
    "releaseOrder": 115,
    "byRank": {
-    "epic": 54.01,
-    "legend": 54.96,
-    "mythic": 54.88,
-    "honor": 54.24,
-    "glory": 53.12
+    "epic": 53.97,
+    "legend": 54.94,
+    "mythic": 54.89,
+    "honor": 54.27,
+    "glory": 53.14
    },
    "recent": {
     "win": 53.96,
@@ -875,10 +875,10 @@
    "ru": "Сан",
    "rank": 11,
    "pick": 1.75,
-   "win": 53.72,
-   "ban": 35.31,
-   "gloryWin": 52.58,
-   "gloryBan": 38.93,
+   "win": 53.76,
+   "ban": 36.21,
+   "gloryWin": 52.64,
+   "gloryBan": 40.3,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -911,10 +911,10 @@
    "releaseOrder": 107,
    "byRank": {
     "epic": 55.91,
-    "legend": 55.49,
-    "mythic": 54.4,
-    "honor": 52.9,
-    "glory": 52.58
+    "legend": 55.52,
+    "mythic": 54.47,
+    "honor": 52.96,
+    "glory": 52.64
    },
    "recent": {
     "win": 54.1,
@@ -964,11 +964,11 @@
    "en": "Aulus",
    "ru": "Аулус",
    "rank": 12,
-   "pick": 0.77,
-   "win": 53.46,
-   "ban": 30.3,
-   "gloryWin": 53.44,
-   "gloryBan": 44.67,
+   "pick": 0.76,
+   "win": 53.44,
+   "ban": 29.35,
+   "gloryWin": 53.43,
+   "gloryBan": 43.05,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -990,11 +990,11 @@
    ],
    "releaseOrder": 26,
    "byRank": {
-    "epic": 51.65,
-    "legend": 52.55,
-    "mythic": 53.4,
-    "honor": 54.11,
-    "glory": 53.44
+    "epic": 51.61,
+    "legend": 52.49,
+    "mythic": 53.35,
+    "honor": 54.1,
+    "glory": 53.43
    },
    "recent": {
     "win": 52.81,
@@ -1045,10 +1045,10 @@
    "ru": "Глу",
    "rank": 13,
    "pick": 0.75,
-   "win": 53.45,
-   "ban": 41.9,
-   "gloryWin": 51.51,
-   "gloryBan": 38.16,
+   "win": 53.35,
+   "ban": 41.86,
+   "gloryWin": 51.44,
+   "gloryBan": 38.15,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -1067,8 +1067,8 @@
     "natan",
     "fredrinn",
     "faramis",
-    "alice",
     "lunox",
+    "alice",
     "moskov",
     "kaja",
     "zhuxin",
@@ -1088,11 +1088,11 @@
    ],
    "releaseOrder": 30,
    "byRank": {
-    "epic": 55.73,
-    "legend": 56.11,
-    "mythic": 55.68,
-    "honor": 54.21,
-    "glory": 51.51
+    "epic": 55.64,
+    "legend": 56.04,
+    "mythic": 55.59,
+    "honor": 54.16,
+    "glory": 51.44
    },
    "recent": {
     "win": 51.42,
@@ -1145,7 +1145,7 @@
    "pick": 0.08,
    "win": 53.3,
    "ban": 0.2,
-   "gloryWin": 51.7,
+   "gloryWin": 51.74,
    "gloryBan": 0.15,
    "tier": "S",
    "lowPick": true,
@@ -1153,8 +1153,8 @@
     "cyclops",
     "edith",
     "change",
-    "harley",
-    "bane"
+    "bane",
+    "harley"
    ],
    "strongAgainst": [
     "minotaur",
@@ -1170,9 +1170,9 @@
     "terizla",
     "kalea",
     "clint",
-    "leomord",
-    "ixia",
     "melissa",
+    "ixia",
+    "leomord",
     "hirara",
     "zhuxin",
     "sora",
@@ -1181,6 +1181,7 @@
     "aurora",
     "claude",
     "joy",
+    "chip",
     "nana",
     "pharsa",
     "esmeralda",
@@ -1199,11 +1200,11 @@
    ],
    "releaseOrder": 114,
    "byRank": {
-    "epic": 54.33,
-    "legend": 55.33,
+    "epic": 54.35,
+    "legend": 55.28,
     "mythic": 54.74,
-    "honor": 53.7,
-    "glory": 51.7
+    "honor": 53.75,
+    "glory": 51.74
    },
    "recent": {
     "win": 53.49,
@@ -1254,10 +1255,10 @@
    "ru": "Кармилла",
    "rank": 15,
    "pick": 1.27,
-   "win": 53.29,
-   "ban": 21.66,
-   "gloryWin": 52.61,
-   "gloryBan": 38.13,
+   "win": 53.25,
+   "ban": 21.8,
+   "gloryWin": 52.58,
+   "gloryBan": 38,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -1281,11 +1282,11 @@
    ],
    "releaseOrder": 42,
    "byRank": {
-    "epic": 54.31,
-    "legend": 54.61,
-    "mythic": 54.25,
+    "epic": 54.25,
+    "legend": 54.59,
+    "mythic": 54.24,
     "honor": 53.64,
-    "glory": 52.61
+    "glory": 52.58
    },
    "recent": {
     "win": 52.8,
@@ -1335,11 +1336,11 @@
    "en": "Obsidia",
    "ru": "Обсидия",
    "rank": 16,
-   "pick": 2.2,
-   "win": 53.2,
-   "ban": 48.46,
-   "gloryWin": 52.89,
-   "gloryBan": 61.08,
+   "pick": 2.18,
+   "win": 53.18,
+   "ban": 49.08,
+   "gloryWin": 52.88,
+   "gloryBan": 61.51,
    "tier": "S",
    "lowPick": false,
    "counters": [
@@ -1363,11 +1364,11 @@
    ],
    "releaseOrder": 4,
    "byRank": {
-    "epic": 51.8,
-    "legend": 52.91,
-    "mythic": 53.79,
-    "honor": 53.82,
-    "glory": 52.89
+    "epic": 51.77,
+    "legend": 52.86,
+    "mythic": 53.75,
+    "honor": 53.83,
+    "glory": 52.88
    },
    "recent": {
     "win": 52.92,
@@ -1413,103 +1414,14 @@
    }
   },
   {
-   "slug": "estes",
-   "en": "Estes",
-   "ru": "Эстес",
-   "rank": 17,
-   "pick": 0.64,
-   "win": 52.75,
-   "ban": 46.89,
-   "gloryWin": 52.43,
-   "gloryBan": 29.47,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "cyclops",
-    "faramis",
-    "cici",
-    "alice",
-    "diggie"
-   ],
-   "strongAgainst": [
-    "atlas",
-    "beatrix",
-    "vale",
-    "ixia",
-    "nolan",
-    "yin",
-    "sora",
-    "luo-yi",
-    "tigreal"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Support"
-   ],
-   "lanes": [
-    "Roam"
-   ],
-   "releaseOrder": 100,
-   "byRank": {
-    "epic": 53.9,
-    "legend": 53.39,
-    "mythic": 53.09,
-    "honor": 52.31,
-    "glory": 52.43
-   },
-   "recent": {
-    "win": 52.81,
-    "pick": 0.61,
-    "ban": 47.72
-   },
-   "top": {
-    "win": 52.77,
-    "pick": 0.6,
-    "ban": 51.96
-   },
-   "r7": {
-    "all": {
-     "win": 52.81,
-     "pick": 0.61,
-     "ban": 47.72
-    },
-    "epic": {
-     "win": 53.98,
-     "pick": 0.58,
-     "ban": 58.23
-    },
-    "legend": {
-     "win": 53.32,
-     "pick": 0.61,
-     "ban": 67.1
-    },
-    "mythic": {
-     "win": 53.25,
-     "pick": 0.55,
-     "ban": 67.5
-    },
-    "honor": {
-     "win": 52.46,
-     "pick": 0.61,
-     "ban": 56.39
-    },
-    "glory": {
-     "win": 52.59,
-     "pick": 0.64,
-     "ban": 31.98
-    }
-   }
-  },
-  {
    "slug": "irithel",
    "en": "Irithel",
    "ru": "Иритель",
-   "rank": 18,
+   "rank": 17,
    "pick": 0.41,
-   "win": 52.74,
+   "win": 52.76,
    "ban": 0.26,
-   "gloryWin": 52.74,
+   "gloryWin": 52.78,
    "gloryBan": 0.09,
    "tier": "A",
    "lowPick": true,
@@ -1535,11 +1447,11 @@
    ],
    "releaseOrder": 91,
    "byRank": {
-    "epic": 50.34,
+    "epic": 50.31,
     "legend": 52.07,
-    "mythic": 53.28,
-    "honor": 53.43,
-    "glory": 52.74
+    "mythic": 53.26,
+    "honor": 53.47,
+    "glory": 52.78
    },
    "recent": {
     "win": 53.21,
@@ -1585,14 +1497,104 @@
    }
   },
   {
+   "slug": "estes",
+   "en": "Estes",
+   "ru": "Эстес",
+   "rank": 18,
+   "pick": 0.64,
+   "win": 52.75,
+   "ban": 46.99,
+   "gloryWin": 52.44,
+   "gloryBan": 29.74,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "cyclops",
+    "faramis",
+    "alice",
+    "cici",
+    "diggie"
+   ],
+   "strongAgainst": [
+    "atlas",
+    "beatrix",
+    "vale",
+    "ixia",
+    "nolan",
+    "yin",
+    "sora",
+    "luo-yi",
+    "tigreal",
+    "franco"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 100,
+   "byRank": {
+    "epic": 53.91,
+    "legend": 53.4,
+    "mythic": 53.11,
+    "honor": 52.32,
+    "glory": 52.44
+   },
+   "recent": {
+    "win": 52.81,
+    "pick": 0.61,
+    "ban": 47.72
+   },
+   "top": {
+    "win": 52.77,
+    "pick": 0.6,
+    "ban": 51.96
+   },
+   "r7": {
+    "all": {
+     "win": 52.81,
+     "pick": 0.61,
+     "ban": 47.72
+    },
+    "epic": {
+     "win": 53.98,
+     "pick": 0.58,
+     "ban": 58.23
+    },
+    "legend": {
+     "win": 53.32,
+     "pick": 0.61,
+     "ban": 67.1
+    },
+    "mythic": {
+     "win": 53.25,
+     "pick": 0.55,
+     "ban": 67.5
+    },
+    "honor": {
+     "win": 52.46,
+     "pick": 0.61,
+     "ban": 56.39
+    },
+    "glory": {
+     "win": 52.59,
+     "pick": 0.64,
+     "ban": 31.98
+    }
+   }
+  },
+  {
    "slug": "edith",
    "en": "Edith",
    "ru": "Эдит",
    "rank": 19,
    "pick": 0.29,
-   "win": 52.67,
+   "win": 52.69,
    "ban": 0.14,
-   "gloryWin": 51.9,
+   "gloryWin": 51.92,
    "gloryBan": 0.09,
    "tier": "A",
    "lowPick": true,
@@ -1619,11 +1621,11 @@
    ],
    "releaseOrder": 23,
    "byRank": {
-    "epic": 53.37,
-    "legend": 53.4,
-    "mythic": 53.32,
-    "honor": 52.66,
-    "glory": 51.9
+    "epic": 53.4,
+    "legend": 53.42,
+    "mythic": 53.37,
+    "honor": 52.69,
+    "glory": 51.92
    },
    "recent": {
     "win": 53.32,
@@ -1674,10 +1676,10 @@
    "ru": "Ханаби",
    "rank": 20,
    "pick": 2.42,
-   "win": 52.66,
-   "ban": 4.27,
-   "gloryWin": 50.87,
-   "gloryBan": 1.38,
+   "win": 52.67,
+   "ban": 4.25,
+   "gloryWin": 50.9,
+   "gloryBan": 1.39,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -1695,8 +1697,7 @@
     "lylia",
     "joy",
     "lapu-lapu",
-    "wanwan",
-    "pharsa"
+    "wanwan"
    ],
    "patch": "nerf",
    "orders": null,
@@ -1708,11 +1709,11 @@
    ],
    "releaseOrder": 74,
    "byRank": {
-    "epic": 54.34,
-    "legend": 53.83,
-    "mythic": 53.1,
-    "honor": 51.86,
-    "glory": 50.87
+    "epic": 54.36,
+    "legend": 53.86,
+    "mythic": 53.15,
+    "honor": 51.9,
+    "glory": 50.9
    },
    "recent": {
     "win": 52.91,
@@ -1763,9 +1764,9 @@
    "ru": "Горд",
    "rank": 21,
    "pick": 0.58,
-   "win": 52.61,
+   "win": 52.6,
    "ban": 0.55,
-   "gloryWin": 52.25,
+   "gloryWin": 52.23,
    "gloryBan": 0.12,
    "tier": "A",
    "lowPick": false,
@@ -1790,11 +1791,11 @@
    ],
    "releaseOrder": 111,
    "byRank": {
-    "epic": 52.39,
-    "legend": 52.68,
-    "mythic": 53.07,
-    "honor": 52.79,
-    "glory": 52.25
+    "epic": 52.4,
+    "legend": 52.67,
+    "mythic": 53.06,
+    "honor": 52.78,
+    "glory": 52.23
    },
    "recent": {
     "win": 52.37,
@@ -1840,99 +1841,10 @@
    }
   },
   {
-   "slug": "ling",
-   "en": "Ling",
-   "ru": "Линг",
-   "rank": 22,
-   "pick": 0.68,
-   "win": 52.54,
-   "ban": 0.62,
-   "gloryWin": 51.85,
-   "gloryBan": 0.62,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "gloo",
-    "x-borg",
-    "hanzo",
-    "atlas",
-    "silvanna"
-   ],
-   "strongAgainst": [
-    "floryn",
-    "bruno",
-    "lukas",
-    "saber",
-    "natalia",
-    "faramis",
-    "melissa",
-    "freya",
-    "karina"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Assassin"
-   ],
-   "lanes": [
-    "Jungle"
-   ],
-   "releaseOrder": 50,
-   "byRank": {
-    "epic": 54.58,
-    "legend": 53.76,
-    "mythic": 53.09,
-    "honor": 53.08,
-    "glory": 51.85
-   },
-   "recent": {
-    "win": 52.31,
-    "pick": 0.67,
-    "ban": 0.61
-   },
-   "top": {
-    "win": 52.55,
-    "pick": 0.66,
-    "ban": 0.63
-   },
-   "r7": {
-    "all": {
-     "win": 52.31,
-     "pick": 0.67,
-     "ban": 0.61
-    },
-    "epic": {
-     "win": 55.31,
-     "pick": 0.22,
-     "ban": 0.57
-    },
-    "legend": {
-     "win": 54.11,
-     "pick": 0.31,
-     "ban": 0.51
-    },
-    "mythic": {
-     "win": 52.87,
-     "pick": 0.48,
-     "ban": 0.61
-    },
-    "honor": {
-     "win": 53,
-     "pick": 0.61,
-     "ban": 0.65
-    },
-    "glory": {
-     "win": 51.79,
-     "pick": 0.9,
-     "ban": 0.63
-    }
-   }
-  },
-  {
    "slug": "zhask",
    "en": "Zhask",
    "ru": "Заск",
-   "rank": 23,
+   "rank": 22,
    "pick": 0.34,
    "win": 52.54,
    "ban": 0.42,
@@ -1950,8 +1862,7 @@
    "strongAgainst": [
     "belerick",
     "natan",
-    "vexana",
-    "baxia"
+    "vexana"
    ],
    "patch": null,
    "orders": null,
@@ -1963,10 +1874,10 @@
    ],
    "releaseOrder": 84,
    "byRank": {
-    "epic": 52.57,
+    "epic": 52.63,
     "legend": 53.11,
-    "mythic": 53.4,
-    "honor": 52.64,
+    "mythic": 53.42,
+    "honor": 52.65,
     "glory": 51.46
    },
    "recent": {
@@ -2013,14 +1924,103 @@
    }
   },
   {
+   "slug": "ling",
+   "en": "Ling",
+   "ru": "Линг",
+   "rank": 23,
+   "pick": 0.68,
+   "win": 52.53,
+   "ban": 0.62,
+   "gloryWin": 51.86,
+   "gloryBan": 0.62,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "gloo",
+    "x-borg",
+    "hanzo",
+    "atlas",
+    "silvanna"
+   ],
+   "strongAgainst": [
+    "floryn",
+    "bruno",
+    "lukas",
+    "saber",
+    "natalia",
+    "faramis",
+    "melissa",
+    "freya",
+    "karina"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 50,
+   "byRank": {
+    "epic": 54.6,
+    "legend": 53.78,
+    "mythic": 53.08,
+    "honor": 53.08,
+    "glory": 51.86
+   },
+   "recent": {
+    "win": 52.31,
+    "pick": 0.67,
+    "ban": 0.61
+   },
+   "top": {
+    "win": 52.55,
+    "pick": 0.66,
+    "ban": 0.63
+   },
+   "r7": {
+    "all": {
+     "win": 52.31,
+     "pick": 0.67,
+     "ban": 0.61
+    },
+    "epic": {
+     "win": 55.31,
+     "pick": 0.22,
+     "ban": 0.57
+    },
+    "legend": {
+     "win": 54.11,
+     "pick": 0.31,
+     "ban": 0.51
+    },
+    "mythic": {
+     "win": 52.87,
+     "pick": 0.48,
+     "ban": 0.61
+    },
+    "honor": {
+     "win": 53,
+     "pick": 0.61,
+     "ban": 0.65
+    },
+    "glory": {
+     "win": 51.79,
+     "pick": 0.9,
+     "ban": 0.63
+    }
+   }
+  },
+  {
    "slug": "yve",
    "en": "Yve",
    "ru": "Ив",
    "rank": 24,
    "pick": 0.06,
-   "win": 52.26,
+   "win": 52.24,
    "ban": 0.04,
-   "gloryWin": 52.47,
+   "gloryWin": 52.43,
    "gloryBan": 0.03,
    "tier": "A",
    "lowPick": true,
@@ -2041,6 +2041,7 @@
     "gusion",
     "selena",
     "hayabusa",
+    "pharsa",
     "granger",
     "fanny"
    ],
@@ -2054,11 +2055,11 @@
    ],
    "releaseOrder": 33,
    "byRank": {
-    "epic": 52.01,
-    "legend": 51.39,
-    "mythic": 51.35,
-    "honor": 52.3,
-    "glory": 52.47
+    "epic": 52.12,
+    "legend": 51.4,
+    "mythic": 51.34,
+    "honor": 52.26,
+    "glory": 52.43
    },
    "recent": {
     "win": 51.92,
@@ -2104,13 +2105,98 @@
    }
   },
   {
+   "slug": "minsitthar",
+   "en": "Minsitthar",
+   "ru": "Минситтар",
+   "rank": 25,
+   "pick": 0.62,
+   "win": 52.09,
+   "ban": 4.15,
+   "gloryWin": 51.34,
+   "gloryBan": 3.08,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "freya",
+    "phoveus",
+    "harith",
+    "martis",
+    "karrie"
+   ],
+   "strongAgainst": [
+    "aulus",
+    "natalia",
+    "yin",
+    "yu-zhong",
+    "baxia"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 60,
+   "byRank": {
+    "epic": 53.56,
+    "legend": 52.75,
+    "mythic": 52.66,
+    "honor": 51.94,
+    "glory": 51.34
+   },
+   "recent": {
+    "win": 52.55,
+    "pick": 0.6,
+    "ban": 3.34
+   },
+   "top": {
+    "win": 52.57,
+    "pick": 0.62,
+    "ban": 3.9
+   },
+   "r7": {
+    "all": {
+     "win": 52.55,
+     "pick": 0.6,
+     "ban": 3.34
+    },
+    "epic": {
+     "win": 53.74,
+     "pick": 0.49,
+     "ban": 1.85
+    },
+    "legend": {
+     "win": 53.23,
+     "pick": 0.62,
+     "ban": 3.28
+    },
+    "mythic": {
+     "win": 53.1,
+     "pick": 0.62,
+     "ban": 4.53
+    },
+    "honor": {
+     "win": 52.53,
+     "pick": 0.63,
+     "ban": 4.4
+    },
+    "glory": {
+     "win": 52.09,
+     "pick": 0.6,
+     "ban": 2.76
+    }
+   }
+  },
+  {
    "slug": "benedetta",
    "en": "Benedetta",
    "ru": "Бенедетта",
-   "rank": 25,
+   "rank": 26,
    "pick": 0.42,
-   "win": 52.1,
-   "ban": 0.37,
+   "win": 52.09,
+   "ban": 0.38,
    "gloryWin": 51.55,
    "gloryBan": 0.24,
    "tier": "A",
@@ -2141,10 +2227,10 @@
    ],
    "releaseOrder": 37,
    "byRank": {
-    "epic": 54.38,
-    "legend": 53.18,
-    "mythic": 52.18,
-    "honor": 52.3,
+    "epic": 54.39,
+    "legend": 53.19,
+    "mythic": 52.17,
+    "honor": 52.31,
     "glory": 51.55
    },
    "recent": {
@@ -2191,275 +2277,15 @@
    }
   },
   {
-   "slug": "popol-and-kupa",
-   "en": "Popol and Kupa",
-   "ru": "Пополь и Купа",
-   "rank": 26,
-   "pick": 0.49,
-   "win": 52.09,
-   "ban": 1.12,
-   "gloryWin": 49.48,
-   "gloryBan": 1.3,
-   "tier": "A",
-   "lowPick": true,
-   "counters": [
-    "harley",
-    "jawhead",
-    "zilong",
-    "change",
-    "selena"
-   ],
-   "strongAgainst": [
-    "marcel",
-    "carmilla",
-    "hanabi",
-    "xavier",
-    "atlas",
-    "terizla",
-    "leomord",
-    "melissa",
-    "sora",
-    "yu-zhong",
-    "lapu-lapu"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Marksman"
-   ],
-   "lanes": [
-    "Gold Lane",
-    "Jungle"
-   ],
-   "releaseOrder": 40,
-   "byRank": {
-    "epic": 54.63,
-    "legend": 54.29,
-    "mythic": 53.33,
-    "honor": 52.49,
-    "glory": 49.48
-   },
-   "recent": {
-    "win": 49.6,
-    "pick": 0.43,
-    "ban": 1.35
-   },
-   "top": {
-    "win": 49.73,
-    "pick": 0.44,
-    "ban": 1.51
-   },
-   "r7": {
-    "all": {
-     "win": 49.6,
-     "pick": 0.43,
-     "ban": 1.35
-    },
-    "epic": {
-     "win": 52.13,
-     "pick": 0.36,
-     "ban": 0.69
-    },
-    "legend": {
-     "win": 51.32,
-     "pick": 0.46,
-     "ban": 1.01
-    },
-    "mythic": {
-     "win": 50.82,
-     "pick": 0.46,
-     "ban": 1.51
-    },
-    "honor": {
-     "win": 50.18,
-     "pick": 0.45,
-     "ban": 1.69
-    },
-    "glory": {
-     "win": 48.18,
-     "pick": 0.41,
-     "ban": 1.34
-    }
-   }
-  },
-  {
-   "slug": "minsitthar",
-   "en": "Minsitthar",
-   "ru": "Минситтар",
-   "rank": 27,
-   "pick": 0.62,
-   "win": 52.08,
-   "ban": 4.19,
-   "gloryWin": 51.29,
-   "gloryBan": 3.09,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "freya",
-    "phoveus",
-    "harith",
-    "martis",
-    "karrie"
-   ],
-   "strongAgainst": [
-    "aulus",
-    "natalia",
-    "yin",
-    "yu-zhong"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Fighter"
-   ],
-   "lanes": [
-    "EXP Lane"
-   ],
-   "releaseOrder": 60,
-   "byRank": {
-    "epic": 53.53,
-    "legend": 52.74,
-    "mythic": 52.65,
-    "honor": 51.92,
-    "glory": 51.29
-   },
-   "recent": {
-    "win": 52.55,
-    "pick": 0.6,
-    "ban": 3.34
-   },
-   "top": {
-    "win": 52.57,
-    "pick": 0.62,
-    "ban": 3.9
-   },
-   "r7": {
-    "all": {
-     "win": 52.55,
-     "pick": 0.6,
-     "ban": 3.34
-    },
-    "epic": {
-     "win": 53.74,
-     "pick": 0.49,
-     "ban": 1.85
-    },
-    "legend": {
-     "win": 53.23,
-     "pick": 0.62,
-     "ban": 3.28
-    },
-    "mythic": {
-     "win": 53.1,
-     "pick": 0.62,
-     "ban": 4.53
-    },
-    "honor": {
-     "win": 52.53,
-     "pick": 0.63,
-     "ban": 4.4
-    },
-    "glory": {
-     "win": 52.09,
-     "pick": 0.6,
-     "ban": 2.76
-    }
-   }
-  },
-  {
-   "slug": "lukas",
-   "en": "Lukas",
-   "ru": "Лукас",
-   "rank": 28,
-   "pick": 0.81,
-   "win": 51.97,
-   "ban": 32.39,
-   "gloryWin": 52.02,
-   "gloryBan": 47.47,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "ling",
-    "natalia",
-    "fanny",
-    "arlott",
-    "helcurt"
-   ],
-   "strongAgainst": [
-    "balmond",
-    "baxia",
-    "valentina"
-   ],
-   "patch": "buff",
-   "orders": null,
-   "roles": [
-    "Fighter"
-   ],
-   "lanes": [
-    "EXP Lane",
-    "Jungle"
-   ],
-   "releaseOrder": 7,
-   "byRank": {
-    "epic": 50.85,
-    "legend": 51.44,
-    "mythic": 51.64,
-    "honor": 52.36,
-    "glory": 52.02
-   },
-   "recent": {
-    "win": 50.74,
-    "pick": 0.71,
-    "ban": 23.88
-   },
-   "top": {
-    "win": 50.66,
-    "pick": 0.69,
-    "ban": 24.06
-   },
-   "r7": {
-    "all": {
-     "win": 50.74,
-     "pick": 0.71,
-     "ban": 23.88
-    },
-    "epic": {
-     "win": 49.66,
-     "pick": 0.33,
-     "ban": 3.62
-    },
-    "legend": {
-     "win": 50.24,
-     "pick": 0.39,
-     "ban": 7.37
-    },
-    "mythic": {
-     "win": 50.26,
-     "pick": 0.51,
-     "ban": 15.41
-    },
-    "honor": {
-     "win": 50.86,
-     "pick": 0.64,
-     "ban": 23.39
-    },
-    "glory": {
-     "win": 50.87,
-     "pick": 0.93,
-     "ban": 33.37
-    }
-   }
-  },
-  {
    "slug": "aldous",
    "en": "Aldous",
    "ru": "Алдос",
-   "rank": 29,
-   "pick": 0.45,
-   "win": 51.86,
+   "rank": 27,
+   "pick": 0.46,
+   "win": 51.98,
    "ban": 0.57,
-   "gloryWin": 51.58,
-   "gloryBan": 0.23,
+   "gloryWin": 51.71,
+   "gloryBan": 0.24,
    "tier": "A",
    "lowPick": true,
    "counters": [
@@ -2471,7 +2297,6 @@
    ],
    "strongAgainst": [
     "obsidia",
-    "badang",
     "esmeralda"
    ],
    "patch": "buff",
@@ -2484,11 +2309,11 @@
    ],
    "releaseOrder": 70,
    "byRank": {
-    "epic": 51.84,
-    "legend": 51.89,
-    "mythic": 52.57,
-    "honor": 51.56,
-    "glory": 51.58
+    "epic": 51.91,
+    "legend": 51.99,
+    "mythic": 52.7,
+    "honor": 51.7,
+    "glory": 51.71
    },
    "recent": {
     "win": 53.86,
@@ -2534,15 +2359,191 @@
    }
   },
   {
+   "slug": "popol-and-kupa",
+   "en": "Popol and Kupa",
+   "ru": "Пополь и Купа",
+   "rank": 28,
+   "pick": 0.49,
+   "win": 51.97,
+   "ban": 1.14,
+   "gloryWin": 49.41,
+   "gloryBan": 1.31,
+   "tier": "A",
+   "lowPick": true,
+   "counters": [
+    "harley",
+    "jawhead",
+    "zilong",
+    "change",
+    "selena"
+   ],
+   "strongAgainst": [
+    "marcel",
+    "carmilla",
+    "hanabi",
+    "xavier",
+    "atlas",
+    "terizla",
+    "melissa",
+    "leomord",
+    "sora",
+    "yu-zhong",
+    "lapu-lapu"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 40,
+   "byRank": {
+    "epic": 54.52,
+    "legend": 54.18,
+    "mythic": 53.23,
+    "honor": 52.42,
+    "glory": 49.41
+   },
+   "recent": {
+    "win": 49.6,
+    "pick": 0.43,
+    "ban": 1.35
+   },
+   "top": {
+    "win": 49.73,
+    "pick": 0.44,
+    "ban": 1.51
+   },
+   "r7": {
+    "all": {
+     "win": 49.6,
+     "pick": 0.43,
+     "ban": 1.35
+    },
+    "epic": {
+     "win": 52.13,
+     "pick": 0.36,
+     "ban": 0.69
+    },
+    "legend": {
+     "win": 51.32,
+     "pick": 0.46,
+     "ban": 1.01
+    },
+    "mythic": {
+     "win": 50.82,
+     "pick": 0.46,
+     "ban": 1.51
+    },
+    "honor": {
+     "win": 50.18,
+     "pick": 0.45,
+     "ban": 1.69
+    },
+    "glory": {
+     "win": 48.18,
+     "pick": 0.41,
+     "ban": 1.34
+    }
+   }
+  },
+  {
+   "slug": "lukas",
+   "en": "Lukas",
+   "ru": "Лукас",
+   "rank": 29,
+   "pick": 0.81,
+   "win": 51.91,
+   "ban": 31.86,
+   "gloryWin": 51.97,
+   "gloryBan": 46.42,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "ling",
+    "natalia",
+    "fanny",
+    "arlott",
+    "helcurt"
+   ],
+   "strongAgainst": [
+    "balmond",
+    "baxia",
+    "valentina"
+   ],
+   "patch": "buff",
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 7,
+   "byRank": {
+    "epic": 50.76,
+    "legend": 51.37,
+    "mythic": 51.57,
+    "honor": 52.3,
+    "glory": 51.97
+   },
+   "recent": {
+    "win": 50.74,
+    "pick": 0.71,
+    "ban": 23.88
+   },
+   "top": {
+    "win": 50.66,
+    "pick": 0.69,
+    "ban": 24.06
+   },
+   "r7": {
+    "all": {
+     "win": 50.74,
+     "pick": 0.71,
+     "ban": 23.88
+    },
+    "epic": {
+     "win": 49.66,
+     "pick": 0.33,
+     "ban": 3.62
+    },
+    "legend": {
+     "win": 50.24,
+     "pick": 0.39,
+     "ban": 7.37
+    },
+    "mythic": {
+     "win": 50.26,
+     "pick": 0.51,
+     "ban": 15.41
+    },
+    "honor": {
+     "win": 50.86,
+     "pick": 0.64,
+     "ban": 23.39
+    },
+    "glory": {
+     "win": 50.87,
+     "pick": 0.93,
+     "ban": 33.37
+    }
+   }
+  },
+  {
    "slug": "belerick",
    "en": "Belerick",
    "ru": "Белерик",
    "rank": 30,
    "pick": 1.69,
    "win": 51.83,
-   "ban": 56.83,
-   "gloryWin": 50.01,
-   "gloryBan": 56.96,
+   "ban": 56.77,
+   "gloryWin": 50.03,
+   "gloryBan": 56.92,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -2571,11 +2572,11 @@
    ],
    "releaseOrder": 64,
    "byRank": {
-    "epic": 55.96,
-    "legend": 54.43,
-    "mythic": 52.99,
-    "honor": 51.26,
-    "glory": 50.01
+    "epic": 55.97,
+    "legend": 54.47,
+    "mythic": 53.03,
+    "honor": 51.3,
+    "glory": 50.03
    },
    "recent": {
     "win": 52.02,
@@ -2621,99 +2622,15 @@
    }
   },
   {
-   "slug": "cyclops",
-   "en": "Cyclops",
-   "ru": "Циклоп",
-   "rank": 31,
-   "pick": 0.76,
-   "win": 51.68,
-   "ban": 0.76,
-   "gloryWin": 50.76,
-   "gloryBan": 0.6,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "natalia",
-    "marcel",
-    "wanwan",
-    "joy",
-    "mathilda"
-   ],
-   "strongAgainst": [
-    "minotaur",
-    "lolita",
-    "estes",
-    "ixia"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Mage"
-   ],
-   "lanes": [
-    "Mid Lane"
-   ],
-   "releaseOrder": 101,
-   "byRank": {
-    "epic": 52.04,
-    "legend": 52.13,
-    "mythic": 52.5,
-    "honor": 52.03,
-    "glory": 50.76
-   },
-   "recent": {
-    "win": 51.96,
-    "pick": 0.86,
-    "ban": 1.19
-   },
-   "top": {
-    "win": 52.2,
-    "pick": 0.9,
-    "ban": 1.31
-   },
-   "r7": {
-    "all": {
-     "win": 51.96,
-     "pick": 0.86,
-     "ban": 1.19
-    },
-    "epic": {
-     "win": 52.47,
-     "pick": 0.73,
-     "ban": 1.68
-    },
-    "legend": {
-     "win": 52.51,
-     "pick": 0.92,
-     "ban": 1.4
-    },
-    "mythic": {
-     "win": 52.84,
-     "pick": 0.96,
-     "ban": 1.67
-    },
-    "honor": {
-     "win": 52.61,
-     "pick": 0.93,
-     "ban": 1.43
-    },
-    "glory": {
-     "win": 51.14,
-     "pick": 0.81,
-     "ban": 0.84
-    }
-   }
-  },
-  {
    "slug": "xavier",
    "en": "Xavier",
    "ru": "Ксавьер",
-   "rank": 32,
-   "pick": 0.75,
-   "win": 51.68,
-   "ban": 0.4,
-   "gloryWin": 52.66,
-   "gloryBan": 0.55,
+   "rank": 31,
+   "pick": 0.78,
+   "win": 51.78,
+   "ban": 0.43,
+   "gloryWin": 52.73,
+   "gloryBan": 0.6,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -2740,11 +2657,11 @@
    ],
    "releaseOrder": 19,
    "byRank": {
-    "epic": 48.54,
-    "legend": 49.29,
-    "mythic": 50.49,
-    "honor": 51.64,
-    "glory": 52.66
+    "epic": 48.61,
+    "legend": 49.34,
+    "mythic": 50.55,
+    "honor": 51.71,
+    "glory": 52.73
    },
    "recent": {
     "win": 52.92,
@@ -2790,15 +2707,99 @@
    }
   },
   {
+   "slug": "cyclops",
+   "en": "Cyclops",
+   "ru": "Циклоп",
+   "rank": 32,
+   "pick": 0.77,
+   "win": 51.7,
+   "ban": 0.79,
+   "gloryWin": 50.78,
+   "gloryBan": 0.61,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "natalia",
+    "marcel",
+    "wanwan",
+    "joy",
+    "mathilda"
+   ],
+   "strongAgainst": [
+    "minotaur",
+    "lolita",
+    "estes",
+    "ixia"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 101,
+   "byRank": {
+    "epic": 52.06,
+    "legend": 52.13,
+    "mythic": 52.53,
+    "honor": 52.06,
+    "glory": 50.78
+   },
+   "recent": {
+    "win": 51.96,
+    "pick": 0.86,
+    "ban": 1.19
+   },
+   "top": {
+    "win": 52.2,
+    "pick": 0.9,
+    "ban": 1.31
+   },
+   "r7": {
+    "all": {
+     "win": 51.96,
+     "pick": 0.86,
+     "ban": 1.19
+    },
+    "epic": {
+     "win": 52.47,
+     "pick": 0.73,
+     "ban": 1.68
+    },
+    "legend": {
+     "win": 52.51,
+     "pick": 0.92,
+     "ban": 1.4
+    },
+    "mythic": {
+     "win": 52.84,
+     "pick": 0.96,
+     "ban": 1.67
+    },
+    "honor": {
+     "win": 52.61,
+     "pick": 0.93,
+     "ban": 1.43
+    },
+    "glory": {
+     "win": 51.14,
+     "pick": 0.81,
+     "ban": 0.84
+    }
+   }
+  },
+  {
    "slug": "barats",
    "en": "Barats",
    "ru": "Бартс",
    "rank": 33,
    "pick": 0.67,
-   "win": 51.67,
-   "ban": 3.38,
+   "win": 51.66,
+   "ban": 3.35,
    "gloryWin": 51.63,
-   "gloryBan": 4.07,
+   "gloryBan": 4.02,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -2812,6 +2813,7 @@
     "gord",
     "yve",
     "cecilion",
+    "alice",
     "x-borg",
     "lylia",
     "alpha",
@@ -2828,9 +2830,9 @@
    ],
    "releaseOrder": 35,
    "byRank": {
-    "epic": 50.71,
-    "legend": 51.47,
-    "mythic": 52.07,
+    "epic": 50.73,
+    "legend": 51.44,
+    "mythic": 52.06,
     "honor": 51.79,
     "glory": 51.63
    },
@@ -2912,9 +2914,9 @@
    ],
    "releaseOrder": 123,
    "byRank": {
-    "epic": 52.32,
-    "legend": 51.53,
-    "mythic": 51.54,
+    "epic": 52.33,
+    "legend": 51.54,
+    "mythic": 51.53,
     "honor": 51.7,
     "glory": 51.52
    },
@@ -2962,116 +2964,23 @@
    }
   },
   {
-   "slug": "atlas",
-   "en": "Atlas",
-   "ru": "Атлас",
-   "rank": 35,
-   "pick": 0.95,
-   "win": 51.42,
-   "ban": 9.58,
-   "gloryWin": 49.84,
-   "gloryBan": 10.41,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "layla",
-    "popol-and-kupa",
-    "lolita",
-    "johnson",
-    "estes"
-   ],
-   "strongAgainst": [
-    "marcel",
-    "ling",
-    "benedetta",
-    "xavier",
-    "kadita",
-    "alice",
-    "moskov",
-    "yu-zhong",
-    "kimmy",
-    "wanwan",
-    "valentina",
-    "lancelot",
-    "fanny"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Tank"
-   ],
-   "lanes": [
-    "Roam"
-   ],
-   "releaseOrder": 41,
-   "byRank": {
-    "epic": 55.55,
-    "legend": 54.57,
-    "mythic": 53.22,
-    "honor": 51.76,
-    "glory": 49.84
-   },
-   "recent": {
-    "win": 50.05,
-    "pick": 0.84,
-    "ban": 8.27
-   },
-   "top": {
-    "win": 50.61,
-    "pick": 0.89,
-    "ban": 9.35
-   },
-   "r7": {
-    "all": {
-     "win": 50.05,
-     "pick": 0.84,
-     "ban": 8.27
-    },
-    "epic": {
-     "win": 54.71,
-     "pick": 0.21,
-     "ban": 2.49
-    },
-    "legend": {
-     "win": 53.42,
-     "pick": 0.46,
-     "ban": 5.58
-    },
-    "mythic": {
-     "win": 52.09,
-     "pick": 0.71,
-     "ban": 9.13
-    },
-    "honor": {
-     "win": 50.95,
-     "pick": 0.93,
-     "ban": 10.3
-    },
-    "glory": {
-     "win": 48.78,
-     "pick": 1.03,
-     "ban": 8.61
-    }
-   }
-  },
-  {
    "slug": "silvanna",
    "en": "Silvanna",
    "ru": "Сильвана",
-   "rank": 36,
-   "pick": 0.99,
-   "win": 51.36,
-   "ban": 2.03,
-   "gloryWin": 49.61,
-   "gloryBan": 0.51,
+   "rank": 35,
+   "pick": 1,
+   "win": 51.37,
+   "ban": 2.05,
+   "gloryWin": 49.66,
+   "gloryBan": 0.52,
    "tier": "A",
    "lowPick": false,
    "counters": [
     "aamon",
     "floryn",
     "angela",
-    "rafaela",
-    "valentina"
+    "valentina",
+    "rafaela"
    ],
    "strongAgainst": [
     "khufra",
@@ -3100,11 +3009,11 @@
    ],
    "releaseOrder": 44,
    "byRank": {
-    "epic": 52.13,
-    "legend": 52.32,
-    "mythic": 52.04,
-    "honor": 50.72,
-    "glory": 49.61
+    "epic": 52.12,
+    "legend": 52.33,
+    "mythic": 52.08,
+    "honor": 50.75,
+    "glory": 49.66
    },
    "recent": {
     "win": 51.51,
@@ -3150,14 +3059,107 @@
    }
   },
   {
+   "slug": "atlas",
+   "en": "Atlas",
+   "ru": "Атлас",
+   "rank": 36,
+   "pick": 0.94,
+   "win": 51.35,
+   "ban": 9.52,
+   "gloryWin": 49.8,
+   "gloryBan": 10.3,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "layla",
+    "popol-and-kupa",
+    "lolita",
+    "johnson",
+    "estes"
+   ],
+   "strongAgainst": [
+    "marcel",
+    "ling",
+    "benedetta",
+    "xavier",
+    "kadita",
+    "alice",
+    "moskov",
+    "yu-zhong",
+    "kimmy",
+    "wanwan",
+    "valentina",
+    "lancelot",
+    "fanny"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 41,
+   "byRank": {
+    "epic": 55.51,
+    "legend": 54.54,
+    "mythic": 53.19,
+    "honor": 51.75,
+    "glory": 49.8
+   },
+   "recent": {
+    "win": 50.05,
+    "pick": 0.84,
+    "ban": 8.27
+   },
+   "top": {
+    "win": 50.61,
+    "pick": 0.89,
+    "ban": 9.35
+   },
+   "r7": {
+    "all": {
+     "win": 50.05,
+     "pick": 0.84,
+     "ban": 8.27
+    },
+    "epic": {
+     "win": 54.71,
+     "pick": 0.21,
+     "ban": 2.49
+    },
+    "legend": {
+     "win": 53.42,
+     "pick": 0.46,
+     "ban": 5.58
+    },
+    "mythic": {
+     "win": 52.09,
+     "pick": 0.71,
+     "ban": 9.13
+    },
+    "honor": {
+     "win": 50.95,
+     "pick": 0.93,
+     "ban": 10.3
+    },
+    "glory": {
+     "win": 48.78,
+     "pick": 1.03,
+     "ban": 8.61
+    }
+   }
+  },
+  {
    "slug": "natan",
    "en": "Natan",
    "ru": "Натан",
    "rank": 37,
    "pick": 0.3,
-   "win": 51.32,
+   "win": 51.33,
    "ban": 0.14,
-   "gloryWin": 51.47,
+   "gloryWin": 51.48,
    "gloryBan": 0.08,
    "tier": "A",
    "lowPick": true,
@@ -3181,11 +3183,11 @@
    ],
    "releaseOrder": 27,
    "byRank": {
-    "epic": 50.21,
-    "legend": 50.57,
+    "epic": 50.2,
+    "legend": 50.56,
     "mythic": 51.14,
     "honor": 51.69,
-    "glory": 51.47
+    "glory": 51.48
    },
    "recent": {
     "win": 51.33,
@@ -3236,9 +3238,9 @@
    "ru": "Кадита",
    "rank": 38,
    "pick": 0.77,
-   "win": 51.3,
-   "ban": 2.92,
-   "gloryWin": 51.8,
+   "win": 51.28,
+   "ban": 2.91,
+   "gloryWin": 51.76,
    "gloryBan": 1.86,
    "tier": "A",
    "lowPick": false,
@@ -3263,9 +3265,9 @@
    "byRank": {
     "epic": 49.8,
     "legend": 50.4,
-    "mythic": 50.62,
-    "honor": 51.48,
-    "glory": 51.8
+    "mythic": 50.58,
+    "honor": 51.44,
+    "glory": 51.76
    },
    "recent": {
     "win": 50.8,
@@ -3317,9 +3319,9 @@
    "rank": 39,
    "pick": 0.82,
    "win": 51.27,
-   "ban": 1.85,
+   "ban": 1.83,
    "gloryWin": 51.47,
-   "gloryBan": 1.25,
+   "gloryBan": 1.24,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -3331,7 +3333,6 @@
    ],
    "strongAgainst": [
     "diggie",
-    "miya",
     "wanwan"
    ],
    "patch": null,
@@ -3344,10 +3345,10 @@
    ],
    "releaseOrder": 54,
    "byRank": {
-    "epic": 52.01,
-    "legend": 50.93,
-    "mythic": 50.7,
-    "honor": 51.27,
+    "epic": 52.06,
+    "legend": 50.92,
+    "mythic": 50.68,
+    "honor": 51.25,
     "glory": 51.47
    },
    "recent": {
@@ -3399,7 +3400,7 @@
    "ru": "Фредрин",
    "rank": 40,
    "pick": 0.43,
-   "win": 51.25,
+   "win": 51.26,
    "ban": 1.59,
    "gloryWin": 52.22,
    "gloryBan": 1.15,
@@ -3410,7 +3411,7 @@
     "alucard",
     "joy",
     "lunox",
-    "esmeralda"
+    "khaleed"
    ],
    "strongAgainst": [
     "valir",
@@ -3433,8 +3434,8 @@
    "byRank": {
     "epic": 50.04,
     "legend": 49.54,
-    "mythic": 50.08,
-    "honor": 50.7,
+    "mythic": 50.05,
+    "honor": 50.67,
     "glory": 52.22
    },
    "recent": {
@@ -3485,11 +3486,11 @@
    "en": "Saber",
    "ru": "Сабер",
    "rank": 41,
-   "pick": 1.02,
-   "win": 51.21,
-   "ban": 25.07,
-   "gloryWin": 53.51,
-   "gloryBan": 10.32,
+   "pick": 1.03,
+   "win": 51.23,
+   "ban": 25.16,
+   "gloryWin": 53.52,
+   "gloryBan": 10.53,
    "tier": "A",
    "lowPick": false,
    "counters": [
@@ -3529,11 +3530,11 @@
    ],
    "releaseOrder": 131,
    "byRank": {
-    "epic": 48.42,
-    "legend": 50.03,
+    "epic": 48.41,
+    "legend": 50.02,
     "mythic": 51.12,
-    "honor": 51.13,
-    "glory": 53.51
+    "honor": 51.11,
+    "glory": 53.52
    },
    "recent": {
     "win": 51.51,
@@ -3579,104 +3580,23 @@
    }
   },
   {
-   "slug": "kagura",
-   "en": "Kagura",
-   "ru": "Кагура",
-   "rank": 42,
-   "pick": 0.75,
-   "win": 51.09,
-   "ban": 1.15,
-   "gloryWin": 50.64,
-   "gloryBan": 1.08,
-   "tier": "A",
-   "lowPick": false,
-   "counters": [
-    "lolita",
-    "silvanna",
-    "valir",
-    "hanabi",
-    "hanzo"
-   ],
-   "strongAgainst": [
-    "freya"
-   ],
-   "patch": "buff",
-   "orders": 16,
-   "roles": [
-    "Mage"
-   ],
-   "lanes": [
-    "Mid Lane"
-   ],
-   "releaseOrder": 109,
-   "byRank": {
-    "epic": 51.13,
-    "legend": 51.68,
-    "mythic": 51.45,
-    "honor": 51.67,
-    "glory": 50.64
-   },
-   "recent": {
-    "win": 50.52,
-    "pick": 0.83,
-    "ban": 1.44
-   },
-   "top": {
-    "win": 50.72,
-    "pick": 0.81,
-    "ban": 1.55
-   },
-   "r7": {
-    "all": {
-     "win": 50.52,
-     "pick": 0.83,
-     "ban": 1.44
-    },
-    "epic": {
-     "win": 51.4,
-     "pick": 0.33,
-     "ban": 1.01
-    },
-    "legend": {
-     "win": 51.34,
-     "pick": 0.44,
-     "ban": 1.24
-    },
-    "mythic": {
-     "win": 50.83,
-     "pick": 0.57,
-     "ban": 1.4
-    },
-    "honor": {
-     "win": 51.14,
-     "pick": 0.74,
-     "ban": 1.89
-    },
-    "glory": {
-     "win": 50.18,
-     "pick": 1.11,
-     "ban": 1.36
-    }
-   }
-  },
-  {
    "slug": "hilda",
    "en": "Hilda",
    "ru": "Хильда",
-   "rank": 43,
+   "rank": 42,
    "pick": 0.57,
    "win": 51.07,
-   "ban": 12.97,
-   "gloryWin": 47.74,
-   "gloryBan": 2.72,
+   "ban": 13.09,
+   "gloryWin": 47.8,
+   "gloryBan": 2.8,
    "tier": "A",
    "lowPick": false,
    "counters": [
     "granger",
     "yin",
     "helcurt",
-    "saber",
-    "harley"
+    "harley",
+    "saber"
    ],
    "strongAgainst": [
     "carmilla",
@@ -3695,10 +3615,10 @@
    "releaseOrder": 99,
    "byRank": {
     "epic": 54.91,
-    "legend": 53.4,
-    "mythic": 52.36,
-    "honor": 49.7,
-    "glory": 47.74
+    "legend": 53.42,
+    "mythic": 52.42,
+    "honor": 49.77,
+    "glory": 47.8
    },
    "recent": {
     "win": 51.26,
@@ -3747,20 +3667,20 @@
    "slug": "natalia",
    "en": "Natalia",
    "ru": "Наталья",
-   "rank": 44,
+   "rank": 43,
    "pick": 0.3,
-   "win": 51.05,
-   "ban": 2.03,
-   "gloryWin": 49.97,
-   "gloryBan": 0.86,
+   "win": 51.07,
+   "ban": 2.04,
+   "gloryWin": 49.98,
+   "gloryBan": 0.88,
    "tier": "A",
    "lowPick": true,
    "counters": [
     "ling",
     "hanzo",
     "xavier",
-    "nolan",
-    "minsitthar"
+    "minsitthar",
+    "nolan"
    ],
    "strongAgainst": [
     "khufra",
@@ -3776,8 +3696,8 @@
     "brody",
     "suyou",
     "alucard",
-    "gusion",
     "karina",
+    "gusion",
     "chou",
     "mathilda"
    ],
@@ -3792,11 +3712,11 @@
    ],
    "releaseOrder": 110,
    "byRank": {
-    "epic": 51.92,
-    "legend": 51.96,
-    "mythic": 51.6,
-    "honor": 50.63,
-    "glory": 49.97
+    "epic": 51.99,
+    "legend": 51.99,
+    "mythic": 51.66,
+    "honor": 50.67,
+    "glory": 49.98
    },
    "recent": {
     "win": 51.39,
@@ -3842,14 +3762,95 @@
    }
   },
   {
+   "slug": "kagura",
+   "en": "Kagura",
+   "ru": "Кагура",
+   "rank": 44,
+   "pick": 0.75,
+   "win": 51.05,
+   "ban": 1.18,
+   "gloryWin": 50.62,
+   "gloryBan": 1.11,
+   "tier": "A",
+   "lowPick": false,
+   "counters": [
+    "lolita",
+    "silvanna",
+    "valir",
+    "hanzo",
+    "hanabi"
+   ],
+   "strongAgainst": [
+    "freya"
+   ],
+   "patch": "buff",
+   "orders": 16,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 109,
+   "byRank": {
+    "epic": 51.1,
+    "legend": 51.64,
+    "mythic": 51.38,
+    "honor": 51.63,
+    "glory": 50.62
+   },
+   "recent": {
+    "win": 50.52,
+    "pick": 0.83,
+    "ban": 1.44
+   },
+   "top": {
+    "win": 50.72,
+    "pick": 0.81,
+    "ban": 1.55
+   },
+   "r7": {
+    "all": {
+     "win": 50.52,
+     "pick": 0.83,
+     "ban": 1.44
+    },
+    "epic": {
+     "win": 51.4,
+     "pick": 0.33,
+     "ban": 1.01
+    },
+    "legend": {
+     "win": 51.34,
+     "pick": 0.44,
+     "ban": 1.24
+    },
+    "mythic": {
+     "win": 50.83,
+     "pick": 0.57,
+     "ban": 1.4
+    },
+    "honor": {
+     "win": 51.14,
+     "pick": 0.74,
+     "ban": 1.89
+    },
+    "glory": {
+     "win": 50.18,
+     "pick": 1.11,
+     "ban": 1.36
+    }
+   }
+  },
+  {
    "slug": "cecilion",
    "en": "Cecilion",
    "ru": "Сесилион",
    "rank": 45,
    "pick": 0.67,
-   "win": 50.96,
+   "win": 50.93,
    "ban": 0.17,
-   "gloryWin": 51.21,
+   "gloryWin": 51.17,
    "gloryBan": 0.09,
    "tier": "B",
    "lowPick": false,
@@ -3871,11 +3872,11 @@
    ],
    "releaseOrder": 43,
    "byRank": {
-    "epic": 50.29,
-    "legend": 50,
-    "mythic": 50.17,
-    "honor": 51.7,
-    "glory": 51.21
+    "epic": 50.27,
+    "legend": 49.97,
+    "mythic": 50.13,
+    "honor": 51.67,
+    "glory": 51.17
    },
    "recent": {
     "win": 50.52,
@@ -3926,10 +3927,10 @@
    "ru": "Цзэтянь",
    "rank": 46,
    "pick": 1.65,
-   "win": 50.89,
-   "ban": 4.65,
-   "gloryWin": 50,
-   "gloryBan": 2.76,
+   "win": 50.88,
+   "ban": 4.67,
+   "gloryWin": 50.01,
+   "gloryBan": 2.79,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -3950,11 +3951,11 @@
    ],
    "releaseOrder": 5,
    "byRank": {
-    "epic": 50.94,
-    "legend": 52.14,
+    "epic": 50.92,
+    "legend": 52.12,
     "mythic": 52.06,
-    "honor": 51.19,
-    "glory": 50
+    "honor": 51.21,
+    "glory": 50.01
    },
    "recent": {
     "win": 50.7,
@@ -4005,9 +4006,9 @@
    "ru": "Фарамис",
    "rank": 47,
    "pick": 0.1,
-   "win": 50.83,
+   "win": 50.8,
    "ban": 0.36,
-   "gloryWin": 51.35,
+   "gloryWin": 51.3,
    "gloryBan": 0.39,
    "tier": "B",
    "lowPick": true,
@@ -4023,7 +4024,6 @@
     "estes",
     "edith",
     "xavier",
-    "alice",
     "angela",
     "julian",
     "odette",
@@ -4041,11 +4041,11 @@
    ],
    "releaseOrder": 58,
    "byRank": {
-    "epic": 48.59,
-    "legend": 48.95,
+    "epic": 48.57,
+    "legend": 48.92,
     "mythic": 49.59,
-    "honor": 50.75,
-    "glory": 51.35
+    "honor": 50.7,
+    "glory": 51.3
    },
    "recent": {
     "win": 50.37,
@@ -4091,113 +4091,15 @@
    }
   },
   {
-   "slug": "alice",
-   "en": "Alice",
-   "ru": "Алиса",
-   "rank": 48,
-   "pick": 0.91,
-   "win": 50.7,
-   "ban": 12.68,
-   "gloryWin": 50.81,
-   "gloryBan": 7.85,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "chip",
-    "gloo",
-    "tigreal",
-    "atlas",
-    "faramis"
-   ],
-   "strongAgainst": [
-    "diggie",
-    "valir",
-    "floryn",
-    "estes",
-    "edith",
-    "gord",
-    "yve",
-    "angela",
-    "julian",
-    "cici",
-    "lylia",
-    "dyrroth",
-    "thamuz",
-    "karrie",
-    "harley",
-    "baxia"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Tank",
-    "Mage"
-   ],
-   "lanes": [
-    "EXP Lane",
-    "Jungle"
-   ],
-   "releaseOrder": 130,
-   "byRank": {
-    "epic": 50.66,
-    "legend": 50.66,
-    "mythic": 50.61,
-    "honor": 50.56,
-    "glory": 50.81
-   },
-   "recent": {
-    "win": 50.17,
-    "pick": 0.85,
-    "ban": 13.83
-   },
-   "top": {
-    "win": 50.1,
-    "pick": 0.87,
-    "ban": 16.18
-   },
-   "r7": {
-    "all": {
-     "win": 50.17,
-     "pick": 0.85,
-     "ban": 13.83
-    },
-    "epic": {
-     "win": 49.75,
-     "pick": 0.38,
-     "ban": 13.28
-    },
-    "legend": {
-     "win": 50.01,
-     "pick": 0.59,
-     "ban": 19.73
-    },
-    "mythic": {
-     "win": 49.97,
-     "pick": 0.74,
-     "ban": 22.89
-    },
-    "honor": {
-     "win": 50.01,
-     "pick": 0.85,
-     "ban": 17.48
-    },
-    "glory": {
-     "win": 50.31,
-     "pick": 1.01,
-     "ban": 8.17
-    }
-   }
-  },
-  {
    "slug": "lunox",
    "en": "Lunox",
    "ru": "Люнокс",
-   "rank": 49,
-   "pick": 0.38,
-   "win": 50.64,
-   "ban": 0.65,
-   "gloryWin": 50.89,
-   "gloryBan": 0.78,
+   "rank": 48,
+   "pick": 0.39,
+   "win": 50.74,
+   "ban": 0.7,
+   "gloryWin": 50.98,
+   "gloryBan": 0.84,
    "tier": "B",
    "lowPick": true,
    "counters": [
@@ -4225,11 +4127,11 @@
    ],
    "releaseOrder": 66,
    "byRank": {
-    "epic": 49.4,
-    "legend": 49.7,
-    "mythic": 50.05,
-    "honor": 50.67,
-    "glory": 50.89
+    "epic": 49.6,
+    "legend": 49.82,
+    "mythic": 50.16,
+    "honor": 50.78,
+    "glory": 50.98
    },
    "recent": {
     "win": 51.98,
@@ -4275,6 +4177,104 @@
    }
   },
   {
+   "slug": "alice",
+   "en": "Alice",
+   "ru": "Алиса",
+   "rank": 49,
+   "pick": 0.91,
+   "win": 50.67,
+   "ban": 12.78,
+   "gloryWin": 50.79,
+   "gloryBan": 7.89,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "chip",
+    "gloo",
+    "tigreal",
+    "atlas",
+    "barats"
+   ],
+   "strongAgainst": [
+    "diggie",
+    "valir",
+    "floryn",
+    "estes",
+    "edith",
+    "gord",
+    "yve",
+    "angela",
+    "julian",
+    "cici",
+    "dyrroth",
+    "lylia",
+    "thamuz",
+    "karrie",
+    "harley",
+    "baxia"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Tank",
+    "Mage"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 130,
+   "byRank": {
+    "epic": 50.6,
+    "legend": 50.61,
+    "mythic": 50.57,
+    "honor": 50.54,
+    "glory": 50.79
+   },
+   "recent": {
+    "win": 50.17,
+    "pick": 0.85,
+    "ban": 13.83
+   },
+   "top": {
+    "win": 50.1,
+    "pick": 0.87,
+    "ban": 16.18
+   },
+   "r7": {
+    "all": {
+     "win": 50.17,
+     "pick": 0.85,
+     "ban": 13.83
+    },
+    "epic": {
+     "win": 49.75,
+     "pick": 0.38,
+     "ban": 13.28
+    },
+    "legend": {
+     "win": 50.01,
+     "pick": 0.59,
+     "ban": 19.73
+    },
+    "mythic": {
+     "win": 49.97,
+     "pick": 0.74,
+     "ban": 22.89
+    },
+    "honor": {
+     "win": 50.01,
+     "pick": 0.85,
+     "ban": 17.48
+    },
+    "glory": {
+     "win": 50.31,
+     "pick": 1.01,
+     "ban": 8.17
+    }
+   }
+  },
+  {
    "slug": "terizla",
    "en": "Terizla",
    "ru": "Тэризла",
@@ -4282,15 +4282,15 @@
    "pick": 0.35,
    "win": 50.6,
    "ban": 0.18,
-   "gloryWin": 49.48,
+   "gloryWin": 49.51,
    "gloryBan": 0.06,
    "tier": "B",
    "lowPick": true,
    "counters": [
     "argus",
     "phoveus",
-    "lolita",
     "popol-and-kupa",
+    "lolita",
     "odette"
    ],
    "strongAgainst": [
@@ -4307,11 +4307,11 @@
    ],
    "releaseOrder": 52,
    "byRank": {
-    "epic": 51.28,
+    "epic": 51.25,
     "legend": 51.66,
-    "mythic": 51.55,
-    "honor": 50.64,
-    "glory": 49.48
+    "mythic": 51.56,
+    "honor": 50.67,
+    "glory": 49.51
    },
    "recent": {
     "win": 50.69,
@@ -4361,18 +4361,18 @@
    "en": "Kalea",
    "ru": "Калеа",
    "rank": 51,
-   "pick": 0.68,
-   "win": 50.44,
-   "ban": 6.5,
-   "gloryWin": 51.18,
-   "gloryBan": 12.26,
+   "pick": 0.69,
+   "win": 50.47,
+   "ban": 6.66,
+   "gloryWin": 51.22,
+   "gloryBan": 12.47,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "fanny",
     "helcurt",
-    "lolita",
     "khaleed",
+    "lolita",
     "yve"
    ],
    "strongAgainst": [],
@@ -4388,10 +4388,10 @@
    "releaseOrder": 6,
    "byRank": {
     "epic": 49.09,
-    "legend": 49.02,
-    "mythic": 49.72,
-    "honor": 49.8,
-    "glory": 51.18
+    "legend": 49,
+    "mythic": 49.69,
+    "honor": 49.81,
+    "glory": 51.22
    },
    "recent": {
     "win": 50.9,
@@ -4444,7 +4444,7 @@
    "pick": 0.65,
    "win": 50.35,
    "ban": 0.41,
-   "gloryWin": 50.74,
+   "gloryWin": 50.73,
    "gloryBan": 0.42,
    "tier": "B",
    "lowPick": false,
@@ -4458,7 +4458,6 @@
    "strongAgainst": [
     "irithel",
     "moskov",
-    "kaja",
     "selena",
     "chou",
     "granger"
@@ -4474,10 +4473,10 @@
    "releaseOrder": 29,
    "byRank": {
     "epic": 51,
-    "legend": 49.92,
-    "mythic": 49.35,
-    "honor": 50.15,
-    "glory": 50.74
+    "legend": 49.91,
+    "mythic": 49.33,
+    "honor": 50.13,
+    "glory": 50.73
    },
    "recent": {
     "win": 50.3,
@@ -4527,17 +4526,17 @@
    "en": "Eudora",
    "ru": "Эйдора",
    "rank": 53,
-   "pick": 1.78,
-   "win": 50.35,
-   "ban": 47.84,
-   "gloryWin": 50.53,
-   "gloryBan": 39.63,
+   "pick": 1.77,
+   "win": 50.33,
+   "ban": 47.39,
+   "gloryWin": 50.5,
+   "gloryBan": 39.2,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "floryn",
-    "helcurt",
     "irithel",
+    "helcurt",
     "natalia",
     "zilong"
    ],
@@ -4556,11 +4555,11 @@
    ],
    "releaseOrder": 119,
    "byRank": {
-    "epic": 49.58,
-    "legend": 50.22,
-    "mythic": 50.62,
-    "honor": 50.22,
-    "glory": 50.53
+    "epic": 49.56,
+    "legend": 50.2,
+    "mythic": 50.59,
+    "honor": 50.2,
+    "glory": 50.5
    },
    "recent": {
     "win": 50.07,
@@ -4606,96 +4605,14 @@
    }
   },
   {
-   "slug": "khaleed",
-   "en": "Khaleed",
-   "ru": "Халид",
-   "rank": 54,
-   "pick": 0.12,
-   "win": 50.35,
-   "ban": 0.09,
-   "gloryWin": 48.53,
-   "gloryBan": 0.06,
-   "tier": "B",
-   "lowPick": true,
-   "counters": [
-    "yin",
-    "helcurt",
-    "vale",
-    "hanabi",
-    "silvanna"
-   ],
-   "strongAgainst": [
-    "kalea"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Fighter"
-   ],
-   "lanes": [
-    "EXP Lane",
-    "Roam"
-   ],
-   "releaseOrder": 36,
-   "byRank": {
-    "epic": 52.57,
-    "legend": 52.81,
-    "mythic": 51.97,
-    "honor": 51.2,
-    "glory": 48.53
-   },
-   "recent": {
-    "win": 50.2,
-    "pick": 0.13,
-    "ban": 0.09
-   },
-   "top": {
-    "win": 50.81,
-    "pick": 0.13,
-    "ban": 0.1
-   },
-   "r7": {
-    "all": {
-     "win": 50.2,
-     "pick": 0.13,
-     "ban": 0.09
-    },
-    "epic": {
-     "win": 52.28,
-     "pick": 0.06,
-     "ban": 0.12
-    },
-    "legend": {
-     "win": 52.64,
-     "pick": 0.09,
-     "ban": 0.11
-    },
-    "mythic": {
-     "win": 51.88,
-     "pick": 0.11,
-     "ban": 0.13
-    },
-    "honor": {
-     "win": 51.69,
-     "pick": 0.13,
-     "ban": 0.1
-    },
-    "glory": {
-     "win": 48.86,
-     "pick": 0.15,
-     "ban": 0.06
-    }
-   }
-  },
-  {
    "slug": "clint",
    "en": "Clint",
    "ru": "Клинт",
-   "rank": 55,
-   "pick": 0.72,
+   "rank": 54,
+   "pick": 0.73,
    "win": 50.33,
-   "ban": 0.61,
-   "gloryWin": 50.58,
+   "ban": 0.62,
+   "gloryWin": 50.57,
    "gloryBan": 0.33,
    "tier": "B",
    "lowPick": false,
@@ -4719,11 +4636,11 @@
    ],
    "releaseOrder": 121,
    "byRank": {
-    "epic": 47.48,
-    "legend": 49.35,
-    "mythic": 50.05,
+    "epic": 47.5,
+    "legend": 49.33,
+    "mythic": 50.02,
     "honor": 50.88,
-    "glory": 50.58
+    "glory": 50.57
    },
    "recent": {
     "win": 50,
@@ -4769,13 +4686,96 @@
    }
   },
   {
+   "slug": "khaleed",
+   "en": "Khaleed",
+   "ru": "Халид",
+   "rank": 55,
+   "pick": 0.12,
+   "win": 50.32,
+   "ban": 0.09,
+   "gloryWin": 48.54,
+   "gloryBan": 0.06,
+   "tier": "B",
+   "lowPick": true,
+   "counters": [
+    "yin",
+    "helcurt",
+    "hanabi",
+    "vale",
+    "silvanna"
+   ],
+   "strongAgainst": [
+    "fredrinn",
+    "kalea"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "EXP Lane",
+    "Roam"
+   ],
+   "releaseOrder": 36,
+   "byRank": {
+    "epic": 52.49,
+    "legend": 52.8,
+    "mythic": 51.97,
+    "honor": 51.22,
+    "glory": 48.54
+   },
+   "recent": {
+    "win": 50.2,
+    "pick": 0.13,
+    "ban": 0.09
+   },
+   "top": {
+    "win": 50.81,
+    "pick": 0.13,
+    "ban": 0.1
+   },
+   "r7": {
+    "all": {
+     "win": 50.2,
+     "pick": 0.13,
+     "ban": 0.09
+    },
+    "epic": {
+     "win": 52.28,
+     "pick": 0.06,
+     "ban": 0.12
+    },
+    "legend": {
+     "win": 52.64,
+     "pick": 0.09,
+     "ban": 0.11
+    },
+    "mythic": {
+     "win": 51.88,
+     "pick": 0.11,
+     "ban": 0.13
+    },
+    "honor": {
+     "win": 51.69,
+     "pick": 0.13,
+     "ban": 0.1
+    },
+    "glory": {
+     "win": 48.86,
+     "pick": 0.15,
+     "ban": 0.06
+    }
+   }
+  },
+  {
    "slug": "moskov",
    "en": "Moskov",
    "ru": "Москов",
    "rank": 56,
-   "pick": 0.9,
+   "pick": 0.89,
    "win": 50.31,
-   "ban": 0.28,
+   "ban": 0.27,
    "gloryWin": 51.31,
    "gloryBan": 0.14,
    "tier": "B",
@@ -4802,10 +4802,10 @@
    ],
    "releaseOrder": 103,
    "byRank": {
-    "epic": 46.77,
-    "legend": 47.84,
-    "mythic": 49.49,
-    "honor": 50.94,
+    "epic": 46.76,
+    "legend": 47.79,
+    "mythic": 49.43,
+    "honor": 50.91,
     "glory": 51.31
    },
    "recent": {
@@ -4857,10 +4857,10 @@
    "ru": "Эймон",
    "rank": 57,
    "pick": 0.64,
-   "win": 50.24,
-   "ban": 2.51,
-   "gloryWin": 50.62,
-   "gloryBan": 0.64,
+   "win": 50.21,
+   "ban": 2.53,
+   "gloryWin": 50.56,
+   "gloryBan": 0.66,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -4886,11 +4886,11 @@
    ],
    "releaseOrder": 25,
    "byRank": {
-    "epic": 49.82,
-    "legend": 50.1,
-    "mythic": 50.37,
-    "honor": 49.98,
-    "glory": 50.62
+    "epic": 49.79,
+    "legend": 50.08,
+    "mythic": 50.34,
+    "honor": 49.94,
+    "glory": 50.56
    },
    "recent": {
     "win": 50.05,
@@ -4940,11 +4940,11 @@
    "en": "Badang",
    "ru": "Баданг",
    "rank": 58,
-   "pick": 1.32,
+   "pick": 1.33,
    "win": 50.19,
    "ban": 3.69,
-   "gloryWin": 49.62,
-   "gloryBan": 4.66,
+   "gloryWin": 49.64,
+   "gloryBan": 4.67,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -4952,7 +4952,7 @@
     "sun",
     "zilong",
     "hayabusa",
-    "aldous"
+    "helcurt"
    ],
    "strongAgainst": [],
    "patch": null,
@@ -4968,9 +4968,9 @@
    "byRank": {
     "epic": 50.15,
     "legend": 50.52,
-    "mythic": 50.74,
-    "honor": 50.62,
-    "glory": 49.62
+    "mythic": 50.73,
+    "honor": 50.63,
+    "glory": 49.64
    },
    "recent": {
     "win": 50.18,
@@ -5021,18 +5021,18 @@
    "ru": "Акай",
    "rank": 59,
    "pick": 0.33,
-   "win": 50.18,
+   "win": 50.17,
    "ban": 1.11,
-   "gloryWin": 48.84,
+   "gloryWin": 48.88,
    "gloryBan": 0.63,
    "tier": "B",
    "lowPick": true,
    "counters": [
     "alucard",
     "harith",
-    "nana",
     "silvanna",
-    "granger"
+    "granger",
+    "nana"
    ],
    "strongAgainst": [
     "marcel",
@@ -5049,11 +5049,11 @@
    ],
    "releaseOrder": 125,
    "byRank": {
-    "epic": 51.45,
-    "legend": 51.23,
-    "mythic": 51.38,
-    "honor": 50.32,
-    "glory": 48.84
+    "epic": 51.44,
+    "legend": 51.22,
+    "mythic": 51.36,
+    "honor": 50.34,
+    "glory": 48.88
    },
    "recent": {
     "win": 50.21,
@@ -5099,269 +5099,15 @@
    }
   },
   {
-   "slug": "vale",
-   "en": "Vale",
-   "ru": "Вэйл",
-   "rank": 60,
-   "pick": 0.51,
-   "win": 50.1,
-   "ban": 0.2,
-   "gloryWin": 48.75,
-   "gloryBan": 0.05,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "odette",
-    "estes",
-    "melissa",
-    "rafaela",
-    "silvanna"
-   ],
-   "strongAgainst": [
-    "khaleed",
-    "lapu-lapu"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Mage"
-   ],
-   "lanes": [
-    "Mid Lane"
-   ],
-   "releaseOrder": 68,
-   "byRank": {
-    "epic": 51.45,
-    "legend": 50.78,
-    "mythic": 50.5,
-    "honor": 49.49,
-    "glory": 48.75
-   },
-   "recent": {
-    "win": 50.15,
-    "pick": 0.5,
-    "ban": 0.2
-   },
-   "top": {
-    "win": 49.85,
-    "pick": 0.5,
-    "ban": 0.16
-   },
-   "r7": {
-    "all": {
-     "win": 50.15,
-     "pick": 0.5,
-     "ban": 0.2
-    },
-    "epic": {
-     "win": 51.39,
-     "pick": 0.96,
-     "ban": 0.76
-    },
-    "legend": {
-     "win": 50.95,
-     "pick": 0.84,
-     "ban": 0.5
-    },
-    "mythic": {
-     "win": 50.93,
-     "pick": 0.67,
-     "ban": 0.27
-    },
-    "honor": {
-     "win": 49.83,
-     "pick": 0.53,
-     "ban": 0.16
-    },
-    "glory": {
-     "win": 48.79,
-     "pick": 0.3,
-     "ban": 0.05
-    }
-   }
-  },
-  {
-   "slug": "leomord",
-   "en": "Leomord",
-   "ru": "Леоморд",
-   "rank": 61,
-   "pick": 0.3,
-   "win": 50.09,
-   "ban": 0.61,
-   "gloryWin": 49.97,
-   "gloryBan": 0.18,
-   "tier": "B",
-   "lowPick": true,
-   "counters": [
-    "lolita",
-    "saber",
-    "popol-and-kupa",
-    "belerick",
-    "natalia"
-   ],
-   "strongAgainst": [
-    "valir",
-    "melissa",
-    "zhuxin"
-   ],
-   "patch": null,
-   "orders": 20,
-   "roles": [
-    "Fighter"
-   ],
-   "lanes": [
-    "Jungle"
-   ],
-   "releaseOrder": 67,
-   "byRank": {
-    "epic": 51.76,
-    "legend": 50.45,
-    "mythic": 49.97,
-    "honor": 50.07,
-    "glory": 49.97
-   },
-   "recent": {
-    "win": 49.98,
-    "pick": 0.28,
-    "ban": 0.64
-   },
-   "top": {
-    "win": 49.87,
-    "pick": 0.29,
-    "ban": 0.61
-   },
-   "r7": {
-    "all": {
-     "win": 49.98,
-     "pick": 0.28,
-     "ban": 0.64
-    },
-    "epic": {
-     "win": 51.77,
-     "pick": 0.11,
-     "ban": 1.51
-    },
-    "legend": {
-     "win": 50.27,
-     "pick": 0.18,
-     "ban": 1.53
-    },
-    "mythic": {
-     "win": 49.67,
-     "pick": 0.24,
-     "ban": 1.09
-    },
-    "honor": {
-     "win": 49.98,
-     "pick": 0.29,
-     "ban": 0.55
-    },
-    "glory": {
-     "win": 49.95,
-     "pick": 0.34,
-     "ban": 0.19
-    }
-   }
-  },
-  {
-   "slug": "ixia",
-   "en": "Ixia",
-   "ru": "Иксия",
-   "rank": 62,
-   "pick": 0.76,
-   "win": 50.08,
-   "ban": 0.8,
-   "gloryWin": 50.48,
-   "gloryBan": 0.38,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "estes",
-    "rafaela",
-    "cyclops",
-    "floryn",
-    "lolita"
-   ],
-   "strongAgainst": [
-    "benedetta",
-    "kadita",
-    "hanzo",
-    "yin",
-    "claude",
-    "selena",
-    "wanwan",
-    "chou",
-    "granger"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Marksman"
-   ],
-   "lanes": [
-    "Gold Lane"
-   ],
-   "releaseOrder": 13,
-   "byRank": {
-    "epic": 49.27,
-    "legend": 50.01,
-    "mythic": 50.16,
-    "honor": 49.75,
-    "glory": 50.48
-   },
-   "recent": {
-    "win": 50.28,
-    "pick": 0.83,
-    "ban": 0.9
-   },
-   "top": {
-    "win": 50.27,
-    "pick": 0.84,
-    "ban": 0.96
-   },
-   "r7": {
-    "all": {
-     "win": 50.28,
-     "pick": 0.83,
-     "ban": 0.9
-    },
-    "epic": {
-     "win": 49.33,
-     "pick": 0.94,
-     "ban": 1.13
-    },
-    "legend": {
-     "win": 50.08,
-     "pick": 0.91,
-     "ban": 1.65
-    },
-    "mythic": {
-     "win": 50.23,
-     "pick": 0.88,
-     "ban": 1.44
-    },
-    "honor": {
-     "win": 49.93,
-     "pick": 0.89,
-     "ban": 0.98
-    },
-    "glory": {
-     "win": 50.64,
-     "pick": 0.76,
-     "ban": 0.47
-    }
-   }
-  },
-  {
    "slug": "melissa",
    "en": "Melissa",
    "ru": "Мелисса",
-   "rank": 63,
-   "pick": 0.38,
-   "win": 50.07,
+   "rank": 60,
+   "pick": 0.39,
+   "win": 50.15,
    "ban": 0.88,
-   "gloryWin": 51.65,
-   "gloryBan": 0.47,
+   "gloryWin": 51.7,
+   "gloryBan": 0.48,
    "tier": "B",
    "lowPick": true,
    "counters": [
@@ -5388,11 +5134,11 @@
    ],
    "releaseOrder": 20,
    "byRank": {
-    "epic": 47.63,
-    "legend": 48.18,
-    "mythic": 48.75,
-    "honor": 50.79,
-    "glory": 51.65
+    "epic": 47.66,
+    "legend": 48.23,
+    "mythic": 48.78,
+    "honor": 50.85,
+    "glory": 51.7
    },
    "recent": {
     "win": 51.24,
@@ -5438,15 +5184,269 @@
    }
   },
   {
+   "slug": "vale",
+   "en": "Vale",
+   "ru": "Вэйл",
+   "rank": 61,
+   "pick": 0.51,
+   "win": 50.1,
+   "ban": 0.2,
+   "gloryWin": 48.76,
+   "gloryBan": 0.05,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "odette",
+    "estes",
+    "melissa",
+    "rafaela",
+    "silvanna"
+   ],
+   "strongAgainst": [
+    "khaleed",
+    "lapu-lapu"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 68,
+   "byRank": {
+    "epic": 51.44,
+    "legend": 50.81,
+    "mythic": 50.53,
+    "honor": 49.51,
+    "glory": 48.76
+   },
+   "recent": {
+    "win": 50.15,
+    "pick": 0.5,
+    "ban": 0.2
+   },
+   "top": {
+    "win": 49.85,
+    "pick": 0.5,
+    "ban": 0.16
+   },
+   "r7": {
+    "all": {
+     "win": 50.15,
+     "pick": 0.5,
+     "ban": 0.2
+    },
+    "epic": {
+     "win": 51.39,
+     "pick": 0.96,
+     "ban": 0.76
+    },
+    "legend": {
+     "win": 50.95,
+     "pick": 0.84,
+     "ban": 0.5
+    },
+    "mythic": {
+     "win": 50.93,
+     "pick": 0.67,
+     "ban": 0.27
+    },
+    "honor": {
+     "win": 49.83,
+     "pick": 0.53,
+     "ban": 0.16
+    },
+    "glory": {
+     "win": 48.79,
+     "pick": 0.3,
+     "ban": 0.05
+    }
+   }
+  },
+  {
+   "slug": "ixia",
+   "en": "Ixia",
+   "ru": "Иксия",
+   "rank": 62,
+   "pick": 0.76,
+   "win": 50.1,
+   "ban": 0.8,
+   "gloryWin": 50.49,
+   "gloryBan": 0.39,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "estes",
+    "cyclops",
+    "rafaela",
+    "lolita",
+    "floryn"
+   ],
+   "strongAgainst": [
+    "benedetta",
+    "kadita",
+    "hanzo",
+    "yin",
+    "claude",
+    "selena",
+    "wanwan",
+    "chou",
+    "granger"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 13,
+   "byRank": {
+    "epic": 49.28,
+    "legend": 50.02,
+    "mythic": 50.18,
+    "honor": 49.78,
+    "glory": 50.49
+   },
+   "recent": {
+    "win": 50.28,
+    "pick": 0.83,
+    "ban": 0.9
+   },
+   "top": {
+    "win": 50.27,
+    "pick": 0.84,
+    "ban": 0.96
+   },
+   "r7": {
+    "all": {
+     "win": 50.28,
+     "pick": 0.83,
+     "ban": 0.9
+    },
+    "epic": {
+     "win": 49.33,
+     "pick": 0.94,
+     "ban": 1.13
+    },
+    "legend": {
+     "win": 50.08,
+     "pick": 0.91,
+     "ban": 1.65
+    },
+    "mythic": {
+     "win": 50.23,
+     "pick": 0.88,
+     "ban": 1.44
+    },
+    "honor": {
+     "win": 49.93,
+     "pick": 0.89,
+     "ban": 0.98
+    },
+    "glory": {
+     "win": 50.64,
+     "pick": 0.76,
+     "ban": 0.47
+    }
+   }
+  },
+  {
+   "slug": "leomord",
+   "en": "Leomord",
+   "ru": "Леоморд",
+   "rank": 63,
+   "pick": 0.3,
+   "win": 50.08,
+   "ban": 0.61,
+   "gloryWin": 49.96,
+   "gloryBan": 0.18,
+   "tier": "B",
+   "lowPick": true,
+   "counters": [
+    "lolita",
+    "saber",
+    "belerick",
+    "popol-and-kupa",
+    "natalia"
+   ],
+   "strongAgainst": [
+    "valir",
+    "melissa",
+    "zhuxin"
+   ],
+   "patch": null,
+   "orders": 20,
+   "roles": [
+    "Fighter"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 67,
+   "byRank": {
+    "epic": 51.75,
+    "legend": 50.45,
+    "mythic": 49.93,
+    "honor": 50.06,
+    "glory": 49.96
+   },
+   "recent": {
+    "win": 49.98,
+    "pick": 0.28,
+    "ban": 0.64
+   },
+   "top": {
+    "win": 49.87,
+    "pick": 0.29,
+    "ban": 0.61
+   },
+   "r7": {
+    "all": {
+     "win": 49.98,
+     "pick": 0.28,
+     "ban": 0.64
+    },
+    "epic": {
+     "win": 51.77,
+     "pick": 0.11,
+     "ban": 1.51
+    },
+    "legend": {
+     "win": 50.27,
+     "pick": 0.18,
+     "ban": 1.53
+    },
+    "mythic": {
+     "win": 49.67,
+     "pick": 0.24,
+     "ban": 1.09
+    },
+    "honor": {
+     "win": 49.98,
+     "pick": 0.29,
+     "ban": 0.55
+    },
+    "glory": {
+     "win": 49.95,
+     "pick": 0.34,
+     "ban": 0.19
+    }
+   }
+  },
+  {
    "slug": "hirara",
    "en": "Hirara",
    "ru": "Хирара",
    "rank": 64,
    "pick": 0.6,
    "win": 50.03,
-   "ban": 67.97,
+   "ban": 67.92,
    "gloryWin": 49.5,
-   "gloryBan": 86.38,
+   "gloryBan": 86.24,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -5467,10 +5467,10 @@
    ],
    "releaseOrder": 1,
    "byRank": {
-    "epic": 50.75,
-    "legend": 50.34,
-    "mythic": 49.94,
-    "honor": 50.91,
+    "epic": 50.81,
+    "legend": 50.38,
+    "mythic": 49.91,
+    "honor": 50.93,
     "glory": 49.5
    },
    "recent": {
@@ -5521,11 +5521,11 @@
    "en": "Paquito",
    "ru": "Пакито",
    "rank": 65,
-   "pick": 1.26,
-   "win": 50.03,
-   "ban": 18.13,
-   "gloryWin": 50.03,
-   "gloryBan": 15.2,
+   "pick": 1.25,
+   "win": 50.02,
+   "ban": 17.64,
+   "gloryWin": 50.04,
+   "gloryBan": 14.85,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -5548,11 +5548,11 @@
    ],
    "releaseOrder": 31,
    "byRank": {
-    "epic": 49.53,
-    "legend": 49.57,
-    "mythic": 49.74,
-    "honor": 50.51,
-    "glory": 50.03
+    "epic": 49.52,
+    "legend": 49.56,
+    "mythic": 49.71,
+    "honor": 50.48,
+    "glory": 50.04
    },
    "recent": {
     "win": 49.96,
@@ -5598,15 +5598,97 @@
    }
   },
   {
+   "slug": "angela",
+   "en": "Angela",
+   "ru": "Ангела",
+   "rank": 66,
+   "pick": 1.75,
+   "win": 50,
+   "ban": 11.97,
+   "gloryWin": 49.87,
+   "gloryBan": 9.63,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "alice",
+    "marcel",
+    "balmond",
+    "faramis",
+    "lancelot"
+   ],
+   "strongAgainst": [
+    "silvanna",
+    "franco"
+   ],
+   "patch": null,
+   "orders": 51,
+   "roles": [
+    "Support"
+   ],
+   "lanes": [
+    "Roam"
+   ],
+   "releaseOrder": 79,
+   "byRank": {
+    "epic": 51.71,
+    "legend": 50.71,
+    "mythic": 49.87,
+    "honor": 49.55,
+    "glory": 49.87
+   },
+   "recent": {
+    "win": 49.96,
+    "pick": 1.78,
+    "ban": 13.21
+   },
+   "top": {
+    "win": 49.85,
+    "pick": 1.79,
+    "ban": 14.21
+   },
+   "r7": {
+    "all": {
+     "win": 49.96,
+     "pick": 1.78,
+     "ban": 13.21
+    },
+    "epic": {
+     "win": 51.92,
+     "pick": 1.18,
+     "ban": 10.47
+    },
+    "legend": {
+     "win": 50.97,
+     "pick": 1.52,
+     "ban": 16.48
+    },
+    "mythic": {
+     "win": 50.26,
+     "pick": 1.62,
+     "ban": 17.4
+    },
+    "honor": {
+     "win": 49.62,
+     "pick": 1.79,
+     "ban": 14.31
+    },
+    "glory": {
+     "win": 49.67,
+     "pick": 1.96,
+     "ban": 10.93
+    }
+   }
+  },
+  {
    "slug": "brody",
    "en": "Brody",
    "ru": "Броуди",
-   "rank": 66,
+   "rank": 67,
    "pick": 0.82,
    "win": 49.99,
-   "ban": 1.48,
+   "ban": 1.46,
    "gloryWin": 49.97,
-   "gloryBan": 1.03,
+   "gloryBan": 1.02,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -5629,9 +5711,9 @@
    ],
    "releaseOrder": 34,
    "byRank": {
-    "epic": 49.78,
-    "legend": 49.9,
-    "mythic": 49.77,
+    "epic": 49.77,
+    "legend": 49.88,
+    "mythic": 49.76,
     "honor": 50.18,
     "glory": 49.97
    },
@@ -5679,97 +5761,15 @@
    }
   },
   {
-   "slug": "angela",
-   "en": "Angela",
-   "ru": "Ангела",
-   "rank": 67,
-   "pick": 1.75,
-   "win": 49.99,
-   "ban": 11.87,
-   "gloryWin": 49.86,
-   "gloryBan": 9.5,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "alice",
-    "marcel",
-    "balmond",
-    "faramis",
-    "lancelot"
-   ],
-   "strongAgainst": [
-    "silvanna",
-    "franco"
-   ],
-   "patch": null,
-   "orders": 51,
-   "roles": [
-    "Support"
-   ],
-   "lanes": [
-    "Roam"
-   ],
-   "releaseOrder": 79,
-   "byRank": {
-    "epic": 51.69,
-    "legend": 50.7,
-    "mythic": 49.85,
-    "honor": 49.53,
-    "glory": 49.86
-   },
-   "recent": {
-    "win": 49.96,
-    "pick": 1.78,
-    "ban": 13.21
-   },
-   "top": {
-    "win": 49.85,
-    "pick": 1.79,
-    "ban": 14.21
-   },
-   "r7": {
-    "all": {
-     "win": 49.96,
-     "pick": 1.78,
-     "ban": 13.21
-    },
-    "epic": {
-     "win": 51.92,
-     "pick": 1.18,
-     "ban": 10.47
-    },
-    "legend": {
-     "win": 50.97,
-     "pick": 1.52,
-     "ban": 16.48
-    },
-    "mythic": {
-     "win": 50.26,
-     "pick": 1.62,
-     "ban": 17.4
-    },
-    "honor": {
-     "win": 49.62,
-     "pick": 1.79,
-     "ban": 14.31
-    },
-    "glory": {
-     "win": 49.67,
-     "pick": 1.96,
-     "ban": 10.93
-    }
-   }
-  },
-  {
    "slug": "x-borg",
    "en": "X.Borg",
    "ru": "Икс.Борг",
    "rank": 68,
    "pick": 0.59,
-   "win": 49.96,
+   "win": 49.95,
    "ban": 1.96,
-   "gloryWin": 48.7,
-   "gloryBan": 0.76,
+   "gloryWin": 48.71,
+   "gloryBan": 0.77,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -5812,10 +5812,10 @@
    "releaseOrder": 51,
    "byRank": {
     "epic": 50.89,
-    "legend": 51.22,
+    "legend": 51.23,
     "mythic": 50.79,
-    "honor": 50.11,
-    "glory": 48.7
+    "honor": 50.13,
+    "glory": 48.71
    },
    "recent": {
     "win": 49.94,
@@ -5866,10 +5866,10 @@
    "ru": "Джулиан",
    "rank": 69,
    "pick": 0.67,
-   "win": 49.95,
+   "win": 49.93,
    "ban": 0.78,
-   "gloryWin": 49.2,
-   "gloryBan": 0.23,
+   "gloryWin": 49.21,
+   "gloryBan": 0.24,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -5895,10 +5895,10 @@
    "releaseOrder": 18,
    "byRank": {
     "epic": 50.96,
-    "legend": 50.4,
-    "mythic": 50.15,
-    "honor": 49.98,
-    "glory": 49.2
+    "legend": 50.37,
+    "mythic": 50.13,
+    "honor": 49.97,
+    "glory": 49.21
    },
    "recent": {
     "win": 49.85,
@@ -5949,10 +5949,10 @@
    "ru": "Ханзо",
    "rank": 70,
    "pick": 0.36,
-   "win": 49.9,
-   "ban": 5.82,
-   "gloryWin": 48.83,
-   "gloryBan": 3.5,
+   "win": 49.91,
+   "ban": 5.7,
+   "gloryWin": 48.88,
+   "gloryBan": 3.47,
    "tier": "B",
    "lowPick": true,
    "counters": [
@@ -5966,8 +5966,8 @@
     "obsidia",
     "ling",
     "aldous",
-    "kagura",
     "natalia",
+    "kagura",
     "hirara"
    ],
    "patch": null,
@@ -5980,11 +5980,11 @@
    ],
    "releaseOrder": 65,
    "byRank": {
-    "epic": 50.77,
-    "legend": 50.9,
-    "mythic": 50.58,
-    "honor": 50.23,
-    "glory": 48.83
+    "epic": 50.76,
+    "legend": 50.88,
+    "mythic": 50.6,
+    "honor": 50.26,
+    "glory": 48.88
    },
    "recent": {
     "win": 49.94,
@@ -6035,18 +6035,18 @@
    "ru": "Кайя",
    "rank": 71,
    "pick": 0.61,
-   "win": 49.8,
-   "ban": 15.91,
-   "gloryWin": 49.83,
-   "gloryBan": 26.31,
+   "win": 49.78,
+   "ban": 16.09,
+   "gloryWin": 49.81,
+   "gloryBan": 26.53,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "valir",
     "akai",
     "grock",
-    "gloo",
-    "beatrix"
+    "baxia",
+    "gloo"
    ],
    "strongAgainst": [
     "zhask",
@@ -6063,11 +6063,11 @@
    ],
    "releaseOrder": 72,
    "byRank": {
-    "epic": 48.42,
-    "legend": 48.84,
-    "mythic": 49.78,
-    "honor": 50.17,
-    "glory": 49.83
+    "epic": 48.44,
+    "legend": 48.82,
+    "mythic": 49.73,
+    "honor": 50.15,
+    "glory": 49.81
    },
    "recent": {
     "win": 49.53,
@@ -6117,11 +6117,11 @@
    "en": "Nolan",
    "ru": "Нолан",
    "rank": 72,
-   "pick": 1.92,
-   "win": 49.71,
-   "ban": 16.3,
+   "pick": 1.93,
+   "win": 49.72,
+   "ban": 17.02,
    "gloryWin": 50.36,
-   "gloryBan": 21.66,
+   "gloryBan": 22.61,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -6147,10 +6147,10 @@
    ],
    "releaseOrder": 12,
    "byRank": {
-    "epic": 48.65,
+    "epic": 48.67,
     "legend": 48.33,
-    "mythic": 48.78,
-    "honor": 49.59,
+    "mythic": 48.76,
+    "honor": 49.57,
     "glory": 50.36
    },
    "recent": {
@@ -6197,97 +6197,15 @@
    }
   },
   {
-   "slug": "miya",
-   "en": "Miya",
-   "ru": "Мия",
-   "rank": 73,
-   "pick": 2.19,
-   "win": 49.71,
-   "ban": 4.58,
-   "gloryWin": 50.3,
-   "gloryBan": 1.8,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "saber",
-    "obsidia",
-    "moskov",
-    "irithel",
-    "guinevere"
-   ],
-   "strongAgainst": [
-    "belerick",
-    "gatotkaca"
-   ],
-   "patch": "nerf",
-   "orders": null,
-   "roles": [
-    "Marksman"
-   ],
-   "lanes": [
-    "Gold Lane"
-   ],
-   "releaseOrder": 133,
-   "byRank": {
-    "epic": 48.43,
-    "legend": 49.2,
-    "mythic": 50.26,
-    "honor": 50.12,
-    "glory": 50.3
-   },
-   "recent": {
-    "win": 49.52,
-    "pick": 2.11,
-    "ban": 3.96
-   },
-   "top": {
-    "win": 50,
-    "pick": 1.99,
-    "ban": 3.91
-   },
-   "r7": {
-    "all": {
-     "win": 49.52,
-     "pick": 2.11,
-     "ban": 3.96
-    },
-    "epic": {
-     "win": 48.1,
-     "pick": 4.65,
-     "ban": 9.69
-    },
-    "legend": {
-     "win": 48.76,
-     "pick": 3.49,
-     "ban": 7.44
-    },
-    "mythic": {
-     "win": 50.06,
-     "pick": 2.55,
-     "ban": 5.87
-    },
-    "honor": {
-     "win": 49.8,
-     "pick": 2.09,
-     "ban": 4.13
-    },
-    "glory": {
-     "win": 50.15,
-     "pick": 1.34,
-     "ban": 1.74
-    }
-   }
-  },
-  {
    "slug": "suyou",
    "en": "Suyou",
    "ru": "Су Ё",
-   "rank": 74,
-   "pick": 1.06,
+   "rank": 73,
+   "pick": 1.07,
    "win": 49.7,
-   "ban": 1.49,
+   "ban": 1.52,
    "gloryWin": 49.43,
-   "gloryBan": 1.29,
+   "gloryBan": 1.33,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -6311,10 +6229,10 @@
    ],
    "releaseOrder": 8,
    "byRank": {
-    "epic": 50.9,
-    "legend": 50.12,
-    "mythic": 49.67,
-    "honor": 49.99,
+    "epic": 50.91,
+    "legend": 50.13,
+    "mythic": 49.68,
+    "honor": 50,
     "glory": 49.43
    },
    "recent": {
@@ -6364,11 +6282,11 @@
    "slug": "odette",
    "en": "Odette",
    "ru": "Одетта",
-   "rank": 75,
+   "rank": 74,
    "pick": 0.55,
-   "win": 49.69,
+   "win": 49.7,
    "ban": 0.27,
-   "gloryWin": 51.61,
+   "gloryWin": 51.57,
    "gloryBan": 0.08,
    "tier": "B",
    "lowPick": false,
@@ -6377,7 +6295,7 @@
     "mathilda",
     "faramis",
     "chip",
-    "valentina"
+    "marcel"
    ],
    "strongAgainst": [
     "bane",
@@ -6402,11 +6320,11 @@
    ],
    "releaseOrder": 88,
    "byRank": {
-    "epic": 47.72,
-    "legend": 48.47,
+    "epic": 47.76,
+    "legend": 48.48,
     "mythic": 49.5,
-    "honor": 49.57,
-    "glory": 51.61
+    "honor": 49.55,
+    "glory": 51.57
    },
    "recent": {
     "win": 49.91,
@@ -6452,15 +6370,97 @@
    }
   },
   {
+   "slug": "miya",
+   "en": "Miya",
+   "ru": "Мия",
+   "rank": 75,
+   "pick": 2.18,
+   "win": 49.7,
+   "ban": 4.53,
+   "gloryWin": 50.29,
+   "gloryBan": 1.8,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "saber",
+    "obsidia",
+    "moskov",
+    "irithel",
+    "harith"
+   ],
+   "strongAgainst": [
+    "belerick",
+    "gatotkaca"
+   ],
+   "patch": "nerf",
+   "orders": null,
+   "roles": [
+    "Marksman"
+   ],
+   "lanes": [
+    "Gold Lane"
+   ],
+   "releaseOrder": 133,
+   "byRank": {
+    "epic": 48.41,
+    "legend": 49.18,
+    "mythic": 50.26,
+    "honor": 50.1,
+    "glory": 50.29
+   },
+   "recent": {
+    "win": 49.52,
+    "pick": 2.11,
+    "ban": 3.96
+   },
+   "top": {
+    "win": 50,
+    "pick": 1.99,
+    "ban": 3.91
+   },
+   "r7": {
+    "all": {
+     "win": 49.52,
+     "pick": 2.11,
+     "ban": 3.96
+    },
+    "epic": {
+     "win": 48.1,
+     "pick": 4.65,
+     "ban": 9.69
+    },
+    "legend": {
+     "win": 48.76,
+     "pick": 3.49,
+     "ban": 7.44
+    },
+    "mythic": {
+     "win": 50.06,
+     "pick": 2.55,
+     "ban": 5.87
+    },
+    "honor": {
+     "win": 49.8,
+     "pick": 2.09,
+     "ban": 4.13
+    },
+    "glory": {
+     "win": 50.15,
+     "pick": 1.34,
+     "ban": 1.74
+    }
+   }
+  },
+  {
    "slug": "yin",
    "en": "Yin",
    "ru": "Инь",
    "rank": 76,
    "pick": 0.52,
-   "win": 49.62,
+   "win": 49.64,
    "ban": 1.7,
-   "gloryWin": 49.85,
-   "gloryBan": 0.38,
+   "gloryWin": 49.86,
+   "gloryBan": 0.39,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -6496,11 +6496,11 @@
    ],
    "releaseOrder": 21,
    "byRank": {
-    "epic": 49.97,
-    "legend": 49.56,
-    "mythic": 49.88,
-    "honor": 49.05,
-    "glory": 49.85
+    "epic": 49.98,
+    "legend": 49.57,
+    "mythic": 49.91,
+    "honor": 49.06,
+    "glory": 49.86
    },
    "recent": {
     "win": 49.79,
@@ -6551,9 +6551,9 @@
    "ru": "Чжусинь",
    "rank": 77,
    "pick": 0.23,
-   "win": 49.57,
+   "win": 49.54,
    "ban": 0.42,
-   "gloryWin": 49.98,
+   "gloryWin": 49.93,
    "gloryBan": 0.58,
    "tier": "B",
    "lowPick": true,
@@ -6581,11 +6581,11 @@
    ],
    "releaseOrder": 9,
    "byRank": {
-    "epic": 47.79,
+    "epic": 47.82,
     "legend": 48.25,
-    "mythic": 48.39,
-    "honor": 49.01,
-    "glory": 49.98
+    "mythic": 48.34,
+    "honor": 48.99,
+    "glory": 49.93
    },
    "recent": {
     "win": 49.16,
@@ -6631,94 +6631,15 @@
    }
   },
   {
-   "slug": "novaria",
-   "en": "Novaria",
-   "ru": "Новария",
-   "rank": 78,
-   "pick": 1.21,
-   "win": 49.52,
-   "ban": 3.89,
-   "gloryWin": 48.89,
-   "gloryBan": 1.76,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "diggie",
-    "valir",
-    "bane",
-    "hanabi",
-    "luo-yi"
-   ],
-   "strongAgainst": [],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Mage"
-   ],
-   "lanes": [
-    "Mid Lane"
-   ],
-   "releaseOrder": 15,
-   "byRank": {
-    "epic": 50.29,
-    "legend": 50.07,
-    "mythic": 49.8,
-    "honor": 49.79,
-    "glory": 48.89
-   },
-   "recent": {
-    "win": 48.86,
-    "pick": 1.14,
-    "ban": 3.77
-   },
-   "top": {
-    "win": 48.88,
-    "pick": 1.26,
-    "ban": 4.76
-   },
-   "r7": {
-    "all": {
-     "win": 48.86,
-     "pick": 1.14,
-     "ban": 3.77
-    },
-    "epic": {
-     "win": 49.85,
-     "pick": 0.63,
-     "ban": 2.53
-    },
-    "legend": {
-     "win": 49.69,
-     "pick": 0.98,
-     "ban": 5.5
-    },
-    "mythic": {
-     "win": 49.17,
-     "pick": 1.35,
-     "ban": 7.36
-    },
-    "honor": {
-     "win": 49.11,
-     "pick": 1.32,
-     "ban": 5.04
-    },
-    "glory": {
-     "win": 48.36,
-     "pick": 1.11,
-     "ban": 1.87
-    }
-   }
-  },
-  {
    "slug": "sora",
    "en": "Sora",
    "ru": "Сора",
-   "rank": 79,
-   "pick": 0.66,
+   "rank": 78,
+   "pick": 0.67,
    "win": 49.5,
-   "ban": 4.3,
+   "ban": 4.34,
    "gloryWin": 49.61,
-   "gloryBan": 2.46,
+   "gloryBan": 2.5,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -6742,10 +6663,10 @@
    ],
    "releaseOrder": 3,
    "byRank": {
-    "epic": 48.95,
-    "legend": 49.38,
-    "mythic": 49.45,
-    "honor": 49.41,
+    "epic": 48.94,
+    "legend": 49.39,
+    "mythic": 49.42,
+    "honor": 49.42,
     "glory": 49.61
    },
    "recent": {
@@ -6792,23 +6713,102 @@
    }
   },
   {
+   "slug": "novaria",
+   "en": "Novaria",
+   "ru": "Новария",
+   "rank": 79,
+   "pick": 1.2,
+   "win": 49.49,
+   "ban": 3.89,
+   "gloryWin": 48.86,
+   "gloryBan": 1.78,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "diggie",
+    "valir",
+    "bane",
+    "hanabi",
+    "luo-yi"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 15,
+   "byRank": {
+    "epic": 50.27,
+    "legend": 50.06,
+    "mythic": 49.76,
+    "honor": 49.76,
+    "glory": 48.86
+   },
+   "recent": {
+    "win": 48.86,
+    "pick": 1.14,
+    "ban": 3.77
+   },
+   "top": {
+    "win": 48.88,
+    "pick": 1.26,
+    "ban": 4.76
+   },
+   "r7": {
+    "all": {
+     "win": 48.86,
+     "pick": 1.14,
+     "ban": 3.77
+    },
+    "epic": {
+     "win": 49.85,
+     "pick": 0.63,
+     "ban": 2.53
+    },
+    "legend": {
+     "win": 49.69,
+     "pick": 0.98,
+     "ban": 5.5
+    },
+    "mythic": {
+     "win": 49.17,
+     "pick": 1.35,
+     "ban": 7.36
+    },
+    "honor": {
+     "win": 49.11,
+     "pick": 1.32,
+     "ban": 5.04
+    },
+    "glory": {
+     "win": 48.36,
+     "pick": 1.11,
+     "ban": 1.87
+    }
+   }
+  },
+  {
    "slug": "layla",
    "en": "Layla",
    "ru": "Лейла",
    "rank": 80,
-   "pick": 1.9,
+   "pick": 1.92,
    "win": 49.41,
-   "ban": 1.78,
-   "gloryWin": 47.95,
-   "gloryBan": 0.59,
+   "ban": 1.8,
+   "gloryWin": 47.97,
+   "gloryBan": 0.6,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "diggie",
     "edith",
     "rafaela",
-    "odette",
-    "phoveus"
+    "phoveus",
+    "odette"
    ],
    "strongAgainst": [
     "atlas",
@@ -6828,9 +6828,9 @@
    "byRank": {
     "epic": 50.86,
     "legend": 50.21,
-    "mythic": 49.86,
-    "honor": 48.7,
-    "glory": 47.95
+    "mythic": 49.88,
+    "honor": 48.71,
+    "glory": 47.97
    },
    "recent": {
     "win": 49.45,
@@ -6876,278 +6876,27 @@
    }
   },
   {
-   "slug": "cici",
-   "en": "Cici",
-   "ru": "Чичи",
-   "rank": 81,
-   "pick": 0.68,
-   "win": 49.38,
-   "ban": 1.16,
-   "gloryWin": 48.93,
-   "gloryBan": 0.62,
-   "tier": "B",
-   "lowPick": false,
-   "counters": [
-    "balmond",
-    "thamuz",
-    "alice",
-    "hylos",
-    "belerick"
-   ],
-   "strongAgainst": [
-    "masha",
-    "rafaela",
-    "diggie",
-    "estes",
-    "aamon",
-    "arlott",
-    "zilong"
-   ],
-   "patch": "buff",
-   "orders": null,
-   "roles": [
-    "Fighter"
-   ],
-   "lanes": [
-    "EXP Lane"
-   ],
-   "releaseOrder": 11,
-   "byRank": {
-    "epic": 50.02,
-    "legend": 50.1,
-    "mythic": 50.01,
-    "honor": 49.34,
-    "glory": 48.93
-   },
-   "recent": {
-    "win": 49.11,
-    "pick": 0.71,
-    "ban": 1.3
-   },
-   "top": {
-    "win": 49.27,
-    "pick": 0.69,
-    "ban": 1.4
-   },
-   "r7": {
-    "all": {
-     "win": 49.11,
-     "pick": 0.71,
-     "ban": 1.3
-    },
-    "epic": {
-     "win": 50.05,
-     "pick": 0.51,
-     "ban": 1.53
-    },
-    "legend": {
-     "win": 50.05,
-     "pick": 0.61,
-     "ban": 2.34
-    },
-    "mythic": {
-     "win": 49.96,
-     "pick": 0.62,
-     "ban": 2.04
-    },
-    "honor": {
-     "win": 49.24,
-     "pick": 0.67,
-     "ban": 1.44
-    },
-    "glory": {
-     "win": 48.6,
-     "pick": 0.79,
-     "ban": 0.71
-    }
-   }
-  },
-  {
-   "slug": "lylia",
-   "en": "Lylia",
-   "ru": "Лилия",
-   "rank": 82,
-   "pick": 0.49,
-   "win": 49.34,
-   "ban": 0.39,
-   "gloryWin": 48.17,
-   "gloryBan": 0.15,
-   "tier": "B",
-   "lowPick": true,
-   "counters": [
-    "johnson",
-    "hanabi",
-    "alpha",
-    "barats",
-    "alice"
-   ],
-   "strongAgainst": [],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Mage"
-   ],
-   "lanes": [
-    "Mid Lane"
-   ],
-   "releaseOrder": 48,
-   "byRank": {
-    "epic": 51.08,
-    "legend": 50.72,
-    "mythic": 50.06,
-    "honor": 49.57,
-    "glory": 48.17
-   },
-   "recent": {
-    "win": 48.77,
-    "pick": 0.46,
-    "ban": 0.38
-   },
-   "top": {
-    "win": 48.97,
-    "pick": 0.45,
-    "ban": 0.39
-   },
-   "r7": {
-    "all": {
-     "win": 48.77,
-     "pick": 0.46,
-     "ban": 0.38
-    },
-    "epic": {
-     "win": 50.96,
-     "pick": 0.41,
-     "ban": 0.73
-    },
-    "legend": {
-     "win": 50.5,
-     "pick": 0.44,
-     "ban": 0.79
-    },
-    "mythic": {
-     "win": 49.92,
-     "pick": 0.42,
-     "ban": 0.61
-    },
-    "honor": {
-     "win": 49.36,
-     "pick": 0.45,
-     "ban": 0.4
-    },
-    "glory": {
-     "win": 47.64,
-     "pick": 0.49,
-     "ban": 0.16
-    }
-   }
-  },
-  {
-   "slug": "uranus",
-   "en": "Uranus",
-   "ru": "Уранус",
-   "rank": 83,
-   "pick": 0.31,
-   "win": 49.34,
-   "ban": 0.33,
-   "gloryWin": 48.25,
-   "gloryBan": 0.12,
-   "tier": "B",
-   "lowPick": true,
-   "counters": [
-    "argus",
-    "yin",
-    "gatotkaca",
-    "diggie",
-    "granger"
-   ],
-   "strongAgainst": [
-    "aldous",
-    "dyrroth",
-    "kimmy",
-    "luo-yi"
-   ],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Tank"
-   ],
-   "lanes": [
-    "EXP Lane"
-   ],
-   "releaseOrder": 75,
-   "byRank": {
-    "epic": 51.65,
-    "legend": 50.82,
-    "mythic": 50.13,
-    "honor": 49,
-    "glory": 48.25
-   },
-   "recent": {
-    "win": 49.54,
-    "pick": 0.28,
-    "ban": 0.31
-   },
-   "top": {
-    "win": 49.59,
-    "pick": 0.3,
-    "ban": 0.31
-   },
-   "r7": {
-    "all": {
-     "win": 49.54,
-     "pick": 0.28,
-     "ban": 0.31
-    },
-    "epic": {
-     "win": 51.55,
-     "pick": 0.2,
-     "ban": 0.78
-    },
-    "legend": {
-     "win": 50.95,
-     "pick": 0.28,
-     "ban": 0.58
-    },
-    "mythic": {
-     "win": 50.53,
-     "pick": 0.3,
-     "ban": 0.48
-    },
-    "honor": {
-     "win": 49.56,
-     "pick": 0.31,
-     "ban": 0.31
-    },
-    "glory": {
-     "win": 48.68,
-     "pick": 0.28,
-     "ban": 0.13
-    }
-   }
-  },
-  {
    "slug": "freya",
    "en": "Freya",
    "ru": "Фрейя",
-   "rank": 84,
-   "pick": 0.89,
-   "win": 49.32,
-   "ban": 4.76,
-   "gloryWin": 51.07,
-   "gloryBan": 5.42,
+   "rank": 81,
+   "pick": 0.9,
+   "win": 49.39,
+   "ban": 5,
+   "gloryWin": 51.12,
+   "gloryBan": 5.74,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "masha",
     "yve",
     "lolita",
-    "kagura",
-    "ling"
+    "ling",
+    "kagura"
    ],
    "strongAgainst": [
     "minsitthar",
-    "phoveus",
-    "franco"
+    "phoveus"
    ],
    "patch": null,
    "orders": null,
@@ -7160,11 +6909,11 @@
    ],
    "releaseOrder": 112,
    "byRank": {
-    "epic": 47.34,
-    "legend": 47.52,
-    "mythic": 48.19,
-    "honor": 48.53,
-    "glory": 51.07
+    "epic": 47.38,
+    "legend": 47.56,
+    "mythic": 48.23,
+    "honor": 48.56,
+    "glory": 51.12
    },
    "recent": {
     "win": 50.35,
@@ -7210,81 +6959,173 @@
    }
   },
   {
-   "slug": "vexana",
-   "en": "Vexana",
-   "ru": "Вексана",
-   "rank": 85,
-   "pick": 1.52,
-   "win": 49.3,
-   "ban": 1.15,
-   "gloryWin": 48.49,
-   "gloryBan": 0.34,
+   "slug": "cici",
+   "en": "Cici",
+   "ru": "Чичи",
+   "rank": 82,
+   "pick": 0.68,
+   "win": 49.36,
+   "ban": 1.16,
+   "gloryWin": 48.91,
+   "gloryBan": 0.62,
    "tier": "B",
    "lowPick": false,
    "counters": [
-    "gloo",
-    "zhask",
-    "odette",
-    "chip",
-    "lolita"
+    "balmond",
+    "thamuz",
+    "alice",
+    "belerick",
+    "hylos"
    ],
-   "strongAgainst": [],
-   "patch": null,
+   "strongAgainst": [
+    "masha",
+    "rafaela",
+    "diggie",
+    "estes",
+    "aamon",
+    "arlott",
+    "zilong"
+   ],
+   "patch": "buff",
    "orders": null,
    "roles": [
-    "Mage"
+    "Fighter"
    ],
    "lanes": [
-    "Mid Lane"
+    "EXP Lane"
    ],
-   "releaseOrder": 96,
+   "releaseOrder": 11,
    "byRank": {
-    "epic": 50.17,
-    "legend": 49.74,
-    "mythic": 49.68,
-    "honor": 49.08,
-    "glory": 48.49
+    "epic": 50.02,
+    "legend": 50.09,
+    "mythic": 50.01,
+    "honor": 49.34,
+    "glory": 48.91
    },
    "recent": {
-    "win": 49.24,
-    "pick": 1.53,
-    "ban": 1.16
+    "win": 49.11,
+    "pick": 0.71,
+    "ban": 1.3
    },
    "top": {
-    "win": 49.17,
-    "pick": 1.5,
-    "ban": 1.05
+    "win": 49.27,
+    "pick": 0.69,
+    "ban": 1.4
    },
    "r7": {
     "all": {
-     "win": 49.24,
-     "pick": 1.53,
-     "ban": 1.16
+     "win": 49.11,
+     "pick": 0.71,
+     "ban": 1.3
     },
     "epic": {
-     "win": 49.99,
-     "pick": 2.71,
-     "ban": 3.5
+     "win": 50.05,
+     "pick": 0.51,
+     "ban": 1.53
     },
     "legend": {
-     "win": 49.74,
-     "pick": 2.25,
-     "ban": 2.6
+     "win": 50.05,
+     "pick": 0.61,
+     "ban": 2.34
     },
     "mythic": {
-     "win": 49.76,
-     "pick": 1.83,
-     "ban": 1.72
+     "win": 49.96,
+     "pick": 0.62,
+     "ban": 2.04
     },
     "honor": {
-     "win": 49.31,
-     "pick": 1.59,
-     "ban": 1.06
+     "win": 49.24,
+     "pick": 0.67,
+     "ban": 1.44
     },
     "glory": {
-     "win": 48.45,
-     "pick": 1.09,
-     "ban": 0.38
+     "win": 48.6,
+     "pick": 0.79,
+     "ban": 0.71
+    }
+   }
+  },
+  {
+   "slug": "uranus",
+   "en": "Uranus",
+   "ru": "Уранус",
+   "rank": 83,
+   "pick": 0.3,
+   "win": 49.35,
+   "ban": 0.33,
+   "gloryWin": 48.27,
+   "gloryBan": 0.12,
+   "tier": "B",
+   "lowPick": true,
+   "counters": [
+    "argus",
+    "yin",
+    "gatotkaca",
+    "diggie",
+    "granger"
+   ],
+   "strongAgainst": [
+    "aldous",
+    "dyrroth",
+    "kimmy",
+    "luo-yi"
+   ],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Tank"
+   ],
+   "lanes": [
+    "EXP Lane"
+   ],
+   "releaseOrder": 75,
+   "byRank": {
+    "epic": 51.66,
+    "legend": 50.82,
+    "mythic": 50.15,
+    "honor": 49.05,
+    "glory": 48.27
+   },
+   "recent": {
+    "win": 49.54,
+    "pick": 0.28,
+    "ban": 0.31
+   },
+   "top": {
+    "win": 49.59,
+    "pick": 0.3,
+    "ban": 0.31
+   },
+   "r7": {
+    "all": {
+     "win": 49.54,
+     "pick": 0.28,
+     "ban": 0.31
+    },
+    "epic": {
+     "win": 51.55,
+     "pick": 0.2,
+     "ban": 0.78
+    },
+    "legend": {
+     "win": 50.95,
+     "pick": 0.28,
+     "ban": 0.58
+    },
+    "mythic": {
+     "win": 50.53,
+     "pick": 0.3,
+     "ban": 0.48
+    },
+    "honor": {
+     "win": 49.56,
+     "pick": 0.31,
+     "ban": 0.31
+    },
+    "glory": {
+     "win": 48.68,
+     "pick": 0.28,
+     "ban": 0.13
     }
    }
   },
@@ -7292,12 +7133,12 @@
    "slug": "dyrroth",
    "en": "Dyrroth",
    "ru": "Дариус",
-   "rank": 86,
+   "rank": 84,
    "pick": 1.68,
-   "win": 49.3,
-   "ban": 1.66,
+   "win": 49.31,
+   "ban": 1.67,
    "gloryWin": 51.36,
-   "gloryBan": 0.84,
+   "gloryBan": 0.85,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -7322,10 +7163,10 @@
    ],
    "releaseOrder": 49,
    "byRank": {
-    "epic": 47.75,
-    "legend": 47.87,
+    "epic": 47.73,
+    "legend": 47.85,
     "mythic": 48.2,
-    "honor": 50.89,
+    "honor": 50.87,
     "glory": 51.36
    },
    "recent": {
@@ -7372,23 +7213,181 @@
    }
   },
   {
+   "slug": "lylia",
+   "en": "Lylia",
+   "ru": "Лилия",
+   "rank": 85,
+   "pick": 0.48,
+   "win": 49.3,
+   "ban": 0.39,
+   "gloryWin": 48.14,
+   "gloryBan": 0.15,
+   "tier": "B",
+   "lowPick": true,
+   "counters": [
+    "johnson",
+    "hanabi",
+    "alpha",
+    "barats",
+    "alice"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 48,
+   "byRank": {
+    "epic": 51.07,
+    "legend": 50.7,
+    "mythic": 50.03,
+    "honor": 49.56,
+    "glory": 48.14
+   },
+   "recent": {
+    "win": 48.77,
+    "pick": 0.46,
+    "ban": 0.38
+   },
+   "top": {
+    "win": 48.97,
+    "pick": 0.45,
+    "ban": 0.39
+   },
+   "r7": {
+    "all": {
+     "win": 48.77,
+     "pick": 0.46,
+     "ban": 0.38
+    },
+    "epic": {
+     "win": 50.96,
+     "pick": 0.41,
+     "ban": 0.73
+    },
+    "legend": {
+     "win": 50.5,
+     "pick": 0.44,
+     "ban": 0.79
+    },
+    "mythic": {
+     "win": 49.92,
+     "pick": 0.42,
+     "ban": 0.61
+    },
+    "honor": {
+     "win": 49.36,
+     "pick": 0.45,
+     "ban": 0.4
+    },
+    "glory": {
+     "win": 47.64,
+     "pick": 0.49,
+     "ban": 0.16
+    }
+   }
+  },
+  {
+   "slug": "vexana",
+   "en": "Vexana",
+   "ru": "Вексана",
+   "rank": 86,
+   "pick": 1.52,
+   "win": 49.3,
+   "ban": 1.15,
+   "gloryWin": 48.49,
+   "gloryBan": 0.35,
+   "tier": "B",
+   "lowPick": false,
+   "counters": [
+    "gloo",
+    "zhask",
+    "odette",
+    "chip",
+    "lolita"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 96,
+   "byRank": {
+    "epic": 50.16,
+    "legend": 49.75,
+    "mythic": 49.68,
+    "honor": 49.09,
+    "glory": 48.49
+   },
+   "recent": {
+    "win": 49.24,
+    "pick": 1.53,
+    "ban": 1.16
+   },
+   "top": {
+    "win": 49.17,
+    "pick": 1.5,
+    "ban": 1.05
+   },
+   "r7": {
+    "all": {
+     "win": 49.24,
+     "pick": 1.53,
+     "ban": 1.16
+    },
+    "epic": {
+     "win": 49.99,
+     "pick": 2.71,
+     "ban": 3.5
+    },
+    "legend": {
+     "win": 49.74,
+     "pick": 2.25,
+     "ban": 2.6
+    },
+    "mythic": {
+     "win": 49.76,
+     "pick": 1.83,
+     "ban": 1.72
+    },
+    "honor": {
+     "win": 49.31,
+     "pick": 1.59,
+     "ban": 1.06
+    },
+    "glory": {
+     "win": 48.45,
+     "pick": 1.09,
+     "ban": 0.38
+    }
+   }
+  },
+  {
    "slug": "johnson",
    "en": "Johnson",
    "ru": "Джонсон",
    "rank": 87,
    "pick": 0.7,
-   "win": 49.25,
+   "win": 49.28,
    "ban": 1.98,
-   "gloryWin": 46.81,
-   "gloryBan": 0.54,
+   "gloryWin": 46.89,
+   "gloryBan": 0.55,
    "tier": "B",
    "lowPick": false,
    "counters": [
     "layla",
     "zilong",
     "saber",
-    "dyrroth",
-    "valentina"
+    "valentina",
+    "dyrroth"
    ],
    "strongAgainst": [
     "marcel",
@@ -7416,11 +7415,11 @@
    ],
    "releaseOrder": 102,
    "byRank": {
-    "epic": 52.61,
-    "legend": 50.84,
-    "mythic": 49.86,
-    "honor": 48.08,
-    "glory": 46.81
+    "epic": 52.64,
+    "legend": 50.89,
+    "mythic": 49.93,
+    "honor": 48.15,
+    "glory": 46.89
    },
    "recent": {
     "win": 50.03,
@@ -7471,9 +7470,9 @@
    "ru": "Руби",
    "rank": 88,
    "pick": 0.32,
-   "win": 49.12,
+   "win": 49.11,
    "ban": 0.31,
-   "gloryWin": 48.66,
+   "gloryWin": 48.68,
    "gloryBan": 0.11,
    "tier": "B",
    "lowPick": true,
@@ -7497,11 +7496,11 @@
    ],
    "releaseOrder": 105,
    "byRank": {
-    "epic": 49.57,
-    "legend": 49.65,
-    "mythic": 49.53,
+    "epic": 49.54,
+    "legend": 49.63,
+    "mythic": 49.49,
     "honor": 49.36,
-    "glory": 48.66
+    "glory": 48.68
    },
    "recent": {
     "win": 49.26,
@@ -7552,10 +7551,10 @@
    "ru": "Ли Сун-Син",
    "rank": 89,
    "pick": 0.95,
-   "win": 49.11,
-   "ban": 2.56,
-   "gloryWin": 48.76,
-   "gloryBan": 1.98,
+   "win": 49.09,
+   "ban": 2.5,
+   "gloryWin": 48.75,
+   "gloryBan": 1.94,
    "tier": "B",
    "lowPick": false,
    "counters": [
@@ -7577,11 +7576,11 @@
    ],
    "releaseOrder": 104,
    "byRank": {
-    "epic": 51.81,
+    "epic": 51.83,
     "legend": 49.69,
-    "mythic": 49,
-    "honor": 49.26,
-    "glory": 48.76
+    "mythic": 48.96,
+    "honor": 49.25,
+    "glory": 48.75
    },
    "recent": {
     "win": 48.76,
@@ -7627,94 +7626,15 @@
    }
   },
   {
-   "slug": "aurora",
-   "en": "Aurora",
-   "ru": "Аврора",
-   "rank": 90,
-   "pick": 0.64,
-   "win": 48.93,
-   "ban": 0.38,
-   "gloryWin": 49.21,
-   "gloryBan": 0.1,
-   "tier": "C",
-   "lowPick": false,
-   "counters": [
-    "lolita",
-    "odette",
-    "eudora",
-    "khufra",
-    "fredrinn"
-   ],
-   "strongAgainst": [],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Mage"
-   ],
-   "lanes": [
-    "Mid Lane"
-   ],
-   "releaseOrder": 98,
-   "byRank": {
-    "epic": 48.52,
-    "legend": 48.72,
-    "mythic": 49.13,
-    "honor": 48.95,
-    "glory": 49.21
-   },
-   "recent": {
-    "win": 48.71,
-    "pick": 0.64,
-    "ban": 0.38
-   },
-   "top": {
-    "win": 48.83,
-    "pick": 0.56,
-    "ban": 0.31
-   },
-   "r7": {
-    "all": {
-     "win": 48.71,
-     "pick": 0.64,
-     "ban": 0.38
-    },
-    "epic": {
-     "win": 48.52,
-     "pick": 1.71,
-     "ban": 1.63
-    },
-    "legend": {
-     "win": 48.55,
-     "pick": 0.92,
-     "ban": 0.85
-    },
-    "mythic": {
-     "win": 49.14,
-     "pick": 0.63,
-     "ban": 0.49
-    },
-    "honor": {
-     "win": 48.59,
-     "pick": 0.58,
-     "ban": 0.31
-    },
-    "glory": {
-     "win": 48.77,
-     "pick": 0.48,
-     "ban": 0.12
-    }
-   }
-  },
-  {
    "slug": "yu-zhong",
    "en": "Yu Zhong",
    "ru": "Чонг",
-   "rank": 91,
+   "rank": 90,
    "pick": 0.66,
-   "win": 48.93,
+   "win": 48.92,
    "ban": 0.75,
    "gloryWin": 48.84,
-   "gloryBan": 0.26,
+   "gloryBan": 0.27,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -7735,10 +7655,10 @@
    ],
    "releaseOrder": 39,
    "byRank": {
-    "epic": 48.83,
+    "epic": 48.85,
     "legend": 48.64,
-    "mythic": 49,
-    "honor": 49.22,
+    "mythic": 48.96,
+    "honor": 49.21,
     "glory": 48.84
    },
    "recent": {
@@ -7785,15 +7705,94 @@
    }
   },
   {
+   "slug": "aurora",
+   "en": "Aurora",
+   "ru": "Аврора",
+   "rank": 91,
+   "pick": 0.64,
+   "win": 48.91,
+   "ban": 0.38,
+   "gloryWin": 49.17,
+   "gloryBan": 0.11,
+   "tier": "C",
+   "lowPick": false,
+   "counters": [
+    "lolita",
+    "odette",
+    "eudora",
+    "khufra",
+    "fredrinn"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane"
+   ],
+   "releaseOrder": 98,
+   "byRank": {
+    "epic": 48.52,
+    "legend": 48.7,
+    "mythic": 49.12,
+    "honor": 48.93,
+    "glory": 49.17
+   },
+   "recent": {
+    "win": 48.71,
+    "pick": 0.64,
+    "ban": 0.38
+   },
+   "top": {
+    "win": 48.83,
+    "pick": 0.56,
+    "ban": 0.31
+   },
+   "r7": {
+    "all": {
+     "win": 48.71,
+     "pick": 0.64,
+     "ban": 0.38
+    },
+    "epic": {
+     "win": 48.52,
+     "pick": 1.71,
+     "ban": 1.63
+    },
+    "legend": {
+     "win": 48.55,
+     "pick": 0.92,
+     "ban": 0.85
+    },
+    "mythic": {
+     "win": 49.14,
+     "pick": 0.63,
+     "ban": 0.49
+    },
+    "honor": {
+     "win": 48.59,
+     "pick": 0.58,
+     "ban": 0.31
+    },
+    "glory": {
+     "win": 48.77,
+     "pick": 0.48,
+     "ban": 0.12
+    }
+   }
+  },
+  {
    "slug": "thamuz",
    "en": "Thamuz",
    "ru": "Тамуз",
    "rank": 92,
    "pick": 0.82,
    "win": 48.91,
-   "ban": 1.59,
+   "ban": 1.58,
    "gloryWin": 48.57,
-   "gloryBan": 0.35,
+   "gloryBan": 0.36,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -7819,9 +7818,9 @@
    "releaseOrder": 62,
    "byRank": {
     "epic": 48.5,
-    "legend": 48.93,
-    "mythic": 49.8,
-    "honor": 48.88,
+    "legend": 48.92,
+    "mythic": 49.79,
+    "honor": 48.89,
     "glory": 48.57
    },
    "recent": {
@@ -7872,10 +7871,10 @@
    "en": "Alucard",
    "ru": "Алукард",
    "rank": 93,
-   "pick": 0.56,
-   "win": 48.87,
+   "pick": 0.55,
+   "win": 48.89,
    "ban": 0.36,
-   "gloryWin": 49,
+   "gloryWin": 49.03,
    "gloryBan": 0.13,
    "tier": "C",
    "lowPick": false,
@@ -7905,11 +7904,11 @@
    ],
    "releaseOrder": 127,
    "byRank": {
-    "epic": 48.79,
+    "epic": 48.77,
     "legend": 48.94,
-    "mythic": 49.04,
-    "honor": 48.56,
-    "glory": 49
+    "mythic": 49.06,
+    "honor": 48.59,
+    "glory": 49.03
    },
    "recent": {
     "win": 49.27,
@@ -7960,9 +7959,9 @@
    "ru": "Кэрри",
    "rank": 94,
    "pick": 0.57,
-   "win": 48.87,
+   "win": 48.88,
    "ban": 0.87,
-   "gloryWin": 48.67,
+   "gloryWin": 48.69,
    "gloryBan": 0.65,
    "tier": "C",
    "lowPick": false,
@@ -7991,10 +7990,10 @@
    "releaseOrder": 94,
    "byRank": {
     "epic": 48.59,
-    "legend": 48.34,
+    "legend": 48.32,
     "mythic": 49.05,
-    "honor": 49.47,
-    "glory": 48.67
+    "honor": 49.48,
+    "glory": 48.69
    },
    "recent": {
     "win": 49.05,
@@ -8047,7 +8046,7 @@
    "pick": 0.78,
    "win": 48.85,
    "ban": 0.21,
-   "gloryWin": 48.37,
+   "gloryWin": 48.38,
    "gloryBan": 0.12,
    "tier": "C",
    "lowPick": false,
@@ -8072,11 +8071,11 @@
    ],
    "releaseOrder": 69,
    "byRank": {
-    "epic": 50.8,
-    "legend": 49.51,
-    "mythic": 49.1,
-    "honor": 49.23,
-    "glory": 48.37
+    "epic": 50.78,
+    "legend": 49.52,
+    "mythic": 49.09,
+    "honor": 49.24,
+    "glory": 48.38
    },
    "recent": {
     "win": 48.85,
@@ -8128,7 +8127,7 @@
    "rank": 96,
    "pick": 1.32,
    "win": 48.85,
-   "ban": 0.68,
+   "ban": 0.69,
    "gloryWin": 48.05,
    "gloryBan": 0.18,
    "tier": "C",
@@ -8159,8 +8158,8 @@
    "releaseOrder": 106,
    "byRank": {
     "epic": 50.15,
-    "legend": 48.98,
-    "mythic": 48.47,
+    "legend": 48.99,
+    "mythic": 48.49,
     "honor": 48.96,
     "glory": 48.05
    },
@@ -8213,9 +8212,9 @@
    "ru": "Джой",
    "rank": 97,
    "pick": 0.14,
-   "win": 48.79,
+   "win": 48.8,
    "ban": 0.19,
-   "gloryWin": 49.56,
+   "gloryWin": 49.55,
    "gloryBan": 0.15,
    "tier": "C",
    "lowPick": true,
@@ -8244,11 +8243,11 @@
    ],
    "releaseOrder": 16,
    "byRank": {
-    "epic": 47.63,
-    "legend": 46.48,
-    "mythic": 46.55,
-    "honor": 48.84,
-    "glory": 49.56
+    "epic": 47.7,
+    "legend": 46.53,
+    "mythic": 46.52,
+    "honor": 48.82,
+    "glory": 49.55
    },
    "recent": {
     "win": 48.73,
@@ -8299,9 +8298,9 @@
    "ru": "Кимми",
    "rank": 98,
    "pick": 0.87,
-   "win": 48.74,
+   "win": 48.71,
    "ban": 0.68,
-   "gloryWin": 48.97,
+   "gloryWin": 48.94,
    "gloryBan": 0.59,
    "tier": "C",
    "lowPick": false,
@@ -8328,11 +8327,11 @@
    ],
    "releaseOrder": 63,
    "byRank": {
-    "epic": 48.68,
-    "legend": 48.11,
-    "mythic": 48.13,
-    "honor": 48.99,
-    "glory": 48.97
+    "epic": 48.67,
+    "legend": 48.09,
+    "mythic": 48.07,
+    "honor": 48.95,
+    "glory": 48.94
    },
    "recent": {
     "win": 48.02,
@@ -8378,15 +8377,105 @@
    }
   },
   {
+   "slug": "karina",
+   "en": "Karina",
+   "ru": "Карина",
+   "rank": 99,
+   "pick": 0.91,
+   "win": 48.65,
+   "ban": 4.65,
+   "gloryWin": 48.35,
+   "gloryBan": 3.05,
+   "tier": "C",
+   "lowPick": false,
+   "counters": [
+    "natalia",
+    "kimmy",
+    "marcel",
+    "ling",
+    "helcurt"
+   ],
+   "strongAgainst": [
+    "faramis",
+    "lunox",
+    "clint",
+    "hirara",
+    "paquito",
+    "brody",
+    "sora",
+    "ruby",
+    "harith",
+    "granger"
+   ],
+   "patch": "buff",
+   "orders": null,
+   "roles": [
+    "Assassin"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 126,
+   "byRank": {
+    "epic": 49.94,
+    "legend": 48.99,
+    "mythic": 48.94,
+    "honor": 48.29,
+    "glory": 48.35
+   },
+   "recent": {
+    "win": 49.49,
+    "pick": 0.97,
+    "ban": 5.98
+   },
+   "top": {
+    "win": 49.44,
+    "pick": 1.03,
+    "ban": 6.65
+   },
+   "r7": {
+    "all": {
+     "win": 49.49,
+     "pick": 0.97,
+     "ban": 5.98
+    },
+    "epic": {
+     "win": 50.67,
+     "pick": 0.92,
+     "ban": 7.62
+    },
+    "legend": {
+     "win": 49.86,
+     "pick": 1.05,
+     "ban": 6.76
+    },
+    "mythic": {
+     "win": 49.86,
+     "pick": 1.15,
+     "ban": 8.13
+    },
+    "honor": {
+     "win": 49.29,
+     "pick": 1.09,
+     "ban": 7.42
+    },
+    "glory": {
+     "win": 49.18,
+     "pick": 0.86,
+     "ban": 4.41
+    }
+   }
+  },
+  {
    "slug": "gusion",
    "en": "Gusion",
    "ru": "Госсен",
-   "rank": 99,
+   "rank": 100,
    "pick": 1.27,
-   "win": 48.61,
-   "ban": 3.39,
+   "win": 48.62,
+   "ban": 3.38,
    "gloryWin": 48.82,
-   "gloryBan": 1.7,
+   "gloryBan": 1.71,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -8410,8 +8499,8 @@
    ],
    "releaseOrder": 78,
    "byRank": {
-    "epic": 48.81,
-    "legend": 48.46,
+    "epic": 48.84,
+    "legend": 48.48,
     "mythic": 48.37,
     "honor": 48.59,
     "glory": 48.82
@@ -8460,104 +8549,14 @@
    }
   },
   {
-   "slug": "karina",
-   "en": "Karina",
-   "ru": "Карина",
-   "rank": 100,
-   "pick": 0.91,
-   "win": 48.6,
-   "ban": 4.55,
-   "gloryWin": 48.29,
-   "gloryBan": 2.94,
-   "tier": "C",
-   "lowPick": false,
-   "counters": [
-    "natalia",
-    "kimmy",
-    "marcel",
-    "ling",
-    "helcurt"
-   ],
-   "strongAgainst": [
-    "faramis",
-    "lunox",
-    "clint",
-    "hirara",
-    "paquito",
-    "brody",
-    "sora",
-    "ruby",
-    "harith",
-    "granger"
-   ],
-   "patch": "buff",
-   "orders": null,
-   "roles": [
-    "Assassin"
-   ],
-   "lanes": [
-    "Jungle"
-   ],
-   "releaseOrder": 126,
-   "byRank": {
-    "epic": 49.89,
-    "legend": 48.95,
-    "mythic": 48.87,
-    "honor": 48.23,
-    "glory": 48.29
-   },
-   "recent": {
-    "win": 49.49,
-    "pick": 0.97,
-    "ban": 5.98
-   },
-   "top": {
-    "win": 49.44,
-    "pick": 1.03,
-    "ban": 6.65
-   },
-   "r7": {
-    "all": {
-     "win": 49.49,
-     "pick": 0.97,
-     "ban": 5.98
-    },
-    "epic": {
-     "win": 50.67,
-     "pick": 0.92,
-     "ban": 7.62
-    },
-    "legend": {
-     "win": 49.86,
-     "pick": 1.05,
-     "ban": 6.76
-    },
-    "mythic": {
-     "win": 49.86,
-     "pick": 1.15,
-     "ban": 8.13
-    },
-    "honor": {
-     "win": 49.29,
-     "pick": 1.09,
-     "ban": 7.42
-    },
-    "glory": {
-     "win": 49.18,
-     "pick": 0.86,
-     "ban": 4.41
-    }
-   }
-  },
-  {
    "slug": "hylos",
    "en": "Hylos",
    "ru": "Хилос",
    "rank": 101,
    "pick": 0.29,
    "win": 48.55,
-   "ban": 0.26,
-   "gloryWin": 46.54,
+   "ban": 0.25,
+   "gloryWin": 46.56,
    "gloryBan": 0.1,
    "tier": "C",
    "lowPick": true,
@@ -8565,8 +8564,8 @@
     "zilong",
     "layla",
     "yin",
-    "nana",
-    "saber"
+    "saber",
+    "nana"
    ],
    "strongAgainst": [
     "rafaela",
@@ -8590,10 +8589,10 @@
    "releaseOrder": 85,
    "byRank": {
     "epic": 51.36,
-    "legend": 50.68,
-    "mythic": 49.68,
-    "honor": 48.41,
-    "glory": 46.54
+    "legend": 50.67,
+    "mythic": 49.72,
+    "honor": 48.44,
+    "glory": 46.56
    },
    "recent": {
     "win": 48.58,
@@ -8643,11 +8642,11 @@
    "en": "Selena",
    "ru": "Селена",
    "rank": 102,
-   "pick": 1.57,
-   "win": 48.34,
-   "ban": 6.26,
-   "gloryWin": 47.93,
-   "gloryBan": 5.51,
+   "pick": 1.54,
+   "win": 48.37,
+   "ban": 6.2,
+   "gloryWin": 47.96,
+   "gloryBan": 5.44,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -8672,11 +8671,11 @@
    ],
    "releaseOrder": 71,
    "byRank": {
-    "epic": 50.16,
-    "legend": 48.78,
-    "mythic": 48.32,
-    "honor": 48.64,
-    "glory": 47.93
+    "epic": 50.21,
+    "legend": 48.82,
+    "mythic": 48.35,
+    "honor": 48.67,
+    "glory": 47.96
    },
    "recent": {
     "win": 48.74,
@@ -8722,95 +8721,15 @@
    }
   },
   {
-   "slug": "roger",
-   "en": "Roger",
-   "ru": "Роджер",
-   "rank": 103,
-   "pick": 0.27,
-   "win": 48.33,
-   "ban": 0.09,
-   "gloryWin": 45.96,
-   "gloryBan": 0.05,
-   "tier": "C",
-   "lowPick": true,
-   "counters": [
-    "harley",
-    "gusion",
-    "silvanna",
-    "helcurt",
-    "yin"
-   ],
-   "strongAgainst": [],
-   "patch": null,
-   "orders": null,
-   "roles": [
-    "Fighter",
-    "Marksman"
-   ],
-   "lanes": [
-    "Jungle"
-   ],
-   "releaseOrder": 95,
-   "byRank": {
-    "epic": 50.73,
-    "legend": 50.29,
-    "mythic": 49.67,
-    "honor": 48.49,
-    "glory": 45.96
-   },
-   "recent": {
-    "win": 48.25,
-    "pick": 0.27,
-    "ban": 0.1
-   },
-   "top": {
-    "win": 48.35,
-    "pick": 0.29,
-    "ban": 0.09
-   },
-   "r7": {
-    "all": {
-     "win": 48.25,
-     "pick": 0.27,
-     "ban": 0.1
-    },
-    "epic": {
-     "win": 51.49,
-     "pick": 0.22,
-     "ban": 0.27
-    },
-    "legend": {
-     "win": 50.7,
-     "pick": 0.27,
-     "ban": 0.16
-    },
-    "mythic": {
-     "win": 49.84,
-     "pick": 0.31,
-     "ban": 0.13
-    },
-    "honor": {
-     "win": 48.99,
-     "pick": 0.31,
-     "ban": 0.09
-    },
-    "glory": {
-     "win": 46.21,
-     "pick": 0.24,
-     "ban": 0.05
-    }
-   }
-  },
-  {
    "slug": "lesley",
    "en": "Lesley",
    "ru": "Лесли",
-   "rank": 104,
-   "pick": 1.84,
-   "win": 48.31,
-   "ban": 8.5,
-   "gloryWin": 48.52,
-   "gloryBan": 3.92,
+   "rank": 103,
+   "pick": 1.85,
+   "win": 48.33,
+   "ban": 8.55,
+   "gloryWin": 48.55,
+   "gloryBan": 4.01,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -8836,10 +8755,10 @@
    "releaseOrder": 81,
    "byRank": {
     "epic": 47.58,
-    "legend": 48.06,
+    "legend": 48.05,
     "mythic": 48.36,
-    "honor": 48.33,
-    "glory": 48.52
+    "honor": 48.34,
+    "glory": 48.55
    },
    "recent": {
     "win": 48.56,
@@ -8885,14 +8804,181 @@
    }
   },
   {
+   "slug": "roger",
+   "en": "Roger",
+   "ru": "Роджер",
+   "rank": 104,
+   "pick": 0.27,
+   "win": 48.31,
+   "ban": 0.09,
+   "gloryWin": 45.98,
+   "gloryBan": 0.05,
+   "tier": "C",
+   "lowPick": true,
+   "counters": [
+    "harley",
+    "gusion",
+    "silvanna",
+    "yin",
+    "helcurt"
+   ],
+   "strongAgainst": [],
+   "patch": null,
+   "orders": null,
+   "roles": [
+    "Fighter",
+    "Marksman"
+   ],
+   "lanes": [
+    "Jungle"
+   ],
+   "releaseOrder": 95,
+   "byRank": {
+    "epic": 50.75,
+    "legend": 50.28,
+    "mythic": 49.69,
+    "honor": 48.52,
+    "glory": 45.98
+   },
+   "recent": {
+    "win": 48.25,
+    "pick": 0.27,
+    "ban": 0.1
+   },
+   "top": {
+    "win": 48.35,
+    "pick": 0.29,
+    "ban": 0.09
+   },
+   "r7": {
+    "all": {
+     "win": 48.25,
+     "pick": 0.27,
+     "ban": 0.1
+    },
+    "epic": {
+     "win": 51.49,
+     "pick": 0.22,
+     "ban": 0.27
+    },
+    "legend": {
+     "win": 50.7,
+     "pick": 0.27,
+     "ban": 0.16
+    },
+    "mythic": {
+     "win": 49.84,
+     "pick": 0.31,
+     "ban": 0.13
+    },
+    "honor": {
+     "win": 48.99,
+     "pick": 0.31,
+     "ban": 0.09
+    },
+    "glory": {
+     "win": 46.21,
+     "pick": 0.24,
+     "ban": 0.05
+    }
+   }
+  },
+  {
+   "slug": "harley",
+   "en": "Harley",
+   "ru": "Харли",
+   "rank": 105,
+   "pick": 0.83,
+   "win": 48.22,
+   "ban": 3.07,
+   "gloryWin": 48.48,
+   "gloryBan": 0.69,
+   "tier": "C",
+   "lowPick": false,
+   "counters": [
+    "alice",
+    "valir",
+    "melissa",
+    "gord",
+    "joy"
+   ],
+   "strongAgainst": [
+    "sun",
+    "lolita",
+    "popol-and-kupa",
+    "hilda",
+    "roger"
+   ],
+   "patch": null,
+   "orders": 22,
+   "roles": [
+    "Assassin",
+    "Mage"
+   ],
+   "lanes": [
+    "Mid Lane",
+    "Jungle"
+   ],
+   "releaseOrder": 92,
+   "byRank": {
+    "epic": 47.96,
+    "legend": 48.09,
+    "mythic": 48.21,
+    "honor": 48.11,
+    "glory": 48.48
+   },
+   "recent": {
+    "win": 48.47,
+    "pick": 0.82,
+    "ban": 2.95
+   },
+   "top": {
+    "win": 48.46,
+    "pick": 0.86,
+    "ban": 2.72
+   },
+   "r7": {
+    "all": {
+     "win": 48.47,
+     "pick": 0.82,
+     "ban": 2.95
+    },
+    "epic": {
+     "win": 48.39,
+     "pick": 0.84,
+     "ban": 7.32
+    },
+    "legend": {
+     "win": 48.23,
+     "pick": 1.1,
+     "ban": 7.56
+    },
+    "mythic": {
+     "win": 48.35,
+     "pick": 1.06,
+     "ban": 4.71
+    },
+    "honor": {
+     "win": 48.27,
+     "pick": 0.88,
+     "ban": 2.66
+    },
+    "glory": {
+     "win": 48.76,
+     "pick": 0.64,
+     "ban": 0.79
+    }
+   }
+  },
+  {
    "slug": "phoveus",
    "en": "Phoveus",
    "ru": "Фовиус",
-   "rank": 105,
+   "rank": 106,
    "pick": 0.27,
    "win": 48.21,
-   "ban": 0.8,
-   "gloryWin": 48.22,
+   "ban": 0.81,
+   "gloryWin": 48.23,
    "gloryBan": 0.32,
    "tier": "C",
    "lowPick": true,
@@ -8925,11 +9011,11 @@
    ],
    "releaseOrder": 28,
    "byRank": {
-    "epic": 49.35,
-    "legend": 48.38,
-    "mythic": 48.27,
+    "epic": 49.3,
+    "legend": 48.4,
+    "mythic": 48.24,
     "honor": 47.92,
-    "glory": 48.22
+    "glory": 48.23
    },
    "recent": {
     "win": 48.41,
@@ -8978,11 +9064,11 @@
    "slug": "change",
    "en": "Chang'e",
    "ru": "Чан'Э",
-   "rank": 106,
-   "pick": 0.63,
+   "rank": 107,
+   "pick": 0.62,
    "win": 48.2,
    "ban": 0.32,
-   "gloryWin": 45.81,
+   "gloryWin": 45.83,
    "gloryBan": 0.08,
    "tier": "C",
    "lowPick": false,
@@ -9009,11 +9095,11 @@
    ],
    "releaseOrder": 73,
    "byRank": {
-    "epic": 51.12,
-    "legend": 49.77,
-    "mythic": 48.71,
-    "honor": 47.57,
-    "glory": 45.81
+    "epic": 51.15,
+    "legend": 49.81,
+    "mythic": 48.74,
+    "honor": 47.6,
+    "glory": 45.83
    },
    "recent": {
     "win": 48.18,
@@ -9059,101 +9145,14 @@
    }
   },
   {
-   "slug": "harley",
-   "en": "Harley",
-   "ru": "Харли",
-   "rank": 107,
-   "pick": 0.83,
-   "win": 48.19,
-   "ban": 3.09,
-   "gloryWin": 48.46,
-   "gloryBan": 0.68,
-   "tier": "C",
-   "lowPick": false,
-   "counters": [
-    "alice",
-    "valir",
-    "melissa",
-    "gord",
-    "joy"
-   ],
-   "strongAgainst": [
-    "sun",
-    "lolita",
-    "popol-and-kupa",
-    "hilda",
-    "roger"
-   ],
-   "patch": null,
-   "orders": 22,
-   "roles": [
-    "Assassin",
-    "Mage"
-   ],
-   "lanes": [
-    "Mid Lane",
-    "Jungle"
-   ],
-   "releaseOrder": 92,
-   "byRank": {
-    "epic": 47.93,
-    "legend": 48.06,
-    "mythic": 48.19,
-    "honor": 48.09,
-    "glory": 48.46
-   },
-   "recent": {
-    "win": 48.47,
-    "pick": 0.82,
-    "ban": 2.95
-   },
-   "top": {
-    "win": 48.46,
-    "pick": 0.86,
-    "ban": 2.72
-   },
-   "r7": {
-    "all": {
-     "win": 48.47,
-     "pick": 0.82,
-     "ban": 2.95
-    },
-    "epic": {
-     "win": 48.39,
-     "pick": 0.84,
-     "ban": 7.32
-    },
-    "legend": {
-     "win": 48.23,
-     "pick": 1.1,
-     "ban": 7.56
-    },
-    "mythic": {
-     "win": 48.35,
-     "pick": 1.06,
-     "ban": 4.71
-    },
-    "honor": {
-     "win": 48.27,
-     "pick": 0.88,
-     "ban": 2.66
-    },
-    "glory": {
-     "win": 48.76,
-     "pick": 0.64,
-     "ban": 0.79
-    }
-   }
-  },
-  {
    "slug": "hayabusa",
    "en": "Hayabusa",
    "ru": "Хаябуса",
    "rank": 108,
    "pick": 0.75,
    "win": 48.15,
-   "ban": 1.64,
-   "gloryWin": 48.08,
+   "ban": 1.63,
+   "gloryWin": 48.11,
    "gloryBan": 0.52,
    "tier": "C",
    "lowPick": false,
@@ -9178,11 +9177,11 @@
    ],
    "releaseOrder": 113,
    "byRank": {
-    "epic": 47.38,
-    "legend": 47.87,
-    "mythic": 48.25,
-    "honor": 48.47,
-    "glory": 48.08
+    "epic": 47.39,
+    "legend": 47.86,
+    "mythic": 48.23,
+    "honor": 48.48,
+    "glory": 48.11
    },
    "recent": {
     "win": 48.24,
@@ -9233,7 +9232,7 @@
    "ru": "Лапу-Лапу",
    "rank": 109,
    "pick": 0.34,
-   "win": 48.08,
+   "win": 48.06,
    "ban": 0.27,
    "gloryWin": 47.18,
    "gloryBan": 0.08,
@@ -9259,8 +9258,8 @@
    ],
    "releaseOrder": 97,
    "byRank": {
-    "epic": 50.82,
-    "legend": 49.5,
+    "epic": 50.8,
+    "legend": 49.48,
     "mythic": 48.73,
     "honor": 48.41,
     "glory": 47.18
@@ -9313,10 +9312,10 @@
    "en": "Jawhead",
    "ru": "Кусака",
    "rank": 110,
-   "pick": 0.34,
-   "win": 47.87,
+   "pick": 0.35,
+   "win": 47.89,
    "ban": 0.33,
-   "gloryWin": 47.11,
+   "gloryWin": 47.14,
    "gloryBan": 0.11,
    "tier": "C",
    "lowPick": true,
@@ -9344,11 +9343,11 @@
    ],
    "releaseOrder": 80,
    "byRank": {
-    "epic": 47.58,
-    "legend": 48.28,
-    "mythic": 48.56,
-    "honor": 47.75,
-    "glory": 47.11
+    "epic": 47.59,
+    "legend": 48.29,
+    "mythic": 48.59,
+    "honor": 47.78,
+    "glory": 47.14
    },
    "recent": {
     "win": 47.94,
@@ -9399,10 +9398,10 @@
    "ru": "Хелкарт",
    "rank": 111,
    "pick": 0.62,
-   "win": 47.63,
+   "win": 47.65,
    "ban": 4.74,
-   "gloryWin": 46.26,
-   "gloryBan": 1.93,
+   "gloryWin": 46.29,
+   "gloryBan": 1.96,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -9415,13 +9414,14 @@
    "strongAgainst": [
     "argus",
     "obsidia",
-    "lukas",
     "aldous",
+    "lukas",
     "hilda",
     "zetian",
     "kalea",
     "eudora",
     "khaleed",
+    "badang",
     "paquito",
     "karina",
     "roger",
@@ -9440,11 +9440,11 @@
    ],
    "releaseOrder": 83,
    "byRank": {
-    "epic": 48.27,
-    "legend": 48.46,
-    "mythic": 48.29,
-    "honor": 47.36,
-    "glory": 46.26
+    "epic": 48.3,
+    "legend": 48.49,
+    "mythic": 48.33,
+    "honor": 47.41,
+    "glory": 46.29
    },
    "recent": {
     "win": 47.97,
@@ -9497,16 +9497,16 @@
    "pick": 0.04,
    "win": 47.6,
    "ban": 0.21,
-   "gloryWin": 48.16,
+   "gloryWin": 48.14,
    "gloryBan": 0.18,
    "tier": "C",
    "lowPick": true,
    "counters": [
     "zilong",
     "helcurt",
-    "valentina",
     "selena",
-    "floryn"
+    "valentina",
+    "lolita"
    ],
    "strongAgainst": [
     "carmilla",
@@ -9528,11 +9528,11 @@
    ],
    "releaseOrder": 10,
    "byRank": {
-    "epic": 46.97,
-    "legend": 47.07,
-    "mythic": 47.37,
+    "epic": 46.92,
+    "legend": 47.13,
+    "mythic": 47.34,
     "honor": 46.94,
-    "glory": 48.16
+    "glory": 48.14
    },
    "recent": {
     "win": 47.84,
@@ -9583,10 +9583,10 @@
    "ru": "Ванван",
    "rank": 113,
    "pick": 0.14,
-   "win": 47.59,
+   "win": 47.58,
    "ban": 0.14,
-   "gloryWin": 46.96,
-   "gloryBan": 0.06,
+   "gloryWin": 46.97,
+   "gloryBan": 0.07,
    "tier": "C",
    "lowPick": true,
    "counters": [
@@ -9616,11 +9616,11 @@
    ],
    "releaseOrder": 45,
    "byRank": {
-    "epic": 45.98,
-    "legend": 48.19,
-    "mythic": 48.12,
-    "honor": 48.27,
-    "glory": 46.96
+    "epic": 45.92,
+    "legend": 48.14,
+    "mythic": 48.1,
+    "honor": 48.29,
+    "glory": 46.97
    },
    "recent": {
     "win": 47.51,
@@ -9671,10 +9671,10 @@
    "ru": "Арлотт",
    "rank": 114,
    "pick": 0.5,
-   "win": 47.49,
-   "ban": 0.56,
-   "gloryWin": 48.09,
-   "gloryBan": 0.53,
+   "win": 47.48,
+   "ban": 0.58,
+   "gloryWin": 48.07,
+   "gloryBan": 0.55,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -9701,11 +9701,11 @@
    ],
    "releaseOrder": 14,
    "byRank": {
-    "epic": 46.6,
-    "legend": 46.48,
-    "mythic": 46.69,
-    "honor": 47.37,
-    "glory": 48.09
+    "epic": 46.59,
+    "legend": 46.45,
+    "mythic": 46.66,
+    "honor": 47.35,
+    "glory": 48.07
    },
    "recent": {
     "win": 47.56,
@@ -9756,9 +9756,9 @@
    "ru": "Ло Йи",
    "rank": 115,
    "pick": 0.17,
-   "win": 47.35,
+   "win": 47.31,
    "ban": 0.07,
-   "gloryWin": 46.62,
+   "gloryWin": 46.59,
    "gloryBan": 0.04,
    "tier": "C",
    "lowPick": true,
@@ -9782,11 +9782,11 @@
    ],
    "releaseOrder": 38,
    "byRank": {
-    "epic": 48.7,
+    "epic": 48.72,
     "legend": 47.94,
-    "mythic": 47.5,
-    "honor": 47.55,
-    "glory": 46.62
+    "mythic": 47.47,
+    "honor": 47.53,
+    "glory": 46.59
    },
    "recent": {
     "win": 46.84,
@@ -9836,11 +9836,11 @@
    "en": "Nana",
    "ru": "Нана",
    "rank": 116,
-   "pick": 1.72,
-   "win": 47.27,
-   "ban": 3.74,
-   "gloryWin": 45.08,
-   "gloryBan": 0.81,
+   "pick": 1.71,
+   "win": 47.26,
+   "ban": 3.73,
+   "gloryWin": 45.09,
+   "gloryBan": 0.82,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -9866,11 +9866,11 @@
    ],
    "releaseOrder": 129,
    "byRank": {
-    "epic": 49.86,
-    "legend": 48.48,
-    "mythic": 47.36,
-    "honor": 46.03,
-    "glory": 45.08
+    "epic": 49.85,
+    "legend": 48.49,
+    "mythic": 47.38,
+    "honor": 46.05,
+    "glory": 45.09
    },
    "recent": {
     "win": 47.06,
@@ -9921,9 +9921,9 @@
    "ru": "Фаша",
    "rank": 117,
    "pick": 0.32,
-   "win": 47.26,
+   "win": 47.24,
    "ban": 0.18,
-   "gloryWin": 47.11,
+   "gloryWin": 47.08,
    "gloryBan": 0.04,
    "tier": "C",
    "lowPick": true,
@@ -9932,7 +9932,7 @@
     "diggie",
     "melissa",
     "valir",
-    "hanabi"
+    "yve"
    ],
    "strongAgainst": [],
    "patch": null,
@@ -9945,11 +9945,11 @@
    ],
    "releaseOrder": 82,
    "byRank": {
-    "epic": 47.98,
+    "epic": 47.99,
     "legend": 47.4,
     "mythic": 47.09,
-    "honor": 47.05,
-    "glory": 47.11
+    "honor": 47.01,
+    "glory": 47.08
    },
    "recent": {
     "win": 46.97,
@@ -10000,10 +10000,10 @@
    "ru": "Мартис",
    "rank": 118,
    "pick": 0.62,
-   "win": 47.23,
+   "win": 47.22,
    "ban": 0.44,
    "gloryWin": 47.44,
-   "gloryBan": 0.17,
+   "gloryBan": 0.18,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -10029,10 +10029,10 @@
    ],
    "releaseOrder": 76,
    "byRank": {
-    "epic": 46.62,
-    "legend": 46.75,
-    "mythic": 47.65,
-    "honor": 47.54,
+    "epic": 46.6,
+    "legend": 46.74,
+    "mythic": 47.64,
+    "honor": 47.53,
     "glory": 47.44
    },
    "recent": {
@@ -10084,10 +10084,10 @@
    "ru": "Эсмеральда",
    "rank": 119,
    "pick": 0.84,
-   "win": 47,
-   "ban": 2.21,
-   "gloryWin": 46.19,
-   "gloryBan": 1.23,
+   "win": 47.01,
+   "ban": 2.2,
+   "gloryWin": 46.2,
+   "gloryBan": 1.24,
    "tier": "C",
    "lowPick": false,
    "counters": [
@@ -10100,7 +10100,6 @@
    "strongAgainst": [
     "natan",
     "guinevere",
-    "fredrinn",
     "lunox",
     "julian",
     "dyrroth",
@@ -10117,11 +10116,11 @@
    ],
    "releaseOrder": 53,
    "byRank": {
-    "epic": 48.26,
-    "legend": 48.18,
-    "mythic": 47.82,
-    "honor": 46.98,
-    "glory": 46.19
+    "epic": 48.25,
+    "legend": 48.2,
+    "mythic": 47.84,
+    "honor": 47.02,
+    "glory": 46.2
    },
    "recent": {
     "win": 47.11,
@@ -10172,16 +10171,16 @@
    "ru": "Харит",
    "rank": 120,
    "pick": 0.15,
-   "win": 46.92,
+   "win": 46.96,
    "ban": 0.05,
-   "gloryWin": 48.08,
+   "gloryWin": 48.12,
    "gloryBan": 0.04,
    "tier": "D",
    "lowPick": true,
    "counters": [
     "lolita",
-    "karina",
     "johnson",
+    "karina",
     "lapu-lapu",
     "suyou"
    ],
@@ -10189,6 +10188,7 @@
     "edith",
     "minsitthar",
     "akai",
+    "miya",
     "alucard",
     "phoveus"
    ],
@@ -10202,11 +10202,11 @@
    ],
    "releaseOrder": 61,
    "byRank": {
-    "epic": 45.74,
-    "legend": 44.88,
-    "mythic": 44.9,
-    "honor": 46.15,
-    "glory": 48.08
+    "epic": 45.67,
+    "legend": 44.91,
+    "mythic": 44.86,
+    "honor": 46.16,
+    "glory": 48.12
    },
    "recent": {
     "win": 47.75,
@@ -10257,9 +10257,9 @@
    "ru": "Бальмонд",
    "rank": 121,
    "pick": 0.64,
-   "win": 46.66,
+   "win": 46.64,
    "ban": 0.39,
-   "gloryWin": 45,
+   "gloryWin": 45.01,
    "gloryBan": 0.14,
    "tier": "D",
    "lowPick": false,
@@ -10292,11 +10292,11 @@
    ],
    "releaseOrder": 132,
    "byRank": {
-    "epic": 47.21,
-    "legend": 47.5,
-    "mythic": 47.35,
+    "epic": 47.2,
+    "legend": 47.48,
+    "mythic": 47.33,
     "honor": 45.99,
-    "glory": 45
+    "glory": 45.01
    },
    "recent": {
     "win": 46.41,
@@ -10347,9 +10347,9 @@
    "ru": "Грок",
    "rank": 122,
    "pick": 0.34,
-   "win": 46.61,
+   "win": 46.62,
    "ban": 0.72,
-   "gloryWin": 45.35,
+   "gloryWin": 45.37,
    "gloryBan": 0.4,
    "tier": "D",
    "lowPick": true,
@@ -10375,10 +10375,10 @@
    "releaseOrder": 90,
    "byRank": {
     "epic": 49.77,
-    "legend": 47.88,
-    "mythic": 46.94,
-    "honor": 46.26,
-    "glory": 45.35
+    "legend": 47.9,
+    "mythic": 46.98,
+    "honor": 46.27,
+    "glory": 45.37
    },
    "recent": {
     "win": 46.72,
@@ -10428,18 +10428,18 @@
    "en": "Zilong",
    "ru": "Зилонг",
    "rank": 123,
-   "pick": 0.71,
+   "pick": 0.7,
    "win": 46.27,
    "ban": 0.49,
-   "gloryWin": 44.4,
+   "gloryWin": 44.43,
    "gloryBan": 0.22,
    "tier": "D",
    "lowPick": false,
    "counters": [
     "x-borg",
     "cici",
-    "xavier",
     "diggie",
+    "xavier",
     "fanny"
    ],
    "strongAgainst": [
@@ -10465,11 +10465,11 @@
    ],
    "releaseOrder": 118,
    "byRank": {
-    "epic": 47.18,
+    "epic": 47.19,
     "legend": 46.76,
-    "mythic": 46.79,
-    "honor": 45.54,
-    "glory": 44.4
+    "mythic": 46.81,
+    "honor": 45.56,
+    "glory": 44.43
    },
    "recent": {
     "win": 46.33,
@@ -10520,9 +10520,9 @@
    "ru": "Баксий",
    "rank": 124,
    "pick": 0.05,
-   "win": 45.97,
+   "win": 45.92,
    "ban": 0.1,
-   "gloryWin": 46,
+   "gloryWin": 45.93,
    "gloryBan": 0.08,
    "tier": "D",
    "lowPick": true,
@@ -10531,12 +10531,13 @@
     "alice",
     "saber",
     "lukas",
-    "zhask"
+    "minsitthar"
    ],
    "strongAgainst": [
     "bane",
     "clint",
     "x-borg",
+    "kaja",
     "nolan",
     "karrie",
     "luo-yi"
@@ -10552,11 +10553,11 @@
    ],
    "releaseOrder": 47,
    "byRank": {
-    "epic": 48.6,
-    "legend": 47.03,
-    "mythic": 45.69,
-    "honor": 44.74,
-    "glory": 46
+    "epic": 48.58,
+    "legend": 47.01,
+    "mythic": 45.68,
+    "honor": 44.71,
+    "glory": 45.93
    },
    "recent": {
     "win": 45.89,
@@ -10607,9 +10608,9 @@
    "ru": "Гатоткача",
    "rank": 125,
    "pick": 0.56,
-   "win": 45.35,
+   "win": 45.36,
    "ban": 0.3,
-   "gloryWin": 43.99,
+   "gloryWin": 44,
    "gloryBan": 0.09,
    "tier": "D",
    "lowPick": false,
@@ -10636,11 +10637,11 @@
    ],
    "releaseOrder": 93,
    "byRank": {
-    "epic": 48.76,
-    "legend": 45.88,
-    "mythic": 44.9,
-    "honor": 44.01,
-    "glory": 43.99
+    "epic": 48.8,
+    "legend": 45.92,
+    "mythic": 44.92,
+    "honor": 44.03,
+    "glory": 44
    },
    "recent": {
     "win": 45.54,
@@ -10690,18 +10691,18 @@
    "en": "Tigreal",
    "ru": "Тигрил",
    "rank": 126,
-   "pick": 2,
-   "win": 45.22,
-   "ban": 7.43,
-   "gloryWin": 44.37,
-   "gloryBan": 3.95,
+   "pick": 1.99,
+   "win": 45.24,
+   "ban": 7.47,
+   "gloryWin": 44.42,
+   "gloryBan": 4.02,
    "tier": "D",
    "lowPick": false,
    "counters": [
     "zilong",
     "estes",
-    "franco",
     "alucard",
+    "franco",
     "lesley"
    ],
    "strongAgainst": [
@@ -10719,11 +10720,11 @@
    ],
    "releaseOrder": 128,
    "byRank": {
-    "epic": 48.83,
-    "legend": 46.07,
-    "mythic": 44.84,
-    "honor": 44.81,
-    "glory": 44.37
+    "epic": 48.84,
+    "legend": 46.1,
+    "mythic": 44.87,
+    "honor": 44.84,
+    "glory": 44.42
    },
    "recent": {
     "win": 45.55,
@@ -10775,9 +10776,9 @@
    "rank": 127,
    "pick": 1.04,
    "win": 45.1,
-   "ban": 3.09,
-   "gloryWin": 44.7,
-   "gloryBan": 1.58,
+   "ban": 3.1,
+   "gloryWin": 44.71,
+   "gloryBan": 1.6,
    "tier": "D",
    "lowPick": false,
    "counters": [
@@ -10799,11 +10800,11 @@
    ],
    "releaseOrder": 108,
    "byRank": {
-    "epic": 45.38,
-    "legend": 45.34,
+    "epic": 45.4,
+    "legend": 45.35,
     "mythic": 45.2,
     "honor": 45.32,
-    "glory": 44.7
+    "glory": 44.71
    },
    "recent": {
     "win": 45.01,
@@ -10853,11 +10854,11 @@
    "en": "Valentina",
    "ru": "Валентина",
    "rank": 128,
-   "pick": 0.17,
-   "win": 44.73,
+   "pick": 0.16,
+   "win": 44.7,
    "ban": 0.16,
-   "gloryWin": 45.39,
-   "gloryBan": 0.21,
+   "gloryWin": 45.35,
+   "gloryBan": 0.2,
    "tier": "D",
    "lowPick": true,
    "counters": [
@@ -10869,7 +10870,6 @@
    ],
    "strongAgainst": [
     "silvanna",
-    "odette",
     "dyrroth",
     "johnson",
     "chip"
@@ -10884,11 +10884,11 @@
    ],
    "releaseOrder": 24,
    "byRank": {
-    "epic": 42.51,
-    "legend": 42.35,
-    "mythic": 42.99,
-    "honor": 44.22,
-    "glory": 45.39
+    "epic": 42.49,
+    "legend": 42.27,
+    "mythic": 42.91,
+    "honor": 44.17,
+    "glory": 45.35
    },
    "recent": {
     "win": 44.27,
@@ -10939,9 +10939,9 @@
    "ru": "Матильда",
    "rank": 129,
    "pick": 0.14,
-   "win": 44.49,
-   "ban": 0.19,
-   "gloryWin": 43.94,
+   "win": 44.48,
+   "ban": 0.18,
+   "gloryWin": 43.93,
    "gloryBan": 0.21,
    "tier": "D",
    "lowPick": true,
@@ -10971,11 +10971,11 @@
    ],
    "releaseOrder": 32,
    "byRank": {
-    "epic": 46.74,
-    "legend": 45.26,
-    "mythic": 45.15,
-    "honor": 44.99,
-    "glory": 43.94
+    "epic": 46.84,
+    "legend": 45.28,
+    "mythic": 45.13,
+    "honor": 45,
+    "glory": 43.93
    },
    "recent": {
     "win": 44.4,
@@ -11026,9 +11026,9 @@
    "ru": "Ланселот",
    "rank": 130,
    "pick": 0.51,
-   "win": 43.13,
+   "win": 43.11,
    "ban": 0.47,
-   "gloryWin": 42.31,
+   "gloryWin": 42.3,
    "gloryBan": 0.13,
    "tier": "D",
    "lowPick": false,
@@ -11052,11 +11052,11 @@
    ],
    "releaseOrder": 87,
    "byRank": {
-    "epic": 45.34,
-    "legend": 44.12,
-    "mythic": 43.14,
-    "honor": 43.19,
-    "glory": 42.31
+    "epic": 45.37,
+    "legend": 44.13,
+    "mythic": 43.15,
+    "honor": 43.2,
+    "glory": 42.3
    },
    "recent": {
     "win": 42.88,
@@ -11106,19 +11106,19 @@
    "en": "Granger",
    "ru": "Грейнджер",
    "rank": 131,
-   "pick": 1.33,
-   "win": 42.99,
+   "pick": 1.32,
+   "win": 42.97,
    "ban": 1.64,
-   "gloryWin": 44.69,
-   "gloryBan": 0.8,
+   "gloryWin": 44.64,
+   "gloryBan": 0.81,
    "tier": "D",
    "lowPick": false,
    "counters": [
     "karina",
     "beatrix",
     "ixia",
-    "diggie",
-    "yve"
+    "yve",
+    "diggie"
    ],
    "strongAgainst": [
     "hilda",
@@ -11137,11 +11137,11 @@
    ],
    "releaseOrder": 55,
    "byRank": {
-    "epic": 43.18,
-    "legend": 41.75,
-    "mythic": 41.43,
-    "honor": 42.03,
-    "glory": 44.69
+    "epic": 43.16,
+    "legend": 41.74,
+    "mythic": 41.37,
+    "honor": 42,
+    "glory": 44.64
    },
    "recent": {
     "win": 42.72,
@@ -11192,9 +11192,9 @@
    "ru": "Фанни",
    "rank": 132,
    "pick": 0.65,
-   "win": 42.64,
+   "win": 42.67,
    "ban": 1.95,
-   "gloryWin": 42.85,
+   "gloryWin": 42.86,
    "gloryBan": 1.46,
    "tier": "D",
    "lowPick": false,
@@ -11225,11 +11225,11 @@
    ],
    "releaseOrder": 117,
    "byRank": {
-    "epic": 44.65,
-    "legend": 42.96,
-    "mythic": 41.67,
-    "honor": 42.34,
-    "glory": 42.85
+    "epic": 44.71,
+    "legend": 43.02,
+    "mythic": 41.69,
+    "honor": 42.36,
+    "glory": 42.86
    },
    "recent": {
     "win": 42.9,
@@ -11280,10 +11280,10 @@
    "ru": "Франко",
    "rank": 133,
    "pick": 0.94,
-   "win": 41.58,
-   "ban": 3.11,
-   "gloryWin": 39.92,
-   "gloryBan": 1.64,
+   "win": 41.59,
+   "ban": 3.1,
+   "gloryWin": 39.96,
+   "gloryBan": 1.66,
    "tier": "D",
    "lowPick": false,
    "counters": [
@@ -11291,7 +11291,7 @@
     "angela",
     "fanny",
     "floryn",
-    "freya"
+    "estes"
    ],
    "strongAgainst": [
     "hanzo",
@@ -11307,11 +11307,11 @@
    ],
    "releaseOrder": 124,
    "byRank": {
-    "epic": 44,
-    "legend": 42.12,
-    "mythic": 41.78,
-    "honor": 41.26,
-    "glory": 39.92
+    "epic": 44.03,
+    "legend": 42.14,
+    "mythic": 41.8,
+    "honor": 41.28,
+    "glory": 39.96
    },
    "recent": {
     "win": 41.83,
@@ -11358,5 +11358,5 @@
   }
  ],
  "rolesSource": "https://www.mobilelegends.com/hero",
- "recentUpdated": "2026-11-23T00:25:00"
+ "recentUpdated": "2026-11-24T01:05:01"
 }

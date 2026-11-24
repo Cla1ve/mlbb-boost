@@ -45,8 +45,8 @@ B
 
 1.  **48,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **49,7%**![](/images/ranks/Mythic.webp)Мифик
+4.  **50,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -247,7 +247,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
 
 ### Слабые цели
 
@@ -269,11 +269,11 @@ B
 
 Кто контрпик для героя «Кайя» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Валир, Акай, Грок, Глу и Беатрис.
+За последние 30 дней чаще всего героя обыгрывают Валир, Акай, Грок, Баксий и Глу.
 
 Какой процент побед у героя «Кайя» сейчас?
 
-49,61% в Мифической славе за последние 7 дней и 49,80% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+49,61% в Мифической славе за последние 7 дней и 49,78% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Кайя»?
 

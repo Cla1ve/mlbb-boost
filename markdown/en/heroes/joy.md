@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.6%**![](/images/ranks/Epic.webp)Epic
+1.  **47.7%**![](/images/ranks/Epic.webp)Epic
 2.  **46.5%**![](/images/ranks/Legend.webp)Legend
 3.  **46.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Sun, Lolita, X.Borg, Yve and Ha
 
 What is Joy’s win rate right now?
 
-49.36% at Mythical Glory over the last 7 days and 48.79% across all ranks over 30 days, as of 23 November 2026.
+49.36% at Mythical Glory over the last 7 days and 48.80% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Joy play?
 

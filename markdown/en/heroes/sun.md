@@ -45,8 +45,8 @@ Ban rate
 
 1.  **55.9%**![](/images/ranks/Epic.webp)Epic
 2.  **55.5%**![](/images/ranks/Legend.webp)Legend
-3.  **54.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **54.5%**![](/images/ranks/Mythic.webp)Mythic
+4.  **53.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are Jawhead, Diggie, Harley, Saber 
 
 What is Sun’s win rate right now?
 
-53.14% at Mythical Glory over the last 7 days and 53.72% across all ranks over 30 days, as of 23 November 2026.
+53.14% at Mythical Glory over the last 7 days and 53.76% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Sun play?
 

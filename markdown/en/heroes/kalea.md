@@ -249,7 +249,7 @@ Kalea grabs an enemy hero with her tail and slams them down in the Joystick's di
 
 Beat this hero
 
-[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
 ## Lore
 
@@ -265,11 +265,11 @@ Beat this hero
 
 Who counters Kalea in MLBB?
 
-Over the last 30 days the toughest opponents are Fanny, Helcurt, Lolita, Khaleed and Yve.
+Over the last 30 days the toughest opponents are Fanny, Helcurt, Khaleed, Lolita and Yve.
 
 What is Kalea’s win rate right now?
 
-51.71% at Mythical Glory over the last 7 days and 50.44% across all ranks over 30 days, as of 23 November 2026.
+51.71% at Mythical Glory over the last 7 days and 50.47% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Kalea play?
 

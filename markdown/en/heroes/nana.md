@@ -229,7 +229,7 @@ Over the last 30 days the toughest opponents are Odette, Saber, Lolita, Dyrroth 
 
 What is Nana’s win rate right now?
 
-45.08% at Mythical Glory over the last 7 days and 47.27% across all ranks over 30 days, as of 23 November 2026.
+45.08% at Mythical Glory over the last 7 days and 47.26% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Nana play?
 

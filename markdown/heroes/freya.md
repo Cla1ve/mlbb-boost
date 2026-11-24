@@ -43,10 +43,10 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **47,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,5%**![](/images/ranks/Legend.webp)Легенда
+1.  **47,4%**![](/images/ranks/Epic.webp)Эпик
+2.  **47,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,5%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **48,6%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -245,13 +245,13 @@ S
 
 Побеждают этого героя
 
-[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
+[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
 
 ## История
 
@@ -267,11 +267,11 @@ S
 
 Кто контрпик для героя «Фрейя» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Маша, Ив, Лолита, Кагура и Линг.
+За последние 30 дней чаще всего героя обыгрывают Маша, Ив, Лолита, Линг и Кагура.
 
 Какой процент побед у героя «Фрейя» сейчас?
 
-51,71% в Мифической славе за последние 7 дней и 49,32% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+51,71% в Мифической славе за последние 7 дней и 49,39% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Фрейя»?
 

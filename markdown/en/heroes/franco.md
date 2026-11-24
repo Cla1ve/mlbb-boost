@@ -47,7 +47,7 @@ Ban rate
 2.  **42.1%**![](/images/ranks/Legend.webp)Legend
 3.  **41.8%**![](/images/ranks/Mythic.webp)Mythic
 4.  **41.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **39.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **40.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -241,7 +241,7 @@ Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over t
 
 Beat this hero
 
-[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
 
 ### Easy targets
 
@@ -263,11 +263,11 @@ This hero beats them
 
 Who counters Franco in MLBB?
 
-Over the last 30 days the toughest opponents are Diggie, Angela, Fanny, Floryn and Freya.
+Over the last 30 days the toughest opponents are Diggie, Angela, Fanny, Floryn and Estes.
 
 What is Franco’s win rate right now?
 
-40.57% at Mythical Glory over the last 7 days and 41.58% across all ranks over 30 days, as of 23 November 2026.
+40.57% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Franco play?
 

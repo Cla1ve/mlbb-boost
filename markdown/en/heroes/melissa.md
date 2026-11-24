@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.6%**![](/images/ranks/Epic.webp)Epic
+1.  **47.7%**![](/images/ranks/Epic.webp)Epic
 2.  **48.2%**![](/images/ranks/Legend.webp)Legend
 3.  **48.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -237,7 +237,7 @@ Over the last 30 days the toughest opponents are Lolita, Popol and Kupa, Leomord
 
 What is Melissa’s win rate right now?
 
-52.43% at Mythical Glory over the last 7 days and 50.07% across all ranks over 30 days, as of 23 November 2026.
+52.43% at Mythical Glory over the last 7 days and 50.15% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Melissa play?
 

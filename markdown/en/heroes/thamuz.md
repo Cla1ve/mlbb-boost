@@ -225,7 +225,7 @@ Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber a
 
 What is Thamuz’s win rate right now?
 
-48.47% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 23 November 2026.
+48.47% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Thamuz play?
 

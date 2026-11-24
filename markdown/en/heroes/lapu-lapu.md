@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Silvanna, Popol and Kupa, Hanab
 
 What is Lapu-Lapu’s win rate right now?
 
-47.10% at Mythical Glory over the last 7 days and 48.08% across all ranks over 30 days, as of 23 November 2026.
+47.10% at Mythical Glory over the last 7 days and 48.06% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Lapu-Lapu play?
 

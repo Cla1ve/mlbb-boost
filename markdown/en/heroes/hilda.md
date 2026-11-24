@@ -46,8 +46,8 @@ Ban rate
 1.  **54.9%**![](/images/ranks/Epic.webp)Epic
 2.  **53.4%**![](/images/ranks/Legend.webp)Legend
 3.  **52.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **47.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -243,7 +243,7 @@ Each stack of Wilderness Mark increases Power of Wildness's damage by 2.5% of th
 
 Beat this hero
 
-[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)
+[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
 
 ### Easy targets
 
@@ -265,11 +265,11 @@ This hero beats them
 
 Who counters Hilda in MLBB?
 
-Over the last 30 days the toughest opponents are Granger, Yin, Helcurt, Saber and Harley.
+Over the last 30 days the toughest opponents are Granger, Yin, Helcurt, Harley and Saber.
 
 What is Hilda’s win rate right now?
 
-48.68% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 23 November 2026.
+48.68% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Hilda play?
 

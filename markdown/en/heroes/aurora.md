@@ -46,7 +46,7 @@ Ban rate
 1.  **48.5%**![](/images/ranks/Epic.webp)Epic
 2.  **48.7%**![](/images/ranks/Legend.webp)Legend
 3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -219,7 +219,7 @@ Over the last 30 days the toughest opponents are Lolita, Odette, Eudora, Khufra 
 
 What is Aurora’s win rate right now?
 
-48.77% at Mythical Glory over the last 7 days and 48.93% across all ranks over 30 days, as of 23 November 2026.
+48.77% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Aurora play?
 

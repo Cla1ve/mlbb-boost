@@ -94,6 +94,32 @@ From Legend V it is 25 stars to Mythic. Prices for them and for stars after plac
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
+Р
+
+Booster
+
+Ракунчик
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+Standard
+
+StartЛегенда II, 3⭐
+
+TargetМифик, 0⭐
+
+Отличный бустер быстро бустанул аккаунт
+
+Time1ч 54м после оплаты
+
+23 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2282)
+
 Д
 
 Booster
@@ -121,32 +147,6 @@ Time1д 57м после оплаты
 15 November 2026
 
 [Open review](https://t.me/Cla1ve_boost/2248)
-
-Т
-
-Booster
-
-Терпение
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-Standard
-
-StartЛегенда II, 4⭐
-
-TargetМифик, 15⭐
-
-быстро и четко, спасибо брат))
-
-Time5ч 26м после оплаты
-
-10 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2202)
 
 Y
 

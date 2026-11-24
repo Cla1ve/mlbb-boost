@@ -46,7 +46,7 @@ C
 1.  **47,2%**![](/images/ranks/Epic.webp)Эпик
 2.  **46,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **46,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **45,5%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **45,6%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **44,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -247,7 +247,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)
 
 ### Слабые цели
 
@@ -269,11 +269,11 @@ C
 
 Кто контрпик для героя «Зилонг» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Икс.Борг, Чичи, Ксавьер, Дигги и Фанни.
+За последние 30 дней чаще всего героя обыгрывают Икс.Борг, Чичи, Дигги, Ксавьер и Фанни.
 
 Какой процент побед у героя «Зилонг» сейчас?
 
-44,92% в Мифической славе за последние 7 дней и 46,27% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+44,92% в Мифической славе за последние 7 дней и 46,27% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Зилонг»?
 

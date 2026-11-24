@@ -45,7 +45,7 @@ Ban rate
 
 1.  **53.4%**![](/images/ranks/Epic.webp)Epic
 2.  **53.4%**![](/images/ranks/Legend.webp)Legend
-3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **53.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Alice, Harith, Silvanna, Farami
 
 What is Edith’s win rate right now?
 
-52.47% at Mythical Glory over the last 7 days and 52.67% across all ranks over 30 days, as of 23 November 2026.
+52.47% at Mythical Glory over the last 7 days and 52.69% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Edith play?
 

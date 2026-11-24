@@ -43,9 +43,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **49.4%**![](/images/ranks/Epic.webp)Epic
+1.  **49.3%**![](/images/ranks/Epic.webp)Epic
 2.  **48.4%**![](/images/ranks/Legend.webp)Legend
-3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Wanwan, Harith, Freya, Benedett
 
 What is Phoveus’s win rate right now?
 
-48.53% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 23 November 2026.
+48.53% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Phoveus play?
 

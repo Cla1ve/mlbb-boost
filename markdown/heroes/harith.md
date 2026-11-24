@@ -46,7 +46,7 @@ C
 1.  **45,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **44,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **44,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **46,1%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **46,2%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -247,13 +247,13 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
+[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
 
 ## История
 
@@ -269,11 +269,11 @@ C
 
 Кто контрпик для героя «Харит» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Карина, Джонсон, Лапу-Лапу и Су Ё.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Джонсон, Карина, Лапу-Лапу и Су Ё.
 
 Какой процент побед у героя «Харит» сейчас?
 
-48,69% в Мифической славе за последние 7 дней и 46,92% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+48,69% в Мифической славе за последние 7 дней и 46,96% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Харит»?
 

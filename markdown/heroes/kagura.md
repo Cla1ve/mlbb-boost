@@ -44,9 +44,9 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **51,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,7%**![](/images/ranks/Mythical_Honor.webp)Честь
+2.  **51,6%**![](/images/ranks/Legend.webp)Легенда
+3.  **51,4%**![](/images/ranks/Mythic.webp)Мифик
+4.  **51,6%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -241,7 +241,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ### Слабые цели
 
@@ -263,11 +263,11 @@ B
 
 Кто контрпик для героя «Кагура» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Сильвана, Валир, Ханаби и Ханзо.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Сильвана, Валир, Ханзо и Ханаби.
 
 Какой процент побед у героя «Кагура» сейчас?
 
-50,18% в Мифической славе за последние 7 дней и 51,09% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,18% в Мифической славе за последние 7 дней и 51,05% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Кагура»?
 

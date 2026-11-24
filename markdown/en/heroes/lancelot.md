@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **45.3%**![](/images/ranks/Epic.webp)Epic
+1.  **45.4%**![](/images/ranks/Epic.webp)Epic
 2.  **44.1%**![](/images/ranks/Legend.webp)Legend
 3.  **43.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **43.2%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -267,7 +267,7 @@ Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, Johnson and 
 
 What is Lancelot’s win rate right now?
 
-42.22% at Mythical Glory over the last 7 days and 43.13% across all ranks over 30 days, as of 23 November 2026.
+42.22% at Mythical Glory over the last 7 days and 43.11% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Lancelot play?
 

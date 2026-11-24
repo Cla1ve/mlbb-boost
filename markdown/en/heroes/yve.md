@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.0%**![](/images/ranks/Epic.webp)Epic
+1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **51.4%**![](/images/ranks/Legend.webp)Legend
-3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **52.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Lolita, Hylos, Barats, Alice an
 
 What is Yve’s win rate right now?
 
-51.92% at Mythical Glory over the last 7 days and 52.26% across all ranks over 30 days, as of 23 November 2026.
+51.92% at Mythical Glory over the last 7 days and 52.24% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Yve play?
 

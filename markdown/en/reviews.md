@@ -11,13 +11,13 @@ language: en
 
 ●●●●●
 
-1313 Reviews
+1315 Reviews
 
 99% Positive ratings
 
 ### All reviews on Telegram!
 
-1313 published reviews with screenshots
+1315 published reviews with screenshots
 
 [Open the channel](https://t.me/cla1ve_boost)
 
@@ -31,7 +31,59 @@ You can leave a review only after a purchase
 
 ## Latest customer reviews
 
-1313 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+1315 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+
+Р
+
+Booster
+
+Ракунчик
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+Standard
+
+StartЛегенда II, 3⭐
+
+TargetМифик, 0⭐
+
+Отличный бустер быстро бустанул аккаунт
+
+Time1ч 54м после оплаты
+
+23 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2282)
+
+L
+
+Booster
+
+Legit
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+Role
+
+StartМифическая честь, 25⭐
+
+TargetМифическая честь, 37⭐
+
+быстро и четко, спасибо
+
+Time4ч 37м после оплаты
+
+23 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2280)
 
 C
 
@@ -1578,57 +1630,3 @@ Time5ч 19м после оплаты
 30 October 2026
 
 [Open review](https://t.me/Cla1ve_boost/2137)
-
-V
-
-Booster
-
-VenomSkie.
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-On a hero
-
-StartМифический бессмертный, 300⭐
-
-TargetМифический бессмертный, 555⭐
-
-самый лучший)
-
-Heroгоссен
-
-Time14д 17ч 10м после оплаты
-
-30 October 2026
-
-[Open review](https://t.me/Cla1ve_boost/2135)
-
-Z
-
-Booster
-
-Zwihsk
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-Standard
-
-StartМифическая слава, 98⭐
-
-TargetМифический бессмертный, 103⭐
-
-как всегда отлично
-
-Time1ч 31м после оплаты
-
-29 October 2026
-
-[Open review](https://t.me/Cla1ve_boost/2131)

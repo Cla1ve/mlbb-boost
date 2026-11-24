@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Fredrinn
 
 What is Luo Yi’s win rate right now?
 
-46.19% at Mythical Glory over the last 7 days and 47.35% across all ranks over 30 days, as of 23 November 2026.
+46.19% at Mythical Glory over the last 7 days and 47.31% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Luo Yi play?
 

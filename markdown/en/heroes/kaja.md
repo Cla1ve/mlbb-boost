@@ -45,8 +45,8 @@ Ban rate
 
 1.  **48.4%**![](/images/ranks/Epic.webp)Epic
 2.  **48.8%**![](/images/ranks/Legend.webp)Legend
-3.  **49.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -247,7 +247,7 @@ While active, Kaja can drag the lasso, shrinking its radius and pulling enemies 
 
 Beat this hero
 
-[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)
 
 ### Easy targets
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Kaja in MLBB?
 
-Over the last 30 days the toughest opponents are Valir, Akai, Grock, Gloo and Beatrix.
+Over the last 30 days the toughest opponents are Valir, Akai, Grock, Baxia and Gloo.
 
 What is Kaja’s win rate right now?
 
-49.61% at Mythical Glory over the last 7 days and 49.80% across all ranks over 30 days, as of 23 November 2026.
+49.61% at Mythical Glory over the last 7 days and 49.78% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Kaja play?
 

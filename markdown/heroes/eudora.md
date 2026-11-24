@@ -247,7 +247,7 @@ A
 
 Побеждают этого героя
 
-[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
+[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
 
 ### Слабые цели
 
@@ -269,11 +269,11 @@ A
 
 Кто контрпик для героя «Эйдора» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Флорин, Хелкарт, Иритель, Наталья и Зилонг.
+За последние 30 дней чаще всего героя обыгрывают Флорин, Иритель, Хелкарт, Наталья и Зилонг.
 
 Какой процент побед у героя «Эйдора» сейчас?
 
-50,22% в Мифической славе за последние 7 дней и 50,35% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,22% в Мифической славе за последние 7 дней и 50,33% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Эйдора»?
 

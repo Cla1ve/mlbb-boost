@@ -43,8 +43,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.3%**![](/images/ranks/Epic.webp)Epic
-2.  **53.8%**![](/images/ranks/Legend.webp)Legend
+1.  **54.4%**![](/images/ranks/Epic.webp)Epic
+2.  **53.9%**![](/images/ranks/Legend.webp)Legend
 3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.9%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -249,7 +249,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Lore
 
@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Saber, Popol and Kupa, Moskov, 
 
 What is Hanabi’s win rate right now?
 
-51.30% at Mythical Glory over the last 7 days and 52.66% across all ranks over 30 days, as of 23 November 2026.
+51.30% at Mythical Glory over the last 7 days and 52.67% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Hanabi play?
 

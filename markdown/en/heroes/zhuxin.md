@@ -45,9 +45,9 @@ Ban rate
 
 1.  **47.8%**![](/images/ranks/Epic.webp)Epic
 2.  **48.3%**![](/images/ranks/Legend.webp)Legend
-3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Lolita, Khufra, Gloo, Hylos and
 
 What is Zhuxin’s win rate right now?
 
-49.35% at Mythical Glory over the last 7 days and 49.57% across all ranks over 30 days, as of 23 November 2026.
+49.35% at Mythical Glory over the last 7 days and 49.54% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Zhuxin play?
 

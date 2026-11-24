@@ -249,7 +249,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)
 
 ### Слабые цели
 
@@ -271,11 +271,11 @@ C
 
 Кто контрпик для героя «Иксия» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эстес, Рафаэль, Циклоп, Флорин и Лолита.
+За последние 30 дней чаще всего героя обыгрывают Эстес, Циклоп, Рафаэль, Лолита и Флорин.
 
 Какой процент побед у героя «Иксия» сейчас?
 
-50,64% в Мифической славе за последние 7 дней и 50,08% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,64% в Мифической славе за последние 7 дней и 50,10% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Иксия»?
 

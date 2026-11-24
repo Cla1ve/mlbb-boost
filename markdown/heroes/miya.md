@@ -247,7 +247,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
 
 ### Слабые цели
 
@@ -269,11 +269,11 @@ B
 
 Кто контрпик для героя «Мия» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Сабер, Обсидия, Москов, Иритель и Гвиневра.
+За последние 30 дней чаще всего героя обыгрывают Сабер, Обсидия, Москов, Иритель и Харит.
 
 Какой процент побед у героя «Мия» сейчас?
 
-50,15% в Мифической славе за последние 7 дней и 49,71% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+50,15% в Мифической славе за последние 7 дней и 49,70% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Мия»?
 

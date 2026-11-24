@@ -45,9 +45,9 @@ Ban rate
 
 1.  **50.2%**![](/images/ranks/Epic.webp)Epic
 2.  **48.8%**![](/images/ranks/Legend.webp)Legend
-3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -279,7 +279,7 @@ Over the last 30 days the toughest opponents are Benedetta, Ixia, X.Borg, Beatri
 
 What is Selena’s win rate right now?
 
-48.31% at Mythical Glory over the last 7 days and 48.34% across all ranks over 30 days, as of 23 November 2026.
+48.31% at Mythical Glory over the last 7 days and 48.37% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Selena play?
 

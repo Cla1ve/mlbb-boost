@@ -247,7 +247,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## История
 
@@ -263,11 +263,11 @@ B
 
 Кто контрпик для героя «Баданг» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Фанни, Сан, Зилонг, Хаябуса и Алдос.
+За последние 30 дней чаще всего героя обыгрывают Фанни, Сан, Зилонг, Хаябуса и Хелкарт.
 
 Какой процент побед у героя «Баданг» сейчас?
 
-49,88% в Мифической славе за последние 7 дней и 50,19% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+49,88% в Мифической славе за последние 7 дней и 50,19% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Баданг»?
 

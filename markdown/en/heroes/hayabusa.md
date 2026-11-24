@@ -45,7 +45,7 @@ Ban rate
 
 1.  **47.4%**![](/images/ranks/Epic.webp)Epic
 2.  **47.9%**![](/images/ranks/Legend.webp)Legend
-3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Aamon, Yve, Zhuxin, Nolan and K
 
 What is Hayabusa’s win rate right now?
 
-48.36% at Mythical Glory over the last 7 days and 48.15% across all ranks over 30 days, as of 23 November 2026.
+48.36% at Mythical Glory over the last 7 days and 48.15% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Hayabusa play?
 

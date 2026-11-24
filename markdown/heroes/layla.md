@@ -245,7 +245,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
 
 ### Слабые цели
 
@@ -267,11 +267,11 @@ C
 
 Кто контрпик для героя «Лейла» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Дигги, Эдит, Рафаэль, Одетта и Фовиус.
+За последние 30 дней чаще всего героя обыгрывают Дигги, Эдит, Рафаэль, Фовиус и Одетта.
 
 Какой процент побед у героя «Лейла» сейчас?
 
-48,21% в Мифической славе за последние 7 дней и 49,41% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+48,21% в Мифической славе за последние 7 дней и 49,41% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Лейла»?
 

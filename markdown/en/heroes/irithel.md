@@ -46,8 +46,8 @@ Ban rate
 1.  **50.3%**![](/images/ranks/Epic.webp)Epic
 2.  **52.1%**![](/images/ranks/Legend.webp)Legend
 3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **53.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Yin, Wanwan, Beatrix, Benedetta
 
 What is Irithel’s win rate right now?
 
-53.38% at Mythical Glory over the last 7 days and 52.74% across all ranks over 30 days, as of 23 November 2026.
+53.38% at Mythical Glory over the last 7 days and 52.76% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Irithel play?
 

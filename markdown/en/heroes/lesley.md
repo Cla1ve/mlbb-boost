@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **47.6%**![](/images/ranks/Epic.webp)Epic
-2.  **48.1%**![](/images/ranks/Legend.webp)Legend
+2.  **48.0%**![](/images/ranks/Legend.webp)Legend
 3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Claude, Marcel, Bruno, Gatotkac
 
 What is Lesley’s win rate right now?
 
-48.84% at Mythical Glory over the last 7 days and 48.31% across all ranks over 30 days, as of 23 November 2026.
+48.84% at Mythical Glory over the last 7 days and 48.33% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Lesley play?
 

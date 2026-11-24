@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **55.6%**![](/images/ranks/Epic.webp)Epic
-2.  **57.0%**![](/images/ranks/Legend.webp)Legend
+2.  **56.9%**![](/images/ranks/Legend.webp)Legend
 3.  **57.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **57.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **57.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **57.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -255,7 +255,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
 ## Lore
 
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Atlas, Sun, Akai, Johnson and P
 
 What is Marcel’s win rate right now?
 
-57.07% at Mythical Glory over the last 7 days and 57.46% across all ranks over 30 days, as of 23 November 2026.
+57.07% at Mythical Glory over the last 7 days and 57.44% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Marcel play?
 

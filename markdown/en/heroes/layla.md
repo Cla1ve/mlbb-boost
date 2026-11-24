@@ -245,7 +245,7 @@ Cooldown **37 Mana Cost: 130 s**
 
 Beat this hero
 
-[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
 ### Easy targets
 
@@ -267,11 +267,11 @@ This hero beats them
 
 Who counters Layla in MLBB?
 
-Over the last 30 days the toughest opponents are Diggie, Edith, Rafaela, Odette and Phoveus.
+Over the last 30 days the toughest opponents are Diggie, Edith, Rafaela, Phoveus and Odette.
 
 What is Layla’s win rate right now?
 
-48.21% at Mythical Glory over the last 7 days and 49.41% across all ranks over 30 days, as of 23 November 2026.
+48.21% at Mythical Glory over the last 7 days and 49.41% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Layla play?
 

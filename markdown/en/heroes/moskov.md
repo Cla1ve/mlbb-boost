@@ -45,7 +45,7 @@ Ban rate
 
 1.  **46.8%**![](/images/ranks/Epic.webp)Epic
 2.  **47.8%**![](/images/ranks/Legend.webp)Legend
-3.  **49.5%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Gloo, Joy, Fanny, Beatrix and A
 
 What is Moskov’s win rate right now?
 
-51.30% at Mythical Glory over the last 7 days and 50.31% across all ranks over 30 days, as of 23 November 2026.
+51.30% at Mythical Glory over the last 7 days and 50.31% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Moskov play?
 

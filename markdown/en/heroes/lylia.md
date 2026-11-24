@@ -45,9 +45,9 @@ Ban rate
 
 1.  **51.1%**![](/images/ranks/Epic.webp)Epic
 2.  **50.7%**![](/images/ranks/Legend.webp)Legend
-3.  **50.1%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Johnson, Hanabi, Alpha, Barats 
 
 What is Lylia’s win rate right now?
 
-47.64% at Mythical Glory over the last 7 days and 49.34% across all ranks over 30 days, as of 23 November 2026.
+47.64% at Mythical Glory over the last 7 days and 49.30% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Lylia play?
 

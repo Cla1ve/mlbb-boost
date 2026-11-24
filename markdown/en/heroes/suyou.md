@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Natalia, Sun, X.Borg, Yin and B
 
 What is Suyou’s win rate right now?
 
-49.41% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 23 November 2026.
+49.41% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Suyou play?
 

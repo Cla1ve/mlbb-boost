@@ -43,11 +43,11 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **55,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **56,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **55,7%**![](/images/ranks/Mythic.webp)Мифик
+1.  **55,6%**![](/images/ranks/Epic.webp)Эпик
+2.  **56,0%**![](/images/ranks/Legend.webp)Легенда
+3.  **55,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,2%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,5%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -253,7 +253,7 @@ A
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
+[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
 
 ## История
 
@@ -273,7 +273,7 @@ A
 
 Какой процент побед у героя «Глу» сейчас?
 
-49,90% в Мифической славе за последние 7 дней и 53,45% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+49,90% в Мифической славе за последние 7 дней и 53,35% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Глу»?
 

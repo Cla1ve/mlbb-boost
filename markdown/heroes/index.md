@@ -9,7 +9,7 @@ language: ru
 
 # Тир-лист MLBB
 
-133 героя · Обновлено 23 ноября
+133 героя · Обновлено 24 ноября
 
 Найти героя
 
@@ -77,20 +77,20 @@ language: ru
 
 победы, все ранги, п. п. к 30 дням
 
-1.  [![](/images/heroes/aldous.webp)Алдос+2,0](https://boostmlbb.ru/heroes/aldous.html)
-2.  [![](/images/heroes/lunox.webp)Люнокс+1,3](https://boostmlbb.ru/heroes/lunox.html)
-3.  [![](/images/heroes/xavier.webp)Ксавьер+1,2](https://boostmlbb.ru/heroes/xavier.html)
-4.  [![](/images/heroes/melissa.webp)Мелисса+1,2](https://boostmlbb.ru/heroes/melissa.html)
+1.  [![](/images/heroes/aldous.webp)Алдос+1,9](https://boostmlbb.ru/heroes/aldous.html)
+2.  [![](/images/heroes/lunox.webp)Люнокс+1,2](https://boostmlbb.ru/heroes/lunox.html)
+3.  [![](/images/heroes/xavier.webp)Ксавьер+1,1](https://boostmlbb.ru/heroes/xavier.html)
+4.  [![](/images/heroes/melissa.webp)Мелисса+1,1](https://boostmlbb.ru/heroes/melissa.html)
 5.  [![](/images/heroes/freya.webp)Фрейя+1,0](https://boostmlbb.ru/heroes/freya.html)
 
 ### Падают за неделю
 
 победы, все ранги, п. п. к 30 дням
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа−2,5](https://boostmlbb.ru/heroes/popol-and-kupa.html)
-2.  [![](/images/heroes/gloo.webp)Глу−2,0](https://boostmlbb.ru/heroes/gloo.html)
+1.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа−2,4](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+2.  [![](/images/heroes/gloo.webp)Глу−1,9](https://boostmlbb.ru/heroes/gloo.html)
 3.  [![](/images/heroes/masha.webp)Маша−1,9](https://boostmlbb.ru/heroes/masha.html)
-4.  [![](/images/heroes/atlas.webp)Атлас−1,4](https://boostmlbb.ru/heroes/atlas.html)
+4.  [![](/images/heroes/atlas.webp)Атлас−1,3](https://boostmlbb.ru/heroes/atlas.html)
 5.  [![](/images/heroes/lukas.webp)Лукас−1,2](https://boostmlbb.ru/heroes/lukas.html)
 
 ## Лучшие герои по ролям

@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **49.6%**![](/images/ranks/Epic.webp)Epic
+1.  **49.5%**![](/images/ranks/Epic.webp)Epic
 2.  **49.6%**![](/images/ranks/Legend.webp)Legend
 3.  **49.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.4%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -267,7 +267,7 @@ Over the last 30 days the toughest opponents are Sun, Gloo, Argus, Karina and Lu
 
 What is Ruby’s win rate right now?
 
-48.96% at Mythical Glory over the last 7 days and 49.12% across all ranks over 30 days, as of 23 November 2026.
+48.96% at Mythical Glory over the last 7 days and 49.11% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Ruby play?
 

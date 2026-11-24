@@ -45,9 +45,9 @@ Ban rate
 
 1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **52.3%**![](/images/ranks/Legend.webp)Legend
-3.  **52.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **49.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -249,7 +249,7 @@ Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
 Beat this hero
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)
 
 ### Easy targets
 
@@ -271,11 +271,11 @@ This hero beats them
 
 Who counters Silvanna in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Floryn, Angela, Rafaela and Valentina.
+Over the last 30 days the toughest opponents are Aamon, Floryn, Angela, Valentina and Rafaela.
 
 What is Silvanna’s win rate right now?
 
-50.25% at Mythical Glory over the last 7 days and 51.36% across all ranks over 30 days, as of 23 November 2026.
+50.25% at Mythical Glory over the last 7 days and 51.37% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Silvanna play?
 

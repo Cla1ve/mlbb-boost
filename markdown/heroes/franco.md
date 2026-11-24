@@ -47,7 +47,7 @@ C
 2.  **42,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **41,8%**![](/images/ranks/Mythic.webp)Мифик
 4.  **41,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **39,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **40,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -241,7 +241,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
 
 ### Слабые цели
 
@@ -263,11 +263,11 @@ C
 
 Кто контрпик для героя «Франко» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Дигги, Ангела, Фанни, Флорин и Фрейя.
+За последние 30 дней чаще всего героя обыгрывают Дигги, Ангела, Фанни, Флорин и Эстес.
 
 Какой процент побед у героя «Франко» сейчас?
 
-40,57% в Мифической славе за последние 7 дней и 41,58% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+40,57% в Мифической славе за последние 7 дней и 41,59% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Франко»?
 

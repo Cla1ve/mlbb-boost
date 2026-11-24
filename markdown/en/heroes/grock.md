@@ -45,7 +45,7 @@ Ban rate
 
 1.  **49.8%**![](/images/ranks/Epic.webp)Epic
 2.  **47.9%**![](/images/ranks/Legend.webp)Legend
-3.  **46.9%**![](/images/ranks/Mythic.webp)Mythic
+3.  **47.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **46.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **45.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Lolita, Johnson, Yin, Diggie an
 
 What is Grock’s win rate right now?
 
-45.69% at Mythical Glory over the last 7 days and 46.61% across all ranks over 30 days, as of 23 November 2026.
+45.69% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Grock play?
 

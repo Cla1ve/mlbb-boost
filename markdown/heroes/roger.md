@@ -43,7 +43,7 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **50,7%**![](/images/ranks/Epic.webp)Эпик
+1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,3%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,5%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -249,7 +249,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
+[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ## История
 
@@ -265,11 +265,11 @@ D
 
 Кто контрпик для героя «Роджер» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Харли, Госсен, Сильвана, Хелкарт и Инь.
+За последние 30 дней чаще всего героя обыгрывают Харли, Госсен, Сильвана, Инь и Хелкарт.
 
 Какой процент побед у героя «Роджер» сейчас?
 
-46,21% в Мифической славе за последние 7 дней и 48,33% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+46,21% в Мифической славе за последние 7 дней и 48,31% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Роджер»?
 

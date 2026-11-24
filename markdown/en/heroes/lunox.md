@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **49.4%**![](/images/ranks/Epic.webp)Epic
-2.  **49.7%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **49.6%**![](/images/ranks/Epic.webp)Epic
+2.  **49.8%**![](/images/ranks/Legend.webp)Legend
+3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
+4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are Gloo, Kaja, Wanwan, Esmeralda a
 
 What is Lunox’s win rate right now?
 
-51.95% at Mythical Glory over the last 7 days and 50.64% across all ranks over 30 days, as of 23 November 2026.
+51.95% at Mythical Glory over the last 7 days and 50.74% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Lunox play?
 

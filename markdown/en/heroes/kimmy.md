@@ -47,7 +47,7 @@ Ban rate
 2.  **48.1%**![](/images/ranks/Legend.webp)Legend
 3.  **48.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.0%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Sun, Hylos, Atlas, Uranus and H
 
 What is Kimmy’s win rate right now?
 
-48.16% at Mythical Glory over the last 7 days and 48.74% across all ranks over 30 days, as of 23 November 2026.
+48.16% at Mythical Glory over the last 7 days and 48.71% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Kimmy play?
 

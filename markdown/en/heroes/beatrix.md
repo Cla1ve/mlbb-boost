@@ -45,7 +45,7 @@ Ban rate
 
 1.  **51.0%**![](/images/ranks/Epic.webp)Epic
 2.  **49.9%**![](/images/ranks/Legend.webp)Legend
-3.  **49.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -263,7 +263,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
+[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
 ## Lore
 
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are Estes, Hanabi, Belerick, Edith 
 
 What is Beatrix’s win rate right now?
 
-50.56% at Mythical Glory over the last 7 days and 50.35% across all ranks over 30 days, as of 23 November 2026.
+50.56% at Mythical Glory over the last 7 days and 50.35% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Beatrix play?
 

@@ -45,7 +45,7 @@ Ban rate
 
 1.  **55.5%**![](/images/ranks/Epic.webp)Epic
 2.  **56.7%**![](/images/ranks/Legend.webp)Legend
-3.  **57.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **57.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **56.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **56.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Saber a
 
 What is Argus’s win rate right now?
 
-57.32% at Mythical Glory over the last 7 days and 56.78% across all ranks over 30 days, as of 23 November 2026.
+57.32% at Mythical Glory over the last 7 days and 56.81% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Argus play?
 

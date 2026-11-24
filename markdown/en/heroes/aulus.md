@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Gloo, Minsitthar, Tigreal, Loli
 
 What is Aulus’s win rate right now?
 
-53.00% at Mythical Glory over the last 7 days and 53.46% across all ranks over 30 days, as of 23 November 2026.
+53.00% at Mythical Glory over the last 7 days and 53.44% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Aulus play?
 

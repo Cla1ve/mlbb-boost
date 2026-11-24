@@ -44,8 +44,8 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **42.5%**![](/images/ranks/Epic.webp)Epic
-2.  **42.4%**![](/images/ranks/Legend.webp)Legend
-3.  **43.0%**![](/images/ranks/Mythic.webp)Mythic
+2.  **42.3%**![](/images/ranks/Legend.webp)Legend
+3.  **42.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **44.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **45.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -255,7 +255,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Carmilla, Atlas, X.Borg, Lukas 
 
 What is Valentina’s win rate right now?
 
-44.78% at Mythical Glory over the last 7 days and 44.73% across all ranks over 30 days, as of 23 November 2026.
+44.78% at Mythical Glory over the last 7 days and 44.70% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Valentina play?
 

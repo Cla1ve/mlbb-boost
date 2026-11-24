@@ -247,7 +247,7 @@ When Thunder's Wrath hits a target affected by Superconductor, it triggers a Thu
 
 Beat this hero
 
-[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
+[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
 
 ### Easy targets
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Eudora in MLBB?
 
-Over the last 30 days the toughest opponents are Floryn, Helcurt, Irithel, Natalia and Zilong.
+Over the last 30 days the toughest opponents are Floryn, Irithel, Helcurt, Natalia and Zilong.
 
 What is Eudora’s win rate right now?
 
-50.22% at Mythical Glory over the last 7 days and 50.35% across all ranks over 30 days, as of 23 November 2026.
+50.22% at Mythical Glory over the last 7 days and 50.33% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Eudora play?
 

@@ -45,7 +45,7 @@ Ban rate
 
 1.  **51.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.5%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -249,7 +249,7 @@ If Barbiel comes in contact with Leomord, they will enter the Mounted State, gai
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ### Easy targets
 
@@ -271,11 +271,11 @@ This hero beats them
 
 Who counters Leomord in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Saber, Popol and Kupa, Belerick and Natalia.
+Over the last 30 days the toughest opponents are Lolita, Saber, Belerick, Popol and Kupa and Natalia.
 
 What is Leomord’s win rate right now?
 
-49.95% at Mythical Glory over the last 7 days and 50.09% across all ranks over 30 days, as of 23 November 2026.
+49.95% at Mythical Glory over the last 7 days and 50.08% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Leomord play?
 

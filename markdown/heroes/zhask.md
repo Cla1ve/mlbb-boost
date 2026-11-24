@@ -267,7 +267,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
 
 ## История
 
@@ -287,7 +287,7 @@ C
 
 Какой процент побед у героя «Заск» сейчас?
 
-51,54% в Мифической славе за последние 7 дней и 52,54% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+51,54% в Мифической славе за последние 7 дней и 52,54% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Заск»?
 

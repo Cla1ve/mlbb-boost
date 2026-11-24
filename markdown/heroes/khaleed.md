@@ -43,7 +43,7 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **52,6%**![](/images/ranks/Epic.webp)Эпик
+1.  **52,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,2%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -247,13 +247,13 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
+[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)
+[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
 
 ## История
 
@@ -269,11 +269,11 @@ D
 
 Кто контрпик для героя «Халид» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Инь, Хелкарт, Вэйл, Ханаби и Сильвана.
+За последние 30 дней чаще всего героя обыгрывают Инь, Хелкарт, Ханаби, Вэйл и Сильвана.
 
 Какой процент побед у героя «Халид» сейчас?
 
-48,86% в Мифической славе за последние 7 дней и 50,35% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+48,86% в Мифической славе за последние 7 дней и 50,32% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Халид»?
 

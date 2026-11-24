@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.6%**![](/images/ranks/Epic.webp)Epic
+1.  **52.5%**![](/images/ranks/Epic.webp)Epic
 2.  **52.8%**![](/images/ranks/Legend.webp)Legend
 3.  **52.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.2%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -247,13 +247,13 @@ Upon reaching the destination, Khaleed will smash the ground, dealing 450 (+160%
 
 Beat this hero
 
-[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
+[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)
+[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ## Lore
 
@@ -269,11 +269,11 @@ This hero beats them
 
 Who counters Khaleed in MLBB?
 
-Over the last 30 days the toughest opponents are Yin, Helcurt, Vale, Hanabi and Silvanna.
+Over the last 30 days the toughest opponents are Yin, Helcurt, Hanabi, Vale and Silvanna.
 
 What is Khaleed’s win rate right now?
 
-48.86% at Mythical Glory over the last 7 days and 50.35% across all ranks over 30 days, as of 23 November 2026.
+48.86% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Khaleed play?
 

@@ -43,7 +43,7 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **52,0%**![](/images/ranks/Epic.webp)Эпик
+1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,3%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -255,7 +255,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
 
 ## История
 
@@ -275,7 +275,7 @@ B
 
 Какой процент побед у героя «Гвиневра» сейчас?
 
-51,40% в Мифической славе за последние 7 дней и 51,27% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+51,40% в Мифической славе за последние 7 дней и 51,27% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Гвиневра»?
 

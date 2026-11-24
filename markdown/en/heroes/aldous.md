@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.8%**![](/images/ranks/Epic.webp)Epic
-2.  **51.9%**![](/images/ranks/Legend.webp)Legend
-3.  **52.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **51.9%**![](/images/ranks/Epic.webp)Epic
+2.  **52.0%**![](/images/ranks/Legend.webp)Legend
+3.  **52.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -257,7 +257,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
 ## Lore
 
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Uranus, Xavier, Helcurt, X.Borg
 
 What is Aldous’s win rate right now?
 
-53.35% at Mythical Glory over the last 7 days and 51.86% across all ranks over 30 days, as of 23 November 2026.
+53.35% at Mythical Glory over the last 7 days and 51.98% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Aldous play?
 

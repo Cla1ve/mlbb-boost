@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.0%**![](/images/ranks/Epic.webp)Epic
+1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **52.1%**![](/images/ranks/Legend.webp)Legend
 3.  **52.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -269,7 +269,7 @@ Over the last 30 days the toughest opponents are Natalia, Marcel, Wanwan, Joy an
 
 What is Cyclops’s win rate right now?
 
-51.14% at Mythical Glory over the last 7 days and 51.68% across all ranks over 30 days, as of 23 November 2026.
+51.14% at Mythical Glory over the last 7 days and 51.70% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Cyclops play?
 

@@ -45,8 +45,8 @@ Ban rate
 
 1.  **49.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.1%**![](/images/ranks/Legend.webp)Legend
-3.  **50.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Cici, Marcel, Claude, Bruno and
 
 What is Aamon’s win rate right now?
 
-50.42% at Mythical Glory over the last 7 days and 50.24% across all ranks over 30 days, as of 23 November 2026.
+50.42% at Mythical Glory over the last 7 days and 50.21% across all ranks over 30 days, as of 24 November 2026.
 
 What role and lane does Aamon play?
 

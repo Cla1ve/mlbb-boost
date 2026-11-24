@@ -44,7 +44,7 @@ A
 ### Победы по рангам, 30 дней
 
 1.  **50,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,5%**![](/images/ranks/Legend.webp)Легенда
+2.  **51,4%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,1%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,6%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -251,7 +251,7 @@ A
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ## История
 
@@ -271,7 +271,7 @@ A
 
 Какой процент побед у героя «Бартс» сейчас?
 
-51,59% в Мифической славе за последние 7 дней и 51,67% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+51,59% в Мифической славе за последние 7 дней и 51,66% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Бартс»?
 

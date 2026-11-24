@@ -44,10 +44,10 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **52,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,8%**![](/images/ranks/Legend.webp)Легенда
+2.  **50,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **46,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **46,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -245,7 +245,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
 
 ### Слабые цели
 
@@ -267,11 +267,11 @@ C
 
 Кто контрпик для героя «Джонсон» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лейла, Зилонг, Сабер, Дариус и Валентина.
+За последние 30 дней чаще всего героя обыгрывают Лейла, Зилонг, Сабер, Валентина и Дариус.
 
 Какой процент побед у героя «Джонсон» сейчас?
 
-47,85% в Мифической славе за последние 7 дней и 49,25% на всех рангах за 30 дней, данные на 23 ноября 2026 года.
+47,85% в Мифической славе за последние 7 дней и 49,28% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
 
 Какая роль и линия у героя «Джонсон»?
 

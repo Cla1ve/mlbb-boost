@@ -9,7 +9,7 @@ language: en
 
 # MLBB tier list
 
-133 heroes · Updated 23 November
+133 heroes · Updated 24 November
 
 Find a hero
 
@@ -77,20 +77,20 @@ Mythical Glory, 7 days
 
 win rate, all ranks, pp against 30 days
 
-1.  [![](/images/heroes/aldous.webp)Aldous+2.0](https://boostmlbb.ru/en/heroes/aldous.html)
-2.  [![](/images/heroes/lunox.webp)Lunox+1.3](https://boostmlbb.ru/en/heroes/lunox.html)
-3.  [![](/images/heroes/xavier.webp)Xavier+1.2](https://boostmlbb.ru/en/heroes/xavier.html)
-4.  [![](/images/heroes/melissa.webp)Melissa+1.2](https://boostmlbb.ru/en/heroes/melissa.html)
+1.  [![](/images/heroes/aldous.webp)Aldous+1.9](https://boostmlbb.ru/en/heroes/aldous.html)
+2.  [![](/images/heroes/lunox.webp)Lunox+1.2](https://boostmlbb.ru/en/heroes/lunox.html)
+3.  [![](/images/heroes/xavier.webp)Xavier+1.1](https://boostmlbb.ru/en/heroes/xavier.html)
+4.  [![](/images/heroes/melissa.webp)Melissa+1.1](https://boostmlbb.ru/en/heroes/melissa.html)
 5.  [![](/images/heroes/freya.webp)Freya+1.0](https://boostmlbb.ru/en/heroes/freya.html)
 
 ### Falling this week
 
 win rate, all ranks, pp against 30 days
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa−2.5](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
-2.  [![](/images/heroes/gloo.webp)Gloo−2.0](https://boostmlbb.ru/en/heroes/gloo.html)
+1.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa−2.4](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+2.  [![](/images/heroes/gloo.webp)Gloo−1.9](https://boostmlbb.ru/en/heroes/gloo.html)
 3.  [![](/images/heroes/masha.webp)Masha−1.9](https://boostmlbb.ru/en/heroes/masha.html)
-4.  [![](/images/heroes/atlas.webp)Atlas−1.4](https://boostmlbb.ru/en/heroes/atlas.html)
+4.  [![](/images/heroes/atlas.webp)Atlas−1.3](https://boostmlbb.ru/en/heroes/atlas.html)
 5.  [![](/images/heroes/lukas.webp)Lukas−1.2](https://boostmlbb.ru/en/heroes/lukas.html)
 
 ## Best heroes by role
