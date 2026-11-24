@@ -285,6 +285,38 @@
     {
       "source": "/en/news/mlbb-collaborations",
       "destination": "/en/news/mlbb-collaborations/index.html"
+    },
+    {
+      "source": "/news/mlbb-emblems/",
+      "destination": "/news/mlbb-emblems/index.html"
+    },
+    {
+      "source": "/news/mlbb-emblems",
+      "destination": "/news/mlbb-emblems/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-emblems/",
+      "destination": "/en/news/mlbb-emblems/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-emblems",
+      "destination": "/en/news/mlbb-emblems/index.html"
+    },
+    {
+      "source": "/news/mlbb-not-working/",
+      "destination": "/news/mlbb-not-working/index.html"
+    },
+    {
+      "source": "/news/mlbb-not-working",
+      "destination": "/news/mlbb-not-working/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-not-working/",
+      "destination": "/en/news/mlbb-not-working/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-not-working",
+      "destination": "/en/news/mlbb-not-working/index.html"
     }
   ]
 }

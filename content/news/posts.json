@@ -11693,22 +11693,22 @@
       "editorialNote": "Список коллабораций и обликов сверен 24 ноября 2026 года по esports.gg (на 22 июня 2026 года) и официальным новостям MOONTON о «Губке Бобе», «Наруто» и Street Fighter 6. Сведения об «Аватаре» — по Pinoy Gamer и утечкам, официального анонса нет.",
       "categoryKey": "guides",
       "datePublished": "2026-11-24T07:12:13+03:00",
-      "dateModified": "2026-11-24T16:39:00+03:00",
+      "dateModified": "2026-11-24T17:37:30+03:00",
       "hero": {
         "src": "/images/news/mlbb-collaborations.jpg",
         "width": 1600,
         "height": 900,
         "webpSrcset": "/images/news/mlbb-collaborations-768.webp 768w, /images/news/mlbb-collaborations-1200.webp 1200w, /images/news/mlbb-collaborations-1600.webp 1600w",
-        "focalPoint": "55% 50%",
-        "cardFit": "cover",
-        "alt": "Персонажи коллабораций Mobile Legends на одной сцене: Наруто и Саске, Рю, Кен и Чун-Ли из Street Fighter, Губка Боб и Патрик",
-        "caption": "Иллюстрация Boost MLBB: сцена сгенерирована ИИ, персонажи — из официальных артов коллабораций MOONTON.",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Все коллаборации MLBB за 2019–2026: 14 коллабораций, 61 облик. Наруто, Саске, Кен, Рю, Чун-Ли, Губка Боб и Патрик",
+        "caption": "Обложка Boost MLBB. Фон создан в ImageGen, портреты обликов — игровые арты MOONTON.",
         "provenance": {
           "type": "generated",
-          "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
+          "creator": "OpenAI ImageGen + Boost MLBB",
           "created": "2026-11-24",
-          "prompt": "Realistic photo of a large esports arena stage at night from the audience: empty stage floor, giant curved LED screen in soft deep teal and navy (blank), warm spotlights, light haze, subtle confetti, darker left third; restrained colours, not neon; no people on stage, no text, no logos.",
-          "rights": "Stage generated for Boost MLBB; the characters are cut out without redrawing from official MOONTON collaboration key art (Naruto, Street Fighter 6, SpongeBob Friend Fest) and used for editorial illustration; partner trademarks belong to their owners."
+          "prompt": "Wide 16:9 background asset for a dark Mobile Legends fan-site article illustration, EMPTY surface only for a portrait gallery to be typeset separately. Design style is a restrained modern dark gaming dashboard: deep navy #091625 at the edges, slightly lighter slate-navy #132d44 in the central field, very soft cool petrol teal bloom at the central top and middle, a subtle evenly spaced hairline grid at low opacity. Gentle radial falloff. Flat camera, flat rectangular geometry, no texture except a tiny grain. Think hours of use in a well-designed statistics dashboard. The center has a clear broad unbroken slate-navy ground, no inset panels so the layout can add actual cards. Extremely restrained mint accent in the ambient bloom. NO characters, no objects, shapes, stars, letters, marks, interface widgets, logos, gold, burgundy, arena scene, or pattern other than the grid. Full bleed, 16:9.",
+          "rights": "Dashboard background generated for Boost MLBB. The seven existing MOONTON in-game skin portraits are presented as editorial illustrations. Game art and partner marks belong to their respective rights holders."
         }
       },
       "blocks": [
@@ -12529,8 +12529,8 @@
           ],
           "editorialNote": "The list of collaborations and skins was checked on 24 November 2026 against esports.gg (as of 22 June 2026) and official MOONTON news on SpongeBob, Naruto and Street Fighter 6. Avatar details come from Pinoy Gamer and leaks; there is no official announcement.",
           "hero": {
-            "alt": "Mobile Legends collaboration characters on one stage: Naruto and Sasuke, Ryu, Ken and Chun-Li from Street Fighter, SpongeBob and Patrick",
-            "caption": "Boost MLBB illustration: AI-generated stage, characters from official MOONTON collaboration key art.",
+            "alt": "All MLBB collaborations from 2019 to 2026: 14 collaborations and 61 skins. Sasuke, Naruto, Ken, Ryu, Chun-Li, SpongeBob and Patrick",
+            "caption": "Boost MLBB cover. ImageGen background with MOONTON’s in-game skin portraits.",
             "src": "/images/news/mlbb-collaborations-en.jpg",
             "webpSrcset": "/images/news/mlbb-collaborations-en-768.webp 768w, /images/news/mlbb-collaborations-en-1200.webp 1200w, /images/news/mlbb-collaborations-en-1600.webp 1600w"
           },
@@ -13306,6 +13306,1032 @@
           ]
         }
       }
+    },
+    {
+      "slug": "mlbb-not-working",
+      "status": "published",
+      "title": "Mobile Legends не работает: что делать, если игра не запускается или лагает",
+      "seoTitle": "Mobile Legends не работает: запуск, ошибка сети и пинг",
+      "description": "Mobile Legends не заходит в игру, зависает на загрузке или лагает? Проверьте обновление, сравните Wi‑Fi с мобильной сетью и найдите причину по симптому.",
+      "excerpt": "Что проверить, если MLBB вылетает, зависает на заставке, показывает ошибку сети или лагает в матче. Шаги для Android и iPhone.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Mobile Legends",
+        "Ошибка сети",
+        "Пинг",
+        "Android",
+        "iPhone"
+      ],
+      "datePublished": "2026-11-24T17:37:30+03:00",
+      "dateModified": "2026-11-24T17:44:24+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-not-working.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-not-working-768.webp 768w, /images/news/mlbb-not-working-1200.webp 1200w, /images/news/mlbb-not-working-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Герой MLBB и два подлинных кадра матча из ролика MOONTON об оптимизации сети.",
+        "caption": "Кадры из официального ролика MOONTON Network Optimization. Иллюстрация к гайду.",
+        "provenance": {
+          "type": "generated",
+          "creator": "Boost MLBB + OpenAI ImageGen",
+          "created": "2026-11-24",
+          "rights": "ImageGen dashboard backdrop and Boost MLBB typesetting. The game imagery is an editorial excerpt from MOONTON’s official Network Optimization video poster (Nug06UsfdIE).",
+          "prompt": "Wide 16:9 background asset for a dark Mobile Legends fan-site article illustration, EMPTY surface only for a portrait gallery to be typeset separately. Design style is a restrained modern dark gaming dashboard: deep navy #091625 at the edges, slightly lighter slate-navy #132d44 in the central field, very soft cool petrol teal bloom at the central top and middle, a subtle evenly spaced hairline grid at low opacity. Gentle radial falloff. Flat camera, flat rectangular geometry, no texture except a tiny grain. Think hours of use in a well-designed statistics dashboard. The center has a clear broad unbroken slate-navy ground, no inset panels so the layout can add actual cards. Extremely restrained mint accent in the ambient bloom. NO characters, no objects, shapes, stars, letters, marks, interface widgets, logos, gold, burgundy, arena scene, or pattern other than the grid. Full bleed, 16:9."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Не грузится или выдаёт ошибку сети — закройте игру и попробуйте войти через другое подключение. Сравните Wi‑Fi и мобильные данные на том же телефоне.",
+            "Вылетает до лобби — перезагрузите телефон, проверьте обновление игры и свободное место. На Android можно начать с очистки кеша.",
+            "В лобби всё нормально, а в матче лагает — сравните пинг и плавность картинки в тренировке. Сохраните вход в аккаунт до удаления игры или её данных."
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "first-check",
+          "text": "С чего начать"
+        },
+        {
+          "type": "table",
+          "caption": "Что происходит и куда смотреть",
+          "headers": [
+            "Симптом",
+            "Первая проверка"
+          ],
+          "rows": [
+            [
+              "Закрывается сразу после запуска",
+              "Перезапустите телефон. Откройте страницу игры в магазине и проверьте, есть ли обновление."
+            ],
+            [
+              "Зависло на заставке или пишет «Ошибка сети»",
+              "Откройте игру по очереди через Wi‑Fi и мобильные данные."
+            ],
+            [
+              "Игра открылась, но аккаунт не входит",
+              "Проверьте, каким способом привязан аккаунт. Зафиксируйте точный текст ошибки."
+            ],
+            [
+              "Лагает только в матче",
+              "Проверьте пинг и плавность картинки в тренировочном режиме."
+            ],
+            [
+              "Загрузка обновления стоит на месте",
+              "Если полоса в магазине — проверьте сеть и место на телефоне. Если внутри игры — закройте её и смените подключение."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "network-error",
+          "text": "Ошибка сети, вечная загрузка или игра не заходит в России"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Полностью закройте MLBB. Проверьте, открывается ли обычный сайт на текущем подключении. Если не открывается и он, начните с проверки самого подключения.",
+            "Переключитесь с Wi‑Fi на мобильные данные или наоборот и снова откройте игру. Для чистого сравнения меняйте только сеть. Если уже включён VPN, прокси или фильтр DNS, проверяйте его влияние отдельной попыткой.",
+            "Сравните результат. Если игра работает только на одном подключении, запишите, какое из них даёт ошибку. Если на обоих одинаковый сбой, проверьте обновление и узнайте, воспроизводится ли ошибка у другого игрока с другой сетью.",
+            "Если игра пишет о недоступности в регионе, выясните, кто показывает сообщение: магазин приложений или сама MLBB. Сохраните точный текст. Сообщение магазина об установке и ошибка подключения к матчу требуют разных проверок."
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Как понять, что сбой массовый",
+          "text": "Одинаковая ошибка у нескольких игроков на разных сетях и устройствах — повод проверить объявления игры. Жалобы помогают заметить всплеск. Для уверенного вывода о причине нужно сообщение MOONTON. Один случай или один отчёт детектора мало что говорит."
+        },
+        {
+          "type": "linkCard",
+          "label": "Объявления игры",
+          "title": "Новости Mobile Legends",
+          "description": "Проверьте, сообщала ли MOONTON о работах или обновлении.",
+          "href": "https://www.mobilelegends.com/news/"
+        },
+        {
+          "type": "heading",
+          "id": "android-iphone",
+          "text": "Что делать на Android и iPhone, если игра вылетает"
+        },
+        {
+          "type": "paragraph",
+          "text": "На Android откройте системные настройки, найдите Mobile Legends в списке приложений и зайдите в хранилище. Выберите «Очистить кеш». Названия пунктов зависят от телефона. «Очистить данные» и «Очистить хранилище» стирают локальные данные приложения, включая настройки и сохранённый вход. Оставьте эти действия на потом, когда убедитесь, что можете снова войти."
+        },
+        {
+          "type": "paragraph",
+          "text": "На iPhone закройте игру, перезапустите устройство и проверьте обновления в App Store. Если зависло обновление в магазине, проверьте свободное место и инструкции Apple. Удаляйте игру для переустановки только после того, как сохранили доступ к привязанному аккаунту."
+        },
+        {
+          "type": "linkCard",
+          "label": "App Store",
+          "title": "Проверки Apple для загрузки и обновления",
+          "description": "Официальная инструкция для iPhone и iPad.",
+          "href": "https://support.apple.com/ru-ru/102632"
+        },
+        {
+          "type": "linkCard",
+          "label": "Если дело во входе",
+          "title": "Как привязать или восстановить аккаунт",
+          "description": "Проверьте способ входа, прежде чем стирать приложение.",
+          "href": "https://boostmlbb.ru/news/mlbb-account-bind-recover/"
+        },
+        {
+          "type": "heading",
+          "id": "match-lag",
+          "text": "Как отличить высокий пинг от просадки FPS"
+        },
+        {
+          "type": "table",
+          "caption": "Признаки сетевого лага и просадки кадров",
+          "headers": [
+            "Что видно в матче",
+            "Что попробовать в тренировке"
+          ],
+          "rows": [
+            [
+              "Герой реагирует с задержкой, прыгает по карте или игра переподключается",
+              "Сравните показания пинга на двух сетях. Поставьте параллельные скачивания и обновления на паузу."
+            ],
+            [
+              "Картинка дёргается, телефон нагревается, пинг остаётся стабильным",
+              "Снизьте графику или частоту кадров на одну ступень. Сравните результат в похожей сцене."
+            ],
+            [
+              "Сбои появляются только при игре с определённой пати",
+              "Сравните соло и пати, сохранив устройство и подключение. Если проблема повторяется, сохраните ID матча."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Если в вашей версии есть проверка сети в настройках, выполните её из лобби. Проверку повторите при той же сети непосредственно перед матчем. Включайте сетевое ускорение только как отдельный тест и сравнивайте результат: в зависимости от режима оно может расходовать мобильный трафик."
+        },
+        {
+          "type": "heading",
+          "id": "support",
+          "text": "Что отправить в поддержку MOONTON"
+        },
+        {
+          "type": "paragraph",
+          "text": "Если лобби открывается, воспользуйтесь внутриигровой поддержкой. Если игра не даёт в неё зайти, в карточке издателя указан адрес mobilelegendsgame@moonton.com. Отправьте время с часовым поясом, точный текст ошибки, модель телефона, версию игры и результаты проверки на двух сетях. Если сбой был в матче, приложите его ID. Пароль и одноразовый код не нужны."
+        },
+        {
+          "type": "linkCard",
+          "label": "Контакты издателя",
+          "title": "Mobile Legends в App Store",
+          "description": "Контакт поддержки указан в описании игры.",
+          "href": "https://apps.apple.com/ru/app/mobile-legends-bang-bang/id1160056295"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Почему другие сайты открываются, а MLBB зависает?",
+              "a": "Сайты и игра обращаются к разным серверам. Проверьте ту же игру через вторую сеть, чтобы понять, зависит ли сбой от подключения."
+            },
+            {
+              "q": "Очистка кеша удалит аккаунт?",
+              "a": "На Android очистка кеша убирает временные файлы. Очистка данных или удаление приложения сбрасывает локальный вход. Сначала проверьте привязку, особенно если играли гостем."
+            },
+            {
+              "q": "Почему высокий пинг только в пати?",
+              "a": "Сравните соло и пати на том же телефоне и подключении. Если проблема повторяется, отправьте поддержке время и ID матча. По одному такому случаю причину определить сложно."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "id": "rank-up",
+          "eyebrow": "BOOST MLBB",
+          "title": "Сколько стоит поднять ранг",
+          "text": "Выберите старт и цель, чтобы узнать цену подъёма.",
+          "button": "Посчитать стоимость",
+          "note": "Расчёт без оплаты.",
+          "href": "/order.html?type=standard",
+          "position": "after-faq"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Как устранить неполадки в работе приложения Android",
+          "publisher": "Google",
+          "url": "https://support.google.com/googleplay/answer/2668665?hl=ru",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Если приложение на iPhone не открывается",
+          "publisher": "Apple",
+          "url": "https://support.apple.com/ru-ru/119876",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Если приложение на iPhone не скачивается или не обновляется",
+          "publisher": "Apple",
+          "url": "https://support.apple.com/ru-ru/102632",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Mobile Legends: Bang Bang в App Store — контакты поддержки",
+          "publisher": "MOONTON, App Store",
+          "url": "https://apps.apple.com/ru/app/mobile-legends-bang-bang/id1160056295",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Network Optimization — сетевые проблемы Mobile Legends",
+          "publisher": "MOONTON",
+          "url": "https://www.youtube.com/watch?v=Nug06UsfdIE",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "editorialNote": "Рекомендации сверены 24 ноября 2026 года с инструкциями Google и Apple и материалами MOONTON. Это руководство по диагностике, статус серверов в реальном времени не отслеживается.",
+      "translations": {
+        "en": {
+          "title": "Mobile Legends not working? Fix launch, connection and lag issues",
+          "seoTitle": "Mobile Legends Not Working? Fix Loading, Connection and Lag",
+          "description": "Is Mobile Legends crashing, stuck on the loading screen or lagging in matches? Diagnose the issue on Android or iPhone and find the safest next step.",
+          "excerpt": "Find the fix for your symptom, whether MLBB crashes at launch, gets stuck on the loading screen, shows a network error or lags in matches.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Network errors",
+            "Ping",
+            "Android",
+            "iPhone"
+          ],
+          "editorialNote": "Checked on 24 November 2026 against Google and Apple support and MOONTON material. This troubleshooting guide does not monitor live server status.",
+          "hero": {
+            "alt": "An MLBB hero and two game frames from MOONTON’s Network Optimization video.",
+            "caption": "Game imagery from MOONTON’s official Network Optimization video.",
+            "src": "/images/news/mlbb-not-working-en.jpg",
+            "webpSrcset": "/images/news/mlbb-not-working-en-768.webp 768w, /images/news/mlbb-not-working-en-1200.webp 1200w, /images/news/mlbb-not-working-en-1600.webp 1600w"
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "Stuck loading or seeing a network error? Close the game and retry on a different connection. Compare Wi‑Fi and mobile data on the same phone.",
+                "Crashing before the lobby? Restart your phone, check for updates and make sure you have space. On Android, start by clearing the cache.",
+                "Lobby works but matches lag? Compare ping and frame smoothness in Practice mode. Make sure you can sign back in before deleting the app or clearing its data."
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "first-check",
+              "text": "What to check first"
+            },
+            {
+              "type": "table",
+              "caption": "Match the symptom to the first check",
+              "headers": [
+                "Symptom",
+                "First check"
+              ],
+              "rows": [
+                [
+                  "Closes immediately at launch",
+                  "Restart the phone. Open the game in your app store and check for an update."
+                ],
+                [
+                  "Stuck on the splash screen or showing a network error",
+                  "Try launching once on Wi‑Fi and once on mobile data."
+                ],
+                [
+                  "Game opens but the account won’t sign in",
+                  "Check which sign-in method you linked and record the exact error message."
+                ],
+                [
+                  "Only matches lag",
+                  "Check ping and frame smoothness in Practice mode."
+                ],
+                [
+                  "Update download stalls",
+                  "In the app store, check the connection and storage. If the download is inside the game, close it and try a different connection."
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "network-error",
+              "text": "Network errors, endless loading and regional access"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Close MLBB fully. Check whether a normal website loads on the same connection. If that fails too, troubleshoot the connection itself first.",
+                "Switch between Wi‑Fi and mobile data and reopen the game. Change only the connection for this comparison. If you already use a VPN, proxy or DNS filter, test its effect in a separate attempt.",
+                "Compare the results. If MLBB works on only one connection, record which one fails. If both fail the same way, check for an update and see whether another player on a different network gets the same error.",
+                "If you see a region availability warning, check whether it comes from your app store or from MLBB. Save the exact message. A store installation warning and a failure to connect to a match need different checks."
+              ]
+            },
+            {
+              "type": "callout",
+              "label": "How to spot a wider outage",
+              "text": "If several players on different devices and networks report the same error, check the game’s announcements. Reports can reveal a spike. Look for a MOONTON statement before attributing it to a specific cause."
+            },
+            {
+              "type": "linkCard",
+              "label": "Game announcements",
+              "title": "Mobile Legends news",
+              "description": "Check whether MOONTON has announced maintenance or an update.",
+              "href": "https://www.mobilelegends.com/news/"
+            },
+            {
+              "type": "heading",
+              "id": "android-iphone",
+              "text": "What to do if the app crashes on Android or iPhone"
+            },
+            {
+              "type": "paragraph",
+              "text": "On Android, open system settings, find Mobile Legends in the app list and open its storage settings. Choose Clear cache. Menu labels vary by device. Clear data and Clear storage erase local app data, including settings and saved sign-in state. Save those for later, once you know you can sign back in."
+            },
+            {
+              "type": "paragraph",
+              "text": "On iPhone, close the game, restart the device and check the App Store for updates. If the store download stalls, check free space and Apple’s troubleshooting steps. Delete the app for a reinstall only after confirming access to the linked account."
+            },
+            {
+              "type": "linkCard",
+              "label": "App Store",
+              "title": "Apple’s download and update checks",
+              "description": "Official steps for iPhone and iPad.",
+              "href": "https://support.apple.com/ru-ru/102632"
+            },
+            {
+              "type": "linkCard",
+              "label": "If sign-in is the issue",
+              "title": "Bind or recover your MLBB account",
+              "description": "Check your sign-in method before deleting the app.",
+              "href": "https://boostmlbb.ru/news/mlbb-account-bind-recover/"
+            },
+            {
+              "type": "heading",
+              "id": "match-lag",
+              "text": "How to tell high ping from low FPS"
+            },
+            {
+              "type": "table",
+              "caption": "Signs of network lag and frame drops",
+              "headers": [
+                "In-match symptom",
+                "What to try in Practice mode"
+              ],
+              "rows": [
+                [
+                  "Inputs arrive late, the hero jumps across the map or the game reconnects",
+                  "Compare ping on both networks. Pause other downloads and updates."
+                ],
+                [
+                  "The picture stutters, the phone heats up and ping stays stable",
+                  "Lower graphics quality or the frame-rate setting by one step. Compare in a similar scene."
+                ],
+                [
+                  "Problems only occur with a particular party",
+                  "Compare solo and party play on the same device and connection. If it repeats, save the match ID."
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "If your version offers a network test in Settings, run it from the lobby. Repeat it on the same connection just before a match. Test any network-boost option separately and compare results. Depending on the mode, it may use mobile data."
+            },
+            {
+              "type": "heading",
+              "id": "support",
+              "text": "What to send to MOONTON support"
+            },
+            {
+              "type": "paragraph",
+              "text": "Use in-game support if you can open the lobby. If you cannot reach it, the publisher lists mobilelegendsgame@moonton.com. Include the time and time zone, exact error, phone model, game version and what happened on each connection. If it happened in a match, include the match ID. Leave out your password and verification codes."
+            },
+            {
+              "type": "linkCard",
+              "label": "Publisher contact",
+              "title": "Mobile Legends on the App Store",
+              "description": "Find the support address in the game listing.",
+              "href": "https://apps.apple.com/ru/app/mobile-legends-bang-bang/id1160056295"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Why do other sites work while MLBB gets stuck?",
+                  "a": "Sites and games connect to different servers. Try MLBB on a second connection to see whether the issue depends on the network."
+                },
+                {
+                  "q": "Does clearing the cache delete my account?",
+                  "a": "On Android, clearing cache removes temporary files. Clearing app data or uninstalling resets local sign-in. Check your account link first, especially if you played as a guest."
+                },
+                {
+                  "q": "Why is my ping high only in a party?",
+                  "a": "Compare solo and party play on the same phone and connection. If it repeats, send support the time and match ID. A single match rarely reveals the cause."
+                }
+              ]
+            },
+            {
+              "type": "cta",
+              "id": "rank-up",
+              "eyebrow": "BOOST MLBB",
+              "title": "Check your rank-up price",
+              "text": "Choose your start and target ranks to see the price.",
+              "button": "Calculate price",
+              "note": "Free estimate.",
+              "href": "/order.html?type=standard",
+              "position": "after-faq"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "mlbb-emblems",
+      "status": "published",
+      "title": "Эмблемы и таланты в Mobile Legends: что качать и как выбрать набор",
+      "seoTitle": "Эмблемы MLBB: что качать и какие таланты выбирать",
+      "description": "Все 7 эмблем в Mobile Legends, что прокачивать первым и какие таланты ставить. Примеры для леса, мида, роума, линий золота и опыта по данным 133 героев.",
+      "excerpt": "Как потратить фрагменты с пользой, какую эмблему взять на свою линию и как подбирать три таланта. Примеры для Мии, Нолана, Вексаны, Тигрила и других героев.",
+      "category": "Гайды",
+      "categoryKey": "guides",
+      "tags": [
+        "Эмблемы",
+        "Таланты",
+        "Сборки",
+        "Гайды MLBB"
+      ],
+      "datePublished": "2026-11-24T17:37:30+03:00",
+      "dateModified": "2026-11-24T17:42:53+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-emblems.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-emblems-768.webp 768w, /images/news/mlbb-emblems-1200.webp 1200w, /images/news/mlbb-emblems-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "contain",
+        "alt": "Эмблема убийцы и три таланта Нолана: Трепет, Опытный охотник и Нечестивая ярость. Справа официальный портрет Нолана.",
+        "caption": "Портрет Нолана и иконки — материалы MOONTON. Сборка из снимка «Академии» на 23 ноября 2026 года.",
+        "provenance": {
+          "type": "generated",
+          "creator": "Boost MLBB + OpenAI ImageGen",
+          "created": "2026-11-24",
+          "rights": "ImageGen dashboard backdrop and Boost MLBB typesetting. Official Nolan portrait and in-game emblem and talent icons by MOONTON are shown as editorial illustration.",
+          "prompt": "Wide 16:9 background asset for a dark Mobile Legends fan-site article illustration, EMPTY surface only for a portrait gallery to be typeset separately. Design style is a restrained modern dark gaming dashboard: deep navy #091625 at the edges, slightly lighter slate-navy #132d44 in the central field, very soft cool petrol teal bloom at the central top and middle, a subtle evenly spaced hairline grid at low opacity. Gentle radial falloff. Flat camera, flat rectangular geometry, no texture except a tiny grain. Think hours of use in a well-designed statistics dashboard. The center has a clear broad unbroken slate-navy ground, no inset panels so the layout can add actual cards. Extremely restrained mint accent in the ambient bloom. NO characters, no objects, shapes, stars, letters, marks, interface widgets, logos, gold, burgundy, arena scene, or pattern other than the grid. Full bleed, 16:9."
+        }
+      },
+      "editorialNote": "Механика из руководств Google Play и MOONTON. Показатели на 23 ноября 2026 года рассчитаны по выгрузке «Академии» из Rone Arena API.",
+      "sources": [
+        {
+          "title": "Настройка и улучшение героев в Mobile Legends",
+          "publisher": "Google Play",
+          "url": "https://play.google.com/store/apps/editorial?hl=ru&id=mc_editorialevergreen_post_install_mobile_hero_customization_fcp",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Revamped Emblems — руководство по системе эмблем",
+          "publisher": "MOONTON",
+          "url": "https://www.youtube.com/watch?v=LKPh9IFh7CM",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Rone Arena API — данные внутриигровой «Академии»",
+          "publisher": "Rone Arena (ridwaanhall / RoneAI)",
+          "url": "https://arena.rone.dev/api/docs",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Русские названия эмблем и талантов",
+          "publisher": "Esports.ru",
+          "url": "https://esports.ru/mobile-legends/wiki/vse-emblemy-mobile-legends-bang-bang-nabory-i-talanty/",
+          "accessed": "2026-11-24"
+        },
+        {
+          "publisher": "MOONTON",
+          "title": "Официальная страница Нолана и игровой портрет",
+          "url": "https://www.mobilelegends.com/hero/detail?heroid=122",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Mobile Legends emblems and talents: what to upgrade and how to choose",
+          "seoTitle": "MLBB Emblems and Talents: What to Upgrade First",
+          "description": "Learn what all 7 Mobile Legends emblems do, which one to upgrade first, and how to pick talents. Ranked build examples from a 133-hero snapshot.",
+          "excerpt": "Spend fragments where they help, match the emblem to your lane and choose three talents. See examples for Miya, Nolan, Vexana, Tigreal and more.",
+          "category": "Guides",
+          "tags": [
+            "Emblems",
+            "Talents",
+            "Builds",
+            "MLBB guides"
+          ],
+          "editorialNote": "Emblem mechanics follow Google Play and MOONTON guides. The 23 November 2026 snapshot is calculated from in-game Academy data provided by Rone Arena API.",
+          "hero": {
+            "alt": "Nolan’s Assassin Emblem and three talents: Thrill, Seasoned Hunter and Impure Rage. Official Nolan portrait on the right.",
+            "caption": "Nolan portrait and icons by MOONTON. Build from the 23 November 2026 Academy snapshot.",
+            "src": "/images/news/mlbb-emblems-en.jpg",
+            "webpSrcset": "/images/news/mlbb-emblems-en-768.webp 768w, /images/news/mlbb-emblems-en-1200.webp 1200w, /images/news/mlbb-emblems-en-1600.webp 1600w"
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "The Common Emblem is enough to start. Once you have a main hero pool, upgrade the set you use most often on those heroes.",
+                "Assassin is a first candidate for junglers and burst heroes. Start with Mage for mid and choose between Tank and Support for roam.",
+                "One emblem provides base stats. You also select 3 talents, one from each row. Once unlocked, talents can be used with other emblems."
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "upgrade-first",
+              "text": "Which emblem should you upgrade first?"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Pick the heroes you play most and inspect their emblems in Preparation or on their hero pages. If several benefit from the same base stats, put your shared resources there.",
+                "Use the Common Emblem while trying different roles. Unlock talents in other sets as you settle on your main heroes.",
+                "Spend set-specific fragments on their matching set. Use shared Magic Dust to unlock a talent you need or to strengthen an emblem you equip regularly.",
+                "Check the emblem screen before upgrading. It shows what the next level adds and where the talent you want unlocks. Use that to decide whether to max one set or invest in another."
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "sets",
+              "text": "All 7 emblems and what each is for"
+            },
+            {
+              "type": "table",
+              "caption": "Emblem sets and typical uses",
+              "headers": [
+                "Emblem",
+                "When to use it"
+              ],
+              "rows": [
+                [
+                  "Common",
+                  "For resource regeneration, extra health and a flexible starting point."
+                ],
+                [
+                  "Assassin",
+                  "For penetration and mobility. It can also suit magic-damage heroes who rely on a short burst combo."
+                ],
+                [
+                  "Mage",
+                  "When the build relies on magic power, magic penetration and shorter skill cooldowns."
+                ],
+                [
+                  "Fighter",
+                  "For extended trades on skill-based heroes who benefit from spell vamp."
+                ],
+                [
+                  "Tank",
+                  "When you take the first hit and need health and hybrid defense."
+                ],
+                [
+                  "Support",
+                  "When the hero heals or protects allies and benefits from cooldown reduction."
+                ],
+                [
+                  "Marksman",
+                  "When frequent basic attacks deliver most of your damage and you need attack speed."
+                ]
+              ],
+              "visuals": true
+            },
+            {
+              "type": "heading",
+              "id": "talents",
+              "text": "How to choose three talents for your hero"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "In the first row, pick a stat that fits how the hero attacks. Swift helps when you need attack speed. Rupture helps when you need penetration.",
+                "In the second row, choose an effect for the job you do. Seasoned Hunter helps a jungler contest neutral objectives. Wilderness Blessing suits roamers who spend time in the river and jungle.",
+                "In the third row, read the trigger. Lethal Ignition suits quick burst combos. Focusing Mark fits heroes who regularly tag a target for teammates to follow up on."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Open Preparation from the lobby and inspect your available emblems and talents. Save the build on the hero you plan to play and check it before the match. If a talent is greyed out, open its card to see the unlock requirement."
+            },
+            {
+              "type": "heading",
+              "id": "examples",
+              "text": "Build examples for all five lanes"
+            },
+            {
+              "type": "table",
+              "caption": "Emblems and talents from builds on 23 November 2026",
+              "headers": [
+                "Lane",
+                "Hero",
+                "Emblem",
+                "Talents in order"
+              ],
+              "rows": [
+                [
+                  "Jungle",
+                  "Nolan",
+                  "Assassin",
+                  "Thrill, Seasoned Hunter, Impure Rage"
+                ],
+                [
+                  "Mid Lane",
+                  "Vexana",
+                  "Mage",
+                  "Rupture, Wilderness Blessing, Impure Rage"
+                ],
+                [
+                  "Mid Lane",
+                  "Eudora",
+                  "Assassin",
+                  "Rupture, Wilderness Blessing, Lethal Ignition"
+                ],
+                [
+                  "Roam",
+                  "Tigreal",
+                  "Tank",
+                  "Agility, Pull Yourself Together, Concussive Blast"
+                ],
+                [
+                  "Roam",
+                  "Angela",
+                  "Support",
+                  "Inspire, Bargain Hunter, Focusing Mark"
+                ],
+                [
+                  "Gold Lane",
+                  "Miya",
+                  "Marksman",
+                  "Fatal, Bargain Hunter, Quantum Charge"
+                ],
+                [
+                  "Gold Lane",
+                  "Clint",
+                  "Assassin",
+                  "Rupture, Weapons Master, Quantum Charge"
+                ],
+                [
+                  "EXP Lane",
+                  "Masha",
+                  "Tank",
+                  "Swift, Wilderness Blessing, War Cry"
+                ]
+              ],
+              "visuals": true
+            },
+            {
+              "type": "paragraph",
+              "text": "Eudora and Vexana share a lane, but their examples serve different goals. Try penetration and burst on Eudora first. For Vexana, a Mage Emblem and more frequent skill use are a starting point. Miya can benefit from stronger basic attacks, while Clint is worth testing with penetration."
+            },
+            {
+              "type": "heading",
+              "id": "ranked-snapshot",
+              "text": "Which emblems show up most often in builds?"
+            },
+            {
+              "type": "table",
+              "caption": "Breakdown across 133 heroes on 23 November 2026",
+              "headers": [
+                "Emblem",
+                "Heroes"
+              ],
+              "rows": [
+                [
+                  "Assassin",
+                  "37"
+                ],
+                [
+                  "Mage",
+                  "27"
+                ],
+                [
+                  "Fighter",
+                  "19"
+                ],
+                [
+                  "Tank",
+                  "18"
+                ],
+                [
+                  "Support",
+                  "17"
+                ],
+                [
+                  "Marksman",
+                  "10"
+                ],
+                [
+                  "Common",
+                  "5"
+                ]
+              ],
+              "visuals": true
+            },
+            {
+              "type": "paragraph",
+              "text": "We count one ranked build per hero on their primary lane. From the Academy choices supplied by Rone Arena, we use the most picked build within 12 percentage points of the best win rate among the available builds. The counts show how many heroes used the emblem in the selected builds. Match-level pick rates and impact on wins require separate data."
+            },
+            {
+              "type": "linkCard",
+              "label": "Find your hero",
+              "title": "Mobile Legends hero builds",
+              "description": "Emblem, talents, core items and spell in one place.",
+              "href": "https://boostmlbb.ru/news/mlbb-builds-2026/"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "Frequently asked questions",
+              "items": [
+                {
+                  "q": "Which emblem is the most versatile?",
+                  "a": "Common is a handy starting set for regeneration and health. Once you have main heroes, look for the stats that help them do their job."
+                },
+                {
+                  "q": "Can I use a Mage talent with the Assassin Emblem?",
+                  "a": "Yes, if you’ve unlocked it. The equipped emblem supplies the base stats. Talents are selected separately, one per row."
+                },
+                {
+                  "q": "Why do players use different emblems on the same hero?",
+                  "a": "They may play different lanes, buy different items or prioritize different stats. Compare builds on the same lane and check when each talent triggers in your setup."
+                }
+              ]
+            },
+            {
+              "type": "cta",
+              "id": "rank-up",
+              "eyebrow": "BOOST MLBB",
+              "title": "Check your rank-up price",
+              "text": "Choose your current and target ranks to see the price.",
+              "button": "Calculate price",
+              "note": "Free estimate.",
+              "href": "/order.html?type=standard",
+              "position": "after-faq"
+            }
+          ]
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Для старта хватит Обычной эмблемы. Когда выбрали основных героев, качайте набор, который ставите им чаще всего.",
+            "Для леса и героев с быстрым комбо начните с эмблемы убийцы. На миде попробуйте мага, для роума выберите между танком и поддержкой.",
+            "Один набор даёт базовые характеристики. Отдельно выбираются 3 таланта, по одному из каждого ряда. Уже открытые таланты можно сочетать с другой эмблемой."
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "upgrade-first",
+          "text": "Какую эмблему качать первой"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Выберите героев, на которых играете чаще всего, и посмотрите их эмблемы в «Подготовке» или в профилях героев. Если большинство получает пользу от одной основы, направьте общие ресурсы в неё.",
+            "Если пока пробуете разные роли, используйте Обычную эмблему. Откройте нужные таланты на остальных наборах по мере того, как появятся основные герои.",
+            "Тратьте именные фрагменты на соответствующий набор. Общую магическую пыль используйте там, где она открывает нужный талант или усиливает эмблему, которую вы регулярно ставите.",
+            "Перед улучшением откройте экран эмблемы. На нём видно, что даст следующий уровень и где открывается нужный талант. Так проще решить, доводить ли один набор до максимума или вложиться во второй."
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "sets",
+          "text": "Все 7 эмблем и для чего они нужны"
+        },
+        {
+          "type": "table",
+          "caption": "Эмблемы и их применение",
+          "headers": [
+            "Набор",
+            "Когда брать"
+          ],
+          "rows": [
+            [
+              "Обычная эмблема",
+              "Когда нужны восстановление ресурсов, запас здоровья и универсальный старт."
+            ],
+            [
+              "Эмблема убийцы",
+              "Когда важны проникновение и подвижность. Подходит и героям с магическим уроном, которые играют от короткого комбо."
+            ],
+            [
+              "Эмблема мага",
+              "Когда сборка опирается на магическую силу, магическое проникновение и перезарядку навыков."
+            ],
+            [
+              "Эмблема бойца",
+              "Для активных разменов, если герой часто наносит урон навыками и получает пользу от вампиризма заклинаний."
+            ],
+            [
+              "Эмблема танка",
+              "Когда вы принимаете первый удар и вам нужны здоровье и гибридная защита."
+            ],
+            [
+              "Эмблема поддержки",
+              "Когда герой лечит или защищает союзников и ценит сокращение перезарядки."
+            ],
+            [
+              "Эмблема стрелка",
+              "Когда основной урон идёт от частых базовых атак и нужна скорость атаки."
+            ]
+          ],
+          "visuals": true
+        },
+        {
+          "type": "heading",
+          "id": "talents",
+          "text": "Как собрать три таланта под героя"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "В первом ряду возьмите характеристику под способ атаки героя. «Проворность» подходит, когда нужна скорость атаки, «Разрыв» — когда нужно проникновение.",
+            "Во втором ряду выберите эффект под задачу линии. Леснику пригодится «Опытный охотник» для нейтральных целей. Роумеру, который много перемещается по реке и лесу, — «Благословение природы».",
+            "В третьем ряду проверьте условие срабатывания. «Смертельное воспламенение» подходит под быстрый прокаст. «Фокус-метка» уместна, если вы регулярно бьёте цель перед тем, как её добивает команда."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Откройте «Подготовку» в лобби, найдите эмблемы и посмотрите доступные наборы и таланты. Саму сборку сохраните на нужном герое и проверьте её перед матчем. Если талант серый, посмотрите условие разблокировки на его карточке."
+        },
+        {
+          "type": "heading",
+          "id": "examples",
+          "text": "Примеры для пяти линий"
+        },
+        {
+          "type": "table",
+          "caption": "Эмблемы и таланты из сборок на 23 ноября 2026 года",
+          "headers": [
+            "Линия",
+            "Герой",
+            "Эмблема",
+            "Таланты по рядам"
+          ],
+          "rows": [
+            [
+              "Лес",
+              "Нолан",
+              "Эмблема убийцы",
+              "Трепет, Опытный охотник, Нечестивая ярость"
+            ],
+            [
+              "Средняя линия",
+              "Вексана",
+              "Эмблема мага",
+              "Разрыв, Благословение природы, Нечестивая ярость"
+            ],
+            [
+              "Средняя линия",
+              "Эйдора",
+              "Эмблема убийцы",
+              "Разрыв, Благословение природы, Смертельное воспламенение"
+            ],
+            [
+              "Роум",
+              "Тигрил",
+              "Эмблема танка",
+              "Ловкость, Второе дыхание, Ударная волна"
+            ],
+            [
+              "Роум",
+              "Ангела",
+              "Эмблема поддержки",
+              "Вдохновение, Охотник за скидками, Фокус-метка"
+            ],
+            [
+              "Линия золота",
+              "Мия",
+              "Эмблема стрелка",
+              "Фатальность, Охотник за скидками, Квантовый заряд"
+            ],
+            [
+              "Линия золота",
+              "Клинт",
+              "Эмблема убийцы",
+              "Разрыв, Мастер оружий, Квантовый заряд"
+            ],
+            [
+              "Линия опыта",
+              "Маша",
+              "Эмблема танка",
+              "Проворность, Благословение природы, Боевой клич"
+            ]
+          ],
+          "visuals": true
+        },
+        {
+          "type": "paragraph",
+          "text": "Эйдора и Вексана играют на одной линии, но их примеры решают разные задачи. Эйдоре проще проверить сборку с проникновением и уроном за один прокаст. У Вексаны отправная точка — эмблема мага и более частое применение навыков. Точно так же Мия выигрывает от усиления автоатак, а Клинта стоит проверить с проникновением."
+        },
+        {
+          "type": "heading",
+          "id": "ranked-snapshot",
+          "text": "Какие эмблемы чаще встречаются в сборках"
+        },
+        {
+          "type": "table",
+          "caption": "Распределение по 133 героям на 23 ноября 2026 года",
+          "headers": [
+            "Эмблема",
+            "Героев"
+          ],
+          "rows": [
+            [
+              "Эмблема убийцы",
+              "37"
+            ],
+            [
+              "Эмблема мага",
+              "27"
+            ],
+            [
+              "Эмблема бойца",
+              "19"
+            ],
+            [
+              "Эмблема танка",
+              "18"
+            ],
+            [
+              "Эмблема поддержки",
+              "17"
+            ],
+            [
+              "Эмблема стрелка",
+              "10"
+            ],
+            [
+              "Обычная эмблема",
+              "5"
+            ]
+          ],
+          "visuals": true
+        },
+        {
+          "type": "paragraph",
+          "text": "У каждого героя посчитана одна рейтинговая сборка для его основной линии. Из вариантов «Академии» через Rone Arena взята сборка с наибольшей частотой выбора при отставании от лучшего показателя побед не больше чем на 12 процентных пунктов. Числа показывают, у скольких героев эмблема попала в выбранную сборку. Частота выбора по матчам и влияние на победы требуют отдельных данных."
+        },
+        {
+          "type": "linkCard",
+          "label": "Найдите своего героя",
+          "title": "Сборки на героев Mobile Legends",
+          "description": "Эмблема, таланты, ключевые предметы и заклинание в одном месте.",
+          "href": "https://boostmlbb.ru/news/mlbb-builds-2026/"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Какая эмблема самая универсальная?",
+              "a": "Обычная удобна на старте из-за восстановления и запаса здоровья. После выбора основных героев смотрите, какие характеристики помогают им делать свою работу."
+            },
+            {
+              "q": "Можно ли поставить талант мага с эмблемой убийцы?",
+              "a": "Да, если талант уже открыт. Базовые характеристики даёт выбранная эмблема, а таланты выбираются отдельно, по одному на ряд."
+            },
+            {
+              "q": "Почему у двух игроков на одном герое разные эмблемы?",
+              "a": "Могут отличаться линия, предметы и то, что игрок хочет усилить. Сравнивайте наборы на одинаковой линии и смотрите, как срабатывают таланты в вашем варианте сборки."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "id": "rank-up",
+          "eyebrow": "BOOST MLBB",
+          "title": "Узнай цену подъёма ранга",
+          "text": "Выберите свой ранг и цель. Калькулятор сразу покажет стоимость.",
+          "button": "Посчитать стоимость",
+          "note": "Расчёт без оплаты.",
+          "href": "/order.html?type=standard",
+          "position": "after-faq"
+        }
+      ]
     }
   ]
 }

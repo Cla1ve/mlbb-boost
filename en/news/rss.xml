@@ -6,7 +6,329 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:44:24 GMT</lastBuildDate>
+    <item>
+      <title>Mobile Legends not working? Fix launch, connection and lag issues</title>
+      <link>https://boostmlbb.ru/en/news/mlbb-not-working/</link>
+      <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-not-working/</guid>
+      <description>Find the fix for your symptom, whether MLBB crashes at launch, gets stuck on the loading screen, shows a network error or lags in matches.</description>
+      <dc:creator>Boost MLBB Editorial Team</dc:creator>
+      <category>Guides</category>
+      <pubDate>Tue, 24 Nov 2026 14:37:30 GMT</pubDate>
+      <yandex:genre>article</yandex:genre>
+      <yandex:full-text>In brief
+
+Stuck loading or seeing a network error? Close the game and retry on a different connection. Compare Wi‑Fi and mobile data on the same phone.
+
+Crashing before the lobby? Restart your phone, check for updates and make sure you have space. On Android, start by clearing the cache.
+
+Lobby works but matches lag? Compare ping and frame smoothness in Practice mode. Make sure you can sign back in before deleting the app or clearing its data.
+
+What to check first
+
+Match the symptom to the first check
+
+Symptom
+
+First check
+
+Closes immediately at launch
+
+Restart the phone. Open the game in your app store and check for an update.
+
+Stuck on the splash screen or showing a network error
+
+Try launching once on Wi‑Fi and once on mobile data.
+
+Game opens but the account won’t sign in
+
+Check which sign-in method you linked and record the exact error message.
+
+Only matches lag
+
+Check ping and frame smoothness in Practice mode.
+
+Update download stalls
+
+In the app store, check the connection and storage. If the download is inside the game, close it and try a different connection.
+
+Network errors, endless loading and regional access
+
+Close MLBB fully. Check whether a normal website loads on the same connection. If that fails too, troubleshoot the connection itself first.
+
+Switch between Wi‑Fi and mobile data and reopen the game. Change only the connection for this comparison. If you already use a VPN, proxy or DNS filter, test its effect in a separate attempt.
+
+Compare the results. If MLBB works on only one connection, record which one fails. If both fail the same way, check for an update and see whether another player on a different network gets the same error.
+
+If you see a region availability warning, check whether it comes from your app store or from MLBB. Save the exact message. A store installation warning and a failure to connect to a match need different checks.
+
+If several players on different devices and networks report the same error, check the game’s announcements. Reports can reveal a spike. Look for a MOONTON statement before attributing it to a specific cause.
+
+How to spot a wider outage
+
+Mobile Legends news
+
+Game announcements
+
+Check whether MOONTON has announced maintenance or an update.
+
+What to do if the app crashes on Android or iPhone
+
+On Android, open system settings, find Mobile Legends in the app list and open its storage settings. Choose Clear cache. Menu labels vary by device. Clear data and Clear storage erase local app data, including settings and saved sign-in state. Save those for later, once you know you can sign back in.
+
+On iPhone, close the game, restart the device and check the App Store for updates. If the store download stalls, check free space and Apple’s troubleshooting steps. Delete the app for a reinstall only after confirming access to the linked account.
+
+Apple’s download and update checks
+
+App Store
+
+Official steps for iPhone and iPad.
+
+Bind or recover your MLBB account
+
+If sign-in is the issue
+
+Check your sign-in method before deleting the app.
+
+How to tell high ping from low FPS
+
+Signs of network lag and frame drops
+
+In-match symptom
+
+What to try in Practice mode
+
+Inputs arrive late, the hero jumps across the map or the game reconnects
+
+Compare ping on both networks. Pause other downloads and updates.
+
+The picture stutters, the phone heats up and ping stays stable
+
+Lower graphics quality or the frame-rate setting by one step. Compare in a similar scene.
+
+Problems only occur with a particular party
+
+Compare solo and party play on the same device and connection. If it repeats, save the match ID.
+
+If your version offers a network test in Settings, run it from the lobby. Repeat it on the same connection just before a match. Test any network-boost option separately and compare results. Depending on the mode, it may use mobile data.
+
+What to send to MOONTON support
+
+Use in-game support if you can open the lobby. If you cannot reach it, the publisher lists mobilelegendsgame@moonton.com. Include the time and time zone, exact error, phone model, game version and what happened on each connection. If it happened in a match, include the match ID. Leave out your password and verification codes.
+
+Mobile Legends on the App Store
+
+Publisher contact
+
+Find the support address in the game listing.
+
+Frequently asked questions</yandex:full-text>
+      <media:group>
+        <media:content url="https://boostmlbb.ru/images/news/mlbb-not-working-en.jpg" type="image/jpeg" medium="image" width="1600" height="900"/>
+        <media:thumbnail url="https://boostmlbb.ru/images/news/mlbb-not-working-en.jpg" width="1600" height="900"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mobile Legends emblems and talents: what to upgrade and how to choose</title>
+      <link>https://boostmlbb.ru/en/news/mlbb-emblems/</link>
+      <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-emblems/</guid>
+      <description>Spend fragments where they help, match the emblem to your lane and choose three talents. See examples for Miya, Nolan, Vexana, Tigreal and more.</description>
+      <dc:creator>Boost MLBB Editorial Team</dc:creator>
+      <category>Guides</category>
+      <pubDate>Tue, 24 Nov 2026 14:37:30 GMT</pubDate>
+      <yandex:genre>article</yandex:genre>
+      <yandex:full-text>In brief
+
+The Common Emblem is enough to start. Once you have a main hero pool, upgrade the set you use most often on those heroes.
+
+Assassin is a first candidate for junglers and burst heroes. Start with Mage for mid and choose between Tank and Support for roam.
+
+One emblem provides base stats. You also select 3 talents, one from each row. Once unlocked, talents can be used with other emblems.
+
+Which emblem should you upgrade first?
+
+Pick the heroes you play most and inspect their emblems in Preparation or on their hero pages. If several benefit from the same base stats, put your shared resources there.
+
+Use the Common Emblem while trying different roles. Unlock talents in other sets as you settle on your main heroes.
+
+Spend set-specific fragments on their matching set. Use shared Magic Dust to unlock a talent you need or to strengthen an emblem you equip regularly.
+
+Check the emblem screen before upgrading. It shows what the next level adds and where the talent you want unlocks. Use that to decide whether to max one set or invest in another.
+
+All 7 emblems and what each is for
+
+Emblem sets and typical uses
+
+Emblem
+
+When to use it
+
+Common
+
+For resource regeneration, extra health and a flexible starting point.
+
+Assassin
+
+For penetration and mobility. It can also suit magic-damage heroes who rely on a short burst combo.
+
+Mage
+
+When the build relies on magic power, magic penetration and shorter skill cooldowns.
+
+Fighter
+
+For extended trades on skill-based heroes who benefit from spell vamp.
+
+Tank
+
+When you take the first hit and need health and hybrid defense.
+
+Support
+
+When the hero heals or protects allies and benefits from cooldown reduction.
+
+Marksman
+
+When frequent basic attacks deliver most of your damage and you need attack speed.
+
+How to choose three talents for your hero
+
+In the first row, pick a stat that fits how the hero attacks. Swift helps when you need attack speed. Rupture helps when you need penetration.
+
+In the second row, choose an effect for the job you do. Seasoned Hunter helps a jungler contest neutral objectives. Wilderness Blessing suits roamers who spend time in the river and jungle.
+
+In the third row, read the trigger. Lethal Ignition suits quick burst combos. Focusing Mark fits heroes who regularly tag a target for teammates to follow up on.
+
+Open Preparation from the lobby and inspect your available emblems and talents. Save the build on the hero you plan to play and check it before the match. If a talent is greyed out, open its card to see the unlock requirement.
+
+Build examples for all five lanes
+
+Emblems and talents from builds on 23 November 2026
+
+Lane
+
+Hero
+
+Emblem
+
+Talents in order
+
+Jungle
+
+Nolan
+
+Assassin
+
+Thrill, Seasoned Hunter, Impure Rage
+
+Mid Lane
+
+Vexana
+
+Mage
+
+Rupture, Wilderness Blessing, Impure Rage
+
+Mid Lane
+
+Eudora
+
+Assassin
+
+Rupture, Wilderness Blessing, Lethal Ignition
+
+Roam
+
+Tigreal
+
+Tank
+
+Agility, Pull Yourself Together, Concussive Blast
+
+Roam
+
+Angela
+
+Support
+
+Inspire, Bargain Hunter, Focusing Mark
+
+Gold Lane
+
+Miya
+
+Marksman
+
+Fatal, Bargain Hunter, Quantum Charge
+
+Gold Lane
+
+Clint
+
+Assassin
+
+Rupture, Weapons Master, Quantum Charge
+
+EXP Lane
+
+Masha
+
+Tank
+
+Swift, Wilderness Blessing, War Cry
+
+Eudora and Vexana share a lane, but their examples serve different goals. Try penetration and burst on Eudora first. For Vexana, a Mage Emblem and more frequent skill use are a starting point. Miya can benefit from stronger basic attacks, while Clint is worth testing with penetration.
+
+Which emblems show up most often in builds?
+
+Breakdown across 133 heroes on 23 November 2026
+
+Emblem
+
+Heroes
+
+Assassin
+
+37
+
+Mage
+
+27
+
+Fighter
+
+19
+
+Tank
+
+18
+
+Support
+
+17
+
+Marksman
+
+10
+
+Common
+
+5
+
+We count one ranked build per hero on their primary lane. From the Academy choices supplied by Rone Arena, we use the most picked build within 12 percentage points of the best win rate among the available builds. The counts show how many heroes used the emblem in the selected builds. Match-level pick rates and impact on wins require separate data.
+
+Mobile Legends hero builds
+
+Find your hero
+
+Emblem, talents, core items and spell in one place.
+
+Frequently asked questions</yandex:full-text>
+      <media:group>
+        <media:content url="https://boostmlbb.ru/images/news/mlbb-emblems-en.jpg" type="image/jpeg" medium="image" width="1600" height="900"/>
+        <media:thumbnail url="https://boostmlbb.ru/images/news/mlbb-emblems-en.jpg" width="1600" height="900"/>
+      </media:group>
+    </item>
     <item>
       <title>MLBB StarLight: price, rewards and every skin by month</title>
       <link>https://boostmlbb.ru/en/news/mlbb-starlight/</link>
