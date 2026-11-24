@@ -76,7 +76,7 @@ async function indexNow() {
 }
 
 // ---------- Yandex Webmaster API ----------
-async function api(method, path, body) {
+async function api(method, path, body, retry = true) {
   const response = await fetch(`${API}${path}`, {
     method, headers: { Authorization: `OAuth ${token}`, 'Content-Type': 'application/json; charset=utf-8' },
     body: body ? JSON.stringify(body) : undefined
@@ -84,6 +84,7 @@ async function api(method, path, body) {
   const text = await response.text();
   let data = {};
   try { data = text ? JSON.parse(text) : {}; } catch { data = { raw: text.slice(0, 200) }; }
+  if (response.status >= 500 && retry) { await new Promise(resolve => setTimeout(resolve, 5000)); return api(method, path, body, false); }
   if (!response.ok) { const error = new Error(`${method} ${path}: HTTP ${response.status} ${data.error_code || ''} ${data.error_message || ''}`.trim()); error.status = response.status; error.code = data.error_code; throw error; }
   return data;
 }
@@ -129,7 +130,11 @@ async function webmaster() {
       for (const sample of page.samples || []) inSearch.add(sample.url);
       if (!page.samples?.length || offset + 100 >= (page.count || 0)) break;
     }
-  } catch (error) { say(`Вебмастер: список страниц в поиске не получен (${error.message}).`); }
+  } catch (error) {
+    say(error.code === 'HOST_NOT_LOADED'
+      ? 'Вебмастер: Яндекс ещё загружает данные о сайте (HOST_NOT_LOADED), список страниц в поиске пока недоступен. Обычно это проходит за 1–2 дня.'
+      : `Вебмастер: список страниц в поиске не получен (${error.message}).`);
+  }
 
   // Recrawl queue: pages out of search, the most important first
   if (!args.has('--no-recrawl')) {
@@ -141,7 +146,9 @@ async function webmaster() {
       .sort((a, b) => (state.recrawl[a.url] ? 1 : 0) - (state.recrawl[b.url] ? 1 : 0) || priority(a.url) - priority(b.url));
     say(`Переобход: лимит на сегодня ${quota?.daily_quota ?? '?'}, осталось ${left}; ждут переобхода ${candidates.length} страниц не из поиска.`);
     const sent = [];
+    let failures = 0;
     for (const entry of candidates) {
+      if (failures >= 3) { say('Переобход: три ошибки подряд, остановлено до следующего запуска.'); break; }
       if (left <= 0) break;
       if (dryRun) { sent.push(entry.url); left--; continue; }
       try {
@@ -149,7 +156,9 @@ async function webmaster() {
         state.recrawl[entry.url] = new Date().toISOString();
         sent.push(entry.url);
         left = result.quota_remainder ?? left - 1;
+        failures = 0;
       } catch (error) {
+        failures++;
         if (error.code === 'QUOTA_EXCEEDED' || error.status === 429) break;
         say(`Переобход ${entry.url}: ${error.message}`);
       }
