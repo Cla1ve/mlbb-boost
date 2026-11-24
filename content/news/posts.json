@@ -13324,7 +13324,7 @@
         "iPhone"
       ],
       "datePublished": "2026-11-24T17:37:30+03:00",
-      "dateModified": "2026-11-24T17:44:24+03:00",
+      "dateModified": "2026-11-24T17:54:37+03:00",
       "hero": {
         "src": "/images/news/mlbb-not-working.jpg",
         "width": 1600,
@@ -13332,14 +13332,14 @@
         "webpSrcset": "/images/news/mlbb-not-working-768.webp 768w, /images/news/mlbb-not-working-1200.webp 1200w, /images/news/mlbb-not-working-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Герой MLBB и два подлинных кадра матча из ролика MOONTON об оптимизации сети.",
-        "caption": "Кадры из официального ролика MOONTON Network Optimization. Иллюстрация к гайду.",
+        "alt": "Заголовок «MLBB не работает?» на тёмно-синем фоне слева и кадр боя Mobile Legends справа",
+        "caption": "Игровой кадр с официальной страницы Mobile Legends: Bang Bang.",
         "provenance": {
           "type": "generated",
           "creator": "Boost MLBB + OpenAI ImageGen",
           "created": "2026-11-24",
-          "rights": "ImageGen dashboard backdrop and Boost MLBB typesetting. The game imagery is an editorial excerpt from MOONTON’s official Network Optimization video poster (Nug06UsfdIE).",
-          "prompt": "Wide 16:9 background asset for a dark Mobile Legends fan-site article illustration, EMPTY surface only for a portrait gallery to be typeset separately. Design style is a restrained modern dark gaming dashboard: deep navy #091625 at the edges, slightly lighter slate-navy #132d44 in the central field, very soft cool petrol teal bloom at the central top and middle, a subtle evenly spaced hairline grid at low opacity. Gentle radial falloff. Flat camera, flat rectangular geometry, no texture except a tiny grain. Think hours of use in a well-designed statistics dashboard. The center has a clear broad unbroken slate-navy ground, no inset panels so the layout can add actual cards. Extremely restrained mint accent in the ambient bloom. NO characters, no objects, shapes, stars, letters, marks, interface widgets, logos, gold, burgundy, arena scene, or pattern other than the grid. Full bleed, 16:9."
+          "rights": "Editorial crop of MOONTON gameplay art from the Mobile Legends: Bang Bang official landing page. Original cover layout and lettering by Boost MLBB. Background generated with ImageGen.",
+          "prompt": "Create an EMPTY wide 16:9 raster backdrop for a premium gaming publication article about connectivity. This is only the background that will sit behind manually added headline and authentic gameplay imagery. Deep blue-black ink, darkest at the left, with a very subtle soft petrol teal light through the middle-right. Low contrast, smooth soft falloff, slight understated film grain, no grid and no tech ornamentation. Flat frontal view, calm editorial contrast and no brightly illuminated focal object. No text, symbols, logo, icons, phone, window, game visuals, figures or decorative shapes. The left half should feel near-black navy for clear white typography and the right half quietly luminous blue."
         }
       },
       "blocks": [
@@ -13550,6 +13550,12 @@
           "publisher": "MOONTON",
           "url": "https://www.youtube.com/watch?v=Nug06UsfdIE",
           "accessed": "2026-11-24"
+        },
+        {
+          "title": "Официальный игровой кадр Mobile Legends: Bang Bang",
+          "publisher": "MOONTON",
+          "url": "https://play.mobilelegends.com/landingpage/",
+          "accessed": "2026-11-24"
         }
       ],
       "editorialNote": "Рекомендации сверены 24 ноября 2026 года с инструкциями Google и Apple и материалами MOONTON. Это руководство по диагностике, статус серверов в реальном времени не отслеживается.",
@@ -13569,8 +13575,8 @@
           ],
           "editorialNote": "Checked on 24 November 2026 against Google and Apple support and MOONTON material. This troubleshooting guide does not monitor live server status.",
           "hero": {
-            "alt": "An MLBB hero and two game frames from MOONTON’s Network Optimization video.",
-            "caption": "Game imagery from MOONTON’s official Network Optimization video.",
+            "alt": "MLBB Not Working? headline on a dark blue background with a Mobile Legends match on the right",
+            "caption": "Gameplay from the official Mobile Legends: Bang Bang page.",
             "src": "/images/news/mlbb-not-working-en.jpg",
             "webpSrcset": "/images/news/mlbb-not-working-en-768.webp 768w, /images/news/mlbb-not-working-en-1200.webp 1200w, /images/news/mlbb-not-working-en-1600.webp 1600w"
           },
