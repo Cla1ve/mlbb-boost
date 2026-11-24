@@ -190,4 +190,6 @@ await webmaster().catch(error => {
 
 if (!dryRun) { await mkdir('.yandex-state', { recursive: true }); await writeFile(STATE_FILE, JSON.stringify(state, null, 1)); }
 if (process.env.GITHUB_STEP_SUMMARY) await appendFile(process.env.GITHUB_STEP_SUMMARY, report.join('\n') + '\n');
+// The same report as a run annotation: annotations of a public repository can be read without signing in.
+if (process.env.GITHUB_ACTIONS) console.log(`::notice title=Yandex Webmaster ${today}::${report.join('\n').replace(/%/g, '%25').replace(/\r/g, '').replace(/\n/g, '%0A')}`);
 if (failed) process.exitCode = 1;
