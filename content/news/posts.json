@@ -11693,22 +11693,22 @@
       "editorialNote": "Список коллабораций и обликов сверен 24 ноября 2026 года по esports.gg (на 22 июня 2026 года) и официальным новостям MOONTON о «Губке Бобе», «Наруто» и Street Fighter 6. Сведения об «Аватаре» — по Pinoy Gamer и утечкам, официального анонса нет.",
       "categoryKey": "guides",
       "datePublished": "2026-11-24T07:12:13+03:00",
-      "dateModified": "2026-11-24T16:18:00+03:00",
+      "dateModified": "2026-11-24T16:34:00+03:00",
       "hero": {
         "src": "/images/news/mlbb-collaborations.jpg",
         "width": 1600,
         "height": 900,
         "webpSrcset": "/images/news/mlbb-collaborations-768.webp 768w, /images/news/mlbb-collaborations-1200.webp 1200w, /images/news/mlbb-collaborations-1600.webp 1600w",
-        "focalPoint": "50% 45%",
+        "focalPoint": "55% 50%",
         "cardFit": "cover",
-        "alt": "Персонажи коллабораций Mobile Legends — Минато и Наруто, Итачи, Рю, Кен, Гайл и Губка Боб — в разломах над киберспортивной ареной",
-        "caption": "Иллюстрация Boost MLBB: арена сгенерирована ИИ; персонажи — официальные арты коллабораций MOONTON.",
+        "alt": "Персонажи коллабораций Mobile Legends на одной сцене: Наруто и Саске, Рю, Кен и Чун-Ли из Street Fighter, Губка Боб и Патрик",
+        "caption": "Иллюстрация Boost MLBB: сцена сгенерирована ИИ, персонажи — из официальных артов коллабораций MOONTON.",
         "provenance": {
           "type": "generated",
           "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
           "created": "2026-11-24",
-          "prompt": "Huge dark cinematic esports arena at night, a giant shattered dimensional rift above the stage with jagged emerald and violet cracks forming empty shard-shaped openings, floating glass fragments, sparks, light beams, confetti, crowd silhouettes from behind; no characters, no text, no logos. Official collaboration key art is placed inside the openings.",
-          "rights": "Arena generated for Boost MLBB; characters come from official MOONTON collaboration key art (Naruto, Street Fighter 6, SpongeBob Friend Fest) used for editorial illustration; partner trademarks belong to their owners."
+          "prompt": "Realistic photo of a large esports arena stage at night from the audience: empty stage floor, giant curved LED screen in soft deep teal and navy (blank), warm spotlights, light haze, subtle confetti, darker left third; restrained colours, not neon; no people on stage, no text, no logos.",
+          "rights": "Stage generated for Boost MLBB; the characters are cut out without redrawing from official MOONTON collaboration key art (Naruto, Street Fighter 6, SpongeBob Friend Fest) and used for editorial illustration; partner trademarks belong to their owners."
         }
       },
       "blocks": [
@@ -12529,8 +12529,8 @@
           ],
           "editorialNote": "The list of collaborations and skins was checked on 24 November 2026 against esports.gg (as of 22 June 2026) and official MOONTON news on SpongeBob, Naruto and Street Fighter 6. Avatar details come from Pinoy Gamer and leaks; there is no official announcement.",
           "hero": {
-            "alt": "Mobile Legends collaboration characters — Minato and Naruto, Itachi, Ryu, Ken, Guile and SpongeBob — bursting through rifts above an esports arena",
-            "caption": "Boost MLBB illustration: AI-generated arena; characters from official MOONTON collaboration key art."
+            "alt": "Mobile Legends collaboration characters on one stage: Naruto and Sasuke, Ryu, Ken and Chun-Li from Street Fighter, SpongeBob and Patrick",
+            "caption": "Boost MLBB illustration: AI-generated stage, characters from official MOONTON collaboration key art."
           },
           "blocks": [
             {
