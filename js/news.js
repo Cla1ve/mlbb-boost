@@ -35,6 +35,8 @@
   function loadAnalytics() {
     if (analyticsLoaded || !window.MLBBConsent || !window.MLBBConsent.hasConsent()) return;
     analyticsLoaded = true;
+    // News pages already load Metrika and Google Analytics in <head>; a second init would count every view twice.
+    if (typeof window.ym === 'function' && typeof window.gtag === 'function') return;
 
     window.dataLayer = window.dataLayer || [];
     window.gtag = window.gtag || function () {
@@ -64,8 +66,7 @@
       clickmap: true,
       trackLinks: true,
       accurateTrackBounce: true,
-      webvisor: false,
-      defer: true
+      webvisor: false
     });
   }
 
