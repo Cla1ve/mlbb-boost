@@ -52,6 +52,8 @@ function priority(url) {
   if (/^\/(offer|privacy|terms|cookies|disclaimer|refund|security|documents|sitemap-page)\.html$/.test(path)) return 800;
   const core = ['/', '/prices.html', '/services.html', '/order.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html', '/guides/party-boost.html', '/heroes/', '/news/', '/reviews.html', '/faq.html', '/about.html'];
   if (core.includes(path)) return core.indexOf(path);
+  // Ranking lists (best junglers, heroes for beginners): right after the core pages, they are the entry points for hero searches.
+  if (/^\/heroes\/(best-[a-z]+|for-beginners)\.html$/.test(path)) return 20;
   if (newsDate[url]) return 100 + (1 - Date.parse(newsDate[url]) / 1e13);
   const hero = path.match(/^\/heroes\/([a-z0-9-]+)\.html$/);
   if (hero) return 200 + (heroRank[hero[1]] || 150);

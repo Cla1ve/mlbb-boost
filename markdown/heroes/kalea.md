@@ -55,6 +55,10 @@ S
 
 [![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)
 
+### Места в рейтингах
+
+-   [Лучшие бойцы MLBB**2 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

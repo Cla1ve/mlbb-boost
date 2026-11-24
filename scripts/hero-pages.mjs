@@ -1,5 +1,6 @@
 // Builds per-hero pages and the /heroes/ hub as landing "guides" from content/heroes.json
 // (official MOONTON hero statistics). Imported by site-build.mjs.
+import { rankingGuides, LIST_DEFS, listUrl, members } from './hero-lists.mjs';
 const BOT_PRICE = '/order.html?type=hero';
 // Date of the last content change on hero pages.
 const UPDATED = '2026-11-23';
@@ -174,7 +175,10 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
       const barHeight = value => Math.round(((value - floor) / (ceil - floor)) * 100);
       const ranksHTML = ranksOk ? `<div class="ov-card"><h3>${t('Победы по рангам, 30 дней', 'Win rate by rank, 30 days')}</h3><ol class="rank-bars" style="--mid:${barHeight(50)}%">${RANK_ROWS.map(([key, img, ru, english]) => `<li><strong>${fmt(hero.byRank[key], lang, 1)}%</strong><span class="rank-bars__col"><i style="height:${barHeight(hero.byRank[key])}%" data-above="${hero.byRank[key] >= 50}"></i></span><img src="/images/ranks/${img}.webp" width="40" height="40" alt="" loading="lazy"><span>${t(ru, english)}</span></li>`).join('')}</ol><p class="rank-bars__note">${t('Пунктир: 50% побед', 'Dashed line: 50% win rate')}</p></div>` : '';
       const similarHTML = similar.length ? `<div class="ov-card ov-wide"><h3>${t(`Другие ${ROLE[hero.roles[0]].plural} этой линии`, `More ${ROLE[hero.roles[0]].enPlural} on this lane`)}</h3><div class="banners">${similar.map(other => banner(other.slug, lang)).join('')}</div></div>` : '';
-      add('overview', t('Обзор', 'Overview'), `<div class="ov-grid">${metersHTML}${ranksHTML}${similarHTML}</div>`);
+      // Where the hero stands in the ranking lists (jungle, marksmen, ...): each one links to its list.
+      const places = LIST_DEFS.map(def => ({ def, set: members(def, heroes) })).filter(({ set }) => set.some(item => item.slug === hero.slug));
+      const placesHTML = places.length ? `<div class="ov-card ov-wide"><h3>${t('Места в рейтингах', 'Places in the rankings')}</h3><ul class="ov-places">${places.map(({ def, set }) => `<li><a href="${listUrl(def)}"><span>${def[lang].h1}</span><b>${set.findIndex(item => item.slug === hero.slug) + 1} ${t('из', 'of')} ${set.length}</b></a></li>`).join('')}</ul></div>` : '';
+      add('overview', t('Обзор', 'Overview'), `<div class="ov-grid">${metersHTML}${ranksHTML}${similarHTML}${placesHTML}</div>`);
 
       const builds = buildsOf(ac);
       if (builds.length) {
@@ -335,5 +339,6 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
   const hub = { file: 'heroes/index.html', kind: 'hero', layout: 'landing', published: '2026-11-22', updated, ruOnly: true, crumb: ['/news/', 'Новости', 'News'],
     ru: ['Тир-лист MLBB: все 133 героя, сборки и контрпики | MLBB Boost', 'Тир-лист Mobile Legends по актуальной мете: кого чаще всего берут и банят в Мифической славе за 7 дней. Лучшие герои по ролям, сборки, навыки и контрпики для всех 133 героев.', hubBody('ru'), [], hubHead('ru')],
     en: ['MLBB tier list: all 133 heroes, builds and counters | MLBB Boost', 'Mobile Legends tier list for the current meta: who gets picked and banned most in Mythical Glory over 7 days. The best heroes by role, builds, skills and counters for all 133 heroes.', hubBody('en'), [], hubHead('en')] };
-  return [hub, ...pages];
+  const ranking = rankingGuides({ heroes, acad, dict, buildsOf, statsOf, name, esc, fmt, pct1, chip, gear, icon, longDate, shortDate, statsStamp, hasTop, updated, ROLE, BOT_PRICE, MONTHS_EN });
+  return [hub, ...pages, ...ranking];
 }

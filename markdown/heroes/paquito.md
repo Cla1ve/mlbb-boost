@@ -55,6 +55,11 @@ A
 
 [![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
+### Места в рейтингах
+
+-   [Лучшие лесники MLBB**5 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие бойцы MLBB**5 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

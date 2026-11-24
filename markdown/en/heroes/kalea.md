@@ -55,6 +55,10 @@ Dashed line: 50% win rate
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)
 
+### Places in the rankings
+
+-   [Best MLBB fighters**2 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+
 ## Build
 
 Build 1Build 2Build 3

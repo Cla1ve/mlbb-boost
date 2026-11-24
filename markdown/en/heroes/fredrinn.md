@@ -55,6 +55,11 @@ Dashed line: 50% win rate
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
+### Places in the rankings
+
+-   [Best MLBB junglers**18 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB fighters**21 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+
 ## Build
 
 Build 1Build 2Build 3

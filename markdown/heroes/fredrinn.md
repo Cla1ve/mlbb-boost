@@ -55,6 +55,11 @@ C
 
 [![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
+### Места в рейтингах
+
+-   [Лучшие лесники MLBB**18 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие бойцы MLBB**21 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

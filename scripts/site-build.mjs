@@ -287,14 +287,19 @@ function schema(document, file, lang, title, description, url) {
   const web = { '@type': 'WebSite', '@id': `${origin}/#website`, name: 'MLBB Boost', alternateName: 'Boost MLBB', url: origin + '/', publisher: { '@id': org['@id'] }, inLanguage: ['ru', 'en'] };
   const guide = guideOf(file);
   const isHeroIndex = file === 'heroes/index.html';
-  const isArticle = guide && guide.kind !== 'service' && !isHeroIndex;
-  const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : (isHeroIndex || file === 'reviews.html') ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
+  const isList = Boolean(guide?.list);
+  const isArticle = guide && guide.kind !== 'service' && !isHeroIndex && !isList;
+  const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : (isHeroIndex || isList || file === 'reviews.html') ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
   if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
   if (isHeroIndex) page.mainEntity = {
     '@type': 'ItemList', numberOfItems: heroesData.heroes.length,
     itemListElement: rateHeroes(heroesData.heroes).map(hero => ({ '@type': 'ListItem', position: hero.rank,
       name: hero[lang], url: origin + localized(`/heroes/${hero.slug}.html`, lang) }))
   };
+  if (isList) {
+    const named = Object.fromEntries(heroesData.heroes.map(hero => [hero.slug, hero]));
+    page.mainEntity = { '@type': 'ItemList', numberOfItems: guide.list.length, itemListElement: guide.list.map((slug, index) => ({ '@type': 'ListItem', position: index + 1, name: named[slug][lang], url: origin + localized(`/heroes/${slug}.html`, lang) })) };
+  }
   const graph = [org, web, page];
   if (guide?.kind === 'service') graph.push({ '@type': 'Service', '@id': `${url}#service`, name: document.querySelector('h1').textContent.trim(), serviceType: 'Mobile Legends: Bang Bang rank boosting', provider: { '@id': org['@id'] }, areaServed: lang === 'en' ? 'Worldwide' : 'RU', url, offers: { '@type': 'AggregateOffer', priceCurrency: 'RUB', lowPrice: Math.min(...data.prices.filter(r => guide.priceCategories?.includes(r.category) ?? true).map(r => r.prices.find(p => p.type === (guide.priceType || 'standard')).price)), offerCount: data.prices.length } });
   if (guide?.[lang][3]?.length) graph.push({ '@type': 'FAQPage', '@id': `${url}#faq`, mainEntity: guide[lang][3].map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: fillTokens(a, lang).replace(/<[^>]+>/g, '') } })) });
@@ -442,7 +447,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (guideOf(file)?.kind === 'hero') {
       const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=4';
       document.head.append(arenaStyle);
-      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=11';
+      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=12';
       document.head.append(heroStyle);
     }
     // The site typeface (Golos Text, set in main.css): preload the Cyrillic file so headings do not reflow after load.

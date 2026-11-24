@@ -830,6 +830,26 @@
       "pathname": "/heroes/franco.html",
       "lastmod": "2026-11-24",
       "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-jungle.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-marksman.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-fighter.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/for-beginners.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
     }
   ]
 }
