@@ -740,6 +740,15 @@ function validateTranslationParity(source, translated, locale) {
         }
       }
     }
+    if (sourceBlock.type === 'image' && sourceBlock.src !== translatedBlock.src) {
+      errors.push(`${label}.src должен совпадать с русской версией.`);
+    }
+    if (sourceBlock.type === 'skins' && (
+      sourceBlock.layout !== translatedBlock.layout || sourceBlock.items?.length !== translatedBlock.items?.length ||
+      sourceBlock.items?.some((item, i) => item.slug !== translatedBlock.items?.[i]?.slug || (item.image || '') !== (translatedBlock.items?.[i]?.image || ''))
+    )) {
+      errors.push(`${label}.items должен содержать те же облики и картинки в том же порядке.`);
+    }
     if (sourceBlock.type === 'screens' && (
       sourceBlock.frames?.length !== translatedBlock.frames?.length ||
       sourceBlock.frames?.some((frame, i) => frame.kind !== translatedBlock.frames?.[i]?.kind || frame.mark !== translatedBlock.frames?.[i]?.mark)
@@ -993,6 +1002,8 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
     'heroTiers',
     'callout',
     'screens',
+    'skins',
+    'image',
     'list',
     'linkCard',
     'cta',
@@ -1130,6 +1141,21 @@ function validatePost(post, { allowDraft = false, skipTranslations = false } = {
         break;
       case 'callout':
         requireText(block, ['label', 'text']);
+        break;
+      case 'image':
+        requireText(block, ['alt', 'caption']);
+        if (!/^\/images\/news\/[a-z0-9-]+\/[a-z0-9-]+\.webp$/.test(block.src || '') || !Number.isInteger(block.width) || !Number.isInteger(block.height)) {
+          errors.push('image: локальный src в /images/news/<slug>/<file>.webp, width и height.');
+        }
+        break;
+      case 'skins':
+        requireText(block, ['id', 'title']);
+        if (!['card', 'wide', 'wide-sm'].includes(block.layout) || !Array.isArray(block.items) || block.items.length < 1 || block.items.length > 200 || block.items.some((item) => (
+          !item || typeof item.hero !== 'string' || !/^[a-z0-9-]+$/.test(item.slug || '') || typeof item.skin !== 'string' || !normalizeText(item.skin) ||
+          (item.image != null && !/^\/images\/skins\/[a-z0-9-]+\/[a-z0-9-]+\.webp$/.test(item.image)) || (item.note != null && typeof item.note !== 'string')
+        ))) {
+          errors.push('skins: layout card|wide|wide-sm и от 1 до 200 обликов с hero, slug, skin и локальной image.');
+        }
         break;
       case 'screens':
         requireText(block, ['id', 'title']);
@@ -1481,7 +1507,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
   <link rel="stylesheet" href="/styles/arena.css?v=5">
-  <link rel="stylesheet" href="/styles/journal.css?v=2">`;
+  <link rel="stylesheet" href="/styles/journal.css?v=3">`;
 }
 
 function renderScripts() {
@@ -1831,6 +1857,23 @@ function renderScreen(frame, locale) {
       throw new Error(`Неизвестный экран: ${frame.kind}`);
   }
 }
+// Skin gallery: official skin art, the skin name, the hero and a short note (month or year); each card opens the hero page.
+function renderSkins(block, locale) {
+  const ru = locale === 'ru';
+  const size = block.layout === 'card' ? [240, 390] : [640, 360];
+  // Columns follow the number of skins so no row is left half empty: up to four in a row of four, 5 or 6 in one row, 7-8 in two rows of four, 9 as five and four.
+  const n = block.items.length;
+  const cols = n <= 4 ? 4 : n <= 6 ? n : n <= 8 ? 4 : 5;
+  const colsSm = n % 3 === 0 ? 3 : n % 2 === 0 ? 2 : 3;
+  const style = block.layout === 'card' ? ` style="--cols:${cols};--cols-sm:${colsSm}"` : '';
+  return `<figure class="skin-grid skin-grid--${escapeHtml(block.layout)}"${style} aria-labelledby="${escapeHtml(block.id)}-title">
+    <figcaption class="skin-grid__title" id="${escapeHtml(block.id)}-title">${escapeHtml(block.title)}</figcaption>
+    <ul>${block.items.map((item) => `<li><a href="${siteHref(`/heroes/${item.slug}.html`, locale)}">${item.image
+      ? `<img src="${escapeHtml(item.image)}" width="${size[0]}" height="${size[1]}" alt="${escapeHtml(`${item.hero} — ${item.skin}`)}" loading="lazy" decoding="async">`
+      : `<span class="skin-grid__soon"><img src="/images/heroes/${escapeHtml(item.slug)}.webp" width="96" height="96" alt="" loading="lazy" decoding="async"><span>${ru ? 'Облик ещё не показан' : 'Skin not shown yet'}</span></span>`}<span class="skin-grid__meta"><strong>${escapeHtml(item.skin)}</strong><span>${escapeHtml(item.hero)}${item.note ? ` · ${escapeHtml(item.note)}` : ''}</span></span></a></li>`).join('')}</ul>
+  </figure>`;
+}
+
 function renderScreens(block, locale) {
   return `<figure class="screens screens--${block.frames.length}" aria-label="${escapeHtml(block.title)}">
     <ol>${block.frames.map((frame, i) => `<li><div class="screens__frame" aria-hidden="true"><span class="screens__no">${frame.step || i + 1}</span>${renderScreen(frame, locale)}</div><p>${escapeHtml(frame.label)}</p></li>`).join('')}</ol>
@@ -1944,6 +1987,10 @@ function renderBlock(block, locale = 'ru') {
         <h2 id="${escapeHtml(block.id)}">${escapeHtml(block.title)}</h2>
         ${block.items.map((item) => `<details><summary>${escapeHtml(item.q)}</summary><p>${escapeHtml(item.a)}</p></details>`).join('')}
       </section>`;
+    case 'image':
+      return `<figure class="article-figure"><img src="${escapeHtml(block.src)}" width="${block.width}" height="${block.height}" alt="${escapeHtml(block.alt)}" loading="lazy" decoding="async"><figcaption>${escapeHtml(block.caption)}</figcaption></figure>`;
+    case 'skins':
+      return renderSkins(block, locale);
     case 'screens':
       return renderScreens(block, locale);
     case 'callout':

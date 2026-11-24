@@ -9324,6 +9324,3986 @@
           ]
         }
       }
+    },
+    {
+      "slug": "mlbb-starlight",
+      "status": "published",
+      "title": "Звёздный участник MLBB: цена, награды и все облики по месяцам",
+      "seoTitle": "Звёздный участник MLBB: облики по месяцам и цена",
+      "description": "Сколько стоит Звёздный участник в Mobile Legends, что он даёт кроме облика и какой облик выходил каждый месяц с декабря 2016 года до декабря 2026-го.",
+      "excerpt": "В ноябре 2026 года это Калеа «Солнечная морячка» за 300 алмазов. Здесь все 120 обликов с 2016 года и то, что ещё даёт пропуск.",
+      "category": "Гайды",
+      "tags": [
+        "Mobile Legends",
+        "Звёздный участник",
+        "Облики",
+        "Алмазы",
+        "Пропуск"
+      ],
+      "editorialNote": "Список обликов по месяцам собран 24 ноября 2026 года из вики Mobile Legends через каталог MLBBDex (лицензия CC BY-SA) и сверен с публикациями о каждом месяце 2026 года. Цены и бонусы — по ролику MOONTON и разбору timesaver.gg.",
+      "categoryKey": "guides",
+      "datePublished": "2026-11-24T07:12:13+03:00",
+      "dateModified": "2026-11-24T07:12:13+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-starlight.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-starlight-768.webp 768w, /images/news/mlbb-starlight-1200.webp 1200w, /images/news/mlbb-starlight-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "cover",
+        "alt": "Облики Звёздного участника с августа по ноябрь 2026 года: Аулус, Ханзо, Хаябуса и Калеа",
+        "caption": "Иллюстрация Boost MLBB: фон сгенерирован ИИ, арты обликов — MOONTON.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
+          "created": "2026-11-24",
+          "prompt": "Cinematic night sky over a dark fantasy arena with a glowing star-shaped crystal on a pedestal, deep navy and emerald palette, starfield, no text, no logos, no people; four official StarLight skin splash arts are placed on top.",
+          "rights": "Background generated for Boost MLBB; the skin art is MOONTON game art used for editorial illustration."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "Звёздный участник стоит 300 алмазов в месяц, расширенная версия — 750.",
+            "Облик ноября 2026 года — Калеа «Солнечная морячка» (Tideborn Sailor). На декабрь в вики-списке стоит Су Ё «Frostblade Duelist», MOONTON его ещё не подтвердил.",
+            "Кроме облика участник получает +10 очков защиты за каждое поражение в рейтинге и доступ к звёздному магазину.",
+            "С декабря 2016 года вышло 120 обликов. Их получили 108 героев из 133, а 25 героев, в том числе Марсель и Хирара, ни одного."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Звёздный участник (в английской версии StarLight) — платный пропуск на один месяц. Он открывается 1-го числа в 00:00 по серверному времени и сразу выдаёт облик месяца. Остальные награды идут по 60 уровням: уровни растут за матчи и задания. В конце месяца облик уходит со страницы пропуска, а задания, уровни и магазин обнуляются."
+        },
+        {
+          "type": "heading",
+          "id": "price",
+          "text": "Сколько стоит"
+        },
+        {
+          "type": "table",
+          "caption": "Цены Звёздного участника в ноябре 2026 года",
+          "headers": [
+            "Что",
+            "Цена",
+            "Кому нужно"
+          ],
+          "rows": [
+            [
+              "Звёздный участник",
+              "300 алмазов",
+              "Всем, кто хочет облик месяца и бонусы"
+            ],
+            [
+              "Расширенный (StarLight Plus)",
+              "750 алмазов",
+              "Тем, кто покупает в конце месяца: сразу 15 уровней"
+            ],
+            [
+              "Окрашенная версия облика",
+              "100 алмазов",
+              "Только участникам этого месяца"
+            ],
+            [
+              "Звёздный сундук",
+              "10 алмазов за попытку",
+              "До 50 попыток в месяц, награды случайные"
+            ]
+          ],
+          "note": "Цены по ролику MOONTON и разбору timesaver.gg на 31 октября 2026 года. Перед покупкой сверьте цену в игре."
+        },
+        {
+          "type": "paragraph",
+          "text": "Расширенная версия дороже на 450 алмазов. Взамен она даёт 1 500 звёздных очков, то есть 15 уровней сразу, и ещё 10% к очкам до конца месяца. Если играть почти каждый день, 60-й уровень берётся и с обычным пропуском: первые три недели задания открывают до 18 уровней в неделю, в последнюю неделю ограничения нет. Расширенная версия окупается, только если вы начинаете ближе к концу месяца."
+        },
+        {
+          "type": "heading",
+          "id": "perks",
+          "text": "Что даёт кроме облика"
+        },
+        {
+          "type": "list",
+          "items": [
+            "+10 очков защиты за каждое поражение в рейтинговом матче.",
+            "На 10% больше опыта, на 5% больше боевых очков и на 30% больше очков мастерства за матч.",
+            "До 200 друзей в списке.",
+            "Рамка аватара, рамка чата, эмоции и эффекты появления, возвращения и устранения в стиле месяца.",
+            "Доступ к звёздному магазину, где за фрагменты меняют облики прошлых месяцев."
+          ]
+        },
+        {
+          "type": "callout",
+          "label": "Для тех, кто поднимает ранг",
+          "text": "Очки защиты полезнее облика. Шкала защиты звезды заполняется быстрее, и серия поражений съедает меньше звёзд. Как устроены защита и звёзды, мы разобрали в статье о рангах."
+        },
+        {
+          "type": "linkCard",
+          "label": "Гайд",
+          "title": "Ранги в Mobile Legends по порядку",
+          "description": "Все звания, звёзды, защита звезды и путь до Мифика",
+          "href": "https://boostmlbb.ru/news/mlbb-ranks-in-order/"
+        },
+        {
+          "type": "heading",
+          "id": "shop",
+          "text": "Как получить облик прошлого месяца"
+        },
+        {
+          "type": "paragraph",
+          "text": "Через звёздный магазин. С ноября 2026 года MOONTON добавил туда вернувшиеся облики и наборы возврата. По данным GamingOnPhone, обычный старый облик стоит 3 000 звёздных фрагментов, облик ежегодного звёздного фестиваля — 5 000. Месяц пропуска приносит примерно от 920 до 1 120 фрагментов, так что на один облик уходит около трёх месяцев. Обмен открыт только тем, у кого есть пропуск в текущем месяце."
+        },
+        {
+          "type": "heading",
+          "id": "year-2026",
+          "text": "Облики 2026 года"
+        },
+        {
+          "type": "skins",
+          "id": "sl-2026",
+          "layout": "wide",
+          "title": "Звёздный участник в 2026 году",
+          "items": [
+            {
+              "hero": "Харли",
+              "slug": "harley",
+              "skin": "Dreaming Koi",
+              "note": "Январь",
+              "image": "/images/skins/harley/dreaming-koi.webp"
+            },
+            {
+              "hero": "Хильда",
+              "slug": "hilda",
+              "skin": "Guardian Battalion",
+              "note": "Февраль",
+              "image": "/images/skins/hilda/guardian-battalion.webp"
+            },
+            {
+              "hero": "Фрейя",
+              "slug": "freya",
+              "skin": "Starborn Resolve",
+              "note": "Март",
+              "image": "/images/skins/freya/starborn-resolve.webp"
+            },
+            {
+              "hero": "Цзэтянь",
+              "slug": "zetian",
+              "skin": "Sunset Luminance",
+              "note": "Апрель",
+              "image": "/images/skins/zetian/sunset-luminance.webp"
+            },
+            {
+              "hero": "Обсидия",
+              "slug": "obsidia",
+              "skin": "Magitech Wraith",
+              "note": "Май",
+              "image": "/images/skins/obsidia/magitech-wraith.webp"
+            },
+            {
+              "hero": "Харит",
+              "slug": "harith",
+              "skin": "Rebel Emberfang",
+              "note": "Июнь",
+              "image": "/images/skins/harith/rebel-emberfang.webp"
+            },
+            {
+              "hero": "Белерик",
+              "slug": "belerick",
+              "skin": "Smouldering Fortress",
+              "note": "Июль",
+              "image": "/images/skins/belerick/smouldering-fortress.webp"
+            },
+            {
+              "hero": "Аулус",
+              "slug": "aulus",
+              "skin": "«Звёздный корсар» (Starwake Corsair)",
+              "note": "Август",
+              "image": "/images/skins/aulus/starwake-corsair.webp"
+            },
+            {
+              "hero": "Ханзо",
+              "slug": "hanzo",
+              "skin": "«Клыки резни» (Fangs of Slaughter)",
+              "note": "Сентябрь",
+              "image": "/images/skins/hanzo/fangs-of-slaughter.webp"
+            },
+            {
+              "hero": "Хаябуса",
+              "slug": "hayabusa",
+              "skin": "«Тень кицунэ» (Kitsune's Shadow)",
+              "note": "Октябрь",
+              "image": "/images/skins/hayabusa/kitsunes-shadow.webp"
+            },
+            {
+              "hero": "Калеа",
+              "slug": "kalea",
+              "skin": "«Солнечная морячка» (Tideborn Sailor)",
+              "note": "Ноябрь",
+              "image": "/images/skins/kalea/tideborn-sailor.webp"
+            },
+            {
+              "hero": "Су Ё",
+              "slug": "suyou",
+              "skin": "Frostblade Duelist",
+              "note": "Декабрь (ожидается)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Декабрь — по вики-списку и утечкам. MOONTON показывает облик месяца в последние дни перед ним, обычно роликом о наградах."
+        },
+        {
+          "type": "paragraph",
+          "text": "Если утечка подтвердится, у Су Ё это будет первый звёздный облик. Чаще всего облики пропуска достаются бойцам (33 из 120), магам (25) и стрелкам (24). Убийц было 22, танков 14, героев поддержки только 2."
+        },
+        {
+          "type": "heading",
+          "id": "all-years",
+          "text": "Все облики с 2016 года"
+        },
+        {
+          "type": "paragraph",
+          "text": "По два облика пропуска есть у 12 героев: Госсен, Иритель, Клинт, Лейла, Мартис, Мия, Москов, Сабер, Фрейя, Ханаби, Харли и Хаябуса. Ни одного — у 25: Баданг, Баксий, Бартс, Глу, Джонсон, Джулиан, Дигги, Кармилла, Лолита, Лукас, Марсель, Матильда, Минотавр, Рафаэль, Сора, Су Ё, Тэризла, Уранус, Фарамис, Флорин, Халид, Хилос, Хирара, Чип и Эстес."
+        },
+        {
+          "type": "skins",
+          "id": "sl-2025",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2025 году",
+          "items": [
+            {
+              "hero": "Чжусинь",
+              "slug": "zhuxin",
+              "skin": "Emberwisp Mystic",
+              "note": "Январь",
+              "image": "/images/skins/zhuxin/emberwisp-mystic.webp"
+            },
+            {
+              "hero": "Иритель",
+              "slug": "irithel",
+              "skin": "Checkered Knight",
+              "note": "Февраль",
+              "image": "/images/skins/irithel/checkered-knight.webp"
+            },
+            {
+              "hero": "Чичи",
+              "slug": "cici",
+              "skin": "Circus Reverie",
+              "note": "Март",
+              "image": "/images/skins/cici/circus-reverie.webp"
+            },
+            {
+              "hero": "Джой",
+              "slug": "joy",
+              "skin": "Exostar Scout",
+              "note": "Апрель",
+              "image": "/images/skins/joy/exostar-scout.webp"
+            },
+            {
+              "hero": "Мия",
+              "slug": "miya",
+              "skin": "Nightowl Huntress",
+              "note": "Май",
+              "image": "/images/skins/miya/nightowl-huntress.webp"
+            },
+            {
+              "hero": "Горд",
+              "slug": "gord",
+              "skin": "Imperator Vitalis",
+              "note": "Июнь",
+              "image": "/images/skins/gord/imperator-vitalis.webp"
+            },
+            {
+              "hero": "Фовиус",
+              "slug": "phoveus",
+              "skin": "Matrix Maverick",
+              "note": "Июль",
+              "image": "/images/skins/phoveus/matrix-maverick.webp"
+            },
+            {
+              "hero": "Кадита",
+              "slug": "kadita",
+              "skin": "Maiden of the Tide",
+              "note": "Август",
+              "image": "/images/skins/kadita/maiden-of-the-tide.webp"
+            },
+            {
+              "hero": "Ханаби",
+              "slug": "hanabi",
+              "skin": "Chic Glamour",
+              "note": "Сентябрь",
+              "image": "/images/skins/hanabi/chic-glamour.webp"
+            },
+            {
+              "hero": "Ив",
+              "slug": "yve",
+              "skin": "Flame Lotus",
+              "note": "Октябрь",
+              "image": "/images/skins/yve/flame-lotus.webp"
+            },
+            {
+              "hero": "Бэйн",
+              "slug": "bane",
+              "skin": "Lord of Scalding Seas",
+              "note": "Ноябрь",
+              "image": "/images/skins/bane/lord-of-scalding-seas.webp"
+            },
+            {
+              "hero": "Фредрин",
+              "slug": "fredrinn",
+              "skin": "Royal Marshal",
+              "note": "Декабрь",
+              "image": "/images/skins/fredrinn/royal-marshal.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2024",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2024 году",
+          "items": [
+            {
+              "hero": "Бруно",
+              "slug": "bruno",
+              "skin": "Street Hype",
+              "note": "Январь",
+              "image": "/images/skins/bruno/street-hype.webp"
+            },
+            {
+              "hero": "Новария",
+              "slug": "novaria",
+              "skin": "Sugar Glaze",
+              "note": "Февраль",
+              "image": "/images/skins/novaria/sugar-glaze.webp"
+            },
+            {
+              "hero": "Иксия",
+              "slug": "ixia",
+              "skin": "Dynamic Streak",
+              "note": "Март",
+              "image": "/images/skins/ixia/dynamic-streak.webp"
+            },
+            {
+              "hero": "Лилия",
+              "slug": "lylia",
+              "skin": "Magitech Arsenal",
+              "note": "Апрель",
+              "image": "/images/skins/lylia/magitech-arsenal.webp"
+            },
+            {
+              "hero": "Нолан",
+              "slug": "nolan",
+              "skin": "Fashion Mogul",
+              "note": "Май",
+              "image": "/images/skins/nolan/fashion-mogul.webp"
+            },
+            {
+              "hero": "Хелкарт",
+              "slug": "helcurt",
+              "skin": "Dream Prowler",
+              "note": "Июнь",
+              "image": "/images/skins/helcurt/dream-prowler.webp"
+            },
+            {
+              "hero": "Госсен",
+              "slug": "gusion",
+              "skin": "Desert Spider",
+              "note": "Июль",
+              "image": "/images/skins/gusion/desert-spider.webp"
+            },
+            {
+              "hero": "Гатоткача",
+              "slug": "gatotkaca",
+              "skin": "Nutcracker Monarch",
+              "note": "Август",
+              "image": "/images/skins/gatotkaca/nutcracker-monarch.webp"
+            },
+            {
+              "hero": "Одетта",
+              "slug": "odette",
+              "skin": "Wisdom of the Stars",
+              "note": "Сентябрь",
+              "image": "/images/skins/odette/wisdom-of-the-stars.webp"
+            },
+            {
+              "hero": "Заск",
+              "slug": "zhask",
+              "skin": "Death's Shadow",
+              "note": "Октябрь",
+              "image": "/images/skins/zhask/deaths-shadow.webp"
+            },
+            {
+              "hero": "Мартис",
+              "slug": "martis",
+              "skin": "Darkwater Terror",
+              "note": "Ноябрь",
+              "image": "/images/skins/martis/darkwater-terror.webp"
+            },
+            {
+              "hero": "Ксавьер",
+              "slug": "xavier",
+              "skin": "Hardlight Artificer",
+              "note": "Декабрь",
+              "image": "/images/skins/xavier/hardlight-artificer.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2023",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2023 году",
+          "items": [
+            {
+              "hero": "Эймон",
+              "slug": "aamon",
+              "skin": "Cyber Assassin",
+              "note": "Январь",
+              "image": "/images/skins/aamon/cyber-assassin.webp"
+            },
+            {
+              "hero": "Сабер",
+              "slug": "saber",
+              "skin": "Iron Hound",
+              "note": "Февраль",
+              "image": "/images/skins/saber/iron-hound.webp"
+            },
+            {
+              "hero": "Валентина",
+              "slug": "valentina",
+              "skin": "Cyber Agent",
+              "note": "Март",
+              "image": "/images/skins/valentina/cyber-agent.webp"
+            },
+            {
+              "hero": "Эдит",
+              "slug": "edith",
+              "skin": "Ancient Warden",
+              "note": "Апрель",
+              "image": "/images/skins/edith/ancient-warden.webp"
+            },
+            {
+              "hero": "Москов",
+              "slug": "moskov",
+              "skin": "Violet Spear",
+              "note": "Май",
+              "image": "/images/skins/moskov/violet-spear.webp"
+            },
+            {
+              "hero": "Тамуз",
+              "slug": "thamuz",
+              "skin": "Sanctified Flame",
+              "note": "Июнь",
+              "image": "/images/skins/thamuz/sanctified-flame.webp"
+            },
+            {
+              "hero": "Минситтар",
+              "slug": "minsitthar",
+              "skin": "War Lion",
+              "note": "Июль",
+              "image": "/images/skins/minsitthar/war-lion.webp"
+            },
+            {
+              "hero": "Инь",
+              "slug": "yin",
+              "skin": "Eternal Guardian",
+              "note": "Август",
+              "image": "/images/skins/yin/eternal-guardian.webp"
+            },
+            {
+              "hero": "Альфа",
+              "slug": "alpha",
+              "skin": "Star Enforcer",
+              "note": "Сентябрь",
+              "image": "/images/skins/alpha/star-enforcer.webp"
+            },
+            {
+              "hero": "Лейла",
+              "slug": "layla",
+              "skin": "Twilight Waltz",
+              "note": "Октябрь",
+              "image": "/images/skins/layla/twilight-waltz.webp"
+            },
+            {
+              "hero": "Мелисса",
+              "slug": "melissa",
+              "skin": "Nightwalker",
+              "note": "Ноябрь",
+              "image": "/images/skins/melissa/nightwalker.webp"
+            },
+            {
+              "hero": "Арлотт",
+              "slug": "arlott",
+              "skin": "Fury of the Deep",
+              "note": "Декабрь",
+              "image": "/images/skins/arlott/fury-of-the-deep.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2022",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2022 году",
+          "items": [
+            {
+              "hero": "Клинт",
+              "slug": "clint",
+              "skin": "Operator CL",
+              "note": "Январь",
+              "image": "/images/skins/clint/operator-cl.webp"
+            },
+            {
+              "hero": "Сесилион",
+              "slug": "cecilion",
+              "skin": "Stargazer",
+              "note": "Февраль",
+              "image": "/images/skins/cecilion/stargazer.webp"
+            },
+            {
+              "hero": "Беатрис",
+              "slug": "beatrix",
+              "skin": "Space Agent",
+              "note": "Март",
+              "image": "/images/skins/beatrix/space-agent.webp"
+            },
+            {
+              "hero": "Бальмонд",
+              "slug": "balmond",
+              "skin": "Bioroid",
+              "note": "Апрель",
+              "image": "/images/skins/balmond/bioroid.webp"
+            },
+            {
+              "hero": "Пакито",
+              "slug": "paquito",
+              "skin": "Fulgent Punch",
+              "note": "Май",
+              "image": "/images/skins/paquito/fulgent-punch.webp"
+            },
+            {
+              "hero": "Тигрил",
+              "slug": "tigreal",
+              "skin": "Galactic Marshal",
+              "note": "Июнь",
+              "image": "/images/skins/tigreal/galactic-marshal.webp"
+            },
+            {
+              "hero": "Нана",
+              "slug": "nana",
+              "skin": "Cyclone Clash",
+              "note": "Июль",
+              "image": "/images/skins/nana/cyclone-clash.webp"
+            },
+            {
+              "hero": "Натан",
+              "slug": "natan",
+              "skin": "Captain Chrono",
+              "note": "Август",
+              "image": "/images/skins/natan/captain-chrono.webp"
+            },
+            {
+              "hero": "Атлас",
+              "slug": "atlas",
+              "skin": "Space Mech",
+              "note": "Сентябрь",
+              "image": "/images/skins/atlas/space-mech.webp"
+            },
+            {
+              "hero": "Эйдора",
+              "slug": "eudora",
+              "skin": "Cosmic Voyage",
+              "note": "Октябрь",
+              "image": "/images/skins/eudora/cosmic-voyage.webp"
+            },
+            {
+              "hero": "Пополь и Купа",
+              "slug": "popol-and-kupa",
+              "skin": "Trouble Makers",
+              "note": "Ноябрь",
+              "image": "/images/skins/popol-and-kupa/trouble-makers.webp"
+            },
+            {
+              "hero": "Вексана",
+              "slug": "vexana",
+              "skin": "Circus Magician",
+              "note": "Декабрь",
+              "image": "/images/skins/vexana/circus-magician.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2021",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2021 году",
+          "items": [
+            {
+              "hero": "Бенедетта",
+              "slug": "benedetta",
+              "skin": "Street Thrasher",
+              "note": "Январь",
+              "image": "/images/skins/benedetta/street-thrasher.webp"
+            },
+            {
+              "hero": "Лапу-Лапу",
+              "slug": "lapu-lapu",
+              "skin": "Special Force",
+              "note": "Февраль",
+              "image": "/images/skins/lapu-lapu/special-force.webp"
+            },
+            {
+              "hero": "Хуфра",
+              "slug": "khufra",
+              "skin": "Dreadful Clown",
+              "note": "Март",
+              "image": "/images/skins/khufra/dreadful-clown.webp"
+            },
+            {
+              "hero": "Кагура",
+              "slug": "kagura",
+              "skin": "Rainy Walk",
+              "note": "Апрель",
+              "image": "/images/skins/kagura/rainy-walk.webp"
+            },
+            {
+              "hero": "Ли Сун-Син",
+              "slug": "yi-sun-shin",
+              "skin": "Azure Sentry",
+              "note": "Май",
+              "image": "/images/skins/yi-sun-shin/azure-sentry.webp"
+            },
+            {
+              "hero": "Кусака",
+              "slug": "jawhead",
+              "skin": "Candy Bear",
+              "note": "Июнь",
+              "image": "/images/skins/jawhead/candy-bear.webp"
+            },
+            {
+              "hero": "Сан",
+              "slug": "sun",
+              "skin": "Simian Curse",
+              "note": "Июль",
+              "image": "/images/skins/sun/simian-curse.webp"
+            },
+            {
+              "hero": "Ло Йи",
+              "slug": "luo-yi",
+              "skin": "Siren Priestess",
+              "note": "Август",
+              "image": "/images/skins/luo-yi/siren-priestess.webp"
+            },
+            {
+              "hero": "Фаша",
+              "slug": "pharsa",
+              "skin": "Peony Bloom",
+              "note": "Сентябрь",
+              "image": "/images/skins/pharsa/peony-bloom.webp"
+            },
+            {
+              "hero": "Руби",
+              "slug": "ruby",
+              "skin": "Pirate Parrot",
+              "note": "Октябрь",
+              "image": "/images/skins/ruby/pirate-parrot.webp"
+            },
+            {
+              "hero": "Вэйл",
+              "slug": "vale",
+              "skin": "Soaring Devata",
+              "note": "Ноябрь",
+              "image": "/images/skins/vale/soaring-devata.webp"
+            },
+            {
+              "hero": "Броуди",
+              "slug": "brody",
+              "skin": "Lethal Fang",
+              "note": "Декабрь",
+              "image": "/images/skins/brody/lethal-fang.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2020",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2020 году",
+          "items": [
+            {
+              "hero": "Валир",
+              "slug": "valir",
+              "skin": "Dictator",
+              "note": "Январь",
+              "image": "/images/skins/valir/dictator.webp"
+            },
+            {
+              "hero": "Маша",
+              "slug": "masha",
+              "skin": "Combat Maiden",
+              "note": "Февраль",
+              "image": "/images/skins/masha/combat-maiden.webp"
+            },
+            {
+              "hero": "Линг",
+              "slug": "ling",
+              "skin": "Street Punk",
+              "note": "Март",
+              "image": "/images/skins/ling/street-punk.webp"
+            },
+            {
+              "hero": "Лесли",
+              "slug": "lesley",
+              "skin": "Lethal Lady",
+              "note": "Апрель",
+              "image": "/images/skins/lesley/lethal-lady.webp"
+            },
+            {
+              "hero": "Грейнджер",
+              "slug": "granger",
+              "skin": "Biosoldier",
+              "note": "Май",
+              "image": "/images/skins/granger/biosoldier.webp"
+            },
+            {
+              "hero": "Икс.Борг",
+              "slug": "x-borg",
+              "skin": "Graffiti Fashion",
+              "note": "Июнь",
+              "image": "/images/skins/x-borg/graffiti-fashion.webp"
+            },
+            {
+              "hero": "Хаябуса",
+              "slug": "hayabusa",
+              "skin": "Biological Weapon",
+              "note": "Июль",
+              "image": "/images/skins/hayabusa/biological-weapon.webp"
+            },
+            {
+              "hero": "Ванван",
+              "slug": "wanwan",
+              "skin": "Teen Pop",
+              "note": "Август",
+              "image": "/images/skins/wanwan/teen-pop.webp"
+            },
+            {
+              "hero": "Эсмеральда",
+              "slug": "esmeralda",
+              "skin": "Cleopatra",
+              "note": "Сентябрь",
+              "image": "/images/skins/esmeralda/cleopatra.webp"
+            },
+            {
+              "hero": "Сильвана",
+              "slug": "silvanna",
+              "skin": "Pure Heroine",
+              "note": "Октябрь",
+              "image": "/images/skins/silvanna/pure-heroine.webp"
+            },
+            {
+              "hero": "Чан'Э",
+              "slug": "change",
+              "skin": "Strawberry Parfait",
+              "note": "Ноябрь",
+              "image": "/images/skins/change/strawberry-parfait.webp"
+            },
+            {
+              "hero": "Чонг",
+              "slug": "yu-zhong",
+              "skin": "Biohazard",
+              "note": "Декабрь",
+              "image": "/images/skins/yu-zhong/biohazard.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2019",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2019 году",
+          "items": [
+            {
+              "hero": "Леоморд",
+              "slug": "leomord",
+              "skin": "Frostborn Paladin",
+              "note": "Январь",
+              "image": "/images/skins/leomord/frostborn-paladin.webp"
+            },
+            {
+              "hero": "Алиса",
+              "slug": "alice",
+              "skin": "Steam Glider",
+              "note": "Февраль",
+              "image": "/images/skins/alice/steam-glider.webp"
+            },
+            {
+              "hero": "Кимми",
+              "slug": "kimmy",
+              "skin": "Bio Frontier",
+              "note": "Март",
+              "image": "/images/skins/kimmy/bio-frontier.webp"
+            },
+            {
+              "hero": "Ханаби",
+              "slug": "hanabi",
+              "skin": "Fiery Moth",
+              "note": "Апрель",
+              "image": "/images/skins/hanabi/fiery-moth.webp"
+            },
+            {
+              "hero": "Люнокс",
+              "slug": "lunox",
+              "skin": "Ash Blossom",
+              "note": "Май",
+              "image": "/images/skins/lunox/ash-blossom.webp"
+            },
+            {
+              "hero": "Кайя",
+              "slug": "kaja",
+              "skin": "Kaminari",
+              "note": "Июнь",
+              "image": "/images/skins/kaja/kaminari.webp"
+            },
+            {
+              "hero": "Алдос",
+              "slug": "aldous",
+              "skin": "The Insentient",
+              "note": "Июль",
+              "image": "/images/skins/aldous/the-insentient.webp"
+            },
+            {
+              "hero": "Чу",
+              "slug": "chou",
+              "skin": "Go Ballistic",
+              "note": "Август",
+              "image": "/images/skins/chou/go-ballistic.webp"
+            },
+            {
+              "hero": "Гвиневра",
+              "slug": "guinevere",
+              "skin": "Lotus",
+              "note": "Сентябрь",
+              "image": "/images/skins/guinevere/lotus.webp"
+            },
+            {
+              "hero": "Селена",
+              "slug": "selena",
+              "skin": "Double Identity",
+              "note": "Октябрь",
+              "image": "/images/skins/selena/double-identity.webp"
+            },
+            {
+              "hero": "Грок",
+              "slug": "grock",
+              "skin": "Iceland Golem",
+              "note": "Ноябрь",
+              "image": "/images/skins/grock/iceland-golem.webp"
+            },
+            {
+              "hero": "Дариус",
+              "slug": "dyrroth",
+              "skin": "Ruins Scavenger",
+              "note": "Декабрь",
+              "image": "/images/skins/dyrroth/ruins-scavenger.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2018",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2018 году",
+          "items": [
+            {
+              "hero": "Кэрри",
+              "slug": "karrie",
+              "skin": "Dragon Queen",
+              "note": "Январь",
+              "image": "/images/skins/karrie/dragon-queen.webp"
+            },
+            {
+              "hero": "Роджер",
+              "slug": "roger",
+              "skin": "Anubis",
+              "note": "Февраль",
+              "image": "/images/skins/roger/anubis.webp"
+            },
+            {
+              "hero": "Иритель",
+              "slug": "irithel",
+              "skin": "Nightarrow",
+              "note": "Март",
+              "image": "/images/skins/irithel/nightarrow.webp"
+            },
+            {
+              "hero": "Харли",
+              "slug": "harley",
+              "skin": "Royal Magister",
+              "note": "Апрель",
+              "image": "/images/skins/harley/royal-magister.webp"
+            },
+            {
+              "hero": "Мартис",
+              "slug": "martis",
+              "skin": "Searing Maw",
+              "note": "Май",
+              "image": "/images/skins/martis/searing-maw.webp"
+            },
+            {
+              "hero": "Акай",
+              "slug": "akai",
+              "skin": "Akazonae Samurai",
+              "note": "Июнь",
+              "image": "/images/skins/akai/akazonae-samurai.webp"
+            },
+            {
+              "hero": "Ангела",
+              "slug": "angela",
+              "skin": "Shanghai Maiden",
+              "note": "Июль",
+              "image": "/images/skins/angela/shanghai-maiden.webp"
+            },
+            {
+              "hero": "Ланселот",
+              "slug": "lancelot",
+              "skin": "Dark Earl",
+              "note": "Август",
+              "image": "/images/skins/lancelot/dark-earl.webp"
+            },
+            {
+              "hero": "Циклоп",
+              "slug": "cyclops",
+              "skin": "Deep Sea Rescuer",
+              "note": "Сентябрь",
+              "image": "/images/skins/cyclops/deep-sea-rescuer.webp"
+            },
+            {
+              "hero": "Госсен",
+              "slug": "gusion",
+              "skin": "Cyber Ops",
+              "note": "Октябрь",
+              "image": "/images/skins/gusion/cyber-ops.webp"
+            },
+            {
+              "hero": "Клауд",
+              "slug": "claude",
+              "skin": "Plunderous Pirate",
+              "note": "Ноябрь",
+              "image": "/images/skins/claude/plunderous-pirate.webp"
+            },
+            {
+              "hero": "Фанни",
+              "slug": "fanny",
+              "skin": "Royal Cavalry",
+              "note": "Декабрь",
+              "image": "/images/skins/fanny/royal-cavalry.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "sl-2017",
+          "layout": "wide-sm",
+          "title": "Звёздный участник в 2017 году",
+          "items": [
+            {
+              "hero": "Лейла",
+              "slug": "layla",
+              "skin": "Bunny Babe",
+              "note": "Январь",
+              "image": "/images/skins/layla/bunny-babe.webp"
+            },
+            {
+              "hero": "Мия",
+              "slug": "miya",
+              "skin": "Captain Thorns",
+              "note": "Февраль",
+              "image": "/images/skins/miya/captain-thorns.webp"
+            },
+            {
+              "hero": "Фрейя",
+              "slug": "freya",
+              "skin": "Dragon Hunter",
+              "note": "Март",
+              "image": "/images/skins/freya/dragon-hunter.webp"
+            },
+            {
+              "hero": "Наталья",
+              "slug": "natalia",
+              "skin": "Phantom Dancer",
+              "note": "Апрель",
+              "image": "/images/skins/natalia/phantom-dancer.webp"
+            },
+            {
+              "hero": "Москов",
+              "slug": "moskov",
+              "skin": "Snake Eye Commander",
+              "note": "Май",
+              "image": "/images/skins/moskov/snake-eye-commander.webp"
+            },
+            {
+              "hero": "Зилонг",
+              "slug": "zilong",
+              "skin": "Eastern Warrior",
+              "note": "Июнь",
+              "image": "/images/skins/zilong/eastern-warrior.webp"
+            },
+            {
+              "hero": "Карина",
+              "slug": "karina",
+              "skin": "Black Pearl",
+              "note": "Июль",
+              "image": "/images/skins/karina/black-pearl.webp"
+            },
+            {
+              "hero": "Франко",
+              "slug": "franco",
+              "skin": "Apocalypse",
+              "note": "Август",
+              "image": "/images/skins/franco/apocalypse.webp"
+            },
+            {
+              "hero": "Клинт",
+              "slug": "clint",
+              "skin": "Rock and Roll",
+              "note": "Сентябрь",
+              "image": "/images/skins/clint/rock-and-roll.webp"
+            },
+            {
+              "hero": "Аврора",
+              "slug": "aurora",
+              "skin": "Heartbreak Empress",
+              "note": "Октябрь",
+              "image": "/images/skins/aurora/heartbreak-empress.webp"
+            },
+            {
+              "hero": "Аргус",
+              "slug": "argus",
+              "skin": "Dark Draconic",
+              "note": "Ноябрь",
+              "image": "/images/skins/argus/dark-draconic.webp"
+            },
+            {
+              "hero": "Алукард",
+              "slug": "alucard",
+              "skin": "Viscount",
+              "note": "Декабрь",
+              "image": "/images/skins/alucard/viscount.webp"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Первый облик пропуска вышел в декабре 2016 года: Сабер «Force Warrior»."
+        },
+        {
+          "type": "heading",
+          "id": "annual",
+          "text": "Облики ежегодного звёздного фестиваля"
+        },
+        {
+          "type": "paragraph",
+          "text": "Раз в год, на звёздном фестивале, выходил отдельный облик более высокой редкости. Его не было в обычном месячном пропуске, а сейчас такие облики возвращаются в звёздный магазин по 5 000 фрагментов."
+        },
+        {
+          "type": "table",
+          "caption": "Облики звёздного фестиваля",
+          "visuals": true,
+          "headers": [
+            "Год",
+            "Герой",
+            "Облик"
+          ],
+          "rows": [
+            [
+              "2018",
+              "Хаябуса",
+              "Experiment 21"
+            ],
+            [
+              "2019",
+              "Горд",
+              "No.1 Controller"
+            ],
+            [
+              "2020",
+              "Кэрри",
+              "Neon Lightwheel"
+            ],
+            [
+              "2021",
+              "Кагура",
+              "Water Lily"
+            ],
+            [
+              "2021",
+              "Лесли",
+              "Hawk-eyed Sniper"
+            ],
+            [
+              "2023",
+              "Ангела",
+              "Avatar of Time"
+            ],
+            [
+              "2024",
+              "Вэйл",
+              "Concerto of Light"
+            ]
+          ]
+        },
+        {
+          "type": "cta",
+          "id": "starlight-rank",
+          "eyebrow": "Облик есть, нужен ранг",
+          "title": "Узнайте цену буста до нужного ранга",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-perks"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Сколько стоит Звёздный участник в MLBB?",
+              "a": "300 алмазов в месяц. Расширенная версия стоит 750 алмазов и сразу даёт 15 уровней пропуска."
+            },
+            {
+              "q": "Какой облик у Звёздного участника в декабре 2026?",
+              "a": "В вики-списке и утечках — Су Ё «Frostblade Duelist». MOONTON подтверждает облик месяца в последние дни перед ним."
+            },
+            {
+              "q": "Когда начинается новый Звёздный участник?",
+              "a": "1-го числа каждого месяца в 00:00 по серверному времени. Тогда же обнуляются задания, уровни и звёздный магазин."
+            },
+            {
+              "q": "Можно ли получить облик прошлого месяца?",
+              "a": "Да, в звёздном магазине за 3 000 фрагментов, облик фестиваля — за 5 000. Обмен доступен только при пропуске в текущем месяце."
+            },
+            {
+              "q": "У каких героев два звёздных облика?",
+              "a": "У 12 героев: Госсен, Иритель, Клинт, Лейла, Мартис, Мия, Москов, Сабер, Фрейя, Ханаби, Харли и Хаябуса."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "StarLight: список обликов по месяцам (данные вики Mobile Legends, CC BY-SA)",
+          "publisher": "MLBBDex",
+          "url": "https://mlbbdex.com/en/events",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "MLBB November 2026 Starlight: Skin, Price, Rewards",
+          "publisher": "timesaver.gg",
+          "url": "https://timesaver.gg/blog/mlbb-starlight-skin",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "MLBB April 2026: Zetian’s Sunset Luminance StarLight",
+          "publisher": "GamingOnPhone",
+          "url": "https://gamingonphone.com/action/mobile-legends-bang-bang-mlbb-april-2026-zetians-sunset-luminance-starlight-pass-details/",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "MLBB December 2026 Skin Leaks: Suyou Frostblade Duelist",
+          "publisher": "Joytify",
+          "url": "https://www.joytify.com/blog/en-us/moba-and-fps/mobile-legends/mlbb-december-2026-skin-leaks-suyou-lylia/",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "MLBB StarLight: price, rewards and every skin by month",
+          "seoTitle": "MLBB StarLight: every skin by month and price",
+          "description": "How much StarLight costs in Mobile Legends, what it gives besides the skin and which skin came out every month from December 2016 to December 2026.",
+          "excerpt": "In November 2026 it is Kalea \"Tideborn Sailor\" for 300 Diamonds. Here are all 120 skins since 2016 and what else the pass gives.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "StarLight",
+            "Skins",
+            "Diamonds",
+            "Pass"
+          ],
+          "editorialNote": "The month-by-month list was collected on 24 November 2026 from the Mobile Legends wiki via the MLBBDex catalogue (CC BY-SA licence) and checked against coverage of each month of 2026. Prices and perks follow the MOONTON perks video and the timesaver.gg breakdown.",
+          "hero": {
+            "alt": "StarLight skins from August to November 2026: Aulus, Hanzo, Hayabusa and Kalea",
+            "caption": "Boost MLBB illustration: AI-generated background, skin art by MOONTON."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "StarLight costs 300 Diamonds a month, the Plus version 750.",
+                "The November 2026 skin is Kalea \"Tideborn Sailor\". The wiki list has Suyou \"Frostblade Duelist\" for December; MOONTON has not confirmed it yet.",
+                "Besides the skin, members get +10 Protection Points for every ranked loss and access to the StarLight Shop.",
+                "Since December 2016 there have been 120 skins. 108 of the 133 heroes got one, while 25 heroes, Marcel and Hirara among them, never have."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "StarLight is a paid pass for one month. It opens on the 1st at 00:00 server time and gives the skin of the month at once. The other rewards come over 60 levels that grow with matches and tasks. At the end of the month the skin leaves the pass page, and tasks, levels and the shop reset."
+            },
+            {
+              "type": "heading",
+              "id": "price",
+              "text": "How much it costs"
+            },
+            {
+              "type": "table",
+              "caption": "StarLight prices in November 2026",
+              "headers": [
+                "Item",
+                "Price",
+                "Who needs it"
+              ],
+              "rows": [
+                [
+                  "StarLight",
+                  "300 Diamonds",
+                  "Anyone who wants the skin of the month and the perks"
+                ],
+                [
+                  "StarLight Plus",
+                  "750 Diamonds",
+                  "Late buyers: 15 levels at once"
+                ],
+                [
+                  "Painted version of the skin",
+                  "100 Diamonds",
+                  "Members of that month only"
+                ],
+                [
+                  "StarLight Chest",
+                  "10 Diamonds a draw",
+                  "Up to 50 draws a month, random rewards"
+                ]
+              ],
+              "note": "Prices from the MOONTON perks video and the timesaver.gg breakdown of 31 October 2026. Check the price in the game before buying."
+            },
+            {
+              "type": "paragraph",
+              "text": "Plus costs 450 Diamonds more. In return it gives 1,500 StarLight points, which is 15 levels at once, and 10% more points for the rest of the month. If you play almost every day, level 60 is reachable with the regular pass: for the first three weeks tasks open up to 18 levels a week, and the last week has no cap. Plus only pays off if you start near the end of the month."
+            },
+            {
+              "type": "heading",
+              "id": "perks",
+              "text": "What you get besides the skin"
+            },
+            {
+              "type": "list",
+              "items": [
+                "+10 Protection Points for every ranked loss.",
+                "10% more EXP, 5% more Battle Points and 30% more Mastery Points per match.",
+                "Up to 200 friends.",
+                "An avatar border, chat frame, battle emotes and spawn, recall and elimination effects in the month’s theme.",
+                "Access to the StarLight Shop, where fragments buy skins from past months."
+              ]
+            },
+            {
+              "type": "callout",
+              "label": "If you are climbing ranks",
+              "text": "The Protection Points matter more than the skin. The star protection bar fills faster, so a losing streak costs fewer stars. Our ranks guide explains how protection and stars work."
+            },
+            {
+              "type": "linkCard",
+              "label": "Guide",
+              "title": "Mobile Legends ranks in order",
+              "description": "Every rank, star counts, star protection and the road to Mythic",
+              "href": "https://boostmlbb.ru/news/mlbb-ranks-in-order/"
+            },
+            {
+              "type": "heading",
+              "id": "shop",
+              "text": "How to get a skin from a past month"
+            },
+            {
+              "type": "paragraph",
+              "text": "Through the StarLight Shop. Since November 2026 MOONTON has added returning skins and Returning StarLight Packs there. According to GamingOnPhone, a regular old skin costs 3,000 StarLight Fragments and an Annual StarLight skin 5,000. A month of the pass brings from about 920 to 1,120 fragments, so one skin takes roughly three months. The exchange is open only to players who hold the pass in the current month."
+            },
+            {
+              "type": "heading",
+              "id": "year-2026",
+              "text": "Skins of 2026"
+            },
+            {
+              "type": "skins",
+              "id": "sl-2026",
+              "layout": "wide",
+              "title": "StarLight in 2026",
+              "items": [
+                {
+                  "hero": "Harley",
+                  "slug": "harley",
+                  "skin": "Dreaming Koi",
+                  "note": "January",
+                  "image": "/images/skins/harley/dreaming-koi.webp"
+                },
+                {
+                  "hero": "Hilda",
+                  "slug": "hilda",
+                  "skin": "Guardian Battalion",
+                  "note": "February",
+                  "image": "/images/skins/hilda/guardian-battalion.webp"
+                },
+                {
+                  "hero": "Freya",
+                  "slug": "freya",
+                  "skin": "Starborn Resolve",
+                  "note": "March",
+                  "image": "/images/skins/freya/starborn-resolve.webp"
+                },
+                {
+                  "hero": "Zetian",
+                  "slug": "zetian",
+                  "skin": "Sunset Luminance",
+                  "note": "April",
+                  "image": "/images/skins/zetian/sunset-luminance.webp"
+                },
+                {
+                  "hero": "Obsidia",
+                  "slug": "obsidia",
+                  "skin": "Magitech Wraith",
+                  "note": "May",
+                  "image": "/images/skins/obsidia/magitech-wraith.webp"
+                },
+                {
+                  "hero": "Harith",
+                  "slug": "harith",
+                  "skin": "Rebel Emberfang",
+                  "note": "June",
+                  "image": "/images/skins/harith/rebel-emberfang.webp"
+                },
+                {
+                  "hero": "Belerick",
+                  "slug": "belerick",
+                  "skin": "Smouldering Fortress",
+                  "note": "July",
+                  "image": "/images/skins/belerick/smouldering-fortress.webp"
+                },
+                {
+                  "hero": "Aulus",
+                  "slug": "aulus",
+                  "skin": "Starwake Corsair",
+                  "note": "August",
+                  "image": "/images/skins/aulus/starwake-corsair.webp"
+                },
+                {
+                  "hero": "Hanzo",
+                  "slug": "hanzo",
+                  "skin": "Fangs of Slaughter",
+                  "note": "September",
+                  "image": "/images/skins/hanzo/fangs-of-slaughter.webp"
+                },
+                {
+                  "hero": "Hayabusa",
+                  "slug": "hayabusa",
+                  "skin": "Kitsune's Shadow",
+                  "note": "October",
+                  "image": "/images/skins/hayabusa/kitsunes-shadow.webp"
+                },
+                {
+                  "hero": "Kalea",
+                  "slug": "kalea",
+                  "skin": "Tideborn Sailor",
+                  "note": "November",
+                  "image": "/images/skins/kalea/tideborn-sailor.webp"
+                },
+                {
+                  "hero": "Suyou",
+                  "slug": "suyou",
+                  "skin": "Frostblade Duelist",
+                  "note": "December (expected)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "December comes from the wiki list and leaks. MOONTON shows the skin of the month in the last days before it, usually in a perks video."
+            },
+            {
+              "type": "paragraph",
+              "text": "If the leak is right, this will be Suyou’s first StarLight skin. Pass skins go most often to fighters (33 of 120), mages (25) and marksmen (24). There have been 22 assassins, 14 tanks and only 2 supports."
+            },
+            {
+              "type": "heading",
+              "id": "all-years",
+              "text": "Every skin since 2016"
+            },
+            {
+              "type": "paragraph",
+              "text": "12 heroes have two pass skins: Gusion, Irithel, Clint, Layla, Martis, Miya, Moskov, Saber, Freya, Hanabi, Harley and Hayabusa. 25 have none: Badang, Baxia, Barats, Gloo, Johnson, Julian, Diggie, Carmilla, Lolita, Lukas, Marcel, Mathilda, Minotaur, Rafaela, Sora, Suyou, Terizla, Uranus, Faramis, Floryn, Khaleed, Hylos, Hirara, Chip and Estes."
+            },
+            {
+              "type": "skins",
+              "id": "sl-2025",
+              "layout": "wide-sm",
+              "title": "StarLight in 2025",
+              "items": [
+                {
+                  "hero": "Zhuxin",
+                  "slug": "zhuxin",
+                  "skin": "Emberwisp Mystic",
+                  "note": "January",
+                  "image": "/images/skins/zhuxin/emberwisp-mystic.webp"
+                },
+                {
+                  "hero": "Irithel",
+                  "slug": "irithel",
+                  "skin": "Checkered Knight",
+                  "note": "February",
+                  "image": "/images/skins/irithel/checkered-knight.webp"
+                },
+                {
+                  "hero": "Cici",
+                  "slug": "cici",
+                  "skin": "Circus Reverie",
+                  "note": "March",
+                  "image": "/images/skins/cici/circus-reverie.webp"
+                },
+                {
+                  "hero": "Joy",
+                  "slug": "joy",
+                  "skin": "Exostar Scout",
+                  "note": "April",
+                  "image": "/images/skins/joy/exostar-scout.webp"
+                },
+                {
+                  "hero": "Miya",
+                  "slug": "miya",
+                  "skin": "Nightowl Huntress",
+                  "note": "May",
+                  "image": "/images/skins/miya/nightowl-huntress.webp"
+                },
+                {
+                  "hero": "Gord",
+                  "slug": "gord",
+                  "skin": "Imperator Vitalis",
+                  "note": "June",
+                  "image": "/images/skins/gord/imperator-vitalis.webp"
+                },
+                {
+                  "hero": "Phoveus",
+                  "slug": "phoveus",
+                  "skin": "Matrix Maverick",
+                  "note": "July",
+                  "image": "/images/skins/phoveus/matrix-maverick.webp"
+                },
+                {
+                  "hero": "Kadita",
+                  "slug": "kadita",
+                  "skin": "Maiden of the Tide",
+                  "note": "August",
+                  "image": "/images/skins/kadita/maiden-of-the-tide.webp"
+                },
+                {
+                  "hero": "Hanabi",
+                  "slug": "hanabi",
+                  "skin": "Chic Glamour",
+                  "note": "September",
+                  "image": "/images/skins/hanabi/chic-glamour.webp"
+                },
+                {
+                  "hero": "Yve",
+                  "slug": "yve",
+                  "skin": "Flame Lotus",
+                  "note": "October",
+                  "image": "/images/skins/yve/flame-lotus.webp"
+                },
+                {
+                  "hero": "Bane",
+                  "slug": "bane",
+                  "skin": "Lord of Scalding Seas",
+                  "note": "November",
+                  "image": "/images/skins/bane/lord-of-scalding-seas.webp"
+                },
+                {
+                  "hero": "Fredrinn",
+                  "slug": "fredrinn",
+                  "skin": "Royal Marshal",
+                  "note": "December",
+                  "image": "/images/skins/fredrinn/royal-marshal.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2024",
+              "layout": "wide-sm",
+              "title": "StarLight in 2024",
+              "items": [
+                {
+                  "hero": "Bruno",
+                  "slug": "bruno",
+                  "skin": "Street Hype",
+                  "note": "January",
+                  "image": "/images/skins/bruno/street-hype.webp"
+                },
+                {
+                  "hero": "Novaria",
+                  "slug": "novaria",
+                  "skin": "Sugar Glaze",
+                  "note": "February",
+                  "image": "/images/skins/novaria/sugar-glaze.webp"
+                },
+                {
+                  "hero": "Ixia",
+                  "slug": "ixia",
+                  "skin": "Dynamic Streak",
+                  "note": "March",
+                  "image": "/images/skins/ixia/dynamic-streak.webp"
+                },
+                {
+                  "hero": "Lylia",
+                  "slug": "lylia",
+                  "skin": "Magitech Arsenal",
+                  "note": "April",
+                  "image": "/images/skins/lylia/magitech-arsenal.webp"
+                },
+                {
+                  "hero": "Nolan",
+                  "slug": "nolan",
+                  "skin": "Fashion Mogul",
+                  "note": "May",
+                  "image": "/images/skins/nolan/fashion-mogul.webp"
+                },
+                {
+                  "hero": "Helcurt",
+                  "slug": "helcurt",
+                  "skin": "Dream Prowler",
+                  "note": "June",
+                  "image": "/images/skins/helcurt/dream-prowler.webp"
+                },
+                {
+                  "hero": "Gusion",
+                  "slug": "gusion",
+                  "skin": "Desert Spider",
+                  "note": "July",
+                  "image": "/images/skins/gusion/desert-spider.webp"
+                },
+                {
+                  "hero": "Gatotkaca",
+                  "slug": "gatotkaca",
+                  "skin": "Nutcracker Monarch",
+                  "note": "August",
+                  "image": "/images/skins/gatotkaca/nutcracker-monarch.webp"
+                },
+                {
+                  "hero": "Odette",
+                  "slug": "odette",
+                  "skin": "Wisdom of the Stars",
+                  "note": "September",
+                  "image": "/images/skins/odette/wisdom-of-the-stars.webp"
+                },
+                {
+                  "hero": "Zhask",
+                  "slug": "zhask",
+                  "skin": "Death's Shadow",
+                  "note": "October",
+                  "image": "/images/skins/zhask/deaths-shadow.webp"
+                },
+                {
+                  "hero": "Martis",
+                  "slug": "martis",
+                  "skin": "Darkwater Terror",
+                  "note": "November",
+                  "image": "/images/skins/martis/darkwater-terror.webp"
+                },
+                {
+                  "hero": "Xavier",
+                  "slug": "xavier",
+                  "skin": "Hardlight Artificer",
+                  "note": "December",
+                  "image": "/images/skins/xavier/hardlight-artificer.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2023",
+              "layout": "wide-sm",
+              "title": "StarLight in 2023",
+              "items": [
+                {
+                  "hero": "Aamon",
+                  "slug": "aamon",
+                  "skin": "Cyber Assassin",
+                  "note": "January",
+                  "image": "/images/skins/aamon/cyber-assassin.webp"
+                },
+                {
+                  "hero": "Saber",
+                  "slug": "saber",
+                  "skin": "Iron Hound",
+                  "note": "February",
+                  "image": "/images/skins/saber/iron-hound.webp"
+                },
+                {
+                  "hero": "Valentina",
+                  "slug": "valentina",
+                  "skin": "Cyber Agent",
+                  "note": "March",
+                  "image": "/images/skins/valentina/cyber-agent.webp"
+                },
+                {
+                  "hero": "Edith",
+                  "slug": "edith",
+                  "skin": "Ancient Warden",
+                  "note": "April",
+                  "image": "/images/skins/edith/ancient-warden.webp"
+                },
+                {
+                  "hero": "Moskov",
+                  "slug": "moskov",
+                  "skin": "Violet Spear",
+                  "note": "May",
+                  "image": "/images/skins/moskov/violet-spear.webp"
+                },
+                {
+                  "hero": "Thamuz",
+                  "slug": "thamuz",
+                  "skin": "Sanctified Flame",
+                  "note": "June",
+                  "image": "/images/skins/thamuz/sanctified-flame.webp"
+                },
+                {
+                  "hero": "Minsitthar",
+                  "slug": "minsitthar",
+                  "skin": "War Lion",
+                  "note": "July",
+                  "image": "/images/skins/minsitthar/war-lion.webp"
+                },
+                {
+                  "hero": "Yin",
+                  "slug": "yin",
+                  "skin": "Eternal Guardian",
+                  "note": "August",
+                  "image": "/images/skins/yin/eternal-guardian.webp"
+                },
+                {
+                  "hero": "Alpha",
+                  "slug": "alpha",
+                  "skin": "Star Enforcer",
+                  "note": "September",
+                  "image": "/images/skins/alpha/star-enforcer.webp"
+                },
+                {
+                  "hero": "Layla",
+                  "slug": "layla",
+                  "skin": "Twilight Waltz",
+                  "note": "October",
+                  "image": "/images/skins/layla/twilight-waltz.webp"
+                },
+                {
+                  "hero": "Melissa",
+                  "slug": "melissa",
+                  "skin": "Nightwalker",
+                  "note": "November",
+                  "image": "/images/skins/melissa/nightwalker.webp"
+                },
+                {
+                  "hero": "Arlott",
+                  "slug": "arlott",
+                  "skin": "Fury of the Deep",
+                  "note": "December",
+                  "image": "/images/skins/arlott/fury-of-the-deep.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2022",
+              "layout": "wide-sm",
+              "title": "StarLight in 2022",
+              "items": [
+                {
+                  "hero": "Clint",
+                  "slug": "clint",
+                  "skin": "Operator CL",
+                  "note": "January",
+                  "image": "/images/skins/clint/operator-cl.webp"
+                },
+                {
+                  "hero": "Cecilion",
+                  "slug": "cecilion",
+                  "skin": "Stargazer",
+                  "note": "February",
+                  "image": "/images/skins/cecilion/stargazer.webp"
+                },
+                {
+                  "hero": "Beatrix",
+                  "slug": "beatrix",
+                  "skin": "Space Agent",
+                  "note": "March",
+                  "image": "/images/skins/beatrix/space-agent.webp"
+                },
+                {
+                  "hero": "Balmond",
+                  "slug": "balmond",
+                  "skin": "Bioroid",
+                  "note": "April",
+                  "image": "/images/skins/balmond/bioroid.webp"
+                },
+                {
+                  "hero": "Paquito",
+                  "slug": "paquito",
+                  "skin": "Fulgent Punch",
+                  "note": "May",
+                  "image": "/images/skins/paquito/fulgent-punch.webp"
+                },
+                {
+                  "hero": "Tigreal",
+                  "slug": "tigreal",
+                  "skin": "Galactic Marshal",
+                  "note": "June",
+                  "image": "/images/skins/tigreal/galactic-marshal.webp"
+                },
+                {
+                  "hero": "Nana",
+                  "slug": "nana",
+                  "skin": "Cyclone Clash",
+                  "note": "July",
+                  "image": "/images/skins/nana/cyclone-clash.webp"
+                },
+                {
+                  "hero": "Natan",
+                  "slug": "natan",
+                  "skin": "Captain Chrono",
+                  "note": "August",
+                  "image": "/images/skins/natan/captain-chrono.webp"
+                },
+                {
+                  "hero": "Atlas",
+                  "slug": "atlas",
+                  "skin": "Space Mech",
+                  "note": "September",
+                  "image": "/images/skins/atlas/space-mech.webp"
+                },
+                {
+                  "hero": "Eudora",
+                  "slug": "eudora",
+                  "skin": "Cosmic Voyage",
+                  "note": "October",
+                  "image": "/images/skins/eudora/cosmic-voyage.webp"
+                },
+                {
+                  "hero": "Popol and Kupa",
+                  "slug": "popol-and-kupa",
+                  "skin": "Trouble Makers",
+                  "note": "November",
+                  "image": "/images/skins/popol-and-kupa/trouble-makers.webp"
+                },
+                {
+                  "hero": "Vexana",
+                  "slug": "vexana",
+                  "skin": "Circus Magician",
+                  "note": "December",
+                  "image": "/images/skins/vexana/circus-magician.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2021",
+              "layout": "wide-sm",
+              "title": "StarLight in 2021",
+              "items": [
+                {
+                  "hero": "Benedetta",
+                  "slug": "benedetta",
+                  "skin": "Street Thrasher",
+                  "note": "January",
+                  "image": "/images/skins/benedetta/street-thrasher.webp"
+                },
+                {
+                  "hero": "Lapu-Lapu",
+                  "slug": "lapu-lapu",
+                  "skin": "Special Force",
+                  "note": "February",
+                  "image": "/images/skins/lapu-lapu/special-force.webp"
+                },
+                {
+                  "hero": "Khufra",
+                  "slug": "khufra",
+                  "skin": "Dreadful Clown",
+                  "note": "March",
+                  "image": "/images/skins/khufra/dreadful-clown.webp"
+                },
+                {
+                  "hero": "Kagura",
+                  "slug": "kagura",
+                  "skin": "Rainy Walk",
+                  "note": "April",
+                  "image": "/images/skins/kagura/rainy-walk.webp"
+                },
+                {
+                  "hero": "Yi Sun-shin",
+                  "slug": "yi-sun-shin",
+                  "skin": "Azure Sentry",
+                  "note": "May",
+                  "image": "/images/skins/yi-sun-shin/azure-sentry.webp"
+                },
+                {
+                  "hero": "Jawhead",
+                  "slug": "jawhead",
+                  "skin": "Candy Bear",
+                  "note": "June",
+                  "image": "/images/skins/jawhead/candy-bear.webp"
+                },
+                {
+                  "hero": "Sun",
+                  "slug": "sun",
+                  "skin": "Simian Curse",
+                  "note": "July",
+                  "image": "/images/skins/sun/simian-curse.webp"
+                },
+                {
+                  "hero": "Luo Yi",
+                  "slug": "luo-yi",
+                  "skin": "Siren Priestess",
+                  "note": "August",
+                  "image": "/images/skins/luo-yi/siren-priestess.webp"
+                },
+                {
+                  "hero": "Pharsa",
+                  "slug": "pharsa",
+                  "skin": "Peony Bloom",
+                  "note": "September",
+                  "image": "/images/skins/pharsa/peony-bloom.webp"
+                },
+                {
+                  "hero": "Ruby",
+                  "slug": "ruby",
+                  "skin": "Pirate Parrot",
+                  "note": "October",
+                  "image": "/images/skins/ruby/pirate-parrot.webp"
+                },
+                {
+                  "hero": "Vale",
+                  "slug": "vale",
+                  "skin": "Soaring Devata",
+                  "note": "November",
+                  "image": "/images/skins/vale/soaring-devata.webp"
+                },
+                {
+                  "hero": "Brody",
+                  "slug": "brody",
+                  "skin": "Lethal Fang",
+                  "note": "December",
+                  "image": "/images/skins/brody/lethal-fang.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2020",
+              "layout": "wide-sm",
+              "title": "StarLight in 2020",
+              "items": [
+                {
+                  "hero": "Valir",
+                  "slug": "valir",
+                  "skin": "Dictator",
+                  "note": "January",
+                  "image": "/images/skins/valir/dictator.webp"
+                },
+                {
+                  "hero": "Masha",
+                  "slug": "masha",
+                  "skin": "Combat Maiden",
+                  "note": "February",
+                  "image": "/images/skins/masha/combat-maiden.webp"
+                },
+                {
+                  "hero": "Ling",
+                  "slug": "ling",
+                  "skin": "Street Punk",
+                  "note": "March",
+                  "image": "/images/skins/ling/street-punk.webp"
+                },
+                {
+                  "hero": "Lesley",
+                  "slug": "lesley",
+                  "skin": "Lethal Lady",
+                  "note": "April",
+                  "image": "/images/skins/lesley/lethal-lady.webp"
+                },
+                {
+                  "hero": "Granger",
+                  "slug": "granger",
+                  "skin": "Biosoldier",
+                  "note": "May",
+                  "image": "/images/skins/granger/biosoldier.webp"
+                },
+                {
+                  "hero": "X.Borg",
+                  "slug": "x-borg",
+                  "skin": "Graffiti Fashion",
+                  "note": "June",
+                  "image": "/images/skins/x-borg/graffiti-fashion.webp"
+                },
+                {
+                  "hero": "Hayabusa",
+                  "slug": "hayabusa",
+                  "skin": "Biological Weapon",
+                  "note": "July",
+                  "image": "/images/skins/hayabusa/biological-weapon.webp"
+                },
+                {
+                  "hero": "Wanwan",
+                  "slug": "wanwan",
+                  "skin": "Teen Pop",
+                  "note": "August",
+                  "image": "/images/skins/wanwan/teen-pop.webp"
+                },
+                {
+                  "hero": "Esmeralda",
+                  "slug": "esmeralda",
+                  "skin": "Cleopatra",
+                  "note": "September",
+                  "image": "/images/skins/esmeralda/cleopatra.webp"
+                },
+                {
+                  "hero": "Silvanna",
+                  "slug": "silvanna",
+                  "skin": "Pure Heroine",
+                  "note": "October",
+                  "image": "/images/skins/silvanna/pure-heroine.webp"
+                },
+                {
+                  "hero": "Chang'e",
+                  "slug": "change",
+                  "skin": "Strawberry Parfait",
+                  "note": "November",
+                  "image": "/images/skins/change/strawberry-parfait.webp"
+                },
+                {
+                  "hero": "Yu Zhong",
+                  "slug": "yu-zhong",
+                  "skin": "Biohazard",
+                  "note": "December",
+                  "image": "/images/skins/yu-zhong/biohazard.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2019",
+              "layout": "wide-sm",
+              "title": "StarLight in 2019",
+              "items": [
+                {
+                  "hero": "Leomord",
+                  "slug": "leomord",
+                  "skin": "Frostborn Paladin",
+                  "note": "January",
+                  "image": "/images/skins/leomord/frostborn-paladin.webp"
+                },
+                {
+                  "hero": "Alice",
+                  "slug": "alice",
+                  "skin": "Steam Glider",
+                  "note": "February",
+                  "image": "/images/skins/alice/steam-glider.webp"
+                },
+                {
+                  "hero": "Kimmy",
+                  "slug": "kimmy",
+                  "skin": "Bio Frontier",
+                  "note": "March",
+                  "image": "/images/skins/kimmy/bio-frontier.webp"
+                },
+                {
+                  "hero": "Hanabi",
+                  "slug": "hanabi",
+                  "skin": "Fiery Moth",
+                  "note": "April",
+                  "image": "/images/skins/hanabi/fiery-moth.webp"
+                },
+                {
+                  "hero": "Lunox",
+                  "slug": "lunox",
+                  "skin": "Ash Blossom",
+                  "note": "May",
+                  "image": "/images/skins/lunox/ash-blossom.webp"
+                },
+                {
+                  "hero": "Kaja",
+                  "slug": "kaja",
+                  "skin": "Kaminari",
+                  "note": "June",
+                  "image": "/images/skins/kaja/kaminari.webp"
+                },
+                {
+                  "hero": "Aldous",
+                  "slug": "aldous",
+                  "skin": "The Insentient",
+                  "note": "July",
+                  "image": "/images/skins/aldous/the-insentient.webp"
+                },
+                {
+                  "hero": "Chou",
+                  "slug": "chou",
+                  "skin": "Go Ballistic",
+                  "note": "August",
+                  "image": "/images/skins/chou/go-ballistic.webp"
+                },
+                {
+                  "hero": "Guinevere",
+                  "slug": "guinevere",
+                  "skin": "Lotus",
+                  "note": "September",
+                  "image": "/images/skins/guinevere/lotus.webp"
+                },
+                {
+                  "hero": "Selena",
+                  "slug": "selena",
+                  "skin": "Double Identity",
+                  "note": "October",
+                  "image": "/images/skins/selena/double-identity.webp"
+                },
+                {
+                  "hero": "Grock",
+                  "slug": "grock",
+                  "skin": "Iceland Golem",
+                  "note": "November",
+                  "image": "/images/skins/grock/iceland-golem.webp"
+                },
+                {
+                  "hero": "Dyrroth",
+                  "slug": "dyrroth",
+                  "skin": "Ruins Scavenger",
+                  "note": "December",
+                  "image": "/images/skins/dyrroth/ruins-scavenger.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2018",
+              "layout": "wide-sm",
+              "title": "StarLight in 2018",
+              "items": [
+                {
+                  "hero": "Karrie",
+                  "slug": "karrie",
+                  "skin": "Dragon Queen",
+                  "note": "January",
+                  "image": "/images/skins/karrie/dragon-queen.webp"
+                },
+                {
+                  "hero": "Roger",
+                  "slug": "roger",
+                  "skin": "Anubis",
+                  "note": "February",
+                  "image": "/images/skins/roger/anubis.webp"
+                },
+                {
+                  "hero": "Irithel",
+                  "slug": "irithel",
+                  "skin": "Nightarrow",
+                  "note": "March",
+                  "image": "/images/skins/irithel/nightarrow.webp"
+                },
+                {
+                  "hero": "Harley",
+                  "slug": "harley",
+                  "skin": "Royal Magister",
+                  "note": "April",
+                  "image": "/images/skins/harley/royal-magister.webp"
+                },
+                {
+                  "hero": "Martis",
+                  "slug": "martis",
+                  "skin": "Searing Maw",
+                  "note": "May",
+                  "image": "/images/skins/martis/searing-maw.webp"
+                },
+                {
+                  "hero": "Akai",
+                  "slug": "akai",
+                  "skin": "Akazonae Samurai",
+                  "note": "June",
+                  "image": "/images/skins/akai/akazonae-samurai.webp"
+                },
+                {
+                  "hero": "Angela",
+                  "slug": "angela",
+                  "skin": "Shanghai Maiden",
+                  "note": "July",
+                  "image": "/images/skins/angela/shanghai-maiden.webp"
+                },
+                {
+                  "hero": "Lancelot",
+                  "slug": "lancelot",
+                  "skin": "Dark Earl",
+                  "note": "August",
+                  "image": "/images/skins/lancelot/dark-earl.webp"
+                },
+                {
+                  "hero": "Cyclops",
+                  "slug": "cyclops",
+                  "skin": "Deep Sea Rescuer",
+                  "note": "September",
+                  "image": "/images/skins/cyclops/deep-sea-rescuer.webp"
+                },
+                {
+                  "hero": "Gusion",
+                  "slug": "gusion",
+                  "skin": "Cyber Ops",
+                  "note": "October",
+                  "image": "/images/skins/gusion/cyber-ops.webp"
+                },
+                {
+                  "hero": "Claude",
+                  "slug": "claude",
+                  "skin": "Plunderous Pirate",
+                  "note": "November",
+                  "image": "/images/skins/claude/plunderous-pirate.webp"
+                },
+                {
+                  "hero": "Fanny",
+                  "slug": "fanny",
+                  "skin": "Royal Cavalry",
+                  "note": "December",
+                  "image": "/images/skins/fanny/royal-cavalry.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "sl-2017",
+              "layout": "wide-sm",
+              "title": "StarLight in 2017",
+              "items": [
+                {
+                  "hero": "Layla",
+                  "slug": "layla",
+                  "skin": "Bunny Babe",
+                  "note": "January",
+                  "image": "/images/skins/layla/bunny-babe.webp"
+                },
+                {
+                  "hero": "Miya",
+                  "slug": "miya",
+                  "skin": "Captain Thorns",
+                  "note": "February",
+                  "image": "/images/skins/miya/captain-thorns.webp"
+                },
+                {
+                  "hero": "Freya",
+                  "slug": "freya",
+                  "skin": "Dragon Hunter",
+                  "note": "March",
+                  "image": "/images/skins/freya/dragon-hunter.webp"
+                },
+                {
+                  "hero": "Natalia",
+                  "slug": "natalia",
+                  "skin": "Phantom Dancer",
+                  "note": "April",
+                  "image": "/images/skins/natalia/phantom-dancer.webp"
+                },
+                {
+                  "hero": "Moskov",
+                  "slug": "moskov",
+                  "skin": "Snake Eye Commander",
+                  "note": "May",
+                  "image": "/images/skins/moskov/snake-eye-commander.webp"
+                },
+                {
+                  "hero": "Zilong",
+                  "slug": "zilong",
+                  "skin": "Eastern Warrior",
+                  "note": "June",
+                  "image": "/images/skins/zilong/eastern-warrior.webp"
+                },
+                {
+                  "hero": "Karina",
+                  "slug": "karina",
+                  "skin": "Black Pearl",
+                  "note": "July",
+                  "image": "/images/skins/karina/black-pearl.webp"
+                },
+                {
+                  "hero": "Franco",
+                  "slug": "franco",
+                  "skin": "Apocalypse",
+                  "note": "August",
+                  "image": "/images/skins/franco/apocalypse.webp"
+                },
+                {
+                  "hero": "Clint",
+                  "slug": "clint",
+                  "skin": "Rock and Roll",
+                  "note": "September",
+                  "image": "/images/skins/clint/rock-and-roll.webp"
+                },
+                {
+                  "hero": "Aurora",
+                  "slug": "aurora",
+                  "skin": "Heartbreak Empress",
+                  "note": "October",
+                  "image": "/images/skins/aurora/heartbreak-empress.webp"
+                },
+                {
+                  "hero": "Argus",
+                  "slug": "argus",
+                  "skin": "Dark Draconic",
+                  "note": "November",
+                  "image": "/images/skins/argus/dark-draconic.webp"
+                },
+                {
+                  "hero": "Alucard",
+                  "slug": "alucard",
+                  "skin": "Viscount",
+                  "note": "December",
+                  "image": "/images/skins/alucard/viscount.webp"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The first pass skin came out in December 2016: Saber \"Force Warrior\"."
+            },
+            {
+              "type": "heading",
+              "id": "annual",
+              "text": "Annual StarLight skins"
+            },
+            {
+              "type": "paragraph",
+              "text": "Once a year, at the StarLight Fest, a separate skin of a higher rarity came out. It was not part of the regular monthly pass, and such skins now return to the StarLight Shop for 5,000 fragments."
+            },
+            {
+              "type": "table",
+              "caption": "StarLight Fest skins",
+              "visuals": true,
+              "headers": [
+                "Year",
+                "Hero",
+                "Skin"
+              ],
+              "rows": [
+                [
+                  "2018",
+                  "Hayabusa",
+                  "Experiment 21"
+                ],
+                [
+                  "2019",
+                  "Gord",
+                  "No.1 Controller"
+                ],
+                [
+                  "2020",
+                  "Karrie",
+                  "Neon Lightwheel"
+                ],
+                [
+                  "2021",
+                  "Kagura",
+                  "Water Lily"
+                ],
+                [
+                  "2021",
+                  "Lesley",
+                  "Hawk-eyed Sniper"
+                ],
+                [
+                  "2023",
+                  "Angela",
+                  "Avatar of Time"
+                ],
+                [
+                  "2024",
+                  "Vale",
+                  "Concerto of Light"
+                ]
+              ]
+            },
+            {
+              "type": "cta",
+              "id": "starlight-rank",
+              "eyebrow": "Got the skin, need the rank",
+              "title": "See the price of a boost to your rank",
+              "text": "Enter your rank and goal — the calculator shows the price right away.",
+              "button": "Calculate price",
+              "href": "/order.html?type=standard",
+              "note": "No payment, no commitment.",
+              "position": "after-perks"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "FAQ",
+              "items": [
+                {
+                  "q": "How much is StarLight in MLBB?",
+                  "a": "300 Diamonds a month. StarLight Plus costs 750 Diamonds and gives 15 pass levels at once."
+                },
+                {
+                  "q": "What is the December 2026 StarLight skin?",
+                  "a": "The wiki list and leaks name Suyou \"Frostblade Duelist\". MOONTON confirms the skin of the month in the last days before it."
+                },
+                {
+                  "q": "When does a new StarLight start?",
+                  "a": "On the 1st of every month at 00:00 server time. Tasks, levels and the StarLight Shop reset at the same moment."
+                },
+                {
+                  "q": "Can I get a skin from a past month?",
+                  "a": "Yes, in the StarLight Shop for 3,000 fragments, or 5,000 for a Fest skin. The exchange needs the pass in the current month."
+                },
+                {
+                  "q": "Which heroes have two StarLight skins?",
+                  "a": "12 heroes: Gusion, Irithel, Clint, Layla, Martis, Miya, Moskov, Saber, Freya, Hanabi, Harley and Hayabusa."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "slug": "mlbb-collaborations",
+      "status": "published",
+      "title": "Все коллаборации Mobile Legends: облики, герои и даты",
+      "seoTitle": "Коллаборации MLBB: все облики 2019–2026",
+      "description": "Все коллаборации Mobile Legends с 2019 года: «Наруто», «Магическая битва», «Атака титанов», Street Fighter 6, «Губка Боб» и «Аватар» в декабре 2026 года.",
+      "excerpt": "14 коллабораций и 61 облик: кто из героев стал Наруто, Годзё или Губкой Бобом, какие облики выдавали бесплатно и что известно об «Аватаре».",
+      "category": "Гайды",
+      "tags": [
+        "Mobile Legends",
+        "Коллаборации",
+        "Облики",
+        "Наруто",
+        "Аватар"
+      ],
+      "editorialNote": "Список коллабораций и обликов сверен 24 ноября 2026 года по esports.gg (на 22 июня 2026 года) и официальным новостям MOONTON о «Губке Бобе», «Наруто» и Street Fighter 6. Сведения об «Аватаре» — по Pinoy Gamer и утечкам, официального анонса нет.",
+      "categoryKey": "guides",
+      "datePublished": "2026-11-24T07:12:13+03:00",
+      "dateModified": "2026-11-24T07:12:13+03:00",
+      "hero": {
+        "src": "/images/news/mlbb-collaborations.jpg",
+        "width": 1600,
+        "height": 900,
+        "webpSrcset": "/images/news/mlbb-collaborations-768.webp 768w, /images/news/mlbb-collaborations-1200.webp 1200w, /images/news/mlbb-collaborations-1600.webp 1600w",
+        "focalPoint": "50% 50%",
+        "cardFit": "cover",
+        "alt": "Облики коллабораций Mobile Legends: Наруто, Сатору Годзё, Леви, Рю, Губка Боб и Оптимус Прайм на фоне арены",
+        "caption": "Иллюстрация Boost MLBB: сцена сгенерирована ИИ, арты обликов — MOONTON.",
+        "provenance": {
+          "type": "generated",
+          "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
+          "created": "2026-11-24",
+          "prompt": "Photorealistic cinematic esports arena at night, a curved LED wall split into four panels in different art styles (ink anime sky, pixel arcade, underwater pastel, misty mountain temple), navy and emerald light, fans from behind, no text, no logos, no characters; six official collaboration skin cards are placed on top.",
+          "rights": "Scene generated for Boost MLBB; the skin cards are MOONTON in-game art used for editorial illustration."
+        }
+      },
+      "blocks": [
+        {
+          "type": "keyFacts",
+          "id": "brief",
+          "title": "Коротко",
+          "items": [
+            "С 2019 года в MLBB было 14 коллабораций и 61 облик по чужим вселенным, от The King of Fighters до Street Fighter 6.",
+            "В 2025 году бесплатный облик коллаборации выдали на событии Friend Fest в конце года: Циклопа «Губка Боб».",
+            "Friend Fest 2026 по данным Pinoy Gamer пройдёт с 4 декабря вместе с «Аватаром: Легенда об Аанге», и бесплатным станет Зилонг «Аанг». Пресс-релиза MOONTON пока нет.",
+            "Больше всего обликов коллабораций у Чу: четыре. По три — у Валира, Дариуса и Джулиана."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Облик коллаборации — это герой MLBB в образе персонажа из аниме, фильма, другой игры или в стиле бренда. Такие облики выходят на время события и потом в магазин не попадают. Вернуть их можно только на повторе, а его иногда ждут годами."
+        },
+        {
+          "type": "heading",
+          "id": "all",
+          "text": "Все коллаборации"
+        },
+        {
+          "type": "table",
+          "caption": "Коллаборации Mobile Legends по годам",
+          "headers": [
+            "Годы",
+            "Коллаборация",
+            "Обликов"
+          ],
+          "rows": [
+            [
+              "2019, 2020, 2024",
+              "The King of Fighters",
+              "9"
+            ],
+            [
+              "2021–2022",
+              "«Звёздные войны»",
+              "4"
+            ],
+            [
+              "2021–2022",
+              "«Трансформеры»",
+              "6"
+            ],
+            [
+              "2022",
+              "Sanrio",
+              "4"
+            ],
+            [
+              "2022",
+              "«Кунг-фу панда»",
+              "3"
+            ],
+            [
+              "2022",
+              "Неймар",
+              "2"
+            ],
+            [
+              "2022",
+              "«Рыцари Зодиака»",
+              "6"
+            ],
+            [
+              "2023",
+              "«Магическая битва»",
+              "4"
+            ],
+            [
+              "2023–2024",
+              "Ducati",
+              "3"
+            ],
+            [
+              "2024",
+              "«Атака титанов»",
+              "3"
+            ],
+            [
+              "2025",
+              "«Охотник × Охотник»",
+              "4"
+            ],
+            [
+              "2025, 2026",
+              "«Наруто»",
+              "7"
+            ],
+            [
+              "2025–2026",
+              "«Губка Боб Квадратные Штаны»",
+              "2"
+            ],
+            [
+              "2026",
+              "Street Fighter 6",
+              "4"
+            ]
+          ],
+          "note": "По списку esports.gg на 22 июня 2026 года и новостям MOONTON. «Аватар» не входит: он ещё не вышел."
+        },
+        {
+          "type": "heading",
+          "id": "years-2019-2021",
+          "text": "Первые коллаборации: 2019–2021"
+        },
+        {
+          "type": "paragraph",
+          "text": "Первой стала The King of Fighters: в 2019 году Гвиневра, Чу и Карина получили облики Афины, Иори и Леоны. Через два года пришли «Звёздные войны» и «Трансформеры», и с тех пор коллаборации выходят каждый год. KOF возвращалась дважды, последняя волна вышла в 2024 году."
+        },
+        {
+          "type": "skins",
+          "id": "skins-kof",
+          "layout": "card",
+          "title": "The King of Fighters, 2019, 2020, 2024",
+          "items": [
+            {
+              "hero": "Гвиневра",
+              "slug": "guinevere",
+              "skin": "«Афина Асамия»",
+              "note": "2019",
+              "image": "/images/skins/guinevere/athena-asamiya.webp"
+            },
+            {
+              "hero": "Чу",
+              "slug": "chou",
+              "skin": "«Иори Ягами»",
+              "note": "2019",
+              "image": "/images/skins/chou/iori-yagami.webp"
+            },
+            {
+              "hero": "Карина",
+              "slug": "karina",
+              "skin": "«Леона»",
+              "note": "2019",
+              "image": "/images/skins/karina/leona.webp"
+            },
+            {
+              "hero": "Дариус",
+              "slug": "dyrroth",
+              "skin": "«Крис Ороти»",
+              "note": "2020",
+              "image": "/images/skins/dyrroth/orochi-chris.webp"
+            },
+            {
+              "hero": "Госсен",
+              "slug": "gusion",
+              "skin": "«Кей Дэш»",
+              "note": "2020",
+              "image": "/images/skins/gusion/k.webp"
+            },
+            {
+              "hero": "Аврора",
+              "slug": "aurora",
+              "skin": "«Кула Даймонд»",
+              "note": "2020",
+              "image": "/images/skins/aurora/kula-diamond.webp"
+            },
+            {
+              "hero": "Валир",
+              "slug": "valir",
+              "skin": "«Кё Кусанаги»",
+              "note": "2024",
+              "image": "/images/skins/valir/kyo-kusanagi.webp"
+            },
+            {
+              "hero": "Маша",
+              "slug": "masha",
+              "skin": "«Май Сирануи»",
+              "note": "2024",
+              "image": "/images/skins/masha/mai-shiranui.webp"
+            },
+            {
+              "hero": "Пакито",
+              "slug": "paquito",
+              "skin": "«Терри Богард»",
+              "note": "2024",
+              "image": "/images/skins/paquito/terry-bogard.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-star-wars",
+          "layout": "card",
+          "title": "«Звёздные войны», 2021–2022",
+          "items": [
+            {
+              "hero": "Аргус",
+              "slug": "argus",
+              "skin": "«Дарт Вейдер»",
+              "note": "2021",
+              "image": "/images/skins/argus/darth-vader.webp"
+            },
+            {
+              "hero": "Циклоп",
+              "slug": "cyclops",
+              "skin": "«Магистр Йода»",
+              "note": "2021",
+              "image": "/images/skins/cyclops/master-yoda.webp"
+            },
+            {
+              "hero": "Алукард",
+              "slug": "alucard",
+              "skin": "«Оби-Ван Кеноби»",
+              "note": "2021",
+              "image": "/images/skins/alucard/obi-wan-kenobi.webp"
+            },
+            {
+              "hero": "Кимми",
+              "slug": "kimmy",
+              "skin": "«Реактивный штурмовик Первого ордена»",
+              "note": "2022",
+              "image": "/images/skins/kimmy/first-order-jet-trooper.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-transformers",
+          "layout": "card",
+          "title": "«Трансформеры», 2021–2022",
+          "items": [
+            {
+              "hero": "Джонсон",
+              "slug": "johnson",
+              "skin": "«Оптимус Прайм»",
+              "note": "2021",
+              "image": "/images/skins/johnson/optimus-prime.webp"
+            },
+            {
+              "hero": "Грейнджер",
+              "slug": "granger",
+              "skin": "«Мегатрон»",
+              "note": "2021",
+              "image": "/images/skins/granger/megatron.webp"
+            },
+            {
+              "hero": "Икс.Борг",
+              "slug": "x-borg",
+              "skin": "«Бамблби»",
+              "note": "2021",
+              "image": "/images/skins/x-borg/bumblebee.webp"
+            },
+            {
+              "hero": "Пополь и Купа",
+              "slug": "popol-and-kupa",
+              "skin": "«Саундвейв и Рэвидж»",
+              "note": "2022",
+              "image": "/images/skins/popol-and-kupa/soundwave-ravage.webp"
+            },
+            {
+              "hero": "Алдос",
+              "slug": "aldous",
+              "skin": "«Старскрим»",
+              "note": "2022",
+              "image": "/images/skins/aldous/starscream.webp"
+            },
+            {
+              "hero": "Роджер",
+              "slug": "roger",
+              "skin": "«Гримлок»",
+              "note": "2022",
+              "image": "/images/skins/roger/grimlock.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "year-2022",
+          "text": "2022: Sanrio, «Кунг-фу панда», Неймар и «Рыцари Зодиака»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Самый насыщенный год: четыре коллаборации, в том числе первая со спортсменом. У «Рыцарей Зодиака» каждому из трёх героев досталось по два облика, в бронзовых и золотых доспехах."
+        },
+        {
+          "type": "skins",
+          "id": "skins-sanrio",
+          "layout": "card",
+          "title": "Sanrio, 2022",
+          "items": [
+            {
+              "hero": "Ангела",
+              "slug": "angela",
+              "skin": "«Heartstring»",
+              "note": "2022",
+              "image": "/images/skins/angela/heartstring.webp"
+            },
+            {
+              "hero": "Флорин",
+              "slug": "floryn",
+              "skin": "«Fluffy Dream»",
+              "note": "2022",
+              "image": "/images/skins/floryn/fluffy-dream.webp"
+            },
+            {
+              "hero": "Клауд",
+              "slug": "claude",
+              "skin": "«Bad Bro»",
+              "note": "2022",
+              "image": "/images/skins/claude/bad-bro.webp"
+            },
+            {
+              "hero": "Чан'Э",
+              "slug": "change",
+              "skin": "«Moon Artist»",
+              "note": "2022",
+              "image": "/images/skins/change/moon-artist.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-kung-fu-panda",
+          "layout": "card",
+          "title": "«Кунг-фу панда», 2022",
+          "items": [
+            {
+              "hero": "Акай",
+              "slug": "akai",
+              "skin": "«Кунг-фу панда»",
+              "note": "2022",
+              "image": "/images/skins/akai/kung-fu-panda.webp"
+            },
+            {
+              "hero": "Линг",
+              "slug": "ling",
+              "skin": "«Лорд Шэнь»",
+              "note": "2022",
+              "image": "/images/skins/ling/lord-shen.webp"
+            },
+            {
+              "hero": "Тамуз",
+              "slug": "thamuz",
+              "skin": "«Генерал Кай»",
+              "note": "2022",
+              "image": "/images/skins/thamuz/general-kai.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-neymar",
+          "layout": "card",
+          "title": "Неймар, 2022",
+          "items": [
+            {
+              "hero": "Бруно",
+              "slug": "bruno",
+              "skin": "«Неймар-младший»",
+              "note": "2022",
+              "image": "/images/skins/bruno/neymar-jr.webp"
+            },
+            {
+              "hero": "Бруно",
+              "slug": "bruno",
+              "skin": "«Halo Striker»",
+              "note": "2022",
+              "image": "/images/skins/bruno/halo-striker.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-saint-seiya",
+          "layout": "card",
+          "title": "«Рыцари Зодиака», 2022",
+          "items": [
+            {
+              "hero": "Баданг",
+              "slug": "badang",
+              "skin": "«Пегас Сэйя»",
+              "note": "2022",
+              "image": "/images/skins/badang/pegasus-seiya.webp"
+            },
+            {
+              "hero": "Валир",
+              "slug": "valir",
+              "skin": "«Феникс Икки»",
+              "note": "2022",
+              "image": "/images/skins/valir/phoenix-ikki.webp"
+            },
+            {
+              "hero": "Чу",
+              "slug": "chou",
+              "skin": "«Дракон Сирю»",
+              "note": "2022",
+              "image": "/images/skins/chou/dragon-shiryu.webp"
+            },
+            {
+              "hero": "Баданг",
+              "slug": "badang",
+              "skin": "«Стрелец Сэйя»",
+              "note": "2022",
+              "image": "/images/skins/badang/sagittarius-seiya.webp"
+            },
+            {
+              "hero": "Валир",
+              "slug": "valir",
+              "skin": "«Лев Икки»",
+              "note": "2022",
+              "image": "/images/skins/valir/leo-ikki.webp"
+            },
+            {
+              "hero": "Чу",
+              "slug": "chou",
+              "skin": "«Весы Сирю»",
+              "note": "2022",
+              "image": "/images/skins/chou/libra-shiryu.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "years-2023-2024",
+          "text": "2023–2024: «Магическая битва», Ducati и «Атака титанов»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Здесь MLBB взялась за большие аниме: Сатору Годзё достался Ксавьеру, Леви — Мартису, Микаса — Фанни. Ducati остаётся единственной коллаборацией с маркой мотоциклов: её облики — гонщики на моделях Monster, Panigale и Diavel."
+        },
+        {
+          "type": "skins",
+          "id": "skins-jujutsu-kaisen",
+          "layout": "card",
+          "title": "«Магическая битва», 2023",
+          "items": [
+            {
+              "hero": "Инь",
+              "slug": "yin",
+              "skin": "«Юдзи Итадори»",
+              "note": "2023",
+              "image": "/images/skins/yin/yuji-itadori.webp"
+            },
+            {
+              "hero": "Джулиан",
+              "slug": "julian",
+              "skin": "«Мэгуми Фусигуро»",
+              "note": "2023",
+              "image": "/images/skins/julian/megumi-fushiguro.webp"
+            },
+            {
+              "hero": "Мелисса",
+              "slug": "melissa",
+              "skin": "«Нобара Кугисаки»",
+              "note": "2023",
+              "image": "/images/skins/melissa/nobara-kugisaki.webp"
+            },
+            {
+              "hero": "Ксавьер",
+              "slug": "xavier",
+              "skin": "«Сатору Годзё»",
+              "note": "2023",
+              "image": "/images/skins/xavier/satoru-gojo.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-ducati",
+          "layout": "card",
+          "title": "Ducati, 2023–2024",
+          "items": [
+            {
+              "hero": "Иритель",
+              "slug": "irithel",
+              "skin": "«Monster SP Rider»",
+              "note": "2023",
+              "image": "/images/skins/irithel/monster-sp-rider.webp"
+            },
+            {
+              "hero": "Бенедетта",
+              "slug": "benedetta",
+              "skin": "«Panigale V4S Rider»",
+              "note": "2023",
+              "image": "/images/skins/benedetta/panigale-v4s-rider.webp"
+            },
+            {
+              "hero": "Леоморд",
+              "slug": "leomord",
+              "skin": "«Diavel V4 Rider»",
+              "note": "2024",
+              "image": "/images/skins/leomord/diavel-v4-rider.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-attack-on-titan",
+          "layout": "card",
+          "title": "«Атака титанов», 2024",
+          "items": [
+            {
+              "hero": "Инь",
+              "slug": "yin",
+              "skin": "«Эрен»",
+              "note": "2024",
+              "image": "/images/skins/yin/eren.webp"
+            },
+            {
+              "hero": "Мартис",
+              "slug": "martis",
+              "skin": "«Леви»",
+              "note": "2024",
+              "image": "/images/skins/martis/levi.webp"
+            },
+            {
+              "hero": "Фанни",
+              "slug": "fanny",
+              "skin": "«Микаса»",
+              "note": "2024",
+              "image": "/images/skins/fanny/mikasa.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "years-2025-2026",
+          "text": "2025–2026: «Охотник × Охотник», «Наруто», «Губка Боб» и Street Fighter 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "«Наруто» вышел двумя частями: в 2025 году пять обликов, весной 2026-го ещё Минато на Госсене и Итачи на Джулиане, вместе с повтором первых пяти. Вторая часть закончилась 11 мая 2026 года. «Губка Боб» пришёл на событие Friend Fest в конце 2025 года, и облик Циклопа выдавали бесплатно. Street Fighter 6 стала первой коллаборацией с Capcom: в июле 2026 года Пакито, Чу, Гвиневра и Дариус получили облики Рю, Кена, Чун-Ли и Гайла."
+        },
+        {
+          "type": "skins",
+          "id": "skins-hunter-x-hunter",
+          "layout": "card",
+          "title": "«Охотник × Охотник», 2025",
+          "items": [
+            {
+              "hero": "Дариус",
+              "slug": "dyrroth",
+              "skin": "«Гон»",
+              "note": "2025",
+              "image": "/images/skins/dyrroth/gon.webp"
+            },
+            {
+              "hero": "Харит",
+              "slug": "harith",
+              "skin": "«Киллуа»",
+              "note": "2025",
+              "image": "/images/skins/harith/killua.webp"
+            },
+            {
+              "hero": "Джулиан",
+              "slug": "julian",
+              "skin": "«Курапика»",
+              "note": "2025",
+              "image": "/images/skins/julian/kurapika.webp"
+            },
+            {
+              "hero": "Сесилион",
+              "slug": "cecilion",
+              "skin": "«Хисока»",
+              "note": "2025",
+              "image": "/images/skins/cecilion/hisoka.webp"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/news/mlbb-collaborations/naruto-phase-2.webp",
+          "width": 1200,
+          "height": 675,
+          "alt": "Ключевой арт второй части MLBB × «Наруто»: Минато и Наруто",
+          "caption": "Вторая часть коллаборации, весна 2026 года. Изображение: MOONTON."
+        },
+        {
+          "type": "skins",
+          "id": "skins-naruto",
+          "layout": "card",
+          "title": "«Наруто», 2025, 2026",
+          "items": [
+            {
+              "hero": "Лукас",
+              "slug": "lukas",
+              "skin": "«Наруто Узумаки»",
+              "note": "2025",
+              "image": "/images/skins/lukas/naruto-uzumaki.webp"
+            },
+            {
+              "hero": "Су Ё",
+              "slug": "suyou",
+              "skin": "«Саске Учиха»",
+              "note": "2025",
+              "image": "/images/skins/suyou/sasuke-uchiha.webp"
+            },
+            {
+              "hero": "Калеа",
+              "slug": "kalea",
+              "skin": "«Сакура Харуно»",
+              "note": "2025",
+              "image": "/images/skins/kalea/sakura-haruno.webp"
+            },
+            {
+              "hero": "Хаябуса",
+              "slug": "hayabusa",
+              "skin": "«Какаси Хатакэ»",
+              "note": "2025",
+              "image": "/images/skins/hayabusa/kakashi-hatake.webp"
+            },
+            {
+              "hero": "Вэйл",
+              "slug": "vale",
+              "skin": "«Гаара»",
+              "note": "2025",
+              "image": "/images/skins/vale/gaara.webp"
+            },
+            {
+              "hero": "Госсен",
+              "slug": "gusion",
+              "skin": "«Минато Намикадзе»",
+              "note": "2026",
+              "image": "/images/skins/gusion/minato-namikaze.webp"
+            },
+            {
+              "hero": "Джулиан",
+              "slug": "julian",
+              "skin": "«Итачи Учиха»",
+              "note": "2026",
+              "image": "/images/skins/julian/itachi-uchiha.webp"
+            }
+          ]
+        },
+        {
+          "type": "skins",
+          "id": "skins-spongebob",
+          "layout": "card",
+          "title": "«Губка Боб Квадратные Штаны», 2025–2026",
+          "items": [
+            {
+              "hero": "Циклоп",
+              "slug": "cyclops",
+              "skin": "«Губка Боб»",
+              "note": "2025",
+              "image": "/images/skins/cyclops/spongebob-squarepants.webp"
+            },
+            {
+              "hero": "Глу",
+              "slug": "gloo",
+              "skin": "«Патрик Стар»",
+              "note": "2025",
+              "image": "/images/skins/gloo/patrick-star.webp"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/news/mlbb-collaborations/street-fighter-6.webp",
+          "width": 1200,
+          "height": 675,
+          "alt": "Ключевой арт MLBB × Street Fighter 6: Рю, Кен, Чун-Ли и Гайл",
+          "caption": "Коллаборация со Street Fighter 6 стартовала 3 июля 2026 года. Изображение: MOONTON."
+        },
+        {
+          "type": "skins",
+          "id": "skins-street-fighter",
+          "layout": "card",
+          "title": "Street Fighter 6, 2026",
+          "items": [
+            {
+              "hero": "Пакито",
+              "slug": "paquito",
+              "skin": "«Рю»",
+              "note": "2026",
+              "image": "/images/skins/paquito/ryu.webp"
+            },
+            {
+              "hero": "Чу",
+              "slug": "chou",
+              "skin": "«Кен»",
+              "note": "2026",
+              "image": "/images/skins/chou/ken.webp"
+            },
+            {
+              "hero": "Гвиневра",
+              "slug": "guinevere",
+              "skin": "«Чун-Ли»",
+              "note": "2026",
+              "image": "/images/skins/guinevere/chun-li.webp"
+            },
+            {
+              "hero": "Дариус",
+              "slug": "dyrroth",
+              "skin": "«Гайл»",
+              "note": "2026",
+              "image": "/images/skins/dyrroth/guile.webp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "avatar",
+          "text": "«Аватар: Легенда об Аанге» в декабре 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Филиппинское издание Pinoy Gamer пишет, что с 20 ноября по 3 декабря 2026 года в игре идёт событие-подписка «Аватара»: за вход в игру начисляются монеты дружбы (Friend Coin). С 4 декабря стартует Friend Fest, и за эти монеты можно взять новый облик Зилонг «Аанг». Тот же текст упоминает бесплатную эмоцию и рамку аватара."
+        },
+        {
+          "type": "image",
+          "src": "/images/news/mlbb-collaborations/spongebob-friend-fest.webp",
+          "width": 1200,
+          "height": 675,
+          "alt": "Арт Friend Fest 2025 с Губкой Бобом и Патриком",
+          "caption": "Так выглядел Friend Fest с «Губкой Бобом» в 2025 году. Изображение: MOONTON."
+        },
+        {
+          "type": "paragraph",
+          "text": "Остальное пока на уровне утечек. Инсайдер RedMoon в сентябре назвал героев коллаборации: Кадита, Маша, Валир и Зилонг. Кто из них станет Катарой, Тоф или Зуко, MOONTON не объявлял. Год назад похожее событие с «Губкой Бобом» работало везде, кроме США, Франции, Италии, Великобритании, Испании и ещё пяти стран, так что Россия в него попала. Будет ли так же с «Аватаром», станет ясно 4 декабря."
+        },
+        {
+          "type": "linkCard",
+          "label": "Гайд",
+          "title": "Звёздный участник MLBB: все облики по месяцам",
+          "description": "Сколько стоит пропуск и какой облик был в каждом месяце с 2016 года",
+          "href": "https://boostmlbb.ru/news/mlbb-starlight/"
+        },
+        {
+          "type": "heading",
+          "id": "how",
+          "text": "Как получают облики коллабораций"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Главные облики выдают в розыгрышах события за алмазы или жетоны. Обычно облик гарантирован после определённого числа попыток, а итоговая цена зависит от удачи.",
+            "Один или два облика часто дают бесплатно за задания и вход в игру, как Циклопа «Губка Боб» и, по сообщениям, Зилонга «Аанг».",
+            "После события облики не продаются. Шанс снова их получить — повтор: KOF вернулась через четыре года, «Наруто» через год."
+          ]
+        },
+        {
+          "type": "cta",
+          "id": "collab-rank",
+          "eyebrow": "Новый облик — повод вернуться",
+          "title": "Узнайте цену буста до нужного ранга",
+          "text": "Укажите ранг сейчас и цель — калькулятор сразу покажет стоимость.",
+          "button": "Рассчитать стоимость",
+          "href": "/order.html?type=standard",
+          "note": "Без оплаты и обязательств.",
+          "position": "after-how"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "title": "Частые вопросы",
+          "items": [
+            {
+              "q": "Сколько коллабораций было в Mobile Legends?",
+              "a": "14 с 2019 по 2026 год, всего 61 облик. Пятнадцатой станет «Аватар: Легенда об Аанге», если выйдет в декабре."
+            },
+            {
+              "q": "Какая следующая коллаборация в MLBB?",
+              "a": "По данным Pinoy Gamer, «Аватар: Легенда об Аанге» вместе с Friend Fest с 4 декабря 2026 года. Официального пресс-релиза MOONTON ещё нет."
+            },
+            {
+              "q": "Можно ли получить облик коллаборации бесплатно?",
+              "a": "Иногда да. Циклопа «Губка Боб» выдавали за монеты дружбы в Friend Fest 2025, Зилонга «Аанг», по сообщениям, дадут так же. Главные облики события обычно платные."
+            },
+            {
+              "q": "Вернутся ли облики «Наруто»?",
+              "a": "Вторая часть «Наруто» закончилась 11 мая 2026 года. MOONTON назвал её финальной аркой коллаборации, о новом повторе не объявлял."
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "Complete list of MLBB collaboration skins",
+          "publisher": "esports.gg",
+          "url": "https://esports.gg/guides/mobile-legends-bang-bang/complete-collaboration-skins-list/",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "MLBB brings fun and friendship through the SpongeBob SquarePants-themed Friend Fest",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/274.html",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "MLBB × NARUTO enters its final arc",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/329.html",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "ROUND1 begins: MLBB and Street Fighter 6 unite for first-ever collaboration",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/356.html",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Mobile Legends Friend Fest 2026 features collaboration with Avatar: The Last Airbender",
+          "publisher": "Pinoy Gamer",
+          "url": "https://pinoygamer.ph/articles/mobile-legends-friend-fest-2026-features-collaboration-with-avatar-the-last-airbender-this-december.34628/",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "translations": {
+        "en": {
+          "title": "Every Mobile Legends collaboration: skins, heroes and dates",
+          "seoTitle": "MLBB collaborations: every skin 2019–2026",
+          "description": "Every Mobile Legends collaboration since 2019: Naruto, Jujutsu Kaisen, Attack on Titan, Street Fighter 6, SpongeBob and Avatar in December 2026.",
+          "excerpt": "14 collaborations and 61 skins: which heroes became Naruto, Gojo or SpongeBob, which skins were free and what is known about Avatar.",
+          "category": "Guides",
+          "tags": [
+            "Mobile Legends",
+            "Collaborations",
+            "Skins",
+            "Naruto",
+            "Avatar"
+          ],
+          "editorialNote": "The list of collaborations and skins was checked on 24 November 2026 against esports.gg (as of 22 June 2026) and official MOONTON news on SpongeBob, Naruto and Street Fighter 6. Avatar details come from Pinoy Gamer and leaks; there is no official announcement.",
+          "hero": {
+            "alt": "Mobile Legends collaboration skins: Naruto, Satoru Gojo, Levi, Ryu, SpongeBob and Optimus Prime in front of an arena",
+            "caption": "Boost MLBB illustration: AI-generated scene, skin art by MOONTON."
+          },
+          "blocks": [
+            {
+              "type": "keyFacts",
+              "id": "brief",
+              "title": "In brief",
+              "items": [
+                "Since 2019 MLBB has had 14 collaborations and 61 skins from other universes, from The King of Fighters to Street Fighter 6.",
+                "In 2025 a free collaboration skin came with the year-end Friend Fest event: Cyclops \"SpongeBob\".",
+                "According to Pinoy Gamer, Friend Fest 2026 starts on 4 December together with Avatar: The Last Airbender, and Zilong \"Aang\" will be free. MOONTON has not published a press release yet.",
+                "Chou has the most collaboration skins: four. Dyrroth, Julian and Valir have three each."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A collaboration skin turns an MLBB hero into a character from an anime, a film, another game or a brand. These skins are sold only during the event and never reach the regular shop. The only way back is a rerun, and players sometimes wait years for one."
+            },
+            {
+              "type": "heading",
+              "id": "all",
+              "text": "All collaborations"
+            },
+            {
+              "type": "table",
+              "caption": "Mobile Legends collaborations by year",
+              "headers": [
+                "Years",
+                "Collaboration",
+                "Skins"
+              ],
+              "rows": [
+                [
+                  "2019, 2020, 2024",
+                  "The King of Fighters",
+                  "9"
+                ],
+                [
+                  "2021–2022",
+                  "Star Wars",
+                  "4"
+                ],
+                [
+                  "2021–2022",
+                  "Transformers",
+                  "6"
+                ],
+                [
+                  "2022",
+                  "Sanrio characters",
+                  "4"
+                ],
+                [
+                  "2022",
+                  "Kung Fu Panda",
+                  "3"
+                ],
+                [
+                  "2022",
+                  "Neymar Jr",
+                  "2"
+                ],
+                [
+                  "2022",
+                  "Saint Seiya",
+                  "6"
+                ],
+                [
+                  "2023",
+                  "Jujutsu Kaisen",
+                  "4"
+                ],
+                [
+                  "2023–2024",
+                  "Ducati",
+                  "3"
+                ],
+                [
+                  "2024",
+                  "Attack on Titan",
+                  "3"
+                ],
+                [
+                  "2025",
+                  "Hunter x Hunter",
+                  "4"
+                ],
+                [
+                  "2025, 2026",
+                  "Naruto Shippuden",
+                  "7"
+                ],
+                [
+                  "2025–2026",
+                  "SpongeBob SquarePants",
+                  "2"
+                ],
+                [
+                  "2026",
+                  "Street Fighter 6",
+                  "4"
+                ]
+              ],
+              "note": "Based on the esports.gg list of 22 June 2026 and MOONTON news. Avatar is not included because it has not launched yet."
+            },
+            {
+              "type": "heading",
+              "id": "years-2019-2021",
+              "text": "The first collaborations: 2019–2021"
+            },
+            {
+              "type": "paragraph",
+              "text": "The first was The King of Fighters: in 2019 Guinevere, Chou and Karina became Athena, Iori and Leona. Star Wars and Transformers followed two years later, and since then there has been a collaboration every year. KOF came back twice, with the last wave in 2024."
+            },
+            {
+              "type": "skins",
+              "id": "skins-kof",
+              "layout": "card",
+              "title": "The King of Fighters, 2019, 2020, 2024",
+              "items": [
+                {
+                  "hero": "Guinevere",
+                  "slug": "guinevere",
+                  "skin": "Athena Asamiya",
+                  "note": "2019",
+                  "image": "/images/skins/guinevere/athena-asamiya.webp"
+                },
+                {
+                  "hero": "Chou",
+                  "slug": "chou",
+                  "skin": "Iori Yagami",
+                  "note": "2019",
+                  "image": "/images/skins/chou/iori-yagami.webp"
+                },
+                {
+                  "hero": "Karina",
+                  "slug": "karina",
+                  "skin": "Leona",
+                  "note": "2019",
+                  "image": "/images/skins/karina/leona.webp"
+                },
+                {
+                  "hero": "Dyrroth",
+                  "slug": "dyrroth",
+                  "skin": "Orochi Chris",
+                  "note": "2020",
+                  "image": "/images/skins/dyrroth/orochi-chris.webp"
+                },
+                {
+                  "hero": "Gusion",
+                  "slug": "gusion",
+                  "skin": "K'",
+                  "note": "2020",
+                  "image": "/images/skins/gusion/k.webp"
+                },
+                {
+                  "hero": "Aurora",
+                  "slug": "aurora",
+                  "skin": "Kula Diamond",
+                  "note": "2020",
+                  "image": "/images/skins/aurora/kula-diamond.webp"
+                },
+                {
+                  "hero": "Valir",
+                  "slug": "valir",
+                  "skin": "Kyo Kusanagi",
+                  "note": "2024",
+                  "image": "/images/skins/valir/kyo-kusanagi.webp"
+                },
+                {
+                  "hero": "Masha",
+                  "slug": "masha",
+                  "skin": "Mai Shiranui",
+                  "note": "2024",
+                  "image": "/images/skins/masha/mai-shiranui.webp"
+                },
+                {
+                  "hero": "Paquito",
+                  "slug": "paquito",
+                  "skin": "Terry Bogard",
+                  "note": "2024",
+                  "image": "/images/skins/paquito/terry-bogard.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-star-wars",
+              "layout": "card",
+              "title": "Star Wars, 2021–2022",
+              "items": [
+                {
+                  "hero": "Argus",
+                  "slug": "argus",
+                  "skin": "Darth Vader",
+                  "note": "2021",
+                  "image": "/images/skins/argus/darth-vader.webp"
+                },
+                {
+                  "hero": "Cyclops",
+                  "slug": "cyclops",
+                  "skin": "Master Yoda",
+                  "note": "2021",
+                  "image": "/images/skins/cyclops/master-yoda.webp"
+                },
+                {
+                  "hero": "Alucard",
+                  "slug": "alucard",
+                  "skin": "Obi-Wan Kenobi",
+                  "note": "2021",
+                  "image": "/images/skins/alucard/obi-wan-kenobi.webp"
+                },
+                {
+                  "hero": "Kimmy",
+                  "slug": "kimmy",
+                  "skin": "First Order Jet Trooper",
+                  "note": "2022",
+                  "image": "/images/skins/kimmy/first-order-jet-trooper.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-transformers",
+              "layout": "card",
+              "title": "Transformers, 2021–2022",
+              "items": [
+                {
+                  "hero": "Johnson",
+                  "slug": "johnson",
+                  "skin": "Optimus Prime",
+                  "note": "2021",
+                  "image": "/images/skins/johnson/optimus-prime.webp"
+                },
+                {
+                  "hero": "Granger",
+                  "slug": "granger",
+                  "skin": "Megatron",
+                  "note": "2021",
+                  "image": "/images/skins/granger/megatron.webp"
+                },
+                {
+                  "hero": "X.Borg",
+                  "slug": "x-borg",
+                  "skin": "Bumblebee",
+                  "note": "2021",
+                  "image": "/images/skins/x-borg/bumblebee.webp"
+                },
+                {
+                  "hero": "Popol and Kupa",
+                  "slug": "popol-and-kupa",
+                  "skin": "Soundwave & Ravage",
+                  "note": "2022",
+                  "image": "/images/skins/popol-and-kupa/soundwave-ravage.webp"
+                },
+                {
+                  "hero": "Aldous",
+                  "slug": "aldous",
+                  "skin": "Starscream",
+                  "note": "2022",
+                  "image": "/images/skins/aldous/starscream.webp"
+                },
+                {
+                  "hero": "Roger",
+                  "slug": "roger",
+                  "skin": "Grimlock",
+                  "note": "2022",
+                  "image": "/images/skins/roger/grimlock.webp"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "year-2022",
+              "text": "2022: Sanrio, Kung Fu Panda, Neymar Jr and Saint Seiya"
+            },
+            {
+              "type": "paragraph",
+              "text": "The busiest year: four collaborations, including the first one with an athlete. In Saint Seiya each of the three heroes got two skins, in bronze and gold armour."
+            },
+            {
+              "type": "skins",
+              "id": "skins-sanrio",
+              "layout": "card",
+              "title": "Sanrio characters, 2022",
+              "items": [
+                {
+                  "hero": "Angela",
+                  "slug": "angela",
+                  "skin": "Heartstring",
+                  "note": "2022",
+                  "image": "/images/skins/angela/heartstring.webp"
+                },
+                {
+                  "hero": "Floryn",
+                  "slug": "floryn",
+                  "skin": "Fluffy Dream",
+                  "note": "2022",
+                  "image": "/images/skins/floryn/fluffy-dream.webp"
+                },
+                {
+                  "hero": "Claude",
+                  "slug": "claude",
+                  "skin": "Bad Bro",
+                  "note": "2022",
+                  "image": "/images/skins/claude/bad-bro.webp"
+                },
+                {
+                  "hero": "Chang'e",
+                  "slug": "change",
+                  "skin": "Moon Artist",
+                  "note": "2022",
+                  "image": "/images/skins/change/moon-artist.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-kung-fu-panda",
+              "layout": "card",
+              "title": "Kung Fu Panda, 2022",
+              "items": [
+                {
+                  "hero": "Akai",
+                  "slug": "akai",
+                  "skin": "Kung Fu Panda",
+                  "note": "2022",
+                  "image": "/images/skins/akai/kung-fu-panda.webp"
+                },
+                {
+                  "hero": "Ling",
+                  "slug": "ling",
+                  "skin": "Lord Shen",
+                  "note": "2022",
+                  "image": "/images/skins/ling/lord-shen.webp"
+                },
+                {
+                  "hero": "Thamuz",
+                  "slug": "thamuz",
+                  "skin": "General Kai",
+                  "note": "2022",
+                  "image": "/images/skins/thamuz/general-kai.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-neymar",
+              "layout": "card",
+              "title": "Neymar Jr, 2022",
+              "items": [
+                {
+                  "hero": "Bruno",
+                  "slug": "bruno",
+                  "skin": "Neymar Jr",
+                  "note": "2022",
+                  "image": "/images/skins/bruno/neymar-jr.webp"
+                },
+                {
+                  "hero": "Bruno",
+                  "slug": "bruno",
+                  "skin": "Halo Striker",
+                  "note": "2022",
+                  "image": "/images/skins/bruno/halo-striker.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-saint-seiya",
+              "layout": "card",
+              "title": "Saint Seiya, 2022",
+              "items": [
+                {
+                  "hero": "Badang",
+                  "slug": "badang",
+                  "skin": "Pegasus Seiya",
+                  "note": "2022",
+                  "image": "/images/skins/badang/pegasus-seiya.webp"
+                },
+                {
+                  "hero": "Valir",
+                  "slug": "valir",
+                  "skin": "Phoenix Ikki",
+                  "note": "2022",
+                  "image": "/images/skins/valir/phoenix-ikki.webp"
+                },
+                {
+                  "hero": "Chou",
+                  "slug": "chou",
+                  "skin": "Dragon Shiryu",
+                  "note": "2022",
+                  "image": "/images/skins/chou/dragon-shiryu.webp"
+                },
+                {
+                  "hero": "Badang",
+                  "slug": "badang",
+                  "skin": "Sagittarius Seiya",
+                  "note": "2022",
+                  "image": "/images/skins/badang/sagittarius-seiya.webp"
+                },
+                {
+                  "hero": "Valir",
+                  "slug": "valir",
+                  "skin": "Leo Ikki",
+                  "note": "2022",
+                  "image": "/images/skins/valir/leo-ikki.webp"
+                },
+                {
+                  "hero": "Chou",
+                  "slug": "chou",
+                  "skin": "Libra Shiryu",
+                  "note": "2022",
+                  "image": "/images/skins/chou/libra-shiryu.webp"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "years-2023-2024",
+              "text": "2023–2024: Jujutsu Kaisen, Ducati and Attack on Titan"
+            },
+            {
+              "type": "paragraph",
+              "text": "This is when MLBB moved to major anime: Satoru Gojo went to Xavier, Levi to Martis and Mikasa to Fanny. Ducati is still the only collaboration with a motorcycle brand: its skins are riders on the Monster, Panigale and Diavel models."
+            },
+            {
+              "type": "skins",
+              "id": "skins-jujutsu-kaisen",
+              "layout": "card",
+              "title": "Jujutsu Kaisen, 2023",
+              "items": [
+                {
+                  "hero": "Yin",
+                  "slug": "yin",
+                  "skin": "Yuji Itadori",
+                  "note": "2023",
+                  "image": "/images/skins/yin/yuji-itadori.webp"
+                },
+                {
+                  "hero": "Julian",
+                  "slug": "julian",
+                  "skin": "Megumi Fushiguro",
+                  "note": "2023",
+                  "image": "/images/skins/julian/megumi-fushiguro.webp"
+                },
+                {
+                  "hero": "Melissa",
+                  "slug": "melissa",
+                  "skin": "Nobara Kugisaki",
+                  "note": "2023",
+                  "image": "/images/skins/melissa/nobara-kugisaki.webp"
+                },
+                {
+                  "hero": "Xavier",
+                  "slug": "xavier",
+                  "skin": "Satoru Gojo",
+                  "note": "2023",
+                  "image": "/images/skins/xavier/satoru-gojo.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-ducati",
+              "layout": "card",
+              "title": "Ducati, 2023–2024",
+              "items": [
+                {
+                  "hero": "Irithel",
+                  "slug": "irithel",
+                  "skin": "Monster SP Rider",
+                  "note": "2023",
+                  "image": "/images/skins/irithel/monster-sp-rider.webp"
+                },
+                {
+                  "hero": "Benedetta",
+                  "slug": "benedetta",
+                  "skin": "Panigale V4S Rider",
+                  "note": "2023",
+                  "image": "/images/skins/benedetta/panigale-v4s-rider.webp"
+                },
+                {
+                  "hero": "Leomord",
+                  "slug": "leomord",
+                  "skin": "Diavel V4 Rider",
+                  "note": "2024",
+                  "image": "/images/skins/leomord/diavel-v4-rider.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-attack-on-titan",
+              "layout": "card",
+              "title": "Attack on Titan, 2024",
+              "items": [
+                {
+                  "hero": "Yin",
+                  "slug": "yin",
+                  "skin": "Eren",
+                  "note": "2024",
+                  "image": "/images/skins/yin/eren.webp"
+                },
+                {
+                  "hero": "Martis",
+                  "slug": "martis",
+                  "skin": "Levi",
+                  "note": "2024",
+                  "image": "/images/skins/martis/levi.webp"
+                },
+                {
+                  "hero": "Fanny",
+                  "slug": "fanny",
+                  "skin": "Mikasa",
+                  "note": "2024",
+                  "image": "/images/skins/fanny/mikasa.webp"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "years-2025-2026",
+              "text": "2025–2026: Hunter x Hunter, Naruto, SpongeBob and Street Fighter 6"
+            },
+            {
+              "type": "paragraph",
+              "text": "Naruto came in two parts: five skins in 2025, then Minato on Gusion and Itachi on Julian in spring 2026, together with a rerun of the first five. The second part ended on 11 May 2026. SpongeBob arrived for the Friend Fest event at the end of 2025, and the Cyclops skin was free. Street Fighter 6 was the first collaboration with Capcom: in July 2026 Paquito, Chou, Guinevere and Dyrroth became Ryu, Ken, Chun-Li and Guile."
+            },
+            {
+              "type": "skins",
+              "id": "skins-hunter-x-hunter",
+              "layout": "card",
+              "title": "Hunter x Hunter, 2025",
+              "items": [
+                {
+                  "hero": "Dyrroth",
+                  "slug": "dyrroth",
+                  "skin": "Gon",
+                  "note": "2025",
+                  "image": "/images/skins/dyrroth/gon.webp"
+                },
+                {
+                  "hero": "Harith",
+                  "slug": "harith",
+                  "skin": "Killua",
+                  "note": "2025",
+                  "image": "/images/skins/harith/killua.webp"
+                },
+                {
+                  "hero": "Julian",
+                  "slug": "julian",
+                  "skin": "Kurapika",
+                  "note": "2025",
+                  "image": "/images/skins/julian/kurapika.webp"
+                },
+                {
+                  "hero": "Cecilion",
+                  "slug": "cecilion",
+                  "skin": "Hisoka",
+                  "note": "2025",
+                  "image": "/images/skins/cecilion/hisoka.webp"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/news/mlbb-collaborations/naruto-phase-2.webp",
+              "width": 1200,
+              "height": 675,
+              "alt": "Key art of the second MLBB × Naruto phase: Minato and Naruto",
+              "caption": "The second phase of the collaboration, spring 2026. Image: MOONTON."
+            },
+            {
+              "type": "skins",
+              "id": "skins-naruto",
+              "layout": "card",
+              "title": "Naruto Shippuden, 2025, 2026",
+              "items": [
+                {
+                  "hero": "Lukas",
+                  "slug": "lukas",
+                  "skin": "Naruto Uzumaki",
+                  "note": "2025",
+                  "image": "/images/skins/lukas/naruto-uzumaki.webp"
+                },
+                {
+                  "hero": "Suyou",
+                  "slug": "suyou",
+                  "skin": "Sasuke Uchiha",
+                  "note": "2025",
+                  "image": "/images/skins/suyou/sasuke-uchiha.webp"
+                },
+                {
+                  "hero": "Kalea",
+                  "slug": "kalea",
+                  "skin": "Sakura Haruno",
+                  "note": "2025",
+                  "image": "/images/skins/kalea/sakura-haruno.webp"
+                },
+                {
+                  "hero": "Hayabusa",
+                  "slug": "hayabusa",
+                  "skin": "Kakashi Hatake",
+                  "note": "2025",
+                  "image": "/images/skins/hayabusa/kakashi-hatake.webp"
+                },
+                {
+                  "hero": "Vale",
+                  "slug": "vale",
+                  "skin": "Gaara",
+                  "note": "2025",
+                  "image": "/images/skins/vale/gaara.webp"
+                },
+                {
+                  "hero": "Gusion",
+                  "slug": "gusion",
+                  "skin": "Minato Namikaze",
+                  "note": "2026",
+                  "image": "/images/skins/gusion/minato-namikaze.webp"
+                },
+                {
+                  "hero": "Julian",
+                  "slug": "julian",
+                  "skin": "Itachi Uchiha",
+                  "note": "2026",
+                  "image": "/images/skins/julian/itachi-uchiha.webp"
+                }
+              ]
+            },
+            {
+              "type": "skins",
+              "id": "skins-spongebob",
+              "layout": "card",
+              "title": "SpongeBob SquarePants, 2025–2026",
+              "items": [
+                {
+                  "hero": "Cyclops",
+                  "slug": "cyclops",
+                  "skin": "SpongeBob SquarePants",
+                  "note": "2025",
+                  "image": "/images/skins/cyclops/spongebob-squarepants.webp"
+                },
+                {
+                  "hero": "Gloo",
+                  "slug": "gloo",
+                  "skin": "Patrick Star",
+                  "note": "2025",
+                  "image": "/images/skins/gloo/patrick-star.webp"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/images/news/mlbb-collaborations/street-fighter-6.webp",
+              "width": 1200,
+              "height": 675,
+              "alt": "MLBB × Street Fighter 6 key art: Ryu, Ken, Chun-Li and Guile",
+              "caption": "The Street Fighter 6 collaboration began on 3 July 2026. Image: MOONTON."
+            },
+            {
+              "type": "skins",
+              "id": "skins-street-fighter",
+              "layout": "card",
+              "title": "Street Fighter 6, 2026",
+              "items": [
+                {
+                  "hero": "Paquito",
+                  "slug": "paquito",
+                  "skin": "Ryu",
+                  "note": "2026",
+                  "image": "/images/skins/paquito/ryu.webp"
+                },
+                {
+                  "hero": "Chou",
+                  "slug": "chou",
+                  "skin": "Ken",
+                  "note": "2026",
+                  "image": "/images/skins/chou/ken.webp"
+                },
+                {
+                  "hero": "Guinevere",
+                  "slug": "guinevere",
+                  "skin": "Chun-Li",
+                  "note": "2026",
+                  "image": "/images/skins/guinevere/chun-li.webp"
+                },
+                {
+                  "hero": "Dyrroth",
+                  "slug": "dyrroth",
+                  "skin": "Guile",
+                  "note": "2026",
+                  "image": "/images/skins/dyrroth/guile.webp"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "id": "avatar",
+              "text": "Avatar: The Last Airbender in December 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "The Philippine outlet Pinoy Gamer reports an Avatar follow event in the game from 20 November to 3 December 2026: logging in earns Friend Coins. Friend Fest starts on 4 December, and the coins buy the new Zilong \"Aang\" skin. The same report mentions a free battle emote and an avatar border."
+            },
+            {
+              "type": "image",
+              "src": "/images/news/mlbb-collaborations/spongebob-friend-fest.webp",
+              "width": 1200,
+              "height": 675,
+              "alt": "Friend Fest 2025 art with SpongeBob and Patrick",
+              "caption": "Friend Fest with SpongeBob in 2025. Image: MOONTON."
+            },
+            {
+              "type": "paragraph",
+              "text": "The rest is leaks so far. In September the leaker RedMoon named the collaboration heroes: Kadita, Masha, Valir and Zilong. MOONTON has not announced who becomes Katara, Toph or Zuko. A year ago the similar SpongeBob event ran everywhere except the United States, France, Italy, the United Kingdom, Spain and five more countries, so Russia was included. Whether Avatar works the same way will be clear on 4 December."
+            },
+            {
+              "type": "linkCard",
+              "label": "Guide",
+              "title": "MLBB StarLight: every skin by month",
+              "description": "What the pass costs and which skin came out each month since 2016",
+              "href": "https://boostmlbb.ru/news/mlbb-starlight/"
+            },
+            {
+              "type": "heading",
+              "id": "how",
+              "text": "How collaboration skins are obtained"
+            },
+            {
+              "type": "list",
+              "items": [
+                "The main skins come from event draws paid with Diamonds or tokens. A skin is usually guaranteed after a set number of draws, and the final cost depends on luck.",
+                "One or two skins are often free for tasks and logins, like Cyclops \"SpongeBob\" and, reportedly, Zilong \"Aang\".",
+                "After the event the skins are not sold. The next chance is a rerun: KOF came back after four years, Naruto after one."
+              ]
+            },
+            {
+              "type": "cta",
+              "id": "collab-rank",
+              "eyebrow": "A new skin is a reason to return",
+              "title": "See the price of a boost to your rank",
+              "text": "Enter your rank and goal — the calculator shows the price right away.",
+              "button": "Calculate price",
+              "href": "/order.html?type=standard",
+              "note": "No payment, no commitment.",
+              "position": "after-how"
+            },
+            {
+              "type": "faq",
+              "id": "faq",
+              "title": "FAQ",
+              "items": [
+                {
+                  "q": "How many collaborations has Mobile Legends had?",
+                  "a": "14 from 2019 to 2026, 61 skins in total. Avatar: The Last Airbender would be the fifteenth if it launches in December."
+                },
+                {
+                  "q": "What is the next MLBB collaboration?",
+                  "a": "According to Pinoy Gamer, Avatar: The Last Airbender with Friend Fest from 4 December 2026. MOONTON has not published an official press release yet."
+                },
+                {
+                  "q": "Can I get a collaboration skin for free?",
+                  "a": "Sometimes. Cyclops \"SpongeBob\" was given for Friend Coins in Friend Fest 2025, and Zilong \"Aang\" is reported to work the same way. The main skins of an event are usually paid."
+                },
+                {
+                  "q": "Will the Naruto skins come back?",
+                  "a": "The second part of Naruto ended on 11 May 2026. MOONTON called it the final arc of the collaboration and has not announced another rerun."
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ]
 }

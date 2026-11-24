@@ -253,6 +253,38 @@
     {
       "source": "/en/news/mlbb-new-heroes-2026",
       "destination": "/en/news/mlbb-new-heroes-2026/index.html"
+    },
+    {
+      "source": "/news/mlbb-starlight/",
+      "destination": "/news/mlbb-starlight/index.html"
+    },
+    {
+      "source": "/news/mlbb-starlight",
+      "destination": "/news/mlbb-starlight/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-starlight/",
+      "destination": "/en/news/mlbb-starlight/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-starlight",
+      "destination": "/en/news/mlbb-starlight/index.html"
+    },
+    {
+      "source": "/news/mlbb-collaborations/",
+      "destination": "/news/mlbb-collaborations/index.html"
+    },
+    {
+      "source": "/news/mlbb-collaborations",
+      "destination": "/news/mlbb-collaborations/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-collaborations/",
+      "destination": "/en/news/mlbb-collaborations/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-collaborations",
+      "destination": "/en/news/mlbb-collaborations/index.html"
     }
   ]
 }

@@ -1,0 +1,531 @@
+{
+ "months": {
+  "2016-12": {
+   "hero": "saber",
+   "skin": "Force Warrior"
+  },
+  "2017-01": {
+   "hero": "layla",
+   "skin": "Bunny Babe"
+  },
+  "2017-02": {
+   "hero": "miya",
+   "skin": "Captain Thorns"
+  },
+  "2017-03": {
+   "hero": "freya",
+   "skin": "Dragon Hunter"
+  },
+  "2017-04": {
+   "hero": "natalia",
+   "skin": "Phantom Dancer"
+  },
+  "2017-05": {
+   "hero": "moskov",
+   "skin": "Snake Eye Commander"
+  },
+  "2017-06": {
+   "hero": "zilong",
+   "skin": "Eastern Warrior"
+  },
+  "2017-07": {
+   "hero": "karina",
+   "skin": "Black Pearl"
+  },
+  "2017-08": {
+   "hero": "franco",
+   "skin": "Apocalypse"
+  },
+  "2017-09": {
+   "hero": "clint",
+   "skin": "Rock and Roll"
+  },
+  "2017-10": {
+   "hero": "aurora",
+   "skin": "Heartbreak Empress"
+  },
+  "2017-11": {
+   "hero": "argus",
+   "skin": "Dark Draconic"
+  },
+  "2017-12": {
+   "hero": "alucard",
+   "skin": "Viscount"
+  },
+  "2018-01": {
+   "hero": "karrie",
+   "skin": "Dragon Queen"
+  },
+  "2018-02": {
+   "hero": "roger",
+   "skin": "Anubis"
+  },
+  "2018-03": {
+   "hero": "irithel",
+   "skin": "Nightarrow"
+  },
+  "2018-04": {
+   "hero": "harley",
+   "skin": "Royal Magister"
+  },
+  "2018-05": {
+   "hero": "martis",
+   "skin": "Searing Maw"
+  },
+  "2018-06": {
+   "hero": "akai",
+   "skin": "Akazonae Samurai"
+  },
+  "2018-07": {
+   "hero": "angela",
+   "skin": "Shanghai Maiden"
+  },
+  "2018-08": {
+   "hero": "lancelot",
+   "skin": "Dark Earl"
+  },
+  "2018-09": {
+   "hero": "cyclops",
+   "skin": "Deep Sea Rescuer"
+  },
+  "2018-10": {
+   "hero": "gusion",
+   "skin": "Cyber Ops"
+  },
+  "2018-11": {
+   "hero": "claude",
+   "skin": "Plunderous Pirate"
+  },
+  "2018-12": {
+   "hero": "fanny",
+   "skin": "Royal Cavalry"
+  },
+  "2019-01": {
+   "hero": "leomord",
+   "skin": "Frostborn Paladin"
+  },
+  "2019-02": {
+   "hero": "alice",
+   "skin": "Steam Glider"
+  },
+  "2019-03": {
+   "hero": "kimmy",
+   "skin": "Bio Frontier"
+  },
+  "2019-04": {
+   "hero": "hanabi",
+   "skin": "Fiery Moth"
+  },
+  "2019-05": {
+   "hero": "lunox",
+   "skin": "Ash Blossom"
+  },
+  "2019-06": {
+   "hero": "kaja",
+   "skin": "Kaminari"
+  },
+  "2019-07": {
+   "hero": "aldous",
+   "skin": "The Insentient"
+  },
+  "2019-08": {
+   "hero": "chou",
+   "skin": "Go Ballistic"
+  },
+  "2019-09": {
+   "hero": "guinevere",
+   "skin": "Lotus"
+  },
+  "2019-10": {
+   "hero": "selena",
+   "skin": "Double Identity"
+  },
+  "2019-11": {
+   "hero": "grock",
+   "skin": "Iceland Golem"
+  },
+  "2019-12": {
+   "hero": "dyrroth",
+   "skin": "Ruins Scavenger"
+  },
+  "2020-01": {
+   "hero": "valir",
+   "skin": "Dictator"
+  },
+  "2020-02": {
+   "hero": "masha",
+   "skin": "Combat Maiden"
+  },
+  "2020-03": {
+   "hero": "ling",
+   "skin": "Street Punk"
+  },
+  "2020-04": {
+   "hero": "lesley",
+   "skin": "Lethal Lady"
+  },
+  "2020-05": {
+   "hero": "granger",
+   "skin": "Biosoldier"
+  },
+  "2020-06": {
+   "hero": "x-borg",
+   "skin": "Graffiti Fashion"
+  },
+  "2020-07": {
+   "hero": "hayabusa",
+   "skin": "Biological Weapon"
+  },
+  "2020-08": {
+   "hero": "wanwan",
+   "skin": "Teen Pop"
+  },
+  "2020-09": {
+   "hero": "esmeralda",
+   "skin": "Cleopatra"
+  },
+  "2020-10": {
+   "hero": "silvanna",
+   "skin": "Pure Heroine"
+  },
+  "2020-11": {
+   "hero": "change",
+   "skin": "Strawberry Parfait"
+  },
+  "2020-12": {
+   "hero": "yu-zhong",
+   "skin": "Biohazard"
+  },
+  "2021-01": {
+   "hero": "benedetta",
+   "skin": "Street Thrasher"
+  },
+  "2021-02": {
+   "hero": "lapu-lapu",
+   "skin": "Special Force"
+  },
+  "2021-03": {
+   "hero": "khufra",
+   "skin": "Dreadful Clown"
+  },
+  "2021-04": {
+   "hero": "kagura",
+   "skin": "Rainy Walk"
+  },
+  "2021-05": {
+   "hero": "yi-sun-shin",
+   "skin": "Azure Sentry"
+  },
+  "2021-06": {
+   "hero": "jawhead",
+   "skin": "Candy Bear"
+  },
+  "2021-07": {
+   "hero": "sun",
+   "skin": "Simian Curse"
+  },
+  "2021-08": {
+   "hero": "luo-yi",
+   "skin": "Siren Priestess"
+  },
+  "2021-09": {
+   "hero": "pharsa",
+   "skin": "Peony Bloom"
+  },
+  "2021-10": {
+   "hero": "ruby",
+   "skin": "Pirate Parrot"
+  },
+  "2021-11": {
+   "hero": "vale",
+   "skin": "Soaring Devata"
+  },
+  "2021-12": {
+   "hero": "brody",
+   "skin": "Lethal Fang"
+  },
+  "2022-01": {
+   "hero": "clint",
+   "skin": "Operator CL"
+  },
+  "2022-02": {
+   "hero": "cecilion",
+   "skin": "Stargazer"
+  },
+  "2022-03": {
+   "hero": "beatrix",
+   "skin": "Space Agent"
+  },
+  "2022-04": {
+   "hero": "balmond",
+   "skin": "Bioroid"
+  },
+  "2022-05": {
+   "hero": "paquito",
+   "skin": "Fulgent Punch"
+  },
+  "2022-06": {
+   "hero": "tigreal",
+   "skin": "Galactic Marshal"
+  },
+  "2022-07": {
+   "hero": "nana",
+   "skin": "Cyclone Clash"
+  },
+  "2022-08": {
+   "hero": "natan",
+   "skin": "Captain Chrono"
+  },
+  "2022-09": {
+   "hero": "atlas",
+   "skin": "Space Mech"
+  },
+  "2022-10": {
+   "hero": "eudora",
+   "skin": "Cosmic Voyage"
+  },
+  "2022-11": {
+   "hero": "popol-and-kupa",
+   "skin": "Trouble Makers"
+  },
+  "2022-12": {
+   "hero": "vexana",
+   "skin": "Circus Magician"
+  },
+  "2023-01": {
+   "hero": "aamon",
+   "skin": "Cyber Assassin"
+  },
+  "2023-02": {
+   "hero": "saber",
+   "skin": "Iron Hound"
+  },
+  "2023-03": {
+   "hero": "valentina",
+   "skin": "Cyber Agent"
+  },
+  "2023-04": {
+   "hero": "edith",
+   "skin": "Ancient Warden"
+  },
+  "2023-05": {
+   "hero": "moskov",
+   "skin": "Violet Spear"
+  },
+  "2023-06": {
+   "hero": "thamuz",
+   "skin": "Sanctified Flame"
+  },
+  "2023-07": {
+   "hero": "minsitthar",
+   "skin": "War Lion"
+  },
+  "2023-08": {
+   "hero": "yin",
+   "skin": "Eternal Guardian"
+  },
+  "2023-09": {
+   "hero": "alpha",
+   "skin": "Star Enforcer"
+  },
+  "2023-10": {
+   "hero": "layla",
+   "skin": "Twilight Waltz"
+  },
+  "2023-11": {
+   "hero": "melissa",
+   "skin": "Nightwalker"
+  },
+  "2023-12": {
+   "hero": "arlott",
+   "skin": "Fury of the Deep"
+  },
+  "2024-01": {
+   "hero": "bruno",
+   "skin": "Street Hype"
+  },
+  "2024-02": {
+   "hero": "novaria",
+   "skin": "Sugar Glaze"
+  },
+  "2024-03": {
+   "hero": "ixia",
+   "skin": "Dynamic Streak"
+  },
+  "2024-04": {
+   "hero": "lylia",
+   "skin": "Magitech Arsenal"
+  },
+  "2024-05": {
+   "hero": "nolan",
+   "skin": "Fashion Mogul"
+  },
+  "2024-06": {
+   "hero": "helcurt",
+   "skin": "Dream Prowler"
+  },
+  "2024-07": {
+   "hero": "gusion",
+   "skin": "Desert Spider"
+  },
+  "2024-08": {
+   "hero": "gatotkaca",
+   "skin": "Nutcracker Monarch"
+  },
+  "2024-09": {
+   "hero": "odette",
+   "skin": "Wisdom of the Stars"
+  },
+  "2024-10": {
+   "hero": "zhask",
+   "skin": "Death's Shadow"
+  },
+  "2024-11": {
+   "hero": "martis",
+   "skin": "Darkwater Terror"
+  },
+  "2024-12": {
+   "hero": "xavier",
+   "skin": "Hardlight Artificer"
+  },
+  "2025-01": {
+   "hero": "zhuxin",
+   "skin": "Emberwisp Mystic"
+  },
+  "2025-02": {
+   "hero": "irithel",
+   "skin": "Checkered Knight"
+  },
+  "2025-03": {
+   "hero": "cici",
+   "skin": "Circus Reverie"
+  },
+  "2025-04": {
+   "hero": "joy",
+   "skin": "Exostar Scout"
+  },
+  "2025-05": {
+   "hero": "miya",
+   "skin": "Nightowl Huntress"
+  },
+  "2025-06": {
+   "hero": "gord",
+   "skin": "Imperator Vitalis"
+  },
+  "2025-07": {
+   "hero": "phoveus",
+   "skin": "Matrix Maverick"
+  },
+  "2025-08": {
+   "hero": "kadita",
+   "skin": "Maiden of the Tide"
+  },
+  "2025-09": {
+   "hero": "hanabi",
+   "skin": "Chic Glamour"
+  },
+  "2025-10": {
+   "hero": "yve",
+   "skin": "Flame Lotus"
+  },
+  "2025-11": {
+   "hero": "bane",
+   "skin": "Lord of Scalding Seas"
+  },
+  "2025-12": {
+   "hero": "fredrinn",
+   "skin": "Royal Marshal"
+  },
+  "2026-01": {
+   "hero": "harley",
+   "skin": "Dreaming Koi"
+  },
+  "2026-02": {
+   "hero": "hilda",
+   "skin": "Guardian Battalion"
+  },
+  "2026-03": {
+   "hero": "freya",
+   "skin": "Starborn Resolve"
+  },
+  "2026-04": {
+   "hero": "zetian",
+   "skin": "Sunset Luminance"
+  },
+  "2026-05": {
+   "hero": "obsidia",
+   "skin": "Magitech Wraith"
+  },
+  "2026-06": {
+   "hero": "harith",
+   "skin": "Rebel Emberfang"
+  },
+  "2026-07": {
+   "hero": "belerick",
+   "skin": "Smouldering Fortress"
+  },
+  "2026-08": {
+   "hero": "aulus",
+   "skin": "Starwake Corsair"
+  },
+  "2026-09": {
+   "hero": "hanzo",
+   "skin": "Fangs of Slaughter"
+  },
+  "2026-10": {
+   "hero": "hayabusa",
+   "skin": "Kitsune's Shadow"
+  },
+  "2026-11": {
+   "hero": "kalea",
+   "skin": "Tideborn Sailor"
+  },
+  "2026-12": {
+   "hero": "suyou",
+   "skin": "Frostblade Duelist"
+  }
+ },
+ "annual": [
+  [
+   "2018",
+   "hayabusa",
+   "Experiment 21"
+  ],
+  [
+   "2019",
+   "gord",
+   "No.1 Controller"
+  ],
+  [
+   "2020",
+   "karrie",
+   "Neon Lightwheel"
+  ],
+  [
+   "2021",
+   "kagura",
+   "Water Lily"
+  ],
+  [
+   "2021",
+   "lesley",
+   "Hawk-eyed Sniper"
+  ],
+  [
+   "2023",
+   "angela",
+   "Avatar of Time"
+  ],
+  [
+   "2024",
+   "vale",
+   "Concerto of Light"
+  ]
+ ],
+ "source": "mlbbdex.com/en/heroes/<slug>/skins (MLBB wiki data, CC BY-SA), collected 2026-11-24",
+ "fixes": {
+  "2024-04/05": "Lylia released 1 April 2024 (wiki price label says 2024/05); Nolan May 2024",
+  "2026": "main skins per Moonton perks posts and coverage; the wiki lists painted variants for some months (Zetian Elysian Luminance is the painted version of Sunset Luminance)",
+  "2018-07": "Jawhead Space Explorer was an MSC 2018 skin, not StarLight"
+ }
+}
