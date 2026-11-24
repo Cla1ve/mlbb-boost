@@ -850,6 +850,31 @@
       "pathname": "/heroes/for-beginners.html",
       "lastmod": "2026-11-24",
       "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-mage.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-tank.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-assassin.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-roam.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/heroes/best-mid.html",
+      "lastmod": "2026-11-24",
+      "ruOnly": true
     }
   ]
 }

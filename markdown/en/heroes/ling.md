@@ -58,6 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB junglers**14 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB assassins**12 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
 

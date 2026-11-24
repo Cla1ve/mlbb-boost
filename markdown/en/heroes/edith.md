@@ -58,6 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB marksmen**21 of 23**](https://boostmlbb.ru/en/heroes/best-marksman.html)
+-   [Best MLBB tanks**16 of 25**](https://boostmlbb.ru/en/heroes/best-tank.html)
 
 ## Build
 

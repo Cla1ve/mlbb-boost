@@ -58,6 +58,8 @@ A
 ### Места в рейтингах
 
 -   [Лучшие стрелки MLBB**2 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
+-   [Лучшие маги MLBB**3 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие мидеры MLBB**1 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
 

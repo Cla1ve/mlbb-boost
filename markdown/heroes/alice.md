@@ -58,6 +58,8 @@ A
 ### Места в рейтингах
 
 -   [Лучшие лесники MLBB**6 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие маги MLBB**1 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие танки MLBB**5 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
 
 ## Сборка
 

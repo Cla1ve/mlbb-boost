@@ -58,6 +58,7 @@ D
 ### Места в рейтингах
 
 -   [Лучшие бойцы MLBB**39 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие роумеры MLBB**25 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
 

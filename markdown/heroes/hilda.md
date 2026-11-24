@@ -58,6 +58,8 @@ C
 ### Места в рейтингах
 
 -   [Лучшие бойцы MLBB**22 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие танки MLBB**14 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
+-   [Лучшие роумеры MLBB**19 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
 

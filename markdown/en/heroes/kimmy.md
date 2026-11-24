@@ -58,6 +58,8 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB marksmen**2 of 23**](https://boostmlbb.ru/en/heroes/best-marksman.html)
+-   [Best MLBB mages**3 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mid laners**1 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
 

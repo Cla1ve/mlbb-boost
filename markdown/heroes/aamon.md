@@ -58,6 +58,7 @@ C
 ### Места в рейтингах
 
 -   [Лучшие лесники MLBB**21 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие убийцы MLBB**19 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 

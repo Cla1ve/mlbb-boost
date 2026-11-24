@@ -55,6 +55,12 @@ Dashed line: 50% win rate
 
 [![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
+### Places in the rankings
+
+-   [Best MLBB mages**8 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB assassins**4 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
+-   [Best MLBB mid laners**6 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
+
 ## Build
 
 Build 1Build 2Build 3

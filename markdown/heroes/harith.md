@@ -55,6 +55,10 @@ C
 
 [![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
 
+### Места в рейтингах
+
+-   [Лучшие маги MLBB**18 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

@@ -55,6 +55,11 @@ Dashed line: 50% win rate
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
+### Places in the rankings
+
+-   [Best MLBB assassins**28 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
+-   [Best MLBB roamers**32 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
+
 ## Build
 
 Build 1Build 2Build 3

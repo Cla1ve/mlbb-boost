@@ -55,6 +55,10 @@ B
 
 [![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)
 
+### Места в рейтингах
+
+-   [Лучшие роумеры MLBB**17 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

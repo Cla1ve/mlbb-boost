@@ -4,7 +4,6 @@ const MONTHS_NOM_RU = ['январь', 'февраль', 'март', 'апрел
 const PUBLISHED = '2026-11-24';
 
 // One list per role or lane that people search for ("лучшие лесники", "лучшие стрелки", ...).
-// Lists with `off: true` are built in code but not published: demand is only seen in Google suggestions (no Yandex), volume unknown.
 const ALL_DEFS = [
   { key: 'jungle', by: 'lane', value: 'Jungle', icon: 'jungle',
     ru: { h1: 'Лучшие лесники MLBB', short: 'Лесники', one: 'лесник', nom: 'лесники', gen: 'лесников', loc: 'лесниках', set: 'В списке все, кто играет в лесу по данным игры.' },
@@ -12,22 +11,22 @@ const ALL_DEFS = [
   { key: 'marksman', by: 'role', value: 'Marksman', icon: 'marksman',
     ru: { h1: 'Лучшие стрелки MLBB', short: 'Стрелки', one: 'стрелок', nom: 'стрелки', gen: 'стрелков', loc: 'стрелках', set: 'В списке все герои роли «Стрелок».' },
     en: { h1: 'Best MLBB marksmen', short: 'Marksmen', one: 'marksman', nom: 'marksmen', gen: 'marksmen', loc: 'marksmen', set: 'The list has every hero with the Marksman role.' } },
-  { key: 'mage', off: true, by: 'role', value: 'Mage', icon: 'mage',
+  { key: 'mage', by: 'role', value: 'Mage', icon: 'mage',
     ru: { h1: 'Лучшие маги MLBB', short: 'Маги', one: 'маг', nom: 'маги', gen: 'магов', loc: 'магах', set: 'В списке все герои роли «Маг».' },
     en: { h1: 'Best MLBB mages', short: 'Mages', one: 'mage', nom: 'mages', gen: 'mages', loc: 'mages', set: 'The list has every hero with the Mage role.' } },
   { key: 'fighter', by: 'role', value: 'Fighter', icon: 'fighter',
     ru: { h1: 'Лучшие бойцы MLBB', short: 'Бойцы', one: 'боец', nom: 'бойцы', gen: 'бойцов', loc: 'бойцах', set: 'В списке все герои роли «Боец».' },
     en: { h1: 'Best MLBB fighters', short: 'Fighters', one: 'fighter', nom: 'fighters', gen: 'fighters', loc: 'fighters', set: 'The list has every hero with the Fighter role.' } },
-  { key: 'tank', off: true, by: 'role', value: 'Tank', icon: 'tank',
+  { key: 'tank', by: 'role', value: 'Tank', icon: 'tank',
     ru: { h1: 'Лучшие танки MLBB', short: 'Танки', one: 'танк', nom: 'танки', gen: 'танков', loc: 'танках', set: 'В списке все герои роли «Танк».' },
     en: { h1: 'Best MLBB tanks', short: 'Tanks', one: 'tank', nom: 'tanks', gen: 'tanks', loc: 'tanks', set: 'The list has every hero with the Tank role.' } },
-  { key: 'assassin', off: true, by: 'role', value: 'Assassin', icon: 'assassin',
+  { key: 'assassin', by: 'role', value: 'Assassin', icon: 'assassin',
     ru: { h1: 'Лучшие убийцы MLBB', short: 'Убийцы', one: 'убийца', nom: 'убийцы', gen: 'убийц', loc: 'убийцах', set: 'В списке все герои роли «Убийца».' },
     en: { h1: 'Best MLBB assassins', short: 'Assassins', one: 'assassin', nom: 'assassins', gen: 'assassins', loc: 'assassins', set: 'The list has every hero with the Assassin role.' } },
-  { key: 'roam', off: true, by: 'lane', value: 'Roam', icon: 'roam',
+  { key: 'roam', by: 'lane', value: 'Roam', icon: 'roam',
     ru: { h1: 'Лучшие роумеры MLBB', short: 'Роум', one: 'роумер', nom: 'роумеры', gen: 'роумеров', loc: 'роумерах', set: 'В списке все, кто играет роум по данным игры.' },
     en: { h1: 'Best MLBB roamers', short: 'Roam', one: 'roamer', nom: 'roamers', gen: 'roamers', loc: 'roamers', set: 'The list has every hero that plays roam, according to the game.' } },
-  { key: 'mid', off: true, by: 'lane', value: 'Mid Lane', icon: 'mid',
+  { key: 'mid', by: 'lane', value: 'Mid Lane', icon: 'mid',
     ru: { h1: 'Лучшие мидеры MLBB', short: 'Мид', one: 'мидер', nom: 'мидеры', gen: 'мидеров', loc: 'мидерах', set: 'В списке все, кто играет на средней линии по данным игры.' },
     en: { h1: 'Best MLBB mid laners', short: 'Mid', one: 'mid laner', nom: 'mid laners', gen: 'mid laners', loc: 'mid laners', set: 'The list has every hero that plays the mid lane, according to the game.' } }
 ];

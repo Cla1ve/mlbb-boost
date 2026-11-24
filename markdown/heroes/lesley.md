@@ -54,6 +54,7 @@ B
 ### Места в рейтингах
 
 -   [Лучшие стрелки MLBB**4 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
+-   [Лучшие убийцы MLBB**8 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 

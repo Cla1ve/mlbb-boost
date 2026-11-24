@@ -58,6 +58,7 @@ C
 ### Места в рейтингах
 
 -   [Лучшие стрелки MLBB**21 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
+-   [Лучшие танки MLBB**16 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
 
 ## Сборка
 

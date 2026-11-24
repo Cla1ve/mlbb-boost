@@ -58,6 +58,7 @@ B
 ### Места в рейтингах
 
 -   [Лучшие бойцы MLBB**18 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие убийцы MLBB**13 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 

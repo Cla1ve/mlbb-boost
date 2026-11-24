@@ -58,6 +58,8 @@ D
 ### Места в рейтингах
 
 -   [Лучшие лесники MLBB**37 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие танки MLBB**25 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
+-   [Лучшие роумеры MLBB**34 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
 

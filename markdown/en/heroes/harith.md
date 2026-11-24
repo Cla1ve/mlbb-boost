@@ -55,6 +55,10 @@ Dashed line: 50% win rate
 
 [![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
 
+### Places in the rankings
+
+-   [Best MLBB mages**18 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+
 ## Build
 
 Build 1Build 2Build 3

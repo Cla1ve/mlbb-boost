@@ -55,6 +55,11 @@ D
 
 [![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
+### Места в рейтингах
+
+-   [Лучшие убийцы MLBB**28 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
+-   [Лучшие роумеры MLBB**32 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

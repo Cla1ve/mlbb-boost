@@ -59,6 +59,7 @@ C
 
 -   [Лучшие лесники MLBB**31 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие бойцы MLBB**36 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие убийцы MLBB**25 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 

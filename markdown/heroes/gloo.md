@@ -55,6 +55,11 @@ A
 
 [![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)
 
+### Места в рейтингах
+
+-   [Лучшие танки MLBB**7 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
+-   [Лучшие роумеры MLBB**6 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

@@ -55,6 +55,12 @@ B
 
 [![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
+### Места в рейтингах
+
+-   [Лучшие маги MLBB**16 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие убийцы MLBB**11 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
+-   [Лучшие мидеры MLBB**14 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+
 ## Сборка
 
 Сборка 1Сборка 2

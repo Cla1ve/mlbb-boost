@@ -55,6 +55,12 @@ A
 
 [![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
+### Места в рейтингах
+
+-   [Лучшие маги MLBB**8 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие убийцы MLBB**4 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
+-   [Лучшие мидеры MLBB**6 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+
 ## Сборка
 
 Сборка 1Сборка 2Сборка 3

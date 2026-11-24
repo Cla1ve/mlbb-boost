@@ -58,6 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB fighters**18 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB assassins**13 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
 

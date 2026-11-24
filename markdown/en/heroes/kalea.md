@@ -58,6 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB fighters**2 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB roamers**2 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
 ## Build
 
