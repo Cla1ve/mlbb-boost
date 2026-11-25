@@ -59,7 +59,7 @@ function priority(url) {
   const hero = path.match(/^\/heroes\/([a-z0-9-]+)\.html$/);
   if (hero) return 200 + (heroRank[hero[1]] || 150);
   // Item pages: finished items first (people search for them by name), parts after.
-  const item = path.match(/^/items/([a-z0-9-]+).html$/);
+  const item = path.match(/^\/items\/([a-z0-9-]+)\.html$/);
   if (item) return itemKind[item[1]] === 'part' ? 380 : 360;
   return 500;
 }
