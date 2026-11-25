@@ -33,9 +33,9 @@ const EFFECT = { passive: ['Уникальный пассивный', 'Unique pa
 // Who can get the special items: shown on their pages and in the catalog.
 const SPECIAL_HERO = { 'lantern-of-hope': 'floryn', 'flower-of-hope': 'floryn', 'allow-throw': 'jawhead', 'throw-forbidden': 'jawhead', 'broken-heart': 'carmilla' };
 
-// The blessings are not shop items with prices: two pages, one per tab. Texts follow the game (owner's screenshots of
-// 25.11.2026 for Flame Retribution and Encourage, the Academy for Conceal and the hunter boots); numbers the game changes
-// often and that could not be checked are left out instead of being guessed.
+// The blessings are not shop items with prices: two pages, one per tab. Texts follow the game: owner's screenshots of
+// 25.11.2026 for Flame Retribution and all four roam blessings, the Academy for the hunter boots. Ice and Bloody Retribution
+// numbers were not on the screenshots and are left out instead of being guessed.
 const BLESSINGS = {
   jungle: {
     slug: 'retribution', icon: 'flame-retribution',
@@ -58,9 +58,11 @@ const BLESSINGS = {
     en: { h1: 'Roam blessings', title: 'MLBB roam blessings: Encourage, Conceal, Favor, Dire Hit | MLBB Boost', description: 'Mobile Legends roam blessings: what Encourage, Favor, Dire Hit and Conceal do, how a roamer earns gold and when the skill unlocks.', tag: 'Roam blessing' },
     variants: [
       { id: 'encourage', icon: 'encourage', ru: ['Поощрение', 'Пассивный: вы и союзные герои рядом получаете 20 дополнительной гибридной защиты.', 'Для драк всей командой.'], en: ['Encourage', 'Passive: you and nearby allied heroes gain 20 extra Hybrid Defense.', 'For team fights.'] },
-      { id: 'favor', icon: 'favor', ru: ['Благосклонность', 'Пассивный: время от времени следующий навык лечения или щита дополнительно восстанавливает ОЗ союзному герою рядом с самым низким запасом здоровья, включая вас.', 'Для героев, которые лечат и дают щиты.'], en: ['Favor', 'Passive: every so often, your next heal or shield skill also restores HP to the nearby allied hero with the lowest HP, you included.', 'For healers and shielders.'] },
-      { id: 'dire-hit', icon: 'dire-hit', ru: ['Острый удар', 'Пассивный: время от времени следующая атака по вражескому герою с низким запасом ОЗ наносит дополнительный гибридный урон от его макс. ОЗ.', 'Для роумеров, которые сами добивают.'], en: ['Dire Hit', 'Passive: every so often, the next attack on an enemy hero with low HP deals extra Hybrid Damage based on their Max HP.', 'For roamers who finish kills themselves.'] },
-      { id: 'conceal', icon: 'conceal', ru: ['Маскировка', 'Активный: союзные герои рядом уходят в маскировку и получают 40% скорости передвижения на 5 с. Нанесение или получение урона снимает её.', 'Для засад и быстрых перебежек.'], en: ['Conceal', 'Active: nearby allied heroes become camouflaged and gain 40% Movement Speed for 5s. Dealing or taking damage ends it.', 'For ambushes and rotations.'] }
+      { id: 'favor', icon: 'favor', ru: ['Благосклонность', 'Пассивный: раз в 15 с ваш следующий навык лечения или щита дополнительно восстанавливает 400 ОЗ союзному герою с наименьшим запасом ОЗ в радиусе 5 единиц, включая вас. Навыки, которые действуют только на вас, эффект не запускают.', 'Для героев, которые лечат и дают щиты.'],
+        en: ['Favor', 'Passive: every 15s, your next heal or shield skill restores an extra 400 HP to the allied hero with the lowest HP within 5 units, you included. Skills that affect only you do not trigger it.', 'For healers and shielders.'] },
+      { id: 'dire-hit', icon: 'dire-hit', ru: ['Острый удар', 'Пассивный: во время движения копится «Сила», скорость передвижения постепенно растёт (до 40). На 20 зарядах следующее попадание тратит все заряды и наносит дополнительный чистый урон, который зависит от их числа.', 'Для роумеров, которые много бегают и сами начинают драку.'],
+        en: ['Dire Hit', 'Passive: moving builds up Power and gradually raises Movement Speed (up to 40). At 20 stacks, the next hit spends them all and deals extra True Damage based on the number of stacks.', 'For roamers who move a lot and start fights.'] },
+      { id: 'conceal', icon: 'conceal', ru: ['Маскировка', 'Активный: маскирует вас и союзных героев рядом и даёт 40% скорости передвижения на 5 с. Маскировка спадает, если получить или нанести урон.', 'Для засад и быстрых перебежек.'], en: ['Conceal', 'Active: camouflages you and nearby allied heroes and grants 40% Movement Speed for 5s. Dealing or taking damage ends it.', 'For ambushes and rotations.'] }
     ],
     common: { ru: ['Успешное развитие', 'Рядом с союзными героями вы получаете 30% опыта и золота от миньонов и монстров. Урон по вражеским героям (раз в 15 с) и обнаружение врагов тоже приносят опыт и золото. Навык благословения открывается, когда от «Успешного развития» накопится 1000 золота.'],
       en: ['Thriving', 'Near allied heroes you gain 30% of the EXP and Gold from minions and creeps. Damaging enemy heroes (once every 15s) and revealing enemies also grant EXP and Gold. The blessing skill unlocks after 1,000 Gold from Thriving.'] }

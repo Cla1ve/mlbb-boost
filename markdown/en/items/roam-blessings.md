@@ -27,7 +27,7 @@ For team fights.
 
 ### Favor
 
-Passive: every so often, your next heal or shield skill also restores HP to the nearby allied hero with the lowest HP, you included.
+Passive: every 15s, your next heal or shield skill restores an extra 400 HP to the allied hero with the lowest HP within 5 units, you included. Skills that affect only you do not trigger it.
 
 For healers and shielders.
 
@@ -35,15 +35,15 @@ For healers and shielders.
 
 ### Dire Hit
 
-Passive: every so often, the next attack on an enemy hero with low HP deals extra Hybrid Damage based on their Max HP.
+Passive: moving builds up Power and gradually raises Movement Speed (up to 40). At 20 stacks, the next hit spends them all and deals extra True Damage based on the number of stacks.
 
-For roamers who finish kills themselves.
+For roamers who move a lot and start fights.
 
 ![](/images/mlbb/blessings/conceal.webp)
 
 ### Conceal
 
-Active: nearby allied heroes become camouflaged and gain 40% Movement Speed for 5s. Dealing or taking damage ends it.
+Active: camouflages you and nearby allied heroes and grants 40% Movement Speed for 5s. Dealing or taking damage ends it.
 
 For ambushes and rotations.
 
@@ -65,4 +65,4 @@ Near allied heroes you gain 30% of the EXP and Gold from minions and creeps. Dam
 
 What roam blessings are there in MLBB?
 
-There are 4: Encourage, Favor, Dire Hit and Conceal. Encourage — for team fights. Favor — for healers and shielders. Dire Hit — for roamers who finish kills themselves. Conceal — for ambushes and rotations.
+There are 4: Encourage, Favor, Dire Hit and Conceal. Encourage — for team fights. Favor — for healers and shielders. Dire Hit — for roamers who move a lot and start fights. Conceal — for ambushes and rotations.

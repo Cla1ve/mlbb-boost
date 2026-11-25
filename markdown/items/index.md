@@ -53,7 +53,7 @@ language: ru
 
 ## Роум
 
-[![](/images/mlbb/blessings/encourage.webp)ПоощрениеДля драк всей командой.](https://boostmlbb.ru/items/roam-blessings.html#encourage)[![](/images/mlbb/blessings/favor.webp)БлагосклонностьДля героев, которые лечат и дают щиты.](https://boostmlbb.ru/items/roam-blessings.html#favor)[![](/images/mlbb/blessings/dire-hit.webp)Острый ударДля роумеров, которые сами добивают.](https://boostmlbb.ru/items/roam-blessings.html#dire-hit)[![](/images/mlbb/blessings/conceal.webp)МаскировкаДля засад и быстрых перебежек.](https://boostmlbb.ru/items/roam-blessings.html#conceal)
+[![](/images/mlbb/blessings/encourage.webp)ПоощрениеДля драк всей командой.](https://boostmlbb.ru/items/roam-blessings.html#encourage)[![](/images/mlbb/blessings/favor.webp)БлагосклонностьДля героев, которые лечат и дают щиты.](https://boostmlbb.ru/items/roam-blessings.html#favor)[![](/images/mlbb/blessings/dire-hit.webp)Острый ударДля роумеров, которые много бегают и сами начинают драку.](https://boostmlbb.ru/items/roam-blessings.html#dire-hit)[![](/images/mlbb/blessings/conceal.webp)МаскировкаДля засад и быстрых перебежек.](https://boostmlbb.ru/items/roam-blessings.html#conceal)
 
 Такого предмета нет. Проверьте название.
 

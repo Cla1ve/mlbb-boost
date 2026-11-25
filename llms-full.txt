@@ -3644,7 +3644,7 @@ AllAttackMagicDefenseMovementJungleRoam
 
 ## Roam
 
-[![](/images/mlbb/blessings/encourage.webp)EncourageFor team fights.](https://boostmlbb.ru/en/items/roam-blessings.html#encourage)[![](/images/mlbb/blessings/favor.webp)FavorFor healers and shielders.](https://boostmlbb.ru/en/items/roam-blessings.html#favor)[![](/images/mlbb/blessings/dire-hit.webp)Dire HitFor roamers who finish kills themselves.](https://boostmlbb.ru/en/items/roam-blessings.html#dire-hit)[![](/images/mlbb/blessings/conceal.webp)ConcealFor ambushes and rotations.](https://boostmlbb.ru/en/items/roam-blessings.html#conceal)
+[![](/images/mlbb/blessings/encourage.webp)EncourageFor team fights.](https://boostmlbb.ru/en/items/roam-blessings.html#encourage)[![](/images/mlbb/blessings/favor.webp)FavorFor healers and shielders.](https://boostmlbb.ru/en/items/roam-blessings.html#favor)[![](/images/mlbb/blessings/dire-hit.webp)Dire HitFor roamers who move a lot and start fights.](https://boostmlbb.ru/en/items/roam-blessings.html#dire-hit)[![](/images/mlbb/blessings/conceal.webp)ConcealFor ambushes and rotations.](https://boostmlbb.ru/en/items/roam-blessings.html#conceal)
 
 No item with that name. Check the spelling.
 
