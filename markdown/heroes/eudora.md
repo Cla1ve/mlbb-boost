@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/eudora.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Эйдора](/images/heroes/art/eudora.webp)
 
@@ -74,18 +74,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2014.webp)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3108.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3108.webp)
 
     Кровавые крылья
 
+
+
+    ](https://boostmlbb.ru/items/blood-wings.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Жезл молний
 
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Жезл молний
 
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
 
 #### Заклинание
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/cyclops.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Циклоп](/images/heroes/art/cyclops.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
 
 #### Заклинание
 

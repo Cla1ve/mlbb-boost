@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/edith.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Edith hero art](/images/heroes/art/edith.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
 
 #### Spell
 

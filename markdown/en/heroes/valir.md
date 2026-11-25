@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Valir hero art](/images/heroes/art/valir.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Glowing Wand
 
--   ![](/images/mlbb/items/3104.webp)
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
 
     Ice Queen Wand
 
--   ![](/images/mlbb/items/2112.webp)
+
+
+    ](https://boostmlbb.ru/en/items/ice-queen-wand.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
 
     Wishing Lantern
 
+
+
+    ](https://boostmlbb.ru/en/items/wishing-lantern.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Glowing Wand
 
--   ![](/images/mlbb/items/3104.webp)
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
 
     Ice Queen Wand
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/ice-queen-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
 
 #### Spell
 

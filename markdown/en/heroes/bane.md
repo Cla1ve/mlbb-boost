@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/bane.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Bane hero art](/images/heroes/art/bane.webp)
 
@@ -75,18 +75,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Hunter Strike
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
 
 #### Spell
 
@@ -121,18 +136,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Malefic Roar
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 #### Spell
 
@@ -167,18 +197,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Hunter Strike
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
 
 #### Spell
 

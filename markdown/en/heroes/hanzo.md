@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hanzo.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Hanzo hero art](/images/heroes/art/hanzo.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Thunder Belt
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Golden Staff
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Thunder Belt
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2014.webp)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Golden Staff
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
 
 #### Spell
 

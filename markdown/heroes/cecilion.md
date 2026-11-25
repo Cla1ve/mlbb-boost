@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/cecilion.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сесилион](/images/heroes/art/cecilion.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3113.webp)
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
 
     Часы судьбы
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3113.webp)
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
 
     Часы судьбы
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/2112.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
 
     Фонарь желаний
 
+
+
+    ](https://boostmlbb.ru/items/wishing-lantern.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3113.webp)
+-   [
+
+    ![](/images/mlbb/items/3113.webp)
 
     Часы судьбы
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/items/clock-of-destiny.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/2112.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
 
     Фонарь желаний
 
+
+
+    ](https://boostmlbb.ru/items/wishing-lantern.html)
 
 #### Заклинание
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/best-roam.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB roamers
 
@@ -37,17 +37,31 @@ Ban rate
 
 70.0%
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3112.webp)
 
 Flask of the Oasis
+
+
+
+](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
 
 ![](/images/mlbb/emblems/20008.webp)
 
@@ -77,17 +91,31 @@ Ban rate
 
 14.6%
 
+[
+
 ![](/images/mlbb/items/3204.webp)
 
 Oracle
+
+
+
+](https://boostmlbb.ru/en/items/oracle.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3109.webp)
 
 Fleeting Time
+
+
+
+](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -117,17 +145,31 @@ Ban rate
 
 37.2%
 
+[
+
 ![](/images/mlbb/items/3201.webp)
 
 Cursed Helmet
+
+
+
+](https://boostmlbb.ru/en/items/cursed-helmet.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3203.webp)
 
 Antique Cuirass
+
+
+
+](https://boostmlbb.ru/en/items/antique-cuirass.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -633,12 +675,12 @@ D
 
 ## What they build most
 
--   ![](/images/mlbb/items/3206.webp)Dominance Ice16 of 34
--   ![](/images/mlbb/items/2212.webp)Thunder Belt9 of 34
--   ![](/images/mlbb/items/3109.webp)Fleeting Time9 of 34
--   ![](/images/mlbb/items/3112.webp)Flask of the Oasis9 of 34
--   ![](/images/mlbb/items/3212.webp)Chastise Pauldron6 of 34
--   ![](/images/mlbb/items/3203.webp)Antique Cuirass5 of 34
+-   [![](/images/mlbb/items/3206.webp)Dominance Ice16 of 34](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [![](/images/mlbb/items/2212.webp)Thunder Belt9 of 34](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [![](/images/mlbb/items/3109.webp)Fleeting Time9 of 34](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [![](/images/mlbb/items/3112.webp)Flask of the Oasis9 of 34](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [![](/images/mlbb/items/3212.webp)Chastise Pauldron6 of 34](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [![](/images/mlbb/items/3203.webp)Antique Cuirass5 of 34](https://boostmlbb.ru/en/items/antique-cuirass.html)
 
 The three core items of every hero’s most common build. Spell: Flicker on 16 and Revitalize on 8. Tank on 13, Support on 13.
 

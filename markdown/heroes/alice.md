@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/alice.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Алиса](/images/heroes/art/alice.webp)
 
@@ -75,18 +75,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3208.webp)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3208.webp)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
 
 #### Заклинание
 
@@ -167,18 +197,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3204.webp)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 

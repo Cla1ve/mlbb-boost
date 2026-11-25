@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/harith.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Харит](/images/heroes/art/harith.webp)
 
@@ -73,18 +73,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3106.webp)
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
 
     Старлиумовая коса
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3106.webp)
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
 
     Старлиумовая коса
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3106.webp)
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
 
     Старлиумовая коса
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
 
 #### Заклинание
 

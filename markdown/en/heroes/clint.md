@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/clint.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Clint hero art](/images/heroes/art/clint.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Hunter Strike
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3004.webp)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3004.webp)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 

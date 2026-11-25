@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/zhask.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Заск](/images/heroes/art/zhask.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Божественный меч
 
+
+
+    ](https://boostmlbb.ru/items/divine-glaive.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2014.webp)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Божественный меч
 
+
+
+    ](https://boostmlbb.ru/items/divine-glaive.html)
 
 #### Заклинание
 

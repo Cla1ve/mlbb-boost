@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Cyclops hero art](/images/heroes/art/cyclops.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Glowing Wand
 
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Queen's Wings
 
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Queen's Wings
 
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
 
 #### Spell
 

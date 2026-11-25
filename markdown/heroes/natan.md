@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/natan.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Натан](/images/heroes/art/natan.webp)
 
@@ -73,18 +73,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
 
 #### Заклинание
 

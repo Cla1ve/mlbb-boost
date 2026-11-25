@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/bruno.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Бруно](/images/heroes/art/bruno.webp)
 
@@ -73,18 +73,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3002.webp)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3002.webp)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3002.webp)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 

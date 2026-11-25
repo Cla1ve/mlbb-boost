@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/minotaur.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Minotaur hero art](/images/heroes/art/minotaur.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3205.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
 
     Athena's Shield
 
+
+
+    ](https://boostmlbb.ru/en/items/athenas-shield.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
 
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
 
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
 
 #### Spell
 

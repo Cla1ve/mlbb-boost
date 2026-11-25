@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/benedetta.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Бенедетта](/images/heroes/art/benedetta.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
 
 #### Заклинание
 
@@ -120,22 +135,42 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Клинок отчаяния
 
+
+
+    ](https://boostmlbb.ru/items/blade-of-despair.html)
 
 #### Заклинание
 
@@ -170,18 +205,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
 
 #### Заклинание
 

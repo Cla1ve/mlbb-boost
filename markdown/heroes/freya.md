@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/freya.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Фрейя](/images/heroes/art/freya.webp)
 
@@ -74,18 +74,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2009.webp)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2009.webp)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2009.webp)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
 
 #### Заклинание
 

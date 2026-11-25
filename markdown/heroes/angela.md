@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/angela.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ангела](/images/heroes/art/angela.webp)
 
@@ -73,18 +73,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
 
 #### Заклинание
 

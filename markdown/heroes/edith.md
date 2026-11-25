@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/edith.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Эдит](/images/heroes/art/edith.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
 
 #### Заклинание
 

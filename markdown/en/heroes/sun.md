@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Sun hero art](/images/heroes/art/sun.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Thunder Belt
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/3014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3014.webp)
 
     Great Dragon Spear
 
+
+
+    ](https://boostmlbb.ru/en/items/great-dragon-spear.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Demon Hunter Sword
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Golden Staff
 
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
 
 #### Spell
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/khaleed.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Халид](/images/heroes/art/khaleed.webp)
 
@@ -74,18 +74,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/2207.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/2207.webp)
 
     Шипованная броня
 
+
+
+    ](https://boostmlbb.ru/items/blade-armor.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 

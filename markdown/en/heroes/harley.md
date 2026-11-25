@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/harley.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Harley hero art](/images/heroes/art/harley.webp)
 
@@ -76,18 +76,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3103.webp)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Glowing Wand
 
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
 
 #### Spell
 
@@ -122,18 +137,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Glowing Wand
 
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
 
 #### Spell
 
@@ -168,18 +198,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2014.webp)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
 
 #### Spell
 

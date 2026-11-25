@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/nana.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Нана](/images/heroes/art/nana.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Божественный меч
 
--   ![](/images/mlbb/items/2112.webp)
+
+
+    ](https://boostmlbb.ru/items/divine-glaive.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
 
     Фонарь желаний
 
+
+
+    ](https://boostmlbb.ru/items/wishing-lantern.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3108.webp)
+-   [
+
+    ![](/images/mlbb/items/3108.webp)
 
     Кровавые крылья
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/items/blood-wings.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Жезл молний
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
 
 #### Заклинание
 

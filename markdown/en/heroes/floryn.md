@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Floryn hero art](/images/heroes/art/floryn.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/10001.webp)
+-   [
+
+    ![](/images/mlbb/items/10001.webp)
 
     Lantern of Hope
 
--   ![](/images/mlbb/items/3112.webp)
+
+
+    ](https://boostmlbb.ru/en/items/lantern-of-hope.html)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/10001.webp)
+-   [
+
+    ![](/images/mlbb/items/10001.webp)
 
     Lantern of Hope
 
--   ![](/images/mlbb/items/3112.webp)
+
+
+    ](https://boostmlbb.ru/en/items/lantern-of-hope.html)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/10001.webp)
+-   [
+
+    ![](/images/mlbb/items/10001.webp)
 
     Lantern of Hope
 
--   ![](/images/mlbb/items/3112.webp)
+
+
+    ](https://boostmlbb.ru/en/items/lantern-of-hope.html)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 #### Spell
 

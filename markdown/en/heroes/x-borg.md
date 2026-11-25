@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/x-borg.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![X.Borg hero art](/images/heroes/art/x-borg.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3207.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3207.webp)
 
     Immortality
 
+
+
+    ](https://boostmlbb.ru/en/items/immortality.html)
 
 #### Spell
 

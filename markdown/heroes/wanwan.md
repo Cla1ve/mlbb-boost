@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/wanwan.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ванван](/images/heroes/art/wanwan.webp)
 
@@ -73,22 +73,42 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Меч охотника на демонов
 
--   ![](/images/mlbb/items/2011.webp)
+
+
+    ](https://boostmlbb.ru/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/2011.webp)
 
     Ветер природы
 
+
+
+    ](https://boostmlbb.ru/items/wind-of-nature.html)
 
 #### Заклинание
 
@@ -123,22 +143,42 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
--   ![](/images/mlbb/items/3002.webp)
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
 
 #### Заклинание
 
@@ -173,22 +213,42 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
--   ![](/images/mlbb/items/3002.webp)
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
 
 #### Заклинание
 

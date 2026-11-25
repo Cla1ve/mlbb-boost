@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/ixia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Ixia hero art](/images/heroes/art/ixia.webp)
 
@@ -73,22 +73,42 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 
@@ -123,18 +143,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
 
 #### Spell
 
@@ -169,18 +204,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
 
 #### Spell
 

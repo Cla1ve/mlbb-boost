@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kalea hero art](/images/heroes/art/kalea.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3204.webp)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3109.webp)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3204.webp)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 #### Spell
 

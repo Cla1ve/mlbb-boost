@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/masha.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Маша](/images/heroes/art/masha.webp)
 
@@ -74,18 +74,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Защитный шлем
 
+
+
+    ](https://boostmlbb.ru/items/guardian-helmet.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Защитный шлем
 
+
+
+    ](https://boostmlbb.ru/items/guardian-helmet.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Защитный шлем
 
+
+
+    ](https://boostmlbb.ru/items/guardian-helmet.html)
 
 #### Заклинание
 

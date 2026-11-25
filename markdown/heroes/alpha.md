@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/alpha.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Альфа](/images/heroes/art/alpha.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Клинок отчаяния
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-despair.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
 
 #### Заклинание
 

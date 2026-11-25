@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kimmy hero art](/images/heroes/art/kimmy.webp)
 
@@ -75,18 +75,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 #### Spell
 
@@ -121,18 +136,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Divine Glaive
 
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
 
 #### Spell
 
@@ -167,18 +197,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 #### Spell
 

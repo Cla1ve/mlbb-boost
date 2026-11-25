@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/irithel.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Irithel hero art](/images/heroes/art/irithel.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/3003.webp)
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/3003.webp)
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
 
 #### Spell
 
@@ -285,4 +330,4 @@ Tier C, #78 of 133 heroes and #15 among marksmen. The tier counts how often the 
 
 What is the best build for Irithel?
 
-The most popular ranked build: Windtalker, Haas' Claws and Berserker's Fury as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Sprint. It wins 58.81% of matches.
+The most popular ranked build: Windtalker, Haas's Claws and Berserker's Fury as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Sprint. It wins 58.81% of matches.

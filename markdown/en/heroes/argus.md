@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Argus hero art](/images/heroes/art/argus.webp)
 
@@ -73,22 +73,42 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
 
 #### Spell
 
@@ -123,22 +143,42 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Demon Hunter Sword
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
 
 #### Spell
 
@@ -173,18 +213,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
 
 #### Spell
 
@@ -299,4 +354,4 @@ Tier B, #56 of 133 heroes and #17 among fighters. The tier counts how often the 
 
 What is the best build for Argus?
 
-The most popular ranked build: Corrosion Scythe, Windtalker, Berserker's Fury and Haas' Claws as core items, the Marksman emblem with Fatal, Bargain Hunter and War Cry, and Petrify. It wins 68.82% of matches.
+The most popular ranked build: Corrosion Scythe, Windtalker, Berserker's Fury and Haas's Claws as core items, the Marksman emblem with Fatal, Bargain Hunter and War Cry, and Petrify. It wins 68.82% of matches.

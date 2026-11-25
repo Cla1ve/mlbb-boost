@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/popol-and-kupa.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Popol and Kupa hero art](/images/heroes/art/popol-and-kupa.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Blade of Despair
 
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-despair.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Blade of Despair
 
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-despair.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Rose Gold Meteor
 
+
+
+    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
 
 #### Spell
 

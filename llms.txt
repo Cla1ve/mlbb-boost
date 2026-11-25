@@ -22,6 +22,7 @@ Orders are arranged through Telegram. Check the website prices and calculator fo
 - [MLBB Mythic boost: Honor, Glory and Immortal prices | MLBB Boost](https://boostmlbb.ru/en/boost/mythic.html)
 - [MLBB hero MMR boost: prices and popular heroes | MLBB Boost](https://boostmlbb.ru/en/boost/hero.html)
 - [MLBB tier list: all 133 heroes, builds and counters | MLBB Boost](https://boostmlbb.ru/en/heroes/)
+- [MLBB items: all 97 items, prices and builds | MLBB Boost](https://boostmlbb.ru/en/items/)
 
 ## Machine-readable public resources
 - [Full content in Markdown](https://boostmlbb.ru/llms-full.txt)

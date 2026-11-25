@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hanzo.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ханзо](/images/heroes/art/hanzo.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2014.webp)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
 
 #### Заклинание
 

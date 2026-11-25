@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/dyrroth.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Дариус](/images/heroes/art/dyrroth.webp)
 
@@ -74,18 +74,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
 
 #### Заклинание
 

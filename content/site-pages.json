@@ -875,6 +875,506 @@
       "pathname": "/heroes/best-mid.html",
       "lastmod": "2026-11-25",
       "ruOnly": true
+    },
+    {
+      "pathname": "/items/",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/sea-halberd.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/rose-gold-meteor.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/hunter-strike.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/blade-of-despair.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/blade-of-the-heptaseas.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/windtalker.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/endless-battle.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/berserkers-fury.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/haas-claws.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/malefic-roar.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/war-axe.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/wind-of-nature.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/golden-staff.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/corrosion-scythe.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/demon-hunter-sword.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/magic-blade.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/fury-hammer.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/rogue-meteor.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/ogre-tomahawk.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/legion-sword.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/regular-spear.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/iron-hunting-bow.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/vampire-mallet.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/javelin.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/knife.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/dagger.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/power-potion.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/genius-wand.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/lightning-truncheon.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/fleeting-time.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/blood-wings.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/winter-crown.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/swift-crossbow.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/great-dragon-spear.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/flask-of-the-oasis.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/starlium-scythe.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/malefic-gun.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/sky-piercer.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/expert-gloves.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/wishing-lantern.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/clock-of-destiny.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/glowing-wand.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/ice-queen-wand.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/concentrated-energy.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/holy-crystal.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/divine-glaive.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/feather-of-heaven.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/enchanted-talisman.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/elegant-gem.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/exotic-veil.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/azure-blade.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/tome-of-evil.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/magic-wand.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/mystic-container.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/book-of-sages.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/magic-necklace.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/power-crystal.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/mystery-codex.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/magic-potion.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/radiant-armor.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/brute-force-breastplate.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/immortality.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/dominance-ice.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/athenas-shield.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/oracle.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/antique-cuirass.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/guardian-helmet.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/ares-belt.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/molten-essence.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/silence-robe.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/black-ice-shield.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/dreadnaught-armor.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/steel-legplates.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/blade-armor.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/queens-wings.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/thunder-belt.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/cursed-helmet.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/lantern-of-hope.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/flower-of-hope.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/chastise-pauldron.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/allow-throw.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/throw-forbidden.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/broken-heart.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/demon-boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/warrior-boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/rapid-boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/swift-boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/arcane-boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/magic-boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/tough-boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/boots.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/rock-potion.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/vitality-crystal.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/leather-jerkin.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/magic-resist-cloak.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/healing-necklace.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/heros-ring.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/retribution.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
+    },
+    {
+      "pathname": "/items/roam-blessings.html",
+      "lastmod": "2026-11-25",
+      "ruOnly": true
     }
   ]
 }

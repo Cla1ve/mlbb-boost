@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/dyrroth.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Dyrroth hero art](/images/heroes/art/dyrroth.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Hunter Strike
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Blade of the Heptaseas
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Hunter Strike
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Rose Gold Meteor
 
+
+
+    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Hunter Strike
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Rose Gold Meteor
 
+
+
+    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
 
 #### Spell
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/natalia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Наталья](/images/heroes/art/natalia.webp)
 
@@ -75,18 +75,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3014.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3014.webp)
 
     Копье Великого дракона
 
+
+
+    ](https://boostmlbb.ru/items/great-dragon-spear.html)
 
 #### Заклинание
 
@@ -167,18 +197,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Трезубец
 
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
 
 #### Заклинание
 

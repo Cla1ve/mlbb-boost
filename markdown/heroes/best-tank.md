@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/best-tank.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 # Лучшие танки MLBB
 
@@ -37,17 +37,31 @@ S
 
 67,5%
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Штормовой пояс
+
+
+
+](https://boostmlbb.ru/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/2008.webp)
 
 Коса коррозии
 
+
+
+](https://boostmlbb.ru/items/corrosion-scythe.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Защитный шлем
+
+
+
+](https://boostmlbb.ru/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -77,17 +91,31 @@ S
 
 37,2%
 
+[
+
 ![](/images/mlbb/items/3201.webp)
 
 Проклятый шлем
+
+
+
+](https://boostmlbb.ru/items/cursed-helmet.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Господство льда
 
+
+
+](https://boostmlbb.ru/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3203.webp)
 
 Древняя кираса
+
+
+
+](https://boostmlbb.ru/items/antique-cuirass.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -117,17 +145,31 @@ S
 
 56,4%
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Штормовой пояс
+
+
+
+](https://boostmlbb.ru/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Господство льда
 
+
+
+](https://boostmlbb.ru/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Защитный шлем
+
+
+
+](https://boostmlbb.ru/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -507,12 +549,12 @@ D
 
 ## Что собирают чаще всего
 
--   ![](/images/mlbb/items/3206.webp)Господство льдау 14 из 25
--   ![](/images/mlbb/items/2212.webp)Штормовой поясу 7 из 25
--   ![](/images/mlbb/items/3204.webp)Оракулу 7 из 25
--   ![](/images/mlbb/items/3203.webp)Древняя кирасау 5 из 25
--   ![](/images/mlbb/items/2208.webp)Крылья королевыу 4 из 25
--   ![](/images/mlbb/items/3109.webp)Мимолетное времяу 4 из 25
+-   [![](/images/mlbb/items/3206.webp)Господство льдау 14 из 25](https://boostmlbb.ru/items/dominance-ice.html)
+-   [![](/images/mlbb/items/2212.webp)Штормовой поясу 7 из 25](https://boostmlbb.ru/items/thunder-belt.html)
+-   [![](/images/mlbb/items/3204.webp)Оракулу 7 из 25](https://boostmlbb.ru/items/oracle.html)
+-   [![](/images/mlbb/items/3203.webp)Древняя кирасау 5 из 25](https://boostmlbb.ru/items/antique-cuirass.html)
+-   [![](/images/mlbb/items/2208.webp)Крылья королевыу 4 из 25](https://boostmlbb.ru/items/queens-wings.html)
+-   [![](/images/mlbb/items/3109.webp)Мимолетное времяу 4 из 25](https://boostmlbb.ru/items/fleeting-time.html)
 
 Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 8 и «Восстановление» у 6. Эмблема танка у 14, эмблема поддержки у 6.
 

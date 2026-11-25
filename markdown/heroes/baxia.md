@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/baxia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Баксий](/images/heroes/art/baxia.webp)
 
@@ -75,18 +75,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Проклятый шлем
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3203.webp)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
 
     Древняя кираса
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/antique-cuirass.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
--   ![](/images/mlbb/items/3207.webp)
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
+-   [
+
+    ![](/images/mlbb/items/3207.webp)
 
     Бессмертие
 
+
+
+    ](https://boostmlbb.ru/items/immortality.html)
 
 #### Заклинание
 
@@ -167,18 +197,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Проклятый шлем
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
 
 #### Заклинание
 

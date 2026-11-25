@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kadita.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кадита](/images/heroes/art/kadita.webp)
 
@@ -75,18 +75,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Жезл молний
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Жезл молний
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Божественный меч
 
+
+
+    ](https://boostmlbb.ru/items/divine-glaive.html)
 
 #### Заклинание
 

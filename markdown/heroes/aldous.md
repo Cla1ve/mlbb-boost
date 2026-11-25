@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/aldous.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Алдос](/images/heroes/art/aldous.webp)
 
@@ -73,18 +73,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
 
 #### Заклинание
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/layla.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Layla hero art](/images/heroes/art/layla.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/3003.webp)
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3003.webp)
+
+
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
 
 #### Spell
 
@@ -287,4 +332,4 @@ Tier C, #79 of 133 heroes and #16 among marksmen. The tier counts how often the 
 
 What is the best build for Layla?
 
-The most popular ranked build: Windtalker, Berserker's Fury and Haas' Claws as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Flicker. It wins 55.02% of matches.
+The most popular ranked build: Windtalker, Berserker's Fury and Haas's Claws as core items, the Assassin emblem with Fatal, Bargain Hunter and Quantum Charge, and Flicker. It wins 55.02% of matches.

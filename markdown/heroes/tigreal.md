@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/tigreal.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Тигрил](/images/heroes/art/tigreal.webp)
 
@@ -73,18 +73,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3109.webp)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3205.webp)
 
-    Щит Афины
 
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
+
+    Щит валькирии
+
+
+
+    ](https://boostmlbb.ru/items/athenas-shield.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3205.webp)
 
-    Щит Афины
 
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
+
+    Щит валькирии
+
+
+
+    ](https://boostmlbb.ru/items/athenas-shield.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3109.webp)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
 
 #### Заклинание
 
@@ -289,4 +334,4 @@ C
 
 Какая сборка на героя «Тигрил» лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Мимолетное время», «Господство льда» и «Щит Афины», эмблема танка с талантами «Ловкость», «Второе дыхание» и «Ударная волна» и заклинание «Вспышка». С ней выигрывают 48,39% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Мимолетное время», «Господство льда» и «Щит валькирии», эмблема танка с талантами «Ловкость», «Второе дыхание» и «Ударная волна» и заклинание «Вспышка». С ней выигрывают 48,39% матчей.

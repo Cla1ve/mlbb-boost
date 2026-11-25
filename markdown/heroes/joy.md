@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/joy.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Джой](/images/heroes/art/joy.webp)
 
@@ -74,18 +74,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Священный кристалл
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/holy-crystal.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
 
 #### Заклинание
 

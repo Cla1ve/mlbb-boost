@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/saber.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сабер](/images/heroes/art/saber.webp)
 
@@ -75,18 +75,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
 
 #### Заклинание
 
@@ -167,18 +197,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
 
 #### Заклинание
 

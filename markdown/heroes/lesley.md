@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lesley.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Лесли](/images/heroes/art/lesley.webp)
 
@@ -70,18 +70,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Трезубец
 
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
 
 #### Заклинание
 
@@ -116,18 +131,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Клинок отчаяния
 
+
+
+    ](https://boostmlbb.ru/items/blade-of-despair.html)
 
 #### Заклинание
 
@@ -162,18 +192,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Трезубец
 
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
 
 #### Заклинание
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/brody.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Броуди](/images/heroes/art/brody.webp)
 
@@ -73,18 +73,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 

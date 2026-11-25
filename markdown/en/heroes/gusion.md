@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gusion.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Gusion hero art](/images/heroes/art/gusion.webp)
 
@@ -75,18 +75,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 
@@ -121,18 +136,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
 
 #### Spell
 

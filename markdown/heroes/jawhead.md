@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/jawhead.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кусака](/images/heroes/art/jawhead.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Клинок семи морей
 
--   ![](/images/mlbb/items/3009.webp)
+
+
+    ](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Трезубец
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
 
 #### Заклинание
 

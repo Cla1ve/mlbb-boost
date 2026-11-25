@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yin.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Yin hero art](/images/heroes/art/yin.webp)
 
@@ -75,18 +75,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
 
 #### Spell
 
@@ -121,18 +136,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Hunter Strike
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
 
 #### Spell
 
@@ -167,18 +197,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Blade of the Heptaseas
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Malefic Roar
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
 
 #### Spell
 

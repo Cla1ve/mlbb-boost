@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Freya hero art](/images/heroes/art/freya.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2009.webp)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Golden Staff
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Rose Gold Meteor
 
+
+
+    ](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2009.webp)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Golden Staff
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2009.webp)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Golden Staff
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     War Axe
 
+
+
+    ](https://boostmlbb.ru/en/items/war-axe.html)
 
 #### Spell
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/roger.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Роджер](/images/heroes/art/roger.webp)
 
@@ -75,18 +75,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3002.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
 
 #### Заклинание
 
@@ -167,18 +197,33 @@ D
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3002.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
 
 #### Заклинание
 

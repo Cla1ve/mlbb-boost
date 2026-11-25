@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/sun.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сан](/images/heroes/art/sun.webp)
 
@@ -74,18 +74,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/2008.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/3014.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3014.webp)
 
     Копье Великого дракона
 
+
+
+    ](https://boostmlbb.ru/items/great-dragon-spear.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Меч охотника на демонов
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
 
 #### Заклинание
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hirara.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Хирара](/images/heroes/art/hirara.webp)
 
@@ -74,18 +74,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/2013.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Злобный рык
 
+
+
+    ](https://boostmlbb.ru/items/malefic-roar.html)
 
 #### Заклинание
 

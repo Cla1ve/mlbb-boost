@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/sora.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сора](/images/heroes/art/sora.webp)
 
@@ -74,18 +74,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2208.webp)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2208.webp)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2013.webp)
+-   [
+
+    ![](/images/mlbb/items/2013.webp)
 
     Топор войны
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/war-axe.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
 
 #### Заклинание
 

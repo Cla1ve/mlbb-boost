@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/obsidia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Obsidia hero art](/images/heroes/art/obsidia.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/2014.webp)
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3005.webp)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/2014.webp)
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Demon Hunter Sword
 
+
+
+    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
 
 #### Spell
 
@@ -289,4 +334,4 @@ Tier S, #7 of 133 heroes and #1 among marksmen. The tier counts how often the he
 
 What is the best build for Obsidia?
 
-The most popular ranked build: Windtalker, Haas' Claws and Sky Piercer as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Flicker. It wins 55.31% of matches.
+The most popular ranked build: Windtalker, Haas's Claws and Sky Piercer as core items, the Fighter emblem with Swift, Bargain Hunter and Weakness Finder, and Flicker. It wins 55.31% of matches.

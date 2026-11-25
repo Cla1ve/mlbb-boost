@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/guinevere.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Guinevere hero art](/images/heroes/art/guinevere.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3103.webp)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Queen's Wings
 
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3103.webp)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Brute Force Breastplate
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Queen's Wings
 
+
+
+    ](https://boostmlbb.ru/en/items/queens-wings.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3103.webp)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Divine Glaive
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 

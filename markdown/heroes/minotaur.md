@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/minotaur.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Минотавр](/images/heroes/art/minotaur.webp)
 
@@ -73,18 +73,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3205.webp)
 
-    Щит Афины
 
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
+
+    Щит валькирии
+
+
+
+    ](https://boostmlbb.ru/items/athenas-shield.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 
@@ -289,4 +334,4 @@ A
 
 Какая сборка на героя «Минотавр» лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Господство льда» и «Щит Афины», эмблема поддержки с талантами «Живучесть», «Благословение природы» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 60,47% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Господство льда» и «Щит валькирии», эмблема поддержки с талантами «Живучесть», «Благословение природы» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 60,47% матчей.

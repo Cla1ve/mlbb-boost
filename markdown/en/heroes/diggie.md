@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Diggie hero art](/images/heroes/art/diggie.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Guardian Helmet
 
+
+
+    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
--   ![](/images/mlbb/items/3203.webp)
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
 
     Antique Cuirass
 
+
+
+    ](https://boostmlbb.ru/en/items/antique-cuirass.html)
 
 #### Spell
 

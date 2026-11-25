@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/harley.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Харли](/images/heroes/art/harley.webp)
 
@@ -76,18 +76,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3103.webp)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
 
 #### Заклинание
 
@@ -122,18 +137,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Жезл молний
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
 
 #### Заклинание
 
@@ -168,18 +198,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2014.webp)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Палочка гения
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Жезл молний
 
+
+
+    ](https://boostmlbb.ru/items/lightning-truncheon.html)
 
 #### Заклинание
 

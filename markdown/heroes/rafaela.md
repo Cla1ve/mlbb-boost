@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/rafaela.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Рафаэль](/images/heroes/art/rafaela.webp)
 
@@ -73,18 +73,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3104.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
 
     Жезл снежной королевы
 
+
+
+    ](https://boostmlbb.ru/items/ice-queen-wand.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3104.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
 
     Жезл снежной королевы
 
+
+
+    ](https://boostmlbb.ru/items/ice-queen-wand.html)
 
 #### Заклинание
 

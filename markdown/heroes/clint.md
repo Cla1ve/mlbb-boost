@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/clint.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Клинт](/images/heroes/art/clint.webp)
 
@@ -73,18 +73,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3009.webp)
+-   [
+
+    ![](/images/mlbb/items/3009.webp)
 
     Удар охотника
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/hunter-strike.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3004.webp)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3004.webp)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Губительный пулемет
 
+
+
+    ](https://boostmlbb.ru/items/malefic-gun.html)
 
 #### Заклинание
 

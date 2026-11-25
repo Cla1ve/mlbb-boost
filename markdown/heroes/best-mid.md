@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/best-mid.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 # Лучшие мидеры MLBB
 
@@ -37,17 +37,31 @@ A
 
 0,6%
 
+[
+
 ![](/images/mlbb/items/2108.webp)
 
 Райское перо
+
+
+
+](https://boostmlbb.ru/items/feather-of-heaven.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Пронзающий небеса
 
+
+
+](https://boostmlbb.ru/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/3103.webp)
 
 Концентрированная энергия
+
+
+
+](https://boostmlbb.ru/items/concentrated-energy.html)
 
 ![](/images/mlbb/emblems/20006.webp)
 
@@ -77,17 +91,31 @@ A
 
 33,7%
 
+[
+
 ![](/images/mlbb/items/2014.webp)
 
 Пронзающий небеса
+
+
+
+](https://boostmlbb.ru/items/sky-piercer.html)[
 
 ![](/images/mlbb/items/3111.webp)
 
 Палочка гения
 
+
+
+](https://boostmlbb.ru/items/genius-wand.html)[
+
 ![](/images/mlbb/items/3108.webp)
 
 Кровавые крылья
+
+
+
+](https://boostmlbb.ru/items/blood-wings.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -117,17 +145,31 @@ A
 
 0,6%
 
+[
+
 ![](/images/mlbb/items/3113.webp)
 
 Часы судьбы
+
+
+
+](https://boostmlbb.ru/items/clock-of-destiny.html)[
 
 ![](/images/mlbb/items/3105.webp)
 
 Пылающий жезл
 
+
+
+](https://boostmlbb.ru/items/glowing-wand.html)[
+
 ![](/images/mlbb/items/3104.webp)
 
 Жезл снежной королевы
+
+
+
+](https://boostmlbb.ru/items/ice-queen-wand.html)
 
 ![](/images/mlbb/emblems/20001.webp)
 
@@ -563,12 +605,12 @@ D
 
 ## Что собирают чаще всего
 
--   ![](/images/mlbb/items/3105.webp)Пылающий жезлу 21 из 29
--   ![](/images/mlbb/items/3110.webp)Жезл молнийу 14 из 29
--   ![](/images/mlbb/items/3101.webp)Божественный мечу 13 из 29
--   ![](/images/mlbb/items/3111.webp)Палочка генияу 9 из 29
--   ![](/images/mlbb/items/2014.webp)Пронзающий небесау 5 из 29
--   ![](/images/mlbb/items/2106.webp)Зачарованный талисману 5 из 29
+-   [![](/images/mlbb/items/3105.webp)Пылающий жезлу 21 из 29](https://boostmlbb.ru/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3110.webp)Жезл молнийу 14 из 29](https://boostmlbb.ru/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3101.webp)Божественный мечу 13 из 29](https://boostmlbb.ru/items/divine-glaive.html)
+-   [![](/images/mlbb/items/3111.webp)Палочка генияу 9 из 29](https://boostmlbb.ru/items/genius-wand.html)
+-   [![](/images/mlbb/items/2014.webp)Пронзающий небесау 5 из 29](https://boostmlbb.ru/items/sky-piercer.html)
+-   [![](/images/mlbb/items/2106.webp)Зачарованный талисману 5 из 29](https://boostmlbb.ru/items/enchanted-talisman.html)
 
 Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 22 и «Огненный выстрел» у 3. Эмблема мага у 19, эмблема убийцы у 7.
 

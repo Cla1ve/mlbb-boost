@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/best-assassin.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 # Лучшие убийцы MLBB
 
@@ -37,17 +37,31 @@ S
 
 38,3%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Удар охотника
+
+
+
+](https://boostmlbb.ru/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/3007.webp)
 
 Клинок семи морей
 
+
+
+](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)[
+
 ![](/images/mlbb/items/3001.webp)
 
 Злобный рык
+
+
+
+](https://boostmlbb.ru/items/malefic-roar.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -77,17 +91,31 @@ S
 
 84,5%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Удар охотника
+
+
+
+](https://boostmlbb.ru/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Пронзающий небеса
 
+
+
+](https://boostmlbb.ru/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/2013.webp)
 
 Топор войны
+
+
+
+](https://boostmlbb.ru/items/war-axe.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -117,17 +145,31 @@ A
 
 10,8%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Удар охотника
+
+
+
+](https://boostmlbb.ru/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Пронзающий небеса
 
+
+
+](https://boostmlbb.ru/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/3001.webp)
 
 Злобный рык
+
+
+
+](https://boostmlbb.ru/items/malefic-roar.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -563,12 +605,12 @@ C
 
 ## Что собирают чаще всего
 
--   ![](/images/mlbb/items/3009.webp)Удар охотникау 9 из 29
--   ![](/images/mlbb/items/2013.webp)Топор войныу 8 из 29
--   ![](/images/mlbb/items/3001.webp)Злобный рыку 7 из 29
--   ![](/images/mlbb/items/3004.webp)Бесконечная битвау 6 из 29
--   ![](/images/mlbb/items/3007.webp)Клинок семи морейу 5 из 29
--   ![](/images/mlbb/items/3102.webp)Священный кристаллу 5 из 29
+-   [![](/images/mlbb/items/3009.webp)Удар охотникау 9 из 29](https://boostmlbb.ru/items/hunter-strike.html)
+-   [![](/images/mlbb/items/2013.webp)Топор войныу 8 из 29](https://boostmlbb.ru/items/war-axe.html)
+-   [![](/images/mlbb/items/3001.webp)Злобный рыку 7 из 29](https://boostmlbb.ru/items/malefic-roar.html)
+-   [![](/images/mlbb/items/3004.webp)Бесконечная битвау 6 из 29](https://boostmlbb.ru/items/endless-battle.html)
+-   [![](/images/mlbb/items/3007.webp)Клинок семи морейу 5 из 29](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)
+-   [![](/images/mlbb/items/3102.webp)Священный кристаллу 5 из 29](https://boostmlbb.ru/items/holy-crystal.html)
 
 Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Возмездие» у 16 и «Окаменение» у 5. Эмблема убийцы у 16, эмблема мага у 7.
 

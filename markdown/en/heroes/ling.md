@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/ling.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Ling hero art](/images/heroes/art/ling.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/3004.webp)
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/3004.webp)
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/3004.webp)
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
 
 #### Spell
 
@@ -290,4 +335,4 @@ Tier B, #62 of 133 heroes and #12 among assassins. The tier counts how often the
 
 What is the best build for Ling?
 
-The most popular ranked build: Berserker's Fury, Haas' Claws and Endless Battle as core items, the Assassin emblem with Fatal, Seasoned Hunter and War Cry, and Retribution. It wins 57.91% of matches.
+The most popular ranked build: Berserker's Fury, Haas's Claws and Endless Battle as core items, the Assassin emblem with Fatal, Seasoned Hunter and War Cry, and Retribution. It wins 57.91% of matches.

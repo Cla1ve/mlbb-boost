@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/silvanna.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Silvanna hero art](/images/heroes/art/silvanna.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/2107.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/2107.webp)
 
     Winter Crown
 
+
+
+    ](https://boostmlbb.ru/en/items/winter-crown.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Concentrated Energy
 
+
+
+    ](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 #### Spell
 

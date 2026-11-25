@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/bruno.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Bruno hero art](/images/heroes/art/bruno.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3002.webp)
+-   [
 
-    Haas' Claws
+    ![](/images/mlbb/items/3002.webp)
 
--   ![](/images/mlbb/items/3003.webp)
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3002.webp)
+-   [
 
-    Haas' Claws
+    ![](/images/mlbb/items/3002.webp)
 
--   ![](/images/mlbb/items/3003.webp)
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3002.webp)
+-   [
 
-    Haas' Claws
+    ![](/images/mlbb/items/3002.webp)
 
--   ![](/images/mlbb/items/3003.webp)
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 #### Spell
 
@@ -287,4 +332,4 @@ Tier A, #23 of 133 heroes and #3 among marksmen. The tier counts how often the h
 
 What is the best build for Bruno?
 
-The most popular ranked build: Haas' Claws, Berserker's Fury and Malefic Gun as core items, the Marksman emblem with Fatal, Master Assassin and Quantum Charge, and Aegis. It wins 59.71% of matches.
+The most popular ranked build: Haas's Claws, Berserker's Fury and Malefic Gun as core items, the Marksman emblem with Fatal, Master Assassin and Quantum Charge, and Aegis. It wins 59.71% of matches.

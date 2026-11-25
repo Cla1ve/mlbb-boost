@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/for-beginners.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB heroes for beginners
 
@@ -37,17 +37,31 @@ Difficulty
 
 30
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/2008.webp)
 
 Corrosion Scythe
 
+
+
+](https://boostmlbb.ru/en/items/corrosion-scythe.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Guardian Helmet
+
+
+
+](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -77,17 +91,31 @@ Difficulty
 
 30
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3112.webp)
 
 Flask of the Oasis
+
+
+
+](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
 
 ![](/images/mlbb/emblems/20008.webp)
 
@@ -117,17 +145,31 @@ Difficulty
 
 10
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Guardian Helmet
+
+
+
+](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 

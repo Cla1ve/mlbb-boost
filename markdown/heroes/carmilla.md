@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/carmilla.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кармилла](/images/heroes/art/carmilla.webp)
 
@@ -74,18 +74,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Проклятый шлем
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3203.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
 
     Древняя кираса
 
+
+
+    ](https://boostmlbb.ru/items/antique-cuirass.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3205.webp)
 
-    Щит Афины
 
--   ![](/images/mlbb/items/3212.webp)
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
+
+    Щит валькирии
+
+
+
+    ](https://boostmlbb.ru/items/athenas-shield.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3205.webp)
 
-    Щит Афины
 
--   ![](/images/mlbb/items/3212.webp)
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
+
+    Щит валькирии
+
+
+
+    ](https://boostmlbb.ru/items/athenas-shield.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Наплечник наказания
 
+
+
+    ](https://boostmlbb.ru/items/chastise-pauldron.html)
 
 #### Заклинание
 

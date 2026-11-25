@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/floryn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Флорин](/images/heroes/art/floryn.webp)
 
@@ -73,18 +73,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/10001.webp)
+-   [
 
-    Lantern of Hope
+    ![](/images/mlbb/items/10001.webp)
 
--   ![](/images/mlbb/items/3112.webp)
+    Фонарь надежды
+
+
+
+    ](https://boostmlbb.ru/items/lantern-of-hope.html)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/10001.webp)
+-   [
 
-    Lantern of Hope
+    ![](/images/mlbb/items/10001.webp)
 
--   ![](/images/mlbb/items/3112.webp)
+    Фонарь надежды
+
+
+
+    ](https://boostmlbb.ru/items/lantern-of-hope.html)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/10001.webp)
+-   [
 
-    Lantern of Hope
+    ![](/images/mlbb/items/10001.webp)
 
--   ![](/images/mlbb/items/3112.webp)
+    Фонарь надежды
+
+
+
+    ](https://boostmlbb.ru/items/lantern-of-hope.html)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Фляга Оазиса
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
 
 #### Заклинание
 
@@ -285,4 +330,4 @@ B
 
 Какая сборка на героя «Флорин» лучшая?
 
-Самая популярная сборка в рейтинге: ключевые предметы «Lantern of Hope», «Фляга Оазиса» и «Мимолетное время», эмблема поддержки с талантами «Вдохновение», «Благословение природы» и «Фокус-метка» и заклинание «Вспышка». С ней выигрывают 53,96% матчей.
+Самая популярная сборка в рейтинге: ключевые предметы «Фонарь надежды», «Фляга Оазиса» и «Мимолетное время», эмблема поддержки с талантами «Вдохновение», «Благословение природы» и «Фокус-метка» и заклинание «Вспышка». С ней выигрывают 53,96% матчей.

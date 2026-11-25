@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/moskov.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Москов](/images/heroes/art/moskov.webp)
 
@@ -73,18 +73,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Меч охотника на демонов
 
+
+
+    ](https://boostmlbb.ru/items/demon-hunter-sword.html)
 
 #### Заклинание
 
@@ -119,18 +134,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Меч охотника на демонов
 
+
+
+    ](https://boostmlbb.ru/items/demon-hunter-sword.html)
 
 #### Заклинание
 
@@ -165,18 +195,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Коса коррозии
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Золотой посох
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/items/golden-staff.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Меч охотника на демонов
 
+
+
+    ](https://boostmlbb.ru/items/demon-hunter-sword.html)
 
 #### Заклинание
 

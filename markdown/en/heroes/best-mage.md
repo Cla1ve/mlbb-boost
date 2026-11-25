@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/best-mage.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB mages
 
@@ -37,17 +37,31 @@ Ban rate
 
 8.2%
 
+[
+
 ![](/images/mlbb/items/3208.webp)
 
 Brute Force Breastplate
+
+
+
+](https://boostmlbb.ru/en/items/brute-force-breastplate.html)[
 
 ![](/images/mlbb/items/3204.webp)
 
 Oracle
 
+
+
+](https://boostmlbb.ru/en/items/oracle.html)[
+
 ![](/images/mlbb/items/3103.webp)
 
 Concentrated Energy
+
+
+
+](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -77,17 +91,31 @@ Ban rate
 
 1.3%
 
+[
+
 ![](/images/mlbb/items/2106.webp)
 
 Enchanted Talisman
+
+
+
+](https://boostmlbb.ru/en/items/enchanted-talisman.html)[
 
 ![](/images/mlbb/items/3204.webp)
 
 Oracle
 
+
+
+](https://boostmlbb.ru/en/items/oracle.html)[
+
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
+
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)
 
 ![](/images/mlbb/emblems/20008.webp)
 
@@ -117,17 +145,31 @@ Ban rate
 
 0.6%
 
+[
+
 ![](/images/mlbb/items/2108.webp)
 
 Feather of Heaven
+
+
+
+](https://boostmlbb.ru/en/items/feather-of-heaven.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Sky Piercer
 
+
+
+](https://boostmlbb.ru/en/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/3103.webp)
 
 Concentrated Energy
+
+
+
+](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 ![](/images/mlbb/emblems/20006.webp)
 
@@ -605,12 +647,12 @@ D
 
 ## What they build most
 
--   ![](/images/mlbb/items/3105.webp)Glowing Wand21 of 32
--   ![](/images/mlbb/items/3101.webp)Divine Glaive13 of 32
--   ![](/images/mlbb/items/3110.webp)Lightning Truncheon13 of 32
--   ![](/images/mlbb/items/3111.webp)Genius Wand8 of 32
--   ![](/images/mlbb/items/2106.webp)Enchanted Talisman6 of 32
--   ![](/images/mlbb/items/2014.webp)Sky Piercer5 of 32
+-   [![](/images/mlbb/items/3105.webp)Glowing Wand21 of 32](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3101.webp)Divine Glaive13 of 32](https://boostmlbb.ru/en/items/divine-glaive.html)
+-   [![](/images/mlbb/items/3110.webp)Lightning Truncheon13 of 32](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [![](/images/mlbb/items/3111.webp)Genius Wand8 of 32](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [![](/images/mlbb/items/2106.webp)Enchanted Talisman6 of 32](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [![](/images/mlbb/items/2014.webp)Sky Piercer5 of 32](https://boostmlbb.ru/en/items/sky-piercer.html)
 
 The three core items of every hero’s most common build. Spell: Flicker on 23 and Purify on 3. Mage on 19, Assassin on 8.
 

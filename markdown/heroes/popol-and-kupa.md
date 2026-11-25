@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/popol-and-kupa.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Пополь и Купа](/images/heroes/art/popol-and-kupa.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Трезубец
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Клинок отчаяния
 
+
+
+    ](https://boostmlbb.ru/items/blade-of-despair.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Трезубец
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Клинок отчаяния
 
+
+
+    ](https://boostmlbb.ru/items/blade-of-despair.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3013.webp)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Трезубец
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/items/sea-halberd.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Говорящий с ветром
 
--   ![](/images/mlbb/items/3012.webp)
+
+
+    ](https://boostmlbb.ru/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3012.webp)
 
     Золотой метеор
 
+
+
+    ](https://boostmlbb.ru/items/rose-gold-meteor.html)
 
 #### Заклинание
 

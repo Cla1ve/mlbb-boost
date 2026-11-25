@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/belerick.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Belerick hero art](/images/heroes/art/belerick.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Thunder Belt
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Guardian Helmet
 
+
+
+    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Guardian Helmet
 
+
+
+    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3207.webp)
+-   [
+
+    ![](/images/mlbb/items/3207.webp)
 
     Immortality
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/en/items/immortality.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Guardian Helmet
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
 
 #### Spell
 

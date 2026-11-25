@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/ling.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Линг](/images/heroes/art/ling.webp)
 
@@ -74,18 +74,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3002.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3002.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ B
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Ярость берсерка
 
--   ![](/images/mlbb/items/3002.webp)
+
+
+    ](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
 
     Когти Хааса
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Бесконечная битва
 
+
+
+    ](https://boostmlbb.ru/items/endless-battle.html)
 
 #### Заклинание
 

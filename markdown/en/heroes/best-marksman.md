@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/best-marksman.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB marksmen
 
@@ -37,17 +37,31 @@ Ban rate
 
 65.1%
 
+[
+
 ![](/images/mlbb/items/3005.webp)
 
 Windtalker
 
+
+
+](https://boostmlbb.ru/en/items/windtalker.html)[
+
 ![](/images/mlbb/items/3002.webp)
 
-Haas' Claws
+Haas's Claws
+
+
+
+](https://boostmlbb.ru/en/items/haas-claws.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Sky Piercer
+
+
+
+](https://boostmlbb.ru/en/items/sky-piercer.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -77,17 +91,31 @@ Ban rate
 
 0.6%
 
+[
+
 ![](/images/mlbb/items/2108.webp)
 
 Feather of Heaven
+
+
+
+](https://boostmlbb.ru/en/items/feather-of-heaven.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Sky Piercer
 
+
+
+](https://boostmlbb.ru/en/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/3103.webp)
 
 Concentrated Energy
+
+
+
+](https://boostmlbb.ru/en/items/concentrated-energy.html)
 
 ![](/images/mlbb/emblems/20006.webp)
 
@@ -117,17 +145,31 @@ Ban rate
 
 0.5%
 
+[
+
 ![](/images/mlbb/items/3002.webp)
 
-Haas' Claws
+Haas's Claws
+
+
+
+](https://boostmlbb.ru/en/items/haas-claws.html)[
 
 ![](/images/mlbb/items/3003.webp)
 
 Berserker's Fury
 
+
+
+](https://boostmlbb.ru/en/items/berserkers-fury.html)[
+
 ![](/images/mlbb/items/3015.webp)
 
 Malefic Gun
+
+
+
+](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 ![](/images/mlbb/emblems/20012.webp)
 
@@ -479,12 +521,12 @@ D
 
 ## What they build most
 
--   ![](/images/mlbb/items/3005.webp)Windtalker9 of 23
--   ![](/images/mlbb/items/2008.webp)Corrosion Scythe7 of 23
--   ![](/images/mlbb/items/2014.webp)Sky Piercer6 of 23
--   ![](/images/mlbb/items/3002.webp)Haas' Claws6 of 23
--   ![](/images/mlbb/items/3003.webp)Berserker's Fury6 of 23
--   ![](/images/mlbb/items/3015.webp)Malefic Gun6 of 23
+-   [![](/images/mlbb/items/3005.webp)Windtalker9 of 23](https://boostmlbb.ru/en/items/windtalker.html)
+-   [![](/images/mlbb/items/2008.webp)Corrosion Scythe7 of 23](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [![](/images/mlbb/items/2014.webp)Sky Piercer6 of 23](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [![](/images/mlbb/items/3002.webp)Haas's Claws6 of 23](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [![](/images/mlbb/items/3003.webp)Berserker's Fury6 of 23](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [![](/images/mlbb/items/3015.webp)Malefic Gun6 of 23](https://boostmlbb.ru/en/items/malefic-gun.html)
 
 The three core items of every hero’s most common build. Spell: Flicker on 11 and Inspire on 4. Assassin on 8, Marksman on 8.
 

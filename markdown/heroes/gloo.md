@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gloo.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Глу](/images/heroes/art/gloo.webp)
 
@@ -74,18 +74,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Проклятый шлем
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Проклятый шлем
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Проклятый шлем
 
--   ![](/images/mlbb/items/3105.webp)
+
+
+    ](https://boostmlbb.ru/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
 
 #### Заклинание
 

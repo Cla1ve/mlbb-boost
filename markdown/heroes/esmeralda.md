@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/esmeralda.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Эсмеральда](/images/heroes/art/esmeralda.webp)
 
@@ -74,18 +74,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Зачарованный талисман
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
 
 #### Заклинание
 

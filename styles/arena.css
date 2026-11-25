@@ -32,6 +32,7 @@ body.news-page, body:has(.atlas), body:has(.atlas) main { background: var(--aren
 }
 @media (max-width: 620px) {
   .arena-context { margin-bottom: 20px; }
+  .arena-context a { padding: 0 10px; font-size: .875rem; }
   .arena-mast { display: grid; gap: 12px; }
 }
 @media (prefers-reduced-motion: reduce) {

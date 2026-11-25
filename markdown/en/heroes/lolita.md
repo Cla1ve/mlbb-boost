@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lolita.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lolita hero art](/images/heroes/art/lolita.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Guardian Helmet
 
+
+
+    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
 
--   ![](/images/mlbb/items/3202.webp)
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3202.webp)
 
     Guardian Helmet
 
+
+
+    ](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 #### Spell
 

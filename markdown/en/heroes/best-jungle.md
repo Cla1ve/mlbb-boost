@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/best-jungle.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB junglers
 
@@ -37,17 +37,31 @@ Ban rate
 
 38.3%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Hunter Strike
+
+
+
+](https://boostmlbb.ru/en/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/3007.webp)
 
 Blade of the Heptaseas
 
+
+
+](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)[
+
 ![](/images/mlbb/items/3001.webp)
 
 Malefic Roar
+
+
+
+](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -77,17 +91,31 @@ Ban rate
 
 84.5%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Hunter Strike
+
+
+
+](https://boostmlbb.ru/en/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Sky Piercer
 
+
+
+](https://boostmlbb.ru/en/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/2013.webp)
 
 War Axe
+
+
+
+](https://boostmlbb.ru/en/items/war-axe.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -117,17 +145,31 @@ Ban rate
 
 11.4%
 
+[
+
 ![](/images/mlbb/items/2009.webp)
 
 Golden Staff
+
+
+
+](https://boostmlbb.ru/en/items/golden-staff.html)[
 
 ![](/images/mlbb/items/2013.webp)
 
 War Axe
 
+
+
+](https://boostmlbb.ru/en/items/war-axe.html)[
+
 ![](/images/mlbb/items/3012.webp)
 
 Rose Gold Meteor
+
+
+
+](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -675,12 +717,12 @@ D
 
 ## What they build most
 
--   ![](/images/mlbb/items/2013.webp)War Axe18 of 37
--   ![](/images/mlbb/items/3009.webp)Hunter Strike11 of 37
--   ![](/images/mlbb/items/3004.webp)Endless Battle7 of 37
--   ![](/images/mlbb/items/3208.webp)Brute Force Breastplate7 of 37
--   ![](/images/mlbb/items/2208.webp)Queen's Wings6 of 37
--   ![](/images/mlbb/items/3001.webp)Malefic Roar6 of 37
+-   [![](/images/mlbb/items/2013.webp)War Axe18 of 37](https://boostmlbb.ru/en/items/war-axe.html)
+-   [![](/images/mlbb/items/3009.webp)Hunter Strike11 of 37](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3004.webp)Endless Battle7 of 37](https://boostmlbb.ru/en/items/endless-battle.html)
+-   [![](/images/mlbb/items/3208.webp)Brute Force Breastplate7 of 37](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [![](/images/mlbb/items/2208.webp)Queen's Wings6 of 37](https://boostmlbb.ru/en/items/queens-wings.html)
+-   [![](/images/mlbb/items/3001.webp)Malefic Roar6 of 37](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 The three core items of every hero’s most common build. Spell: Retribution on 20 and Vengeance on 6. Assassin on 21, Mage on 5.
 

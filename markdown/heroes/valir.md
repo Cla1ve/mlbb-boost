@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/valir.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Валир](/images/heroes/art/valir.webp)
 
@@ -74,18 +74,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3104.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
 
     Жезл снежной королевы
 
--   ![](/images/mlbb/items/2112.webp)
+
+
+    ](https://boostmlbb.ru/items/ice-queen-wand.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
 
     Фонарь желаний
 
+
+
+    ](https://boostmlbb.ru/items/wishing-lantern.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Пылающий жезл
 
--   ![](/images/mlbb/items/3104.webp)
+
+
+    ](https://boostmlbb.ru/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3104.webp)
 
     Жезл снежной королевы
 
--   ![](/images/mlbb/items/3208.webp)
+
+
+    ](https://boostmlbb.ru/items/ice-queen-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3208.webp)
 
     Кираса грубой силы
 
+
+
+    ](https://boostmlbb.ru/items/brute-force-breastplate.html)
 
 #### Заклинание
 

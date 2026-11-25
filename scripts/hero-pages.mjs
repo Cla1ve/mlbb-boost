@@ -121,7 +121,8 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
   };
   const section = (id, title, inner) => `<section class="atlas-section" id="${id}"><h2>${title}</h2>${inner}</section>`;
   const label = (entry, lang) => entry ? esc(lang === 'en' ? entry.en : entry.ru) : '';
-  const gear = (entry, lang, size = 'md') => entry ? `<figure class="gear gear--${size}">${entry.icon ? `<img src="${entry.icon}" width="72" height="72" alt="" decoding="async">` : ''}<figcaption>${label(entry, lang)}</figcaption></figure>` : '';
+  // Items link to their page in the item catalog (entry.slug comes from content/items.json); emblems and talents have no page.
+  const gear = (entry, lang, size = 'md') => { if (!entry) return ''; const figure = `<figure class="gear gear--${size}">${entry.icon ? `<img src="${entry.icon}" width="72" height="72" alt="" decoding="async">` : ''}<figcaption>${label(entry, lang)}</figcaption></figure>`; return entry.slug ? `<a class="gear-link" href="/items/${entry.slug}.html">${figure}</a>` : figure; };
   // A vertical banner: the hero's official card art with the name on a solid bar. Used for every list of heroes in a profile.
   const banner = (slug, lang, tone = '') => `<a class="banner${tone ? ` banner--${tone}` : ''}"${tone ? '' : ` data-grade="${bySlug[slug].tier}"`} href="/heroes/${slug}.html"><img src="/images/heroes/art/${slug}.webp" width="240" height="390" alt="" loading="lazy" decoding="async"><span class="banner__bar">${esc(name(bySlug[slug], lang))}</span></a>`;
   const buildCard = (build, lang, index) => {

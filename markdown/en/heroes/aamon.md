@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Aamon hero art](/images/heroes/art/aamon.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Divine Glaive
 
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2014.webp)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Sky Piercer
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/en/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 

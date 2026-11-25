@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/best-marksman.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 # Лучшие стрелки MLBB
 
@@ -37,17 +37,31 @@ S
 
 65,1%
 
+[
+
 ![](/images/mlbb/items/3005.webp)
 
 Говорящий с ветром
+
+
+
+](https://boostmlbb.ru/items/windtalker.html)[
 
 ![](/images/mlbb/items/3002.webp)
 
 Когти Хааса
 
+
+
+](https://boostmlbb.ru/items/haas-claws.html)[
+
 ![](/images/mlbb/items/2014.webp)
 
 Пронзающий небеса
+
+
+
+](https://boostmlbb.ru/items/sky-piercer.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -77,17 +91,31 @@ A
 
 0,6%
 
+[
+
 ![](/images/mlbb/items/2108.webp)
 
 Райское перо
+
+
+
+](https://boostmlbb.ru/items/feather-of-heaven.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Пронзающий небеса
 
+
+
+](https://boostmlbb.ru/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/3103.webp)
 
 Концентрированная энергия
+
+
+
+](https://boostmlbb.ru/items/concentrated-energy.html)
 
 ![](/images/mlbb/emblems/20006.webp)
 
@@ -117,17 +145,31 @@ A
 
 0,5%
 
+[
+
 ![](/images/mlbb/items/3002.webp)
 
 Когти Хааса
+
+
+
+](https://boostmlbb.ru/items/haas-claws.html)[
 
 ![](/images/mlbb/items/3003.webp)
 
 Ярость берсерка
 
+
+
+](https://boostmlbb.ru/items/berserkers-fury.html)[
+
 ![](/images/mlbb/items/3015.webp)
 
 Губительный пулемет
+
+
+
+](https://boostmlbb.ru/items/malefic-gun.html)
 
 ![](/images/mlbb/emblems/20012.webp)
 
@@ -479,12 +521,12 @@ D
 
 ## Что собирают чаще всего
 
--   ![](/images/mlbb/items/3005.webp)Говорящий с ветрому 9 из 23
--   ![](/images/mlbb/items/2008.webp)Коса коррозииу 7 из 23
--   ![](/images/mlbb/items/2014.webp)Пронзающий небесау 6 из 23
--   ![](/images/mlbb/items/3002.webp)Когти Хаасау 6 из 23
--   ![](/images/mlbb/items/3003.webp)Ярость берсеркау 6 из 23
--   ![](/images/mlbb/items/3015.webp)Губительный пулемету 6 из 23
+-   [![](/images/mlbb/items/3005.webp)Говорящий с ветрому 9 из 23](https://boostmlbb.ru/items/windtalker.html)
+-   [![](/images/mlbb/items/2008.webp)Коса коррозииу 7 из 23](https://boostmlbb.ru/items/corrosion-scythe.html)
+-   [![](/images/mlbb/items/2014.webp)Пронзающий небесау 6 из 23](https://boostmlbb.ru/items/sky-piercer.html)
+-   [![](/images/mlbb/items/3002.webp)Когти Хаасау 6 из 23](https://boostmlbb.ru/items/haas-claws.html)
+-   [![](/images/mlbb/items/3003.webp)Ярость берсеркау 6 из 23](https://boostmlbb.ru/items/berserkers-fury.html)
+-   [![](/images/mlbb/items/3015.webp)Губительный пулемету 6 из 23](https://boostmlbb.ru/items/malefic-gun.html)
 
 Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 11 и «Вдохновение» у 4. Эмблема убийцы у 8, эмблема стрелка у 8.
 

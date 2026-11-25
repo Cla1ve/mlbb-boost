@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/franco.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Франко](/images/heroes/art/franco.webp)
 
@@ -74,18 +74,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2107.webp)
+-   [
+
+    ![](/images/mlbb/items/2107.webp)
 
     Зимняя корона
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/winter-crown.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3203.webp)
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
 
     Древняя кираса
 
+
+
+    ](https://boostmlbb.ru/items/antique-cuirass.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2107.webp)
+-   [
+
+    ![](/images/mlbb/items/2107.webp)
 
     Зимняя корона
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/winter-crown.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3203.webp)
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
 
     Древняя кираса
 
+
+
+    ](https://boostmlbb.ru/items/antique-cuirass.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3205.webp)
 
-    Щит Афины
 
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
+
+    Щит валькирии
+
+
+
+    ](https://boostmlbb.ru/items/athenas-shield.html)
 
 #### Заклинание
 

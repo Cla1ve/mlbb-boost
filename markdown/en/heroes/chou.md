@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Chou hero art](/images/heroes/art/chou.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Blade of the Heptaseas
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Blade of Despair
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-despair.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Malefic Roar
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Blade of the Heptaseas
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Blade of Despair
 
--   ![](/images/mlbb/items/3004.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-despair.html)
+-   [
+
+    ![](/images/mlbb/items/3004.webp)
 
     Endless Battle
 
+
+
+    ](https://boostmlbb.ru/en/items/endless-battle.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3007.webp)
+-   [
+
+    ![](/images/mlbb/items/3007.webp)
 
     Blade of the Heptaseas
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Blade of Despair
 
--   ![](/images/mlbb/items/3001.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-despair.html)
+-   [
+
+    ![](/images/mlbb/items/3001.webp)
 
     Malefic Roar
 
+
+
+    ](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 #### Spell
 

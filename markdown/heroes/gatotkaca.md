@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gatotkaca.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Гатоткача](/images/heroes/art/gatotkaca.webp)
 
@@ -75,18 +75,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3103.webp)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2212.webp)
+-   [
+
+    ![](/images/mlbb/items/2212.webp)
 
     Штормовой пояс
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/thunder-belt.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/2208.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/2208.webp)
 
     Крылья королевы
 
+
+
+    ](https://boostmlbb.ru/items/queens-wings.html)
 
 #### Заклинание
 
@@ -167,18 +197,33 @@ C
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3203.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
 
     Древняя кираса
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/items/antique-cuirass.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Сияющая броня
 
+
+
+    ](https://boostmlbb.ru/items/radiant-armor.html)
 
 #### Заклинание
 

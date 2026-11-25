@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/esmeralda.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Esmeralda hero art](/images/heroes/art/esmeralda.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2106.webp)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
 
 #### Spell
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kalea.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Калеа](/images/heroes/art/kalea.webp)
 
@@ -74,18 +74,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3204.webp)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
 
 #### Заклинание
 
@@ -120,18 +135,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3109.webp)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
 
 #### Заклинание
 
@@ -166,18 +196,33 @@ S
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/3204.webp)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Оракул
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/items/oracle.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Господство льда
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Мимолетное время
 
+
+
+    ](https://boostmlbb.ru/items/fleeting-time.html)
 
 #### Заклинание
 

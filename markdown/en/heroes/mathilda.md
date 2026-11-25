@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Mathilda hero art](/images/heroes/art/mathilda.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3108.webp)
 
     Blood Wings
 
+
+
+    ](https://boostmlbb.ru/en/items/blood-wings.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3204.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3204.webp)
 
     Oracle
 
+
+
+    ](https://boostmlbb.ru/en/items/oracle.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3112.webp)
+-   [
+
+    ![](/images/mlbb/items/3112.webp)
 
     Flask of the Oasis
 
--   ![](/images/mlbb/items/2106.webp)
+
+
+    ](https://boostmlbb.ru/en/items/flask-of-the-oasis.html)
+-   [
+
+    ![](/images/mlbb/items/2106.webp)
 
     Enchanted Talisman
 
--   ![](/images/mlbb/items/3108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/enchanted-talisman.html)
+-   [
+
+    ![](/images/mlbb/items/3108.webp)
 
     Blood Wings
 
+
+
+    ](https://boostmlbb.ru/en/items/blood-wings.html)
 
 #### Spell
 

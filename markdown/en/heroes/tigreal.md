@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/tigreal.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Tigreal hero art](/images/heroes/art/tigreal.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3109.webp)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3205.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
 
     Athena's Shield
 
+
+
+    ](https://boostmlbb.ru/en/items/athenas-shield.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3206.webp)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3109.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
--   ![](/images/mlbb/items/3205.webp)
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3205.webp)
 
     Athena's Shield
 
+
+
+    ](https://boostmlbb.ru/en/items/athenas-shield.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3109.webp)
+-   [
+
+    ![](/images/mlbb/items/3109.webp)
 
     Fleeting Time
 
--   ![](/images/mlbb/items/3206.webp)
+
+
+    ](https://boostmlbb.ru/en/items/fleeting-time.html)
+-   [
+
+    ![](/images/mlbb/items/3206.webp)
 
     Dominance Ice
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
 
 #### Spell
 

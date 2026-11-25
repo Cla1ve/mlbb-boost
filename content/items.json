@@ -1,0 +1,4783 @@
+{
+ "updated": "2026-11-25",
+ "source": "Prices: in-game shop, 25.11.2026. Attributes, effects and recipes: in-game Academy via Rone Arena API (ridwaanhall / RoneAI). Stories and patch history: Liquipedia (CC BY-SA). Game data © MOONTON.",
+ "tabs": {
+  "attack": [
+   3015,
+   3014,
+   3013,
+   3012,
+   3009,
+   3008,
+   3007,
+   3005,
+   3004,
+   3003,
+   3002,
+   3001,
+   2107,
+   3109,
+   2014,
+   2013,
+   2011,
+   2009,
+   2008,
+   2006,
+   2005,
+   2004,
+   2003,
+   2002,
+   2001,
+   1007,
+   1006,
+   1008,
+   1005,
+   1004,
+   1003,
+   1002,
+   1001,
+   1010
+  ],
+  "magic": [
+   2112,
+   3112,
+   3111,
+   3110,
+   3108,
+   3106,
+   3105,
+   3104,
+   3103,
+   3102,
+   3101,
+   3113,
+   2107,
+   3109,
+   2014,
+   2108,
+   2106,
+   2105,
+   2104,
+   2103,
+   2102,
+   2101,
+   1105,
+   1008,
+   1104,
+   1103,
+   1102,
+   1101,
+   10001,
+   10003,
+   1110
+  ],
+  "defense": [
+   3109,
+   3210,
+   3212,
+   3208,
+   3207,
+   3206,
+   3205,
+   3204,
+   3203,
+   3202,
+   3201,
+   2212,
+   2208,
+   2207,
+   2206,
+   2205,
+   2204,
+   2203,
+   2202,
+   2201,
+   1205,
+   1204,
+   1203,
+   1202,
+   1201,
+   1210
+  ],
+  "movement": [
+   2308,
+   2306,
+   2305,
+   2304,
+   2303,
+   2302,
+   2301,
+   1301,
+   1113,
+   1111,
+   1112
+  ]
+ },
+ "items": [
+  {
+   "id": 3013,
+   "slug": "sea-halberd",
+   "en": "Sea Halberd",
+   "ru": "Трезубец",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2050,
+   "components": [
+    2001,
+    1006
+   ],
+   "stats": [
+    [
+     "physAtk",
+     80,
+     ""
+    ],
+    [
+     "attackSpeed",
+     20,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Снижение исцеления",
+    "en": "Anti-heal"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Гибель жизни",
+      "en": "Lifebane"
+     },
+     "text": {
+      "ru": "Урон по цели снижает получаемые ею щиты и регенерацию ОЗ до 60% на 3 с.",
+      "en": "Dealing damage to a target reduces its Shield and HP Regen effects to 60% of normal for 3s."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Кара",
+      "en": "Punish"
+     },
+     "text": {
+      "ru": "Урон по вражеским героям, у которых больше дополнительных ОЗ, выше на 8%.",
+      "en": "Damage against enemy heroes with more extra HP is increased by 8%."
+     }
+    }
+   ],
+   "story": {
+    "ru": "«Душа океана чиста, и запятнать её непросто». — Кадита",
+    "en": "“The soul of the oceans is pure, and not easily sullied.” — Kadita"
+   },
+   "liquipedia": "Sea_Halberd",
+   "upgrade": 540,
+   "into": []
+  },
+  {
+   "id": 3012,
+   "slug": "rose-gold-meteor",
+   "en": "Rose Gold Meteor",
+   "ru": "Золотой метеор",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2030,
+   "components": [
+    2005,
+    1002
+   ],
+   "stats": [
+    [
+     "physAtk",
+     30,
+     ""
+    ],
+    [
+     "attackSpeed",
+     20,
+     "%"
+    ],
+    [
+     "lifesteal",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Щит при низких ОЗ",
+    "en": "Shield at low HP"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Драконья чешуя",
+      "en": "Dragon Scale"
+     },
+     "text": {
+      "ru": "Каждые 4 единицы дополнительной физической атаки дают 1 гибридную защиту, до 50. Если основная роль героя не боец, эффект вдвое слабее.",
+      "en": "Every 4 extra Physical Attack grants 1 Hybrid Defense, up to 50 (halved if the hero’s main role is not Fighter)."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Спасение",
+      "en": "Lifeline"
+     },
+     "text": {
+      "ru": "Если урон опускает ОЗ ниже 30%, герой получает щит (120 × уровень героя) и 50% скорости передвижения, которая быстро спадает за 3 с. Перезарядка 60 с.",
+      "en": "When damage drops HP below 30%, gain a shield of 120 × hero level and 50% Movement Speed that decays over 3s. 60s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Чешуя, что спасла Белого дракона от смертельного удара, после Битвы драконов стала артефактом и теперь покоится на Драконьем алтаре.",
+    "en": "The scale that protected the White Dragon from a fatal blow was made into an artifact after the Battle of the Dragons. It now rests silently in the Dragon Altar."
+   },
+   "liquipedia": "Rose_Gold_Meteor",
+   "upgrade": 700,
+   "into": []
+  },
+  {
+   "id": 3009,
+   "slug": "hunter-strike",
+   "en": "Hunter Strike",
+   "ru": "Удар охотника",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2010,
+   "components": [
+    2004,
+    1005,
+    1001
+   ],
+   "stats": [
+    [
+     "physPen",
+     15,
+     ""
+    ],
+    [
+     "physAtk",
+     80,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Кратковременное ускорение",
+    "en": "Burst of speed"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Возмездие",
+      "en": "Retribution"
+     },
+     "text": {
+      "ru": "Пять ударов подряд по одному вражескому герою или монстру дают 50% скорости передвижения, которая спадает за 3 с. Перезарядка 8 с.",
+      "en": "Hitting the same enemy hero or creep 5 times in a row grants 50% Movement Speed that decays over 3s. 8s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Охотники Пустошей Мегалита верят, что охота должна длиться одно мгновение.",
+    "en": "The hunters of Megalith Wasteland believe that the hunt should take place in the blink of an eye."
+   },
+   "liquipedia": "Hunter_Strike",
+   "upgrade": 480,
+   "into": []
+  },
+  {
+   "id": 3008,
+   "slug": "blade-of-despair",
+   "en": "Blade of Despair",
+   "ru": "Клинок отчаяния",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 3010,
+   "components": [
+    2001,
+    2001
+   ],
+   "stats": [
+    [
+     "physAtk",
+     160,
+     ""
+    ],
+    [
+     "move",
+     5,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Макс. физ. атака",
+    "en": "Highest Physical Attack"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Отчаяние",
+      "en": "Despair"
+     },
+     "text": {
+      "ru": "Урон по врагам (кроме миньонов) с ОЗ ниже 50% повышает физическую атаку на 25% на 2 с. Бонус действует уже на этот удар.",
+      "en": "Damaging non-minion enemies below 50% HP increases Physical Attack by 25% for 2s (applies before the damage is dealt)."
+     }
+    }
+   ],
+   "story": {
+    "ru": "У самых грозных воинов есть свои демоны, и самые острые клинки в их руках говорят о глубоком отчаянии.",
+    "en": "The most fearsome fighters have their own demons to face, and so the sharpest blades in their hands speak their deepset despair."
+   },
+   "liquipedia": "Blade_of_Despair",
+   "upgrade": 1190,
+   "into": []
+  },
+  {
+   "id": 3007,
+   "slug": "blade-of-the-heptaseas",
+   "en": "Blade of the Heptaseas",
+   "ru": "Клинок семи морей",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 1950,
+   "components": [
+    2004,
+    2002
+   ],
+   "stats": [
+    [
+     "physPen",
+     15,
+     ""
+    ],
+    [
+     "physAtk",
+     70,
+     ""
+    ],
+    [
+     "hp",
+     250,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Лучшее для убийц",
+    "en": "Best for assassins"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Засада",
+      "en": "Ambush"
+     },
+     "text": {
+      "ru": "Если 5 с не получать и не наносить урон (кроме миньонов и монстров), следующая базовая атака наносит 160 (+40% общей физ. атаки) физического урона и замедляет цель на 40% на 1,5 с.",
+      "en": "If no damage is taken or dealt for 5s (minions and creeps excluded), the next Basic Attack deals 160 (+40% Total Physical Attack) extra Physical Damage and slows the target by 40% for 1.5s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Клинок, что режет кость как масло, когда-то ушёл на дно вместе с Ледяным королём. Теперь он ждёт часа, чтобы пробудиться.",
+    "en": "The blade that cuts bones like butter was once lost with the Frozen King in the deep sea. Now it waits for the right moment to awaken its power."
+   },
+   "liquipedia": "Blade_of_the_Heptaseas",
+   "upgrade": 470,
+   "into": []
+  },
+  {
+   "id": 3005,
+   "slug": "windtalker",
+   "en": "Windtalker",
+   "ru": "Говорящий с ветром",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 1880,
+   "components": [
+    2003,
+    1002
+   ],
+   "stats": [
+    [
+     "attackSpeed",
+     35,
+     "%"
+    ],
+    [
+     "crit",
+     20,
+     "%"
+    ],
+    [
+     "move",
+     20,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Урон по площади",
+    "en": "Splash damage"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Тайфун",
+      "en": "Typhoon"
+     },
+     "text": {
+      "ru": "Раз в 5–2 с (каждая базовая атака сокращает интервал на 0,2 с) следующая базовая атака бьёт до 3 врагов и наносит 150–362 магического урона. Может быть критической, по миньонам урон 200%.",
+      "en": "Every 5–2s (−0.2s per Basic Attack), the next Basic Attack hits up to 3 enemies for 150–362 Magic Damage. It can crit and deals 200% damage to minions."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Когда-то он решил судьбу городов-близнецов — Форта Ветров и Огненной Глотки, а позже стал свидетелем многолетнего обещания двух друзей.",
+    "en": "It once determined the fate of the Twin Cities, Wind Fort and Fire Throat, and later its sharp edge witnessed a decades-long promise between two best friends."
+   },
+   "liquipedia": "Windtalker",
+   "upgrade": 700,
+   "into": []
+  },
+  {
+   "id": 3004,
+   "slug": "endless-battle",
+   "en": "Endless Battle",
+   "ru": "Бесконечная битва",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2330,
+   "components": [
+    2002,
+    1005,
+    2103
+   ],
+   "stats": [
+    [
+     "physAtk",
+     60,
+     ""
+    ],
+    [
+     "hp",
+     250,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ],
+    [
+     "move",
+     5,
+     "%"
+    ],
+    [
+     "manaRegen",
+     5,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Усиление базовой атаки",
+    "en": "Empowered Basic Attack"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Божественное правосудие",
+      "en": "Divine Justice"
+     },
+     "text": {
+      "ru": "После применения навыка следующая базовая атака в течение 3 с наносит 60% общей физ. атаки как чистый урон и восстанавливает 80 (+40% общей физ. атаки) ОЗ. Перезарядка 1,5 с.",
+      "en": "After casting a skill, the next Basic Attack within 3s deals 60% Total Physical Attack as extra True Damage and restores 80 (+40% Total Physical Attack) HP. 1.5s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Война в Землях Рассвета не стихала никогда: Бесконечная война, объединение Империи Мониян, конфликты на Севере. Этот артефакт веками видел каждую борьбу за выживание.",
+    "en": "War has never ceased in the Land of Dawn: the Endless War, the unification of the Moniyan Empire, the Conflicts in the North. The artifact has witnessed every struggle for survival for centuries."
+   },
+   "liquipedia": "Endless_Battle",
+   "upgrade": 630,
+   "into": []
+  },
+  {
+   "id": 3003,
+   "slug": "berserkers-fury",
+   "en": "Berserker's Fury",
+   "ru": "Ярость берсерка",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2390,
+   "components": [
+    2001,
+    1003,
+    1003
+   ],
+   "stats": [
+    [
+     "critDamage",
+     40,
+     "%"
+    ],
+    [
+     "physAtk",
+     65,
+     ""
+    ],
+    [
+     "crit",
+     25,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Шанс крита и урон",
+    "en": "Crit chance and damage"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Рок",
+      "en": "Doom"
+     },
+     "text": {
+      "ru": "Критический удар даёт +5% физической атаки на 2 с.",
+      "en": "Critical strikes grant 5% extra Physical Attack for 2s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Забытая реликвия, потерянная в Бесконечной войне. Если прошлая боль ведёт к ещё большему отчаянию, до безумия остаётся один шаг.",
+    "en": "A forgotten relic, lost in the Endless War. If the pain of the past ultimately leads to greater despair, then madness is only a step away."
+   },
+   "liquipedia": "Berserker's_Fury",
+   "upgrade": 840,
+   "into": []
+  },
+  {
+   "id": 3002,
+   "slug": "haas-claws",
+   "en": "Haas's Claws",
+   "ru": "Когти Хааса",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2020,
+   "components": [
+    2003,
+    1004,
+    1001
+   ],
+   "stats": [
+    [
+     "lifesteal",
+     20,
+     "%"
+    ],
+    [
+     "physAtk",
+     40,
+     ""
+    ],
+    [
+     "attackSpeed",
+     15,
+     "%"
+    ],
+    [
+     "crit",
+     20,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Вампиризм",
+    "en": "Lifesteal"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Бешенство",
+      "en": "Frenzy"
+     },
+     "text": {
+      "ru": "Критический удар даёт +20% скорости атаки на 2 с.",
+      "en": "Critical strikes grant 20% Attack Speed for 2s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Проигравших войну изгнали в Бездну с ненасытной жаждой крови. Хаас первым поддался ей, склонившись перед Королевой.",
+    "en": "Those who lost the war were banished to the Abyss with an insatiable hunger for blood. Haas was the first to succumb to his desire when he bowed to the Queen."
+   },
+   "liquipedia": "Haas's_Claws",
+   "upgrade": 470,
+   "into": []
+  },
+  {
+   "id": 3001,
+   "slug": "malefic-roar",
+   "en": "Malefic Roar",
+   "ru": "Злобный рык",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2060,
+   "components": [
+    2001
+   ],
+   "stats": [
+    [
+     "physAtk",
+     60,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Высокое физ. проникновение",
+    "en": "High Physical Penetration"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Пробивание брони",
+      "en": "Armor Buster"
+     },
+     "text": {
+      "ru": "Физическое проникновение +30%.",
+      "en": "Increases Physical Penetration by 30%."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Разрушитель",
+      "en": "Breaker"
+     },
+     "text": {
+      "ru": "При атаке за каждую единицу физической защиты цели физическое проникновение растёт на 0,1%, до 30%.",
+      "en": "When attacking, gain 0.1% Physical Penetration for each point of the target’s Physical Defense, up to 30%."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Его прославил воин по прозвищу Западное Правосудие. Выстрел этого оружия пронзает зло и наводит страх на врагов.",
+    "en": "Famous for a warrior known as West Justice, it symbolizes justice and pierces all evil, striking fear into enemies’ hearts with the sound of its shot."
+   },
+   "liquipedia": "Malefic_Roar",
+   "upgrade": 1150,
+   "into": []
+  },
+  {
+   "id": 2013,
+   "slug": "war-axe",
+   "en": "War Axe",
+   "ru": "Топор войны",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2100,
+   "components": [
+    2002,
+    1005,
+    1205
+   ],
+   "stats": [
+    [
+     "physAtk",
+     35,
+     ""
+    ],
+    [
+     "hp",
+     400,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ],
+    [
+     "hybridSteal",
+     8,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Усиление продолжительного урона",
+    "en": "Sustained damage"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Боевой дух",
+      "en": "Fighting Spirit"
+     },
+     "text": {
+      "ru": "Атаки дают +12 физической атаки в секунду на 4 с, до 6 зарядов. При полном запасе герой наносит дополнительно 10% от нанесённого урона как чистый урон. Стрелки, маги и поддержка получают половину эффекта.",
+      "en": "Attacks grant 12 Physical Attack per second for 4s, up to 6 stacks. At full stacks, deal extra True Damage equal to 10% of the damage dealt. Marksmen, Mages and Supports get 50% of this effect."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Говорят, этим топором предки леонинов сдерживали силы Бездны вместе с эльфами. Когда сил не осталось, оружие уснуло, но недавно его пробудили ярость и боевой дух одного леонина.",
+    "en": "This battleaxe is said to have been wielded by the Leonins’ ancestors as they resisted the Abyss alongside the Elves. When they could fight no longer, the weapon fell into slumber, until the rage of a certain Leonin warrior awoke it."
+   },
+   "liquipedia": "War_Axe",
+   "upgrade": 550,
+   "into": []
+  },
+  {
+   "id": 2011,
+   "slug": "wind-of-nature",
+   "en": "Wind of Nature",
+   "ru": "Ветер природы",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 1910,
+   "components": [
+    1006,
+    1004
+   ],
+   "stats": [
+    [
+     "physAtk",
+     30,
+     ""
+    ],
+    [
+     "attackSpeed",
+     20,
+     "%"
+    ],
+    [
+     "lifesteal",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Иммунитет к физ. урону",
+    "en": "Physical damage immunity"
+   },
+   "effects": [
+    {
+     "kind": "active",
+     "name": {
+      "ru": "Песнь ветра",
+      "en": "Wind Chant"
+     },
+     "text": {
+      "ru": "При использовании герой на 2 с становится невосприимчив к физическому урону. У героев, которые не стрелки, длительность вдвое меньше. Перезарядка 90 с.",
+      "en": "Upon use, become immune to all Physical Damage for 2s (halved for non-Marksmen). 90s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Самоцвет из глубин Лесов Азрии, полный силы природы, эльфы превратили в лук, чтобы защищать своё святилище — Лунный лес.",
+    "en": "A gem from the depths of the Azrya Woodlands, rich with natural energy, was forged into a longbow by the Elves to protect their sanctuary, the Moonlit Forest."
+   },
+   "liquipedia": "Wind_of_Nature",
+   "upgrade": 910,
+   "into": []
+  },
+  {
+   "id": 2009,
+   "slug": "golden-staff",
+   "en": "Golden Staff",
+   "ru": "Золотой посох",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2000,
+   "components": [
+    1006,
+    1001,
+    1001
+   ],
+   "stats": [
+    [
+     "physAtk",
+     55,
+     ""
+    ],
+    [
+     "attackSpeed",
+     15,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Улучш. эффекты атаки",
+    "en": "Stronger attack effects"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Быстрота",
+      "en": "Swift"
+     },
+     "text": {
+      "ru": "Каждый 1% шанса крит. удара превращается в 1% скорости атаки.",
+      "en": "Every 1% extra Crit Chance is converted into 1% extra Attack Speed."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Бесконечный удар",
+      "en": "Endless Strike"
+     },
+     "text": {
+      "ru": "После каждых 2 некритических базовых атак скорость следующей атаки растёт на 80% (предел скорости атаки поднимается до 500%), а её эффекты срабатывают ещё 2 раза.",
+      "en": "After every 2 non-crit Basic Attacks, the next one gains 80% Attack Speed (cap raised to 500%) and triggers Attack Effects 2 more times."
+     }
+    }
+   ],
+   "story": {
+    "ru": "«Как стать непобедимым?» — спросил юный воин-панда своего учителя, бессмертную обезьяну. Тот ничего не ответил, лишь нетерпеливо взмахнул посохом — и поднялась буря.",
+    "en": "“How can I be invincible?” a young panda warrior asked his mentor, the immortal monkey. The monkey said nothing, only waved his staff, raising a storm in an instant."
+   },
+   "liquipedia": "Golden_Staff",
+   "upgrade": 900,
+   "into": []
+  },
+  {
+   "id": 2008,
+   "slug": "corrosion-scythe",
+   "en": "Corrosion Scythe",
+   "ru": "Коса коррозии",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2050,
+   "components": [
+    1006,
+    1007
+   ],
+   "stats": [
+    [
+     "physAtk",
+     30,
+     ""
+    ],
+    [
+     "move",
+     5,
+     "%"
+    ],
+    [
+     "attackSpeed",
+     30,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Замедление от урона",
+    "en": "Slow on hit"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Коррозия",
+      "en": "Corrosion"
+     },
+     "text": {
+      "ru": "Базовые атаки наносят +80 физического урона и замедляют цель на 8% на 1,5 с (у дальних атак вдвое меньше). Суммируется до 5 раз.",
+      "en": "Basic Attacks deal 80 extra Physical Damage and slow the target by 8% (halved for ranged attacks) for 1.5s, stacking up to 5 times."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Импульс",
+      "en": "Impulse"
+     },
+     "text": {
+      "ru": "Базовые атаки дают +6% скорости атаки на 3 с, до 5 зарядов.",
+      "en": "Basic Attacks grant 6% Attack Speed for 3s, up to 5 stacks."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Смерть поглотит тебя…",
+    "en": "Death shall devour you…"
+   },
+   "liquipedia": "Corrosion_Scythe",
+   "upgrade": 450,
+   "into": []
+  },
+  {
+   "id": 2006,
+   "slug": "demon-hunter-sword",
+   "en": "Demon Hunter Sword",
+   "ru": "Меч охотника на демонов",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2180,
+   "components": [
+    1006,
+    1004,
+    1002
+   ],
+   "stats": [
+    [
+     "physAtk",
+     35,
+     ""
+    ],
+    [
+     "attackSpeed",
+     20,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Убийца танков",
+    "en": "Tank killer"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Поглощение",
+      "en": "Engulf"
+     },
+     "text": {
+      "ru": "Базовые атаки наносят дополнительный физический урон в размере 8% текущих ОЗ цели (по миньонам не больше 60).",
+      "en": "Basic Attacks deal extra Physical Damage equal to 8% of the target’s current HP (up to 60 against minions)."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Пожирание",
+      "en": "Devour"
+     },
+     "text": {
+      "ru": "Каждая базовая атака восстанавливает 10 (+4 × уровень героя) ОЗ, по миньонам вдвое меньше.",
+      "en": "Each Basic Attack restores 10 (+4 × hero level) HP, halved against minions."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Сердцевину клинка вырезали из кости голема Ледяных островов, и в нём будто живёт яростная история этих великанов.",
+    "en": "Its core carved from the bones of an Iceland Golem, the blade seems to carry the fierce history of those giants from before they were slain."
+   },
+   "liquipedia": "Demon_Hunter_Sword",
+   "upgrade": 900,
+   "into": []
+  },
+  {
+   "id": 2005,
+   "slug": "magic-blade",
+   "en": "Magic Blade",
+   "ru": "Магический клинок",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 1050,
+   "components": [
+    1004,
+    1001
+   ],
+   "stats": [
+    [
+     "physAtk",
+     25,
+     ""
+    ],
+    [
+     "lifesteal",
+     10,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Спасение",
+      "en": "Lifeline"
+     },
+     "text": {
+      "ru": "Если урон опускает ОЗ ниже 30%, герой получает щит (60 × уровень героя) и 50% скорости передвижения, которая быстро спадает за 3 с. Перезарядка 60 с.",
+      "en": "When damage drops HP below 30%, gain a shield of 60 × hero level and 50% Movement Speed that decays over 3s. 60s cooldown."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Magic_Blade",
+   "upgrade": 400,
+   "into": [
+    3012
+   ]
+  },
+  {
+   "id": 2004,
+   "slug": "fury-hammer",
+   "en": "Fury Hammer",
+   "ru": "Молот гнева",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 830,
+   "components": [
+    1001
+   ],
+   "stats": [
+    [
+     "physPen",
+     12,
+     ""
+    ],
+    [
+     "physAtk",
+     35,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Fury_Hammer",
+   "upgrade": 580,
+   "into": [
+    3009,
+    3007,
+    3015
+   ]
+  },
+  {
+   "id": 2003,
+   "slug": "rogue-meteor",
+   "en": "Rogue Meteor",
+   "ru": "Кистень грабителя",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 900,
+   "components": [
+    1003,
+    1002
+   ],
+   "stats": [
+    [
+     "attackSpeed",
+     15,
+     "%"
+    ],
+    [
+     "crit",
+     10,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Rogue_Meteor",
+   "upgrade": 300,
+   "into": [
+    3005,
+    3002
+   ]
+  },
+  {
+   "id": 2002,
+   "slug": "ogre-tomahawk",
+   "en": "Ogre Tomahawk",
+   "ru": "Топор великана",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 650,
+   "components": [
+    1001,
+    1201
+   ],
+   "stats": [
+    [
+     "physAtk",
+     25,
+     ""
+    ],
+    [
+     "hp",
+     230,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Ogre_Tomahawk",
+   "upgrade": 100,
+   "into": [
+    3007,
+    3004,
+    2013
+   ]
+  },
+  {
+   "id": 2001,
+   "slug": "legion-sword",
+   "en": "Legion Sword",
+   "ru": "Меч легионера",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 910,
+   "components": [
+    1001,
+    1001
+   ],
+   "stats": [
+    [
+     "physAtk",
+     60,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Legion_Sword",
+   "upgrade": 410,
+   "into": [
+    3013,
+    3008,
+    3003,
+    3001,
+    3014
+   ]
+  },
+  {
+   "id": 1006,
+   "slug": "regular-spear",
+   "en": "Regular Spear",
+   "ru": "Обычное копье",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 600,
+   "components": [
+    1002,
+    1001
+   ],
+   "stats": [
+    [
+     "physAtk",
+     20,
+     ""
+    ],
+    [
+     "attackSpeed",
+     10,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Regular_Spear",
+   "upgrade": 70,
+   "into": [
+    3013,
+    2011,
+    2009,
+    2008,
+    2006
+   ]
+  },
+  {
+   "id": 1005,
+   "slug": "iron-hunting-bow",
+   "en": "Iron Hunting Bow",
+   "ru": "Железный лук охотника",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 450,
+   "components": [],
+   "stats": [
+    [
+     "physAtk",
+     10,
+     ""
+    ],
+    [
+     "cdr",
+     5,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Iron_Hunting_Bow",
+   "upgrade": 0,
+   "into": [
+    3009,
+    3004,
+    2013,
+    3014
+   ]
+  },
+  {
+   "id": 1004,
+   "slug": "vampire-mallet",
+   "en": "Vampire Mallet",
+   "ru": "Булава вампира",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 400,
+   "components": [],
+   "stats": [
+    [
+     "physAtk",
+     8,
+     ""
+    ],
+    [
+     "lifesteal",
+     8,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Vampire_Mallet",
+   "upgrade": 0,
+   "into": [
+    3002,
+    2011,
+    2006,
+    2005
+   ]
+  },
+  {
+   "id": 1003,
+   "slug": "javelin",
+   "en": "Javelin",
+   "ru": "Копье",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 320,
+   "components": [],
+   "stats": [
+    [
+     "crit",
+     8,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Javelin",
+   "upgrade": 0,
+   "into": [
+    3003,
+    2003,
+    3014
+   ]
+  },
+  {
+   "id": 1002,
+   "slug": "knife",
+   "en": "Knife",
+   "ru": "Нож",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 280,
+   "components": [],
+   "stats": [
+    [
+     "attackSpeed",
+     10,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Knife",
+   "upgrade": 0,
+   "into": [
+    3012,
+    3005,
+    2006,
+    2003,
+    1006,
+    1007,
+    3015,
+    2305
+   ]
+  },
+  {
+   "id": 1001,
+   "slug": "dagger",
+   "en": "Dagger",
+   "ru": "Кинжал",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 250,
+   "components": [],
+   "stats": [
+    [
+     "physAtk",
+     15,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Dagger",
+   "upgrade": 0,
+   "into": [
+    3009,
+    3002,
+    2009,
+    2005,
+    2004,
+    2002,
+    2001,
+    1006
+   ]
+  },
+  {
+   "id": 1010,
+   "slug": "power-potion",
+   "en": "Power Potion",
+   "ru": "Зелье силы",
+   "cats": [
+    "attack"
+   ],
+   "kind": "potion",
+   "cost": 1500,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Усиление",
+      "en": "Increase Power"
+     },
+     "text": {
+      "ru": "Сразу после покупки даёт +30 физической атаки и 15% вампиризма на 120 с.",
+      "en": "Upon purchase, grants 30 Physical Attack and 15% Lifesteal for 120s."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Power_Potion",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 3111,
+   "slug": "genius-wand",
+   "en": "Genius Wand",
+   "ru": "Палочка гения",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2000,
+   "components": [
+    2104,
+    2101
+   ],
+   "stats": [
+    [
+     "magicPen",
+     10,
+     ""
+    ],
+    [
+     "magic",
+     75,
+     ""
+    ],
+    [
+     "move",
+     5,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Снижение маг. защиты",
+    "en": "Magic Defense shred"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Магия",
+      "en": "Magic"
+     },
+     "text": {
+      "ru": "Магический урон по вражеским героям снижает их магическую защиту на 2,5 (+0,5 × уровень героя) на 2 с. Суммируется до 3 раз.",
+      "en": "Magic Damage to enemy heroes reduces their Magic Defense by 2.5 (+0.5 × hero level) for 2s, stacking up to 3 times."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Плод случайного опыта Урсулы. Позже Магическая академия вручила её одному многообещающему юному магу.",
+    "en": "A product of Ursula’s random experiment, later granted by the Magic Academy to a promising young magician."
+   },
+   "liquipedia": "Genius_Wand",
+   "upgrade": 580,
+   "into": []
+  },
+  {
+   "id": 3110,
+   "slug": "lightning-truncheon",
+   "en": "Lightning Truncheon",
+   "ru": "Жезл молний",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2250,
+   "components": [
+    2101,
+    1104,
+    1102
+   ],
+   "stats": [
+    [
+     "magic",
+     75,
+     ""
+    ],
+    [
+     "mana",
+     400,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Массовый урон навыками",
+    "en": "Burst on skills"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Резонанс",
+      "en": "Resonate"
+     },
+     "text": {
+      "ru": "Раз в 6 с следующий навык отзывается эхом и наносит всем врагам в области 255 (+85% общей маг. силы) магического урона.",
+      "en": "Every 6s, the next skill echoes, dealing 255 (+85% Total Magic Power) extra Magic Damage to all enemies in range."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Жезл создан по мотивам серебровласой эльфийки, запечатавшей молнии в Магической академии, и вокруг него бушует сила грома.",
+    "en": "Inspired by the silver-haired Elf girl who sealed the thunderbolts at the Magic Academy, the staff surges with the power of thunder."
+   },
+   "liquipedia": "Lightning_Truncheon",
+   "upgrade": 760,
+   "into": []
+  },
+  {
+   "id": 3109,
+   "slug": "fleeting-time",
+   "en": "Fleeting Time",
+   "ru": "Мимолетное время",
+   "cats": [
+    "attack",
+    "magic",
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2050,
+   "components": [
+    1008,
+    1205,
+    1205
+   ],
+   "stats": [
+    [
+     "adaptive",
+     30,
+     ""
+    ],
+    [
+     "hp",
+     600,
+     ""
+    ],
+    [
+     "cdr",
+     15,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Перезарядка ультимейта",
+    "en": "Ultimate cooldown"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Поток",
+      "en": "Timestream"
+     },
+     "text": {
+      "ru": "Убийство героя или помощь сокращают текущую перезарядку ультимейта на 30%.",
+      "en": "Hero kills or assists reduce the Ultimate’s current cooldown by 30%."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Драгоценный артефакт из покоев посланницы Монастыря Света. Она часто смотрит на него с тоской, будто вспоминает брата в Бездне и обрывки памяти.",
+    "en": "A precious artifact kept in the room of an envoy of the Monastery of Light. She often gazes at it with longing, as if remembering her brother in the Abyss and a broken memory."
+   },
+   "liquipedia": "Fleeting_Time",
+   "upgrade": 650,
+   "into": []
+  },
+  {
+   "id": 3108,
+   "slug": "blood-wings",
+   "en": "Blood Wings",
+   "ru": "Кровавые крылья",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2100,
+   "components": [
+    2101,
+    2101
+   ],
+   "stats": [
+    [
+     "magic",
+     90,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Щит с ускорением",
+    "en": "Shield and speed"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Защита",
+      "en": "Guard"
+     },
+     "text": {
+      "ru": "Даёт щит 800 (+100% общей маг. силы), который восстанавливается через 20 с после получения урона. Пока щит есть, скорость передвижения +30, а после его разрушения +150 на 1 с.",
+      "en": "Grants an 800 (+100% Total Magic Power) shield that regenerates 20s after taking damage. It grants 30 Movement Speed while it lasts and 150 for 1s after it breaks."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Багрянец окрасил белоснежное перо, будто в нём похоронено жестокое прошлое Леса Аскати.",
+    "en": "The crimson red dyed the spotless white feather, as if the brutal past of the Askati Forest were buried within it."
+   },
+   "liquipedia": "Blood_Wings",
+   "upgrade": 460,
+   "into": []
+  },
+  {
+   "id": 2107,
+   "slug": "winter-crown",
+   "en": "Winter Crown",
+   "ru": "Зимняя корона",
+   "cats": [
+    "attack",
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 1910,
+   "components": [
+    1008,
+    1201,
+    1205
+   ],
+   "stats": [
+    [
+     "adaptive",
+     45,
+     ""
+    ],
+    [
+     "hp",
+     400,
+     ""
+    ],
+    [
+     "cdr",
+     5,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Временная неуязвимость",
+    "en": "Brief invulnerability"
+   },
+   "effects": [
+    {
+     "kind": "active",
+     "name": {
+      "ru": "Заморозка",
+      "en": "Frozen"
+     },
+     "text": {
+      "ru": "При использовании герой замерзает на 2 с: на него нельзя навести цель, он не получает урона и эффектов, но не двигается и не применяет навыки. Перезарядка 100 с.",
+      "en": "Upon use, become frozen for 2s: untargetable and immune to all damage and effects, but unable to move or cast. 100s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Сердце Ледника создал Повелитель Света. Пробудившись вместе с Девой Ледника, оно стало символом вечности, которая и защищает её, и держит в плену.",
+    "en": "The core of the Glacier was created by the Lord of Light. Awakened along with the Maiden of the Glacier, it symbolizes the power of eternity that not only protects but also confines her."
+   },
+   "liquipedia": "Winter_Crown",
+   "upgrade": 660,
+   "into": []
+  },
+  {
+   "id": 1007,
+   "slug": "swift-crossbow",
+   "en": "Swift Crossbow",
+   "ru": "Быстрый арбалет",
+   "cats": [
+    "attack"
+   ],
+   "kind": "part",
+   "cost": 1000,
+   "components": [
+    1002,
+    1002
+   ],
+   "stats": [
+    [
+     "attackSpeed",
+     20,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Арбалет",
+      "en": "Crossbow"
+     },
+     "text": {
+      "ru": "Каждая базовая атака наносит +40 адаптивного урона.",
+      "en": "Each Basic Attack deals 40 extra Adaptive Damage."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Импульс",
+      "en": "Impulse"
+     },
+     "text": {
+      "ru": "Базовые атаки дают +3% скорости атаки на 3 с, до 5 зарядов.",
+      "en": "Basic Attacks grant 3% Attack Speed for 3s, up to 5 stacks."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Swift_Crossbow",
+   "upgrade": 440,
+   "into": [
+    2008,
+    2108
+   ]
+  },
+  {
+   "id": 3014,
+   "slug": "great-dragon-spear",
+   "en": "Great Dragon Spear",
+   "ru": "Копье Великого дракона",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2140,
+   "components": [
+    2001,
+    1005,
+    1003
+   ],
+   "stats": [
+    [
+     "physAtk",
+     70,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ],
+    [
+     "crit",
+     20,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Перезарядка и крит",
+    "en": "Cooldown and crit"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Высший воин",
+      "en": "Supreme Warrior"
+     },
+     "text": {
+      "ru": "После применения ультимейта скорость передвижения растёт на 30% на 7,5 с. Перезарядка эффекта 15 с.",
+      "en": "After casting an Ultimate, Movement Speed increases by 30% for 7.5s. 15s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Сокровище Драконьего алтаря — символ силы и ответственности, который хранит наследие Речных земель Кадии.",
+    "en": "The treasure of the Dragon Altar symbolizes power and responsibility, passing on the never-ending legacy of the Cadia Riverlands."
+   },
+   "liquipedia": "Great_Dragon_Spear",
+   "upgrade": 460,
+   "into": []
+  },
+  {
+   "id": 3112,
+   "slug": "flask-of-the-oasis",
+   "en": "Flask of the Oasis",
+   "ru": "Фляга Оазиса",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 1850,
+   "components": [
+    2101,
+    1104,
+    1201
+   ],
+   "stats": [
+    [
+     "healing",
+     12,
+     "%"
+    ],
+    [
+     "magic",
+     60,
+     ""
+    ],
+    [
+     "hp",
+     300,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Защита союзников",
+    "en": "Protects allies"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Благословение",
+      "en": "Blessing"
+     },
+     "text": {
+      "ru": "Когда герой лечит союзника или даёт ему щит, а ОЗ союзника ниже 35% или опускаются ниже 35% в течение 3 с, тот получает щит (100 × уровень героя) на 3 с, а перезарядка навыков героя сокращается на 2 с. Срабатывает на одной цели раз в 60 с и не срабатывает от лечения только себя.",
+      "en": "When a heal or shield skill hits a target whose HP is below 35% (or falls below it within 3s), they get a shield of 100 × hero level for 3s and the caster’s skill cooldowns drop by 2s. Once every 60s per target; not on self-only heals and shields."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Маги переняли магию Оазиса, чтобы силой мученицы защитить больше людей.",
+    "en": "Mages mimicked the magic of the Oasis, helping to protect more people with the power of the martyr."
+   },
+   "liquipedia": "Flask_of_the_Oasis",
+   "upgrade": 280,
+   "into": []
+  },
+  {
+   "id": 3106,
+   "slug": "starlium-scythe",
+   "en": "Starlium Scythe",
+   "ru": "Старлиумовая коса",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2120,
+   "components": [
+    2103,
+    2101,
+    1104
+   ],
+   "stats": [
+    [
+     "magic",
+     75,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ],
+    [
+     "hybridSteal",
+     8,
+     "%"
+    ],
+    [
+     "manaRegen",
+     6,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Усиление базовой атаки",
+    "en": "Empowered Basic Attack"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Кризис",
+      "en": "Crisis"
+     },
+     "text": {
+      "ru": "После применения навыка следующая базовая атака в течение 3 с наносит 90 (+60% общей маг. силы) чистого урона и замедляет цель на 15% на 1,5 с. Перезарядка 1,5 с.",
+      "en": "After casting a skill, the next Basic Attack within 3s deals 90 (+60% Total Magic Power) extra True Damage and slows the target by 15% for 1.5s. 1.5s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Учёные Эрудитио перекроили устройство на старлиуме по законам магии и соединили обе силы.",
+    "en": "Eruditio’s scientists rebuilt the Starlium device by the rules of magic, merging the powers of magic and Starlium."
+   },
+   "liquipedia": "Starlium_Scythe",
+   "upgrade": 250,
+   "into": []
+  },
+  {
+   "id": 3015,
+   "slug": "malefic-gun",
+   "en": "Malefic Gun",
+   "ru": "Губительный пулемет",
+   "cats": [
+    "attack"
+   ],
+   "kind": "final",
+   "cost": 2120,
+   "components": [
+    2004,
+    1002,
+    1002
+   ],
+   "stats": [
+    [
+     "physAtk",
+     40,
+     ""
+    ],
+    [
+     "attackSpeed",
+     20,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Дальность атаки",
+    "en": "Attack range"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Пробивание брони",
+      "en": "Armor Buster"
+     },
+     "text": {
+      "ru": "Физическое проникновение +30%.",
+      "en": "Increases Physical Penetration by 30%."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Злая энергия",
+      "en": "Malefic Energy"
+     },
+     "text": {
+      "ru": "Дальность базовой атаки +12%. При попадании по цели скорость передвижения растёт на 10% на 0,5 с.",
+      "en": "Increases Basic Attack range by 12%. Hitting a target grants 10% Movement Speed for 0.5s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Технологии Эрудитио дали ему больше дальности и силы — под стать весёлой девушке с яркой улыбкой.",
+    "en": "With technology from Eruditio, it now has greater range and more power, as befits the ebullient girl with the bright smile."
+   },
+   "liquipedia": "Malefic_Gun",
+   "upgrade": 730,
+   "into": []
+  },
+  {
+   "id": 2014,
+   "slug": "sky-piercer",
+   "en": "Sky Piercer",
+   "ru": "Пронзающий небеса",
+   "cats": [
+    "attack",
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 1500,
+   "components": [
+    1008,
+    1008
+   ],
+   "stats": [
+    [
+     "adaptive",
+     60,
+     ""
+    ],
+    [
+     "move",
+     15,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Лучшее для добивания",
+    "en": "Best for finishing"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Смертоносность",
+      "en": "Lethality"
+     },
+     "text": {
+      "ru": "Урон по вражескому герою мгновенно добивает его, если у него меньше 4% ОЗ. Каждое убийство даёт 10 зарядов, смерть забирает 30% накопленных. Каждый заряд поднимает порог добивания на 0,1%, до 80 зарядов.",
+      "en": "Damaging an enemy hero below 4% HP executes them. Each kill grants 10 stacks of Lethality and each death removes 30% of them. Each stack raises the execute threshold by 0.1%, up to 80 stacks."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Свидетель Бесконечной войны с несравненной разрушительной силой. Те, кто его видел, зовут его Пронзающим небеса.",
+    "en": "Once a witness to the Endless War, the blade has an unparalleled power to wreak havoc, and those who have seen it call it Sky Piercer."
+   },
+   "liquipedia": "Sky_Piercer",
+   "upgrade": 500,
+   "into": []
+  },
+  {
+   "id": 1008,
+   "slug": "expert-gloves",
+   "en": "Expert Gloves",
+   "ru": "Перчатки эксперта",
+   "cats": [
+    "attack",
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 500,
+   "components": [],
+   "stats": [
+    [
+     "adaptive",
+     30,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Expert_Gloves",
+   "upgrade": 0,
+   "into": [
+    3109,
+    2107,
+    2014,
+    2208
+   ]
+  },
+  {
+   "id": 2112,
+   "slug": "wishing-lantern",
+   "en": "Wishing Lantern",
+   "ru": "Фонарь желаний",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2250,
+   "components": [
+    2101,
+    1104,
+    1102
+   ],
+   "stats": [
+    [
+     "magic",
+     75,
+     ""
+    ],
+    [
+     "mana",
+     400,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Против высоких ОЗ",
+    "en": "Against high HP"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Бабочка-богиня",
+      "en": "Butterfly Goddess"
+     },
+     "text": {
+      "ru": "За каждые 900 единиц магического урона, нанесённого вражескому герою (до снижения урона), появляется Бабочка-богиня и атакует его, нанося магический урон в размере 8% его текущих ОЗ.",
+      "en": "For every 900 Magic Damage dealt to an enemy hero (before Damage Reduction), a Butterfly Goddess attacks them for Magic Damage equal to 8% of their current HP."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Фонарь хранителя Речных земель Кадии, в котором живут бесконечные желания. Теперь его зажигает таинственная девушка: она призывает алых бабочек и ведёт заблудшие души.",
+    "en": "A lantern left by the guardian of the Cadia Riverlands that holds infinite wishes. A mysterious girl now lights it, summoning Crimson Butterflies and guiding lost spirits."
+   },
+   "liquipedia": "Wishing_Lantern",
+   "upgrade": 760,
+   "into": []
+  },
+  {
+   "id": 3113,
+   "slug": "clock-of-destiny",
+   "en": "Clock of Destiny",
+   "ru": "Часы судьбы",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2030,
+   "components": [
+    2105,
+    1104
+   ],
+   "stats": [
+    [
+     "magic",
+     45,
+     ""
+    ],
+    [
+     "hp",
+     400,
+     ""
+    ],
+    [
+     "mana",
+     400,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Для магических танков",
+    "en": "For magic tanks"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Судьба",
+      "en": "Destiny"
+     },
+     "text": {
+      "ru": "Магический урон по вражеским героям даёт 4,5 (+0,5 × уровень героя) гибридной защиты на 5 с, до 6 зарядов (не чаще раза в 0,4 с).",
+      "en": "Magic Damage to enemy heroes grants 4.5 (+0.5 × hero level) Hybrid Defense for 5s, up to 6 stacks (once every 0.4s)."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Дар",
+      "en": "Gift"
+     },
+     "text": {
+      "ru": "Когда ОЗ падают ниже 50%, за 3 с восстанавливается 15% ОЗ; когда мана падает ниже 50%, за 3 с восстанавливается 15% маны. Перезарядка 60 с.",
+      "en": "When HP drops below 50%, recover 15% HP over 3s; when Mana drops below 50%, restore 15% Mana over 3s. 60s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Новинка Эрудитио: старлиум, магия и время в одном устройстве, которое усиливает силу и рост героя.",
+    "en": "Eruditio’s latest product combines Starlium with magic and time, enhancing both power and growth."
+   },
+   "liquipedia": "Clock_of_Destiny",
+   "upgrade": 880,
+   "into": []
+  },
+  {
+   "id": 3105,
+   "slug": "glowing-wand",
+   "en": "Glowing Wand",
+   "ru": "Пылающий жезл",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2050,
+   "components": [
+    2104,
+    1101,
+    1201
+   ],
+   "stats": [
+    [
+     "magic",
+     60,
+     ""
+    ],
+    [
+     "hp",
+     300,
+     ""
+    ],
+    [
+     "move",
+     5,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Снижение исцеления",
+    "en": "Anti-heal"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Опаление",
+      "en": "Scorch"
+     },
+     "text": {
+      "ru": "Магический урон поджигает цель на 3 с: каждую секунду она получает магический урон в размере 1% своих макс. ОЗ.",
+      "en": "Magic Damage burns the target for 3s, dealing extra Magic Damage equal to 1% of its Max HP per second."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Гибель жизни",
+      "en": "Lifebane"
+     },
+     "text": {
+      "ru": "Урон по цели снижает получаемые ею щиты и регенерацию ОЗ до 60% на 3 с.",
+      "en": "Dealing damage to a target reduces its Shield and HP Regen effects to 60% of normal for 3s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Посох, потерянный после битвы у Огненной Глотки, вернулся вместе с Сыном Пламени. В нём течёт безумие, горящее огнём.",
+    "en": "A staff long lost after the Battle of the Fire Throat returns with the Son of Flames. The magic flowing through it is madness burning in flames."
+   },
+   "liquipedia": "Glowing_Wand",
+   "upgrade": 850,
+   "into": []
+  },
+  {
+   "id": 3104,
+   "slug": "ice-queen-wand",
+   "en": "Ice Queen Wand",
+   "ru": "Жезл снежной королевы",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2040,
+   "components": [
+    2104,
+    1105,
+    1101
+   ],
+   "stats": [
+    [
+     "magic",
+     60,
+     ""
+    ],
+    [
+     "spellVamp",
+     10,
+     "%"
+    ],
+    [
+     "hp",
+     300,
+     ""
+    ],
+    [
+     "move",
+     7,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Замедление навыками",
+    "en": "Slow on skill hit"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Ледяные оковы",
+      "en": "Ice Bound"
+     },
+     "text": {
+      "ru": "Урон навыком по вражескому герою замедляет его на 10% на 2 с, до 3 раз. Перезарядка эффекта 0,4 с.",
+      "en": "Skill damage to an enemy hero slows them by 10% for 2s, stacking up to 3 times. 0.4s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Что такое вечность? Божества ответили: «Взгляни на падающий снег и шепчущий ледник». Всё это — милость Девы Ледника.",
+    "en": "What is eternity? The deities replied, “Look at the falling snow and the whispering glacier.” All of it is the grace of the Maiden of the Glacier."
+   },
+   "liquipedia": "Ice_Queen_Wand",
+   "upgrade": 640,
+   "into": []
+  },
+  {
+   "id": 3103,
+   "slug": "concentrated-energy",
+   "en": "Concentrated Energy",
+   "ru": "Концентрированная энергия",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2020,
+   "components": [
+    2101,
+    1105,
+    1201
+   ],
+   "stats": [
+    [
+     "hybridSteal",
+     20,
+     "%"
+    ],
+    [
+     "magic",
+     75,
+     ""
+    ],
+    [
+     "hp",
+     400,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Усиление продолжительного урона",
+    "en": "Sustained damage"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Подзарядка",
+      "en": "Recharge"
+     },
+     "text": {
+      "ru": "Магический урон даёт +5 магической силы, до 6 зарядов (не чаще раза в 0,4 с). При полном запасе магический урон растёт на 12% на 5 с.",
+      "en": "Magic Damage grants 5 Magic Power, up to 6 stacks (once every 0.4s). At full stacks, Magic Damage increases by 12% for 5s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Создана учёными по мотивам взрыва Бесконечных Врат — по законам сгущения и усиления энергии.",
+    "en": "Inspired by the explosion of the Infinite Gateway, scientists built it on the laws of condensing and amplifying energy."
+   },
+   "liquipedia": "Concentrated_Energy",
+   "upgrade": 400,
+   "into": []
+  },
+  {
+   "id": 3102,
+   "slug": "holy-crystal",
+   "en": "Holy Crystal",
+   "ru": "Священный кристалл",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 3000,
+   "components": [
+    2101,
+    2101,
+    2101
+   ],
+   "stats": [
+    [
+     "magic",
+     165,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Макс. магическая сила",
+    "en": "Highest Magic Power"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Тайна",
+      "en": "Mystery"
+     },
+     "text": {
+      "ru": "Магическая сила растёт на 21–35% в зависимости от уровня героя.",
+      "en": "Gain 21%–35% extra Magic Power (scales with level)."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Пробный камень Магической академии: Священный кристалл проверяет талант каждого ученика. Первый учёный этот экзамен, конечно, провалил.",
+    "en": "A touchstone of the Magic Academy, the Holy Crystal tests each student’s talent for magic, though the very first scholar failed the test."
+   },
+   "liquipedia": "Holy_Crystal",
+   "upgrade": 540,
+   "into": []
+  },
+  {
+   "id": 3101,
+   "slug": "divine-glaive",
+   "en": "Divine Glaive",
+   "ru": "Божественный меч",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 1970,
+   "components": [
+    2101
+   ],
+   "stats": [
+    [
+     "magicPen",
+     40,
+     "%"
+    ],
+    [
+     "magic",
+     60,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Маг. проникновение",
+    "en": "Magic Penetration"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Разрушитель чар",
+      "en": "Spellbreaker"
+     },
+     "text": {
+      "ru": "При атаке за каждую единицу магической защиты цели магическое проникновение растёт на 0,1%, до 20%.",
+      "en": "When attacking, gain 0.1% Magic Penetration for each point of the target’s Magic Defense, up to 20%."
+     }
+    }
+   ],
+   "story": {
+    "ru": "В давней битве эльфов и Империи Мониян предки дома Алвинов этим клинком прорвали оборону эльфов и победили.",
+    "en": "In a past battle between the Elves and the Moniyan Empire, the ancestors of House Alvin used this blade to break the Elves’ defenses."
+   },
+   "liquipedia": "Divine_Glaive",
+   "upgrade": 1150,
+   "into": []
+  },
+  {
+   "id": 2108,
+   "slug": "feather-of-heaven",
+   "en": "Feather of Heaven",
+   "ru": "Райское перо",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2030,
+   "components": [
+    1007,
+    1104
+   ],
+   "stats": [
+    [
+     "magic",
+     60,
+     ""
+    ],
+    [
+     "attackSpeed",
+     20,
+     "%"
+    ],
+    [
+     "lifesteal",
+     10,
+     "%"
+    ],
+    [
+     "cdr",
+     5,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Маг. базовая атака",
+    "en": "Magic Basic Attacks"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Скорбь",
+      "en": "Affliction"
+     },
+     "text": {
+      "ru": "Каждая базовая атака наносит +50 (+30% общей маг. силы) магического урона.",
+      "en": "Each Basic Attack deals 50 (+30% Total Magic Power) extra Magic Damage."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Импульс",
+      "en": "Impulse"
+     },
+     "text": {
+      "ru": "Базовые атаки дают +6% скорости атаки на 3 с, до 5 зарядов.",
+      "en": "Basic Attacks grant 6% Attack Speed for 3s, up to 5 stacks."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Перо мягко упало на землю, когда служители Монастыря Света приветствовали сотворённого ангела именем Повелителя Света.",
+    "en": "A feather fell softly to the ground as the Sacrists of the Monastery of Light greeted the created angel in the name of the Lord of Light."
+   },
+   "liquipedia": "Feather_of_Heaven",
+   "upgrade": 580,
+   "into": []
+  },
+  {
+   "id": 2106,
+   "slug": "enchanted-talisman",
+   "en": "Enchanted Talisman",
+   "ru": "Зачарованный талисман",
+   "cats": [
+    "magic"
+   ],
+   "kind": "final",
+   "cost": 2070,
+   "components": [
+    2102,
+    2101,
+    1103
+   ],
+   "stats": [
+    [
+     "magic",
+     75,
+     ""
+    ],
+    [
+     "hp",
+     300,
+     ""
+    ],
+    [
+     "cdr",
+     15,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Мана и перезарядка",
+    "en": "Mana and cooldown"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Источник маны",
+      "en": "Mana Spring"
+     },
+     "text": {
+      "ru": "Каждые 10 с восстанавливает 15% макс. маны.",
+      "en": "Restores 15% Max Mana every 10s."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Магическое мастерство",
+      "en": "Magic Mastery"
+     },
+     "text": {
+      "ru": "Предел сокращения перезарядки +5%.",
+      "en": "Max Cooldown Reduction +5%."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Создан по мотивам простого курса Магической академии, где ману учат пускать по кругу. После доработки одним чёрным магом в нём бьёт бесконечный источник силы. Какой ценой — другой вопрос.",
+    "en": "Inspired by a basic Magic Academy course on cycling Mana, it gained an endless source of power after a certain black magician reworked it. As for the price…"
+   },
+   "liquipedia": "Enchanted_Talisman",
+   "upgrade": 180,
+   "into": []
+  },
+  {
+   "id": 2105,
+   "slug": "elegant-gem",
+   "en": "Elegant Gem",
+   "ru": "Элегантный самоцвет",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 700,
+   "components": [
+    1102,
+    1201
+   ],
+   "stats": [
+    [
+     "hp",
+     300,
+     ""
+    ],
+    [
+     "mana",
+     380,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Дар",
+      "en": "Gift"
+     },
+     "text": {
+      "ru": "Когда ОЗ падают ниже 50%, за 3 с восстанавливается 15% ОЗ; когда мана падает ниже 50%, за 3 с восстанавливается 15% маны. Перезарядка 60 с.",
+      "en": "When HP drops below 50%, recover 15% HP over 3s; when Mana drops below 50%, restore 15% Mana over 3s. 60s cooldown."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Elegant_Gem",
+   "upgrade": 180,
+   "into": [
+    3113
+   ]
+  },
+  {
+   "id": 2104,
+   "slug": "exotic-veil",
+   "en": "Exotic Veil",
+   "ru": "Иноземная маска",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 600,
+   "components": [
+    1101
+   ],
+   "stats": [
+    [
+     "magic",
+     30,
+     ""
+    ],
+    [
+     "move",
+     5,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Exotic_Veil",
+   "upgrade": 300,
+   "into": [
+    3111,
+    3105,
+    3104
+   ]
+  },
+  {
+   "id": 2103,
+   "slug": "azure-blade",
+   "en": "Azure Blade",
+   "ru": "Лазурный клинок",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 600,
+   "components": [
+    1103,
+    1103
+   ],
+   "stats": [
+    [
+     "manaRegen",
+     5,
+     ""
+    ],
+    [
+     "cdr",
+     5,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Приговор",
+      "en": "Judgement"
+     },
+     "text": {
+      "ru": "После применения навыка следующая базовая атака в течение 3 с наносит +50 чистого урона. Перезарядка 1,5 с.",
+      "en": "After casting a skill, the next Basic Attack within 3s deals 50 extra True Damage. 1.5s cooldown."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Azure_Blade",
+   "upgrade": 360,
+   "into": [
+    3004,
+    3106
+   ]
+  },
+  {
+   "id": 2102,
+   "slug": "tome-of-evil",
+   "en": "Tome of Evil",
+   "ru": "Книга зла",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 950,
+   "components": [
+    1104,
+    1103
+   ],
+   "stats": [
+    [
+     "magic",
+     30,
+     ""
+    ],
+    [
+     "manaRegen",
+     2,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Tome_of_Evil",
+   "upgrade": 380,
+   "into": [
+    2106
+   ]
+  },
+  {
+   "id": 2101,
+   "slug": "magic-wand",
+   "en": "Magic Wand",
+   "ru": "Волшебная палочка",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 820,
+   "components": [
+    1101,
+    1101
+   ],
+   "stats": [
+    [
+     "magic",
+     45,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Magic_Wand",
+   "upgrade": 220,
+   "into": [
+    3111,
+    3110,
+    3108,
+    3112,
+    3106,
+    2112,
+    3103,
+    3102,
+    3101,
+    2106
+   ]
+  },
+  {
+   "id": 1105,
+   "slug": "mystic-container",
+   "en": "Mystic Container",
+   "ru": "Загадочный сосуд",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 500,
+   "components": [
+    1101
+   ],
+   "stats": [
+    [
+     "magic",
+     15,
+     ""
+    ],
+    [
+     "spellVamp",
+     8,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Mystic_Container",
+   "upgrade": 200,
+   "into": [
+    3104,
+    3103
+   ]
+  },
+  {
+   "id": 1104,
+   "slug": "book-of-sages",
+   "en": "Book of Sages",
+   "ru": "Книга мудрости",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 450,
+   "components": [],
+   "stats": [
+    [
+     "magic",
+     8,
+     ""
+    ],
+    [
+     "cdr",
+     5,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Book_of_Sages",
+   "upgrade": 0,
+   "into": [
+    3110,
+    3112,
+    3106,
+    2112,
+    3113,
+    2108,
+    2102
+   ]
+  },
+  {
+   "id": 1103,
+   "slug": "magic-necklace",
+   "en": "Magic Necklace",
+   "ru": "Магическое ожерелье",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 120,
+   "components": [],
+   "stats": [
+    [
+     "manaRegen",
+     2,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Magic_Necklace",
+   "upgrade": 0,
+   "into": [
+    2106,
+    2103,
+    2102,
+    2308
+   ]
+  },
+  {
+   "id": 1102,
+   "slug": "power-crystal",
+   "en": "Power Crystal",
+   "ru": "Кристалл силы",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 220,
+   "components": [],
+   "stats": [
+    [
+     "mana",
+     280,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Power_Crystal",
+   "upgrade": 0,
+   "into": [
+    3110,
+    2112,
+    2105
+   ]
+  },
+  {
+   "id": 1101,
+   "slug": "mystery-codex",
+   "en": "Mystery Codex",
+   "ru": "Магическая книга",
+   "cats": [
+    "magic"
+   ],
+   "kind": "part",
+   "cost": 300,
+   "components": [],
+   "stats": [
+    [
+     "magic",
+     15,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Mystery_Codex",
+   "upgrade": 0,
+   "into": [
+    3105,
+    3104,
+    2104,
+    2101,
+    1105,
+    2304
+   ]
+  },
+  {
+   "id": 1110,
+   "slug": "magic-potion",
+   "en": "Magic Potion",
+   "ru": "Зелье магии",
+   "cats": [
+    "magic"
+   ],
+   "kind": "potion",
+   "cost": 1500,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Усиление",
+      "en": "Increase Power"
+     },
+     "text": {
+      "ru": "Сразу после покупки даёт +30 магической силы и 10% сокращения перезарядки на 120 с.",
+      "en": "Upon purchase, grants 30 Magic Power and 10% Cooldown Reduction for 120s."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Magic_Potion",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 3210,
+   "slug": "radiant-armor",
+   "en": "Radiant Armor",
+   "ru": "Сияющая броня",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 1880,
+   "components": [
+    2203,
+    1203,
+    1204
+   ],
+   "stats": [
+    [
+     "hp",
+     950,
+     ""
+    ],
+    [
+     "magicDef",
+     40,
+     ""
+    ],
+    [
+     "hpRegen",
+     12,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Против маг. урона",
+    "en": "Against magic damage"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Святое благословение",
+      "en": "Holy Blessing"
+     },
+     "text": {
+      "ru": "Получение магического урона даёт 5 (+1 × уровень героя) магической защиты на 5 с, до 6 зарядов (не чаще раза в 0,4 с).",
+      "en": "Taking Magic Damage grants 5 (+1 × hero level) Magic Defense for 5s, up to 6 stacks (once every 0.4s)."
+     }
+    }
+   ],
+   "story": {
+    "ru": "«Эта броня — для героев, что сражаются без страха в сердце». На церемонии объединения Империи Мониян Гай Великий вручил её храбрейшим.",
+    "en": "“This armor is given to those heroes who fight without fear in their hearts.” At the unification of the Moniyan Empire, Gaius the Great gave it to the bravest heroes."
+   },
+   "liquipedia": "Radiant_Armor",
+   "upgrade": 500,
+   "into": []
+  },
+  {
+   "id": 3208,
+   "slug": "brute-force-breastplate",
+   "en": "Brute Force Breastplate",
+   "ru": "Кираса грубой силы",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2070,
+   "components": [
+    2201,
+    1202,
+    1205
+   ],
+   "stats": [
+    [
+     "hp",
+     800,
+     ""
+    ],
+    [
+     "physDef",
+     20,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Атака, скорость, сопротивление контролю",
+    "en": "Attack, speed, CC reduction"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Грубая сила",
+      "en": "Brute Force"
+     },
+     "text": {
+      "ru": "Каждую секунду после нанесения урона герой получает +8 адаптивной атаки и +2% скорости передвижения на 4 с, до 6 зарядов. При полном запасе длительность контроля сокращается ещё на 25%.",
+      "en": "Each second after dealing damage, gain 8 Adaptive Attack and 2% Movement Speed for 4s, up to 6 stacks. At full stacks, gain 25% extra Control Duration Reduction."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Жители Северной долины всегда находят свой путь. Не хватает силы — берут оружие покрепче. Не хватает защиты — броню потолще.",
+    "en": "The people of the Northern Vale always find their own way. Lacking power? Grab a stronger weapon. Lacking defense? Grab stronger armor."
+   },
+   "liquipedia": "Brute_Force_Breastplate",
+   "upgrade": 700,
+   "into": []
+  },
+  {
+   "id": 3207,
+   "slug": "immortality",
+   "en": "Immortality",
+   "ru": "Бессмертие",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2120,
+   "components": [
+    2201,
+    1201,
+    1202
+   ],
+   "stats": [
+    [
+     "hp",
+     850,
+     ""
+    ],
+    [
+     "physDef",
+     15,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Возрождение",
+    "en": "Revive"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Бессмертный",
+      "en": "Immortal"
+     },
+     "text": {
+      "ru": "Через 2,5 с после смерти герой возрождается с 16% ОЗ и щитом на 150 (+70 × уровень героя) урона на 3 с. Перезарядка 210 с.",
+      "en": "Revive 2.5s after death with 16% HP and a shield absorbing 150 (+70 × hero level) damage for 3s. 210s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Тысячу лет храбрость была им копьём, а чувства — щитом, и люди поняли: бессмертие не во времени, а в чести и подвигах.",
+    "en": "After a thousand years with courage as their spear and emotion as their shield, humans learned that immortality lies not in time but in honor and achievement."
+   },
+   "liquipedia": "Immortality",
+   "upgrade": 900,
+   "into": []
+  },
+  {
+   "id": 3206,
+   "slug": "dominance-ice",
+   "en": "Dominance Ice",
+   "ru": "Господство льда",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2010,
+   "components": [
+    2204,
+    1202,
+    1203
+   ],
+   "stats": [
+    [
+     "physDef",
+     40,
+     ""
+    ],
+    [
+     "magicDef",
+     40,
+     ""
+    ],
+    [
+     "move",
+     5,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Снижение исцеления",
+    "en": "Anti-heal"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Щит крепости",
+      "en": "Fortress Shield"
+     },
+     "text": {
+      "ru": "За каждого вражеского героя в радиусе 5 единиц физическая и магическая защита растут на 8, до 40.",
+      "en": "For each enemy hero within 5 units, Physical and Magic Defense increase by 8, up to 40."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Гибель жизни",
+      "en": "Lifebane"
+     },
+     "text": {
+      "ru": "Снижает щиты и регенерацию ОЗ врагов в радиусе 5 единиц до 60% на 1 с.",
+      "en": "Reduces Shield and HP Regen of enemies within 5 units to 60% of normal for 1s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Щит из Лебединого замка напоминает о славном прошлом принца Алвина, отказавшегося от трона ради любви.",
+    "en": "A shield kept in Swan Castle, a reminder of the gallant past of Prince Alvin, who gave up his throne for love."
+   },
+   "liquipedia": "Dominance_Ice",
+   "upgrade": 790,
+   "into": []
+  },
+  {
+   "id": 3205,
+   "slug": "athenas-shield",
+   "en": "Athena's Shield",
+   "ru": "Щит валькирии",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2150,
+   "components": [
+    2203,
+    1201
+   ],
+   "stats": [
+    [
+     "hp",
+     900,
+     ""
+    ],
+    [
+     "magicDef",
+     48,
+     ""
+    ],
+    [
+     "hpRegen",
+     2,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Сопротивл. разруш. маг. урону",
+    "en": "Against burst magic"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Щит",
+      "en": "Shield"
+     },
+     "text": {
+      "ru": "При получении магического урона от навыков или базовых атак вражеских героев получаемый магический урон снижается на 25% на 3 с, включая сам этот удар. Эффект восстанавливается через 5 с вне боя.",
+      "en": "Taking Magic Damage from enemy hero skills or Basic Attacks reduces Magic Damage taken by 25% for 3s, including the triggering hit. Recharges 5s after leaving combat."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Сила валькирий, воспетая в Вине поэзии, — вечная защита Вальхаллы для северных племён.",
+    "en": "The power of the Valkyries, recorded in the Wine of Poetry, stands for Valhalla’s eternal protection of the northern tribes."
+   },
+   "liquipedia": "Athena's_Shield",
+   "upgrade": 830,
+   "into": []
+  },
+  {
+   "id": 3204,
+   "slug": "oracle",
+   "en": "Oracle",
+   "ru": "Оракул",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 1860,
+   "components": [
+    1201,
+    1205,
+    1205
+   ],
+   "stats": [
+    [
+     "hp",
+     850,
+     ""
+    ],
+    [
+     "physDef",
+     20,
+     ""
+    ],
+    [
+     "magicDef",
+     20,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Усиление регенерации",
+    "en": "Stronger healing"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Благословение",
+      "en": "Bless"
+     },
+     "text": {
+      "ru": "Получаемые щиты и регенерация ОЗ сильнее на 25%.",
+      "en": "Shields and HP Regen received are increased by 25%."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Эльфы грелись в лунном свете, что пробивался сквозь Древо Жизни, и его пышная зелень стала лучшим толкованием божественного пророчества.",
+    "en": "As the Elves basked in moonlight shining through the Tree of Life, its lush leaves became the best interpretation of the divine oracle."
+   },
+   "liquipedia": "Oracle",
+   "upgrade": 660,
+   "into": []
+  },
+  {
+   "id": 3203,
+   "slug": "antique-cuirass",
+   "en": "Antique Cuirass",
+   "ru": "Древняя кираса",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2170,
+   "components": [
+    2201,
+    2205
+   ],
+   "stats": [
+    [
+     "hp",
+     920,
+     ""
+    ],
+    [
+     "physDef",
+     40,
+     ""
+    ],
+    [
+     "hpRegen",
+     4,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Снижение физ. АТК",
+    "en": "Lowers enemy Physical Attack"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Сдерживание",
+      "en": "Deter"
+     },
+     "text": {
+      "ru": "Получив урон от навыка, герой снижает физический урон атакующего на 6% на 2 с, до 3 раз.",
+      "en": "When hit by a skill, reduce the attacker’s Physical Damage by 6% for 2s, stacking up to 3 times."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Захватив Бесплодные земли, люди нашли у орков эту древнюю броню: технологии в ней куда совершеннее, а сила чудесна.",
+    "en": "After taking the Barren Lands, humans found this ancient armor among the Orcs, built with far more advanced technology and holding a miraculous power."
+   },
+   "liquipedia": "Antique_Cuirass",
+   "upgrade": 740,
+   "into": []
+  },
+  {
+   "id": 3202,
+   "slug": "guardian-helmet",
+   "en": "Guardian Helmet",
+   "ru": "Защитный шлем",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2500,
+   "components": [
+    2201,
+    2201
+   ],
+   "stats": [
+    [
+     "hp",
+     1800,
+     ""
+    ],
+    [
+     "hpRegen",
+     20,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Постоянная реген. ОЗ",
+    "en": "Constant HP regen"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Восстановление",
+      "en": "Recovery"
+     },
+     "text": {
+      "ru": "Через 5 с вне боя восстанавливает 2,5% общих ОЗ в секунду.",
+      "en": "After 5s out of combat, recover 2.5% of Total HP per second."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Защитник",
+      "en": "Defender"
+     },
+     "text": {
+      "ru": "Получив за один удар больше 500 урона, герой восстанавливает 30 (+0,3% общих ОЗ)% от урона сверх этого порога.",
+      "en": "When a single hit deals more than 500 damage, recover 30 (+0.3% Total HP)% of the damage above that amount as HP."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Эльфы благословили этот доспех, сражаясь бок о бок с людьми, и он обрёл небывалую целебную силу.",
+    "en": "Blessed by the Elves as they fought alongside humans, the armor holds an extraordinary healing power."
+   },
+   "liquipedia": "Guardian_Helmet",
+   "upgrade": 1100,
+   "into": []
+  },
+  {
+   "id": 2201,
+   "slug": "ares-belt",
+   "en": "Ares Belt",
+   "ru": "Пояс Ареса",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 700,
+   "components": [
+    1201
+   ],
+   "stats": [
+    [
+     "hp",
+     600,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Ares_Belt",
+   "upgrade": 400,
+   "into": [
+    3208,
+    3207,
+    3203,
+    3202,
+    2208,
+    2212,
+    3201,
+    3212
+   ]
+  },
+  {
+   "id": 2202,
+   "slug": "molten-essence",
+   "en": "Molten Essence",
+   "ru": "Расплавленная субстанция",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 800,
+   "components": [
+    1201
+   ],
+   "stats": [
+    [
+     "hp",
+     540,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Горящая душа",
+      "en": "Burning Soul"
+     },
+     "text": {
+      "ru": "Каждую секунду наносит ближайшим врагам магический урон в размере 0,6% общих ОЗ героя. По монстрам и миньонам урон выше на 125% (+15% × уровень героя).",
+      "en": "Deals Magic Damage equal to 0.6% of Total HP per second to nearby enemies, increased by 125% (+15% × hero level) against creeps and minions."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Molten_Essence",
+   "upgrade": 500,
+   "into": [
+    3201
+   ]
+  },
+  {
+   "id": 2203,
+   "slug": "silence-robe",
+   "en": "Silence Robe",
+   "ru": "Роба тишины",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 1020,
+   "components": [
+    1201,
+    1203
+   ],
+   "stats": [
+    [
+     "hp",
+     540,
+     ""
+    ],
+    [
+     "magicDef",
+     23,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Silence_Robe",
+   "upgrade": 500,
+   "into": [
+    3210,
+    3205
+   ]
+  },
+  {
+   "id": 2204,
+   "slug": "black-ice-shield",
+   "en": "Black Ice Shield",
+   "ru": "Щит из черного льда",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 780,
+   "components": [
+    1202,
+    1203
+   ],
+   "stats": [
+    [
+     "physDef",
+     20,
+     ""
+    ],
+    [
+     "magicDef",
+     20,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Щит крепости",
+      "en": "Fortress Shield"
+     },
+     "text": {
+      "ru": "За каждого вражеского героя в радиусе 5 единиц физическая и магическая защита растут на 4, до 20.",
+      "en": "For each enemy hero within 5 units, Physical and Magic Defense increase by 4, up to 20."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Black_Ice_Shield",
+   "upgrade": 340,
+   "into": [
+    3206
+   ]
+  },
+  {
+   "id": 2205,
+   "slug": "dreadnaught-armor",
+   "en": "Dreadnaught Armor",
+   "ru": "Броня неустрашимости",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 730,
+   "components": [
+    1202,
+    1202
+   ],
+   "stats": [
+    [
+     "physDef",
+     30,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Сдерживание",
+      "en": "Deter"
+     },
+     "text": {
+      "ru": "Получив урон от навыка, герой снижает физический урон атакующего на 4% на 2 с, до 3 раз.",
+      "en": "When hit by a skill, reduce the attacker’s Physical Damage by 4% for 2s, stacking up to 3 times."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Dreadnaught_Armor",
+   "upgrade": 290,
+   "into": [
+    3203
+   ]
+  },
+  {
+   "id": 2206,
+   "slug": "steel-legplates",
+   "en": "Steel Legplates",
+   "ru": "Стальные ножные латы",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 630,
+   "components": [
+    1202
+   ],
+   "stats": [
+    [
+     "physDef",
+     35,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Steel_Legplates",
+   "upgrade": 410,
+   "into": [
+    2207,
+    3212
+   ]
+  },
+  {
+   "id": 2207,
+   "slug": "blade-armor",
+   "en": "Blade Armor",
+   "ru": "Шипованная броня",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 1910,
+   "components": [
+    2206,
+    1202,
+    1202
+   ],
+   "stats": [
+    [
+     "critReduce",
+     20,
+     "%"
+    ],
+    [
+     "physDef",
+     80,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Отражение урона",
+    "en": "Reflects damage"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Шипы",
+      "en": "Bladed Armor"
+     },
+     "text": {
+      "ru": "Получив базовую атаку, герой наносит атакующему физический урон в размере 30 (+2% общей физ. защиты)% от входящего урона (до снижения) и замедляет его на 15% на 1 с.",
+      "en": "When struck by a Basic Attack, deal Physical Damage equal to 30 (+2% Total Physical Defense)% of the incoming damage (before reduction) to the attacker and slow them by 15% for 1s."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Самый стойкий и бесстрашный рыцарь Империи Мониян сокрушал в ней врагов несгибаемой волей.",
+    "en": "The toughest and most fearless knight of the Moniyan Empire once wore it to overpower enemies with an unyielding will."
+   },
+   "liquipedia": "Blade_Armor",
+   "upgrade": 840,
+   "into": []
+  },
+  {
+   "id": 2208,
+   "slug": "queens-wings",
+   "en": "Queen's Wings",
+   "ru": "Крылья королевы",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2250,
+   "components": [
+    1008,
+    2201,
+    1205
+   ],
+   "stats": [
+    [
+     "hp",
+     750,
+     ""
+    ],
+    [
+     "adaptive",
+     30,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ],
+    [
+     "spellVamp",
+     10,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Противодействие при низких ОЗ",
+    "en": "Survive at low HP"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Демонизация",
+      "en": "Demonize"
+     },
+     "text": {
+      "ru": "Когда ОЗ падают ниже 40%, на 3 с получаемый урон снижается на 30%, а перезарядка навыков сокращается на 2 с. Перезарядка 60 с.",
+      "en": "When HP drops below 40%, gain 30% Damage Reduction for 3s and reduce skill cooldowns by 2s. 60s cooldown."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Непокорность",
+      "en": "Defiance"
+     },
+     "text": {
+      "ru": "За каждый потерянный 1% ОЗ урон растёт на 0,25%, до 15%.",
+      "en": "For every 1% HP lost, damage increases by 0.25%, up to 15%."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Королева отдала свою кровь обитателям Бездны, и дикое подземное царство расцвело под её крыльями.",
+    "en": "The Queen offered her royal blood to the dwellers of the Abyss, and the once savage underground kingdom thrived under her wings."
+   },
+   "liquipedia": "Queen's_Wings",
+   "upgrade": 600,
+   "into": []
+  },
+  {
+   "id": 2212,
+   "slug": "thunder-belt",
+   "en": "Thunder Belt",
+   "ru": "Штормовой пояс",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 1820,
+   "components": [
+    2201,
+    1202,
+    1203
+   ],
+   "stats": [
+    [
+     "hp",
+     600,
+     ""
+    ],
+    [
+     "physDef",
+     15,
+     ""
+    ],
+    [
+     "magicDef",
+     15,
+     ""
+    ],
+    [
+     "move",
+     20,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Урон для танков",
+    "en": "Damage for tanks"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Удар грома",
+      "en": "Thunderbolt"
+     },
+     "text": {
+      "ru": "Раз в 4 с следующая базовая атака наносит цели и врагам рядом 50 (+100% доп. физ. защиты, +100% доп. маг. защиты) чистого урона и на миг замедляет их на 99%. Каждое попадание по герою навсегда даёт +1 гибридной защиты. У стрелков и магов эффект вдвое слабее.",
+      "en": "Every 4s, the next Basic Attack deals 50 (+100% extra Physical Defense, +100% extra Magic Defense) True Damage to the target and nearby enemies and briefly slows them by 99%. Each hit on a hero permanently adds 1 Hybrid Defense. Halved for Marksmen and Mages."
+     }
+    }
+   ],
+   "story": {
+    "ru": "Пророк Магии заключил силу молнии в пояс и уравновесил в нём нападение и защиту. Теперь он хранится в Магической академии.",
+    "en": "The Prophet of Magic imbued the power of lightning into a belt, balancing attack and defense. It is now kept in the vault of the Magic Academy."
+   },
+   "liquipedia": "Thunder_Belt",
+   "upgrade": 680,
+   "into": []
+  },
+  {
+   "id": 3201,
+   "slug": "cursed-helmet",
+   "en": "Cursed Helmet",
+   "ru": "Проклятый шлем",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 1910,
+   "components": [
+    2201,
+    2202,
+    1203
+   ],
+   "stats": [
+    [
+     "hp",
+     1200,
+     ""
+    ],
+    [
+     "magicDef",
+     20,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Выживаемость и зачистка линий",
+    "en": "Waveclear and durability"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Горящая душа",
+      "en": "Burning Soul"
+     },
+     "text": {
+      "ru": "Каждую секунду наносит ближайшим врагам магический урон в размере 1,2% общих ОЗ героя. По монстрам и миньонам урон выше на 125% (+15% × уровень героя).",
+      "en": "Deals Magic Damage equal to 1.2% of Total HP per second to nearby enemies, increased by 125% (+15% × hero level) against creeps and minions."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Проклятие",
+      "en": "Curse"
+     },
+     "text": {
+      "ru": "Урон «Горящей души» снижает гибридную защиту цели на 3 на 3 с, до 3 раз.",
+      "en": "Burning Soul damage reduces the target’s Hybrid Defense by 3 for 3s, stacking up to 3 times."
+     }
+    }
+   ],
+   "story": {
+    "ru": "В Кровавых демонах дремлет иная природа, что долгими ночами оборачивается одиночеством. Это проклятие держит их между Светом и Тьмой.",
+    "en": "An altered nature lies dormant within the Blood Demons, turning into loneliness during long nights. It is a curse that keeps them between Light and Dark."
+   },
+   "liquipedia": "Cursed_Helmet",
+   "upgrade": 190,
+   "into": []
+  },
+  {
+   "id": 10001,
+   "slug": "lantern-of-hope",
+   "en": "Lantern of Hope",
+   "ru": "Фонарь надежды",
+   "cats": [
+    "magic"
+   ],
+   "kind": "special",
+   "cost": 0,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Фонарь надежды",
+      "en": "Lantern of Hope"
+     },
+     "text": {
+      "ru": "Стартовый предмет Флорин, занимает слот. Характеристики растут с уровнем героя.",
+      "en": "Floryn’s default item, takes a slot. Its attributes scale with hero level."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Lantern_of_Hope",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 10003,
+   "slug": "flower-of-hope",
+   "en": "Flower of Hope",
+   "ru": "Цветок надежды",
+   "cats": [
+    "magic"
+   ],
+   "kind": "special",
+   "cost": 0,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Цветок надежды",
+      "en": "Flower of Hope"
+     },
+     "text": {
+      "ru": "Его Флорин передаёт союзникам, слот не занимает. Раз в 6 с навык или базовая атака наносит 60 (+30% общей физ. атаки, +30% общей маг. силы) магического урона.",
+      "en": "Floryn shares it with allies; it takes no slot. Every 6s a skill or Basic Attack deals 60 (+30% Total Physical Attack, +30% Total Magic Power) Magic Damage."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Flower_of_Hope",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 3212,
+   "slug": "chastise-pauldron",
+   "en": "Chastise Pauldron",
+   "ru": "Наплечник наказания",
+   "cats": [
+    "defense"
+   ],
+   "kind": "final",
+   "cost": 2100,
+   "components": [
+    2201,
+    2206
+   ],
+   "stats": [
+    [
+     "hp",
+     900,
+     ""
+    ],
+    [
+     "physDef",
+     40,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Снижает скорость атаки врага",
+    "en": "Slows enemy attacks"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Наказание",
+      "en": "Chastise"
+     },
+     "text": {
+      "ru": "Получая урон, герой снижает скорость атаки атакующего и её предел до 75% на 2 с.",
+      "en": "Taking damage reduces the attacker’s Attack Speed and Attack Speed cap to 75% for 2s."
+     }
+    },
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Искупление",
+      "en": "Redemption"
+     },
+     "text": {
+      "ru": "Если урон опускает ОЗ ниже 30%, за 2 с восстанавливается 20% макс. ОЗ. Перезарядка 60 с.",
+      "en": "When damage drops HP below 30%, recover 20% Max HP over 2s. 60s cooldown."
+     }
+    }
+   ],
+   "story": {
+    "ru": "На западе Земель Рассвета, среди Туманных гор, страж-кентавр надевает священный наплечник, чтобы покарать любого захватчика.",
+    "en": "In the western reaches of the Land of Dawn, among the Misty Mountains, a centaur guardian dons the sacred pauldron to punish any invader."
+   },
+   "liquipedia": "Chastise_Pauldron",
+   "upgrade": 770,
+   "into": []
+  },
+  {
+   "id": 1113,
+   "slug": "allow-throw",
+   "en": "Allow Throw",
+   "ru": "Разрешение броска",
+   "cats": [
+    "movement"
+   ],
+   "kind": "special",
+   "cost": 0,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Доверие",
+      "en": "Trust"
+     },
+     "text": {
+      "ru": "Союзный Кусака снова может бросать героя.",
+      "en": "Allows allied Jawhead to fling you."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Allow_Throw",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 1111,
+   "slug": "throw-forbidden",
+   "en": "Throw Forbidden",
+   "ru": "Запрет броска",
+   "cats": [
+    "movement"
+   ],
+   "kind": "special",
+   "cost": 0,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Тяжёлая гора",
+      "en": "Heavy Mountain"
+     },
+     "text": {
+      "ru": "До конца матча союзный Кусака не может подхватить и бросить героя.",
+      "en": "Become immune to allied Jawhead’s Ejector for the rest of the match."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Throw_Forbidden",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 1112,
+   "slug": "broken-heart",
+   "en": "Broken Heart",
+   "ru": "Разбитое сердце",
+   "cats": [
+    "movement"
+   ],
+   "kind": "special",
+   "cost": 0,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Разбитое сердце",
+      "en": "Heart Broken"
+     },
+     "text": {
+      "ru": "Есть только у Кармиллы в команде с Сесилионом. До конца матча Сесилион не может применить к ней «Лунный вальс».",
+      "en": "Only for Carmilla with Cecilion on the team: Cecilion cannot use Moonlit Waltz on her for the rest of the match."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Broken_Heart",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 2308,
+   "slug": "demon-boots",
+   "en": "Demon Boots",
+   "ru": "Ботинки демона",
+   "cats": [
+    "movement"
+   ],
+   "kind": "final",
+   "cost": 720,
+   "components": [
+    1103,
+    1103,
+    1301
+   ],
+   "stats": [
+    [
+     "move",
+     40,
+     ""
+    ],
+    [
+     "manaRegen",
+     10,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Быстрая регенерация маны",
+    "en": "Fast Mana regen"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Мистика",
+      "en": "Mysticism"
+     },
+     "text": {
+      "ru": "Убийство вражеского миньона или помощь в нём восстанавливают 4% маны. Помощь засчитывается, если миньон погиб в течение 2 с после вашего урона.",
+      "en": "A kill or assist on an enemy minion restores 4% Mana (an assist counts if the minion dies within 2s after your damage)."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Demon_Boots",
+   "upgrade": 230,
+   "into": []
+  },
+  {
+   "id": 2301,
+   "slug": "warrior-boots",
+   "en": "Warrior Boots",
+   "ru": "Сапоги воина",
+   "cats": [
+    "movement"
+   ],
+   "kind": "final",
+   "cost": 720,
+   "components": [
+    1301,
+    1202
+   ],
+   "stats": [
+    [
+     "move",
+     40,
+     ""
+    ],
+    [
+     "physDef",
+     18,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Накапливаемая физ. защита",
+    "en": "Stacking Physical Defense"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Доблесть",
+      "en": "Valor"
+     },
+     "text": {
+      "ru": "Получение физического урона даёт +4 физической защиты на 3 с, до 20.",
+      "en": "Taking Physical Damage grants 4 Physical Defense for 3s, up to 20."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Warrior_Boots",
+   "upgrade": 250,
+   "into": []
+  },
+  {
+   "id": 2306,
+   "slug": "rapid-boots",
+   "en": "Rapid Boots",
+   "ru": "Сапоги-скороходы",
+   "cats": [
+    "movement"
+   ],
+   "kind": "final",
+   "cost": 720,
+   "components": [
+    1301,
+    1204
+   ],
+   "stats": [
+    [
+     "move",
+     65,
+     ""
+    ],
+    [
+     "slowReduce",
+     35,
+     "%"
+    ],
+    [
+     "hpRegen",
+     12,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Высокая скорость передвижения",
+    "en": "High Movement Speed"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Побочный эффект",
+      "en": "Side Effect"
+     },
+     "text": {
+      "ru": "Нанесение или получение урона снижает скорость передвижения на 20 на 5 с.",
+      "en": "Dealing or taking damage reduces Movement Speed by 20 for 5s."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Rapid_Boots",
+   "upgrade": 330,
+   "into": []
+  },
+  {
+   "id": 2305,
+   "slug": "swift-boots",
+   "en": "Swift Boots",
+   "ru": "Сапоги спешки",
+   "cats": [
+    "movement"
+   ],
+   "kind": "final",
+   "cost": 720,
+   "components": [
+    1002,
+    1301
+   ],
+   "stats": [
+    [
+     "move",
+     40,
+     ""
+    ],
+    [
+     "attackSpeed",
+     15,
+     "%"
+    ]
+   ],
+   "short": {
+    "ru": "Скорость АТК",
+    "en": "Attack Speed"
+   },
+   "effects": [],
+   "story": null,
+   "liquipedia": "Swift_Boots",
+   "upgrade": 190,
+   "into": []
+  },
+  {
+   "id": 2304,
+   "slug": "arcane-boots",
+   "en": "Arcane Boots",
+   "ru": "Сапоги заклинателя",
+   "cats": [
+    "movement"
+   ],
+   "kind": "final",
+   "cost": 720,
+   "components": [
+    1101,
+    1301
+   ],
+   "stats": [
+    [
+     "move",
+     40,
+     ""
+    ],
+    [
+     "magic",
+     15,
+     ""
+    ],
+    [
+     "magicPen",
+     10,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Маг. проникновение",
+    "en": "Magic Penetration"
+   },
+   "effects": [],
+   "story": null,
+   "liquipedia": "Arcane_Boots",
+   "upgrade": 170,
+   "into": []
+  },
+  {
+   "id": 2303,
+   "slug": "magic-boots",
+   "en": "Magic Boots",
+   "ru": "Магические ботинки",
+   "cats": [
+    "movement"
+   ],
+   "kind": "final",
+   "cost": 720,
+   "components": [
+    1301,
+    1205
+   ],
+   "stats": [
+    [
+     "move",
+     40,
+     ""
+    ],
+    [
+     "cdr",
+     10,
+     "%"
+    ],
+    [
+     "hp",
+     150,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Сокращение перезарядки",
+    "en": "Cooldown Reduction"
+   },
+   "effects": [],
+   "story": null,
+   "liquipedia": "Magic_Boots",
+   "upgrade": 20,
+   "into": []
+  },
+  {
+   "id": 2302,
+   "slug": "tough-boots",
+   "en": "Tough Boots",
+   "ru": "Прочные сапоги",
+   "cats": [
+    "movement"
+   ],
+   "kind": "final",
+   "cost": 720,
+   "components": [
+    1301,
+    1203
+   ],
+   "stats": [
+    [
+     "move",
+     40,
+     ""
+    ],
+    [
+     "magicDef",
+     18,
+     ""
+    ]
+   ],
+   "short": {
+    "ru": "Сокращение длительности контроля",
+    "en": "Shorter crowd control"
+   },
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Стойкость",
+      "en": "Fortitude"
+     },
+     "text": {
+      "ru": "Длительность контроля и замедлений на герое короче на 25%.",
+      "en": "Crowd control and slow duration reduced by 25%."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Tough_Boots",
+   "upgrade": 250,
+   "into": []
+  },
+  {
+   "id": 1301,
+   "slug": "boots",
+   "en": "Boots",
+   "ru": "Ботинки",
+   "cats": [
+    "movement"
+   ],
+   "kind": "part",
+   "cost": 250,
+   "components": [],
+   "stats": [
+    [
+     "move",
+     20,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Boots",
+   "upgrade": 0,
+   "into": [
+    2308,
+    2301,
+    2306,
+    2305,
+    2304,
+    2303,
+    2302
+   ]
+  },
+  {
+   "id": 1210,
+   "slug": "rock-potion",
+   "en": "Rock Potion",
+   "ru": "Зелье стойкости",
+   "cats": [
+    "defense"
+   ],
+   "kind": "potion",
+   "cost": 1500,
+   "components": [],
+   "stats": [],
+   "short": null,
+   "effects": [
+    {
+     "kind": "passive",
+     "name": {
+      "ru": "Усиление",
+      "en": "Increase Power"
+     },
+     "text": {
+      "ru": "Сразу после покупки даёт +500 макс. ОЗ и 5% снижения урона на 120 с.",
+      "en": "Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120s."
+     }
+    }
+   ],
+   "story": null,
+   "liquipedia": "Rock_Potion",
+   "upgrade": 0,
+   "into": []
+  },
+  {
+   "id": 1201,
+   "slug": "vitality-crystal",
+   "en": "Vitality Crystal",
+   "ru": "Кристалл здоровья",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 300,
+   "components": [],
+   "stats": [
+    [
+     "hp",
+     230,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Vitality_Crystal",
+   "upgrade": 0,
+   "into": [
+    2002,
+    2107,
+    3112,
+    3105,
+    3103,
+    2105,
+    3207,
+    3205,
+    3204,
+    2201,
+    2202,
+    2203
+   ]
+  },
+  {
+   "id": 1202,
+   "slug": "leather-jerkin",
+   "en": "Leather Jerkin",
+   "ru": "Кожаная броня",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 220,
+   "components": [],
+   "stats": [
+    [
+     "physDef",
+     14,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Leather_Jerkin",
+   "upgrade": 0,
+   "into": [
+    3208,
+    3207,
+    3206,
+    2204,
+    2205,
+    2206,
+    2207,
+    2212,
+    2301
+   ]
+  },
+  {
+   "id": 1203,
+   "slug": "magic-resist-cloak",
+   "en": "Magic Resist Cloak",
+   "ru": "Плащ сопротивления магии",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 220,
+   "components": [],
+   "stats": [
+    [
+     "magicDef",
+     14,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Magic_Resist_Cloak",
+   "upgrade": 0,
+   "into": [
+    3210,
+    3206,
+    2203,
+    2204,
+    2212,
+    3201,
+    2302
+   ]
+  },
+  {
+   "id": 1204,
+   "slug": "healing-necklace",
+   "en": "Healing Necklace",
+   "ru": "Исцеляющее ожерелье",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 140,
+   "components": [],
+   "stats": [
+    [
+     "hpRegen",
+     4,
+     ""
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Healing_Necklace",
+   "upgrade": 0,
+   "into": [
+    3210,
+    2306
+   ]
+  },
+  {
+   "id": 1205,
+   "slug": "heros-ring",
+   "en": "Hero's Ring",
+   "ru": "Кольцо героя",
+   "cats": [
+    "defense"
+   ],
+   "kind": "part",
+   "cost": 450,
+   "components": [],
+   "stats": [
+    [
+     "hp",
+     150,
+     ""
+    ],
+    [
+     "cdr",
+     5,
+     "%"
+    ]
+   ],
+   "short": null,
+   "effects": [],
+   "story": null,
+   "liquipedia": "Hero's_Ring",
+   "upgrade": 0,
+   "into": [
+    2013,
+    3109,
+    2107,
+    3208,
+    3204,
+    2208,
+    2303
+   ]
+  }
+ ]
+}

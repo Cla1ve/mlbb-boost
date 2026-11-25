@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/melissa.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Melissa hero art](/images/heroes/art/melissa.webp)
 
@@ -73,22 +73,42 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/3005.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/3005.webp)
 
     Windtalker
 
--   ![](/images/mlbb/items/3002.webp)
 
-    Haas' Claws
 
--   ![](/images/mlbb/items/3003.webp)
+    ](https://boostmlbb.ru/en/items/windtalker.html)
+-   [
+
+    ![](/images/mlbb/items/3002.webp)
+
+    Haas's Claws
+
+
+
+    ](https://boostmlbb.ru/en/items/haas-claws.html)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
 
 #### Spell
 
@@ -123,18 +143,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/2008.webp)
+-   [
+
+    ![](/images/mlbb/items/2008.webp)
 
     Corrosion Scythe
 
--   ![](/images/mlbb/items/2006.webp)
+
+
+    ](https://boostmlbb.ru/en/items/corrosion-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2006.webp)
 
     Demon Hunter Sword
 
--   ![](/images/mlbb/items/2009.webp)
+
+
+    ](https://boostmlbb.ru/en/items/demon-hunter-sword.html)
+-   [
+
+    ![](/images/mlbb/items/2009.webp)
 
     Golden Staff
 
+
+
+    ](https://boostmlbb.ru/en/items/golden-staff.html)
 
 #### Spell
 
@@ -253,4 +288,4 @@ Tier B, #58 of 133 heroes and #11 among marksmen. The tier counts how often the 
 
 What is the best build for Melissa?
 
-The most popular ranked build: Corrosion Scythe, Windtalker, Haas' Claws and Berserker's Fury as core items, the Marksman emblem with Swift, Bargain Hunter and War Cry, and Inspire. It wins 61.18% of matches.
+The most popular ranked build: Corrosion Scythe, Windtalker, Haas's Claws and Berserker's Fury as core items, the Marksman emblem with Swift, Bargain Hunter and War Cry, and Inspire. It wins 61.18% of matches.

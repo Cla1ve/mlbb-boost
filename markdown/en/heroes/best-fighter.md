@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/best-fighter.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB fighters
 
@@ -37,17 +37,31 @@ Ban rate
 
 67.5%
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/2008.webp)
 
 Corrosion Scythe
 
+
+
+](https://boostmlbb.ru/en/items/corrosion-scythe.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Guardian Helmet
+
+
+
+](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -77,17 +91,31 @@ Ban rate
 
 14.6%
 
+[
+
 ![](/images/mlbb/items/3204.webp)
 
 Oracle
+
+
+
+](https://boostmlbb.ru/en/items/oracle.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3109.webp)
 
 Fleeting Time
+
+
+
+](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -117,17 +145,31 @@ Ban rate
 
 11.4%
 
+[
+
 ![](/images/mlbb/items/2009.webp)
 
 Golden Staff
+
+
+
+](https://boostmlbb.ru/en/items/golden-staff.html)[
 
 ![](/images/mlbb/items/2013.webp)
 
 War Axe
 
+
+
+](https://boostmlbb.ru/en/items/war-axe.html)[
+
 ![](/images/mlbb/items/3012.webp)
 
 Rose Gold Meteor
+
+
+
+](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -773,12 +815,12 @@ C
 
 ## What they build most
 
--   ![](/images/mlbb/items/2013.webp)War Axe21 of 44
--   ![](/images/mlbb/items/2208.webp)Queen's Wings15 of 44
--   ![](/images/mlbb/items/3009.webp)Hunter Strike10 of 44
--   ![](/images/mlbb/items/3204.webp)Oracle8 of 44
--   ![](/images/mlbb/items/3208.webp)Brute Force Breastplate8 of 44
--   ![](/images/mlbb/items/3001.webp)Malefic Roar7 of 44
+-   [![](/images/mlbb/items/2013.webp)War Axe21 of 44](https://boostmlbb.ru/en/items/war-axe.html)
+-   [![](/images/mlbb/items/2208.webp)Queen's Wings15 of 44](https://boostmlbb.ru/en/items/queens-wings.html)
+-   [![](/images/mlbb/items/3009.webp)Hunter Strike10 of 44](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3204.webp)Oracle8 of 44](https://boostmlbb.ru/en/items/oracle.html)
+-   [![](/images/mlbb/items/3208.webp)Brute Force Breastplate8 of 44](https://boostmlbb.ru/en/items/brute-force-breastplate.html)
+-   [![](/images/mlbb/items/3001.webp)Malefic Roar7 of 44](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 The three core items of every hero’s most common build. Spell: Flicker on 18 and Vengeance on 9. Assassin on 14, Fighter on 14.
 

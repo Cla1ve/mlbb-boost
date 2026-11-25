@@ -45,18 +45,22 @@ say(`В карте сайта ${entries.length} адресов.`);
 
 // Importance for the recrawl queue: what sells and what people search for first, legal pages and English copies last.
 const heroRank = await readFile('content/heroes.json', 'utf8').then(text => Object.fromEntries(JSON.parse(text).heroes.map(hero => [hero.slug, hero.rank]))).catch(() => ({}));
+const itemKind = await readFile('content/items.json', 'utf8').then(text => Object.fromEntries(JSON.parse(text).items.map(item => [item.slug, item.kind]))).catch(() => ({}));
 const newsDate = Object.fromEntries(entries.filter(entry => /\/news\/[^/]+\/$/.test(entry.url)).map(entry => [entry.url, entry.lastmod]));
 function priority(url) {
   const path = new URL(url).pathname;
   if (path.startsWith('/en/')) return 900 + (path.includes('/news/') ? 0 : 50);
   if (/^\/(offer|privacy|terms|cookies|disclaimer|refund|security|documents|sitemap-page)\.html$/.test(path)) return 800;
-  const core = ['/', '/prices.html', '/services.html', '/order.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html', '/guides/party-boost.html', '/heroes/', '/news/', '/reviews.html', '/faq.html', '/about.html'];
+  const core = ['/', '/prices.html', '/services.html', '/order.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html', '/guides/party-boost.html', '/heroes/', '/items/', '/news/', '/reviews.html', '/faq.html', '/about.html'];
   if (core.includes(path)) return core.indexOf(path);
   // Ranking lists (best junglers, heroes for beginners): right after the core pages, they are the entry points for hero searches.
   if (/^\/heroes\/(best-[a-z]+|for-beginners)\.html$/.test(path)) return 20;
   if (newsDate[url]) return 100 + (1 - Date.parse(newsDate[url]) / 1e13);
   const hero = path.match(/^\/heroes\/([a-z0-9-]+)\.html$/);
   if (hero) return 200 + (heroRank[hero[1]] || 150);
+  // Item pages: finished items first (people search for them by name), parts after.
+  const item = path.match(/^/items/([a-z0-9-]+).html$/);
+  if (item) return itemKind[item[1]] === 'part' ? 380 : 360;
   return 500;
 }
 

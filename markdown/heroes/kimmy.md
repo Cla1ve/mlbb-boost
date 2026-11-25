@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kimmy.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кимми](/images/heroes/art/kimmy.webp)
 
@@ -75,18 +75,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
 
 #### Заклинание
 
@@ -121,18 +136,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Божественный меч
 
+
+
+    ](https://boostmlbb.ru/items/divine-glaive.html)
 
 #### Заклинание
 
@@ -167,18 +197,33 @@ A
 
 #### Основные предметы
 
--   ![](/images/mlbb/items/2108.webp)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Райское перо
 
--   ![](/images/mlbb/items/2014.webp)
+
+
+    ](https://boostmlbb.ru/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/2014.webp)
 
     Пронзающий небеса
 
--   ![](/images/mlbb/items/3103.webp)
+
+
+    ](https://boostmlbb.ru/items/sky-piercer.html)
+-   [
+
+    ![](/images/mlbb/items/3103.webp)
 
     Концентрированная энергия
 
+
+
+    ](https://boostmlbb.ru/items/concentrated-energy.html)
 
 #### Заклинание
 

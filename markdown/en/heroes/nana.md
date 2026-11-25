@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/nana.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Nana hero art](/images/heroes/art/nana.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3105.webp)
+-   [
+
+    ![](/images/mlbb/items/3105.webp)
 
     Glowing Wand
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/en/items/glowing-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Divine Glaive
 
--   ![](/images/mlbb/items/2112.webp)
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+-   [
+
+    ![](/images/mlbb/items/2112.webp)
 
     Wishing Lantern
 
+
+
+    ](https://boostmlbb.ru/en/items/wishing-lantern.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3108.webp)
+-   [
+
+    ![](/images/mlbb/items/3108.webp)
 
     Blood Wings
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/blood-wings.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
--   ![](/images/mlbb/items/3111.webp)
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
 
 #### Spell
 

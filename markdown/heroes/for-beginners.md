@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/for-beginners.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 # Лучшие герои для новичков в MLBB
 
@@ -37,17 +37,31 @@ S
 
 30
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Штормовой пояс
+
+
+
+](https://boostmlbb.ru/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/2008.webp)
 
 Коса коррозии
 
+
+
+](https://boostmlbb.ru/items/corrosion-scythe.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Защитный шлем
+
+
+
+](https://boostmlbb.ru/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -77,17 +91,31 @@ S
 
 30
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Штормовой пояс
+
+
+
+](https://boostmlbb.ru/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Господство льда
 
+
+
+](https://boostmlbb.ru/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3112.webp)
 
 Фляга Оазиса
+
+
+
+](https://boostmlbb.ru/items/flask-of-the-oasis.html)
 
 ![](/images/mlbb/emblems/20008.webp)
 
@@ -117,17 +145,31 @@ S
 
 10
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Штормовой пояс
+
+
+
+](https://boostmlbb.ru/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Господство льда
 
+
+
+](https://boostmlbb.ru/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Защитный шлем
+
+
+
+](https://boostmlbb.ru/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 

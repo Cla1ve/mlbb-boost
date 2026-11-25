@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kagura hero art](/images/heroes/art/kagura.webp)
 
@@ -74,18 +74,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Divine Glaive
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
 
 #### Spell
 
@@ -120,18 +135,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Divine Glaive
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
 
 #### Spell
 
@@ -166,18 +196,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3111.webp)
+-   [
+
+    ![](/images/mlbb/items/3111.webp)
 
     Genius Wand
 
--   ![](/images/mlbb/items/3101.webp)
+
+
+    ](https://boostmlbb.ru/en/items/genius-wand.html)
+-   [
+
+    ![](/images/mlbb/items/3101.webp)
 
     Divine Glaive
 
--   ![](/images/mlbb/items/3110.webp)
+
+
+    ](https://boostmlbb.ru/en/items/divine-glaive.html)
+-   [
+
+    ![](/images/mlbb/items/3110.webp)
 
     Lightning Truncheon
 
+
+
+    ](https://boostmlbb.ru/en/items/lightning-truncheon.html)
 
 #### Spell
 

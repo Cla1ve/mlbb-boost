@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/baxia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Baxia hero art](/images/heroes/art/baxia.webp)
 
@@ -75,18 +75,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Cursed Helmet
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/en/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
 
 #### Spell
 
@@ -121,18 +136,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3203.webp)
+-   [
+
+    ![](/images/mlbb/items/3203.webp)
 
     Antique Cuirass
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/antique-cuirass.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
--   ![](/images/mlbb/items/3207.webp)
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
+-   [
+
+    ![](/images/mlbb/items/3207.webp)
 
     Immortality
 
+
+
+    ](https://boostmlbb.ru/en/items/immortality.html)
 
 #### Spell
 
@@ -167,18 +197,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3201.webp)
+-   [
+
+    ![](/images/mlbb/items/3201.webp)
 
     Cursed Helmet
 
--   ![](/images/mlbb/items/3212.webp)
+
+
+    ](https://boostmlbb.ru/en/items/cursed-helmet.html)
+-   [
+
+    ![](/images/mlbb/items/3212.webp)
 
     Chastise Pauldron
 
--   ![](/images/mlbb/items/3210.webp)
+
+
+    ](https://boostmlbb.ru/en/items/chastise-pauldron.html)
+-   [
+
+    ![](/images/mlbb/items/3210.webp)
 
     Radiant Armor
 
+
+
+    ](https://boostmlbb.ru/en/items/radiant-armor.html)
 
 #### Spell
 

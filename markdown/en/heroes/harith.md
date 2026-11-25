@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Harith hero art](/images/heroes/art/harith.webp)
 
@@ -73,18 +73,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3106.webp)
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
 
     Starlium Scythe
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 
@@ -119,18 +134,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3106.webp)
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
 
     Starlium Scythe
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 
@@ -165,18 +195,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3106.webp)
+-   [
+
+    ![](/images/mlbb/items/3106.webp)
 
     Starlium Scythe
 
--   ![](/images/mlbb/items/2108.webp)
+
+
+    ](https://boostmlbb.ru/en/items/starlium-scythe.html)
+-   [
+
+    ![](/images/mlbb/items/2108.webp)
 
     Feather of Heaven
 
--   ![](/images/mlbb/items/3102.webp)
+
+
+    ](https://boostmlbb.ru/en/items/feather-of-heaven.html)
+-   [
+
+    ![](/images/mlbb/items/3102.webp)
 
     Holy Crystal
 
+
+
+    ](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 #### Spell
 

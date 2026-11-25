@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/best-assassin.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB assassins
 
@@ -37,17 +37,31 @@ Ban rate
 
 38.3%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Hunter Strike
+
+
+
+](https://boostmlbb.ru/en/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/3007.webp)
 
 Blade of the Heptaseas
 
+
+
+](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)[
+
 ![](/images/mlbb/items/3001.webp)
 
 Malefic Roar
+
+
+
+](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -77,17 +91,31 @@ Ban rate
 
 84.5%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Hunter Strike
+
+
+
+](https://boostmlbb.ru/en/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Sky Piercer
 
+
+
+](https://boostmlbb.ru/en/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/2013.webp)
 
 War Axe
+
+
+
+](https://boostmlbb.ru/en/items/war-axe.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -117,17 +145,31 @@ Ban rate
 
 10.8%
 
+[
+
 ![](/images/mlbb/items/3009.webp)
 
 Hunter Strike
+
+
+
+](https://boostmlbb.ru/en/items/hunter-strike.html)[
 
 ![](/images/mlbb/items/2014.webp)
 
 Sky Piercer
 
+
+
+](https://boostmlbb.ru/en/items/sky-piercer.html)[
+
 ![](/images/mlbb/items/3001.webp)
 
 Malefic Roar
+
+
+
+](https://boostmlbb.ru/en/items/malefic-roar.html)
 
 ![](/images/mlbb/emblems/20005.webp)
 
@@ -563,12 +605,12 @@ C
 
 ## What they build most
 
--   ![](/images/mlbb/items/3009.webp)Hunter Strike9 of 29
--   ![](/images/mlbb/items/2013.webp)War Axe8 of 29
--   ![](/images/mlbb/items/3001.webp)Malefic Roar7 of 29
--   ![](/images/mlbb/items/3004.webp)Endless Battle6 of 29
--   ![](/images/mlbb/items/3007.webp)Blade of the Heptaseas5 of 29
--   ![](/images/mlbb/items/3102.webp)Holy Crystal5 of 29
+-   [![](/images/mlbb/items/3009.webp)Hunter Strike9 of 29](https://boostmlbb.ru/en/items/hunter-strike.html)
+-   [![](/images/mlbb/items/2013.webp)War Axe8 of 29](https://boostmlbb.ru/en/items/war-axe.html)
+-   [![](/images/mlbb/items/3001.webp)Malefic Roar7 of 29](https://boostmlbb.ru/en/items/malefic-roar.html)
+-   [![](/images/mlbb/items/3004.webp)Endless Battle6 of 29](https://boostmlbb.ru/en/items/endless-battle.html)
+-   [![](/images/mlbb/items/3007.webp)Blade of the Heptaseas5 of 29](https://boostmlbb.ru/en/items/blade-of-the-heptaseas.html)
+-   [![](/images/mlbb/items/3102.webp)Holy Crystal5 of 29](https://boostmlbb.ru/en/items/holy-crystal.html)
 
 The three core items of every hero’s most common build. Spell: Retribution on 16 and Petrify on 5. Assassin on 16, Mage on 7.
 

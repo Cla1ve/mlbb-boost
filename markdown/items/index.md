@@ -1,0 +1,72 @@
+---
+title: "Предметы MLBB: все 97 предметов, цены и сборки | MLBB Boost"
+description: "Все предметы Mobile Legends с ценами из игры: характеристики, пассивки, из чего собирается каждый предмет и какие герои его берут. Атака, магия, защита, ботинки, благословения леса и роума."
+canonical: https://boostmlbb.ru/items/
+language: ru
+---
+
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+
+# Предметы MLBB
+
+97 предметов · цены как в игре на 25 ноября 2026
+
+Найти предмет
+
+ВсеАтакаМагияЗащитаПередвижениеЛесРоум
+
+## Атака
+
+[![](/images/mlbb/items/3015.webp)2 120Губительный пулеметДальность атаки](https://boostmlbb.ru/items/malefic-gun.html)[![](/images/mlbb/items/3014.webp)2 140Копье Великого драконаПерезарядка и крит](https://boostmlbb.ru/items/great-dragon-spear.html)[![](/images/mlbb/items/3013.webp)2 050ТрезубецСнижение исцеления](https://boostmlbb.ru/items/sea-halberd.html)[![](/images/mlbb/items/3012.webp)2 030Золотой метеорЩит при низких ОЗ](https://boostmlbb.ru/items/rose-gold-meteor.html)[![](/images/mlbb/items/3009.webp)2 010Удар охотникаКратковременное ускорение](https://boostmlbb.ru/items/hunter-strike.html)[![](/images/mlbb/items/3008.webp)3 010Клинок отчаянияМакс. физ. атака](https://boostmlbb.ru/items/blade-of-despair.html)[![](/images/mlbb/items/3007.webp)1 950Клинок семи морейЛучшее для убийц](https://boostmlbb.ru/items/blade-of-the-heptaseas.html)[![](/images/mlbb/items/3005.webp)1 880Говорящий с ветромУрон по площади](https://boostmlbb.ru/items/windtalker.html)[![](/images/mlbb/items/3004.webp)2 330Бесконечная битваУсиление базовой атаки](https://boostmlbb.ru/items/endless-battle.html)[![](/images/mlbb/items/3003.webp)2 390Ярость берсеркаШанс крита и урон](https://boostmlbb.ru/items/berserkers-fury.html)[![](/images/mlbb/items/3002.webp)2 020Когти ХаасаВампиризм](https://boostmlbb.ru/items/haas-claws.html)[![](/images/mlbb/items/3001.webp)2 060Злобный рыкВысокое физ. проникновение](https://boostmlbb.ru/items/malefic-roar.html)[![](/images/mlbb/items/2107.webp)1 910Зимняя коронаВременная неуязвимость](https://boostmlbb.ru/items/winter-crown.html)[![](/images/mlbb/items/3109.webp)2 050Мимолетное времяПерезарядка ультимейта](https://boostmlbb.ru/items/fleeting-time.html)[![](/images/mlbb/items/2014.webp)1 500Пронзающий небесаЛучшее для добивания](https://boostmlbb.ru/items/sky-piercer.html)[![](/images/mlbb/items/2013.webp)2 100Топор войныУсиление продолжительного урона](https://boostmlbb.ru/items/war-axe.html)[![](/images/mlbb/items/2011.webp)1 910Ветер природыИммунитет к физ. урону](https://boostmlbb.ru/items/wind-of-nature.html)[![](/images/mlbb/items/2009.webp)2 000Золотой посохУлучш. эффекты атаки](https://boostmlbb.ru/items/golden-staff.html)[![](/images/mlbb/items/2008.webp)2 050Коса коррозииЗамедление от урона](https://boostmlbb.ru/items/corrosion-scythe.html)[![](/images/mlbb/items/2006.webp)2 180Меч охотника на демоновУбийца танков](https://boostmlbb.ru/items/demon-hunter-sword.html)
+
+### Детали и зелья
+
+[![](/images/mlbb/items/2005.webp)1 050Магический клинок](https://boostmlbb.ru/items/magic-blade.html)[![](/images/mlbb/items/2004.webp)830Молот гнева](https://boostmlbb.ru/items/fury-hammer.html)[![](/images/mlbb/items/2003.webp)900Кистень грабителя](https://boostmlbb.ru/items/rogue-meteor.html)[![](/images/mlbb/items/2002.webp)650Топор великана](https://boostmlbb.ru/items/ogre-tomahawk.html)[![](/images/mlbb/items/2001.webp)910Меч легионера](https://boostmlbb.ru/items/legion-sword.html)[![](/images/mlbb/items/1007.webp)1 000Быстрый арбалет](https://boostmlbb.ru/items/swift-crossbow.html)[![](/images/mlbb/items/1006.webp)600Обычное копье](https://boostmlbb.ru/items/regular-spear.html)[![](/images/mlbb/items/1008.webp)500Перчатки эксперта](https://boostmlbb.ru/items/expert-gloves.html)[![](/images/mlbb/items/1005.webp)450Железный лук охотника](https://boostmlbb.ru/items/iron-hunting-bow.html)[![](/images/mlbb/items/1004.webp)400Булава вампира](https://boostmlbb.ru/items/vampire-mallet.html)[![](/images/mlbb/items/1003.webp)320Копье](https://boostmlbb.ru/items/javelin.html)[![](/images/mlbb/items/1002.webp)280Нож](https://boostmlbb.ru/items/knife.html)[![](/images/mlbb/items/1001.webp)250Кинжал](https://boostmlbb.ru/items/dagger.html)[![](/images/mlbb/items/1010.webp)1 500Зелье силы](https://boostmlbb.ru/items/power-potion.html)
+
+## Магия
+
+[![](/images/mlbb/items/2112.webp)2 250Фонарь желанийПротив высоких ОЗ](https://boostmlbb.ru/items/wishing-lantern.html)[![](/images/mlbb/items/3112.webp)1 850Фляга ОазисаЗащита союзников](https://boostmlbb.ru/items/flask-of-the-oasis.html)[![](/images/mlbb/items/3111.webp)2 000Палочка генияСнижение маг. защиты](https://boostmlbb.ru/items/genius-wand.html)[![](/images/mlbb/items/3110.webp)2 250Жезл молнийМассовый урон навыками](https://boostmlbb.ru/items/lightning-truncheon.html)[![](/images/mlbb/items/3108.webp)2 100Кровавые крыльяЩит с ускорением](https://boostmlbb.ru/items/blood-wings.html)[![](/images/mlbb/items/3106.webp)2 120Старлиумовая косаУсиление базовой атаки](https://boostmlbb.ru/items/starlium-scythe.html)[![](/images/mlbb/items/3105.webp)2 050Пылающий жезлСнижение исцеления](https://boostmlbb.ru/items/glowing-wand.html)[![](/images/mlbb/items/3104.webp)2 040Жезл снежной королевыЗамедление навыками](https://boostmlbb.ru/items/ice-queen-wand.html)[![](/images/mlbb/items/3103.webp)2 020Концентри­рованная энергияУсиление продолжительного урона](https://boostmlbb.ru/items/concentrated-energy.html)[![](/images/mlbb/items/3102.webp)3 000Священный кристаллМакс. магическая сила](https://boostmlbb.ru/items/holy-crystal.html)[![](/images/mlbb/items/3101.webp)1 970Божественный мечМаг. проникновение](https://boostmlbb.ru/items/divine-glaive.html)[![](/images/mlbb/items/3113.webp)2 030Часы судьбыДля магических танков](https://boostmlbb.ru/items/clock-of-destiny.html)[![](/images/mlbb/items/2107.webp)1 910Зимняя коронаВременная неуязвимость](https://boostmlbb.ru/items/winter-crown.html)[![](/images/mlbb/items/3109.webp)2 050Мимолетное времяПерезарядка ультимейта](https://boostmlbb.ru/items/fleeting-time.html)[![](/images/mlbb/items/2014.webp)1 500Пронзающий небесаЛучшее для добивания](https://boostmlbb.ru/items/sky-piercer.html)[![](/images/mlbb/items/2108.webp)2 030Райское пероМаг. базовая атака](https://boostmlbb.ru/items/feather-of-heaven.html)[![](/images/mlbb/items/2106.webp)2 070Зачарованный талисманМана и перезарядка](https://boostmlbb.ru/items/enchanted-talisman.html)
+
+### Детали, зелья и особые предметы
+
+[![](/images/mlbb/items/2105.webp)700Элегантный самоцвет](https://boostmlbb.ru/items/elegant-gem.html)[![](/images/mlbb/items/2104.webp)600Иноземная маска](https://boostmlbb.ru/items/exotic-veil.html)[![](/images/mlbb/items/2103.webp)600Лазурный клинок](https://boostmlbb.ru/items/azure-blade.html)[![](/images/mlbb/items/2102.webp)950Книга зла](https://boostmlbb.ru/items/tome-of-evil.html)[![](/images/mlbb/items/2101.webp)820Волшебная палочка](https://boostmlbb.ru/items/magic-wand.html)[![](/images/mlbb/items/1105.webp)500Загадочный сосуд](https://boostmlbb.ru/items/mystic-container.html)[![](/images/mlbb/items/1008.webp)500Перчатки эксперта](https://boostmlbb.ru/items/expert-gloves.html)[![](/images/mlbb/items/1104.webp)450Книга мудрости](https://boostmlbb.ru/items/book-of-sages.html)[![](/images/mlbb/items/1103.webp)120Магическое ожерелье](https://boostmlbb.ru/items/magic-necklace.html)[![](/images/mlbb/items/1102.webp)220Кристалл силы](https://boostmlbb.ru/items/power-crystal.html)[![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html)[![](/images/mlbb/items/10001.webp)Фонарь надежды](https://boostmlbb.ru/items/lantern-of-hope.html)[![](/images/mlbb/items/10003.webp)Цветок надежды](https://boostmlbb.ru/items/flower-of-hope.html)[![](/images/mlbb/items/1110.webp)1 500Зелье магии](https://boostmlbb.ru/items/magic-potion.html)
+
+## Защита
+
+[![](/images/mlbb/items/3109.webp)2 050Мимолетное времяПерезарядка ультимейта](https://boostmlbb.ru/items/fleeting-time.html)[![](/images/mlbb/items/3210.webp)1 880Сияющая броняПротив маг. урона](https://boostmlbb.ru/items/radiant-armor.html)[![](/images/mlbb/items/3212.webp)2 100Наплечник наказанияСнижает скорость атаки врага](https://boostmlbb.ru/items/chastise-pauldron.html)[![](/images/mlbb/items/3208.webp)2 070Кираса грубой силыАтака, скорость, сопротивление контролю](https://boostmlbb.ru/items/brute-force-breastplate.html)[![](/images/mlbb/items/3207.webp)2 120БессмертиеВозрождение](https://boostmlbb.ru/items/immortality.html)[![](/images/mlbb/items/3206.webp)2 010Господство льдаСнижение исцеления](https://boostmlbb.ru/items/dominance-ice.html)[![](/images/mlbb/items/3205.webp)2 150Щит валькирииСопротивл. разруш. маг. урону](https://boostmlbb.ru/items/athenas-shield.html)[![](/images/mlbb/items/3204.webp)1 860ОракулУсиление регенерации](https://boostmlbb.ru/items/oracle.html)[![](/images/mlbb/items/3203.webp)2 170Древняя кирасаСнижение физ. АТК](https://boostmlbb.ru/items/antique-cuirass.html)[![](/images/mlbb/items/3202.webp)2 500Защитный шлемПостоянная реген. ОЗ](https://boostmlbb.ru/items/guardian-helmet.html)[![](/images/mlbb/items/3201.webp)1 910Проклятый шлемВыживаемость и зачистка линий](https://boostmlbb.ru/items/cursed-helmet.html)[![](/images/mlbb/items/2212.webp)1 820Штормовой поясУрон для танков](https://boostmlbb.ru/items/thunder-belt.html)[![](/images/mlbb/items/2208.webp)2 250Крылья королевыПротиводействие при низких ОЗ](https://boostmlbb.ru/items/queens-wings.html)[![](/images/mlbb/items/2207.webp)1 910Шипованная броняОтражение урона](https://boostmlbb.ru/items/blade-armor.html)
+
+### Детали и зелья
+
+[![](/images/mlbb/items/2206.webp)630Стальные ножные латы](https://boostmlbb.ru/items/steel-legplates.html)[![](/images/mlbb/items/2205.webp)730Броня неустра­шимости](https://boostmlbb.ru/items/dreadnaught-armor.html)[![](/images/mlbb/items/2204.webp)780Щит из черного льда](https://boostmlbb.ru/items/black-ice-shield.html)[![](/images/mlbb/items/2203.webp)1 020Роба тишины](https://boostmlbb.ru/items/silence-robe.html)[![](/images/mlbb/items/2202.webp)800Распла­вленная субстанция](https://boostmlbb.ru/items/molten-essence.html)[![](/images/mlbb/items/2201.webp)700Пояс Ареса](https://boostmlbb.ru/items/ares-belt.html)[![](/images/mlbb/items/1205.webp)450Кольцо героя](https://boostmlbb.ru/items/heros-ring.html)[![](/images/mlbb/items/1204.webp)140Исцеляющее ожерелье](https://boostmlbb.ru/items/healing-necklace.html)[![](/images/mlbb/items/1203.webp)220Плащ сопроти­вления магии](https://boostmlbb.ru/items/magic-resist-cloak.html)[![](/images/mlbb/items/1202.webp)220Кожаная броня](https://boostmlbb.ru/items/leather-jerkin.html)[![](/images/mlbb/items/1201.webp)300Кристалл здоровья](https://boostmlbb.ru/items/vitality-crystal.html)[![](/images/mlbb/items/1210.webp)1 500Зелье стойкости](https://boostmlbb.ru/items/rock-potion.html)
+
+## Передвижение
+
+[![](/images/mlbb/items/2308.webp)720Ботинки демонаБыстрая регенерация маны](https://boostmlbb.ru/items/demon-boots.html)[![](/images/mlbb/items/2306.webp)720Сапоги-скороходыВысокая скорость передвижения](https://boostmlbb.ru/items/rapid-boots.html)[![](/images/mlbb/items/2305.webp)720Сапоги спешкиСкорость АТК](https://boostmlbb.ru/items/swift-boots.html)[![](/images/mlbb/items/2304.webp)720Сапоги заклинателяМаг. проникновение](https://boostmlbb.ru/items/arcane-boots.html)[![](/images/mlbb/items/2303.webp)720Магические ботинкиСокращение перезарядки](https://boostmlbb.ru/items/magic-boots.html)[![](/images/mlbb/items/2302.webp)720Прочные сапогиСокращение длительности контроля](https://boostmlbb.ru/items/tough-boots.html)[![](/images/mlbb/items/2301.webp)720Сапоги воинаНакапливаемая физ. защита](https://boostmlbb.ru/items/warrior-boots.html)
+
+### Детали и особые предметы
+
+[![](/images/mlbb/items/1301.webp)250Ботинки](https://boostmlbb.ru/items/boots.html)[![](/images/mlbb/items/1113.webp)Разрешение броска](https://boostmlbb.ru/items/allow-throw.html)[![](/images/mlbb/items/1111.webp)Запрет броска](https://boostmlbb.ru/items/throw-forbidden.html)[![](/images/mlbb/items/1112.webp)Разбитое сердце](https://boostmlbb.ru/items/broken-heart.html)
+
+## Лес
+
+[![](/images/mlbb/blessings/flame-retribution.webp)Пламенное ВозмездиеПодходит, когда нужно выиграть дуэль: противник слабеет, вы сильнее.](https://boostmlbb.ru/items/retribution.html#flame)[![](/images/mlbb/blessings/ice-retribution.webp)Ледяное ВозмездиеПодходит, чтобы догнать цель или уйти от погони.](https://boostmlbb.ru/items/retribution.html#ice)[![](/images/mlbb/blessings/bloody-retribution.webp)Кровавое ВозмездиеПодходит лесникам, которым важно пережить бой.](https://boostmlbb.ru/items/retribution.html#bloody)
+
+## Роум
+
+[![](/images/mlbb/blessings/encourage.webp)ПоощрениеДля драк всей командой.](https://boostmlbb.ru/items/roam-blessings.html#encourage)[![](/images/mlbb/blessings/favor.webp)БлагосклонностьДля героев, которые лечат и дают щиты.](https://boostmlbb.ru/items/roam-blessings.html#favor)[![](/images/mlbb/blessings/dire-hit.webp)Острый ударДля роумеров, которые сами добивают.](https://boostmlbb.ru/items/roam-blessings.html#dire-hit)[![](/images/mlbb/blessings/conceal.webp)МаскировкаДля засад и быстрых перебежек.](https://boostmlbb.ru/items/roam-blessings.html#conceal)
+
+Такого предмета нет. Проверьте название.
+
+Показать все
+
+## Чаще всего в сборках
+
+-   [![](/images/mlbb/items/2014.webp)Пронзающий небесав сборках 34 героев](https://boostmlbb.ru/items/sky-piercer.html)
+-   [![](/images/mlbb/items/3206.webp)Господство льдав сборках 31 героя](https://boostmlbb.ru/items/dominance-ice.html)
+-   [![](/images/mlbb/items/2013.webp)Топор войныв сборках 28 героев](https://boostmlbb.ru/items/war-axe.html)
+-   [![](/images/mlbb/items/3105.webp)Пылающий жезлв сборках 27 героев](https://boostmlbb.ru/items/glowing-wand.html)
+-   [![](/images/mlbb/items/3009.webp)Удар охотникав сборках 20 героев](https://boostmlbb.ru/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3101.webp)Божественный мечв сборках 19 героев](https://boostmlbb.ru/items/divine-glaive.html)
+-   [![](/images/mlbb/items/3212.webp)Наплечник наказанияв сборках 19 героев](https://boostmlbb.ru/items/chastise-pauldron.html)
+-   [![](/images/mlbb/items/3204.webp)Оракулв сборках 18 героев](https://boostmlbb.ru/items/oracle.html)
+-   [![](/images/mlbb/items/2208.webp)Крылья королевыв сборках 18 героев](https://boostmlbb.ru/items/queens-wings.html)

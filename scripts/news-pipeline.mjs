@@ -1424,6 +1424,7 @@ function renderFooter(locale = 'ru') {
           <ul>
             <li><a href="${siteHref('/news/', locale)}">${escapeHtml(copy.news)}</a></li>
             <li><a href="${siteHref('/heroes/', locale)}">${locale === 'en' ? 'MLBB tier list' : 'Тир-лист MLBB'}</a></li>
+            <li><a href="${siteHref('/items/', locale)}">${locale === 'en' ? 'MLBB items' : 'Предметы MLBB'}</a></li>
             <li><a href="${siteHref('/about.html', locale)}">${escapeHtml(copy.about)}</a></li>
             <li><a href="${siteHref('/faq.html', locale)}">${escapeHtml(copy.faq)}</a></li>
             <li><a href="${siteHref('/sitemap-page.html', locale)}">${escapeHtml(copy.sitemap)}</a></li>
@@ -1506,7 +1507,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/legal.css">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=5">
+  <link rel="stylesheet" href="/styles/arena.css?v=6">
   <link rel="stylesheet" href="/styles/journal.css?v=3">`;
 }
 
@@ -1694,6 +1695,8 @@ ${GENERATED_MARKER}
 
 const { heroes: articleHeroes } = JSON.parse(await readFile(path.join(SITE_ROOT, 'content/heroes.json'), 'utf8'));
 const academyAssets = JSON.parse(await readFile(path.join(SITE_ROOT, 'content/heroes-academy.json'), 'utf8'));
+// Item names and pages come from the item catalog (content/items.json), the same as on the hero pages.
+for (const item of JSON.parse(await readFile(path.join(SITE_ROOT, 'content/items.json'), 'utf8')).items) if (academyAssets.items[item.id]) Object.assign(academyAssets.items[item.id], { ru: item.ru, en: item.en, slug: item.slug });
 const rankAssets = [
   ['Воин','Warrior','Warrior'], ['Элита','Elite','Elite'], ['Мастер','Master','Master'],
   ['Грандмастер','Grandmaster','Grandmaster'], ['Эпик','Epic','Epic'], ['Легенда','Legend','Legend'],
@@ -1709,7 +1712,7 @@ const articleVisuals = Object.fromEntries(['ru', 'en'].map(lang => {
   for (const hero of articleHeroes) entries.set(hero[lang], { src: `/images/heroes/${hero.slug}.webp`, href: siteHref(`/heroes/${hero.slug}.html`,lang) });
   for (const group of ['items','spells','emblems']) {
     for (const entry of Object.values(academyAssets[group])) {
-      if (entry.icon) entries.set(entry[lang], { src: entry.icon });
+      if (entry.icon) entries.set(entry[lang], { src: entry.icon, ...(entry.slug ? { href: siteHref(`/items/${entry.slug}.html`, lang) } : {}) });
     }
   }
   for (const [ru, en, slug] of laneAssets) entries.set(lang === 'en' ? en : ru, { src: `/images/mlbb/filters/${slug}.webp` });
@@ -1749,7 +1752,7 @@ function renderBuildFinder(locale) {
   const ru = locale === 'ru';
   const t = (r, e) => ru ? r : e;
   const pct = value => `${value.toFixed(1).replace('.', ru ? ',' : '.')}%`;
-  const gear = (entry, kind) => entry ? `<li class="bf-gear bf-gear--${kind}"><img src="${escapeHtml(entry.icon)}" width="44" height="44" alt="" loading="lazy" decoding="async"><span>${escapeHtml(entry[locale])}</span></li>` : '';
+  const gear = (entry, kind) => { if (!entry) return ''; const inner = `<img src="${escapeHtml(entry.icon)}" width="44" height="44" alt="" loading="lazy" decoding="async"><span>${escapeHtml(entry[locale])}</span>`; return `<li class="bf-gear bf-gear--${kind}">${entry.slug ? `<a href="${siteHref(`/items/${entry.slug}.html`, locale)}">${inner}</a>` : inner}</li>`; };
   const rows = [...articleHeroes].sort((a, b) => b.pick - a.pick).map(hero => {
     const build = topBuild(hero.slug);
     if (!build) return '';
@@ -2032,7 +2035,7 @@ function renderBlock(block, locale = 'ru') {
 
 function renderArenaNav(locale, active) {
   const ru = locale === 'ru';
-  return `<nav class="arena-context" aria-label="${ru ? 'Разделы Mobile Legends' : 'Mobile Legends sections'}"><a href="${siteHref('/heroes/', locale)}"${active === 'tier' ? ' aria-current="page"' : ''}>${ru ? 'Тир-лист' : 'Tier list'}</a><a href="${siteHref('/news/', locale)}"${active === 'news' ? ' aria-current="page"' : ''}>${ru ? 'Новости и гайды' : 'News & guides'}</a></nav>`;
+  return `<nav class="arena-context" aria-label="${ru ? 'Разделы Mobile Legends' : 'Mobile Legends sections'}"><a href="${siteHref('/heroes/', locale)}"${active === 'tier' ? ' aria-current="page"' : ''}>${ru ? 'Тир-лист' : 'Tier list'}</a><a href="${siteHref('/items/', locale)}">${ru ? 'Предметы' : 'Items'}</a><a href="${siteHref('/news/', locale)}"${active === 'news' ? ' aria-current="page"' : ''}>${ru ? 'Новости и гайды' : 'News & guides'}</a></nav>`;
 }
 
 const articleRoutes = {

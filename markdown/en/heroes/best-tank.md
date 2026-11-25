@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/best-tank.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 # Best MLBB tanks
 
@@ -37,17 +37,31 @@ Ban rate
 
 67.5%
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/2008.webp)
 
 Corrosion Scythe
 
+
+
+](https://boostmlbb.ru/en/items/corrosion-scythe.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Guardian Helmet
+
+
+
+](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -77,17 +91,31 @@ Ban rate
 
 37.2%
 
+[
+
 ![](/images/mlbb/items/3201.webp)
 
 Cursed Helmet
+
+
+
+](https://boostmlbb.ru/en/items/cursed-helmet.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3203.webp)
 
 Antique Cuirass
+
+
+
+](https://boostmlbb.ru/en/items/antique-cuirass.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -117,17 +145,31 @@ Ban rate
 
 56.4%
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Dominance Ice
 
+
+
+](https://boostmlbb.ru/en/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Guardian Helmet
+
+
+
+](https://boostmlbb.ru/en/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -507,12 +549,12 @@ D
 
 ## What they build most
 
--   ![](/images/mlbb/items/3206.webp)Dominance Ice14 of 25
--   ![](/images/mlbb/items/2212.webp)Thunder Belt7 of 25
--   ![](/images/mlbb/items/3204.webp)Oracle7 of 25
--   ![](/images/mlbb/items/3203.webp)Antique Cuirass5 of 25
--   ![](/images/mlbb/items/2208.webp)Queen's Wings4 of 25
--   ![](/images/mlbb/items/3109.webp)Fleeting Time4 of 25
+-   [![](/images/mlbb/items/3206.webp)Dominance Ice14 of 25](https://boostmlbb.ru/en/items/dominance-ice.html)
+-   [![](/images/mlbb/items/2212.webp)Thunder Belt7 of 25](https://boostmlbb.ru/en/items/thunder-belt.html)
+-   [![](/images/mlbb/items/3204.webp)Oracle7 of 25](https://boostmlbb.ru/en/items/oracle.html)
+-   [![](/images/mlbb/items/3203.webp)Antique Cuirass5 of 25](https://boostmlbb.ru/en/items/antique-cuirass.html)
+-   [![](/images/mlbb/items/2208.webp)Queen's Wings4 of 25](https://boostmlbb.ru/en/items/queens-wings.html)
+-   [![](/images/mlbb/items/3109.webp)Fleeting Time4 of 25](https://boostmlbb.ru/en/items/fleeting-time.html)
 
 The three core items of every hero’s most common build. Spell: Flicker on 8 and Revitalize on 6. Tank on 14, Support on 6.
 

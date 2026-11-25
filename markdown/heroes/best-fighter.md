@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/best-fighter.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 # Лучшие бойцы MLBB
 
@@ -37,17 +37,31 @@ S
 
 67,5%
 
+[
+
 ![](/images/mlbb/items/2212.webp)
 
 Штормовой пояс
+
+
+
+](https://boostmlbb.ru/items/thunder-belt.html)[
 
 ![](/images/mlbb/items/2008.webp)
 
 Коса коррозии
 
+
+
+](https://boostmlbb.ru/items/corrosion-scythe.html)[
+
 ![](/images/mlbb/items/3202.webp)
 
 Защитный шлем
+
+
+
+](https://boostmlbb.ru/items/guardian-helmet.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -77,17 +91,31 @@ S
 
 14,6%
 
+[
+
 ![](/images/mlbb/items/3204.webp)
 
 Оракул
+
+
+
+](https://boostmlbb.ru/items/oracle.html)[
 
 ![](/images/mlbb/items/3206.webp)
 
 Господство льда
 
+
+
+](https://boostmlbb.ru/items/dominance-ice.html)[
+
 ![](/images/mlbb/items/3109.webp)
 
 Мимолетное время
+
+
+
+](https://boostmlbb.ru/items/fleeting-time.html)
 
 ![](/images/mlbb/emblems/20003.webp)
 
@@ -117,17 +145,31 @@ S
 
 11,4%
 
+[
+
 ![](/images/mlbb/items/2009.webp)
 
 Золотой посох
+
+
+
+](https://boostmlbb.ru/items/golden-staff.html)[
 
 ![](/images/mlbb/items/2013.webp)
 
 Топор войны
 
+
+
+](https://boostmlbb.ru/items/war-axe.html)[
+
 ![](/images/mlbb/items/3012.webp)
 
 Золотой метеор
+
+
+
+](https://boostmlbb.ru/items/rose-gold-meteor.html)
 
 ![](/images/mlbb/emblems/20007.webp)
 
@@ -773,12 +815,12 @@ C
 
 ## Что собирают чаще всего
 
--   ![](/images/mlbb/items/2013.webp)Топор войныу 21 из 44
--   ![](/images/mlbb/items/2208.webp)Крылья королевыу 15 из 44
--   ![](/images/mlbb/items/3009.webp)Удар охотникау 10 из 44
--   ![](/images/mlbb/items/3204.webp)Оракулу 8 из 44
--   ![](/images/mlbb/items/3208.webp)Кираса грубой силыу 8 из 44
--   ![](/images/mlbb/items/3001.webp)Злобный рыку 7 из 44
+-   [![](/images/mlbb/items/2013.webp)Топор войныу 21 из 44](https://boostmlbb.ru/items/war-axe.html)
+-   [![](/images/mlbb/items/2208.webp)Крылья королевыу 15 из 44](https://boostmlbb.ru/items/queens-wings.html)
+-   [![](/images/mlbb/items/3009.webp)Удар охотникау 10 из 44](https://boostmlbb.ru/items/hunter-strike.html)
+-   [![](/images/mlbb/items/3204.webp)Оракулу 8 из 44](https://boostmlbb.ru/items/oracle.html)
+-   [![](/images/mlbb/items/3208.webp)Кираса грубой силыу 8 из 44](https://boostmlbb.ru/items/brute-force-breastplate.html)
+-   [![](/images/mlbb/items/3001.webp)Злобный рыку 7 из 44](https://boostmlbb.ru/items/malefic-roar.html)
 
 Три ключевых предмета самой частой сборки каждого героя. Заклинание: «Вспышка» у 18 и «Месть» у 9. Эмблема убийцы у 14, эмблема бойца у 14.
 

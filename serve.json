@@ -223,6 +223,22 @@
       "destination": "/en/news/mlbb-builds-2026/index.html"
     },
     {
+      "source": "/items/",
+      "destination": "/items/index.html"
+    },
+    {
+      "source": "/items",
+      "destination": "/items/index.html"
+    },
+    {
+      "source": "/en/items/",
+      "destination": "/en/items/index.html"
+    },
+    {
+      "source": "/en/items",
+      "destination": "/en/items/index.html"
+    },
+    {
       "source": "/heroes/",
       "destination": "/heroes/index.html"
     },

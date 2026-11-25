@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lesley.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lesley hero art](/images/heroes/art/lesley.webp)
 
@@ -70,18 +70,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
 
 #### Spell
 
@@ -116,18 +131,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
--   ![](/images/mlbb/items/3008.webp)
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
+-   [
+
+    ![](/images/mlbb/items/3008.webp)
 
     Blade of Despair
 
+
+
+    ](https://boostmlbb.ru/en/items/blade-of-despair.html)
 
 #### Spell
 
@@ -162,18 +192,33 @@ Pick rate
 
 #### Core items
 
--   ![](/images/mlbb/items/3003.webp)
+-   [
+
+    ![](/images/mlbb/items/3003.webp)
 
     Berserker's Fury
 
--   ![](/images/mlbb/items/3015.webp)
+
+
+    ](https://boostmlbb.ru/en/items/berserkers-fury.html)
+-   [
+
+    ![](/images/mlbb/items/3015.webp)
 
     Malefic Gun
 
--   ![](/images/mlbb/items/3013.webp)
+
+
+    ](https://boostmlbb.ru/en/items/malefic-gun.html)
+-   [
+
+    ![](/images/mlbb/items/3013.webp)
 
     Sea Halberd
 
+
+
+    ](https://boostmlbb.ru/en/items/sea-halberd.html)
 
 #### Spell
 
