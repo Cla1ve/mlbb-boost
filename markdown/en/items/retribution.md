@@ -27,7 +27,7 @@ For duels: the enemy gets weaker while you get stronger.
 
 ### Ice Retribution
 
-Cast on an enemy hero, it deals 100 True Damage and steals Movement Speed from them for a few seconds.
+Cast on an enemy hero, it deals 100 True Damage and steals 52–80 Movement Speed (scales with level) for 3s.
 
 For chasing a target down or getting away.
 
@@ -35,7 +35,7 @@ For chasing a target down or getting away.
 
 ### Bloody Retribution
 
-Cast on an enemy hero, it deals 100 True Damage and steals HP from them for a few seconds.
+Cast on an enemy hero, it deals 100 True Damage and steals HP equal to 300 + 24% of the caster’s extra HP for 3s.
 
 For junglers who need to survive the fight.
 

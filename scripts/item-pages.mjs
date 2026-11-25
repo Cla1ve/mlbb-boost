@@ -34,8 +34,7 @@ const EFFECT = { passive: ['Уникальный пассивный', 'Unique pa
 const SPECIAL_HERO = { 'lantern-of-hope': 'floryn', 'flower-of-hope': 'floryn', 'allow-throw': 'jawhead', 'throw-forbidden': 'jawhead', 'broken-heart': 'carmilla' };
 
 // The blessings are not shop items with prices: two pages, one per tab. Texts follow the game: owner's screenshots of
-// 25.11.2026 for Flame Retribution and all four roam blessings, the Academy for the hunter boots. Ice and Bloody Retribution
-// numbers were not on the screenshots and are left out instead of being guessed.
+// 25.11.2026 for all three Retributions and all four roam blessings, the Academy for the hunter boots.
 const BLESSINGS = {
   jungle: {
     slug: 'retribution', icon: 'flame-retribution',
@@ -44,10 +43,10 @@ const BLESSINGS = {
     variants: [
       { id: 'flame', icon: 'flame-retribution', ru: ['Пламенное Возмездие', 'При применении на вражеского героя наносит 100 чистого урона и крадёт 71–120 физической атаки и магической силы (зависит от уровня) на 3 с.', 'Подходит, когда нужно выиграть дуэль: противник слабеет, вы сильнее.'],
         en: ['Flame Retribution', 'Cast on an enemy hero, it deals 100 True Damage and steals 71–120 Physical Attack and Magic Power (scales with level) for 3s.', 'For duels: the enemy gets weaker while you get stronger.'] },
-      { id: 'ice', icon: 'ice-retribution', ru: ['Ледяное Возмездие', 'При применении на вражеского героя наносит 100 чистого урона и крадёт у него скорость передвижения на несколько секунд.', 'Подходит, чтобы догнать цель или уйти от погони.'],
-        en: ['Ice Retribution', 'Cast on an enemy hero, it deals 100 True Damage and steals Movement Speed from them for a few seconds.', 'For chasing a target down or getting away.'] },
-      { id: 'bloody', icon: 'bloody-retribution', ru: ['Кровавое Возмездие', 'При применении на вражеского героя наносит 100 чистого урона и крадёт у него ОЗ на несколько секунд.', 'Подходит лесникам, которым важно пережить бой.'],
-        en: ['Bloody Retribution', 'Cast on an enemy hero, it deals 100 True Damage and steals HP from them for a few seconds.', 'For junglers who need to survive the fight.'] }
+      { id: 'ice', icon: 'ice-retribution', ru: ['Ледяное Возмездие', 'При применении на вражеского героя наносит 100 чистого урона и крадёт 52–80 скорости передвижения (зависит от уровня) на 3 с.', 'Подходит, чтобы догнать цель или уйти от погони.'],
+        en: ['Ice Retribution', 'Cast on an enemy hero, it deals 100 True Damage and steals 52–80 Movement Speed (scales with level) for 3s.', 'For chasing a target down or getting away.'] },
+      { id: 'bloody', icon: 'bloody-retribution', ru: ['Кровавое Возмездие', 'При применении на вражеского героя наносит 100 чистого урона и крадёт ОЗ в размере 300 + 24% дополнительных ОЗ атакующего на 3 с.', 'Подходит лесникам, которым важно пережить бой.'],
+        en: ['Bloody Retribution', 'Cast on an enemy hero, it deals 100 True Damage and steals HP equal to 300 + 24% of the caster’s extra HP for 3s.', 'For junglers who need to survive the fight.'] }
     ],
     common: { ru: ['Улучшение', '«Возмездие» улучшается, когда убийства монстров, героев и помощи вместе достигают 5.'], en: ['Upgrade', 'Retribution is upgraded once creep kills, hero kills and assists add up to 5.'] },
     hunter: { ru: ['Охотник', 'Ботинки с благословением леса: после урона по монстру наносят ему 40 (+3 × уровень героя) + 1% общих ОЗ героя чистого урона за 3 с. У героев, которые не стрелки, урон вдвое выше.'], en: ['Hunter', 'Boots with a jungle blessing: after damaging a creep, deal 40 (+3 × hero level) + 1% of Total HP as True Damage over 3s, doubled for non-Marksmen.'] }
