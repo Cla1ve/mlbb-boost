@@ -12,7 +12,8 @@ import { createRequire } from "node:module";
 const sharp = createRequire(SITE + "/package.json")("sharp");
 const draftOf = Object.fromEntries(draft.map(it => [it.en, it]));
 // Cursed Helmet: the Academy lists four direct parts worth more than the item; Liquipedia's three-part recipe fits the price.
-const RECIPE_FIX = { 'Cursed Helmet': [2201, 2202, 1203] };
+// Magic Wand: the in-game recipe tree (owner's screenshot) shows one Mystery Codex, Liquipedia counts two.
+const RECIPE_FIX = { 'Cursed Helmet': [2201, 2202, 1203], 'Magic Wand': [1101] };
 const STAT = [
   [/Extra Physical Attack|Physical Attack/, 'physAtk'], [/Adaptive Attack/, 'adaptive'], [/Magic Power/, 'magic'], [/Extra Attack Speed|Attack Speed/, 'attackSpeed'],
   [/Crit Damage Reduction/, 'critReduce'], [/Crit Chance/, 'crit'], [/Crit Damage/, 'critDamage'], [/Hybrid Lifesteal/, 'hybridSteal'], [/Spell Vamp/, 'spellVamp'], [/Lifesteal/, 'lifesteal'],

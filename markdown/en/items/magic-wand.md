@@ -1,6 +1,6 @@
 ---
 title: "Magic Wand MLBB: 820 gold, recipe and effect | MLBB Boost"
-description: "Magic Wand in Mobile Legends: +45 Magic Power. Builds from Mystery Codex ×2."
+description: "Magic Wand in Mobile Legends: +45 Magic Power. Builds from Mystery Codex."
 canonical: https://boostmlbb.ru/en/items/magic-wand.html
 language: en
 ---
@@ -24,9 +24,8 @@ Price
 ![](/images/mlbb/items/2101.webp)820Magic Wand
 
 -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
--   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 
-Parts cost 600, assembly adds 220 gold.
+Parts cost 300, assembly adds 520 gold.
 
 ### Builds into
 
@@ -46,7 +45,7 @@ Parts cost 600, assembly adds 220 gold.
 
 How much does Magic Wand cost and what does it build from?
 
-820 gold. Parts: Mystery Codex ×2 (300 each); assembly adds 220 gold.
+820 gold. Parts: Mystery Codex (300); assembly adds 520 gold.
 
 What does Magic Wand give?
 

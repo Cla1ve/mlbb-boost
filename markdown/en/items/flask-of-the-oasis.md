@@ -36,7 +36,6 @@ When a heal or shield skill hits a target whose HP is below 35% (or falls below 
 
 -   [![](/images/mlbb/items/2101.webp)820Magic Wand](https://boostmlbb.ru/en/items/magic-wand.html "Magic Wand")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
-    -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 -   [![](/images/mlbb/items/1104.webp)450Book of Sages](https://boostmlbb.ru/en/items/book-of-sages.html "Book of Sages")
 -   [![](/images/mlbb/items/1201.webp)300Vitality Crystal](https://boostmlbb.ru/en/items/vitality-crystal.html "Vitality Crystal")
 

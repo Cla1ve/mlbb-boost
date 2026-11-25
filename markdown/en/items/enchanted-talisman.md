@@ -44,7 +44,6 @@ Max Cooldown Reduction +5%.
     -   [![](/images/mlbb/items/1103.webp)120Magic Necklace](https://boostmlbb.ru/en/items/magic-necklace.html "Magic Necklace")
 -   [![](/images/mlbb/items/2101.webp)820Magic Wand](https://boostmlbb.ru/en/items/magic-wand.html "Magic Wand")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
-    -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 -   [![](/images/mlbb/items/1103.webp)120Magic Necklace](https://boostmlbb.ru/en/items/magic-necklace.html "Magic Necklace")
 
 Parts cost 1,890, assembly adds 180 gold.

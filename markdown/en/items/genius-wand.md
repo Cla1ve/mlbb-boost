@@ -37,7 +37,6 @@ Magic Damage to enemy heroes reduces their Magic Defense by 2.5 (+0.5 × hero le
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 -   [![](/images/mlbb/items/2101.webp)820Magic Wand](https://boostmlbb.ru/en/items/magic-wand.html "Magic Wand")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
-    -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 
 Parts cost 1,420, assembly adds 580 gold.
 

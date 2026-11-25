@@ -33,9 +33,7 @@ Grants an 800 (+100% Total Magic Power) shield that regenerates 20s after taking
 
 -   [![](/images/mlbb/items/2101.webp)820Magic Wand](https://boostmlbb.ru/en/items/magic-wand.html "Magic Wand")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
-    -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 -   [![](/images/mlbb/items/2101.webp)820Magic Wand](https://boostmlbb.ru/en/items/magic-wand.html "Magic Wand")
-    -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 
 Parts cost 1,640, assembly adds 460 gold.

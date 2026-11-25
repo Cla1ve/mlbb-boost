@@ -39,7 +39,6 @@ After casting a skill, the next Basic Attack within 3s deals 90 (+60% Total Magi
     -   [![](/images/mlbb/items/1103.webp)120Magic Necklace](https://boostmlbb.ru/en/items/magic-necklace.html "Magic Necklace")
 -   [![](/images/mlbb/items/2101.webp)820Magic Wand](https://boostmlbb.ru/en/items/magic-wand.html "Magic Wand")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
-    -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 -   [![](/images/mlbb/items/1104.webp)450Book of Sages](https://boostmlbb.ru/en/items/book-of-sages.html "Book of Sages")
 
 Parts cost 1,870, assembly adds 250 gold.

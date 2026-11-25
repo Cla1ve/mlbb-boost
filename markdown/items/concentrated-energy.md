@@ -37,7 +37,6 @@ Concentrated Energy
 
 -   [![](/images/mlbb/items/2101.webp)820Волшебная палочка](https://boostmlbb.ru/items/magic-wand.html "Волшебная палочка")
     -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
-    -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
 -   [![](/images/mlbb/items/1105.webp)500Загадочный сосуд](https://boostmlbb.ru/items/mystic-container.html "Загадочный сосуд")
     -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
 -   [![](/images/mlbb/items/1201.webp)300Кристалл здоровья](https://boostmlbb.ru/items/vitality-crystal.html "Кристалл здоровья")

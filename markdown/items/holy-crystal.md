@@ -35,12 +35,9 @@ Holy Crystal
 
 -   [![](/images/mlbb/items/2101.webp)820Волшебная палочка](https://boostmlbb.ru/items/magic-wand.html "Волшебная палочка")
     -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
-    -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
 -   [![](/images/mlbb/items/2101.webp)820Волшебная палочка](https://boostmlbb.ru/items/magic-wand.html "Волшебная палочка")
     -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
-    -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
 -   [![](/images/mlbb/items/2101.webp)820Волшебная палочка](https://boostmlbb.ru/items/magic-wand.html "Волшебная палочка")
-    -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
     -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
 
 Детали стоят 2 460, сборка — ещё 540 золота.

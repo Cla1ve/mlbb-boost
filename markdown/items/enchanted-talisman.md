@@ -46,7 +46,6 @@ Enchanted Talisman
     -   [![](/images/mlbb/items/1103.webp)120Магическое ожерелье](https://boostmlbb.ru/items/magic-necklace.html "Магическое ожерелье")
 -   [![](/images/mlbb/items/2101.webp)820Волшебная палочка](https://boostmlbb.ru/items/magic-wand.html "Волшебная палочка")
     -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
-    -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
 -   [![](/images/mlbb/items/1103.webp)120Магическое ожерелье](https://boostmlbb.ru/items/magic-necklace.html "Магическое ожерелье")
 
 Детали стоят 1 890, сборка — ещё 180 золота.

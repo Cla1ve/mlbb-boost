@@ -41,7 +41,6 @@ Starlium Scythe
     -   [![](/images/mlbb/items/1103.webp)120Магическое ожерелье](https://boostmlbb.ru/items/magic-necklace.html "Магическое ожерелье")
 -   [![](/images/mlbb/items/2101.webp)820Волшебная палочка](https://boostmlbb.ru/items/magic-wand.html "Волшебная палочка")
     -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
-    -   [![](/images/mlbb/items/1101.webp)300Магическая книга](https://boostmlbb.ru/items/mystery-codex.html "Магическая книга")
 -   [![](/images/mlbb/items/1104.webp)450Книга мудрости](https://boostmlbb.ru/items/book-of-sages.html "Книга мудрости")
 
 Детали стоят 1 870, сборка — ещё 250 золота.

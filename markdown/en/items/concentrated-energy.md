@@ -35,7 +35,6 @@ Magic Damage grants 5 Magic Power, up to 6 stacks (once every 0.4s). At full sta
 
 -   [![](/images/mlbb/items/2101.webp)820Magic Wand](https://boostmlbb.ru/en/items/magic-wand.html "Magic Wand")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
-    -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 -   [![](/images/mlbb/items/1105.webp)500Mystic Container](https://boostmlbb.ru/en/items/mystic-container.html "Mystic Container")
     -   [![](/images/mlbb/items/1101.webp)300Mystery Codex](https://boostmlbb.ru/en/items/mystery-codex.html "Mystery Codex")
 -   [![](/images/mlbb/items/1201.webp)300Vitality Crystal](https://boostmlbb.ru/en/items/vitality-crystal.html "Vitality Crystal")
