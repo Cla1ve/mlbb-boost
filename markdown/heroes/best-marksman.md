@@ -9,11 +9,11 @@ language: ru
 
 # Лучшие стрелки MLBB
 
-23 героя · Обновлено 24 ноября
+23 героя · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,6% побед и бан в 64,8% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
+Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,6% побед и бан в 65,1% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -35,7 +35,7 @@ S
 
 Баны
 
-64,8%
+65,1%
 
 ![](/images/mlbb/items/3005.webp)
 
@@ -67,7 +67,7 @@ A
 
 Победы
 
-48,2%
+48,1%
 
 Выбор
 
@@ -165,7 +165,7 @@ S
 
 2,4%
 
-64,8%
+65,1%
 
 44,8%
 
@@ -175,7 +175,7 @@ S
 
 A
 
-48,2%
+48,1%
 
 0,9%
 
@@ -207,7 +207,7 @@ B
 
 2,0%
 
-5,0%
+5,1%
 
 6,8%
 
@@ -217,7 +217,7 @@ B
 
 B
 
-50,3%
+50,2%
 
 0,9%
 
@@ -235,7 +235,7 @@ B
 
 1,0%
 
-0,9%
+1,0%
 
 15,1%
 
@@ -245,11 +245,11 @@ B
 
 B
 
-51,3%
+51,4%
 
 1,6%
 
-1,5%
+1,6%
 
 0,7%
 
@@ -291,7 +291,7 @@ B
 
 1,3%
 
-1,7%
+1,8%
 
 1,4%
 
@@ -301,7 +301,7 @@ B
 
 B
 
-52,4%
+52,5%
 
 0,4%
 
@@ -329,7 +329,7 @@ B
 
 C
 
-50,6%
+50,5%
 
 0,8%
 
@@ -357,7 +357,7 @@ C
 
 C
 
-53,4%
+53,3%
 
 0,5%
 
@@ -395,20 +395,6 @@ C
 
 18
 
-[![](/images/heroes/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
-
-C
-
-51,5%
-
-0,4%
-
-0,1%
-
-1,0%
-
-19
-
 [![](/images/heroes/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)
 
 C
@@ -421,31 +407,45 @@ C
 
 0,6%
 
-20
+19
 
-[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+[![](/images/heroes/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
 
 C
 
-48,2%
+51,5%
 
 0,4%
 
-1,3%
+0,1%
 
-—
+1,0%
 
-21
+20
 
 [![](/images/heroes/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
 
 C
 
-52,5%
+52,4%
 
 0,3%
 
 0,1%
+
+—
+
+21
+
+[![](/images/heroes/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+
+C
+
+48,4%
+
+0,4%
+
+1,1%
 
 —
 
@@ -469,7 +469,7 @@ D
 
 D
 
-46,2%
+46,3%
 
 0,2%
 
@@ -492,7 +492,7 @@ D
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,7%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+1.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,6%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
 2.  [![](/images/heroes/hanabi.webp)Ханаби53,5%](https://boostmlbb.ru/heroes/hanabi.html)
 3.  [![](/images/heroes/edith.webp)Эдит53,4%](https://boostmlbb.ru/heroes/edith.html)
 4.  [![](/images/heroes/irithel.webp)Иритель52,7%](https://boostmlbb.ru/heroes/irithel.html)
@@ -504,11 +504,11 @@ D
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
 1.  [![](/images/heroes/belerick.webp)Белерик4 из 23](https://boostmlbb.ru/heroes/belerick.html)
-2.  [![](/images/heroes/lolita.webp)Лолита4 из 23](https://boostmlbb.ru/heroes/lolita.html)
-3.  [![](/images/heroes/yin.webp)Инь4 из 23](https://boostmlbb.ru/heroes/yin.html)
-4.  [![](/images/heroes/atlas.webp)Атлас3 из 23](https://boostmlbb.ru/heroes/atlas.html)
-5.  [![](/images/heroes/balmond.webp)Бальмонд3 из 23](https://boostmlbb.ru/heroes/balmond.html)
-6.  [![](/images/heroes/beatrix.webp)Беатрис3 из 23](https://boostmlbb.ru/heroes/beatrix.html)
+2.  [![](/images/heroes/benedetta.webp)Бенедетта4 из 23](https://boostmlbb.ru/heroes/benedetta.html)
+3.  [![](/images/heroes/lolita.webp)Лолита4 из 23](https://boostmlbb.ru/heroes/lolita.html)
+4.  [![](/images/heroes/yin.webp)Инь4 из 23](https://boostmlbb.ru/heroes/yin.html)
+5.  [![](/images/heroes/atlas.webp)Атлас3 из 23](https://boostmlbb.ru/heroes/atlas.html)
+6.  [![](/images/heroes/balmond.webp)Бальмонд3 из 23](https://boostmlbb.ru/heroes/balmond.html)
 
 **Поднимем ранг на любом из стрелков**Цена считается в калькуляторе
 
@@ -518,7 +518,7 @@ D
 
 Кто лучший стрелок в MLBB сейчас?
 
-Обсидия: тир S, 52,6% побед, бан в 64,8% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 24 ноября 2026 года.
+Обсидия: тир S, 52,6% побед, бан в 65,1% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди стрелков?
 
@@ -526,11 +526,11 @@ D
 
 Каких стрелков чаще всего банят?
 
-Обсидия (64,8%), Лесли (5,0%) и Мия (1,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Обсидия (65,1%), Лесли (5,1%) и Мия (1,8%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько стрелков в Mobile Legends?
 
-23 из 133 героев на 24 ноября 2026 года. В списке все герои роли «Стрелок».
+23 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Стрелок».
 
 Какие предметы чаще всего собирают на стрелках?
 

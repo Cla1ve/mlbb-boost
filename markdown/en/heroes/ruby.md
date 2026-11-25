@@ -1,6 +1,6 @@
 ---
 title: "Ruby MLBB: build, counters and skills | MLBB Boost"
-description: "Ruby in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.96% win rate, tier C."
+description: "Ruby in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.01% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/ruby.html
 language: en
 ---
@@ -271,7 +271,7 @@ Over the last 30 days the toughest opponents are Sun, Gloo, Argus, Karina and Lu
 
 What is Ruby’s win rate right now?
 
-48.96% at Mythical Glory over the last 7 days and 49.11% across all ranks over 30 days, as of 24 November 2026.
+49.01% at Mythical Glory over the last 7 days and 49.10% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Ruby play?
 

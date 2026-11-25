@@ -1,6 +1,6 @@
 ---
 title: "Дариус MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Дариус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,41% побед, тир B."
+description: "Дариус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,42% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/dyrroth.html
 language: ru
 ---
@@ -44,7 +44,7 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **47,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,9%**![](/images/ranks/Legend.webp)Легенда
+2.  **47,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -53,7 +53,7 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -286,7 +286,7 @@ B
 
 Какой процент побед у героя «Дариус» сейчас?
 
-51,41% в Мифической славе за последние 7 дней и 49,31% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+51,42% в Мифической славе за последние 7 дней и 49,32% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Дариус»?
 

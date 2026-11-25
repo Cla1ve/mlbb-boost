@@ -1,6 +1,6 @@
 ---
 title: "Johnson MLBB: build, counters and skills | MLBB Boost"
-description: "Johnson in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 47.85% win rate, tier C."
+description: "Johnson in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 47.94% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/johnson.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.6%
+0.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.6%**![](/images/ranks/Epic.webp)Epic
-2.  **50.9%**![](/images/ranks/Legend.webp)Legend
-3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **52.7%**![](/images/ranks/Epic.webp)Epic
+2.  **51.0%**![](/images/ranks/Legend.webp)Legend
+3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -58,7 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB tanks**17 of 25**](https://boostmlbb.ru/en/heroes/best-tank.html)
--   [Best MLBB roamers**22 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
+-   [Best MLBB roamers**23 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
 ## Build
 
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Layla, Zilong, Saber, Valentina
 
 What is Johnson’s win rate right now?
 
-47.85% at Mythical Glory over the last 7 days and 49.28% across all ranks over 30 days, as of 24 November 2026.
+47.94% at Mythical Glory over the last 7 days and 49.32% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Johnson play?
 
@@ -284,7 +284,7 @@ Tank and support, played on roam.
 
 Is Johnson strong in the current meta?
 
-Tier C, #103 of 133 heroes and #17 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 47.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #103 of 133 heroes and #17 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 47.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Johnson?
 

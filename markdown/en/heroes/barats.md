@@ -1,6 +1,6 @@
 ---
 title: "Barats MLBB: build, counters and skills | MLBB Boost"
-description: "Barats in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 51.59% win rate, tier A."
+description: "Barats in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 51.58% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/barats.html
 language: en
 ---
@@ -21,11 +21,11 @@ Win rate
 
 Pick rate
 
-0.8%
+0.7%
 
 Ban rate
 
-3.2%
+3.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **50.7%**![](/images/ranks/Epic.webp)Epic
 2.  **51.4%**![](/images/ranks/Legend.webp)Legend
-3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
+3.  **52.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Silvanna, Phoveus, Argus, Aluca
 
 What is Barats’s win rate right now?
 
-51.59% at Mythical Glory over the last 7 days and 51.66% across all ranks over 30 days, as of 24 November 2026.
+51.58% at Mythical Glory over the last 7 days and 51.66% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Barats play?
 
@@ -284,7 +284,7 @@ Tank and fighter, played in the EXP Lane.
 
 Is Barats strong in the current meta?
 
-Tier A, #24 of 133 heroes and #8 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.2% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 42.2% of them.
+Tier A, #24 of 133 heroes and #8 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.1% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 42.2% of them.
 
 What is the best build for Barats?
 

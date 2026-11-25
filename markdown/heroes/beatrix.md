@@ -1,6 +1,6 @@
 ---
 title: "Беатрис MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Беатрис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,56% побед, тир C."
+description: "Беатрис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,53% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/beatrix.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-50,6%
+50,5%
 
 Выбор
 
@@ -267,7 +267,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
+[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
 
 ## История
 
@@ -287,7 +287,7 @@ C
 
 Какой процент побед у героя «Беатрис» сейчас?
 
-50,56% в Мифической славе за последние 7 дней и 50,35% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+50,53% в Мифической славе за последние 7 дней и 50,33% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Беатрис»?
 
@@ -295,7 +295,7 @@ C
 
 Силён ли герой «Беатрис» в текущей мете?
 
-Тир C, 70-е место из 133 героев и 13-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,6% побед. В профессиональных матчах за месяц героя драфтуют в 2,1% катков.
+Тир C, 70-е место из 133 героев и 13-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,5% побед. В профессиональных матчах за месяц героя драфтуют в 2,1% катков.
 
 Какая сборка на героя «Беатрис» лучшая?
 

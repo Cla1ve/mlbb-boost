@@ -46,8 +46,8 @@ Ban rate
 1.  **53.6%**![](/images/ranks/Epic.webp)Epic
 2.  **52.8%**![](/images/ranks/Legend.webp)Legend
 3.  **52.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **52.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -253,7 +253,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
+[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Freya, Phoveus, Harith, Martis 
 
 What is Minsitthar’s win rate right now?
 
-52.09% at Mythical Glory over the last 7 days and 52.09% across all ranks over 30 days, as of 24 November 2026.
+52.09% at Mythical Glory over the last 7 days and 52.12% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Minsitthar play?
 

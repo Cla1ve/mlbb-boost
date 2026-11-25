@@ -1,6 +1,6 @@
 ---
 title: "Chou MLBB: build, counters and skills | MLBB Boost"
-description: "Chou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 44.71% win rate, tier B."
+description: "Chou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 44.67% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-1.8%
+1.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -268,7 +268,7 @@ Over the last 30 days the toughest opponents are X.Borg, Fanny, Beatrix, Ixia an
 
 What is Chou’s win rate right now?
 
-44.71% at Mythical Glory over the last 7 days and 45.10% across all ranks over 30 days, as of 24 November 2026.
+44.67% at Mythical Glory over the last 7 days and 45.10% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Chou play?
 
@@ -276,7 +276,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Chou strong in the current meta?
 
-Tier B, #47 of 133 heroes and #14 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 44.7% win rate. In professional games over the last month the hero is drafted in 24.4% of them.
+Tier B, #47 of 133 heroes and #14 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 44.7% win rate. In professional games over the last month the hero is drafted in 24.4% of them.
 
 What is the best build for Chou?
 

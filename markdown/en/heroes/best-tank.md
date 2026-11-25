@@ -9,11 +9,11 @@ language: en
 
 # Best MLBB tanks
 
-25 heroes · Updated 24 November
+25 heroes · Updated 25 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Masha, Carmilla and Belerick lead the tanks right now. Masha wins 58.7% of Mythical Glory games over 7 days and is banned in 68.0% of them. The list has 25 heroes, 9 of them in tier S or A.
+Masha, Carmilla and Belerick lead the tanks right now. Masha wins 58.8% of Mythical Glory games over 7 days and is banned in 67.5% of them. The list has 25 heroes, 9 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -27,7 +27,7 @@ S
 
 Win rate
 
-58.7%
+58.8%
 
 Pick rate
 
@@ -35,7 +35,7 @@ Pick rate
 
 Ban rate
 
-68.0%
+67.5%
 
 ![](/images/mlbb/items/2212.webp)
 
@@ -115,7 +115,7 @@ Pick rate
 
 Ban rate
 
-56.3%
+56.4%
 
 ![](/images/mlbb/items/2212.webp)
 
@@ -161,11 +161,11 @@ Pro
 
 S
 
-58.7%
+58.8%
 
 0.7%
 
-68.0%
+67.5%
 
 100.0%
 
@@ -193,7 +193,7 @@ S
 
 1.8%
 
-56.3%
+56.4%
 
 38.0%
 
@@ -207,7 +207,7 @@ A
 
 1.0%
 
-8.6%
+8.5%
 
 75.1%
 
@@ -231,7 +231,7 @@ A
 
 A
 
-46.4%
+46.5%
 
 0.9%
 
@@ -247,9 +247,9 @@ A
 
 49.9%
 
-0.8%
+0.7%
 
-36.4%
+36.1%
 
 26.6%
 
@@ -261,9 +261,9 @@ A
 
 51.6%
 
-0.8%
+0.7%
 
-3.2%
+3.1%
 
 42.2%
 
@@ -277,7 +277,7 @@ A
 
 1.4%
 
-10.1%
+10.2%
 
 11.3%
 
@@ -319,7 +319,7 @@ C
 
 1.6%
 
-4.7%
+4.8%
 
 —
 
@@ -347,7 +347,7 @@ C
 
 0.4%
 
-3.7%
+3.9%
 
 3.5%
 
@@ -371,7 +371,7 @@ C
 
 C
 
-52.5%
+52.4%
 
 0.3%
 
@@ -389,7 +389,7 @@ C
 
 0.5%
 
-0.6%
+0.7%
 
 —
 
@@ -413,7 +413,7 @@ C
 
 C
 
-49.2%
+49.3%
 
 0.3%
 
@@ -455,11 +455,11 @@ C
 
 D
 
-52.3%
+52.4%
 
 0.1%
 
-0.1%
+0.2%
 
 —
 
@@ -487,7 +487,7 @@ C
 
 0.6%
 
-1.7%
+1.8%
 
 —
 
@@ -497,7 +497,7 @@ C
 
 D
 
-45.9%
+46.0%
 
 0.1%
 
@@ -522,20 +522,20 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 
 1.  [![](/images/heroes/minotaur.webp)Minotaur54.9%](https://boostmlbb.ru/en/heroes/minotaur.html)
 2.  [![](/images/heroes/khufra.webp)Khufra54.7%](https://boostmlbb.ru/en/heroes/khufra.html)
-3.  [![](/images/heroes/atlas.webp)Atlas53.9%](https://boostmlbb.ru/en/heroes/atlas.html)
+3.  [![](/images/heroes/atlas.webp)Atlas53.8%](https://boostmlbb.ru/en/heroes/atlas.html)
 4.  [![](/images/heroes/edith.webp)Edith53.4%](https://boostmlbb.ru/en/heroes/edith.html)
-5.  [![](/images/heroes/hilda.webp)Hilda52.9%](https://boostmlbb.ru/en/heroes/hilda.html)
-6.  [![](/images/heroes/barats.webp)Barats51.8%](https://boostmlbb.ru/en/heroes/barats.html)
+5.  [![](/images/heroes/hilda.webp)Hilda53.0%](https://boostmlbb.ru/en/heroes/hilda.html)
+6.  [![](/images/heroes/barats.webp)Barats51.7%](https://boostmlbb.ru/en/heroes/barats.html)
 
 ## Who beats tanks
 
 How many heroes of this list it beats, by official counters.
 
 1.  [![](/images/heroes/johnson.webp)Johnson6 of 25](https://boostmlbb.ru/en/heroes/johnson.html)
-2.  [![](/images/heroes/lolita.webp)Lolita6 of 25](https://boostmlbb.ru/en/heroes/lolita.html)
-3.  [![](/images/heroes/silvanna.webp)Silvanna6 of 25](https://boostmlbb.ru/en/heroes/silvanna.html)
-4.  [![](/images/heroes/zilong.webp)Zilong6 of 25](https://boostmlbb.ru/en/heroes/zilong.html)
-5.  [![](/images/heroes/alucard.webp)Alucard5 of 25](https://boostmlbb.ru/en/heroes/alucard.html)
+2.  [![](/images/heroes/silvanna.webp)Silvanna6 of 25](https://boostmlbb.ru/en/heroes/silvanna.html)
+3.  [![](/images/heroes/zilong.webp)Zilong6 of 25](https://boostmlbb.ru/en/heroes/zilong.html)
+4.  [![](/images/heroes/alucard.webp)Alucard5 of 25](https://boostmlbb.ru/en/heroes/alucard.html)
+5.  [![](/images/heroes/lolita.webp)Lolita5 of 25](https://boostmlbb.ru/en/heroes/lolita.html)
 6.  [![](/images/heroes/saber.webp)Saber5 of 25](https://boostmlbb.ru/en/heroes/saber.html)
 
 **We can rank up on any of the tanks**The calculator shows the price
@@ -546,7 +546,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best tank in MLBB right now?
 
-Masha: tier S, 58.7% win rate, banned in 68.0% of Mythical Glory games over 7 days. Carmilla and Belerick follow. Data as of 24 November 2026.
+Masha: tier S, 58.8% win rate, banned in 67.5% of Mythical Glory games over 7 days. Carmilla and Belerick follow. Data as of 25 November 2026.
 
 Which of the tanks should a beginner pick?
 
@@ -554,11 +554,11 @@ Carmilla, Belerick and Tigreal are the easiest to play: their difficulty on the 
 
 Which tanks get banned most?
 
-Masha (68.0%), Belerick (56.3%) and Carmilla (37.2%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Masha (67.5%), Belerick (56.4%) and Carmilla (37.2%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many tanks are there in Mobile Legends?
 
-25 of 133 heroes as of 24 November 2026. The list has every hero with the Tank role.
+25 of 133 heroes as of 25 November 2026. The list has every hero with the Tank role.
 
 Which items do tanks build most often?
 

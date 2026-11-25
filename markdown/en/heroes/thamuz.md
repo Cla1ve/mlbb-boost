@@ -1,6 +1,6 @@
 ---
 title: "Thamuz MLBB: build, counters and skills | MLBB Boost"
-description: "Thamuz in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.47% win rate, tier C."
+description: "Thamuz in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.43% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/thamuz.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-48.5%
+48.4%
 
 Pick rate
 
@@ -47,13 +47,13 @@ Ban rate
 2.  **48.9%**![](/images/ranks/Legend.webp)Legend
 3.  **49.8%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -230,7 +230,7 @@ Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber a
 
 What is Thamuz’s win rate right now?
 
-48.47% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 24 November 2026.
+48.43% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Thamuz play?
 
@@ -238,7 +238,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Thamuz strong in the current meta?
 
-Tier C, #94 of 133 heroes and #29 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 1.7% of them.
+Tier C, #93 of 133 heroes and #29 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 1.7% of them.
 
 What is the best build for Thamuz?
 

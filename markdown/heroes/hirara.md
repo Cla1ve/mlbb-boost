@@ -25,7 +25,7 @@ S
 
 Баны
 
-84,7%
+84,5%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -46,14 +46,14 @@ S
 1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,4%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **51,0%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ### Места в рейтингах
 
@@ -242,7 +242,7 @@ S
 
 Побеждают этого героя
 
-[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## История
 
@@ -258,11 +258,11 @@ S
 
 Кто контрпик для героя «Хирара» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Ханзо, Карина, Икс.Борг, Инь и Лолита.
+За последние 30 дней чаще всего героя обыгрывают Карина, Ханзо, Икс.Борг, Инь и Лолита.
 
 Какой процент побед у героя «Хирара» сейчас?
 
-49,52% в Мифической славе за последние 7 дней и 50,03% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,52% в Мифической славе за последние 7 дней и 50,04% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хирара»?
 
@@ -270,7 +270,7 @@ S
 
 Силён ли герой «Хирара» в текущей мете?
 
-Тир S, 4-е место из 133 героев и 2-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 84,7% матчей, 49,5% побед. В профессиональных матчах за месяц героя драфтуют в 65,0% катков.
+Тир S, 4-е место из 133 героев и 2-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 84,5% матчей, 49,5% побед. В профессиональных матчах за месяц героя драфтуют в 65,0% катков.
 
 Какая сборка на героя «Хирара» лучшая?
 

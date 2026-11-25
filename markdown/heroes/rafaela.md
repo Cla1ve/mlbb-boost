@@ -25,7 +25,7 @@ B
 
 Баны
 
-9,4%
+9,2%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -44,9 +44,9 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **53,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,7%**![](/images/ranks/Legend.webp)Легенда
+2.  **54,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **55,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **55,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **55,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **53,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -247,7 +247,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
 
 ### Слабые цели
 
@@ -269,11 +269,11 @@ B
 
 Кто контрпик для героя «Рафаэль» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Валир, Наталья, Марсель, Хилос и Чичи.
+За последние 30 дней чаще всего героя обыгрывают Наталья, Валир, Марсель, Хилос и Чичи.
 
 Какой процент побед у героя «Рафаэль» сейчас?
 
-53,21% в Мифической славе за последние 7 дней и 54,46% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+53,21% в Мифической славе за последние 7 дней и 54,41% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Рафаэль»?
 
@@ -281,7 +281,7 @@ B
 
 Силён ли герой «Рафаэль» в текущей мете?
 
-Тир B, 33-е место из 133 героев и 8-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 9,4% матчей, 53,2% побед. В профессиональных матчах за месяц героя драфтуют в 7,7% катков.
+Тир B, 33-е место из 133 героев и 8-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 9,2% матчей, 53,2% побед. В профессиональных матчах за месяц героя драфтуют в 7,7% катков.
 
 Какая сборка на героя «Рафаэль» лучшая?
 

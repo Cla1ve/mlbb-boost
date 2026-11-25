@@ -1,6 +1,6 @@
 ---
 title: "Saber MLBB: build, counters and skills | MLBB Boost"
-description: "Saber in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 53.66% win rate, tier B."
+description: "Saber in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 53.71% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/saber.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-12.7%
+13.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ### Places in the rankings
 
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Ling, Nolan, Natalia, Lunox and
 
 What is Saber’s win rate right now?
 
-53.66% at Mythical Glory over the last 7 days and 51.23% across all ranks over 30 days, as of 24 November 2026.
+53.71% at Mythical Glory over the last 7 days and 51.26% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Saber play?
 
@@ -283,7 +283,7 @@ Assassin, played in the jungle or on roam.
 
 Is Saber strong in the current meta?
 
-Tier B, #32 of 133 heroes and #6 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 12.7% of matches, 53.7% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
+Tier B, #32 of 133 heroes and #6 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.0% of matches, 53.7% win rate. In professional games over the last month the hero is drafted in 5.2% of them.
 
 What is the best build for Saber?
 

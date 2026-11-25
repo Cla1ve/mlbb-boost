@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T12:37:03.713Z",
+  "checkedAt": "2026-11-25T11:27:09.853Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,89 @@
     }
   ],
   "reviewStats": {
-    "count": 1315,
+    "count": 1321,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2366,
+      "rating": 5,
+      "text": "влапзи могнул",
+      "messageLink": "https://t.me/Cla1ve_boost/2296",
+      "boostType": "standard",
+      "rankFrom": "Мифический бессмертный, 110⭐",
+      "rankTo": "Мифический бессмертный, 115⭐",
+      "hero": null,
+      "duration": "3ч 22м после оплаты",
+      "booster": "VlapTzy",
+      "published": "2026-11-25"
+    },
+    {
+      "id": 2365,
+      "rating": 5,
+      "text": "Супер, топовая селенка, специалист высшего уровня, знает свое дело на сто из ста",
+      "messageLink": "https://t.me/Cla1ve_boost/2295",
+      "boostType": "hero",
+      "rankFrom": "Мифический бессмертный, 135⭐",
+      "rankTo": "Мифический бессмертный, 141⭐",
+      "hero": "Селена",
+      "duration": "2ч 22м после оплаты",
+      "booster": "Mitsu",
+      "published": "2026-11-25"
+    },
+    {
+      "id": 2361,
+      "rating": 5,
+      "text": "Спасибо большое за буст. 100% побед, быстро и качественно",
+      "messageLink": "https://t.me/Cla1ve_boost/2291",
+      "boostType": "role",
+      "rankFrom": "Мифическая слава, 57⭐",
+      "rankTo": "Мифическая слава, 63⭐",
+      "hero": null,
+      "duration": "1ч 55м после оплаты",
+      "booster": "Терпение",
+      "published": "2026-11-24"
+    },
+    {
+      "id": 2358,
+      "rating": 5,
+      "text": "Гууууд, быстрее вышло чем думал даже",
+      "messageLink": "https://t.me/Cla1ve_boost/2287",
+      "boostType": "hero",
+      "rankFrom": "Мифическая честь, 44⭐",
+      "rankTo": "Мифическая слава, 51⭐",
+      "hero": "Лилия",
+      "duration": "2ч 40м после оплаты",
+      "booster": "Kris",
+      "published": "2026-11-24"
+    },
+    {
+      "id": 2357,
+      "rating": 5,
+      "text": "Спасибо, всё чётко.",
+      "messageLink": "https://t.me/Cla1ve_boost/2285",
+      "boostType": "hero",
+      "rankFrom": "Мифический бессмертный, 106⭐",
+      "rankTo": "Мифический бессмертный, 111⭐",
+      "hero": "Фредрин",
+      "duration": "6ч 3м после оплаты",
+      "booster": "Yandigo",
+      "published": "2026-11-24"
+    },
+    {
+      "id": 2356,
+      "rating": 5,
+      "text": "Довольно быстро и качественно 🤙",
+      "messageLink": "https://t.me/Cla1ve_boost/2284",
+      "boostType": "hero",
+      "rankFrom": "Мифический бессмертный, 127⭐",
+      "rankTo": "Мифический бессмертный, 137⭐",
+      "hero": "Грейнджер",
+      "duration": "6ч 6м после оплаты",
+      "booster": "Legit",
+      "published": "2026-11-24"
+    },
     {
       "id": 2354,
       "rating": 5,
@@ -989,84 +1067,6 @@
       "duration": "2ч 37м после оплаты",
       "booster": "Izy",
       "published": "2026-10-31"
-    },
-    {
-      "id": 2251,
-      "rating": 5,
-      "text": "Шпашибо, свага, +rep",
-      "messageLink": "https://t.me/Cla1ve_boost/2146",
-      "boostType": "hero",
-      "rankFrom": "Мифик, 19⭐",
-      "rankTo": "Мифическая честь, 35⭐",
-      "hero": "Маша(приоритет), Алиса",
-      "duration": "5ч 37м после оплаты",
-      "booster": "VlapTzy",
-      "published": "2026-10-30"
-    },
-    {
-      "id": 2250,
-      "rating": 5,
-      "text": "Буст отличный, спасибо за игру\nМне просто хотелось побегать на мурчалках без проигрышей, все было на высшем уровне",
-      "messageLink": "https://t.me/Cla1ve_boost/2145",
-      "boostType": "party",
-      "rankFrom": "Мифическая честь, 36⭐",
-      "rankTo": "Мифическая честь, 41⭐",
-      "hero": null,
-      "duration": "5ч 48м после оплаты",
-      "booster": "tomioka",
-      "published": "2026-10-30"
-    },
-    {
-      "id": 2249,
-      "rating": 5,
-      "text": "Один из лучших бустеров сервиса, надежный и ответственный",
-      "messageLink": "https://t.me/Cla1ve_boost/2144",
-      "boostType": "rising_login",
-      "rankFrom": "Rising Stage 4",
-      "rankTo": "3 побед",
-      "hero": null,
-      "duration": "6ч 6м после оплаты",
-      "booster": "britanskiy",
-      "published": "2026-10-30"
-    },
-    {
-      "id": 2246,
-      "rating": 5,
-      "text": "Лучший сервис, лучшие ребята , которые знают свою работу и делают ее на 100%",
-      "messageLink": "https://t.me/Cla1ve_boost/2142",
-      "boostType": "rising_login",
-      "rankFrom": "Rising Stage 5",
-      "rankTo": "3 побед",
-      "hero": null,
-      "duration": "10ч 55м после оплаты",
-      "booster": "tomioka",
-      "published": "2026-10-30"
-    },
-    {
-      "id": 2245,
-      "rating": 5,
-      "text": "Хороший буст на адк",
-      "messageLink": "https://t.me/Cla1ve_boost/2141",
-      "boostType": "role",
-      "rankFrom": "Легенда III, 1⭐",
-      "rankTo": "Легенда I, 1⭐",
-      "hero": null,
-      "duration": "5ч 2м после оплаты",
-      "booster": "Zwihsk",
-      "published": "2026-10-30"
-    },
-    {
-      "id": 2244,
-      "rating": 5,
-      "text": "Высший пилотаж",
-      "messageLink": "https://t.me/Cla1ve_boost/2137",
-      "boostType": "role",
-      "rankFrom": "Эпик II, 1⭐",
-      "rankTo": "Легенда III, 1⭐",
-      "hero": null,
-      "duration": "5ч 19м после оплаты",
-      "booster": "Mitsu",
-      "published": "2026-10-30"
     }
   ]
 }

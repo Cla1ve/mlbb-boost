@@ -1,6 +1,6 @@
 ---
 title: "Chang'e MLBB: build, counters and skills | MLBB Boost"
-description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 45.95% win rate, tier C."
+description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.00% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.1%**![](/images/ranks/Epic.webp)Epic
-2.  **49.8%**![](/images/ranks/Legend.webp)Legend
-3.  **48.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **45.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **51.2%**![](/images/ranks/Epic.webp)Epic
+2.  **49.9%**![](/images/ranks/Legend.webp)Legend
+3.  **48.8%**![](/images/ranks/Mythic.webp)Mythic
+4.  **47.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **45.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -278,7 +278,7 @@ Over the last 30 days the toughest opponents are Diggie, Balmond, Martis, Alpha 
 
 What is Chang'e’s win rate right now?
 
-45.95% at Mythical Glory over the last 7 days and 48.20% across all ranks over 30 days, as of 24 November 2026.
+46.00% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Chang'e play?
 

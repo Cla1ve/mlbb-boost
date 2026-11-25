@@ -1,6 +1,6 @@
 ---
 title: "Хильда MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хильда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 48,68% побед, тир C."
+description: "Хильда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 48,66% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/hilda.html
 language: ru
 ---
@@ -25,7 +25,7 @@ C
 
 Баны
 
-3,7%
+3,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -44,10 +44,10 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **54,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **53,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,4%**![](/images/ranks/Mythic.webp)Мифик
+2.  **53,5%**![](/images/ranks/Legend.webp)Легенда
+3.  **52,5%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **47,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -255,7 +255,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
+[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
 
 ## История
 
@@ -275,7 +275,7 @@ C
 
 Какой процент побед у героя «Хильда» сейчас?
 
-48,68% в Мифической славе за последние 7 дней и 51,07% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,66% в Мифической славе за последние 7 дней и 51,07% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хильда»?
 
@@ -283,7 +283,7 @@ C
 
 Силён ли герой «Хильда» в текущей мете?
 
-Тир C, 77-е место из 133 героев и 14-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,7% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 3,5% катков.
+Тир C, 77-е место из 133 героев и 14-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,9% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 3,5% катков.
 
 Какая сборка на героя «Хильда» лучшая?
 

@@ -9,7 +9,7 @@ language: ru
 
 # Лучшие герои для новичков в MLBB
 
-34 героя · Обновлено 24 ноября
+34 героя · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -31,7 +31,7 @@ S
 
 Победы, Легенда
 
-58,0%
+57,9%
 
 Сложность
 
@@ -145,7 +145,7 @@ S
 
 1.  [![](/images/heroes/masha.webp)Маша56,3%](https://boostmlbb.ru/heroes/masha.html)
 2.  [![](/images/heroes/belerick.webp)Белерик55,2%](https://boostmlbb.ru/heroes/belerick.html)
-3.  [![](/images/heroes/minotaur.webp)Минотавр54,5%](https://boostmlbb.ru/heroes/minotaur.html)
+3.  [![](/images/heroes/minotaur.webp)Минотавр54,4%](https://boostmlbb.ru/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Кармилла54,4%](https://boostmlbb.ru/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Простые бойцы
@@ -161,7 +161,7 @@ S
 
 ### ![](/images/mlbb/filters/mage.webp)Простые маги
 
-1.  [![](/images/heroes/valir.webp)Валир54,3%](https://boostmlbb.ru/heroes/valir.html)
+1.  [![](/images/heroes/valir.webp)Валир54,2%](https://boostmlbb.ru/heroes/valir.html)
 2.  [![](/images/heroes/gord.webp)Горд52,5%](https://boostmlbb.ru/heroes/gord.html)
 3.  [![](/images/heroes/zetian.webp)Цзэтянь51,5%](https://boostmlbb.ru/heroes/zetian.html)
 4.  [![](/images/heroes/vale.webp)Вэйл51,1%](https://boostmlbb.ru/heroes/vale.html)
@@ -175,9 +175,9 @@ S
 
 ### ![](/images/mlbb/filters/support.webp)Простые герои поддержки
 
-1.  [![](/images/heroes/marcel.webp)Марсель56,3%](https://boostmlbb.ru/heroes/marcel.html)
+1.  [![](/images/heroes/marcel.webp)Марсель56,2%](https://boostmlbb.ru/heroes/marcel.html)
 2.  [![](/images/heroes/floryn.webp)Флорин55,0%](https://boostmlbb.ru/heroes/floryn.html)
-3.  [![](/images/heroes/minotaur.webp)Минотавр54,5%](https://boostmlbb.ru/heroes/minotaur.html)
+3.  [![](/images/heroes/minotaur.webp)Минотавр54,4%](https://boostmlbb.ru/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Кармилла54,4%](https://boostmlbb.ru/heroes/carmilla.html)
 
 ## Простые и сильные герои
@@ -204,7 +204,7 @@ S
 
 54,6%
 
-58,0%
+57,9%
 
 0,5%
 
@@ -238,7 +238,7 @@ S
 
 30
 
-55,6%
+55,5%
 
 54,5%
 
@@ -262,7 +262,7 @@ S
 
 10
 
-54,3%
+54,2%
 
 54,6%
 
@@ -274,9 +274,9 @@ S
 
 20
 
-54,3%
+54,2%
 
-54,3%
+54,2%
 
 1,2%
 
@@ -288,7 +288,7 @@ S
 
 54,9%
 
-53,4%
+53,5%
 
 0,6%
 
@@ -348,7 +348,7 @@ S
 
 51,8%
 
-52,9%
+52,8%
 
 2,2%
 
@@ -370,9 +370,9 @@ S
 
 20
 
-51,6%
+51,5%
 
-52,5%
+52,4%
 
 0,8%
 
@@ -394,9 +394,9 @@ S
 
 20
 
-51,3%
+51,2%
 
-51,7%
+51,6%
 
 0,3%
 
@@ -436,6 +436,18 @@ S
 
 0,4%
 
+[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
+
+маг
+
+10
+
+51,5%
+
+50,8%
+
+0,5%
+
 [![](/images/heroes/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 поддержка
@@ -448,27 +460,15 @@ S
 
 0,2%
 
-[![](/images/heroes/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
-
-маг
-
-10
-
-51,4%
-
-50,8%
-
-0,5%
-
 [![](/images/heroes/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 боец
 
 30
 
-51,8%
+51,7%
 
-50,5%
+50,4%
 
 0,3%
 
@@ -478,9 +478,9 @@ S
 
 30
 
-50,8%
+50,7%
 
-51,4%
+51,3%
 
 0,8%
 
@@ -538,7 +538,7 @@ S
 
 10
 
-50,2%
+50,1%
 
 49,8%
 
@@ -550,7 +550,7 @@ S
 
 20
 
-49,6%
+49,5%
 
 50,2%
 
@@ -574,7 +574,7 @@ S
 
 10
 
-50,1%
+50,2%
 
 49,0%
 

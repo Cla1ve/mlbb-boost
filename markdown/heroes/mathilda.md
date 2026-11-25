@@ -1,6 +1,6 @@
 ---
 title: "Матильда MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Матильда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и поддержка, 43,96% побед, тир D."
+description: "Матильда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и поддержка, 43,95% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/mathilda.html
 language: ru
 ---
@@ -260,7 +260,7 @@ D
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
+[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
@@ -280,7 +280,7 @@ D
 
 Какой процент побед у героя «Матильда» сейчас?
 
-43,96% в Мифической славе за последние 7 дней и 44,48% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+43,95% в Мифической славе за последние 7 дней и 44,47% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Матильда»?
 

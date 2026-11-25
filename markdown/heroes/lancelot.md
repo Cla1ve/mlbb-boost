@@ -1,6 +1,6 @@
 ---
 title: "Ланселот MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ланселот в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 42,22% побед, тир C."
+description: "Ланселот в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 42,18% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/lancelot.html
 language: ru
 ---
@@ -53,7 +53,7 @@ C
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
 
 ### Места в рейтингах
 
@@ -272,7 +272,7 @@ C
 
 Какой процент побед у героя «Ланселот» сейчас?
 
-42,22% в Мифической славе за последние 7 дней и 43,11% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+42,18% в Мифической славе за последние 7 дней и 43,10% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Ланселот»?
 

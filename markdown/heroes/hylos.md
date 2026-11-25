@@ -45,8 +45,8 @@ D
 
 1.  **51,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,4%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **49,8%**![](/images/ranks/Mythic.webp)Мифик
+4.  **48,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **46,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -58,7 +58,7 @@ D
 ### Места в рейтингах
 
 -   [Лучшие танки MLBB**20 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
--   [Лучшие роумеры MLBB**27 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+-   [Лучшие роумеры MLBB**26 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
 
@@ -252,7 +252,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
 
 ### Слабые цели
 
@@ -274,11 +274,11 @@ D
 
 Кто контрпик для героя «Хилос» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Зилонг, Лейла, Инь, Сабер и Нана.
+За последние 30 дней чаще всего героя обыгрывают Зилонг, Лейла, Инь, Сабер и Вэйл.
 
 Какой процент побед у героя «Хилос» сейчас?
 
-46,98% в Мифической славе за последние 7 дней и 48,55% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+46,98% в Мифической славе за последние 7 дней и 48,55% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хилос»?
 
@@ -286,7 +286,7 @@ D
 
 Силён ли герой «Хилос» в текущей мете?
 
-Тир D, 118-е место из 133 героев и 20-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,0% побед. В профессиональных матчах за месяц героя драфтуют в 2,5% катков.
+Тир D, 117-е место из 133 героев и 20-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,0% побед. В профессиональных матчах за месяц героя драфтуют в 2,5% катков.
 
 Какая сборка на героя «Хилос» лучшая?
 

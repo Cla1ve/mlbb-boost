@@ -9,11 +9,11 @@ language: ru
 
 # Лучшие убийцы MLBB
 
-29 героев · Обновлено 24 ноября
+29 героев · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди убийц сейчас лидируют Нолан, Хирара и Пакито. Нолан: 50,4% побед и бан в 37,1% матчей Мифической славы за 7 дней. В списке 29 героев, из них 4 в тире S или A.
+Среди убийц сейчас лидируют Нолан, Хирара и Пакито. Нолан: 50,4% побед и бан в 38,3% матчей Мифической славы за 7 дней. В списке 29 героев, из них 4 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -31,11 +31,11 @@ S
 
 Выбор
 
-2,7%
+2,6%
 
 Баны
 
-37,1%
+38,3%
 
 ![](/images/mlbb/items/3009.webp)
 
@@ -75,7 +75,7 @@ S
 
 Баны
 
-84,7%
+84,5%
 
 ![](/images/mlbb/items/3009.webp)
 
@@ -115,7 +115,7 @@ A
 
 Баны
 
-11,1%
+10,8%
 
 ![](/images/mlbb/items/3009.webp)
 
@@ -163,9 +163,9 @@ S
 
 50,4%
 
-2,7%
+2,6%
 
-37,1%
+38,3%
 
 82,8%
 
@@ -179,7 +179,7 @@ S
 
 0,8%
 
-84,7%
+84,5%
 
 65,0%
 
@@ -193,7 +193,7 @@ A
 
 1,4%
 
-11,1%
+10,8%
 
 69,3%
 
@@ -207,7 +207,7 @@ A
 
 1,4%
 
-3,8%
+3,7%
 
 32,9%
 
@@ -235,7 +235,7 @@ B
 
 0,8%
 
-12,7%
+13,0%
 
 5,2%
 
@@ -249,7 +249,7 @@ B
 
 0,9%
 
-2,9%
+3,0%
 
 23,7%
 
@@ -263,7 +263,7 @@ B
 
 2,0%
 
-5,0%
+5,1%
 
 6,8%
 
@@ -275,7 +275,7 @@ B
 
 48,8%
 
-0,6%
+0,7%
 
 0,8%
 
@@ -289,7 +289,7 @@ B
 
 43,0%
 
-0,7%
+0,8%
 
 1,6%
 
@@ -339,6 +339,20 @@ B
 
 14
 
+[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+
+B
+
+49,2%
+
+0,9%
+
+4,6%
+
+—
+
+15
+
 [![](/images/heroes/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
 
 B
@@ -350,20 +364,6 @@ B
 1,5%
 
 2,5%
-
-15
-
-[![](/images/heroes/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
-
-B
-
-49,2%
-
-0,9%
-
-4,4%
-
-—
 
 16
 
@@ -389,7 +389,7 @@ C
 
 0,7%
 
-0,5%
+0,6%
 
 3,1%
 
@@ -413,7 +413,7 @@ C
 
 C
 
-50,4%
+50,2%
 
 0,6%
 
@@ -429,7 +429,7 @@ C
 
 49,3%
 
-0,3%
+0,4%
 
 3,1%
 
@@ -459,7 +459,7 @@ C
 
 0,4%
 
-2,2%
+2,3%
 
 —
 
@@ -469,7 +469,7 @@ C
 
 D
 
-50,3%
+50,4%
 
 0,2%
 
@@ -483,7 +483,7 @@ D
 
 C
 
-49,9%
+50,0%
 
 0,3%
 
@@ -578,7 +578,7 @@ C
 
 1.  [![](/images/heroes/ling.webp)Линг53,4%](https://boostmlbb.ru/heroes/ling.html)
 2.  [![](/images/heroes/benedetta.webp)Бенедетта52,7%](https://boostmlbb.ru/heroes/benedetta.html)
-3.  [![](/images/heroes/natalia.webp)Наталья51,8%](https://boostmlbb.ru/heroes/natalia.html)
+3.  [![](/images/heroes/natalia.webp)Наталья51,9%](https://boostmlbb.ru/heroes/natalia.html)
 4.  [![](/images/heroes/hanzo.webp)Ханзо50,7%](https://boostmlbb.ru/heroes/hanzo.html)
 5.  [![](/images/heroes/saber.webp)Сабер50,6%](https://boostmlbb.ru/heroes/saber.html)
 6.  [![](/images/heroes/kadita.webp)Кадита50,5%](https://boostmlbb.ru/heroes/kadita.html)
@@ -587,7 +587,7 @@ C
 
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
-1.  [![](/images/heroes/x-borg.webp)Икс.Борг14 из 29](https://boostmlbb.ru/heroes/x-borg.html)
+1.  [![](/images/heroes/x-borg.webp)Икс.Борг15 из 29](https://boostmlbb.ru/heroes/x-borg.html)
 2.  [![](/images/heroes/natalia.webp)Наталья7 из 29](https://boostmlbb.ru/heroes/natalia.html)
 3.  [![](/images/heroes/yve.webp)Ив7 из 29](https://boostmlbb.ru/heroes/yve.html)
 4.  [![](/images/heroes/atlas.webp)Атлас5 из 29](https://boostmlbb.ru/heroes/atlas.html)
@@ -602,7 +602,7 @@ C
 
 Кто лучший убийца в MLBB сейчас?
 
-Нолан: тир S, 50,4% побед, бан в 37,1% матчей Мифической славы за 7 дней. Следом идут Хирара и Пакито. Данные на 24 ноября 2026 года.
+Нолан: тир S, 50,4% побед, бан в 38,3% матчей Мифической славы за 7 дней. Следом идут Хирара и Пакито. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди убийц?
 
@@ -610,11 +610,11 @@ C
 
 Каких убийц чаще всего банят?
 
-Хирара (84,7%), Нолан (37,1%) и Сабер (12,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Хирара (84,5%), Нолан (38,3%) и Сабер (13,0%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько убийц в Mobile Legends?
 
-29 из 133 героев на 24 ноября 2026 года. В списке все герои роли «Убийца».
+29 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Убийца».
 
 Какие предметы чаще всего собирают на убийцах?
 

@@ -1,6 +1,6 @@
 ---
 title: "Лукас MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лукас в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,87% побед, тир A."
+description: "Лукас в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,88% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/lukas.html
 language: ru
 ---
@@ -25,7 +25,7 @@ A
 
 Баны
 
-33,4%
+32,0%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,17 +43,17 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,4%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,0%**![](/images/ranks/Mythical_Glory.webp)Слава
+1.  **50,7%**![](/images/ranks/Epic.webp)Эпик
+2.  **51,3%**![](/images/ranks/Legend.webp)Легенда
+3.  **51,5%**![](/images/ranks/Mythic.webp)Мифик
+4.  **52,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
@@ -284,7 +284,7 @@ A
 
 Какой процент побед у героя «Лукас» сейчас?
 
-50,87% в Мифической славе за последние 7 дней и 51,91% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+50,88% в Мифической славе за последние 7 дней и 51,85% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Лукас»?
 
@@ -292,7 +292,7 @@ A
 
 Силён ли герой «Лукас» в текущей мете?
 
-Тир A, 25-е место из 133 героев и 8-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 33,4% матчей, 50,9% побед. В профессиональных матчах за месяц героя драфтуют в 2,9% катков.
+Тир A, 26-е место из 133 героев и 8-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,0% матчей, 50,9% побед. В профессиональных матчах за месяц героя драфтуют в 2,9% катков.
 
 Какая сборка на героя «Лукас» лучшая?
 

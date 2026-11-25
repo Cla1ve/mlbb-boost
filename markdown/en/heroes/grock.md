@@ -1,6 +1,6 @@
 ---
 title: "Grock MLBB: build, counters and skills | MLBB Boost"
-description: "Grock in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 45.69% win rate, tier C."
+description: "Grock in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 45.72% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/grock.html
 language: en
 ---
@@ -249,7 +249,7 @@ Grock charges forward and gains Control Immunity, dealing 100 (+50% Total Physic
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
 ### Easy targets
 
@@ -271,11 +271,11 @@ This hero beats them
 
 Who counters Grock in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Johnson, Yin, Diggie and Layla.
+Over the last 30 days the toughest opponents are Lolita, Johnson, Yin, Diggie and Odette.
 
 What is Grock’s win rate right now?
 
-45.69% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 24 November 2026.
+45.72% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Grock play?
 

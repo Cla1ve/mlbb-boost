@@ -9,11 +9,11 @@ language: en
 
 # Best MLBB assassins
 
-29 heroes · Updated 24 November
+29 heroes · Updated 25 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Nolan, Hirara and Paquito lead the assassins right now. Nolan wins 50.4% of Mythical Glory games over 7 days and is banned in 37.1% of them. The list has 29 heroes, 4 of them in tier S or A.
+Nolan, Hirara and Paquito lead the assassins right now. Nolan wins 50.4% of Mythical Glory games over 7 days and is banned in 38.3% of them. The list has 29 heroes, 4 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -31,11 +31,11 @@ Win rate
 
 Pick rate
 
-2.7%
+2.6%
 
 Ban rate
 
-37.1%
+38.3%
 
 ![](/images/mlbb/items/3009.webp)
 
@@ -75,7 +75,7 @@ Pick rate
 
 Ban rate
 
-84.7%
+84.5%
 
 ![](/images/mlbb/items/3009.webp)
 
@@ -115,7 +115,7 @@ Pick rate
 
 Ban rate
 
-11.1%
+10.8%
 
 ![](/images/mlbb/items/3009.webp)
 
@@ -163,9 +163,9 @@ S
 
 50.4%
 
-2.7%
+2.6%
 
-37.1%
+38.3%
 
 82.8%
 
@@ -179,7 +179,7 @@ S
 
 0.8%
 
-84.7%
+84.5%
 
 65.0%
 
@@ -193,7 +193,7 @@ A
 
 1.4%
 
-11.1%
+10.8%
 
 69.3%
 
@@ -207,7 +207,7 @@ A
 
 1.4%
 
-3.8%
+3.7%
 
 32.9%
 
@@ -235,7 +235,7 @@ B
 
 0.8%
 
-12.7%
+13.0%
 
 5.2%
 
@@ -249,7 +249,7 @@ B
 
 0.9%
 
-2.9%
+3.0%
 
 23.7%
 
@@ -263,7 +263,7 @@ B
 
 2.0%
 
-5.0%
+5.1%
 
 6.8%
 
@@ -275,7 +275,7 @@ B
 
 48.8%
 
-0.6%
+0.7%
 
 0.8%
 
@@ -289,7 +289,7 @@ B
 
 43.0%
 
-0.7%
+0.8%
 
 1.6%
 
@@ -339,6 +339,20 @@ B
 
 14
 
+[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+
+B
+
+49.2%
+
+0.9%
+
+4.6%
+
+—
+
+15
+
 [![](/images/heroes/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)
 
 B
@@ -350,20 +364,6 @@ B
 1.5%
 
 2.5%
-
-15
-
-[![](/images/heroes/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
-
-B
-
-49.2%
-
-0.9%
-
-4.4%
-
-—
 
 16
 
@@ -389,7 +389,7 @@ C
 
 0.7%
 
-0.5%
+0.6%
 
 3.1%
 
@@ -413,7 +413,7 @@ C
 
 C
 
-50.4%
+50.2%
 
 0.6%
 
@@ -429,7 +429,7 @@ C
 
 49.3%
 
-0.3%
+0.4%
 
 3.1%
 
@@ -459,7 +459,7 @@ C
 
 0.4%
 
-2.2%
+2.3%
 
 —
 
@@ -469,7 +469,7 @@ C
 
 D
 
-50.3%
+50.4%
 
 0.2%
 
@@ -483,7 +483,7 @@ D
 
 C
 
-49.9%
+50.0%
 
 0.3%
 
@@ -578,7 +578,7 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 
 1.  [![](/images/heroes/ling.webp)Ling53.4%](https://boostmlbb.ru/en/heroes/ling.html)
 2.  [![](/images/heroes/benedetta.webp)Benedetta52.7%](https://boostmlbb.ru/en/heroes/benedetta.html)
-3.  [![](/images/heroes/natalia.webp)Natalia51.8%](https://boostmlbb.ru/en/heroes/natalia.html)
+3.  [![](/images/heroes/natalia.webp)Natalia51.9%](https://boostmlbb.ru/en/heroes/natalia.html)
 4.  [![](/images/heroes/hanzo.webp)Hanzo50.7%](https://boostmlbb.ru/en/heroes/hanzo.html)
 5.  [![](/images/heroes/saber.webp)Saber50.6%](https://boostmlbb.ru/en/heroes/saber.html)
 6.  [![](/images/heroes/kadita.webp)Kadita50.5%](https://boostmlbb.ru/en/heroes/kadita.html)
@@ -587,7 +587,7 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 
 How many heroes of this list it beats, by official counters.
 
-1.  [![](/images/heroes/x-borg.webp)X.Borg14 of 29](https://boostmlbb.ru/en/heroes/x-borg.html)
+1.  [![](/images/heroes/x-borg.webp)X.Borg15 of 29](https://boostmlbb.ru/en/heroes/x-borg.html)
 2.  [![](/images/heroes/natalia.webp)Natalia7 of 29](https://boostmlbb.ru/en/heroes/natalia.html)
 3.  [![](/images/heroes/yve.webp)Yve7 of 29](https://boostmlbb.ru/en/heroes/yve.html)
 4.  [![](/images/heroes/atlas.webp)Atlas5 of 29](https://boostmlbb.ru/en/heroes/atlas.html)
@@ -602,7 +602,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best assassin in MLBB right now?
 
-Nolan: tier S, 50.4% win rate, banned in 37.1% of Mythical Glory games over 7 days. Hirara and Paquito follow. Data as of 24 November 2026.
+Nolan: tier S, 50.4% win rate, banned in 38.3% of Mythical Glory games over 7 days. Hirara and Paquito follow. Data as of 25 November 2026.
 
 Which of the assassins should a beginner pick?
 
@@ -610,11 +610,11 @@ Zilong, Saber and Alucard are the easiest to play: their difficulty on the in-ga
 
 Which assassins get banned most?
 
-Hirara (84.7%), Nolan (37.1%) and Saber (12.7%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Hirara (84.5%), Nolan (38.3%) and Saber (13.0%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many assassins are there in Mobile Legends?
 
-29 of 133 heroes as of 24 November 2026. The list has every hero with the Assassin role.
+29 of 133 heroes as of 25 November 2026. The list has every hero with the Assassin role.
 
 Which items do assassins build most often?
 

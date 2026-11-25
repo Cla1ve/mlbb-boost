@@ -45,9 +45,9 @@ Ban rate
 
 1.  **49.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.4%**![](/images/ranks/Legend.webp)Legend
-3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -231,7 +231,7 @@ Over the last 30 days the toughest opponents are Lolita, Ixia, Johnson, Silvanna
 
 What is Kadita’s win rate right now?
 
-51.18% at Mythical Glory over the last 7 days and 51.28% across all ranks over 30 days, as of 24 November 2026.
+51.18% at Mythical Glory over the last 7 days and 51.26% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Kadita play?
 

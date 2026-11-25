@@ -1,6 +1,6 @@
 ---
 title: "Бруно MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Бруно в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 54,29% побед, тир A."
+description: "Бруно в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 54,31% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/bruno.html
 language: ru
 ---
@@ -249,7 +249,7 @@ A
 
 Побеждают этого героя
 
-[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
+[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
 
 ### Слабые цели
 
@@ -271,11 +271,11 @@ A
 
 Кто контрпик для героя «Бруно» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Ванван, Линг, Фанни, Маша и Марсель.
+За последние 30 дней чаще всего героя обыгрывают Ванван, Линг, Фанни, Маша и Бенедетта.
 
 Какой процент побед у героя «Бруно» сейчас?
 
-54,29% в Мифической славе за последние 7 дней и 53,79% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+54,31% в Мифической славе за последние 7 дней и 53,81% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Бруно»?
 

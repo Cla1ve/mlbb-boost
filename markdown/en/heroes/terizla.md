@@ -1,6 +1,6 @@
 ---
 title: "Terizla MLBB: build, counters and skills | MLBB Boost"
-description: "Terizla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 49.88% win rate, tier C."
+description: "Terizla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 49.89% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/terizla.html
 language: en
 ---
@@ -43,8 +43,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.3%**![](/images/ranks/Epic.webp)Epic
-2.  **51.7%**![](/images/ranks/Legend.webp)Legend
+1.  **51.2%**![](/images/ranks/Epic.webp)Epic
+2.  **51.6%**![](/images/ranks/Legend.webp)Legend
 3.  **51.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -250,7 +250,7 @@ Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) 
 
 Beat this hero
 
-[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ### Easy targets
 
@@ -272,11 +272,11 @@ This hero beats them
 
 Who counters Terizla in MLBB?
 
-Over the last 30 days the toughest opponents are Argus, Phoveus, Popol and Kupa, Lolita and Odette.
+Over the last 30 days the toughest opponents are Argus, Phoveus, Popol and Kupa, Odette and Lolita.
 
 What is Terizla’s win rate right now?
 
-49.88% at Mythical Glory over the last 7 days and 50.60% across all ranks over 30 days, as of 24 November 2026.
+49.89% at Mythical Glory over the last 7 days and 50.60% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Terizla play?
 

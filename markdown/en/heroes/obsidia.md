@@ -1,6 +1,6 @@
 ---
 title: "Obsidia MLBB: build, counters and skills | MLBB Boost"
-description: "Obsidia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 52.61% win rate, tier S."
+description: "Obsidia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 52.58% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/obsidia.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-64.8%
+65.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -44,8 +44,8 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.8%**![](/images/ranks/Epic.webp)Epic
-2.  **52.9%**![](/images/ranks/Legend.webp)Legend
-3.  **53.8%**![](/images/ranks/Mythic.webp)Mythic
+2.  **52.8%**![](/images/ranks/Legend.webp)Legend
+3.  **53.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Benedetta, Helcurt, Aldous, Yin
 
 What is Obsidia’s win rate right now?
 
-52.61% at Mythical Glory over the last 7 days and 53.18% across all ranks over 30 days, as of 24 November 2026.
+52.58% at Mythical Glory over the last 7 days and 53.16% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Obsidia play?
 
@@ -285,7 +285,7 @@ Marksman, played in the Gold Lane.
 
 Is Obsidia strong in the current meta?
 
-Tier S, #7 of 133 heroes and #1 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 64.8% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 44.8% of them.
+Tier S, #7 of 133 heroes and #1 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 65.1% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 44.8% of them.
 
 What is the best build for Obsidia?
 

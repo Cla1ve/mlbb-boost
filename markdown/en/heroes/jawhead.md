@@ -1,6 +1,6 @@
 ---
 title: "Jawhead MLBB: build, counters and skills | MLBB Boost"
-description: "Jawhead in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.49% win rate, tier D."
+description: "Jawhead in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.51% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/jawhead.html
 language: en
 ---
@@ -11,7 +11,7 @@ language: en
 
 # Jawhead
 
-D
+C
 
 ![](/images/mlbb/filters/fighter.webp)Fighter![](/images/mlbb/filters/exp.webp)EXP Lane![](/images/mlbb/filters/roam.webp)Roam
 
@@ -21,7 +21,7 @@ Win rate
 
 Pick rate
 
-0.2%
+0.3%
 
 Ban rate
 
@@ -47,7 +47,7 @@ Ban rate
 2.  **48.3%**![](/images/ranks/Legend.webp)Legend
 3.  **48.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **47.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **47.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -246,7 +246,7 @@ Jawhead charges into the target enemy hero, dealing 350 (+150% Total Physical At
 
 Beat this hero
 
-[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Easy targets
 
@@ -268,11 +268,11 @@ This hero beats them
 
 Who counters Jawhead in MLBB?
 
-Over the last 30 days the toughest opponents are Arlott, Nolan, Granger, Saber and Helcurt.
+Over the last 30 days the toughest opponents are Arlott, Nolan, Saber, Granger and Valentina.
 
 What is Jawhead’s win rate right now?
 
-47.49% at Mythical Glory over the last 7 days and 47.89% across all ranks over 30 days, as of 24 November 2026.
+47.51% at Mythical Glory over the last 7 days and 47.90% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Jawhead play?
 
@@ -280,7 +280,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Jawhead strong in the current meta?
 
-Tier D, #121 of 133 heroes and #41 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #121 of 133 heroes and #41 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Jawhead?
 

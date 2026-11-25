@@ -1,6 +1,6 @@
 ---
 title: "Mathilda MLBB: build, counters and skills | MLBB Boost"
-description: "Mathilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and support, 43.96% win rate, tier D."
+description: "Mathilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and support, 43.95% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
@@ -260,7 +260,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
+[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
@@ -280,7 +280,7 @@ Over the last 30 days the toughest opponents are Natalia, X.Borg, Valir, Helcurt
 
 What is Mathilda’s win rate right now?
 
-43.96% at Mythical Glory over the last 7 days and 44.48% across all ranks over 30 days, as of 24 November 2026.
+43.95% at Mythical Glory over the last 7 days and 44.47% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Mathilda play?
 

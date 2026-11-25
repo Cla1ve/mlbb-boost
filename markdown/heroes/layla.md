@@ -1,6 +1,6 @@
 ---
 title: "Лейла MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лейла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,21% побед, тир C."
+description: "Лейла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,24% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/layla.html
 language: ru
 ---
@@ -255,7 +255,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ## История
 
@@ -275,7 +275,7 @@ C
 
 Какой процент побед у героя «Лейла» сейчас?
 
-48,21% в Мифической славе за последние 7 дней и 49,41% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,24% в Мифической славе за последние 7 дней и 49,41% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Лейла»?
 

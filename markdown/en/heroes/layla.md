@@ -1,6 +1,6 @@
 ---
 title: "Layla MLBB: build, counters and skills | MLBB Boost"
-description: "Layla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.21% win rate, tier C."
+description: "Layla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.24% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/layla.html
 language: en
 ---
@@ -255,7 +255,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Lore
 
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Diggie, Edith, Rafaela, Phoveus
 
 What is Layla’s win rate right now?
 
-48.21% at Mythical Glory over the last 7 days and 49.41% across all ranks over 30 days, as of 24 November 2026.
+48.24% at Mythical Glory over the last 7 days and 49.41% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Layla play?
 

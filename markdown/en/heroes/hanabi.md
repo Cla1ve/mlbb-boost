@@ -1,6 +1,6 @@
 ---
 title: "Hanabi MLBB: build, counters and skills | MLBB Boost"
-description: "Hanabi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.30% win rate, tier B."
+description: "Hanabi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.35% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/hanabi.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-51.3%
+51.4%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-1.5%
+1.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **54.4%**![](/images/ranks/Epic.webp)Epic
 2.  **53.9%**![](/images/ranks/Legend.webp)Legend
-3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
+3.  **53.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -253,7 +253,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Lore
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Saber, Popol and Kupa, Moskov, 
 
 What is Hanabi’s win rate right now?
 
-51.30% at Mythical Glory over the last 7 days and 52.67% across all ranks over 30 days, as of 24 November 2026.
+51.35% at Mythical Glory over the last 7 days and 52.68% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hanabi play?
 
@@ -281,7 +281,7 @@ Marksman, played in the Gold Lane.
 
 Is Hanabi strong in the current meta?
 
-Tier B, #46 of 133 heroes and #7 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 51.3% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
+Tier B, #45 of 133 heroes and #7 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.6% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 0.7% of them.
 
 What is the best build for Hanabi?
 

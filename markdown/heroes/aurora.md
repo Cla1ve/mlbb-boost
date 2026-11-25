@@ -1,6 +1,6 @@
 ---
 title: "Аврора MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Аврора в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,77% побед, тир C."
+description: "Аврора в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,71% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/aurora.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-48,8%
+48,7%
 
 Выбор
 
@@ -47,7 +47,7 @@ C
 2.  **48,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,1%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,2%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **49,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -57,8 +57,8 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие маги MLBB**24 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
--   [Лучшие мидеры MLBB**22 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+-   [Лучшие маги MLBB**25 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие мидеры MLBB**23 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
 
@@ -204,7 +204,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
 
 ## История
 
@@ -220,11 +220,11 @@ C
 
 Кто контрпик для героя «Аврора» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Одетта, Эйдора, Хуфра и Фредрин.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Одетта, Эйдора, Фредрин и Эстес.
 
 Какой процент побед у героя «Аврора» сейчас?
 
-48,77% в Мифической славе за последние 7 дней и 48,91% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,71% в Мифической славе за последние 7 дней и 48,89% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Аврора»?
 
@@ -232,7 +232,7 @@ C
 
 Силён ли герой «Аврора» в текущей мете?
 
-Тир C, 97-е место из 133 героев и 24-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,3% катков.
+Тир C, 100-е место из 133 героев и 25-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,3% катков.
 
 Какая сборка на героя «Аврора» лучшая?
 

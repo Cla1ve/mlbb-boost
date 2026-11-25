@@ -1,6 +1,6 @@
 ---
 title: "Нолан MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Нолан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,42% побед, тир S."
+description: "Нолан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,43% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/nolan.html
 language: ru
 ---
@@ -21,11 +21,11 @@ S
 
 Выбор
 
-2,7%
+2,6%
 
 Баны
 
-37,1%
+38,3%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -53,7 +53,7 @@ S
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
+[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ### Места в рейтингах
 
@@ -272,7 +272,7 @@ S
 
 Какой процент побед у героя «Нолан» сейчас?
 
-50,42% в Мифической славе за последние 7 дней и 49,72% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+50,43% в Мифической славе за последние 7 дней и 49,73% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Нолан»?
 
@@ -280,7 +280,7 @@ S
 
 Силён ли герой «Нолан» в текущей мете?
 
-Тир S, 3-е место из 133 героев и 1-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 37,1% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 82,8% катков.
+Тир S, 3-е место из 133 героев и 1-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 38,3% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 82,8% катков.
 
 Какая сборка на героя «Нолан» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Сан MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Сан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,14% побед, тир B."
+description: "Сан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,11% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/sun.html
 language: ru
 ---
@@ -25,7 +25,7 @@ B
 
 Баны
 
-56,9%
+57,8%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -44,16 +44,16 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **55,9%**![](/images/ranks/Epic.webp)Эпик
-2.  **55,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **54,5%**![](/images/ranks/Mythic.webp)Мифик
+2.  **55,6%**![](/images/ranks/Legend.webp)Легенда
+3.  **54,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **52,7%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
@@ -288,7 +288,7 @@ B
 
 Какой процент побед у героя «Сан» сейчас?
 
-53,14% в Мифической славе за последние 7 дней и 53,76% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+53,11% в Мифической славе за последние 7 дней и 53,81% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Сан»?
 
@@ -296,7 +296,7 @@ B
 
 Силён ли герой «Сан» в текущей мете?
 
-Тир B, 17-е место из 133 героев и 6-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,9% матчей, 53,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 17-е место из 133 героев и 6-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 57,8% матчей, 53,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Сан» лучшая?
 

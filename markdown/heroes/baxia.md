@@ -1,6 +1,6 @@
 ---
 title: "Баксий MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Баксий в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 45,92% побед, тир D."
+description: "Баксий в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 45,99% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/baxia.html
 language: ru
 ---
@@ -17,7 +17,7 @@ D
 
 Победы
 
-45,9%
+46,0%
 
 Выбор
 
@@ -253,7 +253,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
 
 ### Слабые цели
 
@@ -275,11 +275,11 @@ D
 
 Кто контрпик для героя «Баксий» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Обсидия, Алиса, Сабер, Лукас и Минситтар.
+За последние 30 дней чаще всего героя обыгрывают Обсидия, Алиса, Лукас, Сабер и Эдит.
 
 Какой процент побед у героя «Баксий» сейчас?
 
-45,92% в Мифической славе за последние 7 дней и 45,92% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+45,99% в Мифической славе за последние 7 дней и 45,90% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Баксий»?
 
@@ -287,7 +287,7 @@ D
 
 Силён ли герой «Баксий» в текущей мете?
 
-Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,9% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
+Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Баксий» лучшая?
 

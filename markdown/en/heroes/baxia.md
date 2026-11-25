@@ -1,6 +1,6 @@
 ---
 title: "Baxia MLBB: build, counters and skills | MLBB Boost"
-description: "Baxia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 45.92% win rate, tier D."
+description: "Baxia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 45.99% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/baxia.html
 language: en
 ---
@@ -17,7 +17,7 @@ D
 
 Win rate
 
-45.9%
+46.0%
 
 Pick rate
 
@@ -253,7 +253,7 @@ For the duration, the Damage Reduction effect from Baxia Mark is increased to 20
 
 Beat this hero
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
 
 ### Easy targets
 
@@ -275,11 +275,11 @@ This hero beats them
 
 Who counters Baxia in MLBB?
 
-Over the last 30 days the toughest opponents are Obsidia, Alice, Saber, Lukas and Minsitthar.
+Over the last 30 days the toughest opponents are Obsidia, Alice, Lukas, Saber and Edith.
 
 What is Baxia’s win rate right now?
 
-45.92% at Mythical Glory over the last 7 days and 45.92% across all ranks over 30 days, as of 24 November 2026.
+45.99% at Mythical Glory over the last 7 days and 45.90% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Baxia play?
 
@@ -287,7 +287,7 @@ Tank, played in the jungle or on roam.
 
 Is Baxia strong in the current meta?
 
-Tier D, #133 of 133 heroes and #25 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 45.9% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
+Tier D, #133 of 133 heroes and #25 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.0% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
 
 What is the best build for Baxia?
 

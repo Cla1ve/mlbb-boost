@@ -1,6 +1,6 @@
 ---
 title: "Кусака MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кусака в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 47,49% побед, тир D."
+description: "Кусака в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 47,51% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/jawhead.html
 language: ru
 ---
@@ -11,7 +11,7 @@ language: ru
 
 # Кусака
 
-D
+C
 
 ![](/images/mlbb/filters/fighter.webp)Боец![](/images/mlbb/filters/exp.webp)Линия опыта![](/images/mlbb/filters/roam.webp)Роум
 
@@ -21,7 +21,7 @@ D
 
 Выбор
 
-0,2%
+0,3%
 
 Баны
 
@@ -47,7 +47,7 @@ D
 2.  **48,3%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **47,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **47,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -246,7 +246,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Слабые цели
 
@@ -268,11 +268,11 @@ D
 
 Кто контрпик для героя «Кусака» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Арлотт, Нолан, Грейнджер, Сабер и Хелкарт.
+За последние 30 дней чаще всего героя обыгрывают Арлотт, Нолан, Сабер, Грейнджер и Валентина.
 
 Какой процент побед у героя «Кусака» сейчас?
 
-47,49% в Мифической славе за последние 7 дней и 47,89% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+47,51% в Мифической славе за последние 7 дней и 47,90% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кусака»?
 
@@ -280,7 +280,7 @@ D
 
 Силён ли герой «Кусака» в текущей мете?
 
-Тир D, 121-е место из 133 героев и 41-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 121-е место из 133 героев и 41-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 47,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Кусака» лучшая?
 

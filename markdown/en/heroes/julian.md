@@ -1,6 +1,6 @@
 ---
 title: "Julian MLBB: build, counters and skills | MLBB Boost"
-description: "Julian in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.27% win rate, tier C."
+description: "Julian in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.26% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/julian.html
 language: en
 ---
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Faramis, Esmeralda, Alice, Phov
 
 What is Julian’s win rate right now?
 
-49.27% at Mythical Glory over the last 7 days and 49.93% across all ranks over 30 days, as of 24 November 2026.
+49.26% at Mythical Glory over the last 7 days and 49.92% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Julian play?
 

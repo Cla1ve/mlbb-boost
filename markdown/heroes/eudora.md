@@ -1,6 +1,6 @@
 ---
 title: "Эйдора MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эйдора в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 50,22% побед, тир A."
+description: "Эйдора в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 50,21% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/eudora.html
 language: ru
 ---
@@ -25,7 +25,7 @@ A
 
 Баны
 
-34,0%
+33,7%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,7 +43,7 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **49,6%**![](/images/ranks/Epic.webp)Эпик
+1.  **49,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,2%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -252,7 +252,7 @@ A
 
 Побеждают этого героя
 
-[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
+[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
 
 ### Слабые цели
 
@@ -274,11 +274,11 @@ A
 
 Кто контрпик для героя «Эйдора» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Флорин, Иритель, Хелкарт, Наталья и Зилонг.
+За последние 30 дней чаще всего героя обыгрывают Флорин, Хелкарт, Иритель, Наталья и Зилонг.
 
 Какой процент побед у героя «Эйдора» сейчас?
 
-50,22% в Мифической славе за последние 7 дней и 50,33% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+50,21% в Мифической славе за последние 7 дней и 50,31% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Эйдора»?
 
@@ -286,7 +286,7 @@ A
 
 Силён ли герой «Эйдора» в текущей мете?
 
-Тир A, 16-е место из 133 героев и 4-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 34,0% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 24,7% катков.
+Тир A, 16-е место из 133 героев и 4-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 33,7% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 24,7% катков.
 
 Какая сборка на героя «Эйдора» лучшая?
 

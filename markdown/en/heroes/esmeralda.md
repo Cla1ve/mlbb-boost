@@ -1,6 +1,6 @@
 ---
 title: "Esmeralda MLBB: build, counters and skills | MLBB Boost"
-description: "Esmeralda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and mage, 46.42% win rate, tier A."
+description: "Esmeralda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and mage, 46.45% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/esmeralda.html
 language: en
 ---
@@ -17,7 +17,7 @@ A
 
 Win rate
 
-46.4%
+46.5%
 
 Pick rate
 
@@ -45,8 +45,8 @@ Ban rate
 
 1.  **48.3%**![](/images/ranks/Epic.webp)Epic
 2.  **48.2%**![](/images/ranks/Legend.webp)Legend
-3.  **47.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **47.9%**![](/images/ranks/Mythic.webp)Mythic
+4.  **47.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **46.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -274,7 +274,7 @@ Over the last 30 days the toughest opponents are Lolita, Mathilda, Marcel, Jawhe
 
 What is Esmeralda’s win rate right now?
 
-46.42% at Mythical Glory over the last 7 days and 47.01% across all ranks over 30 days, as of 24 November 2026.
+46.45% at Mythical Glory over the last 7 days and 47.03% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Esmeralda play?
 
@@ -282,7 +282,7 @@ Tank and mage, played in the EXP Lane.
 
 Is Esmeralda strong in the current meta?
 
-Tier A, #14 of 133 heroes and #6 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.3% of matches, 46.4% win rate. In professional games over the last month the hero is drafted in 76.4% of them.
+Tier A, #14 of 133 heroes and #6 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.3% of matches, 46.5% win rate. In professional games over the last month the hero is drafted in 76.4% of them.
 
 What is the best build for Esmeralda?
 

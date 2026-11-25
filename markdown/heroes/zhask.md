@@ -1,6 +1,6 @@
 ---
 title: "Заск MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Заск в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,54% побед, тир C."
+description: "Заск в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,57% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/zhask.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-51,5%
+51,6%
 
 Выбор
 
@@ -46,7 +46,7 @@ C
 1.  **52,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **53,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **52,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -266,13 +266,13 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
 ## История
 
@@ -288,11 +288,11 @@ C
 
 Кто контрпик для героя «Заск» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Дигги, Кайя, Арлотт и Хаябуса.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Дигги, Кайя, Арлотт и Инь.
 
 Какой процент побед у героя «Заск» сейчас?
 
-51,54% в Мифической славе за последние 7 дней и 52,54% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+51,57% в Мифической славе за последние 7 дней и 52,54% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Заск»?
 
@@ -300,7 +300,7 @@ C
 
 Силён ли герой «Заск» в текущей мете?
 
-Тир C, 107-е место из 133 героев и 27-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 107-е место из 133 героев и 27-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Заск» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Bruno MLBB: build, counters and skills | MLBB Boost"
-description: "Bruno in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 54.29% win rate, tier A."
+description: "Bruno in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 54.31% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/bruno.html
 language: en
 ---
@@ -249,7 +249,7 @@ The Energy Ball then bounces among enemy units (up to 10 times), prioritizing en
 
 Beat this hero
 
-[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
+[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
 
 ### Easy targets
 
@@ -271,11 +271,11 @@ This hero beats them
 
 Who counters Bruno in MLBB?
 
-Over the last 30 days the toughest opponents are Wanwan, Ling, Fanny, Masha and Marcel.
+Over the last 30 days the toughest opponents are Wanwan, Ling, Fanny, Masha and Benedetta.
 
 What is Bruno’s win rate right now?
 
-54.29% at Mythical Glory over the last 7 days and 53.79% across all ranks over 30 days, as of 24 November 2026.
+54.31% at Mythical Glory over the last 7 days and 53.81% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Bruno play?
 

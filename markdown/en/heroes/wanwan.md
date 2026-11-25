@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **45.9%**![](/images/ranks/Epic.webp)Epic
+1.  **45.8%**![](/images/ranks/Epic.webp)Epic
 2.  **48.1%**![](/images/ranks/Legend.webp)Legend
 3.  **48.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are Yin, Ixia, Atlas, Guinevere and
 
 What is Wanwan’s win rate right now?
 
-47.07% at Mythical Glory over the last 7 days and 47.58% across all ranks over 30 days, as of 24 November 2026.
+47.07% at Mythical Glory over the last 7 days and 47.55% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Wanwan play?
 
@@ -291,7 +291,7 @@ Marksman, played in the Gold Lane.
 
 Is Wanwan strong in the current meta?
 
-Tier D, #124 of 133 heroes and #22 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.1% win rate. In professional games over the last month the hero is drafted in 0.9% of them.
+Tier D, #125 of 133 heroes and #22 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 47.1% win rate. In professional games over the last month the hero is drafted in 0.9% of them.
 
 What is the best build for Wanwan?
 

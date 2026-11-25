@@ -1,6 +1,6 @@
 ---
 title: "Tigreal MLBB: build, counters and skills | MLBB Boost"
-description: "Tigreal in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 45.03% win rate, tier C."
+description: "Tigreal in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 45.04% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/tigreal.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-4.7%
+4.8%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,8 +45,8 @@ Ban rate
 1.  **48.8%**![](/images/ranks/Epic.webp)Epic
 2.  **46.1%**![](/images/ranks/Legend.webp)Legend
 3.  **44.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **44.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **44.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Zilong, Estes, Alucard, Franco 
 
 What is Tigreal’s win rate right now?
 
-45.03% at Mythical Glory over the last 7 days and 45.24% across all ranks over 30 days, as of 24 November 2026.
+45.04% at Mythical Glory over the last 7 days and 45.27% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Tigreal play?
 
@@ -285,7 +285,7 @@ Tank, played on roam.
 
 Is Tigreal strong in the current meta?
 
-Tier C, #69 of 133 heroes and #12 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.7% of matches, 45.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #69 of 133 heroes and #12 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.8% of matches, 45.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Tigreal?
 

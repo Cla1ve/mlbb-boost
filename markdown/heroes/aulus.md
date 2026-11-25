@@ -1,6 +1,6 @@
 ---
 title: "Аулус MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Аулус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,00% побед, тир S."
+description: "Аулус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,02% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/aulus.html
 language: ru
 ---
@@ -25,7 +25,7 @@ S
 
 Баны
 
-22,6%
+21,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,9 +43,9 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **51,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,4%**![](/images/ranks/Mythic.webp)Мифик
+1.  **51,5%**![](/images/ranks/Epic.webp)Эпик
+2.  **52,4%**![](/images/ranks/Legend.webp)Легенда
+3.  **53,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **53,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -53,7 +53,7 @@ S
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
@@ -274,7 +274,7 @@ S
 
 Какой процент побед у героя «Аулус» сейчас?
 
-53,00% в Мифической славе за последние 7 дней и 53,44% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+53,02% в Мифической славе за последние 7 дней и 53,42% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Аулус»?
 
@@ -282,7 +282,7 @@ S
 
 Силён ли герой «Аулус» в текущей мете?
 
-Тир S, 8-е место из 133 героев и 4-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 22,6% матчей, 53,0% побед. В профессиональных матчах за месяц героя драфтуют в 77,8% катков.
+Тир S, 8-е место из 133 героев и 4-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 21,1% матчей, 53,0% побед. В профессиональных матчах за месяц героя драфтуют в 77,8% катков.
 
 Какая сборка на героя «Аулус» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Лилия MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лилия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 47,64% побед, тир B."
+description: "Лилия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 47,62% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lylia.html
 language: ru
 ---
@@ -43,7 +43,7 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **51,1%**![](/images/ranks/Epic.webp)Эпик
+1.  **51,0%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,6%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -258,6 +258,12 @@ B
 
 [![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
 
+### Слабые цели
+
+Этот герой побеждает их
+
+[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
+
 ## История
 
 > Веселая и остроумная маленькая ведьма.
@@ -276,7 +282,7 @@ B
 
 Какой процент побед у героя «Лилия» сейчас?
 
-47,64% в Мифической славе за последние 7 дней и 49,30% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+47,62% в Мифической славе за последние 7 дней и 49,26% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Лилия»?
 

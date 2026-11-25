@@ -1,6 +1,6 @@
 ---
 title: "Balmond MLBB: build, counters and skills | MLBB Boost"
-description: "Balmond in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 45.03% win rate, tier C."
+description: "Balmond in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 45.06% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/balmond.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-45.0%
+45.1%
 
 Pick rate
 
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Saber, Lukas, Barats, Chip and 
 
 What is Balmond’s win rate right now?
 
-45.03% at Mythical Glory over the last 7 days and 46.64% across all ranks over 30 days, as of 24 November 2026.
+45.06% at Mythical Glory over the last 7 days and 46.63% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Balmond play?
 
@@ -284,7 +284,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Balmond strong in the current meta?
 
-Tier C, #125 of 133 heroes and #42 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 45.0% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
+Tier C, #124 of 133 heroes and #42 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 45.1% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
 
 What is the best build for Balmond?
 

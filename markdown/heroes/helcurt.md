@@ -1,6 +1,6 @@
 ---
 title: "Хелкарт MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хелкарт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 46,69% побед, тир C."
+description: "Хелкарт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 46,73% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/helcurt.html
 language: ru
 ---
@@ -25,7 +25,7 @@ C
 
 Баны
 
-2,2%
+2,3%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,21 +43,21 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **48,3%**![](/images/ranks/Epic.webp)Эпик
+1.  **48,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,4%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **48,4%**![](/images/ranks/Mythic.webp)Мифик
+4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **46,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**27 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**26 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие убийцы MLBB**22 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 -   [Лучшие роумеры MLBB**21 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
@@ -283,7 +283,7 @@ C
 
 Какой процент побед у героя «Хелкарт» сейчас?
 
-46,69% в Мифической славе за последние 7 дней и 47,65% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+46,73% в Мифической славе за последние 7 дней и 47,68% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хелкарт»?
 
@@ -291,7 +291,7 @@ C
 
 Силён ли герой «Хелкарт» в текущей мете?
 
-Тир C, 102-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,2% матчей, 46,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 101-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Хелкарт» лучшая?
 

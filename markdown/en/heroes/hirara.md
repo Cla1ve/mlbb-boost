@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-84.7%
+84.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,14 +46,14 @@ Ban rate
 1.  **50.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.4%**![](/images/ranks/Legend.webp)Legend
 3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ### Places in the rankings
 
@@ -242,7 +242,7 @@ After a short delay, she deals damage again at the target location, dealing 2 ti
 
 Beat this hero
 
-[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Lore
 
@@ -258,11 +258,11 @@ Beat this hero
 
 Who counters Hirara in MLBB?
 
-Over the last 30 days the toughest opponents are Hanzo, Karina, X.Borg, Yin and Lolita.
+Over the last 30 days the toughest opponents are Karina, Hanzo, X.Borg, Yin and Lolita.
 
 What is Hirara’s win rate right now?
 
-49.52% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 24 November 2026.
+49.52% at Mythical Glory over the last 7 days and 50.04% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hirara play?
 
@@ -270,7 +270,7 @@ Assassin, played in the jungle.
 
 Is Hirara strong in the current meta?
 
-Tier S, #4 of 133 heroes and #2 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 84.7% of matches, 49.5% win rate. In professional games over the last month the hero is drafted in 65.0% of them.
+Tier S, #4 of 133 heroes and #2 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 84.5% of matches, 49.5% win rate. In professional games over the last month the hero is drafted in 65.0% of them.
 
 What is the best build for Hirara?
 

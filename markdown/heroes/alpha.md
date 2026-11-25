@@ -1,6 +1,6 @@
 ---
 title: "Альфа MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Альфа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,24% побед, тир C."
+description: "Альфа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,19% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/alpha.html
 language: ru
 ---
@@ -43,7 +43,7 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **50,1%**![](/images/ranks/Epic.webp)Эпик
+1.  **50,2%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,0%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,5%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,0%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -53,12 +53,12 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**20 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие бойцы MLBB**25 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие лесники MLBB**21 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие бойцы MLBB**26 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 
 ## Сборка
 
@@ -252,7 +252,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
+[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
 
 ### Слабые цели
 
@@ -274,11 +274,11 @@ C
 
 Кто контрпик для героя «Альфа» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Фовиус, Одетта, Бартс, Сабер и Фредрин.
+За последние 30 дней чаще всего героя обыгрывают Фовиус, Одетта, Сабер, Бартс и Фредрин.
 
 Какой процент побед у героя «Альфа» сейчас?
 
-48,24% в Мифической славе за последние 7 дней и 48,85% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,19% в Мифической славе за последние 7 дней и 48,85% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Альфа»?
 
@@ -286,7 +286,7 @@ C
 
 Силён ли герой «Альфа» в текущей мете?
 
-Тир C, 84-е место из 133 героев и 25-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
+Тир C, 86-е место из 133 героев и 26-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Альфа» лучшая?
 

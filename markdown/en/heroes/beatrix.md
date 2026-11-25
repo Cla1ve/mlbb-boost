@@ -1,6 +1,6 @@
 ---
 title: "Beatrix MLBB: build, counters and skills | MLBB Boost"
-description: "Beatrix in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.56% win rate, tier C."
+description: "Beatrix in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.53% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/beatrix.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-50.6%
+50.5%
 
 Pick rate
 
@@ -267,7 +267,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
+[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
 ## Lore
 
@@ -287,7 +287,7 @@ Over the last 30 days the toughest opponents are Estes, Hanabi, Belerick, Edith 
 
 What is Beatrix’s win rate right now?
 
-50.56% at Mythical Glory over the last 7 days and 50.35% across all ranks over 30 days, as of 24 November 2026.
+50.53% at Mythical Glory over the last 7 days and 50.33% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Beatrix play?
 
@@ -295,7 +295,7 @@ Marksman, played in the Gold Lane.
 
 Is Beatrix strong in the current meta?
 
-Tier C, #70 of 133 heroes and #13 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 2.1% of them.
+Tier C, #70 of 133 heroes and #13 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 2.1% of them.
 
 What is the best build for Beatrix?
 

@@ -1,6 +1,6 @@
 ---
 title: "Бальмонд MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Бальмонд в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 45,03% побед, тир C."
+description: "Бальмонд в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 45,06% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/balmond.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-45,0%
+45,1%
 
 Выбор
 
@@ -53,7 +53,7 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -276,7 +276,7 @@ C
 
 Какой процент побед у героя «Бальмонд» сейчас?
 
-45,03% в Мифической славе за последние 7 дней и 46,64% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+45,06% в Мифической славе за последние 7 дней и 46,63% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Бальмонд»?
 
@@ -284,7 +284,7 @@ C
 
 Силён ли герой «Бальмонд» в текущей мете?
 
-Тир C, 125-е место из 133 героев и 42-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,3% катков.
+Тир C, 124-е место из 133 героев и 42-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,3% катков.
 
 Какая сборка на героя «Бальмонд» лучшая?
 

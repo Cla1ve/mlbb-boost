@@ -1,6 +1,6 @@
 ---
 title: "Chip MLBB: build, counters and skills | MLBB Boost"
-description: "Chip in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 48.30% win rate, tier D."
+description: "Chip in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 48.27% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/chip.html
 language: en
 ---
@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **46.9%**![](/images/ranks/Epic.webp)Epic
+1.  **47.0%**![](/images/ranks/Epic.webp)Epic
 2.  **47.1%**![](/images/ranks/Legend.webp)Legend
 3.  **47.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **47.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -258,7 +258,7 @@ Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to te
 
 Beat this hero
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Easy targets
 
@@ -280,11 +280,11 @@ This hero beats them
 
 Who counters Chip in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Helcurt, Selena, Valentina and Lolita.
+Over the last 30 days the toughest opponents are Zilong, Selena, Helcurt, Mathilda and Valentina.
 
 What is Chip’s win rate right now?
 
-48.30% at Mythical Glory over the last 7 days and 47.60% across all ranks over 30 days, as of 24 November 2026.
+48.27% at Mythical Glory over the last 7 days and 47.60% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Chip play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Lesley MLBB: build, counters and skills | MLBB Boost"
-description: "Lesley in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.84% win rate, tier B."
+description: "Lesley in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.83% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lesley.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-5.0%
+5.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,8 +46,8 @@ Ban rate
 1.  **47.6%**![](/images/ranks/Epic.webp)Epic
 2.  **48.0%**![](/images/ranks/Legend.webp)Legend
 3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -258,7 +258,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
+[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 
 ## Lore
 
@@ -278,7 +278,7 @@ Over the last 30 days the toughest opponents are Claude, Marcel, Bruno, Gatotkac
 
 What is Lesley’s win rate right now?
 
-48.84% at Mythical Glory over the last 7 days and 48.33% across all ranks over 30 days, as of 24 November 2026.
+48.83% at Mythical Glory over the last 7 days and 48.33% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Lesley play?
 
@@ -286,7 +286,7 @@ Assassin and marksman, played in the Gold Lane.
 
 Is Lesley strong in the current meta?
 
-Tier B, #39 of 133 heroes and #8 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.0% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 6.8% of them.
+Tier B, #38 of 133 heroes and #8 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.1% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 6.8% of them.
 
 What is the best build for Lesley?
 

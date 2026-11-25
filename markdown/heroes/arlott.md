@@ -1,6 +1,6 @@
 ---
 title: "Арлотт MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Арлотт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 48,06% побед, тир B."
+description: "Арлотт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 48,07% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/arlott.html
 language: ru
 ---
@@ -43,11 +43,11 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **46,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **46,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **46,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,4%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+1.  **46,5%**![](/images/ranks/Epic.webp)Эпик
+2.  **46,4%**![](/images/ranks/Legend.webp)Легенда
+3.  **46,6%**![](/images/ranks/Mythic.webp)Мифик
+4.  **47,3%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **48,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -250,7 +250,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
+[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)
 
 ### Слабые цели
 
@@ -272,11 +272,11 @@ B
 
 Кто контрпик для героя «Арлотт» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Икс.Борг, Чичи, Натан, Чжусинь и Кимми.
+За последние 30 дней чаще всего героя обыгрывают Икс.Борг, Чичи, Чжусинь, Натан и Кимми.
 
 Какой процент побед у героя «Арлотт» сейчас?
 
-48,06% в Мифической славе за последние 7 дней и 47,48% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,07% в Мифической славе за последние 7 дней и 47,47% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Арлотт»?
 

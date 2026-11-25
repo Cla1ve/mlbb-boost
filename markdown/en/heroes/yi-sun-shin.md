@@ -1,6 +1,6 @@
 ---
 title: "Yi Sun-shin MLBB: build, counters and skills | MLBB Boost"
-description: "Yi Sun-shin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.55% win rate, tier B."
+description: "Yi Sun-shin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.53% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yi-sun-shin.html
 language: en
 ---
@@ -45,9 +45,9 @@ Ban rate
 
 1.  **51.8%**![](/images/ranks/Epic.webp)Epic
 2.  **49.7%**![](/images/ranks/Legend.webp)Legend
-3.  **49.0%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -57,9 +57,9 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**15 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**16 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB marksmen**12 of 23**](https://boostmlbb.ru/en/heroes/best-marksman.html)
--   [Best MLBB assassins**14 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
+-   [Best MLBB assassins**15 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
 
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Khufra, Thamuz, Benedetta, Meli
 
 What is Yi Sun-shin’s win rate right now?
 
-48.55% at Mythical Glory over the last 7 days and 49.09% across all ranks over 30 days, as of 24 November 2026.
+48.53% at Mythical Glory over the last 7 days and 49.06% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yi Sun-shin play?
 
@@ -285,7 +285,7 @@ Assassin and marksman, played in the jungle.
 
 Is Yi Sun-shin strong in the current meta?
 
-Tier B, #65 of 133 heroes and #14 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 2.5% of them.
+Tier B, #66 of 133 heroes and #15 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.5% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 2.5% of them.
 
 What is the best build for Yi Sun-shin?
 

@@ -1,6 +1,6 @@
 ---
 title: "Новария MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Новария в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,36% побед, тир B."
+description: "Новария в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,29% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/novaria.html
 language: ru
 ---
@@ -17,7 +17,7 @@ B
 
 Победы
 
-48,4%
+48,3%
 
 Выбор
 
@@ -43,11 +43,11 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **50,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+1.  **50,2%**![](/images/ranks/Epic.webp)Эпик
+2.  **50,0%**![](/images/ranks/Legend.webp)Легенда
+3.  **49,7%**![](/images/ranks/Mythic.webp)Мифик
+4.  **49,7%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **48,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -57,8 +57,8 @@ B
 
 ### Места в рейтингах
 
--   [Лучшие маги MLBB**14 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
--   [Лучшие мидеры MLBB**12 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+-   [Лучшие маги MLBB**15 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие мидеры MLBB**13 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
 
@@ -246,7 +246,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ## История
 
@@ -262,11 +262,11 @@ B
 
 Кто контрпик для героя «Новария» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Дигги, Валир, Бэйн, Ханаби и Ло Йи.
+За последние 30 дней чаще всего героя обыгрывают Дигги, Валир, Бэйн, Ло Йи и Ханаби.
 
 Какой процент побед у героя «Новария» сейчас?
 
-48,36% в Мифической славе за последние 7 дней и 49,49% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,29% в Мифической славе за последние 7 дней и 49,45% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Новария»?
 
@@ -274,7 +274,7 @@ B
 
 Силён ли герой «Новария» в текущей мете?
 
-Тир B, 59-е место из 133 героев и 14-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 48,4% побед. В профессиональных матчах за месяц героя драфтуют в 4,5% катков.
+Тир B, 60-е место из 133 героев и 15-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 48,3% побед. В профессиональных матчах за месяц героя драфтуют в 4,5% катков.
 
 Какая сборка на героя «Новария» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Yve MLBB: build, counters and skills | MLBB Boost"
-description: "Yve in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.92% win rate, tier C."
+description: "Yve in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.82% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yve.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-51.9%
+51.8%
 
 Pick rate
 
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.1%**![](/images/ranks/Epic.webp)Epic
+1.  **52.0%**![](/images/ranks/Epic.webp)Epic
 2.  **51.4%**![](/images/ranks/Legend.webp)Legend
 3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -282,7 +282,7 @@ Over the last 30 days the toughest opponents are Lolita, Hylos, Barats, Alice an
 
 What is Yve’s win rate right now?
 
-51.92% at Mythical Glory over the last 7 days and 52.24% across all ranks over 30 days, as of 24 November 2026.
+51.82% at Mythical Glory over the last 7 days and 52.20% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yve play?
 
@@ -290,7 +290,7 @@ Mage, played in the Mid Lane.
 
 Is Yve strong in the current meta?
 
-Tier C, #83 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.9% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
+Tier C, #84 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
 
 What is the best build for Yve?
 

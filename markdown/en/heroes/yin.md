@@ -1,6 +1,6 @@
 ---
 title: "Yin MLBB: build, counters and skills | MLBB Boost"
-description: "Yin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.92% win rate, tier C."
+description: "Yin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.95% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yin.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-49.9%
+50.0%
 
 Pick rate
 
@@ -53,12 +53,12 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
--   [Best MLBB junglers**30 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**33 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**29 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB fighters**32 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 -   [Best MLBB assassins**24 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
@@ -263,7 +263,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Lore
 
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are Diggie, Minsitthar, Ixia, Flory
 
 What is Yin’s win rate right now?
 
-49.92% at Mythical Glory over the last 7 days and 49.64% across all ranks over 30 days, as of 24 November 2026.
+49.95% at Mythical Glory over the last 7 days and 49.66% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yin play?
 
@@ -291,7 +291,7 @@ Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Yin strong in the current meta?
 
-Tier C, #106 of 133 heroes and #33 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #105 of 133 heroes and #32 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Yin?
 

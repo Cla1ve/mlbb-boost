@@ -9,11 +9,11 @@ language: ru
 
 # Лучшие роумеры MLBB
 
-34 героя · Обновлено 24 ноября
+34 героя · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди роумеров сейчас лидируют Марсель, Калеа и Кармилла. Марсель: 57,1% побед и бан в 70,2% матчей Мифической славы за 7 дней. В списке 34 героя, из них 8 в тире S или A.
+Среди роумеров сейчас лидируют Марсель, Калеа и Кармилла. Марсель: 57,0% побед и бан в 70,0% матчей Мифической славы за 7 дней. В списке 34 героя, из них 8 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -27,7 +27,7 @@ S
 
 Победы
 
-57,1%
+57,0%
 
 Выбор
 
@@ -35,7 +35,7 @@ S
 
 Баны
 
-70,2%
+70,0%
 
 ![](/images/mlbb/items/2212.webp)
 
@@ -75,7 +75,7 @@ S
 
 Баны
 
-14,7%
+14,6%
 
 ![](/images/mlbb/items/3204.webp)
 
@@ -161,11 +161,11 @@ S
 
 S
 
-57,1%
+57,0%
 
 0,4%
 
-70,2%
+70,0%
 
 87,7%
 
@@ -179,7 +179,7 @@ S
 
 0,9%
 
-14,7%
+14,6%
 
 99,7%
 
@@ -207,7 +207,7 @@ S
 
 1,8%
 
-56,3%
+56,4%
 
 38,0%
 
@@ -221,7 +221,7 @@ A
 
 1,0%
 
-8,6%
+8,5%
 
 75,1%
 
@@ -233,9 +233,9 @@ A
 
 49,9%
 
-0,8%
+0,7%
 
-36,4%
+36,1%
 
 26,6%
 
@@ -249,7 +249,7 @@ A
 
 0,6%
 
-32,0%
+32,3%
 
 14,9%
 
@@ -263,7 +263,7 @@ A
 
 1,4%
 
-10,1%
+10,2%
 
 11,3%
 
@@ -277,7 +277,7 @@ B
 
 0,9%
 
-31,3%
+31,1%
 
 0,7%
 
@@ -291,7 +291,7 @@ B
 
 1,3%
 
-13,7%
+13,8%
 
 —
 
@@ -305,7 +305,7 @@ B
 
 0,8%
 
-12,7%
+13,0%
 
 5,2%
 
@@ -319,7 +319,7 @@ B
 
 0,8%
 
-9,4%
+9,2%
 
 7,7%
 
@@ -331,9 +331,9 @@ B
 
 49,7%
 
-2,0%
+1,9%
 
-10,9%
+11,1%
 
 0,3%
 
@@ -345,9 +345,9 @@ B
 
 49,9%
 
-1,4%
+1,5%
 
-4,9%
+5,0%
 
 2,7%
 
@@ -361,7 +361,7 @@ B
 
 1,0%
 
-1,8%
+1,9%
 
 24,4%
 
@@ -385,11 +385,11 @@ B
 
 B
 
-55,9%
+56,0%
 
 0,3%
 
-5,3%
+5,4%
 
 —
 
@@ -403,7 +403,7 @@ C
 
 1,6%
 
-4,7%
+4,8%
 
 —
 
@@ -417,7 +417,7 @@ C
 
 0,4%
 
-3,7%
+3,9%
 
 3,5%
 
@@ -445,11 +445,25 @@ C
 
 0,4%
 
-2,2%
+2,3%
 
 —
 
 22
+
+[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+
+D
+
+50,4%
+
+0,2%
+
+1,1%
+
+—
+
+23
 
 [![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
 
@@ -459,21 +473,7 @@ C
 
 0,5%
 
-0,6%
-
-—
-
-23
-
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
-
-D
-
-50,3%
-
-0,2%
-
-1,1%
+0,7%
 
 —
 
@@ -483,7 +483,7 @@ D
 
 C
 
-49,2%
+49,3%
 
 0,3%
 
@@ -507,20 +507,6 @@ D
 
 26
 
-[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
-
-D
-
-50,7%
-
-0,1%
-
-0,4%
-
-0,5%
-
-27
-
 [![](/images/heroes/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 D
@@ -532,6 +518,20 @@ D
 0,1%
 
 2,5%
+
+27
+
+[![](/images/heroes/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+
+D
+
+50,7%
+
+0,1%
+
+0,4%
+
+0,5%
 
 28
 
@@ -551,11 +551,11 @@ C
 
 [![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)
 
-D
+C
 
 47,5%
 
-0,2%
+0,3%
 
 0,1%
 
@@ -567,11 +567,11 @@ D
 
 D
 
-52,3%
+52,4%
 
 0,1%
 
-0,1%
+0,2%
 
 —
 
@@ -613,7 +613,7 @@ C
 
 0,6%
 
-1,7%
+1,8%
 
 —
 
@@ -623,7 +623,7 @@ C
 
 D
 
-45,9%
+46,0%
 
 0,1%
 
@@ -646,23 +646,23 @@ D
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
-1.  [![](/images/heroes/rafaela.webp)Рафаэль55,0%](https://boostmlbb.ru/heroes/rafaela.html)
+1.  [![](/images/heroes/rafaela.webp)Рафаэль54,9%](https://boostmlbb.ru/heroes/rafaela.html)
 2.  [![](/images/heroes/minotaur.webp)Минотавр54,9%](https://boostmlbb.ru/heroes/minotaur.html)
 3.  [![](/images/heroes/khufra.webp)Хуфра54,7%](https://boostmlbb.ru/heroes/khufra.html)
-4.  [![](/images/heroes/floryn.webp)Флорин54,3%](https://boostmlbb.ru/heroes/floryn.html)
-5.  [![](/images/heroes/atlas.webp)Атлас53,9%](https://boostmlbb.ru/heroes/atlas.html)
-6.  [![](/images/heroes/hilda.webp)Хильда52,9%](https://boostmlbb.ru/heroes/hilda.html)
+4.  [![](/images/heroes/floryn.webp)Флорин54,2%](https://boostmlbb.ru/heroes/floryn.html)
+5.  [![](/images/heroes/atlas.webp)Атлас53,8%](https://boostmlbb.ru/heroes/atlas.html)
+6.  [![](/images/heroes/hilda.webp)Хильда53,0%](https://boostmlbb.ru/heroes/hilda.html)
 
 ## Кто обыгрывает роумеров
 
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
-1.  [![](/images/heroes/helcurt.webp)Хелкарт7 из 34](https://boostmlbb.ru/heroes/helcurt.html)
-2.  [![](/images/heroes/johnson.webp)Джонсон7 из 34](https://boostmlbb.ru/heroes/johnson.html)
-3.  [![](/images/heroes/zilong.webp)Зилонг7 из 34](https://boostmlbb.ru/heroes/zilong.html)
+1.  [![](/images/heroes/johnson.webp)Джонсон8 из 34](https://boostmlbb.ru/heroes/johnson.html)
+2.  [![](/images/heroes/zilong.webp)Зилонг7 из 34](https://boostmlbb.ru/heroes/zilong.html)
+3.  [![](/images/heroes/helcurt.webp)Хелкарт6 из 34](https://boostmlbb.ru/heroes/helcurt.html)
 4.  [![](/images/heroes/saber.webp)Сабер6 из 34](https://boostmlbb.ru/heroes/saber.html)
 5.  [![](/images/heroes/alice.webp)Алиса5 из 34](https://boostmlbb.ru/heroes/alice.html)
-6.  [![](/images/heroes/lolita.webp)Лолита5 из 34](https://boostmlbb.ru/heroes/lolita.html)
+6.  [![](/images/heroes/natalia.webp)Наталья5 из 34](https://boostmlbb.ru/heroes/natalia.html)
 
 **Поднимем ранг на любом из роумеров**Цена считается в калькуляторе
 
@@ -672,7 +672,7 @@ D
 
 Кто лучший роумер в MLBB сейчас?
 
-Марсель: тир S, 57,1% побед, бан в 70,2% матчей Мифической славы за 7 дней. Следом идут Калеа и Кармилла. Данные на 24 ноября 2026 года.
+Марсель: тир S, 57,0% побед, бан в 70,0% матчей Мифической славы за 7 дней. Следом идут Калеа и Кармилла. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди роумеров?
 
@@ -680,11 +680,11 @@ D
 
 Каких роумеров чаще всего банят?
 
-Марсель (70,2%), Белерик (56,3%) и Кармилла (37,2%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Марсель (70,0%), Белерик (56,4%) и Кармилла (37,2%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько роумеров в Mobile Legends?
 
-34 из 133 героев на 24 ноября 2026 года. В списке все, кто играет роум по данным игры.
+34 из 133 героев на 25 ноября 2026 года. В списке все, кто играет роум по данным игры.
 
 Какие предметы чаще всего собирают на роумерах?
 

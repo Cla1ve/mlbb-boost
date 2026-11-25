@@ -1,6 +1,6 @@
 ---
 title: "Бенедетта MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Бенедетта в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 51,58% побед, тир C."
+description: "Бенедетта в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 51,60% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/benedetta.html
 language: ru
 ---
@@ -262,7 +262,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ## История
 
@@ -282,7 +282,7 @@ C
 
 Какой процент побед у героя «Бенедетта» сейчас?
 
-51,58% в Мифической славе за последние 7 дней и 52,09% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+51,60% в Мифической славе за последние 7 дней и 52,07% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Бенедетта»?
 

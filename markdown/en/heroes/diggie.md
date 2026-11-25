@@ -1,6 +1,6 @@
 ---
 title: "Diggie MLBB: build, counters and skills | MLBB Boost"
-description: "Diggie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 55.94% win rate, tier B."
+description: "Diggie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 56.02% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-55.9%
+56.0%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-5.3%
+5.4%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Alice, Zhuxin, Guinevere, Cici 
 
 What is Diggie’s win rate right now?
 
-55.94% at Mythical Glory over the last 7 days and 54.33% across all ranks over 30 days, as of 24 November 2026.
+56.02% at Mythical Glory over the last 7 days and 54.36% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Diggie play?
 
@@ -283,7 +283,7 @@ Support, played on roam.
 
 Is Diggie strong in the current meta?
 
-Tier B, #57 of 133 heroes and #10 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.3% of matches, 55.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #57 of 133 heroes and #10 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.4% of matches, 56.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Diggie?
 

@@ -1,6 +1,6 @@
 ---
 title: "Joy MLBB: build, counters and skills | MLBB Boost"
-description: "Joy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.36% win rate, tier D."
+description: "Joy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.35% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/joy.html
 language: en
 ---
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.7%**![](/images/ranks/Epic.webp)Epic
+1.  **47.8%**![](/images/ranks/Epic.webp)Epic
 2.  **46.5%**![](/images/ranks/Legend.webp)Legend
 3.  **46.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)
 
 ### Places in the rankings
 
@@ -250,7 +250,7 @@ This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat
 
 Beat this hero
 
-[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)
 
 ### Easy targets
 
@@ -272,11 +272,11 @@ This hero beats them
 
 Who counters Joy in MLBB?
 
-Over the last 30 days the toughest opponents are Sun, Lolita, X.Borg, Yve and Hanabi.
+Over the last 30 days the toughest opponents are Sun, Lolita, X.Borg, Yve and Lylia.
 
 What is Joy’s win rate right now?
 
-49.36% at Mythical Glory over the last 7 days and 48.80% across all ranks over 30 days, as of 24 November 2026.
+49.35% at Mythical Glory over the last 7 days and 48.79% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Joy play?
 

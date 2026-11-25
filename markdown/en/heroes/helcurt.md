@@ -1,6 +1,6 @@
 ---
 title: "Helcurt MLBB: build, counters and skills | MLBB Boost"
-description: "Helcurt in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 46.69% win rate, tier C."
+description: "Helcurt in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 46.73% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/helcurt.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-2.2%
+2.3%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,21 +43,21 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.3%**![](/images/ranks/Epic.webp)Epic
+1.  **48.4%**![](/images/ranks/Epic.webp)Epic
 2.  **48.5%**![](/images/ranks/Legend.webp)Legend
-3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.4%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **47.5%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **46.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)
 
 ### Places in the rankings
 
--   [Best MLBB junglers**27 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**26 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB assassins**22 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 -   [Best MLBB roamers**21 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are X.Borg, Valir, Xavier, Gord and
 
 What is Helcurt’s win rate right now?
 
-46.69% at Mythical Glory over the last 7 days and 47.65% across all ranks over 30 days, as of 24 November 2026.
+46.73% at Mythical Glory over the last 7 days and 47.68% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Helcurt play?
 
@@ -291,7 +291,7 @@ Assassin, played in the jungle or on roam.
 
 Is Helcurt strong in the current meta?
 
-Tier C, #102 of 133 heroes and #22 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.2% of matches, 46.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #101 of 133 heroes and #22 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.3% of matches, 46.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Helcurt?
 

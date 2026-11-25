@@ -1,6 +1,6 @@
 ---
 title: "Valir MLBB: build, counters and skills | MLBB Boost"
-description: "Valir in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 53.44% win rate, tier A."
+description: "Valir in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 53.45% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
@@ -17,7 +17,7 @@ A
 
 Win rate
 
-53.4%
+53.5%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-3.7%
+3.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,8 +43,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.3%**![](/images/ranks/Epic.webp)Epic
-2.  **54.3%**![](/images/ranks/Legend.webp)Legend
+1.  **54.2%**![](/images/ranks/Epic.webp)Epic
+2.  **54.2%**![](/images/ranks/Legend.webp)Legend
 3.  **54.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **54.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **53.7%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -216,7 +216,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ## Lore
 
@@ -236,7 +236,7 @@ Over the last 30 days the toughest opponents are Fredrinn, Alice, Balmond, Leomo
 
 What is Valir’s win rate right now?
 
-53.44% at Mythical Glory over the last 7 days and 54.09% across all ranks over 30 days, as of 24 November 2026.
+53.45% at Mythical Glory over the last 7 days and 54.06% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Valir play?
 
@@ -244,7 +244,7 @@ Mage, played in the Mid Lane.
 
 Is Valir strong in the current meta?
 
-Tier A, #20 of 133 heroes and #6 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.7% of matches, 53.4% win rate. In professional games over the last month the hero is drafted in 40.7% of them.
+Tier A, #20 of 133 heroes and #6 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.9% of matches, 53.5% win rate. In professional games over the last month the hero is drafted in 40.7% of them.
 
 What is the best build for Valir?
 

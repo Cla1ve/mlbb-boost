@@ -1,6 +1,6 @@
 ---
 title: "Benedetta MLBB: build, counters and skills | MLBB Boost"
-description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.58% win rate, tier C."
+description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.60% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
@@ -262,7 +262,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
 ## Lore
 
@@ -282,7 +282,7 @@ Over the last 30 days the toughest opponents are X.Borg, Alpha, Silvanna, Ixia a
 
 What is Benedetta’s win rate right now?
 
-51.58% at Mythical Glory over the last 7 days and 52.09% across all ranks over 30 days, as of 24 November 2026.
+51.60% at Mythical Glory over the last 7 days and 52.07% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Benedetta play?
 

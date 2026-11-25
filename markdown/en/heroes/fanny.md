@@ -1,6 +1,6 @@
 ---
 title: "Fanny MLBB: build, counters and skills | MLBB Boost"
-description: "Fanny in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.96% win rate, tier B."
+description: "Fanny in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.97% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/fanny.html
 language: en
 ---
@@ -21,7 +21,7 @@ Win rate
 
 Pick rate
 
-0.7%
+0.8%
 
 Ban rate
 
@@ -43,8 +43,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **44.7%**![](/images/ranks/Epic.webp)Epic
-2.  **43.0%**![](/images/ranks/Legend.webp)Legend
+1.  **44.8%**![](/images/ranks/Epic.webp)Epic
+2.  **43.1%**![](/images/ranks/Legend.webp)Legend
 3.  **41.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **42.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **42.9%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ### Places in the rankings
 
@@ -274,7 +274,7 @@ Over the last 30 days the toughest opponents are Granger, Gloo, Yve, Atlas and C
 
 What is Fanny’s win rate right now?
 
-42.96% at Mythical Glory over the last 7 days and 42.67% across all ranks over 30 days, as of 24 November 2026.
+42.97% at Mythical Glory over the last 7 days and 42.70% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Fanny play?
 
@@ -282,7 +282,7 @@ Assassin, played in the jungle.
 
 Is Fanny strong in the current meta?
 
-Tier B, #45 of 133 heroes and #10 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.6% of matches, 43.0% win rate. In professional games over the last month the hero is drafted in 32.2% of them.
+Tier B, #46 of 133 heroes and #10 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.6% of matches, 43.0% win rate. In professional games over the last month the hero is drafted in 32.2% of them.
 
 What is the best build for Fanny?
 

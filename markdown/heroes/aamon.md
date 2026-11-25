@@ -1,6 +1,6 @@
 ---
 title: "Эймон MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эймон в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,42% побед, тир C."
+description: "Эймон в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,18% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/aamon.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-50,4%
+50,2%
 
 Выбор
 
@@ -47,17 +47,17 @@ C
 2.  **50,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **50,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**21 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**20 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие убийцы MLBB**19 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
@@ -254,7 +254,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)
+[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
 
 ### Слабые цели
 
@@ -276,11 +276,11 @@ C
 
 Кто контрпик для героя «Эймон» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Чичи, Марсель, Клауд, Бруно и Ксавьер.
+За последние 30 дней чаще всего героя обыгрывают Чичи, Марсель, Клауд, Бруно и Хильда.
 
 Какой процент побед у героя «Эймон» сейчас?
 
-50,42% в Мифической славе за последние 7 дней и 50,21% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+50,18% в Мифической славе за последние 7 дней и 50,18% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Эймон»?
 
@@ -288,7 +288,7 @@ C
 
 Силён ли герой «Эймон» в текущей мете?
 
-Тир C, 86-е место из 133 героев и 19-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 85-е место из 133 героев и 19-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 50,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Эймон» лучшая?
 

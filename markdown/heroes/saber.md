@@ -1,6 +1,6 @@
 ---
 title: "Сабер MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Сабер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 53,66% побед, тир B."
+description: "Сабер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 53,71% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/saber.html
 language: ru
 ---
@@ -25,7 +25,7 @@ B
 
 Баны
 
-12,7%
+13,0%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -53,7 +53,7 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ### Места в рейтингах
 
@@ -275,7 +275,7 @@ B
 
 Какой процент побед у героя «Сабер» сейчас?
 
-53,66% в Мифической славе за последние 7 дней и 51,23% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+53,71% в Мифической славе за последние 7 дней и 51,26% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Сабер»?
 
@@ -283,7 +283,7 @@ B
 
 Силён ли герой «Сабер» в текущей мете?
 
-Тир B, 32-е место из 133 героев и 6-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 12,7% матчей, 53,7% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
+Тир B, 32-е место из 133 героев и 6-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 13,0% матчей, 53,7% побед. В профессиональных матчах за месяц героя драфтуют в 5,2% катков.
 
 Какая сборка на героя «Сабер» лучшая?
 

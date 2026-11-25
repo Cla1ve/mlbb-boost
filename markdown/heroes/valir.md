@@ -1,6 +1,6 @@
 ---
 title: "Валир MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Валир в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 53,44% побед, тир A."
+description: "Валир в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 53,45% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/valir.html
 language: ru
 ---
@@ -17,7 +17,7 @@ A
 
 Победы
 
-53,4%
+53,5%
 
 Выбор
 
@@ -25,7 +25,7 @@ A
 
 Баны
 
-3,7%
+3,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,8 +43,8 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **54,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,3%**![](/images/ranks/Legend.webp)Легенда
+1.  **54,2%**![](/images/ranks/Epic.webp)Эпик
+2.  **54,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,2%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **53,7%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -216,7 +216,7 @@ A
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
 
 ## История
 
@@ -236,7 +236,7 @@ A
 
 Какой процент побед у героя «Валир» сейчас?
 
-53,44% в Мифической славе за последние 7 дней и 54,09% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+53,45% в Мифической славе за последние 7 дней и 54,06% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Валир»?
 
@@ -244,7 +244,7 @@ A
 
 Силён ли герой «Валир» в текущей мете?
 
-Тир A, 20-е место из 133 героев и 6-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,7% матчей, 53,4% побед. В профессиональных матчах за месяц героя драфтуют в 40,7% катков.
+Тир A, 20-е место из 133 героев и 6-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,9% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 40,7% катков.
 
 Какая сборка на героя «Валир» лучшая?
 

@@ -43,9 +43,9 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **43,2%**![](/images/ranks/Epic.webp)Эпик
+1.  **43,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **41,7%**![](/images/ranks/Legend.webp)Легенда
-3.  **41,4%**![](/images/ranks/Mythic.webp)Мифик
+3.  **41,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **42,0%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **44,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -57,7 +57,7 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие стрелки MLBB**19 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
+-   [Лучшие стрелки MLBB**18 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
 
 ## Сборка
 
@@ -251,7 +251,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
 
 ### Слабые цели
 
@@ -273,11 +273,11 @@ C
 
 Кто контрпик для героя «Грейнджер» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Карина, Беатрис, Иксия, Ив и Дигги.
+За последние 30 дней чаще всего героя обыгрывают Карина, Беатрис, Иксия, Дигги и Ив.
 
 Какой процент побед у героя «Грейнджер» сейчас?
 
-44,02% в Мифической славе за последние 7 дней и 42,97% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+44,02% в Мифической славе за последние 7 дней и 42,96% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Грейнджер»?
 
@@ -285,7 +285,7 @@ C
 
 Силён ли герой «Грейнджер» в текущей мете?
 
-Тир C, 93-е место из 133 героев и 19-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 44,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,6% катков.
+Тир C, 92-е место из 133 героев и 18-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 44,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,6% катков.
 
 Какая сборка на героя «Грейнджер» лучшая?
 

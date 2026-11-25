@@ -1,6 +1,6 @@
 ---
 title: "Глу MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Глу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 49,90% побед, тир A."
+description: "Глу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 49,94% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/gloo.html
 language: ru
 ---
@@ -21,11 +21,11 @@ A
 
 Выбор
 
-0,8%
+0,7%
 
 Баны
 
-36,4%
+36,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -44,9 +44,9 @@ A
 ### Победы по рангам, 30 дней
 
 1.  **55,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **56,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **55,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **54,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+2.  **55,9%**![](/images/ranks/Legend.webp)Легенда
+3.  **55,5%**![](/images/ranks/Mythic.webp)Мифик
+4.  **54,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -258,7 +258,7 @@ A
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)
+[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
 
 ## История
 
@@ -278,7 +278,7 @@ A
 
 Какой процент побед у героя «Глу» сейчас?
 
-49,90% в Мифической славе за последние 7 дней и 53,35% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,94% в Мифической славе за последние 7 дней и 53,25% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Глу»?
 
@@ -286,7 +286,7 @@ A
 
 Силён ли герой «Глу» в текущей мете?
 
-Тир A, 18-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 36,4% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 26,6% катков.
+Тир A, 18-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 36,1% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 26,6% катков.
 
 Какая сборка на героя «Глу» лучшая?
 

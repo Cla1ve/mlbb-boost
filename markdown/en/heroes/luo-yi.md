@@ -1,6 +1,6 @@
 ---
 title: "Luo Yi MLBB: build, counters and skills | MLBB Boost"
-description: "Luo Yi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.19% win rate, tier D."
+description: "Luo Yi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.22% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/luo-yi.html
 language: en
 ---
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.7%**![](/images/ranks/Epic.webp)Epic
+1.  **48.8%**![](/images/ranks/Epic.webp)Epic
 2.  **47.9%**![](/images/ranks/Legend.webp)Legend
-3.  **47.5%**![](/images/ranks/Mythic.webp)Mythic
+3.  **47.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **46.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -282,7 +282,7 @@ Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Fredrinn
 
 What is Luo Yi’s win rate right now?
 
-46.19% at Mythical Glory over the last 7 days and 47.31% across all ranks over 30 days, as of 24 November 2026.
+46.22% at Mythical Glory over the last 7 days and 47.28% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Luo Yi play?
 

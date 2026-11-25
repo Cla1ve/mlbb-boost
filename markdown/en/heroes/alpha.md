@@ -1,6 +1,6 @@
 ---
 title: "Alpha MLBB: build, counters and skills | MLBB Boost"
-description: "Alpha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.24% win rate, tier C."
+description: "Alpha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.19% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/alpha.html
 language: en
 ---
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.1%**![](/images/ranks/Epic.webp)Epic
+1.  **50.2%**![](/images/ranks/Epic.webp)Epic
 2.  **49.0%**![](/images/ranks/Legend.webp)Legend
 3.  **48.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -53,12 +53,12 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
--   [Best MLBB junglers**20 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**25 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**21 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB fighters**26 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
 
@@ -252,7 +252,7 @@ Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack)
 
 Beat this hero
 
-[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
 ### Easy targets
 
@@ -274,11 +274,11 @@ This hero beats them
 
 Who counters Alpha in MLBB?
 
-Over the last 30 days the toughest opponents are Phoveus, Odette, Barats, Saber and Fredrinn.
+Over the last 30 days the toughest opponents are Phoveus, Odette, Saber, Barats and Fredrinn.
 
 What is Alpha’s win rate right now?
 
-48.24% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 24 November 2026.
+48.19% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Alpha play?
 
@@ -286,7 +286,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Alpha strong in the current meta?
 
-Tier C, #84 of 133 heroes and #25 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
+Tier C, #86 of 133 heroes and #26 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
 
 What is the best build for Alpha?
 

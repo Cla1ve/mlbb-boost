@@ -1,6 +1,6 @@
 ---
 title: "Фрейя MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фрейя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,71% побед, тир S."
+description: "Фрейя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,76% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/freya.html
 language: ru
 ---
@@ -17,11 +17,11 @@ S
 
 Победы
 
-51,7%
+51,8%
 
 Выбор
 
-1,4%
+1,3%
 
 Баны
 
@@ -45,15 +45,15 @@ S
 
 1.  **47,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **47,6%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
+3.  **48,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **51,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
+[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)
 
 ### Места в рейтингах
 
@@ -276,7 +276,7 @@ S
 
 Какой процент побед у героя «Фрейя» сейчас?
 
-51,71% в Мифической славе за последние 7 дней и 49,39% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+51,76% в Мифической славе за последние 7 дней и 49,47% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Фрейя»?
 
@@ -284,7 +284,7 @@ S
 
 Силён ли герой «Фрейя» в текущей мете?
 
-Тир S, 6-е место из 133 героев и 3-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 11,4% матчей, 51,7% побед. В профессиональных матчах за месяц героя драфтуют в 98,4% катков.
+Тир S, 6-е место из 133 героев и 3-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 11,4% матчей, 51,8% побед. В профессиональных матчах за месяц героя драфтуют в 98,4% катков.
 
 Какая сборка на героя «Фрейя» лучшая?
 

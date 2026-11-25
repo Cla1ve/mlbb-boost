@@ -1,6 +1,6 @@
 ---
 title: "Argus MLBB: build, counters and skills | MLBB Boost"
-description: "Argus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 57.32% win rate, tier B."
+description: "Argus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 57.35% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-57.3%
+57.4%
 
 Pick rate
 
@@ -287,7 +287,7 @@ Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Saber a
 
 What is Argus’s win rate right now?
 
-57.32% at Mythical Glory over the last 7 days and 56.81% across all ranks over 30 days, as of 24 November 2026.
+57.35% at Mythical Glory over the last 7 days and 56.84% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Argus play?
 
@@ -295,7 +295,7 @@ Fighter, played in the EXP Lane.
 
 Is Argus strong in the current meta?
 
-Tier B, #56 of 133 heroes and #17 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 57.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #56 of 133 heroes and #17 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 57.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Argus?
 

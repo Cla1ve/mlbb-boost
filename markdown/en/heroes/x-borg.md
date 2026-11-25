@@ -1,6 +1,6 @@
 ---
 title: "X.Borg MLBB: build, counters and skills | MLBB Boost"
-description: "X.Borg in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.99% win rate, tier C."
+description: "X.Borg in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.96% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/x-borg.html
 language: en
 ---
@@ -261,7 +261,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
 ## Lore
 
@@ -281,7 +281,7 @@ Over the last 30 days the toughest opponents are Baxia, Barats, Terizla, Phoveus
 
 What is X.Borg’s win rate right now?
 
-48.99% at Mythical Glory over the last 7 days and 49.95% across all ranks over 30 days, as of 24 November 2026.
+48.96% at Mythical Glory over the last 7 days and 49.94% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does X.Borg play?
 

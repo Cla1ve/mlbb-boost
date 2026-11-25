@@ -1,6 +1,6 @@
 ---
 title: "Нана MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Нана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 45,08% побед, тир C."
+description: "Нана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 45,11% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/nana.html
 language: ru
 ---
@@ -57,8 +57,8 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие маги MLBB**25 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
--   [Лучшие мидеры MLBB**23 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
+-   [Лучшие маги MLBB**24 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие мидеры MLBB**22 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
 
@@ -208,13 +208,13 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
+[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
 
 ## История
 
@@ -230,11 +230,11 @@ C
 
 Кто контрпик для героя «Нана» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Одетта, Сабер, Лолита, Дариус и Мелисса.
+За последние 30 дней чаще всего героя обыгрывают Одетта, Лолита, Сабер, Дариус и Мелисса.
 
 Какой процент побед у героя «Нана» сейчас?
 
-45,08% в Мифической славе за последние 7 дней и 47,26% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+45,11% в Мифической славе за последние 7 дней и 47,24% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Нана»?
 
@@ -242,7 +242,7 @@ C
 
 Силён ли герой «Нана» в текущей мете?
 
-Тир C, 101-е место из 133 героев и 25-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 45,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 97-е место из 133 героев и 24-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 45,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Нана» лучшая?
 

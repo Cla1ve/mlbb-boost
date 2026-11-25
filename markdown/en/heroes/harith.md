@@ -1,6 +1,6 @@
 ---
 title: "Harith MLBB: build, counters and skills | MLBB Boost"
-description: "Harith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.69% win rate, tier C."
+description: "Harith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.70% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **45.7%**![](/images/ranks/Epic.webp)Epic
-2.  **44.9%**![](/images/ranks/Legend.webp)Legend
-3.  **44.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+1.  **45.6%**![](/images/ranks/Epic.webp)Epic
+2.  **45.0%**![](/images/ranks/Legend.webp)Legend
+3.  **44.8%**![](/images/ranks/Mythic.webp)Mythic
+4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Lolita, Johnson, Karina, Lapu-L
 
 What is Harith’s win rate right now?
 
-48.69% at Mythical Glory over the last 7 days and 46.96% across all ranks over 30 days, as of 24 November 2026.
+48.70% at Mythical Glory over the last 7 days and 47.00% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Harith play?
 

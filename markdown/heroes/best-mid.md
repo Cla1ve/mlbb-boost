@@ -9,11 +9,11 @@ language: ru
 
 # Лучшие мидеры MLBB
 
-29 героев · Обновлено 24 ноября
+29 героев · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди мидеров сейчас лидируют Кимми, Эйдора и Чжусинь. Кимми: 48,2% побед и бан в 0,6% матчей Мифической славы за 7 дней. В списке 29 героев, из них 6 в тире S или A.
+Среди мидеров сейчас лидируют Кимми, Эйдора и Чжусинь. Кимми: 48,1% побед и бан в 0,6% матчей Мифической славы за 7 дней. В списке 29 героев, из них 6 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -27,7 +27,7 @@ A
 
 Победы
 
-48,2%
+48,1%
 
 Выбор
 
@@ -75,7 +75,7 @@ A
 
 Баны
 
-34,0%
+33,7%
 
 ![](/images/mlbb/items/2014.webp)
 
@@ -111,7 +111,7 @@ A
 
 Выбор
 
-0,4%
+0,3%
 
 Баны
 
@@ -161,7 +161,7 @@ A
 
 A
 
-48,2%
+48,1%
 
 0,9%
 
@@ -179,7 +179,7 @@ A
 
 1,7%
 
-34,0%
+33,7%
 
 24,7%
 
@@ -191,7 +191,7 @@ A
 
 49,4%
 
-0,4%
+0,3%
 
 0,6%
 
@@ -203,11 +203,11 @@ A
 
 A
 
-53,4%
+53,5%
 
 1,3%
 
-3,7%
+3,9%
 
 40,7%
 
@@ -221,7 +221,7 @@ A
 
 1,9%
 
-3,1%
+3,2%
 
 39,6%
 
@@ -235,7 +235,7 @@ A
 
 1,4%
 
-3,8%
+3,7%
 
 32,9%
 
@@ -275,7 +275,7 @@ B
 
 48,8%
 
-0,6%
+0,7%
 
 0,8%
 
@@ -287,7 +287,7 @@ B
 
 B
 
-52,0%
+51,9%
 
 0,9%
 
@@ -301,7 +301,7 @@ B
 
 B
 
-44,8%
+44,7%
 
 0,2%
 
@@ -311,31 +311,31 @@ B
 
 12
 
-[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)
-
-B
-
-48,4%
-
-1,1%
-
-1,9%
-
-4,5%
-
-13
-
 [![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)
 
 B
 
-50,2%
+50,3%
 
 1,1%
 
 1,4%
 
 0,5%
+
+13
+
+[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)
+
+B
+
+48,3%
+
+1,1%
+
+1,9%
+
+4,5%
 
 14
 
@@ -399,7 +399,7 @@ C
 
 C
 
-50,7%
+50,6%
 
 0,7%
 
@@ -413,7 +413,7 @@ C
 
 C
 
-51,9%
+51,8%
 
 0,1%
 
@@ -451,20 +451,6 @@ C
 
 22
 
-[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)
-
-C
-
-48,8%
-
-0,5%
-
-0,1%
-
-0,3%
-
-23
-
 [![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
 
 C
@@ -477,13 +463,27 @@ C
 
 —
 
+23
+
+[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)
+
+C
+
+48,7%
+
+0,5%
+
+0,1%
+
+0,3%
+
 24
 
 [![](/images/heroes/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 C
 
-51,5%
+51,6%
 
 0,3%
 
@@ -579,7 +579,7 @@ D
 1.  [![](/images/heroes/valir.webp)Валир54,4%](https://boostmlbb.ru/heroes/valir.html)
 2.  [![](/images/heroes/zhask.webp)Заск53,3%](https://boostmlbb.ru/heroes/zhask.html)
 3.  [![](/images/heroes/gord.webp)Горд52,9%](https://boostmlbb.ru/heroes/gord.html)
-4.  [![](/images/heroes/cyclops.webp)Циклоп52,3%](https://boostmlbb.ru/heroes/cyclops.html)
+4.  [![](/images/heroes/cyclops.webp)Циклоп52,4%](https://boostmlbb.ru/heroes/cyclops.html)
 5.  [![](/images/heroes/zetian.webp)Цзэтянь52,1%](https://boostmlbb.ru/heroes/zetian.html)
 6.  [![](/images/heroes/kagura.webp)Кагура51,5%](https://boostmlbb.ru/heroes/kagura.html)
 
@@ -602,7 +602,7 @@ D
 
 Кто лучший мидер в MLBB сейчас?
 
-Кимми: тир A, 48,2% побед, бан в 0,6% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 24 ноября 2026 года.
+Кимми: тир A, 48,1% побед, бан в 0,6% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди мидеров?
 
@@ -610,11 +610,11 @@ D
 
 Каких мидеров чаще всего банят?
 
-Эйдора (34,0%), Селена (3,8%) и Валир (3,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Эйдора (33,7%), Валир (3,9%) и Селена (3,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько мидеров в Mobile Legends?
 
-29 из 133 героев на 24 ноября 2026 года. В списке все, кто играет на средней линии по данным игры.
+29 из 133 героев на 25 ноября 2026 года. В списке все, кто играет на средней линии по данным игры.
 
 Какие предметы чаще всего собирают на мидерах?
 

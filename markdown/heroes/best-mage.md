@@ -9,7 +9,7 @@ language: ru
 
 # Лучшие маги MLBB
 
-32 героя · Обновлено 24 ноября
+32 героя · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
@@ -67,7 +67,7 @@ A
 
 Победы
 
-46,4%
+46,5%
 
 Выбор
 
@@ -107,7 +107,7 @@ A
 
 Победы
 
-48,2%
+48,1%
 
 Выбор
 
@@ -175,7 +175,7 @@ A
 
 A
 
-46,4%
+46,5%
 
 0,9%
 
@@ -189,7 +189,7 @@ A
 
 A
 
-48,2%
+48,1%
 
 0,9%
 
@@ -207,7 +207,7 @@ A
 
 1,7%
 
-34,0%
+33,7%
 
 24,7%
 
@@ -219,7 +219,7 @@ A
 
 49,4%
 
-0,4%
+0,3%
 
 0,6%
 
@@ -231,11 +231,11 @@ A
 
 A
 
-53,4%
+53,5%
 
 1,3%
 
-3,7%
+3,9%
 
 40,7%
 
@@ -249,7 +249,7 @@ A
 
 1,9%
 
-3,1%
+3,2%
 
 39,6%
 
@@ -263,7 +263,7 @@ A
 
 1,4%
 
-3,8%
+3,7%
 
 32,9%
 
@@ -303,7 +303,7 @@ B
 
 48,8%
 
-0,6%
+0,7%
 
 0,8%
 
@@ -315,7 +315,7 @@ B
 
 B
 
-52,0%
+51,9%
 
 0,9%
 
@@ -329,7 +329,7 @@ B
 
 B
 
-44,8%
+44,7%
 
 0,2%
 
@@ -339,31 +339,31 @@ B
 
 14
 
-[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)
-
-B
-
-48,4%
-
-1,1%
-
-1,9%
-
-4,5%
-
-15
-
 [![](/images/heroes/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)
 
 B
 
-50,2%
+50,3%
 
 1,1%
 
 1,4%
 
 0,5%
+
+15
+
+[![](/images/heroes/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)
+
+B
+
+48,3%
+
+1,1%
+
+1,9%
+
+4,5%
 
 16
 
@@ -427,7 +427,7 @@ C
 
 C
 
-50,7%
+50,6%
 
 0,7%
 
@@ -441,7 +441,7 @@ C
 
 C
 
-51,9%
+51,8%
 
 0,1%
 
@@ -479,20 +479,6 @@ C
 
 24
 
-[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)
-
-C
-
-48,8%
-
-0,5%
-
-0,1%
-
-0,3%
-
-25
-
 [![](/images/heroes/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
 
 C
@@ -504,6 +490,20 @@ C
 0,9%
 
 —
+
+25
+
+[![](/images/heroes/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)
+
+C
+
+48,7%
+
+0,5%
+
+0,1%
+
+0,3%
 
 26
 
@@ -525,7 +525,7 @@ C
 
 C
 
-51,5%
+51,6%
 
 0,3%
 
@@ -621,7 +621,7 @@ D
 1.  [![](/images/heroes/valir.webp)Валир54,4%](https://boostmlbb.ru/heroes/valir.html)
 2.  [![](/images/heroes/zhask.webp)Заск53,3%](https://boostmlbb.ru/heroes/zhask.html)
 3.  [![](/images/heroes/gord.webp)Горд52,9%](https://boostmlbb.ru/heroes/gord.html)
-4.  [![](/images/heroes/cyclops.webp)Циклоп52,3%](https://boostmlbb.ru/heroes/cyclops.html)
+4.  [![](/images/heroes/cyclops.webp)Циклоп52,4%](https://boostmlbb.ru/heroes/cyclops.html)
 5.  [![](/images/heroes/zetian.webp)Цзэтянь52,1%](https://boostmlbb.ru/heroes/zetian.html)
 6.  [![](/images/heroes/bane.webp)Бэйн51,5%](https://boostmlbb.ru/heroes/bane.html)
 
@@ -644,7 +644,7 @@ D
 
 Кто лучший маг в MLBB сейчас?
 
-Алиса: тир A, 50,3% побед, бан в 8,2% матчей Мифической славы за 7 дней. Следом идут Эсмеральда и Кимми. Данные на 24 ноября 2026 года.
+Алиса: тир A, 50,3% побед, бан в 8,2% матчей Мифической славы за 7 дней. Следом идут Эсмеральда и Кимми. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди магов?
 
@@ -652,11 +652,11 @@ D
 
 Каких магов чаще всего банят?
 
-Эйдора (34,0%), Алиса (8,2%) и Селена (3,8%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Эйдора (33,7%), Алиса (8,2%) и Валир (3,9%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько магов в Mobile Legends?
 
-32 из 133 героев на 24 ноября 2026 года. В списке все герои роли «Маг».
+32 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Маг».
 
 Какие предметы чаще всего собирают на магах?
 

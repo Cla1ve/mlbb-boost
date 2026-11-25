@@ -1,6 +1,6 @@
 ---
 title: "Bane MLBB: build, counters and skills | MLBB Boost"
-description: "Bane in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and mage, 51.48% win rate, tier C."
+description: "Bane in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and mage, 51.53% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/bane.html
 language: en
 ---
@@ -53,13 +53,13 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
--   [Best MLBB junglers**28 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**30 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB mages**26 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB fighters**32 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB fighters**33 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
 
@@ -279,7 +279,7 @@ Over the last 30 days the toughest opponents are Phoveus, Khufra, Baxia, Odette 
 
 What is Bane’s win rate right now?
 
-51.48% at Mythical Glory over the last 7 days and 51.61% across all ranks over 30 days, as of 24 November 2026.
+51.53% at Mythical Glory over the last 7 days and 51.61% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Bane play?
 
@@ -287,7 +287,7 @@ Fighter and mage, played in the EXP Lane or in the jungle.
 
 Is Bane strong in the current meta?
 
-Tier C, #104 of 133 heroes and #32 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #106 of 133 heroes and #33 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Bane?
 

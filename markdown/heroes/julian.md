@@ -1,6 +1,6 @@
 ---
 title: "Джулиан MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Джулиан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 49,27% побед, тир C."
+description: "Джулиан в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 49,26% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/julian.html
 language: ru
 ---
@@ -53,7 +53,7 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -277,7 +277,7 @@ C
 
 Какой процент побед у героя «Джулиан» сейчас?
 
-49,27% в Мифической славе за последние 7 дней и 49,93% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,26% в Мифической славе за последние 7 дней и 49,92% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Джулиан»?
 

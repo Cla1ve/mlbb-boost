@@ -1,6 +1,6 @@
 ---
 title: "Фанни MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фанни в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 42,96% побед, тир B."
+description: "Фанни в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 42,97% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/fanny.html
 language: ru
 ---
@@ -21,7 +21,7 @@ B
 
 Выбор
 
-0,7%
+0,8%
 
 Баны
 
@@ -43,8 +43,8 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **44,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **43,0%**![](/images/ranks/Legend.webp)Легенда
+1.  **44,8%**![](/images/ranks/Epic.webp)Эпик
+2.  **43,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **41,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **42,4%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **42,9%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -53,7 +53,7 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)
 
 ### Места в рейтингах
 
@@ -274,7 +274,7 @@ B
 
 Какой процент побед у героя «Фанни» сейчас?
 
-42,96% в Мифической славе за последние 7 дней и 42,67% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+42,97% в Мифической славе за последние 7 дней и 42,70% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Фанни»?
 
@@ -282,7 +282,7 @@ B
 
 Силён ли герой «Фанни» в текущей мете?
 
-Тир B, 45-е место из 133 героев и 10-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,6% матчей, 43,0% побед. В профессиональных матчах за месяц героя драфтуют в 32,2% катков.
+Тир B, 46-е место из 133 героев и 10-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,6% матчей, 43,0% побед. В профессиональных матчах за месяц героя драфтуют в 32,2% катков.
 
 Какая сборка на героя «Фанни» лучшая?
 

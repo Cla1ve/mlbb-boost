@@ -1,6 +1,6 @@
 ---
 title: "Марсель MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Марсель в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 57,07% побед, тир S."
+description: "Марсель в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 57,04% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/marcel.html
 language: ru
 ---
@@ -17,7 +17,7 @@ S
 
 Победы
 
-57,1%
+57,0%
 
 Выбор
 
@@ -25,7 +25,7 @@ S
 
 Баны
 
-70,2%
+70,0%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -259,7 +259,7 @@ S
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
 
 ## История
 
@@ -279,7 +279,7 @@ S
 
 Какой процент побед у героя «Марсель» сейчас?
 
-57,07% в Мифической славе за последние 7 дней и 57,44% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+57,04% в Мифической славе за последние 7 дней и 57,41% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Марсель»?
 
@@ -287,7 +287,7 @@ S
 
 Силён ли герой «Марсель» в текущей мете?
 
-Тир S, 2-е место из 133 героев и 1-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 70,2% матчей, 57,1% побед. В профессиональных матчах за месяц героя драфтуют в 87,7% катков.
+Тир S, 2-е место из 133 героев и 1-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 70,0% матчей, 57,0% побед. В профессиональных матчах за месяц героя драфтуют в 87,7% катков.
 
 Какая сборка на героя «Марсель» лучшая?
 

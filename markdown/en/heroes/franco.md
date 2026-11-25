@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-1.7%
+1.8%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,8 +43,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **44.0%**![](/images/ranks/Epic.webp)Epic
-2.  **42.1%**![](/images/ranks/Legend.webp)Legend
+1.  **44.1%**![](/images/ranks/Epic.webp)Epic
+2.  **42.2%**![](/images/ranks/Legend.webp)Legend
 3.  **41.8%**![](/images/ranks/Mythic.webp)Mythic
 4.  **41.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **40.0%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -272,7 +272,7 @@ Over the last 30 days the toughest opponents are Diggie, Angela, Fanny, Floryn a
 
 What is Franco’s win rate right now?
 
-40.57% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 24 November 2026.
+40.57% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Franco play?
 
@@ -280,7 +280,7 @@ Tank, played on roam.
 
 Is Franco strong in the current meta?
 
-Tier C, #131 of 133 heroes and #24 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.7% of matches, 40.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #131 of 133 heroes and #24 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 40.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Franco?
 

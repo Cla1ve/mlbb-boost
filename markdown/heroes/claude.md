@@ -46,7 +46,7 @@ B
 1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **49,3%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -253,7 +253,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
 
 ## История
 
@@ -273,7 +273,7 @@ B
 
 Какой процент побед у героя «Клауд» сейчас?
 
-48,51% в Мифической славе за последние 7 дней и 48,85% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,51% в Мифической славе за последние 7 дней и 48,85% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Клауд»?
 

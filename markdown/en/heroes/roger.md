@@ -1,6 +1,6 @@
 ---
 title: "Roger MLBB: build, counters and skills | MLBB Boost"
-description: "Roger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and marksman, 46.21% win rate, tier D."
+description: "Roger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and marksman, 46.28% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
@@ -17,7 +17,7 @@ D
 
 Win rate
 
-46.2%
+46.3%
 
 Pick rate
 
@@ -46,7 +46,7 @@ Ban rate
 1.  **50.8%**![](/images/ranks/Epic.webp)Epic
 2.  **50.3%**![](/images/ranks/Legend.webp)Legend
 3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **46.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Harley, Gusion, Silvanna, Yin a
 
 What is Roger’s win rate right now?
 
-46.21% at Mythical Glory over the last 7 days and 48.31% across all ranks over 30 days, as of 24 November 2026.
+46.28% at Mythical Glory over the last 7 days and 48.30% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Roger play?
 
@@ -283,7 +283,7 @@ Fighter and marksman, played in the jungle.
 
 Is Roger strong in the current meta?
 
-Tier D, #126 of 133 heroes and #43 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier D, #126 of 133 heroes and #43 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 46.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Roger?
 

@@ -9,11 +9,11 @@ language: en
 
 # Best MLBB roamers
 
-34 heroes · Updated 24 November
+34 heroes · Updated 25 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Marcel, Kalea and Carmilla lead the roamers right now. Marcel wins 57.1% of Mythical Glory games over 7 days and is banned in 70.2% of them. The list has 34 heroes, 8 of them in tier S or A.
+Marcel, Kalea and Carmilla lead the roamers right now. Marcel wins 57.0% of Mythical Glory games over 7 days and is banned in 70.0% of them. The list has 34 heroes, 8 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -27,7 +27,7 @@ S
 
 Win rate
 
-57.1%
+57.0%
 
 Pick rate
 
@@ -35,7 +35,7 @@ Pick rate
 
 Ban rate
 
-70.2%
+70.0%
 
 ![](/images/mlbb/items/2212.webp)
 
@@ -75,7 +75,7 @@ Pick rate
 
 Ban rate
 
-14.7%
+14.6%
 
 ![](/images/mlbb/items/3204.webp)
 
@@ -161,11 +161,11 @@ Pro
 
 S
 
-57.1%
+57.0%
 
 0.4%
 
-70.2%
+70.0%
 
 87.7%
 
@@ -179,7 +179,7 @@ S
 
 0.9%
 
-14.7%
+14.6%
 
 99.7%
 
@@ -207,7 +207,7 @@ S
 
 1.8%
 
-56.3%
+56.4%
 
 38.0%
 
@@ -221,7 +221,7 @@ A
 
 1.0%
 
-8.6%
+8.5%
 
 75.1%
 
@@ -233,9 +233,9 @@ A
 
 49.9%
 
-0.8%
+0.7%
 
-36.4%
+36.1%
 
 26.6%
 
@@ -249,7 +249,7 @@ A
 
 0.6%
 
-32.0%
+32.3%
 
 14.9%
 
@@ -263,7 +263,7 @@ A
 
 1.4%
 
-10.1%
+10.2%
 
 11.3%
 
@@ -277,7 +277,7 @@ B
 
 0.9%
 
-31.3%
+31.1%
 
 0.7%
 
@@ -291,7 +291,7 @@ B
 
 1.3%
 
-13.7%
+13.8%
 
 —
 
@@ -305,7 +305,7 @@ B
 
 0.8%
 
-12.7%
+13.0%
 
 5.2%
 
@@ -319,7 +319,7 @@ B
 
 0.8%
 
-9.4%
+9.2%
 
 7.7%
 
@@ -331,9 +331,9 @@ B
 
 49.7%
 
-2.0%
+1.9%
 
-10.9%
+11.1%
 
 0.3%
 
@@ -345,9 +345,9 @@ B
 
 49.9%
 
-1.4%
+1.5%
 
-4.9%
+5.0%
 
 2.7%
 
@@ -361,7 +361,7 @@ B
 
 1.0%
 
-1.8%
+1.9%
 
 24.4%
 
@@ -385,11 +385,11 @@ B
 
 B
 
-55.9%
+56.0%
 
 0.3%
 
-5.3%
+5.4%
 
 —
 
@@ -403,7 +403,7 @@ C
 
 1.6%
 
-4.7%
+4.8%
 
 —
 
@@ -417,7 +417,7 @@ C
 
 0.4%
 
-3.7%
+3.9%
 
 3.5%
 
@@ -445,11 +445,25 @@ C
 
 0.4%
 
-2.2%
+2.3%
 
 —
 
 22
+
+[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+
+D
+
+50.4%
+
+0.2%
+
+1.1%
+
+—
+
+23
 
 [![](/images/heroes/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
@@ -459,21 +473,7 @@ C
 
 0.5%
 
-0.6%
-
-—
-
-23
-
-[![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
-
-D
-
-50.3%
-
-0.2%
-
-1.1%
+0.7%
 
 —
 
@@ -483,7 +483,7 @@ D
 
 C
 
-49.2%
+49.3%
 
 0.3%
 
@@ -507,20 +507,6 @@ D
 
 26
 
-[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
-
-D
-
-50.7%
-
-0.1%
-
-0.4%
-
-0.5%
-
-27
-
 [![](/images/heroes/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 D
@@ -532,6 +518,20 @@ D
 0.1%
 
 2.5%
+
+27
+
+[![](/images/heroes/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+
+D
+
+50.7%
+
+0.1%
+
+0.4%
+
+0.5%
 
 28
 
@@ -551,11 +551,11 @@ C
 
 [![](/images/heroes/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)
 
-D
+C
 
 47.5%
 
-0.2%
+0.3%
 
 0.1%
 
@@ -567,11 +567,11 @@ D
 
 D
 
-52.3%
+52.4%
 
 0.1%
 
-0.1%
+0.2%
 
 —
 
@@ -613,7 +613,7 @@ C
 
 0.6%
 
-1.7%
+1.8%
 
 —
 
@@ -623,7 +623,7 @@ C
 
 D
 
-45.9%
+46.0%
 
 0.1%
 
@@ -646,23 +646,23 @@ The three core items of every hero’s most common build. Spell: Flicker on 16 a
 
 Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30% of Mythical Glory games.
 
-1.  [![](/images/heroes/rafaela.webp)Rafaela55.0%](https://boostmlbb.ru/en/heroes/rafaela.html)
+1.  [![](/images/heroes/rafaela.webp)Rafaela54.9%](https://boostmlbb.ru/en/heroes/rafaela.html)
 2.  [![](/images/heroes/minotaur.webp)Minotaur54.9%](https://boostmlbb.ru/en/heroes/minotaur.html)
 3.  [![](/images/heroes/khufra.webp)Khufra54.7%](https://boostmlbb.ru/en/heroes/khufra.html)
-4.  [![](/images/heroes/floryn.webp)Floryn54.3%](https://boostmlbb.ru/en/heroes/floryn.html)
-5.  [![](/images/heroes/atlas.webp)Atlas53.9%](https://boostmlbb.ru/en/heroes/atlas.html)
-6.  [![](/images/heroes/hilda.webp)Hilda52.9%](https://boostmlbb.ru/en/heroes/hilda.html)
+4.  [![](/images/heroes/floryn.webp)Floryn54.2%](https://boostmlbb.ru/en/heroes/floryn.html)
+5.  [![](/images/heroes/atlas.webp)Atlas53.8%](https://boostmlbb.ru/en/heroes/atlas.html)
+6.  [![](/images/heroes/hilda.webp)Hilda53.0%](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ## Who beats roamers
 
 How many heroes of this list it beats, by official counters.
 
-1.  [![](/images/heroes/helcurt.webp)Helcurt7 of 34](https://boostmlbb.ru/en/heroes/helcurt.html)
-2.  [![](/images/heroes/johnson.webp)Johnson7 of 34](https://boostmlbb.ru/en/heroes/johnson.html)
-3.  [![](/images/heroes/zilong.webp)Zilong7 of 34](https://boostmlbb.ru/en/heroes/zilong.html)
+1.  [![](/images/heroes/johnson.webp)Johnson8 of 34](https://boostmlbb.ru/en/heroes/johnson.html)
+2.  [![](/images/heroes/zilong.webp)Zilong7 of 34](https://boostmlbb.ru/en/heroes/zilong.html)
+3.  [![](/images/heroes/helcurt.webp)Helcurt6 of 34](https://boostmlbb.ru/en/heroes/helcurt.html)
 4.  [![](/images/heroes/saber.webp)Saber6 of 34](https://boostmlbb.ru/en/heroes/saber.html)
 5.  [![](/images/heroes/alice.webp)Alice5 of 34](https://boostmlbb.ru/en/heroes/alice.html)
-6.  [![](/images/heroes/lolita.webp)Lolita5 of 34](https://boostmlbb.ru/en/heroes/lolita.html)
+6.  [![](/images/heroes/natalia.webp)Natalia5 of 34](https://boostmlbb.ru/en/heroes/natalia.html)
 
 **We can rank up on any of the roamers**The calculator shows the price
 
@@ -672,7 +672,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best roamer in MLBB right now?
 
-Marcel: tier S, 57.1% win rate, banned in 70.2% of Mythical Glory games over 7 days. Kalea and Carmilla follow. Data as of 24 November 2026.
+Marcel: tier S, 57.0% win rate, banned in 70.0% of Mythical Glory games over 7 days. Kalea and Carmilla follow. Data as of 25 November 2026.
 
 Which of the roamers should a beginner pick?
 
@@ -680,11 +680,11 @@ Carmilla, Belerick and Tigreal are the easiest to play: their difficulty on the 
 
 Which roamers get banned most?
 
-Marcel (70.2%), Belerick (56.3%) and Carmilla (37.2%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Marcel (70.0%), Belerick (56.4%) and Carmilla (37.2%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many roamers are there in Mobile Legends?
 
-34 of 133 heroes as of 24 November 2026. The list has every hero that plays roam, according to the game.
+34 of 133 heroes as of 25 November 2026. The list has every hero that plays roam, according to the game.
 
 Which items do roamers build most often?
 

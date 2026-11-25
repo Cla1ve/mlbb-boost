@@ -1,6 +1,6 @@
 ---
 title: "Vale MLBB: build, counters and skills | MLBB Boost"
-description: "Vale in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.79% win rate, tier C."
+description: "Vale in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.82% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vale.html
 language: en
 ---
@@ -43,9 +43,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **51.4%**![](/images/ranks/Epic.webp)Epic
+1.  **51.5%**![](/images/ranks/Epic.webp)Epic
 2.  **50.8%**![](/images/ranks/Legend.webp)Legend
-3.  **50.5%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.5%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -252,7 +252,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Lore
 
@@ -272,7 +272,7 @@ Over the last 30 days the toughest opponents are Odette, Estes, Melissa, Rafaela
 
 What is Vale’s win rate right now?
 
-48.79% at Mythical Glory over the last 7 days and 50.10% across all ranks over 30 days, as of 24 November 2026.
+48.82% at Mythical Glory over the last 7 days and 50.11% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Vale play?
 

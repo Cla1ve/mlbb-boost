@@ -1,6 +1,6 @@
 ---
 title: "Faramis MLBB: build, counters and skills | MLBB Boost"
-description: "Faramis in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and support, 50.74% win rate, tier D."
+description: "Faramis in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and support, 50.67% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/faramis.html
 language: en
 ---
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.6%**![](/images/ranks/Epic.webp)Epic
+1.  **48.5%**![](/images/ranks/Epic.webp)Epic
 2.  **48.9%**![](/images/ranks/Legend.webp)Legend
 3.  **49.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -58,7 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB mages**29 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB roamers**26 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
+-   [Best MLBB roamers**27 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 -   [Best MLBB mid laners**26 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
@@ -253,13 +253,13 @@ Faramis turns his surroundings into the Nether Realm for 6s. Allied heroes withi
 
 Beat this hero
 
-[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Lore
 
@@ -275,11 +275,11 @@ This hero beats them
 
 Who counters Faramis in MLBB?
 
-Over the last 30 days the toughest opponents are Gloo, Wanwan, Sun, Ling and Karina.
+Over the last 30 days the toughest opponents are Gloo, Sun, Wanwan, Ling and Karina.
 
 What is Faramis’s win rate right now?
 
-50.74% at Mythical Glory over the last 7 days and 50.80% across all ranks over 30 days, as of 24 November 2026.
+50.67% at Mythical Glory over the last 7 days and 50.75% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Faramis play?
 
@@ -287,7 +287,7 @@ Mage and support, played in the Mid Lane or on roam.
 
 Is Faramis strong in the current meta?
 
-Tier D, #117 of 133 heroes and #29 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.7% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
+Tier D, #118 of 133 heroes and #29 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.7% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Faramis?
 

@@ -9,11 +9,11 @@ language: ru
 
 # Лучшие бойцы MLBB
 
-44 героя · Обновлено 24 ноября
+44 героя · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди бойцов сейчас лидируют Маша, Калеа и Фрейя. Маша: 58,7% побед и бан в 68,0% матчей Мифической славы за 7 дней. В списке 44 героя, из них 7 в тире S или A.
+Среди бойцов сейчас лидируют Маша, Калеа и Фрейя. Маша: 58,8% побед и бан в 67,5% матчей Мифической славы за 7 дней. В списке 44 героя, из них 7 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -27,7 +27,7 @@ S
 
 Победы
 
-58,7%
+58,8%
 
 Выбор
 
@@ -35,7 +35,7 @@ S
 
 Баны
 
-68,0%
+67,5%
 
 ![](/images/mlbb/items/2212.webp)
 
@@ -75,7 +75,7 @@ S
 
 Баны
 
-14,7%
+14,6%
 
 ![](/images/mlbb/items/3204.webp)
 
@@ -107,11 +107,11 @@ S
 
 Победы
 
-51,7%
+51,8%
 
 Выбор
 
-1,4%
+1,3%
 
 Баны
 
@@ -161,11 +161,11 @@ S
 
 S
 
-58,7%
+58,8%
 
 0,7%
 
-68,0%
+67,5%
 
 100,0%
 
@@ -179,7 +179,7 @@ S
 
 0,9%
 
-14,7%
+14,6%
 
 99,7%
 
@@ -189,9 +189,9 @@ S
 
 S
 
-51,7%
+51,8%
 
-1,4%
+1,3%
 
 11,4%
 
@@ -207,7 +207,7 @@ S
 
 0,8%
 
-22,6%
+21,1%
 
 77,8%
 
@@ -221,7 +221,7 @@ A
 
 1,4%
 
-11,1%
+10,8%
 
 69,3%
 
@@ -235,7 +235,7 @@ B
 
 1,5%
 
-56,9%
+57,8%
 
 —
 
@@ -247,9 +247,9 @@ A
 
 51,6%
 
-0,8%
+0,7%
 
-3,2%
+3,1%
 
 42,2%
 
@@ -263,25 +263,11 @@ A
 
 0,9%
 
-33,4%
+32,0%
 
 2,9%
 
 9
-
-[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
-
-B
-
-48,6%
-
-0,8%
-
-0,7%
-
-40,8%
-
-10
 
 [![](/images/heroes/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)
 
@@ -295,6 +281,20 @@ B
 
 25,3%
 
+10
+
+[![](/images/heroes/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
+
+B
+
+48,5%
+
+0,8%
+
+0,7%
+
+40,8%
+
 11
 
 [![](/images/heroes/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
@@ -305,7 +305,7 @@ B
 
 0,9%
 
-2,9%
+3,0%
 
 23,7%
 
@@ -331,9 +331,9 @@ B
 
 49,9%
 
-1,4%
+1,5%
 
-4,9%
+5,0%
 
 2,7%
 
@@ -347,7 +347,7 @@ B
 
 1,0%
 
-1,8%
+1,9%
 
 24,4%
 
@@ -375,7 +375,7 @@ B
 
 1,0%
 
-1,2%
+1,3%
 
 3,4%
 
@@ -385,7 +385,7 @@ B
 
 B
 
-57,3%
+57,4%
 
 0,5%
 
@@ -459,7 +459,7 @@ C
 
 0,4%
 
-3,7%
+3,9%
 
 3,5%
 
@@ -493,20 +493,6 @@ C
 
 25
 
-[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
-
-C
-
-48,2%
-
-0,8%
-
-0,2%
-
-1,3%
-
-26
-
 [![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
 C
@@ -518,6 +504,20 @@ C
 0,7%
 
 —
+
+26
+
+[![](/images/heroes/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
+
+C
+
+48,2%
+
+0,8%
+
+0,2%
+
+1,3%
 
 27
 
@@ -553,7 +553,7 @@ C
 
 C
 
-48,5%
+48,4%
 
 0,6%
 
@@ -591,6 +591,20 @@ C
 
 32
 
+[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
+
+C
+
+50,0%
+
+0,3%
+
+0,5%
+
+—
+
+33
+
 [![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
 
 C
@@ -600,20 +614,6 @@ C
 0,3%
 
 0,1%
-
-—
-
-33
-
-[![](/images/heroes/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
-
-C
-
-49,9%
-
-0,3%
-
-0,5%
 
 —
 
@@ -665,7 +665,7 @@ C
 
 C
 
-47,5%
+47,4%
 
 0,5%
 
@@ -719,11 +719,11 @@ C
 
 [![](/images/heroes/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)
 
-D
+C
 
 47,5%
 
-0,2%
+0,3%
 
 0,1%
 
@@ -735,7 +735,7 @@ D
 
 C
 
-45,0%
+45,1%
 
 0,3%
 
@@ -749,7 +749,7 @@ C
 
 D
 
-46,2%
+46,3%
 
 0,2%
 
@@ -787,22 +787,22 @@ C
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
 1.  [![](/images/heroes/argus.webp)Аргус57,1%](https://boostmlbb.ru/heroes/argus.html)
-2.  [![](/images/heroes/aulus.webp)Аулус52,9%](https://boostmlbb.ru/heroes/aulus.html)
-3.  [![](/images/heroes/hilda.webp)Хильда52,9%](https://boostmlbb.ru/heroes/hilda.html)
+2.  [![](/images/heroes/hilda.webp)Хильда53,0%](https://boostmlbb.ru/heroes/hilda.html)
+3.  [![](/images/heroes/aulus.webp)Аулус52,9%](https://boostmlbb.ru/heroes/aulus.html)
 4.  [![](/images/heroes/minsitthar.webp)Минситтар52,7%](https://boostmlbb.ru/heroes/minsitthar.html)
 5.  [![](/images/heroes/benedetta.webp)Бенедетта52,7%](https://boostmlbb.ru/heroes/benedetta.html)
-6.  [![](/images/heroes/aldous.webp)Алдос52,3%](https://boostmlbb.ru/heroes/aldous.html)
+6.  [![](/images/heroes/aldous.webp)Алдос52,5%](https://boostmlbb.ru/heroes/aldous.html)
 
 ## Кто обыгрывает бойцов
 
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
 1.  [![](/images/heroes/saber.webp)Сабер11 из 44](https://boostmlbb.ru/heroes/saber.html)
-2.  [![](/images/heroes/helcurt.webp)Хелкарт10 из 44](https://boostmlbb.ru/heroes/helcurt.html)
+2.  [![](/images/heroes/helcurt.webp)Хелкарт9 из 44](https://boostmlbb.ru/heroes/helcurt.html)
 3.  [![](/images/heroes/lolita.webp)Лолита7 из 44](https://boostmlbb.ru/heroes/lolita.html)
 4.  [![](/images/heroes/natalia.webp)Наталья7 из 44](https://boostmlbb.ru/heroes/natalia.html)
-5.  [![](/images/heroes/phoveus.webp)Фовиус7 из 44](https://boostmlbb.ru/heroes/phoveus.html)
-6.  [![](/images/heroes/x-borg.webp)Икс.Борг7 из 44](https://boostmlbb.ru/heroes/x-borg.html)
+5.  [![](/images/heroes/odette.webp)Одетта7 из 44](https://boostmlbb.ru/heroes/odette.html)
+6.  [![](/images/heroes/phoveus.webp)Фовиус7 из 44](https://boostmlbb.ru/heroes/phoveus.html)
 
 **Поднимем ранг на любом из бойцов**Цена считается в калькуляторе
 
@@ -812,7 +812,7 @@ C
 
 Кто лучший боец в MLBB сейчас?
 
-Маша: тир S, 58,7% побед, бан в 68,0% матчей Мифической славы за 7 дней. Следом идут Калеа и Фрейя. Данные на 24 ноября 2026 года.
+Маша: тир S, 58,8% побед, бан в 67,5% матчей Мифической славы за 7 дней. Следом идут Калеа и Фрейя. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди бойцов?
 
@@ -820,11 +820,11 @@ C
 
 Каких бойцов чаще всего банят?
 
-Маша (68,0%), Сан (56,9%) и Лукас (33,4%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Маша (67,5%), Сан (57,8%) и Лукас (32,0%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько бойцов в Mobile Legends?
 
-44 из 133 героев на 24 ноября 2026 года. В списке все герои роли «Боец».
+44 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Боец».
 
 Какие предметы чаще всего собирают на бойцах?
 

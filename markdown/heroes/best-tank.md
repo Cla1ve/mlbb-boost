@@ -9,11 +9,11 @@ language: ru
 
 # Лучшие танки MLBB
 
-25 героев · Обновлено 24 ноября
+25 героев · Обновлено 25 ноября
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди танков сейчас лидируют Маша, Кармилла и Белерик. Маша: 58,7% побед и бан в 68,0% матчей Мифической славы за 7 дней. В списке 25 героев, из них 9 в тире S или A.
+Среди танков сейчас лидируют Маша, Кармилла и Белерик. Маша: 58,8% побед и бан в 67,5% матчей Мифической славы за 7 дней. В списке 25 героев, из них 9 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -27,7 +27,7 @@ S
 
 Победы
 
-58,7%
+58,8%
 
 Выбор
 
@@ -35,7 +35,7 @@ S
 
 Баны
 
-68,0%
+67,5%
 
 ![](/images/mlbb/items/2212.webp)
 
@@ -115,7 +115,7 @@ S
 
 Баны
 
-56,3%
+56,4%
 
 ![](/images/mlbb/items/2212.webp)
 
@@ -161,11 +161,11 @@ S
 
 S
 
-58,7%
+58,8%
 
 0,7%
 
-68,0%
+67,5%
 
 100,0%
 
@@ -193,7 +193,7 @@ S
 
 1,8%
 
-56,3%
+56,4%
 
 38,0%
 
@@ -207,7 +207,7 @@ A
 
 1,0%
 
-8,6%
+8,5%
 
 75,1%
 
@@ -231,7 +231,7 @@ A
 
 A
 
-46,4%
+46,5%
 
 0,9%
 
@@ -247,9 +247,9 @@ A
 
 49,9%
 
-0,8%
+0,7%
 
-36,4%
+36,1%
 
 26,6%
 
@@ -261,9 +261,9 @@ A
 
 51,6%
 
-0,8%
+0,7%
 
-3,2%
+3,1%
 
 42,2%
 
@@ -277,7 +277,7 @@ A
 
 1,4%
 
-10,1%
+10,2%
 
 11,3%
 
@@ -319,7 +319,7 @@ C
 
 1,6%
 
-4,7%
+4,8%
 
 —
 
@@ -347,7 +347,7 @@ C
 
 0,4%
 
-3,7%
+3,9%
 
 3,5%
 
@@ -371,7 +371,7 @@ C
 
 C
 
-52,5%
+52,4%
 
 0,3%
 
@@ -389,7 +389,7 @@ C
 
 0,5%
 
-0,6%
+0,7%
 
 —
 
@@ -413,7 +413,7 @@ C
 
 C
 
-49,2%
+49,3%
 
 0,3%
 
@@ -455,11 +455,11 @@ C
 
 D
 
-52,3%
+52,4%
 
 0,1%
 
-0,1%
+0,2%
 
 —
 
@@ -487,7 +487,7 @@ C
 
 0,6%
 
-1,7%
+1,8%
 
 —
 
@@ -497,7 +497,7 @@ C
 
 D
 
-45,9%
+46,0%
 
 0,1%
 
@@ -522,20 +522,20 @@ D
 
 1.  [![](/images/heroes/minotaur.webp)Минотавр54,9%](https://boostmlbb.ru/heroes/minotaur.html)
 2.  [![](/images/heroes/khufra.webp)Хуфра54,7%](https://boostmlbb.ru/heroes/khufra.html)
-3.  [![](/images/heroes/atlas.webp)Атлас53,9%](https://boostmlbb.ru/heroes/atlas.html)
+3.  [![](/images/heroes/atlas.webp)Атлас53,8%](https://boostmlbb.ru/heroes/atlas.html)
 4.  [![](/images/heroes/edith.webp)Эдит53,4%](https://boostmlbb.ru/heroes/edith.html)
-5.  [![](/images/heroes/hilda.webp)Хильда52,9%](https://boostmlbb.ru/heroes/hilda.html)
-6.  [![](/images/heroes/barats.webp)Бартс51,8%](https://boostmlbb.ru/heroes/barats.html)
+5.  [![](/images/heroes/hilda.webp)Хильда53,0%](https://boostmlbb.ru/heroes/hilda.html)
+6.  [![](/images/heroes/barats.webp)Бартс51,7%](https://boostmlbb.ru/heroes/barats.html)
 
 ## Кто обыгрывает танков
 
 Сколько героев списка он обыгрывает по официальным контрпикам.
 
 1.  [![](/images/heroes/johnson.webp)Джонсон6 из 25](https://boostmlbb.ru/heroes/johnson.html)
-2.  [![](/images/heroes/lolita.webp)Лолита6 из 25](https://boostmlbb.ru/heroes/lolita.html)
-3.  [![](/images/heroes/silvanna.webp)Сильвана6 из 25](https://boostmlbb.ru/heroes/silvanna.html)
-4.  [![](/images/heroes/zilong.webp)Зилонг6 из 25](https://boostmlbb.ru/heroes/zilong.html)
-5.  [![](/images/heroes/alucard.webp)Алукард5 из 25](https://boostmlbb.ru/heroes/alucard.html)
+2.  [![](/images/heroes/silvanna.webp)Сильвана6 из 25](https://boostmlbb.ru/heroes/silvanna.html)
+3.  [![](/images/heroes/zilong.webp)Зилонг6 из 25](https://boostmlbb.ru/heroes/zilong.html)
+4.  [![](/images/heroes/alucard.webp)Алукард5 из 25](https://boostmlbb.ru/heroes/alucard.html)
+5.  [![](/images/heroes/lolita.webp)Лолита5 из 25](https://boostmlbb.ru/heroes/lolita.html)
 6.  [![](/images/heroes/saber.webp)Сабер5 из 25](https://boostmlbb.ru/heroes/saber.html)
 
 **Поднимем ранг на любом из танков**Цена считается в калькуляторе
@@ -546,7 +546,7 @@ D
 
 Кто лучший танк в MLBB сейчас?
 
-Маша: тир S, 58,7% побед, бан в 68,0% матчей Мифической славы за 7 дней. Следом идут Кармилла и Белерик. Данные на 24 ноября 2026 года.
+Маша: тир S, 58,8% побед, бан в 67,5% матчей Мифической славы за 7 дней. Следом идут Кармилла и Белерик. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди танков?
 
@@ -554,11 +554,11 @@ D
 
 Каких танков чаще всего банят?
 
-Маша (68,0%), Белерик (56,3%) и Кармилла (37,2%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Маша (67,5%), Белерик (56,4%) и Кармилла (37,2%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько танков в Mobile Legends?
 
-25 из 133 героев на 24 ноября 2026 года. В списке все герои роли «Танк».
+25 из 133 героев на 25 ноября 2026 года. В списке все герои роли «Танк».
 
 Какие предметы чаще всего собирают на танках?
 

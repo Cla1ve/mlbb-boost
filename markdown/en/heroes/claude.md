@@ -46,7 +46,7 @@ Ban rate
 1.  **50.8%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
 3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **49.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -253,7 +253,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
 
 ## Lore
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Lolita, Chang'e, Ixia, Balmond 
 
 What is Claude’s win rate right now?
 
-48.51% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 24 November 2026.
+48.51% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Claude play?
 

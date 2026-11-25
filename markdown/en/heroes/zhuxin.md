@@ -1,6 +1,6 @@
 ---
 title: "Zhuxin MLBB: build, counters and skills | MLBB Boost"
-description: "Zhuxin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.35% win rate, tier A."
+description: "Zhuxin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.40% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zhuxin.html
 language: en
 ---
@@ -21,7 +21,7 @@ Win rate
 
 Pick rate
 
-0.4%
+0.3%
 
 Ban rate
 
@@ -44,9 +44,9 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **47.8%**![](/images/ranks/Epic.webp)Epic
-2.  **48.3%**![](/images/ranks/Legend.webp)Legend
+2.  **48.2%**![](/images/ranks/Legend.webp)Legend
 3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Lolita, Khufra, Gloo, Hylos and
 
 What is Zhuxin’s win rate right now?
 
-49.35% at Mythical Glory over the last 7 days and 49.54% across all ranks over 30 days, as of 24 November 2026.
+49.40% at Mythical Glory over the last 7 days and 49.51% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Zhuxin play?
 

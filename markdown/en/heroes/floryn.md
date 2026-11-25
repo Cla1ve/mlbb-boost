@@ -1,6 +1,6 @@
 ---
 title: "Floryn MLBB: build, counters and skills | MLBB Boost"
-description: "Floryn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.91% win rate, tier B."
+description: "Floryn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.92% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-13.7%
+13.8%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **55.6%**![](/images/ranks/Epic.webp)Epic
+1.  **55.5%**![](/images/ranks/Epic.webp)Epic
 2.  **54.5%**![](/images/ranks/Legend.webp)Legend
 3.  **54.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **54.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **54.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **53.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Marcel, Alice, X.Borg, Ling and
 
 What is Floryn’s win rate right now?
 
-53.91% at Mythical Glory over the last 7 days and 54.05% across all ranks over 30 days, as of 24 November 2026.
+53.92% at Mythical Glory over the last 7 days and 54.03% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Floryn play?
 
@@ -281,7 +281,7 @@ Support, played on roam.
 
 Is Floryn strong in the current meta?
 
-Tier B, #31 of 133 heroes and #7 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.7% of matches, 53.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #31 of 133 heroes and #7 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.8% of matches, 53.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Floryn?
 

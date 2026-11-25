@@ -1,6 +1,6 @@
 ---
 title: "Masha MLBB: build, counters and skills | MLBB Boost"
-description: "Masha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 58.72% win rate, tier S."
+description: "Masha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 58.76% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/masha.html
 language: en
 ---
@@ -17,7 +17,7 @@ S
 
 Win rate
 
-58.7%
+58.8%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-68.0%
+67.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **54.6%**![](/images/ranks/Epic.webp)Epic
-2.  **58.0%**![](/images/ranks/Legend.webp)Legend
+2.  **57.9%**![](/images/ranks/Legend.webp)Legend
 3.  **59.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **61.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **60.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **60.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -278,7 +278,7 @@ Over the last 30 days the toughest opponents are Gloo, Eudora, Lesley, Cici and 
 
 What is Masha’s win rate right now?
 
-58.72% at Mythical Glory over the last 7 days and 60.34% across all ranks over 30 days, as of 24 November 2026.
+58.76% at Mythical Glory over the last 7 days and 60.27% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Masha play?
 
@@ -286,7 +286,7 @@ Tank and fighter, played in the EXP Lane.
 
 Is Masha strong in the current meta?
 
-Tier S, #1 of 133 heroes and #1 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 68.0% of matches, 58.7% win rate. In professional games over the last month the hero is drafted in 100.0% of them.
+Tier S, #1 of 133 heroes and #1 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 67.5% of matches, 58.8% win rate. In professional games over the last month the hero is drafted in 100.0% of them.
 
 What is the best build for Masha?
 

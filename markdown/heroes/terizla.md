@@ -1,6 +1,6 @@
 ---
 title: "Тэризла MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Тэризла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 49,88% побед, тир C."
+description: "Тэризла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 49,89% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/terizla.html
 language: ru
 ---
@@ -43,8 +43,8 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **51,3%**![](/images/ranks/Epic.webp)Эпик
-2.  **51,7%**![](/images/ranks/Legend.webp)Легенда
+1.  **51,2%**![](/images/ranks/Epic.webp)Эпик
+2.  **51,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **51,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -250,7 +250,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ### Слабые цели
 
@@ -272,11 +272,11 @@ C
 
 Кто контрпик для героя «Тэризла» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Аргус, Фовиус, Пополь и Купа, Лолита и Одетта.
+За последние 30 дней чаще всего героя обыгрывают Аргус, Фовиус, Пополь и Купа, Одетта и Лолита.
 
 Какой процент побед у героя «Тэризла» сейчас?
 
-49,88% в Мифической славе за последние 7 дней и 50,60% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,89% в Мифической славе за последние 7 дней и 50,60% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Тэризла»?
 

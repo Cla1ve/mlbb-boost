@@ -1,6 +1,6 @@
 ---
 title: "Karrie MLBB: build, counters and skills | MLBB Boost"
-description: "Karrie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 49.03% win rate, tier C."
+description: "Karrie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 49.00% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/karrie.html
 language: en
 ---
@@ -253,7 +253,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
+[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
 
 ## Lore
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Alice, Baxia, Esmeralda, Balmon
 
 What is Karrie’s win rate right now?
 
-49.03% at Mythical Glory over the last 7 days and 48.88% across all ranks over 30 days, as of 24 November 2026.
+49.00% at Mythical Glory over the last 7 days and 48.89% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Karrie play?
 

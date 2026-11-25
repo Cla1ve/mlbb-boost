@@ -1,6 +1,6 @@
 ---
 title: "Кэрри MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кэрри в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 49,03% побед, тир C."
+description: "Кэрри в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 49,00% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/karrie.html
 language: ru
 ---
@@ -253,7 +253,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
 
 ## История
 
@@ -273,7 +273,7 @@ C
 
 Какой процент побед у героя «Кэрри» сейчас?
 
-49,03% в Мифической славе за последние 7 дней и 48,88% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,00% в Мифической славе за последние 7 дней и 48,89% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кэрри»?
 

@@ -1,6 +1,6 @@
 ---
 title: "Фарамис MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фарамис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг и поддержка, 50,74% побед, тир D."
+description: "Фарамис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг и поддержка, 50,67% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/faramis.html
 language: ru
 ---
@@ -43,11 +43,11 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **48,6%**![](/images/ranks/Epic.webp)Эпик
+1.  **48,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,6%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,3%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -58,7 +58,7 @@ D
 ### Места в рейтингах
 
 -   [Лучшие маги MLBB**29 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
--   [Лучшие роумеры MLBB**26 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+-   [Лучшие роумеры MLBB**27 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 -   [Лучшие мидеры MLBB**26 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
@@ -253,13 +253,13 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
@@ -275,11 +275,11 @@ D
 
 Кто контрпик для героя «Фарамис» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Глу, Ванван, Сан, Линг и Карина.
+За последние 30 дней чаще всего героя обыгрывают Глу, Сан, Ванван, Линг и Карина.
 
 Какой процент побед у героя «Фарамис» сейчас?
 
-50,74% в Мифической славе за последние 7 дней и 50,80% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+50,67% в Мифической славе за последние 7 дней и 50,75% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Фарамис»?
 
@@ -287,7 +287,7 @@ D
 
 Силён ли герой «Фарамис» в текущей мете?
 
-Тир D, 117-е место из 133 героев и 29-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
+Тир D, 118-е место из 133 героев и 29-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 50,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
 
 Какая сборка на героя «Фарамис» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Marcel MLBB: build, counters and skills | MLBB Boost"
-description: "Marcel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 57.07% win rate, tier S."
+description: "Marcel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 57.04% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/marcel.html
 language: en
 ---
@@ -17,7 +17,7 @@ S
 
 Win rate
 
-57.1%
+57.0%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-70.2%
+70.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -259,7 +259,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
 ## Lore
 
@@ -279,7 +279,7 @@ Over the last 30 days the toughest opponents are Atlas, Sun, Akai, Johnson and P
 
 What is Marcel’s win rate right now?
 
-57.07% at Mythical Glory over the last 7 days and 57.44% across all ranks over 30 days, as of 24 November 2026.
+57.04% at Mythical Glory over the last 7 days and 57.41% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Marcel play?
 
@@ -287,7 +287,7 @@ Support, played on roam.
 
 Is Marcel strong in the current meta?
 
-Tier S, #2 of 133 heroes and #1 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 70.2% of matches, 57.1% win rate. In professional games over the last month the hero is drafted in 87.7% of them.
+Tier S, #2 of 133 heroes and #1 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 70.0% of matches, 57.0% win rate. In professional games over the last month the hero is drafted in 87.7% of them.
 
 What is the best build for Marcel?
 

@@ -1,6 +1,6 @@
 ---
 title: "Carmilla MLBB: build, counters and skills | MLBB Boost"
-description: "Carmilla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 52.20% win rate, tier S."
+description: "Carmilla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 52.19% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/carmilla.html
 language: en
 ---
@@ -43,9 +43,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.3%**![](/images/ranks/Epic.webp)Epic
+1.  **54.2%**![](/images/ranks/Epic.webp)Epic
 2.  **54.6%**![](/images/ranks/Legend.webp)Legend
-3.  **54.2%**![](/images/ranks/Mythic.webp)Mythic
+3.  **54.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -256,7 +256,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ## Lore
 
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Popol and Kupa, Chip, Johnson, 
 
 What is Carmilla’s win rate right now?
 
-52.20% at Mythical Glory over the last 7 days and 53.25% across all ranks over 30 days, as of 24 November 2026.
+52.19% at Mythical Glory over the last 7 days and 53.22% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Carmilla play?
 

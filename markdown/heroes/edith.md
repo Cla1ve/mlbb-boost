@@ -1,6 +1,6 @@
 ---
 title: "Эдит MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эдит в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и стрелок, 52,47% побед, тир C."
+description: "Эдит в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и стрелок, 52,40% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/edith.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-52,5%
+52,4%
 
 Выбор
 
@@ -43,8 +43,8 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **53,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **53,4%**![](/images/ranks/Legend.webp)Легенда
+1.  **53,5%**![](/images/ranks/Epic.webp)Эпик
+2.  **53,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,4%**![](/images/ranks/Mythic.webp)Мифик
 4.  **52,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -57,7 +57,7 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие стрелки MLBB**21 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
+-   [Лучшие стрелки MLBB**20 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
 -   [Лучшие танки MLBB**16 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
 
 ## Сборка
@@ -252,13 +252,13 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## История
 
@@ -274,11 +274,11 @@ C
 
 Кто контрпик для героя «Эдит» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Алиса, Харит, Сильвана, Фарамис и Матильда.
+За последние 30 дней чаще всего героя обыгрывают Алиса, Сильвана, Харит, Фарамис и Клауд.
 
 Какой процент побед у героя «Эдит» сейчас?
 
-52,47% в Мифической славе за последние 7 дней и 52,69% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+52,40% в Мифической славе за последние 7 дней и 52,71% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Эдит»?
 
@@ -286,7 +286,7 @@ C
 
 Силён ли герой «Эдит» в текущей мете?
 
-Тир C, 99-е место из 133 героев и 16-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 52,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 99-е место из 133 героев и 16-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Эдит» лучшая?
 

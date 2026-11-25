@@ -1,6 +1,6 @@
 ---
 title: "Чан'Э MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чан'Э в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 45,95% побед, тир C."
+description: "Чан'Э в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 46,00% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/change.html
 language: ru
 ---
@@ -43,11 +43,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **51,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **47,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+1.  **51,2%**![](/images/ranks/Epic.webp)Эпик
+2.  **49,9%**![](/images/ranks/Legend.webp)Легенда
+3.  **48,8%**![](/images/ranks/Mythic.webp)Мифик
+4.  **47,7%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **45,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -278,7 +278,7 @@ C
 
 Какой процент побед у героя «Чан'Э» сейчас?
 
-45,95% в Мифической славе за последние 7 дней и 48,20% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+46,00% в Мифической славе за последние 7 дней и 48,21% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Чан'Э»?
 

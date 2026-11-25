@@ -1,6 +1,6 @@
 ---
 title: "Акай MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Акай в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 49,24% побед, тир C."
+description: "Акай в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 49,27% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/akai.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-49,2%
+49,3%
 
 Выбор
 
@@ -45,8 +45,8 @@ C
 
 1.  **51,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **51,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,3%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **51,3%**![](/images/ranks/Mythic.webp)Мифик
+4.  **50,4%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -254,7 +254,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
+[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
 
 ### Слабые цели
 
@@ -276,11 +276,11 @@ C
 
 Кто контрпик для героя «Акай» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Алукард, Харит, Сильвана, Грейнджер и Нана.
+За последние 30 дней чаще всего героя обыгрывают Алукард, Харит, Грейнджер, Сильвана и Нана.
 
 Какой процент побед у героя «Акай» сейчас?
 
-49,24% в Мифической славе за последние 7 дней и 50,17% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,27% в Мифической славе за последние 7 дней и 50,16% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Акай»?
 
@@ -288,7 +288,7 @@ C
 
 Силён ли герой «Акай» в текущей мете?
 
-Тир C, 111-е место из 133 героев и 19-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 110-е место из 133 героев и 19-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Акай» лучшая?
 

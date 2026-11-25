@@ -1,6 +1,6 @@
 ---
 title: "Clint MLBB: build, counters and skills | MLBB Boost"
-description: "Clint in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.26% win rate, tier B."
+description: "Clint in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.24% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/clint.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-50.3%
+50.2%
 
 Pick rate
 
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Lolita, Karina, Belerick, Baxia
 
 What is Clint’s win rate right now?
 
-50.26% at Mythical Glory over the last 7 days and 50.33% across all ranks over 30 days, as of 24 November 2026.
+50.24% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Clint play?
 
@@ -283,7 +283,7 @@ Marksman, played in the Gold Lane.
 
 Is Clint strong in the current meta?
 
-Tier B, #40 of 133 heroes and #5 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.3% win rate. In professional games over the last month the hero is drafted in 22.1% of them.
+Tier B, #41 of 133 heroes and #5 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 22.1% of them.
 
 What is the best build for Clint?
 

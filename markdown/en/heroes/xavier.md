@@ -1,6 +1,6 @@
 ---
 title: "Xavier MLBB: build, counters and skills | MLBB Boost"
-description: "Xavier in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 53.52% win rate, tier B."
+description: "Xavier in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 53.46% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/xavier.html
 language: en
 ---
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.6%**![](/images/ranks/Epic.webp)Epic
-2.  **49.3%**![](/images/ranks/Legend.webp)Legend
-3.  **50.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **48.7%**![](/images/ranks/Epic.webp)Epic
+2.  **49.4%**![](/images/ranks/Legend.webp)Legend
+3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -252,13 +252,13 @@ Once cast, he also directly enters the Transcendence state and resets the state'
 
 Beat this hero
 
-[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
@@ -274,11 +274,11 @@ This hero beats them
 
 Who counters Xavier in MLBB?
 
-Over the last 30 days the toughest opponents are Popol and Kupa, Belerick, Atlas, Gloo and Faramis.
+Over the last 30 days the toughest opponents are Popol and Kupa, Belerick, Atlas, Gloo and Carmilla.
 
 What is Xavier’s win rate right now?
 
-53.52% at Mythical Glory over the last 7 days and 51.78% across all ranks over 30 days, as of 24 November 2026.
+53.46% at Mythical Glory over the last 7 days and 51.87% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Xavier play?
 

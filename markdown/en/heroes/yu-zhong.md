@@ -45,7 +45,7 @@ Ban rate
 
 1.  **48.9%**![](/images/ranks/Epic.webp)Epic
 2.  **48.6%**![](/images/ranks/Legend.webp)Legend
-3.  **49.0%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -279,7 +279,7 @@ Over the last 30 days the toughest opponents are Gloo, Minsitthar, Silvanna, Pop
 
 What is Yu Zhong’s win rate right now?
 
-48.68% at Mythical Glory over the last 7 days and 48.92% across all ranks over 30 days, as of 24 November 2026.
+48.68% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yu Zhong play?
 
@@ -287,7 +287,7 @@ Fighter, played in the EXP Lane.
 
 Is Yu Zhong strong in the current meta?
 
-Tier B, #41 of 133 heroes and #12 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 27.9% of them.
+Tier B, #40 of 133 heroes and #12 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 27.9% of them.
 
 What is the best build for Yu Zhong?
 

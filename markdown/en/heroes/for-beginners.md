@@ -9,7 +9,7 @@ language: en
 
 # Best MLBB heroes for beginners
 
-34 heroes · Updated 24 November
+34 heroes · Updated 25 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
@@ -31,7 +31,7 @@ Win, Epic
 
 Win, Legend
 
-58.0%
+57.9%
 
 Difficulty
 
@@ -145,7 +145,7 @@ Win rate in Epic and Legend over 30 days.
 
 1.  [![](/images/heroes/masha.webp)Masha56.3%](https://boostmlbb.ru/en/heroes/masha.html)
 2.  [![](/images/heroes/belerick.webp)Belerick55.2%](https://boostmlbb.ru/en/heroes/belerick.html)
-3.  [![](/images/heroes/minotaur.webp)Minotaur54.5%](https://boostmlbb.ru/en/heroes/minotaur.html)
+3.  [![](/images/heroes/minotaur.webp)Minotaur54.4%](https://boostmlbb.ru/en/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Carmilla54.4%](https://boostmlbb.ru/en/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Easy fighters
@@ -161,7 +161,7 @@ Win rate in Epic and Legend over 30 days.
 
 ### ![](/images/mlbb/filters/mage.webp)Easy mages
 
-1.  [![](/images/heroes/valir.webp)Valir54.3%](https://boostmlbb.ru/en/heroes/valir.html)
+1.  [![](/images/heroes/valir.webp)Valir54.2%](https://boostmlbb.ru/en/heroes/valir.html)
 2.  [![](/images/heroes/gord.webp)Gord52.5%](https://boostmlbb.ru/en/heroes/gord.html)
 3.  [![](/images/heroes/zetian.webp)Zetian51.5%](https://boostmlbb.ru/en/heroes/zetian.html)
 4.  [![](/images/heroes/vale.webp)Vale51.1%](https://boostmlbb.ru/en/heroes/vale.html)
@@ -175,9 +175,9 @@ Win rate in Epic and Legend over 30 days.
 
 ### ![](/images/mlbb/filters/support.webp)Easy supports
 
-1.  [![](/images/heroes/marcel.webp)Marcel56.3%](https://boostmlbb.ru/en/heroes/marcel.html)
+1.  [![](/images/heroes/marcel.webp)Marcel56.2%](https://boostmlbb.ru/en/heroes/marcel.html)
 2.  [![](/images/heroes/floryn.webp)Floryn55.0%](https://boostmlbb.ru/en/heroes/floryn.html)
-3.  [![](/images/heroes/minotaur.webp)Minotaur54.5%](https://boostmlbb.ru/en/heroes/minotaur.html)
+3.  [![](/images/heroes/minotaur.webp)Minotaur54.4%](https://boostmlbb.ru/en/heroes/minotaur.html)
 4.  [![](/images/heroes/carmilla.webp)Carmilla54.4%](https://boostmlbb.ru/en/heroes/carmilla.html)
 
 ## Easy and strong heroes
@@ -204,7 +204,7 @@ tank, fighter
 
 54.6%
 
-58.0%
+57.9%
 
 0.5%
 
@@ -238,7 +238,7 @@ support
 
 30
 
-55.6%
+55.5%
 
 54.5%
 
@@ -262,7 +262,7 @@ tank, support
 
 10
 
-54.3%
+54.2%
 
 54.6%
 
@@ -274,9 +274,9 @@ mage
 
 20
 
-54.3%
+54.2%
 
-54.3%
+54.2%
 
 1.2%
 
@@ -288,7 +288,7 @@ tank, fighter
 
 54.9%
 
-53.4%
+53.5%
 
 0.6%
 
@@ -348,7 +348,7 @@ marksman
 
 51.8%
 
-52.9%
+52.8%
 
 2.2%
 
@@ -370,9 +370,9 @@ fighter
 
 20
 
-51.6%
+51.5%
 
-52.5%
+52.4%
 
 0.8%
 
@@ -394,9 +394,9 @@ tank, fighter
 
 20
 
-51.3%
+51.2%
 
-51.7%
+51.6%
 
 0.3%
 
@@ -436,6 +436,18 @@ marksman
 
 0.4%
 
+[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
+
+mage
+
+10
+
+51.5%
+
+50.8%
+
+0.5%
+
 [![](/images/heroes/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
 support
@@ -448,27 +460,15 @@ support
 
 0.2%
 
-[![](/images/heroes/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
-
-mage
-
-10
-
-51.4%
-
-50.8%
-
-0.5%
-
 [![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
 fighter
 
 30
 
-51.8%
+51.7%
 
-50.5%
+50.4%
 
 0.3%
 
@@ -478,9 +478,9 @@ fighter
 
 30
 
-50.8%
+50.7%
 
-51.4%
+51.3%
 
 0.8%
 
@@ -538,7 +538,7 @@ mage
 
 10
 
-50.2%
+50.1%
 
 49.8%
 
@@ -550,7 +550,7 @@ mage
 
 20
 
-49.6%
+49.5%
 
 50.2%
 
@@ -574,7 +574,7 @@ fighter
 
 10
 
-50.1%
+50.2%
 
 49.0%
 

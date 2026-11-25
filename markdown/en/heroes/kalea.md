@@ -1,6 +1,6 @@
 ---
 title: "Kalea MLBB: build, counters and skills | MLBB Boost"
-description: "Kalea in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and support, 51.71% win rate, tier S."
+description: "Kalea in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and support, 51.73% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-14.7%
+14.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ Ban rate
 2.  **49.0%**![](/images/ranks/Legend.webp)Legend
 3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -254,7 +254,7 @@ Kalea grabs an enemy hero with her tail and slams them down in the Joystick's di
 
 Beat this hero
 
-[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Lore
 
@@ -270,11 +270,11 @@ Beat this hero
 
 Who counters Kalea in MLBB?
 
-Over the last 30 days the toughest opponents are Fanny, Helcurt, Khaleed, Lolita and Yve.
+Over the last 30 days the toughest opponents are Fanny, Helcurt, Lolita, Yve and Khaleed.
 
 What is Kalea’s win rate right now?
 
-51.71% at Mythical Glory over the last 7 days and 50.47% across all ranks over 30 days, as of 24 November 2026.
+51.73% at Mythical Glory over the last 7 days and 50.50% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Kalea play?
 
@@ -282,7 +282,7 @@ Fighter and support, played on roam.
 
 Is Kalea strong in the current meta?
 
-Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 14.7% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 99.7% of them.
+Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 14.6% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 99.7% of them.
 
 What is the best build for Kalea?
 

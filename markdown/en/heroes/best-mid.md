@@ -9,11 +9,11 @@ language: en
 
 # Best MLBB mid laners
 
-29 heroes · Updated 24 November
+29 heroes · Updated 25 November
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Kimmy, Eudora and Zhuxin lead the mid laners right now. Kimmy wins 48.2% of Mythical Glory games over 7 days and is banned in 0.6% of them. The list has 29 heroes, 6 of them in tier S or A.
+Kimmy, Eudora and Zhuxin lead the mid laners right now. Kimmy wins 48.1% of Mythical Glory games over 7 days and is banned in 0.6% of them. The list has 29 heroes, 6 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -27,7 +27,7 @@ A
 
 Win rate
 
-48.2%
+48.1%
 
 Pick rate
 
@@ -75,7 +75,7 @@ Pick rate
 
 Ban rate
 
-34.0%
+33.7%
 
 ![](/images/mlbb/items/2014.webp)
 
@@ -111,7 +111,7 @@ Win rate
 
 Pick rate
 
-0.4%
+0.3%
 
 Ban rate
 
@@ -161,7 +161,7 @@ Pro
 
 A
 
-48.2%
+48.1%
 
 0.9%
 
@@ -179,7 +179,7 @@ A
 
 1.7%
 
-34.0%
+33.7%
 
 24.7%
 
@@ -191,7 +191,7 @@ A
 
 49.4%
 
-0.4%
+0.3%
 
 0.6%
 
@@ -203,11 +203,11 @@ A
 
 A
 
-53.4%
+53.5%
 
 1.3%
 
-3.7%
+3.9%
 
 40.7%
 
@@ -221,7 +221,7 @@ A
 
 1.9%
 
-3.1%
+3.2%
 
 39.6%
 
@@ -235,7 +235,7 @@ A
 
 1.4%
 
-3.8%
+3.7%
 
 32.9%
 
@@ -275,7 +275,7 @@ B
 
 48.8%
 
-0.6%
+0.7%
 
 0.8%
 
@@ -287,7 +287,7 @@ B
 
 B
 
-52.0%
+51.9%
 
 0.9%
 
@@ -301,7 +301,7 @@ B
 
 B
 
-44.8%
+44.7%
 
 0.2%
 
@@ -311,31 +311,31 @@ B
 
 12
 
-[![](/images/heroes/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)
-
-B
-
-48.4%
-
-1.1%
-
-1.9%
-
-4.5%
-
-13
-
 [![](/images/heroes/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)
 
 B
 
-50.2%
+50.3%
 
 1.1%
 
 1.4%
 
 0.5%
+
+13
+
+[![](/images/heroes/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)
+
+B
+
+48.3%
+
+1.1%
+
+1.9%
+
+4.5%
 
 14
 
@@ -399,7 +399,7 @@ C
 
 C
 
-50.7%
+50.6%
 
 0.7%
 
@@ -413,7 +413,7 @@ C
 
 C
 
-51.9%
+51.8%
 
 0.1%
 
@@ -451,20 +451,6 @@ C
 
 22
 
-[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)
-
-C
-
-48.8%
-
-0.5%
-
-0.1%
-
-0.3%
-
-23
-
 [![](/images/heroes/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
 C
@@ -477,13 +463,27 @@ C
 
 —
 
+23
+
+[![](/images/heroes/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)
+
+C
+
+48.7%
+
+0.5%
+
+0.1%
+
+0.3%
+
 24
 
 [![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
 C
 
-51.5%
+51.6%
 
 0.3%
 
@@ -579,7 +579,7 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 1.  [![](/images/heroes/valir.webp)Valir54.4%](https://boostmlbb.ru/en/heroes/valir.html)
 2.  [![](/images/heroes/zhask.webp)Zhask53.3%](https://boostmlbb.ru/en/heroes/zhask.html)
 3.  [![](/images/heroes/gord.webp)Gord52.9%](https://boostmlbb.ru/en/heroes/gord.html)
-4.  [![](/images/heroes/cyclops.webp)Cyclops52.3%](https://boostmlbb.ru/en/heroes/cyclops.html)
+4.  [![](/images/heroes/cyclops.webp)Cyclops52.4%](https://boostmlbb.ru/en/heroes/cyclops.html)
 5.  [![](/images/heroes/zetian.webp)Zetian52.1%](https://boostmlbb.ru/en/heroes/zetian.html)
 6.  [![](/images/heroes/kagura.webp)Kagura51.5%](https://boostmlbb.ru/en/heroes/kagura.html)
 
@@ -602,7 +602,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best mid laner in MLBB right now?
 
-Kimmy: tier A, 48.2% win rate, banned in 0.6% of Mythical Glory games over 7 days. Eudora and Zhuxin follow. Data as of 24 November 2026.
+Kimmy: tier A, 48.1% win rate, banned in 0.6% of Mythical Glory games over 7 days. Eudora and Zhuxin follow. Data as of 25 November 2026.
 
 Which of the mid laners should a beginner pick?
 
@@ -610,11 +610,11 @@ Zetian, Vexana and Vale are the easiest to play: their difficulty on the in-game
 
 Which mid laners get banned most?
 
-Eudora (34.0%), Selena (3.8%) and Valir (3.7%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Eudora (33.7%), Valir (3.9%) and Selena (3.7%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many mid laners are there in Mobile Legends?
 
-29 of 133 heroes as of 24 November 2026. The list has every hero that plays the mid lane, according to the game.
+29 of 133 heroes as of 25 November 2026. The list has every hero that plays the mid lane, according to the game.
 
 Which items do mid laners build most often?
 

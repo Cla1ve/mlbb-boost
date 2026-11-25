@@ -1,6 +1,6 @@
 ---
 title: "Kagura MLBB: build, counters and skills | MLBB Boost"
-description: "Kagura in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.18% win rate, tier B."
+description: "Kagura in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.26% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-50.2%
+50.3%
 
 Pick rate
 
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **51.1%**![](/images/ranks/Epic.webp)Epic
 2.  **51.6%**![](/images/ranks/Legend.webp)Legend
-3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
+3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -57,8 +57,8 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB mages**15 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB mid laners**13 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
+-   [Best MLBB mages**14 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mid laners**12 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
 
@@ -272,7 +272,7 @@ Over the last 30 days the toughest opponents are Lolita, Silvanna, Valir, Hanzo 
 
 What is Kagura’s win rate right now?
 
-50.18% at Mythical Glory over the last 7 days and 51.05% across all ranks over 30 days, as of 24 November 2026.
+50.26% at Mythical Glory over the last 7 days and 51.01% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Kagura play?
 
@@ -280,7 +280,7 @@ Mage, played in the Mid Lane.
 
 Is Kagura strong in the current meta?
 
-Tier B, #60 of 133 heroes and #15 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
+Tier B, #59 of 133 heroes and #14 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.4% of matches, 50.3% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Kagura?
 

@@ -1,6 +1,6 @@
 ---
 title: "Hanzo MLBB: build, counters and skills | MLBB Boost"
-description: "Hanzo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.26% win rate, tier C."
+description: "Hanzo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.31% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hanzo.html
 language: en
 ---
@@ -21,7 +21,7 @@ Win rate
 
 Pick rate
 
-0.3%
+0.4%
 
 Ban rate
 
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)
 
 ### Places in the rankings
 
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Diggie, Ixia, Franco, Balmond a
 
 What is Hanzo’s win rate right now?
 
-49.26% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 24 November 2026.
+49.31% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hanzo play?
 

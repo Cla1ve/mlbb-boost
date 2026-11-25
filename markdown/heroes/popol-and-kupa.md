@@ -1,6 +1,6 @@
 ---
 title: "Пополь и Купа MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Пополь и Купа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,18% побед, тир C."
+description: "Пополь и Купа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,39% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/popol-and-kupa.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-48,2%
+48,4%
 
 Выбор
 
@@ -25,7 +25,7 @@ C
 
 Баны
 
-1,3%
+1,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **54,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,4%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+1.  **54,4%**![](/images/ranks/Epic.webp)Эпик
+2.  **54,1%**![](/images/ranks/Legend.webp)Легенда
+3.  **53,1%**![](/images/ranks/Mythic.webp)Мифик
+4.  **52,3%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **49,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -57,8 +57,8 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**25 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие стрелки MLBB**20 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
+-   [Лучшие лесники MLBB**28 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие стрелки MLBB**21 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
 
 ## Сборка
 
@@ -268,7 +268,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)
+[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)
 
 ### Слабые цели
 
@@ -290,11 +290,11 @@ C
 
 Кто контрпик для героя «Пополь и Купа» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Харли, Кусака, Зилонг, Чан'Э и Селена.
+За последние 30 дней чаще всего героя обыгрывают Кусака, Харли, Зилонг, Чан'Э и Лесли.
 
 Какой процент побед у героя «Пополь и Купа» сейчас?
 
-48,18% в Мифической славе за последние 7 дней и 51,97% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,39% в Мифической славе за последние 7 дней и 51,85% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Пополь и Купа»?
 
@@ -302,7 +302,7 @@ C
 
 Силён ли герой «Пополь и Купа» в текущей мете?
 
-Тир C, 98-е место из 133 героев и 20-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 48,2% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 104-е место из 133 героев и 21-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 48,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Пополь и Купа» лучшая?
 

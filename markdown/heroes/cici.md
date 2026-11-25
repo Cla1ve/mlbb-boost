@@ -1,6 +1,6 @@
 ---
 title: "Чичи MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чичи в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,60% побед, тир B."
+description: "Чичи в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,55% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/cici.html
 language: ru
 ---
@@ -17,7 +17,7 @@ B
 
 Победы
 
-48,6%
+48,5%
 
 Выбор
 
@@ -57,7 +57,7 @@ B
 
 ### Места в рейтингах
 
--   [Лучшие бойцы MLBB**9 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие бойцы MLBB**10 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 
 ## Сборка
 
@@ -255,7 +255,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
 ## История
 
@@ -275,7 +275,7 @@ B
 
 Какой процент побед у героя «Чичи» сейчас?
 
-48,60% в Мифической славе за последние 7 дней и 49,36% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,55% в Мифической славе за последние 7 дней и 49,34% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Чичи»?
 
@@ -283,7 +283,7 @@ B
 
 Силён ли герой «Чичи» в текущей мете?
 
-Тир B, 28-е место из 133 героев и 9-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,6% побед. В профессиональных матчах за месяц героя драфтуют в 40,8% катков.
+Тир B, 29-е место из 133 героев и 10-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,5% побед. В профессиональных матчах за месяц героя драфтуют в 40,8% катков.
 
 Какая сборка на героя «Чичи» лучшая?
 

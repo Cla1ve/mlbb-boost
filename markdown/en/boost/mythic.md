@@ -33,7 +33,7 @@ Total**6,250 ₽**
 
 **about 6 h**median Mythic order
 
-**1,315**reviews on Telegram
+**1,321**reviews on Telegram
 
 **120 ₽**per Mythic star
 
@@ -140,11 +140,11 @@ Account boost prices; time is the median of completed orders on that stretch.
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
-Р
+V
 
 Booster
 
-Ракунчик
+VlapTzy
 
 Verified booster
 
@@ -154,23 +154,23 @@ Client rating
 
 Standard
 
-StartЛегенда II, 3⭐
+StartМифический бессмертный, 110⭐
 
-TargetМифик, 0⭐
+TargetМифический бессмертный, 115⭐
 
-Отличный бустер быстро бустанул аккаунт
+влапзи могнул
 
-Time1ч 54м после оплаты
+Time3ч 22м после оплаты
 
-23 November 2026
+25 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2282)
+[Open review](https://t.me/Cla1ve_boost/2296)
 
-L
+Т
 
 Booster
 
-Legit
+Терпение
 
 Verified booster
 
@@ -180,23 +180,23 @@ Client rating
 
 Role
 
-StartМифическая честь, 25⭐
+StartМифическая слава, 57⭐
 
-TargetМифическая честь, 37⭐
+TargetМифическая слава, 63⭐
 
-быстро и четко, спасибо
+Спасибо большое за буст. 100% побед, быстро и качественно
 
-Time4ч 37м после оплаты
+Time1ч 55м после оплаты
 
-23 November 2026
+24 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2280)
+[Open review](https://t.me/Cla1ve_boost/2291)
 
-C
+K
 
 Booster
 
-Chenger
+Kris
 
 Verified booster
 
@@ -206,19 +206,19 @@ Client rating
 
 On a hero
 
-StartМифический бессмертный, 121⭐
+StartМифическая честь, 44⭐
 
-TargetМифический бессмертный, 126⭐
+TargetМифическая слава, 51⭐
 
-Топ беня 🫡🔥🦾
+Гууууд, быстрее вышло чем думал даже
 
-HeroБенька
+HeroЛилия
 
-Time2ч 49м после оплаты
+Time2ч 40м после оплаты
 
-22 November 2026
+24 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2279)
+[Open review](https://t.me/Cla1ve_boost/2287)
 
 ## Price your route
 

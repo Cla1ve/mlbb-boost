@@ -1,6 +1,6 @@
 ---
 title: "Грок MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Грок в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 45,69% побед, тир C."
+description: "Грок в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 45,72% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/grock.html
 language: ru
 ---
@@ -249,7 +249,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
 
 ### Слабые цели
 
@@ -271,11 +271,11 @@ C
 
 Кто контрпик для героя «Грок» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Джонсон, Инь, Дигги и Лейла.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Джонсон, Инь, Дигги и Одетта.
 
 Какой процент побед у героя «Грок» сейчас?
 
-45,69% в Мифической славе за последние 7 дней и 46,62% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+45,72% в Мифической славе за последние 7 дней и 46,62% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Грок»?
 

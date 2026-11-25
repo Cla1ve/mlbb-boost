@@ -1,6 +1,6 @@
 ---
 title: "Валентина MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Валентина в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 44,78% побед, тир B."
+description: "Валентина в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 44,70% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/valentina.html
 language: ru
 ---
@@ -17,7 +17,7 @@ B
 
 Победы
 
-44,8%
+44,7%
 
 Выбор
 
@@ -43,11 +43,11 @@ B
 
 ### Победы по рангам, 30 дней
 
-1.  **42,5%**![](/images/ranks/Epic.webp)Эпик
-2.  **42,3%**![](/images/ranks/Legend.webp)Легенда
+1.  **42,4%**![](/images/ranks/Epic.webp)Эпик
+2.  **42,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **42,9%**![](/images/ranks/Mythic.webp)Мифик
-4.  **44,2%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **45,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **44,1%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **45,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -260,7 +260,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
@@ -280,7 +280,7 @@ B
 
 Какой процент побед у героя «Валентина» сейчас?
 
-44,78% в Мифической славе за последние 7 дней и 44,70% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+44,70% в Мифической славе за последние 7 дней и 44,66% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Валентина»?
 
@@ -288,7 +288,7 @@ B
 
 Силён ли герой «Валентина» в текущей мете?
 
-Тир B, 55-е место из 133 героев и 13-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 44,8% побед. В профессиональных матчах за месяц героя драфтуют в 32,8% катков.
+Тир B, 55-е место из 133 героев и 13-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 44,7% побед. В профессиональных матчах за месяц героя драфтуют в 32,8% катков.
 
 Какая сборка на героя «Валентина» лучшая?
 

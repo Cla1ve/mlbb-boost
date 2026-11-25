@@ -1,6 +1,6 @@
 ---
 title: "Мелисса MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Мелисса в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 52,43% побед, тир B."
+description: "Мелисса в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 52,45% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/melissa.html
 language: ru
 ---
@@ -17,7 +17,7 @@ B
 
 Победы
 
-52,4%
+52,5%
 
 Выбор
 
@@ -44,10 +44,10 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **47,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **48,2%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,8%**![](/images/ranks/Mythic.webp)Мифик
+2.  **48,3%**![](/images/ranks/Legend.webp)Легенда
+3.  **48,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,7%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **51,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -215,7 +215,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
 
 ### Слабые цели
 
@@ -237,11 +237,11 @@ B
 
 Кто контрпик для героя «Мелисса» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Пополь и Купа, Леоморд, Джой и Линг.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Пополь и Купа, Джой, Леоморд и Линг.
 
 Какой процент побед у героя «Мелисса» сейчас?
 
-52,43% в Мифической славе за последние 7 дней и 50,15% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+52,45% в Мифической славе за последние 7 дней и 50,24% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Мелисса»?
 
@@ -249,7 +249,7 @@ B
 
 Силён ли герой «Мелисса» в текущей мете?
 
-Тир B, 58-е место из 133 героев и 11-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 11,0% катков.
+Тир B, 58-е место из 133 героев и 11-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 52,5% побед. В профессиональных матчах за месяц героя драфтуют в 11,0% катков.
 
 Какая сборка на героя «Мелисса» лучшая?
 

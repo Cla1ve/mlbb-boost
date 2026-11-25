@@ -1,6 +1,6 @@
 ---
 title: "Вэйл MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Вэйл в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,79% побед, тир C."
+description: "Вэйл в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,82% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/vale.html
 language: ru
 ---
@@ -43,9 +43,9 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **51,4%**![](/images/ranks/Epic.webp)Эпик
+1.  **51,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,5%**![](/images/ranks/Mythic.webp)Мифик
+3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,5%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -252,7 +252,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ## История
 
@@ -272,7 +272,7 @@ C
 
 Какой процент побед у героя «Вэйл» сейчас?
 
-48,79% в Мифической славе за последние 7 дней и 50,10% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,82% в Мифической славе за последние 7 дней и 50,11% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Вэйл»?
 

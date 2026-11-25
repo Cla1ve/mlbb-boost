@@ -1,6 +1,6 @@
 ---
 title: "Эстес MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Эстес в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 52,59% побед, тир A."
+description: "Эстес в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 52,58% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/estes.html
 language: ru
 ---
@@ -25,7 +25,7 @@ A
 
 Баны
 
-32,0%
+32,3%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ A
 2.  **53,4%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,1%**![](/images/ranks/Mythic.webp)Мифик
 4.  **52,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **52,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -257,7 +257,7 @@ A
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
 
 ## История
 
@@ -277,7 +277,7 @@ A
 
 Какой процент побед у героя «Эстес» сейчас?
 
-52,59% в Мифической славе за последние 7 дней и 52,75% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+52,58% в Мифической славе за последние 7 дней и 52,76% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Эстес»?
 
@@ -285,7 +285,7 @@ A
 
 Силён ли герой «Эстес» в текущей мете?
 
-Тир A, 22-е место из 133 героев и 4-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,0% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 14,9% катков.
+Тир A, 22-е место из 133 героев и 4-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 32,3% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 14,9% катков.
 
 Какая сборка на героя «Эстес» лучшая?
 

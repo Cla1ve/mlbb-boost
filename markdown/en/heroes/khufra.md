@@ -44,9 +44,9 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **55.1%**![](/images/ranks/Epic.webp)Epic
-2.  **54.5%**![](/images/ranks/Legend.webp)Legend
+2.  **54.6%**![](/images/ranks/Legend.webp)Legend
 3.  **54.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **55.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **55.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **54.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -254,7 +254,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
+[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
 ## Lore
 
@@ -274,7 +274,7 @@ Over the last 30 days the toughest opponents are Silvanna, Wanwan, Alucard, Nata
 
 What is Khufra’s win rate right now?
 
-54.86% at Mythical Glory over the last 7 days and 54.72% across all ranks over 30 days, as of 24 November 2026.
+54.86% at Mythical Glory over the last 7 days and 54.73% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Khufra play?
 

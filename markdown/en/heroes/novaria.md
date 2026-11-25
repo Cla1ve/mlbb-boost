@@ -1,6 +1,6 @@
 ---
 title: "Novaria MLBB: build, counters and skills | MLBB Boost"
-description: "Novaria in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.36% win rate, tier B."
+description: "Novaria in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.29% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/novaria.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-48.4%
+48.3%
 
 Pick rate
 
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.3%**![](/images/ranks/Epic.webp)Epic
-2.  **50.1%**![](/images/ranks/Legend.webp)Legend
-3.  **49.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **50.2%**![](/images/ranks/Epic.webp)Epic
+2.  **50.0%**![](/images/ranks/Legend.webp)Legend
+3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
+4.  **49.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -57,8 +57,8 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB mages**14 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB mid laners**12 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
+-   [Best MLBB mages**15 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mid laners**13 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
 
@@ -246,7 +246,7 @@ Novaria scatters Astral Echo in the target direction, briefly slowing enemy hero
 
 Beat this hero
 
-[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
 ## Lore
 
@@ -262,11 +262,11 @@ Beat this hero
 
 Who counters Novaria in MLBB?
 
-Over the last 30 days the toughest opponents are Diggie, Valir, Bane, Hanabi and Luo Yi.
+Over the last 30 days the toughest opponents are Diggie, Valir, Bane, Luo Yi and Hanabi.
 
 What is Novaria’s win rate right now?
 
-48.36% at Mythical Glory over the last 7 days and 49.49% across all ranks over 30 days, as of 24 November 2026.
+48.29% at Mythical Glory over the last 7 days and 49.45% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Novaria play?
 
@@ -274,7 +274,7 @@ Mage, played in the Mid Lane.
 
 Is Novaria strong in the current meta?
 
-Tier B, #59 of 133 heroes and #14 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 4.5% of them.
+Tier B, #60 of 133 heroes and #15 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 4.5% of them.
 
 What is the best build for Novaria?
 

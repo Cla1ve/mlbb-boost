@@ -1,6 +1,6 @@
 ---
 title: "Odette MLBB: build, counters and skills | MLBB Boost"
-description: "Odette in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.13% win rate, tier C."
+description: "Odette in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.14% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/odette.html
 language: en
 ---
@@ -47,7 +47,7 @@ Ban rate
 2.  **48.5%**![](/images/ranks/Legend.webp)Legend
 3.  **49.5%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip a
 
 What is Odette’s win rate right now?
 
-51.13% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 24 November 2026.
+51.14% at Mythical Glory over the last 7 days and 49.71% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Odette play?
 

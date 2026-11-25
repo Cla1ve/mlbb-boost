@@ -1,6 +1,6 @@
 ---
 title: "Suyou MLBB: build, counters and skills | MLBB Boost"
-description: "Suyou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.41% win rate, tier B."
+description: "Suyou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.43% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/suyou.html
 language: en
 ---
@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.9%**![](/images/ranks/Epic.webp)Epic
-2.  **50.1%**![](/images/ranks/Legend.webp)Legend
+2.  **50.2%**![](/images/ranks/Legend.webp)Legend
 3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.4%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -58,7 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB junglers**9 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**10 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB fighters**9 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 -   [Best MLBB assassins**5 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
@@ -279,7 +279,7 @@ Over the last 30 days the toughest opponents are Natalia, Sun, X.Borg, Yin and B
 
 What is Suyou’s win rate right now?
 
-49.41% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 24 November 2026.
+49.43% at Mythical Glory over the last 7 days and 49.71% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Suyou play?
 
@@ -287,7 +287,7 @@ Fighter and assassin, played in the jungle.
 
 Is Suyou strong in the current meta?
 
-Tier B, #29 of 133 heroes and #10 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 25.3% of them.
+Tier B, #28 of 133 heroes and #9 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 25.3% of them.
 
 What is the best build for Suyou?
 

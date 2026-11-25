@@ -1,6 +1,6 @@
 ---
 title: "Cecilion MLBB: build, counters and skills | MLBB Boost"
-description: "Cecilion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.69% win rate, tier C."
+description: "Cecilion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.65% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-50.7%
+50.6%
 
 Pick rate
 
@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.3%**![](/images/ranks/Epic.webp)Epic
-2.  **50.0%**![](/images/ranks/Legend.webp)Legend
+2.  **49.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **51.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -282,7 +282,7 @@ Over the last 30 days the toughest opponents are Lolita, Barats, Phoveus, Hylos 
 
 What is Cecilion’s win rate right now?
 
-50.69% at Mythical Glory over the last 7 days and 50.93% across all ranks over 30 days, as of 24 November 2026.
+50.65% at Mythical Glory over the last 7 days and 50.90% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Cecilion play?
 
@@ -290,7 +290,7 @@ Mage, played in the Mid Lane.
 
 Is Cecilion strong in the current meta?
 
-Tier C, #75 of 133 heroes and #20 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.7% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
+Tier C, #76 of 133 heroes and #20 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 50.6% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
 
 What is the best build for Cecilion?
 

@@ -1,6 +1,6 @@
 ---
 title: "Lapu-Lapu MLBB: build, counters and skills | MLBB Boost"
-description: "Lapu-Lapu in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.10% win rate, tier C."
+description: "Lapu-Lapu in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.11% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lapu-lapu.html
 language: en
 ---
@@ -279,7 +279,7 @@ Over the last 30 days the toughest opponents are Silvanna, Popol and Kupa, Hanab
 
 What is Lapu-Lapu’s win rate right now?
 
-47.10% at Mythical Glory over the last 7 days and 48.06% across all ranks over 30 days, as of 24 November 2026.
+47.11% at Mythical Glory over the last 7 days and 48.04% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Lapu-Lapu play?
 

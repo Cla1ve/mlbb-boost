@@ -1,6 +1,6 @@
 ---
 title: "Кармилла MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кармилла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 52,20% побед, тир S."
+description: "Кармилла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 52,19% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/carmilla.html
 language: ru
 ---
@@ -43,9 +43,9 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **54,3%**![](/images/ranks/Epic.webp)Эпик
+1.  **54,2%**![](/images/ranks/Epic.webp)Эпик
 2.  **54,6%**![](/images/ranks/Legend.webp)Легенда
-3.  **54,2%**![](/images/ranks/Mythic.webp)Мифик
+3.  **54,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,6%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **52,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -256,7 +256,7 @@ S
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ## История
 
@@ -276,7 +276,7 @@ S
 
 Какой процент побед у героя «Кармилла» сейчас?
 
-52,20% в Мифической славе за последние 7 дней и 53,25% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+52,19% в Мифической славе за последние 7 дней и 53,22% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кармилла»?
 

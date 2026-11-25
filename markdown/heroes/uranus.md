@@ -1,6 +1,6 @@
 ---
 title: "Уранус MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Уранус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 48,68% побед, тир B."
+description: "Уранус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 48,67% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/uranus.html
 language: ru
 ---
@@ -44,8 +44,8 @@ B
 
 1.  **51,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **50,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **49,0%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **50,2%**![](/images/ranks/Mythic.webp)Мифик
+4.  **49,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -250,7 +250,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)
+[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 ### Слабые цели
 
@@ -272,11 +272,11 @@ B
 
 Кто контрпик для героя «Уранус» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Аргус, Инь, Гатоткача, Дигги и Грейнджер.
+За последние 30 дней чаще всего героя обыгрывают Аргус, Гатоткача, Инь, Грейнджер и Заск.
 
 Какой процент побед у героя «Уранус» сейчас?
 
-48,68% в Мифической славе за последние 7 дней и 49,35% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,67% в Мифической славе за последние 7 дней и 49,35% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Уранус»?
 
@@ -284,7 +284,7 @@ B
 
 Силён ли герой «Уранус» в текущей мете?
 
-Тир B, 38-е место из 133 героев и 10-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 39,0% катков.
+Тир B, 39-е место из 133 героев и 10-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 39,0% катков.
 
 Какая сборка на героя «Уранус» лучшая?
 

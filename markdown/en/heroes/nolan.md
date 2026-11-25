@@ -1,6 +1,6 @@
 ---
 title: "Nolan MLBB: build, counters and skills | MLBB Boost"
-description: "Nolan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.42% win rate, tier S."
+description: "Nolan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.43% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
@@ -21,11 +21,11 @@ Win rate
 
 Pick rate
 
-2.7%
+2.6%
 
 Ban rate
 
-37.1%
+38.3%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
+[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)
 
 ### Places in the rankings
 
@@ -272,7 +272,7 @@ Over the last 30 days the toughest opponents are Estes, Yve, Zhuxin, X.Borg and 
 
 What is Nolan’s win rate right now?
 
-50.42% at Mythical Glory over the last 7 days and 49.72% across all ranks over 30 days, as of 24 November 2026.
+50.43% at Mythical Glory over the last 7 days and 49.73% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Nolan play?
 
@@ -280,7 +280,7 @@ Assassin, played in the jungle.
 
 Is Nolan strong in the current meta?
 
-Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 37.1% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
+Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 38.3% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
 
 What is the best build for Nolan?
 

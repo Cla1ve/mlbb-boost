@@ -1,6 +1,6 @@
 ---
 title: "Джой MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Джой в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,36% побед, тир D."
+description: "Джой в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,35% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/joy.html
 language: ru
 ---
@@ -43,7 +43,7 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **47,7%**![](/images/ranks/Epic.webp)Эпик
+1.  **47,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **46,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **46,5%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,8%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -53,7 +53,7 @@ D
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)
 
 ### Места в рейтингах
 
@@ -250,7 +250,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)
 
 ### Слабые цели
 
@@ -272,11 +272,11 @@ D
 
 Кто контрпик для героя «Джой» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Сан, Лолита, Икс.Борг, Ив и Ханаби.
+За последние 30 дней чаще всего героя обыгрывают Сан, Лолита, Икс.Борг, Ив и Лилия.
 
 Какой процент побед у героя «Джой» сейчас?
 
-49,36% в Мифической славе за последние 7 дней и 48,80% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,35% в Мифической славе за последние 7 дней и 48,79% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Джой»?
 

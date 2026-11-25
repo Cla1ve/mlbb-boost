@@ -1,6 +1,6 @@
 ---
 title: "Irithel MLBB: build, counters and skills | MLBB Boost"
-description: "Irithel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 53.38% win rate, tier C."
+description: "Irithel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 53.34% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/irithel.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-53.4%
+53.3%
 
 Pick rate
 
@@ -273,7 +273,7 @@ Over the last 30 days the toughest opponents are Yin, Wanwan, Beatrix, Benedetta
 
 What is Irithel’s win rate right now?
 
-53.38% at Mythical Glory over the last 7 days and 52.76% across all ranks over 30 days, as of 24 November 2026.
+53.34% at Mythical Glory over the last 7 days and 52.80% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Irithel play?
 
@@ -281,7 +281,7 @@ Marksman, played in the Gold Lane.
 
 Is Irithel strong in the current meta?
 
-Tier C, #78 of 133 heroes and #15 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 53.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #78 of 133 heroes and #15 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 53.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Irithel?
 

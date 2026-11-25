@@ -1,6 +1,6 @@
 ---
 title: "Кайя MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кайя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 49,61% побед, тир B."
+description: "Кайя в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 49,58% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/kaja.html
 language: ru
 ---
@@ -25,7 +25,7 @@ B
 
 Баны
 
-31,3%
+31,1%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -251,7 +251,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
+[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
 
 ### Слабые цели
 
@@ -273,11 +273,11 @@ B
 
 Кто контрпик для героя «Кайя» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Валир, Акай, Грок, Баксий и Глу.
+За последние 30 дней чаще всего героя обыгрывают Валир, Акай, Грок, Баксий и Беатрис.
 
 Какой процент побед у героя «Кайя» сейчас?
 
-49,61% в Мифической славе за последние 7 дней и 49,78% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+49,58% в Мифической славе за последние 7 дней и 49,76% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кайя»?
 
@@ -285,7 +285,7 @@ B
 
 Силён ли герой «Кайя» в текущей мете?
 
-Тир B, 30-е место из 133 героев и 6-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 31,3% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
+Тир B, 30-е место из 133 героев и 6-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 31,1% матчей, 49,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,7% катков.
 
 Какая сборка на героя «Кайя» лучшая?
 

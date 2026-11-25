@@ -44,9 +44,9 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **55,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,5%**![](/images/ranks/Legend.webp)Легенда
+2.  **54,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **55,1%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **55,2%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **54,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -254,7 +254,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
+[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
 
 ## История
 
@@ -274,7 +274,7 @@ B
 
 Какой процент побед у героя «Хуфра» сейчас?
 
-54,86% в Мифической славе за последние 7 дней и 54,72% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+54,86% в Мифической славе за последние 7 дней и 54,73% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хуфра»?
 

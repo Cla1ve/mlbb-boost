@@ -1,6 +1,6 @@
 ---
 title: "Мартис MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Мартис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 47,46% побед, тир C."
+description: "Мартис в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 47,44% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/martis.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-47,5%
+47,4%
 
 Выбор
 
@@ -47,13 +47,13 @@ C
 2.  **46,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **47,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **47,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **47,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -250,7 +250,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Слабые цели
 
@@ -272,11 +272,11 @@ C
 
 Кто контрпик для героя «Мартис» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Сабер, Чип, Москов, Сора и Хуфра.
+За последние 30 дней чаще всего героя обыгрывают Сабер, Чип, Москов, Хуфра и Сора.
 
 Какой процент побед у героя «Мартис» сейчас?
 
-47,46% в Мифической славе за последние 7 дней и 47,22% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+47,44% в Мифической славе за последние 7 дней и 47,22% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Мартис»?
 
@@ -284,7 +284,7 @@ C
 
 Силён ли герой «Мартис» в текущей мете?
 
-Тир C, 112-е место из 133 героев и 37-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,5% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 112-е место из 133 героев и 37-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 47,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Мартис» лучшая?
 

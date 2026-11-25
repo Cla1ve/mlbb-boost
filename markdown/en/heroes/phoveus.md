@@ -1,6 +1,6 @@
 ---
 title: "Phoveus MLBB: build, counters and skills | MLBB Boost"
-description: "Phoveus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.53% win rate, tier B."
+description: "Phoveus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.54% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/phoveus.html
 language: en
 ---
@@ -275,7 +275,7 @@ Over the last 30 days the toughest opponents are Wanwan, Harith, Freya, Benedett
 
 What is Phoveus’s win rate right now?
 
-48.53% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 24 November 2026.
+48.54% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Phoveus play?
 
@@ -283,7 +283,7 @@ Fighter, played in the EXP Lane.
 
 Is Phoveus strong in the current meta?
 
-Tier B, #64 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 18.3% of them.
+Tier B, #65 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 18.3% of them.
 
 What is the best build for Phoveus?
 

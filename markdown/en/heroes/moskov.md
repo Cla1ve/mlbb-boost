@@ -1,6 +1,6 @@
 ---
 title: "Moskov MLBB: build, counters and skills | MLBB Boost"
-description: "Moskov in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.30% win rate, tier B."
+description: "Moskov in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.34% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/moskov.html
 language: en
 ---
@@ -277,7 +277,7 @@ Over the last 30 days the toughest opponents are Gloo, Joy, Fanny, Beatrix and A
 
 What is Moskov’s win rate right now?
 
-51.30% at Mythical Glory over the last 7 days and 50.31% across all ranks over 30 days, as of 24 November 2026.
+51.34% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Moskov play?
 

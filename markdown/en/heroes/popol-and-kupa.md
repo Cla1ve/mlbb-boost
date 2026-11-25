@@ -1,6 +1,6 @@
 ---
 title: "Popol and Kupa MLBB: build, counters and skills | MLBB Boost"
-description: "Popol and Kupa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.18% win rate, tier C."
+description: "Popol and Kupa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.39% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/popol-and-kupa.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-48.2%
+48.4%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-1.3%
+1.1%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.5%**![](/images/ranks/Epic.webp)Epic
-2.  **54.2%**![](/images/ranks/Legend.webp)Legend
-3.  **53.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **54.4%**![](/images/ranks/Epic.webp)Epic
+2.  **54.1%**![](/images/ranks/Legend.webp)Legend
+3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **49.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -57,8 +57,8 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**25 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB marksmen**20 of 23**](https://boostmlbb.ru/en/heroes/best-marksman.html)
+-   [Best MLBB junglers**28 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB marksmen**21 of 23**](https://boostmlbb.ru/en/heroes/best-marksman.html)
 
 ## Build
 
@@ -268,7 +268,7 @@ During this time, Kupa turns into Alpha Wolf Form.
 
 Beat this hero
 
-[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)
+[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)
 
 ### Easy targets
 
@@ -290,11 +290,11 @@ This hero beats them
 
 Who counters Popol and Kupa in MLBB?
 
-Over the last 30 days the toughest opponents are Harley, Jawhead, Zilong, Chang'e and Selena.
+Over the last 30 days the toughest opponents are Jawhead, Harley, Zilong, Chang'e and Lesley.
 
 What is Popol and Kupa’s win rate right now?
 
-48.18% at Mythical Glory over the last 7 days and 51.97% across all ranks over 30 days, as of 24 November 2026.
+48.39% at Mythical Glory over the last 7 days and 51.85% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Popol and Kupa play?
 
@@ -302,7 +302,7 @@ Marksman, played in the Gold Lane or in the jungle.
 
 Is Popol and Kupa strong in the current meta?
 
-Tier C, #98 of 133 heroes and #20 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.3% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #104 of 133 heroes and #21 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 48.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Popol and Kupa?
 

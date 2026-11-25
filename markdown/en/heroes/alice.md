@@ -1,6 +1,6 @@
 ---
 title: "Alice MLBB: build, counters and skills | MLBB Boost"
-description: "Alice in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and mage, 50.31% win rate, tier A."
+description: "Alice in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and mage, 50.30% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/alice.html
 language: en
 ---
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.6%**![](/images/ranks/Epic.webp)Epic
+1.  **50.5%**![](/images/ranks/Epic.webp)Epic
 2.  **50.6%**![](/images/ranks/Legend.webp)Legend
 3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.5%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -283,7 +283,7 @@ Over the last 30 days the toughest opponents are Chip, Gloo, Tigreal, Atlas and 
 
 What is Alice’s win rate right now?
 
-50.31% at Mythical Glory over the last 7 days and 50.67% across all ranks over 30 days, as of 24 November 2026.
+50.30% at Mythical Glory over the last 7 days and 50.65% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Alice play?
 

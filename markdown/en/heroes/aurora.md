@@ -1,6 +1,6 @@
 ---
 title: "Aurora MLBB: build, counters and skills | MLBB Boost"
-description: "Aurora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.77% win rate, tier C."
+description: "Aurora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.71% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aurora.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-48.8%
+48.7%
 
 Pick rate
 
@@ -47,7 +47,7 @@ Ban rate
 2.  **48.7%**![](/images/ranks/Legend.webp)Legend
 3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -57,8 +57,8 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB mages**24 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB mid laners**22 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
+-   [Best MLBB mages**25 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mid laners**23 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
 
@@ -204,7 +204,7 @@ The frost path gradually expands into a glacier that shatters at maximum size, d
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
 
 ## Lore
 
@@ -220,11 +220,11 @@ Beat this hero
 
 Who counters Aurora in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Odette, Eudora, Khufra and Fredrinn.
+Over the last 30 days the toughest opponents are Lolita, Odette, Eudora, Fredrinn and Estes.
 
 What is Aurora’s win rate right now?
 
-48.77% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 24 November 2026.
+48.71% at Mythical Glory over the last 7 days and 48.89% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Aurora play?
 
@@ -232,7 +232,7 @@ Mage, played in the Mid Lane.
 
 Is Aurora strong in the current meta?
 
-Tier C, #97 of 133 heroes and #24 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
+Tier C, #100 of 133 heroes and #25 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 0.3% of them.
 
 What is the best build for Aurora?
 

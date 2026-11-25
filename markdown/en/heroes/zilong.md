@@ -1,6 +1,6 @@
 ---
 title: "Zilong MLBB: build, counters and skills | MLBB Boost"
-description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 44.92% win rate, tier C."
+description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 44.89% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -47,7 +47,7 @@ Ban rate
 2.  **46.8%**![](/images/ranks/Legend.webp)Legend
 3.  **46.8%**![](/images/ranks/Mythic.webp)Mythic
 4.  **45.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -278,7 +278,7 @@ Over the last 30 days the toughest opponents are X.Borg, Cici, Diggie, Xavier an
 
 What is Zilong’s win rate right now?
 
-44.92% at Mythical Glory over the last 7 days and 46.27% across all ranks over 30 days, as of 24 November 2026.
+44.89% at Mythical Glory over the last 7 days and 46.27% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Zilong play?
 

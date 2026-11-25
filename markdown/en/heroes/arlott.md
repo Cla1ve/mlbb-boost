@@ -1,6 +1,6 @@
 ---
 title: "Arlott MLBB: build, counters and skills | MLBB Boost"
-description: "Arlott in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 48.06% win rate, tier B."
+description: "Arlott in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 48.07% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **46.6%**![](/images/ranks/Epic.webp)Epic
-2.  **46.5%**![](/images/ranks/Legend.webp)Legend
-3.  **46.7%**![](/images/ranks/Mythic.webp)Mythic
-4.  **47.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **46.5%**![](/images/ranks/Epic.webp)Epic
+2.  **46.4%**![](/images/ranks/Legend.webp)Legend
+3.  **46.6%**![](/images/ranks/Mythic.webp)Mythic
+4.  **47.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -250,7 +250,7 @@ Cooldown **24 s**
 
 Beat this hero
 
-[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
+[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
 
 ### Easy targets
 
@@ -272,11 +272,11 @@ This hero beats them
 
 Who counters Arlott in MLBB?
 
-Over the last 30 days the toughest opponents are X.Borg, Cici, Natan, Zhuxin and Kimmy.
+Over the last 30 days the toughest opponents are X.Borg, Cici, Zhuxin, Natan and Kimmy.
 
 What is Arlott’s win rate right now?
 
-48.06% at Mythical Glory over the last 7 days and 47.48% across all ranks over 30 days, as of 24 November 2026.
+48.07% at Mythical Glory over the last 7 days and 47.47% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Arlott play?
 

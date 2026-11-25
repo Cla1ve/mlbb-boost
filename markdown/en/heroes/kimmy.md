@@ -1,6 +1,6 @@
 ---
 title: "Kimmy MLBB: build, counters and skills | MLBB Boost"
-description: "Kimmy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and marksman, 48.16% win rate, tier A."
+description: "Kimmy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and marksman, 48.13% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
@@ -17,7 +17,7 @@ A
 
 Win rate
 
-48.2%
+48.1%
 
 Pick rate
 
@@ -45,8 +45,8 @@ Ban rate
 
 1.  **48.7%**![](/images/ranks/Epic.webp)Epic
 2.  **48.1%**![](/images/ranks/Legend.webp)Legend
-3.  **48.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **48.0%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -281,7 +281,7 @@ Over the last 30 days the toughest opponents are Sun, Hylos, Atlas, Uranus and H
 
 What is Kimmy’s win rate right now?
 
-48.16% at Mythical Glory over the last 7 days and 48.71% across all ranks over 30 days, as of 24 November 2026.
+48.13% at Mythical Glory over the last 7 days and 48.67% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Kimmy play?
 
@@ -289,7 +289,7 @@ Mage and marksman, played in the Gold Lane or in the Mid Lane.
 
 Is Kimmy strong in the current meta?
 
-Tier A, #15 of 133 heroes and #3 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 73.1% of them.
+Tier A, #15 of 133 heroes and #3 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.1% win rate. In professional games over the last month the hero is drafted in 73.1% of them.
 
 What is the best build for Kimmy?
 

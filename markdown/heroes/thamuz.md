@@ -1,6 +1,6 @@
 ---
 title: "Тамуз MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Тамуз в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,47% побед, тир C."
+description: "Тамуз в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,43% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/thamuz.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-48,5%
+48,4%
 
 Выбор
 
@@ -47,13 +47,13 @@ C
 2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,8%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **48,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -230,7 +230,7 @@ C
 
 Какой процент побед у героя «Тамуз» сейчас?
 
-48,47% в Мифической славе за последние 7 дней и 48,91% на всех рангах за 30 дней, данные на 24 ноября 2026 года.
+48,43% в Мифической славе за последние 7 дней и 48,90% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Тамуз»?
 
@@ -238,7 +238,7 @@ C
 
 Силён ли герой «Тамуз» в текущей мете?
 
-Тир C, 94-е место из 133 героев и 29-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 48,5% побед. В профессиональных матчах за месяц героя драфтуют в 1,7% катков.
+Тир C, 93-е место из 133 героев и 29-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,4% матчей, 48,4% побед. В профессиональных матчах за месяц героя драфтуют в 1,7% катков.
 
 Какая сборка на героя «Тамуз» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Badang MLBB: build, counters and skills | MLBB Boost"
-description: "Badang in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.88% win rate, tier B."
+description: "Badang in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.90% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/badang.html
 language: en
 ---
@@ -21,11 +21,11 @@ Win rate
 
 Pick rate
 
-1.4%
+1.5%
 
 Ban rate
 
-4.9%
+5.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ Ban rate
 2.  **50.5%**![](/images/ranks/Legend.webp)Legend
 3.  **50.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -272,7 +272,7 @@ Over the last 30 days the toughest opponents are Fanny, Sun, Zilong, Hayabusa an
 
 What is Badang’s win rate right now?
 
-49.88% at Mythical Glory over the last 7 days and 50.19% across all ranks over 30 days, as of 24 November 2026.
+49.90% at Mythical Glory over the last 7 days and 50.19% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Badang play?
 
@@ -280,7 +280,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Badang strong in the current meta?
 
-Tier B, #44 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.9% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 2.7% of them.
+Tier B, #44 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.0% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 2.7% of them.
 
 What is the best build for Badang?
 

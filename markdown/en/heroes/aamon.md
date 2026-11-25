@@ -1,6 +1,6 @@
 ---
 title: "Aamon MLBB: build, counters and skills | MLBB Boost"
-description: "Aamon in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.42% win rate, tier C."
+description: "Aamon in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.18% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-50.4%
+50.2%
 
 Pick rate
 
@@ -47,17 +47,17 @@ Ban rate
 2.  **50.1%**![](/images/ranks/Legend.webp)Legend
 3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **50.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)
 
 ### Places in the rankings
 
--   [Best MLBB junglers**21 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**20 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB assassins**19 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
@@ -254,7 +254,7 @@ The damage dealt increases with the target's lost , to the max when the target's
 
 Beat this hero
 
-[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)
+[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
 ### Easy targets
 
@@ -276,11 +276,11 @@ This hero beats them
 
 Who counters Aamon in MLBB?
 
-Over the last 30 days the toughest opponents are Cici, Marcel, Claude, Bruno and Xavier.
+Over the last 30 days the toughest opponents are Cici, Marcel, Claude, Bruno and Hilda.
 
 What is Aamon’s win rate right now?
 
-50.42% at Mythical Glory over the last 7 days and 50.21% across all ranks over 30 days, as of 24 November 2026.
+50.18% at Mythical Glory over the last 7 days and 50.18% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Aamon play?
 
@@ -288,7 +288,7 @@ Assassin, played in the jungle.
 
 Is Aamon strong in the current meta?
 
-Tier C, #86 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #85 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Aamon?
 
