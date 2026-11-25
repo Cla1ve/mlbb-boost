@@ -19,7 +19,7 @@
 }
 .ware__icon .coin::before { display: none; }
 .ware__text { display: grid; gap: 3px; min-width: 0; }
-.ware__name { font-size: 1rem; font-weight: 500; line-height: 1.25; text-wrap: balance; hyphens: auto; overflow-wrap: anywhere; }
+.ware__name { font-size: 1rem; font-weight: 500; line-height: 1.25; text-wrap: balance; overflow-wrap: anywhere; }
 .ware__note { color: var(--muted); font-size: .8125rem; line-height: 1.3; }
 .ware:hover, .ware:focus-visible { border-color: #3a5873; background: #12293f; }
 .ware:hover img { transform: translateY(-2px); }
@@ -42,7 +42,7 @@
 .parts { display: flex; flex-wrap: wrap; gap: 4px; }
 .part { display: grid; justify-items: center; align-content: start; gap: 14px; width: 104px; padding: 10px 4px 12px; border-radius: 10px; color: var(--soft); text-decoration: none; transition: background-color .15s; }
 .part .ware__icon, .part .ware__icon img { width: 52px; height: 52px; }
-.part__name { max-width: 100%; hyphens: auto; overflow-wrap: anywhere; font-size: .8125rem; font-weight: 500; line-height: 1.25; text-align: center; text-wrap: balance; }
+.part__name { max-width: 100%; overflow-wrap: anywhere; font-size: .8125rem; font-weight: 500; line-height: 1.25; text-align: center; text-wrap: balance; }
 .part:hover, .part:focus-visible { background: #17304a; color: var(--arena-ink); }
 .part:hover img { transform: translateY(-2px); }
 #item-empty { padding: 48px 0; text-align: center; }
@@ -109,7 +109,7 @@ a.sheet__tag:hover { border-color: var(--arena-accent); color: var(--arena-ink);
 .recipe__node img { border-radius: 50%; display: block; background: var(--panel); transition: transform .15s ease-out; }
 .recipe__node .coin { margin-top: -12px; padding: 1px 7px; border: 1px solid var(--line); border-radius: 999px; background: #0a1727; font-size: .75rem; line-height: 1.35; }
 .recipe__node .coin::before { display: none; }
-.recipe__name { max-width: 100%; hyphens: auto; overflow-wrap: anywhere; margin-top: 2px; font-size: .9375rem; line-height: 1.25; text-align: center; text-wrap: balance; }
+.recipe__name { max-width: 100%; overflow-wrap: anywhere; margin-top: 2px; font-size: .9375rem; line-height: 1.25; text-align: center; text-wrap: balance; }
 .recipe__node.is-here { width: 160px; color: var(--arena-ink); }
 .recipe__node.is-here img { width: 88px; height: 88px; }
 .recipe__node.is-here img { box-shadow: 0 0 0 2px var(--arena-accent); }

@@ -474,7 +474,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.head.append(arenaStyle);
       const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=13';
       document.head.append(heroStyle);
-      if (guideOf(file).kind === 'item') { const itemStyle = document.createElement('link'); itemStyle.rel = 'stylesheet'; itemStyle.href = '/styles/items.css?v=1'; document.head.append(itemStyle); }
+      if (guideOf(file).kind === 'item') { const itemStyle = document.createElement('link'); itemStyle.rel = 'stylesheet'; itemStyle.href = '/styles/items.css?v=2'; document.head.append(itemStyle); }
     }
     // The site typeface (Golos Text, set in main.css): preload the Cyrillic file so headings do not reflow after load.
     document.querySelectorAll('link[rel="preload"][href*="/fonts/golos-"]').forEach(node => node.remove());
