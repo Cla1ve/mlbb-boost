@@ -1,6 +1,6 @@
 ---
 title: "Aldous MLBB: build, counters and skills | MLBB Boost"
-description: "Aldous in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.38% win rate, tier C."
+description: "Aldous in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.39% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aldous.html
 language: en
 ---
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.0%**![](/images/ranks/Epic.webp)Epic
-2.  **52.1%**![](/images/ranks/Legend.webp)Legend
-3.  **52.8%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
+1.  **52.1%**![](/images/ranks/Epic.webp)Epic
+2.  **52.2%**![](/images/ranks/Legend.webp)Legend
+3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -326,7 +326,7 @@ Over the last 30 days the toughest opponents are Uranus, Xavier, Helcurt, X.Borg
 
 What is Aldous’s win rate right now?
 
-53.38% at Mythical Glory over the last 7 days and 52.09% across all ranks over 30 days, as of 25 November 2026.
+53.39% at Mythical Glory over the last 7 days and 52.20% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Aldous play?
 

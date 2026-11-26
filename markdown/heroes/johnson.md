@@ -1,6 +1,6 @@
 ---
 title: "Джонсон MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Джонсон в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 47,94% побед, тир C."
+description: "Джонсон в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 47,96% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/johnson.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-47,9%
+48,0%
 
 Выбор
 
@@ -45,8 +45,8 @@ C
 
 1.  **52,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **51,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **50,1%**![](/images/ranks/Mythic.webp)Мифик
+4.  **48,3%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **47,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -58,7 +58,7 @@ C
 ### Места в рейтингах
 
 -   [Лучшие танки MLBB**17 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
--   [Лучшие роумеры MLBB**23 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+-   [Лучшие роумеры MLBB**22 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
 
@@ -295,7 +295,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)
+[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Слабые цели
 
@@ -317,11 +317,11 @@ C
 
 Кто контрпик для героя «Джонсон» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лейла, Зилонг, Сабер, Валентина и Дариус.
+За последние 30 дней чаще всего героя обыгрывают Лейла, Зилонг, Сабер, Дариус и Валентина.
 
 Какой процент побед у героя «Джонсон» сейчас?
 
-47,94% в Мифической славе за последние 7 дней и 49,32% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,96% в Мифической славе за последние 7 дней и 49,36% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Джонсон»?
 
@@ -329,7 +329,7 @@ C
 
 Силён ли герой «Джонсон» в текущей мете?
 
-Тир C, 103-е место из 133 героев и 17-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 47,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 102-е место из 133 героев и 17-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Джонсон» лучшая?
 

@@ -1,6 +1,6 @@
 ---
 title: "Roger MLBB: build, counters and skills | MLBB Boost"
-description: "Roger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and marksman, 46.28% win rate, tier D."
+description: "Roger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and marksman, 46.34% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
@@ -320,7 +320,7 @@ Over the last 30 days the toughest opponents are Harley, Gusion, Silvanna, Yin a
 
 What is Roger’s win rate right now?
 
-46.28% at Mythical Glory over the last 7 days and 48.30% across all ranks over 30 days, as of 25 November 2026.
+46.34% at Mythical Glory over the last 7 days and 48.30% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Roger play?
 

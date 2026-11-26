@@ -11,13 +11,13 @@ language: en
 
 ●●●●●
 
-1321 Reviews
+1324 Reviews
 
 99% Positive ratings
 
 ### All reviews on Telegram!
 
-1321 published reviews with screenshots
+1324 published reviews with screenshots
 
 [Open the channel](https://t.me/cla1ve_boost)
 
@@ -31,7 +31,89 @@ You can leave a review only after a purchase
 
 ## Latest customer reviews
 
-1321 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+1324 customer reviews, average rating 5.0/5. Read the original reviews on Telegram.
+
+V
+
+Booster
+
+VenomSkie.
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифическая честь, 26⭐
+
+TargetМифическая честь, 45⭐
+
+Спасибо за буст
+
+HeroОбсидия
+
+Time12ч 33м после оплаты
+
+26 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2300)
+
+C
+
+Booster
+
+Chenger
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+In a party
+
+StartМифический бессмертный, 508⭐
+
+TargetМифический бессмертный, 513⭐
+
+Все быстро и четко
+
+Time1ч 45м после оплаты
+
+25 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2299)
+
+K
+
+Booster
+
+Kris
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+On a hero
+
+StartМифический бессмертный, 110⭐
+
+TargetМифический бессмертный, 120⭐
+
+Лучшая, быстро и качественно, спасибо ещё раз)
+
+HeroОбсидия
+
+Time5ч 2м после оплаты
+
+25 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2297)
 
 V
 
@@ -1554,85 +1636,3 @@ Time1ч 39м после оплаты
 31 October 2026
 
 [Open review](https://t.me/Cla1ve_boost/2159)
-
-T
-
-Booster
-
-tomioka
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-Role
-
-StartМифик, 0⭐
-
-TargetМифик, 10⭐
-
-Великолепная работа бустера,ответственный подход и приятный бонус к заказу
-
-Time2ч 29м после оплаты
-
-31 October 2026
-
-[Open review](https://t.me/Cla1ve_boost/2158)
-
-Т
-
-Booster
-
-Терпение
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-On a hero
-
-StartМифическая слава, 80⭐
-
-TargetМифическая слава, 86⭐
-
-Профессиональная работа Зверь товарищ Всем советую
-
-HeroБенька
-
-Time2ч 4м после оплаты
-
-31 October 2026
-
-[Open review](https://t.me/Cla1ve_boost/2157)
-
-I
-
-Booster
-
-Izy
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-On a hero
-
-StartМифический бессмертный, 104⭐
-
-TargetМифический бессмертный, 109⭐
-
-Быстро и качественно
-
-HeroБелерик
-
-Time2ч 37м после оплаты
-
-31 October 2026
-
-[Open review](https://t.me/Cla1ve_boost/2152)

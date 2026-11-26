@@ -61,9 +61,9 @@ Sea Halberd
 -   [![](/images/heroes/ixia.webp)Иксия56,1%](https://boostmlbb.ru/heroes/ixia.html#build)
 -   [![](/images/heroes/granger.webp)Грейнджер39,7%](https://boostmlbb.ru/heroes/granger.html#build)
 -   [![](/images/heroes/natalia.webp)Наталья55,3%](https://boostmlbb.ru/heroes/natalia.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа54,3%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
 -   [![](/images/heroes/yin.webp)Инь57,7%](https://boostmlbb.ru/heroes/yin.html#build)
 -   [![](/images/heroes/bane.webp)Бэйн53,0%](https://boostmlbb.ru/heroes/bane.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа54,3%](https://boostmlbb.ru/heroes/popol-and-kupa.html#build)
 -   [![](/images/heroes/martis.webp)Мартис51,0%](https://boostmlbb.ru/heroes/martis.html#build)
 -   [![](/images/heroes/jawhead.webp)Кусака50,5%](https://boostmlbb.ru/heroes/jawhead.html#build)
 

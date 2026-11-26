@@ -1,6 +1,6 @@
 ---
 title: "Best MLBB fighters: ranking for November 2026 | MLBB Boost"
-description: "Ranking of fighters in Mobile Legends for November 2026: win, pick and ban rates, pro drafts, common builds and counters. Masha, Kalea and Freya lead."
+description: "Ranking of fighters in Mobile Legends for November 2026: win, pick and ban rates, pro drafts, common builds and counters. Masha, Freya and Kalea lead."
 canonical: https://boostmlbb.ru/en/heroes/best-fighter.html
 language: en
 ---
@@ -13,7 +13,7 @@ language: en
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Masha, Kalea and Freya lead the fighters right now. Masha wins 58.8% of Mythical Glory games over 7 days and is banned in 67.5% of them. The list has 44 heroes, 7 of them in tier S or A.
+Masha, Freya and Kalea lead the fighters right now. Masha wins 58.8% of Mythical Glory games over 7 days and is banned in 67.2% of them. The list has 44 heroes, 7 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -35,7 +35,7 @@ Pick rate
 
 Ban rate
 
-67.5%
+67.2%
 
 [
 
@@ -71,9 +71,63 @@ Tank
 
 Petrify
 
-[![](/images/heroes/art/kalea.webp)](https://boostmlbb.ru/en/heroes/kalea.html)
+[![](/images/heroes/art/freya.webp)](https://boostmlbb.ru/en/heroes/freya.html)
 
 2
+
+### [Freya](https://boostmlbb.ru/en/heroes/freya.html)
+
+S
+
+Win rate
+
+51.8%
+
+Pick rate
+
+1.3%
+
+Ban rate
+
+11.5%
+
+[
+
+![](/images/mlbb/items/2009.webp)
+
+Golden Staff
+
+
+
+](https://boostmlbb.ru/en/items/golden-staff.html)[
+
+![](/images/mlbb/items/2013.webp)
+
+War Axe
+
+
+
+](https://boostmlbb.ru/en/items/war-axe.html)[
+
+![](/images/mlbb/items/3012.webp)
+
+Rose Gold Meteor
+
+
+
+](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
+
+![](/images/mlbb/emblems/20007.webp)
+
+Fighter
+
+![](/images/mlbb/spells/20190.webp)
+
+Vengeance
+
+[![](/images/heroes/art/kalea.webp)](https://boostmlbb.ru/en/heroes/kalea.html)
+
+3
 
 ### [Kalea](https://boostmlbb.ru/en/heroes/kalea.html)
 
@@ -81,7 +135,7 @@ S
 
 Win rate
 
-51.7%
+51.8%
 
 Pick rate
 
@@ -125,60 +179,6 @@ Tank
 
 Flicker
 
-[![](/images/heroes/art/freya.webp)](https://boostmlbb.ru/en/heroes/freya.html)
-
-3
-
-### [Freya](https://boostmlbb.ru/en/heroes/freya.html)
-
-S
-
-Win rate
-
-51.8%
-
-Pick rate
-
-1.3%
-
-Ban rate
-
-11.4%
-
-[
-
-![](/images/mlbb/items/2009.webp)
-
-Golden Staff
-
-
-
-](https://boostmlbb.ru/en/items/golden-staff.html)[
-
-![](/images/mlbb/items/2013.webp)
-
-War Axe
-
-
-
-](https://boostmlbb.ru/en/items/war-axe.html)[
-
-![](/images/mlbb/items/3012.webp)
-
-Rose Gold Meteor
-
-
-
-](https://boostmlbb.ru/en/items/rose-gold-meteor.html)
-
-![](/images/mlbb/emblems/20007.webp)
-
-Fighter
-
-![](/images/mlbb/spells/20190.webp)
-
-Vengeance
-
 ## All fighters ranked
 
 Mythical Glory, 7 days. “Pro”: the share of professional games over the last month in which the hero was picked or banned.
@@ -207,25 +207,11 @@ S
 
 0.7%
 
-67.5%
+67.2%
 
 100.0%
 
 2
-
-[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)
-
-S
-
-51.7%
-
-0.9%
-
-14.6%
-
-99.7%
-
-3
 
 [![](/images/heroes/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)
 
@@ -235,9 +221,23 @@ S
 
 1.3%
 
-11.4%
+11.5%
 
 98.4%
+
+3
+
+[![](/images/heroes/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)
+
+S
+
+51.8%
+
+0.9%
+
+14.6%
+
+99.7%
 
 4
 
@@ -245,11 +245,11 @@ S
 
 S
 
-53.0%
+53.1%
 
 0.8%
 
-21.1%
+19.8%
 
 77.8%
 
@@ -263,7 +263,7 @@ A
 
 1.4%
 
-10.8%
+10.7%
 
 69.3%
 
@@ -277,7 +277,7 @@ B
 
 1.5%
 
-57.8%
+58.5%
 
 —
 
@@ -291,7 +291,7 @@ A
 
 0.7%
 
-3.1%
+3.0%
 
 42.2%
 
@@ -305,7 +305,7 @@ A
 
 0.9%
 
-32.0%
+30.8%
 
 2.9%
 
@@ -319,7 +319,7 @@ B
 
 1.6%
 
-1.8%
+1.9%
 
 25.3%
 
@@ -385,7 +385,7 @@ B
 
 B
 
-44.7%
+44.6%
 
 1.0%
 
@@ -413,7 +413,7 @@ B
 
 B
 
-51.4%
+51.3%
 
 1.0%
 
@@ -441,11 +441,11 @@ B
 
 B
 
-48.1%
+48.0%
 
 0.7%
 
-0.8%
+0.9%
 
 12.5%
 
@@ -459,7 +459,7 @@ B
 
 0.3%
 
-0.4%
+0.5%
 
 18.3%
 
@@ -501,7 +501,7 @@ C
 
 0.4%
 
-3.9%
+4.0%
 
 3.5%
 
@@ -553,7 +553,7 @@ C
 
 C
 
-48.2%
+48.1%
 
 0.8%
 
@@ -595,7 +595,7 @@ C
 
 C
 
-48.4%
+48.3%
 
 0.6%
 
@@ -647,20 +647,6 @@ C
 
 33
 
-[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
-
-C
-
-51.5%
-
-0.3%
-
-0.1%
-
-—
-
-34
-
 [![](/images/heroes/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
 
 C
@@ -672,6 +658,20 @@ C
 0.1%
 
 0.5%
+
+34
+
+[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
+
+C
+
+51.6%
+
+0.3%
+
+0.1%
+
+—
 
 35
 
@@ -749,7 +749,7 @@ D
 
 C
 
-45.7%
+45.8%
 
 0.3%
 
@@ -809,7 +809,7 @@ C
 
 0.3%
 
-0.2%
+0.3%
 
 —
 
@@ -830,10 +830,10 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 
 1.  [![](/images/heroes/argus.webp)Argus57.1%](https://boostmlbb.ru/en/heroes/argus.html)
 2.  [![](/images/heroes/hilda.webp)Hilda53.0%](https://boostmlbb.ru/en/heroes/hilda.html)
-3.  [![](/images/heroes/aulus.webp)Aulus52.9%](https://boostmlbb.ru/en/heroes/aulus.html)
-4.  [![](/images/heroes/minsitthar.webp)Minsitthar52.7%](https://boostmlbb.ru/en/heroes/minsitthar.html)
+3.  [![](/images/heroes/aulus.webp)Aulus52.8%](https://boostmlbb.ru/en/heroes/aulus.html)
+4.  [![](/images/heroes/minsitthar.webp)Minsitthar52.8%](https://boostmlbb.ru/en/heroes/minsitthar.html)
 5.  [![](/images/heroes/benedetta.webp)Benedetta52.7%](https://boostmlbb.ru/en/heroes/benedetta.html)
-6.  [![](/images/heroes/aldous.webp)Aldous52.5%](https://boostmlbb.ru/en/heroes/aldous.html)
+6.  [![](/images/heroes/aldous.webp)Aldous52.6%](https://boostmlbb.ru/en/heroes/aldous.html)
 
 ## Who beats fighters
 
@@ -841,10 +841,10 @@ How many heroes of this list it beats, by official counters.
 
 1.  [![](/images/heroes/saber.webp)Saber11 of 44](https://boostmlbb.ru/en/heroes/saber.html)
 2.  [![](/images/heroes/helcurt.webp)Helcurt9 of 44](https://boostmlbb.ru/en/heroes/helcurt.html)
-3.  [![](/images/heroes/lolita.webp)Lolita7 of 44](https://boostmlbb.ru/en/heroes/lolita.html)
-4.  [![](/images/heroes/natalia.webp)Natalia7 of 44](https://boostmlbb.ru/en/heroes/natalia.html)
-5.  [![](/images/heroes/odette.webp)Odette7 of 44](https://boostmlbb.ru/en/heroes/odette.html)
-6.  [![](/images/heroes/phoveus.webp)Phoveus7 of 44](https://boostmlbb.ru/en/heroes/phoveus.html)
+3.  [![](/images/heroes/natalia.webp)Natalia7 of 44](https://boostmlbb.ru/en/heroes/natalia.html)
+4.  [![](/images/heroes/odette.webp)Odette7 of 44](https://boostmlbb.ru/en/heroes/odette.html)
+5.  [![](/images/heroes/phoveus.webp)Phoveus7 of 44](https://boostmlbb.ru/en/heroes/phoveus.html)
+6.  [![](/images/heroes/x-borg.webp)X.Borg7 of 44](https://boostmlbb.ru/en/heroes/x-borg.html)
 
 **We can rank up on any of the fighters**The calculator shows the price
 
@@ -854,7 +854,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best fighter in MLBB right now?
 
-Masha: tier S, 58.8% win rate, banned in 67.5% of Mythical Glory games over 7 days. Kalea and Freya follow. Data as of 25 November 2026.
+Masha: tier S, 58.8% win rate, banned in 67.2% of Mythical Glory games over 7 days. Freya and Kalea follow. Data as of 25 November 2026.
 
 Which of the fighters should a beginner pick?
 
@@ -862,7 +862,7 @@ Hilda, Alpha and Zilong are the easiest to play: their difficulty on the in-game
 
 Which fighters get banned most?
 
-Masha (67.5%), Sun (57.8%) and Lukas (32.0%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Masha (67.2%), Sun (58.5%) and Lukas (30.8%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many fighters are there in Mobile Legends?
 

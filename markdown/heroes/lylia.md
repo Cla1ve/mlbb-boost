@@ -1,6 +1,6 @@
 ---
 title: "Лилия MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лилия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 47,62% побед, тир B."
+description: "Лилия в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 47,60% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lylia.html
 language: ru
 ---
@@ -44,7 +44,7 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **51,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,7%**![](/images/ranks/Legend.webp)Легенда
+2.  **50,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,6%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,1%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -301,13 +301,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
-
-### Слабые цели
-
-Этот герой побеждает их
-
-[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
+[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
 
 ## История
 
@@ -323,11 +317,11 @@ B
 
 Кто контрпик для героя «Лилия» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Джонсон, Ханаби, Альфа, Бартс и Алиса.
+За последние 30 дней чаще всего героя обыгрывают Джонсон, Альфа, Ханаби, Бартс и Алиса.
 
 Какой процент побед у героя «Лилия» сейчас?
 
-47,62% в Мифической славе за последние 7 дней и 49,26% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,60% в Мифической славе за последние 7 дней и 49,23% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Лилия»?
 

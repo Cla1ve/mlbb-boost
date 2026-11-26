@@ -1,6 +1,6 @@
 ---
 title: "Rafaela MLBB: build, counters and skills | MLBB Boost"
-description: "Rafaela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.21% win rate, tier B."
+description: "Rafaela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.24% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/rafaela.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-9.2%
+9.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **53.1%**![](/images/ranks/Epic.webp)Epic
+1.  **53.0%**![](/images/ranks/Epic.webp)Epic
 2.  **54.6%**![](/images/ranks/Legend.webp)Legend
-3.  **55.2%**![](/images/ranks/Mythic.webp)Mythic
+3.  **55.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **55.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **53.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **53.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -292,7 +292,7 @@ Rafaela unleashes the true power of Holy Light in the target direction, dealing 
 
 Beat this hero
 
-[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)
+[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ### Easy targets
 
@@ -314,11 +314,11 @@ This hero beats them
 
 Who counters Rafaela in MLBB?
 
-Over the last 30 days the toughest opponents are Natalia, Valir, Marcel, Hylos and Cici.
+Over the last 30 days the toughest opponents are Valir, Natalia, Marcel, Cici and Hylos.
 
 What is Rafaela’s win rate right now?
 
-53.21% at Mythical Glory over the last 7 days and 54.41% across all ranks over 30 days, as of 25 November 2026.
+53.24% at Mythical Glory over the last 7 days and 54.37% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Rafaela play?
 
@@ -326,7 +326,7 @@ Support, played on roam.
 
 Is Rafaela strong in the current meta?
 
-Tier B, #33 of 133 heroes and #8 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 9.2% of matches, 53.2% win rate. In professional games over the last month the hero is drafted in 7.7% of them.
+Tier B, #34 of 133 heroes and #8 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 9.0% of matches, 53.2% win rate. In professional games over the last month the hero is drafted in 7.7% of them.
 
 What is the best build for Rafaela?
 

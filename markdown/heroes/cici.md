@@ -1,6 +1,6 @@
 ---
 title: "Чичи MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чичи в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,55% побед, тир B."
+description: "Чичи в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,53% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/cici.html
 language: ru
 ---
@@ -294,7 +294,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)
 
 ### Слабые цели
 
@@ -316,11 +316,11 @@ B
 
 Кто контрпик для героя «Чичи» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Бальмонд, Тамуз, Алиса, Белерик и Хилос.
+За последние 30 дней чаще всего героя обыгрывают Бальмонд, Тамуз, Алиса, Хилос и Белерик.
 
 Какой процент побед у героя «Чичи» сейчас?
 
-48,55% в Мифической славе за последние 7 дней и 49,34% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,53% в Мифической славе за последние 7 дней и 49,32% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Чичи»?
 

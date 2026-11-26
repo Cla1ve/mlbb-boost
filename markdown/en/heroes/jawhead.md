@@ -1,6 +1,6 @@
 ---
 title: "Jawhead MLBB: build, counters and skills | MLBB Boost"
-description: "Jawhead in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.51% win rate, tier C."
+description: "Jawhead in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.53% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/jawhead.html
 language: en
 ---
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -291,7 +291,7 @@ Jawhead charges into the target enemy hero, dealing 350 (+150% Total Physical At
 
 Beat this hero
 
-[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ### Easy targets
 
@@ -313,11 +313,11 @@ This hero beats them
 
 Who counters Jawhead in MLBB?
 
-Over the last 30 days the toughest opponents are Arlott, Nolan, Saber, Granger and Valentina.
+Over the last 30 days the toughest opponents are Arlott, Nolan, Saber, Granger and Helcurt.
 
 What is Jawhead’s win rate right now?
 
-47.51% at Mythical Glory over the last 7 days and 47.90% across all ranks over 30 days, as of 25 November 2026.
+47.53% at Mythical Glory over the last 7 days and 47.91% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Jawhead play?
 

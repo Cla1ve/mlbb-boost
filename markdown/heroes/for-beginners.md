@@ -13,67 +13,13 @@ language: ru
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Новичку проще начинать с героев, у которых в игре сложность от 10 до 30 из 100. Таких героев 43, и у 34 из них в Эпике и Легенде не меньше 49% побед. Лучше всех выигрывают Маша, Марсель и Белерик.
+Новичку проще начинать с героев, у которых в игре сложность от 10 до 30 из 100. Таких героев 43, и у 34 из них в Эпике и Легенде не меньше 49% побед. Лучше всех выигрывают Марсель, Маша и Белерик.
 
 ## Три героя для старта
 
-[![](/images/heroes/art/masha.webp)](https://boostmlbb.ru/heroes/masha.html)
-
-1
-
-### [Маша](https://boostmlbb.ru/heroes/masha.html)
-
-S
-
-Победы, Эпик
-
-54,6%
-
-Победы, Легенда
-
-57,9%
-
-Сложность
-
-30
-
-[
-
-![](/images/mlbb/items/2212.webp)
-
-Штормовой пояс
-
-
-
-](https://boostmlbb.ru/items/thunder-belt.html)[
-
-![](/images/mlbb/items/2008.webp)
-
-Коса коррозии
-
-
-
-](https://boostmlbb.ru/items/corrosion-scythe.html)[
-
-![](/images/mlbb/items/3202.webp)
-
-Защитный шлем
-
-
-
-](https://boostmlbb.ru/items/guardian-helmet.html)
-
-![](/images/mlbb/emblems/20003.webp)
-
-Эмблема танка
-
-![](/images/mlbb/spells/20070.webp)
-
-Окаменение
-
 [![](/images/heroes/art/marcel.webp)](https://boostmlbb.ru/heroes/marcel.html)
 
-2
+1
 
 ### [Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
@@ -125,6 +71,60 @@ S
 
 Восстановление
 
+[![](/images/heroes/art/masha.webp)](https://boostmlbb.ru/heroes/masha.html)
+
+2
+
+### [Маша](https://boostmlbb.ru/heroes/masha.html)
+
+S
+
+Победы, Эпик
+
+54,5%
+
+Победы, Легенда
+
+57,8%
+
+Сложность
+
+30
+
+[
+
+![](/images/mlbb/items/2212.webp)
+
+Штормовой пояс
+
+
+
+](https://boostmlbb.ru/items/thunder-belt.html)[
+
+![](/images/mlbb/items/2008.webp)
+
+Коса коррозии
+
+
+
+](https://boostmlbb.ru/items/corrosion-scythe.html)[
+
+![](/images/mlbb/items/3202.webp)
+
+Защитный шлем
+
+
+
+](https://boostmlbb.ru/items/guardian-helmet.html)
+
+![](/images/mlbb/emblems/20003.webp)
+
+Эмблема танка
+
+![](/images/mlbb/spells/20070.webp)
+
+Окаменение
+
 [![](/images/heroes/art/belerick.webp)](https://boostmlbb.ru/heroes/belerick.html)
 
 3
@@ -139,7 +139,7 @@ S
 
 Победы, Легенда
 
-54,5%
+54,6%
 
 Сложность
 
@@ -185,14 +185,14 @@ S
 
 ### ![](/images/mlbb/filters/tank.webp)Простые танки
 
-1.  [![](/images/heroes/masha.webp)Маша56,3%](https://boostmlbb.ru/heroes/masha.html)
-2.  [![](/images/heroes/belerick.webp)Белерик55,2%](https://boostmlbb.ru/heroes/belerick.html)
+1.  [![](/images/heroes/masha.webp)Маша56,1%](https://boostmlbb.ru/heroes/masha.html)
+2.  [![](/images/heroes/belerick.webp)Белерик55,3%](https://boostmlbb.ru/heroes/belerick.html)
 3.  [![](/images/heroes/minotaur.webp)Минотавр54,4%](https://boostmlbb.ru/heroes/minotaur.html)
-4.  [![](/images/heroes/carmilla.webp)Кармилла54,4%](https://boostmlbb.ru/heroes/carmilla.html)
+4.  [![](/images/heroes/carmilla.webp)Кармилла54,3%](https://boostmlbb.ru/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Простые бойцы
 
-1.  [![](/images/heroes/masha.webp)Маша56,3%](https://boostmlbb.ru/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Маша56,1%](https://boostmlbb.ru/heroes/masha.html)
 2.  [![](/images/heroes/hilda.webp)Хильда54,2%](https://boostmlbb.ru/heroes/hilda.html)
 3.  [![](/images/heroes/minsitthar.webp)Минситтар53,2%](https://boostmlbb.ru/heroes/minsitthar.html)
 4.  [![](/images/heroes/silvanna.webp)Сильвана52,2%](https://boostmlbb.ru/heroes/silvanna.html)
@@ -206,7 +206,7 @@ S
 1.  [![](/images/heroes/valir.webp)Валир54,2%](https://boostmlbb.ru/heroes/valir.html)
 2.  [![](/images/heroes/gord.webp)Горд52,5%](https://boostmlbb.ru/heroes/gord.html)
 3.  [![](/images/heroes/zetian.webp)Цзэтянь51,5%](https://boostmlbb.ru/heroes/zetian.html)
-4.  [![](/images/heroes/vale.webp)Вэйл51,1%](https://boostmlbb.ru/heroes/vale.html)
+4.  [![](/images/heroes/vale.webp)Вэйл51,2%](https://boostmlbb.ru/heroes/vale.html)
 
 ### ![](/images/mlbb/filters/marksman.webp)Простые стрелки
 
@@ -220,7 +220,7 @@ S
 1.  [![](/images/heroes/marcel.webp)Марсель56,2%](https://boostmlbb.ru/heroes/marcel.html)
 2.  [![](/images/heroes/floryn.webp)Флорин55,0%](https://boostmlbb.ru/heroes/floryn.html)
 3.  [![](/images/heroes/minotaur.webp)Минотавр54,4%](https://boostmlbb.ru/heroes/minotaur.html)
-4.  [![](/images/heroes/carmilla.webp)Кармилла54,4%](https://boostmlbb.ru/heroes/carmilla.html)
+4.  [![](/images/heroes/carmilla.webp)Кармилла54,3%](https://boostmlbb.ru/heroes/carmilla.html)
 
 ## Простые и сильные герои
 
@@ -238,18 +238,6 @@ S
 
 Выбор
 
-[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
-
-танк, боец
-
-30
-
-54,6%
-
-57,9%
-
-0,5%
-
 [![](/images/heroes/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
 поддержка
@@ -262,6 +250,18 @@ S
 
 0,3%
 
+[![](/images/heroes/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
+
+танк, боец
+
+30
+
+54,5%
+
+57,8%
+
+0,5%
+
 [![](/images/heroes/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)
 
 танк
@@ -270,7 +270,7 @@ S
 
 56,0%
 
-54,5%
+54,6%
 
 1,7%
 
@@ -292,7 +292,7 @@ S
 
 30
 
-54,0%
+53,9%
 
 54,9%
 
@@ -304,9 +304,9 @@ S
 
 10
 
-54,2%
+54,1%
 
-54,6%
+54,5%
 
 1,3%
 
@@ -352,7 +352,7 @@ S
 
 30
 
-53,9%
+54,0%
 
 53,4%
 
@@ -378,7 +378,7 @@ S
 
 52,4%
 
-52,7%
+52,6%
 
 0,6%
 
@@ -388,11 +388,11 @@ S
 
 30
 
-51,8%
+51,7%
 
 52,8%
 
-2,2%
+2,1%
 
 [![](/images/heroes/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)
 
@@ -416,7 +416,7 @@ S
 
 52,4%
 
-0,8%
+0,7%
 
 [![](/images/heroes/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)
 
@@ -462,7 +462,7 @@ S
 
 51,7%
 
-50,8%
+50,9%
 
 0,3%
 
@@ -486,7 +486,7 @@ S
 
 51,5%
 
-50,8%
+50,9%
 
 0,5%
 
@@ -520,9 +520,9 @@ S
 
 30
 
-50,7%
+50,6%
 
-51,3%
+51,2%
 
 0,8%
 
@@ -580,7 +580,7 @@ S
 
 10
 
-50,1%
+50,2%
 
 49,8%
 
@@ -594,7 +594,7 @@ S
 
 49,5%
 
-50,2%
+50,1%
 
 1,8%
 
@@ -717,7 +717,7 @@ S
 
 Какой герой самый простой в Mobile Legends?
 
-Сложность 10 из 100 у 11 героев. Среди простых лучше всех выигрывают в Эпике и Легенде Маша, Марсель и Белерик.
+Сложность 10 из 100 у 11 героев. Среди простых лучше всех выигрывают в Эпике и Легенде Марсель, Маша и Белерик.
 
 Какая роль проще для новичка?
 

@@ -43,8 +43,8 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **50,8%**![](/images/ranks/Epic.webp)Эпик
-2.  **50,4%**![](/images/ranks/Legend.webp)Легенда
+1.  **50,9%**![](/images/ranks/Epic.webp)Эпик
+2.  **50,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,0%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава

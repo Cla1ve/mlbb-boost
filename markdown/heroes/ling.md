@@ -1,6 +1,6 @@
 ---
 title: "Линг MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Линг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 51,79% побед, тир B."
+description: "Линг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 51,77% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/ling.html
 language: ru
 ---
@@ -25,7 +25,7 @@ B
 
 Баны
 
-0,6%
+0,7%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ B
 
 1.  **54,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **53,8%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,1%**![](/images/ranks/Mythic.webp)Мифик
+3.  **53,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -58,7 +58,7 @@ B
 ### Места в рейтингах
 
 -   [Лучшие лесники MLBB**14 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
--   [Лучшие убийцы MLBB**12 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
+-   [Лучшие убийцы MLBB**11 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
 ## Сборка
 
@@ -303,7 +303,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
 
 ## История
 
@@ -323,7 +323,7 @@ B
 
 Какой процент побед у героя «Линг» сейчас?
 
-51,79% в Мифической славе за последние 7 дней и 52,52% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,77% в Мифической славе за последние 7 дней и 52,51% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Линг»?
 
@@ -331,7 +331,7 @@ B
 
 Силён ли герой «Линг» в текущей мете?
 
-Тир B, 62-е место из 133 героев и 12-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,6% матчей, 51,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 61-е место из 133 героев и 11-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 51,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Линг» лучшая?
 

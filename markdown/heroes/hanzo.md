@@ -1,6 +1,6 @@
 ---
 title: "Ханзо MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ханзо в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,31% побед, тир C."
+description: "Ханзо в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,28% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/hanzo.html
 language: ru
 ---
@@ -301,7 +301,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ## История
 
@@ -321,7 +321,7 @@ C
 
 Какой процент побед у героя «Ханзо» сейчас?
 
-49,31% в Мифической славе за последние 7 дней и 49,91% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,28% в Мифической славе за последние 7 дней и 49,91% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Ханзо»?
 

@@ -1,6 +1,6 @@
 ---
 title: "Brody MLBB: build, counters and skills | MLBB Boost"
-description: "Brody in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 49.91% win rate, tier B."
+description: "Brody in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 49.90% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/brody.html
 language: en
 ---
@@ -322,7 +322,7 @@ Over the last 30 days the toughest opponents are Karina, Belerick, Irithel, Nata
 
 What is Brody’s win rate right now?
 
-49.91% at Mythical Glory over the last 7 days and 49.98% across all ranks over 30 days, as of 25 November 2026.
+49.90% at Mythical Glory over the last 7 days and 49.98% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Brody play?
 

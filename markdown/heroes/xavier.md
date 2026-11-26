@@ -1,6 +1,6 @@
 ---
 title: "Ксавьер MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ксавьер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 53,46% побед, тир B."
+description: "Ксавьер в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 53,39% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/xavier.html
 language: ru
 ---
@@ -17,7 +17,7 @@ B
 
 Победы
 
-53,5%
+53,4%
 
 Выбор
 
@@ -25,7 +25,7 @@ B
 
 Баны
 
-1,3%
+1,4%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -44,7 +44,7 @@ B
 ### Победы по рангам, 30 дней
 
 1.  **48,7%**![](/images/ranks/Epic.webp)Эпик
-2.  **49,4%**![](/images/ranks/Legend.webp)Легенда
+2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **51,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **52,8%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -297,7 +297,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)
 
 ### Слабые цели
 
@@ -319,11 +319,11 @@ B
 
 Кто контрпик для героя «Ксавьер» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Пополь и Купа, Белерик, Атлас, Глу и Кармилла.
+За последние 30 дней чаще всего героя обыгрывают Белерик, Пополь и Купа, Атлас, Глу и Кармилла.
 
 Какой процент побед у героя «Ксавьер» сейчас?
 
-53,46% в Мифической славе за последние 7 дней и 51,87% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+53,39% в Мифической славе за последние 7 дней и 51,95% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Ксавьер»?
 
@@ -331,7 +331,7 @@ B
 
 Силён ли герой «Ксавьер» в текущей мете?
 
-Тир B, 37-е место из 133 героев и 10-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,3% матчей, 53,5% побед. В профессиональных матчах за месяц героя драфтуют в 1,0% катков.
+Тир B, 37-е место из 133 героев и 10-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,4% матчей, 53,4% побед. В профессиональных матчах за месяц героя драфтуют в 1,0% катков.
 
 Какая сборка на героя «Ксавьер» лучшая?
 

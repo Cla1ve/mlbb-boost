@@ -1,6 +1,6 @@
 ---
 title: "Hanabi MLBB: build, counters and skills | MLBB Boost"
-description: "Hanabi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.35% win rate, tier B."
+description: "Hanabi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.40% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/hanabi.html
 language: en
 ---
@@ -45,9 +45,9 @@ Ban rate
 
 1.  **54.4%**![](/images/ranks/Epic.webp)Epic
 2.  **53.9%**![](/images/ranks/Legend.webp)Legend
-3.  **53.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **51.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -298,7 +298,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Lore
 
@@ -318,7 +318,7 @@ Over the last 30 days the toughest opponents are Saber, Popol and Kupa, Moskov, 
 
 What is Hanabi’s win rate right now?
 
-51.35% at Mythical Glory over the last 7 days and 52.68% across all ranks over 30 days, as of 25 November 2026.
+51.40% at Mythical Glory over the last 7 days and 52.70% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hanabi play?
 

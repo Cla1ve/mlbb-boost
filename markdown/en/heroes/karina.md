@@ -1,6 +1,6 @@
 ---
 title: "Karina MLBB: build, counters and skills | MLBB Boost"
-description: "Karina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.20% win rate, tier B."
+description: "Karina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.16% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/karina.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-4.6%
+4.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -44,9 +44,9 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **50.0%**![](/images/ranks/Epic.webp)Epic
-2.  **49.0%**![](/images/ranks/Legend.webp)Legend
-3.  **49.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+2.  **49.1%**![](/images/ranks/Legend.webp)Legend
+3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.4%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -327,7 +327,7 @@ Over the last 30 days the toughest opponents are Natalia, Kimmy, Marcel, Ling an
 
 What is Karina’s win rate right now?
 
-49.20% at Mythical Glory over the last 7 days and 48.70% across all ranks over 30 days, as of 25 November 2026.
+49.16% at Mythical Glory over the last 7 days and 48.74% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Karina play?
 
@@ -335,7 +335,7 @@ Assassin, played in the jungle.
 
 Is Karina strong in the current meta?
 
-Tier B, #64 of 133 heroes and #14 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.6% of matches, 49.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #64 of 133 heroes and #14 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.7% of matches, 49.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Karina?
 

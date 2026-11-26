@@ -1,6 +1,6 @@
 ---
 title: "Selena MLBB: build, counters and skills | MLBB Boost"
-description: "Selena in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.34% win rate, tier A."
+description: "Selena in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.32% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/selena.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-3.7%
+3.6%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.2%**![](/images/ranks/Epic.webp)Epic
+1.  **50.3%**![](/images/ranks/Epic.webp)Epic
 2.  **48.9%**![](/images/ranks/Legend.webp)Legend
 3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -304,13 +304,13 @@ Cooldown **5.5 s**
 
 Beat this hero
 
-[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
@@ -326,11 +326,11 @@ This hero beats them
 
 Who counters Selena in MLBB?
 
-Over the last 30 days the toughest opponents are Benedetta, Ixia, X.Borg, Beatrix and Yve.
+Over the last 30 days the toughest opponents are Benedetta, Ixia, X.Borg, Beatrix and Yin.
 
 What is Selena’s win rate right now?
 
-48.34% at Mythical Glory over the last 7 days and 48.39% across all ranks over 30 days, as of 25 November 2026.
+48.32% at Mythical Glory over the last 7 days and 48.42% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Selena play?
 
@@ -338,7 +338,7 @@ Assassin and mage, played in the Mid Lane.
 
 Is Selena strong in the current meta?
 
-Tier A, #25 of 133 heroes and #4 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.7% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 32.9% of them.
+Tier A, #25 of 133 heroes and #4 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.6% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 32.9% of them.
 
 What is the best build for Selena?
 

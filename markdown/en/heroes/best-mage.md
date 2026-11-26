@@ -13,7 +13,7 @@ language: en
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Alice, Esmeralda and Kimmy lead the mages right now. Alice wins 50.3% of Mythical Glory games over 7 days and is banned in 8.2% of them. The list has 32 heroes, 8 of them in tier S or A.
+Alice, Esmeralda and Kimmy lead the mages right now. Alice wins 50.3% of Mythical Glory games over 7 days and is banned in 8.3% of them. The list has 32 heroes, 8 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -35,7 +35,7 @@ Pick rate
 
 Ban rate
 
-8.2%
+8.3%
 
 [
 
@@ -143,7 +143,7 @@ Pick rate
 
 Ban rate
 
-0.6%
+0.5%
 
 [
 
@@ -207,7 +207,7 @@ A
 
 1.0%
 
-8.2%
+8.3%
 
 57.7%
 
@@ -235,7 +235,7 @@ A
 
 0.9%
 
-0.6%
+0.5%
 
 73.1%
 
@@ -247,9 +247,9 @@ A
 
 50.2%
 
-1.7%
+1.6%
 
-33.7%
+33.4%
 
 24.7%
 
@@ -259,11 +259,11 @@ A
 
 A
 
-49.4%
+49.5%
 
 0.3%
 
-0.6%
+0.5%
 
 73.9%
 
@@ -277,7 +277,7 @@ A
 
 1.3%
 
-3.9%
+4.0%
 
 40.7%
 
@@ -287,7 +287,7 @@ A
 
 A
 
-50.0%
+50.1%
 
 1.9%
 
@@ -305,7 +305,7 @@ A
 
 1.4%
 
-3.7%
+3.6%
 
 32.9%
 
@@ -329,11 +329,11 @@ B
 
 B
 
-53.5%
+53.4%
 
 1.8%
 
-1.3%
+1.4%
 
 1.0%
 
@@ -371,7 +371,7 @@ B
 
 B
 
-44.7%
+44.6%
 
 0.2%
 
@@ -413,7 +413,7 @@ B
 
 B
 
-51.2%
+51.1%
 
 0.9%
 
@@ -441,7 +441,7 @@ C
 
 C
 
-48.7%
+48.6%
 
 0.2%
 
@@ -483,7 +483,7 @@ C
 
 C
 
-51.8%
+51.7%
 
 0.1%
 
@@ -497,7 +497,7 @@ C
 
 C
 
-52.0%
+51.9%
 
 0.5%
 
@@ -549,11 +549,11 @@ C
 
 26
 
-[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
+[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
 C
 
-51.5%
+51.7%
 
 0.3%
 
@@ -563,7 +563,7 @@ C
 
 27
 
-[![](/images/heroes/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
+[![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
 C
 
@@ -581,7 +581,7 @@ C
 
 C
 
-48.8%
+48.9%
 
 0.3%
 
@@ -595,7 +595,7 @@ C
 
 D
 
-50.7%
+50.6%
 
 0.1%
 
@@ -623,7 +623,7 @@ C
 
 D
 
-46.7%
+46.6%
 
 0.2%
 
@@ -639,7 +639,7 @@ D
 
 46.2%
 
-0.2%
+0.1%
 
 0.0%
 
@@ -662,7 +662,7 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 
 1.  [![](/images/heroes/valir.webp)Valir54.4%](https://boostmlbb.ru/en/heroes/valir.html)
 2.  [![](/images/heroes/zhask.webp)Zhask53.3%](https://boostmlbb.ru/en/heroes/zhask.html)
-3.  [![](/images/heroes/gord.webp)Gord52.9%](https://boostmlbb.ru/en/heroes/gord.html)
+3.  [![](/images/heroes/gord.webp)Gord52.8%](https://boostmlbb.ru/en/heroes/gord.html)
 4.  [![](/images/heroes/cyclops.webp)Cyclops52.4%](https://boostmlbb.ru/en/heroes/cyclops.html)
 5.  [![](/images/heroes/zetian.webp)Zetian52.1%](https://boostmlbb.ru/en/heroes/zetian.html)
 6.  [![](/images/heroes/bane.webp)Bane51.5%](https://boostmlbb.ru/en/heroes/bane.html)
@@ -686,7 +686,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best mage in MLBB right now?
 
-Alice: tier A, 50.3% win rate, banned in 8.2% of Mythical Glory games over 7 days. Esmeralda and Kimmy follow. Data as of 25 November 2026.
+Alice: tier A, 50.3% win rate, banned in 8.3% of Mythical Glory games over 7 days. Esmeralda and Kimmy follow. Data as of 25 November 2026.
 
 Which of the mages should a beginner pick?
 
@@ -694,7 +694,7 @@ Zetian, Vexana and Vale are the easiest to play: their difficulty on the in-game
 
 Which mages get banned most?
 
-Eudora (33.7%), Alice (8.2%) and Valir (3.9%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Eudora (33.4%), Alice (8.3%) and Valir (4.0%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many mages are there in Mobile Legends?
 

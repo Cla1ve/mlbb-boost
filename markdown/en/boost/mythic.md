@@ -33,7 +33,7 @@ Total**6,250 ₽**
 
 **about 6 h**median Mythic order
 
-**1,321**reviews on Telegram
+**1,324**reviews on Telegram
 
 **120 ₽**per Mythic star
 
@@ -144,7 +144,7 @@ V
 
 Booster
 
-VlapTzy
+VenomSkie.
 
 Verified booster
 
@@ -152,19 +152,47 @@ Verified booster
 
 Client rating
 
-Standard
+On a hero
 
-StartМифический бессмертный, 110⭐
+StartМифическая честь, 26⭐
 
-TargetМифический бессмертный, 115⭐
+TargetМифическая честь, 45⭐
 
-влапзи могнул
+Спасибо за буст
 
-Time3ч 22м после оплаты
+HeroОбсидия
+
+Time12ч 33м после оплаты
+
+26 November 2026
+
+[Open review](https://t.me/Cla1ve_boost/2300)
+
+C
+
+Booster
+
+Chenger
+
+Verified booster
+
+★★★★★
+
+Client rating
+
+In a party
+
+StartМифический бессмертный, 508⭐
+
+TargetМифический бессмертный, 513⭐
+
+Все быстро и четко
+
+Time1ч 45м после оплаты
 
 25 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2296)
+[Open review](https://t.me/Cla1ve_boost/2299)
 
 Т
 
@@ -191,34 +219,6 @@ Time1ч 55м после оплаты
 24 November 2026
 
 [Open review](https://t.me/Cla1ve_boost/2291)
-
-K
-
-Booster
-
-Kris
-
-Verified booster
-
-★★★★★
-
-Client rating
-
-On a hero
-
-StartМифическая честь, 44⭐
-
-TargetМифическая слава, 51⭐
-
-Гууууд, быстрее вышло чем думал даже
-
-HeroЛилия
-
-Time2ч 40м после оплаты
-
-24 November 2026
-
-[Open review](https://t.me/Cla1ve_boost/2287)
 
 ## Price your route
 

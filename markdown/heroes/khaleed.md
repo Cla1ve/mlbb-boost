@@ -1,6 +1,6 @@
 ---
 title: "Халид MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Халид в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,87% побед, тир D."
+description: "Халид в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,89% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/khaleed.html
 language: ru
 ---
@@ -46,14 +46,14 @@ D
 1.  **52,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,0%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,2%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,5%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **51,3%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **48,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -323,7 +323,7 @@ D
 
 Какой процент побед у героя «Халид» сейчас?
 
-48,87% в Мифической славе за последние 7 дней и 50,29% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,89% в Мифической славе за последние 7 дней и 50,26% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Халид»?
 

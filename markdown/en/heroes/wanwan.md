@@ -1,6 +1,6 @@
 ---
 title: "Wanwan MLBB: build, counters and skills | MLBB Boost"
-description: "Wanwan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 47.07% win rate, tier D."
+description: "Wanwan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 47.11% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/wanwan.html
 language: en
 ---
@@ -43,9 +43,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **45.8%**![](/images/ranks/Epic.webp)Epic
-2.  **48.1%**![](/images/ranks/Legend.webp)Legend
-3.  **48.1%**![](/images/ranks/Mythic.webp)Mythic
+1.  **45.7%**![](/images/ranks/Epic.webp)Epic
+2.  **48.0%**![](/images/ranks/Legend.webp)Legend
+3.  **48.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -343,7 +343,7 @@ Over the last 30 days the toughest opponents are Yin, Ixia, Atlas, Guinevere and
 
 What is Wanwan’s win rate right now?
 
-47.07% at Mythical Glory over the last 7 days and 47.55% across all ranks over 30 days, as of 25 November 2026.
+47.11% at Mythical Glory over the last 7 days and 47.52% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Wanwan play?
 

@@ -321,7 +321,7 @@ Over the last 30 days the toughest opponents are Saber, Chip, Moskov, Khufra and
 
 What is Martis’s win rate right now?
 
-47.44% at Mythical Glory over the last 7 days and 47.22% across all ranks over 30 days, as of 25 November 2026.
+47.44% at Mythical Glory over the last 7 days and 47.21% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Martis play?
 

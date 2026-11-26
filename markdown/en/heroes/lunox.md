@@ -1,6 +1,6 @@
 ---
 title: "Lunox MLBB: build, counters and skills | MLBB Boost"
-description: "Lunox in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.92% win rate, tier B."
+description: "Lunox in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.90% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lunox.html
 language: en
 ---
@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **49.8%**![](/images/ranks/Epic.webp)Epic
-2.  **49.9%**![](/images/ranks/Legend.webp)Legend
-3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+1.  **50.0%**![](/images/ranks/Epic.webp)Epic
+2.  **50.1%**![](/images/ranks/Legend.webp)Legend
+3.  **50.4%**![](/images/ranks/Mythic.webp)Mythic
+4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -313,7 +313,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
 
 ## Lore
 
@@ -333,7 +333,7 @@ Over the last 30 days the toughest opponents are Gloo, Kaja, Wanwan, Esmeralda a
 
 What is Lunox’s win rate right now?
 
-51.92% at Mythical Glory over the last 7 days and 50.85% across all ranks over 30 days, as of 25 November 2026.
+51.90% at Mythical Glory over the last 7 days and 50.95% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Lunox play?
 

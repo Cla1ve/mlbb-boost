@@ -1,6 +1,6 @@
 ---
 title: "Kadita MLBB: build, counters and skills | MLBB Boost"
-description: "Kadita in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 51.18% win rate, tier B."
+description: "Kadita in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 51.14% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kadita.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-51.2%
+51.1%
 
 Pick rate
 
@@ -58,7 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB mages**16 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB assassins**11 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
+-   [Best MLBB assassins**12 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 -   [Best MLBB mid laners**14 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
@@ -261,7 +261,7 @@ Over the last 30 days the toughest opponents are Lolita, Ixia, Johnson, Silvanna
 
 What is Kadita’s win rate right now?
 
-51.18% at Mythical Glory over the last 7 days and 51.26% across all ranks over 30 days, as of 25 November 2026.
+51.14% at Mythical Glory over the last 7 days and 51.23% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Kadita play?
 
@@ -269,7 +269,7 @@ Assassin and mage, played in the Mid Lane.
 
 Is Kadita strong in the current meta?
 
-Tier B, #61 of 133 heroes and #11 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 51.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #62 of 133 heroes and #12 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 51.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Kadita?
 

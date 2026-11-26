@@ -1,6 +1,6 @@
 ---
 title: "Hayabusa MLBB: build, counters and skills | MLBB Boost"
-description: "Hayabusa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 48.36% win rate, tier C."
+description: "Hayabusa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 48.39% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hayabusa.html
 language: en
 ---
@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **47.4%**![](/images/ranks/Epic.webp)Epic
-2.  **47.9%**![](/images/ranks/Legend.webp)Legend
+2.  **47.8%**![](/images/ranks/Legend.webp)Legend
 3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -295,7 +295,7 @@ The attacks prioritize enemies with Shadow Mark and each will consume a mark to 
 
 Beat this hero
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)
 
 ### Easy targets
 
@@ -317,11 +317,11 @@ This hero beats them
 
 Who counters Hayabusa in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Yve, Zhuxin, Nolan and X.Borg.
+Over the last 30 days the toughest opponents are Aamon, Yve, Zhuxin, Nolan and Karrie.
 
 What is Hayabusa’s win rate right now?
 
-48.36% at Mythical Glory over the last 7 days and 48.16% across all ranks over 30 days, as of 25 November 2026.
+48.39% at Mythical Glory over the last 7 days and 48.17% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hayabusa play?
 

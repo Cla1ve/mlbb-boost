@@ -1,6 +1,6 @@
 ---
 title: "Hilda MLBB: build, counters and skills | MLBB Boost"
-description: "Hilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 48.66% win rate, tier C."
+description: "Hilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 48.67% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hilda.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-3.9%
+4.0%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,7 +46,7 @@ Ban rate
 1.  **54.9%**![](/images/ranks/Epic.webp)Epic
 2.  **53.5%**![](/images/ranks/Legend.webp)Legend
 3.  **52.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **49.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **47.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -320,7 +320,7 @@ Over the last 30 days the toughest opponents are Granger, Yin, Helcurt, Harley a
 
 What is Hilda’s win rate right now?
 
-48.66% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 25 November 2026.
+48.67% at Mythical Glory over the last 7 days and 51.07% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hilda play?
 
@@ -328,7 +328,7 @@ Tank and fighter, played in the EXP Lane or on roam.
 
 Is Hilda strong in the current meta?
 
-Tier C, #77 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.9% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 3.5% of them.
+Tier C, #77 of 133 heroes and #14 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.0% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 3.5% of them.
 
 What is the best build for Hilda?
 

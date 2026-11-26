@@ -1,6 +1,6 @@
 ---
 title: "Селена MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Селена в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и маг, 48,34% побед, тир A."
+description: "Селена в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и маг, 48,32% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/selena.html
 language: ru
 ---
@@ -25,7 +25,7 @@ A
 
 Баны
 
-3,7%
+3,6%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,10 +43,10 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **50,2%**![](/images/ranks/Epic.webp)Эпик
+1.  **50,3%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,7%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **48,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -304,13 +304,13 @@ A
 
 Побеждают этого героя
 
-[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
@@ -326,11 +326,11 @@ A
 
 Кто контрпик для героя «Селена» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Бенедетта, Иксия, Икс.Борг, Беатрис и Ив.
+За последние 30 дней чаще всего героя обыгрывают Бенедетта, Иксия, Икс.Борг, Беатрис и Инь.
 
 Какой процент побед у героя «Селена» сейчас?
 
-48,34% в Мифической славе за последние 7 дней и 48,39% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,32% в Мифической славе за последние 7 дней и 48,42% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Селена»?
 
@@ -338,7 +338,7 @@ A
 
 Силён ли герой «Селена» в текущей мете?
 
-Тир A, 25-е место из 133 героев и 4-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,7% матчей, 48,3% побед. В профессиональных матчах за месяц героя драфтуют в 32,9% катков.
+Тир A, 25-е место из 133 героев и 4-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 3,6% матчей, 48,3% побед. В профессиональных матчах за месяц героя драфтуют в 32,9% катков.
 
 Какая сборка на героя «Селена» лучшая?
 

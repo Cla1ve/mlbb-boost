@@ -1,6 +1,6 @@
 ---
 title: "Чу MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 44,67% побед, тир B."
+description: "Чу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 44,65% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/chou.html
 language: ru
 ---
@@ -17,7 +17,7 @@ B
 
 Победы
 
-44,7%
+44,6%
 
 Выбор
 
@@ -53,7 +53,7 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -313,7 +313,7 @@ B
 
 Какой процент побед у героя «Чу» сейчас?
 
-44,67% в Мифической славе за последние 7 дней и 45,10% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+44,65% в Мифической славе за последние 7 дней и 45,09% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Чу»?
 
@@ -321,7 +321,7 @@ B
 
 Силён ли герой «Чу» в текущей мете?
 
-Тир B, 47-е место из 133 героев и 14-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 44,7% побед. В профессиональных матчах за месяц героя драфтуют в 24,4% катков.
+Тир B, 47-е место из 133 героев и 14-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 44,6% побед. В профессиональных матчах за месяц героя драфтуют в 24,4% катков.
 
 Какая сборка на героя «Чу» лучшая?
 

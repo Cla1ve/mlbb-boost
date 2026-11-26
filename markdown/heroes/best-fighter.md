@@ -1,6 +1,6 @@
 ---
 title: "Лучшие бойцы MLBB: рейтинг на ноябрь 2026 | MLBB Boost"
-description: "Рейтинг бойцов Mobile Legends на ноябрь 2026: победы, выбор и баны, профессиональные драфты, частые сборки и контрпики. Лидируют Маша, Калеа и Фрейя."
+description: "Рейтинг бойцов Mobile Legends на ноябрь 2026: победы, выбор и баны, профессиональные драфты, частые сборки и контрпики. Лидируют Маша, Фрейя и Калеа."
 canonical: https://boostmlbb.ru/heroes/best-fighter.html
 language: ru
 ---
@@ -13,7 +13,7 @@ language: ru
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди бойцов сейчас лидируют Маша, Калеа и Фрейя. Маша: 58,8% побед и бан в 67,5% матчей Мифической славы за 7 дней. В списке 44 героя, из них 7 в тире S или A.
+Среди бойцов сейчас лидируют Маша, Фрейя и Калеа. Маша: 58,8% побед и бан в 67,2% матчей Мифической славы за 7 дней. В списке 44 героя, из них 7 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -35,7 +35,7 @@ S
 
 Баны
 
-67,5%
+67,2%
 
 [
 
@@ -71,9 +71,63 @@ S
 
 Окаменение
 
-[![](/images/heroes/art/kalea.webp)](https://boostmlbb.ru/heroes/kalea.html)
+[![](/images/heroes/art/freya.webp)](https://boostmlbb.ru/heroes/freya.html)
 
 2
+
+### [Фрейя](https://boostmlbb.ru/heroes/freya.html)
+
+S
+
+Победы
+
+51,8%
+
+Выбор
+
+1,3%
+
+Баны
+
+11,5%
+
+[
+
+![](/images/mlbb/items/2009.webp)
+
+Золотой посох
+
+
+
+](https://boostmlbb.ru/items/golden-staff.html)[
+
+![](/images/mlbb/items/2013.webp)
+
+Топор войны
+
+
+
+](https://boostmlbb.ru/items/war-axe.html)[
+
+![](/images/mlbb/items/3012.webp)
+
+Золотой метеор
+
+
+
+](https://boostmlbb.ru/items/rose-gold-meteor.html)
+
+![](/images/mlbb/emblems/20007.webp)
+
+Эмблема бойца
+
+![](/images/mlbb/spells/20190.webp)
+
+Месть
+
+[![](/images/heroes/art/kalea.webp)](https://boostmlbb.ru/heroes/kalea.html)
+
+3
 
 ### [Калеа](https://boostmlbb.ru/heroes/kalea.html)
 
@@ -81,7 +135,7 @@ S
 
 Победы
 
-51,7%
+51,8%
 
 Выбор
 
@@ -125,60 +179,6 @@ S
 
 Вспышка
 
-[![](/images/heroes/art/freya.webp)](https://boostmlbb.ru/heroes/freya.html)
-
-3
-
-### [Фрейя](https://boostmlbb.ru/heroes/freya.html)
-
-S
-
-Победы
-
-51,8%
-
-Выбор
-
-1,3%
-
-Баны
-
-11,4%
-
-[
-
-![](/images/mlbb/items/2009.webp)
-
-Золотой посох
-
-
-
-](https://boostmlbb.ru/items/golden-staff.html)[
-
-![](/images/mlbb/items/2013.webp)
-
-Топор войны
-
-
-
-](https://boostmlbb.ru/items/war-axe.html)[
-
-![](/images/mlbb/items/3012.webp)
-
-Золотой метеор
-
-
-
-](https://boostmlbb.ru/items/rose-gold-meteor.html)
-
-![](/images/mlbb/emblems/20007.webp)
-
-Эмблема бойца
-
-![](/images/mlbb/spells/20190.webp)
-
-Месть
-
 ## Все бойцы по рейтингу
 
 Мифическая слава, 7 дней. «Турниры»: доля профессиональных катков за месяц, где героя взяли или забанили.
@@ -207,25 +207,11 @@ S
 
 0,7%
 
-67,5%
+67,2%
 
 100,0%
 
 2
-
-[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)
-
-S
-
-51,7%
-
-0,9%
-
-14,6%
-
-99,7%
-
-3
 
 [![](/images/heroes/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)
 
@@ -235,9 +221,23 @@ S
 
 1,3%
 
-11,4%
+11,5%
 
 98,4%
+
+3
+
+[![](/images/heroes/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)
+
+S
+
+51,8%
+
+0,9%
+
+14,6%
+
+99,7%
 
 4
 
@@ -245,11 +245,11 @@ S
 
 S
 
-53,0%
+53,1%
 
 0,8%
 
-21,1%
+19,8%
 
 77,8%
 
@@ -263,7 +263,7 @@ A
 
 1,4%
 
-10,8%
+10,7%
 
 69,3%
 
@@ -277,7 +277,7 @@ B
 
 1,5%
 
-57,8%
+58,5%
 
 —
 
@@ -291,7 +291,7 @@ A
 
 0,7%
 
-3,1%
+3,0%
 
 42,2%
 
@@ -305,7 +305,7 @@ A
 
 0,9%
 
-32,0%
+30,8%
 
 2,9%
 
@@ -319,7 +319,7 @@ B
 
 1,6%
 
-1,8%
+1,9%
 
 25,3%
 
@@ -385,7 +385,7 @@ B
 
 B
 
-44,7%
+44,6%
 
 1,0%
 
@@ -413,7 +413,7 @@ B
 
 B
 
-51,4%
+51,3%
 
 1,0%
 
@@ -441,11 +441,11 @@ B
 
 B
 
-48,1%
+48,0%
 
 0,7%
 
-0,8%
+0,9%
 
 12,5%
 
@@ -459,7 +459,7 @@ B
 
 0,3%
 
-0,4%
+0,5%
 
 18,3%
 
@@ -501,7 +501,7 @@ C
 
 0,4%
 
-3,9%
+4,0%
 
 3,5%
 
@@ -553,7 +553,7 @@ C
 
 C
 
-48,2%
+48,1%
 
 0,8%
 
@@ -595,7 +595,7 @@ C
 
 C
 
-48,4%
+48,3%
 
 0,6%
 
@@ -647,20 +647,6 @@ C
 
 33
 
-[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
-
-C
-
-51,5%
-
-0,3%
-
-0,1%
-
-—
-
-34
-
 [![](/images/heroes/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
 
 C
@@ -672,6 +658,20 @@ C
 0,1%
 
 0,5%
+
+34
+
+[![](/images/heroes/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
+
+C
+
+51,6%
+
+0,3%
+
+0,1%
+
+—
 
 35
 
@@ -749,7 +749,7 @@ D
 
 C
 
-45,7%
+45,8%
 
 0,3%
 
@@ -809,7 +809,7 @@ C
 
 0,3%
 
-0,2%
+0,3%
 
 —
 
@@ -830,10 +830,10 @@ C
 
 1.  [![](/images/heroes/argus.webp)Аргус57,1%](https://boostmlbb.ru/heroes/argus.html)
 2.  [![](/images/heroes/hilda.webp)Хильда53,0%](https://boostmlbb.ru/heroes/hilda.html)
-3.  [![](/images/heroes/aulus.webp)Аулус52,9%](https://boostmlbb.ru/heroes/aulus.html)
-4.  [![](/images/heroes/minsitthar.webp)Минситтар52,7%](https://boostmlbb.ru/heroes/minsitthar.html)
+3.  [![](/images/heroes/aulus.webp)Аулус52,8%](https://boostmlbb.ru/heroes/aulus.html)
+4.  [![](/images/heroes/minsitthar.webp)Минситтар52,8%](https://boostmlbb.ru/heroes/minsitthar.html)
 5.  [![](/images/heroes/benedetta.webp)Бенедетта52,7%](https://boostmlbb.ru/heroes/benedetta.html)
-6.  [![](/images/heroes/aldous.webp)Алдос52,5%](https://boostmlbb.ru/heroes/aldous.html)
+6.  [![](/images/heroes/aldous.webp)Алдос52,6%](https://boostmlbb.ru/heroes/aldous.html)
 
 ## Кто обыгрывает бойцов
 
@@ -841,10 +841,10 @@ C
 
 1.  [![](/images/heroes/saber.webp)Сабер11 из 44](https://boostmlbb.ru/heroes/saber.html)
 2.  [![](/images/heroes/helcurt.webp)Хелкарт9 из 44](https://boostmlbb.ru/heroes/helcurt.html)
-3.  [![](/images/heroes/lolita.webp)Лолита7 из 44](https://boostmlbb.ru/heroes/lolita.html)
-4.  [![](/images/heroes/natalia.webp)Наталья7 из 44](https://boostmlbb.ru/heroes/natalia.html)
-5.  [![](/images/heroes/odette.webp)Одетта7 из 44](https://boostmlbb.ru/heroes/odette.html)
-6.  [![](/images/heroes/phoveus.webp)Фовиус7 из 44](https://boostmlbb.ru/heroes/phoveus.html)
+3.  [![](/images/heroes/natalia.webp)Наталья7 из 44](https://boostmlbb.ru/heroes/natalia.html)
+4.  [![](/images/heroes/odette.webp)Одетта7 из 44](https://boostmlbb.ru/heroes/odette.html)
+5.  [![](/images/heroes/phoveus.webp)Фовиус7 из 44](https://boostmlbb.ru/heroes/phoveus.html)
+6.  [![](/images/heroes/x-borg.webp)Икс.Борг7 из 44](https://boostmlbb.ru/heroes/x-borg.html)
 
 **Поднимем ранг на любом из бойцов**Цена считается в калькуляторе
 
@@ -854,7 +854,7 @@ C
 
 Кто лучший боец в MLBB сейчас?
 
-Маша: тир S, 58,8% побед, бан в 67,5% матчей Мифической славы за 7 дней. Следом идут Калеа и Фрейя. Данные на 25 ноября 2026 года.
+Маша: тир S, 58,8% побед, бан в 67,2% матчей Мифической славы за 7 дней. Следом идут Фрейя и Калеа. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди бойцов?
 
@@ -862,7 +862,7 @@ C
 
 Каких бойцов чаще всего банят?
 
-Маша (67,5%), Сан (57,8%) и Лукас (32,0%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Маша (67,2%), Сан (58,5%) и Лукас (30,8%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько бойцов в Mobile Legends?
 

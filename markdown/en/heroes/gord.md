@@ -1,6 +1,6 @@
 ---
 title: "Gord MLBB: build, counters and skills | MLBB Boost"
-description: "Gord in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 52.04% win rate, tier C."
+description: "Gord in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.93% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/gord.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-52.0%
+51.9%
 
 Pick rate
 
@@ -44,9 +44,9 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **52.4%**![](/images/ranks/Epic.webp)Epic
-2.  **52.7%**![](/images/ranks/Legend.webp)Legend
-3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+2.  **52.6%**![](/images/ranks/Legend.webp)Legend
+3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **52.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -317,7 +317,7 @@ Over the last 30 days the toughest opponents are Barats, Lolita, Fredrinn, Phove
 
 What is Gord’s win rate right now?
 
-52.04% at Mythical Glory over the last 7 days and 52.59% across all ranks over 30 days, as of 25 November 2026.
+51.93% at Mythical Glory over the last 7 days and 52.57% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Gord play?
 
@@ -325,7 +325,7 @@ Mage, played in the Mid Lane.
 
 Is Gord strong in the current meta?
 
-Tier C, #87 of 133 heroes and #22 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 52.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #88 of 133 heroes and #22 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Gord?
 

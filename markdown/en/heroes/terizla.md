@@ -1,6 +1,6 @@
 ---
 title: "Terizla MLBB: build, counters and skills | MLBB Boost"
-description: "Terizla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 49.89% win rate, tier C."
+description: "Terizla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 49.90% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/terizla.html
 language: en
 ---
@@ -47,7 +47,7 @@ Ban rate
 2.  **51.6%**![](/images/ranks/Legend.webp)Legend
 3.  **51.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -57,7 +57,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB fighters**34 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB fighters**33 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 -   [Best MLBB tanks**18 of 25**](https://boostmlbb.ru/en/heroes/best-tank.html)
 
 ## Build
@@ -295,7 +295,7 @@ Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) 
 
 Beat this hero
 
-[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
 ### Easy targets
 
@@ -317,11 +317,11 @@ This hero beats them
 
 Who counters Terizla in MLBB?
 
-Over the last 30 days the toughest opponents are Argus, Phoveus, Popol and Kupa, Odette and Lolita.
+Over the last 30 days the toughest opponents are Argus, Phoveus, Popol and Kupa, Baxia and Odette.
 
 What is Terizla’s win rate right now?
 
-49.89% at Mythical Glory over the last 7 days and 50.60% across all ranks over 30 days, as of 25 November 2026.
+49.90% at Mythical Glory over the last 7 days and 50.61% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Terizla play?
 
@@ -329,7 +329,7 @@ Tank and fighter, played in the EXP Lane.
 
 Is Terizla strong in the current meta?
 
-Tier C, #108 of 133 heroes and #18 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
+Tier C, #106 of 133 heroes and #18 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.5% of them.
 
 What is the best build for Terizla?
 

@@ -56,8 +56,8 @@ Queen's Wings
 -   [![](/images/heroes/barats.webp)Бартс59,5%](https://boostmlbb.ru/heroes/barats.html#build)
 -   [![](/images/heroes/lukas.webp)Лукас55,4%](https://boostmlbb.ru/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Су Ё53,5%](https://boostmlbb.ru/heroes/suyou.html#build)
--   [![](/images/heroes/rafaela.webp)Рафаэль62,4%](https://boostmlbb.ru/heroes/rafaela.html#build)
 -   [![](/images/heroes/sora.webp)Сора54,2%](https://boostmlbb.ru/heroes/sora.html#build)
+-   [![](/images/heroes/rafaela.webp)Рафаэль62,4%](https://boostmlbb.ru/heroes/rafaela.html#build)
 -   [![](/images/heroes/yu-zhong.webp)Чонг55,4%](https://boostmlbb.ru/heroes/yu-zhong.html#build)
 -   [![](/images/heroes/guinevere.webp)Гвиневра56,6%](https://boostmlbb.ru/heroes/guinevere.html#build)
 -   [![](/images/heroes/phoveus.webp)Фовиус57,1%](https://boostmlbb.ru/heroes/phoveus.html#build)
@@ -100,4 +100,4 @@ Queen's Wings
 
 Каким героям собирать «Крылья королевы»?
 
-Предмет есть в популярных сборках 18 героев в рейтинге, среди них Бартс, Лукас, Су Ё, Рафаэль, Сора и Чонг.
+Предмет есть в популярных сборках 18 героев в рейтинге, среди них Бартс, Лукас, Су Ё, Сора, Рафаэль и Чонг.

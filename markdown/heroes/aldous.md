@@ -1,6 +1,6 @@
 ---
 title: "Алдос MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Алдос в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,38% побед, тир C."
+description: "Алдос в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 53,39% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/aldous.html
 language: ru
 ---
@@ -43,11 +43,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **52,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **52,8%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,8%**![](/images/ranks/Mythical_Glory.webp)Слава
+1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
+2.  **52,2%**![](/images/ranks/Legend.webp)Легенда
+3.  **53,0%**![](/images/ranks/Mythic.webp)Мифик
+4.  **51,9%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -326,7 +326,7 @@ C
 
 Какой процент побед у героя «Алдос» сейчас?
 
-53,38% в Мифической славе за последние 7 дней и 52,09% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+53,39% в Мифической славе за последние 7 дней и 52,20% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Алдос»?
 

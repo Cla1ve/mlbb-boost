@@ -1,6 +1,6 @@
 ---
 title: "Helcurt MLBB: build, counters and skills | MLBB Boost"
-description: "Helcurt in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 46.73% win rate, tier C."
+description: "Helcurt in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 46.75% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/helcurt.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-46.7%
+46.8%
 
 Pick rate
 
@@ -47,7 +47,7 @@ Ban rate
 2.  **48.5%**![](/images/ranks/Legend.webp)Legend
 3.  **48.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.5%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **46.3%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **46.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -57,7 +57,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**26 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**25 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB assassins**22 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 -   [Best MLBB roamers**21 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
@@ -308,7 +308,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
 
 ## Lore
 
@@ -328,7 +328,7 @@ Over the last 30 days the toughest opponents are X.Borg, Valir, Xavier, Gord and
 
 What is Helcurt’s win rate right now?
 
-46.73% at Mythical Glory over the last 7 days and 47.68% across all ranks over 30 days, as of 25 November 2026.
+46.75% at Mythical Glory over the last 7 days and 47.70% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Helcurt play?
 
@@ -336,7 +336,7 @@ Assassin, played in the jungle or on roam.
 
 Is Helcurt strong in the current meta?
 
-Tier C, #101 of 133 heroes and #22 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.3% of matches, 46.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #98 of 133 heroes and #22 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 2.3% of matches, 46.8% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Helcurt?
 

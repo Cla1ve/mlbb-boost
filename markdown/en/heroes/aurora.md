@@ -1,6 +1,6 @@
 ---
 title: "Aurora MLBB: build, counters and skills | MLBB Boost"
-description: "Aurora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.71% win rate, tier C."
+description: "Aurora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.69% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aurora.html
 language: en
 ---
@@ -254,7 +254,7 @@ Over the last 30 days the toughest opponents are Lolita, Odette, Eudora, Fredrin
 
 What is Aurora’s win rate right now?
 
-48.71% at Mythical Glory over the last 7 days and 48.89% across all ranks over 30 days, as of 25 November 2026.
+48.69% at Mythical Glory over the last 7 days and 48.87% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Aurora play?
 

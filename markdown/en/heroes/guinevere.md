@@ -1,6 +1,6 @@
 ---
 title: "Guinevere MLBB: build, counters and skills | MLBB Boost"
-description: "Guinevere in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.36% win rate, tier B."
+description: "Guinevere in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.33% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/guinevere.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-51.4%
+51.3%
 
 Pick rate
 
@@ -47,7 +47,7 @@ Ban rate
 2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -324,7 +324,7 @@ Over the last 30 days the toughest opponents are Lunox, Julian, Karrie, Yve and 
 
 What is Guinevere’s win rate right now?
 
-51.36% at Mythical Glory over the last 7 days and 51.25% across all ranks over 30 days, as of 25 November 2026.
+51.33% at Mythical Glory over the last 7 days and 51.24% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Guinevere play?
 
@@ -332,7 +332,7 @@ Fighter, played in the EXP Lane.
 
 Is Guinevere strong in the current meta?
 
-Tier B, #54 of 133 heroes and #16 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.3% of matches, 51.4% win rate. In professional games over the last month the hero is drafted in 3.4% of them.
+Tier B, #53 of 133 heroes and #16 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.3% of matches, 51.3% win rate. In professional games over the last month the hero is drafted in 3.4% of them.
 
 What is the best build for Guinevere?
 

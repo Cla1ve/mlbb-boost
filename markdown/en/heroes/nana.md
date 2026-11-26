@@ -1,6 +1,6 @@
 ---
 title: "Nana MLBB: build, counters and skills | MLBB Boost"
-description: "Nana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 45.11% win rate, tier C."
+description: "Nana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 45.14% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/nana.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 1.  **49.9%**![](/images/ranks/Epic.webp)Epic
 2.  **48.5%**![](/images/ranks/Legend.webp)Legend
 3.  **47.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **46.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **45.1%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -244,7 +244,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
+[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
 ## Lore
 
@@ -264,7 +264,7 @@ Over the last 30 days the toughest opponents are Odette, Lolita, Saber, Dyrroth 
 
 What is Nana’s win rate right now?
 
-45.11% at Mythical Glory over the last 7 days and 47.24% across all ranks over 30 days, as of 25 November 2026.
+45.14% at Mythical Glory over the last 7 days and 47.22% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Nana play?
 

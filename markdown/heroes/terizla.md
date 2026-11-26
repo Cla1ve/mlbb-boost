@@ -1,6 +1,6 @@
 ---
 title: "Тэризла MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Тэризла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 49,89% побед, тир C."
+description: "Тэризла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 49,90% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/terizla.html
 language: ru
 ---
@@ -47,7 +47,7 @@ C
 2.  **51,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **51,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **49,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -57,7 +57,7 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие бойцы MLBB**34 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие бойцы MLBB**33 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 -   [Лучшие танки MLBB**18 из 25**](https://boostmlbb.ru/heroes/best-tank.html)
 
 ## Сборка
@@ -295,7 +295,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
 
 ### Слабые цели
 
@@ -317,11 +317,11 @@ C
 
 Кто контрпик для героя «Тэризла» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Аргус, Фовиус, Пополь и Купа, Одетта и Лолита.
+За последние 30 дней чаще всего героя обыгрывают Аргус, Фовиус, Пополь и Купа, Баксий и Одетта.
 
 Какой процент побед у героя «Тэризла» сейчас?
 
-49,89% в Мифической славе за последние 7 дней и 50,60% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,90% в Мифической славе за последние 7 дней и 50,61% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Тэризла»?
 
@@ -329,7 +329,7 @@ C
 
 Силён ли герой «Тэризла» в текущей мете?
 
-Тир C, 108-е место из 133 героев и 18-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
+Тир C, 106-е место из 133 героев и 18-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,5% катков.
 
 Какая сборка на героя «Тэризла» лучшая?
 

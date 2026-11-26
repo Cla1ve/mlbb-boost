@@ -1,6 +1,6 @@
 ---
 title: "Benedetta MLBB: build, counters and skills | MLBB Boost"
-description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.60% win rate, tier C."
+description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.59% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **54.4%**![](/images/ranks/Epic.webp)Epic
 2.  **53.2%**![](/images/ranks/Legend.webp)Legend
-3.  **52.2%**![](/images/ranks/Mythic.webp)Mythic
+3.  **52.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -332,7 +332,7 @@ Over the last 30 days the toughest opponents are X.Borg, Alpha, Silvanna, Ixia a
 
 What is Benedetta’s win rate right now?
 
-51.60% at Mythical Glory over the last 7 days and 52.07% across all ranks over 30 days, as of 25 November 2026.
+51.59% at Mythical Glory over the last 7 days and 52.06% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Benedetta play?
 

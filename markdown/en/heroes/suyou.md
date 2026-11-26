@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-1.8%
+1.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -298,7 +298,7 @@ Suyou can be controlled while charging, but the skill cannot be interrupted.
 
 Beat this hero
 
-[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
 ### Easy targets
 
@@ -320,11 +320,11 @@ This hero beats them
 
 Who counters Suyou in MLBB?
 
-Over the last 30 days the toughest opponents are Natalia, Sun, X.Borg, Yin and Balmond.
+Over the last 30 days the toughest opponents are Natalia, Sun, X.Borg, Balmond and Yin.
 
 What is Suyou’s win rate right now?
 
-49.43% at Mythical Glory over the last 7 days and 49.71% across all ranks over 30 days, as of 25 November 2026.
+49.43% at Mythical Glory over the last 7 days and 49.70% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Suyou play?
 
@@ -332,7 +332,7 @@ Fighter and assassin, played in the jungle.
 
 Is Suyou strong in the current meta?
 
-Tier B, #28 of 133 heroes and #9 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 25.3% of them.
+Tier B, #28 of 133 heroes and #9 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 25.3% of them.
 
 What is the best build for Suyou?
 

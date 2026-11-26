@@ -1,6 +1,6 @@
 ---
 title: "Кэрри MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кэрри в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 49,00% побед, тир C."
+description: "Кэрри в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 49,04% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/karrie.html
 language: ru
 ---
@@ -47,7 +47,7 @@ C
 2.  **48,3%**![](/images/ranks/Legend.webp)Легенда
 3.  **49,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,7%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **48,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -292,13 +292,13 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
 
 ## История
 
@@ -314,11 +314,11 @@ C
 
 Кто контрпик для героя «Кэрри» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Алиса, Баксий, Эсмеральда, Бальмонд и Хилос.
+За последние 30 дней чаще всего героя обыгрывают Алиса, Эсмеральда, Баксий, Бальмонд и Хилос.
 
 Какой процент побед у героя «Кэрри» сейчас?
 
-49,00% в Мифической славе за последние 7 дней и 48,89% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,04% в Мифической славе за последние 7 дней и 48,90% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кэрри»?
 
@@ -326,7 +326,7 @@ C
 
 Силён ли герой «Кэрри» в текущей мете?
 
-Тир C, 88-е место из 133 героев и 17-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,1% катков.
+Тир C, 87-е место из 133 героев и 17-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 49,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,1% катков.
 
 Какая сборка на героя «Кэрри» лучшая?
 

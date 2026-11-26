@@ -1,6 +1,6 @@
 ---
 title: "Zilong MLBB: build, counters and skills | MLBB Boost"
-description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 44.89% win rate, tier C."
+description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 44.85% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.2%
+0.3%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -323,7 +323,7 @@ Over the last 30 days the toughest opponents are X.Borg, Cici, Diggie, Xavier an
 
 What is Zilong’s win rate right now?
 
-44.89% at Mythical Glory over the last 7 days and 46.27% across all ranks over 30 days, as of 25 November 2026.
+44.85% at Mythical Glory over the last 7 days and 46.27% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Zilong play?
 
@@ -331,7 +331,7 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Zilong strong in the current meta?
 
-Tier C, #127 of 133 heroes and #44 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 44.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #127 of 133 heroes and #44 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.3% of matches, 44.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Zilong?
 

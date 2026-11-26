@@ -1,6 +1,6 @@
 ---
 title: "Freya MLBB: build, counters and skills | MLBB Boost"
-description: "Freya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.76% win rate, tier S."
+description: "Freya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.82% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-11.4%
+11.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **47.4%**![](/images/ranks/Epic.webp)Epic
+1.  **47.5%**![](/images/ranks/Epic.webp)Epic
 2.  **47.6%**![](/images/ranks/Legend.webp)Legend
 3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -58,7 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB junglers**3 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB fighters**3 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB fighters**2 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
 
@@ -321,7 +321,7 @@ Over the last 30 days the toughest opponents are Masha, Yve, Lolita, Ling and Ka
 
 What is Freya’s win rate right now?
 
-51.76% at Mythical Glory over the last 7 days and 49.47% across all ranks over 30 days, as of 25 November 2026.
+51.82% at Mythical Glory over the last 7 days and 49.54% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Freya play?
 
@@ -329,7 +329,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Freya strong in the current meta?
 
-Tier S, #6 of 133 heroes and #3 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.4% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 98.4% of them.
+Tier S, #5 of 133 heroes and #2 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 11.5% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 98.4% of them.
 
 What is the best build for Freya?
 

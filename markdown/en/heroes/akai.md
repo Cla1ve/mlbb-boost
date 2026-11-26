@@ -1,6 +1,6 @@
 ---
 title: "Akai MLBB: build, counters and skills | MLBB Boost"
-description: "Akai in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 49.27% win rate, tier C."
+description: "Akai in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 49.32% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/akai.html
 language: en
 ---
@@ -45,9 +45,9 @@ Ban rate
 
 1.  **51.4%**![](/images/ranks/Epic.webp)Epic
 2.  **51.2%**![](/images/ranks/Legend.webp)Legend
-3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.4%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **49.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -325,7 +325,7 @@ Over the last 30 days the toughest opponents are Alucard, Harith, Granger, Silva
 
 What is Akai’s win rate right now?
 
-49.27% at Mythical Glory over the last 7 days and 50.16% across all ranks over 30 days, as of 25 November 2026.
+49.32% at Mythical Glory over the last 7 days and 50.17% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Akai play?
 
@@ -333,7 +333,7 @@ Tank, played on roam.
 
 Is Akai strong in the current meta?
 
-Tier C, #110 of 133 heroes and #19 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #107 of 133 heroes and #19 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 49.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Akai?
 

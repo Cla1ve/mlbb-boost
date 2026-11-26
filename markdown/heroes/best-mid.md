@@ -13,7 +13,7 @@ language: ru
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди мидеров сейчас лидируют Кимми, Эйдора и Чжусинь. Кимми: 48,1% побед и бан в 0,6% матчей Мифической славы за 7 дней. В списке 29 героев, из них 6 в тире S или A.
+Среди мидеров сейчас лидируют Кимми, Эйдора и Чжусинь. Кимми: 48,1% побед и бан в 0,5% матчей Мифической славы за 7 дней. В списке 29 героев, из них 6 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -35,7 +35,7 @@ A
 
 Баны
 
-0,6%
+0,5%
 
 [
 
@@ -85,11 +85,11 @@ A
 
 Выбор
 
-1,7%
+1,6%
 
 Баны
 
-33,7%
+33,4%
 
 [
 
@@ -135,7 +135,7 @@ A
 
 Победы
 
-49,4%
+49,5%
 
 Выбор
 
@@ -143,7 +143,7 @@ A
 
 Баны
 
-0,6%
+0,5%
 
 [
 
@@ -207,7 +207,7 @@ A
 
 0,9%
 
-0,6%
+0,5%
 
 73,1%
 
@@ -219,9 +219,9 @@ A
 
 50,2%
 
-1,7%
+1,6%
 
-33,7%
+33,4%
 
 24,7%
 
@@ -231,11 +231,11 @@ A
 
 A
 
-49,4%
+49,5%
 
 0,3%
 
-0,6%
+0,5%
 
 73,9%
 
@@ -249,7 +249,7 @@ A
 
 1,3%
 
-3,9%
+4,0%
 
 40,7%
 
@@ -259,7 +259,7 @@ A
 
 A
 
-50,0%
+50,1%
 
 1,9%
 
@@ -277,7 +277,7 @@ A
 
 1,4%
 
-3,7%
+3,6%
 
 32,9%
 
@@ -301,11 +301,11 @@ B
 
 B
 
-53,5%
+53,4%
 
 1,8%
 
-1,3%
+1,4%
 
 1,0%
 
@@ -343,7 +343,7 @@ B
 
 B
 
-44,7%
+44,6%
 
 0,2%
 
@@ -385,7 +385,7 @@ B
 
 B
 
-51,2%
+51,1%
 
 0,9%
 
@@ -455,7 +455,7 @@ C
 
 C
 
-51,8%
+51,7%
 
 0,1%
 
@@ -469,7 +469,7 @@ C
 
 C
 
-52,0%
+51,9%
 
 0,5%
 
@@ -525,7 +525,7 @@ C
 
 C
 
-51,6%
+51,7%
 
 0,3%
 
@@ -539,7 +539,7 @@ C
 
 C
 
-48,8%
+48,9%
 
 0,3%
 
@@ -553,7 +553,7 @@ C
 
 D
 
-50,7%
+50,6%
 
 0,1%
 
@@ -581,7 +581,7 @@ C
 
 D
 
-46,7%
+46,6%
 
 0,2%
 
@@ -597,7 +597,7 @@ D
 
 46,2%
 
-0,2%
+0,1%
 
 0,0%
 
@@ -620,10 +620,10 @@ D
 
 1.  [![](/images/heroes/valir.webp)Валир54,4%](https://boostmlbb.ru/heroes/valir.html)
 2.  [![](/images/heroes/zhask.webp)Заск53,3%](https://boostmlbb.ru/heroes/zhask.html)
-3.  [![](/images/heroes/gord.webp)Горд52,9%](https://boostmlbb.ru/heroes/gord.html)
+3.  [![](/images/heroes/gord.webp)Горд52,8%](https://boostmlbb.ru/heroes/gord.html)
 4.  [![](/images/heroes/cyclops.webp)Циклоп52,4%](https://boostmlbb.ru/heroes/cyclops.html)
 5.  [![](/images/heroes/zetian.webp)Цзэтянь52,1%](https://boostmlbb.ru/heroes/zetian.html)
-6.  [![](/images/heroes/kagura.webp)Кагура51,5%](https://boostmlbb.ru/heroes/kagura.html)
+6.  [![](/images/heroes/kagura.webp)Кагура51,4%](https://boostmlbb.ru/heroes/kagura.html)
 
 ## Кто обыгрывает мидеров
 
@@ -644,7 +644,7 @@ D
 
 Кто лучший мидер в MLBB сейчас?
 
-Кимми: тир A, 48,1% побед, бан в 0,6% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 25 ноября 2026 года.
+Кимми: тир A, 48,1% побед, бан в 0,5% матчей Мифической славы за 7 дней. Следом идут Эйдора и Чжусинь. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди мидеров?
 
@@ -652,7 +652,7 @@ D
 
 Каких мидеров чаще всего банят?
 
-Эйдора (33,7%), Валир (3,9%) и Селена (3,7%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Эйдора (33,4%), Валир (4,0%) и Селена (3,6%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько мидеров в Mobile Legends?
 

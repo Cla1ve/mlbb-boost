@@ -1,6 +1,6 @@
 ---
 title: "Лесли MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лесли в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и стрелок, 48,83% побед, тир B."
+description: "Лесли в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и стрелок, 48,80% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/lesley.html
 language: ru
 ---
@@ -25,7 +25,7 @@ B
 
 Баны
 
-5,1%
+5,3%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ B
 
 1.  **47,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **48,4%**![](/images/ranks/Mythic.webp)Мифик
+3.  **48,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,4%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **48,6%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -303,7 +303,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
 
 ## История
 
@@ -323,7 +323,7 @@ B
 
 Какой процент побед у героя «Лесли» сейчас?
 
-48,83% в Мифической славе за последние 7 дней и 48,33% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,80% в Мифической славе за последние 7 дней и 48,34% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Лесли»?
 
@@ -331,7 +331,7 @@ B
 
 Силён ли герой «Лесли» в текущей мете?
 
-Тир B, 38-е место из 133 героев и 8-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,1% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 6,8% катков.
+Тир B, 38-е место из 133 героев и 8-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,3% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 6,8% катков.
 
 Какая сборка на героя «Лесли» лучшая?
 

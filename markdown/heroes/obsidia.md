@@ -25,7 +25,7 @@ S
 
 Баны
 
-65,1%
+65,4%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **51,8%**![](/images/ranks/Epic.webp)Эпик
+1.  **51,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **52,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **52,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -296,7 +296,7 @@ S
 
 Побеждают этого героя
 
-[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
+[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ### Слабые цели
 
@@ -318,11 +318,11 @@ S
 
 Кто контрпик для героя «Обсидия» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Бенедетта, Хелкарт, Алдос, Инь и Ханзо.
+За последние 30 дней чаще всего героя обыгрывают Бенедетта, Хелкарт, Алдос, Инь и Наталья.
 
 Какой процент побед у героя «Обсидия» сейчас?
 
-52,58% в Мифической славе за последние 7 дней и 53,16% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+52,58% в Мифической славе за последние 7 дней и 53,14% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Обсидия»?
 
@@ -330,7 +330,7 @@ S
 
 Силён ли герой «Обсидия» в текущей мете?
 
-Тир S, 7-е место из 133 героев и 1-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 65,1% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 44,8% катков.
+Тир S, 7-е место из 133 героев и 1-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 65,4% матчей, 52,6% побед. В профессиональных матчах за месяц героя драфтуют в 44,8% катков.
 
 Какая сборка на героя «Обсидия» лучшая?
 

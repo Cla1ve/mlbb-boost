@@ -43,7 +43,7 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **47,0%**![](/images/ranks/Epic.webp)Эпик
+1.  **46,9%**![](/images/ranks/Epic.webp)Эпик
 2.  **47,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **47,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **47,0%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -303,13 +303,13 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
+[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
 
 ## История
 
@@ -325,11 +325,11 @@ D
 
 Кто контрпик для героя «Чип» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Зилонг, Селена, Хелкарт, Матильда и Валентина.
+За последние 30 дней чаще всего героя обыгрывают Зилонг, Хелкарт, Селена, Матильда и Флорин.
 
 Какой процент побед у героя «Чип» сейчас?
 
-48,27% в Мифической славе за последние 7 дней и 47,60% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,27% в Мифической славе за последние 7 дней и 47,61% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Чип»?
 

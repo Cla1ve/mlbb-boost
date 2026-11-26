@@ -1,6 +1,6 @@
 ---
 title: "Gusion MLBB: build, counters and skills | MLBB Boost"
-description: "Gusion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 48.89% win rate, tier B."
+description: "Gusion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 48.91% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/gusion.html
 language: en
 ---
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)
 
 ### Places in the rankings
 
@@ -235,7 +235,7 @@ Gusion dashes to the target location, resetting the cooldowns of Sword Spike and
 
 Beat this hero
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ### Easy targets
 
@@ -257,11 +257,11 @@ This hero beats them
 
 Who counters Gusion in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Valir, Yve, X.Borg and Natalia.
+Over the last 30 days the toughest opponents are Aamon, Yve, Valir, X.Borg and Natalia.
 
 What is Gusion’s win rate right now?
 
-48.89% at Mythical Glory over the last 7 days and 48.63% across all ranks over 30 days, as of 25 November 2026.
+48.91% at Mythical Glory over the last 7 days and 48.64% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Gusion play?
 

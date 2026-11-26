@@ -1,6 +1,6 @@
 ---
 title: "Хилос MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хилос в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 46,98% побед, тир D."
+description: "Хилос в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 47,02% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/hylos.html
 language: ru
 ---
@@ -297,7 +297,7 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
+[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
 
 ### Слабые цели
 
@@ -319,11 +319,11 @@ D
 
 Кто контрпик для героя «Хилос» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Зилонг, Лейла, Инь, Сабер и Вэйл.
+За последние 30 дней чаще всего героя обыгрывают Зилонг, Лейла, Инь, Нана и Сабер.
 
 Какой процент побед у героя «Хилос» сейчас?
 
-46,98% в Мифической славе за последние 7 дней и 48,55% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,02% в Мифической славе за последние 7 дней и 48,54% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хилос»?
 

@@ -1,6 +1,6 @@
 ---
 title: "Bane MLBB: build, counters and skills | MLBB Boost"
-description: "Bane in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and mage, 51.53% win rate, tier C."
+description: "Bane in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and mage, 51.58% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/bane.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-51.5%
+51.6%
 
 Pick rate
 
@@ -43,9 +43,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.3%**![](/images/ranks/Epic.webp)Epic
+1.  **52.4%**![](/images/ranks/Epic.webp)Epic
 2.  **51.5%**![](/images/ranks/Legend.webp)Legend
-3.  **51.5%**![](/images/ranks/Mythic.webp)Mythic
+3.  **51.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.7%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -57,9 +57,9 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**30 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB mages**26 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
--   [Best MLBB fighters**33 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
+-   [Best MLBB junglers**29 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB mages**27 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB fighters**34 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
 
@@ -298,7 +298,7 @@ This skill deals 40% damage to turrets.
 
 Beat this hero
 
-[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)
 
 ### Easy targets
 
@@ -320,11 +320,11 @@ This hero beats them
 
 Who counters Bane in MLBB?
 
-Over the last 30 days the toughest opponents are Phoveus, Khufra, Baxia, Odette and Chip.
+Over the last 30 days the toughest opponents are Phoveus, Baxia, Khufra, Odette and Belerick.
 
 What is Bane’s win rate right now?
 
-51.53% at Mythical Glory over the last 7 days and 51.61% across all ranks over 30 days, as of 25 November 2026.
+51.58% at Mythical Glory over the last 7 days and 51.62% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Bane play?
 
@@ -332,7 +332,7 @@ Fighter and mage, played in the EXP Lane or in the jungle.
 
 Is Bane strong in the current meta?
 
-Tier C, #106 of 133 heroes and #33 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #108 of 133 heroes and #34 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Bane?
 

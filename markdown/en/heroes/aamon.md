@@ -1,6 +1,6 @@
 ---
 title: "Aamon MLBB: build, counters and skills | MLBB Boost"
-description: "Aamon in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.18% win rate, tier C."
+description: "Aamon in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.89% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-50.2%
+49.9%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.8%
+0.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -44,10 +44,10 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **49.8%**![](/images/ranks/Epic.webp)Epic
-2.  **50.1%**![](/images/ranks/Legend.webp)Legend
+2.  **50.0%**![](/images/ranks/Legend.webp)Legend
 3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **50.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -325,7 +325,7 @@ Over the last 30 days the toughest opponents are Cici, Marcel, Claude, Bruno and
 
 What is Aamon’s win rate right now?
 
-50.18% at Mythical Glory over the last 7 days and 50.18% across all ranks over 30 days, as of 25 November 2026.
+49.89% at Mythical Glory over the last 7 days and 50.13% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Aamon play?
 
@@ -333,7 +333,7 @@ Assassin, played in the jungle.
 
 Is Aamon strong in the current meta?
 
-Tier C, #85 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 50.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #84 of 133 heroes and #19 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Aamon?
 

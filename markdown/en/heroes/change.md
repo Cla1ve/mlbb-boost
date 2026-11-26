@@ -1,6 +1,6 @@
 ---
 title: "Chang'e MLBB: build, counters and skills | MLBB Boost"
-description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.00% win rate, tier C."
+description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.04% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
@@ -297,7 +297,7 @@ Chang'e gains 10% Movement Speed for 4s. During this time, she fires 30 meteors 
 
 Beat this hero
 
-[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
 ### Easy targets
 
@@ -319,11 +319,11 @@ This hero beats them
 
 Who counters Chang'e in MLBB?
 
-Over the last 30 days the toughest opponents are Diggie, Balmond, Martis, Alpha and X.Borg.
+Over the last 30 days the toughest opponents are Diggie, Balmond, Martis, X.Borg and Alpha.
 
 What is Chang'e’s win rate right now?
 
-46.00% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 25 November 2026.
+46.04% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Chang'e play?
 

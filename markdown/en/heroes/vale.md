@@ -1,6 +1,6 @@
 ---
 title: "Vale MLBB: build, counters and skills | MLBB Boost"
-description: "Vale in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.82% win rate, tier C."
+description: "Vale in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.86% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vale.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-48.8%
+48.9%
 
 Pick rate
 
@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.5%**![](/images/ranks/Epic.webp)Epic
-2.  **50.8%**![](/images/ranks/Legend.webp)Legend
+2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.5%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.8%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -297,7 +297,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ## Lore
 
@@ -317,7 +317,7 @@ Over the last 30 days the toughest opponents are Odette, Estes, Melissa, Rafaela
 
 What is Vale’s win rate right now?
 
-48.82% at Mythical Glory over the last 7 days and 50.11% across all ranks over 30 days, as of 25 November 2026.
+48.86% at Mythical Glory over the last 7 days and 50.11% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Vale play?
 
@@ -325,7 +325,7 @@ Mage, played in the Mid Lane.
 
 Is Vale strong in the current meta?
 
-Tier C, #114 of 133 heroes and #28 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #114 of 133 heroes and #28 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 48.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Vale?
 

@@ -13,7 +13,7 @@ language: en
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Nolan, Hirara and Freya lead the junglers right now. Nolan wins 50.4% of Mythical Glory games over 7 days and is banned in 38.3% of them. The list has 37 heroes, 7 of them in tier S or A.
+Nolan, Hirara and Freya lead the junglers right now. Nolan wins 50.5% of Mythical Glory games over 7 days and is banned in 39.5% of them. The list has 37 heroes, 7 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -27,15 +27,15 @@ S
 
 Win rate
 
-50.4%
+50.5%
 
 Pick rate
 
-2.6%
+2.5%
 
 Ban rate
 
-38.3%
+39.5%
 
 [
 
@@ -143,7 +143,7 @@ Pick rate
 
 Ban rate
 
-11.4%
+11.5%
 
 [
 
@@ -203,11 +203,11 @@ Pro
 
 S
 
-50.4%
+50.5%
 
-2.6%
+2.5%
 
-38.3%
+39.5%
 
 82.8%
 
@@ -235,7 +235,7 @@ S
 
 1.3%
 
-11.4%
+11.5%
 
 98.4%
 
@@ -245,11 +245,11 @@ S
 
 S
 
-53.0%
+53.1%
 
 0.8%
 
-21.1%
+19.8%
 
 77.8%
 
@@ -263,7 +263,7 @@ A
 
 1.4%
 
-10.8%
+10.7%
 
 69.3%
 
@@ -277,7 +277,7 @@ A
 
 1.0%
 
-8.2%
+8.3%
 
 57.7%
 
@@ -291,7 +291,7 @@ B
 
 1.5%
 
-57.8%
+58.5%
 
 —
 
@@ -305,7 +305,7 @@ A
 
 0.9%
 
-32.0%
+30.8%
 
 2.9%
 
@@ -319,7 +319,7 @@ B
 
 1.6%
 
-1.8%
+1.9%
 
 25.3%
 
@@ -331,9 +331,9 @@ B
 
 53.7%
 
-0.8%
+0.9%
 
-13.0%
+13.3%
 
 5.2%
 
@@ -389,7 +389,7 @@ B
 
 0.9%
 
-0.6%
+0.7%
 
 —
 
@@ -403,7 +403,7 @@ B
 
 0.9%
 
-4.6%
+4.7%
 
 —
 
@@ -469,11 +469,11 @@ C
 
 C
 
-50.2%
+49.9%
 
 0.6%
 
-0.8%
+0.9%
 
 —
 
@@ -483,7 +483,7 @@ C
 
 C
 
-48.2%
+48.1%
 
 0.8%
 
@@ -511,7 +511,7 @@ C
 
 C
 
-48.4%
+48.3%
 
 0.6%
 
@@ -535,6 +535,20 @@ C
 
 25
 
+[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+
+C
+
+46.8%
+
+0.4%
+
+2.3%
+
+—
+
+26
+
 [![](/images/heroes/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
 C
@@ -547,27 +561,13 @@ C
 
 1.0%
 
-26
-
-[![](/images/heroes/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
-
-C
-
-46.7%
-
-0.4%
-
-2.3%
-
-—
-
 27
 
 [![](/images/heroes/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 D
 
-50.4%
+50.3%
 
 0.2%
 
@@ -576,20 +576,6 @@ D
 —
 
 28
-
-[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
-
-C
-
-48.4%
-
-0.4%
-
-1.1%
-
-—
-
-29
 
 [![](/images/heroes/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
@@ -603,17 +589,31 @@ C
 
 —
 
-30
+29
 
 [![](/images/heroes/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
 C
 
-51.5%
+51.6%
 
 0.3%
 
 0.1%
+
+—
+
+30
+
+[![](/images/heroes/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+
+C
+
+48.6%
+
+0.3%
+
+0.9%
 
 —
 
@@ -651,7 +651,7 @@ C
 
 D
 
-49.4%
+49.3%
 
 0.2%
 
@@ -707,7 +707,7 @@ C
 
 D
 
-46.0%
+45.9%
 
 0.1%
 
@@ -730,9 +730,9 @@ The three core items of every hero’s most common build. Spell: Retribution on 
 
 Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30% of Mythical Glory games.
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.6%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+1.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.5%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 2.  [![](/images/heroes/ling.webp)Ling53.4%](https://boostmlbb.ru/en/heroes/ling.html)
-3.  [![](/images/heroes/aulus.webp)Aulus52.9%](https://boostmlbb.ru/en/heroes/aulus.html)
+3.  [![](/images/heroes/aulus.webp)Aulus52.8%](https://boostmlbb.ru/en/heroes/aulus.html)
 4.  [![](/images/heroes/natalia.webp)Natalia51.9%](https://boostmlbb.ru/en/heroes/natalia.html)
 5.  [![](/images/heroes/bane.webp)Bane51.5%](https://boostmlbb.ru/en/heroes/bane.html)
 6.  [![](/images/heroes/hanzo.webp)Hanzo50.7%](https://boostmlbb.ru/en/heroes/hanzo.html)
@@ -741,8 +741,8 @@ Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30%
 
 How many heroes of this list it beats, by official counters.
 
-1.  [![](/images/heroes/x-borg.webp)X.Borg10 of 37](https://boostmlbb.ru/en/heroes/x-borg.html)
-2.  [![](/images/heroes/natalia.webp)Natalia9 of 37](https://boostmlbb.ru/en/heroes/natalia.html)
+1.  [![](/images/heroes/natalia.webp)Natalia9 of 37](https://boostmlbb.ru/en/heroes/natalia.html)
+2.  [![](/images/heroes/x-borg.webp)X.Borg9 of 37](https://boostmlbb.ru/en/heroes/x-borg.html)
 3.  [![](/images/heroes/saber.webp)Saber8 of 37](https://boostmlbb.ru/en/heroes/saber.html)
 4.  [![](/images/heroes/yve.webp)Yve7 of 37](https://boostmlbb.ru/en/heroes/yve.html)
 5.  [![](/images/heroes/alice.webp)Alice5 of 37](https://boostmlbb.ru/en/heroes/alice.html)
@@ -756,7 +756,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best jungler in MLBB right now?
 
-Nolan: tier S, 50.4% win rate, banned in 38.3% of Mythical Glory games over 7 days. Hirara and Freya follow. Data as of 25 November 2026.
+Nolan: tier S, 50.5% win rate, banned in 39.5% of Mythical Glory games over 7 days. Hirara and Freya follow. Data as of 25 November 2026.
 
 Which of the junglers should a beginner pick?
 
@@ -764,7 +764,7 @@ Alpha, Aulus and Balmond are the easiest to play: their difficulty on the in-gam
 
 Which junglers get banned most?
 
-Hirara (84.5%), Sun (57.8%) and Nolan (38.3%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Hirara (84.5%), Sun (58.5%) and Nolan (39.5%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many junglers are there in Mobile Legends?
 

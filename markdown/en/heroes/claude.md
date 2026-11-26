@@ -1,6 +1,6 @@
 ---
 title: "Claude MLBB: build, counters and skills | MLBB Boost"
-description: "Claude in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.51% win rate, tier B."
+description: "Claude in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.48% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/claude.html
 language: en
 ---
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **50.8%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
-3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -318,7 +318,7 @@ Over the last 30 days the toughest opponents are Lolita, Chang'e, Ixia, Balmond 
 
 What is Claude’s win rate right now?
 
-48.51% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 25 November 2026.
+48.48% at Mythical Glory over the last 7 days and 48.85% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Claude play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Ling MLBB: build, counters and skills | MLBB Boost"
-description: "Ling in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 51.79% win rate, tier B."
+description: "Ling in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 51.77% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/ling.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.6%
+0.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **54.6%**![](/images/ranks/Epic.webp)Epic
 2.  **53.8%**![](/images/ranks/Legend.webp)Legend
-3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
+3.  **53.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -58,7 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB junglers**14 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
--   [Best MLBB assassins**12 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
+-   [Best MLBB assassins**11 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
 ## Build
 
@@ -303,7 +303,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
 ## Lore
 
@@ -323,7 +323,7 @@ Over the last 30 days the toughest opponents are Gloo, X.Borg, Hanzo, Atlas and 
 
 What is Ling’s win rate right now?
 
-51.79% at Mythical Glory over the last 7 days and 52.52% across all ranks over 30 days, as of 25 November 2026.
+51.77% at Mythical Glory over the last 7 days and 52.51% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Ling play?
 
@@ -331,7 +331,7 @@ Assassin, played in the jungle.
 
 Is Ling strong in the current meta?
 
-Tier B, #62 of 133 heroes and #12 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #61 of 133 heroes and #11 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Ling?
 

@@ -1,6 +1,6 @@
 ---
 title: "Yve MLBB: build, counters and skills | MLBB Boost"
-description: "Yve in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.82% win rate, tier C."
+description: "Yve in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.68% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yve.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-51.8%
+51.7%
 
 Pick rate
 
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.0%**![](/images/ranks/Epic.webp)Epic
+1.  **52.1%**![](/images/ranks/Epic.webp)Epic
 2.  **51.4%**![](/images/ranks/Legend.webp)Legend
 3.  **51.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.4%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -307,7 +307,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)
 
 ## Lore
 
@@ -327,7 +327,7 @@ Over the last 30 days the toughest opponents are Lolita, Hylos, Barats, Alice an
 
 What is Yve’s win rate right now?
 
-51.82% at Mythical Glory over the last 7 days and 52.20% across all ranks over 30 days, as of 25 November 2026.
+51.68% at Mythical Glory over the last 7 days and 52.16% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yve play?
 
@@ -335,7 +335,7 @@ Mage, played in the Mid Lane.
 
 Is Yve strong in the current meta?
 
-Tier C, #84 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.8% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
+Tier C, #85 of 133 heroes and #21 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 16.6% of them.
 
 What is the best build for Yve?
 

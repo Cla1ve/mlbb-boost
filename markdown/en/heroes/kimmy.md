@@ -1,6 +1,6 @@
 ---
 title: "Kimmy MLBB: build, counters and skills | MLBB Boost"
-description: "Kimmy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and marksman, 48.13% win rate, tier A."
+description: "Kimmy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and marksman, 48.09% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.6%
+0.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -326,7 +326,7 @@ Over the last 30 days the toughest opponents are Sun, Hylos, Atlas, Uranus and H
 
 What is Kimmy’s win rate right now?
 
-48.13% at Mythical Glory over the last 7 days and 48.67% across all ranks over 30 days, as of 25 November 2026.
+48.09% at Mythical Glory over the last 7 days and 48.63% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Kimmy play?
 
@@ -334,7 +334,7 @@ Mage and marksman, played in the Gold Lane or in the Mid Lane.
 
 Is Kimmy strong in the current meta?
 
-Tier A, #15 of 133 heroes and #3 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.1% win rate. In professional games over the last month the hero is drafted in 73.1% of them.
+Tier A, #15 of 133 heroes and #3 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 48.1% win rate. In professional games over the last month the hero is drafted in 73.1% of them.
 
 What is the best build for Kimmy?
 

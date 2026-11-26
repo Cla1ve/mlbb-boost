@@ -1,6 +1,6 @@
 ---
 title: "Franco MLBB: build, counters and skills | MLBB Boost"
-description: "Franco in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 40.57% win rate, tier C."
+description: "Franco in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 40.55% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/franco.html
 language: en
 ---
@@ -17,11 +17,11 @@ C
 
 Win rate
 
-40.6%
+40.5%
 
 Pick rate
 
-0.6%
+0.7%
 
 Ban rate
 
@@ -317,7 +317,7 @@ Over the last 30 days the toughest opponents are Diggie, Angela, Fanny, Floryn a
 
 What is Franco’s win rate right now?
 
-40.57% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 25 November 2026.
+40.55% at Mythical Glory over the last 7 days and 41.59% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Franco play?
 
@@ -325,7 +325,7 @@ Tank, played on roam.
 
 Is Franco strong in the current meta?
 
-Tier C, #131 of 133 heroes and #24 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 40.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #130 of 133 heroes and #24 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 40.5% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Franco?
 

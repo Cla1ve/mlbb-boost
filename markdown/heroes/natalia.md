@@ -1,6 +1,6 @@
 ---
 title: "Наталья MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Наталья в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,38% побед, тир D."
+description: "Наталья в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,33% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/natalia.html
 language: ru
 ---
@@ -17,7 +17,7 @@ D
 
 Победы
 
-50,4%
+50,3%
 
 Выбор
 
@@ -44,9 +44,9 @@ D
 ### Победы по рангам, 30 дней
 
 1.  **52,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **51,7%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,7%**![](/images/ranks/Mythical_Honor.webp)Честь
+2.  **52,1%**![](/images/ranks/Legend.webp)Легенда
+3.  **51,8%**![](/images/ranks/Mythic.webp)Мифик
+4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -59,7 +59,7 @@ D
 
 -   [Лучшие лесники MLBB**27 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие убийцы MLBB**23 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
--   [Лучшие роумеры MLBB**22 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
+-   [Лучшие роумеры MLBB**23 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
 
@@ -304,7 +304,7 @@ D
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
 
 ## История
 
@@ -324,7 +324,7 @@ D
 
 Какой процент побед у героя «Наталья» сейчас?
 
-50,38% в Мифической славе за последние 7 дней и 51,10% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,33% в Мифической славе за последние 7 дней и 51,11% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Наталья»?
 
@@ -332,7 +332,7 @@ D
 
 Силён ли герой «Наталья» в текущей мете?
 
-Тир D, 102-е место из 133 героев и 23-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир D, 103-е место из 133 героев и 23-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Наталья» лучшая?
 

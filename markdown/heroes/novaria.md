@@ -291,7 +291,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
@@ -307,11 +307,11 @@ B
 
 Кто контрпик для героя «Новария» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Дигги, Валир, Бэйн, Ло Йи и Ханаби.
+За последние 30 дней чаще всего героя обыгрывают Дигги, Валир, Бэйн, Ханаби и Ло Йи.
 
 Какой процент побед у героя «Новария» сейчас?
 
-48,29% в Мифической славе за последние 7 дней и 49,45% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,29% в Мифической славе за последние 7 дней и 49,43% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Новария»?
 

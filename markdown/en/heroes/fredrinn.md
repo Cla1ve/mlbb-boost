@@ -1,6 +1,6 @@
 ---
 title: "Fredrinn MLBB: build, counters and skills | MLBB Boost"
-description: "Fredrinn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 52.42% win rate, tier C."
+description: "Fredrinn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 52.44% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/fredrinn.html
 language: en
 ---
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.0%**![](/images/ranks/Epic.webp)Epic
+1.  **49.9%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
 3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.6%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -304,7 +304,7 @@ This skill costs 3 Combo Points.
 
 Beat this hero
 
-[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
 ### Easy targets
 
@@ -326,11 +326,11 @@ This hero beats them
 
 Who counters Fredrinn in MLBB?
 
-Over the last 30 days the toughest opponents are Gloo, Alucard, Joy, Lunox and Khaleed.
+Over the last 30 days the toughest opponents are Gloo, Alucard, Lunox, Joy and Khaleed.
 
 What is Fredrinn’s win rate right now?
 
-52.42% at Mythical Glory over the last 7 days and 51.27% across all ranks over 30 days, as of 25 November 2026.
+52.44% at Mythical Glory over the last 7 days and 51.28% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Fredrinn play?
 
@@ -338,7 +338,7 @@ Tank and fighter, played in the jungle.
 
 Is Fredrinn strong in the current meta?
 
-Tier C, #75 of 133 heroes and #13 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #73 of 133 heroes and #13 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.1% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Fredrinn?
 

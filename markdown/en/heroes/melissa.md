@@ -1,6 +1,6 @@
 ---
 title: "Melissa MLBB: build, counters and skills | MLBB Boost"
-description: "Melissa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 52.45% win rate, tier B."
+description: "Melissa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 52.43% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/melissa.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-52.5%
+52.4%
 
 Pick rate
 
@@ -46,7 +46,7 @@ Ban rate
 1.  **47.7%**![](/images/ranks/Epic.webp)Epic
 2.  **48.3%**![](/images/ranks/Legend.webp)Legend
 3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -276,7 +276,7 @@ Over the last 30 days the toughest opponents are Lolita, Popol and Kupa, Joy, Le
 
 What is Melissa’s win rate right now?
 
-52.45% at Mythical Glory over the last 7 days and 50.24% across all ranks over 30 days, as of 25 November 2026.
+52.43% at Mythical Glory over the last 7 days and 50.31% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Melissa play?
 
@@ -284,7 +284,7 @@ Marksman, played in the Gold Lane.
 
 Is Melissa strong in the current meta?
 
-Tier B, #58 of 133 heroes and #11 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 52.5% win rate. In professional games over the last month the hero is drafted in 11.0% of them.
+Tier B, #58 of 133 heroes and #11 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 52.4% win rate. In professional games over the last month the hero is drafted in 11.0% of them.
 
 What is the best build for Melissa?
 

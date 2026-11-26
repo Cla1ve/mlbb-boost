@@ -1,6 +1,6 @@
 ---
 title: "Циклоп MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Циклоп в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,15% побед, тир C."
+description: "Циклоп в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,13% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/cyclops.html
 language: ru
 ---
@@ -44,7 +44,7 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
-2.  **52,1%**![](/images/ranks/Legend.webp)Легенда
+2.  **52,2%**![](/images/ranks/Legend.webp)Легенда
 3.  **52,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **52,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **50,8%**![](/images/ranks/Mythical_Glory.webp)Слава
@@ -293,7 +293,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
 
 ### Слабые цели
 
@@ -315,11 +315,11 @@ C
 
 Кто контрпик для героя «Циклоп» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Наталья, Марсель, Ванван, Джой и Матильда.
+За последние 30 дней чаще всего героя обыгрывают Наталья, Марсель, Ванван, Джой и Линг.
 
 Какой процент побед у героя «Циклоп» сейчас?
 
-51,15% в Мифической славе за последние 7 дней и 51,71% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,13% в Мифической славе за последние 7 дней и 51,72% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Циклоп»?
 

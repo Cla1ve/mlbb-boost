@@ -1,6 +1,6 @@
 ---
 title: "Пополь и Купа MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Пополь и Купа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,39% побед, тир C."
+description: "Пополь и Купа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,57% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/popol-and-kupa.html
 language: ru
 ---
@@ -17,15 +17,15 @@ C
 
 Победы
 
-48,4%
+48,6%
 
 Выбор
 
-0,4%
+0,3%
 
 Баны
 
-1,1%
+0,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,9 +43,9 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **54,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,1%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,1%**![](/images/ranks/Mythic.webp)Мифик
+1.  **54,3%**![](/images/ranks/Epic.webp)Эпик
+2.  **54,0%**![](/images/ranks/Legend.webp)Легенда
+3.  **53,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **52,3%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -57,7 +57,7 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**28 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**30 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие стрелки MLBB**21 из 23**](https://boostmlbb.ru/heroes/best-marksman.html)
 
 ## Сборка
@@ -313,13 +313,13 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)
+[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
+[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
 ## История
 
@@ -335,11 +335,11 @@ C
 
 Кто контрпик для героя «Пополь и Купа» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Кусака, Харли, Зилонг, Чан'Э и Лесли.
+За последние 30 дней чаще всего героя обыгрывают Кусака, Харли, Чан'Э, Зилонг и Селена.
 
 Какой процент побед у героя «Пополь и Купа» сейчас?
 
-48,39% в Мифической славе за последние 7 дней и 51,85% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,57% в Мифической славе за последние 7 дней и 51,73% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Пополь и Купа»?
 
@@ -347,7 +347,7 @@ C
 
 Силён ли герой «Пополь и Купа» в текущей мете?
 
-Тир C, 104-е место из 133 героев и 21-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 48,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 110-е место из 133 героев и 21-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 48,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Пополь и Купа» лучшая?
 

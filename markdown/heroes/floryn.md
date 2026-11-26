@@ -1,6 +1,6 @@
 ---
 title: "Флорин MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Флорин в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 53,92% побед, тир B."
+description: "Флорин в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Поддержка, 53,94% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/floryn.html
 language: ru
 ---
@@ -25,7 +25,7 @@ B
 
 Баны
 
-13,8%
+13,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -298,7 +298,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
+[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
@@ -318,7 +318,7 @@ B
 
 Какой процент побед у героя «Флорин» сейчас?
 
-53,92% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+53,94% в Мифической славе за последние 7 дней и 54,03% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Флорин»?
 
@@ -326,7 +326,7 @@ B
 
 Силён ли герой «Флорин» в текущей мете?
 
-Тир B, 31-е место из 133 героев и 7-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 13,8% матчей, 53,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир B, 31-е место из 133 героев и 7-е среди героев поддержки. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 13,9% матчей, 53,9% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Флорин» лучшая?
 

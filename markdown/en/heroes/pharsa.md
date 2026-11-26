@@ -1,6 +1,6 @@
 ---
 title: "Pharsa MLBB: build, counters and skills | MLBB Boost"
-description: "Pharsa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.68% win rate, tier D."
+description: "Pharsa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.63% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/pharsa.html
 language: en
 ---
@@ -17,7 +17,7 @@ D
 
 Win rate
 
-46.7%
+46.6%
 
 Pick rate
 
@@ -325,7 +325,7 @@ Over the last 30 days the toughest opponents are Lolita, Diggie, Melissa, Yve an
 
 What is Pharsa’s win rate right now?
 
-46.68% at Mythical Glory over the last 7 days and 47.21% across all ranks over 30 days, as of 25 November 2026.
+46.63% at Mythical Glory over the last 7 days and 47.20% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Pharsa play?
 
@@ -333,7 +333,7 @@ Mage, played in the Mid Lane.
 
 Is Pharsa strong in the current meta?
 
-Tier D, #123 of 133 heroes and #31 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.7% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
+Tier D, #123 of 133 heroes and #31 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.6% win rate. In professional games over the last month the hero is drafted in 0.6% of them.
 
 What is the best build for Pharsa?
 

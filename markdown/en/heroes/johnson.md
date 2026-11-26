@@ -1,6 +1,6 @@
 ---
 title: "Johnson MLBB: build, counters and skills | MLBB Boost"
-description: "Johnson in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 47.94% win rate, tier C."
+description: "Johnson in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 47.96% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/johnson.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-47.9%
+48.0%
 
 Pick rate
 
@@ -45,8 +45,8 @@ Ban rate
 
 1.  **52.7%**![](/images/ranks/Epic.webp)Epic
 2.  **51.0%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.2%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **50.1%**![](/images/ranks/Mythic.webp)Mythic
+4.  **48.3%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **47.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -58,7 +58,7 @@ Dashed line: 50% win rate
 ### Places in the rankings
 
 -   [Best MLBB tanks**17 of 25**](https://boostmlbb.ru/en/heroes/best-tank.html)
--   [Best MLBB roamers**23 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
+-   [Best MLBB roamers**22 of 34**](https://boostmlbb.ru/en/heroes/best-roam.html)
 
 ## Build
 
@@ -295,7 +295,7 @@ Johnson's location is revealed to enemies for 3s when he casts this skill.
 
 Beat this hero
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Easy targets
 
@@ -317,11 +317,11 @@ This hero beats them
 
 Who counters Johnson in MLBB?
 
-Over the last 30 days the toughest opponents are Layla, Zilong, Saber, Valentina and Dyrroth.
+Over the last 30 days the toughest opponents are Layla, Zilong, Saber, Dyrroth and Valentina.
 
 What is Johnson’s win rate right now?
 
-47.94% at Mythical Glory over the last 7 days and 49.32% across all ranks over 30 days, as of 25 November 2026.
+47.96% at Mythical Glory over the last 7 days and 49.36% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Johnson play?
 
@@ -329,7 +329,7 @@ Tank and support, played on roam.
 
 Is Johnson strong in the current meta?
 
-Tier C, #103 of 133 heroes and #17 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 47.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #102 of 133 heroes and #17 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.7% of matches, 48.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Johnson?
 

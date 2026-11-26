@@ -1,6 +1,6 @@
 ---
 title: "Alucard MLBB: build, counters and skills | MLBB Boost"
-description: "Alucard in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.38% win rate, tier C."
+description: "Alucard in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.37% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/alucard.html
 language: en
 ---
@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **48.8%**![](/images/ranks/Epic.webp)Epic
-2.  **48.9%**![](/images/ranks/Legend.webp)Legend
+2.  **49.0%**![](/images/ranks/Legend.webp)Legend
 3.  **49.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.1%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -261,7 +261,7 @@ Over the last 30 days the toughest opponents are Natalia, Sun, Mathilda, Saber a
 
 What is Alucard’s win rate right now?
 
-49.38% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 25 November 2026.
+49.37% at Mythical Glory over the last 7 days and 48.93% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Alucard play?
 

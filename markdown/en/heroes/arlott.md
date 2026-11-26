@@ -1,6 +1,6 @@
 ---
 title: "Arlott MLBB: build, counters and skills | MLBB Boost"
-description: "Arlott in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 48.07% win rate, tier B."
+description: "Arlott in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 48.05% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-48.1%
+48.0%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.8%
+0.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -321,7 +321,7 @@ Over the last 30 days the toughest opponents are X.Borg, Cici, Zhuxin, Natan and
 
 What is Arlott’s win rate right now?
 
-48.07% at Mythical Glory over the last 7 days and 47.47% across all ranks over 30 days, as of 25 November 2026.
+48.05% at Mythical Glory over the last 7 days and 47.46% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Arlott play?
 
@@ -329,7 +329,7 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Arlott strong in the current meta?
 
-Tier B, #63 of 133 heroes and #18 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 48.1% win rate. In professional games over the last month the hero is drafted in 12.5% of them.
+Tier B, #63 of 133 heroes and #18 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.9% of matches, 48.0% win rate. In professional games over the last month the hero is drafted in 12.5% of them.
 
 What is the best build for Arlott?
 

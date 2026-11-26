@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-32.3%
+32.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **53.9%**![](/images/ranks/Epic.webp)Epic
+1.  **54.0%**![](/images/ranks/Epic.webp)Epic
 2.  **53.4%**![](/images/ranks/Legend.webp)Legend
 3.  **53.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.3%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -302,7 +302,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
+[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
 ## Lore
 
@@ -322,7 +322,7 @@ Over the last 30 days the toughest opponents are Cyclops, Faramis, Alice, Cici a
 
 What is Estes’s win rate right now?
 
-52.58% at Mythical Glory over the last 7 days and 52.76% across all ranks over 30 days, as of 25 November 2026.
+52.58% at Mythical Glory over the last 7 days and 52.75% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Estes play?
 
@@ -330,7 +330,7 @@ Support, played on roam.
 
 Is Estes strong in the current meta?
 
-Tier A, #22 of 133 heroes and #4 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 32.3% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 14.9% of them.
+Tier A, #22 of 133 heroes and #4 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 32.5% of matches, 52.6% win rate. In professional games over the last month the hero is drafted in 14.9% of them.
 
 What is the best build for Estes?
 

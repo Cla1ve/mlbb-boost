@@ -1,6 +1,6 @@
 ---
 title: "Нана MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Нана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 45,11% побед, тир C."
+description: "Нана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 45,14% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/nana.html
 language: ru
 ---
@@ -46,7 +46,7 @@ C
 1.  **49,9%**![](/images/ranks/Epic.webp)Эпик
 2.  **48,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **47,4%**![](/images/ranks/Mythic.webp)Мифик
-4.  **46,0%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **46,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **45,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -244,7 +244,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)
+[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
 ## История
 
@@ -264,7 +264,7 @@ C
 
 Какой процент побед у героя «Нана» сейчас?
 
-45,11% в Мифической славе за последние 7 дней и 47,24% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+45,14% в Мифической славе за последние 7 дней и 47,22% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Нана»?
 

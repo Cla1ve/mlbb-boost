@@ -1,6 +1,6 @@
 ---
 title: "Clint MLBB: build, counters and skills | MLBB Boost"
-description: "Clint in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.24% win rate, tier B."
+description: "Clint in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.18% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/clint.html
 language: en
 ---
@@ -45,9 +45,9 @@ Ban rate
 
 1.  **47.5%**![](/images/ranks/Epic.webp)Epic
 2.  **49.3%**![](/images/ranks/Legend.webp)Legend
-3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **50.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **50.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -294,7 +294,7 @@ Clint gains a grenade charge every 10s (up to 3).
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ### Easy targets
 
@@ -316,11 +316,11 @@ This hero beats them
 
 Who counters Clint in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Karina, Belerick, Baxia and Lunox.
+Over the last 30 days the toughest opponents are Lolita, Karina, Belerick, Marcel and Baxia.
 
 What is Clint’s win rate right now?
 
-50.24% at Mythical Glory over the last 7 days and 50.32% across all ranks over 30 days, as of 25 November 2026.
+50.18% at Mythical Glory over the last 7 days and 50.30% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Clint play?
 

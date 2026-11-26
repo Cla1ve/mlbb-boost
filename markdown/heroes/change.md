@@ -1,6 +1,6 @@
 ---
 title: "Чан'Э MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Чан'Э в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 46,00% побед, тир C."
+description: "Чан'Э в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 46,04% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/change.html
 language: ru
 ---
@@ -297,7 +297,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
+[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)
 
 ### Слабые цели
 
@@ -319,11 +319,11 @@ C
 
 Кто контрпик для героя «Чан'Э» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Дигги, Бальмонд, Мартис, Альфа и Икс.Борг.
+За последние 30 дней чаще всего героя обыгрывают Дигги, Бальмонд, Мартис, Икс.Борг и Альфа.
 
 Какой процент побед у героя «Чан'Э» сейчас?
 
-46,00% в Мифической славе за последние 7 дней и 48,21% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+46,04% в Мифической славе за последние 7 дней и 48,21% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Чан'Э»?
 

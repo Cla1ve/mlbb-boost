@@ -1,6 +1,6 @@
 ---
 title: "Матильда MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Матильда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и поддержка, 43,95% побед, тир D."
+description: "Матильда в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и поддержка, 43,97% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/mathilda.html
 language: ru
 ---
@@ -43,7 +43,7 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **46,8%**![](/images/ranks/Epic.webp)Эпик
+1.  **46,9%**![](/images/ranks/Epic.webp)Эпик
 2.  **45,3%**![](/images/ranks/Legend.webp)Легенда
 3.  **45,1%**![](/images/ranks/Mythic.webp)Мифик
 4.  **45,0%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -305,7 +305,7 @@ D
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
 
 ## История
 
@@ -325,7 +325,7 @@ D
 
 Какой процент побед у героя «Матильда» сейчас?
 
-43,95% в Мифической славе за последние 7 дней и 44,47% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+43,97% в Мифической славе за последние 7 дней и 44,46% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Матильда»?
 

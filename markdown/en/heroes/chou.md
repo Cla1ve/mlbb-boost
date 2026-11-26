@@ -1,6 +1,6 @@
 ---
 title: "Chou MLBB: build, counters and skills | MLBB Boost"
-description: "Chou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 44.67% win rate, tier B."
+description: "Chou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 44.65% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-44.7%
+44.6%
 
 Pick rate
 
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -313,7 +313,7 @@ Over the last 30 days the toughest opponents are X.Borg, Fanny, Beatrix, Ixia an
 
 What is Chou’s win rate right now?
 
-44.67% at Mythical Glory over the last 7 days and 45.10% across all ranks over 30 days, as of 25 November 2026.
+44.65% at Mythical Glory over the last 7 days and 45.09% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Chou play?
 
@@ -321,7 +321,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Chou strong in the current meta?
 
-Tier B, #47 of 133 heroes and #14 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 44.7% win rate. In professional games over the last month the hero is drafted in 24.4% of them.
+Tier B, #47 of 133 heroes and #14 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.9% of matches, 44.6% win rate. In professional games over the last month the hero is drafted in 24.4% of them.
 
 What is the best build for Chou?
 

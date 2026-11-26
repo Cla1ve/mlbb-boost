@@ -54,8 +54,8 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 -   [![](/images/heroes/barats.webp)Barats59.5%](https://boostmlbb.ru/en/heroes/barats.html#build)
 -   [![](/images/heroes/lukas.webp)Lukas55.4%](https://boostmlbb.ru/en/heroes/lukas.html#build)
 -   [![](/images/heroes/suyou.webp)Suyou53.5%](https://boostmlbb.ru/en/heroes/suyou.html#build)
--   [![](/images/heroes/rafaela.webp)Rafaela62.4%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
 -   [![](/images/heroes/sora.webp)Sora54.2%](https://boostmlbb.ru/en/heroes/sora.html#build)
+-   [![](/images/heroes/rafaela.webp)Rafaela62.4%](https://boostmlbb.ru/en/heroes/rafaela.html#build)
 -   [![](/images/heroes/yu-zhong.webp)Yu Zhong55.4%](https://boostmlbb.ru/en/heroes/yu-zhong.html#build)
 -   [![](/images/heroes/guinevere.webp)Guinevere56.6%](https://boostmlbb.ru/en/heroes/guinevere.html#build)
 -   [![](/images/heroes/phoveus.webp)Phoveus57.1%](https://boostmlbb.ru/en/heroes/phoveus.html#build)
@@ -98,4 +98,4 @@ What does Queen's Wings give?
 
 Which heroes build Queen's Wings?
 
-It is in the popular ranked builds of 18 heroes, among them Barats, Lukas, Suyou, Rafaela, Sora and Yu Zhong.
+It is in the popular ranked builds of 18 heroes, among them Barats, Lukas, Suyou, Sora, Rafaela and Yu Zhong.

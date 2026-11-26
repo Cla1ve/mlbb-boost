@@ -1,6 +1,6 @@
 ---
 title: "Джой MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Джой в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,35% побед, тир D."
+description: "Джой в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 49,34% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/joy.html
 language: ru
 ---
@@ -17,7 +17,7 @@ D
 
 Победы
 
-49,4%
+49,3%
 
 Выбор
 
@@ -45,8 +45,8 @@ D
 
 1.  **47,8%**![](/images/ranks/Epic.webp)Эпик
 2.  **46,5%**![](/images/ranks/Legend.webp)Легенда
-3.  **46,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **48,8%**![](/images/ranks/Mythical_Honor.webp)Честь
+3.  **46,4%**![](/images/ranks/Mythic.webp)Мифик
+4.  **48,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -295,13 +295,13 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)
+[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
+[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
 
 ## История
 
@@ -317,11 +317,11 @@ D
 
 Кто контрпик для героя «Джой» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Сан, Лолита, Икс.Борг, Ив и Лилия.
+За последние 30 дней чаще всего героя обыгрывают Сан, Лолита, Икс.Борг, Ив и Ханаби.
 
 Какой процент побед у героя «Джой» сейчас?
 
-49,35% в Мифической славе за последние 7 дней и 48,79% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,34% в Мифической славе за последние 7 дней и 48,78% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Джой»?
 
@@ -329,7 +329,7 @@ D
 
 Силён ли герой «Джой» в текущей мете?
 
-Тир D, 115-е место из 133 героев и 26-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
+Тир D, 115-е место из 133 героев и 26-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 49,3% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Джой» лучшая?
 

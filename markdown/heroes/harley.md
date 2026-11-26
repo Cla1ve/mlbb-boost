@@ -1,6 +1,6 @@
 ---
 title: "Харли MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Харли в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и маг, 48,76% побед, тир B."
+description: "Харли в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца и маг, 48,77% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/harley.html
 language: ru
 ---
@@ -53,7 +53,7 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)
 
 ### Места в рейтингах
 
@@ -297,7 +297,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
+[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
 
 ### Слабые цели
 
@@ -319,11 +319,11 @@ B
 
 Кто контрпик для героя «Харли» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Алиса, Валир, Мелисса, Горд и Джой.
+За последние 30 дней чаще всего героя обыгрывают Алиса, Валир, Мелисса, Джой и Горд.
 
 Какой процент побед у героя «Харли» сейчас?
 
-48,76% в Мифической славе за последние 7 дней и 48,24% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,77% в Мифической славе за последние 7 дней и 48,26% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Харли»?
 
@@ -331,7 +331,7 @@ B
 
 Силён ли герой «Харли» в текущей мете?
 
-Тир B, 43-е место из 133 героев и 9-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 22,9% катков.
+Тир B, 44-е место из 133 героев и 9-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,8% матчей, 48,8% побед. В профессиональных матчах за месяц героя драфтуют в 22,9% катков.
 
 Какая сборка на героя «Харли» лучшая?
 

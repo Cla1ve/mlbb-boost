@@ -1,6 +1,6 @@
 ---
 title: "Sora MLBB: build, counters and skills | MLBB Boost"
-description: "Sora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.57% win rate, tier B."
+description: "Sora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.60% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/sora.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 1.  **48.9%**![](/images/ranks/Epic.webp)Epic
 2.  **49.4%**![](/images/ranks/Legend.webp)Legend
 3.  **49.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.4%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **49.5%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -321,7 +321,7 @@ Over the last 30 days the toughest opponents are Estes, Popol and Kupa, Rafaela,
 
 What is Sora’s win rate right now?
 
-49.57% at Mythical Glory over the last 7 days and 49.51% across all ranks over 30 days, as of 25 November 2026.
+49.60% at Mythical Glory over the last 7 days and 49.52% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Sora play?
 
@@ -329,7 +329,7 @@ Fighter and assassin, played in the EXP Lane.
 
 Is Sora strong in the current meta?
 
-Tier B, #34 of 133 heroes and #11 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.0% of matches, 49.6% win rate. In professional games over the last month the hero is drafted in 23.7% of them.
+Tier B, #33 of 133 heroes and #11 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.0% of matches, 49.6% win rate. In professional games over the last month the hero is drafted in 23.7% of them.
 
 What is the best build for Sora?
 

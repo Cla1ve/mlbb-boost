@@ -1,6 +1,6 @@
 ---
 title: "Калеа MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Калеа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и поддержка, 51,73% побед, тир S."
+description: "Калеа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и поддержка, 51,75% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/kalea.html
 language: ru
 ---
@@ -17,7 +17,7 @@ S
 
 Победы
 
-51,7%
+51,8%
 
 Выбор
 
@@ -45,7 +45,7 @@ S
 
 1.  **49,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,7%**![](/images/ranks/Mythic.webp)Мифик
+3.  **49,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -57,7 +57,7 @@ S
 
 ### Места в рейтингах
 
--   [Лучшие бойцы MLBB**2 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
+-   [Лучшие бойцы MLBB**3 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 -   [Лучшие роумеры MLBB**2 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
 ## Сборка
@@ -299,7 +299,7 @@ S
 
 Побеждают этого героя
 
-[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
 
 ## История
 
@@ -315,11 +315,11 @@ S
 
 Кто контрпик для героя «Калеа» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Фанни, Хелкарт, Лолита, Ив и Халид.
+За последние 30 дней чаще всего героя обыгрывают Фанни, Ив, Хелкарт, Халид и Лолита.
 
 Какой процент побед у героя «Калеа» сейчас?
 
-51,73% в Мифической славе за последние 7 дней и 50,50% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,75% в Мифической славе за последние 7 дней и 50,52% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Калеа»?
 
@@ -327,7 +327,7 @@ S
 
 Силён ли герой «Калеа» в текущей мете?
 
-Тир S, 5-е место из 133 героев и 2-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 14,6% матчей, 51,7% побед. В профессиональных матчах за месяц героя драфтуют в 99,7% катков.
+Тир S, 6-е место из 133 героев и 3-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 14,6% матчей, 51,8% побед. В профессиональных матчах за месяц героя драфтуют в 99,7% катков.
 
 Какая сборка на героя «Калеа» лучшая?
 

@@ -45,7 +45,7 @@ Ban rate
 
 1.  **50.0%**![](/images/ranks/Epic.webp)Epic
 2.  **49.6%**![](/images/ranks/Legend.webp)Legend
-3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -57,7 +57,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**29 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**28 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB fighters**32 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 -   [Best MLBB assassins**24 of 29**](https://boostmlbb.ru/en/heroes/best-assassin.html)
 
@@ -308,7 +308,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
 ## Lore
 
@@ -328,7 +328,7 @@ Over the last 30 days the toughest opponents are Diggie, Minsitthar, Ixia, Flory
 
 What is Yin’s win rate right now?
 
-49.95% at Mythical Glory over the last 7 days and 49.66% across all ranks over 30 days, as of 25 November 2026.
+49.95% at Mythical Glory over the last 7 days and 49.67% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yin play?
 
@@ -336,7 +336,7 @@ Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Yin strong in the current meta?
 
-Tier C, #105 of 133 heroes and #32 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #104 of 133 heroes and #32 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Yin?
 

@@ -1,6 +1,6 @@
 ---
 title: "Yu Zhong MLBB: build, counters and skills | MLBB Boost"
-description: "Yu Zhong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.68% win rate, tier B."
+description: "Yu Zhong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.69% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yu-zhong.html
 language: en
 ---
@@ -324,7 +324,7 @@ Over the last 30 days the toughest opponents are Gloo, Minsitthar, Silvanna, Pop
 
 What is Yu Zhong’s win rate right now?
 
-48.68% at Mythical Glory over the last 7 days and 48.91% across all ranks over 30 days, as of 25 November 2026.
+48.69% at Mythical Glory over the last 7 days and 48.90% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yu Zhong play?
 

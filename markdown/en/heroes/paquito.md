@@ -1,6 +1,6 @@
 ---
 title: "Paquito MLBB: build, counters and skills | MLBB Boost"
-description: "Paquito in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 50.13% win rate, tier A."
+description: "Paquito in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 50.14% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/paquito.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-10.8%
+10.7%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **49.5%**![](/images/ranks/Epic.webp)Epic
 2.  **49.5%**![](/images/ranks/Legend.webp)Legend
-3.  **49.7%**![](/images/ranks/Mythic.webp)Mythic
+3.  **49.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.5%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -304,7 +304,7 @@ He then throws a haymaker, dealing 300 (+90% Total Physical Attack) Physical Dam
 
 Beat this hero
 
-[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
 ## Lore
 
@@ -320,11 +320,11 @@ Beat this hero
 
 Who counters Paquito in MLBB?
 
-Over the last 30 days the toughest opponents are Natalia, X.Borg, Karina, Helcurt and Wanwan.
+Over the last 30 days the toughest opponents are Natalia, X.Borg, Karina, Wanwan and Helcurt.
 
 What is Paquito’s win rate right now?
 
-50.13% at Mythical Glory over the last 7 days and 50.01% across all ranks over 30 days, as of 25 November 2026.
+50.14% at Mythical Glory over the last 7 days and 50.01% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Paquito play?
 
@@ -332,7 +332,7 @@ Fighter and assassin, played in the EXP Lane or in the jungle.
 
 Is Paquito strong in the current meta?
 
-Tier A, #11 of 133 heroes and #5 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.8% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 69.3% of them.
+Tier A, #11 of 133 heroes and #5 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 10.7% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 69.3% of them.
 
 What is the best build for Paquito?
 

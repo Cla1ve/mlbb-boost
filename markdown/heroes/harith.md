@@ -1,6 +1,6 @@
 ---
 title: "Харит MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Харит в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,70% побед, тир C."
+description: "Харит в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 48,65% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/harith.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-48,7%
+48,6%
 
 Выбор
 
@@ -45,9 +45,9 @@ C
 
 1.  **45,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **45,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **44,8%**![](/images/ranks/Mythic.webp)Мифик
+3.  **44,7%**![](/images/ranks/Mythic.webp)Мифик
 4.  **46,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **48,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -296,7 +296,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)
 
 ### Слабые цели
 
@@ -318,11 +318,11 @@ C
 
 Кто контрпик для героя «Харит» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Джонсон, Карина, Лапу-Лапу и Су Ё.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Карина, Джонсон, Лапу-Лапу и Су Ё.
 
 Какой процент побед у героя «Харит» сейчас?
 
-48,70% в Мифической славе за последние 7 дней и 47,00% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,65% в Мифической славе за последние 7 дней и 47,03% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Харит»?
 
@@ -330,7 +330,7 @@ C
 
 Силён ли герой «Харит» в текущей мете?
 
-Тир C, 72-е место из 133 героев и 18-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 48,7% побед. В профессиональных матчах за месяц героя драфтуют в 19,7% катков.
+Тир C, 72-е место из 133 героев и 18-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 48,6% побед. В профессиональных матчах за месяц героя драфтуют в 19,7% катков.
 
 Какая сборка на героя «Харит» лучшая?
 

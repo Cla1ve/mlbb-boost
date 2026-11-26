@@ -1,6 +1,6 @@
 ---
 title: "Zhask MLBB: build, counters and skills | MLBB Boost"
-description: "Zhask in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.57% win rate, tier C."
+description: "Zhask in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.67% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zhask.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-51.6%
+51.7%
 
 Pick rate
 
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **52.6%**![](/images/ranks/Epic.webp)Epic
+1.  **52.7%**![](/images/ranks/Epic.webp)Epic
 2.  **53.1%**![](/images/ranks/Legend.webp)Legend
 3.  **53.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.7%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -57,7 +57,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB mages**27 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
+-   [Best MLBB mages**26 of 32**](https://boostmlbb.ru/en/heroes/best-mage.html)
 -   [Best MLBB mid laners**24 of 29**](https://boostmlbb.ru/en/heroes/best-mid.html)
 
 ## Build
@@ -317,7 +317,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
 ## Lore
 
@@ -337,7 +337,7 @@ Over the last 30 days the toughest opponents are Lolita, Diggie, Kaja, Arlott an
 
 What is Zhask’s win rate right now?
 
-51.57% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 25 November 2026.
+51.67% at Mythical Glory over the last 7 days and 52.54% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Zhask play?
 
@@ -345,7 +345,7 @@ Mage, played in the Mid Lane.
 
 Is Zhask strong in the current meta?
 
-Tier C, #107 of 133 heroes and #27 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.6% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #105 of 133 heroes and #26 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 51.7% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Zhask?
 

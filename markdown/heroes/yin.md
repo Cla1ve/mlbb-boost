@@ -45,7 +45,7 @@ C
 
 1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,6%**![](/images/ranks/Legend.webp)Легенда
-3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
+3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **49,1%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **49,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -57,7 +57,7 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**29 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**28 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие бойцы MLBB**32 из 44**](https://boostmlbb.ru/heroes/best-fighter.html)
 -   [Лучшие убийцы MLBB**24 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 
@@ -308,7 +308,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
 ## История
 
@@ -328,7 +328,7 @@ C
 
 Какой процент побед у героя «Инь» сейчас?
 
-49,95% в Мифической славе за последние 7 дней и 49,66% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,95% в Мифической славе за последние 7 дней и 49,67% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Инь»?
 
@@ -336,7 +336,7 @@ C
 
 Силён ли герой «Инь» в текущей мете?
 
-Тир C, 105-е место из 133 героев и 32-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 104-е место из 133 героев и 32-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Инь» лучшая?
 

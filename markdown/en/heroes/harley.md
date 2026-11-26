@@ -1,6 +1,6 @@
 ---
 title: "Harley MLBB: build, counters and skills | MLBB Boost"
-description: "Harley in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.76% win rate, tier B."
+description: "Harley in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.77% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/harley.html
 language: en
 ---
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More assassins on this lane
 
-[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
+[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
 ### Places in the rankings
 
@@ -297,7 +297,7 @@ Harley casts a magic ring of fire at an enemy hero, dealing 200 (+60% Total Magi
 
 Beat this hero
 
-[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
+[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
 
 ### Easy targets
 
@@ -319,11 +319,11 @@ This hero beats them
 
 Who counters Harley in MLBB?
 
-Over the last 30 days the toughest opponents are Alice, Valir, Melissa, Gord and Joy.
+Over the last 30 days the toughest opponents are Alice, Valir, Melissa, Joy and Gord.
 
 What is Harley’s win rate right now?
 
-48.76% at Mythical Glory over the last 7 days and 48.24% across all ranks over 30 days, as of 25 November 2026.
+48.77% at Mythical Glory over the last 7 days and 48.26% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Harley play?
 
@@ -331,7 +331,7 @@ Assassin and mage, played in the Mid Lane or in the jungle.
 
 Is Harley strong in the current meta?
 
-Tier B, #43 of 133 heroes and #9 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 22.9% of them.
+Tier B, #44 of 133 heroes and #9 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.8% of matches, 48.8% win rate. In professional games over the last month the hero is drafted in 22.9% of them.
 
 What is the best build for Harley?
 

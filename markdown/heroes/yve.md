@@ -1,6 +1,6 @@
 ---
 title: "Ив MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ив в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,82% побед, тир C."
+description: "Ив в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,68% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/yve.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-51,8%
+51,7%
 
 Выбор
 
@@ -43,11 +43,11 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **52,0%**![](/images/ranks/Epic.webp)Эпик
+1.  **52,1%**![](/images/ranks/Epic.webp)Эпик
 2.  **51,4%**![](/images/ranks/Legend.webp)Легенда
 3.  **51,3%**![](/images/ranks/Mythic.webp)Мифик
-4.  **52,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **52,2%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **52,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -307,7 +307,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)
 
 ## История
 
@@ -327,7 +327,7 @@ C
 
 Какой процент побед у героя «Ив» сейчас?
 
-51,82% в Мифической славе за последние 7 дней и 52,20% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,68% в Мифической славе за последние 7 дней и 52,16% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Ив»?
 
@@ -335,7 +335,7 @@ C
 
 Силён ли герой «Ив» в текущей мете?
 
-Тир C, 84-е место из 133 героев и 21-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 51,8% побед. В профессиональных матчах за месяц героя драфтуют в 16,6% катков.
+Тир C, 85-е место из 133 героев и 21-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,0% матчей, 51,7% побед. В профессиональных матчах за месяц героя драфтуют в 16,6% катков.
 
 Какая сборка на героя «Ив» лучшая?
 

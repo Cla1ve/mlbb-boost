@@ -195,11 +195,11 @@ A hero leaderboard place for a server or country is not guaranteed: hero rating 
 
 Latest reviews from our Telegram channel, unedited and in Russian.
 
-M
+V
 
 Booster
 
-Mitsu
+VenomSkie.
 
 Verified booster
 
@@ -209,19 +209,19 @@ Client rating
 
 On a hero
 
-StartМифический бессмертный, 135⭐
+StartМифическая честь, 26⭐
 
-TargetМифический бессмертный, 141⭐
+TargetМифическая честь, 45⭐
 
-Супер, топовая селенка, специалист высшего уровня, знает свое дело на сто из ста
+Спасибо за буст
 
-HeroСелена
+HeroОбсидия
 
-Time2ч 22м после оплаты
+Time12ч 33м после оплаты
 
-25 November 2026
+26 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2295)
+[Open review](https://t.me/Cla1ve_boost/2300)
 
 K
 
@@ -237,19 +237,19 @@ Client rating
 
 On a hero
 
-StartМифическая честь, 44⭐
+StartМифический бессмертный, 110⭐
 
-TargetМифическая слава, 51⭐
+TargetМифический бессмертный, 120⭐
 
-Гууууд, быстрее вышло чем думал даже
+Лучшая, быстро и качественно, спасибо ещё раз)
 
-HeroЛилия
+HeroОбсидия
 
-Time2ч 40м после оплаты
+Time5ч 2м после оплаты
 
-24 November 2026
+25 November 2026
 
-[Open review](https://t.me/Cla1ve_boost/2287)
+[Open review](https://t.me/Cla1ve_boost/2297)
 
 C
 

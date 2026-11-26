@@ -1,6 +1,6 @@
 ---
 title: "Баксий MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Баксий в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 45,99% побед, тир D."
+description: "Баксий в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 45,94% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/baxia.html
 language: ru
 ---
@@ -17,7 +17,7 @@ D
 
 Победы
 
-46,0%
+45,9%
 
 Выбор
 
@@ -45,7 +45,7 @@ D
 
 1.  **48,6%**![](/images/ranks/Epic.webp)Эпик
 2.  **47,0%**![](/images/ranks/Legend.webp)Легенда
-3.  **45,7%**![](/images/ranks/Mythic.webp)Мифик
+3.  **45,6%**![](/images/ranks/Mythic.webp)Мифик
 4.  **44,7%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **45,9%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -298,13 +298,13 @@ D
 
 Побеждают этого героя
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
 ### Слабые цели
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
 ## История
 
@@ -320,11 +320,11 @@ D
 
 Кто контрпик для героя «Баксий» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Обсидия, Алиса, Лукас, Сабер и Эдит.
+За последние 30 дней чаще всего героя обыгрывают Обсидия, Алиса, Лукас, Сабер и Заск.
 
 Какой процент побед у героя «Баксий» сейчас?
 
-45,99% в Мифической славе за последние 7 дней и 45,90% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+45,94% в Мифической славе за последние 7 дней и 45,86% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Баксий»?
 
@@ -332,7 +332,7 @@ D
 
 Силён ли герой «Баксий» в текущей мете?
 
-Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 46,0% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
+Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,9% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
 Какая сборка на героя «Баксий» лучшая?
 

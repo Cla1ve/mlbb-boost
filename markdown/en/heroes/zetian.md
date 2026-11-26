@@ -1,6 +1,6 @@
 ---
 title: "Zetian MLBB: build, counters and skills | MLBB Boost"
-description: "Zetian in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.01% win rate, tier A."
+description: "Zetian in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.06% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zetian.html
 language: en
 ---
@@ -17,7 +17,7 @@ A
 
 Win rate
 
-50.0%
+50.1%
 
 Pick rate
 
@@ -319,7 +319,7 @@ Over the last 30 days the toughest opponents are Lolita, Natalia, Tigreal, Helcu
 
 What is Zetian’s win rate right now?
 
-50.01% at Mythical Glory over the last 7 days and 50.87% across all ranks over 30 days, as of 25 November 2026.
+50.06% at Mythical Glory over the last 7 days and 50.86% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Zetian play?
 
@@ -327,7 +327,7 @@ Mage, played in the Mid Lane.
 
 Is Zetian strong in the current meta?
 
-Tier A, #21 of 133 heroes and #7 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.2% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 39.6% of them.
+Tier A, #21 of 133 heroes and #7 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 3.2% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 39.6% of them.
 
 What is the best build for Zetian?
 

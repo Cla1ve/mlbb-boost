@@ -322,7 +322,7 @@ Over the last 30 days the toughest opponents are Faramis, Esmeralda, Alice, Phov
 
 What is Julian’s win rate right now?
 
-49.26% at Mythical Glory over the last 7 days and 49.92% across all ranks over 30 days, as of 25 November 2026.
+49.26% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Julian play?
 

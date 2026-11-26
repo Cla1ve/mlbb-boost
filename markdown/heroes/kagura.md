@@ -1,6 +1,6 @@
 ---
 title: "Кагура MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кагура в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 50,26% побед, тир B."
+description: "Кагура в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 50,31% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/kagura.html
 language: ru
 ---
@@ -291,7 +291,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)
 
 ### Слабые цели
 
@@ -313,11 +313,11 @@ B
 
 Кто контрпик для героя «Кагура» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Сильвана, Валир, Ханзо и Ханаби.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Сильвана, Ханзо, Валир и Ханаби.
 
 Какой процент побед у героя «Кагура» сейчас?
 
-50,26% в Мифической славе за последние 7 дней и 51,01% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,31% в Мифической славе за последние 7 дней и 50,98% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кагура»?
 

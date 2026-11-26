@@ -1,6 +1,6 @@
 ---
 title: "Cecilion MLBB: build, counters and skills | MLBB Boost"
-description: "Cecilion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.65% win rate, tier C."
+description: "Cecilion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.61% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
@@ -327,7 +327,7 @@ Over the last 30 days the toughest opponents are Lolita, Barats, Phoveus, Hylos 
 
 What is Cecilion’s win rate right now?
 
-50.65% at Mythical Glory over the last 7 days and 50.90% across all ranks over 30 days, as of 25 November 2026.
+50.61% at Mythical Glory over the last 7 days and 50.87% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Cecilion play?
 

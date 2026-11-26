@@ -1,6 +1,6 @@
 ---
 title: "Cyclops MLBB: build, counters and skills | MLBB Boost"
-description: "Cyclops in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.15% win rate, tier C."
+description: "Cyclops in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.13% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **52.1%**![](/images/ranks/Epic.webp)Epic
-2.  **52.1%**![](/images/ranks/Legend.webp)Legend
+2.  **52.2%**![](/images/ranks/Legend.webp)Legend
 3.  **52.6%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.8%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -293,7 +293,7 @@ Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, d
 
 Beat this hero
 
-[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
 ### Easy targets
 
@@ -315,11 +315,11 @@ This hero beats them
 
 Who counters Cyclops in MLBB?
 
-Over the last 30 days the toughest opponents are Natalia, Marcel, Wanwan, Joy and Mathilda.
+Over the last 30 days the toughest opponents are Natalia, Marcel, Wanwan, Joy and Ling.
 
 What is Cyclops’s win rate right now?
 
-51.15% at Mythical Glory over the last 7 days and 51.71% across all ranks over 30 days, as of 25 November 2026.
+51.13% at Mythical Glory over the last 7 days and 51.72% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Cyclops play?
 

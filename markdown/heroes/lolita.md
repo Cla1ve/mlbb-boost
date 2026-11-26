@@ -1,6 +1,6 @@
 ---
 title: "Лолита MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лолита в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 52,35% побед, тир D."
+description: "Лолита в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 52,38% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/lolita.html
 language: ru
 ---
@@ -43,9 +43,9 @@ D
 
 ### Победы по рангам, 30 дней
 
-1.  **54,2%**![](/images/ranks/Epic.webp)Эпик
-2.  **55,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **54,7%**![](/images/ranks/Mythic.webp)Мифик
+1.  **54,1%**![](/images/ranks/Epic.webp)Эпик
+2.  **55,2%**![](/images/ranks/Legend.webp)Легенда
+3.  **54,8%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,8%**![](/images/ranks/Mythical_Glory.webp)Слава
 
@@ -301,7 +301,7 @@ D
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)
+[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)
 
 ## История
 
@@ -321,7 +321,7 @@ D
 
 Какой процент побед у героя «Лолита» сейчас?
 
-52,35% в Мифической славе за последние 7 дней и 53,29% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+52,38% в Мифической славе за последние 7 дней и 53,29% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Лолита»?
 

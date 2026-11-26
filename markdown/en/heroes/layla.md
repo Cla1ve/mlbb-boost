@@ -1,6 +1,6 @@
 ---
 title: "Layla MLBB: build, counters and skills | MLBB Boost"
-description: "Layla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.24% win rate, tier C."
+description: "Layla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.27% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/layla.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-48.2%
+48.3%
 
 Pick rate
 
@@ -46,7 +46,7 @@ Ban rate
 1.  **50.9%**![](/images/ranks/Epic.webp)Epic
 2.  **50.2%**![](/images/ranks/Legend.webp)Legend
 3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **48.7%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **48.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -320,7 +320,7 @@ Over the last 30 days the toughest opponents are Diggie, Edith, Rafaela, Phoveus
 
 What is Layla’s win rate right now?
 
-48.24% at Mythical Glory over the last 7 days and 49.41% across all ranks over 30 days, as of 25 November 2026.
+48.27% at Mythical Glory over the last 7 days and 49.42% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Layla play?
 
@@ -328,7 +328,7 @@ Marksman, played in the Gold Lane.
 
 Is Layla strong in the current meta?
 
-Tier C, #79 of 133 heroes and #16 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier C, #79 of 133 heroes and #16 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 48.3% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Layla?
 

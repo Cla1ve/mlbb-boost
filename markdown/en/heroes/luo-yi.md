@@ -1,6 +1,6 @@
 ---
 title: "Luo Yi MLBB: build, counters and skills | MLBB Boost"
-description: "Luo Yi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.22% win rate, tier D."
+description: "Luo Yi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.24% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/luo-yi.html
 language: en
 ---
@@ -21,7 +21,7 @@ Win rate
 
 Pick rate
 
-0.2%
+0.1%
 
 Ban rate
 
@@ -327,7 +327,7 @@ Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Fredrinn
 
 What is Luo Yi’s win rate right now?
 
-46.22% at Mythical Glory over the last 7 days and 47.28% across all ranks over 30 days, as of 25 November 2026.
+46.24% at Mythical Glory over the last 7 days and 47.24% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Luo Yi play?
 
@@ -335,7 +335,7 @@ Mage, played in the Mid Lane.
 
 Is Luo Yi strong in the current meta?
 
-Tier D, #130 of 133 heroes and #32 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier D, #131 of 133 heroes and #32 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 46.2% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Luo Yi?
 

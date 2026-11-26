@@ -1,6 +1,6 @@
 ---
 title: "Edith MLBB: build, counters and skills | MLBB Boost"
-description: "Edith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and marksman, 52.40% win rate, tier C."
+description: "Edith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and marksman, 52.38% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/edith.html
 language: en
 ---
@@ -45,9 +45,9 @@ Ban rate
 
 1.  **53.5%**![](/images/ranks/Epic.webp)Epic
 2.  **53.5%**![](/images/ranks/Legend.webp)Legend
-3.  **53.4%**![](/images/ranks/Mythic.webp)Mythic
-4.  **52.7%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+3.  **53.5%**![](/images/ranks/Mythic.webp)Mythic
+4.  **52.8%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -297,13 +297,13 @@ Cooldown **40 s**
 
 Beat this hero
 
-[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)
+[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)
 
 ### Easy targets
 
 This hero beats them
 
-[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
+[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
 ## Lore
 
@@ -319,11 +319,11 @@ This hero beats them
 
 Who counters Edith in MLBB?
 
-Over the last 30 days the toughest opponents are Alice, Silvanna, Harith, Faramis and Claude.
+Over the last 30 days the toughest opponents are Alice, Harith, Silvanna, Faramis and Claude.
 
 What is Edith’s win rate right now?
 
-52.40% at Mythical Glory over the last 7 days and 52.71% across all ranks over 30 days, as of 25 November 2026.
+52.38% at Mythical Glory over the last 7 days and 52.73% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Edith play?
 

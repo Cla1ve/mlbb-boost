@@ -1,6 +1,6 @@
 ---
 title: "Minsitthar MLBB: build, counters and skills | MLBB Boost"
-description: "Minsitthar in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 52.09% win rate, tier B."
+description: "Minsitthar in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 52.11% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/minsitthar.html
 language: en
 ---
@@ -318,7 +318,7 @@ Over the last 30 days the toughest opponents are Freya, Phoveus, Harith, Martis 
 
 What is Minsitthar’s win rate right now?
 
-52.09% at Mythical Glory over the last 7 days and 52.12% across all ranks over 30 days, as of 25 November 2026.
+52.11% at Mythical Glory over the last 7 days and 52.15% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Minsitthar play?
 

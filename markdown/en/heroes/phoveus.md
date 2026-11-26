@@ -1,6 +1,6 @@
 ---
 title: "Phoveus MLBB: build, counters and skills | MLBB Boost"
-description: "Phoveus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.54% win rate, tier B."
+description: "Phoveus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.55% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/phoveus.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.4%
+0.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -47,7 +47,7 @@ Ban rate
 2.  **48.4%**![](/images/ranks/Legend.webp)Legend
 3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **47.9%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -320,7 +320,7 @@ Over the last 30 days the toughest opponents are Wanwan, Harith, Freya, Benedett
 
 What is Phoveus’s win rate right now?
 
-48.54% at Mythical Glory over the last 7 days and 48.21% across all ranks over 30 days, as of 25 November 2026.
+48.55% at Mythical Glory over the last 7 days and 48.22% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Phoveus play?
 
@@ -328,7 +328,7 @@ Fighter, played in the EXP Lane.
 
 Is Phoveus strong in the current meta?
 
-Tier B, #65 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.4% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 18.3% of them.
+Tier B, #65 of 133 heroes and #19 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 48.5% win rate. In professional games over the last month the hero is drafted in 18.3% of them.
 
 What is the best build for Phoveus?
 

@@ -13,7 +13,7 @@ language: en
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-Obsidia, Kimmy and Bruno lead the marksmen right now. Obsidia wins 52.6% of Mythical Glory games over 7 days and is banned in 65.1% of them. The list has 23 heroes, 3 of them in tier S or A.
+Obsidia, Kimmy and Bruno lead the marksmen right now. Obsidia wins 52.6% of Mythical Glory games over 7 days and is banned in 65.4% of them. The list has 23 heroes, 3 of them in tier S or A.
 
 ## Top 3 and their builds
 
@@ -35,7 +35,7 @@ Pick rate
 
 Ban rate
 
-65.1%
+65.4%
 
 [
 
@@ -89,7 +89,7 @@ Pick rate
 
 Ban rate
 
-0.6%
+0.5%
 
 [
 
@@ -135,7 +135,7 @@ A
 
 Win rate
 
-54.3%
+54.4%
 
 Pick rate
 
@@ -207,7 +207,7 @@ S
 
 2.4%
 
-65.1%
+65.4%
 
 44.8%
 
@@ -221,7 +221,7 @@ A
 
 0.9%
 
-0.6%
+0.5%
 
 73.1%
 
@@ -231,7 +231,7 @@ A
 
 A
 
-54.3%
+54.4%
 
 1.0%
 
@@ -249,7 +249,7 @@ B
 
 2.0%
 
-5.1%
+5.3%
 
 6.8%
 
@@ -343,7 +343,7 @@ B
 
 B
 
-52.5%
+52.4%
 
 0.4%
 
@@ -385,7 +385,7 @@ C
 
 C
 
-50.6%
+50.5%
 
 0.8%
 
@@ -413,7 +413,7 @@ C
 
 C
 
-48.2%
+48.3%
 
 0.9%
 
@@ -483,11 +483,11 @@ C
 
 C
 
-48.4%
+48.6%
 
-0.4%
+0.3%
 
-1.1%
+0.9%
 
 —
 
@@ -534,9 +534,9 @@ The three core items of every hero’s most common build. Spell: Flicker on 11 a
 
 Win rate in Legend and Mythic over 30 days. Only heroes banned in fewer than 30% of Mythical Glory games.
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.6%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
-2.  [![](/images/heroes/hanabi.webp)Hanabi53.5%](https://boostmlbb.ru/en/heroes/hanabi.html)
-3.  [![](/images/heroes/edith.webp)Edith53.4%](https://boostmlbb.ru/en/heroes/edith.html)
+1.  [![](/images/heroes/hanabi.webp)Hanabi53.6%](https://boostmlbb.ru/en/heroes/hanabi.html)
+2.  [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa53.5%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+3.  [![](/images/heroes/edith.webp)Edith53.5%](https://boostmlbb.ru/en/heroes/edith.html)
 4.  [![](/images/heroes/irithel.webp)Irithel52.7%](https://boostmlbb.ru/en/heroes/irithel.html)
 5.  [![](/images/heroes/bruno.webp)Bruno52.5%](https://boostmlbb.ru/en/heroes/bruno.html)
 6.  [![](/images/heroes/natan.webp)Natan50.9%](https://boostmlbb.ru/en/heroes/natan.html)
@@ -560,7 +560,7 @@ How many heroes of this list it beats, by official counters.
 
 Who is the best marksman in MLBB right now?
 
-Obsidia: tier S, 52.6% win rate, banned in 65.1% of Mythical Glory games over 7 days. Kimmy and Bruno follow. Data as of 25 November 2026.
+Obsidia: tier S, 52.6% win rate, banned in 65.4% of Mythical Glory games over 7 days. Kimmy and Bruno follow. Data as of 25 November 2026.
 
 Which of the marksmen should a beginner pick?
 
@@ -568,7 +568,7 @@ Hanabi, Miya and Layla are the easiest to play: their difficulty on the in-game 
 
 Which marksmen get banned most?
 
-Obsidia (65.1%), Lesley (5.1%) and Miya (1.8%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
+Obsidia (65.4%), Lesley (5.3%) and Miya (1.8%). That is the share of Mythical Glory games over 7 days in which the hero was banned.
 
 How many marksmen are there in Mobile Legends?
 

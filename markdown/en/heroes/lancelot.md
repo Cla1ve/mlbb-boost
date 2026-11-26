@@ -1,6 +1,6 @@
 ---
 title: "Lancelot MLBB: build, counters and skills | MLBB Boost"
-description: "Lancelot in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.18% win rate, tier C."
+description: "Lancelot in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.16% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lancelot.html
 language: en
 ---
@@ -317,7 +317,7 @@ Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, Johnson and 
 
 What is Lancelot’s win rate right now?
 
-42.18% at Mythical Glory over the last 7 days and 43.10% across all ranks over 30 days, as of 25 November 2026.
+42.16% at Mythical Glory over the last 7 days and 43.08% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Lancelot play?
 

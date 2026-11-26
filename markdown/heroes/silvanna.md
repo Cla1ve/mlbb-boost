@@ -1,6 +1,6 @@
 ---
 title: "Сильвана MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Сильвана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,28% побед, тир C."
+description: "Сильвана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,29% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/silvanna.html
 language: ru
 ---
@@ -298,7 +298,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Слабые цели
 
@@ -320,11 +320,11 @@ C
 
 Кто контрпик для героя «Сильвана» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эймон, Флорин, Ангела, Валентина и Рафаэль.
+За последние 30 дней чаще всего героя обыгрывают Эймон, Флорин, Ангела, Рафаэль и Валентина.
 
 Какой процент побед у героя «Сильвана» сейчас?
 
-50,28% в Мифической славе за последние 7 дней и 51,37% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,29% в Мифической славе за последние 7 дней и 51,38% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Сильвана»?
 

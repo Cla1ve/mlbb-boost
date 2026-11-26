@@ -1,6 +1,6 @@
 ---
 title: "Lylia MLBB: build, counters and skills | MLBB Boost"
-description: "Lylia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 47.62% win rate, tier B."
+description: "Lylia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 47.60% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lylia.html
 language: en
 ---
@@ -44,7 +44,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.0%**![](/images/ranks/Epic.webp)Epic
-2.  **50.7%**![](/images/ranks/Legend.webp)Legend
+2.  **50.6%**![](/images/ranks/Legend.webp)Legend
 3.  **50.0%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -301,13 +301,7 @@ She also gains 20% Movement Speed for 2s.
 
 Beat this hero
 
-[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
-
-### Easy targets
-
-This hero beats them
-
-[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
+[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
 
 ## Lore
 
@@ -323,11 +317,11 @@ This hero beats them
 
 Who counters Lylia in MLBB?
 
-Over the last 30 days the toughest opponents are Johnson, Hanabi, Alpha, Barats and Alice.
+Over the last 30 days the toughest opponents are Johnson, Alpha, Hanabi, Barats and Alice.
 
 What is Lylia’s win rate right now?
 
-47.62% at Mythical Glory over the last 7 days and 49.26% across all ranks over 30 days, as of 25 November 2026.
+47.60% at Mythical Glory over the last 7 days and 49.23% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Lylia play?
 

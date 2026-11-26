@@ -1,6 +1,6 @@
 ---
 title: "Глу MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Глу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 49,94% побед, тир A."
+description: "Глу в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 50,01% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/gloo.html
 language: ru
 ---
@@ -17,7 +17,7 @@ A
 
 Победы
 
-49,9%
+50,0%
 
 Выбор
 
@@ -25,7 +25,7 @@ A
 
 Баны
 
-36,1%
+35,7%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ A
 
 ### Победы по рангам, 30 дней
 
-1.  **55,6%**![](/images/ranks/Epic.webp)Эпик
+1.  **55,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **55,9%**![](/images/ranks/Legend.webp)Легенда
 3.  **55,5%**![](/images/ranks/Mythic.webp)Мифик
 4.  **54,1%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **51,3%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -297,7 +297,7 @@ A
 
 Побеждают этого героя
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
 
 ### Слабые цели
 
@@ -319,11 +319,11 @@ A
 
 Кто контрпик для героя «Глу» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эймон, Джонсон, Кусака, Чан'Э и Нана.
+За последние 30 дней чаще всего героя обыгрывают Эймон, Джонсон, Кусака, Нана и Чан'Э.
 
 Какой процент побед у героя «Глу» сейчас?
 
-49,94% в Мифической славе за последние 7 дней и 53,25% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,01% в Мифической славе за последние 7 дней и 53,17% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Глу»?
 
@@ -331,7 +331,7 @@ A
 
 Силён ли герой «Глу» в текущей мете?
 
-Тир A, 18-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 36,1% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 26,6% катков.
+Тир A, 18-е место из 133 героев и 7-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 35,7% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 26,6% катков.
 
 Какая сборка на героя «Глу» лучшая?
 

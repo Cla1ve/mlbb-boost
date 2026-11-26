@@ -1,6 +1,6 @@
 ---
 title: "Harith MLBB: build, counters and skills | MLBB Boost"
-description: "Harith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.70% win rate, tier C."
+description: "Harith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.65% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-48.7%
+48.6%
 
 Pick rate
 
@@ -45,9 +45,9 @@ Ban rate
 
 1.  **45.6%**![](/images/ranks/Epic.webp)Epic
 2.  **45.0%**![](/images/ranks/Legend.webp)Legend
-3.  **44.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **44.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **46.1%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.1%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **48.2%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -296,7 +296,7 @@ When Harith comes into contact with the rift using Chrono Dash, he absorbs its e
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)
 
 ### Easy targets
 
@@ -318,11 +318,11 @@ This hero beats them
 
 Who counters Harith in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Johnson, Karina, Lapu-Lapu and Suyou.
+Over the last 30 days the toughest opponents are Lolita, Karina, Johnson, Lapu-Lapu and Suyou.
 
 What is Harith’s win rate right now?
 
-48.70% at Mythical Glory over the last 7 days and 47.00% across all ranks over 30 days, as of 25 November 2026.
+48.65% at Mythical Glory over the last 7 days and 47.03% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Harith play?
 
@@ -330,7 +330,7 @@ Mage, played in the Gold Lane.
 
 Is Harith strong in the current meta?
 
-Tier C, #72 of 133 heroes and #18 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 48.7% win rate. In professional games over the last month the hero is drafted in 19.7% of them.
+Tier C, #72 of 133 heroes and #18 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.0% of matches, 48.6% win rate. In professional games over the last month the hero is drafted in 19.7% of them.
 
 What is the best build for Harith?
 

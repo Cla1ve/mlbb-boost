@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-25T11:27:09.853Z",
+  "checkedAt": "2026-11-26T11:01:50.820Z",
   "source": "https://cla1veisapi.ru",
   "prices": [
     {
@@ -283,11 +283,50 @@
     }
   ],
   "reviewStats": {
-    "count": 1321,
+    "count": 1324,
     "rating": 5,
     "satisfaction": 99
   },
   "reviews": [
+    {
+      "id": 2370,
+      "rating": 5,
+      "text": "Спасибо за буст",
+      "messageLink": "https://t.me/Cla1ve_boost/2300",
+      "boostType": "hero",
+      "rankFrom": "Мифическая честь, 26⭐",
+      "rankTo": "Мифическая честь, 45⭐",
+      "hero": "Обсидия",
+      "duration": "12ч 33м после оплаты",
+      "booster": "VenomSkie.",
+      "published": "2026-11-26"
+    },
+    {
+      "id": 2369,
+      "rating": 5,
+      "text": "Все быстро и четко",
+      "messageLink": "https://t.me/Cla1ve_boost/2299",
+      "boostType": "party",
+      "rankFrom": "Мифический бессмертный, 508⭐",
+      "rankTo": "Мифический бессмертный, 513⭐",
+      "hero": null,
+      "duration": "1ч 45м после оплаты",
+      "booster": "Chenger",
+      "published": "2026-11-25"
+    },
+    {
+      "id": 2367,
+      "rating": 5,
+      "text": "Лучшая, быстро и качественно, спасибо ещё раз)",
+      "messageLink": "https://t.me/Cla1ve_boost/2297",
+      "boostType": "hero",
+      "rankFrom": "Мифический бессмертный, 110⭐",
+      "rankTo": "Мифический бессмертный, 120⭐",
+      "hero": "Обсидия",
+      "duration": "5ч 2м после оплаты",
+      "booster": "Kris",
+      "published": "2026-11-25"
+    },
     {
       "id": 2366,
       "rating": 5,
@@ -1026,45 +1065,6 @@
       "rankTo": "Мифическая честь, 33⭐",
       "hero": null,
       "duration": "1ч 39м после оплаты",
-      "booster": "Izy",
-      "published": "2026-10-31"
-    },
-    {
-      "id": 2258,
-      "rating": 5,
-      "text": "Великолепная работа бустера,ответственный подход и приятный бонус к заказу",
-      "messageLink": "https://t.me/Cla1ve_boost/2158",
-      "boostType": "role",
-      "rankFrom": "Мифик, 0⭐",
-      "rankTo": "Мифик, 10⭐",
-      "hero": null,
-      "duration": "2ч 29м после оплаты",
-      "booster": "tomioka",
-      "published": "2026-10-31"
-    },
-    {
-      "id": 2257,
-      "rating": 5,
-      "text": "Профессиональная работа\nЗверь товарищ\nВсем советую",
-      "messageLink": "https://t.me/Cla1ve_boost/2157",
-      "boostType": "hero",
-      "rankFrom": "Мифическая слава, 80⭐",
-      "rankTo": "Мифическая слава, 86⭐",
-      "hero": "Бенька",
-      "duration": "2ч 4м после оплаты",
-      "booster": "Терпение",
-      "published": "2026-10-31"
-    },
-    {
-      "id": 2254,
-      "rating": 5,
-      "text": "Быстро и качественно",
-      "messageLink": "https://t.me/Cla1ve_boost/2152",
-      "boostType": "hero",
-      "rankFrom": "Мифический бессмертный, 104⭐",
-      "rankTo": "Мифический бессмертный, 109⭐",
-      "hero": "Белерик",
-      "duration": "2ч 37м после оплаты",
       "booster": "Izy",
       "published": "2026-10-31"
     }

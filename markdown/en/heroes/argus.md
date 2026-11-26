@@ -1,6 +1,6 @@
 ---
 title: "Argus MLBB: build, counters and skills | MLBB Boost"
-description: "Argus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 57.35% win rate, tier B."
+description: "Argus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 57.39% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
@@ -46,8 +46,8 @@ Ban rate
 1.  **55.5%**![](/images/ranks/Epic.webp)Epic
 2.  **56.7%**![](/images/ranks/Legend.webp)Legend
 3.  **57.5%**![](/images/ranks/Mythic.webp)Mythic
-4.  **56.8%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **56.9%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **56.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **57.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -316,7 +316,7 @@ Argus removes all control effects, gains Death Immunity for 4s, and deals 150 (+
 
 Beat this hero
 
-[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
+[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
 
 ### Easy targets
 
@@ -338,11 +338,11 @@ This hero beats them
 
 Who counters Argus in MLBB?
 
-Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Saber and Arlott.
+Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Arlott and Saber.
 
 What is Argus’s win rate right now?
 
-57.35% at Mythical Glory over the last 7 days and 56.84% across all ranks over 30 days, as of 25 November 2026.
+57.39% at Mythical Glory over the last 7 days and 56.86% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Argus play?
 

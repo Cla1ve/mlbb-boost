@@ -1,6 +1,6 @@
 ---
 title: "Клинт MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Клинт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,24% побед, тир B."
+description: "Клинт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 50,18% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/clint.html
 language: ru
 ---
@@ -45,9 +45,9 @@ B
 
 1.  **47,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,3%**![](/images/ranks/Legend.webp)Легенда
-3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
+3.  **49,9%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **50,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -294,7 +294,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)
+[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ### Слабые цели
 
@@ -316,11 +316,11 @@ B
 
 Кто контрпик для героя «Клинт» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лолита, Карина, Белерик, Баксий и Люнокс.
+За последние 30 дней чаще всего героя обыгрывают Лолита, Карина, Белерик, Марсель и Баксий.
 
 Какой процент побед у героя «Клинт» сейчас?
 
-50,24% в Мифической славе за последние 7 дней и 50,32% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,18% в Мифической славе за последние 7 дней и 50,30% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Клинт»?
 

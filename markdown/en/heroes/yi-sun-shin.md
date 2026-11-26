@@ -1,6 +1,6 @@
 ---
 title: "Yi Sun-shin MLBB: build, counters and skills | MLBB Boost"
-description: "Yi Sun-shin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.53% win rate, tier B."
+description: "Yi Sun-shin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.52% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yi-sun-shin.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 1.  **51.8%**![](/images/ranks/Epic.webp)Epic
 2.  **49.7%**![](/images/ranks/Legend.webp)Legend
 3.  **48.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **49.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **49.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.7%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -322,7 +322,7 @@ Over the last 30 days the toughest opponents are Khufra, Thamuz, Benedetta, Meli
 
 What is Yi Sun-shin’s win rate right now?
 
-48.53% at Mythical Glory over the last 7 days and 49.06% across all ranks over 30 days, as of 25 November 2026.
+48.52% at Mythical Glory over the last 7 days and 49.05% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Yi Sun-shin play?
 

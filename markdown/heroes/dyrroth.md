@@ -1,6 +1,6 @@
 ---
 title: "Дариус MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Дариус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,42% побед, тир B."
+description: "Дариус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 51,43% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/dyrroth.html
 language: ru
 ---
@@ -46,7 +46,7 @@ B
 1.  **47,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **47,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **50,9%**![](/images/ranks/Mythical_Honor.webp)Честь
+4.  **50,8%**![](/images/ranks/Mythical_Honor.webp)Честь
 5.  **51,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
@@ -305,7 +305,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
+[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
 ### Слабые цели
 
@@ -327,11 +327,11 @@ B
 
 Кто контрпик для героя «Дариус» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эсмеральда, Уранус, Алиса, Валентина и Чжусинь.
+За последние 30 дней чаще всего героя обыгрывают Эсмеральда, Уранус, Алиса, Чжусинь и Валентина.
 
 Какой процент побед у героя «Дариус» сейчас?
 
-51,42% в Мифической славе за последние 7 дней и 49,32% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,43% в Мифической славе за последние 7 дней и 49,33% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Дариус»?
 

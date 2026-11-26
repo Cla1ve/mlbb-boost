@@ -1,6 +1,6 @@
 ---
 title: "Aulus MLBB: build, counters and skills | MLBB Boost"
-description: "Aulus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.02% win rate, tier S."
+description: "Aulus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.08% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/aulus.html
 language: en
 ---
@@ -17,7 +17,7 @@ S
 
 Win rate
 
-53.0%
+53.1%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-21.1%
+19.8%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,7 +46,7 @@ Ban rate
 1.  **51.5%**![](/images/ranks/Epic.webp)Epic
 2.  **52.4%**![](/images/ranks/Legend.webp)Legend
 3.  **53.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **54.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **54.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **53.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -319,7 +319,7 @@ Over the last 30 days the toughest opponents are Gloo, Minsitthar, Tigreal, Loli
 
 What is Aulus’s win rate right now?
 
-53.02% at Mythical Glory over the last 7 days and 53.42% across all ranks over 30 days, as of 25 November 2026.
+53.08% at Mythical Glory over the last 7 days and 53.40% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Aulus play?
 
@@ -327,7 +327,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Aulus strong in the current meta?
 
-Tier S, #8 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 21.1% of matches, 53.0% win rate. In professional games over the last month the hero is drafted in 77.8% of them.
+Tier S, #8 of 133 heroes and #4 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 19.8% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 77.8% of them.
 
 What is the best build for Aulus?
 

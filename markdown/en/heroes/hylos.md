@@ -1,6 +1,6 @@
 ---
 title: "Hylos MLBB: build, counters and skills | MLBB Boost"
-description: "Hylos in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 46.98% win rate, tier D."
+description: "Hylos in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 47.02% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/hylos.html
 language: en
 ---
@@ -297,7 +297,7 @@ When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allie
 
 Beat this hero
 
-[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
+[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
 
 ### Easy targets
 
@@ -319,11 +319,11 @@ This hero beats them
 
 Who counters Hylos in MLBB?
 
-Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Saber and Vale.
+Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Nana and Saber.
 
 What is Hylos’s win rate right now?
 
-46.98% at Mythical Glory over the last 7 days and 48.55% across all ranks over 30 days, as of 25 November 2026.
+47.02% at Mythical Glory over the last 7 days and 48.54% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hylos play?
 

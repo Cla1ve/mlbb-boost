@@ -1,6 +1,6 @@
 ---
 title: "Cici MLBB: build, counters and skills | MLBB Boost"
-description: "Cici in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.55% win rate, tier B."
+description: "Cici in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.53% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/cici.html
 language: en
 ---
@@ -294,7 +294,7 @@ During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the 
 
 Beat this hero
 
-[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)
 
 ### Easy targets
 
@@ -316,11 +316,11 @@ This hero beats them
 
 Who counters Cici in MLBB?
 
-Over the last 30 days the toughest opponents are Balmond, Thamuz, Alice, Belerick and Hylos.
+Over the last 30 days the toughest opponents are Balmond, Thamuz, Alice, Hylos and Belerick.
 
 What is Cici’s win rate right now?
 
-48.55% at Mythical Glory over the last 7 days and 49.34% across all ranks over 30 days, as of 25 November 2026.
+48.53% at Mythical Glory over the last 7 days and 49.32% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Cici play?
 

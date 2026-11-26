@@ -13,67 +13,13 @@ language: en
 
 [![](/images/mlbb/filters/jungle.webp)Junglers](https://boostmlbb.ru/en/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Marksmen](https://boostmlbb.ru/en/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Mages](https://boostmlbb.ru/en/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Fighters](https://boostmlbb.ru/en/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Tanks](https://boostmlbb.ru/en/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Assassins](https://boostmlbb.ru/en/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Roam](https://boostmlbb.ru/en/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Mid](https://boostmlbb.ru/en/heroes/best-mid.html)[For beginners](https://boostmlbb.ru/en/heroes/for-beginners.html)
 
-A beginner has an easier start with heroes rated 10 to 30 out of 100 in difficulty in the game. There are 43 of them, and 34 win at least 49% in Epic and Legend. Masha, Marcel and Belerick win the most.
+A beginner has an easier start with heroes rated 10 to 30 out of 100 in difficulty in the game. There are 43 of them, and 34 win at least 49% in Epic and Legend. Marcel, Masha and Belerick win the most.
 
 ## Three heroes to start with
 
-[![](/images/heroes/art/masha.webp)](https://boostmlbb.ru/en/heroes/masha.html)
-
-1
-
-### [Masha](https://boostmlbb.ru/en/heroes/masha.html)
-
-S
-
-Win, Epic
-
-54.6%
-
-Win, Legend
-
-57.9%
-
-Difficulty
-
-30
-
-[
-
-![](/images/mlbb/items/2212.webp)
-
-Thunder Belt
-
-
-
-](https://boostmlbb.ru/en/items/thunder-belt.html)[
-
-![](/images/mlbb/items/2008.webp)
-
-Corrosion Scythe
-
-
-
-](https://boostmlbb.ru/en/items/corrosion-scythe.html)[
-
-![](/images/mlbb/items/3202.webp)
-
-Guardian Helmet
-
-
-
-](https://boostmlbb.ru/en/items/guardian-helmet.html)
-
-![](/images/mlbb/emblems/20003.webp)
-
-Tank
-
-![](/images/mlbb/spells/20070.webp)
-
-Petrify
-
 [![](/images/heroes/art/marcel.webp)](https://boostmlbb.ru/en/heroes/marcel.html)
 
-2
+1
 
 ### [Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
@@ -125,6 +71,60 @@ Support
 
 Revitalize
 
+[![](/images/heroes/art/masha.webp)](https://boostmlbb.ru/en/heroes/masha.html)
+
+2
+
+### [Masha](https://boostmlbb.ru/en/heroes/masha.html)
+
+S
+
+Win, Epic
+
+54.5%
+
+Win, Legend
+
+57.8%
+
+Difficulty
+
+30
+
+[
+
+![](/images/mlbb/items/2212.webp)
+
+Thunder Belt
+
+
+
+](https://boostmlbb.ru/en/items/thunder-belt.html)[
+
+![](/images/mlbb/items/2008.webp)
+
+Corrosion Scythe
+
+
+
+](https://boostmlbb.ru/en/items/corrosion-scythe.html)[
+
+![](/images/mlbb/items/3202.webp)
+
+Guardian Helmet
+
+
+
+](https://boostmlbb.ru/en/items/guardian-helmet.html)
+
+![](/images/mlbb/emblems/20003.webp)
+
+Tank
+
+![](/images/mlbb/spells/20070.webp)
+
+Petrify
+
 [![](/images/heroes/art/belerick.webp)](https://boostmlbb.ru/en/heroes/belerick.html)
 
 3
@@ -139,7 +139,7 @@ Win, Epic
 
 Win, Legend
 
-54.5%
+54.6%
 
 Difficulty
 
@@ -185,14 +185,14 @@ Win rate in Epic and Legend over 30 days.
 
 ### ![](/images/mlbb/filters/tank.webp)Easy tanks
 
-1.  [![](/images/heroes/masha.webp)Masha56.3%](https://boostmlbb.ru/en/heroes/masha.html)
-2.  [![](/images/heroes/belerick.webp)Belerick55.2%](https://boostmlbb.ru/en/heroes/belerick.html)
+1.  [![](/images/heroes/masha.webp)Masha56.1%](https://boostmlbb.ru/en/heroes/masha.html)
+2.  [![](/images/heroes/belerick.webp)Belerick55.3%](https://boostmlbb.ru/en/heroes/belerick.html)
 3.  [![](/images/heroes/minotaur.webp)Minotaur54.4%](https://boostmlbb.ru/en/heroes/minotaur.html)
-4.  [![](/images/heroes/carmilla.webp)Carmilla54.4%](https://boostmlbb.ru/en/heroes/carmilla.html)
+4.  [![](/images/heroes/carmilla.webp)Carmilla54.3%](https://boostmlbb.ru/en/heroes/carmilla.html)
 
 ### ![](/images/mlbb/filters/fighter.webp)Easy fighters
 
-1.  [![](/images/heroes/masha.webp)Masha56.3%](https://boostmlbb.ru/en/heroes/masha.html)
+1.  [![](/images/heroes/masha.webp)Masha56.1%](https://boostmlbb.ru/en/heroes/masha.html)
 2.  [![](/images/heroes/hilda.webp)Hilda54.2%](https://boostmlbb.ru/en/heroes/hilda.html)
 3.  [![](/images/heroes/minsitthar.webp)Minsitthar53.2%](https://boostmlbb.ru/en/heroes/minsitthar.html)
 4.  [![](/images/heroes/silvanna.webp)Silvanna52.2%](https://boostmlbb.ru/en/heroes/silvanna.html)
@@ -206,7 +206,7 @@ Win rate in Epic and Legend over 30 days.
 1.  [![](/images/heroes/valir.webp)Valir54.2%](https://boostmlbb.ru/en/heroes/valir.html)
 2.  [![](/images/heroes/gord.webp)Gord52.5%](https://boostmlbb.ru/en/heroes/gord.html)
 3.  [![](/images/heroes/zetian.webp)Zetian51.5%](https://boostmlbb.ru/en/heroes/zetian.html)
-4.  [![](/images/heroes/vale.webp)Vale51.1%](https://boostmlbb.ru/en/heroes/vale.html)
+4.  [![](/images/heroes/vale.webp)Vale51.2%](https://boostmlbb.ru/en/heroes/vale.html)
 
 ### ![](/images/mlbb/filters/marksman.webp)Easy marksmen
 
@@ -220,7 +220,7 @@ Win rate in Epic and Legend over 30 days.
 1.  [![](/images/heroes/marcel.webp)Marcel56.2%](https://boostmlbb.ru/en/heroes/marcel.html)
 2.  [![](/images/heroes/floryn.webp)Floryn55.0%](https://boostmlbb.ru/en/heroes/floryn.html)
 3.  [![](/images/heroes/minotaur.webp)Minotaur54.4%](https://boostmlbb.ru/en/heroes/minotaur.html)
-4.  [![](/images/heroes/carmilla.webp)Carmilla54.4%](https://boostmlbb.ru/en/heroes/carmilla.html)
+4.  [![](/images/heroes/carmilla.webp)Carmilla54.3%](https://boostmlbb.ru/en/heroes/carmilla.html)
 
 ## Easy and strong heroes
 
@@ -238,18 +238,6 @@ Legend
 
 Pick
 
-[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
-
-tank, fighter
-
-30
-
-54.6%
-
-57.9%
-
-0.5%
-
 [![](/images/heroes/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
 support
@@ -262,6 +250,18 @@ support
 
 0.3%
 
+[![](/images/heroes/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
+
+tank, fighter
+
+30
+
+54.5%
+
+57.8%
+
+0.5%
+
 [![](/images/heroes/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)
 
 tank
@@ -270,7 +270,7 @@ tank
 
 56.0%
 
-54.5%
+54.6%
 
 1.7%
 
@@ -292,7 +292,7 @@ tank, support
 
 30
 
-54.0%
+53.9%
 
 54.9%
 
@@ -304,9 +304,9 @@ tank, support
 
 10
 
-54.2%
+54.1%
 
-54.6%
+54.5%
 
 1.3%
 
@@ -352,7 +352,7 @@ support
 
 30
 
-53.9%
+54.0%
 
 53.4%
 
@@ -378,7 +378,7 @@ mage
 
 52.4%
 
-52.7%
+52.6%
 
 0.6%
 
@@ -388,11 +388,11 @@ marksman
 
 30
 
-51.8%
+51.7%
 
 52.8%
 
-2.2%
+2.1%
 
 [![](/images/heroes/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
@@ -416,7 +416,7 @@ fighter
 
 52.4%
 
-0.8%
+0.7%
 
 [![](/images/heroes/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)
 
@@ -462,7 +462,7 @@ tank
 
 51.7%
 
-50.8%
+50.9%
 
 0.3%
 
@@ -486,7 +486,7 @@ mage
 
 51.5%
 
-50.8%
+50.9%
 
 0.5%
 
@@ -520,9 +520,9 @@ fighter
 
 30
 
-50.7%
+50.6%
 
-51.3%
+51.2%
 
 0.8%
 
@@ -580,7 +580,7 @@ mage
 
 10
 
-50.1%
+50.2%
 
 49.8%
 
@@ -594,7 +594,7 @@ mage
 
 49.5%
 
-50.2%
+50.1%
 
 1.8%
 
@@ -717,7 +717,7 @@ Difficulty 80 out of 100 or higher.
 
 Which hero is the easiest in Mobile Legends?
 
-11 heroes have a difficulty of 10 out of 100. Among the easy ones, Masha, Marcel and Belerick win the most in Epic and Legend.
+11 heroes have a difficulty of 10 out of 100. Among the easy ones, Marcel, Masha and Belerick win the most in Epic and Legend.
 
 Which role is easiest for a beginner?
 

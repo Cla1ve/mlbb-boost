@@ -13,7 +13,7 @@ language: ru
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди танков сейчас лидируют Маша, Кармилла и Белерик. Маша: 58,8% побед и бан в 67,5% матчей Мифической славы за 7 дней. В списке 25 героев, из них 9 в тире S или A.
+Среди танков сейчас лидируют Маша, Кармилла и Белерик. Маша: 58,8% побед и бан в 67,2% матчей Мифической славы за 7 дней. В списке 25 героев, из них 9 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -35,7 +35,7 @@ S
 
 Баны
 
-67,5%
+67,2%
 
 [
 
@@ -89,7 +89,7 @@ S
 
 Баны
 
-37,2%
+37,3%
 
 [
 
@@ -135,15 +135,15 @@ S
 
 Победы
 
-50,4%
+50,5%
 
 Выбор
 
-1,8%
+1,7%
 
 Баны
 
-56,4%
+56,6%
 
 [
 
@@ -207,7 +207,7 @@ S
 
 0,7%
 
-67,5%
+67,2%
 
 100,0%
 
@@ -221,7 +221,7 @@ S
 
 1,6%
 
-37,2%
+37,3%
 
 54,1%
 
@@ -231,11 +231,11 @@ S
 
 S
 
-50,4%
+50,5%
 
-1,8%
+1,7%
 
-56,4%
+56,6%
 
 38,0%
 
@@ -245,11 +245,11 @@ S
 
 A
 
-48,8%
+48,9%
 
 1,0%
 
-8,5%
+8,3%
 
 75,1%
 
@@ -263,7 +263,7 @@ A
 
 1,0%
 
-8,2%
+8,3%
 
 57,7%
 
@@ -287,11 +287,11 @@ A
 
 A
 
-49,9%
+50,0%
 
 0,7%
 
-36,1%
+35,7%
 
 26,6%
 
@@ -305,7 +305,7 @@ A
 
 0,7%
 
-3,1%
+3,0%
 
 42,2%
 
@@ -319,7 +319,7 @@ A
 
 1,4%
 
-10,2%
+10,3%
 
 11,3%
 
@@ -343,7 +343,7 @@ B
 
 B
 
-54,9%
+54,8%
 
 0,6%
 
@@ -355,13 +355,13 @@ B
 
 [![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)
 
-C
+B
 
-45,0%
+45,1%
 
 1,6%
 
-4,8%
+4,9%
 
 —
 
@@ -389,7 +389,7 @@ C
 
 0,4%
 
-3,9%
+4,0%
 
 3,5%
 
@@ -427,7 +427,7 @@ C
 
 C
 
-47,9%
+48,0%
 
 0,5%
 
@@ -483,7 +483,7 @@ D
 
 C
 
-45,7%
+45,8%
 
 0,3%
 
@@ -525,9 +525,9 @@ D
 
 C
 
-40,6%
+40,5%
 
-0,6%
+0,7%
 
 1,8%
 
@@ -539,7 +539,7 @@ C
 
 D
 
-46,0%
+45,9%
 
 0,1%
 
@@ -565,7 +565,7 @@ D
 1.  [![](/images/heroes/minotaur.webp)Минотавр54,9%](https://boostmlbb.ru/heroes/minotaur.html)
 2.  [![](/images/heroes/khufra.webp)Хуфра54,7%](https://boostmlbb.ru/heroes/khufra.html)
 3.  [![](/images/heroes/atlas.webp)Атлас53,8%](https://boostmlbb.ru/heroes/atlas.html)
-4.  [![](/images/heroes/edith.webp)Эдит53,4%](https://boostmlbb.ru/heroes/edith.html)
+4.  [![](/images/heroes/edith.webp)Эдит53,5%](https://boostmlbb.ru/heroes/edith.html)
 5.  [![](/images/heroes/hilda.webp)Хильда53,0%](https://boostmlbb.ru/heroes/hilda.html)
 6.  [![](/images/heroes/barats.webp)Бартс51,7%](https://boostmlbb.ru/heroes/barats.html)
 
@@ -577,8 +577,8 @@ D
 2.  [![](/images/heroes/silvanna.webp)Сильвана6 из 25](https://boostmlbb.ru/heroes/silvanna.html)
 3.  [![](/images/heroes/zilong.webp)Зилонг6 из 25](https://boostmlbb.ru/heroes/zilong.html)
 4.  [![](/images/heroes/alucard.webp)Алукард5 из 25](https://boostmlbb.ru/heroes/alucard.html)
-5.  [![](/images/heroes/lolita.webp)Лолита5 из 25](https://boostmlbb.ru/heroes/lolita.html)
-6.  [![](/images/heroes/saber.webp)Сабер5 из 25](https://boostmlbb.ru/heroes/saber.html)
+5.  [![](/images/heroes/saber.webp)Сабер5 из 25](https://boostmlbb.ru/heroes/saber.html)
+6.  [![](/images/heroes/argus.webp)Аргус4 из 25](https://boostmlbb.ru/heroes/argus.html)
 
 **Поднимем ранг на любом из танков**Цена считается в калькуляторе
 
@@ -588,7 +588,7 @@ D
 
 Кто лучший танк в MLBB сейчас?
 
-Маша: тир S, 58,8% побед, бан в 67,5% матчей Мифической славы за 7 дней. Следом идут Кармилла и Белерик. Данные на 25 ноября 2026 года.
+Маша: тир S, 58,8% побед, бан в 67,2% матчей Мифической славы за 7 дней. Следом идут Кармилла и Белерик. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди танков?
 
@@ -596,7 +596,7 @@ D
 
 Каких танков чаще всего банят?
 
-Маша (67,5%), Белерик (56,4%) и Кармилла (37,2%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Маша (67,2%), Белерик (56,6%) и Кармилла (37,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько танков в Mobile Legends?
 

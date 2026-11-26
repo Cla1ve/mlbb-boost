@@ -1,6 +1,6 @@
 ---
 title: "Sun MLBB: build, counters and skills | MLBB Boost"
-description: "Sun in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.11% win rate, tier B."
+description: "Sun in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.08% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-57.8%
+58.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -46,8 +46,8 @@ Ban rate
 1.  **55.9%**![](/images/ranks/Epic.webp)Epic
 2.  **55.6%**![](/images/ranks/Legend.webp)Legend
 3.  **54.6%**![](/images/ranks/Mythic.webp)Mythic
-4.  **53.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.7%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **53.1%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **52.8%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -333,7 +333,7 @@ Over the last 30 days the toughest opponents are Jawhead, Diggie, Harley, Saber 
 
 What is Sun’s win rate right now?
 
-53.11% at Mythical Glory over the last 7 days and 53.81% across all ranks over 30 days, as of 25 November 2026.
+53.08% at Mythical Glory over the last 7 days and 53.84% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Sun play?
 
@@ -341,7 +341,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Sun strong in the current meta?
 
-Tier B, #17 of 133 heroes and #6 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 57.8% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #17 of 133 heroes and #6 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 58.5% of matches, 53.1% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Sun?
 

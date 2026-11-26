@@ -1,6 +1,6 @@
 ---
 title: "Granger MLBB: build, counters and skills | MLBB Boost"
-description: "Granger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 44.02% win rate, tier C."
+description: "Granger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 44.03% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/granger.html
 language: en
 ---
@@ -46,8 +46,8 @@ Ban rate
 1.  **43.1%**![](/images/ranks/Epic.webp)Epic
 2.  **41.7%**![](/images/ranks/Legend.webp)Legend
 3.  **41.3%**![](/images/ranks/Mythic.webp)Mythic
-4.  **42.0%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **44.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **41.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **44.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -322,7 +322,7 @@ Over the last 30 days the toughest opponents are Karina, Beatrix, Ixia, Diggie a
 
 What is Granger’s win rate right now?
 
-44.02% at Mythical Glory over the last 7 days and 42.96% across all ranks over 30 days, as of 25 November 2026.
+44.03% at Mythical Glory over the last 7 days and 42.95% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Granger play?
 

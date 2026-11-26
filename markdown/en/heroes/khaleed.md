@@ -1,6 +1,6 @@
 ---
 title: "Khaleed MLBB: build, counters and skills | MLBB Boost"
-description: "Khaleed in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.87% win rate, tier D."
+description: "Khaleed in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.89% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/khaleed.html
 language: en
 ---
@@ -46,14 +46,14 @@ Ban rate
 1.  **52.4%**![](/images/ranks/Epic.webp)Epic
 2.  **52.8%**![](/images/ranks/Legend.webp)Legend
 3.  **52.0%**![](/images/ranks/Mythic.webp)Mythic
-4.  **51.2%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **48.5%**![](/images/ranks/Mythical_Glory.webp)Glory
+4.  **51.3%**![](/images/ranks/Mythical_Honor.webp)Honor
+5.  **48.6%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -323,7 +323,7 @@ Over the last 30 days the toughest opponents are Yin, Helcurt, Hanabi, Vale and 
 
 What is Khaleed’s win rate right now?
 
-48.87% at Mythical Glory over the last 7 days and 50.29% across all ranks over 30 days, as of 25 November 2026.
+48.89% at Mythical Glory over the last 7 days and 50.26% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Khaleed play?
 

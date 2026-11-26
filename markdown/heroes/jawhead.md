@@ -1,6 +1,6 @@
 ---
 title: "Кусака MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кусака в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 47,51% побед, тир C."
+description: "Кусака в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 47,53% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/jawhead.html
 language: ru
 ---
@@ -53,7 +53,7 @@ C
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -291,7 +291,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
 
 ### Слабые цели
 
@@ -313,11 +313,11 @@ C
 
 Кто контрпик для героя «Кусака» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Арлотт, Нолан, Сабер, Грейнджер и Валентина.
+За последние 30 дней чаще всего героя обыгрывают Арлотт, Нолан, Сабер, Грейнджер и Хелкарт.
 
 Какой процент побед у героя «Кусака» сейчас?
 
-47,51% в Мифической славе за последние 7 дней и 47,90% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+47,53% в Мифической славе за последние 7 дней и 47,91% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кусака»?
 

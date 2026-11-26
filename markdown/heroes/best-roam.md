@@ -81,7 +81,7 @@ S
 
 Победы
 
-51,7%
+51,8%
 
 Выбор
 
@@ -143,7 +143,7 @@ S
 
 Баны
 
-37,2%
+37,3%
 
 [
 
@@ -217,7 +217,7 @@ S
 
 S
 
-51,7%
+51,8%
 
 0,9%
 
@@ -235,7 +235,7 @@ S
 
 1,6%
 
-37,2%
+37,3%
 
 54,1%
 
@@ -245,11 +245,11 @@ S
 
 S
 
-50,4%
+50,5%
 
-1,8%
+1,7%
 
-56,4%
+56,6%
 
 38,0%
 
@@ -259,11 +259,11 @@ S
 
 A
 
-48,8%
+48,9%
 
 1,0%
 
-8,5%
+8,3%
 
 75,1%
 
@@ -273,11 +273,11 @@ A
 
 A
 
-49,9%
+50,0%
 
 0,7%
 
-36,1%
+35,7%
 
 26,6%
 
@@ -291,7 +291,7 @@ A
 
 0,6%
 
-32,3%
+32,5%
 
 14,9%
 
@@ -305,7 +305,7 @@ A
 
 1,4%
 
-10,2%
+10,3%
 
 11,3%
 
@@ -319,7 +319,7 @@ B
 
 0,9%
 
-31,1%
+30,9%
 
 0,7%
 
@@ -333,7 +333,7 @@ B
 
 1,3%
 
-13,8%
+13,9%
 
 —
 
@@ -345,9 +345,9 @@ B
 
 53,7%
 
-0,8%
+0,9%
 
-13,0%
+13,3%
 
 5,2%
 
@@ -361,7 +361,7 @@ B
 
 0,8%
 
-9,2%
+9,0%
 
 7,7%
 
@@ -399,7 +399,7 @@ B
 
 B
 
-44,7%
+44,6%
 
 1,0%
 
@@ -413,7 +413,7 @@ B
 
 B
 
-54,9%
+54,8%
 
 0,6%
 
@@ -439,13 +439,13 @@ B
 
 [![](/images/heroes/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)
 
-C
+B
 
-45,0%
+45,1%
 
 1,6%
 
-4,8%
+4,9%
 
 —
 
@@ -459,7 +459,7 @@ C
 
 0,4%
 
-3,9%
+4,0%
 
 3,5%
 
@@ -483,7 +483,7 @@ C
 
 C
 
-46,7%
+46,8%
 
 0,4%
 
@@ -493,29 +493,29 @@ C
 
 22
 
-[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
 
-D
+C
 
-50,4%
+48,0%
 
-0,2%
+0,5%
 
-1,1%
+0,7%
 
 —
 
 23
 
-[![](/images/heroes/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
+[![](/images/heroes/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
-C
+D
 
-47,9%
+50,3%
 
-0,5%
+0,2%
 
-0,7%
+1,1%
 
 —
 
@@ -567,7 +567,7 @@ D
 
 D
 
-50,7%
+50,6%
 
 0,1%
 
@@ -581,7 +581,7 @@ D
 
 C
 
-45,7%
+45,8%
 
 0,3%
 
@@ -651,9 +651,9 @@ D
 
 C
 
-40,6%
+40,5%
 
-0,6%
+0,7%
 
 1,8%
 
@@ -665,7 +665,7 @@ C
 
 D
 
-46,0%
+45,9%
 
 0,1%
 
@@ -688,8 +688,8 @@ D
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
-1.  [![](/images/heroes/rafaela.webp)Рафаэль54,9%](https://boostmlbb.ru/heroes/rafaela.html)
-2.  [![](/images/heroes/minotaur.webp)Минотавр54,9%](https://boostmlbb.ru/heroes/minotaur.html)
+1.  [![](/images/heroes/minotaur.webp)Минотавр54,9%](https://boostmlbb.ru/heroes/minotaur.html)
+2.  [![](/images/heroes/rafaela.webp)Рафаэль54,9%](https://boostmlbb.ru/heroes/rafaela.html)
 3.  [![](/images/heroes/khufra.webp)Хуфра54,7%](https://boostmlbb.ru/heroes/khufra.html)
 4.  [![](/images/heroes/floryn.webp)Флорин54,2%](https://boostmlbb.ru/heroes/floryn.html)
 5.  [![](/images/heroes/atlas.webp)Атлас53,8%](https://boostmlbb.ru/heroes/atlas.html)
@@ -722,7 +722,7 @@ D
 
 Каких роумеров чаще всего банят?
 
-Марсель (70,0%), Белерик (56,4%) и Кармилла (37,2%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Марсель (70,0%), Белерик (56,6%) и Кармилла (37,3%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько роумеров в Mobile Legends?
 

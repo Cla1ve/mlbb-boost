@@ -1,6 +1,6 @@
 ---
 title: "Badang MLBB: build, counters and skills | MLBB Boost"
-description: "Badang in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.90% win rate, tier B."
+description: "Badang in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.91% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/badang.html
 language: en
 ---
@@ -53,7 +53,7 @@ Dashed line: 50% win rate
 
 ### More fighters on this lane
 
-[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
 ### Places in the rankings
 
@@ -297,7 +297,7 @@ Badang is immune to control effects for the duration.
 
 Beat this hero
 
-[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
 
 ## Lore
 
@@ -313,11 +313,11 @@ Beat this hero
 
 Who counters Badang in MLBB?
 
-Over the last 30 days the toughest opponents are Fanny, Sun, Zilong, Hayabusa and Helcurt.
+Over the last 30 days the toughest opponents are Fanny, Sun, Zilong, Hayabusa and Joy.
 
 What is Badang’s win rate right now?
 
-49.90% at Mythical Glory over the last 7 days and 50.19% across all ranks over 30 days, as of 25 November 2026.
+49.91% at Mythical Glory over the last 7 days and 50.18% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Badang play?
 
@@ -325,7 +325,7 @@ Fighter, played in the EXP Lane or on roam.
 
 Is Badang strong in the current meta?
 
-Tier B, #44 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.0% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 2.7% of them.
+Tier B, #43 of 133 heroes and #13 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 5.0% of matches, 49.9% win rate. In professional games over the last month the hero is drafted in 2.7% of them.
 
 What is the best build for Badang?
 

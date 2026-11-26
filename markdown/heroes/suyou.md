@@ -25,7 +25,7 @@ B
 
 Баны
 
-1,8%
+1,9%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -298,7 +298,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)
+[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)
 
 ### Слабые цели
 
@@ -320,11 +320,11 @@ B
 
 Кто контрпик для героя «Су Ё» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Наталья, Сан, Икс.Борг, Инь и Бальмонд.
+За последние 30 дней чаще всего героя обыгрывают Наталья, Сан, Икс.Борг, Бальмонд и Инь.
 
 Какой процент побед у героя «Су Ё» сейчас?
 
-49,43% в Мифической славе за последние 7 дней и 49,71% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,43% в Мифической славе за последние 7 дней и 49,70% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Су Ё»?
 
@@ -332,7 +332,7 @@ B
 
 Силён ли герой «Су Ё» в текущей мете?
 
-Тир B, 28-е место из 133 героев и 9-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,8% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 25,3% катков.
+Тир B, 28-е место из 133 героев и 9-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,9% матчей, 49,4% побед. В профессиональных матчах за месяц героя драфтуют в 25,3% катков.
 
 Какая сборка на героя «Су Ё» лучшая?
 

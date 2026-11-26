@@ -1,6 +1,6 @@
 ---
 title: "Gatotkaca MLBB: build, counters and skills | MLBB Boost"
-description: "Gatotkaca in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 44.20% win rate, tier C."
+description: "Gatotkaca in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 44.17% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
@@ -43,10 +43,10 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **48.8%**![](/images/ranks/Epic.webp)Epic
+1.  **48.9%**![](/images/ranks/Epic.webp)Epic
 2.  **46.0%**![](/images/ranks/Legend.webp)Legend
-3.  **44.9%**![](/images/ranks/Mythic.webp)Mythic
-4.  **44.0%**![](/images/ranks/Mythical_Honor.webp)Honor
+3.  **45.0%**![](/images/ranks/Mythic.webp)Mythic
+4.  **44.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **44.0%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -318,7 +318,7 @@ Over the last 30 days the toughest opponents are Odette, Saber, Miya, Zilong and
 
 What is Gatotkaca’s win rate right now?
 
-44.20% at Mythical Glory over the last 7 days and 45.37% across all ranks over 30 days, as of 25 November 2026.
+44.17% at Mythical Glory over the last 7 days and 45.38% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Gatotkaca play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Заск MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Заск в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,57% побед, тир C."
+description: "Заск в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,67% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/zhask.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-51,6%
+51,7%
 
 Выбор
 
@@ -43,7 +43,7 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **52,6%**![](/images/ranks/Epic.webp)Эпик
+1.  **52,7%**![](/images/ranks/Epic.webp)Эпик
 2.  **53,1%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,4%**![](/images/ranks/Mythic.webp)Мифик
 4.  **52,7%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -57,7 +57,7 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие маги MLBB**27 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
+-   [Лучшие маги MLBB**26 из 32**](https://boostmlbb.ru/heroes/best-mage.html)
 -   [Лучшие мидеры MLBB**24 из 29**](https://boostmlbb.ru/heroes/best-mid.html)
 
 ## Сборка
@@ -317,7 +317,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+[![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
 
 ## История
 
@@ -337,7 +337,7 @@ C
 
 Какой процент побед у героя «Заск» сейчас?
 
-51,57% в Мифической славе за последние 7 дней и 52,54% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,67% в Мифической славе за последние 7 дней и 52,54% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Заск»?
 
@@ -345,7 +345,7 @@ C
 
 Силён ли герой «Заск» в текущей мете?
 
-Тир C, 107-е место из 133 героев и 27-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 105-е место из 133 героев и 26-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Заск» лучшая?
 

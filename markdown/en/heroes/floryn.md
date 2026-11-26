@@ -1,6 +1,6 @@
 ---
 title: "Floryn MLBB: build, counters and skills | MLBB Boost"
-description: "Floryn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.92% win rate, tier B."
+description: "Floryn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.94% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-13.8%
+13.9%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -298,7 +298,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
+[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
@@ -318,7 +318,7 @@ Over the last 30 days the toughest opponents are Marcel, Alice, X.Borg, Ling and
 
 What is Floryn’s win rate right now?
 
-53.92% at Mythical Glory over the last 7 days and 54.03% across all ranks over 30 days, as of 25 November 2026.
+53.94% at Mythical Glory over the last 7 days and 54.03% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Floryn play?
 
@@ -326,7 +326,7 @@ Support, played on roam.
 
 Is Floryn strong in the current meta?
 
-Tier B, #31 of 133 heroes and #7 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.8% of matches, 53.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
+Tier B, #31 of 133 heroes and #7 among supports. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 13.9% of matches, 53.9% win rate. In professional games over the last month the hero is drafted in 0.0% of them.
 
 What is the best build for Floryn?
 

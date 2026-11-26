@@ -1,6 +1,6 @@
 ---
 title: "Khufra MLBB: build, counters and skills | MLBB Boost"
-description: "Khufra in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 54.86% win rate, tier B."
+description: "Khufra in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 54.84% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/khufra.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-54.9%
+54.8%
 
 Pick rate
 
@@ -319,7 +319,7 @@ Over the last 30 days the toughest opponents are Silvanna, Wanwan, Alucard, Nata
 
 What is Khufra’s win rate right now?
 
-54.86% at Mythical Glory over the last 7 days and 54.73% across all ranks over 30 days, as of 25 November 2026.
+54.84% at Mythical Glory over the last 7 days and 54.73% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Khufra play?
 
@@ -327,7 +327,7 @@ Tank, played on roam.
 
 Is Khufra strong in the current meta?
 
-Tier B, #48 of 133 heroes and #11 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.0% of matches, 54.9% win rate. In professional games over the last month the hero is drafted in 3.6% of them.
+Tier B, #48 of 133 heroes and #11 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 4.0% of matches, 54.8% win rate. In professional games over the last month the hero is drafted in 3.6% of them.
 
 What is the best build for Khufra?
 

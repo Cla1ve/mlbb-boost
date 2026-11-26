@@ -1,6 +1,6 @@
 ---
 title: "Хелкарт MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хелкарт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 46,73% побед, тир C."
+description: "Хелкарт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 46,75% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/helcurt.html
 language: ru
 ---
@@ -17,7 +17,7 @@ C
 
 Победы
 
-46,7%
+46,8%
 
 Выбор
 
@@ -47,7 +47,7 @@ C
 2.  **48,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,4%**![](/images/ranks/Mythic.webp)Мифик
 4.  **47,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **46,3%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **46,4%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -57,7 +57,7 @@ C
 
 ### Места в рейтингах
 
--   [Лучшие лесники MLBB**26 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
+-   [Лучшие лесники MLBB**25 из 37**](https://boostmlbb.ru/heroes/best-jungle.html)
 -   [Лучшие убийцы MLBB**22 из 29**](https://boostmlbb.ru/heroes/best-assassin.html)
 -   [Лучшие роумеры MLBB**21 из 34**](https://boostmlbb.ru/heroes/best-roam.html)
 
@@ -308,7 +308,7 @@ C
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)
+[![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
 
 ## История
 
@@ -328,7 +328,7 @@ C
 
 Какой процент побед у героя «Хелкарт» сейчас?
 
-46,73% в Мифической славе за последние 7 дней и 47,68% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+46,75% в Мифической славе за последние 7 дней и 47,70% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хелкарт»?
 
@@ -336,7 +336,7 @@ C
 
 Силён ли герой «Хелкарт» в текущей мете?
 
-Тир C, 101-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,7% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 98-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Хелкарт» лучшая?
 

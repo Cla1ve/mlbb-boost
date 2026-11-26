@@ -1,6 +1,6 @@
 ---
 title: "Lukas MLBB: build, counters and skills | MLBB Boost"
-description: "Lukas in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.88% win rate, tier A."
+description: "Lukas in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.86% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/lukas.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-32.0%
+30.8%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,9 +43,9 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.7%**![](/images/ranks/Epic.webp)Epic
-2.  **51.3%**![](/images/ranks/Legend.webp)Legend
-3.  **51.5%**![](/images/ranks/Mythic.webp)Mythic
+1.  **50.6%**![](/images/ranks/Epic.webp)Epic
+2.  **51.2%**![](/images/ranks/Legend.webp)Legend
+3.  **51.4%**![](/images/ranks/Mythic.webp)Mythic
 4.  **52.2%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -329,7 +329,7 @@ Over the last 30 days the toughest opponents are Ling, Natalia, Fanny, Arlott an
 
 What is Lukas’s win rate right now?
 
-50.88% at Mythical Glory over the last 7 days and 51.85% across all ranks over 30 days, as of 25 November 2026.
+50.86% at Mythical Glory over the last 7 days and 51.79% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Lukas play?
 
@@ -337,7 +337,7 @@ Fighter, played in the EXP Lane or in the jungle.
 
 Is Lukas strong in the current meta?
 
-Tier A, #26 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 32.0% of matches, 50.9% win rate. In professional games over the last month the hero is drafted in 2.9% of them.
+Tier A, #27 of 133 heroes and #8 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 30.8% of matches, 50.9% win rate. In professional games over the last month the hero is drafted in 2.9% of them.
 
 What is the best build for Lukas?
 

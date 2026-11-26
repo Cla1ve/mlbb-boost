@@ -1,6 +1,6 @@
 ---
 title: "Dyrroth MLBB: build, counters and skills | MLBB Boost"
-description: "Dyrroth in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.42% win rate, tier B."
+description: "Dyrroth in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.43% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/dyrroth.html
 language: en
 ---
@@ -46,7 +46,7 @@ Ban rate
 1.  **47.7%**![](/images/ranks/Epic.webp)Epic
 2.  **47.8%**![](/images/ranks/Legend.webp)Legend
 3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
-4.  **50.9%**![](/images/ranks/Mythical_Honor.webp)Honor
+4.  **50.8%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **51.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
@@ -305,7 +305,7 @@ Damage dealt to non-hero enemies is capped at 1500.
 
 Beat this hero
 
-[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
+[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Easy targets
 
@@ -327,11 +327,11 @@ This hero beats them
 
 Who counters Dyrroth in MLBB?
 
-Over the last 30 days the toughest opponents are Esmeralda, Uranus, Alice, Valentina and Zhuxin.
+Over the last 30 days the toughest opponents are Esmeralda, Uranus, Alice, Zhuxin and Valentina.
 
 What is Dyrroth’s win rate right now?
 
-51.42% at Mythical Glory over the last 7 days and 49.32% across all ranks over 30 days, as of 25 November 2026.
+51.43% at Mythical Glory over the last 7 days and 49.33% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Dyrroth play?
 

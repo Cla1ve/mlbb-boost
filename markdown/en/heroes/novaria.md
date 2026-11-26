@@ -291,7 +291,7 @@ Novaria scatters Astral Echo in the target direction, briefly slowing enemy hero
 
 Beat this hero
 
-[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
+[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
 ## Lore
 
@@ -307,11 +307,11 @@ Beat this hero
 
 Who counters Novaria in MLBB?
 
-Over the last 30 days the toughest opponents are Diggie, Valir, Bane, Luo Yi and Hanabi.
+Over the last 30 days the toughest opponents are Diggie, Valir, Bane, Hanabi and Luo Yi.
 
 What is Novaria’s win rate right now?
 
-48.29% at Mythical Glory over the last 7 days and 49.45% across all ranks over 30 days, as of 25 November 2026.
+48.29% at Mythical Glory over the last 7 days and 49.43% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Novaria play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Маша MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Маша в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 58,76% побед, тир S."
+description: "Маша в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 58,81% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/masha.html
 language: ru
 ---
@@ -25,7 +25,7 @@ S
 
 Баны
 
-67,5%
+67,2%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **54,6%**![](/images/ranks/Epic.webp)Эпик
-2.  **57,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **59,5%**![](/images/ranks/Mythic.webp)Мифик
+1.  **54,5%**![](/images/ranks/Epic.webp)Эпик
+2.  **57,8%**![](/images/ranks/Legend.webp)Легенда
+3.  **59,4%**![](/images/ranks/Mythic.webp)Мифик
 4.  **61,0%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **60,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **60,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -297,7 +297,7 @@ S
 
 Побеждают этого героя
 
-[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)
 
 ### Слабые цели
 
@@ -319,11 +319,11 @@ S
 
 Кто контрпик для героя «Маша» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Глу, Эйдора, Лесли, Чичи и Броуди.
+За последние 30 дней чаще всего героя обыгрывают Глу, Эйдора, Лесли, Броуди и Чичи.
 
 Какой процент побед у героя «Маша» сейчас?
 
-58,76% в Мифической славе за последние 7 дней и 60,27% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+58,81% в Мифической славе за последние 7 дней и 60,21% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Маша»?
 
@@ -331,7 +331,7 @@ S
 
 Силён ли герой «Маша» в текущей мете?
 
-Тир S, 1-е место из 133 героев и 1-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 67,5% матчей, 58,8% побед. В профессиональных матчах за месяц героя драфтуют в 100,0% катков.
+Тир S, 1-е место из 133 героев и 1-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 67,2% матчей, 58,8% побед. В профессиональных матчах за месяц героя драфтуют в 100,0% катков.
 
 Какая сборка на героя «Маша» лучшая?
 

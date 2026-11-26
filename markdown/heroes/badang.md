@@ -1,6 +1,6 @@
 ---
 title: "Баданг MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Баданг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 49,90% побед, тир B."
+description: "Баданг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 49,91% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/badang.html
 language: ru
 ---
@@ -53,7 +53,7 @@ B
 
 ### Другие бойцы этой линии
 
-[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
+[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)
 
 ### Места в рейтингах
 
@@ -297,7 +297,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
 
 ## История
 
@@ -313,11 +313,11 @@ B
 
 Кто контрпик для героя «Баданг» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Фанни, Сан, Зилонг, Хаябуса и Хелкарт.
+За последние 30 дней чаще всего героя обыгрывают Фанни, Сан, Зилонг, Хаябуса и Джой.
 
 Какой процент побед у героя «Баданг» сейчас?
 
-49,90% в Мифической славе за последние 7 дней и 50,19% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+49,91% в Мифической славе за последние 7 дней и 50,18% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Баданг»?
 
@@ -325,7 +325,7 @@ B
 
 Силён ли герой «Баданг» в текущей мете?
 
-Тир B, 44-е место из 133 героев и 13-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,0% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 2,7% катков.
+Тир B, 43-е место из 133 героев и 13-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 5,0% матчей, 49,9% побед. В профессиональных матчах за месяц героя драфтуют в 2,7% катков.
 
 Какая сборка на героя «Баданг» лучшая?
 

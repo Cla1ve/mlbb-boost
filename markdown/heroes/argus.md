@@ -1,6 +1,6 @@
 ---
 title: "Аргус MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Аргус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 57,35% побед, тир B."
+description: "Аргус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 57,39% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/argus.html
 language: ru
 ---
@@ -46,8 +46,8 @@ B
 1.  **55,5%**![](/images/ranks/Epic.webp)Эпик
 2.  **56,7%**![](/images/ranks/Legend.webp)Легенда
 3.  **57,5%**![](/images/ranks/Mythic.webp)Мифик
-4.  **56,8%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **56,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **56,9%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **57,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -316,7 +316,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
+[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)
 
 ### Слабые цели
 
@@ -338,11 +338,11 @@ B
 
 Кто контрпик для героя «Аргус» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Кэрри, Люнокс, Хелкарт, Сабер и Арлотт.
+За последние 30 дней чаще всего героя обыгрывают Кэрри, Люнокс, Хелкарт, Арлотт и Сабер.
 
 Какой процент побед у героя «Аргус» сейчас?
 
-57,35% в Мифической славе за последние 7 дней и 56,84% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+57,39% в Мифической славе за последние 7 дней и 56,86% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Аргус»?
 

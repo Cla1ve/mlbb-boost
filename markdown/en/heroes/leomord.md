@@ -1,6 +1,6 @@
 ---
 title: "Leomord MLBB: build, counters and skills | MLBB Boost"
-description: "Leomord in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.02% win rate, tier C."
+description: "Leomord in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.00% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/leomord.html
 language: en
 ---
@@ -57,7 +57,7 @@ Dashed line: 50% win rate
 
 ### Places in the rankings
 
--   [Best MLBB junglers**25 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
+-   [Best MLBB junglers**26 of 37**](https://boostmlbb.ru/en/heroes/best-jungle.html)
 -   [Best MLBB fighters**31 of 44**](https://boostmlbb.ru/en/heroes/best-fighter.html)
 
 ## Build
@@ -325,7 +325,7 @@ Over the last 30 days the toughest opponents are Lolita, Saber, Belerick, Popol 
 
 What is Leomord’s win rate right now?
 
-50.02% at Mythical Glory over the last 7 days and 50.05% across all ranks over 30 days, as of 25 November 2026.
+50.00% at Mythical Glory over the last 7 days and 50.03% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Leomord play?
 
@@ -333,7 +333,7 @@ Fighter, played in the jungle.
 
 Is Leomord strong in the current meta?
 
-Tier C, #98 of 133 heroes and #31 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
+Tier C, #101 of 133 heroes and #31 among fighters. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.2% of matches, 50.0% win rate. In professional games over the last month the hero is drafted in 1.0% of them.
 
 What is the best build for Leomord?
 

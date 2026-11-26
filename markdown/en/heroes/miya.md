@@ -1,6 +1,6 @@
 ---
 title: "Miya MLBB: build, counters and skills | MLBB Boost"
-description: "Miya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.12% win rate, tier B."
+description: "Miya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.08% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/miya.html
 language: en
 ---
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **48.4%**![](/images/ranks/Epic.webp)Epic
 2.  **49.1%**![](/images/ranks/Legend.webp)Legend
-3.  **50.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **50.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -322,7 +322,7 @@ Over the last 30 days the toughest opponents are Saber, Obsidia, Moskov, Irithel
 
 What is Miya’s win rate right now?
 
-50.12% at Mythical Glory over the last 7 days and 49.69% across all ranks over 30 days, as of 25 November 2026.
+50.08% at Mythical Glory over the last 7 days and 49.69% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Miya play?
 
@@ -330,7 +330,7 @@ Marksman, played in the Gold Lane.
 
 Is Miya strong in the current meta?
 
-Tier B, #53 of 133 heroes and #10 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
+Tier B, #54 of 133 heroes and #10 among marksmen. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 1.8% of matches, 50.1% win rate. In professional games over the last month the hero is drafted in 1.4% of them.
 
 What is the best build for Miya?
 

@@ -1,6 +1,6 @@
 ---
 title: "Кармилла MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Кармилла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 52,19% побед, тир S."
+description: "Кармилла в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 52,18% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/carmilla.html
 language: ru
 ---
@@ -25,7 +25,7 @@ S
 
 Баны
 
-37,2%
+37,3%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ S
 
 ### Победы по рангам, 30 дней
 
-1.  **54,2%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,6%**![](/images/ranks/Legend.webp)Легенда
+1.  **54,1%**![](/images/ranks/Epic.webp)Эпик
+2.  **54,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **54,3%**![](/images/ranks/Mythic.webp)Мифик
 4.  **53,6%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **52,6%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **52,5%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -295,7 +295,7 @@ S
 
 Побеждают этого героя
 
-[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)
 
 ### Слабые цели
 
@@ -317,11 +317,11 @@ S
 
 Кто контрпик для героя «Кармилла» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Пополь и Купа, Чип, Джонсон, Хильда и Глу.
+За последние 30 дней чаще всего героя обыгрывают Пополь и Купа, Чип, Хильда, Джонсон и Глу.
 
 Какой процент побед у героя «Кармилла» сейчас?
 
-52,19% в Мифической славе за последние 7 дней и 53,22% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+52,18% в Мифической славе за последние 7 дней и 53,20% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Кармилла»?
 
@@ -329,7 +329,7 @@ S
 
 Силён ли герой «Кармилла» в текущей мете?
 
-Тир S, 9-е место из 133 героев и 2-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 37,2% матчей, 52,2% побед. В профессиональных матчах за месяц героя драфтуют в 54,1% катков.
+Тир S, 9-е место из 133 героев и 2-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 37,3% матчей, 52,2% побед. В профессиональных матчах за месяц героя драфтуют в 54,1% катков.
 
 Какая сборка на героя «Кармилла» лучшая?
 

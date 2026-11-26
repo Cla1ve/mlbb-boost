@@ -1,6 +1,6 @@
 ---
 title: "Grock MLBB: build, counters and skills | MLBB Boost"
-description: "Grock in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 45.72% win rate, tier C."
+description: "Grock in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 45.79% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/grock.html
 language: en
 ---
@@ -17,7 +17,7 @@ C
 
 Win rate
 
-45.7%
+45.8%
 
 Pick rate
 
@@ -320,7 +320,7 @@ Over the last 30 days the toughest opponents are Lolita, Johnson, Yin, Diggie an
 
 What is Grock’s win rate right now?
 
-45.72% at Mythical Glory over the last 7 days and 46.62% across all ranks over 30 days, as of 25 November 2026.
+45.79% at Mythical Glory over the last 7 days and 46.61% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Grock play?
 
@@ -328,7 +328,7 @@ Tank and fighter, played on roam.
 
 Is Grock strong in the current meta?
 
-Tier C, #119 of 133 heroes and #21 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 45.7% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
+Tier C, #119 of 133 heroes and #21 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 45.8% win rate. In professional games over the last month the hero is drafted in 1.3% of them.
 
 What is the best build for Grock?
 

@@ -1,6 +1,6 @@
 ---
 title: "Zhuxin MLBB: build, counters and skills | MLBB Boost"
-description: "Zhuxin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.40% win rate, tier A."
+description: "Zhuxin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.46% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zhuxin.html
 language: en
 ---
@@ -17,7 +17,7 @@ A
 
 Win rate
 
-49.4%
+49.5%
 
 Pick rate
 
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-0.6%
+0.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **47.8%**![](/images/ranks/Epic.webp)Epic
 2.  **48.2%**![](/images/ranks/Legend.webp)Legend
-3.  **48.3%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **48.9%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.9%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -321,7 +321,7 @@ Over the last 30 days the toughest opponents are Lolita, Khufra, Gloo, Hylos and
 
 What is Zhuxin’s win rate right now?
 
-49.40% at Mythical Glory over the last 7 days and 49.51% across all ranks over 30 days, as of 25 November 2026.
+49.46% at Mythical Glory over the last 7 days and 49.48% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Zhuxin play?
 
@@ -329,7 +329,7 @@ Mage, played in the Mid Lane.
 
 Is Zhuxin strong in the current meta?
 
-Tier A, #19 of 133 heroes and #5 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.6% of matches, 49.4% win rate. In professional games over the last month the hero is drafted in 73.9% of them.
+Tier A, #19 of 133 heroes and #5 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.5% of matches, 49.5% win rate. In professional games over the last month the hero is drafted in 73.9% of them.
 
 What is the best build for Zhuxin?
 

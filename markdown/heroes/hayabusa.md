@@ -1,6 +1,6 @@
 ---
 title: "Хаябуса MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хаябуса в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 48,36% побед, тир C."
+description: "Хаябуса в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 48,39% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/hayabusa.html
 language: ru
 ---
@@ -44,10 +44,10 @@ C
 ### Победы по рангам, 30 дней
 
 1.  **47,4%**![](/images/ranks/Epic.webp)Эпик
-2.  **47,9%**![](/images/ranks/Legend.webp)Легенда
+2.  **47,8%**![](/images/ranks/Legend.webp)Легенда
 3.  **48,2%**![](/images/ranks/Mythic.webp)Мифик
 4.  **48,5%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **48,1%**![](/images/ranks/Mythical_Glory.webp)Слава
+5.  **48,2%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -295,7 +295,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)
 
 ### Слабые цели
 
@@ -317,11 +317,11 @@ C
 
 Кто контрпик для героя «Хаябуса» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эймон, Ив, Чжусинь, Нолан и Икс.Борг.
+За последние 30 дней чаще всего героя обыгрывают Эймон, Ив, Чжусинь, Нолан и Кэрри.
 
 Какой процент побед у героя «Хаябуса» сейчас?
 
-48,36% в Мифической славе за последние 7 дней и 48,16% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,39% в Мифической славе за последние 7 дней и 48,17% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Хаябуса»?
 

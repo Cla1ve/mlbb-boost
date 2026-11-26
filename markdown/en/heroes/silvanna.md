@@ -1,6 +1,6 @@
 ---
 title: "Silvanna MLBB: build, counters and skills | MLBB Boost"
-description: "Silvanna in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.28% win rate, tier C."
+description: "Silvanna in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.29% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/silvanna.html
 language: en
 ---
@@ -298,7 +298,7 @@ Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
 Beat this hero
 
-[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)
+[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
 ### Easy targets
 
@@ -320,11 +320,11 @@ This hero beats them
 
 Who counters Silvanna in MLBB?
 
-Over the last 30 days the toughest opponents are Aamon, Floryn, Angela, Valentina and Rafaela.
+Over the last 30 days the toughest opponents are Aamon, Floryn, Angela, Rafaela and Valentina.
 
 What is Silvanna’s win rate right now?
 
-50.28% at Mythical Glory over the last 7 days and 51.37% across all ranks over 30 days, as of 25 November 2026.
+50.29% at Mythical Glory over the last 7 days and 51.38% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Silvanna play?
 

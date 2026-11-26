@@ -1,6 +1,6 @@
 ---
 title: "Hanzo MLBB: build, counters and skills | MLBB Boost"
-description: "Hanzo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.31% win rate, tier C."
+description: "Hanzo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.28% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hanzo.html
 language: en
 ---
@@ -301,7 +301,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
 ## Lore
 
@@ -321,7 +321,7 @@ Over the last 30 days the toughest opponents are Diggie, Ixia, Franco, Balmond a
 
 What is Hanzo’s win rate right now?
 
-49.31% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 25 November 2026.
+49.28% at Mythical Glory over the last 7 days and 49.91% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Hanzo play?
 

@@ -1,6 +1,6 @@
 ---
 title: "Фредрин MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фредрин в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 52,42% побед, тир C."
+description: "Фредрин в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и боец, 52,44% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/fredrinn.html
 language: ru
 ---
@@ -43,7 +43,7 @@ C
 
 ### Победы по рангам, 30 дней
 
-1.  **50,0%**![](/images/ranks/Epic.webp)Эпик
+1.  **49,9%**![](/images/ranks/Epic.webp)Эпик
 2.  **49,5%**![](/images/ranks/Legend.webp)Легенда
 3.  **50,0%**![](/images/ranks/Mythic.webp)Мифик
 4.  **50,6%**![](/images/ranks/Mythical_Honor.webp)Честь
@@ -304,7 +304,7 @@ C
 
 Побеждают этого героя
 
-[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ### Слабые цели
 
@@ -326,11 +326,11 @@ C
 
 Кто контрпик для героя «Фредрин» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Глу, Алукард, Джой, Люнокс и Халид.
+За последние 30 дней чаще всего героя обыгрывают Глу, Алукард, Люнокс, Джой и Халид.
 
 Какой процент побед у героя «Фредрин» сейчас?
 
-52,42% в Мифической славе за последние 7 дней и 51,27% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+52,44% в Мифической славе за последние 7 дней и 51,28% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Фредрин»?
 
@@ -338,7 +338,7 @@ C
 
 Силён ли герой «Фредрин» в текущей мете?
 
-Тир C, 75-е место из 133 героев и 13-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
+Тир C, 73-е место из 133 героев и 13-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
 Какая сборка на героя «Фредрин» лучшая?
 

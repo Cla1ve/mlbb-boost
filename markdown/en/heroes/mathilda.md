@@ -1,6 +1,6 @@
 ---
 title: "Mathilda MLBB: build, counters and skills | MLBB Boost"
-description: "Mathilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and support, 43.95% win rate, tier D."
+description: "Mathilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and support, 43.97% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
@@ -43,7 +43,7 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **46.8%**![](/images/ranks/Epic.webp)Epic
+1.  **46.9%**![](/images/ranks/Epic.webp)Epic
 2.  **45.3%**![](/images/ranks/Legend.webp)Legend
 3.  **45.1%**![](/images/ranks/Mythic.webp)Mythic
 4.  **45.0%**![](/images/ranks/Mythical_Honor.webp)Honor
@@ -305,7 +305,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
 ## Lore
 
@@ -325,7 +325,7 @@ Over the last 30 days the toughest opponents are Natalia, X.Borg, Valir, Helcurt
 
 What is Mathilda’s win rate right now?
 
-43.95% at Mythical Glory over the last 7 days and 44.47% across all ranks over 30 days, as of 25 November 2026.
+43.97% at Mythical Glory over the last 7 days and 44.46% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Mathilda play?
 

@@ -13,7 +13,7 @@ language: ru
 
 [![](/images/mlbb/filters/jungle.webp)Лесники](https://boostmlbb.ru/heroes/best-jungle.html)[![](/images/mlbb/filters/marksman.webp)Стрелки](https://boostmlbb.ru/heroes/best-marksman.html)[![](/images/mlbb/filters/mage.webp)Маги](https://boostmlbb.ru/heroes/best-mage.html)[![](/images/mlbb/filters/fighter.webp)Бойцы](https://boostmlbb.ru/heroes/best-fighter.html)[![](/images/mlbb/filters/tank.webp)Танки](https://boostmlbb.ru/heroes/best-tank.html)[![](/images/mlbb/filters/assassin.webp)Убийцы](https://boostmlbb.ru/heroes/best-assassin.html)[![](/images/mlbb/filters/roam.webp)Роум](https://boostmlbb.ru/heroes/best-roam.html)[![](/images/mlbb/filters/mid.webp)Мид](https://boostmlbb.ru/heroes/best-mid.html)[Для новичков](https://boostmlbb.ru/heroes/for-beginners.html)
 
-Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,6% побед и бан в 65,1% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
+Среди стрелков сейчас лидируют Обсидия, Кимми и Бруно. Обсидия: 52,6% побед и бан в 65,4% матчей Мифической славы за 7 дней. В списке 23 героя, из них 3 в тире S или A.
 
 ## Топ-3 и их сборки
 
@@ -35,7 +35,7 @@ S
 
 Баны
 
-65,1%
+65,4%
 
 [
 
@@ -89,7 +89,7 @@ A
 
 Баны
 
-0,6%
+0,5%
 
 [
 
@@ -135,7 +135,7 @@ A
 
 Победы
 
-54,3%
+54,4%
 
 Выбор
 
@@ -207,7 +207,7 @@ S
 
 2,4%
 
-65,1%
+65,4%
 
 44,8%
 
@@ -221,7 +221,7 @@ A
 
 0,9%
 
-0,6%
+0,5%
 
 73,1%
 
@@ -231,7 +231,7 @@ A
 
 A
 
-54,3%
+54,4%
 
 1,0%
 
@@ -249,7 +249,7 @@ B
 
 2,0%
 
-5,1%
+5,3%
 
 6,8%
 
@@ -343,7 +343,7 @@ B
 
 B
 
-52,5%
+52,4%
 
 0,4%
 
@@ -385,7 +385,7 @@ C
 
 C
 
-50,6%
+50,5%
 
 0,8%
 
@@ -413,7 +413,7 @@ C
 
 C
 
-48,2%
+48,3%
 
 0,9%
 
@@ -483,11 +483,11 @@ C
 
 C
 
-48,4%
+48,6%
 
-0,4%
+0,3%
 
-1,1%
+0,9%
 
 —
 
@@ -534,9 +534,9 @@ D
 
 Победы в Легенде и Мифике за 30 дней. Только герои, которых банят реже чем в 30% матчей Мифической славы.
 
-1.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,6%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
-2.  [![](/images/heroes/hanabi.webp)Ханаби53,5%](https://boostmlbb.ru/heroes/hanabi.html)
-3.  [![](/images/heroes/edith.webp)Эдит53,4%](https://boostmlbb.ru/heroes/edith.html)
+1.  [![](/images/heroes/hanabi.webp)Ханаби53,6%](https://boostmlbb.ru/heroes/hanabi.html)
+2.  [![](/images/heroes/popol-and-kupa.webp)Пополь и Купа53,5%](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+3.  [![](/images/heroes/edith.webp)Эдит53,5%](https://boostmlbb.ru/heroes/edith.html)
 4.  [![](/images/heroes/irithel.webp)Иритель52,7%](https://boostmlbb.ru/heroes/irithel.html)
 5.  [![](/images/heroes/bruno.webp)Бруно52,5%](https://boostmlbb.ru/heroes/bruno.html)
 6.  [![](/images/heroes/natan.webp)Натан50,9%](https://boostmlbb.ru/heroes/natan.html)
@@ -560,7 +560,7 @@ D
 
 Кто лучший стрелок в MLBB сейчас?
 
-Обсидия: тир S, 52,6% побед, бан в 65,1% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 25 ноября 2026 года.
+Обсидия: тир S, 52,6% побед, бан в 65,4% матчей Мифической славы за 7 дней. Следом идут Кимми и Бруно. Данные на 25 ноября 2026 года.
 
 Что выбрать новичку среди стрелков?
 
@@ -568,7 +568,7 @@ D
 
 Каких стрелков чаще всего банят?
 
-Обсидия (65,1%), Лесли (5,1%) и Мия (1,8%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
+Обсидия (65,4%), Лесли (5,3%) и Мия (1,8%). Это доля матчей Мифической славы за 7 дней, где героя забанили.
 
 Сколько стрелков в Mobile Legends?
 

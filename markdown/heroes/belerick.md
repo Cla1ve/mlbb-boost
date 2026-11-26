@@ -1,6 +1,6 @@
 ---
 title: "Белерик MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Белерик в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 50,41% побед, тир S."
+description: "Белерик в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 50,45% побед, тир S."
 canonical: https://boostmlbb.ru/heroes/belerick.html
 language: ru
 ---
@@ -17,15 +17,15 @@ S
 
 Победы
 
-50,4%
+50,5%
 
 Выбор
 
-1,8%
+1,7%
 
 Баны
 
-56,4%
+56,6%
 
 [Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
@@ -44,10 +44,10 @@ S
 ### Победы по рангам, 30 дней
 
 1.  **56,0%**![](/images/ranks/Epic.webp)Эпик
-2.  **54,5%**![](/images/ranks/Legend.webp)Легенда
+2.  **54,6%**![](/images/ranks/Legend.webp)Легенда
 3.  **53,1%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,3%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,0%**![](/images/ranks/Mythical_Glory.webp)Слава
+4.  **51,4%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **50,1%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -303,7 +303,7 @@ S
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
+[![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/leomord.webp)Леоморд](https://boostmlbb.ru/heroes/leomord.html)
 
 ## История
 
@@ -323,7 +323,7 @@ S
 
 Какой процент побед у героя «Белерик» сейчас?
 
-50,41% в Мифической славе за последние 7 дней и 51,83% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+50,45% в Мифической славе за последние 7 дней и 51,84% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Белерик»?
 
@@ -331,7 +331,7 @@ S
 
 Силён ли герой «Белерик» в текущей мете?
 
-Тир S, 10-е место из 133 героев и 3-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,4% матчей, 50,4% побед. В профессиональных матчах за месяц героя драфтуют в 38,0% катков.
+Тир S, 10-е место из 133 героев и 3-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 56,6% матчей, 50,5% побед. В профессиональных матчах за месяц героя драфтуют в 38,0% катков.
 
 Какая сборка на героя «Белерик» лучшая?
 

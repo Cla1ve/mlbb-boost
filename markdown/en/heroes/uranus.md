@@ -1,6 +1,6 @@
 ---
 title: "Uranus MLBB: build, counters and skills | MLBB Boost"
-description: "Uranus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 48.67% win rate, tier B."
+description: "Uranus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 48.70% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/uranus.html
 language: en
 ---
@@ -43,7 +43,7 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **51.7%**![](/images/ranks/Epic.webp)Epic
-2.  **50.8%**![](/images/ranks/Legend.webp)Legend
+2.  **50.9%**![](/images/ranks/Legend.webp)Legend
 3.  **50.2%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **48.3%**![](/images/ranks/Mythical_Glory.webp)Glory
@@ -321,7 +321,7 @@ Over the last 30 days the toughest opponents are Argus, Gatotkaca, Yin, Granger 
 
 What is Uranus’s win rate right now?
 
-48.67% at Mythical Glory over the last 7 days and 49.35% across all ranks over 30 days, as of 25 November 2026.
+48.70% at Mythical Glory over the last 7 days and 49.36% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Uranus play?
 

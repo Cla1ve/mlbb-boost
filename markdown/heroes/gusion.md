@@ -1,6 +1,6 @@
 ---
 title: "Госсен MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Госсен в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 48,89% побед, тир B."
+description: "Госсен в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 48,91% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/gusion.html
 language: ru
 ---
@@ -53,7 +53,7 @@ B
 
 ### Другие убийцы этой линии
 
-[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)
+[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)
 
 ### Места в рейтингах
 
@@ -235,7 +235,7 @@ B
 
 Побеждают этого героя
 
-[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
 
 ### Слабые цели
 
@@ -257,11 +257,11 @@ B
 
 Кто контрпик для героя «Госсен» в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эймон, Валир, Ив, Икс.Борг и Наталья.
+За последние 30 дней чаще всего героя обыгрывают Эймон, Ив, Валир, Икс.Борг и Наталья.
 
 Какой процент побед у героя «Госсен» сейчас?
 
-48,89% в Мифической славе за последние 7 дней и 48,63% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+48,91% в Мифической славе за последние 7 дней и 48,64% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Госсен»?
 

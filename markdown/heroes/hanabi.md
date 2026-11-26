@@ -1,6 +1,6 @@
 ---
 title: "Ханаби MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Ханаби в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 51,35% побед, тир B."
+description: "Ханаби в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 51,40% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/hanabi.html
 language: ru
 ---
@@ -45,9 +45,9 @@ B
 
 1.  **54,4%**![](/images/ranks/Epic.webp)Эпик
 2.  **53,9%**![](/images/ranks/Legend.webp)Легенда
-3.  **53,2%**![](/images/ranks/Mythic.webp)Мифик
-4.  **51,9%**![](/images/ranks/Mythical_Honor.webp)Честь
-5.  **50,9%**![](/images/ranks/Mythical_Glory.webp)Слава
+3.  **53,3%**![](/images/ranks/Mythic.webp)Мифик
+4.  **52,0%**![](/images/ranks/Mythical_Honor.webp)Честь
+5.  **51,0%**![](/images/ranks/Mythical_Glory.webp)Слава
 
 Пунктир: 50% побед
 
@@ -298,7 +298,7 @@ B
 
 Этот герой побеждает их
 
-[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
 
 ## История
 
@@ -318,7 +318,7 @@ B
 
 Какой процент побед у героя «Ханаби» сейчас?
 
-51,35% в Мифической славе за последние 7 дней и 52,68% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
+51,40% в Мифической славе за последние 7 дней и 52,70% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
 Какая роль и линия у героя «Ханаби»?
 

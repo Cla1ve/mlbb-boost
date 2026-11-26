@@ -1,6 +1,6 @@
 ---
 title: "Nolan MLBB: build, counters and skills | MLBB Boost"
-description: "Nolan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.43% win rate, tier S."
+description: "Nolan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.45% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
@@ -17,15 +17,15 @@ S
 
 Win rate
 
-50.4%
+50.5%
 
 Pick rate
 
-2.6%
+2.5%
 
 Ban rate
 
-38.3%
+39.5%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -45,7 +45,7 @@ Ban rate
 
 1.  **48.7%**![](/images/ranks/Epic.webp)Epic
 2.  **48.3%**![](/images/ranks/Legend.webp)Legend
-3.  **48.8%**![](/images/ranks/Mythic.webp)Mythic
+3.  **48.7%**![](/images/ranks/Mythic.webp)Mythic
 4.  **49.6%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **50.4%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -317,7 +317,7 @@ Over the last 30 days the toughest opponents are Estes, Yve, Zhuxin, X.Borg and 
 
 What is Nolan’s win rate right now?
 
-50.43% at Mythical Glory over the last 7 days and 49.73% across all ranks over 30 days, as of 25 November 2026.
+50.45% at Mythical Glory over the last 7 days and 49.74% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Nolan play?
 
@@ -325,7 +325,7 @@ Assassin, played in the jungle.
 
 Is Nolan strong in the current meta?
 
-Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 38.3% of matches, 50.4% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
+Tier S, #3 of 133 heroes and #1 among assassins. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 39.5% of matches, 50.5% win rate. In professional games over the last month the hero is drafted in 82.8% of them.
 
 What is the best build for Nolan?
 

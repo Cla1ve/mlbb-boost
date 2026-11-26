@@ -59,9 +59,9 @@ Heroes whose popular ranked build has the item, with the build’s win rate
 -   [![](/images/heroes/ixia.webp)Ixia56.1%](https://boostmlbb.ru/en/heroes/ixia.html#build)
 -   [![](/images/heroes/granger.webp)Granger39.7%](https://boostmlbb.ru/en/heroes/granger.html#build)
 -   [![](/images/heroes/natalia.webp)Natalia55.3%](https://boostmlbb.ru/en/heroes/natalia.html#build)
--   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa54.3%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
 -   [![](/images/heroes/yin.webp)Yin57.7%](https://boostmlbb.ru/en/heroes/yin.html#build)
 -   [![](/images/heroes/bane.webp)Bane53.0%](https://boostmlbb.ru/en/heroes/bane.html#build)
+-   [![](/images/heroes/popol-and-kupa.webp)Popol and Kupa54.3%](https://boostmlbb.ru/en/heroes/popol-and-kupa.html#build)
 -   [![](/images/heroes/martis.webp)Martis51.0%](https://boostmlbb.ru/en/heroes/martis.html#build)
 -   [![](/images/heroes/jawhead.webp)Jawhead50.5%](https://boostmlbb.ru/en/heroes/jawhead.html#build)
 

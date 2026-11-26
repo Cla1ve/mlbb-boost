@@ -43,8 +43,8 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **50.8%**![](/images/ranks/Epic.webp)Epic
-2.  **50.4%**![](/images/ranks/Legend.webp)Legend
+1.  **50.9%**![](/images/ranks/Epic.webp)Epic
+2.  **50.5%**![](/images/ranks/Legend.webp)Legend
 3.  **49.9%**![](/images/ranks/Mythic.webp)Mythic
 4.  **51.0%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **49.5%**![](/images/ranks/Mythical_Glory.webp)Glory

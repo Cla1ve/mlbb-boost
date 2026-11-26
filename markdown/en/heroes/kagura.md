@@ -1,6 +1,6 @@
 ---
 title: "Kagura MLBB: build, counters and skills | MLBB Boost"
-description: "Kagura in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.26% win rate, tier B."
+description: "Kagura in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.31% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
@@ -291,7 +291,7 @@ Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic P
 
 Beat this hero
 
-[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
+[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
 ### Easy targets
 
@@ -313,11 +313,11 @@ This hero beats them
 
 Who counters Kagura in MLBB?
 
-Over the last 30 days the toughest opponents are Lolita, Silvanna, Valir, Hanzo and Hanabi.
+Over the last 30 days the toughest opponents are Lolita, Silvanna, Hanzo, Valir and Hanabi.
 
 What is Kagura’s win rate right now?
 
-50.26% at Mythical Glory over the last 7 days and 51.01% across all ranks over 30 days, as of 25 November 2026.
+50.31% at Mythical Glory over the last 7 days and 50.98% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Kagura play?
 

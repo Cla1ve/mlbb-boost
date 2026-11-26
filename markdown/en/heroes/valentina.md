@@ -1,6 +1,6 @@
 ---
 title: "Valentina MLBB: build, counters and skills | MLBB Boost"
-description: "Valentina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 44.70% win rate, tier B."
+description: "Valentina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 44.64% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/valentina.html
 language: en
 ---
@@ -17,7 +17,7 @@ B
 
 Win rate
 
-44.7%
+44.6%
 
 Pick rate
 
@@ -44,8 +44,8 @@ Ban rate
 ### Win rate by rank, 30 days
 
 1.  **42.4%**![](/images/ranks/Epic.webp)Epic
-2.  **42.2%**![](/images/ranks/Legend.webp)Legend
-3.  **42.9%**![](/images/ranks/Mythic.webp)Mythic
+2.  **42.3%**![](/images/ranks/Legend.webp)Legend
+3.  **42.8%**![](/images/ranks/Mythic.webp)Mythic
 4.  **44.1%**![](/images/ranks/Mythical_Honor.webp)Honor
 5.  **45.3%**![](/images/ranks/Mythical_Glory.webp)Glory
 
@@ -305,7 +305,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
 ## Lore
 
@@ -325,7 +325,7 @@ Over the last 30 days the toughest opponents are Carmilla, Atlas, X.Borg, Lukas 
 
 What is Valentina’s win rate right now?
 
-44.70% at Mythical Glory over the last 7 days and 44.66% across all ranks over 30 days, as of 25 November 2026.
+44.64% at Mythical Glory over the last 7 days and 44.64% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Valentina play?
 
@@ -333,7 +333,7 @@ Mage, played in the Mid Lane.
 
 Is Valentina strong in the current meta?
 
-Tier B, #55 of 133 heroes and #13 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 44.7% win rate. In professional games over the last month the hero is drafted in 32.8% of them.
+Tier B, #55 of 133 heroes and #13 among mages. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 0.1% of matches, 44.6% win rate. In professional games over the last month the hero is drafted in 32.8% of them.
 
 What is the best build for Valentina?
 

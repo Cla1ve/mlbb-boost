@@ -1,6 +1,6 @@
 ---
 title: "Carmilla MLBB: build, counters and skills | MLBB Boost"
-description: "Carmilla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 52.19% win rate, tier S."
+description: "Carmilla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 52.18% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/carmilla.html
 language: en
 ---
@@ -25,7 +25,7 @@ Pick rate
 
 Ban rate
 
-37.2%
+37.3%
 
 [Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
@@ -43,11 +43,11 @@ Ban rate
 
 ### Win rate by rank, 30 days
 
-1.  **54.2%**![](/images/ranks/Epic.webp)Epic
-2.  **54.6%**![](/images/ranks/Legend.webp)Legend
+1.  **54.1%**![](/images/ranks/Epic.webp)Epic
+2.  **54.5%**![](/images/ranks/Legend.webp)Legend
 3.  **54.3%**![](/images/ranks/Mythic.webp)Mythic
 4.  **53.6%**![](/images/ranks/Mythical_Honor.webp)Honor
-5.  **52.6%**![](/images/ranks/Mythical_Glory.webp)Glory
+5.  **52.5%**![](/images/ranks/Mythical_Glory.webp)Glory
 
 Dashed line: 50% win rate
 
@@ -295,7 +295,7 @@ When a linked enemy takes damage or becomes controlled, all the other linked tar
 
 Beat this hero
 
-[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)
+[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)
 
 ### Easy targets
 
@@ -317,11 +317,11 @@ This hero beats them
 
 Who counters Carmilla in MLBB?
 
-Over the last 30 days the toughest opponents are Popol and Kupa, Chip, Johnson, Hilda and Gloo.
+Over the last 30 days the toughest opponents are Popol and Kupa, Chip, Hilda, Johnson and Gloo.
 
 What is Carmilla’s win rate right now?
 
-52.19% at Mythical Glory over the last 7 days and 53.22% across all ranks over 30 days, as of 25 November 2026.
+52.18% at Mythical Glory over the last 7 days and 53.20% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Carmilla play?
 
@@ -329,7 +329,7 @@ Tank and support, played on roam.
 
 Is Carmilla strong in the current meta?
 
-Tier S, #9 of 133 heroes and #2 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 37.2% of matches, 52.2% win rate. In professional games over the last month the hero is drafted in 54.1% of them.
+Tier S, #9 of 133 heroes and #2 among tanks. The tier counts how often the hero is picked and banned and how well it wins at Mythical Glory over 7 days: banned in 37.3% of matches, 52.2% win rate. In professional games over the last month the hero is drafted in 54.1% of them.
 
 What is the best build for Carmilla?
 

@@ -1,6 +1,6 @@
 ---
 title: "Marcel MLBB: build, counters and skills | MLBB Boost"
-description: "Marcel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 57.04% win rate, tier S."
+description: "Marcel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 56.99% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/marcel.html
 language: en
 ---
@@ -304,7 +304,7 @@ Beat this hero
 
 This hero beats them
 
-[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
+[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
 ## Lore
 
@@ -324,7 +324,7 @@ Over the last 30 days the toughest opponents are Atlas, Sun, Akai, Johnson and P
 
 What is Marcel’s win rate right now?
 
-57.04% at Mythical Glory over the last 7 days and 57.41% across all ranks over 30 days, as of 25 November 2026.
+56.99% at Mythical Glory over the last 7 days and 57.39% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Marcel play?
 

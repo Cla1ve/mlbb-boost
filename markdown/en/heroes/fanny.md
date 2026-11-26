@@ -1,6 +1,6 @@
 ---
 title: "Fanny MLBB: build, counters and skills | MLBB Boost"
-description: "Fanny in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.97% win rate, tier B."
+description: "Fanny in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.96% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/fanny.html
 language: en
 ---
@@ -319,7 +319,7 @@ Over the last 30 days the toughest opponents are Granger, Gloo, Yve, Atlas and C
 
 What is Fanny’s win rate right now?
 
-42.97% at Mythical Glory over the last 7 days and 42.70% across all ranks over 30 days, as of 25 November 2026.
+42.96% at Mythical Glory over the last 7 days and 42.71% across all ranks over 30 days, as of 25 November 2026.
 
 What role and lane does Fanny play?
 
