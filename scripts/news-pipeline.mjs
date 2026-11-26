@@ -1535,7 +1535,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/legal.css?v=2">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=33">
-  <link rel="stylesheet" href="/styles/arena.css?v=7">
+  <link rel="stylesheet" href="/styles/arena.css?v=9">
   <link rel="stylesheet" href="/styles/journal.css?v=7">`;
 }
 
@@ -2203,6 +2203,7 @@ ${GENERATED_MARKER}
         <div class="container article-header__inner">${renderArenaNav(locale, 'news')}</div>
         <div class="container journal-hero${tool ? ' journal-hero--tool' : ''}">
           <div class="journal-title">
+            <a class="page-back" href="${config.rootPath}" data-back><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M10 3L5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg><span>${escapeHtml(articleCopy.allNews)}</span></a><script>document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('[data-back]');if(!a)return;try{var r=new URL(document.referrer);if(r.origin===location.origin&&r.pathname===new URL(a.href,location.href).pathname&&history.length>1){e.preventDefault();history.back();}}catch(x){}});</script>
             <p class="journal-meta"><a href="${config.rootPath}?category=${escapeHtml(post.categoryKey)}">${escapeHtml(post.category)}</a><time datetime="${escapeHtml(post.datePublished)}">${escapeHtml(formatDate(post.datePublished, locale))}</time></p>
             <h1>${escapeHtml(post.title)}</h1>
             <p class="article-deck">${escapeHtml(post.excerpt)}</p>

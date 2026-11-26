@@ -7,6 +7,8 @@ language: ru
 
 [Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
+[Тир-лист](https://boostmlbb.ru/heroes/)
+
 # Лучшие лесники MLBB
 
 37 героев · Обновлено 25 ноября

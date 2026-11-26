@@ -6,171 +6,99 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:58:31 GMT</lastBuildDate>
     <item>
-      <title>FACEIT for MLBB: where to play serious 5v5 matches</title>
+      <title>FACEIT for MLBB: SKY, Lockin and Ladder</title>
       <link>https://boostmlbb.ru/en/news/mlbb-faceit/</link>
       <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-faceit/</guid>
-      <description>There is no FACEIT for MLBB, but there are SKY, Lockin and MLBB Ladder: a queue, ELO, fixed roles and a game lobby. How they work and how to start.</description>
+      <description>There is no FACEIT for MLBB, but there are SKY, Lockin and Ladder: a queue, ELO, roles and a game lobby. What they are and which one to pick.</description>
       <dc:creator>Boost MLBB Editorial Team</dc:creator>
       <category>Guides</category>
       <pubDate>Thu, 26 Nov 2026 20:13:38 GMT</pubDate>
       <yandex:genre>article</yandex:genre>
       <yandex:full-text>In brief
 
-FACEIT has no Mobile Legends. Fan-made platforms took its place for MLBB: SKY, Lockin and MLBB Ladder.
+FACEIT has no Mobile Legends, but in 2026 MLBB got its own platforms of the same kind: SKY, Lockin and Ladder.
 
-They all work the same way: a queue on the site, ten players of a similar level, roles set in advance, a custom lobby in the game and an ELO rating.
+They share one idea: the site gathers ten players of one level, gives each a role, the match is played in the game&#39;s custom lobby, and wins move your ELO.
 
-You need your own MLBB account: the platforms check the ID and server, and you can play only from it.
+All three are free and made by players; they are not connected to MOONTON.
 
-Playing is free. SKY promises cash prizes for the top of its leaderboard, and CyberHero by t2 runs tournaments with prizes.
+Why they exist
 
-Why you need it
-
-MLBB ranked counts stars, and random matchmaking builds the team: your jungler may skip Retribution and two fighters may end up in one lane. Competitive platforms work differently. The rating is ELO, so it grows when you beat strong opponents. Roles are fixed before the match, and AFK or throwing games is punished. It is FACEIT, as in CS2, only for a mobile MOBA, which is why people search for &quot;FACEIT for MLBB&quot;.
-
-SKY, Lockin and MLBB Ladder compared
-
-Data from the platforms&#39; websites as of 26 November 2026. The MLBB Ladder site is behind a browser check, its data comes from the site description.
-
-What
+In MLBB ranked you earn stars, and random matchmaking builds your team. Hence a jungler without Retribution and two fighters in one lane. On the platforms the rating is ELO: beating strong players gives more points, your role is fixed before the match, and AFK or throwing is punished. That is why people call them &quot;FACEIT for MLBB&quot;, like the CS2 platform.
 
 SKY
 
-Lockin
+skymlbb.ru
 
-MLBB Ladder
+The platform was opened by the streamer Geass, and its beta started on 18 November 2026. It is the most complete of the three. Everyone starts at zero ELO, the first ten matches are calibration, then come levels from 1 to 10. The win, damage, gold, KDA and MVP come from the game automatically, and your rating depends not only on your team&#39;s win but on your share in it.
 
-Website
+A captains draft from 1531 ELO: two captains play rock-paper-scissors and pick players in turns.
+
+One-on-one duels with their own rating: before the game each player bans a hero class for both.
+
+Parties of up to five, a shared chat and reports that send throwers to a low-priority queue.
+
+The announcement promises cash prizes for the top of the leaderboard, games with esports players and a pro league.
+
+Playing is free. The paid Premium subscription only gives cosmetics and conveniences. Registration is from 14 years old.
 
 skymlbb.ru
 
+SKY website
+
+Sign-up, match rules and sign-in with Telegram, Google or the game account.
+
+Lockin
+
 lockingg.cc
 
-mlbbladder.ru
+Lockin is made by enthusiasts who wanted points-based rating back in MLBB, like the old PTS system. You sign in with one click through Telegram, and the game account is checked by ID and server, so you cannot play from someone else&#39;s or a spare one. You choose your role yourself: jungle, EXP, mid, gold or roam, and in the match you play only that.
 
-Sign-in
+The first season is on now. To get into the top fifty of the table you need about 1320 points, and on 26 November the leader had 1574 after 96 matches. The table can be filtered by role. The Lockin app is downloaded from their Telegram channel, and matchmaking for full five-stacks is promised once there are more players.
 
-Login and password, Telegram, Google or the game account
+lockingg.cc
 
-Telegram or email
+Lockin website
 
-A Telegram bot, no password
-
-Account check
-
-Bound to the MLBB account for good
-
-By ID and server
-
-Not stated
-
-Rating
-
-ELO from zero, levels from 1 to 10
-
-ELO, leaderboard
-
-ELO, levels from 1 to 10, seasons
-
-Roles
-
-You pick before the queue, the site assigns one
-
-Fixed in advance: jungle, EXP, mid, gold, roam
-
-Teams are split by role
-
-Modes
-
-Regular, captains draft, one-on-one duels
-
-Solo queue, parties later
-
-Five-on-five matches
-
-Money
-
-Free, with a Premium subscription
-
-Free
-
-Not stated
-
-SKY: the most detailed platform
-
-SKY was opened by the streamer Geass, and its beta started on 18 November 2026. It is a platform for 5v5 rated matches: everyone starts at zero ELO, the first ten matches are calibration, then come levels from 1 to 10. Results come from the game automatically: the win, damage, gold, KDA and MVP. The rating depends not only on your team&#39;s win but on your own contribution.
-
-The SKY home page, 26 November 2026.
-
-Choose the preferred server with the lowest ping: each server has its own queue.
-
-Tick the roles you are ready to play and start the search.
-
-When a match is found, you have 45 seconds to accept. Missing it blocks the search: 2 minutes at first, longer for repeats the same day.
-
-The host creates a custom lobby from the link in the match card within 6 minutes, on the Mythic Battlefield map.
-
-Everyone else joins and takes their side, blue or red, as on the site.
-
-You play the role the site assigned. You can swap only if the player you swap with agrees.
-
-Besides the regular mode there is a draft: two captains play rock-paper-scissors and pick players in turns, one for each role. It unlocks at 1531 ELO. There are also one-on-one duels with their own rating and class bans. Every finished match adds conduct points. Below 90 the search takes longer. A confirmed AFK costs 10 points, a violation 20.
-
-A ping up to 60 ms counts as normal, and the match is played out. If it is higher, you can request a rehost in the first 2 minutes; it needs 7 votes out of 10. Surrendering instead of a rehost counts as a loss.
-
-Ping and rehost
-
-Playing is free. A three-tier Premium subscription gives cosmetics and conveniences and is paid in the in-house G-Coin currency, one G-Coin is one rouble. In its announcement SKY promises cash prizes for the top of the leaderboard, games with esports players, a pro league and mixes. Registration is from 14 years old.
-
-Lockin: Telegram sign-in and a strict check
-
-Lockin is made by enthusiasts who want points-based rating back, like the old PTS system. You sign in with one click through Telegram. The platform gets only your ID, name, username and profile photo, not your phone number or chats. The MLBB account is confirmed by ID and server, so smurfs will not get in.
-
-The Lockin home page, 26 November 2026.
-
-Sign in through Telegram.
-
-Enter your MLBB account ID and server.
-
-Pick a role: jungle, EXP, mid, gold or roam. You play it in the match, no lane arguments.
-
-Join the queue. The longer you wait, the wider the rating range of your opponents.
-
-Confirm you are ready and join the lobby from the link.
-
-The ten players are split into teams with one per role so that the total rating of both sides is nearly equal. Beating stronger players gives more points. Matchmaking for full five-stacks is promised once there are enough players. On 26 November the leader of the table had 1574 points. The Lockin app is downloaded from their Telegram channel.
-
-If the lobby link opens the app store, hold it, copy it and paste it into the browser. If that fails, ask for the lobby code in the match chat. If the result has not arrived within a minute, press Call admin.
-
-The link opens Google Play
+Telegram sign-in, the leaderboard by role and the guidebook.
 
 MLBB Ladder
 
-MLBB Ladder is another fan-made 5v5 matchmaking. The site gathers ten players and splits them into two equal teams by ELO and role. There are levels from 1 to 10, seasons, tops by role and hero, profiles and match history. Sign-in needs no password, it goes through a Telegram bot. The site sits behind DDoS protection, so the browser sometimes asks you to pass a check first.
+mlbbladder.ru
 
-Tournaments with prizes
+Ladder is the simplest of the three. You sign in without a password through a Telegram bot, then queue: the site gathers ten players and splits them into two equal teams by ELO and role. There are levels from 1 to 10, seasons, tops by role and by hero, a profile and your match history.
 
-If you want money for results right now rather than a leaderboard, look at CyberHero by the operator t2. It runs one-on-one MLBB knockout tournaments almost every day. For example, on the weekend of 28 and 29 November 2026 there is the Solo Weekend Premium Cup with a prize pool of 10,000 roubles. The site is 18+.
+Ladder sits behind DDoS protection: before signing in, the browser sometimes asks you to pass a check. That is normal; the sign-in page opens after it.
 
-Before your first match
+If the site does not open
 
-Find your account ID and server: you will be asked for them at the check.
+mlbbladder.ru
 
-Decide which roles you are ready to play: the role is fixed before the match and you cannot leave it without consent.
+Ladder website
 
-Check your connection: on SKY a ping above 60 ms is already a reason for a rehost.
+5×5 matchmaking, sign-in through a Telegram bot without a password.
 
-Play only from your own account. Every platform bans playing for someone else, and on SKY the account is bound for good.
+Which one to pick
 
-Do not accept a match if you are not ready to finish it: missed matches lead to longer search blocks.
+SKY if you want the most modes, to play with friends and to compete for the promised prizes.
+
+Lockin if strict roles and verified accounts without smurfs matter most.
+
+Ladder if you want simple matchmaking and nothing else.
+
+Everywhere you need your own account, and signing up asks for the ID and server from your MLBB profile. Nothing stops you from joining all three and playing wherever a match is found faster.
 
 How to find your MLBB ID and server
 
-Needed to sign in
+To sign up
 
-Where to find the account number and server and why the server cannot be changed.
+Where the profile shows the account number and the server in brackets.
+
+Tournaments with prizes
+
+If you want to play for money right now, there is CyberHero by the operator t2. It runs one-on-one MLBB knockout tournaments almost every day, and on weekends the Solo Weekend Premium Cup with a prize pool of 10,000 roubles. You can take part from 18 years old.
 
 Frequently asked questions</yandex:full-text>
       <media:group>
@@ -182,7 +110,7 @@ Frequently asked questions</yandex:full-text>
       <title>MLBB server, region and ID: how to find and change them</title>
       <link>https://boostmlbb.ru/en/news/mlbb-server-region-id/</link>
       <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-server-region-id/</guid>
-      <description>Your ID and server are on your profile. The account server never changes; the leaderboard region is your GPS location and changes once a season.</description>
+      <description>Your ID and server are on your profile, and the account server never changes. The leaderboard region changes once a season, and on Android to any city.</description>
       <dc:creator>Boost MLBB Editorial Team</dc:creator>
       <category>Guides</category>
       <pubDate>Thu, 26 Nov 2026 20:13:26 GMT</pubDate>
@@ -191,97 +119,51 @@ Frequently asked questions</yandex:full-text>
 
 Your ID and server are on your profile: the first number is the ID, the number in brackets is the server. For example, 123456789 (1234).
 
-You cannot move an account to another server. MOONTON does not transfer accounts; another server means a new account from scratch.
+You cannot change your account&#39;s server: MOONTON does not move accounts between servers.
 
-The region on the leaderboard is your phone&#39;s GPS location. You can change it once per season, then play 1 match with the hero.
-
-You can fake the location on Android with a mock location app, on iPhone only with a computer. It bends the game rules, at your own risk.
+The leaderboard region is your phone&#39;s GPS location. It changes once per season, and on Android another city is set with a mock location app.
 
 How to find your ID and server
 
-A Mobile Legends account has two numbers. The ID is your player number and never changes. The server, also called Zone ID or Server ID, is the server your account was created on. The profile shows them on one line: the ID first, then the server in brackets.
-
 On the main screen, tap your avatar in the top left corner.
 
-Under your name, find the ID line: the long number is the ID, the number in brackets is the server.
+Under your name there is the ID line: the long number is your ID, the number in brackets is the server.
 
 Copy it with the button next to it, so you do not mistype a digit.
 
 Where to find your ID
 
-Where you need the ID and server
+Diamond shops ask for the ID and the server in two separate fields. If diamonds did not arrive, the number in brackets is almost always wrong. Before paying, check the name the shop shows.
 
-Where
+For top-ups
 
-What to enter
+Can you change your server
 
-Buying diamonds in a top-up shop
+No. The server is fixed when the account is created, and the game has no transfer button. Advice like &quot;turn on a VPN and the number will change&quot; only works for a new account, and progress, skins and diamonds do not carry over. If you are looking for how to change your region in a hero&#39;s top, that is something else, and it can be done. See below.
 
-ID and server in separate fields, no password
+How to change the region on the leaderboard
 
-Contacting MOONTON support
-
-ID, server and name
-
-Competitive match platforms
-
-ID and server to verify the account
-
-Finding a friend
-
-Player ID
-
-Most often the server is wrong. The number in brackets is not part of the ID: shops have a separate field for it. Before paying, check that the name the shop shows is yours.
-
-If diamonds did not arrive
-
-Can you change your account&#39;s server
-
-No. The server is fixed when the account is created, and the game has no button to move it. Advice like &quot;turn on a VPN and the number in brackets will change&quot; only works for a new account: on the first launch the game detects the region again, while the old account stays on its server.
-
-If you really need another region, for example to play with friends in Asia, the only way is a new account. Heroes, skins, rank and diamonds do not carry over. Mind the ping: the farther the server, the longer the delay in fights.
-
-How to bind and switch an MLBB account
-
-Before a new account
-
-Bind your old account so you do not lose it when you switch.
-
-The region on the leaderboard
-
-Most people searching for &quot;change region&quot; mean the hero leaderboard. It has levels: the whole world, your country, city, district and a small area around you, plus a separate tab for your server. Your place in each of them depends on the hero&#39;s power, and power grows with ranked wins on that hero.
-
-The hero leaderboard. The author&#39;s city, district and name are hidden.
-
-Once a week the game counts the results and gives titles to the best players of each hero in a district, a region and a country. The title shows on your profile and on the match loading screen; the highest one goes to the top ten in a country. The fewer people play your hero near you, the easier it is to get into the top. That is why players move their location to small cities.
-
-At the bottom of the leaderboard the game shows the approximate score needed to be ranked. If your power is below that number, you will not get into the current tab, wherever the pin is.
-
-How much power you need
-
-How to change the location in the game
+A hero leaderboard is split into the whole world, the country, the city, the district and a separate tab for your server. The game takes the city and district from your phone&#39;s location and changes them only when you tell it to.
 
 Turn on location services and allow them for Mobile Legends.
 
 Open the leaderboard and pick the hero.
 
-Tap the location pin icon in the top right corner.
+Tap the pin icon in the top right corner: a map opens.
 
-The game opens a map and detects your position by GPS.
+The game finds you by GPS and asks whether to change the place. Check the address and tap OK.
 
-Check the address in the Note window and tap OK.
+Play one match with this hero to appear in the new district&#39;s leaderboard.
 
-Play a match with this hero to get into the new district&#39;s leaderboard.
+Before the change the game warns: the next one is only next season. The address is hidden.
 
-The confirmation window. The author&#39;s address is hidden.
-
-The confirmation window says it plainly: after the change you cannot change the location again this season. Older guides say once every seven days, but the 2026 client has a different rule. Pick the city in advance.
+You can change the place only once per season, so pick the city in advance. Older guides say once every seven days, but the 2026 client has a different rule.
 
 Once a season
 
-How to change the location on Android
+How to set another city on Android
 
-The game reads coordinates from GPS, not from the IP address, so a VPN alone will not change the city. On Android you can set any point with a mock location app. That is how players move the pin to another city without leaving home.
+The game looks at GPS, not at the IP address, so a VPN will not change the city. On Android a mock location app sets the point you need.
 
 Install a mock location app from Google Play, for example Fake GPS Location.
 
@@ -289,51 +171,47 @@ Turn on developer mode: Settings → About phone → tap Build number seven time
 
 In Developer options, open Select mock location app and choose the app you installed.
 
-Open it, put the point in the city you want and start it.
+In the app, put the point in the city you want and start it.
 
-Close Mobile Legends completely by swiping it away from recent apps, then launch it again.
+Close Mobile Legends completely and open it again.
 
-Open the leaderboard, tap the location icon and wait for the new city on the map. Confirm with OK.
+Leaderboard → pin icon: the new city should appear on the map. Confirm with OK.
 
 Play a match with the hero and only then turn the mock location off.
 
-Turn off improved location accuracy by Wi‑Fi and mobile network in the location settings: the phone then takes coordinates only from GPS. Check again that the right app is selected in developer mode.
+The map after tapping the pin: the game writes the city it found under it. It is hidden.
+
+Turn off improved accuracy by Wi‑Fi and mobile network in the location settings so coordinates come only from GPS, and check that the right app is selected in developer mode.
 
 If the game sees the old city
 
-Faking the location bends the game rules. MOONTON may penalise third-party tools, up to a ban. We found no reports of mass bans for changing the location, but nobody gives guarantees.
+Faking the location bends the game rules, and MOONTON may penalise third-party tools. We found no reports of mass bans for changing the location, but there are no guarantees.
 
 Risk
 
 What about iPhone?
 
-The App Store has no apps that fake the location. Only computer programs work: you connect the iPhone with a cable and the program sets the coordinates. The free option is the virtual location feature in 3uTools; paid alternatives exist too. It is harder than on Android and carries the same risk. The honest way without programs is to change the location when you are actually in another city.
+The App Store has no such apps. Coordinates can only be set from a computer: you connect the iPhone with a cable, and a program like 3uTools with its virtual location feature sets the point. The risk is the same. The way without programs is to change the place when you are actually in another city.
 
-Where to put the pin
+How to get into your city&#39;s top
 
-Raise the hero&#39;s power first. Without it there is no top in any city, and you cannot change the location twice in one season.
+The hero leaderboard: your place depends on power. City, district and name are hidden.
 
-Watch the approximate score needed to be ranked: the lower it is, the fewer rivals.
+Your place in the table depends on the hero&#39;s power, and power grows with ranked wins on that hero. Once a week the game counts the results and gives titles to the best in a district, a region and a country. The title shows on your profile and on the match loading screen; the highest one goes to the top ten in a country.
 
-A small city or district is usually easier than a capital, but you still have to hold the title every week.
+At the bottom of the table the game shows the approximate score needed to be ranked. While your power is below it, you cannot get in.
 
-Do not jump to another country: the highest title is per country, and another country may be stronger than yours.
+The fewer people play your hero in a city, the lower that threshold. A small city is usually easier than a capital.
+
+Raise your power first, then change the place: a second change in one season will not work.
+
+A title lasts a week; next week you have to defend it.
 
 MMR boost on a specific hero
 
 Hero boost
 
 Rank and rating of the hero you choose for the leaderboard.
-
-The MLBB test server
-
-There is also a separate test server, the Advanced Server: new heroes and changes appear there first. According to guides, you need an account of level 15 or higher and a stable connection, slots are few and recruitment is mostly in Asia. You apply in the account settings in the game or through a separate app on TapTap for Android. Progress there is separate, from level 1, and does not carry over to the regular server.
-
-FACEIT for MLBB: where to play serious matches
-
-Competitive matches
-
-SKY, Lockin and MLBB Ladder: ELO, fixed roles and account checks by ID and server.
 
 Frequently asked questions</yandex:full-text>
       <media:group>

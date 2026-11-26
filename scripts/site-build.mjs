@@ -280,6 +280,10 @@ function arenaContext(lang, active, current) {
   const links = [['tier', '/heroes/', 'Тир-лист', 'Tier list'], ['items', '/items/', 'Предметы', 'Items'], ['skins', '/skins/', 'Скины', 'Skins'], ['news', '/news/', 'Новости<span class="ctx-more"> и гайды</span>', 'News<span class="ctx-more"> &amp; guides</span>']];
   return `<nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}">${links.map(([key, href, ru, english]) => `<a href="${localized(href, lang)}"${key === active ? ` aria-current="${current ? 'page' : 'true'}"` : ''}>${en ? english : ru}</a>`).join('')}</nav>`;
 }
+// The way back to a section's list from its pages (hero profiles and rankings, items).
+const BACK_ARROW = '<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M10 3L5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+const BACK_SCRIPT = `<script>document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('[data-back]');if(!a)return;try{var r=new URL(document.referrer);if(r.origin===location.origin&&r.pathname===new URL(a.href,location.href).pathname&&history.length>1){e.preventDefault();history.back();}}catch(x){}});</script>`;
+const backLink = (href, ru, en, lang) => `<a class="page-back" href="${localized(href, lang)}" data-back>${BACK_ARROW}<span>${lang === 'en' ? en : ru}</span></a>${BACK_SCRIPT}`;
 function guideArticle(guide, lang) {
   const en = lang === 'en';
   const [, , body, rawFaq = []] = guide[lang];
@@ -291,6 +295,7 @@ function guideArticle(guide, lang) {
     const profile = Boolean(head.portrait);
     return `<article class="atlas container ${profile ? 'arena-profile' : 'arena-directory'}">
       ${arenaContext(lang, 'tier', !profile)}
+      ${guide.file !== 'heroes/index.html' ? backLink('/heroes/', 'Тир-лист', 'Tier list', lang) : ''}
       ${head.html}
       ${body}${faqHTML}</article>`;
   }
@@ -299,6 +304,7 @@ function guideArticle(guide, lang) {
     const index = guide.file === 'items/index.html';
     return `<article class="atlas container ${index ? 'arena-directory items-page' : 'arena-profile item-page'}">
       ${arenaContext(lang, 'items', index)}
+      ${index ? '' : backLink('/items/', 'Все предметы', 'All items', lang)}
       ${head.html}
       ${guide[lang][2]}${faqHTML}</article>`;
   }
@@ -493,7 +499,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
     if (['hero', 'item', 'skin'].includes(guideOf(file)?.kind)) {
-      const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=7';
+      const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=9';
       document.head.append(arenaStyle);
       const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=14';
       document.head.append(heroStyle);

@@ -7,6 +7,8 @@ language: ru
 
 [Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
+[Все предметы](https://boostmlbb.ru/items/)
+
 ![Иконка предмета Волшебная палочка](/images/mlbb/items/2101.webp)
 
 # Волшебная палочка

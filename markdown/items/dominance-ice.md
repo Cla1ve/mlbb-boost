@@ -7,6 +7,8 @@ language: ru
 
 [Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
+[Все предметы](https://boostmlbb.ru/items/)
+
 ![Иконка предмета Господство льда](/images/mlbb/items/3206.webp)
 
 # Господство льда

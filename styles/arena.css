@@ -21,6 +21,13 @@ body.news-page, body:has(.atlas), body:has(.atlas) main { background: var(--aren
 .arena-context a { display: inline-flex; align-items: center; min-height: 36px; padding: 0 14px; border-radius: 6px; color: var(--arena-muted); font-size: .9375rem; font-weight: 500; text-decoration: none; white-space: nowrap; transition: color .15s, background-color .15s; }
 .arena-context a:hover { color: var(--arena-ink); background: #17304a; }
 .arena-context a[aria-current] { color: var(--arena-ink); background: #1f3b58; }
+/* Back to the section's list */
+.page-back { display: inline-flex; align-items: center; gap: 6px; width: fit-content; min-height: 36px; margin: 0 0 12px -2px; color: var(--arena-muted); font-size: .9375rem; font-weight: 500; text-decoration: none; transition: color .15s; }
+.page-back svg { flex: none; transition: transform .2s cubic-bezier(.2, .7, .2, 1); }
+.page-back:hover, .page-back:focus-visible { color: var(--arena-ink); }
+.page-back:hover svg { transform: translateX(-3px); }
+/* The link is a flex box: a leading space inside the span would collapse ("Новостии гайды"). */
+.arena-context .ctx-more { white-space: pre; }
 
 .atlas :focus-visible { outline: 2px solid var(--arena-accent); outline-offset: 3px; }
 .atlas [hidden] { display: none !important; }

@@ -14180,8 +14180,8 @@
       "status": "published",
       "title": "Сервер, регион и ID в MLBB: как узнать и сменить",
       "seoTitle": "Сервер, регион и ID в MLBB: как узнать и сменить",
-      "description": "Где найти ID и сервер в Mobile Legends, можно ли сменить сервер аккаунта и как поменять местоположение в таблице лидеров героя на Android и iPhone.",
-      "excerpt": "ID и сервер видны в профиле. Сервер аккаунта не меняется, а регион в таблице лидеров — это местоположение по GPS: его меняют раз в сезон.",
+      "description": "Где найти ID и сервер в Mobile Legends, можно ли сменить сервер и как поменять регион в таблице лидеров героя: шаги в игре, Android и iPhone.",
+      "excerpt": "ID и сервер — в профиле, сервер аккаунта не меняется. А регион в таблице лидеров можно сменить раз в сезон: в игре, а на Android — с другим городом.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -14192,7 +14192,7 @@
         "Регион"
       ],
       "datePublished": "2026-11-26T23:13:26+03:00",
-      "dateModified": "2026-11-26T23:13:26+03:00",
+      "dateModified": "2026-11-26T23:51:52+03:00",
       "hero": {
         "src": "/images/news/mlbb-server-region-id.jpg",
         "width": 1600,
@@ -14234,12 +14234,6 @@
           "publisher": "Mobile Legends Wiki",
           "url": "https://mobile-legends.fandom.com/wiki/Honorary_Titles",
           "accessed": "2026-11-26"
-        },
-        {
-          "title": "MLBB Advanced Server guide: how to join",
-          "publisher": "MLBBHub",
-          "url": "https://mlbbhub.com/news/mlbb-advanced-server-guide-how-to-join",
-          "accessed": "2026-11-26"
         }
       ],
       "editorialNote": "Окна таблицы лидеров и подтверждения смены местоположения сняты в русском клиенте 26 ноября 2026 года, личные данные скрыты. Шаги подмены геолокации — по гайдам VCGamers и опыту игроков; официальной справки MOONTON по смене местоположения и серверу мы не нашли.",
@@ -14249,10 +14243,9 @@
           "id": "brief",
           "title": "Коротко",
           "items": [
-            "ID и сервер видны в профиле: первое число — ID, число в скобках — сервер. Например, 123456789 (1234).",
-            "Сервер аккаунта сменить нельзя. MOONTON не переносит аккаунты, другой сервер — только новый аккаунт с нуля.",
-            "Регион в таблице лидеров — это местоположение телефона по GPS. Менять его можно раз в сезон, после смены нужен 1 матч на герое.",
-            "Подменить местоположение можно на Android через фиктивную геолокацию, на iPhone только через компьютер. Это обход правил, риск на вас."
+            "ID и сервер — в профиле: первое число — ID, число в скобках — сервер. Например, 123456789 (1234).",
+            "Сервер аккаунта сменить нельзя: MOONTON не переносит аккаунты между серверами.",
+            "Регион в таблице лидеров — это место по GPS телефона. Его меняют раз в сезон, а другой город на Android ставят через подмену геолокации."
           ]
         },
         {
@@ -14261,16 +14254,12 @@
           "text": "Как узнать ID и сервер"
         },
         {
-          "type": "paragraph",
-          "text": "В Mobile Legends у аккаунта два номера. ID — это ваш личный номер игрока, он не меняется. Сервер, он же Zone ID или Server ID, — номер сервера, на котором создан аккаунт. В профиле они записаны одной строкой: сначала ID, потом сервер в скобках."
-        },
-        {
           "type": "list",
           "ordered": true,
           "items": [
             "На главном экране нажмите на свой аватар в левом верхнем углу.",
-            "Под ником найдите строку с ID: длинное число — это ID, число в скобках — сервер.",
-            "Скопируйте номер кнопкой рядом с ним, чтобы не ошибиться в цифрах."
+            "Под ником есть строка с ID: длинное число — ваш ID, число в скобках — сервер.",
+            "Скопируйте его кнопкой рядом, чтобы не ошибиться в цифрах."
           ]
         },
         {
@@ -14293,97 +14282,37 @@
           ]
         },
         {
-          "type": "table",
-          "caption": "Где нужны ID и сервер",
-          "headers": [
-            "Где",
-            "Что вводить"
-          ],
-          "rows": [
-            [
-              "Пополнение алмазов в магазине",
-              "ID и сервер в разные поля, пароль не нужен"
-            ],
-            [
-              "Обращение в поддержку MOONTON",
-              "Номер ID, сервер и ник"
-            ],
-            [
-              "Площадки соревновательных матчей",
-              "ID и сервер для проверки аккаунта"
-            ],
-            [
-              "Поиск друга",
-              "ID игрока"
-            ]
-          ]
-        },
-        {
           "type": "callout",
-          "label": "Если алмазы не пришли",
-          "text": "Чаще всего перепутан сервер. Число в скобках не часть ID: в магазине его вписывают в отдельное поле. Перед оплатой сверьте ник, который покажет магазин, со своим."
+          "label": "Для доната",
+          "text": "В магазинах алмазов ID и сервер вводят в два разных поля. Если алмазы не пришли, почти всегда перепутан номер в скобках. Перед оплатой сверьте ник, который покажет магазин."
         },
         {
           "type": "heading",
           "id": "server",
-          "text": "Можно ли сменить сервер аккаунта"
+          "text": "Можно ли сменить сервер"
         },
         {
           "type": "paragraph",
-          "text": "Нет. Сервер закрепляется за аккаунтом при создании, и в игре нет кнопки, которая перенесла бы его на другой. Советы «включи VPN, и номер в скобках поменяется» работают только для нового аккаунта: при первом входе игра определяет регион заново, а старый аккаунт остаётся на своём сервере."
-        },
-        {
-          "type": "paragraph",
-          "text": "Если вам действительно нужен другой регион, например чтобы играть с друзьями из Азии, остаётся завести новый аккаунт. Герои, скины, ранг и алмазы со старого не переходят. Учтите пинг: чем дальше сервер, тем больше задержка в бою."
-        },
-        {
-          "type": "linkCard",
-          "label": "Перед новым аккаунтом",
-          "title": "Как привязать и сменить аккаунт MLBB",
-          "description": "Привяжите старый аккаунт, чтобы не потерять его при переключении.",
-          "href": "https://boostmlbb.ru/news/mlbb-account-bind-recover/"
+          "text": "Нет. Сервер закрепляется за аккаунтом при создании, кнопки переноса в игре нет. Советы «включи VPN, и номер поменяется» работают только для нового аккаунта, а прогресс, скины и алмазы на него не переходят. Если вы ищете, как поменять регион в топе героя, — это другое, и это можно. Об этом ниже."
         },
         {
           "type": "heading",
-          "id": "leaderboard",
-          "text": "Регион в таблице лидеров"
+          "id": "region",
+          "text": "Как сменить регион в таблице лидеров"
         },
         {
           "type": "paragraph",
-          "text": "Чаще всего «сменить регион» ищут ради таблицы лидеров героя. Она поделена на уровни: весь мир, страна, город, район и совсем небольшая зона рядом с вами, плюс отдельная вкладка вашего сервера. Место в каждой из них считается по силе героя, а сила растёт от побед в рейтинговых матчах на этом герое."
-        },
-        {
-          "type": "image",
-          "src": "/images/news/mlbb-server-region-id/hero-leaderboard.webp",
-          "width": 1400,
-          "height": 630,
-          "alt": "Таблица лидеров героя Бенедетта: вкладки «Мировой», «Russia», город, район и «Сервер», колонка «Сила»",
-          "caption": "Таблица лидеров героя. Город, район и ник автора скрыты."
-        },
-        {
-          "type": "paragraph",
-          "text": "Раз в неделю игра подводит итоги и выдаёт титулы лучшим игрокам каждого героя в районе, регионе и стране. Титул виден в профиле и на экране загрузки матча, высший достаётся десятке лучших в стране. Чем меньше людей играет вашего героя рядом с вами, тем проще попасть в топ. Поэтому местоположение и переносят в небольшие города."
-        },
-        {
-          "type": "callout",
-          "label": "Сколько силы нужно",
-          "text": "Внизу таблицы игра пишет «Приблизительный счёт для распределения в рейтинге». Если ваша сила ниже этого числа, в таблицу текущей вкладки вы не попадёте, где бы ни стояла метка."
-        },
-        {
-          "type": "heading",
-          "id": "change-location",
-          "text": "Как сменить местоположение в игре"
+          "text": "Таблица лидеров героя делится на весь мир, страну, город, район и отдельную вкладку вашего сервера. Город и район игра берёт из геолокации телефона и меняет их только по вашей команде."
         },
         {
           "type": "list",
           "ordered": true,
           "items": [
-            "Включите на телефоне геолокацию и разрешите её Mobile Legends.",
+            "Включите геолокацию и разрешите её Mobile Legends.",
             "Откройте таблицу лидеров и выберите героя.",
-            "Нажмите на значок метки с местоположением в правом верхнем углу.",
-            "Игра откроет карту и определит ваше положение по GPS.",
-            "Проверьте адрес в окне «Заметка» и нажмите «Хорошо».",
-            "Сыграйте матч на этом герое, чтобы попасть в таблицу нового района."
+            "Нажмите на значок метки в правом верхнем углу: откроется карта.",
+            "Игра найдёт вас по GPS и спросит, менять ли место. Проверьте адрес и нажмите «Хорошо».",
+            "Сыграйте один матч на этом герое, чтобы появиться в таблице нового района."
           ]
         },
         {
@@ -14392,21 +14321,21 @@
           "width": 1400,
           "height": 630,
           "alt": "Окно «Заметка» в Mobile Legends: после смены местоположение нельзя изменить снова в этом сезоне, нужно сыграть 1 матч с героем",
-          "caption": "Окно подтверждения. Адрес автора скрыт."
+          "caption": "Перед сменой игра предупреждает: следующая — только в новом сезоне. Адрес скрыт."
         },
         {
           "type": "callout",
           "label": "Один раз за сезон",
-          "text": "В окне подтверждения игра прямо предупреждает: после смены местоположение нельзя изменить снова в этом сезоне. Старые гайды пишут про раз в семь дней, но в клиенте 2026 года правило уже другое. Выбирайте город заранее."
+          "text": "Поменять место можно только раз за сезон, поэтому город выбирайте заранее. Старые гайды пишут «раз в семь дней», но в клиенте 2026 года правило уже другое."
         },
         {
           "type": "heading",
           "id": "android",
-          "text": "Как поменять местоположение на Android"
+          "text": "Как поставить другой город на Android"
         },
         {
           "type": "paragraph",
-          "text": "Игра берёт координаты с GPS, а не по IP, поэтому VPN сам по себе город не поменяет. На Android можно подставить нужную точку через приложение фиктивной геолокации. Так делают все, кто переносит метку в другой город, не выезжая из дома."
+          "text": "Игра смотрит на GPS, а не на IP, поэтому VPN город не поменяет. На Android нужную точку подставляет приложение фиктивной геолокации."
         },
         {
           "type": "list",
@@ -14415,21 +14344,29 @@
             "Установите из Google Play приложение фиктивной геолокации, например Fake GPS Location.",
             "Включите режим разработчика: «Настройки» → «О телефоне» → семь раз нажмите «Номер сборки». На Xiaomi это «Версия ОС», на Samsung — «Сведения о ПО» → «Номер сборки».",
             "В разделе «Для разработчиков» откройте «Выбрать приложение для фиктивных местоположений» и укажите установленное приложение.",
-            "Откройте его, поставьте точку в нужном городе и запустите подмену.",
-            "Полностью закройте Mobile Legends, смахнув её из недавних приложений, и запустите снова.",
-            "Откройте таблицу лидеров, нажмите на значок местоположения и дождитесь, пока на карте появится новый город. Подтвердите «Хорошо».",
+            "В приложении поставьте точку в нужном городе и запустите подмену.",
+            "Полностью закройте Mobile Legends и откройте снова.",
+            "Таблица лидеров → значок метки: на карте должен появиться новый город. Подтвердите «Хорошо».",
             "Сыграйте матч на герое и только потом выключите подмену."
           ]
         },
         {
+          "type": "image",
+          "src": "/images/news/mlbb-server-region-id/location-map.webp",
+          "width": 1400,
+          "height": 630,
+          "alt": "Карта местоположения в Mobile Legends: игра ищет телефон по GPS, под картой появляется найденный город",
+          "caption": "Карта после нажатия на метку: под ней игра пишет найденный город. Он скрыт."
+        },
+        {
           "type": "callout",
           "label": "Если игра видит старый город",
-          "text": "Отключите в настройках геолокации «Повышение точности» по Wi‑Fi и сотовой сети: тогда телефон берёт координаты только с GPS. Ещё раз проверьте, что в режиме разработчика выбрано нужное приложение."
+          "text": "Отключите в настройках геолокации повышение точности по Wi‑Fi и сотовой сети, чтобы координаты брались только с GPS, и проверьте, что в режиме разработчика выбрано нужное приложение."
         },
         {
           "type": "callout",
           "label": "Риск",
-          "text": "Подмена геолокации — это обход правил игры. MOONTON может наказать за сторонние программы, вплоть до блокировки. Массовых банов именно за смену местоположения в открытых источниках мы не нашли, но гарантий никто не даёт."
+          "text": "Подмена геолокации обходит правила игры, и MOONTON может наказать за сторонние программы. Массовых банов именно за смену местоположения мы не нашли, но гарантий нет."
         },
         {
           "type": "heading",
@@ -14438,21 +14375,33 @@
         },
         {
           "type": "paragraph",
-          "text": "Приложений для подмены геолокации в App Store нет. Работают только программы на компьютере: iPhone подключают кабелем, и программа подставляет координаты. Бесплатный вариант — функция виртуального местоположения в 3uTools, есть и платные аналоги. Это сложнее, чем на Android, и риск тот же. Честный способ без программ — сменить местоположение, когда вы сами окажетесь в другом городе."
+          "text": "В App Store таких приложений нет. Координаты можно подставить только с компьютера: iPhone подключают кабелем, и программа вроде 3uTools с функцией виртуального местоположения задаёт нужную точку. Риск тот же. Способ без программ — сменить место, когда вы сами окажетесь в другом городе."
         },
         {
           "type": "heading",
-          "id": "pick-city",
-          "text": "Куда ставить метку"
+          "id": "top",
+          "text": "Как попасть в топ своего города"
+        },
+        {
+          "type": "image",
+          "src": "/images/news/mlbb-server-region-id/hero-leaderboard.webp",
+          "width": 1400,
+          "height": 630,
+          "alt": "Таблица лидеров героя Бенедетта: вкладки «Мировой», «Russia», город, район и «Сервер», колонка «Сила»",
+          "caption": "Таблица лидеров героя: место считается по силе. Город, район и ник скрыты."
+        },
+        {
+          "type": "paragraph",
+          "text": "Место в таблице считается по силе героя, а сила растёт от побед в рейтинговых матчах на нём. Раз в неделю игра подводит итоги и выдаёт титулы лучшим в районе, регионе и стране. Титул виден в профиле и на экране загрузки матча, высший получает десятка лучших в стране."
         },
         {
           "type": "list",
           "ordered": false,
           "items": [
-            "Сначала поднимите силу героя. Без неё топа не будет ни в каком городе, а сменить местоположение второй раз в сезоне нельзя.",
-            "Смотрите на «Приблизительный счёт для распределения»: чем он ниже, тем меньше соперников.",
-            "Небольшой город или район обычно проще столицы, но титул и там нужно держать каждую неделю.",
-            "Не прыгайте в другую страну: высший титул выдают по стране, и чужая страна может оказаться сильнее вашей."
+            "Внизу таблицы игра пишет «Приблизительный счёт для распределения в рейтинге». Пока ваша сила ниже этого числа, в таблицу не попасть.",
+            "Чем меньше людей играет вашего героя в городе, тем ниже этот порог. Небольшой город обычно проще столицы.",
+            "Сначала поднимите силу, потом меняйте место: второй раз в сезоне не получится.",
+            "Титул держится неделю, на следующей неделе его придётся защищать."
           ]
         },
         {
@@ -14464,7 +14413,7 @@
           "button": "Рассчитать стоимость",
           "href": "/order.html?type=standard",
           "note": "Без оплаты и обязательств.",
-          "position": "after-pick-city"
+          "position": "after-top"
         },
         {
           "type": "linkCard",
@@ -14474,49 +14423,29 @@
           "href": "https://boostmlbb.ru/boost/hero.html"
         },
         {
-          "type": "heading",
-          "id": "advanced",
-          "text": "Тестовый сервер MLBB"
-        },
-        {
-          "type": "paragraph",
-          "text": "Есть и отдельный тестовый сервер, Advanced Server: на нём раньше всех появляются новые герои и правки. По данным гайдов, нужен аккаунт от 15-го уровня и стабильный интернет, а мест мало и набирают в основном игроков из Азии. Заявку подают в настройках аккаунта в игре или через отдельное приложение в TapTap на Android. Прогресс там свой, с 1-го уровня, и на обычный сервер он не переносится."
-        },
-        {
-          "type": "linkCard",
-          "label": "Соревновательные матчи",
-          "title": "Фейсит для MLBB: где играть серьёзные матчи",
-          "description": "SKY, Lockin и MLBB Ladder: ELO, свои роли и проверка аккаунта по ID и серверу.",
-          "href": "https://boostmlbb.ru/news/mlbb-faceit/"
-        },
-        {
           "type": "faq",
           "id": "faq",
           "title": "Частые вопросы",
           "items": [
             {
               "q": "Как узнать сервер в Mobile Legends?",
-              "a": "Нажмите на аватар в левом верхнем углу главного экрана. Под ником — строка с ID, а число в скобках и есть ваш сервер."
+              "a": "Нажмите на аватар в левом верхнем углу главного экрана. Под ником — строка с ID, число в скобках и есть сервер."
             },
             {
               "q": "Можно ли поменять сервер в MLBB?",
-              "a": "У существующего аккаунта нет. Сервер закрепляется при создании, MOONTON аккаунты не переносит. Другой сервер — только новый аккаунт без старого прогресса."
+              "a": "У существующего аккаунта нет. Другой сервер — только новый аккаунт без старого прогресса."
             },
             {
               "q": "Как сменить регион в таблице лидеров?",
-              "a": "Таблица лидеров → значок местоположения справа вверху → карта → «Хорошо». Игра берёт место по GPS, поэтому для другого города на Android нужна фиктивная геолокация."
+              "a": "Таблица лидеров → значок метки справа вверху → карта → «Хорошо». Для другого города на Android нужна фиктивная геолокация."
             },
             {
               "q": "Сколько раз можно менять местоположение?",
-              "a": "Один раз за сезон. После смены нужно сыграть матч на герое, чтобы попасть в таблицу нового района."
+              "a": "Один раз за сезон. После смены сыграйте матч на герое."
             },
             {
-              "q": "Поможет ли VPN сменить регион в таблице лидеров?",
-              "a": "Нет. Таблица лидеров смотрит на GPS телефона, а не на IP-адрес."
-            },
-            {
-              "q": "Почему игра не видит новое местоположение?",
-              "a": "Проверьте, что подмена запущена и выбрана в режиме разработчика, отключено повышение точности по Wi‑Fi и игра перезапущена полностью."
+              "q": "Поможет ли VPN?",
+              "a": "Нет. Таблица лидеров берёт место из GPS телефона, а не по IP-адресу."
             }
           ]
         }
@@ -14525,8 +14454,8 @@
         "en": {
           "title": "MLBB server, region and ID: how to find and change them",
           "seoTitle": "MLBB server, region and ID: how to find and change",
-          "description": "Where to find your Mobile Legends ID and server, whether you can move an account to another server and how to change the hero leaderboard location.",
-          "excerpt": "Your ID and server are on your profile. The account server never changes; the leaderboard region is your GPS location and changes once a season.",
+          "description": "Where to find your Mobile Legends ID and server, whether the server can be changed and how to change the hero leaderboard region on Android and iPhone.",
+          "excerpt": "Your ID and server are on your profile, and the account server never changes. The leaderboard region changes once a season, and on Android to any city.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -14560,9 +14489,8 @@
               "title": "In brief",
               "items": [
                 "Your ID and server are on your profile: the first number is the ID, the number in brackets is the server. For example, 123456789 (1234).",
-                "You cannot move an account to another server. MOONTON does not transfer accounts; another server means a new account from scratch.",
-                "The region on the leaderboard is your phone's GPS location. You can change it once per season, then play 1 match with the hero.",
-                "You can fake the location on Android with a mock location app, on iPhone only with a computer. It bends the game rules, at your own risk."
+                "You cannot change your account's server: MOONTON does not move accounts between servers.",
+                "The leaderboard region is your phone's GPS location. It changes once per season, and on Android another city is set with a mock location app."
               ]
             },
             {
@@ -14571,15 +14499,11 @@
               "text": "How to find your ID and server"
             },
             {
-              "type": "paragraph",
-              "text": "A Mobile Legends account has two numbers. The ID is your player number and never changes. The server, also called Zone ID or Server ID, is the server your account was created on. The profile shows them on one line: the ID first, then the server in brackets."
-            },
-            {
               "type": "list",
               "ordered": true,
               "items": [
                 "On the main screen, tap your avatar in the top left corner.",
-                "Under your name, find the ID line: the long number is the ID, the number in brackets is the server.",
+                "Under your name there is the ID line: the long number is your ID, the number in brackets is the server.",
                 "Copy it with the button next to it, so you do not mistype a digit."
               ]
             },
@@ -14603,86 +14527,27 @@
               ]
             },
             {
-              "type": "table",
-              "caption": "Where you need the ID and server",
-              "headers": [
-                "Where",
-                "What to enter"
-              ],
-              "rows": [
-                [
-                  "Buying diamonds in a top-up shop",
-                  "ID and server in separate fields, no password"
-                ],
-                [
-                  "Contacting MOONTON support",
-                  "ID, server and name"
-                ],
-                [
-                  "Competitive match platforms",
-                  "ID and server to verify the account"
-                ],
-                [
-                  "Finding a friend",
-                  "Player ID"
-                ]
-              ]
-            },
-            {
               "type": "callout",
-              "label": "If diamonds did not arrive",
-              "text": "Most often the server is wrong. The number in brackets is not part of the ID: shops have a separate field for it. Before paying, check that the name the shop shows is yours."
+              "label": "For top-ups",
+              "text": "Diamond shops ask for the ID and the server in two separate fields. If diamonds did not arrive, the number in brackets is almost always wrong. Before paying, check the name the shop shows."
             },
             {
               "type": "heading",
               "id": "server",
-              "text": "Can you change your account's server"
+              "text": "Can you change your server"
             },
             {
               "type": "paragraph",
-              "text": "No. The server is fixed when the account is created, and the game has no button to move it. Advice like \"turn on a VPN and the number in brackets will change\" only works for a new account: on the first launch the game detects the region again, while the old account stays on its server."
-            },
-            {
-              "type": "paragraph",
-              "text": "If you really need another region, for example to play with friends in Asia, the only way is a new account. Heroes, skins, rank and diamonds do not carry over. Mind the ping: the farther the server, the longer the delay in fights."
-            },
-            {
-              "type": "linkCard",
-              "label": "Before a new account",
-              "title": "How to bind and switch an MLBB account",
-              "description": "Bind your old account so you do not lose it when you switch.",
-              "href": "https://boostmlbb.ru/news/mlbb-account-bind-recover/"
+              "text": "No. The server is fixed when the account is created, and the game has no transfer button. Advice like \"turn on a VPN and the number will change\" only works for a new account, and progress, skins and diamonds do not carry over. If you are looking for how to change your region in a hero's top, that is something else, and it can be done. See below."
             },
             {
               "type": "heading",
-              "id": "leaderboard",
-              "text": "The region on the leaderboard"
+              "id": "region",
+              "text": "How to change the region on the leaderboard"
             },
             {
               "type": "paragraph",
-              "text": "Most people searching for \"change region\" mean the hero leaderboard. It has levels: the whole world, your country, city, district and a small area around you, plus a separate tab for your server. Your place in each of them depends on the hero's power, and power grows with ranked wins on that hero."
-            },
-            {
-              "type": "image",
-              "src": "/images/news/mlbb-server-region-id/hero-leaderboard.webp",
-              "width": 1400,
-              "height": 630,
-              "alt": "Benedetta hero leaderboard: Global, Russia, city, district and Server tabs, and the Power column",
-              "caption": "The hero leaderboard. The author's city, district and name are hidden."
-            },
-            {
-              "type": "paragraph",
-              "text": "Once a week the game counts the results and gives titles to the best players of each hero in a district, a region and a country. The title shows on your profile and on the match loading screen; the highest one goes to the top ten in a country. The fewer people play your hero near you, the easier it is to get into the top. That is why players move their location to small cities."
-            },
-            {
-              "type": "callout",
-              "label": "How much power you need",
-              "text": "At the bottom of the leaderboard the game shows the approximate score needed to be ranked. If your power is below that number, you will not get into the current tab, wherever the pin is."
-            },
-            {
-              "type": "heading",
-              "id": "change-location",
-              "text": "How to change the location in the game"
+              "text": "A hero leaderboard is split into the whole world, the country, the city, the district and a separate tab for your server. The game takes the city and district from your phone's location and changes them only when you tell it to."
             },
             {
               "type": "list",
@@ -14690,10 +14555,9 @@
               "items": [
                 "Turn on location services and allow them for Mobile Legends.",
                 "Open the leaderboard and pick the hero.",
-                "Tap the location pin icon in the top right corner.",
-                "The game opens a map and detects your position by GPS.",
-                "Check the address in the Note window and tap OK.",
-                "Play a match with this hero to get into the new district's leaderboard."
+                "Tap the pin icon in the top right corner: a map opens.",
+                "The game finds you by GPS and asks whether to change the place. Check the address and tap OK.",
+                "Play one match with this hero to appear in the new district's leaderboard."
               ]
             },
             {
@@ -14702,21 +14566,21 @@
               "width": 1400,
               "height": 630,
               "alt": "The Note window in Mobile Legends: after the change you cannot change the location again this season, and you need to play 1 match with the hero",
-              "caption": "The confirmation window. The author's address is hidden."
+              "caption": "Before the change the game warns: the next one is only next season. The address is hidden."
             },
             {
               "type": "callout",
               "label": "Once a season",
-              "text": "The confirmation window says it plainly: after the change you cannot change the location again this season. Older guides say once every seven days, but the 2026 client has a different rule. Pick the city in advance."
+              "text": "You can change the place only once per season, so pick the city in advance. Older guides say once every seven days, but the 2026 client has a different rule."
             },
             {
               "type": "heading",
               "id": "android",
-              "text": "How to change the location on Android"
+              "text": "How to set another city on Android"
             },
             {
               "type": "paragraph",
-              "text": "The game reads coordinates from GPS, not from the IP address, so a VPN alone will not change the city. On Android you can set any point with a mock location app. That is how players move the pin to another city without leaving home."
+              "text": "The game looks at GPS, not at the IP address, so a VPN will not change the city. On Android a mock location app sets the point you need."
             },
             {
               "type": "list",
@@ -14725,21 +14589,29 @@
                 "Install a mock location app from Google Play, for example Fake GPS Location.",
                 "Turn on developer mode: Settings → About phone → tap Build number seven times. On Xiaomi it is OS version, on Samsung Software information → Build number.",
                 "In Developer options, open Select mock location app and choose the app you installed.",
-                "Open it, put the point in the city you want and start it.",
-                "Close Mobile Legends completely by swiping it away from recent apps, then launch it again.",
-                "Open the leaderboard, tap the location icon and wait for the new city on the map. Confirm with OK.",
+                "In the app, put the point in the city you want and start it.",
+                "Close Mobile Legends completely and open it again.",
+                "Leaderboard → pin icon: the new city should appear on the map. Confirm with OK.",
                 "Play a match with the hero and only then turn the mock location off."
               ]
             },
             {
+              "type": "image",
+              "src": "/images/news/mlbb-server-region-id/location-map.webp",
+              "width": 1400,
+              "height": 630,
+              "alt": "The location map in Mobile Legends: the game looks for the phone by GPS and shows the city it found under the map",
+              "caption": "The map after tapping the pin: the game writes the city it found under it. It is hidden."
+            },
+            {
               "type": "callout",
               "label": "If the game sees the old city",
-              "text": "Turn off improved location accuracy by Wi‑Fi and mobile network in the location settings: the phone then takes coordinates only from GPS. Check again that the right app is selected in developer mode."
+              "text": "Turn off improved accuracy by Wi‑Fi and mobile network in the location settings so coordinates come only from GPS, and check that the right app is selected in developer mode."
             },
             {
               "type": "callout",
               "label": "Risk",
-              "text": "Faking the location bends the game rules. MOONTON may penalise third-party tools, up to a ban. We found no reports of mass bans for changing the location, but nobody gives guarantees."
+              "text": "Faking the location bends the game rules, and MOONTON may penalise third-party tools. We found no reports of mass bans for changing the location, but there are no guarantees."
             },
             {
               "type": "heading",
@@ -14748,21 +14620,33 @@
             },
             {
               "type": "paragraph",
-              "text": "The App Store has no apps that fake the location. Only computer programs work: you connect the iPhone with a cable and the program sets the coordinates. The free option is the virtual location feature in 3uTools; paid alternatives exist too. It is harder than on Android and carries the same risk. The honest way without programs is to change the location when you are actually in another city."
+              "text": "The App Store has no such apps. Coordinates can only be set from a computer: you connect the iPhone with a cable, and a program like 3uTools with its virtual location feature sets the point. The risk is the same. The way without programs is to change the place when you are actually in another city."
             },
             {
               "type": "heading",
-              "id": "pick-city",
-              "text": "Where to put the pin"
+              "id": "top",
+              "text": "How to get into your city's top"
+            },
+            {
+              "type": "image",
+              "src": "/images/news/mlbb-server-region-id/hero-leaderboard.webp",
+              "width": 1400,
+              "height": 630,
+              "alt": "Benedetta hero leaderboard: Global, Russia, city, district and Server tabs, and the Power column",
+              "caption": "The hero leaderboard: your place depends on power. City, district and name are hidden."
+            },
+            {
+              "type": "paragraph",
+              "text": "Your place in the table depends on the hero's power, and power grows with ranked wins on that hero. Once a week the game counts the results and gives titles to the best in a district, a region and a country. The title shows on your profile and on the match loading screen; the highest one goes to the top ten in a country."
             },
             {
               "type": "list",
               "ordered": false,
               "items": [
-                "Raise the hero's power first. Without it there is no top in any city, and you cannot change the location twice in one season.",
-                "Watch the approximate score needed to be ranked: the lower it is, the fewer rivals.",
-                "A small city or district is usually easier than a capital, but you still have to hold the title every week.",
-                "Do not jump to another country: the highest title is per country, and another country may be stronger than yours."
+                "At the bottom of the table the game shows the approximate score needed to be ranked. While your power is below it, you cannot get in.",
+                "The fewer people play your hero in a city, the lower that threshold. A small city is usually easier than a capital.",
+                "Raise your power first, then change the place: a second change in one season will not work.",
+                "A title lasts a week; next week you have to defend it."
               ]
             },
             {
@@ -14774,7 +14658,7 @@
               "button": "Calculate price",
               "href": "/order.html?type=standard",
               "note": "No payment or commitment.",
-              "position": "after-pick-city"
+              "position": "after-top"
             },
             {
               "type": "linkCard",
@@ -14784,49 +14668,29 @@
               "href": "https://boostmlbb.ru/boost/hero.html"
             },
             {
-              "type": "heading",
-              "id": "advanced",
-              "text": "The MLBB test server"
-            },
-            {
-              "type": "paragraph",
-              "text": "There is also a separate test server, the Advanced Server: new heroes and changes appear there first. According to guides, you need an account of level 15 or higher and a stable connection, slots are few and recruitment is mostly in Asia. You apply in the account settings in the game or through a separate app on TapTap for Android. Progress there is separate, from level 1, and does not carry over to the regular server."
-            },
-            {
-              "type": "linkCard",
-              "label": "Competitive matches",
-              "title": "FACEIT for MLBB: where to play serious matches",
-              "description": "SKY, Lockin and MLBB Ladder: ELO, fixed roles and account checks by ID and server.",
-              "href": "https://boostmlbb.ru/news/mlbb-faceit/"
-            },
-            {
               "type": "faq",
               "id": "faq",
               "title": "Frequently asked questions",
               "items": [
                 {
                   "q": "How do I find my server in Mobile Legends?",
-                  "a": "Tap your avatar in the top left corner of the main screen. Under your name there is the ID line, and the number in brackets is your server."
+                  "a": "Tap your avatar in the top left corner of the main screen. Under your name there is the ID line, and the number in brackets is the server."
                 },
                 {
                   "q": "Can I change my server in MLBB?",
-                  "a": "Not for an existing account. The server is fixed at creation and MOONTON does not transfer accounts. Another server means a new account without your old progress."
+                  "a": "Not for an existing account. Another server means a new account without your old progress."
                 },
                 {
                   "q": "How do I change the region on the leaderboard?",
-                  "a": "Leaderboard → the location icon in the top right → map → OK. The game takes the place from GPS, so for another city on Android you need a mock location app."
+                  "a": "Leaderboard → the pin icon in the top right → map → OK. For another city on Android you need a mock location app."
                 },
                 {
                   "q": "How often can I change the location?",
-                  "a": "Once per season. After the change, play a match with the hero to get into the new district's leaderboard."
+                  "a": "Once per season. After the change, play a match with the hero."
                 },
                 {
-                  "q": "Will a VPN change my leaderboard region?",
-                  "a": "No. The leaderboard looks at the phone's GPS, not at the IP address."
-                },
-                {
-                  "q": "Why does the game not see my new location?",
-                  "a": "Check that the mock location is running and selected in developer mode, improved accuracy by Wi‑Fi is off and the game has been fully restarted."
+                  "q": "Will a VPN help?",
+                  "a": "No. The leaderboard takes the place from the phone's GPS, not from the IP address."
                 }
               ]
             }
@@ -14837,10 +14701,10 @@
     {
       "slug": "mlbb-faceit",
       "status": "published",
-      "title": "Фейсит для MLBB: где играть серьёзные матчи 5 на 5",
+      "title": "Фейсит для MLBB: SKY, Lockin и Ladder",
       "seoTitle": "Фейсит для MLBB: SKY, Lockin и MLBB Ladder",
-      "description": "Аналоги FACEIT для Mobile Legends: SKY, Lockin и MLBB Ladder. Как работают ELO, роли и лобби, что нужно для входа, чем площадки отличаются и где турниры с призами.",
-      "excerpt": "FACEIT для MLBB нет, но есть SKY, Lockin и MLBB Ladder: очередь, ELO, роли заранее и лобби в игре. Разобрали, как они работают и с чего начать.",
+      "description": "Аналоги FACEIT для Mobile Legends: что такое SKY, Lockin и MLBB Ladder, как на них играют матчи 5 на 5 с ELO и ролями, чем они отличаются и где турниры с призами.",
+      "excerpt": "FACEIT для MLBB нет, но есть SKY, Lockin и Ladder: очередь, ELO, роли и лобби в игре. Рассказываем, что это за площадки и какую выбрать.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
@@ -14851,7 +14715,7 @@
         "MLBB Ladder"
       ],
       "datePublished": "2026-11-26T23:13:38+03:00",
-      "dateModified": "2026-11-26T23:13:38+03:00",
+      "dateModified": "2026-11-26T23:58:31+03:00",
       "hero": {
         "src": "/images/news/mlbb-faceit.jpg",
         "width": 1600,
@@ -14859,14 +14723,14 @@
         "webpSrcset": "/images/news/mlbb-faceit-768.webp 768w, /images/news/mlbb-faceit-1200.webp 1200w, /images/news/mlbb-faceit-1600.webp 1600w",
         "focalPoint": "50% 50%",
         "cardFit": "contain",
-        "alt": "Пять игроков с телефонами за столами клуба перед матчем 5 на 5 и надпись «Фейсит для MLBB»",
-        "caption": "Иллюстрация Boost MLBB: сцена сгенерирована ИИ.",
+        "alt": "Игроки с телефонами в клубе перед матчем 5 на 5, надпись «Фейсит для MLBB» и логотипы SKY, Lockin и Ladder",
+        "caption": "Иллюстрация Boost MLBB: сцена сгенерирована ИИ, логотипы — площадок.",
         "provenance": {
           "type": "generated",
           "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
           "created": "2026-11-26",
           "prompt": "Cinematic photo of five young players seen from behind at a dark esports club table, each holding a smartphone horizontally, screens glowing teal, a big screen with a blurred 5v5 lobby in the background, navy and emerald lighting, no faces, no readable text, no logos.",
-          "rights": "Scene generated by OpenAI ImageGen for Boost MLBB; text and layout by Boost MLBB."
+          "rights": "Scene generated by OpenAI ImageGen for Boost MLBB; the SKY, Lockin and Ladder logos belong to their owners and are used to identify the services; text and layout by Boost MLBB."
         }
       },
       "sources": [
@@ -14877,14 +14741,14 @@
           "accessed": "2026-11-26"
         },
         {
-          "title": "Гайдбук Lockin",
+          "title": "Гайдбук и таблица лидеров Lockin",
           "publisher": "Lockin",
           "url": "https://lockingg.cc/guide",
           "accessed": "2026-11-26"
         },
         {
-          "title": "MLBB Ladder — матчмейкинг 5 на 5",
-          "publisher": "MLBB Ladder",
+          "title": "Ladder — матчмейкинг 5×5 для MLBB",
+          "publisher": "Ladder",
           "url": "https://mlbbladder.ru/",
           "accessed": "2026-11-26"
         },
@@ -14901,133 +14765,69 @@
           "accessed": "2026-11-26"
         }
       ],
-      "editorialNote": "Правила SKY и Lockin сверены на их сайтах 26 ноября 2026 года. Сайт MLBB Ladder в этот день попросил ручную проверку браузера, её не обходили: описание взято из описания сайта. О том, что SKY открыл стример Geass, — со слов редакции и сообщества.",
+      "editorialNote": "Правила SKY и Lockin и таблица лидеров Lockin сверены на их сайтах 26 ноября 2026 года. Сайт Ladder попросил ручную проверку браузера, её не обходили: описание — из описания сайта, скриншот страницы входа прислала редакция. О том, что SKY открыл стример Geass, — со слов редакции и сообщества.",
       "blocks": [
         {
           "type": "keyFacts",
           "id": "brief",
           "title": "Коротко",
           "items": [
-            "У FACEIT нет Mobile Legends. Его место для MLBB заняли фанатские площадки: SKY, Lockin и MLBB Ladder.",
-            "Схема у всех одна: очередь на сайте, десять игроков близкого уровня, роли заранее, пользовательское лобби в игре и рейтинг ELO.",
-            "Нужен свой аккаунт MLBB: площадки сверяют ID и сервер, играть можно только с него.",
-            "Играть бесплатно. Денежные призы за верх таблицы обещает SKY, турниры с призами проводит CyberHero от t2."
+            "У FACEIT нет Mobile Legends, но в 2026 году у MLBB появились свои площадки того же типа: SKY, Lockin и Ladder.",
+            "Везде одна идея: сайт собирает десять игроков одного уровня, каждому даёт роль, матч идёт в пользовательском лобби игры, а победы двигают рейтинг ELO.",
+            "Все три бесплатные и сделаны игроками, с MOONTON они не связаны."
           ]
         },
         {
           "type": "heading",
-          "id": "why",
-          "text": "Зачем это нужно"
+          "id": "what",
+          "text": "Зачем они нужны"
         },
         {
           "type": "paragraph",
-          "text": "В рейтинге MLBB считаются звёзды, а команду собирает случайный подбор: лесник может оказаться без «Возмездия», а двое бойцов — на одной линии. На соревновательных площадках всё иначе. Рейтинг считается по ELO, то есть растёт за победы над сильными соперниками. Роль закрепляется до начала матча, а за AFK и умышленные проигрыши наказывают. По сути это FACEIT, как в CS2, только для мобильной MOBA, поэтому их так и ищут: «фейсит для млбб»."
-        },
-        {
-          "type": "table",
-          "caption": "SKY, Lockin и MLBB Ladder: сравнение",
-          "headers": [
-            "Что",
-            "SKY",
-            "Lockin",
-            "MLBB Ladder"
-          ],
-          "rows": [
-            [
-              "Сайт",
-              "skymlbb.ru",
-              "lockingg.cc",
-              "mlbbladder.ru"
-            ],
-            [
-              "Вход",
-              "Логин и пароль, Telegram, Google или игровой аккаунт",
-              "Через Telegram или почту",
-              "Через бота в Telegram, без пароля"
-            ],
-            [
-              "Проверка аккаунта",
-              "Привязка к аккаунту MLBB навсегда",
-              "По ID и серверу",
-              "Не указана"
-            ],
-            [
-              "Рейтинг",
-              "ELO с нуля, уровни от 1 до 10",
-              "ELO, таблица лидеров",
-              "ELO, уровни от 1 до 10, сезоны"
-            ],
-            [
-              "Роли",
-              "Выбираете до поиска, сайт назначает роль",
-              "Фиксируете заранее: лес, опыт, мид, золото, роум",
-              "Команды делятся по ролям"
-            ],
-            [
-              "Режимы",
-              "Обычный, драфт капитанов, дуэли один на один",
-              "Соло-очередь, подбор пати позже",
-              "Матчи пять на пять"
-            ],
-            [
-              "Деньги",
-              "Бесплатно, есть подписка Premium",
-              "Бесплатно",
-              "Не указаны"
-            ]
-          ],
-          "note": "Данные с сайтов площадок на 26 ноября 2026 года. Сайт MLBB Ladder закрыт проверкой браузера, его данные — из описания сайта."
+          "text": "В рейтинге MLBB вы зарабатываете звёзды, а команду собирает случайный подбор. Отсюда лесник без «Возмездия» и двое бойцов на одной линии. На площадках рейтинг считается по ELO: за победу над сильными дают больше очков, роль закрепляется до начала матча, а за AFK и умышленные проигрыши наказывают. Поэтому их и зовут «фейситом для MLBB», как площадку для CS2."
         },
         {
           "type": "heading",
           "id": "sky",
-          "text": "SKY: самая подробная площадка"
-        },
-        {
-          "type": "paragraph",
-          "text": "SKY открыл стример Geass, бета-тест стартовал 18 ноября 2026 года. Это платформа рейтинговых матчей 5 на 5: все начинают с нуля ELO, первые десять матчей идут на калибровку, дальше уровни от 1 до 10. Результат подтягивается из игры сам: победа, урон, золото, KDA и MVP. Рейтинг зависит не только от победы команды, но и от вашего вклада."
+          "text": "SKY"
         },
         {
           "type": "image",
           "src": "/images/news/mlbb-faceit/sky-home.webp",
           "width": 1400,
           "height": 860,
-          "alt": "Главная страница SKY: «Соревнуйся как в SKY», старт с 0 ELO, уровни 1–10, формат 5v5 и форма входа",
-          "caption": "Главная страница SKY, 26 ноября 2026 года."
+          "alt": "Главная страница SKY: «Соревнуйся как в SKY», старт с 0 ELO, уровни 1–10, формат 5v5",
+          "caption": "skymlbb.ru"
+        },
+        {
+          "type": "paragraph",
+          "text": "Площадку открыл стример Geass, бета-тест начался 18 ноября 2026 года. Это самый полный из трёх сервисов. Все стартуют с нуля ELO, первые десять матчей идут на калибровку, дальше уровни от 1 до 10. Победа, урон, золото, KDA и MVP подтягиваются из игры сами, и рейтинг зависит не только от победы команды, но и от вашего вклада в неё."
         },
         {
           "type": "list",
-          "ordered": true,
+          "ordered": false,
           "items": [
-            "Выберите предпочтительный сервер с минимальным пингом: у каждого сервера своя очередь.",
-            "Отметьте роли, на которых готовы играть, и запустите поиск.",
-            "Когда матч найден, на подтверждение есть 45 секунд. Кто не принял, получает блокировку поиска: сначала 2 минуты, за повторы в тот же день дольше.",
-            "Хост создаёт пользовательское лобби по ссылке из карточки матча за 6 минут, карта — «Мифическое поле битвы».",
-            "Остальные заходят и встают в свою команду, синюю или красную, как на сайте.",
-            "Играете роль, которую назначил сайт. Поменяться можно только с согласия того, с кем меняетесь."
+            "Драфт капитанов с 1531 ELO: двое капитанов играют в камень-ножницы-бумагу и по очереди набирают себе игроков.",
+            "Дуэли один на один со своим рейтингом: перед игрой соперники запрещают друг другу по классу героев.",
+            "Пати до пяти человек, общий чат и жалобы с низким приоритетом поиска для тех, кто сливает игры.",
+            "В анонсе обещаны денежные призы лучшим в таблице, игры с киберспортсменами и своя профессиональная лига."
           ]
         },
         {
           "type": "paragraph",
-          "text": "Кроме обычного режима есть драфт: двое капитанов играют в камень-ножницы-бумагу и по очереди набирают игроков, по одному на каждую роль. Он открывается с 1531 ELO. Есть и дуэли один на один с отдельным рейтингом и запретом классов. За доигранный матч добавляется порядочность. Если она ниже 90, матч ищется дольше. За подтверждённый AFK снимают 10 очков, за нарушение — 20."
+          "text": "Играть бесплатно. Платная подписка Premium даёт только оформление и удобства. Регистрация с 14 лет."
         },
         {
-          "type": "callout",
-          "label": "Пинг и рехост",
-          "text": "Пинг до 60 мс считается нормальным, матч доигрывают. Если выше, в первые 2 минуты можно запросить рехост, нужно 7 голосов из 10. Сдача вместо рехоста засчитывается как поражение."
-        },
-        {
-          "type": "paragraph",
-          "text": "Играть бесплатно. Подписка Premium трёх уровней даёт оформление и удобства, оплачивается внутренней валютой G-Coin, один G-Coin — один рубль. В анонсе SKY обещает денежные призы лучшим в таблице лидеров, игры с киберспортсменами, профессиональную лигу и миксы. Регистрация с 14 лет."
+          "type": "linkCard",
+          "label": "Сайт SKY",
+          "title": "skymlbb.ru",
+          "description": "Регистрация, правила матчей и вход через Telegram, Google или игровой аккаунт.",
+          "href": "https://skymlbb.ru/"
         },
         {
           "type": "heading",
           "id": "lockin",
-          "text": "Lockin: вход через Telegram и строгая проверка"
-        },
-        {
-          "type": "paragraph",
-          "text": "Lockin делают энтузиасты, которые хотят вернуть рейтинг по очкам, как в старой системе ПТС. Вход в один клик через Telegram. Площадка получает только ID, имя, ник и фото профиля, номер телефона и переписка ей не передаются. Аккаунт MLBB подтверждают по ID и серверу, поэтому смурфы не пройдут."
+          "text": "Lockin"
         },
         {
           "type": "image",
@@ -15035,27 +14835,22 @@
           "width": 1400,
           "height": 860,
           "alt": "Главная страница Lockin: рейтинговые матчи Mobile Legends с проверенными игроками и пять лучших игроков по Elo",
-          "caption": "Главная страница Lockin, 26 ноября 2026 года."
-        },
-        {
-          "type": "list",
-          "ordered": true,
-          "items": [
-            "Войдите через Telegram.",
-            "Укажите ID и сервер аккаунта MLBB.",
-            "Выберите роль: лес, опыт, мид, золото или роум. В матче играете на ней, спорить за линию не нужно.",
-            "Встаньте в очередь. Чем дольше ждёте, тем шире разброс рейтинга соперников.",
-            "Подтвердите готовность и зайдите в лобби по ссылке."
-          ]
+          "caption": "lockingg.cc"
         },
         {
           "type": "paragraph",
-          "text": "Десятку игроков делят на команды по одному на роль так, чтобы суммарный рейтинг сторон почти совпадал. За победу над более сильными дают больше очков. Подбор для готовых пятёрок обещают, когда наберётся аудитория. На 26 ноября лидер таблицы набрал 1574 очка. Приложение Lockin скачивается из их Telegram-канала."
+          "text": "Lockin делают энтузиасты, которые хотели вернуть в MLBB рейтинг по очкам, как в старой системе ПТС. Вход в один клик через Telegram, а аккаунт игры проверяют по ID и серверу, так что с чужого или запасного не зайти. Роль вы выбираете сами: лес, опыт, мид, золото или роум, и в матче играете только её."
         },
         {
-          "type": "callout",
-          "label": "Ссылка открывает Google Play",
-          "text": "Если ссылка на лобби ведёт в магазин приложений, зажмите её, скопируйте и вставьте в браузер. Не помогло — попросите код лобби в чате матча. Результат не пришёл за минуту — нажмите «Позвать админа»."
+          "type": "paragraph",
+          "text": "Сейчас идёт первый сезон. Чтобы попасть в первую полсотню таблицы, нужно около 1320 очков, а лидер на 26 ноября набрал 1574 за 96 матчей. Таблицу можно смотреть по ролям. Приложение Lockin скачивается из их Telegram-канала, а подбор для готовых пятёрок обещают, когда игроков станет больше."
+        },
+        {
+          "type": "linkCard",
+          "label": "Сайт Lockin",
+          "title": "lockingg.cc",
+          "description": "Вход через Telegram, таблица лидеров по ролям и гайдбук.",
+          "href": "https://lockingg.cc/"
         },
         {
           "type": "heading",
@@ -15063,8 +14858,53 @@
           "text": "MLBB Ladder"
         },
         {
+          "type": "image",
+          "src": "/images/news/mlbb-faceit/ladder-home.webp",
+          "width": 1400,
+          "height": 788,
+          "alt": "Страница входа Ladder: «Матчмейкинг 5×5 для MLBB» и кнопка «Войти через Telegram»",
+          "caption": "mlbbladder.ru"
+        },
+        {
           "type": "paragraph",
-          "text": "MLBB Ladder — ещё один фанатский матчмейкинг 5 на 5. Сайт собирает десять игроков и делит их на две равные команды по ELO и ролям. Есть уровни от 1 до 10, сезоны, топы по ролям и героям, профили и история матчей. Вход без пароля, через бота в Telegram. Сайт стоит за защитой от DDoS: иногда перед входом браузер просит пройти проверку."
+          "text": "Ladder — самый простой из трёх. Вход без пароля через бота в Telegram, дальше очередь: сайт собирает десятку и делит её на две равные команды по ELO и ролям. Есть уровни от 1 до 10, сезоны, топы по ролям и по героям, профиль и история ваших матчей."
+        },
+        {
+          "type": "callout",
+          "label": "Если сайт не открывается",
+          "text": "Ladder стоит за защитой от DDoS: перед входом браузер иногда просит пройти проверку. Это нормально, после неё откроется страница входа."
+        },
+        {
+          "type": "linkCard",
+          "label": "Сайт Ladder",
+          "title": "mlbbladder.ru",
+          "description": "Матчмейкинг 5×5, вход через бота в Telegram без пароля.",
+          "href": "https://mlbbladder.ru/"
+        },
+        {
+          "type": "heading",
+          "id": "choose",
+          "text": "Какую выбрать"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "SKY — если хотите больше всего режимов, играть с друзьями и побороться за обещанные призы.",
+            "Lockin — если важны строгие роли и проверенные аккаунты без смурфов.",
+            "Ladder — если нужен простой матчмейкинг без лишнего."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Аккаунт везде нужен свой, а для входа понадобятся ID и сервер из профиля MLBB. Ничто не мешает зарегистрироваться на всех трёх и играть там, где быстрее находится матч."
+        },
+        {
+          "type": "linkCard",
+          "label": "Для регистрации",
+          "title": "Как узнать ID и сервер в MLBB",
+          "description": "Где в профиле номер аккаунта и сервер в скобках.",
+          "href": "https://boostmlbb.ru/news/mlbb-server-region-id/"
         },
         {
           "type": "heading",
@@ -15073,41 +14913,18 @@
         },
         {
           "type": "paragraph",
-          "text": "Если нужны деньги за результат прямо сейчас, а не таблица, смотрите CyberHero от оператора t2. Там почти каждый день проходят одиночные турниры по MLBB один на один на выбывание. Например, в выходные 28 и 29 ноября 2026 года — Solo Weekend Premium Cup с призовым фондом 10 000 рублей. Сайт для 18+."
-        },
-        {
-          "type": "heading",
-          "id": "start",
-          "text": "Перед первым матчем"
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            "Узнайте ID и сервер своего аккаунта: их спросят при проверке.",
-            "Решите, на каких ролях готовы играть: роль закрепляют до матча, и уйти с неё без согласия нельзя.",
-            "Проверьте интернет: на SKY пинг выше 60 мс — уже повод для рехоста.",
-            "Играйте только со своего аккаунта. На всех площадках запрещена игра за другого, а в SKY аккаунт привязывается навсегда.",
-            "Не принимайте матч, если не готовы доиграть: за пропуски растут блокировки поиска."
-          ]
-        },
-        {
-          "type": "linkCard",
-          "label": "Понадобится для входа",
-          "title": "Как узнать ID и сервер в MLBB",
-          "description": "Где найти номер аккаунта и сервер и почему сервер нельзя сменить.",
-          "href": "https://boostmlbb.ru/news/mlbb-server-region-id/"
+          "text": "Если хочется сыграть на деньги уже сейчас, есть CyberHero от оператора t2. Там почти каждый день идут турниры по MLBB один на один на выбывание, а по выходным — Solo Weekend Premium Cup с призовым фондом 10 000 рублей. Участвовать можно с 18 лет."
         },
         {
           "type": "cta",
           "id": "rank-up",
           "eyebrow": "Ранг в самой игре",
           "title": "Поднимем ранг в рейтинге MLBB",
-          "text": "Площадки считают свой ELO, а звёзды в игре можно поднять с бустером. Цена — в калькуляторе.",
+          "text": "На площадках свой ELO, а звёзды в игре поднимет бустер. Цена — в калькуляторе.",
           "button": "Рассчитать стоимость",
           "href": "/order.html?type=standard",
           "note": "Без оплаты и обязательств.",
-          "position": "after-start"
+          "position": "after-tournaments"
         },
         {
           "type": "faq",
@@ -15116,37 +14933,29 @@
           "items": [
             {
               "q": "Есть ли FACEIT для Mobile Legends?",
-              "a": "Самого FACEIT для MLBB нет. Похожий формат дают фанатские площадки SKY, Lockin и MLBB Ladder: очередь, ELO, роли и лобби в игре."
+              "a": "Самого FACEIT для MLBB нет. Тот же формат дают площадки SKY, Lockin и Ladder: очередь, ELO, роли и лобби в игре."
             },
             {
               "q": "Сколько стоит играть?",
-              "a": "Нисколько. На SKY есть платная подписка Premium, но она даёт только оформление и удобства."
+              "a": "Нисколько. На SKY есть подписка Premium, но она даёт только оформление."
             },
             {
-              "q": "Нужен ли высокий ранг?",
-              "a": "Нет. Все начинают с нуля или с калибровки, рейтинг площадки не зависит от звёзд в игре. Драфт капитанов на SKY открывается с 1531 ELO."
+              "q": "Нужен ли высокий ранг в игре?",
+              "a": "Нет. Рейтинг площадок не зависит от звёзд в MLBB: все начинают с нуля или с калибровки."
             },
             {
               "q": "Можно ли играть с друзьями?",
-              "a": "На SKY можно собрать пати до пяти человек. На Lockin подбор для готовых команд обещают позже."
-            },
-            {
-              "q": "Связаны ли площадки с MOONTON?",
-              "a": "Нет. Все три — независимые фанатские проекты, матчи идут в пользовательском лобби игры."
-            },
-            {
-              "q": "Почему не открывается лобби по ссылке?",
-              "a": "Скопируйте ссылку в браузер вручную или попросите код лобби в чате матча. На SKY, если ссылка от MLBB не пришла, матч отменяют без штрафа."
+              "a": "На SKY — да, пати до пяти человек. На Lockin подбор для готовых команд обещают позже."
             }
           ]
         }
       ],
       "translations": {
         "en": {
-          "title": "FACEIT for MLBB: where to play serious 5v5 matches",
+          "title": "FACEIT for MLBB: SKY, Lockin and Ladder",
           "seoTitle": "FACEIT for MLBB: SKY, Lockin and MLBB Ladder",
-          "description": "FACEIT alternatives for Mobile Legends: SKY, Lockin and MLBB Ladder. How ELO, roles and lobbies work, what you need to join and where to find prize tournaments.",
-          "excerpt": "There is no FACEIT for MLBB, but there are SKY, Lockin and MLBB Ladder: a queue, ELO, fixed roles and a game lobby. How they work and how to start.",
+          "description": "FACEIT alternatives for Mobile Legends: what SKY, Lockin and MLBB Ladder are, how their 5v5 matches with ELO and roles work and where to find prize tournaments.",
+          "excerpt": "There is no FACEIT for MLBB, but there are SKY, Lockin and Ladder: a queue, ELO, roles and a game lobby. What they are and which one to pick.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
@@ -15162,143 +14971,79 @@
             "webpSrcset": "/images/news/mlbb-faceit-en-768.webp 768w, /images/news/mlbb-faceit-en-1200.webp 1200w, /images/news/mlbb-faceit-en-1600.webp 1600w",
             "focalPoint": "50% 50%",
             "cardFit": "contain",
-            "alt": "Five players with phones at club tables before a 5v5 match and the title FACEIT for MLBB",
-            "caption": "Illustration by Boost MLBB: the scene is AI-generated.",
+            "alt": "Players with phones in a club before a 5v5 match, the title FACEIT for MLBB and the SKY, Lockin and Ladder logos",
+            "caption": "Illustration by Boost MLBB: the scene is AI-generated, the logos belong to the platforms.",
             "provenance": {
               "type": "generated",
               "creator": "OpenAI ImageGen (Codex) + Boost MLBB",
               "created": "2026-11-26",
               "prompt": "Cinematic photo of five young players seen from behind at a dark esports club table, each holding a smartphone horizontally, screens glowing teal, a big screen with a blurred 5v5 lobby in the background, navy and emerald lighting, no faces, no readable text, no logos.",
-              "rights": "Scene generated by OpenAI ImageGen for Boost MLBB; text and layout by Boost MLBB."
+              "rights": "Scene generated by OpenAI ImageGen for Boost MLBB; the SKY, Lockin and Ladder logos belong to their owners and are used to identify the services; text and layout by Boost MLBB."
             }
           },
-          "editorialNote": "The SKY and Lockin rules were checked on their websites on 26 November 2026. That day the MLBB Ladder site asked for a manual browser check, which we did not bypass: the description comes from the site's own summary. That SKY was opened by the streamer Geass is according to the editors and the community.",
+          "editorialNote": "The SKY and Lockin rules and the Lockin leaderboard were checked on their websites on 26 November 2026. The Ladder site asked for a manual browser check, which we did not bypass: the description comes from the site's summary, and the editors supplied the sign-in page screenshot. That SKY was opened by the streamer Geass is according to the editors and the community.",
           "blocks": [
             {
               "type": "keyFacts",
               "id": "brief",
               "title": "In brief",
               "items": [
-                "FACEIT has no Mobile Legends. Fan-made platforms took its place for MLBB: SKY, Lockin and MLBB Ladder.",
-                "They all work the same way: a queue on the site, ten players of a similar level, roles set in advance, a custom lobby in the game and an ELO rating.",
-                "You need your own MLBB account: the platforms check the ID and server, and you can play only from it.",
-                "Playing is free. SKY promises cash prizes for the top of its leaderboard, and CyberHero by t2 runs tournaments with prizes."
+                "FACEIT has no Mobile Legends, but in 2026 MLBB got its own platforms of the same kind: SKY, Lockin and Ladder.",
+                "They share one idea: the site gathers ten players of one level, gives each a role, the match is played in the game's custom lobby, and wins move your ELO.",
+                "All three are free and made by players; they are not connected to MOONTON."
               ]
             },
             {
               "type": "heading",
-              "id": "why",
-              "text": "Why you need it"
+              "id": "what",
+              "text": "Why they exist"
             },
             {
               "type": "paragraph",
-              "text": "MLBB ranked counts stars, and random matchmaking builds the team: your jungler may skip Retribution and two fighters may end up in one lane. Competitive platforms work differently. The rating is ELO, so it grows when you beat strong opponents. Roles are fixed before the match, and AFK or throwing games is punished. It is FACEIT, as in CS2, only for a mobile MOBA, which is why people search for \"FACEIT for MLBB\"."
-            },
-            {
-              "type": "table",
-              "caption": "SKY, Lockin and MLBB Ladder compared",
-              "headers": [
-                "What",
-                "SKY",
-                "Lockin",
-                "MLBB Ladder"
-              ],
-              "rows": [
-                [
-                  "Website",
-                  "skymlbb.ru",
-                  "lockingg.cc",
-                  "mlbbladder.ru"
-                ],
-                [
-                  "Sign-in",
-                  "Login and password, Telegram, Google or the game account",
-                  "Telegram or email",
-                  "A Telegram bot, no password"
-                ],
-                [
-                  "Account check",
-                  "Bound to the MLBB account for good",
-                  "By ID and server",
-                  "Not stated"
-                ],
-                [
-                  "Rating",
-                  "ELO from zero, levels from 1 to 10",
-                  "ELO, leaderboard",
-                  "ELO, levels from 1 to 10, seasons"
-                ],
-                [
-                  "Roles",
-                  "You pick before the queue, the site assigns one",
-                  "Fixed in advance: jungle, EXP, mid, gold, roam",
-                  "Teams are split by role"
-                ],
-                [
-                  "Modes",
-                  "Regular, captains draft, one-on-one duels",
-                  "Solo queue, parties later",
-                  "Five-on-five matches"
-                ],
-                [
-                  "Money",
-                  "Free, with a Premium subscription",
-                  "Free",
-                  "Not stated"
-                ]
-              ],
-              "note": "Data from the platforms' websites as of 26 November 2026. The MLBB Ladder site is behind a browser check, its data comes from the site description."
+              "text": "In MLBB ranked you earn stars, and random matchmaking builds your team. Hence a jungler without Retribution and two fighters in one lane. On the platforms the rating is ELO: beating strong players gives more points, your role is fixed before the match, and AFK or throwing is punished. That is why people call them \"FACEIT for MLBB\", like the CS2 platform."
             },
             {
               "type": "heading",
               "id": "sky",
-              "text": "SKY: the most detailed platform"
-            },
-            {
-              "type": "paragraph",
-              "text": "SKY was opened by the streamer Geass, and its beta started on 18 November 2026. It is a platform for 5v5 rated matches: everyone starts at zero ELO, the first ten matches are calibration, then come levels from 1 to 10. Results come from the game automatically: the win, damage, gold, KDA and MVP. The rating depends not only on your team's win but on your own contribution."
+              "text": "SKY"
             },
             {
               "type": "image",
               "src": "/images/news/mlbb-faceit/sky-home.webp",
               "width": 1400,
               "height": 860,
-              "alt": "SKY home page: compete like in SKY, start at 0 ELO, levels 1–10, 5v5 format and a sign-in form",
-              "caption": "The SKY home page, 26 November 2026."
+              "alt": "SKY home page: compete like in SKY, start at 0 ELO, levels 1–10, 5v5 format",
+              "caption": "skymlbb.ru"
+            },
+            {
+              "type": "paragraph",
+              "text": "The platform was opened by the streamer Geass, and its beta started on 18 November 2026. It is the most complete of the three. Everyone starts at zero ELO, the first ten matches are calibration, then come levels from 1 to 10. The win, damage, gold, KDA and MVP come from the game automatically, and your rating depends not only on your team's win but on your share in it."
             },
             {
               "type": "list",
-              "ordered": true,
+              "ordered": false,
               "items": [
-                "Choose the preferred server with the lowest ping: each server has its own queue.",
-                "Tick the roles you are ready to play and start the search.",
-                "When a match is found, you have 45 seconds to accept. Missing it blocks the search: 2 minutes at first, longer for repeats the same day.",
-                "The host creates a custom lobby from the link in the match card within 6 minutes, on the Mythic Battlefield map.",
-                "Everyone else joins and takes their side, blue or red, as on the site.",
-                "You play the role the site assigned. You can swap only if the player you swap with agrees."
+                "A captains draft from 1531 ELO: two captains play rock-paper-scissors and pick players in turns.",
+                "One-on-one duels with their own rating: before the game each player bans a hero class for both.",
+                "Parties of up to five, a shared chat and reports that send throwers to a low-priority queue.",
+                "The announcement promises cash prizes for the top of the leaderboard, games with esports players and a pro league."
               ]
             },
             {
               "type": "paragraph",
-              "text": "Besides the regular mode there is a draft: two captains play rock-paper-scissors and pick players in turns, one for each role. It unlocks at 1531 ELO. There are also one-on-one duels with their own rating and class bans. Every finished match adds conduct points. Below 90 the search takes longer. A confirmed AFK costs 10 points, a violation 20."
+              "text": "Playing is free. The paid Premium subscription only gives cosmetics and conveniences. Registration is from 14 years old."
             },
             {
-              "type": "callout",
-              "label": "Ping and rehost",
-              "text": "A ping up to 60 ms counts as normal, and the match is played out. If it is higher, you can request a rehost in the first 2 minutes; it needs 7 votes out of 10. Surrendering instead of a rehost counts as a loss."
-            },
-            {
-              "type": "paragraph",
-              "text": "Playing is free. A three-tier Premium subscription gives cosmetics and conveniences and is paid in the in-house G-Coin currency, one G-Coin is one rouble. In its announcement SKY promises cash prizes for the top of the leaderboard, games with esports players, a pro league and mixes. Registration is from 14 years old."
+              "type": "linkCard",
+              "label": "SKY website",
+              "title": "skymlbb.ru",
+              "description": "Sign-up, match rules and sign-in with Telegram, Google or the game account.",
+              "href": "https://skymlbb.ru/"
             },
             {
               "type": "heading",
               "id": "lockin",
-              "text": "Lockin: Telegram sign-in and a strict check"
-            },
-            {
-              "type": "paragraph",
-              "text": "Lockin is made by enthusiasts who want points-based rating back, like the old PTS system. You sign in with one click through Telegram. The platform gets only your ID, name, username and profile photo, not your phone number or chats. The MLBB account is confirmed by ID and server, so smurfs will not get in."
+              "text": "Lockin"
             },
             {
               "type": "image",
@@ -15306,27 +15051,22 @@
               "width": 1400,
               "height": 860,
               "alt": "Lockin home page: Mobile Legends rated matches with verified players and the five best players by Elo",
-              "caption": "The Lockin home page, 26 November 2026."
-            },
-            {
-              "type": "list",
-              "ordered": true,
-              "items": [
-                "Sign in through Telegram.",
-                "Enter your MLBB account ID and server.",
-                "Pick a role: jungle, EXP, mid, gold or roam. You play it in the match, no lane arguments.",
-                "Join the queue. The longer you wait, the wider the rating range of your opponents.",
-                "Confirm you are ready and join the lobby from the link."
-              ]
+              "caption": "lockingg.cc"
             },
             {
               "type": "paragraph",
-              "text": "The ten players are split into teams with one per role so that the total rating of both sides is nearly equal. Beating stronger players gives more points. Matchmaking for full five-stacks is promised once there are enough players. On 26 November the leader of the table had 1574 points. The Lockin app is downloaded from their Telegram channel."
+              "text": "Lockin is made by enthusiasts who wanted points-based rating back in MLBB, like the old PTS system. You sign in with one click through Telegram, and the game account is checked by ID and server, so you cannot play from someone else's or a spare one. You choose your role yourself: jungle, EXP, mid, gold or roam, and in the match you play only that."
             },
             {
-              "type": "callout",
-              "label": "The link opens Google Play",
-              "text": "If the lobby link opens the app store, hold it, copy it and paste it into the browser. If that fails, ask for the lobby code in the match chat. If the result has not arrived within a minute, press Call admin."
+              "type": "paragraph",
+              "text": "The first season is on now. To get into the top fifty of the table you need about 1320 points, and on 26 November the leader had 1574 after 96 matches. The table can be filtered by role. The Lockin app is downloaded from their Telegram channel, and matchmaking for full five-stacks is promised once there are more players."
+            },
+            {
+              "type": "linkCard",
+              "label": "Lockin website",
+              "title": "lockingg.cc",
+              "description": "Telegram sign-in, the leaderboard by role and the guidebook.",
+              "href": "https://lockingg.cc/"
             },
             {
               "type": "heading",
@@ -15334,8 +15074,53 @@
               "text": "MLBB Ladder"
             },
             {
+              "type": "image",
+              "src": "/images/news/mlbb-faceit/ladder-home.webp",
+              "width": 1400,
+              "height": 788,
+              "alt": "Ladder sign-in page: 5×5 matchmaking for MLBB and the Sign in with Telegram button",
+              "caption": "mlbbladder.ru"
+            },
+            {
               "type": "paragraph",
-              "text": "MLBB Ladder is another fan-made 5v5 matchmaking. The site gathers ten players and splits them into two equal teams by ELO and role. There are levels from 1 to 10, seasons, tops by role and hero, profiles and match history. Sign-in needs no password, it goes through a Telegram bot. The site sits behind DDoS protection, so the browser sometimes asks you to pass a check first."
+              "text": "Ladder is the simplest of the three. You sign in without a password through a Telegram bot, then queue: the site gathers ten players and splits them into two equal teams by ELO and role. There are levels from 1 to 10, seasons, tops by role and by hero, a profile and your match history."
+            },
+            {
+              "type": "callout",
+              "label": "If the site does not open",
+              "text": "Ladder sits behind DDoS protection: before signing in, the browser sometimes asks you to pass a check. That is normal; the sign-in page opens after it."
+            },
+            {
+              "type": "linkCard",
+              "label": "Ladder website",
+              "title": "mlbbladder.ru",
+              "description": "5×5 matchmaking, sign-in through a Telegram bot without a password.",
+              "href": "https://mlbbladder.ru/"
+            },
+            {
+              "type": "heading",
+              "id": "choose",
+              "text": "Which one to pick"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "SKY if you want the most modes, to play with friends and to compete for the promised prizes.",
+                "Lockin if strict roles and verified accounts without smurfs matter most.",
+                "Ladder if you want simple matchmaking and nothing else."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Everywhere you need your own account, and signing up asks for the ID and server from your MLBB profile. Nothing stops you from joining all three and playing wherever a match is found faster."
+            },
+            {
+              "type": "linkCard",
+              "label": "To sign up",
+              "title": "How to find your MLBB ID and server",
+              "description": "Where the profile shows the account number and the server in brackets.",
+              "href": "https://boostmlbb.ru/news/mlbb-server-region-id/"
             },
             {
               "type": "heading",
@@ -15344,30 +15129,7 @@
             },
             {
               "type": "paragraph",
-              "text": "If you want money for results right now rather than a leaderboard, look at CyberHero by the operator t2. It runs one-on-one MLBB knockout tournaments almost every day. For example, on the weekend of 28 and 29 November 2026 there is the Solo Weekend Premium Cup with a prize pool of 10,000 roubles. The site is 18+."
-            },
-            {
-              "type": "heading",
-              "id": "start",
-              "text": "Before your first match"
-            },
-            {
-              "type": "list",
-              "ordered": false,
-              "items": [
-                "Find your account ID and server: you will be asked for them at the check.",
-                "Decide which roles you are ready to play: the role is fixed before the match and you cannot leave it without consent.",
-                "Check your connection: on SKY a ping above 60 ms is already a reason for a rehost.",
-                "Play only from your own account. Every platform bans playing for someone else, and on SKY the account is bound for good.",
-                "Do not accept a match if you are not ready to finish it: missed matches lead to longer search blocks."
-              ]
-            },
-            {
-              "type": "linkCard",
-              "label": "Needed to sign in",
-              "title": "How to find your MLBB ID and server",
-              "description": "Where to find the account number and server and why the server cannot be changed.",
-              "href": "https://boostmlbb.ru/news/mlbb-server-region-id/"
+              "text": "If you want to play for money right now, there is CyberHero by the operator t2. It runs one-on-one MLBB knockout tournaments almost every day, and on weekends the Solo Weekend Premium Cup with a prize pool of 10,000 roubles. You can take part from 18 years old."
             },
             {
               "type": "cta",
@@ -15378,7 +15140,7 @@
               "button": "Calculate price",
               "href": "/order.html?type=standard",
               "note": "No payment or commitment.",
-              "position": "after-start"
+              "position": "after-tournaments"
             },
             {
               "type": "faq",
@@ -15387,27 +15149,19 @@
               "items": [
                 {
                   "q": "Is there FACEIT for Mobile Legends?",
-                  "a": "FACEIT itself has no MLBB. A similar format comes from fan-made platforms SKY, Lockin and MLBB Ladder: a queue, ELO, roles and a lobby in the game."
+                  "a": "FACEIT itself has no MLBB. The same format comes from SKY, Lockin and Ladder: a queue, ELO, roles and a lobby in the game."
                 },
                 {
                   "q": "How much does it cost to play?",
-                  "a": "Nothing. SKY has a paid Premium subscription, but it only gives cosmetics and conveniences."
+                  "a": "Nothing. SKY has a Premium subscription, but it only gives cosmetics."
                 },
                 {
-                  "q": "Do I need a high rank?",
-                  "a": "No. Everyone starts from zero or with calibration, and the platform rating does not depend on your stars in the game. The captains draft on SKY unlocks at 1531 ELO."
+                  "q": "Do I need a high rank in the game?",
+                  "a": "No. The platforms' rating does not depend on your MLBB stars: everyone starts from zero or with calibration."
                 },
                 {
                   "q": "Can I play with friends?",
-                  "a": "On SKY you can form a party of up to five. On Lockin matchmaking for ready teams is promised later."
-                },
-                {
-                  "q": "Are the platforms connected to MOONTON?",
-                  "a": "No. All three are independent fan-made projects, and matches are played in the game's custom lobby."
-                },
-                {
-                  "q": "Why does the lobby link not open?",
-                  "a": "Copy the link into the browser by hand or ask for the lobby code in the match chat. On SKY, if MLBB sent no link, the match is cancelled without a penalty."
+                  "a": "On SKY, yes, parties of up to five. On Lockin matchmaking for ready teams is promised later."
                 }
               ]
             }

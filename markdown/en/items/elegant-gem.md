@@ -7,6 +7,8 @@ language: en
 
 [Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
+[All items](https://boostmlbb.ru/en/items/)
+
 ![Elegant Gem item icon](/images/mlbb/items/2105.webp)
 
 # Elegant Gem
