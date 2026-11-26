@@ -5589,6 +5589,34 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/"/>
   </url>
   <url>
+    <loc>https://boostmlbb.ru/news/mlbb-faceit/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-faceit/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/news/mlbb-server-region-id/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-server-region-id/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+  </url>
+  <url>
     <loc>https://boostmlbb.ru/news/mlbb-not-working/</loc>
     <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-not-working/"/>

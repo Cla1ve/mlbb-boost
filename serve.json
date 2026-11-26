@@ -349,6 +349,38 @@
     {
       "source": "/en/news/mlbb-not-working",
       "destination": "/en/news/mlbb-not-working/index.html"
+    },
+    {
+      "source": "/news/mlbb-server-region-id/",
+      "destination": "/news/mlbb-server-region-id/index.html"
+    },
+    {
+      "source": "/news/mlbb-server-region-id",
+      "destination": "/news/mlbb-server-region-id/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-server-region-id/",
+      "destination": "/en/news/mlbb-server-region-id/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-server-region-id",
+      "destination": "/en/news/mlbb-server-region-id/index.html"
+    },
+    {
+      "source": "/news/mlbb-faceit/",
+      "destination": "/news/mlbb-faceit/index.html"
+    },
+    {
+      "source": "/news/mlbb-faceit",
+      "destination": "/news/mlbb-faceit/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-faceit/",
+      "destination": "/en/news/mlbb-faceit/index.html"
+    },
+    {
+      "source": "/en/news/mlbb-faceit",
+      "destination": "/en/news/mlbb-faceit/index.html"
     }
   ]
 }

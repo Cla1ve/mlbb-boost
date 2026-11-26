@@ -3,5 +3,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+  <url>
+    <loc>https://boostmlbb.ru/news/mlbb-faceit/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T23:13:38+03:00</news:publication_date>
+      <news:title>Фейсит для MLBB: где играть серьёзные матчи 5 на 5</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-faceit/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-faceit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-faceit/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T23:13:38+03:00</news:publication_date>
+      <news:title>FACEIT for MLBB: where to play serious 5v5 matches</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/news/mlbb-server-region-id/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T23:13:26+03:00</news:publication_date>
+      <news:title>Сервер, регион и ID в MLBB: как узнать и сменить</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://boostmlbb.ru/en/news/mlbb-server-region-id/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://boostmlbb.ru/en/news/mlbb-server-region-id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://boostmlbb.ru/news/mlbb-server-region-id/"/>
+    <news:news>
+      <news:publication>
+        <news:name>Boost MLBB</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T23:13:26+03:00</news:publication_date>
+      <news:title>MLBB server, region and ID: how to find and change them</news:title>
+    </news:news>
+  </url>
 </urlset>

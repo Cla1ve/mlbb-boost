@@ -123,6 +123,8 @@ const footerGuides = [
   ['/news/mlbb-starlight/', 'Звёздный участник: все облики', 'StarLight: every skin'],
   ['/news/mlbb-collaborations/', 'Все коллаборации MLBB', 'Every MLBB collaboration'],
   ['/news/mlbb-account-bind-recover/', 'Аккаунт MLBB: привязка', 'MLBB account binding'],
+  ['/news/mlbb-server-region-id/', 'Сервер, регион и ID MLBB', 'MLBB server, region and ID'],
+  ['/news/mlbb-faceit/', 'Фейсит для MLBB', 'FACEIT for MLBB'],
   ['/news/mlbb-not-working/', 'Почему не запускается MLBB', 'MLBB launch and lag fixes'],
   ['/boost/mythic.html', 'Буст Мифика', 'Mythic boost'],
   ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
