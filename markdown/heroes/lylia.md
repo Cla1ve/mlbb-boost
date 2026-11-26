@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lylia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Лилия](/images/heroes/art/lylia.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,2%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ B
 ### Кто контрит Лилию
 
 [![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)
+
+## Скины Лилии
+
+[![](/images/skins/cards/lylia/phantasmal-revelry.webp)Призрачное весельеДелюкс · 2026](https://boostmlbb.ru/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/lylia/magitech-arsenal.webp)Магитех­нический арсеналИсключительный · 2024](https://boostmlbb.ru/skins/lylia/magitech-arsenal.html)[![](/images/skins/cards/lylia/neobeast-lylia.webp)Лилия NeobeastГрандиозный · 2023](https://boostmlbb.ru/skins/lylia/neobeast-lylia.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Проклятая куклаИсключительный · 2020](https://boostmlbb.ru/skins/lylia/haunted-doll.html)[![](/images/skins/cards/lylia/future-star.webp)Звезда будущегоИсключительный · 2020](https://boostmlbb.ru/skins/lylia/future-star.html)[![](/images/skins/cards/lylia/star-student.webp)Звёздная ученицаОбычный · 2020](https://boostmlbb.ru/skins/lylia/star-student.html)[![](/images/skins/cards/lylia/school-idol.webp)Школьный кумирОбычный · 2019](https://boostmlbb.ru/skins/lylia/school-idol.html)
+
+[Все 7 скинов Лилии: цены и как получить](https://boostmlbb.ru/skins/lylia.html)
 
 ## История
 

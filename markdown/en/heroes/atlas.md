@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/atlas.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Atlas hero art](/images/heroes/art/atlas.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 8.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ Atlas hurls chains around and starts to channel (can only be interrupted by Supp
 ### Who Atlas counters
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
+
+## Atlas skins
+
+[![](/images/skins/cards/atlas/sunken-curse.webp)Sunken CurseDeluxe · 2026](https://boostmlbb.ru/en/skins/atlas/sunken-curse.html)[![](/images/skins/cards/atlas/mecha-infernus.webp)Mecha InfernusExquisite · 2024](https://boostmlbb.ru/en/skins/atlas/mecha-infernus.html)[![](/images/skins/cards/atlas/rune-of-sentinel.webp)Rune of SentinelDeluxe · 2023](https://boostmlbb.ru/en/skins/atlas/rune-of-sentinel.html)[![](/images/skins/cards/atlas/space-mech.webp)Space MechExceptional · 2022](https://boostmlbb.ru/en/skins/atlas/space-mech.html)[![](/images/skins/cards/atlas/fuel-turbine.webp)Fuel TurbineCommon · 2020](https://boostmlbb.ru/en/skins/atlas/fuel-turbine.html)[![](/images/skins/cards/atlas/reactor-core.webp)Reactor CoreCommon · 2020](https://boostmlbb.ru/en/skins/atlas/reactor-core.html)[![](/images/skins/cards/atlas/maelstrom-lurker.webp)Maelstrom Lurker](https://boostmlbb.ru/en/skins/atlas/maelstrom-lurker.html)
+
+[All 7 Atlas skins: prices and how to get them](https://boostmlbb.ru/en/skins/atlas.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/badang.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Badang hero art](/images/heroes/art/badang.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 5.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Badang is immune to control effects for the duration.
 ### Who counters Badang
 
 [![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
+
+## Badang skins
+
+[![](/images/skins/cards/badang/quantum-commando.webp)Quantum CommandoExceptional · 2026](https://boostmlbb.ru/en/skins/badang/quantum-commando.html)[![](/images/skins/cards/badang/steel-arms.webp)Steel ArmsExceptional · 2025](https://boostmlbb.ru/en/skins/badang/steel-arms.html)[![](/images/skins/cards/badang/sagittarius-seiya.webp)Sagit­tarius SeiyaGrand · 2022](https://boostmlbb.ru/en/skins/badang/sagittarius-seiya.html)[![](/images/skins/cards/badang/pegasus-seiya.webp)Pegasus SeiyaDeluxe · 2022](https://boostmlbb.ru/en/skins/badang/pegasus-seiya.html)[![](/images/skins/cards/badang/ironfists.webp)IronfistsCommon · 2022](https://boostmlbb.ru/en/skins/badang/ironfists.html)[![](/images/skins/cards/badang/fist-of-zen.webp)Fist of ZenExquisite · 2020](https://boostmlbb.ru/en/skins/badang/fist-of-zen.html)[![](/images/skins/cards/badang/leo.webp)LeoDeluxe · 2019](https://boostmlbb.ru/en/skins/badang/leo.html)[![](/images/skins/cards/badang/susanoo.webp)SusanooExceptional · 2018](https://boostmlbb.ru/en/skins/badang/susanoo.html)
+
+[All 8 Badang skins: prices and how to get them](https://boostmlbb.ru/en/skins/badang.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/nolan.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Нолан](/images/heroes/art/nolan.webp)
 
@@ -27,7 +27,7 @@ S
 
 39,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -335,6 +335,12 @@ S
 ### Кого контрит Нолан
 
 [![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+
+## Скины Нолана
+
+[![](/images/skins/cards/nolan/the-navigator.webp)НавигаторГрандиозный · 2024](https://boostmlbb.ru/skins/nolan/the-navigator.html)[![](/images/skins/cards/nolan/fashion-mogul.webp)Магнат модыИсключительный · 2024](https://boostmlbb.ru/skins/nolan/fashion-mogul.html)[![](/images/skins/cards/nolan/voidwalker.webp)Странник пустотыОбычный · 2023](https://boostmlbb.ru/skins/nolan/voidwalker.html)
+
+[Все 3 скина Нолана: цены и как получить](https://boostmlbb.ru/skins/nolan.html)
 
 ## История
 

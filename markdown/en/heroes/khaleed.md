@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/khaleed.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Khaleed hero art](/images/heroes/art/khaleed.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ Upon reaching the destination, Khaleed will smash the ground, dealing 450 (+160%
 ### Who Khaleed counters
 
 [![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+
+## Khaleed skins
+
+[![](/images/skins/cards/khaleed/desert-salamander.webp)Desert SalamanderCommon · 2025](https://boostmlbb.ru/en/skins/khaleed/desert-salamander.html)[![](/images/skins/cards/khaleed/wave-strider.webp)Wave StriderDeluxe · 2024](https://boostmlbb.ru/en/skins/khaleed/wave-strider.html)[![](/images/skins/cards/khaleed/crescent-scimitar.webp)Crescent ScimitarCommon · 2021](https://boostmlbb.ru/en/skins/khaleed/crescent-scimitar.html)[![](/images/skins/cards/khaleed/prince-of-sand.webp)Prince of SandCommon · 2020](https://boostmlbb.ru/en/skins/khaleed/prince-of-sand.html)
+
+[All 4 Khaleed skins: prices and how to get them](https://boostmlbb.ru/en/skins/khaleed.html)
 
 ## Lore
 

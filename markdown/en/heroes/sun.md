@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Sun hero art](/images/heroes/art/sun.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 58.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -350,6 +350,12 @@ Sun summons a Doppelganger that inherits his attributes, deals 80% damage, and t
 ### Who Sun counters
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+
+## Sun skins
+
+[![](/images/skins/cards/sun/celestial-rebel.webp)Celestial RebelExquisite · 2026](https://boostmlbb.ru/en/skins/sun/celestial-rebel.html)[![](/images/skins/cards/sun/wicked-flames.webp)Wicked FlamesExquisite · 2022](https://boostmlbb.ru/en/skins/sun/wicked-flames.html)[![](/images/skins/cards/sun/spring-blessings.webp)Spring BlessingsDeluxe · 2022](https://boostmlbb.ru/en/skins/sun/spring-blessings.html)[![](/images/skins/cards/sun/simian-curse.webp)Simian CurseExceptional · 2021](https://boostmlbb.ru/en/skins/sun/simian-curse.html)[![](/images/skins/cards/sun/celestial-outlaw.webp)Celestial OutlawCommon · 2020](https://boostmlbb.ru/en/skins/sun/celestial-outlaw.html)[![](/images/skins/cards/sun/street-legend.webp)Street LegendExceptional · 2018](https://boostmlbb.ru/en/skins/sun/street-legend.html)[![](/images/skins/cards/sun/battle-buddha.webp)Battle BuddhaCommon · 2017](https://boostmlbb.ru/en/skins/sun/battle-buddha.html)[![](/images/skins/cards/sun/rock-star.webp)Rock StarExceptional · 2017](https://boostmlbb.ru/en/skins/sun/rock-star.html)
+
+[All 8 Sun skins: prices and how to get them](https://boostmlbb.ru/en/skins/sun.html)
 
 ## Lore
 

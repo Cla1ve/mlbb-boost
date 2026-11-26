@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/fanny.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Фанни](/images/heroes/art/fanny.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,6%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -333,6 +333,12 @@ B
 ### Кого контрит Фанни
 
 [![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
+
+## Скины Фанни
+
+[![](/images/skins/cards/fanny/p-ace-fanny.webp)Фанни P.ACEДелюкс · 2025](https://boostmlbb.ru/skins/fanny/p-ace-fanny.html)[![](/images/skins/cards/fanny/mikasa.webp)МикасаГрандиозный · 2023](https://boostmlbb.ru/skins/fanny/mikasa.html)[![](/images/skins/cards/fanny/heart-afloat.webp)Парящее сердцеДелюкс · 2022](https://boostmlbb.ru/skins/fanny/heart-afloat.html)[![](/images/skins/cards/fanny/blade-of-kibou.webp)Клинок надеждыГрандиозный · 2022](https://boostmlbb.ru/skins/fanny/blade-of-kibou.html)[![](/images/skins/cards/fanny/imperial-warrior.webp)Имперская вои­тельницаОбычный · 2021](https://boostmlbb.ru/skins/fanny/imperial-warrior.html)[![](/images/skins/cards/fanny/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2020](https://boostmlbb.ru/skins/fanny/christmas-carnival.html)[![](/images/skins/cards/fanny/lightborn-ranger.webp)Рождённая светом: РейнджерДелюкс · 2019](https://boostmlbb.ru/skins/fanny/lightborn-ranger.html)[![](/images/skins/cards/fanny/lifeguard.webp)Спаса­тельницаИсключительный · 2019](https://boostmlbb.ru/skins/fanny/lifeguard.html)[![](/images/skins/cards/fanny/royal-cavalry.webp)Коро­левская кавалерияИсключительный · 2018](https://boostmlbb.ru/skins/fanny/royal-cavalry.html)[![](/images/skins/cards/fanny/skylark.webp)ЖаворонокИзысканный · 2018](https://boostmlbb.ru/skins/fanny/skylark.html)[![](/images/skins/cards/fanny/punk-princess.webp)Принцесса-панкОбычный · 2017](https://boostmlbb.ru/skins/fanny/punk-princess.html)[![](/images/skins/cards/fanny/campus-youth.webp)СтуденткаОбычный · 2016](https://boostmlbb.ru/skins/fanny/campus-youth.html)
+
+[Все 13 скинов Фанни: цены и как получить](https://boostmlbb.ru/skins/fanny.html)
 
 ## История
 

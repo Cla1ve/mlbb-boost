@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gloo.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Gloo hero art](/images/heroes/art/gloo.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 35.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -341,6 +341,12 @@ While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra
 ### Who Gloo counters
 
 [![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
+
+## Gloo skins
+
+[![](/images/skins/cards/gloo/patrick.webp)PatrickDeluxe · 2025](https://boostmlbb.ru/en/skins/gloo/patrick.html)[![](/images/skins/cards/gloo/jellyman.webp)JellymanExceptional · 2023](https://boostmlbb.ru/en/skins/gloo/jellyman.html)[![](/images/skins/cards/gloo/verdant-enchanter.webp)Verdant EnchanterCommon · 2021](https://boostmlbb.ru/en/skins/gloo/verdant-enchanter.html)[![](/images/skins/cards/gloo/abominable-snowgloo.webp)Abominable Snowgloo](https://boostmlbb.ru/en/skins/gloo/abominable-snowgloo.html)
+
+[All 4 Gloo skins: prices and how to get them](https://boostmlbb.ru/en/skins/gloo.html)
 
 ## Lore
 

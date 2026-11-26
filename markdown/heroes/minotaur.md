@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/minotaur.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Минотавр](/images/heroes/art/minotaur.webp)
 
@@ -27,7 +27,7 @@ A
 
 10,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ A
 ### Кого контрит Минотавр
 
 [![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)
+
+## Скины Минотавра
+
+[![](/images/skins/cards/minotaur/nether-overseer.webp)Надзи­ратель преис­поднейДелюкс · 2026](https://boostmlbb.ru/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/minotaur/dreadnought.webp)ДредноутИсключительный · 2023](https://boostmlbb.ru/skins/minotaur/dreadnought.html)[![](/images/skins/cards/minotaur/taurus.webp)ТелецДелюкс · 2019](https://boostmlbb.ru/skins/minotaur/taurus.html)[![](/images/skins/cards/minotaur/sacred-hammer.webp)Священный молотОбычный · 2018](https://boostmlbb.ru/skins/minotaur/sacred-hammer.html)[![](/images/skins/cards/minotaur/orbiter.webp)ОрбитерОбычный · 2018](https://boostmlbb.ru/skins/minotaur/orbiter.html)[![](/images/skins/cards/minotaur/bursting-yama.webp)Неистовый ЯмаОбычный · 2016](https://boostmlbb.ru/skins/minotaur/bursting-yama.html)
+
+[Все 6 скинов Минотавра: цены и как получить](https://boostmlbb.ru/skins/minotaur.html)
 
 ## История
 

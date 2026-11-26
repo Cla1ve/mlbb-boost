@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/chip.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Чип](/images/heroes/art/chip.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,2%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -346,6 +346,12 @@ D
 ### Кого контрит Чип
 
 [![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)
+
+## Скины Чипа
+
+[![](/images/skins/cards/chip/nexus-engineer.webp)Инженер нексусаОбычный · 2024](https://boostmlbb.ru/skins/chip/nexus-engineer.html)[![](/images/skins/cards/chip/badlands-hiatus.webp)Привал в пустошахОбычный · 2024](https://boostmlbb.ru/skins/chip/badlands-hiatus.html)
+
+[Все 2 скина Чипа: цены и как получить](https://boostmlbb.ru/skins/chip.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/novaria.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Novaria hero art](/images/heroes/art/novaria.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -328,6 +328,12 @@ Novaria scatters Astral Echo in the target direction, briefly slowing enemy hero
 ### Who counters Novaria
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+
+## Novaria skins
+
+[![](/images/skins/cards/novaria/dragonsworn.webp)Dra­gonswornExquisite · 2025](https://boostmlbb.ru/en/skins/novaria/dragonsworn.html)[![](/images/skins/cards/novaria/sugar-glaze.webp)Sugar GlazeExceptional · 2024](https://boostmlbb.ru/en/skins/novaria/sugar-glaze.html)[![](/images/skins/cards/novaria/dark-star.webp)Dark StarCommon · 2023](https://boostmlbb.ru/en/skins/novaria/dark-star.html)
+
+[All 3 Novaria skins: prices and how to get them](https://boostmlbb.ru/en/skins/novaria.html)
 
 ## Lore
 

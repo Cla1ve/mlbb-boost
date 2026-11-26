@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/masha.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Маша](/images/heroes/art/masha.webp)
 
@@ -27,7 +27,7 @@ S
 
 67,2%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -342,6 +342,12 @@ S
 ### Кого контрит Маша
 
 [![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)
+
+## Скины Маши
+
+[![](/images/skins/cards/masha/mai-shiranui.webp)Май ШирануиГрандиозный · 2024](https://boostmlbb.ru/skins/masha/mai-shiranui.html)[![](/images/skins/cards/masha/rogue-talon.webp)Коготь разбойницыИсключительный · 2022](https://boostmlbb.ru/skins/masha/rogue-talon.html)[![](/images/skins/cards/masha/spirited-gauntlet.webp)Бойкая перчаткаОбычный · 2020](https://boostmlbb.ru/skins/masha/spirited-gauntlet.html)[![](/images/skins/cards/masha/dragon-armor.webp)Драконья броняДелюкс · 2020](https://boostmlbb.ru/skins/masha/dragon-armor.html)[![](/images/skins/cards/masha/combat-maiden.webp)Боевая деваИсключительный · 2020](https://boostmlbb.ru/skins/masha/combat-maiden.html)[![](/images/skins/cards/masha/winter-guard.webp)Зимняя стражаОбычный · 2019](https://boostmlbb.ru/skins/masha/winter-guard.html)
+
+[Все 6 скинов Маши: цены и как получить](https://boostmlbb.ru/skins/masha.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/carmilla.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кармилла](/images/heroes/art/carmilla.webp)
 
@@ -27,7 +27,7 @@ S
 
 37,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -334,6 +334,12 @@ S
 ### Кого контрит Кармилла
 
 [![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
+
+## Скины Кармиллы
+
+[![](/images/skins/cards/carmilla/astral-arcana.webp)Астральный арканДелюкс · 2024](https://boostmlbb.ru/skins/carmilla/astral-arcana.html)[![](/images/skins/cards/carmilla/phantom-countess.webp)Призрачная графиняИсключительный · 2021](https://boostmlbb.ru/skins/carmilla/phantom-countess.html)[![](/images/skins/cards/carmilla/magician-girl.webp)Девочка-волшебницаОбычный · 2020](https://boostmlbb.ru/skins/carmilla/magician-girl.html)[![](/images/skins/cards/carmilla/wisteria-countess.webp)Графиня глицинииОбычный · 2020](https://boostmlbb.ru/skins/carmilla/wisteria-countess.html)
+
+[Все 4 скина Кармиллы: цены и как получить](https://boostmlbb.ru/skins/carmilla.html)
 
 ## История
 

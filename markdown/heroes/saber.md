@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/saber.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сабер](/images/heroes/art/saber.webp)
 
@@ -27,7 +27,7 @@ B
 
 13,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -334,6 +334,12 @@ B
 ### Кого контрит Сабер
 
 [![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)
+
+## Скины Сабера
+
+[![](/images/skins/cards/saber/iron-hound.webp)Железный пёсИсключительный · 2023](https://boostmlbb.ru/skins/saber/iron-hound.html)[![](/images/skins/cards/saber/silver-edge.webp)Серебряный клинокОбычный · 2021](https://boostmlbb.ru/skins/saber/silver-edge.html)[![](/images/skins/cards/saber/onimaru.webp)ОнимаруИзысканный · 2019](https://boostmlbb.ru/skins/saber/onimaru.html)[![](/images/skins/cards/saber/s-a-b-e-r-regulator.webp)Регулятор S.A.B.E.R.Делюкс · 2018](https://boostmlbb.ru/skins/saber/s-a-b-e-r-regulator.html)[![](/images/skins/cards/saber/fullmetal-ronin.webp)Цельноме­таллический ронинОбычный · 2018](https://boostmlbb.ru/skins/saber/fullmetal-ronin.html)[![](/images/skins/cards/saber/codename-storm.webp)Кодовое имя: ШтормВысший · 2017](https://boostmlbb.ru/skins/saber/codename-storm.html)[![](/images/skins/cards/saber/force-warrior.webp)Воин силыИсключительный · 2016](https://boostmlbb.ru/skins/saber/force-warrior.html)[![](/images/skins/cards/saber/golden-flash.webp)Золотая вспышкаОбычный · 2016](https://boostmlbb.ru/skins/saber/golden-flash.html)
+
+[Все 8 скинов Сабера: цены и как получить](https://boostmlbb.ru/skins/saber.html)
 
 ## История
 

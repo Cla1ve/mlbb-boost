@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Gatotkaca hero art](/images/heroes/art/gatotkaca.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -333,6 +333,12 @@ The camera will move with the skill indicator but won't grant extra sight.
 ### Who Gatotkaca counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+
+## Gatotkaca skins
+
+[![](/images/skins/cards/gatotkaca/nutcracker-monarch.webp)Nutcracker MonarchExceptional · 2024](https://boostmlbb.ru/en/skins/gatotkaca/nutcracker-monarch.html)[![](/images/skins/cards/gatotkaca/tide-preserver.webp)Tide PreserverDeluxe · 2024](https://boostmlbb.ru/en/skins/gatotkaca/tide-preserver.html)[![](/images/skins/cards/gatotkaca/spark.webp)SparkCommon · 2019](https://boostmlbb.ru/en/skins/gatotkaca/spark.html)[![](/images/skins/cards/gatotkaca/sentinel.webp)SentinelExquisite · 2018](https://boostmlbb.ru/en/skins/gatotkaca/sentinel.html)[![](/images/skins/cards/gatotkaca/arhat-king.webp)Arhat KingCommon · 2018](https://boostmlbb.ru/en/skins/gatotkaca/arhat-king.html)[![](/images/skins/cards/gatotkaca/mighty-guardian.webp)Mighty GuardianCommon · 2017](https://boostmlbb.ru/en/skins/gatotkaca/mighty-guardian.html)[![](/images/skins/cards/gatotkaca/solar-spark.webp)Solar Spark](https://boostmlbb.ru/en/skins/gatotkaca/solar-spark.html)
+
+[All 7 Gatotkaca skins: prices and how to get them](https://boostmlbb.ru/en/skins/gatotkaca.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/argus.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Аргус](/images/heroes/art/argus.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,6%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -360,6 +360,12 @@ B
 ### Кого контрит Аргус
 
 [![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+
+## Скины Аргуса
+
+[![](/images/skins/cards/argus/raiden-maru.webp)Райден-маруИзысканный · 2026](https://boostmlbb.ru/skins/argus/raiden-maru.html)[![](/images/skins/cards/argus/darth-vader.webp)Дарт ВейдерГрандиозный · 2021](https://boostmlbb.ru/skins/argus/darth-vader.html)[![](/images/skins/cards/argus/winged-nightmare.webp)Крылатый кошмарОбычный · 2019](https://boostmlbb.ru/skins/argus/winged-nightmare.html)[![](/images/skins/cards/argus/catastrophe.webp)КатастрофаОбычный · 2018](https://boostmlbb.ru/skins/argus/catastrophe.html)[![](/images/skins/cards/argus/dark-draconic.webp)Тёмный драконИсключительный · 2017](https://boostmlbb.ru/skins/argus/dark-draconic.html)[![](/images/skins/cards/argus/light-of-dawn.webp)Свет зариОбычный · 2017](https://boostmlbb.ru/skins/argus/light-of-dawn.html)
+
+[Все 6 скинов Аргуса: цены и как получить](https://boostmlbb.ru/skins/argus.html)
 
 ## История
 

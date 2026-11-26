@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/akai.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Акай](/images/heroes/art/akai.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ C
 ### Кого контрит Акай
 
 [![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
+
+## Скины Акая
+
+[![](/images/skins/cards/akai/marvelous-maestro.webp)Чудесный маэстроДелюкс · 2024](https://boostmlbb.ru/skins/akai/marvelous-maestro.html)[![](/images/skins/cards/akai/pumpkin-brawler.webp)Тыквенный драчунИсключительный · 2023](https://boostmlbb.ru/skins/akai/pumpkin-brawler.html)[![](/images/skins/cards/akai/kung-fu-panda.webp)Кунг-фу ПандаГрандиозный · 2022](https://boostmlbb.ru/skins/akai/kung-fu-panda.html)[![](/images/skins/cards/akai/street-enforcer.webp)Уличный блюстительОбычный · 2021](https://boostmlbb.ru/skins/akai/street-enforcer.html)[![](/images/skins/cards/akai/stream-recluse.webp)Отшельник потокаОбычный · 2020](https://boostmlbb.ru/skins/akai/stream-recluse.html)[![](/images/skins/cards/akai/akazonae-samurai.webp)Самурай акадзонаэИсключительный · 2018](https://boostmlbb.ru/skins/akai/akazonae-samurai.html)[![](/images/skins/cards/akai/imperial-assassin.webp)Имперский убийцаИзысканный · 2018](https://boostmlbb.ru/skins/akai/imperial-assassin.html)[![](/images/skins/cards/akai/monk.webp)МонахОбычный · 2017](https://boostmlbb.ru/skins/akai/monk.html)[![](/images/skins/cards/akai/summer-party.webp)Летняя вечеринкаИсключительный · 2016](https://boostmlbb.ru/skins/akai/summer-party.html)
+
+[Все 9 скинов Акая: цены и как получить](https://boostmlbb.ru/skins/akai.html)
 
 ## История
 

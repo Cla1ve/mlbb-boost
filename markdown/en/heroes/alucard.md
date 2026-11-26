@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/alucard.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Alucard hero art](/images/heroes/art/alucard.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -280,6 +280,12 @@ Cooldown **40 s**
 ### Who Alucard counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
+
+## Alucard skins
+
+[![](/images/skins/cards/alucard/demon-s-bane.webp)Demon's BaneExceptional · 2025](https://boostmlbb.ru/en/skins/alucard/demon-s-bane.html)[![](/images/skins/cards/alucard/obi-wan-kenobi.webp)Obi-Wan KenobiGrand · 2021](https://boostmlbb.ru/en/skins/alucard/obi-wan-kenobi.html)[![](/images/skins/cards/alucard/lightborn-striker.webp)Lightborn - StrikerDeluxe · 2019](https://boostmlbb.ru/en/skins/alucard/lightborn-striker.html)[![](/images/skins/cards/alucard/empire-agent.webp)Empire AgentCommon · 2019](https://boostmlbb.ru/en/skins/alucard/empire-agent.html)[![](/images/skins/cards/alucard/obsidian-blade.webp)Obsidian BladeSupreme · 2019](https://boostmlbb.ru/en/skins/alucard/obsidian-blade.html)[![](/images/skins/cards/alucard/romantic-fantasy.webp)Romantic FantasyExceptional · 2018](https://boostmlbb.ru/en/skins/alucard/romantic-fantasy.html)[![](/images/skins/cards/alucard/viscount.webp)ViscountExceptional · 2017](https://boostmlbb.ru/en/skins/alucard/viscount.html)[![](/images/skins/cards/alucard/child-of-the-fall.webp)Child of the FallExquisite · 2017](https://boostmlbb.ru/en/skins/alucard/child-of-the-fall.html)[![](/images/skins/cards/alucard/fiery-inferno.webp)Fiery InfernoCommon · 2017](https://boostmlbb.ru/en/skins/alucard/fiery-inferno.html)[![](/images/skins/cards/alucard/lone-hero.webp)Lone HeroCommon · 2016](https://boostmlbb.ru/en/skins/alucard/lone-hero.html)
+
+[All 10 Alucard skins: prices and how to get them](https://boostmlbb.ru/en/skins/alucard.html)
 
 ## Lore
 

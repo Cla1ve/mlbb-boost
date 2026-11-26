@@ -1452,6 +1452,7 @@ function renderFooter(locale = 'ru') {
             <li><a href="${siteHref('/news/', locale)}">${escapeHtml(copy.news)}</a></li>
             <li><a href="${siteHref('/heroes/', locale)}">${locale === 'en' ? 'MLBB tier list' : 'Тир-лист MLBB'}</a></li>
             <li><a href="${siteHref('/items/', locale)}">${locale === 'en' ? 'MLBB items' : 'Предметы MLBB'}</a></li>
+            <li><a href="${siteHref('/skins/', locale)}">${locale === 'en' ? 'MLBB skins' : 'Скины MLBB'}</a></li>
             <li><a href="${siteHref('/about.html', locale)}">${escapeHtml(copy.about)}</a></li>
             <li><a href="${siteHref('/faq.html', locale)}">${escapeHtml(copy.faq)}</a></li>
             <li><a href="${siteHref('/sitemap-page.html', locale)}">${escapeHtml(copy.sitemap)}</a></li>
@@ -1534,7 +1535,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/legal.css?v=2">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
   <link rel="stylesheet" href="/styles/ui.css?v=32">
-  <link rel="stylesheet" href="/styles/arena.css?v=6">
+  <link rel="stylesheet" href="/styles/arena.css?v=7">
   <link rel="stylesheet" href="/styles/journal.css?v=7">`;
 }
 
@@ -2062,7 +2063,7 @@ function renderBlock(block, locale = 'ru') {
 
 function renderArenaNav(locale, active) {
   const ru = locale === 'ru';
-  return `<nav class="arena-context" aria-label="${ru ? 'Разделы Mobile Legends' : 'Mobile Legends sections'}"><a href="${siteHref('/heroes/', locale)}"${active === 'tier' ? ' aria-current="page"' : ''}>${ru ? 'Тир-лист' : 'Tier list'}</a><a href="${siteHref('/items/', locale)}">${ru ? 'Предметы' : 'Items'}</a><a href="${siteHref('/news/', locale)}"${active === 'news' ? ' aria-current="page"' : ''}>${ru ? 'Новости и гайды' : 'News & guides'}</a></nav>`;
+  return `<nav class="arena-context" aria-label="${ru ? 'Разделы Mobile Legends' : 'Mobile Legends sections'}"><a href="${siteHref('/heroes/', locale)}"${active === 'tier' ? ' aria-current="page"' : ''}>${ru ? 'Тир-лист' : 'Tier list'}</a><a href="${siteHref('/items/', locale)}">${ru ? 'Предметы' : 'Items'}</a><a href="${siteHref('/skins/', locale)}">${ru ? 'Скины' : 'Skins'}</a><a href="${siteHref('/news/', locale)}"${active === 'news' ? ' aria-current="page"' : ''}>${ru ? 'Новости<span class="ctx-more"> и гайды</span>' : 'News<span class="ctx-more"> & guides</span>'}</a></nav>`;
 }
 
 const articleRoutes = {

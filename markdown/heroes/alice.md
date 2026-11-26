@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/alice.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Алиса](/images/heroes/art/alice.webp)
 
@@ -27,7 +27,7 @@ A
 
 8,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -344,6 +344,12 @@ A
 ### Кого контрит Алиса
 
 [![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
+
+## Скины Алисы
+
+[![](/images/skins/cards/alice/dreaming-monarch.webp)Монархиня грёз2026](https://boostmlbb.ru/skins/alice/dreaming-monarch.html)[![](/images/skins/cards/alice/darknet-temptress.webp)Соблазни­тельница даркнетаДелюкс · 2024](https://boostmlbb.ru/skins/alice/darknet-temptress.html)[![](/images/skins/cards/alice/jade-empress.webp)Нефритовая импе­ратрицаОбычный · 2023](https://boostmlbb.ru/skins/alice/jade-empress.html)[![](/images/skins/cards/alice/steam-glider.webp)Паровой планерИсключительный · 2019](https://boostmlbb.ru/skins/alice/steam-glider.html)[![](/images/skins/cards/alice/divine-owl.webp)Божествен­ная соваИсключительный · 2018](https://boostmlbb.ru/skins/alice/divine-owl.html)[![](/images/skins/cards/alice/wizardry-teacher.webp)Учи­тельница магииИзысканный · 2017](https://boostmlbb.ru/skins/alice/wizardry-teacher.html)[![](/images/skins/cards/alice/spirit-woman.webp)Дух-покрови­тельницаОбычный · 2016](https://boostmlbb.ru/skins/alice/spirit-woman.html)
+
+[Все 7 скинов Алисы: цены и как получить](https://boostmlbb.ru/skins/alice.html)
 
 ## История
 

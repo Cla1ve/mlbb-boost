@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/vexana.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Вексана](/images/heroes/art/vexana.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,4%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -326,6 +326,12 @@ C
 ### Кто контрит Вексану
 
 [![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+
+## Скины Вексаны
+
+[![](/images/skins/cards/vexana/eternal-vow.webp)Вечная клятваДелюкс · 2026](https://boostmlbb.ru/skins/vexana/eternal-vow.html)[![](/images/skins/cards/vexana/twilight-star.webp)Сумеречная звездаГрандиозный · 2025](https://boostmlbb.ru/skins/vexana/twilight-star.html)[![](/images/skins/cards/vexana/twisted-fairytale.webp)Искажённая сказкаГрандиозный · 2024](https://boostmlbb.ru/skins/vexana/twisted-fairytale.html)[![](/images/skins/cards/vexana/the-sun-empress.webp)Солнечная импе­ратрицаИзысканный · 2023](https://boostmlbb.ru/skins/vexana/the-sun-empress.html)[![](/images/skins/cards/vexana/circus-magician.webp)Цирковая волшебницаИсключительный · 2022](https://boostmlbb.ru/skins/vexana/circus-magician.html)[![](/images/skins/cards/vexana/cursed-shackle.webp)Проклятые оковыОбычный · 2019](https://boostmlbb.ru/skins/vexana/cursed-shackle.html)[![](/images/skins/cards/vexana/sanguine-rose.webp)Кровавая розаДелюкс · 2018](https://boostmlbb.ru/skins/vexana/sanguine-rose.html)[![](/images/skins/cards/vexana/lucent-beacon.webp)Светлый маякОбычный · 2017](https://boostmlbb.ru/skins/vexana/lucent-beacon.html)
+
+[Все 8 скинов Вексаны: цены и как получить](https://boostmlbb.ru/skins/vexana.html)
 
 ## История
 

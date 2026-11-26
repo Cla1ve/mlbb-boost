@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/atlas.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Атлас](/images/heroes/art/atlas.webp)
 
@@ -27,7 +27,7 @@ A
 
 8,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ A
 ### Кого контрит Атлас
 
 [![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)
+
+## Скины Атласа
+
+[![](/images/skins/cards/atlas/sunken-curse.webp)Затонувшее проклятиеДелюкс · 2026](https://boostmlbb.ru/skins/atlas/sunken-curse.html)[![](/images/skins/cards/atlas/mecha-infernus.webp)Меха-ИнфернусИзысканный · 2024](https://boostmlbb.ru/skins/atlas/mecha-infernus.html)[![](/images/skins/cards/atlas/rune-of-sentinel.webp)Руна часовогоДелюкс · 2023](https://boostmlbb.ru/skins/atlas/rune-of-sentinel.html)[![](/images/skins/cards/atlas/space-mech.webp)Косми­ческий мехИсключительный · 2022](https://boostmlbb.ru/skins/atlas/space-mech.html)[![](/images/skins/cards/atlas/fuel-turbine.webp)Топливная турбинаОбычный · 2020](https://boostmlbb.ru/skins/atlas/fuel-turbine.html)[![](/images/skins/cards/atlas/reactor-core.webp)Ядро реактораОбычный · 2020](https://boostmlbb.ru/skins/atlas/reactor-core.html)[![](/images/skins/cards/atlas/maelstrom-lurker.webp)Тень водоворота](https://boostmlbb.ru/skins/atlas/maelstrom-lurker.html)
+
+[Все 7 скинов Атласа: цены и как получить](https://boostmlbb.ru/skins/atlas.html)
 
 ## История
 

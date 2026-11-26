@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/xavier.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Xavier hero art](/images/heroes/art/xavier.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ Once cast, he also directly enters the Transcendence state and resets the state'
 ### Who Xavier counters
 
 [![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Xavier skins
+
+[![](/images/skins/cards/xavier/sunborn-monarch.webp)Sunborn Monarch2026](https://boostmlbb.ru/en/skins/xavier/sunborn-monarch.html)[![](/images/skins/cards/xavier/beyond-the-clouds-xavier.webp)Beyond the Clouds XavierExquisite · 2024](https://boostmlbb.ru/en/skins/xavier/beyond-the-clouds-xavier.html)[![](/images/skins/cards/xavier/hardlight-artificer.webp)Hardlight ArtificerExceptional · 2024](https://boostmlbb.ru/en/skins/xavier/hardlight-artificer.html)[![](/images/skins/cards/xavier/satoru-gojo.webp)Satoru GojoGrand · 2023](https://boostmlbb.ru/en/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/xavier/verdict-of-light.webp)Verdict of LightCommon · 2022](https://boostmlbb.ru/en/skins/xavier/verdict-of-light.html)
+
+[All 5 Xavier skins: prices and how to get them](https://boostmlbb.ru/en/skins/xavier.html)
 
 ## Lore
 

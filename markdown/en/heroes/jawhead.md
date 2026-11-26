@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/jawhead.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Jawhead hero art](/images/heroes/art/jawhead.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -333,6 +333,12 @@ Jawhead charges into the target enemy hero, dealing 350 (+150% Total Physical At
 ### Who Jawhead counters
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
+
+## Jawhead skins
+
+[![](/images/skins/cards/jawhead/proto-guardian.webp)Proto GuardianDeluxe · 2025](https://boostmlbb.ru/en/skins/jawhead/proto-guardian.html)[![](/images/skins/cards/jawhead/victory-loader.webp)Victory LoaderCommon · 2024](https://boostmlbb.ru/en/skins/jawhead/victory-loader.html)[![](/images/skins/cards/jawhead/cyber-ranger.webp)Cyber RangerExceptional · 2023](https://boostmlbb.ru/en/skins/jawhead/cyber-ranger.html)[![](/images/skins/cards/jawhead/candy-bear.webp)Candy BearExceptional · 2021](https://boostmlbb.ru/en/skins/jawhead/candy-bear.html)[![](/images/skins/cards/jawhead/samurai-mech.webp)Samurai MechExquisite · 2020](https://boostmlbb.ru/en/skins/jawhead/samurai-mech.html)[![](/images/skins/cards/jawhead/foo-quarterback.webp)Foo Quar­terbackCommon · 2019](https://boostmlbb.ru/en/skins/jawhead/foo-quarterback.html)[![](/images/skins/cards/jawhead/the-nutcracker.webp)The NutcrackerExceptional · 2019](https://boostmlbb.ru/en/skins/jawhead/the-nutcracker.html)[![](/images/skins/cards/jawhead/space-explorer.webp)Space ExplorerExceptional · 2018](https://boostmlbb.ru/en/skins/jawhead/space-explorer.html)[![](/images/skins/cards/jawhead/girl-scout.webp)Girl ScoutCommon · 2018](https://boostmlbb.ru/en/skins/jawhead/girl-scout.html)
+
+[All 9 Jawhead skins: prices and how to get them](https://boostmlbb.ru/en/skins/jawhead.html)
 
 ## Lore
 

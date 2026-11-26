@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/odette.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Одетта](/images/heroes/art/odette.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -336,6 +336,12 @@ C
 ### Кого контрит Одетта
 
 [![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
+
+## Скины Одетты
+
+[![](/images/skins/cards/odette/song-of-devotion.webp)Песнь предан­ностиИзысканный · 2026](https://boostmlbb.ru/skins/odette/song-of-devotion.html)[![](/images/skins/cards/odette/wisdom-of-the-stars.webp)Мудрость звёздИсключительный · 2024](https://boostmlbb.ru/skins/odette/wisdom-of-the-stars.html)[![](/images/skins/cards/odette/sage-of-the-currents.webp)Мудрица теченийДелюкс · 2020](https://boostmlbb.ru/skins/odette/sage-of-the-currents.html)[![](/images/skins/cards/odette/auspicious-charm.webp)Благая удачаИсключительный · 2019](https://boostmlbb.ru/skins/odette/auspicious-charm.html)[![](/images/skins/cards/odette/virgo.webp)ДеваДелюкс · 2019](https://boostmlbb.ru/skins/odette/virgo.html)[![](/images/skins/cards/odette/mermaid-princess.webp)Принцесса-русалкаИзысканный · 2018](https://boostmlbb.ru/skins/odette/mermaid-princess.html)[![](/images/skins/cards/odette/butterfly-goddess.webp)Богиня-бабочкаИсключительный · 2018](https://boostmlbb.ru/skins/odette/butterfly-goddess.html)[![](/images/skins/cards/odette/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2018](https://boostmlbb.ru/skins/odette/christmas-carnival.html)[![](/images/skins/cards/odette/black-swan.webp)Чёрный лебедьОбычный · 2017](https://boostmlbb.ru/skins/odette/black-swan.html)
+
+[Все 9 скинов Одетты: цены и как получить](https://boostmlbb.ru/skins/odette.html)
 
 ## История
 

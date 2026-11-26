@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Chou hero art](/images/heroes/art/chou.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -330,6 +330,12 @@ Cast the skill again to chase up the target, dealing a total of 480 (+240% Extra
 ### Who counters Chou
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Chou skins
+
+[![](/images/skins/cards/chou/echo.webp)ECHODeluxe · 2023](https://boostmlbb.ru/en/skins/chou/echo.html)[![](/images/skins/cards/chou/dragon-shiryu.webp)Dragon ShiryuDeluxe · 2022](https://boostmlbb.ru/en/skins/chou/dragon-shiryu.html)[![](/images/skins/cards/chou/libra-shiryu.webp)Libra ShiryuGrand · 2022](https://boostmlbb.ru/en/skins/chou/libra-shiryu.html)[![](/images/skins/cards/chou/s-t-u-n-chou.webp)S.T.U.N. ChouDeluxe · 2021](https://boostmlbb.ru/en/skins/chou/s-t-u-n-chou.html)[![](/images/skins/cards/chou/thunderfist.webp)Thun­derfistGrand · 2021](https://boostmlbb.ru/en/skins/chou/thunderfist.html)[![](/images/skins/cards/chou/go-ballistic.webp)Go BallisticExceptional · 2019](https://boostmlbb.ru/en/skins/chou/go-ballistic.html)[![](/images/skins/cards/chou/iori-yagami.webp)Iori YagamiGrand · 2019](https://boostmlbb.ru/en/skins/chou/iori-yagami.html)[![](/images/skins/cards/chou/furious-tiger.webp)Furious TigerExceptional · 2018](https://boostmlbb.ru/en/skins/chou/furious-tiger.html)[![](/images/skins/cards/chou/king-of-muay-thai.webp)King of Muay ThaiCommon · 2017](https://boostmlbb.ru/en/skins/chou/king-of-muay-thai.html)[![](/images/skins/cards/chou/dragon-boy.webp)Dragon BoyExquisite · 2017](https://boostmlbb.ru/en/skins/chou/dragon-boy.html)[![](/images/skins/cards/chou/hip-hop-boy.webp)Hip-hop BoyCommon · 2016](https://boostmlbb.ru/en/skins/chou/hip-hop-boy.html)
+
+[All 11 Chou skins: prices and how to get them](https://boostmlbb.ru/en/skins/chou.html)
 
 ## Lore
 

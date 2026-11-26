@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kadita.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кадита](/images/heroes/art/kadita.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -277,6 +277,12 @@ B
 ### Кто контрит Кадиту
 
 [![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)
+
+## Скины Кадиты
+
+[![](/images/skins/cards/kadita/maiden-of-the-tide.webp)Дева приливаИсключительный · 2025](https://boostmlbb.ru/skins/kadita/maiden-of-the-tide.html)[![](/images/skins/cards/kadita/heart-of-the-sea.webp)Сердце моряДелюкс · 2024](https://boostmlbb.ru/skins/kadita/heart-of-the-sea.html)[![](/images/skins/cards/kadita/hydromancer.webp)ГидромантИсключительный · 2023](https://boostmlbb.ru/skins/kadita/hydromancer.html)[![](/images/skins/cards/kadita/white-robin.webp)Белая малиновкаИсключительный · 2019](https://boostmlbb.ru/skins/kadita/white-robin.html)[![](/images/skins/cards/kadita/atlantean-princess.webp)Принцесса АтлантидыОбычный · 2018](https://boostmlbb.ru/skins/kadita/atlantean-princess.html)[![](/images/skins/cards/kadita/anthem-of-tides.webp)Гимн приливов](https://boostmlbb.ru/skins/kadita/anthem-of-tides.html)
+
+[Все 6 скинов Кадиты: цены и как получить](https://boostmlbb.ru/skins/kadita.html)
 
 ## История
 

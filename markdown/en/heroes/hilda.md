@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hilda.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Hilda hero art](/images/heroes/art/hilda.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 4.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ Each stack of Wilderness Mark increases Power of Wildness's damage by 2.5% of th
 ### Who Hilda counters
 
 [![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+
+## Hilda skins
+
+[![](/images/skins/cards/hilda/guardian-battalion.webp)Guardian Battalion2026](https://boostmlbb.ru/en/skins/hilda/guardian-battalion.html)[![](/images/skins/cards/hilda/bass-craze.webp)Bass CrazeExceptional · 2021](https://boostmlbb.ru/en/skins/hilda/bass-craze.html)[![](/images/skins/cards/hilda/aries.webp)AriesDeluxe · 2019](https://boostmlbb.ru/en/skins/hilda/aries.html)[![](/images/skins/cards/hilda/sacred-guard.webp)Sacred GuardCommon · 2018](https://boostmlbb.ru/en/skins/hilda/sacred-guard.html)[![](/images/skins/cards/hilda/flower-of-the-wastes.webp)Flower of the WastesCommon · 2017](https://boostmlbb.ru/en/skins/hilda/flower-of-the-wastes.html)[![](/images/skins/cards/hilda/power-of-wildness.webp)Power of WildnessCommon · 2017](https://boostmlbb.ru/en/skins/hilda/power-of-wildness.html)
+
+[All 6 Hilda skins: prices and how to get them](https://boostmlbb.ru/en/skins/hilda.html)
 
 ## Lore
 

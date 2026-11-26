@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/mathilda.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Матильда](/images/heroes/art/mathilda.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,2%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -340,6 +340,12 @@ D
 ### Кого контрит Матильда
 
 [![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+
+## Скины Матильды
+
+[![](/images/skins/cards/mathilda/arcane-verdict.webp)Тайный вердиктИсключительный · 2026](https://boostmlbb.ru/skins/mathilda/arcane-verdict.html)[![](/images/skins/cards/mathilda/dreambound-pixie.webp)Пикси сновиденийДелюкс · 2025](https://boostmlbb.ru/skins/mathilda/dreambound-pixie.html)[![](/images/skins/cards/mathilda/dream-groove.webp)Ритм мечтыИсключительный · 2022](https://boostmlbb.ru/skins/mathilda/dream-groove.html)[![](/images/skins/cards/mathilda/floral-crown.webp)Цветочная коронаОбычный · 2021](https://boostmlbb.ru/skins/mathilda/floral-crown.html)[![](/images/skins/cards/mathilda/unrestrained-delight.webp)Безу­держный восторгОбычный · 2020](https://boostmlbb.ru/skins/mathilda/unrestrained-delight.html)
+
+[Все 5 скинов Матильды: цены и как получить](https://boostmlbb.ru/skins/mathilda.html)
 
 ## История
 

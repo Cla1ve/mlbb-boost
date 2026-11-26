@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aldous.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Aldous hero art](/images/heroes/art/aldous.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -344,6 +344,12 @@ Aldous can interrupt the target's Recall while dashing.
 ### Who Aldous counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
+
+## Aldous skins
+
+[![](/images/skins/cards/aldous/fathom-terror.webp)Fathom TerrorExceptional · 2025](https://boostmlbb.ru/en/skins/aldous/fathom-terror.html)[![](/images/skins/cards/aldous/mistbender-aldous.webp)Mistbender AldousGrand · 2023](https://boostmlbb.ru/en/skins/aldous/mistbender-aldous.html)[![](/images/skins/cards/aldous/starscream.webp)StarscreamGrand · 2022](https://boostmlbb.ru/en/skins/aldous/starscream.html)[![](/images/skins/cards/aldous/realm-watcher.webp)Realm WatcherExquisite · 2021](https://boostmlbb.ru/en/skins/aldous/realm-watcher.html)[![](/images/skins/cards/aldous/blazing-force.webp)Blazing ForceDeluxe · 2020](https://boostmlbb.ru/en/skins/aldous/blazing-force.html)[![](/images/skins/cards/aldous/king-of-supremacy.webp)King of SupremacyDeluxe · 2019](https://boostmlbb.ru/en/skins/aldous/king-of-supremacy.html)[![](/images/skins/cards/aldous/the-insentient.webp)The InsentientExceptional · 2019](https://boostmlbb.ru/en/skins/aldous/the-insentient.html)[![](/images/skins/cards/aldous/death.webp)DeathCommon · 2019](https://boostmlbb.ru/en/skins/aldous/death.html)[![](/images/skins/cards/aldous/red-mantle.webp)Red MantleCommon · 2018](https://boostmlbb.ru/en/skins/aldous/red-mantle.html)[![](/images/skins/cards/aldous/contractor.webp)Contractor2018](https://boostmlbb.ru/en/skins/aldous/contractor.html)
+
+[All 10 Aldous skins: prices and how to get them](https://boostmlbb.ru/en/skins/aldous.html)
 
 ## Lore
 

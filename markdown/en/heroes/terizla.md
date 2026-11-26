@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/terizla.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Terizla hero art](/images/heroes/art/terizla.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -334,6 +334,12 @@ Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) 
 ### Who Terizla counters
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
+
+## Terizla skins
+
+[![](/images/skins/cards/terizla/soulblight-tyrant.webp)Soulblight TyrantExquisite · 2025](https://boostmlbb.ru/en/skins/terizla/soulblight-tyrant.html)[![](/images/skins/cards/terizla/flames-of-judgement.webp)Flames of JudgementDeluxe · 2024](https://boostmlbb.ru/en/skins/terizla/flames-of-judgement.html)[![](/images/skins/cards/terizla/rustwreck.webp)RustwreckCommon · 2023](https://boostmlbb.ru/en/skins/terizla/rustwreck.html)[![](/images/skins/cards/terizla/flare.webp)FlareCommon · 2023](https://boostmlbb.ru/en/skins/terizla/flare.html)[![](/images/skins/cards/terizla/hammer-giant.webp)Hammer GiantExceptional · 2020](https://boostmlbb.ru/en/skins/terizla/hammer-giant.html)[![](/images/skins/cards/terizla/abyss-guard.webp)Abyss GuardCommon · 2019](https://boostmlbb.ru/en/skins/terizla/abyss-guard.html)
+
+[All 6 Terizla skins: prices and how to get them](https://boostmlbb.ru/en/skins/terizla.html)
 
 ## Lore
 

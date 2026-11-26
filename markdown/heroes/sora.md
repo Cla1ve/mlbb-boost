@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/sora.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сора](/images/heroes/art/sora.webp)
 
@@ -27,7 +27,7 @@ B
 
 3,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -343,6 +343,12 @@ B
 ### Кого контрит Сора
 
 [![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
+
+## Скины Соры
+
+[![](/images/skins/cards/sora/azure-cloud.webp)Лазурное облакоОбычный · 2025](https://boostmlbb.ru/skins/sora/azure-cloud.html)
+
+[Все 1 скин Соры: цены и как получить](https://boostmlbb.ru/skins/sora.html)
 
 ## История
 

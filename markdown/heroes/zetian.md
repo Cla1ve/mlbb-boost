@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/zetian.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Цзэтянь](/images/heroes/art/zetian.webp)
 
@@ -27,7 +27,7 @@ A
 
 3,2%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -336,6 +336,12 @@ A
 ### Кто контрит Цзэтянь
 
 [![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)
+
+## Скины Цзэтянь
+
+[![](/images/skins/cards/zetian/elysian-luminance.webp)Элизийское сияние2026](https://boostmlbb.ru/skins/zetian/elysian-luminance.html)[![](/images/skins/cards/zetian/heavenly-splendor.webp)Небесное велико­лепиеОбычный · 2025](https://boostmlbb.ru/skins/zetian/heavenly-splendor.html)
+
+[Все 2 скина Цзэтянь: цены и как получить](https://boostmlbb.ru/skins/zetian.html)
 
 ## История
 

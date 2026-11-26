@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yve.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Yve hero art](/images/heroes/art/yve.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ Yve cannot be displaced while the Starfield is active, and the Starfield will re
 ### Who Yve counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)
+
+## Yve skins
+
+[![](/images/skins/cards/yve/flame-lotus.webp)Flame LotusExceptional · 2025](https://boostmlbb.ru/en/skins/yve/flame-lotus.html)[![](/images/skins/cards/yve/ruin-protectress.webp)Ruin Pro­tectressCommon · 2022](https://boostmlbb.ru/en/skins/yve/ruin-protectress.html)[![](/images/skins/cards/yve/forest-hymn.webp)Forest HymnCommon · 2021](https://boostmlbb.ru/en/skins/yve/forest-hymn.html)
+
+[All 3 Yve skins: prices and how to get them](https://boostmlbb.ru/en/skins/yve.html)
 
 ## Lore
 

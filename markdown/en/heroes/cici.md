@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/cici.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Cici hero art](/images/heroes/art/cici.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -334,6 +334,12 @@ During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the 
 ### Who Cici counters
 
 [![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+
+## Cici skins
+
+[![](/images/skins/cards/cici/p-ace-cici.webp)P.ACE CiciDeluxe · 2025](https://boostmlbb.ru/en/skins/cici/p-ace-cici.html)[![](/images/skins/cards/cici/circus-reverie.webp)Circus ReverieExceptional · 2025](https://boostmlbb.ru/en/skins/cici/circus-reverie.html)[![](/images/skins/cards/cici/whimsical-carnival.webp)Whimsical CarnivalCommon · 2023](https://boostmlbb.ru/en/skins/cici/whimsical-carnival.html)
+
+[All 3 Cici skins: prices and how to get them](https://boostmlbb.ru/en/skins/cici.html)
 
 ## Lore
 

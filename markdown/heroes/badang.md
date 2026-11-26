@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/badang.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Баданг](/images/heroes/art/badang.webp)
 
@@ -27,7 +27,7 @@ B
 
 5,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -335,6 +335,12 @@ B
 ### Кто контрит Баданга
 
 [![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)
+
+## Скины Баданга
+
+[![](/images/skins/cards/badang/quantum-commando.webp)Квантовый коммандосИсключительный · 2026](https://boostmlbb.ru/skins/badang/quantum-commando.html)[![](/images/skins/cards/badang/steel-arms.webp)Стальные рукиИсключительный · 2025](https://boostmlbb.ru/skins/badang/steel-arms.html)[![](/images/skins/cards/badang/sagittarius-seiya.webp)Стрелец СэйяГрандиозный · 2022](https://boostmlbb.ru/skins/badang/sagittarius-seiya.html)[![](/images/skins/cards/badang/pegasus-seiya.webp)Пегас СэйяДелюкс · 2022](https://boostmlbb.ru/skins/badang/pegasus-seiya.html)[![](/images/skins/cards/badang/ironfists.webp)Железные кулакиОбычный · 2022](https://boostmlbb.ru/skins/badang/ironfists.html)[![](/images/skins/cards/badang/fist-of-zen.webp)Кулак дзенИзысканный · 2020](https://boostmlbb.ru/skins/badang/fist-of-zen.html)[![](/images/skins/cards/badang/leo.webp)ЛевДелюкс · 2019](https://boostmlbb.ru/skins/badang/leo.html)[![](/images/skins/cards/badang/susanoo.webp)СусанооИсключительный · 2018](https://boostmlbb.ru/skins/badang/susanoo.html)
+
+[Все 8 скинов Баданга: цены и как получить](https://boostmlbb.ru/skins/badang.html)
 
 ## История
 

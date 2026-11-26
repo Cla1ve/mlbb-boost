@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/dyrroth.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Dyrroth hero art](/images/heroes/art/dyrroth.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -348,6 +348,12 @@ Damage dealt to non-hero enemies is capped at 1500.
 ### Who Dyrroth counters
 
 [![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
+
+## Dyrroth skins
+
+[![](/images/skins/cards/dyrroth/gon.webp)GonGrand · 2025](https://boostmlbb.ru/en/skins/dyrroth/gon.html)[![](/images/skins/cards/dyrroth/naraka-flame.webp)Naraka FlameExquisite · 2023](https://boostmlbb.ru/en/skins/dyrroth/naraka-flame.html)[![](/images/skins/cards/dyrroth/v-e-n-o-m-cobra.webp)V.E.N.O.M. CobraDeluxe · 2022](https://boostmlbb.ru/en/skins/dyrroth/v-e-n-o-m-cobra.html)[![](/images/skins/cards/dyrroth/orochi-chris.webp)Orochi ChrisGrand · 2020](https://boostmlbb.ru/en/skins/dyrroth/orochi-chris.html)[![](/images/skins/cards/dyrroth/ruins-scavenger.webp)Ruins ScavengerExceptional · 2019](https://boostmlbb.ru/en/skins/dyrroth/ruins-scavenger.html)[![](/images/skins/cards/dyrroth/scalebore.webp)ScaleboreCommon · 2019](https://boostmlbb.ru/en/skins/dyrroth/scalebore.html)
+
+[All 6 Dyrroth skins: prices and how to get them](https://boostmlbb.ru/en/skins/dyrroth.html)
 
 ## Lore
 

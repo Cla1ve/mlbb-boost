@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Cecilion hero art](/images/heroes/art/cecilion.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -343,6 +343,12 @@ Carmilla can choose to leave Cecilion and charge at the target location, gaining
 ### Who counters Cecilion
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
+
+## Cecilion skins
+
+[![](/images/skins/cards/cecilion/hisoka.webp)HisokaGrand · 2025](https://boostmlbb.ru/en/skins/cecilion/hisoka.html)[![](/images/skins/cards/cecilion/crimson-wings.webp)Crimson WingsExquisite · 2022](https://boostmlbb.ru/en/skins/cecilion/crimson-wings.html)[![](/images/skins/cards/cecilion/stargazer.webp)StargazerExceptional · 2022](https://boostmlbb.ru/en/skins/cecilion/stargazer.html)[![](/images/skins/cards/cecilion/phantom-count.webp)Phantom CountExceptional · 2021](https://boostmlbb.ru/en/skins/cecilion/phantom-count.html)[![](/images/skins/cards/cecilion/the-illusionist.webp)The Illu­sionistCommon · 2020](https://boostmlbb.ru/en/skins/cecilion/the-illusionist.html)[![](/images/skins/cards/cecilion/wisteria-count.webp)Wisteria CountCommon · 2020](https://boostmlbb.ru/en/skins/cecilion/wisteria-count.html)
+
+[All 6 Cecilion skins: prices and how to get them](https://boostmlbb.ru/en/skins/cecilion.html)
 
 ## Lore
 

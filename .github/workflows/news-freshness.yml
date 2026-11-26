@@ -69,6 +69,20 @@ jobs:
         timeout-minutes: 5
         run: node scripts/m8-data.mjs
 
+      # Skins and their pictures from the MLBBDex API and the Mobile Legends Wiki (failures keep the previous data).
+      # Every day one request checks the list of the newest skins and refreshes only when a new one appears; Mondays do the full pass.
+      # A new skin shows its English name until a Russian one is added to content/skins-ru.json.
+      - name: Refresh skins
+        continue-on-error: true
+        timeout-minutes: 30
+        shell: bash
+        run: |
+          if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            node scripts/skins-data.mjs
+          else
+            node scripts/skins-data.mjs --if-new
+          fi
+
       - name: Build and validate public pages
         run: npm run site:prepare
 
@@ -87,7 +101,7 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- '*.html' en guides markdown content/public-data.json content/heroes.json content/heroes-academy.json content/heroes-play.json content/m8.json images/esports images/mlbb content/site-pages.json content/translation-gaps.json js/prices.js js/review-stats.js js/i18n-seo.js .well-known llms.txt llms-full.txt news-sitemap.xml sitemap.xml news
+          git add -- '*.html' en guides markdown content/public-data.json content/heroes.json content/heroes-academy.json content/heroes-play.json content/m8.json content/skins.json images/esports images/mlbb images/skins skins content/site-pages.json content/translation-gaps.json js/prices.js js/review-stats.js js/i18n-seo.js .well-known llms.txt llms-full.txt news-sitemap.xml sitemap.xml news
           git commit -m "chore(site): refresh public data, hero statistics and generated pages"
           git push origin HEAD:main
           # GITHUB_TOKEN commits do not trigger the default Pages build.

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yin.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Yin hero art](/images/heroes/art/yin.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -345,6 +345,12 @@ If Yin fails to pull his target into the domain, the skill will enter a 3s coold
 ### Who Yin counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+
+## Yin skins
+
+[![](/images/skins/cards/yin/eternal-guardian.webp)Eternal GuardianExceptional · 2023](https://boostmlbb.ru/en/skins/yin/eternal-guardian.html)[![](/images/skins/cards/yin/eren.webp)ErenGrand · 2023](https://boostmlbb.ru/en/skins/yin/eren.html)[![](/images/skins/cards/yin/yuji-itadori.webp)Yuji ItadoriGrand · 2023](https://boostmlbb.ru/en/skins/yin/yuji-itadori.html)[![](/images/skins/cards/yin/m-world-yin.webp)M-World YinDeluxe · 2022](https://boostmlbb.ru/en/skins/yin/m-world-yin.html)[![](/images/skins/cards/yin/fists-of-valor.webp)Fists of ValorCommon · 2022](https://boostmlbb.ru/en/skins/yin/fists-of-valor.html)
+
+[All 5 Yin skins: prices and how to get them](https://boostmlbb.ru/en/skins/yin.html)
 
 ## Lore
 

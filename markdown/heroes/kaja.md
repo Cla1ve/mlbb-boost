@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kaja.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кайя](/images/heroes/art/kaja.webp)
 
@@ -27,7 +27,7 @@ B
 
 30,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -336,6 +336,12 @@ B
 ### Кого контрит Кайя
 
 [![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
+
+## Скины Кайи
+
+[![](/images/skins/cards/kaja/inferno-taskmaster.webp)Адский надсмотрщикДелюкс · 2023](https://boostmlbb.ru/skins/kaja/inferno-taskmaster.html)[![](/images/skins/cards/kaja/crow-magician.webp)Ворон-магОбычный · 2020](https://boostmlbb.ru/skins/kaja/crow-magician.html)[![](/images/skins/cards/kaja/skyblocker.webp)Небесный заслонИзысканный · 2019](https://boostmlbb.ru/skins/kaja/skyblocker.html)[![](/images/skins/cards/kaja/horror-whiplash.webp)Хлыст ужасаОбычный · 2019](https://boostmlbb.ru/skins/kaja/horror-whiplash.html)[![](/images/skins/cards/kaja/kaminari.webp)КаминариИсключительный · 2019](https://boostmlbb.ru/skins/kaja/kaminari.html)[![](/images/skins/cards/kaja/commandment.webp)ЗаповедьОбычный · 2018](https://boostmlbb.ru/skins/kaja/commandment.html)
+
+[Все 6 скинов Кайи: цены и как получить](https://boostmlbb.ru/skins/kaja.html)
 
 ## История
 

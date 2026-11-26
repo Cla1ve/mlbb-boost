@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yu-zhong.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Yu Zhong hero art](/images/heroes/art/yu-zhong.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -345,6 +345,12 @@ Upon exiting the Black Dragon Form, Yu Zhong enters Dragonoid Form, gaining incr
 ### Who counters Yu Zhong
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
+
+## Yu Zhong skins
+
+[![](/images/skins/cards/yu-zhong/cosmic-dragon.webp)Cosmic DragonGrand · 2023](https://boostmlbb.ru/en/skins/yu-zhong/cosmic-dragon.html)[![](/images/skins/cards/yu-zhong/dragon-s-shade.webp)Dragon's ShadeDeluxe · 2023](https://boostmlbb.ru/en/skins/yu-zhong/dragon-s-shade.html)[![](/images/skins/cards/yu-zhong/exorcist-yu-zhong.webp)Exorcist Yu ZhongGrand · 2022](https://boostmlbb.ru/en/skins/yu-zhong/exorcist-yu-zhong.html)[![](/images/skins/cards/yu-zhong/blood-serpent.webp)Blood SerpentExquisite · 2021](https://boostmlbb.ru/en/skins/yu-zhong/blood-serpent.html)[![](/images/skins/cards/yu-zhong/biohazard.webp)BiohazardExceptional · 2020](https://boostmlbb.ru/en/skins/yu-zhong/biohazard.html)[![](/images/skins/cards/yu-zhong/emerald-dragon.webp)Emerald DragonCommon · 2020](https://boostmlbb.ru/en/skins/yu-zhong/emerald-dragon.html)
+
+[All 6 Yu Zhong skins: prices and how to get them](https://boostmlbb.ru/en/skins/yu-zhong.html)
 
 ## Lore
 

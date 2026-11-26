@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/julian.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Джулиан](/images/heroes/art/julian.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -337,6 +337,12 @@ C
 ### Кого контрит Джулиан
 
 [![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)
+
+## Скины Джулиана
+
+[![](/images/skins/cards/julian/meowkin-tracker.webp)Следопыт МяукиновДелюкс · 2025](https://boostmlbb.ru/skins/julian/meowkin-tracker.html)[![](/images/skins/cards/julian/kurapika.webp)КурапикаГрандиозный · 2025](https://boostmlbb.ru/skins/julian/kurapika.html)[![](/images/skins/cards/julian/megumi-fushiguro.webp)Мегуми ФушигуроГрандиозный · 2023](https://boostmlbb.ru/skins/julian/megumi-fushiguro.html)[![](/images/skins/cards/julian/silent-edge.webp)Безмолвный клинокОбычный · 2022](https://boostmlbb.ru/skins/julian/silent-edge.html)[![](/images/skins/cards/julian/itachi-uchiha.webp)Итачи Учиха](https://boostmlbb.ru/skins/julian/itachi-uchiha.html)
+
+[Все 5 скинов Джулиана: цены и как получить](https://boostmlbb.ru/skins/julian.html)
 
 ## История
 

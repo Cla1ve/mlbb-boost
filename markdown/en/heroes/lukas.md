@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lukas.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lukas hero art](/images/heroes/art/lukas.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 30.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -348,6 +348,12 @@ Ultimate
 ### Who Lukas counters
 
 [![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
+
+## Lukas skins
+
+[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Naruto UzumakiGrand · 2025](https://boostmlbb.ru/en/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/lukas/ardent-roar.webp)Ardent RoarCommon · 2024](https://boostmlbb.ru/en/skins/lukas/ardent-roar.html)
+
+[All 2 Lukas skins: prices and how to get them](https://boostmlbb.ru/en/skins/lukas.html)
 
 ## Lore
 

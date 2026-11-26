@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/rafaela.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Rafaela hero art](/images/heroes/art/rafaela.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 9.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -331,6 +331,12 @@ Rafaela unleashes the true power of Holy Light in the target direction, dealing 
 ### Who Rafaela counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
+
+## Rafaela skins
+
+[![](/images/skins/cards/rafaela/bloom-of-abundance.webp)Bloom of AbundanceDeluxe · 2025](https://boostmlbb.ru/en/skins/rafaela/bloom-of-abundance.html)[![](/images/skins/cards/rafaela/seraphic-selfie.webp)Seraphic SelfieExceptional · 2023](https://boostmlbb.ru/en/skins/rafaela/seraphic-selfie.html)[![](/images/skins/cards/rafaela/angelic-sonata.webp)Angelic SonataExceptional · 2022](https://boostmlbb.ru/en/skins/rafaela/angelic-sonata.html)[![](/images/skins/cards/rafaela/star-chaser.webp)Star ChaserCommon · 2020](https://boostmlbb.ru/en/skins/rafaela/star-chaser.html)[![](/images/skins/cards/rafaela/biomedic.webp)BiomedicExceptional · 2018](https://boostmlbb.ru/en/skins/rafaela/biomedic.html)[![](/images/skins/cards/rafaela/s-a-b-e-r-savior.webp)S.A.B.E.R. SaviorDeluxe · 2017](https://boostmlbb.ru/en/skins/rafaela/s-a-b-e-r-savior.html)[![](/images/skins/cards/rafaela/flower-fairy.webp)Flower FairyDeluxe · 2017](https://boostmlbb.ru/en/skins/rafaela/flower-fairy.html)[![](/images/skins/cards/rafaela/fertility-goddess.webp)Fertility GoddessCommon · 2016](https://boostmlbb.ru/en/skins/rafaela/fertility-goddess.html)
+
+[All 8 Rafaela skins: prices and how to get them](https://boostmlbb.ru/en/skins/rafaela.html)
 
 ## Lore
 

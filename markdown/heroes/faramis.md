@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/faramis.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Фарамис](/images/heroes/art/faramis.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,4%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ D
 ### Кого контрит Фарамис
 
 [![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+
+## Скины Фарамиса
+
+[![](/images/skins/cards/faramis/enigmatic-wayfarer.webp)Загадочный путникОбычный · 2025](https://boostmlbb.ru/skins/faramis/enigmatic-wayfarer.html)[![](/images/skins/cards/faramis/dark-necro.webp)Тёмный некромантОбычный · 2019](https://boostmlbb.ru/skins/faramis/dark-necro.html)[![](/images/skins/cards/faramis/infernal-magister.webp)Адский магистрДелюкс · 2018](https://boostmlbb.ru/skins/faramis/infernal-magister.html)[![](/images/skins/cards/faramis/summer-sparks.webp)Летние искрыИсключительный · 2018](https://boostmlbb.ru/skins/faramis/summer-sparks.html)[![](/images/skins/cards/faramis/royal-magus.webp)Коро­левский магОбычный · 2018](https://boostmlbb.ru/skins/faramis/royal-magus.html)
+
+[Все 5 скинов Фарамиса: цены и как получить](https://boostmlbb.ru/skins/faramis.html)
 
 ## История
 

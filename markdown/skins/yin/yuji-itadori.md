@@ -1,0 +1,68 @@
+---
+title: "Юдзи Итадори (Yuji Itadori) — скин Иня в MLBB | MLBB Boost"
+description: "Скин Иня «Юдзи Итадори» (Yuji Itadori) в Mobile Legends: класс грандиозный, серия «Магическая битва», вышел 18 февраля 2023. Выходил в событии коллаборации MLBB × Jujutsu Kaisen."
+canonical: https://boostmlbb.ru/skins/yin/yuji-itadori.html
+language: ru
+---
+
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+
+[Скины](https://boostmlbb.ru/skins/)/[Инь](https://boostmlbb.ru/skins/yin.html)/Юдзи Итадори
+
+![Инь в облике «Юдзи Итадори»](/images/skins/cards/yin/yuji-itadori.webp)
+
+[![](/images/heroes/yin.webp)Скин Иня](https://boostmlbb.ru/skins/yin.html)
+
+# Юдзи Итадори
+
+Yuji Itadori
+
+Грандиозный GrandМагическая битваОграниченный
+
+Как получить
+
+Выходил в событии коллаборации MLBB × Jujutsu Kaisen.
+
+Вышел
+
+18 февраля 2023
+
+## Что меняет облик
+
+-   Новая внешность
+-   Новые эффекты навыков
+-   Звуки навыков
+-   Своя озвучка
+-   Иконки навыков
+-   Анимация показа
+-   Сцена показа
+-   Музыка показа
+-   Анимация появления
+-   Особые действия
+-   Бонус к характеристикам
+
+## Все скины Иня [5](https://boostmlbb.ru/skins/yin.html)
+
+[![](/images/skins/cards/yin/eternal-guardian.webp)Вечный стражИсключительный · 2023](https://boostmlbb.ru/skins/yin/eternal-guardian.html)[![](/images/skins/cards/yin/eren.webp)ЭренГрандиозный · 2023](https://boostmlbb.ru/skins/yin/eren.html)[![](/images/skins/cards/yin/yuji-itadori.webp)Юдзи ИтадориГрандиозный · 2023](https://boostmlbb.ru/skins/yin/yuji-itadori.html)[![](/images/skins/cards/yin/m-world-yin.webp)Инь M-WorldДелюкс · 2022](https://boostmlbb.ru/skins/yin/m-world-yin.html)[![](/images/skins/cards/yin/fists-of-valor.webp)Кулаки доблестиОбычный · 2022](https://boostmlbb.ru/skins/yin/fists-of-valor.html)
+
+## Серия «Магическая битва»
+
+[![](/images/skins/cards/julian/megumi-fushiguro.webp)Мегуми ФушигуроДжулиан · 2023](https://boostmlbb.ru/skins/julian/megumi-fushiguro.html)[![](/images/skins/cards/xavier/satoru-gojo.webp)Сатору ГоджоКсавьер · 2023](https://boostmlbb.ru/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Нобара КугисакиМелисса · 2023](https://boostmlbb.ru/skins/melissa/nobara-kugisaki.html)
+
+**Поднимем ранг на герое Инь**Цена считается в калькуляторе
+
+[Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
+
+## Частые вопросы
+
+Как получить скин «Юдзи Итадори» на Иня?
+
+Выходил в событии коллаборации MLBB × Jujutsu Kaisen.
+
+Когда вышел скин «Юдзи Итадори»?
+
+18 февраля 2023.
+
+Какой класс у скина «Юдзи Итадори»?
+
+Грандиозный (Grand), серия «Магическая битва».

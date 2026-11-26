@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kadita.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kadita hero art](/images/heroes/art/kadita.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -277,6 +277,12 @@ This skill can only be interrupted by Suppression.
 ### Who counters Kadita
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
+
+## Kadita skins
+
+[![](/images/skins/cards/kadita/maiden-of-the-tide.webp)Maiden of the TideExceptional · 2025](https://boostmlbb.ru/en/skins/kadita/maiden-of-the-tide.html)[![](/images/skins/cards/kadita/heart-of-the-sea.webp)Heart of the SeaDeluxe · 2024](https://boostmlbb.ru/en/skins/kadita/heart-of-the-sea.html)[![](/images/skins/cards/kadita/hydromancer.webp)Hydro­mancerExceptional · 2023](https://boostmlbb.ru/en/skins/kadita/hydromancer.html)[![](/images/skins/cards/kadita/white-robin.webp)White RobinExceptional · 2019](https://boostmlbb.ru/en/skins/kadita/white-robin.html)[![](/images/skins/cards/kadita/atlantean-princess.webp)Atlantean PrincessCommon · 2018](https://boostmlbb.ru/en/skins/kadita/atlantean-princess.html)[![](/images/skins/cards/kadita/anthem-of-tides.webp)Anthem of Tides](https://boostmlbb.ru/en/skins/kadita/anthem-of-tides.html)
+
+[All 6 Kadita skins: prices and how to get them](https://boostmlbb.ru/en/skins/kadita.html)
 
 ## Lore
 

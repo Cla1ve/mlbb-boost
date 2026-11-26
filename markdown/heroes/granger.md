@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/granger.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Грейнджер](/images/heroes/art/granger.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ C
 ### Кого контрит Грейнджер
 
 [![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+
+## Скины Грейнджера
+
+[![](/images/skins/cards/granger/lightborn-overrider.webp)Рождённый светом: ПодавительДелюкс · 2024](https://boostmlbb.ru/skins/granger/lightborn-overrider.html)[![](/images/skins/cards/granger/alluring-enigma.webp)Манящая загадкаДелюкс · 2024](https://boostmlbb.ru/skins/granger/alluring-enigma.html)[![](/images/skins/cards/granger/exorcist-granger.webp)Экзорцист ГрейнджерГрандиозный · 2023](https://boostmlbb.ru/skins/granger/exorcist-granger.html)[![](/images/skins/cards/granger/hellbringer.webp)Вестник адаИсключительный · 2023](https://boostmlbb.ru/skins/granger/hellbringer.html)[![](/images/skins/cards/granger/megatron.webp)МегатронГрандиозный · 2023](https://boostmlbb.ru/skins/granger/megatron.html)[![](/images/skins/cards/granger/starfall-knight.webp)Рыцарь звездопадаВысший · 2021](https://boostmlbb.ru/skins/granger/starfall-knight.html)[![](/images/skins/cards/granger/agent-z.webp)Агент ZИзысканный · 2020](https://boostmlbb.ru/skins/granger/agent-z.html)[![](/images/skins/cards/granger/biosoldier.webp)БиосолдатИсключительный · 2020](https://boostmlbb.ru/skins/granger/biosoldier.html)[![](/images/skins/cards/granger/doomsday-terminator.webp)Терминатор судного дняОбычный · 2019](https://boostmlbb.ru/skins/granger/doomsday-terminator.html)[![](/images/skins/cards/granger/bardic-whisper.webp)Шёпот бардаОбычный · 2019](https://boostmlbb.ru/skins/granger/bardic-whisper.html)[![](/images/skins/cards/granger/cosmic-finality.webp)Косми­ческий финал](https://boostmlbb.ru/skins/granger/cosmic-finality.html)[![](/images/skins/cards/granger/thunder-ascendant.webp)Восходящий гром](https://boostmlbb.ru/skins/granger/thunder-ascendant.html)
+
+[Все 12 скинов Грейнджера: цены и как получить](https://boostmlbb.ru/skins/granger.html)
 
 ## История
 

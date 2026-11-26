@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/johnson.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Johnson hero art](/images/heroes/art/johnson.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Johnson's location is revealed to enemies for 3s when he casts this skill.
 ### Who Johnson counters
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
+
+## Johnson skins
+
+[![](/images/skins/cards/johnson/sovereign-of-realms.webp)Sovereign of RealmsSupreme · 2025](https://boostmlbb.ru/en/skins/johnson/sovereign-of-realms.html)[![](/images/skins/cards/johnson/optimus-prime.webp)Optimus PrimeGrand · 2023](https://boostmlbb.ru/en/skins/johnson/optimus-prime.html)[![](/images/skins/cards/johnson/starblazer.webp)StarblazerExceptional · 2023](https://boostmlbb.ru/en/skins/johnson/starblazer.html)[![](/images/skins/cards/johnson/death-ride.webp)Death RideExceptional · 2021](https://boostmlbb.ru/en/skins/johnson/death-ride.html)[![](/images/skins/cards/johnson/wreck-king.webp)Wreck KingExquisite · 2019](https://boostmlbb.ru/en/skins/johnson/wreck-king.html)[![](/images/skins/cards/johnson/jeepney-racer.webp)Jeepney RacerCommon · 2018](https://boostmlbb.ru/en/skins/johnson/jeepney-racer.html)[![](/images/skins/cards/johnson/s-a-b-e-r-automata.webp)S.A.B.E.R. AutomataDeluxe · 2018](https://boostmlbb.ru/en/skins/johnson/s-a-b-e-r-automata.html)[![](/images/skins/cards/johnson/fire-chief.webp)Fire ChiefCommon · 2017](https://boostmlbb.ru/en/skins/johnson/fire-chief.html)
+
+[All 8 Johnson skins: prices and how to get them](https://boostmlbb.ru/en/skins/johnson.html)
 
 ## Lore
 

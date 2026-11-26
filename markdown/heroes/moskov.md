@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/moskov.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Москов](/images/heroes/art/moskov.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -337,6 +337,12 @@ B
 ### Кого контрит Москов
 
 [![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
+
+## Скины Москова
+
+[![](/images/skins/cards/moskov/infernal-wrymlord.webp)Адский повелитель змиевГрандиозный · 2024](https://boostmlbb.ru/skins/moskov/infernal-wrymlord.html)[![](/images/skins/cards/moskov/doom-incarnate.webp)Воплощение рокаГрандиозный · 2023](https://boostmlbb.ru/skins/moskov/doom-incarnate.html)[![](/images/skins/cards/moskov/violet-spear.webp)Фиолетовое копьёИсключительный · 2023](https://boostmlbb.ru/skins/moskov/violet-spear.html)[![](/images/skins/cards/moskov/twilight-dragon.webp)Сумеречный драконИзысканный · 2019](https://boostmlbb.ru/skins/moskov/twilight-dragon.html)[![](/images/skins/cards/moskov/decapitator.webp)Обезглав­ливательОбычный · 2018](https://boostmlbb.ru/skins/moskov/decapitator.html)[![](/images/skins/cards/moskov/javelin-champion.webp)Чемпион по метанию копьяИсключительный · 2018](https://boostmlbb.ru/skins/moskov/javelin-champion.html)[![](/images/skins/cards/moskov/yasha.webp)ЯкшаОбычный · 2018](https://boostmlbb.ru/skins/moskov/yasha.html)[![](/images/skins/cards/moskov/blood-spear.webp)Кровавое копьёДелюкс · 2017](https://boostmlbb.ru/skins/moskov/blood-spear.html)[![](/images/skins/cards/moskov/snake-eye-commander.webp)Командир Змеиный ГлазИсключительный · 2017](https://boostmlbb.ru/skins/moskov/snake-eye-commander.html)[![](/images/skins/cards/moskov/spear-of-bone-dragon.webp)Копьё костяного драконаОбычный · 2017](https://boostmlbb.ru/skins/moskov/spear-of-bone-dragon.html)
+
+[Все 10 скинов Москова: цены и как получить](https://boostmlbb.ru/skins/moskov.html)
 
 ## История
 

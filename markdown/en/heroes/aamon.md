@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Aamon hero art](/images/heroes/art/aamon.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -342,6 +342,12 @@ The damage dealt increases with the target's lost , to the max when the target's
 ### Who Aamon counters
 
 [![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)
+
+## Aamon skins
+
+[![](/images/skins/cards/aamon/soul-reaver.webp)Soul ReaverExquisite · 2025](https://boostmlbb.ru/en/skins/aamon/soul-reaver.html)[![](/images/skins/cards/aamon/vessel-of-deceit.webp)Vessel of DeceitGrand · 2023](https://boostmlbb.ru/en/skins/aamon/vessel-of-deceit.html)[![](/images/skins/cards/aamon/cyber-assassin.webp)Cyber AssassinExceptional · 2023](https://boostmlbb.ru/en/skins/aamon/cyber-assassin.html)[![](/images/skins/cards/aamon/noble-crest.webp)Noble CrestCommon · 2022](https://boostmlbb.ru/en/skins/aamon/noble-crest.html)[![](/images/skins/cards/aamon/night-s-edge.webp)Night's EdgeCommon · 2021](https://boostmlbb.ru/en/skins/aamon/night-s-edge.html)
+
+[All 5 Aamon skins: prices and how to get them](https://boostmlbb.ru/en/skins/aamon.html)
 
 ## Lore
 

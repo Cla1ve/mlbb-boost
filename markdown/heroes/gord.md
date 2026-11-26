@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gord.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Горд](/images/heroes/art/gord.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -331,6 +331,12 @@ C
 ### Кого контрит Горд
 
 [![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+
+## Скины Горда
+
+[![](/images/skins/cards/gord/imperator-vitalis.webp)Император ВиталисИсключительный · 2025](https://boostmlbb.ru/skins/gord/imperator-vitalis.html)[![](/images/skins/cards/gord/cyber-hacker.webp)Кибер-хакерДелюкс · 2024](https://boostmlbb.ru/skins/gord/cyber-hacker.html)[![](/images/skins/cards/gord/new-baron.webp)Новый баронОбычный · 2021](https://boostmlbb.ru/skins/gord/new-baron.html)[![](/images/skins/cards/gord/no-1-controller.webp)Контролёр №1Изысканный · 2019](https://boostmlbb.ru/skins/gord/no-1-controller.html)[![](/images/skins/cards/gord/conqueror.webp)Завое­вательВысший · 2018](https://boostmlbb.ru/skins/gord/conqueror.html)[![](/images/skins/cards/gord/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2016](https://boostmlbb.ru/skins/gord/christmas-carnival.html)[![](/images/skins/cards/gord/professor-of-hell.webp)Профессор адаОбычный · 2016](https://boostmlbb.ru/skins/gord/professor-of-hell.html)
+
+[Все 7 скинов Горда: цены и как получить](https://boostmlbb.ru/skins/gord.html)
 
 ## История
 

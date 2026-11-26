@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/uranus.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Uranus hero art](/images/heroes/art/uranus.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Uranus directly gains 5 stacks of Radiance, increasing shields received and HP R
 ### Who Uranus counters
 
 [![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+
+## Uranus skins
+
+[![](/images/skins/cards/uranus/earthen-relic.webp)Earthen RelicCommon · 2023](https://boostmlbb.ru/en/skins/uranus/earthen-relic.html)[![](/images/skins/cards/uranus/pinball-machine.webp)Pinball MachineExceptional · 2022](https://boostmlbb.ru/en/skins/uranus/pinball-machine.html)[![](/images/skins/cards/uranus/celestial-bastion.webp)Celestial BastionDeluxe · 2022](https://boostmlbb.ru/en/skins/uranus/celestial-bastion.html)[![](/images/skins/cards/uranus/video-game-dominator.webp)Video-Game DominatorExquisite · 2020](https://boostmlbb.ru/en/skins/uranus/video-game-dominator.html)[![](/images/skins/cards/uranus/mech-protector.webp)Mech ProtectorExceptional · 2019](https://boostmlbb.ru/en/skins/uranus/mech-protector.html)[![](/images/skins/cards/uranus/ancient-soul.webp)Ancient SoulCommon · 2018](https://boostmlbb.ru/en/skins/uranus/ancient-soul.html)
+
+[All 6 Uranus skins: prices and how to get them](https://boostmlbb.ru/en/skins/uranus.html)
 
 ## Lore
 

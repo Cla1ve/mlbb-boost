@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/eudora.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Эйдора](/images/heroes/art/eudora.webp)
 
@@ -27,7 +27,7 @@ A
 
 33,4%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ A
 ### Кого контрит Эйдора
 
 [![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
+
+## Скины Эйдоры
+
+[![](/images/skins/cards/eudora/midnight-s-allure.webp)Чары полуночиДелюкс · 2026](https://boostmlbb.ru/skins/eudora/midnight-s-allure.html)[![](/images/skins/cards/eudora/atomic-pop-eudora.webp)Эйдора Atomic PopДелюкс · 2023](https://boostmlbb.ru/skins/eudora/atomic-pop-eudora.html)[![](/images/skins/cards/eudora/cosmic-voyage.webp)Косми­ческое путе­шествиеИсключительный · 2022](https://boostmlbb.ru/skins/eudora/cosmic-voyage.html)[![](/images/skins/cards/eudora/countess-scarlet.webp)Графиня СкарлетОбычный · 2020](https://boostmlbb.ru/skins/eudora/countess-scarlet.html)[![](/images/skins/cards/eudora/vivo-selfie-goddess.webp)Богиня селфи VivoИсключительный · 2017](https://boostmlbb.ru/skins/eudora/vivo-selfie-goddess.html)[![](/images/skins/cards/eudora/emerald-enchantress.webp)Изумрудная чародейкаИзысканный · 2017](https://boostmlbb.ru/skins/eudora/emerald-enchantress.html)[![](/images/skins/cards/eudora/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2016](https://boostmlbb.ru/skins/eudora/christmas-carnival.html)[![](/images/skins/cards/eudora/flame-red-lips.webp)Огненно-алые губыОбычный · 2016](https://boostmlbb.ru/skins/eudora/flame-red-lips.html)
+
+[Все 8 скинов Эйдоры: цены и как получить](https://boostmlbb.ru/skins/eudora.html)
 
 ## История
 

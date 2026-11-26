@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/akai.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Akai hero art](/images/heroes/art/akai.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ This skill can only be interrupted by Suppression.
 ### Who Akai counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
+
+## Akai skins
+
+[![](/images/skins/cards/akai/marvelous-maestro.webp)Marvelous MaestroDeluxe · 2024](https://boostmlbb.ru/en/skins/akai/marvelous-maestro.html)[![](/images/skins/cards/akai/pumpkin-brawler.webp)Pumpkin BrawlerExceptional · 2023](https://boostmlbb.ru/en/skins/akai/pumpkin-brawler.html)[![](/images/skins/cards/akai/kung-fu-panda.webp)Kung Fu PandaGrand · 2022](https://boostmlbb.ru/en/skins/akai/kung-fu-panda.html)[![](/images/skins/cards/akai/street-enforcer.webp)Street EnforcerCommon · 2021](https://boostmlbb.ru/en/skins/akai/street-enforcer.html)[![](/images/skins/cards/akai/stream-recluse.webp)Stream RecluseCommon · 2020](https://boostmlbb.ru/en/skins/akai/stream-recluse.html)[![](/images/skins/cards/akai/akazonae-samurai.webp)Akazonae SamuraiExceptional · 2018](https://boostmlbb.ru/en/skins/akai/akazonae-samurai.html)[![](/images/skins/cards/akai/imperial-assassin.webp)Imperial AssassinExquisite · 2018](https://boostmlbb.ru/en/skins/akai/imperial-assassin.html)[![](/images/skins/cards/akai/monk.webp)MonkCommon · 2017](https://boostmlbb.ru/en/skins/akai/monk.html)[![](/images/skins/cards/akai/summer-party.webp)Summer PartyExceptional · 2016](https://boostmlbb.ru/en/skins/akai/summer-party.html)
+
+[All 9 Akai skins: prices and how to get them](https://boostmlbb.ru/en/skins/akai.html)
 
 ## Lore
 

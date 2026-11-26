@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/change.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Чан'Э](/images/heroes/art/change.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ C
 ### Кого контрит Чан'Э
 
 [![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+
+## Скины Чан'Э
+
+[![](/images/skins/cards/change/golden-osmanthus.webp)Золотой османтусОбычный · 2026](https://boostmlbb.ru/skins/change/golden-osmanthus.html)[![](/images/skins/cards/change/moonglow-troupe.webp)Труппа лунного светаИсключительный · 2025](https://boostmlbb.ru/skins/change/moonglow-troupe.html)[![](/images/skins/cards/change/tech-tensai.webp)Техни­ческий генийГрандиозный · 2024](https://boostmlbb.ru/skins/change/tech-tensai.html)[![](/images/skins/cards/change/new-moon.webp)НоволуниеДелюкс · 2023](https://boostmlbb.ru/skins/change/new-moon.html)[![](/images/skins/cards/change/moon-artist.webp)Лунная художницаГрандиозный · 2022](https://boostmlbb.ru/skins/change/moon-artist.html)[![](/images/skins/cards/change/vine-cradle.webp)Колыбель из лозДелюкс · 2021](https://boostmlbb.ru/skins/change/vine-cradle.html)[![](/images/skins/cards/change/strawberry-parfait.webp)Клубничное парфеИсключительный · 2020](https://boostmlbb.ru/skins/change/strawberry-parfait.html)[![](/images/skins/cards/change/lunar-magic.webp)Лунная магияИзысканный · 2020](https://boostmlbb.ru/skins/change/lunar-magic.html)[![](/images/skins/cards/change/floral-elfo.webp)Цветочная эльфийкаИсключительный · 2019](https://boostmlbb.ru/skins/change/floral-elfo.html)[![](/images/skins/cards/change/crimson-moon.webp)Багровая лунаОбычный · 2019](https://boostmlbb.ru/skins/change/crimson-moon.html)[![](/images/skins/cards/change/moonstruck.webp)ЛунатичкаОбычный · 2018](https://boostmlbb.ru/skins/change/moonstruck.html)
+
+[Все 11 скинов Чан'Э: цены и как получить](https://boostmlbb.ru/skins/change.html)
 
 ## История
 

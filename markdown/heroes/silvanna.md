@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/silvanna.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сильвана](/images/heroes/art/silvanna.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -341,6 +341,12 @@ C
 ### Кого контрит Сильвана
 
 [![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
+
+## Скины Сильваны
+
+[![](/images/skins/cards/silvanna/meowkin-warden.webp)Стражница МяукиновДелюкс · 2025](https://boostmlbb.ru/skins/silvanna/meowkin-warden.html)[![](/images/skins/cards/silvanna/classroom-charm.webp)Очарование классаИсключительный · 2024](https://boostmlbb.ru/skins/silvanna/classroom-charm.html)[![](/images/skins/cards/silvanna/verdant-lancer.webp)Зелёная копейщицаОбычный · 2024](https://boostmlbb.ru/skins/silvanna/verdant-lancer.html)[![](/images/skins/cards/silvanna/alluring-mystique.webp)Манящая мистикаДелюкс · 2024](https://boostmlbb.ru/skins/silvanna/alluring-mystique.html)[![](/images/skins/cards/silvanna/queen-frost.webp)Королева морозаИзысканный · 2022](https://boostmlbb.ru/skins/silvanna/queen-frost.html)[![](/images/skins/cards/silvanna/future-cop.webp)Поли­цейская будущегоОбычный · 2021](https://boostmlbb.ru/skins/silvanna/future-cop.html)[![](/images/skins/cards/silvanna/pure-heroine.webp)Чистая героиняИсключительный · 2020](https://boostmlbb.ru/skins/silvanna/pure-heroine.html)[![](/images/skins/cards/silvanna/midnight-justice.webp)Полуночное правосудиеОбычный · 2020](https://boostmlbb.ru/skins/silvanna/midnight-justice.html)[![](/images/skins/cards/silvanna/hallowed-lance.webp)Освящённое копьёОбычный · 2019](https://boostmlbb.ru/skins/silvanna/hallowed-lance.html)
+
+[Все 9 скинов Сильваны: цены и как получить](https://boostmlbb.ru/skins/silvanna.html)
 
 ## История
 

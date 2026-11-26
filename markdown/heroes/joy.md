@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/joy.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Джой](/images/heroes/art/joy.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -334,6 +334,12 @@ D
 ### Кого контрит Джой
 
 [![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)
+
+## Скины Джой
+
+[![](/images/skins/cards/joy/exostar-scout.webp)Разведчица ЭкзостарИсключительный · 2025](https://boostmlbb.ru/skins/joy/exostar-scout.html)[![](/images/skins/cards/joy/royal-protector.webp)Коро­левская защитницаОбычный · 2023](https://boostmlbb.ru/skins/joy/royal-protector.html)[![](/images/skins/cards/joy/feline-ranger.webp)Кошачий рейнджерОбычный · 2022](https://boostmlbb.ru/skins/joy/feline-ranger.html)
+
+[Все 3 скина Джой: цены и как получить](https://boostmlbb.ru/skins/joy.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/chip.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Chip hero art](/images/heroes/art/chip.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -346,6 +346,12 @@ Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to te
 ### Who Chip counters
 
 [![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
+
+## Chip skins
+
+[![](/images/skins/cards/chip/nexus-engineer.webp)Nexus EngineerCommon · 2024](https://boostmlbb.ru/en/skins/chip/nexus-engineer.html)[![](/images/skins/cards/chip/badlands-hiatus.webp)Badlands HiatusCommon · 2024](https://boostmlbb.ru/en/skins/chip/badlands-hiatus.html)
+
+[All 2 Chip skins: prices and how to get them](https://boostmlbb.ru/en/skins/chip.html)
 
 ## Lore
 

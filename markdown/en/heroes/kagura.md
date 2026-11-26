@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kagura hero art](/images/heroes/art/kagura.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -334,6 +334,12 @@ Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic P
 ### Who Kagura counters
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)
+
+## Kagura skins
+
+[![](/images/skins/cards/kagura/lady-parasol.webp)Lady ParasolExceptional · 2025](https://boostmlbb.ru/en/skins/kagura/lady-parasol.html)[![](/images/skins/cards/kagura/jade-blossom.webp)Jade BlossomDeluxe · 2024](https://boostmlbb.ru/en/skins/kagura/jade-blossom.html)[![](/images/skins/cards/kagura/beyond-the-clouds-kagura.webp)Beyond the Clouds KaguraExquisite · 2023](https://boostmlbb.ru/en/skins/kagura/beyond-the-clouds-kagura.html)[![](/images/skins/cards/kagura/exorcist-kagura.webp)Exorcist KaguraGrand · 2022](https://boostmlbb.ru/en/skins/kagura/exorcist-kagura.html)[![](/images/skins/cards/kagura/water-lily.webp)Water LilyExquisite · 2021](https://boostmlbb.ru/en/skins/kagura/water-lily.html)[![](/images/skins/cards/kagura/rainy-walk.webp)Rainy WalkExceptional · 2021](https://boostmlbb.ru/en/skins/kagura/rainy-walk.html)[![](/images/skins/cards/kagura/summer-festival.webp)Summer FestivalExceptional · 2019](https://boostmlbb.ru/en/skins/kagura/summer-festival.html)[![](/images/skins/cards/kagura/dragon-maiden.webp)Dragon MaidenExquisite · 2018](https://boostmlbb.ru/en/skins/kagura/dragon-maiden.html)[![](/images/skins/cards/kagura/cherry-witch.webp)Cherry WitchExceptional · 2017](https://boostmlbb.ru/en/skins/kagura/cherry-witch.html)[![](/images/skins/cards/kagura/flower-season.webp)Flower SeasonCommon · 2016](https://boostmlbb.ru/en/skins/kagura/flower-season.html)[![](/images/skins/cards/kagura/feast-of-eternity.webp)Feast of Eternity](https://boostmlbb.ru/en/skins/kagura/feast-of-eternity.html)
+
+[All 11 Kagura skins: prices and how to get them](https://boostmlbb.ru/en/skins/kagura.html)
 
 ## Lore
 

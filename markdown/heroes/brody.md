@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/brody.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Броуди](/images/heroes/art/brody.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -340,6 +340,12 @@ B
 ### Кого контрит Броуди
 
 [![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
+
+## Скины Броуди
+
+[![](/images/skins/cards/brody/neobeast-brody.webp)Броуди NeobeastГрандиозный · 2025](https://boostmlbb.ru/skins/brody/neobeast-brody.html)[![](/images/skins/cards/brody/apbren.webp)APBrenДелюкс · 2024](https://boostmlbb.ru/skins/brody/apbren.html)[![](/images/skins/cards/brody/quantum-grip.webp)Квантовая хваткаИсключительный · 2023](https://boostmlbb.ru/skins/brody/quantum-grip.html)[![](/images/skins/cards/brody/ore-chemist.webp)РудохимикИзысканный · 2022](https://boostmlbb.ru/skins/brody/ore-chemist.html)[![](/images/skins/cards/brody/lethal-fang.webp)Смер­тельный клыкИсключительный · 2021](https://boostmlbb.ru/skins/brody/lethal-fang.html)[![](/images/skins/cards/brody/s-t-u-n-brody.webp)Броуди S.T.U.N.Делюкс · 2021](https://boostmlbb.ru/skins/brody/s-t-u-n-brody.html)[![](/images/skins/cards/brody/nameless-stray.webp)Безымянный бродягаОбычный · 2020](https://boostmlbb.ru/skins/brody/nameless-stray.html)
+
+[Все 7 скинов Броуди: цены и как получить](https://boostmlbb.ru/skins/brody.html)
 
 ## История
 

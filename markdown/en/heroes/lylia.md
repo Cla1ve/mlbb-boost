@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lylia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lylia hero art](/images/heroes/art/lylia.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ She also gains 20% Movement Speed for 2s.
 ### Who counters Lylia
 
 [![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
+
+## Lylia skins
+
+[![](/images/skins/cards/lylia/phantasmal-revelry.webp)Phantasmal RevelryDeluxe · 2026](https://boostmlbb.ru/en/skins/lylia/phantasmal-revelry.html)[![](/images/skins/cards/lylia/magitech-arsenal.webp)Magitech ArsenalExceptional · 2024](https://boostmlbb.ru/en/skins/lylia/magitech-arsenal.html)[![](/images/skins/cards/lylia/neobeast-lylia.webp)Neobeast LyliaGrand · 2023](https://boostmlbb.ru/en/skins/lylia/neobeast-lylia.html)[![](/images/skins/cards/lylia/haunted-doll.webp)Haunted DollExceptional · 2020](https://boostmlbb.ru/en/skins/lylia/haunted-doll.html)[![](/images/skins/cards/lylia/future-star.webp)Future StarExceptional · 2020](https://boostmlbb.ru/en/skins/lylia/future-star.html)[![](/images/skins/cards/lylia/star-student.webp)Star StudentCommon · 2020](https://boostmlbb.ru/en/skins/lylia/star-student.html)[![](/images/skins/cards/lylia/school-idol.webp)School IdolCommon · 2019](https://boostmlbb.ru/en/skins/lylia/school-idol.html)
+
+[All 7 Lylia skins: prices and how to get them](https://boostmlbb.ru/en/skins/lylia.html)
 
 ## Lore
 

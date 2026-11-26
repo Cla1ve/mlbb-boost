@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/grock.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Grock hero art](/images/heroes/art/grock.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ Grock charges forward and gains Control Immunity, dealing 100 (+50% Total Physic
 ### Who Grock counters
 
 [![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
+
+## Grock skins
+
+[![](/images/skins/cards/grock/tremor-of-the-deep.webp)Tremor of the Deep2026](https://boostmlbb.ru/en/skins/grock/tremor-of-the-deep.html)[![](/images/skins/cards/grock/codename-rhino.webp)Codename: RhinoDeluxe · 2020](https://boostmlbb.ru/en/skins/grock/codename-rhino.html)[![](/images/skins/cards/grock/ancient-golem.webp)Ancient GolemCommon · 2019](https://boostmlbb.ru/en/skins/grock/ancient-golem.html)[![](/images/skins/cards/grock/v-e-n-o-m-monitor-lizard.webp)V.E.N.O.M. Monitor LizardDeluxe · 2019](https://boostmlbb.ru/en/skins/grock/v-e-n-o-m-monitor-lizard.html)[![](/images/skins/cards/grock/iceland-golem.webp)Iceland GolemExceptional · 2019](https://boostmlbb.ru/en/skins/grock/iceland-golem.html)[![](/images/skins/cards/grock/wasteland-psycho.webp)Wasteland PsychoExceptional · 2018](https://boostmlbb.ru/en/skins/grock/wasteland-psycho.html)[![](/images/skins/cards/grock/castle-guard.webp)Castle GuardCommon · 2018](https://boostmlbb.ru/en/skins/grock/castle-guard.html)[![](/images/skins/cards/grock/grave-guardian.webp)Grave GuardianCommon · 2017](https://boostmlbb.ru/en/skins/grock/grave-guardian.html)
+
+[All 8 Grock skins: prices and how to get them](https://boostmlbb.ru/en/skins/grock.html)
 
 ## Lore
 

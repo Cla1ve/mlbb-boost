@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/suyou.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Suyou hero art](/images/heroes/art/suyou.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -342,6 +342,12 @@ Suyou can be controlled while charging, but the skill cannot be interrupted.
 ### Who Suyou counters
 
 [![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
+
+## Suyou skins
+
+[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Sasuke UchihaGrand · 2025](https://boostmlbb.ru/en/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/suyou/venerated-vigilance.webp)Venerated VigilanceCommon · 2024](https://boostmlbb.ru/en/skins/suyou/venerated-vigilance.html)
+
+[All 2 Suyou skins: prices and how to get them](https://boostmlbb.ru/en/skins/suyou.html)
 
 ## Lore
 

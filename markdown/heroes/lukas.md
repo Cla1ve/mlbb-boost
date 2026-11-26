@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lukas.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Лукас](/images/heroes/art/lukas.webp)
 
@@ -27,7 +27,7 @@ A
 
 30,8%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -348,6 +348,12 @@ A
 ### Кого контрит Лукас
 
 [![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
+
+## Скины Лукаса
+
+[![](/images/skins/cards/lukas/naruto-uzumaki.webp)Наруто УзумакиГрандиозный · 2025](https://boostmlbb.ru/skins/lukas/naruto-uzumaki.html)[![](/images/skins/cards/lukas/ardent-roar.webp)Пылкий рёвОбычный · 2024](https://boostmlbb.ru/skins/lukas/ardent-roar.html)
+
+[Все 2 скина Лукаса: цены и как получить](https://boostmlbb.ru/skins/lukas.html)
 
 ## История
 

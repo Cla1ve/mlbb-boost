@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/aurora.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Аврора](/images/heroes/art/aurora.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -269,6 +269,12 @@ C
 ### Кто контрит Аврору
 
 [![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Одетта](https://boostmlbb.ru/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
+
+## Скины Авроры
+
+[![](/images/skins/cards/aurora/veil-of-the-celestials.webp)Вуаль небожи­телейИзысканный · 2025](https://boostmlbb.ru/skins/aurora/veil-of-the-celestials.html)[![](/images/skins/cards/aurora/kula-diamond.webp)Кула ДаймондГрандиозный · 2019](https://boostmlbb.ru/skins/aurora/kula-diamond.html)[![](/images/skins/cards/aurora/aquarius.webp)ВодолейДелюкс · 2019](https://boostmlbb.ru/skins/aurora/aquarius.html)[![](/images/skins/cards/aurora/foxy-lady.webp)Лисья ледиИсключительный · 2018](https://boostmlbb.ru/skins/aurora/foxy-lady.html)[![](/images/skins/cards/aurora/heartbreak-empress.webp)Импе­ратрица разбитых сердецИсключительный · 2017](https://boostmlbb.ru/skins/aurora/heartbreak-empress.html)[![](/images/skins/cards/aurora/nature-s-throne.webp)Трон природыОбычный · 2017](https://boostmlbb.ru/skins/aurora/nature-s-throne.html)[![](/images/skins/cards/aurora/candle-s-vigil.webp)Бдение свечи](https://boostmlbb.ru/skins/aurora/candle-s-vigil.html)
+
+[Все 7 скинов Авроры: цены и как получить](https://boostmlbb.ru/skins/aurora.html)
 
 ## История
 

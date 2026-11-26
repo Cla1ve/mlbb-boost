@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/vexana.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Vexana hero art](/images/heroes/art/vexana.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -326,6 +326,12 @@ Vexana summons an Eternal Guard at the target location, dealing 480 (+60% Total 
 ### Who counters Vexana
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Vexana skins
+
+[![](/images/skins/cards/vexana/eternal-vow.webp)Eternal VowDeluxe · 2026](https://boostmlbb.ru/en/skins/vexana/eternal-vow.html)[![](/images/skins/cards/vexana/twilight-star.webp)Twilight StarGrand · 2025](https://boostmlbb.ru/en/skins/vexana/twilight-star.html)[![](/images/skins/cards/vexana/twisted-fairytale.webp)Twisted FairytaleGrand · 2024](https://boostmlbb.ru/en/skins/vexana/twisted-fairytale.html)[![](/images/skins/cards/vexana/the-sun-empress.webp)The Sun EmpressExquisite · 2023](https://boostmlbb.ru/en/skins/vexana/the-sun-empress.html)[![](/images/skins/cards/vexana/circus-magician.webp)Circus MagicianExceptional · 2022](https://boostmlbb.ru/en/skins/vexana/circus-magician.html)[![](/images/skins/cards/vexana/cursed-shackle.webp)Cursed ShackleCommon · 2019](https://boostmlbb.ru/en/skins/vexana/cursed-shackle.html)[![](/images/skins/cards/vexana/sanguine-rose.webp)Sanguine RoseDeluxe · 2018](https://boostmlbb.ru/en/skins/vexana/sanguine-rose.html)[![](/images/skins/cards/vexana/lucent-beacon.webp)Lucent BeaconCommon · 2017](https://boostmlbb.ru/en/skins/vexana/lucent-beacon.html)
+
+[All 8 Vexana skins: prices and how to get them](https://boostmlbb.ru/en/skins/vexana.html)
 
 ## Lore
 

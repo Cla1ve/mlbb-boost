@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/karrie.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Karrie hero art](/images/heroes/art/karrie.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Karrie enters Dual Wield state for 10s, gaining 30% Movement Speed. Each Basic A
 ### Who Karrie counters
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
+
+## Karrie skins
+
+[![](/images/skins/cards/karrie/breath-of-naraka.webp)Breath of NarakaGrand · 2025](https://boostmlbb.ru/en/skins/karrie/breath-of-naraka.html)[![](/images/skins/cards/karrie/ice-talon.webp)Ice TalonDeluxe · 2023](https://boostmlbb.ru/en/skins/karrie/ice-talon.html)[![](/images/skins/cards/karrie/wheel-of-justice.webp)Wheel of JusticeCommon · 2021](https://boostmlbb.ru/en/skins/karrie/wheel-of-justice.html)[![](/images/skins/cards/karrie/neon-lightwheel.webp)Neon LightwheelExquisite · 2020](https://boostmlbb.ru/en/skins/karrie/neon-lightwheel.html)[![](/images/skins/cards/karrie/gill-girl.webp)Gill-GirlDeluxe · 2020](https://boostmlbb.ru/en/skins/karrie/gill-girl.html)[![](/images/skins/cards/karrie/hawkwatch.webp)HawkwatchExquisite · 2019](https://boostmlbb.ru/en/skins/karrie/hawkwatch.html)[![](/images/skins/cards/karrie/jester.webp)JesterExceptional · 2018](https://boostmlbb.ru/en/skins/karrie/jester.html)[![](/images/skins/cards/karrie/dragon-queen.webp)Dragon QueenExceptional · 2018](https://boostmlbb.ru/en/skins/karrie/dragon-queen.html)[![](/images/skins/cards/karrie/rising-star.webp)Rising StarCommon · 2017](https://boostmlbb.ru/en/skins/karrie/rising-star.html)[![](/images/skins/cards/karrie/bladed-mantis.webp)Bladed MantisCommon · 2017](https://boostmlbb.ru/en/skins/karrie/bladed-mantis.html)
+
+[All 10 Karrie skins: prices and how to get them](https://boostmlbb.ru/en/skins/karrie.html)
 
 ## Lore
 

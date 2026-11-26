@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/roger.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Роджер](/images/heroes/art/roger.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -341,6 +341,12 @@ D
 ### Кто контрит Роджера
 
 [![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+
+## Скины Роджера
+
+[![](/images/skins/cards/roger/grimlock.webp)ГримлокГрандиозный · 2022](https://boostmlbb.ru/skins/roger/grimlock.html)[![](/images/skins/cards/roger/phantom-ranger.webp)Призрачный рейнджерДелюкс · 2021](https://boostmlbb.ru/skins/roger/phantom-ranger.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Охотник на нечистьГрандиозный · 2021](https://boostmlbb.ru/skins/roger/fiend-hunter.html)[![](/images/skins/cards/roger/cyborg-werewolf.webp)Киборг-оборотеньДелюкс · 2021](https://boostmlbb.ru/skins/roger/cyborg-werewolf.html)[![](/images/skins/cards/roger/phantom-hunter.webp)Призрачный охотникДелюкс · 2018](https://boostmlbb.ru/skins/roger/phantom-hunter.html)[![](/images/skins/cards/roger/anubis.webp)АнубисИсключительный · 2018](https://boostmlbb.ru/skins/roger/anubis.html)[![](/images/skins/cards/roger/dr-beast.webp)Доктор ЗверьИзысканный · 2017](https://boostmlbb.ru/skins/roger/dr-beast.html)[![](/images/skins/cards/roger/dark-gent.webp)Тёмный джентльменОбычный · 2017](https://boostmlbb.ru/skins/roger/dark-gent.html)
+
+[Все 8 скинов Роджера: цены и как получить](https://boostmlbb.ru/skins/roger.html)
 
 ## История
 

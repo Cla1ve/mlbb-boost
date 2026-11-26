@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/martis.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Мартис](/images/heroes/art/martis.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,2%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -340,6 +340,12 @@ C
 ### Кого контрит Мартис
 
 [![](/images/heroes/art/balmond.webp)Бальмонд](https://boostmlbb.ru/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
+
+## Скины Мартиса
+
+[![](/images/skins/cards/martis/warlord-king.webp)Король-воена­чальникОбычный · 2025](https://boostmlbb.ru/skins/martis/warlord-king.html)[![](/images/skins/cards/martis/darkwater-terror.webp)Ужас тёмных водИсключительный · 2024](https://boostmlbb.ru/skins/martis/darkwater-terror.html)[![](/images/skins/cards/martis/levi.webp)ЛевиГрандиозный · 2024](https://boostmlbb.ru/skins/martis/levi.html)[![](/images/skins/cards/martis/capricorn.webp)КозерогДелюкс · 2022](https://boostmlbb.ru/skins/martis/capricorn.html)[![](/images/skins/cards/martis/deathrock.webp)ДэтрокИсключительный · 2022](https://boostmlbb.ru/skins/martis/deathrock.html)[![](/images/skins/cards/martis/god-of-war.webp)Бог войныИзысканный · 2020](https://boostmlbb.ru/skins/martis/god-of-war.html)[![](/images/skins/cards/martis/searing-maw.webp)Обжигающая пастьИсключительный · 2018](https://boostmlbb.ru/skins/martis/searing-maw.html)[![](/images/skins/cards/martis/tyrant.webp)ТиранОбычный · 2018](https://boostmlbb.ru/skins/martis/tyrant.html)[![](/images/skins/cards/martis/wild-renegade.webp)Дикий отступник](https://boostmlbb.ru/skins/martis/wild-renegade.html)
+
+[Все 9 скинов Мартиса: цены и как получить](https://boostmlbb.ru/skins/martis.html)
 
 ## История
 

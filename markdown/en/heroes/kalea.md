@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kalea hero art](/images/heroes/art/kalea.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 14.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ Kalea grabs an enemy hero with her tail and slams them down in the Joystick's di
 ### Who counters Kalea
 
 [![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Kalea skins
+
+[![](/images/skins/cards/kalea/tideborn-sailor.webp)Tideborn Sailor2026](https://boostmlbb.ru/en/skins/kalea/tideborn-sailor.html)[![](/images/skins/cards/kalea/sakura-haruno.webp)Sakura HarunoGrand · 2025](https://boostmlbb.ru/en/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/kalea/shimmering-waves.webp)Shimmering WavesCommon · 2025](https://boostmlbb.ru/en/skins/kalea/shimmering-waves.html)
+
+[All 3 Kalea skins: prices and how to get them](https://boostmlbb.ru/en/skins/kalea.html)
 
 ## Lore
 

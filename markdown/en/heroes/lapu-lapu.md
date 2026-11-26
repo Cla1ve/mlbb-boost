@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lapu-lapu.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lapu-Lapu hero art](/images/heroes/art/lapu-lapu.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -341,6 +341,12 @@ This skill cannot be interrupted.
 ### Who Lapu-Lapu counters
 
 [![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
+
+## Lapu-Lapu skins
+
+[![](/images/skins/cards/lapu-lapu/adlaw-s-chosen.webp)Adlaw's ChosenExquisite · 2024](https://boostmlbb.ru/en/skins/lapu-lapu/adlaw-s-chosen.html)[![](/images/skins/cards/lapu-lapu/son-of-the-wild.webp)Son of the WildCommon · 2022](https://boostmlbb.ru/en/skins/lapu-lapu/son-of-the-wild.html)[![](/images/skins/cards/lapu-lapu/special-force.webp)Special ForceExceptional · 2021](https://boostmlbb.ru/en/skins/lapu-lapu/special-force.html)[![](/images/skins/cards/lapu-lapu/vulcan.webp)VulcanExceptional · 2019](https://boostmlbb.ru/en/skins/lapu-lapu/vulcan.html)[![](/images/skins/cards/lapu-lapu/ancestral-blade.webp)Ancestral BladeCommon · 2017](https://boostmlbb.ru/en/skins/lapu-lapu/ancestral-blade.html)[![](/images/skins/cards/lapu-lapu/imperial-champion.webp)Imperial ChampionCommon · 2017](https://boostmlbb.ru/en/skins/lapu-lapu/imperial-champion.html)
+
+[All 6 Lapu-Lapu skins: prices and how to get them](https://boostmlbb.ru/en/skins/lapu-lapu.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/johnson.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Джонсон](/images/heroes/art/johnson.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -335,6 +335,12 @@ C
 ### Кого контрит Джонсон
 
 [![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
+
+## Скины Джонсона
+
+[![](/images/skins/cards/johnson/sovereign-of-realms.webp)Повелитель мировВысший · 2025](https://boostmlbb.ru/skins/johnson/sovereign-of-realms.html)[![](/images/skins/cards/johnson/optimus-prime.webp)Оптимус ПраймГрандиозный · 2023](https://boostmlbb.ru/skins/johnson/optimus-prime.html)[![](/images/skins/cards/johnson/starblazer.webp)Звёздный гонщикИсключительный · 2023](https://boostmlbb.ru/skins/johnson/starblazer.html)[![](/images/skins/cards/johnson/death-ride.webp)Смер­тельная поездкаИсключительный · 2021](https://boostmlbb.ru/skins/johnson/death-ride.html)[![](/images/skins/cards/johnson/wreck-king.webp)Король крушенияИзысканный · 2019](https://boostmlbb.ru/skins/johnson/wreck-king.html)[![](/images/skins/cards/johnson/jeepney-racer.webp)Гонщик на джипниОбычный · 2018](https://boostmlbb.ru/skins/johnson/jeepney-racer.html)[![](/images/skins/cards/johnson/s-a-b-e-r-automata.webp)Автомат S.A.B.E.R.Делюкс · 2018](https://boostmlbb.ru/skins/johnson/s-a-b-e-r-automata.html)[![](/images/skins/cards/johnson/fire-chief.webp)Начальник пожарныхОбычный · 2017](https://boostmlbb.ru/skins/johnson/fire-chief.html)
+
+[Все 8 скинов Джонсона: цены и как получить](https://boostmlbb.ru/skins/johnson.html)
 
 ## История
 

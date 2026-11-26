@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Valir hero art](/images/heroes/art/valir.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 4.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -282,6 +282,12 @@ Valir removes all debuffs on himself and gains 40% Movement Speed that decays ov
 ### Who Valir counters
 
 [![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+
+## Valir skins
+
+[![](/images/skins/cards/valir/kyo-kusanagi.webp)Kyo KusanagiGrand · 2024](https://boostmlbb.ru/en/skins/valir/kyo-kusanagi.html)[![](/images/skins/cards/valir/phoenix-ikki.webp)Phoenix IkkiDeluxe · 2022](https://boostmlbb.ru/en/skins/valir/phoenix-ikki.html)[![](/images/skins/cards/valir/leo-ikki.webp)Leo IkkiGrand · 2022](https://boostmlbb.ru/en/skins/valir/leo-ikki.html)[![](/images/skins/cards/valir/shikigami-sumonner.webp)Shikigami SumonnerExceptional · 2022](https://boostmlbb.ru/en/skins/valir/shikigami-sumonner.html)[![](/images/skins/cards/valir/infernal-blaze.webp)Infernal BlazeSupreme · 2022](https://boostmlbb.ru/en/skins/valir/infernal-blaze.html)[![](/images/skins/cards/valir/demonlord.webp)DemonlordExquisite · 2021](https://boostmlbb.ru/en/skins/valir/demonlord.html)[![](/images/skins/cards/valir/dictator.webp)DictatorExceptional · 2020](https://boostmlbb.ru/en/skins/valir/dictator.html)[![](/images/skins/cards/valir/draconic-flame.webp)Draconic FlameDeluxe · 2019](https://boostmlbb.ru/en/skins/valir/draconic-flame.html)[![](/images/skins/cards/valir/arcane-seeker.webp)Arcane SeekerCommon · 2018](https://boostmlbb.ru/en/skins/valir/arcane-seeker.html)[![](/images/skins/cards/valir/pale-flame.webp)Pale FlameCommon · 2018](https://boostmlbb.ru/en/skins/valir/pale-flame.html)
+
+[All 10 Valir skins: prices and how to get them](https://boostmlbb.ru/en/skins/valir.html)
 
 ## Lore
 

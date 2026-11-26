@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/baxia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Баксий](/images/heroes/art/baxia.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ D
 ### Кого контрит Баксий
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+
+## Скины Баксия
+
+[![](/images/skins/cards/baxia/dauntless-shield.webp)Бесстрашный щитИсключительный · 2024](https://boostmlbb.ru/skins/baxia/dauntless-shield.html)[![](/images/skins/cards/baxia/black-tortoise.webp)Чёрная черепахаОбычный · 2023](https://boostmlbb.ru/skins/baxia/black-tortoise.html)[![](/images/skins/cards/baxia/ba-tender.webp)Ба-рменИсключительный · 2021](https://boostmlbb.ru/skins/baxia/ba-tender.html)[![](/images/skins/cards/baxia/badass-roller.webp)Крутой роллерОбычный · 2020](https://boostmlbb.ru/skins/baxia/badass-roller.html)[![](/images/skins/cards/baxia/wild-totem.webp)Дикий тотемОбычный · 2019](https://boostmlbb.ru/skins/baxia/wild-totem.html)[![](/images/skins/cards/baxia/aegis-of-honor.webp)Эгида чести](https://boostmlbb.ru/skins/baxia/aegis-of-honor.html)
+
+[Все 6 скинов Баксия: цены и как получить](https://boostmlbb.ru/skins/baxia.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/thamuz.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Thamuz hero art](/images/heroes/art/thamuz.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -279,6 +279,12 @@ Meanwhile, Thamuz gains 800 (+50% Extra Max HP) , immediately healing for the sa
 ### Who Thamuz counters
 
 [![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)
+
+## Thamuz skins
+
+[![](/images/skins/cards/thamuz/the-annihilator.webp)The Annihi­latorGrand · 2025](https://boostmlbb.ru/en/skins/thamuz/the-annihilator.html)[![](/images/skins/cards/thamuz/abyssal-reaper.webp)Abyssal ReaperExceptional · 2025](https://boostmlbb.ru/en/skins/thamuz/abyssal-reaper.html)[![](/images/skins/cards/thamuz/sanctified-flame.webp)Sanctified FlameExceptional · 2023](https://boostmlbb.ru/en/skins/thamuz/sanctified-flame.html)[![](/images/skins/cards/thamuz/general-kai.webp)General KaiGrand · 2023](https://boostmlbb.ru/en/skins/thamuz/general-kai.html)[![](/images/skins/cards/thamuz/lord-of-wraith.webp)Lord of WraithCommon · 2022](https://boostmlbb.ru/en/skins/thamuz/lord-of-wraith.html)[![](/images/skins/cards/thamuz/liquid-fire.webp)Liquid FireCommon · 2019](https://boostmlbb.ru/en/skins/thamuz/liquid-fire.html)
+
+[All 6 Thamuz skins: prices and how to get them](https://boostmlbb.ru/en/skins/thamuz.html)
 
 ## Lore
 

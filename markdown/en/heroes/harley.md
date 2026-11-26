@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/harley.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Harley hero art](/images/heroes/art/harley.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ Harley casts a magic ring of fire at an enemy hero, dealing 200 (+60% Total Magi
 ### Who Harley counters
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Harley skins
+
+[![](/images/skins/cards/harley/dreaming-koi.webp)Dreaming KoiExceptional · 2026](https://boostmlbb.ru/en/skins/harley/dreaming-koi.html)[![](/images/skins/cards/harley/star-magician.webp)Star MagicianCommon · 2024](https://boostmlbb.ru/en/skins/harley/star-magician.html)[![](/images/skins/cards/harley/pulsar-prodigy.webp)Pulsar ProdigyExceptional · 2023](https://boostmlbb.ru/en/skins/harley/pulsar-prodigy.html)[![](/images/skins/cards/harley/dream-caster.webp)Dream CasterExquisite · 2021](https://boostmlbb.ru/en/skins/harley/dream-caster.html)[![](/images/skins/cards/harley/v-e-n-o-m-octopus.webp)V.E.N.O.M. OctopusDeluxe · 2019](https://boostmlbb.ru/en/skins/harley/v-e-n-o-m-octopus.html)[![](/images/skins/cards/harley/great-inventor.webp)Great InventorDeluxe · 2018](https://boostmlbb.ru/en/skins/harley/great-inventor.html)[![](/images/skins/cards/harley/referee.webp)RefereeExceptional · 2018](https://boostmlbb.ru/en/skins/harley/referee.html)[![](/images/skins/cards/harley/royal-magister.webp)Royal MagisterExceptional · 2018](https://boostmlbb.ru/en/skins/harley/royal-magister.html)[![](/images/skins/cards/harley/naughty-joker.webp)Naughty JokerCommon · 2017](https://boostmlbb.ru/en/skins/harley/naughty-joker.html)
+
+[All 9 Harley skins: prices and how to get them](https://boostmlbb.ru/en/skins/harley.html)
 
 ## Lore
 

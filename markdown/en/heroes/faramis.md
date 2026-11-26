@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/faramis.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Faramis hero art](/images/heroes/art/faramis.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ Faramis turns his surroundings into the Nether Realm for 6s. Allied heroes withi
 ### Who Faramis counters
 
 [![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+
+## Faramis skins
+
+[![](/images/skins/cards/faramis/enigmatic-wayfarer.webp)Enigmatic WayfarerCommon · 2025](https://boostmlbb.ru/en/skins/faramis/enigmatic-wayfarer.html)[![](/images/skins/cards/faramis/dark-necro.webp)Dark NecroCommon · 2019](https://boostmlbb.ru/en/skins/faramis/dark-necro.html)[![](/images/skins/cards/faramis/infernal-magister.webp)Infernal MagisterDeluxe · 2018](https://boostmlbb.ru/en/skins/faramis/infernal-magister.html)[![](/images/skins/cards/faramis/summer-sparks.webp)Summer SparksExceptional · 2018](https://boostmlbb.ru/en/skins/faramis/summer-sparks.html)[![](/images/skins/cards/faramis/royal-magus.webp)Royal MagusCommon · 2018](https://boostmlbb.ru/en/skins/faramis/royal-magus.html)
+
+[All 5 Faramis skins: prices and how to get them](https://boostmlbb.ru/en/skins/faramis.html)
 
 ## Lore
 

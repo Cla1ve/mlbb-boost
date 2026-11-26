@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hylos.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Хилос](/images/heroes/art/hylos.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ D
 ### Кого контрит Хилос
 
 [![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)
+
+## Скины Хилоса
+
+[![](/images/skins/cards/hylos/lord-of-the-tundra.webp)Владыка тундрыДелюкс · 2025](https://boostmlbb.ru/skins/hylos/lord-of-the-tundra.html)[![](/images/skins/cards/hylos/bloodhoof-marauder.webp)Мародёр Кровавое КопытоОбычный · 2024](https://boostmlbb.ru/skins/hylos/bloodhoof-marauder.html)[![](/images/skins/cards/hylos/iron-steed.webp)Железный скакунДелюкс · 2021](https://boostmlbb.ru/skins/hylos/iron-steed.html)[![](/images/skins/cards/hylos/jungle-watcher.webp)Хранитель джунглейОбычный · 2019](https://boostmlbb.ru/skins/hylos/jungle-watcher.html)[![](/images/skins/cards/hylos/phantom-seer.webp)Призрачный провидецИсключительный · 2018](https://boostmlbb.ru/skins/hylos/phantom-seer.html)[![](/images/skins/cards/hylos/abyssal-shaman.webp)Шаман бездныОбычный · 2018](https://boostmlbb.ru/skins/hylos/abyssal-shaman.html)
+
+[Все 6 скинов Хилоса: цены и как получить](https://boostmlbb.ru/skins/hylos.html)
 
 ## История
 

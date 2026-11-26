@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/bane.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Bane hero art](/images/heroes/art/bane.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -345,6 +345,12 @@ This skill deals 40% damage to turrets.
 ### Who Bane counters
 
 [![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Bane skins
+
+[![](/images/skins/cards/bane/lord-of-scalding-seas.webp)Lord of Scalding SeasExceptional · 2025](https://boostmlbb.ru/en/skins/bane/lord-of-scalding-seas.html)[![](/images/skins/cards/bane/soul-defiler.webp)Soul DefilerDeluxe · 2023](https://boostmlbb.ru/en/skins/bane/soul-defiler.html)[![](/images/skins/cards/bane/underworld-outlaw.webp)Underworld OutlawCommon · 2022](https://boostmlbb.ru/en/skins/bane/underworld-outlaw.html)[![](/images/skins/cards/bane/warlord.webp)WarlordCommon · 2019](https://boostmlbb.ru/en/skins/bane/warlord.html)[![](/images/skins/cards/bane/deep-sea-monster.webp)Deep Sea MonsterCommon · 2018](https://boostmlbb.ru/en/skins/bane/deep-sea-monster.html)[![](/images/skins/cards/bane/castle-master.webp)Castle MasterDeluxe · 2016](https://boostmlbb.ru/en/skins/bane/castle-master.html)
+
+[All 6 Bane skins: prices and how to get them](https://boostmlbb.ru/en/skins/bane.html)
 
 ## Lore
 

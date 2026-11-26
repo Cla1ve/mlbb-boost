@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/martis.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Martis hero art](/images/heroes/art/martis.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ If the enemy is killed by this skill, Martis can cast the skill again within 10s
 ### Who Martis counters
 
 [![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
+
+## Martis skins
+
+[![](/images/skins/cards/martis/warlord-king.webp)Warlord KingCommon · 2025](https://boostmlbb.ru/en/skins/martis/warlord-king.html)[![](/images/skins/cards/martis/darkwater-terror.webp)Darkwater TerrorExceptional · 2024](https://boostmlbb.ru/en/skins/martis/darkwater-terror.html)[![](/images/skins/cards/martis/levi.webp)LeviGrand · 2024](https://boostmlbb.ru/en/skins/martis/levi.html)[![](/images/skins/cards/martis/capricorn.webp)CapricornDeluxe · 2022](https://boostmlbb.ru/en/skins/martis/capricorn.html)[![](/images/skins/cards/martis/deathrock.webp)DeathrockExceptional · 2022](https://boostmlbb.ru/en/skins/martis/deathrock.html)[![](/images/skins/cards/martis/god-of-war.webp)God of WarExquisite · 2020](https://boostmlbb.ru/en/skins/martis/god-of-war.html)[![](/images/skins/cards/martis/searing-maw.webp)Searing MawExceptional · 2018](https://boostmlbb.ru/en/skins/martis/searing-maw.html)[![](/images/skins/cards/martis/tyrant.webp)TyrantCommon · 2018](https://boostmlbb.ru/en/skins/martis/tyrant.html)[![](/images/skins/cards/martis/wild-renegade.webp)Wild Renegade](https://boostmlbb.ru/en/skins/martis/wild-renegade.html)
+
+[All 9 Martis skins: prices and how to get them](https://boostmlbb.ru/en/skins/martis.html)
 
 ## Lore
 

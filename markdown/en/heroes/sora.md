@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/sora.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Sora hero art](/images/heroes/art/sora.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 3.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -343,6 +343,12 @@ Swipe right to ascend into Torrent for 10s. Sora gains Control Immunity. After a
 ### Who Sora counters
 
 [![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
+
+## Sora skins
+
+[![](/images/skins/cards/sora/azure-cloud.webp)Azure CloudCommon · 2025](https://boostmlbb.ru/en/skins/sora/azure-cloud.html)
+
+[All 1 Sora skin: prices and how to get them](https://boostmlbb.ru/en/skins/sora.html)
 
 ## Lore
 

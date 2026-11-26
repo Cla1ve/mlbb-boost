@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/miya.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Miya hero art](/images/heroes/art/miya.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ Upon exiting the Conceal state, Miya gains maximum stacks of Moon Blessing.
 ### Who Miya counters
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
+
+## Miya skins
+
+[![](/images/skins/cards/miya/arrow-of-springs.webp)Arrow of SpringsGrand · 2026](https://boostmlbb.ru/en/skins/miya/arrow-of-springs.html)[![](/images/skins/cards/miya/nightowl-huntress.webp)Nightowl HuntressExceptional · 2025](https://boostmlbb.ru/en/skins/miya/nightowl-huntress.html)[![](/images/skins/cards/miya/atomic-pop-miya.webp)Atomic Pop MiyaDeluxe · 2023](https://boostmlbb.ru/en/skins/miya/atomic-pop-miya.html)[![](/images/skins/cards/miya/doom-catalyst.webp)Doom CatalystExquisite · 2022](https://boostmlbb.ru/en/skins/miya/doom-catalyst.html)[![](/images/skins/cards/miya/moon-priestess.webp)Moon PriestessExceptional · 2021](https://boostmlbb.ru/en/skins/miya/moon-priestess.html)[![](/images/skins/cards/miya/jungle-ranger.webp)Jungle RangerCommon · 2020](https://boostmlbb.ru/en/skins/miya/jungle-ranger.html)[![](/images/skins/cards/miya/suzuhime.webp)SuzuhimeExceptional · 2018](https://boostmlbb.ru/en/skins/miya/suzuhime.html)[![](/images/skins/cards/miya/sweet-fantasy.webp)Sweet FantasyExceptional · 2018](https://boostmlbb.ru/en/skins/miya/sweet-fantasy.html)[![](/images/skins/cards/miya/honor.webp)HonorCommon · 2017](https://boostmlbb.ru/en/skins/miya/honor.html)[![](/images/skins/cards/miya/modena-butterfly.webp)Modena ButterflySupreme · 2017](https://boostmlbb.ru/en/skins/miya/modena-butterfly.html)[![](/images/skins/cards/miya/captain-thorns.webp)Captain ThornsExceptional · 2017](https://boostmlbb.ru/en/skins/miya/captain-thorns.html)[![](/images/skins/cards/miya/christmas-carnival.webp)Christmas CarnivalExquisite · 2016](https://boostmlbb.ru/en/skins/miya/christmas-carnival.html)
+
+[All 13 Miya skins: prices and how to get them](https://boostmlbb.ru/en/skins/miya.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/x-borg.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Икс.Борг](/images/heroes/art/x-borg.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ C
 ### Кого контрит Икс.Борг
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
+
+## Скины Икс.Борга
+
+[![](/images/skins/cards/x-borg/bumblebee.webp)БамблбиГрандиозный · 2025](https://boostmlbb.ru/skins/x-borg/bumblebee.html)[![](/images/skins/cards/x-borg/pecados-rioter.webp)Бунтарь ПекадосОбычный · 2025](https://boostmlbb.ru/skins/x-borg/pecados-rioter.html)[![](/images/skins/cards/x-borg/moto-drifter.webp)Мотод­рифтерОбычный · 2023](https://boostmlbb.ru/skins/x-borg/moto-drifter.html)[![](/images/skins/cards/x-borg/tesla-maniac.webp)Маньяк ТеслыГрандиозный · 2020](https://boostmlbb.ru/skins/x-borg/tesla-maniac.html)[![](/images/skins/cards/x-borg/graffiti-fashion.webp)Граффити-модаИсключительный · 2020](https://boostmlbb.ru/skins/x-borg/graffiti-fashion.html)[![](/images/skins/cards/x-borg/blue-storm.webp)Синяя буряОбычный · 2019](https://boostmlbb.ru/skins/x-borg/blue-storm.html)
+
+[Все 6 скинов Икс.Борга: цены и как получить](https://boostmlbb.ru/skins/x-borg.html)
 
 ## История
 

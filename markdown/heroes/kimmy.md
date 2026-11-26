@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kimmy.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кимми](/images/heroes/art/kimmy.webp)
 
@@ -27,7 +27,7 @@ A
 
 0,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -341,6 +341,12 @@ A
 ### Кого контрит Кимми
 
 [![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
+
+## Скины Кимми
+
+[![](/images/skins/cards/kimmy/starbound-sentry.webp)Звёздный дозорный2026](https://boostmlbb.ru/skins/kimmy/starbound-sentry.html)[![](/images/skins/cards/kimmy/frost-wing.webp)Морозное крылоДелюкс · 2025](https://boostmlbb.ru/skins/kimmy/frost-wing.html)[![](/images/skins/cards/kimmy/rising-nova.webp)Восходящая сверхноваяИсключительный · 2025](https://boostmlbb.ru/skins/kimmy/rising-nova.html)[![](/images/skins/cards/kimmy/high-seas-cadet.webp)Кадет открытого моряОбычный · 2024](https://boostmlbb.ru/skins/kimmy/high-seas-cadet.html)[![](/images/skins/cards/kimmy/first-order-jet-trooper.webp)Реактивный штурмовик Первого орденаГрандиозный · 2023](https://boostmlbb.ru/skins/kimmy/first-order-jet-trooper.html)[![](/images/skins/cards/kimmy/steam-researcher.webp)Паровая исследова­тельницаОбычный · 2022](https://boostmlbb.ru/skins/kimmy/steam-researcher.html)[![](/images/skins/cards/kimmy/bio-frontier.webp)БиофронтирИсключительный · 2019](https://boostmlbb.ru/skins/kimmy/bio-frontier.html)[![](/images/skins/cards/kimmy/charge-leader.webp)Лидер атакиИсключительный · 2018](https://boostmlbb.ru/skins/kimmy/charge-leader.html)[![](/images/skins/cards/kimmy/astrocat.webp)АстрокошкаИзысканный · 2018](https://boostmlbb.ru/skins/kimmy/astrocat.html)
+
+[Все 9 скинов Кимми: цены и как получить](https://boostmlbb.ru/skins/kimmy.html)
 
 ## История
 

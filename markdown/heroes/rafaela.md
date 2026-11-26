@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/rafaela.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Рафаэль](/images/heroes/art/rafaela.webp)
 
@@ -27,7 +27,7 @@ B
 
 9,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -331,6 +331,12 @@ B
 ### Кого контрит Рафаэль
 
 [![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
+
+## Скины Рафаэль
+
+[![](/images/skins/cards/rafaela/bloom-of-abundance.webp)Цветение изобилияДелюкс · 2025](https://boostmlbb.ru/skins/rafaela/bloom-of-abundance.html)[![](/images/skins/cards/rafaela/seraphic-selfie.webp)Серафи­ческое селфиИсключительный · 2023](https://boostmlbb.ru/skins/rafaela/seraphic-selfie.html)[![](/images/skins/cards/rafaela/angelic-sonata.webp)Ангельская сонатаИсключительный · 2022](https://boostmlbb.ru/skins/rafaela/angelic-sonata.html)[![](/images/skins/cards/rafaela/star-chaser.webp)Охотница за звёздамиОбычный · 2020](https://boostmlbb.ru/skins/rafaela/star-chaser.html)[![](/images/skins/cards/rafaela/biomedic.webp)БиомедикИсключительный · 2018](https://boostmlbb.ru/skins/rafaela/biomedic.html)[![](/images/skins/cards/rafaela/s-a-b-e-r-savior.webp)Спаси­тельница S.A.B.E.R.Делюкс · 2017](https://boostmlbb.ru/skins/rafaela/s-a-b-e-r-savior.html)[![](/images/skins/cards/rafaela/flower-fairy.webp)Цветочная феяДелюкс · 2017](https://boostmlbb.ru/skins/rafaela/flower-fairy.html)[![](/images/skins/cards/rafaela/fertility-goddess.webp)Богиня плодородияОбычный · 2016](https://boostmlbb.ru/skins/rafaela/fertility-goddess.html)
+
+[Все 8 скинов Рафаэль: цены и как получить](https://boostmlbb.ru/skins/rafaela.html)
 
 ## История
 

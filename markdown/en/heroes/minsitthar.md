@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/minsitthar.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Minsitthar hero art](/images/heroes/art/minsitthar.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 2.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -333,6 +333,12 @@ Enemies in the field are slowed by 30% and cannot use movement skills.
 ### Who Minsitthar counters
 
 [![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Minsitthar skins
+
+[![](/images/skins/cards/minsitthar/symbol-of-valor.webp)Symbol of ValorCommon · 2024](https://boostmlbb.ru/en/skins/minsitthar/symbol-of-valor.html)[![](/images/skins/cards/minsitthar/sol-invictus.webp)Sol InvictusExquisite · 2024](https://boostmlbb.ru/en/skins/minsitthar/sol-invictus.html)[![](/images/skins/cards/minsitthar/war-lion.webp)War LionExceptional · 2023](https://boostmlbb.ru/en/skins/minsitthar/war-lion.html)[![](/images/skins/cards/minsitthar/king-of-war.webp)King of WarCommon · 2022](https://boostmlbb.ru/en/skins/minsitthar/king-of-war.html)[![](/images/skins/cards/minsitthar/gilded-king.webp)Gilded KingCommon · 2018](https://boostmlbb.ru/en/skins/minsitthar/gilded-king.html)
+
+[All 5 Minsitthar skins: prices and how to get them](https://boostmlbb.ru/en/skins/minsitthar.html)
 
 ## Lore
 

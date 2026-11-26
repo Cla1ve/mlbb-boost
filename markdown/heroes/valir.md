@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/valir.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Валир](/images/heroes/art/valir.webp)
 
@@ -27,7 +27,7 @@ A
 
 4,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -282,6 +282,12 @@ A
 ### Кого контрит Валир
 
 [![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Фаша](https://boostmlbb.ru/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+
+## Скины Валира
+
+[![](/images/skins/cards/valir/kyo-kusanagi.webp)Кё КусанагиГрандиозный · 2024](https://boostmlbb.ru/skins/valir/kyo-kusanagi.html)[![](/images/skins/cards/valir/phoenix-ikki.webp)Феникс ИккиДелюкс · 2022](https://boostmlbb.ru/skins/valir/phoenix-ikki.html)[![](/images/skins/cards/valir/leo-ikki.webp)Лев ИккиГрандиозный · 2022](https://boostmlbb.ru/skins/valir/leo-ikki.html)[![](/images/skins/cards/valir/shikigami-sumonner.webp)Призы­ватель сикигамиИсключительный · 2022](https://boostmlbb.ru/skins/valir/shikigami-sumonner.html)[![](/images/skins/cards/valir/infernal-blaze.webp)Адское пламяВысший · 2022](https://boostmlbb.ru/skins/valir/infernal-blaze.html)[![](/images/skins/cards/valir/demonlord.webp)Повелитель демоновИзысканный · 2021](https://boostmlbb.ru/skins/valir/demonlord.html)[![](/images/skins/cards/valir/dictator.webp)ДиктаторИсключительный · 2020](https://boostmlbb.ru/skins/valir/dictator.html)[![](/images/skins/cards/valir/draconic-flame.webp)Драконье пламяДелюкс · 2019](https://boostmlbb.ru/skins/valir/draconic-flame.html)[![](/images/skins/cards/valir/arcane-seeker.webp)Искатель тайнОбычный · 2018](https://boostmlbb.ru/skins/valir/arcane-seeker.html)[![](/images/skins/cards/valir/pale-flame.webp)Бледное пламяОбычный · 2018](https://boostmlbb.ru/skins/valir/pale-flame.html)
+
+[Все 10 скинов Валира: цены и как получить](https://boostmlbb.ru/skins/valir.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/aldous.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Алдос](/images/heroes/art/aldous.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -344,6 +344,12 @@ C
 ### Кого контрит Алдос
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)
+
+## Скины Алдоса
+
+[![](/images/skins/cards/aldous/fathom-terror.webp)Ужас пучиныИсключительный · 2025](https://boostmlbb.ru/skins/aldous/fathom-terror.html)[![](/images/skins/cards/aldous/mistbender-aldous.webp)Алдос, закли­натель туманаГрандиозный · 2023](https://boostmlbb.ru/skins/aldous/mistbender-aldous.html)[![](/images/skins/cards/aldous/starscream.webp)СтарскримГрандиозный · 2022](https://boostmlbb.ru/skins/aldous/starscream.html)[![](/images/skins/cards/aldous/realm-watcher.webp)Страж мировИзысканный · 2021](https://boostmlbb.ru/skins/aldous/realm-watcher.html)[![](/images/skins/cards/aldous/blazing-force.webp)Пылающая силаДелюкс · 2020](https://boostmlbb.ru/skins/aldous/blazing-force.html)[![](/images/skins/cards/aldous/king-of-supremacy.webp)Король превос­ходстваДелюкс · 2019](https://boostmlbb.ru/skins/aldous/king-of-supremacy.html)[![](/images/skins/cards/aldous/the-insentient.webp)Бесчувствен­ныйИсключительный · 2019](https://boostmlbb.ru/skins/aldous/the-insentient.html)[![](/images/skins/cards/aldous/death.webp)СмертьОбычный · 2019](https://boostmlbb.ru/skins/aldous/death.html)[![](/images/skins/cards/aldous/red-mantle.webp)Красная мантияОбычный · 2018](https://boostmlbb.ru/skins/aldous/red-mantle.html)[![](/images/skins/cards/aldous/contractor.webp)Наёмник2018](https://boostmlbb.ru/skins/aldous/contractor.html)
+
+[Все 10 скинов Алдоса: цены и как получить](https://boostmlbb.ru/skins/aldous.html)
 
 ## История
 

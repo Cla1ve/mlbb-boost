@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aurora.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Aurora hero art](/images/heroes/art/aurora.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -269,6 +269,12 @@ The frost path gradually expands into a glacier that shatters at maximum size, d
 ### Who counters Aurora
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
+
+## Aurora skins
+
+[![](/images/skins/cards/aurora/veil-of-the-celestials.webp)Veil of the CelestialsExquisite · 2025](https://boostmlbb.ru/en/skins/aurora/veil-of-the-celestials.html)[![](/images/skins/cards/aurora/kula-diamond.webp)Kula DiamondGrand · 2019](https://boostmlbb.ru/en/skins/aurora/kula-diamond.html)[![](/images/skins/cards/aurora/aquarius.webp)AquariusDeluxe · 2019](https://boostmlbb.ru/en/skins/aurora/aquarius.html)[![](/images/skins/cards/aurora/foxy-lady.webp)Foxy LadyExceptional · 2018](https://boostmlbb.ru/en/skins/aurora/foxy-lady.html)[![](/images/skins/cards/aurora/heartbreak-empress.webp)Heartbreak EmpressExceptional · 2017](https://boostmlbb.ru/en/skins/aurora/heartbreak-empress.html)[![](/images/skins/cards/aurora/nature-s-throne.webp)Nature's ThroneCommon · 2017](https://boostmlbb.ru/en/skins/aurora/nature-s-throne.html)[![](/images/skins/cards/aurora/candle-s-vigil.webp)Candle's Vigil](https://boostmlbb.ru/en/skins/aurora/candle-s-vigil.html)
+
+[All 7 Aurora skins: prices and how to get them](https://boostmlbb.ru/en/skins/aurora.html)
 
 ## Lore
 

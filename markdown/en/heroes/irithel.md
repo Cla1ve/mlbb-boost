@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/irithel.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Irithel hero art](/images/heroes/art/irithel.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ During this time, she gains 30 Movement Speed, generates Jungle Heart faster, an
 ### Who Irithel counters
 
 [![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)
+
+## Irithel skins
+
+[![](/images/skins/cards/irithel/checkered-knight.webp)Checkered KnightExceptional · 2025](https://boostmlbb.ru/en/skins/irithel/checkered-knight.html)[![](/images/skins/cards/irithel/monster-sp-rider.webp)Monster SP RiderGrand · 2023](https://boostmlbb.ru/en/skins/irithel/monster-sp-rider.html)[![](/images/skins/cards/irithel/astral-wanderer.webp)Astral WandererExquisite · 2019](https://boostmlbb.ru/en/skins/irithel/astral-wanderer.html)[![](/images/skins/cards/irithel/sagittarius.webp)Sagit­tariusDeluxe · 2018](https://boostmlbb.ru/en/skins/irithel/sagittarius.html)[![](/images/skins/cards/irithel/nightarrow.webp)NightarrowExceptional · 2018](https://boostmlbb.ru/en/skins/irithel/nightarrow.html)[![](/images/skins/cards/irithel/hellfire.webp)HellfireDeluxe · 2017](https://boostmlbb.ru/en/skins/irithel/hellfire.html)[![](/images/skins/cards/irithel/silver-cyclone.webp)Silver CycloneCommon · 2017](https://boostmlbb.ru/en/skins/irithel/silver-cyclone.html)
+
+[All 7 Irithel skins: prices and how to get them](https://boostmlbb.ru/en/skins/irithel.html)
 
 ## Lore
 

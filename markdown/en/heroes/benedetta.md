@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Benedetta hero art](/images/heroes/art/benedetta.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -348,6 +348,12 @@ Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the 
 ### Who Benedetta counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
+
+## Benedetta skins
+
+[![](/images/skins/cards/benedetta/phantom-mirage.webp)Phantom MirageDeluxe · 2025](https://boostmlbb.ru/en/skins/benedetta/phantom-mirage.html)[![](/images/skins/cards/benedetta/quantum-edge.webp)Quantum EdgeExceptional · 2024](https://boostmlbb.ru/en/skins/benedetta/quantum-edge.html)[![](/images/skins/cards/benedetta/panigale-v4s-rider.webp)Panigale V4S RiderGrand · 2023](https://boostmlbb.ru/en/skins/benedetta/panigale-v4s-rider.html)[![](/images/skins/cards/benedetta/moonblade.webp)MoonbladeExceptional · 2022](https://boostmlbb.ru/en/skins/benedetta/moonblade.html)[![](/images/skins/cards/benedetta/death-oath.webp)Death OathExquisite · 2021](https://boostmlbb.ru/en/skins/benedetta/death-oath.html)[![](/images/skins/cards/benedetta/street-thrasher.webp)Street ThrasherExceptional · 2021](https://boostmlbb.ru/en/skins/benedetta/street-thrasher.html)[![](/images/skins/cards/benedetta/honor-blade.webp)Honor BladeCommon · 2020](https://boostmlbb.ru/en/skins/benedetta/honor-blade.html)
+
+[All 7 Benedetta skins: prices and how to get them](https://boostmlbb.ru/en/skins/benedetta.html)
 
 ## Lore
 

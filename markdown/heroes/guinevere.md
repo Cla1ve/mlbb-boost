@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/guinevere.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Гвиневра](/images/heroes/art/guinevere.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ B
 ### Кого контрит Гвиневра
 
 [![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)
+
+## Скины Гвиневры
+
+[![](/images/skins/cards/guinevere/daybreak-halo.webp)Сияние рассветаГрандиозный · 2025](https://boostmlbb.ru/skins/guinevere/daybreak-halo.html)[![](/images/skins/cards/guinevere/lady-crane.webp)Леди-журавльИзысканный · 2025](https://boostmlbb.ru/skins/guinevere/lady-crane.html)[![](/images/skins/cards/guinevere/elegant-butterfly.webp)Изящная бабочкаОбычный · 2024](https://boostmlbb.ru/skins/guinevere/elegant-butterfly.html)[![](/images/skins/cards/guinevere/summer-breeze.webp)Летний бризИсключительный · 2024](https://boostmlbb.ru/skins/guinevere/summer-breeze.html)[![](/images/skins/cards/guinevere/psion-of-tomorrow.webp)Псион будущегоВысший · 2022](https://boostmlbb.ru/skins/guinevere/psion-of-tomorrow.html)[![](/images/skins/cards/guinevere/sakura-wishes.webp)Желания сакурыИсключительный · 2020](https://boostmlbb.ru/skins/guinevere/sakura-wishes.html)[![](/images/skins/cards/guinevere/amethyst-dance.webp)Аметис­товый танецИсключительный · 2020](https://boostmlbb.ru/skins/guinevere/amethyst-dance.html)[![](/images/skins/cards/guinevere/lotus.webp)ЛотосИсключительный · 2019](https://boostmlbb.ru/skins/guinevere/lotus.html)[![](/images/skins/cards/guinevere/athena-asamiya.webp)Афина АсамияГрандиозный · 2019](https://boostmlbb.ru/skins/guinevere/athena-asamiya.html)[![](/images/skins/cards/guinevere/fleur-de-bleau.webp)Синий цветокОбычный · 2019](https://boostmlbb.ru/skins/guinevere/fleur-de-bleau.html)
+
+[Все 10 скинов Гвиневры: цены и как получить](https://boostmlbb.ru/skins/guinevere.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/hilda.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Хильда](/images/heroes/art/hilda.webp)
 
@@ -27,7 +27,7 @@ C
 
 4,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -336,6 +336,12 @@ C
 ### Кого контрит Хильда
 
 [![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
+
+## Скины Хильды
+
+[![](/images/skins/cards/hilda/guardian-battalion.webp)Батальон стражей2026](https://boostmlbb.ru/skins/hilda/guardian-battalion.html)[![](/images/skins/cards/hilda/bass-craze.webp)Басовое безумиеИсключительный · 2021](https://boostmlbb.ru/skins/hilda/bass-craze.html)[![](/images/skins/cards/hilda/aries.webp)ОвенДелюкс · 2019](https://boostmlbb.ru/skins/hilda/aries.html)[![](/images/skins/cards/hilda/sacred-guard.webp)Священная стражаОбычный · 2018](https://boostmlbb.ru/skins/hilda/sacred-guard.html)[![](/images/skins/cards/hilda/flower-of-the-wastes.webp)Цветок пустошейОбычный · 2017](https://boostmlbb.ru/skins/hilda/flower-of-the-wastes.html)[![](/images/skins/cards/hilda/power-of-wildness.webp)Сила дикой природыОбычный · 2017](https://boostmlbb.ru/skins/hilda/power-of-wildness.html)
+
+[Все 6 скинов Хильды: цены и как получить](https://boostmlbb.ru/skins/hilda.html)
 
 ## История
 

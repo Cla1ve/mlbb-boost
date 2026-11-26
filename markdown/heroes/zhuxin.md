@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/zhuxin.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Чжусинь](/images/heroes/art/zhuxin.webp)
 
@@ -27,7 +27,7 @@ A
 
 0,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -336,6 +336,12 @@ A
 ### Кого контрит Чжусинь
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+
+## Скины Чжусинь
+
+[![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)Чжусинь P.ACEДелюкс · 2025](https://boostmlbb.ru/skins/zhuxin/p-ace-zhuxin.html)[![](/images/skins/cards/zhuxin/emberwisp-mystic.webp)Мистик тлеющего огонькаИсключительный · 2025](https://boostmlbb.ru/skins/zhuxin/emberwisp-mystic.html)[![](/images/skins/cards/zhuxin/ethereal-serenity.webp)Неземная безмя­тежностьОбычный · 2024](https://boostmlbb.ru/skins/zhuxin/ethereal-serenity.html)
+
+[Все 3 скина Чжусинь: цены и как получить](https://boostmlbb.ru/skins/zhuxin.html)
 
 ## История
 

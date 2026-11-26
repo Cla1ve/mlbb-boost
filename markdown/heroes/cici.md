@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/cici.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Чичи](/images/heroes/art/cici.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -334,6 +334,12 @@ B
 ### Кого контрит Чичи
 
 [![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
+
+## Скины Чичи
+
+[![](/images/skins/cards/cici/p-ace-cici.webp)Чичи P.ACEДелюкс · 2025](https://boostmlbb.ru/skins/cici/p-ace-cici.html)[![](/images/skins/cards/cici/circus-reverie.webp)Цирковая грезаИсключительный · 2025](https://boostmlbb.ru/skins/cici/circus-reverie.html)[![](/images/skins/cards/cici/whimsical-carnival.webp)Причуд­ливый карнавалОбычный · 2023](https://boostmlbb.ru/skins/cici/whimsical-carnival.html)
+
+[Все 3 скина Чичи: цены и как получить](https://boostmlbb.ru/skins/cici.html)
 
 ## История
 

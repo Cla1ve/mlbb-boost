@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/khaleed.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Халид](/images/heroes/art/khaleed.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ D
 ### Кого контрит Халид
 
 [![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
+
+## Скины Халида
+
+[![](/images/skins/cards/khaleed/desert-salamander.webp)Пустынная саламандраОбычный · 2025](https://boostmlbb.ru/skins/khaleed/desert-salamander.html)[![](/images/skins/cards/khaleed/wave-strider.webp)Покоритель волнДелюкс · 2024](https://boostmlbb.ru/skins/khaleed/wave-strider.html)[![](/images/skins/cards/khaleed/crescent-scimitar.webp)Скимитар полумесяцаОбычный · 2021](https://boostmlbb.ru/skins/khaleed/crescent-scimitar.html)[![](/images/skins/cards/khaleed/prince-of-sand.webp)Принц песковОбычный · 2020](https://boostmlbb.ru/skins/khaleed/prince-of-sand.html)
+
+[Все 4 скина Халида: цены и как получить](https://boostmlbb.ru/skins/khaleed.html)
 
 ## История
 

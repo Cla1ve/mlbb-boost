@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/beatrix.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Беатрис](/images/heroes/art/beatrix.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,4%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -351,6 +351,12 @@ C
 ### Кого контрит Беатрис
 
 [![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)
+
+## Скины Беатрис
+
+[![](/images/skins/cards/beatrix/sky-force-maverick.webp)Небесный асДелюкс · 2025](https://boostmlbb.ru/skins/beatrix/sky-force-maverick.html)[![](/images/skins/cards/beatrix/vibrant-fiesta.webp)Яркая фиестаИсключительный · 2023](https://boostmlbb.ru/skins/beatrix/vibrant-fiesta.html)[![](/images/skins/cards/beatrix/stellar-briliance.webp)Звёздный блескГрандиозный · 2022](https://boostmlbb.ru/skins/beatrix/stellar-briliance.html)[![](/images/skins/cards/beatrix/light-chaser.webp)Охотница за светомДелюкс · 2022](https://boostmlbb.ru/skins/beatrix/light-chaser.html)[![](/images/skins/cards/beatrix/space-agent.webp)Косми­ческий агентИсключительный · 2022](https://boostmlbb.ru/skins/beatrix/space-agent.html)[![](/images/skins/cards/beatrix/blitz-attack.webp)Блиц-атакаОбычный · 2021](https://boostmlbb.ru/skins/beatrix/blitz-attack.html)[![](/images/skins/cards/beatrix/x-factor.webp)Фактор XОбычный · 2021](https://boostmlbb.ru/skins/beatrix/x-factor.html)
+
+[Все 7 скинов Беатрис: цены и как получить](https://boostmlbb.ru/skins/beatrix.html)
 
 ## История
 

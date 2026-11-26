@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/estes.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Estes hero art](/images/heroes/art/estes.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 32.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Estes casts an enhanced Moonlight Immersion on himself and all nearby allied her
 ### Who Estes counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
+
+## Estes skins
+
+[![](/images/skins/cards/estes/arcane-magistrate.webp)Arcane MagistrateExceptional · 2025](https://boostmlbb.ru/en/skins/estes/arcane-magistrate.html)[![](/images/skins/cards/estes/sparkle-estes.webp)SPARKLE EstesDeluxe · 2024](https://boostmlbb.ru/en/skins/estes/sparkle-estes.html)[![](/images/skins/cards/estes/blacklist-international.webp)Blacklist Interna­tionalDeluxe · 2024](https://boostmlbb.ru/en/skins/estes/blacklist-international.html)[![](/images/skins/cards/estes/crow-bishop.webp)Crow BishopExceptional · 2020](https://boostmlbb.ru/en/skins/estes/crow-bishop.html)[![](/images/skins/cards/estes/white-crane.webp)White CraneCommon · 2018](https://boostmlbb.ru/en/skins/estes/white-crane.html)[![](/images/skins/cards/estes/galaxy-dominator.webp)Galaxy DominatorExquisite](https://boostmlbb.ru/en/skins/estes/galaxy-dominator.html)[![](/images/skins/cards/estes/rattan-dragon.webp)Rattan DragonDeluxe · 2017](https://boostmlbb.ru/en/skins/estes/rattan-dragon.html)[![](/images/skins/cards/estes/holy-priest.webp)Holy PriestCommon · 2017](https://boostmlbb.ru/en/skins/estes/holy-priest.html)
+
+[All 8 Estes skins: prices and how to get them](https://boostmlbb.ru/en/skins/estes.html)
 
 ## Lore
 

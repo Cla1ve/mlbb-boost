@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/harley.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Харли](/images/heroes/art/harley.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,8%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ B
 ### Кого контрит Харли
 
 [![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)[![](/images/heroes/art/roger.webp)Роджер](https://boostmlbb.ru/heroes/roger.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+
+## Скины Харли
+
+[![](/images/skins/cards/harley/dreaming-koi.webp)Мечта­тельный коиИсключительный · 2026](https://boostmlbb.ru/skins/harley/dreaming-koi.html)[![](/images/skins/cards/harley/star-magician.webp)Звёздный фокусникОбычный · 2024](https://boostmlbb.ru/skins/harley/star-magician.html)[![](/images/skins/cards/harley/pulsar-prodigy.webp)Вундеркинд-пульсарИсключительный · 2023](https://boostmlbb.ru/skins/harley/pulsar-prodigy.html)[![](/images/skins/cards/harley/dream-caster.webp)Закли­натель сновИзысканный · 2021](https://boostmlbb.ru/skins/harley/dream-caster.html)[![](/images/skins/cards/harley/v-e-n-o-m-octopus.webp)Осьминог V.E.N.O.M.Делюкс · 2019](https://boostmlbb.ru/skins/harley/v-e-n-o-m-octopus.html)[![](/images/skins/cards/harley/great-inventor.webp)Великий изобре­тательДелюкс · 2018](https://boostmlbb.ru/skins/harley/great-inventor.html)[![](/images/skins/cards/harley/referee.webp)СудьяИсключительный · 2018](https://boostmlbb.ru/skins/harley/referee.html)[![](/images/skins/cards/harley/royal-magister.webp)Коро­левский магистрИсключительный · 2018](https://boostmlbb.ru/skins/harley/royal-magister.html)[![](/images/skins/cards/harley/naughty-joker.webp)Озорной шутникОбычный · 2017](https://boostmlbb.ru/skins/harley/naughty-joker.html)
+
+[Все 9 скинов Харли: цены и как получить](https://boostmlbb.ru/skins/harley.html)
 
 ## История
 

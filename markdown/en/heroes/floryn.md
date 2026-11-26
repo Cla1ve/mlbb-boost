@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Floryn hero art](/images/heroes/art/floryn.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 13.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -331,6 +331,12 @@ Floryn resonates with Dew's power, recovering 250 (+100% Total Magic Power) HP f
 ### Who Floryn counters
 
 [![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+
+## Floryn skins
+
+[![](/images/skins/cards/floryn/herald-of-autumn.webp)Herald of AutumnGrand · 2026](https://boostmlbb.ru/en/skins/floryn/herald-of-autumn.html)[![](/images/skins/cards/floryn/melody-of-light.webp)Melody of LightExquisite · 2025](https://boostmlbb.ru/en/skins/floryn/melody-of-light.html)[![](/images/skins/cards/floryn/yatai-waitress.webp)Yatai WaitressExceptional · 2024](https://boostmlbb.ru/en/skins/floryn/yatai-waitress.html)[![](/images/skins/cards/floryn/paw-power.webp)Paw PowerCommon · 2023](https://boostmlbb.ru/en/skins/floryn/paw-power.html)[![](/images/skins/cards/floryn/fluffy-dream.webp)Fluffy DreamGrand · 2022](https://boostmlbb.ru/en/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/floryn/springtide.webp)SpringtideCommon · 2021](https://boostmlbb.ru/en/skins/floryn/springtide.html)
+
+[All 6 Floryn skins: prices and how to get them](https://boostmlbb.ru/en/skins/floryn.html)
 
 ## Lore
 

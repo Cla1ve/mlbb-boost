@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/aulus.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Аулус](/images/heroes/art/aulus.webp)
 
@@ -27,7 +27,7 @@ S
 
 19,8%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -342,6 +342,12 @@ S
 ### Кто контрит Аулуса
 
 [![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+
+## Скины Аулуса
+
+[![](/images/skins/cards/aulus/ironmane-reaver.webp)Разоритель Железная ГриваОбычный · 2024](https://boostmlbb.ru/skins/aulus/ironmane-reaver.html)[![](/images/skins/cards/aulus/war-lion.webp)Боевой левИсключительный · 2023](https://boostmlbb.ru/skins/aulus/war-lion.html)[![](/images/skins/cards/aulus/barren-pioneer.webp)Первоп­роходец пустошейОбычный · 2022](https://boostmlbb.ru/skins/aulus/barren-pioneer.html)[![](/images/skins/cards/aulus/berserker.webp)БерсеркОбычный · 2021](https://boostmlbb.ru/skins/aulus/berserker.html)
+
+[Все 4 скина Аулуса: цены и как получить](https://boostmlbb.ru/skins/aulus.html)
 
 ## История
 

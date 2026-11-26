@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Cyclops hero art](/images/heroes/art/cyclops.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -332,6 +332,12 @@ Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, d
 ### Who Cyclops counters
 
 [![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Cyclops skins
+
+[![](/images/skins/cards/cyclops/spongebob.webp)SpongeBobDeluxe · 2025](https://boostmlbb.ru/en/skins/cyclops/spongebob.html)[![](/images/skins/cards/cyclops/yokai-warlock.webp)Yokai WarlockExquisite · 2023](https://boostmlbb.ru/en/skins/cyclops/yokai-warlock.html)[![](/images/skins/cards/cyclops/straw-doll.webp)Straw DollExceptional · 2021](https://boostmlbb.ru/en/skins/cyclops/straw-doll.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Master YodaGrand · 2021](https://boostmlbb.ru/en/skins/cyclops/master-yoda.html)[![](/images/skins/cards/cyclops/deep-sea-rescuer.webp)Deep Sea RescuerExceptional · 2018](https://boostmlbb.ru/en/skins/cyclops/deep-sea-rescuer.html)[![](/images/skins/cards/cyclops/zombie-bambino.webp)Zombie BambinoCommon · 2018](https://boostmlbb.ru/en/skins/cyclops/zombie-bambino.html)[![](/images/skins/cards/cyclops/s-a-b-e-r-enforcer.webp)S.A.B.E.R. EnforcerDeluxe · 2018](https://boostmlbb.ru/en/skins/cyclops/s-a-b-e-r-enforcer.html)[![](/images/skins/cards/cyclops/super-adventurer.webp)Super AdventurerCommon · 2017](https://boostmlbb.ru/en/skins/cyclops/super-adventurer.html)[![](/images/skins/cards/cyclops/exorcist.webp)ExorcistCommon · 2017](https://boostmlbb.ru/en/skins/cyclops/exorcist.html)
+
+[All 9 Cyclops skins: prices and how to get them](https://boostmlbb.ru/en/skins/cyclops.html)
 
 ## Lore
 

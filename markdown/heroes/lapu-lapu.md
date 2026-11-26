@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lapu-lapu.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Лапу-Лапу](/images/heroes/art/lapu-lapu.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -341,6 +341,12 @@ C
 ### Кого контрит Лапу-Лапу
 
 [![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
+
+## Скины Лапу-Лапу
+
+[![](/images/skins/cards/lapu-lapu/adlaw-s-chosen.webp)Избранник АдлауИзысканный · 2024](https://boostmlbb.ru/skins/lapu-lapu/adlaw-s-chosen.html)[![](/images/skins/cards/lapu-lapu/son-of-the-wild.webp)Сын дикой природыОбычный · 2022](https://boostmlbb.ru/skins/lapu-lapu/son-of-the-wild.html)[![](/images/skins/cards/lapu-lapu/special-force.webp)СпецназИсключительный · 2021](https://boostmlbb.ru/skins/lapu-lapu/special-force.html)[![](/images/skins/cards/lapu-lapu/vulcan.webp)ВулканИсключительный · 2019](https://boostmlbb.ru/skins/lapu-lapu/vulcan.html)[![](/images/skins/cards/lapu-lapu/ancestral-blade.webp)Клинок предковОбычный · 2017](https://boostmlbb.ru/skins/lapu-lapu/ancestral-blade.html)[![](/images/skins/cards/lapu-lapu/imperial-champion.webp)Имперский чемпионОбычный · 2017](https://boostmlbb.ru/skins/lapu-lapu/imperial-champion.html)
+
+[Все 6 скинов Лапу-Лапу: цены и как получить](https://boostmlbb.ru/skins/lapu-lapu.html)
 
 ## История
 

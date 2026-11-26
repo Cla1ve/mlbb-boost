@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/wanwan.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Wanwan hero art](/images/heroes/art/wanwan.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -358,6 +358,12 @@ Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit 
 ### Who Wanwan counters
 
 [![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+
+## Wanwan skins
+
+[![](/images/skins/cards/wanwan/summer-splash.webp)Summer SplashExceptional · 2025](https://boostmlbb.ru/en/skins/wanwan/summer-splash.html)[![](/images/skins/cards/wanwan/flying-swallow.webp)Flying SwallowGrand · 2024](https://boostmlbb.ru/en/skins/wanwan/flying-swallow.html)[![](/images/skins/cards/wanwan/m-world-wanwan.webp)M-World WanwanDeluxe · 2022](https://boostmlbb.ru/en/skins/wanwan/m-world-wanwan.html)[![](/images/skins/cards/wanwan/e-girl.webp)E-girlExceptional · 2021](https://boostmlbb.ru/en/skins/wanwan/e-girl.html)[![](/images/skins/cards/wanwan/pixel-blast.webp)Pixel BlastExquisite · 2021](https://boostmlbb.ru/en/skins/wanwan/pixel-blast.html)[![](/images/skins/cards/wanwan/teen-pop.webp)Teen PopExceptional · 2020](https://boostmlbb.ru/en/skins/wanwan/teen-pop.html)[![](/images/skins/cards/wanwan/shoujo-commander.webp)Shoujo CommanderCommon · 2020](https://boostmlbb.ru/en/skins/wanwan/shoujo-commander.html)[![](/images/skins/cards/wanwan/darting-star.webp)Darting StarCommon · 2019](https://boostmlbb.ru/en/skins/wanwan/darting-star.html)
+
+[All 8 Wanwan skins: prices and how to get them](https://boostmlbb.ru/en/skins/wanwan.html)
 
 ## Lore
 

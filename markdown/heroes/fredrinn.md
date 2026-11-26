@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/fredrinn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Фредрин](/images/heroes/art/fredrinn.webp)
 
@@ -27,7 +27,7 @@ C
 
 1,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -349,6 +349,12 @@ C
 ### Кого контрит Фредрин
 
 [![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+
+## Скины Фредрина
+
+[![](/images/skins/cards/fredrinn/royal-marshal.webp)Коро­левский маршалИсключительный · 2025](https://boostmlbb.ru/skins/fredrinn/royal-marshal.html)[![](/images/skins/cards/fredrinn/sparkle-fredrinn.webp)Фредрин SPARKLEДелюкс · 2024](https://boostmlbb.ru/skins/fredrinn/sparkle-fredrinn.html)[![](/images/skins/cards/fredrinn/neobeast-fredrinn.webp)Фредрин NeobeastГрандиозный · 2023](https://boostmlbb.ru/skins/fredrinn/neobeast-fredrinn.html)[![](/images/skins/cards/fredrinn/jewel-connoisseur.webp)Знаток драгоцен­ностейОбычный · 2023](https://boostmlbb.ru/skins/fredrinn/jewel-connoisseur.html)[![](/images/skins/cards/fredrinn/regal-renegade.webp)Царственный отступникОбычный · 2022](https://boostmlbb.ru/skins/fredrinn/regal-renegade.html)
+
+[Все 5 скинов Фредрина: цены и как получить](https://boostmlbb.ru/skins/fredrinn.html)
 
 ## История
 

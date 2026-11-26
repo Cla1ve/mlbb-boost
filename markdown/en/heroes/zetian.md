@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/zetian.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Zetian hero art](/images/heroes/art/zetian.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 3.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ Zetian can cast other skills while channeling this skill.
 ### Who counters Zetian
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
+
+## Zetian skins
+
+[![](/images/skins/cards/zetian/elysian-luminance.webp)Elysian Luminance2026](https://boostmlbb.ru/en/skins/zetian/elysian-luminance.html)[![](/images/skins/cards/zetian/heavenly-splendor.webp)Heavenly SplendorCommon · 2025](https://boostmlbb.ru/en/skins/zetian/heavenly-splendor.html)
+
+[All 2 Zetian skins: prices and how to get them](https://boostmlbb.ru/en/skins/zetian.html)
 
 ## Lore
 

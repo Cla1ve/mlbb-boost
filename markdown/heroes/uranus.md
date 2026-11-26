@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/uranus.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Уранус](/images/heroes/art/uranus.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -335,6 +335,12 @@ B
 ### Кого контрит Уранус
 
 [![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+
+## Скины Урануса
+
+[![](/images/skins/cards/uranus/earthen-relic.webp)Земная реликвияОбычный · 2023](https://boostmlbb.ru/skins/uranus/earthen-relic.html)[![](/images/skins/cards/uranus/pinball-machine.webp)ПинболИсключительный · 2022](https://boostmlbb.ru/skins/uranus/pinball-machine.html)[![](/images/skins/cards/uranus/celestial-bastion.webp)Небесный бастионДелюкс · 2022](https://boostmlbb.ru/skins/uranus/celestial-bastion.html)[![](/images/skins/cards/uranus/video-game-dominator.webp)Повелитель видеоигрИзысканный · 2020](https://boostmlbb.ru/skins/uranus/video-game-dominator.html)[![](/images/skins/cards/uranus/mech-protector.webp)Механи­ческий защитникИсключительный · 2019](https://boostmlbb.ru/skins/uranus/mech-protector.html)[![](/images/skins/cards/uranus/ancient-soul.webp)Древняя душаОбычный · 2018](https://boostmlbb.ru/skins/uranus/ancient-soul.html)
+
+[Все 6 скинов Урануса: цены и как получить](https://boostmlbb.ru/skins/uranus.html)
 
 ## История
 

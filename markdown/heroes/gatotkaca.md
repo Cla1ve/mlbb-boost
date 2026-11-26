@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gatotkaca.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Гатоткача](/images/heroes/art/gatotkaca.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -333,6 +333,12 @@ C
 ### Кого контрит Гатоткача
 
 [![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
+
+## Скины Гатоткачи
+
+[![](/images/skins/cards/gatotkaca/nutcracker-monarch.webp)Щелкунчик-монархИсключительный · 2024](https://boostmlbb.ru/skins/gatotkaca/nutcracker-monarch.html)[![](/images/skins/cards/gatotkaca/tide-preserver.webp)Хранитель приливовДелюкс · 2024](https://boostmlbb.ru/skins/gatotkaca/tide-preserver.html)[![](/images/skins/cards/gatotkaca/spark.webp)ИскраОбычный · 2019](https://boostmlbb.ru/skins/gatotkaca/spark.html)[![](/images/skins/cards/gatotkaca/sentinel.webp)ЧасовойИзысканный · 2018](https://boostmlbb.ru/skins/gatotkaca/sentinel.html)[![](/images/skins/cards/gatotkaca/arhat-king.webp)Король архатовОбычный · 2018](https://boostmlbb.ru/skins/gatotkaca/arhat-king.html)[![](/images/skins/cards/gatotkaca/mighty-guardian.webp)Могучий стражОбычный · 2017](https://boostmlbb.ru/skins/gatotkaca/mighty-guardian.html)[![](/images/skins/cards/gatotkaca/solar-spark.webp)Солнечная искра](https://boostmlbb.ru/skins/gatotkaca/solar-spark.html)
+
+[Все 7 скинов Гатоткачи: цены и как получить](https://boostmlbb.ru/skins/gatotkaca.html)
 
 ## История
 

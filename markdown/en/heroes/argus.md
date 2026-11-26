@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Argus hero art](/images/heroes/art/argus.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -360,6 +360,12 @@ Argus removes all control effects, gains Death Immunity for 4s, and deals 150 (+
 ### Who Argus counters
 
 [![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
+
+## Argus skins
+
+[![](/images/skins/cards/argus/raiden-maru.webp)Raiden MaruExquisite · 2026](https://boostmlbb.ru/en/skins/argus/raiden-maru.html)[![](/images/skins/cards/argus/darth-vader.webp)Darth VaderGrand · 2021](https://boostmlbb.ru/en/skins/argus/darth-vader.html)[![](/images/skins/cards/argus/winged-nightmare.webp)Winged NightmareCommon · 2019](https://boostmlbb.ru/en/skins/argus/winged-nightmare.html)[![](/images/skins/cards/argus/catastrophe.webp)CatastropheCommon · 2018](https://boostmlbb.ru/en/skins/argus/catastrophe.html)[![](/images/skins/cards/argus/dark-draconic.webp)Dark DraconicExceptional · 2017](https://boostmlbb.ru/en/skins/argus/dark-draconic.html)[![](/images/skins/cards/argus/light-of-dawn.webp)Light of DawnCommon · 2017](https://boostmlbb.ru/en/skins/argus/light-of-dawn.html)
+
+[All 6 Argus skins: prices and how to get them](https://boostmlbb.ru/en/skins/argus.html)
 
 ## Lore
 

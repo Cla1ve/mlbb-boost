@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/suyou.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Су Ё](/images/heroes/art/suyou.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -342,6 +342,12 @@ B
 ### Кого контрит Су Ё
 
 [![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)
+
+## Скины Су Ё
+
+[![](/images/skins/cards/suyou/sasuke-uchiha.webp)Саске УчихаГрандиозный · 2025](https://boostmlbb.ru/skins/suyou/sasuke-uchiha.html)[![](/images/skins/cards/suyou/venerated-vigilance.webp)Почтенная бди­тельностьОбычный · 2024](https://boostmlbb.ru/skins/suyou/venerated-vigilance.html)
+
+[Все 2 скина Су Ё: цены и как получить](https://boostmlbb.ru/skins/suyou.html)
 
 ## История
 

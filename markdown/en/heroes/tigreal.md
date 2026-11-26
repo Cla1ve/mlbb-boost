@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/tigreal.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Tigreal hero art](/images/heroes/art/tigreal.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 4.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ The first half of the channeling can be interrupted by control effects, while th
 ### Who Tigreal counters
 
 [![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)
+
+## Tigreal skins
+
+[![](/images/skins/cards/tigreal/celestial-general.webp)Celestial General2026](https://boostmlbb.ru/en/skins/tigreal/celestial-general.html)[![](/images/skins/cards/tigreal/steel-guardian.webp)Steel GuardianCommon · 2025](https://boostmlbb.ru/en/skins/tigreal/steel-guardian.html)[![](/images/skins/cards/tigreal/pasha-of-justice.webp)Pasha of JusticeExceptional · 2024](https://boostmlbb.ru/en/skins/tigreal/pasha-of-justice.html)[![](/images/skins/cards/tigreal/galactic-marshal.webp)Galactic MarshalExceptional · 2022](https://boostmlbb.ru/en/skins/tigreal/galactic-marshal.html)[![](/images/skins/cards/tigreal/gold-baron.webp)Gold BaronExceptional · 2021](https://boostmlbb.ru/en/skins/tigreal/gold-baron.html)[![](/images/skins/cards/tigreal/lightborn-defender.webp)Lightborn - DefenderDeluxe · 2019](https://boostmlbb.ru/en/skins/tigreal/lightborn-defender.html)[![](/images/skins/cards/tigreal/wyrmslayer.webp)WyrmslayerCommon · 2018](https://boostmlbb.ru/en/skins/tigreal/wyrmslayer.html)[![](/images/skins/cards/tigreal/fallen-guard.webp)Fallen GuardCommon · 2017](https://boostmlbb.ru/en/skins/tigreal/fallen-guard.html)[![](/images/skins/cards/tigreal/dark-guardian.webp)Dark GuardianCommon · 2016](https://boostmlbb.ru/en/skins/tigreal/dark-guardian.html)
+
+[All 9 Tigreal skins: prices and how to get them](https://boostmlbb.ru/en/skins/tigreal.html)
 
 ## Lore
 

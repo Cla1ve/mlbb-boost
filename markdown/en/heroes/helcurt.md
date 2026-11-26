@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/helcurt.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Helcurt hero art](/images/heroes/art/helcurt.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 2.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -343,6 +343,12 @@ The Dark Night makes it easier for Helcurt to leave enemies' sight range.
 ### Who Helcurt counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
+
+## Helcurt skins
+
+[![](/images/skins/cards/helcurt/kaiju-of-the-deep.webp)Kaiju of the DeepExquisite · 2026](https://boostmlbb.ru/en/skins/helcurt/kaiju-of-the-deep.html)[![](/images/skins/cards/helcurt/dream-prowler.webp)Dream ProwlerExceptional · 2024](https://boostmlbb.ru/en/skins/helcurt/dream-prowler.html)[![](/images/skins/cards/helcurt/scorpio.webp)ScorpioDeluxe · 2019](https://boostmlbb.ru/en/skins/helcurt/scorpio.html)[![](/images/skins/cards/helcurt/evolved-predator.webp)Evolved PredatorExceptional · 2018](https://boostmlbb.ru/en/skins/helcurt/evolved-predator.html)[![](/images/skins/cards/helcurt/ice-scythe.webp)Ice ScytheCommon · 2018](https://boostmlbb.ru/en/skins/helcurt/ice-scythe.html)[![](/images/skins/cards/helcurt/exoracial-executer.webp)Exoracial ExecuterCommon · 2017](https://boostmlbb.ru/en/skins/helcurt/exoracial-executer.html)
+
+[All 6 Helcurt skins: prices and how to get them](https://boostmlbb.ru/en/skins/helcurt.html)
 
 ## Lore
 

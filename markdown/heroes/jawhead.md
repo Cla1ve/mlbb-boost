@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/jawhead.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Кусака](/images/heroes/art/jawhead.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -333,6 +333,12 @@ C
 ### Кого контрит Кусака
 
 [![](/images/heroes/art/sun.webp)Сан](https://boostmlbb.ru/heroes/sun.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Пополь и Купа](https://boostmlbb.ru/heroes/popol-and-kupa.html)
+
+## Скины Кусаки
+
+[![](/images/skins/cards/jawhead/proto-guardian.webp)ПротостражДелюкс · 2025](https://boostmlbb.ru/skins/jawhead/proto-guardian.html)[![](/images/skins/cards/jawhead/victory-loader.webp)Погрузчик победыОбычный · 2024](https://boostmlbb.ru/skins/jawhead/victory-loader.html)[![](/images/skins/cards/jawhead/cyber-ranger.webp)Кибер-рейнджерИсключительный · 2023](https://boostmlbb.ru/skins/jawhead/cyber-ranger.html)[![](/images/skins/cards/jawhead/candy-bear.webp)Конфетный мишкаИсключительный · 2021](https://boostmlbb.ru/skins/jawhead/candy-bear.html)[![](/images/skins/cards/jawhead/samurai-mech.webp)Саму­райский мехИзысканный · 2020](https://boostmlbb.ru/skins/jawhead/samurai-mech.html)[![](/images/skins/cards/jawhead/foo-quarterback.webp)Квотербек ФуОбычный · 2019](https://boostmlbb.ru/skins/jawhead/foo-quarterback.html)[![](/images/skins/cards/jawhead/the-nutcracker.webp)ЩелкунчикИсключительный · 2019](https://boostmlbb.ru/skins/jawhead/the-nutcracker.html)[![](/images/skins/cards/jawhead/space-explorer.webp)Косми­ческий исследо­вательИсключительный · 2018](https://boostmlbb.ru/skins/jawhead/space-explorer.html)[![](/images/skins/cards/jawhead/girl-scout.webp)Девочка-скаутОбычный · 2018](https://boostmlbb.ru/skins/jawhead/girl-scout.html)
+
+[Все 9 скинов Кусаки: цены и как получить](https://boostmlbb.ru/skins/jawhead.html)
 
 ## История
 

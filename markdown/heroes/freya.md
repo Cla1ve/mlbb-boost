@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/freya.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Фрейя](/images/heroes/art/freya.webp)
 
@@ -27,7 +27,7 @@ S
 
 11,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -340,6 +340,12 @@ S
 ### Кого контрит Фрейя
 
 [![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
+
+## Скины Фрейи
+
+[![](/images/skins/cards/freya/galactic-vanquisher.webp)Галакти­ческая победи­тельницаВысший · 2024](https://boostmlbb.ru/skins/freya/galactic-vanquisher.html)[![](/images/skins/cards/freya/s-a-b-e-r-manhunter.webp)Ловчая S.A.B.E.R.Делюкс · 2022](https://boostmlbb.ru/skins/freya/s-a-b-e-r-manhunter.html)[![](/images/skins/cards/freya/raven-shogun.webp)Сёгун-воронДелюкс · 2020](https://boostmlbb.ru/skins/freya/raven-shogun.html)[![](/images/skins/cards/freya/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2018](https://boostmlbb.ru/skins/freya/christmas-carnival.html)[![](/images/skins/cards/freya/gladiator.webp)ГладиаторОбычный · 2018](https://boostmlbb.ru/skins/freya/gladiator.html)[![](/images/skins/cards/freya/dragon-hunter.webp)Охотница на драконовИсключительный · 2017](https://boostmlbb.ru/skins/freya/dragon-hunter.html)[![](/images/skins/cards/freya/war-angel.webp)Ангел войныИзысканный · 2017](https://boostmlbb.ru/skins/freya/war-angel.html)[![](/images/skins/cards/freya/beach-sweetheart.webp)Пляжная красоткаИсключительный · 2017](https://boostmlbb.ru/skins/freya/beach-sweetheart.html)[![](/images/skins/cards/freya/dark-rose.webp)Тёмная розаОбычный · 2017](https://boostmlbb.ru/skins/freya/dark-rose.html)
+
+[Все 9 скинов Фрейи: цены и как получить](https://boostmlbb.ru/skins/freya.html)
 
 ## История
 

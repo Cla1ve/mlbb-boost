@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/vale.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Вэйл](/images/heroes/art/vale.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -330,6 +330,12 @@ C
 ### Кого контрит Вэйл
 
 [![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)
+
+## Скины Вэйла
+
+[![](/images/skins/cards/vale/windborne-waltz.webp)Вальс на ветруИсключительный · 2026](https://boostmlbb.ru/skins/vale/windborne-waltz.html)[![](/images/skins/cards/vale/gaara.webp)ГаараДелюкс · 2025](https://boostmlbb.ru/skins/vale/gaara.html)[![](/images/skins/cards/vale/keeper-of-the-winds.webp)Хранитель ветровДелюкс · 2025](https://boostmlbb.ru/skins/vale/keeper-of-the-winds.html)[![](/images/skins/cards/vale/concerto-of-light.webp)Концерт светаИзысканный · 2024](https://boostmlbb.ru/skins/vale/concerto-of-light.html)[![](/images/skins/cards/vale/kannagi.webp)КаннагиОбычный · 2023](https://boostmlbb.ru/skins/vale/kannagi.html)[![](/images/skins/cards/vale/blizzard-storm.webp)Снежная буряГрандиозный · 2023](https://boostmlbb.ru/skins/vale/blizzard-storm.html)[![](/images/skins/cards/vale/supernal-tempest.webp)Высшая буряИзысканный · 2022](https://boostmlbb.ru/skins/vale/supernal-tempest.html)[![](/images/skins/cards/vale/soaring-devata.webp)Парящий дэватаИсключительный · 2021](https://boostmlbb.ru/skins/vale/soaring-devata.html)[![](/images/skins/cards/vale/cerulean-winds.webp)Лазурные ветраОбычный · 2019](https://boostmlbb.ru/skins/vale/cerulean-winds.html)
+
+[Все 9 скинов Вэйла: цены и как получить](https://boostmlbb.ru/skins/vale.html)
 
 ## История
 

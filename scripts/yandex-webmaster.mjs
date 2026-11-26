@@ -51,7 +51,7 @@ function priority(url) {
   const path = new URL(url).pathname;
   if (path.startsWith('/en/')) return 900 + (path.includes('/news/') ? 0 : 50);
   if (/^\/(offer|privacy|terms|cookies|disclaimer|refund|security|documents|sitemap-page)\.html$/.test(path)) return 800;
-  const core = ['/', '/prices.html', '/services.html', '/order.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html', '/guides/party-boost.html', '/heroes/', '/items/', '/news/', '/reviews.html', '/faq.html', '/about.html'];
+  const core = ['/', '/prices.html', '/services.html', '/order.html', '/boost/mythic.html', '/boost/hero.html', '/guides/mythic-placement.html', '/guides/party-boost.html', '/heroes/', '/items/', '/skins/', '/news/', '/reviews.html', '/faq.html', '/about.html'];
   if (core.includes(path)) return core.indexOf(path);
   // Ranking lists (best junglers, heroes for beginners): right after the core pages, they are the entry points for hero searches.
   if (/^\/heroes\/(best-[a-z]+|for-beginners)\.html$/.test(path)) return 20;
@@ -61,6 +61,9 @@ function priority(url) {
   // Item pages: finished items first (people search for them by name), parts after.
   const item = path.match(/^\/items\/([a-z0-9-]+)\.html$/);
   if (item) return itemKind[item[1]] === 'part' ? 380 : 360;
+  // Skins: hero pages ("скины лейлы") before the single skins; a skin page is searched by its own name.
+  if (/^\/skins\/[a-z0-9-]+\.html$/.test(path)) return 340;
+  if (/^\/skins\/[a-z0-9-]+\/[a-z0-9-]+\.html$/.test(path)) return 420;
   return 500;
 }
 

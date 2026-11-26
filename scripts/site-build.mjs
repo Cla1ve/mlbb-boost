@@ -8,6 +8,7 @@ import TurndownService from 'turndown';
 import reviewText from '../js/review-text.js';
 import { heroGuides, rateHeroes } from './hero-pages.mjs';
 import { itemGuides, itemIndex } from './item-pages.mjs';
+import { skinGuides } from './skin-pages.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const origin = 'https://boostmlbb.ru';
@@ -39,8 +40,12 @@ if (academyData) for (const [id, entry] of Object.entries(academyData.items)) if
 const playData = await read('content/heroes-play.json').then(JSON.parse).catch(() => null);
 const comboRu = await read('content/combos-ru.json').then(text => JSON.parse(text).texts).catch(() => ({}));
 const heroCases = JSON.parse(await read('content/hero-cases.json')).forms;
-config.guides.push(...heroGuides(heroesData, academyData, JSON.parse(await read('content/hero-story-fallbacks.json')), { play: playData, comboRu, cases: heroCases }));
+// Skins (content/skins.json from scripts/skins-data.mjs, Russian names in content/skins-ru.json): the /skins/ section and the hero profiles' skin tab.
+const skinsData = await read('content/skins.json').then(JSON.parse).catch(() => null);
+const skins = skinsData ? skinGuides(skinsData, JSON.parse(await read('content/skins-ru.json')), heroesData, heroCases) : null;
+config.guides.push(...heroGuides(heroesData, academyData, JSON.parse(await read('content/hero-story-fallbacks.json')), { play: playData, comboRu, cases: heroCases, skins }));
 config.guides.push(...itemGuides(itemsData, heroesData, academyData));
+if (skins) config.guides.push(...skins.guides);
 const data = JSON.parse(await read('content/public-data.json'));
 const changedDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Moscow', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(data.checkedAt));
 const context = vm.createContext({ window: { MLBB_DICT: {} } });
@@ -123,7 +128,8 @@ const footerGuides = [
   ['/boost/hero.html', 'Буст на герое', 'Hero boost'],
   ['/guides/mythic-placement.html', 'Калибровка Мифика', 'Mythic placement'],
   ['/heroes/', 'Тир-лист MLBB', 'MLBB tier list'],
-  ['/items/', 'Предметы MLBB', 'MLBB items']
+  ['/items/', 'Предметы MLBB', 'MLBB items'],
+  ['/skins/', 'Скины MLBB', 'MLBB skins']
 ];
 const typeLabels = { ru: { standard: 'Обычный', role: 'На роли', hero: 'На герое', party: 'В пати' }, en: { standard: 'Account', role: 'Role', hero: 'Hero', party: 'Party' } };
 const typeOrder = ['standard', 'role', 'hero', 'party'];
@@ -269,7 +275,7 @@ function uiArt(kind, lang) {
 // The switch between the reference sections; news-pipeline.mjs draws the same one on the news pages.
 function arenaContext(lang, active, current) {
   const en = lang === 'en';
-  const links = [['tier', '/heroes/', 'Тир-лист', 'Tier list'], ['items', '/items/', 'Предметы', 'Items'], ['news', '/news/', 'Новости и гайды', 'News & guides']];
+  const links = [['tier', '/heroes/', 'Тир-лист', 'Tier list'], ['items', '/items/', 'Предметы', 'Items'], ['skins', '/skins/', 'Скины', 'Skins'], ['news', '/news/', 'Новости<span class="ctx-more"> и гайды</span>', 'News<span class="ctx-more"> &amp; guides</span>']];
   return `<nav class="arena-context" aria-label="${en ? 'Mobile Legends sections' : 'Разделы Mobile Legends'}">${links.map(([key, href, ru, english]) => `<a href="${localized(href, lang)}"${key === active ? ` aria-current="${current ? 'page' : 'true'}"` : ''}>${en ? english : ru}</a>`).join('')}</nav>`;
 }
 function guideArticle(guide, lang) {
@@ -291,6 +297,14 @@ function guideArticle(guide, lang) {
     const index = guide.file === 'items/index.html';
     return `<article class="atlas container ${index ? 'arena-directory items-page' : 'arena-profile item-page'}">
       ${arenaContext(lang, 'items', index)}
+      ${head.html}
+      ${guide[lang][2]}${faqHTML}</article>`;
+  }
+  if (guide.kind === 'skin') {
+    const head = guide[lang][4];
+    const index = guide.file === 'skins/index.html';
+    return `<article class="atlas container ${index ? 'arena-directory skins-page' : 'arena-profile skin-page'}">
+      ${arenaContext(lang, 'skins', index)}
       ${head.html}
       ${guide[lang][2]}${faqHTML}</article>`;
   }
@@ -317,7 +331,7 @@ function schema(document, file, lang, title, description, url) {
   const isList = Boolean(guide?.list || guide?.itemList);
   const isArticle = guide && guide.kind !== 'service' && !isHeroIndex && !isList;
   const page = { '@type': isArticle ? 'Article' : file === 'about.html' ? 'AboutPage' : (isHeroIndex || isList || file === 'reviews.html') ? 'CollectionPage' : 'WebPage', '@id': `${url}#page`, url, name: title, description, inLanguage: lang, isPartOf: { '@id': web['@id'] }, publisher: { '@id': org['@id'] } };
-  if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
+  if (guide) { page.headline = document.querySelector('h1').textContent.trim(); page.author = { '@id': org['@id'] }; page.image = guide.ogImage ? origin + guide.ogImage : guide.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`; page.datePublished = guide.published || '2026-10-05'; page.dateModified = guide.updated || guide.published || '2026-10-05'; }
   if (isHeroIndex) page.mainEntity = {
     '@type': 'ItemList', numberOfItems: heroesData.heroes.length,
     itemListElement: rateHeroes(heroesData.heroes).map(hero => ({ '@type': 'ListItem', position: hero.rank,
@@ -334,8 +348,9 @@ function schema(document, file, lang, title, description, url) {
   if (guide?.tool) graph.push({ '@type': 'WebApplication', '@id': `${url}#tool`, name: guide.tool[lang], url, applicationCategory: 'GameApplication', operatingSystem: 'Web browser', offers: { '@type': 'Offer', price: 0, priceCurrency: 'RUB' } });
   if (file !== 'index.html' && file !== '404.html') {
     const steps = [{ name: lang === 'en' ? 'Home' : 'Главная', item: origin + localized('/', lang) }];
-    const parent = ['hero', 'item'].includes(guide?.kind) && guide.crumb && filePath(file).startsWith(guide.crumb[0]) && origin + localized(guide.crumb[0], lang);
-    if (parent && parent !== url) steps.push({ name: lang === 'en' ? guide.crumb[2] : guide.crumb[1], item: parent });
+    const parent = ['hero', 'item', 'skin'].includes(guide?.kind) && guide.crumb && filePath(file).startsWith(guide.crumb[0]) && origin + localized(guide.crumb[0], lang);
+    if (guide?.crumbs) for (const [href, ru, en] of guide.crumbs) steps.push({ name: lang === 'en' ? en : ru, item: origin + localized(href, lang) });
+    else if (parent && parent !== url) steps.push({ name: lang === 'en' ? guide.crumb[2] : guide.crumb[1], item: parent });
     steps.push({ name: document.querySelector('h1')?.textContent.trim() || title, item: url });
     graph.push({ '@type': 'BreadcrumbList', '@id': `${url}#breadcrumbs`, itemListElement: steps.map((step, index) => ({ '@type': 'ListItem', position: index + 1, ...step })) });
   }
@@ -417,9 +432,9 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     for (const [name, value, property] of [
       ['description', description], ['robots', file === '404.html' ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'],
       ['og:title', title, true], ['og:description', description, true], ['og:type', guide ? 'article' : 'website', true], ['og:locale', lang === 'en' ? 'en_US' : 'ru_RU', true],
-      ['og:url', origin + localized(filePath(file), lang), true], ['og:image', guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`, true],
-      ['og:image:width', '1200', true], ['og:image:height', guide?.image ? '675' : '630', true], ['og:image:alt', lang === 'en' ? 'MLBB Boost — rank boost options and calculator' : 'MLBB Boost — услуги буста и калькулятор', true],
-      ['twitter:card', 'summary_large_image'], ['twitter:title', title], ['twitter:description', description], ['twitter:image', guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`], ['theme-color', '#0A1A2F']
+      ['og:url', origin + localized(filePath(file), lang), true], ['og:image', guide?.ogImage ? origin + guide.ogImage : guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`, true],
+      ['og:image:width', guide?.ogImage ? '1280' : '1200', true], ['og:image:height', guide?.ogImage ? '720' : guide?.image ? '675' : '630', true], ['og:image:alt', lang === 'en' ? 'MLBB Boost — rank boost options and calculator' : 'MLBB Boost — услуги буста и калькулятор', true],
+      ['twitter:card', 'summary_large_image'], ['twitter:title', title], ['twitter:description', description], ['twitter:image', guide?.ogImage ? origin + guide.ogImage : guide?.image ? `${origin}/images/guides/${guide.image}.jpg` : `${origin}/images/social-${lang}.png`], ['theme-color', '#0A1A2F']
     ]) meta(document, `meta[${property ? 'property' : 'name'}="${name}"]`, name, value, property);
     document.querySelectorAll('meta[name="keywords"],meta[name="revisit-after"],meta[name="geo.position"],meta[name="ICBM"],meta[name="language"],meta[name="distribution"],meta[name="rating"]').forEach(node => node.remove());
     document.querySelectorAll('link[rel="canonical"],link[hreflang],link[rel="alternate"][type="text/markdown"]').forEach(node => node.remove());
@@ -475,12 +490,14 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (main) main.id = 'main-content';
     if (!document.querySelector('.skip-link')) { const skip = document.createElement('a'); skip.className = 'skip-link'; skip.href = '#main-content'; skip.textContent = lang === 'en' ? 'Skip to content' : 'Перейти к содержимому'; document.body.prepend(skip); }
     if (!document.querySelector('link[href*="/styles/seo.css"]')) { const style = document.createElement('link'); style.rel = 'stylesheet'; style.href = '/styles/seo.css'; document.head.append(style); }
-    if (['hero', 'item'].includes(guideOf(file)?.kind)) {
-      const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=6';
+    if (['hero', 'item', 'skin'].includes(guideOf(file)?.kind)) {
+      const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=7';
       document.head.append(arenaStyle);
       const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=14';
       document.head.append(heroStyle);
       if (guideOf(file).kind === 'item') { const itemStyle = document.createElement('link'); itemStyle.rel = 'stylesheet'; itemStyle.href = '/styles/items.css?v=2'; document.head.append(itemStyle); }
+      // Skin cards also sit on hero profiles (the Skins tab).
+      if (guideOf(file).kind === 'skin' || (guideOf(file).kind === 'hero' && skins)) { const skinStyle = document.createElement('link'); skinStyle.rel = 'stylesheet'; skinStyle.href = '/styles/skins.css?v=2'; document.head.append(skinStyle); }
     }
     // The site typeface (Golos Text, set in main.css): preload the Cyrillic file so headings do not reflow after load.
     document.querySelectorAll('link[rel="preload"][href*="/fonts/golos-"]').forEach(node => node.remove());
@@ -601,6 +618,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     rendered.push({ file, lang, title, url: canonical, text });
   }
 }
+if (skins) await save('skins/search.json', JSON.stringify({ updated: skinsData.updated, skins: skins.index }) + '\n');
 await save('js/i18n-seo.js', `/* Generated from content/seo-translations.json. */\nObject.assign(window.MLBB_DICT, ${JSON.stringify(translations, null, 2)});\n`);
 const pricesJS = await read('js/prices.js');
 await save('js/prices.js', pricesJS.replace(/const LAST_KNOWN_PRICES = \[[\s\S]*?\n\];/, `const LAST_KNOWN_PRICES = ${JSON.stringify(data.prices, null, 2)};`).replace(/Последний проверенный fallback с API на [\d-]+\./, `Последний проверенный fallback с API на ${changedDate}.`));
@@ -630,6 +648,22 @@ for (const file of [...pageFiles.filter(f => f !== '404.html'), ...config.guides
     if (guideUpdated && entry.lastmod < guideUpdated) entry.lastmod = guideUpdated;
     if (['index.html', 'about.html', 'prices.html', 'services.html', 'reviews.html'].includes(file) && entry.lastmod < changedDate) entry.lastmod = changedDate;
     if (guideOf(file)?.ruOnly) entry.ruOnly = true; else delete entry.ruOnly;
+  }
+}
+// Skin pages come and go with the data (a renamed or merged skin): drop addresses the build no longer makes.
+const builtPaths = new Set(config.guides.flatMap(g => [filePath(g.file), localized(filePath(g.file), 'en')]));
+manifest.pages = manifest.pages.filter(p => !p.pathname.replace(/^\/en/, '').startsWith('/skins/') || builtPaths.has(p.pathname));
+// ... and their files: a page of a skin that left the data must not stay online with an old copy.
+if (skins) {
+  const { rm } = await import('node:fs/promises');
+  const keep = new Set(config.guides.filter(g => g.kind === 'skin').flatMap(g => [g.file, `en/${g.file}`, `markdown/${g.file.replace(/\.html$/, '.md')}`, `markdown/en/${g.file.replace(/\.html$/, '.md')}`]));
+  for (const dir of ['skins', 'en/skins', 'markdown/skins', 'markdown/en/skins']) {
+    const entries = await readdir(path.join(root, dir), { recursive: true, withFileTypes: true }).catch(() => []);
+    for (const entry of entries) {
+      if (!entry.isFile() || !/\.(html|md)$/.test(entry.name)) continue;
+      const file = path.relative(root, path.join(entry.parentPath || entry.path, entry.name)).replace(/\\/g, '/');
+      if (!keep.has(file)) await rm(path.join(root, file));
+    }
   }
 }
 await save('content/site-pages.json', JSON.stringify(manifest, null, 2) + '\n');

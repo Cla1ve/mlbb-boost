@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/valentina.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Валентина](/images/heroes/art/valentina.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -343,6 +343,12 @@ B
 ### Кого контрит Валентина
 
 [![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
+
+## Скины Валентины
+
+[![](/images/skins/cards/valentina/grand-gala.webp)Большой гала-вечерОбычный · 2025](https://boostmlbb.ru/skins/valentina/grand-gala.html)[![](/images/skins/cards/valentina/dark-nexus.webp)Тёмный нексусДелюкс · 2024](https://boostmlbb.ru/skins/valentina/dark-nexus.html)[![](/images/skins/cards/valentina/celestial-judicator.webp)Небесная судьяИзысканный · 2023](https://boostmlbb.ru/skins/valentina/celestial-judicator.html)[![](/images/skins/cards/valentina/cyber-agent.webp)Кибер-агентИсключительный · 2023](https://boostmlbb.ru/skins/valentina/cyber-agent.html)[![](/images/skins/cards/valentina/archmagister.webp)Архима­гистрОбычный · 2022](https://boostmlbb.ru/skins/valentina/archmagister.html)[![](/images/skins/cards/valentina/twilight-charmer.webp)Сумеречная чаровницаОбычный · 2021](https://boostmlbb.ru/skins/valentina/twilight-charmer.html)
+
+[Все 6 скинов Валентины: цены и как получить](https://boostmlbb.ru/skins/valentina.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/x-borg.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![X.Borg hero art](/images/heroes/art/x-borg.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ After 3s, his mecha suit detonates, dealing 300 (+ 15% target's ) True Damage. I
 ### Who X.Borg counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
+
+## X.Borg skins
+
+[![](/images/skins/cards/x-borg/bumblebee.webp)BumblebeeGrand · 2025](https://boostmlbb.ru/en/skins/x-borg/bumblebee.html)[![](/images/skins/cards/x-borg/pecados-rioter.webp)Pecados RioterCommon · 2025](https://boostmlbb.ru/en/skins/x-borg/pecados-rioter.html)[![](/images/skins/cards/x-borg/moto-drifter.webp)Moto DrifterCommon · 2023](https://boostmlbb.ru/en/skins/x-borg/moto-drifter.html)[![](/images/skins/cards/x-borg/tesla-maniac.webp)Tesla ManiacGrand · 2020](https://boostmlbb.ru/en/skins/x-borg/tesla-maniac.html)[![](/images/skins/cards/x-borg/graffiti-fashion.webp)Graffiti FashionExceptional · 2020](https://boostmlbb.ru/en/skins/x-borg/graffiti-fashion.html)[![](/images/skins/cards/x-borg/blue-storm.webp)Blue StormCommon · 2019](https://boostmlbb.ru/en/skins/x-borg/blue-storm.html)
+
+[All 6 X.Borg skins: prices and how to get them](https://boostmlbb.ru/en/skins/x-borg.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/karina.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Karina hero art](/images/heroes/art/karina.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 4.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -344,6 +344,12 @@ The Shadow Sigil and Shadowform both last 5s. If the target dies during this tim
 ### Who Karina counters
 
 [![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+
+## Karina skins
+
+[![](/images/skins/cards/karina/keyforged-champion.webp)Keyforged ChampionCommon · 2025](https://boostmlbb.ru/en/skins/karina/keyforged-champion.html)[![](/images/skins/cards/karina/blood-moon.webp)Blood MoonCommon · 2020](https://boostmlbb.ru/en/skins/karina/blood-moon.html)[![](/images/skins/cards/karina/gemini-halo.webp)Gemini - HaloDeluxe · 2019](https://boostmlbb.ru/en/skins/karina/gemini-halo.html)[![](/images/skins/cards/karina/leona.webp)LeonaGrand · 2019](https://boostmlbb.ru/en/skins/karina/leona.html)[![](/images/skins/cards/karina/doom-duelist.webp)Doom DuelistExquisite · 2018](https://boostmlbb.ru/en/skins/karina/doom-duelist.html)[![](/images/skins/cards/karina/spider-lily.webp)Spider LilyCommon · 2018](https://boostmlbb.ru/en/skins/karina/spider-lily.html)[![](/images/skins/cards/karina/black-pearl.webp)Black PearlExceptional · 2017](https://boostmlbb.ru/en/skins/karina/black-pearl.html)[![](/images/skins/cards/karina/christmas-carnival.webp)Christmas CarnivalExceptional · 2016](https://boostmlbb.ru/en/skins/karina/christmas-carnival.html)[![](/images/skins/cards/karina/phantom-blade.webp)Phantom BladeCommon · 2016](https://boostmlbb.ru/en/skins/karina/phantom-blade.html)
+
+[All 9 Karina skins: prices and how to get them](https://boostmlbb.ru/en/skins/karina.html)
 
 ## Lore
 

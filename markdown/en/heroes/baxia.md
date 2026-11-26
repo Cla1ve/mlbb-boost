@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/baxia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Baxia hero art](/images/heroes/art/baxia.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ For the duration, the Damage Reduction effect from Baxia Mark is increased to 20
 ### Who Baxia counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+
+## Baxia skins
+
+[![](/images/skins/cards/baxia/dauntless-shield.webp)Dauntless ShieldExceptional · 2024](https://boostmlbb.ru/en/skins/baxia/dauntless-shield.html)[![](/images/skins/cards/baxia/black-tortoise.webp)Black TortoiseCommon · 2023](https://boostmlbb.ru/en/skins/baxia/black-tortoise.html)[![](/images/skins/cards/baxia/ba-tender.webp)Ba-tenderExceptional · 2021](https://boostmlbb.ru/en/skins/baxia/ba-tender.html)[![](/images/skins/cards/baxia/badass-roller.webp)Badass RollerCommon · 2020](https://boostmlbb.ru/en/skins/baxia/badass-roller.html)[![](/images/skins/cards/baxia/wild-totem.webp)Wild TotemCommon · 2019](https://boostmlbb.ru/en/skins/baxia/wild-totem.html)[![](/images/skins/cards/baxia/aegis-of-honor.webp)Aegis of Honor](https://boostmlbb.ru/en/skins/baxia/aegis-of-honor.html)
+
+[All 6 Baxia skins: prices and how to get them](https://boostmlbb.ru/en/skins/baxia.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/chou.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Чу](/images/heroes/art/chou.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -330,6 +330,12 @@ B
 ### Кто контрит Чу
 
 [![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+
+## Скины Чу
+
+[![](/images/skins/cards/chou/echo.webp)ECHOДелюкс · 2023](https://boostmlbb.ru/skins/chou/echo.html)[![](/images/skins/cards/chou/dragon-shiryu.webp)Дракон СирюДелюкс · 2022](https://boostmlbb.ru/skins/chou/dragon-shiryu.html)[![](/images/skins/cards/chou/libra-shiryu.webp)Весы СирюГрандиозный · 2022](https://boostmlbb.ru/skins/chou/libra-shiryu.html)[![](/images/skins/cards/chou/s-t-u-n-chou.webp)Чу S.T.U.N.Делюкс · 2021](https://boostmlbb.ru/skins/chou/s-t-u-n-chou.html)[![](/images/skins/cards/chou/thunderfist.webp)Громовой кулакГрандиозный · 2021](https://boostmlbb.ru/skins/chou/thunderfist.html)[![](/images/skins/cards/chou/go-ballistic.webp)Вне себяИсключительный · 2019](https://boostmlbb.ru/skins/chou/go-ballistic.html)[![](/images/skins/cards/chou/iori-yagami.webp)Иори ЯгамиГрандиозный · 2019](https://boostmlbb.ru/skins/chou/iori-yagami.html)[![](/images/skins/cards/chou/furious-tiger.webp)Яростный тигрИсключительный · 2018](https://boostmlbb.ru/skins/chou/furious-tiger.html)[![](/images/skins/cards/chou/king-of-muay-thai.webp)Король муай-тайОбычный · 2017](https://boostmlbb.ru/skins/chou/king-of-muay-thai.html)[![](/images/skins/cards/chou/dragon-boy.webp)Мальчик-драконИзысканный · 2017](https://boostmlbb.ru/skins/chou/dragon-boy.html)[![](/images/skins/cards/chou/hip-hop-boy.webp)Хип-хоп пареньОбычный · 2016](https://boostmlbb.ru/skins/chou/hip-hop-boy.html)
+
+[Все 11 скинов Чу: цены и как получить](https://boostmlbb.ru/skins/chou.html)
 
 ## История
 

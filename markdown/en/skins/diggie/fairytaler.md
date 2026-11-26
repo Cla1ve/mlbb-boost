@@ -1,0 +1,60 @@
+---
+title: "Fairytaler Diggie skin MLBB: price and how to get | MLBB Boost"
+description: "Diggie Fairytaler skin in Mobile Legends: Deluxe class, Epic series, released 9 April 2022. Released in the skin shop during an event. Limited skins come back in event draws from time to time."
+canonical: https://boostmlbb.ru/en/skins/diggie/fairytaler.html
+language: en
+---
+
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+
+[Skins](https://boostmlbb.ru/en/skins/)/[Diggie](https://boostmlbb.ru/en/skins/diggie.html)/Fairytaler
+
+![Diggie in the Fairytaler skin](/images/skins/art/diggie/fairytaler.webp)
+
+[![](/images/heroes/diggie.webp)Diggie skin](https://boostmlbb.ru/en/skins/diggie.html)
+
+# Fairytaler
+
+DeluxeEpicLimited
+
+How to get
+
+Released in the skin shop during an event. Limited skins come back in event draws from time to time.
+
+Released
+
+9 April 2022
+
+## What the skin changes
+
+-   New look
+-   New skill effects
+-   Showcase animation
+-   Showcase scene
+-   Attribute bonus
+
+## All Diggie skins [5](https://boostmlbb.ru/en/skins/diggie.html)
+
+[![](/images/skins/cards/diggie/underwood-steward.webp)Underwood StewardCommon · 2024](https://boostmlbb.ru/en/skins/diggie/underwood-steward.html)[![](/images/skins/cards/diggie/fairytaler.webp)FairytalerDeluxe · 2022](https://boostmlbb.ru/en/skins/diggie/fairytaler.html)[![](/images/skins/cards/diggie/circus-clown.webp)Circus ClownCommon · 2021](https://boostmlbb.ru/en/skins/diggie/circus-clown.html)[![](/images/skins/cards/diggie/constellation.webp)Constel­lationExceptional · 2019](https://boostmlbb.ru/en/skins/diggie/constellation.html)[![](/images/skins/cards/diggie/pigeoneer.webp)PigeoneerCommon · 2017](https://boostmlbb.ru/en/skins/diggie/pigeoneer.html)
+
+## Epic series
+
+[![](/images/skins/cards/minotaur/nether-overseer.webp)Nether OverseerMinotaur · 2026](https://boostmlbb.ru/en/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/atlas/sunken-curse.webp)Sunken CurseAtlas · 2026](https://boostmlbb.ru/en/skins/atlas/sunken-curse.html)[![](/images/skins/cards/vexana/eternal-vow.webp)Eternal VowVexana · 2026](https://boostmlbb.ru/en/skins/vexana/eternal-vow.html)[![](/images/skins/cards/khufra/cursed-scroll.webp)Cursed ScrollKhufra · 2025](https://boostmlbb.ru/en/skins/khufra/cursed-scroll.html)[![](/images/skins/cards/natalia/soul-huntress.webp)Soul HuntressNatalia · 2025](https://boostmlbb.ru/en/skins/natalia/soul-huntress.html)[![](/images/skins/cards/leomord/nightmare-count.webp)Nightmare CountLeomord · 2025](https://boostmlbb.ru/en/skins/leomord/nightmare-count.html)[![](/images/skins/cards/belerick/arbiter-of-stars.webp)Arbiter of StarsBelerick · 2025](https://boostmlbb.ru/en/skins/belerick/arbiter-of-stars.html)[![](/images/skins/cards/vale/keeper-of-the-winds.webp)Keeper of the WindsVale · 2025](https://boostmlbb.ru/en/skins/vale/keeper-of-the-winds.html)
+
+**Rank up on Diggie**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
+
+## Frequently asked questions
+
+How to get the Fairytaler skin for Diggie?
+
+Released in the skin shop during an event. Limited skins come back in event draws from time to time.
+
+When was Fairytaler released?
+
+9 April 2022.
+
+What class is Fairytaler?
+
+Deluxe, Epic series.

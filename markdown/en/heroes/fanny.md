@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/fanny.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Fanny hero art](/images/heroes/art/fanny.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -333,6 +333,12 @@ Fanny leaps at the target enemy hero or Creep with her blades, dealing 400 (+200
 ### Who Fanny counters
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
+
+## Fanny skins
+
+[![](/images/skins/cards/fanny/p-ace-fanny.webp)P.ACE FannyDeluxe · 2025](https://boostmlbb.ru/en/skins/fanny/p-ace-fanny.html)[![](/images/skins/cards/fanny/mikasa.webp)MikasaGrand · 2023](https://boostmlbb.ru/en/skins/fanny/mikasa.html)[![](/images/skins/cards/fanny/heart-afloat.webp)Heart AfloatDeluxe · 2022](https://boostmlbb.ru/en/skins/fanny/heart-afloat.html)[![](/images/skins/cards/fanny/blade-of-kibou.webp)Blade of KibouGrand · 2022](https://boostmlbb.ru/en/skins/fanny/blade-of-kibou.html)[![](/images/skins/cards/fanny/imperial-warrior.webp)Imperial WarriorCommon · 2021](https://boostmlbb.ru/en/skins/fanny/imperial-warrior.html)[![](/images/skins/cards/fanny/christmas-carnival.webp)Christmas CarnivalExceptional · 2020](https://boostmlbb.ru/en/skins/fanny/christmas-carnival.html)[![](/images/skins/cards/fanny/lightborn-ranger.webp)Lightborn - RangerDeluxe · 2019](https://boostmlbb.ru/en/skins/fanny/lightborn-ranger.html)[![](/images/skins/cards/fanny/lifeguard.webp)LifeguardExceptional · 2019](https://boostmlbb.ru/en/skins/fanny/lifeguard.html)[![](/images/skins/cards/fanny/royal-cavalry.webp)Royal CavalryExceptional · 2018](https://boostmlbb.ru/en/skins/fanny/royal-cavalry.html)[![](/images/skins/cards/fanny/skylark.webp)SkylarkExquisite · 2018](https://boostmlbb.ru/en/skins/fanny/skylark.html)[![](/images/skins/cards/fanny/punk-princess.webp)Punk PrincessCommon · 2017](https://boostmlbb.ru/en/skins/fanny/punk-princess.html)[![](/images/skins/cards/fanny/campus-youth.webp)Campus YouthCommon · 2016](https://boostmlbb.ru/en/skins/fanny/campus-youth.html)
+
+[All 13 Fanny skins: prices and how to get them](https://boostmlbb.ru/en/skins/fanny.html)
 
 ## Lore
 

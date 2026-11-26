@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/moskov.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Moskov hero art](/images/heroes/art/moskov.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ When Spear of Destruction hits an enemy hero, it creates a shadow behind them an
 ### Who Moskov counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
+
+## Moskov skins
+
+[![](/images/skins/cards/moskov/infernal-wrymlord.webp)Infernal WrymlordGrand · 2024](https://boostmlbb.ru/en/skins/moskov/infernal-wrymlord.html)[![](/images/skins/cards/moskov/doom-incarnate.webp)Doom IncarnateGrand · 2023](https://boostmlbb.ru/en/skins/moskov/doom-incarnate.html)[![](/images/skins/cards/moskov/violet-spear.webp)Violet SpearExceptional · 2023](https://boostmlbb.ru/en/skins/moskov/violet-spear.html)[![](/images/skins/cards/moskov/twilight-dragon.webp)Twilight DragonExquisite · 2019](https://boostmlbb.ru/en/skins/moskov/twilight-dragon.html)[![](/images/skins/cards/moskov/decapitator.webp)Decapi­tatorCommon · 2018](https://boostmlbb.ru/en/skins/moskov/decapitator.html)[![](/images/skins/cards/moskov/javelin-champion.webp)Javelin ChampionExceptional · 2018](https://boostmlbb.ru/en/skins/moskov/javelin-champion.html)[![](/images/skins/cards/moskov/yasha.webp)YashaCommon · 2018](https://boostmlbb.ru/en/skins/moskov/yasha.html)[![](/images/skins/cards/moskov/blood-spear.webp)Blood SpearDeluxe · 2017](https://boostmlbb.ru/en/skins/moskov/blood-spear.html)[![](/images/skins/cards/moskov/snake-eye-commander.webp)Snake Eye CommanderExceptional · 2017](https://boostmlbb.ru/en/skins/moskov/snake-eye-commander.html)[![](/images/skins/cards/moskov/spear-of-bone-dragon.webp)Spear of Bone DragonCommon · 2017](https://boostmlbb.ru/en/skins/moskov/spear-of-bone-dragon.html)
+
+[All 10 Moskov skins: prices and how to get them](https://boostmlbb.ru/en/skins/moskov.html)
 
 ## Lore
 

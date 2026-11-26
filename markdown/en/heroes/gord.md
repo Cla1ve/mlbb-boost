@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gord.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Gord hero art](/images/heroes/art/gord.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -331,6 +331,12 @@ The direction of the beam can be adjusted using the Joystick.
 ### Who Gord counters
 
 [![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+
+## Gord skins
+
+[![](/images/skins/cards/gord/imperator-vitalis.webp)Imperator VitalisExceptional · 2025](https://boostmlbb.ru/en/skins/gord/imperator-vitalis.html)[![](/images/skins/cards/gord/cyber-hacker.webp)Cyber HackerDeluxe · 2024](https://boostmlbb.ru/en/skins/gord/cyber-hacker.html)[![](/images/skins/cards/gord/new-baron.webp)New BaronCommon · 2021](https://boostmlbb.ru/en/skins/gord/new-baron.html)[![](/images/skins/cards/gord/no-1-controller.webp)No.1 ControllerExquisite · 2019](https://boostmlbb.ru/en/skins/gord/no-1-controller.html)[![](/images/skins/cards/gord/conqueror.webp)ConquerorSupreme · 2018](https://boostmlbb.ru/en/skins/gord/conqueror.html)[![](/images/skins/cards/gord/christmas-carnival.webp)Christmas CarnivalExceptional · 2016](https://boostmlbb.ru/en/skins/gord/christmas-carnival.html)[![](/images/skins/cards/gord/professor-of-hell.webp)Professor of HellCommon · 2016](https://boostmlbb.ru/en/skins/gord/professor-of-hell.html)
+
+[All 7 Gord skins: prices and how to get them](https://boostmlbb.ru/en/skins/gord.html)
 
 ## Lore
 

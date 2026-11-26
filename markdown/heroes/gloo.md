@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/gloo.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Глу](/images/heroes/art/gloo.webp)
 
@@ -27,7 +27,7 @@ A
 
 35,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -341,6 +341,12 @@ A
 ### Кого контрит Глу
 
 [![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Москов](https://boostmlbb.ru/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
+
+## Скины Глу
+
+[![](/images/skins/cards/gloo/patrick.webp)ПатрикДелюкс · 2025](https://boostmlbb.ru/skins/gloo/patrick.html)[![](/images/skins/cards/gloo/jellyman.webp)Желейный человекИсключительный · 2023](https://boostmlbb.ru/skins/gloo/jellyman.html)[![](/images/skins/cards/gloo/verdant-enchanter.webp)Зелёный чародейОбычный · 2021](https://boostmlbb.ru/skins/gloo/verdant-enchanter.html)[![](/images/skins/cards/gloo/abominable-snowgloo.webp)Снежный Глу](https://boostmlbb.ru/skins/gloo/abominable-snowgloo.html)
+
+[Все 4 скина Глу: цены и как получить](https://boostmlbb.ru/skins/gloo.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/zhask.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Заск](/images/heroes/art/zhask.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -355,6 +355,12 @@ C
 ### Кого контрит Заск
 
 [![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
+
+## Скины Заска
+
+[![](/images/skins/cards/zhask/death-s-shadow.webp)Тень смертиИсключительный · 2024](https://boostmlbb.ru/skins/zhask/death-s-shadow.html)[![](/images/skins/cards/zhask/extraterrestrial.webp)ПришелецИсключительный · 2020](https://boostmlbb.ru/skins/zhask/extraterrestrial.html)[![](/images/skins/cards/zhask/cancer.webp)РакДелюкс · 2019](https://boostmlbb.ru/skins/zhask/cancer.html)[![](/images/skins/cards/zhask/bone-flamen.webp)Костяной жрецИзысканный · 2018](https://boostmlbb.ru/skins/zhask/bone-flamen.html)[![](/images/skins/cards/zhask/crystallized-predator.webp)Крис­тальный хищникОбычный · 2017](https://boostmlbb.ru/skins/zhask/crystallized-predator.html)
+
+[Все 5 скинов Заска: цены и как получить](https://boostmlbb.ru/skins/zhask.html)
 
 ## История
 

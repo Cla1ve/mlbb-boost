@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/yi-sun-shin.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Yi Sun-shin hero art](/images/heroes/art/yi-sun-shin.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -344,6 +344,12 @@ Casting this skill immediately triggers Weapon Mastery.
 ### Who counters Yi Sun-shin
 
 [![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
+
+## Yi Sun-shin skins
+
+[![](/images/skins/cards/yi-sun-shin/wavebreaker.webp)Waveb­reakerExceptional · 2025](https://boostmlbb.ru/en/skins/yi-sun-shin/wavebreaker.html)[![](/images/skins/cards/yi-sun-shin/surging-torrent.webp)Surging TorrentCommon · 2023](https://boostmlbb.ru/en/skins/yi-sun-shin/surging-torrent.html)[![](/images/skins/cards/yi-sun-shin/azure-sentry.webp)Azure SentryExceptional · 2021](https://boostmlbb.ru/en/skins/yi-sun-shin/azure-sentry.html)[![](/images/skins/cards/yi-sun-shin/astral-wanderer.webp)Astral WandererExquisite · 2019](https://boostmlbb.ru/en/skins/yi-sun-shin/astral-wanderer.html)[![](/images/skins/cards/yi-sun-shin/fleet-warden.webp)Fleet WardenDeluxe · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/fleet-warden.html)[![](/images/skins/cards/yi-sun-shin/roguish-ranger.webp)Roguish RangerCommon · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/roguish-ranger.html)[![](/images/skins/cards/yi-sun-shin/apocalypse-agent.webp)Apocalypse AgentCommon · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/apocalypse-agent.html)[![](/images/skins/cards/yi-sun-shin/major-general.webp)Major GeneralCommon · 2017](https://boostmlbb.ru/en/skins/yi-sun-shin/major-general.html)
+
+[All 8 Yi Sun-shin skins: prices and how to get them](https://boostmlbb.ru/en/skins/yi-sun-shin.html)
 
 ## Lore
 

@@ -1,0 +1,67 @@
+---
+title: "Леди Месть (Lady Vengeance) — скин Селены в MLBB | MLBB Boost"
+description: "Скин Селены «Леди Месть» (Lady Vengeance) в Mobile Legends: класс грандиозный, серия «ABYSS», вышел 11 декабря 2021. Выходил в событии «ABYSS». Ограниченные облики иногда возвращаются в розыгрышах событий."
+canonical: https://boostmlbb.ru/skins/selena/lady-vengeance.html
+language: ru
+---
+
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
+
+[Скины](https://boostmlbb.ru/skins/)/[Селена](https://boostmlbb.ru/skins/selena.html)/Леди Месть
+
+![Селена в облике «Леди Месть»](/images/skins/art/selena/lady-vengeance.webp)
+
+[![](/images/heroes/selena.webp)Скин Селены](https://boostmlbb.ru/skins/selena.html)
+
+# Леди Месть
+
+Lady Vengeance
+
+Грандиозный GrandABYSSОграниченный
+
+Как получить
+
+Выходил в событии «ABYSS». Ограниченные облики иногда возвращаются в розыгрышах событий.
+
+Вышел
+
+11 декабря 2021
+
+## Что меняет облик
+
+-   Новая внешность
+-   Новые эффекты навыков
+-   Звуки навыков
+-   Своя озвучка
+-   Анимация показа
+-   Сцена показа
+-   Музыка показа
+-   Анимация появления
+-   Особые действия
+-   Бонус к характеристикам
+
+## Все скины Селены [10](https://boostmlbb.ru/skins/selena.html)
+
+[![](/images/skins/cards/selena/silverbolt-raiko.webp)Райко Серебряная МолнияГрандиозный · 2026](https://boostmlbb.ru/skins/selena/silverbolt-raiko.html)[![](/images/skins/cards/selena/curse-of-cinder.webp)Пепельное проклятиеГрандиозный · 2025](https://boostmlbb.ru/skins/selena/curse-of-cinder.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Леди МестьГрандиозный · 2021](https://boostmlbb.ru/skins/selena/lady-vengeance.html)[![](/images/skins/cards/selena/gothic-curse.webp)Готическое проклятиеОбычный · 2021](https://boostmlbb.ru/skins/selena/gothic-curse.html)[![](/images/skins/cards/selena/s-t-u-n-selena.webp)Селена S.T.U.N.Делюкс · 2021](https://boostmlbb.ru/skins/selena/s-t-u-n-selena.html)[![](/images/skins/cards/selena/thunder-flash.webp)Громовая вспышкаИзысканный · 2020](https://boostmlbb.ru/skins/selena/thunder-flash.html)[![](/images/skins/cards/selena/double-identity.webp)Двойная личностьИсключительный · 2019](https://boostmlbb.ru/skins/selena/double-identity.html)[![](/images/skins/cards/selena/gemini-shadow.webp)Близнецы: ТеньДелюкс · 2019](https://boostmlbb.ru/skins/selena/gemini-shadow.html)[![](/images/skins/cards/selena/virus.webp)ВирусДелюкс · 2019](https://boostmlbb.ru/skins/selena/virus.html)[![](/images/skins/cards/selena/wasp-queen.webp)Королева осОбычный · 2018](https://boostmlbb.ru/skins/selena/wasp-queen.html)
+
+## Серия «ABYSS»
+
+[![](/images/skins/cards/moskov/doom-incarnate.webp)Воплощение рокаМосков · 2023](https://boostmlbb.ru/skins/moskov/doom-incarnate.html)[![](/images/skins/cards/alpha/general-void.webp)Генерал ПустотаАльфа · 2023](https://boostmlbb.ru/skins/alpha/general-void.html)[![](/images/skins/cards/leomord/shadow-knight.webp)Рыцарь тениЛеоморд · 2023](https://boostmlbb.ru/skins/leomord/shadow-knight.html)
+
+**Поднимем ранг на герое Селена**Цена считается в калькуляторе
+
+[Рассчитать цену](https://boostmlbb.ru/order.html?type=hero)
+
+## Частые вопросы
+
+Как получить скин «Леди Месть» на Селену?
+
+Выходил в событии «ABYSS». Ограниченные облики иногда возвращаются в розыгрышах событий.
+
+Когда вышел скин «Леди Месть»?
+
+11 декабря 2021.
+
+Какой класс у скина «Леди Месть»?
+
+Грандиозный (Grand), серия «ABYSS».

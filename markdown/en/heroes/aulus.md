@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/aulus.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Aulus hero art](/images/heroes/art/aulus.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 19.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -342,6 +342,12 @@ During this skill, Aulus gains 20% Damage Reduction and a short burst of Movemen
 ### Who counters Aulus
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Aulus skins
+
+[![](/images/skins/cards/aulus/ironmane-reaver.webp)Ironmane ReaverCommon · 2024](https://boostmlbb.ru/en/skins/aulus/ironmane-reaver.html)[![](/images/skins/cards/aulus/war-lion.webp)War LionExceptional · 2023](https://boostmlbb.ru/en/skins/aulus/war-lion.html)[![](/images/skins/cards/aulus/barren-pioneer.webp)Barren PioneerCommon · 2022](https://boostmlbb.ru/en/skins/aulus/barren-pioneer.html)[![](/images/skins/cards/aulus/berserker.webp)BerserkerCommon · 2021](https://boostmlbb.ru/en/skins/aulus/berserker.html)
+
+[All 4 Aulus skins: prices and how to get them](https://boostmlbb.ru/en/skins/aulus.html)
 
 ## Lore
 

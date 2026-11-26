@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lolita.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lolita hero art](/images/heroes/art/lolita.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ Cooldown **55 Mana Cost: 100 s**
 ### Who Lolita counters
 
 [![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)
+
+## Lolita skins
+
+[![](/images/skins/cards/lolita/angelic-fan.webp)Angelic FanExceptional · 2025](https://boostmlbb.ru/en/skins/lolita/angelic-fan.html)[![](/images/skins/cards/lolita/starwatcher.webp)Star­watcherDeluxe · 2024](https://boostmlbb.ru/en/skins/lolita/starwatcher.html)[![](/images/skins/cards/lolita/astro-mallet.webp)Astro MalletExceptional · 2024](https://boostmlbb.ru/en/skins/lolita/astro-mallet.html)[![](/images/skins/cards/lolita/genki-slam.webp)Genki SlamExceptional · 2023](https://boostmlbb.ru/en/skins/lolita/genki-slam.html)[![](/images/skins/cards/lolita/special-op.webp)Special OpCommon · 2020](https://boostmlbb.ru/en/skins/lolita/special-op.html)[![](/images/skins/cards/lolita/lion-dance.webp)Lion DanceExceptional · 2019](https://boostmlbb.ru/en/skins/lolita/lion-dance.html)[![](/images/skins/cards/lolita/impish-trickster.webp)Impish TricksterExceptional · 2017](https://boostmlbb.ru/en/skins/lolita/impish-trickster.html)[![](/images/skins/cards/lolita/soldier-in-training.webp)Soldier in TrainingCommon · 2016](https://boostmlbb.ru/en/skins/lolita/soldier-in-training.html)
+
+[All 8 Lolita skins: prices and how to get them](https://boostmlbb.ru/en/skins/lolita.html)
 
 ## Lore
 

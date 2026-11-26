@@ -1,0 +1,64 @@
+---
+title: "Lightborn - Striker Alucard skin MLBB: price and how to get | MLBB Boost"
+description: "Alucard Lightborn - Striker skin in Mobile Legends: Deluxe class, Lightborn series, released 2019. Sold in the skin shop for 1,089 diamonds."
+canonical: https://boostmlbb.ru/en/skins/alucard/lightborn-striker.html
+language: en
+---
+
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+
+[Skins](https://boostmlbb.ru/en/skins/)/[Alucard](https://boostmlbb.ru/en/skins/alucard.html)/Lightborn - Striker
+
+![Alucard in the Lightborn - Striker skin](/images/skins/art/alucard/lightborn-striker.webp)
+
+[![](/images/heroes/alucard.webp)Alucard skin](https://boostmlbb.ru/en/skins/alucard.html)
+
+# Lightborn - Striker
+
+DeluxeLightbornIn the shop
+
+How to get
+
+Sold in the skin shop for 1,089 diamonds.
+
+Price
+
+1,089 diamonds
+
+Released
+
+2019
+
+## What the skin changes
+
+-   New look
+-   New skill effects
+-   Showcase animation
+-   Showcase scene
+-   Attribute bonus
+
+## All Alucard skins [10](https://boostmlbb.ru/en/skins/alucard.html)
+
+[![](/images/skins/cards/alucard/demon-s-bane.webp)Demon's BaneExceptional · 2025](https://boostmlbb.ru/en/skins/alucard/demon-s-bane.html)[![](/images/skins/cards/alucard/obi-wan-kenobi.webp)Obi-Wan KenobiGrand · 2021](https://boostmlbb.ru/en/skins/alucard/obi-wan-kenobi.html)[![](/images/skins/cards/alucard/lightborn-striker.webp)Lightborn - StrikerDeluxe · 2019](https://boostmlbb.ru/en/skins/alucard/lightborn-striker.html)[![](/images/skins/cards/alucard/empire-agent.webp)Empire AgentCommon · 2019](https://boostmlbb.ru/en/skins/alucard/empire-agent.html)[![](/images/skins/cards/alucard/obsidian-blade.webp)Obsidian BladeSupreme · 2019](https://boostmlbb.ru/en/skins/alucard/obsidian-blade.html)[![](/images/skins/cards/alucard/romantic-fantasy.webp)Romantic FantasyExceptional · 2018](https://boostmlbb.ru/en/skins/alucard/romantic-fantasy.html)[![](/images/skins/cards/alucard/viscount.webp)ViscountExceptional · 2017](https://boostmlbb.ru/en/skins/alucard/viscount.html)[![](/images/skins/cards/alucard/child-of-the-fall.webp)Child of the FallExquisite · 2017](https://boostmlbb.ru/en/skins/alucard/child-of-the-fall.html)[![](/images/skins/cards/alucard/fiery-inferno.webp)Fiery InfernoCommon · 2017](https://boostmlbb.ru/en/skins/alucard/fiery-inferno.html)[![](/images/skins/cards/alucard/lone-hero.webp)Lone HeroCommon · 2016](https://boostmlbb.ru/en/skins/alucard/lone-hero.html)
+
+## Lightborn series
+
+[![](/images/skins/cards/granger/lightborn-overrider.webp)Lightborn - OverriderGranger · 2024](https://boostmlbb.ru/en/skins/granger/lightborn-overrider.html)[![](/images/skins/cards/fanny/lightborn-ranger.webp)Lightborn - RangerFanny · 2019](https://boostmlbb.ru/en/skins/fanny/lightborn-ranger.html)[![](/images/skins/cards/tigreal/lightborn-defender.webp)Lightborn - DefenderTigreal · 2019](https://boostmlbb.ru/en/skins/tigreal/lightborn-defender.html)[![](/images/skins/cards/harith/lightborn-inspirer.webp)Lightborn - InspirerHarith · 2018](https://boostmlbb.ru/en/skins/harith/lightborn-inspirer.html)
+
+**Rank up on Alucard**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
+
+## Frequently asked questions
+
+How to get the Lightborn - Striker skin for Alucard?
+
+Sold in the skin shop for 1,089 diamonds.
+
+When was Lightborn - Striker released?
+
+2019.
+
+What class is Lightborn - Striker?
+
+Deluxe, Lightborn series.

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/franco.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Franco hero art](/images/heroes/art/franco.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -332,6 +332,12 @@ Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over t
 ### Who Franco counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+
+## Franco skins
+
+[![](/images/skins/cards/franco/captain-of-the-lost.webp)Captain of the LostExceptional · 2026](https://boostmlbb.ru/en/skins/franco/captain-of-the-lost.html)[![](/images/skins/cards/franco/quantum-vanguard.webp)Quantum VanguardExceptional · 2024](https://boostmlbb.ru/en/skins/franco/quantum-vanguard.html)[![](/images/skins/cards/franco/king-of-hell.webp)King of HellSupreme · 2023](https://boostmlbb.ru/en/skins/franco/king-of-hell.html)[![](/images/skins/cards/franco/bone-crusher.webp)Bone CrusherCommon · 2021](https://boostmlbb.ru/en/skins/franco/bone-crusher.html)[![](/images/skins/cards/franco/blazing-axe.webp)Blazing AxeDeluxe · 2020](https://boostmlbb.ru/en/skins/franco/blazing-axe.html)[![](/images/skins/cards/franco/valhalla-ruler.webp)Valhalla RulerExquisite · 2020](https://boostmlbb.ru/en/skins/franco/valhalla-ruler.html)[![](/images/skins/cards/franco/wheatfield-nightmare.webp)Wheatfield NightmareExceptional · 2019](https://boostmlbb.ru/en/skins/franco/wheatfield-nightmare.html)[![](/images/skins/cards/franco/locomotive.webp)LocomotiveCommon · 2018](https://boostmlbb.ru/en/skins/franco/locomotive.html)[![](/images/skins/cards/franco/apocalypse.webp)ApocalypseExceptional · 2017](https://boostmlbb.ru/en/skins/franco/apocalypse.html)[![](/images/skins/cards/franco/masterchef.webp)MasterchefExceptional · 2016](https://boostmlbb.ru/en/skins/franco/masterchef.html)
+
+[All 10 Franco skins: prices and how to get them](https://boostmlbb.ru/en/skins/franco.html)
 
 ## Lore
 

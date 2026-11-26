@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kaja.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kaja hero art](/images/heroes/art/kaja.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 30.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ While active, Kaja can drag the lasso, shrinking its radius and pulling enemies 
 ### Who Kaja counters
 
 [![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
+
+## Kaja skins
+
+[![](/images/skins/cards/kaja/inferno-taskmaster.webp)Inferno TaskmasterDeluxe · 2023](https://boostmlbb.ru/en/skins/kaja/inferno-taskmaster.html)[![](/images/skins/cards/kaja/crow-magician.webp)Crow MagicianCommon · 2020](https://boostmlbb.ru/en/skins/kaja/crow-magician.html)[![](/images/skins/cards/kaja/skyblocker.webp)SkyblockerExquisite · 2019](https://boostmlbb.ru/en/skins/kaja/skyblocker.html)[![](/images/skins/cards/kaja/horror-whiplash.webp)Horror WhiplashCommon · 2019](https://boostmlbb.ru/en/skins/kaja/horror-whiplash.html)[![](/images/skins/cards/kaja/kaminari.webp)KaminariExceptional · 2019](https://boostmlbb.ru/en/skins/kaja/kaminari.html)[![](/images/skins/cards/kaja/commandment.webp)Com­mandmentCommon · 2018](https://boostmlbb.ru/en/skins/kaja/commandment.html)
+
+[All 6 Kaja skins: prices and how to get them](https://boostmlbb.ru/en/skins/kaja.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/khufra.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Khufra hero art](/images/heroes/art/khufra.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 4.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -333,6 +333,12 @@ Khufra pushes back all enemy targets around him toward his front (this skill can
 ### Who Khufra counters
 
 [![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
+
+## Khufra skins
+
+[![](/images/skins/cards/khufra/cursed-scroll.webp)Cursed ScrollDeluxe · 2025](https://boostmlbb.ru/en/skins/khufra/cursed-scroll.html)[![](/images/skins/cards/khufra/iron-hook.webp)Iron HookCommon · 2023](https://boostmlbb.ru/en/skins/khufra/iron-hook.html)[![](/images/skins/cards/khufra/gentleman-thief.webp)Gentleman ThiefExceptional · 2023](https://boostmlbb.ru/en/skins/khufra/gentleman-thief.html)[![](/images/skins/cards/khufra/apophis.webp)ApophisCommon · 2023](https://boostmlbb.ru/en/skins/khufra/apophis.html)[![](/images/skins/cards/khufra/dreadful-clown.webp)Dreadful ClownExceptional · 2021](https://boostmlbb.ru/en/skins/khufra/dreadful-clown.html)[![](/images/skins/cards/khufra/volcanic-overlord.webp)Volcanic OverlordExquisite · 2020](https://boostmlbb.ru/en/skins/khufra/volcanic-overlord.html)[![](/images/skins/cards/khufra/desert-owl.webp)Desert OwlCommon · 2019](https://boostmlbb.ru/en/skins/khufra/desert-owl.html)
+
+[All 7 Khufra skins: prices and how to get them](https://boostmlbb.ru/en/skins/khufra.html)
 
 ## Lore
 

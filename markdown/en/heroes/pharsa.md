@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/pharsa.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Pharsa hero art](/images/heroes/art/pharsa.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -343,6 +343,12 @@ This state ends immediately when she is controlled or uses a Basic Attack or ski
 ### Who counters Pharsa
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
+
+## Pharsa skins
+
+[![](/images/skins/cards/pharsa/neobeast-pharsa.webp)Neobeast PharsaGrand · 2025](https://boostmlbb.ru/en/skins/pharsa/neobeast-pharsa.html)[![](/images/skins/cards/pharsa/neon-shingetsu.webp)Neon ShingetsuDeluxe · 2023](https://boostmlbb.ru/en/skins/pharsa/neon-shingetsu.html)[![](/images/skins/cards/pharsa/hierophant.webp)HierophantDeluxe · 2022](https://boostmlbb.ru/en/skins/pharsa/hierophant.html)[![](/images/skins/cards/pharsa/samba-muse.webp)Samba MuseExceptional · 2022](https://boostmlbb.ru/en/skins/pharsa/samba-muse.html)[![](/images/skins/cards/pharsa/peony-bloom.webp)Peony BloomExceptional · 2021](https://boostmlbb.ru/en/skins/pharsa/peony-bloom.html)[![](/images/skins/cards/pharsa/empress-phoenix.webp)Empress PhoenixExquisite · 2020](https://boostmlbb.ru/en/skins/pharsa/empress-phoenix.html)[![](/images/skins/cards/pharsa/enchanting-witch.webp)Enchanting WitchCommon · 2019](https://boostmlbb.ru/en/skins/pharsa/enchanting-witch.html)[![](/images/skins/cards/pharsa/indigo-aviatrix.webp)Indigo AviatrixCommon · 2019](https://boostmlbb.ru/en/skins/pharsa/indigo-aviatrix.html)[![](/images/skins/cards/pharsa/peafowl-s-dance.webp)Peafowl's DanceCommon · 2018](https://boostmlbb.ru/en/skins/pharsa/peafowl-s-dance.html)[![](/images/skins/cards/pharsa/wings-of-heaven.webp)Wings of HeavenCommon · 2017](https://boostmlbb.ru/en/skins/pharsa/wings-of-heaven.html)
+
+[All 10 Pharsa skins: prices and how to get them](https://boostmlbb.ru/en/skins/pharsa.html)
 
 ## Lore
 

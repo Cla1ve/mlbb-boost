@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/benedetta.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Бенедетта](/images/heroes/art/benedetta.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -348,6 +348,12 @@ C
 ### Кого контрит Бенедетта
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)
+
+## Скины Бенедетты
+
+[![](/images/skins/cards/benedetta/phantom-mirage.webp)Призрачный миражДелюкс · 2025](https://boostmlbb.ru/skins/benedetta/phantom-mirage.html)[![](/images/skins/cards/benedetta/quantum-edge.webp)Квантовое лезвиеИсключительный · 2024](https://boostmlbb.ru/skins/benedetta/quantum-edge.html)[![](/images/skins/cards/benedetta/panigale-v4s-rider.webp)Гонщица на Panigale V4SГрандиозный · 2023](https://boostmlbb.ru/skins/benedetta/panigale-v4s-rider.html)[![](/images/skins/cards/benedetta/moonblade.webp)Лунный клинокИсключительный · 2022](https://boostmlbb.ru/skins/benedetta/moonblade.html)[![](/images/skins/cards/benedetta/death-oath.webp)Клятва смертиИзысканный · 2021](https://boostmlbb.ru/skins/benedetta/death-oath.html)[![](/images/skins/cards/benedetta/street-thrasher.webp)Уличная задираИсключительный · 2021](https://boostmlbb.ru/skins/benedetta/street-thrasher.html)[![](/images/skins/cards/benedetta/honor-blade.webp)Клинок честиОбычный · 2020](https://boostmlbb.ru/skins/benedetta/honor-blade.html)
+
+[Все 7 скинов Бенедетты: цены и как получить](https://boostmlbb.ru/skins/benedetta.html)
 
 ## История
 

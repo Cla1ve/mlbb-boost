@@ -88,7 +88,7 @@ export function rateHeroes(list, key = DEFAULT_RANK) {
   return sorted;
 }
 
-export function heroGuides(data, academy = null, storyFallbacks = {}, { play = null, comboRu = {}, cases = {} } = {}) {
+export function heroGuides(data, academy = null, storyFallbacks = {}, { play = null, comboRu = {}, cases = {}, skins = null } = {}) {
   const heroes = rateHeroes(data.heroes);
   const acad = academy?.heroes || {};
   const dict = academy || { items: {}, spells: {}, talents: {}, emblems: {} };
@@ -246,6 +246,13 @@ export function heroGuides(data, academy = null, storyFallbacks = {}, { play = n
       if (hero.counters.length) groups.push(group(t(`Кто контрит ${acc(hero)}`, `Who counters ${hero.en}`), hero.counters, 'bad'));
       if (strong.length) groups.push(group(t(`Кого контрит ${hero.ru}`, `Who ${hero.en} counters`), strong.slice(0, 10), 'good'));
       if (groups.length) add('draft', t(`Контрпики ${gen(hero)}`, `${hero.en} counters`), `<div class="bands">${groups.join('')}</div>`, t('Контрпики', 'Counters'));
+      // Skins: the newest ones as cards, each opens its page in the /skins/ section.
+      const heroSkins = skins?.byHero?.[hero.slug] || [];
+      if (heroSkins.length) {
+        const count = heroSkins.length;
+        const word = en ? (count === 1 ? 'skin' : 'skins') : (count % 10 === 1 && count % 100 !== 11 ? 'скин' : count % 10 >= 2 && count % 10 <= 4 && (count % 100 < 10 || count % 100 >= 20) ? 'скина' : 'скинов');
+        add('skins', t(`Скины ${gen(hero)}`, `${hero.en} skins`), `<div class="rail rail--profile">${heroSkins.slice(0, 12).map(skin => skins.card(skin, lang)).join('')}</div><p class="list-more"><a href="/skins/${hero.slug}.html">${t(`Все ${count} ${word} ${gen(hero)}: цены и как получить`, `All ${count} ${hero.en} ${word}: prices and how to get them`)}</a></p>`, t('Скины', 'Skins'));
+      }
 
       const official = `https://www.mobilelegends.com/hero/detail?heroid=${ac?.id || heroes.length + 1 - hero.releaseOrder}`;
       const fallback = storyFallbacks[hero.slug];
@@ -256,7 +263,7 @@ export function heroGuides(data, academy = null, storyFallbacks = {}, { play = n
         ${loreSource ? `<a class="arena-lore-primary" href="${esc(loreSource)}" target="_blank" rel="noopener">${t('Читать полную историю', 'Read the full story')} <span aria-hidden="true">↗</span></a><small>${sourceName}</small>` : ''}
         <a class="arena-lore-official" href="${official}" target="_blank" rel="noopener">${t('Характеристики на сайте игры', 'Hero stats on the game site')} <span aria-hidden="true">↗</span></a></div>`);
       const heroName = en ? hero.en : `«${hero.ru}»`;
-      const wanted = ['overview', 'build', 'howto', 'skills', 'draft', 'lore'];
+      const wanted = ['overview', 'build', 'howto', 'skills', 'draft', 'skins', 'lore'];
       sections.sort((a, b) => wanted.indexOf(a.id) - wanted.indexOf(b.id));
       return `<nav class="atlas-nav" aria-label="${t('Разделы профиля', 'Profile sections')}">${sections.map(({ id, tab }, i) => `<a href="#${id}"${i === 0 ? ' aria-current="location"' : ''}>${tab}</a>`).join('')}</nav>
         <div class="atlas-chapters">${sections.map(({ id, title, inner }) => section(id, title, inner)).join('')}</div>

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/belerick.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Belerick hero art](/images/heroes/art/belerick.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 56.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ Belerick conjures spreading vines around him, dealing 100 (+30% Total Magic Powe
 ### Who Belerick counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
+
+## Belerick skins
+
+[![](/images/skins/cards/belerick/smouldering-fortress.webp)Smoul­dering FortressExceptional · 2026](https://boostmlbb.ru/en/skins/belerick/smouldering-fortress.html)[![](/images/skins/cards/belerick/arbiter-of-stars.webp)Arbiter of StarsDeluxe · 2025](https://boostmlbb.ru/en/skins/belerick/arbiter-of-stars.html)[![](/images/skins/cards/belerick/tiger-s-claw.webp)Tiger's ClawCommon · 2022](https://boostmlbb.ru/en/skins/belerick/tiger-s-claw.html)[![](/images/skins/cards/belerick/torch-guardian.webp)Torch GuardianCommon · 2019](https://boostmlbb.ru/en/skins/belerick/torch-guardian.html)[![](/images/skins/cards/belerick/emerald-guardian.webp)Emerald GuardianExceptional · 2018](https://boostmlbb.ru/en/skins/belerick/emerald-guardian.html)[![](/images/skins/cards/belerick/the-deep-one.webp)The Deep OneExceptional · 2018](https://boostmlbb.ru/en/skins/belerick/the-deep-one.html)
+
+[All 6 Belerick skins: prices and how to get them](https://boostmlbb.ru/en/skins/belerick.html)
 
 ## Lore
 

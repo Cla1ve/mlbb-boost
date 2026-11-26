@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/harith.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Харит](/images/heroes/art/harith.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ C
 ### Кого контрит Харит
 
 [![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
+
+## Скины Харита
+
+[![](/images/skins/cards/harith/evos-legends.webp)EVOS LegendsДелюкс · 2025](https://boostmlbb.ru/skins/harith/evos-legends.html)[![](/images/skins/cards/harith/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2025](https://boostmlbb.ru/skins/harith/christmas-carnival.html)[![](/images/skins/cards/harith/killua.webp)КиллуаГрандиозный · 2025](https://boostmlbb.ru/skins/harith/killua.html)[![](/images/skins/cards/harith/psychic.webp)ЭкстрасенсИзысканный · 2024](https://boostmlbb.ru/skins/harith/psychic.html)[![](/images/skins/cards/harith/fashion-expert.webp)Знаток модыИсключительный · 2021](https://boostmlbb.ru/skins/harith/fashion-expert.html)[![](/images/skins/cards/harith/lightborn-inspirer.webp)Рождённый светом: Вдохно­вительДелюкс · 2018](https://boostmlbb.ru/skins/harith/lightborn-inspirer.html)[![](/images/skins/cards/harith/savannah-cat.webp)Кот саванныОбычный · 2018](https://boostmlbb.ru/skins/harith/savannah-cat.html)[![](/images/skins/cards/harith/stardust.webp)Звёздная пыльОбычный · 2018](https://boostmlbb.ru/skins/harith/stardust.html)
+
+[Все 8 скинов Харита: цены и как получить](https://boostmlbb.ru/skins/harith.html)
 
 ## История
 

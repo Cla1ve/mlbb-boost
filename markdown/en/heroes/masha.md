@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/masha.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Masha hero art](/images/heroes/art/masha.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 67.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -342,6 +342,12 @@ Masha charges toward an enemy hero, dealing 300 (+50% Extra Max HP) Physical Dam
 ### Who Masha counters
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
+
+## Masha skins
+
+[![](/images/skins/cards/masha/mai-shiranui.webp)Mai ShiranuiGrand · 2024](https://boostmlbb.ru/en/skins/masha/mai-shiranui.html)[![](/images/skins/cards/masha/rogue-talon.webp)Rogue TalonExceptional · 2022](https://boostmlbb.ru/en/skins/masha/rogue-talon.html)[![](/images/skins/cards/masha/spirited-gauntlet.webp)Spirited GauntletCommon · 2020](https://boostmlbb.ru/en/skins/masha/spirited-gauntlet.html)[![](/images/skins/cards/masha/dragon-armor.webp)Dragon ArmorDeluxe · 2020](https://boostmlbb.ru/en/skins/masha/dragon-armor.html)[![](/images/skins/cards/masha/combat-maiden.webp)Combat MaidenExceptional · 2020](https://boostmlbb.ru/en/skins/masha/combat-maiden.html)[![](/images/skins/cards/masha/winter-guard.webp)Winter GuardCommon · 2019](https://boostmlbb.ru/en/skins/masha/winter-guard.html)
+
+[All 6 Masha skins: prices and how to get them](https://boostmlbb.ru/en/skins/masha.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/natalia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Natalia hero art](/images/heroes/art/natalia.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -343,6 +343,12 @@ Cooldown **3 s**
 ### Who Natalia counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)
+
+## Natalia skins
+
+[![](/images/skins/cards/natalia/soul-huntress.webp)Soul HuntressDeluxe · 2025](https://boostmlbb.ru/en/skins/natalia/soul-huntress.html)[![](/images/skins/cards/natalia/warrioress-paragon.webp)Warrioress ParagonExquisite · 2024](https://boostmlbb.ru/en/skins/natalia/warrioress-paragon.html)[![](/images/skins/cards/natalia/cyber-spectre.webp)Cyber SpectreExceptional · 2020](https://boostmlbb.ru/en/skins/natalia/cyber-spectre.html)[![](/images/skins/cards/natalia/grim-strangler.webp)Grim StranglerExceptional · 2020](https://boostmlbb.ru/en/skins/natalia/grim-strangler.html)[![](/images/skins/cards/natalia/midnight-raven.webp)Midnight RavenExceptional · 2018](https://boostmlbb.ru/en/skins/natalia/midnight-raven.html)[![](/images/skins/cards/natalia/deadly-mamba.webp)Deadly MambaCommon · 2018](https://boostmlbb.ru/en/skins/natalia/deadly-mamba.html)[![](/images/skins/cards/natalia/phantom-dancer.webp)Phantom DancerExceptional · 2017](https://boostmlbb.ru/en/skins/natalia/phantom-dancer.html)[![](/images/skins/cards/natalia/glass-blade.webp)Glass BladeCommon · 2016](https://boostmlbb.ru/en/skins/natalia/glass-blade.html)
+
+[All 8 Natalia skins: prices and how to get them](https://boostmlbb.ru/en/skins/natalia.html)
 
 ## Lore
 

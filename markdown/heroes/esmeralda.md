@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/esmeralda.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Эсмеральда](/images/heroes/art/esmeralda.webp)
 
@@ -27,7 +27,7 @@ A
 
 1,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -337,6 +337,12 @@ A
 ### Кого контрит Эсмеральда
 
 [![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Гвиневра](https://boostmlbb.ru/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)
+
+## Скины Эсмеральды
+
+[![](/images/skins/cards/esmeralda/astral-muse.webp)Астральная музаИсключительный · 2025](https://boostmlbb.ru/skins/esmeralda/astral-muse.html)[![](/images/skins/cards/esmeralda/the-foreseer.webp)Прорица­тельницаГрандиозный · 2023](https://boostmlbb.ru/skins/esmeralda/the-foreseer.html)[![](/images/skins/cards/esmeralda/light-envoy.webp)Посланница светаИзысканный · 2022](https://boostmlbb.ru/skins/esmeralda/light-envoy.html)[![](/images/skins/cards/esmeralda/blazing-shadow.webp)Пылающая теньДелюкс · 2020](https://boostmlbb.ru/skins/esmeralda/blazing-shadow.html)[![](/images/skins/cards/esmeralda/cleopatra.webp)КлеопатраИсключительный · 2020](https://boostmlbb.ru/skins/esmeralda/cleopatra.html)[![](/images/skins/cards/esmeralda/lady-thief.webp)Леди-воровкаИсключительный · 2020](https://boostmlbb.ru/skins/esmeralda/lady-thief.html)[![](/images/skins/cards/esmeralda/poison-vine.webp)Ядовитая лозаОбычный · 2019](https://boostmlbb.ru/skins/esmeralda/poison-vine.html)[![](/images/skins/cards/esmeralda/ruddy-dusk.webp)Багряные сумеркиОбычный · 2019](https://boostmlbb.ru/skins/esmeralda/ruddy-dusk.html)
+
+[Все 8 скинов Эсмеральды: цены и как получить](https://boostmlbb.ru/skins/esmeralda.html)
 
 ## История
 

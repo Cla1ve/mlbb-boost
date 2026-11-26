@@ -1,0 +1,65 @@
+---
+title: "Arhat King Gatotkaca skin MLBB: price and how to get | MLBB Boost"
+description: "Gatotkaca Arhat King skin in Mobile Legends: Common class, Elite series, released 7 October 2018. Released in the skin shop during an event. Limited skins come back in event draws from time to time."
+canonical: https://boostmlbb.ru/en/skins/gatotkaca/arhat-king.html
+language: en
+---
+
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
+
+[Skins](https://boostmlbb.ru/en/skins/)/[Gatotkaca](https://boostmlbb.ru/en/skins/gatotkaca.html)/Arhat King
+
+![Gatotkaca in the Arhat King skin](/images/skins/art/gatotkaca/arhat-king.webp)
+
+[![](/images/heroes/gatotkaca.webp)Gatotkaca skin](https://boostmlbb.ru/en/skins/gatotkaca.html)
+
+# Arhat King
+
+CommonEliteLimited
+
+How to get
+
+Released in the skin shop during an event. Limited skins come back in event draws from time to time.
+
+Released
+
+7 October 2018
+
+## What the skin changes
+
+-   New look
+-   Recoloured effects
+-   Showcase animation
+-   Attribute bonus
+
+## Painted versions
+
+The same skin in other colours. A painted version needs the skin itself.
+
+-   **Steeler**188 diamonds
+
+## All Gatotkaca skins [7](https://boostmlbb.ru/en/skins/gatotkaca.html)
+
+[![](/images/skins/cards/gatotkaca/nutcracker-monarch.webp)Nutcracker MonarchExceptional · 2024](https://boostmlbb.ru/en/skins/gatotkaca/nutcracker-monarch.html)[![](/images/skins/cards/gatotkaca/tide-preserver.webp)Tide PreserverDeluxe · 2024](https://boostmlbb.ru/en/skins/gatotkaca/tide-preserver.html)[![](/images/skins/cards/gatotkaca/spark.webp)SparkCommon · 2019](https://boostmlbb.ru/en/skins/gatotkaca/spark.html)[![](/images/skins/cards/gatotkaca/sentinel.webp)SentinelExquisite · 2018](https://boostmlbb.ru/en/skins/gatotkaca/sentinel.html)[![](/images/skins/cards/gatotkaca/arhat-king.webp)Arhat KingCommon · 2018](https://boostmlbb.ru/en/skins/gatotkaca/arhat-king.html)[![](/images/skins/cards/gatotkaca/mighty-guardian.webp)Mighty GuardianCommon · 2017](https://boostmlbb.ru/en/skins/gatotkaca/mighty-guardian.html)[![](/images/skins/cards/gatotkaca/solar-spark.webp)Solar Spark](https://boostmlbb.ru/en/skins/gatotkaca/solar-spark.html)
+
+## Elite series
+
+[![](/images/skins/cards/change/golden-osmanthus.webp)Golden OsmanthusChang'e · 2026](https://boostmlbb.ru/en/skins/change/golden-osmanthus.html)[![](/images/skins/cards/martis/warlord-king.webp)Warlord KingMartis · 2025](https://boostmlbb.ru/en/skins/martis/warlord-king.html)[![](/images/skins/cards/kimmy/high-seas-cadet.webp)High Seas CadetKimmy · 2024](https://boostmlbb.ru/en/skins/kimmy/high-seas-cadet.html)[![](/images/skins/cards/silvanna/verdant-lancer.webp)Verdant LancerSilvanna · 2024](https://boostmlbb.ru/en/skins/silvanna/verdant-lancer.html)[![](/images/skins/cards/hylos/bloodhoof-marauder.webp)Bloodhoof MarauderHylos · 2024](https://boostmlbb.ru/en/skins/hylos/bloodhoof-marauder.html)[![](/images/skins/cards/guinevere/elegant-butterfly.webp)Elegant ButterflyGuinevere · 2024](https://boostmlbb.ru/en/skins/guinevere/elegant-butterfly.html)[![](/images/skins/cards/lancelot/marques-of-blades.webp)Marques of BladesLancelot · 2024](https://boostmlbb.ru/en/skins/lancelot/marques-of-blades.html)[![](/images/skins/cards/chip/badlands-hiatus.webp)Badlands HiatusChip · 2024](https://boostmlbb.ru/en/skins/chip/badlands-hiatus.html)
+
+**Rank up on Gatotkaca**The calculator shows the price
+
+[Calculate price](https://boostmlbb.ru/en/order.html?type=hero)
+
+## Frequently asked questions
+
+How to get the Arhat King skin for Gatotkaca?
+
+Released in the skin shop during an event. Limited skins come back in event draws from time to time.
+
+When was Arhat King released?
+
+7 October 2018.
+
+What class is Arhat King?
+
+Common, Elite series.

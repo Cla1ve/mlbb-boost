@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/obsidia.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Обсидия](/images/heroes/art/obsidia.webp)
 
@@ -27,7 +27,7 @@ S
 
 65,4%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ S
 ### Кого контрит Обсидия
 
 [![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)
+
+## Скины Обсидии
+
+[![](/images/skins/cards/obsidia/imperatrix-arashi.webp)Импе­ратрица АрасиГрандиозный · 2026](https://boostmlbb.ru/skins/obsidia/imperatrix-arashi.html)[![](/images/skins/cards/obsidia/magitech-wraith.webp)Магитех­нический призрак2026](https://boostmlbb.ru/skins/obsidia/magitech-wraith.html)[![](/images/skins/cards/obsidia/undying-remnants.webp)Неуми­рающие останкиОбычный · 2025](https://boostmlbb.ru/skins/obsidia/undying-remnants.html)
+
+[Все 3 скина Обсидии: цены и как получить](https://boostmlbb.ru/skins/obsidia.html)
 
 ## История
 

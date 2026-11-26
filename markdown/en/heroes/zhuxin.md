@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/zhuxin.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Zhuxin hero art](/images/heroes/art/zhuxin.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ Zhuxin blinks to the target location, gaining a 400 (+100% Total Magic Power) sh
 ### Who Zhuxin counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
+
+## Zhuxin skins
+
+[![](/images/skins/cards/zhuxin/p-ace-zhuxin.webp)P.ACE ZhuxinDeluxe · 2025](https://boostmlbb.ru/en/skins/zhuxin/p-ace-zhuxin.html)[![](/images/skins/cards/zhuxin/emberwisp-mystic.webp)Emberwisp MysticExceptional · 2025](https://boostmlbb.ru/en/skins/zhuxin/emberwisp-mystic.html)[![](/images/skins/cards/zhuxin/ethereal-serenity.webp)Ethereal SerenityCommon · 2024](https://boostmlbb.ru/en/skins/zhuxin/ethereal-serenity.html)
+
+[All 3 Zhuxin skins: prices and how to get them](https://boostmlbb.ru/en/skins/zhuxin.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/ruby.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Ruby hero art](/images/heroes/art/ruby.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -331,6 +331,12 @@ Ruby sweeps her scythe in the target direction, dealing 600 (+200% Total Physica
 ### Who Ruby counters
 
 [![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
+
+## Ruby skins
+
+[![](/images/skins/cards/ruby/neon-edge.webp)Neon EdgeExceptional · 2025](https://boostmlbb.ru/en/skins/ruby/neon-edge.html)[![](/images/skins/cards/ruby/crescent-dervish.webp)Crescent DervishExceptional · 2025](https://boostmlbb.ru/en/skins/ruby/crescent-dervish.html)[![](/images/skins/cards/ruby/soul-reaper.webp)Soul ReaperExceptional · 2024](https://boostmlbb.ru/en/skins/ruby/soul-reaper.html)[![](/images/skins/cards/ruby/mecha-maiden.webp)Mecha MaidenGrand · 2023](https://boostmlbb.ru/en/skins/ruby/mecha-maiden.html)[![](/images/skins/cards/ruby/prismatic-plume.webp)Prismatic PlumeExquisite · 2023](https://boostmlbb.ru/en/skins/ruby/prismatic-plume.html)[![](/images/skins/cards/ruby/pirate-parrot.webp)Pirate ParrotExceptional · 2021](https://boostmlbb.ru/en/skins/ruby/pirate-parrot.html)[![](/images/skins/cards/ruby/lady-zombie.webp)Lady ZombieExquisite · 2019](https://boostmlbb.ru/en/skins/ruby/lady-zombie.html)[![](/images/skins/cards/ruby/edelweiss.webp)EdelweissCommon · 2018](https://boostmlbb.ru/en/skins/ruby/edelweiss.html)[![](/images/skins/cards/ruby/cat-girl.webp)Cat GirlCommon · 2017](https://boostmlbb.ru/en/skins/ruby/cat-girl.html)[![](/images/skins/cards/ruby/hidden-orchid-butterfly.webp)Hidden Orchid ButterflyCommon · 2017](https://boostmlbb.ru/en/skins/ruby/hidden-orchid-butterfly.html)
+
+[All 10 Ruby skins: prices and how to get them](https://boostmlbb.ru/en/skins/ruby.html)
 
 ## Lore
 

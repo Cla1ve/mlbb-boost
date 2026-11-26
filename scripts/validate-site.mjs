@@ -34,7 +34,7 @@ for (const pathname of paths) {
   assert.equal(document.querySelector('meta[property="og:url"]').content, canonical);
   assert(Number(document.querySelector('meta[property="og:image:width"]').content) >= 1200, `${pathname}: small social preview`);
   const alternatives = [...document.querySelectorAll('link[hreflang]')];
-  if (/^\/(heroes|items)\//.test(pathname)) {
+  if (/^\/(heroes|items|skins)\//.test(pathname)) {
     // Hero stat pages: the English copy is indexable by Google but closed to Yandex.
     const english = parseHTML(await read(filename('/en' + pathname))).document;
     assert(!english.querySelector('meta[name="robots"]').content.includes('noindex'), `${pathname}: English copy must be open to Google`);
@@ -79,7 +79,7 @@ for (const pathname of paths) {
 for (const [url, page] of pages) {
   for (const target of [page.targets.ru, page.targets.en].filter(Boolean)) {
     // English hero pages are deliberately outside the sitemap (closed to Yandex); they only need to exist.
-    if (/^\/en\/(heroes|items)\//.test(new URL(target).pathname)) { assert(existsSync(path.join(root, filename(new URL(target).pathname))), `${url}: hreflang target file missing`); continue; }
+    if (/^\/en\/(heroes|items|skins)\//.test(new URL(target).pathname)) { assert(existsSync(path.join(root, filename(new URL(target).pathname))), `${url}: hreflang target file missing`); continue; }
     assert(pages.has(target), `${url}: hreflang target missing`);
     assert.deepEqual(pages.get(target).targets, page.targets, `${url}: non-reciprocal hreflang`);
   }
@@ -87,8 +87,8 @@ for (const [url, page] of pages) {
 for (const entry of entries) {
   const url = entry.querySelector('loc').textContent.trim();
   const alternates = [...entry.querySelectorAll('[hreflang]')];
-  assert.equal(alternates.length, /^\/(heroes|items)\//.test(new URL(url).pathname) ? 0 : 3, `${url}: sitemap language alternatives missing`);
-  assert(!/^\/en\/(heroes|items)\//.test(new URL(url).pathname), `${url}: Russian-only page leaked into the sitemap`);
+  assert.equal(alternates.length, /^\/(heroes|items|skins)\//.test(new URL(url).pathname) ? 0 : 3, `${url}: sitemap language alternatives missing`);
+  assert(!/^\/en\/(heroes|items|skins)\//.test(new URL(url).pathname), `${url}: Russian-only page leaked into the sitemap`);
   for (const link of alternates) assert.equal(link.getAttribute('href'), pages.get(url).targets[link.getAttribute('hreflang')]);
   assert(/^\d{4}-\d{2}-\d{2}/.test(entry.querySelector('lastmod').textContent));
 }

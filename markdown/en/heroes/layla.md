@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/layla.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Layla hero art](/images/heroes/art/layla.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Cooldown **37 Mana Cost: 130 s**
 ### Who Layla counters
 
 [![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
+
+## Layla skins
+
+[![](/images/skins/cards/layla/prismatic-rhythm.webp)Prismatic RhythmExquisite · 2026](https://boostmlbb.ru/en/skins/layla/prismatic-rhythm.html)[![](/images/skins/cards/layla/the-beacon.webp)The BeaconSupreme · 2025](https://boostmlbb.ru/en/skins/layla/the-beacon.html)[![](/images/skins/cards/layla/paranormal-operative.webp)Paranormal OperativeExquisite · 2024](https://boostmlbb.ru/en/skins/layla/paranormal-operative.html)[![](/images/skins/cards/layla/twilight-waltz.webp)Twilight WaltzExceptional · 2023](https://boostmlbb.ru/en/skins/layla/twilight-waltz.html)[![](/images/skins/cards/layla/miss-hikari.webp)Miss HikariGrand · 2022](https://boostmlbb.ru/en/skins/layla/miss-hikari.html)[![](/images/skins/cards/layla/blazing-gun.webp)Blazing GunDeluxe · 2020](https://boostmlbb.ru/en/skins/layla/blazing-gun.html)[![](/images/skins/cards/layla/s-a-b-e-r-breacher.webp)S.A.B.E.R. BreacherDeluxe · 2018](https://boostmlbb.ru/en/skins/layla/s-a-b-e-r-breacher.html)[![](/images/skins/cards/layla/bunny-babe.webp)Bunny BabeExceptional · 2017](https://boostmlbb.ru/en/skins/layla/bunny-babe.html)[![](/images/skins/cards/layla/classic-malefic-gunner.webp)Classic Malefic GunnerCommon · 2017](https://boostmlbb.ru/en/skins/layla/classic-malefic-gunner.html)[![](/images/skins/cards/layla/blue-spectre.webp)Blue SpectreCommon · 2017](https://boostmlbb.ru/en/skins/layla/blue-spectre.html)[![](/images/skins/cards/layla/cannon-and-roses.webp)Cannon and RosesExceptional · 2017](https://boostmlbb.ru/en/skins/layla/cannon-and-roses.html)[![](/images/skins/cards/layla/green-flash.webp)Green FlashCommon · 2016](https://boostmlbb.ru/en/skins/layla/green-flash.html)
+
+[All 12 Layla skins: prices and how to get them](https://boostmlbb.ru/en/skins/layla.html)
 
 ## Lore
 

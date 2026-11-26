@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/joy.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Joy hero art](/images/heroes/art/joy.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -334,6 +334,12 @@ This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat
 ### Who Joy counters
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
+
+## Joy skins
+
+[![](/images/skins/cards/joy/exostar-scout.webp)Exostar ScoutExceptional · 2025](https://boostmlbb.ru/en/skins/joy/exostar-scout.html)[![](/images/skins/cards/joy/royal-protector.webp)Royal ProtectorCommon · 2023](https://boostmlbb.ru/en/skins/joy/royal-protector.html)[![](/images/skins/cards/joy/feline-ranger.webp)Feline RangerCommon · 2022](https://boostmlbb.ru/en/skins/joy/feline-ranger.html)
+
+[All 3 Joy skins: prices and how to get them](https://boostmlbb.ru/en/skins/joy.html)
 
 ## Lore
 

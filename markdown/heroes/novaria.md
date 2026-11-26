@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/novaria.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Новария](/images/heroes/art/novaria.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -328,6 +328,12 @@ B
 ### Кто контрит Новарию
 
 [![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
+
+## Скины Новарии
+
+[![](/images/skins/cards/novaria/dragonsworn.webp)Присяг­нувшая драконуИзысканный · 2025](https://boostmlbb.ru/skins/novaria/dragonsworn.html)[![](/images/skins/cards/novaria/sugar-glaze.webp)Сахарная глазурьИсключительный · 2024](https://boostmlbb.ru/skins/novaria/sugar-glaze.html)[![](/images/skins/cards/novaria/dark-star.webp)Тёмная звездаОбычный · 2023](https://boostmlbb.ru/skins/novaria/dark-star.html)
+
+[Все 3 скина Новарии: цены и как получить](https://boostmlbb.ru/skins/novaria.html)
 
 ## История
 

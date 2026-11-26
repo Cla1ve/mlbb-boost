@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/odette.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Odette hero art](/images/heroes/art/odette.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ Use again to cancel. Only high-level control effects can interrupt this skill.
 ### Who Odette counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
+
+## Odette skins
+
+[![](/images/skins/cards/odette/song-of-devotion.webp)Song of DevotionExquisite · 2026](https://boostmlbb.ru/en/skins/odette/song-of-devotion.html)[![](/images/skins/cards/odette/wisdom-of-the-stars.webp)Wisdom of the StarsExceptional · 2024](https://boostmlbb.ru/en/skins/odette/wisdom-of-the-stars.html)[![](/images/skins/cards/odette/sage-of-the-currents.webp)Sage of the CurrentsDeluxe · 2020](https://boostmlbb.ru/en/skins/odette/sage-of-the-currents.html)[![](/images/skins/cards/odette/auspicious-charm.webp)Auspicious CharmExceptional · 2019](https://boostmlbb.ru/en/skins/odette/auspicious-charm.html)[![](/images/skins/cards/odette/virgo.webp)VirgoDeluxe · 2019](https://boostmlbb.ru/en/skins/odette/virgo.html)[![](/images/skins/cards/odette/mermaid-princess.webp)Mermaid PrincessExquisite · 2018](https://boostmlbb.ru/en/skins/odette/mermaid-princess.html)[![](/images/skins/cards/odette/butterfly-goddess.webp)Butterfly GoddessExceptional · 2018](https://boostmlbb.ru/en/skins/odette/butterfly-goddess.html)[![](/images/skins/cards/odette/christmas-carnival.webp)Christmas CarnivalExceptional · 2018](https://boostmlbb.ru/en/skins/odette/christmas-carnival.html)[![](/images/skins/cards/odette/black-swan.webp)Black SwanCommon · 2017](https://boostmlbb.ru/en/skins/odette/black-swan.html)
+
+[All 9 Odette skins: prices and how to get them](https://boostmlbb.ru/en/skins/odette.html)
 
 ## Lore
 

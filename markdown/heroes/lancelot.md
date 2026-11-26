@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lancelot.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ланселот](/images/heroes/art/lancelot.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -331,6 +331,12 @@ C
 ### Кого контрит Ланселот
 
 [![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)
+
+## Скины Ланселота
+
+[![](/images/skins/cards/lancelot/blade-of-devotion.webp)Клинок предан­ностиИзысканный · 2026](https://boostmlbb.ru/skins/lancelot/blade-of-devotion.html)[![](/images/skins/cards/lancelot/guardian-of-the-shrine.webp)Страж святилищаГрандиозный · 2025](https://boostmlbb.ru/skins/lancelot/guardian-of-the-shrine.html)[![](/images/skins/cards/lancelot/swordmaster.webp)Мастер мечаГрандиозный · 2024](https://boostmlbb.ru/skins/lancelot/swordmaster.html)[![](/images/skins/cards/lancelot/marques-of-blades.webp)Маркиз клинковОбычный · 2024](https://boostmlbb.ru/skins/lancelot/marques-of-blades.html)[![](/images/skins/cards/lancelot/empyrean-flame.webp)Небесное пламяДелюкс · 2021](https://boostmlbb.ru/skins/lancelot/empyrean-flame.html)[![](/images/skins/cards/lancelot/bren-esports.webp)Bren EsportsДелюкс · 2020](https://boostmlbb.ru/skins/lancelot/bren-esports.html)[![](/images/skins/cards/lancelot/floral-knight.webp)Цветочный рыцарьДелюкс · 2019](https://boostmlbb.ru/skins/lancelot/floral-knight.html)[![](/images/skins/cards/lancelot/pisces.webp)РыбыДелюкс · 2019](https://boostmlbb.ru/skins/lancelot/pisces.html)[![](/images/skins/cards/lancelot/royal-matador.webp)Коро­левский матадорИзысканный · 2018](https://boostmlbb.ru/skins/lancelot/royal-matador.html)[![](/images/skins/cards/lancelot/dark-earl.webp)Тёмный графИсключительный · 2018](https://boostmlbb.ru/skins/lancelot/dark-earl.html)[![](/images/skins/cards/lancelot/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2018](https://boostmlbb.ru/skins/lancelot/christmas-carnival.html)[![](/images/skins/cards/lancelot/masked-knight.webp)Рыцарь в маскеОбычный · 2018](https://boostmlbb.ru/skins/lancelot/masked-knight.html)
+
+[Все 12 скинов Ланселота: цены и как получить](https://boostmlbb.ru/skins/lancelot.html)
 
 ## История
 

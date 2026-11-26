@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/paquito.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Paquito hero art](/images/heroes/art/paquito.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 10.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -342,6 +342,12 @@ He then throws a haymaker, dealing 300 (+90% Total Physical Attack) Physical Dam
 ### Who counters Paquito
 
 [![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+
+## Paquito skins
+
+[![](/images/skins/cards/paquito/fist-of-glory.webp)Fist of GloryDeluxe · 2024](https://boostmlbb.ru/en/skins/paquito/fist-of-glory.html)[![](/images/skins/cards/paquito/terry-bogard.webp)Terry BogardGrand · 2024](https://boostmlbb.ru/en/skins/paquito/terry-bogard.html)[![](/images/skins/cards/paquito/blazing-tiger.webp)Blazing TigerExquisite · 2023](https://boostmlbb.ru/en/skins/paquito/blazing-tiger.html)[![](/images/skins/cards/paquito/fist-of-light.webp)Fist of LightExceptional · 2022](https://boostmlbb.ru/en/skins/paquito/fist-of-light.html)[![](/images/skins/cards/paquito/fulgent-punch.webp)Fulgent PunchExceptional · 2022](https://boostmlbb.ru/en/skins/paquito/fulgent-punch.html)[![](/images/skins/cards/paquito/underground-boxer.webp)Underground BoxerExceptional · 2021](https://boostmlbb.ru/en/skins/paquito/underground-boxer.html)[![](/images/skins/cards/paquito/manny-pacquiao.webp)Manny PacquiaoDeluxe · 2021](https://boostmlbb.ru/en/skins/paquito/manny-pacquiao.html)[![](/images/skins/cards/paquito/death-blow.webp)Death BlowCommon · 2021](https://boostmlbb.ru/en/skins/paquito/death-blow.html)
+
+[All 8 Paquito skins: prices and how to get them](https://boostmlbb.ru/en/skins/paquito.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Kimmy hero art](/images/heroes/art/kimmy.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -341,6 +341,12 @@ After 1s, the field contracts, pulling enemy heroes within it to its center and 
 ### Who Kimmy counters
 
 [![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
+
+## Kimmy skins
+
+[![](/images/skins/cards/kimmy/starbound-sentry.webp)Starbound Sentry2026](https://boostmlbb.ru/en/skins/kimmy/starbound-sentry.html)[![](/images/skins/cards/kimmy/frost-wing.webp)Frost WingDeluxe · 2025](https://boostmlbb.ru/en/skins/kimmy/frost-wing.html)[![](/images/skins/cards/kimmy/rising-nova.webp)Rising NovaExceptional · 2025](https://boostmlbb.ru/en/skins/kimmy/rising-nova.html)[![](/images/skins/cards/kimmy/high-seas-cadet.webp)High Seas CadetCommon · 2024](https://boostmlbb.ru/en/skins/kimmy/high-seas-cadet.html)[![](/images/skins/cards/kimmy/first-order-jet-trooper.webp)First Order Jet TrooperGrand · 2023](https://boostmlbb.ru/en/skins/kimmy/first-order-jet-trooper.html)[![](/images/skins/cards/kimmy/steam-researcher.webp)Steam ResearcherCommon · 2022](https://boostmlbb.ru/en/skins/kimmy/steam-researcher.html)[![](/images/skins/cards/kimmy/bio-frontier.webp)Bio FrontierExceptional · 2019](https://boostmlbb.ru/en/skins/kimmy/bio-frontier.html)[![](/images/skins/cards/kimmy/charge-leader.webp)Charge LeaderExceptional · 2018](https://boostmlbb.ru/en/skins/kimmy/charge-leader.html)[![](/images/skins/cards/kimmy/astrocat.webp)AstrocatExquisite · 2018](https://boostmlbb.ru/en/skins/kimmy/astrocat.html)
+
+[All 9 Kimmy skins: prices and how to get them](https://boostmlbb.ru/en/skins/kimmy.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Nolan hero art](/images/heroes/art/nolan.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 39.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical A
 ### Who Nolan counters
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
+
+## Nolan skins
+
+[![](/images/skins/cards/nolan/the-navigator.webp)The NavigatorGrand · 2024](https://boostmlbb.ru/en/skins/nolan/the-navigator.html)[![](/images/skins/cards/nolan/fashion-mogul.webp)Fashion MogulExceptional · 2024](https://boostmlbb.ru/en/skins/nolan/fashion-mogul.html)[![](/images/skins/cards/nolan/voidwalker.webp)VoidwalkerCommon · 2023](https://boostmlbb.ru/en/skins/nolan/voidwalker.html)
+
+[All 3 Nolan skins: prices and how to get them](https://boostmlbb.ru/en/skins/nolan.html)
 
 ## Lore
 

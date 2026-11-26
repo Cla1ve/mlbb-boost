@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/nana.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Нана](/images/heroes/art/nana.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -277,6 +277,12 @@ C
 ### Кого контрит Нана
 
 [![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Акай](https://boostmlbb.ru/heroes/akai.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
+
+## Скины Наны
+
+[![](/images/skins/cards/nana/mistbender-nana.webp)Нана, заклина­тельница туманаГрандиозный · 2023](https://boostmlbb.ru/skins/nana/mistbender-nana.html)[![](/images/skins/cards/nana/cyclone-clash.webp)Столкно­вение циклоновИсключительный · 2022](https://boostmlbb.ru/skins/nana/cyclone-clash.html)[![](/images/skins/cards/nana/aqua-pura.webp)Аква ПураИзысканный · 2021](https://boostmlbb.ru/skins/nana/aqua-pura.html)[![](/images/skins/cards/nana/mecha-baby.webp)Меха-малышкаДелюкс · 2020](https://boostmlbb.ru/skins/nana/mecha-baby.html)[![](/images/skins/cards/nana/sundress.webp)Летнее платьеИсключительный · 2019](https://boostmlbb.ru/skins/nana/sundress.html)[![](/images/skins/cards/nana/wind-fairy.webp)Фея ветраИсключительный · 2018](https://boostmlbb.ru/skins/nana/wind-fairy.html)[![](/images/skins/cards/nana/slumber-party.webp)Пижамная вечеринкаОбычный · 2017](https://boostmlbb.ru/skins/nana/slumber-party.html)[![](/images/skins/cards/nana/graveyard-party.webp)Вечеринка на кладбищеОбычный · 2016](https://boostmlbb.ru/skins/nana/graveyard-party.html)[![](/images/skins/cards/nana/clockwork-maid.webp)Заводная горничнаяОбычный · 2016](https://boostmlbb.ru/skins/nana/clockwork-maid.html)
+
+[Все 9 скинов Наны: цены и как получить](https://boostmlbb.ru/skins/nana.html)
 
 ## История
 

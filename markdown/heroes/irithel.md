@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/irithel.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Иритель](/images/heroes/art/irithel.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -336,6 +336,12 @@ C
 ### Кого контрит Иритель
 
 [![](/images/heroes/art/miya.webp)Мия](https://boostmlbb.ru/heroes/miya.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)
+
+## Скины Иритель
+
+[![](/images/skins/cards/irithel/checkered-knight.webp)Клетчатый рыцарьИсключительный · 2025](https://boostmlbb.ru/skins/irithel/checkered-knight.html)[![](/images/skins/cards/irithel/monster-sp-rider.webp)Гонщица на Monster SPГрандиозный · 2023](https://boostmlbb.ru/skins/irithel/monster-sp-rider.html)[![](/images/skins/cards/irithel/astral-wanderer.webp)Астральный странникИзысканный · 2019](https://boostmlbb.ru/skins/irithel/astral-wanderer.html)[![](/images/skins/cards/irithel/sagittarius.webp)СтрелецДелюкс · 2018](https://boostmlbb.ru/skins/irithel/sagittarius.html)[![](/images/skins/cards/irithel/nightarrow.webp)Ночная стрелаИсключительный · 2018](https://boostmlbb.ru/skins/irithel/nightarrow.html)[![](/images/skins/cards/irithel/hellfire.webp)Адское пламяДелюкс · 2017](https://boostmlbb.ru/skins/irithel/hellfire.html)[![](/images/skins/cards/irithel/silver-cyclone.webp)Серебряный циклонОбычный · 2017](https://boostmlbb.ru/skins/irithel/silver-cyclone.html)
+
+[Все 7 скинов Иритель: цены и как получить](https://boostmlbb.ru/skins/irithel.html)
 
 ## История
 

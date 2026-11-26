@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/angela.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Angela hero art](/images/heroes/art/angela.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 11.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ Angela can cast this skill again to cancel the channeling or detach herself from
 ### Who Angela counters
 
 [![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)
+
+## Angela skins
+
+[![](/images/skins/cards/angela/strings-of-fate.webp)Strings of FateGrand · 2025](https://boostmlbb.ru/en/skins/angela/strings-of-fate.html)[![](/images/skins/cards/angela/avatar-of-time.webp)Avatar of TimeExquisite · 2023](https://boostmlbb.ru/en/skins/angela/avatar-of-time.html)[![](/images/skins/cards/angela/heartstring.webp)HeartstringGrand · 2022](https://boostmlbb.ru/en/skins/angela/heartstring.html)[![](/images/skins/cards/angela/floral-elf.webp)Floral ElfExquisite · 2021](https://boostmlbb.ru/en/skins/angela/floral-elf.html)[![](/images/skins/cards/angela/cyber-cherubin.webp)Cyber CherubinGrand · 2020](https://boostmlbb.ru/en/skins/angela/cyber-cherubin.html)[![](/images/skins/cards/angela/scream-doll.webp)Scream DollExceptional · 2019](https://boostmlbb.ru/en/skins/angela/scream-doll.html)[![](/images/skins/cards/angela/v-e-n-o-m-vespid.webp)V.E.N.O.M. VespidDeluxe · 2019](https://boostmlbb.ru/en/skins/angela/v-e-n-o-m-vespid.html)[![](/images/skins/cards/angela/summer-vibes.webp)Summer VibesExceptional · 2019](https://boostmlbb.ru/en/skins/angela/summer-vibes.html)[![](/images/skins/cards/angela/shanghai-maiden.webp)Shanghai MaidenExceptional · 2018](https://boostmlbb.ru/en/skins/angela/shanghai-maiden.html)[![](/images/skins/cards/angela/dove-love.webp)Dove&LoveCommon · 2018](https://boostmlbb.ru/en/skins/angela/dove-love.html)[![](/images/skins/cards/angela/wind-up-courier.webp)Wind-up Courier](https://boostmlbb.ru/en/skins/angela/wind-up-courier.html)
+
+[All 11 Angela skins: prices and how to get them](https://boostmlbb.ru/en/skins/angela.html)
 
 ## Lore
 

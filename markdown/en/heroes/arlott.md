@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Arlott hero art](/images/heroes/art/arlott.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ Cooldown **24 s**
 ### Who Arlott counters
 
 [![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
+
+## Arlott skins
+
+[![](/images/skins/cards/arlott/aeon-of-twilight.webp)Aeon of TwilightExquisite · 2025](https://boostmlbb.ru/en/skins/arlott/aeon-of-twilight.html)[![](/images/skins/cards/arlott/fury-of-the-deep.webp)Fury of the DeepExceptional · 2023](https://boostmlbb.ru/en/skins/arlott/fury-of-the-deep.html)[![](/images/skins/cards/arlott/wandering-spear.webp)Wandering SpearCommon · 2023](https://boostmlbb.ru/en/skins/arlott/wandering-spear.html)
+
+[All 3 Arlott skins: prices and how to get them](https://boostmlbb.ru/en/skins/arlott.html)
 
 ## Lore
 

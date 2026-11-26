@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/natan.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Natan hero art](/images/heroes/art/natan.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ Each cast reduces other skills' remaining cooldowns by 50%. The Reverse-Clone wi
 ### Who Natan counters
 
 [![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
+
+## Natan skins
+
+[![](/images/skins/cards/natan/sanguine-steward.webp)Sanguine StewardDeluxe · 2026](https://boostmlbb.ru/en/skins/natan/sanguine-steward.html)[![](/images/skins/cards/natan/archon-of-knowledge.webp)Archon of KnowledgeDeluxe · 2025](https://boostmlbb.ru/en/skins/natan/archon-of-knowledge.html)[![](/images/skins/cards/natan/temporal-vortex.webp)Temporal VortexExceptional · 2024](https://boostmlbb.ru/en/skins/natan/temporal-vortex.html)[![](/images/skins/cards/natan/tidal-lord.webp)Tidal LordExquisite · 2023](https://boostmlbb.ru/en/skins/natan/tidal-lord.html)[![](/images/skins/cards/natan/captain-chrono.webp)Captain ChronoExceptional · 2022](https://boostmlbb.ru/en/skins/natan/captain-chrono.html)[![](/images/skins/cards/natan/chaos-hunter.webp)Chaos HunterCommon · 2022](https://boostmlbb.ru/en/skins/natan/chaos-hunter.html)[![](/images/skins/cards/natan/time-wielder.webp)Time WielderCommon · 2021](https://boostmlbb.ru/en/skins/natan/time-wielder.html)
+
+[All 7 Natan skins: prices and how to get them](https://boostmlbb.ru/en/skins/natan.html)
 
 ## Lore
 

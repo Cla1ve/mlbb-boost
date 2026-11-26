@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/beatrix.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Beatrix hero art](/images/heroes/art/beatrix.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -351,6 +351,12 @@ Her weapon selection is interrupted if she commits any action or is controlled d
 ### Who Beatrix counters
 
 [![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
+
+## Beatrix skins
+
+[![](/images/skins/cards/beatrix/sky-force-maverick.webp)Sky Force MaverickDeluxe · 2025](https://boostmlbb.ru/en/skins/beatrix/sky-force-maverick.html)[![](/images/skins/cards/beatrix/vibrant-fiesta.webp)Vibrant FiestaExceptional · 2023](https://boostmlbb.ru/en/skins/beatrix/vibrant-fiesta.html)[![](/images/skins/cards/beatrix/stellar-briliance.webp)Stellar BrilianceGrand · 2022](https://boostmlbb.ru/en/skins/beatrix/stellar-briliance.html)[![](/images/skins/cards/beatrix/light-chaser.webp)Light ChaserDeluxe · 2022](https://boostmlbb.ru/en/skins/beatrix/light-chaser.html)[![](/images/skins/cards/beatrix/space-agent.webp)Space AgentExceptional · 2022](https://boostmlbb.ru/en/skins/beatrix/space-agent.html)[![](/images/skins/cards/beatrix/blitz-attack.webp)Blitz AttackCommon · 2021](https://boostmlbb.ru/en/skins/beatrix/blitz-attack.html)[![](/images/skins/cards/beatrix/x-factor.webp)X FactorCommon · 2021](https://boostmlbb.ru/en/skins/beatrix/x-factor.html)
+
+[All 7 Beatrix skins: prices and how to get them](https://boostmlbb.ru/en/skins/beatrix.html)
 
 ## Lore
 

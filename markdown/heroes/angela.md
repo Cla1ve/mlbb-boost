@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/angela.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ангела](/images/heroes/art/angela.webp)
 
@@ -27,7 +27,7 @@ B
 
 11,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -337,6 +337,12 @@ B
 ### Кого контрит Ангела
 
 [![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)
+
+## Скины Ангелы
+
+[![](/images/skins/cards/angela/strings-of-fate.webp)Нити судьбыГрандиозный · 2025](https://boostmlbb.ru/skins/angela/strings-of-fate.html)[![](/images/skins/cards/angela/avatar-of-time.webp)Аватар времениИзысканный · 2023](https://boostmlbb.ru/skins/angela/avatar-of-time.html)[![](/images/skins/cards/angela/heartstring.webp)Струны сердцаГрандиозный · 2022](https://boostmlbb.ru/skins/angela/heartstring.html)[![](/images/skins/cards/angela/floral-elf.webp)Цветочная эльфийкаИзысканный · 2021](https://boostmlbb.ru/skins/angela/floral-elf.html)[![](/images/skins/cards/angela/cyber-cherubin.webp)Кибер-херувимГрандиозный · 2020](https://boostmlbb.ru/skins/angela/cyber-cherubin.html)[![](/images/skins/cards/angela/scream-doll.webp)Кричащая куклаИсключительный · 2019](https://boostmlbb.ru/skins/angela/scream-doll.html)[![](/images/skins/cards/angela/v-e-n-o-m-vespid.webp)Оса V.E.N.O.M.Делюкс · 2019](https://boostmlbb.ru/skins/angela/v-e-n-o-m-vespid.html)[![](/images/skins/cards/angela/summer-vibes.webp)Летнее настроениеИсключительный · 2019](https://boostmlbb.ru/skins/angela/summer-vibes.html)[![](/images/skins/cards/angela/shanghai-maiden.webp)Шанхайская деваИсключительный · 2018](https://boostmlbb.ru/skins/angela/shanghai-maiden.html)[![](/images/skins/cards/angela/dove-love.webp)Голубка любвиОбычный · 2018](https://boostmlbb.ru/skins/angela/dove-love.html)[![](/images/skins/cards/angela/wind-up-courier.webp)Заводная курьерша](https://boostmlbb.ru/skins/angela/wind-up-courier.html)
+
+[Все 11 скинов Ангелы: цены и как получить](https://boostmlbb.ru/skins/angela.html)
 
 ## История
 

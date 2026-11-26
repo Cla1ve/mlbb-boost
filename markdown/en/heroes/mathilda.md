@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Mathilda hero art](/images/heroes/art/mathilda.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ Mathilda gains Control Immunity and a 400 (+180% Total Magic Power) shield for t
 ### Who Mathilda counters
 
 [![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+
+## Mathilda skins
+
+[![](/images/skins/cards/mathilda/arcane-verdict.webp)Arcane VerdictExceptional · 2026](https://boostmlbb.ru/en/skins/mathilda/arcane-verdict.html)[![](/images/skins/cards/mathilda/dreambound-pixie.webp)Dreambound PixieDeluxe · 2025](https://boostmlbb.ru/en/skins/mathilda/dreambound-pixie.html)[![](/images/skins/cards/mathilda/dream-groove.webp)Dream GrooveExceptional · 2022](https://boostmlbb.ru/en/skins/mathilda/dream-groove.html)[![](/images/skins/cards/mathilda/floral-crown.webp)Floral CrownCommon · 2021](https://boostmlbb.ru/en/skins/mathilda/floral-crown.html)[![](/images/skins/cards/mathilda/unrestrained-delight.webp)Unrestrai­ned DelightCommon · 2020](https://boostmlbb.ru/en/skins/mathilda/unrestrained-delight.html)
+
+[All 5 Mathilda skins: prices and how to get them](https://boostmlbb.ru/en/skins/mathilda.html)
 
 ## Lore
 

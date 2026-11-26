@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/ruby.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Руби](/images/heroes/art/ruby.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -331,6 +331,12 @@ C
 ### Кого контрит Руби
 
 [![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)
+
+## Скины Руби
+
+[![](/images/skins/cards/ruby/neon-edge.webp)Неоновый клинокИсключительный · 2025](https://boostmlbb.ru/skins/ruby/neon-edge.html)[![](/images/skins/cards/ruby/crescent-dervish.webp)Дервиш полумесяцаИсключительный · 2025](https://boostmlbb.ru/skins/ruby/crescent-dervish.html)[![](/images/skins/cards/ruby/soul-reaper.webp)Жнец душИсключительный · 2024](https://boostmlbb.ru/skins/ruby/soul-reaper.html)[![](/images/skins/cards/ruby/mecha-maiden.webp)Меха-деваГрандиозный · 2023](https://boostmlbb.ru/skins/ruby/mecha-maiden.html)[![](/images/skins/cards/ruby/prismatic-plume.webp)Призмати­ческое пероИзысканный · 2023](https://boostmlbb.ru/skins/ruby/prismatic-plume.html)[![](/images/skins/cards/ruby/pirate-parrot.webp)Пиратский попугайИсключительный · 2021](https://boostmlbb.ru/skins/ruby/pirate-parrot.html)[![](/images/skins/cards/ruby/lady-zombie.webp)Леди-зомбиИзысканный · 2019](https://boostmlbb.ru/skins/ruby/lady-zombie.html)[![](/images/skins/cards/ruby/edelweiss.webp)ЭдельвейсОбычный · 2018](https://boostmlbb.ru/skins/ruby/edelweiss.html)[![](/images/skins/cards/ruby/cat-girl.webp)КошечкаОбычный · 2017](https://boostmlbb.ru/skins/ruby/cat-girl.html)[![](/images/skins/cards/ruby/hidden-orchid-butterfly.webp)Бабочка тайной орхидеиОбычный · 2017](https://boostmlbb.ru/skins/ruby/hidden-orchid-butterfly.html)
+
+[Все 10 скинов Руби: цены и как получить](https://boostmlbb.ru/skins/ruby.html)
 
 ## История
 

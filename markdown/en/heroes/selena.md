@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/selena.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Selena hero art](/images/heroes/art/selena.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 3.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -346,6 +346,12 @@ Cooldown **5.5 s**
 ### Who Selena counters
 
 [![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+
+## Selena skins
+
+[![](/images/skins/cards/selena/silverbolt-raiko.webp)Silverbolt RaikoGrand · 2026](https://boostmlbb.ru/en/skins/selena/silverbolt-raiko.html)[![](/images/skins/cards/selena/curse-of-cinder.webp)Curse of CinderGrand · 2025](https://boostmlbb.ru/en/skins/selena/curse-of-cinder.html)[![](/images/skins/cards/selena/lady-vengeance.webp)Lady VengeanceGrand · 2021](https://boostmlbb.ru/en/skins/selena/lady-vengeance.html)[![](/images/skins/cards/selena/gothic-curse.webp)Gothic CurseCommon · 2021](https://boostmlbb.ru/en/skins/selena/gothic-curse.html)[![](/images/skins/cards/selena/s-t-u-n-selena.webp)S.T.U.N. SelenaDeluxe · 2021](https://boostmlbb.ru/en/skins/selena/s-t-u-n-selena.html)[![](/images/skins/cards/selena/thunder-flash.webp)Thunder FlashExquisite · 2020](https://boostmlbb.ru/en/skins/selena/thunder-flash.html)[![](/images/skins/cards/selena/double-identity.webp)Double IdentityExceptional · 2019](https://boostmlbb.ru/en/skins/selena/double-identity.html)[![](/images/skins/cards/selena/gemini-shadow.webp)Gemini - ShadowDeluxe · 2019](https://boostmlbb.ru/en/skins/selena/gemini-shadow.html)[![](/images/skins/cards/selena/virus.webp)VirusDeluxe · 2019](https://boostmlbb.ru/en/skins/selena/virus.html)[![](/images/skins/cards/selena/wasp-queen.webp)Wasp QueenCommon · 2018](https://boostmlbb.ru/en/skins/selena/wasp-queen.html)
+
+[All 10 Selena skins: prices and how to get them](https://boostmlbb.ru/en/skins/selena.html)
 
 ## Lore
 

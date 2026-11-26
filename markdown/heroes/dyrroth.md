@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/dyrroth.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Дариус](/images/heroes/art/dyrroth.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -348,6 +348,12 @@ B
 ### Кого контрит Дариус
 
 [![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/johnson.webp)Джонсон](https://boostmlbb.ru/heroes/johnson.html)
+
+## Скины Дариуса
+
+[![](/images/skins/cards/dyrroth/gon.webp)ГонГрандиозный · 2025](https://boostmlbb.ru/skins/dyrroth/gon.html)[![](/images/skins/cards/dyrroth/naraka-flame.webp)Пламя НаракиИзысканный · 2023](https://boostmlbb.ru/skins/dyrroth/naraka-flame.html)[![](/images/skins/cards/dyrroth/v-e-n-o-m-cobra.webp)Кобра V.E.N.O.M.Делюкс · 2022](https://boostmlbb.ru/skins/dyrroth/v-e-n-o-m-cobra.html)[![](/images/skins/cards/dyrroth/orochi-chris.webp)Орочи КрисГрандиозный · 2020](https://boostmlbb.ru/skins/dyrroth/orochi-chris.html)[![](/images/skins/cards/dyrroth/ruins-scavenger.webp)Мародёр руинИсключительный · 2019](https://boostmlbb.ru/skins/dyrroth/ruins-scavenger.html)[![](/images/skins/cards/dyrroth/scalebore.webp)Чешуйчатый бурОбычный · 2019](https://boostmlbb.ru/skins/dyrroth/scalebore.html)
+
+[Все 6 скинов Дариуса: цены и как получить](https://boostmlbb.ru/skins/dyrroth.html)
 
 ## История
 

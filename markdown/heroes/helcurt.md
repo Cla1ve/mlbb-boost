@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/helcurt.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Хелкарт](/images/heroes/art/helcurt.webp)
 
@@ -27,7 +27,7 @@ C
 
 2,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -343,6 +343,12 @@ C
 ### Кого контрит Хелкарт
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
+
+## Скины Хелкарта
+
+[![](/images/skins/cards/helcurt/kaiju-of-the-deep.webp)Кайдзю глубинИзысканный · 2026](https://boostmlbb.ru/skins/helcurt/kaiju-of-the-deep.html)[![](/images/skins/cards/helcurt/dream-prowler.webp)Хищник сновИсключительный · 2024](https://boostmlbb.ru/skins/helcurt/dream-prowler.html)[![](/images/skins/cards/helcurt/scorpio.webp)СкорпионДелюкс · 2019](https://boostmlbb.ru/skins/helcurt/scorpio.html)[![](/images/skins/cards/helcurt/evolved-predator.webp)Эволюциони­ровавший хищникИсключительный · 2018](https://boostmlbb.ru/skins/helcurt/evolved-predator.html)[![](/images/skins/cards/helcurt/ice-scythe.webp)Ледяная косаОбычный · 2018](https://boostmlbb.ru/skins/helcurt/ice-scythe.html)[![](/images/skins/cards/helcurt/exoracial-executer.webp)Палач-чужакОбычный · 2017](https://boostmlbb.ru/skins/helcurt/exoracial-executer.html)
+
+[Все 6 скинов Хелкарта: цены и как получить](https://boostmlbb.ru/skins/helcurt.html)
 
 ## История
 

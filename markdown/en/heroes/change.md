@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Chang'e hero art](/images/heroes/art/change.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ Chang'e gains 10% Movement Speed for 4s. During this time, she fires 30 meteors 
 ### Who Chang'e counters
 
 [![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Chang'e skins
+
+[![](/images/skins/cards/change/golden-osmanthus.webp)Golden OsmanthusCommon · 2026](https://boostmlbb.ru/en/skins/change/golden-osmanthus.html)[![](/images/skins/cards/change/moonglow-troupe.webp)Moonglow TroupeExceptional · 2025](https://boostmlbb.ru/en/skins/change/moonglow-troupe.html)[![](/images/skins/cards/change/tech-tensai.webp)Tech TensaiGrand · 2024](https://boostmlbb.ru/en/skins/change/tech-tensai.html)[![](/images/skins/cards/change/new-moon.webp)New MoonDeluxe · 2023](https://boostmlbb.ru/en/skins/change/new-moon.html)[![](/images/skins/cards/change/moon-artist.webp)Moon ArtistGrand · 2022](https://boostmlbb.ru/en/skins/change/moon-artist.html)[![](/images/skins/cards/change/vine-cradle.webp)Vine CradleDeluxe · 2021](https://boostmlbb.ru/en/skins/change/vine-cradle.html)[![](/images/skins/cards/change/strawberry-parfait.webp)Strawberry ParfaitExceptional · 2020](https://boostmlbb.ru/en/skins/change/strawberry-parfait.html)[![](/images/skins/cards/change/lunar-magic.webp)Lunar MagicExquisite · 2020](https://boostmlbb.ru/en/skins/change/lunar-magic.html)[![](/images/skins/cards/change/floral-elfo.webp)Floral ElfoExceptional · 2019](https://boostmlbb.ru/en/skins/change/floral-elfo.html)[![](/images/skins/cards/change/crimson-moon.webp)Crimson MoonCommon · 2019](https://boostmlbb.ru/en/skins/change/crimson-moon.html)[![](/images/skins/cards/change/moonstruck.webp)MoonstruckCommon · 2018](https://boostmlbb.ru/en/skins/change/moonstruck.html)
+
+[All 11 Chang'e skins: prices and how to get them](https://boostmlbb.ru/en/skins/change.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/cyclops.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Циклоп](/images/heroes/art/cyclops.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,8%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -332,6 +332,12 @@ C
 ### Кого контрит Циклоп
 
 [![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+
+## Скины Циклопа
+
+[![](/images/skins/cards/cyclops/spongebob.webp)Губка БобДелюкс · 2025](https://boostmlbb.ru/skins/cyclops/spongebob.html)[![](/images/skins/cards/cyclops/yokai-warlock.webp)Чернок­нижник-ёкайИзысканный · 2023](https://boostmlbb.ru/skins/cyclops/yokai-warlock.html)[![](/images/skins/cards/cyclops/straw-doll.webp)Соломенная куклаИсключительный · 2021](https://boostmlbb.ru/skins/cyclops/straw-doll.html)[![](/images/skins/cards/cyclops/master-yoda.webp)Мастер ЙодаГрандиозный · 2021](https://boostmlbb.ru/skins/cyclops/master-yoda.html)[![](/images/skins/cards/cyclops/deep-sea-rescuer.webp)Глубоко­водный спасательИсключительный · 2018](https://boostmlbb.ru/skins/cyclops/deep-sea-rescuer.html)[![](/images/skins/cards/cyclops/zombie-bambino.webp)Зомби-малышОбычный · 2018](https://boostmlbb.ru/skins/cyclops/zombie-bambino.html)[![](/images/skins/cards/cyclops/s-a-b-e-r-enforcer.webp)Каратель S.A.B.E.R.Делюкс · 2018](https://boostmlbb.ru/skins/cyclops/s-a-b-e-r-enforcer.html)[![](/images/skins/cards/cyclops/super-adventurer.webp)Супер-искатель приклю­ченийОбычный · 2017](https://boostmlbb.ru/skins/cyclops/super-adventurer.html)[![](/images/skins/cards/cyclops/exorcist.webp)ЭкзорцистОбычный · 2017](https://boostmlbb.ru/skins/cyclops/exorcist.html)
+
+[Все 9 скинов Циклопа: цены и как получить](https://boostmlbb.ru/skins/cyclops.html)
 
 ## История
 

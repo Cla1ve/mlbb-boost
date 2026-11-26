@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/alice.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Alice hero art](/images/heroes/art/alice.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 8.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -344,6 +344,12 @@ While charging her Ultimate, Alice cannot use any hero skills other than Scarlet
 ### Who Alice counters
 
 [![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
+
+## Alice skins
+
+[![](/images/skins/cards/alice/dreaming-monarch.webp)Dreaming Monarch2026](https://boostmlbb.ru/en/skins/alice/dreaming-monarch.html)[![](/images/skins/cards/alice/darknet-temptress.webp)Darknet TemptressDeluxe · 2024](https://boostmlbb.ru/en/skins/alice/darknet-temptress.html)[![](/images/skins/cards/alice/jade-empress.webp)Jade EmpressCommon · 2023](https://boostmlbb.ru/en/skins/alice/jade-empress.html)[![](/images/skins/cards/alice/steam-glider.webp)Steam GliderExceptional · 2019](https://boostmlbb.ru/en/skins/alice/steam-glider.html)[![](/images/skins/cards/alice/divine-owl.webp)Divine OwlExceptional · 2018](https://boostmlbb.ru/en/skins/alice/divine-owl.html)[![](/images/skins/cards/alice/wizardry-teacher.webp)Wizardry TeacherExquisite · 2017](https://boostmlbb.ru/en/skins/alice/wizardry-teacher.html)[![](/images/skins/cards/alice/spirit-woman.webp)Spirit WomanCommon · 2016](https://boostmlbb.ru/en/skins/alice/spirit-woman.html)
+
+[All 7 Alice skins: prices and how to get them](https://boostmlbb.ru/en/skins/alice.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/minotaur.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Minotaur hero art](/images/heroes/art/minotaur.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 10.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ The Enraged state lasts 12s and enhances Minotaur's skills for the duration.
 ### Who Minotaur counters
 
 [![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
+
+## Minotaur skins
+
+[![](/images/skins/cards/minotaur/nether-overseer.webp)Nether OverseerDeluxe · 2026](https://boostmlbb.ru/en/skins/minotaur/nether-overseer.html)[![](/images/skins/cards/minotaur/dreadnought.webp)Dread­noughtExceptional · 2023](https://boostmlbb.ru/en/skins/minotaur/dreadnought.html)[![](/images/skins/cards/minotaur/taurus.webp)TaurusDeluxe · 2019](https://boostmlbb.ru/en/skins/minotaur/taurus.html)[![](/images/skins/cards/minotaur/sacred-hammer.webp)Sacred HammerCommon · 2018](https://boostmlbb.ru/en/skins/minotaur/sacred-hammer.html)[![](/images/skins/cards/minotaur/orbiter.webp)OrbiterCommon · 2018](https://boostmlbb.ru/en/skins/minotaur/orbiter.html)[![](/images/skins/cards/minotaur/bursting-yama.webp)Bursting YamaCommon · 2016](https://boostmlbb.ru/en/skins/minotaur/bursting-yama.html)
+
+[All 6 Minotaur skins: prices and how to get them](https://boostmlbb.ru/en/skins/minotaur.html)
 
 ## Lore
 

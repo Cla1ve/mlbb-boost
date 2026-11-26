@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/arlott.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Арлотт](/images/heroes/art/arlott.webp)
 
@@ -27,7 +27,7 @@ B
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -337,6 +337,12 @@ B
 ### Кого контрит Арлотт
 
 [![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
+
+## Скины Арлотта
+
+[![](/images/skins/cards/arlott/aeon-of-twilight.webp)Эон сумерекИзысканный · 2025](https://boostmlbb.ru/skins/arlott/aeon-of-twilight.html)[![](/images/skins/cards/arlott/fury-of-the-deep.webp)Ярость глубинИсключительный · 2023](https://boostmlbb.ru/skins/arlott/fury-of-the-deep.html)[![](/images/skins/cards/arlott/wandering-spear.webp)Странствующее копьёОбычный · 2023](https://boostmlbb.ru/skins/arlott/wandering-spear.html)
+
+[Все 3 скина Арлотта: цены и как получить](https://boostmlbb.ru/skins/arlott.html)
 
 ## История
 

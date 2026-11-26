@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Harith hero art](/images/heroes/art/harith.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ When Harith comes into contact with the rift using Chrono Dash, he absorbs its e
 ### Who Harith counters
 
 [![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
+
+## Harith skins
+
+[![](/images/skins/cards/harith/evos-legends.webp)EVOS LegendsDeluxe · 2025](https://boostmlbb.ru/en/skins/harith/evos-legends.html)[![](/images/skins/cards/harith/christmas-carnival.webp)Christmas CarnivalExceptional · 2025](https://boostmlbb.ru/en/skins/harith/christmas-carnival.html)[![](/images/skins/cards/harith/killua.webp)KilluaGrand · 2025](https://boostmlbb.ru/en/skins/harith/killua.html)[![](/images/skins/cards/harith/psychic.webp)PsychicExquisite · 2024](https://boostmlbb.ru/en/skins/harith/psychic.html)[![](/images/skins/cards/harith/fashion-expert.webp)Fashion ExpertExceptional · 2021](https://boostmlbb.ru/en/skins/harith/fashion-expert.html)[![](/images/skins/cards/harith/lightborn-inspirer.webp)Lightborn - InspirerDeluxe · 2018](https://boostmlbb.ru/en/skins/harith/lightborn-inspirer.html)[![](/images/skins/cards/harith/savannah-cat.webp)Savannah CatCommon · 2018](https://boostmlbb.ru/en/skins/harith/savannah-cat.html)[![](/images/skins/cards/harith/stardust.webp)StardustCommon · 2018](https://boostmlbb.ru/en/skins/harith/stardust.html)
+
+[All 8 Harith skins: prices and how to get them](https://boostmlbb.ru/en/skins/harith.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Roger hero art](/images/heroes/art/roger.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -341,6 +341,12 @@ Roger lunges in the target direction and turns into wolf form, dealing 150 (+100
 ### Who counters Roger
 
 [![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+
+## Roger skins
+
+[![](/images/skins/cards/roger/grimlock.webp)GrimlockGrand · 2022](https://boostmlbb.ru/en/skins/roger/grimlock.html)[![](/images/skins/cards/roger/phantom-ranger.webp)Phantom RangerDeluxe · 2021](https://boostmlbb.ru/en/skins/roger/phantom-ranger.html)[![](/images/skins/cards/roger/fiend-hunter.webp)Fiend HunterGrand · 2021](https://boostmlbb.ru/en/skins/roger/fiend-hunter.html)[![](/images/skins/cards/roger/cyborg-werewolf.webp)Cyborg WerewolfDeluxe · 2021](https://boostmlbb.ru/en/skins/roger/cyborg-werewolf.html)[![](/images/skins/cards/roger/phantom-hunter.webp)Phantom HunterDeluxe · 2018](https://boostmlbb.ru/en/skins/roger/phantom-hunter.html)[![](/images/skins/cards/roger/anubis.webp)AnubisExceptional · 2018](https://boostmlbb.ru/en/skins/roger/anubis.html)[![](/images/skins/cards/roger/dr-beast.webp)Dr. BeastExquisite · 2017](https://boostmlbb.ru/en/skins/roger/dr-beast.html)[![](/images/skins/cards/roger/dark-gent.webp)Dark GentCommon · 2017](https://boostmlbb.ru/en/skins/roger/dark-gent.html)
+
+[All 8 Roger skins: prices and how to get them](https://boostmlbb.ru/en/skins/roger.html)
 
 ## Lore
 

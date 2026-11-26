@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/melissa.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Melissa hero art](/images/heroes/art/melissa.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -292,6 +292,12 @@ The field will move with Melissa once, when she's about to move out of the bound
 ### Who Melissa counters
 
 [![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)
+
+## Melissa skins
+
+[![](/images/skins/cards/melissa/umbra-bloom.webp)Umbra BloomExquisite · 2025](https://boostmlbb.ru/en/skins/melissa/umbra-bloom.html)[![](/images/skins/cards/melissa/sparkle-melissa.webp)SPARKLE MelissaDeluxe · 2024](https://boostmlbb.ru/en/skins/melissa/sparkle-melissa.html)[![](/images/skins/cards/melissa/nightwalker.webp)NightwalkerExceptional · 2023](https://boostmlbb.ru/en/skins/melissa/nightwalker.html)[![](/images/skins/cards/melissa/nobara-kugisaki.webp)Nobara KugisakiGrand · 2023](https://boostmlbb.ru/en/skins/melissa/nobara-kugisaki.html)[![](/images/skins/cards/melissa/twinge-weaver.webp)Twinge WeaverCommon · 2022](https://boostmlbb.ru/en/skins/melissa/twinge-weaver.html)
+
+[All 5 Melissa skins: prices and how to get them](https://boostmlbb.ru/en/skins/melissa.html)
 
 ## Lore
 

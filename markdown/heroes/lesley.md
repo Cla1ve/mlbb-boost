@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/lesley.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Лесли](/images/heroes/art/lesley.webp)
 
@@ -27,7 +27,7 @@ B
 
 5,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -340,6 +340,12 @@ B
 ### Кого контрит Лесли
 
 [![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Маша](https://boostmlbb.ru/heroes/masha.html)
+
+## Скины Лесли
+
+[![](/images/skins/cards/lesley/meowkin-hunter.webp)Охотница из МяукиновДелюкс · 2025](https://boostmlbb.ru/skins/lesley/meowkin-hunter.html)[![](/images/skins/cards/lesley/duchess-of-tides.webp)Герцогиня приливовДелюкс · 2025](https://boostmlbb.ru/skins/lesley/duchess-of-tides.html)[![](/images/skins/cards/lesley/deadeye-spectre.webp)Меткий призракГрандиозный · 2024](https://boostmlbb.ru/skins/lesley/deadeye-spectre.html)[![](/images/skins/cards/lesley/hawk-eyed-sniper.webp)Зоркий снайперИзысканный · 2021](https://boostmlbb.ru/skins/lesley/hawk-eyed-sniper.html)[![](/images/skins/cards/lesley/falcon-mistress.webp)Повели­тельница соколовИзысканный · 2021](https://boostmlbb.ru/skins/lesley/falcon-mistress.html)[![](/images/skins/cards/lesley/lethal-lady.webp)Смерто­носная ледиИсключительный · 2020](https://boostmlbb.ru/skins/lesley/lethal-lady.html)[![](/images/skins/cards/lesley/angelic-agent.webp)Ангельский агентВысший · 2019](https://boostmlbb.ru/skins/lesley/angelic-agent.html)[![](/images/skins/cards/lesley/dangerous-love.webp)Опасная любовьИсключительный · 2019](https://boostmlbb.ru/skins/lesley/dangerous-love.html)[![](/images/skins/cards/lesley/stellaris-ghost.webp)Призрак СтелларисИзысканный · 2018](https://boostmlbb.ru/skins/lesley/stellaris-ghost.html)[![](/images/skins/cards/lesley/cheergunner.webp)Стрелок-чирлидерИсключительный · 2018](https://boostmlbb.ru/skins/lesley/cheergunner.html)[![](/images/skins/cards/lesley/royal-musketeer.webp)Коро­левский мушкетёрОбычный · 2018](https://boostmlbb.ru/skins/lesley/royal-musketeer.html)[![](/images/skins/cards/lesley/general-rosa.webp)Генерал РозаОбычный · 2018](https://boostmlbb.ru/skins/lesley/general-rosa.html)
+
+[Все 12 скинов Лесли: цены и как получить](https://boostmlbb.ru/skins/lesley.html)
 
 ## История
 

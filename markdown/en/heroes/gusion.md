@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/gusion.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Gusion hero art](/images/heroes/art/gusion.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -281,6 +281,12 @@ Gusion dashes to the target location, resetting the cooldowns of Sword Spike and
 ### Who Gusion counters
 
 [![](/images/heroes/art/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)
+
+## Gusion skins
+
+[![](/images/skins/cards/gusion/desert-spider.webp)Desert SpiderExceptional · 2024](https://boostmlbb.ru/en/skins/gusion/desert-spider.html)[![](/images/skins/cards/gusion/k.webp)K'Grand · 2024](https://boostmlbb.ru/en/skins/gusion/k.html)[![](/images/skins/cards/gusion/dimension-walker.webp)Dimension WalkerGrand · 2023](https://boostmlbb.ru/en/skins/gusion/dimension-walker.html)[![](/images/skins/cards/gusion/soul-revelation.webp)Soul RevelationDeluxe · 2023](https://boostmlbb.ru/en/skins/gusion/soul-revelation.html)[![](/images/skins/cards/gusion/cosmic-gleam.webp)Cosmic GleamSupreme · 2022](https://boostmlbb.ru/en/skins/gusion/cosmic-gleam.html)[![](/images/skins/cards/gusion/night-owl.webp)Night OwlExquisite · 2021](https://boostmlbb.ru/en/skins/gusion/night-owl.html)[![](/images/skins/cards/gusion/v-e-n-o-m-emperor-scorpion.webp)V.E.N.O.M. Emperor ScorpionDeluxe · 2019](https://boostmlbb.ru/en/skins/gusion/v-e-n-o-m-emperor-scorpion.html)[![](/images/skins/cards/gusion/dangerous-liaison.webp)Dangerous LiaisonExceptional · 2019](https://boostmlbb.ru/en/skins/gusion/dangerous-liaison.html)[![](/images/skins/cards/gusion/cyber-ops.webp)Cyber OpsExceptional · 2018](https://boostmlbb.ru/en/skins/gusion/cyber-ops.html)[![](/images/skins/cards/gusion/hairstylist.webp)Hairsty­listCommon · 2018](https://boostmlbb.ru/en/skins/gusion/hairstylist.html)[![](/images/skins/cards/gusion/moonlight-sonata.webp)Moonlight SonataCommon · 2018](https://boostmlbb.ru/en/skins/gusion/moonlight-sonata.html)[![](/images/skins/cards/gusion/minato-namikaze.webp)Minato Namikaze](https://boostmlbb.ru/en/skins/gusion/minato-namikaze.html)
+
+[All 12 Gusion skins: prices and how to get them](https://boostmlbb.ru/en/skins/gusion.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/aamon.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Эймон](/images/heroes/art/aamon.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -342,6 +342,12 @@ C
 ### Кого контрит Эймон
 
 [![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Хаябуса](https://boostmlbb.ru/heroes/hayabusa.html)
+
+## Скины Эймона
+
+[![](/images/skins/cards/aamon/soul-reaver.webp)Похититель душИзысканный · 2025](https://boostmlbb.ru/skins/aamon/soul-reaver.html)[![](/images/skins/cards/aamon/vessel-of-deceit.webp)Сосуд обманаГрандиозный · 2023](https://boostmlbb.ru/skins/aamon/vessel-of-deceit.html)[![](/images/skins/cards/aamon/cyber-assassin.webp)Кибер-убийцаИсключительный · 2023](https://boostmlbb.ru/skins/aamon/cyber-assassin.html)[![](/images/skins/cards/aamon/noble-crest.webp)Благо­родный гербОбычный · 2022](https://boostmlbb.ru/skins/aamon/noble-crest.html)[![](/images/skins/cards/aamon/night-s-edge.webp)Лезвие ночиОбычный · 2021](https://boostmlbb.ru/skins/aamon/night-s-edge.html)
+
+[Все 5 скинов Эймона: цены и как получить](https://boostmlbb.ru/skins/aamon.html)
 
 ## История
 

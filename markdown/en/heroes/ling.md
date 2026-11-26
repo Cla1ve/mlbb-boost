@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/ling.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Ling hero art](/images/heroes/art/ling.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ Four Tempest of Blades will also appear on the edge of the Sword Field. Ling can
 ### Who Ling counters
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
+
+## Ling skins
+
+[![](/images/skins/cards/ling/neobeast-ling.webp)Neobeast LingGrand · 2025](https://boostmlbb.ru/en/skins/ling/neobeast-ling.html)[![](/images/skins/cards/ling/cosmo-guard.webp)Cosmo GuardExceptional · 2024](https://boostmlbb.ru/en/skins/ling/cosmo-guard.html)[![](/images/skins/cards/ling/night-shade.webp)Night ShadeDeluxe · 2024](https://boostmlbb.ru/en/skins/ling/night-shade.html)[![](/images/skins/cards/ling/lord-shen.webp)Lord ShenGrand · 2022](https://boostmlbb.ru/en/skins/ling/lord-shen.html)[![](/images/skins/cards/ling/m-world-ling.webp)M-World LingDeluxe · 2022](https://boostmlbb.ru/en/skins/ling/m-world-ling.html)[![](/images/skins/cards/ling/serene-plume.webp)Serene PlumeExquisite · 2021](https://boostmlbb.ru/en/skins/ling/serene-plume.html)[![](/images/skins/cards/ling/street-punk.webp)Street PunkExceptional · 2020](https://boostmlbb.ru/en/skins/ling/street-punk.html)[![](/images/skins/cards/ling/fiery-dance.webp)Fiery DanceCommon · 2019](https://boostmlbb.ru/en/skins/ling/fiery-dance.html)
+
+[All 8 Ling skins: prices and how to get them](https://boostmlbb.ru/en/skins/ling.html)
 
 ## Lore
 

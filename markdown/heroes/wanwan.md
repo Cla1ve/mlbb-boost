@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/wanwan.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ванван](/images/heroes/art/wanwan.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -358,6 +358,12 @@ D
 ### Кого контрит Ванван
 
 [![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Бруно](https://boostmlbb.ru/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+
+## Скины Ванван
+
+[![](/images/skins/cards/wanwan/summer-splash.webp)Летние брызгиИсключительный · 2025](https://boostmlbb.ru/skins/wanwan/summer-splash.html)[![](/images/skins/cards/wanwan/flying-swallow.webp)Летящая ласточкаГрандиозный · 2024](https://boostmlbb.ru/skins/wanwan/flying-swallow.html)[![](/images/skins/cards/wanwan/m-world-wanwan.webp)Ванван M-WorldДелюкс · 2022](https://boostmlbb.ru/skins/wanwan/m-world-wanwan.html)[![](/images/skins/cards/wanwan/e-girl.webp)Е-гёрлИсключительный · 2021](https://boostmlbb.ru/skins/wanwan/e-girl.html)[![](/images/skins/cards/wanwan/pixel-blast.webp)Пиксельный взрывИзысканный · 2021](https://boostmlbb.ru/skins/wanwan/pixel-blast.html)[![](/images/skins/cards/wanwan/teen-pop.webp)Подростко­вый попИсключительный · 2020](https://boostmlbb.ru/skins/wanwan/teen-pop.html)[![](/images/skins/cards/wanwan/shoujo-commander.webp)Командир сёдзёОбычный · 2020](https://boostmlbb.ru/skins/wanwan/shoujo-commander.html)[![](/images/skins/cards/wanwan/darting-star.webp)Мелькающая звездаОбычный · 2019](https://boostmlbb.ru/skins/wanwan/darting-star.html)
+
+[Все 8 скинов Ванван: цены и как получить](https://boostmlbb.ru/skins/wanwan.html)
 
 ## История
 

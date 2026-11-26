@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/bane.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Бэйн](/images/heroes/art/bane.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -345,6 +345,12 @@ C
 ### Кого контрит Бэйн
 
 [![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+
+## Скины Бэйна
+
+[![](/images/skins/cards/bane/lord-of-scalding-seas.webp)Владыка кипящих морейИсключительный · 2025](https://boostmlbb.ru/skins/bane/lord-of-scalding-seas.html)[![](/images/skins/cards/bane/soul-defiler.webp)Осквер­нитель душДелюкс · 2023](https://boostmlbb.ru/skins/bane/soul-defiler.html)[![](/images/skins/cards/bane/underworld-outlaw.webp)Изгой подземного мираОбычный · 2022](https://boostmlbb.ru/skins/bane/underworld-outlaw.html)[![](/images/skins/cards/bane/warlord.webp)Воена­чальникОбычный · 2019](https://boostmlbb.ru/skins/bane/warlord.html)[![](/images/skins/cards/bane/deep-sea-monster.webp)Чудовище глубинОбычный · 2018](https://boostmlbb.ru/skins/bane/deep-sea-monster.html)[![](/images/skins/cards/bane/castle-master.webp)Хозяин замкаДелюкс · 2016](https://boostmlbb.ru/skins/bane/castle-master.html)
+
+[Все 6 скинов Бэйна: цены и как получить](https://boostmlbb.ru/skins/bane.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/estes.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Эстес](/images/heroes/art/estes.webp)
 
@@ -27,7 +27,7 @@ A
 
 32,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -335,6 +335,12 @@ A
 ### Кого контрит Эстес
 
 [![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Беатрис](https://boostmlbb.ru/heroes/beatrix.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)
+
+## Скины Эстеса
+
+[![](/images/skins/cards/estes/arcane-magistrate.webp)Тайный магистратИсключительный · 2025](https://boostmlbb.ru/skins/estes/arcane-magistrate.html)[![](/images/skins/cards/estes/sparkle-estes.webp)Эстес SPARKLEДелюкс · 2024](https://boostmlbb.ru/skins/estes/sparkle-estes.html)[![](/images/skins/cards/estes/blacklist-international.webp)Blacklist Interna­tionalДелюкс · 2024](https://boostmlbb.ru/skins/estes/blacklist-international.html)[![](/images/skins/cards/estes/crow-bishop.webp)Епископ-воронИсключительный · 2020](https://boostmlbb.ru/skins/estes/crow-bishop.html)[![](/images/skins/cards/estes/white-crane.webp)Белый журавльОбычный · 2018](https://boostmlbb.ru/skins/estes/white-crane.html)[![](/images/skins/cards/estes/galaxy-dominator.webp)Повелитель галактикиИзысканный](https://boostmlbb.ru/skins/estes/galaxy-dominator.html)[![](/images/skins/cards/estes/rattan-dragon.webp)Ротанговый драконДелюкс · 2017](https://boostmlbb.ru/skins/estes/rattan-dragon.html)[![](/images/skins/cards/estes/holy-priest.webp)Святой жрецОбычный · 2017](https://boostmlbb.ru/skins/estes/holy-priest.html)
+
+[Все 8 скинов Эстеса: цены и как получить](https://boostmlbb.ru/skins/estes.html)
 
 ## История
 

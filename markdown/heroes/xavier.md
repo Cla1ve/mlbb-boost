@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/xavier.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ксавьер](/images/heroes/art/xavier.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,4%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ B
 ### Кого контрит Ксавьер
 
 [![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)
+
+## Скины Ксавьера
+
+[![](/images/skins/cards/xavier/sunborn-monarch.webp)Монарх, рождённый солнцем2026](https://boostmlbb.ru/skins/xavier/sunborn-monarch.html)[![](/images/skins/cards/xavier/beyond-the-clouds-xavier.webp)Ксавьер «За облаками»Изысканный · 2024](https://boostmlbb.ru/skins/xavier/beyond-the-clouds-xavier.html)[![](/images/skins/cards/xavier/hardlight-artificer.webp)Мастер твёрдого светаИсключительный · 2024](https://boostmlbb.ru/skins/xavier/hardlight-artificer.html)[![](/images/skins/cards/xavier/satoru-gojo.webp)Сатору ГоджоГрандиозный · 2023](https://boostmlbb.ru/skins/xavier/satoru-gojo.html)[![](/images/skins/cards/xavier/verdict-of-light.webp)Вердикт светаОбычный · 2022](https://boostmlbb.ru/skins/xavier/verdict-of-light.html)
+
+[Все 5 скинов Ксавьера: цены и как получить](https://boostmlbb.ru/skins/xavier.html)
 
 ## История
 

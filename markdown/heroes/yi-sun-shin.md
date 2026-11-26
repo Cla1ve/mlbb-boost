@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/yi-sun-shin.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ли Сун-Син](/images/heroes/art/yi-sun-shin.webp)
 
@@ -27,7 +27,7 @@ B
 
 1,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -344,6 +344,12 @@ B
 ### Кто контрит Ли Сун-Сина
 
 [![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)
+
+## Скины Ли Сун-Сина
+
+[![](/images/skins/cards/yi-sun-shin/wavebreaker.webp)ВолнорезИсключительный · 2025](https://boostmlbb.ru/skins/yi-sun-shin/wavebreaker.html)[![](/images/skins/cards/yi-sun-shin/surging-torrent.webp)Бурный потокОбычный · 2023](https://boostmlbb.ru/skins/yi-sun-shin/surging-torrent.html)[![](/images/skins/cards/yi-sun-shin/azure-sentry.webp)Лазурный часовойИсключительный · 2021](https://boostmlbb.ru/skins/yi-sun-shin/azure-sentry.html)[![](/images/skins/cards/yi-sun-shin/astral-wanderer.webp)Астральный странникИзысканный · 2019](https://boostmlbb.ru/skins/yi-sun-shin/astral-wanderer.html)[![](/images/skins/cards/yi-sun-shin/fleet-warden.webp)Страж флотаДелюкс · 2017](https://boostmlbb.ru/skins/yi-sun-shin/fleet-warden.html)[![](/images/skins/cards/yi-sun-shin/roguish-ranger.webp)Плутоватый рейнджерОбычный · 2017](https://boostmlbb.ru/skins/yi-sun-shin/roguish-ranger.html)[![](/images/skins/cards/yi-sun-shin/apocalypse-agent.webp)Агент апока­липсисаОбычный · 2017](https://boostmlbb.ru/skins/yi-sun-shin/apocalypse-agent.html)[![](/images/skins/cards/yi-sun-shin/major-general.webp)Генерал-майорОбычный · 2017](https://boostmlbb.ru/skins/yi-sun-shin/major-general.html)
+
+[Все 8 скинов Ли Сун-Сина: цены и как получить](https://boostmlbb.ru/skins/yi-sun-shin.html)
 
 ## История
 

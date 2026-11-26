@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/edith.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Edith hero art](/images/heroes/art/edith.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ Cooldown **40 s**
 ### Who Edith counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
+
+## Edith skins
+
+[![](/images/skins/cards/edith/prismatic-sentinel.webp)Prismatic SentinelExceptional · 2025](https://boostmlbb.ru/en/skins/edith/prismatic-sentinel.html)[![](/images/skins/cards/edith/red-bastion.webp)Red BastionExquisite · 2024](https://boostmlbb.ru/en/skins/edith/red-bastion.html)[![](/images/skins/cards/edith/beyond-the-clouds-edith.webp)Beyond the Clouds EdithExquisite · 2024](https://boostmlbb.ru/en/skins/edith/beyond-the-clouds-edith.html)[![](/images/skins/cards/edith/ancient-warden.webp)Ancient WardenExceptional · 2023](https://boostmlbb.ru/en/skins/edith/ancient-warden.html)[![](/images/skins/cards/edith/celestial-safeguard.webp)Celestial SafeguardCommon · 2021](https://boostmlbb.ru/en/skins/edith/celestial-safeguard.html)
+
+[All 5 Edith skins: prices and how to get them](https://boostmlbb.ru/en/skins/edith.html)
 
 ## Lore
 

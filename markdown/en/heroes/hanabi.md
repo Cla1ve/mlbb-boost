@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hanabi.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Hanabi hero art](/images/heroes/art/hanabi.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -335,6 +335,12 @@ Hanabi throws Higanbana in the targeted direction, dealing 300 (+50% Total Physi
 ### Who Hanabi counters
 
 [![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
+
+## Hanabi skins
+
+[![](/images/skins/cards/hanabi/twin-crescent.webp)Twin CrescentExceptional · 2026](https://boostmlbb.ru/en/skins/hanabi/twin-crescent.html)[![](/images/skins/cards/hanabi/neonscape-icon.webp)Neonscape IconExceptional · 2026](https://boostmlbb.ru/en/skins/hanabi/neonscape-icon.html)[![](/images/skins/cards/hanabi/chic-glamour.webp)Chic GlamourExceptional · 2025](https://boostmlbb.ru/en/skins/hanabi/chic-glamour.html)[![](/images/skins/cards/hanabi/vessel-of-rage.webp)Vessel of RageGrand · 2023](https://boostmlbb.ru/en/skins/hanabi/vessel-of-rage.html)[![](/images/skins/cards/hanabi/moonlit-ninja.webp)Moonlit NinjaGrand · 2023](https://boostmlbb.ru/en/skins/hanabi/moonlit-ninja.html)[![](/images/skins/cards/hanabi/field-op.webp)Field OpExceptional · 2022](https://boostmlbb.ru/en/skins/hanabi/field-op.html)[![](/images/skins/cards/hanabi/riverland-phoenix.webp)Riverland PhoenixExquisite · 2022](https://boostmlbb.ru/en/skins/hanabi/riverland-phoenix.html)[![](/images/skins/cards/hanabi/rakshesha.webp)RaksheshaExquisite · 2020](https://boostmlbb.ru/en/skins/hanabi/rakshesha.html)[![](/images/skins/cards/hanabi/v-e-n-o-m-nephila.webp)V.E.N.O.M. NephilaDeluxe · 2019](https://boostmlbb.ru/en/skins/hanabi/v-e-n-o-m-nephila.html)[![](/images/skins/cards/hanabi/fiery-moth.webp)Fiery MothExceptional · 2019](https://boostmlbb.ru/en/skins/hanabi/fiery-moth.html)[![](/images/skins/cards/hanabi/viper.webp)ViperCommon · 2018](https://boostmlbb.ru/en/skins/hanabi/viper.html)[![](/images/skins/cards/hanabi/resplendent-iris.webp)Resplen­dent IrisCommon · 2018](https://boostmlbb.ru/en/skins/hanabi/resplendent-iris.html)
+
+[All 12 Hanabi skins: prices and how to get them](https://boostmlbb.ru/en/skins/hanabi.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/julian.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Julian hero art](/images/heroes/art/julian.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ Julian casts chains at the target location, dealing 300 (+100% Total Magic Power
 ### Who Julian counters
 
 [![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
+
+## Julian skins
+
+[![](/images/skins/cards/julian/meowkin-tracker.webp)Meowkin TrackerDeluxe · 2025](https://boostmlbb.ru/en/skins/julian/meowkin-tracker.html)[![](/images/skins/cards/julian/kurapika.webp)KurapikaGrand · 2025](https://boostmlbb.ru/en/skins/julian/kurapika.html)[![](/images/skins/cards/julian/megumi-fushiguro.webp)Megumi FushiguroGrand · 2023](https://boostmlbb.ru/en/skins/julian/megumi-fushiguro.html)[![](/images/skins/cards/julian/silent-edge.webp)Silent EdgeCommon · 2022](https://boostmlbb.ru/en/skins/julian/silent-edge.html)[![](/images/skins/cards/julian/itachi-uchiha.webp)Itachi Uchiha](https://boostmlbb.ru/en/skins/julian/itachi-uchiha.html)
+
+[All 5 Julian skins: prices and how to get them](https://boostmlbb.ru/en/skins/julian.html)
 
 ## Lore
 

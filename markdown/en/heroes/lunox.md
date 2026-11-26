@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lunox.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lunox hero art](/images/heroes/art/lunox.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -351,6 +351,12 @@ When Power of Chaos is dominant, she can cast Darkening to blink in a target dir
 ### Who Lunox counters
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
+
+## Lunox skins
+
+[![](/images/skins/cards/lunox/quantum-polarity.webp)Quantum PolarityExceptional · 2025](https://boostmlbb.ru/en/skins/lunox/quantum-polarity.html)[![](/images/skins/cards/lunox/butterfly-seraphim.webp)Butterfly SeraphimExquisite · 2025](https://boostmlbb.ru/en/skins/lunox/butterfly-seraphim.html)[![](/images/skins/cards/lunox/nature-s-harmony.webp)Nature's HarmonyCommon · 2023](https://boostmlbb.ru/en/skins/lunox/nature-s-harmony.html)[![](/images/skins/cards/lunox/divine-goddess.webp)Divine GoddessSupreme · 2023](https://boostmlbb.ru/en/skins/lunox/divine-goddess.html)[![](/images/skins/cards/lunox/bloody-mary.webp)Bloody MaryCommon · 2022](https://boostmlbb.ru/en/skins/lunox/bloody-mary.html)[![](/images/skins/cards/lunox/libra.webp)LibraDeluxe · 2019](https://boostmlbb.ru/en/skins/lunox/libra.html)[![](/images/skins/cards/lunox/dawn-revelation.webp)Dawn RevelationDeluxe · 2019](https://boostmlbb.ru/en/skins/lunox/dawn-revelation.html)[![](/images/skins/cards/lunox/eyes-of-eternity.webp)Eyes of EternityDeluxe · 2019](https://boostmlbb.ru/en/skins/lunox/eyes-of-eternity.html)[![](/images/skins/cards/lunox/ash-blossom.webp)Ash BlossomExceptional · 2019](https://boostmlbb.ru/en/skins/lunox/ash-blossom.html)[![](/images/skins/cards/lunox/cosmic-harmony.webp)Cosmic HarmonyCommon · 2019](https://boostmlbb.ru/en/skins/lunox/cosmic-harmony.html)
+
+[All 10 Lunox skins: prices and how to get them](https://boostmlbb.ru/en/skins/lunox.html)
 
 ## Lore
 

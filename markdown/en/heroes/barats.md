@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/barats.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Barats hero art](/images/heroes/art/barats.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 3.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ If Detona successfully devours an enemy, he immediately gains max stacks of Big 
 ### Who Barats counters
 
 [![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+
+## Barats skins
+
+[![](/images/skins/cards/barats/sunken-predator.webp)Sunken PredatorDeluxe · 2025](https://boostmlbb.ru/en/skins/barats/sunken-predator.html)[![](/images/skins/cards/barats/war-chief.webp)War ChiefCommon · 2022](https://boostmlbb.ru/en/skins/barats/war-chief.html)[![](/images/skins/cards/barats/baratstein.webp)BaratsteinExceptional · 2021](https://boostmlbb.ru/en/skins/barats/baratstein.html)[![](/images/skins/cards/barats/toy-rex.webp)Toy RexCommon · 2021](https://boostmlbb.ru/en/skins/barats/toy-rex.html)[![](/images/skins/cards/barats/armored-lizard.webp)Armored LizardCommon · 2020](https://boostmlbb.ru/en/skins/barats/armored-lizard.html)
+
+[All 5 Barats skins: prices and how to get them](https://boostmlbb.ru/en/skins/barats.html)
 
 ## Lore
 

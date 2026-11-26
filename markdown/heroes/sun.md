@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/sun.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сан](/images/heroes/art/sun.webp)
 
@@ -27,7 +27,7 @@ B
 
 58,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -350,6 +350,12 @@ B
 ### Кого контрит Сан
 
 [![](/images/heroes/art/badang.webp)Баданг](https://boostmlbb.ru/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Кимми](https://boostmlbb.ru/heroes/kimmy.html)[![](/images/heroes/art/alucard.webp)Алукард](https://boostmlbb.ru/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Натан](https://boostmlbb.ru/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Джой](https://boostmlbb.ru/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+
+## Скины Сана
+
+[![](/images/skins/cards/sun/celestial-rebel.webp)Небесный бунтарьИзысканный · 2026](https://boostmlbb.ru/skins/sun/celestial-rebel.html)[![](/images/skins/cards/sun/wicked-flames.webp)Злое пламяИзысканный · 2022](https://boostmlbb.ru/skins/sun/wicked-flames.html)[![](/images/skins/cards/sun/spring-blessings.webp)Весенние благос­ловенияДелюкс · 2022](https://boostmlbb.ru/skins/sun/spring-blessings.html)[![](/images/skins/cards/sun/simian-curse.webp)Обезьянье проклятиеИсключительный · 2021](https://boostmlbb.ru/skins/sun/simian-curse.html)[![](/images/skins/cards/sun/celestial-outlaw.webp)Небесный изгойОбычный · 2020](https://boostmlbb.ru/skins/sun/celestial-outlaw.html)[![](/images/skins/cards/sun/street-legend.webp)Уличная легендаИсключительный · 2018](https://boostmlbb.ru/skins/sun/street-legend.html)[![](/images/skins/cards/sun/battle-buddha.webp)Боевой БуддаОбычный · 2017](https://boostmlbb.ru/skins/sun/battle-buddha.html)[![](/images/skins/cards/sun/rock-star.webp)Рок-звездаИсключительный · 2017](https://boostmlbb.ru/skins/sun/rock-star.html)
+
+[Все 8 скинов Сана: цены и как получить](https://boostmlbb.ru/skins/sun.html)
 
 ## История
 

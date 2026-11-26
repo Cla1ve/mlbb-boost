@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/cecilion.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Сесилион](/images/heroes/art/cecilion.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -343,6 +343,12 @@ C
 ### Кто контрит Сесилиона
 
 [![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)[![](/images/heroes/art/fredrinn.webp)Фредрин](https://boostmlbb.ru/heroes/fredrinn.html)
+
+## Скины Сесилиона
+
+[![](/images/skins/cards/cecilion/hisoka.webp)ХисокаГрандиозный · 2025](https://boostmlbb.ru/skins/cecilion/hisoka.html)[![](/images/skins/cards/cecilion/crimson-wings.webp)Багровые крыльяИзысканный · 2022](https://boostmlbb.ru/skins/cecilion/crimson-wings.html)[![](/images/skins/cards/cecilion/stargazer.webp)ЗвездочётИсключительный · 2022](https://boostmlbb.ru/skins/cecilion/stargazer.html)[![](/images/skins/cards/cecilion/phantom-count.webp)Призрачный графИсключительный · 2021](https://boostmlbb.ru/skins/cecilion/phantom-count.html)[![](/images/skins/cards/cecilion/the-illusionist.webp)Иллю­зионистОбычный · 2020](https://boostmlbb.ru/skins/cecilion/the-illusionist.html)[![](/images/skins/cards/cecilion/wisteria-count.webp)Граф глицинииОбычный · 2020](https://boostmlbb.ru/skins/cecilion/wisteria-count.html)
+
+[Все 6 скинов Сесилиона: цены и как получить](https://boostmlbb.ru/skins/cecilion.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Zilong hero art](/images/heroes/art/zilong.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ During this time, Dragon Flurry triggers every 2 attacks (instead of the previou
 ### Who Zilong counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
+
+## Zilong skins
+
+[![](/images/skins/cards/zilong/ascendant-of-flame.webp)Ascendant of FlameDeluxe · 2026](https://boostmlbb.ru/en/skins/zilong/ascendant-of-flame.html)[![](/images/skins/cards/zilong/dragon-of-prosperity.webp)Dragon of ProsperityDeluxe · 2024](https://boostmlbb.ru/en/skins/zilong/dragon-of-prosperity.html)[![](/images/skins/cards/zilong/empyrean-paladin.webp)Empyrean PaladinExquisite · 2022](https://boostmlbb.ru/en/skins/zilong/empyrean-paladin.html)[![](/images/skins/cards/zilong/storm-rider.webp)Storm RiderExceptional · 2022](https://boostmlbb.ru/en/skins/zilong/storm-rider.html)[![](/images/skins/cards/zilong/loyal-spear.webp)Loyal SpearCommon · 2021](https://boostmlbb.ru/en/skins/zilong/loyal-spear.html)[![](/images/skins/cards/zilong/summer-waves.webp)Summer WavesExceptional · 2020](https://boostmlbb.ru/en/skins/zilong/summer-waves.html)[![](/images/skins/cards/zilong/christmas-carnival.webp)Christmas CarnivalExceptional · 2018](https://boostmlbb.ru/en/skins/zilong/christmas-carnival.html)[![](/images/skins/cards/zilong/changbanpo-commander.webp)Changbanpo CommanderExquisite · 2018](https://boostmlbb.ru/en/skins/zilong/changbanpo-commander.html)[![](/images/skins/cards/zilong/blazing-lancer.webp)Blazing LancerCommon · 2018](https://boostmlbb.ru/en/skins/zilong/blazing-lancer.html)[![](/images/skins/cards/zilong/elite-warrior.webp)Elite WarriorCommon · 2017](https://boostmlbb.ru/en/skins/zilong/elite-warrior.html)[![](/images/skins/cards/zilong/eastern-warrior.webp)Eastern WarriorExceptional · 2017](https://boostmlbb.ru/en/skins/zilong/eastern-warrior.html)[![](/images/skins/cards/zilong/glorious-general.webp)Glorious GeneralDeluxe · 2017](https://boostmlbb.ru/en/skins/zilong/glorious-general.html)
+
+[All 12 Zilong skins: prices and how to get them](https://boostmlbb.ru/en/skins/zilong.html)
 
 ## Lore
 

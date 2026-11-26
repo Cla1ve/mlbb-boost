@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/alpha.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Alpha hero art](/images/heroes/art/alpha.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack)
 ### Who Alpha counters
 
 [![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+
+## Alpha skins
+
+[![](/images/skins/cards/alpha/revenant-of-roses.webp)Revenant of RosesSupreme · 2025](https://boostmlbb.ru/en/skins/alpha/revenant-of-roses.html)[![](/images/skins/cards/alpha/mecha-king-perseus.webp)Mecha-King PerseusExquisite · 2024](https://boostmlbb.ru/en/skins/alpha/mecha-king-perseus.html)[![](/images/skins/cards/alpha/general-void.webp)General VoidGrand · 2023](https://boostmlbb.ru/en/skins/alpha/general-void.html)[![](/images/skins/cards/alpha/star-enforcer.webp)Star EnforcerExceptional · 2023](https://boostmlbb.ru/en/skins/alpha/star-enforcer.html)[![](/images/skins/cards/alpha/crimson-warrior.webp)Crimson WarriorExceptional · 2020](https://boostmlbb.ru/en/skins/alpha/crimson-warrior.html)[![](/images/skins/cards/alpha/sea-gladiator.webp)Sea GladiatorCommon · 2018](https://boostmlbb.ru/en/skins/alpha/sea-gladiator.html)[![](/images/skins/cards/alpha/fierce-dragon.webp)Fierce DragonCommon · 2017](https://boostmlbb.ru/en/skins/alpha/fierce-dragon.html)[![](/images/skins/cards/alpha/onimusha-commander.webp)Onimusha CommanderExquisite · 2017](https://boostmlbb.ru/en/skins/alpha/onimusha-commander.html)[![](/images/skins/cards/alpha/edict-of-the-sands.webp)Edict of the Sands](https://boostmlbb.ru/en/skins/alpha/edict-of-the-sands.html)
+
+[All 9 Alpha skins: prices and how to get them](https://boostmlbb.ru/en/skins/alpha.html)
 
 ## Lore
 

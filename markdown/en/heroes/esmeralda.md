@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/esmeralda.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Esmeralda hero art](/images/heroes/art/esmeralda.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -337,6 +337,12 @@ Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Fr
 ### Who Esmeralda counters
 
 [![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)
+
+## Esmeralda skins
+
+[![](/images/skins/cards/esmeralda/astral-muse.webp)Astral MuseExceptional · 2025](https://boostmlbb.ru/en/skins/esmeralda/astral-muse.html)[![](/images/skins/cards/esmeralda/the-foreseer.webp)The ForeseerGrand · 2023](https://boostmlbb.ru/en/skins/esmeralda/the-foreseer.html)[![](/images/skins/cards/esmeralda/light-envoy.webp)Light EnvoyExquisite · 2022](https://boostmlbb.ru/en/skins/esmeralda/light-envoy.html)[![](/images/skins/cards/esmeralda/blazing-shadow.webp)Blazing ShadowDeluxe · 2020](https://boostmlbb.ru/en/skins/esmeralda/blazing-shadow.html)[![](/images/skins/cards/esmeralda/cleopatra.webp)CleopatraExceptional · 2020](https://boostmlbb.ru/en/skins/esmeralda/cleopatra.html)[![](/images/skins/cards/esmeralda/lady-thief.webp)Lady ThiefExceptional · 2020](https://boostmlbb.ru/en/skins/esmeralda/lady-thief.html)[![](/images/skins/cards/esmeralda/poison-vine.webp)Poison VineCommon · 2019](https://boostmlbb.ru/en/skins/esmeralda/poison-vine.html)[![](/images/skins/cards/esmeralda/ruddy-dusk.webp)Ruddy DuskCommon · 2019](https://boostmlbb.ru/en/skins/esmeralda/ruddy-dusk.html)
+
+[All 8 Esmeralda skins: prices and how to get them](https://boostmlbb.ru/en/skins/esmeralda.html)
 
 ## Lore
 

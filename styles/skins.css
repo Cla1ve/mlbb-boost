@@ -1,0 +1,202 @@
+/* The /skins/ section and the Skins tab of hero profiles. Loaded after arena.css and heroes.css.
+   One accent, hairline borders, the skin's class shows only as a small coloured dot or edge. */
+:where(.atlas) { --tier: #8fa3b6; --ease-out: cubic-bezier(.2, .7, .2, 1); }
+
+/* ---------- Toolbar: search and roles, stuck under the site header ---------- */
+.skins-tools {
+  position: sticky; top: 64px; z-index: 6; display: grid; grid-template-columns: minmax(240px, 420px) minmax(0, 1fr); align-items: center; gap: 12px;
+  margin: 0 calc(-1 * var(--arena-gutter)) 8px; padding: 12px var(--arena-gutter); background: color-mix(in srgb, var(--arena-ground) 92%, transparent);
+  backdrop-filter: blur(10px); border-bottom: 1px solid transparent; transition: border-color .2s;
+}
+.skins-tools.is-stuck { border-bottom-color: var(--line); }
+.skins-tools .atlas-search input { min-height: 48px; }
+.skins-roles { min-width: 0; }
+.skins-roles > div { display: flex; max-width: 100%; overflow-x: auto; scrollbar-width: none; overscroll-behavior-x: contain; }
+.skins-roles > div::-webkit-scrollbar { display: none; }
+.skins-roles button { flex: none; }
+
+/* ---------- Blocks ---------- */
+.skins-block { margin: 32px 0 0; scroll-margin-top: 140px; }
+.skins-block > h2 { display: flex; align-items: baseline; gap: 12px; margin: 0 0 16px; color: var(--arena-ink); font-size: 1.5rem; font-weight: 600; letter-spacing: -.02em; }
+.skins-block__more { color: var(--muted); font-size: 1rem; font-weight: 500; text-decoration: none; }
+.skins-block__more:hover { color: var(--arena-ink); }
+.skins-note { margin: -8px 0 16px; color: var(--muted); font-size: 1rem; }
+.skin-source { margin: 40px 0 0; color: var(--muted); font-size: .875rem; line-height: 1.6; }
+.skin-source a { color: var(--soft); text-underline-offset: 3px; }
+
+/* ---------- Skin card: the in-game card art, name, class dot and year ---------- */
+.scard { display: grid; gap: 4px; align-content: start; min-width: 0; color: var(--arena-ink); text-decoration: none; }
+.scard__img { position: relative; display: block; aspect-ratio: 240 / 390; border-radius: 10px; overflow: hidden; background: var(--arena-raised); outline: 1px solid var(--line); outline-offset: -1px; }
+.scard__img::after { content: ""; position: absolute; inset: auto 0 0; height: 3px; background: var(--tier); opacity: .9; }
+.scard img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .35s var(--ease-out); }
+.scard__name { margin-top: 6px; font-size: .9375rem; font-weight: 600; line-height: 1.25; overflow-wrap: anywhere; text-wrap: balance; }
+.scard__meta { color: var(--muted); font-size: .8125rem; line-height: 1.3; }
+.scard:hover img, .scard:focus-visible img { transform: scale(1.04); }
+.scard:hover .scard__img, .scard:focus-visible .scard__img { outline-color: color-mix(in srgb, var(--tier) 70%, #fff 0%); }
+.scard:active .scard__img { transform: scale(.98); }
+.scard.is-current .scard__img { outline: 2px solid var(--arena-accent); outline-offset: -2px; }
+
+.skin-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(156px, 1fr)); gap: 24px 16px; }
+.rail { display: grid; grid-auto-flow: column; grid-auto-columns: 156px; gap: 16px; overflow-x: auto; padding: 0 0 12px; scroll-snap-type: x proximity; scrollbar-width: thin; scrollbar-color: #2b4660 transparent; overscroll-behavior-x: contain; }
+.rail > * { scroll-snap-align: start; }
+.rail--profile { grid-auto-columns: 148px; }
+
+/* ---------- Hero card on the hub ---------- */
+.hero-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 16px; }
+.hcard { position: relative; display: block; aspect-ratio: 240 / 390; border-radius: 12px; overflow: hidden; background: var(--arena-raised); color: var(--arena-ink); text-decoration: none; outline: 1px solid var(--line); outline-offset: -1px; }
+.hcard__img, .hcard__img img { display: block; width: 100%; height: 100%; }
+.hcard__img img { object-fit: cover; transition: transform .4s var(--ease-out); }
+.hcard__bar { position: absolute; inset: auto 0 0; display: grid; gap: 2px; padding: 32px 10px 10px; background: linear-gradient(to top, #07111dee 30%, #07111d00); }
+.hcard__bar b { font-size: 1rem; font-weight: 650; line-height: 1.15; overflow-wrap: anywhere; }
+.hcard__bar small { color: var(--soft); font-size: .8125rem; }
+.hcard:hover img, .hcard:focus-visible img { transform: scale(1.05); }
+.hcard:hover, .hcard:focus-visible { outline-color: var(--arena-accent); }
+
+/* Cards that appear after a search or a filter rise in, a few at a time. */
+@keyframes skin-in { from { opacity: 0; transform: translateY(10px) scale(.98); } to { opacity: 1; transform: none; } }
+.is-entering { animation: skin-in .32s var(--ease-out) both; animation-delay: calc(min(var(--i, 0), 14) * 22ms); }
+
+.skins-more { display: block; margin: 24px auto 0; min-height: 48px; padding: 0 28px; border: 1px solid var(--line); border-radius: 10px; background: transparent; color: var(--arena-ink); font: inherit; font-weight: 600; cursor: pointer; transition: border-color .15s, background-color .15s; }
+.skins-more:hover { border-color: #34506b; background: #12283e; }
+.skins-empty { margin: 32px 0; padding: 32px; border: 1px dashed var(--line); border-radius: 12px; text-align: center; color: var(--soft); }
+.skins-empty p { margin: 0 0 16px; }
+.skins-empty button { min-height: 44px; padding: 0 20px; border: 0; border-radius: 8px; background: var(--arena-accent); color: #04271b; font: inherit; font-weight: 650; cursor: pointer; }
+
+/* ---------- Breadcrumbs ---------- */
+.skin-crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 16px; color: var(--muted); font-size: .9375rem; }
+.skin-crumbs a { color: var(--soft); text-decoration: none; }
+.skin-crumbs a:hover { color: var(--arena-ink); text-decoration: underline; text-underline-offset: 3px; }
+.skin-crumbs [aria-current] { color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 60vw; }
+
+/* ---------- Hero skins page: the newest art with the title over it ---------- */
+.skin-mast { position: relative; display: grid; border-radius: 16px; overflow: hidden; background: var(--panel); isolation: isolate; }
+.skin-mast__art { aspect-ratio: 16 / 7; overflow: hidden; }
+.skin-mast__art img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: 50% 30%; }
+.skin-mast__copy { position: absolute; inset: auto 0 0; display: grid; gap: 10px; padding: 64px 32px 28px; background: linear-gradient(to top, #07111df2 35%, #07111d00); }
+.skin-mast h1 { margin: 0; color: #fff; font-family: var(--display); font-size: clamp(2.25rem, 5vw, 3.5rem); font-weight: 650; letter-spacing: -.03em; line-height: 1; }
+.skin-mast p { margin: 0; color: var(--soft); font-size: 1.0625rem; }
+.skin-mast p a { color: var(--arena-ink); text-underline-offset: 4px; }
+.skin-mast .sheet__tag { background: #0a1727cc; }
+.sheet__tag--link { color: var(--arena-ink); text-decoration: none; padding-left: 12px; }
+.sheet__tag--link:hover { border-color: var(--arena-accent); }
+.skin-mast--card { grid-template-columns: 200px minmax(0, 1fr); align-items: end; }
+.skin-mast--card .skin-mast__art { aspect-ratio: 240 / 390; }
+.skin-mast--card .skin-mast__copy { position: static; background: none; padding: 24px 32px; }
+
+.skin-tierbar { margin: 0 0 20px; }
+.skin-tierbar > div { display: flex; max-width: 100%; overflow-x: auto; scrollbar-width: none; }
+.skin-tierbar button { flex: none; }
+.tier-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--tier); flex: none; }
+
+/* ---------- Skin page ---------- */
+.skin-hero { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(300px, 1fr); gap: 32px; align-items: start; }
+.skin-hero--card { grid-template-columns: 260px minmax(0, 1fr); }
+.skin-art { position: relative; display: block; width: 100%; padding: 0; border: 0; border-radius: 16px; overflow: hidden; background: var(--panel); cursor: zoom-in; aspect-ratio: 16 / 9; }
+.skin-art--card { aspect-ratio: 240 / 390; }
+.skin-art img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .5s var(--ease-out); }
+.skin-art:hover img { transform: scale(1.02); }
+.skin-art__zoom { position: absolute; right: 12px; bottom: 12px; display: grid; place-items: center; width: 40px; height: 40px; border-radius: 10px; background: #07111dcc; color: #fff; opacity: 0; transform: translateY(4px); transition: opacity .2s, transform .2s var(--ease-out); }
+.skin-art:hover .skin-art__zoom, .skin-art:focus-visible .skin-art__zoom { opacity: 1; transform: none; }
+.skin-hero__copy { display: grid; gap: 14px; align-content: start; }
+.skin-hero__who { display: inline-flex; align-items: center; gap: 10px; width: fit-content; color: var(--soft); font-size: 1rem; text-decoration: none; }
+.skin-hero__who img { width: 32px; height: 32px; border-radius: 8px; }
+.skin-hero__who:hover { color: var(--arena-ink); }
+.skin-hero h1 { margin: 0; color: var(--arena-ink); font-family: var(--display); font-size: clamp(2rem, 3.6vw, 2.75rem); font-weight: 650; letter-spacing: -.025em; line-height: 1.05; text-wrap: balance; }
+.skin-hero__en { margin: -6px 0 0; color: var(--muted); font-size: 1.125rem; }
+.tier-tag { border-color: color-mix(in srgb, var(--tier) 55%, var(--line)); color: var(--arena-ink); padding-left: 12px; }
+.tier-tag small { color: var(--muted); font-size: .8125rem; }
+.skin-facts { display: grid; gap: 0; margin: 4px 0 0; border-top: 1px solid var(--line); }
+.skin-facts > div { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.skin-facts dt { color: var(--muted); font-size: .9375rem; }
+.skin-facts dd { margin: 0; color: var(--arena-ink); font-size: 1rem; line-height: 1.55; }
+.skin-features { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.skin-features li { padding: 8px 14px; border: 1px solid var(--line); border-radius: 8px; color: var(--soft); font-size: .9375rem; }
+.skin-painted { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.skin-painted li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; padding: 12px 16px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); color: var(--arena-ink); }
+.skin-painted small { color: var(--muted); }
+.skin-painted span { flex-basis: 100%; color: var(--muted); font-size: .9375rem; }
+
+/* Full-screen view of the art. */
+.skin-zoom { width: 100vw; max-width: none; height: 100dvh; max-height: none; margin: 0; padding: 0; border: 0; background: transparent; }
+.skin-zoom::backdrop { background: #040a12f2; }
+.skin-zoom[open] { display: grid; place-items: center; animation: skin-fade .2s ease-out; }
+.skin-zoom img { max-width: min(100vw, 1600px); max-height: 100dvh; width: auto; height: auto; object-fit: contain; animation: skin-pop .28s var(--ease-out); }
+.skin-zoom__close { position: fixed; top: 16px; right: 16px; display: grid; place-items: center; width: 48px; height: 48px; border: 1px solid #ffffff33; border-radius: 12px; background: #0a1727cc; color: #fff; cursor: pointer; }
+.skin-zoom__close:hover { background: #17304a; }
+@keyframes skin-fade { from { opacity: 0; } }
+@keyframes skin-pop { from { opacity: 0; transform: scale(.97); } }
+
+/* ---------- Narrow screens ---------- */
+@media (max-width: 900px) {
+  .skin-hero, .skin-hero--card { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+  .skin-hero--card .skin-art { max-width: 260px; }
+  .skin-mast__art { aspect-ratio: 16 / 9; }
+}
+@media (max-width: 1024px) {
+  .skins-tools { top: 60px; }
+}
+@media (max-width: 640px) {
+  .skins-tools { grid-template-columns: minmax(0, 1fr); gap: 10px; padding-block: 10px; }
+  .skins-roles button { min-height: 38px; padding: 0 12px; }
+  .skin-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px 10px; }
+  .hero-gallery { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+  .rail { grid-auto-columns: 124px; gap: 10px; margin-inline: calc(-1 * var(--arena-gutter)); padding-inline: var(--arena-gutter); scroll-padding-inline: var(--arena-gutter); }
+  .rail--profile { grid-auto-columns: 120px; }
+  .scard__name { font-size: .875rem; }
+  .scard__meta { font-size: .75rem; }
+  .hcard__bar { padding: 28px 8px 8px; }
+  .hcard__bar b { font-size: .875rem; }
+  .hcard__bar small { font-size: .75rem; }
+  .skins-block { margin-top: 24px; }
+  .skins-block > h2 { font-size: 1.25rem; }
+  .skin-mast { border-radius: 12px; overflow: visible; background: none; }
+  .skin-mast__art { border-radius: 12px; }
+  .skin-mast__copy { position: static; padding: 16px 0 0; background: none; }
+  .skin-mast--card { grid-template-columns: 120px minmax(0, 1fr); align-items: center; gap: 16px; }
+  .skin-mast--card .skin-mast__copy { padding: 0; }
+  .skin-art { border-radius: 12px; }
+  .skin-art__zoom { opacity: 1; transform: none; width: 36px; height: 36px; }
+  .skin-facts > div { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .is-entering, .skin-zoom[open], .skin-zoom img { animation: none; }
+  .scard img, .hcard__img img, .skin-art img { transition: none; }
+}
+
+/* heroes.css moves .sheet__tags to a second grid column under 640 px (for the hero sheet); not here. */
+.skin-mast .sheet__tags, .skin-hero .sheet__tags { grid-column: auto; }
+.skin-tierbar button { flex-direction: row; min-height: 40px; padding: 0 14px; gap: 8px; }
+@media (hover: none) {
+  .rail { scrollbar-width: none; }
+  .rail::-webkit-scrollbar { display: none; }
+}
+
+/* Hero skins page: three numbers under the title and one clear way to the hero profile. */
+.mast-stats { display: flex; flex-wrap: wrap; gap: 12px 40px; margin: 4px 0 0; }
+.mast-stats div { display: grid; gap: 2px; min-width: 0; }
+.mast-stats dt { color: var(--soft); font-size: .9375rem; }
+.mast-stats dd { margin: 0; color: #fff; font-family: var(--display); font-size: 2rem; font-weight: 650; line-height: 1.1; letter-spacing: -.01em; font-variant-numeric: tabular-nums; }
+.mast-stats__latest dd { display: flex; align-items: baseline; gap: 10px; font-size: 1.375rem; }
+.mast-stats__latest a { color: #fff; text-decoration: none; overflow-wrap: anywhere; }
+.mast-stats__latest a:hover { color: var(--arena-accent); }
+.mast-stats__latest small { color: var(--soft); font-family: inherit; font-size: 1rem; font-weight: 500; }
+.mast-btn {
+  display: inline-flex; align-items: center; gap: 12px; width: fit-content; min-height: 52px; margin-top: 6px; padding: 6px 20px 6px 6px;
+  border: 1px solid #ffffff38; border-radius: 12px; background: #0a1727d9; color: #fff; font-size: 1.0625rem; font-weight: 600; text-decoration: none;
+  transition: border-color .15s, background-color .15s;
+}
+.mast-btn img { width: 40px; height: 40px; border-radius: 8px; }
+.mast-btn span { color: var(--arena-accent); transition: transform .2s var(--ease-out); }
+.mast-btn:hover { border-color: var(--arena-accent); background: #0f2236; }
+.mast-btn:hover span { transform: translateX(3px); }
+.skin-mast__copy { gap: 14px; }
+@media (max-width: 640px) {
+  .mast-stats { gap: 12px 28px; }
+  .mast-stats dt { color: var(--muted); font-size: .875rem; }
+  .mast-stats dd { color: var(--arena-ink); font-size: 1.75rem; }
+  .mast-stats__latest { flex-basis: 100%; }
+  .mast-stats__latest dd { font-size: 1.25rem; }
+  .mast-stats__latest a { color: var(--arena-ink); }
+  .mast-btn { width: 100%; box-sizing: border-box; background: var(--panel); border-color: var(--line); }
+  .mast-btn span { margin-left: auto; }
+}

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/balmond.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Balmond hero art](/images/heroes/art/balmond.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -336,6 +336,12 @@ Damage dealt to non-hero units is capped at 1000 True Damage.
 ### Who Balmond counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
+
+## Balmond skins
+
+[![](/images/skins/cards/balmond/razor-edge.webp)Razor EdgeExceptional · 2025](https://boostmlbb.ru/en/skins/balmond/razor-edge.html)[![](/images/skins/cards/balmond/infernal-warlord.webp)Infernal WarlordDeluxe · 2023](https://boostmlbb.ru/en/skins/balmond/infernal-warlord.html)[![](/images/skins/cards/balmond/bioroid.webp)BioroidExceptional · 2022](https://boostmlbb.ru/en/skins/balmond/bioroid.html)[![](/images/skins/cards/balmond/god-of-mountains.webp)God of MountainsExquisite · 2021](https://boostmlbb.ru/en/skins/balmond/god-of-mountains.html)[![](/images/skins/cards/balmond/savage-pointguard.webp)Savage PointguardExceptional · 2018](https://boostmlbb.ru/en/skins/balmond/savage-pointguard.html)[![](/images/skins/cards/balmond/savage-hunter.webp)Savage HunterCommon · 2017](https://boostmlbb.ru/en/skins/balmond/savage-hunter.html)[![](/images/skins/cards/balmond/ghoul-s-fury.webp)Ghoul's FuryCommon · 2016](https://boostmlbb.ru/en/skins/balmond/ghoul-s-fury.html)[![](/images/skins/cards/balmond/power-source.webp)Power SourceCommon · 2016](https://boostmlbb.ru/en/skins/balmond/power-source.html)[![](/images/skins/cards/balmond/ironhide-berserker.webp)Ironhide BerserkerCommon](https://boostmlbb.ru/en/skins/balmond/ironhide-berserker.html)
+
+[All 9 Balmond skins: prices and how to get them](https://boostmlbb.ru/en/skins/balmond.html)
 
 ## Lore
 

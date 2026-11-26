@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/obsidia.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Obsidia hero art](/images/heroes/art/obsidia.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 65.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -339,6 +339,12 @@ While tethered, Obsidia can move through obstacles and use Basic Attacks while m
 ### Who Obsidia counters
 
 [![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
+
+## Obsidia skins
+
+[![](/images/skins/cards/obsidia/imperatrix-arashi.webp)Imperatrix ArashiGrand · 2026](https://boostmlbb.ru/en/skins/obsidia/imperatrix-arashi.html)[![](/images/skins/cards/obsidia/magitech-wraith.webp)Magitech Wraith2026](https://boostmlbb.ru/en/skins/obsidia/magitech-wraith.html)[![](/images/skins/cards/obsidia/undying-remnants.webp)Undying RemnantsCommon · 2025](https://boostmlbb.ru/en/skins/obsidia/undying-remnants.html)
+
+[All 3 Obsidia skins: prices and how to get them](https://boostmlbb.ru/en/skins/obsidia.html)
 
 ## Lore
 

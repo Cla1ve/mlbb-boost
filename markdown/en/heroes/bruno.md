@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/bruno.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Bruno hero art](/images/heroes/art/bruno.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ The Energy Ball then bounces among enemy units (up to 10 times), prioritizing en
 ### Who Bruno counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
+
+## Bruno skins
+
+[![](/images/skins/cards/bruno/the-purifier.webp)The PurifierExquisite · 2026](https://boostmlbb.ru/en/skins/bruno/the-purifier.html)[![](/images/skins/cards/bruno/street-hype.webp)Street HypeExceptional · 2024](https://boostmlbb.ru/en/skins/bruno/street-hype.html)[![](/images/skins/cards/bruno/neymar-jr.webp)Neymar JrExceptional · 2022](https://boostmlbb.ru/en/skins/bruno/neymar-jr.html)[![](/images/skins/cards/bruno/halo-striker.webp)Halo StrikerDeluxe · 2022](https://boostmlbb.ru/en/skins/bruno/halo-striker.html)[![](/images/skins/cards/bruno/firebolt.webp)FireboltGrand · 2020](https://boostmlbb.ru/en/skins/bruno/firebolt.html)[![](/images/skins/cards/bruno/the-falcon.webp)The FalconExceptional · 2020](https://boostmlbb.ru/en/skins/bruno/the-falcon.html)[![](/images/skins/cards/bruno/street-football.webp)Street FootballCommon · 2018](https://boostmlbb.ru/en/skins/bruno/street-football.html)[![](/images/skins/cards/bruno/best-dj.webp)Best DJExceptional · 2016](https://boostmlbb.ru/en/skins/bruno/best-dj.html)[![](/images/skins/cards/bruno/vanguard-elite.webp)Vanguard EliteCommon · 2016](https://boostmlbb.ru/en/skins/bruno/vanguard-elite.html)
+
+[All 9 Bruno skins: prices and how to get them](https://boostmlbb.ru/en/skins/bruno.html)
 
 ## Lore
 

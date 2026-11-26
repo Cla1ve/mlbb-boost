@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/kalea.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Калеа](/images/heroes/art/kalea.webp)
 
@@ -27,7 +27,7 @@ S
 
 14,6%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -337,6 +337,12 @@ S
 ### Кто контрит Калеа
 
 [![](/images/heroes/art/fanny.webp)Фанни](https://boostmlbb.ru/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Ив](https://boostmlbb.ru/heroes/yve.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Халид](https://boostmlbb.ru/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Лолита](https://boostmlbb.ru/heroes/lolita.html)
+
+## Скины Калеа
+
+[![](/images/skins/cards/kalea/tideborn-sailor.webp)Морячка, рождённая приливом2026](https://boostmlbb.ru/skins/kalea/tideborn-sailor.html)[![](/images/skins/cards/kalea/sakura-haruno.webp)Сакура ХаруноГрандиозный · 2025](https://boostmlbb.ru/skins/kalea/sakura-haruno.html)[![](/images/skins/cards/kalea/shimmering-waves.webp)Мерцающие волныОбычный · 2025](https://boostmlbb.ru/skins/kalea/shimmering-waves.html)
+
+[Все 3 скина Калеа: цены и как получить](https://boostmlbb.ru/skins/kalea.html)
 
 ## История
 

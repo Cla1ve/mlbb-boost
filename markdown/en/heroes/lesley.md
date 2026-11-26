@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/lesley.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Lesley hero art](/images/heroes/art/lesley.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 5.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ If this skill is interrupted, each remaining bullet reduces this skill's cooldow
 ### Who Lesley counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
+
+## Lesley skins
+
+[![](/images/skins/cards/lesley/meowkin-hunter.webp)Meowkin HunterDeluxe · 2025](https://boostmlbb.ru/en/skins/lesley/meowkin-hunter.html)[![](/images/skins/cards/lesley/duchess-of-tides.webp)Duchess of TidesDeluxe · 2025](https://boostmlbb.ru/en/skins/lesley/duchess-of-tides.html)[![](/images/skins/cards/lesley/deadeye-spectre.webp)Deadeye SpectreGrand · 2024](https://boostmlbb.ru/en/skins/lesley/deadeye-spectre.html)[![](/images/skins/cards/lesley/hawk-eyed-sniper.webp)Hawk-eyed SniperExquisite · 2021](https://boostmlbb.ru/en/skins/lesley/hawk-eyed-sniper.html)[![](/images/skins/cards/lesley/falcon-mistress.webp)Falcon MistressExquisite · 2021](https://boostmlbb.ru/en/skins/lesley/falcon-mistress.html)[![](/images/skins/cards/lesley/lethal-lady.webp)Lethal LadyExceptional · 2020](https://boostmlbb.ru/en/skins/lesley/lethal-lady.html)[![](/images/skins/cards/lesley/angelic-agent.webp)Angelic AgentSupreme · 2019](https://boostmlbb.ru/en/skins/lesley/angelic-agent.html)[![](/images/skins/cards/lesley/dangerous-love.webp)Dangerous LoveExceptional · 2019](https://boostmlbb.ru/en/skins/lesley/dangerous-love.html)[![](/images/skins/cards/lesley/stellaris-ghost.webp)Stellaris GhostExquisite · 2018](https://boostmlbb.ru/en/skins/lesley/stellaris-ghost.html)[![](/images/skins/cards/lesley/cheergunner.webp)Cheer­gunnerExceptional · 2018](https://boostmlbb.ru/en/skins/lesley/cheergunner.html)[![](/images/skins/cards/lesley/royal-musketeer.webp)Royal MusketeerCommon · 2018](https://boostmlbb.ru/en/skins/lesley/royal-musketeer.html)[![](/images/skins/cards/lesley/general-rosa.webp)General RosaCommon · 2018](https://boostmlbb.ru/en/skins/lesley/general-rosa.html)
+
+[All 12 Lesley skins: prices and how to get them](https://boostmlbb.ru/en/skins/lesley.html)
 
 ## Lore
 

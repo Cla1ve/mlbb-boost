@@ -223,6 +223,22 @@
       "destination": "/en/news/mlbb-builds-2026/index.html"
     },
     {
+      "source": "/skins/",
+      "destination": "/skins/index.html"
+    },
+    {
+      "source": "/skins",
+      "destination": "/skins/index.html"
+    },
+    {
+      "source": "/en/skins/",
+      "destination": "/en/skins/index.html"
+    },
+    {
+      "source": "/en/skins",
+      "destination": "/en/skins/index.html"
+    },
+    {
       "source": "/items/",
       "destination": "/items/index.html"
     },

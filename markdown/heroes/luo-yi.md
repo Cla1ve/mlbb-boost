@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/luo-yi.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Ло Йи](/images/heroes/art/luo-yi.webp)
 
@@ -27,7 +27,7 @@ D
 
 0,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -340,6 +340,12 @@ D
 ### Кого контрит Ло Йи
 
 [![](/images/heroes/art/novaria.webp)Новария](https://boostmlbb.ru/heroes/novaria.html)
+
+## Скины Ло Йи
+
+[![](/images/skins/cards/luo-yi/starborne-matron.webp)Звёздная матронаДелюкс · 2025](https://boostmlbb.ru/skins/luo-yi/starborne-matron.html)[![](/images/skins/cards/luo-yi/oracle-of-sol.webp)Оракул солнцаДелюкс · 2023](https://boostmlbb.ru/skins/luo-yi/oracle-of-sol.html)[![](/images/skins/cards/luo-yi/elysium-guardian.webp)Храни­тельница ЭлизиумаИзысканный · 2022](https://boostmlbb.ru/skins/luo-yi/elysium-guardian.html)[![](/images/skins/cards/luo-yi/siren-priestess.webp)Жрица-сиренаИсключительный · 2021](https://boostmlbb.ru/skins/luo-yi/siren-priestess.html)[![](/images/skins/cards/luo-yi/dawning-fortune.webp)Рассветная удачаИсключительный · 2021](https://boostmlbb.ru/skins/luo-yi/dawning-fortune.html)[![](/images/skins/cards/luo-yi/tenko.webp)ТэнкоОбычный · 2020](https://boostmlbb.ru/skins/luo-yi/tenko.html)[![](/images/skins/cards/luo-yi/yin-yang-mage.webp)Маг инь-янОбычный · 2020](https://boostmlbb.ru/skins/luo-yi/yin-yang-mage.html)
+
+[Все 7 скинов Ло Йи: цены и как получить](https://boostmlbb.ru/skins/luo-yi.html)
 
 ## История
 

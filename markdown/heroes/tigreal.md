@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/tigreal.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Тигрил](/images/heroes/art/tigreal.webp)
 
@@ -27,7 +27,7 @@ B
 
 4,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -337,6 +337,12 @@ B
 ### Кого контрит Тигрил
 
 [![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/aulus.webp)Аулус](https://boostmlbb.ru/heroes/aulus.html)
+
+## Скины Тигрила
+
+[![](/images/skins/cards/tigreal/celestial-general.webp)Небесный генерал2026](https://boostmlbb.ru/skins/tigreal/celestial-general.html)[![](/images/skins/cards/tigreal/steel-guardian.webp)Стальной стражОбычный · 2025](https://boostmlbb.ru/skins/tigreal/steel-guardian.html)[![](/images/skins/cards/tigreal/pasha-of-justice.webp)Паша правосудияИсключительный · 2024](https://boostmlbb.ru/skins/tigreal/pasha-of-justice.html)[![](/images/skins/cards/tigreal/galactic-marshal.webp)Галакти­ческий маршалИсключительный · 2022](https://boostmlbb.ru/skins/tigreal/galactic-marshal.html)[![](/images/skins/cards/tigreal/gold-baron.webp)Золотой баронИсключительный · 2021](https://boostmlbb.ru/skins/tigreal/gold-baron.html)[![](/images/skins/cards/tigreal/lightborn-defender.webp)Рождённый светом: ЗащитникДелюкс · 2019](https://boostmlbb.ru/skins/tigreal/lightborn-defender.html)[![](/images/skins/cards/tigreal/wyrmslayer.webp)Убийца змиевОбычный · 2018](https://boostmlbb.ru/skins/tigreal/wyrmslayer.html)[![](/images/skins/cards/tigreal/fallen-guard.webp)Павший стражОбычный · 2017](https://boostmlbb.ru/skins/tigreal/fallen-guard.html)[![](/images/skins/cards/tigreal/dark-guardian.webp)Тёмный стражОбычный · 2016](https://boostmlbb.ru/skins/tigreal/dark-guardian.html)
+
+[Все 9 скинов Тигрила: цены и как получить](https://boostmlbb.ru/skins/tigreal.html)
 
 ## История
 

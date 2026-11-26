@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/silvanna.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Silvanna hero art](/images/heroes/art/silvanna.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -341,6 +341,12 @@ Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 ### Who Silvanna counters
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
+
+## Silvanna skins
+
+[![](/images/skins/cards/silvanna/meowkin-warden.webp)Meowkin WardenDeluxe · 2025](https://boostmlbb.ru/en/skins/silvanna/meowkin-warden.html)[![](/images/skins/cards/silvanna/classroom-charm.webp)Classroom CharmExceptional · 2024](https://boostmlbb.ru/en/skins/silvanna/classroom-charm.html)[![](/images/skins/cards/silvanna/verdant-lancer.webp)Verdant LancerCommon · 2024](https://boostmlbb.ru/en/skins/silvanna/verdant-lancer.html)[![](/images/skins/cards/silvanna/alluring-mystique.webp)Alluring MystiqueDeluxe · 2024](https://boostmlbb.ru/en/skins/silvanna/alluring-mystique.html)[![](/images/skins/cards/silvanna/queen-frost.webp)Queen FrostExquisite · 2022](https://boostmlbb.ru/en/skins/silvanna/queen-frost.html)[![](/images/skins/cards/silvanna/future-cop.webp)Future CopCommon · 2021](https://boostmlbb.ru/en/skins/silvanna/future-cop.html)[![](/images/skins/cards/silvanna/pure-heroine.webp)Pure HeroineExceptional · 2020](https://boostmlbb.ru/en/skins/silvanna/pure-heroine.html)[![](/images/skins/cards/silvanna/midnight-justice.webp)Midnight JusticeCommon · 2020](https://boostmlbb.ru/en/skins/silvanna/midnight-justice.html)[![](/images/skins/cards/silvanna/hallowed-lance.webp)Hallowed LanceCommon · 2019](https://boostmlbb.ru/en/skins/silvanna/hallowed-lance.html)
+
+[All 9 Silvanna skins: prices and how to get them](https://boostmlbb.ru/en/skins/silvanna.html)
 
 ## Lore
 

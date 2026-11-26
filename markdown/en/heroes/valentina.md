@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/valentina.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Valentina hero art](/images/heroes/art/valentina.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -343,6 +343,12 @@ If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Powe
 ### Who Valentina counters
 
 [![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
+
+## Valentina skins
+
+[![](/images/skins/cards/valentina/grand-gala.webp)Grand GalaCommon · 2025](https://boostmlbb.ru/en/skins/valentina/grand-gala.html)[![](/images/skins/cards/valentina/dark-nexus.webp)Dark NexusDeluxe · 2024](https://boostmlbb.ru/en/skins/valentina/dark-nexus.html)[![](/images/skins/cards/valentina/celestial-judicator.webp)Celestial JudicatorExquisite · 2023](https://boostmlbb.ru/en/skins/valentina/celestial-judicator.html)[![](/images/skins/cards/valentina/cyber-agent.webp)Cyber AgentExceptional · 2023](https://boostmlbb.ru/en/skins/valentina/cyber-agent.html)[![](/images/skins/cards/valentina/archmagister.webp)Archma­gisterCommon · 2022](https://boostmlbb.ru/en/skins/valentina/archmagister.html)[![](/images/skins/cards/valentina/twilight-charmer.webp)Twilight CharmerCommon · 2021](https://boostmlbb.ru/en/skins/valentina/twilight-charmer.html)
+
+[All 6 Valentina skins: prices and how to get them](https://boostmlbb.ru/en/skins/valentina.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/bruno.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Бруно](/images/heroes/art/bruno.webp)
 
@@ -27,7 +27,7 @@ A
 
 0,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -338,6 +338,12 @@ A
 ### Кого контрит Бруно
 
 [![](/images/heroes/art/lesley.webp)Лесли](https://boostmlbb.ru/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)
+
+## Скины Бруно
+
+[![](/images/skins/cards/bruno/the-purifier.webp)ОчистительИзысканный · 2026](https://boostmlbb.ru/skins/bruno/the-purifier.html)[![](/images/skins/cards/bruno/street-hype.webp)Уличный хайпИсключительный · 2024](https://boostmlbb.ru/skins/bruno/street-hype.html)[![](/images/skins/cards/bruno/neymar-jr.webp)Неймар-младшийИсключительный · 2022](https://boostmlbb.ru/skins/bruno/neymar-jr.html)[![](/images/skins/cards/bruno/halo-striker.webp)Нападающий HaloДелюкс · 2022](https://boostmlbb.ru/skins/bruno/halo-striker.html)[![](/images/skins/cards/bruno/firebolt.webp)Огненный разрядГрандиозный · 2020](https://boostmlbb.ru/skins/bruno/firebolt.html)[![](/images/skins/cards/bruno/the-falcon.webp)СоколИсключительный · 2020](https://boostmlbb.ru/skins/bruno/the-falcon.html)[![](/images/skins/cards/bruno/street-football.webp)Уличный футболОбычный · 2018](https://boostmlbb.ru/skins/bruno/street-football.html)[![](/images/skins/cards/bruno/best-dj.webp)Лучший диджейИсключительный · 2016](https://boostmlbb.ru/skins/bruno/best-dj.html)[![](/images/skins/cards/bruno/vanguard-elite.webp)Элита авангардаОбычный · 2016](https://boostmlbb.ru/skins/bruno/vanguard-elite.html)
+
+[Все 9 скинов Бруно: цены и как получить](https://boostmlbb.ru/skins/bruno.html)
 
 ## История
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/fredrinn.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Fredrinn hero art](/images/heroes/art/fredrinn.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 1.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -349,6 +349,12 @@ This skill costs 3 Combo Points.
 ### Who Fredrinn counters
 
 [![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
+
+## Fredrinn skins
+
+[![](/images/skins/cards/fredrinn/royal-marshal.webp)Royal MarshalExceptional · 2025](https://boostmlbb.ru/en/skins/fredrinn/royal-marshal.html)[![](/images/skins/cards/fredrinn/sparkle-fredrinn.webp)SPARKLE FredrinnDeluxe · 2024](https://boostmlbb.ru/en/skins/fredrinn/sparkle-fredrinn.html)[![](/images/skins/cards/fredrinn/neobeast-fredrinn.webp)Neobeast FredrinnGrand · 2023](https://boostmlbb.ru/en/skins/fredrinn/neobeast-fredrinn.html)[![](/images/skins/cards/fredrinn/jewel-connoisseur.webp)Jewel Connois­seurCommon · 2023](https://boostmlbb.ru/en/skins/fredrinn/jewel-connoisseur.html)[![](/images/skins/cards/fredrinn/regal-renegade.webp)Regal RenegadeCommon · 2022](https://boostmlbb.ru/en/skins/fredrinn/regal-renegade.html)
+
+[All 5 Fredrinn skins: prices and how to get them](https://boostmlbb.ru/en/skins/fredrinn.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/khufra.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Хуфра](/images/heroes/art/khufra.webp)
 
@@ -27,7 +27,7 @@ B
 
 4,0%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -333,6 +333,12 @@ B
 ### Кого контрит Хуфра
 
 [![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Ли Сун-Син](https://boostmlbb.ru/heroes/yi-sun-shin.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Чжусинь](https://boostmlbb.ru/heroes/zhuxin.html)
+
+## Скины Хуфры
+
+[![](/images/skins/cards/khufra/cursed-scroll.webp)Проклятый свитокДелюкс · 2025](https://boostmlbb.ru/skins/khufra/cursed-scroll.html)[![](/images/skins/cards/khufra/iron-hook.webp)Железный крюкОбычный · 2023](https://boostmlbb.ru/skins/khufra/iron-hook.html)[![](/images/skins/cards/khufra/gentleman-thief.webp)Джентльмен-ворИсключительный · 2023](https://boostmlbb.ru/skins/khufra/gentleman-thief.html)[![](/images/skins/cards/khufra/apophis.webp)АпофисОбычный · 2023](https://boostmlbb.ru/skins/khufra/apophis.html)[![](/images/skins/cards/khufra/dreadful-clown.webp)Жуткий клоунИсключительный · 2021](https://boostmlbb.ru/skins/khufra/dreadful-clown.html)[![](/images/skins/cards/khufra/volcanic-overlord.webp)Вулкани­ческий повелительИзысканный · 2020](https://boostmlbb.ru/skins/khufra/volcanic-overlord.html)[![](/images/skins/cards/khufra/desert-owl.webp)Пустынная соваОбычный · 2019](https://boostmlbb.ru/skins/khufra/desert-owl.html)
+
+[Все 7 скинов Хуфры: цены и как получить](https://boostmlbb.ru/skins/khufra.html)
 
 ## История
 

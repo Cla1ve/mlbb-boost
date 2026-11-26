@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/karina.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Карина](/images/heroes/art/karina.webp)
 
@@ -27,7 +27,7 @@ B
 
 4,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -344,6 +344,12 @@ B
 ### Кого контрит Карина
 
 [![](/images/heroes/art/granger.webp)Грейнджер](https://boostmlbb.ru/heroes/granger.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/brody.webp)Броуди](https://boostmlbb.ru/heroes/brody.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/lunox.webp)Люнокс](https://boostmlbb.ru/heroes/lunox.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)
+
+## Скины Карины
+
+[![](/images/skins/cards/karina/keyforged-champion.webp)Чемпионка ключаОбычный · 2025](https://boostmlbb.ru/skins/karina/keyforged-champion.html)[![](/images/skins/cards/karina/blood-moon.webp)Кровавая лунаОбычный · 2020](https://boostmlbb.ru/skins/karina/blood-moon.html)[![](/images/skins/cards/karina/gemini-halo.webp)Близнецы: СияниеДелюкс · 2019](https://boostmlbb.ru/skins/karina/gemini-halo.html)[![](/images/skins/cards/karina/leona.webp)ЛеонаГрандиозный · 2019](https://boostmlbb.ru/skins/karina/leona.html)[![](/images/skins/cards/karina/doom-duelist.webp)Роковая дуэлянткаИзысканный · 2018](https://boostmlbb.ru/skins/karina/doom-duelist.html)[![](/images/skins/cards/karina/spider-lily.webp)Паучья лилияОбычный · 2018](https://boostmlbb.ru/skins/karina/spider-lily.html)[![](/images/skins/cards/karina/black-pearl.webp)Чёрная жемчужинаИсключительный · 2017](https://boostmlbb.ru/skins/karina/black-pearl.html)[![](/images/skins/cards/karina/christmas-carnival.webp)Рож­дественский карнавалИсключительный · 2016](https://boostmlbb.ru/skins/karina/christmas-carnival.html)[![](/images/skins/cards/karina/phantom-blade.webp)Призрачный клинокОбычный · 2016](https://boostmlbb.ru/skins/karina/phantom-blade.html)
+
+[Все 9 скинов Карины: цены и как получить](https://boostmlbb.ru/skins/karina.html)
 
 ## История
 

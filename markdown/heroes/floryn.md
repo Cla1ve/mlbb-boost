@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/floryn.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Флорин](/images/heroes/art/floryn.webp)
 
@@ -27,7 +27,7 @@ B
 
 13,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -331,6 +331,12 @@ B
 ### Кого контрит Флорин
 
 [![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Сильвана](https://boostmlbb.ru/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Франко](https://boostmlbb.ru/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Инь](https://boostmlbb.ru/heroes/yin.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)
+
+## Скины Флорин
+
+[![](/images/skins/cards/floryn/herald-of-autumn.webp)Вестница осениГрандиозный · 2026](https://boostmlbb.ru/skins/floryn/herald-of-autumn.html)[![](/images/skins/cards/floryn/melody-of-light.webp)Мелодия светаИзысканный · 2025](https://boostmlbb.ru/skins/floryn/melody-of-light.html)[![](/images/skins/cards/floryn/yatai-waitress.webp)Официантка ятайИсключительный · 2024](https://boostmlbb.ru/skins/floryn/yatai-waitress.html)[![](/images/skins/cards/floryn/paw-power.webp)Сила лапокОбычный · 2023](https://boostmlbb.ru/skins/floryn/paw-power.html)[![](/images/skins/cards/floryn/fluffy-dream.webp)Пушистая мечтаГрандиозный · 2022](https://boostmlbb.ru/skins/floryn/fluffy-dream.html)[![](/images/skins/cards/floryn/springtide.webp)Весенний приливОбычный · 2021](https://boostmlbb.ru/skins/floryn/springtide.html)
+
+[Все 6 скинов Флорин: цены и как получить](https://boostmlbb.ru/skins/floryn.html)
 
 ## История
 

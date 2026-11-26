@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/eudora.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Eudora hero art](/images/heroes/art/eudora.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 33.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ When Thunder's Wrath hits a target affected by Superconductor, it triggers a Thu
 ### Who Eudora counters
 
 [![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
+
+## Eudora skins
+
+[![](/images/skins/cards/eudora/midnight-s-allure.webp)Midnight's AllureDeluxe · 2026](https://boostmlbb.ru/en/skins/eudora/midnight-s-allure.html)[![](/images/skins/cards/eudora/atomic-pop-eudora.webp)Atomic Pop EudoraDeluxe · 2023](https://boostmlbb.ru/en/skins/eudora/atomic-pop-eudora.html)[![](/images/skins/cards/eudora/cosmic-voyage.webp)Cosmic VoyageExceptional · 2022](https://boostmlbb.ru/en/skins/eudora/cosmic-voyage.html)[![](/images/skins/cards/eudora/countess-scarlet.webp)Countess ScarletCommon · 2020](https://boostmlbb.ru/en/skins/eudora/countess-scarlet.html)[![](/images/skins/cards/eudora/vivo-selfie-goddess.webp)Vivo Selfie GoddessExceptional · 2017](https://boostmlbb.ru/en/skins/eudora/vivo-selfie-goddess.html)[![](/images/skins/cards/eudora/emerald-enchantress.webp)Emerald EnchantressExquisite · 2017](https://boostmlbb.ru/en/skins/eudora/emerald-enchantress.html)[![](/images/skins/cards/eudora/christmas-carnival.webp)Christmas CarnivalExceptional · 2016](https://boostmlbb.ru/en/skins/eudora/christmas-carnival.html)[![](/images/skins/cards/eudora/flame-red-lips.webp)Flame Red LipsCommon · 2016](https://boostmlbb.ru/en/skins/eudora/flame-red-lips.html)
+
+[All 8 Eudora skins: prices and how to get them](https://boostmlbb.ru/en/skins/eudora.html)
 
 ## Lore
 

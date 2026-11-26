@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/carmilla.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Carmilla hero art](/images/heroes/art/carmilla.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 37.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -334,6 +334,12 @@ When a linked enemy takes damage or becomes controlled, all the other linked tar
 ### Who Carmilla counters
 
 [![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
+
+## Carmilla skins
+
+[![](/images/skins/cards/carmilla/astral-arcana.webp)Astral ArcanaDeluxe · 2024](https://boostmlbb.ru/en/skins/carmilla/astral-arcana.html)[![](/images/skins/cards/carmilla/phantom-countess.webp)Phantom CountessExceptional · 2021](https://boostmlbb.ru/en/skins/carmilla/phantom-countess.html)[![](/images/skins/cards/carmilla/magician-girl.webp)Magician GirlCommon · 2020](https://boostmlbb.ru/en/skins/carmilla/magician-girl.html)[![](/images/skins/cards/carmilla/wisteria-countess.webp)Wisteria CountessCommon · 2020](https://boostmlbb.ru/en/skins/carmilla/wisteria-countess.html)
+
+[All 4 Carmilla skins: prices and how to get them](https://boostmlbb.ru/en/skins/carmilla.html)
 
 ## Lore
 

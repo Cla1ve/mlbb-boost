@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/paquito.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Пакито](/images/heroes/art/paquito.webp)
 
@@ -27,7 +27,7 @@ A
 
 10,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -342,6 +342,12 @@ A
 ### Кто контрит Пакито
 
 [![](/images/heroes/art/natalia.webp)Наталья](https://boostmlbb.ru/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Хелкарт](https://boostmlbb.ru/heroes/helcurt.html)
+
+## Скины Пакито
+
+[![](/images/skins/cards/paquito/fist-of-glory.webp)Кулак славыДелюкс · 2024](https://boostmlbb.ru/skins/paquito/fist-of-glory.html)[![](/images/skins/cards/paquito/terry-bogard.webp)Терри БогардГрандиозный · 2024](https://boostmlbb.ru/skins/paquito/terry-bogard.html)[![](/images/skins/cards/paquito/blazing-tiger.webp)Пылающий тигрИзысканный · 2023](https://boostmlbb.ru/skins/paquito/blazing-tiger.html)[![](/images/skins/cards/paquito/fist-of-light.webp)Кулак светаИсключительный · 2022](https://boostmlbb.ru/skins/paquito/fist-of-light.html)[![](/images/skins/cards/paquito/fulgent-punch.webp)Сверкающий ударИсключительный · 2022](https://boostmlbb.ru/skins/paquito/fulgent-punch.html)[![](/images/skins/cards/paquito/underground-boxer.webp)Подпольный боксёрИсключительный · 2021](https://boostmlbb.ru/skins/paquito/underground-boxer.html)[![](/images/skins/cards/paquito/manny-pacquiao.webp)Мэнни ПакьяоДелюкс · 2021](https://boostmlbb.ru/skins/paquito/manny-pacquiao.html)[![](/images/skins/cards/paquito/death-blow.webp)Смер­тельный ударОбычный · 2021](https://boostmlbb.ru/skins/paquito/death-blow.html)
+
+[Все 8 скинов Пакито: цены и как получить](https://boostmlbb.ru/skins/paquito.html)
 
 ## История
 

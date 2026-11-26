@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/luo-yi.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Luo Yi hero art](/images/heroes/art/luo-yi.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ Ultimate
 ### Who Luo Yi counters
 
 [![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)
+
+## Luo Yi skins
+
+[![](/images/skins/cards/luo-yi/starborne-matron.webp)Starborne MatronDeluxe · 2025](https://boostmlbb.ru/en/skins/luo-yi/starborne-matron.html)[![](/images/skins/cards/luo-yi/oracle-of-sol.webp)Oracle of SolDeluxe · 2023](https://boostmlbb.ru/en/skins/luo-yi/oracle-of-sol.html)[![](/images/skins/cards/luo-yi/elysium-guardian.webp)Elysium GuardianExquisite · 2022](https://boostmlbb.ru/en/skins/luo-yi/elysium-guardian.html)[![](/images/skins/cards/luo-yi/siren-priestess.webp)Siren PriestessExceptional · 2021](https://boostmlbb.ru/en/skins/luo-yi/siren-priestess.html)[![](/images/skins/cards/luo-yi/dawning-fortune.webp)Dawning FortuneExceptional · 2021](https://boostmlbb.ru/en/skins/luo-yi/dawning-fortune.html)[![](/images/skins/cards/luo-yi/tenko.webp)TenkoCommon · 2020](https://boostmlbb.ru/en/skins/luo-yi/tenko.html)[![](/images/skins/cards/luo-yi/yin-yang-mage.webp)Yin-yang MageCommon · 2020](https://boostmlbb.ru/en/skins/luo-yi/yin-yang-mage.html)
+
+[All 7 Luo Yi skins: prices and how to get them](https://boostmlbb.ru/en/skins/luo-yi.html)
 
 ## Lore
 

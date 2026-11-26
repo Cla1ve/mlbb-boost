@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Diggie hero art](/images/heroes/art/diggie.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 5.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -333,6 +333,12 @@ Diggie removes all debuffs on nearby allied heroes (including himself) and grant
 ### Who Diggie counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
+
+## Diggie skins
+
+[![](/images/skins/cards/diggie/underwood-steward.webp)Underwood StewardCommon · 2024](https://boostmlbb.ru/en/skins/diggie/underwood-steward.html)[![](/images/skins/cards/diggie/fairytaler.webp)FairytalerDeluxe · 2022](https://boostmlbb.ru/en/skins/diggie/fairytaler.html)[![](/images/skins/cards/diggie/circus-clown.webp)Circus ClownCommon · 2021](https://boostmlbb.ru/en/skins/diggie/circus-clown.html)[![](/images/skins/cards/diggie/constellation.webp)Constel­lationExceptional · 2019](https://boostmlbb.ru/en/skins/diggie/constellation.html)[![](/images/skins/cards/diggie/pigeoneer.webp)PigeoneerCommon · 2017](https://boostmlbb.ru/en/skins/diggie/pigeoneer.html)
+
+[All 5 Diggie skins: prices and how to get them](https://boostmlbb.ru/en/skins/diggie.html)
 
 ## Lore
 

@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/saber.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Saber hero art](/images/heroes/art/saber.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 13.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -334,6 +334,12 @@ Saber charges at the target enemy hero, knocking them airborne for 1.2s (unaffec
 ### Who Saber counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
+
+## Saber skins
+
+[![](/images/skins/cards/saber/iron-hound.webp)Iron HoundExceptional · 2023](https://boostmlbb.ru/en/skins/saber/iron-hound.html)[![](/images/skins/cards/saber/silver-edge.webp)Silver EdgeCommon · 2021](https://boostmlbb.ru/en/skins/saber/silver-edge.html)[![](/images/skins/cards/saber/onimaru.webp)OnimaruExquisite · 2019](https://boostmlbb.ru/en/skins/saber/onimaru.html)[![](/images/skins/cards/saber/s-a-b-e-r-regulator.webp)S.A.B.E.R. RegulatorDeluxe · 2018](https://boostmlbb.ru/en/skins/saber/s-a-b-e-r-regulator.html)[![](/images/skins/cards/saber/fullmetal-ronin.webp)Fullmetal RoninCommon · 2018](https://boostmlbb.ru/en/skins/saber/fullmetal-ronin.html)[![](/images/skins/cards/saber/codename-storm.webp)Codename - StormSupreme · 2017](https://boostmlbb.ru/en/skins/saber/codename-storm.html)[![](/images/skins/cards/saber/force-warrior.webp)Force WarriorExceptional · 2016](https://boostmlbb.ru/en/skins/saber/force-warrior.html)[![](/images/skins/cards/saber/golden-flash.webp)Golden FlashCommon · 2016](https://boostmlbb.ru/en/skins/saber/golden-flash.html)
+
+[All 8 Saber skins: prices and how to get them](https://boostmlbb.ru/en/skins/saber.html)
 
 ## Lore
 

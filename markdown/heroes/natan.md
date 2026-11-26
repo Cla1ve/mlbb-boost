@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/heroes/natan.html
 language: ru
 ---
 
-[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Новости и гайды](https://boostmlbb.ru/news/)
+[Тир-лист](https://boostmlbb.ru/heroes/)[Предметы](https://boostmlbb.ru/items/)[Скины](https://boostmlbb.ru/skins/)[Новости и гайды](https://boostmlbb.ru/news/)
 
 ![Арт героя Натан](/images/heroes/art/natan.webp)
 
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[Скины](https://boostmlbb.ru/#skins)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -339,6 +339,12 @@ C
 ### Кого контрит Натан
 
 [![](/images/heroes/art/arlott.webp)Арлотт](https://boostmlbb.ru/heroes/arlott.html)
+
+## Скины Натана
+
+[![](/images/skins/cards/natan/sanguine-steward.webp)Кровавый распоря­дительДелюкс · 2026](https://boostmlbb.ru/skins/natan/sanguine-steward.html)[![](/images/skins/cards/natan/archon-of-knowledge.webp)Архонт знанияДелюкс · 2025](https://boostmlbb.ru/skins/natan/archon-of-knowledge.html)[![](/images/skins/cards/natan/temporal-vortex.webp)Временной вихрьИсключительный · 2024](https://boostmlbb.ru/skins/natan/temporal-vortex.html)[![](/images/skins/cards/natan/tidal-lord.webp)Владыка приливовИзысканный · 2023](https://boostmlbb.ru/skins/natan/tidal-lord.html)[![](/images/skins/cards/natan/captain-chrono.webp)Капитан ХроноИсключительный · 2022](https://boostmlbb.ru/skins/natan/captain-chrono.html)[![](/images/skins/cards/natan/chaos-hunter.webp)Охотник хаосаОбычный · 2022](https://boostmlbb.ru/skins/natan/chaos-hunter.html)[![](/images/skins/cards/natan/time-wielder.webp)Повелитель времениОбычный · 2021](https://boostmlbb.ru/skins/natan/time-wielder.html)
+
+[Все 7 скинов Натана: цены и как получить](https://boostmlbb.ru/skins/natan.html)
 
 ## История
 

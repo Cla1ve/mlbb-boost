@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/hylos.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Hylos hero art](/images/heroes/art/hylos.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -338,6 +338,12 @@ When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allie
 ### Who Hylos counters
 
 [![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
+
+## Hylos skins
+
+[![](/images/skins/cards/hylos/lord-of-the-tundra.webp)Lord of the TundraDeluxe · 2025](https://boostmlbb.ru/en/skins/hylos/lord-of-the-tundra.html)[![](/images/skins/cards/hylos/bloodhoof-marauder.webp)Bloodhoof MarauderCommon · 2024](https://boostmlbb.ru/en/skins/hylos/bloodhoof-marauder.html)[![](/images/skins/cards/hylos/iron-steed.webp)Iron SteedDeluxe · 2021](https://boostmlbb.ru/en/skins/hylos/iron-steed.html)[![](/images/skins/cards/hylos/jungle-watcher.webp)Jungle WatcherCommon · 2019](https://boostmlbb.ru/en/skins/hylos/jungle-watcher.html)[![](/images/skins/cards/hylos/phantom-seer.webp)Phantom SeerExceptional · 2018](https://boostmlbb.ru/en/skins/hylos/phantom-seer.html)[![](/images/skins/cards/hylos/abyssal-shaman.webp)Abyssal ShamanCommon · 2018](https://boostmlbb.ru/en/skins/hylos/abyssal-shaman.html)
+
+[All 6 Hylos skins: prices and how to get them](https://boostmlbb.ru/en/skins/hylos.html)
 
 ## Lore
 

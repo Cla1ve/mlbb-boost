@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/leomord.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Leomord hero art](/images/heroes/art/leomord.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -342,6 +342,12 @@ If Barbiel comes in contact with Leomord, they will enter the Mounted State, gai
 ### Who Leomord counters
 
 [![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
+
+## Leomord skins
+
+[![](/images/skins/cards/leomord/auspicious-blaze.webp)Auspicious BlazeDeluxe · 2026](https://boostmlbb.ru/en/skins/leomord/auspicious-blaze.html)[![](/images/skins/cards/leomord/nightmare-count.webp)Nightmare CountDeluxe · 2025](https://boostmlbb.ru/en/skins/leomord/nightmare-count.html)[![](/images/skins/cards/leomord/triumph-eagle.webp)Triumph - EagleExceptional · 2024](https://boostmlbb.ru/en/skins/leomord/triumph-eagle.html)[![](/images/skins/cards/leomord/diavel-v4-rider.webp)Diavel V4 RiderGrand · 2023](https://boostmlbb.ru/en/skins/leomord/diavel-v4-rider.html)[![](/images/skins/cards/leomord/shadow-knight.webp)Shadow KnightGrand · 2023](https://boostmlbb.ru/en/skins/leomord/shadow-knight.html)[![](/images/skins/cards/leomord/hell-knight.webp)Hell KnightCommon · 2022](https://boostmlbb.ru/en/skins/leomord/hell-knight.html)[![](/images/skins/cards/leomord/jack-o-lantern.webp)Jack-o'-lanternExceptional · 2020](https://boostmlbb.ru/en/skins/leomord/jack-o-lantern.html)[![](/images/skins/cards/leomord/inferno-soul.webp)Inferno SoulExquisite · 2019](https://boostmlbb.ru/en/skins/leomord/inferno-soul.html)[![](/images/skins/cards/leomord/frostborn-paladin.webp)Frostborn PaladinExceptional · 2019](https://boostmlbb.ru/en/skins/leomord/frostborn-paladin.html)
+
+[All 9 Leomord skins: prices and how to get them](https://boostmlbb.ru/en/skins/leomord.html)
 
 ## Lore
 

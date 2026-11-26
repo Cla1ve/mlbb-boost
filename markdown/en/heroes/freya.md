@@ -5,7 +5,7 @@ canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
 
-[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[News & guides](https://boostmlbb.ru/en/news/)
+[Tier list](https://boostmlbb.ru/en/heroes/)[Items](https://boostmlbb.ru/en/items/)[Skins](https://boostmlbb.ru/en/skins/)[News & guides](https://boostmlbb.ru/en/news/)
 
 ![Freya hero art](/images/heroes/art/freya.webp)
 
@@ -27,7 +27,7 @@ Ban rate
 
 11.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Skins](https://boostmlbb.ru/#skins)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -340,6 +340,12 @@ Upon landing, Freya enters the Valkyrie state for 10s and gains 30 Movement Spee
 ### Who Freya counters
 
 [![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
+
+## Freya skins
+
+[![](/images/skins/cards/freya/galactic-vanquisher.webp)Galactic VanquisherSupreme · 2024](https://boostmlbb.ru/en/skins/freya/galactic-vanquisher.html)[![](/images/skins/cards/freya/s-a-b-e-r-manhunter.webp)S.A.B.E.R. ManhunterDeluxe · 2022](https://boostmlbb.ru/en/skins/freya/s-a-b-e-r-manhunter.html)[![](/images/skins/cards/freya/raven-shogun.webp)Raven ShogunDeluxe · 2020](https://boostmlbb.ru/en/skins/freya/raven-shogun.html)[![](/images/skins/cards/freya/christmas-carnival.webp)Christmas CarnivalExceptional · 2018](https://boostmlbb.ru/en/skins/freya/christmas-carnival.html)[![](/images/skins/cards/freya/gladiator.webp)GladiatorCommon · 2018](https://boostmlbb.ru/en/skins/freya/gladiator.html)[![](/images/skins/cards/freya/dragon-hunter.webp)Dragon HunterExceptional · 2017](https://boostmlbb.ru/en/skins/freya/dragon-hunter.html)[![](/images/skins/cards/freya/war-angel.webp)War AngelExquisite · 2017](https://boostmlbb.ru/en/skins/freya/war-angel.html)[![](/images/skins/cards/freya/beach-sweetheart.webp)Beach SweetheartExceptional · 2017](https://boostmlbb.ru/en/skins/freya/beach-sweetheart.html)[![](/images/skins/cards/freya/dark-rose.webp)Dark RoseCommon · 2017](https://boostmlbb.ru/en/skins/freya/dark-rose.html)
+
+[All 9 Freya skins: prices and how to get them](https://boostmlbb.ru/en/skins/freya.html)
 
 ## Lore
 
