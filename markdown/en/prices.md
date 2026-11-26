@@ -9,8 +9,6 @@ language: en
 
 [Calculator](https://boostmlbb.ru/en/order.html)
 
-Loading prices...
-
 Standard
 
 Role

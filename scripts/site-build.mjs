@@ -506,7 +506,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       document.querySelector('link[rel="stylesheet"]')?.before(font);
     }
     document.querySelector('link[href*="/styles/ui.css"]')?.remove();
-    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=32'; document.head.append(interfaceStyle);
+    const interfaceStyle = document.createElement('link'); interfaceStyle.rel = 'stylesheet'; interfaceStyle.href = '/styles/ui.css?v=33'; document.head.append(interfaceStyle);
     document.querySelector('script[src*="/js/ui.js"]')?.remove();
     if (['prices.html', 'reviews.html'].includes(file)) {
       const interfaceScript = document.createElement('script'); interfaceScript.src = '/js/ui.js?v=30'; interfaceScript.setAttribute('defer', ''); document.head.append(interfaceScript);
@@ -517,7 +517,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '31' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '31' : asset.pathname === '/js/prices.js' ? '31' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }

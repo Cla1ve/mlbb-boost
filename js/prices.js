@@ -347,9 +347,8 @@ async function loadPrices() {
     return;
   }
 
-  renderPrices(LAST_KNOWN_PRICES);
+  // The build already printed the last known prices into the page: no spinner and no re-render, the API only refreshes them.
   setDataStatus('fallback');
-  showLoading();
 
   try {
     const prices = await fetchPricesFromAPI();
@@ -527,8 +526,12 @@ function renderPrices(pricesData) {
           ? (english ? 'win' : 'победа') : '⭐';
         const amount = window.MLBBCurrency?.format?.(priceItem.price)
           || `${priceItem.price} ₽`;
-        priceElement.textContent = `${amount}/${unit}`;
-        priceElement.classList.add('updated');
+        const text = `${amount}/${unit}`;
+        // Only a price that really changed is rewritten and highlighted.
+        if (priceElement.textContent !== text) {
+          priceElement.textContent = text;
+          priceElement.classList.add('updated');
+        }
       }
     });
   });

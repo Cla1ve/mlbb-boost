@@ -1534,7 +1534,7 @@ function renderCommonHead(locale = 'ru') {
   <link rel="stylesheet" href="/styles/main.css?v=4">
   <link rel="stylesheet" href="/styles/legal.css?v=2">
   <link rel="stylesheet" href="/styles/icons.css?v=30">
-  <link rel="stylesheet" href="/styles/ui.css?v=32">
+  <link rel="stylesheet" href="/styles/ui.css?v=33">
   <link rel="stylesheet" href="/styles/arena.css?v=7">
   <link rel="stylesheet" href="/styles/journal.css?v=7">`;
 }

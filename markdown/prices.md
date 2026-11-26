@@ -9,8 +9,6 @@ language: ru
 
 [Калькулятор](https://boostmlbb.ru/order.html)
 
-Загрузка цен...
-
 Стандарт
 
 На роли

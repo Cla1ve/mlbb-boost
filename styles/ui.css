@@ -156,7 +156,7 @@ main [id] { scroll-margin-top:104px; }
 }
 @media(max-width:600px) {
   .container { padding-inline:20px; }
-  .hero { padding-bottom:86px; }
+  section.hero { padding-bottom:86px; }
   .hero-content { gap:20px; }
   .hero-description { font-size:1rem; line-height:1.7; }
   .hero-badge { gap:8px; padding:8px 12px; }

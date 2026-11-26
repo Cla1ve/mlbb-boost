@@ -477,8 +477,6 @@ Source: https://boostmlbb.ru/en/prices.html
 
 [Calculator](https://boostmlbb.ru/en/order.html)
 
-Loading prices...
-
 Standard
 
 Role
