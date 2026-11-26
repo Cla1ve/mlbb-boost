@@ -1,6 +1,6 @@
 ---
-title: "Alpha MLBB: build, counters and skills | MLBB Boost"
-description: "Alpha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.14% win rate, tier C."
+title: "Alpha MLBB: build, combos and counters | MLBB Boost"
+description: "Alpha in Mobile Legends: ranked build, skill combos, how to play and who counters Alpha. Fighter, 48.14% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/alpha.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Fighter
     Impure Rage
 
 
-## Skills
+## How to play Alpha
 
-Level-up**Spear of Alpha**_›_**Force Swing**_›_**Rotary Impact**
+### Alpha combos
+
+#### Teamfight
+
+1.  ![Spear of Alpha](/images/mlbb/skills/alpha-3.webp)Ult
+2.  ![Force Swing](/images/mlbb/skills/alpha-2.webp)2
+3.  ![Rotary Impact](/images/mlbb/skills/alpha-1.webp)1
+4.  Attack
+
+In teamfights, use Alpha's Ultimate to charge toward enemy's key target, and use his 2nd Skill, follow up with his 1st Skill to slow them and continuously dish out damage to the locked-on targets with Basic Attacks.
+
+#### Laning
+
+1.  ![Rotary Impact](/images/mlbb/skills/alpha-1.webp)1
+2.  ![Force Swing](/images/mlbb/skills/alpha-2.webp)2
+3.  Attack
+
+In the laning phase, slow the enemy with Alpha's 1st Skill, then hit them with his 2nd Skill to have Beta to lock on to them. Finish with Basic Attacks while Beta fires at the locked-on target.
+
+### When strongest
+
+Stronger late: 49.8% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **43.8**10–12
+2.  **46.2**12–14
+3.  **48.1**14–16
+4.  **48.8**16–18
+5.  **49.3**18–20
+6.  **49.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/alpha-3.webp)Spear of Alpha
+2.  ![](/images/mlbb/skills/alpha-2.webp)Force Swing
+3.  ![](/images/mlbb/skills/alpha-1.webp)Rotary Impact
+
+## Skills
 
 ![](/images/mlbb/skills/alpha-0.webp)Passive**Beta, Advance!**![](/images/mlbb/skills/alpha-1.webp)Skill 1**Rotary Impact**![](/images/mlbb/skills/alpha-2.webp)Skill 2**Force Swing**![](/images/mlbb/skills/alpha-3.webp)Ultimate**Spear of Alpha**
 
@@ -291,17 +329,13 @@ Beta dives to the target location, dealing 100 (+20% Extra Physical Attack) Phys
 
 Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack) True Damage each time.
 
-## Counters
+## Alpha counters
 
-### Counters
-
-Beat this hero
+### Who counters Alpha
 
 [![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
-### Easy targets
-
-This hero beats them
+### Who Alpha counters
 
 [![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
@@ -320,6 +354,10 @@ This hero beats them
 Who counters Alpha in MLBB?
 
 Over the last 30 days the toughest opponents are Phoveus, Odette, Saber, Barats and Fredrinn.
+
+How do you play Alpha?
+
+Level "Force Swing" first and take the ultimate whenever it is available. Stronger late: 49.8% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Alpha's Ultimate to charge toward enemy's key target, and use his 2nd Skill, follow up with his 1st Skill to slow them and continuously dish out damage to the locked-on targets with Basic Attacks.
 
 What is Alpha’s win rate right now?
 

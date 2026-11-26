@@ -1,6 +1,6 @@
 ---
-title: "Thamuz MLBB: build, counters and skills | MLBB Boost"
-description: "Thamuz in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.34% win rate, tier C."
+title: "Thamuz MLBB: build, combos and counters | MLBB Boost"
+description: "Thamuz in Mobile Legends: ranked build, skill combos, how to play and who counters Thamuz. Fighter, 48.34% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/thamuz.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -186,9 +186,51 @@ Fighter
     Temporal Reign
 
 
-## Skills
+## How to play Thamuz
 
-Level-up**Cauterant Inferno**_›_**Molten Scythes**_›_**Chasm Trample**
+### Thamuz combos
+
+#### Teamfight
+
+1.  ![Molten Scythes](/images/mlbb/skills/thamuz-1.webp)1
+2.  ![Chasm Trample](/images/mlbb/skills/thamuz-2.webp)2
+3.  ![Cauterant Inferno](/images/mlbb/skills/thamuz-3.webp)Ult
+4.  Attack
+5.  ![Molten Scythes](/images/mlbb/skills/thamuz-1.webp)1
+6.  Attack
+
+In teamfights, use Thamuz's 1st Skill to speed up and adjust positioning, then jump into the crowd using his 2nd Skill. Activate his Ultimate followed by a Basic Attack and his 1st Skill, and retrieve the Scythes before continuing with Basic Attacks.
+
+#### Laning
+
+1.  ![Molten Scythes](/images/mlbb/skills/thamuz-1.webp)1
+2.  ![Chasm Trample](/images/mlbb/skills/thamuz-2.webp)2
+3.  Attack
+4.  ![Molten Scythes](/images/mlbb/skills/thamuz-1.webp)1
+5.  Attack
+
+In the laning phase, use Thamuz's 1st Skill, then leap to enemy using his 2nd Skill, causing his Scythes to return and resetting the CD of his 1st Skill. Follow up with a Basic Attack and then his 1st Skill, and tap the skill again to retrieve the Scythes and end with Basic Attacks.
+
+### When strongest
+
+Stronger late: 50.1% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **47.6**10–12
+2.  **48.3**12–14
+3.  **49.0**14–16
+4.  **49.7**16–18
+5.  **49.9**18–20
+6.  **50.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/thamuz-3.webp)Cauterant Inferno
+2.  ![](/images/mlbb/skills/thamuz-1.webp)Molten Scythes
+3.  ![](/images/mlbb/skills/thamuz-2.webp)Chasm Trample
+
+## Skills
 
 ![](/images/mlbb/skills/thamuz-0.webp)Passive**Grand Lord Lava**![](/images/mlbb/skills/thamuz-1.webp)Skill 1**Molten Scythes**![](/images/mlbb/skills/thamuz-2.webp)Skill 2**Chasm Trample**![](/images/mlbb/skills/thamuz-3.webp)Ultimate**Cauterant Inferno**
 
@@ -228,17 +270,13 @@ Thamuz spouts the lava within, dealing 300 (+80% Total Physical Attack) Physical
 
 Meanwhile, Thamuz gains 800 (+50% Extra Max HP) , immediately healing for the same amount, and gains 60% Attack Speed. Each time his Basic Attacks or Scythes deal damage, he recovers 1.5% Max HP.
 
-## Counters
+## Thamuz counters
 
-### Counters
-
-Beat this hero
+### Who counters Thamuz
 
 [![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
-### Easy targets
-
-This hero beats them
+### Who Thamuz counters
 
 [![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)
 
@@ -257,6 +295,10 @@ This hero beats them
 Who counters Thamuz in MLBB?
 
 Over the last 30 days the toughest opponents are Alucard, Alice, Odette, Saber and Diggie.
+
+How do you play Thamuz?
+
+Level "Molten Scythes" first and take the ultimate whenever it is available. Stronger late: 50.1% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Thamuz's 1st Skill to speed up and adjust positioning, then jump into the crowd using his 2nd Skill. Activate his Ultimate followed by a Basic Attack and his 1st Skill, and retrieve the Scythes before continuing with Basic Attacks.
 
 What is Thamuz’s win rate right now?
 

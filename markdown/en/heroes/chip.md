@@ -1,6 +1,6 @@
 ---
-title: "Chip MLBB: build, counters and skills | MLBB Boost"
-description: "Chip in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 48.27% win rate, tier D."
+title: "Chip MLBB: build, combos and counters | MLBB Boost"
+description: "Chip in Mobile Legends: ranked build, skill combos, how to play and who counters Chip. Tank and support, 48.27% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/chip.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Chip
 
-Level-up**Shortcut**_›_**Crash Course**_›_**Overtime**
+### Chip combos
+
+#### Teamfight
+
+1.  ![Overtime](/images/mlbb/skills/chip-2.webp)2
+2.  Attack
+3.  ![Shortcut](/images/mlbb/skills/chip-3.webp)3
+4.  ![Crash Course](/images/mlbb/skills/chip-1.webp)1
+5.  Attack
+
+In teamfights, use Chip's 2nd Skill preemptively to build up speed, then hit a target with his Basic Attack and deploy the Main Portal with his Ultimate. Follow up with his 1st Skill on the enemy and another Basic Attack to stun them while the Main Portal's delayed effect slows them, and continue the fight as allies portal in.
+
+#### Laning
+
+1.  ![Overtime](/images/mlbb/skills/chip-2.webp)2
+2.  Attack
+3.  ![Crash Course](/images/mlbb/skills/chip-1.webp)1
+4.  Attack
+
+When ganking, use Chip's 2nd Skill to quickly get behind the target and knock them into your team with the enhanced Basic Attack, then follow up with his 1st Skill and another Basic Attack to stun them.
+
+### When strongest
+
+Stronger late: 49.5% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **46.0**10–12
+2.  **47.5**12–14
+3.  **48.3**14–16
+4.  **48.0**16–18
+5.  **48.0**18–20
+6.  **49.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/chip-3.webp)Shortcut
+2.  ![](/images/mlbb/skills/chip-1.webp)Crash Course
+3.  ![](/images/mlbb/skills/chip-2.webp)Overtime
+
+## Skills
 
 ![](/images/mlbb/skills/chip-0.webp)Passive**Snack Time!**![](/images/mlbb/skills/chip-1.webp)Skill 1**Crash Course**![](/images/mlbb/skills/chip-2.webp)Skill 2**Overtime**![](/images/mlbb/skills/chip-3.webp)Skill 3**Shortcut**![](/images/mlbb/skills/chip-4.webp)Ultimate**Why Walk?**
 
@@ -297,17 +337,13 @@ Ultimate
 
 Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to teleport to any other Beacon. (This skill cannot be used in combat.)
 
-## Counters
+## Chip counters
 
-### Counters
-
-Beat this hero
+### Who counters Chip
 
 [![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)
 
-### Easy targets
-
-This hero beats them
+### Who Chip counters
 
 [![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
@@ -326,6 +362,10 @@ This hero beats them
 Who counters Chip in MLBB?
 
 Over the last 30 days the toughest opponents are Zilong, Helcurt, Selena, Mathilda and Floryn.
+
+How do you play Chip?
+
+Level "Shortcut" first and take the ultimate whenever it is available. Stronger late: 49.5% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Chip's 2nd Skill preemptively to build up speed, then hit a target with his Basic Attack and deploy the Main Portal with his Ultimate. Follow up with his 1st Skill on the enemy and another Basic Attack to stun them while the Main Portal's delayed effect slows them, and continue the fight as allies portal in.
 
 What is Chip’s win rate right now?
 

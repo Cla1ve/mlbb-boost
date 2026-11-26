@@ -1,6 +1,6 @@
 ---
-title: "Lunox MLBB: build, counters and skills | MLBB Boost"
-description: "Lunox in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.90% win rate, tier B."
+title: "Lunox MLBB: build, combos and counters | MLBB Boost"
+description: "Lunox in Mobile Legends: ranked build, skill combos, how to play and who counters Lunox. Mage, 51.90% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lunox.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,50 @@ Assassin
     Impure Rage
 
 
-## Skills
+## How to play Lunox
 
-Level-up**Order & Chaos**_›_**Starlight Pulse**_›_**Chaos Assault** _›_**Cosmic Fission**
+### Lunox combos
+
+#### Laning
+
+1.  ![Cosmic Fission](/images/mlbb/skills/lunox-3.webp)3
+2.  ![Chaos Assault ](/images/mlbb/skills/lunox-2.webp)2
+3.  ![Starlight Pulse](/images/mlbb/skills/lunox-1.webp)1
+
+In the laning phase, use Lunox's 3rd Skill to slow the opponent and her 2nd Skill to poke. When she takes damage, use her 1st Skill to heal back up.
+
+#### Teamfight
+
+1.  ![Cosmic Fission](/images/mlbb/skills/lunox-3.webp)3
+2.  ![Chaos Assault ](/images/mlbb/skills/lunox-2.webp)2
+3.  ![Order & Chaos](/images/mlbb/skills/lunox-4.webp)Ult
+4.  ![Chaos Assault ](/images/mlbb/skills/lunox-2.webp)2
+5.  ![Starlight Pulse](/images/mlbb/skills/lunox-1.webp)1
+6.  ![Order & Chaos](/images/mlbb/skills/lunox-4.webp)Ult
+
+In teamfights, use Lunox's 3rd Skill to slow enemies first and follow up with her 2nd Skill to gain the Power of Chaos, then activate her Darkening Ultimate and spam her 2nd Skill for a lot of damage. Afterwards, use her 1st Skill to gain the Power of Order, then activate her Brilliance Ultimate to become invincible and deal damage to nearby enemies.
+
+### When strongest
+
+Stronger late: 53.1% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **49.9**10–12
+2.  **51.3**12–14
+3.  **52.3**14–16
+4.  **53.1**16–18
+5.  **53.1**18–20
+6.  **52.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/lunox-4.webp)Order & Chaos
+2.  ![](/images/mlbb/skills/lunox-1.webp)Starlight Pulse
+3.  ![](/images/mlbb/skills/lunox-2.webp)Chaos Assault
+4.  ![](/images/mlbb/skills/lunox-3.webp)Cosmic Fission
+
+## Skills
 
 ![](/images/mlbb/skills/lunox-0.webp)Passive**Dreamland Twist**![](/images/mlbb/skills/lunox-1.webp)Skill 1**Starlight Pulse**![](/images/mlbb/skills/lunox-2.webp)Skill 2**Chaos Assault** ![](/images/mlbb/skills/lunox-3.webp)Skill 3**Cosmic Fission**![](/images/mlbb/skills/lunox-4.webp)Ultimate**Order & Chaos**
 
@@ -301,17 +342,13 @@ When Power of Order is dominant, she can cast Brilliance to become invincible an
 
 When Power of Chaos is dominant, she can cast Darkening to blink in a target direction and greatly reduce the cooldown of Chaos Assault for a brief period.
 
-## Counters
+## Lunox counters
 
-### Counters
-
-Beat this hero
+### Who counters Lunox
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
-### Easy targets
-
-This hero beats them
+### Who Lunox counters
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
 
@@ -330,6 +367,10 @@ This hero beats them
 Who counters Lunox in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Kaja, Wanwan, Esmeralda and Karina.
+
+How do you play Lunox?
+
+Level "Starlight Pulse" first and take the ultimate whenever it is available. Stronger late: 53.1% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Lunox's 3rd Skill to slow enemies first and follow up with her 2nd Skill to gain the Power of Chaos, then activate her Darkening Ultimate and spam her 2nd Skill for a lot of damage. Afterwards, use her 1st Skill to gain the Power of Order, then activate her Brilliance Ultimate to become invincible and deal damage to nearby enemies.
 
 What is Lunox’s win rate right now?
 

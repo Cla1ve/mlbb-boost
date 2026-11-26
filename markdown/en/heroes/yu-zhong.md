@@ -1,6 +1,6 @@
 ---
-title: "Yu Zhong MLBB: build, counters and skills | MLBB Boost"
-description: "Yu Zhong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.69% win rate, tier B."
+title: "Yu Zhong MLBB: build, combos and counters | MLBB Boost"
+description: "Yu Zhong in Mobile Legends: ranked build, skill combos, how to play and who counters Yu Zhong. Fighter, 48.69% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yu-zhong.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,51 @@ Fighter
     War Cry
 
 
-## Skills
+## How to play Yu Zhong
 
-Level-up**Black Dragon Form**_›_**Dragon Tail**_›_**Furious Dive**_›_**Soul Grip**
+### Yu Zhong combos
+
+#### Teamfight
+
+1.  ![Black Dragon Form](/images/mlbb/skills/yu-zhong-4.webp)Ult
+2.  ![Black Dragon Form](/images/mlbb/skills/yu-zhong-4.webp)Ult
+3.  ![Soul Grip](/images/mlbb/skills/yu-zhong-2.webp)2
+4.  ![Furious Dive](/images/mlbb/skills/yu-zhong-3.webp)3
+5.  ![Dragon Tail](/images/mlbb/skills/yu-zhong-1.webp)1
+6.  Attack
+
+In teamfights, open with Yu Zhong's Ultimate and run into the enemy's formation while knocking them around. When the enemy's backline heroes are exposed, use his Ultimate again to enter Dragonoid Form, and unleash his combo starting with his 2nd Skill then 3rd Skill, then 1st Skill to deal tons of damage. Finally, use the enhanced Basic Attack from his 2nd Skill to finish off the enemy.
+
+#### Laning
+
+1.  ![Soul Grip](/images/mlbb/skills/yu-zhong-2.webp)2
+2.  ![Furious Dive](/images/mlbb/skills/yu-zhong-3.webp)3
+3.  ![Dragon Tail](/images/mlbb/skills/yu-zhong-1.webp)1
+4.  Attack
+
+In the laning phase, use Yu Zhong's 2nd Skill to slow the enemy and leap on them using his 3rd Skill. When repositioning with the dash of his 3rd Skill, cast his 1st Skill to hit the enemy with the outer edge, and follow up with the enhanced Basic Attack from his 2nd Skill and finish the combo with a Sha Residue eruption.
+
+### When strongest
+
+Even through the game, from 48.0% to 50.0%. Pick fights by your items rather than the clock.
+
+1.  **48.0**10–12
+2.  **49.3**12–14
+3.  **50.0**14–16
+4.  **49.6**16–18
+5.  **49.0**18–20
+6.  **48.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/yu-zhong-4.webp)Black Dragon Form
+2.  ![](/images/mlbb/skills/yu-zhong-1.webp)Dragon Tail
+3.  ![](/images/mlbb/skills/yu-zhong-3.webp)Furious Dive
+4.  ![](/images/mlbb/skills/yu-zhong-2.webp)Soul Grip
+
+## Skills
 
 ![](/images/mlbb/skills/yu-zhong-0.webp)Passive**Cursing Touch**![](/images/mlbb/skills/yu-zhong-1.webp)Skill 1**Dragon Tail**![](/images/mlbb/skills/yu-zhong-2.webp)Skill 2**Soul Grip**![](/images/mlbb/skills/yu-zhong-3.webp)Skill 3**Furious Dive**![](/images/mlbb/skills/yu-zhong-4.webp)Ultimate**Black Dragon Form**
 
@@ -298,11 +340,9 @@ After channeling for 0.6s, Yu Zhong transforms into his Black Dragon Form. For u
 
 Upon exiting the Black Dragon Form, Yu Zhong enters Dragonoid Form, gaining increased range on all of his skills for 10s.
 
-## Counters
+## Yu Zhong counters
 
-### Counters
-
-Beat this hero
+### Who counters Yu Zhong
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
@@ -321,6 +361,10 @@ Beat this hero
 Who counters Yu Zhong in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Minsitthar, Silvanna, Popol and Kupa and Atlas.
+
+How do you play Yu Zhong?
+
+Level "Dragon Tail" first and take the ultimate whenever it is available. Even through the game, from 48.0% to 50.0%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, open with Yu Zhong's Ultimate and run into the enemy's formation while knocking them around. When the enemy's backline heroes are exposed, use his Ultimate again to enter Dragonoid Form, and unleash his combo starting with his 2nd Skill then 3rd Skill, then 1st Skill to deal tons of damage. Finally, use the enhanced Basic Attack from his 2nd Skill to finish off the enemy.
 
 What is Yu Zhong’s win rate right now?
 

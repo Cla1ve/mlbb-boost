@@ -1,6 +1,6 @@
 ---
-title: "Leomord MLBB: build, counters and skills | MLBB Boost"
-description: "Leomord in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.00% win rate, tier C."
+title: "Leomord MLBB: build, combos and counters | MLBB Boost"
+description: "Leomord in Mobile Legends: ranked build, skill combos, how to play and who counters Leomord. Fighter, 50.00% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/leomord.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Marksman
     Killing Spree
 
 
-## Skills
+## How to play Leomord
 
-Level-up**Phantom Steed**_›_**Momentum**_›_**Decimation Assault**
+### Leomord combos
+
+#### Teamfight
+
+1.  ![Phantom Steed](/images/mlbb/skills/leomord-3.webp)Ult
+2.  ![Momentum](/images/mlbb/skills/leomord-1.webp)1
+3.  ![Decimation Assault](/images/mlbb/skills/leomord-2.webp)2
+4.  ![Momentum](/images/mlbb/skills/leomord-1.webp)1
+5.  ![Decimation Assault](/images/mlbb/skills/leomord-2.webp)2
+6.  Attack
+
+In teamfights, Leomord can cast his Ultimate, then his 1st and 2nd Skills while Barbiel is moving towards him. After mounting, Leomord can use his mounted 1st Skill, 2nd Skill, and Basic Attacks to continue dishing out damage.
+
+#### Laning
+
+1.  ![Momentum](/images/mlbb/skills/leomord-1.webp)1
+2.  ![Decimation Assault](/images/mlbb/skills/leomord-2.webp)2
+3.  Attack
+
+Poke and zone out enemies with his 1st Skill while clearing minions. When the enemy's HP is close to his Passive's threshold, charge in with his 2nd Skill and finish them off with Basic Attacks.
+
+### When strongest
+
+Even through the game, from 48.9% to 50.9%. Pick fights by your items rather than the clock.
+
+1.  **49.8**10–12
+2.  **50.5**12–14
+3.  **50.9**14–16
+4.  **49.7**16–18
+5.  **49.6**18–20
+6.  **48.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/leomord-3.webp)Phantom Steed
+2.  ![](/images/mlbb/skills/leomord-1.webp)Momentum
+3.  ![](/images/mlbb/skills/leomord-2.webp)Decimation Assault
+
+## Skills
 
 ![](/images/mlbb/skills/leomord-0.webp)Passive**The Oath Keeper**![](/images/mlbb/skills/leomord-1.webp)Skill 1**Momentum**![](/images/mlbb/skills/leomord-2.webp)Skill 2**Decimation Assault**![](/images/mlbb/skills/leomord-3.webp)Ultimate**Phantom Steed**
 
@@ -293,17 +333,13 @@ If Barbiel comes in contact with Leomord, they will enter the Mounted State, gai
 
 **Mounted State:** Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area to deal AOE damage. Leomord also gains 70 Movement Speed and 30 . This lasts 10s.
 
-## Counters
+## Leomord counters
 
-### Counters
-
-Beat this hero
+### Who counters Leomord
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
-### Easy targets
-
-This hero beats them
+### Who Leomord counters
 
 [![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
@@ -322,6 +358,10 @@ This hero beats them
 Who counters Leomord in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Saber, Belerick, Popol and Kupa and Natalia.
+
+How do you play Leomord?
+
+Level "Momentum" first and take the ultimate whenever it is available. Even through the game, from 48.9% to 50.9%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, Leomord can cast his Ultimate, then his 1st and 2nd Skills while Barbiel is moving towards him. After mounting, Leomord can use his mounted 1st Skill, 2nd Skill, and Basic Attacks to continue dishing out damage.
 
 What is Leomord’s win rate right now?
 

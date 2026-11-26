@@ -1,6 +1,6 @@
 ---
-title: "Minsitthar MLBB: build, counters and skills | MLBB Boost"
-description: "Minsitthar in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 52.11% win rate, tier B."
+title: "Minsitthar MLBB: build, combos and counters | MLBB Boost"
+description: "Minsitthar in Mobile Legends: ranked build, skill combos, how to play and who counters Minsitthar. Fighter, 52.11% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/minsitthar.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 2.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Marksman
     Weakness Finder
 
 
-## Skills
+## How to play Minsitthar
 
-Level-up**King's Calling**_›_**Shield Assault**_›_**Spear of Glory**
+### Minsitthar combos
+
+#### Teamfight
+
+1.  ![Spear of Glory](/images/mlbb/skills/minsitthar-1.webp)1
+2.  ![King's Calling](/images/mlbb/skills/minsitthar-3.webp)Ult
+3.  ![Shield Assault](/images/mlbb/skills/minsitthar-2.webp)2
+4.  Attack
+
+In teamfights, Minsitthar should use his 1st Skill to pull in multiple enemies before using his Ultimate to restrict their movement, and then use his 2nd Skill's enhanced Basic Attacks to deal AOE damage.
+
+#### Laning
+
+1.  ![Spear of Glory](/images/mlbb/skills/minsitthar-1.webp)1
+2.  ![Shield Assault](/images/mlbb/skills/minsitthar-2.webp)2
+3.  Attack
+
+In the laning phase, Minsitthar should use his 1st Skill to pull the enemy to him and slow them with his 2nd Skill, before unleashing his enhanced Basic Attacks.
+
+### When strongest
+
+Stronger early: 54.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **54.8**10–12
+2.  **54.4**12–14
+3.  **53.8**14–16
+4.  **53.4**16–18
+5.  **52.8**18–20
+6.  **51.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/minsitthar-3.webp)King's Calling
+2.  ![](/images/mlbb/skills/minsitthar-2.webp)Shield Assault
+3.  ![](/images/mlbb/skills/minsitthar-1.webp)Spear of Glory
+
+## Skills
 
 ![](/images/mlbb/skills/minsitthar-0.webp)Passive**Mark of the King**![](/images/mlbb/skills/minsitthar-1.webp)Skill 1**Spear of Glory**![](/images/mlbb/skills/minsitthar-2.webp)Skill 2**Shield Assault**![](/images/mlbb/skills/minsitthar-3.webp)Ultimate**King's Calling**
 
@@ -286,17 +324,13 @@ Minsitthar charges forward and calls 4 Royal Guards to form a field around him. 
 
 Enemies in the field are slowed by 30% and cannot use movement skills.
 
-## Counters
+## Minsitthar counters
 
-### Counters
-
-Beat this hero
+### Who counters Minsitthar
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)
 
-### Easy targets
-
-This hero beats them
+### Who Minsitthar counters
 
 [![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -315,6 +349,10 @@ This hero beats them
 Who counters Minsitthar in MLBB?
 
 Over the last 30 days the toughest opponents are Freya, Phoveus, Harith, Martis and Karrie.
+
+How do you play Minsitthar?
+
+Level "Shield Assault" first and take the ultimate whenever it is available. Stronger early: 54.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Minsitthar should use his 1st Skill to pull in multiple enemies before using his Ultimate to restrict their movement, and then use his 2nd Skill's enhanced Basic Attacks to deal AOE damage.
 
 What is Minsitthar’s win rate right now?
 

@@ -6,7 +6,7 @@
     <link>https://boostmlbb.ru/en/news/</link>
     <description>Verified Mobile Legends news covering patches, meta, tournaments and guides.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:48:15 GMT</lastBuildDate>
     <item>
       <title>Mobile Legends not working? Fix launch, connection and lag issues</title>
       <link>https://boostmlbb.ru/en/news/mlbb-not-working/</link>
@@ -1749,10 +1749,10 @@ Frequently asked questions</yandex:full-text>
       </media:group>
     </item>
     <item>
-      <title>How to change your MLBB nickname: price, invisible name, symbols</title>
+      <title>MLBB names: a stylish nickname generator and fonts</title>
       <link>https://boostmlbb.ru/en/news/mlbb-change-nickname/</link>
       <guid isPermaLink="true">https://boostmlbb.ru/en/news/mlbb-change-nickname/</guid>
-      <description>Change your nickname in your profile. The first change is free, and later changes require a Rename Card.</description>
+      <description>Choose who the name is for and a style, try a font and symbols, then copy it. Renaming steps are below.</description>
       <dc:creator>Boost MLBB Editorial Team</dc:creator>
       <category>Guides</category>
       <pubDate>Sun, 22 Nov 2026 20:03:00 GMT</pubDate>
@@ -1767,7 +1767,7 @@ The card costs diamonds. Guides quote 239 and 299 diamonds, so check the exact p
 
 A blank nickname is built from invisible Unicode characters, but the game may reject them.
 
-How to change your name
+How to change your name in MLBB
 
 In the main menu, tap your avatar in the top-left corner. Your profile opens.
 
@@ -1855,9 +1855,9 @@ Tap OK and open your profile: the name should look empty.
 
 There is no guarantee. The Indonesian outlet Katadata warned in November 2026 that not every blank character passes the check and that the rules can change with a game update. If one character is refused, try the other. Some players may see a box instead of an empty space.
 
-Symbols and stylish nicknames
+Which symbols and fonts work
 
-Besides Latin and Cyrillic letters, players often add hieroglyphs and decorative signs. Generator sites offer hundreds of options, but many of their &quot;fonts&quot; are made of rare Unicode characters: the game may refuse them or show boxes. One or two simple signs are the safer choice.
+The fonts in the generator above are separate Unicode characters. Small caps, wide and circled letters come from common sets, while bold, script and gothic come from rare ones: some phones show boxes instead, and the game may reject them. The safest name has one or two simple symbols.
 
 Signs players often put in a nickname
 

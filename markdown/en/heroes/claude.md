@@ -1,6 +1,6 @@
 ---
-title: "Claude MLBB: build, counters and skills | MLBB Boost"
-description: "Claude in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.48% win rate, tier B."
+title: "Claude MLBB: build, combos and counters | MLBB Boost"
+description: "Claude in Mobile Legends: ranked build, skill combos, how to play and who counters Claude. Marksman, 48.48% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/claude.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Fighter
     Quantum Charge
 
 
-## Skills
+## How to play Claude
 
-Level-up**Blazing Duet**_›_**Art of Thievery**_›_**Battle Mirror Image**
+### Claude combos
+
+#### Teamfight
+
+1.  ![Art of Thievery](/images/mlbb/skills/claude-1.webp)1
+2.  ![Battle Mirror Image](/images/mlbb/skills/claude-2.webp)2
+3.  ![Blazing Duet](/images/mlbb/skills/claude-3.webp)Ult
+
+In teamfights, Claude should use his 1st Skill to stack up his buff first, and look for the best opportunities to get close to enemies with his 2nd Skill, and then use his Ultimate to finish them off.
+
+#### Laning
+
+1.  ![Art of Thievery](/images/mlbb/skills/claude-1.webp)1
+2.  Attack
+3.  ![Battle Mirror Image](/images/mlbb/skills/claude-2.webp)2
+4.  ![Blazing Duet](/images/mlbb/skills/claude-3.webp)Ult
+
+In the laning phase, Claude can use his 1st Skill to poke the enemy, and use his 2nd Skill to close in on them when their HP is low, then use his Ultimate to kill them.
+
+### When strongest
+
+Stronger late: 50.5% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **45.6**10–12
+2.  **49.5**12–14
+3.  **50.1**14–16
+4.  **50.5**16–18
+5.  **49.2**18–20
+6.  **49.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/claude-3.webp)Blazing Duet
+2.  ![](/images/mlbb/skills/claude-1.webp)Art of Thievery
+3.  ![](/images/mlbb/skills/claude-2.webp)Battle Mirror Image
+
+## Skills
 
 ![](/images/mlbb/skills/claude-0.webp)Passive**Battle Side-by-side**![](/images/mlbb/skills/claude-1.webp)Skill 1**Art of Thievery**![](/images/mlbb/skills/claude-2.webp)Skill 2**Battle Mirror Image**![](/images/mlbb/skills/claude-3.webp)Ultimate**Blazing Duet**
 
@@ -286,17 +324,13 @@ Cooldown **50 Mana Cost: 100 s**
 
 Claude and Dexter rapidly fire at nearby enemies for 3s, dealing 40 (+40% Total Physical Attack) Physical Damage to up to two enemies with each shot (counts as Basic Attack Damage). Claude also gains a 20 (+3% Total Physical Attack) shield each time the Ultimate deals damage to an enemy.
 
-## Counters
+## Claude counters
 
-### Counters
-
-Beat this hero
+### Who counters Claude
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
-### Easy targets
-
-This hero beats them
+### Who Claude counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)
 
@@ -315,6 +349,10 @@ This hero beats them
 Who counters Claude in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Chang'e, Ixia, Balmond and Johnson.
+
+How do you play Claude?
+
+Level "Art of Thievery" first and take the ultimate whenever it is available. Stronger late: 50.5% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Claude should use his 1st Skill to stack up his buff first, and look for the best opportunities to get close to enemies with his 2nd Skill, and then use his Ultimate to finish them off.
 
 What is Claude’s win rate right now?
 

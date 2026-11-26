@@ -1,6 +1,6 @@
 ---
-title: "Alice MLBB: build, counters and skills | MLBB Boost"
-description: "Alice in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and mage, 50.28% win rate, tier A."
+title: "Alice MLBB: build, combos and counters | MLBB Boost"
+description: "Alice in Mobile Legends: ranked build, skill combos, how to play and who counters Alice. Tank and mage, 50.28% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/alice.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 8.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,48 @@ Tank
     Impure Rage
 
 
-## Skills
+## How to play Alice
 
-Level-up**Throne of Ruin**_›_**Doom Waltz**_›_**Crimson Gleam**
+### Alice combos
+
+#### Teamfight
+
+1.  ![Crimson Gleam](/images/mlbb/skills/alice-1.webp)1
+2.  ![Crimson Gleam](/images/mlbb/skills/alice-1.webp)1
+3.  ![Doom Waltz](/images/mlbb/skills/alice-2.webp)2
+4.  ![Throne of Ruin](/images/mlbb/skills/alice-3.webp)Ult
+
+Use Alice's 1st Skill to poke the opponent and recast it to blink on top of them, then follow up with her 2nd Skill to CC the enemies and finish with her Ultimate to continue the attack.
+
+#### Laning
+
+1.  ![Crimson Gleam](/images/mlbb/skills/alice-1.webp)1
+2.  ![Crimson Gleam](/images/mlbb/skills/alice-1.webp)1
+3.  ![Doom Waltz](/images/mlbb/skills/alice-2.webp)2
+4.  ![Throne of Ruin](/images/mlbb/skills/alice-3.webp)Ult
+
+Use Alice's 1st Skill to poke the opponent and recast it to blink on top of them, then follow up with her 2nd Skill to CC the enemies and finish with her Ultimate to continue the attack.
+
+### When strongest
+
+Stronger late: 50.1% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **48.1**10–12
+2.  **48.7**12–14
+3.  **49.7**14–16
+4.  **49.5**16–18
+5.  **50.0**18–20
+6.  **50.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/alice-3.webp)Throne of Ruin
+2.  ![](/images/mlbb/skills/alice-2.webp)Doom Waltz
+3.  ![](/images/mlbb/skills/alice-1.webp)Crimson Gleam
+
+## Skills
 
 ![](/images/mlbb/skills/alice-0.webp)Passive**Crimson Blood Banquet**![](/images/mlbb/skills/alice-1.webp)Skill 1**Crimson Gleam**![](/images/mlbb/skills/alice-2.webp)Skill 2**Doom Waltz**![](/images/mlbb/skills/alice-3.webp)Ultimate**Throne of Ruin**
 
@@ -296,17 +335,13 @@ After 1.5s, she descends from above, dealing 500 (+200% Total Magic Power) (+20%
 
 While charging her Ultimate, Alice cannot use any hero skills other than Scarlet Shadow.
 
-## Counters
+## Alice counters
 
-### Counters
-
-Beat this hero
+### Who counters Alice
 
 [![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)
 
-### Easy targets
-
-This hero beats them
+### Who Alice counters
 
 [![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
 
@@ -325,6 +360,10 @@ This hero beats them
 Who counters Alice in MLBB?
 
 Over the last 30 days the toughest opponents are Chip, Gloo, Tigreal, Atlas and Barats.
+
+How do you play Alice?
+
+Level "Doom Waltz" first and take the ultimate whenever it is available. Stronger late: 50.1% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: Use Alice's 1st Skill to poke the opponent and recast it to blink on top of them, then follow up with her 2nd Skill to CC the enemies and finish with her Ultimate to continue the attack.
 
 What is Alice’s win rate right now?
 

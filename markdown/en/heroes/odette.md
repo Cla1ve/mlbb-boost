@@ -1,6 +1,6 @@
 ---
-title: "Odette MLBB: build, counters and skills | MLBB Boost"
-description: "Odette in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.15% win rate, tier C."
+title: "Odette MLBB: build, combos and counters | MLBB Boost"
+description: "Odette in Mobile Legends: ranked build, skill combos, how to play and who counters Odette. Mage, 51.15% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/odette.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Odette
 
-Level-up**Swan Song**_›_**Avian Authority**_›_**Blue Nova**
+### Odette combos
+
+#### Teamfight
+
+1.  ![Blue Nova](/images/mlbb/skills/odette-2.webp)2
+2.  ![Swan Song](/images/mlbb/skills/odette-3.webp)Ult
+3.  ![Swan Song](/images/mlbb/skills/odette-3.webp)Ult
+4.  ![Avian Authority](/images/mlbb/skills/odette-1.webp)1
+
+In teamfights, initiate with Odette's 2nd Skill to immobilize the enemy and activate her Ultimate to continuously damage the controlled targets. Activate the dash from her Ultimate to reposition when enemies are about to escape, and finish them off with her 1st Skill after her Ultimate ends.
+
+#### Laning
+
+1.  ![Avian Authority](/images/mlbb/skills/odette-1.webp)1
+2.  ![Blue Nova](/images/mlbb/skills/odette-2.webp)2
+3.  ![Swan Song](/images/mlbb/skills/odette-3.webp)Ult
+
+In the laning phase, use Odette's 1st Skill to harass the opponent, and immobilize them with her 2nd Skill at the right moment before securing the kill with her Ultimate.
+
+### When strongest
+
+Even through the game, from 49.3% to 51.0%. Pick fights by your items rather than the clock.
+
+1.  **49.3**10–12
+2.  **50.0**12–14
+3.  **51.0**14–16
+4.  **50.3**16–18
+5.  **50.1**18–20
+6.  **49.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/odette-3.webp)Swan Song
+2.  ![](/images/mlbb/skills/odette-1.webp)Avian Authority
+3.  ![](/images/mlbb/skills/odette-2.webp)Blue Nova
+
+## Skills
 
 ![](/images/mlbb/skills/odette-0.webp)Passive**Lakeshore Ambience**![](/images/mlbb/skills/odette-1.webp)Skill 1**Avian Authority**![](/images/mlbb/skills/odette-2.webp)Skill 2**Blue Nova**![](/images/mlbb/skills/odette-3.webp)Ultimate**Swan Song**
 
@@ -289,17 +327,13 @@ Odette channels a dance, gaining a 1200 (+150% Total Magic Power) shield and dea
 
 Use again to cancel. Only high-level control effects can interrupt this skill.
 
-## Counters
+## Odette counters
 
-### Counters
-
-Beat this hero
+### Who counters Odette
 
 [![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
-### Easy targets
-
-This hero beats them
+### Who Odette counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)
 
@@ -318,6 +352,10 @@ This hero beats them
 Who counters Odette in MLBB?
 
 Over the last 30 days the toughest opponents are Kaja, Mathilda, Faramis, Chip and Marcel.
+
+How do you play Odette?
+
+Level "Avian Authority" first and take the ultimate whenever it is available. Even through the game, from 49.3% to 51.0%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, initiate with Odette's 2nd Skill to immobilize the enemy and activate her Ultimate to continuously damage the controlled targets. Activate the dash from her Ultimate to reposition when enemies are about to escape, and finish them off with her 1st Skill after her Ultimate ends.
 
 What is Odette’s win rate right now?
 

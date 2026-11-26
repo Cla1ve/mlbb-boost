@@ -1,6 +1,6 @@
 ---
-title: "Kadita MLBB: build, counters and skills | MLBB Boost"
-description: "Kadita in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 51.14% win rate, tier B."
+title: "Kadita MLBB: build, combos and counters | MLBB Boost"
+description: "Kadita in Mobile Legends: ranked build, skill combos, how to play and who counters Kadita. Assassin and mage, 51.14% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kadita.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -187,9 +187,46 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Kadita
 
-Level-up**Rough Waves**_›_**Ocean Ode**_›_**Breath of the Ocean**
+### Kadita combos
+
+#### Teamfight
+
+1.  ![Ocean Ode](/images/mlbb/skills/kadita-1.webp)1
+2.  ![Breath of the Ocean](/images/mlbb/skills/kadita-2.webp)2
+3.  ![Rough Waves](/images/mlbb/skills/kadita-3.webp)Ult
+
+In teamfights, target the enemy's backline with Kadita's 1st Skill, and use her 2nd Skill when passing through enemies to knock them airborne. Follow up with her Ultimate for massive damage and avoid all incoming damage while being untargetable.
+
+#### Laning
+
+1.  ![Ocean Ode](/images/mlbb/skills/kadita-1.webp)1
+2.  ![Ocean Ode](/images/mlbb/skills/kadita-1.webp)1
+3.  ![Breath of the Ocean](/images/mlbb/skills/kadita-2.webp)2
+
+In the laning phase, use Kadita's 1st Skill to constantly harass enemies, and look for opportunities to use her 2nd Skill.
+
+### When strongest
+
+Stronger early: 53.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.0**10–12
+2.  **51.9**12–14
+3.  **51.3**14–16
+4.  **50.7**16–18
+5.  **50.1**18–20
+6.  **50.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/kadita-3.webp)Rough Waves
+2.  ![](/images/mlbb/skills/kadita-1.webp)Ocean Ode
+3.  ![](/images/mlbb/skills/kadita-2.webp)Breath of the Ocean
+
+## Skills
 
 ![](/images/mlbb/skills/kadita-0.webp)Passive**Thalassophobia**![](/images/mlbb/skills/kadita-1.webp)Skill 1**Ocean Ode**![](/images/mlbb/skills/kadita-2.webp)Skill 2**Breath of the Ocean**![](/images/mlbb/skills/kadita-3.webp)Ultimate**Rough Waves**
 
@@ -235,11 +272,9 @@ While underground, Kadita becomes untargetable and gains 60% Movement Speed.
 
 This skill can only be interrupted by Suppression.
 
-## Counters
+## Kadita counters
 
-### Counters
-
-Beat this hero
+### Who counters Kadita
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
@@ -258,6 +293,10 @@ Beat this hero
 Who counters Kadita in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Ixia, Johnson, Silvanna and Atlas.
+
+How do you play Kadita?
+
+Level "Ocean Ode" first and take the ultimate whenever it is available. Stronger early: 53.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, target the enemy's backline with Kadita's 1st Skill, and use her 2nd Skill when passing through enemies to knock them airborne. Follow up with her Ultimate for massive damage and avoid all incoming damage while being untargetable.
 
 What is Kadita’s win rate right now?
 

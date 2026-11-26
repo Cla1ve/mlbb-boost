@@ -1,6 +1,6 @@
 ---
-title: "Arlott MLBB: build, counters and skills | MLBB Boost"
-description: "Arlott in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 48.05% win rate, tier B."
+title: "Arlott MLBB: build, combos and counters | MLBB Boost"
+description: "Arlott in Mobile Legends: ranked build, skill combos, how to play and who counters Arlott. Fighter and assassin, 48.05% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/arlott.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,48 @@ Fighter
     Brave Smite
 
 
-## Skills
+## How to play Arlott
 
-Level-up**Final Slash**_›_**Vengeance**_›_**Dauntless Strike**
+### Arlott combos
+
+#### Teamfight
+
+1.  ![Vengeance](/images/mlbb/skills/arlott-2.webp)2
+2.  ![Final Slash](/images/mlbb/skills/arlott-3.webp)Ult
+3.  ![Vengeance](/images/mlbb/skills/arlott-2.webp)2
+4.  ![Dauntless Strike](/images/mlbb/skills/arlott-1.webp)1
+5.  ![Vengeance](/images/mlbb/skills/arlott-2.webp)2
+
+In teamfights, start by hitting a marked enemy hero with Arlott's 2nd Skill, then get into position to unleash his Ultimate on the enemy team to CC and mark them. Use Arlott's 2nd Skill to cut through the enemy from target to target. When all marks have been used up, use his 1st Skill to CC and mark enemies again, and continue to chain his 2nd Skill.
+
+#### Laning
+
+1.  ![Vengeance](/images/mlbb/skills/arlott-2.webp)2
+2.  ![Dauntless Strike](/images/mlbb/skills/arlott-1.webp)1
+3.  ![Vengeance](/images/mlbb/skills/arlott-2.webp)2
+
+In the laning phase, after Arlott's Passive marks an enemy hero, use his 2nd Skill to dash through them and get a cooldown reset. Follow up with his 1st Skill to CC the enemy and mark them again, then hit them with his 2nd Skill while resetting its cooldown.
+
+### When strongest
+
+Stronger early: 49.3% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **48.8**10–12
+2.  **49.3**12–14
+3.  **48.8**14–16
+4.  **48.0**16–18
+5.  **47.0**18–20
+6.  **46.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/arlott-3.webp)Final Slash
+2.  ![](/images/mlbb/skills/arlott-2.webp)Vengeance
+3.  ![](/images/mlbb/skills/arlott-1.webp)Dauntless Strike
+
+## Skills
 
 ![](/images/mlbb/skills/arlott-0.webp)Passive**Demon Gaze**![](/images/mlbb/skills/arlott-1.webp)Skill 1**Dauntless Strike**![](/images/mlbb/skills/arlott-2.webp)Skill 2**Vengeance**![](/images/mlbb/skills/arlott-3.webp)Ultimate**Final Slash**
 
@@ -289,17 +328,13 @@ Cooldown **24 s**
 
 **Active:** Arlott cleaves forward, dealing 400 (+80% Total Physical Attack) Physical Damage to enemies in the area, knocking them back to the edge of the swing, and briefly revealing their location (can only be interrupted by Suppression).
 
-## Counters
+## Arlott counters
 
-### Counters
-
-Beat this hero
+### Who counters Arlott
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)
 
-### Easy targets
-
-This hero beats them
+### Who Arlott counters
 
 [![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
@@ -318,6 +353,10 @@ This hero beats them
 Who counters Arlott in MLBB?
 
 Over the last 30 days the toughest opponents are X.Borg, Cici, Zhuxin, Natan and Kimmy.
+
+How do you play Arlott?
+
+Level "Vengeance" first and take the ultimate whenever it is available. Stronger early: 49.3% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, start by hitting a marked enemy hero with Arlott's 2nd Skill, then get into position to unleash his Ultimate on the enemy team to CC and mark them. Use Arlott's 2nd Skill to cut through the enemy from target to target. When all marks have been used up, use his 1st Skill to CC and mark enemies again, and continue to chain his 2nd Skill.
 
 What is Arlott’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Karrie MLBB: build, counters and skills | MLBB Boost"
-description: "Karrie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 49.04% win rate, tier C."
+title: "Karrie MLBB: build, combos and counters | MLBB Boost"
+description: "Karrie in Mobile Legends: ranked build, skill combos, how to play and who counters Karrie. Marksman, 49.04% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/karrie.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,49 @@ Fighter
     Quantum Charge
 
 
-## Skills
+## How to play Karrie
 
-Level-up**Speedy Lightwheel**_›_**Phantom Step**_›_**Spinning Lightwheel**
+### Karrie combos
+
+#### Teamfight
+
+1.  ![Speedy Lightwheel](/images/mlbb/skills/karrie-3.webp)Ult
+2.  ![Spinning Lightwheel](/images/mlbb/skills/karrie-1.webp)1
+3.  Attack
+4.  ![Phantom Step](/images/mlbb/skills/karrie-2.webp)2
+5.  Attack
+
+Use her Ultimate to apply extra Lightwheel Marks with Basic Attacks and 1st Skill to slow enemies, and then chase with her 2nd Skill to secure the kill.
+
+#### Laning
+
+1.  ![Spinning Lightwheel](/images/mlbb/skills/karrie-1.webp)1
+2.  Attack
+3.  ![Phantom Step](/images/mlbb/skills/karrie-2.webp)2
+4.  Attack
+
+Use her 1st Skill to poke enemies and slow them, then follow up with Basic Attacks. She can then use her 2nd Skill to chase or reposition herself.
+
+### When strongest
+
+Stronger late: 52.2% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **43.2**10–12
+2.  **47.3**12–14
+3.  **50.5**14–16
+4.  **52.2**16–18
+5.  **52.1**18–20
+6.  **51.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/karrie-3.webp)Speedy Lightwheel
+2.  ![](/images/mlbb/skills/karrie-2.webp)Phantom Step
+3.  ![](/images/mlbb/skills/karrie-1.webp)Spinning Lightwheel
+
+## Skills
 
 ![](/images/mlbb/skills/karrie-0.webp)Passive**Lightwheel Mark**![](/images/mlbb/skills/karrie-1.webp)Skill 1**Spinning Lightwheel**![](/images/mlbb/skills/karrie-2.webp)Skill 2**Phantom Step**![](/images/mlbb/skills/karrie-3.webp)Ultimate**Speedy Lightwheel**
 
@@ -286,17 +326,13 @@ Cooldown **35 Mana Cost: 100 s**
 
 Karrie enters Dual Wield state for 10s, gaining 30% Movement Speed. Each Basic Attack deals 50 (+50% Total Physical Attack) Physical Damage and throws 2 lightwheels that inherit a portion of Attack Effects.
 
-## Counters
+## Karrie counters
 
-### Counters
-
-Beat this hero
+### Who counters Karrie
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
-### Easy targets
-
-This hero beats them
+### Who Karrie counters
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
 
@@ -315,6 +351,10 @@ This hero beats them
 Who counters Karrie in MLBB?
 
 Over the last 30 days the toughest opponents are Alice, Esmeralda, Baxia, Balmond and Hylos.
+
+How do you play Karrie?
+
+Level "Phantom Step" first and take the ultimate whenever it is available. Stronger late: 52.2% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: Use her Ultimate to apply extra Lightwheel Marks with Basic Attacks and 1st Skill to slow enemies, and then chase with her 2nd Skill to secure the kill.
 
 What is Karrie’s win rate right now?
 

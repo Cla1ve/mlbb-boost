@@ -1,6 +1,6 @@
 ---
-title: "Badang MLBB: build, counters and skills | MLBB Boost"
-description: "Badang in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.91% win rate, tier B."
+title: "Badang MLBB: build, combos and counters | MLBB Boost"
+description: "Badang in Mobile Legends: ranked build, skill combos, how to play and who counters Badang. Fighter, 49.91% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/badang.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 5.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,48 @@ Support
     Concussive Blast
 
 
-## Skills
+## How to play Badang
 
-Level-up**Fist Crack**_›_**Fist Wind**_›_**Fist Break**
+### Badang combos
+
+#### Teamfight
+
+1.  ![Fist Break](/images/mlbb/skills/badang-2.webp)2
+2.  ![Fist Crack](/images/mlbb/skills/badang-3.webp)Ult
+3.  ![Fist Wind](/images/mlbb/skills/badang-1.webp)1
+4.  Attack
+
+In teamfights, use Badang's 2nd Skill when the enemy is grouped up to trap multiple targets in the barrier, and unleash his Ultimate to repeatedly knock them into it for massive damage. Then use his 1st Skill and Basic Attacks to continue the onslaught.
+
+#### Laning
+
+1.  ![Fist Wind](/images/mlbb/skills/badang-1.webp)1
+2.  ![Fist Break](/images/mlbb/skills/badang-2.webp)2
+3.  ![Fist Wind](/images/mlbb/skills/badang-1.webp)1
+4.  Attack
+
+In the laning phase, use Badang's 1st Skill to whittle down the enemy's HP. Use his 2nd Skill to trap the enemy, then use his 1st Skill to knock them into the barrier to stun them, and finish with Basic Attacks.
+
+### When strongest
+
+Even through the game, from 48.2% to 50.2%. Pick fights by your items rather than the clock.
+
+1.  **48.2**10–12
+2.  **49.7**12–14
+3.  **50.2**14–16
+4.  **50.1**16–18
+5.  **49.9**18–20
+6.  **49.7**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/badang-3.webp)Fist Crack
+2.  ![](/images/mlbb/skills/badang-1.webp)Fist Wind
+3.  ![](/images/mlbb/skills/badang-2.webp)Fist Break
+
+## Skills
 
 ![](/images/mlbb/skills/badang-0.webp)Passive**Chivalry Fist**![](/images/mlbb/skills/badang-1.webp)Skill 1**Fist Wind**![](/images/mlbb/skills/badang-2.webp)Skill 2**Fist Break**![](/images/mlbb/skills/badang-3.webp)Ultimate**Fist Crack**
 
@@ -291,11 +330,9 @@ Badang throws a flurry of punches in the target direction, dealing 60 (+54% Tota
 
 Badang is immune to control effects for the duration.
 
-## Counters
+## Badang counters
 
-### Counters
-
-Beat this hero
+### Who counters Badang
 
 [![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
 
@@ -314,6 +351,10 @@ Beat this hero
 Who counters Badang in MLBB?
 
 Over the last 30 days the toughest opponents are Fanny, Sun, Zilong, Hayabusa and Joy.
+
+How do you play Badang?
+
+Level "Fist Wind" first and take the ultimate whenever it is available. Even through the game, from 48.2% to 50.2%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Badang's 2nd Skill when the enemy is grouped up to trap multiple targets in the barrier, and unleash his Ultimate to repeatedly knock them into it for massive damage. Then use his 1st Skill and Basic Attacks to continue the onslaught.
 
 What is Badang’s win rate right now?
 

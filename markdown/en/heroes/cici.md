@@ -1,6 +1,6 @@
 ---
-title: "Cici MLBB: build, counters and skills | MLBB Boost"
-description: "Cici in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.53% win rate, tier B."
+title: "Cici MLBB: build, combos and counters | MLBB Boost"
+description: "Cici in Mobile Legends: ranked build, skill combos, how to play and who counters Cici. Fighter, 48.53% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/cici.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,46 @@ Fighter
     Brave Smite
 
 
-## Skills
+## How to play Cici
 
-Level-up**Curtain Call**_›_**Yo-Yo Blitz**_›_**Buoyant Bounce**
+### Cici combos
+
+#### Teamfight
+
+1.  ![Curtain Call](/images/mlbb/skills/cici-3.webp)Ult
+2.  ![Buoyant Bounce](/images/mlbb/skills/cici-2.webp)2
+3.  ![Yo-Yo Blitz](/images/mlbb/skills/cici-1.webp)1
+
+In teamfights, find two enemy heroes that are close together and toss Cici's Ultimate on one of them, then use her 2nd Skill to jump in and pop her 1st Skill mid-leap to start dealing continuous damage.
+
+#### Laning
+
+1.  Attack
+2.  ![Yo-Yo Blitz](/images/mlbb/skills/cici-1.webp)1
+3.  ![Buoyant Bounce](/images/mlbb/skills/cici-2.webp)2
+
+In the laning phase, use Cici's Basic Attacks to stack some Delight before using her 1st Skill on the opponent, and use her 2nd Skill if they attempt an escape.
+
+### When strongest
+
+Even through the game, from 48.6% to 50.1%. Pick fights by your items rather than the clock.
+
+1.  **48.6**10–12
+2.  **49.3**12–14
+3.  **49.7**14–16
+4.  **49.7**16–18
+5.  **50.1**18–20
+6.  **50.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/cici-3.webp)Curtain Call
+2.  ![](/images/mlbb/skills/cici-1.webp)Yo-Yo Blitz
+3.  ![](/images/mlbb/skills/cici-2.webp)Buoyant Bounce
+
+## Skills
 
 ![](/images/mlbb/skills/cici-0.webp)Passive**Performer's Delight**![](/images/mlbb/skills/cici-1.webp)Skill 1**Yo-Yo Blitz**![](/images/mlbb/skills/cici-2.webp)Skill 2**Buoyant Bounce**![](/images/mlbb/skills/cici-3.webp)Ultimate**Curtain Call**
 
@@ -288,17 +325,13 @@ Cici throws Yoyo at the target enemy hero and links them with another nearby ene
 
 During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the same time. If only one target is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced to 25%.
 
-## Counters
+## Cici counters
 
-### Counters
-
-Beat this hero
+### Who counters Cici
 
 [![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)
 
-### Easy targets
-
-This hero beats them
+### Who Cici counters
 
 [![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
@@ -317,6 +350,10 @@ This hero beats them
 Who counters Cici in MLBB?
 
 Over the last 30 days the toughest opponents are Balmond, Thamuz, Alice, Hylos and Belerick.
+
+How do you play Cici?
+
+Level "Yo-Yo Blitz" first and take the ultimate whenever it is available. Even through the game, from 48.6% to 50.1%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, find two enemy heroes that are close together and toss Cici's Ultimate on one of them, then use her 2nd Skill to jump in and pop her 1st Skill mid-leap to start dealing continuous damage.
 
 What is Cici’s win rate right now?
 

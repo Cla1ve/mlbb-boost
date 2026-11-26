@@ -1,6 +1,6 @@
 ---
-title: "Floryn MLBB: build, counters and skills | MLBB Boost"
-description: "Floryn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.94% win rate, tier B."
+title: "Floryn MLBB: build, combos and counters | MLBB Boost"
+description: "Floryn in Mobile Legends: ranked build, skill combos, how to play and who counters Floryn. Support, 53.94% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/floryn.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 13.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,45 @@ Support
     Focusing Mark
 
 
-## Skills
+## How to play Floryn
 
-Level-up**Bloom**_›_**Sow**_›_**Sprout**
+### Floryn combos
+
+#### Teamfight
+
+1.  ![Sow](/images/mlbb/skills/floryn-1.webp)1
+2.  ![Sprout](/images/mlbb/skills/floryn-2.webp)2
+3.  ![Bloom](/images/mlbb/skills/floryn-3.webp)Ult
+
+In teamfights, use Floryn's 2nd Skill to CC enemies, and her 1st Skill for damage and healing. When a teammate is in bad shape, use Floryn's Ultimate to save them.
+
+#### Laning
+
+1.  ![Sow](/images/mlbb/skills/floryn-1.webp)1
+2.  ![Sprout](/images/mlbb/skills/floryn-2.webp)2
+
+In the laning phase, use Floryn's 2nd Skill to stun enemies, then follow up with her 1st Skill for damage and healing.
+
+### When strongest
+
+Stronger early: 58.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **58.0**10–12
+2.  **56.1**12–14
+3.  **54.1**14–16
+4.  **51.7**16–18
+5.  **49.9**18–20
+6.  **47.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/floryn-3.webp)Bloom
+2.  ![](/images/mlbb/skills/floryn-1.webp)Sow
+3.  ![](/images/mlbb/skills/floryn-2.webp)Sprout
+
+## Skills
 
 ![](/images/mlbb/skills/floryn-0.webp)Passive**Dew**![](/images/mlbb/skills/floryn-1.webp)Skill 1**Sow**![](/images/mlbb/skills/floryn-2.webp)Skill 2**Sprout**![](/images/mlbb/skills/floryn-3.webp)Ultimate**Bloom**
 
@@ -286,17 +322,13 @@ Cooldown **70 Mana Cost: 150 s**
 
 Floryn resonates with Dew's power, recovering 250 (+100% Total Magic Power) HP for all allied heroes 2 time(s) no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2s.
 
-## Counters
+## Floryn counters
 
-### Counters
-
-Beat this hero
+### Who counters Floryn
 
 [![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
-### Easy targets
-
-This hero beats them
+### Who Floryn counters
 
 [![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
@@ -315,6 +347,10 @@ This hero beats them
 Who counters Floryn in MLBB?
 
 Over the last 30 days the toughest opponents are Marcel, Alice, X.Borg, Ling and Faramis.
+
+How do you play Floryn?
+
+Level "Sow" first and take the ultimate whenever it is available. Stronger early: 58.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Floryn's 2nd Skill to CC enemies, and her 1st Skill for damage and healing. When a teammate is in bad shape, use Floryn's Ultimate to save them.
 
 What is Floryn’s win rate right now?
 

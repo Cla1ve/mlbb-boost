@@ -1,6 +1,6 @@
 ---
-title: "Chang'e MLBB: build, counters and skills | MLBB Boost"
-description: "Chang'e in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.04% win rate, tier C."
+title: "Chang'e MLBB: build, combos and counters | MLBB Boost"
+description: "Chang'e in Mobile Legends: ranked build, skill combos, how to play and who counters Chang'e. Mage, 46.04% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/change.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Chang'e
 
-Level-up**Meteor Shower**_›_**Starmoon Shockwave**_›_**Crescent Moon**
+### Chang'e combos
+
+#### Teamfight
+
+1.  ![Crescent Moon](/images/mlbb/skills/change-2.webp)2
+2.  ![Starmoon Shockwave](/images/mlbb/skills/change-1.webp)1
+3.  ![Meteor Shower](/images/mlbb/skills/change-3.webp)Ult
+
+In teamfights, get the shield from Chang'e's 2nd Skill, then use her 1st Skill to poke enemies, and follow up with her Ultimate if the 1st Skill was on target. Chang'e needs to move around during her Ultimate to keep herself safe and make sure the meteors can hit the target.
+
+#### Laning
+
+1.  ![Crescent Moon](/images/mlbb/skills/change-2.webp)2
+2.  Attack
+3.  ![Starmoon Shockwave](/images/mlbb/skills/change-1.webp)1
+4.  ![Meteor Shower](/images/mlbb/skills/change-3.webp)Ult
+
+In the laning phase, get the buff from Chang'e's 2nd Skill first, then mark the enemy with her Basic Attacks. Cast her 1st Skill to slow down low HP enemy, and finish them off with her Ultimate.
+
+### When strongest
+
+Stronger late: 51.5% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **45.8**10–12
+2.  **46.5**12–14
+3.  **47.0**14–16
+4.  **49.9**16–18
+5.  **51.3**18–20
+6.  **51.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/change-3.webp)Meteor Shower
+2.  ![](/images/mlbb/skills/change-1.webp)Starmoon Shockwave
+3.  ![](/images/mlbb/skills/change-2.webp)Crescent Moon
+
+## Skills
 
 ![](/images/mlbb/skills/change-0.webp)Passive**Trouble Maker**![](/images/mlbb/skills/change-1.webp)Skill 1**Starmoon Shockwave**![](/images/mlbb/skills/change-2.webp)Skill 2**Crescent Moon**![](/images/mlbb/skills/change-3.webp)Ultimate**Meteor Shower**
 
@@ -291,17 +329,13 @@ Chang'e gains 10% Movement Speed for 4s. During this time, she fires 30 meteors 
 
 **Crescent Moon:** Fires meteors alongside Chang'e, each dealing 33% damage.
 
-## Counters
+## Chang'e counters
 
-### Counters
-
-Beat this hero
+### Who counters Chang'e
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
-### Easy targets
-
-This hero beats them
+### Who Chang'e counters
 
 [![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -320,6 +354,10 @@ This hero beats them
 Who counters Chang'e in MLBB?
 
 Over the last 30 days the toughest opponents are Diggie, Balmond, Martis, X.Borg and Alpha.
+
+How do you play Chang'e?
+
+Level "Starmoon Shockwave" first and take the ultimate whenever it is available. Stronger late: 51.5% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, get the shield from Chang'e's 2nd Skill, then use her 1st Skill to poke enemies, and follow up with her Ultimate if the 1st Skill was on target. Chang'e needs to move around during her Ultimate to keep herself safe and make sure the meteors can hit the target.
 
 What is Chang'e’s win rate right now?
 

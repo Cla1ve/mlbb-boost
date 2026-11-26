@@ -1,6 +1,6 @@
 ---
-title: "Hirara MLBB: build, counters and skills | MLBB Boost"
-description: "Hirara in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.52% win rate, tier S."
+title: "Hirara MLBB: build, combos and counters | MLBB Boost"
+description: "Hirara in Mobile Legends: ranked build, skill combos, how to play and who counters Hirara. Assassin, 49.52% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/hirara.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 84.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Assassin
     Impure Rage
 
 
-## Skills
+## How to play Hirara
 
-Level-up**Kaerazu**_›_**Meisen-e**
+### Hirara combos
+
+#### Jungle
+
+1.  ![Meisen-e](/images/mlbb/skills/hirara-1.webp)1
+2.  ![Kaerazu](/images/mlbb/skills/hirara-2.webp)Ult
+3.  ![Meisen-e](/images/mlbb/skills/hirara-1.webp)1
+
+In the laning phase, use Hirara's 1st Skill to close in, then use a 1st + 2nd Combo Skill to immobilize the target. Follow up with a 2nd + 1st Combo Skill to deal heavy damage and dash away to safety.
+
+#### Teamfight
+
+1.  ![Meisen-e](/images/mlbb/skills/hirara-1.webp)1
+2.  ![Kaerazu](/images/mlbb/skills/hirara-2.webp)Ult
+3.  ![Meisen-e](/images/mlbb/skills/hirara-1.webp)1
+4.  ![Kaerazu](/images/mlbb/skills/hirara-2.webp)Ult
+
+In teamfights, wait for the enemy backline to become isolated and use Hirara's 1st Skill to dive in. Use a 1st + 2nd Combo Skill to deal damage and apply CC, then follow up with a 2nd + 1st Combo Skill to burst the target down and dash out of the enemy formation. Finally, use her 2nd Skill to deal additional damage.
+
+### When strongest
+
+Stronger early: 51.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **51.8**10–12
+2.  **50.8**12–14
+3.  **49.7**14–16
+4.  **49.1**16–18
+5.  **48.9**18–20
+6.  **49.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/hirara-2.webp)Kaerazu
+2.  ![](/images/mlbb/skills/hirara-1.webp)Meisen-e
+
+## Skills
 
 ![](/images/mlbb/skills/hirara-0.webp)Passive**Twin Fans: Ukifune**![](/images/mlbb/skills/hirara-1.webp)Skill 1**Meisen-e**![](/images/mlbb/skills/hirara-2.webp)Ultimate**Kaerazu**
 
@@ -281,11 +318,9 @@ Hirara uses Kaerazu to unleash the Crimson Maple, dealing 165 (+42% Extra Physic
 
 After a short delay, she deals damage again at the target location, dealing 2 times the initial Crimson Maple damage.
 
-## Counters
+## Hirara counters
 
-### Counters
-
-Beat this hero
+### Who counters Hirara
 
 [![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -304,6 +339,10 @@ Beat this hero
 Who counters Hirara in MLBB?
 
 Over the last 30 days the toughest opponents are Karina, Hanzo, X.Borg, Yin and Lolita.
+
+How do you play Hirara?
+
+Level "Meisen-e" first and take the ultimate whenever it is available. Stronger early: 51.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, wait for the enemy backline to become isolated and use Hirara's 1st Skill to dive in. Use a 1st + 2nd Combo Skill to deal damage and apply CC, then follow up with a 2nd + 1st Combo Skill to burst the target down and dash out of the enemy formation. Finally, use her 2nd Skill to deal additional damage.
 
 What is Hirara’s win rate right now?
 

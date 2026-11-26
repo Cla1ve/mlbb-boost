@@ -1,6 +1,6 @@
 ---
-title: "Бальмонд MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Бальмонд в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 45,10% побед, тир C."
+title: "Бальмонд MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Бальмонд, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Бальмонда. Боец, 45,10% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/balmond.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -247,9 +247,47 @@ C
     Ударная волна
 
 
-## Навыки
+## Как играть за Бальмонда
 
-Прокачка**Смертельное противостояние**_›_**Удар торнадо**_›_**Ловушка для души**
+### Комбо Бальмонда
+
+#### В драке
+
+1.  ![Ловушка для души](/images/mlbb/skills/balmond-1.webp)1
+2.  ![Удар торнадо](/images/mlbb/skills/balmond-2.webp)2
+3.  ![Смертельное противостояние](/images/mlbb/skills/balmond-3.webp)Ульт
+
+Подойдите ловушкой для души, крутитесь ударом торнадо и добивайте ультом.
+
+#### На линии
+
+1.  ![Ловушка для души](/images/mlbb/skills/balmond-1.webp)1
+2.  ![Удар торнадо](/images/mlbb/skills/balmond-2.webp)2
+3.  Атака
+4.  ![Смертельное противостояние](/images/mlbb/skills/balmond-3.webp)Ульт
+
+Подойдите ловушкой для души, крутитесь ударом торнадо и добивайте ультом.
+
+### Когда сильнее всего
+
+Сильнее в долгой игре: после 20-й минуты выигрывает 48,2%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.
+
+1.  **43,0**10–12
+2.  **44,6**12–14
+3.  **46,0**14–16
+4.  **46,4**16–18
+5.  **47,2**18–20
+6.  **48,2**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/balmond-3.webp)Смертельное противостояние
+2.  ![](/images/mlbb/skills/balmond-2.webp)Удар торнадо
+3.  ![](/images/mlbb/skills/balmond-1.webp)Ловушка для души
+
+## Навыки
 
 ![](/images/mlbb/skills/balmond-0.webp)Пассивный**Кровожадность**![](/images/mlbb/skills/balmond-1.webp)1-й навык**Ловушка для души**![](/images/mlbb/skills/balmond-2.webp)2-й навык**Удар торнадо**![](/images/mlbb/skills/balmond-3.webp)Ультимейт**Смертельное противостояние**
 
@@ -289,17 +327,13 @@ C
 
 Урон по целям, не являющимся героями, ограничен 1000 ед. чистого урона.
 
-## Контрпики
+## Контрпики Бальмонда
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Бальмонда
 
 [![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/martis.webp)Мартис](https://boostmlbb.ru/heroes/martis.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Бальмонд
 
 [![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)
 
@@ -315,22 +349,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Бальмонд» в MLBB?
+Кто контрит Бальмонда в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Сабер, Лукас, Бартс, Чип и Мартис.
+За последние 30 дней Бальмонда чаще всего обыгрывают Сабер, Лукас, Бартс, Чип и Мартис.
 
-Какой процент побед у героя «Бальмонд» сейчас?
+Как играть за Бальмонда?
+
+В первую очередь качайте «Удар торнадо», ульт берите, как только доступен. Сильнее в долгой игре: после 20-й минуты выигрывает 48,2%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой. Комбо для драки: Подойдите ловушкой для души, крутитесь ударом торнадо и добивайте ультом.
+
+Какой процент побед у Бальмонда сейчас?
 
 45,10% в Мифической славе за последние 7 дней и 46,62% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Бальмонд»?
+Какая роль и линия у Бальмонда?
 
 Боец, играет на линии опыта или в лесу.
 
-Силён ли герой «Бальмонд» в текущей мете?
+Стоит ли брать Бальмонда в текущей мете?
 
 Тир C, 124-е место из 133 героев и 42-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,3% катков.
 
-Какая сборка на героя «Бальмонд» лучшая?
+Какая сборка на Бальмонда лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Проклятый шлем», «Топор войны» и «Крылья королевы», эмблема танка с талантами «Живучесть», «Кровавое пиршество» и «Убийственный пир» и заклинание «Месть». С ней выигрывают 53,32% матчей.

@@ -1,6 +1,6 @@
 ---
-title: "Valir MLBB: build, counters and skills | MLBB Boost"
-description: "Valir in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 53.47% win rate, tier A."
+title: "Valir MLBB: build, combos and counters | MLBB Boost"
+description: "Valir in Mobile Legends: ranked build, skill combos, how to play and who counters Valir. Mage, 53.47% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/valir.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 4.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -186,9 +186,48 @@ Common
     Impure Rage
 
 
-## Skills
+## How to play Valir
 
-Level-up**Vengeance Flame**_›_**Burst Fireball**_›_**Searing Torrent**
+### Valir combos
+
+#### Teamfight
+
+1.  ![Vengeance Flame](/images/mlbb/skills/valir-3.webp)Ult
+2.  ![Burst Fireball](/images/mlbb/skills/valir-1.webp)1
+3.  ![Burst Fireball](/images/mlbb/skills/valir-1.webp)1
+4.  ![Searing Torrent](/images/mlbb/skills/valir-2.webp)2
+5.  ![Burst Fireball](/images/mlbb/skills/valir-1.webp)1
+
+In teamfights, activate Valir's Ultimate to enhance his skills, then blast the enemy with his 1st Skill. If the enemy tries to get close, use his 2nd Skill to push them away, and hit them with his 1st Skill for high damage.
+
+#### Laning
+
+1.  ![Burst Fireball](/images/mlbb/skills/valir-1.webp)1
+2.  ![Searing Torrent](/images/mlbb/skills/valir-2.webp)2
+3.  ![Burst Fireball](/images/mlbb/skills/valir-1.webp)1
+
+In the laning phase, harass enemies with Valir's 1st Skill until their HP is low, then cast his 2nd Skill to push them back and follow up immediately with his 1st Skill for burst damage.
+
+### When strongest
+
+Stronger early: 58.5% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **58.5**10–12
+2.  **55.3**12–14
+3.  **53.6**14–16
+4.  **52.6**16–18
+5.  **52.3**18–20
+6.  **51.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/valir-3.webp)Vengeance Flame
+2.  ![](/images/mlbb/skills/valir-1.webp)Burst Fireball
+3.  ![](/images/mlbb/skills/valir-2.webp)Searing Torrent
+
+## Skills
 
 ![](/images/mlbb/skills/valir-0.webp)Passive**Ashing**![](/images/mlbb/skills/valir-1.webp)Skill 1**Burst Fireball**![](/images/mlbb/skills/valir-2.webp)Skill 2**Searing Torrent**![](/images/mlbb/skills/valir-3.webp)Ultimate**Vengeance Flame**
 
@@ -234,17 +273,13 @@ Cooldown **36 Mana Cost: 100 s**
 
 Valir removes all debuffs on himself and gains 40% Movement Speed that decays over 3s. Meanwhile, he conjures 4 Vengeance Flames that enhance Burst Fireball and Searing Torrent for 9s.
 
-## Counters
+## Valir counters
 
-### Counters
-
-Beat this hero
+### Who counters Valir
 
 [![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
-### Easy targets
-
-This hero beats them
+### Who Valir counters
 
 [![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
@@ -263,6 +298,10 @@ This hero beats them
 Who counters Valir in MLBB?
 
 Over the last 30 days the toughest opponents are Fredrinn, Alice, Balmond, Leomord and Hylos.
+
+How do you play Valir?
+
+Level "Burst Fireball" first and take the ultimate whenever it is available. Stronger early: 58.5% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, activate Valir's Ultimate to enhance his skills, then blast the enemy with his 1st Skill. If the enemy tries to get close, use his 2nd Skill to push them away, and hit them with his 1st Skill for high damage.
 
 What is Valir’s win rate right now?
 

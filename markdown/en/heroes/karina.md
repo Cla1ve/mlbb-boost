@@ -1,6 +1,6 @@
 ---
-title: "Karina MLBB: build, counters and skills | MLBB Boost"
-description: "Karina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.16% win rate, tier B."
+title: "Karina MLBB: build, combos and counters | MLBB Boost"
+description: "Karina in Mobile Legends: ranked build, skill combos, how to play and who counters Karina. Assassin, 49.16% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/karina.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 4.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Mage
     Killing Spree
 
 
-## Skills
+## How to play Karina
 
-Level-up**Shadow Assault**_›_**Dance of Death**_›_**Dance of Blades**
+### Karina combos
+
+#### Teamfight
+
+1.  ![Dance of Blades](/images/mlbb/skills/karina-1.webp)1
+2.  ![Shadow Assault](/images/mlbb/skills/karina-3.webp)Ult
+3.  ![Dance of Death](/images/mlbb/skills/karina-2.webp)2
+4.  ![Shadow Assault](/images/mlbb/skills/karina-3.webp)Ult
+5.  Attack
+
+In teamfights, close in on the enemy using Karina's 1st Skill and cut into their formation with her Ultimate. Use her 2nd Skill for a quick AOE followed by her Ultimate to dash back to her Shadowform. Finally, use her 1st Skill again and enhanced Basic Attacks to chase down enemies.
+
+#### Laning
+
+1.  ![Dance of Blades](/images/mlbb/skills/karina-1.webp)1
+2.  Attack
+3.  ![Dance of Death](/images/mlbb/skills/karina-2.webp)2
+4.  Attack
+
+In the laning phase, use Karina's 1st Skill first to enter the Dance of Blades state and pounce on the enemy using the dash from her enhanced Basic Attack. Follow up with her 2nd Skill and Basic Attacks to trigger her Passive.
+
+### When strongest
+
+Stronger late: 54.1% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **40.2**10–12
+2.  **47.2**12–14
+3.  **50.8**14–16
+4.  **53.2**16–18
+5.  **54.1**18–20
+6.  **53.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/karina-3.webp)Shadow Assault
+2.  ![](/images/mlbb/skills/karina-2.webp)Dance of Death
+3.  ![](/images/mlbb/skills/karina-1.webp)Dance of Blades
+
+## Skills
 
 ![](/images/mlbb/skills/karina-0.webp)Passive**Shadow Combo**![](/images/mlbb/skills/karina-1.webp)Skill 1**Dance of Blades**![](/images/mlbb/skills/karina-2.webp)Skill 2**Dance of Death**![](/images/mlbb/skills/karina-3.webp)Ultimate**Shadow Assault**
 
@@ -295,17 +335,13 @@ The Shadow Sigil and Shadowform both last 5s. If the target dies during this tim
 
 **Use Again:** Karina dashes back to the Shadowform's location, dealing 150 (+50% Total Magic Power) Magic Damage to enemies along the way.
 
-## Counters
+## Karina counters
 
-### Counters
-
-Beat this hero
+### Who counters Karina
 
 [![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
-### Easy targets
-
-This hero beats them
+### Who Karina counters
 
 [![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
@@ -324,6 +360,10 @@ This hero beats them
 Who counters Karina in MLBB?
 
 Over the last 30 days the toughest opponents are Natalia, Kimmy, Marcel, Ling and Helcurt.
+
+How do you play Karina?
+
+Level "Dance of Death" first and take the ultimate whenever it is available. Stronger late: 54.1% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, close in on the enemy using Karina's 1st Skill and cut into their formation with her Ultimate. Use her 2nd Skill for a quick AOE followed by her Ultimate to dash back to her Shadowform. Finally, use her 1st Skill again and enhanced Basic Attacks to chase down enemies.
 
 What is Karina’s win rate right now?
 

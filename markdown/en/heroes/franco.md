@@ -1,6 +1,6 @@
 ---
-title: "Franco MLBB: build, counters and skills | MLBB Boost"
-description: "Franco in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 40.55% win rate, tier C."
+title: "Franco MLBB: build, combos and counters | MLBB Boost"
+description: "Franco in Mobile Legends: ranked build, skill combos, how to play and who counters Franco. Tank, 40.55% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/franco.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Tank
     Focusing Mark
 
 
-## Skills
+## How to play Franco
 
-Level-up**Bloody Hunt**_›_**Iron Hook**_›_**Fury Shock**
+### Franco combos
+
+#### Teamfight
+
+1.  ![Bloody Hunt](/images/mlbb/skills/franco-3.webp)Ult
+2.  ![Iron Hook](/images/mlbb/skills/franco-1.webp)1
+3.  ![Fury Shock](/images/mlbb/skills/franco-2.webp)2
+4.  Attack
+
+Use Flicker to reach key targets for his Ultimate. Follow up with 1st Skill to extend the CC, then 2nd Skill to deal damage and slow.
+
+#### Laning
+
+1.  ![Iron Hook](/images/mlbb/skills/franco-1.webp)1
+2.  ![Fury Shock](/images/mlbb/skills/franco-2.webp)2
+3.  ![Bloody Hunt](/images/mlbb/skills/franco-3.webp)Ult
+
+Use 1st Skill to hook the enemy into a bad position. Follow up with 2nd Skill to slow, then Ultimate to suppress and secure a kill.
+
+### When strongest
+
+Stronger late: 45.6% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **38.0**10–12
+2.  **40.5**12–14
+3.  **41.0**14–16
+4.  **42.7**16–18
+5.  **43.8**18–20
+6.  **45.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/franco-3.webp)Bloody Hunt
+2.  ![](/images/mlbb/skills/franco-1.webp)Iron Hook
+3.  ![](/images/mlbb/skills/franco-2.webp)Fury Shock
+
+## Skills
 
 ![](/images/mlbb/skills/franco-0.webp)Passive**Wasteland Force**![](/images/mlbb/skills/franco-1.webp)Skill 1**Iron Hook**![](/images/mlbb/skills/franco-2.webp)Skill 2**Fury Shock**![](/images/mlbb/skills/franco-3.webp)Ultimate**Bloody Hunt**
 
@@ -285,17 +323,13 @@ Cooldown **62 Mana Cost: 110 s**
 
 Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50 (+70% Total Physical Attack) Physical Damage.
 
-## Counters
+## Franco counters
 
-### Counters
-
-Beat this hero
+### Who counters Franco
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
 
-### Easy targets
-
-This hero beats them
+### Who Franco counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
@@ -314,6 +348,10 @@ This hero beats them
 Who counters Franco in MLBB?
 
 Over the last 30 days the toughest opponents are Diggie, Angela, Fanny, Floryn and Estes.
+
+How do you play Franco?
+
+Level "Iron Hook" first and take the ultimate whenever it is available. Stronger late: 45.6% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: Use Flicker to reach key targets for his Ultimate. Follow up with 1st Skill to extend the CC, then 2nd Skill to deal damage and slow.
 
 What is Franco’s win rate right now?
 

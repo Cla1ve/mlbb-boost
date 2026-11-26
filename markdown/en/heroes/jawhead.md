@@ -1,6 +1,6 @@
 ---
-title: "Jawhead MLBB: build, counters and skills | MLBB Boost"
-description: "Jawhead in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.53% win rate, tier C."
+title: "Jawhead MLBB: build, combos and counters | MLBB Boost"
+description: "Jawhead in Mobile Legends: ranked build, skill combos, how to play and who counters Jawhead. Fighter, 47.53% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/jawhead.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,48 @@ Assassin
     Killing Spree
 
 
-## Skills
+## How to play Jawhead
 
-Level-up**Unstoppable Force**_›_**Smart Missiles**_›_**Ejector**
+### Jawhead combos
+
+#### Teamfight
+
+1.  ![Ejector](/images/mlbb/skills/jawhead-2.webp)2
+2.  ![Smart Missiles](/images/mlbb/skills/jawhead-1.webp)1
+3.  ![Unstoppable Force](/images/mlbb/skills/jawhead-3.webp)Ult
+4.  ![Ejector](/images/mlbb/skills/jawhead-2.webp)2
+
+In teamfights, use Jawhead's 2nd Skill for the Movement Speed and start up his 1st Skill then immediately charge into a target using his Ultimate. Finally, use his 2nd Skill to toss the enemy back.
+
+#### Laning
+
+1.  ![Ejector](/images/mlbb/skills/jawhead-2.webp)2
+2.  ![Smart Missiles](/images/mlbb/skills/jawhead-1.webp)1
+3.  Attack
+4.  ![Ejector](/images/mlbb/skills/jawhead-2.webp)2
+
+In the laning phase, use Jawhead's 2nd Skill to get close to the enemy, then follow up with his 1st Skill and Basic Attacks to deal continuous damage. When the enemy tries to run, use his 2nd Skill again to toss them back.
+
+### When strongest
+
+Even through the game, from 48.6% to 50.2%. Pick fights by your items rather than the clock.
+
+1.  **48.7**10–12
+2.  **49.4**12–14
+3.  **50.2**14–16
+4.  **49.6**16–18
+5.  **48.8**18–20
+6.  **48.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/jawhead-3.webp)Unstoppable Force
+2.  ![](/images/mlbb/skills/jawhead-1.webp)Smart Missiles
+3.  ![](/images/mlbb/skills/jawhead-2.webp)Ejector
+
+## Skills
 
 ![](/images/mlbb/skills/jawhead-0.webp)Passive**Mecha Suppression**![](/images/mlbb/skills/jawhead-1.webp)Skill 1**Smart Missiles**![](/images/mlbb/skills/jawhead-2.webp)Skill 2**Ejector**![](/images/mlbb/skills/jawhead-3.webp)Ultimate**Unstoppable Force**
 
@@ -285,17 +324,13 @@ Cooldown **35 Mana Cost: 120 s**
 
 Jawhead charges into the target enemy hero, dealing 350 (+150% Total Physical Attack) Physical Damage and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
 
-## Counters
+## Jawhead counters
 
-### Counters
-
-Beat this hero
+### Who counters Jawhead
 
 [![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
-### Easy targets
-
-This hero beats them
+### Who Jawhead counters
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 
@@ -314,6 +349,10 @@ This hero beats them
 Who counters Jawhead in MLBB?
 
 Over the last 30 days the toughest opponents are Arlott, Nolan, Saber, Granger and Helcurt.
+
+How do you play Jawhead?
+
+Level "Smart Missiles" first and take the ultimate whenever it is available. Even through the game, from 48.6% to 50.2%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Jawhead's 2nd Skill for the Movement Speed and start up his 1st Skill then immediately charge into a target using his Ultimate. Finally, use his 2nd Skill to toss the enemy back.
 
 What is Jawhead’s win rate right now?
 

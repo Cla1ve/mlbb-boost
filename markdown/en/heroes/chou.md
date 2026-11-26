@@ -1,6 +1,6 @@
 ---
-title: "Chou MLBB: build, counters and skills | MLBB Boost"
-description: "Chou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 44.65% win rate, tier B."
+title: "Chou MLBB: build, combos and counters | MLBB Boost"
+description: "Chou in Mobile Legends: ranked build, skill combos, how to play and who counters Chou. Fighter, 44.65% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/chou.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Chou
 
-Level-up**The Way of Dragon**_›_**Jeet Kune Do**_›_**Shunpo**
+### Chou combos
+
+#### Teamfight
+
+1.  ![Shunpo](/images/mlbb/skills/chou-2.webp)2
+2.  ![Jeet Kune Do](/images/mlbb/skills/chou-1.webp)1
+3.  ![The Way of Dragon](/images/mlbb/skills/chou-3.webp)Ult
+
+In teamfights, use Chou's 2nd and 1st Skill to get next to a key target, then use his Ultimate to knock them out of position and secure the kill with his team.
+
+#### Laning
+
+1.  ![Shunpo](/images/mlbb/skills/chou-2.webp)2
+2.  ![Jeet Kune Do](/images/mlbb/skills/chou-1.webp)1
+3.  ![Shunpo](/images/mlbb/skills/chou-2.webp)2
+4.  ![The Way of Dragon](/images/mlbb/skills/chou-3.webp)Ult
+
+In the laning phase, use Chou's 2nd Skill to get close to the enemy and follow up with his 1st Skill for multiple strikes. After landing the 3rd strike of his 1st Skill, use the refreshed 2nd Skill to stay on the target and finish them with his Ultimate.
+
+### When strongest
+
+Stronger late: 49.9% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **43.1**10–12
+2.  **44.8**12–14
+3.  **45.3**14–16
+4.  **47.0**16–18
+5.  **48.0**18–20
+6.  **49.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/chou-3.webp)The Way of Dragon
+2.  ![](/images/mlbb/skills/chou-1.webp)Jeet Kune Do
+3.  ![](/images/mlbb/skills/chou-2.webp)Shunpo
+
+## Skills
 
 ![](/images/mlbb/skills/chou-0.webp)Passive**Only Fast**![](/images/mlbb/skills/chou-1.webp)Skill 1**Jeet Kune Do**![](/images/mlbb/skills/chou-2.webp)Skill 2**Shunpo**![](/images/mlbb/skills/chou-3.webp)Ultimate**The Way of Dragon**
 
@@ -287,11 +325,9 @@ Chou strikes a roundhouse kick at the target enemy hero, dealing them 400 (+200%
 
 Cast the skill again to chase up the target, dealing a total of 480 (+240% Extra Physical Attack) Physical Damage.
 
-## Counters
+## Chou counters
 
-### Counters
-
-Beat this hero
+### Who counters Chou
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -310,6 +346,10 @@ Beat this hero
 Who counters Chou in MLBB?
 
 Over the last 30 days the toughest opponents are X.Borg, Fanny, Beatrix, Ixia and Natalia.
+
+How do you play Chou?
+
+Level "Jeet Kune Do" first and take the ultimate whenever it is available. Stronger late: 49.9% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Chou's 2nd and 1st Skill to get next to a key target, then use his Ultimate to knock them out of position and secure the kill with his team.
 
 What is Chou’s win rate right now?
 

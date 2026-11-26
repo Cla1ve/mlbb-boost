@@ -1,6 +1,6 @@
 ---
-title: "Selena MLBB: build, counters and skills | MLBB Boost"
-description: "Selena in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.32% win rate, tier A."
+title: "Selena MLBB: build, combos and counters | MLBB Boost"
+description: "Selena in Mobile Legends: ranked build, skill combos, how to play and who counters Selena. Assassin and mage, 48.32% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/selena.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 3.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,48 @@ Mage
     Quantum Charge
 
 
-## Skills
+## How to play Selena
 
-Level-up**Primal Darkness**_›_**Abyssal Trap**_›_**Abyssal Arrow**
+### Selena combos
+
+#### Teamfight
+
+1.  ![Abyssal Trap](/images/mlbb/skills/selena-1.webp)1
+2.  ![Abyssal Arrow](/images/mlbb/skills/selena-2.webp)2
+3.  ![Primal Darkness](/images/mlbb/skills/selena-3.webp)Ult
+4.  ![Abyssal Arrow](/images/mlbb/skills/selena-2.webp)2
+5.  ![Abyssal Trap](/images/mlbb/skills/selena-1.webp)1
+6.  ![Abyssal Arrow](/images/mlbb/skills/selena-2.webp)2
+
+Stay in Elven Form to cast her 1st and 2nd skill combo to catch the enemy hero in distance. Then cast her Ultimate to enter her Abyssal Form. Follow with her 2nd and 1st skill combo to close in and finish off the target, then cast her 2nd Skill to dash away.
+
+#### Laning
+
+1.  ![Abyssal Arrow](/images/mlbb/skills/selena-2.webp)2
+2.  ![Abyssal Trap](/images/mlbb/skills/selena-1.webp)1
+
+Elven Form Selena can use her 2nd Skill to stun the enemy, then use her 1st Skill to poke enemies and deal damage.
+
+### When strongest
+
+Stronger late: 49.4% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **46.2**10–12
+2.  **48.9**12–14
+3.  **49.4**14–16
+4.  **49.4**16–18
+5.  **48.8**18–20
+6.  **49.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/selena-3.webp)Primal Darkness
+2.  ![](/images/mlbb/skills/selena-1.webp)Abyssal Trap
+3.  ![](/images/mlbb/skills/selena-2.webp)Abyssal Arrow
+
+## Skills
 
 ![](/images/mlbb/skills/selena-0.webp)Passive**Symbiosis**![](/images/mlbb/skills/selena-1.webp)Skill 1**Abyssal Trap**![](/images/mlbb/skills/selena-2.webp)Skill 2**Abyssal Arrow**![](/images/mlbb/skills/selena-3.webp)Ultimate**Primal Darkness**
 
@@ -298,17 +337,13 @@ Cooldown **5.5 s**
 
 **Active:** Selena enters Abyssal Form and gains 20% Movement Speed for 0.8s. This also immediately resets the cooldown of Soul Eater and Garotte.
 
-## Counters
+## Selena counters
 
-### Counters
-
-Beat this hero
+### Who counters Selena
 
 [![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
-### Easy targets
-
-This hero beats them
+### Who Selena counters
 
 [![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
@@ -327,6 +362,10 @@ This hero beats them
 Who counters Selena in MLBB?
 
 Over the last 30 days the toughest opponents are Benedetta, Ixia, X.Borg, Beatrix and Yin.
+
+How do you play Selena?
+
+Level "Abyssal Trap" first and take the ultimate whenever it is available. Stronger late: 49.4% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: Stay in Elven Form to cast her 1st and 2nd skill combo to catch the enemy hero in distance. Then cast her Ultimate to enter her Abyssal Form. Follow with her 2nd and 1st skill combo to close in and finish off the target, then cast her 2nd Skill to dash away.
 
 What is Selena’s win rate right now?
 

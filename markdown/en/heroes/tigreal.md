@@ -1,6 +1,6 @@
 ---
-title: "Tigreal MLBB: build, counters and skills | MLBB Boost"
-description: "Tigreal in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 45.08% win rate, tier B."
+title: "Tigreal MLBB: build, combos and counters | MLBB Boost"
+description: "Tigreal in Mobile Legends: ranked build, skill combos, how to play and who counters Tigreal. Tank, 45.08% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/tigreal.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 4.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Tigreal
 
-Level-up**Implosion**_›_**Attack Wave**_›_**Sacred Hammer**
+### Tigreal combos
+
+#### Teamfight
+
+1.  ![Sacred Hammer](/images/mlbb/skills/tigreal-2.webp)2
+2.  ![Implosion](/images/mlbb/skills/tigreal-3.webp)Ult
+3.  ![Sacred Hammer](/images/mlbb/skills/tigreal-2.webp)2
+4.  ![Attack Wave](/images/mlbb/skills/tigreal-1.webp)1
+
+In teamfights, Tigreal should cast his 2nd Skill to charge in and then pull the enemy team towards him with his Ultimate. At the end of his CC, cast his 2nd Skill again to extend it, then use his 1st Skill to deal damage.
+
+#### Laning
+
+1.  ![Sacred Hammer](/images/mlbb/skills/tigreal-2.webp)2
+2.  ![Sacred Hammer](/images/mlbb/skills/tigreal-2.webp)2
+3.  ![Attack Wave](/images/mlbb/skills/tigreal-1.webp)1
+
+In the laning phase, Tigreal can use his 2nd Skill to charge the enemy target and knock them airborne by casting it again. He then finishes with his 1st Skill to deal damage.
+
+### When strongest
+
+Stronger late: 47.9% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **43.0**10–12
+2.  **44.1**12–14
+3.  **45.4**14–16
+4.  **46.3**16–18
+5.  **47.0**18–20
+6.  **47.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/tigreal-3.webp)Implosion
+2.  ![](/images/mlbb/skills/tigreal-1.webp)Attack Wave
+3.  ![](/images/mlbb/skills/tigreal-2.webp)Sacred Hammer
+
+## Skills
 
 ![](/images/mlbb/skills/tigreal-0.webp)Passive**Fearless**![](/images/mlbb/skills/tigreal-1.webp)Skill 1**Attack Wave**![](/images/mlbb/skills/tigreal-2.webp)Skill 2**Sacred Hammer**![](/images/mlbb/skills/tigreal-3.webp)Ultimate**Implosion**
 
@@ -290,17 +328,13 @@ Tigreal unleashes the power of his hammer, pulling nearby enemies to him, dealin
 
 The first half of the channeling can be interrupted by control effects, while the second half can only be interrupted by Suppression.
 
-## Counters
+## Tigreal counters
 
-### Counters
-
-Beat this hero
+### Who counters Tigreal
 
 [![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)
 
-### Easy targets
-
-This hero beats them
+### Who Tigreal counters
 
 [![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)
 
@@ -319,6 +353,10 @@ This hero beats them
 Who counters Tigreal in MLBB?
 
 Over the last 30 days the toughest opponents are Zilong, Estes, Alucard, Franco and Lesley.
+
+How do you play Tigreal?
+
+Level "Attack Wave" first and take the ultimate whenever it is available. Stronger late: 47.9% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Tigreal should cast his 2nd Skill to charge in and then pull the enemy team towards him with his Ultimate. At the end of his CC, cast his 2nd Skill again to extend it, then use his 1st Skill to deal damage.
 
 What is Tigreal’s win rate right now?
 

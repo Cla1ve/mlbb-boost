@@ -1,6 +1,6 @@
 ---
-title: "Masha MLBB: build, counters and skills | MLBB Boost"
-description: "Masha in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 58.81% win rate, tier S."
+title: "Masha MLBB: build, combos and counters | MLBB Boost"
+description: "Masha in Mobile Legends: ranked build, skill combos, how to play and who counters Masha. Tank and fighter, 58.81% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/masha.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 67.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,51 @@ Tank
     War Cry
 
 
-## Skills
+## How to play Masha
 
-Level-up**Savage Maul**_›_**Claw Strike**_›_**Feral Swipe**
+### Masha combos
+
+#### Laning
+
+1.  ![Claw Strike](/images/mlbb/skills/masha-2.webp)2
+2.  Attack
+3.  ![Feral Swipe](/images/mlbb/skills/masha-1.webp)1
+4.  Attack
+
+In the laning phase, use Masha's 2nd Skill to close in and Basic Attack to inflict Wounds. Slow the target with the 1st Skill, then continue attacking to trigger the Enhanced Basic Attack, and keep up the pressure!
+
+#### Teamfight
+
+1.  ![Savage Maul](/images/mlbb/skills/masha-3.webp)Ult
+2.  Attack
+3.  ![Claw Strike](/images/mlbb/skills/masha-2.webp)2
+4.  Attack
+5.  Attack
+6.  Attack
+7.  Attack
+
+In teamfights, use Masha's Ultimate to dive a squishy target. Follow with an Enhanced Basic Attack, then 2nd Skill to inflict Wounds on multiple enemies, and AoE them down with repeated Basic Attacks.
+
+### When strongest
+
+Even through the game, from 56.4% to 58.8%. Pick fights by your items rather than the clock.
+
+1.  **56.5**10–12
+2.  **57.9**12–14
+3.  **58.4**14–16
+4.  **58.8**16–18
+5.  **58.6**18–20
+6.  **56.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/masha-3.webp)Savage Maul
+2.  ![](/images/mlbb/skills/masha-2.webp)Claw Strike
+3.  ![](/images/mlbb/skills/masha-1.webp)Feral Swipe
+
+## Skills
 
 ![](/images/mlbb/skills/masha-0.webp)Passive**Primal Pact**![](/images/mlbb/skills/masha-1.webp)Skill 1**Feral Swipe**![](/images/mlbb/skills/masha-2.webp)Skill 2**Claw Strike**![](/images/mlbb/skills/masha-3.webp)Ultimate**Savage Maul**
 
@@ -291,17 +333,13 @@ Cooldown **42 s**
 
 Masha charges toward an enemy hero, dealing 300 (+50% Extra Max HP) Physical Damage and stunning them for 1s while knocking back nearby enemies.
 
-## Counters
+## Masha counters
 
-### Counters
-
-Beat this hero
+### Who counters Masha
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)
 
-### Easy targets
-
-This hero beats them
+### Who Masha counters
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
 
@@ -320,6 +358,10 @@ This hero beats them
 Who counters Masha in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Eudora, Lesley, Brody and Cici.
+
+How do you play Masha?
+
+Level "Claw Strike" first and take the ultimate whenever it is available. Even through the game, from 56.4% to 58.8%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Masha's Ultimate to dive a squishy target. Follow with an Enhanced Basic Attack, then 2nd Skill to inflict Wounds on multiple enemies, and AoE them down with repeated Basic Attacks.
 
 What is Masha’s win rate right now?
 

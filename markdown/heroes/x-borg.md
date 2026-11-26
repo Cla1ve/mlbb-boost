@@ -1,6 +1,6 @@
 ---
-title: "Икс.Борг MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Икс.Борг в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 49,00% побед, тир C."
+title: "Икс.Борг MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Икс.Борг, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Икс.Борга. Боец, 49,00% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/x-borg.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -246,9 +246,45 @@ C
     Нечестивая ярость
 
 
-## Навыки
+## Как играть за Икс.Борга
 
-Прокачка**Последнее безумие**_›_**Огненные ракеты**_›_**Огненный кол**
+### Комбо Икс.Борга
+
+#### В драке
+
+1.  ![Огненные ракеты](/images/mlbb/skills/x-borg-1.webp)1
+2.  ![Последнее безумие](/images/mlbb/skills/x-borg-3.webp)Ульт
+3.  ![Огненный кол](/images/mlbb/skills/x-borg-2.webp)2
+
+В драке включите первый навык, ультуйте, когда враги кучно, и вторым притяните их к себе.
+
+#### На линии
+
+1.  ![Огненные ракеты](/images/mlbb/skills/x-borg-1.webp)1
+2.  ![Огненный кол](/images/mlbb/skills/x-borg-2.webp)2
+
+На линии включите первый навык и вторым притяните врагов.
+
+### Когда сильнее всего
+
+Сильнее в начале: на 10–12 минутах выигрывает 52,7%. Давите на линии, забирайте объекты и заканчивайте, пока преимущество не растаяло.
+
+1.  **52,7**10–12
+2.  **50,7**12–14
+3.  **49,9**14–16
+4.  **48,7**16–18
+5.  **48,8**18–20
+6.  **48,7**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/x-borg-3.webp)Последнее безумие
+2.  ![](/images/mlbb/skills/x-borg-1.webp)Огненные ракеты
+3.  ![](/images/mlbb/skills/x-borg-2.webp)Огненный кол
+
+## Навыки
 
 ![](/images/mlbb/skills/x-borg-0.webp)Пассивный**Доспехи Фирага**![](/images/mlbb/skills/x-borg-1.webp)1-й навык**Огненные ракеты**![](/images/mlbb/skills/x-borg-2.webp)2-й навык**Огненный кол**![](/images/mlbb/skills/x-borg-3.webp)Ультимейт**Последнее безумие**
 
@@ -294,17 +330,13 @@ C
 
 **Повторное использование:** немедленно прекращает распылять огонь и взрывается раньше.
 
-## Контрпики
+## Контрпики Икс.Борга
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Икс.Борга
 
 [![](/images/heroes/art/baxia.webp)Баксий](https://boostmlbb.ru/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Фовиус](https://boostmlbb.ru/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Хилос](https://boostmlbb.ru/heroes/hylos.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Икс.Борг
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)
 
@@ -320,22 +352,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Икс.Борг» в MLBB?
+Кто контрит Икс.Борга в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Баксий, Бартс, Тэризла, Фовиус и Хилос.
+За последние 30 дней Икс.Борга чаще всего обыгрывают Баксий, Бартс, Тэризла, Фовиус и Хилос.
 
-Какой процент побед у героя «Икс.Борг» сейчас?
+Как играть за Икс.Борга?
+
+В первую очередь качайте «Огненные ракеты», ульт берите, как только доступен. Сильнее в начале: на 10–12 минутах выигрывает 52,7%. Давите на линии, забирайте объекты и заканчивайте, пока преимущество не растаяло. Комбо для драки: В драке включите первый навык, ультуйте, когда враги кучно, и вторым притяните их к себе.
+
+Какой процент побед у Икс.Борга сейчас?
 
 49,00% в Мифической славе за последние 7 дней и 49,94% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Икс.Борг»?
+Какая роль и линия у Икс.Борга?
 
 Боец, играет на линии опыта.
 
-Силён ли герой «Икс.Борг» в текущей мете?
+Стоит ли брать Икс.Борга в текущей мете?
 
 Тир C, 91-е место из 133 героев и 28-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 49,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,9% катков.
 
-Какая сборка на героя «Икс.Борг» лучшая?
+Какая сборка на Икс.Борга лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Господство льда» и «Кираса грубой силы», эмблема танка с талантами «Ловкость», «Кровавое пиршество» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 55,18% матчей.

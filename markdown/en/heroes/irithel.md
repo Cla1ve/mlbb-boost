@@ -1,6 +1,6 @@
 ---
-title: "Irithel MLBB: build, counters and skills | MLBB Boost"
-description: "Irithel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 53.30% win rate, tier C."
+title: "Irithel MLBB: build, combos and counters | MLBB Boost"
+description: "Irithel in Mobile Legends: ranked build, skill combos, how to play and who counters Irithel. Marksman, 53.30% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/irithel.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,50 @@ Assassin
     Quantum Charge
 
 
-## Skills
+## How to play Irithel
 
-Level-up**Heavy Crossbow**_›_**Strafe**_›_**Force of The Queen**
+### Irithel combos
+
+#### Teamfight
+
+1.  ![Heavy Crossbow](/images/mlbb/skills/irithel-3.webp)Ult
+2.  ![Strafe](/images/mlbb/skills/irithel-1.webp)1
+3.  Attack
+4.  ![Force of The Queen](/images/mlbb/skills/irithel-2.webp)2
+
+In teamfights, use Irithel's Ultimate at the start to enhance her Basic Attacks, then use her 1st Skill to reduce the enemies' Defense and use her Basic Attacks to hit multiple enemies. Use her 2nd Skill to slow enemies and prevent them from getting close.
+
+#### Laning
+
+1.  ![Strafe](/images/mlbb/skills/irithel-1.webp)1
+2.  Attack
+3.  ![Force of The Queen](/images/mlbb/skills/irithel-2.webp)2
+4.  Attack
+5.  ![Heavy Crossbow](/images/mlbb/skills/irithel-3.webp)Ult
+6.  Attack
+
+In the laning phase, Irithel should maintain distance from the enemy and use her 1st Skill to reduce their Defense. Kite the enemy with Basic Attacks to chip away their HP. If the enemy tries to close in, use her 2nd Skill to maintain distance and continue firing Basic Attacks. When the time is right, use her Ultimate to enhance her Basic Attacks and finish off the enemy.
+
+### When strongest
+
+Stronger early: 54.6% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **54.5**10–12
+2.  **54.6**12–14
+3.  **54.5**14–16
+4.  **53.5**16–18
+5.  **52.4**18–20
+6.  **50.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/irithel-3.webp)Heavy Crossbow
+2.  ![](/images/mlbb/skills/irithel-1.webp)Strafe
+3.  ![](/images/mlbb/skills/irithel-2.webp)Force of The Queen
+
+## Skills
 
 ![](/images/mlbb/skills/irithel-0.webp)Passive**Jungle Heart**![](/images/mlbb/skills/irithel-1.webp)Skill 1**Strafe**![](/images/mlbb/skills/irithel-2.webp)Skill 2**Force of The Queen**![](/images/mlbb/skills/irithel-3.webp)Ultimate**Heavy Crossbow**
 
@@ -286,17 +327,13 @@ Irithel commands Leo to leap in the target direction and empowers her crossbow f
 
 During this time, she gains 30 Movement Speed, generates Jungle Heart faster, and fires heavy bolts with her Basic Attacks, dealing 100 (+65% Total Physical Attack) Physical Damage to the target and nearby units.
 
-## Counters
+## Irithel counters
 
-### Counters
-
-Beat this hero
+### Who counters Irithel
 
 [![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
-### Easy targets
-
-This hero beats them
+### Who Irithel counters
 
 [![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)
 
@@ -315,6 +352,10 @@ This hero beats them
 Who counters Irithel in MLBB?
 
 Over the last 30 days the toughest opponents are Yin, Wanwan, Beatrix, Benedetta and Marcel.
+
+How do you play Irithel?
+
+Level "Strafe" first and take the ultimate whenever it is available. Stronger early: 54.6% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Irithel's Ultimate at the start to enhance her Basic Attacks, then use her 1st Skill to reduce the enemies' Defense and use her Basic Attacks to hit multiple enemies. Use her 2nd Skill to slow enemies and prevent them from getting close.
 
 What is Irithel’s win rate right now?
 

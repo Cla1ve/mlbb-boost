@@ -1,6 +1,6 @@
 ---
-title: "Lesley MLBB: build, counters and skills | MLBB Boost"
-description: "Lesley in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.80% win rate, tier B."
+title: "Lesley MLBB: build, combos and counters | MLBB Boost"
+description: "Lesley in Mobile Legends: ranked build, skill combos, how to play and who counters Lesley. Assassin and marksman, 48.80% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lesley.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 5.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -243,9 +243,49 @@ Marksman
     Lethal Ignition
 
 
-## Skills
+## How to play Lesley
 
-Level-up**Ultimate Snipe**_›_**Master of Camouflage**_›_**Tactical Grenade**
+### Lesley combos
+
+#### Teamfight
+
+1.  ![Master of Camouflage](/images/mlbb/skills/lesley-1.webp)1
+2.  Attack
+3.  ![Tactical Grenade](/images/mlbb/skills/lesley-2.webp)2
+4.  Attack
+5.  ![Ultimate Snipe](/images/mlbb/skills/lesley-3.webp)Ult
+
+In teamfights, Lesley can repeatedly use her 1st Skill to deal more damage with her enhanced Basic Attack while moving. When the enemy hero is close, Lesley can use her 2nd Skill and the enhanced Basic Attack for the counterattack, and use his Ultimate to start reaping.
+
+#### Laning
+
+1.  Attack
+2.  ![Master of Camouflage](/images/mlbb/skills/lesley-1.webp)1
+3.  Attack
+4.  ![Ultimate Snipe](/images/mlbb/skills/lesley-3.webp)Ult
+
+In the laning phase, once Lesley reaches full energy, and her enhanced Basic Attack is activated, wait for the opportunity to use the enhanced Basic Attack to hit the enemy hero. Then use her 1st Skill to reactivate the enhanced Basic Attack and hit the enemy again, and finally, use her Ultimate to finish off the enemy.
+
+### When strongest
+
+Stronger late: 54.6% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **41.1**10–12
+2.  **45.8**12–14
+3.  **47.9**14–16
+4.  **50.2**16–18
+5.  **52.8**18–20
+6.  **54.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/lesley-3.webp)Ultimate Snipe
+2.  ![](/images/mlbb/skills/lesley-1.webp)Master of Camouflage
+3.  ![](/images/mlbb/skills/lesley-2.webp)Tactical Grenade
+
+## Skills
 
 ![](/images/mlbb/skills/lesley-0.webp)Passive**Lethal Shot**![](/images/mlbb/skills/lesley-1.webp)Skill 1**Master of Camouflage**![](/images/mlbb/skills/lesley-2.webp)Skill 2**Tactical Grenade**![](/images/mlbb/skills/lesley-3.webp)Ultimate**Ultimate Snipe**
 
@@ -291,17 +331,13 @@ Cooldown **40 s**
 
 If this skill is interrupted, each remaining bullet reduces this skill's cooldown by 10%.
 
-## Counters
+## Lesley counters
 
-### Counters
-
-Beat this hero
+### Who counters Lesley
 
 [![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)
 
-### Easy targets
-
-This hero beats them
+### Who Lesley counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
@@ -320,6 +356,10 @@ This hero beats them
 Who counters Lesley in MLBB?
 
 Over the last 30 days the toughest opponents are Claude, Marcel, Bruno, Gatotkaca and Belerick.
+
+How do you play Lesley?
+
+Level "Master of Camouflage" first and take the ultimate whenever it is available. Stronger late: 54.6% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Lesley can repeatedly use her 1st Skill to deal more damage with her enhanced Basic Attack while moving. When the enemy hero is close, Lesley can use her 2nd Skill and the enhanced Basic Attack for the counterattack, and use his Ultimate to start reaping.
 
 What is Lesley’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Алиса MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Алиса в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и маг, 50,28% побед, тир A."
+title: "Алиса MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Алиса, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Алису. Танк и маг, 50,28% побед, тир A."
 canonical: https://boostmlbb.ru/heroes/alice.html
 language: ru
 ---
@@ -27,7 +27,7 @@ A
 
 8,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -248,9 +248,48 @@ A
     Нечестивая ярость
 
 
-## Навыки
+## Как играть за Алису
 
-Прокачка**Гибельная власть**_›_**Роковой вальс**_›_**Багровое сияние**
+### Комбо Алисы
+
+#### В драке
+
+1.  ![Багровое сияние](/images/mlbb/skills/alice-1.webp)1
+2.  ![Багровое сияние](/images/mlbb/skills/alice-1.webp)1
+3.  ![Роковой вальс](/images/mlbb/skills/alice-2.webp)2
+4.  ![Гибельная власть](/images/mlbb/skills/alice-3.webp)Ульт
+
+Первым навыком тревожьте и повторным нажатием прыгните на врага, вторым дайте контроль и продолжайте атаку ультом.
+
+#### На линии
+
+1.  ![Багровое сияние](/images/mlbb/skills/alice-1.webp)1
+2.  ![Багровое сияние](/images/mlbb/skills/alice-1.webp)1
+3.  ![Роковой вальс](/images/mlbb/skills/alice-2.webp)2
+4.  ![Гибельная власть](/images/mlbb/skills/alice-3.webp)Ульт
+
+Первым навыком тревожьте и повторным нажатием прыгните на врага, вторым дайте контроль и продолжайте атаку ультом.
+
+### Когда сильнее всего
+
+Сильнее в долгой игре: после 20-й минуты выигрывает 50,1%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.
+
+1.  **48,1**10–12
+2.  **48,7**12–14
+3.  **49,7**14–16
+4.  **49,5**16–18
+5.  **50,0**18–20
+6.  **50,1**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/alice-3.webp)Гибельная власть
+2.  ![](/images/mlbb/skills/alice-2.webp)Роковой вальс
+3.  ![](/images/mlbb/skills/alice-1.webp)Багровое сияние
+
+## Навыки
 
 ![](/images/mlbb/skills/alice-0.webp)Пассивный**Багряный кровавый банкет**![](/images/mlbb/skills/alice-1.webp)1-й навык**Багровое сияние**![](/images/mlbb/skills/alice-2.webp)2-й навык**Роковой вальс**![](/images/mlbb/skills/alice-3.webp)Ультимейт**Гибельная власть**
 
@@ -296,17 +335,13 @@ A
 
 Во время подготовки ультимейта Алиса не может использовать никакие навыки героя, кроме "Алой тени".
 
-## Контрпики
+## Контрпики Алисы
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Алису
 
 [![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/tigreal.webp)Тигрил](https://boostmlbb.ru/heroes/tigreal.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Алиса
 
 [![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/cici.webp)Чичи](https://boostmlbb.ru/heroes/cici.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)
 
@@ -322,22 +357,26 @@ A
 
 ## Частые вопросы
 
-Кто контрпик для героя «Алиса» в MLBB?
+Кто контрит Алису в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Чип, Глу, Тигрил, Атлас и Бартс.
+За последние 30 дней Алису чаще всего обыгрывают Чип, Глу, Тигрил, Атлас и Бартс.
 
-Какой процент побед у героя «Алиса» сейчас?
+Как играть за Алису?
+
+В первую очередь качайте «Роковой вальс», ульт берите, как только доступен. Сильнее в долгой игре: после 20-й минуты выигрывает 50,1%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой. Комбо для драки: Первым навыком тревожьте и повторным нажатием прыгните на врага, вторым дайте контроль и продолжайте атаку ультом.
+
+Какой процент побед у Алисы сейчас?
 
 50,28% в Мифической славе за последние 7 дней и 50,63% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Алиса»?
+Какая роль и линия у Алисы?
 
 Танк и маг, играет на линии опыта или в лесу.
 
-Силён ли герой «Алиса» в текущей мете?
+Стоит ли брать Алису в текущей мете?
 
 Тир A, 13-е место из 133 героев и 5-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 8,3% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 57,7% катков.
 
-Какая сборка на героя «Алиса» лучшая?
+Какая сборка на Алису лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Кираса грубой силы», «Оракул» и «Концентрированная энергия», эмблема танка с талантами «Живучесть», «Опытный охотник» и «Нечестивая ярость» и заклинание «Восстановление». С ней выигрывают 55,00% матчей.

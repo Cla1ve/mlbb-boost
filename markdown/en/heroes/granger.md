@@ -1,6 +1,6 @@
 ---
-title: "Granger MLBB: build, counters and skills | MLBB Boost"
-description: "Granger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 44.03% win rate, tier C."
+title: "Granger MLBB: build, combos and counters | MLBB Boost"
+description: "Granger in Mobile Legends: ranked build, skill combos, how to play and who counters Granger. Marksman, 44.03% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/granger.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,48 @@ Assassin
     Impure Rage
 
 
-## Skills
+## How to play Granger
 
-Level-up**Death Sonata**_›_**Rhapsody**_›_**Rondo**
+### Granger combos
+
+#### Laning
+
+1.  ![Rhapsody](/images/mlbb/skills/granger-1.webp)1
+2.  ![Rondo](/images/mlbb/skills/granger-2.webp)2
+3.  ![Rhapsody](/images/mlbb/skills/granger-1.webp)1
+
+In the laning phase, use Granger's 1st Skill to poke the enemy. When his energy gets low, use his 2nd Skill to replenish it and continue to poke with his 1st Skill.
+
+#### Teamfight
+
+1.  ![Death Sonata](/images/mlbb/skills/granger-3.webp)Ult
+2.  ![Rhapsody](/images/mlbb/skills/granger-1.webp)1
+3.  ![Death Sonata](/images/mlbb/skills/granger-3.webp)Ult
+4.  ![Rondo](/images/mlbb/skills/granger-2.webp)2
+5.  ![Rhapsody](/images/mlbb/skills/granger-1.webp)1
+
+In teamfights, use Granger's Ultimate to poke from a safe distance and continue the attack with his 1st Skill. When the 1st Skill ends, use his Ultimate again for more damage and to reposition. If enemies get close, use his 2nd Skill to create distance and continue dealing damage with his 1st Skill.
+
+### When strongest
+
+Stronger early: 47.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **47.3**10–12
+2.  **43.4**12–14
+3.  **40.8**14–16
+4.  **40.5**16–18
+5.  **40.7**18–20
+6.  **43.7**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/granger-3.webp)Death Sonata
+2.  ![](/images/mlbb/skills/granger-1.webp)Rhapsody
+3.  ![](/images/mlbb/skills/granger-2.webp)Rondo
+
+## Skills
 
 ![](/images/mlbb/skills/granger-0.webp)Passive**Capriccio**![](/images/mlbb/skills/granger-1.webp)Skill 1**Rhapsody**![](/images/mlbb/skills/granger-2.webp)Skill 2**Rondo**![](/images/mlbb/skills/granger-3.webp)Ultimate**Death Sonata**
 
@@ -290,17 +329,13 @@ Granger fires his Cannon in the target direction, dealing 150 (+110% Total Physi
 
 Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot.
 
-## Counters
+## Granger counters
 
-### Counters
-
-Beat this hero
+### Who counters Granger
 
 [![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
-### Easy targets
-
-This hero beats them
+### Who Granger counters
 
 [![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
@@ -319,6 +354,10 @@ This hero beats them
 Who counters Granger in MLBB?
 
 Over the last 30 days the toughest opponents are Karina, Beatrix, Ixia, Diggie and Yve.
+
+How do you play Granger?
+
+Level "Rhapsody" first and take the ultimate whenever it is available. Stronger early: 47.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Granger's Ultimate to poke from a safe distance and continue the attack with his 1st Skill. When the 1st Skill ends, use his Ultimate again for more damage and to reposition. If enemies get close, use his 2nd Skill to create distance and continue dealing damage with his 1st Skill.
 
 What is Granger’s win rate right now?
 

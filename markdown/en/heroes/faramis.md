@@ -1,6 +1,6 @@
 ---
-title: "Faramis MLBB: build, counters and skills | MLBB Boost"
-description: "Faramis in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and support, 50.60% win rate, tier D."
+title: "Faramis MLBB: build, combos and counters | MLBB Boost"
+description: "Faramis in Mobile Legends: ranked build, skill combos, how to play and who counters Faramis. Mage and support, 50.60% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/faramis.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,47 @@ Assassin
     Impure Rage
 
 
-## Skills
+## How to play Faramis
 
-Level-up**Nether Realm**_›_**Ghost Bursters**_›_**Shadow Stampede**
+### Faramis combos
+
+#### Teamfight
+
+1.  ![Nether Realm](/images/mlbb/skills/faramis-3.webp)Ult
+2.  ![Shadow Stampede](/images/mlbb/skills/faramis-1.webp)1
+3.  ![Shadow Stampede](/images/mlbb/skills/faramis-1.webp)1
+4.  ![Ghost Bursters](/images/mlbb/skills/faramis-2.webp)2
+
+In teamfights, use Faramis' Ultimate to protect his allies, then get close to the enemy and apply Nether Marks with his 1st Skill. Activate the 1st Skill again to pull them over and follow up with his 2nd Skill for additional damage.
+
+#### Laning
+
+1.  ![Shadow Stampede](/images/mlbb/skills/faramis-1.webp)1
+2.  ![Ghost Bursters](/images/mlbb/skills/faramis-2.webp)2
+3.  ![Shadow Stampede](/images/mlbb/skills/faramis-1.webp)1
+
+In the laning phase, use Faramis' 1st Skill to get close to the enemy and hit them with his 2nd Skill while applying a Nether Mark with the 1st Skill. Then, use his 1st Skill again to pull the enemy back to him.
+
+### When strongest
+
+Even through the game, from 50.9% to 52.8%. Pick fights by your items rather than the clock.
+
+1.  **50.9**10–12
+2.  **51.7**12–14
+3.  **51.6**14–16
+4.  **51.5**16–18
+5.  **51.9**18–20
+6.  **52.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/faramis-3.webp)Nether Realm
+2.  ![](/images/mlbb/skills/faramis-2.webp)Ghost Bursters
+3.  ![](/images/mlbb/skills/faramis-1.webp)Shadow Stampede
+
+## Skills
 
 ![](/images/mlbb/skills/faramis-0.webp)Passive**Vicious Retrieval**![](/images/mlbb/skills/faramis-1.webp)Skill 1**Shadow Stampede**![](/images/mlbb/skills/faramis-2.webp)Skill 2**Ghost Bursters**![](/images/mlbb/skills/faramis-3.webp)Ultimate**Nether Realm**
 
@@ -292,17 +330,13 @@ Cooldown **90 Mana Cost: 150 s**
 
 Faramis turns his surroundings into the Nether Realm for 6s. Allied heroes within (including himself) enter the Specter state, gaining 400 (+ 10 (+5% Total Magic Power)%) extra HP and 50% extra Movement Speed for 1s. When the Specter state breaks, heroes within clear all debuffs and enter a brief Resurrection state for 1.3s. The Specter state immediately ends if the allied hero leaves the Nether Realm.
 
-## Counters
+## Faramis counters
 
-### Counters
-
-Beat this hero
+### Who counters Faramis
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)
 
-### Easy targets
-
-This hero beats them
+### Who Faramis counters
 
 [![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
@@ -321,6 +355,10 @@ This hero beats them
 Who counters Faramis in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Sun, Wanwan, Ling and Karina.
+
+How do you play Faramis?
+
+Level "Ghost Bursters" first and take the ultimate whenever it is available. Even through the game, from 50.9% to 52.8%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Faramis' Ultimate to protect his allies, then get close to the enemy and apply Nether Marks with his 1st Skill. Activate the 1st Skill again to pull them over and follow up with his 2nd Skill for additional damage.
 
 What is Faramis’s win rate right now?
 

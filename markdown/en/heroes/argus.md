@@ -1,6 +1,6 @@
 ---
-title: "Argus MLBB: build, counters and skills | MLBB Boost"
-description: "Argus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 57.39% win rate, tier B."
+title: "Argus MLBB: build, combos and counters | MLBB Boost"
+description: "Argus in Mobile Legends: ranked build, skill combos, how to play and who counters Argus. Fighter, 57.39% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/argus.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -264,9 +264,50 @@ Marksman
     War Cry
 
 
-## Skills
+## How to play Argus
 
-Level-up**Eternal Evil**_›_**Meteoric Sword**_›_**Demonic Grip**
+### Argus combos
+
+#### Laning
+
+1.  ![Demonic Grip](/images/mlbb/skills/argus-1.webp)1
+2.  ![Meteoric Sword](/images/mlbb/skills/argus-2.webp)2
+3.  Attack
+4.  ![Demonic Grip](/images/mlbb/skills/argus-1.webp)1
+
+In the laning phase, use Argus's 1st Skill to close in on the opponent and slow them with his 2nd Skill while hitting with Basic Attacks. If the enemy tries to run, use the second cast of his 1st Skill to chase.
+
+#### Teamfight
+
+1.  ![Demonic Grip](/images/mlbb/skills/argus-1.webp)1
+2.  ![Demonic Grip](/images/mlbb/skills/argus-1.webp)1
+3.  ![Meteoric Sword](/images/mlbb/skills/argus-2.webp)2
+4.  Attack
+5.  ![Eternal Evil](/images/mlbb/skills/argus-3.webp)Ult
+6.  Attack
+
+In teamfights, use Argus's 1st Skill to pull himself towards the enemy formation, then use the skill again to dash into their backline. Next, slow the enemy with his 2nd Skill and use Basic Attacks until his HP is low, then pop his Ultimate and continue the assault with Basic Attacks.
+
+### When strongest
+
+Stronger late: 61.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **51.9**10–12
+2.  **55.6**12–14
+3.  **57.7**14–16
+4.  **60.5**16–18
+5.  **61.8**18–20
+6.  **60.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/argus-3.webp)Eternal Evil
+2.  ![](/images/mlbb/skills/argus-2.webp)Meteoric Sword
+3.  ![](/images/mlbb/skills/argus-1.webp)Demonic Grip
+
+## Skills
 
 ![](/images/mlbb/skills/argus-0.webp)Passive**Warmonger**![](/images/mlbb/skills/argus-1.webp)Skill 1**Demonic Grip**![](/images/mlbb/skills/argus-2.webp)Skill 2**Meteoric Sword**![](/images/mlbb/skills/argus-3.webp)Ultimate**Eternal Evil**
 
@@ -310,17 +351,13 @@ Argus removes all control effects, gains Death Immunity for 4s, and deals 150 (+
 
 **Passive:** If Argus takes fatal damage while Eternal Evil is not on cooldown, he removes all control effects and automatically enters Death Immunity without triggering AOE Damage.
 
-## Counters
+## Argus counters
 
-### Counters
-
-Beat this hero
+### Who counters Argus
 
 [![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
 
-### Easy targets
-
-This hero beats them
+### Who Argus counters
 
 [![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
@@ -339,6 +376,10 @@ This hero beats them
 Who counters Argus in MLBB?
 
 Over the last 30 days the toughest opponents are Karrie, Lunox, Helcurt, Arlott and Saber.
+
+How do you play Argus?
+
+Level "Meteoric Sword" first and take the ultimate whenever it is available. Stronger late: 61.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Argus's 1st Skill to pull himself towards the enemy formation, then use the skill again to dash into their backline. Next, slow the enemy with his 2nd Skill and use Basic Attacks until his HP is low, then pop his Ultimate and continue the assault with Basic Attacks.
 
 What is Argus’s win rate right now?
 

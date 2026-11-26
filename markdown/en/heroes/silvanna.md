@@ -1,6 +1,6 @@
 ---
-title: "Silvanna MLBB: build, counters and skills | MLBB Boost"
-description: "Silvanna in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.29% win rate, tier C."
+title: "Silvanna MLBB: build, combos and counters | MLBB Boost"
+description: "Silvanna in Mobile Legends: ranked build, skill combos, how to play and who counters Silvanna. Fighter, 50.29% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/silvanna.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,49 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Silvanna
 
-Level-up**Imperial Justice**_›_**Spiral Strangling**_›_**Cometic Lance**
+### Silvanna combos
+
+#### Teamfight
+
+1.  ![Imperial Justice](/images/mlbb/skills/silvanna-3.webp)Ult
+2.  ![Cometic Lance](/images/mlbb/skills/silvanna-1.webp)1
+3.  ![Spiral Strangling](/images/mlbb/skills/silvanna-2.webp)2
+4.  Attack
+
+In teamfights, Silvanna can control back-row enemies with her \[ULTIMATE\] and then stun them with her \[1st Skill\]. Finally, she can deal damage with her \[2nd Skill\] and Basic Attacks.
+
+#### Laning
+
+1.  ![Spiral Strangling](/images/mlbb/skills/silvanna-2.webp)2
+2.  ![Cometic Lance](/images/mlbb/skills/silvanna-1.webp)1
+3.  ![Cometic Lance](/images/mlbb/skills/silvanna-1.webp)1
+4.  ![Imperial Justice](/images/mlbb/skills/silvanna-3.webp)Ult
+5.  Attack
+
+Silvanna can poke enemies with her \[2nd Skill\] and use her 1st Skill to close the distance once they're low on HP. Then, she can control them and finish them off with her \[ULTIMATE\].
+
+### When strongest
+
+Stronger early: 54.1% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.5**10–12
+2.  **54.1**12–14
+3.  **53.6**14–16
+4.  **51.7**16–18
+5.  **51.0**18–20
+6.  **50.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/silvanna-3.webp)Imperial Justice
+2.  ![](/images/mlbb/skills/silvanna-2.webp)Spiral Strangling
+3.  ![](/images/mlbb/skills/silvanna-1.webp)Cometic Lance
+
+## Skills
 
 ![](/images/mlbb/skills/silvanna-0.webp)Passive**Knightess' Resolve**![](/images/mlbb/skills/silvanna-1.webp)Skill 1**Cometic Lance**![](/images/mlbb/skills/silvanna-2.webp)Skill 2**Spiral Strangling**![](/images/mlbb/skills/silvanna-3.webp)Ultimate**Imperial Justice**
 
@@ -292,17 +332,13 @@ Silvanna leaps to the target location and creates a Circle of Light upon landing
 
 Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
 
-## Counters
+## Silvanna counters
 
-### Counters
-
-Beat this hero
+### Who counters Silvanna
 
 [![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
-### Easy targets
-
-This hero beats them
+### Who Silvanna counters
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
@@ -321,6 +357,10 @@ This hero beats them
 Who counters Silvanna in MLBB?
 
 Over the last 30 days the toughest opponents are Aamon, Floryn, Angela, Rafaela and Valentina.
+
+How do you play Silvanna?
+
+Level "Spiral Strangling" first and take the ultimate whenever it is available. Stronger early: 54.1% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Silvanna can control back-row enemies with her \[ULTIMATE\] and then stun them with her \[1st Skill\]. Finally, she can deal damage with her \[2nd Skill\] and Basic Attacks.
 
 What is Silvanna’s win rate right now?
 

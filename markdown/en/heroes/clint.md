@@ -1,6 +1,6 @@
 ---
-title: "Clint MLBB: build, counters and skills | MLBB Boost"
-description: "Clint in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.18% win rate, tier B."
+title: "Clint MLBB: build, combos and counters | MLBB Boost"
+description: "Clint in Mobile Legends: ranked build, skill combos, how to play and who counters Clint. Marksman, 50.18% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/clint.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,50 @@ Fighter
     Quantum Charge
 
 
-## Skills
+## How to play Clint
 
-Level-up**Grenade Bombardment**_›_**Quick Draw**_›_**Trapping Recoil**
+### Clint combos
+
+#### Teamfight
+
+1.  ![Grenade Bombardment](/images/mlbb/skills/clint-3.webp)Ult
+2.  Attack
+3.  ![Quick Draw](/images/mlbb/skills/clint-1.webp)1
+4.  Attack
+5.  ![Trapping Recoil](/images/mlbb/skills/clint-2.webp)2
+6.  Attack
+
+In teamfights, use Clint's Ultimate and enhanced Basic Attacks to whittle down enemies from a distance. Once the enemy is weakened from the constant bombardment, use Clint's 1st Skill, Basic Attack, 2nd Skill, and Basic Attack combo to finish them off.
+
+#### Laning
+
+1.  ![Quick Draw](/images/mlbb/skills/clint-1.webp)1
+2.  Attack
+3.  ![Trapping Recoil](/images/mlbb/skills/clint-2.webp)2
+4.  Attack
+
+In the laning phase, Clint should use his 1st Skill followed by an enhanced Basic Attack, then his 2nd Skill followed by another enhanced Basic Attack. This combo maximizes his damage, immobilizes the target, and moves Clint out of harm's way.
+
+### When strongest
+
+Stronger early: 59.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **59.2**10–12
+2.  **52.9**12–14
+3.  **48.3**14–16
+4.  **46.3**16–18
+5.  **46.3**18–20
+6.  **47.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/clint-3.webp)Grenade Bombardment
+2.  ![](/images/mlbb/skills/clint-1.webp)Quick Draw
+3.  ![](/images/mlbb/skills/clint-2.webp)Trapping Recoil
+
+## Skills
 
 ![](/images/mlbb/skills/clint-0.webp)Passive**Double Shot**![](/images/mlbb/skills/clint-1.webp)Skill 1**Quick Draw**![](/images/mlbb/skills/clint-2.webp)Skill 2**Trapping Recoil**![](/images/mlbb/skills/clint-3.webp)Ultimate**Grenade Bombardment**
 
@@ -288,17 +329,13 @@ Clint launches a grenade in the target direction that explodes on the first enem
 
 Clint gains a grenade charge every 10s (up to 3).
 
-## Counters
+## Clint counters
 
-### Counters
-
-Beat this hero
+### Who counters Clint
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
-### Easy targets
-
-This hero beats them
+### Who Clint counters
 
 [![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)
 
@@ -317,6 +354,10 @@ This hero beats them
 Who counters Clint in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Karina, Belerick, Marcel and Baxia.
+
+How do you play Clint?
+
+Level "Quick Draw" first and take the ultimate whenever it is available. Stronger early: 59.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Clint's Ultimate and enhanced Basic Attacks to whittle down enemies from a distance. Once the enemy is weakened from the constant bombardment, use Clint's 1st Skill, Basic Attack, 2nd Skill, and Basic Attack combo to finish them off.
 
 What is Clint’s win rate right now?
 

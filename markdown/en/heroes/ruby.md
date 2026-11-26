@@ -1,6 +1,6 @@
 ---
-title: "Ruby MLBB: build, counters and skills | MLBB Boost"
-description: "Ruby in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.98% win rate, tier C."
+title: "Ruby MLBB: build, combos and counters | MLBB Boost"
+description: "Ruby in Mobile Legends: ranked build, skill combos, how to play and who counters Ruby. Fighter, 48.98% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/ruby.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Fighter
     Brave Smite
 
 
-## Skills
+## How to play Ruby
 
-Level-up**I'm Offended!**_›_**Be Good!**_›_**Don't Run, Wolf King!**
+### Ruby combos
+
+#### Teamfight
+
+1.  ![Be Good!](/images/mlbb/skills/ruby-1.webp)1
+2.  ![Don't Run, Wolf King!](/images/mlbb/skills/ruby-2.webp)2
+3.  ![I'm Offended!](/images/mlbb/skills/ruby-3.webp)Ult
+
+In teamfights, use Ruby's 1st Skill to slow the enemy at a distance, and close in with her Passive dash. Then use her 2nd Skill to stun the enemies in range and use her Ultimate to pull back those who try to escape.
+
+#### Laning
+
+1.  ![Be Good!](/images/mlbb/skills/ruby-1.webp)1
+2.  ![I'm Offended!](/images/mlbb/skills/ruby-3.webp)Ult
+3.  ![Don't Run, Wolf King!](/images/mlbb/skills/ruby-2.webp)2
+4.  Attack
+
+In the laning phase, Use Ruby's 1st Skill to slow down the enemy, and the dash from her Passive to get closer. Then cast Ruby's Ultimate to pull the enemy into melee range and her 2nd Skill to keep them stunned. Finally, spam her Basic Attacks to finish them off.
+
+### When strongest
+
+Stronger early: 52.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **52.7**10–12
+2.  **50.7**12–14
+3.  **49.2**14–16
+4.  **47.6**16–18
+5.  **47.9**18–20
+6.  **47.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/ruby-3.webp)I'm Offended!
+2.  ![](/images/mlbb/skills/ruby-1.webp)Be Good!
+3.  ![](/images/mlbb/skills/ruby-2.webp)Don't Run, Wolf King!
+
+## Skills
 
 ![](/images/mlbb/skills/ruby-0.webp)Passive**Let's Dance!**![](/images/mlbb/skills/ruby-1.webp)Skill 1**Be Good!**![](/images/mlbb/skills/ruby-2.webp)Skill 2**Don't Run, Wolf King!**![](/images/mlbb/skills/ruby-3.webp)Ultimate**I'm Offended!**
 
@@ -284,17 +322,13 @@ Cooldown **40 Mana Cost: 80 s**
 
 Ruby sweeps her scythe in the target direction, dealing 600 (+200% Total Physical Attack) Physical Damage to enemies hit, pulling them toward her, and stunning them for 0.5s.
 
-## Counters
+## Ruby counters
 
-### Counters
-
-Beat this hero
+### Who counters Ruby
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)
 
-### Easy targets
-
-This hero beats them
+### Who Ruby counters
 
 [![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
@@ -313,6 +347,10 @@ This hero beats them
 Who counters Ruby in MLBB?
 
 Over the last 30 days the toughest opponents are Sun, Gloo, Argus, Karina and Lunox.
+
+How do you play Ruby?
+
+Level "Be Good!" first and take the ultimate whenever it is available. Stronger early: 52.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Ruby's 1st Skill to slow the enemy at a distance, and close in with her Passive dash. Then use her 2nd Skill to stun the enemies in range and use her Ultimate to pull back those who try to escape.
 
 What is Ruby’s win rate right now?
 

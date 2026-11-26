@@ -1,6 +1,6 @@
 ---
-title: "Guinevere MLBB: build, counters and skills | MLBB Boost"
-description: "Guinevere in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.33% win rate, tier B."
+title: "Guinevere MLBB: build, combos and counters | MLBB Boost"
+description: "Guinevere in Mobile Legends: ranked build, skill combos, how to play and who counters Guinevere. Fighter, 51.33% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/guinevere.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Guinevere
 
-Level-up**Violet Requiem**_›_**Energy Wave**_›_**Spatial Migration**
+### Guinevere combos
+
+#### Teamfight
+
+1.  ![Spatial Migration](/images/mlbb/skills/guinevere-2.webp)2
+2.  ![Violet Requiem](/images/mlbb/skills/guinevere-3.webp)Ult
+3.  ![Energy Wave](/images/mlbb/skills/guinevere-1.webp)1
+
+In teamfights, Guinevere can use her 2nd Skill to knock the enemy team airborne and follow with her Ultimate to deal damage while keeping them airborne. She can then use the dash of her 2nd Skill to dodge the incoming damage, or she can choose to use her 1st Skill to deal more damage for a full damage combo.
+
+#### Laning
+
+1.  ![Energy Wave](/images/mlbb/skills/guinevere-1.webp)1
+2.  Attack
+3.  ![Spatial Migration](/images/mlbb/skills/guinevere-2.webp)2
+4.  ![Violet Requiem](/images/mlbb/skills/guinevere-3.webp)Ult
+
+In the laning phase, Guinevere should use her 1st Skill and her enhanced Basic Attacks to clear out the Minions and poke enemy heroes. When enemy heroes' HP is low, user Guinevere's 2nd Skill to close in on them and knock them airborne. Follow up with her Ultimate to try to finish them off.
+
+### When strongest
+
+Stronger early: 53.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.8**10–12
+2.  **52.2**12–14
+3.  **50.9**14–16
+4.  **50.3**16–18
+5.  **49.8**18–20
+6.  **49.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/guinevere-3.webp)Violet Requiem
+2.  ![](/images/mlbb/skills/guinevere-1.webp)Energy Wave
+3.  ![](/images/mlbb/skills/guinevere-2.webp)Spatial Migration
+
+## Skills
 
 ![](/images/mlbb/skills/guinevere-0.webp)Passive**Super Magic**![](/images/mlbb/skills/guinevere-1.webp)Skill 1**Energy Wave**![](/images/mlbb/skills/guinevere-2.webp)Skill 2**Spatial Migration**![](/images/mlbb/skills/guinevere-3.webp)Ultimate**Violet Requiem**
 
@@ -292,17 +330,13 @@ Guinevere creates a force field around her, gaining Control Immunity while attac
 
 Airborne enemies hit will be knocked airborne again, up to 8 additional times.
 
-## Counters
+## Guinevere counters
 
-### Counters
-
-Beat this hero
+### Who counters Guinevere
 
 [![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
-### Easy targets
-
-This hero beats them
+### Who Guinevere counters
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)
 
@@ -321,6 +355,10 @@ This hero beats them
 Who counters Guinevere in MLBB?
 
 Over the last 30 days the toughest opponents are Lunox, Julian, Karrie, Yve and Esmeralda.
+
+How do you play Guinevere?
+
+Level "Energy Wave" first and take the ultimate whenever it is available. Stronger early: 53.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Guinevere can use her 2nd Skill to knock the enemy team airborne and follow with her Ultimate to deal damage while keeping them airborne. She can then use the dash of her 2nd Skill to dodge the incoming damage, or she can choose to use her 1st Skill to deal more damage for a full damage combo.
 
 What is Guinevere’s win rate right now?
 

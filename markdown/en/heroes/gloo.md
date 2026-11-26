@@ -1,6 +1,6 @@
 ---
-title: "Gloo MLBB: build, counters and skills | MLBB Boost"
-description: "Gloo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 50.01% win rate, tier A."
+title: "Gloo MLBB: build, combos and counters | MLBB Boost"
+description: "Gloo in Mobile Legends: ranked build, skill combos, how to play and who counters Gloo. Tank, 50.01% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/gloo.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 35.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,50 @@ Common
     Impure Rage
 
 
-## Skills
+## How to play Gloo
 
-Level-up**Grab, Grab**_›_**Slam, Slam**_›_**Spread, Spread**
+### Gloo combos
+
+#### Teamfight
+
+1.  ![Slam, Slam](/images/mlbb/skills/gloo-1.webp)1
+2.  ![Spread, Spread](/images/mlbb/skills/gloo-2.webp)2
+3.  ![Slam, Slam](/images/mlbb/skills/gloo-1.webp)1
+4.  ![Grab, Grab](/images/mlbb/skills/gloo-3.webp)Ult
+5.  ![Grab, Grab](/images/mlbb/skills/gloo-3.webp)Ult
+6.  ![Slam, Slam](/images/mlbb/skills/gloo-1.webp)1
+7.  ![Spread, Spread](/images/mlbb/skills/gloo-2.webp)2
+
+In teamfights, Gloo can use his 1st + 2nd skill combo to close in on the enemy and immobilize them. Then his 1st Skill and Ultimate to add more Sticky stacks to enemy heroes, and attach himself with his Ultimate to the enemy hero with max Sticky stacks. Once ready, Gloo can use the combo to deal damage and move the host out of position. Finally, he can use the refreshed 1st Skill and his Basic Attacks to finish off the host.
+
+#### Laning
+
+1.  ![Slam, Slam](/images/mlbb/skills/gloo-1.webp)1
+2.  ![Spread, Spread](/images/mlbb/skills/gloo-2.webp)2
+3.  ![Slam, Slam](/images/mlbb/skills/gloo-1.webp)1
+
+In the laning phase, Gloo should use his 1st Skill to attack the target enemy and create a Goo, then he can use his 2nd Skill to target the Goo to bring the target to its location and trigger an explosion. Touching the Goo will also reset Gloo's 1st Skill, allowing him to use it again to deal damage.
+
+### When strongest
+
+Stronger late: 51.9% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **48.6**10–12
+2.  **50.8**12–14
+3.  **52.1**14–16
+4.  **51.9**16–18
+5.  **51.6**18–20
+6.  **50.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/gloo-3.webp)Grab, Grab
+2.  ![](/images/mlbb/skills/gloo-1.webp)Slam, Slam
+3.  ![](/images/mlbb/skills/gloo-2.webp)Spread, Spread
+
+## Skills
 
 ![](/images/mlbb/skills/gloo-0.webp)Passive**Stick, Stick**![](/images/mlbb/skills/gloo-1.webp)Skill 1**Slam, Slam**![](/images/mlbb/skills/gloo-2.webp)Skill 2**Spread, Spread**![](/images/mlbb/skills/gloo-3.webp)Ultimate**Grab, Grab**
 
@@ -291,17 +332,13 @@ Unlocked when an enemy hero reaches max Sticky stacks. Gloo attaches itself to t
 
 While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra Max HP) Magic Damage, and it transfers 60% of the damage it takes (excluding Turret damage) to the host. If the host dies while Gloo is attached, this skill's cooldown is reduced to 5s.
 
-## Counters
+## Gloo counters
 
-### Counters
-
-Beat this hero
+### Who counters Gloo
 
 [![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
 
-### Easy targets
-
-This hero beats them
+### Who Gloo counters
 
 [![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/aulus.webp)Aulus](https://boostmlbb.ru/en/heroes/aulus.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
@@ -320,6 +357,10 @@ This hero beats them
 Who counters Gloo in MLBB?
 
 Over the last 30 days the toughest opponents are Aamon, Johnson, Jawhead, Nana and Chang'e.
+
+How do you play Gloo?
+
+Level "Slam, Slam" first and take the ultimate whenever it is available. Stronger late: 51.9% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Gloo can use his 1st + 2nd skill combo to close in on the enemy and immobilize them. Then his 1st Skill and Ultimate to add more Sticky stacks to enemy heroes, and attach himself with his Ultimate to the enemy hero with max Sticky stacks. Once ready, Gloo can use the combo to deal damage and move the host out of position. Finally, he can use the refreshed 1st Skill and his Basic Attacks to finish off the host.
 
 What is Gloo’s win rate right now?
 

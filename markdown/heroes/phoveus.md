@@ -1,6 +1,6 @@
 ---
-title: "Фовиус MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Фовиус в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 48,55% побед, тир B."
+title: "Фовиус MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Фовиус, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Фовиуса. Боец, 48,55% побед, тир B."
 canonical: https://boostmlbb.ru/heroes/phoveus.html
 language: ru
 ---
@@ -27,7 +27,7 @@ B
 
 0,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -246,9 +246,48 @@ B
     Отвага
 
 
-## Навыки
+## Как играть за Фовиуса
 
-Прокачка**Адская погоня**_›_**Демонический натиск**_›_**Темная волна**
+### Комбо Фовиуса
+
+#### В драке
+
+1.  Атака
+2.  ![Адская погоня](/images/mlbb/skills/phoveus-3.webp)Ульт
+3.  ![Демонический натиск](/images/mlbb/skills/phoveus-1.webp)1
+4.  ![Темная волна](/images/mlbb/skills/phoveus-2.webp)2
+
+В драке усиленной атакой влетите, отбросьте и пометьте, сразу ультуйте. Затем первый, второй и снова ульт. Усиленным первым пометьте ещё раз и ультуйте.
+
+#### На линии
+
+1.  ![Демонический натиск](/images/mlbb/skills/phoveus-1.webp)1
+2.  ![Демонический натиск](/images/mlbb/skills/phoveus-1.webp)1
+3.  Атака
+4.  ![Темная волна](/images/mlbb/skills/phoveus-2.webp)2
+
+На линии усиленной атакой ударьте и получите щит, добавьте первый, затем усиленный первый для урона и замедления и закончите вторым.
+
+### Когда сильнее всего
+
+Сила ровная всю игру, от 45,7% до 50,7%. Выбирайте драки по готовым предметам, а не по минутам.
+
+1.  **45,7**10–12
+2.  **49,2**12–14
+3.  **50,7**14–16
+4.  **49,5**16–18
+5.  **48,9**18–20
+6.  **48,1**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/phoveus-3.webp)Адская погоня
+2.  ![](/images/mlbb/skills/phoveus-1.webp)Демонический натиск
+3.  ![](/images/mlbb/skills/phoveus-2.webp)Темная волна
+
+## Навыки
 
 ![](/images/mlbb/skills/phoveus-0.webp)Пассивный**Демоническая сила**![](/images/mlbb/skills/phoveus-1.webp)1-й навык**Демонический натиск**![](/images/mlbb/skills/phoveus-2.webp)2-й навык**Темная волна**![](/images/mlbb/skills/phoveus-3.webp)Ультимейт**Адская погоня**
 
@@ -288,17 +327,13 @@ B
 
 "Адскую погоню" можно использовать, только если рядом есть враги с меткой грешника. Восстановление ОЗ уменьшается на 80% при попадании по нескольким врагам.
 
-## Контрпики
+## Контрпики Фовиуса
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Фовиуса
 
 [![](/images/heroes/art/wanwan.webp)Ванван](https://boostmlbb.ru/heroes/wanwan.html)[![](/images/heroes/art/harith.webp)Харит](https://boostmlbb.ru/heroes/harith.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/ruby.webp)Руби](https://boostmlbb.ru/heroes/ruby.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Фовиус
 
 [![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/cecilion.webp)Сесилион](https://boostmlbb.ru/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)
 
@@ -314,22 +349,26 @@ B
 
 ## Частые вопросы
 
-Кто контрпик для героя «Фовиус» в MLBB?
+Кто контрит Фовиуса в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Ванван, Харит, Фрейя, Бенедетта и Руби.
+За последние 30 дней Фовиуса чаще всего обыгрывают Ванван, Харит, Фрейя, Бенедетта и Руби.
 
-Какой процент побед у героя «Фовиус» сейчас?
+Как играть за Фовиуса?
+
+В первую очередь качайте «Демонический натиск», ульт берите, как только доступен. Сила ровная всю игру, от 45,7% до 50,7%. Выбирайте драки по готовым предметам, а не по минутам. Комбо для драки: В драке усиленной атакой влетите, отбросьте и пометьте, сразу ультуйте. Затем первый, второй и снова ульт. Усиленным первым пометьте ещё раз и ультуйте.
+
+Какой процент побед у Фовиуса сейчас?
 
 48,55% в Мифической славе за последние 7 дней и 48,22% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Фовиус»?
+Какая роль и линия у Фовиуса?
 
 Боец, играет на линии опыта.
 
-Силён ли герой «Фовиус» в текущей мете?
+Стоит ли брать Фовиуса в текущей мете?
 
 Тир B, 65-е место из 133 героев и 19-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 48,5% побед. В профессиональных матчах за месяц героя драфтуют в 18,3% катков.
 
-Какая сборка на героя «Фовиус» лучшая?
+Какая сборка на Фовиуса лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Оракул» и «Крылья королевы», эмблема бойца с талантами «Трепет», «Кровавое пиршество» и «Отвага» и заклинание «Месть». С ней выигрывают 57,13% матчей.

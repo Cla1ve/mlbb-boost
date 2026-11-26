@@ -1,6 +1,6 @@
 ---
-title: "Saber MLBB: build, counters and skills | MLBB Boost"
-description: "Saber in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 53.73% win rate, tier B."
+title: "Saber MLBB: build, combos and counters | MLBB Boost"
+description: "Saber in Mobile Legends: ranked build, skill combos, how to play and who counters Saber. Assassin, 53.73% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/saber.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 13.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,46 @@ Fighter
     Temporal Reign
 
 
-## Skills
+## How to play Saber
 
-Level-up**Triple Sweep**_›_**Orbiting Swords**_›_**Charge**
+### Saber combos
+
+#### Teamfight
+
+1.  ![Orbiting Swords](/images/mlbb/skills/saber-1.webp)1
+2.  ![Charge](/images/mlbb/skills/saber-2.webp)2
+3.  ![Triple Sweep](/images/mlbb/skills/saber-3.webp)Ult
+
+Saber can use his 1st Skill to poke and weaken the enemy, follow with his 2nd Skill to close in, then use his Ultimate to finish them off.
+
+#### Laning
+
+1.  ![Orbiting Swords](/images/mlbb/skills/saber-1.webp)1
+2.  ![Charge](/images/mlbb/skills/saber-2.webp)2
+3.  ![Triple Sweep](/images/mlbb/skills/saber-3.webp)Ult
+
+Saber can use his 1st Skill to poke and weaken the enemy, follow with his 2nd Skill to close in, then use his Ultimate to finish them off.
+
+### When strongest
+
+Stronger early: 59.6% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **59.6**10–12
+2.  **55.7**12–14
+3.  **53.3**14–16
+4.  **52.1**16–18
+5.  **51.4**18–20
+6.  **50.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/saber-3.webp)Triple Sweep
+2.  ![](/images/mlbb/skills/saber-1.webp)Orbiting Swords
+3.  ![](/images/mlbb/skills/saber-2.webp)Charge
+
+## Skills
 
 ![](/images/mlbb/skills/saber-0.webp)Passive**Enemy's Bane**![](/images/mlbb/skills/saber-1.webp)Skill 1**Orbiting Swords**![](/images/mlbb/skills/saber-2.webp)Skill 2**Charge**![](/images/mlbb/skills/saber-3.webp)Ultimate**Triple Sweep**
 
@@ -288,17 +325,13 @@ Cooldown **44 Mana Cost: 100 s**
 
 Saber charges at the target enemy hero, knocking them airborne for 1.2s (unaffected by Resilience). He strikes them 3 times over the duration, dealing 120 (+80% Extra Physical Attack) Physical Damage with the first 2 strikes and 240 (+160% Extra Physical Attack) Physical Damage with the third.
 
-## Counters
+## Saber counters
 
-### Counters
-
-Beat this hero
+### Who counters Saber
 
 [![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
-### Easy targets
-
-This hero beats them
+### Who Saber counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
@@ -317,6 +350,10 @@ This hero beats them
 Who counters Saber in MLBB?
 
 Over the last 30 days the toughest opponents are Ling, Nolan, Natalia, Lunox and Yve.
+
+How do you play Saber?
+
+Level "Orbiting Swords" first and take the ultimate whenever it is available. Stronger early: 59.6% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Saber can use his 1st Skill to poke and weaken the enemy, follow with his 2nd Skill to close in, then use his Ultimate to finish them off.
 
 What is Saber’s win rate right now?
 

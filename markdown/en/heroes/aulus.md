@@ -1,6 +1,6 @@
 ---
-title: "Aulus MLBB: build, counters and skills | MLBB Boost"
-description: "Aulus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.08% win rate, tier S."
+title: "Aulus MLBB: build, combos and counters | MLBB Boost"
+description: "Aulus in Mobile Legends: ranked build, skill combos, how to play and who counters Aulus. Fighter, 53.08% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/aulus.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 19.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,53 @@ Fighter
     Killing Spree
 
 
-## Skills
+## How to play Aulus
 
-Level-up**Cleaving Axe**_›_**The Power of Axe**_›_**Aulus, Charge!**
+### Aulus combos
+
+#### Teamfight
+
+1.  ![Aulus, Charge!](/images/mlbb/skills/aulus-1.webp)1
+2.  ![The Power of Axe](/images/mlbb/skills/aulus-2.webp)2
+3.  ![The Power of Axe](/images/mlbb/skills/aulus-2.webp)2
+4.  ![Cleaving Axe](/images/mlbb/skills/aulus-3.webp)Ult
+5.  Attack
+6.  Attack
+
+In teamfights, use Aulus's 1st Skill to gain Movement Speed and Control Immunity to quickly enter the fray. Use his 2nd Skill's second cast to get onto key targets, then activate his Ultimate and stay on them for continuous damage. Finally, use his enhanced Basic Attacks to clean up the battlefield.
+
+#### Jungle
+
+1.  ![Aulus, Charge!](/images/mlbb/skills/aulus-1.webp)1
+2.  ![The Power of Axe](/images/mlbb/skills/aulus-2.webp)2
+3.  Attack
+4.  ![The Power of Axe](/images/mlbb/skills/aulus-2.webp)2
+5.  Attack
+6.  ![Cleaving Axe](/images/mlbb/skills/aulus-3.webp)Ult
+7.  Attack
+
+When ganking in the early game, use Aulus's 1st Skill for Movement Speed and Control Immunity to quickly close in on the target. Then, use his 2nd Skill to slow them while weaving in Basic Attacks. Use his 2nd Skill again to stay on the target, and activate his Ultimate to chase while dealing damage, then finish them off with his enhanced Basic Attacks.
+
+### When strongest
+
+Stronger late: 50.4% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **45.1**10–12
+2.  **47.0**12–14
+3.  **48.4**14–16
+4.  **49.6**16–18
+5.  **50.4**18–20
+6.  **50.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/aulus-3.webp)Cleaving Axe
+2.  ![](/images/mlbb/skills/aulus-2.webp)The Power of Axe
+3.  ![](/images/mlbb/skills/aulus-1.webp)Aulus, Charge!
+
+## Skills
 
 ![](/images/mlbb/skills/aulus-0.webp)Passive**Fighting Spirit**![](/images/mlbb/skills/aulus-1.webp)Skill 1**Aulus, Charge!**![](/images/mlbb/skills/aulus-2.webp)Skill 2**The Power of Axe**![](/images/mlbb/skills/aulus-3.webp)Ultimate**Cleaving Axe**
 
@@ -293,11 +337,9 @@ Aulus repeatedly swings his axe at nearby enemies, dealing 150 (+60% Total Physi
 
 During this skill, Aulus gains 20% Damage Reduction and a short burst of Movement Speed with each slash.
 
-## Counters
+## Aulus counters
 
-### Counters
-
-Beat this hero
+### Who counters Aulus
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -316,6 +358,10 @@ Beat this hero
 Who counters Aulus in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Minsitthar, Tigreal, Lolita and Natalia.
+
+How do you play Aulus?
+
+Level "The Power of Axe" first and take the ultimate whenever it is available. Stronger late: 50.4% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Aulus's 1st Skill to gain Movement Speed and Control Immunity to quickly enter the fray. Use his 2nd Skill's second cast to get onto key targets, then activate his Ultimate and stay on them for continuous damage. Finally, use his enhanced Basic Attacks to clean up the battlefield.
 
 What is Aulus’s win rate right now?
 

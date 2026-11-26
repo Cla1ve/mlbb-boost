@@ -1,6 +1,6 @@
 ---
-title: "Natalia MLBB: build, counters and skills | MLBB Boost"
-description: "Natalia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.33% win rate, tier D."
+title: "Natalia MLBB: build, combos and counters | MLBB Boost"
+description: "Natalia in Mobile Legends: ranked build, skill combos, how to play and who counters Natalia. Assassin, 50.33% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/natalia.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,51 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Natalia
 
-Level-up**The Hunt**_›_**Claw Dash**_›_**Smoke Bomb**
+### Natalia combos
+
+#### Teamfight
+
+1.  Attack
+2.  ![Smoke Bomb](/images/mlbb/skills/natalia-2.webp)2
+3.  ![Claw Dash](/images/mlbb/skills/natalia-1.webp)1
+4.  ![The Hunt](/images/mlbb/skills/natalia-3.webp)Ult
+5.  Attack
+6.  ![Claw Dash](/images/mlbb/skills/natalia-1.webp)1
+7.  ![The Hunt](/images/mlbb/skills/natalia-3.webp)Ult
+
+In teamfights, use Natalia's Passive and enhanced Basic Attacks to approach enemies, then use her 2nd Skill to improve her survivability. Follow up with her 1st Skill then Ultimate and end with a Basic Attack to finish off the enemy.
+
+#### Laning
+
+1.  Attack
+2.  ![Smoke Bomb](/images/mlbb/skills/natalia-2.webp)2
+3.  ![Claw Dash](/images/mlbb/skills/natalia-1.webp)1
+4.  ![Claw Dash](/images/mlbb/skills/natalia-1.webp)1
+
+When ganking, hide in a bush to activate Natalia's Passive, then approach the enemy from behind and blink to them with the enhanced Basic Attack. Follow up with her 2nd Skill to slow the enemy and chase after them using her 1st Skill.
+
+### When strongest
+
+Stronger late: 56.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **46.9**10–12
+2.  **51.7**12–14
+3.  **54.4**14–16
+4.  **56.3**16–18
+5.  **56.8**18–20
+6.  **56.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/natalia-3.webp)The Hunt
+2.  ![](/images/mlbb/skills/natalia-1.webp)Claw Dash
+3.  ![](/images/mlbb/skills/natalia-2.webp)Smoke Bomb
+
+## Skills
 
 ![](/images/mlbb/skills/natalia-0.webp)Passive**Assassin Instinct**![](/images/mlbb/skills/natalia-1.webp)Skill 1**Claw Dash**![](/images/mlbb/skills/natalia-2.webp)Skill 2**Smoke Bomb**![](/images/mlbb/skills/natalia-3.webp)Ultimate**The Hunt**
 
@@ -292,17 +334,13 @@ Cooldown **3 s**
 
 **Active:** Natalia immediately enters the Assassin Instinct state. She can store up to 2 Ultimate charges, and each charge has a recharge time of 30s. Killing creeps reduces the remaining recharge time by 50% of the full recharge time.
 
-## Counters
+## Natalia counters
 
-### Counters
-
-Beat this hero
+### Who counters Natalia
 
 [![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)
 
-### Easy targets
-
-This hero beats them
+### Who Natalia counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)
 
@@ -321,6 +359,10 @@ This hero beats them
 Who counters Natalia in MLBB?
 
 Over the last 30 days the toughest opponents are Ling, Hanzo, Xavier, Minsitthar and Nolan.
+
+How do you play Natalia?
+
+Level "Claw Dash" first and take the ultimate whenever it is available. Stronger late: 56.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Natalia's Passive and enhanced Basic Attacks to approach enemies, then use her 2nd Skill to improve her survivability. Follow up with her 1st Skill then Ultimate and end with a Basic Attack to finish off the enemy.
 
 What is Natalia’s win rate right now?
 

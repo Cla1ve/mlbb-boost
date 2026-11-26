@@ -1,6 +1,6 @@
 ---
-title: "Kagura MLBB: build, counters and skills | MLBB Boost"
-description: "Kagura in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.31% win rate, tier B."
+title: "Kagura MLBB: build, combos and counters | MLBB Boost"
+description: "Kagura in Mobile Legends: ranked build, skill combos, how to play and who counters Kagura. Mage, 50.31% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kagura.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Kagura
 
-Level-up**Yin Yang Overturn**_›_**Seimei Umbrella Open** _›_**Rasho Umbrella Flee**
+### Kagura combos
+
+#### Teamfight
+
+1.  ![Seimei Umbrella Open ](/images/mlbb/skills/kagura-1.webp)1
+2.  ![Yin Yang Overturn](/images/mlbb/skills/kagura-3.webp)Ult
+3.  ![Seimei Umbrella Open ](/images/mlbb/skills/kagura-1.webp)1
+4.  ![Rasho Umbrella Flee](/images/mlbb/skills/kagura-2.webp)2
+5.  ![Yin Yang Overturn](/images/mlbb/skills/kagura-3.webp)Ult
+6.  ![Rasho Umbrella Flee](/images/mlbb/skills/kagura-2.webp)2
+
+Kagura should place her Umbrella between the enemies with her 1st Skill, then use her Ultimate to reset the cooldown for her 1st Skill to be able to adjust the Umbrella location before teleporting to the Umbrella location to stun nearby enemies. She should then use her Ultimate + 2nd Skill combo to escape from the fighting zone.
+
+#### Laning
+
+1.  ![Seimei Umbrella Open ](/images/mlbb/skills/kagura-1.webp)1
+2.  ![Rasho Umbrella Flee](/images/mlbb/skills/kagura-2.webp)2
+3.  ![Rasho Umbrella Flee](/images/mlbb/skills/kagura-2.webp)2
+
+Kagura can use her 1st Skill to poke the enemy with her Umbrella, then her 2nd Skill to teleport to the Umbrella's location, dealing more damage to the enemies and dash back by casting her 2nd Skill again.
+
+### When strongest
+
+Stronger early: 52.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **52.2**10–12
+2.  **50.7**12–14
+3.  **49.6**14–16
+4.  **49.6**16–18
+5.  **49.8**18–20
+6.  **50.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/kagura-3.webp)Yin Yang Overturn
+2.  ![](/images/mlbb/skills/kagura-1.webp)Seimei Umbrella Open
+3.  ![](/images/mlbb/skills/kagura-2.webp)Rasho Umbrella Flee
+
+## Skills
 
 ![](/images/mlbb/skills/kagura-0.webp)Passive**Yin Yang Gathering** ![](/images/mlbb/skills/kagura-1.webp)Skill 1**Seimei Umbrella Open** ![](/images/mlbb/skills/kagura-2.webp)Skill 2**Rasho Umbrella Flee**![](/images/mlbb/skills/kagura-3.webp)Ultimate**Yin Yang Overturn**
 
@@ -285,17 +325,13 @@ Cooldown **36 Mana Cost: 60 s**
 
 Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic Power) Magic Damage to nearby enemies, knocking them back, and slowing them by 60% for 0.5s.
 
-## Counters
+## Kagura counters
 
-### Counters
-
-Beat this hero
+### Who counters Kagura
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
-### Easy targets
-
-This hero beats them
+### Who Kagura counters
 
 [![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)
 
@@ -314,6 +350,10 @@ This hero beats them
 Who counters Kagura in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Silvanna, Hanzo, Valir and Hanabi.
+
+How do you play Kagura?
+
+Level "Seimei Umbrella Open " first and take the ultimate whenever it is available. Stronger early: 52.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Kagura should place her Umbrella between the enemies with her 1st Skill, then use her Ultimate to reset the cooldown for her 1st Skill to be able to adjust the Umbrella location before teleporting to the Umbrella location to stun nearby enemies. She should then use her Ultimate + 2nd Skill combo to escape from the fighting zone.
 
 What is Kagura’s win rate right now?
 

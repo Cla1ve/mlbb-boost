@@ -1,6 +1,6 @@
 ---
-title: "Yve MLBB: build, counters and skills | MLBB Boost"
-description: "Yve in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.68% win rate, tier C."
+title: "Yve MLBB: build, combos and counters | MLBB Boost"
+description: "Yve in Mobile Legends: ranked build, skill combos, how to play and who counters Yve. Mage, 51.68% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yve.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Common
     Impure Rage
 
 
-## Skills
+## How to play Yve
 
-Level-up**Real World Manipulation**_›_**Void Blast**_›_**Void Crystal**
+### Yve combos
+
+#### Teamfight
+
+1.  ![Real World Manipulation](/images/mlbb/skills/yve-3.webp)Ult
+2.  ![Void Crystal](/images/mlbb/skills/yve-2.webp)2
+3.  ![Void Blast](/images/mlbb/skills/yve-1.webp)1
+
+In teamfights, use Yve's Ultimate to cover as many enemies as possible and unleash multiple attacks on them. When the enemies run out of Yve's Ultimate, cancel it and use her 2nd Skill to slow them, then finish them off with her 1st Skill.
+
+#### Laning
+
+1.  ![Void Crystal](/images/mlbb/skills/yve-2.webp)2
+2.  ![Void Blast](/images/mlbb/skills/yve-1.webp)1
+
+In the laning phase, use Yve's 2nd Skill to first slow the enemy from afar, then hit them with the center of her 1st Skill.
+
+### When strongest
+
+Stronger early: 57.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **57.2**10–12
+2.  **52.7**12–14
+3.  **50.1**14–16
+4.  **49.5**16–18
+5.  **49.3**18–20
+6.  **49.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/yve-3.webp)Real World Manipulation
+2.  ![](/images/mlbb/skills/yve-1.webp)Void Blast
+3.  ![](/images/mlbb/skills/yve-2.webp)Void Crystal
+
+## Skills
 
 ![](/images/mlbb/skills/yve-0.webp)Passive**Galactic Power**![](/images/mlbb/skills/yve-1.webp)Skill 1**Void Blast**![](/images/mlbb/skills/yve-2.webp)Skill 2**Void Crystal**![](/images/mlbb/skills/yve-3.webp)Ultimate**Real World Manipulation**
 
@@ -295,17 +331,13 @@ Enemies leaving or entering the Starfield will be immobilized for 0.8s (only onc
 
 Yve cannot be displaced while the Starfield is active, and the Starfield will remain even if Yve is controlled (except for Suppression).
 
-## Counters
+## Yve counters
 
-### Counters
-
-Beat this hero
+### Who counters Yve
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
-### Easy targets
-
-This hero beats them
+### Who Yve counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)
 
@@ -324,6 +356,10 @@ This hero beats them
 Who counters Yve in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Hylos, Barats, Alice and X.Borg.
+
+How do you play Yve?
+
+Level "Void Blast" first and take the ultimate whenever it is available. Stronger early: 57.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Yve's Ultimate to cover as many enemies as possible and unleash multiple attacks on them. When the enemies run out of Yve's Ultimate, cancel it and use her 2nd Skill to slow them, then finish them off with her 1st Skill.
 
 What is Yve’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Zhask MLBB: build, counters and skills | MLBB Boost"
-description: "Zhask in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.67% win rate, tier C."
+title: "Zhask MLBB: build, combos and counters | MLBB Boost"
+description: "Zhask in Mobile Legends: ranked build, skill combos, how to play and who counters Zhask. Mage, 51.67% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zhask.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,50 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Zhask
 
-Level-up**Dominator's Descent**_›_**Nightmaric Spawn**_›_**Mind Eater**_›_**Hive Clones**
+### Zhask combos
+
+#### Teamfight
+
+1.  ![Nightmaric Spawn](/images/mlbb/skills/zhask-1.webp)1
+2.  ![Dominator's Descent](/images/mlbb/skills/zhask-4.webp)Ult
+3.  ![Mind Eater](/images/mlbb/skills/zhask-2.webp)2
+4.  ![Hive Clones](/images/mlbb/skills/zhask-3.webp)3
+5.  Attack
+6.  ![Nightmaric Spawn](/images/mlbb/skills/zhask-1.webp)1
+
+In teamfights, Zhask should start by summoning his Nightmaric Spawn in a suitable location and use his Ultimate to fuse with it, then unleash his enhanced 2nd and 3rd Skill to stun and damage enemies, and follow up with Basic Attacks. If the enemy tries to flee, use his enhanced 1st Skill to blink toward them.
+
+#### Laning
+
+1.  ![Nightmaric Spawn](/images/mlbb/skills/zhask-1.webp)1
+2.  ![Mind Eater](/images/mlbb/skills/zhask-2.webp)2
+3.  ![Hive Clones](/images/mlbb/skills/zhask-3.webp)3
+
+In the laning phase, Zhask should start with his 1st Skill to summon a Nightmaric Spawn next to the enemy and follow up with his 2nd Skill to stun the target, then use his 3rd Skill for more damage.
+
+### When strongest
+
+Stronger early: 54.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **54.7**10–12
+2.  **52.7**12–14
+3.  **52.5**14–16
+4.  **52.4**16–18
+5.  **52.9**18–20
+6.  **51.7**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/zhask-4.webp)Dominator's Descent
+2.  ![](/images/mlbb/skills/zhask-1.webp)Nightmaric Spawn
+3.  ![](/images/mlbb/skills/zhask-2.webp)Mind Eater
+4.  ![](/images/mlbb/skills/zhask-3.webp)Hive Clones
+
+## Skills
 
 ![](/images/mlbb/skills/zhask-0.webp)Passive**Decimation**![](/images/mlbb/skills/zhask-1.webp)Skill 1**Nightmaric Spawn**![](/images/mlbb/skills/zhask-2.webp)Skill 2**Mind Eater**![](/images/mlbb/skills/zhask-3.webp)Skill 3**Hive Clones**![](/images/mlbb/skills/zhask-4.webp)Ultimate**Dominator's Descent**
 
@@ -305,17 +346,13 @@ Zhask selects a target area to summon an enhanced Nightmaric Spawn and fuses wit
 
 **Use Again:** Zhask immediately gets off the Nightmaric Spawn and loses enhancement.
 
-## Counters
+## Zhask counters
 
-### Counters
-
-Beat this hero
+### Who counters Zhask
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
-### Easy targets
-
-This hero beats them
+### Who Zhask counters
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
@@ -334,6 +371,10 @@ This hero beats them
 Who counters Zhask in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Diggie, Kaja, Arlott and Yin.
+
+How do you play Zhask?
+
+Level "Nightmaric Spawn" first and take the ultimate whenever it is available. Stronger early: 54.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Zhask should start by summoning his Nightmaric Spawn in a suitable location and use his Ultimate to fuse with it, then unleash his enhanced 2nd and 3rd Skill to stun and damage enemies, and follow up with Basic Attacks. If the enemy tries to flee, use his enhanced 1st Skill to blink toward them.
 
 What is Zhask’s win rate right now?
 

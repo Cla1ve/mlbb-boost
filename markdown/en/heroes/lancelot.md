@@ -1,6 +1,6 @@
 ---
-title: "Lancelot MLBB: build, counters and skills | MLBB Boost"
-description: "Lancelot in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.16% win rate, tier C."
+title: "Lancelot MLBB: build, combos and counters | MLBB Boost"
+description: "Lancelot in Mobile Legends: ranked build, skill combos, how to play and who counters Lancelot. Assassin, 42.16% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lancelot.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Fighter
     Killing Spree
 
 
-## Skills
+## How to play Lancelot
 
-Level-up**Phantom Execution**_›_**Thorned Rose**_›_**Puncture**
+### Lancelot combos
+
+#### Teamfight
+
+1.  ![Puncture](/images/mlbb/skills/lancelot-1.webp)1
+2.  ![Thorned Rose](/images/mlbb/skills/lancelot-2.webp)2
+3.  ![Phantom Execution](/images/mlbb/skills/lancelot-3.webp)Ult
+4.  ![Puncture](/images/mlbb/skills/lancelot-1.webp)1
+
+In teamfights, use Lancelot's 1st Skill on frontline enemies to springboard into their backline, then unleash his 2nd Skill on the backline for heavy damage. Follow up with his Ultimate to charge through the target and block their escape, and use his 1st Skill to continue to chase or retreat.
+
+#### Laning
+
+1.  ![Puncture](/images/mlbb/skills/lancelot-1.webp)1
+2.  ![Thorned Rose](/images/mlbb/skills/lancelot-2.webp)2
+
+In the laning phase, clear Minions by repeatedly using Lancelot's 1st Skill thanks to the cooldown reset, and stack his Passive before approaching the enemy and hitting them with his 2nd Skill.
+
+### When strongest
+
+Stronger late: 49.1% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **35.2**10–12
+2.  **39.9**12–14
+3.  **42.3**14–16
+4.  **45.3**16–18
+5.  **47.6**18–20
+6.  **49.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/lancelot-3.webp)Phantom Execution
+2.  ![](/images/mlbb/skills/lancelot-2.webp)Thorned Rose
+3.  ![](/images/mlbb/skills/lancelot-1.webp)Puncture
+
+## Skills
 
 ![](/images/mlbb/skills/lancelot-0.webp)Passive**Soul Cutter**![](/images/mlbb/skills/lancelot-1.webp)Skill 1**Puncture**![](/images/mlbb/skills/lancelot-2.webp)Skill 2**Thorned Rose**![](/images/mlbb/skills/lancelot-3.webp)Ultimate**Phantom Execution**
 
@@ -285,17 +322,13 @@ Cooldown **36 Mana Cost: 100 s**
 
 After a short delay, Lancelot performs an executioner's strike in the target direction, dealing 350 (+170% Total Physical Attack) Physical Damage to enemies hit. He is invincible throughout the process.
 
-## Counters
+## Lancelot counters
 
-### Counters
-
-Beat this hero
+### Who counters Lancelot
 
 [![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
-### Easy targets
-
-This hero beats them
+### Who Lancelot counters
 
 [![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)
 
@@ -314,6 +347,10 @@ This hero beats them
 Who counters Lancelot in MLBB?
 
 Over the last 30 days the toughest opponents are Atlas, Yin, Alpha, Johnson and X.Borg.
+
+How do you play Lancelot?
+
+Level "Thorned Rose" first and take the ultimate whenever it is available. Stronger late: 49.1% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Lancelot's 1st Skill on frontline enemies to springboard into their backline, then unleash his 2nd Skill on the backline for heavy damage. Follow up with his Ultimate to charge through the target and block their escape, and use his 1st Skill to continue to chase or retreat.
 
 What is Lancelot’s win rate right now?
 

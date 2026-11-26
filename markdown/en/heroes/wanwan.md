@@ -1,6 +1,6 @@
 ---
-title: "Wanwan MLBB: build, counters and skills | MLBB Boost"
-description: "Wanwan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 47.11% win rate, tier D."
+title: "Wanwan MLBB: build, combos and counters | MLBB Boost"
+description: "Wanwan in Mobile Legends: ranked build, skill combos, how to play and who counters Wanwan. Marksman, 47.11% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/wanwan.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -273,9 +273,47 @@ Marksman
     Weakness Finder
 
 
-## Skills
+## How to play Wanwan
 
-Level-up**Crossbow of Tang**_›_**Swallow’s Path**_›_**Needles in Flowers**
+### Wanwan combos
+
+#### Teamfight
+
+1.  ![Swallow’s Path](/images/mlbb/skills/wanwan-1.webp)1
+2.  Attack
+3.  ![Crossbow of Tang](/images/mlbb/skills/wanwan-3.webp)Ult
+
+In teamfights, use Basic Attacks to dash with her Passive and adjust position for damage, and then land as many hits as possible with her 1st Skill. After hitting all Weaknesses, reap kills with her Ultimate.
+
+#### Laning
+
+1.  Attack
+2.  ![Swallow’s Path](/images/mlbb/skills/wanwan-1.webp)1
+3.  Attack
+4.  ![Crossbow of Tang](/images/mlbb/skills/wanwan-3.webp)Ult
+
+In the laning phase, Wanwan can poke enemies with her 1st Skill and then use Basic Attacks to dash with her Passive and adjust Swallow Daggers' paths to control enemies. After hitting an enemy's three Weaknesses, she can finish them off with her Ultimate.
+
+### When strongest
+
+Stronger late: 52.5% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **41.1**10–12
+2.  **45.1**12–14
+3.  **47.6**14–16
+4.  **50.2**16–18
+5.  **51.2**18–20
+6.  **52.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/wanwan-3.webp)Crossbow of Tang
+2.  ![](/images/mlbb/skills/wanwan-1.webp)Swallow’s Path
+3.  ![](/images/mlbb/skills/wanwan-2.webp)Needles in Flowers
+
+## Skills
 
 ![](/images/mlbb/skills/wanwan-0.webp)Passive**Tiger Pace**![](/images/mlbb/skills/wanwan-1.webp)Skill 1**Swallow’s Path**![](/images/mlbb/skills/wanwan-2.webp)Skill 2**Needles in Flowers**![](/images/mlbb/skills/wanwan-3.webp)Ultimate**Crossbow of Tang**
 
@@ -311,17 +349,13 @@ Wanwan leaps into the air and becomes untargetable, firing arrows at the target 
 
 Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. This damage is regarded as Basic Attack damage, and the firing rate scales with Wanwan's Attack Speed.
 
-## Counters
+## Wanwan counters
 
-### Counters
-
-Beat this hero
+### Who counters Wanwan
 
 [![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
-### Easy targets
-
-This hero beats them
+### Who Wanwan counters
 
 [![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
@@ -340,6 +374,10 @@ This hero beats them
 Who counters Wanwan in MLBB?
 
 Over the last 30 days the toughest opponents are Yin, Ixia, Atlas, Guinevere and Hanabi.
+
+How do you play Wanwan?
+
+Level "Swallow’s Path" first and take the ultimate whenever it is available. Stronger late: 52.5% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Basic Attacks to dash with her Passive and adjust position for damage, and then land as many hits as possible with her 1st Skill. After hitting all Weaknesses, reap kills with her Ultimate.
 
 What is Wanwan’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Джонсон MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Джонсон в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 47,96% побед, тир C."
+title: "Джонсон MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Джонсон, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Джонсона. Танк и поддержка, 47,96% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/johnson.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 0,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -247,9 +247,46 @@ C
     Ударная волна
 
 
-## Навыки
+## Как играть за Джонсона
 
-Прокачка**Газ до упора**_›_**Электромагнитные волны**_›_**Ударный гаечный ключ**
+### Комбо Джонсона
+
+#### В драке
+
+1.  ![Газ до упора](/images/mlbb/skills/johnson-3.webp)Ульт
+2.  ![Электромагнитные волны](/images/mlbb/skills/johnson-2.webp)2
+3.  ![Ударный гаечный ключ](/images/mlbb/skills/johnson-1.webp)1
+
+В драке включите ульт, подберите союзника и врывайтесь, затем вторым и первым дайте ещё контроль.
+
+#### На линии
+
+1.  ![Ударный гаечный ключ](/images/mlbb/skills/johnson-1.webp)1
+2.  ![Электромагнитные волны](/images/mlbb/skills/johnson-2.webp)2
+3.  Атака
+
+На линии оглушите первым навыком, подъедьте и бейте вторым и атаками.
+
+### Когда сильнее всего
+
+Сильнее в долгой игре: на 16–18 минутах выигрывает 51,7%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.
+
+1.  **45,8**10–12
+2.  **49,0**12–14
+3.  **51,4**14–16
+4.  **51,7**16–18
+5.  **51,4**18–20
+6.  **50,5**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/johnson-3.webp)Газ до упора
+2.  ![](/images/mlbb/skills/johnson-2.webp)Электромагнитные волны
+3.  ![](/images/mlbb/skills/johnson-1.webp)Ударный гаечный ключ
+
+## Навыки
 
 ![](/images/mlbb/skills/johnson-0.webp)Пассивный**Подушка безопасности**![](/images/mlbb/skills/johnson-1.webp)1-й навык**Ударный гаечный ключ**![](/images/mlbb/skills/johnson-2.webp)2-й навык**Электромагнитные волны**![](/images/mlbb/skills/johnson-3.webp)Ультимейт**Газ до упора**
 
@@ -289,17 +326,13 @@ C
 
 Местоположение Джонсона раскрывается врагам на 3 сек., когда он применяет этот навык.
 
-## Контрпики
+## Контрпики Джонсона
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Джонсона
 
 [![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Дариус](https://boostmlbb.ru/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Джонсон
 
 [![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Глу](https://boostmlbb.ru/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Лилия](https://boostmlbb.ru/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)
 
@@ -315,22 +348,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Джонсон» в MLBB?
+Кто контрит Джонсона в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Лейла, Зилонг, Сабер, Дариус и Валентина.
+За последние 30 дней Джонсона чаще всего обыгрывают Лейла, Зилонг, Сабер, Дариус и Валентина.
 
-Какой процент побед у героя «Джонсон» сейчас?
+Как играть за Джонсона?
+
+В первую очередь качайте «Электромагнитные волны», ульт берите, как только доступен. Сильнее в долгой игре: на 16–18 минутах выигрывает 51,7%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой. Комбо для драки: В драке включите ульт, подберите союзника и врывайтесь, затем вторым и первым дайте ещё контроль.
+
+Какой процент побед у Джонсона сейчас?
 
 47,96% в Мифической славе за последние 7 дней и 49,36% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Джонсон»?
+Какая роль и линия у Джонсона?
 
 Танк и поддержка, играет в роуме.
 
-Силён ли герой «Джонсон» в текущей мете?
+Стоит ли брать Джонсона в текущей мете?
 
 Тир C, 102-е место из 133 героев и 17-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 48,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Джонсон» лучшая?
+Какая сборка на Джонсона лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Господство льда», «Древняя кираса» и «Шипованная броня», эмблема танка с талантами «Вдохновение», «Второе дыхание» и «Ударная волна» и заклинание «Спринт». С ней выигрывают 55,57% матчей.

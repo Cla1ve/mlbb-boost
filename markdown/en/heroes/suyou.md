@@ -1,6 +1,6 @@
 ---
-title: "Suyou MLBB: build, counters and skills | MLBB Boost"
-description: "Suyou in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.43% win rate, tier B."
+title: "Suyou MLBB: build, combos and counters | MLBB Boost"
+description: "Suyou in Mobile Legends: ranked build, skill combos, how to play and who counters Suyou. Fighter and assassin, 49.43% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/suyou.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,50 @@ Assassin
     Killing Spree
 
 
-## Skills
+## How to play Suyou
 
-Level-up**Soul Sever**_›_**Evil Queller**_›_**Blade Surge**
+### Suyou combos
+
+#### Teamfight
+
+1.  ![Evil Queller](/images/mlbb/skills/suyou-3.webp)Ult
+2.  ![Blade Surge](/images/mlbb/skills/suyou-1.webp)1
+3.  ![Soul Sever](/images/mlbb/skills/suyou-2.webp)2
+4.  ![Evil Queller](/images/mlbb/skills/suyou-3.webp)Ult
+5.  ![Blade Surge](/images/mlbb/skills/suyou-1.webp)1
+6.  ![Soul Sever](/images/mlbb/skills/suyou-2.webp)2
+
+Hold-cast Skill 3 to poke before the team fight, then hold-cast Skill 1 to engage and control the enemy at their back, then hold-cast Skill 2 to deal massive damage. Then tap-cast Skill 3 to keep your distance from the enemy, and when the skill cooldown is up, tap-cast Skill 1 and Skill 2 to quickly kill the target.
+
+#### Laning
+
+1.  ![Blade Surge](/images/mlbb/skills/suyou-1.webp)1
+2.  Attack
+3.  ![Soul Sever](/images/mlbb/skills/suyou-2.webp)2
+4.  ![Evil Queller](/images/mlbb/skills/suyou-3.webp)Ult
+
+Hold-casting Skill 1 in the Bush allows Suyou to attack unexpectedly and control the enemy; then hold-cast Skill 2 to deal massive damage and follow up the Basic Attack by tap-casting Skill 3 to leave the battlefield.
+
+### When strongest
+
+Stronger early: 53.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.0**10–12
+2.  **50.5**12–14
+3.  **49.4**14–16
+4.  **48.9**16–18
+5.  **48.8**18–20
+6.  **49.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/suyou-2.webp)Soul Sever
+2.  ![](/images/mlbb/skills/suyou-3.webp)Evil Queller
+3.  ![](/images/mlbb/skills/suyou-1.webp)Blade Surge
+
+## Skills
 
 ![](/images/mlbb/skills/suyou-0.webp)Passive**Transient Immortal**![](/images/mlbb/skills/suyou-1.webp)Skill 1**Blade Surge**![](/images/mlbb/skills/suyou-2.webp)Skill 2**Soul Sever**![](/images/mlbb/skills/suyou-3.webp)Ultimate**Evil Queller**
 
@@ -292,17 +333,13 @@ Ultimate
 
 Suyou can be controlled while charging, but the skill cannot be interrupted.
 
-## Counters
+## Suyou counters
 
-### Counters
-
-Beat this hero
+### Who counters Suyou
 
 [![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)
 
-### Easy targets
-
-This hero beats them
+### Who Suyou counters
 
 [![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
 
@@ -321,6 +358,10 @@ This hero beats them
 Who counters Suyou in MLBB?
 
 Over the last 30 days the toughest opponents are Natalia, Sun, X.Borg, Balmond and Yin.
+
+How do you play Suyou?
+
+Level "Soul Sever" first and take the ultimate whenever it is available. Stronger early: 53.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Hold-cast Skill 3 to poke before the team fight, then hold-cast Skill 1 to engage and control the enemy at their back, then hold-cast Skill 2 to deal massive damage. Then tap-cast Skill 3 to keep your distance from the enemy, and when the skill cooldown is up, tap-cast Skill 1 and Skill 2 to quickly kill the target.
 
 What is Suyou’s win rate right now?
 

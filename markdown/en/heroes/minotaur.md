@@ -1,6 +1,6 @@
 ---
-title: "Minotaur MLBB: build, counters and skills | MLBB Boost"
-description: "Minotaur in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 53.53% win rate, tier A."
+title: "Minotaur MLBB: build, combos and counters | MLBB Boost"
+description: "Minotaur in Mobile Legends: ranked build, skill combos, how to play and who counters Minotaur. Tank and support, 53.53% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/minotaur.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 10.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,48 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Minotaur
 
-Level-up**Minoan Fury**_›_**Despair Stomp**_›_**Motivation Roar**
+### Minotaur combos
+
+#### Teamfight
+
+1.  ![Despair Stomp](/images/mlbb/skills/minotaur-1.webp)1
+2.  ![Minoan Fury](/images/mlbb/skills/minotaur-3.webp)Ult
+3.  ![Despair Stomp](/images/mlbb/skills/minotaur-1.webp)1
+4.  Attack
+5.  ![Motivation Roar](/images/mlbb/skills/minotaur-2.webp)2
+
+In teamfights, use Minotaur's 1st Skill to jump in and knock enemies airborne, then use his Ultimate to keep them CC'd and enter Enraged state. Use his 1st Skill to knock enemies airborne again and continue with Basic Attacks. Use his 2nd Skill when he or his team needs healing.
+
+#### Laning
+
+1.  ![Despair Stomp](/images/mlbb/skills/minotaur-1.webp)1
+2.  Attack
+3.  ![Motivation Roar](/images/mlbb/skills/minotaur-2.webp)2
+
+In the laning phase, use Minotaur's 1st Skill to knock the enemy airborne and reduce their Defense, then deal damage with his enhanced Basic Attacks. Use his 2nd Skill to heal him and his teammate to come out ahead in the trade.
+
+### When strongest
+
+Stronger early: 55.6% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **55.6**10–12
+2.  **54.5**12–14
+3.  **54.6**14–16
+4.  **53.6**16–18
+5.  **52.9**18–20
+6.  **51.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/minotaur-3.webp)Minoan Fury
+2.  ![](/images/mlbb/skills/minotaur-1.webp)Despair Stomp
+3.  ![](/images/mlbb/skills/minotaur-2.webp)Motivation Roar
+
+## Skills
 
 ![](/images/mlbb/skills/minotaur-0.webp)Passive**Rage Incarnate**![](/images/mlbb/skills/minotaur-1.webp)Skill 1**Despair Stomp**![](/images/mlbb/skills/minotaur-2.webp)Skill 2**Motivation Roar**![](/images/mlbb/skills/minotaur-3.webp)Ultimate**Minoan Fury**
 
@@ -290,17 +329,13 @@ Minotaur enters Enraged state and smashes the ground 3 times. The first 2 hits d
 
 The Enraged state lasts 12s and enhances Minotaur's skills for the duration.
 
-## Counters
+## Minotaur counters
 
-### Counters
-
-Beat this hero
+### Who counters Minotaur
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)
 
-### Easy targets
-
-This hero beats them
+### Who Minotaur counters
 
 [![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
 
@@ -319,6 +354,10 @@ This hero beats them
 Who counters Minotaur in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Silvanna, Johnson, Cyclops and Khufra.
+
+How do you play Minotaur?
+
+Level "Despair Stomp" first and take the ultimate whenever it is available. Stronger early: 55.6% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Minotaur's 1st Skill to jump in and knock enemies airborne, then use his Ultimate to keep them CC'd and enter Enraged state. Use his 1st Skill to knock enemies airborne again and continue with Basic Attacks. Use his 2nd Skill when he or his team needs healing.
 
 What is Minotaur’s win rate right now?
 

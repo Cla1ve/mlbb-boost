@@ -1,6 +1,6 @@
 ---
-title: "Beatrix MLBB: build, counters and skills | MLBB Boost"
-description: "Beatrix in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.52% win rate, tier C."
+title: "Beatrix MLBB: build, combos and counters | MLBB Boost"
+description: "Beatrix in Mobile Legends: ranked build, skill combos, how to play and who counters Beatrix. Marksman, 50.52% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/beatrix.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,51 @@ Marksman
     Weakness Finder
 
 
-## Skills
+## How to play Beatrix
 
-Level-up**Renner's Apathy**_›_**Masterful Gunner**_›_**Tactical Reposition**
+### Beatrix combos
+
+#### Teamfight
+
+1.  ![Renner's Apathy](/images/mlbb/skills/beatrix-3.webp)3
+2.  ![Masterful Gunner](/images/mlbb/skills/beatrix-1.webp)1
+3.  ![Renner's Apathy](/images/mlbb/skills/beatrix-3.webp)3
+4.  Attack
+5.  ![Tactical Reposition](/images/mlbb/skills/beatrix-2.webp)2
+6.  Attack
+
+For teamfights, we recommend using Bennett as Beatrix's primary weapon and Nibiru as her secondary weapon. During a teamfight, Beatrix can use Bennett's Ultimate to strike the enemy team. Then she can use her 1st Skill to switch to Nibiru, and cast Nibiru's Ultimate to attack the enemy. She can finish off the enemy heroes with her Basic Attacks and her 2nd Skill.
+
+#### Laning
+
+1.  Attack
+2.  ![Tactical Reposition](/images/mlbb/skills/beatrix-2.webp)2
+3.  Attack
+4.  ![Masterful Gunner](/images/mlbb/skills/beatrix-1.webp)1
+5.  Attack
+
+In the laning phase, we recommend using Renner as Beatrix's primary weapon and Wesker as her secondary weapon. She can use Renner's ranged Basic Attack to poke the enemy, and her 2nd Skill to reload and fire again. She can then switch to Wesker to finish off the target enemy.
+
+### When strongest
+
+Even through the game, from 49.3% to 52.7%. Pick fights by your items rather than the clock.
+
+1.  **52.7**10–12
+2.  **50.1**12–14
+3.  **49.3**14–16
+4.  **49.7**16–18
+5.  **50.3**18–20
+6.  **50.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/beatrix-3.webp)Renner's Apathy
+2.  ![](/images/mlbb/skills/beatrix-1.webp)Masterful Gunner
+3.  ![](/images/mlbb/skills/beatrix-2.webp)Tactical Reposition
+
+## Skills
 
 ![](/images/mlbb/skills/beatrix-0.webp)Passive**Mechanical Genius**![](/images/mlbb/skills/beatrix-1.webp)Skill 1**Masterful Gunner**![](/images/mlbb/skills/beatrix-2.webp)Skill 2**Tactical Reposition**![](/images/mlbb/skills/beatrix-3.webp)Skill 3**Renner's Apathy**![](/images/mlbb/skills/beatrix-4.webp)Ultimate**Need Backup**
 
@@ -300,17 +342,13 @@ Beatrix must then choose two from the crate to serve as her primary and secondar
 
 Her weapon selection is interrupted if she commits any action or is controlled during this period.
 
-## Counters
+## Beatrix counters
 
-### Counters
-
-Beat this hero
+### Who counters Beatrix
 
 [![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)
 
-### Easy targets
-
-This hero beats them
+### Who Beatrix counters
 
 [![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)
 
@@ -329,6 +367,10 @@ This hero beats them
 Who counters Beatrix in MLBB?
 
 Over the last 30 days the toughest opponents are Estes, Hanabi, Belerick, Edith and Minotaur.
+
+How do you play Beatrix?
+
+Level "Renner's Apathy" first and take the ultimate whenever it is available. Even through the game, from 49.3% to 52.7%. Pick fights by your items rather than the clock. Teamfight combo: For teamfights, we recommend using Bennett as Beatrix's primary weapon and Nibiru as her secondary weapon. During a teamfight, Beatrix can use Bennett's Ultimate to strike the enemy team. Then she can use her 1st Skill to switch to Nibiru, and cast Nibiru's Ultimate to attack the enemy. She can finish off the enemy heroes with her Basic Attacks and her 2nd Skill.
 
 What is Beatrix’s win rate right now?
 

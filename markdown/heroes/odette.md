@@ -1,6 +1,6 @@
 ---
-title: "Одетта MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Одетта в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Маг, 51,15% побед, тир C."
+title: "Одетта MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Одетта, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Одетту. Маг, 51,15% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/odette.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -247,9 +247,47 @@ C
     Смертельное воспламенение
 
 
-## Навыки
+## Как играть за Одетту
 
-Прокачка**Лебединая песня**_›_**Лебединое крыло**_›_**Синяя звезда**
+### Комбо Одетты
+
+#### В драке
+
+1.  ![Синяя звезда](/images/mlbb/skills/odette-2.webp)2
+2.  ![Лебединая песня](/images/mlbb/skills/odette-3.webp)Ульт
+3.  ![Лебединая песня](/images/mlbb/skills/odette-3.webp)Ульт
+4.  ![Лебединое крыло](/images/mlbb/skills/odette-1.webp)1
+
+В драке обездвижьте вторым навыком и ультом бейте удерживаемые цели. Когда враги убегают, рывком из ульта смените позицию, после него добейте первым.
+
+#### На линии
+
+1.  ![Лебединое крыло](/images/mlbb/skills/odette-1.webp)1
+2.  ![Синяя звезда](/images/mlbb/skills/odette-2.webp)2
+3.  ![Лебединая песня](/images/mlbb/skills/odette-3.webp)Ульт
+
+На линии тревожьте первым, в нужный момент обездвижьте вторым и добейте ультом.
+
+### Когда сильнее всего
+
+Сила ровная всю игру, от 49,3% до 51,0%. Выбирайте драки по готовым предметам, а не по минутам.
+
+1.  **49,3**10–12
+2.  **50,0**12–14
+3.  **51,0**14–16
+4.  **50,3**16–18
+5.  **50,1**18–20
+6.  **49,8**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/odette-3.webp)Лебединая песня
+2.  ![](/images/mlbb/skills/odette-1.webp)Лебединое крыло
+3.  ![](/images/mlbb/skills/odette-2.webp)Синяя звезда
+
+## Навыки
 
 ![](/images/mlbb/skills/odette-0.webp)Пассивный**Песня озера**![](/images/mlbb/skills/odette-1.webp)1-й навык**Лебединое крыло**![](/images/mlbb/skills/odette-2.webp)2-й навык**Синяя звезда**![](/images/mlbb/skills/odette-3.webp)Ультимейт**Лебединая песня**
 
@@ -289,17 +327,13 @@ C
 
 Используйте снова, чтобы отменить. Только эффекты контроля высокого уровня могут прервать этот навык.
 
-## Контрпики
+## Контрпики Одетты
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Одетту
 
 [![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/mathilda.webp)Матильда](https://boostmlbb.ru/heroes/mathilda.html)[![](/images/heroes/art/faramis.webp)Фарамис](https://boostmlbb.ru/heroes/faramis.html)[![](/images/heroes/art/chip.webp)Чип](https://boostmlbb.ru/heroes/chip.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Одетта
 
 [![](/images/heroes/art/layla.webp)Лейла](https://boostmlbb.ru/heroes/layla.html)[![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/alpha.webp)Альфа](https://boostmlbb.ru/heroes/alpha.html)[![](/images/heroes/art/thamuz.webp)Тамуз](https://boostmlbb.ru/heroes/thamuz.html)[![](/images/heroes/art/julian.webp)Джулиан](https://boostmlbb.ru/heroes/julian.html)[![](/images/heroes/art/aurora.webp)Аврора](https://boostmlbb.ru/heroes/aurora.html)[![](/images/heroes/art/gatotkaca.webp)Гатоткача](https://boostmlbb.ru/heroes/gatotkaca.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)
 
@@ -315,22 +349,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Одетта» в MLBB?
+Кто контрит Одетту в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Кайя, Матильда, Фарамис, Чип и Марсель.
+За последние 30 дней Одетту чаще всего обыгрывают Кайя, Матильда, Фарамис, Чип и Марсель.
 
-Какой процент побед у героя «Одетта» сейчас?
+Как играть за Одетту?
+
+В первую очередь качайте «Лебединое крыло», ульт берите, как только доступен. Сила ровная всю игру, от 49,3% до 51,0%. Выбирайте драки по готовым предметам, а не по минутам. Комбо для драки: В драке обездвижьте вторым навыком и ультом бейте удерживаемые цели. Когда враги убегают, рывком из ульта смените позицию, после него добейте первым.
+
+Какой процент побед у Одетты сейчас?
 
 51,15% в Мифической славе за последние 7 дней и 49,73% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Одетта»?
+Какая роль и линия у Одетты?
 
 Маг, играет на средней линии.
 
-Силён ли герой «Одетта» в текущей мете?
+Стоит ли брать Одетту в текущей мете?
 
 Тир C, 96-е место из 133 героев и 23-е среди магов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 51,1% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Одетта» лучшая?
+Какая сборка на Одетту лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Божественный меч» и «Зимняя корона», эмблема убийцы с талантами «Разрыв», «Мастер оружий» и «Нечестивая ярость» и заклинание «Вспышка». С ней выигрывают 52,27% матчей.

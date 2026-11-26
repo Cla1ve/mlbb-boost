@@ -1,6 +1,6 @@
 ---
-title: "Zilong MLBB: build, counters and skills | MLBB Boost"
-description: "Zilong in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 44.85% win rate, tier C."
+title: "Zilong MLBB: build, combos and counters | MLBB Boost"
+description: "Zilong in Mobile Legends: ranked build, skill combos, how to play and who counters Zilong. Fighter and assassin, 44.85% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/zilong.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Fighter
     War Cry
 
 
-## Skills
+## How to play Zilong
 
-Level-up**Supreme Warrior**_›_**Spear Strike**_›_**Spear Flip**
+### Zilong combos
+
+#### Teamfight
+
+1.  ![Supreme Warrior](/images/mlbb/skills/zilong-3.webp)Ult
+2.  ![Spear Strike](/images/mlbb/skills/zilong-2.webp)2
+3.  ![Spear Flip](/images/mlbb/skills/zilong-1.webp)1
+4.  Attack
+
+In teamfights, activate Zilong's Ultimate to gain Movement and Attack Speed bonus before charging at the target enemy with his 2nd Skill. Cast his 1st Skill after closing in on the enemy and follow up with Basic Attacks to trigger the Passive effects.
+
+#### Laning
+
+1.  ![Spear Strike](/images/mlbb/skills/zilong-2.webp)2
+2.  ![Spear Flip](/images/mlbb/skills/zilong-1.webp)1
+3.  Attack
+
+In the laning phase, Zilong should use his 2nd Skill to close in on the target enemy and lower their Defenses, then lift the target over his back with his 1st Skill, and spam Basic Attacks to trigger more Passive effects.
+
+### When strongest
+
+Stronger late: 50.4% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **44.9**10–12
+2.  **45.8**12–14
+3.  **46.4**14–16
+4.  **48.1**16–18
+5.  **49.1**18–20
+6.  **50.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/zilong-3.webp)Supreme Warrior
+2.  ![](/images/mlbb/skills/zilong-2.webp)Spear Strike
+3.  ![](/images/mlbb/skills/zilong-1.webp)Spear Flip
+
+## Skills
 
 ![](/images/mlbb/skills/zilong-0.webp)Passive**Dragon Flurry**![](/images/mlbb/skills/zilong-1.webp)Skill 1**Spear Flip**![](/images/mlbb/skills/zilong-2.webp)Skill 2**Spear Strike**![](/images/mlbb/skills/zilong-3.webp)Ultimate**Supreme Warrior**
 
@@ -291,17 +329,13 @@ Zilong removes all slow effects on himself and gains 40% Movement Speed, 35% Att
 
 During this time, Dragon Flurry triggers every 2 attacks (instead of the previous 3).
 
-## Counters
+## Zilong counters
 
-### Counters
-
-Beat this hero
+### Who counters Zilong
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)
 
-### Easy targets
-
-This hero beats them
+### Who Zilong counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
@@ -320,6 +354,10 @@ This hero beats them
 Who counters Zilong in MLBB?
 
 Over the last 30 days the toughest opponents are X.Borg, Cici, Diggie, Xavier and Fanny.
+
+How do you play Zilong?
+
+Level "Spear Strike" first and take the ultimate whenever it is available. Stronger late: 50.4% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, activate Zilong's Ultimate to gain Movement and Attack Speed bonus before charging at the target enemy with his 2nd Skill. Cast his 1st Skill after closing in on the enemy and follow up with Basic Attacks to trigger the Passive effects.
 
 What is Zilong’s win rate right now?
 

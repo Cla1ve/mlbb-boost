@@ -1,6 +1,6 @@
 ---
-title: "Baxia MLBB: build, counters and skills | MLBB Boost"
-description: "Baxia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 45.94% win rate, tier D."
+title: "Baxia MLBB: build, combos and counters | MLBB Boost"
+description: "Baxia in Mobile Legends: ranked build, skill combos, how to play and who counters Baxia. Tank, 45.94% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/baxia.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,47 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Baxia
 
-Level-up**Tortoise’s Puissance**_›_**Shield of Spirit**_›_**Baxia-Shield Unity**
+### Baxia combos
+
+#### Teamfight
+
+1.  ![Baxia-Shield Unity](/images/mlbb/skills/baxia-1.webp)1
+2.  ![Tortoise’s Puissance](/images/mlbb/skills/baxia-3.webp)Ult
+3.  ![Shield of Spirit](/images/mlbb/skills/baxia-2.webp)2
+4.  Attack
+
+In teamfights, first activate Baxia's 1st Skill, then use his Ultimate to speed up. After running into an enemy, use his 2nd Skill followed by Basic Attacks to deal damage.
+
+#### Laning
+
+1.  ![Baxia-Shield Unity](/images/mlbb/skills/baxia-1.webp)1
+2.  ![Shield of Spirit](/images/mlbb/skills/baxia-2.webp)2
+3.  Attack
+
+In the laning phase, roll into the enemy with Baxia's 1st Skill and follow up with his 2nd Skill and Basic Attacks.
+
+### When strongest
+
+Even through the game, from 46.3% to 47.8%. Pick fights by your items rather than the clock.
+
+1.  **47.2**10–12
+2.  **46.3**12–14
+3.  **47.8**14–16
+4.  **47.2**16–18
+5.  **47.7**18–20
+6.  **47.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/baxia-3.webp)Tortoise’s Puissance
+2.  ![](/images/mlbb/skills/baxia-2.webp)Shield of Spirit
+3.  ![](/images/mlbb/skills/baxia-1.webp)Baxia-Shield Unity
+
+## Skills
 
 ![](/images/mlbb/skills/baxia-0.webp)Passive**Baxia Mark**![](/images/mlbb/skills/baxia-1.webp)Skill 1**Baxia-Shield Unity**![](/images/mlbb/skills/baxia-2.webp)Skill 2**Shield of Spirit**![](/images/mlbb/skills/baxia-3.webp)Ultimate**Tortoise’s Puissance**
 
@@ -292,17 +330,13 @@ Baxia holds his shield to the front and begins sprinting frantically, gaining 30
 
 For the duration, the Damage Reduction effect from Baxia Mark is increased to 200%.
 
-## Counters
+## Baxia counters
 
-### Counters
-
-Beat this hero
+### Who counters Baxia
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
-### Easy targets
-
-This hero beats them
+### Who Baxia counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
@@ -321,6 +355,10 @@ This hero beats them
 Who counters Baxia in MLBB?
 
 Over the last 30 days the toughest opponents are Obsidia, Alice, Lukas, Saber and Zhask.
+
+How do you play Baxia?
+
+Level "Shield of Spirit" first and take the ultimate whenever it is available. Even through the game, from 46.3% to 47.8%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, first activate Baxia's 1st Skill, then use his Ultimate to speed up. After running into an enemy, use his 2nd Skill followed by Basic Attacks to deal damage.
 
 What is Baxia’s win rate right now?
 

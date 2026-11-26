@@ -1,6 +1,6 @@
 ---
-title: "Angela MLBB: build, counters and skills | MLBB Boost"
-description: "Angela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 49.67% win rate, tier B."
+title: "Angela MLBB: build, combos and counters | MLBB Boost"
+description: "Angela in Mobile Legends: ranked build, skill combos, how to play and who counters Angela. Support, 49.67% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/angela.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 11.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Support
     Focusing Mark
 
 
-## Skills
+## How to play Angela
 
-Level-up**Heartguard**_›_**Puppet-on-a-String**_›_**Love Waves**
+### Angela combos
+
+#### Teamfight
+
+1.  ![Heartguard](/images/mlbb/skills/angela-3.webp)Ult
+2.  ![Love Waves](/images/mlbb/skills/angela-1.webp)1
+3.  ![Puppet-on-a-String](/images/mlbb/skills/angela-2.webp)2
+4.  ![Love Waves](/images/mlbb/skills/angela-1.webp)1
+
+In teamfights, use Angela's Ultimate first to attach to a strong ally, and use her 1st Skill to deal damage or heal allies when needed. When enemies try to close in, CC them with her 2nd Skill, and follow up with her 1st Skill for sustained damage.
+
+#### Laning
+
+1.  ![Love Waves](/images/mlbb/skills/angela-1.webp)1
+2.  ![Puppet-on-a-String](/images/mlbb/skills/angela-2.webp)2
+3.  ![Love Waves](/images/mlbb/skills/angela-1.webp)1
+
+In the laning phase, use Angela's 1st Skill to constantly poke the enemy. When their HP is low, use her 2nd Skill to CC the target, then continue to deal damage with her 1st Skill.
+
+### When strongest
+
+Stronger late: 50.8% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **44.4**10–12
+2.  **50.6**12–14
+3.  **51.8**14–16
+4.  **50.8**16–18
+5.  **50.2**18–20
+6.  **49.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/angela-3.webp)Heartguard
+2.  ![](/images/mlbb/skills/angela-2.webp)Puppet-on-a-String
+3.  ![](/images/mlbb/skills/angela-1.webp)Love Waves
+
+## Skills
 
 ![](/images/mlbb/skills/angela-0.webp)Passive**Smart Heart**![](/images/mlbb/skills/angela-1.webp)Skill 1**Love Waves**![](/images/mlbb/skills/angela-2.webp)Skill 2**Puppet-on-a-String**![](/images/mlbb/skills/angela-3.webp)Ultimate**Heartguard**
 
@@ -290,17 +328,13 @@ Angela begins channeling, applying a 600 (+150% Total Magic Power) shield to the
 
 Angela can cast this skill again to cancel the channeling or detach herself from the allied hero. The attaching state will end early if the allied hero is killed.
 
-## Counters
+## Angela counters
 
-### Counters
-
-Beat this hero
+### Who counters Angela
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)
 
-### Easy targets
-
-This hero beats them
+### Who Angela counters
 
 [![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)
 
@@ -319,6 +353,10 @@ This hero beats them
 Who counters Angela in MLBB?
 
 Over the last 30 days the toughest opponents are Alice, Marcel, Balmond, Faramis and Lancelot.
+
+How do you play Angela?
+
+Level "Puppet-on-a-String" first and take the ultimate whenever it is available. Stronger late: 50.8% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Angela's Ultimate first to attach to a strong ally, and use her 1st Skill to deal damage or heal allies when needed. When enemies try to close in, CC them with her 2nd Skill, and follow up with her 1st Skill for sustained damage.
 
 What is Angela’s win rate right now?
 

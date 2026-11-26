@@ -1,6 +1,6 @@
 ---
-title: "Lapu-Lapu MLBB: build, counters and skills | MLBB Boost"
-description: "Lapu-Lapu in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.12% win rate, tier C."
+title: "Lapu-Lapu MLBB: build, combos and counters | MLBB Boost"
+description: "Lapu-Lapu in Mobile Legends: ranked build, skill combos, how to play and who counters Lapu-Lapu. Fighter, 47.12% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/lapu-lapu.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,49 @@ Fighter
     Brave Smite
 
 
-## Skills
+## How to play Lapu-Lapu
 
-Level-up**Bravest Fighter**_›_**Justice Blades**_›_**Jungle Warrior**
+### Lapu-Lapu combos
+
+#### Teamfight
+
+1.  ![Justice Blades](/images/mlbb/skills/lapu-lapu-1.webp)1
+2.  ![Jungle Warrior](/images/mlbb/skills/lapu-lapu-2.webp)2
+3.  ![Bravest Fighter](/images/mlbb/skills/lapu-lapu-3.webp)Ult
+4.  ![Bravest Fighter](/images/mlbb/skills/lapu-lapu-3.webp)Ult
+5.  ![Jungle Warrior](/images/mlbb/skills/lapu-lapu-2.webp)2
+6.  ![Justice Blades](/images/mlbb/skills/lapu-lapu-1.webp)1
+
+In teamfights, use Lapu-Lapu's 1st Skill to wear down the enemies' HP, then follow up with his 2nd Skill to get close and use his Ultimate to initiate. While in Great Sword stance, use his Ultimate again for high burst damage, then use his 2nd Skill to gain Damage Reduction, and finally CC the enemy with his 1st Skill.
+
+#### Laning
+
+1.  ![Justice Blades](/images/mlbb/skills/lapu-lapu-1.webp)1
+2.  ![Jungle Warrior](/images/mlbb/skills/lapu-lapu-2.webp)2
+3.  Attack
+
+In the laning phase, use Lapu-Lapu's 1st Skill to poke enemies. When Bravery Blessing is full, use his 2nd Skill and enhanced Basic Attacks.
+
+### When strongest
+
+Stronger early: 52.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **52.3**10–12
+2.  **49.6**12–14
+3.  **47.6**14–16
+4.  **46.1**16–18
+5.  **45.4**18–20
+6.  **45.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/lapu-lapu-3.webp)Bravest Fighter
+2.  ![](/images/mlbb/skills/lapu-lapu-1.webp)Justice Blades
+3.  ![](/images/mlbb/skills/lapu-lapu-2.webp)Jungle Warrior
+
+## Skills
 
 ![](/images/mlbb/skills/lapu-lapu-0.webp)Passive**Homeland Defender**![](/images/mlbb/skills/lapu-lapu-1.webp)Skill 1**Justice Blades**![](/images/mlbb/skills/lapu-lapu-2.webp)Skill 2**Jungle Warrior**![](/images/mlbb/skills/lapu-lapu-3.webp)Ultimate**Bravest Fighter**
 
@@ -292,17 +332,13 @@ Lapu-Lapu then enters the Great Sword stance for 10s, gaining 30 , enhancing all
 
 This skill cannot be interrupted.
 
-## Counters
+## Lapu-Lapu counters
 
-### Counters
-
-Beat this hero
+### Who counters Lapu-Lapu
 
 [![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
-### Easy targets
-
-This hero beats them
+### Who Lapu-Lapu counters
 
 [![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
 
@@ -321,6 +357,10 @@ This hero beats them
 Who counters Lapu-Lapu in MLBB?
 
 Over the last 30 days the toughest opponents are Silvanna, Popol and Kupa, Hanabi, Argus and Vale.
+
+How do you play Lapu-Lapu?
+
+Level "Justice Blades" first and take the ultimate whenever it is available. Stronger early: 52.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Lapu-Lapu's 1st Skill to wear down the enemies' HP, then follow up with his 2nd Skill to get close and use his Ultimate to initiate. While in Great Sword stance, use his Ultimate again for high burst damage, then use his 2nd Skill to gain Damage Reduction, and finally CC the enemy with his 1st Skill.
 
 What is Lapu-Lapu’s win rate right now?
 

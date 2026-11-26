@@ -1,6 +1,6 @@
 ---
-title: "Fredrinn MLBB: build, counters and skills | MLBB Boost"
-description: "Fredrinn in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 52.44% win rate, tier C."
+title: "Fredrinn MLBB: build, combos and counters | MLBB Boost"
+description: "Fredrinn in Mobile Legends: ranked build, skill combos, how to play and who counters Fredrinn. Tank and fighter, 52.44% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/fredrinn.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,51 @@ Support
     Impure Rage
 
 
-## Skills
+## How to play Fredrinn
 
-Level-up**Appraiser's Wrath**_›_**Piercing Strike**_›_**Brave Assault**
+### Fredrinn combos
+
+#### Teamfight
+
+1.  ![Brave Assault](/images/mlbb/skills/fredrinn-2.webp)2
+2.  Attack
+3.  ![Piercing Strike](/images/mlbb/skills/fredrinn-1.webp)1
+4.  ![Energy Eruption](/images/mlbb/skills/fredrinn-3.webp)3
+5.  ![Piercing Strike](/images/mlbb/skills/fredrinn-1.webp)1
+6.  ![Brave Assault](/images/mlbb/skills/fredrinn-2.webp)2
+7.  ![Appraiser's Wrath](/images/mlbb/skills/fredrinn-4.webp)Ult
+
+In teamfights, Fredrinn should use his 2nd Skill to close in on the enemy hero and knock them airborne, then use his 1st Skill and 1st Ultimate for CC and cooldown reset. Use his enhanced Basic Attacks, 1st and 2nd skills sequentially to deal heavy damage, and finish with his 2nd Ultimate after knocking the enemy airborne for the kill.
+
+#### Laning
+
+1.  ![Brave Assault](/images/mlbb/skills/fredrinn-2.webp)2
+2.  Attack
+3.  ![Piercing Strike](/images/mlbb/skills/fredrinn-1.webp)1
+4.  Attack
+
+In the laning phase, Fredrinn can dash to the enemy hero with his 2nd Skill, and knock that hero airborne with the enhanced Basic Attack. Then follow up with his 1st Skill to deal damage.
+
+### When strongest
+
+Stronger late: 52.9% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **47.6**10–12
+2.  **52.0**12–14
+3.  **54.4**14–16
+4.  **52.8**16–18
+5.  **52.9**18–20
+6.  **51.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/fredrinn-4.webp)Appraiser's Wrath
+2.  ![](/images/mlbb/skills/fredrinn-1.webp)Piercing Strike
+3.  ![](/images/mlbb/skills/fredrinn-2.webp)Brave Assault
+
+## Skills
 
 ![](/images/mlbb/skills/fredrinn-0.webp)Passive**Crystalline Armor**![](/images/mlbb/skills/fredrinn-1.webp)Skill 1**Piercing Strike**![](/images/mlbb/skills/fredrinn-2.webp)Skill 2**Brave Assault**![](/images/mlbb/skills/fredrinn-3.webp)Skill 3**Energy Eruption**![](/images/mlbb/skills/fredrinn-4.webp)Ultimate**Appraiser's Wrath**
 
@@ -298,17 +340,13 @@ Fredrinn slams his sword in the target direction (this skill can only be interru
 
 This skill costs 3 Combo Points.
 
-## Counters
+## Fredrinn counters
 
-### Counters
-
-Beat this hero
+### Who counters Fredrinn
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
-### Easy targets
-
-This hero beats them
+### Who Fredrinn counters
 
 [![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
@@ -327,6 +365,10 @@ This hero beats them
 Who counters Fredrinn in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Alucard, Lunox, Joy and Khaleed.
+
+How do you play Fredrinn?
+
+Level "Piercing Strike" first and take the ultimate whenever it is available. Stronger late: 52.9% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Fredrinn should use his 2nd Skill to close in on the enemy hero and knock them airborne, then use his 1st Skill and 1st Ultimate for CC and cooldown reset. Use his enhanced Basic Attacks, 1st and 2nd skills sequentially to deal heavy damage, and finish with his 2nd Ultimate after knocking the enemy airborne for the kill.
 
 What is Fredrinn’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Пополь и Купа MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Пополь и Купа в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Стрелок, 48,57% побед, тир C."
+title: "Пополь и Купа MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Пополь и Купа, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Пополя и Купу. Стрелок, 48,57% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/popol-and-kupa.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 0,9%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -247,9 +247,50 @@ C
     Квантовый заряд
 
 
-## Навыки
+## Как играть за Пополя и Купу
 
-Прокачка**Мы злимся!**_›_**Кусай их, Купа!**_›_**Купа, помоги!**_›_**Сюрприз Пополя**
+### Комбо Пополя и Купы
+
+#### В драке
+
+1.  ![Купа, помоги!](/images/mlbb/skills/popol-and-kupa-2.webp)2
+2.  ![Мы злимся!](/images/mlbb/skills/popol-and-kupa-4.webp)Ульт
+3.  ![Кусай их, Купа!](/images/mlbb/skills/popol-and-kupa-1.webp)1
+4.  ![Сюрприз Пополя](/images/mlbb/skills/popol-and-kupa-3.webp)3
+5.  Атака
+
+В драке сначала сядьте на Купу вторым навыком и дайте ульт. Подбросьте усиленным первым, обездвижьте третьим и расстреливайте цель обычными атаками.
+
+#### На линии
+
+1.  ![Кусай их, Купа!](/images/mlbb/skills/popol-and-kupa-1.webp)1
+2.  ![Сюрприз Пополя](/images/mlbb/skills/popol-and-kupa-3.webp)3
+3.  Атака
+4.  ![Купа, помоги!](/images/mlbb/skills/popol-and-kupa-2.webp)2
+
+Замедлите врага первым навыком Пополя, сразу поставьте ловушку третьим и обездвижьте. Сфокусируйте цель атаками вместе с Купой и вторым навыком сядьте верхом для погони.
+
+### Когда сильнее всего
+
+Сильнее в долгой игре: после 20-й минуты выигрывает 51,8%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.
+
+1.  **49,1**10–12
+2.  **46,3**12–14
+3.  **45,6**14–16
+4.  **48,1**16–18
+5.  **49,7**18–20
+6.  **51,8**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/popol-and-kupa-4.webp)Мы злимся!
+2.  ![](/images/mlbb/skills/popol-and-kupa-1.webp)Кусай их, Купа!
+3.  ![](/images/mlbb/skills/popol-and-kupa-2.webp)Купа, помоги!
+4.  ![](/images/mlbb/skills/popol-and-kupa-3.webp)Сюрприз Пополя
+
+## Навыки
 
 ![](/images/mlbb/skills/popol-and-kupa-0.webp)Пассивный**Мы — друзья**![](/images/mlbb/skills/popol-and-kupa-1.webp)1-й навык**Кусай их, Купа!**![](/images/mlbb/skills/popol-and-kupa-2.webp)2-й навык**Купа, помоги!**![](/images/mlbb/skills/popol-and-kupa-3.webp)3-й навык**Сюрприз Пополя**![](/images/mlbb/skills/popol-and-kupa-4.webp)Ультимейт**Мы злимся!**
 
@@ -307,17 +348,13 @@ C
 
 В это время Купа принимает форму альфа-волка. макс. ОЗ, а также усиливая другие свои навыки.
 
-## Контрпики
+## Контрпики Пополя и Купы
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Пополя и Купу
 
 [![](/images/heroes/art/jawhead.webp)Кусака](https://boostmlbb.ru/heroes/jawhead.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/zilong.webp)Зилонг](https://boostmlbb.ru/heroes/zilong.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Пополь и Купа
 
 [![](/images/heroes/art/hanabi.webp)Ханаби](https://boostmlbb.ru/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Кармилла](https://boostmlbb.ru/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Сора](https://boostmlbb.ru/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Мелисса](https://boostmlbb.ru/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Лапу-Лапу](https://boostmlbb.ru/heroes/lapu-lapu.html)[![](/images/heroes/art/marcel.webp)Марсель](https://boostmlbb.ru/heroes/marcel.html)
 
@@ -333,22 +370,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Пополь и Купа» в MLBB?
+Кто контрит Пополя и Купу в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Кусака, Харли, Чан'Э, Зилонг и Селена.
+За последние 30 дней Пополя и Купу чаще всего обыгрывают Кусака, Харли, Чан'Э, Зилонг и Селена.
 
-Какой процент побед у героя «Пополь и Купа» сейчас?
+Как играть за Пополя и Купу?
+
+В первую очередь качайте «Кусай их, Купа!», ульт берите, как только доступен. Сильнее в долгой игре: после 20-й минуты выигрывает 51,8%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой. Комбо для драки: В драке сначала сядьте на Купу вторым навыком и дайте ульт. Подбросьте усиленным первым, обездвижьте третьим и расстреливайте цель обычными атаками.
+
+Какой процент побед у Пополя и Купы сейчас?
 
 48,57% в Мифической славе за последние 7 дней и 51,73% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Пополь и Купа»?
+Какая роль и линия у Пополя и Купы?
 
 Стрелок, играет на линии золота или в лесу.
 
-Силён ли герой «Пополь и Купа» в текущей мете?
+Стоит ли брать Пополя и Купу в текущей мете?
 
 Тир C, 110-е место из 133 героев и 21-е среди стрелков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,9% матчей, 48,6% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Пополь и Купа» лучшая?
+Какая сборка на Пополя и Купу лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Трезубец», «Говорящий с ветром» и «Клинок отчаяния», эмблема убийцы с талантами «Трепет», «Мастер оружий» и «Квантовый заряд» и заклинание «Вспышка». С ней выигрывают 54,32% матчей.

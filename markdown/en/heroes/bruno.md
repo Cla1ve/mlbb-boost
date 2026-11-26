@@ -1,6 +1,6 @@
 ---
-title: "Bruno MLBB: build, counters and skills | MLBB Boost"
-description: "Bruno in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 54.36% win rate, tier A."
+title: "Bruno MLBB: build, combos and counters | MLBB Boost"
+description: "Bruno in Mobile Legends: ranked build, skill combos, how to play and who counters Bruno. Marksman, 54.36% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/bruno.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,50 @@ Fighter
     Quantum Charge
 
 
-## Skills
+## How to play Bruno
 
-Level-up**Worldie**_›_**Volley Shot**_›_**Slide**
+### Bruno combos
+
+#### Teamfight
+
+1.  ![Volley Shot](/images/mlbb/skills/bruno-1.webp)1
+2.  Attack
+3.  ![Worldie](/images/mlbb/skills/bruno-3.webp)Ult
+4.  Attack
+5.  ![Slide](/images/mlbb/skills/bruno-2.webp)2
+6.  Attack
+
+In teamfights, start with Bruno's 1st Skill to get a Powerball and try to get in as much damage as possible. Look for enemies that are close together to use his Ultimate on, then use his Basic Attacks and 2nd Skill to secure the kill or retreat from danger.
+
+#### Laning
+
+1.  ![Volley Shot](/images/mlbb/skills/bruno-1.webp)1
+2.  Attack
+3.  ![Slide](/images/mlbb/skills/bruno-2.webp)2
+4.  Attack
+
+In the laning phase, use Bruno's 1st Skill to get a Powerball, and start attacking the enemy while picking up the ball. When the target is low, stun them with his 2nd Skill and finish them off with Basic Attacks.
+
+### When strongest
+
+Even through the game, from 52.9% to 55.4%. Pick fights by your items rather than the clock.
+
+1.  **52.9**10–12
+2.  **53.8**12–14
+3.  **55.1**14–16
+4.  **55.4**16–18
+5.  **55.1**18–20
+6.  **53.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/bruno-3.webp)Worldie
+2.  ![](/images/mlbb/skills/bruno-1.webp)Volley Shot
+3.  ![](/images/mlbb/skills/bruno-2.webp)Slide
+
+## Skills
 
 ![](/images/mlbb/skills/bruno-0.webp)Passive**Mecha Legs**![](/images/mlbb/skills/bruno-1.webp)Skill 1**Volley Shot**![](/images/mlbb/skills/bruno-2.webp)Skill 2**Slide**![](/images/mlbb/skills/bruno-3.webp)Ultimate**Worldie**
 
@@ -288,17 +329,13 @@ Bruno kicks an Energy Ball at a target hero, dealing 200 (+80% Total Physical At
 
 The Energy Ball then bounces among enemy units (up to 10 times), prioritizing enemy heroes. Each bounce deals 100 (+40% Total Physical Attack) Physical Damage.
 
-## Counters
+## Bruno counters
 
-### Counters
-
-Beat this hero
+### Who counters Bruno
 
 [![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
 
-### Easy targets
-
-This hero beats them
+### Who Bruno counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
 
@@ -317,6 +354,10 @@ This hero beats them
 Who counters Bruno in MLBB?
 
 Over the last 30 days the toughest opponents are Wanwan, Ling, Fanny, Masha and Benedetta.
+
+How do you play Bruno?
+
+Level "Volley Shot" first and take the ultimate whenever it is available. Even through the game, from 52.9% to 55.4%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, start with Bruno's 1st Skill to get a Powerball and try to get in as much damage as possible. Look for enemies that are close together to use his Ultimate on, then use his Basic Attacks and 2nd Skill to secure the kill or retreat from danger.
 
 What is Bruno’s win rate right now?
 

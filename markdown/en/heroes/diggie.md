@@ -1,6 +1,6 @@
 ---
-title: "Diggie MLBB: build, counters and skills | MLBB Boost"
-description: "Diggie in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 56.02% win rate, tier B."
+title: "Diggie MLBB: build, combos and counters | MLBB Boost"
+description: "Diggie in Mobile Legends: ranked build, skill combos, how to play and who counters Diggie. Support, 56.02% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/diggie.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 5.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,45 @@ Support
     Focusing Mark
 
 
-## Skills
+## How to play Diggie
 
-Level-up**Time Journey**_›_**Auto Alarm Bomb**_›_**Reverse Time**
+### Diggie combos
+
+#### Teamfight
+
+1.  ![Auto Alarm Bomb](/images/mlbb/skills/diggie-1.webp)1
+2.  ![Reverse Time](/images/mlbb/skills/diggie-2.webp)2
+3.  ![Time Journey](/images/mlbb/skills/diggie-3.webp)Ult
+
+In teamfights, use Diggie's 1st Skill to poke the enemy. If an enemy tries to initiate, pull them back with his 2nd Skill. If a teammate gets CC'd or takes too much damage, use Diggie's Ultimate to save them.
+
+#### Laning
+
+1.  ![Reverse Time](/images/mlbb/skills/diggie-2.webp)2
+2.  ![Auto Alarm Bomb](/images/mlbb/skills/diggie-1.webp)1
+
+In the laning phase, use Diggie's 2nd Skill to confine the enemy to their location, then toss an owl alarm at them with his 1st Skill.
+
+### When strongest
+
+Stronger early: 59.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **59.0**10–12
+2.  **56.2**12–14
+3.  **54.3**14–16
+4.  **52.5**16–18
+5.  **52.3**18–20
+6.  **50.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/diggie-3.webp)Time Journey
+2.  ![](/images/mlbb/skills/diggie-1.webp)Auto Alarm Bomb
+3.  ![](/images/mlbb/skills/diggie-2.webp)Reverse Time
+
+## Skills
 
 ![](/images/mlbb/skills/diggie-0.webp)Passive**Young Again**![](/images/mlbb/skills/diggie-1.webp)Skill 1**Auto Alarm Bomb**![](/images/mlbb/skills/diggie-2.webp)Skill 2**Reverse Time**![](/images/mlbb/skills/diggie-3.webp)Ultimate**Time Journey**
 
@@ -288,17 +324,13 @@ Cooldown **76 Mana Cost: 130 s**
 
 Diggie removes all debuffs on nearby allied heroes (including himself) and grants them a 650 (+300% Total Magic Power) shield and Control Immunity for 2s. He also gains 50% Movement Speed for 0.5s.
 
-## Counters
+## Diggie counters
 
-### Counters
-
-Beat this hero
+### Who counters Diggie
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
 
-### Easy targets
-
-This hero beats them
+### Who Diggie counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
@@ -317,6 +349,10 @@ This hero beats them
 Who counters Diggie in MLBB?
 
 Over the last 30 days the toughest opponents are Alice, Zhuxin, Guinevere, Cici and Valir.
+
+How do you play Diggie?
+
+Level "Auto Alarm Bomb" first and take the ultimate whenever it is available. Stronger early: 59.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Diggie's 1st Skill to poke the enemy. If an enemy tries to initiate, pull them back with his 2nd Skill. If a teammate gets CC'd or takes too much damage, use Diggie's Ultimate to save them.
 
 What is Diggie’s win rate right now?
 

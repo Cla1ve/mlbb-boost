@@ -1,6 +1,6 @@
 ---
-title: "Layla MLBB: build, counters and skills | MLBB Boost"
-description: "Layla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.27% win rate, tier C."
+title: "Layla MLBB: build, combos and counters | MLBB Boost"
+description: "Layla in Mobile Legends: ranked build, skill combos, how to play and who counters Layla. Marksman, 48.27% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/layla.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Marksman
     Quantum Charge
 
 
-## Skills
+## How to play Layla
 
-Level-up**Destruction Rush**_›_**Malefic Bomb**_›_**Void Projectile**
+### Layla combos
+
+#### Teamfight
+
+1.  ![Malefic Bomb](/images/mlbb/skills/layla-1.webp)1
+2.  ![Void Projectile](/images/mlbb/skills/layla-2.webp)2
+3.  ![Destruction Rush](/images/mlbb/skills/layla-3.webp)Ult
+4.  Attack
+
+In teamfights, first use Layla's 1st Skill to increase the range of her 2nd Skill. With the extra range, she can easily apply marks to enemies. Use her Ultimate to detonate them all for a hefty bit of damage, and finish off with Basic Attacks.
+
+#### Laning
+
+1.  ![Void Projectile](/images/mlbb/skills/layla-2.webp)2
+2.  ![Malefic Bomb](/images/mlbb/skills/layla-1.webp)1
+3.  Attack
+
+In the laning phase, first use Layla's 2nd Skill to apply Magic Mark on the enemy, then detonate it with her 1st Skill for AOE damage while getting extra range for Basic Attacks to further harass the enemy from afar.
+
+### When strongest
+
+Stronger late: 51.8% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **44.5**10–12
+2.  **49.6**12–14
+3.  **51.7**14–16
+4.  **51.8**16–18
+5.  **51.7**18–20
+6.  **50.2**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/layla-3.webp)Destruction Rush
+2.  ![](/images/mlbb/skills/layla-1.webp)Malefic Bomb
+3.  ![](/images/mlbb/skills/layla-2.webp)Void Projectile
+
+## Skills
 
 ![](/images/mlbb/skills/layla-0.webp)Passive**Malefic Gun**![](/images/mlbb/skills/layla-1.webp)Skill 1**Malefic Bomb**![](/images/mlbb/skills/layla-2.webp)Skill 2**Void Projectile**![](/images/mlbb/skills/layla-3.webp)Ultimate**Destruction Rush**
 
@@ -288,17 +326,13 @@ Cooldown **37 Mana Cost: 130 s**
 
 **Active:** Layla fires a blast of Malefic Energy in the target direction, dealing 500 (+150% Total Physical Attack) Physical Damage to enemies in a line.
 
-## Counters
+## Layla counters
 
-### Counters
-
-Beat this hero
+### Who counters Layla
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
-### Easy targets
-
-This hero beats them
+### Who Layla counters
 
 [![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
@@ -317,6 +351,10 @@ This hero beats them
 Who counters Layla in MLBB?
 
 Over the last 30 days the toughest opponents are Diggie, Edith, Rafaela, Phoveus and Odette.
+
+How do you play Layla?
+
+Level "Malefic Bomb" first and take the ultimate whenever it is available. Stronger late: 51.8% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, first use Layla's 1st Skill to increase the range of her 2nd Skill. With the extra range, she can easily apply marks to enemies. Use her Ultimate to detonate them all for a hefty bit of damage, and finish off with Basic Attacks.
 
 What is Layla’s win rate right now?
 

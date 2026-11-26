@@ -1,6 +1,6 @@
 ---
-title: "X.Borg MLBB: build, counters and skills | MLBB Boost"
-description: "X.Borg in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 49.00% win rate, tier C."
+title: "X.Borg MLBB: build, combos and counters | MLBB Boost"
+description: "X.Borg in Mobile Legends: ranked build, skill combos, how to play and who counters X.Borg. Fighter, 49.00% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/x-borg.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,45 @@ Tank
     Impure Rage
 
 
-## Skills
+## How to play X.Borg
 
-Level-up**Last Insanity**_›_**Fire Missiles**_›_**Fire Stake**
+### X.Borg combos
+
+#### Teamfight
+
+1.  ![Fire Missiles](/images/mlbb/skills/x-borg-1.webp)1
+2.  ![Last Insanity](/images/mlbb/skills/x-borg-3.webp)Ult
+3.  ![Fire Stake](/images/mlbb/skills/x-borg-2.webp)2
+
+In teamfights, cast X.Borg's 1st Skill, then activate his Ultimate when enemies are clustered, and uses his 2nd Skill to pull them back to him.
+
+#### Laning
+
+1.  ![Fire Missiles](/images/mlbb/skills/x-borg-1.webp)1
+2.  ![Fire Stake](/images/mlbb/skills/x-borg-2.webp)2
+
+In the laning phase, cast X.Borg's 1st Skill then use his 2nd Skill to pull enemies toward him.
+
+### When strongest
+
+Stronger early: 52.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **52.7**10–12
+2.  **50.7**12–14
+3.  **49.9**14–16
+4.  **48.7**16–18
+5.  **48.8**18–20
+6.  **48.7**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/x-borg-3.webp)Last Insanity
+2.  ![](/images/mlbb/skills/x-borg-1.webp)Fire Missiles
+3.  ![](/images/mlbb/skills/x-borg-2.webp)Fire Stake
+
+## Skills
 
 ![](/images/mlbb/skills/x-borg-0.webp)Passive**Firaga Armor**![](/images/mlbb/skills/x-borg-1.webp)Skill 1**Fire Missiles**![](/images/mlbb/skills/x-borg-2.webp)Skill 2**Fire Stake**![](/images/mlbb/skills/x-borg-3.webp)Ultimate**Last Insanity**
 
@@ -294,17 +330,13 @@ After 3s, his mecha suit detonates, dealing 300 (+ 15% target's ) True Damage. I
 
 **Use Again:** Immediately stop spraying fire and detonate early.
 
-## Counters
+## X.Borg counters
 
-### Counters
-
-Beat this hero
+### Who counters X.Borg
 
 [![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
-### Easy targets
-
-This hero beats them
+### Who X.Borg counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
 
@@ -323,6 +355,10 @@ This hero beats them
 Who counters X.Borg in MLBB?
 
 Over the last 30 days the toughest opponents are Baxia, Barats, Terizla, Phoveus and Hylos.
+
+How do you play X.Borg?
+
+Level "Fire Missiles" first and take the ultimate whenever it is available. Stronger early: 52.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, cast X.Borg's 1st Skill, then activate his Ultimate when enemies are clustered, and uses his 2nd Skill to pull them back to him.
 
 What is X.Borg’s win rate right now?
 

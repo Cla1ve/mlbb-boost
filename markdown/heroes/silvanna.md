@@ -1,6 +1,6 @@
 ---
-title: "Сильвана MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Сильвана в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец, 50,29% побед, тир C."
+title: "Сильвана MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Сильвана, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Сильвану. Боец, 50,29% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/silvanna.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 0,7%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -246,9 +246,49 @@ C
     Смертельное воспламенение
 
 
-## Навыки
+## Как играть за Сильвану
 
-Прокачка**Имперское правосудие**_›_**Спиральное удушение**_›_**Молниеносное копье**
+### Комбо Сильваны
+
+#### В драке
+
+1.  ![Имперское правосудие](/images/mlbb/skills/silvanna-3.webp)Ульт
+2.  ![Молниеносное копье](/images/mlbb/skills/silvanna-1.webp)1
+3.  ![Спиральное удушение](/images/mlbb/skills/silvanna-2.webp)2
+4.  Атака
+
+В драке поймайте дальние цели ультом, оглушите первым навыком и наносите урон вторым и обычными атаками.
+
+#### На линии
+
+1.  ![Спиральное удушение](/images/mlbb/skills/silvanna-2.webp)2
+2.  ![Молниеносное копье](/images/mlbb/skills/silvanna-1.webp)1
+3.  ![Молниеносное копье](/images/mlbb/skills/silvanna-1.webp)1
+4.  ![Имперское правосудие](/images/mlbb/skills/silvanna-3.webp)Ульт
+5.  Атака
+
+Тревожьте вторым навыком, а когда здоровья у цели мало, подойдите первым, затем возьмите под контроль и добейте ультом.
+
+### Когда сильнее всего
+
+Сильнее в начале: на 12–14 минутах выигрывает 54,1%. Давите на линии, забирайте объекты и заканчивайте, пока преимущество не растаяло.
+
+1.  **53,5**10–12
+2.  **54,1**12–14
+3.  **53,6**14–16
+4.  **51,7**16–18
+5.  **51,0**18–20
+6.  **50,9**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/silvanna-3.webp)Имперское правосудие
+2.  ![](/images/mlbb/skills/silvanna-2.webp)Спиральное удушение
+3.  ![](/images/mlbb/skills/silvanna-1.webp)Молниеносное копье
+
+## Навыки
 
 ![](/images/mlbb/skills/silvanna-0.webp)Пассивный**Рыцарское решение**![](/images/mlbb/skills/silvanna-1.webp)1-й навык**Молниеносное копье**![](/images/mlbb/skills/silvanna-2.webp)2-й навык**Спиральное удушение**![](/images/mlbb/skills/silvanna-3.webp)Ультимейт**Имперское правосудие**
 
@@ -292,17 +332,13 @@ C
 
 Сильвана получает 100% скорости атаки и 40% вампиризма, когда находится в круге.
 
-## Контрпики
+## Контрпики Сильваны
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Сильвану
 
 [![](/images/heroes/art/aamon.webp)Эймон](https://boostmlbb.ru/heroes/aamon.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/angela.webp)Ангела](https://boostmlbb.ru/heroes/angela.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)[![](/images/heroes/art/valentina.webp)Валентина](https://boostmlbb.ru/heroes/valentina.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Сильвана
 
 [![](/images/heroes/art/belerick.webp)Белерик](https://boostmlbb.ru/heroes/belerick.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/kagura.webp)Кагура](https://boostmlbb.ru/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/barats.webp)Бартс](https://boostmlbb.ru/heroes/barats.html)[![](/images/heroes/art/yu-zhong.webp)Чонг](https://boostmlbb.ru/heroes/yu-zhong.html)[![](/images/heroes/art/vale.webp)Вэйл](https://boostmlbb.ru/heroes/vale.html)[![](/images/heroes/art/benedetta.webp)Бенедетта](https://boostmlbb.ru/heroes/benedetta.html)[![](/images/heroes/art/khufra.webp)Хуфра](https://boostmlbb.ru/heroes/khufra.html)
 
@@ -318,22 +354,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Сильвана» в MLBB?
+Кто контрит Сильвану в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Эймон, Флорин, Ангела, Рафаэль и Валентина.
+За последние 30 дней Сильвану чаще всего обыгрывают Эймон, Флорин, Ангела, Рафаэль и Валентина.
 
-Какой процент побед у героя «Сильвана» сейчас?
+Как играть за Сильвану?
+
+В первую очередь качайте «Спиральное удушение», ульт берите, как только доступен. Сильнее в начале: на 12–14 минутах выигрывает 54,1%. Давите на линии, забирайте объекты и заканчивайте, пока преимущество не растаяло. Комбо для драки: В драке поймайте дальние цели ультом, оглушите первым навыком и наносите урон вторым и обычными атаками.
+
+Какой процент побед у Сильваны сейчас?
 
 50,29% в Мифической славе за последние 7 дней и 51,38% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Сильвана»?
+Какая роль и линия у Сильваны?
 
 Боец, играет на линии опыта.
 
-Силён ли герой «Сильвана» в текущей мете?
+Стоит ли брать Сильвану в текущей мете?
 
 Тир C, 83-е место из 133 героев и 25-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,7% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Сильвана» лучшая?
+Какая сборка на Сильвану лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Палочка гения», «Райское перо» и «Концентрированная энергия», эмблема мага с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Окаменение». С ней выигрывают 56,86% матчей.

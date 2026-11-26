@@ -1,6 +1,6 @@
 ---
-title: "Martis MLBB: build, counters and skills | MLBB Boost"
-description: "Martis in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 47.44% win rate, tier C."
+title: "Martis MLBB: build, combos and counters | MLBB Boost"
+description: "Martis in Mobile Legends: ranked build, skill combos, how to play and who counters Martis. Fighter, 47.44% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/martis.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,51 @@ Fighter
     Killing Spree
 
 
-## Skills
+## How to play Martis
 
-Level-up**Decimation**_›_**Asura Aura**_›_**Mortal Coil**
+### Martis combos
+
+#### Teamfight
+
+1.  ![Asura Aura](/images/mlbb/skills/martis-1.webp)1
+2.  ![Mortal Coil](/images/mlbb/skills/martis-2.webp)2
+3.  ![Mortal Coil](/images/mlbb/skills/martis-2.webp)2
+4.  Attack
+5.  ![Decimation](/images/mlbb/skills/martis-3.webp)Ult
+6.  Attack
+7.  ![Decimation](/images/mlbb/skills/martis-3.webp)Ult
+
+In teamfights, engage using Martis' 1st Skill to gather enemies and slow them, then use his 2nd Skill to deal damage and knock them airborne, and continue with Basic Attacks. Finish enemies at low HP with his Ultimate, then chain more kills with the Ultimate.
+
+#### Laning
+
+1.  ![Asura Aura](/images/mlbb/skills/martis-1.webp)1
+2.  ![Mortal Coil](/images/mlbb/skills/martis-2.webp)2
+3.  ![Mortal Coil](/images/mlbb/skills/martis-2.webp)2
+4.  Attack
+
+In the laning phase, initiate with Martis' 1st Skill to gather enemies and slow them, then follow up with his 2nd Skill. Use his 2nd Skill again to stay on the enemy and knock them airborne, and continue attacking with Basic Attacks.
+
+### When strongest
+
+Stronger early: 49.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **49.1**10–12
+2.  **48.3**12–14
+3.  **48.2**14–16
+4.  **47.8**16–18
+5.  **47.3**18–20
+6.  **47.7**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/martis-3.webp)Decimation
+2.  ![](/images/mlbb/skills/martis-1.webp)Asura Aura
+3.  ![](/images/mlbb/skills/martis-2.webp)Mortal Coil
+
+## Skills
 
 ![](/images/mlbb/skills/martis-0.webp)Passive**Asura's Wrath**![](/images/mlbb/skills/martis-1.webp)Skill 1**Asura Aura**![](/images/mlbb/skills/martis-2.webp)Skill 2**Mortal Coil**![](/images/mlbb/skills/martis-3.webp)Ultimate**Decimation**
 
@@ -289,17 +331,13 @@ Martis lunges at a designated enemy hero, dealing 700 (+120% Total Physical Atta
 
 If the enemy is killed by this skill, Martis can cast the skill again within 10s and gains 100% extra Movement Speed that gradually decays over 5s. Each successive cast also increases the skill's damage by 15% (up to 30%).
 
-## Counters
+## Martis counters
 
-### Counters
-
-Beat this hero
+### Who counters Martis
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)
 
-### Easy targets
-
-This hero beats them
+### Who Martis counters
 
 [![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)
 
@@ -318,6 +356,10 @@ This hero beats them
 Who counters Martis in MLBB?
 
 Over the last 30 days the toughest opponents are Saber, Chip, Moskov, Khufra and Sora.
+
+How do you play Martis?
+
+Level "Asura Aura" first and take the ultimate whenever it is available. Stronger early: 49.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, engage using Martis' 1st Skill to gather enemies and slow them, then use his 2nd Skill to deal damage and knock them airborne, and continue with Basic Attacks. Finish enemies at low HP with his Ultimate, then chain more kills with the Ultimate.
 
 What is Martis’s win rate right now?
 

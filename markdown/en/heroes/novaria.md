@@ -1,6 +1,6 @@
 ---
-title: "Novaria MLBB: build, counters and skills | MLBB Boost"
-description: "Novaria in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.29% win rate, tier B."
+title: "Novaria MLBB: build, combos and counters | MLBB Boost"
+description: "Novaria in Mobile Legends: ranked build, skill combos, how to play and who counters Novaria. Mage, 48.29% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/novaria.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Assassin
     Impure Rage
 
 
-## Skills
+## How to play Novaria
 
-Level-up**Astral Echo**_›_**Astral Recall**_›_**Astral Meteor**
+### Novaria combos
+
+#### Teamfight
+
+1.  ![Astral Echo](/images/mlbb/skills/novaria-3.webp)Ult
+2.  ![Astral Recall](/images/mlbb/skills/novaria-2.webp)2
+3.  ![Astral Recall](/images/mlbb/skills/novaria-2.webp)2
+4.  ![Astral Meteor](/images/mlbb/skills/novaria-1.webp)1
+
+In teamfights, use Novaria's Ultimate to gain vision of the battlefield, then summon an Astral Sphere with her 2nd Skill. After catching the Astral Sphere, launch it to damage the enemy and use her 1st Skill to thwart enemy heroes that try to get close.
+
+#### Laning
+
+1.  ![Astral Recall](/images/mlbb/skills/novaria-2.webp)2
+2.  ![Astral Meteor](/images/mlbb/skills/novaria-1.webp)1
+3.  ![Astral Recall](/images/mlbb/skills/novaria-2.webp)2
+
+In the laning phase, initiate by using Novaria's 2nd Skill to gain extra Movement Speed and summon an Astral Sphere. Then, slow the enemy with her 1st Skill and use her 2nd Skill again to launch the Astral Sphere to deal damage.
+
+### When strongest
+
+Stronger late: 51.7% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **47.6**10–12
+2.  **48.0**12–14
+3.  **48.3**14–16
+4.  **49.6**16–18
+5.  **50.8**18–20
+6.  **51.7**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/novaria-3.webp)Astral Echo
+2.  ![](/images/mlbb/skills/novaria-2.webp)Astral Recall
+3.  ![](/images/mlbb/skills/novaria-1.webp)Astral Meteor
+
+## Skills
 
 ![](/images/mlbb/skills/novaria-0.webp)Passive**Star Trail**![](/images/mlbb/skills/novaria-1.webp)Skill 1**Astral Meteor**![](/images/mlbb/skills/novaria-2.webp)Skill 2**Astral Recall**![](/images/mlbb/skills/novaria-3.webp)Ultimate**Astral Echo**
 
@@ -285,11 +323,9 @@ Cooldown **48 Mana Cost: 100 s**
 
 Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% and applying Astral Ring on them. This increases their hitbox by 2.5 times and reveals their position for 5s.
 
-## Counters
+## Novaria counters
 
-### Counters
-
-Beat this hero
+### Who counters Novaria
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
@@ -308,6 +344,10 @@ Beat this hero
 Who counters Novaria in MLBB?
 
 Over the last 30 days the toughest opponents are Diggie, Valir, Bane, Hanabi and Luo Yi.
+
+How do you play Novaria?
+
+Level "Astral Recall" first and take the ultimate whenever it is available. Stronger late: 51.7% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Novaria's Ultimate to gain vision of the battlefield, then summon an Astral Sphere with her 2nd Skill. After catching the Astral Sphere, launch it to damage the enemy and use her 1st Skill to thwart enemy heroes that try to get close.
 
 What is Novaria’s win rate right now?
 

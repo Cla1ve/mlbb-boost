@@ -1,6 +1,6 @@
 ---
-title: "Harley MLBB: build, counters and skills | MLBB Boost"
-description: "Harley in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and mage, 48.77% win rate, tier B."
+title: "Harley MLBB: build, combos and counters | MLBB Boost"
+description: "Harley in Mobile Legends: ranked build, skill combos, how to play and who counters Harley. Assassin and mage, 48.77% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/harley.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -249,9 +249,48 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Harley
 
-Level-up**Deadly Magic**_›_**Poker Trick**_›_**Space Escape**
+### Harley combos
+
+#### Teamfight
+
+1.  ![Space Escape](/images/mlbb/skills/harley-2.webp)2
+2.  ![Deadly Magic](/images/mlbb/skills/harley-3.webp)Ult
+3.  ![Poker Trick](/images/mlbb/skills/harley-1.webp)1
+4.  ![Space Escape](/images/mlbb/skills/harley-2.webp)2
+
+In teamfights, use Harley's 2nd Skill to find a good position to land his Ultimate. Then cast his Ultimate at the target, and follow up with his 1st Skill before moving back to safety with his 2nd Skill.
+
+#### Laning
+
+1.  ![Space Escape](/images/mlbb/skills/harley-2.webp)2
+2.  ![Poker Trick](/images/mlbb/skills/harley-1.webp)1
+3.  Attack
+4.  ![Space Escape](/images/mlbb/skills/harley-2.webp)2
+
+In the laning phase, first use Harley's 2nd Skill to get a good angle to cast his 1st Skill, and follow up with Basic Attacks. Then use his 2nd Skill again to get back to safety.
+
+### When strongest
+
+Stronger late: 49.1% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **31.9**10–12
+2.  **39.0**12–14
+3.  **43.5**14–16
+4.  **46.3**16–18
+5.  **47.5**18–20
+6.  **49.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/harley-3.webp)Deadly Magic
+2.  ![](/images/mlbb/skills/harley-1.webp)Poker Trick
+3.  ![](/images/mlbb/skills/harley-2.webp)Space Escape
+
+## Skills
 
 ![](/images/mlbb/skills/harley-0.webp)Passive**Magic Master**![](/images/mlbb/skills/harley-1.webp)Skill 1**Poker Trick**![](/images/mlbb/skills/harley-2.webp)Skill 2**Space Escape**![](/images/mlbb/skills/harley-3.webp)Ultimate**Deadly Magic**
 
@@ -291,17 +330,13 @@ Cooldown **36 Mana Cost: 120 s**
 
 Harley casts a magic ring of fire at an enemy hero, dealing 200 (+60% Total Magic Power) Magic Damage and a 40% slow effect that decays to 15% after 1.5s. The ring will stay around the target, during which Harley can hit the ring to damage the target. The ring will explode after 4s, dealing Magic Damage equal to 200 (+50% Total Magic Power) plus 30% of the damage taken by the target while the ring was active.
 
-## Counters
+## Harley counters
 
-### Counters
-
-Beat this hero
+### Who counters Harley
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)
 
-### Easy targets
-
-This hero beats them
+### Who Harley counters
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -320,6 +355,10 @@ This hero beats them
 Who counters Harley in MLBB?
 
 Over the last 30 days the toughest opponents are Alice, Valir, Melissa, Joy and Gord.
+
+How do you play Harley?
+
+Level "Poker Trick" first and take the ultimate whenever it is available. Stronger late: 49.1% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Harley's 2nd Skill to find a good position to land his Ultimate. Then cast his Ultimate at the target, and follow up with his 1st Skill before moving back to safety with his 2nd Skill.
 
 What is Harley’s win rate right now?
 

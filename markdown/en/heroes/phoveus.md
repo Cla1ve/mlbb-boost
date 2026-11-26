@@ -1,6 +1,6 @@
 ---
-title: "Phoveus MLBB: build, counters and skills | MLBB Boost"
-description: "Phoveus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.55% win rate, tier B."
+title: "Phoveus MLBB: build, combos and counters | MLBB Boost"
+description: "Phoveus in Mobile Legends: ranked build, skill combos, how to play and who counters Phoveus. Fighter, 48.55% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/phoveus.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,48 @@ Fighter
     Brave Smite
 
 
-## Skills
+## How to play Phoveus
 
-Level-up**Infernal Pursuit**_›_**Demonic Impact**_›_**Dark Wave**
+### Phoveus combos
+
+#### Teamfight
+
+1.  Attack
+2.  ![Infernal Pursuit](/images/mlbb/skills/phoveus-3.webp)Ult
+3.  ![Demonic Impact](/images/mlbb/skills/phoveus-1.webp)1
+4.  ![Dark Wave](/images/mlbb/skills/phoveus-2.webp)2
+
+In teamfights, Phoveus should use his enhanced Basic Attack to charge at the enemy while knocking them back and marking them. Then immediately follow up with his Ultimate. Next, hit the target with his 1st Skill, then use his 2nd skill and his Ultimate again. Finally, use the enhanced 1st Skill to mark the enemy once more, and use his Ultimate.
+
+#### Laning
+
+1.  ![Demonic Impact](/images/mlbb/skills/phoveus-1.webp)1
+2.  ![Demonic Impact](/images/mlbb/skills/phoveus-1.webp)1
+3.  Attack
+4.  ![Dark Wave](/images/mlbb/skills/phoveus-2.webp)2
+
+In the laning phase, Phoveus should first use his enhanced Basic Attack to hit the enemy hero and gain a shield. Follow up with his 1st Skill to chip away their HP, then use his enhanced 1st Skill for additional damage and to slow the target, and end with his 2nd Skill for more damage.
+
+### When strongest
+
+Even through the game, from 45.7% to 50.7%. Pick fights by your items rather than the clock.
+
+1.  **45.7**10–12
+2.  **49.2**12–14
+3.  **50.7**14–16
+4.  **49.5**16–18
+5.  **48.9**18–20
+6.  **48.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/phoveus-3.webp)Infernal Pursuit
+2.  ![](/images/mlbb/skills/phoveus-1.webp)Demonic Impact
+3.  ![](/images/mlbb/skills/phoveus-2.webp)Dark Wave
+
+## Skills
 
 ![](/images/mlbb/skills/phoveus-0.webp)Passive**Demonic Force**![](/images/mlbb/skills/phoveus-1.webp)Skill 1**Demonic Impact**![](/images/mlbb/skills/phoveus-2.webp)Skill 2**Dark Wave**![](/images/mlbb/skills/phoveus-3.webp)Ultimate**Infernal Pursuit**
 
@@ -288,17 +327,13 @@ Ultimate
 
 Infernal Pursuit can only be used when there are enemies with Sinner's Mark nearby. HP recovered is reduced by 80% when multiple enemies are hit.
 
-## Counters
+## Phoveus counters
 
-### Counters
-
-Beat this hero
+### Who counters Phoveus
 
 [![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)
 
-### Easy targets
-
-This hero beats them
+### Who Phoveus counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)
 
@@ -317,6 +352,10 @@ This hero beats them
 Who counters Phoveus in MLBB?
 
 Over the last 30 days the toughest opponents are Wanwan, Harith, Freya, Benedetta and Ruby.
+
+How do you play Phoveus?
+
+Level "Demonic Impact" first and take the ultimate whenever it is available. Even through the game, from 45.7% to 50.7%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, Phoveus should use his enhanced Basic Attack to charge at the enemy while knocking them back and marking them. Then immediately follow up with his Ultimate. Next, hit the target with his 1st Skill, then use his 2nd skill and his Ultimate again. Finally, use the enhanced 1st Skill to mark the enemy once more, and use his Ultimate.
 
 What is Phoveus’s win rate right now?
 

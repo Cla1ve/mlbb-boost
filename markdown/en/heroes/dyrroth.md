@@ -1,6 +1,6 @@
 ---
-title: "Dyrroth MLBB: build, counters and skills | MLBB Boost"
-description: "Dyrroth in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.43% win rate, tier B."
+title: "Dyrroth MLBB: build, combos and counters | MLBB Boost"
+description: "Dyrroth in Mobile Legends: ranked build, skill combos, how to play and who counters Dyrroth. Fighter, 51.43% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/dyrroth.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Assassin
     Killing Spree
 
 
-## Skills
+## How to play Dyrroth
 
-Level-up**Abysm Strike**_›_**Burst Strike**_›_**Spectre Step**
+### Dyrroth combos
+
+#### Teamfight
+
+1.  ![Spectre Step](/images/mlbb/skills/dyrroth-2.webp)2
+2.  ![Spectre Step](/images/mlbb/skills/dyrroth-2.webp)2
+3.  Attack
+4.  ![Burst Strike](/images/mlbb/skills/dyrroth-1.webp)1
+5.  ![Abysm Strike](/images/mlbb/skills/dyrroth-3.webp)Ult
+
+In teamfights, Dyrroth should use his 2nd Skill to close the gap with the enemy, then use his Basic Attacks and 1st Skill to deal damage, and finish off the low HP heroes with his Ultimate.
+
+#### Laning
+
+1.  ![Spectre Step](/images/mlbb/skills/dyrroth-2.webp)2
+2.  ![Spectre Step](/images/mlbb/skills/dyrroth-2.webp)2
+3.  Attack
+4.  ![Burst Strike](/images/mlbb/skills/dyrroth-1.webp)1
+
+In the laning phase, Dyrroth can use his 2nd Skill to close in on the enemy and cast it again to lower their Physical Defense. He can then follow up with his Basic Attacks and 1st Skill to poke them.
+
+### When strongest
+
+Stronger early: 54.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **54.0**10–12
+2.  **51.4**12–14
+3.  **50.4**14–16
+4.  **49.2**16–18
+5.  **48.4**18–20
+6.  **48.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/dyrroth-3.webp)Abysm Strike
+2.  ![](/images/mlbb/skills/dyrroth-1.webp)Burst Strike
+3.  ![](/images/mlbb/skills/dyrroth-2.webp)Spectre Step
+
+## Skills
 
 ![](/images/mlbb/skills/dyrroth-0.webp)Passive**Wrath of the Abyss**![](/images/mlbb/skills/dyrroth-1.webp)Skill 1**Burst Strike**![](/images/mlbb/skills/dyrroth-2.webp)Skill 2**Spectre Step**![](/images/mlbb/skills/dyrroth-3.webp)Ultimate**Abysm Strike**
 
@@ -299,17 +339,13 @@ This skill can only be interrupted by Suppression.
 
 Damage dealt to non-hero enemies is capped at 1500.
 
-## Counters
+## Dyrroth counters
 
-### Counters
-
-Beat this hero
+### Who counters Dyrroth
 
 [![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
-### Easy targets
-
-This hero beats them
+### Who Dyrroth counters
 
 [![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
@@ -328,6 +364,10 @@ This hero beats them
 Who counters Dyrroth in MLBB?
 
 Over the last 30 days the toughest opponents are Esmeralda, Uranus, Alice, Zhuxin and Valentina.
+
+How do you play Dyrroth?
+
+Level "Burst Strike" first and take the ultimate whenever it is available. Stronger early: 54.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Dyrroth should use his 2nd Skill to close the gap with the enemy, then use his Basic Attacks and 1st Skill to deal damage, and finish off the low HP heroes with his Ultimate.
 
 What is Dyrroth’s win rate right now?
 

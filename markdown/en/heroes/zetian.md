@@ -1,6 +1,6 @@
 ---
-title: "Zetian MLBB: build, counters and skills | MLBB Boost"
-description: "Zetian in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.06% win rate, tier A."
+title: "Zetian MLBB: build, combos and counters | MLBB Boost"
+description: "Zetian in Mobile Legends: ranked build, skill combos, how to play and who counters Zetian. Mage, 50.06% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zetian.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 3.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Zetian
 
-Level-up**Fury of the Phoenix**_›_**Phoenix Strike**_›_**Phoenix Descent**
+### Zetian combos
+
+#### Teamfight
+
+1.  ![Fury of the Phoenix](/images/mlbb/skills/zetian-3.webp)Ult
+2.  ![Phoenix Descent](/images/mlbb/skills/zetian-2.webp)2
+3.  ![Phoenix Strike](/images/mlbb/skills/zetian-1.webp)1
+4.  ![Phoenix Descent](/images/mlbb/skills/zetian-2.webp)2
+
+In teamfights, use Zetian's Ultimate to boost her team's Movement Speed and launch the global attack, then immediately use her 2nd Skill to slow enemies, making it easier for the Ultimate to land. Follow-up with her 1st Skill for more AoE, and recast the 2nd Skill if enemies try to leave its range.
+
+#### Laning
+
+1.  ![Phoenix Descent](/images/mlbb/skills/zetian-2.webp)2
+2.  ![Phoenix Strike](/images/mlbb/skills/zetian-1.webp)1
+3.  ![Phoenix Descent](/images/mlbb/skills/zetian-2.webp)2
+
+In the laning phase, Use Zetian's 2nd Skill to slow the enemy and reduce their Magic Defense, then use her 1st Skill while moving to reposition and deal sustained damage. If enemies leave the area of the 2nd Skill, use it again to move the Phoenix on top of them.
+
+### When strongest
+
+Even through the game, from 49.7% to 51.8%. Pick fights by your items rather than the clock.
+
+1.  **49.7**10–12
+2.  **51.0**12–14
+3.  **51.8**14–16
+4.  **51.4**16–18
+5.  **50.8**18–20
+6.  **50.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/zetian-3.webp)Fury of the Phoenix
+2.  ![](/images/mlbb/skills/zetian-1.webp)Phoenix Strike
+3.  ![](/images/mlbb/skills/zetian-2.webp)Phoenix Descent
+
+## Skills
 
 ![](/images/mlbb/skills/zetian-0.webp)Passive**Celestial Armament**![](/images/mlbb/skills/zetian-1.webp)Skill 1**Phoenix Strike**![](/images/mlbb/skills/zetian-2.webp)Skill 2**Phoenix Descent**![](/images/mlbb/skills/zetian-3.webp)Ultimate**Fury of the Phoenix**
 
@@ -293,11 +331,9 @@ Zetian calls upon her divine mandate and the hearts of her people, granting all 
 
 Zetian can cast other skills while channeling this skill.
 
-## Counters
+## Zetian counters
 
-### Counters
-
-Beat this hero
+### Who counters Zetian
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
 
@@ -316,6 +352,10 @@ Beat this hero
 Who counters Zetian in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Natalia, Tigreal, Helcurt and Zilong.
+
+How do you play Zetian?
+
+Level "Phoenix Strike" first and take the ultimate whenever it is available. Even through the game, from 49.7% to 51.8%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Zetian's Ultimate to boost her team's Movement Speed and launch the global attack, then immediately use her 2nd Skill to slow enemies, making it easier for the Ultimate to land. Follow-up with her 1st Skill for more AoE, and recast the 2nd Skill if enemies try to leave its range.
 
 What is Zetian’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Zhuxin MLBB: build, counters and skills | MLBB Boost"
-description: "Zhuxin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 49.46% win rate, tier A."
+title: "Zhuxin MLBB: build, combos and counters | MLBB Boost"
+description: "Zhuxin in Mobile Legends: ranked build, skill combos, how to play and who counters Zhuxin. Mage, 49.46% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/zhuxin.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Common
     Brave Smite
 
 
-## Skills
+## How to play Zhuxin
 
-Level-up**Crimson Beacon**_›_**Lantern Flare**_›_**Fluttering Grace**
+### Zhuxin combos
+
+#### Laning
+
+1.  ![Fluttering Grace](/images/mlbb/skills/zhuxin-1.webp)1
+2.  ![Lantern Flare](/images/mlbb/skills/zhuxin-2.webp)2
+3.  ![Lantern Flare](/images/mlbb/skills/zhuxin-2.webp)2
+
+In the laning phase, use Zhuxin's 1st Skill to slow the opponent and increase her own Movement Speed, then use her 2nd Skill from a safe position and try to hit the Minions and the opponent at the same time to both poke and clear the lane. Once the enemy has enough stacks, throw them into the Minions for additional damage.
+
+#### Teamfight
+
+1.  ![Fluttering Grace](/images/mlbb/skills/zhuxin-1.webp)1
+2.  ![Crimson Beacon](/images/mlbb/skills/zhuxin-3.webp)Ult
+3.  ![Lantern Flare](/images/mlbb/skills/zhuxin-2.webp)2
+4.  ![Lantern Flare](/images/mlbb/skills/zhuxin-2.webp)2
+
+In teamfights, use Zhuxin's Ultimate to blink into a good position, then follow up with her 1st Skill to slow the enemy team and use her 2nd Skill to build stacks at a safe distance. Try to capture as many enemies as possible with her 2nd Skill, then throw them out of position while also grouping them up.
+
+### When strongest
+
+Even through the game, from 46.7% to 49.6%. Pick fights by your items rather than the clock.
+
+1.  **46.7**10–12
+2.  **49.2**12–14
+3.  **49.6**14–16
+4.  **49.3**16–18
+5.  **48.0**18–20
+6.  **47.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/zhuxin-3.webp)Crimson Beacon
+2.  ![](/images/mlbb/skills/zhuxin-2.webp)Lantern Flare
+3.  ![](/images/mlbb/skills/zhuxin-1.webp)Fluttering Grace
+
+## Skills
 
 ![](/images/mlbb/skills/zhuxin-0.webp)Passive**Crimson Butterflies**![](/images/mlbb/skills/zhuxin-1.webp)Skill 1**Fluttering Grace**![](/images/mlbb/skills/zhuxin-2.webp)Skill 2**Lantern Flare**![](/images/mlbb/skills/zhuxin-3.webp)Ultimate**Crimson Beacon**
 
@@ -289,17 +327,13 @@ Cooldown **60 Mana Cost: 200 s**
 
 Zhuxin blinks to the target location, gaining a 400 (+100% Total Magic Power) shield and creating a field for 6s. The field deals 30 (+10% Total Magic Power) Magic Damage and applies 1 stack of Soul Snare to nearby enemies every 0.5s.
 
-## Counters
+## Zhuxin counters
 
-### Counters
-
-Beat this hero
+### Who counters Zhuxin
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
-### Easy targets
-
-This hero beats them
+### Who Zhuxin counters
 
 [![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
@@ -318,6 +352,10 @@ This hero beats them
 Who counters Zhuxin in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Khufra, Gloo, Hylos and Leomord.
+
+How do you play Zhuxin?
+
+Level "Lantern Flare" first and take the ultimate whenever it is available. Even through the game, from 46.7% to 49.6%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Zhuxin's Ultimate to blink into a good position, then follow up with her 1st Skill to slow the enemy team and use her 2nd Skill to build stacks at a safe distance. Try to capture as many enemies as possible with her 2nd Skill, then throw them out of position while also grouping them up.
 
 What is Zhuxin’s win rate right now?
 

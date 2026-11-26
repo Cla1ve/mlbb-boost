@@ -1,6 +1,6 @@
 ---
-title: "Cecilion MLBB: build, counters and skills | MLBB Boost"
-description: "Cecilion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.61% win rate, tier C."
+title: "Cecilion MLBB: build, combos and counters | MLBB Boost"
+description: "Cecilion in Mobile Legends: ranked build, skill combos, how to play and who counters Cecilion. Mage, 50.61% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cecilion.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Cecilion
 
-Level-up**Bats Feast**_›_**Bat Impact**_›_**Sanguine Claws**
+### Cecilion combos
+
+#### Teamfight
+
+1.  ![Bats Feast](/images/mlbb/skills/cecilion-3.webp)3
+2.  ![Bat Impact](/images/mlbb/skills/cecilion-1.webp)1
+3.  ![Sanguine Claws](/images/mlbb/skills/cecilion-2.webp)2
+4.  ![Bat Impact](/images/mlbb/skills/cecilion-1.webp)1
+
+In teamfights, initiate with Cecilion's Ultimate to slow the enemy, then hit them with his 1st Skill. When the time is right, pull the enemies together using his 2nd Skill and spam his 1st Skill for damage.
+
+#### Laning
+
+1.  ![Sanguine Claws](/images/mlbb/skills/cecilion-2.webp)2
+2.  ![Bat Impact](/images/mlbb/skills/cecilion-1.webp)1
+
+In the laning phase, use Cecilion's 2nd Skill to pull enemies together, then repeatedly hit them with his 1st Skill.
+
+### When strongest
+
+Even through the game, from 50.0% to 51.8%. Pick fights by your items rather than the clock.
+
+1.  **51.8**10–12
+2.  **50.2**12–14
+3.  **50.0**14–16
+4.  **50.6**16–18
+5.  **51.4**18–20
+6.  **50.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/cecilion-3.webp)Bats Feast
+2.  ![](/images/mlbb/skills/cecilion-1.webp)Bat Impact
+3.  ![](/images/mlbb/skills/cecilion-2.webp)Sanguine Claws
+
+## Skills
 
 ![](/images/mlbb/skills/cecilion-0.webp)Passive**Overflowing**![](/images/mlbb/skills/cecilion-1.webp)Skill 1**Bat Impact**![](/images/mlbb/skills/cecilion-2.webp)Skill 2**Sanguine Claws**![](/images/mlbb/skills/cecilion-3.webp)Skill 3**Bats Feast**![](/images/mlbb/skills/cecilion-4.webp)Ultimate**Moonlit Waltz**
 
@@ -301,11 +338,9 @@ When Carmilla is nearby, Cecilion can summon her to become a Vermil Shadow aroun
 
 Carmilla can choose to leave Cecilion and charge at the target location, gaining an equal shield while dealing 520-800 Magic Damage (scales with level) to nearby enemies and slowing them by 30% for 1s.
 
-## Counters
+## Cecilion counters
 
-### Counters
-
-Beat this hero
+### Who counters Cecilion
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
@@ -324,6 +359,10 @@ Beat this hero
 Who counters Cecilion in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Barats, Phoveus, Hylos and Fredrinn.
+
+How do you play Cecilion?
+
+Level "Bats Feast" first and take the ultimate whenever it is available. Even through the game, from 50.0% to 51.8%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, initiate with Cecilion's Ultimate to slow the enemy, then hit them with his 1st Skill. When the time is right, pull the enemies together using his 2nd Skill and spam his 1st Skill for damage.
 
 What is Cecilion’s win rate right now?
 

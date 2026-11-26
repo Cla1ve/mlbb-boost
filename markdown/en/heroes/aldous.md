@@ -1,6 +1,6 @@
 ---
-title: "Aldous MLBB: build, counters and skills | MLBB Boost"
-description: "Aldous in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.39% win rate, tier C."
+title: "Aldous MLBB: build, combos and counters | MLBB Boost"
+description: "Aldous in Mobile Legends: ranked build, skill combos, how to play and who counters Aldous. Fighter, 53.39% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aldous.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,50 @@ Assassin
     Quantum Charge
 
 
-## Skills
+## How to play Aldous
 
-Level-up**Contract: Chase Fate**_›_**Contract: Soul Steal**_›_**Contract: Explosion**
+### Aldous combos
+
+#### Teamfight
+
+1.  ![Contract: Chase Fate](/images/mlbb/skills/aldous-3.webp)Ult
+2.  ![Contract: Chase Fate](/images/mlbb/skills/aldous-3.webp)Ult
+3.  ![Contract: Soul Steal](/images/mlbb/skills/aldous-1.webp)1
+4.  ![Contract: Explosion](/images/mlbb/skills/aldous-2.webp)2
+5.  Attack
+
+In teamfights, Use Aldous' Ultimate to gain vision on the enemy team, then use his Ultimate again to dash to the most vulnerable target. After the dash, use Aldous' 1st and 2nd skill combo to hit the enemy with his enhanced Basic Attacks.
+
+#### Laning
+
+1.  ![Contract: Soul Steal](/images/mlbb/skills/aldous-1.webp)1
+2.  ![Contract: Explosion](/images/mlbb/skills/aldous-2.webp)2
+3.  Attack
+4.  ![Contract: Soul Steal](/images/mlbb/skills/aldous-1.webp)1
+5.  Attack
+
+In the laning phase, Use Aldous' 1st Skill to enhance his next Basic Attack, then his 2nd Skill to close in on the enemy to hit them with his enhanced attack. Follow with another 1st Skill to hit the enemy with another enhanced Basic Attack.
+
+### When strongest
+
+Stronger late: 59.7% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **44.7**10–12
+2.  **50.7**12–14
+3.  **54.3**14–16
+4.  **58.2**16–18
+5.  **59.7**18–20
+6.  **59.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/aldous-3.webp)Contract: Chase Fate
+2.  ![](/images/mlbb/skills/aldous-1.webp)Contract: Soul Steal
+3.  ![](/images/mlbb/skills/aldous-2.webp)Contract: Explosion
+
+## Skills
 
 ![](/images/mlbb/skills/aldous-0.webp)Passive**Contract: Transform**![](/images/mlbb/skills/aldous-1.webp)Skill 1**Contract: Soul Steal**![](/images/mlbb/skills/aldous-2.webp)Skill 2**Contract: Explosion**![](/images/mlbb/skills/aldous-3.webp)Ultimate**Contract: Chase Fate**
 
@@ -294,17 +335,13 @@ Aldous gains vision of all enemy heroes for 5s.
 
 Aldous can interrupt the target's Recall while dashing.
 
-## Counters
+## Aldous counters
 
-### Counters
-
-Beat this hero
+### Who counters Aldous
 
 [![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
-### Easy targets
-
-This hero beats them
+### Who Aldous counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)
 
@@ -323,6 +360,10 @@ This hero beats them
 Who counters Aldous in MLBB?
 
 Over the last 30 days the toughest opponents are Uranus, Xavier, Helcurt, X.Borg and Hanzo.
+
+How do you play Aldous?
+
+Level "Contract: Soul Steal" first and take the ultimate whenever it is available. Stronger late: 59.7% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Use Aldous' Ultimate to gain vision on the enemy team, then use his Ultimate again to dash to the most vulnerable target. After the dash, use Aldous' 1st and 2nd skill combo to hit the enemy with his enhanced Basic Attacks.
 
 What is Aldous’s win rate right now?
 

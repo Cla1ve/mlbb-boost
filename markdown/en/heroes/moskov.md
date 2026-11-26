@@ -1,6 +1,6 @@
 ---
-title: "Moskov MLBB: build, counters and skills | MLBB Boost"
-description: "Moskov in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.32% win rate, tier B."
+title: "Moskov MLBB: build, combos and counters | MLBB Boost"
+description: "Moskov in Mobile Legends: ranked build, skill combos, how to play and who counters Moskov. Marksman, 51.32% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/moskov.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Marksman
     Quantum Charge
 
 
-## Skills
+## How to play Moskov
 
-Level-up**Spear of Destruction**_›_**Abyss Walker**_›_**Spear of Misery**
+### Moskov combos
+
+#### Teamfight
+
+1.  ![Spear of Destruction](/images/mlbb/skills/moskov-3.webp)Ult
+2.  ![Spear of Misery](/images/mlbb/skills/moskov-2.webp)2
+3.  ![Abyss Walker](/images/mlbb/skills/moskov-1.webp)1
+4.  Attack
+
+In teamfights, use Moskov's Ultimate to slow a target, then activate it again to blink behind them and use his 2nd Skill to knock them into a stun before finishing them off with Basic Attacks.
+
+#### Laning
+
+1.  ![Abyss Walker](/images/mlbb/skills/moskov-1.webp)1
+2.  ![Spear of Misery](/images/mlbb/skills/moskov-2.webp)2
+3.  Attack
+
+In the laning phase, use Moskov's 1st Skill to blink to a position to stun the target with his 2nd Skill, then get in as many Basic Attacks as possible to reduce the cooldown of his skills.
+
+### When strongest
+
+Stronger late: 52.8% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **46.3**10–12
+2.  **50.0**12–14
+3.  **51.5**14–16
+4.  **52.8**16–18
+5.  **52.7**18–20
+6.  **52.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/moskov-3.webp)Spear of Destruction
+2.  ![](/images/mlbb/skills/moskov-1.webp)Abyss Walker
+3.  ![](/images/mlbb/skills/moskov-2.webp)Spear of Misery
+
+## Skills
 
 ![](/images/mlbb/skills/moskov-0.webp)Passive**Spear of Quiescence**![](/images/mlbb/skills/moskov-1.webp)Skill 1**Abyss Walker**![](/images/mlbb/skills/moskov-2.webp)Skill 2**Spear of Misery**![](/images/mlbb/skills/moskov-3.webp)Ultimate**Spear of Destruction**
 
@@ -290,17 +328,13 @@ When Spear of Destruction hits an enemy hero, it creates a shadow behind them an
 
 **Use Again:** Moskov casts Abyss Walker from the shadow's location (shares a cooldown with Skill 1).
 
-## Counters
+## Moskov counters
 
-### Counters
-
-Beat this hero
+### Who counters Moskov
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
-### Easy targets
-
-This hero beats them
+### Who Moskov counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
@@ -319,6 +353,10 @@ This hero beats them
 Who counters Moskov in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Joy, Fanny, Beatrix and Atlas.
+
+How do you play Moskov?
+
+Level "Abyss Walker" first and take the ultimate whenever it is available. Stronger late: 52.8% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Moskov's Ultimate to slow a target, then activate it again to blink behind them and use his 2nd Skill to knock them into a stun before finishing them off with Basic Attacks.
 
 What is Moskov’s win rate right now?
 

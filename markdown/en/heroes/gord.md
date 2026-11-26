@@ -1,6 +1,6 @@
 ---
-title: "Gord MLBB: build, counters and skills | MLBB Boost"
-description: "Gord in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.93% win rate, tier C."
+title: "Gord MLBB: build, combos and counters | MLBB Boost"
+description: "Gord in Mobile Legends: ranked build, skill combos, how to play and who counters Gord. Mage, 51.93% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/gord.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Common
     Focusing Mark
 
 
-## Skills
+## How to play Gord
 
-Level-up**Mystic Gush**_›_**Mystic Injunction**_›_**Mystic Projectile**
+### Gord combos
+
+#### Teamfight
+
+1.  ![Mystic Projectile](/images/mlbb/skills/gord-1.webp)1
+2.  ![Mystic Injunction](/images/mlbb/skills/gord-2.webp)2
+3.  ![Mystic Gush](/images/mlbb/skills/gord-3.webp)Ult
+
+Gord should look to stun the enemy heroes with his 1st Skill, then follow up with his 2nd Skill and Ultimate to get a quick kill on them.
+
+#### Laning
+
+1.  ![Mystic Projectile](/images/mlbb/skills/gord-1.webp)1
+2.  ![Mystic Injunction](/images/mlbb/skills/gord-2.webp)2
+3.  ![Mystic Gush](/images/mlbb/skills/gord-3.webp)Ult
+
+Gord should look to stun the enemy heroes with his 1st Skill, then follow up with his 2nd Skill and Ultimate to get a quick kill on them.
+
+### When strongest
+
+Stronger early: 55.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **55.0**10–12
+2.  **53.7**12–14
+3.  **52.7**14–16
+4.  **52.5**16–18
+5.  **51.8**18–20
+6.  **50.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/gord-3.webp)Mystic Gush
+2.  ![](/images/mlbb/skills/gord-2.webp)Mystic Injunction
+3.  ![](/images/mlbb/skills/gord-1.webp)Mystic Projectile
+
+## Skills
 
 ![](/images/mlbb/skills/gord-0.webp)Passive**Mystic Favor**![](/images/mlbb/skills/gord-1.webp)Skill 1**Mystic Projectile**![](/images/mlbb/skills/gord-2.webp)Skill 2**Mystic Injunction**![](/images/mlbb/skills/gord-3.webp)Ultimate**Mystic Gush**
 
@@ -285,17 +322,13 @@ Gord unleashes an energy beam in the target direction, dealing 90 (+32% Total Ma
 
 The direction of the beam can be adjusted using the Joystick.
 
-## Counters
+## Gord counters
 
-### Counters
-
-Beat this hero
+### Who counters Gord
 
 [![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
 
-### Easy targets
-
-This hero beats them
+### Who Gord counters
 
 [![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
@@ -314,6 +347,10 @@ This hero beats them
 Who counters Gord in MLBB?
 
 Over the last 30 days the toughest opponents are Barats, Lolita, Fredrinn, Phoveus and Alice.
+
+How do you play Gord?
+
+Level "Mystic Injunction" first and take the ultimate whenever it is available. Stronger early: 55.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Gord should look to stun the enemy heroes with his 1st Skill, then follow up with his 2nd Skill and Ultimate to get a quick kill on them.
 
 What is Gord’s win rate right now?
 

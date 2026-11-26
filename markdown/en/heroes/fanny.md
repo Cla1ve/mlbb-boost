@@ -1,6 +1,6 @@
 ---
-title: "Fanny MLBB: build, counters and skills | MLBB Boost"
-description: "Fanny in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 42.96% win rate, tier B."
+title: "Fanny MLBB: build, combos and counters | MLBB Boost"
+description: "Fanny in Mobile Legends: ranked build, skill combos, how to play and who counters Fanny. Assassin, 42.96% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/fanny.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Fanny
 
-Level-up**Cut Throat**_›_**Steel Cable**_›_**Tornado Strike**
+### Fanny combos
+
+#### Teamfight
+
+1.  ![Steel Cable](/images/mlbb/skills/fanny-2.webp)2
+2.  ![Cut Throat](/images/mlbb/skills/fanny-3.webp)Ult
+
+In teamfights, use Fanny's 2nd Skill repeatedly to move around and use her 1st Skill when in the middle of the enemy. Look for low HP enemies to finish off with her Ultimate.
+
+#### Laning
+
+1.  ![Steel Cable](/images/mlbb/skills/fanny-2.webp)2
+2.  ![Tornado Strike](/images/mlbb/skills/fanny-1.webp)1
+3.  ![Steel Cable](/images/mlbb/skills/fanny-2.webp)2
+4.  ![Cut Throat](/images/mlbb/skills/fanny-3.webp)Ult
+
+In the laning phase, use Fanny's 2nd Skill at walls to quickly maneuver around and use her 1st Skill when near the enemy. Keep using her 2nd Skill to pass through the enemy to automatically trigger her 1st Skill, and use her Ultimate to secure kills.
+
+### When strongest
+
+Stronger late: 47.3% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **34.5**10–12
+2.  **40.4**12–14
+3.  **42.6**14–16
+4.  **45.9**16–18
+5.  **46.4**18–20
+6.  **47.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/fanny-3.webp)Cut Throat
+2.  ![](/images/mlbb/skills/fanny-2.webp)Steel Cable
+3.  ![](/images/mlbb/skills/fanny-1.webp)Tornado Strike
+
+## Skills
 
 ![](/images/mlbb/skills/fanny-0.webp)Passive**Air Superiority**![](/images/mlbb/skills/fanny-1.webp)Skill 1**Tornado Strike**![](/images/mlbb/skills/fanny-2.webp)Skill 2**Steel Cable**![](/images/mlbb/skills/fanny-3.webp)Ultimate**Cut Throat**
 
@@ -287,17 +324,13 @@ Cooldown **35 Energy Cost: 12 s**
 
 Fanny leaps at the target enemy hero or Creep with her blades, dealing 400 (+200% Extra Physical Attack) Physical Damage. Each stack of Prey Mark on the target increases this damage by 30%.
 
-## Counters
+## Fanny counters
 
-### Counters
-
-Beat this hero
+### Who counters Fanny
 
 [![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)
 
-### Easy targets
-
-This hero beats them
+### Who Fanny counters
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/chou.webp)Chou](https://boostmlbb.ru/en/heroes/chou.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)
 
@@ -316,6 +349,10 @@ This hero beats them
 Who counters Fanny in MLBB?
 
 Over the last 30 days the toughest opponents are Granger, Gloo, Yve, Atlas and Clint.
+
+How do you play Fanny?
+
+Level "Steel Cable" first and take the ultimate whenever it is available. Stronger late: 47.3% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Fanny's 2nd Skill repeatedly to move around and use her 1st Skill when in the middle of the enemy. Look for low HP enemies to finish off with her Ultimate.
 
 What is Fanny’s win rate right now?
 

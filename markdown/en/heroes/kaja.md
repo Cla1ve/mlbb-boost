@@ -1,6 +1,6 @@
 ---
-title: "Kaja MLBB: build, counters and skills | MLBB Boost"
-description: "Kaja in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 49.58% win rate, tier B."
+title: "Kaja MLBB: build, combos and counters | MLBB Boost"
+description: "Kaja in Mobile Legends: ranked build, skill combos, how to play and who counters Kaja. Support, 49.58% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/kaja.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 30.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,46 @@ Support
     Quantum Charge
 
 
-## Skills
+## How to play Kaja
 
-Level-up**Divine Binding**_›_**Ring of Order**_›_**Soaring Wings**
+### Kaja combos
+
+#### Teamfight
+
+1.  ![Soaring Wings](/images/mlbb/skills/kaja-2.webp)2
+2.  ![Ring of Order](/images/mlbb/skills/kaja-1.webp)1
+3.  ![Divine Binding](/images/mlbb/skills/kaja-3.webp)Ult
+
+For initiating teamfights, use Kaja's 2nd Skill to soar, use the terrain to reposition. Follow up with his 1st Skill to slow and reduce their damage, then immediately cast his Ultimate and let the team clean up.
+
+#### Laning
+
+1.  ![Ring of Order](/images/mlbb/skills/kaja-1.webp)1
+2.  ![Soaring Wings](/images/mlbb/skills/kaja-2.webp)2
+3.  Attack
+
+In the laning phase, use Kaja's 1st Skill to poke and recover HP. If the enemy engages, use his 2nd Skill to take off, then kite with his aerial Basic Attacks. Kite when attacked, attack when they're out of steam.
+
+### When strongest
+
+Stronger early: 53.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.2**10–12
+2.  **51.1**12–14
+3.  **48.6**14–16
+4.  **47.9**16–18
+5.  **48.1**18–20
+6.  **48.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/kaja-3.webp)Divine Binding
+2.  ![](/images/mlbb/skills/kaja-1.webp)Ring of Order
+3.  ![](/images/mlbb/skills/kaja-2.webp)Soaring Wings
+
+## Skills
 
 ![](/images/mlbb/skills/kaja-0.webp)Passive**Wings of Lightning**![](/images/mlbb/skills/kaja-1.webp)Skill 1**Ring of Order**![](/images/mlbb/skills/kaja-2.webp)Skill 2**Soaring Wings**![](/images/mlbb/skills/kaja-3.webp)Ultimate**Divine Binding**
 
@@ -290,17 +327,13 @@ Kaja hurls a Primal Lightning Lasso at the target area. After a 0.5s delay, all 
 
 While active, Kaja can drag the lasso, shrinking its radius and pulling enemies at the boundary along with him (does not interrupt their skills).
 
-## Counters
+## Kaja counters
 
-### Counters
-
-Beat this hero
+### Who counters Kaja
 
 [![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)
 
-### Easy targets
-
-This hero beats them
+### Who Kaja counters
 
 [![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
@@ -319,6 +352,10 @@ This hero beats them
 Who counters Kaja in MLBB?
 
 Over the last 30 days the toughest opponents are Valir, Akai, Grock, Baxia and Beatrix.
+
+How do you play Kaja?
+
+Level "Ring of Order" first and take the ultimate whenever it is available. Stronger early: 53.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: For initiating teamfights, use Kaja's 2nd Skill to soar, use the terrain to reposition. Follow up with his 1st Skill to slow and reduce their damage, then immediately cast his Ultimate and let the team clean up.
 
 What is Kaja’s win rate right now?
 

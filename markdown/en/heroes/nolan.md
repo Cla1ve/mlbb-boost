@@ -1,6 +1,6 @@
 ---
-title: "Nolan MLBB: build, counters and skills | MLBB Boost"
-description: "Nolan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 50.45% win rate, tier S."
+title: "Nolan MLBB: build, combos and counters | MLBB Boost"
+description: "Nolan in Mobile Legends: ranked build, skill combos, how to play and who counters Nolan. Assassin, 50.45% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/nolan.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 39.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,50 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Nolan
 
-Level-up**Fracture**_›_**Expansion**_›_**Gauge**
+### Nolan combos
+
+#### Teamfight
+
+1.  ![Gauge](/images/mlbb/skills/nolan-2.webp)2
+2.  Attack
+3.  ![Expansion](/images/mlbb/skills/nolan-1.webp)1
+4.  ![Gauge](/images/mlbb/skills/nolan-2.webp)2
+5.  ![Fracture](/images/mlbb/skills/nolan-3.webp)Ult
+
+In teamfights, approach the enemy using Nolan's 2nd Skill and enhanced Basic Attack, then activate the rift with his 1st Skill. Use Nolan's 2nd Skill to dash through the enemy, and unleash his Ultimate to activate all the rifts while dashing back to safety.
+
+#### Laning
+
+1.  ![Gauge](/images/mlbb/skills/nolan-2.webp)2
+2.  Attack
+3.  ![Expansion](/images/mlbb/skills/nolan-1.webp)1
+4.  ![Gauge](/images/mlbb/skills/nolan-2.webp)2
+5.  ![Expansion](/images/mlbb/skills/nolan-1.webp)1
+
+In the laning phase, use Nolan's 2nd Skill and enhanced Basic Attack to catch the enemy, then use his 1st Skill to activate the rift. Follow up with his 2nd Skill into his 1st Skill to activate another rift explosion.
+
+### When strongest
+
+Stronger early: 54.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **54.8**10–12
+2.  **51.0**12–14
+3.  **48.5**14–16
+4.  **47.7**16–18
+5.  **47.2**18–20
+6.  **48.7**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/nolan-3.webp)Fracture
+2.  ![](/images/mlbb/skills/nolan-1.webp)Expansion
+3.  ![](/images/mlbb/skills/nolan-2.webp)Gauge
+
+## Skills
 
 ![](/images/mlbb/skills/nolan-0.webp)Passive**Dimensional Rift**![](/images/mlbb/skills/nolan-1.webp)Skill 1**Expansion**![](/images/mlbb/skills/nolan-2.webp)Skill 2**Gauge**![](/images/mlbb/skills/nolan-3.webp)Ultimate**Fracture**
 
@@ -285,17 +326,13 @@ Cooldown **21 s**
 
 Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical Attack) Physical Damage with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward.
 
-## Counters
+## Nolan counters
 
-### Counters
-
-Beat this hero
+### Who counters Nolan
 
 [![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
-### Easy targets
-
-This hero beats them
+### Who Nolan counters
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -314,6 +351,10 @@ This hero beats them
 Who counters Nolan in MLBB?
 
 Over the last 30 days the toughest opponents are Estes, Yve, Zhuxin, X.Borg and Baxia.
+
+How do you play Nolan?
+
+Level "Expansion" first and take the ultimate whenever it is available. Stronger early: 54.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, approach the enemy using Nolan's 2nd Skill and enhanced Basic Attack, then activate the rift with his 1st Skill. Use Nolan's 2nd Skill to dash through the enemy, and unleash his Ultimate to activate all the rifts while dashing back to safety.
 
 What is Nolan’s win rate right now?
 

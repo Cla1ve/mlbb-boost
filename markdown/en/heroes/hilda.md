@@ -1,6 +1,6 @@
 ---
-title: "Hilda MLBB: build, counters and skills | MLBB Boost"
-description: "Hilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 48.67% win rate, tier C."
+title: "Hilda MLBB: build, combos and counters | MLBB Boost"
+description: "Hilda in Mobile Legends: ranked build, skill combos, how to play and who counters Hilda. Tank and fighter, 48.67% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hilda.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 4.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,48 @@ Support
     Concussive Blast
 
 
-## Skills
+## How to play Hilda
 
-Level-up**Power of Wildness**_›_**Art of Hunting**_›_**Combat Ritual**
+### Hilda combos
+
+#### Teamfight
+
+1.  ![Power of Wildness](/images/mlbb/skills/hilda-3.webp)Ult
+2.  ![Art of Hunting](/images/mlbb/skills/hilda-2.webp)2
+3.  ![Combat Ritual](/images/mlbb/skills/hilda-1.webp)1
+4.  Attack
+
+In teamfights, Hilda should use her Ultimate to dive the back-row heroes, then use her 2nd Skill to deal damage and chase the enemy down with her 1st Skill.
+
+#### Laning
+
+1.  ![Combat Ritual](/images/mlbb/skills/hilda-1.webp)1
+2.  Attack
+3.  ![Art of Hunting](/images/mlbb/skills/hilda-2.webp)2
+4.  ![Power of Wildness](/images/mlbb/skills/hilda-3.webp)Ult
+
+In the laning phase, Hilda can use her 1st Skill to close in on a target enemy, and slow them with her Enhanced Basic Attack. She can then follow up with her 2nd Skill to chip away at her target and finish with her Ultimate.
+
+### When strongest
+
+Stronger late: 51.5% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **45.2**10–12
+2.  **49.1**12–14
+3.  **51.6**14–16
+4.  **51.5**16–18
+5.  **51.3**18–20
+6.  **51.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/hilda-3.webp)Power of Wildness
+2.  ![](/images/mlbb/skills/hilda-2.webp)Art of Hunting
+3.  ![](/images/mlbb/skills/hilda-1.webp)Combat Ritual
+
+## Skills
 
 ![](/images/mlbb/skills/hilda-0.webp)Passive**Blessing of Wilderness**![](/images/mlbb/skills/hilda-1.webp)Skill 1**Combat Ritual**![](/images/mlbb/skills/hilda-2.webp)Skill 2**Art of Hunting**![](/images/mlbb/skills/hilda-3.webp)Ultimate**Power of Wildness**
 
@@ -288,17 +327,13 @@ Hilda launches a powerful slash at the target enemy, dealing 600 (+250% Extra Ph
 
 Each stack of Wilderness Mark increases Power of Wildness's damage by 2.5% of the target's . At max stacks, the extra damage increases to 20% of the target's .
 
-## Counters
+## Hilda counters
 
-### Counters
-
-Beat this hero
+### Who counters Hilda
 
 [![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
 
-### Easy targets
-
-This hero beats them
+### Who Hilda counters
 
 [![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)
 
@@ -317,6 +352,10 @@ This hero beats them
 Who counters Hilda in MLBB?
 
 Over the last 30 days the toughest opponents are Granger, Yin, Helcurt, Harley and Saber.
+
+How do you play Hilda?
+
+Level "Art of Hunting" first and take the ultimate whenever it is available. Stronger late: 51.5% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Hilda should use her Ultimate to dive the back-row heroes, then use her 2nd Skill to deal damage and chase the enemy down with her 1st Skill.
 
 What is Hilda’s win rate right now?
 

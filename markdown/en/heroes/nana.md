@@ -1,6 +1,6 @@
 ---
-title: "Nana MLBB: build, counters and skills | MLBB Boost"
-description: "Nana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 45.14% win rate, tier C."
+title: "Nana MLBB: build, combos and counters | MLBB Boost"
+description: "Nana in Mobile Legends: ranked build, skill combos, how to play and who counters Nana. Mage, 45.14% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/nana.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -186,9 +186,45 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Nana
 
-Level-up**Molina Blitz**_›_**Magic Boomerang**_›_**Molina Smooch**
+### Nana combos
+
+#### Teamfight
+
+1.  ![Molina Smooch](/images/mlbb/skills/nana-2.webp)2
+2.  ![Molina Blitz](/images/mlbb/skills/nana-3.webp)Ult
+3.  ![Magic Boomerang](/images/mlbb/skills/nana-1.webp)1
+
+In teamfights, Nana can use her 2nd Skill to slow the enemy first so she can hit and stun them with her Ultimate. She can then use her 1st Skill to finish off the low HP enemy.
+
+#### Laning
+
+1.  ![Molina Smooch](/images/mlbb/skills/nana-2.webp)2
+2.  ![Magic Boomerang](/images/mlbb/skills/nana-1.webp)1
+
+In the laning phase, Nana can use her 2nd Skill to harass enemy heroes and her 1st Skill to damage both enemy Minions and heroes, allowing her to poke enemies while farming.
+
+### When strongest
+
+Even through the game, from 46.6% to 48.3%. Pick fights by your items rather than the clock.
+
+1.  **46.6**10–12
+2.  **47.3**12–14
+3.  **47.1**14–16
+4.  **47.2**16–18
+5.  **47.4**18–20
+6.  **48.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/nana-3.webp)Molina Blitz
+2.  ![](/images/mlbb/skills/nana-1.webp)Magic Boomerang
+3.  ![](/images/mlbb/skills/nana-2.webp)Molina Smooch
+
+## Skills
 
 ![](/images/mlbb/skills/nana-0.webp)Passive**Molina's Gift**![](/images/mlbb/skills/nana-1.webp)Skill 1**Magic Boomerang**![](/images/mlbb/skills/nana-2.webp)Skill 2**Molina Smooch**![](/images/mlbb/skills/nana-3.webp)Ultimate**Molina Blitz**
 
@@ -232,17 +268,13 @@ Nana summons Molina to strike the target area 3 times, each dealing 440 (+140% T
 
 Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
 
-## Counters
+## Nana counters
 
-### Counters
-
-Beat this hero
+### Who counters Nana
 
 [![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
-### Easy targets
-
-This hero beats them
+### Who Nana counters
 
 [![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
@@ -261,6 +293,10 @@ This hero beats them
 Who counters Nana in MLBB?
 
 Over the last 30 days the toughest opponents are Odette, Lolita, Saber, Dyrroth and Melissa.
+
+How do you play Nana?
+
+Level "Magic Boomerang" first and take the ultimate whenever it is available. Even through the game, from 46.6% to 48.3%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, Nana can use her 2nd Skill to slow the enemy first so she can hit and stun them with her Ultimate. She can then use her 1st Skill to finish off the low HP enemy.
 
 What is Nana’s win rate right now?
 

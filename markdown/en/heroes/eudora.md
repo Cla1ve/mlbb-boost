@@ -1,6 +1,6 @@
 ---
-title: "Eudora MLBB: build, counters and skills | MLBB Boost"
-description: "Eudora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 50.20% win rate, tier A."
+title: "Eudora MLBB: build, combos and counters | MLBB Boost"
+description: "Eudora in Mobile Legends: ranked build, skill combos, how to play and who counters Eudora. Mage, 50.20% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/eudora.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 33.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Eudora
 
-Level-up**Thunder’s Wrath**_›_**Forked Lightning**_›_**Ball Lightning**
+### Eudora combos
+
+#### Teamfight
+
+1.  ![Forked Lightning](/images/mlbb/skills/eudora-1.webp)1
+2.  ![Ball Lightning](/images/mlbb/skills/eudora-2.webp)2
+3.  ![Thunder’s Wrath](/images/mlbb/skills/eudora-3.webp)Ult
+4.  ![Forked Lightning](/images/mlbb/skills/eudora-1.webp)1
+
+In teamfights, use Eudora's 1st Skill to apply Superconductor to enemy heroes, then cast 2nd Skill on the right target for an AOE stun, and follow up with her Ultimate for a massive burst to the stunned heroes. Finally, use her 1st Skill again to finish off the enemy.
+
+#### Laning
+
+1.  ![Ball Lightning](/images/mlbb/skills/eudora-2.webp)2
+2.  ![Thunder’s Wrath](/images/mlbb/skills/eudora-3.webp)Ult
+3.  ![Forked Lightning](/images/mlbb/skills/eudora-1.webp)1
+
+During the laning phase, start with Eudora's 2nd Skill to stun the enemy hero and apply Superconductor, then follow with her Ultimate, and center it over the enemy for massive damage. Finish with her 1st Skill to link with the enemy and finish them off.
+
+### When strongest
+
+Stronger early: 50.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **50.7**10–12
+2.  **50.7**12–14
+3.  **50.6**14–16
+4.  **49.9**16–18
+5.  **49.2**18–20
+6.  **49.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/eudora-3.webp)Thunder’s Wrath
+2.  ![](/images/mlbb/skills/eudora-1.webp)Forked Lightning
+3.  ![](/images/mlbb/skills/eudora-2.webp)Ball Lightning
+
+## Skills
 
 ![](/images/mlbb/skills/eudora-0.webp)Passive**Superconductor**![](/images/mlbb/skills/eudora-1.webp)Skill 1**Forked Lightning**![](/images/mlbb/skills/eudora-2.webp)Skill 2**Ball Lightning**![](/images/mlbb/skills/eudora-3.webp)Ultimate**Thunder’s Wrath**
 
@@ -291,17 +329,13 @@ Eudora calls down lightning on the target area, dealing 540 (+145% Total Magic P
 
 When Thunder's Wrath hits a target affected by Superconductor, it triggers a Thunderburst at the target's location after a short delay, dealing 300 (+100% Total Magic Power) Magic Damage to them.
 
-## Counters
+## Eudora counters
 
-### Counters
-
-Beat this hero
+### Who counters Eudora
 
 [![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
 
-### Easy targets
-
-This hero beats them
+### Who Eudora counters
 
 [![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
@@ -320,6 +354,10 @@ This hero beats them
 Who counters Eudora in MLBB?
 
 Over the last 30 days the toughest opponents are Floryn, Helcurt, Irithel, Natalia and Zilong.
+
+How do you play Eudora?
+
+Level "Forked Lightning" first and take the ultimate whenever it is available. Stronger early: 50.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Eudora's 1st Skill to apply Superconductor to enemy heroes, then cast 2nd Skill on the right target for an AOE stun, and follow up with her Ultimate for a massive burst to the stunned heroes. Finally, use her 1st Skill again to finish off the enemy.
 
 What is Eudora’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Balmond MLBB: build, counters and skills | MLBB Boost"
-description: "Balmond in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 45.10% win rate, tier C."
+title: "Balmond MLBB: build, combos and counters | MLBB Boost"
+description: "Balmond in Mobile Legends: ranked build, skill combos, how to play and who counters Balmond. Fighter, 45.10% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/balmond.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Balmond
 
-Level-up**Lethal Counter**_›_**Cyclone Sweep**_›_**Soul Lock**
+### Balmond combos
+
+#### Teamfight
+
+1.  ![Soul Lock](/images/mlbb/skills/balmond-1.webp)1
+2.  ![Cyclone Sweep](/images/mlbb/skills/balmond-2.webp)2
+3.  ![Lethal Counter](/images/mlbb/skills/balmond-3.webp)Ult
+
+Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies.
+
+#### Laning
+
+1.  ![Soul Lock](/images/mlbb/skills/balmond-1.webp)1
+2.  ![Cyclone Sweep](/images/mlbb/skills/balmond-2.webp)2
+3.  Attack
+4.  ![Lethal Counter](/images/mlbb/skills/balmond-3.webp)Ult
+
+Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies.
+
+### When strongest
+
+Stronger late: 48.2% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **43.0**10–12
+2.  **44.6**12–14
+3.  **46.0**14–16
+4.  **46.4**16–18
+5.  **47.2**18–20
+6.  **48.2**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/balmond-3.webp)Lethal Counter
+2.  ![](/images/mlbb/skills/balmond-2.webp)Cyclone Sweep
+3.  ![](/images/mlbb/skills/balmond-1.webp)Soul Lock
+
+## Skills
 
 ![](/images/mlbb/skills/balmond-0.webp)Passive**Bloodthirst**![](/images/mlbb/skills/balmond-1.webp)Skill 1**Soul Lock**![](/images/mlbb/skills/balmond-2.webp)Skill 2**Cyclone Sweep**![](/images/mlbb/skills/balmond-3.webp)Ultimate**Lethal Counter**
 
@@ -289,17 +327,13 @@ Balmond unleashes a powerful strike in a target direction, dealing 150 (+70% Tot
 
 Damage dealt to non-hero units is capped at 1000 True Damage.
 
-## Counters
+## Balmond counters
 
-### Counters
-
-Beat this hero
+### Who counters Balmond
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
-### Easy targets
-
-This hero beats them
+### Who Balmond counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)
 
@@ -318,6 +352,10 @@ This hero beats them
 Who counters Balmond in MLBB?
 
 Over the last 30 days the toughest opponents are Saber, Lukas, Barats, Chip and Martis.
+
+How do you play Balmond?
+
+Level "Cyclone Sweep" first and take the ultimate whenever it is available. Stronger late: 48.2% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies.
 
 What is Balmond’s win rate right now?
 

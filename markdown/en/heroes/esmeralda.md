@@ -1,6 +1,6 @@
 ---
-title: "Esmeralda MLBB: build, counters and skills | MLBB Boost"
-description: "Esmeralda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and mage, 46.49% win rate, tier A."
+title: "Esmeralda MLBB: build, combos and counters | MLBB Boost"
+description: "Esmeralda in Mobile Legends: ranked build, skill combos, how to play and who counters Esmeralda. Tank and mage, 46.49% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/esmeralda.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,50 @@ Support
     Impure Rage
 
 
-## Skills
+## How to play Esmeralda
 
-Level-up**Falling Starmoon**_›_**Stardust Dance**_›_**Frostmoon Shield**
+### Esmeralda combos
+
+#### Teamfight
+
+1.  ![Falling Starmoon](/images/mlbb/skills/esmeralda-3.webp)Ult
+2.  ![Frostmoon Shield](/images/mlbb/skills/esmeralda-1.webp)1
+3.  ![Stardust Dance](/images/mlbb/skills/esmeralda-2.webp)2
+4.  Attack
+
+In teamfights, enter the fight using Esmeralda's Ultimate, then use her 1st Skill to gain Movement Speed and steal the shields of nearby enemies, before finishing them off with her 2nd Skill and Basic Attacks.
+
+#### Laning
+
+1.  ![Frostmoon Shield](/images/mlbb/skills/esmeralda-1.webp)1
+2.  ![Stardust Dance](/images/mlbb/skills/esmeralda-2.webp)2
+3.  Attack
+4.  ![Frostmoon Shield](/images/mlbb/skills/esmeralda-1.webp)1
+5.  ![Stardust Dance](/images/mlbb/skills/esmeralda-2.webp)2
+6.  Attack
+
+In the laning phase, use Esmeralda's 1st Skill to approach the enemy and hit them with her 2nd Skill followed by Basic Attacks. Her 1st Skill should be up again soon thanks to the CD reduction from her 2nd Skill, so use her 1st Skill again for Movement Speed and shields, and continue using her 2nd Skill and Basic Attacks.
+
+### When strongest
+
+Stronger early: 49.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **49.8**10–12
+2.  **48.4**12–14
+3.  **47.7**14–16
+4.  **46.9**16–18
+5.  **46.4**18–20
+6.  **47.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/esmeralda-3.webp)Falling Starmoon
+2.  ![](/images/mlbb/skills/esmeralda-2.webp)Stardust Dance
+3.  ![](/images/mlbb/skills/esmeralda-1.webp)Frostmoon Shield
+
+## Skills
 
 ![](/images/mlbb/skills/esmeralda-0.webp)Passive**Starmoon Casket**![](/images/mlbb/skills/esmeralda-1.webp)Skill 1**Frostmoon Shield**![](/images/mlbb/skills/esmeralda-2.webp)Skill 2**Stardust Dance**![](/images/mlbb/skills/esmeralda-3.webp)Ultimate**Falling Starmoon**
 
@@ -287,17 +328,13 @@ Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Fr
 
 **Use Again:** Esmeralda casts Stardust at the target location, dealing 350 (+90% Total Physical Attack) Physical Damage, and then blinks to the target location and casts Frostmoon, dealing 350 (+140% Total Magic Power) Magic Damage and immobilizing enemies in the area for 1s.
 
-## Counters
+## Esmeralda counters
 
-### Counters
-
-Beat this hero
+### Who counters Esmeralda
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
 
-### Easy targets
-
-This hero beats them
+### Who Esmeralda counters
 
 [![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)[![](/images/heroes/art/julian.webp)Julian](https://boostmlbb.ru/en/heroes/julian.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/lunox.webp)Lunox](https://boostmlbb.ru/en/heroes/lunox.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)
 
@@ -316,6 +353,10 @@ This hero beats them
 Who counters Esmeralda in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Mathilda, Marcel, Jawhead and Aldous.
+
+How do you play Esmeralda?
+
+Level "Stardust Dance" first and take the ultimate whenever it is available. Stronger early: 49.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, enter the fight using Esmeralda's Ultimate, then use her 1st Skill to gain Movement Speed and steal the shields of nearby enemies, before finishing them off with her 2nd Skill and Basic Attacks.
 
 What is Esmeralda’s win rate right now?
 

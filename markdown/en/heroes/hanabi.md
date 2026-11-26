@@ -1,6 +1,6 @@
 ---
-title: "Hanabi MLBB: build, counters and skills | MLBB Boost"
-description: "Hanabi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.40% win rate, tier B."
+title: "Hanabi MLBB: build, combos and counters | MLBB Boost"
+description: "Hanabi in Mobile Legends: ranked build, skill combos, how to play and who counters Hanabi. Marksman, 51.40% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/hanabi.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,49 @@ Fighter
     Quantum Charge
 
 
-## Skills
+## How to play Hanabi
 
-Level-up**Forbidden Jutsu: Higanbana**_›_**Ninjutsu: Soul Scroll**_›_**Ninjutsu: Equinox**
+### Hanabi combos
+
+#### Teamfight
+
+1.  ![Ninjutsu: Soul Scroll](/images/mlbb/skills/hanabi-2.webp)2
+2.  ![Forbidden Jutsu: Higanbana](/images/mlbb/skills/hanabi-3.webp)Ult
+3.  Attack
+4.  ![Ninjutsu: Equinox](/images/mlbb/skills/hanabi-1.webp)1
+5.  Attack
+
+In teamfights, start with Hanabi's 2nd Skill to slow the enemies, then follow up with her Ultimate to immobilize them and let loose with Basic Attacks. During this time, use her 1st Skill accordingly for more damage and survivability, and keep up the damage with her bouncing Basic Attacks.
+
+#### Laning
+
+1.  ![Ninjutsu: Soul Scroll](/images/mlbb/skills/hanabi-2.webp)2
+2.  Attack
+3.  ![Ninjutsu: Equinox](/images/mlbb/skills/hanabi-1.webp)1
+4.  Attack
+
+In the laning phase, use Hanabi's 2nd Skill to poke the enemy and mark them, and continue to chip away their HP with Basic Attack bounces before using her 1st Skill and engaging them head-on.
+
+### When strongest
+
+Stronger early: 58.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **58.3**10–12
+2.  **55.1**12–14
+3.  **54.0**14–16
+4.  **52.2**16–18
+5.  **50.6**18–20
+6.  **48.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/hanabi-3.webp)Forbidden Jutsu: Higanbana
+2.  ![](/images/mlbb/skills/hanabi-2.webp)Ninjutsu: Soul Scroll
+3.  ![](/images/mlbb/skills/hanabi-1.webp)Ninjutsu: Equinox
+
+## Skills
 
 ![](/images/mlbb/skills/hanabi-0.webp)Passive**Ninjutsu: Petal Barrage**![](/images/mlbb/skills/hanabi-1.webp)Skill 1**Ninjutsu: Equinox**![](/images/mlbb/skills/hanabi-2.webp)Skill 2**Ninjutsu: Soul Scroll**![](/images/mlbb/skills/hanabi-3.webp)Ultimate**Forbidden Jutsu: Higanbana**
 
@@ -286,17 +326,13 @@ Cooldown **40 Mana Cost: 120 s**
 
 Hanabi throws Higanbana in the targeted direction, dealing 300 (+50% Total Physical Attack) Physical Damage to the first enemy hero hit and immobilizing them for 0.8s. After 1s, Higanbana will bloom at the location of the first hit, dealing 300 (+50% Total Physical Attack) Physical Damage to nearby enemies. Subsequent hits on the same target decay to 30% damage.
 
-## Counters
+## Hanabi counters
 
-### Counters
-
-Beat this hero
+### Who counters Hanabi
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
 
-### Easy targets
-
-This hero beats them
+### Who Hanabi counters
 
 [![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
@@ -315,6 +351,10 @@ This hero beats them
 Who counters Hanabi in MLBB?
 
 Over the last 30 days the toughest opponents are Saber, Popol and Kupa, Moskov, Balmond and Akai.
+
+How do you play Hanabi?
+
+Level "Ninjutsu: Soul Scroll" first and take the ultimate whenever it is available. Stronger early: 58.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, start with Hanabi's 2nd Skill to slow the enemies, then follow up with her Ultimate to immobilize them and let loose with Basic Attacks. During this time, use her 1st Skill accordingly for more damage and survivability, and keep up the damage with her bouncing Basic Attacks.
 
 What is Hanabi’s win rate right now?
 

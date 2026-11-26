@@ -1,6 +1,6 @@
 ---
-title: "Хелкарт MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Хелкарт в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 46,75% побед, тир C."
+title: "Хелкарт MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Хелкарт, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Хелкарта. Убийца, 46,75% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/helcurt.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 2,3%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -248,9 +248,47 @@ C
     Смертельное воспламенение
 
 
-## Навыки
+## Как играть за Хелкарта
 
-Прокачка**Да наступит ночь!**_›_**Смертоносный клинок**_›_**Скрытый ужас**
+### Комбо Хелкарта
+
+#### В драке
+
+1.  ![Да наступит ночь!](/images/mlbb/skills/helcurt-3.webp)Ульт
+2.  ![Скрытый ужас](/images/mlbb/skills/helcurt-1.webp)1
+3.  Атака
+4.  ![Смертоносный клинок](/images/mlbb/skills/helcurt-2.webp)2
+
+В драке ультом отберите у врагов обзор, первым прыгните в тыл и бейте атаками, закончите вторым.
+
+#### На линии
+
+1.  ![Скрытый ужас](/images/mlbb/skills/helcurt-1.webp)1
+2.  Атака
+3.  ![Смертоносный клинок](/images/mlbb/skills/helcurt-2.webp)2
+
+На линии прыгните первым, накопите жала атаками и закончите вторым.
+
+### Когда сильнее всего
+
+Сильнее в долгой игре: на 18–20 минутах выигрывает 50,8%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.
+
+1.  **45,4**10–12
+2.  **47,8**12–14
+3.  **49,0**14–16
+4.  **50,7**16–18
+5.  **50,8**18–20
+6.  **50,8**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/helcurt-3.webp)Да наступит ночь!
+2.  ![](/images/mlbb/skills/helcurt-2.webp)Смертоносный клинок
+3.  ![](/images/mlbb/skills/helcurt-1.webp)Скрытый ужас
+
+## Навыки
 
 ![](/images/mlbb/skills/helcurt-0.webp)Пассивный**Тень Стикса**![](/images/mlbb/skills/helcurt-1.webp)1-й навык**Скрытый ужас**![](/images/mlbb/skills/helcurt-2.webp)2-й навык**Смертоносный клинок**![](/images/mlbb/skills/helcurt-3.webp)Ультимейт**Да наступит ночь!**
 
@@ -296,17 +334,13 @@ C
 
 "Темная ночь" позволяет Хелкарту легко покинуть зону видимости врагов.
 
-## Контрпики
+## Контрпики Хелкарта
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Хелкарта
 
 [![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/valir.webp)Валир](https://boostmlbb.ru/heroes/valir.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/gord.webp)Горд](https://boostmlbb.ru/heroes/gord.html)[![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Хелкарт
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Калеа](https://boostmlbb.ru/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Аргус](https://boostmlbb.ru/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Алдос](https://boostmlbb.ru/heroes/aldous.html)
 
@@ -322,22 +356,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Хелкарт» в MLBB?
+Кто контрит Хелкарта в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Икс.Борг, Валир, Ксавьер, Горд и Дигги.
+За последние 30 дней Хелкарта чаще всего обыгрывают Икс.Борг, Валир, Ксавьер, Горд и Дигги.
 
-Какой процент побед у героя «Хелкарт» сейчас?
+Как играть за Хелкарта?
+
+В первую очередь качайте «Смертоносный клинок», ульт берите, как только доступен. Сильнее в долгой игре: на 18–20 минутах выигрывает 50,8%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой. Комбо для драки: В драке ультом отберите у врагов обзор, первым прыгните в тыл и бейте атаками, закончите вторым.
+
+Какой процент побед у Хелкарта сейчас?
 
 46,75% в Мифической славе за последние 7 дней и 47,70% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Хелкарт»?
+Какая роль и линия у Хелкарта?
 
 Убийца, играет в лесу или в роуме.
 
-Силён ли герой «Хелкарт» в текущей мете?
+Стоит ли брать Хелкарта в текущей мете?
 
 Тир C, 98-е место из 133 героев и 22-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 2,3% матчей, 46,8% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Хелкарт» лучшая?
+Какая сборка на Хелкарта лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Удар охотника» и «Меч охотника на демонов», эмблема убийцы с талантами «Разрыв», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 51,89% матчей.

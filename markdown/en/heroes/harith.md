@@ -1,6 +1,6 @@
 ---
-title: "Harith MLBB: build, counters and skills | MLBB Boost"
-description: "Harith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.65% win rate, tier C."
+title: "Harith MLBB: build, combos and counters | MLBB Boost"
+description: "Harith in Mobile Legends: ranked build, skill combos, how to play and who counters Harith. Mage, 48.65% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/harith.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,48 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Harith
 
-Level-up**Zaman Force**_›_**Synchro Fission**_›_**Chrono Dash**
+### Harith combos
+
+#### Teamfight
+
+1.  ![Chrono Dash](/images/mlbb/skills/harith-2.webp)2
+2.  ![Zaman Force](/images/mlbb/skills/harith-3.webp)Ult
+3.  ![Synchro Fission](/images/mlbb/skills/harith-1.webp)1
+4.  ![Chrono Dash](/images/mlbb/skills/harith-2.webp)2
+5.  Attack
+
+In teamfights, first use Harith's 2nd Skill to get close to the enemy, then follow up with the Ultimate, and start spamming his 1st and 2nd Skill. Dashing through the Ultimate not only reduces his skill cooldowns, but also allows Harith to get multiple enhanced Basic Attacks from his 2nd Skill.
+
+#### Laning
+
+1.  ![Chrono Dash](/images/mlbb/skills/harith-2.webp)2
+2.  Attack
+3.  ![Synchro Fission](/images/mlbb/skills/harith-1.webp)1
+
+In the laning phase, approach the enemy with Harith's 2nd Skill, hit them with an enhanced Basic Attack, then use his 1st Skill to chip away their HP.
+
+### When strongest
+
+Stronger early: 49.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **49.2**10–12
+2.  **47.8**12–14
+3.  **46.2**14–16
+4.  **46.2**16–18
+5.  **46.4**18–20
+6.  **47.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/harith-3.webp)Zaman Force
+2.  ![](/images/mlbb/skills/harith-1.webp)Synchro Fission
+3.  ![](/images/mlbb/skills/harith-2.webp)Chrono Dash
+
+## Skills
 
 ![](/images/mlbb/skills/harith-0.webp)Passive**Key Insight**![](/images/mlbb/skills/harith-1.webp)Skill 1**Synchro Fission**![](/images/mlbb/skills/harith-2.webp)Skill 2**Chrono Dash**![](/images/mlbb/skills/harith-3.webp)Ultimate**Zaman Force**
 
@@ -290,17 +329,13 @@ Harith uses his Key to summon the Zaman Force, creating a multidimensional rift.
 
 When Harith comes into contact with the rift using Chrono Dash, he absorbs its energy, reducing the cooldown of Synchro Fission by 1s and Chrono Dash by 3s. Harith gains 15% Resilience while on the rift.
 
-## Counters
+## Harith counters
 
-### Counters
-
-Beat this hero
+### Who counters Harith
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)
 
-### Easy targets
-
-This hero beats them
+### Who Harith counters
 
 [![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
@@ -319,6 +354,10 @@ This hero beats them
 Who counters Harith in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Karina, Johnson, Lapu-Lapu and Suyou.
+
+How do you play Harith?
+
+Level "Synchro Fission" first and take the ultimate whenever it is available. Stronger early: 49.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, first use Harith's 2nd Skill to get close to the enemy, then follow up with the Ultimate, and start spamming his 1st and 2nd Skill. Dashing through the Ultimate not only reduces his skill cooldowns, but also allows Harith to get multiple enhanced Basic Attacks from his 2nd Skill.
 
 What is Harith’s win rate right now?
 

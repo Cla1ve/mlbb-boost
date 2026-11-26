@@ -1,6 +1,6 @@
 ---
-title: "Johnson MLBB: build, counters and skills | MLBB Boost"
-description: "Johnson in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 47.96% win rate, tier C."
+title: "Johnson MLBB: build, combos and counters | MLBB Boost"
+description: "Johnson in Mobile Legends: ranked build, skill combos, how to play and who counters Johnson. Tank and support, 47.96% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/johnson.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Johnson
 
-Level-up**Full Throttle**_›_**Electromagnetic Waves**_›_**Impact Wrench**
+### Johnson combos
+
+#### Teamfight
+
+1.  ![Full Throttle](/images/mlbb/skills/johnson-3.webp)Ult
+2.  ![Electromagnetic Waves](/images/mlbb/skills/johnson-2.webp)2
+3.  ![Impact Wrench](/images/mlbb/skills/johnson-1.webp)1
+
+In teamfights, cast Johnson's Ultimate and pick up a teammate before engaging the enemy. Then follow up with his 2nd Skill and 1st Skill to CC the enemy again.
+
+#### Laning
+
+1.  ![Impact Wrench](/images/mlbb/skills/johnson-1.webp)1
+2.  ![Electromagnetic Waves](/images/mlbb/skills/johnson-2.webp)2
+3.  Attack
+
+In the laning phase, use Johnson's 1st Skill to stun enemies, then move in and hit them with his 2nd Skill and Basic Attacks.
+
+### When strongest
+
+Stronger late: 51.7% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **45.8**10–12
+2.  **49.0**12–14
+3.  **51.4**14–16
+4.  **51.7**16–18
+5.  **51.4**18–20
+6.  **50.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/johnson-3.webp)Full Throttle
+2.  ![](/images/mlbb/skills/johnson-2.webp)Electromagnetic Waves
+3.  ![](/images/mlbb/skills/johnson-1.webp)Impact Wrench
+
+## Skills
 
 ![](/images/mlbb/skills/johnson-0.webp)Passive**Electro Airbag**![](/images/mlbb/skills/johnson-1.webp)Skill 1**Impact Wrench**![](/images/mlbb/skills/johnson-2.webp)Skill 2**Electromagnetic Waves**![](/images/mlbb/skills/johnson-3.webp)Ultimate**Full Throttle**
 
@@ -289,17 +326,13 @@ Cooldown **36 s**
 
 Johnson's location is revealed to enemies for 3s when he casts this skill.
 
-## Counters
+## Johnson counters
 
-### Counters
-
-Beat this hero
+### Who counters Johnson
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
-### Easy targets
-
-This hero beats them
+### Who Johnson counters
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)
 
@@ -318,6 +351,10 @@ This hero beats them
 Who counters Johnson in MLBB?
 
 Over the last 30 days the toughest opponents are Layla, Zilong, Saber, Dyrroth and Valentina.
+
+How do you play Johnson?
+
+Level "Electromagnetic Waves" first and take the ultimate whenever it is available. Stronger late: 51.7% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, cast Johnson's Ultimate and pick up a teammate before engaging the enemy. Then follow up with his 2nd Skill and 1st Skill to CC the enemy again.
 
 What is Johnson’s win rate right now?
 

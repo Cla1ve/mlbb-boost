@@ -1,6 +1,6 @@
 ---
-title: "Miya MLBB: build, counters and skills | MLBB Boost"
-description: "Miya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 50.08% win rate, tier B."
+title: "Miya MLBB: build, combos and counters | MLBB Boost"
+description: "Miya in Mobile Legends: ranked build, skill combos, how to play and who counters Miya. Marksman, 50.08% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/miya.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,47 @@ Marksman
     Weakness Finder
 
 
-## Skills
+## How to play Miya
 
-Level-up**Hidden Moonlight**_›_**Moon Arrow**_›_**Arrow of Eclipse**
+### Miya combos
+
+#### Teamfight
+
+1.  ![Hidden Moonlight](/images/mlbb/skills/miya-3.webp)Ult
+2.  ![Arrow of Eclipse](/images/mlbb/skills/miya-2.webp)2
+3.  ![Moon Arrow](/images/mlbb/skills/miya-1.webp)1
+4.  Attack
+
+In teamfights, use Miya's Ultimate first to conceal herself, then find an ideal position to attack the enemy and quickly stack her Passive. Utilize her 2nd Skill to immobilize the enemy and activate her 1st Skill to enhance her Basic Attacks to hit multiple targets at once.
+
+#### Laning
+
+1.  ![Arrow of Eclipse](/images/mlbb/skills/miya-2.webp)2
+2.  ![Moon Arrow](/images/mlbb/skills/miya-1.webp)1
+3.  Attack
+
+When laning, immobilize the opponent with Miya's 2nd Skill and use her 1st Skill to poke them and clear Minions at the same time.
+
+### When strongest
+
+Stronger late: 53.3% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **46.2**10–12
+2.  **48.2**12–14
+3.  **50.6**14–16
+4.  **52.2**16–18
+5.  **53.3**18–20
+6.  **53.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/miya-3.webp)Hidden Moonlight
+2.  ![](/images/mlbb/skills/miya-1.webp)Moon Arrow
+3.  ![](/images/mlbb/skills/miya-2.webp)Arrow of Eclipse
+
+## Skills
 
 ![](/images/mlbb/skills/miya-0.webp)Passive**Moon Blessing**![](/images/mlbb/skills/miya-1.webp)Skill 1**Moon Arrow**![](/images/mlbb/skills/miya-2.webp)Skill 2**Arrow of Eclipse**![](/images/mlbb/skills/miya-3.webp)Ultimate**Hidden Moonlight**
 
@@ -290,17 +328,13 @@ Miya removes all debuffs and enters the Conceal state, gaining 65% Movement Spee
 
 Upon exiting the Conceal state, Miya gains maximum stacks of Moon Blessing.
 
-## Counters
+## Miya counters
 
-### Counters
-
-Beat this hero
+### Who counters Miya
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
 
-### Easy targets
-
-This hero beats them
+### Who Miya counters
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)
 
@@ -319,6 +353,10 @@ This hero beats them
 Who counters Miya in MLBB?
 
 Over the last 30 days the toughest opponents are Saber, Obsidia, Moskov, Irithel and Harith.
+
+How do you play Miya?
+
+Level "Moon Arrow" first and take the ultimate whenever it is available. Stronger late: 53.3% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Miya's Ultimate first to conceal herself, then find an ideal position to attack the enemy and quickly stack her Passive. Utilize her 2nd Skill to immobilize the enemy and activate her 1st Skill to enhance her Basic Attacks to hit multiple targets at once.
 
 What is Miya’s win rate right now?
 

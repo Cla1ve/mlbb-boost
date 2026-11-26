@@ -1,6 +1,6 @@
 ---
-title: "Ling MLBB: build, counters and skills | MLBB Boost"
-description: "Ling in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 51.77% win rate, tier B."
+title: "Ling MLBB: build, combos and counters | MLBB Boost"
+description: "Ling in Mobile Legends: ranked build, skill combos, how to play and who counters Ling. Assassin, 51.77% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/ling.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Assassin
     Killing Spree
 
 
-## Skills
+## How to play Ling
 
-Level-up**Tempest of Blades**_›_**Defiant Sword**_›_**Finch Poise**
+### Ling combos
+
+#### Teamfight
+
+1.  ![Finch Poise](/images/mlbb/skills/ling-1.webp)1
+2.  ![Defiant Sword](/images/mlbb/skills/ling-2.webp)2
+3.  Attack
+4.  ![Tempest of Blades](/images/mlbb/skills/ling-3.webp)Ult
+5.  ![Defiant Sword](/images/mlbb/skills/ling-2.webp)2
+
+In teamfights, Ling should move onto the wall with his 1st Skill, then use his 2nd Skill to land on enemy back-row heroes. Once landed, Ling should attack the target heroes with his Basic Attacks, and then cast his Ultimate to avoid incoming damage. He should then follow his targets when in the air to deal damage and knock them airborne. He can then dash with his 2nd Skill between the Tempest Blades to reset its cooldown and restore Lightness Points.
+
+#### Laning
+
+1.  ![Finch Poise](/images/mlbb/skills/ling-1.webp)1
+2.  ![Defiant Sword](/images/mlbb/skills/ling-2.webp)2
+3.  Attack
+4.  ![Defiant Sword](/images/mlbb/skills/ling-2.webp)2
+
+In the laning phase, Ling should use his 1st Skill to leap onto the wall, and strike down with his 2nd Skill to deal damage to the target enemy and slow them. Follow up with Ling's Basic Attacks and his 2nd Skill to chase down the enemy hero.
+
+### When strongest
+
+Stronger late: 56.4% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **44.6**10–12
+2.  **50.7**12–14
+3.  **53.1**14–16
+4.  **55.3**16–18
+5.  **56.4**18–20
+6.  **56.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/ling-3.webp)Tempest of Blades
+2.  ![](/images/mlbb/skills/ling-2.webp)Defiant Sword
+3.  ![](/images/mlbb/skills/ling-1.webp)Finch Poise
+
+## Skills
 
 ![](/images/mlbb/skills/ling-0.webp)Passive**Cloud Walker**![](/images/mlbb/skills/ling-1.webp)Skill 1**Finch Poise**![](/images/mlbb/skills/ling-2.webp)Skill 2**Defiant Sword**![](/images/mlbb/skills/ling-3.webp)Ultimate**Tempest of Blades**
 
@@ -291,17 +331,13 @@ Ling leaps into the air, becoming invincible and gaining 10% extra Movement Spee
 
 Four Tempest of Blades will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of Finch Poise by 4s, reset the cooldown of Defiant Sword, and gain 25 Lightness Points.
 
-## Counters
+## Ling counters
 
-### Counters
-
-Beat this hero
+### Who counters Ling
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/hanzo.webp)Hanzo](https://boostmlbb.ru/en/heroes/hanzo.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
-### Easy targets
-
-This hero beats them
+### Who Ling counters
 
 [![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
@@ -320,6 +356,10 @@ This hero beats them
 Who counters Ling in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, X.Borg, Hanzo, Atlas and Silvanna.
+
+How do you play Ling?
+
+Level "Defiant Sword" first and take the ultimate whenever it is available. Stronger late: 56.4% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Ling should move onto the wall with his 1st Skill, then use his 2nd Skill to land on enemy back-row heroes. Once landed, Ling should attack the target heroes with his Basic Attacks, and then cast his Ultimate to avoid incoming damage. He should then follow his targets when in the air to deal damage and knock them airborne. He can then dash with his 2nd Skill between the Tempest Blades to reset its cooldown and restore Lightness Points.
 
 What is Ling’s win rate right now?
 

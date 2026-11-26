@@ -1,6 +1,6 @@
 ---
-title: "Kimmy MLBB: build, counters and skills | MLBB Boost"
-description: "Kimmy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage and marksman, 48.09% win rate, tier A."
+title: "Kimmy MLBB: build, combos and counters | MLBB Boost"
+description: "Kimmy in Mobile Legends: ranked build, skill combos, how to play and who counters Kimmy. Mage and marksman, 48.09% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/kimmy.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,47 @@ Mage
     Weakness Finder
 
 
-## Skills
+## How to play Kimmy
 
-Level-up**Traction Pulse**_›_**Starlium Beam**_›_**Anti-Grav Thruster**
+### Kimmy combos
+
+#### Teamfight
+
+1.  ![Traction Pulse](/images/mlbb/skills/kimmy-3.webp)Ult
+2.  ![Starlium Beam](/images/mlbb/skills/kimmy-2.webp)2
+3.  Attack
+4.  ![Anti-Grav Thruster](/images/mlbb/skills/kimmy-1.webp)1
+
+In teamfights, Kimmy can initiate with her Ultimate to group up enemies, then follow up with her 2nd Skill to immobilize them, and finish with her enhanced Basic Attacks for lots of damage. If enemies try to counter by closing in on Kimmy, use her 1st Skill to retreat.
+
+#### Laning
+
+1.  ![Anti-Grav Thruster](/images/mlbb/skills/kimmy-1.webp)1
+2.  ![Starlium Beam](/images/mlbb/skills/kimmy-2.webp)2
+3.  Attack
+
+In the laning phase, Build up Starlium before engaging. Use her 1st Skill to quickly close in on the opponent, then use her 2nd Skill to immobilize them before unleashing her enhanced Basic Attacks for great damage.
+
+### When strongest
+
+Stronger early: 56.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **56.7**10–12
+2.  **48.9**12–14
+3.  **45.1**14–16
+4.  **42.9**16–18
+5.  **42.7**18–20
+6.  **45.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/kimmy-3.webp)Traction Pulse
+2.  ![](/images/mlbb/skills/kimmy-2.webp)Starlium Beam
+3.  ![](/images/mlbb/skills/kimmy-1.webp)Anti-Grav Thruster
+
+## Skills
 
 ![](/images/mlbb/skills/kimmy-0.webp)Passive**Aerial Dominance**![](/images/mlbb/skills/kimmy-1.webp)Skill 1**Anti-Grav Thruster**![](/images/mlbb/skills/kimmy-2.webp)Skill 2**Starlium Beam**![](/images/mlbb/skills/kimmy-3.webp)Ultimate**Traction Pulse**
 
@@ -294,17 +332,13 @@ Kimmy charges up and fires a Traction Pulse in the target direction. Upon hittin
 
 After 1s, the field contracts, pulling enemy heroes within it to its center and dealing 15% of their current as Magic Damage. It also slows them by 50% for 2s. Each enemy hero hit grants Kimmy 40 Starlium.
 
-## Counters
+## Kimmy counters
 
-### Counters
-
-Beat this hero
+### Who counters Kimmy
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
-### Easy targets
-
-This hero beats them
+### Who Kimmy counters
 
 [![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
 
@@ -323,6 +357,10 @@ This hero beats them
 Who counters Kimmy in MLBB?
 
 Over the last 30 days the toughest opponents are Sun, Hylos, Atlas, Uranus and Hilda.
+
+How do you play Kimmy?
+
+Level "Starlium Beam" first and take the ultimate whenever it is available. Stronger early: 56.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Kimmy can initiate with her Ultimate to group up enemies, then follow up with her 2nd Skill to immobilize them, and finish with her enhanced Basic Attacks for lots of damage. If enemies try to counter by closing in on Kimmy, use her 1st Skill to retreat.
 
 What is Kimmy’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Xavier MLBB: build, counters and skills | MLBB Boost"
-description: "Xavier in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 53.39% win rate, tier B."
+title: "Xavier MLBB: build, combos and counters | MLBB Boost"
+description: "Xavier in Mobile Legends: ranked build, skill combos, how to play and who counters Xavier. Mage, 53.39% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/xavier.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,48 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Xavier
 
-Level-up**Dawning Light**_›_**Infinite Extension**_›_**Mystic Field**
+### Xavier combos
+
+#### Teamfight
+
+1.  ![Dawning Light](/images/mlbb/skills/xavier-3.webp)Ult
+2.  ![Mystic Field](/images/mlbb/skills/xavier-2.webp)2
+3.  ![Infinite Extension](/images/mlbb/skills/xavier-1.webp)1
+4.  ![Infinite Extension](/images/mlbb/skills/xavier-1.webp)1
+
+Cast Xavier's Ultimate to enter or refresh Transcendence, then try to hit as many enemies as possible with his 2nd Skill, and follow up with his 1st Skill to create a forbidden field to immobilize enemies. Continue casting his 1st Skill to extend Transcendence's duration while going for kills.
+
+#### Laning
+
+1.  ![Infinite Extension](/images/mlbb/skills/xavier-1.webp)1
+2.  ![Mystic Field](/images/mlbb/skills/xavier-2.webp)2
+3.  ![Dawning Light](/images/mlbb/skills/xavier-3.webp)Ult
+4.  ![Infinite Extension](/images/mlbb/skills/xavier-1.webp)1
+
+In the laning phase, Xavier possesses great poke with his 1st Skill and can utilize the slow from his 2nd Skill to make targets easier to hit. This combination allows him to quickly reach Transcendence. When the opportunity arises, use his Ultimate to finish off an enemy and while in Transcendence state.
+
+### When strongest
+
+Stronger early: 58.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **58.8**10–12
+2.  **54.3**12–14
+3.  **52.1**14–16
+4.  **51.1**16–18
+5.  **51.6**18–20
+6.  **50.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/xavier-3.webp)Dawning Light
+2.  ![](/images/mlbb/skills/xavier-1.webp)Infinite Extension
+3.  ![](/images/mlbb/skills/xavier-2.webp)Mystic Field
+
+## Skills
 
 ![](/images/mlbb/skills/xavier-0.webp)Passive**Transcendence**![](/images/mlbb/skills/xavier-1.webp)Skill 1**Infinite Extension**![](/images/mlbb/skills/xavier-2.webp)Skill 2**Mystic Field**![](/images/mlbb/skills/xavier-3.webp)Ultimate**Dawning Light**
 
@@ -291,17 +330,13 @@ Xavier unleashes a beam of Mystic magic in the target direction, dealing 600 (+1
 
 Once cast, he also directly enters the Transcendence state and resets the state's duration.
 
-## Counters
+## Xavier counters
 
-### Counters
-
-Beat this hero
+### Who counters Xavier
 
 [![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)
 
-### Easy targets
-
-This hero beats them
+### Who Xavier counters
 
 [![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -320,6 +355,10 @@ This hero beats them
 Who counters Xavier in MLBB?
 
 Over the last 30 days the toughest opponents are Belerick, Popol and Kupa, Atlas, Gloo and Carmilla.
+
+How do you play Xavier?
+
+Level "Infinite Extension" first and take the ultimate whenever it is available. Stronger early: 58.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Cast Xavier's Ultimate to enter or refresh Transcendence, then try to hit as many enemies as possible with his 2nd Skill, and follow up with his 1st Skill to create a forbidden field to immobilize enemies. Continue casting his 1st Skill to extend Transcendence's duration while going for kills.
 
 What is Xavier’s win rate right now?
 

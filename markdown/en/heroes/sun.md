@@ -1,6 +1,6 @@
 ---
-title: "Sun MLBB: build, counters and skills | MLBB Boost"
-description: "Sun in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 53.08% win rate, tier B."
+title: "Sun MLBB: build, combos and counters | MLBB Boost"
+description: "Sun in Mobile Legends: ranked build, skill combos, how to play and who counters Sun. Fighter, 53.08% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/sun.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 58.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Assassin
     Quantum Charge
 
 
-## Skills
+## How to play Sun
 
-Level-up**Clone Techniques**_›_**Endless Variety**_›_**Swift Exchange**_›_**Instantaneous Move**
+### Sun combos
+
+#### Teamfight
+
+1.  ![Clone Techniques](/images/mlbb/skills/sun-4.webp)Ult
+2.  ![Swift Exchange](/images/mlbb/skills/sun-2.webp)2
+3.  ![Instantaneous Move](/images/mlbb/skills/sun-3.webp)3
+4.  Attack
+
+In teamfights, Sun can start with his Ultimate to summon a Doppelganger, and approach the enemy with his 2nd Skill. Finally, he can use his 2nd Skill and Basic Attacks to deal damage.
+
+#### Laning
+
+1.  ![Endless Variety](/images/mlbb/skills/sun-1.webp)1
+2.  ![Swift Exchange](/images/mlbb/skills/sun-2.webp)2
+3.  ![Instantaneous Move](/images/mlbb/skills/sun-3.webp)3
+4.  Attack
+
+Use Sun's 1st Skill to chip away at enemies, and close the distance once they're low on HP with his 2nd Skill. Then use his 3rd Skill to deal a burst of damage with his Dopplegangers. Sun can start with his Ultimate to summon a Doppleganger, then Blink on the enemy with his 2nd Skill, and finally use his 3rd Skill and Basic Attacks finish them off.
+
+### When strongest
+
+Stronger late: 56.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **47.7**10–12
+2.  **50.5**12–14
+3.  **51.8**14–16
+4.  **55.6**16–18
+5.  **56.8**18–20
+6.  **56.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/sun-4.webp)Clone Techniques
+2.  ![](/images/mlbb/skills/sun-1.webp)Endless Variety
+3.  ![](/images/mlbb/skills/sun-2.webp)Swift Exchange
+4.  ![](/images/mlbb/skills/sun-3.webp)Instantaneous Move
+
+## Skills
 
 ![](/images/mlbb/skills/sun-0.webp)Passive**Simian God**![](/images/mlbb/skills/sun-1.webp)Skill 1**Endless Variety**![](/images/mlbb/skills/sun-2.webp)Skill 2**Swift Exchange**![](/images/mlbb/skills/sun-3.webp)Skill 3**Instantaneous Move**![](/images/mlbb/skills/sun-4.webp)Ultimate**Clone Techniques**
 
@@ -301,17 +341,13 @@ Cooldown **32 s**
 
 Sun summons a Doppelganger that inherits his attributes, deals 80% damage, and takes 120% damage for 8s.
 
-## Counters
+## Sun counters
 
-### Counters
-
-Beat this hero
+### Who counters Sun
 
 [![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)
 
-### Easy targets
-
-This hero beats them
+### Who Sun counters
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/ruby.webp)Ruby](https://boostmlbb.ru/en/heroes/ruby.html)[![](/images/heroes/art/natan.webp)Natan](https://boostmlbb.ru/en/heroes/natan.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)
 
@@ -330,6 +366,10 @@ This hero beats them
 Who counters Sun in MLBB?
 
 Over the last 30 days the toughest opponents are Jawhead, Diggie, Harley, Saber and Karrie.
+
+How do you play Sun?
+
+Level "Endless Variety" first and take the ultimate whenever it is available. Stronger late: 56.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Sun can start with his Ultimate to summon a Doppelganger, and approach the enemy with his 2nd Skill. Finally, he can use his 2nd Skill and Basic Attacks to deal damage.
 
 What is Sun’s win rate right now?
 

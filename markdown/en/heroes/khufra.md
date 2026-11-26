@@ -1,6 +1,6 @@
 ---
-title: "Khufra MLBB: build, counters and skills | MLBB Boost"
-description: "Khufra in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 54.84% win rate, tier B."
+title: "Khufra MLBB: build, combos and counters | MLBB Boost"
+description: "Khufra in Mobile Legends: ranked build, skill combos, how to play and who counters Khufra. Tank, 54.84% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/khufra.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 4.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Khufra
 
-Level-up**Tyrant's Rage**_›_**Bouncing Ball**_›_**Tyrant's Revenge**
+### Khufra combos
+
+#### Teamfight
+
+1.  ![Tyrant's Revenge](/images/mlbb/skills/khufra-1.webp)1
+2.  ![Tyrant's Rage](/images/mlbb/skills/khufra-3.webp)Ult
+3.  ![Bouncing Ball](/images/mlbb/skills/khufra-2.webp)2
+
+In teamfights, Khufra should open with his 1st Skill, then his Ultimate for area control, follow up with his 2nd Skill to prevent the enemy from escaping with their dash or blink skills.
+
+#### Laning
+
+1.  ![Tyrant's Revenge](/images/mlbb/skills/khufra-1.webp)1
+2.  Attack
+3.  ![Bouncing Ball](/images/mlbb/skills/khufra-2.webp)2
+
+In the laning phase, Khufra uses his 1st Skill to aim while charging before launching himself to CC the enemy target. He then deals damage and slows the target with his enhanced Basic Attack and follows up with his 2nd Skill to keep the target slowed.
+
+### When strongest
+
+Even through the game, from 54.1% to 55.5%. Pick fights by your items rather than the clock.
+
+1.  **54.4**10–12
+2.  **54.8**12–14
+3.  **55.5**14–16
+4.  **55.5**16–18
+5.  **55.1**18–20
+6.  **54.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/khufra-3.webp)Tyrant's Rage
+2.  ![](/images/mlbb/skills/khufra-2.webp)Bouncing Ball
+3.  ![](/images/mlbb/skills/khufra-1.webp)Tyrant's Revenge
+
+## Skills
 
 ![](/images/mlbb/skills/khufra-0.webp)Passive**Spell Curse**![](/images/mlbb/skills/khufra-1.webp)Skill 1**Tyrant's Revenge**![](/images/mlbb/skills/khufra-2.webp)Skill 2**Bouncing Ball**![](/images/mlbb/skills/khufra-3.webp)Ultimate**Tyrant's Rage**
 
@@ -287,17 +324,13 @@ Cooldown **50 Mana Cost: 150 s**
 
 Khufra pushes back all enemy targets around him toward his front (this skill can only be interrupted by Suppression), dealing 300 (+100% Total Physical Attack) Physical Damage and slowing them down for 1.25s. If the enemies are knocked against walls, extra Physical Damage equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed.
 
-## Counters
+## Khufra counters
 
-### Counters
-
-Beat this hero
+### Who counters Khufra
 
 [![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
-### Easy targets
-
-This hero beats them
+### Who Khufra counters
 
 [![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)
 
@@ -316,6 +349,10 @@ This hero beats them
 Who counters Khufra in MLBB?
 
 Over the last 30 days the toughest opponents are Silvanna, Wanwan, Alucard, Natalia and Mathilda.
+
+How do you play Khufra?
+
+Level "Bouncing Ball" first and take the ultimate whenever it is available. Even through the game, from 54.1% to 55.5%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, Khufra should open with his 1st Skill, then his Ultimate for area control, follow up with his 2nd Skill to prevent the enemy from escaping with their dash or blink skills.
 
 What is Khufra’s win rate right now?
 

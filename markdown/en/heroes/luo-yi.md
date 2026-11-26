@@ -1,6 +1,6 @@
 ---
-title: "Luo Yi MLBB: build, counters and skills | MLBB Boost"
-description: "Luo Yi in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.24% win rate, tier D."
+title: "Luo Yi MLBB: build, combos and counters | MLBB Boost"
+description: "Luo Yi in Mobile Legends: ranked build, skill combos, how to play and who counters Luo Yi. Mage, 46.24% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/luo-yi.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Luo Yi
 
-Level-up**Diversion**_›_**Dispersion**_›_**Rotation**
+### Luo Yi combos
+
+#### Teamfight
+
+1.  ![Dispersion](/images/mlbb/skills/luo-yi-1.webp)1
+2.  ![Dispersion](/images/mlbb/skills/luo-yi-1.webp)1
+3.  ![Rotation](/images/mlbb/skills/luo-yi-2.webp)2
+
+In teamfights, use Luo Yi's 1st Skill to mark the enemy with a Yin/Yang Sigil and use it again on another nearby enemy to apply the opposite Sigil and trigger a Yin-Yang Reaction. Then repeat the process. If there is only one enemy, use Luo Yi's 2nd Skill to trigger Yin-Yang Reactions.
+
+#### Laning
+
+1.  ![Dispersion](/images/mlbb/skills/luo-yi-1.webp)1
+2.  ![Rotation](/images/mlbb/skills/luo-yi-2.webp)2
+
+In the laning phase, use Luo Yi's 1st Skill to mark the enemy with a Yin/Yang Sigil, then use her 2nd Skill to summon Fire of Yang or Aqua of Yin in range of the target to trigger a Yin-Yang Reaction.
+
+### When strongest
+
+Stronger late: 48.1% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **46.5**10–12
+2.  **46.3**12–14
+3.  **46.8**14–16
+4.  **46.9**16–18
+5.  **47.2**18–20
+6.  **48.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/luo-yi-3.webp)Diversion
+2.  ![](/images/mlbb/skills/luo-yi-1.webp)Dispersion
+3.  ![](/images/mlbb/skills/luo-yi-2.webp)Rotation
+
+## Skills
 
 ![](/images/mlbb/skills/luo-yi-0.webp)Passive**Duality**![](/images/mlbb/skills/luo-yi-1.webp)Skill 1**Dispersion**![](/images/mlbb/skills/luo-yi-2.webp)Skill 2**Rotation**![](/images/mlbb/skills/luo-yi-3.webp)Ultimate**Diversion**
 
@@ -295,17 +331,13 @@ Ultimate
 
 **Active:** Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes within the Circle will be teleported to the location.
 
-## Counters
+## Luo Yi counters
 
-### Counters
-
-Beat this hero
+### Who counters Luo Yi
 
 [![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
-### Easy targets
-
-This hero beats them
+### Who Luo Yi counters
 
 [![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)
 
@@ -324,6 +356,10 @@ This hero beats them
 Who counters Luo Yi in MLBB?
 
 Over the last 30 days the toughest opponents are Estes, Faramis, Baxia, Fredrinn and Uranus.
+
+How do you play Luo Yi?
+
+Level "Dispersion" first and take the ultimate whenever it is available. Stronger late: 48.1% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Luo Yi's 1st Skill to mark the enemy with a Yin/Yang Sigil and use it again on another nearby enemy to apply the opposite Sigil and trigger a Yin-Yang Reaction. Then repeat the process. If there is only one enemy, use Luo Yi's 2nd Skill to trigger Yin-Yang Reactions.
 
 What is Luo Yi’s win rate right now?
 

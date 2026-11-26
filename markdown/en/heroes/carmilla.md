@@ -1,6 +1,6 @@
 ---
-title: "Carmilla MLBB: build, counters and skills | MLBB Boost"
-description: "Carmilla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 52.18% win rate, tier S."
+title: "Carmilla MLBB: build, combos and counters | MLBB Boost"
+description: "Carmilla in Mobile Legends: ranked build, skill combos, how to play and who counters Carmilla. Tank and support, 52.18% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/carmilla.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 37.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Carmilla
 
-Level-up**Curse of Blood**_›_**Crimson Flower**_›_**Bloodbath**
+### Carmilla combos
+
+#### Laning
+
+1.  ![Bloodbath](/images/mlbb/skills/carmilla-2.webp)2
+2.  ![Crimson Flower](/images/mlbb/skills/carmilla-1.webp)1
+
+In the laning phase, use Carmilla's 2nd Skill to get close to the opponent, then use her 1st Skill and stick to them to deal continuous damage.
+
+#### Teamfight
+
+1.  ![Curse of Blood](/images/mlbb/skills/carmilla-3.webp)Ult
+2.  ![Bloodbath](/images/mlbb/skills/carmilla-2.webp)2
+3.  ![Crimson Flower](/images/mlbb/skills/carmilla-1.webp)1
+
+In teamfights, use Carmilla's Ultimate to engage and slow enemies, then use her 2nd Skill to get close and CC a target, and follow up with her 1st Skill for continuous AOE damage.
+
+### When strongest
+
+Stronger early: 55.4% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **55.4**10–12
+2.  **54.2**12–14
+3.  **53.1**14–16
+4.  **51.7**16–18
+5.  **50.5**18–20
+6.  **49.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/carmilla-3.webp)Curse of Blood
+2.  ![](/images/mlbb/skills/carmilla-1.webp)Crimson Flower
+3.  ![](/images/mlbb/skills/carmilla-2.webp)Bloodbath
+
+## Skills
 
 ![](/images/mlbb/skills/carmilla-0.webp)Passive**Vampire Pact**![](/images/mlbb/skills/carmilla-1.webp)Skill 1**Crimson Flower**![](/images/mlbb/skills/carmilla-2.webp)Skill 2**Bloodbath**![](/images/mlbb/skills/carmilla-3.webp)Ultimate**Curse of Blood**
 
@@ -289,17 +325,13 @@ Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%
 
 When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link.
 
-## Counters
+## Carmilla counters
 
-### Counters
-
-Beat this hero
+### Who counters Carmilla
 
 [![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)
 
-### Easy targets
-
-This hero beats them
+### Who Carmilla counters
 
 [![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)
 
@@ -318,6 +350,10 @@ This hero beats them
 Who counters Carmilla in MLBB?
 
 Over the last 30 days the toughest opponents are Popol and Kupa, Chip, Hilda, Johnson and Gloo.
+
+How do you play Carmilla?
+
+Level "Crimson Flower" first and take the ultimate whenever it is available. Stronger early: 55.4% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Carmilla's Ultimate to engage and slow enemies, then use her 2nd Skill to get close and CC a target, and follow up with her 1st Skill for continuous AOE damage.
 
 What is Carmilla’s win rate right now?
 

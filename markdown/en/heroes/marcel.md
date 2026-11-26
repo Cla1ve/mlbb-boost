@@ -1,6 +1,6 @@
 ---
-title: "Marcel MLBB: build, counters and skills | MLBB Boost"
-description: "Marcel in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 56.99% win rate, tier S."
+title: "Marcel MLBB: build, combos and counters | MLBB Boost"
+description: "Marcel in Mobile Legends: ranked build, skill combos, how to play and who counters Marcel. Support, 56.99% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/marcel.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 70.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,50 @@ Support
     Quantum Charge
 
 
-## Skills
+## How to play Marcel
 
-Level-up**Golden Hour**_›_**Framed Moment**_›_**Tracking Shot**
+### Marcel combos
+
+#### Teamfight
+
+1.  ![Tracking Shot](/images/mlbb/skills/marcel-2.webp)2
+2.  ![Framed Moment](/images/mlbb/skills/marcel-1.webp)1
+3.  ![Tracking Shot](/images/mlbb/skills/marcel-2.webp)2
+4.  ![Golden Hour](/images/mlbb/skills/marcel-3.webp)Ult
+5.  Attack
+6.  Attack
+
+In teamfights, Marcel should activate his 2nd Skill, followed by his 1st Skill. Run into the enemy's formation, then use the 2nd Skill again to dash away and drop his 1st Skill on top of them. Once the enemies are immobilized, use his Ultimate.
+
+#### Laning
+
+1.  ![Tracking Shot](/images/mlbb/skills/marcel-2.webp)2
+2.  ![Framed Moment](/images/mlbb/skills/marcel-1.webp)1
+3.  Attack
+4.  Attack
+
+During the laning phase, use Marcel's 2nd Skill to run up to the enemy and cast his 1st Skill. While the enemy is immobilized, lay into them with Basic Attacks.
+
+### When strongest
+
+Stronger early: 62.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **62.0**10–12
+2.  **59.3**12–14
+3.  **57.3**14–16
+4.  **55.8**16–18
+5.  **54.4**18–20
+6.  **52.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/marcel-3.webp)Golden Hour
+2.  ![](/images/mlbb/skills/marcel-1.webp)Framed Moment
+3.  ![](/images/mlbb/skills/marcel-2.webp)Tracking Shot
+
+## Skills
 
 ![](/images/mlbb/skills/marcel-0.webp)Passive**Platinum Snap**![](/images/mlbb/skills/marcel-1.webp)Skill 1**Framed Moment**![](/images/mlbb/skills/marcel-2.webp)Skill 2**Tracking Shot**![](/images/mlbb/skills/marcel-3.webp)Ultimate**Golden Hour**
 
@@ -292,17 +333,13 @@ Golden Hour resets the cooldown of Platinum Snap for each enemy hero.
 
 Allied heroes with the Platinum Snap shield can move freely within the area.
 
-## Counters
+## Marcel counters
 
-### Counters
-
-Beat this hero
+### Who counters Marcel
 
 [![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)
 
-### Easy targets
-
-This hero beats them
+### Who Marcel counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/angela.webp)Angela](https://boostmlbb.ru/en/heroes/angela.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
@@ -321,6 +358,10 @@ This hero beats them
 Who counters Marcel in MLBB?
 
 Over the last 30 days the toughest opponents are Atlas, Sun, Akai, Johnson and Popol and Kupa.
+
+How do you play Marcel?
+
+Level "Framed Moment" first and take the ultimate whenever it is available. Stronger early: 62.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Marcel should activate his 2nd Skill, followed by his 1st Skill. Run into the enemy's formation, then use the 2nd Skill again to dash away and drop his 1st Skill on top of them. Once the enemies are immobilized, use his Ultimate.
 
 What is Marcel’s win rate right now?
 

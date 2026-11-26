@@ -1,6 +1,6 @@
 ---
-title: "Lylia MLBB: build, counters and skills | MLBB Boost"
-description: "Lylia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 47.60% win rate, tier B."
+title: "Lylia MLBB: build, combos and counters | MLBB Boost"
+description: "Lylia in Mobile Legends: ranked build, skill combos, how to play and who counters Lylia. Mage, 47.60% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/lylia.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Lylia
 
-Level-up**Black Shoes**_›_**Shadow Energy**_›_**Magic Shockwave**
+### Lylia combos
+
+#### Laning
+
+1.  ![Shadow Energy](/images/mlbb/skills/lylia-2.webp)2
+2.  ![Magic Shockwave](/images/mlbb/skills/lylia-1.webp)1
+3.  ![Shadow Energy](/images/mlbb/skills/lylia-2.webp)2
+
+Use Lylia's 2nd Skill to hit the opponent, then use her 1st Skill to detonate the Shadow Energy for a significant burst of damage. Continue to throw her 2nd Skill at the enemy and detonate it with Gloom.
+
+#### Teamfight
+
+1.  ![Shadow Energy](/images/mlbb/skills/lylia-2.webp)2
+2.  ![Magic Shockwave](/images/mlbb/skills/lylia-1.webp)1
+3.  ![Shadow Energy](/images/mlbb/skills/lylia-2.webp)2
+4.  ![Black Shoes](/images/mlbb/skills/lylia-3.webp)Ult
+
+Use Lylia's 2nd Skill multiple times to cover a large area with Shadow Energy, then detonate a chain reaction with her 1st Skill. Continue to spam Lylia's 2nd Skill and detonate with Gloom to quickly set off multiple explosions at once. When in danger, use Lylia's Ultimate to return to safety and recover.
+
+### When strongest
+
+Stronger early: 52.5% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **52.5**10–12
+2.  **49.0**12–14
+3.  **47.7**14–16
+4.  **48.2**16–18
+5.  **48.4**18–20
+6.  **48.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/lylia-3.webp)Black Shoes
+2.  ![](/images/mlbb/skills/lylia-2.webp)Shadow Energy
+3.  ![](/images/mlbb/skills/lylia-1.webp)Magic Shockwave
+
+## Skills
 
 ![](/images/mlbb/skills/lylia-0.webp)Passive**Angry Gloom**![](/images/mlbb/skills/lylia-1.webp)Skill 1**Magic Shockwave**![](/images/mlbb/skills/lylia-2.webp)Skill 2**Shadow Energy**![](/images/mlbb/skills/lylia-3.webp)Ultimate**Black Shoes**
 
@@ -295,11 +333,9 @@ Lylia returns to the Black Shoes' location 4s ago, restoring her HP and Mana to 
 
 She also gains 20% Movement Speed for 2s.
 
-## Counters
+## Lylia counters
 
-### Counters
-
-Beat this hero
+### Who counters Lylia
 
 [![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)
 
@@ -318,6 +354,10 @@ Beat this hero
 Who counters Lylia in MLBB?
 
 Over the last 30 days the toughest opponents are Johnson, Alpha, Hanabi, Barats and Alice.
+
+How do you play Lylia?
+
+Level "Shadow Energy" first and take the ultimate whenever it is available. Stronger early: 52.5% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Use Lylia's 2nd Skill multiple times to cover a large area with Shadow Energy, then detonate a chain reaction with her 1st Skill. Continue to spam Lylia's 2nd Skill and detonate with Gloom to quickly set off multiple explosions at once. When in danger, use Lylia's Ultimate to return to safety and recover.
 
 What is Lylia’s win rate right now?
 

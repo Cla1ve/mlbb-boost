@@ -1,6 +1,6 @@
 ---
-title: "Баксий MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Баксий в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк, 45,94% побед, тир D."
+title: "Баксий MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Баксий, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Баксия. Танк, 45,94% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/baxia.html
 language: ru
 ---
@@ -27,7 +27,7 @@ D
 
 0,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -248,9 +248,47 @@ D
     Ударная волна
 
 
-## Навыки
+## Как играть за Баксия
 
-Прокачка**Могущество черепахи**_›_**Щит духов**_›_**Щит единства**
+### Комбо Баксия
+
+#### В драке
+
+1.  ![Щит единства](/images/mlbb/skills/baxia-1.webp)1
+2.  ![Могущество черепахи](/images/mlbb/skills/baxia-3.webp)Ульт
+3.  ![Щит духов](/images/mlbb/skills/baxia-2.webp)2
+4.  Атака
+
+В драке включите первый навык, ультом ускорьтесь, врежьтесь во врага и бейте вторым и атаками.
+
+#### На линии
+
+1.  ![Щит единства](/images/mlbb/skills/baxia-1.webp)1
+2.  ![Щит духов](/images/mlbb/skills/baxia-2.webp)2
+3.  Атака
+
+На линии вкатитесь первым и добавьте второй и атаки.
+
+### Когда сильнее всего
+
+Сила ровная всю игру, от 46,3% до 47,8%. Выбирайте драки по готовым предметам, а не по минутам.
+
+1.  **47,2**10–12
+2.  **46,3**12–14
+3.  **47,8**14–16
+4.  **47,2**16–18
+5.  **47,7**18–20
+6.  **47,3**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/baxia-3.webp)Могущество черепахи
+2.  ![](/images/mlbb/skills/baxia-2.webp)Щит духов
+3.  ![](/images/mlbb/skills/baxia-1.webp)Щит единства
+
+## Навыки
 
 ![](/images/mlbb/skills/baxia-0.webp)Пассивный**Метка Баксия**![](/images/mlbb/skills/baxia-1.webp)1-й навык**Щит единства**![](/images/mlbb/skills/baxia-2.webp)2-й навык**Щит духов**![](/images/mlbb/skills/baxia-3.webp)Ультимейт**Могущество черепахи**
 
@@ -292,17 +330,13 @@ D
 
 На время действия эффект снижения урона от "Метки Баксия" будет увеличен на 200%.
 
-## Контрпики
+## Контрпики Баксия
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Баксия
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/alice.webp)Алиса](https://boostmlbb.ru/heroes/alice.html)[![](/images/heroes/art/lukas.webp)Лукас](https://boostmlbb.ru/heroes/lukas.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Баксий
 
 [![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)[![](/images/heroes/art/clint.webp)Клинт](https://boostmlbb.ru/heroes/clint.html)[![](/images/heroes/art/kaja.webp)Кайя](https://boostmlbb.ru/heroes/kaja.html)[![](/images/heroes/art/x-borg.webp)Икс.Борг](https://boostmlbb.ru/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Кэрри](https://boostmlbb.ru/heroes/karrie.html)[![](/images/heroes/art/terizla.webp)Тэризла](https://boostmlbb.ru/heroes/terizla.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/luo-yi.webp)Ло Йи](https://boostmlbb.ru/heroes/luo-yi.html)
 
@@ -318,22 +352,26 @@ D
 
 ## Частые вопросы
 
-Кто контрпик для героя «Баксий» в MLBB?
+Кто контрит Баксия в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Обсидия, Алиса, Лукас, Сабер и Заск.
+За последние 30 дней Баксия чаще всего обыгрывают Обсидия, Алиса, Лукас, Сабер и Заск.
 
-Какой процент побед у героя «Баксий» сейчас?
+Как играть за Баксия?
+
+В первую очередь качайте «Щит духов», ульт берите, как только доступен. Сила ровная всю игру, от 46,3% до 47,8%. Выбирайте драки по готовым предметам, а не по минутам. Комбо для драки: В драке включите первый навык, ультом ускорьтесь, врежьтесь во врага и бейте вторым и атаками.
+
+Какой процент побед у Баксия сейчас?
 
 45,94% в Мифической славе за последние 7 дней и 45,86% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Баксий»?
+Какая роль и линия у Баксия?
 
 Танк, играет в лесу или в роуме.
 
-Силён ли герой «Баксий» в текущей мете?
+Стоит ли брать Баксия в текущей мете?
 
 Тир D, 133-е место из 133 героев и 25-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,1% матчей, 45,9% побед. В профессиональных матчах за месяц героя драфтуют в 1,3% катков.
 
-Какая сборка на героя «Баксий» лучшая?
+Какая сборка на Баксия лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Проклятый шлем», «Наплечник наказания» и «Сияющая броня», эмблема танка с талантами «Трепет», «Опытный охотник» и «Ударная волна» и заклинание «Возмездие». С ней выигрывают 55,60% матчей.

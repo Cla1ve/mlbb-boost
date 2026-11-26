@@ -1,6 +1,6 @@
 ---
-title: "Akai MLBB: build, counters and skills | MLBB Boost"
-description: "Akai in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 49.32% win rate, tier C."
+title: "Akai MLBB: build, combos and counters | MLBB Boost"
+description: "Akai in Mobile Legends: ranked build, skill combos, how to play and who counters Akai. Tank, 49.32% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/akai.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Akai
 
-Level-up**Heavy Spin**_›_**Body Slam**_›_**Headbutt**
+### Akai combos
+
+#### Teamfight
+
+1.  ![Headbutt](/images/mlbb/skills/akai-1.webp)1
+2.  ![Heavy Spin](/images/mlbb/skills/akai-3.webp)Ult
+3.  ![Body Slam](/images/mlbb/skills/akai-2.webp)2
+
+In teamfights, Akai should use his 1st Skill to knock back the enemy, and roll into the enemy formation. Then use his Ultimate to disrupt the enemy formation, and continue to deal damage with his 2nd Skill after his Ultimate ends.
+
+#### Laning
+
+1.  ![Headbutt](/images/mlbb/skills/akai-1.webp)1
+2.  ![Body Slam](/images/mlbb/skills/akai-2.webp)2
+3.  Attack
+
+In the laning phase, Akai should use his 1st Skill to knock back the enemy, and slow them down with his 2nd Skill, then spam his Basic Attack to deal damage.
+
+### When strongest
+
+Even through the game, from 49.4% to 50.8%. Pick fights by your items rather than the clock.
+
+1.  **49.5**10–12
+2.  **49.4**12–14
+3.  **50.0**14–16
+4.  **50.0**16–18
+5.  **49.9**18–20
+6.  **50.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/akai-3.webp)Heavy Spin
+2.  ![](/images/mlbb/skills/akai-2.webp)Body Slam
+3.  ![](/images/mlbb/skills/akai-1.webp)Headbutt
+
+## Skills
 
 ![](/images/mlbb/skills/akai-0.webp)Passive**Tai Chi**![](/images/mlbb/skills/akai-1.webp)Skill 1**Headbutt**![](/images/mlbb/skills/akai-2.webp)Skill 2**Body Slam**![](/images/mlbb/skills/akai-3.webp)Ultimate**Heavy Spin**
 
@@ -293,17 +330,13 @@ Upon casting, Akai removes all debuffs and gains slow immunity. While spinning, 
 
 This skill can only be interrupted by Suppression.
 
-## Counters
+## Akai counters
 
-### Counters
-
-Beat this hero
+### Who counters Akai
 
 [![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
-### Easy targets
-
-This hero beats them
+### Who Akai counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
@@ -322,6 +355,10 @@ This hero beats them
 Who counters Akai in MLBB?
 
 Over the last 30 days the toughest opponents are Alucard, Harith, Granger, Silvanna and Nana.
+
+How do you play Akai?
+
+Level "Body Slam" first and take the ultimate whenever it is available. Even through the game, from 49.4% to 50.8%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, Akai should use his 1st Skill to knock back the enemy, and roll into the enemy formation. Then use his Ultimate to disrupt the enemy formation, and continue to deal damage with his 2nd Skill after his Ultimate ends.
 
 What is Akai’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Pharsa MLBB: build, counters and skills | MLBB Boost"
-description: "Pharsa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 46.63% win rate, tier D."
+title: "Pharsa MLBB: build, combos and counters | MLBB Boost"
+description: "Pharsa in Mobile Legends: ranked build, skill combos, how to play and who counters Pharsa. Mage, 46.63% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/pharsa.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,48 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Pharsa
 
-Level-up**Feathered Air Strike**_›_**Energy Impact**_›_**Curse of Crow**
+### Pharsa combos
+
+#### Teamfight
+
+1.  ![Wings by Wings](/images/mlbb/skills/pharsa-4.webp)Ult
+2.  ![Curse of Crow](/images/mlbb/skills/pharsa-1.webp)1
+3.  ![Feathered Air Strike](/images/mlbb/skills/pharsa-3.webp)3
+4.  ![Energy Impact](/images/mlbb/skills/pharsa-2.webp)2
+5.  ![Feathered Air Strike](/images/mlbb/skills/pharsa-3.webp)3
+
+Pharsa can use her 4th Skill to get into an advantageous position to initiate a teamfight, followed by a damage combo with her 1st and 3rd skills and use her 2nd Skill when she wants to deal extra damage.
+
+#### Laning
+
+1.  ![Curse of Crow](/images/mlbb/skills/pharsa-1.webp)1
+2.  ![Energy Impact](/images/mlbb/skills/pharsa-2.webp)2
+3.  ![Feathered Air Strike](/images/mlbb/skills/pharsa-3.webp)3
+
+Pharsa should start with her 1st Skill to mark the enemy, follow up with her 2nd Skill to apply CC, and then cast her Ultimate to deal an insane amount of Magic Damage.
+
+### When strongest
+
+Stronger late: 48.9% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **44.5**10–12
+2.  **46.3**12–14
+3.  **47.5**14–16
+4.  **47.7**16–18
+5.  **48.0**18–20
+6.  **48.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/pharsa-3.webp)Feathered Air Strike
+2.  ![](/images/mlbb/skills/pharsa-2.webp)Energy Impact
+3.  ![](/images/mlbb/skills/pharsa-1.webp)Curse of Crow
+
+## Skills
 
 ![](/images/mlbb/skills/pharsa-0.webp)Passive**Spiritual Unity**![](/images/mlbb/skills/pharsa-1.webp)Skill 1**Curse of Crow**![](/images/mlbb/skills/pharsa-2.webp)Skill 2**Energy Impact**![](/images/mlbb/skills/pharsa-3.webp)Skill 3**Feathered Air Strike**![](/images/mlbb/skills/pharsa-4.webp)Ultimate**Wings by Wings**
 
@@ -299,11 +338,9 @@ Pharsa turns into mist and wraps around Verri, gaining 150% extra Movement Speed
 
 This state ends immediately when she is controlled or uses a Basic Attack or skill.
 
-## Counters
+## Pharsa counters
 
-### Counters
-
-Beat this hero
+### Who counters Pharsa
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)
 
@@ -322,6 +359,10 @@ Beat this hero
 Who counters Pharsa in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Diggie, Melissa, Yve and Valir.
+
+How do you play Pharsa?
+
+Level "Feathered Air Strike" first and take the ultimate whenever it is available. Stronger late: 48.9% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: Pharsa can use her 4th Skill to get into an advantageous position to initiate a teamfight, followed by a damage combo with her 1st and 3rd skills and use her 2nd Skill when she wants to deal extra damage.
 
 What is Pharsa’s win rate right now?
 

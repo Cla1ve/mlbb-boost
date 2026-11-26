@@ -1,6 +1,6 @@
 ---
-title: "Yin MLBB: build, counters and skills | MLBB Boost"
-description: "Yin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.95% win rate, tier C."
+title: "Yin MLBB: build, combos and counters | MLBB Boost"
+description: "Yin in Mobile Legends: ranked build, skill combos, how to play and who counters Yin. Fighter and assassin, 49.95% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/yin.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,49 @@ Assassin
     Concussive Blast
 
 
-## Skills
+## How to play Yin
 
-Level-up**My Turn**_›_**Charged Punch**_›_**Instant Blast**
+### Yin combos
+
+#### Teamfight
+
+1.  ![Charged Punch](/images/mlbb/skills/yin-1.webp)1
+2.  ![Instant Blast](/images/mlbb/skills/yin-2.webp)2
+3.  Attack
+4.  ![My Turn](/images/mlbb/skills/yin-3.webp)Ult
+5.  ![Instant Blast](/images/mlbb/skills/yin-2.webp)2
+6.  ![Charged Punch](/images/mlbb/skills/yin-1.webp)1
+
+Yin should use his 1st Skill to gain Movement Speed and then his 2nd Skill to get close to a key enemy and hit them with his enhanced Basic Attack before trapping them in his Ultimate. In Lieh form, use his 2nd Skill to stun the enemy and finish them off with his 1st Skill.
+
+#### Laning
+
+1.  ![Charged Punch](/images/mlbb/skills/yin-1.webp)1
+2.  ![Instant Blast](/images/mlbb/skills/yin-2.webp)2
+3.  Attack
+
+In the laning phase, Yin should use his 1st Skill to gain Movement Speed, then use his 2nd Skill to dash behind the enemy so the Golden Rings will stun them on their return, and end with his enhanced Basic Attack.
+
+### When strongest
+
+Stronger late: 51.6% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **49.5**10–12
+2.  **49.2**12–14
+3.  **49.2**14–16
+4.  **50.0**16–18
+5.  **50.7**18–20
+6.  **51.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/yin-3.webp)My Turn
+2.  ![](/images/mlbb/skills/yin-1.webp)Charged Punch
+3.  ![](/images/mlbb/skills/yin-2.webp)Instant Blast
+
+## Skills
 
 ![](/images/mlbb/skills/yin-0.webp)Passive**Leave It to Me**![](/images/mlbb/skills/yin-1.webp)Skill 1**Charged Punch**![](/images/mlbb/skills/yin-2.webp)Skill 2**Instant Blast**![](/images/mlbb/skills/yin-3.webp)Ultimate**My Turn**
 
@@ -296,17 +336,13 @@ The domain will end early if either of the two is killed. If Lieh successfully k
 
 If Yin fails to pull his target into the domain, the skill will enter a 3s cooldown.
 
-## Counters
+## Yin counters
 
-### Counters
-
-Beat this hero
+### Who counters Yin
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/floryn.webp)Floryn](https://boostmlbb.ru/en/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
 
-### Easy targets
-
-This hero beats them
+### Who Yin counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/suyou.webp)Suyou](https://boostmlbb.ru/en/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Grock](https://boostmlbb.ru/en/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
@@ -325,6 +361,10 @@ This hero beats them
 Who counters Yin in MLBB?
 
 Over the last 30 days the toughest opponents are Diggie, Minsitthar, Ixia, Floryn and Estes.
+
+How do you play Yin?
+
+Level "Charged Punch" first and take the ultimate whenever it is available. Stronger late: 51.6% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: Yin should use his 1st Skill to gain Movement Speed and then his 2nd Skill to get close to a key enemy and hit them with his enhanced Basic Attack before trapping them in his Ultimate. In Lieh form, use his 2nd Skill to stun the enemy and finish them off with his 1st Skill.
 
 What is Yin’s win rate right now?
 

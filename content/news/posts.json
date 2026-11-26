@@ -708,10 +708,10 @@
     {
       "slug": "m8-istanbul-world-road",
       "status": "published",
-      "title": "M8 по MLBB: когда начнётся, кто уже прошёл и кто едет от СНГ",
-      "seoTitle": "M8 MLBB: даты, участники и команды СНГ",
-      "description": "M8 World Championship: Wild Card в декабре в Бангкоке, основная стадия в январе 2027 в Стамбуле. Кто уже прошёл, включая Team Spirit, Aurevia и Team Yandex.",
-      "excerpt": "Team Spirit начнёт с основной стадии в Стамбуле. Aurevia Team и Team Yandex сначала сыграют в Wild Card в Бангкоке.",
+      "title": "M8 по MLBB: расписание, группы и результаты",
+      "seoTitle": "M8 MLBB: расписание, группы и результаты",
+      "description": "M8 World Championship: расписание матчей по Москве, группы Wild Card, Swiss и сетка плей-офф, результаты и участники, включая Team Spirit.",
+      "excerpt": "Wild Card в Бангкоке с 17 декабря, основная стадия в Стамбуле до 23 января. Сетка, время матчей по вашему часовому поясу и где смотреть на русском.",
       "category": "Киберспорт",
       "categoryKey": "esports",
       "tags": [
@@ -723,7 +723,7 @@
         "Стамбул"
       ],
       "datePublished": "2026-08-22T23:31:02+03:00",
-      "dateModified": "2026-11-23T18:36:21+03:00",
+      "dateModified": "2026-11-26T17:48:15+03:00",
       "hero": {
         "src": "/images/news/m8-istanbul-world-road.jpg",
         "width": 1600,
@@ -746,166 +746,62 @@
           "id": "brief",
           "title": "Коротко",
           "items": [
-            "Стадия Wild Card пройдёт в декабре 2026 года в Бангкоке: 10 команд разыграют 3 места в основной стадии.",
-            "Основная стадия — в январе 2027 года в Стамбуле: 16 команд и призовой фонд $1 000 000.",
-            "От СНГ в основную стадию прошла Team Spirit — чемпион MCC Season 8. Aurevia Team и Team Yandex сыграют в Wild Card.",
-            "Последние места разыграют на MCT SEA 9–13 декабря: первые два места — в основную стадию, 3-е и 4-е — в Wild Card."
+            "Wild Card пройдёт 17–20 декабря 2026 года в Бангкоке: 10 команд разыграют 3 места в основной стадии.",
+            "Основная стадия пройдёт в Стамбуле: Swiss 3–10 января 2027 года, плей-офф 14–19 января.",
+            "Гранд-финал 23 января, призовой фонд $1 000 000.",
+            "От СНГ играют Team Spirit, Aurevia Team и Team Yandex."
+          ]
+        },
+        {
+          "type": "heading",
+          "id": "format",
+          "text": "Как проходит M8"
+        },
+        {
+          "type": "table",
+          "caption": "Стадии M8 World Championship",
+          "headers": [
+            "Стадия",
+            "Даты",
+            "Формат",
+            "Кто идёт дальше"
+          ],
+          "rows": [
+            [
+              "Wild Card, группы",
+              "17–18 декабря",
+              "2 группы по 5 команд, Bo1",
+              "первое место в группе сразу в основную стадию"
+            ],
+            [
+              "Wild Card, плей-офф",
+              "19–20 декабря",
+              "вторые и третьи места, Bo5 на вылет",
+              "победитель в основную стадию"
+            ],
+            [
+              "Swiss",
+              "3–10 января",
+              "16 команд, 5 раундов",
+              "3 победы дают плей-офф, 3 поражения означают вылет"
+            ],
+            [
+              "Плей-офф",
+              "14–19 января",
+              "двойное выбывание, Bo3 и Bo5",
+              "2 команды в гранд-финал"
+            ],
+            [
+              "Гранд-финал",
+              "23 января",
+              "Bo7",
+              "чемпион M8"
+            ]
           ]
         },
         {
           "type": "paragraph",
-          "text": "Точные игровые дни на 22 ноября ещё не объявлены. Известны месяцы проведения Wild Card в Бангкоке и основной стадии в Стамбуле."
-        },
-        {
-          "type": "heading",
-          "id": "dates",
-          "text": "Когда и где пройдёт M8"
-        },
-        {
-          "type": "table",
-          "caption": "Этапы M8 World Championship",
-          "headers": [
-            "Этап",
-            "Город",
-            "Когда",
-            "Команды"
-          ],
-          "rows": [
-            [
-              "Wild Card",
-              "Бангкок, Таиланд",
-              "декабрь 2026",
-              "10 команд, 3 места в основной стадии"
-            ],
-            [
-              "Основная стадия и финал",
-              "Стамбул, Турция",
-              "январь 2027",
-              "16 команд, призовой фонд $1 000 000"
-            ]
-          ],
-          "note": "MOONTON называет месяцы, но не игровые дни. Добавим даты, когда их опубликуют.",
-          "layout": "stages"
-        },
-        {
-          "type": "heading",
-          "id": "main-stage",
-          "text": "Участники M8"
-        },
-        {
-          "type": "table",
-          "caption": "Команды, получившие места на M8, по данным MOONTON",
-          "headers": [
-            "Команда",
-            "Отбор",
-            "Результат",
-            "Стадия"
-          ],
-          "rows": [
-            [
-              "Team Spirit",
-              "MCC Season 8",
-              "4:0 в финале с Aurevia Team",
-              "Основная"
-            ],
-            [
-              "The MongolZ",
-              "MCT East Asia",
-              "победа в Улан-Баторе 31 октября",
-              "Основная"
-            ],
-            [
-              "DREAMMAX",
-              "MCT Americas",
-              "4:1 в финале с LYON",
-              "Основная"
-            ],
-            [
-              "Selangor Red Giants",
-              "MPL Malaysia",
-              "чемпион",
-              "Основная"
-            ],
-            [
-              "Team Rey",
-              "MPL Malaysia",
-              "финалист",
-              "Основная"
-            ],
-            [
-              "Aurora Gaming",
-              "MLBB Türkiye Championship S8",
-              "4:3 в финале с FUT Esports",
-              "не уточнена"
-            ],
-            [
-              "Bigetron by Vitality",
-              "MPL Indonesia S18",
-              "4:3 в финале с NAVI",
-              "не уточнена"
-            ],
-            [
-              "NAVI",
-              "MPL Indonesia S18",
-              "финалист",
-              "не уточнена"
-            ],
-            [
-              "Aurora Gaming PH",
-              "MPL Philippines",
-              "чемпион",
-              "не уточнена"
-            ],
-            [
-              "Team Falcons",
-              "MPL Philippines",
-              "финалист",
-              "не уточнена"
-            ]
-          ],
-          "note": "Для части команд MOONTON пишет «место на M8» без стадии. Уточним после публикации сетки."
-        },
-        {
-          "type": "table",
-          "caption": "Команды Wild Card в Бангкоке",
-          "headers": [
-            "Команда",
-            "Отбор",
-            "Место"
-          ],
-          "rows": [
-            [
-              "FUT Esports",
-              "MLBB Türkiye Championship S8",
-              "финалист"
-            ],
-            [
-              "LYON",
-              "MCT Americas",
-              "финалист"
-            ],
-            [
-              "DianFengYaoGuai",
-              "MCT East Asia",
-              "2-е место"
-            ],
-            [
-              "Guangzhou Gaming",
-              "MCT East Asia",
-              "3-е место"
-            ],
-            [
-              "Aurevia Team",
-              "MCC Season 8",
-              "финалист"
-            ],
-            [
-              "Team Yandex",
-              "MCC Season 8",
-              "место в Wild Card"
-            ]
-          ],
-          "note": "Ещё две команды Wild Card определит MCT SEA."
+          "text": "Матчи Wild Card идут по бангкокскому времени, это на 4 часа впереди Москвы: старт в 13:10 по Бангкоку это 09:10 по Москве. Стамбул живёт по московскому времени, поэтому матчи основной стадии начинаются в 13:00 или позже и идут в удобные часы."
         },
         {
           "type": "heading",
@@ -914,12 +810,7 @@
         },
         {
           "type": "paragraph",
-          "text": "От СНГ на M8 едут три команды. Team Spirit выиграла MCC Season 8 со счётом 4:0 у Aurevia Team и сразу попала в основную стадию в Стамбуле. Это та же Team Spirit, что летом стала чемпионом MSC 2026. Aurevia Team и Team Yandex начнут с Wild Card в Бангкоке: чтобы попасть в Стамбул, им нужно войти в тройку из 10 команд."
-        },
-        {
-          "type": "callout",
-          "label": "Что это значит для зрителей из России",
-          "text": "В январе в Стамбуле будет минимум одна команда СНГ, а при удачном Wild Card — до трёх. Часовой пояс Турции совпадает с московским, поэтому матчи основной стадии будут идти в удобное время."
+          "text": "Team Spirit выиграла MCC Season 8 со счётом 4:0 у Aurevia Team и начнёт сразу со Swiss-стадии. Это та же команда, что летом стала чемпионом MSC 2026. Aurevia Team и Team Yandex стартуют с Wild Card: в основную стадию оттуда пройдут только 3 команды из 10."
         },
         {
           "type": "cta",
@@ -966,7 +857,7 @@
         },
         {
           "type": "paragraph",
-          "text": "После MCT SEA список участников M8 будет полным: две команды из Юго-Восточной Азии напрямую поедут в Стамбул, ещё две пополнят Wild Card. Мы обновим таблицы после плей-офф 13 декабря и когда MOONTON опубликует игровые дни."
+          "text": "После MCT SEA станут известны последние 4 участника. Жеребьёвка групп Wild Card назначена на 14 декабря, после неё группы появятся в расписании наверху страницы."
         },
         {
           "type": "faq",
@@ -974,26 +865,34 @@
           "title": "Частые вопросы",
           "items": [
             {
-              "q": "Когда и где пройдёт M8 по MLBB?",
-              "a": "Wild Card — в декабре 2026 года в Бангкоке, основная стадия — в январе 2027 года в Стамбуле."
+              "q": "Когда начнётся M8 по MLBB?",
+              "a": "Wild Card стартует 17 декабря 2026 года в Бангкоке, основная стадия 3 января 2027 года в Стамбуле."
+            },
+            {
+              "q": "Когда финал M8?",
+              "a": "Гранд-финал назначен на 23 января 2027 года в Стамбуле."
             },
             {
               "q": "Какой призовой фонд у M8?",
-              "a": "$1 000 000 на 16 команд основной стадии."
+              "a": "Общий призовой фонд M8 составляет $1 000 000."
             },
             {
               "q": "Кто от СНГ играет на M8?",
-              "a": "Team Spirit уже в основной стадии как чемпион MCC Season 8. Aurevia Team и Team Yandex сыграют в Wild Card."
+              "a": "Team Spirit в основной стадии как чемпион MCC Season 8. Aurevia Team и Team Yandex играют с Wild Card."
+            },
+            {
+              "q": "Где смотреть M8 на русском?",
+              "a": "На Twitch mlbb_cis, на YouTube @MLBB_MCC и @mlbbcis, в VK Видео mlbbesports."
             }
           ]
         }
       ],
       "translations": {
         "en": {
-          "title": "M8 MLBB: when it starts, who has qualified and which CIS teams are going",
-          "seoTitle": "M8 MLBB: dates, qualified teams and CIS teams",
-          "description": "M8 World Championship: Wild Card in December in Bangkok, Main Stage in January 2027 in Istanbul. Who has qualified, including Team Spirit, Aurevia and Team Yandex.",
-          "excerpt": "Team Spirit starts in the Istanbul main stage. Aurevia Team and Team Yandex begin in the Bangkok Wild Card.",
+          "title": "MLBB M8: schedule, groups and results",
+          "seoTitle": "MLBB M8 schedule, groups and results",
+          "description": "M8 World Championship: match schedule, Wild Card groups, Swiss stage and playoff bracket, results and teams, including Team Spirit.",
+          "excerpt": "The Wild Card in Bangkok starts on December 17, the main stage in Istanbul runs to January 23. Bracket, match times in your time zone and where to watch.",
           "category": "Esports",
           "tags": [
             "M8 World Championship",
@@ -1011,168 +910,64 @@
             {
               "type": "keyFacts",
               "id": "brief",
-              "title": "In short",
+              "title": "In brief",
               "items": [
-                "The Wild Card stage takes place in December 2026 in Bangkok: 10 teams play for 3 Main Stage places.",
-                "The Main Stage is in January 2027 in Istanbul: 16 teams and a $1,000,000 prize pool.",
-                "Team Spirit, the MCC Season 8 champion, reached the Main Stage for the CIS. Aurevia Team and Team Yandex play in the Wild Card.",
-                "The last places are decided at MCT SEA on 9–13 December: the top two go to the Main Stage, 3rd and 4th to the Wild Card."
+                "The Wild Card runs December 17–20, 2026 in Bangkok: 10 teams play for 3 main stage places.",
+                "The main stage is in Istanbul: Swiss January 3–10, 2027, playoffs January 14–19.",
+                "The grand final is on January 23, the prize pool is $1 000 000.",
+                "CIS is represented by Team Spirit, Aurevia Team and Team Yandex."
               ]
             },
             {
-              "type": "paragraph",
-              "text": "As of 22 November, exact match dates had yet to be announced. The months are confirmed for the Bangkok Wild Card and the Istanbul main stage."
-            },
-            {
               "type": "heading",
-              "id": "dates",
-              "text": "When and where M8 takes place"
+              "id": "format",
+              "text": "How M8 works"
             },
             {
               "type": "table",
               "caption": "M8 World Championship stages",
               "headers": [
                 "Stage",
-                "City",
-                "When",
-                "Teams"
+                "Dates",
+                "Format",
+                "Who goes on"
               ],
               "rows": [
                 [
-                  "Wild Card",
-                  "Bangkok, Thailand",
-                  "December 2026",
-                  "10 teams, 3 Main Stage places"
+                  "Wild Card, groups",
+                  "December 17–18",
+                  "2 groups of 5 teams, Bo1",
+                  "first place in each group goes straight to the main stage"
                 ],
                 [
-                  "Main Stage and finals",
-                  "Istanbul, Türkiye",
-                  "January 2027",
-                  "16 teams, $1,000,000 prize pool"
+                  "Wild Card, playoffs",
+                  "December 19–20",
+                  "second and third places, Bo5 knockout",
+                  "the winner goes to the main stage"
+                ],
+                [
+                  "Swiss",
+                  "January 3–10",
+                  "16 teams, 5 rounds",
+                  "3 wins earn a playoff place, 3 losses mean elimination"
+                ],
+                [
+                  "Playoffs",
+                  "January 14–19",
+                  "double elimination, Bo3 and Bo5",
+                  "2 teams reach the grand final"
+                ],
+                [
+                  "Grand final",
+                  "January 23",
+                  "Bo7",
+                  "M8 champion"
                 ]
-              ],
-              "note": "MOONTON gives the months but not the match days. We will add dates once they are published.",
-              "layout": "stages"
+              ]
             },
             {
-              "type": "heading",
-              "id": "main-stage",
-              "text": "M8 teams"
-            },
-            {
-              "type": "table",
-              "caption": "Teams with an M8 place according to MOONTON",
-              "headers": [
-                "Team",
-                "Qualifier",
-                "Result",
-                "Stage"
-              ],
-              "rows": [
-                [
-                  "Team Spirit",
-                  "MCC Season 8",
-                  "4:0 in the final against Aurevia Team",
-                  "Main"
-                ],
-                [
-                  "The MongolZ",
-                  "MCT East Asia",
-                  "won in Ulaanbaatar on 31 October",
-                  "Main"
-                ],
-                [
-                  "DREAMMAX",
-                  "MCT Americas",
-                  "4:1 in the final against LYON",
-                  "Main"
-                ],
-                [
-                  "Selangor Red Giants",
-                  "MPL Malaysia",
-                  "champion",
-                  "Main"
-                ],
-                [
-                  "Team Rey",
-                  "MPL Malaysia",
-                  "finalist",
-                  "Main"
-                ],
-                [
-                  "Aurora Gaming",
-                  "MLBB Türkiye Championship S8",
-                  "4:3 in the final against FUT Esports",
-                  "not specified"
-                ],
-                [
-                  "Bigetron by Vitality",
-                  "MPL Indonesia S18",
-                  "4:3 in the final against NAVI",
-                  "not specified"
-                ],
-                [
-                  "NAVI",
-                  "MPL Indonesia S18",
-                  "finalist",
-                  "not specified"
-                ],
-                [
-                  "Aurora Gaming PH",
-                  "MPL Philippines",
-                  "champion",
-                  "not specified"
-                ],
-                [
-                  "Team Falcons",
-                  "MPL Philippines",
-                  "finalist",
-                  "not specified"
-                ]
-              ],
-              "note": "For some teams MOONTON says “an M8 place” without the stage. We will clarify once the bracket is published."
-            },
-            {
-              "type": "table",
-              "caption": "Wild Card teams in Bangkok",
-              "headers": [
-                "Team",
-                "Qualifier",
-                "Place"
-              ],
-              "rows": [
-                [
-                  "FUT Esports",
-                  "MLBB Türkiye Championship S8",
-                  "finalist"
-                ],
-                [
-                  "LYON",
-                  "MCT Americas",
-                  "finalist"
-                ],
-                [
-                  "DianFengYaoGuai",
-                  "MCT East Asia",
-                  "2nd place"
-                ],
-                [
-                  "Guangzhou Gaming",
-                  "MCT East Asia",
-                  "3rd place"
-                ],
-                [
-                  "Aurevia Team",
-                  "MCC Season 8",
-                  "finalist"
-                ],
-                [
-                  "Team Yandex",
-                  "MCC Season 8",
-                  "Wild Card place"
-                ]
-              ],
-              "note": "MCT SEA will add two more Wild Card teams."
+              "type": "paragraph",
+              "text": "Wild Card matches follow Bangkok time, 4 hours ahead of Moscow: a 13:10 start in Bangkok is 09:10 in Moscow. Istanbul shares Moscow time, so main stage matches start at 13:00 or later."
             },
             {
               "type": "heading",
@@ -1181,12 +976,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Three CIS teams are going to M8. Team Spirit won MCC Season 8 4:0 against Aurevia Team and went straight to the Main Stage in Istanbul. This is the same Team Spirit that won MSC 2026 in the summer. Aurevia Team and Team Yandex start in the Bangkok Wild Card: to reach Istanbul they need a top-three finish among 10 teams."
-            },
-            {
-              "type": "callout",
-              "label": "What this means for viewers in Russia",
-              "text": "Istanbul will have at least one CIS team in January, and up to three after a good Wild Card. Türkiye shares Moscow’s time zone, so Main Stage matches will air at convenient hours."
+              "text": "Team Spirit won MCC Season 8 4:0 against Aurevia Team and starts straight in the Swiss stage. It is the same team that won MSC 2026 in the summer. Aurevia Team and Team Yandex start in the Wild Card: only 3 of 10 teams there reach the main stage."
             },
             {
               "type": "cta",
@@ -1202,7 +992,7 @@
             {
               "type": "heading",
               "id": "mct-sea",
-              "text": "MCT SEA qualifiers"
+              "text": "MCT SEA qualifier"
             },
             {
               "type": "table",
@@ -1233,24 +1023,32 @@
             },
             {
               "type": "paragraph",
-              "text": "After MCT SEA the M8 field will be complete: two Southeast Asian teams go straight to Istanbul and two more join the Wild Card. We will update the tables after the playoffs on 13 December and when MOONTON publishes the match days."
+              "text": "MCT SEA will decide the last 4 participants. The Wild Card group draw is set for December 14, after which the groups appear in the schedule at the top of the page."
             },
             {
               "type": "faq",
               "id": "faq",
-              "title": "Frequently asked questions",
+              "title": "FAQ",
               "items": [
                 {
-                  "q": "When and where is MLBB M8?",
-                  "a": "The Wild Card is in December 2026 in Bangkok, the Main Stage in January 2027 in Istanbul."
+                  "q": "When does MLBB M8 start?",
+                  "a": "The Wild Card starts on December 17, 2026 in Bangkok, the main stage on January 3, 2027 in Istanbul."
+                },
+                {
+                  "q": "When is the M8 final?",
+                  "a": "The grand final is set for January 23, 2027 in Istanbul."
                 },
                 {
                   "q": "What is the M8 prize pool?",
-                  "a": "$1,000,000 for the 16 Main Stage teams."
+                  "a": "The total M8 prize pool is $1 000 000."
                 },
                 {
                   "q": "Which CIS teams play at M8?",
-                  "a": "Team Spirit is already in the Main Stage as the MCC Season 8 champion. Aurevia Team and Team Yandex play in the Wild Card."
+                  "a": "Team Spirit is in the main stage as MCC Season 8 champion. Aurevia Team and Team Yandex start in the Wild Card."
+                },
+                {
+                  "q": "Where can I watch M8 in Russian?",
+                  "a": "On Twitch mlbb_cis, on YouTube @MLBB_MCC and @mlbbcis, on VK Video mlbbesports."
                 }
               ]
             }
@@ -1259,6 +1057,18 @@
         }
       },
       "sources": [
+        {
+          "title": "M8 World Championship",
+          "publisher": "Liquipedia",
+          "url": "https://liquipedia.net/mobilelegends/M8_World_Championship",
+          "accessed": "2026-11-26"
+        },
+        {
+          "title": "M8 World Championship to set sail from Bangkok to Istanbul",
+          "publisher": "MOONTON",
+          "url": "https://en.moonton.com/news/388.html",
+          "accessed": "2026-11-26"
+        },
         {
           "title": "DREAMMAX lead the Americas onto the world stage as the M8 World Championship heads to Europe",
           "publisher": "MOONTON",
@@ -1296,7 +1106,8 @@
           "accessed": "2026-11-22"
         }
       ],
-      "editorialNote": "Обновлено 22 ноября 2026 года по пресс-релизам MOONTON за 2 и 16 ноября. Если стадия команды в релизе не названа, мы так и пишем. Обновим материал после MCT SEA и публикации игровых дней M8."
+      "editorialNote": "Расписание, участники и результаты берутся из Liquipedia и обновляются автоматически. Формат и места сверены 26 ноября 2026 года с анонсом MOONTON; даты Wild Card и Swiss названы только в Liquipedia.",
+      "tool": "m8"
     },
     {
       "slug": "mlbb-ranks-in-order",
@@ -5782,21 +5593,21 @@
     {
       "slug": "mlbb-change-nickname",
       "status": "published",
-      "title": "Как сменить ник в MLBB: цена, невидимый ник и символы",
-      "seoTitle": "Как сменить ник в MLBB: цена и невидимый ник",
-      "description": "Как поменять ник в Mobile Legends: где кнопка, сколько стоит карточка смены имени, бесплатная первая смена, невидимый ник из пустых символов и знаки для красивого ника.",
-      "excerpt": "Ник меняется в профиле. Первая смена бесплатна, затем понадобится карточка смены имени.",
+      "title": "Ники для MLBB: генератор красивых ников и шрифтов",
+      "seoTitle": "Ники для MLBB: генератор ников и шрифтов",
+      "description": "Генератор ников для Mobile Legends: красивые, парные и японские, для парней и девушек, на русском и английском. Шрифты, предпросмотр и как сменить ник.",
+      "excerpt": "Выберите, для кого ник и в каком стиле, примерьте шрифт и украшения и скопируйте. Ниже инструкция, как сменить ник в игре.",
       "category": "Гайды",
       "categoryKey": "guides",
       "tags": [
         "Mobile Legends",
-        "Ник",
+        "Ники",
+        "Генератор ников",
         "Смена имени",
-        "Невидимый ник",
-        "Символы"
+        "Невидимый ник"
       ],
       "datePublished": "2026-11-22T23:03:00+03:00",
-      "dateModified": "2026-11-24T02:44:08+03:00",
+      "dateModified": "2026-11-26T17:48:15+03:00",
       "hero": {
         "src": "/images/news/mlbb-change-nickname.jpg",
         "width": 1600,
@@ -5828,7 +5639,7 @@
         {
           "type": "heading",
           "id": "steps",
-          "text": "Как поменять имя"
+          "text": "Как сменить ник в MLBB"
         },
         {
           "type": "list",
@@ -5977,11 +5788,11 @@
         {
           "type": "heading",
           "id": "symbols",
-          "text": "Символы и красивые ники"
+          "text": "Какие символы и шрифты проходят"
         },
         {
           "type": "paragraph",
-          "text": "Кроме латиницы и кириллицы, в ник часто ставят иероглифы и декоративные знаки. Сайты-генераторы предлагают сотни вариантов, но многие их «шрифты» собраны из редких символов Unicode: игра может их не принять или показать квадратами. Надёжнее взять один или два простых знака."
+          "text": "Шрифты в генераторе выше это отдельные символы Unicode. Капитель, широкие буквы и буквы в кружках берутся из распространённых наборов, а жирный, рукописный и готический из редких: часть телефонов покажет вместо них квадраты, а игра может их не принять. Надёжнее всего ник с одним или двумя простыми знаками."
         },
         {
           "type": "table",
@@ -6024,6 +5835,18 @@
           "title": "Частые вопросы",
           "items": [
             {
+              "q": "Как придумать красивый ник в MLBB?",
+              "a": "Возьмите одно слово со смыслом, составное имя из двух слов или своё имя с одной изменённой буквой. Генератор на этой странице подбирает такие варианты и подсказывает значение слов."
+            },
+            {
+              "q": "Какие шрифты работают в Mobile Legends?",
+              "a": "Официального списка нет. Простые знаки вроде ツ и 彡 ставят чаще всего, а жирные и рукописные буквы из редких символов могут показываться квадратами. Проверьте ник в поле смены имени до покупки карточки."
+            },
+            {
+              "q": "Какой ник выбрать девушке?",
+              "a": "Нажмите в генераторе «Девушке»: он подберёт мягкие слова и имена вроде Serene, Kasumi, Velvet. Ник можно примерить с украшением ✦ или 『 』 и сразу скопировать."
+            },
+            {
               "q": "Как сменить ник в Mobile Legends?",
               "a": "Нажмите на аватар в левом верхнем углу главного меню, затем на текущий ник или значок карандаша, введите новое имя и нажмите «ОК»."
             },
@@ -6065,17 +5888,17 @@
       "editorialNote": "Шаги и цены сверены 22 ноября 2026 года по гайдам ONE Esports, aesthetic.name и Katadata. Официальной справки MOONTON о смене ника и цене карточки мы не нашли, поэтому цену проверяйте в игровом магазине.",
       "translations": {
         "en": {
-          "title": "How to change your MLBB nickname: price, invisible name, symbols",
-          "seoTitle": "How to change your MLBB name: price and invisible name",
-          "description": "How to change your Mobile Legends nickname: where the button is, what a Rename Card costs, the free first change, an invisible name and signs for a stylish name.",
-          "excerpt": "Change your nickname in your profile. The first change is free, and later changes require a Rename Card.",
+          "title": "MLBB names: a stylish nickname generator and fonts",
+          "seoTitle": "MLBB name generator: stylish names and fonts",
+          "description": "Mobile Legends name generator: stylish, matching and Japanese names for guys and girls, with fonts, a preview and how to change your name.",
+          "excerpt": "Choose who the name is for and a style, try a font and symbols, then copy it. Renaming steps are below.",
           "category": "Guides",
           "tags": [
             "Mobile Legends",
-            "Nickname",
+            "Names",
+            "Name generator",
             "Rename",
-            "Invisible name",
-            "Symbols"
+            "Invisible name"
           ],
           "hero": {
             "alt": "Mobile Legends rename window: a new nickname with the 彡 and ツ signs, a Rename Card and the OK button",
@@ -6096,7 +5919,7 @@
             {
               "type": "heading",
               "id": "steps",
-              "text": "How to change your name"
+              "text": "How to change your name in MLBB"
             },
             {
               "type": "list",
@@ -6245,11 +6068,11 @@
             {
               "type": "heading",
               "id": "symbols",
-              "text": "Symbols and stylish nicknames"
+              "text": "Which symbols and fonts work"
             },
             {
               "type": "paragraph",
-              "text": "Besides Latin and Cyrillic letters, players often add hieroglyphs and decorative signs. Generator sites offer hundreds of options, but many of their \"fonts\" are made of rare Unicode characters: the game may refuse them or show boxes. One or two simple signs are the safer choice."
+              "text": "The fonts in the generator above are separate Unicode characters. Small caps, wide and circled letters come from common sets, while bold, script and gothic come from rare ones: some phones show boxes instead, and the game may reject them. The safest name has one or two simple symbols."
             },
             {
               "type": "table",
@@ -6292,6 +6115,18 @@
               "title": "Frequently asked questions",
               "items": [
                 {
+                  "q": "How do I come up with a cool MLBB name?",
+                  "a": "Take one meaningful word, a compound of two words or your own name with one letter changed. The generator on this page suggests such options and explains the words."
+                },
+                {
+                  "q": "Which fonts work in Mobile Legends?",
+                  "a": "There is no official list. Simple symbols like ツ and 彡 are used most often, while bold and script letters from rare sets may show as boxes. Check the name in the rename field before buying a card."
+                },
+                {
+                  "q": "What name suits a girl?",
+                  "a": "Choose \"For her\" in the generator: it picks softer words and names like Serene, Kasumi, Velvet. Try it with ✦ or 『 』 and copy it right away."
+                },
+                {
                   "q": "How do you change your nickname in Mobile Legends?",
                   "a": "Tap the avatar in the top-left corner of the main menu, then your current name or the pencil icon, type the new name and tap OK."
                 },
@@ -6312,7 +6147,8 @@
           ],
           "editorialNote": "Steps and prices were checked on 22 November 2026 against guides by ONE Esports, aesthetic.name and Katadata. We found no official MOONTON help page on renaming or the card price, so check the price in the in-game shop."
         }
-      }
+      },
+      "tool": "nicknames"
     },
     {
       "slug": "mlbb-new-heroes-2026",

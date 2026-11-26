@@ -1,6 +1,6 @@
 ---
-title: "Atlas MLBB: build, counters and skills | MLBB Boost"
-description: "Atlas in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 48.85% win rate, tier A."
+title: "Atlas MLBB: build, combos and counters | MLBB Boost"
+description: "Atlas in Mobile Legends: ranked build, skill combos, how to play and who counters Atlas. Tank, 48.85% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/atlas.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 8.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Atlas
 
-Level-up**Fatal Links**_›_**Annihilate**_›_**Perfect Match**
+### Atlas combos
+
+#### Teamfight
+
+1.  ![Perfect Match](/images/mlbb/skills/atlas-2.webp)2
+2.  ![Fatal Links](/images/mlbb/skills/atlas-3.webp)Ult
+3.  ![Annihilate](/images/mlbb/skills/atlas-1.webp)1
+
+In teamfights, use Atlas's 2nd Skill to approach the enemy and unleash his Ultimate when multiple enemies are in range. Aim while channeling and release to slam them down near your team, then continue to deal damage with his 1st Skill.
+
+#### Laning
+
+1.  ![Perfect Match](/images/mlbb/skills/atlas-2.webp)2
+2.  ![Annihilate](/images/mlbb/skills/atlas-1.webp)1
+
+In the laning phase, use Atlas's 2nd Skill to eject and then get close to the enemy. Right before the Mecha Sentry reaches Atlas, use his 1st Skill to double the effect.
+
+### When strongest
+
+Even through the game, from 49.1% to 50.4%. Pick fights by your items rather than the clock.
+
+1.  **50.4**10–12
+2.  **50.1**12–14
+3.  **50.0**14–16
+4.  **49.5**16–18
+5.  **49.1**18–20
+6.  **49.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/atlas-3.webp)Fatal Links
+2.  ![](/images/mlbb/skills/atlas-1.webp)Annihilate
+3.  ![](/images/mlbb/skills/atlas-2.webp)Perfect Match
+
+## Skills
 
 ![](/images/mlbb/skills/atlas-0.webp)Passive**Frigid Breath**![](/images/mlbb/skills/atlas-1.webp)Skill 1**Annihilate**![](/images/mlbb/skills/atlas-2.webp)Skill 2**Perfect Match**![](/images/mlbb/skills/atlas-3.webp)Ultimate**Fatal Links**
 
@@ -293,17 +329,13 @@ Atlas hurls chains around and starts to channel (can only be interrupted by Supp
 
 **Use this skill in Ejected State:** The Mecha Sentry will return to Atlas immediately, but the stun effect will be replaced by 40% Slowing Effect.
 
-## Counters
+## Atlas counters
 
-### Counters
-
-Beat this hero
+### Who counters Atlas
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
 
-### Easy targets
-
-This hero beats them
+### Who Atlas counters
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/lancelot.webp)Lancelot](https://boostmlbb.ru/en/heroes/lancelot.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
 
@@ -322,6 +354,10 @@ This hero beats them
 Who counters Atlas in MLBB?
 
 Over the last 30 days the toughest opponents are Layla, Popol and Kupa, Lolita, Johnson and Estes.
+
+How do you play Atlas?
+
+Level "Annihilate" first and take the ultimate whenever it is available. Even through the game, from 49.1% to 50.4%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Atlas's 2nd Skill to approach the enemy and unleash his Ultimate when multiple enemies are in range. Aim while channeling and release to slam them down near your team, then continue to deal damage with his 1st Skill.
 
 What is Atlas’s win rate right now?
 

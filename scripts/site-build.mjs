@@ -35,7 +35,11 @@ const academyData = await read('content/heroes-academy.json').then(JSON.parse).c
 const itemsData = JSON.parse(await read('content/items.json'));
 const itemsById = itemIndex(itemsData);
 if (academyData) for (const [id, entry] of Object.entries(academyData.items)) if (itemsById[id]) Object.assign(entry, itemsById[id]);
-config.guides.push(...heroGuides(heroesData, academyData, JSON.parse(await read('content/hero-story-fallbacks.json'))));
+// "How to play": official combos (content/heroes-play.json), their Russian texts and the Russian case forms of names.
+const playData = await read('content/heroes-play.json').then(JSON.parse).catch(() => null);
+const comboRu = await read('content/combos-ru.json').then(text => JSON.parse(text).texts).catch(() => ({}));
+const heroCases = JSON.parse(await read('content/hero-cases.json')).forms;
+config.guides.push(...heroGuides(heroesData, academyData, JSON.parse(await read('content/hero-story-fallbacks.json')), { play: playData, comboRu, cases: heroCases }));
 config.guides.push(...itemGuides(itemsData, heroesData, academyData));
 const data = JSON.parse(await read('content/public-data.json'));
 const changedDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Moscow', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(data.checkedAt));
@@ -103,6 +107,8 @@ function block(document, tag, content) {
 }
 const guideOf = file => config.guides.find(g => g.file === file);
 const footerGuides = [
+  ['/news/mlbb-change-nickname/', 'Ники для MLBB', 'MLBB name generator'],
+  ['/news/m8-istanbul-world-road/', 'M8: расписание', 'M8 schedule'],
   ['/news/mlbb-ranks-in-order/', 'Ранги по порядку', 'Ranks in order'],
   ['/news/mlbb-season-end-rank-reset/', 'Конец сезона и сброс', 'Season end and reset'],
   ['/news/mlbb-rank-up-solo/', 'Как поднять ранг соло', 'Rank up solo'],
@@ -472,7 +478,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     if (['hero', 'item'].includes(guideOf(file)?.kind)) {
       const arenaStyle = document.createElement('link'); arenaStyle.rel = 'stylesheet'; arenaStyle.href = '/styles/arena.css?v=6';
       document.head.append(arenaStyle);
-      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=13';
+      const heroStyle = document.createElement('link'); heroStyle.rel = 'stylesheet'; heroStyle.href = '/styles/heroes.css?v=14';
       document.head.append(heroStyle);
       if (guideOf(file).kind === 'item') { const itemStyle = document.createElement('link'); itemStyle.rel = 'stylesheet'; itemStyle.href = '/styles/items.css?v=2'; document.head.append(itemStyle); }
     }
@@ -494,7 +500,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
       const attribute = node.tagName === 'SCRIPT' ? 'src' : 'href';
       const asset = new URL(node.getAttribute(attribute), origin);
       if (['/js/main.js', '/js/prices.js', '/js/reviews.js', '/js/consent.js', '/js/calculator.js', '/js/i18n.js', '/js/i18n-seo.js', '/styles/seo.css'].includes(asset.pathname)) {
-        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '46' : '30');
+        asset.searchParams.set('v', asset.pathname === '/js/calculator.js' ? '33' : asset.pathname === '/styles/seo.css' ? '46' : asset.pathname === '/js/consent.js' ? '31' : '30');
         node.setAttribute(attribute, asset.pathname + asset.search);
       }
     }
@@ -544,6 +550,7 @@ for (const file of [...pageFiles, ...config.guides.map(g => g.file)]) {
     document.querySelector('#particles-js')?.setAttribute('aria-hidden', 'true');
     document.querySelectorAll('link[href*="font-awesome"]').forEach(node => node.setAttribute('href', '/styles/icons.css'));
     document.querySelectorAll('link[href*="/styles/icons.css"]').forEach(node => node.setAttribute('href', '/styles/icons.css?v=30'));
+    document.querySelectorAll('link[href*="/styles/legal.css"]').forEach(node => node.setAttribute('href', '/styles/legal.css?v=2'));
     document.querySelectorAll('link[rel="preconnect"][href*="cdnjs"]').forEach(node => node.remove());
     for (const node of document.querySelectorAll('script[src*="i18n-legal"],script[src*="i18n-reviews"]')) {
       if (config.pages[file] || guide) {

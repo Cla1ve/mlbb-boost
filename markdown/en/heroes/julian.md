@@ -1,6 +1,6 @@
 ---
-title: "Julian MLBB: build, counters and skills | MLBB Boost"
-description: "Julian in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.26% win rate, tier C."
+title: "Julian MLBB: build, combos and counters | MLBB Boost"
+description: "Julian in Mobile Legends: ranked build, skill combos, how to play and who counters Julian. Fighter and assassin, 49.26% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/julian.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,47 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Julian
 
-Level-up**Scythe**_›_**Chain**_›_**Sword**
+### Julian combos
+
+#### Teamfight
+
+1.  ![Scythe](/images/mlbb/skills/julian-1.webp)1
+2.  ![Sword](/images/mlbb/skills/julian-2.webp)2
+3.  ![Chain](/images/mlbb/skills/julian-3.webp)Ult
+
+In teamfights, Julian can slow the enemy with his 1st Skill before dashing into the enemy battle formation with his 2nd Skill. Then use his enhanced 3rd Skill for area CC.
+
+#### Laning
+
+1.  ![Sword](/images/mlbb/skills/julian-2.webp)2
+2.  ![Chain](/images/mlbb/skills/julian-3.webp)Ult
+3.  ![Scythe](/images/mlbb/skills/julian-1.webp)1
+4.  Attack
+
+In the laning phase, Julian can use his 2nd Skill to close in on the enemy, and his 3rd Skill to immobilize them. Then he can use his enhanced 1st Skill to deal damage. Follow up with his enhanced Basic Attacks to prevent the enemy from escaping.
+
+### When strongest
+
+Even through the game, from 47.3% to 51.1%. Pick fights by your items rather than the clock.
+
+1.  **51.1**10–12
+2.  **48.7**12–14
+3.  **47.3**14–16
+4.  **48.5**16–18
+5.  **49.3**18–20
+6.  **49.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/julian-1.webp)Scythe
+2.  ![](/images/mlbb/skills/julian-3.webp)Chain
+3.  ![](/images/mlbb/skills/julian-2.webp)Sword
+
+## Skills
 
 ![](/images/mlbb/skills/julian-0.webp)Passive**Smith's Legacy**![](/images/mlbb/skills/julian-1.webp)Skill 1**Scythe**![](/images/mlbb/skills/julian-2.webp)Skill 2**Sword**![](/images/mlbb/skills/julian-3.webp)Ultimate**Chain**
 
@@ -290,17 +328,13 @@ Cooldown **9 Mana Cost: 30 s**
 
 Julian casts chains at the target location, dealing 300 (+100% Total Magic Power) Magic Damage to enemies hit after a short delay and immobilizing them for 1.2s.
 
-## Counters
+## Julian counters
 
-### Counters
-
-Beat this hero
+### Who counters Julian
 
 [![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
-### Easy targets
-
-This hero beats them
+### Who Julian counters
 
 [![](/images/heroes/art/guinevere.webp)Guinevere](https://boostmlbb.ru/en/heroes/guinevere.html)
 
@@ -319,6 +353,10 @@ This hero beats them
 Who counters Julian in MLBB?
 
 Over the last 30 days the toughest opponents are Faramis, Esmeralda, Alice, Phoveus and Odette.
+
+How do you play Julian?
+
+Level "Scythe" first and take the ultimate whenever it is available. Even through the game, from 47.3% to 51.1%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, Julian can slow the enemy with his 1st Skill before dashing into the enemy battle formation with his 2nd Skill. Then use his enhanced 3rd Skill for area CC.
 
 What is Julian’s win rate right now?
 

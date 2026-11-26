@@ -1,6 +1,6 @@
 ---
-title: "Edith MLBB: build, counters and skills | MLBB Boost"
-description: "Edith in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and marksman, 52.38% win rate, tier C."
+title: "Edith MLBB: build, combos and counters | MLBB Boost"
+description: "Edith in Mobile Legends: ranked build, skill combos, how to play and who counters Edith. Tank and marksman, 52.38% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/edith.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Tank
     War Cry
 
 
-## Skills
+## How to play Edith
 
-Level-up**Primal Wrath**_›_**Earth Shatter**_›_**Onward**
+### Edith combos
+
+#### Teamfight
+
+1.  ![Onward](/images/mlbb/skills/edith-2.webp)2
+2.  ![Earth Shatter](/images/mlbb/skills/edith-1.webp)1
+3.  ![Primal Wrath](/images/mlbb/skills/edith-3.webp)Ult
+4.  ![Onward](/images/mlbb/skills/edith-2.webp)2
+5.  ![Earth Shatter](/images/mlbb/skills/edith-1.webp)1
+6.  Attack
+
+In teamfights, use Edith's 2nd Skill to toss the enemy behind her, followed by her 1st Skill to knock them airborne then immediately use her Ultimate. Now use Edith's 2nd Skill in human form to immobilize the target, followed by her 1st Skill for more damage, and secure the kill with enhanced Basic Attacks.
+
+#### Laning
+
+1.  ![Onward](/images/mlbb/skills/edith-2.webp)2
+2.  ![Earth Shatter](/images/mlbb/skills/edith-1.webp)1
+3.  Attack
+
+In the laning phase, use Edith's 2nd Skill to toss the enemy behind her, then use her 1st Skill to knock them airborne and finish them off with enhanced Basic Attacks from her Passive.
+
+### When strongest
+
+Stronger early: 57.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **57.0**10–12
+2.  **55.9**12–14
+3.  **54.9**14–16
+4.  **52.9**16–18
+5.  **52.4**18–20
+6.  **51.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/edith-3.webp)Primal Wrath
+2.  ![](/images/mlbb/skills/edith-1.webp)Earth Shatter
+3.  ![](/images/mlbb/skills/edith-2.webp)Onward
+
+## Skills
 
 ![](/images/mlbb/skills/edith-0.webp)Passive**Overload**![](/images/mlbb/skills/edith-1.webp)Skill 1**Earth Shatter**![](/images/mlbb/skills/edith-2.webp)Skill 2**Onward**![](/images/mlbb/skills/edith-3.webp)Ultimate**Primal Wrath**
 
@@ -291,17 +331,13 @@ Cooldown **40 s**
 
 **Active:** Edith ejects herself forward from Phylax, knocking back nearby enemies and taking flight for up to 8s (gaining 30 Movement Speed). During this time, she gains new skills and can perform ranged Basic Attacks, each dealing 35 (+75% Total Physical Attack) (+25% Total Magic Power) Magic Damage. She also gains 350 (+5% Max HP) - 350 (+20% Max HP) extra shield, 50% - 150% extra Attack Speed, and 5% - 20% Hybrid Lifesteal based on accumulated Wrath, and converts each point of Extra and Extra into 3.5 .
 
-## Counters
+## Edith counters
 
-### Counters
-
-Beat this hero
+### Who counters Edith
 
 [![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)
 
-### Easy targets
-
-This hero beats them
+### Who Edith counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -320,6 +356,10 @@ This hero beats them
 Who counters Edith in MLBB?
 
 Over the last 30 days the toughest opponents are Alice, Harith, Silvanna, Faramis and Claude.
+
+How do you play Edith?
+
+Level "Earth Shatter" first and take the ultimate whenever it is available. Stronger early: 57.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Edith's 2nd Skill to toss the enemy behind her, followed by her 1st Skill to knock them airborne then immediately use her Ultimate. Now use Edith's 2nd Skill in human form to immobilize the target, followed by her 1st Skill for more damage, and secure the kill with enhanced Basic Attacks.
 
 What is Edith’s win rate right now?
 

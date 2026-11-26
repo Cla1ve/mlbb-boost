@@ -1,6 +1,6 @@
 ---
-title: "Barats MLBB: build, counters and skills | MLBB Boost"
-description: "Barats in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 51.56% win rate, tier A."
+title: "Barats MLBB: build, combos and counters | MLBB Boost"
+description: "Barats in Mobile Legends: ranked build, skill combos, how to play and who counters Barats. Tank and fighter, 51.56% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/barats.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 3.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Tank
     Brave Smite
 
 
-## Skills
+## How to play Barats
 
-Level-up**Detona's Welcome**_›_**So-Called Teamwork**_›_**Missile "Expert"**
+### Barats combos
+
+#### Teamfight
+
+1.  ![So-Called Teamwork](/images/mlbb/skills/barats-1.webp)1
+2.  ![Missile "Expert"](/images/mlbb/skills/barats-2.webp)2
+3.  ![Detona's Welcome](/images/mlbb/skills/barats-3.webp)Ult
+4.  Attack
+
+In teamfights, use Barats' 1st Skill to maintain Big Guy stacks. Approach the enemy and use his 2nd Skill to push them close before using his Ultimate to minimize their chance of escape, then finish them off with Basic Attacks.
+
+#### Laning
+
+1.  ![So-Called Teamwork](/images/mlbb/skills/barats-1.webp)1
+2.  ![Missile "Expert"](/images/mlbb/skills/barats-2.webp)2
+3.  Attack
+
+In the laning phase, spam Barats' low Mana cost 1st Skill to build Big Guy stacks while slowing and poking the enemy. Use his 2nd Skill to push the enemy to him and hit them with Basic Attacks.
+
+### When strongest
+
+Stronger early: 60.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **60.2**10–12
+2.  **54.5**12–14
+3.  **50.8**14–16
+4.  **48.0**16–18
+5.  **47.2**18–20
+6.  **47.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/barats-3.webp)Detona's Welcome
+2.  ![](/images/mlbb/skills/barats-1.webp)So-Called Teamwork
+3.  ![](/images/mlbb/skills/barats-2.webp)Missile "Expert"
+
+## Skills
 
 ![](/images/mlbb/skills/barats-0.webp)Passive**Big Guy**![](/images/mlbb/skills/barats-1.webp)Skill 1**So-Called Teamwork**![](/images/mlbb/skills/barats-2.webp)Skill 2**Missile "Expert"**![](/images/mlbb/skills/barats-3.webp)Ultimate**Detona's Welcome**
 
@@ -289,17 +327,13 @@ During the skill, Barats becomes immune to control effects. If the cast is cance
 
 If Detona successfully devours an enemy, he immediately gains max stacks of Big Guy.
 
-## Counters
+## Barats counters
 
-### Counters
-
-Beat this hero
+### Who counters Barats
 
 [![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)
 
-### Easy targets
-
-This hero beats them
+### Who Barats counters
 
 [![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/lylia.webp)Lylia](https://boostmlbb.ru/en/heroes/lylia.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
@@ -318,6 +352,10 @@ This hero beats them
 Who counters Barats in MLBB?
 
 Over the last 30 days the toughest opponents are Silvanna, Phoveus, Argus, Alucard and Eudora.
+
+How do you play Barats?
+
+Level "So-Called Teamwork" first and take the ultimate whenever it is available. Stronger early: 60.2% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Barats' 1st Skill to maintain Big Guy stacks. Approach the enemy and use his 2nd Skill to push them close before using his Ultimate to minimize their chance of escape, then finish them off with Basic Attacks.
 
 What is Barats’s win rate right now?
 

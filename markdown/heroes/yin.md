@@ -1,6 +1,6 @@
 ---
-title: "Инь MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Инь в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Боец и убийца, 49,95% побед, тир C."
+title: "Инь MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Инь, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Иня. Боец и убийца, 49,95% побед, тир C."
 canonical: https://boostmlbb.ru/heroes/yin.html
 language: ru
 ---
@@ -27,7 +27,7 @@ C
 
 0,5%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -248,9 +248,49 @@ C
     Ударная волна
 
 
-## Навыки
+## Как играть за Иня
 
-Прокачка**Мой ход**_›_**Заряженный удар**_›_**Мгновенный взрыв**
+### Комбо Иня
+
+#### В драке
+
+1.  ![Заряженный удар](/images/mlbb/skills/yin-1.webp)1
+2.  ![Мгновенный взрыв](/images/mlbb/skills/yin-2.webp)2
+3.  Атака
+4.  ![Мой ход](/images/mlbb/skills/yin-3.webp)Ульт
+5.  ![Мгновенный взрыв](/images/mlbb/skills/yin-2.webp)2
+6.  ![Заряженный удар](/images/mlbb/skills/yin-1.webp)1
+
+Первым навыком наберите скорость, вторым подойдите к важной цели, ударьте усиленной атакой и заприте ультом. В форме Лиэ оглушите вторым и добейте первым.
+
+#### На линии
+
+1.  ![Заряженный удар](/images/mlbb/skills/yin-1.webp)1
+2.  ![Мгновенный взрыв](/images/mlbb/skills/yin-2.webp)2
+3.  Атака
+
+На линии первым ускорьтесь, вторым прыгните за спину, чтобы кольца оглушили врага на обратном пути, и ударьте усиленной атакой.
+
+### Когда сильнее всего
+
+Сильнее в долгой игре: после 20-й минуты выигрывает 51,6%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.
+
+1.  **49,5**10–12
+2.  **49,2**12–14
+3.  **49,2**14–16
+4.  **50,0**16–18
+5.  **50,7**18–20
+6.  **51,6**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/yin-3.webp)Мой ход
+2.  ![](/images/mlbb/skills/yin-1.webp)Заряженный удар
+3.  ![](/images/mlbb/skills/yin-2.webp)Мгновенный взрыв
+
+## Навыки
 
 ![](/images/mlbb/skills/yin-0.webp)Пассивный**Я разберусь**![](/images/mlbb/skills/yin-1.webp)1-й навык**Заряженный удар**![](/images/mlbb/skills/yin-2.webp)2-й навык**Мгновенный взрыв**![](/images/mlbb/skills/yin-3.webp)Ультимейт**Мой ход**
 
@@ -296,17 +336,13 @@ C
 
 Если Инь не сможет утянуть цель во владения, навык войдет в перезарядку на 3 сек.
 
-## Контрпики
+## Контрпики Иня
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Иня
 
 [![](/images/heroes/art/diggie.webp)Дигги](https://boostmlbb.ru/heroes/diggie.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)[![](/images/heroes/art/floryn.webp)Флорин](https://boostmlbb.ru/heroes/floryn.html)[![](/images/heroes/art/estes.webp)Эстес](https://boostmlbb.ru/heroes/estes.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Инь
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Селена](https://boostmlbb.ru/heroes/selena.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/hirara.webp)Хирара](https://boostmlbb.ru/heroes/hirara.html)[![](/images/heroes/art/hilda.webp)Хильда](https://boostmlbb.ru/heroes/hilda.html)[![](/images/heroes/art/lancelot.webp)Ланселот](https://boostmlbb.ru/heroes/lancelot.html)[![](/images/heroes/art/irithel.webp)Иритель](https://boostmlbb.ru/heroes/irithel.html)[![](/images/heroes/art/zhask.webp)Заск](https://boostmlbb.ru/heroes/zhask.html)[![](/images/heroes/art/grock.webp)Грок](https://boostmlbb.ru/heroes/grock.html)[![](/images/heroes/art/uranus.webp)Уранус](https://boostmlbb.ru/heroes/uranus.html)
 
@@ -322,22 +358,26 @@ C
 
 ## Частые вопросы
 
-Кто контрпик для героя «Инь» в MLBB?
+Кто контрит Иня в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Дигги, Минситтар, Иксия, Флорин и Эстес.
+За последние 30 дней Иня чаще всего обыгрывают Дигги, Минситтар, Иксия, Флорин и Эстес.
 
-Какой процент побед у героя «Инь» сейчас?
+Как играть за Иня?
+
+В первую очередь качайте «Заряженный удар», ульт берите, как только доступен. Сильнее в долгой игре: после 20-й минуты выигрывает 51,6%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой. Комбо для драки: Первым навыком наберите скорость, вторым подойдите к важной цели, ударьте усиленной атакой и заприте ультом. В форме Лиэ оглушите вторым и добейте первым.
+
+Какой процент побед у Иня сейчас?
 
 49,95% в Мифической славе за последние 7 дней и 49,67% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Инь»?
+Какая роль и линия у Иня?
 
 Боец и убийца, играет на линии опыта или в лесу.
 
-Силён ли герой «Инь» в текущей мете?
+Стоит ли брать Иня в текущей мете?
 
 Тир C, 104-е место из 133 героев и 32-е среди бойцов. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,5% матчей, 50,0% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Инь» лучшая?
+Какая сборка на Иня лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Топор войны», «Трезубец» и «Бесконечная битва», эмблема бойца с талантами «Трепет», «Мастер оружий» и «Нечестивая ярость» и заклинание «Окаменение». С ней выигрывают 57,66% матчей.

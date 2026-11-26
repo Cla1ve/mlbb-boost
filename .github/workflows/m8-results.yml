@@ -1,0 +1,59 @@
+name: M8 schedule and results
+
+# Every half hour while the M8 World Championship is near or running (December 10, 2026 to January 25, 2027):
+# reads Liquipedia (two requests), rebuilds the article only when something changed, publishes.
+on:
+  schedule:
+    - cron: "7,37 * * 12,1 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: news-generated-freshness
+  cancel-in-progress: false
+
+jobs:
+  m8:
+    if: github.repository == 'Cla1ve/mlbb-boost'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # sharp turns new team logos into small WebP files.
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Read the M8 pages
+        run: node scripts/m8-data.mjs --if-window
+
+      - name: Rebuild and publish when the data changed
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- content/m8.json && [ -z "$(git status --porcelain images/esports)" ]; then
+            echo "Nothing new."
+            exit 0
+          fi
+          npm run news:build
+          npm run news:validate
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- content/m8.json images/esports news en/news sitemap.xml news-sitemap.xml
+          git commit -m "chore(m8): update schedule and results"
+          git push origin HEAD:main
+          # GITHUB_TOKEN commits do not trigger the default Pages build.
+          gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"

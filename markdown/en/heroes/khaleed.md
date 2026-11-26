@@ -1,6 +1,6 @@
 ---
-title: "Khaleed MLBB: build, counters and skills | MLBB Boost"
-description: "Khaleed in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 48.89% win rate, tier D."
+title: "Khaleed MLBB: build, combos and counters | MLBB Boost"
+description: "Khaleed in Mobile Legends: ranked build, skill combos, how to play and who counters Khaleed. Fighter, 48.89% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/khaleed.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,48 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Khaleed
 
-Level-up**Raging Sandstorm**_›_**Desert Tornado**_›_**Quicksand Guard**
+### Khaleed combos
+
+#### Laning
+
+1.  Attack
+2.  ![Desert Tornado](/images/mlbb/skills/khaleed-1.webp)1
+3.  Attack
+
+In the laning phase, move around to fill up Khaleed's Desert Power first, then hit the opponent with the enhanced Basic Attack to slow them and follow up with 3 hits from his 1st Skill. This should fill up his Desert Power again, allowing for another enhanced Basic Attack.
+
+#### Teamfight
+
+1.  ![Raging Sandstorm](/images/mlbb/skills/khaleed-3.webp)Ult
+2.  Attack
+3.  ![Desert Tornado](/images/mlbb/skills/khaleed-1.webp)1
+4.  Attack
+5.  ![Quicksand Guard](/images/mlbb/skills/khaleed-2.webp)2
+
+In teamfights, use Khaleed's Ultimate to initiate, then hit a target with his enhanced Basic Attack and continue the attack with his 1st Skill. Once Desert Power is full again, use another Basic Attack. Then use Khaleed's 2nd Skill to recover HP and reduce incoming damage.
+
+### When strongest
+
+Even through the game, from 47.7% to 49.3%. Pick fights by your items rather than the clock.
+
+1.  **47.7**10–12
+2.  **49.0**12–14
+3.  **49.3**14–16
+4.  **49.2**16–18
+5.  **47.9**18–20
+6.  **47.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/khaleed-3.webp)Raging Sandstorm
+2.  ![](/images/mlbb/skills/khaleed-1.webp)Desert Tornado
+3.  ![](/images/mlbb/skills/khaleed-2.webp)Quicksand Guard
+
+## Skills
 
 ![](/images/mlbb/skills/khaleed-0.webp)Passive**Sand Walk**![](/images/mlbb/skills/khaleed-1.webp)Skill 1**Desert Tornado**![](/images/mlbb/skills/khaleed-2.webp)Skill 2**Quicksand Guard**![](/images/mlbb/skills/khaleed-3.webp)Ultimate**Raging Sandstorm**
 
@@ -291,17 +330,13 @@ Khaleed rides the sandstorm and charges toward a designated location, dealing 10
 
 Upon reaching the destination, Khaleed will smash the ground, dealing 450 (+160% Total Physical Attack) Physical Damage to enemies in the area and stunning them for 1s, and fully charge his Desert Power.
 
-## Counters
+## Khaleed counters
 
-### Counters
-
-Beat this hero
+### Who counters Khaleed
 
 [![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
-### Easy targets
-
-This hero beats them
+### Who Khaleed counters
 
 [![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)
 
@@ -320,6 +355,10 @@ This hero beats them
 Who counters Khaleed in MLBB?
 
 Over the last 30 days the toughest opponents are Yin, Helcurt, Hanabi, Vale and Johnson.
+
+How do you play Khaleed?
+
+Level "Desert Tornado" first and take the ultimate whenever it is available. Even through the game, from 47.7% to 49.3%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Khaleed's Ultimate to initiate, then hit a target with his enhanced Basic Attack and continue the attack with his 1st Skill. Once Desert Power is full again, use another Basic Attack. Then use Khaleed's 2nd Skill to recover HP and reduce incoming damage.
 
 What is Khaleed’s win rate right now?
 

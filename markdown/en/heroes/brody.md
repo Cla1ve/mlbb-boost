@@ -1,6 +1,6 @@
 ---
-title: "Brody MLBB: build, counters and skills | MLBB Boost"
-description: "Brody in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 49.90% win rate, tier B."
+title: "Brody MLBB: build, combos and counters | MLBB Boost"
+description: "Brody in Mobile Legends: ranked build, skill combos, how to play and who counters Brody. Marksman, 49.90% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/brody.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,50 @@ Fighter
     Quantum Charge
 
 
-## Skills
+## How to play Brody
 
-Level-up**Torn-Apart Memory**_›_**Abyss Impact**_›_**Corrosive Strike**
+### Brody combos
+
+#### Teamfight
+
+1.  ![Abyss Impact](/images/mlbb/skills/brody-1.webp)1
+2.  Attack
+3.  ![Torn-Apart Memory](/images/mlbb/skills/brody-3.webp)Ult
+4.  Attack
+5.  ![Corrosive Strike](/images/mlbb/skills/brody-2.webp)2
+6.  Attack
+
+Brody should prioritize using his 1st Skill and Basic Attack, to apply Abyss Marks on enemy heroes outside of the battle area. He can then use his Ultimate and Basic Attack to deal heavy damage and his 2nd Skill and Basic Attack to chase down enemies on the run.
+
+#### Laning
+
+1.  ![Abyss Impact](/images/mlbb/skills/brody-1.webp)1
+2.  Attack
+3.  ![Corrosive Strike](/images/mlbb/skills/brody-2.webp)2
+4.  ![Torn-Apart Memory](/images/mlbb/skills/brody-3.webp)Ult
+
+Brody can regularly use his 1st Skill and Basic Attacks to clear lanes and poke the enemy heroes. Once enemy heroes are low on HP, Brody can use his 2nd Skill to close in and stun them, then cast his Ultimate to try to finish them off.
+
+### When strongest
+
+Stronger early: 58.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **58.1**10–12
+2.  **53.8**12–14
+3.  **49.6**14–16
+4.  **46.3**16–18
+5.  **44.1**18–20
+6.  **44.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/brody-3.webp)Torn-Apart Memory
+2.  ![](/images/mlbb/skills/brody-1.webp)Abyss Impact
+3.  ![](/images/mlbb/skills/brody-2.webp)Corrosive Strike
+
+## Skills
 
 ![](/images/mlbb/skills/brody-0.webp)Passive**Abyss Corrosion**![](/images/mlbb/skills/brody-1.webp)Skill 1**Abyss Impact**![](/images/mlbb/skills/brody-2.webp)Skill 2**Corrosive Strike**![](/images/mlbb/skills/brody-3.webp)Ultimate**Torn-Apart Memory**
 
@@ -290,17 +331,13 @@ Brody locks onto all enemies within 8 unit(s), dealing 216 (+165% Extra Physical
 
 For each target with Abyss Mark stacks, all stacks are consumed, dealing additional Physical Damage equal to 94 (+72% Extra Physical Attack) (+ 4% of the target's lost ) per stack.
 
-## Counters
+## Brody counters
 
-### Counters
-
-Beat this hero
+### Who counters Brody
 
 [![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)
 
-### Easy targets
-
-This hero beats them
+### Who Brody counters
 
 [![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)
 
@@ -319,6 +356,10 @@ This hero beats them
 Who counters Brody in MLBB?
 
 Over the last 30 days the toughest opponents are Karina, Belerick, Irithel, Natalia and Joy.
+
+How do you play Brody?
+
+Level "Abyss Impact" first and take the ultimate whenever it is available. Stronger early: 58.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Brody should prioritize using his 1st Skill and Basic Attack, to apply Abyss Marks on enemy heroes outside of the battle area. He can then use his Ultimate and Basic Attack to deal heavy damage and his 2nd Skill and Basic Attack to chase down enemies on the run.
 
 What is Brody’s win rate right now?
 

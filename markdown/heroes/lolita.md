@@ -1,6 +1,6 @@
 ---
-title: "Лолита MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Лолита в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Танк и поддержка, 52,38% побед, тир D."
+title: "Лолита MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Лолита, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Лолиту. Танк и поддержка, 52,38% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/lolita.html
 language: ru
 ---
@@ -27,7 +27,7 @@ D
 
 0,2%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -247,9 +247,47 @@ D
     Фокус-метка
 
 
-## Навыки
+## Как играть за Лолиту
 
-Прокачка**Взрыв Ноумена**_›_**Мощный рывок**_›_**Отражающий щит**
+### Комбо Лолиты
+
+#### В драке
+
+1.  ![Отражающий щит](/images/mlbb/skills/lolita-2.webp)2
+2.  ![Мощный рывок](/images/mlbb/skills/lolita-1.webp)1
+3.  Атака
+4.  ![Взрыв Ноумена](/images/mlbb/skills/lolita-3.webp)Ульт
+
+В драке отразите дальние атаки вторым навыком, влетите первым в гущу врагов, оглушите усиленной атакой и добавьте ульт для урона и контроля. Добивайте вместе с командой.
+
+#### На линии
+
+1.  ![Мощный рывок](/images/mlbb/skills/lolita-1.webp)1
+2.  Атака
+3.  ![Отражающий щит](/images/mlbb/skills/lolita-2.webp)2
+
+На линии оглушите врага первым навыком и усиленной атакой, затем вторым отражайте дальние атаки.
+
+### Когда сильнее всего
+
+Сила ровная всю игру, от 52,0% до 54,3%. Выбирайте драки по готовым предметам, а не по минутам.
+
+1.  **53,7**10–12
+2.  **53,9**12–14
+3.  **54,3**14–16
+4.  **53,9**16–18
+5.  **53,6**18–20
+6.  **52,0**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/lolita-3.webp)Взрыв Ноумена
+2.  ![](/images/mlbb/skills/lolita-1.webp)Мощный рывок
+3.  ![](/images/mlbb/skills/lolita-2.webp)Отражающий щит
+
+## Навыки
 
 ![](/images/mlbb/skills/lolita-0.webp)Пассивный**Энергетическое ядро Ноумена**![](/images/mlbb/skills/lolita-1.webp)1-й навык**Мощный рывок**![](/images/mlbb/skills/lolita-2.webp)2-й навык**Отражающий щит**![](/images/mlbb/skills/lolita-3.webp)Ультимейт**Взрыв Ноумена**
 
@@ -289,17 +327,13 @@ D
 
 **Повторное использование:** Лолита немедленно прекращает подготовку и бьет молотом по земле.
 
-## Контрпики
+## Контрпики Лолиты
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Лолиту
 
 [![](/images/heroes/art/cyclops.webp)Циклоп](https://boostmlbb.ru/heroes/cyclops.html)[![](/images/heroes/art/edith.webp)Эдит](https://boostmlbb.ru/heroes/edith.html)[![](/images/heroes/art/change.webp)Чан'Э](https://boostmlbb.ru/heroes/change.html)[![](/images/heroes/art/bane.webp)Бэйн](https://boostmlbb.ru/heroes/bane.html)[![](/images/heroes/art/harley.webp)Харли](https://boostmlbb.ru/heroes/harley.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Лолита
 
 [![](/images/heroes/art/nana.webp)Нана](https://boostmlbb.ru/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Вексана](https://boostmlbb.ru/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Минотавр](https://boostmlbb.ru/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Атлас](https://boostmlbb.ru/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Фрейя](https://boostmlbb.ru/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Эсмеральда](https://boostmlbb.ru/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Клауд](https://boostmlbb.ru/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Кадита](https://boostmlbb.ru/heroes/kadita.html)[![](/images/heroes/art/ixia.webp)Иксия](https://boostmlbb.ru/heroes/ixia.html)
 
@@ -315,22 +349,26 @@ D
 
 ## Частые вопросы
 
-Кто контрпик для героя «Лолита» в MLBB?
+Кто контрит Лолиту в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Циклоп, Эдит, Чан'Э, Бэйн и Харли.
+За последние 30 дней Лолиту чаще всего обыгрывают Циклоп, Эдит, Чан'Э, Бэйн и Харли.
 
-Какой процент побед у героя «Лолита» сейчас?
+Как играть за Лолиту?
+
+В первую очередь качайте «Мощный рывок», ульт берите, как только доступен. Сила ровная всю игру, от 52,0% до 54,3%. Выбирайте драки по готовым предметам, а не по минутам. Комбо для драки: В драке отразите дальние атаки вторым навыком, влетите первым в гущу врагов, оглушите усиленной атакой и добавьте ульт для урона и контроля. Добивайте вместе с командой.
+
+Какой процент побед у Лолиты сейчас?
 
 52,38% в Мифической славе за последние 7 дней и 53,29% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Лолита»?
+Какая роль и линия у Лолиты?
 
 Танк и поддержка, играет в роуме.
 
-Силён ли герой «Лолита» в текущей мете?
+Стоит ли брать Лолиту в текущей мете?
 
 Тир D, 122-е место из 133 героев и 22-е среди танков. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 0,2% матчей, 52,4% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Лолита» лучшая?
+Какая сборка на Лолиту лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Фляга Оазиса», «Господство льда» и «Сияющая броня», эмблема поддержки с талантами «Прочность», «Стойкость» и «Ударная волна» и заклинание «Восстановление». С ней выигрывают 60,85% матчей.

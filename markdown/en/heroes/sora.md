@@ -1,6 +1,6 @@
 ---
-title: "Sora MLBB: build, counters and skills | MLBB Boost"
-description: "Sora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.60% win rate, tier B."
+title: "Sora MLBB: build, combos and counters | MLBB Boost"
+description: "Sora in Mobile Legends: ranked build, skill combos, how to play and who counters Sora. Fighter and assassin, 49.60% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/sora.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 3.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,54 @@ Fighter
     Concussive Blast
 
 
-## Skills
+## How to play Sora
 
-Level-up**Shifting Skies**_›_**Sundering Strike**_›_**Windstride**
+### Sora combos
+
+#### Teamfight
+
+1.  ![Windstride](/images/mlbb/skills/sora-2.webp)2
+2.  ![Shifting Skies](/images/mlbb/skills/sora-3.webp)Ult
+3.  ![Sundering Strike](/images/mlbb/skills/sora-1.webp)1
+4.  ![Windstride](/images/mlbb/skills/sora-2.webp)2
+5.  Attack
+6.  ![Shifting Skies](/images/mlbb/skills/sora-3.webp)Ult
+
+In mid-to-late game teamfights, Sora is able to adapt to different situations. He can ascend to Thunder form to dive the enemy backline, or Torrent form to become a CC machine and take control of the battlefield.
+
+#### Laning
+
+1.  ![Windstride](/images/mlbb/skills/sora-2.webp)2
+2.  ![Sundering Strike](/images/mlbb/skills/sora-1.webp)1
+3.  ![Shifting Skies](/images/mlbb/skills/sora-3.webp)Ult
+4.  Attack
+5.  ![Windstride](/images/mlbb/skills/sora-2.webp)2
+6.  ![Sundering Strike](/images/mlbb/skills/sora-1.webp)1
+7.  Attack
+8.  ![Shifting Skies](/images/mlbb/skills/sora-3.webp)Ult
+
+When the opponent is focused on clearing Minions, poke them with Sora's 1st Skill, then use his 2nd Skill to create distance. Use the mobility from his 1st and 2nd Skill to effectively kite enemies. Sora's damage is reliant on hitting with his 1st Skill.
+
+### When strongest
+
+Stronger early: 54.4% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **54.4**10–12
+2.  **51.6**12–14
+3.  **49.7**14–16
+4.  **47.5**16–18
+5.  **46.6**18–20
+6.  **46.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/sora-3.webp)Shifting Skies
+2.  ![](/images/mlbb/skills/sora-1.webp)Sundering Strike
+3.  ![](/images/mlbb/skills/sora-2.webp)Windstride
+
+## Skills
 
 ![](/images/mlbb/skills/sora-0.webp)Passive**Mystic Surge**![](/images/mlbb/skills/sora-1.webp)Skill 1**Sundering Strike**![](/images/mlbb/skills/sora-2.webp)Skill 2**Windstride**![](/images/mlbb/skills/sora-3.webp)Ultimate**Shifting Skies**
 
@@ -289,17 +334,13 @@ Swipe left to ascend into Thunder for 10s. Sora gains a brief bonus Movement Spe
 
 Swipe right to ascend into Torrent for 10s. Sora gains Control Immunity. After a short delay, he pulls nearby enemies in and deals 250 (+8% Max HP) Physical Damage.
 
-## Counters
+## Sora counters
 
-### Counters
-
-Beat this hero
+### Who counters Sora
 
 [![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
-### Easy targets
-
-This hero beats them
+### Who Sora counters
 
 [![](/images/heroes/art/martis.webp)Martis](https://boostmlbb.ru/en/heroes/martis.html)
 
@@ -318,6 +359,10 @@ This hero beats them
 Who counters Sora in MLBB?
 
 Over the last 30 days the toughest opponents are Estes, Popol and Kupa, Rafaela, Karina and Lolita.
+
+How do you play Sora?
+
+Level "Sundering Strike" first and take the ultimate whenever it is available. Stronger early: 54.4% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In mid-to-late game teamfights, Sora is able to adapt to different situations. He can ascend to Thunder form to dive the enemy backline, or Torrent form to become a CC machine and take control of the battlefield.
 
 What is Sora’s win rate right now?
 

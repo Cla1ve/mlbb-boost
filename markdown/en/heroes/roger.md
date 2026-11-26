@@ -1,6 +1,6 @@
 ---
-title: "Roger MLBB: build, counters and skills | MLBB Boost"
-description: "Roger in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and marksman, 46.34% win rate, tier D."
+title: "Roger MLBB: build, combos and counters | MLBB Boost"
+description: "Roger in Mobile Legends: ranked build, skill combos, how to play and who counters Roger. Fighter and marksman, 46.34% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/roger.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,51 @@ Assassin
     Killing Spree
 
 
-## Skills
+## How to play Roger
 
-Level-up**Wolf Transformation**_›_**Open Fire**_›_**Hunter's Steps**
+### Roger combos
+
+#### Teamfight
+
+1.  ![Open Fire](/images/mlbb/skills/roger-1.webp)1
+2.  ![Hunter's Steps](/images/mlbb/skills/roger-2.webp)2
+3.  ![Wolf Transformation](/images/mlbb/skills/roger-3.webp)Ult
+4.  ![Hunter's Steps](/images/mlbb/skills/roger-2.webp)2
+5.  ![Open Fire](/images/mlbb/skills/roger-1.webp)1
+
+In teamfights, use Roger's 1st Skill to whittle down enemies from afar while using his 2nd Skill to maintain good positioning. When both sides have engaged, use his Ultimate to go for the enemy's back line. Use his 2nd Skill for extra Attack Speed and his 1st Skill to secure the kill.
+
+#### Laning
+
+1.  ![Hunter's Steps](/images/mlbb/skills/roger-2.webp)2
+2.  ![Open Fire](/images/mlbb/skills/roger-1.webp)1
+3.  ![Wolf Transformation](/images/mlbb/skills/roger-3.webp)Ult
+4.  ![Hunter's Steps](/images/mlbb/skills/roger-2.webp)2
+5.  Attack
+6.  ![Open Fire](/images/mlbb/skills/roger-1.webp)1
+
+In the laning phase, Roger should poke the enemy while in his Human form. Use his 2nd Skill for extra Movement Speed for an angle to hit with his 1st Skill. Use his Ultimate to close in on the enemy, followed by his 2nd Skill for Attack Speed and tear into them with Basic Attacks before finishing them off with his 1st Skill.
+
+### When strongest
+
+Even through the game, from 47.5% to 51.1%. Pick fights by your items rather than the clock.
+
+1.  **47.5**10–12
+2.  **50.6**12–14
+3.  **51.1**14–16
+4.  **50.7**16–18
+5.  **50.2**18–20
+6.  **50.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/roger-3.webp)Wolf Transformation
+2.  ![](/images/mlbb/skills/roger-1.webp)Open Fire
+3.  ![](/images/mlbb/skills/roger-2.webp)Hunter's Steps
+
+## Skills
 
 ![](/images/mlbb/skills/roger-0.webp)Passive**Full Moon Curse**![](/images/mlbb/skills/roger-1.webp)Skill 1**Open Fire**![](/images/mlbb/skills/roger-2.webp)Skill 2**Hunter's Steps**![](/images/mlbb/skills/roger-3.webp)Ultimate**Wolf Transformation**
 
@@ -294,11 +336,9 @@ Roger lunges in the target direction and turns into wolf form, dealing 150 (+100
 
 **Passive:** In wolf form, Roger gains 20 and 25 Movement Speed.
 
-## Counters
+## Roger counters
 
-### Counters
-
-Beat this hero
+### Who counters Roger
 
 [![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
@@ -317,6 +357,10 @@ Beat this hero
 Who counters Roger in MLBB?
 
 Over the last 30 days the toughest opponents are Harley, Gusion, Silvanna, Yin and Helcurt.
+
+How do you play Roger?
+
+Level "Open Fire" first and take the ultimate whenever it is available. Even through the game, from 47.5% to 51.1%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Roger's 1st Skill to whittle down enemies from afar while using his 2nd Skill to maintain good positioning. When both sides have engaged, use his Ultimate to go for the enemy's back line. Use his 2nd Skill for extra Attack Speed and his 1st Skill to secure the kill.
 
 What is Roger’s win rate right now?
 

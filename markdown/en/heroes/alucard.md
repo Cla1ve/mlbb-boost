@@ -1,6 +1,6 @@
 ---
-title: "Alucard MLBB: build, counters and skills | MLBB Boost"
-description: "Alucard in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 49.37% win rate, tier C."
+title: "Alucard MLBB: build, combos and counters | MLBB Boost"
+description: "Alucard in Mobile Legends: ranked build, skill combos, how to play and who counters Alucard. Fighter and assassin, 49.37% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/alucard.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -187,9 +187,51 @@ Assassin
     Temporal Reign
 
 
-## Skills
+## How to play Alucard
 
-Level-up**Fission Wave**_›_**Whirling Smash**_›_**Groundsplitter**
+### Alucard combos
+
+#### Teamfight
+
+1.  ![Fission Wave](/images/mlbb/skills/alucard-3.webp)Ult
+2.  Attack
+3.  ![Groundsplitter](/images/mlbb/skills/alucard-1.webp)1
+4.  Attack
+5.  ![Whirling Smash](/images/mlbb/skills/alucard-2.webp)2
+6.  Attack
+7.  ![Fission Wave](/images/mlbb/skills/alucard-3.webp)Ult
+
+In teamfights, Alucard can cast his ULTIMATE to increase Lifesteal and mark enemies and then switch between 1st Skill and 2nd Skill to follow Basic Attacks. Finally, use his ULTIMATE again for reaping kills.
+
+#### Laning
+
+1.  ![Groundsplitter](/images/mlbb/skills/alucard-1.webp)1
+2.  Attack
+3.  ![Whirling Smash](/images/mlbb/skills/alucard-2.webp)2
+4.  Attack
+
+In the laning phase, Alucard can use his 1st Skill to deal damage and slow enemies first, and follow it with Basic Attacks for strikes. Then, he can use his 2nd Skill and follow it with Basic Attacks for more strikes.
+
+### When strongest
+
+Stronger late: 51.4% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **46.2**10–12
+2.  **49.2**12–14
+3.  **50.3**14–16
+4.  **50.9**16–18
+5.  **51.4**18–20
+6.  **51.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/alucard-3.webp)Fission Wave
+2.  ![](/images/mlbb/skills/alucard-2.webp)Whirling Smash
+3.  ![](/images/mlbb/skills/alucard-1.webp)Groundsplitter
+
+## Skills
 
 ![](/images/mlbb/skills/alucard-0.webp)Passive**Pursuit**![](/images/mlbb/skills/alucard-1.webp)Skill 1**Groundsplitter**![](/images/mlbb/skills/alucard-2.webp)Skill 2**Whirling Smash**![](/images/mlbb/skills/alucard-3.webp)Ultimate**Fission Wave**
 
@@ -229,17 +271,13 @@ Cooldown **40 s**
 
 **Use Again:** Alucard releases a powerful shockwave forward, dealing 400 (+200% Extra Physical Attack) Physical Damage.
 
-## Counters
+## Alucard counters
 
-### Counters
-
-Beat this hero
+### Who counters Alucard
 
 [![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/harith.webp)Harith](https://boostmlbb.ru/en/heroes/harith.html)
 
-### Easy targets
-
-This hero beats them
+### Who Alucard counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/barats.webp)Barats](https://boostmlbb.ru/en/heroes/barats.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/akai.webp)Akai](https://boostmlbb.ru/en/heroes/akai.html)
 
@@ -258,6 +296,10 @@ This hero beats them
 Who counters Alucard in MLBB?
 
 Over the last 30 days the toughest opponents are Natalia, Sun, Mathilda, Saber and Harith.
+
+How do you play Alucard?
+
+Level "Whirling Smash" first and take the ultimate whenever it is available. Stronger late: 51.4% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Alucard can cast his ULTIMATE to increase Lifesteal and mark enemies and then switch between 1st Skill and 2nd Skill to follow Basic Attacks. Finally, use his ULTIMATE again for reaping kills.
 
 What is Alucard’s win rate right now?
 

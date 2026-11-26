@@ -1,6 +1,6 @@
 ---
-title: "Hayabusa MLBB: build, counters and skills | MLBB Boost"
-description: "Hayabusa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 48.39% win rate, tier C."
+title: "Hayabusa MLBB: build, combos and counters | MLBB Boost"
+description: "Hayabusa in Mobile Legends: ranked build, skill combos, how to play and who counters Hayabusa. Assassin, 48.39% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hayabusa.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,52 @@ Assassin
     War Cry
 
 
-## Skills
+## How to play Hayabusa
 
-Level-up**Ougi: Shadow Kill**_›_**Ninjutsu: Phantom Shuriken**_›_**Ninjutsu: Quad Shadow**
+### Hayabusa combos
+
+#### Teamfight
+
+1.  ![Ninjutsu: Quad Shadow](/images/mlbb/skills/hayabusa-2.webp)2
+2.  ![Ninjutsu: Phantom Shuriken](/images/mlbb/skills/hayabusa-1.webp)1
+3.  ![Ninjutsu: Quad Shadow](/images/mlbb/skills/hayabusa-2.webp)2
+4.  ![Ougi: Shadow Kill](/images/mlbb/skills/hayabusa-3.webp)Ult
+5.  ![Ninjutsu: Phantom Shuriken](/images/mlbb/skills/hayabusa-1.webp)1
+6.  ![Ninjutsu: Quad Shadow](/images/mlbb/skills/hayabusa-2.webp)2
+
+In teamfights, Hayabusa should use his 2nd Skill to hit an enemy with his phantom, then use his 1st and 2nd Skill on the target to apply Shadow Mark before unleashing his Ultimate. Afterwards, use his 1st Skill to finish off the enemy and escape with his 2nd Skill.
+
+#### Laning
+
+1.  ![Ninjutsu: Quad Shadow](/images/mlbb/skills/hayabusa-2.webp)2
+2.  ![Ninjutsu: Phantom Shuriken](/images/mlbb/skills/hayabusa-1.webp)1
+3.  ![Ninjutsu: Quad Shadow](/images/mlbb/skills/hayabusa-2.webp)2
+4.  ![Ninjutsu: Quad Shadow](/images/mlbb/skills/hayabusa-2.webp)2
+5.  ![Ninjutsu: Phantom Shuriken](/images/mlbb/skills/hayabusa-1.webp)1
+6.  ![Ougi: Shadow Kill](/images/mlbb/skills/hayabusa-3.webp)Ult
+
+In the laning phase, use Hayabusa's 2nd Skill to hit the enemy with a phantom, then strike with his 1st Skill, and use his 2nd Skill to blink away. Wait until Hayabusa's 1st Skill is off cooldown, then blink back to the enemy with his 2nd Skill and strike again with his 1st Skill followed by his Ultimate to secure the kill.
+
+### When strongest
+
+Even through the game, from 47.8% to 49.0%. Pick fights by your items rather than the clock.
+
+1.  **48.9**10–12
+2.  **48.3**12–14
+3.  **47.8**14–16
+4.  **48.0**16–18
+5.  **48.3**18–20
+6.  **49.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/hayabusa-3.webp)Ougi: Shadow Kill
+2.  ![](/images/mlbb/skills/hayabusa-1.webp)Ninjutsu: Phantom Shuriken
+3.  ![](/images/mlbb/skills/hayabusa-2.webp)Ninjutsu: Quad Shadow
+
+## Skills
 
 ![](/images/mlbb/skills/hayabusa-0.webp)Passive**Ninjutsu: Trace of Shadow**![](/images/mlbb/skills/hayabusa-1.webp)Skill 1**Ninjutsu: Phantom Shuriken**![](/images/mlbb/skills/hayabusa-2.webp)Skill 2**Ninjutsu: Quad Shadow**![](/images/mlbb/skills/hayabusa-3.webp)Ultimate**Ougi: Shadow Kill**
 
@@ -289,17 +332,13 @@ Hayabusa blends into the shadows and launches 6 single-target attacks on enemies
 
 The attacks prioritize enemies with Shadow Mark and each will consume a mark to deal 90 (+40% Extra Physical Attack) extra Physical Damage. Shadow Kill does not apply Shadow Mark.
 
-## Counters
+## Hayabusa counters
 
-### Counters
-
-Beat this hero
+### Who counters Hayabusa
 
 [![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)
 
-### Easy targets
-
-This hero beats them
+### Who Hayabusa counters
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)
 
@@ -318,6 +357,10 @@ This hero beats them
 Who counters Hayabusa in MLBB?
 
 Over the last 30 days the toughest opponents are Aamon, Yve, Zhuxin, Nolan and Karrie.
+
+How do you play Hayabusa?
+
+Level "Ninjutsu: Phantom Shuriken" first and take the ultimate whenever it is available. Even through the game, from 47.8% to 49.0%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, Hayabusa should use his 2nd Skill to hit an enemy with his phantom, then use his 1st and 2nd Skill on the target to apply Shadow Mark before unleashing his Ultimate. Afterwards, use his 1st Skill to finish off the enemy and escape with his 2nd Skill.
 
 What is Hayabusa’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Yi Sun-shin MLBB: build, counters and skills | MLBB Boost"
-description: "Yi Sun-shin in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and marksman, 48.52% win rate, tier B."
+title: "Yi Sun-shin MLBB: build, combos and counters | MLBB Boost"
+description: "Yi Sun-shin in Mobile Legends: ranked build, skill combos, how to play and who counters Yi Sun-shin. Assassin and marksman, 48.52% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/yi-sun-shin.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,52 @@ Assassin
     Killing Spree
 
 
-## Skills
+## How to play Yi Sun-shin
 
-Level-up**Mountain Shocker**_›_**Traceless**_›_**Blood Floods**
+### Yi Sun-shin combos
+
+#### Teamfight
+
+1.  ![Mountain Shocker](/images/mlbb/skills/yi-sun-shin-3.webp)Ult
+2.  ![Traceless](/images/mlbb/skills/yi-sun-shin-1.webp)1
+3.  Attack
+4.  ![Traceless](/images/mlbb/skills/yi-sun-shin-1.webp)1
+5.  Attack
+6.  ![Blood Floods](/images/mlbb/skills/yi-sun-shin-2.webp)2
+7.  Attack
+
+In teamfights, start with Yi Sun-shin's Ultimate, then use his enhanced 1st Skill to send his Turtle Ship into the enemy to stun them. Follow up with ranged Basic Attacks, then use his 1st Skill to get close and perform 2 enhanced Basic Attacks. Tap his 2nd Skill to perform another slash, and secure the kill with 2 more enhanced Basic Attacks.
+
+#### Laning
+
+1.  Attack
+2.  ![Traceless](/images/mlbb/skills/yi-sun-shin-1.webp)1
+3.  Attack
+4.  ![Blood Floods](/images/mlbb/skills/yi-sun-shin-2.webp)2
+5.  Attack
+
+In the laning phase, Yi Sun-shin should use his enhanced Basic Attacks from a distance, then close in with his 1st Skill and slash the enemy with two enhanced Basic Attacks. Follow up with a slash from his 2nd Skill and finish with 2 more enhanced Basic Attacks.
+
+### When strongest
+
+Stronger early: 52.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **52.1**10–12
+2.  **49.0**12–14
+3.  **47.9**14–16
+4.  **47.8**16–18
+5.  **48.0**18–20
+6.  **48.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/yi-sun-shin-3.webp)Mountain Shocker
+2.  ![](/images/mlbb/skills/yi-sun-shin-1.webp)Traceless
+3.  ![](/images/mlbb/skills/yi-sun-shin-2.webp)Blood Floods
+
+## Skills
 
 ![](/images/mlbb/skills/yi-sun-shin-0.webp)Passive**Heavenly Vow**![](/images/mlbb/skills/yi-sun-shin-1.webp)Skill 1**Traceless**![](/images/mlbb/skills/yi-sun-shin-2.webp)Skill 2**Blood Floods**![](/images/mlbb/skills/yi-sun-shin-3.webp)Ultimate**Mountain Shocker**
 
@@ -296,11 +339,9 @@ Yi Sun-shin summons a turtle ship and reveals the whole map for 2s. The turtle s
 
 Casting this skill immediately triggers Weapon Mastery.
 
-## Counters
+## Yi Sun-shin counters
 
-### Counters
-
-Beat this hero
+### Who counters Yi Sun-shin
 
 [![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/thamuz.webp)Thamuz](https://boostmlbb.ru/en/heroes/thamuz.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)
 
@@ -319,6 +360,10 @@ Beat this hero
 Who counters Yi Sun-shin in MLBB?
 
 Over the last 30 days the toughest opponents are Khufra, Thamuz, Benedetta, Melissa and Nana.
+
+How do you play Yi Sun-shin?
+
+Level "Traceless" first and take the ultimate whenever it is available. Stronger early: 52.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, start with Yi Sun-shin's Ultimate, then use his enhanced 1st Skill to send his Turtle Ship into the enemy to stun them. Follow up with ranged Basic Attacks, then use his 1st Skill to get close and perform 2 enhanced Basic Attacks. Tap his 2nd Skill to perform another slash, and secure the kill with 2 more enhanced Basic Attacks.
 
 What is Yi Sun-shin’s win rate right now?
 

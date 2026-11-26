@@ -157,10 +157,6 @@ body:has(.arena-profile) { overflow-x: clip; overflow-y: visible; }
 .builds .build + .build { margin-top: 16px; }
 
 /* ---------- Skills ---------- */
-.hs-order { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 16px; padding: 0; border: 0; background: none; border-radius: 0; color: var(--muted); font-size: 1rem; }
-.hs-order span { margin-right: 8px; }
-.hs-order b { padding: 6px 12px; border: 1px solid var(--line); border-radius: 8px; color: var(--arena-ink); font-weight: 500; }
-.hs-order i { color: #66798b; font-style: normal; }
 .skills { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 16px; align-items: start; }
 .skill-tabs { display: grid; gap: 8px; }
 .skill-tab {
@@ -438,4 +434,36 @@ body:has(.arena-profile) { overflow-x: clip; overflow-y: visible; }
   .pick .gear--sm img, .pick .gear--round img { width: 40px; height: 40px; }
   .list-lead { font-size: 1.0625rem; }
   .list-chips a { padding: 0 12px; }
+}
+
+/* How to play: combos as skill sequences, win rate by match length, level-up order. */
+.howto { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 16px; align-items: start; }
+.howto__side { display: grid; gap: 16px; }
+.howto .ov-card h3 { margin: 0 0 16px; font-size: 1.125rem; font-weight: 600; color: var(--arena-ink); }
+.howto .ov-card > p { margin: 0 0 18px; color: var(--soft); line-height: 1.6; }
+.combo + .combo { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--line); }
+.combo h4 { margin: 0 0 12px; color: var(--muted); font-size: .9375rem; font-weight: 600; }
+.combo__steps { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px 0; margin: 0; padding: 0; list-style: none; }
+.combo__step { position: relative; display: grid; justify-items: center; gap: 4px; min-width: 64px; padding-right: 16px; }
+.combo__step:not(:last-child)::after { content: "›"; position: absolute; right: 4px; top: 12px; color: #6d8196; font-size: 1.125rem; }
+.combo__icon { display: grid; place-items: center; width: 48px; height: 48px; border: 1px solid var(--line); border-radius: 10px; background: #14293f; overflow: hidden; color: var(--soft); }
+.combo__icon img { width: 100%; height: 100%; object-fit: cover; }
+.combo__step--ult .combo__icon { border: 2px solid var(--arena-accent); }
+.combo__step small { color: var(--muted); font-size: .75rem; }
+.combo p { margin: 12px 0 0; color: var(--soft); font-size: 1rem; line-height: 1.6; }
+.time-bars { position: relative; display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 8px; margin: 0; padding: 0; list-style: none; text-align: center; }
+.time-bars li { display: grid; justify-items: center; gap: 6px; color: var(--muted); font-size: .75rem; }
+.time-bars strong { color: var(--arena-ink); font-family: var(--display); font-size: .875rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.time-bars .rank-bars__col { height: 96px; max-width: 34px; }
+.level-order { display: grid; gap: 10px; margin: 0; padding: 0; counter-reset: level; list-style: none; }
+.level-order li { display: grid; grid-template-columns: 20px 40px minmax(0, 1fr); align-items: center; gap: 10px; color: var(--arena-ink); counter-increment: level; }
+.level-order li::before { content: counter(level); color: var(--muted); font-family: var(--display); font-weight: 600; }
+.level-order img { width: 40px; height: 40px; border-radius: 8px; }
+@media (max-width: 900px) {
+  .howto { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 420px) {
+  .combo__step { min-width: 56px; padding-right: 12px; }
+  .combo__icon { width: 44px; height: 44px; }
+  .time-bars { gap: 4px; }
 }

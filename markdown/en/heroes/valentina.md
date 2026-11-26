@@ -1,6 +1,6 @@
 ---
-title: "Valentina MLBB: build, counters and skills | MLBB Boost"
-description: "Valentina in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 44.64% win rate, tier B."
+title: "Valentina MLBB: build, combos and counters | MLBB Boost"
+description: "Valentina in Mobile Legends: ranked build, skill combos, how to play and who counters Valentina. Mage, 44.64% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/valentina.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,50 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Valentina
 
-Level-up**I Am You**_›_**Shadow Strike**_›_**Arcane Shade**
+### Valentina combos
+
+#### Teamfight
+
+1.  ![I Am You](/images/mlbb/skills/valentina-3.webp)Ult
+2.  ![Arcane Shade](/images/mlbb/skills/valentina-2.webp)2
+3.  ![Shadow Strike](/images/mlbb/skills/valentina-1.webp)1
+4.  ![Arcane Shade](/images/mlbb/skills/valentina-2.webp)2
+5.  ![Shadow Strike](/images/mlbb/skills/valentina-1.webp)1
+6.  ![I Am You](/images/mlbb/skills/valentina-3.webp)Ult
+
+Copy an Ultimate or use 2nd Skill for better positioning. Use 1st Skill and reset its cooldown with 2nd Skill, then Terrify the target and use her copied Ultimate to secure the kill.
+
+#### Laning
+
+1.  ![Shadow Strike](/images/mlbb/skills/valentina-1.webp)1
+2.  ![Arcane Shade](/images/mlbb/skills/valentina-2.webp)2
+3.  ![Arcane Shade](/images/mlbb/skills/valentina-2.webp)2
+4.  ![Shadow Strike](/images/mlbb/skills/valentina-1.webp)1
+
+Use 1st Skill to poke, then 2nd Skill to refresh its CD, and 1st Skill on the same enemy again to cause Terrify.
+
+### When strongest
+
+Even through the game, from 43.0% to 45.1%. Pick fights by your items rather than the clock.
+
+1.  **43.0**10–12
+2.  **43.8**12–14
+3.  **44.1**14–16
+4.  **44.3**16–18
+5.  **43.6**18–20
+6.  **45.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/valentina-3.webp)I Am You
+2.  ![](/images/mlbb/skills/valentina-1.webp)Shadow Strike
+3.  ![](/images/mlbb/skills/valentina-2.webp)Arcane Shade
+
+## Skills
 
 ![](/images/mlbb/skills/valentina-0.webp)Passive**Primal Force**![](/images/mlbb/skills/valentina-1.webp)Skill 1**Shadow Strike**![](/images/mlbb/skills/valentina-2.webp)Skill 2**Arcane Shade**![](/images/mlbb/skills/valentina-3.webp)Ultimate**I Am You**
 
@@ -293,17 +334,13 @@ The stolen Ultimate's level equals Valentina's own Ultimate level, and its coold
 
 If the target is a Physical Damage hero, Valentina gains (+100% Total Magic Power) for the duration. This cannot be used on an enemy Valentina.
 
-## Counters
+## Valentina counters
 
-### Counters
-
-Beat this hero
+### Who counters Valentina
 
 [![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
-### Easy targets
-
-This hero beats them
+### Who Valentina counters
 
 [![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
@@ -322,6 +359,10 @@ This hero beats them
 Who counters Valentina in MLBB?
 
 Over the last 30 days the toughest opponents are Carmilla, Atlas, X.Borg, Lukas and Lolita.
+
+How do you play Valentina?
+
+Level "Shadow Strike" first and take the ultimate whenever it is available. Even through the game, from 43.0% to 45.1%. Pick fights by your items rather than the clock. Teamfight combo: Copy an Ultimate or use 2nd Skill for better positioning. Use 1st Skill and reset its cooldown with 2nd Skill, then Terrify the target and use her copied Ultimate to secure the kill.
 
 What is Valentina’s win rate right now?
 

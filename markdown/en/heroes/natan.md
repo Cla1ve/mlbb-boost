@@ -1,6 +1,6 @@
 ---
-title: "Natan MLBB: build, counters and skills | MLBB Boost"
-description: "Natan in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 51.46% win rate, tier C."
+title: "Natan MLBB: build, combos and counters | MLBB Boost"
+description: "Natan in Mobile Legends: ranked build, skill combos, how to play and who counters Natan. Marksman, 51.46% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/natan.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,49 @@ Fighter
     Weakness Finder
 
 
-## Skills
+## How to play Natan
 
-Level-up**Entropy?**_›_**Superposition**_›_**Interference!**
+### Natan combos
+
+#### Teamfight
+
+1.  ![Entropy?](/images/mlbb/skills/natan-3.webp)Ult
+2.  ![Interference!](/images/mlbb/skills/natan-2.webp)2
+3.  ![Superposition](/images/mlbb/skills/natan-1.webp)1
+4.  Attack
+5.  ![Entropy?](/images/mlbb/skills/natan-3.webp)Ult
+
+In teamfights, summon a Reverse-Clone with Natan's Ultimate, then use his 2nd Skill followed by his 1st Skill to knockback and damage enemies, and finish with a barrage of Basic Attacks. Depending on the situation, Natan's Ultimate can also be used to chase or escape.
+
+#### Laning
+
+1.  ![Superposition](/images/mlbb/skills/natan-1.webp)1
+2.  Attack
+3.  ![Interference!](/images/mlbb/skills/natan-2.webp)2
+4.  Attack
+
+In the laning phase, use Natan's 1st Skill and Basic Attacks to chip away at the enemy. When their HP is low enough, use his 2nd Skill to knockback the enemy and finish them off with Basic Attacks.
+
+### When strongest
+
+Stronger early: 60.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **60.3**10–12
+2.  **52.7**12–14
+3.  **48.8**14–16
+4.  **47.4**16–18
+5.  **47.0**18–20
+6.  **48.6**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/natan-3.webp)Entropy?
+2.  ![](/images/mlbb/skills/natan-1.webp)Superposition
+3.  ![](/images/mlbb/skills/natan-2.webp)Interference!
+
+## Skills
 
 ![](/images/mlbb/skills/natan-0.webp)Passive**Theory of Everything**![](/images/mlbb/skills/natan-1.webp)Skill 1**Superposition**![](/images/mlbb/skills/natan-2.webp)Skill 2**Interference!**![](/images/mlbb/skills/natan-3.webp)Ultimate**Entropy?**
 
@@ -290,17 +330,13 @@ Natan summons a Reverse-Clone that lasts 10s at 6 units away. The Reverse-Clone 
 
 Each cast reduces other skills' remaining cooldowns by 50%. The Reverse-Clone will disappear if Natan is too far away.
 
-## Counters
+## Natan counters
 
-### Counters
-
-Beat this hero
+### Who counters Natan
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)
 
-### Easy targets
-
-This hero beats them
+### Who Natan counters
 
 [![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)
 
@@ -319,6 +355,10 @@ This hero beats them
 Who counters Natan in MLBB?
 
 Over the last 30 days the toughest opponents are Sun, Gloo, Zhask, Esmeralda and Johnson.
+
+How do you play Natan?
+
+Level "Superposition" first and take the ultimate whenever it is available. Stronger early: 60.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, summon a Reverse-Clone with Natan's Ultimate, then use his 2nd Skill followed by his 1st Skill to knockback and damage enemies, and finish with a barrage of Basic Attacks. Depending on the situation, Natan's Ultimate can also be used to chase or escape.
 
 What is Natan’s win rate right now?
 

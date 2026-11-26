@@ -1,6 +1,6 @@
 ---
-title: "Наталья MLBB: сборка, контрпики и навыки | MLBB Boost"
-description: "Наталья в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. Убийца, 50,33% побед, тир D."
+title: "Наталья MLBB: сборка, комбо и контрпики | MLBB Boost"
+description: "Наталья, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит Наталью. Убийца, 50,33% побед, тир D."
 canonical: https://boostmlbb.ru/heroes/natalia.html
 language: ru
 ---
@@ -27,7 +27,7 @@ D
 
 1,1%
 
-[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
+[Обзор](https://boostmlbb.ru/#overview)[Сборка](https://boostmlbb.ru/#build)[Как играть](https://boostmlbb.ru/#howto)[Навыки](https://boostmlbb.ru/#skills)[Контрпики](https://boostmlbb.ru/#draft)[История](https://boostmlbb.ru/#lore)
 
 ## Обзор
 
@@ -248,9 +248,51 @@ D
     Смертельное воспламенение
 
 
-## Навыки
+## Как играть за Наталью
 
-Прокачка**Охота**_›_**Удар когтями**_›_**Дымовая шашка**
+### Комбо Натальи
+
+#### В драке
+
+1.  Атака
+2.  ![Дымовая шашка](/images/mlbb/skills/natalia-2.webp)2
+3.  ![Удар когтями](/images/mlbb/skills/natalia-1.webp)1
+4.  ![Охота](/images/mlbb/skills/natalia-3.webp)Ульт
+5.  Атака
+6.  ![Удар когтями](/images/mlbb/skills/natalia-1.webp)1
+7.  ![Охота](/images/mlbb/skills/natalia-3.webp)Ульт
+
+В драке подкрадитесь за счёт пассивки и усиленной атаки, вторым навыком повысьте живучесть, затем первый, ульт и обычная атака на добивание.
+
+#### На линии
+
+1.  Атака
+2.  ![Дымовая шашка](/images/mlbb/skills/natalia-2.webp)2
+3.  ![Удар когтями](/images/mlbb/skills/natalia-1.webp)1
+4.  ![Удар когтями](/images/mlbb/skills/natalia-1.webp)1
+
+При ганке спрячьтесь в кустах, чтобы сработала пассивка, зайдите сзади и прыгните усиленной атакой. Замедлите вторым и догоняйте первым.
+
+### Когда сильнее всего
+
+Сильнее в долгой игре: на 18–20 минутах выигрывает 56,8%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.
+
+1.  **46,9**10–12
+2.  **51,7**12–14
+3.  **54,4**14–16
+4.  **56,3**16–18
+5.  **56,8**18–20
+6.  **56,3**20+
+
+Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%
+
+### Приоритет прокачки
+
+1.  ![](/images/mlbb/skills/natalia-3.webp)Охота
+2.  ![](/images/mlbb/skills/natalia-1.webp)Удар когтями
+3.  ![](/images/mlbb/skills/natalia-2.webp)Дымовая шашка
+
+## Навыки
 
 ![](/images/mlbb/skills/natalia-0.webp)Пассивный**Инстинкт ассасина**![](/images/mlbb/skills/natalia-1.webp)1-й навык**Удар когтями**![](/images/mlbb/skills/natalia-2.webp)2-й навык**Дымовая шашка**![](/images/mlbb/skills/natalia-3.webp)Ультимейт**Охота**
 
@@ -292,17 +334,13 @@ D
 
 **Активный:** Наталья мгновенно входит в состояние "Инстинкта ассасина". Она может накопить до 2 зарядов своего ультимейта, время накопления каждого составляет 30 сек. Убийства монстров снижают оставшееся время накопления на 50% от общего времени.
 
-## Контрпики
+## Контрпики Натальи
 
-### Контрпики
-
-Побеждают этого героя
+### Кто контрит Наталью
 
 [![](/images/heroes/art/ling.webp)Линг](https://boostmlbb.ru/heroes/ling.html)[![](/images/heroes/art/hanzo.webp)Ханзо](https://boostmlbb.ru/heroes/hanzo.html)[![](/images/heroes/art/xavier.webp)Ксавьер](https://boostmlbb.ru/heroes/xavier.html)[![](/images/heroes/art/minsitthar.webp)Минситтар](https://boostmlbb.ru/heroes/minsitthar.html)[![](/images/heroes/art/nolan.webp)Нолан](https://boostmlbb.ru/heroes/nolan.html)
 
-### Слабые цели
-
-Этот герой побеждает их
+### Кого контрит Наталья
 
 [![](/images/heroes/art/obsidia.webp)Обсидия](https://boostmlbb.ru/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Эйдора](https://boostmlbb.ru/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Цзэтянь](https://boostmlbb.ru/heroes/zetian.html)[![](/images/heroes/art/gusion.webp)Госсен](https://boostmlbb.ru/heroes/gusion.html)[![](/images/heroes/art/paquito.webp)Пакито](https://boostmlbb.ru/heroes/paquito.html)[![](/images/heroes/art/suyou.webp)Су Ё](https://boostmlbb.ru/heroes/suyou.html)[![](/images/heroes/art/chou.webp)Чу](https://boostmlbb.ru/heroes/chou.html)[![](/images/heroes/art/saber.webp)Сабер](https://boostmlbb.ru/heroes/saber.html)[![](/images/heroes/art/karina.webp)Карина](https://boostmlbb.ru/heroes/karina.html)[![](/images/heroes/art/rafaela.webp)Рафаэль](https://boostmlbb.ru/heroes/rafaela.html)
 
@@ -318,22 +356,26 @@ D
 
 ## Частые вопросы
 
-Кто контрпик для героя «Наталья» в MLBB?
+Кто контрит Наталью в MLBB?
 
-За последние 30 дней чаще всего героя обыгрывают Линг, Ханзо, Ксавьер, Минситтар и Нолан.
+За последние 30 дней Наталью чаще всего обыгрывают Линг, Ханзо, Ксавьер, Минситтар и Нолан.
 
-Какой процент побед у героя «Наталья» сейчас?
+Как играть за Наталью?
+
+В первую очередь качайте «Удар когтями», ульт берите, как только доступен. Сильнее в долгой игре: на 18–20 минутах выигрывает 56,8%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой. Комбо для драки: В драке подкрадитесь за счёт пассивки и усиленной атаки, вторым навыком повысьте живучесть, затем первый, ульт и обычная атака на добивание.
+
+Какой процент побед у Натальи сейчас?
 
 50,33% в Мифической славе за последние 7 дней и 51,11% на всех рангах за 30 дней, данные на 25 ноября 2026 года.
 
-Какая роль и линия у героя «Наталья»?
+Какая роль и линия у Натальи?
 
 Убийца, играет в лесу или в роуме.
 
-Силён ли герой «Наталья» в текущей мете?
+Стоит ли брать Наталью в текущей мете?
 
 Тир D, 103-е место из 133 героев и 23-е среди убийц. Тир учитывает, как часто героя берут и банят и как он выигрывает в Мифической славе за 7 дней: бан в 1,1% матчей, 50,3% побед. В профессиональных матчах за месяц героя драфтуют в 0,0% катков.
 
-Какая сборка на героя «Наталья» лучшая?
+Какая сборка на Наталью лучшая?
 
 Самая популярная сборка в рейтинге: ключевые предметы «Клинок семи морей», «Ярость берсерка» и «Злобный рык», эмблема убийцы с талантами «Фатальность», «Мастер-убийца» и «Смертельное воспламенение» и заклинание «Возмездие». С ней выигрывают 60,31% матчей.

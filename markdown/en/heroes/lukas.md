@@ -1,6 +1,6 @@
 ---
-title: "Lukas MLBB: build, counters and skills | MLBB Boost"
-description: "Lukas in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 50.86% win rate, tier A."
+title: "Lukas MLBB: build, combos and counters | MLBB Boost"
+description: "Lukas in Mobile Legends: ranked build, skill combos, how to play and who counters Lukas. Fighter, 50.86% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/lukas.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 30.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,51 @@ Assassin
     Temporal Reign
 
 
-## Skills
+## How to play Lukas
 
-Level-up**Unleash the Beast**_›_**Flash Combo**_›_**Flash Step**
+### Lukas combos
+
+#### Laning
+
+1.  ![Flash Step](/images/mlbb/skills/lukas-2.webp)2
+2.  Attack
+3.  Attack
+4.  ![Flash Combo](/images/mlbb/skills/lukas-1.webp)1
+5.  Attack
+
+Lukas should use his 2nd Skill to close in on the enemy, then use the enhanced Basic Attack plus another Basic Attack to get 2 stacks of Vigor. Now use his fully powered 1st Skill to inflict high damage and stun and displace the target, then back off to avoid the enemy's counterattack.
+
+#### Teamfight
+
+1.  ![Unleash the Beast](/images/mlbb/skills/lukas-3.webp)Ult
+2.  ![Flash Step](/images/mlbb/skills/lukas-2.webp)2
+3.  Attack
+4.  Attack
+5.  ![Flash Combo](/images/mlbb/skills/lukas-1.webp)1
+6.  ![Unleash the Beast](/images/mlbb/skills/lukas-3.webp)Ult
+
+In Sacred Beast form, use Lukas's 2nd Skill followed by an enhanced Basic Attack, then another Basic Attack to get 2 stacks of Vigor. Use his 1st Skill to inflict high damage and CC, and finish off with Shockwave Blast to devastate the enemy with a massive AOE attack.
+
+### When strongest
+
+Stronger late: 52.0% at 16–18 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **44.8**10–12
+2.  **48.9**12–14
+3.  **50.9**14–16
+4.  **52.0**16–18
+5.  **51.9**18–20
+6.  **51.2**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/lukas-3.webp)Unleash the Beast
+2.  ![](/images/mlbb/skills/lukas-1.webp)Flash Combo
+3.  ![](/images/mlbb/skills/lukas-2.webp)Flash Step
+
+## Skills
 
 ![](/images/mlbb/skills/lukas-0.webp)Passive**Hero's Resolve**![](/images/mlbb/skills/lukas-1.webp)Skill 1**Flash Combo**![](/images/mlbb/skills/lukas-2.webp)Skill 2**Flash Step**![](/images/mlbb/skills/lukas-3.webp)Ultimate**Unleash the Beast**
 
@@ -297,17 +339,13 @@ Ultimate
 
 **All attributes:** , , , , Attack Speed, and Attack Range.
 
-## Counters
+## Lukas counters
 
-### Counters
-
-Beat this hero
+### Who counters Lukas
 
 [![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/arlott.webp)Arlott](https://boostmlbb.ru/en/heroes/arlott.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
-### Easy targets
-
-This hero beats them
+### Who Lukas counters
 
 [![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/valentina.webp)Valentina](https://boostmlbb.ru/en/heroes/valentina.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
@@ -326,6 +364,10 @@ This hero beats them
 Who counters Lukas in MLBB?
 
 Over the last 30 days the toughest opponents are Ling, Natalia, Fanny, Arlott and Helcurt.
+
+How do you play Lukas?
+
+Level "Flash Combo" first and take the ultimate whenever it is available. Stronger late: 52.0% at 16–18 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In Sacred Beast form, use Lukas's 2nd Skill followed by an enhanced Basic Attack, then another Basic Attack to get 2 stacks of Vigor. Use his 1st Skill to inflict high damage and CC, and finish off with Shockwave Blast to devastate the enemy with a massive AOE attack.
 
 What is Lukas’s win rate right now?
 

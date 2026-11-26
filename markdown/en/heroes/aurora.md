@@ -1,6 +1,6 @@
 ---
-title: "Aurora MLBB: build, counters and skills | MLBB Boost"
-description: "Aurora in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.69% win rate, tier C."
+title: "Aurora MLBB: build, combos and counters | MLBB Boost"
+description: "Aurora in Mobile Legends: ranked build, skill combos, how to play and who counters Aurora. Mage, 48.69% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aurora.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -186,9 +186,45 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Aurora
 
-Level-up**Frigid Glacier**_›_**Hailstone Blast**_›_**Frosty Breeze**
+### Aurora combos
+
+#### Teamfight
+
+1.  ![Frigid Glacier](/images/mlbb/skills/aurora-3.webp)Ult
+2.  ![Frosty Breeze](/images/mlbb/skills/aurora-2.webp)2
+3.  ![Hailstone Blast](/images/mlbb/skills/aurora-1.webp)1
+
+In teamfights, first cast Aurora's Ultimate when the enemy is grouped, then use her 2nd Skill immediately to freeze them inside the Ultimate's AOE, and finish with her 1st Skill on the CC'ed targets for maximum damage.
+
+#### Laning
+
+1.  ![Frosty Breeze](/images/mlbb/skills/aurora-2.webp)2
+2.  ![Hailstone Blast](/images/mlbb/skills/aurora-1.webp)1
+
+In the laning phase, use Aurora's 2nd Skill to freeze the enemy, then follow up with her 1st Skill to ensure all the hits connect.
+
+### When strongest
+
+Stronger early: 50.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **50.1**10–12
+2.  **49.4**12–14
+3.  **48.9**14–16
+4.  **48.4**16–18
+5.  **48.2**18–20
+6.  **48.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/aurora-3.webp)Frigid Glacier
+2.  ![](/images/mlbb/skills/aurora-1.webp)Hailstone Blast
+3.  ![](/images/mlbb/skills/aurora-2.webp)Frosty Breeze
+
+## Skills
 
 ![](/images/mlbb/skills/aurora-0.webp)Passive**Pride of Ice**![](/images/mlbb/skills/aurora-1.webp)Skill 1**Hailstone Blast**![](/images/mlbb/skills/aurora-2.webp)Skill 2**Frosty Breeze**![](/images/mlbb/skills/aurora-3.webp)Ultimate**Frigid Glacier**
 
@@ -228,11 +264,9 @@ Aurora creates a frost path in the target direction, dealing 100 (+40% Total Mag
 
 The frost path gradually expands into a glacier that shatters at maximum size, dealing 600 (+150% Total Magic Power) Magic Damage to all enemies in the area and freezing them for 1s (increases by 0.2s for every 100 ).
 
-## Counters
+## Aurora counters
 
-### Counters
-
-Beat this hero
+### Who counters Aurora
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)
 
@@ -251,6 +285,10 @@ Beat this hero
 Who counters Aurora in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Odette, Eudora, Fredrinn and Estes.
+
+How do you play Aurora?
+
+Level "Hailstone Blast" first and take the ultimate whenever it is available. Stronger early: 50.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, first cast Aurora's Ultimate when the enemy is grouped, then use her 2nd Skill immediately to freeze them inside the Ultimate's AOE, and finish with her 1st Skill on the CC'ed targets for maximum damage.
 
 What is Aurora’s win rate right now?
 

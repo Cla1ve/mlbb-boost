@@ -1,6 +1,6 @@
 ---
-title: "Lolita MLBB: build, counters and skills | MLBB Boost"
-description: "Lolita in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and support, 52.38% win rate, tier D."
+title: "Lolita MLBB: build, combos and counters | MLBB Boost"
+description: "Lolita in Mobile Legends: ranked build, skill combos, how to play and who counters Lolita. Tank and support, 52.38% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/lolita.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Tank
     Focusing Mark
 
 
-## Skills
+## How to play Lolita
 
-Level-up**Noumenon Blast**_›_**Power Charge**_›_**Guardian's Reflection**
+### Lolita combos
+
+#### Teamfight
+
+1.  ![Guardian's Reflection](/images/mlbb/skills/lolita-2.webp)2
+2.  ![Power Charge](/images/mlbb/skills/lolita-1.webp)1
+3.  Attack
+4.  ![Noumenon Blast](/images/mlbb/skills/lolita-3.webp)Ult
+
+In teamfights, use Lolita's 2nd Skill to reflect ranged attacks, followed by her 1st Skill to charge into enemies' midst, then use her enhanced Basic Attack to stun the target and deal damage. Follow up with her Ultimate for more damage and CC, and finish off the enemy with your team.
+
+#### Laning
+
+1.  ![Power Charge](/images/mlbb/skills/lolita-1.webp)1
+2.  Attack
+3.  ![Guardian's Reflection](/images/mlbb/skills/lolita-2.webp)2
+
+In the laning phase, use Lolita's 1st Skill and enhanced Basic Attack to stun the enemy, then use her 2nd Skill to reflect ranged attacks.
+
+### When strongest
+
+Even through the game, from 52.0% to 54.3%. Pick fights by your items rather than the clock.
+
+1.  **53.7**10–12
+2.  **53.9**12–14
+3.  **54.3**14–16
+4.  **53.9**16–18
+5.  **53.6**18–20
+6.  **52.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/lolita-3.webp)Noumenon Blast
+2.  ![](/images/mlbb/skills/lolita-1.webp)Power Charge
+3.  ![](/images/mlbb/skills/lolita-2.webp)Guardian's Reflection
+
+## Skills
 
 ![](/images/mlbb/skills/lolita-0.webp)Passive**Noumenon Energy Core**![](/images/mlbb/skills/lolita-1.webp)Skill 1**Power Charge**![](/images/mlbb/skills/lolita-2.webp)Skill 2**Guardian's Reflection**![](/images/mlbb/skills/lolita-3.webp)Ultimate**Noumenon Blast**
 
@@ -289,17 +327,13 @@ Cooldown **55 Mana Cost: 100 s**
 
 **Use Again:** Lolita immediately stops charging and slams her hammer on the ground.
 
-## Counters
+## Lolita counters
 
-### Counters
-
-Beat this hero
+### Who counters Lolita
 
 [![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/edith.webp)Edith](https://boostmlbb.ru/en/heroes/edith.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)
 
-### Easy targets
-
-This hero beats them
+### Who Lolita counters
 
 [![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/vexana.webp)Vexana](https://boostmlbb.ru/en/heroes/vexana.html)[![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/freya.webp)Freya](https://boostmlbb.ru/en/heroes/freya.html)[![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/kadita.webp)Kadita](https://boostmlbb.ru/en/heroes/kadita.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)
 
@@ -318,6 +352,10 @@ This hero beats them
 Who counters Lolita in MLBB?
 
 Over the last 30 days the toughest opponents are Cyclops, Edith, Chang'e, Bane and Harley.
+
+How do you play Lolita?
+
+Level "Power Charge" first and take the ultimate whenever it is available. Even through the game, from 52.0% to 54.3%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Lolita's 2nd Skill to reflect ranged attacks, followed by her 1st Skill to charge into enemies' midst, then use her enhanced Basic Attack to stun the target and deal damage. Follow up with her Ultimate for more damage and CC, and finish off the enemy with your team.
 
 What is Lolita’s win rate right now?
 

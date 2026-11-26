@@ -1,6 +1,6 @@
 ---
-title: "Cyclops MLBB: build, counters and skills | MLBB Boost"
-description: "Cyclops in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 51.13% win rate, tier C."
+title: "Cyclops MLBB: build, combos and counters | MLBB Boost"
+description: "Cyclops in Mobile Legends: ranked build, skill combos, how to play and who counters Cyclops. Mage, 51.13% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/cyclops.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Cyclops
 
-Level-up**Star Power Lockdown**_›_**Planets Attack**_›_**Stardust Shock**
+### Cyclops combos
+
+#### Teamfight
+
+1.  ![Star Power Lockdown](/images/mlbb/skills/cyclops-3.webp)Ult
+2.  ![Planets Attack](/images/mlbb/skills/cyclops-2.webp)2
+3.  ![Stardust Shock](/images/mlbb/skills/cyclops-1.webp)1
+
+In teamfights, Cyclops should control the target enemy with his Ultimate, close in with his 2nd Skill, then finish off the target with his 1st Skill.
+
+#### Laning
+
+1.  ![Planets Attack](/images/mlbb/skills/cyclops-2.webp)2
+2.  ![Stardust Shock](/images/mlbb/skills/cyclops-1.webp)1
+
+Cyclops can use his 2nd Skill to close in on enemy heroes then hit them with both his 1st Skill and the spheres summoned by his 2nd Skill. This combo is very effective against enemy heroes.
+
+### When strongest
+
+Stronger late: 54.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **46.5**10–12
+2.  **49.6**12–14
+3.  **52.3**14–16
+4.  **53.9**16–18
+5.  **54.8**18–20
+6.  **53.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/cyclops-3.webp)Star Power Lockdown
+2.  ![](/images/mlbb/skills/cyclops-2.webp)Planets Attack
+3.  ![](/images/mlbb/skills/cyclops-1.webp)Stardust Shock
+
+## Skills
 
 ![](/images/mlbb/skills/cyclops-0.webp)Passive**Starlit Hourglass**![](/images/mlbb/skills/cyclops-1.webp)Skill 1**Stardust Shock**![](/images/mlbb/skills/cyclops-2.webp)Skill 2**Planets Attack**![](/images/mlbb/skills/cyclops-3.webp)Ultimate**Star Power Lockdown**
 
@@ -287,17 +323,13 @@ Cooldown **26 Mana Cost: 60 s**
 
 Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, dealing 500 (+120% Total Magic Power) Magic Damage and immobilizing them for 0.75-1.5s (scales with Planetary Sphere's travel distance).
 
-## Counters
+## Cyclops counters
 
-### Counters
-
-Beat this hero
+### Who counters Cyclops
 
 [![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
-### Easy targets
-
-This hero beats them
+### Who Cyclops counters
 
 [![](/images/heroes/art/minotaur.webp)Minotaur](https://boostmlbb.ru/en/heroes/minotaur.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -316,6 +348,10 @@ This hero beats them
 Who counters Cyclops in MLBB?
 
 Over the last 30 days the toughest opponents are Natalia, Marcel, Wanwan, Joy and Ling.
+
+How do you play Cyclops?
+
+Level "Planets Attack" first and take the ultimate whenever it is available. Stronger late: 54.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Cyclops should control the target enemy with his Ultimate, close in with his 2nd Skill, then finish off the target with his 1st Skill.
 
 What is Cyclops’s win rate right now?
 

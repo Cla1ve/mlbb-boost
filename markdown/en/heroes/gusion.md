@@ -1,6 +1,6 @@
 ---
-title: "Gusion MLBB: build, counters and skills | MLBB Boost"
-description: "Gusion in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 48.91% win rate, tier B."
+title: "Gusion MLBB: build, combos and counters | MLBB Boost"
+description: "Gusion in Mobile Legends: ranked build, skill combos, how to play and who counters Gusion. Assassin, 48.91% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/gusion.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 1.8%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -187,9 +187,52 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Gusion
 
-Level-up**Incandescence**_›_**Shadowblade Slaughter**_›_**Sword Spike**
+### Gusion combos
+
+#### Teamfight
+
+1.  ![Shadowblade Slaughter](/images/mlbb/skills/gusion-2.webp)2
+2.  ![Incandescence](/images/mlbb/skills/gusion-3.webp)Ult
+3.  ![Shadowblade Slaughter](/images/mlbb/skills/gusion-2.webp)2
+4.  ![Sword Spike](/images/mlbb/skills/gusion-1.webp)1
+5.  ![Sword Spike](/images/mlbb/skills/gusion-1.webp)1
+6.  ![Shadowblade Slaughter](/images/mlbb/skills/gusion-2.webp)2
+7.  Attack
+
+In teamfights, Gusion should first use his 2nd Skill for damage, then his Ultimate to reset the cooldown for his 2nd Skill. Follow up with his 2nd and 1st Skill combo for more damage. And use his 2nd Skill again to recall all 10 daggers right after moving behind a target with his 1st Skill for massive damage. He can then finish off any remaining low-HP heroes and escape with his Ultimate.
+
+#### Laning
+
+1.  ![Sword Spike](/images/mlbb/skills/gusion-1.webp)1
+2.  ![Shadowblade Slaughter](/images/mlbb/skills/gusion-2.webp)2
+3.  ![Sword Spike](/images/mlbb/skills/gusion-1.webp)1
+4.  ![Shadowblade Slaughter](/images/mlbb/skills/gusion-2.webp)2
+5.  Attack
+
+In the laning phase, Gusion can use his 1st Skill to mark the enemies, then use his 2nd Skill to slow them down. Next, he can use his 1st Skill again to move behind a target enemy and use his 2nd Skill again to deal massive damage. And finally, use his Basic Attacks to finish off the target.
+
+### When strongest
+
+Stronger late: 50.9% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **41.2**10–12
+2.  **45.5**12–14
+3.  **48.1**14–16
+4.  **50.1**16–18
+5.  **50.5**18–20
+6.  **50.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/gusion-3.webp)Incandescence
+2.  ![](/images/mlbb/skills/gusion-2.webp)Shadowblade Slaughter
+3.  ![](/images/mlbb/skills/gusion-1.webp)Sword Spike
+
+## Skills
 
 ![](/images/mlbb/skills/gusion-0.webp)Passive**Dagger Specialist**![](/images/mlbb/skills/gusion-1.webp)Skill 1**Sword Spike**![](/images/mlbb/skills/gusion-2.webp)Skill 2**Shadowblade Slaughter**![](/images/mlbb/skills/gusion-3.webp)Ultimate**Incandescence**
 
@@ -229,17 +272,13 @@ Gusion dashes to the target location, resetting the cooldowns of Sword Spike and
 
 **Use Again:** Gusion dashes a short distance in the target direction.
 
-## Counters
+## Gusion counters
 
-### Counters
-
-Beat this hero
+### Who counters Gusion
 
 [![](/images/heroes/art/aamon.webp)Aamon](https://boostmlbb.ru/en/heroes/aamon.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
-### Easy targets
-
-This hero beats them
+### Who Gusion counters
 
 [![](/images/heroes/art/roger.webp)Roger](https://boostmlbb.ru/en/heroes/roger.html)
 
@@ -258,6 +297,10 @@ This hero beats them
 Who counters Gusion in MLBB?
 
 Over the last 30 days the toughest opponents are Aamon, Yve, Valir, X.Borg and Natalia.
+
+How do you play Gusion?
+
+Level "Shadowblade Slaughter" first and take the ultimate whenever it is available. Stronger late: 50.9% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Gusion should first use his 2nd Skill for damage, then his Ultimate to reset the cooldown for his 2nd Skill. Follow up with his 2nd and 1st Skill combo for more damage. And use his 2nd Skill again to recall all 10 daggers right after moving behind a target with his 1st Skill for massive damage. He can then finish off any remaining low-HP heroes and escape with his Ultimate.
 
 What is Gusion’s win rate right now?
 

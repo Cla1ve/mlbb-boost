@@ -1,6 +1,6 @@
 ---
-title: "Kalea MLBB: build, counters and skills | MLBB Boost"
-description: "Kalea in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and support, 51.75% win rate, tier S."
+title: "Kalea MLBB: build, combos and counters | MLBB Boost"
+description: "Kalea in Mobile Legends: ranked build, skill combos, how to play and who counters Kalea. Fighter and support, 51.75% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/kalea.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 14.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,48 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Kalea
 
-Level-up**Tsunami Slam**_›_**Tidal Strike**_›_**Wavebreaker**
+### Kalea combos
+
+#### Laning
+
+1.  ![Tidal Strike](/images/mlbb/skills/kalea-2.webp)2
+2.  ![Wavebreaker](/images/mlbb/skills/kalea-1.webp)1
+3.  Attack
+
+While ganking with Kalea, use her 2nd Skill to close in and CC the target, then use her 1st Skill to activate her enhanced Basic Attacks and unleash them on the target.
+
+#### Teamfight
+
+1.  ![Tidal Strike](/images/mlbb/skills/kalea-2.webp)2
+2.  ![Tidal Strike](/images/mlbb/skills/kalea-2.webp)2
+3.  ![Tsunami Slam](/images/mlbb/skills/kalea-3.webp)Ult
+4.  ![Wavebreaker](/images/mlbb/skills/kalea-1.webp)1
+5.  Attack
+
+In teamfights, Kalea should prioritize enemy Mages or Marksmen. Use the first part of her 2nd Skill to dash into an obstacle near the target, then dive down to CC them, and follow up with her Ultimate to slam them into your team. Use her 1st Skill to trigger her Passive, and unload her enhanced Basic Attacks on the target.
+
+### When strongest
+
+Stronger early: 52.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **52.8**10–12
+2.  **50.0**12–14
+3.  **48.7**14–16
+4.  **48.6**16–18
+5.  **48.6**18–20
+6.  **49.2**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/kalea-3.webp)Tsunami Slam
+2.  ![](/images/mlbb/skills/kalea-2.webp)Tidal Strike
+3.  ![](/images/mlbb/skills/kalea-1.webp)Wavebreaker
+
+## Skills
 
 ![](/images/mlbb/skills/kalea-0.webp)Passive**Surge of Life**![](/images/mlbb/skills/kalea-1.webp)Skill 1**Wavebreaker**![](/images/mlbb/skills/kalea-2.webp)Skill 2**Tidal Strike**![](/images/mlbb/skills/kalea-3.webp)Ultimate**Tsunami Slam**
 
@@ -293,11 +332,9 @@ Cooldown **56 s**
 
 Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction (drag the Joystick to change landing spot). She gains Control Immunity during this process. Upon landing, deals 300 (+14% Max HP) Physical Damage to the target and nearby enemies.
 
-## Counters
+## Kalea counters
 
-### Counters
-
-Beat this hero
+### Who counters Kalea
 
 [![](/images/heroes/art/fanny.webp)Fanny](https://boostmlbb.ru/en/heroes/fanny.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -316,6 +353,10 @@ Beat this hero
 Who counters Kalea in MLBB?
 
 Over the last 30 days the toughest opponents are Fanny, Yve, Helcurt, Khaleed and Lolita.
+
+How do you play Kalea?
+
+Level "Tidal Strike" first and take the ultimate whenever it is available. Stronger early: 52.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Kalea should prioritize enemy Mages or Marksmen. Use the first part of her 2nd Skill to dash into an obstacle near the target, then dive down to CC them, and follow up with her Ultimate to slam them into your team. Use her 1st Skill to trigger her Passive, and unload her enhanced Basic Attacks on the target.
 
 What is Kalea’s win rate right now?
 

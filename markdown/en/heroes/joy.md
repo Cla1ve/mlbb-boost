@@ -1,6 +1,6 @@
 ---
-title: "Joy MLBB: build, counters and skills | MLBB Boost"
-description: "Joy in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.34% win rate, tier D."
+title: "Joy MLBB: build, combos and counters | MLBB Boost"
+description: "Joy in Mobile Legends: ranked build, skill combos, how to play and who counters Joy. Assassin, 49.34% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/joy.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Mage
     Lethal Ignition
 
 
-## Skills
+## How to play Joy
 
-Level-up**Ha, Electrifying Beats!**_›_**Meow, Rhythm of Joy!**_›_**Look, Leonin Crystal!**
+### Joy combos
+
+#### Teamfight
+
+1.  ![Look, Leonin Crystal!](/images/mlbb/skills/joy-1.webp)1
+2.  ![Meow, Rhythm of Joy!](/images/mlbb/skills/joy-2.webp)2
+3.  ![Ha, Electrifying Beats!](/images/mlbb/skills/joy-3.webp)Ult
+
+In teamfights, Joy should summon a Leonin Crystal with her 1st Skill and use it as a springboard for her 2nd Skill to enter the battle. Continue to chain her 2nd Skill on the beat to unlock her Ultimate. Finally, use her Ultimate to finish off the enemy.
+
+#### Laning
+
+1.  ![Look, Leonin Crystal!](/images/mlbb/skills/joy-1.webp)1
+2.  ![Meow, Rhythm of Joy!](/images/mlbb/skills/joy-2.webp)2
+
+In the laning phase, Joy should place her 1st Skill on top of the enemy, then use her 2nd Skill to dash through both targets and continue to chain her 2nd Skill on the beat for damage.
+
+### When strongest
+
+Stronger late: 50.3% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **45.6**10–12
+2.  **47.6**12–14
+3.  **48.6**14–16
+4.  **49.1**16–18
+5.  **49.6**18–20
+6.  **50.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/joy-3.webp)Ha, Electrifying Beats!
+2.  ![](/images/mlbb/skills/joy-2.webp)Meow, Rhythm of Joy!
+3.  ![](/images/mlbb/skills/joy-1.webp)Look, Leonin Crystal!
+
+## Skills
 
 ![](/images/mlbb/skills/joy-0.webp)Passive**Humph, Joy's Angry!**![](/images/mlbb/skills/joy-1.webp)Skill 1**Look, Leonin Crystal!**![](/images/mlbb/skills/joy-2.webp)Skill 2**Meow, Rhythm of Joy!**![](/images/mlbb/skills/joy-3.webp)Ultimate**Ha, Electrifying Beats!**
 
@@ -289,17 +325,13 @@ Each Meow, Rhythm of Joy! cast on the beat increases this skill's damage by 40%.
 
 This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat Energy will remove all debuffs and make her immune to slow effects while this skill is active.
 
-## Counters
+## Joy counters
 
-### Counters
-
-Beat this hero
+### Who counters Joy
 
 [![](/images/heroes/art/sun.webp)Sun](https://boostmlbb.ru/en/heroes/sun.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)
 
-### Easy targets
-
-This hero beats them
+### Who Joy counters
 
 [![](/images/heroes/art/badang.webp)Badang](https://boostmlbb.ru/en/heroes/badang.html)[![](/images/heroes/art/moskov.webp)Moskov](https://boostmlbb.ru/en/heroes/moskov.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/fredrinn.webp)Fredrinn](https://boostmlbb.ru/en/heroes/fredrinn.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)
 
@@ -318,6 +350,10 @@ This hero beats them
 Who counters Joy in MLBB?
 
 Over the last 30 days the toughest opponents are Sun, Lolita, X.Borg, Yve and Hanabi.
+
+How do you play Joy?
+
+Level "Meow, Rhythm of Joy!" first and take the ultimate whenever it is available. Stronger late: 50.3% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, Joy should summon a Leonin Crystal with her 1st Skill and use it as a springboard for her 2nd Skill to enter the battle. Continue to chain her 2nd Skill on the beat to unlock her Ultimate. Finally, use her Ultimate to finish off the enemy.
 
 What is Joy’s win rate right now?
 

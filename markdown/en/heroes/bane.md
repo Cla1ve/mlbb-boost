@@ -1,6 +1,6 @@
 ---
-title: "Bane MLBB: build, counters and skills | MLBB Boost"
-description: "Bane in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and mage, 51.58% win rate, tier C."
+title: "Bane MLBB: build, combos and counters | MLBB Boost"
+description: "Bane in Mobile Legends: ranked build, skill combos, how to play and who counters Bane. Fighter and mage, 51.58% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/bane.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,53 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Bane
 
-Level-up**Deadly Catch**_›_**Crab Claw Cannon**_›_**Sea Ink**
+### Bane combos
+
+#### Teamfight
+
+1.  ![Sea Ink](/images/mlbb/skills/bane-2.webp)2
+2.  ![Deadly Catch](/images/mlbb/skills/bane-3.webp)Ult
+3.  Attack
+4.  ![Sea Ink](/images/mlbb/skills/bane-2.webp)2
+5.  Attack
+6.  ![Crab Claw Cannon](/images/mlbb/skills/bane-1.webp)1
+7.  Attack
+
+In teamfights, use Bane's 2nd Skill to close in and catch multiple enemies with his Ultimate. Use an enhanced Basic Attack when the enemies are knocked airborne, then use his 2nd Skill and another enhanced Basic Attack. Finally, use his 1st Skill and enhanced Basic Attack to chase and finish off the enemy.
+
+#### Laning
+
+1.  ![Sea Ink](/images/mlbb/skills/bane-2.webp)2
+2.  Attack
+3.  ![Crab Claw Cannon](/images/mlbb/skills/bane-1.webp)1
+4.  Attack
+5.  ![Sea Ink](/images/mlbb/skills/bane-2.webp)2
+6.  Attack
+
+In the laning phase, use Bane's 2nd Skill to get close to the enemy and hit them with an enhanced Basic Attack. Then use his 1st Skill to slow the enemy followed by another enhanced Basic Attack. And end with his 2nd Skill again with another enhanced Basic Attack.
+
+### When strongest
+
+Even through the game, from 47.4% to 51.6%. Pick fights by your items rather than the clock.
+
+1.  **51.6**10–12
+2.  **49.2**12–14
+3.  **47.4**14–16
+4.  **48.1**16–18
+5.  **49.6**18–20
+6.  **49.9**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/bane-3.webp)Deadly Catch
+2.  ![](/images/mlbb/skills/bane-1.webp)Crab Claw Cannon
+3.  ![](/images/mlbb/skills/bane-2.webp)Sea Ink
+
+## Skills
 
 ![](/images/mlbb/skills/bane-0.webp)Passive**Shark Bite**![](/images/mlbb/skills/bane-1.webp)Skill 1**Crab Claw Cannon**![](/images/mlbb/skills/bane-2.webp)Skill 2**Sea Ink**![](/images/mlbb/skills/bane-3.webp)Ultimate**Deadly Catch**
 
@@ -292,17 +336,13 @@ Bane summons a school of sharks to charge in the target direction, dealing 700 (
 
 This skill deals 40% damage to turrets.
 
-## Counters
+## Bane counters
 
-### Counters
-
-Beat this hero
+### Who counters Bane
 
 [![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/belerick.webp)Belerick](https://boostmlbb.ru/en/heroes/belerick.html)
 
-### Easy targets
-
-This hero beats them
+### Who Bane counters
 
 [![](/images/heroes/art/novaria.webp)Novaria](https://boostmlbb.ru/en/heroes/novaria.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -321,6 +361,10 @@ This hero beats them
 Who counters Bane in MLBB?
 
 Over the last 30 days the toughest opponents are Phoveus, Baxia, Khufra, Odette and Belerick.
+
+How do you play Bane?
+
+Level "Crab Claw Cannon" first and take the ultimate whenever it is available. Even through the game, from 47.4% to 51.6%. Pick fights by your items rather than the clock. Teamfight combo: In teamfights, use Bane's 2nd Skill to close in and catch multiple enemies with his Ultimate. Use an enhanced Basic Attack when the enemies are knocked airborne, then use his 2nd Skill and another enhanced Basic Attack. Finally, use his 1st Skill and enhanced Basic Attack to chase and finish off the enemy.
 
 What is Bane’s win rate right now?
 

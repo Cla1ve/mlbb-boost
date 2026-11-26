@@ -1,6 +1,6 @@
 ---
-title: "Popol and Kupa MLBB: build, counters and skills | MLBB Boost"
-description: "Popol and Kupa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 48.57% win rate, tier C."
+title: "Popol and Kupa MLBB: build, combos and counters | MLBB Boost"
+description: "Popol and Kupa in Mobile Legends: ranked build, skill combos, how to play and who counters Popol and Kupa. Marksman, 48.57% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/popol-and-kupa.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,50 @@ Marksman
     Quantum Charge
 
 
-## Skills
+## How to play Popol and Kupa
 
-Level-up**We Are Angry!**_›_**Bite 'em, Kupa!**_›_**Kupa, Help!**_›_**Popol's Surprise**
+### Popol and Kupa combos
+
+#### Teamfight
+
+1.  ![Kupa, Help!](/images/mlbb/skills/popol-and-kupa-2.webp)2
+2.  ![We Are Angry!](/images/mlbb/skills/popol-and-kupa-4.webp)Ult
+3.  ![Bite 'em, Kupa!](/images/mlbb/skills/popol-and-kupa-1.webp)1
+4.  ![Popol's Surprise](/images/mlbb/skills/popol-and-kupa-3.webp)3
+5.  Attack
+
+In teamfights, first go into Mounted State with Skill 2, then pop their Ultimate. Knock the enemies airborne with the enhanced Skill 1, and use Skill 3 to immobilize them, then just focus down the prey with Basic Attacks.
+
+#### Laning
+
+1.  ![Bite 'em, Kupa!](/images/mlbb/skills/popol-and-kupa-1.webp)1
+2.  ![Popol's Surprise](/images/mlbb/skills/popol-and-kupa-3.webp)3
+3.  Attack
+4.  ![Kupa, Help!](/images/mlbb/skills/popol-and-kupa-2.webp)2
+
+When facing an enemy, use Popol's 1st Skill to slow them, then immediately use his 3rd Skill to set a trap and immobilize them. Next, use Basic Attacks to focus fire on the target with Kupa. Finally, use his 2nd Skill to mount up and chase them.
+
+### When strongest
+
+Stronger late: 51.8% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **49.1**10–12
+2.  **46.3**12–14
+3.  **45.6**14–16
+4.  **48.1**16–18
+5.  **49.7**18–20
+6.  **51.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/popol-and-kupa-4.webp)We Are Angry!
+2.  ![](/images/mlbb/skills/popol-and-kupa-1.webp)Bite 'em, Kupa!
+3.  ![](/images/mlbb/skills/popol-and-kupa-2.webp)Kupa, Help!
+4.  ![](/images/mlbb/skills/popol-and-kupa-3.webp)Popol's Surprise
+
+## Skills
 
 ![](/images/mlbb/skills/popol-and-kupa-0.webp)Passive**We Are Friends**![](/images/mlbb/skills/popol-and-kupa-1.webp)Skill 1**Bite 'em, Kupa!**![](/images/mlbb/skills/popol-and-kupa-2.webp)Skill 2**Kupa, Help!**![](/images/mlbb/skills/popol-and-kupa-3.webp)Skill 3**Popol's Surprise**![](/images/mlbb/skills/popol-and-kupa-4.webp)Ultimate**We Are Angry!**
 
@@ -307,17 +348,13 @@ Popol and Kupa enter the Enraged state for 9s.
 
 During this time, Kupa turns into Alpha Wolf Form.
 
-## Counters
+## Popol and Kupa counters
 
-### Counters
-
-Beat this hero
+### Who counters Popol and Kupa
 
 [![](/images/heroes/art/jawhead.webp)Jawhead](https://boostmlbb.ru/en/heroes/jawhead.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/change.webp)Chang'e](https://boostmlbb.ru/en/heroes/change.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)
 
-### Easy targets
-
-This hero beats them
+### Who Popol and Kupa counters
 
 [![](/images/heroes/art/hanabi.webp)Hanabi](https://boostmlbb.ru/en/heroes/hanabi.html)[![](/images/heroes/art/carmilla.webp)Carmilla](https://boostmlbb.ru/en/heroes/carmilla.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/yu-zhong.webp)Yu Zhong](https://boostmlbb.ru/en/heroes/yu-zhong.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/terizla.webp)Terizla](https://boostmlbb.ru/en/heroes/terizla.html)[![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)
 
@@ -336,6 +373,10 @@ This hero beats them
 Who counters Popol and Kupa in MLBB?
 
 Over the last 30 days the toughest opponents are Jawhead, Harley, Chang'e, Zilong and Selena.
+
+How do you play Popol and Kupa?
+
+Level "Bite 'em, Kupa!" first and take the ultimate whenever it is available. Stronger late: 51.8% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, first go into Mounted State with Skill 2, then pop their Ultimate. Knock the enemies airborne with the enhanced Skill 1, and use Skill 3 to immobilize them, then just focus down the prey with Basic Attacks.
 
 What is Popol and Kupa’s win rate right now?
 

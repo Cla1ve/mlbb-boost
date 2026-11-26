@@ -1,6 +1,6 @@
 ---
-title: "Grock MLBB: build, counters and skills | MLBB Boost"
-description: "Grock in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 45.79% win rate, tier C."
+title: "Grock MLBB: build, combos and counters | MLBB Boost"
+description: "Grock in Mobile Legends: ranked build, skill combos, how to play and who counters Grock. Tank and fighter, 45.79% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/grock.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,50 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Grock
 
-Level-up**Tectonic Charge**_›_**Mighty Swing**_›_**Earthen Rampart**
+### Grock combos
+
+#### Teamfight
+
+1.  ![Earthen Rampart](/images/mlbb/skills/grock-2.webp)2
+2.  ![Tectonic Charge](/images/mlbb/skills/grock-3.webp)Ult
+3.  ![Mighty Swing](/images/mlbb/skills/grock-1.webp)1
+4.  Attack
+5.  Attack
+
+In teamfights,initiate with Grock's 2nd Skill to trap the enemies,then charge into the wall with his Ultimate.While the enemies are airborne, find a good angle to slam them into the wall with his 1st Skill and send them airborne again,then finish up with Basic Attacks.
+
+#### Laning
+
+1.  ![Earthen Rampart](/images/mlbb/skills/grock-2.webp)2
+2.  ![Mighty Swing](/images/mlbb/skills/grock-1.webp)1
+3.  ![Tectonic Charge](/images/mlbb/skills/grock-3.webp)Ult
+4.  Attack
+5.  Attack
+
+In small skirmishes,use Grock's 2nd Skill to knock the enemy toward him,then use his 1st Skill to slam them into the wall.Use his Ultimate to charge into the wall and knock them airborne again,and finish the job with Basic Attacks.
+
+### When strongest
+
+Stronger late: 49.3% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **43.9**10–12
+2.  **45.6**12–14
+3.  **47.0**14–16
+4.  **47.9**16–18
+5.  **48.7**18–20
+6.  **49.3**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/grock-3.webp)Tectonic Charge
+2.  ![](/images/mlbb/skills/grock-1.webp)Mighty Swing
+3.  ![](/images/mlbb/skills/grock-2.webp)Earthen Rampart
+
+## Skills
 
 ![](/images/mlbb/skills/grock-0.webp)Passive**Bastion of Stone**![](/images/mlbb/skills/grock-1.webp)Skill 1**Mighty Swing**![](/images/mlbb/skills/grock-2.webp)Skill 2**Earthen Rampart**![](/images/mlbb/skills/grock-3.webp)Ultimate**Tectonic Charge**
 
@@ -288,17 +329,13 @@ Cooldown **55 s**
 
 Grock charges forward and gains Control Immunity, dealing 100 (+50% Total Physical Attack) Physical Damage to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1s and deals 650 (+300% Total Physical Attack) Physical Damage. If this skill doesn't hit terrain, 50% of its cooldown is refunded.
 
-## Counters
+## Grock counters
 
-### Counters
-
-Beat this hero
+### Who counters Grock
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
-### Easy targets
-
-This hero beats them
+### Who Grock counters
 
 [![](/images/heroes/art/kaja.webp)Kaja](https://boostmlbb.ru/en/heroes/kaja.html)
 
@@ -317,6 +354,10 @@ This hero beats them
 Who counters Grock in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Johnson, Yin, Diggie and Odette.
+
+How do you play Grock?
+
+Level "Mighty Swing" first and take the ultimate whenever it is available. Stronger late: 49.3% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights,initiate with Grock's 2nd Skill to trap the enemies,then charge into the wall with his Ultimate.While the enemies are airborne, find a good angle to slam them into the wall with his 1st Skill and send them airborne again,then finish up with Basic Attacks.
 
 What is Grock’s win rate right now?
 

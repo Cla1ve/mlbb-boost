@@ -1,6 +1,6 @@
 ---
-title: "Belerick MLBB: build, counters and skills | MLBB Boost"
-description: "Belerick in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 50.45% win rate, tier S."
+title: "Belerick MLBB: build, combos and counters | MLBB Boost"
+description: "Belerick in Mobile Legends: ranked build, skill combos, how to play and who counters Belerick. Tank, 50.45% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/belerick.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 56.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,46 @@ Tank
     Brave Smite
 
 
-## Skills
+## How to play Belerick
 
-Level-up**Wrath of Dryad**_›_**Ancient Seed**_›_**Nature's Strike**
+### Belerick combos
+
+#### Laning
+
+1.  ![Nature's Strike](/images/mlbb/skills/belerick-2.webp)2
+2.  Attack
+3.  ![Ancient Seed](/images/mlbb/skills/belerick-1.webp)1
+
+In the laning phase, use Belerick's 2nd Skill to close the distance with the opponent and slow them with his enhanced Basic Attack, then follow up with his 1st Skill to CC them.
+
+#### Teamfight
+
+1.  ![Nature's Strike](/images/mlbb/skills/belerick-2.webp)2
+2.  ![Wrath of Dryad](/images/mlbb/skills/belerick-3.webp)Ult
+3.  ![Ancient Seed](/images/mlbb/skills/belerick-1.webp)1
+
+In teamfights, charge into the enemy formation with Belerick's 2nd Skill and taunt as many targets as possible with his Ultimate, then follow up with his 1st Skill to keep them taunted.
+
+### When strongest
+
+Stronger early: 53.6% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.6**10–12
+2.  **52.4**12–14
+3.  **52.2**14–16
+4.  **51.6**16–18
+5.  **51.4**18–20
+6.  **50.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/belerick-3.webp)Wrath of Dryad
+2.  ![](/images/mlbb/skills/belerick-1.webp)Ancient Seed
+3.  ![](/images/mlbb/skills/belerick-2.webp)Nature's Strike
+
+## Skills
 
 ![](/images/mlbb/skills/belerick-0.webp)Passive**Deadly Thorns**![](/images/mlbb/skills/belerick-1.webp)Skill 1**Ancient Seed**![](/images/mlbb/skills/belerick-2.webp)Skill 2**Nature's Strike**![](/images/mlbb/skills/belerick-3.webp)Ultimate**Wrath of Dryad**
 
@@ -291,17 +328,13 @@ Cooldown **50 Mana Cost: 150 s**
 
 Belerick conjures spreading vines around him, dealing 100 (+30% Total Magic Power) Magic Damage to enemies in the area 4 times, taunting and slowing them for 1.5s.
 
-## Counters
+## Belerick counters
 
-### Counters
-
-Beat this hero
+### Who counters Belerick
 
 [![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/johnson.webp)Johnson](https://boostmlbb.ru/en/heroes/johnson.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)
 
-### Easy targets
-
-This hero beats them
+### Who Belerick counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/brody.webp)Brody](https://boostmlbb.ru/en/heroes/brody.html)[![](/images/heroes/art/clint.webp)Clint](https://boostmlbb.ru/en/heroes/clint.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/bane.webp)Bane](https://boostmlbb.ru/en/heroes/bane.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)
 
@@ -320,6 +353,10 @@ This hero beats them
 Who counters Belerick in MLBB?
 
 Over the last 30 days the toughest opponents are Miya, Silvanna, Zhask, Johnson and Zilong.
+
+How do you play Belerick?
+
+Level "Ancient Seed" first and take the ultimate whenever it is available. Stronger early: 53.6% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, charge into the enemy formation with Belerick's 2nd Skill and taunt as many targets as possible with his Ultimate, then follow up with his 1st Skill to keep them taunted.
 
 What is Belerick’s win rate right now?
 

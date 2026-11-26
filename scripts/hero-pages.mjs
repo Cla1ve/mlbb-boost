@@ -1,6 +1,7 @@
 // Builds per-hero pages and the /heroes/ hub as landing "guides" from content/heroes.json
 // (official MOONTON hero statistics). Imported by site-build.mjs.
 import { rankingGuides, LIST_DEFS, listUrl, members } from './hero-lists.mjs';
+import { textHash } from './heroes-play.mjs';
 const BOT_PRICE = '/order.html?type=hero';
 // Date of the last content change on hero pages.
 const UPDATED = '2026-11-23';
@@ -87,7 +88,7 @@ export function rateHeroes(list, key = DEFAULT_RANK) {
   return sorted;
 }
 
-export function heroGuides(data, academy = null, storyFallbacks = {}) {
+export function heroGuides(data, academy = null, storyFallbacks = {}, { play = null, comboRu = {}, cases = {} } = {}) {
   const heroes = rateHeroes(data.heroes);
   const acad = academy?.heroes || {};
   const dict = academy || { items: {}, spells: {}, talents: {}, emblems: {} };
@@ -105,6 +106,33 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
   const pct1 = (value, lang) => `${fmt(value, lang, 1)}%`;
   const signed = (value, lang) => `${value > 0 ? '+' : value < 0 ? '−' : ''}${fmt(Math.abs(value), lang, 1)}`;
   const name = (hero, lang) => lang === 'en' ? hero.en : hero.ru;
+  // Russian case forms: accusative (кто контрит Кагуру) and genitive (контрпики Кагуры).
+  const acc = hero => cases[hero.slug]?.[0] || hero.ru;
+  const gen = hero => cases[hero.slug]?.[1] || hero.ru;
+  const playOf = hero => play?.heroes?.[hero.slug] || { combos: [], timeline: [] };
+  // When a hero is strongest, judged from win rate by match length: early, late or even.
+  const timing = (hero, lang) => {
+    const rows = playOf(hero).timeline;
+    if (rows.length < 4) return null;
+    const avg = list => list.reduce((sum, row) => sum + row[2], 0) / list.length;
+    const early = avg(rows.slice(0, 2)), late = avg(rows.slice(-2));
+    const span = ([from, to]) => to ? `${from}–${to}` : `${from}+`;
+    const low = Math.min(...rows.map(row => row[2])), high = Math.max(...rows.map(row => row[2]));
+    const en = lang === 'en';
+    const kind = early - late >= 1.2 ? 'early' : late - early >= 1.2 ? 'late' : 'even';
+    // The quoted minutes come from the same half the sentence is about.
+    const half = kind === 'late' ? rows.slice(-3) : rows.slice(0, 3);
+    const best = [...half].sort((a, b) => b[2] - a[2])[0];
+    const bestAt = best[1] ? (en ? `at ${span(best)} minutes` : `на ${span(best)} минутах`) : (en ? `after minute ${best[0]}` : `после ${best[0]}-й минуты`);
+    const text = kind === 'early'
+      ? (en ? `Stronger early: ${fmt(best[2], 'en', 1)}% ${bestAt}. Push your lane, take objectives and close the game before the lead fades.` : `Сильнее в начале: ${bestAt} выигрывает ${fmt(best[2], 'ru', 1)}%. Давите на линии, забирайте объекты и заканчивайте, пока преимущество не растаяло.`)
+      : kind === 'late'
+        ? (en ? `Stronger late: ${fmt(best[2], 'en', 1)}% ${bestAt}. Do not take risks early, farm and fight together with your team.` : `Сильнее в долгой игре: ${bestAt} выигрывает ${fmt(best[2], 'ru', 1)}%. Не рискуйте в начале, фармите и ввязывайтесь в драки вместе с командой.`)
+        : (en ? `Even through the game, from ${fmt(low, 'en', 1)}% to ${fmt(high, 'en', 1)}%. Pick fights by your items rather than the clock.` : `Сила ровная всю игру, от ${fmt(low, 'ru', 1)}% до ${fmt(high, 'ru', 1)}%. Выбирайте драки по готовым предметам, а не по минутам.`);
+    return { text, rows, span };
+  };
+  const COMBO_NAMES = { lane: ['На линии', 'Laning'], fight: ['В драке', 'Teamfight'], jungle: ['В лесу', 'Jungle'] };
+  const comboText = (combo, lang) => lang === 'en' ? combo.en : comboRu[textHash(combo.en)] || '';
   const byScore = list => [...list].sort((a, b) => a.rank - b.rank);
   const withRole = role => byScore(heroes.filter(hero => hero.roles.includes(role)));
   const capital = text => text.charAt(0).toUpperCase() + text.slice(1);
@@ -191,18 +219,33 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
 
       const skills = ac?.skills?.[lang] || [];
       if (skills.length) {
-        const order = (ac.order || []).map(Number).filter(n => n >= 1 && n < skills.length);
-        const priority = order.length ? `<p class="hs-order"><span>${t('Прокачка', 'Level-up')}</span>${order.map(n => `<b>${esc(skills[n].name)}</b>`).join('<i aria-hidden="true">›</i>')}</p>` : '';
         const tabs = skills.map((skill, i) => `<button type="button" class="skill-tab" data-skill="${i}" aria-pressed="${i === 0}" hidden><img src="${skill.icon}" width="48" height="48" alt=""><span><small>${skillNo(i, skills.length, lang)}</small><b>${esc(skill.name)}</b></span></button>`).join('');
         const panels = skills.map((skill, i) => `<article class="skill" data-skill-panel="${i}"><header><div><small>${skillNo(i, skills.length, lang)}</small><h3>${esc(skill.name)}</h3></div>${skill.cd ? `<span class="skill__cd">${t('Перезарядка', 'Cooldown')} <b>${esc(skill.cd)} ${t('с', 's')}</b></span>` : ''}</header>${skill.tags?.length ? `<p class="skill__tags">${skill.tags.map(tag => `<span>${esc(tag)}</span>`).join('')}</p>` : ''}<div class="skill__text">${skillText(skill.desc, lang)}</div></article>`).join('');
-        add('skills', t('Навыки', 'Skills'), `${priority}<div class="skills"><div class="skill-tabs" role="group" aria-label="${t('Выбор навыка', 'Choose a skill')}">${tabs}</div><div class="skill-panels">${panels}</div></div>`);
+        add('skills', t('Навыки', 'Skills'), `<div class="skills"><div class="skill-tabs" role="group" aria-label="${t('Выбор навыка', 'Choose a skill')}">${tabs}</div><div class="skill-panels">${panels}</div></div>`);
       }
 
-      const group = (title, caption, slugs, tone) => `<section class="band band--${tone}"><h3>${title}</h3><p>${caption}</p><div class="banners">${slugs.map(slug => banner(slug, lang, tone)).join('')}</div></section>`;
+      const data = playOf(hero);
+      const when = timing(hero, lang);
+      const order = (ac?.order || []).map(Number).filter(n => n >= 1 && n < skills.length);
+      const step = index => {
+        if (index === 'attack') return `<li class="combo__step combo__step--attack"><span class="combo__icon"><i class="fas fa-khanda" aria-hidden="true"></i></span><small>${t('Атака', 'Attack')}</small></li>`;
+        const skill = skills[index];
+        const label = index === 0 ? t('Пассив', 'Passive') : index === skills.length - 1 ? t('Ульт', 'Ult') : String(index);
+        return `<li class="combo__step${index === skills.length - 1 ? ' combo__step--ult' : ''}" title="${esc(skill.name)}"><span class="combo__icon"><img src="${skill.icon}" width="48" height="48" alt="${esc(skill.name)}" loading="lazy" decoding="async"></span><small>${label}</small></li>`;
+      };
+      const combos = data.combos.filter(combo => combo.steps.every(index => index === 'attack' || skills[index]));
+      const comboHTML = combos.length ? `<div class="ov-card howto__combos"><h3>${t(`Комбо ${gen(hero)}`, `${hero.en} combos`)}</h3>${combos.map(combo => `<section class="combo"><h4>${COMBO_NAMES[combo.type][en ? 1 : 0]}</h4><ol class="combo__steps">${combo.steps.map(step).join('')}</ol>${comboText(combo, lang) ? `<p>${esc(comboText(combo, lang))}</p>` : ''}</section>`).join('')}</div>` : '';
+      const lowest = when ? Math.floor((Math.min(48, ...when.rows.map(row => row[2])) - 1) / 2) * 2 : 0;
+      const highest = when ? Math.ceil((Math.max(52, ...when.rows.map(row => row[2])) + 1) / 2) * 2 : 100;
+      const height = value => Math.round((value - lowest) / (highest - lowest) * 100);
+      const whenHTML = when ? `<div class="ov-card howto__when"><h3>${t('Когда сильнее всего', 'When strongest')}</h3><p>${when.text}</p><ol class="time-bars" style="--mid:${height(50)}%">${when.rows.map(row => `<li><strong>${fmt(row[2], lang, 1)}</strong><span class="rank-bars__col"><i style="height:${height(row[2])}%" data-above="${row[2] >= 50}"></i></span><span>${when.span(row)}</span></li>`).join('')}</ol><p class="rank-bars__note">${t('Проценты побед по длине матча в минутах, все ранги. Пунктир: 50%', 'Win rate % by match length in minutes, all ranks. Dashed line: 50%')}</p></div>` : '';
+      const orderHTML = order.length ? `<div class="ov-card howto__order"><h3>${t('Приоритет прокачки', 'Level-up priority')}</h3><ol class="level-order">${order.map(n => `<li><img src="${skills[n].icon}" width="40" height="40" alt="" loading="lazy" decoding="async"><span>${esc(skills[n].name)}</span></li>`).join('')}</ol></div>` : '';
+      if (comboHTML || whenHTML) add('howto', t(`Как играть за ${acc(hero)}`, `How to play ${hero.en}`), `<div class="howto">${comboHTML}<div class="howto__side">${whenHTML}${orderHTML}</div></div>`, t('Как играть', 'How to play'));
+      const group = (title, slugs, tone) => `<section class="band band--${tone}"><h3>${title}</h3><div class="banners">${slugs.map(slug => banner(slug, lang, tone)).join('')}</div></section>`;
       const groups = [];
-      if (hero.counters.length) groups.push(group(t('Контрпики', 'Counters'), t('Побеждают этого героя', 'Beat this hero'), hero.counters, 'bad'));
-      if (strong.length) groups.push(group(t('Слабые цели', 'Easy targets'), t('Этот герой побеждает их', 'This hero beats them'), strong.slice(0, 10), 'good'));
-      if (groups.length) add('draft', t('Контрпики', 'Counters'), `<div class="bands">${groups.join('')}</div>`);
+      if (hero.counters.length) groups.push(group(t(`Кто контрит ${acc(hero)}`, `Who counters ${hero.en}`), hero.counters, 'bad'));
+      if (strong.length) groups.push(group(t(`Кого контрит ${hero.ru}`, `Who ${hero.en} counters`), strong.slice(0, 10), 'good'));
+      if (groups.length) add('draft', t(`Контрпики ${gen(hero)}`, `${hero.en} counters`), `<div class="bands">${groups.join('')}</div>`, t('Контрпики', 'Counters'));
 
       const official = `https://www.mobilelegends.com/hero/detail?heroid=${ac?.id || heroes.length + 1 - hero.releaseOrder}`;
       const fallback = storyFallbacks[hero.slug];
@@ -213,7 +256,7 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
         ${loreSource ? `<a class="arena-lore-primary" href="${esc(loreSource)}" target="_blank" rel="noopener">${t('Читать полную историю', 'Read the full story')} <span aria-hidden="true">↗</span></a><small>${sourceName}</small>` : ''}
         <a class="arena-lore-official" href="${official}" target="_blank" rel="noopener">${t('Характеристики на сайте игры', 'Hero stats on the game site')} <span aria-hidden="true">↗</span></a></div>`);
       const heroName = en ? hero.en : `«${hero.ru}»`;
-      const wanted = ['overview', 'build', 'skills', 'draft', 'lore'];
+      const wanted = ['overview', 'build', 'howto', 'skills', 'draft', 'lore'];
       sections.sort((a, b) => wanted.indexOf(a.id) - wanted.indexOf(b.id));
       return `<nav class="atlas-nav" aria-label="${t('Разделы профиля', 'Profile sections')}">${sections.map(({ id, tab }, i) => `<a href="#${id}"${i === 0 ? ' aria-current="location"' : ''}>${tab}</a>`).join('')}</nav>
         <div class="atlas-chapters">${sections.map(({ id, title, inner }) => section(id, title, inner)).join('')}</div>
@@ -225,34 +268,44 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
       const ac = acad[hero.slug];
       const build = buildsOf(ac)[0];
       if (!build) return [];
-      const quoted = en ? hero.en : `«${hero.ru}»`;
       const itemNames = build.items.map(id => dict.items[id]).filter(Boolean).map(entry => en ? entry.en : entry.ru);
       const talentNames = build.talents.map(id => dict.talents[id]).filter(Boolean).map(entry => en ? entry.en : entry.ru);
       const emblem = dict.emblems[build.emblem], spell = dict.spells[build.spell];
       if (!itemNames.length || !emblem || !spell) return [];
-      return [[en ? `What is the best build for ${hero.en}?` : `Какая сборка на героя ${quoted} лучшая?`,
+      return [[en ? `What is the best build for ${hero.en}?` : `Какая сборка на ${acc(hero)} лучшая?`,
         en ? `The most popular ranked build: ${join(itemNames, 'en')} as core items, the ${emblem.en} emblem with ${join(talentNames, 'en')}, and ${spell.en}. It wins ${pct(build.win, 'en')} of matches.`
            : `Самая популярная сборка в рейтинге: ключевые предметы ${join(itemNames.map(n => `«${n}»`), 'ru')}, ${emblem.ru.toLowerCase()} с талантами ${join(talentNames.map(n => `«${n}»`), 'ru')} и заклинание «${spell.ru}». С ней выигрывают ${pct(build.win, 'ru')} матчей.`]];
     };
     const faq = lang => {
       const en = lang === 'en';
-      const quoted = en ? hero.en : `«${hero.ru}»`;
       const m = meta(hero);
+      const when = timing(hero, lang);
+      const ac = acad[hero.slug];
+      // The ultimate is taken whenever it is available, so advice starts with the first ordinary skill in the priority.
+      const list = ac?.skills?.[lang] || [];
+      const firstSkill = list[(ac?.order || []).map(Number).find(n => n >= 1 && n < list.length - 1)]?.name;
+      const fight = playOf(hero).combos.find(combo => combo.type === 'fight') || playOf(hero).combos[0];
+      const howParts = [
+        firstSkill ? (en ? `Level "${firstSkill}" first and take the ultimate whenever it is available.` : `В первую очередь качайте «${firstSkill}», ульт берите, как только доступен.`) : '',
+        when ? when.text : '',
+        fight && comboText(fight, lang) ? (en ? `Teamfight combo: ${comboText(fight, 'en')}` : `Комбо для драки: ${comboText(fight, 'ru')}`) : ''
+      ].filter(Boolean);
       return [
-        [en ? `Who counters ${hero.en} in MLBB?` : `Кто контрпик для героя ${quoted} в MLBB?`, en ? `Over the last 30 days the toughest opponents are ${join(counterNames('en'), 'en')}.` : `За последние 30 дней чаще всего героя обыгрывают ${join(counterNames('ru'), 'ru')}.`],
-        [en ? `What is ${hero.en}’s win rate right now?` : `Какой процент побед у героя ${quoted} сейчас?`, en
+        [en ? `Who counters ${hero.en} in MLBB?` : `Кто контрит ${acc(hero)} в MLBB?`, en ? `Over the last 30 days the toughest opponents are ${join(counterNames('en'), 'en')}.` : `За последние 30 дней ${acc(hero)} чаще всего обыгрывают ${join(counterNames('ru'), 'ru')}.`],
+        ...(howParts.length > 1 ? [[en ? `How do you play ${hero.en}?` : `Как играть за ${acc(hero)}?`, howParts.join(' ')]] : []),
+        [en ? `What is ${hero.en}’s win rate right now?` : `Какой процент побед у ${gen(hero)} сейчас?`, en
           ? `${hasTop ? `${pct(m.win, 'en')} ${rankIn('en')} over the last 7 days and ` : ''}${pct(hero.win, 'en')} across all ranks over 30 days, as of ${longDate('en')}.`
           : `${hasTop ? `${pct(m.win, 'ru')} ${rankIn('ru')} за последние 7 дней и ` : ''}${pct(hero.win, 'ru')} на всех рангах за 30 дней, данные на ${longDate('ru')}.`],
-        [en ? `What role and lane does ${hero.en} play?` : `Какая роль и линия у героя ${quoted}?`, en ? `${capital(roleList(hero, 'en'))}, played ${hero.lanes.map(lane => laneAt[lane][1]).join(' or ')}.` : `${capital(roleList(hero, 'ru'))}, играет ${hero.lanes.map(lane => laneAt[lane][0]).join(' или ')}.`],
-        [en ? `Is ${hero.en} strong in the current meta?` : `Силён ли герой ${quoted} в текущей мете?`, en
+        [en ? `What role and lane does ${hero.en} play?` : `Какая роль и линия у ${gen(hero)}?`, en ? `${capital(roleList(hero, 'en'))}, played ${hero.lanes.map(lane => laneAt[lane][1]).join(' or ')}.` : `${capital(roleList(hero, 'ru'))}, играет ${hero.lanes.map(lane => laneAt[lane][0]).join(' или ')}.`],
+        [en ? `Is ${hero.en} strong in the current meta?` : `Стоит ли брать ${acc(hero)} в текущей мете?`, en
           ? `Tier ${hero.tier}, #${hero.rank} of ${heroes.length} heroes and #${roleRank(hero.roles[0])} among ${ROLE[hero.roles[0]].enPlural}. The tier counts how often the hero is picked and banned and how well it wins${hasTop ? ` ${rankIn('en')} over 7 days` : ''}: banned in ${pct1(m.ban, 'en')} of matches, ${pct1(m.win, 'en')} win rate.${hero.pro?.presence >= 0 && heroes.some(item => item.pro?.presence > 0) ? ` In professional games over the last month the hero is drafted in ${pct1(hero.pro.presence, 'en')} of them.` : ''}`
           : `Тир ${hero.tier}, ${hero.rank}-е место из ${heroes.length} героев и ${roleRank(hero.roles[0])}-е среди ${ROLE[hero.roles[0]].gen}. Тир учитывает, как часто героя берут и банят и как он выигрывает${hasTop ? ` ${rankIn('ru')} за 7 дней` : ''}: бан в ${pct1(m.ban, 'ru')} матчей, ${pct1(m.win, 'ru')} побед.${hero.pro?.presence >= 0 && heroes.some(item => item.pro?.presence > 0) ? ` В профессиональных матчах за месяц героя драфтуют в ${pct1(hero.pro.presence, 'ru')} катков.` : ''}`],
         ...buildFaq(lang)
       ];
     };
     const metaTags = lang => lang === 'en'
-      ? [`${hero.en} MLBB: build, counters and skills | MLBB Boost`, `${hero.en} in Mobile Legends: the most popular ranked build, skills, counters and teammates. ${capital(roleList(hero, 'en'))}, ${pct(meta(hero).win, 'en')} win rate, tier ${hero.tier}.`]
-      : [`${hero.ru} MLBB: сборка, контрпики и навыки | MLBB Boost`, `${hero.ru} в Mobile Legends: популярная сборка в рейтинге, навыки, контрпики и союзники. ${capital(roleList(hero, 'ru'))}, ${pct(meta(hero).win, 'ru')} побед, тир ${hero.tier}.`];
+      ? [`${hero.en} MLBB: build, combos and counters | MLBB Boost`, `${hero.en} in Mobile Legends: ranked build, skill combos, how to play and who counters ${hero.en}. ${capital(roleList(hero, 'en'))}, ${pct(meta(hero).win, 'en')} win rate, tier ${hero.tier}.`]
+      : [`${hero.ru} MLBB: сборка, комбо и контрпики | MLBB Boost`, `${hero.ru}, персонаж Mobile Legends: комбо, как играть, сборка и кто контрит ${acc(hero)}. ${capital(roleList(hero, 'ru'))}, ${pct(meta(hero).win, 'ru')} побед, тир ${hero.tier}.`];
     const heroHead = lang => {
       const en = lang === 'en';
       const t = (ru, english) => en ? english : ru;
@@ -334,11 +387,11 @@ export function heroGuides(data, academy = null, storyFallbacks = {}) {
     const en = lang === 'en';
     const h1 = en ? 'MLBB tier list' : 'Тир-лист MLBB';
     // "Updated N days ago" is computed in the browser from the data stamp (hero-finder.js); the date is the fallback.
-    const sub = `${heroes.length} ${en ? 'heroes' : 'героя'} · <time datetime="${statsStamp.slice(0, 10)}" data-ago>${en ? `Updated ${shortDate('en')}` : `Обновлено ${shortDate('ru')}`}</time>`;
+    const sub = `${heroes.length} ${en ? 'heroes' : 'персонажа'} · <time datetime="${statsStamp.slice(0, 10)}" data-ago>${en ? `Updated ${shortDate('en')}` : `Обновлено ${shortDate('ru')}`}</time>`;
     return { h1, html: `<header class="arena-mast"><div><h1>${h1}</h1><p>${sub}</p></div></header>` };
   };
   const hub = { file: 'heroes/index.html', kind: 'hero', layout: 'landing', published: '2026-11-22', updated, ruOnly: true, crumb: ['/news/', 'Новости', 'News'],
-    ru: ['Тир-лист MLBB: все 133 героя, сборки и контрпики | MLBB Boost', 'Тир-лист Mobile Legends по актуальной мете: кого чаще всего берут и банят в Мифической славе за 7 дней. Лучшие герои по ролям, сборки, навыки и контрпики для всех 133 героев.', hubBody('ru'), [], hubHead('ru')],
+    ru: ['Тир-лист MLBB: все персонажи, 133 героя и контрпики | MLBB Boost', 'Все персонажи Mobile Legends в тир-листе по актуальной мете: кого берут и банят в Мифической славе за 7 дней. Лучшие герои по ролям, сборки, комбо и контрпики.', hubBody('ru'), [], hubHead('ru')],
     en: ['MLBB tier list: all 133 heroes, builds and counters | MLBB Boost', 'Mobile Legends tier list for the current meta: who gets picked and banned most in Mythical Glory over 7 days. The best heroes by role, builds, skills and counters for all 133 heroes.', hubBody('en'), [], hubHead('en')] };
   const ranking = rankingGuides({ heroes, acad, dict, buildsOf, statsOf, name, esc, fmt, pct1, chip, gear, icon, longDate, shortDate, statsStamp, hasTop, updated, ROLE, BOT_PRICE, MONTHS_EN });
   return [hub, ...pages, ...ranking];

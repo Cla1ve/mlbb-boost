@@ -1,6 +1,6 @@
 ---
-title: "Hylos MLBB: build, counters and skills | MLBB Boost"
-description: "Hylos in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 47.02% win rate, tier D."
+title: "Hylos MLBB: build, combos and counters | MLBB Boost"
+description: "Hylos in Mobile Legends: ranked build, skill combos, how to play and who counters Hylos. Tank, 47.02% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/hylos.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Hylos
 
-Level-up**Glorious Pathway**_›_**Ring of Punishment**_›_**Law and Order**
+### Hylos combos
+
+#### Teamfight
+
+1.  ![Glorious Pathway](/images/mlbb/skills/hylos-3.webp)Ult
+2.  ![Law and Order](/images/mlbb/skills/hylos-1.webp)1
+3.  ![Ring of Punishment](/images/mlbb/skills/hylos-2.webp)2
+4.  Attack
+
+In teamfights, use Hylos' Ultimate to create a pathway into the enemy team and then his 1st Skill to get in and stun an enemy. At the same time, use his 2nd Skill and Basic Attacks to deal continuous damage.
+
+#### Laning
+
+1.  ![Law and Order](/images/mlbb/skills/hylos-1.webp)1
+2.  ![Ring of Punishment](/images/mlbb/skills/hylos-2.webp)2
+3.  Attack
+
+In the laning phase, Hylos should use his 1st Skill to get close and stun the enemy, then follow up with his 2nd Skill and Basic Attacks to deal damage.
+
+### When strongest
+
+Stronger late: 51.2% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **43.0**10–12
+2.  **46.8**12–14
+3.  **49.4**14–16
+4.  **50.9**16–18
+5.  **51.2**18–20
+6.  **51.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/hylos-3.webp)Glorious Pathway
+2.  ![](/images/mlbb/skills/hylos-2.webp)Ring of Punishment
+3.  ![](/images/mlbb/skills/hylos-1.webp)Law and Order
+
+## Skills
 
 ![](/images/mlbb/skills/hylos-0.webp)Passive**Thickened Blood**![](/images/mlbb/skills/hylos-1.webp)Skill 1**Law and Order**![](/images/mlbb/skills/hylos-2.webp)Skill 2**Ring of Punishment**![](/images/mlbb/skills/hylos-3.webp)Ultimate**Glorious Pathway**
 
@@ -291,17 +329,13 @@ Hylos creates a huge pathway in the target direction, reducing enemies' Movement
 
 When on the pathway, Hylos gains Slow Immunity and recovers 3% per second. Allied heroes moving along the pathway gain 60% extra Movement Speed, while enemy heroes on the pathway will be slowed by 25%.
 
-## Counters
+## Hylos counters
 
-### Counters
-
-Beat this hero
+### Who counters Hylos
 
 [![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)
 
-### Easy targets
-
-This hero beats them
+### Who Hylos counters
 
 [![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/cecilion.webp)Cecilion](https://boostmlbb.ru/en/heroes/cecilion.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karrie.webp)Karrie](https://boostmlbb.ru/en/heroes/karrie.html)[![](/images/heroes/art/zhuxin.webp)Zhuxin](https://boostmlbb.ru/en/heroes/zhuxin.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)
 
@@ -320,6 +354,10 @@ This hero beats them
 Who counters Hylos in MLBB?
 
 Over the last 30 days the toughest opponents are Zilong, Layla, Yin, Nana and Saber.
+
+How do you play Hylos?
+
+Level "Ring of Punishment" first and take the ultimate whenever it is available. Stronger late: 51.2% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Hylos' Ultimate to create a pathway into the enemy team and then his 1st Skill to get in and stun an enemy. At the same time, use his 2nd Skill and Basic Attacks to deal continuous damage.
 
 What is Hylos’s win rate right now?
 

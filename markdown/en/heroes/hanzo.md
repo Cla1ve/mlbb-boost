@@ -1,6 +1,6 @@
 ---
-title: "Hanzo MLBB: build, counters and skills | MLBB Boost"
-description: "Hanzo in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.28% win rate, tier C."
+title: "Hanzo MLBB: build, combos and counters | MLBB Boost"
+description: "Hanzo in Mobile Legends: ranked build, skill combos, how to play and who counters Hanzo. Assassin, 49.28% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/hanzo.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 3.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Support
     War Cry
 
 
-## Skills
+## How to play Hanzo
 
-Level-up**Kinjutsu: Pinnacle Ninja**_›_**Ninjutsu: Demon Feast**_›_**Ninjutsu: Dark Mist**
+### Hanzo combos
+
+#### Teamfight
+
+1.  ![Kinjutsu: Pinnacle Ninja](/images/mlbb/skills/hanzo-3.webp)Ult
+2.  ![Ninjutsu: Dark Mist](/images/mlbb/skills/hanzo-2.webp)2
+3.  Attack
+4.  ![Ninjutsu: Demon Feast](/images/mlbb/skills/hanzo-1.webp)1
+
+Hanzo should activate his Ultimate from a safe position and engage as Hanekage. Use his 2nd Skill to dash in and knock enemies Airborne, then use his Black Mist and Basic Attacks to quickly stack his Passive and use his 1st Skill for maximum damage.
+
+#### Laning
+
+1.  ![Ninjutsu: Dark Mist](/images/mlbb/skills/hanzo-2.webp)2
+2.  Attack
+3.  ![Ninjutsu: Demon Feast](/images/mlbb/skills/hanzo-1.webp)1
+
+When ganking, Hanzo can use his 2nd Skill to close the distance, then stack his Passive with Basic Attacks and unleash his 1st Skill at max stacks for hefty damage. In teamfights, Hanzo should activate his Ultimate from a safe position and engage as Hanekage. Use his 2nd Skill to dash in and knock enemies Airborne, then use his Black Mist and Basic Attacks to quickly stack his Passive and use his 1st Skill for maximum damage.
+
+### When strongest
+
+Even through the game, from 47.1% to 51.9%. Pick fights by your items rather than the clock.
+
+1.  **47.1**10–12
+2.  **51.3**12–14
+3.  **51.6**14–16
+4.  **51.9**16–18
+5.  **50.8**18–20
+6.  **49.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/hanzo-3.webp)Kinjutsu: Pinnacle Ninja
+2.  ![](/images/mlbb/skills/hanzo-1.webp)Ninjutsu: Demon Feast
+3.  ![](/images/mlbb/skills/hanzo-2.webp)Ninjutsu: Dark Mist
+
+## Skills
 
 ![](/images/mlbb/skills/hanzo-0.webp)Passive**Ame no Habakiri**![](/images/mlbb/skills/hanzo-1.webp)Skill 1**Ninjutsu: Demon Feast**![](/images/mlbb/skills/hanzo-2.webp)Skill 2**Ninjutsu: Dark Mist**![](/images/mlbb/skills/hanzo-3.webp)Ultimate**Kinjutsu: Pinnacle Ninja**
 
@@ -289,17 +327,13 @@ While in Hanekage form, Hanzo's body is invincible, while Hanekage ignores obsta
 
 **Use Again or Upon Death:** Hanekage returns to Hanzo's body, recovering 360 (+100% Extra Physical Attack) HP and becoming untargetable during the return. If Hanekage is killed, Hanzo will be slowed by 50% and revealed for 6s, and the skill's cooldown will be doubled.
 
-## Counters
+## Hanzo counters
 
-### Counters
-
-Beat this hero
+### Who counters Hanzo
 
 [![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/balmond.webp)Balmond](https://boostmlbb.ru/en/heroes/balmond.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)
 
-### Easy targets
-
-This hero beats them
+### Who Hanzo counters
 
 [![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/hirara.webp)Hirara](https://boostmlbb.ru/en/heroes/hirara.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
@@ -318,6 +352,10 @@ This hero beats them
 Who counters Hanzo in MLBB?
 
 Over the last 30 days the toughest opponents are Diggie, Ixia, Franco, Balmond and Alpha.
+
+How do you play Hanzo?
+
+Level "Ninjutsu: Demon Feast" first and take the ultimate whenever it is available. Even through the game, from 47.1% to 51.9%. Pick fights by your items rather than the clock. Teamfight combo: Hanzo should activate his Ultimate from a safe position and engage as Hanekage. Use his 2nd Skill to dash in and knock enemies Airborne, then use his Black Mist and Basic Attacks to quickly stack his Passive and use his 1st Skill for maximum damage.
 
 What is Hanzo’s win rate right now?
 

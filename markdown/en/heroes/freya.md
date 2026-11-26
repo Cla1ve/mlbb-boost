@@ -1,6 +1,6 @@
 ---
-title: "Freya MLBB: build, counters and skills | MLBB Boost"
-description: "Freya in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter, 51.82% win rate, tier S."
+title: "Freya MLBB: build, combos and counters | MLBB Boost"
+description: "Freya in Mobile Legends: ranked build, skill combos, how to play and who counters Freya. Fighter, 51.82% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/freya.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 11.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,51 @@ Fighter
     War Cry
 
 
-## Skills
+## How to play Freya
 
-Level-up**Valkyrie Descent**_›_**Valkyrie Slash**_›_**Leap of Faith**
+### Freya combos
+
+#### Teamfight
+
+1.  ![Valkyrie Descent](/images/mlbb/skills/freya-3.webp)Ult
+2.  ![Leap of Faith](/images/mlbb/skills/freya-1.webp)1
+3.  ![Valkyrie Slash](/images/mlbb/skills/freya-2.webp)2
+4.  Attack
+5.  ![Valkyrie Slash](/images/mlbb/skills/freya-2.webp)2
+6.  Attack
+
+Use Freya's Ultimate to dive the enemy backline and start dealing Splash Damage. Use her 1st Skill to CC enemies and shield herself, then alternate between her 2nd Skill and AoE Basic Attacks to bring them down.
+
+#### Laning
+
+1.  ![Leap of Faith](/images/mlbb/skills/freya-1.webp)1
+2.  ![Valkyrie Slash](/images/mlbb/skills/freya-2.webp)2
+3.  Attack
+4.  ![Valkyrie Slash](/images/mlbb/skills/freya-2.webp)2
+5.  Attack
+
+Use Freya's 1st Skill to close the gap on enemies and knock them Airborne while giving herself a shield. Use her 2nd Skill once followed by 2 enhanced Basic Attacks to make use of the Attack Speed bonus and generate more Sacred Orbs from her Passive.
+
+### When strongest
+
+Stronger early: 57.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **57.1**10–12
+2.  **52.0**12–14
+3.  **49.4**14–16
+4.  **48.9**16–18
+5.  **48.1**18–20
+6.  **49.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/freya-3.webp)Valkyrie Descent
+2.  ![](/images/mlbb/skills/freya-2.webp)Valkyrie Slash
+3.  ![](/images/mlbb/skills/freya-1.webp)Leap of Faith
+
+## Skills
 
 ![](/images/mlbb/skills/freya-0.webp)Passive**Power of Einherjar**![](/images/mlbb/skills/freya-1.webp)Skill 1**Leap of Faith**![](/images/mlbb/skills/freya-2.webp)Skill 2**Valkyrie Slash**![](/images/mlbb/skills/freya-3.webp)Ultimate**Valkyrie Descent**
 
@@ -289,17 +331,13 @@ Freya dives toward the target area, gaining Control Immunity. She deals 300 (+75
 
 Upon landing, Freya enters the Valkyrie state for 10s and gains 30 Movement Speed. Her Basic Attacks deal 100 (+70% Total Physical Attack) Splash Damage (only the bonus Physical Damage can Crit).
 
-## Counters
+## Freya counters
 
-### Counters
-
-Beat this hero
+### Who counters Freya
 
 [![](/images/heroes/art/masha.webp)Masha](https://boostmlbb.ru/en/heroes/masha.html)[![](/images/heroes/art/yve.webp)Yve](https://boostmlbb.ru/en/heroes/yve.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)[![](/images/heroes/art/kagura.webp)Kagura](https://boostmlbb.ru/en/heroes/kagura.html)
 
-### Easy targets
-
-This hero beats them
+### Who Freya counters
 
 [![](/images/heroes/art/minsitthar.webp)Minsitthar](https://boostmlbb.ru/en/heroes/minsitthar.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)
 
@@ -318,6 +356,10 @@ This hero beats them
 Who counters Freya in MLBB?
 
 Over the last 30 days the toughest opponents are Masha, Yve, Lolita, Ling and Kagura.
+
+How do you play Freya?
+
+Level "Valkyrie Slash" first and take the ultimate whenever it is available. Stronger early: 57.1% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Use Freya's Ultimate to dive the enemy backline and start dealing Splash Damage. Use her 1st Skill to CC enemies and shield herself, then alternate between her 2nd Skill and AoE Basic Attacks to bring them down.
 
 What is Freya’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Helcurt MLBB: build, counters and skills | MLBB Boost"
-description: "Helcurt in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 46.75% win rate, tier C."
+title: "Helcurt MLBB: build, combos and counters | MLBB Boost"
+description: "Helcurt in Mobile Legends: ranked build, skill combos, how to play and who counters Helcurt. Assassin, 46.75% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/helcurt.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 2.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,47 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Helcurt
 
-Level-up**Dark Night Falls**_›_**Deadly Stinger**_›_**Hidden Terror**
+### Helcurt combos
+
+#### Teamfight
+
+1.  ![Dark Night Falls](/images/mlbb/skills/helcurt-3.webp)Ult
+2.  ![Hidden Terror](/images/mlbb/skills/helcurt-1.webp)1
+3.  Attack
+4.  ![Deadly Stinger](/images/mlbb/skills/helcurt-2.webp)2
+
+In teamfights, cast Helcurt's Ultimate to obscure the enemies' vision, then blink to their backline with his 1st Skill to hit with his Basic Attacks, and end with his 2nd Skill.
+
+#### Laning
+
+1.  ![Hidden Terror](/images/mlbb/skills/helcurt-1.webp)1
+2.  Attack
+3.  ![Deadly Stinger](/images/mlbb/skills/helcurt-2.webp)2
+
+In the laning phase, blink to the target using Helcurt's 1st Skill, then stack up stingers with his Basic Attacks and finish the combo with his 2nd Skill.
+
+### When strongest
+
+Stronger late: 50.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **45.4**10–12
+2.  **47.8**12–14
+3.  **49.0**14–16
+4.  **50.7**16–18
+5.  **50.8**18–20
+6.  **50.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/helcurt-3.webp)Dark Night Falls
+2.  ![](/images/mlbb/skills/helcurt-2.webp)Deadly Stinger
+3.  ![](/images/mlbb/skills/helcurt-1.webp)Hidden Terror
+
+## Skills
 
 ![](/images/mlbb/skills/helcurt-0.webp)Passive**Shadow of Styx**![](/images/mlbb/skills/helcurt-1.webp)Skill 1**Hidden Terror**![](/images/mlbb/skills/helcurt-2.webp)Skill 2**Deadly Stinger**![](/images/mlbb/skills/helcurt-3.webp)Ultimate**Dark Night Falls**
 
@@ -296,17 +334,13 @@ Helcurt summons the Dark Night, reducing all enemies' sight range and blocking a
 
 The Dark Night makes it easier for Helcurt to leave enemies' sight range.
 
-## Counters
+## Helcurt counters
 
-### Counters
-
-Beat this hero
+### Who counters Helcurt
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/xavier.webp)Xavier](https://boostmlbb.ru/en/heroes/xavier.html)[![](/images/heroes/art/gord.webp)Gord](https://boostmlbb.ru/en/heroes/gord.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
-### Easy targets
-
-This hero beats them
+### Who Helcurt counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/eudora.webp)Eudora](https://boostmlbb.ru/en/heroes/eudora.html)[![](/images/heroes/art/zetian.webp)Zetian](https://boostmlbb.ru/en/heroes/zetian.html)[![](/images/heroes/art/paquito.webp)Paquito](https://boostmlbb.ru/en/heroes/paquito.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/lukas.webp)Lukas](https://boostmlbb.ru/en/heroes/lukas.html)[![](/images/heroes/art/kalea.webp)Kalea](https://boostmlbb.ru/en/heroes/kalea.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)
 
@@ -325,6 +359,10 @@ This hero beats them
 Who counters Helcurt in MLBB?
 
 Over the last 30 days the toughest opponents are X.Borg, Valir, Xavier, Gord and Diggie.
+
+How do you play Helcurt?
+
+Level "Deadly Stinger" first and take the ultimate whenever it is available. Stronger late: 50.8% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, cast Helcurt's Ultimate to obscure the enemies' vision, then blink to their backline with his 1st Skill to hit with his Basic Attacks, and end with his 2nd Skill.
 
 What is Helcurt’s win rate right now?
 

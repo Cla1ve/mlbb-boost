@@ -1,6 +1,6 @@
 ---
-title: "Terizla MLBB: build, counters and skills | MLBB Boost"
-description: "Terizla in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 49.90% win rate, tier C."
+title: "Terizla MLBB: build, combos and counters | MLBB Boost"
+description: "Terizla in Mobile Legends: ranked build, skill combos, how to play and who counters Terizla. Tank and fighter, 49.90% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/terizla.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Fighter
     Brave Smite
 
 
-## Skills
+## How to play Terizla
 
-Level-up**Penalty Zone**_›_**Execution Strike**_›_**Revenge Strike**
+### Terizla combos
+
+#### Teamfight
+
+1.  ![Penalty Zone](/images/mlbb/skills/terizla-3.webp)Ult
+2.  ![Revenge Strike](/images/mlbb/skills/terizla-1.webp)1
+3.  ![Execution Strike](/images/mlbb/skills/terizla-2.webp)2
+
+In teamfights, Terizla can open with his Ultimate and his 1st Skill to control the enemy team, then use his 2nd Skill to repeatedly hit the targets pulled by the Scaffold.
+
+#### Laning
+
+1.  ![Revenge Strike](/images/mlbb/skills/terizla-1.webp)1
+2.  ![Execution Strike](/images/mlbb/skills/terizla-2.webp)2
+
+In the laning phase, Terizla can use his 1st Skill to slow the enemy, then his 2nd Skill to repeatedly deal damage to them.
+
+### When strongest
+
+Stronger early: 55.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **55.7**10–12
+2.  **53.7**12–14
+3.  **51.7**14–16
+4.  **48.9**16–18
+5.  **47.7**18–20
+6.  **47.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/terizla-3.webp)Penalty Zone
+2.  ![](/images/mlbb/skills/terizla-2.webp)Execution Strike
+3.  ![](/images/mlbb/skills/terizla-1.webp)Revenge Strike
+
+## Skills
 
 ![](/images/mlbb/skills/terizla-0.webp)Passive**Body of Smith**![](/images/mlbb/skills/terizla-1.webp)Skill 1**Revenge Strike**![](/images/mlbb/skills/terizla-2.webp)Skill 2**Execution Strike**![](/images/mlbb/skills/terizla-3.webp)Ultimate**Penalty Zone**
 
@@ -289,17 +325,13 @@ Cooldown **50 s**
 
 Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s. He then summons Scaffold and slows enemies by 25%. Scaffold will send out a hook at enemy heroes in range and pull them several times while dealing 150 (+30% Total Physical Attack) Physical Damage each time.
 
-## Counters
+## Terizla counters
 
-### Counters
-
-Beat this hero
+### Who counters Terizla
 
 [![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)
 
-### Easy targets
-
-This hero beats them
+### Who Terizla counters
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)
 
@@ -318,6 +350,10 @@ This hero beats them
 Who counters Terizla in MLBB?
 
 Over the last 30 days the toughest opponents are Argus, Phoveus, Popol and Kupa, Baxia and Odette.
+
+How do you play Terizla?
+
+Level "Execution Strike" first and take the ultimate whenever it is available. Stronger early: 55.7% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Terizla can open with his Ultimate and his 1st Skill to control the enemy team, then use his 2nd Skill to repeatedly hit the targets pulled by the Scaffold.
 
 What is Terizla’s win rate right now?
 

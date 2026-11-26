@@ -1,6 +1,6 @@
 ---
-title: "Vale MLBB: build, counters and skills | MLBB Boost"
-description: "Vale in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.86% win rate, tier C."
+title: "Vale MLBB: build, combos and counters | MLBB Boost"
+description: "Vale in Mobile Legends: ranked build, skill combos, how to play and who counters Vale. Mage, 48.86% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vale.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Vale
 
-Level-up**Windstorm**_›_**Wind Blade**_›_**Windblow**
+### Vale combos
+
+#### Teamfight
+
+1.  ![Windblow](/images/mlbb/skills/vale-2.webp)2
+2.  ![Windstorm](/images/mlbb/skills/vale-3.webp)Ult
+3.  ![Wind Blade](/images/mlbb/skills/vale-1.webp)1
+
+In teamfights, use Vale's 2nd Skill to knock a line of enemies airborne, then follow up with his Ultimate and 1st Skill for a devastating combo.
+
+#### Laning
+
+1.  ![Windblow](/images/mlbb/skills/vale-2.webp)2
+2.  ![Wind Blade](/images/mlbb/skills/vale-1.webp)1
+
+In the laning phase, use Vale's 2nd Skill to knock the opponent airborne, then follow up with his 1st Skill for damage.
+
+### When strongest
+
+Stronger late: 52.3% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **46.1**10–12
+2.  **49.2**12–14
+3.  **50.7**14–16
+4.  **51.9**16–18
+5.  **52.3**18–20
+6.  **52.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/vale-3.webp)Windstorm
+2.  ![](/images/mlbb/skills/vale-1.webp)Wind Blade
+3.  ![](/images/mlbb/skills/vale-2.webp)Windblow
+
+## Skills
 
 ![](/images/mlbb/skills/vale-0.webp)Passive**Windtalk**![](/images/mlbb/skills/vale-1.webp)Skill 1**Wind Blade**![](/images/mlbb/skills/vale-2.webp)Skill 2**Windblow**![](/images/mlbb/skills/vale-3.webp)Ultimate**Windstorm**
 
@@ -285,17 +321,13 @@ Vale summons a windstorm at the target location, dealing a total of 150 (+30% To
 
 The remaining whirlwinds will also be pulled into the center.
 
-## Counters
+## Vale counters
 
-### Counters
-
-Beat this hero
+### Who counters Vale
 
 [![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/estes.webp)Estes](https://boostmlbb.ru/en/heroes/estes.html)[![](/images/heroes/art/melissa.webp)Melissa](https://boostmlbb.ru/en/heroes/melissa.html)[![](/images/heroes/art/rafaela.webp)Rafaela](https://boostmlbb.ru/en/heroes/rafaela.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)
 
-### Easy targets
-
-This hero beats them
+### Who Vale counters
 
 [![](/images/heroes/art/lapu-lapu.webp)Lapu-Lapu](https://boostmlbb.ru/en/heroes/lapu-lapu.html)[![](/images/heroes/art/khaleed.webp)Khaleed](https://boostmlbb.ru/en/heroes/khaleed.html)
 
@@ -314,6 +346,10 @@ This hero beats them
 Who counters Vale in MLBB?
 
 Over the last 30 days the toughest opponents are Odette, Estes, Melissa, Rafaela and Silvanna.
+
+How do you play Vale?
+
+Level "Wind Blade" first and take the ultimate whenever it is available. Stronger late: 52.3% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Vale's 2nd Skill to knock a line of enemies airborne, then follow up with his Ultimate and 1st Skill for a devastating combo.
 
 What is Vale’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Benedetta MLBB: build, counters and skills | MLBB Boost"
-description: "Benedetta in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 51.59% win rate, tier C."
+title: "Benedetta MLBB: build, combos and counters | MLBB Boost"
+description: "Benedetta in Mobile Legends: ranked build, skill combos, how to play and who counters Benedetta. Fighter and assassin, 51.59% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/benedetta.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.3%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -256,9 +256,48 @@ Fighter
     Lethal Ignition
 
 
-## Skills
+## How to play Benedetta
 
-Level-up**Alecto: Final Blow**_›_**Phantom Slash**_›_**An Eye for An Eye**
+### Benedetta combos
+
+#### Teamfight
+
+1.  Attack
+2.  ![Alecto: Final Blow](/images/mlbb/skills/benedetta-3.webp)Ult
+3.  ![Phantom Slash](/images/mlbb/skills/benedetta-1.webp)1
+4.  ![An Eye for An Eye](/images/mlbb/skills/benedetta-2.webp)2
+
+In teamfights, use Swordout Slash to get close to the enemy, then use Benedetta's Ultimate where the enemy is clustered, and follow up with her 1st Skill for additional damage and 2nd Skill to block incoming CC.
+
+#### Laning
+
+1.  Attack
+2.  ![Phantom Slash](/images/mlbb/skills/benedetta-1.webp)1
+3.  ![An Eye for An Eye](/images/mlbb/skills/benedetta-2.webp)2
+4.  Attack
+
+In the laning phase, gather Sword Intent by holding Benedetta's Basic Attack button, then use Swordout Slash after Sword Intent is maxed to strike the enemy. Follow up with her 1st Skill and try to max out Sword Intent again by blocking the enemy's attack with her 2nd Skill, then end the combo with another Swordout Slash.
+
+### When strongest
+
+Stronger early: 56.9% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **56.9**10–12
+2.  **53.6**12–14
+3.  **51.1**14–16
+4.  **50.6**16–18
+5.  **50.7**18–20
+6.  **51.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/benedetta-3.webp)Alecto: Final Blow
+2.  ![](/images/mlbb/skills/benedetta-1.webp)Phantom Slash
+3.  ![](/images/mlbb/skills/benedetta-2.webp)An Eye for An Eye
+
+## Skills
 
 ![](/images/mlbb/skills/benedetta-0.webp)Passive**Elapsed Daytime**![](/images/mlbb/skills/benedetta-1.webp)Skill 1**Phantom Slash**![](/images/mlbb/skills/benedetta-2.webp)Skill 2**An Eye for An Eye**![](/images/mlbb/skills/benedetta-3.webp)Ultimate**Alecto: Final Blow**
 
@@ -300,17 +339,13 @@ Cooldown **45 Mana Cost: 110 s**
 
 Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560 (+1105% Extra Physical Attack) Physical Damage to enemies within and slows them by 50%.
 
-## Counters
+## Benedetta counters
 
-### Counters
-
-Beat this hero
+### Who counters Benedetta
 
 [![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/alpha.webp)Alpha](https://boostmlbb.ru/en/heroes/alpha.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)
 
-### Easy targets
-
-This hero beats them
+### Who Benedetta counters
 
 [![](/images/heroes/art/obsidia.webp)Obsidia](https://boostmlbb.ru/en/heroes/obsidia.html)[![](/images/heroes/art/selena.webp)Selena](https://boostmlbb.ru/en/heroes/selena.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/irithel.webp)Irithel](https://boostmlbb.ru/en/heroes/irithel.html)[![](/images/heroes/art/phoveus.webp)Phoveus](https://boostmlbb.ru/en/heroes/phoveus.html)[![](/images/heroes/art/mathilda.webp)Mathilda](https://boostmlbb.ru/en/heroes/mathilda.html)
 
@@ -329,6 +364,10 @@ This hero beats them
 Who counters Benedetta in MLBB?
 
 Over the last 30 days the toughest opponents are X.Borg, Alpha, Silvanna, Ixia and Atlas.
+
+How do you play Benedetta?
+
+Level "Phantom Slash" first and take the ultimate whenever it is available. Stronger early: 56.9% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, use Swordout Slash to get close to the enemy, then use Benedetta's Ultimate where the enemy is clustered, and follow up with her 1st Skill for additional damage and 2nd Skill to block incoming CC.
 
 What is Benedetta’s win rate right now?
 

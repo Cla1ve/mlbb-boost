@@ -1,0 +1,131 @@
+/* Nickname generator on /news/mlbb-change-nickname/. Uses the journal tokens (--j-*). */
+.nickgen { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 24px; align-items: start; padding-block: 20px 8px; scroll-margin-top: 88px; }
+.nickgen *, .nickgen *::before, .nickgen *::after { box-sizing: border-box; }
+.nickgen [hidden] { display: none !important; }
+.nickgen :focus-visible { outline: 2px solid var(--j-accent); outline-offset: 2px; }
+.nickgen ul { margin: 0; padding: 0; list-style: none; }
+.nickgen h3 { margin: 0 0 10px; color: var(--j-ink); font-size: 1rem; font-weight: 650; }
+.ng-main { min-width: 0; }
+
+/* setup */
+.ng-setup { display: grid; gap: 18px; padding: 20px; border: 1px solid var(--j-line); border-radius: 16px; background: var(--j-panel); }
+.ng-row { display: flex; flex-wrap: wrap; gap: 18px 20px; }
+.ng-field { display: grid; gap: 8px; min-width: 0; }
+.ng-field--grow { flex: 1 1 260px; }
+.ng-label { color: var(--j-text); font-size: .9375rem; font-weight: 600; }
+.ng-label span { color: var(--j-faint); font-weight: 400; }
+.ng-seg { display: inline-grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 4px; padding: 4px; border: 1px solid var(--j-line); border-radius: 12px; background: #0b1b2c; }
+.ng-seg button { min-height: 44px; padding: 0 18px; border: 0; border-radius: 9px; background: transparent; color: var(--j-muted); font: inherit; font-size: 1rem; font-weight: 500; cursor: pointer; white-space: nowrap; }
+.ng-seg button:hover { color: var(--j-ink); }
+.ng-seg button[aria-pressed="true"] { background: #1f3b58; color: var(--j-ink); font-weight: 600; }
+.ng-input { position: relative; }
+.ng-input input { width: 100%; height: 52px; padding: 0 48px 0 16px; border: 1px solid var(--j-line-strong); border-radius: 12px; background: #0b1b2c; color: var(--j-ink); font: inherit; font-size: 1.0625rem; }
+.ng-input input:focus { border-color: var(--j-accent); outline: 0; }
+.ng-input__clear { position: absolute; top: 6px; right: 6px; display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 9px; background: transparent; color: var(--j-muted); cursor: pointer; }
+.ng-input__clear:hover { background: #17314a; color: var(--j-ink); }
+.ng-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.ng-chip { min-height: 42px; padding: 0 16px; border: 1px solid var(--j-line-strong); border-radius: 21px; background: transparent; color: var(--j-text); font: inherit; font-size: .9375rem; cursor: pointer; white-space: nowrap; }
+.ng-chip:hover { border-color: #4a6a88; color: var(--j-ink); }
+.ng-chip[aria-pressed="true"] { border-color: var(--j-accent); background: rgba(0, 255, 157, .12); color: var(--j-ink); font-weight: 600; }
+
+/* results */
+.ng-results-head { position: sticky; top: 64px; z-index: 5; display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 14px 0 10px; padding: 10px 0; background: var(--j-ground); }
+.ng-status { margin: 0; color: var(--j-muted); font-size: .9375rem; }
+.ng-reroll { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 0 18px; border: 0; border-radius: 11px; background: var(--j-accent); color: var(--j-accent-ink); font: inherit; font-weight: 650; cursor: pointer; transition: background-color .15s, transform .12s; }
+.ng-reroll:hover { background: #33ffb1; }
+.ng-reroll:active { transform: translateY(1px); }
+.ng-reroll--wide { width: 100%; margin-top: 12px; border: 1px solid var(--j-line-strong); background: transparent; color: var(--j-ink); }
+.ng-reroll--wide:hover { border-color: var(--j-accent); background: transparent; color: var(--j-accent); }
+.ng-results { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; }
+.ng-card { position: relative; display: grid; min-width: 0; border: 1px solid var(--j-line); border-radius: 14px; background: var(--j-panel); transition: border-color .15s, transform .15s; }
+.ng-card:hover { border-color: #4a6a88; transform: translateY(-2px); }
+.ng-card.is-selected { border-color: var(--j-accent); background: #0f2a2c; }
+.ng-card__try { display: grid; align-content: start; gap: 4px; min-height: 112px; padding: 16px 52px 14px 16px; border: 0; border-radius: 14px; background: none; color: inherit; font: inherit; text-align: left; cursor: pointer; }
+.ng-card__name { color: var(--j-ink); font-family: 'Exo 2', 'Golos Text', system-ui, sans-serif; font-size: 1.3125rem; font-weight: 650; line-height: 1.2; overflow-wrap: anywhere; }
+.ng-card__note { color: var(--j-muted); font-size: .8125rem; line-height: 1.35; }
+.ng-card__cta { margin-top: auto; padding-top: 8px; color: var(--j-accent); font-size: .875rem; font-weight: 600; }
+.ng-card.is-selected .ng-card__cta::after { content: " ✓"; }
+.ng-card__second { margin: -6px 0 10px 16px; justify-self: start; padding: 4px 0; border: 0; background: none; color: var(--j-accent); font: inherit; font-size: .8125rem; font-weight: 600; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.ng-card__copy { position: absolute; top: 8px; right: 8px; display: grid; place-items: center; width: 40px; height: 40px; border: 1px solid var(--j-line); border-radius: 10px; background: #0b1b2c; color: var(--j-muted); cursor: pointer; }
+.ng-card__copy:hover { border-color: var(--j-accent); color: var(--j-accent); }
+.ng-favs { margin-top: 24px; }
+.ng-favs ul { display: flex; flex-wrap: wrap; gap: 8px; }
+.ng-favs li { display: inline-flex; border: 1px solid var(--j-line-strong); border-radius: 10px; overflow: hidden; }
+.ng-fav, .ng-fav__remove { min-height: 40px; border: 0; background: var(--j-panel); color: var(--j-ink); font: inherit; cursor: pointer; }
+.ng-fav { padding: 0 10px 0 14px; font-weight: 500; }
+.ng-fav__remove { width: 36px; color: var(--j-muted); font-size: 1.125rem; }
+
+/* preview */
+.ng-bench { position: sticky; top: 88px; min-width: 0; }
+.ng-bench__panel { display: flex; flex-direction: column; gap: 18px; max-height: calc(100vh - 104px); padding: 18px; overflow-y: auto; border: 1px solid var(--j-line); border-radius: 16px; background: var(--j-panel); scrollbar-width: thin; }
+.ng-bench__head { display: flex; align-items: center; justify-content: space-between; }
+.ng-bench__head h2 { margin: 0; color: var(--j-ink); font-size: 1.125rem; font-weight: 650; }
+.ng-bench__close { display: none; }
+.ng-stage { display: grid; grid-template-columns: 128px minmax(0, 1fr); gap: 14px; align-items: center; }
+.ng-player { position: relative; border: 2px solid #3d5f7e; border-radius: 12px; overflow: hidden; background: #06121f; }
+.ng-player__art { display: block; width: 100%; height: auto; aspect-ratio: 240 / 390; object-fit: cover; }
+.ng-player__plate { position: absolute; inset: auto 0 0; display: flex; align-items: center; justify-content: center; gap: 4px; min-height: 38px; padding: 4px 6px; background: rgba(5, 14, 24, .9); }
+.ng-player__plate img { flex: none; }
+.ng-player__plate span { color: #fff; font-family: 'Exo 2', 'Golos Text', system-ui, sans-serif; font-size: .875rem; font-weight: 650; line-height: 1.15; overflow-wrap: anywhere; text-align: center; }
+.ng-stage__side { display: grid; gap: 10px; min-width: 0; }
+.ng-chat { margin: 0; padding: 8px 10px; border-radius: 8px; background: #06121f; color: #d5dee7; font-size: .8125rem; overflow-wrap: anywhere; }
+.ng-chat span { color: #62b5ff; }
+.ng-chat b { color: #ffd66b; font-weight: 600; }
+.ng-result { margin: 0; color: var(--j-ink); font-size: 1.5rem; font-weight: 650; line-height: 1.2; overflow-wrap: anywhere; }
+.ng-count { margin: 0; color: var(--j-muted); font-size: .8125rem; }
+.ng-count.is-over { color: var(--j-red); }
+.ng-hero { justify-self: start; min-height: 36px; padding: 0 12px; border: 1px solid var(--j-line); border-radius: 8px; background: transparent; color: var(--j-muted); font: inherit; font-size: .8125rem; cursor: pointer; }
+.ng-hero:hover { color: var(--j-ink); border-color: var(--j-line-strong); }
+.ng-fonts { display: grid; gap: 6px; }
+.ng-font { display: grid; grid-template-columns: 112px minmax(0, 1fr); align-items: center; gap: 10px; min-height: 46px; padding: 6px 12px; border: 1px solid var(--j-line); border-radius: 10px; background: #0b1b2c; color: inherit; font: inherit; text-align: left; cursor: pointer; }
+.ng-font:hover:not(:disabled) { border-color: #4a6a88; }
+.ng-font[aria-checked="true"] { border-color: var(--j-accent); background: rgba(0, 255, 157, .08); }
+.ng-font:disabled { cursor: default; opacity: .55; }
+.ng-font__name { display: grid; color: var(--j-muted); font-size: .8125rem; line-height: 1.25; }
+.ng-font__name small { color: #e0b15c; font-size: .6875rem; }
+.ng-font__sample { color: var(--j-ink); font-size: 1.0625rem; overflow-wrap: anywhere; }
+.ng-frames { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; }
+.ng-frame { min-height: 42px; padding: 4px; border: 1px solid var(--j-line); border-radius: 10px; background: #0b1b2c; color: var(--j-ink); font: inherit; font-size: .9375rem; cursor: pointer; white-space: nowrap; }
+.ng-frame:hover { border-color: #4a6a88; }
+.ng-frame[aria-checked="true"] { border-color: var(--j-accent); background: rgba(0, 255, 157, .08); }
+.ng-actions { position: sticky; bottom: -18px; display: grid; grid-template-columns: minmax(0, 1fr) 52px; gap: 8px; margin: 0 -18px; padding: 12px 18px; border-top: 1px solid var(--j-line); background: var(--j-panel); }
+.ng-copy { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 52px; border: 0; border-radius: 12px; background: var(--j-accent); color: var(--j-accent-ink); font: inherit; font-size: 1.0625rem; font-weight: 650; cursor: pointer; }
+.ng-copy:hover { background: #33ffb1; }
+.ng-copy:active { transform: translateY(1px); }
+.ng-save { display: grid; place-items: center; min-height: 52px; border: 1px solid var(--j-line-strong); border-radius: 12px; background: transparent; color: var(--j-muted); cursor: pointer; }
+.ng-save svg { fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linejoin: round; }
+.ng-save[aria-pressed="true"] { border-color: #f2c14e; color: #f2c14e; }
+.ng-save[aria-pressed="true"] svg { fill: currentColor; }
+.ng-hint { margin: 0; color: var(--j-muted); font-size: .8125rem; line-height: 1.5; }
+.ng-toast { position: fixed; left: 50%; bottom: 24px; z-index: 10001; max-width: calc(100vw - 32px); padding: 12px 18px; border: 1px solid rgba(0, 255, 157, .4); border-radius: 12px; background: #0f2a2c; color: var(--j-ink); font-weight: 600; transform: translateX(-50%); box-shadow: 0 12px 32px rgba(0, 0, 0, .45); overflow-wrap: anywhere; }
+
+@media (max-width: 980px) {
+  .nickgen { grid-template-columns: minmax(0, 1fr); padding-top: 16px; }
+  .ng-bench { position: fixed; inset: 0; z-index: 10000; display: none; align-items: flex-end; background: rgba(3, 10, 18, .7); }
+  .ng-bench.is-open { display: flex; }
+  .ng-bench__panel { width: 100%; max-height: 90vh; padding: 0 16px; gap: 16px; border-width: 1px 0 0; border-radius: 18px 18px 0 0; }
+  .ng-bench__head { position: sticky; top: 0; z-index: 2; margin: 0 -16px; padding: 12px 12px 12px 16px; border-bottom: 1px solid var(--j-line); background: var(--j-panel); }
+  .ng-bench__close { display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 10px; background: #17314a; color: var(--j-ink); cursor: pointer; }
+  .ng-actions { bottom: 0; margin: 0 -16px; padding: 12px 16px calc(12px + env(safe-area-inset-bottom)); }
+  .ng-hint { padding-bottom: 4px; }
+  html.ng-locked { overflow: hidden; }
+}
+@media (max-width: 620px) {
+  .ng-setup { padding: 16px; gap: 16px; }
+  .ng-row { display: grid; }
+  .ng-seg { display: grid; width: 100%; }
+  .ng-seg button { padding: 0 8px; }
+  .ng-chips { flex-wrap: nowrap; margin-inline: -16px; padding-inline: 16px; overflow-x: auto; scrollbar-width: none; }
+  .ng-chips::-webkit-scrollbar { display: none; }
+  .ng-results-head { top: 60px; }
+  .ng-status { font-size: .875rem; }
+  .ng-results-head .ng-reroll { padding: 0 14px; }
+  .ng-results { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .ng-card__try { min-height: 104px; padding: 12px 44px 12px 12px; }
+  .ng-card__name { font-size: 1.0625rem; }
+  .ng-card__copy { top: 6px; right: 6px; width: 36px; height: 36px; }
+  .ng-card__second { margin-left: 12px; }
+  .ng-stage { grid-template-columns: 104px minmax(0, 1fr); }
+  .ng-font { grid-template-columns: 96px minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) { .ng-card, .ng-reroll { transition: none; } .ng-card:hover { transform: none; } }

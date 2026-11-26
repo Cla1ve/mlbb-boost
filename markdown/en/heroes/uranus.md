@@ -1,6 +1,6 @@
 ---
-title: "Uranus MLBB: build, counters and skills | MLBB Boost"
-description: "Uranus in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank, 48.70% win rate, tier B."
+title: "Uranus MLBB: build, combos and counters | MLBB Boost"
+description: "Uranus in Mobile Legends: ranked build, skill combos, how to play and who counters Uranus. Tank, 48.70% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/uranus.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -245,9 +245,46 @@ Common
     Concussive Blast
 
 
-## Skills
+## How to play Uranus
 
-Level-up**Consecration**_›_**Ionic Edge**_›_**Transcendent Ward**
+### Uranus combos
+
+#### Teamfight
+
+1.  ![Transcendent Ward](/images/mlbb/skills/uranus-2.webp)2
+2.  ![Consecration](/images/mlbb/skills/uranus-3.webp)Ult
+3.  ![Ionic Edge](/images/mlbb/skills/uranus-1.webp)1
+
+Uranus should use his 2nd Skill to enter the fight, then his Ultimate to survive under enemy attacks while spamming his 1st Skill for sustained damage.
+
+#### Laning
+
+1.  ![Ionic Edge](/images/mlbb/skills/uranus-1.webp)1
+2.  ![Transcendent Ward](/images/mlbb/skills/uranus-2.webp)2
+3.  ![Ionic Edge](/images/mlbb/skills/uranus-1.webp)1
+
+Uranus can use his 1st Skill to poke the enemy, then use the 2nd Skill - 1st Skill combo when their HP is low to finish them off.
+
+### When strongest
+
+Stronger early: 53.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.0**10–12
+2.  **51.7**12–14
+3.  **50.2**14–16
+4.  **48.5**16–18
+5.  **47.5**18–20
+6.  **46.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/uranus-3.webp)Consecration
+2.  ![](/images/mlbb/skills/uranus-1.webp)Ionic Edge
+3.  ![](/images/mlbb/skills/uranus-2.webp)Transcendent Ward
+
+## Skills
 
 ![](/images/mlbb/skills/uranus-0.webp)Passive**Radiance**![](/images/mlbb/skills/uranus-1.webp)Skill 1**Ionic Edge**![](/images/mlbb/skills/uranus-2.webp)Skill 2**Transcendent Ward**![](/images/mlbb/skills/uranus-3.webp)Ultimate**Consecration**
 
@@ -289,17 +326,13 @@ Uranus unleashes the energy stored within his body, removing slow effects on him
 
 Uranus directly gains 5 stacks of Radiance, increasing shields received and HP Regen by 20% for 8s.
 
-## Counters
+## Uranus counters
 
-### Counters
-
-Beat this hero
+### Who counters Uranus
 
 [![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)[![](/images/heroes/art/gatotkaca.webp)Gatotkaca](https://boostmlbb.ru/en/heroes/gatotkaca.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/granger.webp)Granger](https://boostmlbb.ru/en/heroes/granger.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)
 
-### Easy targets
-
-This hero beats them
+### Who Uranus counters
 
 [![](/images/heroes/art/dyrroth.webp)Dyrroth](https://boostmlbb.ru/en/heroes/dyrroth.html)[![](/images/heroes/art/kimmy.webp)Kimmy](https://boostmlbb.ru/en/heroes/kimmy.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/luo-yi.webp)Luo Yi](https://boostmlbb.ru/en/heroes/luo-yi.html)
 
@@ -318,6 +351,10 @@ This hero beats them
 Who counters Uranus in MLBB?
 
 Over the last 30 days the toughest opponents are Argus, Gatotkaca, Yin, Granger and Zhask.
+
+How do you play Uranus?
+
+Level "Ionic Edge" first and take the ultimate whenever it is available. Stronger early: 53.0% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Uranus should use his 2nd Skill to enter the fight, then his Ultimate to survive under enemy attacks while spamming his 1st Skill for sustained damage.
 
 What is Uranus’s win rate right now?
 

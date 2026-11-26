@@ -1,6 +1,6 @@
 ---
-title: "Obsidia MLBB: build, counters and skills | MLBB Boost"
-description: "Obsidia in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 52.58% win rate, tier S."
+title: "Obsidia MLBB: build, combos and counters | MLBB Boost"
+description: "Obsidia in Mobile Legends: ranked build, skill combos, how to play and who counters Obsidia. Marksman, 52.58% win rate, tier S."
 canonical: https://boostmlbb.ru/en/heroes/obsidia.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 65.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,49 @@ Fighter
     Weakness Finder
 
 
-## Skills
+## How to play Obsidia
 
-Level-up**Hunt of Bone**_›_**Phantom Shadowmeld**_›_**Abyssal Bone Needle**
+### Obsidia combos
+
+#### Teamfight
+
+1.  Attack
+2.  ![Abyssal Bone Needle](/images/mlbb/skills/obsidia-1.webp)1
+3.  ![Phantom Shadowmeld](/images/mlbb/skills/obsidia-2.webp)2
+4.  ![Hunt of Bone](/images/mlbb/skills/obsidia-3.webp)Ult
+5.  Attack
+
+During teamfights, use Obsidia's Basic Attacks and 1st Skill to poke the enemy, and her 2nd Skill to reposition herself. Look for opportunities to close in on a target with her Ultimate and pick them off with your team. Finally, use her mobility and powerful Basic Attacks to clean up the remaining enemies.
+
+#### Laning
+
+1.  ![Abyssal Bone Needle](/images/mlbb/skills/obsidia-1.webp)1
+2.  ![Phantom Shadowmeld](/images/mlbb/skills/obsidia-2.webp)2
+3.  ![Hunt of Bone](/images/mlbb/skills/obsidia-3.webp)Ult
+4.  Attack
+
+During the laning phase, use Obsidia's 1st Skill often on enemy Minions and heroes to quickly stack her Passive. When the enemy's HP drops low enough, use Obsidia's 2nd Skill and Ultimate on them and finish them off with Basic Attacks.
+
+### When strongest
+
+Stronger early: 54.4% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **53.6**10–12
+2.  **54.4**12–14
+3.  **54.0**14–16
+4.  **52.7**16–18
+5.  **51.5**18–20
+6.  **51.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/obsidia-3.webp)Hunt of Bone
+2.  ![](/images/mlbb/skills/obsidia-2.webp)Phantom Shadowmeld
+3.  ![](/images/mlbb/skills/obsidia-1.webp)Abyssal Bone Needle
+
+## Skills
 
 ![](/images/mlbb/skills/obsidia-0.webp)Passive**Return to Bone**![](/images/mlbb/skills/obsidia-1.webp)Skill 1**Abyssal Bone Needle**![](/images/mlbb/skills/obsidia-2.webp)Skill 2**Phantom Shadowmeld**![](/images/mlbb/skills/obsidia-3.webp)Ultimate**Hunt of Bone**
 
@@ -290,17 +330,13 @@ Obsidia shoots Bones of Wrath in the target direction, dealing 125 (+60% Extra P
 
 While tethered, Obsidia can move through obstacles and use Basic Attacks while moving. Phantom Shadowmeld is also enhanced: its duration increases to 1s, and its cooldown is reduced to 33%.
 
-## Counters
+## Obsidia counters
 
-### Counters
-
-Beat this hero
+### Who counters Obsidia
 
 [![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/aldous.webp)Aldous](https://boostmlbb.ru/en/heroes/aldous.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)
 
-### Easy targets
-
-This hero beats them
+### Who Obsidia counters
 
 [![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/baxia.webp)Baxia](https://boostmlbb.ru/en/heroes/baxia.html)
 
@@ -319,6 +355,10 @@ This hero beats them
 Who counters Obsidia in MLBB?
 
 Over the last 30 days the toughest opponents are Benedetta, Helcurt, Aldous, Yin and Natalia.
+
+How do you play Obsidia?
+
+Level "Phantom Shadowmeld" first and take the ultimate whenever it is available. Stronger early: 54.4% at 12–14 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: During teamfights, use Obsidia's Basic Attacks and 1st Skill to poke the enemy, and her 2nd Skill to reposition herself. Look for opportunities to close in on a target with her Ultimate and pick them off with your team. Finally, use her mobility and powerful Basic Attacks to clean up the remaining enemies.
 
 What is Obsidia’s win rate right now?
 

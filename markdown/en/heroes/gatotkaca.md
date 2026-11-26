@@ -1,6 +1,6 @@
 ---
-title: "Gatotkaca MLBB: build, counters and skills | MLBB Boost"
-description: "Gatotkaca in Mobile Legends: the most popular ranked build, skills, counters and teammates. Tank and fighter, 44.17% win rate, tier C."
+title: "Gatotkaca MLBB: build, combos and counters | MLBB Boost"
+description: "Gatotkaca in Mobile Legends: ranked build, skill combos, how to play and who counters Gatotkaca. Tank and fighter, 44.17% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/gatotkaca.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.1%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,47 @@ Tank
     Concussive Blast
 
 
-## Skills
+## How to play Gatotkaca
 
-Level-up**Avatar of the Guardian**_›_**Blast Iron Fist**_›_**Unbreakable**
+### Gatotkaca combos
+
+#### Teamfight
+
+1.  ![Avatar of the Guardian](/images/mlbb/skills/gatotkaca-3.webp)Ult
+2.  ![Unbreakable](/images/mlbb/skills/gatotkaca-2.webp)2
+3.  ![Blast Iron Fist](/images/mlbb/skills/gatotkaca-1.webp)1
+4.  Attack
+
+In teamfights, use Gatotkaca's Ultimate to dive into the enemy team, then use his 2nd Skill to taunt them, and slow them with his 1st Skill before finishing with Basic Attacks.
+
+#### Laning
+
+1.  ![Unbreakable](/images/mlbb/skills/gatotkaca-2.webp)2
+2.  ![Blast Iron Fist](/images/mlbb/skills/gatotkaca-1.webp)1
+3.  Attack
+
+In the laning phase, use Gatotkaca's 2nd Skill to CC the enemy by charging up to extend the range while aiming, then follow up with his 1st Skill and Basic Attacks.
+
+### When strongest
+
+Stronger late: 48.0% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **41.5**10–12
+2.  **45.0**12–14
+3.  **47.2**14–16
+4.  **47.8**16–18
+5.  **47.9**18–20
+6.  **48.0**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/gatotkaca-3.webp)Avatar of the Guardian
+2.  ![](/images/mlbb/skills/gatotkaca-1.webp)Blast Iron Fist
+3.  ![](/images/mlbb/skills/gatotkaca-2.webp)Unbreakable
+
+## Skills
 
 ![](/images/mlbb/skills/gatotkaca-0.webp)Passive**Steel Bones**![](/images/mlbb/skills/gatotkaca-1.webp)Skill 1**Blast Iron Fist**![](/images/mlbb/skills/gatotkaca-2.webp)Skill 2**Unbreakable**![](/images/mlbb/skills/gatotkaca-3.webp)Ultimate**Avatar of the Guardian**
 
@@ -286,17 +324,13 @@ Gatotkaca jumps to the target location, dealing 500 (+300% Total Magic Power) Ma
 
 The camera will move with the skill indicator but won't grant extra sight.
 
-## Counters
+## Gatotkaca counters
 
-### Counters
-
-Beat this hero
+### Who counters Gatotkaca
 
 [![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/saber.webp)Saber](https://boostmlbb.ru/en/heroes/saber.html)[![](/images/heroes/art/miya.webp)Miya](https://boostmlbb.ru/en/heroes/miya.html)[![](/images/heroes/art/zilong.webp)Zilong](https://boostmlbb.ru/en/heroes/zilong.html)[![](/images/heroes/art/argus.webp)Argus](https://boostmlbb.ru/en/heroes/argus.html)
 
-### Easy targets
-
-This hero beats them
+### Who Gatotkaca counters
 
 [![](/images/heroes/art/lesley.webp)Lesley](https://boostmlbb.ru/en/heroes/lesley.html)[![](/images/heroes/art/uranus.webp)Uranus](https://boostmlbb.ru/en/heroes/uranus.html)
 
@@ -315,6 +349,10 @@ This hero beats them
 Who counters Gatotkaca in MLBB?
 
 Over the last 30 days the toughest opponents are Odette, Saber, Miya, Zilong and Argus.
+
+How do you play Gatotkaca?
+
+Level "Blast Iron Fist" first and take the ultimate whenever it is available. Stronger late: 48.0% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, use Gatotkaca's Ultimate to dive into the enemy team, then use his 2nd Skill to taunt them, and slow them with his 1st Skill before finishing with Basic Attacks.
 
 What is Gatotkaca’s win rate right now?
 

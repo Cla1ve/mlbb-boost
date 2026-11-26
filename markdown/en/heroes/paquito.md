@@ -1,6 +1,6 @@
 ---
-title: "Paquito MLBB: build, counters and skills | MLBB Boost"
-description: "Paquito in Mobile Legends: the most popular ranked build, skills, counters and teammates. Fighter and assassin, 50.14% win rate, tier A."
+title: "Paquito MLBB: build, combos and counters | MLBB Boost"
+description: "Paquito in Mobile Legends: ranked build, skill combos, how to play and who counters Paquito. Fighter and assassin, 50.14% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/paquito.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 10.7%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -248,9 +248,48 @@ Assassin
     Lethal Ignition
 
 
-## Skills
+## How to play Paquito
 
-Level-up**Knockout Strike**_›_**Jab**_›_**Heavy Left Punch**
+### Paquito combos
+
+#### Teamfight
+
+1.  ![Jab](/images/mlbb/skills/paquito-2.webp)2
+2.  ![Heavy Left Punch](/images/mlbb/skills/paquito-1.webp)1
+3.  ![Knockout Strike](/images/mlbb/skills/paquito-3.webp)Ult
+4.  ![Jab](/images/mlbb/skills/paquito-2.webp)2
+
+In teamfights, Paquito can use his 2nd Skill to approach the enemy team, then his 1st Skill to deal damage. He should follow up with his Ultimate to knock the enemy back and enter the Champ Stance. He can finish with his enhanced 2nd Skill to deal heavy damage to the enemies.
+
+#### Laning
+
+1.  ![Heavy Left Punch](/images/mlbb/skills/paquito-1.webp)1
+2.  ![Jab](/images/mlbb/skills/paquito-2.webp)2
+3.  ![Heavy Left Punch](/images/mlbb/skills/paquito-1.webp)1
+4.  ![Jab](/images/mlbb/skills/paquito-2.webp)2
+
+In the laning phase, Paquito can use his 1st Skill to gain a stack for the Champ Stance before using his 2nd Skill to close in on the enemy hero. He can use his 1st Skill again to deal damage and enter the Champ Stance. He should then hit the enemy hero with the enhanced 2nd Skill.
+
+### When strongest
+
+Stronger early: 51.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **51.3**10–12
+2.  **50.2**12–14
+3.  **49.4**14–16
+4.  **49.4**16–18
+5.  **49.0**18–20
+6.  **49.4**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/paquito-3.webp)Knockout Strike
+2.  ![](/images/mlbb/skills/paquito-2.webp)Jab
+3.  ![](/images/mlbb/skills/paquito-1.webp)Heavy Left Punch
+
+## Skills
 
 ![](/images/mlbb/skills/paquito-0.webp)Passive**Champ Stance**![](/images/mlbb/skills/paquito-1.webp)Skill 1**Heavy Left Punch**![](/images/mlbb/skills/paquito-2.webp)Skill 2**Jab**![](/images/mlbb/skills/paquito-3.webp)Ultimate**Knockout Strike**
 
@@ -298,11 +337,9 @@ He then throws a haymaker, dealing 300 (+90% Total Physical Attack) Physical Dam
 
 **Champ Stance:** After knocking enemies back to the destination, Paquito launches an uppercut instead, dealing 400 (+120% Total Physical Attack) Physical Damage and knocking them airborne for 0.5s.
 
-## Counters
+## Paquito counters
 
-### Counters
-
-Beat this hero
+### Who counters Paquito
 
 [![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/karina.webp)Karina](https://boostmlbb.ru/en/heroes/karina.html)[![](/images/heroes/art/wanwan.webp)Wanwan](https://boostmlbb.ru/en/heroes/wanwan.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)
 
@@ -321,6 +358,10 @@ Beat this hero
 Who counters Paquito in MLBB?
 
 Over the last 30 days the toughest opponents are Natalia, X.Borg, Karina, Wanwan and Helcurt.
+
+How do you play Paquito?
+
+Level "Jab" first and take the ultimate whenever it is available. Stronger early: 51.3% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: In teamfights, Paquito can use his 2nd Skill to approach the enemy team, then his 1st Skill to deal damage. He should follow up with his Ultimate to knock the enemy back and enter the Champ Stance. He can finish with his enhanced 2nd Skill to deal heavy damage to the enemies.
 
 What is Paquito’s win rate right now?
 

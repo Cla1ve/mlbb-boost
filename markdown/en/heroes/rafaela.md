@@ -1,6 +1,6 @@
 ---
-title: "Rafaela MLBB: build, counters and skills | MLBB Boost"
-description: "Rafaela in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 53.24% win rate, tier B."
+title: "Rafaela MLBB: build, combos and counters | MLBB Boost"
+description: "Rafaela in Mobile Legends: ranked build, skill combos, how to play and who counters Rafaela. Support, 53.24% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/rafaela.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 9.0%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,45 @@ Support
     Focusing Mark
 
 
-## Skills
+## How to play Rafaela
 
-Level-up**Holy Baptism**_›_**Light of Retribution**_›_**Holy Healing**
+### Rafaela combos
+
+#### Teamfight
+
+1.  ![Light of Retribution](/images/mlbb/skills/rafaela-1.webp)1
+2.  ![Holy Baptism](/images/mlbb/skills/rafaela-3.webp)Ult
+3.  ![Holy Healing](/images/mlbb/skills/rafaela-2.webp)2
+
+Use 1st Skill to slow enemies,then her Ultimate for Control Effect,then use the 2nd Skill to restore allies' HP.
+
+#### Laning
+
+1.  ![Light of Retribution](/images/mlbb/skills/rafaela-1.webp)1
+2.  ![Holy Healing](/images/mlbb/skills/rafaela-2.webp)2
+
+Use 1st Skill to poke enemiesand 2nd to heal and create distance.
+
+### When strongest
+
+Stronger early: 55.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **55.8**10–12
+2.  **55.1**12–14
+3.  **54.1**14–16
+4.  **53.1**16–18
+5.  **53.0**18–20
+6.  **51.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/rafaela-3.webp)Holy Baptism
+2.  ![](/images/mlbb/skills/rafaela-1.webp)Light of Retribution
+3.  ![](/images/mlbb/skills/rafaela-2.webp)Holy Healing
+
+## Skills
 
 ![](/images/mlbb/skills/rafaela-0.webp)Passive**Divine Resurrection**![](/images/mlbb/skills/rafaela-1.webp)Skill 1**Light of Retribution**![](/images/mlbb/skills/rafaela-2.webp)Skill 2**Holy Healing**![](/images/mlbb/skills/rafaela-3.webp)Ultimate**Holy Baptism**
 
@@ -286,17 +322,13 @@ Cooldown **38 Mana Cost: 120 s**
 
 Rafaela unleashes the true power of Holy Light in the target direction, dealing 460 (+120% Total Magic Power) Magic Damage to enemies in a line and stunning them for 1.2s.
 
-## Counters
+## Rafaela counters
 
-### Counters
-
-Beat this hero
+### Who counters Rafaela
 
 [![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/hylos.webp)Hylos](https://boostmlbb.ru/en/heroes/hylos.html)
 
-### Easy targets
-
-This hero beats them
+### Who Rafaela counters
 
 [![](/images/heroes/art/layla.webp)Layla](https://boostmlbb.ru/en/heroes/layla.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
@@ -315,6 +347,10 @@ This hero beats them
 Who counters Rafaela in MLBB?
 
 Over the last 30 days the toughest opponents are Valir, Natalia, Marcel, Cici and Hylos.
+
+How do you play Rafaela?
+
+Level "Light of Retribution" first and take the ultimate whenever it is available. Stronger early: 55.8% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Use 1st Skill to slow enemies,then her Ultimate for Control Effect,then use the 2nd Skill to restore allies' HP.
 
 What is Rafaela’s win rate right now?
 

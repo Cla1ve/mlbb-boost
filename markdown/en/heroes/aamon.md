@@ -1,6 +1,6 @@
 ---
-title: "Aamon MLBB: build, counters and skills | MLBB Boost"
-description: "Aamon in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin, 49.89% win rate, tier C."
+title: "Aamon MLBB: build, combos and counters | MLBB Boost"
+description: "Aamon in Mobile Legends: ranked build, skill combos, how to play and who counters Aamon. Assassin, 49.89% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/aamon.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.9%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,49 @@ Mage
     Killing Spree
 
 
-## Skills
+## How to play Aamon
 
-Level-up**Endless Shards**_›_**Soul Shards**_›_**Slayer Shards**
+### Aamon combos
+
+#### Teamfight
+
+1.  ![Slayer Shards](/images/mlbb/skills/aamon-2.webp)2
+2.  Attack
+3.  ![Soul Shards](/images/mlbb/skills/aamon-1.webp)1
+4.  Attack
+5.  ![Endless Shards](/images/mlbb/skills/aamon-3.webp)Ult
+
+Use 2nd Skill to Camouflage and flank the enemy. Deal damage with his 1st Skill and Basic Attacks, and Ultimate to take out backline heroes.
+
+#### Laning
+
+1.  ![Slayer Shards](/images/mlbb/skills/aamon-2.webp)2
+2.  Attack
+3.  ![Soul Shards](/images/mlbb/skills/aamon-1.webp)1
+4.  Attack
+
+Use his skills and Enhanced Basic Attacks for very high jungling efficiency.
+
+### When strongest
+
+Even through the game, from 49.5% to 51.1%. Pick fights by your items rather than the clock.
+
+1.  **51.1**10–12
+2.  **50.0**12–14
+3.  **49.5**14–16
+4.  **49.9**16–18
+5.  **50.3**18–20
+6.  **50.8**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/aamon-3.webp)Endless Shards
+2.  ![](/images/mlbb/skills/aamon-1.webp)Soul Shards
+3.  ![](/images/mlbb/skills/aamon-2.webp)Slayer Shards
+
+## Skills
 
 ![](/images/mlbb/skills/aamon-0.webp)Passive**Invisible Armor**![](/images/mlbb/skills/aamon-1.webp)Skill 1**Soul Shards**![](/images/mlbb/skills/aamon-2.webp)Skill 2**Slayer Shards**![](/images/mlbb/skills/aamon-3.webp)Ultimate**Endless Shards**
 
@@ -293,17 +333,13 @@ The number of shards increases with Aamon's armor charges and the shards on the 
 
 The damage dealt increases with the target's lost , to the max when the target's HP is below 30%.
 
-## Counters
+## Aamon counters
 
-### Counters
-
-Beat this hero
+### Who counters Aamon
 
 [![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/marcel.webp)Marcel](https://boostmlbb.ru/en/heroes/marcel.html)[![](/images/heroes/art/claude.webp)Claude](https://boostmlbb.ru/en/heroes/claude.html)[![](/images/heroes/art/bruno.webp)Bruno](https://boostmlbb.ru/en/heroes/bruno.html)[![](/images/heroes/art/hilda.webp)Hilda](https://boostmlbb.ru/en/heroes/hilda.html)
 
-### Easy targets
-
-This hero beats them
+### Who Aamon counters
 
 [![](/images/heroes/art/gusion.webp)Gusion](https://boostmlbb.ru/en/heroes/gusion.html)[![](/images/heroes/art/silvanna.webp)Silvanna](https://boostmlbb.ru/en/heroes/silvanna.html)[![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/hayabusa.webp)Hayabusa](https://boostmlbb.ru/en/heroes/hayabusa.html)
 
@@ -322,6 +358,10 @@ This hero beats them
 Who counters Aamon in MLBB?
 
 Over the last 30 days the toughest opponents are Cici, Marcel, Claude, Bruno and Hilda.
+
+How do you play Aamon?
+
+Level "Soul Shards" first and take the ultimate whenever it is available. Even through the game, from 49.5% to 51.1%. Pick fights by your items rather than the clock. Teamfight combo: Use 2nd Skill to Camouflage and flank the enemy. Deal damage with his 1st Skill and Basic Attacks, and Ultimate to take out backline heroes.
 
 What is Aamon’s win rate right now?
 

@@ -1,6 +1,6 @@
 ---
-title: "Mathilda MLBB: build, counters and skills | MLBB Boost"
-description: "Mathilda in Mobile Legends: the most popular ranked build, skills, counters and teammates. Assassin and support, 43.97% win rate, tier D."
+title: "Mathilda MLBB: build, combos and counters | MLBB Boost"
+description: "Mathilda in Mobile Legends: ranked build, skill combos, how to play and who counters Mathilda. Assassin and support, 43.97% win rate, tier D."
 canonical: https://boostmlbb.ru/en/heroes/mathilda.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.2%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,47 @@ Support
     Impure Rage
 
 
-## Skills
+## How to play Mathilda
 
-Level-up**Circling Eagle**_›_**Soul Bloom**_›_**Guiding Wind**
+### Mathilda combos
+
+#### Teamfight
+
+1.  ![Soul Bloom](/images/mlbb/skills/mathilda-1.webp)1
+2.  ![Guiding Wind](/images/mlbb/skills/mathilda-2.webp)2
+3.  ![Circling Eagle](/images/mlbb/skills/mathilda-3.webp)Ult
+
+In teamfights, first activate Mathilda's 1st skill, then immediately use her 2nd Skill to get to a good position to initiate from and unleash her Ultimate on the primary target. This combo allows Mathilda to quickly CC a key enemy hero, and lets an ally follow up by using Guiding Wind from her 2nd Skill.
+
+#### Laning
+
+1.  ![Soul Bloom](/images/mlbb/skills/mathilda-1.webp)1
+2.  ![Guiding Wind](/images/mlbb/skills/mathilda-2.webp)2
+3.  Attack
+4.  ![Circling Eagle](/images/mlbb/skills/mathilda-3.webp)Ult
+
+In the laning phase, use Mathilda's 1st Skill in advance and keep moving to gather wisps, then use her 2nd Skill to get close to the enemy and unleash all her wisps at the target before ending with an enhanced Basic Attack. Use her Ultimate to secure the kill if the enemy is low on HP.
+
+### When strongest
+
+Stronger late: 49.5% after minute 20. Do not take risks early, farm and fight together with your team.
+
+1.  **38.5**10–12
+2.  **42.2**12–14
+3.  **44.5**14–16
+4.  **46.9**16–18
+5.  **48.2**18–20
+6.  **49.5**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/mathilda-3.webp)Circling Eagle
+2.  ![](/images/mlbb/skills/mathilda-1.webp)Soul Bloom
+3.  ![](/images/mlbb/skills/mathilda-2.webp)Guiding Wind
+
+## Skills
 
 ![](/images/mlbb/skills/mathilda-0.webp)Passive**Ancestral Guidance**![](/images/mlbb/skills/mathilda-1.webp)Skill 1**Soul Bloom**![](/images/mlbb/skills/mathilda-2.webp)Skill 2**Guiding Wind**![](/images/mlbb/skills/mathilda-3.webp)Ultimate**Circling Eagle**
 
@@ -293,17 +331,13 @@ Within the duration, Mathilda can select an area to dash to. At the end of the d
 
 Mathilda gains Control Immunity and a 400 (+180% Total Magic Power) shield for the skill duration.
 
-## Counters
+## Mathilda counters
 
-### Counters
-
-Beat this hero
+### Who counters Mathilda
 
 [![](/images/heroes/art/natalia.webp)Natalia](https://boostmlbb.ru/en/heroes/natalia.html)[![](/images/heroes/art/x-borg.webp)X.Borg](https://boostmlbb.ru/en/heroes/x-borg.html)[![](/images/heroes/art/valir.webp)Valir](https://boostmlbb.ru/en/heroes/valir.html)[![](/images/heroes/art/helcurt.webp)Helcurt](https://boostmlbb.ru/en/heroes/helcurt.html)[![](/images/heroes/art/benedetta.webp)Benedetta](https://boostmlbb.ru/en/heroes/benedetta.html)
 
-### Easy targets
-
-This hero beats them
+### Who Mathilda counters
 
 [![](/images/heroes/art/esmeralda.webp)Esmeralda](https://boostmlbb.ru/en/heroes/esmeralda.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/alucard.webp)Alucard](https://boostmlbb.ru/en/heroes/alucard.html)[![](/images/heroes/art/khufra.webp)Khufra](https://boostmlbb.ru/en/heroes/khufra.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)
 
@@ -322,6 +356,10 @@ This hero beats them
 Who counters Mathilda in MLBB?
 
 Over the last 30 days the toughest opponents are Natalia, X.Borg, Valir, Helcurt and Benedetta.
+
+How do you play Mathilda?
+
+Level "Soul Bloom" first and take the ultimate whenever it is available. Stronger late: 49.5% after minute 20. Do not take risks early, farm and fight together with your team. Teamfight combo: In teamfights, first activate Mathilda's 1st skill, then immediately use her 2nd Skill to get to a good position to initiate from and unleash her Ultimate on the primary target. This combo allows Mathilda to quickly CC a key enemy hero, and lets an ally follow up by using Guiding Wind from her 2nd Skill.
 
 What is Mathilda’s win rate right now?
 

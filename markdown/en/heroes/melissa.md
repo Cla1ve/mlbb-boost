@@ -1,6 +1,6 @@
 ---
-title: "Melissa MLBB: build, counters and skills | MLBB Boost"
-description: "Melissa in Mobile Legends: the most popular ranked build, skills, counters and teammates. Marksman, 52.43% win rate, tier B."
+title: "Melissa MLBB: build, combos and counters | MLBB Boost"
+description: "Melissa in Mobile Legends: ranked build, skill combos, how to play and who counters Melissa. Marksman, 52.43% win rate, tier B."
 canonical: https://boostmlbb.ru/en/heroes/melissa.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.6%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -194,9 +194,48 @@ Marksman
     Weakness Finder
 
 
-## Skills
+## How to play Melissa
 
-Level-up**Go Away!**_›_**Falling!**_›_**Eyes on You!**
+### Melissa combos
+
+#### Teamfight
+
+1.  ![Eyes on You!](/images/mlbb/skills/melissa-2.webp)2
+2.  Attack
+3.  ![Falling!](/images/mlbb/skills/melissa-1.webp)1
+4.  ![Go Away!](/images/mlbb/skills/melissa-3.webp)Ult
+
+Link enemies with her 2nd Skill for increased damage. Use 1st Skill to keep them linked and her Ultimate to stop enemies from getting close.
+
+#### Laning
+
+1.  ![Eyes on You!](/images/mlbb/skills/melissa-2.webp)2
+2.  Attack
+3.  ![Falling!](/images/mlbb/skills/melissa-1.webp)1
+4.  Attack
+
+Link the enemy with her 2nd Skill and use Basic Attacks to deal extra damage. Chase enemies trying to flee with her 1st Skill.
+
+### When strongest
+
+Stronger late: 54.6% at 18–20 minutes. Do not take risks early, farm and fight together with your team.
+
+1.  **48.2**10–12
+2.  **50.7**12–14
+3.  **53.0**14–16
+4.  **54.2**16–18
+5.  **54.6**18–20
+6.  **53.1**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/melissa-3.webp)Go Away!
+2.  ![](/images/mlbb/skills/melissa-1.webp)Falling!
+3.  ![](/images/mlbb/skills/melissa-2.webp)Eyes on You!
+
+## Skills
 
 ![](/images/mlbb/skills/melissa-0.webp)Passive**Doll Buster**![](/images/mlbb/skills/melissa-1.webp)Skill 1**Falling!**![](/images/mlbb/skills/melissa-2.webp)Skill 2**Eyes on You!**![](/images/mlbb/skills/melissa-3.webp)Ultimate**Go Away!**
 
@@ -244,17 +283,13 @@ Cooldown **50 Mana Cost: 120 s**
 
 The field will move with Melissa once, when she's about to move out of the boundary.)
 
-## Counters
+## Melissa counters
 
-### Counters
-
-Beat this hero
+### Who counters Melissa
 
 [![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)[![](/images/heroes/art/popol-and-kupa.webp)Popol and Kupa](https://boostmlbb.ru/en/heroes/popol-and-kupa.html)[![](/images/heroes/art/joy.webp)Joy](https://boostmlbb.ru/en/heroes/joy.html)[![](/images/heroes/art/leomord.webp)Leomord](https://boostmlbb.ru/en/heroes/leomord.html)[![](/images/heroes/art/ling.webp)Ling](https://boostmlbb.ru/en/heroes/ling.html)
 
-### Easy targets
-
-This hero beats them
+### Who Melissa counters
 
 [![](/images/heroes/art/nana.webp)Nana](https://boostmlbb.ru/en/heroes/nana.html)[![](/images/heroes/art/yi-sun-shin.webp)Yi Sun-shin](https://boostmlbb.ru/en/heroes/yi-sun-shin.html)[![](/images/heroes/art/harley.webp)Harley](https://boostmlbb.ru/en/heroes/harley.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)[![](/images/heroes/art/pharsa.webp)Pharsa](https://boostmlbb.ru/en/heroes/pharsa.html)
 
@@ -273,6 +308,10 @@ This hero beats them
 Who counters Melissa in MLBB?
 
 Over the last 30 days the toughest opponents are Lolita, Popol and Kupa, Joy, Leomord and Ling.
+
+How do you play Melissa?
+
+Level "Falling!" first and take the ultimate whenever it is available. Stronger late: 54.6% at 18–20 minutes. Do not take risks early, farm and fight together with your team. Teamfight combo: Link enemies with her 2nd Skill for increased damage. Use 1st Skill to keep them linked and her Ultimate to stop enemies from getting close.
 
 What is Melissa’s win rate right now?
 

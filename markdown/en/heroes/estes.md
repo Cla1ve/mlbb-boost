@@ -1,6 +1,6 @@
 ---
-title: "Estes MLBB: build, counters and skills | MLBB Boost"
-description: "Estes in Mobile Legends: the most popular ranked build, skills, counters and teammates. Support, 52.58% win rate, tier A."
+title: "Estes MLBB: build, combos and counters | MLBB Boost"
+description: "Estes in Mobile Legends: ranked build, skill combos, how to play and who counters Estes. Support, 52.58% win rate, tier A."
 canonical: https://boostmlbb.ru/en/heroes/estes.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 32.5%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -246,9 +246,45 @@ Support
     Focusing Mark
 
 
-## Skills
+## How to play Estes
 
-Level-up**Blessing of Moon Goddess**_›_**Moonlight Immersion**_›_**Domain of Moon Goddess**
+### Estes combos
+
+#### Teamfight
+
+1.  ![Domain of Moon Goddess](/images/mlbb/skills/estes-2.webp)2
+2.  ![Blessing of Moon Goddess](/images/mlbb/skills/estes-3.webp)Ult
+3.  ![Moonlight Immersion](/images/mlbb/skills/estes-1.webp)1
+
+Estes should use his 2nd Skill to slow down the enemy team, then heal his teammates with his Ultimate and 1st Skill.
+
+#### Laning
+
+1.  ![Domain of Moon Goddess](/images/mlbb/skills/estes-2.webp)2
+2.  ![Moonlight Immersion](/images/mlbb/skills/estes-1.webp)1
+
+Estes can use his 2nd Skill to slow down and poke enemies, and heal allies with his 1st Skill.
+
+### When strongest
+
+Stronger early: 58.9% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **58.9**10–12
+2.  **54.7**12–14
+3.  **51.2**14–16
+4.  **48.7**16–18
+5.  **48.0**18–20
+6.  **46.2**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/estes-3.webp)Blessing of Moon Goddess
+2.  ![](/images/mlbb/skills/estes-1.webp)Moonlight Immersion
+3.  ![](/images/mlbb/skills/estes-2.webp)Domain of Moon Goddess
+
+## Skills
 
 ![](/images/mlbb/skills/estes-0.webp)Passive**Scripture of the Moon Elf**![](/images/mlbb/skills/estes-1.webp)Skill 1**Moonlight Immersion**![](/images/mlbb/skills/estes-2.webp)Skill 2**Domain of Moon Goddess**![](/images/mlbb/skills/estes-3.webp)Ultimate**Blessing of Moon Goddess**
 
@@ -290,17 +326,13 @@ Estes casts an enhanced Moonlight Immersion on himself and all nearby allied her
 
 **Enhanced Moonlight Immersion:** Doubles the Instant Basic Healing and Increase, and heals the target for 1020 (+225% Total Magic Power) HP over time.
 
-## Counters
+## Estes counters
 
-### Counters
-
-Beat this hero
+### Who counters Estes
 
 [![](/images/heroes/art/cyclops.webp)Cyclops](https://boostmlbb.ru/en/heroes/cyclops.html)[![](/images/heroes/art/faramis.webp)Faramis](https://boostmlbb.ru/en/heroes/faramis.html)[![](/images/heroes/art/alice.webp)Alice](https://boostmlbb.ru/en/heroes/alice.html)[![](/images/heroes/art/cici.webp)Cici](https://boostmlbb.ru/en/heroes/cici.html)[![](/images/heroes/art/diggie.webp)Diggie](https://boostmlbb.ru/en/heroes/diggie.html)
 
-### Easy targets
-
-This hero beats them
+### Who Estes counters
 
 [![](/images/heroes/art/tigreal.webp)Tigreal](https://boostmlbb.ru/en/heroes/tigreal.html)[![](/images/heroes/art/nolan.webp)Nolan](https://boostmlbb.ru/en/heroes/nolan.html)[![](/images/heroes/art/franco.webp)Franco](https://boostmlbb.ru/en/heroes/franco.html)[![](/images/heroes/art/atlas.webp)Atlas](https://boostmlbb.ru/en/heroes/atlas.html)[![](/images/heroes/art/ixia.webp)Ixia](https://boostmlbb.ru/en/heroes/ixia.html)[![](/images/heroes/art/sora.webp)Sora](https://boostmlbb.ru/en/heroes/sora.html)[![](/images/heroes/art/beatrix.webp)Beatrix](https://boostmlbb.ru/en/heroes/beatrix.html)[![](/images/heroes/art/aurora.webp)Aurora](https://boostmlbb.ru/en/heroes/aurora.html)[![](/images/heroes/art/yin.webp)Yin](https://boostmlbb.ru/en/heroes/yin.html)[![](/images/heroes/art/vale.webp)Vale](https://boostmlbb.ru/en/heroes/vale.html)
 
@@ -319,6 +351,10 @@ This hero beats them
 Who counters Estes in MLBB?
 
 Over the last 30 days the toughest opponents are Cyclops, Faramis, Alice, Cici and Diggie.
+
+How do you play Estes?
+
+Level "Moonlight Immersion" first and take the ultimate whenever it is available. Stronger early: 58.9% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Estes should use his 2nd Skill to slow down the enemy team, then heal his teammates with his Ultimate and 1st Skill.
 
 What is Estes’s win rate right now?
 

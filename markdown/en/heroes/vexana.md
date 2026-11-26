@@ -1,6 +1,6 @@
 ---
-title: "Vexana MLBB: build, counters and skills | MLBB Boost"
-description: "Vexana in Mobile Legends: the most popular ranked build, skills, counters and teammates. Mage, 48.46% win rate, tier C."
+title: "Vexana MLBB: build, combos and counters | MLBB Boost"
+description: "Vexana in Mobile Legends: ranked build, skill combos, how to play and who counters Vexana. Mage, 48.46% win rate, tier C."
 canonical: https://boostmlbb.ru/en/heroes/vexana.html
 language: en
 ---
@@ -27,7 +27,7 @@ Ban rate
 
 0.4%
 
-[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
+[Overview](https://boostmlbb.ru/#overview)[Build](https://boostmlbb.ru/#build)[How to play](https://boostmlbb.ru/#howto)[Skills](https://boostmlbb.ru/#skills)[Counters](https://boostmlbb.ru/#draft)[Lore](https://boostmlbb.ru/#lore)
 
 ## Overview
 
@@ -247,9 +247,45 @@ Mage
     Impure Rage
 
 
-## Skills
+## How to play Vexana
 
-Level-up**Eternal Guard**_›_**Cursed Blast**_›_**Deathly Grasp**
+### Vexana combos
+
+#### Teamfight
+
+1.  ![Eternal Guard](/images/mlbb/skills/vexana-3.webp)Ult
+2.  ![Cursed Blast](/images/mlbb/skills/vexana-2.webp)2
+3.  ![Deathly Grasp](/images/mlbb/skills/vexana-1.webp)1
+
+Initiate teamfights with CC or follow up after other CC. Use her Ultimate when enemies are gathered, follow up with 2nd and 1st Skill combo for CC and damage.
+
+#### Laning
+
+1.  ![Deathly Grasp](/images/mlbb/skills/vexana-1.webp)1
+2.  ![Cursed Blast](/images/mlbb/skills/vexana-2.webp)2
+
+Terrify enemy with 1st Skill and follow up with 2nd Skill for guaranteed damage.
+
+### When strongest
+
+Stronger early: 54.5% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades.
+
+1.  **54.5**10–12
+2.  **51.1**12–14
+3.  **49.2**14–16
+4.  **47.7**16–18
+5.  **47.3**18–20
+6.  **47.2**20+
+
+Win rate % by match length in minutes, all ranks. Dashed line: 50%
+
+### Level-up priority
+
+1.  ![](/images/mlbb/skills/vexana-3.webp)Eternal Guard
+2.  ![](/images/mlbb/skills/vexana-2.webp)Cursed Blast
+3.  ![](/images/mlbb/skills/vexana-1.webp)Deathly Grasp
+
+## Skills
 
 ![](/images/mlbb/skills/vexana-0.webp)Passive**Nether Touch**![](/images/mlbb/skills/vexana-1.webp)Skill 1**Deathly Grasp**![](/images/mlbb/skills/vexana-2.webp)Skill 2**Cursed Blast**![](/images/mlbb/skills/vexana-3.webp)Ultimate**Eternal Guard**
 
@@ -285,11 +321,9 @@ Cooldown **60 Mana Cost: 120 s**
 
 Vexana summons an Eternal Guard at the target location, dealing 480 (+60% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 0.8s. The Eternal Guard then joins Vexana in battle for 15s. Its attacks deal 200 (+40% Total Magic Power) (+ 5% target's ) Magic Damage and Splash Damage in a large area.
 
-## Counters
+## Vexana counters
 
-### Counters
-
-Beat this hero
+### Who counters Vexana
 
 [![](/images/heroes/art/gloo.webp)Gloo](https://boostmlbb.ru/en/heroes/gloo.html)[![](/images/heroes/art/zhask.webp)Zhask](https://boostmlbb.ru/en/heroes/zhask.html)[![](/images/heroes/art/odette.webp)Odette](https://boostmlbb.ru/en/heroes/odette.html)[![](/images/heroes/art/chip.webp)Chip](https://boostmlbb.ru/en/heroes/chip.html)[![](/images/heroes/art/lolita.webp)Lolita](https://boostmlbb.ru/en/heroes/lolita.html)
 
@@ -308,6 +342,10 @@ Beat this hero
 Who counters Vexana in MLBB?
 
 Over the last 30 days the toughest opponents are Gloo, Zhask, Odette, Chip and Lolita.
+
+How do you play Vexana?
+
+Level "Cursed Blast" first and take the ultimate whenever it is available. Stronger early: 54.5% at 10–12 minutes. Push your lane, take objectives and close the game before the lead fades. Teamfight combo: Initiate teamfights with CC or follow up after other CC. Use her Ultimate when enemies are gathered, follow up with 2nd and 1st Skill combo for CC and damage.
 
 What is Vexana’s win rate right now?
 
